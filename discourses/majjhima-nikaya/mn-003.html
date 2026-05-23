@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 3 — Heirs in the Teaching | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Dhammadāyādasutta — on being heirs in the Dharma, not in material things. Includes Venerable Sāriputta's follow-up teaching. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 3
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 3</div>
+  <h1>Heirs in the Teaching</h1>
+  <p class="subtitle"><em>Dhammadāyādasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī</dd>
+      <dt>Audience</dt><dd>A community of mendicants — addressed first by the Buddha, then by Venerable Sāriputta</dd>
+      <dt>Form</dt><dd>15 sections in two parts: a short opening by the Buddha (§§1–3), and Sāriputta's longer continuation (§§4–15) after the Buddha withdraws</dd>
+      <dt>Length</dt><dd>~10 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>MA 88 (Madhyama-āgama, "Discourse on Seeking the Dharma")</dd>
+      <dt>Difficulty</dt><dd>★★☆☆☆ — accessible. The two-speaker structure and the pivotal food example make it unusually memorable.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, third</h2>
+    <p class="lede">
+      MN 1 and MN 2 were about the practitioner's inner work. MN 3 is the first MN discourse that turns outward — to the question of what a community of practitioners receives from its teacher, and what kind of inheritance is worth pursuing.
+    </p>
+    <p>
+      The setting is deliberately small: the Buddha has eaten and refused more food. Some almsfood will otherwise be thrown away. Two hungry monks arrive. The Buddha tells them they can eat the leftover food if they like, or he will discard it. One monk eats. The other goes hungry. The Buddha says the hungry monk is more worthy of respect — not because the other did anything wrong, but because of what each choice will conduce to over time.
+    </p>
+    <p>
+      The discourse is also a structural first in the Majjhima Nikāya. The Buddha speaks, finishes, gets up, and leaves. The teaching then continues — but in Sāriputta's voice. This is the first MN discourse with two speakers. The pattern matters: the Buddha plants the seed; the senior disciple unfolds it. The mode of transmission is itself part of the teaching.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Be heirs in the Dharma, not in things; and when the teacher withdraws into seclusion, train in seclusion yourself — give up what the teacher tells you to give up.
+    </p>
+
+    <h3>The two heirs</h3>
+    <p>
+      The discourse opens with a direct exhortation: <em>"Mendicants, be my heirs in the teaching, not in things of the flesh."</em> Two kinds of inheritance are named: <strong>heir in the Dharma</strong> <em>(dhammadāyāda)</em> and <strong>heir in things of the flesh</strong> <em>(āmisadāyāda)</em>. The Buddha frames the choice in social terms: if his disciples become heirs of the flesh, both the disciples and the Buddha himself will be liable to public accusation — that the school is a transaction, not a transmission.
+    </p>
+
+    <h3>The food example, and the praised monk</h3>
+    <p>
+      The Buddha then gives a concrete scenario. He has eaten and refused more food. Some almsfood will otherwise be thrown away. Two hungry monks appear. The Buddha says: eat it if you like, otherwise I'll discard it. One eats; the other doesn't. The Buddha says the monk who went hungry is more worthy of praise — not because the other transgressed, but because for the long haul, refusing easy food <em>conduces to</em> five qualities:
+    </p>
+    <ul>
+      <li><strong>Few wishes</strong> <em>(appicchatā)</em> — the mind that asks less.</li>
+      <li><strong>Content</strong> <em>(santuṭṭhi)</em> — the mind that is full with little.</li>
+      <li><strong>Self-effacement</strong> <em>(sallekha)</em> — the mind that does not project itself outward.</li>
+      <li><strong>Unburdensome</strong> <em>(subharatā)</em> — easy to support; not a load on the community.</li>
+      <li><strong>Energetic</strong> <em>(vīriya)</em> — the mind that has fuel for practice.</li>
+    </ul>
+    <p>
+      Notice what the Buddha does <em>not</em> say. He does not say the eating monk did wrong. He simply identifies what each habit, repeated over a lifetime, will produce. This is one of the canonical passages on the difference between rule-following and orientation.
+    </p>
+
+    <h3>The transition: the Buddha leaves, Sāriputta picks up</h3>
+    <p>
+      The Buddha finishes, rises from his seat, and enters his dwelling. The discourse then turns. Sāriputta — the Buddha's foremost disciple in wisdom — addresses the remaining monks. He asks two paired questions:
+    </p>
+    <ul>
+      <li><em>"How do the disciples of a teacher who lives in seclusion <strong>not</strong> train in seclusion?"</em></li>
+      <li><em>"How do they train in seclusion?"</em></li>
+    </ul>
+    <p>
+      This is a quietly radical move. The Buddha withdraws into seclusion; will the community follow? Or will they immediately fall back into ease, indulgence, and the slack of being out from under the teacher's eye?
+    </p>
+
+    <h3>The three grounds of criticism (or praise)</h3>
+    <p>Sāriputta's answer is fully structural. Disciples of a teacher who lives in seclusion can be criticized on three grounds:</p>
+    <table>
+      <thead>
+        <tr><th>#</th><th>Failure</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>They themselves do not train in seclusion</td></tr>
+        <tr><td>2</td><td>They don't give up what the Teacher tells them to give up</td></tr>
+        <tr><td>3</td><td>They are indulgent, slack, leaders in backsliding, neglecting seclusion</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Or, in their positive form, praised on the same three. The structure is uncompromising: the senior monks should be evaluated on these three; so should the middle monks; so should the junior. Rank does not exempt anyone.
+    </p>
+
+    <h3>The eight pairs of defilements</h3>
+    <p>
+      Sāriputta then names eight pairs of defilements — sixteen qualities in total — that are to be given up. For each pair, the same formula is invoked: there is a Middle Way of practice for giving them up, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. And that Middle Way is the Noble Eightfold Path.
+    </p>
+    <table>
+      <thead><tr><th>Pair #</th><th>Defilements</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Greed and hate</td></tr>
+        <tr><td>2</td><td>Anger and acrimony</td></tr>
+        <tr><td>3</td><td>Disdain and contempt</td></tr>
+        <tr><td>4</td><td>Jealousy and stinginess</td></tr>
+        <tr><td>5</td><td>Deceit and deviousness</td></tr>
+        <tr><td>6</td><td>Obstinacy and aggression</td></tr>
+        <tr><td>7</td><td>Conceit and arrogance</td></tr>
+        <tr><td>8</td><td>Vanity and negligence</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The list is a mirror to hold up against one's own community life. Pairs 1, 3, 7, 8 are perennial. Pairs 2, 4, 5, 6 are what arise specifically in groups under stress — the politics of a sangha that has lost its way.
+    </p>
+
+    <h3>The Middle Way as the unifier</h3>
+    <p>
+      Eight different defilements, one prescription. Sāriputta does not give a different cure for each pair; he gives the Eightfold Path as the cure for all of them. This is the discourse's quiet structural argument: the Path is not a technique aimed at a single defilement; it is a way of life that, when adopted, withers every kind of unwholesome quality at its root.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      Consider any organization built around a charismatic founder. When the founder is present, behavior is good. When the founder is absent — whether for an hour, a sabbatical, or after their death — what happens? In most cases the community drifts. Practices become rituals; rituals become formalities; formalities become hollow. MN 3 is the antidote: train in seclusion <em>while</em> the teacher is in seclusion. Give up what the teacher would tell you to give up, without needing the teacher there to tell you. The discourse is asking for a community that doesn't degrade in the absence of supervision.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Isn't the praised monk being needlessly austere? Hungry equals more virtuous?"</strong> No — the Buddha is explicit: the praised monk's hunger is not the point; the long-run habit-formation is the point. The discourse is about <em>orientation</em>, not <em>asceticism</em>. The same act done out of pride or self-display would not produce the five qualities. The opposite act done out of genuine, undramatic need would not exclude them.</p>
+
+    <p><strong>"Why is Sāriputta speaking? Doesn't the Buddha's authority outrank his?"</strong> Yes, and the discourse uses this. The Buddha sets the frame; Sāriputta develops it. The implicit teaching is that the Dharma is not in any single voice — including the Buddha's. A community of practitioners is a community of teachers, with the Buddha as foremost. Sāriputta speaking after the Buddha leaves is the first example in the MN of what a healthy sangha actually looks like: the senior disciple carries the teaching when the founder steps back.</p>
+
+    <p><strong>"Eight pairs all answered by the same Eightfold Path — isn't that a cop-out?"</strong> It would be, if the Eightfold Path were a slogan. The discourse is making a subtle structural point: defilements look different on the surface (jealousy and arrogance are not the same experience), but they share a common root in unwholesome orientation of view, intention, speech, action, livelihood, effort, mindfulness, and concentration. The cure is at the root, not at the symptom.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">dhammadāyāda</span> — heir in the Dharma. From <em>dhamma</em> (the teaching) + <em>dāyāda</em> (heir). The kind of inheritance the Buddha is asking his disciples to pursue.
+      </div>
+      <div class="term">
+        <span class="pali-word">āmisadāyāda</span> — heir in things of the flesh / heir in material things. From <em>āmisa</em> (material things, raw flesh, what can be consumed) + <em>dāyāda</em>. The kind of inheritance the Buddha is asking his disciples <em>not</em> to pursue.
+      </div>
+      <div class="term">
+        <span class="pali-word">viveka</span> — seclusion. Used three different ways in early Buddhism: physical solitude, mental detachment from defilements, and detachment from clinging to the aggregates. Sāriputta's question is about all three at once.
+      </div>
+      <div class="term">
+        <span class="pali-word">pavivekā</span> — secluded, in seclusion. The state cultivated by training in <em>viveka</em>.
+      </div>
+      <div class="term">
+        <span class="pali-word">appicchatā</span> — few wishes. The first of the five qualities the praised monk's habit will conduce to.
+      </div>
+      <div class="term">
+        <span class="pali-word">santuṭṭhi</span> — contentment. The second of the five qualities.
+      </div>
+      <div class="term">
+        <span class="pali-word">sallekha</span> — self-effacement, "scraping away." Literally the act of polishing or removing the surface layer of self-projection. Has its own dedicated discourse later (MN 8).
+      </div>
+      <div class="term">
+        <span class="pali-word">subharatā</span> — being easy to support, "unburdensome." A monastic virtue with social meaning: the community is not strained by your support.
+      </div>
+      <div class="term">
+        <span class="pali-word">majjhimā paṭipadā</span> — the Middle Way of practice. The Buddha's classical name for the Noble Eightfold Path — not the middle between extremes of pleasure and asceticism (the famous framing), but here, the middle way of practice that abandons defilements.
+      </div>
+      <div class="term">
+        <span class="pali-word">ariya aṭṭhaṅgika magga</span> — the Noble Eightfold Path. Sāriputta names all eight: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, right immersion.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 3 has two clear parts: the Buddha's opening teaching (§§1–3) and Sāriputta's continuation after the Buddha withdraws (§§4 onward). The final stretch (the eight pairs of defilements) uses Sujato's print convention of giving the first cycle in full and listing the rest as a single chain ending with the last cycle restated in full. The translation is Bhikkhu Sujato's, released CC0 by SuttaCentral.
+    </div>
+
+    <div class="text-block">
+
+      <h3>The Buddha speaks</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There the Buddha addressed the mendicants, "Mendicants!" "Venerable sir," they replied. The Buddha said this:</p>
+
+      <p><span class="segno">§2</span>"Mendicants, be my heirs in the teaching, not in things of the flesh. Out of sympathy for you, I think, 'How can my disciples become heirs in the teaching, not in things of the flesh?' If you become heirs in things of the flesh, not in the teaching, that will make you liable to the accusation: 'The Teacher's disciples live as heirs in things of the flesh, not in the teaching.' And it will make me liable to the accusation: 'The Teacher's disciples live as heirs in things of the flesh, not in the teaching.' If you become heirs in the teaching, not in things of the flesh, that will make you not liable to the accusation: 'The Teacher's disciples live as heirs in the teaching, not in things of the flesh.' And it will make me not liable to the accusation: 'The Teacher's disciples live as heirs in the teaching, not in things of the flesh.' So, mendicants, be my heirs in the teaching, not in things of the flesh. Out of sympathy for you, I think, 'How can my disciples become heirs in the teaching, not in things of the flesh?'</p>
+
+      <p><span class="segno">§3</span>Suppose that I had eaten and refused more food, being replete, and having had as much as I needed. And there was some extra almsfood that was going to be thrown away. Then two mendicants were to come who were weak with hunger. I'd say to them, 'Mendicants, I have eaten and refused more food, being replete, and having had as much as I need. And there is this extra almsfood that's going to be thrown away. Eat it if you like. Otherwise I'll throw it out where there is little that grows, or drop it into water that has no living creatures.' Then one of those mendicants thought, 'The Buddha has eaten and refused more food. And he has some extra almsfood that's going to be thrown away. If we don't eat it he'll throw it away. But the Buddha has also said: "Be my heirs in the teaching, not in things of the flesh." And almsfood is one of the things of the flesh. Instead of eating this almsfood, why don't I spend this day and night weak with hunger?' And that's what they did. Then the second of those mendicants thought, 'The Buddha has eaten and refused more food. And he has some extra almsfood that's going to be thrown away. If we don't eat it he'll throw it away. Why don't I eat this almsfood, then spend the day and night having got rid of my hunger and weakness?' And that's what they did. Even though that mendicant, after eating the almsfood, spent the day and night rid of hunger and weakness, it is the former mendicant who is more worthy of respect and praise. Why is that? Because for a long time that will conduce to that mendicant being of few wishes, content, self-effacing, unburdensome, and energetic. So, mendicants, be my heirs in the teaching, not in things of the flesh. Out of sympathy for you, I think, 'How can my disciples become heirs in the teaching, not in things of the flesh?'"</p>
+
+      <h3>Sāriputta takes over</h3>
+
+      <p><span class="segno">§4</span>That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling. Then soon after the Buddha left, Venerable Sāriputta said to the mendicants, "Reverends, mendicants!" "Reverend," they replied. Sāriputta said this:</p>
+
+      <p><span class="segno">§5</span>"Reverends, how do the disciples of a Teacher who lives in seclusion not train in seclusion? And how do they train in seclusion?" "Reverend, we would travel a long way to learn the meaning of this statement in the presence of Venerable Sāriputta. May Venerable Sāriputta himself please clarify the meaning of this. The mendicants will listen and remember it." "Well then, reverends, listen and apply your mind well, I will speak." "Yes, reverend," they replied. Sāriputta said this:</p>
+
+      <p><span class="segno">§6</span>"Reverends, how do the disciples of a Teacher who lives in seclusion not train in seclusion? The disciples of a teacher who lives in seclusion do not train in seclusion. They don't give up what the Teacher tells them to give up. They're indulgent and slack, leaders in backsliding, neglecting seclusion. In this case, the senior mendicants should be criticized on three grounds. 'The disciples of a teacher who lives in seclusion do not train in seclusion.' This is the first ground. 'They don't give up what the Teacher tells them to give up.' This is the second ground. 'They're indulgent and slack, leaders in backsliding, neglecting seclusion.' This is the third ground. The senior mendicants should be criticized on these three grounds. In this case, the middle mendicants and the junior mendicants should be criticized on the same three grounds. This is how the disciples of a Teacher who lives in seclusion do not train in seclusion.</p>
+
+      <p><span class="segno">§7</span>And how do the disciples of a teacher who lives in seclusion train in seclusion? The disciples of a teacher who lives in seclusion train in seclusion. They give up what the Teacher tells them to give up. They're not indulgent and slack, leaders in backsliding, neglecting seclusion. In this case, the senior mendicants should be praised on three grounds. 'The disciples of a teacher who lives in seclusion train in seclusion.' This is the first ground. 'They give up what the Teacher tells them to give up.' This is the second ground. 'They're not indulgent and slack, leaders in backsliding, neglecting seclusion.' This is the third ground. The senior mendicants should be praised on these three grounds. In this case, the middle mendicants and the junior mendicants should be praised on the same three grounds. This is how the disciples of a Teacher who lives in seclusion train in seclusion.</p>
+
+      <h3>The eight pairs of defilements</h3>
+
+      <p><span class="segno">§8</span>The bad thing here is greed and hate. There is a middle way of practice for giving up greed and hate. It gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. And what is that middle way of practice? It is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is that middle way of practice, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment.</p>
+
+      <div class="compact">
+        <strong>§§9–14</strong> — The same formula is then repeated for six more pairs: <em>anger and acrimony · disdain and contempt · jealousy and stinginess · deceit and deviousness · obstinacy and aggression · conceit and arrogance</em>. For each, the same Middle Way — the Noble Eightfold Path — is given as the means of giving them up.
+      </div>
+
+      <p><span class="segno">§15</span>The bad thing here is vanity and negligence. There is a middle way of practice for giving up vanity and negligence. It gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment. And what is that middle way of practice? It is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is that middle way of practice, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment."</p>
+
+      <p style="margin-top:20px"><strong>This is what Venerable Sāriputta said. Satisfied, the mendicants approved what Sāriputta said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What are the two kinds of inheritance the Buddha names in the opening?</div>
+        <button class="opt">Inheritance from your father and inheritance from your mother</button>
+        <button class="opt">Heir in the Dharma (dhammadāyāda) and heir in things of the flesh (āmisadāyāda)</button>
+        <button class="opt">Material inheritance and karmic inheritance</button>
+        <button class="opt">Worldly knowledge and spiritual knowledge</button>
+        <div class="expl"><strong>Correct: B.</strong> The two terms set up the entire discourse. <em>Dhammadāyāda</em> is the inheritance the Buddha wants his disciples to pursue: the teaching itself. <em>Āmisadāyāda</em> — heir in "things of the flesh" — is everything material that can be given and received around the teaching: food, robes, lodging, support.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What is structurally unique about MN 3 compared with MN 1 and MN 2?</div>
+        <button class="opt">It is shorter</button>
+        <button class="opt">It uses more parables</button>
+        <button class="opt">It has two speakers: the Buddha gives a teaching and leaves, then Sāriputta continues</button>
+        <button class="opt">It is set somewhere other than Sāvatthī</button>
+        <div class="expl"><strong>Correct: C.</strong> MN 1 and MN 2 are both Buddha-only discourses. MN 3 is the first in the Majjhima Nikāya where the Buddha speaks, withdraws, and a senior disciple — here Sāriputta — picks up the teaching. The structural innovation is itself part of the message: the Dharma is to be carried by the community, not only by the Buddha's voice.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">In the food example, which monk does the Buddha say is more worthy of respect and praise?</div>
+        <button class="opt">The monk who went hungry rather than eat leftover almsfood</button>
+        <button class="opt">The monk who ate the almsfood and was free of hunger</button>
+        <button class="opt">Both equally — they made personal choices</button>
+        <button class="opt">Neither — both were caught in extremes</button>
+        <div class="expl"><strong>Correct: A.</strong> But notice the Buddha's reasoning carefully: it is not that the eating monk did anything wrong, and it is not the hunger itself that is praised. The praise is for the long-run <em>orientation</em>: refusing easy food, over a lifetime, conduces to five specific qualities (few wishes, content, self-effacing, unburdensome, energetic).</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">The Buddha says the praised monk's habit will conduce to five qualities. Which set is correct?</div>
+        <button class="opt">Wisdom, virtue, concentration, energy, equanimity</button>
+        <button class="opt">Mindfulness, investigation, energy, rapture, tranquility</button>
+        <button class="opt">Few wishes, content, self-effacing, unburdensome, energetic</button>
+        <button class="opt">Generosity, ethics, patience, vigour, meditation</button>
+        <div class="expl"><strong>Correct: C.</strong> <em>Appicchatā · santuṭṭhi · sallekha · subharatā · vīriya</em>. These five form a recurring monastic-virtue cluster in the canon. "Unburdensome" (<em>subharatā</em>) is especially worth noticing — it names a virtue with explicit social meaning: easy to support, not a load on the community.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">After the Buddha leaves, Sāriputta poses a paired question. What is it?</div>
+        <button class="opt">How should monks beg for almsfood?</button>
+        <button class="opt">How do disciples of a teacher who lives in seclusion <em>not</em> train in seclusion, and how do they train in seclusion?</button>
+        <button class="opt">How should monks treat the teacher when present and when absent?</button>
+        <button class="opt">What is the Middle Way?</button>
+        <div class="expl"><strong>Correct: B.</strong> Sāriputta's question is about what happens when the teacher steps back. Will the disciples follow the teacher into seclusion of practice, or relapse into ease? It is a quietly radical question — and the basis for everything Sāriputta says afterwards.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">Sāriputta says disciples of a teacher in seclusion can be criticized on three grounds (or praised on the same three). Which set is correct?</div>
+        <button class="opt">Poor view · poor conduct · poor concentration</button>
+        <button class="opt">Greed · hatred · delusion</button>
+        <button class="opt">They themselves do not train in seclusion · they don't give up what the Teacher tells them to give up · they are indulgent and slack, leading backsliding</button>
+        <button class="opt">Lack of respect for elders · lack of respect for the rules · lack of respect for the Teacher</button>
+        <div class="expl"><strong>Correct: C.</strong> The three apply to seniors, middle, and juniors alike — Sāriputta is explicit that rank does not exempt anyone. The criteria are about how the community behaves when the founder is not in the room.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">Sāriputta names a "Middle Way of practice" for giving up each pair of defilements. What does he specifically identify this Middle Way as?</div>
+        <button class="opt">The Four Foundations of Mindfulness</button>
+        <button class="opt">The Seven Factors of Awakening</button>
+        <button class="opt">The Noble Eightfold Path</button>
+        <button class="opt">The Three Trainings (virtue, concentration, wisdom)</button>
+        <div class="expl"><strong>Correct: C.</strong> Right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, right immersion. The Buddha's classical "Middle Way of practice." Sāriputta repeats this answer for each of the eight pairs — making the structural point that one path addresses all defilements at their root.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">What is the FIRST pair of defilements Sāriputta lists?</div>
+        <button class="opt">Greed and hate</button>
+        <button class="opt">Conceit and arrogance</button>
+        <button class="opt">Vanity and negligence</button>
+        <button class="opt">Anger and acrimony</button>
+        <div class="expl"><strong>Correct: A.</strong> Greed and hate (lobha and dosa) are the first two of the classical three unwholesome roots (the third being delusion). Sāriputta begins the eight-pair list with the most fundamental cluster.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What is the LAST pair of defilements Sāriputta lists?</div>
+        <button class="opt">Greed and hate</button>
+        <button class="opt">Conceit and arrogance</button>
+        <button class="opt">Deceit and deviousness</button>
+        <button class="opt">Vanity and negligence</button>
+        <div class="expl"><strong>Correct: D.</strong> The sequence closes with <em>mada</em> (vanity, intoxication of self) and <em>pamāda</em> (negligence, heedlessness). Notice the structural arc: the list begins with the obvious gross defilements (greed, hate) and ends with the subtle ones (self-intoxication, heedlessness) — the kind that survive the longest on the path.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">How does the discourse end?</div>
+        <button class="opt">"That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said."</button>
+        <button class="opt">"That is what the Buddha said. But the mendicants did not approve."</button>
+        <button class="opt">"This is what Venerable Sāriputta said. Satisfied, the mendicants approved what Sāriputta said."</button>
+        <button class="opt">The discourse ends without a closing formula.</button>
+        <div class="expl"><strong>Correct: C.</strong> The closing formula is unusual: the approval is for <em>Sāriputta's</em> teaching, not the Buddha's. Combined with MN 1 ("did not approve the Buddha") and MN 2 ("approved what the Buddha said"), the three closing lines form a deliberate triad: rejecting the Buddha, accepting the Buddha, accepting the senior disciple. The canon's editors used these three lines to mark the maturation of the community across the opening trio.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">dhammadāyāda</span>heir in the Dharma</li>
+        <li><span class="pali">āmisadāyāda</span>heir in things of the flesh</li>
+        <li><span class="pali">viveka</span>seclusion</li>
+        <li><span class="pali">appicchatā</span>few wishes</li>
+        <li><span class="pali">santuṭṭhi</span>contentment</li>
+        <li><span class="pali">sallekha</span>self-effacement</li>
+        <li><span class="pali">subharatā</span>easy to support</li>
+        <li><span class="pali">majjhimā paṭipadā</span>the Middle Way of practice</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 1 · Root of All Things</li>
+        <li>MN 2 · All the Defilements</li>
+        <li>MN 8 · Self-Effacement (sallekha expanded)</li>
+        <li>MN 22 · Simile of the Cobra (right use of teachings)</li>
+        <li>MN 24 · A Chariot at the Ready (Sāriputta again)</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn3/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN3.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — uses "Dharma" rather than "the teaching," with brief commentary.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_088" target="_blank" rel="noopener">Northern parallel — MA 88</a> — the Chinese Madhyama-āgama counterpart ("Discourse on Seeking the Dharma"), in the chapter on defilements.</li>
+      <li><a href="https://suttacentral.net/mn8/en/sujato" target="_blank" rel="noopener">MN 8 · Sallekhasutta</a> — "Self-Effacement." Develops the third of the five praised qualities (<em>sallekha</em>) into its own discourse.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-002.html"><span class="label">← Previous</span>MN 2 · All the Defilements</a>
+    <a href="mn-004.html" class="next"><span class="label">Next →</span>MN 4 · Fear and Dread</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

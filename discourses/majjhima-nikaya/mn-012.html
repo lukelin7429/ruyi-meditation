@@ -1,0 +1,1221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 12 — The Longer Discourse on the Lion's Roar | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Mahāsīhanādasutta — the Buddha's longest and most personal account of his own qualifications: the ten powers, four self-assurances, and the years of extreme asceticism he tried and rejected. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 12
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 12</div>
+  <h1>The Longer Discourse on the Lion's Roar</h1>
+  <p class="subtitle"><em>Mahāsīhanādasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>A woodland grove west of Vesālī. The Buddha is not in his usual base.</dd>
+      <dt>Speaker</dt><dd>The Buddha, in response to Sāriputta's report of slander by Sunakkhatta the Licchavi, a former disciple who had left the teaching</dd>
+      <dt>Form</dt><dd>64 sections. One of the longest single discourses in the Majjhima Nikāya. Six major movements: the frame, the ten powers, the four self-assurances, the eight assemblies and five destinations, the Buddha's pre-awakening austerities in vivid detail, and the closing on the age objection</dd>
+      <dt>Length</dt><dd>~40 minutes to read. The discourse's alternative name, given by the Buddha himself, is "The Hair-raising Discourse" (<em>Lomahaṁsana-pariyāya</em>) — both for the awe its content provokes and for the asceticism it describes.</dd>
+      <dt>Northern parallel</dt><dd>No direct MA counterpart. Partial overlap with T 757 (the "Hair-raising Discourse" in the Chinese canon).</dd>
+      <dt>Difficulty</dt><dd>★★★★☆ — long and content-dense. The austerities section is graphically vivid and culturally challenging for modern readers. Pace yourself.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, twelfth</h2>
+    <p class="lede">
+      MN 11 was the Buddha's lion's roar in twenty lines. MN 12 is the lion's roar at full length — the longest single statement the Buddha makes of his own qualifications anywhere in the Majjhima Nikāya. It contains the canonical list of the ten powers of a Tathāgata, the four self-assurances, the survey of the eight assemblies he can enter without fear, the five destinations and their famous similes, and — uniquely — the most detailed and graphic account in the canon of the extreme asceticism the Buddha himself tried and rejected before his awakening.
+    </p>
+    <p>
+      The occasion is personal. Sunakkhatta, a former disciple who had left the order, was publicly disparaging the Buddha in Vesālī: <em>"The ascetic Gotama has no superhuman distinction in knowledge and vision worthy of the noble ones. He teaches what he's worked out by logic."</em> Sāriputta heard this on his alms round and reported it. What followed is the Buddha's longest and most personal defense of the teaching — not in defensive terms, but in the form of a precise inventory: <em>here is what I actually have, here is what I actually know, here is what I myself once tried and abandoned</em>.
+    </p>
+    <p>
+      The discourse is also the closest thing in the canon to a Buddhist autobiography. The austerities section (§§44–56) walks the reader, step by graphic step, through the six years of self-mortification the Buddha undertook before the awakening — including the cow-dung eating, the charnel-ground beds, the body emaciated to the point where the skin of the belly touched the backbone. The Buddha is not boasting; he is testifying. He went further than any of the ascetics now claiming to know more than him — and he found nothing there.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      A teacher's authority is grounded in three things — the powers actually possessed, the assemblies actually entered without fear, and the paths actually walked to their ends — and the Buddha is making each of these visible in detail as the proper foundation for the lion's roar.
+    </p>
+
+    <h3>The frame — Sunakkhatta's defection</h3>
+    <p>
+      Sunakkhatta the Licchavi has recently left the Buddha's teaching. In Vesālī, he is telling a crowd: <em>"The ascetic Gotama has no superhuman distinction in knowledge and vision worthy of the noble ones. He teaches what he's worked out by logic, following a line of inquiry, expressing his own perspective. And his teaching leads those who practice it to the complete ending of suffering, the goal for which it's taught."</em>
+    </p>
+    <p>
+      The Buddha's first response is a verbal sleight: <em>Sunakkhatta is angry. His words are spoken out of anger. Thinking he criticizes the Realized One, in fact he just praises him.</em> The "criticism" — that the teaching nonetheless leads to the complete ending of suffering — is itself a complete vindication. Whatever Sunakkhatta thinks the Buddha is, the teaching works.
+    </p>
+
+    <h3>What Sunakkhatta cannot infer</h3>
+    <p>The Buddha then names four kinds of knowledge that Sunakkhatta, lacking confidence, will not infer about the Buddha from the teaching:</p>
+    <ol>
+      <li>The standard canonical recitation of the Buddha's qualities (<em>Itipi so…</em> — the same formula as in MN 7)</li>
+      <li>Psychic powers (the eight kinds, identical to MN 6 §14)</li>
+      <li>Clairaudience</li>
+      <li>Mind-reading (the eight pairs, identical to MN 6 §16)</li>
+    </ol>
+    <p>
+      The structure is precise: Sunakkhatta's anger blinds him not to the teaching but to what the teacher has. The discourse then proceeds to make that inventory explicit.
+    </p>
+
+    <h3>The ten powers of a Tathāgata</h3>
+    <p>The canonical inventory. The Buddha possesses these ten kinds of knowledge, and "with these he claims the bull's place, roars his lion's roar in the assemblies, and turns the divine wheel":</p>
+    <table>
+      <thead><tr><th>#</th><th>Power</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Understanding the possible as possible, the impossible as impossible</td></tr>
+        <tr><td>2</td><td>The result of deeds in past, future, and present, in terms of grounds and causes</td></tr>
+        <tr><td>3</td><td>Where all paths of practice lead</td></tr>
+        <tr><td>4</td><td>The world with its many and diverse elements</td></tr>
+        <tr><td>5</td><td>The diverse convictions of sentient beings</td></tr>
+        <tr><td>6</td><td>The faculties of other sentient beings, having encompassed them with the mind</td></tr>
+        <tr><td>7</td><td>Corruption, cleansing, and emergence regarding the absorptions, liberations, immersions, and attainments</td></tr>
+        <tr><td>8</td><td>Recollection of many kinds of past lives, with features and details</td></tr>
+        <tr><td>9</td><td>Clairvoyance — seeing beings reborn according to their deeds</td></tr>
+        <tr><td>10</td><td>The undefiled freedom of heart and freedom by wisdom — knowing the ending of defilements</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Items 8, 9, 10 are the three knowledges (<em>tevijjā</em>) that MN 4 named as the night of awakening. Items 1–7 are the additional faculties of a Buddha — knowledges about the structure of possibility, about karma, about paths, about the world, about minds, about meditative states.
+    </p>
+
+    <h3>The four self-assurances</h3>
+    <p>The four <em>vesārajja</em> — the four "freedoms from fear" — name four claims no one can legitimately make against the Buddha. He has tested himself and found these grounds secure:</p>
+    <ol>
+      <li>"You claim to be fully awakened but don't understand these things" — <em>no one can rightly say this to me</em></li>
+      <li>"You claim to have ended all defilements but still have these defilements" — <em>no one can rightly say this</em></li>
+      <li>"The acts you say are obstructions are not really obstructions" — <em>no one can rightly say this</em></li>
+      <li>"The teaching doesn't lead those who practice it to the complete ending of suffering" — <em>no one can rightly say this</em></li>
+    </ol>
+    <p>
+      Notice the asymmetry. The Buddha is not saying no one ever <em>does</em> say these things (Sunakkhatta just did). He is saying no one can <em>legitimately</em> say them — they cannot be defended on examination. Self-assurance is the absence of vulnerability to legitimate criticism, not the absence of all criticism.
+    </p>
+
+    <h3>The eight assemblies</h3>
+    <p>The Buddha then names the eight kinds of assemblies into which he has gone and spoken without fear:</p>
+    <table>
+      <thead><tr><th>Realm</th><th>Assemblies</th></tr></thead>
+      <tbody>
+        <tr><td>Human</td><td>Aristocrats · brahmins · householders · ascetics</td></tr>
+        <tr><td>Divine</td><td>Gods of the four great kings · gods of the thirty-three · Māras · divinities</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The eight cover the spectrum of audiences a being in this cosmology can address. The Buddha says: in each of these, "I used to sit with them, converse, and engage in discussion. But I don't see any reason to feel afraid or insecure."
+    </p>
+
+    <h3>The five destinations and their similes</h3>
+    <p>The Buddha then surveys the five places sentient beings are reborn — and provides, for each, a precise simile in which he can see a person's destination from the way they are now walking:</p>
+    <table>
+      <thead><tr><th>Destination</th><th>Simile</th></tr></thead>
+      <tbody>
+        <tr><td>Hell</td><td>A pit of glowing coals deeper than a man's height, full of coals that neither flame nor smoke. A weary, thirsty traveler is walking toward it.</td></tr>
+        <tr><td>Animal realm</td><td>A sewer deeper than a man's height, full to the brim with feces. The traveler is walking toward it.</td></tr>
+        <tr><td>Ghost realm</td><td>A tree on rugged ground with thin foliage casting dappled shade. The traveler will sit under it and feel mostly painful feelings.</td></tr>
+        <tr><td>Humanity</td><td>A tree on smooth ground with abundant foliage casting dense shade. The traveler will feel mostly pleasant feelings.</td></tr>
+        <tr><td>The gods</td><td>A stilt longhouse with a peaked roof, plastered, draft-free, with a woolen-covered couch. The traveler will feel perfect happiness.</td></tr>
+        <tr><td><em>(extra)</em> Arahantship</td><td>A lotus pond with clear, sweet, cool water, smooth banks, a dense forest grove nearby. The traveler plunges in, bathes, drinks, emerges, sits in the grove.</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The sixth simile — the lotus pond — is the discourse's quiet hint about where the path actually ends. The five destinations are within the cycle of rebirth. The lotus pond is outside it. The traveler in each simile is the practitioner approaching the result of their own current way of living.
+    </p>
+
+    <h3>The pre-awakening austerities (§§44–56) — what the Buddha tried and rejected</h3>
+    <p>
+      Now the discourse turns to autobiography. The Buddha says he himself practiced — before his awakening — every kind of extreme asceticism known to his time. The account is detailed and graphic. Read it as the testimony of someone reporting from the inside.
+    </p>
+    <p>
+      <strong>The four factors</strong>: he was a fervent mortifier, a rough-liver, one disgusted with sin, and one practicing extreme seclusion — and the ultimate version of each. He went naked. He refused food from any "tainted" source (pregnant women, breastfeeding women, any place where flies were buzzing, where a hound waited, where weapons were present). He ate one mouthful at a time from one house — sometimes only once a fortnight. He ate herbs, millet, wild rice, water lettuce, cow dung, his own urine and excrement. He wore robes of hemp, corpse-wrappings, tree bark, antelope hide, human hair, owls' wings. He tore out his beard and hair. He stood constantly. He squatted permanently. He slept on a bed of thorns. He performed ritual bathing three times daily.
+    </p>
+    <p>
+      <strong>The rough living</strong> (§46): dust and dirt built up on his body over many years until it began flaking off "like the trunk of a pale-moon ebony tree." He did not rub it off.
+    </p>
+    <p>
+      <strong>The disgust of sin</strong> (§47): he stepped so carefully that he was concerned about injuring drops of water.
+    </p>
+    <p>
+      <strong>The seclusion</strong> (§48): when he saw any human being — a cowherd, a lumberjack — he fled like a wild deer, "from forest to forest, from thicket to thicket, from valley to valley, from uplands to uplands."
+    </p>
+    <p>
+      <strong>The cow-dung diet</strong> (§49): he ate the dung of suckling calves; when his own urine and excrement remained, he ate that.
+    </p>
+    <p>
+      <strong>The extreme weather practice</strong> (§50): in the cold January nights when snow falls, he stayed in the open at night and in the forest by day. In the hot months, he reversed it. The verses he composed himself: <em>"Scorched and frozen, alone in the awe-inspiring forest, nude, no fire to sit beside, the sage still pursues his quest."</em>
+    </p>
+    <p>
+      <strong>The charnel ground bed</strong> (§51): he made his bed in a charnel ground, using human bones as a pillow. Village louts came and spat on him, pissed on him, threw mud on him, poked sticks in his ears. <em>"But I don't recall ever having a bad thought about them."</em>
+    </p>
+    <p>
+      <strong>The jujube fast</strong> (§52): the most graphic. Other ascetics taught that purity comes from food. They lived on jujubes only. The Buddha says: "I recall eating just a single jujube." The body that resulted: limbs like an eighty-year-old's, bottom like a camel's hoof, vertebrae sticking out like beads on a string, ribs as gaunt as broken rafters. The eyes had sunk so deep "like the gleam of water sunk deep down a well." The scalp shriveled like a green gourd dried in the sun. The skin of his belly touched his backbone, so that "when I tried to rub the skin of my belly I grabbed my backbone, and when I tried to rub my backbone I rubbed the skin of my belly." When he tried to defecate or urinate, he fell face down. When he tried to massage his limbs, the hair fell out at the roots.
+    </p>
+    <p>
+      The same extremity was practiced (§§53–55) on diets of mung beans only, sesame only, plain rice only. Each ended the same way.
+    </p>
+    <p>
+      <strong>The conclusion</strong> (§56): <em>"But Sāriputta, I did not achieve any superhuman distinction in knowledge and vision worthy of the noble ones by that conduct, that practice, that grueling work. Why is that? Because I didn't achieve that noble wisdom that's noble and emancipating, and which delivers one who practices it to the complete ending of suffering."</em>
+    </p>
+    <p>
+      This is the canon's most direct, most graphic, most authoritative statement that asceticism for its own sake does not produce awakening. The Buddha is not theorizing; he is reporting. He tried. He went further than anyone. It did not work.
+    </p>
+
+    <h3>The six wrong views about purity</h3>
+    <p>Closing this autobiographical section, the Buddha names six theories of purity that other ascetics held — and his own experience with each:</p>
+    <ol>
+      <li><strong>Purity from food</strong> — already addressed at length</li>
+      <li><strong>Purity from transmigration</strong> — there is no realm he has not been to (except the pure abodes)</li>
+      <li><strong>Purity from rebirth</strong> — there is no rebirth he has not had</li>
+      <li><strong>Purity from abode</strong> — there is no abode he has not lived in</li>
+      <li><strong>Purity from sacrifice</strong> — there is no sacrifice he has not offered, when he was a king or wealthy brahmin</li>
+      <li><strong>Purity from serving the sacred flame</strong> — there is no fire he has not served, in past lives</li>
+    </ol>
+    <p>
+      The structure is precise. The Buddha is not arguing against these views theoretically; he is reporting that he has personally tested each one. The conclusion is empirical: none of them produced what the Buddha eventually achieved by a different path.
+    </p>
+
+    <h3>The age objection (§62)</h3>
+    <p>
+      Some ascetics had a doctrine that wisdom is fullest in youth and declines with age. The Buddha, now eighty, addresses this directly. <em>"You should not see it like this."</em> He says: imagine four disciples, each with a hundred-year lifespan and perfect memory, asking questions about the four foundations of mindfulness one after another. They would each ask for a hundred years. They would all die before the Buddha ran out of teachings. <em>"Even if you have to carry me around on a stretcher, there will never be any deterioration in the Realized One's lucidity of wisdom."</em>
+    </p>
+    <p>
+      The image — being carried on a stretcher in old age — is poignant. The Buddha knows his body is failing. He is not claiming bodily vigor; he is claiming that the mind's lucidity does not depend on the body's vigor.
+    </p>
+
+    <h3>The closing — "a being not liable to delusion"</h3>
+    <p>
+      <em>"If there's anyone of whom it may be rightly said that a being not liable to delusion has arisen in the world for the welfare and happiness of the people, out of sympathy for the world, for the benefit, welfare, and happiness of gods and humans, it's of me that this should be said."</em>
+    </p>
+    <p>
+      This is the discourse's quiet final claim — phrased not in the form of self-praise but in the conditional, almost wistful tone of <em>"if anyone</em>." Combined with everything that has come before, it is the lion's roar in its mature form.
+    </p>
+
+    <h3>The "Hair-raising" name</h3>
+    <p>
+      Venerable Nāgasamāla, fanning the Buddha throughout this entire discourse, says at the end: <em>"It's incredible, sir, it's amazing! While I was listening to this exposition of the teaching my hair stood up!"</em> The Buddha gives the discourse its alternative name: <em>Lomahaṁsana-pariyāya</em>, "The Hair-raising Discourse." Whether for the asceticism it describes or the lion's roar it makes — the canon leaves both readings open.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The discourse's most generalizable claim is that real authority comes from real experience, not from logical inference. Sunakkhatta accused the Buddha of teaching from logic only. The Buddha's response is not a counter-argument; it is an inventory of what he has personally done, seen, tested, and rejected. Modern parallel: the difference between a teacher who has read everything about meditation and a teacher who has actually undertaken the practices, who has tried and failed at several methods, who has reasons born of experience for the methods they now teach. The Buddha is making the case that his lion's roar is grounded in the second kind of authority, not the first.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"The austerities section is graphic. Why is it included?"</strong> Because the canonical position — that extreme asceticism does not lead to awakening — is structurally undermined if the Buddha is suspected of not having tried it. By cataloging the practices in detail, with vivid physical specifics, the Buddha forecloses the objection "you don't understand what we do." He is saying: <em>I did all of this, more thoroughly than any of you, for years. Nothing came of it.</em> The graphic specificity is the proof of the conclusion.</p>
+
+    <p><strong>"The hell-pit and sewer similes feel harsh. Is the Buddha really saying I can see where someone's going from how they are now?"</strong> Yes — and the claim is empirical rather than judgmental. A person walking toward a pit of glowing coals will arrive at a pit of glowing coals; a person walking toward a sewer will arrive at a sewer. The similes are about <em>trajectories</em>, not about people. The trajectory is set by the present way of living. The Buddha's claim is that someone who has trained their perception this finely can read the destinations from the trajectories. The reader is invited to test this on themselves: <em>what trajectory am I on now, and where would it arrive if I continued?</em></p>
+
+    <p><strong>"What about Sunakkhatta? Does the Buddha say he goes to hell?"</strong> The discourse is severe on this point. Anyone who continues to deny the Buddha's qualifications without giving up that view "will be placed in hell as if delivered there." The line is repeated five times in the discourse. The Buddha is not condemning Sunakkhatta personally so much as naming the karmic structure of slandering the awakened — which the early Buddhist cosmology treated as one of the worst of all karmas. The repetition is rhetorical pressure: <em>do not say this; the consequence is precise</em>.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">tathāgata</span> — the Realized One. Literally "thus-gone" or "thus-come." The Buddha's preferred term for himself when speaking impersonally. The discourse uses it repeatedly: <em>"a power of the Realized One,"</em> <em>"the Realized One claims the bull's place."</em>
+      </div>
+      <div class="term">
+        <span class="pali-word">tathāgata-bala</span> — power of the Realized One. The ten powers. <em>Bala</em> is strength, capacity, faculty — the cognitive and meditative capacities that distinguish a Buddha.
+      </div>
+      <div class="term">
+        <span class="pali-word">vesārajja</span> — self-assurance / fearlessness. The four <em>vesārajja</em> are the four positions in which the Buddha is invulnerable to legitimate criticism. The Pāli is composed of <em>vi-</em> (without) + <em>sārajja</em> (timidity, hesitation in front of an assembly).
+      </div>
+      <div class="term">
+        <span class="pali-word">āsabhaṭṭhāna</span> — "the bull's place." The forefront position, the central place. The image is of a bull standing at the head of the herd. Combined with the lion's roar imagery, the discourse is invoking the Buddha as the natural leader of any assembly.
+      </div>
+      <div class="term">
+        <span class="pali-word">parisā</span> — assembly. The eight kinds of assembly: four human (aristocrats, brahmins, householders, ascetics) and four divine (the gods of four kings, the gods of the thirty-three, Māras, divinities).
+      </div>
+      <div class="term">
+        <span class="pali-word">gati</span> — destination. The five destinations of rebirth: hell, animal realm, ghost realm, humanity, gods. The discourse adds a sixth, the way to arahantship, via the lotus-pond simile.
+      </div>
+      <div class="term">
+        <span class="pali-word">tapa</span> — ascetic mortification. The practices the Buddha undertook before awakening and rejected. The Pāli verb root means "to burn" or "to heat" — the idea is to "burn off" karmic residue through severity.
+      </div>
+      <div class="term">
+        <span class="pali-word">lūkhajīvitā</span> — rough living. One of the four factors of the Buddha's pre-awakening practice. Not bathing, dust accumulating until it falls off, dwelling in extreme conditions.
+      </div>
+      <div class="term">
+        <span class="pali-word">paviveka</span> — seclusion. Another of the four factors. In the discourse's account, the extreme version: fleeing from any human being like a wild deer.
+      </div>
+      <div class="term">
+        <span class="pali-word">lomahaṁsana-pariyāya</span> — "the hair-raising discourse." The alternative name the Buddha gives the discourse at the end, on Venerable Nāgasamāla's remark that his hair stood up while listening.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 12 has 64 sections in six major movements. The frame (§§1–4), what Sunakkhatta cannot infer (§§5–8), the ten powers (§§9–20), the four self-assurances (§§22–28), the eight assemblies, four reproductions, five destinations with their similes (§§29–43), the pre-awakening austerities and six wrong views about purity (§§44–61), and the closing on age and the discourse's naming (§§62–64). Sujato's print form uses compact references for repeated formulae. The austerities section is reproduced in full because it is the canon's most detailed first-person account of pre-awakening asceticism. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The frame — Sunakkhatta's slander</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying outside the city of Vesālī in a woodland grove west of the town.</p>
+
+      <p><span class="segno">§2</span>Now at that time Sunakkhatta the Licchavi had recently left this teaching and training. He was telling a crowd in Vesālī: "The ascetic Gotama has no superhuman distinction in knowledge and vision worthy of the noble ones. He teaches what he's worked out by logic, following a line of inquiry, expressing his own perspective. And his teaching leads those who practice it to the complete ending of suffering, the goal for which it's taught."</p>
+
+      <p><span class="segno">§3</span>Then Venerable Sāriputta robed up in the morning and, taking his bowl and robe, entered Vesālī for alms. He heard what Sunakkhatta was saying. Then he wandered for alms in Vesālī. After the meal, on his return from almsround, he went to the Buddha, bowed, sat down to one side, and told him what had happened.</p>
+
+      <p><span class="segno">§4</span>"Sāriputta, Sunakkhatta, that futile man, is angry. His words are spoken out of anger. Thinking he criticizes the Realized One, in fact he just praises him. For it is praise of the Realized One to say: 'His teaching leads those who practice it to the complete ending of suffering, the goal for which it's taught.'</p>
+
+      <h3>What Sunakkhatta cannot infer</h3>
+
+      <p><span class="segno">§5</span>But there's no way Sunakkhatta will infer about me from the teaching: 'That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those fit for training, teacher of gods and humans, awakened, blessed.'</p>
+
+      <p><span class="segno">§§6–8</span>And there is no way Sunakkhatta will infer about the Buddha the eight kinds of psychic power (§6 — multiplying himself, going unobstructed through walls, walking on water, flying, etc.), clairaudience that hears both human and heavenly sounds (§7), or mind-reading of the eight pairs of mental states (§8 — with greed / without greed, with hate / without hate, and so on).</p>
+
+      <h3>The ten powers of a Tathāgata</h3>
+
+      <p><span class="segno">§9</span>There are these ten powers of a Realized One that the Realized One possesses. With these he claims the bull's place, roars his lion's roar in the assemblies, and turns the divine wheel. What ten?</p>
+
+      <p><span class="segno">§10</span>Firstly, the Realized One truly understands the possible as possible, and the impossible as impossible. Since he truly understands this, this is a power of the Realized One. Relying on this he claims the bull's place, roars his lion's roar in the assemblies, and turns the divine wheel.</p>
+
+      <p><span class="segno">§§11–16</span>Furthermore, the Realized One truly understands: (§11) the result of deeds undertaken in past, future, and present in terms of grounds and causes; (§12) where all paths of practice lead; (§13) the world with its many and diverse elements; (§14) the diverse convictions of sentient beings; (§15) the faculties of other sentient beings and other individuals after encompassing them with his mind; (§16) corruption, cleansing, and emergence regarding the absorptions, liberations, immersions, and attainments. Each is named as a power on which he relies to claim the bull's place.</p>
+
+      <p><span class="segno">§17</span>Furthermore, the Realized One recollects many kinds of past lives — one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. He remembers each life with its features and details — names, clans, food, pleasures, pains, the way each life ended, the rebirth that followed. Since he truly understands this, this is a power of the Realized One.</p>
+
+      <p><span class="segno">§18</span>Furthermore, with clairvoyance that is purified and superhuman, the Realized One sees sentient beings passing away and being reborn — inferior and superior, beautiful and ugly, in a good place or a bad place. He understands how sentient beings pass on according to their deeds. Since he truly understands this, this is a power of the Realized One.</p>
+
+      <p><span class="segno">§19</span>Furthermore, the Realized One has realized the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with his own insight due to the ending of defilements. Since he truly understands this, this is a power of the Realized One. Relying on this he claims the bull's place, roars his lion's roar in the assemblies, and turns the divine wheel.</p>
+
+      <p><span class="segno">§20</span>A Realized One possesses these ten powers of a Realized One. With these he claims the bull's place, roars his lion's roar in the assemblies, and turns the divine wheel.</p>
+
+      <p><span class="segno">§21</span>When I know and see in this way, suppose someone were to say this: 'The ascetic Gotama has no superhuman distinction in knowledge and vision worthy of the noble ones. He teaches what he's worked out by logic, following a line of inquiry, expressing his own perspective.' Unless they give up that speech and that thought, and let go of that view, they will be placed in hell as if delivered there.</p>
+
+      <h3>The four self-assurances</h3>
+
+      <p><span class="segno">§22</span>Sāriputta, a Realized One has four kinds of self-assurance. With these he claims the bull's place, roars his lion's roar in the assemblies, and turns the divine wheel. What four?</p>
+
+      <p><span class="segno">§23</span>I see no reason for anyone — whether ascetic, brahmin, god, Māra, or the Divinity, or anyone else in the world — to legitimately scold me, saying: 'You claim to be a fully awakened Buddha, but you don't understand these things.' Since I see no such reason, I live secure, fearless, and self-assured.</p>
+
+      <p><span class="segno">§§24–26</span>I see no reason for anyone to legitimately scold me, saying: (§24) "You claim to have ended all defilements, but you still have these defilements"; (§25) "The acts that you say are obstructions are not really obstructions for the one who performs them"; (§26) "The teaching doesn't lead those who practice it to the complete ending of suffering, the goal for which it is taught." Since I see no such reason, I live secure, fearless, and self-assured.</p>
+
+      <p><span class="segno">§27</span>A Realized One possesses these four kinds of self-assurance. With these he claims the bull's place, roars his lion's roar in the assemblies, and turns the divine wheel.</p>
+
+      <p><span class="segno">§28</span>When I know and see in this way, suppose someone were to say this: 'The ascetic Gotama has no superhuman distinction…' Unless they give up that speech and that thought, and let go of that view, they will be placed in hell as if delivered there.</p>
+
+      <h3>The eight assemblies</h3>
+
+      <p><span class="segno">§29</span>Sāriputta, there are these eight assemblies. What eight? The assemblies of aristocrats, brahmins, householders, and ascetics. An assembly of the gods of the four great kings. An assembly of the gods of the thirty-three. An assembly of Māras. An assembly of divinities. These are the eight assemblies. Possessing these four kinds of self-assurance, the Realized One approaches and enters right into these eight assemblies. I recall having approached an assembly of hundreds of aristocrats. There I used to sit with them, converse, and engage in discussion. But I don't see any reason to feel afraid or insecure.</p>
+
+      <p><span class="segno">§§30–31</span>The same for the other seven assemblies. Each: <em>"There I used to sit with them, converse, and engage in discussion. But I don't see any reason to feel afraid or insecure."</em> And the closing repetition: anyone who continues to deny this will be placed in hell as if delivered there.</p>
+
+      <h3>The four kinds of reproduction</h3>
+
+      <p><span class="segno">§§32–34</span>Sāriputta, there are these four kinds of reproduction. What four? Reproduction for creatures born from an egg, from a womb, from moisture, or spontaneously. Eggs: beings born by breaking out of an eggshell. Wombs: beings born by breaking out of the amniotic sac. Moisture: beings born in a rotten fish, in a rotten carcass, in rotten dough, in a cesspool. Spontaneous: gods, hell-beings, certain humans, and certain beings in the lower realms. (§34: again, anyone denying this will be placed in hell.)</p>
+
+      <h3>The five destinations — and their similes</h3>
+
+      <p><span class="segno">§35</span>There are these five destinations. What five? Hell, the animal realm, the ghost realm, humanity, and the gods.</p>
+
+      <p><span class="segno">§36</span>I understand each destination, and the path and practice that leads to it. And I understand how someone practicing that way is reborn there.</p>
+
+      <p><span class="segno">§37</span>When I've comprehended the mind of a certain individual, I understand: 'This individual is practicing in such a way and is riding upon such a path that when their body breaks up, after death, they will be reborn in hell.' Some time later I see that they have indeed been reborn there. Suppose there was a pit of glowing coals deeper than a man's height, full of glowing coals that neither flamed nor smoked. Then along comes a person struggling in the oppressive heat, weary, thirsty, and parched. And they have set out on a path that meets with that same pit of coals. If a person with clear eyes saw them, they'd say: 'This person is proceeding in such a way and is riding upon such a path that they will arrive at that very pit of coals.'</p>
+
+      <p><span class="segno">§§38–41</span>The same structure for the other four destinations, with their similes:
+      <br>· <strong>§38 Animal realm</strong> — a sewer deeper than a man's height, full to the brim with feces. The traveler will fall in.
+      <br>· <strong>§39 Ghost realm</strong> — a tree on rugged ground with thin foliage casting dappled shade. The traveler will sit under it and experience mostly painful feelings.
+      <br>· <strong>§40 Humanity</strong> — a tree on smooth ground with abundant foliage casting dense shade. The traveler will experience mostly pleasant feelings.
+      <br>· <strong>§41 The gods</strong> — a stilt longhouse with a peaked roof, plastered inside and out, draft-free, with a couch spread with woolen covers, fine deer hide, a canopy, red pillows at both ends. The traveler will experience feelings of perfect happiness.</p>
+
+      <p><span class="segno">§42</span>When I've comprehended the mind of a certain individual, I understand: 'This individual is practicing in such a way and is riding upon such a path that they will realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with their own insight due to the ending of defilements.' Suppose there was a lotus pond with clear, sweet, cool water, clean, with smooth banks, delightful. Nearby was a dense forest grove. Then along comes a person struggling in the oppressive heat, weary, thirsty, and parched. And they have set out on a path that meets with that same lotus pond. They would plunge into the pond, bathe and drink. When all their stress, weariness, and heat exhaustion had faded away, they would emerge and sit or lie down in that woodland thicket, where they experienced feelings of perfect happiness. In the same way, when I've comprehended the mind of an individual, I understand that they will realize the undefiled freedom in this very life. These are the five destinations.</p>
+
+      <p><span class="segno">§43</span>When I know and see in this way, suppose someone were to say this: 'The ascetic Gotama has no superhuman distinction…' Unless they give up that speech and that thought, and let go of that view, they will be placed in hell as if delivered there.</p>
+
+      <h3>The pre-awakening austerities — the four-factored path</h3>
+
+      <p><span class="segno">§44</span>Sāriputta, I recall having practiced a spiritual path consisting of four factors. I used to be a fervent mortifier, the ultimate fervent mortifier. I used to live rough, the ultimate rough-liver. I used to live in disgust of sin, the ultimate one living in disgust of sin. I used to be secluded, in ultimate seclusion.</p>
+
+      <p><span class="segno">§45</span>And this is what my fervent mortification was like. I went naked, ignoring conventions. I licked my hands, and didn't come or stop when asked. I didn't consent to food brought to me, or food prepared specially for me, or an invitation for a meal. I didn't receive anything from a pot or bowl; or from someone who keeps sheep, or who has a weapon or a shovel in their home; or where a couple is eating; or where there is a woman who is pregnant, breastfeeding, or who lives with a man; or where food for distribution is advertised; or where there's a hound waiting or flies buzzing. I accepted no fish or meat or beer or wine, and drank no fermented gruel. I went to just one house for alms, taking just one mouthful, or two houses and two mouthfuls, up to seven houses and seven mouthfuls. I fed on one saucer a day, two saucers a day, up to seven saucers a day. I ate once a day, once every second day, up to once a week, and so on, even up to once a fortnight. I lived committed to the practice of eating food at set intervals. I ate herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum from boiling rice, sesame flour, grass, or cow dung. I survived on forest roots and fruits, or eating fallen fruit. I wore robes of sunn hemp, mixed hemp, corpse-wrapping cloth, rags, lodh tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, human hair, horse-tail hair, or owls' wings. I tore out hair and beard, committed to this practice. I constantly stood, turning down seats. I squatted, committed to the endeavor of squatting. I lay on a mat of thorns, making a mat of thorns my bed. I was devoted to ritual bathing three times a day, including at dusk. And so I lived committed to practicing these various ways of mortifying and tormenting the body. Such was my practice of fervent mortification.</p>
+
+      <p><span class="segno">§46</span>And this is what my rough living was like. The dust and dirt built up on my body over many years until it started flaking off. It's like the trunk of a pale-moon ebony tree, which builds up bark over many years until it starts flaking off. But it didn't occur to me: 'Oh, this dust and dirt must be rubbed off by my hand or another's.' That didn't occur to me. Such was my rough living.</p>
+
+      <p><span class="segno">§47</span>And this is what my living in disgust of sin was like. I'd step forward or back ever so mindfully, so I was full of pity regarding even a drop of water, thinking: 'May I not injure any little creatures on unclear ground.' Such was my living in disgust of sin.</p>
+
+      <p><span class="segno">§48</span>And this is what my seclusion was like. I would plunge deep into a wilderness region and stay there. When I saw a cowherd or a shepherd, or someone gathering grass or sticks, or a lumberjack, I'd flee from forest to forest, from thicket to thicket, from valley to valley, from uplands to uplands. Why is that? So that I wouldn't see them, nor they me. I fled like a wild deer seeing a human being. Such was my practice of seclusion.</p>
+
+      <p><span class="segno">§49</span>I would go on all fours into the cow-pens after the cattle had left and eat the dung of the young suckling calves. As long as my own urine and excrement lasted, I would even eat that. Such was my eating of most unnatural things.</p>
+
+      <p><span class="segno">§50</span>I would plunge deep into an awe-inspiring forest grove and stay there. It was so awe-inspiring that normally it would make your hair stand on end if you weren't free of greed. And on days such as the cold spell when the snow falls in the January winter, I stayed in the open by night and in the forest by day. But in the last month of summer I'd stay in the open by day and in the forest by night. And then these verses, which were neither supernaturally inspired, nor learned before in the past, occurred to me: <em>"Scorched and frozen, alone in the awe-inspiring forest. Nude, no fire to sit beside, the sage still pursues his quest."</em></p>
+
+      <p><span class="segno">§51</span>I would make my bed in a charnel ground, with the bones of the dead for a pillow. Then village louts would come up to me. They'd spit and piss on me, throw mud on me, even poke sticks in my ears. But I don't recall ever having a bad thought about them. Such was my abiding in equanimity.</p>
+
+      <p><span class="segno">§52</span>There are some ascetics and brahmins who have this doctrine and view: 'Purity comes from food.' They say: 'Let's live on jujubes.' So they eat jujubes and jujube powder, and drink jujube juice. And they enjoy many jujube concoctions. I recall eating just a single jujube. You might think that at that time the jujubes must have been very big. But you should not see it like this. The jujubes then were at most the same size as today. Eating so very little, my body became severely emaciated. Due to eating so little, my major and minor limbs became like the joints of an eighty-year-old or a dying man, my bottom became like a camel's hoof, my vertebrae stuck out like beads on a string, and my ribs were as gaunt as the broken-down rafters on an old barn. Due to eating so little, the gleam of my eyes sank deep in their sockets, like the gleam of water sunk deep down a well. Due to eating so little, my scalp shriveled and withered like a green bitter-gourd in the wind and sun. Due to eating so little, the skin of my belly stuck to my backbone, so that when I tried to rub the skin of my belly I grabbed my backbone, and when I tried to rub my backbone I rubbed the skin of my belly. Due to eating so little, when I tried to urinate or defecate I fell face down right there. Due to eating so little, when I tried to relieve my body by rubbing my limbs with my hands, the hair, rotted at its roots, fell out.</p>
+
+      <p><span class="segno">§§53–55</span>The same with diets of mung beans only, sesame only, and ordinary rice only. Each ended the same way, with the same emaciation.</p>
+
+      <p><span class="segno">§56</span>But Sāriputta, I did not achieve any superhuman distinction in knowledge and vision worthy of the noble ones by that conduct, that practice, that grueling work. Why is that? Because I didn't achieve that noble wisdom that's noble and emancipating, and which delivers one who practices it to the complete ending of suffering.</p>
+
+      <h3>The six wrong views about purity</h3>
+
+      <p><span class="segno">§57</span>There are some ascetics and brahmins who have this doctrine and view: 'Purity comes from transmigration.' But it's not easy to find a realm that I haven't previously transmigrated to in all this long time, except for the gods of the pure abodes. For if I had transmigrated to the gods of the pure abodes I would not have returned to this realm again.</p>
+
+      <p><span class="segno">§§58–61</span>Other ascetics teach that purity comes from rebirth (§58), from abode of rebirth (§59), from sacrifice (§60), or from serving the sacred flame (§61). In each case the Buddha responds: <em>"It's not easy to find a [rebirth / abode / sacrifice / fire] that I haven't previously had / lived in / offered / served in all this long time."</em> He has tested every position.</p>
+
+      <h3>The age objection</h3>
+
+      <p><span class="segno">§62</span>There are some ascetics and brahmins who have this doctrine and view: 'So long as this gentleman is youthful, young, with pristine black hair, blessed with youth, in the prime of life he will be endowed with perfect lucidity of wisdom. But when he's old, elderly, and senior, advanced in years, and has reached the final stage of life — eighty, ninety, or a hundred years old — he will lose his lucidity of wisdom.' But you should not see it like this. For now I am old, elderly, and senior, I'm advanced in years, and have reached the final stage of life. I am eighty years old. Suppose I had four disciples with a lifespan of a hundred years. And they each were perfect in memory, range, retention, and perfect lucidity of wisdom. Imagine how easily a well-trained expert archer with a strong bow would shoot a light arrow across the shadow of a palm tree. That's how extraordinary they were in memory, range, retention, and perfect lucidity of wisdom. They'd bring up questions about the four kinds of mindfulness meditation again and again, and I would answer each question. They'd remember the answers and not ask the same question twice. And they'd pause only to eat and drink, go to the toilet, and sleep to dispel weariness. But the Realized One would not run out of Dhamma teachings, words and phrases of the teachings, or spontaneous answers. And at the end of a hundred years my four disciples would pass away. Even if you have to carry me around on a stretcher, there will never be any deterioration in the Realized One's lucidity of wisdom.</p>
+
+      <h3>The closing claim, and the discourse's name</h3>
+
+      <p><span class="segno">§63</span>And if there's anyone of whom it may be rightly said that a being not liable to delusion has arisen in the world for the welfare and happiness of the people, out of sympathy for the world, for the benefit, welfare, and happiness of gods and humans, it's of me that this should be said."</p>
+
+      <p><span class="segno">§64</span>Now at that time Venerable Nāgasamāla was standing behind the Buddha fanning him. Then he said to the Buddha: "It's incredible, sir, it's amazing! While I was listening to this exposition of the teaching my hair stood up! What is the name of this exposition of the teaching?" "Well then, Nāgasamāla, you may remember this exposition of the teaching as 'The Hair-raising Discourse'."</p>
+
+      <p style="margin-top:20px"><strong>That is what the Buddha said. Satisfied, Venerable Nāgasamāla approved what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What is the occasion for MN 12 — the specific event that prompts the Buddha's longest single statement of his own qualifications?</div>
+        <button class="opt">A brahmin asks about right view</button>
+        <button class="opt">Sāriputta requests teaching on jhāna</button>
+        <button class="opt">Sāriputta reports that Sunakkhatta the Licchavi, a former disciple who has left the order, is publicly disparaging the Buddha in Vesālī</button>
+        <button class="opt">The Buddha is about to enter parinibbāna</button>
+        <div class="expl"><strong>Correct: C.</strong> The frame is personal. Sunakkhatta claims the Buddha teaches by mere logic, lacking any "superhuman distinction in knowledge and vision worthy of the noble ones." Yet — and the Buddha catches this immediately — Sunakkhatta also concedes that the teaching does lead to the complete ending of suffering. The discourse is what follows when the Buddha turns the slander into the occasion for a full inventory of what he actually possesses.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">The discourse names ten powers (tathāgata-bala) of a Realized One. The last three of the ten are also called by another name in the canon. Which set?</div>
+        <button class="opt">The four foundations of mindfulness</button>
+        <button class="opt">The seven awakening factors</button>
+        <button class="opt">The eight wishes from MN 6</button>
+        <button class="opt">The three knowledges (tevijjā) — recollection of past lives, clairvoyant sight of beings reborn according to deeds, and the ending of defilements</button>
+        <div class="expl"><strong>Correct: D.</strong> Powers 8, 9, and 10 are the three knowledges that MN 4 named as the content of the Buddha's awakening night. They are embedded in MN 12 within the longer ten-power list, which adds seven more capacities: knowledge of the possible/impossible, of karma, of paths, of the world's elements, of beings' convictions, of beings' faculties, and of states of meditation.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">The four self-assurances (vesārajja) name four claims no one can legitimately make against the Buddha. Which set is correct?</div>
+        <button class="opt">No one can scold the Buddha for: being lazy, being unmindful, being unwise, being unenergetic</button>
+        <button class="opt">No one can scold the Buddha for: claiming awakening without understanding · claiming defilements ended while having them · calling things "obstructions" that are not · having a teaching that doesn't lead to ending suffering</button>
+        <button class="opt">No one can scold the Buddha for: lacking faith, lacking energy, lacking mindfulness, lacking concentration</button>
+        <button class="opt">No one can scold the Buddha for: lacking right view, right intention, right speech, right action</button>
+        <div class="expl"><strong>Correct: B.</strong> The four vesārajja are precisely calibrated. Notice the asymmetry — the Buddha is not saying no one ever <em>does</em> say these things (Sunakkhatta just did). He is saying no one can <em>legitimately</em> say them — they cannot be defended on examination. Self-assurance is the absence of vulnerability to legitimate criticism, not the absence of all criticism.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">The Buddha names the eight kinds of assemblies he has entered without fear. The eight are divided into how many human and how many divine?</div>
+        <button class="opt">Four human (aristocrats, brahmins, householders, ascetics) and four divine (four-great-kings gods, thirty-three gods, Māras, divinities)</button>
+        <button class="opt">Six human and two divine</button>
+        <button class="opt">Two human and six divine</button>
+        <button class="opt">All eight are divine</button>
+        <div class="expl"><strong>Correct: A.</strong> The eight cover the spectrum of audiences a being in this cosmology can address. In each, the Buddha says: <em>"I used to sit with them, converse, and engage in discussion. But I don't see any reason to feel afraid or insecure."</em></div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">The discourse names five destinations of rebirth and gives a memorable simile for each. Which simile pairs correctly with its destination?</div>
+        <button class="opt">Hell → a lotus pond</button>
+        <button class="opt">Animal realm → a stilt longhouse</button>
+        <button class="opt">Heaven → a stilt longhouse with peaked roof, plastered, with a woolen-covered couch</button>
+        <button class="opt">Humanity → a sewer</button>
+        <div class="expl"><strong>Correct: C.</strong> The five similes climb in pleasantness: hell = pit of glowing coals; animal realm = sewer of feces; ghost realm = tree with thin dappled shade on rough ground; humanity = tree with dense shade on smooth ground; heaven = stilt longhouse with the luxurious bed. A sixth simile — the lotus pond — is given for the path to arahantship, which is outside the cycle.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">In the lotus pond simile (§42), what does the traveler do after arriving at the pond?</div>
+        <button class="opt">They drink from it and walk on</button>
+        <button class="opt">They drown in it</button>
+        <button class="opt">They plunge in, bathe, drink — and when their stress, weariness, and heat exhaustion fade away, they emerge and sit or lie down in a woodland thicket nearby, experiencing perfect happiness</button>
+        <button class="opt">They turn away from it and seek another</button>
+        <div class="expl"><strong>Correct: C.</strong> The lotus pond is the discourse's quiet hint about where the path actually ends. The five destinations are within the cycle of rebirth. The lotus pond is outside it. The traveler does not pass on, does not stop briefly — they bathe, drink, emerge, and rest in a nearby grove. The image is of arrival.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">The discourse's most graphic section is the Buddha's first-person account of the pre-awakening austerities. He practiced a four-factor path — what are the four factors?</div>
+        <button class="opt">Right effort, right mindfulness, right concentration, right wisdom</button>
+        <button class="opt">Fervent mortification, rough living, living in disgust of sin, extreme seclusion</button>
+        <button class="opt">Body, speech, mind, intention</button>
+        <button class="opt">Generosity, ethics, patience, energy</button>
+        <div class="expl"><strong>Correct: B.</strong> The Buddha says he practiced each "to the ultimate" — the most extreme version any ascetic of his time was practicing. The detailed cataloguing that follows — naked, eating cow dung, sleeping on thorns, fleeing from any human like a wild deer — is the empirical proof of his conclusion: <em>"I did not achieve any superhuman distinction in knowledge and vision worthy of the noble ones by that conduct."</em></div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">The jujube fast section (§52) is one of the most physically graphic passages in the Pāli Canon. Which detail does it give?</div>
+        <button class="opt">"My head ached for many days."</button>
+        <button class="opt">"My limbs became fat from inactivity."</button>
+        <button class="opt">"I lost the power of speech entirely."</button>
+        <button class="opt">"When I tried to rub the skin of my belly I grabbed my backbone, and when I tried to rub my backbone I rubbed the skin of my belly."</button>
+        <div class="expl"><strong>Correct: D.</strong> The detail is precise to the level of medical observation: the belly skin had collapsed onto the spine. The passage continues: when he tried to defecate or urinate he fell face down; when he rubbed his limbs to relieve them, the hair fell out at the roots. The Buddha is being unsparing about what he survived — and about what it did not produce.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">The Buddha's age objection in §62 addresses the doctrine that wisdom declines with age. What is his response, given that he is now eighty?</div>
+        <button class="opt">He admits his wisdom has declined</button>
+        <button class="opt">He says the doctrine doesn't apply to anyone</button>
+        <button class="opt">"Even if you have to carry me around on a stretcher, there will never be any deterioration in the Realized One's lucidity of wisdom." Four disciples with hundred-year lifespans, asking questions about the four foundations of mindfulness without repeating, would die before the Buddha ran out of teachings.</button>
+        <button class="opt">He claims that only Buddhas keep their wisdom</button>
+        <div class="expl"><strong>Correct: C.</strong> The image is poignant. The Buddha knows his body is failing — he names being carried on a stretcher. He is not claiming bodily vigor; he is claiming that the mind's lucidity does not depend on the body's vigor. The discourse closes shortly after with the famous line: <em>"If there's anyone of whom it may be rightly said that a being not liable to delusion has arisen in the world … it's of me that this should be said."</em></div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">At the end of the discourse, Venerable Nāgasamāla — who has been fanning the Buddha throughout — gives the discourse its alternative name. What does he say, and what is the name?</div>
+        <button class="opt">"My understanding has been enlarged" — "The Enlarging Discourse"</button>
+        <button class="opt">"I have entered the stream" — "The Stream-Entry Discourse"</button>
+        <button class="opt">"My hair stood up while listening to this" — "The Hair-raising Discourse" (Lomahaṁsana-pariyāya)</button>
+        <button class="opt">"I weep" — "The Weeping Discourse"</button>
+        <div class="expl"><strong>Correct: C.</strong> Nāgasamāla's response is one of the canon's small narrative moments — the disciple, having stood behind the Buddha fanning him throughout this entire long discourse, says: <em>"It's incredible, sir, it's amazing! While I was listening to this exposition of the teaching my hair stood up!"</em> The Buddha names the discourse accordingly. Whether for the asceticism it describes or the lion's roar it makes — the canon leaves both readings open.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">tathāgata-bala</span>ten powers of the Realized One</li>
+        <li><span class="pali">vesārajja</span>self-assurance (four)</li>
+        <li><span class="pali">āsabhaṭṭhāna</span>"the bull's place"</li>
+        <li><span class="pali">parisā</span>assembly (eight kinds)</li>
+        <li><span class="pali">gati</span>destination of rebirth (five)</li>
+        <li><span class="pali">tapa</span>ascetic mortification</li>
+        <li><span class="pali">paviveka</span>seclusion</li>
+        <li><span class="pali">lomahaṁsana-pariyāya</span>"the hair-raising discourse"</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 4 · Fear and Dread (autobiography)</li>
+        <li>MN 26 · Noble Search (autobiography)</li>
+        <li>MN 36 · Longer w/ Saccaka (austerities)</li>
+        <li>MN 11 · Shorter Lion's Roar (the same chapter)</li>
+        <li>T 757 · Chinese partial parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn12/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN12.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "The Greater Discourse on the Lion's Roar," with notes on the austerities.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0757" target="_blank" rel="noopener">Partial Chinese parallel — T 757</a> — the Chinese "Hair-raising Discourse." MN 12 lacks a direct Madhyama-āgama parallel; T 757 is the closest survival.</li>
+      <li><a href="https://suttacentral.net/mn36/en/sujato" target="_blank" rel="noopener">MN 36 · The Longer Discourse with Saccaka</a> — the second great autobiographical account, also containing the extreme-asceticism narrative.</li>
+      <li><a href="https://suttacentral.net/mn26/en/sujato" target="_blank" rel="noopener">MN 26 · The Noble Search</a> — the third autobiographical account, narrating the Buddha's going forth, his teachers, and his first sermon.</li>
+      <li><a href="https://suttacentral.net/mn4/en/sujato" target="_blank" rel="noopener">MN 4 · Fear and Dread</a> — the first autobiographical account in the MN, on overcoming fear in the forest.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-011.html"><span class="label">← Previous</span>MN 11 · The Shorter Discourse on the Lion's Roar</a>
+    <a href="mn-013.html" class="next"><span class="label">Next →</span>MN 13 · The Longer Discourse on the Mass of Suffering</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

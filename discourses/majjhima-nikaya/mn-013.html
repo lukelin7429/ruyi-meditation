@@ -1,0 +1,1121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 13 — The Longer Discourse on the Mass of Suffering | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Mahādukkhakkhandhasutta — the Buddha's most systematic single analysis of why sensual pleasures, forms, and feelings produce suffering, using the canonical three-fold method of gratification, drawback, and escape. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 13
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 13</div>
+  <h1>The Longer Discourse on the Mass of Suffering</h1>
+  <p class="subtitle"><em>Mahādukkhakkhandhasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī</dd>
+      <dt>Speaker</dt><dd>The Buddha, replying to several mendicants who had been challenged by wanderers of other religions claiming to teach the same as he does</dd>
+      <dt>Form</dt><dd>38 sections in three parallel movements: the Buddha applies the same three-fold analysis — gratification, drawback, escape — to three domains: sensual pleasures, forms, and feelings</dd>
+      <dt>Length</dt><dd>~20 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>MA 99 (Madhyama-āgama 99, "Discourse on the Mass of Suffering")</dd>
+      <dt>Difficulty</dt><dd>★★★☆☆ — the analytical method is simple but the catalog of drawbacks is exhaustive. The corpse contemplation (§§19–29) and the punishment list (§14) are visceral and culturally challenging.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, thirteenth</h2>
+    <p class="lede">
+      MN 13 is the canon's most systematic single answer to the question every spiritual tradition eventually has to answer: <em>why exactly should I give up the things I find pleasant?</em> The Buddha's response is methodical. For each of three categories — sensual pleasures, forms, and feelings — he asks three questions: what is the gratification? What is the drawback? What is the escape? The three questions together form a complete diagnosis.
+    </p>
+    <p>
+      The occasion is illuminating. Some mendicants, returning from alms in Sāvatthī, were challenged by wanderers of other ascetic schools: <em>"The ascetic Gotama advocates the complete understanding of sensual pleasures, and so do we. The ascetic Gotama advocates the complete understanding of forms, and so do we. The ascetic Gotama advocates the complete understanding of feelings, and so do we. What, then, is the difference?"</em> The mendicants — wisely — did not answer. They came back to the Buddha. The discourse is his answer.
+    </p>
+    <p>
+      The Buddha's reply has the same structure as MN 11's. There is a method that distinguishes his teaching. The method is the three-fold analysis applied to each domain. The wanderers cannot give it because they "are out of their element." The discourse then walks through all three domains in detail, demonstrating the method.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      The honest pleasure of sense, beauty, and meditative feeling is real — and so is its drawback, and so is the escape; what distinguishes the path is the analytical capacity to see all three at once.
+    </p>
+
+    <h3>The frame — and the method</h3>
+    <p>
+      The discourse opens with mendicants returning from Sāvatthī with a challenge: rival ascetics claim to teach the same complete understanding of sensual pleasures, forms, and feelings that the Buddha does. What's the difference?
+    </p>
+    <p>
+      The Buddha's answer is the three-fold method. For any phenomenon, ask:
+    </p>
+    <ol>
+      <li><strong>What is its gratification</strong> <em>(assāda)</em> — what is pleasant about it?</li>
+      <li><strong>What is its drawback</strong> <em>(ādīnava)</em> — what is the cost?</li>
+      <li><strong>What is the escape</strong> <em>(nissaraṇa)</em> — how is one freed from it?</li>
+    </ol>
+    <p>
+      The Buddha says: <em>"I don't see anyone in this world — with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans — who could provide a satisfying answer to these questions except for the Realized One or his disciple or someone who has heard it from them."</em>
+    </p>
+    <p>
+      What follows is the demonstration: the three-fold method applied to three domains.
+    </p>
+
+    <h3>Sensual pleasures (kāma)</h3>
+
+    <p><strong>The gratification.</strong> The Buddha begins honestly. The pleasure and happiness that arise from the five kinds of sensual stimulation — sights, sounds, smells, tastes, touches, each <em>"likable, desirable, agreeable, pleasant, sensual, and arousing"</em> — that pleasure and happiness <em>is</em> the gratification of sensual pleasures. Nothing more is added. The pleasure is real and named.</p>
+
+    <p><strong>The drawback.</strong> Eight specific kinds, in escalating intensity:</p>
+    <ol>
+      <li><strong>The labor of earning</strong> (§8) — the work itself, with its cold, heat, hunger, insects.</li>
+      <li><strong>Failure to earn</strong> (§9) — sorrow, lamentation, beating the breast: <em>"Oh, my hard work is wasted."</em></li>
+      <li><strong>Success and its anxiety</strong> (§10) — protecting wealth from rulers, bandits, fire, flood, unloved heirs; and the despair when it's lost anyway: <em>"What once was mine is gone."</em></li>
+      <li><strong>Conflict</strong> (§11) — kings against kings, brahmins against brahmins, parents against children, brother against sister, friend against friend; fists, stones, rods, swords, deadly pain.</li>
+      <li><strong>Battle</strong> (§12) — soldiers killed in formation.</li>
+      <li><strong>Siege warfare</strong> (§13) — soldiers killed assaulting walls.</li>
+      <li><strong>Crime and punishment</strong> (§14) — the explicit catalog: theft and adultery for the sake of sensual goods, then the tortures: whipping, caning, cutting off hands, ears, nose; the named ancient tortures (<em>"the porridge pot," "the shell-shave," "Rāhu's mouth," "the garland of fire," "the burning hand," "the bulrush twist," "the bark dress," "the antelope," "the meat hook," "the coins," "the caustic pickle," "the twisting bar," "the straw mat,"</em> being splashed with hot oil, fed to hounds, impaled alive, beheaded).</li>
+      <li><strong>Bad rebirth</strong> (§15) — misconduct for sensual goods leads to "a place of loss, a bad place, the underworld, hell."</li>
+    </ol>
+    <p>
+      The cascade is deliberate. The first three drawbacks are ordinary economic life. The next three are the social violence sensual goods trigger. The last two are the structural cost — the law, and beyond it, karma. Each is <em>"a drawback of sensual pleasures apparent in the present life, a mass of suffering caused by sensual pleasures"</em> — except the eighth, which is the drawback in lives to come.
+    </p>
+
+    <p><strong>The escape.</strong> One sentence (§16): <em>"Removing and giving up desire and greed for sensual pleasures: this is the escape from sensual pleasures."</em></p>
+    <p>
+      Notice how compact the escape is compared to the drawback. The drawback is elaborated in eight movements; the escape is a single line. This is intentional. The drawback requires examination because it is normally hidden. The escape is simple to state — though, of course, not simple to do. The escape is not a technique; it is the giving-up of a relationship.
+    </p>
+
+    <h3>Forms (rūpa)</h3>
+
+    <p><strong>The gratification.</strong> The Buddha is again honest. He invokes the image of <em>"a girl of the brahmins, aristocrats, or householders in her fifteenth or sixteenth year, neither too tall nor too short, neither too thin nor too fat, neither too dark nor too fair. Is she not at the height of her beauty and prettiness?"</em> The mendicants agree. <em>"The pleasure and happiness that arise from this beauty and prettiness is the gratification of forms."</em></p>
+
+    <p><strong>The drawback.</strong> The Buddha takes the same person through the arc of her life and after. The same young woman, now eighty or ninety, <em>"bent double, crooked, leaning on a staff, trembling as they walk, ailing, past their prime, with teeth broken, hair grey and scanty or bald, skin wrinkled, and limbs blotchy."</em> The same person sick: <em>"collapsed in her own urine and feces, being picked up by some and put down by others."</em> Then the corpse, in stages identical to the nine charnel-ground contemplations of MN 10: bloated, eaten by crows and animals, reduced to a skeleton with flesh, with blood smeared, without flesh, scattered bones, white bones, decrepit bones, bones rotted to powder.</p>
+    <p>
+      The arc is severe but the structure is precise. The same form that produced gratification will, given time, produce all of this. Beauty is not denied; it is shown across its full extent.
+    </p>
+
+    <p><strong>The escape.</strong> Again one sentence (§30): <em>"Removing and giving up desire and greed for forms: this is the escape from forms."</em></p>
+
+    <h3>Feelings (vedanā)</h3>
+
+    <p><strong>The gratification.</strong> Here the discourse makes a sharp turn. The gratification of feelings is not pleasant feeling in general. It is, specifically, the four absorptions (<em>jhānas</em>) — the four stages of meditative immersion. <em>"At that time a mendicant doesn't intend to hurt themselves, hurt others, or hurt both; they feel only feelings that are not hurtful. Freedom from being hurt is the ultimate gratification of feelings, I say."</em></p>
+    <p>
+      This is striking. The gratification the Buddha names for feelings is not ordinary pleasure but the bliss of seclusion in the first jhāna, the bliss born of immersion in the second, the equanimous bliss of the third, the pure equanimity of the fourth. <em>The highest pleasure available within the realm of feeling is the jhānic pleasure.</em>
+    </p>
+
+    <p><strong>The drawback.</strong> One sentence (§36): <em>"That feelings are impermanent, suffering, and perishable: this is their drawback."</em></p>
+    <p>
+      Why so brief? Because feelings — even jhānic feelings — share with everything else conditioned the structural property of impermanence. They cannot last. A practitioner who clings to even the most refined meditative pleasure has set themselves up for the same arc as the practitioner who clings to sensual pleasure. The form is identical; only the object is different.
+    </p>
+
+    <p><strong>The escape.</strong> Once more, one sentence (§37): <em>"Removing and giving up desire and greed for feelings: this is the escape from feelings."</em></p>
+
+    <h3>The three-domain ascent</h3>
+    <p>The discourse's structural argument becomes clear when the three domains are read in sequence:</p>
+    <table>
+      <thead><tr><th>Domain</th><th>Gratification</th><th>Drawback</th><th>Escape</th></tr></thead>
+      <tbody>
+        <tr><td>Sensual pleasures</td><td>Pleasure from the five senses</td><td>The full mass of suffering — earning, conflict, war, crime, rebirth</td><td>Give up desire</td></tr>
+        <tr><td>Forms</td><td>Beauty</td><td>Aging, illness, death, decay</td><td>Give up desire</td></tr>
+        <tr><td>Feelings</td><td>The four jhānas</td><td>Impermanence</td><td>Give up desire</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The progression climbs. Sensual pleasures' drawback is gross — visible in livelihood and law. Forms' drawback is closer to home — the body itself. Feelings' drawback is the most refined: not visible at all, only known through analysis. The escape, in all three cases, is the same single act: <em>giving up desire and greed</em>. The objects vary; the method does not.
+    </p>
+    <p>
+      This is the discourse's quiet point. Even the practitioner who has given up sensual pleasures (level 1) and given up clinging to beautiful forms (level 2) must still face the more subtle clinging to meditative bliss (level 3). The path is not "renounce sense, then enjoy meditation." It is "renounce sense, then renounce form, then renounce attachment to even the most refined feeling."
+    </p>
+
+    <h3>Why other teachings cannot give this analysis</h3>
+    <p>
+      Returning to the frame: rival ascetics claim to teach the same understanding. The Buddha's reply is structural. They may name the same objects, but they cannot give the three-fold analysis for any of them — and especially cannot give it for the third (feelings), because no one outside the path has the contemplative capacity to recognize even meditative pleasure as something to be released. <em>"They would be stumped, and, in addition, would get frustrated. Why is that? Because they're out of their element."</em>
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The three-fold analysis is one of the most portable instruments in early Buddhist phenomenology. It applies to any object of attachment, including ones the discourse does not name. Take the modern reader's relationship with social media: <em>What's the gratification?</em> — the dopamine hits, the connection, the affirmation. <em>What's the drawback?</em> — distraction, comparison, anxiety, the slow erosion of attention. <em>What's the escape?</em> — removing and giving up desire and greed for it. Same structure, different object. The discourse trains a way of relating to any pleasure: not denying it, not pursuing it, but seeing all three faces of it at once.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Isn't the corpse contemplation (§§19–29) misogynistic — using a young woman's body as the example of decay?"</strong> The choice of example is culturally specific to the discourse's monastic male audience, for whom the young woman's beauty was the canonical occasion for sensual clinging. The structural point is universal — every body, female or male, undergoes this arc. The discourse is not making a claim about women but using the example most likely to register for the listeners. A modern audience can substitute any equivalent — the body of an athlete, a celebrity, a romantic partner, one's own younger self. The trajectory is the same.</p>
+
+    <p><strong>"The drawback list for sensual pleasures includes specific tortures by name. Why such graphic detail?"</strong> The torture list (§14) names ancient legal punishments by their colloquial names — "the porridge pot," "Rāhu's mouth," and so on. The graphic detail makes the structural claim impossible to wave off: the pursuit of sensual goods, when it crosses into theft or adultery, was punished in specific, well-known ways. The discourse is showing that the drawback of sensual pleasure is not abstract but lived. People are still actually being whipped, mutilated, and executed for the desires that began as ordinary wishes for sensory satisfaction.</p>
+
+    <p><strong>"The gratification of feelings is the jhānas — does that mean meditation itself is a problem?"</strong> Not as a problem in itself, but as another category that the practitioner must learn to relate to with the same three-fold awareness. The first absorption produces real pleasure; that pleasure is real and is acknowledged. But the pleasure is impermanent and conditional. A practitioner who attaches to it — who seeks to repeat the state, who measures themselves by their access to it, who suffers when it is not available — is in the same structural position as the householder attaching to the loved one. The escape is the same: removing desire and greed. <em>This includes desire and greed for jhāna itself.</em> The most subtle clinging is to the practice.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">dukkhakkhandha</span> — mass of suffering. <em>Dukkha</em> (suffering) + <em>khandha</em> (heap, mass, aggregate). The discourse's title image: not isolated moments of pain but the structural cumulative weight of suffering caused by an entire domain of clinging.
+      </div>
+      <div class="term">
+        <span class="pali-word">assāda</span> — gratification. The pleasure or benefit a phenomenon produces. The first of the three-fold analysis. The discourse is precise: the gratification is honestly acknowledged before any drawback is named.
+      </div>
+      <div class="term">
+        <span class="pali-word">ādīnava</span> — drawback / danger. The cost or detriment of the phenomenon. The second of the three-fold analysis. The discourse's longest catalog: eight kinds for sensual pleasures, nine stages of bodily decay for forms, one structural feature (impermanence) for feelings.
+      </div>
+      <div class="term">
+        <span class="pali-word">nissaraṇa</span> — escape / departure. How one is freed from the phenomenon. The third of the three-fold analysis. In every case in this discourse, the same single phrase: <em>"removing and giving up desire and greed."</em>
+      </div>
+      <div class="term">
+        <span class="pali-word">kāma</span> — sensual pleasure / sensual desire. The five kinds of sensual stimulation through eye, ear, nose, tongue, and body. The first domain of the discourse.
+      </div>
+      <div class="term">
+        <span class="pali-word">rūpa</span> — form. In this discourse, specifically physical beauty — bodily form as the object of desire. The second domain. (Note: <em>rūpa</em> has wider technical senses elsewhere — the first of the five aggregates, the form realm, etc.)
+      </div>
+      <div class="term">
+        <span class="pali-word">vedanā</span> — feeling. The hedonic tone of experience — pleasant, painful, neutral. The third domain. In MN 13, specifically the pleasant feelings of the four jhānas as the highest accessible form of feeling.
+      </div>
+      <div class="term">
+        <span class="pali-word">jhāna</span> — absorption. The four absorptions are the gratification side of feelings: real, refined, accessible to the trained practitioner. But still subject to impermanence — and so to the same three-fold analysis as ordinary pleasure.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 13 has 38 sections in three movements after the frame: sensual pleasures (§§7–17), forms (§§18–31), and feelings (§§32–38). The corpse contemplation in the forms section (§§19–29) parallels the nine charnel-ground contemplations of MN 10. Sujato's print form gives the first form/decay stage in full and abbreviates the rest. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The frame</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery.</p>
+
+      <p><span class="segno">§2</span>Then several mendicants robed up in the morning and, taking their bowls and robes, entered Sāvatthī for alms. Then it occurred to them, "It's too early to wander for alms in Sāvatthī. Why don't we visit the monastery of the wanderers of other religions?" Then they went to the monastery of the wanderers of other religions and exchanged greetings with the wanderers there. When the greetings and polite conversation were over, they sat down to one side. The wanderers said to them:</p>
+
+      <p><span class="segno">§3</span>"Reverends, the ascetic Gotama advocates the complete understanding of sensual pleasures, and so do we. The ascetic Gotama advocates the complete understanding of forms, and so do we. The ascetic Gotama advocates the complete understanding of feelings, and so do we. What, then, is the difference between the ascetic Gotama's teaching and instruction and ours?"</p>
+
+      <p><span class="segno">§4</span>Those mendicants neither approved nor rejected that statement of the wanderers of other religions. They got up from their seat, thinking, "We will learn the meaning of this statement from the Buddha himself."</p>
+
+      <p><span class="segno">§5</span>Then, after the meal, when they returned from almsround, they went up to the Buddha, bowed, sat down to one side, and told him what had happened. The Buddha said:</p>
+
+      <p><span class="segno">§6</span>"Mendicants, when wanderers of other religions say this, you should say to them: 'But reverends, what's the gratification, the drawback, and the escape when it comes to sensual pleasures? What's the gratification, the drawback, and the escape when it comes to forms? What's the gratification, the drawback, and the escape when it comes to feelings?' Questioned like this, the wanderers of other religions would be stumped, and, in addition, would get frustrated. Why is that? Because they're out of their element. I don't see anyone in this world — with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans — who could provide a satisfying answer to these questions except for the Realized One or his disciple or someone who has heard it from them.</p>
+
+      <h3>Sensual pleasures — gratification</h3>
+
+      <p><span class="segno">§7</span>And what is the gratification of sensual pleasures? There are these five kinds of sensual stimulation. What five? Sights known by the eye, which are likable, desirable, agreeable, pleasant, sensual, and arousing. Sounds known by the ear … Smells known by the nose … Tastes known by the tongue … Touches known by the body, which are likable, desirable, agreeable, pleasant, sensual, and arousing. These are the five kinds of sensual stimulation. The pleasure and happiness that arise from these five kinds of sensual stimulation: this is the gratification of sensual pleasures.</p>
+
+      <h3>Sensual pleasures — drawback</h3>
+
+      <p><span class="segno">§8</span>And what is the drawback of sensual pleasures? It's when a gentleman earns a living by means such as arithmetic, accounting, calculating, farming, trade, raising cattle, archery, government service, or one of the professions. But they must face cold and heat, being hurt by the touch of flies, mosquitoes, wind, sun, and reptiles, and risking death from hunger and thirst. This is a drawback of sensual pleasures apparent in the present life, a mass of suffering caused by sensual pleasures.</p>
+
+      <p><span class="segno">§9</span>That gentleman might try hard, strive, and make an effort, but fail to accrue money. If this happens, they sorrow and wail and lament, beating their breast and falling into confusion, saying: 'Oh, my hard work is wasted. My efforts are fruitless!' This too is a drawback of sensual pleasures apparent in the present life, a mass of suffering caused by sensual pleasures.</p>
+
+      <p><span class="segno">§10</span>That gentleman might try hard, strive, and make an effort, and succeed in earning money. But they experience pain and sadness when they try to protect it, thinking: 'How can I prevent my wealth from being taken by rulers or bandits, consumed by fire, swept away by flood, or taken by unloved heirs?' And even though they protect it and ward it, rulers or bandits take it, or fire consumes it, or flood sweeps it away, or unloved heirs take it. They sorrow and wail and lament, beating their breast and falling into confusion: 'What once was mine is gone.' This too is a drawback of sensual pleasures apparent in the present life, a mass of suffering caused by sensual pleasures.</p>
+
+      <p><span class="segno">§11</span>Furthermore, for the sake of sensual pleasures kings fight with kings, aristocrats fight with aristocrats, brahmins fight with brahmins, and householders fight with householders. A mother fights with her child, child with mother, father with child, and child with father. Brother fights with brother, brother with sister, sister with brother, and friend fights with friend. Once they've started quarreling, arguing, and disputing, they attack each other with fists, stones, rods, and swords, resulting in death and deadly pain. This too is a drawback of sensual pleasures apparent in the present life, a mass of suffering caused by sensual pleasures.</p>
+
+      <p><span class="segno">§12</span>Furthermore, for the sake of sensual pleasures they don their sword and shield, fasten their bow and arrows, and plunge into a battle massed on both sides, with arrows and spears flying and swords flashing. There they are struck with arrows and spears, and their heads are chopped off, resulting in death and deadly pain. This too is a drawback of sensual pleasures apparent in the present life, a mass of suffering caused by sensual pleasures.</p>
+
+      <p><span class="segno">§13</span>Furthermore, for the sake of sensual pleasures they don their sword and shield, fasten their bow and arrows, and charge wetly plastered bastions, with arrows and spears flying and swords flashing. There they are struck with arrows and spears, splashed with dung, crushed by a superior force, and their heads are chopped off, resulting in death and deadly pain. This too is a drawback of sensual pleasures apparent in the present life, a mass of suffering caused by sensual pleasures.</p>
+
+      <p><span class="segno">§14</span>Furthermore, for the sake of sensual pleasures they break into houses, plunder wealth, steal from isolated buildings, commit highway robbery, and commit adultery. The rulers would arrest them and subject them to various punishments — whipping, caning, and clubbing; cutting off hands or feet, or both; cutting off ears or nose, or both; the 'porridge pot', the 'shell-shave', the 'Rāhu's mouth', the 'garland of fire', the 'burning hand', the 'bulrush twist', the 'bark dress', the 'antelope', the 'meat hook', the 'coins', the 'caustic pickle', the 'twisting bar', the 'straw mat'; being splashed with hot oil, being fed to the hounds, being impaled alive, and being beheaded. These result in death and deadly pain. This too is a drawback of sensual pleasures apparent in the present life, a mass of suffering caused by sensual pleasures.</p>
+
+      <p><span class="segno">§15</span>Furthermore, for the sake of sensual pleasures, they conduct themselves badly by way of body, speech, and mind. When their body breaks up, after death, they're reborn in a place of loss, a bad place, the underworld, hell. This is a drawback of sensual pleasures to do with lives to come, a mass of suffering caused by sensual pleasures.</p>
+
+      <h3>Sensual pleasures — escape</h3>
+
+      <p><span class="segno">§16</span>And what is the escape from sensual pleasures? Removing and giving up desire and greed for sensual pleasures: this is the escape from sensual pleasures.</p>
+
+      <p><span class="segno">§17</span>There are ascetics and brahmins who don't truly understand sensual pleasures' gratification, drawback, and escape in this way for what they are. It's impossible for them to completely understand sensual pleasures themselves, or to instruct another so that, practicing accordingly, they will completely understand sensual pleasures. There are ascetics and brahmins who do truly understand sensual pleasures' gratification, drawback, and escape in this way for what they are. It is possible for them to completely understand sensual pleasures themselves, or to instruct another so that, practicing accordingly, they will completely understand sensual pleasures.</p>
+
+      <h3>Forms — gratification</h3>
+
+      <p><span class="segno">§18</span>And what is the gratification of forms? Suppose there was a girl of the brahmins, aristocrats, or householders in her fifteenth or sixteenth year, neither too tall nor too short, neither too thin nor too fat, neither too dark nor too fair. Is she not at the height of her beauty and prettiness?" "Yes, sir." "The pleasure and happiness that arise from this beauty and prettiness is the gratification of forms.</p>
+
+      <h3>Forms — drawback</h3>
+
+      <p><span class="segno">§19</span>And what is the drawback of forms? Suppose that some time later you were to see that same sister — eighty, ninety, or a hundred years old — bent double, crooked, leaning on a staff, trembling as they walk, ailing, past their prime, with teeth broken, hair grey and scanty or bald, skin wrinkled, and limbs blotchy. What do you think, mendicants? Has not that former beauty vanished and the drawback become clear?" "Yes, sir." "This is the drawback of forms.</p>
+
+      <p><span class="segno">§20</span>Furthermore, suppose that you were to see that same sister sick, suffering, gravely ill, collapsed in her own urine and feces, being picked up by some and put down by others. What do you think, mendicants? Has not that former beauty vanished and the drawback become clear?" "Yes, sir." "This too is the drawback of forms.</p>
+
+      <p><span class="segno">§21</span>Furthermore, suppose that you were to see that same sister as a corpse discarded in a charnel ground. And it had been dead for one, two, or three days, bloated, livid, and festering. What do you think, mendicants? Has not that former beauty vanished and the drawback become clear?" "Yes, sir." "This too is the drawback of forms.</p>
+
+      <div class="compact">
+        <strong>§§22–29</strong> — The corpse contemplation continues through the remaining stages of the nine charnel-ground contemplations of MN 10:
+        <br>· Eaten by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures
+        <br>· A skeleton with flesh and blood, held together by sinews
+        <br>· A skeleton without flesh but smeared with blood, held together by sinews
+        <br>· A skeleton rid of flesh and blood, held together by sinews
+        <br>· Bones rid of sinews, scattered in every direction — here a hand-bone, there a foot-bone, here an ankle, there a shin-bone, here a thigh-bone, there a hip-bone, here a rib, there a back-bone, here an arm-bone, there a neck-bone, here a jaw-bone, there a tooth, here the skull
+        <br>· White bones, the color of shells
+        <br>· Decrepit bones, heaped in a pile
+        <br>· Bones rotted and crumbled to powder
+        <br>After each: <em>"Has not that former beauty vanished and the drawback become clear? This too is the drawback of forms."</em>
+      </div>
+
+      <h3>Forms — escape</h3>
+
+      <p><span class="segno">§30</span>And what is the escape from forms? Removing and giving up desire and greed for forms: this is the escape from forms.</p>
+
+      <p><span class="segno">§31</span>There are ascetics and brahmins who don't truly understand forms' gratification, drawback, and escape in this way for what they are. It's impossible for them to completely understand forms themselves, or to instruct another so that, practicing accordingly, they will completely understand forms. There are ascetics and brahmins who do truly understand forms' gratification, drawback, and escape in this way for what they are. It is possible for them to completely understand forms themselves, or to instruct another so that, practicing accordingly, they will completely understand forms.</p>
+
+      <h3>Feelings — gratification</h3>
+
+      <p><span class="segno">§32</span>And what is the gratification of feelings? It's when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. At that time a mendicant doesn't intend to hurt themselves, hurt others, or hurt both; they feel only feelings that are not hurtful. Freedom from being hurt is the ultimate gratification of feelings, I say.</p>
+
+      <p><span class="segno">§§33–35</span>Furthermore, a mendicant enters and remains in the second absorption … third absorption … fourth absorption. At that time a mendicant doesn't intend to hurt themselves, hurt others, or hurt both; they feel only feelings that are not hurtful. Freedom from being hurt is the ultimate gratification of feelings, I say.</p>
+
+      <h3>Feelings — drawback and escape</h3>
+
+      <p><span class="segno">§36</span>And what is the drawback of feelings? That feelings are impermanent, suffering, and perishable: this is their drawback.</p>
+
+      <p><span class="segno">§37</span>And what is the escape from feelings? Removing and giving up desire and greed for feelings: this is the escape from feelings.</p>
+
+      <p><span class="segno">§38</span>There are ascetics and brahmins who don't truly understand feelings' gratification, drawback, and escape in this way for what they are. It's impossible for them to completely understand feelings themselves, or to instruct another so that, practicing accordingly, they will completely understand feelings. There are ascetics and brahmins who do truly understand feelings' gratification, drawback, and escape in this way for what they are. It is possible for them to completely understand feelings themselves, or to instruct another so that, practicing accordingly, they will completely understand feelings."</p>
+
+      <p style="margin-top:20px"><strong>That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What occasions MN 13 — the specific event that prompts the Buddha's three-fold analysis?</div>
+        <button class="opt">Sāriputta asks for clarification on right view</button>
+        <button class="opt">A brahmin challenges the Buddha about caste</button>
+        <button class="opt">Several mendicants are challenged by wanderers of other religions who claim to teach the same complete understanding of sensual pleasures, forms, and feelings — and the mendicants come to the Buddha to learn the difference</button>
+        <button class="opt">A king asks about the four noble truths</button>
+        <div class="expl"><strong>Correct: C.</strong> The frame is the same as MN 11 (Sunakkhatta) and MN 12 (also Sunakkhatta) — rivals claim the same teaching as the Buddha. Each time the Buddha's reply is structural: there is a method that distinguishes his teaching. In MN 13 the method is the three-fold analysis: gratification, drawback, escape.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">The three-fold method of analysis the Buddha gives can be applied to any phenomenon. What are the three questions?</div>
+        <button class="opt">What is it · who has it · how to attain it</button>
+        <button class="opt">What is its gratification (assāda) · what is its drawback (ādīnava) · what is the escape (nissaraṇa)</button>
+        <button class="opt">Right view · right intention · right action</button>
+        <button class="opt">Body · feeling · mind</button>
+        <div class="expl"><strong>Correct: B.</strong> The three-fold structure is the canon's most portable analytical instrument. It applies to any object of attachment — sensual pleasures, forms, feelings, social media, status, even meditation itself. The Buddha's claim is that rival ascetics may name the same objects but cannot give the three-fold analysis for them.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">For sensual pleasures, what does the Buddha name as the gratification (assāda)?</div>
+        <button class="opt">There is no real gratification — sensual pleasure is illusory</button>
+        <button class="opt">Only the gratification of food</button>
+        <button class="opt">Only what virtuous householders enjoy</button>
+        <button class="opt">The pleasure and happiness that arise from the five kinds of sensual stimulation — sights, sounds, smells, tastes, and touches that are "likable, desirable, agreeable, pleasant, sensual, and arousing"</button>
+        <div class="expl"><strong>Correct: D.</strong> The Buddha begins honestly. The pleasure is real and named. Nothing is added or qualified. This is one of the most important pedagogical moves in the discourse — the path does not begin by denying that sensual pleasure is pleasant. It begins by naming the pleasure clearly, and then naming what comes with it.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">The drawback of sensual pleasures is given in eight specific categories. Which set is correct?</div>
+        <button class="opt">Hunger, thirst, cold, heat — the four physical discomforts</button>
+        <button class="opt">Greed, hatred, delusion, and their results in three lives</button>
+        <button class="opt">The labor of earning · failure to earn · success and its anxiety · social conflict · battle · siege · crime and punishment · bad rebirth</button>
+        <button class="opt">The five hindrances applied to the five senses</button>
+        <div class="expl"><strong>Correct: C.</strong> The cascade is deliberate. The first three are ordinary economic life. The next three are the social violence sensual goods trigger. The last two are the structural cost — the law (with its named tortures), and beyond it, karma (rebirth in a bad place). Each is named as <em>"a drawback of sensual pleasures apparent in the present life, a mass of suffering caused by sensual pleasures."</em></div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">In all three domains (sensual pleasures, forms, feelings), the Buddha gives the escape (nissaraṇa) in the same single phrase. What is it?</div>
+        <button class="opt">Entering the four absorptions</button>
+        <button class="opt">"Removing and giving up desire and greed" for the phenomenon</button>
+        <button class="opt">Going forth from the lay life</button>
+        <button class="opt">Practicing the four foundations of mindfulness</button>
+        <div class="expl"><strong>Correct: B.</strong> The escape is identical in every case. Notice how compact the escape is compared to the drawback — the drawback for sensual pleasures takes eight paragraphs, the escape takes one line. This is intentional. The drawback requires examination because it is normally hidden. The escape is simple to state — though, of course, not simple to do. The escape is not a technique; it is the giving-up of a relationship.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">For forms (rūpa), the Buddha gives the gratification as the beauty of a young woman in her fifteenth or sixteenth year. What does he give as the drawback?</div>
+        <button class="opt">Beauty is illusory — it never existed</button>
+        <button class="opt">The pursuit of beauty causes immediate suffering</button>
+        <button class="opt">The same person, taken through aging (eighty or ninety, bent double, with broken teeth, gray hair, wrinkled skin), illness (collapsed in her own urine and feces), and the nine stages of corpse decomposition — bloated, eaten by animals, skeletonized, bones scattered, white, decrepit, powder</button>
+        <button class="opt">The body must be denied entirely</button>
+        <div class="expl"><strong>Correct: C.</strong> The arc is severe but structurally precise. The same form that produced gratification will, given time, produce all of this. Beauty is not denied; it is shown across its full extent. The corpse contemplation echoes the nine charnel-ground stages from MN 10's mindfulness of the body.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">The third domain — feelings — takes a sharp turn. The Buddha gives the gratification of feelings as a specific kind of feeling. What is it?</div>
+        <button class="opt">The pleasure of sensual contact</button>
+        <button class="opt">The pleasure of a beautiful form</button>
+        <button class="opt">The pleasure of receiving praise</button>
+        <button class="opt">The pleasure of the four jhānas (absorptions) — specifically the bliss born of seclusion, the bliss born of immersion, the equanimous bliss of the third absorption, and the pure equanimity of the fourth</button>
+        <div class="expl"><strong>Correct: D.</strong> This is one of the discourse's most subtle moves. The highest gratification within the realm of feeling is not ordinary pleasure but jhānic pleasure. <em>"At that time a mendicant doesn't intend to hurt themselves, hurt others, or hurt both; they feel only feelings that are not hurtful. Freedom from being hurt is the ultimate gratification of feelings, I say."</em> The discourse then goes on to apply the same drawback analysis to these refined feelings.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">The drawback of feelings — even the jhānic ones — is named in a single phrase. What is it?</div>
+        <button class="opt">"That feelings are impermanent, suffering, and perishable"</button>
+        <button class="opt">"That feelings lead to bad conduct"</button>
+        <button class="opt">"That feelings exhaust the body"</button>
+        <button class="opt">"That feelings produce bad rebirth"</button>
+        <div class="expl"><strong>Correct: A.</strong> Why so brief? Because feelings — even jhānic feelings — share with everything conditioned the structural property of impermanence. They cannot last. A practitioner who clings to even the most refined meditative pleasure has set themselves up for the same arc as the practitioner who clings to sensual pleasure. The form is identical; only the object is different. The path is not "renounce sense, then enjoy meditation." It is "renounce sense, then renounce form, then renounce attachment to even the most refined feeling."</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">The Buddha says rival ascetics cannot give the three-fold analysis. Why?</div>
+        <button class="opt">Because they are dishonest</button>
+        <button class="opt">Because they are uneducated</button>
+        <button class="opt">Because they are "out of their element" — they may name the same objects but lack the contemplative capacity to recognize the gratification, drawback, and escape for what they are, especially for feelings (where no one outside the path can recognize meditative pleasure as something to be released)</button>
+        <button class="opt">Because they have never tried meditation</button>
+        <div class="expl"><strong>Correct: C.</strong> <em>"They would be stumped, and, in addition, would get frustrated. Why is that? Because they're out of their element."</em> The Buddha's claim is structural rather than tribal — the analysis requires a specific kind of training. Anyone who actually develops that training, in any tradition, would be able to give it. But without it, the same words ("complete understanding of sensual pleasures") cannot mean the same thing.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">A modern parallel: how would the three-fold analysis apply to a contemporary attachment, such as social media use?</div>
+        <button class="opt">Reject social media entirely</button>
+        <button class="opt">Use it without examining it</button>
+        <button class="opt">Gratification = dopamine, connection, affirmation; drawback = distraction, comparison, anxiety, erosion of attention; escape = removing and giving up desire and greed for it — same structure, different object</button>
+        <button class="opt">Apply only to monastics</button>
+        <div class="expl"><strong>Correct: C.</strong> The three-fold analysis is one of the most portable instruments in early Buddhist phenomenology. It applies to any object of attachment, including ones the discourse does not name. The discourse trains a way of relating to any pleasure: not denying it, not pursuing it, but seeing all three faces of it at once. Once the method is learned, the practitioner can apply it themselves to whatever object presents itself.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">dukkhakkhandha</span>mass of suffering</li>
+        <li><span class="pali">assāda</span>gratification</li>
+        <li><span class="pali">ādīnava</span>drawback / danger</li>
+        <li><span class="pali">nissaraṇa</span>escape / departure</li>
+        <li><span class="pali">kāma</span>sensual pleasure</li>
+        <li><span class="pali">rūpa</span>form (here: physical beauty)</li>
+        <li><span class="pali">vedanā</span>feeling</li>
+        <li><span class="pali">jhāna</span>absorption (four)</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 14 · Shorter Mass of Suffering (personal version)</li>
+        <li>MN 54 · With Potaliya (dog & bone simile)</li>
+        <li>MN 10 · Satipaṭṭhāna (the nine charnel-ground stages)</li>
+        <li>MN 11 · Shorter Lion's Roar (the rival-claim frame)</li>
+        <li>MA 99 · Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn13/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN13.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "The Great Mass of Stress," with notes on the three-fold analysis.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_099" target="_blank" rel="noopener">Northern parallel — MA 99</a> — the Chinese Madhyama-āgama counterpart ("Discourse on the Mass of Suffering").</li>
+      <li><a href="https://suttacentral.net/mn14/en/sujato" target="_blank" rel="noopener">MN 14 · The Shorter Discourse on the Mass of Suffering</a> — the personal companion piece to MN 13: the Buddha addressing Mahānāma the Sakyan, who is struggling with sensual desire despite years of practice.</li>
+      <li><a href="https://suttacentral.net/mn54/en/sujato" target="_blank" rel="noopener">MN 54 · With Potaliya</a> — the simile of the dog gnawing the bone, expanding on the drawback analysis of sensual pleasures.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-012.html"><span class="label">← Previous</span>MN 12 · The Longer Discourse on the Lion's Roar</a>
+    <a href="mn-014.html" class="next"><span class="label">Next →</span>MN 14 · The Shorter Discourse on the Mass of Suffering</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

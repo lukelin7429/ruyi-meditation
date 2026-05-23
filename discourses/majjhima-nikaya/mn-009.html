@@ -1,0 +1,1106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 9 — Right View | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Sammādiṭṭhisutta — Sāriputta's sixteen-framework treatment of right view, the canon's most systematic single discourse on what a noble disciple actually understands. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 9
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 9</div>
+  <h1>Right View</h1>
+  <p class="subtitle"><em>Sammādiṭṭhisutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī</dd>
+      <dt>Speaker</dt><dd>Venerable Sāriputta, addressing the assembly. The Buddha does not appear in this discourse.</dd>
+      <dt>Form</dt><dd>71 sections in dialogue. A single question — <em>how do you define a noble disciple who has right view?</em> — asked sixteen times. Each time Sāriputta answers with a different framework.</dd>
+      <dt>Length</dt><dd>~25 minutes to read. The longest of the opening ten MN discourses.</dd>
+      <dt>Northern parallel</dt><dd>MA 29 (Madhyama-āgama 29, "Discourse with Mahākoṭṭhita," in the chapter on karma)</dd>
+      <dt>Difficulty</dt><dd>★★★★☆ — accessible structure but very long. The architectural pattern of the discourse is the teaching as much as any single answer.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, ninth</h2>
+    <p class="lede">
+      MN 9 is the canon's most systematic single treatment of what a "noble disciple who has right view" actually understands. Sāriputta is asked one question — <em>how do you define such a disciple?</em> — and answers sixteen times. Each answer is a complete and self-contained framework.
+    </p>
+    <p>
+      The architecture is staggering. The first framework is about the skillful and unskillful with their roots. The second is the four fuels of existence. The third is the Four Noble Truths. The next twelve walk the chain of dependent origination in reverse, from old age and death back through rebirth, continued existence, grasping, craving, feeling, contact, the six sense fields, name and form, consciousness, choices, and ignorance. The sixteenth and final framework — defilements — closes the loop by sending the practitioner back to the start, because defilement gives rise to the very ignorance that began the chain.
+    </p>
+    <p>
+      The teaching that this discourse makes is not any single one of the sixteen answers. The teaching is that <em>right view</em> in the early Buddhist sense is not a doctrinal proposition to be assented to. It is a capacity to apply the four-fold understanding — <em>this is X, this is its origin, this is its cessation, this is the path to its cessation</em> — to whichever phenomenon the practitioner happens to be examining. The shape of the discourse is the shape of the practitioner's mind once right view has been established.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Right view is not a doctrine but a capacity — the trained ability to apply the four-fold understanding (<em>this is X, its origin, its cessation, the path</em>) to any phenomenon that arises.
+    </p>
+
+    <h3>The opening question</h3>
+    <p>
+      Sāriputta opens by quoting the phrase the assembly has already been hearing: <em>"They speak of this thing called 'right view.' How do you define a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching?"</em>
+    </p>
+    <p>
+      The mendicants don't answer. They say they would travel a long way to hear Sāriputta clarify it. He then proceeds to give them sixteen answers in turn. After each answer, they thank him and ask, <em>"But reverend, might there be another way to describe a noble disciple who has right view…?"</em> Each time, Sāriputta says: <em>"There might."</em>
+    </p>
+
+    <h3>The sixteen frameworks</h3>
+    <p>Read the list slowly. The sequence is deliberate:</p>
+    <table>
+      <thead><tr><th>#</th><th>Framework</th><th>§§</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>The skillful and unskillful, with their roots</td><td>3–8</td></tr>
+        <tr><td>2</td><td>The four fuels (<em>āhāra</em>) — edible food, contact, mental intention, consciousness</td><td>10–12</td></tr>
+        <tr><td>3</td><td>The Four Noble Truths — suffering, its origin, its cessation, the path</td><td>14–19</td></tr>
+        <tr><td>4</td><td>Old age and death (<em>jarāmaraṇa</em>)</td><td>21–23</td></tr>
+        <tr><td>5</td><td>Rebirth (<em>jāti</em>)</td><td>25–27</td></tr>
+        <tr><td>6</td><td>Continued existence (<em>bhava</em>)</td><td>29–31</td></tr>
+        <tr><td>7</td><td>Grasping (<em>upādāna</em>) — at sensual pleasures, views, precepts, theories of self</td><td>33–35</td></tr>
+        <tr><td>8</td><td>Craving (<em>taṇhā</em>) — for sights, sounds, smells, tastes, touches, ideas</td><td>37–39</td></tr>
+        <tr><td>9</td><td>Feeling (<em>vedanā</em>) — born of contact through the six senses</td><td>41–43</td></tr>
+        <tr><td>10</td><td>Contact (<em>phassa</em>) — through the six sense fields</td><td>45–47</td></tr>
+        <tr><td>11</td><td>The six sense fields (<em>saḷāyatana</em>)</td><td>49–51</td></tr>
+        <tr><td>12</td><td>Name and form (<em>nāmarūpa</em>)</td><td>53–55</td></tr>
+        <tr><td>13</td><td>Consciousness (<em>viññāṇa</em>) — of the six classes</td><td>57–59</td></tr>
+        <tr><td>14</td><td>Choices (<em>saṅkhāra</em>) — by way of body, speech, and mind</td><td>61–63</td></tr>
+        <tr><td>15</td><td>Ignorance (<em>avijjā</em>)</td><td>65–67</td></tr>
+        <tr><td>16</td><td>Defilements (<em>āsava</em>) — of sensuality, desire to be reborn, ignorance</td><td>69–71</td></tr>
+      </tbody>
+    </table>
+
+    <h3>The architecture: a loop through dependent origination</h3>
+    <p>
+      Frameworks 4 through 15 walk the chain of dependent origination — the twelve links — in reverse, from the most visible (old age and death) back to the most subtle (ignorance). The same four-fold understanding is applied to each link in turn. <em>What is X? What is its origin? What is its cessation? What is the practice that leads to its cessation?</em> Twelve times.
+    </p>
+    <p>
+      And every single time, the answer to the fourth question — <em>what is the practice that leads to its cessation?</em> — is the same: <em>"It is simply this noble eightfold path: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion."</em>
+    </p>
+    <p>
+      Twelve different things to be understood; one practice to address them all. The architecture is making the same democratic claim as MN 6: there is one path, and it works regardless of which link of dependent origination the practitioner is examining.
+    </p>
+
+    <h3>The loop closes — and starts again</h3>
+    <p>
+      The fifteenth framework is ignorance, the first link in dependent origination. One would expect this to be the end. But Sāriputta is asked once more, <em>"Might there be another way?"</em>, and he answers: <em>"There might. A noble disciple understands defilement…"</em>
+    </p>
+    <p>
+      What is the origin of ignorance? Defilement (<em>āsava</em>). What is the origin of defilement? Ignorance. The loop closes on itself. The two are mutually conditioning. There is no "first cause" further back. This is one of the canon's most precise statements of the structural problem the path is designed to solve — defilement and ignorance feed each other, and the only way out is to enter the eightfold path that is given as the answer to both.
+    </p>
+
+    <h3>The repeated closing — three underlying tendencies</h3>
+    <p>
+      At the end of each of the sixteen frameworks, the same closing paragraph appears:
+    </p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "They've completely given up the underlying tendency to greed, got rid of the underlying tendency to aversion, and eradicated the underlying tendency to the view and conceit 'I am.' They've given up ignorance and given rise to knowledge, and make an end of suffering in this very life."
+    </blockquote>
+    <p>
+      Three underlying tendencies (<em>anusaya</em>) — greed, aversion, and the conceit "I am" — are what fall away when the four-fold understanding is real. Plus ignorance. The closing is the same regardless of which framework was used to reach it. The frameworks are doors; what is on the other side is the same.
+    </p>
+
+    <h3>What "right view" actually means</h3>
+    <p>
+      The classical Western expectation of "right view" is that it would name a specific set of beliefs — the four noble truths, perhaps, or non-self, or karma. Sāriputta is doing something different. He is showing that any of the sixteen frameworks works as a complete description of right view, because what unifies them is not their content but their <em>form</em>:
+    </p>
+    <ol>
+      <li>Identify what is happening (the skillful and unskillful, suffering, old age and death, craving, etc.).</li>
+      <li>See what gives rise to it.</li>
+      <li>See what its cessation is.</li>
+      <li>Apply the eightfold path.</li>
+    </ol>
+    <p>
+      <em>Right view is the trained capacity to do this four-fold analysis on whatever phenomenon presents itself.</em> The sixteen frameworks are sixteen practice exercises in the same fundamental move. By the end of the discourse, the listener should be able to do the fifth, the seventeenth, or the hundredth instance themselves — apply the same four-fold structure to any new phenomenon — because the form has been deeply learned.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The discourse resembles, in form, a graduate seminar where the same analytical method is applied repeatedly to different objects until students internalize the method itself. Consider how a doctor is trained — not by memorizing the symptoms of every possible disease, but by learning a diagnostic structure (history, examination, differential, treatment, follow-up) that scales to any presentation. MN 9 is doing the same for the practitioner's relationship with their own experience: <em>here is the structure; we will run it sixteen times; by the end you will be able to run it yourself on whatever arises.</em>
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Why is the same question asked sixteen times? Couldn't Sāriputta have just given one answer?"</strong> No — and the redundancy is the teaching. A single answer would make right view look like a doctrine ("the four noble truths," for instance). Sixteen answers make clear that right view is a method that can be applied to anything. Each repetition is a practice run of the same move. The pedagogy is deliberate and patient.</p>
+
+    <p><strong>"What's the relationship between this discourse and the four noble truths?"</strong> The Four Noble Truths are framework #3 of sixteen. They are not the master framework; they are an instance of it. The master framework is the four-fold analysis itself: thing, origin, cessation, path. The Four Noble Truths apply this to <em>suffering</em>. The four fuels apply it to <em>fuel</em>. Old age and death apply it to <em>old age and death</em>. The discourse is the canon's clearest statement that the Four Noble Truths are not a uniquely sacred formula — they are the most famous application of a structure that applies to twelve other things just as completely.</p>
+
+    <p><strong>"Defilement gives rise to ignorance, and ignorance gives rise to defilement — isn't that a vicious circle? How does anyone escape?"</strong> The discourse names the circle precisely and then names the way out. The eightfold path is given as the cessation of <em>both</em> defilement and ignorance. The escape is not by tracing the chain back to a first cause — there isn't one — but by entering the path at any point. The repetition that the eightfold path appears as the answer in every single framework is doing the work of saying: <em>there is one door, and it is here</em>.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">sammādiṭṭhi</span> — right view. The first factor of the noble eightfold path. The discourse's central concept. Not a doctrine but a trained capacity to apply the four-fold analysis to any phenomenon.
+      </div>
+      <div class="term">
+        <span class="pali-word">kusala / akusala</span> — skillful and unskillful. The first framework's pair. <em>Kusala</em> is what conduces to well-being; <em>akusala</em> is what does not. Framework 1 is the discourse's most concrete entry-point.
+      </div>
+      <div class="term">
+        <span class="pali-word">lobha · dosa · moha</span> — greed, hate, delusion. The three roots of the unskillful. Their absence — <em>alobha · adosa · amoha</em>, contentment, love, understanding — are the three roots of the skillful.
+      </div>
+      <div class="term">
+        <span class="pali-word">āhāra</span> — fuel, nutriment. Framework 2. Four kinds: edible food (solid or subtle), contact, mental intention, consciousness. What "maintains" sentient beings already born and "helps" those about to be born.
+      </div>
+      <div class="term">
+        <span class="pali-word">paṭiccasamuppāda</span> — dependent origination. Not named in this discourse, but its twelve links form the spine of frameworks 4–15. Each link is treated with the same four-fold analysis.
+      </div>
+      <div class="term">
+        <span class="pali-word">anusaya</span> — underlying tendency. The three named in the repeated closing: greed, aversion, and the view-and-conceit "I am" (<em>asmimāna</em>). These are not surface emotions but the deep inclinations from which surface emotions arise. Their giving-up is what "right view" produces.
+      </div>
+      <div class="term">
+        <span class="pali-word">āsava</span> — defilement, taint. Framework 16. Three types: sensuality, desire to be reborn, ignorance. The discourse's closing-of-the-loop: ignorance arises from defilement; defilement arises from ignorance.
+      </div>
+      <div class="term">
+        <span class="pali-word">aveccappasāda</span> — experiential confidence. Same term as MN 7. Here used to characterize the noble disciple — one who has <em>aveccappasāda</em> "in the teaching, and has come to the true teaching." Confidence that arises from discernment, not from second-hand belief.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 9 has 71 sections. Sāriputta opens (§§1–2), gives the first framework in full (§§3–8), the second (§§10–12) and third (§§14–19) in full as the Four Noble Truths formulation, and then runs the twelve dependent-origination links (§§21–67) with a compact pattern. The discourse ends with the loop-closing defilements framework (§§69–71). Throughout, the question <em>"But reverend, might there be another way…?"</em> and the answer <em>"There might"</em> repeat as connectives. Sujato's print form abbreviates §§22–67. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>Sāriputta's opening question</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There Sāriputta addressed the mendicants: "Reverends, mendicants!" "Reverend," they replied. Sāriputta said this:</p>
+
+      <p><span class="segno">§2</span>"Reverends, they speak of this thing called 'right view'. How do you define a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching?" "Reverend, we would travel a long way to learn the meaning of this statement in the presence of Venerable Sāriputta. May Venerable Sāriputta himself please clarify the meaning of this. The mendicants will listen and remember it." "Well then, reverends, listen and apply your mind well, I will speak." "Yes, reverend," they replied. Sāriputta said this:</p>
+
+      <h3>Framework 1 — The skillful and unskillful and their roots</h3>
+
+      <p><span class="segno">§3</span>"A noble disciple understands the unskillful and its root, and the skillful and its root. When they've done this, they're defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching.</p>
+
+      <p><span class="segno">§4</span>But what is the unskillful and what is its root? And what is the skillful and what is its root? Killing living creatures, stealing, and sexual misconduct; speech that's false, backbiting, harsh, or nonsensical; and covetousness, ill will, and wrong view. This is called the unskillful.</p>
+
+      <p><span class="segno">§5</span>And what is the root of the unskillful? Greed, hate, and delusion. This is called the root of the unskillful.</p>
+
+      <p><span class="segno">§6</span>And what is the skillful? Avoiding killing living creatures, stealing, and sexual misconduct; avoiding speech that's false, backbiting, harsh, or nonsensical; contentment, good will, and right view. This is called the skillful.</p>
+
+      <p><span class="segno">§7</span>And what is the root of the skillful? Contentment, love, and understanding. This is called the root of the skillful.</p>
+
+      <p><span class="segno">§8</span>A noble disciple understands in this way the unskillful and its root, and the skillful and its root. They've completely given up the underlying tendency to greed, got rid of the underlying tendency to aversion, and eradicated the underlying tendency to the view and conceit 'I am'. They've given up ignorance and given rise to knowledge, and make an end of suffering in this very life. When they've done this, they're defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching."</p>
+
+      <h3>Framework 2 — The four fuels</h3>
+
+      <p><span class="segno">§9</span>Saying "Good, reverend," those mendicants approved and agreed with what Sāriputta said. Then they asked another question: "But reverend, might there be another way to describe a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching?"</p>
+
+      <p><span class="segno">§10</span>"There might, reverends. A noble disciple understands fuel, its origin, its cessation, and the practice that leads to its cessation. When they've done this, they're defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching.</p>
+
+      <p><span class="segno">§11</span>But what is fuel? What is its origin, its cessation, and the practice that leads to its cessation? These four fuels maintain sentient beings that have been born and help those about to be born. What four? Edible food, whether solid or subtle; contact is the second, mental intention the third, and consciousness the fourth. Fuel originates from craving. Fuel ceases when craving ceases. The practice that leads to the cessation of fuel is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.</p>
+
+      <p><span class="segno">§12</span>A noble disciple understands in this way fuel, its origin, its cessation, and the practice that leads to its cessation. They've completely given up the underlying tendency to greed, got rid of the underlying tendency to aversion, and eradicated the underlying tendency to the view and conceit 'I am'. They've given up ignorance and given rise to knowledge, and make an end of suffering in this very life. When they've done this, they're defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching."</p>
+
+      <h3>Framework 3 — The Four Noble Truths</h3>
+
+      <p><span class="segno">§13</span>Saying "Good, reverend," those mendicants … asked another question: "But reverend, might there be another way…?"</p>
+
+      <p><span class="segno">§14</span>"There might, reverends. A noble disciple understands suffering, its origin, its cessation, and the practice that leads to its cessation. When they've done this, they're defined as a noble disciple who … has come to the true teaching.</p>
+
+      <p><span class="segno">§15</span>But what is suffering? Rebirth is suffering; old age is suffering; death is suffering; sorrow, lamentation, pain, sadness, and distress are suffering; being coupled with the disliked is suffering; separation from the liked is suffering; not getting what you wish for is suffering. In brief, the five grasping aggregates are suffering. This is called suffering.</p>
+
+      <p><span class="segno">§16</span>And what is the origin of suffering? It's the craving that leads to future lives, mixed up with relishing and greed, taking pleasure there wherever it alights. That is, craving for sensual pleasures, craving for existence, and craving for nonexistence. This is called the origin of suffering.</p>
+
+      <p><span class="segno">§17</span>And what is the cessation of suffering? It's the fading away and cessation of that very same craving with no residue left behind; giving it away, letting it go, releasing it, and not clinging to it. This is called the cessation of suffering.</p>
+
+      <p><span class="segno">§18</span>And what is the practice that leads to the cessation of suffering? It is simply this noble eightfold path, that is: right view … right immersion. This is called the practice that leads to the cessation of suffering.</p>
+
+      <p><span class="segno">§19</span>A noble disciple understands in this way suffering, its origin, its cessation, and the practice that leads to its cessation. They've completely given up the underlying tendency to greed, got rid of the underlying tendency to aversion, and eradicated the underlying tendency to the view and conceit 'I am'. They've given up ignorance and given rise to knowledge, and make an end of suffering in this very life…"</p>
+
+      <h3>Frameworks 4–15 — The twelve links of dependent origination, in reverse</h3>
+
+      <div class="compact">
+        From §21 to §67, Sāriputta runs the same four-fold pattern through the twelve links of dependent origination, walking the chain backwards from its end to its source. Each framework is structured: "But reverend, might there be another way?" — "There might, reverends. A noble disciple understands X, its origin, its cessation, and the practice that leads to its cessation." Then a definition of X. Then the link to its origin (the next deeper link). Then the same noble eightfold path as the practice that leads to its cessation. Then the same closing about giving up the three underlying tendencies and ending suffering in this very life.
+      </div>
+
+      <p><span class="segno">§§21–23</span> · <strong>Framework 4 — Old age and death</strong> <em>(jarāmaraṇa)</em>: the decay and dissolution of all sentient beings. Originates from rebirth.</p>
+
+      <p><span class="segno">§§25–27</span> · <strong>Framework 5 — Rebirth</strong> <em>(jāti)</em>: the inception, conception, and manifestation of the aggregates. Originates from continued existence.</p>
+
+      <p><span class="segno">§§29–31</span> · <strong>Framework 6 — Continued existence</strong> <em>(bhava)</em>: three states — sensual, fine-material, formless. Originates from grasping.</p>
+
+      <p><span class="segno">§§33–35</span> · <strong>Framework 7 — Grasping</strong> <em>(upādāna)</em>: four kinds — at sensual pleasures, at views, at precepts-and-observances, at theories of a self. Originates from craving.</p>
+
+      <p><span class="segno">§§37–39</span> · <strong>Framework 8 — Craving</strong> <em>(taṇhā)</em>: six classes, one for each sense — sights, sounds, smells, tastes, touches, ideas. Originates from feeling.</p>
+
+      <p><span class="segno">§§41–43</span> · <strong>Framework 9 — Feeling</strong> <em>(vedanā)</em>: six classes, born of contact through each of the six senses. Originates from contact.</p>
+
+      <p><span class="segno">§§45–47</span> · <strong>Framework 10 — Contact</strong> <em>(phassa)</em>: six classes — through eye, ear, nose, tongue, body, mind. Originates from the six sense fields.</p>
+
+      <p><span class="segno">§§49–51</span> · <strong>Framework 11 — The six sense fields</strong> <em>(saḷāyatana)</em>: the six fields of sense. Originate from name and form.</p>
+
+      <p><span class="segno">§§53–55</span> · <strong>Framework 12 — Name and form</strong> <em>(nāmarūpa)</em>: <em>name</em> = feeling, perception, intention, contact, application of mind. <em>Form</em> = the four principal states (earth, water, fire, air) and form derived from them. Originate from consciousness.</p>
+
+      <p><span class="segno">§§57–59</span> · <strong>Framework 13 — Consciousness</strong> <em>(viññāṇa)</em>: six classes — eye-consciousness, ear-consciousness, nose-, tongue-, body-, mind-consciousness. Originates from choices.</p>
+
+      <p><span class="segno">§§61–63</span> · <strong>Framework 14 — Choices</strong> <em>(saṅkhāra)</em>: three kinds — by way of body, speech, and mind. Originate from ignorance.</p>
+
+      <p><span class="segno">§§65–67</span> · <strong>Framework 15 — Ignorance</strong> <em>(avijjā)</em>: not knowing about suffering, its origin, its cessation, and the path. Originates from defilement.</p>
+
+      <h3>Framework 16 — The loop closes — defilements</h3>
+
+      <p><span class="segno">§68</span>Saying "Good, reverend," those mendicants approved and agreed with what Sāriputta said. Then they asked another question: "But reverend, might there be another way to describe a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching?"</p>
+
+      <p><span class="segno">§69</span>"There might, reverends. A noble disciple understands defilement, its origin, its cessation, and the practice that leads to its cessation. When they've done this, they're defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching.</p>
+
+      <p><span class="segno">§70</span>But what is defilement? What is its origin, its cessation, and the practice that leads to its cessation? There are these three defilements. The defilements of sensuality, desire to be reborn, and ignorance. Defilement originates from ignorance. Defilement ceases when ignorance ceases. The practice that leads to the cessation of defilement is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.</p>
+
+      <p><span class="segno">§71</span>A noble disciple understands in this way defilement, its origin, its cessation, and the practice that leads to its cessation. They've completely given up the underlying tendency to greed, got rid of the underlying tendency to aversion, and eradicated the underlying tendency to the view and conceit 'I am'. They've given up ignorance and given rise to knowledge, and make an end of suffering in this very life. When they've done this, they're defined as a noble disciple who has right view, whose view is correct, who has experiential confidence in the teaching, and has come to the true teaching."</p>
+
+      <p style="margin-top:20px"><strong>This is what Venerable Sāriputta said. Satisfied, the mendicants approved what Sāriputta said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">Who delivers MN 9? And what is structurally unusual about it?</div>
+        <button class="opt">The Buddha alone, addressing Sāriputta</button>
+        <button class="opt">Sāriputta alone — the Buddha does not appear in this discourse at all</button>
+        <button class="opt">Sāriputta and Mahāmoggallāna together</button>
+        <button class="opt">Mahācunda, asking the Buddha questions</button>
+        <div class="expl"><strong>Correct: B.</strong> MN 5 was the first MN where the Buddha did not appear (Sāriputta and Mahāmoggallāna teaching together). MN 9 is the second, and here Sāriputta teaches alone. The senior disciples are increasingly carrying the discourse on their own as the opening Mūlapariyāya chapter unfolds.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">A single question is asked of Sāriputta — and he answers it again and again with different frameworks. How many distinct frameworks does he give?</div>
+        <button class="opt">Four</button>
+        <button class="opt">Eight</button>
+        <button class="opt">Twelve</button>
+        <button class="opt">Sixteen</button>
+        <div class="expl"><strong>Correct: D.</strong> The skillful/unskillful with their roots, the four fuels, the Four Noble Truths, then the twelve links of dependent origination (each treated separately), and finally the defilements. Sixteen frameworks total. The redundancy is the teaching: right view is not a doctrine but a method that scales to any phenomenon.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What is the FIRST framework Sāriputta gives — the most concrete entry into right view?</div>
+        <button class="opt">The Four Noble Truths</button>
+        <button class="opt">Dependent origination</button>
+        <button class="opt">The skillful and unskillful with their roots</button>
+        <button class="opt">Defilements</button>
+        <div class="expl"><strong>Correct: C.</strong> Sāriputta begins with the most practical framework: a noble disciple understands the ten unskillful courses of action (killing, stealing, sexual misconduct, false speech, backbiting, harsh speech, nonsense, covetousness, ill will, wrong view), their roots (greed, hate, delusion), the skillful counterparts, and their roots (contentment, love, understanding). The Four Noble Truths come third, not first.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">The second framework introduces "the four fuels" (āhāra). What are they?</div>
+        <button class="opt">Air, water, fire, earth</button>
+        <button class="opt">Sights, sounds, smells, tastes</button>
+        <button class="opt">Edible food, contact, mental intention, consciousness</button>
+        <button class="opt">Greed, hate, delusion, ignorance</button>
+        <div class="expl"><strong>Correct: C.</strong> The four nutriments that "maintain sentient beings that have been born and help those about to be born." The teaching subsumes physical food into a larger category: anything the mind takes in and metabolizes. Contact, intention, and consciousness are also nutriments — they sustain a particular kind of being just as food sustains the body.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">Frameworks 4 through 15 walk the twelve links of dependent origination — but in which direction?</div>
+        <button class="opt">Forwards: from ignorance to old age and death</button>
+        <button class="opt">Inward: from external to internal causes</button>
+        <button class="opt">Backwards: from old age and death back to ignorance</button>
+        <button class="opt">Randomly</button>
+        <div class="expl"><strong>Correct: C.</strong> Sāriputta starts with what is most visible — old age and death — and walks back through rebirth, continued existence, grasping, craving, feeling, contact, the six sense fields, name and form, consciousness, choices, finally to ignorance. The order is pedagogical: begin with the obvious, trace back to the subtle.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">For every single framework, what is the answer to "what is the practice that leads to the cessation of X?"</div>
+        <button class="opt">It varies — each phenomenon has its own specific cure</button>
+        <button class="opt">Sallekha — the work on the forty-four items</button>
+        <button class="opt">The noble eightfold path — the same in every case</button>
+        <button class="opt">The four divine abidings</button>
+        <div class="expl"><strong>Correct: C.</strong> Sixteen frameworks, one path. This is the same structural claim as MN 6 — there is no specialized cure for each defilement; the foundation is one. The eightfold path appears as the answer to all sixteen framings.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">After framework 15 (ignorance), the assembly asks Sāriputta once more, "Might there be another way?" His answer adds a sixteenth framework — defilements — that closes the loop. Why?</div>
+        <button class="opt">Defilements are easier to see than ignorance</button>
+        <button class="opt">The Buddha asked for one more framework</button>
+        <button class="opt">Sāriputta accidentally repeats himself</button>
+        <button class="opt">Defilements give rise to ignorance, and ignorance gives rise to defilements — the two are mutually conditioning, and naming this loop is part of right view</button>
+        <div class="expl"><strong>Correct: D.</strong> A subtle structural move. There is no "first cause" further back than ignorance, and the next thing in the chain — defilements — is itself what gives rise to ignorance. The loop is the diagnosis. The eightfold path, named as the practice for both, is the way out — not by tracing back to a first cause but by entering the path at any point.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">The repeated closing paragraph names three "underlying tendencies" (anusaya) that are given up when right view is established. What are they?</div>
+        <button class="opt">Greed, hate, delusion</button>
+        <button class="opt">Greed, aversion, and the view-and-conceit "I am"</button>
+        <button class="opt">Faith, energy, mindfulness</button>
+        <button class="opt">Sensual desire, ill will, doubt</button>
+        <div class="expl"><strong>Correct: B.</strong> <em>Rāgānusaya · paṭighānusaya · asmimānānusaya.</em> The greed-tendency, the aversion-tendency, and the conceit-"I-am" tendency. Plus ignorance. These are not surface emotions but the deep inclinations from which surface emotions arise. Their giving-up is what right view produces, across all sixteen frameworks.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">The discourse's most generalizable claim — what "right view" actually means — is:</div>
+        <button class="opt">Believing in the Four Noble Truths</button>
+        <button class="opt">The trained capacity to apply a four-fold analysis (this is X · its origin · its cessation · the path) to whatever phenomenon presents itself</button>
+        <button class="opt">Memorizing the twelve links of dependent origination</button>
+        <button class="opt">Accepting the teachings of one's tradition</button>
+        <div class="expl"><strong>Correct: B.</strong> The Four Noble Truths are framework #3 of sixteen — they are not the master framework; they are an instance of it. The master framework is the four-fold analysis itself, which applies to suffering (the Four Noble Truths), to fuel, to old age and death, to consciousness, to anything. Sixteen repetitions train the practitioner in the move; by the end they should be able to apply the same move to the seventeenth or hundredth phenomenon themselves.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">A modern parallel: how is MN 9's pedagogy structured?</div>
+        <button class="opt">Like a single mantra repeated for memorization</button>
+        <button class="opt">Like a story building to a climax</button>
+        <button class="opt">Like a graduate seminar where the same analytical method is applied repeatedly to different objects until students internalize the method itself</button>
+        <button class="opt">Like a doctrinal catechism</button>
+        <div class="expl"><strong>Correct: C.</strong> Consider how a doctor is trained — not by memorizing the symptoms of every disease, but by learning a diagnostic structure (history, examination, differential, treatment, follow-up) that scales to any presentation. MN 9 is doing the same for the practitioner's relationship with their own experience. The pedagogy is patient and deliberate. The redundancy is the teaching.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">sammādiṭṭhi</span>right view</li>
+        <li><span class="pali">kusala · akusala</span>skillful · unskillful</li>
+        <li><span class="pali">lobha · dosa · moha</span>greed · hate · delusion</li>
+        <li><span class="pali">āhāra</span>fuel, nutriment (four)</li>
+        <li><span class="pali">paṭiccasamuppāda</span>dependent origination</li>
+        <li><span class="pali">anusaya</span>underlying tendency</li>
+        <li><span class="pali">āsava</span>defilement (three)</li>
+        <li><span class="pali">aveccappasāda</span>experiential confidence</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 3 · Heirs in the Teaching (Sāriputta solo)</li>
+        <li>MN 5 · Unblemished (Sāriputta + Mahāmoggallāna)</li>
+        <li>MN 141 · Analysis of the Truths (Sāriputta on FNT)</li>
+        <li>SN 12 · Nidāna Saṁyutta (dependent origination)</li>
+        <li>MA 29 · Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn9/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN9.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "Right View," with notes on each framework.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_029" target="_blank" rel="noopener">Northern parallel — MA 29</a> — the Chinese Madhyama-āgama counterpart ("Discourse with Mahākoṭṭhita"). In the Chinese version, the questioner is Mahākoṭṭhita rather than the assembly.</li>
+      <li><a href="https://suttacentral.net/sn12.1/en/sujato" target="_blank" rel="noopener">SN 12 · Nidāna Saṁyutta</a> — the Saṁyutta Nikāya's collection of discourses on dependent origination, expanding the spine of MN 9's frameworks 4–15.</li>
+      <li><a href="https://suttacentral.net/mn141/en/sujato" target="_blank" rel="noopener">MN 141 · The Analysis of the Truths</a> — Sāriputta's longest single treatment of the Four Noble Truths, taking framework #3 of MN 9 and unfolding it.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-008.html"><span class="label">← Previous</span>MN 8 · Self-Effacement</a>
+    <a href="mn-010.html" class="next"><span class="label">Next →</span>MN 10 · Mindfulness Meditation</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

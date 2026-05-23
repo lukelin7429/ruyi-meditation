@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 7 — The Simile of the Cloth | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Vatthūpamasutta — the sixteen corruptions of the mind, the Triple Gem confidence, the four divine abidings, and the famous river-bathing dialogue. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 7
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 7</div>
+  <h1>The Simile of the Cloth</h1>
+  <p class="subtitle"><em>Vatthūpamasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī</dd>
+      <dt>Speaker</dt><dd>The Buddha, addressing the mendicants; with a closing dialogue with the brahmin Bhāradvāja of Sundarikā</dd>
+      <dt>Form</dt><dd>22 sections. A teaching with a frame simile, a complete map of the path (corruptions → confidence → joy → samādhi → divine abidings → liberation), and a closing brahmin-conversion narrative in verse</dd>
+      <dt>Length</dt><dd>~15 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>MA 93 (Madhyama-āgama 93, "Discourse on the Water-Purifying Brahmin")</dd>
+      <dt>Difficulty</dt><dd>★★★☆☆ — accessible imagery, but dense with classical Pāli formulations. Reads like a textbook chapter folded into a single discourse.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, seventh</h2>
+    <p class="lede">
+      MN 7 is one of the densest single discourses in the Majjhima Nikāya. In twenty-two sections it lays out the entire arc of the path: from the sixteen specific mental corruptions that block progress, through the gateway of experiential confidence in the Triple Gem, through the classical joy-to-samādhi chain, the four divine abidings, and finally to liberation itself — followed by a closing verse-dialogue with a river-bathing brahmin that produces, in three verses, an instant arahant.
+    </p>
+    <p>
+      The frame is the cloth simile that gives the discourse its name. A dirty cloth, no matter what color you try to dye it, will come out muddy. A clean cloth takes the dye brightly. The teaching is the same with the mind: until the corruptions are seen and given up, no practice will land cleanly. This is one of the canon's most concrete illustrations of why ethical and psychological purification must precede deep contemplative work.
+    </p>
+    <p>
+      The discourse also contains the canonical formulas that recite the qualities of the Triple Gem — formulas chanted daily by Buddhist communities for twenty-five hundred years. To read MN 7 carefully is to read the source of those formulations.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      The mind is the cloth; sixteen specific corruptions are the dirt; until they are seen and given up, no further practice will take the dye cleanly — but once the cloth is clean, the entire path opens, all the way to the inner bathing that no river can substitute for.
+    </p>
+
+    <h3>The cloth simile</h3>
+    <p>
+      The Buddha opens with a craftsman's image. A dyer takes a piece of cloth and applies dye — blue, yellow, red, magenta. If the cloth is dirty and soiled, no matter what color is used, the result is poorly dyed and impure in color. If the cloth is pure and clean, the same dyes produce a beautiful and accurate result. <em>"In the same way, when the mind is corrupt, a bad destiny is to be expected; when the mind isn't corrupt, a good destiny is to be expected."</em>
+    </p>
+    <p>
+      Notice what this is and isn't. It isn't a teaching that practice doesn't matter; the dye matters very much. It is a teaching that <em>practice on an unprepared mind doesn't take</em>. The discourse will spend its remaining nineteen sections walking through what cleaning the cloth, and then dyeing it, actually look like.
+    </p>
+
+    <h3>The sixteen corruptions</h3>
+    <p>The Buddha names sixteen specific mental corruptions <em>(cittupakkilesa)</em>. The first two are stated together; the rest are listed individually:</p>
+    <table>
+      <thead><tr><th>#</th><th>Pāli</th><th>English</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td><em>abhijjhā visamalobha</em></td><td>Covetousness and immoral greed</td></tr>
+        <tr><td>2</td><td><em>byāpāda</em></td><td>Ill will</td></tr>
+        <tr><td>3</td><td><em>kodha</em></td><td>Anger</td></tr>
+        <tr><td>4</td><td><em>upanāha</em></td><td>Acrimony / bitterness</td></tr>
+        <tr><td>5</td><td><em>makkha</em></td><td>Disdain / belittling others' kindness</td></tr>
+        <tr><td>6</td><td><em>palāsa</em></td><td>Contempt / setting oneself up as equal</td></tr>
+        <tr><td>7</td><td><em>issā</em></td><td>Jealousy</td></tr>
+        <tr><td>8</td><td><em>macchariya</em></td><td>Stinginess</td></tr>
+        <tr><td>9</td><td><em>māyā</em></td><td>Deceit</td></tr>
+        <tr><td>10</td><td><em>sāṭheyya</em></td><td>Deviousness</td></tr>
+        <tr><td>11</td><td><em>thambha</em></td><td>Obstinacy</td></tr>
+        <tr><td>12</td><td><em>sārambha</em></td><td>Aggression / contentiousness</td></tr>
+        <tr><td>13</td><td><em>māna</em></td><td>Conceit</td></tr>
+        <tr><td>14</td><td><em>atimāna</em></td><td>Arrogance</td></tr>
+        <tr><td>15</td><td><em>mada</em></td><td>Vanity / intoxication of self</td></tr>
+        <tr><td>16</td><td><em>pamāda</em></td><td>Negligence / heedlessness</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The list overlaps significantly with Sāriputta's eight pairs at MN 3 (§§8–15). The two are not in tension — they cover the same ground. MN 7 leads with <em>covetousness</em> and <em>ill will</em> (the head of the five hindrances), then continues through the same fourteen qualities Sāriputta named, listed individually rather than in pairs. Reading MN 7 alongside MN 3 makes both lists more memorable: MN 3 is the pairing, MN 7 is the enumeration.
+    </p>
+    <p>
+      The Buddha's instruction is austere and structural: <em>"A mendicant who understands that covetousness and immoral greed are corruptions of the mind gives them up."</em> Same for each of the sixteen. Understanding plus action — that is the entire treatment. No technique; no special meditation. The understanding <em>is</em> the giving up.
+    </p>
+
+    <h3>Experiential confidence in the Triple Gem</h3>
+    <p>
+      What follows the giving-up of the corruptions is one of the most-repeated formulas in the Pāli Canon — the canonical recitation of the qualities of the Triple Gem, framed as <em>aveccappasāda</em>, "experiential confidence." Not belief at second hand, but the settled confidence that arises when one's own mind has been cleaned enough to see what the teaching is pointing at.
+    </p>
+    <p>
+      <strong>In the Buddha</strong> (§5): <em>"That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those fit for training, teacher of gods and humans, awakened, blessed."</em>
+    </p>
+    <p>
+      <strong>In the Teaching</strong> (§6): <em>"The teaching is well explained by the Buddha — apparent in the present life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves."</em>
+    </p>
+    <p>
+      <strong>In the Saṅgha</strong> (§7): <em>"The Saṅgha of the Buddha's disciples is practicing the way that's good, direct, systematic, and proper. It consists of the four pairs, the eight individual persons. This is the Saṅgha of the Buddha's disciples that is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with cupped palms, and is the supreme field of merit for the world."</em>
+    </p>
+    <p>
+      These are the formulas chanted as <em>Itipi so</em>, <em>Svākkhāto</em>, and <em>Supaṭipanno</em> in Theravāda communities to this day. MN 7 is one of their canonical sources.
+    </p>
+
+    <h3>The joy-to-samādhi chain</h3>
+    <p>
+      What happens after experiential confidence arises is described as a chain — another formula that appears in many discourses, but is here connected explicitly to the cleaning of the cloth:
+    </p>
+    <ol>
+      <li><strong>Inspiration and joy</strong> connected with the teaching (<em>pāmojja</em>)</li>
+      <li><strong>Rapture</strong> springs up (<em>pīti</em>)</li>
+      <li><strong>The body becomes tranquil</strong> (<em>passaddhi</em>)</li>
+      <li><strong>Bliss is felt</strong> (<em>sukha</em>)</li>
+      <li><strong>The mind becomes immersed in samādhi</strong></li>
+    </ol>
+    <p>
+      Each link gives rise to the next. The chain is not optional or extra; it is the natural sequence of an unobstructed mind. Once the cloth is clean, this is simply what happens.
+    </p>
+
+    <h3>The fine-rice parable</h3>
+    <p>
+      Section 12 contains a small but important detail. <em>"When a mendicant of such ethics, such qualities, and such wisdom eats boiled fine rice with the dark grains picked out and served with many soups and sauces, that is no obstacle for them."</em>
+    </p>
+    <p>
+      The vocabulary is precise: it is exactly the same fine-rice phrase that appeared in MN 5's "fine-rice cup" simile. The point is that the cleansed mind is no longer endangered by what it eats. Good food is no obstacle. A cloth that has been washed in pure water is now clean; gold purified in a forge is now pure. The mind that has given up its corruptions is no longer at risk of being soiled by ordinary pleasures.
+    </p>
+
+    <h3>The four divine abidings</h3>
+    <p>
+      The discourse then moves into the <em>brahmavihārā</em> — the four divine abidings — given in their classical, full form, each radiating in all directions:
+    </p>
+    <ul>
+      <li><strong>Love</strong> <em>(mettā)</em> — the heart full of friendliness, spread to one direction, then the second, third, fourth, then above, below, across, everywhere, all around, to the whole world.</li>
+      <li><strong>Compassion</strong> <em>(karuṇā)</em> — the same radiation pattern.</li>
+      <li><strong>Rejoicing</strong> <em>(muditā)</em> — gladness at others' good fortune, radiated.</li>
+      <li><strong>Equanimity</strong> <em>(upekkhā)</em> — the heart that is undisturbed in all directions.</li>
+    </ul>
+    <p>
+      Each is "abundant, expansive, limitless, free of enmity and ill will." The radiation pattern — four cardinal, then four intercardinal, then up and down and across — is the standard image of a heart that has dropped its boundaries entirely.
+    </p>
+
+    <h3>Liberation and the inner bathing</h3>
+    <p>
+      The discourse climaxes with the standard liberation formula: the mind freed from the defilements of sensuality, desire to be reborn, and ignorance; the knowledge "rebirth is ended, what had to be done has been done." And then the closing line: <em>"This is called a mendicant who is bathed with the inner bathing"</em> (<em>antosinātaka</em>).
+    </p>
+    <p>
+      This line is the bridge to what follows — the unexpected appearance of the brahmin Bhāradvāja of Sundarikā.
+    </p>
+
+    <h3>The river-bathing dialogue</h3>
+    <p>
+      Sitting not far away, the brahmin asks: <em>"But does the worthy Gotama go to the river Bāhukā to bathe? Many people deem that the river Bāhukā leads to a heavenly world and bestows merit. And many people rinse off their bad deeds in the river Bāhukā."</em>
+    </p>
+    <p>
+      The brahmin is asking a sincere question within his own tradition. The Indian sacred geography ranks rivers — the Sundarikā where he came from, the Bāhukā, the Adhikakkā, the Sarasvatī, the Payāga (the great confluence of the Ganges and Yamuna), the Bāhumatī. Bathing in them at specific times is held to wash away misdeeds.
+    </p>
+    <p>
+      The Buddha's reply is in verse — one of the most famous short passages in the canon:
+    </p>
+    <blockquote style="margin: 16px 0; padding-left: 18px; border-left: 3px solid #b8431c; color: #2a2725; font-style: italic;">
+      The Bāhukā and the Adhikakkā, at Gayā and the Sundarikā too,<br>
+      Sarasvatī and Payāga, and the river Bāhumatī:<br>
+      a fool can constantly plunge into them but it won't purify their dark deeds.<br>
+      <br>
+      What can the Sundarikā do? What the Payāga or the Bāhukā?<br>
+      They can't cleanse a cruel person, a sinner from their bad deeds.<br>
+      <br>
+      For the pure in heart it's always the spring festival or the sabbath.<br>
+      For the pure in heart and clean of deed, their vows will always be fulfilled.<br>
+      <br>
+      It's here alone that you should bathe, brahmin,<br>
+      making yourself a sanctuary for all creatures.<br>
+      <br>
+      And if you speak no lies, nor harm any living creature,<br>
+      nor steal anything not given, and you're faithful and not stingy:<br>
+      what's the point of going to Gayā? For any well may be your Gayā!
+    </blockquote>
+    <p>
+      The brahmin takes refuge, asks for ordination, and in the closing paragraph — uniquely brief for such a great event — <em>"realized the supreme end of the spiritual path in this very life."</em> Not long after his ordination, Venerable Bhāradvāja becomes an arahant.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The discourse's most generalizable claim is the cloth simile itself: practice does not take cleanly on a mind that is still soiled with the kinds of qualities it names. The list is not a checklist to feel guilty about; it is a diagnostic. When meditation is not landing — when joy is not arising, when concentration is unstable, when even good practice feels brittle — the cloth simile asks the practitioner to look earlier in the chain. What is the mind <em>holding</em>? Conceit? Jealousy? A grudge? Stinginess? The work of the path is sequential. Clean first, dye second.
+    </p>
+    <p>
+      The river-bathing dialogue is, in its way, the same teaching aimed outward. Every culture has its versions of the Bāhukā: ritual cleansings, special purchases, retreat packages, conversion experiences, founder-day vows. All of these can be helpful around the edges. None of them can substitute for the inner bathing the Buddha names. <em>What's the point of going to Gayā? For any well may be your Gayā.</em>
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Sixteen corruptions sounds like a lot. Is there a hierarchy?"</strong> Yes, implicitly. The first two — covetousness and ill will — head the standard list of five hindrances. The middle ones (anger, acrimony, disdain, contempt, jealousy, stinginess) are the social defilements of group life — the same cluster MN 3 and MN 5 named. The last six (deceit, deviousness, obstinacy, aggression, conceit, arrogance, vanity, negligence) are the subtler defilements of identity and self-presentation. The list is not arbitrary order; it walks from gross to subtle.</p>
+
+    <p><strong>"What does 'experiential confidence' (aveccappasāda) mean exactly? How is it different from belief?"</strong> The Pāli <em>avecca</em> means "having discerned" or "having penetrated." So <em>aveccappasāda</em> is confidence that arises from one's own discernment — the kind of trust a doctor has in a medicine they have themselves tested versus one a stranger described. It is not blind faith and it is not bare opinion. It is the confidence of a mind that has cleaned itself enough to see the qualities of the Triple Gem firsthand. The discourse places it after the giving-up of corruptions for exactly this reason.</p>
+
+    <p><strong>"Why does the brahmin become an arahant so quickly at the end? It feels narratively rushed."</strong> It is rushed — deliberately so. The pattern in the Pāli Canon is that some encounters with the Buddha produce immediate awakening, others gradual progress, others none at all. The brahmin Bhāradvāja's response shows that the impediment in his case was not depth of corruption but unexamined assumption — the assumption that rivers could substitute for inner work. Once that assumption was punctured by the Buddha's verse, the cleaning had effectively been done. What followed was simply rapid.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">vatthūpama</span> — "simile of the cloth." The discourse's title image. <em>Vattha</em> = cloth, <em>upama</em> = simile.
+      </div>
+      <div class="term">
+        <span class="pali-word">cittupakkilesa</span> — corruptions of the mind. Literally "what makes the mind impure / soiled." The sixteen qualities the discourse enumerates.
+      </div>
+      <div class="term">
+        <span class="pali-word">abhijjhā visamalobha</span> — covetousness and immoral greed. The first of the sixteen, named as a compound. <em>Visama</em> = uneven, immoral, distorted; <em>lobha</em> = greed. The greedy reaching for what one shouldn't reach for.
+      </div>
+      <div class="term">
+        <span class="pali-word">byāpāda</span> — ill will. The second corruption, also one of the five hindrances. The mind's reflex of "may you be harmed."
+      </div>
+      <div class="term">
+        <span class="pali-word">aveccappasāda</span> — experiential confidence. Literally "confidence having discerned" or "having penetrated." The settled trust that arises from one's own mind's discernment of the Triple Gem's qualities, not from second-hand belief.
+      </div>
+      <div class="term">
+        <span class="pali-word">pāmojja → pīti → passaddhi → sukha → samādhi</span> — joy, rapture, tranquility, bliss, immersion. The classical five-stage chain by which experiential confidence unfolds into deep concentration. Each link gives rise to the next.
+      </div>
+      <div class="term">
+        <span class="pali-word">brahmavihārā</span> — the four divine abidings: love, compassion, rejoicing, equanimity. Cultivated by radiation in all directions, "abundant, expansive, limitless, free of enmity and ill will."
+      </div>
+      <div class="term">
+        <span class="pali-word">antosinātaka</span> — "one bathed with the inner bathing." The discourse's signature phrase for a fully liberated practitioner. The polemical pun is intentional: this is the bathing rivers cannot give.
+      </div>
+      <div class="term">
+        <span class="pali-word">cattāri ariyasaccāni</span> — though the four noble truths are not explicitly named in this discourse, the closing knowledge of "this, what is worse, what is better, and an escape beyond perception" (§17) is the standard Pāli formula for the comprehensive insight that precedes liberation.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 7 has 22 sections. The cloth simile (§§1–2) frames the sixteen corruptions and their giving-up (§§3–4), the experiential confidence in the Triple Gem (§§5–10), the joy-to-samādhi chain (§11), the fine-rice parable (§12), the four divine abidings (§§13–16), the closing liberation (§§17–18), and the brahmin Bhāradvāja's encounter (§§19–22) — closing with the famous river-bathing verse and Bhāradvāja's awakening. Sujato's print form abbreviates §§9–10 in the Triple Gem cycle. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The cloth simile</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There the Buddha addressed the mendicants, "Mendicants!" "Venerable sir," they replied. The Buddha said this:</p>
+
+      <p><span class="segno">§2</span>"Suppose, mendicants, there was a cloth that was dirty and soiled. No matter what dye the dyer applied — whether blue or yellow or red or magenta — it would look poorly dyed and impure in color. Why is that? Because of the impurity of the cloth. In the same way, when the mind is corrupt, a bad destiny is to be expected. Suppose there was a cloth that was pure and clean. No matter what dye the dyer applied — whether blue or yellow or red or magenta — it would look well dyed and pure in color. Why is that? Because of the purity of the cloth. In the same way, when the mind isn't corrupt, a good destiny is to be expected.</p>
+
+      <h3>The sixteen corruptions</h3>
+
+      <p><span class="segno">§3</span>And what are the corruptions of the mind? Covetousness and immoral greed, ill will, anger, acrimony, disdain, contempt, jealousy, stinginess, deceit, deviousness, obstinacy, aggression, conceit, arrogance, vanity, and negligence are corruptions of the mind.</p>
+
+      <p><span class="segno">§4</span>A mendicant who understands that covetousness and immoral greed are corruptions of the mind gives them up. A mendicant who understands that ill will … negligence is a corruption of the mind gives it up.</p>
+
+      <h3>Experiential confidence in the Triple Gem</h3>
+
+      <p><span class="segno">§5</span>When they have understood these corruptions of the mind for what they are, and have given them up, they have experiential confidence in the Buddha: 'That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those fit for training, teacher of gods and humans, awakened, blessed.'</p>
+
+      <p><span class="segno">§6</span>They have experiential confidence in the teaching: 'The teaching is well explained by the Buddha — apparent in the present life, immediately effective, inviting inspection, relevant, so that sensible people can know it for themselves.'</p>
+
+      <p><span class="segno">§7</span>They have experiential confidence in the Saṅgha: 'The Saṅgha of the Buddha's disciples is practicing the way that's good, direct, systematic, and proper. It consists of the four pairs, the eight individual persons. This is the Saṅgha of the Buddha's disciples that is worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a religious donation, worthy of greeting with cupped palms, and is the supreme field of merit for the world.'</p>
+
+      <p><span class="segno">§8</span>When a mendicant has discarded, eliminated, released, given up, and relinquished to this extent, thinking, 'I have experiential confidence in the Buddha …</p>
+
+      <p><span class="segno">§§9–10</span>the teaching … the Saṅgha,' they find inspiration in the meaning and the teaching, and find joy connected with the teaching.</p>
+
+      <h3>The joy-to-samādhi chain</h3>
+
+      <p><span class="segno">§11</span>Thinking: 'I have discarded, eliminated, released, given up, and relinquished to this extent,' they find inspiration in the meaning and the teaching, and find joy connected with the teaching. When they're joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when they're blissful, the mind becomes immersed in samādhi.</p>
+
+      <h3>Fine rice is no obstacle</h3>
+
+      <p><span class="segno">§12</span>When a mendicant of such ethics, such qualities, and such wisdom eats boiled fine rice with the dark grains picked out and served with many soups and sauces, that is no obstacle for them. Compare with cloth that is dirty and soiled; it can be made pure and clean by pure water. Or native gold, which can be made pure and bright by a forge. In the same way, when a mendicant of such ethics, such qualities, and such wisdom eats boiled fine rice with the dark grains picked out and served with many soups and sauces, that is no obstacle for them.</p>
+
+      <h3>The four divine abidings</h3>
+
+      <p><span class="segno">§13</span>They meditate spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will.</p>
+
+      <p><span class="segno">§14</span>They meditate spreading a heart full of compassion to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of compassion to the whole world — abundant, expansive, limitless, free of enmity and ill will.</p>
+
+      <p><span class="segno">§15</span>They meditate spreading a heart full of rejoicing to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of rejoicing to the whole world — abundant, expansive, limitless, free of enmity and ill will.</p>
+
+      <p><span class="segno">§16</span>They meditate spreading a heart full of equanimity to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of equanimity to the whole world — abundant, expansive, limitless, free of enmity and ill will.</p>
+
+      <h3>The escape and liberation</h3>
+
+      <p><span class="segno">§17</span>They understand: 'There is this, there is what is worse than this, there is what is better than this, and there is an escape beyond the scope of perception.'</p>
+
+      <p><span class="segno">§18</span>Knowing and seeing like this, their mind is freed from the defilements of sensuality, desire to be reborn, and ignorance. When they're freed, they know they're freed. They understand: 'Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place.' This is called a mendicant who is bathed with the inner bathing."</p>
+
+      <h3>The brahmin Bhāradvāja of Sundarikā</h3>
+
+      <p><span class="segno">§19</span>Now at that time the brahmin Bhāradvāja of Sundarikā was sitting not far from the Buddha. He said to the Buddha, "But does the worthy Gotama go to the river Bāhukā to bathe?" "Brahmin, why go to the river Bāhukā? What can the river Bāhukā do?" "Many people deem that the river Bāhukā leads to a heavenly world and bestows merit. And many people rinse off their bad deeds in the river Bāhukā."</p>
+
+      <p><span class="segno">§20</span>Then the Buddha addressed Bhāradvāja of Sundarikā in verse:</p>
+      <blockquote style="margin: 12px 0 12px 20px; font-style: italic; color: #2a2725; line-height: 1.7; border-left: 3px solid #b8431c; padding-left: 18px;">
+        "The Bāhukā and the Adhikakkā, at Gayā and the Sundarikā too,<br>
+        Sarasvatī and Payāga, and the river Bāhumatī:<br>
+        a fool can constantly plunge into them but it won't purify their dark deeds.<br>
+        <br>
+        What can the Sundarikā do? What the Payāga or the Bāhukā?<br>
+        They can't cleanse a cruel person, a sinner from their bad deeds.<br>
+        <br>
+        For the pure in heart it's always the spring festival or the sabbath.<br>
+        For the pure in heart and clean of deed, their vows will always be fulfilled.<br>
+        <br>
+        It's here alone that you should bathe, brahmin, making yourself a sanctuary for all creatures.<br>
+        <br>
+        And if you speak no lies, nor harm any living creature,<br>
+        nor steal anything not given, and you're faithful and not stingy:<br>
+        what's the point of going to Gayā? For any well may be your Gayā!"
+      </blockquote>
+
+      <p><span class="segno">§21</span>When he had spoken, the brahmin Bhāradvāja of Sundarikā said to the Buddha, "Excellent, worthy Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with clear eyes can see what's there, worthy Gotama has made the teaching clear in many ways. I go for refuge to the worthy Gotama, to the teaching, and to the mendicant Saṅgha. May I receive the going forth, the ordination in the worthy Gotama's presence?"</p>
+
+      <p><span class="segno">§22</span>And the brahmin Bhāradvāja of Sundarikā received the going forth, the ordination in the Buddha's presence. Not long after his ordination, Venerable Bhāradvāja, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme end of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness. He understood: "Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is nothing further for this place." And Venerable Bhāradvāja became one of the perfected.</p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">The discourse's opening simile compares the mind to:</div>
+        <button class="opt">A cup that holds rice</button>
+        <button class="opt">A river that flows</button>
+        <button class="opt">A cloth being dyed — dirty cloth takes the dye poorly; clean cloth takes it beautifully</button>
+        <button class="opt">A wheel being planed</button>
+        <div class="expl"><strong>Correct: C.</strong> The cloth simile gives the discourse its name (<em>Vatthūpama</em>, "the simile of the cloth"). The teaching: no matter what practice is applied, it doesn't take cleanly on a mind still corrupted. The discourse's remaining nineteen sections walk through what cleaning the cloth, and then dyeing it, look like.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">How many specific corruptions of the mind does the Buddha enumerate?</div>
+        <button class="opt">Five</button>
+        <button class="opt">Seven</button>
+        <button class="opt">Sixteen</button>
+        <button class="opt">Twenty-four</button>
+        <div class="expl"><strong>Correct: C.</strong> Sixteen <em>cittupakkilesa</em>: covetousness-and-immoral-greed (compound), ill will, anger, acrimony, disdain, contempt, jealousy, stinginess, deceit, deviousness, obstinacy, aggression, conceit, arrogance, vanity, negligence. The list overlaps with Sāriputta's eight pairs at MN 3 (§§8–15), giving the same ground in enumeration rather than pairing.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">Which two corruptions head the list — appearing at positions 1 and 2 before the cluster shared with MN 3?</div>
+        <button class="opt">Covetousness-and-immoral-greed (abhijjhā visamalobha) and ill will (byāpāda)</button>
+        <button class="opt">Conceit and arrogance</button>
+        <button class="opt">Greed and hate</button>
+        <button class="opt">Vanity and negligence</button>
+        <div class="expl"><strong>Correct: A.</strong> These two are also the first two of the standard "five hindrances" list — the most fundamental obstacles to concentration. The discourse leads with the grossest defilements and works toward the subtler ones at the end (conceit, arrogance, vanity, negligence).</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">According to the Buddha, what is the treatment for each of the sixteen corruptions?</div>
+        <button class="opt">A specific antidote meditation for each one</button>
+        <button class="opt">Understanding that it is a corruption — and giving it up</button>
+        <button class="opt">Confessing it to the Saṅgha</button>
+        <button class="opt">Performing ritual purification</button>
+        <div class="expl"><strong>Correct: B.</strong> The instruction is austere and structural: <em>"A mendicant who understands that X is a corruption of the mind gives it up."</em> No technique, no special meditation. Understanding plus action — the understanding <em>is</em> the giving up. This is one of the simplest and most demanding treatments in the canon.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">The Pāli term <em>aveccappasāda</em> ("experiential confidence") that appears after the giving-up of corruptions means:</div>
+        <button class="opt">Belief based on tradition</button>
+        <button class="opt">Faith based on the testimony of others</button>
+        <button class="opt">Hopeful trust without basis</button>
+        <button class="opt">Confidence that arises from one's own discernment — the kind of trust a doctor has in a medicine they have tested themselves</button>
+        <div class="expl"><strong>Correct: D.</strong> <em>Avecca</em> = "having discerned" or "having penetrated." <em>Pasāda</em> = confidence. Not blind faith and not bare opinion. The discourse places it precisely after the corruptions are given up, because only a cleaned mind can see the Triple Gem's qualities firsthand and rest in them.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">After experiential confidence arises, the discourse describes a five-stage chain leading to deep concentration. In order, the stages are:</div>
+        <button class="opt">Effort → mindfulness → wisdom → liberation → equanimity</button>
+        <button class="opt">Joy → rapture → tranquility → bliss → samādhi</button>
+        <button class="opt">Right view → right intention → right speech → right action → right livelihood</button>
+        <button class="opt">Sīla → samādhi → paññā → vimutti → vimuttiñāṇadassana</button>
+        <div class="expl"><strong>Correct: B.</strong> <em>Pāmojja → pīti → passaddhi → sukha → samādhi.</em> The classical chain. Each link gives rise to the next. The chain is not optional or extra — it is the natural sequence of an unobstructed mind once experiential confidence has been planted.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">The four divine abidings (<em>brahmavihārā</em>) named in §§13–16 are:</div>
+        <button class="opt">Mindfulness, investigation, energy, equanimity</button>
+        <button class="opt">Generosity, ethics, patience, wisdom</button>
+        <button class="opt">Love, compassion, rejoicing, equanimity</button>
+        <button class="opt">Faith, energy, mindfulness, concentration</button>
+        <div class="expl"><strong>Correct: C.</strong> <em>Mettā, karuṇā, muditā, upekkhā.</em> The classical four "divine abidings." The discourse gives each in its full canonical form, spread to the four cardinal directions, then up, down, across — to the whole world, "abundant, expansive, limitless, free of enmity and ill will."</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">What is the closing phrase that the Buddha uses to name a fully liberated practitioner — a phrase that becomes the bridge to the brahmin's appearance?</div>
+        <button class="opt">"One bathed with the inner bathing" (antosinātaka)</button>
+        <button class="opt">"One whose work is done"</button>
+        <button class="opt">"One purified by fire"</button>
+        <button class="opt">"One free of the world"</button>
+        <div class="expl"><strong>Correct: A.</strong> <em>Antosinātaka.</em> The polemical pun is intentional. The brahmin will arrive in the next paragraph asking whether the Buddha bathes in the sacred rivers; the phrase has already set up the answer.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">When the brahmin Bhāradvāja asks whether bathing in the sacred rivers (Bāhukā, Sundarikā, Sarasvatī, Payāga, etc.) can wash away misdeeds, the Buddha's reply in verse says:</div>
+        <button class="opt">Some rivers can, others cannot — choose carefully</button>
+        <button class="opt">No river can cleanse a cruel person from their bad deeds; the real bathing is inner — "any well may be your Gayā"</button>
+        <button class="opt">All rivers are equally sacred</button>
+        <button class="opt">Rivers should be avoided entirely</button>
+        <div class="expl"><strong>Correct: B.</strong> The Buddha's verse is one of the most famous short passages in the canon — a polite but unsparing rejection of ritual purification. <em>"What's the point of going to Gayā? For any well may be your Gayā!"</em> The inner bathing (the giving-up of corruptions, the joy-to-samādhi chain, the divine abidings, liberation) cannot be substituted by any external water.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What is unusual about the brahmin Bhāradvāja's fate at the end of the discourse?</div>
+        <button class="opt">He rejects the Buddha and leaves</button>
+        <button class="opt">He becomes a lay follower but doesn't ordain</button>
+        <button class="opt">He ordains and quickly becomes an arahant — one of the rare cases in the MN where an outsider attains full awakening within a single discourse</button>
+        <button class="opt">He becomes a stream-enterer but no further</button>
+        <div class="expl"><strong>Correct: C.</strong> Most encounters with brahmins end with refuge-taking, sometimes with stream-entry, rarely with full awakening within the same discourse. Bhāradvāja's case is striking — the closing paragraph compresses what is usually narrated as years of practice into a few sentences. The implication is that the impediment in his case was not depth of corruption but unexamined assumption; once that was punctured by the Buddha's verse, the cleaning had effectively been done.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">vatthūpama</span>simile of the cloth</li>
+        <li><span class="pali">cittupakkilesa</span>corruptions of the mind</li>
+        <li><span class="pali">abhijjhā visamalobha</span>covetousness and immoral greed</li>
+        <li><span class="pali">byāpāda</span>ill will</li>
+        <li><span class="pali">aveccappasāda</span>experiential confidence</li>
+        <li><span class="pali">pīti · sukha</span>rapture, bliss</li>
+        <li><span class="pali">brahmavihārā</span>four divine abidings</li>
+        <li><span class="pali">antosinātaka</span>"inner bathing"</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 3 · Heirs in the Teaching (8-pair version of the same list)</li>
+        <li>MN 5 · Unblemished (the fine-rice cup vocabulary)</li>
+        <li>MN 8 · Self-Effacement (corruptions deepened)</li>
+        <li>SN 55.1+ · Sotāpatti Saṁyutta (Triple Gem confidence)</li>
+        <li>MA 93 · Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn7/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN7.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "The Simile of the Cloth," with notes on the corruption list.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_093" target="_blank" rel="noopener">Northern parallel — MA 93</a> — the Chinese Madhyama-āgama counterpart ("Discourse on the Water-Purifying Brahmin"), in the same "stains" chapter as MN 3 and MN 5's parallels.</li>
+      <li><a href="https://suttacentral.net/mn3/en/sujato" target="_blank" rel="noopener">MN 3 · Heirs in the Teaching</a> — Sāriputta's eight-pair version of the same corruption cluster.</li>
+      <li><a href="https://suttacentral.net/sn55.1/en/sujato" target="_blank" rel="noopener">SN 55.1 onward</a> — the Sotāpatti Saṁyutta, where the Triple Gem confidence formulas of MN 7 §§5–7 are explored at length.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-006.html"><span class="label">← Previous</span>MN 6 · One Might Wish</a>
+    <a href="mn-008.html" class="next"><span class="label">Next →</span>MN 8 · Self-Effacement</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

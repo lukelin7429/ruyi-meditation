@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 15 — Self-Reflection | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Anumānasutta — Mahāmoggallāna's teaching on using other people's faults as a mirror for self-examination, with sixteen specific qualities that make a practitioner hard to admonish. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 15
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 15</div>
+  <h1>Self-Reflection</h1>
+  <p class="subtitle"><em>Anumānasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>The deer park at Bhesakaḷā's Wood, in the land of the Bhaggas at Crocodile's Bellow — a remote and unusual setting</dd>
+      <dt>Speaker</dt><dd>Venerable Mahāmoggallāna, alone (the Buddha does not appear). The second of Mahāmoggallāna's solo discourses in the opening MN, after the joint teaching with Sāriputta in MN 5</dd>
+      <dt>Form</dt><dd>8 sections in three movements: the sixteen qualities that make a practitioner hard or easy to admonish, the inference method (anumāna), and the mirror simile for the self-check</dd>
+      <dt>Length</dt><dd>~10 minutes to read. Among the shortest of the opening discourses but with one of the canon's most practical methods</dd>
+      <dt>Northern parallel</dt><dd>MA 89 (Madhyama-āgama 89, "The Mendicants' Invitation," in the chapter on stains)</dd>
+      <dt>Difficulty</dt><dd>★★★☆☆ — the method is simple; the application requires unusual honesty about one's own reactions to others</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, fifteenth</h2>
+    <p class="lede">
+      MN 15 is one of the canon's most practical teachings — and it doesn't come from the Buddha. Mahāmoggallāna, alone, teaches a method called <em>anumāna</em> — inference by analogy — for examining one's own conduct using one's reactions to others as the test instrument. The method is simple to state and unusually demanding to do.
+    </p>
+    <p>
+      The basic structure is this: when you see a quality in another person that you find irritating or unpleasant, the irritation itself is data. It tells you what you don't like in others. The next step is the move: <em>if I had this quality, others would not like me either</em>. So the resolve forms naturally: <em>I will not have this quality</em>. The mirror is other people; the work is on oneself.
+    </p>
+    <p>
+      What makes the discourse important is the specific catalog Mahāmoggallāna gives — sixteen qualities, mostly to do with how a practitioner receives criticism. Most of the items name the defensive moves of a mind that is supposedly inviting admonishment but actually deflecting it: irritation, objection, rebuke, retort, dodging, distracting, displaying annoyance. The discourse is, at its heart, about the gap between formally inviting feedback and actually being able to receive it. That gap, Mahāmoggallāna says, is what the anumāna method makes visible to oneself.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Your reactions to other people's faults are reliable data about what you yourself need to give up — use the reactions as a mirror, infer the analogy, form the resolve.
+    </p>
+
+    <h3>The frame — inviting admonishment vs. actually being admonishable</h3>
+    <p>
+      The discourse opens with a structural observation: there are practitioners who <em>invite</em> their fellow practitioners to admonish them — to point out their faults — but who are not actually <em>admonishable</em>. They have qualities that make them hard to admonish. Their fellow practitioners, sensing this, don't bother giving feedback. The individual gains no trust.
+    </p>
+    <p>
+      There is also the opposite: a practitioner who has not formally invited admonishment, but whose qualities make them easy to admonish. Their fellow practitioners, noticing, freely give advice. The individual gains trust without having asked for it.
+    </p>
+    <p>
+      The discourse is making a precise point: the invitation is not what matters. The qualities are. <em>Being open to admonishment</em> is a set of demonstrated behaviors, not a verbal request.
+    </p>
+
+    <h3>The sixteen qualities that make a practitioner hard to admonish</h3>
+    <p>Mahāmoggallāna lists sixteen specific qualities. Read them carefully — each is a recognizable move:</p>
+    <table>
+      <thead><tr><th>#</th><th>Quality</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Has corrupt wishes, having fallen under the sway of corrupt wishes</td></tr>
+        <tr><td>2</td><td>Glorifies themselves and puts others down</td></tr>
+        <tr><td>3</td><td>Irritable, overcome by anger</td></tr>
+        <tr><td>4</td><td>Irritable, acrimonious due to anger</td></tr>
+        <tr><td>5</td><td>Irritable, stubborn due to anger</td></tr>
+        <tr><td>6</td><td>Irritable, blurts out words bordering on anger</td></tr>
+        <tr><td>7</td><td>When accused, objects to the accuser</td></tr>
+        <tr><td>8</td><td>When accused, rebukes the accuser</td></tr>
+        <tr><td>9</td><td>When accused, retorts to the accuser</td></tr>
+        <tr><td>10</td><td>When accused, dodges the issue, distracts with irrelevant points, displays annoyance, hate, and bitterness</td></tr>
+        <tr><td>11</td><td>When accused, unable to account for the evidence</td></tr>
+        <tr><td>12</td><td>Offensive and contemptuous</td></tr>
+        <tr><td>13</td><td>Jealous and stingy</td></tr>
+        <tr><td>14</td><td>Devious and deceitful</td></tr>
+        <tr><td>15</td><td>Obstinate and arrogant</td></tr>
+        <tr><td>16</td><td>Attached to their own views, holding them tight, and refusing to let go</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Notice the structure. Item 1 is the root condition (corrupt wishes). Item 2 is the central social move (self-elevation, other-deprecation). Items 3–6 are the anger cluster — four flavors of how anger shows up. Items 7–11 are the cluster about receiving accusations (five distinct defensive maneuvers). Items 12–16 are the additional character flaws. The list reaches its climax at item 16: <em>attachment to one's own views, holding them tight, refusing to let go</em>. This same item is the climax of MN 8's forty-four-item list. It is the final and most refined defilement.
+    </p>
+    <p>
+      Most of the items are about responses to being accused. The discourse's diagnosis is precise: the qualities that make a practitioner hard to admonish are mostly defensive reflexes — the moves the mind makes when criticism arrives. The work is at this fine-grained level.
+    </p>
+
+    <h3>The anumāna method — inference by analogy</h3>
+    <p>
+      Mahāmoggallāna then names the practice. For each of the sixteen qualities, the practitioner is to reason:
+    </p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "This individual has X. And I don't like or approve of this individual. And if I were to have X, others wouldn't like or approve of me." A mendicant who knows this should give rise to the thought: "I will not have X."
+    </blockquote>
+    <p>
+      The three steps of the inference:
+    </p>
+    <ol>
+      <li><strong>Observation</strong>: "This individual has the quality."</li>
+      <li><strong>Self-attestation</strong>: "I notice that I don't like or approve of them having it."</li>
+      <li><strong>Inference and resolve</strong>: "If I had this quality, others would not like or approve of me. Therefore I will not have it."</li>
+    </ol>
+    <p>
+      The structure is deceptively simple. The pivotal move is step 2 — paying honest attention to one's own reaction. Most practitioners can do step 1 (observe a quality in someone else) easily. Step 3 (form the resolve) follows logically from step 2. What gets skipped is step 2: <em>noticing that one's own dislike of the other is the evidence</em>. The dislike is not a problem to be ignored or transcended — it is the data the method runs on.
+    </p>
+
+    <h3>The self-check (§7)</h3>
+    <p>The discourse then turns from inference (about others, applied to oneself) to direct self-examination:</p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "Do I have corrupt wishes? Have I fallen under the sway of corrupt wishes?" Suppose that, upon checking, a mendicant knows that they have fallen under the sway of corrupt wishes. Then they should make an effort to give up those bad, unskillful qualities. But suppose that, upon checking, a mendicant knows that they haven't fallen under the sway of corrupt wishes. Then they should meditate with rapture and joy, training day and night in skillful qualities.
+    </blockquote>
+    <p>The structure is binary and clean:</p>
+    <table>
+      <thead><tr><th>Upon checking</th><th>Response</th></tr></thead>
+      <tbody>
+        <tr><td>The quality is present</td><td>Effort to give it up</td></tr>
+        <tr><td>The quality is absent</td><td>Rapture and joy, training day and night in skillful qualities</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Notice the second branch. Finding that one is <em>free</em> of a quality is not the end of the work — it is the starting point of joyful training. There is no "I'm fine, I'm done." The absence of the quality is grounds for energetic continuation, not coasting.
+    </p>
+
+    <h3>The mirror simile (§8)</h3>
+    <p>The discourse closes with one of the canon's most accessible images:</p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "Suppose there was a woman or man who was young, youthful, and fond of adornments, and they check their own reflection in a clean bright mirror or a clear bowl of water. If they see any dirt or blemish there, they'd try to remove it. But if they don't see any dirt or blemish there, they're happy, thinking: 'How fortunate that I'm clean!'"
+    </blockquote>
+    <p>
+      The simile makes the practice concrete. A young person checking their face in a mirror does not feel insulted by what the mirror shows. They use the information practically — if there is dirt, they wipe it off. If not, they are happy. The mirror is doing its job either way.
+    </p>
+    <p>
+      The simile makes a quiet point about how the practitioner should relate to discovering a fault. The discovery is good news. It is what enables the wiping-off. A practitioner who finds a fault in themselves should respond not with shame or self-attack but with the same matter-of-fact efficiency as a young person noticing a smudge on their cheek. The mirror is value-neutral. So is the self-check.
+    </p>
+
+    <h3>Mahāmoggallāna as teacher</h3>
+    <p>
+      The discourse is the second of Mahāmoggallāna's MN solo discourses (the first was MN 5, jointly with Sāriputta). In MN 5 he asked Sāriputta the structural questions; in MN 15 he is teaching alone. The pattern continues the gradual visibility of the senior disciples that began with MN 3.
+    </p>
+    <p>
+      The choice of topic is also illuminating. Mahāmoggallāna was traditionally called the foremost in psychic power (<em>iddhi</em>), distinct from Sāriputta who was foremost in wisdom. But his MN 15 teaching is not about psychic power; it is about ordinary social self-examination — the kind of work any practitioner has to do regardless of meditative attainment. The senior disciple with the most spectacular contemplative capacities is here teaching the most ordinary mirror-work.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The anumāna method has striking contemporary application. Modern psychology has converged on something similar: that what irritates us most in others is often what we have not faced in ourselves. The therapeutic version emphasizes <em>insight</em> (becoming aware of the projection). The Mahāmoggallāna version emphasizes <em>resolve</em> (forming the intention to not have the quality oneself).
+    </p>
+    <p>
+      The discourse's added value over modern psychological framing is the explicit second-person inference — <em>"if I had this, others wouldn't like or approve of me."</em> This adds a social-mirror element that pure introspection lacks. It says: you are already a member of the human community, and your discomfort with others is already information about what the community will tolerate from you. The work is not just inner; it is also relational.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Isn't this just psychological projection? Aren't I supposed to recognize the projection rather than form a resolve?"</strong> The two methods overlap but are not the same. Psychological projection-recognition focuses on insight: <em>I am projecting; the irritation tells me something about me, not about them.</em> The anumāna method goes a step further: it explicitly forms an ethical resolve. <em>Yes, this irritates me; this is a quality I do not want in myself; I will not have it.</em> The first stops at understanding; the second uses understanding to motivate change. The discourse is, in effect, modern psychology with an added action item.</p>
+
+    <p><strong>"What if the other person actually has the quality? Isn't observing their fault accurately also valuable?"</strong> The discourse doesn't deny that the other person has the quality — Mahāmoggallāna's catalog presumes that the qualities really do show up in real people. The question is what to do with the observation. The fault-finding instinct, once it notices the fault in the other, can do one of two things: (a) judge the other, complain about them, distance from them, or (b) use the observation as data about what one does not want in oneself. The anumāna method is option (b). The discourse is not saying "don't notice"; it is saying "having noticed, redirect the energy."</p>
+
+    <p><strong>"The list of sixteen is heavily about receiving criticism. Is this just for monastics?"</strong> No — the structure of receiving criticism applies to anyone in any community. Family, workplace, friendship, marriage, online interaction. The five distinct moves the discourse names — objecting, rebuking, retorting, dodging-with-distraction, failing to account for evidence — are recognizable in any context where one person points out a fault in another and the other reacts defensively. The discourse is monastic in its examples but universal in its phenomenology.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">anumāna</span> — inference by analogy. The discourse's titular method: using one's reactions to others as evidence about oneself. Composed of <em>anu-</em> (after, along with) + <em>māna</em> (measure) — to "measure along with" something else. Bhikkhu Sujato's translation captures this as "measuring up."
+      </div>
+      <div class="term">
+        <span class="pali-word">attūpanāyika</span> — applied to oneself. The grammatical formula <em>"as I would not like X, others would not like X of me."</em> The hinge of the inference method.
+      </div>
+      <div class="term">
+        <span class="pali-word">pavāraṇā</span> — invitation. The formal monastic ceremony at the end of the rains retreat in which mendicants invite one another to point out their faults. The discourse opens with a critique: the invitation alone is not enough; what matters is whether one is actually <em>admonishable</em>.
+      </div>
+      <div class="term">
+        <span class="pali-word">dovacassakaraṇā dhammā</span> — qualities that make one hard to admonish. Literally "things that make speaking-to difficult." The Pāli compound names a specific class of mental and verbal defects: not the deep defilements but the defensive reactions to feedback.
+      </div>
+      <div class="term">
+        <span class="pali-word">sovacassakaraṇā dhammā</span> — qualities that make one easy to admonish. The opposite of the above. The practitioner who has these qualities receives criticism without defensiveness and uses it.
+      </div>
+      <div class="term">
+        <span class="pali-word">pāpicchā</span> — corrupt wishes. The first quality on the list. "Bad desires" — the desire for status, recognition, special treatment that comes out as the kind of behavior that needs admonishing in the first place. (Compare MN 5's "spheres of bad, unskillful wishes" — Sāriputta's parallel formulation.)
+      </div>
+      <div class="term">
+        <span class="pali-word">attukkaṃsanā parovambhanā</span> — glorifying oneself and putting others down. The second quality. The compound names a single composite movement: lifting oneself by stepping on someone else.
+      </div>
+      <div class="term">
+        <span class="pali-word">codaka</span> — accuser, one who points out a fault. Five of the sixteen qualities concern reactions to the <em>codaka</em>. The discourse is precise about what defensiveness looks like.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 15 has 8 sections. After the opening (§1), the discourse moves through three short movements: the sixteen qualities that make a practitioner hard or easy to admonish (§§2–5), the anumāna method of inference applied to each quality (§6), the self-check method with its binary response structure (§7), and the closing mirror simile (§8). The full text is given here because of MN 15's brevity. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The setting</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time Venerable Mahāmoggallāna was staying in the land of the Bhaggas at Crocodile's Bellow, in the deer park at Bhesakaḷā's Wood. There Venerable Mahāmoggallāna addressed the mendicants: "Reverends, mendicants!" "Reverend," they replied. Venerable Mahāmoggallāna said this:</p>
+
+      <h3>Hard to admonish despite inviting it (§2)</h3>
+
+      <p><span class="segno">§2</span>"Suppose a mendicant invites other mendicants to admonish them. But they're hard to admonish, having qualities that make them hard to admonish. They're impatient, and don't take instruction respectfully. So their spiritual companions don't think it's worth advising and instructing them, and that individual doesn't gain their trust.</p>
+
+      <h3>The sixteen qualities that make one hard to admonish</h3>
+
+      <p><span class="segno">§3</span>And what are the qualities that make them hard to admonish? Firstly, a mendicant has corrupt wishes, having fallen under the sway of corrupt wishes. This is a quality that makes them difficult to admonish. Furthermore, a mendicant glorifies themselves and puts others down. … They're irritable, overcome by anger … They're irritable, and acrimonious due to anger … They're irritable, and stubborn due to anger … They're irritable, and blurt out words bordering on anger … When accused, they object to the accuser … When accused, they rebuke the accuser … When accused, they retort to the accuser … When accused, they dodge the issue, distract the discussion with irrelevant points, and display annoyance, hate, and bitterness … When accused, they are unable to account for the evidence … They are offensive and contemptuous … They're jealous and stingy … They're devious and deceitful … They're obstinate and arrogant … Furthermore, a mendicant is attached to their own views, holding them tight, and refusing to let go. This too is a quality that makes them difficult to admonish. These are the qualities that make them hard to admonish.</p>
+
+      <h3>Easy to admonish without being asked (§§4–5)</h3>
+
+      <p><span class="segno">§4</span>Suppose a mendicant doesn't invite other mendicants to admonish them. But they're easy to admonish, having qualities that make them easy to admonish. They're accepting, and take instruction respectfully. So their spiritual companions think it's worth advising and instructing them, and that individual gains their trust.</p>
+
+      <p><span class="segno">§5</span>And what are the qualities that make them easy to admonish? Firstly, a mendicant doesn't have corrupt wishes … Furthermore, a mendicant isn't attached to their own views, not holding them tight, but letting them go easily. These are the qualities that make them easy to admonish.</p>
+
+      <h3>The anumāna method (§6)</h3>
+
+      <p><span class="segno">§6</span>In such a case, a mendicant should measure themselves like this. 'This individual has corrupt wishes, having fallen under the sway of corrupt wishes. And I don't like or approve of this individual. And if I were to fall under the sway of corrupt wishes, others wouldn't like or approve of me.' A mendicant who knows this should give rise to the thought: 'I will not fall under the sway of corrupt wishes.' … 'This individual is attached to their own views, holding them tight and refusing to let go. And I don't like or approve of this individual. And if I were to be attached to my own views, holding them tight and refusing to let go, others wouldn't like or approve of me.' A mendicant who knows this should give rise to the thought: 'I will not be attached to my own views, holding them tight, but will let them go easily.'</p>
+
+      <h3>The self-check (§7)</h3>
+
+      <p><span class="segno">§7</span>In such a case, a mendicant should check themselves like this: 'Do I have corrupt wishes? Have I fallen under the sway of corrupt wishes?' Suppose that, upon checking, a mendicant knows that they have fallen under the sway of corrupt wishes. Then they should make an effort to give up those bad, unskillful qualities. But suppose that, upon checking, a mendicant knows that they haven't fallen under the sway of corrupt wishes. Then they should meditate with rapture and joy, training day and night in skillful qualities. … Suppose that, upon checking, a mendicant knows that they are attached to their own views, holding them tight, and refusing to let go. Then they should make an effort to give up those bad, unskillful qualities. Suppose that, upon checking, a mendicant knows that they're not attached to their own views, holding them tight, but let them go easily. Then they should meditate with rapture and joy, training day and night in skillful qualities.</p>
+
+      <h3>The mirror simile (§8)</h3>
+
+      <p><span class="segno">§8</span>Suppose that, upon checking, a mendicant sees that they haven't given up all these bad, unskillful qualities. Then they should make an effort to give them all up. But suppose that, upon checking, a mendicant sees that they have given up all these bad, unskillful qualities. Then they should meditate with rapture and joy, training day and night in skillful qualities. Suppose there was a woman or man who was young, youthful, and fond of adornments, and they check their own reflection in a clean bright mirror or a clear bowl of water. If they see any dirt or blemish there, they'd try to remove it. But if they don't see any dirt or blemish there, they're happy, thinking: 'How fortunate that I'm clean!' In the same way, suppose that, upon checking, a mendicant sees that they haven't given up all these bad, unskillful qualities. Then they should make an effort to give them all up. But suppose that, upon checking, a mendicant sees that they have given up all these bad, unskillful qualities. Then they should meditate with rapture and joy, training day and night in skillful qualities."</p>
+
+      <p style="margin-top:20px"><strong>This is what Venerable Mahāmoggallāna said. Satisfied, the mendicants approved what Venerable Mahāmoggallāna said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">Who delivers MN 15, and what is structurally notable about this?</div>
+        <button class="opt">The Buddha alone</button>
+        <button class="opt">Sāriputta alone</button>
+        <button class="opt">Venerable Mahāmoggallāna alone — his second solo MN discourse (the first was jointly with Sāriputta in MN 5)</button>
+        <button class="opt">Mahānāma the Sakyan</button>
+        <div class="expl"><strong>Correct: C.</strong> Mahāmoggallāna teaching alone continues the canon's gradual visibility of senior disciples. He was traditionally the foremost in psychic power (iddhi), but here he is teaching ordinary mirror-work — the kind of self-examination any practitioner must do regardless of meditative attainment.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">The discourse opens with a precise structural observation. What is it?</div>
+        <button class="opt">All mendicants want admonishment</button>
+        <button class="opt">No mendicant should ever criticize another</button>
+        <button class="opt">Some mendicants <em>invite</em> admonishment but are actually hard to admonish; others don't invite it but are easy to admonish. The invitation is not what matters — the qualities are.</button>
+        <button class="opt">Admonishment should only come from the Buddha</button>
+        <div class="expl"><strong>Correct: C.</strong> The discourse's foundational point: being open to admonishment is a set of demonstrated behaviors, not a verbal request. The practitioner who formally invites feedback but resists it actually receives less than the practitioner who silently demonstrates receptivity.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">Mahāmoggallāna lists how many specific qualities that make a practitioner hard to admonish?</div>
+        <button class="opt">Five</button>
+        <button class="opt">Ten</button>
+        <button class="opt">Fourteen</button>
+        <button class="opt">Sixteen</button>
+        <div class="expl"><strong>Correct: D.</strong> Item 1 is the root condition (corrupt wishes). Item 2 is the central social move. Items 3–6 are the anger cluster. Items 7–11 are the cluster about receiving accusations. Items 12–16 are character flaws climaxing at attachment to one's own views.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">Most of the sixteen qualities concern a specific situation. Which one?</div>
+        <button class="opt">Sitting in jhāna</button>
+        <button class="opt">Eating almsfood</button>
+        <button class="opt">Receiving criticism — five distinct defensive moves (objecting, rebuking, retorting, dodging with distraction, failing to account for evidence)</button>
+        <button class="opt">Memorizing texts</button>
+        <div class="expl"><strong>Correct: C.</strong> The discourse's diagnosis is precise: the qualities that make a practitioner hard to admonish are mostly defensive reflexes — the moves the mind makes when criticism arrives. The work is at this fine-grained level. The five defensive moves are recognizable in any human context where feedback is given and received.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">The last item (#16) on the list is the same item that closes MN 8's forty-four-item list. What is it?</div>
+        <button class="opt">Being witless</button>
+        <button class="opt">Being lazy</button>
+        <button class="opt">Being deceitful</button>
+        <button class="opt">"Attached to one's own views, holding them tight, and refusing to let go"</button>
+        <div class="expl"><strong>Correct: D.</strong> Two canonical lists in different contexts converge on the same final item. The placement signals: view-attachment is the most refined defilement, not a beginner's problem. Beginners cling to gross views (worth, identity, status); advanced practitioners can transcend those and still cling to subtle views about practice itself.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">The anumāna method has three steps. Which set is correct?</div>
+        <button class="opt">Notice · forget · move on</button>
+        <button class="opt">Notice · sit · meditate</button>
+        <button class="opt">Observation ("this person has X") · self-attestation ("I don't like X in them") · inference and resolve ("if I had X, others wouldn't like me; therefore I will not have X")</button>
+        <button class="opt">Observe · accept · forgive</button>
+        <div class="expl"><strong>Correct: C.</strong> The pivotal move is step 2 — paying honest attention to one's own dislike of the other. Most practitioners can do step 1 (observe). Step 3 (resolve) follows logically from step 2. What gets skipped is step 2: noticing that one's own dislike is the evidence. The dislike is not a problem to be ignored — it is the data the method runs on.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">In §7, the self-check has a binary structure. When a practitioner finds, upon checking, that they have NOT fallen under the sway of corrupt wishes, what should they do?</div>
+        <button class="opt">Rest — the work is done</button>
+        <button class="opt">"Meditate with rapture and joy, training day and night in skillful qualities" — the absence of the quality is grounds for energetic continuation, not coasting</button>
+        <button class="opt">Tell others about their virtue</button>
+        <button class="opt">Stop the practice entirely</button>
+        <div class="expl"><strong>Correct: B.</strong> The discourse is precise: finding that one is free of a quality is not the end of the work — it is the starting point of joyful training. There is no "I'm fine, I'm done." Both branches of the binary response (quality present / quality absent) lead to continued effort, just in different forms.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">The discourse closes with the famous mirror simile (§8). What does it compare the self-check to?</div>
+        <button class="opt">A merchant counting coins</button>
+        <button class="opt">A doctor examining a patient</button>
+        <button class="opt">A young person, fond of adornments, checking their reflection in a clean bright mirror or a clear bowl of water — if they see dirt, they try to remove it; if they see none, they are happy, thinking "How fortunate that I'm clean!"</button>
+        <button class="opt">A farmer checking his crops</button>
+        <div class="expl"><strong>Correct: C.</strong> The simile makes the practice concrete. A young person checking their face in a mirror does not feel insulted by what the mirror shows. They use the information practically — if there is dirt, they wipe it off. If not, they are happy. The mirror is doing its job either way. The simile makes a quiet point about how to relate to discovering a fault: not with shame or self-attack but with matter-of-fact efficiency.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">How does the anumāna method differ from modern psychological "projection-recognition"?</div>
+        <button class="opt">They are identical</button>
+        <button class="opt">Projection-recognition emphasizes <em>insight</em> (becoming aware that one's irritation reveals something about oneself). The anumāna method goes further — it explicitly forms an ethical <em>resolve</em> not to have the quality oneself. The first stops at understanding; the second uses understanding to motivate change.</button>
+        <button class="opt">Anumāna ignores feelings entirely</button>
+        <button class="opt">Projection-recognition forms resolves but anumāna doesn't</button>
+        <div class="expl"><strong>Correct: B.</strong> The two methods overlap but are not the same. The discourse is, in effect, modern psychology with an added action item. The Buddhist tradition's distinctive contribution is the explicit ethical resolve that follows from the insight — not just "I see what's happening" but "given what I see, I will not have this."</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">The discourse is monastic in its examples — fellow mendicants, accusations within the saṅgha. To what extent does the method apply outside monastic life?</div>
+        <button class="opt">Only to monastics</button>
+        <button class="opt">Only with significant adaptation</button>
+        <button class="opt">The structure of receiving criticism applies to anyone in any community — family, workplace, friendship, marriage, online interaction. The five distinct defensive moves (objecting, rebuking, retorting, dodging-with-distraction, failing to account for evidence) are recognizable in any context where one person points out a fault in another and the other reacts defensively. The discourse is monastic in its examples but universal in its phenomenology.</button>
+        <button class="opt">It applies but only to professional settings</button>
+        <div class="expl"><strong>Correct: C.</strong> The discourse's diagnosis of defensive reflexes is one of the most transferable in the canon. The structure is universal because the underlying psychology is universal. The anumāna method works whenever there is irritation at another's behavior — which is essentially every social situation a human being inhabits.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">anumāna</span>inference by analogy</li>
+        <li><span class="pali">attūpanāyika</span>applied to oneself</li>
+        <li><span class="pali">pavāraṇā</span>invitation for admonishment</li>
+        <li><span class="pali">dovacassakaraṇā dhammā</span>hard-to-admonish qualities</li>
+        <li><span class="pali">sovacassakaraṇā dhammā</span>easy-to-admonish qualities</li>
+        <li><span class="pali">pāpicchā</span>corrupt wishes</li>
+        <li><span class="pali">attukkaṃsanā parovambhanā</span>self-glorification + other-deprecation</li>
+        <li><span class="pali">codaka</span>accuser, one who points out faults</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 5 · Unblemished (Sāriputta + Mahāmoggallāna)</li>
+        <li>MN 8 · Self-Effacement (44-item list)</li>
+        <li>MN 7 · Simile of the Cloth (16 corruptions)</li>
+        <li>MN 3 · Heirs in the Teaching (eight pairs)</li>
+        <li>MA 89 · Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn15/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN15.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "Measuring in Accordance With," with notes on the method.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_089" target="_blank" rel="noopener">Northern parallel — MA 89</a> — the Chinese Madhyama-āgama counterpart ("The Mendicants' Invitation"), in the chapter on stains.</li>
+      <li><a href="https://suttacentral.net/mn5/en/sujato" target="_blank" rel="noopener">MN 5 · Unblemished</a> — Sāriputta and Mahāmoggallāna teaching together, with the parallel framework on subtle ego.</li>
+      <li><a href="https://suttacentral.net/mn8/en/sujato" target="_blank" rel="noopener">MN 8 · Self-Effacement</a> — the forty-four-item version of the same inventory, closing with the same final item (attachment to one's own views).</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-014.html"><span class="label">← Previous</span>MN 14 · The Shorter Discourse on the Mass of Suffering</a>
+    <a href="mn-016.html" class="next"><span class="label">Next →</span>MN 16 · Emotional Barrenness</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

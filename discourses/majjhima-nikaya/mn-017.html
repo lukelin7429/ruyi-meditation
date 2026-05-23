@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 17 — Jungle Thickets | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Vanapatthasutta — the Buddha's decision matrix for whether to stay or leave a place, teacher, or community based on practice and requisites. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 17
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 17</div>
+  <h1>Jungle Thickets</h1>
+  <p class="subtitle"><em>Vanapatthasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī</dd>
+      <dt>Speaker</dt><dd>The Buddha, addressing the mendicants</dd>
+      <dt>Form</dt><dd>26 sections in one structural pattern: a four-quadrant decision matrix (practice progresses or not × requisites available or not) applied to six dwelling situations (jungle thicket, village, town, city, country, individual teacher)</dd>
+      <dt>Length</dt><dd>~10 minutes to read. Short and unusually symmetric. The entire teaching is a single matrix.</dd>
+      <dt>Northern parallel</dt><dd>MA 107 and MA 108 (Madhyama-āgama 107, 108, "Discourses on the Forest," in the chapter on forests)</dd>
+      <dt>Difficulty</dt><dd>★★☆☆☆ — accessible. The decision matrix is one of the canon's most practically usable instruments. The teacher-version's "even if driven away" closing clause deserves careful attention.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, seventeenth</h2>
+    <p class="lede">
+      MN 17 is one of the canon's most directly usable teachings — a clean decision matrix for the universal practitioner question: <em>should I stay here, or should I go?</em> The Buddha applies the same four-quadrant analysis to six different kinds of "here" — a jungle thicket, a village, a town, a city, a country, and a particular teacher. In each case, two criteria are decisive: <em>does my practice progress here?</em> and <em>are the requisites of life available?</em>
+    </p>
+    <p>
+      The discourse's elegance is that the two criteria are not weighted equally. The first criterion — practice — is primary. The second — requisites — matters but is subordinate. The Buddha gives a precise reason: <em>"I didn't go forth from the lay life to homelessness for the sake of a robe, almsfood, lodgings, or medicines and supplies for the sick."</em> If the primary purpose is being served, the practitioner stays even when conditions are hard. If the primary purpose is not being served, the practitioner leaves even when conditions are easy.
+    </p>
+    <p>
+      The final section — applied to following a particular teacher — has the discourse's quietest punch. In the best case (practice progresses with this teacher, requisites available), the mendicant should follow them <em>"for the rest of their life; they should not leave them, even if driven away."</em> The most extreme commitment named anywhere in the opening MN discourses, attached to a precise condition.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      A practitioner should stay or leave any place, support, or teacher based on two criteria — does practice progress here, and are requisites available — with the first criterion overriding the second.
+    </p>
+
+    <h3>The opening — what the discourse is for</h3>
+    <p>
+      The Buddha begins simply: <em>"I will teach you an exposition about jungle thickets."</em> The frame is practical. <em>Vanapattha</em> — "jungle thicket" or "wilderness" — is the standard image for the secluded place a forest-dwelling monastic chooses for practice. But the discourse is not really about jungles. It is about the more general question of how to evaluate any situation in which one is practicing.
+    </p>
+    <p>
+      This becomes clear as the discourse proceeds. The four-quadrant analysis is run through six different kinds of dwelling: jungle, village, town, city, country, and finally — most importantly — under the support of a particular individual (a teacher or supporter). The structure of the analysis stays identical; only the object varies.
+    </p>
+
+    <h3>The four-quadrant decision matrix</h3>
+    <p>The Buddha builds the analysis from two binary criteria:</p>
+    <ul>
+      <li><strong>Criterion 1 — Practice:</strong> "Mindfulness becomes established, mind becomes immersed in samādhi, defilements come to an end, and they arrive at the supreme sanctuary from the yoke." Either this happens here, or it does not.</li>
+      <li><strong>Criterion 2 — Requisites:</strong> "Robes, almsfood, lodgings, and medicines and supplies for the sick" — easy to come by, or hard to come by.</li>
+    </ul>
+    <p>This produces four quadrants, each with a specific action:</p>
+    <table>
+      <thead>
+        <tr><th>Quadrant</th><th>Practice</th><th>Requisites</th><th>Action</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Not progressing</td><td>Hard to come by</td><td><strong>Leave at any time of day or night</strong></td></tr>
+        <tr><td>2</td><td>Not progressing</td><td>Easy to come by</td><td><strong>Leave after appraisal</strong></td></tr>
+        <tr><td>3</td><td>Progressing</td><td>Hard to come by</td><td><strong>Stay after appraisal</strong></td></tr>
+        <tr><td>4</td><td>Progressing</td><td>Easy to come by</td><td><strong>Stay for the rest of your life</strong></td></tr>
+      </tbody>
+    </table>
+    <p>
+      Notice the asymmetry between Quadrant 1 and Quadrant 4. The decision when conditions are uniformly bad (Q1) is made <em>immediately</em> — "at any time of day or night." The decision when conditions are uniformly good (Q4) is for <em>life</em>. The intermediate quadrants (Q2 and Q3) both require "appraisal" — a deliberate reflection — before the action is taken. The matrix encodes both speed and slowness depending on what the data supports.
+    </p>
+
+    <h3>The hinge — why practice trumps requisites</h3>
+    <p>
+      The reasoning for the priority of practice over requisites is given explicitly in Quadrants 2 and 3. In both, the practitioner reflects:
+    </p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "But I didn't go forth from the lay life to homelessness for the sake of a robe, almsfood, lodgings, or medicines and supplies for the sick."
+    </blockquote>
+    <p>
+      The reasoning is structural. The purpose of going forth is awakening, not material support. If a place provides excellent material support but no progress in practice, the practitioner is being supported in failing to do what they came to do — and so should leave. If a place provides excellent practice progress but inadequate material support, the practitioner is being given exactly what they came for — and should stay even with the cost.
+    </p>
+    <p>
+      But the reasoning is subtler than "practice always wins." Quadrant 1 is decided without invoking this clause. When both criteria fail, no philosophical reflection is needed — the practitioner leaves immediately. The reasoning is only deployed when one criterion is met and the other isn't. It is the tie-breaker, not the master rule.
+    </p>
+
+    <h3>The six objects of the analysis</h3>
+    <p>The discourse applies the same matrix to six different "here"s:</p>
+    <table>
+      <thead><tr><th>§§</th><th>Object</th><th>Pāli term</th></tr></thead>
+      <tbody>
+        <tr><td>3–6</td><td>A jungle thicket</td><td><em>vanapatthaṃ</em></td></tr>
+        <tr><td>7–10</td><td>Supported by a village</td><td><em>gāmaṃ</em></td></tr>
+        <tr><td>11–14</td><td>Supported by a town</td><td><em>nigamaṃ</em></td></tr>
+        <tr><td>15–18</td><td>Supported by a city</td><td><em>nagaraṃ</em></td></tr>
+        <tr><td>19–22</td><td>Supported by a country</td><td><em>janapadaṃ</em></td></tr>
+        <tr><td>23–26</td><td>Supported by an individual</td><td><em>puggalaṃ</em></td></tr>
+      </tbody>
+    </table>
+    <p>
+      The five geographical scales — jungle, village, town, city, country — cover every possible dwelling situation for the ancient monastic. The same analytic tool applies at every scale. The sixth — an individual — is a categorical leap: not a location but a relationship.
+    </p>
+
+    <h3>The teacher case — the strongest commitment in the discourse</h3>
+    <p>
+      When the object is an individual (a teacher or supporter), three of the four quadrants follow the standard pattern with two small variations:
+    </p>
+    <ul>
+      <li><strong>Q1</strong>: leave the individual "at any time of the day or night, <em>without taking leave</em>" — i.e., without the formal monastic farewell ritual.</li>
+      <li><strong>Q2</strong>: leave the individual "after appraisal, <em>having taken leave</em>" — with the proper farewell.</li>
+      <li><strong>Q3</strong>: follow the individual (stay with them) after appraisal.</li>
+      <li><strong>Q4</strong>: follow them <em>"for the rest of their life; they should not leave them, even if driven away."</em></li>
+    </ul>
+    <p>
+      The final clause is the discourse's quiet punch. In the case of a teacher under whom one is genuinely progressing and is materially supported, the commitment is total — including refusing to leave even if the teacher actively tries to dismiss the disciple. This is the most extreme commitment language anywhere in the opening MN discourses.
+    </p>
+    <p>
+      The qualification matters. The "even if driven away" is attached only to Quadrant 4 — both criteria fully met. The discourse is not saying disciples should never leave their teachers. It is saying that <em>when a teacher is actually producing what the disciple came for</em>, the relationship is to be defended with maximum commitment, against even the teacher's own attempts to dissolve it.
+    </p>
+
+    <h3>The two variations in the teacher case</h3>
+    <p>Two small but significant details distinguish the teacher case from the geographical ones:</p>
+    <ol>
+      <li><strong>The taking-leave distinction.</strong> When practice fails and requisites are also bad, leave "without taking leave" — no formal farewell required, the situation is decisive. When practice fails but requisites are good, leave "having taken leave" — with the proper monastic farewell, because the appraisal is required and the teacher is owed the gesture.</li>
+      <li><strong>The "even if driven away" clause.</strong> A geographical location cannot drive you away; only an individual can. So this clause appears only in the personal case. It addresses a specific scenario: the teacher who, for whatever reason, tries to dismiss a disciple who is in fact benefiting. The discourse instructs: the disciple, having appraised correctly, refuses to leave.</li>
+    </ol>
+
+    <h3>The discourse's working principle</h3>
+    <p>Read across all six sections, the discourse encodes one principle in many applications:</p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      Evaluate any situation by two criteria — does your practice progress here, and are the requisites of life available — with practice as primary. Act decisively when both signals are aligned (leave fast, stay for life). Reflect carefully when they are split. Never let material comfort override the absence of practice; never let material discomfort override its presence.
+    </blockquote>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The matrix is one of the most transferable in the canon. It applies to any situation in which one is asking whether to stay or leave:
+    </p>
+    <ul>
+      <li>A meditation retreat or center</li>
+      <li>A particular teacher's lineage</li>
+      <li>A monastery or community</li>
+      <li>A city, a country (for anyone whose life involves choosing a place)</li>
+      <li>By analogy — a job, a marriage, a community, a course of study</li>
+    </ul>
+    <p>
+      The two criteria need translation in each case. For the contemplative situations, "practice progresses" can be taken almost literally. For ordinary life situations, the parallel is "am I becoming the kind of person I want to become here? Is this place producing the inner change I came for?" The "requisites" can be read literally (financial sustainability, basic needs met) or figuratively (the supporting conditions one needs to do the work).
+    </p>
+    <p>
+      The matrix's diagnostic power is that it forces explicit attention to both criteria at once. People often stay too long in situations that meet only the second (good conditions, no growth) or leave too quickly from situations that meet only the first (real growth, but uncomfortable). The matrix names what most internal hand-wringing avoids.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"How do I know if my practice is 'progressing' here? The criterion seems fuzzy."</strong> The discourse gives a specific four-fold answer: <em>"mindfulness becomes established, mind becomes immersed in samādhi, defilements come to an end, and they arrive at the supreme sanctuary from the yoke."</em> Take these as four sub-criteria. Some are visible quickly (mindfulness establishing — usually within months); some are slower (samādhi — often years); some are very slow (defilements ending — possibly decades); the last is the full result. The criterion is not "do I like it here" but "are these four things actually moving forward in measurable ways." Over a year or two of practice in any given place, the trajectory becomes clear.</p>
+
+    <p><strong>"Isn't the 'even if driven away' clause too extreme? What if the teacher is actually right to dismiss me?"</strong> The clause is gated by the precise condition: Quadrant 4 only. <em>Both</em> criteria must be met for it to apply — and met genuinely, not just in self-assessment. If a teacher is dismissing a disciple, that is itself a signal that one of the criteria may not actually be met. The clause is for the case in which the disciple, by careful appraisal, knows that the teacher's instruction is genuinely producing the four-fold practice progress. It is not a recipe for stalking a teacher who has reasonably ended the relationship.</p>
+
+    <p><strong>"What about Quadrant 2 — practice fails but requisites are abundant? Isn't comfort sometimes valuable?"</strong> Comfort is not the issue; the failure of practice is. The discourse is precise about what it is naming. Comfortable conditions in themselves are not a problem — Quadrant 4 has comfortable conditions and is the strongest stay-case. Comfortable conditions become a reason to leave only when they coincide with practice failing. The discourse is diagnosing a specific pattern: the practitioner who has settled into a situation because of its material support without noticing that the practice itself has died. Material comfort, in that pattern, becomes the very reason to act.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">vanapattha</span> — jungle thicket / wilderness. The discourse's title word and its starting object of analysis. <em>Vana</em> (forest) + <em>pattha</em> (remote area, thicket). The standard image for a forest-dwelling monastic's place of practice.
+      </div>
+      <div class="term">
+        <span class="pali-word">senāsana</span> — lodging, resting place. The third of the four requisites listed in the discourse's "requisites of life" formula.
+      </div>
+      <div class="term">
+        <span class="pali-word">jīvitaparikkhāra</span> — requisites of life. The four standard requisites a renunciate needs: robes (<em>cīvara</em>), almsfood (<em>piṇḍapāta</em>), lodgings (<em>senāsana</em>), medicines and supplies for the sick (<em>gilāna-paccaya-bhesajja-parikkhāra</em>). The second criterion of the decision matrix.
+      </div>
+      <div class="term">
+        <span class="pali-word">sati upaṭṭhāti / cittaṃ samādhiyati</span> — mindfulness becomes established, mind becomes immersed in samādhi. The first two sub-criteria of "practice progress." The contemplative work that the place is supposed to support.
+      </div>
+      <div class="term">
+        <span class="pali-word">āsavā parikkhayaṃ gacchanti</span> — defilements come to an end. The third sub-criterion. The longer-term result of established mindfulness and samādhi.
+      </div>
+      <div class="term">
+        <span class="pali-word">anuttara yogakkhema</span> — the supreme sanctuary from the yoke. The fourth and final sub-criterion. Full liberation. The destination of the path.
+      </div>
+      <div class="term">
+        <span class="pali-word">saṅkhāya</span> — after appraisal / having reflected. The deliberative move named in Quadrants 2 and 3 (the mixed cases). The discourse is precise: only the mixed cases require explicit reflection; the pure cases (Q1 and Q4) are decided immediately and for life respectively.
+      </div>
+      <div class="term">
+        <span class="pali-word">anāpucchā / āpucchā</span> — without taking leave / having taken leave. The two ways of departing from an individual teacher. The first applies in Q1 (the situation is so bad that no formal farewell is required); the second applies in Q2 (the situation is mixed and the appraisal is owed, including a proper farewell).
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 17 has 26 sections. The opening (§§1–2) introduces the exposition. The first object — a jungle thicket — receives the full four-quadrant analysis in §§3–6. The next four objects (village, town, city, country) are abbreviated in Sujato's print form because they follow exactly the same structure. The last object — an individual teacher — receives the full analysis again (§§23–26) because of its two small variations (the taking-leave distinction and the "even if driven away" clause). Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The opening</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There the Buddha addressed the mendicants, "Mendicants!" "Venerable sir," they replied. The Buddha said this:</p>
+
+      <p><span class="segno">§2</span>"Mendicants, I will teach you an exposition about jungle thickets. Listen and apply your mind well, I will speak." "Yes, sir," they replied. The Buddha said this:</p>
+
+      <h3>Quadrant 1 — bad practice, bad requisites: leave immediately</h3>
+
+      <p><span class="segno">§3</span>"Mendicants, take the case of a mendicant who lives close by a jungle thicket. As they do so, their mindfulness does not become established, their mind does not become immersed in samādhi, their defilements do not come to an end, and they do not arrive at the supreme sanctuary from the yoke. And the necessities of life that a renunciate requires — robes, almsfood, lodgings, and medicines and supplies for the sick — are hard to come by. That mendicant should reflect: 'While living close by this jungle thicket, my mindfulness does not become established, my mind does not become immersed in samādhi, my defilements do not come to an end, and I do not arrive at the supreme sanctuary from the yoke. And the necessities of life that a renunciate requires — robes, almsfood, lodgings, and medicines and supplies for the sick — are hard to come by.' That mendicant should leave that jungle thicket that very time of night or day; they should not stay there.</p>
+
+      <h3>Quadrant 2 — bad practice, good requisites: leave after appraisal</h3>
+
+      <p><span class="segno">§4</span>Take another case of a mendicant who lives close by a jungle thicket. Their mindfulness does not become established … But the necessities of life are easy to come by. That mendicant should reflect: 'While living close by this jungle thicket, my mindfulness does not become established … But the necessities of life are easy to come by. But I didn't go forth from the lay life to homelessness for the sake of a robe, almsfood, lodgings, or medicines and supplies for the sick. Moreover, while living close by this jungle thicket, my mindfulness does not become established …' That mendicant should, after appraisal, leave that jungle thicket; they should not stay there.</p>
+
+      <h3>Quadrant 3 — good practice, bad requisites: stay after appraisal</h3>
+
+      <p><span class="segno">§5</span>Take another case of a mendicant who lives close by a jungle thicket. As they do so, their mindfulness becomes established, their mind becomes immersed in samādhi, their defilements come to an end, and they arrive at the supreme sanctuary from the yoke. But the necessities of life that a renunciate requires — robes, almsfood, lodgings, and medicines and supplies for the sick — are hard to come by. That mendicant should reflect: 'While living close by this jungle thicket, my mindfulness becomes established … But the necessities of life are hard to come by. But I didn't go forth from the lay life to homelessness for the sake of a robe, almsfood, lodgings, or medicines and supplies for the sick. Moreover, while living close by this jungle thicket, my mindfulness becomes established …' That mendicant should, after appraisal, stay in that jungle thicket; they should not leave.</p>
+
+      <h3>Quadrant 4 — good practice, good requisites: stay for life</h3>
+
+      <p><span class="segno">§6</span>Take another case of a mendicant who lives close by a jungle thicket. Their mindfulness becomes established … And the necessities of life are easy to come by. That mendicant should reflect: 'While living close by this jungle thicket, my mindfulness becomes established … And the necessities of life are easy to come by.' That mendicant should stay in that jungle thicket for the rest of their life; they should not leave.</p>
+
+      <h3>The same matrix applied to four more geographical scales</h3>
+
+      <div class="compact">
+        <strong>§§7–22</strong> — The same four-quadrant analysis is then applied, with the same structure and the same action-rules, to four more dwelling situations:
+        <br>· <strong>§§7–10</strong> A mendicant who lives supported by a village (<em>gāma</em>)
+        <br>· <strong>§§11–14</strong> A mendicant who lives supported by a town (<em>nigama</em>)
+        <br>· <strong>§§15–18</strong> A mendicant who lives supported by a city (<em>nagara</em>)
+        <br>· <strong>§§19–22</strong> A mendicant who lives supported by a country (<em>janapada</em>)
+        <br>In each case the same four quadrants and the same four actions: leave immediately / leave after appraisal / stay after appraisal / stay for life. The text is identical except for the dwelling object.
+      </div>
+
+      <h3>The teacher case — supported by an individual</h3>
+
+      <p><span class="segno">§23</span>Take the case of a mendicant who lives supported by an individual. As they do so, their mindfulness does not become established, their mind does not become immersed in samādhi, their defilements do not come to an end, and they do not arrive at the supreme sanctuary from the yoke. And the necessities of life that a renunciate requires — robes, almsfood, lodgings, and medicines and supplies for the sick — are hard to come by. That mendicant should reflect: '… my mindfulness does not become established … And the necessities of life are hard to come by.' <strong>That mendicant should leave that individual at any time of the day or night, without taking leave; they should not follow them.</strong></p>
+
+      <p><span class="segno">§24</span>Take another case of a mendicant who lives supported by an individual. Their mindfulness does not become established … But the necessities of life are easy to come by. That mendicant should reflect: '… my mindfulness does not become established … But the necessities of life are easy to come by.' <strong>That mendicant should, after appraisal, leave that individual having taken leave; they should not follow them.</strong></p>
+
+      <p><span class="segno">§25</span>Take another case of a mendicant who lives supported by an individual. Their mindfulness becomes established … But the necessities of life are hard to come by. That mendicant should reflect: '… my mindfulness becomes established … But the necessities of life are hard to come by.' That mendicant should, after appraisal, follow that individual; they should not leave.</p>
+
+      <p><span class="segno">§26</span>Take another case of a mendicant who lives supported by an individual. As they do so, their mindfulness becomes established, their mind becomes immersed in samādhi, their defilements come to an end, and they arrive at the supreme sanctuary from the yoke. And the necessities of life that a renunciate requires — robes, almsfood, lodgings, and medicines and supplies for the sick — are easy to come by. That mendicant should reflect: 'While living supported by this individual, my mindfulness becomes established … And the necessities of life are easy to come by.' <strong>That mendicant should follow that individual for the rest of their life; they should not leave them, even if driven away.</strong>"</p>
+
+      <p style="margin-top:20px"><strong>That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">MN 17 applies a single decision matrix to how many different kinds of dwelling situation?</div>
+        <button class="opt">Three</button>
+        <button class="opt">Four</button>
+        <button class="opt">Six — jungle thicket, village, town, city, country, and an individual teacher</button>
+        <button class="opt">Ten</button>
+        <div class="expl"><strong>Correct: C.</strong> The five geographical scales cover every possible dwelling situation for the ancient monastic; the sixth — an individual — is a categorical leap to a relational rather than spatial object. The same analytic tool applies at every scale.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What are the two binary criteria the discourse uses to evaluate any situation?</div>
+        <button class="opt">Comfort and difficulty</button>
+        <button class="opt">Whether practice progresses (mindfulness, samādhi, ending of defilements, supreme sanctuary) AND whether the requisites of life (robes, almsfood, lodgings, medicines) are available</button>
+        <button class="opt">Solitude and company</button>
+        <button class="opt">Wealth and poverty</button>
+        <div class="expl"><strong>Correct: B.</strong> Practice and requisites — each binary (yes/no), producing four quadrants. The discourse is precise about each: practice has four sub-criteria, requisites are the four standard ones a renunciate needs.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What is the action in Quadrant 1 — practice not progressing AND requisites hard to come by?</div>
+        <button class="opt">Stay and endure</button>
+        <button class="opt">Leave after consulting a teacher</button>
+        <button class="opt">Leave at any time of day or night — no appraisal needed</button>
+        <button class="opt">Convert the situation</button>
+        <div class="expl"><strong>Correct: C.</strong> When both signals are bad, no deliberation is required. The asymmetry is significant: Q1 decisions are immediate, Q4 decisions are for life, the mixed quadrants (Q2 and Q3) require explicit "appraisal" (saṅkhāya).</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What is the action in Quadrant 2 — practice not progressing BUT requisites easy to come by?</div>
+        <button class="opt">Leave after appraisal, reflecting that "I didn't go forth from the lay life for the sake of robes, almsfood, lodgings, or medicines"</button>
+        <button class="opt">Stay because the conditions are good</button>
+        <button class="opt">Stay because leaving would be ungrateful</button>
+        <button class="opt">Wait until the requisites get harder</button>
+        <div class="expl"><strong>Correct: A.</strong> This is the discourse's most psychologically demanding case — leaving a place that materially supports you because the practice has died. The reasoning is given explicitly: the primary purpose of going forth is awakening, not material support. Material comfort becomes a reason to leave only when it coincides with practice failing.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">What is the action in Quadrant 3 — practice progressing BUT requisites hard to come by?</div>
+        <button class="opt">Leave to find a more comfortable place</button>
+        <button class="opt">Stay after appraisal, reflecting that "I didn't go forth from the lay life for the sake of robes, almsfood, lodgings, or medicines"</button>
+        <button class="opt">Leave temporarily and return</button>
+        <button class="opt">Complain to the supporting community</button>
+        <div class="expl"><strong>Correct: B.</strong> The mirror image of Q2 and using the same reasoning. The practice progressing is exactly what the practitioner went forth for; the inadequate requisites are a known and acceptable cost. The reasoning clause is the tie-breaker, deployed only in the mixed cases.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What is the action in Quadrant 4 — practice progressing AND requisites easy to come by?</div>
+        <button class="opt">Stay until further notice</button>
+        <button class="opt">Stay through the rainy season</button>
+        <button class="opt">Stay until a better situation appears</button>
+        <button class="opt">"Stay for the rest of your life" — the strongest commitment in the matrix</button>
+        <div class="expl"><strong>Correct: D.</strong> Q4 mirrors Q1 in its temporal extremity: where Q1 is "leave immediately," Q4 is "stay for life." The discourse encodes both speed and slowness in the matrix depending on what the data supports.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">In §§3–22, the four quadrants follow a standard pattern. But the final section (§§23–26, applied to following a particular individual) introduces a small but distinctive variation. What is it?</div>
+        <button class="opt">The four quadrants are reduced to two</button>
+        <button class="opt">The criteria are changed</button>
+        <button class="opt">The Q1 action becomes "leave without taking leave" (no formal farewell), Q2 becomes "leave having taken leave" (with proper farewell), and Q4 adds the famous "even if driven away" clause — making the strongest commitment in the discourse total</button>
+        <button class="opt">The Buddha refuses to address this case</button>
+        <div class="expl"><strong>Correct: C.</strong> Two small but meaningful additions. The taking-leave distinction reflects the social fact that an individual relationship requires explicit farewell rituals while a geographical move does not. The "even if driven away" clause applies only in Q4 — the most stringent condition. When a teacher is genuinely producing the four-fold practice progress and material support is available, the commitment is total, including refusing to leave even when the teacher tries to dismiss the disciple.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">The "even if driven away" clause has been called the most extreme commitment language in the opening MN discourses. What is the specific condition under which it applies?</div>
+        <button class="opt">Anytime a teacher accepts a disciple</button>
+        <button class="opt">Only in Quadrant 4 — when practice is genuinely progressing AND material support is available; both criteria must be met genuinely, not just in self-assessment</button>
+        <button class="opt">Whenever the disciple feels devotion</button>
+        <button class="opt">Whenever the teacher demands it</button>
+        <div class="expl"><strong>Correct: B.</strong> The clause is precisely gated. The discourse is not saying disciples should never leave teachers. It is saying that <em>when a teacher is actually producing what the disciple came for</em>, the relationship is to be defended with maximum commitment, against even the teacher's own attempts to dissolve it. If a teacher is dismissing a disciple, that may itself be a signal that one of the criteria is not actually met.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">The Pāli word <em>saṅkhāya</em> — "after appraisal" — appears in two of the four quadrants. Which two?</div>
+        <button class="opt">Q1 and Q4</button>
+        <button class="opt">Q1 and Q3</button>
+        <button class="opt">Q2 and Q3 — the mixed cases, where one criterion is met and one isn't</button>
+        <button class="opt">All four quadrants</button>
+        <div class="expl"><strong>Correct: C.</strong> The discourse is precise. The mixed cases require reflection; the pure cases (Q1 unmistakably bad, Q4 unmistakably good) decide themselves. <em>Saṅkhāya</em> — deliberative reflection — is the explicit move named in Q2 and Q3. The matrix encodes both swift decisiveness and slow deliberation depending on what the data shows.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">A modern parallel: how does the matrix apply to non-monastic situations like a job, a relationship, or a course of study?</div>
+        <button class="opt">It doesn't — the discourse is for monastics only</button>
+        <button class="opt">Only the requisites criterion applies</button>
+        <button class="opt">The two criteria translate directly: "am I becoming the kind of person I want to become here?" (the practice/growth criterion) and "are my sustaining conditions met?" (the requisites criterion) — with the same priority of growth over comfort and the same four-quadrant decision structure</button>
+        <button class="opt">Apply only if the situation is religious</button>
+        <div class="expl"><strong>Correct: C.</strong> The matrix is one of the most transferable in the canon. The two criteria need translation in each case, but the structure holds: never let comfort override the absence of growth; never let discomfort override its presence. The matrix's diagnostic power is that it forces explicit attention to both criteria at once. People often stay too long in situations that meet only the requisites criterion (comfortable but stagnant) or leave too quickly from situations that meet only the practice criterion (growing but uncomfortable).</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">vanapattha</span>jungle thicket / wilderness</li>
+        <li><span class="pali">jīvitaparikkhāra</span>requisites of life (four)</li>
+        <li><span class="pali">senāsana</span>lodging</li>
+        <li><span class="pali">sati upaṭṭhāti</span>mindfulness established</li>
+        <li><span class="pali">cittaṃ samādhiyati</span>mind immersed in samādhi</li>
+        <li><span class="pali">āsavā parikkhayaṃ gacchanti</span>defilements come to an end</li>
+        <li><span class="pali">anuttara yogakkhema</span>supreme sanctuary from the yoke</li>
+        <li><span class="pali">saṅkhāya</span>after appraisal (Q2, Q3)</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 16 · Cetokhila (conditions for progress)</li>
+        <li>AN 9.6 · Sevitabba (parallel matrix)</li>
+        <li>MN 32 · Mahāgosiṅga (the ideal dwelling)</li>
+        <li>MN 5 · Anaṅgaṇa (where you stay is seen)</li>
+        <li>MA 107, 108 · Chinese parallels</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn17/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN17.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "Wilderness," with notes on the decision matrix.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_107" target="_blank" rel="noopener">Northern parallel — MA 107, 108</a> — the Chinese Madhyama-āgama counterparts ("Discourses on the Forest"), in the chapter on forests.</li>
+      <li><a href="https://suttacentral.net/an9.6/en/sujato" target="_blank" rel="noopener">AN 9.6 · Sevitabba</a> — the AN parallel: a similar four-quadrant analysis applied to associating with persons.</li>
+      <li><a href="https://suttacentral.net/an10.84/en/sujato" target="_blank" rel="noopener">AN 10.84 · Byākaraṇa</a> — relevant teaching on assessing one's own progress.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-016.html"><span class="label">← Previous</span>MN 16 · Emotional Barrenness</a>
+    <a href="mn-018.html" class="next"><span class="label">Next →</span>MN 18 · The Honey-Cake</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

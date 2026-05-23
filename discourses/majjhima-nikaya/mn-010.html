@@ -1,0 +1,1220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 10 — Mindfulness Meditation | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Satipaṭṭhānasutta — the foundational source text of the modern mindfulness movement, the canon's most comprehensive single discourse on contemplative training. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 10
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 10</div>
+  <h1>Mindfulness Meditation</h1>
+  <p class="subtitle"><em>Satipaṭṭhānasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>The land of the Kurus, near the town named Kammāsadamma — not Sāvatthī. The Buddha is teaching outside his usual base.</dd>
+      <dt>Speaker</dt><dd>The Buddha, addressing the mendicants</dd>
+      <dt>Form</dt><dd>47 sections. An opening declaration, four major sections on the four foundations of mindfulness, twenty-one specific contemplative exercises, and a striking closing claim about the timeframe for awakening</dd>
+      <dt>Length</dt><dd>~30 minutes to read. The most comprehensive single contemplative manual in the Majjhima Nikāya.</dd>
+      <dt>Northern parallel</dt><dd>MA 98 (Madhyama-āgama 98, "Discourse on Mindfulness Foundations"). A near-identical parallel survives in DN 22.</dd>
+      <dt>Difficulty</dt><dd>★★★★☆ — the structure is clear; the content is dense. This is the foundational source text of the modern mindfulness movement.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, tenth</h2>
+    <p class="lede">
+      MN 10 is, for the modern world, the single most-cited Pāli discourse. It is the source text for Jon Kabat-Zinn's MBSR program, for cognitive therapy's mindfulness component, for the hundreds of secular meditation apps and corporate mindfulness courses that have become mainstream over the past forty years. None of those modern adaptations exists without this discourse.
+    </p>
+    <p>
+      And yet MN 10 itself is bigger, stranger, and more uncompromising than its modern descendants. It includes mindfulness of breathing — the most-extracted technique — as just one of twenty-one specific exercises. It includes contemplation of the thirty-two parts of the body. It includes nine stages of contemplating a corpse decomposing in a charnel ground. It includes mindfulness applied to the five hindrances, the five aggregates, the six sense fields with their corresponding fetters, the seven factors of awakening, and the Four Noble Truths. The discourse closes with a confident promise that anyone who practices these four foundations for as little as seven days can expect either complete awakening or non-return.
+    </p>
+    <p>
+      To read MN 10 carefully is to understand both what the modern mindfulness movement inherits and what it has chosen to leave behind. The teaching itself is the canon's most ambitious single statement of what contemplative training is for — not stress reduction but, in the Buddha's words, <em>"the path to convergence … to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to discover the system, and to realize extinguishment."</em>
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Train your mindfulness in four domains — body, feelings, mind, and principles — through twenty-one specific exercises, and the architecture of liberation will assemble itself.
+    </p>
+
+    <h3>The opening declaration: "the path to convergence"</h3>
+    <p>
+      The Buddha opens with a striking and famous claim: <em>"the four kinds of mindfulness meditation are the path to convergence"</em> — <em>ekāyano maggo</em> in Pāli. The phrase is one of the most contested in early Buddhist translation. Older translators give "the one and only path"; Bhikkhu Bodhi gives "the direct path"; Bhikkhu Sujato chooses "the path to convergence." Each captures something. The Pāli <em>ekāyano</em> literally means "one-going" — a path that converges to a single point, or a path that the practitioner walks alone, or a path that leads to one destination.
+    </p>
+    <p>
+      What the path is for is named immediately afterward. Five purposes, climbing in scope:
+    </p>
+    <ol>
+      <li>To <strong>purify</strong> sentient beings</li>
+      <li>To get past <strong>sorrow and crying</strong></li>
+      <li>To make an end of <strong>pain and sadness</strong></li>
+      <li>To <strong>discover the system</strong> (<em>ñāya</em>, the true method)</li>
+      <li>To <strong>realize extinguishment</strong></li>
+    </ol>
+    <p>
+      Notice that contemporary "mindfulness for wellbeing" hovers around the first three of these. The Buddha names them and keeps going.
+    </p>
+
+    <h3>The four foundations of mindfulness</h3>
+    <p>The discourse rests on a four-fold division of what mindfulness can be applied to:</p>
+    <table>
+      <thead><tr><th>#</th><th>Domain (Pāli)</th><th>What it covers</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td><strong>Body</strong> <em>(kāya)</em></td><td>The physical organism, posture, action, anatomy, elemental composition, mortality</td></tr>
+        <tr><td>2</td><td><strong>Feelings</strong> <em>(vedanā)</em></td><td>The hedonic tone of experience — pleasant, painful, neutral — and whether worldly or unworldly</td></tr>
+        <tr><td>3</td><td><strong>Mind</strong> <em>(citta)</em></td><td>The qualitative state of awareness itself — greedy, hateful, deluded, contracted, expanded, concentrated, freed</td></tr>
+        <tr><td>4</td><td><strong>Principles</strong> <em>(dhamma)</em></td><td>The doctrinal categories: hindrances, aggregates, sense fields, awakening factors, noble truths</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The progression is from gross to subtle. Body is the most external object of awareness. Feelings are subtler — the way experience appears in its hedonic dimension. Mind is the awareness itself. Principles are the structures by which everything is organized. By the end, the practitioner has trained mindfulness through every layer at which experience can be examined.
+    </p>
+
+    <h3>Body: six sub-exercises</h3>
+    <p>The first foundation is divided into six specific practices:</p>
+    <ol>
+      <li><strong>Mindfulness of breathing</strong> (§4) — sitting in seclusion, attending to long and short breath, training to "experience the whole body" and to "still the physical process." The carpenter simile: like a craftsman who knows whether they are making a deep cut or a shallow one.</li>
+      <li><strong>Postures</strong> (§6) — knowing the body in each of the four postures: walking, standing, sitting, lying down. <em>"Whatever posture their body is in, they know it."</em></li>
+      <li><strong>Situational awareness</strong> <em>(sampajañña)</em> (§8) — clear comprehension during ordinary acts: going out, coming back, looking ahead, bending limbs, eating, drinking, urinating, defecating, walking, standing, sleeping, waking, speaking, keeping silent.</li>
+      <li><strong>The thirty-two parts of the body</strong> (§10) — anatomical contemplation: hair, nails, teeth, skin, flesh, bones, marrow, organs, fluids. The bag-of-grain simile: like opening a bag and examining the rice, wheat, beans inside.</li>
+      <li><strong>The four elements</strong> (§12) — examining the body as earth, water, fire, air. The butcher simile: like the butcher who has cut a cow into chops and no longer sees "cow."</li>
+      <li><strong>The nine charnel ground contemplations</strong> (§§14–30) — a sequence: a corpse one to three days old, bloated and festering; eaten by crows, hawks, vultures; a skeleton with flesh and blood; a skeleton without flesh but smeared with blood; a skeleton rid of flesh and blood; bones scattered in every direction; white bones; bones piled in a heap; bones rotted to powder. After each: <em>"This body is also of that same nature, that same kind, and cannot go beyond that."</em></li>
+    </ol>
+    <p>
+      The arc is from the living body in motion to the body's anatomy to the body's elemental composition to the body's death. The progression is, in microcosm, the full arc of embodied existence.
+    </p>
+
+    <h3>Feelings: nine types</h3>
+    <p>
+      The second foundation (§§32–33) names how feelings <em>(vedanā)</em> are recognized. Three primary tones — pleasant, painful, neutral — each divided into "of the flesh" (<em>sāmisa</em>, worldly, sensual) and "not of the flesh" (<em>nirāmisa</em>, unworldly, spiritual). Total nine types.
+    </p>
+    <p>
+      The practice is recognition, not preference. The mendicant who feels a pleasant feeling <em>knows</em>: "I feel a pleasant feeling." No suppression, no enhancement, no pursuit. The same for painful, the same for neutral, the same across the worldly and unworldly registers. The training is in the seeing.
+    </p>
+
+    <h3>Mind: eight pairs</h3>
+    <p>The third foundation (§§34–35) trains mindfulness on the qualitative state of awareness itself. The Buddha names eight pairs:</p>
+    <ol>
+      <li>Mind with greed / mind without greed</li>
+      <li>Mind with hate / mind without hate</li>
+      <li>Mind with delusion / mind without delusion</li>
+      <li>Constricted mind / scattered mind</li>
+      <li>Expansive mind / unexpansive mind</li>
+      <li>Mind that is not supreme / mind that is supreme</li>
+      <li>Mind immersed in samādhi / mind not immersed in samādhi</li>
+      <li>Freed mind / unfreed mind</li>
+    </ol>
+    <p>
+      This is what MN 6 names as wish #16. Mindfulness of mind is the second-order recognition: the mind seeing its own current state, not from outside, but with itself.
+    </p>
+
+    <h3>Principles: five sub-categories</h3>
+    <p>The fourth foundation (§§36–45) trains mindfulness on the doctrinal categories themselves — the structures by which the practitioner has been taught to organize experience.</p>
+    <table>
+      <thead><tr><th>#</th><th>Category</th><th>What it observes</th></tr></thead>
+      <tbody>
+        <tr><td>4.1</td><td>The five hindrances</td><td>Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt — present, absent, how they arise, how they are given up, how they don't arise again</td></tr>
+        <tr><td>4.2</td><td>The five grasping aggregates</td><td>Form, feeling, perception, choices, consciousness — their origin and ending</td></tr>
+        <tr><td>4.3</td><td>The six sense fields</td><td>Eye/sights, ear/sounds, etc., plus the fetter that arises dependent on each — present, abandoned, not arising again</td></tr>
+        <tr><td>4.4</td><td>The seven awakening factors</td><td>Mindfulness, investigation, energy, rapture, tranquility, immersion, equanimity — present, absent, how each is brought to fulfillment</td></tr>
+        <tr><td>4.5</td><td>The four noble truths</td><td>Suffering, its origin, its cessation, the path that leads to its cessation</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Notice the architecture. Hindrances are what blocks practice; aggregates are what is held; sense fields are where contact happens; awakening factors are what grows; the four noble truths are the master frame. Mindfulness of principles is the application of awareness to the practitioner's whole conceptual scaffolding.
+    </p>
+
+    <h3>The refrain — what mindfulness is actually doing</h3>
+    <p>
+      After every single exercise, the discourse repeats the same four-line refrain. It is the most important sentence in MN 10 and one of the most easily skipped:
+    </p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "And so they meditate observing an aspect of [body / feelings / mind / principles] internally, externally, and both internally and externally. They meditate observing the liability to originate, to vanish, and to originate and vanish. Or mindfulness is established that [the object] exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world."
+    </blockquote>
+    <p>Three things are happening in this refrain:</p>
+    <ol>
+      <li><strong>Internal, external, both</strong> — the practice scales from oneself to others to the boundary between. Mindfulness is not a private psychological act; it extends.</li>
+      <li><strong>Origination, vanishing, both</strong> — every object is observed in its arising, its passing, and the whole arc. This is the insight (<em>vipassanā</em>) work woven into every exercise.</li>
+      <li><strong>Independent, not grasping</strong> — the mark of correct mindfulness is non-clinging. If the practitioner is grasping at the object — including grasping at the meditation itself — the practice is misaligned.</li>
+    </ol>
+    <p>
+      The twenty-one exercises are surface. The refrain is the depth. A practitioner who does the exercises without the refrain has done body-scanning; a practitioner who does the exercises with the refrain has done the actual teaching.
+    </p>
+
+    <h3>The seven-year / seven-day promise</h3>
+    <p>
+      The closing section (§46) is one of the most confident statements in the canon. The Buddha says: anyone who develops the four foundations of mindfulness in this way for <em>seven years</em> can expect one of two results — full enlightenment in this very life, or, if there is some residue, non-return.
+    </p>
+    <p>
+      Then he runs the count down: six years, five years, four, three, two, one. Seven months, six, five, four, three, two, one. A fortnight. And finally: <em>"Let alone a fortnight, anyone who develops these four kinds of mindfulness meditation in this way for seven days can expect one of two results: enlightenment in this very life, or non-return."</em>
+    </p>
+    <p>
+      The descending count is not casual. The Buddha is making a serious empirical claim: this method works fast for those who actually practice it. The seven-day version is the lower bound — the Buddha is not saying it ordinarily takes seven years; he is saying that even seven days, applied correctly, suffice for the breakthrough.
+    </p>
+
+    <h3>What modern mindfulness keeps — and what it leaves behind</h3>
+    <p>The contrast between MN 10 and contemporary mindfulness programs is illuminating, not for judgment but for clarity:</p>
+    <table>
+      <thead><tr><th>What modern programs keep</th><th>What they leave behind</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>Mindfulness of breathing</td>
+          <td>The 32 body parts</td>
+        </tr>
+        <tr>
+          <td>Posture awareness</td>
+          <td>The nine charnel-ground contemplations</td>
+        </tr>
+        <tr>
+          <td>Situational awareness in daily life</td>
+          <td>Mindfulness of the five hindrances as a system</td>
+        </tr>
+        <tr>
+          <td>Recognition of pleasant/painful/neutral feeling</td>
+          <td>The four elements analysis</td>
+        </tr>
+        <tr>
+          <td>Some version of mind-watching</td>
+          <td>The seven awakening factors</td>
+        </tr>
+        <tr>
+          <td>(rare) "noticing the noticing"</td>
+          <td>The four noble truths as the master framing</td>
+        </tr>
+        <tr>
+          <td>Goal: stress reduction, regulation, equanimity</td>
+          <td>Goal: convergence, the discovery of the system, extinguishment</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Modern programs are not wrong for making these choices. The choices are deliberate: modern mindfulness is designed to be secular, culturally portable, and accessible to clinical populations who are not seeking liberation. But a reader of MN 10 should understand the original architecture, so that they can choose for themselves which version they are practicing — and so that, if they want the rest, they know where to look.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      MN 10 resembles, more than anything in modern literature, a complete training manual for a serious craft. It does not say "try this and see how it feels." It says: <em>here are twenty-one specific exercises; here is what each accomplishes; here is the refrain that names the underlying work; here is the timeline.</em> The discourse is doing for contemplative training what a graduate-level pedagogy text would do for medicine or surgery — naming the actual practices, naming what they are for, and naming the timeframe.
+    </p>
+    <p>
+      The mainstream Western reception of mindfulness has, with good reason, emphasized the introductory exercises and the secular accessibility. MN 10 is what is in the room behind that introduction. For practitioners who are ready, it is the working syllabus.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Why charnel grounds? Isn't this morbid?"</strong> The nine charnel ground contemplations are not about morbidity but about <em>truth</em>. The body the practitioner is now sitting in will reach each of the nine stages described — bloated, eaten, skeletal, scattered, powdered. The point is not to feel disgust but to free the mind from the assumption that this body is exempt from the trajectory of all bodies. Once this is genuinely seen, an enormous amount of grasping releases. The "morbidity" reading reflects the modern cultural taboo around death; the discourse is doing something the modern world has lost the practice of doing.</p>
+
+    <p><strong>"The seven-day promise sounds like marketing. Is this credible?"</strong> Take it as an empirical claim about what the method, fully applied, can produce — not as an average rate. The Buddha is not promising every casual practitioner enlightenment in seven days. He is saying that for someone who actually practices the four foundations with the refrain — internal/external/both, origination/vanishing/both, independent/not-grasping — the timeframe is much shorter than people assume. The discourse is calibrating expectations against the seriousness of the practice, not against its difficulty.</p>
+
+    <p><strong>"How do I actually start? Do I have to do all twenty-one exercises?"</strong> No. The discourse is a complete map; it is not a curriculum to be done in order. The traditional commentaries note that some exercises suit some temperaments. The most universal entry point is mindfulness of breathing (§4) — the practice that has, for two and a half thousand years, opened the door for the largest number of practitioners. Establish that, deepen the refrain alongside it, and the other exercises will become legible from the inside.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">satipaṭṭhāna</span> — mindfulness meditation / foundation of mindfulness. The compound is <em>sati</em> (mindfulness, remembering) + <em>upaṭṭhāna</em> (setting up, establishing). Sujato translates as "mindfulness meditation"; Bodhi as "foundation of mindfulness." Both are correct emphases.
+      </div>
+      <div class="term">
+        <span class="pali-word">ekāyano maggo</span> — "path to convergence" / "direct path" / "one-going path." One of the most translated phrases in early Buddhism. The path that goes to a single destination, or that the practitioner walks alone, or that converges all efforts onto one work.
+      </div>
+      <div class="term">
+        <span class="pali-word">kāya · vedanā · citta · dhamma</span> — body, feelings, mind, principles. The four foundations. The progression is from external to internal to structural.
+      </div>
+      <div class="term">
+        <span class="pali-word">ātāpī sampajāno satimā</span> — "keen, aware, and mindful." The three-fold qualifier that appears in the opening of every foundation. The practitioner is keen in effort, aware (clearly comprehending), and mindful (remembering what is happening).
+      </div>
+      <div class="term">
+        <span class="pali-word">sampajañña</span> — situational awareness, clear comprehension. The classical Pāli analytical companion of <em>sati</em>. Where <em>sati</em> remembers what is here, <em>sampajañña</em> knows what is appropriate to do here.
+      </div>
+      <div class="term">
+        <span class="pali-word">ānāpānasati</span> — mindfulness of breathing. The first sub-exercise of the body foundation (§4). The starting point of most contemplative traditions and the most-extracted practice in modern mindfulness programs.
+      </div>
+      <div class="term">
+        <span class="pali-word">sāmisa · nirāmisa</span> — "of the flesh" / "not of the flesh." The two registers for each of the three primary feeling tones. Worldly versus unworldly. The discourse insists that the recognition applies in both registers.
+      </div>
+      <div class="term">
+        <span class="pali-word">pañca nīvaraṇā</span> — the five hindrances. The first sub-category of the fourth foundation: sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt. The five obstacles to deep practice.
+      </div>
+      <div class="term">
+        <span class="pali-word">satta bojjhaṅgā</span> — the seven awakening factors. The fourth sub-category of the fourth foundation: mindfulness, investigation, energy, rapture, tranquility, immersion, equanimity. The seven qualities that, cultivated together, ripen as awakening.
+      </div>
+      <div class="term">
+        <span class="pali-word">anissito ca viharati, na ca kiñci loke upādiyati</span> — "they meditate independent, not grasping at anything in the world." The closing line of the refrain. The mark of correct mindfulness: not even the practice itself is grasped.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 10 has 47 sections: an opening declaration (§§1–3), the four major foundations with their 21 specific exercises (§§4–45), and the closing seven-year-to-seven-day claim with summary (§§46–47). The refrain repeats after every exercise. Sujato's print form gives the refrain in full at the first exercise of each foundation and abbreviates it afterward; the charnel-ground contemplations (§§18–30) are shown as a compact list of corpse stages. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The opening declaration</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying in the land of the Kurus, near the Kuru town named Kammāsadamma. There the Buddha addressed the mendicants, "Mendicants!" "Venerable sir," they replied. The Buddha said this:</p>
+
+      <p><span class="segno">§2</span>"Mendicants, the four kinds of mindfulness meditation are the path to convergence. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to discover the system, and to realize extinguishment.</p>
+
+      <p><span class="segno">§3</span>What four? It's when a mendicant meditates by observing an aspect of the body — keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings — keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of the mind — keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of principles — keen, aware, and mindful, rid of covetousness and displeasure for the world.</p>
+
+      <h3>1. Observing the body</h3>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">1.1 Mindfulness of breathing</h3>
+
+      <p><span class="segno">§4</span>And how does a mendicant meditate observing an aspect of the body? It's when a mendicant — gone to a wilderness, or to the root of a tree, or to an empty hut — sits down cross-legged, sets their body straight, and brings mindfulness to the present. Just mindful, they breathe in. Mindful, they breathe out. Breathing in heavily they know: 'I'm breathing in heavily.' Breathing out heavily they know: 'I'm breathing out heavily.' When breathing in lightly they know: 'I'm breathing in lightly.' Breathing out lightly they know: 'I'm breathing out lightly.' They practice like this: 'I'll breathe in experiencing the whole body.' They practice like this: 'I'll breathe out experiencing the whole body.' They practice like this: 'I'll breathe in stilling the physical process.' They practice like this: 'I'll breathe out stilling the physical process.' It's like a deft carpenter or carpenter's apprentice. When making a deep cut they know: 'I'm making a deep cut,' and when making a shallow cut they know: 'I'm making a shallow cut.'</p>
+
+      <p><span class="segno">§5</span>And so they meditate observing an aspect of the body internally, externally, and both internally and externally. They meditate observing, with respect to the body, the liability to originate, to vanish, and to originate and vanish. Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That's how a mendicant meditates by observing an aspect of the body.</p>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">1.2 The four postures</h3>
+
+      <p><span class="segno">§6</span>Furthermore, when a mendicant is walking they know: 'I am walking.' When standing they know: 'I am standing.' When sitting they know: 'I am sitting.' And when lying down they know: 'I am lying down.' Whatever posture their body is in, they know it.</p>
+
+      <p><span class="segno">§7</span>And so they meditate observing an aspect of the body internally, externally, and both internally and externally. With respect to the body, they meditate observing the liability to originate, to vanish, and to originate and vanish. Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That too is how a mendicant meditates by observing an aspect of the body.</p>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">1.3 Situational awareness</h3>
+
+      <p><span class="segno">§8</span>Furthermore, a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.</p>
+
+      <p><span class="segno">§9</span>And so they meditate observing an aspect of the body internally … That too is how a mendicant meditates by observing an aspect of the body.</p>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">1.4 The 32 parts of the body</h3>
+
+      <p><span class="segno">§10</span>Furthermore, a mendicant examines their own body, up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. 'In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.' It's as if there were a bag with openings at both ends, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And a person with clear eyes were to open it and examine the contents: 'These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.'</p>
+
+      <p><span class="segno">§11</span>And so they meditate observing an aspect of the body internally … That too is how a mendicant meditates by observing an aspect of the body.</p>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">1.5 The four elements</h3>
+
+      <p><span class="segno">§12</span>Furthermore, a mendicant examines their own body, whatever its placement or posture, according to the elements: 'In this body there is the earth element, the water element, the fire element, and the air element.' It's as if a deft butcher or butcher's apprentice were to kill a cow and sit down at the crossroads with the meat cut into chops.</p>
+
+      <p><span class="segno">§13</span>And so they meditate observing an aspect of the body internally … That too is how a mendicant meditates by observing an aspect of the body.</p>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">1.6 The nine charnel-ground contemplations</h3>
+
+      <p><span class="segno">§14</span>Furthermore, suppose a mendicant were to see a corpse discarded in a charnel ground. And it had been dead for one, two, or three days, bloated, livid, and festering. They'd compare it with their own body: 'This body is also of that same nature, that same kind, and cannot go beyond that.'</p>
+
+      <p><span class="segno">§15</span>And so they meditate observing an aspect of the body internally … That too is how a mendicant meditates by observing an aspect of the body.</p>
+
+      <div class="compact">
+        <strong>§§16–30</strong> — The contemplation continues through eight further stages of a decomposing corpse, each followed by the same refrain. The stages are:
+        <br>· Devoured by crows, hawks, vultures, herons, hounds, tigers, leopards, jackals
+        <br>· A skeleton with flesh and blood, held together by sinews
+        <br>· A skeleton without flesh but smeared with blood, held together by sinews
+        <br>· A skeleton rid of flesh and blood, held together by sinews
+        <br>· Bones rid of sinews, scattered in every direction — here a hand-bone, there a foot-bone, here an ankle, there a shin-bone, here a thigh, there a hip, here a rib, there a back-bone, here an arm, there a neck-bone, here a jaw, there a tooth, here the skull
+        <br>· White bones, the color of shells
+        <br>· Decrepit bones, heaped in a pile
+        <br>· Bones rotted and crumbled to powder
+        <br>After each stage: <em>"This body is also of that same nature, that same kind, and cannot go beyond that."</em>
+      </div>
+
+      <p><span class="segno">§31</span>And so they meditate observing an aspect of the body internally, externally, and both internally and externally. With respect to the body, they meditate observing the liability to originate, to vanish, and to originate and vanish. Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That too is how a mendicant meditates by observing an aspect of the body.</p>
+
+      <h3>2. Observing the feelings</h3>
+
+      <p><span class="segno">§32</span>And how does a mendicant meditate observing an aspect of feelings? It's when a mendicant who feels a pleasant feeling knows: 'I feel a pleasant feeling.' When they feel a painful feeling, they know: 'I feel a painful feeling.' When they feel a neutral feeling, they know: 'I feel a neutral feeling.' When they feel a pleasant feeling of the flesh, they know: 'I feel a pleasant feeling of the flesh.' When they feel a pleasant feeling not of the flesh, they know: 'I feel a pleasant feeling not of the flesh.' When they feel a painful feeling of the flesh, they know: 'I feel a painful feeling of the flesh.' When they feel a painful feeling not of the flesh, they know: 'I feel a painful feeling not of the flesh.' When they feel a neutral feeling of the flesh, they know: 'I feel a neutral feeling of the flesh.' When they feel a neutral feeling not of the flesh, they know: 'I feel a neutral feeling not of the flesh.'</p>
+
+      <p><span class="segno">§33</span>And so they meditate observing an aspect of feelings internally, externally, and both internally and externally. With respect to feelings, they meditate observing the liability to originate, to vanish, and to originate and vanish. Or mindfulness is established that feelings exist, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That's how a mendicant meditates by observing an aspect of feelings.</p>
+
+      <h3>3. Observing the mind</h3>
+
+      <p><span class="segno">§34</span>And how does a mendicant meditate observing an aspect of the mind? It's when a mendicant understands mind with greed as 'mind with greed,' and mind without greed as 'mind without greed.' They understand mind with hate as 'mind with hate,' and mind without hate as 'mind without hate.' They understand mind with delusion as 'mind with delusion,' and mind without delusion as 'mind without delusion.' They know constricted mind as 'constricted mind,' and scattered mind as 'scattered mind.' They know expansive mind as 'expansive mind,' and unexpansive mind as 'unexpansive mind.' They know mind that is not supreme as 'mind that is not supreme,' and mind that is supreme as 'mind that is supreme.' They know mind immersed in samādhi as 'mind immersed in samādhi,' and mind not immersed in samādhi as 'mind not immersed in samādhi.' They know freed mind as 'freed mind,' and unfreed mind as 'unfreed mind.'</p>
+
+      <p><span class="segno">§35</span>And so they meditate observing an aspect of the mind internally, externally, and both internally and externally. With respect to the mind, they meditate observing the liability to originate, to vanish, and to originate and vanish. Or mindfulness is established that the mind exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That's how a mendicant meditates by observing an aspect of the mind.</p>
+
+      <h3>4. Observing principles</h3>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">4.1 The five hindrances</h3>
+
+      <p><span class="segno">§36</span>And how does a mendicant meditate observing an aspect of principles? It's when a mendicant meditates by observing an aspect of principles with respect to the five hindrances. It's when a mendicant who has sensual desire in them understands: 'I have sensual desire in me.' When they don't have sensual desire in them, they understand: 'I don't have sensual desire in me.' They understand how sensual desire arises; how, when it's already arisen, it's given up; and how, once it's given up, it doesn't arise again in the future. The same for ill will; for dullness and drowsiness; for restlessness and remorse; for doubt. In each case the mendicant understands its presence, its absence, how it arises, how it is given up, and how it does not arise again.</p>
+
+      <p><span class="segno">§37</span>And so they meditate observing an aspect of principles internally, externally, and both internally and externally. They meditate observing, with respect to the principles, the liability to originate, to vanish, and to originate and vanish. Or mindfulness is established that principles exist, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That's how a mendicant meditates by observing an aspect of principles with respect to the five hindrances.</p>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">4.2 The five grasping aggregates</h3>
+
+      <p><span class="segno">§38</span>Furthermore, a mendicant meditates by observing an aspect of principles with respect to the five grasping aggregates. It's when a mendicant contemplates: 'Such is form, such is the origin of form, such is the ending of form. Such is feeling, such is the origin of feeling, such is the ending of feeling. Such is perception, such is the origin of perception, such is the ending of perception. Such are choices, such is the origin of choices, such is the ending of choices. Such is consciousness, such is the origin of consciousness, such is the ending of consciousness.'</p>
+
+      <p><span class="segno">§39</span>And so they meditate observing an aspect of principles internally … That's how a mendicant meditates by observing an aspect of principles with respect to the five grasping aggregates.</p>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">4.3 The six interior and exterior sense fields</h3>
+
+      <p><span class="segno">§40</span>Furthermore, a mendicant meditates by observing an aspect of principles with respect to the six interior and exterior sense fields. It's when a mendicant understands the eye, sights, and the fetter that arises dependent on both of these. They understand how the fetter that has not arisen comes to arise; how the arisen fetter comes to be abandoned; and how the abandoned fetter comes to not rise again in the future. The same for ear and sounds; for nose and smells; for tongue and tastes; for body and touches; for mind and ideas. In each case the practitioner understands the sense organ, its object, the fetter that arises between them, and how that fetter is given up.</p>
+
+      <p><span class="segno">§41</span>And so they meditate observing an aspect of principles internally … That's how a mendicant meditates by observing an aspect of principles with respect to the six interior and exterior sense fields.</p>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">4.4 The seven awakening factors</h3>
+
+      <p><span class="segno">§42</span>Furthermore, a mendicant meditates by observing an aspect of principles with respect to the seven awakening factors. It's when a mendicant who has the awakening factor of mindfulness in them understands: 'I have the awakening factor of mindfulness in me.' When they don't have it, they understand: 'I don't have the awakening factor of mindfulness in me.' They understand how the awakening factor of mindfulness that has not arisen comes to arise; and how the awakening factor of mindfulness that has arisen becomes fulfilled by development. The same for investigation of principles, energy, rapture, tranquility, immersion, and equanimity. For each: present, absent, how it arises, how it is fulfilled by development.</p>
+
+      <p><span class="segno">§43</span>And so they meditate observing an aspect of principles internally, externally, and both internally and externally. They meditate observing, with respect to the principles, the liability to originate, to vanish, and to originate and vanish. Or mindfulness is established that principles exist, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That's how a mendicant meditates by observing an aspect of principles with respect to the seven awakening factors.</p>
+
+      <h3 style="font-size:18px; font-weight:600; color:#4a4d53; margin-top:24px;">4.5 The four noble truths</h3>
+
+      <p><span class="segno">§44</span>Furthermore, a mendicant meditates by observing an aspect of principles with respect to the four noble truths. It's when a mendicant truly understands: 'This is suffering' … 'This is the origin of suffering' … 'This is the cessation of suffering' … 'This is the practice that leads to the cessation of suffering.'</p>
+
+      <p><span class="segno">§45</span>And so they meditate observing an aspect of principles internally, externally, and both internally and externally. They meditate observing, with respect to the principles, the liability to originate, to vanish, and to originate and vanish. Or mindfulness is established that principles exist, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That's how a mendicant meditates by observing an aspect of principles with respect to the four noble truths.</p>
+
+      <h3>The seven-year / seven-day promise</h3>
+
+      <p><span class="segno">§46</span>Anyone who develops these four kinds of mindfulness meditation in this way for seven years can expect one of two results: enlightenment in this very life, or if there's residue left behind, non-return. Let alone seven years, anyone who develops these four kinds of mindfulness meditation in this way for six years … five years … four years … three years … two years … one year … seven months … six months … five months … four months … three months … two months … one month … a fortnight … Let alone a fortnight, anyone who develops these four kinds of mindfulness meditation in this way for seven days can expect one of two results: enlightenment in this very life, or if there's residue left behind, non-return.</p>
+
+      <h3>Closing</h3>
+
+      <p><span class="segno">§47</span>'The four kinds of mindfulness meditation are the path to convergence. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to discover the system, and to realize extinguishment.' That's what I said, and this is why I said it."</p>
+
+      <p style="margin-top:20px"><strong>That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">Where is MN 10 set? What is unusual about the setting?</div>
+        <button class="opt">Jeta's Grove in Sāvatthī, as usual</button>
+        <button class="opt">Vulture Peak in Rājagaha</button>
+        <button class="opt">Kammāsadamma in the land of the Kurus — not Sāvatthī. The Buddha is teaching outside his usual base.</button>
+        <button class="opt">The Buddha's birthplace</button>
+        <div class="expl"><strong>Correct: C.</strong> Most of the opening MN discourses are set at Jeta's Grove. MN 10 is unusual: it is set in Kuru country, near a town named Kammāsadamma. The commentary suggests the Kuru region had a tradition of unusually intelligent listeners — and so the Buddha gave this most-detailed meditation discourse to them.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">The Buddha calls the four kinds of mindfulness meditation by a striking Pāli phrase. Sujato translates it "the path to convergence." What is the Pāli, and what does it literally mean?</div>
+        <button class="opt">Magga-aṭṭhaṅgika — eight-fold path</button>
+        <button class="opt">Ekāyano maggo — literally "one-going path." A path that converges to a single destination, or that the practitioner walks alone, or that unifies all efforts onto one work.</button>
+        <button class="opt">Majjhimā paṭipadā — middle way</button>
+        <button class="opt">Ariya magga — noble path</button>
+        <div class="expl"><strong>Correct: B.</strong> One of the most contested phrases in early Buddhist translation. Older translators give "the one and only path"; Bodhi gives "the direct path"; Sujato chooses "the path to convergence." The Pāli <em>ekāyano</em> contains all three senses.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What are the four foundations of mindfulness?</div>
+        <button class="opt">Sīla, samādhi, paññā, vimutti — virtue, concentration, wisdom, liberation</button>
+        <button class="opt">The four noble truths</button>
+        <button class="opt">Body, speech, mind, intention</button>
+        <button class="opt">Body (kāya), feelings (vedanā), mind (citta), principles (dhamma)</button>
+        <div class="expl"><strong>Correct: D.</strong> The progression is from gross to subtle. Body is the most external object of awareness. Feelings are subtler — the hedonic tone of experience. Mind is awareness itself. Principles are the doctrinal structures by which experience is organized.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">How many specific sub-exercises does the body foundation contain?</div>
+        <button class="opt">Two</button>
+        <button class="opt">Three</button>
+        <button class="opt">Four</button>
+        <button class="opt">Six — mindfulness of breathing, the four postures, situational awareness, the 32 body parts, the four elements, and the nine charnel-ground contemplations</button>
+        <div class="expl"><strong>Correct: D.</strong> Six. The arc moves from the living body in motion (breathing, postures, daily acts) to the body's anatomy and elemental composition, to the body's death and dissolution. The progression mirrors the full arc of embodied existence.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">The fourth body sub-exercise — the contemplation of 32 anatomical parts — uses what simile?</div>
+        <button class="opt">A potter's wheel</button>
+        <button class="opt">A bag with openings at both ends, filled with various kinds of grain (rice, wheat, beans, peas, sesame) that a person with clear eyes opens and examines</button>
+        <button class="opt">A river flowing to the sea</button>
+        <button class="opt">A bird in a cage</button>
+        <div class="expl"><strong>Correct: B.</strong> The grain-bag simile is precise. The body is not contemplated as gruesome but as <em>inventoried</em> — opened up and examined with clear eyes, like a merchant identifying the contents of a sack. The point is recognition: head hair, body hair, nails, teeth, skin, flesh, sinews, bones, marrow, organs, fluids. The body becomes legible as parts.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">After every single exercise, the discourse repeats a four-line refrain. The refrain names three crucial features of what mindfulness is doing. Which set is correct?</div>
+        <button class="opt">Effort, mindfulness, concentration</button>
+        <button class="opt">Right view, right intention, right action</button>
+        <button class="opt">Internal-external-both · origination-vanishing-both · independent and not-grasping</button>
+        <button class="opt">Faith, energy, wisdom</button>
+        <div class="expl"><strong>Correct: C.</strong> Three things are happening in the refrain. (1) <em>Internal, external, both</em> — the practice extends from self to others to the boundary. (2) <em>Origination, vanishing, both</em> — every object is observed in its arising, its passing, and the whole arc; this is insight (vipassanā) woven into every exercise. (3) <em>Independent, not grasping</em> — the mark of correct mindfulness is that the practitioner does not even grasp at the practice itself. A practitioner who does the exercises without the refrain has done body-scanning; a practitioner who does the exercises with the refrain has done the actual teaching.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">The fourth foundation — mindfulness of principles (dhammā) — is divided into five sub-categories. Which sequence is correct?</div>
+        <button class="opt">Hindrances · jhānas · attainments · powers · truths</button>
+        <button class="opt">Aggregates · sense fields · awakening factors · hindrances · noble truths</button>
+        <button class="opt">Five hindrances · five grasping aggregates · six interior and exterior sense fields · seven awakening factors · four noble truths</button>
+        <button class="opt">Four noble truths · five aggregates · six sense fields · seven factors · eightfold path</button>
+        <div class="expl"><strong>Correct: C.</strong> The architecture: hindrances are what blocks practice; aggregates are what is held; sense fields are where contact happens; awakening factors are what grows; the four noble truths are the master frame. Mindfulness of principles is the application of awareness to the practitioner's whole conceptual scaffolding.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">For mindfulness of feelings, the Buddha distinguishes three primary tones and two registers, giving nine combinations. What are the three tones and the two registers?</div>
+        <button class="opt">Subtle, gross, refined — and pleasant, unpleasant</button>
+        <button class="opt">Pleasant, painful, neutral — and "of the flesh" (sāmisa, worldly) versus "not of the flesh" (nirāmisa, unworldly)</button>
+        <button class="opt">Happy, sad, calm — and physical, mental</button>
+        <button class="opt">High, medium, low — and bodily, mental</button>
+        <div class="expl"><strong>Correct: B.</strong> Three tones × two registers = nine combinations. The training is recognition, not preference. The mendicant who feels a pleasant feeling <em>knows</em>: "I feel a pleasant feeling." No suppression, no enhancement, no pursuit — across both worldly and unworldly registers.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">In §46, the Buddha makes a confident claim about the timeframe in which this practice produces results. What does he say?</div>
+        <button class="opt">Awakening takes many lifetimes</button>
+        <button class="opt">It takes at minimum forty years of full-time practice</button>
+        <button class="opt">It is impossible without a teacher's direct supervision</button>
+        <button class="opt">Anyone who practices the four foundations in this way for as little as seven days can expect one of two results — enlightenment in this very life, or non-return. The Buddha counts down from seven years, six, five … to a fortnight, then to seven days.</button>
+        <div class="expl"><strong>Correct: D.</strong> The descending count is not casual. The Buddha is making an empirical claim about what the method, fully applied, can produce — not an average rate. The seven-day version is the lower bound. The discourse is calibrating expectations against the seriousness of the practice, not against its difficulty.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">How does MN 10 relate to modern mindfulness programs (MBSR, MBCT, secular mindfulness apps)?</div>
+        <button class="opt">They are identical</button>
+        <button class="opt">Modern programs are unrelated to MN 10</button>
+        <button class="opt">Modern programs extract a small subset — primarily breathing, posture awareness, and pleasant/painful/neutral feeling — and adapt them for secular, clinical, or self-help contexts. MN 10 is bigger, stranger, and more uncompromising than its modern descendants, including the 32 body parts, the nine charnel-ground contemplations, the five hindrances as a system, the seven awakening factors, and the four noble truths as the master frame.</button>
+        <button class="opt">Modern programs are corruptions and should be rejected</button>
+        <div class="expl"><strong>Correct: C.</strong> Modern programs are not wrong for making these choices — the choices are deliberate, designed for secular accessibility and clinical populations who are not seeking liberation. But a reader of MN 10 should understand the original architecture, so they can choose for themselves which version they are practicing, and so that, if they want the rest, they know where to look.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">satipaṭṭhāna</span>mindfulness meditation</li>
+        <li><span class="pali">ekāyano maggo</span>"path to convergence"</li>
+        <li><span class="pali">kāya · vedanā · citta · dhamma</span>body · feelings · mind · principles</li>
+        <li><span class="pali">ātāpī sampajāno satimā</span>keen, aware, mindful</li>
+        <li><span class="pali">ānāpānasati</span>mindfulness of breathing</li>
+        <li><span class="pali">sāmisa · nirāmisa</span>"of the flesh" · "not of the flesh"</li>
+        <li><span class="pali">pañca nīvaraṇā</span>five hindrances</li>
+        <li><span class="pali">satta bojjhaṅgā</span>seven awakening factors</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>DN 22 · Mahāsatipaṭṭhāna (longer parallel)</li>
+        <li>MN 118 · Ānāpānassati (breathing expanded)</li>
+        <li>MN 119 · Kāyagatāsati (body expanded)</li>
+        <li>MN 9 · Right View (sense fields, fetters)</li>
+        <li>MA 98 · Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn10/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN10.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "The Foundations of Mindfulness," with brief introductory notes.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_098" target="_blank" rel="noopener">Northern parallel — MA 98</a> — the Chinese Madhyama-āgama counterpart ("Discourse on Mindfulness Foundations"). Near-identical content with a few framing differences.</li>
+      <li><a href="https://suttacentral.net/dn22/en/sujato" target="_blank" rel="noopener">DN 22 · Mahāsatipaṭṭhāna Sutta</a> — the longer parallel in the Dīgha Nikāya. The four noble truths section is greatly expanded with detailed definitions.</li>
+      <li><a href="https://suttacentral.net/mn118/en/sujato" target="_blank" rel="noopener">MN 118 · Ānāpānassati Sutta</a> — the Buddha's longest single treatment of mindfulness of breathing, expanding the brief §4 of this discourse into sixteen detailed contemplations.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-009.html"><span class="label">← Previous</span>MN 9 · Right View</a>
+    <a href="mn-011.html" class="next"><span class="label">Next →</span>MN 11 · The Shorter Discourse on the Lion's Roar</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

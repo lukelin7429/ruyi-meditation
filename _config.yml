@@ -22,9 +22,6 @@ collections:
   columns:
     output: true
     permalink: /columns/:path/
-  discourses:
-    output: true
-    permalink: /discourses/:path/
 
 defaults:
   - scope:
@@ -34,13 +31,13 @@ defaults:
       layout: column
   - scope:
       path: ""
-      type: "discourses"
-    values:
-      layout: discourse
-  - scope:
-      path: ""
     values:
       layout: default
+
+# Don't process the academy-imported static HTML
+keep_files:
+  - discourses/majjhima-nikaya
+  - forbearance
 
 exclude:
   - README.md

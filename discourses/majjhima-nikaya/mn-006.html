@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 6 — One Might Wish | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Ākaṅkheyyasutta — the seventeen wishes a practitioner might form, and the single shared prerequisite for all of them. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 6
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 6</div>
+  <h1>One Might Wish</h1>
+  <p class="subtitle"><em>Ākaṅkheyyasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī</dd>
+      <dt>Speaker</dt><dd>The Buddha, addressing the community of mendicants</dd>
+      <dt>Form</dt><dd>20 sections — a single statement of ethical foundation, a ladder of seventeen specific wishes, and a closing return to the foundation</dd>
+      <dt>Length</dt><dd>~10 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>MA 105 (Madhyama-āgama 105, "Discourse on Wishes," in the chapter on causes)</dd>
+      <dt>Difficulty</dt><dd>★★☆☆☆ — easy to read, easy to misunderstand. The structural argument is more important than any single wish.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, sixth</h2>
+    <p class="lede">
+      If MN 1–5 are about diagnosis and self-knowledge, MN 6 is about aspiration. The Buddha names seventeen specific things a practitioner might wish for — from being liked by their colleagues to full awakening — and gives, for every one of them, exactly the same prerequisite.
+    </p>
+    <p>
+      The structure is the teaching. Wish to be respected by your spiritual companions? Wish to receive good food and shelter? Wish to overcome fear? Wish to fly through the air, to read minds, to remember past lives? Wish to become a stream-enterer, a once-returner, a non-returner? Wish for full awakening itself? The Buddha's answer to all of them is the same five-element refrain: <em>fulfill your precepts, be committed to inner serenity of heart, do not neglect absorption, be endowed with discernment, frequent empty huts.</em>
+    </p>
+    <p>
+      This is one of the canon's quietly democratic discourses. There is no premium path for high attainments and no shortcut for low ones. The mundane wishes share the same foundation as the supramundane ones. The discourse refuses the spiritual-marketplace temptation to sell different practices to different aspirations. The foundation is one.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Whatever you might wish for — social, material, devotional, meditative, awakening-related — the foundation is the same: ethics, serenity, absorption, discernment, seclusion.
+    </p>
+
+    <h3>The frame — ethics first, always</h3>
+    <p>
+      The Buddha opens and closes the discourse with the same instruction: <em>"Live by the ethical precepts and the monastic code. Live restrained in the monastic code, conducting yourselves well and resorting for alms in suitable places. Seeing danger in the slightest fault, keep the rules you've undertaken."</em>
+    </p>
+    <p>
+      Everything between this opening and its identical restatement at the end is a structural argument: ethics is not merely a moral preference but a <em>prerequisite</em>. The seventeen wishes are not exhortations to greedily pile up attainments. They are seventeen demonstrations that the foundation is one.
+    </p>
+
+    <h3>The ladder of seventeen wishes</h3>
+    <p>The wishes ascend from the mundane to the supramundane. Read them as a single ladder:</p>
+    <table>
+      <thead>
+        <tr><th>§</th><th>Wish</th><th>Domain</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>3</td><td>"May I be liked and approved by my spiritual companions"</td><td>Social</td></tr>
+        <tr><td>4</td><td>"May I receive robes, almsfood, lodgings, medicines"</td><td>Material</td></tr>
+        <tr><td>5</td><td>"May the services of my supporters be very fruitful for them"</td><td>Generosity flowing back</td></tr>
+        <tr><td>6</td><td>"May deceased family who recollect me be benefited"</td><td>Compassion across the threshold</td></tr>
+        <tr><td>7</td><td>"May I prevail over desire and discontent"</td><td>Mastery of mind</td></tr>
+        <tr><td>8</td><td>"May I prevail over fear and dread"</td><td>Mastery of mind (echoes MN 4)</td></tr>
+        <tr><td>9</td><td>"May I get the four absorptions when I want, without trouble"</td><td>Form jhānas</td></tr>
+        <tr><td>10</td><td>"May I have direct experience of the formless liberations"</td><td>Formless attainments</td></tr>
+        <tr><td>11</td><td>"May I become a stream-enterer" (3 fetters)</td><td>First stage of awakening</td></tr>
+        <tr><td>12</td><td>"May I become a once-returner" (3 fetters + weakening of greed/hate/delusion)</td><td>Second stage</td></tr>
+        <tr><td>13</td><td>"May I become a non-returner" (5 lower fetters)</td><td>Third stage</td></tr>
+        <tr><td>14</td><td>Psychic powers — multiplying, walking through walls, flight</td><td>Iddhi</td></tr>
+        <tr><td>15</td><td>Clairaudience — hearing far and near, human and heavenly</td><td>Dibba-sota</td></tr>
+        <tr><td>16</td><td>Mind-reading — understanding others' minds</td><td>Ceto-pariya-ñāṇa</td></tr>
+        <tr><td>17</td><td>Recollection of past lives</td><td>Pubbe-nivāsa-anussati</td></tr>
+        <tr><td>18</td><td>Clairvoyance — seeing rebirth according to deeds</td><td>Dibba-cakkhu</td></tr>
+        <tr><td>19</td><td>"May I realize the undefiled freedom of heart in this very life"</td><td>Full awakening</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Notice the arc. The wishes begin with what a young monastic might most naturally desire (acceptance from peers, four requisites). They pass through unselfish wishes (that givers be benefited, that deceased relatives benefit). They climb through meditative mastery (jhānas, formless), through the named stages of awakening, through the standard six higher knowledges, and end at full liberation itself.
+    </p>
+    <p>
+      And the prerequisite, for every one, is the same.
+    </p>
+
+    <h3>The five-element refrain</h3>
+    <p>For each of the seventeen wishes, the Buddha gives the same five-element response:</p>
+    <ol>
+      <li><strong>Fulfill the precepts</strong> <em>(sīlesu paripūrakārī)</em> — complete the ethical foundation.</li>
+      <li><strong>Be committed to inner serenity of heart</strong> <em>(ajjhattaṁ cetosamatha)</em> — cultivate the calmed mind.</li>
+      <li><strong>Do not neglect absorption</strong> <em>(anirākatajjhāno)</em> — keep the jhāna door open.</li>
+      <li><strong>Be endowed with discernment</strong> <em>(vipassanāya samannāgato)</em> — develop insight.</li>
+      <li><strong>Frequent empty huts</strong> <em>(brūhetā suññāgārānaṁ)</em> — make space for solitary practice.</li>
+    </ol>
+    <p>
+      These five are not arbitrary. They are the classical sequence of the Buddha's training compressed into a single sentence: ethics → samatha → jhāna → vipassanā → seclusion. The refrain is also the discourse's quiet rebuke of any spiritual marketplace that promises high attainments via specialized tricks. The foundation is broad and the foundation is one.
+    </p>
+
+    <h3>The quiet egalitarianism</h3>
+    <p>
+      The structure makes a remarkable claim that is easy to miss on a first reading. The wish "may I be liked by my spiritual companions" gets the same answer as the wish "may I realize the undefiled freedom of heart." The wish to receive good almsfood gets the same answer as the wish to fly through the air. The wish that deceased relatives be benefited by recollecting me gets the same answer as the wish to recollect a hundred thousand past lives.
+    </p>
+    <p>
+      No wish in the list is rejected. No wish is treated as ignoble. The Buddha is not hierarchically grading aspirations — he is saying, in effect: <em>whatever your aspiration, sincere or grand, you need the same five things</em>. The democratic claim is not that all wishes are equal, but that all wishes share a foundation. This may be one of the canon's most pastoral passages: it does not shame a practitioner for wishing to be liked by their colleagues. It includes that wish in the same instruction it gives for full awakening.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The discourse's structure resembles, of all things, the way physical fitness works in modern terms. A person might wish for many specific things: to run a marathon, to bench press their body weight, to climb a difficult route, to dance a routine without losing breath, to play a competitive sport into their seventies. Each of these has specific training. But all of them share a foundation: cardiovascular base, mobility, sleep, nutrition, recovery. A person who skips the foundation in favor of the specific skill will plateau and break.
+    </p>
+    <p>
+      MN 6 is making the same claim about contemplative training. You can wish for what you wish. The wishes are not the problem. The problem is bypassing the foundation. A meditator who wishes for psychic power but does not keep their precepts is in the position of a runner who wants the marathon time without the base mileage. The Buddha is telling them: not because the wish is wrong, but because the route runs through the same five places.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"The psychic powers — multiplying the body, walking through walls, touching the sun — are these literal? Do I have to believe in them?"</strong> The Pāli Canon treats them as the genuine fruit of deep concentration in the framework of its cosmology. Modern Western practitioners vary in how literally they take them. For the discourse's structural argument, what matters is this: even the most extraordinary attainments are presented as accessible by the same foundation as the most mundane. You can hold any view on the literal possibility of flying meditators — the teaching's point about the foundation does not depend on that view.</p>
+
+    <p><strong>"Why is 'being liked by my spiritual companions' on the list? Isn't that vanity?"</strong> The list is deliberately inclusive of wishes that arise from ordinary social life. The wish to be respected by one's community is what any honest practitioner has felt. The Buddha does not flatten it with shame; he includes it in the ladder. The pedagogical point is not that all wishes are equally noble, but that no wish is excluded from the practice. The foundation will hold whatever wish you bring to it.</p>
+
+    <p><strong>"The Buddha says 'frequent empty huts' (suññāgārānaṁ) — does this only apply to monastics?"</strong> Literal "empty hut" is the standard image for solitary practice in monastic culture. The underlying principle generalizes: make periods of solitude in which the mind has nothing to lean on except its own training. For a layperson this might mean dedicated retreat time, daily sit periods without device, or quiet walks in nature. The principle is the carving out of solitude; the form is local.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">ākaṅkheyya</span> — one might wish. The verbal form that titles the discourse. The optative mood: not "should wish" or "must wish," but "might wish" — a hypothetical, modeling the inclusive embrace of possible aspirations.
+      </div>
+      <div class="term">
+        <span class="pali-word">sīlesu paripūrakārī</span> — fulfilling the precepts. The first element of the five-element refrain. The non-negotiable foundation.
+      </div>
+      <div class="term">
+        <span class="pali-word">ajjhattaṁ cetosamatha</span> — inner serenity of heart. Literally <em>"internal calming of the mind/heart."</em> The second element. The cultivated stillness on which absorption can rest.
+      </div>
+      <div class="term">
+        <span class="pali-word">anirākatajjhāno</span> — not neglecting absorption. The third element. The negative formulation matters: the wish is not "always be in jhāna" but "do not let the door close."
+      </div>
+      <div class="term">
+        <span class="pali-word">vipassanā</span> — discernment, insight. The fourth element. The complement to <em>samatha</em>: not just calm, but the seeing that calm makes possible.
+      </div>
+      <div class="term">
+        <span class="pali-word">suññāgārānaṁ brūhetā</span> — one who frequents empty huts. The fifth element. <em>Suññāgāra</em> is the standard image for solitary practice; <em>brūhetā</em> means one who develops or cultivates by repetition.
+      </div>
+      <div class="term">
+        <span class="pali-word">sotāpanna · sakadāgāmī · anāgāmī · arahant</span> — stream-enterer, once-returner, non-returner, perfected one. The four stages of awakening. Wishes 11, 12, 13, and 19 of the discourse aim at the first three and the fourth respectively.
+      </div>
+      <div class="term">
+        <span class="pali-word">iddhi · dibba-sota · ceto-pariya-ñāṇa · pubbe-nivāsa-anussati · dibba-cakkhu · āsavakkhaya-ñāṇa</span> — the six higher knowledges (chaḷabhiññā). Psychic power, clairaudience, mind-reading, recollection of past lives, clairvoyance, ending of defilements. Wishes 14–18 and 19 correspond to these six.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 6 is structured as a frame (the ethical injunction at §2 and §20) surrounding a ladder of seventeen specific wishes (§§3–19). Each wish is followed by the same five-element refrain — fulfill the precepts, be committed to inner serenity of heart, not neglect absorption, be endowed with discernment, frequent empty huts. For readability the refrain is given in full at §§3 and §19 and abbreviated with an ellipsis in the middle entries — following Sujato's print convention. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The ethical foundation</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There the Buddha addressed the mendicants, "Mendicants!" "Venerable sir," they replied. The Buddha said this:</p>
+
+      <p><span class="segno">§2</span>"Mendicants, live by the ethical precepts and the monastic code. Live restrained in the monastic code, conducting yourselves well and resorting for alms in suitable places. Seeing danger in the slightest fault, keep the rules you've undertaken.</p>
+
+      <h3>Social and material wishes</h3>
+
+      <p><span class="segno">§3</span>A mendicant might wish: 'May I be liked and approved by my spiritual companions, respected and admired.' So let them fulfill their precepts, be committed to inner serenity of the heart, not neglect absorption, be endowed with discernment, and frequent empty huts.</p>
+
+      <p><span class="segno">§4</span>A mendicant might wish: 'May I receive robes, almsfood, lodgings, and medicines and supplies for the sick.' So let them fulfill their precepts, be committed to inner serenity of the heart, not neglect absorption, be endowed with discernment, and frequent empty huts.</p>
+
+      <p><span class="segno">§5</span>A mendicant might wish: 'May the services of those whose robes, almsfood, lodgings, and medicines and supplies for the sick I enjoy be very fruitful and beneficial for them.' So let them fulfill their precepts …</p>
+
+      <p><span class="segno">§6</span>A mendicant might wish: 'When deceased family and relatives who have passed away recollect me with a confident mind, may this be very fruitful and beneficial for them.' So let them fulfill their precepts …</p>
+
+      <h3>Mastery of mind</h3>
+
+      <p><span class="segno">§7</span>A mendicant might wish: 'May I prevail over desire and discontent, and may desire and discontent not prevail over me. May I live having mastered desire and discontent whenever they arose.' So let them fulfill their precepts …</p>
+
+      <p><span class="segno">§8</span>A mendicant might wish: 'May I prevail over fear and dread, and may fear and dread not prevail over me. May I live having mastered fear and dread whenever they arose.' So let them fulfill their precepts …</p>
+
+      <h3>The absorptions and formless attainments</h3>
+
+      <p><span class="segno">§9</span>A mendicant might wish: 'May I get the four absorptions — blissful meditations in this life that belong to the higher mind — when I want, without trouble or difficulty.' So let them fulfill their precepts …</p>
+
+      <p><span class="segno">§10</span>A mendicant might wish: 'May I have direct meditative experience of the peaceful liberations that are formless, transcending form.' So let them fulfill their precepts …</p>
+
+      <h3>The three stages of partial awakening</h3>
+
+      <p><span class="segno">§11</span>A mendicant might wish: 'May I, with the ending of three fetters, become a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening.' So let them fulfill their precepts …</p>
+
+      <p><span class="segno">§12</span>A mendicant might wish: 'May I, with the ending of three fetters, and the weakening of greed, hate, and delusion, become a once-returner, coming back to this world once only, then making an end of suffering.' So let them fulfill their precepts …</p>
+
+      <p><span class="segno">§13</span>A mendicant might wish: 'May I, with the ending of the five lower fetters, be reborn spontaneously and become extinguished there, not liable to return from that world.' So let them fulfill their precepts …</p>
+
+      <h3>The six higher knowledges</h3>
+
+      <p><span class="segno">§14</span>A mendicant might wish: 'May I wield the many kinds of psychic power: multiplying myself and becoming one again; materializing and dematerializing; going unobstructed through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird; touching and stroking with my hand the sun and moon, so mighty and powerful; controlling the body as far as the realm of divinity.' So let them fulfill their precepts …</p>
+
+      <p><span class="segno">§15</span>A mendicant might wish: 'With clairaudience that is purified and superhuman, may I hear both kinds of sounds, human and heavenly, whether near or far.' So let them fulfill their precepts …</p>
+
+      <p><span class="segno">§16</span>A mendicant might wish: 'May I understand the minds of other beings and individuals, having encompassed them with my mind. May I understand mind with greed as "mind with greed", and mind without greed as "mind without greed"; mind with hate as "mind with hate", and mind without hate as "mind without hate"; mind with delusion as "mind with delusion", and mind without delusion as "mind without delusion"; constricted mind as "constricted mind", and scattered mind as "scattered mind"; expansive mind as "expansive mind", and unexpansive mind as "unexpansive mind"; mind that is not supreme as "mind that is not supreme", and mind that is supreme as "mind that is supreme"; mind immersed in samādhi as "mind immersed in samādhi", and mind not immersed in samādhi as "mind not immersed in samādhi"; freed mind as "freed mind", and unfreed mind as "unfreed mind".' So let them fulfill their precepts …</p>
+
+      <p><span class="segno">§17</span>A mendicant might wish: 'May I recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. May I remember: "There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here." May I thus recollect my many kinds of past lives, with features and details.' So let them fulfill their precepts …</p>
+
+      <p><span class="segno">§18</span>A mendicant might wish: 'With clairvoyance that is purified and superhuman, may I see sentient beings passing away and being reborn — inferior and superior, beautiful and ugly, in a good place or a bad place — and understand how sentient beings pass on according to their deeds.' So let them fulfill their precepts …</p>
+
+      <h3>Full awakening</h3>
+
+      <p><span class="segno">§19</span>A mendicant might wish: 'May I realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with my own insight due to the ending of defilements.' So let them fulfill their precepts, be committed to inner serenity of the heart, not neglect absorption, be endowed with discernment, and frequent empty huts.</p>
+
+      <h3>The frame closes</h3>
+
+      <p><span class="segno">§20</span>'Mendicants, live by the ethical precepts and the monastic code. Live restrained in the monastic code, conducting yourselves well and resorting for alms in suitable places. Seeing danger in the slightest fault, keep the rules you've undertaken.' That's what I said, and this is why I said it."</p>
+
+      <p style="margin-top:20px"><strong>That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What is the structural feature that defines MN 6?</div>
+        <button class="opt">Many different prescriptions for many different wishes</button>
+        <button class="opt">A long autobiographical account</button>
+        <button class="opt">A single shared prerequisite — five elements — that the Buddha gives in response to each of seventeen specific wishes</button>
+        <button class="opt">A debate with a brahmin</button>
+        <div class="expl"><strong>Correct: C.</strong> The Buddha is making a structural claim: regardless of what you might wish for — social acceptance, material support, meditative mastery, the stages of awakening, psychic powers, full liberation — the prerequisite is identical. The structure is the teaching.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What are the five elements of the standard refrain given for every wish?</div>
+        <button class="opt">Generosity, ethics, patience, energy, wisdom</button>
+        <button class="opt">Mindfulness, investigation, energy, rapture, equanimity</button>
+        <button class="opt">Right view, right intention, right speech, right action, right livelihood</button>
+        <button class="opt">Fulfill the precepts · be committed to inner serenity of heart · do not neglect absorption · be endowed with discernment · frequent empty huts</button>
+        <div class="expl"><strong>Correct: D.</strong> Sīla → samatha → jhāna → vipassanā → seclusion. The classical sequence of the Buddha's training compressed into a single sentence. Each element is a doorway; missing any one of them weakens what stands on top.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">The FIRST wish in the ladder is:</div>
+        <button class="opt">"May I be liked and approved by my spiritual companions"</button>
+        <button class="opt">"May I realize the undefiled freedom of heart"</button>
+        <button class="opt">"May I attain the four absorptions when I want"</button>
+        <button class="opt">"May I become a stream-enterer"</button>
+        <div class="expl"><strong>Correct: A.</strong> The ladder begins with one of the most ordinary social wishes — to be respected by one's colleagues. This is deliberate. The discourse does not shame this wish; it includes it in the same instruction it gives for full awakening. The pastoral move is part of the teaching.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">Wish §8 — "May I prevail over fear and dread" — echoes which previous discourse?</div>
+        <button class="opt">MN 1, on conceiving</button>
+        <button class="opt">MN 2, on the seven methods</button>
+        <button class="opt">MN 4, where the Buddha gives his autobiographical account of overcoming fear in the forest</button>
+        <button class="opt">MN 5, on the four kinds of person</button>
+        <div class="expl"><strong>Correct: C.</strong> The vocabulary is identical: <em>bhaya</em> and <em>bherava</em>. MN 4 was the Buddha's first-person account of how he met this; MN 6 names it as one of the wishes a practitioner might form. The two discourses pair: MN 4 shows the practice; MN 6 includes it in the universal foundation.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">Three wishes in the ladder name the partial stages of awakening. What is the correct sequence?</div>
+        <button class="opt">Once-returner → stream-enterer → non-returner</button>
+        <button class="opt">Stream-enterer (3 fetters) → once-returner (3 fetters + weakening of poisons) → non-returner (5 lower fetters)</button>
+        <button class="opt">Non-returner → arahant → stream-enterer</button>
+        <button class="opt">All three at the same level</button>
+        <div class="expl"><strong>Correct: B.</strong> <em>Sotāpanna · sakadāgāmī · anāgāmī.</em> The first three of the four stages, distinguished by which fetters have been eliminated and by how many returns to this world remain. The fourth — arahant, full liberation — is wish §19, the discourse's climax.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">Which of the following is NOT among the seventeen wishes the Buddha lists?</div>
+        <button class="opt">"May I receive robes, almsfood, lodgings, and medicines"</button>
+        <button class="opt">"May I walk on water as if it were earth"</button>
+        <button class="opt">"May I become a teacher revered by many disciples"</button>
+        <button class="opt">"May I recollect many kinds of past lives"</button>
+        <div class="expl"><strong>Correct: C.</strong> The first three are all on the list (§4, §14, §17). The fourth — being a famous teacher — is not. The discourse is careful: every wish on the list either concerns one's own training or names a fruit of that training. The wish for institutional standing is absent.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">The discourse's most distinctive teaching move is:</div>
+        <button class="opt">Giving different prerequisites for different attainments</button>
+        <button class="opt">Forbidding low-status wishes</button>
+        <button class="opt">Praising high attainments over low ones</button>
+        <button class="opt">Giving the SAME prerequisite for every wish — mundane and supramundane share a foundation</button>
+        <div class="expl"><strong>Correct: D.</strong> The wish to be liked by your colleagues receives the same answer as the wish to fly through the air, and as the wish for full awakening. This is one of the canon's quietly democratic claims: no specialized tricks for high attainments, no shortcuts for low ones. The foundation is one.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">The fifth element of the refrain is "frequent empty huts" (<em>suññāgārānaṁ brūhetā</em>). What does this mean for a practitioner?</div>
+        <button class="opt">Only literal forest hermitage counts</button>
+        <button class="opt">Only laypeople are exempt</button>
+        <button class="opt">The principle is the carving out of solitude for practice; the form is local — for monastics a literal hut, for laypeople retreat time, daily quiet sit periods, walks without device</button>
+        <button class="opt">It is a metaphor only and requires no actual practice</button>
+        <div class="expl"><strong>Correct: C.</strong> "Empty hut" is the standard monastic image for solitary practice. The principle — make periods of solitude in which the mind has nothing to lean on except its training — generalizes. Form follows situation; the principle is fixed.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">The discourse opens and closes with the same exhortation, framing the seventeen wishes inside it. What is that exhortation?</div>
+        <button class="opt">"Meditate diligently, mendicants"</button>
+        <button class="opt">"Develop compassion for all beings"</button>
+        <button class="opt">"Live by the ethical precepts and the monastic code … seeing danger in the slightest fault"</button>
+        <button class="opt">"Wish well, mendicants"</button>
+        <div class="expl"><strong>Correct: C.</strong> The frame is ethical. Everything in between — the seventeen wishes and their identical refrain — is a structural argument for why the frame matters. The discourse is, in one sense, a long demonstration that the opening sentence is non-negotiable.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">A modern parallel. A meditator wishes for deep concentration but routinely skips ethical commitments — small dishonesties, casual unkindnesses. By the discourse's logic, what is happening?</div>
+        <button class="opt">Nothing — the two are unrelated</button>
+        <button class="opt">The meditator can succeed via specialized concentration technique</button>
+        <button class="opt">The meditator is in the position of a runner who wants a fast marathon time without the base mileage — the wish is fine; the route runs through ethics</button>
+        <button class="opt">The wish itself is wrong and must be abandoned</button>
+        <div class="expl"><strong>Correct: C.</strong> The discourse's claim is structural, not moralistic. The wish for concentration is included on the ladder (§9). It is not rejected. But the route to it runs through the foundation. Skipping ethics is like skipping the base in any endurance discipline — the surface skill plateaus, then breaks under load.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">ākaṅkheyya</span>one might wish</li>
+        <li><span class="pali">sīlesu paripūrakārī</span>fulfilling the precepts</li>
+        <li><span class="pali">ajjhattaṁ cetosamatha</span>inner serenity of heart</li>
+        <li><span class="pali">jhāna</span>absorption (the four)</li>
+        <li><span class="pali">vipassanā</span>discernment</li>
+        <li><span class="pali">suññāgāra</span>empty hut, solitary practice</li>
+        <li><span class="pali">sotāpanna · sakadāgāmī · anāgāmī</span>three stages of awakening</li>
+        <li><span class="pali">chaḷabhiññā</span>the six higher knowledges</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 4 · Fear and Dread (wish §8 expanded)</li>
+        <li>MN 10 · Satipaṭṭhāna (vipassanā expanded)</li>
+        <li>MN 27 · Shorter Elephant's Footprint (jhānas + 3 knowledges)</li>
+        <li>MN 36 · Longer w/ Saccaka (full awakening template)</li>
+        <li>AN 10.71 · the parallel "one might wish" framework</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn6/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN6.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "If a Monk Should Wish," with brief notes on the structure.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_105" target="_blank" rel="noopener">Northern parallel — MA 105</a> — the Chinese Madhyama-āgama counterpart ("Discourse on Wishes," in the chapter on causes).</li>
+      <li><a href="https://suttacentral.net/mn4/en/sujato" target="_blank" rel="noopener">MN 4 · Fear and Dread</a> — the autobiographical practice account that wish §8 echoes.</li>
+      <li><a href="https://suttacentral.net/mn10/en/sujato" target="_blank" rel="noopener">MN 10 · Satipaṭṭhāna</a> — the detailed expansion of the discernment (vipassanā) element of the refrain.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-005.html"><span class="label">← Previous</span>MN 5 · Unblemished</a>
+    <a href="mn-007.html" class="next"><span class="label">Next →</span>MN 7 · The Simile of the Cloth</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

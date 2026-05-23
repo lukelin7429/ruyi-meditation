@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Majjhima Nikāya — The Middle-Length Discourses | Ru-Yi Meditation Center</title>
+<meta name="description" content="All 152 discourses of the Majjhima Nikāya, with reading guides, full English translations, and self-check quizzes for English-speaking learners. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.65;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .series-mark {
+    font-family: Georgia, serif;
+    font-size: 17px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 14px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 6vw, 59px);
+    font-weight: 400;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 25px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 44px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 8px;
+  }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .intro {
+    font-size: 21px;
+    color: #1a1d23;
+    margin-bottom: 24px;
+  }
+  .meta-card {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 48px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .meta-card dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .meta-card dt { color: #6b6b6b; font-weight: 600; }
+  .meta-card dd { color: #1a1d23; }
+
+  /* Reading paths */
+  .paths {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 22px 26px;
+    border-radius: 0 4px 4px 0;
+  }
+  .paths h3 {
+    margin-top: 0;
+    font-size: 19px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #8c2f12;
+  }
+  .paths .path { margin-top: 16px; }
+  .paths .path:first-of-type { margin-top: 0; }
+  .paths .path-name { font-weight: 600; color: #1a1d23; }
+  .paths .path-list { color: #4a4a4a; font-size: 18px; }
+  .paths a { color: #1a1d23; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .paths a:hover { color: #6b6b6b; }
+  .paths .muted { color: #8a8d93; text-decoration: none; cursor: default; }
+
+  /* Vagga groups */
+  .vagga {
+    margin: 32px 0;
+  }
+  .vagga-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px dashed #dee2e6;
+  }
+  .vagga-name {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #1a1d23;
+  }
+  .vagga-name .zh {
+    font-family: "PingFang TC", "Microsoft JhengHei", serif;
+    font-weight: 500;
+    color: #6b6b6b;
+    margin-left: 6px;
+    font-size: 18px;
+  }
+  .vagga-range {
+    font-size: 15px;
+    color: #b8b8b8;
+    letter-spacing: 0.05em;
+  }
+
+  .sutta-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .sutta-row {
+    display: grid;
+    grid-template-columns: 50px 1fr auto;
+    gap: 14px;
+    padding: 9px 0;
+    border-bottom: 1px solid #dee2e6;
+    align-items: baseline;
+    font-size: 18px;
+  }
+  .sutta-row:last-child { border-bottom: none; }
+  .sutta-num {
+    font-family: Georgia, serif;
+    color: #b8431c;
+    font-size: 17px;
+    letter-spacing: 0.04em;
+  }
+  .sutta-titles { line-height: 1.45; }
+  .sutta-titles .pali {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color: #4a4a4a;
+    font-size: 17px;
+    margin-right: 2px;
+  }
+  .sutta-titles .en {
+    color: #1a1a1a;
+    font-weight: 500;
+  }
+  .sutta-titles .zh {
+    font-family: "PingFang TC", "Microsoft JhengHei", serif;
+    color: #8a8a8a;
+    margin-left: 6px;
+    font-size: 17px;
+  }
+  .sutta-status {
+    font-size: 14px;
+    color: #b8b8b8;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .sutta-row a {
+    color: inherit;
+    text-decoration: none;
+    display: contents;
+  }
+  .sutta-row.linked .sutta-titles .en {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-decoration-color: #b8431c;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+  }
+  .sutta-row.linked:hover {
+    background: #f3f5f7;
+  }
+  .sutta-row.linked .sutta-status {
+    color: #6ba368;
+  }
+  .sutta-row.placeholder .sutta-titles .en {
+    color: #8a8a8a;
+  }
+  .sutta-row.placeholder .sutta-titles .pali {
+    color: #8a8d93;
+  }
+
+  /* Pinnaasa heading */
+  .pinnaasa-heading {
+    margin-top: 48px;
+    padding: 18px 0 12px;
+    border-bottom: 2px solid #1a1d23;
+  }
+  .pinnaasa-heading .pin-name {
+    font-family: Georgia, serif;
+    font-size: 26px;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .pinnaasa-heading .pin-name .zh {
+    font-family: "PingFang TC", "Microsoft JhengHei", serif;
+    font-weight: 500;
+    color: #6b6b6b;
+    margin-left: 10px;
+    font-size: 20px;
+  }
+  .pinnaasa-heading .pin-note {
+    display: block;
+    margin-top: 4px;
+    font-size: 15px;
+    color: #6b6b6b;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  footer {
+    margin-top: 72px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span>Majjhima Nikāya
+  </nav>
+
+  <div class="series-mark">A series at Ru-Yi Meditation Center</div>
+  <h1>Majjhima Nikāya</h1>
+  <p class="subtitle"><em>The Middle-Length Discourses of the Buddha</em></p>
+
+  <p class="intro">
+    The Majjhima Nikāya is the second of the five collections of discourses in the Pāli Canon — 152 dialogues, parables, and instructions whose length sits between the long suttas of the Dīgha Nikāya and the short suttas of the Saṃyutta Nikāya. It is, for most teachers, the heart of the Buddha's spoken teaching: long enough to develop a scene, short enough to read in a sitting, and concentrated on the practical question of how to walk the path.
+  </p>
+  <p class="intro">
+    Each entry on this page will, in time, link to a study page with three things: a reading guide in plain English, the full Sujato translation (with one click to expand all repetitions), and a 10-question self-check quiz. We are publishing slowly. MN 1 is live; the rest are coming.
+  </p>
+
+  <div class="meta-card">
+    <dl>
+      <dt>Discourses</dt><dd>152, arranged in 15 chapters (<em>vagga</em>) across 3 sections of fifty (<em>paṇṇāsa</em>)</dd>
+      <dt>English source</dt><dd>Bhikkhu Sujato, released CC0 by SuttaCentral</dd>
+      <dt>Pāli source</dt><dd>Mahāsaṅgīti edition, CC0</dd>
+      <dt>Reference</dt><dd>Bhikkhu Bodhi, <em>The Middle Length Discourses</em> (Wisdom, 1995)</dd>
+      <dt>Chinese parallel</dt><dd>Most discourses have a counterpart in the Madhyama-āgama (T26), preserved in Chinese</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>How to start</h2>
+    <p>If you are new to the Majjhima Nikāya, do not start at MN 1. The first discourse is one of the most demanding in the collection — a useful place to <em>finish</em> a first pass, not to begin one. Choose one of the paths below.</p>
+
+    <div class="paths">
+      <h3>Four recommended reading paths</h3>
+
+      <div class="path">
+        <span class="path-name">→ The foundation path.</span>
+        <span class="path-list">
+          <span class="muted">MN 10 (Mindfulness Meditation)</span> · <span class="muted">MN 22 (The Simile of the Cobra)</span> · <span class="muted">MN 38 (The Longer Discourse on the Ending of Craving)</span>
+        </span>
+      </div>
+
+      <div class="path">
+        <span class="path-name">→ The practice path.</span>
+        <span class="path-list">
+          <span class="muted">MN 36 (The Longer Discourse with Saccaka)</span> · <span class="muted">MN 39 (The Longer Discourse at Assapura)</span> · <span class="muted">MN 118 (Mindfulness of Breathing)</span>
+        </span>
+      </div>
+
+      <div class="path">
+        <span class="path-name">→ The emptiness and non-self path.</span>
+        <span class="path-list">
+          <span class="muted">MN 121–122 (The Shorter and Longer Discourses on Emptiness)</span> · <span class="muted">MN 148 (The Six Sets of Six)</span>
+        </span>
+      </div>
+
+      <div class="path">
+        <span class="path-name">→ The ethics and society path.</span>
+        <span class="path-list">
+          <span class="muted">MN 41 (The People of Sālā)</span> · <span class="muted">MN 117 (The Great Forty)</span> · <span class="muted">MN 135 (The Shorter Analysis of Deeds)</span>
+        </span>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>All 152 discourses</h2>
+    <p style="font-size: 18px; color:#6b6b6b; margin-bottom:12px;">Linked rows have a published reading guide. Unlinked rows are listed for navigation and will become available as the series progresses.</p>
+
+    <!-- ============== MŪLAPAṆṆĀSA ============== -->
+    <div class="pinnaasa-heading">
+      <span class="pin-name">I. Mūlapaṇṇāsa</span>
+      <span class="pin-note">MN 1–50 · five chapters</span>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">1. Mūlapariyāyavagga</span>
+        <span class="vagga-range">MN 1–10</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="mn-001.html"><span class="sutta-num">MN 1</span><span class="sutta-titles"><span class="pali">Mūlapariyāya</span> · <span class="en">The Root of All Things</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-002.html"><span class="sutta-num">MN 2</span><span class="sutta-titles"><span class="pali">Sabbāsava</span> · <span class="en">All the Defilements</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-003.html"><span class="sutta-num">MN 3</span><span class="sutta-titles"><span class="pali">Dhammadāyāda</span> · <span class="en">Heirs in the Teaching</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-004.html"><span class="sutta-num">MN 4</span><span class="sutta-titles"><span class="pali">Bhayabherava</span> · <span class="en">Fear and Dread</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-005.html"><span class="sutta-num">MN 5</span><span class="sutta-titles"><span class="pali">Anaṅgaṇa</span> · <span class="en">Unblemished</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-006.html"><span class="sutta-num">MN 6</span><span class="sutta-titles"><span class="pali">Ākaṅkheyya</span> · <span class="en">One Might Wish</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-007.html"><span class="sutta-num">MN 7</span><span class="sutta-titles"><span class="pali">Vatthūpama</span> · <span class="en">The Simile of the Cloth</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-008.html"><span class="sutta-num">MN 8</span><span class="sutta-titles"><span class="pali">Sallekha</span> · <span class="en">Self-Effacement</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-009.html"><span class="sutta-num">MN 9</span><span class="sutta-titles"><span class="pali">Sammādiṭṭhi</span> · <span class="en">Right View</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-010.html"><span class="sutta-num">MN 10</span><span class="sutta-titles"><span class="pali">Satipaṭṭhāna</span> · <span class="en">Mindfulness Meditation</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">2. Sīhanādavagga</span>
+        <span class="vagga-range">MN 11–20</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="mn-011.html"><span class="sutta-num">MN 11</span><span class="sutta-titles"><span class="pali">Cūḷasīhanāda</span> · <span class="en">The Shorter Discourse on the Lion's Roar</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-012.html"><span class="sutta-num">MN 12</span><span class="sutta-titles"><span class="pali">Mahāsīhanāda</span> · <span class="en">The Longer Discourse on the Lion's Roar</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-013.html"><span class="sutta-num">MN 13</span><span class="sutta-titles"><span class="pali">Mahādukkhakkhandha</span> · <span class="en">The Longer Discourse on the Mass of Suffering</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-014.html"><span class="sutta-num">MN 14</span><span class="sutta-titles"><span class="pali">Cūḷadukkhakkhandha</span> · <span class="en">The Shorter Discourse on the Mass of Suffering</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-015.html"><span class="sutta-num">MN 15</span><span class="sutta-titles"><span class="pali">Anumāna</span> · <span class="en">Self-Reflection</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-016.html"><span class="sutta-num">MN 16</span><span class="sutta-titles"><span class="pali">Cetokhila</span> · <span class="en">Emotional Barrenness</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-017.html"><span class="sutta-num">MN 17</span><span class="sutta-titles"><span class="pali">Vanapattha</span> · <span class="en">Jungle Thickets</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-018.html"><span class="sutta-num">MN 18</span><span class="sutta-titles"><span class="pali">Madhupiṇḍika</span> · <span class="en">The Honey-Cake</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-019.html"><span class="sutta-num">MN 19</span><span class="sutta-titles"><span class="pali">Dvedhāvitakka</span> · <span class="en">Two Kinds of Thought</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-020.html"><span class="sutta-num">MN 20</span><span class="sutta-titles"><span class="pali">Vitakkasaṇṭhāna</span> · <span class="en">The Stilling of Thoughts</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">3. Opammavagga</span>
+        <span class="vagga-range">MN 21–30</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="mn-021.html"><span class="sutta-num">MN 21</span><span class="sutta-titles"><span class="pali">Kakacūpama</span> · <span class="en">The Simile of the Saw</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-022.html"><span class="sutta-num">MN 22</span><span class="sutta-titles"><span class="pali">Alagaddūpama</span> · <span class="en">The Simile of the Cobra</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-023.html"><span class="sutta-num">MN 23</span><span class="sutta-titles"><span class="pali">Vammika</span> · <span class="en">The Termite Mound</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-024.html"><span class="sutta-num">MN 24</span><span class="sutta-titles"><span class="pali">Rathavinīta</span> · <span class="en">A Chariot at the Ready</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="mn-025.html"><span class="sutta-num">MN 25</span><span class="sutta-titles"><span class="pali">Nivāpa</span> · <span class="en">Sown Fields</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 26</span><span class="sutta-titles"><span class="pali">Ariyapariyesanā</span> · <span class="en">The Noble Search</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 27</span><span class="sutta-titles"><span class="pali">Cūḷahatthipadopama</span> · <span class="en">The Shorter Simile of the Elephant's Footprint</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 28</span><span class="sutta-titles"><span class="pali">Mahāhatthipadopama</span> · <span class="en">The Longer Simile of the Elephant's Footprint</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 29</span><span class="sutta-titles"><span class="pali">Mahāsāropama</span> · <span class="en">The Longer Simile of the Heartwood</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 30</span><span class="sutta-titles"><span class="pali">Cūḷasāropama</span> · <span class="en">The Shorter Simile of the Heartwood</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">4. Mahāyamakavagga</span>
+        <span class="vagga-range">MN 31–40</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 31</span><span class="sutta-titles"><span class="pali">Cūḷagosiṅga</span> · <span class="en">The Shorter Discourse at Gosiṅga</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 32</span><span class="sutta-titles"><span class="pali">Mahāgosiṅga</span> · <span class="en">The Longer Discourse at Gosiṅga</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 33</span><span class="sutta-titles"><span class="pali">Mahāgopālaka</span> · <span class="en">The Longer Discourse on the Cowherd</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 34</span><span class="sutta-titles"><span class="pali">Cūḷagopālaka</span> · <span class="en">The Shorter Discourse on the Cowherd</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 35</span><span class="sutta-titles"><span class="pali">Cūḷasaccaka</span> · <span class="en">The Shorter Discourse with Saccaka</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 36</span><span class="sutta-titles"><span class="pali">Mahāsaccaka</span> · <span class="en">The Longer Discourse with Saccaka</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 37</span><span class="sutta-titles"><span class="pali">Cūḷataṇhāsaṅkhaya</span> · <span class="en">The Shorter Discourse on the Ending of Craving</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 38</span><span class="sutta-titles"><span class="pali">Mahātaṇhāsaṅkhaya</span> · <span class="en">The Longer Discourse on the Ending of Craving</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 39</span><span class="sutta-titles"><span class="pali">Mahā-Assapura</span> · <span class="en">The Longer Discourse at Assapura</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 40</span><span class="sutta-titles"><span class="pali">Cūḷa-Assapura</span> · <span class="en">The Shorter Discourse at Assapura</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">5. Cūḷayamakavagga</span>
+        <span class="vagga-range">MN 41–50</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 41</span><span class="sutta-titles"><span class="pali">Sāleyyaka</span> · <span class="en">The People of Sālā</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 42</span><span class="sutta-titles"><span class="pali">Verañjaka</span> · <span class="en">The People of Verañja</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 43</span><span class="sutta-titles"><span class="pali">Mahāvedalla</span> · <span class="en">The Longer Series of Questions and Answers</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 44</span><span class="sutta-titles"><span class="pali">Cūḷavedalla</span> · <span class="en">The Shorter Series of Questions and Answers</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 45</span><span class="sutta-titles"><span class="pali">Cūḷadhammasamādāna</span> · <span class="en">The Shorter Discourse on Taking Up Practices</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 46</span><span class="sutta-titles"><span class="pali">Mahādhammasamādāna</span> · <span class="en">The Longer Discourse on Taking Up Practices</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 47</span><span class="sutta-titles"><span class="pali">Vīmaṃsaka</span> · <span class="en">The Inquirer</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 48</span><span class="sutta-titles"><span class="pali">Kosambiya</span> · <span class="en">The Mendicants of Kosambī</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 49</span><span class="sutta-titles"><span class="pali">Brahmanimantanika</span> · <span class="en">On the Invitation of Brahmā</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 50</span><span class="sutta-titles"><span class="pali">Māratajjanīya</span> · <span class="en">The Rebuke of Māra</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <!-- ============== MAJJHIMAPAṆṆĀSA ============== -->
+    <div class="pinnaasa-heading">
+      <span class="pin-name">II. Majjhimapaṇṇāsa</span>
+      <span class="pin-note">MN 51–100 · five chapters · dialogues with kings, brāhmaṇas, householders, monks</span>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">6. Gahapativagga</span>
+        <span class="vagga-range">MN 51–60</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 51</span><span class="sutta-titles"><span class="pali">Kandaraka</span> · <span class="en">With Kandaraka</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 52</span><span class="sutta-titles"><span class="pali">Aṭṭhakanāgara</span> · <span class="en">The Man from the City of Aṭṭhaka</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 53</span><span class="sutta-titles"><span class="pali">Sekha</span> · <span class="en">A Trainee</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 54</span><span class="sutta-titles"><span class="pali">Potaliya</span> · <span class="en">With Potaliya</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 55</span><span class="sutta-titles"><span class="pali">Jīvaka</span> · <span class="en">With Jīvaka</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 56</span><span class="sutta-titles"><span class="pali">Upāli</span> · <span class="en">With Upāli</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 57</span><span class="sutta-titles"><span class="pali">Kukkuravatika</span> · <span class="en">The Dog-Duty Ascetic</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 58</span><span class="sutta-titles"><span class="pali">Abhayarājakumāra</span> · <span class="en">With Prince Abhaya</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 59</span><span class="sutta-titles"><span class="pali">Bahuvedanīya</span> · <span class="en">The Many Kinds of Feeling</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 60</span><span class="sutta-titles"><span class="pali">Apaṇṇaka</span> · <span class="en">Guaranteed</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">7. Bhikkhuvagga</span>
+        <span class="vagga-range">MN 61–70</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 61</span><span class="sutta-titles"><span class="pali">Ambalaṭṭhikārāhulovāda</span> · <span class="en">Advice to Rāhula at Ambalaṭṭhika</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 62</span><span class="sutta-titles"><span class="pali">Mahārāhulovāda</span> · <span class="en">The Longer Advice to Rāhula</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 63</span><span class="sutta-titles"><span class="pali">Cūḷamāluṅkya</span> · <span class="en">The Shorter Discourse with Māluṅkya</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 64</span><span class="sutta-titles"><span class="pali">Mahāmāluṅkya</span> · <span class="en">The Longer Discourse with Māluṅkya</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 65</span><span class="sutta-titles"><span class="pali">Bhaddāli</span> · <span class="en">With Bhaddāli</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 66</span><span class="sutta-titles"><span class="pali">Laṭukikopama</span> · <span class="en">The Simile of the Quail</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 67</span><span class="sutta-titles"><span class="pali">Cātumā</span> · <span class="en">At Cātumā</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 68</span><span class="sutta-titles"><span class="pali">Naḷakapāna</span> · <span class="en">At Naḷakapāna</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 69</span><span class="sutta-titles"><span class="pali">Goliyāni</span> · <span class="en">With Goliyāni</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 70</span><span class="sutta-titles"><span class="pali">Kīṭāgiri</span> · <span class="en">At Kīṭāgiri</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">8. Paribbājakavagga</span>
+        <span class="vagga-range">MN 71–80</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 71</span><span class="sutta-titles"><span class="pali">Tevijjavacchagotta</span> · <span class="en">To Vacchagotta on the Three Knowledges</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 72</span><span class="sutta-titles"><span class="pali">Aggivacchagotta</span> · <span class="en">With Vacchagotta on Fire</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 73</span><span class="sutta-titles"><span class="pali">Mahāvacchagotta</span> · <span class="en">The Longer Discourse with Vacchagotta</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 74</span><span class="sutta-titles"><span class="pali">Dīghanakha</span> · <span class="en">With Dīghanakha</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 75</span><span class="sutta-titles"><span class="pali">Māgaṇḍiya</span> · <span class="en">With Māgaṇḍiya</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 76</span><span class="sutta-titles"><span class="pali">Sandaka</span> · <span class="en">With Sandaka</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 77</span><span class="sutta-titles"><span class="pali">Mahāsakuludāyi</span> · <span class="en">The Longer Discourse with Sakuludāyī</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 78</span><span class="sutta-titles"><span class="pali">Samaṇamuṇḍika</span> · <span class="en">With Uggāhamāna Samaṇamuṇḍika</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 79</span><span class="sutta-titles"><span class="pali">Cūḷasakuludāyi</span> · <span class="en">The Shorter Discourse with Sakuludāyī</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 80</span><span class="sutta-titles"><span class="pali">Vekhanasa</span> · <span class="en">With Vekhanasa</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">9. Rājavagga</span>
+        <span class="vagga-range">MN 81–90</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 81</span><span class="sutta-titles"><span class="pali">Ghaṭīkāra</span> · <span class="en">With Ghaṭīkāra</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 82</span><span class="sutta-titles"><span class="pali">Raṭṭhapāla</span> · <span class="en">With Raṭṭhapāla</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 83</span><span class="sutta-titles"><span class="pali">Makhādeva</span> · <span class="en">About Makhādeva</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 84</span><span class="sutta-titles"><span class="pali">Madhura</span> · <span class="en">At Madhurā</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 85</span><span class="sutta-titles"><span class="pali">Bodhirājakumāra</span> · <span class="en">With Prince Bodhi</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 86</span><span class="sutta-titles"><span class="pali">Aṅgulimāla</span> · <span class="en">With Aṅgulimāla</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 87</span><span class="sutta-titles"><span class="pali">Piyajātika</span> · <span class="en">Born from the Beloved</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 88</span><span class="sutta-titles"><span class="pali">Bāhitika</span> · <span class="en">The Imported Cloth</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 89</span><span class="sutta-titles"><span class="pali">Dhammacetiya</span> · <span class="en">Shrines to the Teaching</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 90</span><span class="sutta-titles"><span class="pali">Kaṇṇakatthala</span> · <span class="en">At Kaṇṇakatthala</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">10. Brāhmaṇavagga</span>
+        <span class="vagga-range">MN 91–100</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 91</span><span class="sutta-titles"><span class="pali">Brahmāyu</span> · <span class="en">With Brahmāyu</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 92</span><span class="sutta-titles"><span class="pali">Sela</span> · <span class="en">With Sela</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 93</span><span class="sutta-titles"><span class="pali">Assalāyana</span> · <span class="en">With Assalāyana</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 94</span><span class="sutta-titles"><span class="pali">Ghoṭamukha</span> · <span class="en">With Ghoṭamukha</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 95</span><span class="sutta-titles"><span class="pali">Caṅkī</span> · <span class="en">With Caṅkī</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 96</span><span class="sutta-titles"><span class="pali">Esukārī</span> · <span class="en">With Esukārī</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 97</span><span class="sutta-titles"><span class="pali">Dhanañjāni</span> · <span class="en">With Dhanañjāni</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 98</span><span class="sutta-titles"><span class="pali">Vāseṭṭha</span> · <span class="en">With Vāseṭṭha</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 99</span><span class="sutta-titles"><span class="pali">Subha</span> · <span class="en">With Subha</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 100</span><span class="sutta-titles"><span class="pali">Saṅgārava</span> · <span class="en">With Saṅgārava</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <!-- ============== UPARIPAṆṆĀSA ============== -->
+    <div class="pinnaasa-heading">
+      <span class="pin-name">III. Uparipaṇṇāsa</span>
+      <span class="pin-note">MN 101–152 · five chapters · detailed instruction on meditation, emptiness, and the analysis of action</span>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">11. Devadahavagga</span>
+        <span class="vagga-range">MN 101–110</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 101</span><span class="sutta-titles"><span class="pali">Devadaha</span> · <span class="en">At Devadaha</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 102</span><span class="sutta-titles"><span class="pali">Pañcattaya</span> · <span class="en">The Five and Three</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 103</span><span class="sutta-titles"><span class="pali">Kinti</span> · <span class="en">What Do You Take Me For?</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 104</span><span class="sutta-titles"><span class="pali">Sāmagāma</span> · <span class="en">At Sāmagāma</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 105</span><span class="sutta-titles"><span class="pali">Sunakkhatta</span> · <span class="en">With Sunakkhatta</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 106</span><span class="sutta-titles"><span class="pali">Āneñjasappāya</span> · <span class="en">Conducive to the Imperturbable</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 107</span><span class="sutta-titles"><span class="pali">Gaṇakamoggallāna</span> · <span class="en">With Moggallāna the Accountant</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 108</span><span class="sutta-titles"><span class="pali">Gopakamoggallāna</span> · <span class="en">With Moggallāna the Guardian</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 109</span><span class="sutta-titles"><span class="pali">Mahāpuṇṇama</span> · <span class="en">The Longer Discourse on the Full-Moon Night</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 110</span><span class="sutta-titles"><span class="pali">Cūḷapuṇṇama</span> · <span class="en">The Shorter Discourse on the Full-Moon Night</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">12. Anupadavagga</span>
+        <span class="vagga-range">MN 111–120</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 111</span><span class="sutta-titles"><span class="pali">Anupada</span> · <span class="en">One by One</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 112</span><span class="sutta-titles"><span class="pali">Chabbisodhana</span> · <span class="en">The Sixfold Purification</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 113</span><span class="sutta-titles"><span class="pali">Sappurisa</span> · <span class="en">A True Person</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 114</span><span class="sutta-titles"><span class="pali">Sevitabbāsevitabba</span> · <span class="en">What Should and Should Not Be Cultivated</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 115</span><span class="sutta-titles"><span class="pali">Bahudhātuka</span> · <span class="en">Many Elements</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 116</span><span class="sutta-titles"><span class="pali">Isigili</span> · <span class="en">At Isigili</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 117</span><span class="sutta-titles"><span class="pali">Mahācattārīsaka</span> · <span class="en">The Great Forty</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 118</span><span class="sutta-titles"><span class="pali">Ānāpānassati</span> · <span class="en">Mindfulness of Breathing</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 119</span><span class="sutta-titles"><span class="pali">Kāyagatāsati</span> · <span class="en">Mindfulness of the Body</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 120</span><span class="sutta-titles"><span class="pali">Saṅkhārupapatti</span> · <span class="en">Rebirth by Choice</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">13. Suññatavagga</span>
+        <span class="vagga-range">MN 121–130</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 121</span><span class="sutta-titles"><span class="pali">Cūḷasuññata</span> · <span class="en">The Shorter Discourse on Emptiness</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 122</span><span class="sutta-titles"><span class="pali">Mahāsuññata</span> · <span class="en">The Longer Discourse on Emptiness</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 123</span><span class="sutta-titles"><span class="pali">Acchariya-abbhuta</span> · <span class="en">Incredible and Amazing</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 124</span><span class="sutta-titles"><span class="pali">Bakkula</span> · <span class="en">With Bakkula</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 125</span><span class="sutta-titles"><span class="pali">Dantabhūmi</span> · <span class="en">The Level of the Tamed</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 126</span><span class="sutta-titles"><span class="pali">Bhūmija</span> · <span class="en">With Bhūmija</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 127</span><span class="sutta-titles"><span class="pali">Anuruddha</span> · <span class="en">With Anuruddha</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 128</span><span class="sutta-titles"><span class="pali">Upakkilesa</span> · <span class="en">Corruptions</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 129</span><span class="sutta-titles"><span class="pali">Bālapaṇḍita</span> · <span class="en">The Foolish and the Astute</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 130</span><span class="sutta-titles"><span class="pali">Devadūta</span> · <span class="en">Messengers of the Gods</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">14. Vibhaṅgavagga</span>
+        <span class="vagga-range">MN 131–142</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 131</span><span class="sutta-titles"><span class="pali">Bhaddekaratta</span> · <span class="en">One Fine Night</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 132</span><span class="sutta-titles"><span class="pali">Ānandabhaddekaratta</span> · <span class="en">Ānanda and One Fine Night</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 133</span><span class="sutta-titles"><span class="pali">Mahākaccānabhaddekaratta</span> · <span class="en">Mahākaccāna and One Fine Night</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 134</span><span class="sutta-titles"><span class="pali">Lomasakaṅgiyabhaddekaratta</span> · <span class="en">Lomasakaṅgiya and One Fine Night</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 135</span><span class="sutta-titles"><span class="pali">Cūḷakammavibhaṅga</span> · <span class="en">The Shorter Analysis of Deeds</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 136</span><span class="sutta-titles"><span class="pali">Mahākammavibhaṅga</span> · <span class="en">The Longer Analysis of Deeds</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 137</span><span class="sutta-titles"><span class="pali">Saḷāyatanavibhaṅga</span> · <span class="en">The Analysis of the Six Sense Fields</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 138</span><span class="sutta-titles"><span class="pali">Uddesavibhaṅga</span> · <span class="en">Analysis of a Recitation Passage</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 139</span><span class="sutta-titles"><span class="pali">Araṇavibhaṅga</span> · <span class="en">The Analysis of Non-Conflict</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 140</span><span class="sutta-titles"><span class="pali">Dhātuvibhaṅga</span> · <span class="en">The Analysis of the Elements</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 141</span><span class="sutta-titles"><span class="pali">Saccavibhaṅga</span> · <span class="en">The Analysis of the Truths</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 142</span><span class="sutta-titles"><span class="pali">Dakkhiṇāvibhaṅga</span> · <span class="en">The Analysis of Religious Donations</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+    <div class="vagga">
+      <div class="vagga-header">
+        <span class="vagga-name">15. Saḷāyatanavagga</span>
+        <span class="vagga-range">MN 143–152</span>
+      </div>
+      <ul class="sutta-list">
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 143</span><span class="sutta-titles"><span class="pali">Anāthapiṇḍikovāda</span> · <span class="en">Advice to Anāthapiṇḍika</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 144</span><span class="sutta-titles"><span class="pali">Channovāda</span> · <span class="en">Advice to Channa</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 145</span><span class="sutta-titles"><span class="pali">Puṇṇovāda</span> · <span class="en">Advice to Puṇṇa</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 146</span><span class="sutta-titles"><span class="pali">Nandakovāda</span> · <span class="en">Advice from Nandaka</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 147</span><span class="sutta-titles"><span class="pali">Cūḷarāhulovāda</span> · <span class="en">The Shorter Advice to Rāhula</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 148</span><span class="sutta-titles"><span class="pali">Chachakka</span> · <span class="en">The Six Sets of Six</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 149</span><span class="sutta-titles"><span class="pali">Mahāsaḷāyatanika</span> · <span class="en">The Great Discourse on the Six Sense Fields</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 150</span><span class="sutta-titles"><span class="pali">Nagaravindeyya</span> · <span class="en">With the People of Nagaravinda</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 151</span><span class="sutta-titles"><span class="pali">Piṇḍapātapārisuddhi</span> · <span class="en">The Purification of Alms</span></span><span class="sutta-status">soon</span></li>
+        <li class="sutta-row placeholder"><span class="sutta-num">MN 152</span><span class="sutta-titles"><span class="pali">Indriyabhāvanā</span> · <span class="en">The Development of the Faculties</span></span><span class="sutta-status">soon</span></li>
+      </ul>
+    </div>
+
+  </section>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translations © Bhikkhu Sujato, released CC0. Reading guides written for Ru-Yi Meditation Center.</p>
+  </footer>
+
+</div>
+</body>
+</html>

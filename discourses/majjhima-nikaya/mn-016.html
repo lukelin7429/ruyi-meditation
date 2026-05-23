@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 16 — Emotional Barrenness | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Cetokhilasutta — the Buddha's analysis of five forms of emotional barrenness and five shackles of the heart that block practice, with the famous incubating-hen simile. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 16
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 16</div>
+  <h1>Emotional Barrenness</h1>
+  <p class="subtitle"><em>Cetokhilasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī</dd>
+      <dt>Speaker</dt><dd>The Buddha, addressing the mendicants</dd>
+      <dt>Form</dt><dd>27 sections in four movements: the two five-fold inventories (hard-heartedness and shackles), their positive mirror (what their absence looks like), the four bases of psychic power plus vigor totaling fifteen factors, and the closing incubating-hen simile</dd>
+      <dt>Length</dt><dd>~10 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>MA 206 (Madhyama-āgama 206, "Discourse on Mental Stains")</dd>
+      <dt>Difficulty</dt><dd>★★★☆☆ — the lists are short and clear; the diagnosis is searching. Two of the items (the fifth shackle especially) require careful attention.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, sixteenth</h2>
+    <p class="lede">
+      MN 16 is the canon's most precise diagnostic of <em>why a practitioner stops progressing</em>. The Buddha names two sets of five mental conditions — five forms of emotional barrenness (<em>cetokhila</em>) and five shackles of the heart (<em>cetasovinibandha</em>) — and gives a structural claim: while any of these ten is present, growth in the teaching is impossible.
+    </p>
+    <p>
+      The diagnosis is forensically specific. The five barrennesses are four kinds of doubt (about the teacher, the teaching, the community, the training) plus one social wound (anger and resentment toward fellow practitioners). The five shackles are five kinds of attachment that bind the heart in place: sensual desire, attachment to one's own body, attachment to forms, the cycle of eating-and-sleeping, and — most subtly — leading the spiritual life with the goal of being reborn as a god.
+    </p>
+    <p>
+      The discourse closes with one of the canon's most accessible similes. A hen who properly sits on her eight or ten or twelve eggs doesn't need to wish for the chicks to hatch — they will hatch on their own through the natural process. A practitioner who has given up the ten obstacles and developed the fifteen positive factors doesn't need to <em>try</em> to awaken. The breakthrough happens by itself.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Five doubts plus five wrong attachments — once they are gone, the awakening happens by itself, like chicks hatching from a properly incubated egg.
+    </p>
+
+    <h3>The opening claim</h3>
+    <p>
+      The Buddha makes a categorical structural claim: <em>"When a mendicant has not given up five kinds of hard-heartedness and severed five shackles of the heart, it's not possible for them to achieve growth, improvement, or maturity in this teaching and training."</em>
+    </p>
+    <p>
+      The strength of this claim deserves attention. It is not "harder," "slower," or "less likely." It is "not possible." The diagnosis is being given as a precise necessary condition. Until these ten specific conditions are addressed, the practice cannot mature.
+    </p>
+
+    <h3>The five forms of hard-heartedness (cetokhila)</h3>
+    <p>The Pāli <em>cetokhila</em> means literally "wilderness" or "wasteland" of the heart — an arid quality that no growth can take root in. Bhikkhu Bodhi renders it "wilderness in the heart"; Sujato gives "hard-heartedness" or "emotional barrenness." The five are:</p>
+    <table>
+      <thead><tr><th>#</th><th>Hard-heartedness</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Doubts about the <strong>Teacher</strong> — uncertain, undecided, lacking confidence</td></tr>
+        <tr><td>2</td><td>Doubts about the <strong>teaching</strong></td></tr>
+        <tr><td>3</td><td>Doubts about the <strong>Saṅgha</strong> (the community of practitioners)</td></tr>
+        <tr><td>4</td><td>Doubts about the <strong>training</strong></td></tr>
+        <tr><td>5</td><td>Anger and upset with <strong>spiritual companions</strong> — resentful and closed off</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Each is followed by the same diagnostic line: <em>"This being so, their mind doesn't incline toward keenness, commitment, persistence, and striving."</em>
+    </p>
+    <p>
+      Notice the structure. The first four are forms of doubt — about the four objects of confidence (Buddha, Dharma, Saṅgha, training itself). The fifth is the one social wound: unprocessed anger or resentment toward fellow practitioners. The discourse is making a precise psychological claim: while these specific kinds of distrust or social grievance are operating, the mind cannot incline toward the four energies of practice. The will to practice is structurally blocked.
+    </p>
+
+    <h3>The five shackles of the heart (cetasovinibandha)</h3>
+    <p>Where hard-heartedness is the wasteland in which nothing grows, shackles are the bindings that prevent the heart from going anywhere. The five:</p>
+    <table>
+      <thead><tr><th>#</th><th>Shackle</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td><strong>Greed for sensual pleasures</strong> — "greed, desire, fondness, thirst, passion, and craving for sensual pleasures"</td></tr>
+        <tr><td>2</td><td><strong>Greed for the body</strong> — attachment to one's own body</td></tr>
+        <tr><td>3</td><td><strong>Greed for form</strong> — attachment to other bodies / physical beauty</td></tr>
+        <tr><td>4</td><td><strong>Eating-and-sleeping</strong> — eating as much as one likes until the belly is full, then indulging in sleeping, lying down, drowsing</td></tr>
+        <tr><td>5</td><td><strong>Leading the spiritual life hoping to be reborn as a god</strong> — "By this precept or observance or fervent austerity or spiritual practice, may I become one of the gods!"</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The first three name attachments to objects. The fourth names a behavioral pattern (the eat-sleep cycle that swallows a practitioner's time). The fifth — the most subtle and easily missed — names a <em>motivational</em> problem: practicing for a wrong goal. The discourse classifies even ostensibly "spiritual" goals like rebirth in a heavenly realm as a shackle, because they keep the practitioner inside the cycle of existence rather than pointing toward release from it.
+    </p>
+
+    <h3>The fifth shackle as the discourse's quietest punch</h3>
+    <p>
+      It is worth dwelling on the fifth shackle. The practitioner has not violated any precept. They are not eating too much, not sleeping too much, not engaged with sensual goods, not particularly attached to their body or other bodies. Yet they are still bound — because they are practicing <em>for the goal of becoming a god</em> rather than for the goal of release.
+    </p>
+    <p>
+      The diagnosis applies, in modern terms, to any practitioner who pursues contemplative training with goals that are themselves within the cycle of attachment: "to become a better person," "to have superpowers," "to be more spiritual than others," "to live longer," "to be liked by my teacher," "to ascend to higher states." All of these can be present even in someone whose external behavior is exemplary. The shackle is the goal, not the behavior.
+    </p>
+    <p>
+      What is the right motivation? The discourse doesn't explicitly say, but the answer is implicit in everything before and after: practice for the giving-up of these ten obstacles themselves. Practice for the cessation of suffering. Practice for awakening, which is the disappearance of the practitioner's structure of clinging, not the elevation of that structure into a higher form.
+    </p>
+
+    <h3>The mirror — what their absence looks like (§§14–25)</h3>
+    <p>
+      The discourse then runs the same list in reverse. When the five hard-hearted qualities and the five shackles are <em>given up</em>, the mind <em>does</em> incline toward keenness, commitment, persistence, and striving. Same content; opposite valence. The pattern is the discourse's standard binary structure — presence/absence, blocked/open, impossible/possible.
+    </p>
+
+    <h3>The fifteen factors</h3>
+    <p>
+      Section 26 then adds five more factors — the four bases of psychic power (<em>iddhipāda</em>) and "sheer vigor." Together with the ten obstacles overcome, this gives a structural total of fifteen factors:
+    </p>
+    <ol>
+      <li>The 4 doubts overcome (about Teacher, teaching, Saṅgha, training)</li>
+      <li>1 social wound healed (no anger at companions)</li>
+      <li>The 5 shackles severed (sensual, body, form, eat-sleep, heaven-aspiring)</li>
+      <li>4 bases of psychic power developed (enthusiasm, energy, mental development, inquiry — each with "active effort")</li>
+      <li>Sheer vigor (<em>ussoḷhi</em>)</li>
+    </ol>
+    <p>
+      That is the full architecture: 5 + 5 + 4 + 1 = 15. The discourse counts them explicitly. The 4 <em>iddhipāda</em> are the standard early Buddhist set: <em>chanda</em> (enthusiasm), <em>viriya</em> (energy), <em>citta</em> (mental development), <em>vīmaṁsā</em> (inquiry/investigation) — each developed with "active effort." They are the same four bases that appear elsewhere in the canon as the foundations not only of psychic power but of awakening itself.
+    </p>
+
+    <h3>The incubating-hen simile</h3>
+    <p>The discourse closes with one of the canon's most famous similes:</p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "Suppose there was a chicken with eight or ten or twelve eggs. And she properly sat on them to keep them warm and incubated. Even if that chicken doesn't wish: 'If only my chicks could break out of the eggshell with their claws and beak and hatch safely!' Still they can break out and hatch safely. In the same way, a mendicant who possesses these fifteen factors, including vigor, is capable of breaking out, becoming awakened, and reaching the supreme sanctuary from the yoke."
+    </blockquote>
+    <p>
+      The simile's pivot is the parenthetical "even if that chicken doesn't wish." The hen doesn't need to <em>wish</em> for the chicks to hatch. The conditions are sufficient. The natural process completes itself.
+    </p>
+    <p>
+      Applied to the practitioner: when the ten obstacles are gone and the fifteen factors are in place, the practitioner doesn't need to <em>try</em> to awaken, doesn't need to add wishing to the conditions. The wishing-to-awaken is itself a subtle form of the fifth shackle (a goal sitting inside the structure of clinging). When the structure has been given up, the awakening happens on its own. The breakthrough is the natural completion of the conditions that have been set.
+    </p>
+
+    <h3>The connection between MN 15 and MN 16</h3>
+    <p>
+      MN 15 was Mahāmoggallāna teaching on self-examination. MN 16 returns to the Buddha himself, applying a similar diagnostic gaze but at a different layer. MN 15's sixteen qualities were mostly about how one receives criticism — surface defensive moves. MN 16's ten obstacles are deeper — the structural conditions of the heart that block practice from maturing at all. Together they form a layered picture: MN 15 names what makes a practitioner socially difficult; MN 16 names what makes a practitioner spiritually stuck.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The five hard-hearted qualities map closely to obstacles every modern practitioner encounters. Doubts about the teacher, the teaching, the community, the training — these are universal questions for anyone undertaking a serious path with any tradition. The discourse doesn't say doubt is wrong (one should investigate); it says <em>unresolved</em> doubt is a structural block. The path doesn't advance while the doubts remain in suspension.
+    </p>
+    <p>
+      The fifth (anger at fellow practitioners) is the modern equivalent of unresolved interpersonal friction in any sangha, retreat community, dharma center, or even meditation app community. The discourse names this as no less an obstacle than the doubts. A practitioner who has worked through every philosophical question but who carries grudges against fellow practitioners is still in the wilderness.
+    </p>
+    <p>
+      The five shackles also map directly. Sensual desire, attachment to one's body, attachment to others' bodies, eat-and-sleep absorption, and the most subtle one — practicing for the wrong reasons (status, identity, "becoming someone spiritual"). The diagnosis remains: while these are operating, growth doesn't happen.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Are doubts really wrong? Isn't healthy doubt good?"</strong> The discourse is precise. It names "doubts" but qualifies them: <em>"uncertain, undecided, and lacking confidence."</em> The category is not investigative doubt — which the canon elsewhere encourages — but <em>suspended</em> doubt that prevents the mind from inclining toward practice. The Pāli is <em>vicikicchā</em>, the same hindrance listed in the five hindrances and the three fetters of stream-entry. It refers to a chronic, unresolved hovering, not an honest question being asked. The honest question can be answered; the chronic hovering blocks all asking.</p>
+
+    <p><strong>"Is the discourse really saying that practicing to be reborn as a god is a shackle? Isn't that a traditional Buddhist goal?"</strong> Yes — and the discourse is precise about this too. In the early Buddhist framework, rebirth as a god is a temporary attainment within the cycle of existence; it is not awakening. A practitioner who orients their effort toward becoming a god is using the path's instruments for a goal the path itself is designed to transcend. The diagnosis is not "rebirth as a god is bad," but "if your spiritual practice is aimed there, the practice will not produce what it is designed to produce." It is a category mistake about goals.</p>
+
+    <p><strong>"The hen simile says the chicks will hatch on their own. So is effort needed at all?"</strong> The simile's full structure is the answer. The hen is described as having "properly sat on them to keep them warm and incubated." The proper sitting is the effort. The fifteen factors are the effort. The point of the "even if she doesn't wish" clause is not that effort is unnecessary but that <em>wishing</em> for the result on top of the proper sitting is unnecessary. Effort, yes — but wishing-for-the-outcome on top of effort is an extra layer that the practitioner can drop. The proper conditions complete themselves.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">cetokhila</span> — emotional barrenness / hard-heartedness / wilderness of the heart. <em>Ceto</em> (heart, mind) + <em>khila</em> (a fallow patch of hard ground, a wasteland). The image: a patch of soil so dry and hardened that nothing can root in it. Bhikkhu Bodhi: "wilderness in the heart"; Sujato: "emotional barrenness."
+      </div>
+      <div class="term">
+        <span class="pali-word">cetasovinibandha</span> — shackle of the heart. <em>Ceto</em> + <em>vinibandha</em> (bond, fetter, shackle). The complement to <em>cetokhila</em>: not the arid ground that prevents growth, but the chain that prevents movement.
+      </div>
+      <div class="term">
+        <span class="pali-word">vicikicchā</span> — doubt. The technical term for the kind of doubt named as the first four hard-heartednesses. Not investigative inquiry but chronic, suspended uncertainty that prevents the mind from inclining toward practice. The same word names the fifth of the five hindrances.
+      </div>
+      <div class="term">
+        <span class="pali-word">ātappa · anuyoga · sātacca · padhāna</span> — keenness, commitment, persistence, striving. The four energies of practice. The fixed phrase that follows each obstacle: <em>"the mind doesn't incline toward [these four]."</em> Together they form the canonical description of right effort in action.
+      </div>
+      <div class="term">
+        <span class="pali-word">iddhipāda</span> — basis of psychic power / basis of accomplishment. The four <em>iddhipāda</em> appear in the discourse as the positive complement to the ten obstacles. They are <em>chanda</em> (enthusiasm/desire), <em>viriya</em> (energy), <em>citta</em> (mental development), and <em>vīmaṁsā</em> (inquiry/investigation), each developed with "active effort." They appear throughout the canon as a foundational set.
+      </div>
+      <div class="term">
+        <span class="pali-word">ussoḷhi</span> — sheer vigor. The fifth factor added to the four <em>iddhipāda</em> to make fifteen. The word names a pure, undiluted exertion — what completes the conditions for breakthrough.
+      </div>
+      <div class="term">
+        <span class="pali-word">aññatara devanikāya paṇidhāya brahmacariya</span> — "leading the spiritual life with the goal of being reborn in one of the orders of gods." The Pāli compound phrase that names the fifth shackle. The discourse classifies even this ostensibly spiritual goal as a binding of the heart.
+      </div>
+      <div class="term">
+        <span class="pali-word">kukkuṭī aṇḍāni</span> — the chicken's eggs. The closing simile: a hen with eight, ten, or twelve eggs properly incubating them. The chicks hatch by the natural completion of the conditions, not by the hen's wishing for the result.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 16 has 27 sections in four movements: the opening claim and the two five-fold inventories (§§1–13), their positive mirror (§§14–25), the four bases of psychic power plus vigor (§26), and the incubating-hen simile (§27). The structure repeats the same content with opposite valence — once as "not given up / not severed" (impossible to grow) and once as "given up / severed" (possible to grow). Sujato's print form abbreviates the parallel repetitions. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The opening claim</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There the Buddha addressed the mendicants, "Mendicants!" "Venerable sir," they replied. The Buddha said this:</p>
+
+      <p><span class="segno">§2</span>"Mendicants, when a mendicant has not given up five kinds of hard-heartedness and severed five shackles of the heart, it's not possible for them to achieve growth, improvement, or maturity in this teaching and training.</p>
+
+      <h3>The five kinds of hard-heartedness</h3>
+
+      <p><span class="segno">§3</span>What are the five kinds of hard-heartedness they haven't given up? Firstly, a mendicant has doubts about the Teacher. They're uncertain, undecided, and lacking confidence. This being so, their mind doesn't incline toward keenness, commitment, persistence, and striving. This is the first kind of hard-heartedness they haven't given up.</p>
+
+      <p><span class="segno">§4</span>Furthermore, a mendicant has doubts about the teaching … This is the second kind of hard-heartedness.</p>
+
+      <p><span class="segno">§5</span>They have doubts about the Saṅgha … This is the third kind of hard-heartedness.</p>
+
+      <p><span class="segno">§6</span>They have doubts about the training … This is the fourth kind of hard-heartedness.</p>
+
+      <p><span class="segno">§7</span>Furthermore, a mendicant is angry and upset with their spiritual companions, resentful and closed off. This being so, their mind doesn't incline toward keenness, commitment, persistence, and striving. This is the fifth kind of hard-heartedness they haven't given up. These are the five kinds of hard-heartedness they haven't given up.</p>
+
+      <h3>The five shackles of the heart</h3>
+
+      <p><span class="segno">§8</span>What are the five shackles of the heart they haven't severed? Firstly, a mendicant isn't free of greed, desire, fondness, thirst, passion, and craving for sensual pleasures. This being so, their mind doesn't incline toward keenness, commitment, persistence, and striving. This is the first shackle of the heart they haven't severed.</p>
+
+      <p><span class="segno">§9</span>Furthermore, a mendicant isn't free of greed for the body … This is the second shackle of the heart.</p>
+
+      <p><span class="segno">§10</span>Furthermore, a mendicant isn't free of greed for form … This is the third shackle of the heart.</p>
+
+      <p><span class="segno">§11</span>They eat as much as they like until their belly is full, then indulge in the pleasures of sleeping, lying down, and drowsing … This is the fourth heart shackle.</p>
+
+      <p><span class="segno">§12</span>They lead the spiritual life hoping to be reborn in one of the orders of gods, thinking: 'By this precept or observance or fervent austerity or spiritual practice, may I become one of the gods!' This being so, their mind doesn't incline toward keenness, commitment, persistence, and striving. This is the fifth shackle of the heart they haven't severed. These are the five shackles of the heart they haven't severed.</p>
+
+      <p><span class="segno">§13</span>When a mendicant has not given up these five kinds of hard-heartedness and severed these five shackles of the heart, it's not possible for them to achieve growth, improvement, or maturity in this teaching and training.</p>
+
+      <h3>The positive mirror</h3>
+
+      <p><span class="segno">§14</span>When a mendicant has given up these five kinds of hard-heartedness and severed these five shackles of the heart, it is possible for them to achieve growth, improvement, and maturity in this teaching and training.</p>
+
+      <div class="compact">
+        <strong>§§15–24</strong> — The full inventory is then repeated with opposite valence: no doubts about the Teacher (§15), the teaching (§16), the Saṅgha (§17), the training (§18); no anger at spiritual companions (§19); rid of greed for sensual pleasures (§20), for the body (§21), for form (§22); not indulging in eating-and-sleeping (§23); not leading the spiritual life with the goal of rebirth as a god (§24). Each is followed by the now-positive diagnostic line: <em>"Their mind inclines toward keenness, commitment, persistence, and striving."</em>
+      </div>
+
+      <p><span class="segno">§25</span>When a mendicant has given up these five kinds of hard-heartedness and severed these five shackles of the heart, it is possible for them to achieve growth, improvement, or maturity in this teaching and training.</p>
+
+      <h3>The four bases of psychic power, plus vigor</h3>
+
+      <p><span class="segno">§26</span>They develop the basis of psychic power that has immersion due to enthusiasm, and active effort … the basis of psychic power that has immersion due to energy, and active effort … the basis of psychic power that has immersion due to mental development, and active effort … the basis of psychic power that has immersion due to inquiry, and active effort. And the fifth is sheer vigor.</p>
+
+      <h3>The incubating-hen simile</h3>
+
+      <p><span class="segno">§27</span>A mendicant who possesses these fifteen factors, including vigor, is capable of breaking out, becoming awakened, and reaching the supreme sanctuary from the yoke. Suppose there was a chicken with eight or ten or twelve eggs. And she properly sat on them to keep them warm and incubated. Even if that chicken doesn't wish: 'If only my chicks could break out of the eggshell with their claws and beak and hatch safely!' Still they can break out and hatch safely. In the same way, a mendicant who possesses these fifteen factors, including vigor, is capable of breaking out, becoming awakened, and reaching the supreme sanctuary from the yoke."</p>
+
+      <p style="margin-top:20px"><strong>That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">The discourse opens with a categorical structural claim. What is it?</div>
+        <button class="opt">It is harder to make progress when these qualities are present</button>
+        <button class="opt">Progress is slower when these qualities are present</button>
+        <button class="opt">"It's not possible to achieve growth, improvement, or maturity in this teaching and training" while these qualities remain — a precise necessary condition, not a tendency</button>
+        <button class="opt">These qualities only affect monastics</button>
+        <div class="expl"><strong>Correct: C.</strong> The strength of the claim is "not possible," not "harder." The Buddha is naming a structural impossibility: until these ten specific conditions are addressed, the practice cannot mature, regardless of how much else the practitioner does correctly.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">The first four kinds of "hard-heartedness" (cetokhila) are all forms of what?</div>
+        <button class="opt">Anger</button>
+        <button class="opt">Doubt — specifically about the Teacher, the teaching, the Saṅgha, and the training</button>
+        <button class="opt">Greed</button>
+        <button class="opt">Laziness</button>
+        <div class="expl"><strong>Correct: B.</strong> The four objects of confidence (Buddha, Dharma, Saṅgha, training) appear here as their negative: chronic, unresolved doubt about each of them. The discourse is precise that this is <em>vicikicchā</em> — the same kind of doubt named in the five hindrances — not investigative inquiry, which the canon encourages.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">The fifth kind of hard-heartedness is not doubt-based. What is it?</div>
+        <button class="opt">Greed for sensual pleasures</button>
+        <button class="opt">Laziness</button>
+        <button class="opt">Anger and upset with spiritual companions — resentful and closed off</button>
+        <button class="opt">Pride about one's own practice</button>
+        <div class="expl"><strong>Correct: C.</strong> The fifth is the social wound — unprocessed anger or resentment toward fellow practitioners. The discourse names this as no less an obstacle than the four doubts. A practitioner who has worked through every philosophical question but who carries grudges against fellow practitioners is still in the wilderness.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">After each obstacle, the discourse uses the same diagnostic line about what does or doesn't happen in the mind. What is the line?</div>
+        <button class="opt">"This being so, their mind becomes calm and concentrated"</button>
+        <button class="opt">"This being so, their wisdom decreases"</button>
+        <button class="opt">"This being so, they will be reborn in a bad place"</button>
+        <button class="opt">"This being so, their mind doesn't incline toward keenness, commitment, persistence, and striving" (the four energies of practice)</button>
+        <div class="expl"><strong>Correct: D.</strong> <em>Ātappa, anuyoga, sātacca, padhāna.</em> The fixed phrase that follows each obstacle. The diagnosis is precise — while these specific conditions operate, the will to practice is structurally blocked. These four together form the canonical description of right effort in action.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">The five shackles of the heart (cetasovinibandha) are different in character from the five kinds of hard-heartedness. What do shackles bind?</div>
+        <button class="opt">The body in space</button>
+        <button class="opt">The mind to wrong views</button>
+        <button class="opt">The heart's movement — preventing it from going free, in contrast to hard-heartedness which is the arid ground preventing growth</button>
+        <button class="opt">The community to the teacher</button>
+        <div class="expl"><strong>Correct: C.</strong> The Pāli imagery is precise. <em>Cetokhila</em> is "wasteland of the heart" — arid ground in which nothing grows. <em>Cetasovinibandha</em> is "shackle of the heart" — the binding that prevents movement. The two metaphors complement each other: even if growth could happen, the heart still can't go anywhere.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">The fourth shackle names a specific behavioral pattern. What is it?</div>
+        <button class="opt">Excessive study of texts</button>
+        <button class="opt">Talking too much with others</button>
+        <button class="opt">Going alone into the forest</button>
+        <button class="opt">Eating as much as one likes until the belly is full, then indulging in the pleasures of sleeping, lying down, and drowsing</button>
+        <div class="expl"><strong>Correct: D.</strong> The eat-sleep cycle that swallows a practitioner's time. The discourse names it as a shackle because it occupies attention and energy that would otherwise be available for practice — without naming any specific moral fault. The diagnosis is precise: it is the <em>cycle</em>, not the individual eating or sleeping, that binds.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">The fifth shackle is the discourse's quietest punch and the most easily missed. What does it name?</div>
+        <button class="opt">Spending too much time with householders</button>
+        <button class="opt">Eating meat</button>
+        <button class="opt">Owning robes that are too fine</button>
+        <button class="opt">Leading the spiritual life with the goal of being reborn as a god ("By this precept or observance or fervent austerity, may I become one of the gods!")</button>
+        <div class="expl"><strong>Correct: D.</strong> The diagnosis applies, in modern terms, to any practitioner who pursues contemplative training with goals that are themselves within the cycle of attachment: "to become a better person," "to have superpowers," "to be more spiritual than others," "to be liked by my teacher." All of these can be present even in someone whose external behavior is exemplary. The shackle is the goal, not the behavior.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">After giving up the ten obstacles, the practitioner develops additional positive factors. The fifteen total factors are made up of:</div>
+        <button class="opt">5 hindrances given up + 7 awakening factors + 3 trainings</button>
+        <button class="opt">4 doubts overcome + 1 anger healed + 5 shackles severed + 4 bases of psychic power + 1 sheer vigor = 15</button>
+        <button class="opt">10 wholesome deeds + 5 precepts</button>
+        <button class="opt">8 noble path factors + 4 noble truths + 3 marks of existence</button>
+        <div class="expl"><strong>Correct: B.</strong> The discourse counts them explicitly. The four <em>iddhipāda</em> (bases of psychic power) — <em>chanda</em> (enthusiasm), <em>viriya</em> (energy), <em>citta</em> (mental development), <em>vīmaṁsā</em> (inquiry) — plus <em>ussoḷhi</em> (sheer vigor) — bring the total to fifteen. These five join the ten obstacles overcome.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">The discourse closes with the famous incubating-hen simile. What is its specific pivotal phrase?</div>
+        <button class="opt">"The hen must work hard"</button>
+        <button class="opt">"The chicks always hatch"</button>
+        <button class="opt">"Even if that chicken doesn't wish: 'If only my chicks could break out…!' Still they can break out and hatch safely"</button>
+        <button class="opt">"The hen is wise"</button>
+        <div class="expl"><strong>Correct: C.</strong> The simile's pivot is the "even if she doesn't wish" clause. The hen doesn't need to <em>wish</em> for the chicks to hatch. The conditions are sufficient. The natural process completes itself. The point applied to practice: when the conditions are in place, the wishing-to-awaken is itself an extra layer that can be dropped. The breakthrough is the natural completion of the conditions.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">A modern practitioner might ask: "Are doubts really wrong? Isn't healthy doubt good?" What is the discourse's precise position?</div>
+        <button class="opt">All doubt is wrong</button>
+        <button class="opt">Doubt is always healthy</button>
+        <button class="opt">The discourse names <em>vicikicchā</em> — chronic, suspended doubt that prevents the mind from inclining toward practice. This is not investigative inquiry (which the canon encourages) but unresolved hovering. The honest question can be answered; the chronic hovering blocks all asking.</button>
+        <button class="opt">Doubt is only wrong for monastics</button>
+        <div class="expl"><strong>Correct: C.</strong> The category is not investigative doubt — which the canon elsewhere encourages — but <em>suspended</em> doubt that prevents commitment. The Pāli <em>vicikicchā</em> is the same hindrance listed in the five hindrances and the three fetters of stream-entry. It refers to a chronic, unresolved condition of the mind, not an honest question. The honest question can be pursued; the chronic hovering blocks both pursuing and resolving.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">cetokhila</span>emotional barrenness (5)</li>
+        <li><span class="pali">cetasovinibandha</span>shackle of the heart (5)</li>
+        <li><span class="pali">vicikicchā</span>(chronic) doubt</li>
+        <li><span class="pali">ātappa · anuyoga · sātacca · padhāna</span>the four energies of practice</li>
+        <li><span class="pali">iddhipāda</span>basis of psychic power (4)</li>
+        <li><span class="pali">chanda · viriya · citta · vīmaṁsā</span>enthusiasm · energy · mental development · inquiry</li>
+        <li><span class="pali">ussoḷhi</span>sheer vigor</li>
+        <li><span class="pali">kukkuṭī aṇḍāni</span>incubating-hen simile</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 15 · Self-Reflection (surface; MN 16 is deeper)</li>
+        <li>MN 53 · A Trainee (same hen simile)</li>
+        <li>AN 10.14 · Wilderness (parallel)</li>
+        <li>SN 51 · Iddhipāda Saṁyutta</li>
+        <li>MA 206 · Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn16/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN16.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "Wilderness of the Heart," with notes on the structure.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_206" target="_blank" rel="noopener">Northern parallel — MA 206</a> — the Chinese Madhyama-āgama counterpart ("Discourse on Mental Stains").</li>
+      <li><a href="https://suttacentral.net/mn53/en/sujato" target="_blank" rel="noopener">MN 53 · A Trainee</a> — uses the same incubating-hen simile in the closing.</li>
+      <li><a href="https://suttacentral.net/an10.14/en/sujato" target="_blank" rel="noopener">AN 10.14 · Wilderness</a> — the AN parallel treatment of the same ten obstacles.</li>
+      <li><a href="https://suttacentral.net/sn51.1/en/sujato" target="_blank" rel="noopener">SN 51 · Iddhipāda Saṁyutta</a> — the full Saṁyutta Nikāya collection on the four bases of psychic power that MN 16 references.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-015.html"><span class="label">← Previous</span>MN 15 · Self-Reflection</a>
+    <a href="mn-017.html" class="next"><span class="label">Next →</span>MN 17 · Jungle Thickets</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

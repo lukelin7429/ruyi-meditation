@@ -1,0 +1,1084 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 23 — The Termite Mound | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Vammikasutta — the riddle of the smoking, blazing termite mound delivered to Kassapa the Prince by a midnight deity, and the Buddha's decoding of fifteen images into the structure of the entire path. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 23
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 23</div>
+  <h1>The Termite Mound</h1>
+  <p class="subtitle"><em>Vammikasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>The Dark Forest (<em>Andhavana</em>) near Sāvatthī, late at night, where Venerable Kassapa the Prince (Kumārakassapa) is in retreat. A glorious deity lights up the forest, delivers a fifteen-part riddle, and vanishes.</dd>
+      <dt>Speakers</dt><dd>An unnamed glorious deity (the riddle-giver), Venerable Kassapa the Prince (the questioner), and the Buddha (the decoder)</dd>
+      <dt>Form</dt><dd>Four sections in three movements: the deity's riddle (§§1–2), Kassapa's morning question (§3), and the Buddha's decoding of all fifteen elements (§4). One of the canon's most compact single allegories of the entire path.</dd>
+      <dt>Length</dt><dd>~7 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>MA 95 (Madhyama-āgama 95, "Discourse on Abiding in the Teaching"), in the chapter on impurity; and EA 39.9</dd>
+      <dt>Difficulty</dt><dd>★★★☆☆ — narratively unusual (riddle frame), structurally elegant. The discourse takes a few minutes to read but rewards weeks of contemplation on the sequence of obstacles.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, twenty-third</h2>
+    <p class="lede">
+      MN 23 is one of the canon's most concentrated single allegories. A glorious deity appears to a mendicant late at night, delivers a riddle in fifteen pieces, names the Buddha as the only being in the world capable of answering it, and vanishes. The riddle's central image is a termite mound that smokes by night and flames by day. A brahmin tells a clever one to dig into it with a sword. They find, in sequence, seven things to throw out and one thing to worship. The Buddha's decoding turns the riddle into a structural map of the entire spiritual path.
+    </p>
+    <p>
+      The discourse is short — four sections — but every line is carrying weight. The body is the termite mound. The night-thinking that fumes is rumination on what was done during the day. The day-action that flames is what one does on the basis of that rumination. Wisdom is the sword. Energy is the digging. The seven things to throw out are seven sequential obstacles. The cobra at the bottom — the one thing not to disturb — is the arahant.
+    </p>
+    <p>
+      The discourse's structural insight is that the path is excavation, not addition. The practitioner is not building toward something they do not yet have. They are digging through the body they already inhabit, throwing out what is found, until only the cobra remains. The seven obstacles are encountered in a specific order, and each must be cleared before the next can be reached. The discourse compresses what other discourses spell out in much greater length into a single archaeological image.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      The body is a termite mound smoking with last night's rumination and blazing with today's action; the practitioner takes up the sword of wisdom, digs with the spade of energy, and throws out the seven obstacles encountered in sequence — until only the arahant-cobra remains, undisturbed at the bottom, and is to be worshipped.
+    </p>
+
+    <h3>The narrative frame (§1)</h3>
+    <p>
+      The discourse opens in the Dark Forest (<em>Andhavana</em>), a grove near Sāvatthī used by mendicants for serious retreat. Venerable Kassapa the Prince (<em>Kumārakassapa</em>) is staying there. He is one of the canon's named disciples — the Buddha later names him etadagga as "foremost in elaborated speech" (<em>cittakathika</em>), which is fitting given that this discourse hands him the canon's most pregnant single riddle.
+    </p>
+    <p>
+      Late at night a "glorious deity" — the standard canonical description for a high-realm being — lights up the entire forest and approaches Kassapa. The deity delivers the riddle in one continuous oration, names the Buddha as the only being capable of answering it, and vanishes. The framing is conventional in the discourses (many deities visit at night with questions or teachings) but the content of this particular riddle is unique.
+    </p>
+
+    <h3>The riddle itself (§2)</h3>
+    <p>
+      The riddle is a single elaborate dramatic scene. There is a termite mound that <em>fumes by night and flames by day</em>. There is a brahmin, and there is a clever one. The brahmin gives the same instruction eight times: <em>"Dig, clever one, having picked up the sword!"</em> Each time the clever one digs, they encounter something and report it. The brahmin tells them seven times to throw it out and dig further. The eighth time, finding a cobra, the brahmin gives a different instruction: <em>"Leave the cobra! Do not disturb the cobra! Worship the cobra!"</em>
+    </p>
+    <p>The eight things encountered in sequence:</p>
+    <ol>
+      <li>A sticking point (<em>langī</em>)</li>
+      <li>A bullfrog (<em>uddhumāyikā</em>)</li>
+      <li>A forked path (<em>dvedhāpatha</em>)</li>
+      <li>A filter of ash (<em>caṅgavāraka</em>)</li>
+      <li>A tortoise (<em>kummo</em>)</li>
+      <li>A butcher's knife and chopping board (<em>asi-sūnā</em>)</li>
+      <li>A scrap of meat (<em>maṃsa-pesi</em>)</li>
+      <li>A cobra (<em>nāga</em>) — to be left, undisturbed, worshipped</li>
+    </ol>
+    <p>
+      The deity's framing is striking: the riddle is positioned not as a puzzle for clever interpretation but as a question only the Buddha can answer. The mendicant Kassapa is to bring the riddle to the Buddha and remember the answer "in line with his answer." The deity is, in effect, sending the mendicant on an explicit pilgrimage to the source.
+    </p>
+
+    <h3>The Buddha's decoding (§4)</h3>
+    <p>The Buddha's decoding turns the riddle into a precise map. Each image corresponds to a specific element of practice:</p>
+    <table>
+      <thead><tr><th>Riddle image</th><th>Decoded meaning</th></tr></thead>
+      <tbody>
+        <tr><td>Termite mound</td><td>This body — made up of the four principal states (earth, water, fire, air), produced by mother and father, built up from rice and porridge, liable to impermanence, wearing away, breaking up, and destruction</td></tr>
+        <tr><td>Fuming by night</td><td>Thinking and considering all night about what you did during the day — rumination</td></tr>
+        <tr><td>Flaming by day</td><td>The work you apply yourself to during the day by body, speech, and mind after thinking about it all night — action driven by rumination</td></tr>
+        <tr><td>Brahmin</td><td>The Realized One, the perfected one, the fully awakened Buddha</td></tr>
+        <tr><td>Clever one</td><td>The trainee mendicant</td></tr>
+        <tr><td>Sword</td><td>Noble wisdom (<em>ariyā paññā</em>)</td></tr>
+        <tr><td>Digging</td><td>Rousing energy (<em>viriya-ārambha</em>)</td></tr>
+      </tbody>
+    </table>
+    <p>Then the seven obstacles to throw out, in their canonical sequence:</p>
+    <table>
+      <thead><tr><th>Riddle image</th><th>What to throw out</th></tr></thead>
+      <tbody>
+        <tr><td>Sticking point</td><td>Ignorance (<em>avijjā</em>)</td></tr>
+        <tr><td>Bullfrog</td><td>Anger and distress (<em>kodha-upāyāsa</em>)</td></tr>
+        <tr><td>Forked path</td><td>Doubt (<em>vicikicchā</em>)</td></tr>
+        <tr><td>Filter of ash</td><td>The five hindrances (sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt)</td></tr>
+        <tr><td>Tortoise</td><td>The five grasping aggregates (form, feeling, perception, choices, consciousness)</td></tr>
+        <tr><td>Butcher's knife and chopping board</td><td>The five kinds of sensual stimulation (sights, sounds, smells, tastes, touches — all that is likable, desirable, agreeable, pleasant, sensual, and arousing)</td></tr>
+        <tr><td>Scrap of meat</td><td>Greed and relishing (<em>nandi-rāga</em>)</td></tr>
+      </tbody>
+    </table>
+    <p>And the eighth, to be left alone and worshipped:</p>
+    <table>
+      <thead><tr><th>Riddle image</th><th>Decoded meaning</th></tr></thead>
+      <tbody>
+        <tr><td>Cobra</td><td>A mendicant who has ended the defilements — an arahant</td></tr>
+      </tbody>
+    </table>
+
+    <h3>The termite mound — what this body is</h3>
+    <p>
+      The Buddha's gloss on the termite mound is dense and worth slow attention. The body is named in three layers:
+    </p>
+    <ul>
+      <li><strong>Made up of the four principal states</strong> — earth (solidity), water (cohesion), fire (heat), air (motion). The classical canonical analysis of the body into the four primary elements.</li>
+      <li><strong>Produced by mother and father, built up from rice and porridge</strong> — the body has a biological history (parents) and a chemical history (food). It is not a metaphysical entity; it is a continuously sustained physical process.</li>
+      <li><strong>Liable to impermanence, wearing away and erosion, breaking up and destruction</strong> — the four standard fates of any compounded thing.</li>
+    </ul>
+    <p>
+      Calling such a body a "termite mound" is precise. A termite mound is a structure built by countless small organisms over time, looking solid from outside but riddled with passageways and chambers. The body, the discourse implies, is the same: a structure that looks like a unit but is actually a colony of interdependent processes.
+    </p>
+
+    <h3>The night-fume and the day-flame — what the mind does to the body</h3>
+    <p>
+      The image of <em>fuming by night, flaming by day</em> is one of the canon's sharpest psychological observations. The night fume is rumination: lying in the dark, going over what was done during the day, turning the day's events over and over. The day flame is what one does on the basis of that rumination: acting out, with body, speech, and mind, what one was thinking about all night.
+    </p>
+    <p>
+      The diagnosis is structural. The body is not just chemically warm; it is psychologically inflamed. And the inflammation is bidirectional: night thinking generates day action, day action generates night thinking. The two phases feed each other. Until something breaks the loop, the termite mound goes on fuming and flaming indefinitely.
+    </p>
+
+    <h3>The seven obstacles in their order</h3>
+    <p>
+      The sequence of obstacles is not random. It traces a specific trajectory through the canonical map of the defilements:
+    </p>
+    <ol>
+      <li><strong>Ignorance</strong> (the sticking point) — the most fundamental obstacle, named first because nothing else can be addressed until it is at least recognized as obstacle. <em>Langī</em> in Pāli is the "bar" or "obstruction" — the thing blocking the digger's first stroke.</li>
+      <li><strong>Anger and distress</strong> (the bullfrog) — the swollen, frog-like emotional reactivity that arises when ignorance is questioned. <em>Uddhumāyikā</em> literally means "the swollen one."</li>
+      <li><strong>Doubt</strong> (the forked path) — once anger is past, the next obstacle is the fork: which way to go? Doubt about the path itself.</li>
+      <li><strong>The five hindrances</strong> (the filter of ash) — the next layer down, the standard list of meditative obstructions: sensual desire, ill will, dullness/drowsiness, restlessness/remorse, doubt. The image of a "filter of ash" (<em>caṅgavāraka</em>) suggests a porous mass that lets nothing pass through cleanly.</li>
+      <li><strong>The five grasping aggregates</strong> (the tortoise) — at this depth, the practitioner encounters the structure of selfing itself. The aggregates are the tortoise's limbs and shell — visible but inseparable from the creature they constitute.</li>
+      <li><strong>The five kinds of sensual stimulation</strong> (the butcher's knife and chopping board) — the desires for sights, sounds, smells, tastes, touches. The image is unsentimental: sensual stimulation is what cuts the meditator apart, the way a butcher cuts meat on a board.</li>
+      <li><strong>Greed and relishing</strong> (the scrap of meat) — the residual attachment to the products of the senses, even after the senses themselves have been understood. <em>Nandi-rāga</em>: the subtle "yes, please" that follows pleasant contact.</li>
+    </ol>
+    <p>
+      The progression is from the densest obstacle (ignorance) to the subtlest (greed and relishing). Each must be cleared before the next can be reached. The discourse is naming a specific ordering of the work — not all obstacles at once, but one at a time, in this order.
+    </p>
+
+    <h3>The cobra — why "worship" it</h3>
+    <p>
+      At the bottom of the mound, the digger finds a cobra. The brahmin's instruction changes: <em>"Leave the cobra! Do not disturb the cobra! Worship the cobra!"</em> The Buddha's decoding: the cobra is an arahant.
+    </p>
+    <p>
+      The image is precise on several levels. The cobra is the most powerful creature one might find at the bottom of a termite mound. It is dangerous to the unprepared (the cobra simile of MN 22 is in the background). It is the one thing that cannot be thrown out, because it is the goal of the whole digging. And the instruction "worship" (<em>namaska</em>) is the canonical language of devotion toward a fully realized being.
+    </p>
+    <p>
+      But there is a subtlety. The cobra is not somewhere else — it is at the bottom of the mound. The arahant is not found by leaving the body and going elsewhere; the arahant is found by digging through the body all the way to the bottom. The termite mound, fully excavated, is what the arahant inhabits. Everything that was thrown out was what kept the cobra hidden.
+    </p>
+
+    <h3>The narrative function of the deity</h3>
+    <p>
+      One small detail is worth noting. The deity who delivers the riddle does not explain it. The deity is explicit: <em>"I don't see anyone in this world … who could provide a satisfying answer to this riddle except for the Realized One or his disciple or someone who has heard it from them."</em> The riddle's function in the narrative is to send Kassapa to the Buddha. The deity is, in a sense, a recruitment officer for the Dhamma — encountering a serious mendicant in retreat, planting a question dense enough to require direct consultation with the source.
+    </p>
+    <p>
+      This is one of the canon's structural features. Deities in the discourses regularly serve as catalysts for the spread of the teaching: they pose questions, they prompt encounters, they nudge mendicants toward the Buddha. They are not authoritative on their own; they are pointers. The discourse's structure quietly affirms the Buddha as the unique source of the Dhamma's decoding, while giving the mendicant a clear path: bring your puzzles to the source.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Is the order of the seven obstacles strictly sequential, or can a practitioner work on them in any order?"</strong> The discourse names a specific sequence, and the structural logic supports the ordering: ignorance has to be addressed first (otherwise none of the rest will even register as obstacles), and greed and relishing are last (because they are the subtlest residual). In practice, however, most mendicants find themselves working on several at once. The sequence is best read as a map of <em>depth</em> rather than a strict timeline: the deeper one digs, the more refined the obstacle. Surface practice begins with ignorance (recognizing that the practice is needed at all) and ends with the recognition of subtle "yes, please" residues even in the seemingly cleared states. The map is descriptive of completion; in the meantime, the practitioner works wherever they find themselves.</p>
+
+    <p><strong>"The riddle is solved in the very next discourse — why does the canon include such a compact piece? Couldn't this just be a verse?"</strong> The compactness is part of the teaching. MN 23 is among the canon's clearest demonstrations that the entire path can be held in a single image. The discourse's brevity is the discourse's point. A practitioner who memorizes the riddle and its decoding holds the structure of the path in a compressed mnemonic that can be unfolded as needed. Verse forms exist for this purpose elsewhere in the canon (the Dhammapada, the Sutta Nipāta), but the riddle structure is more powerful because it requires the practitioner to <em>decode</em> rather than recite. The decoding is itself a contemplative act.</p>
+
+    <p><strong>"Why does the deity say only the Buddha can answer? Couldn't a sufficiently wise mendicant work it out?"</strong> The deity's claim has two layers. <em>First</em>, the riddle has fifteen specific decodings — some general (body, mendicant, wisdom) and some highly technical (the precise enumeration of the five hindrances, the five aggregates, the five sensual fields). A mendicant who didn't already know the canonical lists would have no way to land on them as the correct answers. The riddle is decodable only by someone who has heard the Dhamma already. <em>Second</em>, the deity's framing affirms the Buddha as the source. The riddle is constructed in the Buddha's vocabulary; only he or those who have heard from him can land on the answers. The pedagogical effect is to send the mendicant to the source — which is also a doctrinal claim about how the Dhamma is to be transmitted.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">vammika</span> — termite mound / anthill. The discourse's central image and title. <em>Vammika</em> is specifically a mound built up by termites or large ants, a familiar feature of the Indian landscape. The Buddha decodes it as the body — a structure built up over time, looking solid from outside but riddled with passageways within.
+      </div>
+      <div class="term">
+        <span class="pali-word">Andhavana</span> — the Dark Forest. A specific grove near Sāvatthī, used by mendicants for serious retreat. Called "dark" because of the density of its canopy. The setting for the deity's nocturnal appearance.
+      </div>
+      <div class="term">
+        <span class="pali-word">Kumārakassapa</span> — Kassapa the Prince. The mendicant who receives the deity's riddle. <em>Kumāra</em> = prince / boy; he was raised in the royal court. The Buddha later names him etadagga as "foremost in elaborated speech" (<em>cittakathika</em>) — the natural recipient for this discourse's compressed riddle.
+      </div>
+      <div class="term">
+        <span class="pali-word">paññā</span> — wisdom. Decoded as the meaning of "sword." Not "knowledge" in the informational sense but the discriminating insight that can cut through what is encountered.
+      </div>
+      <div class="term">
+        <span class="pali-word">viriya-ārambha</span> — rousing of energy. Decoded as the meaning of "digging." The active mental and physical engagement that the path requires. Wisdom alone is not enough; the digger must actually dig.
+      </div>
+      <div class="term">
+        <span class="pali-word">avijjā</span> — ignorance. Decoded as the meaning of the "sticking point" — the first obstacle encountered, the bar that blocks all subsequent digging until it is removed.
+      </div>
+      <div class="term">
+        <span class="pali-word">pañca nīvaraṇā</span> — the five hindrances. Decoded as the "filter of ash": sensual desire (<em>kāmacchanda</em>), ill will (<em>byāpāda</em>), dullness and drowsiness (<em>thīnamiddha</em>), restlessness and remorse (<em>uddhaccakukkucca</em>), and doubt (<em>vicikicchā</em>). The standard canonical list of meditative obstructions.
+      </div>
+      <div class="term">
+        <span class="pali-word">pañca-upādāna-kkhandhā</span> — the five grasping aggregates. Decoded as the "tortoise": form (<em>rūpa</em>), feeling (<em>vedanā</em>), perception (<em>saññā</em>), choices (<em>saṅkhārā</em>), consciousness (<em>viññāṇa</em>). The aggregates that, when grasped at, constitute the felt sense of self.
+      </div>
+      <div class="term">
+        <span class="pali-word">pañca kāmaguṇā</span> — the five kinds of sensual stimulation. Decoded as "butcher's knife and chopping board": sights, sounds, smells, tastes, touches, all that is "likable, desirable, agreeable, pleasant, sensual, and arousing." The cutting board on which the unprepared mind is cut apart.
+      </div>
+      <div class="term">
+        <span class="pali-word">nandi-rāga</span> — greed and relishing. Decoded as the "scrap of meat" — the residual subtle attachment that survives even after the gross obstacles have been cleared. The "yes, please" that follows pleasant contact.
+      </div>
+      <div class="term">
+        <span class="pali-word">khīṇāsava</span> — one whose defilements have ended. Decoded as the "cobra" — the arahant. The eighth and final encounter at the bottom of the mound, not to be thrown out but to be worshipped.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 23 has four sections in three movements: the setting and the deity's riddle (§§1–2), Kassapa's morning question (§3), and the Buddha's decoding of all fifteen elements (§4). The discourse is short but every line is carrying weight. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The setting and the deity's riddle</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. Now at that time Venerable Kassapa the Prince was staying in the Dark Forest. Then, late at night, a glorious deity, lighting up the entire Dark Forest, went up to Kassapa the Prince, stood to one side, and said:</p>
+
+      <p><span class="segno">§2</span>"Monk, monk! This termite mound fumes by night and flames by day. The brahmin said, 'Dig, clever one, having picked up the sword!' Picking up the sword and digging, the clever one saw a sticking point: 'A sticking point, sir!' The brahmin said, 'Throw out the sticking point! Dig, clever one, having picked up the sword!' Picking up the sword and digging, the clever one saw a bullfrog: 'A bullfrog, sir!' The brahmin said, 'Throw out the bullfrog! Dig, clever one, having picked up the sword!' Picking up the sword and digging, the clever one saw a forked path: 'A forked path, sir!' The brahmin said, 'Throw out the forked path! Dig, clever one, having picked up the sword!' Picking up the sword and digging, the clever one saw a filter of ash: 'A filter of ash, sir!' The brahmin said, 'Throw out the filter of ash! Dig, clever one, having picked up the sword!' Picking up the sword and digging, the clever one saw a tortoise: 'A tortoise, sir!' The brahmin said, 'Throw out the tortoise! Dig, clever one, having taken up the sword!' Picking up the sword and digging, the clever one saw a butcher's knife and chopping board: 'A butcher's knife and chopping board, sir!' The brahmin said, 'Throw out the butcher's knife and chopping board! Dig, clever one, having picked up the sword!' Picking up the sword and digging, the clever one saw a scrap of meat: 'A scrap of meat, sir!' The brahmin said, 'Throw out the scrap of meat! Dig, clever one, having picked up the sword!' Picking up the sword and digging, the clever one saw a cobra: 'A cobra, sir!' The brahmin said, 'Leave the cobra! Do not disturb the cobra! Worship the cobra!' Mendicant, go to the Buddha and ask him about this riddle. You should remember it in line with his answer. I don't see anyone in this world — with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans — who could provide a satisfying answer to this riddle except for the Realized One or his disciple or someone who has heard it from them." That is what that deity said before vanishing right there.</p>
+
+      <h3>Kassapa goes to the Buddha</h3>
+
+      <p><span class="segno">§3</span>Then, when the night had passed, Kassapa the Prince went to the Buddha, bowed, sat down to one side, and told him what had happened. Then he asked: "Sir, what is the termite mound? What is the fuming by night and flaming by day? Who is the brahmin, and who the clever one? What are the sword, the digging, the sticking point, the bullfrog, the forked path, the filter of ash, the tortoise, the butcher's knife and chopping board, and the scrap of meat? And what is the cobra?"</p>
+
+      <h3>The Buddha's decoding</h3>
+
+      <p><span class="segno">§4</span>"Mendicant, 'termite mound' is a term for this body made up of the four principal states, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction. Thinking and considering all night about what you did during the day — this is the fuming at night. The work you apply yourself to during the day by body, speech, and mind after thinking about it all night — this is the flaming by day. 'Brahmin' is a term for the Realized One, the perfected one, the fully awakened Buddha. 'Clever one' is a term for the trainee mendicant. 'Sword' is a term for noble wisdom. 'Digging' is a term for rousing energy. 'Sticking point' is a term for ignorance. 'Throw out the sticking point' means 'give up ignorance, dig, clever one, having picked up the sword.' 'Bullfrog' is a term for anger and distress. 'Throw out the bullfrog' means 'give up anger and distress' … 'A forked path' is a term for doubt. 'Throw out the forked path' means 'give up doubt' … 'A filter of ash' is a term for the five hindrances, that is: the hindrances of sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt. 'Throw out the filter of ash' means 'give up the five hindrances' … 'Tortoise' is a term for the five grasping aggregates, that is: form, feeling, perception, choices, and consciousness. 'Throw out the tortoise' means 'give up the five grasping aggregates' … 'Butcher's knife and chopping board' is a term for the five kinds of sensual stimulation. Sights known by the eye, which are likable, desirable, agreeable, pleasant, sensual, and arousing. Sounds known by the ear … Smells known by the nose … Tastes known by the tongue … Touches known by the body, which are likable, desirable, agreeable, pleasant, sensual, and arousing. 'Throw out the butcher's knife and chopping board' means 'give up the five kinds of sensual stimulation' … 'Scrap of meat' is a term for greed and relishing. 'Throw out the scrap of meat' means 'give up greed and relishing' … 'Cobra' is a term for a mendicant who has ended the defilements. This is the meaning of: 'Leave the cobra! Do not disturb the cobra! Worship the cobra!'"</p>
+
+      <p style="margin-top:20px"><strong>That is what the Buddha said. Satisfied, Venerable Kassapa the Prince approved what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">The discourse opens with an unusual narrative frame. Who delivers the riddle, where, and to whom?</div>
+        <button class="opt">The Buddha delivers it to Sāriputta in Jeta's Grove at midday</button>
+        <button class="opt">Ānanda recites it to a gathering of nuns in the morning</button>
+        <button class="opt">A glorious deity, lighting up the Dark Forest (Andhavana), delivers it to Venerable Kassapa the Prince (Kumārakassapa) late at night, then vanishes</button>
+        <button class="opt">A wandering ascetic shouts it across a river at a passing caravan</button>
+        <div class="expl"><strong>Correct: C.</strong> The framing is conventional in many discourses (deities visit at night) but the content of this particular riddle is unique. Kassapa the Prince is later named by the Buddha as etadagga "foremost in elaborated speech" — fitting for the disciple who receives the canon's most pregnant single riddle.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">Why does the deity tell Kassapa to bring the riddle to the Buddha specifically?</div>
+        <button class="opt">Because the deity does not know the answer and is curious</button>
+        <button class="opt">Because, the deity explicitly says, no one in this world — with its gods, Māras, divinities, ascetics, brahmins, or humans — can provide a satisfying answer except the Realized One or his disciples or those who have heard it from them</button>
+        <button class="opt">Because the Buddha is the only person who lives nearby</button>
+        <button class="opt">Because the riddle is part of an official examination</button>
+        <div class="expl"><strong>Correct: B.</strong> The deity's framing affirms the Buddha as the unique source of the Dhamma's decoding. Structurally, deities in the discourses regularly serve as catalysts: they pose questions and prompt encounters, but they are not authoritative on their own. They point toward the source.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">In the Buddha's decoding, what is the "termite mound"?</div>
+        <button class="opt">The monastic community (Sangha)</button>
+        <button class="opt">The mind</button>
+        <button class="opt">The eternalist view of self</button>
+        <button class="opt">This body — made up of the four principal states (earth, water, fire, air), produced by mother and father, built up from rice and porridge, liable to impermanence, wearing away, breaking up, and destruction</button>
+        <div class="expl"><strong>Correct: D.</strong> Calling the body a "termite mound" is precise. A termite mound is built by countless small organisms over time, looking solid from outside but riddled with passageways within. The body, the discourse implies, is the same: a structure that looks like a unit but is actually a colony of interdependent processes.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What do "fuming by night" and "flaming by day" mean, in the Buddha's decoding?</div>
+        <button class="opt">Fuming by night = thinking and considering all night about what you did during the day (rumination); flaming by day = the work you apply yourself to during the day by body, speech, and mind after thinking about it all night (action driven by rumination)</button>
+        <button class="opt">Fuming by night = digestive heat; flaming by day = the heat of the sun on the skin</button>
+        <button class="opt">Fuming by night = nightmares; flaming by day = anger</button>
+        <button class="opt">Fuming by night = secret crimes; flaming by day = visible crimes</button>
+        <div class="expl"><strong>Correct: A.</strong> The image is one of the canon's sharpest psychological observations. The diagnosis is structural and bidirectional: night thinking generates day action, day action generates night thinking. The two phases feed each other. Until something breaks the loop, the termite mound goes on fuming and flaming indefinitely.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">In the decoding, what are the "sword" and the "digging"?</div>
+        <button class="opt">The sword = energy; the digging = wisdom</button>
+        <button class="opt">The sword = mindfulness; the digging = concentration</button>
+        <button class="opt">The sword = noble wisdom (paññā); the digging = rousing energy (viriya-ārambha)</button>
+        <button class="opt">The sword = the four noble truths; the digging = the noble eightfold path</button>
+        <div class="expl"><strong>Correct: C.</strong> Wisdom is the cutting instrument; energy is the active engagement. The discourse is making a structural point: wisdom alone is not enough — the digger must actually dig. Both must be present together for the excavation to proceed.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">The first thing the clever one finds, and the first thing the brahmin says to throw out, is the "sticking point" (langī). What does it stand for?</div>
+        <button class="opt">Conceit ("I am")</button>
+        <button class="opt">Ignorance (avijjā) — the most fundamental obstacle, named first because nothing else can be addressed until it is at least recognized as obstacle</button>
+        <button class="opt">Stinginess</button>
+        <button class="opt">Doubt</button>
+        <div class="expl"><strong>Correct: B.</strong> Ignorance is the bar that blocks all subsequent digging until it is removed. The sequence of seven obstacles is not random — it traces a specific trajectory from the densest obstacle (ignorance) to the subtlest (greed and relishing). Each must be cleared before the next can be reached.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">The "filter of ash" (caṅgavāraka) is decoded as what?</div>
+        <button class="opt">The four noble truths</button>
+        <button class="opt">The five aggregates</button>
+        <button class="opt">The four foundations of mindfulness</button>
+        <button class="opt">The five hindrances — sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt — the standard canonical list of meditative obstructions</button>
+        <div class="expl"><strong>Correct: D.</strong> The image of a "filter of ash" suggests a porous mass that lets nothing pass through cleanly — a fitting image for the five hindrances, which together obstruct meditative absorption. The five hindrances are the standard list that appears throughout the canon as the immediate obstacles to samādhi.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">The "butcher's knife and chopping board" (asi-sūnā) is decoded as what?</div>
+        <button class="opt">The five kinds of sensual stimulation — sights, sounds, smells, tastes, touches, all "likable, desirable, agreeable, pleasant, sensual, and arousing"</button>
+        <button class="opt">The five aggregates</button>
+        <button class="opt">The four kinds of nutriment</button>
+        <button class="opt">The four ways of misconduct</button>
+        <div class="expl"><strong>Correct: A.</strong> The image is unsentimental: sensual stimulation is what cuts the meditator apart, the way a butcher cuts meat on a board. The five kāma-guṇa (sensual fields) are the standard canonical enumeration of all the ways the senses are stimulated by their objects.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">The seventh thing the digger encounters — the "scrap of meat" (maṃsa-pesi) — is decoded as what?</div>
+        <button class="opt">Anger</button>
+        <button class="opt">The five lower fetters</button>
+        <button class="opt">Greed and relishing (nandi-rāga) — the residual subtle attachment to the products of the senses that survives even after the gross obstacles have been cleared; the "yes, please" that follows pleasant contact</button>
+        <button class="opt">Wrong view</button>
+        <div class="expl"><strong>Correct: C.</strong> The seventh obstacle is the subtlest. By the time the practitioner reaches it, the gross sensual fields have been understood — but the subtle "relishing" of pleasant contact can persist. Nandi-rāga is the canonical name for this residual subtle attachment, and it must be cleared before the final encounter (the cobra) can be approached.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">At the bottom of the mound, the digger finds a cobra. The brahmin's instruction changes: "Leave the cobra! Do not disturb the cobra! Worship the cobra!" What does the cobra stand for, and why "worship"?</div>
+        <button class="opt">The cobra is craving; "worship" means to recognize its power and respect it</button>
+        <button class="opt">The cobra is the Buddha as a literal protector; "worship" means to bow to him</button>
+        <button class="opt">The cobra is wrong view; "worship" is ironic</button>
+        <button class="opt">The cobra is a mendicant who has ended the defilements — an arahant. The cobra is at the bottom of the mound, not somewhere else: the arahant is found by digging through the body all the way to the bottom, not by leaving the body and going elsewhere. Everything that was thrown out was what kept the cobra hidden.</button>
+        <div class="expl"><strong>Correct: D.</strong> The image is precise. The cobra is the most powerful creature one might find at the bottom of a termite mound — dangerous to the unprepared (cf. MN 22's cobra simile), the one thing that cannot be thrown out because it is the goal of the whole digging. The arahant is the termite mound, fully excavated, with all seven obstacles cleared.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">vammika</span>termite mound</li>
+        <li><span class="pali">Andhavana</span>the Dark Forest</li>
+        <li><span class="pali">Kumārakassapa</span>Kassapa the Prince</li>
+        <li><span class="pali">paññā</span>wisdom (the sword)</li>
+        <li><span class="pali">viriya-ārambha</span>energy (the digging)</li>
+        <li><span class="pali">avijjā</span>ignorance (sticking point)</li>
+        <li><span class="pali">pañca nīvaraṇā</span>five hindrances (filter of ash)</li>
+        <li><span class="pali">pañca-upādāna-kkhandhā</span>five grasping aggregates (tortoise)</li>
+        <li><span class="pali">pañca kāmaguṇā</span>five sensual fields (butcher's board)</li>
+        <li><span class="pali">nandi-rāga</span>greed and relishing (scrap of meat)</li>
+        <li><span class="pali">khīṇāsava</span>arahant (cobra)</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 22 · Cobra simile (right vs. wrong grasp)</li>
+        <li>MN 24 · A Chariot at the Ready (next)</li>
+        <li>SN 46.51 · Foods for the hindrances</li>
+        <li>MA 95 · Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn23/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN23.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "The Ant-Hill," with notes on the riddle structure.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_095" target="_blank" rel="noopener">Northern parallel — MA 95</a> — the Chinese Madhyama-āgama counterpart, in the chapter on impurity.</li>
+      <li><a href="mn-022.html">MN 22 · The Simile of the Cobra</a> — the immediately preceding discourse, with the other major cobra image (right grasp vs. wrong grasp) that hovers in the background of MN 23's "worship the cobra."</li>
+      <li><a href="https://suttacentral.net/mn24/en/sujato" target="_blank" rel="noopener">MN 24 · A Chariot at the Ready</a> — the next discourse in the Opammavagga, featuring Kumārakassapa's spiritual older brother Puṇṇa Mantāniputta in the seven-stage chariot dialogue.</li>
+      <li><a href="https://suttacentral.net/sn46.51/en/sujato" target="_blank" rel="noopener">SN 46.51 · Foods (for the Hindrances)</a> — a Saṃyutta Nikāya treatment of the five hindrances (the "filter of ash" in MN 23) and what feeds vs. starves each one.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-022.html"><span class="label">← Previous</span>MN 22 · The Simile of the Cobra</a>
+    <a href="mn-024.html" class="next"><span class="label">Next →</span>MN 24 · A Chariot at the Ready</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

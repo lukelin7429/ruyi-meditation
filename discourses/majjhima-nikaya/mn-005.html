@@ -1,0 +1,1097 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 5 — Unblemished | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Anaṅgaṇasutta — Sāriputta on the four kinds of practitioner and the subtle blemishes of monastic life. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 5
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 5</div>
+  <h1>Unblemished</h1>
+  <p class="subtitle"><em>Anaṅgaṇasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī</dd>
+      <dt>Speakers</dt><dd>Venerable Sāriputta to the assembly, with Venerable Mahāmoggallāna asking questions and offering a closing simile</dd>
+      <dt>Form</dt><dd>33 sections in dialogue form. The two foremost disciples — Sāriputta (wisdom) and Mahāmoggallāna (psychic power) — speak together for the first time in the MN</dd>
+      <dt>Length</dt><dd>~15 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>MA 87 (Madhyama-āgama 87, in the same "stains" chapter as MN 3's parallel)</dd>
+      <dt>Difficulty</dt><dd>★★☆☆☆ — easy to read, painfully easy to recognize yourself in</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, fifth</h2>
+    <p class="lede">
+      MN 3 introduced Sāriputta speaking after the Buddha leaves. MN 5 takes that one step further: this time Sāriputta speaks without the Buddha appearing at all, and Mahāmoggallāna joins him. It is the first MN discourse where the community's two foremost disciples — the foremost in wisdom and the foremost in psychic power — teach side by side.
+    </p>
+    <p>
+      The topic is the kind of defilement that is hardest for serious practitioners to see. Not gross greed or hatred — those are obvious — but the subtle ego of monastic life: the wish that you, and not someone else, be the one called on to teach; that you, and not someone else, get the best seat in the refectory; that the laypeople come to honor you, not the colleague in the next cell. Sāriputta lists ten of these wishes with brutal specificity. Anyone who has lived in a community will recognize all ten.
+    </p>
+    <p>
+      The discourse also delivers one of the canon's most memorable framings of the self-knowledge problem: among practitioners with the same actual condition, the one who <em>knows</em> their condition is better than the one who does not. To know your blemish is the door to giving it up. To not know it — even if there is nothing to know — is to be vulnerable to its formation.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Among practitioners, what matters is not whether you have a blemish but whether you know — and the subtlest blemishes look exactly like the wishes any serious practitioner is tempted by.
+    </p>
+
+    <h3>The four-person framework</h3>
+    <p>Sāriputta opens by laying out four kinds of person:</p>
+    <table>
+      <thead>
+        <tr><th>#</th><th>Has a blemish?</th><th>Knows it?</th><th>Verdict</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Yes</td><td>No</td><td>Worse</td></tr>
+        <tr><td>2</td><td>Yes</td><td>Yes</td><td>Better (of the two with a blemish)</td></tr>
+        <tr><td>3</td><td>No</td><td>No</td><td>Worse</td></tr>
+        <tr><td>4</td><td>No</td><td>Yes</td><td>Better (of the two without)</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The framework is counter-intuitive at first. We usually rate people by their condition, not by what they know about their condition. Sāriputta's verdict is the opposite: within each pair, knowing trumps not-knowing. The unblemished person who doesn't know they're unblemished — type 3 — is judged worse than the blemished person who knows they are — type 2. Mahāmoggallāna's question, naturally, is: <em>why?</em>
+    </p>
+
+    <h3>The bronze cup similes — why knowing matters</h3>
+    <p>Sāriputta answers with four parallel similes, one for each type:</p>
+    <table>
+      <thead><tr><th>Cup</th><th>Treatment</th><th>Outcome</th></tr></thead>
+      <tbody>
+        <tr><td>Dirty</td><td>Kept in a dirty place, never cleaned</td><td>Gets dirtier</td></tr>
+        <tr><td>Dirty</td><td>Used and cleaned regularly</td><td>Gets cleaner</td></tr>
+        <tr><td>Clean</td><td>Kept in a dirty place, never used or cleaned</td><td>Gets dirty</td></tr>
+        <tr><td>Clean</td><td>Used and cleaned regularly</td><td>Stays bright</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The mechanism is direct. Knowing your blemish moves you to act on it — to "generate enthusiasm, make an effort, rouse up energy" to give it up. Not knowing leaves the blemish to grow, regardless of how light it began. Even a clean cup will get dirty in a dirty place if no one notices and tends to it. Type 3 — the unblemished person unaware of being unblemished — will dwell on attractive surfaces, "focus on the feature of beauty," and let lust enter the mind. Without awareness, even purity decays.
+    </p>
+
+    <h3>What "blemish" means</h3>
+    <p>
+      Mahāmoggallāna then asks the obvious follow-up: <em>"What is 'blemish' a term for?"</em> Sāriputta's answer is precise: <em>"'Blemish' is a term for the spheres of bad, unskillful wishes."</em> Not gross defilements like greed and hatred — those will be named later — but <em>wishes</em>. The blemish is the subtle preferring of self over not-self in any specific situation. It begins as a wish; if frustrated, becomes anger and bitterness; and that anger and bitterness, Sāriputta says, are the blemishes.
+    </p>
+
+    <h3>The ten bad wishes — the politics of a sangha</h3>
+    <p>Sāriputta then lists ten specific wishes that arise in monastic life. Read them slowly:</p>
+    <ol>
+      <li>"I hope no one finds out if I commit an offense."</li>
+      <li>"If they find out, I hope I'm accused in private, not in the middle of the Saṅgha."</li>
+      <li>"If accused, I hope it's by a peer, not by someone who is not a peer."</li>
+      <li>"I hope the Teacher questions me alone, not some other monk."</li>
+      <li>"I hope I'm placed at the front when the monks enter the village for the meal."</li>
+      <li>"I hope I get the best seat, the best drink, and the best almsfood in the refectory."</li>
+      <li>"I hope it's me who gives the verses of appreciation after the meal."</li>
+      <li>"I hope it's me who teaches the laity in the monastery."</li>
+      <li>"I hope it's me whom the laypeople honor, respect, revere, and venerate."</li>
+      <li>"I hope I get the nicest robes, almsfood, lodgings, and medicines."</li>
+    </ol>
+    <p>
+      For each, Sāriputta gives the structural completion: the wish goes unfulfilled, the monk gets angry and bitter, and <em>that anger and that bitterness are blemishes</em>. The list is uncomfortable because the wishes are so reasonable on their surface. None of them is gross sensual greed. Each is the kind of preference any person in a community will recognize having held — the wish to be the one chosen, recognized, asked, served.
+    </p>
+
+    <h3>The two great similes — what others see</h3>
+    <p>
+      Sāriputta closes the teaching with two contrasting images that frame how others perceive the blemished and the unblemished practitioner.
+    </p>
+    <p>
+      <strong>The carcass cup (§29).</strong> A bright bronze cup, brought clean from the smithy, but filled with the carcass of a snake, a dog, or a human and covered with a lid. Paraded through the market. People see the polished outside and say, <em>"What is it you're carrying like a precious treasure?"</em> The lid is lifted. Loathing, revulsion, disgust. Even the hungry will not eat from it.
+    </p>
+    <p>
+      This is the practitioner whose outer austerity (forest-dwelling, alms-going, rag-robes, shabby robes) is visible but whose unskillful wishes remain. The community sees through the polish. Their spiritual companions do not honor them — not because of any failure in the outward forms, but because the inner spoilage is detectable.
+    </p>
+    <p>
+      <strong>The fine-rice cup (§30).</strong> The same bright cup, now filled with carefully cleaned rice, soups, and sauces. Paraded through the market. The lid is lifted. Liking, attraction, relish. Even the replete want to eat from it.
+    </p>
+    <p>
+      This is the practitioner whose outer life may be ordinary (village-dwelling, accepting meal invitations, wearing householder-offered robes), but whose unskillful wishes are gone. Their spiritual companions honor them — not because of the outer marks, but because the inner cleanness is detectable.
+    </p>
+    <p>
+      Together the two similes do something subtle: they decouple <em>visible austerity</em> from <em>actual purity</em>. A community can be fooled momentarily by the surface; over time, it sees what is inside. The teaching is also a warning to any monastic tempted to use forms of asceticism as a stage prop — Sāriputta is naming the temptation directly.
+    </p>
+
+    <h3>Mahāmoggallāna's wheelwright simile</h3>
+    <p>
+      The discourse ends with an unexpected turn. Mahāmoggallāna says a simile has struck him, and Sāriputta invites him to share it. Mahāmoggallāna recalls watching a wheelwright named Samīti planing a chariot-wheel rim. A bystander, the ascetic Paṇḍuputta (himself a former wheelwright), silently thought, <em>"I hope he planes out exactly the flaws I can see — the crooks, the bends, the imperfections in the core."</em> And the wheelwright, working freely, planed them out precisely as the watcher had hoped. The bystander, amazed, exclaimed: <em>"He planes like he knows my heart with his heart!"</em>
+    </p>
+    <p>
+      Mahāmoggallāna applies the simile to Sāriputta: the faithless monastic who entered the order for material reasons is being <em>planed</em> by this very discourse. Sāriputta's teaching, like the wheelwright's hand, removes exactly the flaws a careful observer would have wanted removed. The discourse ends with Sāriputta and Mahāmoggallāna agreeing with each other's fine words — the only place in the Majjhima Nikāya where two senior disciples close a discourse in mutual appreciation.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The ten wishes are not specific to monastics. Any professional community runs on a version of them: <em>I hope I'm the one consulted on this case; I hope I'm asked to speak; I hope my work is noticed; I hope my office is the better one</em>. The discourse's diagnostic power is that it names these wishes <em>as wishes</em>, not as ambitions or healthy professional pride. The mark of a blemish is not the content of the wish but its structure: <em>I want this for me, and not for someone else</em>. The remedy is not to suppress ambition but to recognize the structure when it arises — and to notice that frustration of these wishes is what hardens into anger and bitterness.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Isn't this list just naming healthy professional ambition? Aren't some of these wishes okay?"</strong> The discourse's framing is precise. The blemish is not the wish that any particular outcome happen, but the wish that <em>it happen for me and not for someone else</em>. A monastic who wishes the Dharma be taught well in this assembly does not have a blemish. A monastic who wishes <em>they personally</em> teach it, and is angered when another is chosen, does.</p>
+
+    <p><strong>"Why is the unblemished person who doesn't know that they're unblemished judged worse than the blemished one who knows?"</strong> Because the unblemished-unaware person, lacking the discipline of self-examination, will drift into blemish. Sāriputta says they will "focus on the feature of beauty," and lust will enter the mind. Without ongoing awareness, the cup will get dirty in the dirty room — even a clean cup. Purity that is not held in awareness is purity that will not last.</p>
+
+    <p><strong>"What does it mean that Mahāmoggallāna's simile is praised at the end? Isn't Sāriputta the teacher here?"</strong> The closing — <em>"these two spiritual giants agreed with each others' fine words"</em> — is a quiet structural statement about the maturity of the sangha. The two foremost disciples can teach side by side, each adding to the other's exposition, without rank or rivalry. MN 3 showed that the Dharma is not in the Buddha's voice alone. MN 5 shows that even among the senior disciples it is collaborative.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">aṅgaṇa</span> — blemish, stain. Literally a mark on otherwise clean ground. In this discourse, a term for the subtle "spheres of bad, unskillful wishes" that arise in a serious practitioner.
+      </div>
+      <div class="term">
+        <span class="pali-word">anaṅgaṇa</span> — unblemished. The title of the discourse. The privative <em>an-</em> + <em>aṅgaṇa</em>: a practitioner whose wishes for self-over-other have been given up.
+      </div>
+      <div class="term">
+        <span class="pali-word">pāpaka akusala icchā</span> — bad, unskillful wishes. The specific term Sāriputta uses to define what a "blemish" is. The three words together: <em>pāpaka</em> (harmful) + <em>akusala</em> (unskillful) + <em>icchā</em> (wish, desire). Together they cover the full register of subtle preferring.
+      </div>
+      <div class="term">
+        <span class="pali-word">kodha</span> — anger. What arises when an unfulfilled wish is recognized as unfulfilled. Sāriputta is clear: <em>that</em> anger, and the bitterness that follows, are themselves the blemishes.
+      </div>
+      <div class="term">
+        <span class="pali-word">upanāha</span> — bitterness, resentment, "grudge held." The companion to anger, often translated as the hardening of anger over time. Both are listed as blemishes.
+      </div>
+      <div class="term">
+        <span class="pali-word">brāhmaṇa</span> — in the discourse used in its old sense: a person of true spiritual worth (not the social caste). Sāriputta uses "spiritual companions" (<em>sabrahmacārī</em>) — those living the holy life alongside the practitioner — for who sees and judges.
+      </div>
+      <div class="term">
+        <span class="pali-word">subhanimitta</span> — the "feature of beauty," the sign of the beautiful. What the unblemished-unaware practitioner focuses on, and through which lust enters the mind. The technical Pāli term for what an undefended attention rests on.
+      </div>
+      <div class="term">
+        <span class="pali-word">sabrahmacārī</span> — spiritual companions, fellow practitioners. The community whose perception of the practitioner is the implicit audience of the entire discourse: the practitioner's <em>sabrahmacārī</em> are the ones who do or do not honor them.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 5 has 33 sections in three movements: the four-person framework with its four bronze-cup similes (§§1–8), Sāriputta's definition of "blemish" with the ten specific wishes and the two contrasting cup similes (§§9–30), and Mahāmoggallāna's wheelwright simile with Sāriputta's closing exposition (§§31–33). Some of the ten wish-examples (§§18–24, 26–27) are abbreviated in Sujato's print form. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The four-person framework</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There Sāriputta addressed the mendicants: "Reverends, mendicants!" "Reverend," they replied. Sāriputta said this:</p>
+
+      <p><span class="segno">§2</span>"Reverends, these four individuals are found in the world. What four? One individual with a blemish doesn't truly understand: 'There is a blemish in me.' But another individual with a blemish does truly understand: 'There is a blemish in me.' One individual without a blemish doesn't truly understand: 'There is no blemish in me.' But another individual without a blemish does truly understand: 'There is no blemish in me.' In this case, of the two individuals with a blemish, the one who doesn't understand is said to be worse, while the one who does understand is better. And of the two individuals without a blemish, the one who doesn't understand is said to be worse, while the one who does understand is better."</p>
+
+      <p><span class="segno">§3</span>When he said this, Venerable Mahāmoggallāna said to him: "What is the cause, Reverend Sāriputta, what is the reason why, of the two individuals with a blemish, one is said to be worse and one better? And what is the cause, what is the reason why, of the two individuals without a blemish, one is said to be worse and one better?"</p>
+
+      <h3>The four bronze-cup similes</h3>
+
+      <p><span class="segno">§4</span>"Reverends, take the case of the individual who has a blemish and does not understand it. You can expect that they won't generate enthusiasm, make an effort, or rouse up energy to give up that blemish. And they will die with greed, hate, and delusion, blemished, with a corrupted mind. Suppose a bronze cup was brought from a shop or smithy covered with dirt or stains. And the owners neither used it or had it cleaned, but kept it in a dirty place. Over time, wouldn't that bronze cup get even dirtier and more stained?" "Yes, reverend." "In the same way, take the case of the individual who has a blemish and does not understand it. You can expect that … they will die with a corrupted mind.</p>
+
+      <p><span class="segno">§5</span>Take the case of the individual who has a blemish and does understand it. You can expect that they will generate enthusiasm, make an effort, and rouse up energy to give up that blemish. And they will die without greed, hate, and delusion, unblemished, with an uncorrupted mind. Suppose a bronze cup was brought from a shop or smithy covered with dirt or stains. But the owners used it and had it cleaned, and didn't keep it in a dirty place. Over time, wouldn't that bronze cup get cleaner and brighter?" "Yes, reverend." "In the same way, take the case of the individual who has a blemish and does understand it. You can expect that … they will die with an uncorrupted mind.</p>
+
+      <p><span class="segno">§6</span>Take the case of the individual who doesn't have a blemish but does not understand it. You can expect that they will focus on the feature of beauty, and because of that, lust will infect their mind. And they will die with greed, hate, and delusion, blemished, with a corrupted mind. Suppose a bronze cup was brought from a shop or smithy clean and bright. And the owners neither used it or had it cleaned, but kept it in a dirty place. Over time, wouldn't that bronze cup get dirtier and more stained?" "Yes, reverend." "In the same way, take the case of the individual who has no blemish and does not understand it. You can expect that … they will die with a corrupted mind.</p>
+
+      <p><span class="segno">§7</span>Take the case of the individual who doesn't have a blemish and does understand it. You can expect that they won't focus on the feature of beauty, and because of that, lust won't infect their mind. And they will die without greed, hate, and delusion, unblemished, with an uncorrupted mind. Suppose a bronze cup was brought from a shop or smithy clean and bright. And the owners used it and had it cleaned, and didn't keep it in a dirty place. Over time, wouldn't that bronze cup get cleaner and brighter?" "Yes, reverend." "In the same way, take the case of the individual who doesn't have a blemish and does understand it. You can expect that … they will die with an uncorrupted mind.</p>
+
+      <p><span class="segno">§8</span>This is the cause, this is the reason why, of the two individuals with a blemish, one is said to be worse and one better. And this is the cause, this is the reason why, of the two individuals without a blemish, one is said to be worse and one better."</p>
+
+      <h3>What "blemish" means</h3>
+
+      <p><span class="segno">§9</span>"Reverend, the word 'blemish' is spoken of. But what is 'blemish' a term for?" "Reverend, 'blemish' is a term for the spheres of bad, unskillful wishes.</p>
+
+      <p><span class="segno">§10</span>It's possible that some mendicant might wish: 'If I commit an offense, I hope the mendicants don't find out!' But it's possible that the mendicants do find out that that mendicant has committed an offense. Thinking, 'The mendicants have found out about my offense,' they get angry and bitter. And that anger and that bitterness are both blemishes.</p>
+
+      <p><span class="segno">§11</span>It's possible that some mendicant might wish: 'If I commit an offense, I hope the mendicants accuse me in private, not in the middle of the Saṅgha.' But it's possible that the mendicants do accuse that mendicant in the middle of the Saṅgha …</p>
+
+      <p><span class="segno">§12</span>It's possible that some mendicant might wish: 'If I commit an offense, I hope I'm accused by a peer, not by someone who is not a peer.' But it's possible that someone who is not a peer accuses that mendicant …</p>
+
+      <p><span class="segno">§13</span>It's possible that some mendicant might wish: 'Oh, I hope the Teacher will teach the mendicants by repeatedly questioning me alone, not some other mendicant.' But it's possible that the Teacher will teach the mendicants by repeatedly questioning some other mendicant …</p>
+
+      <p><span class="segno">§14</span>It's possible that some mendicant might wish: 'Oh, I hope the mendicants will enter the village for the meal putting me at the very front, not some other mendicant.' But it's possible that the mendicants will enter the village for the meal putting some other mendicant at the very front …</p>
+
+      <p><span class="segno">§15</span>It's possible that some mendicant might wish: 'Oh, I hope that I alone get the best seat, the best drink, and the best almsfood in the refectory, not some other mendicant.' But it's possible that some other mendicant gets the best seat, the best drink, and the best almsfood in the refectory …</p>
+
+      <p><span class="segno">§16</span>It's possible that some mendicant might wish: 'I hope that I alone give the verses of appreciation after eating in the refectory, not some other mendicant.' But it's possible that some other mendicant gives the verses of appreciation after eating in the refectory …</p>
+
+      <p><span class="segno">§17</span>It's possible that some mendicant might wish: 'Oh, I hope that I might teach the Dhamma to the monks, nuns, laymen, and laywomen in the monastery, not some other mendicant.'</p>
+
+      <div class="compact">
+        <strong>§§18–20</strong> — The same wish-and-frustration structure, repeated for: the mendicants teaching others instead, the nuns teaching, the laymen teaching, the laywomen teaching. Each ends with the same conclusion: anger and bitterness arise; that anger and that bitterness are blemishes.
+      </div>
+
+      <p><span class="segno">§21</span>It's possible that some mendicant might wish: 'Oh, I hope that the monks, nuns, laymen, and laywomen will honor, respect, revere, and venerate me alone, not some other mendicant.'</p>
+
+      <div class="compact">
+        <strong>§§22–24</strong> — Repeated for the four communities (monks, nuns, laymen, laywomen) honoring some other mendicant instead. Same conclusion: anger, bitterness, blemishes.
+      </div>
+
+      <p><span class="segno">§25</span>It's possible that some mendicant might wish: 'I hope I get the nicest robes, almsfood, lodgings, and medicines and supplies for the sick, not some other mendicant.' But it's possible that some other mendicant gets the nicest robes, almsfood, lodgings, and medicines and supplies for the sick …</p>
+
+      <p><span class="segno">§§26–27</span>Thinking, 'Some other mendicant has got the nicest robes, almsfood, lodgings, and medicines and supplies for the sick', they get angry and bitter. And that anger and that bitterness are both blemishes.</p>
+
+      <p><span class="segno">§28</span>'Blemish' is a term for these spheres of bad, unskillful wishes.</p>
+
+      <h3>What others see — the carcass cup and the fine-rice cup</h3>
+
+      <p><span class="segno">§29</span>Suppose these spheres of bad, unskillful wishes are seen and heard to be not given up by a mendicant. Even though they dwell in the wilderness, in remote lodgings, eat only almsfood, wander indiscriminately for almsfood, wear rag robes, and wear shabby robes, their spiritual companions don't honor, respect, revere, and venerate them. Why is that? It's because these spheres of bad, unskillful wishes are seen and heard to be not given up by that venerable. Suppose a bronze cup was brought from a shop or smithy clean and bright. The owners were to prepare it with the carcass of a snake, a dog, or a human, cover it with a bronze lid, and parade it through the market-place. When people saw it they'd say: 'Oh my, what is it that you're carrying like a precious treasure?' So they'd open up the lid for people to look inside. But as soon as they saw it they were filled with loathing, revulsion, and disgust. Not even those who were hungry wanted to eat it, let alone those who were replete. In the same way, when these spheres of bad, unskillful wishes are seen and heard to be not given up by a mendicant … their spiritual companions don't honor, respect, revere, and venerate them. Why is that? It's because these spheres of bad, unskillful wishes are seen and heard to be not given up by that venerable.</p>
+
+      <p><span class="segno">§30</span>Suppose these spheres of bad, unskillful wishes are seen and heard to be given up by a mendicant. Even though they dwell within a village, accept invitations to a meal, and wear robes offered by householders, their spiritual companions honor, respect, revere, and venerate them. Why is that? It's because these spheres of bad, unskillful wishes are seen and heard to be given up by that venerable. Suppose a bronze cup was brought from a shop or smithy clean and bright. The owners were to prepare it with boiled fine rice with the dark grains picked out and served with many soups and sauces, cover it with a bronze lid, and parade it through the market-place. When people saw it they'd say: 'Oh my, what is it that you're carrying like a precious treasure?' So they'd open up the lid for people to look inside. And as soon as they saw it they were filled with liking, attraction, and relish. Even those who were replete wanted to eat it, let alone those who were hungry. In the same way, when these spheres of bad, unskillful wishes are seen and heard to be given up by a mendicant … their spiritual companions honor, respect, revere, and venerate them. Why is that? It's because these spheres of bad, unskillful wishes are seen and heard to be given up by that venerable."</p>
+
+      <h3>Mahāmoggallāna's wheelwright simile</h3>
+
+      <p><span class="segno">§31</span>When he said this, Venerable Mahāmoggallāna said to him, "Reverend Sāriputta, a simile strikes me." "Then speak as you feel inspired," said Sāriputta. "Reverend, this one time I was staying right here in Rājagaha, the Mountainfold. Then I robed up in the morning and, taking my bowl and robe, entered Rājagaha for alms. Now at that time Samīti of the wainwrights was planing the rim of a chariot wheel. The Ājīvaka ascetic Paṇḍuputta, who was formerly of the wainwrights, was standing by, and this thought came to his mind: 'Oh, I hope Samīti the wainwright planes out the crooks, bends, and flaws in this rim. Then the rim will be rid of crooks, bends, and flaws, pure, and consolidated in the core.' And Samīti planed out the flaws in the rim just as Paṇḍuputta thought. Then Paṇḍuputta expressed his gladness: 'He planes like he knows my heart with his heart!'</p>
+
+      <p><span class="segno">§32</span>In the same way, there are those faithless individuals who went forth from the lay life to homelessness not out of faith but to earn a livelihood. They're devious, deceitful, and sneaky. They're restless, insolent, fickle, scurrilous, and loose-tongued. They do not guard their sense doors or eat in moderation, and they are not dedicated to wakefulness. They don't care about the ascetic life, and don't keenly respect the training. They're indulgent and slack, leaders in backsliding, neglecting seclusion, lazy, and lacking energy. They're unmindful, lacking situational awareness and immersion, with straying minds, witless and idiotic. Venerable Sāriputta planes their faults with this exposition of the teaching as if he knows my heart with his heart! But there are those gentlemen who went forth from the lay life to homelessness out of faith. They're not devious, deceitful, and sneaky. They're not restless, insolent, fickle, scurrilous, and loose-tongued. They guard their sense doors and eat in moderation, and they are dedicated to wakefulness. They care about the ascetic life, and keenly respect the training. They're not indulgent or slack, nor are they leaders in backsliding, neglecting seclusion. They're energetic and determined. They're mindful, with situational awareness, immersion, and unified minds; wise and clever. Hearing this exposition of the teaching from Venerable Sāriputta, they drink it up and devour it, as it were. And in speech and thought they say: 'It's good, sirs, that he draws his spiritual companions away from the unskillful and establishes them in the skillful.'</p>
+
+      <p><span class="segno">§33</span>Suppose there was a woman or man who was young, youthful, and fond of adornments, and had bathed their head. Presented with a garland of lotuses, jasmine, or liana flowers, they would take them in both hands and place them on the crown of the head. In the same way, those gentlemen who went forth from the lay life to homelessness out of faith … say: 'It's good, sirs, that he draws his spiritual companions away from the unskillful and establishes them in the skillful.'"</p>
+
+      <p style="margin-top:20px"><strong>And so these two spiritual giants agreed with each others' fine words.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">Who delivers MN 5, and who else speaks in it?</div>
+        <button class="opt">The Buddha alone</button>
+        <button class="opt">The Buddha and Ānanda</button>
+        <button class="opt">Sāriputta delivers it; Mahāmoggallāna asks questions and offers a closing simile</button>
+        <button class="opt">Mahāmoggallāna alone</button>
+        <div class="expl"><strong>Correct: C.</strong> This is the first MN discourse where two senior disciples teach side by side — the foremost in wisdom and the foremost in psychic power. Continues the structural move begun in MN 3, where Sāriputta first spoke after the Buddha withdrew.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">The opening four-person framework distinguishes four kinds of person. What two variables generate them?</div>
+        <button class="opt">Wisdom and effort</button>
+        <button class="opt">Past lives and present conduct</button>
+        <button class="opt">Having a blemish (yes/no) and knowing whether you have one (yes/no)</button>
+        <button class="opt">Greed and hatred</button>
+        <div class="expl"><strong>Correct: C.</strong> Two binary axes: blemish present or absent, awareness of it present or absent. Four combinations.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">Within each pair (blemished, or unblemished), which person does Sāriputta judge as better?</div>
+        <button class="opt">The one who doesn't know their condition — knowing nothing is bliss</button>
+        <button class="opt">The one who knows their condition — knowing is the door to action</button>
+        <button class="opt">Both equally — condition is what matters, not awareness</button>
+        <button class="opt">It depends on whether they meditate</button>
+        <div class="expl"><strong>Correct: B.</strong> Even the unblemished-unaware person is judged worse than the blemished-aware one. The discourse is making a counter-intuitive claim: <em>knowledge of your condition</em> matters more than the condition itself. Awareness is what moves you to act — to clean the cup, or to keep it clean.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">Sāriputta gives four bronze-cup similes — one for each type of person. Which outcome is correctly matched?</div>
+        <button class="opt">A clean cup kept in a dirty place stays bright</button>
+        <button class="opt">A dirty cup never cleaned becomes brighter on its own</button>
+        <button class="opt">A clean cup that is used and cleaned regularly will gradually fade</button>
+        <button class="opt">A dirty cup that is used and cleaned regularly will get cleaner and brighter</button>
+        <div class="expl"><strong>Correct: D.</strong> The four outcomes follow strict cause-and-effect: kept in a dirty place + not cleaned → dirtier; used + cleaned → cleaner. The cup's <em>starting</em> condition matters less than how it is then treated. The same is true of the practitioner: the blemished-aware practitioner who works on their blemishes is moving toward purity, regardless of where they started.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">When Mahāmoggallāna asks what "blemish" is a term for, Sāriputta answers precisely. What does he say?</div>
+        <button class="opt">A term for greed, hatred, and delusion</button>
+        <button class="opt">A term for misconduct of body, speech, and mind</button>
+        <button class="opt">A term for the spheres of bad, unskillful wishes</button>
+        <button class="opt">A term for wrong view</button>
+        <div class="expl"><strong>Correct: C.</strong> <em>Pāpaka akusala icchā</em> — bad, unskillful wishes. Sāriputta is being specific. The blemish is not the gross defilement but the subtle preferring of self over not-self in any given situation. It begins as a wish; when frustrated, becomes anger and bitterness; and that anger and bitterness are themselves the blemishes.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">Which of the following is NOT among the ten specific wishes Sāriputta lists?</div>
+        <button class="opt">"I hope the Teacher questions me alone, not some other monk"</button>
+        <button class="opt">"I hope I get the best seat in the refectory"</button>
+        <button class="opt">"I hope the laypeople honor and venerate me, not some other mendicant"</button>
+        <button class="opt">"I hope I attain the first jhāna before my peers"</button>
+        <div class="expl"><strong>Correct: D.</strong> The first three are all explicitly on Sāriputta's list. The fourth is plausible-sounding but not in the discourse — Sāriputta's ten wishes are all about <em>social</em> recognition within monastic life, not meditative attainment. The blemish is the wish for self-over-other in <em>community</em> matters, where it is hardest to see.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">The "carcass cup" simile (§29) makes a specific point about appearances. What is it?</div>
+        <button class="opt">A polished outside guarantees a polished inside</button>
+        <button class="opt">Outer austerity does not compensate for inner unskillful wishes — over time, the community sees through the polish</button>
+        <button class="opt">Forest-dwelling is always preferable to village-dwelling</button>
+        <button class="opt">It is wrong to keep food in metal cups</button>
+        <div class="expl"><strong>Correct: B.</strong> The cup is bright; the contents are putrid. A practitioner can be visibly austere (forest, alms, rag robes) but inwardly full of the wishes Sāriputta has just listed. Their spiritual companions, over time, see what is inside. The simile is also a warning to any monastic tempted to use forms of asceticism as performance.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">In Mahāmoggallāna's wheelwright simile, the ascetic Paṇḍuputta watches Samīti planing a wheel rim and exclaims, "He planes like he knows my heart with his heart!" What is Mahāmoggallāna's point?</div>
+        <button class="opt">Wheelwrights and monks should not interact</button>
+        <button class="opt">Crafts are like spiritual practice</button>
+        <button class="opt">Sāriputta's teaching, like the wheelwright's planing, removes exactly the flaws a careful observer would have wanted removed — without being told</button>
+        <button class="opt">Psychic power is necessary for teaching</button>
+        <div class="expl"><strong>Correct: C.</strong> The simile is praise for Sāriputta's exposition: it does the work of "planing out" the faithless practitioner's faults precisely, as if reading the hearts of those who can see clearly. The discourse's faults-list (§32) is the planing the simile names.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">How does the discourse end?</div>
+        <button class="opt">"Satisfied, the mendicants approved what Sāriputta said"</button>
+        <button class="opt">"And so these two spiritual giants agreed with each others' fine words"</button>
+        <button class="opt">"The Buddha approved Sāriputta's exposition"</button>
+        <button class="opt">The discourse ends abruptly without a closing formula</button>
+        <div class="expl"><strong>Correct: B.</strong> A unique closing. The two senior disciples mutually approve each other's teaching. The phrase <em>"two spiritual giants"</em> (lit. <em>nāgā</em>, "great beings") signals what the canon's editors are doing — placing this discourse as the first demonstration that the sangha's senior leadership is itself capable of carrying and refining the Dharma in dialogue.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">A scenario. You are at a team meeting at work. You realize you are silently hoping that the senior partner calls on YOU to explain the case, not on your colleague. Is this a blemish in Sāriputta's sense?</div>
+        <button class="opt">No, this is healthy professional ambition</button>
+        <button class="opt">Yes, but only if you act on it</button>
+        <button class="opt">Yes — the structure is exactly what Sāriputta names: a wish that this thing happen for me and not for someone else, with the implicit setup for anger and bitterness if it doesn't</button>
+        <button class="opt">It cannot be a blemish because you are not a monastic</button>
+        <div class="expl"><strong>Correct: C.</strong> The blemish is structural, not professional. The wish that the Dharma be well taught in this assembly is not a blemish. The wish that <em>you in particular</em> teach it, and the bitterness that arises if you don't, is. The discourse generalizes far beyond the monastic context — any community where recognition is distributed (work, academia, family) runs on a version of these ten wishes.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">aṅgaṇa</span>blemish, stain</li>
+        <li><span class="pali">anaṅgaṇa</span>unblemished (title)</li>
+        <li><span class="pali">pāpaka akusala icchā</span>bad, unskillful wishes</li>
+        <li><span class="pali">kodha</span>anger</li>
+        <li><span class="pali">upanāha</span>bitterness, resentment</li>
+        <li><span class="pali">subhanimitta</span>feature of beauty</li>
+        <li><span class="pali">sabrahmacārī</span>spiritual companions</li>
+        <li><span class="pali">nāgā</span>spiritual giants (closing line)</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 3 · Heirs in the Teaching (Sāriputta's first)</li>
+        <li>MN 8 · Self-Effacement (sallekha)</li>
+        <li>MN 24 · A Chariot at the Ready</li>
+        <li>AN 4.85 · The Four Persons (parallel framework)</li>
+        <li>MA 87 · Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn5/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN5.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "No Blemishes," with notes on the four-person framework.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_087" target="_blank" rel="noopener">Northern parallel — MA 87</a> — the Chinese Madhyama-āgama counterpart, in the same chapter on "stains" as MN 3's parallel.</li>
+      <li><a href="https://suttacentral.net/mn3/en/sujato" target="_blank" rel="noopener">MN 3 · Heirs in the Teaching</a> — Sāriputta's first MN discourse, on disciples training in seclusion when the teacher withdraws.</li>
+      <li><a href="https://suttacentral.net/mn8/en/sujato" target="_blank" rel="noopener">MN 8 · Self-Effacement</a> — develops the sallekha framework that closes MN 3 and runs through MN 5.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-004.html"><span class="label">← Previous</span>MN 4 · Fear and Dread</a>
+    <a href="mn-006.html" class="next"><span class="label">Next →</span>MN 6 · One Might Wish</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

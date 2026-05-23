@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 18 — The Honey-Cake | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Madhupiṇḍikasutta — the canon's clearest single account of how perception becomes mental proliferation, with Mahākaccāna's detailed exposition of the Buddha's compressed teaching. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 18
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 18</div>
+  <h1>The Honey-Cake</h1>
+  <p class="subtitle"><em>Madhupiṇḍikasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>The Great Wood and the Banyan Tree Monastery, near Kapilavatthu in the land of the Sakyans — the Buddha's home country</dd>
+      <dt>Speakers</dt><dd>The Buddha (with two compressed teachings); the Sakyan Daṇḍapāṇi (the dismissive questioner who walks away); Venerable Mahākaccāna (the detailed exegete); Venerable Ānanda (who names the discourse)</dd>
+      <dt>Form</dt><dd>22 sections in four movements: the encounter with Daṇḍapāṇi, the compressed teaching to the mendicants, Mahākaccāna's detailed exposition of the cognitive cascade, and the Buddha's confirmation with Ānanda's honey-cake simile</dd>
+      <dt>Length</dt><dd>~15 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>MA 115 (Madhyama-āgama 115, "The Honey-Cake Discourse"), in the chapter on fundamental analysis</dd>
+      <dt>Difficulty</dt><dd>★★★★☆ — narratively straightforward, philosophically dense. The cognitive cascade in §16 is one of the canon's most concentrated single statements of early Buddhist phenomenology.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, eighteenth</h2>
+    <p class="lede">
+      MN 18 is the canon's clearest single account of how a simple sensory contact becomes a complex mental drama. The discourse identifies the precise cascade — contact, feeling, perception, thought, proliferation — and names what happens at the end of it: <em>"judgments driven by proliferating perceptions beset a person."</em> Once seen, the cascade cannot be unseen. It is the structural anatomy of any moment in which the mind has run away with itself.
+    </p>
+    <p>
+      The discourse's frame is also telling. A Sakyan layman named Daṇḍapāṇi — "Staff-in-hand" — approaches the Buddha in the forest and challenges him: <em>"What is the ascetic's doctrine? What does he assert?"</em> The Buddha gives a single dense reply about a "brahmin who does not argue with anyone." Daṇḍapāṇi shakes his head, waggles his tongue, raises his eyebrows until his brow puckers into three furrows, and walks away in disgust. The discourse is one of the canon's few moments of physical comedy from a questioner who simply doesn't get it.
+    </p>
+    <p>
+      Back at the monastery, the Buddha gives the mendicants an even more compressed restatement and immediately retires. The puzzled mendicants seek out Venerable Mahākaccāna — the Buddha's foremost disciple for "explaining in detail what was spoken in brief" — who delivers the cascade analysis that has shaped contemplative psychology ever since. The Buddha later confirms Mahākaccāna's exposition word for word. Ānanda names the discourse "The Honey-Cake" because, like a starving person tasting honey, the practitioner finds sweet clarity wherever they bite into this teaching.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Sensory contact begets feeling, feeling begets perception, perception begets thought, thought begets proliferation — and proliferation begets the judgments that beset us; see the cascade and the besetting stops.
+    </p>
+
+    <h3>The encounter with Daṇḍapāṇi</h3>
+    <p>
+      The Buddha has gone for the day's meditation to a "young wood-apple tree" deep in the Great Wood near his home town of Kapilavatthu. The Sakyan Daṇḍapāṇi ("Staff-in-hand"), who appears in this canonical episode and a few others as a politically suspicious figure, comes upon him by chance. He leans on his staff and asks the only question he asks: <em>"What is the ascetic's doctrine? What does he assert?"</em>
+    </p>
+    <p>The Buddha's reply is compressed and unusual:</p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "Respectable sir, my doctrine is such that one does not argue with anyone in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans. And it is such that perceptions do not underlie the brahmin who lives detached from sensual pleasures, without indecision, stripped of worry, and rid of craving for rebirth in this or that state. That is my doctrine, and that is what I assert."
+    </blockquote>
+    <p>
+      The reply is not a proposition. It is a description of a kind of person — one in whom perceptions have stopped underlying things. Daṇḍapāṇi's response is recorded with unusual specificity. He <em>"shook his head, waggled his tongue, raised his eyebrows until his brow puckered in three furrows,"</em> and walked away leaning on his staff. The detail of "three furrows" is the canon's quiet record of his contempt.
+    </p>
+
+    <h3>The mendicants' question and the Buddha's compressed restatement</h3>
+    <p>
+      Back at the Banyan Tree Monastery, the Buddha tells the mendicants what happened. One asks the natural question: what doctrine, exactly, was the Buddha asserting? The Buddha's restatement is even more condensed than his original reply to Daṇḍapāṇi:
+    </p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "Mendicant, judgments driven by proliferating perceptions beset a person. If they don't find anything worth approving, welcoming, or getting attached to in the source from which these arise, just this is the end of the underlying tendencies to desire, aversion, views, doubt, conceit, the desire for continued existence, and ignorance. This is the end of taking up the rod and the sword, the end of quarrels, arguments, and disputes, of accusations, divisive speech, and lies. This is where these bad, unskillful qualities cease without remainder."
+    </blockquote>
+    <p>The Buddha then rises and enters his dwelling. The mendicants are left with a dense compression. They seek out Mahākaccāna.</p>
+
+    <h3>Mahākaccāna and the heartwood simile</h3>
+    <p>
+      Mahākaccāna's first response is a mild rebuke. He gives the heartwood simile: a person searching for heartwood comes upon a great tree but, bypassing the trunk, looks for the heartwood in the branches and leaves. <em>"Such is the consequence for the venerables. Though you were face to face with the Buddha, you bypassed him, imagining that you should ask me about this matter."</em>
+    </p>
+    <p>
+      The simile is not just rhetorical politeness. Mahākaccāna is the canonical figure most associated with "explaining in detail what was spoken in brief." In the <em>Aṅguttara Nikāya</em>'s list of foremost disciples (AN 1.14), the Buddha names him <em>etadaggaṃ saṅkhittena bhāsitassa vitthārena atthaṃ vibhajantānaṃ</em> — "foremost of those who analyze in detail the meaning of what is said in brief." The mendicants have rightly identified him. But Mahākaccāna's point is that the Buddha was right there, available, when the compression happened. The compressing teacher is the natural exegete of their own compression.
+    </p>
+    <p>
+      The mendicants accept the rebuke and ask Mahākaccāna to explain anyway. He agrees.
+    </p>
+
+    <h3>The cognitive cascade — Mahākaccāna's exposition (§16)</h3>
+    <p>What follows is one of the canon's most concentrated single statements of early Buddhist phenomenology. The cascade has seven steps:</p>
+    <table>
+      <thead><tr><th>Step</th><th>Pāli</th><th>Description</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Sense organ + sense object + sense consciousness</td><td>The three coming together (e.g., eye, sight, eye-consciousness)</td></tr>
+        <tr><td>2</td><td>Contact <em>(phassa)</em></td><td>"The meeting of the three is contact"</td></tr>
+        <tr><td>3</td><td>Feeling <em>(vedanā)</em></td><td>"Contact is a requirement for feeling"</td></tr>
+        <tr><td>4</td><td>Perception <em>(saññā)</em></td><td>"What you feel, you perceive"</td></tr>
+        <tr><td>5</td><td>Thought <em>(vitakka)</em></td><td>"What you perceive, you think about"</td></tr>
+        <tr><td>6</td><td>Proliferation <em>(papañca)</em></td><td>"What you think about, you proliferate"</td></tr>
+        <tr><td>7</td><td>Being beset by papañca-saññā-saṅkhā</td><td>"What you proliferate is the source from which judgments driven by proliferating perceptions beset a person"</td></tr>
+      </tbody>
+    </table>
+    <p>
+      The cascade is named for each of the six senses (eye, ear, nose, tongue, body, mind), in all three times (past, future, and present). The structure is universal. Wherever there is contact, the cascade can run.
+    </p>
+
+    <h3>What papañca is — and what's special about it</h3>
+    <p>
+      <em>Papañca</em> — usually translated as "proliferation," sometimes as "mental proliferation" or "conceptual elaboration" — is the canon's name for the runaway generative quality of thinking. It is what happens when a single perception, instead of being seen and released, becomes the seed for a cascade of associations, judgments, identifications, and stories. The English word "proliferation" captures the multiplication. The Pāli has additional valences — "expansion," "elaboration," "diffusion."
+    </p>
+    <p>
+      The cascade's structural insight is that <em>papañca is downstream of thought, not upstream of it</em>. The chain runs feeling → perception → thought → proliferation. Thought (<em>vitakka</em>) is the deliberate, intentional mental activity; proliferation is what happens when thought is not held in check and runs into associative cascade. The discourse names this as the link at which the practitioner gets "beset" — overtaken — by the products of their own mind.
+    </p>
+    <p>
+      Once proliferation runs, the products of proliferation (<em>papañca-saññā-saṅkhā</em> — "judgments driven by proliferating perceptions") rebound back onto the practitioner. The mind has produced judgments; the judgments now beset the mind that produced them. The practitioner is no longer the author but the object of their own thinking.
+    </p>
+
+    <h3>The presence/absence formula (§§17–18)</h3>
+    <p>Mahākaccāna then runs the formula in both directions, with characteristic precision:</p>
+    <ul>
+      <li><strong>Where there is</strong> the sense organ, the sense object, and the sense consciousness — there can be contact; where there is contact, there can be feeling; where there is feeling, there can be perception; where there is perception, there can be thought; where there is thought, there can be being beset by proliferating perceptions.</li>
+      <li><strong>Where there is not</strong> — none of these can arise.</li>
+    </ul>
+    <p>
+      The point is that each link in the chain is conditioned. Without its preceding cause, it does not arise. This is the structural opening for practice: see clearly enough at any link of the chain, and the chain breaks before it reaches besetting proliferation.
+    </p>
+
+    <h3>The Buddha's confirmation</h3>
+    <p>
+      The mendicants return to the Buddha and report Mahākaccāna's explanation. The Buddha's response is unconditional:
+    </p>
+    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
+      "Mahākaccāna is astute, mendicants, he has great wisdom. If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna. That is what it means, and that's how you should remember it."
+    </blockquote>
+    <p>
+      This is one of the central canonical sources for the role of senior disciples as authoritative interpreters of the Buddha's compressed teachings. The Buddha is here explicitly endorsing Mahākaccāna's exegesis as equivalent to his own.
+    </p>
+
+    <h3>The honey-cake simile</h3>
+    <p>
+      Ānanda then offers the simile that names the discourse: <em>"Suppose a person who was weak with hunger was to obtain a honey-cake. Wherever they taste it, they would enjoy a sweet, delectable flavor."</em> So with this teaching — wherever a sincere mendicant examines it with wisdom, they find joy and clarity. The Buddha names the discourse "Madhupiṇḍika" — The Honey-Cake.
+    </p>
+    <p>
+      The simile carries quietly. The teaching is dense — perhaps too dense to swallow whole. But there is no part of it that is not nourishing. Bite anywhere; there is sweetness. The discourse rewards every level of examination from the casual to the systematic.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      The cognitive cascade has remarkable parallels in modern psychology. Cognitive behavioral therapy distinguishes between the triggering event, the immediate appraisal, and the subsequent automatic thoughts that produce emotional consequences. Acceptance and commitment therapy speaks of "fusion" — the moment when a thought stops being a transient mental event and becomes a fact the mind treats as reality. Mindfulness-based interventions teach practitioners to identify the point at which a simple perception becomes a snowballing thought-train.
+    </p>
+    <p>
+      MN 18 named this twenty-five hundred years ago, with a precision modern frameworks have largely converged on. The contemplative practitioner is invited to apply the discourse experimentally: notice a moment of being upset; trace it backwards through proliferation, thought, perception, feeling, contact, sense-organ-meeting-sense-object. The cascade is reversible in attention. The discourse's claim is that careful enough attention disarms it.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"Daṇḍapāṇi's question seems reasonable — why does he walk away in disgust?"</strong> The Buddha's reply did not give Daṇḍapāṇi what he wanted. He wanted a doctrine — a position to agree or disagree with, something to argue against. The Buddha gave him a description of a person whose perceptions no longer underlie things. Daṇḍapāṇi cannot use this. He cannot debate it, cannot defeat it, cannot extract a thesis from it. His response — the head-shake, the tongue-waggle, the three-furrowed brow — is the response of someone who has come for a fight and been handed nothing to fight with. The discourse is, among other things, a portrait of someone for whom the Buddha's teaching is unusable.</p>
+
+    <p><strong>"What's the difference between thought (vitakka) and proliferation (papañca)?"</strong> Thought, in this discourse, is the deliberate mental activity — turning an experience over, reflecting on it, considering it. Proliferation is what happens when thought is not held in check: the cascade of associations, judgments, identifications, and stories that ramifies outward from any single perception. The discourse places proliferation downstream of thought, suggesting that thought itself is not the problem but the gateway to the problem. A practitioner can think without proliferating. They cannot proliferate without thinking. The work is at the thought-to-proliferation transition.</p>
+
+    <p><strong>"The discourse says these judgments 'beset' a person. What does that mean practically?"</strong> The Pāli verb <em>samudācaranti</em> means "to oppress," "to overtake," "to pursue." The image is precise: the products of proliferation, once generated, no longer feel like things the practitioner is producing — they feel like things happening to the practitioner. A meditator who tries to give up obsessive thinking knows this experientially. The thoughts come; they do not come from one place that can be addressed. They have multiplied past the point where their author can find the chain that leads back. The discourse is naming the moment at which the cascade has run far enough that the mind is now the object of its own products rather than their source.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">papañca</span> — proliferation. The canon's most important single term for the runaway generative quality of thinking. Often translated "mental proliferation," "conceptual proliferation," or "elaboration." Has additional Pāli valences of "expansion," "diffusion," and "tangling." The point at which a single perception becomes a cascading thought-train.
+      </div>
+      <div class="term">
+        <span class="pali-word">papañcasaññāsaṅkhā</span> — judgments driven by proliferating perceptions. The compound term for the products of proliferation — the judgments, identifications, and stories that the mind generates once papañca runs. Literally <em>papañca</em> + <em>saññā</em> (perception) + <em>saṅkhā</em> (designation, label). Bhikkhu Sujato translates as "judgments driven by proliferating perceptions"; Bhikkhu Bodhi as "perceptions and notions tinged with proliferation."
+      </div>
+      <div class="term">
+        <span class="pali-word">phassa</span> — contact. The meeting of sense organ, sense object, and sense consciousness. The first link of the cognitive cascade. Without contact, no feeling; without feeling, no perception; and so on.
+      </div>
+      <div class="term">
+        <span class="pali-word">vedanā</span> — feeling. The hedonic tone (pleasant, painful, neutral) that arises from contact. The second link in the cascade.
+      </div>
+      <div class="term">
+        <span class="pali-word">saññā</span> — perception. The cognitive recognition that follows feeling — "what you feel, you perceive." The third link.
+      </div>
+      <div class="term">
+        <span class="pali-word">vitakka</span> — thought. The deliberate mental activity that follows perception — "what you perceive, you think about." The fourth link, and the gateway to proliferation. Thought itself is not the problem; proliferation (downstream of thought) is.
+      </div>
+      <div class="term">
+        <span class="pali-word">samudācaranti</span> — beset. The verb the Buddha uses for what the products of proliferation do to the person who produced them. Has connotations of "oppress," "overtake," "pursue." The image: judgments rebound on the mind that generated them and no longer feel like its products.
+      </div>
+      <div class="term">
+        <span class="pali-word">saṅkhittena bhāsitassa vitthārena atthaṃ vibhajantānaṃ</span> — "foremost of those who analyze in detail the meaning of what is said in brief." The Buddha's traditional designation of Mahākaccāna (AN 1.14). MN 18 is the canonical demonstration of this role.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 18 has 22 sections in four narrative movements: the encounter with Daṇḍapāṇi at the wood-apple tree (§§1–5), the Buddha's compressed restatement to the mendicants (§§6–9), Mahākaccāna's detailed exposition (§§10–19), and the Buddha's confirmation with Ānanda's honey-cake simile (§§20–22). The full text is given here because of MN 18's compactness and the close interconnection of its parts. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The encounter with Daṇḍapāṇi</h3>
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery.</p>
+
+      <p><span class="segno">§2</span>Then the Buddha robed up in the morning and, taking his bowl and robe, entered Kapilavatthu for alms. He wandered for alms in Kapilavatthu. After the meal, on his return from almsround, he went to the Great Wood for the day's meditation, plunged deep into it, and sat at the root of a young wood-apple tree to meditate.</p>
+
+      <p><span class="segno">§3</span>Daṇḍapāṇi the Sakyan, while going for a walk, plunged deep into the Great Wood. He approached the Buddha and exchanged greetings with him. When the greetings and polite conversation were over, he stood to one side leaning on his staff, and said to the Buddha, "What is the ascetic's doctrine? What does he assert?"</p>
+
+      <p><span class="segno">§4</span>"Respectable sir, my doctrine is such that one does not argue with anyone in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans. And it is such that perceptions do not underlie the brahmin who lives detached from sensual pleasures, without indecision, stripped of worry, and rid of craving for rebirth in this or that state. That is my doctrine, and that is what I assert."</p>
+
+      <p><span class="segno">§5</span>When he had spoken, Daṇḍapāṇi shook his head, waggled his tongue, raised his eyebrows until his brow puckered in three furrows, and left leaning on his staff.</p>
+
+      <h3>The Buddha's compressed restatement to the mendicants</h3>
+
+      <p><span class="segno">§6</span>Then in the late afternoon, the Buddha came out of retreat and went to the Banyan Tree Monastery, sat down on the seat spread out, and told the mendicants what had happened. When he had spoken, one of the mendicants said to him,</p>
+
+      <p><span class="segno">§7</span>"But sir, asserting what doctrine does the Buddha not argue with anyone in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans? And how is it that perceptions do not underlie the Buddha, the brahmin who lives detached from sensual pleasures, without indecision, stripped of worry, and rid of craving for rebirth in this or that state?"</p>
+
+      <p><span class="segno">§8</span>"Mendicant, judgments driven by proliferating perceptions beset a person. If they don't find anything worth approving, welcoming, or getting attached to in the source from which these arise, just this is the end of the underlying tendencies to desire, aversion, views, doubt, conceit, the desire for continued existence, and ignorance. This is the end of taking up the rod and the sword, the end of quarrels, arguments, and disputes, of accusations, divisive speech, and lies. This is where these bad, unskillful qualities cease without remainder."</p>
+
+      <p><span class="segno">§9</span>That is what the Buddha said. When he had spoken, the Holy One got up from his seat and entered his dwelling.</p>
+
+      <h3>The mendicants seek out Mahākaccāna</h3>
+
+      <p><span class="segno">§10</span>Soon after the Buddha left, those mendicants considered, "The Buddha gave this brief summary recital, then entered his dwelling without explaining the meaning in detail. Who can explain in detail the meaning of this brief summary recital given by the Buddha?" Then those mendicants thought, "This Venerable Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions. He is capable of explaining in detail the meaning of this brief summary recital given by the Buddha. Let's go to him, and ask him about this matter."</p>
+
+      <p><span class="segno">§11</span>Then those mendicants went to Mahākaccāna, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. They told him what had happened, and said: "May Venerable Mahākaccāna please explain this."</p>
+
+      <p><span class="segno">§12</span>"Reverends, suppose there was a person in need of heartwood. And while wandering in search of heartwood he'd come across a large tree standing with heartwood. But he'd pass over the roots and trunk, imagining that the heartwood should be sought in the branches and leaves. Such is the consequence for the venerables. Though you were face to face with the Buddha, you bypassed him, imagining that you should ask me about this matter. For he is the Buddha, the one who knows and sees. He is vision, he is knowledge, he is the manifestation of principle, he is the manifestation of divinity. He is the teacher, the proclaimer, the elucidator of meaning, the bestower of freedom from death, the lord of truth, the Realized One. That was the time to approach the Buddha and ask about this matter. You should have remembered it in line with the Buddha's answer."</p>
+
+      <p><span class="segno">§13</span>"Certainly he is the Buddha, the one who knows and sees. He is vision, he is knowledge, he is the manifestation of principle, he is the manifestation of divinity. He is the teacher, the proclaimer, the elucidator of meaning, the bestower of freedom from death, the lord of truth, the Realized One. That was the time to approach the Buddha and ask about this matter. We should have remembered it in line with the Buddha's answer. Still, Mahākaccāna is praised by the Buddha and esteemed by his sensible spiritual companions. You are capable of explaining in detail the meaning of this brief summary recital given by the Buddha. Please explain this, if it's no trouble."</p>
+
+      <p><span class="segno">§14</span>"Well then, reverends, listen and apply your mind well, I will speak." "Yes, reverend," they replied. Venerable Mahākaccāna said this:</p>
+
+      <h3>Mahākaccāna's restatement and the cognitive cascade</h3>
+
+      <p><span class="segno">§15</span>"Reverends, the Buddha gave this brief summary recital, then entered his dwelling without explaining the meaning in detail: 'Judgments driven by proliferating perceptions beset a person. If they don't find anything worth approving, welcoming, or getting attached to in the source from which these arise, just this is the end of the underlying tendencies to desire, repulsion, views, doubt, conceit, the desire to be reborn, and ignorance. This is the end of taking up the rod and the sword, the end of quarrels, arguments, and disputes, of accusations, backbiting, and lies. This is where these bad, unskillful qualities cease without remainder.' This is how I understand the detailed meaning of this summary recital.</p>
+
+      <p><span class="segno">§16</span>Eye consciousness arises dependent on the eye and sights. The meeting of the three is contact. Contact is a requirement for feeling. What you feel, you perceive. What you perceive, you think about. What you think about, you proliferate. What you proliferate is the source from which judgments driven by proliferating perceptions beset a person. This occurs with respect to sights known by the eye in the past, future, and present. Ear consciousness arises dependent on the ear and sounds. … Nose consciousness arises dependent on the nose and smells. … Tongue consciousness arises dependent on the tongue and tastes. … Body consciousness arises dependent on the body and touches. … Mind consciousness arises dependent on the mind and ideas. The meeting of the three is contact. Contact is a requirement for feeling. What you feel, you perceive. What you perceive, you think about. What you think about, you proliferate. What you proliferate is the source from which judgments driven by proliferating perceptions beset a person. This occurs with respect to ideas known by the mind in the past, future, and present.</p>
+
+      <p><span class="segno">§17</span>Where there is the eye, sights, and eye consciousness, it will be possible to discover evidence of contact. Where there is evidence of contact, it will be possible to discover evidence of feeling. Where there is evidence of feeling, it will be possible to discover evidence of perception. Where there is evidence of perception, it will be possible to discover evidence of thought. Where there is evidence of thought, it will be possible to discover evidence of being beset by judgments driven by proliferating perceptions. Where there is the ear … nose … tongue … body … mind, ideas, and mind consciousness, it will be possible to discover evidence of contact. Where there is evidence of contact, it will be possible to discover evidence of feeling. Where there is evidence of feeling, it will be possible to discover evidence of perception. Where there is evidence of perception, it will be possible to discover evidence of thinking. Where there is evidence of thinking, it will be possible to discover evidence of being beset by judgments driven by proliferating perceptions.</p>
+
+      <p><span class="segno">§18</span>Where there is no eye, no sights, and no eye consciousness, it will not be possible to discover evidence of contact. Where there is no evidence of contact, it will not be possible to discover evidence of feeling. Where there is no evidence of feeling, it will not be possible to discover evidence of perception. Where there is no evidence of perception, it will not be possible to discover evidence of thinking. Where there is no evidence of thinking, it will not be possible to discover evidence of being beset by judgments driven by proliferating perceptions. Where there is no ear … no nose … no tongue … no body … no mind, no ideas, and no mind consciousness, it will not be possible to discover evidence of contact. Where there is no evidence of contact, it will not be possible to discover evidence of feeling. Where there is no evidence of feeling, it will not be possible to discover evidence of perception. Where there is no evidence of perception, it will not be possible to discover evidence of thinking. Where there is no evidence of thinking, it will not be possible to discover evidence of being beset by judgments driven by proliferating perceptions.</p>
+
+      <p><span class="segno">§19</span>This is how I understand the detailed meaning of that brief summary recital given by the Buddha. If you wish, you may go to the Buddha and ask him about this. You should remember it in line with the Buddha's answer."</p>
+
+      <h3>The Buddha's confirmation and the honey-cake simile</h3>
+
+      <p><span class="segno">§20</span>Then those mendicants, approving and agreeing with what Mahākaccāna said, rose from their seats and went to the Buddha, bowed, sat down to one side, and told him what had happened, adding: "Mahākaccāna clearly explained the meaning to us in this manner, with these words and phrases."</p>
+
+      <p><span class="segno">§21</span>"Mahākaccāna is astute, mendicants, he has great wisdom. If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna. That is what it means, and that's how you should remember it."</p>
+
+      <p><span class="segno">§22</span>When he said this, Venerable Ānanda said to the Buddha, "Sir, suppose a person who was weak with hunger was to obtain a honey-cake. Wherever they taste it, they would enjoy a sweet, delectable flavor. In the same way, wherever a sincere, capable mendicant might examine with wisdom the meaning of this exposition of the teaching they would only gain joy and clarity. Sir, what is the name of this exposition of the teaching?" "Well then, Ānanda, you may remember this exposition of the teaching as 'The Honey-Cake Discourse'."</p>
+
+      <p style="margin-top:20px"><strong>That is what the Buddha said. Satisfied, Venerable Ānanda approved what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">The discourse opens with the Buddha meeting Daṇḍapāṇi the Sakyan in the Great Wood. What is Daṇḍapāṇi's reaction to the Buddha's first reply?</div>
+        <button class="opt">He bows and asks for ordination</button>
+        <button class="opt">He challenges the Buddha to a debate</button>
+        <button class="opt">He shakes his head, waggles his tongue, raises his eyebrows until his brow puckers in three furrows, and leaves leaning on his staff</button>
+        <button class="opt">He listens silently and walks away converted</button>
+        <div class="expl"><strong>Correct: C.</strong> The detail of the three furrows is recorded in the canon with unusual specificity. Daṇḍapāṇi's response is the canon's quiet record of contempt — the reaction of someone who has come for an argument and been handed nothing to fight with.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">Why does the Buddha's reply not satisfy Daṇḍapāṇi?</div>
+        <button class="opt">It is too complex</button>
+        <button class="opt">It is not a proposition or doctrine he can argue with — it is a description of a kind of person (one whose perceptions no longer underlie things). He cannot extract a thesis to debate.</button>
+        <button class="opt">It is inaudible</button>
+        <button class="opt">It is in a foreign language</button>
+        <div class="expl"><strong>Correct: B.</strong> Daṇḍapāṇi came for a fight; the Buddha gave him nothing to fight with. The Buddha's "doctrine" was the description of a brahmin who lives detached from sensual pleasures, without indecision, stripped of worry, and rid of craving for rebirth. Daṇḍapāṇi cannot use this. The discourse is, among other things, a portrait of someone for whom the Buddha's teaching is unusable.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">Back at the monastery, the Buddha gives the mendicants an even more compressed restatement and immediately retires. Who do the mendicants seek out for detailed explanation, and why?</div>
+        <button class="opt">Sāriputta, the foremost in wisdom</button>
+        <button class="opt">Mahāmoggallāna, the foremost in psychic power</button>
+        <button class="opt">Venerable Mahākaccāna, traditionally identified by the Buddha as "foremost of those who analyze in detail the meaning of what is said in brief" (AN 1.14)</button>
+        <button class="opt">Ānanda, the Buddha's attendant</button>
+        <div class="expl"><strong>Correct: C.</strong> The mendicants rightly identify Mahākaccāna's specific charism. MN 18 is the canonical demonstration of this role — Mahākaccāna's exegesis of the Buddha's compressed teaching, subsequently confirmed by the Buddha as identical to his own explanation.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">Mahākaccāna's first response is to give the mendicants a simile. What is it, and what is its point?</div>
+        <button class="opt">The simile of a lotus pond — beautiful but easy to disturb</button>
+        <button class="opt">The heartwood simile — a person searching for heartwood comes upon a great tree but, bypassing the trunk, looks for the heartwood in the branches and leaves. The mendicants bypassed the Buddha (the trunk) by coming to Mahākaccāna (the branches).</button>
+        <button class="opt">The simile of a great fire — easy to start, hard to stop</button>
+        <button class="opt">The simile of a chariot — assembled from parts</button>
+        <div class="expl"><strong>Correct: B.</strong> The simile is not just rhetorical politeness. Mahākaccāna's point is that the Buddha was right there, available, when the compression happened. The compressing teacher is the natural exegete of their own compression. The mendicants accept the rebuke and ask Mahākaccāna anyway. He agrees.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">The cognitive cascade Mahākaccāna delivers in §16 has seven steps. Which sequence is correct?</div>
+        <button class="opt">Sense organ → sense object → sense consciousness → action → result → karma → rebirth</button>
+        <button class="opt">Ignorance → choices → consciousness → name and form → sense fields → contact → feeling</button>
+        <button class="opt">Effort → mindfulness → concentration → wisdom → liberation</button>
+        <button class="opt">Sense organ + sense object + sense consciousness → contact (phassa) → feeling (vedanā) → perception (saññā) → thought (vitakka) → proliferation (papañca) → being beset by judgments driven by proliferating perceptions</button>
+        <div class="expl"><strong>Correct: D.</strong> The cascade is named for each of the six senses (eye, ear, nose, tongue, body, mind), in all three times (past, future, and present). The structure is universal. Wherever there is contact, the cascade can run. This is one of the canon's most concentrated single statements of early Buddhist phenomenology.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">In the cascade, what is the relationship between thought (vitakka) and proliferation (papañca)?</div>
+        <button class="opt">They are the same thing</button>
+        <button class="opt">Proliferation comes first, then thought</button>
+        <button class="opt">Thought is the deliberate mental activity; proliferation is what happens downstream of thought when it is not held in check — the cascade of associations, judgments, identifications, and stories that ramifies outward from a single perception</button>
+        <button class="opt">Thought is bad; proliferation is good</button>
+        <div class="expl"><strong>Correct: C.</strong> Thought itself is not the problem; proliferation (downstream of thought) is. A practitioner can think without proliferating. They cannot proliferate without thinking. The work is at the thought-to-proliferation transition. This is one of the discourse's most subtle structural points.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">The Pāli verb <em>samudācaranti</em> — "beset" — names what the products of proliferation do to the person who produced them. What is its precise meaning?</div>
+        <button class="opt">To gently visit</button>
+        <button class="opt">To oppress / overtake / pursue — the image is that the products of the mind rebound onto the mind that generated them, and no longer feel like things the practitioner is producing but like things happening to the practitioner</button>
+        <button class="opt">To agree with</button>
+        <button class="opt">To gently illuminate</button>
+        <div class="expl"><strong>Correct: B.</strong> A meditator who tries to give up obsessive thinking knows this experientially. The thoughts come; they do not come from one place that can be addressed. They have multiplied past the point where their author can find the chain that leads back. The discourse is naming the moment at which the cascade has run far enough that the mind is now the object of its own products rather than their source.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">In §§17–18, Mahākaccāna runs the cascade in both directions — presence and absence. What is the structural point?</div>
+        <button class="opt">Each link in the chain is conditioned. Without its preceding cause, it does not arise. This is the structural opening for practice: see clearly enough at any link of the chain, and the chain breaks before it reaches besetting proliferation.</button>
+        <button class="opt">The chain can only be broken at the last link</button>
+        <button class="opt">The chain only operates for ascetics</button>
+        <button class="opt">The chain is unbreakable once started</button>
+        <div class="expl"><strong>Correct: A.</strong> The presence/absence formula is Mahākaccāna's characteristic precision. Without sense organ + sense object + sense consciousness, no contact; without contact, no feeling; and so on down the chain. The implication: the cascade is structurally reversible in attention. Careful enough attention at any earlier link disarms it before it can reach besetting proliferation.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">After hearing Mahākaccāna's explanation, the mendicants return to the Buddha. What is the Buddha's response?</div>
+        <button class="opt">He corrects several points in Mahākaccāna's exposition</button>
+        <button class="opt">He says Mahākaccāna's exposition was approximately correct</button>
+        <button class="opt">"Mahākaccāna is astute, mendicants, he has great wisdom. If you came to me and asked this question, I would answer it in exactly the same way as Mahākaccāna. That is what it means, and that's how you should remember it."</button>
+        <button class="opt">He refuses to comment</button>
+        <div class="expl"><strong>Correct: C.</strong> The Buddha's response is unconditional. This is one of the central canonical sources for the role of senior disciples as authoritative interpreters of the Buddha's compressed teachings. The Buddha is here explicitly endorsing Mahākaccāna's exegesis as equivalent to his own — word for word.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">Who offers the simile that gives the discourse its name, and what is the simile?</div>
+        <button class="opt">Sāriputta — the simile of the salt in the river</button>
+        <button class="opt">Mahāmoggallāna — the simile of the bull at the gate</button>
+        <button class="opt">Ānanda — the honey-cake simile: a person weak with hunger obtains a honey-cake; wherever they taste it, they enjoy a sweet, delectable flavor. So with this teaching — wherever a sincere mendicant examines it with wisdom, they find joy and clarity.</button>
+        <button class="opt">Mahākaccāna — the simile of the seven-stage chariot</button>
+        <div class="expl"><strong>Correct: C.</strong> Ānanda's simile carries quietly. The teaching is dense — perhaps too dense to swallow whole. But there is no part of it that is not nourishing. Bite anywhere; there is sweetness. The discourse rewards every level of examination from the casual to the systematic. The Buddha names the discourse <em>Madhupiṇḍika</em> — "The Honey-Cake" — accordingly.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">papañca</span>proliferation</li>
+        <li><span class="pali">papañca-saññā-saṅkhā</span>judgments driven by proliferating perceptions</li>
+        <li><span class="pali">phassa</span>contact</li>
+        <li><span class="pali">vedanā</span>feeling</li>
+        <li><span class="pali">saññā</span>perception</li>
+        <li><span class="pali">vitakka</span>thought</li>
+        <li><span class="pali">samudācaranti</span>to beset / overtake / oppress</li>
+        <li><span class="pali">Mahākaccāna</span>foremost detail-exegete (AN 1.14)</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 1 · Root of All Things (cognitive cascade)</li>
+        <li>MN 11 · Shorter Lion's Roar (papañca as 9th criterion)</li>
+        <li>AN 1.14 · Mahākaccāna's etadagga</li>
+        <li>SN 35.94 · Six sense fields</li>
+        <li>MA 115 · Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn18/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN18.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — titled "The Ball of Honey," with notes on papañca.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0026_115" target="_blank" rel="noopener">Northern parallel — MA 115</a> — the Chinese Madhyama-āgama counterpart ("The Honey-Cake Discourse"), in the chapter on fundamental analysis.</li>
+      <li><a href="https://suttacentral.net/an1.219/en/sujato" target="_blank" rel="noopener">AN 1.14 (foremost disciples)</a> — the Buddha's designation of Mahākaccāna as foremost of those who explain in detail what is said in brief.</li>
+      <li><a href="https://suttacentral.net/mn1/en/sujato" target="_blank" rel="noopener">MN 1 · The Root of All Things</a> — the canon's other major treatment of the cognitive cascade.</li>
+      <li><a href="https://suttacentral.net/sn35.94/en/sujato" target="_blank" rel="noopener">SN 35.94 · Adanta-agutta</a> — relevant Saṃyutta Nikāya treatment of the six sense fields.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-017.html"><span class="label">← Previous</span>MN 17 · Jungle Thickets</a>
+    <a href="mn-019.html" class="next"><span class="label">Next →</span>MN 19 · Two Kinds of Thought</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle (only present on suttas with massive repetition)
+  const toggleBtn = document.getElementById('toggle-text');
+  if (toggleBtn) {
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+  }
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

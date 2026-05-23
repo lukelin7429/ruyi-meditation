@@ -1,0 +1,1300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 1 — The Root of All Things | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Mūlapariyāyasutta — the first discourse of the Majjhima Nikāya. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 6px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .gloss { color: #6b6b6b; font-size: 17px; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-toggle {
+    margin: 0 0 28px;
+    text-align: center;
+  }
+  .text-toggle button {
+    background: #fff;
+    border: 1.5px solid #b8431c;
+    color: #1a1d23;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .text-toggle button:hover {
+    background: #fafbfc;
+    border-color: #8c2f12;
+  }
+  .text-toggle button .icon {
+    color: #b8431c;
+    margin-right: 8px;
+    font-weight: 600;
+  }
+  .text-toggle .note {
+    display: block;
+    margin-top: 8px;
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  /* === V1 Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  /* Side tabs (same as V2) */
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  /* Marginalia */
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span><a href="./">Majjhima Nikāya</a><span>›</span>MN 1
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya · Discourse 1</div>
+  <h1>The Root of All Things</h1>
+  <p class="subtitle"><em>Mūlapariyāyasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Subhaga Forest, at the root of a magnificent sal tree, near Ukkaṭṭhā</dd>
+      <dt>Audience</dt><dd>A community of mendicants</dd>
+      <dt>Form</dt><dd>8 perspectives × 24 categories = 192 parallel sections, plus a 2-line setup and a single closing line</dd>
+      <dt>Length</dt><dd>~5 minutes if chanted; ~10 minutes once you see the structure</dd>
+      <dt>Northern parallel</dt><dd>EA 44.6 (Ekottarikāgama)</dd>
+      <dt>Difficulty</dt><dd>★★★★☆ — one of the most demanding openers in the MN</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse comes first</h2>
+    <p class="lede">
+      The Majjhima Nikāya opens not with a story, not with a meditation instruction, and not with a parable — but with a diagnosis. Before the Buddha can teach you anything, he must first show you what your mind is already doing.
+    </p>
+    <p>
+      What is the mind doing? It is taking experience — the four physical elements, the gods, the realms of meditation, even the goal of awakening itself — and turning each one into a <em>thing</em>. A thing that <em>is</em>. A thing that <em>I</em> stand in relation to. A thing I can call mine. The Pāli word is <em>maññanā</em>: conceiving, fabricating, positing. It is the silent grammar of selfhood.
+    </p>
+    <p>
+      The sutta lays out twenty-four classes of phenomena and shows, for each, the same operation repeating. Once you see the pattern, the rest of the Majjhima Nikāya becomes a series of practical answers to the question raised here: <em>How do we stop doing this?</em>
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full 194-segment translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Suffering does not begin with what we perceive; it begins with what we add to what we perceive.
+    </p>
+
+    <h3>The architecture: eight perspectives</h3>
+    <p>The Buddha runs the same list of twenty-four categories through eight progressively refined points of view:</p>
+    <table>
+      <thead>
+        <tr><th>Stage</th><th>Who</th><th>What they do</th><th>Why</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>The unlearned ordinary person <em>(puthujjana)</em></td><td>Perceives X, then conceives X</td><td>Has not understood it</td></tr>
+        <tr><td>2</td><td>The trainee <em>(sekha)</em></td><td>Directly knows X, told not to conceive</td><td>So that they may fully understand</td></tr>
+        <tr><td>3</td><td>The arahant</td><td>Directly knows, does not conceive</td><td>Because greed has ended</td></tr>
+        <tr><td>4</td><td>The arahant</td><td>Same</td><td>Because hatred has ended</td></tr>
+        <tr><td>5</td><td>The arahant</td><td>Same</td><td>Because delusion has ended</td></tr>
+        <tr><td>6</td><td>The arahant</td><td>Same</td><td>Because they have fully understood</td></tr>
+        <tr><td>7</td><td>The Tathāgata</td><td>Same</td><td>Because he has understood to the very end</td></tr>
+        <tr><td>8</td><td>The Tathāgata</td><td>Same</td><td>Because approval itself is the root of suffering</td></tr>
+      </tbody>
+    </table>
+    <p>The first stage is where every untrained mind lives. The eighth stage is the title of the sutta — the actual <em>root</em> being named.</p>
+
+    <h3>The twenty-four categories, grouped</h3>
+    <ol>
+      <li><strong>The four elements</strong> — earth, water, fire, air. The body and the physical world.</li>
+      <li><strong>The five higher beings</strong> — creatures, gods, the Progenitor (Pajāpati), the Divinity (Brahmā), and the Vanquisher. The whole pantheon of Indian cosmology.</li>
+      <li><strong>The three radiant heavens</strong> — those of streaming radiance, those of universal beauty, those of abundant fruit. The fine-material realms reached through deep concentration.</li>
+      <li><strong>The four formless attainments</strong> — infinite space, infinite consciousness, nothingness, neither-perception-nor-non-perception. The peaks of meditative absorption.</li>
+      <li><strong>The four modes of knowing</strong> — the seen, the heard, the thought, the known. The architecture of cognition itself.</li>
+      <li><strong>The three abstractions</strong> — oneness, diversity, the all. The categories philosophy reaches for when ordinary objects run out.</li>
+      <li><strong>Extinguishment</strong> <em>(nibbāna)</em> — the goal of the path.</li>
+    </ol>
+    <p>Notice the arc: from the most ordinary (a clod of earth) to the most refined (Brahmā), to the most subtle (formless meditation), to the most abstract (oneness, the all), and finally to <em>liberation itself</em>. The Buddha is saying: no matter how exalted the object, the mind can still <em>conceive</em> it. Even nibbāna.</p>
+
+    <h3>The five modes of conceiving</h3>
+    <p>For every category, the unlearned person does five things. Watch them as five separate moves:</p>
+    <ul>
+      <li><strong>Conceives it <em>to be</em> X</strong> — turns the percept into a thing with a fixed identity.</li>
+      <li><strong>Conceives <em>in</em> X</strong> — locates a self inside the object.</li>
+      <li><strong>Conceives <em>from</em> / <em>as</em> X</strong> — locates a self standing apart from the object.</li>
+      <li><strong>Conceives "X is mine"</strong> — claims ownership.</li>
+      <li><strong>Approves / relishes X</strong> — delights in it, gives it emotional charge.</li>
+    </ul>
+    <p>These five together are the full anatomy of clinging. The whole sutta is built on the contrast: the ordinary person does all five; the awakened mind does none.</p>
+
+    <h3>The closing twist</h3>
+    <p>
+      The Buddha ends — and the text reports, almost casually — <em>"That is what the Buddha said. But the mendicants did not approve what the Buddha said."</em> This is unusual. Most suttas end with the audience delighted. Here, the very monks listening fail at the final exam: they do not <em>approve</em> the teaching — which is precisely the move the teaching told them not to make. The commentary suggests they were learned scholars whose pride was deflated. Whether or not we accept that reading, the ending is a mirror: the moment we hear "do not relish nibbāna," our mind quietly relishes <em>not relishing</em>. The sutta will not let you out cleanly.
+    </p>
+
+    <h3>A modern parallel</h3>
+    <p>
+      Consider the way a person describes an emotion: "I am anxious." Four moves are already done. There is an "I." There is an "anxiety." The I has it. The I dislikes (or, more subtly, identifies with) it. By the time the sentence is spoken, a whole architecture of self has been built on top of a fluctuation in breath rate and chest tension. The sutta is asking us to notice, with each category we meet, what additional structures we are constructing — and to see that <em>those constructions, not the percepts, are the problem</em>.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"If even nibbāna can be reified, how can we ever talk about it?"</strong> Carefully. The sutta is not banning the word; it is warning against the move of turning the word into a possession. You can point at the moon without owning it.</p>
+    <p><strong>"Is this nihilism — telling us nothing is real?"</strong> No. The sutta does not deny that earth is earth. The arahant <em>directly knows</em> earth as earth — more accurately than anyone else. What stops is not the perception; what stops is the silent addition of an "I" and a "mine."</p>
+    <p><strong>"Why list the gods? I don't believe in gods."</strong> You don't have to. The list is exhaustive on purpose. The Buddha is saying: whatever your cosmology contains — atoms, energy, consciousness, the universe, God, "the ground of being" — the operation is the same. Substitute your own categories. The instruction holds.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">maññati</span> — to conceive, to construct, to posit. The verb that the entire sutta turns on. The noun form <em>maññanā</em> is sometimes translated as "conceiving" or "I-making."
+      </div>
+      <div class="term">
+        <span class="pali-word">pariññāta</span> — completely / fully understood. Not "understood" in the sense of having the right concept, but in the sense of having seen through to the end.
+      </div>
+      <div class="term">
+        <span class="pali-word">puthujjana</span> — the untrained, ordinary person. Not a moral insult; a technical term for anyone who has not yet had the first transformative insight (stream-entry).
+      </div>
+      <div class="term">
+        <span class="pali-word">sekha</span> — a trainee. Someone on the path but not yet fully arrived.
+      </div>
+      <div class="term">
+        <span class="pali-word">nibbāna</span> — extinguishment. The sutta uses it as the twenty-fourth category, not as a synonym for heaven or eternity. Sujato and Thanissaro both translate it concretely as "extinguishment" rather than borrowing the Sanskrit.
+      </div>
+      <div class="term">
+        <span class="pali-word">tathāgata</span> — the Realized One; literally "thus-gone" or "thus-come." The Buddha's preferred term for himself when speaking impersonally.
+      </div>
+      <div class="term">
+        <span class="pali-word">nandi</span> — relishing, delight. The fifth and most subtle of the five modes of conceiving — the emotional approval that locks the others in place.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The Pāli is structurally repetitive — 192 sections cycling through 8 perspectives × 24 categories. The condensed view below gives the opening in full, one complete cycle in full, and then signposts the rest so the structure stays legible. The full 194-segment view is one click away — and reading it all is part of reading the sutta. The translation is Bhikkhu Sujato's (released CC0 by SuttaCentral).
+    </div>
+
+    <div class="text-toggle">
+      <button id="toggle-text" type="button"><span class="icon">↓</span><span class="btn-label">Show all 194 segments</span></button>
+      <span class="note">No real reading of a sūtra skips the repetitions — they are the form. Open the full text when you are ready.</span>
+    </div>
+
+    <div class="text-block" id="text-condensed">
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent sal tree. There the Buddha addressed the mendicants, "Mendicants!" "Venerable sir," they replied. The Buddha said this:</p>
+
+      <p><span class="segno">§2</span>"Mendicants, I will teach you the explanation of the root of all things. Listen and apply your minds well, I will speak." "Yes, sir," they replied. The Buddha said this:</p>
+
+      <h3 style="margin-top:32px">Stage 1 — The unlearned ordinary person</h3>
+
+      <p><span class="segno">§3</span>"Take an unlearned ordinary person who has not seen the noble ones, and is neither skilled nor trained in the teaching of the noble ones. They've not seen true persons, and are neither skilled nor trained in the teaching of the true persons. They perceive earth as earth. Having perceived earth as earth, they conceive it to be earth, they conceive it in earth, they conceive it as earth, they conceive that 'earth is mine', they approve earth. Why is that? Because they haven't completely understood it, I say."</p>
+
+      <div class="compact">
+        <strong>§§4–25</strong> — The same operation is then repeated, identically, for: water · fire · air · creatures · gods · the Progenitor · the Divinity · those of streaming radiance · those of universal beauty · those of abundant fruit · the Vanquisher · the dimension of infinite space · the dimension of infinite consciousness · the dimension of nothingness · the dimension of neither perception nor non-perception · the seen · the heard · the thought · the known · oneness · diversity · the all.
+      </div>
+
+      <p><span class="segno">§26</span>"They perceive extinguishment as extinguishment. Having perceived extinguishment as extinguishment, they conceive it to be extinguishment, they conceive it in extinguishment, they conceive it as extinguishment, they conceive that 'extinguishment is mine', they approve extinguishment. Why is that? Because they haven't completely understood it, I say."</p>
+
+      <h3 style="margin-top:32px">Stage 2 — The trainee</h3>
+
+      <p><span class="segno">§27</span>"A mendicant who is a trainee, who hasn't achieved their heart's desire, but lives aspiring to the supreme sanctuary from the yoke, directly knows earth as earth. Having directly known earth as earth, let them not conceive it to be earth, let them not conceive it in earth, let them not conceive it as earth, let them not conceive that 'earth is mine', let them not approve earth. Why is that? So that they may completely understand it, I say."</p>
+
+      <div class="compact">
+        <strong>§§28–50</strong> — Repeated through all twenty-four categories, ending again with extinguishment.
+      </div>
+
+      <h3 style="margin-top:32px">Stages 3–6 — The arahant, in four lenses</h3>
+
+      <p><span class="segno">§51</span>"A mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart's goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment — directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth … Why is that? Because they have completely understood it, I say."</p>
+
+      <div class="compact">
+        The arahant cycle (§§51–146) then runs the full twenty-four-category list <strong>four times</strong>, each round restating the same observation but giving a different reason:
+        <br>· because they have fully understood (§§51–74)
+        <br>· because they are free of greed, due to the ending of greed (§§75–98)
+        <br>· because they are free of hate, due to the ending of hate (§§99–122)
+        <br>· because they are free of delusion, due to the ending of delusion (§§123–146)
+      </div>
+
+      <h3 style="margin-top:32px">Stages 7–8 — The Tathāgata, in two lenses</h3>
+
+      <p><span class="segno">§147</span>"The Realized One, the perfected one, the fully awakened Buddha directly knows earth as earth. Having directly known earth as earth, he does not conceive it to be earth … Why is that? Because the Realized One has completely understood it to the end, I say."</p>
+
+      <div class="compact">
+        <strong>§§148–170</strong> — The cycle through all twenty-four categories.
+      </div>
+
+      <p><span class="segno">§171</span>"The Realized One, the perfected one, the fully awakened Buddha directly knows earth as earth. Having directly known earth as earth, he does not conceive it to be earth … Why is that? <strong>Because he has understood that approval is the root of suffering, and that rebirth comes from continued existence; whoever has come to be gets old and dies.</strong> That's why the Realized One — with the ending, fading away, cessation, giving up, and letting go of all cravings — has awakened to the supreme perfect awakening, I say."</p>
+
+      <div class="compact">
+        <strong>§§172–193</strong> — The final cycle, twenty-three more categories, closing on extinguishment.
+      </div>
+
+      <p><span class="segno">§194</span>"He directly knows extinguishment as extinguishment. Having directly known extinguishment as extinguishment, he does not conceive it to be extinguishment … Why is that? Because he has understood that approval is the root of suffering …"</p>
+
+      <p style="margin-top:18px"><strong>That is what the Buddha said. But the mendicants did not approve what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+
+    <div class="text-block" id="text-full" style="display:none">
+
+      <p><span class="segno">§1</span>So I have heard. At one time the Buddha was staying near Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent sal tree. There the Buddha addressed the mendicants, "Mendicants!" "Venerable sir," they replied. The Buddha said this:</p>
+
+      <p><span class="segno">§2</span>"Mendicants, I will teach you the explanation of the root of all things. Listen and apply your minds well, I will speak." "Yes, sir," they replied. The Buddha said this:</p>
+
+      <h3 style="margin-top:32px">Stage 1 — The unlearned ordinary person</h3>
+
+      <p><span class="segno">§3</span>"Take an unlearned ordinary person who has not seen the noble ones, and is neither skilled nor trained in the teaching of the noble ones. They've not seen true persons, and are neither skilled nor trained in the teaching of the true persons. They perceive earth as earth. Having perceived earth as earth, they conceive it to be earth, they conceive it in earth, they conceive it as earth, they conceive that 'earth is mine', they approve earth. Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§4</span>They perceive water as water. Having perceived water as water, they conceive it to be water … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§5</span>They perceive fire as fire. Having perceived fire as fire, they conceive it to be fire … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§6</span>They perceive air as air. Having perceived air as air, they conceive it to be air … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§7</span>They perceive creatures as creatures. Having perceived creatures as creatures, they conceive them to be creatures … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§8</span>They perceive gods as gods. Having perceived gods as gods, they conceive them to be gods … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§9</span>They perceive the Progenitor as the Progenitor. Having perceived the Progenitor as the Progenitor, they conceive him to be the Progenitor … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§10</span>They perceive the Divinity as the Divinity. Having perceived the Divinity as the Divinity, they conceive him to be the Divinity … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§11</span>They perceive those of streaming radiance as those of streaming radiance. Having perceived those of streaming radiance as those of streaming radiance, they conceive them to be those of streaming radiance … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§12</span>They perceive those of universal beauty as those of universal beauty. But then they conceive them to be those of universal beauty … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§13</span>They perceive those of abundant fruit as those of abundant fruit. Having perceived those of abundant fruit as those of abundant fruit, they conceive them to be those of abundant fruit … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§14</span>They perceive the Vanquisher as the Vanquisher. Having perceived the Vanquisher as the Vanquisher, they conceive him to be the Vanquisher … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§15</span>They perceive the dimension of infinite space as the dimension of infinite space. Having perceived the dimension of infinite space as the dimension of infinite space, they conceive it to be the dimension of infinite space … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§16</span>They perceive the dimension of infinite consciousness as the dimension of infinite consciousness. Having perceived the dimension of infinite consciousness as the dimension of infinite consciousness, they conceive it to be the dimension of infinite consciousness … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§17</span>They perceive the dimension of nothingness as the dimension of nothingness. Having perceived the dimension of nothingness as the dimension of nothingness, they conceive it to be the dimension of nothingness … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§18</span>They perceive the dimension of neither perception nor non-perception as the dimension of neither perception nor non-perception. Having perceived the dimension of neither perception nor non-perception as the dimension of neither perception nor non-perception, they conceive it to be the dimension of neither perception nor non-perception … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§19</span>They perceive the seen as the seen. Having perceived the seen as the seen, they conceive it to be the seen … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§20</span>They perceive the heard as the heard. Having perceived the heard as the heard, they conceive it to be the heard … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§21</span>They perceive the thought as the thought. Having perceived the thought as the thought, they conceive it to be the thought … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§22</span>They perceive the known as the known. Having perceived the known as the known, they conceive it to be the known … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§23</span>They perceive oneness as oneness. Having perceived oneness as oneness, they conceive it to be oneness … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§24</span>They perceive diversity as diversity. Having perceived diversity as diversity, they conceive it to be diversity … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§25</span>They perceive all as all. Having perceived all as all, they conceive it to be all … Why is that? Because they haven't completely understood it, I say.</p>
+
+      <p><span class="segno">§26</span>They perceive extinguishment as extinguishment. Having perceived extinguishment as extinguishment, they conceive it to be extinguishment, they conceive it in extinguishment, they conceive it as extinguishment, they conceive that 'extinguishment is mine', they approve extinguishment. Why is that? Because they haven't completely understood it, I say.</p>
+
+      <h3 style="margin-top:32px">Stage 2 — The trainee</h3>
+
+      <p><span class="segno">§27</span>A mendicant who is a trainee, who hasn't achieved their heart's desire, but lives aspiring to the supreme sanctuary from the yoke, directly knows earth as earth. Having directly known earth as earth, let them not conceive it to be earth, let them not conceive it in earth, let them not conceive it as earth, let them not conceive that 'earth is mine', let them not approve earth. Why is that? So that they may completely understand it, I say.</p>
+
+      <p><span class="segno">§28</span>They directly know water …</p>
+      <p><span class="segno">§29</span>fire …</p>
+      <p><span class="segno">§30</span>air …</p>
+      <p><span class="segno">§31</span>creatures …</p>
+      <p><span class="segno">§32</span>gods …</p>
+      <p><span class="segno">§33</span>the Progenitor …</p>
+      <p><span class="segno">§34</span>the Divinity …</p>
+      <p><span class="segno">§35</span>those of streaming radiance …</p>
+      <p><span class="segno">§36</span>those replete with glory …</p>
+      <p><span class="segno">§37</span>those of abundant fruit …</p>
+      <p><span class="segno">§38</span>the Vanquisher …</p>
+      <p><span class="segno">§39</span>the dimension of infinite space …</p>
+      <p><span class="segno">§40</span>the dimension of infinite consciousness …</p>
+      <p><span class="segno">§41</span>the dimension of nothingness …</p>
+      <p><span class="segno">§42</span>the dimension of neither perception nor non-perception …</p>
+      <p><span class="segno">§43</span>the seen …</p>
+      <p><span class="segno">§44</span>the heard …</p>
+      <p><span class="segno">§45</span>the thought …</p>
+      <p><span class="segno">§46</span>the known …</p>
+      <p><span class="segno">§47</span>oneness …</p>
+      <p><span class="segno">§48</span>diversity …</p>
+      <p><span class="segno">§49</span>all …</p>
+
+      <p><span class="segno">§50</span>They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, let them not conceive it to be extinguishment, let them not conceive it in extinguishment, let them not conceive it as extinguishment, let them not conceive that 'extinguishment is mine', let them not approve extinguishment. Why is that? So that they may completely understand it, I say.</p>
+
+      <h3 style="margin-top:32px">Stage 3 — The arahant: because they have completely understood</h3>
+
+      <p><span class="segno">§51</span>A mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart's goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment — directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that 'earth is mine', they do not approve earth. Why is that? Because they have completely understood it, I say.</p>
+
+      <p><span class="segno">§52</span>They directly know water …</p>
+      <p><span class="segno">§53</span>fire …</p>
+      <p><span class="segno">§54</span>air …</p>
+      <p><span class="segno">§55</span>creatures …</p>
+      <p><span class="segno">§56</span>gods …</p>
+      <p><span class="segno">§57</span>the Progenitor …</p>
+      <p><span class="segno">§58</span>the Divinity …</p>
+      <p><span class="segno">§59</span>those of streaming radiance …</p>
+      <p><span class="segno">§60</span>those replete with glory …</p>
+      <p><span class="segno">§61</span>those of abundant fruit …</p>
+      <p><span class="segno">§62</span>the Vanquisher …</p>
+      <p><span class="segno">§63</span>the dimension of infinite space …</p>
+      <p><span class="segno">§64</span>the dimension of infinite consciousness …</p>
+      <p><span class="segno">§65</span>the dimension of nothingness …</p>
+      <p><span class="segno">§66</span>the dimension of neither perception nor non-perception …</p>
+      <p><span class="segno">§67</span>the seen …</p>
+      <p><span class="segno">§68</span>the heard …</p>
+      <p><span class="segno">§69</span>the thought …</p>
+      <p><span class="segno">§70</span>the known …</p>
+      <p><span class="segno">§71</span>oneness …</p>
+      <p><span class="segno">§72</span>diversity …</p>
+      <p><span class="segno">§73</span>all …</p>
+
+      <p><span class="segno">§74</span>They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, they do not conceive it to be extinguishment, they do not conceive it in extinguishment, they do not conceive it as extinguishment, they do not conceive that 'extinguishment is mine', they do not approve extinguishment. Why is that? Because they have completely understood it, I say.</p>
+
+      <h3 style="margin-top:32px">Stage 4 — The arahant: free of greed</h3>
+
+      <p><span class="segno">§75</span>A mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart's goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment — directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that 'earth is mine', they do not approve earth. Why is that? Because they're free of greed due to the ending of greed.</p>
+
+      <p><span class="segno">§76</span>They directly know water …</p>
+      <p><span class="segno">§77</span>fire …</p>
+      <p><span class="segno">§78</span>air …</p>
+      <p><span class="segno">§79</span>creatures …</p>
+      <p><span class="segno">§80</span>gods …</p>
+      <p><span class="segno">§81</span>the Progenitor …</p>
+      <p><span class="segno">§82</span>the Divinity …</p>
+      <p><span class="segno">§83</span>those of streaming radiance …</p>
+      <p><span class="segno">§84</span>those replete with glory …</p>
+      <p><span class="segno">§85</span>those of abundant fruit …</p>
+      <p><span class="segno">§86</span>the Vanquisher …</p>
+      <p><span class="segno">§87</span>the dimension of infinite space …</p>
+      <p><span class="segno">§88</span>the dimension of infinite consciousness …</p>
+      <p><span class="segno">§89</span>the dimension of nothingness …</p>
+      <p><span class="segno">§90</span>the dimension of neither perception nor non-perception …</p>
+      <p><span class="segno">§91</span>the seen …</p>
+      <p><span class="segno">§92</span>the heard …</p>
+      <p><span class="segno">§93</span>the thought …</p>
+      <p><span class="segno">§94</span>the known …</p>
+      <p><span class="segno">§95</span>oneness …</p>
+      <p><span class="segno">§96</span>diversity …</p>
+      <p><span class="segno">§97</span>all …</p>
+
+      <p><span class="segno">§98</span>They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, they do not conceive it to be extinguishment, they do not conceive it in extinguishment, they do not conceive it as extinguishment, they do not conceive that 'extinguishment is mine', they do not approve extinguishment. Why is that? Because they're free of greed due to the ending of greed.</p>
+
+      <h3 style="margin-top:32px">Stage 5 — The arahant: free of hate</h3>
+
+      <p><span class="segno">§99</span>A mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart's goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment — directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that 'earth is mine', they do not approve earth. Why is that? Because they're free of hate due to the ending of hate.</p>
+
+      <p><span class="segno">§100</span>They directly know water …</p>
+      <p><span class="segno">§101</span>fire …</p>
+      <p><span class="segno">§102</span>air …</p>
+      <p><span class="segno">§103</span>creatures …</p>
+      <p><span class="segno">§104</span>gods …</p>
+      <p><span class="segno">§105</span>the Progenitor …</p>
+      <p><span class="segno">§106</span>the Divinity …</p>
+      <p><span class="segno">§107</span>those of streaming radiance …</p>
+      <p><span class="segno">§108</span>those replete with glory …</p>
+      <p><span class="segno">§109</span>those of abundant fruit …</p>
+      <p><span class="segno">§110</span>the Vanquisher …</p>
+      <p><span class="segno">§111</span>the dimension of infinite space …</p>
+      <p><span class="segno">§112</span>the dimension of infinite consciousness …</p>
+      <p><span class="segno">§113</span>the dimension of nothingness …</p>
+      <p><span class="segno">§114</span>the dimension of neither perception nor non-perception …</p>
+      <p><span class="segno">§115</span>the seen …</p>
+      <p><span class="segno">§116</span>the heard …</p>
+      <p><span class="segno">§117</span>the thought …</p>
+      <p><span class="segno">§118</span>the known …</p>
+      <p><span class="segno">§119</span>oneness …</p>
+      <p><span class="segno">§120</span>diversity …</p>
+      <p><span class="segno">§121</span>all …</p>
+
+      <p><span class="segno">§122</span>They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, they do not conceive it to be extinguishment, they do not conceive it in extinguishment, they do not conceive it as extinguishment, they do not conceive that 'extinguishment is mine', they do not approve extinguishment. Why is that? Because they're free of hate due to the ending of hate.</p>
+
+      <h3 style="margin-top:32px">Stage 6 — The arahant: free of delusion</h3>
+
+      <p><span class="segno">§123</span>A mendicant who is perfected — with defilements ended, who has completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart's goal, utterly ended the fetter of continued existence, and is rightly freed through enlightenment — directly knows earth as earth. Having directly known earth as earth, they do not conceive it to be earth, they do not conceive it in earth, they do not conceive it as earth, they do not conceive that 'earth is mine', they do not approve earth. Why is that? Because they're free of delusion due to the ending of delusion.</p>
+
+      <p><span class="segno">§124</span>They directly know water …</p>
+      <p><span class="segno">§125</span>fire …</p>
+      <p><span class="segno">§126</span>air …</p>
+      <p><span class="segno">§127</span>creatures …</p>
+      <p><span class="segno">§128</span>gods …</p>
+      <p><span class="segno">§129</span>the Progenitor …</p>
+      <p><span class="segno">§130</span>the Divinity …</p>
+      <p><span class="segno">§131</span>those of streaming radiance …</p>
+      <p><span class="segno">§132</span>those replete with glory …</p>
+      <p><span class="segno">§133</span>those of abundant fruit …</p>
+      <p><span class="segno">§134</span>the Vanquisher …</p>
+      <p><span class="segno">§135</span>the dimension of infinite space …</p>
+      <p><span class="segno">§136</span>the dimension of infinite consciousness …</p>
+      <p><span class="segno">§137</span>the dimension of nothingness …</p>
+      <p><span class="segno">§138</span>the dimension of neither perception nor non-perception …</p>
+      <p><span class="segno">§139</span>the seen …</p>
+      <p><span class="segno">§140</span>the heard …</p>
+      <p><span class="segno">§141</span>the thought …</p>
+      <p><span class="segno">§142</span>the known …</p>
+      <p><span class="segno">§143</span>oneness …</p>
+      <p><span class="segno">§144</span>diversity …</p>
+      <p><span class="segno">§145</span>all …</p>
+
+      <p><span class="segno">§146</span>They directly know extinguishment as extinguishment. Having directly known extinguishment as extinguishment, they do not conceive it to be extinguishment, they do not conceive it in extinguishment, they do not conceive it as extinguishment, they do not conceive that 'extinguishment is mine', they do not approve extinguishment. Why is that? Because they're free of delusion due to the ending of delusion.</p>
+
+      <h3 style="margin-top:32px">Stage 7 — The Tathāgata: completely understood to the end</h3>
+
+      <p><span class="segno">§147</span>The Realized One, the perfected one, the fully awakened Buddha directly knows earth as earth. Having directly known earth as earth, he does not conceive it to be earth, he does not conceive it in earth, he does not conceive it as earth, he does not conceive that 'earth is mine', he does not approve earth. Why is that? Because the Realized One has completely understood it to the end, I say.</p>
+
+      <p><span class="segno">§148</span>He directly knows water …</p>
+      <p><span class="segno">§149</span>fire …</p>
+      <p><span class="segno">§150</span>air …</p>
+      <p><span class="segno">§151</span>creatures …</p>
+      <p><span class="segno">§152</span>gods …</p>
+      <p><span class="segno">§153</span>the Progenitor …</p>
+      <p><span class="segno">§154</span>the Divinity …</p>
+      <p><span class="segno">§155</span>those of streaming radiance …</p>
+      <p><span class="segno">§156</span>those replete with glory …</p>
+      <p><span class="segno">§157</span>those of abundant fruit …</p>
+      <p><span class="segno">§158</span>the Vanquisher …</p>
+      <p><span class="segno">§159</span>the dimension of infinite space …</p>
+      <p><span class="segno">§160</span>the dimension of infinite consciousness …</p>
+      <p><span class="segno">§161</span>the dimension of nothingness …</p>
+      <p><span class="segno">§162</span>the dimension of neither perception nor non-perception …</p>
+      <p><span class="segno">§163</span>the seen …</p>
+      <p><span class="segno">§164</span>the heard …</p>
+      <p><span class="segno">§165</span>the thought …</p>
+      <p><span class="segno">§166</span>the known …</p>
+      <p><span class="segno">§167</span>oneness …</p>
+      <p><span class="segno">§168</span>diversity …</p>
+      <p><span class="segno">§169</span>all …</p>
+
+      <p><span class="segno">§170</span>He directly knows extinguishment as extinguishment. Having directly known extinguishment as extinguishment, he does not conceive it to be extinguishment, he does not conceive it in extinguishment, he does not conceive it as extinguishment, he does not conceive that 'extinguishment is mine', he does not approve extinguishment. Why is that? Because the Realized One has completely understood it to the end, I say.</p>
+
+      <h3 style="margin-top:32px">Stage 8 — The Tathāgata: approval is the root of suffering</h3>
+
+      <p><span class="segno">§171</span>The Realized One, the perfected one, the fully awakened Buddha directly knows earth as earth. Having directly known earth as earth, he does not conceive it to be earth, he does not conceive it in earth, he does not conceive it as earth, he does not conceive that 'earth is mine', he does not approve earth. Why is that? Because he has understood that approval is the root of suffering, and that rebirth comes from continued existence; whoever has come to be gets old and dies. That's why the Realized One — with the ending, fading away, cessation, giving up, and letting go of all cravings — has awakened to the supreme perfect awakening, I say.</p>
+
+      <p><span class="segno">§172</span>He directly knows water …</p>
+      <p><span class="segno">§173</span>fire …</p>
+      <p><span class="segno">§174</span>air …</p>
+      <p><span class="segno">§175</span>creatures …</p>
+      <p><span class="segno">§176</span>gods …</p>
+      <p><span class="segno">§177</span>the Progenitor …</p>
+      <p><span class="segno">§178</span>the Divinity …</p>
+      <p><span class="segno">§179</span>those of streaming radiance …</p>
+      <p><span class="segno">§180</span>those replete with glory …</p>
+      <p><span class="segno">§181</span>those of abundant fruit …</p>
+      <p><span class="segno">§182</span>the Vanquisher …</p>
+      <p><span class="segno">§183</span>the dimension of infinite space …</p>
+      <p><span class="segno">§184</span>the dimension of infinite consciousness …</p>
+      <p><span class="segno">§185</span>the dimension of nothingness …</p>
+      <p><span class="segno">§186</span>the dimension of neither perception nor non-perception …</p>
+      <p><span class="segno">§187</span>the seen …</p>
+      <p><span class="segno">§188</span>the heard …</p>
+      <p><span class="segno">§189</span>the thought …</p>
+      <p><span class="segno">§190</span>the known …</p>
+      <p><span class="segno">§191</span>oneness …</p>
+      <p><span class="segno">§192</span>diversity …</p>
+      <p><span class="segno">§193</span>all …</p>
+
+      <p><span class="segno">§194</span>He directly knows extinguishment as extinguishment. Having directly known extinguishment as extinguishment, he does not conceive it to be extinguishment, he does not conceive it in extinguishment, he does not conceive it as extinguishment, he does not conceive that 'extinguishment is mine', he does not approve extinguishment. Why is that? Because he has understood that approval is the root of suffering, and that rebirth comes from continued existence; whoever has come to be gets old and dies. That's why the Realized One — with the ending, fading away, cessation, giving up, and letting go of all cravings — has awakened to the supreme perfect Awakening, I say."</p>
+
+      <p style="margin-top:20px"><strong>That is what the Buddha said. But the mendicants did not approve what the Buddha said.</strong></p>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size: 18px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What is the central operation that the unlearned ordinary person performs, according to MN 1?</div>
+        <button class="opt">They fail to perceive things accurately.</button>
+        <button class="opt">They conceive — they add structures of self, ownership, and approval onto what they perceive.</button>
+        <button class="opt">They reject the teachings of the noble ones.</button>
+        <button class="opt">They cling to material things while rejecting spiritual ones.</button>
+        <div class="expl"><strong>Correct: B.</strong> The Pāli verb <em>maññati</em> ("to conceive") is the heart of the sutta. The problem is not faulty perception — even the Buddha perceives earth as earth — but the silent additions the mind makes on top of perception.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">Why does the Buddha include <em>nibbāna</em> (extinguishment) as the twenty-fourth category — alongside earth, gods, and the formless realms?</div>
+        <button class="opt">To show that nibbāna is just another sense object.</button>
+        <button class="opt">To deny that nibbāna exists.</button>
+        <button class="opt">To warn that even the goal itself can be reified — turned into a "thing" the practitioner claims as theirs.</button>
+        <button class="opt">Because nibbāna is the easiest category to understand.</button>
+        <div class="expl"><strong>Correct: C.</strong> This is the sutta's most subtle move. Any concept, no matter how exalted — even liberation — can become an object of <em>maññanā</em>. The instruction "do not conceive nibbāna as 'mine'" is what distinguishes the awakened mind from a sophisticated form of spiritual ego.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">The trainee (sekha) is told <em>"let them not conceive"</em> — but the arahant simply <em>does not conceive</em>. What is the difference?</div>
+        <button class="opt">The trainee is doing meditation; the arahant has stopped meditating.</button>
+        <button class="opt">For the trainee, non-conceiving is still an instruction to follow; for the arahant, it is the natural state of a mind from which clinging has fallen away.</button>
+        <button class="opt">The trainee has not yet read the suttas; the arahant has memorized them.</button>
+        <button class="opt">There is no real difference — both are equally awakened.</button>
+        <div class="expl"><strong>Correct: B.</strong> The grammar shifts deliberately. The trainee receives the operation as a prescription ("let them not"); the arahant simply lives it ("they do not"). The same description, but with a different relationship to the action — practice has become nature.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">The unlearned person performs five distinct moves with each category. Which set best describes them?</div>
+        <button class="opt">Sees it, hears it, thinks it, knows it, doubts it.</button>
+        <button class="opt">Likes it, hates it, fears it, loves it, ignores it.</button>
+        <button class="opt">Conceives it <em>to be</em> X, conceives <em>in</em> X, conceives <em>as</em> X, conceives "<em>X is mine</em>", and approves X.</button>
+        <button class="opt">Perceives it, names it, classifies it, judges it, files it away.</button>
+        <div class="expl"><strong>Correct: C.</strong> These five together — the four conceivings plus the relishing (<em>nandi</em>) — form the full anatomy of clinging that the sutta is dissecting. They appear in every one of the 192 parallel sections.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">Why does the Buddha give the arahant's freedom <em>four</em> different reasons — fully understood, free of greed, free of hate, free of delusion — instead of just one?</div>
+        <button class="opt">Because each arahant has a different temperament.</button>
+        <button class="opt">Because there are four kinds of arahant, ranked by attainment.</button>
+        <button class="opt">Because the same liberation can be looked at through different lenses — wisdom (understanding) and the ending of each of the three poisons (greed, hate, delusion) — all describing one event.</button>
+        <button class="opt">Because three of these reasons apply only on certain days.</button>
+        <div class="expl"><strong>Correct: C.</strong> This is a common pedagogical device in the Pāli canon: a single state, described through complementary aspects. Liberation can be named by what it knows (full understanding) or by what it lacks (the three poisons). The fourfold repetition makes vivid that wisdom and the ending of the poisons are not separate achievements.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">The closing line — <em>"the mendicants did not approve what the Buddha said"</em> — is unusual in the Pāli canon. What is its most likely teaching function?</div>
+        <button class="opt">It records that the Buddha lost an argument.</button>
+        <button class="opt">It holds up a mirror: the teaching warned against approving / relishing, and the listeners' very disapproval performs the same trap in reverse — showing how subtle the operation is.</button>
+        <button class="opt">It implies the teaching was a mistake.</button>
+        <button class="opt">It is a scribal error and most translators correct it.</button>
+        <div class="expl"><strong>Correct: B.</strong> The traditional commentary says the monks were learned scholars whose pride was deflated. Whether or not we accept that backstory, the line works as a structural mirror: the moment we react to "do not relish," our minds quietly relish (or, equally, disrelish) the instruction itself. The sutta refuses to let the reader exit comfortably.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">In the sutta, "the seen, the heard, the thought, the known" refers to:</div>
+        <button class="opt">The four modes of cognition — covering everything a mind can take as an object.</button>
+        <button class="opt">The four senses of the body.</button>
+        <button class="opt">Four kinds of scripture.</button>
+        <button class="opt">Four schools of philosophy in ancient India.</button>
+        <div class="expl"><strong>Correct: A.</strong> <em>Diṭṭha, suta, muta, viññāta</em> — the standard Pāli formula for the full architecture of knowing. Together they cover sight, hearing, the other senses (taste, smell, touch grouped as <em>muta</em>, "thought" or "sensed"), and the mind's own objects.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">A Western student says: "This sutta is just nihilism — it tells us nothing is real." What is the most accurate response?</div>
+        <button class="opt">"You're right, that's why we no longer teach it."</button>
+        <button class="opt">"The sutta never denies that earth is earth. The arahant <em>directly knows</em> earth as earth, more accurately than anyone else. What ceases is not the perception, but the silent additions of self and ownership."</button>
+        <button class="opt">"All Buddhist teachings are essentially nihilistic."</button>
+        <button class="opt">"Only the Mahāyāna corrects this overemphasis."</button>
+        <div class="expl"><strong>Correct: B.</strong> A common Western misreading is to treat <em>maññati</em>-free perception as a denial of phenomena. The sutta is precise: perception remains; what falls away is the construction of self around the perception. The arahant is more, not less, in contact with the world.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">The sutta's twenty-four categories move in a deliberate sequence. Which best describes that arc?</div>
+        <button class="opt">From the abstract to the concrete.</button>
+        <button class="opt">From the human to the animal.</button>
+        <button class="opt">From the most ordinary (earth) through the divine, the meditative, the cognitive, the abstract — all the way to nibbāna itself.</button>
+        <button class="opt">From the painful to the pleasant.</button>
+        <div class="expl"><strong>Correct: C.</strong> The list ascends through cosmological registers — physical elements, deities, refined heavens, formless meditative attainments, modes of cognition, philosophical abstractions — and ends with liberation. The implicit point: no register, however exalted, is immune from the operation of <em>maññanā</em>.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">Why is "extinguishment" preferred over "heaven" or even "Nirvana" as a translation of <em>nibbāna</em> in this sutta?</div>
+        <button class="opt">Because Sujato dislikes Sanskrit.</button>
+        <button class="opt">Because "extinguishment" preserves the verb's concrete meaning — the going-out of a fire — which is exactly the imagery the sutta needs; "heaven" smuggles in Western theological associations that distort the teaching.</button>
+        <button class="opt">Because "heaven" is too long a word.</button>
+        <button class="opt">Because "Nirvana" has been copyrighted.</button>
+        <div class="expl"><strong>Correct: B.</strong> The literal sense of <em>nibbāna</em> is the extinguishing of a flame — fire deprived of fuel goes <em>out</em>. Translating it as "heaven" imports an entire cosmology the sutta is in fact trying to dismantle. For Western audiences, the concrete English word does more work than the borrowed Sanskrit term.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">maññati</span>to conceive, to construct</li>
+        <li><span class="pali">pariññāta</span>completely understood</li>
+        <li><span class="pali">puthujjana</span>unlearned ordinary person</li>
+        <li><span class="pali">sekha</span>trainee</li>
+        <li><span class="pali">nibbāna</span>extinguishment</li>
+        <li><span class="pali">tathāgata</span>the Realized One</li>
+        <li><span class="pali">nandi</span>relishing, delight</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 22 · The Simile of the Cobra</li>
+        <li>MN 38 · Ending of Craving</li>
+        <li>MN 121 · Shorter Emptiness</li>
+        <li>MN 148 · The Six Sets of Six</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn1/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> — with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN1.html" target="_blank" rel="noopener">Thanissaro Bhikkhu's translation</a> — a sparer, more philosophical rendering.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/zh/T0125_044" target="_blank" rel="noopener">Northern parallel — EA 44.6</a> — the Chinese Ekottarikāgama counterpart, for textual comparison.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="./"><span class="label">↑ Index</span>All discourses</a>
+    <a href="mn-002.html" class="next"><span class="label">Next →</span>MN 2 · All the Defilements</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation © Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  // Tab navigation
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  // Deep-link support: #guide / #text / #quiz
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  // Text view toggle
+  const toggleBtn = document.getElementById('toggle-text');
+  const condensed = document.getElementById('text-condensed');
+  const full = document.getElementById('text-full');
+  const label = toggleBtn.querySelector('.btn-label');
+  const icon = toggleBtn.querySelector('.icon');
+  toggleBtn.addEventListener('click', function() {
+    const showingFull = full.style.display !== 'none';
+    if (showingFull) {
+      full.style.display = 'none';
+      condensed.style.display = '';
+      label.textContent = 'Show all 194 segments';
+      icon.textContent = '↓';
+    } else {
+      condensed.style.display = 'none';
+      full.style.display = '';
+      label.textContent = 'Back to condensed view';
+      icon.textContent = '↑';
+      // Scroll the text section into view so the reader doesn't lose their place
+      toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+
+  // Quiz
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

@@ -11,25 +11,38 @@ title: The Discourses
   </div>
 </section>
 
-<section class="discourses-page">
-  <div class="discourses-inner">
-    <p>We are working through the canon one collection at a time. Right now: the <em>Majjhima Nikāya</em> — the "middle-length discourses" — 152 dialogues that include some of the most luminous and practical of the Buddha's teachings.</p>
-    <p>Each entry below pairs the discourse itself with a plain-English explanation written for modern readers. We do not assume you know the technical vocabulary; where we have to use a Pāli term, we say what it means.</p>
-
-    <div class="callout">
-      <p><strong>A note on this section.</strong> Our current Majjhima Nikāya commentary lives on our sister project <a href="https://academy.ruyimeditation.org/">academy.ruyimeditation.org</a>. We are in the process of bringing it home to this site. The links below take you there for now.</p>
+<section class="section section-cream">
+  <div class="section-inner">
+    <div class="section-head">
+      <span class="eyebrow">Series in progress</span>
+      <h2>Choose a discourse to enter.</h2>
+      <p class="lede">We are working through the Pāli Canon one collection at a time. The first — the Majjhima Nikāya — is live below.</p>
     </div>
 
-    <h2 style="margin-top: 56px;">Majjhima Nikāya <em>— The Middle Discourses</em></h2>
-    <ul class="discourse-list">
-      {% assign mn = site.discourses | sort: 'sutta_number' %}
-      {% for d in mn %}
-      <li class="discourse-row">
-        <span class="discourse-id">{{ d.sutta_id }}</span>
-        <span class="discourse-title"><a href="{{ d.url | relative_url }}">{{ d.title }}</a></span>
-        <span class="discourse-pali">{{ d.pali_title }}</span>
-      </li>
-      {% endfor %}
-    </ul>
+    <div class="entry-grid">
+      <a href="{{ '/discourses/majjhima-nikaya/' | relative_url }}" class="entry-card live">
+        <span class="card-tag"><span class="live-dot"></span>Live · 25 entries</span>
+        <h3>Majjhima Nikāya</h3>
+        <p class="card-sub">The Middle-Length Discourses of the Buddha</p>
+        <p class="card-desc">152 dialogues, parables, and meditation instructions from the Pāli Canon. Each entry has a reading guide written for English speakers, the full Sujato translation, and a self-check quiz.</p>
+        <span class="card-action">Enter the series →</span>
+      </a>
+
+      <div class="entry-card placeholder">
+        <span class="card-tag">In preparation</span>
+        <h3>Saṃyutta Nikāya</h3>
+        <p class="card-sub">The Connected Discourses</p>
+        <p class="card-desc">Shorter, thematically grouped discourses on the central topics of the path: dependent origination, the aggregates, the four foundations of mindfulness.</p>
+        <span class="card-action" style="color:#a8aab0;">Coming</span>
+      </div>
+
+      <div class="entry-card placeholder">
+        <span class="card-tag">In preparation</span>
+        <h3>Dīgha Nikāya</h3>
+        <p class="card-sub">The Long Discourses</p>
+        <p class="card-desc">The longest dialogues of the Pāli Canon — sweeping framings of the path, encounters with other teachers, the Buddha's life and final words.</p>
+        <span class="card-action" style="color:#a8aab0;">Coming</span>
+      </div>
+    </div>
   </div>
 </section>
