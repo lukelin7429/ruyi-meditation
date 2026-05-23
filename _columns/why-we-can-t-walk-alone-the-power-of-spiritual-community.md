@@ -1,5 +1,5 @@
 ---
-title: "\"Why We Can't Walk Alone: The Power of Spiritual Community\""
+title: "Why We Can't Walk Alone: The Power of Spiritual Community"
 author: Luke Lin
 original_date: 2026-02-01
 tags: [ruyi, meditation, column, luke-lin, sangha, community, kalyana-mitta]

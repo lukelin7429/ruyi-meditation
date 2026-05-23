@@ -1,5 +1,5 @@
 ---
-title: "\"The Honeyed Blade: How to Trade Cheap Thrills for Lasting Peace\""
+title: "The Honeyed Blade: How to Trade Cheap Thrills for Lasting Peace"
 author: Luke Lin
 original_date: 2026-01-28
 tags: [ruyi, meditation, column, luke-lin, addiction, vipassana, samatha]

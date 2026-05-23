@@ -1,5 +1,5 @@
 ---
-title: "\"Beyond the Illusion: Cultivating the Path of Purity and Sensual Liberation\""
+title: "Beyond the Illusion: Cultivating the Path of Purity and Sensual Liberation"
 author: Luke Lin
 original_date: 2026-02-20
 tags: [ruyi, meditation, column, luke-lin, celibacy, asubha, visuddhimagga]

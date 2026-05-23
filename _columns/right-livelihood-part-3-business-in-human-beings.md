@@ -1,5 +1,5 @@
 ---
-title: "Right Livelihood Part 3 – Business in Human Beings"
+title: Right Livelihood Part 3 – Business in Human Beings
 author: Jennafer Duerden
 tags: [ruyi, meditation, column, jennafer-duerden, right-livelihood, ethical-consumerism, three-poisons, supply-chain]
 source: "https://sites.google.com/ruyimeditation.org/ruyi/columns/jennafer-duerden/livelihood-3"

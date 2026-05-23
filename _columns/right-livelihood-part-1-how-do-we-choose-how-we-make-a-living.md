@@ -1,5 +1,5 @@
 ---
-title: "\"Right Livelihood Part 1: How do We Choose How We Make a Living?\""
+title: "Right Livelihood Part 1: How do We Choose How We Make a Living?"
 author: Jennafer Duerden
 original_date: 2021-10-20
 tags: [ruyi, meditation, column, jennafer-duerden, right-livelihood, eightfold-path, ethics, career]

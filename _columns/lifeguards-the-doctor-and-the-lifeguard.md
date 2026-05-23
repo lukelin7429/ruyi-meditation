@@ -1,5 +1,5 @@
 ---
-title: "\"The Doctor and the Lifeguard: Breaking the Myths of Buddhism\""
+title: "The Doctor and the Lifeguard: Breaking the Myths of Buddhism"
 author: Luke Lin
 original_date: 2026-02-06
 tags: [ruyi, meditation, column, luke-lin, four-noble-truths, monasticism]

@@ -1,5 +1,5 @@
 ---
-title: "\"Beyond the Light Switch: Why Precepts are the Secret to Meditative Bliss\""
+title: "Beyond the Light Switch: Why Precepts are the Secret to Meditative Bliss"
 author: Luke Lin
 original_date: 2026-02-07
 tags: [ruyi, meditation, column, luke-lin, precepts, sila, jhana]

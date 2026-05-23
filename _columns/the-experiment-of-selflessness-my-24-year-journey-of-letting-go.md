@@ -1,5 +1,5 @@
 ---
-title: "\"The Experiment of Selflessness: My 24-Year Journey of Letting Go\""
+title: "The Experiment of Selflessness: My 24-Year Journey of Letting Go"
 author: Luke Lin
 original_date: 2026-01-30
 tags: [ruyi, meditation, column, luke-lin, anatta, dana, volunteering]

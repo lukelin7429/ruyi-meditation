@@ -1,5 +1,5 @@
 ---
-title: "\"Choosing Your Destination: Why not All Meditation is the Same\""
+title: "Choosing Your Destination: Why not All Meditation is the Same"
 author: Luke Lin
 original_date: 2026-02-10
 tags: [ruyi, meditation, column, luke-lin, comparative-religion, taoism, yoga]

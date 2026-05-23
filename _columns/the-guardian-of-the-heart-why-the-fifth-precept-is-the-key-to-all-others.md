@@ -1,5 +1,5 @@
 ---
-title: "\"The Guardian of the Heart: Why the Fifth Precept is the Key to All Others\""
+title: "The Guardian of the Heart: Why the Fifth Precept is the Key to All Others"
 author: Luke Lin
 original_date: 2026-02-25
 tags: [ruyi, meditation, column, luke-lin, five-precepts, addiction, mindfulness]

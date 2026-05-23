@@ -66,6 +66,8 @@ def parse_frontmatter(raw: str) -> tuple[dict, str]:
         val = val.strip()
         if val.startswith("[") and val.endswith("]"):
             val = [v.strip().strip("'\"") for v in val[1:-1].split(",") if v.strip()]
+        elif (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
+            val = val[1:-1].replace('\\"', '"').replace("\\'", "'")
         front[key] = val
     return front, body
 

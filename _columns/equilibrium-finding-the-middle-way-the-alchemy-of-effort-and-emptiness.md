@@ -1,5 +1,5 @@
 ---
-title: "\"Finding the Middle Way: The Alchemy of Effort and Emptiness\""
+title: "Finding the Middle Way: The Alchemy of Effort and Emptiness"
 author: Luke Lin
 original_date: 2026-04-06
 tags: [ruyi, meditation, column, luke-lin, middle-way, prajna, emptiness]

@@ -1,5 +1,5 @@
 ---
-title: "Right Livelihood Part 2 – Business in Meat"
+title: Right Livelihood Part 2 – Business in Meat
 author: Jennafer Duerden
 tags: [ruyi, meditation, column, jennafer-duerden, right-livelihood, veganism, vegetarianism, compassion, animals]
 source: "https://sites.google.com/ruyimeditation.org/ruyi/columns/jennafer-duerden/livelihood-2"

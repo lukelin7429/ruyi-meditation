@@ -1,5 +1,5 @@
 ---
-title: "\"The Ultimate University: Finding My Place in the School of the Three Jewels\""
+title: "The Ultimate University: Finding My Place in the School of the Three Jewels"
 author: Luke Lin
 original_date: 2026-02-11
 tags: [ruyi, meditation, column, luke-lin, three-jewels, education, refuge]
