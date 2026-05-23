@@ -11,32 +11,44 @@ title: Columns
   </div>
 </section>
 
-<section class="columns-page">
-  <div class="columns-inner">
-    {% assign by_author = site.columns | group_by: 'author' %}
-    {% assign ordered_authors = "Luke Lin,Jennafer Duerden,Emily Hogle,Quentin Gooch" | split: "," %}
+{% assign by_author = site.columns | group_by: 'author' %}
+{% assign ordered_authors = "Luke Lin,Jennafer Duerden,Emily Hogle,Quentin Gooch" | split: "," %}
 
-    {% for author_name in ordered_authors %}
-      {% assign group = by_author | where: 'name', author_name | first %}
-      {% if group %}
-      <div class="author-section">
-        <div class="author-section-head">
-          <h2>{{ author_name }}</h2>
-          <span class="author-section-count">{{ group.items | size }} essays</span>
-        </div>
-        <div class="column-grid">
-          {% assign sorted = group.items | sort: 'original_date' | reverse %}
-          {% for col in sorted %}
-          <a class="column-card" href="{{ col.url | relative_url }}">
-            <span class="col-date">
-              {% if col.original_date %}{{ col.original_date | date: '%b %-d, %Y' }}{% else %}—{% endif %}
-            </span>
-            <h3>{{ col.title }}</h3>
-          </a>
-          {% endfor %}
-        </div>
+{% for author_name in ordered_authors %}
+  {% assign group = by_author | where: 'name', author_name | first %}
+  {% if group %}
+  <section class="columns-page" style="padding-top: 64px; padding-bottom: 32px;{% if forloop.index == 1 %}{% else %} border-top: 1px solid #dee2e6;{% endif %}">
+    <div class="columns-inner">
+      <div class="author-section-head">
+        <h2>{{ author_name }}</h2>
+        <span class="author-section-count">{{ group.items | size }} essays</span>
       </div>
-      {% endif %}
-    {% endfor %}
-  </div>
-</section>
+      <div class="col-feature-grid">
+        {% assign sorted = group.items | sort: 'original_date' | reverse %}
+        {% for col in sorted %}
+        <a class="col-feature" href="{{ col.url | relative_url }}">
+          <span class="col-feature-tag">
+            {% if col.tags contains 'ai' %}On AI
+            {% elsif col.tags contains 'family' %}On Family
+            {% elsif col.tags contains 'right-livelihood' %}On Right Livelihood
+            {% elsif col.tags contains 'breath' or col.tags contains 'anapanasati' %}On Meditation
+            {% elsif col.tags contains 'mahayana' or col.tags contains 'dharma' %}On the Dharma
+            {% elsif col.tags contains 'current-events' %}On Our Times
+            {% elsif col.tags contains 'ethics' %}On Ethics
+            {% else %}Essay
+            {% endif %}
+          </span>
+          <h3>{{ col.title }}</h3>
+          <p class="col-feature-excerpt">{{ col.content | strip_html | strip_newlines | truncate: 240 }}</p>
+          <div class="col-feature-meta">
+            <span class="col-feature-read">Read →</span>
+            <span class="col-feature-meta-sep">·</span>
+            {% if col.original_date %}<time datetime="{{ col.original_date }}">{{ col.original_date | date: '%B %-d, %Y' }}</time>{% endif %}
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endif %}
+{% endfor %}
