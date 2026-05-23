@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<article class="article">
-  <div class="container container-reading">
+<article class="article-wrap">
+  <div class="article-inner">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="{{ '/columns/' | relative_url }}">Columns</a>
-      <span class="breadcrumb-sep">/</span>
+      <span class="sep">/</span>
       <span>{{ page.author | default: 'Luke Lin' }}</span>
     </nav>
     <header class="article-header">
@@ -13,7 +13,7 @@ layout: default
       <p class="article-meta">
         By <span class="article-author">{{ page.author | default: 'Luke Lin' }}</span>
         {% if page.original_date %}
-        · <time datetime="{{ page.original_date }}">{{ page.original_date | date: '%B %-d, %Y' }}</time>
+        &nbsp;·&nbsp; <time datetime="{{ page.original_date }}">{{ page.original_date | date: '%B %-d, %Y' }}</time>
         {% endif %}
       </p>
     </header>

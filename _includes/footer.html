@@ -1,29 +1,30 @@
 <footer class="site-footer">
-  <div class="container">
+  <div class="footer-inner">
     <div class="footer-grid">
       <div class="footer-col">
-        <h3 class="footer-heading">Ru-Yi Meditation Center</h3>
-        <p class="footer-line">如意禪修中心</p>
-        <p class="footer-line">Founded 2017 · Nantou, Taiwan</p>
+        <div class="footer-mark">Ru-Yi Meditation Center</div>
+        <p>如意禪修中心</p>
+        <p>Founded 2017 · Nantou, Taiwan</p>
       </div>
       <div class="footer-col">
-        <h3 class="footer-heading">Visit</h3>
-        <p class="footer-line">{{ site.center.location_en }}</p>
-        <p class="footer-line">{{ site.center.location_zh }}</p>
+        <h3>Visit</h3>
+        <p>{{ site.center.location_en }}</p>
+        <p>{{ site.center.location_zh }}</p>
       </div>
       <div class="footer-col">
-        <h3 class="footer-heading">Contact</h3>
-        <p class="footer-line"><a href="mailto:{{ site.center.email }}">{{ site.center.email }}</a></p>
-        <p class="footer-line">{{ site.center.phone }}</p>
+        <h3>Contact</h3>
+        <p><a href="mailto:{{ site.center.email }}">{{ site.center.email }}</a></p>
+        <p>{{ site.center.phone }}</p>
       </div>
       <div class="footer-col">
-        <h3 class="footer-heading">中文姊妹站</h3>
-        <p class="footer-line"><a href="{{ site.center.sister_site_zh.url }}">{{ site.center.sister_site_zh.name }} · ruyi99.org</a></p>
-        <p class="footer-line muted">For Mandarin-speaking community in Taiwan</p>
+        <h3>中文姊妹站</h3>
+        <p><a href="{{ site.center.sister_site_zh.url }}">{{ site.center.sister_site_zh.name }} · ruyi99.org</a></p>
+        <p>For our Mandarin-speaking community in Taiwan.</p>
       </div>
     </div>
     <div class="footer-bottom">
-      <p>© {{ 'now' | date: '%Y' }} Ru-Yi Meditation Center. All teachings shared freely.</p>
+      <p>© {{ 'now' | date: '%Y' }} Ru-Yi Meditation Center</p>
+      <p>Free, in keeping with the Buddha's instruction.</p>
     </div>
   </div>
 </footer>

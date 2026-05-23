@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<article class="article discourse">
-  <div class="container container-reading">
+<article class="article-wrap">
+  <div class="article-inner">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="{{ '/discourses/' | relative_url }}">The Discourses</a>
-      {% if page.collection_label %}<span class="breadcrumb-sep">/</span><span>{{ page.collection_label }}</span>{% endif %}
+      {% if page.collection_label %}<span class="sep">/</span><span>{{ page.collection_label }}</span>{% endif %}
     </nav>
     <header class="article-header">
       {% if page.sutta_id %}<p class="sutta-id">{{ page.sutta_id }}</p>{% endif %}

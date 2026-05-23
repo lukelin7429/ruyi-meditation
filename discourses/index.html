@@ -4,29 +4,27 @@ title: The Discourses
 ---
 
 <section class="page-header">
-  <div class="container">
-    <h1>The Discourses</h1>
-    <p class="page-header-lede">The discourses of the Buddha (<em>suttas</em>), preserved for two and a half millennia in the Pali Canon — and explained for the English-speaking practitioner, without hiding behind jargon.</p>
+  <div class="page-header-inner">
+    <span class="eyebrow">The Discourses</span>
+    <h1>The Buddha's dialogues, <em>in plain English.</em></h1>
+    <p class="lede">The discourses of the Buddha (<em>suttas</em>), preserved for two and a half millennia in the Pāli Canon — explained for the English-speaking practitioner, without hiding behind jargon.</p>
   </div>
 </section>
 
-<section class="discourses-intro">
-  <div class="container container-reading">
+<section class="discourses-page">
+  <div class="discourses-inner">
     <p>We are working through the canon one collection at a time. Right now: the <em>Majjhima Nikāya</em> — the "middle-length discourses" — 152 dialogues that include some of the most luminous and practical of the Buddha's teachings.</p>
-    <p>Each entry below pairs the discourse itself with a plain-English explanation written for modern readers. We do not assume you know the technical vocabulary; where we have to use a Pali term, we say what it means.</p>
-    <div class="callout">
-      <p><strong>A note on this section.</strong> Our current Majjhima Nikāya commentary lives on our sister project <a href="https://academy.ruyimeditation.org/majjhima-nikaya">academy.ruyimeditation.org</a>. We are in the process of bringing it home to this site. The links below take you there for now.</p>
-    </div>
-  </div>
-</section>
+    <p>Each entry below pairs the discourse itself with a plain-English explanation written for modern readers. We do not assume you know the technical vocabulary; where we have to use a Pāli term, we say what it means.</p>
 
-<section class="column-section">
-  <div class="container container-reading">
-    <h2>Majjhima Nikāya — The Middle Discourses</h2>
+    <div class="callout">
+      <p><strong>A note on this section.</strong> Our current Majjhima Nikāya commentary lives on our sister project <a href="https://academy.ruyimeditation.org/">academy.ruyimeditation.org</a>. We are in the process of bringing it home to this site. The links below take you there for now.</p>
+    </div>
+
+    <h2 style="margin-top: 56px;">Majjhima Nikāya <em>— The Middle Discourses</em></h2>
     <ul class="discourse-list">
       {% assign mn = site.discourses | sort: 'sutta_number' %}
       {% for d in mn %}
-      <li class="discourse-item">
+      <li class="discourse-row">
         <span class="discourse-id">{{ d.sutta_id }}</span>
         <span class="discourse-title"><a href="{{ d.url | relative_url }}">{{ d.title }}</a></span>
         <span class="discourse-pali">{{ d.pali_title }}</span>

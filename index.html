@@ -3,69 +3,167 @@ layout: default
 title: Home
 ---
 
-<section class="hero">
-  <div class="container">
-    <span class="hero-eyebrow">如意禪修中心 · Founded 2017</span>
-    <h1>Ancient wisdom, in plain English.</h1>
-    <p class="hero-lede">A Buddhist meditation center in central Taiwan, offering authentic dharma teachings to seekers across the world. Free, since the beginning.</p>
-    <p>
-      <a class="hero-cta" href="{{ '/columns/' | relative_url }}">Read the columns →</a>
-      <a class="hero-cta-secondary" href="{{ '/about/' | relative_url }}">About Ru-Yi</a>
-    </p>
-  </div>
-</section>
+<!-- ============ HERO ============ -->
+<header class="hero">
+  <div class="hero-grid">
+    <div class="hero-text">
+      <div class="parent-mark">如意禪修中心 · Founded 2017 · Nantou, Taiwan</div>
+      <h1>Ancient wisdom,<br><em>in plain English.</em></h1>
+      <div class="gold-rule"></div>
+      <p class="vision">A Buddhist meditation center in central Taiwan, offering authentic dharma teachings to seekers around the world. Free, since the beginning.</p>
+      <div class="cta-row">
+        <a href="{{ '/columns/' | relative_url }}" class="btn btn-primary">
+          Read the columns
+          <span class="arrow">→</span>
+        </a>
+        <a href="{{ '/about/' | relative_url }}" class="btn btn-ghost">About Ru-Yi</a>
+      </div>
+      <div class="hero-meta">
+        <span class="dot"></span>
+        Two founders &nbsp;·&nbsp; {{ site.columns | size }} essays &nbsp;·&nbsp; Always free
+      </div>
+    </div>
 
-<section class="section">
-  <div class="container">
-    <span class="section-eyebrow">What we offer</span>
-    <h2 class="section-heading">Three ways to walk this path with us.</h2>
-    <p class="section-intro">Ru-Yi means "as one wishes" — but the deeper meaning, drawn from <em>iddhipāda</em>, is to be master of one's own mind. These are the three doors we open.</p>
-    <div class="offer-grid">
-      <div class="offer">
-        <h3>Mental Clarity</h3>
-        <p class="offer-zh">心智清明</p>
-        <p>Practical techniques for moving beyond daily pressure and arriving at inner stillness. Meditation grounded in the original suttas, not pop psychology.</p>
-      </div>
-      <div class="offer">
-        <h3>Community Support</h3>
-        <p class="offer-zh">社群陪伴</p>
-        <p>Small study circles, retreats in the mountains of Nantou, and a worldwide network of practitioners who keep each other honest on the path.</p>
-      </div>
-      <div class="offer">
-        <h3>New Perspectives</h3>
-        <p class="offer-zh">嶄新視角</p>
-        <p>The Buddha's wisdom applied to the questions that actually trouble modern life: AI, family, career, climate, the news cycle, mortality.</p>
-      </div>
+    <div class="hero-visual">
+      <svg class="hero-svg" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <!-- Outer faint ring -->
+        <circle cx="250" cy="250" r="225" fill="none" stroke="#b8431c" stroke-width="1" opacity="0.32"/>
+        <!-- Large pale filled disc, offset -->
+        <circle cx="225" cy="280" r="150" fill="#dfe3e8" opacity="0.55"/>
+        <!-- Mid ring -->
+        <circle cx="285" cy="235" r="170" fill="none" stroke="#8c2f12" stroke-width="1.2" opacity="0.55"/>
+        <!-- Inner thick gold ring -->
+        <circle cx="280" cy="265" r="78" fill="none" stroke="#b8431c" stroke-width="2.4" opacity="0.9"/>
+        <!-- Small filled solid gold circle -->
+        <circle cx="320" cy="245" r="14" fill="#b8431c"/>
+        <!-- Tiny accents -->
+        <circle cx="170" cy="220" r="4" fill="#8c2f12" opacity="0.8"/>
+        <circle cx="385" cy="305" r="3" fill="#b8431c" opacity="0.7"/>
+        <circle cx="220" cy="370" r="5" fill="#8c2f12" opacity="0.5"/>
+        <!-- Subtle radial highlight -->
+        <circle cx="245" cy="245" r="38" fill="#fafbfc" opacity="0.65"/>
+      </svg>
+    </div>
+  </div>
+</header>
+
+<!-- ============ THREE ENTRY CARDS ============ -->
+<section id="begin" class="section section-cream">
+  <div class="section-inner">
+    <div class="section-head">
+      <span class="eyebrow">Where to begin</span>
+      <h2>Three doors into Ru-Yi.</h2>
+      <p class="lede">Wherever you are on the path — curious newcomer, returning practitioner, or seasoned student — there is a place to start with us.</p>
+    </div>
+
+    <div class="entry-grid">
+      <a href="{{ '/columns/' | relative_url }}" class="entry-card live">
+        <span class="card-tag"><span class="live-dot"></span>{{ site.columns | size }} essays</span>
+        <h3>The Columns</h3>
+        <p class="card-sub">Buddhist wisdom meets contemporary life</p>
+        <p class="card-desc">Sixty essays by Executive Director Luke Lin and a circle of contributors, holding ancient teachings against the questions that actually trouble modern life: AI, family, mortality, the news cycle, career, climate.</p>
+        <span class="card-action">Browse all columns →</span>
+      </a>
+
+      <a href="{{ '/discourses/' | relative_url }}" class="entry-card live">
+        <span class="card-tag"><span class="live-dot"></span>Live</span>
+        <h3>The Discourses</h3>
+        <p class="card-sub">The Buddha's dialogues, in plain English</p>
+        <p class="card-desc">Working through the <em>Majjhima Nikāya</em> — the middle-length collection — one sutta at a time. Each entry pairs the Buddha's discourse with a reading guide that does not hide behind Pali jargon.</p>
+        <span class="card-action">Enter The Discourses →</span>
+      </a>
+
+      <a href="{{ '/about/' | relative_url }}" class="entry-card live">
+        <span class="card-tag"><span class="live-dot"></span>About</span>
+        <h3>The Center</h3>
+        <p class="card-sub">Founded 2017 by two Buddhist nuns</p>
+        <p class="card-desc">In the mountains of Nantou, Ven. Master Yang-hui and Ven. Master Da-hui established a small meditation center with one simple commitment: teach the dharma freely, in clear language, to anyone who is genuinely curious.</p>
+        <span class="card-action">Meet the founders →</span>
+      </a>
     </div>
   </div>
 </section>
 
-<section class="section">
-  <div class="container">
-    <span class="section-eyebrow">Recent writing</span>
-    <h2 class="section-heading">Columns from the center.</h2>
-    <p class="section-intro">Sixty essays and counting — by Executive Director Luke Lin and a small circle of regular contributors. Each piece holds an ancient teaching against a piece of contemporary life and sees what survives.</p>
-    {% assign recent = site.columns | sort: 'original_date' | reverse | slice: 0, 3 %}
-    <div class="featured-grid">
+<!-- ============ VISION QUOTE (dark) ============ -->
+<section class="section section-dark vision-section">
+  <span class="eyebrow on-dark">Our mission</span>
+  <blockquote class="big-quote">
+    <span class="quote-mark">"</span>To make authentic Buddhist teachings freely accessible to every sincere seeker.<span class="quote-mark">"</span>
+  </blockquote>
+  <div class="quote-attribution">Ru-Yi Meditation Center · since 2017</div>
+</section>
+
+<!-- ============ RECENT COLUMNS ============ -->
+<section class="section section-white">
+  <div class="section-inner">
+    <div class="section-head">
+      <span class="eyebrow">Recent writing</span>
+      <h2>From the columns.</h2>
+      <p class="lede">A handful of the most recent essays from the center. The full archive of {{ site.columns | size }} pieces — by Luke Lin, Jennafer Duerden, Emily Hogle, and Quentin Gooch — is one click away.</p>
+    </div>
+    {% assign recent = site.columns | sort: 'original_date' | reverse | slice: 0, 6 %}
+    <div class="recent-grid">
       {% for col in recent %}
-      <article class="feature-card">
-        <span class="feature-card-eyebrow">{{ col.author | default: 'Luke Lin' }}</span>
-        <h3><a href="{{ col.url | relative_url }}">{{ col.title }}</a></h3>
+      <a class="recent-card" href="{{ col.url | relative_url }}">
+        <span class="card-meta">{{ col.author | default: 'Luke Lin' }}</span>
+        <h3>{{ col.title }}</h3>
         {% if col.original_date %}
-        <p class="feature-card-meta">{{ col.original_date | date: '%B %-d, %Y' }}</p>
+        <p class="card-date">{{ col.original_date | date: '%B %-d, %Y' }}</p>
         {% endif %}
-      </article>
+      </a>
       {% endfor %}
     </div>
-    <p style="margin-top: 2.5rem;"><a class="hero-cta-secondary" href="{{ '/columns/' | relative_url }}">All columns →</a></p>
+    <div style="margin-top: 48px; text-align: center;">
+      <a href="{{ '/columns/' | relative_url }}" class="btn btn-gold">
+        All {{ site.columns | size }} columns
+        <span class="arrow">→</span>
+      </a>
+    </div>
   </div>
 </section>
 
-<section class="section">
-  <div class="container">
-    <span class="section-eyebrow">Source teachings</span>
-    <h2 class="section-heading">The Discourses, in plain English.</h2>
-    <p class="section-intro">The Buddha taught for forty-five years, and his discourses were preserved with extraordinary care. We're working through them — starting with the <em>Majjhima Nikāya</em>, the middle-length collection — and explaining each one without hiding behind jargon.</p>
-    <p><a class="hero-cta-secondary" href="{{ '/discourses/' | relative_url }}">Enter The Discourses →</a></p>
+<!-- ============ VALUES (four commitments) ============ -->
+<section class="section section-cream">
+  <div class="section-inner">
+    <div class="section-head">
+      <span class="eyebrow">What we stand for</span>
+      <h2>Four commitments.</h2>
+      <p class="lede">The principles behind every decision we make about what to publish, who can read it, and how we teach.</p>
+    </div>
+
+    <div class="values-grid">
+      <div class="value-tile">
+        <div class="value-num">01</div>
+        <h3><span class="pali">Dāna</span>Generosity</h3>
+        <p>All teachings free, and they will stay free. Sharing the Dharma is the practice — not a transaction.</p>
+      </div>
+      <div class="value-tile">
+        <div class="value-num">02</div>
+        <h3>Clarity</h3>
+        <p>Plain English. We do not hide behind jargon. Where we use a Pāli or Sanskrit term, we explain it.</p>
+      </div>
+      <div class="value-tile">
+        <div class="value-num">03</div>
+        <h3>Authenticity</h3>
+        <p>Grounded in the canonical sources of the Pāli, Chinese, and Sanskrit traditions — not in soft self-help.</p>
+      </div>
+      <div class="value-tile">
+        <div class="value-num">04</div>
+        <h3>Accessibility</h3>
+        <p>No geography, no language tax, no paywall. The Dharma was meant to be heard.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CONTACT ============ -->
+<section class="section section-white">
+  <div class="section-inner section-narrow">
+    <div class="contact-card">
+      <span class="eyebrow">Get in touch</span>
+      <h2>Visit us, or write.</h2>
+      <p>Our center sits at 800 metres in the mountains of Nantou's Xinyi Township. Mandarin speakers can also find us through our Chinese sister site, <a href="https://ruyi99.org">如意精舍 · ruyi99.org</a>, where event schedules and video archives live.</p>
+      <a href="mailto:ruyi@ruyimeditation.org" class="btn btn-gold">ruyi@ruyimeditation.org</a>
+    </div>
   </div>
 </section>
