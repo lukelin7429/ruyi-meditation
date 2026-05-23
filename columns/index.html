@@ -1,0 +1,44 @@
+---
+layout: default
+title: Columns
+---
+
+<section class="page-header">
+  <div class="container">
+    <h1>Columns</h1>
+    <p class="page-header-lede">Essays from Ru-Yi Meditation Center — applying ancient Buddhist teachings to contemporary life, written in plain English by Executive Director Luke Lin and a small circle of regular contributors.</p>
+  </div>
+</section>
+
+{% assign by_author = site.columns | group_by: 'author' %}
+{% assign ordered_authors = "Luke Lin,Jennafer Duerden,Emily Hogle,Quentin Gooch" | split: "," %}
+
+{% for author_name in ordered_authors %}
+  {% assign group = by_author | where: 'name', author_name | first %}
+  {% if group %}
+  <section class="column-section">
+    <div class="container">
+      <div class="column-section-header">
+        <h2>{{ author_name }}</h2>
+        <span class="column-section-count">{{ group.items | size }} essays</span>
+      </div>
+      <ul class="column-list">
+        {% assign sorted = group.items | sort: 'original_date' | reverse %}
+        {% for col in sorted %}
+        <li class="column-item">
+          <span class="column-item-date">
+            {% if col.original_date %}{{ col.original_date | date: '%b %-d, %Y' }}{% else %}—{% endif %}
+          </span>
+          <div>
+            <h3><a href="{{ col.url | relative_url }}">{{ col.title }}</a></h3>
+            {% if col.excerpt and author_name != 'Luke Lin' %}
+            <p class="column-item-author">{{ col.excerpt | strip_html | truncate: 180 }}</p>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,73 @@
+title: Ru-Yi Meditation Center
+tagline: Ancient wisdom in plain English. A meditation center in central Taiwan.
+description: >-
+  Ru-Yi Meditation Center is a Buddhist meditation center in Nantou, Taiwan,
+  offering authentic dharma teachings, English-language columns, and discourse
+  studies to practitioners and seekers around the world.
+
+url: "https://lukelin7429.github.io"
+baseurl: "/ruyi-meditation"
+
+permalink: pretty
+encoding: UTF-8
+timezone: Asia/Taipei
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+collections:
+  columns:
+    output: true
+    permalink: /columns/:path/
+  discourses:
+    output: true
+    permalink: /discourses/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "columns"
+    values:
+      layout: column
+  - scope:
+      path: ""
+      type: "discourses"
+    values:
+      layout: discourse
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .DS_Store
+  - scripts
+
+# Site metadata
+center:
+  founded: "2017-09-21"
+  founders:
+    - name_en: Ven. Master Yang-hui
+      name_zh: 陽慧法師
+      role: Co-founder
+    - name_en: Ven. Master Da-hui
+      name_zh: 達慧法師
+      role: Co-founder
+  executive_director:
+    name: Luke Lin
+    name_zh: 林吉祥
+  location_en: "No. 80, Yanghe Ln., Xinyi Township, Nantou County 556001, Taiwan"
+  location_zh: "南投縣信義鄉陽和巷 80 號"
+  email: ruyi@ruyimeditation.org
+  phone: "+886 928-961-171"
+  sister_site_zh:
+    name: 如意精舍
+    url: https://ruyi99.org

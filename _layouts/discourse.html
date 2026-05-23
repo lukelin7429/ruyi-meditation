@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="article discourse">
+  <div class="container container-reading">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/discourses/' | relative_url }}">The Discourses</a>
+      {% if page.collection_label %}<span class="breadcrumb-sep">/</span><span>{{ page.collection_label }}</span>{% endif %}
+    </nav>
+    <header class="article-header">
+      {% if page.sutta_id %}<p class="sutta-id">{{ page.sutta_id }}</p>{% endif %}
+      <h1 class="article-title">{{ page.title }}</h1>
+      {% if page.pali_title %}<p class="pali-title"><em>{{ page.pali_title }}</em></p>{% endif %}
+    </header>
+    <div class="article-body">
+      {{ content }}
+    </div>
+    <footer class="article-footer">
+      <a class="back-link" href="{{ '/discourses/' | relative_url }}">← All discourses</a>
+    </footer>
+  </div>
+</article>

@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="{{ '/' | relative_url }}" class="brand">
+      <span class="brand-mark">如意</span>
+      <span class="brand-name">Ru-Yi Meditation Center</span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url contains '/about' %} class="active"{% endif %}>About</a>
+      <a href="{{ '/columns/' | relative_url }}"{% if page.url contains '/columns' %} class="active"{% endif %}>Columns</a>
+      <a href="{{ '/discourses/' | relative_url }}"{% if page.url contains '/discourses' %} class="active"{% endif %}>The Discourses</a>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="article">
+  <div class="container container-reading">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/columns/' | relative_url }}">Columns</a>
+      <span class="breadcrumb-sep">/</span>
+      <span>{{ page.author | default: 'Luke Lin' }}</span>
+    </nav>
+    <header class="article-header">
+      <h1 class="article-title">{{ page.title }}</h1>
+      <p class="article-meta">
+        By <span class="article-author">{{ page.author | default: 'Luke Lin' }}</span>
+        {% if page.original_date %}
+        · <time datetime="{{ page.original_date }}">{{ page.original_date | date: '%B %-d, %Y' }}</time>
+        {% endif %}
+      </p>
+    </header>
+    <div class="article-body">
+      {{ content }}
+    </div>
+    <footer class="article-footer">
+      <a class="back-link" href="{{ '/columns/' | relative_url }}">← All columns</a>
+    </footer>
+  </div>
+</article>
