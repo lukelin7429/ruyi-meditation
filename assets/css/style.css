@@ -1118,3 +1118,183 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   .founder-card { padding: 36px 28px; }
   .discourse-row { grid-template-columns: 1fr; gap: 4px; }
 }
+
+/* ============ Practice pages: refuges, precepts, ceremony steps ============ */
+
+.refuges-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  margin-top: 36px;
+}
+.refuge-card {
+  padding: 44px 36px 40px;
+  background: #fff;
+  border: 1.5px solid #dee2e6;
+  border-radius: 10px;
+  border-top: 3px solid #b8431c;
+  display: flex;
+  flex-direction: column;
+}
+.refuge-num {
+  font-family: 'Playfair Display', serif;
+  font-size: 13px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #8c2f12;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+.refuge-card h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  margin-bottom: 4px;
+  color: #1a1a1a;
+}
+.refuge-pali {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 17px;
+  color: #8c2f12;
+  margin-bottom: 18px;
+}
+.refuge-translation {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 19px;
+  color: #4a4a4a;
+  line-height: 1.4;
+  margin-bottom: 18px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid #e7e7ea;
+}
+.refuge-card p {
+  color: #4a4a4a;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+.precepts-list {
+  margin-top: 40px;
+  border-top: 1px solid #dee2e6;
+}
+.precept-row {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 28px;
+  padding: 32px 0;
+  border-bottom: 1px solid #dee2e6;
+  align-items: start;
+}
+.precept-num {
+  font-family: 'Playfair Display', serif;
+  font-size: 44px;
+  font-weight: 500;
+  color: #b8431c;
+  line-height: 1;
+}
+.precept-body h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(22px, 2vw, 26px);
+  font-weight: 500;
+  margin-bottom: 6px;
+  color: #1a1a1a;
+}
+.precept-pali {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  color: #8c2f12;
+  font-size: 15.5px;
+  margin-bottom: 14px;
+  letter-spacing: 0.01em;
+}
+.precept-body p {
+  color: #4a4a4a;
+  font-size: 16.5px;
+  line-height: 1.65;
+}
+
+.steps-list {
+  margin-top: 40px;
+}
+.step-row {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  gap: 24px;
+  padding: 30px 0;
+  border-bottom: 1px solid #dee2e6;
+  align-items: start;
+}
+.step-row:first-child { border-top: 1px solid #dee2e6; }
+.step-num {
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+  font-weight: 500;
+  color: #8c2f12;
+  line-height: 1;
+}
+.step-body h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  color: #1a1a1a;
+}
+.step-body p {
+  color: #4a4a4a;
+  font-size: 16.5px;
+  line-height: 1.65;
+  margin-bottom: 12px;
+}
+.step-body p:last-child { margin-bottom: 0; }
+
+.formula {
+  margin: 18px 0 0;
+  padding: 22px 28px;
+  background: rgba(184, 67, 28, 0.06);
+  border-left: 3px solid #b8431c;
+  border-radius: 0 6px 6px 0;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 19px;
+  line-height: 1.55;
+  color: #2a2725;
+}
+.formula p { margin-bottom: 4px; color: #2a2725; font-family: inherit; font-size: inherit; font-style: inherit; }
+.formula p:last-child { margin-bottom: 0; }
+.formula .formula-note { font-style: normal; font-size: 14.5px; color: #6b6b6b; margin-top: 10px; }
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 36px 48px;
+  margin-top: 40px;
+}
+.faq-item h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 21px;
+  font-weight: 500;
+  margin-bottom: 12px;
+  color: #1a1a1a;
+  font-style: italic;
+}
+.faq-item p {
+  color: #4a4a4a;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+@media (max-width: 1024px) {
+  .refuges-grid { grid-template-columns: 1fr; gap: 22px; }
+  .faq-grid { grid-template-columns: 1fr; gap: 28px; }
+}
+@media (max-width: 640px) {
+  .precept-row, .step-row { grid-template-columns: 48px 1fr; gap: 16px; padding: 22px 0; }
+  .precept-num { font-size: 32px; }
+  .step-num { font-size: 24px; }
+  .refuge-card { padding: 32px 26px 28px; }
+  .refuge-card h3 { font-size: 30px; }
+  .formula { padding: 18px 22px; font-size: 17px; }
+}
