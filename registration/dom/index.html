@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Teacher Dom 英語課 報名 · 如意精舍 Ru-Yi Meditation</title>
+<meta name="description" content="如意精舍 Ru-Yi Meditation · Teacher Dom 週四英語課 報名表">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ----- Ru-Yi brand palette ----- */
+  :root{
+    --terra:#b8431c;
+    --terra-dark:#8c2f12;
+    --terra-light:#d66a48;
+    --navy:#14181f;
+    --navy-soft:#1f242e;
+    --ink:#1a1a1a;
+    --ink-soft:#4a4a4a;
+    --ink-muted:#6e6e6e;
+    --cream:#f5f6f8;
+    --line:#e7e7ea;
+    --max:680px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;}
+  body{
+    font-family:'Inter','PingFang TC','Microsoft JhengHei',sans-serif;
+    color:var(--ink);
+    background:#fff;
+    line-height:1.6;
+    padding:0 18px 60px;
+  }
+
+  /* ----- Hero ----- */
+  .hero{
+    position:relative;
+    margin:0 -18px 36px;
+    padding:60px 24px 80px;
+    text-align:center;
+    background:
+      radial-gradient(900px 450px at 88% -10%, rgba(214,106,72,.22) 0%, transparent 55%),
+      radial-gradient(700px 400px at -10% 110%, rgba(184,67,28,.20) 0%, transparent 60%),
+      linear-gradient(160deg, #14181f 0%, #1f242e 100%);
+    color:#fff;
+    overflow:hidden;
+    isolation:isolate;
+  }
+  .hero::before{
+    content:'';
+    position:absolute;
+    z-index:0;
+    width:320px; height:320px;
+    background:#b8431c;
+    border-radius:50%;
+    filter:blur(60px);
+    opacity:.30;
+    top:-100px; right:-100px;
+    animation:floatY 14s ease-in-out infinite alternate;
+  }
+  .hero::after{
+    content:'';
+    position:absolute;
+    z-index:0;
+    left:0; right:0; bottom:0;
+    height:48px;
+    background:linear-gradient(to bottom, transparent 0%, #fff 100%);
+    pointer-events:none;
+  }
+  @keyframes floatY{
+    from{transform:translateY(-15px);}
+    to  {transform:translateY(15px);}
+  }
+  @keyframes fadeUp{
+    from{opacity:0; transform:translateY(14px);}
+    to  {opacity:1; transform:translateY(0);}
+  }
+
+  .hero-inner{
+    position:relative;
+    z-index:2;
+    max-width:760px;
+    margin:0 auto;
+  }
+  .hero-eyebrow{
+    display:inline-block;
+    font-family:'Playfair Display',Georgia,serif;
+    font-size:13px;
+    letter-spacing:.30em;
+    text-transform:uppercase;
+    color:var(--terra-light);
+    font-weight:600;
+    margin-bottom:18px;
+    animation:fadeUp .7s ease both;
+  }
+  .hero-title{
+    font-family:'Playfair Display',Georgia,serif;
+    font-weight:500;
+    font-size:clamp(36px, 5.5vw, 54px);
+    color:#fff;
+    line-height:1.15;
+    margin-bottom:10px;
+    animation:fadeUp .7s .12s ease both;
+  }
+  .hero-title .zh{
+    font-family:'PingFang TC','Apple LiGothic Medium',sans-serif;
+    font-weight:600;
+    letter-spacing:.04em;
+  }
+  .hero-subtitle{
+    font-family:'Inter','PingFang TC',sans-serif;
+    font-size:15px;
+    color:rgba(255,255,255,.75);
+    letter-spacing:.05em;
+    margin-bottom:24px;
+    animation:fadeUp .7s .24s ease both;
+  }
+  .hero-rule{
+    width:60px;
+    height:3px;
+    border-radius:3px;
+    background:var(--terra-light);
+    margin:0 auto;
+    animation:fadeUp .7s .36s ease both;
+  }
+
+  /* ----- Class info ----- */
+  .class-info{
+    max-width:var(--max);
+    margin:0 auto 26px;
+    background:var(--cream);
+    border:1px solid var(--line);
+    border-left:4px solid var(--terra);
+    border-radius:10px;
+    padding:20px 24px;
+  }
+  .class-info .row{
+    display:flex;
+    align-items:baseline;
+    gap:14px;
+    padding:7px 0;
+  }
+  .class-info .row + .row{
+    border-top:1px solid var(--line);
+  }
+  .class-info .k{
+    font-family:'Inter','PingFang TC',sans-serif;
+    font-size:12px;
+    color:var(--terra-dark);
+    font-weight:700;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    min-width:96px;
+    flex-shrink:0;
+  }
+  .class-info .v{
+    font-size:16px;
+    color:var(--ink);
+    line-height:1.5;
+  }
+  .class-info .v .en{
+    color:var(--ink-muted);
+    font-size:13px;
+    margin-left:6px;
+  }
+
+  /* ----- Note ----- */
+  .note{
+    max-width:var(--max);
+    margin:0 auto 28px;
+    background:#fff;
+    border:1px solid var(--line);
+    border-left:4px solid var(--terra);
+    border-radius:12px;
+    padding:22px 26px;
+    font-size:15.5px;
+    color:var(--ink-soft);
+    line-height:1.75;
+  }
+  .note h3{
+    font-family:'Inter','PingFang TC',sans-serif;
+    font-size:13px;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    color:var(--terra-dark);
+    font-weight:700;
+    margin-bottom:12px;
+  }
+  .note strong{color:var(--ink);}
+  .note .en{display:block;font-size:13px;margin-top:12px;color:var(--ink-muted);opacity:.95;}
+
+  /* ----- Form ----- */
+  form{
+    position:relative;
+    max-width:var(--max);
+    margin:0 auto;
+    background:#fff;
+    border:1px solid var(--line);
+    border-top:5px solid var(--terra);
+    border-radius:18px;
+    box-shadow:0 30px 80px -30px rgba(20,24,31,.22);
+    padding:34px 28px;
+  }
+  .field{margin-bottom:22px;}
+  .field:last-of-type{margin-bottom:8px;}
+  label{
+    display:block;
+    font-size:16px;
+    font-weight:600;
+    color:var(--ink);
+    margin-bottom:8px;
+  }
+  label .en{
+    font-family:'Inter',sans-serif;
+    font-weight:400;
+    font-size:13px;
+    color:var(--ink-muted);
+    margin-left:7px;
+  }
+  label .req{color:var(--terra);margin-left:3px;}
+  label .optional{
+    font-size:12.5px;
+    color:var(--ink-muted);
+    font-weight:400;
+    margin-left:6px;
+  }
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  select,
+  textarea{
+    width:100%;
+    font-family:inherit;
+    font-size:16px;
+    color:var(--ink);
+    background:#fff;
+    border:1.5px solid var(--line);
+    border-radius:10px;
+    padding:13px 14px;
+    transition:border-color .15s ease, box-shadow .15s ease;
+    -webkit-appearance:none;appearance:none;
+  }
+  select{
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%238c2f12' stroke-width='3'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;
+    background-position:right 15px center;
+    padding-right:40px;
+    cursor:pointer;
+  }
+  input:focus,select:focus,textarea:focus{
+    outline:none;
+    border-color:var(--terra);
+    box-shadow:0 0 0 3px rgba(184,67,28,.16);
+  }
+  input[readonly]{background:var(--cream);color:var(--ink-soft);cursor:default;}
+  .hint{font-size:13px;color:var(--ink-muted);margin-top:6px;line-height:1.55;}
+
+  .grid2{display:grid;gap:22px;}
+  @media (min-width:540px){
+    .grid2{grid-template-columns:1fr 1fr;}
+    .grid2 .field{margin-bottom:0;}
+  }
+
+  .section-label{
+    font-family:'Inter','PingFang TC',sans-serif;
+    font-size:13px;
+    font-weight:700;
+    letter-spacing:.20em;
+    text-transform:uppercase;
+    color:var(--terra-dark);
+    margin:32px 0 18px;
+    padding:6px 0 6px 14px;
+    border-left:4px solid var(--terra);
+  }
+
+  button{
+    width:100%;
+    font-family:'Inter','PingFang TC',sans-serif;
+    font-size:16px;
+    font-weight:600;
+    letter-spacing:.10em;
+    text-transform:uppercase;
+    color:#fff;
+    background:var(--navy);
+    border:none;
+    border-radius:12px;
+    padding:18px;
+    margin-top:28px;
+    cursor:pointer;
+    transition:background .15s ease, transform .05s ease, box-shadow .15s ease;
+  }
+  button:hover{
+    background:var(--terra-dark);
+    box-shadow:0 12px 28px -12px rgba(140,47,18,.4);
+  }
+  button:active{transform:translateY(1px);}
+  button:disabled{background:#888;cursor:progress;}
+
+  .errbox{
+    display:none;
+    margin-top:16px;
+    background:#fdecea;
+    border:1px solid #e7a99c;
+    border-radius:10px;
+    padding:12px 14px;
+    font-size:14.5px;
+    color:var(--terra-dark);
+  }
+
+  /* ----- Success ----- */
+  .success{
+    display:none;
+    max-width:var(--max);
+    margin:0 auto;
+    background:#fff;
+    border:1px solid var(--line);
+    border-top:5px solid var(--terra);
+    border-radius:18px;
+    box-shadow:0 30px 80px -30px rgba(20,24,31,.22);
+    padding:42px 30px;
+  }
+  .success .check{
+    width:64px;height:64px;
+    border-radius:50%;
+    background:var(--terra);
+    color:#fff;
+    display:flex;align-items:center;justify-content:center;
+    font-size:32px;
+    margin:0 auto 22px;
+  }
+  .success h2{
+    font-family:'Playfair Display',Georgia,serif;
+    font-weight:500;
+    font-size:28px;
+    color:var(--ink);
+    text-align:center;
+    margin-bottom:8px;
+    line-height:1.25;
+  }
+  .success h2 .en{
+    display:block;
+    font-family:'Inter',sans-serif;
+    font-size:13.5px;
+    color:var(--ink-muted);
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    margin-top:10px;
+  }
+  .success .next{
+    background:var(--cream);
+    border:1px solid var(--line);
+    border-left:4px solid var(--terra);
+    border-radius:12px;
+    padding:22px 24px;
+    margin-top:28px;
+    font-size:15.5px;
+    color:var(--ink-soft);
+    line-height:1.8;
+  }
+  .success .next h3{
+    font-family:'Inter','PingFang TC',sans-serif;
+    font-size:13px;
+    font-weight:700;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    color:var(--terra-dark);
+    margin-bottom:12px;
+  }
+  .success .note-line{
+    text-align:center;
+    font-size:14.5px;
+    color:var(--ink-muted);
+    margin-top:24px;
+    padding-top:20px;
+    border-top:1px solid var(--line);
+  }
+
+  footer{
+    max-width:var(--max);
+    margin:38px auto 0;
+    text-align:center;
+    font-size:12.5px;
+    color:#9a958e;
+    letter-spacing:.04em;
+  }
+</style>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">如意精舍 · Ru-Yi Meditation</div>
+    <h1 class="hero-title">Teacher Dom <span class="zh">英語課</span></h1>
+    <div class="hero-subtitle">Thursday Evening English Class · 報名表</div>
+    <div class="hero-rule"></div>
+  </div>
+</section>
+
+<div class="class-info">
+  <div class="row">
+    <div class="k">上課時段</div>
+    <div class="v">每週四 晚上 8:00–9:00（臺灣時間）<span class="en">Thu 20:00–21:00 Taiwan time</span></div>
+  </div>
+  <div class="row">
+    <div class="k">適合對象</div>
+    <div class="v">國小三年級至國中一年級<span class="en">Grade 3–7</span></div>
+  </div>
+</div>
+
+<div class="note">
+  <h3>關於聯繫與上課方式</h3>
+  我們與家長的聯繫平台是 <strong>LINE</strong>，上課平台是 <strong>Google Meet</strong>。
+  填寫家長的 LINE 聯絡方式後，老師會主動加好友、並在上課前透過 LINE 傳送 Google Meet 連結。
+  <span class="en">We contact families on LINE and hold classes on Google Meet. After registering, Teacher Luke will add you on LINE and send the Google Meet link before class.</span>
+</div>
+
+<form id="regForm" novalidate>
+
+  <div class="field">
+    <label for="fill_date">填表日期 <span class="en">Date</span></label>
+    <input type="text" id="fill_date" readonly>
+    <div class="hint">系統自動帶入今天日期 · Auto-filled with today's date</div>
+  </div>
+
+  <div class="section-label">學生資料 Student</div>
+
+  <div class="grid2" style="margin-bottom:22px;">
+    <div class="field">
+      <label for="chinese_name">中文姓名 <span class="en">Chinese Name</span><span class="req">*</span></label>
+      <input type="text" id="chinese_name" name="chinese_name" required autocomplete="off">
+    </div>
+    <div class="field">
+      <label for="english_name">英文姓名 <span class="en">English Name</span><span class="req">*</span></label>
+      <input type="text" id="english_name" name="english_name" required autocomplete="off">
+    </div>
+  </div>
+
+  <div class="grid2" style="margin-bottom:22px;">
+    <div class="field">
+      <label for="birth_year">西元出生年份 <span class="en">Year of Birth</span><span class="req">*</span></label>
+      <select id="birth_year" name="birth_year" required>
+        <option value="" disabled selected>請選擇 Select…</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="grade">年級 <span class="en">Grade</span><span class="req">*</span></label>
+      <select id="grade" name="grade" required>
+        <option value="" disabled selected>請選擇 Select…</option>
+        <option value="三年級 Grade 3">三年級 Grade 3</option>
+        <option value="四年級 Grade 4">四年級 Grade 4</option>
+        <option value="五年級 Grade 5">五年級 Grade 5</option>
+        <option value="六年級 Grade 6">六年級 Grade 6</option>
+        <option value="七年級 Grade 7">七年級 Grade 7</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="field">
+    <label for="school">就讀學校 <span class="en">Day School</span><span class="req">*</span></label>
+    <input type="text" id="school" name="school" required autocomplete="off"
+           placeholder="平日就讀的學校 Your regular weekday school">
+  </div>
+
+  <div class="field">
+    <label for="student_google">學生 Google 帳號 <span class="en">Student's Google Account</span><span class="optional">（選填）</span></label>
+    <input type="email" id="student_google" name="student_google"
+           autocomplete="off" placeholder="name@gmail.com" inputmode="email">
+    <div class="hint">若有，老師會用此帳號發送 Google Meet 邀請</div>
+  </div>
+
+  <div class="section-label">家長與聯絡 Parent &amp; Contact</div>
+
+  <div class="field">
+    <label for="parent_name">家長姓名 <span class="en">Parent / Guardian Name</span><span class="req">*</span></label>
+    <input type="text" id="parent_name" name="parent_name" required autocomplete="off">
+  </div>
+
+  <div class="field">
+    <label for="parent_line">家長 LINE 聯絡方式 <span class="en">Parent's LINE Contact</span><span class="req">*</span></label>
+    <input type="text" id="parent_line" name="parent_line" required autocomplete="off"
+           placeholder="LINE ID 或可加 LINE 好友的手機號碼">
+    <div class="hint">老師會主動透過此聯絡方式加 LINE 好友</div>
+  </div>
+
+  <button type="submit" id="submitBtn">送出報名 Submit</button>
+  <div class="errbox" id="errbox"></div>
+</form>
+
+<div class="success" id="done">
+  <div class="check">✓</div>
+  <h2>報名完成，謝謝您！<span class="en">Registration Received</span></h2>
+
+  <div class="next">
+    <h3>接下來</h3>
+    吉祥老師會透過您填寫的 LINE 聯絡方式主動加好友，並在上課前傳送 Google Meet 連結。
+  </div>
+
+  <div class="note-line">若有媒合上就會透過 LINE 通知。</div>
+</div>
+
+<footer>如意精舍 Ru-Yi Meditation · Teacher Dom 英語課</footer>
+
+<script>
+  /* sheet.best endpoint：Ru-Yi Meditation 專屬 connection（ruyi@ Google 帳號） */
+  const WEBHOOK_URL = 'https://api.sheetbest.com/sheets/78555158-c480-4992-b203-b4e3ab7a2bf5/tabs/' + encodeURIComponent('Dom_週四英語');
+
+  (function () {
+    const d = new Date();
+    const pad = n => String(n).padStart(2, '0');
+    document.getElementById('fill_date').value =
+      d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate());
+
+    // 出生年份：涵蓋小三至國一（約 8–14 歲，給上下緣彈性）
+    const sel = document.getElementById('birth_year');
+    const thisYear = d.getFullYear();
+    for (let y = thisYear - 8; y >= thisYear - 14; y--) {
+      const o = document.createElement('option');
+      o.value = String(y);
+      o.textContent = String(y);
+      sel.appendChild(o);
+    }
+  })();
+
+  const form = document.getElementById('regForm');
+  const btn = document.getElementById('submitBtn');
+  const errbox = document.getElementById('errbox');
+
+  function showError(msg) {
+    errbox.textContent = msg;
+    errbox.style.display = 'block';
+  }
+
+  form.addEventListener('submit', async function (e) {
+    e.preventDefault();
+    errbox.style.display = 'none';
+
+    if (!form.checkValidity()) {
+      form.reportValidity();
+      return;
+    }
+
+    const fillTime = new Date().toLocaleString('sv-SE', { timeZone: 'Asia/Taipei' });
+
+    /* JSON key must match the Sheet's first-row headers (sheet.best rule) */
+    const payload = {
+      '填表時間':       fillTime,
+      '中文姓名':       document.getElementById('chinese_name').value.trim(),
+      '英文姓名':       document.getElementById('english_name').value.trim(),
+      '西元出生年份':   document.getElementById('birth_year').value,
+      '年級':          document.getElementById('grade').value,
+      '就讀學校':       document.getElementById('school').value.trim(),
+      '學生 Google 帳號': document.getElementById('student_google').value.trim(),
+      '家長姓名':       document.getElementById('parent_name').value.trim(),
+      '家長 LINE 聯絡': document.getElementById('parent_line').value.trim(),
+    };
+
+    btn.disabled = true;
+    btn.textContent = '送出中… Submitting…';
+
+    try {
+      const res = await fetch(WEBHOOK_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+
+      form.style.display = 'none';
+      document.getElementById('done').style.display = 'block';
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } catch (err) {
+      btn.disabled = false;
+      btn.textContent = '送出報名 Submit';
+      showError('送出失敗，請檢查網路後再試一次。若持續發生，請直接 email ruyi@ruyimeditation.org。');
+    }
+  });
+</script>
+</body>
+</html>
