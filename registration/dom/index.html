@@ -502,8 +502,7 @@
 <footer>如意精舍 Ru-Yi Meditation · Teacher Dom 英語課</footer>
 
 <script>
-  /* sheet.best endpoint：Ru-Yi Meditation 專屬 connection（ruyi@ Google 帳號） */
-  const WEBHOOK_URL = 'https://api.sheetbest.com/sheets/78555158-c480-4992-b203-b4e3ab7a2bf5/tabs/' + encodeURIComponent('Dom_週四英語');
+  const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbzu8GFuq_aSXlCFNSnOiSxl8DccD62owLsjVD4XfP33Q9HdjlNSwUPQlYcvAv1CDsTPhA/exec';
 
   (function () {
     const d = new Date();
@@ -544,6 +543,7 @@
 
     /* JSON key must match the Sheet's first-row headers (sheet.best rule) */
     const payload = {
+      '__tab':          'Dom_週四英語',
       '填表時間':       fillTime,
       '中文姓名':       document.getElementById('chinese_name').value.trim(),
       '英文姓名':       document.getElementById('english_name').value.trim(),
@@ -559,12 +559,11 @@
     btn.textContent = '送出中… Submitting…';
 
     try {
-      const res = await fetch(WEBHOOK_URL, {
+      await fetch(WEBHOOK_URL, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        mode: 'no-cors',
         body: JSON.stringify(payload),
       });
-      if (!res.ok) throw new Error('HTTP ' + res.status);
 
       form.style.display = 'none';
       document.getElementById('done').style.display = 'block';
