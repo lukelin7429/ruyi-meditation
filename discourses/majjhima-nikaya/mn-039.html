@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 39 — The Greater Discourse at Assapura | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Mahā-Assapurasutta — the Buddha teaches what it truly means to be an ascetic: from moral shame through the four jhānas to the three true knowledges and liberation. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(40px, 5.5vw, 54px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Majjhima Nik&#257;ya</a><span>&rsaquo;</span>MN 39
+  </nav>
+
+  <div class="sutta-number">Majjhima Nik&#257;ya &middot; Discourse 39</div>
+  <h1>The Greater Discourse at Assapura</h1>
+  <p class="subtitle"><em>Mah&#257;-Assapurasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Assapura, in the A&#7749;ga country</dd>
+      <dt>Speakers</dt><dd>The Buddha, addressing the monks</dd>
+      <dt>Form</dt><dd>Graduated training discourse &mdash; the Buddha teaches what it truly means to deserve the name &ldquo;ascetic,&rdquo; laying out the complete path from moral shame through the four jh&#257;nas to the three true knowledges and liberation</dd>
+      <dt>Length</dt><dd>~20 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>M&#256; 182 (Madhyama-&#257;gama 182)</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&starf;&star;&star; &mdash; methodical and clear. The discourse follows the standard graduated training step by step. Each section builds on the previous one. The jh&#257;na similes are among the most vivid in the canon.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, thirty-ninth</h2>
+    <p class="lede">
+      People call the Buddhist monks &ldquo;ascetics&rdquo; (<em>sama&#7751;a</em>). The Buddha takes this label seriously: if you are called an ascetic, you should actually be one. What does that require? This discourse answers the question with a complete map of the path &mdash; from the most elementary moral qualities to the highest knowledge.
+    </p>
+    <p>
+      The teaching is structured as a graduated training (<em>anupubbasikkh&#257;</em>), a step-by-step progression that appears in many discourses across the canon but is presented here with particular clarity. The monk begins with moral shame and moral dread &mdash; the internal compass that keeps conduct clean. Then comes purification of body, speech, and mind; contentment with simple requisites; guarding the senses; mindfulness; seclusion and the abandonment of the five hindrances; the four jh&#257;nas with their famous similes; and finally the three true knowledges: recollection of past lives, the divine eye that sees beings passing away and being reborn according to their deeds, and the destruction of the taints &mdash; the knowledge that one is liberated.
+    </p>
+    <p>
+      After MN 38&rsquo;s demanding treatment of dependent origination, MN 39 returns to practice. It is one of the best &ldquo;how-to&rdquo; discourses in the Majjhima Nik&#257;ya: concrete, sequential, and vivid.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      If you are called an ascetic, live up to the name: purify your conduct, restrain your senses, develop jh&#257;na, and realize the three true knowledges that end all suffering.
+    </p>
+
+    <h3>The structure of the discourse</h3>
+    <table>
+      <thead><tr><th>Stage</th><th>What the Buddha teaches</th></tr></thead>
+      <tbody>
+        <tr><td><strong>1. The challenge</strong></td><td>People call you &ldquo;ascetics.&rdquo; You accept the name. Then you should train in the practices that make you true ascetics.</td></tr>
+        <tr><td><strong>2. Moral shame &amp; moral dread</strong></td><td>The foundation: <em>hiri</em> (moral shame &mdash; an inner conscience that recoils from wrongdoing) and <em>ottappa</em> (moral dread &mdash; a wise fear of the consequences of bad actions).</td></tr>
+        <tr><td><strong>3. Purification of conduct</strong></td><td>Bodily conduct, verbal conduct, and mental conduct must all be purified. The monk acts, speaks, and thinks with integrity.</td></tr>
+        <tr><td><strong>4. Livelihood</strong></td><td>Purification of livelihood &mdash; the monk lives blamelessly, not by wrong livelihood.</td></tr>
+        <tr><td><strong>5. Sense restraint</strong></td><td>Guarding the six sense doors: on seeing a form with the eye, the monk does not grasp at its features or details. The same for sounds, odors, tastes, touches, and mental phenomena.</td></tr>
+        <tr><td><strong>6. Moderation in eating</strong></td><td>The monk eats reflecting wisely &mdash; not for amusement, intoxication, or beautifying the body, but only for maintaining the body and supporting the spiritual life.</td></tr>
+        <tr><td><strong>7. Wakefulness</strong></td><td>By day the monk purifies the mind by walking and sitting meditation. In the first and last watches of the night, the same. In the middle watch, the monk lies down mindfully.</td></tr>
+        <tr><td><strong>8. Mindfulness &amp; clear comprehension</strong></td><td>The monk acts with full awareness in every posture: going forward, returning, looking, bending, stretching, eating, drinking, walking, standing, sitting, falling asleep, waking, speaking, and remaining silent.</td></tr>
+        <tr><td><strong>9. Seclusion &amp; the five hindrances</strong></td><td>The monk resorts to a secluded dwelling &mdash; a forest, the root of a tree, a mountain, a cave. After the meal, sitting cross-legged, the monk abandons the five hindrances: sensual desire, ill will, dullness-and-drowsiness, restlessness-and-remorse, and doubt.</td></tr>
+        <tr><td><strong>10. The four jh&#257;nas</strong></td><td>With the hindrances abandoned, the monk enters the first through fourth jh&#257;nas, each illustrated by a vivid simile.</td></tr>
+        <tr><td><strong>11. The three true knowledges</strong></td><td>(1) Recollection of past lives. (2) The divine eye &mdash; seeing beings passing away and being reborn according to their deeds. (3) The destruction of the taints &mdash; the knowledge that one is liberated.</td></tr>
+        <tr><td><strong>12. Conclusion</strong></td><td>&ldquo;This is how a person is an ascetic and a brahmin.&rdquo;</td></tr>
+      </tbody>
+    </table>
+
+    <h3>The graduated training</h3>
+    <p>
+      The graduated training (<em>anupubbasikkh&#257;</em>) is the Buddhist path presented as a practical curriculum. It appears in many discourses &mdash; DN 2, MN 27, MN 51, and others &mdash; but MN 39 is one of its clearest expressions. The sequence is not arbitrary: each stage creates the conditions for the next. Without moral restraint, the senses cannot be guarded; without sense restraint, the hindrances cannot be abandoned; without abandoning the hindrances, jh&#257;na cannot arise; without jh&#257;na, the mind lacks the stability and clarity needed for the three true knowledges.
+    </p>
+    <p>
+      The progression is also psychological. The early stages remove the coarser obstacles (harmful actions, unrestrained sense experience, overeating, restlessness). The middle stages cultivate the positive qualities (mindfulness, clear comprehension, contentment). The later stages deepen into the refined states of jh&#257;na and the liberating insights. The discourse presents this not as theory but as something a monk actually does, day by day.
+    </p>
+
+    <h3>The four jh&#257;na similes</h3>
+    <p>
+      The four jh&#257;nas are each illustrated with a simile that captures the felt quality of the state:
+    </p>
+    <ul>
+      <li><strong>First jh&#257;na &mdash; the bath-powder ball.</strong> A skilled bath attendant kneads bath powder with water until it forms a ball, thoroughly moistened inside and out. The simile conveys thorough permeation: the rapture and pleasure of the first jh&#257;na saturate the entire body, leaving no part untouched.</li>
+      <li><strong>Second jh&#257;na &mdash; the spring-fed lake.</strong> A deep lake fed by an underground spring, with no inlet from east, west, north, or south, and no rain falling on it. The cool water wells up from within. The simile conveys internal origin: the rapture and pleasure of the second jh&#257;na arise from within (from <em>sam&#257;dhi</em>), not from applied or sustained thought.</li>
+      <li><strong>Third jh&#257;na &mdash; the lotuses in water.</strong> Lotuses born in the water, growing in the water, not rising above the water, nourished by the water from root to tip. The simile conveys immersion: the pleasure of the third jh&#257;na (now without rapture) permeates the body as water permeates the lotus. The monk &ldquo;dwells in pleasure,&rdquo; as the noble ones say of one who &ldquo;has equanimity, is mindful, and dwells in pleasure.&rdquo;</li>
+      <li><strong>Fourth jh&#257;na &mdash; the white cloth.</strong> A person sits covered from head to toe in a clean white cloth. The simile conveys purity and completeness: the mind in the fourth jh&#257;na is bright, pure, and undisturbed, suffusing the entire body with a purified awareness that is neither pleasant nor painful.</li>
+    </ul>
+
+    <h3>The three true knowledges</h3>
+    <p>
+      The three true knowledges (<em>tevijj&#257;</em>) are the culmination of the graduated training. They are called &ldquo;true&rdquo; to distinguish them from the &ldquo;three knowledges&rdquo; (<em>tevijj&#257;</em>) of Brahmanical religion &mdash; the three Vedas. The Buddha redefines the term: genuine knowledge is not learning ancient texts but directly seeing the nature of existence.
+    </p>
+    <p>
+      The first two knowledges &mdash; recollection of past lives and the divine eye &mdash; are not unique to Buddhism. They confirm the reality of kamma and rebirth through direct experience, not faith. The third knowledge &mdash; the destruction of the taints &mdash; is distinctly Buddhist: it is the knowledge that the practitioner is liberated, that the cycle of suffering has ended. With this knowledge, the graduated training is complete.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>&ldquo;Is jh&#257;na necessary for liberation?&rdquo;</strong> This discourse says yes, at least implicitly: the three true knowledges arise from the fourth jh&#257;na, and without them the training is incomplete. Some modern teachers distinguish &ldquo;jh&#257;na&rdquo; as deep absorption from a lighter form of concentration, but the canonical graduated training consistently presents the jh&#257;nas as the platform from which liberating insight is launched. MN 39 is one of the strongest texts for this reading.</p>
+
+    <p><strong>&ldquo;Are the similes for the jh&#257;nas literal descriptions of what happens?&rdquo;</strong> They are experiential descriptions, not mystical metaphors. Practitioners who enter jh&#257;na consistently report experiences that match the similes: a thorough permeation of pleasure in the body (first jh&#257;na), a sense that the pleasure arises from within (second), a quiet immersion in well-being (third), and a bright, still, purified awareness (fourth). The similes work because the Buddha is describing something real, something his listeners could verify through practice.</p>
+
+    <p><strong>&ldquo;What are the &lsquo;taints&rsquo; (<em>&#257;sava</em>) that are destroyed?&rdquo;</strong> The P&#257;li term <em>&#257;sava</em> (sometimes translated as &ldquo;outflows,&rdquo; &ldquo;cankers,&rdquo; or &ldquo;fermentations&rdquo;) refers to the deep-seated mental corruptions that fuel the cycle of rebirth: the taint of sensual desire (<em>k&#257;m&#257;sava</em>), the taint of being/existence (<em>bhav&#257;sava</em>), and the taint of ignorance (<em>avijj&#257;sava</em>). Their destruction is not a single dramatic event but the culmination of the entire graduated training: when the mind, purified by jh&#257;na, turns its clear gaze on the nature of suffering, its origin, its cessation, and the path, the taints are destroyed and the practitioner knows freedom.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">sama&#7751;a</span> &mdash; ascetic; recluse. The word the Buddha places at the center of this discourse. To be a true <em>sama&#7751;a</em> is not just to wear robes and beg for food but to practice the entire graduated training from moral shame to liberation.
+      </div>
+      <div class="term">
+        <span class="pali-word">hiri</span> &mdash; moral shame; conscience. An inner sense of decency that makes one recoil from wrongdoing. Together with <em>ottappa</em>, called by the Buddha &ldquo;the guardians of the world.&rdquo;
+      </div>
+      <div class="term">
+        <span class="pali-word">ottappa</span> &mdash; moral dread; prudence. A wise fear of the consequences of bad actions &mdash; not anxiety but a healthy respect for the law of kamma.
+      </div>
+      <div class="term">
+        <span class="pali-word">n&#299;vara&#7751;a</span> &mdash; hindrance. The five mental obstacles that must be abandoned before jh&#257;na: sensual desire, ill will, dullness-and-drowsiness, restlessness-and-remorse, and doubt.
+      </div>
+      <div class="term">
+        <span class="pali-word">jh&#257;na</span> &mdash; meditative absorption. Four progressive states of deep concentration, each characterized by a different blend of mental factors. The first includes applied thought, sustained thought, rapture, and pleasure; each subsequent jh&#257;na refines the mind further, until the fourth is characterized by equanimity, mindfulness, and neither-pleasure-nor-pain.
+      </div>
+      <div class="term">
+        <span class="pali-word">tevijj&#257;</span> &mdash; the three true knowledges: (1) recollection of past lives, (2) the divine eye (seeing beings passing away and reappearing according to their deeds), and (3) the destruction of the taints. These are the marks of a fully liberated being.
+      </div>
+      <div class="term">
+        <span class="pali-word">&#257;sava</span> &mdash; taint; outflow; canker. The deep-seated corruptions that sustain the cycle of rebirth: sensual desire, being/existence, and ignorance. Their destruction is the third and final true knowledge.
+      </div>
+      <div class="term">
+        <span class="pali-word">anupubbasikkh&#257;</span> &mdash; the graduated training. The step-by-step path from moral conduct through meditation to wisdom. MN 39 is one of its clearest canonical presentations.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 39 follows the standard graduated training formula, with passages condensed where the pattern repeats. The four jh&#257;na similes are given in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The challenge</h3>
+
+      <p><span class="segno">&sect;1</span>So I have heard. At one time the Buddha was staying in the A&#7749;ga country, where there is a town of the A&#7749;gans named Assapura.</p>
+
+      <p><span class="segno">&sect;2</span>There the Buddha addressed the monks: &ldquo;Monks, people call you &lsquo;ascetics, ascetics.&rsquo; And when asked, &lsquo;What are you?&rsquo;, you claim to be ascetics. Since you are so designated and so claim, you should train like this: &lsquo;We will practice the way that makes us true ascetics, that makes us true brahmins. In this way our designation will be true and our claim genuine. And when we use the robes, almsfood, lodging, and medicines provided by others, those services will be of great fruit and benefit to the donors. And our going forth will not be in vain, but fruitful and fertile.&rsquo;&rdquo;</p>
+
+      <h3>Moral shame and moral dread</h3>
+
+      <p><span class="segno">&sect;3</span>&ldquo;And how does a monk practice the way of a true ascetic? When a monk has moral shame and moral dread &mdash; this is how a monk practices the way of a true ascetic.&rdquo;</p>
+
+      <h3>Purification of conduct</h3>
+
+      <p><span class="segno">&sect;4</span>&ldquo;When a monk&rsquo;s bodily conduct is purified, verbal conduct is purified, mental conduct is purified, and livelihood is purified &mdash; this is how a monk practices the way of a true ascetic.&rdquo;</p>
+
+      <h3>Sense restraint</h3>
+
+      <p><span class="segno">&sect;5</span>&ldquo;And how does a monk guard the doors of the senses? On seeing a form with the eye, a monk does not grasp at its features and details. Since, if the eye faculty were left unrestrained, bad, unwholesome qualities of desire and aversion would overwhelm them, the monk practices restraint, guarding the eye faculty, and achieving its restraint.&rdquo;</p>
+
+      <div class="compact">
+        <strong>The same formula is repeated</strong> for the ear and sounds, the nose and odors, the tongue and tastes, the body and touches, and the mind and mental phenomena. In each case the monk guards the sense door to prevent unwholesome qualities from arising.
+      </div>
+
+      <h3>Moderation in eating</h3>
+
+      <p><span class="segno">&sect;6</span>&ldquo;And how does a monk eat in moderation? A monk reflects wisely on the food they eat: &lsquo;Not for fun, indulgence, beautification, or decoration, but only to sustain this body, to avoid harm, and to support the spiritual life. In this way I shall put an end to old feelings and not give rise to new feelings, and I shall be healthy, blameless, and live in comfort.&rsquo;&rdquo;</p>
+
+      <h3>Wakefulness</h3>
+
+      <p><span class="segno">&sect;7</span>&ldquo;And how does a monk practice wakefulness? During the day, while walking back and forth and while sitting, a monk purifies the mind of obstructive qualities. In the first watch of the night, while walking back and forth and while sitting, the monk purifies the mind of obstructive qualities. In the middle watch of the night, the monk lies down on the right side in the lion&rsquo;s posture, with one foot overlapping the other, mindful and aware, having noted the time to get up. In the last watch of the night, after getting up, while walking back and forth and while sitting, the monk purifies the mind of obstructive qualities.&rdquo;</p>
+
+      <h3>Mindfulness and clear comprehension</h3>
+
+      <p><span class="segno">&sect;8</span>&ldquo;And how does a monk have mindfulness and clear comprehension? A monk acts with clear comprehension when going out and coming back, when looking ahead and looking aside, when bending and extending the limbs, when dressing and carrying the outer robe and bowl, when eating, drinking, chewing, and tasting, when urinating and defecating, when walking, standing, sitting, falling asleep, waking up, speaking, and remaining silent.&rdquo;</p>
+
+      <h3>Seclusion and the five hindrances</h3>
+
+      <p><span class="segno">&sect;9</span>&ldquo;Endowed with this noble aggregate of moral conduct, this noble sense restraint, this noble moderation in eating, and this noble wakefulness, a monk resorts to a secluded dwelling &mdash; a forest, the root of a tree, a mountain, a glen, a hillside cave, a charnel ground, a jungle thicket, an open field, or a heap of straw.&rdquo;</p>
+
+      <p>&ldquo;After the meal, having returned from almsround, the monk sits down cross-legged, with body upright, and establishes mindfulness before them.&rdquo;</p>
+
+      <p><span class="segno">&sect;10</span>&ldquo;Having abandoned desire for the world, they meditate with a mind free from desire, and purify the mind of desire. Having abandoned ill will, they meditate with a mind free from ill will, full of compassion for all living beings, and purify the mind of ill will. Having abandoned dullness and drowsiness, they meditate perceiving light, mindful and aware, and purify the mind of dullness and drowsiness. Having abandoned restlessness and remorse, they meditate with a peaceful mind, and purify the mind of restlessness and remorse. Having abandoned doubt, they meditate having gone beyond doubt, not uncertain about what is wholesome, and purify the mind of doubt.&rdquo;</p>
+
+      <h3>The four jh&#257;nas</h3>
+
+      <p><span class="segno">&sect;11</span>&ldquo;Having abandoned these five hindrances &mdash; corruptions of the mind that weaken wisdom &mdash; quite secluded from sensual pleasures, secluded from unwholesome qualities, the monk enters and dwells in the first jh&#257;na, which has the pleasure and rapture born of seclusion, while applying and sustaining the mind on the meditation subject.&rdquo;</p>
+
+      <p>&ldquo;They drench, steep, fill, and pervade this body with the pleasure and rapture born of seclusion. There is no part of the body that is not pervaded by this pleasure and rapture.&rdquo;</p>
+
+      <p>&ldquo;Suppose a skilled bath attendant or their apprentice were to heap bath powder in a bronze dish, and then knead it with water, sprinkling it again and again, until the ball of bath powder was saturated, soaked through, and pervaded with moisture inside and out, yet did not ooze. In the same way, the monk drenches, steeps, fills, and pervades this body with the pleasure and rapture born of seclusion. There is no part of the body that is not pervaded by this pleasure and rapture.&rdquo;</p>
+
+      <p><span class="segno">&sect;12</span>&ldquo;Furthermore, as the applying and sustaining of the mind on the meditation subject are stilled, the monk enters and dwells in the second jh&#257;na, which has the pleasure and rapture born of composure, with internal confidence and unification of mind, without applying and sustaining the mind.&rdquo;</p>
+
+      <p>&ldquo;They drench, steep, fill, and pervade this body with the pleasure and rapture born of composure. There is no part of the body that is not pervaded by this pleasure and rapture.&rdquo;</p>
+
+      <p>&ldquo;Suppose there were a deep lake whose water welled up from below. It has no inlet from the east, west, north, or south, and no rainfall to replenish it from time to time. But the cool water welling up from the spring in the lake would drench, steep, fill, and pervade the entire lake. In the same way, the monk drenches, steeps, fills, and pervades this body with the pleasure and rapture born of composure.&rdquo;</p>
+
+      <p><span class="segno">&sect;13</span>&ldquo;Furthermore, with the fading away of rapture, the monk dwells equanimous, mindful and aware, personally experiencing the pleasure of which the noble ones say: &lsquo;Equanimous and mindful, one dwells in pleasure.&rsquo; Thus the monk enters and dwells in the third jh&#257;na.&rdquo;</p>
+
+      <p>&ldquo;They drench, steep, fill, and pervade this body with the pleasure free from rapture. There is no part of the body that is not pervaded by this pleasure.&rdquo;</p>
+
+      <p>&ldquo;Suppose that in a lotus pond some of the blue, white, or red lotuses are born in the water, grow in the water, and never rise above the water, but are nourished immersed in the water. From their tips to their roots, they are drenched, steeped, filled, and pervaded with cool water. In the same way, the monk drenches, steeps, fills, and pervades this body with the pleasure free from rapture.&rdquo;</p>
+
+      <p><span class="segno">&sect;14</span>&ldquo;Furthermore, giving up pleasure and pain, and with the ending of former happiness and sadness, the monk enters and dwells in the fourth jh&#257;na, which has neither pleasure nor pain, and is purified by equanimity and mindfulness.&rdquo;</p>
+
+      <p>&ldquo;They sit pervading this body with a pure, bright mind. There is no part of the body that is not pervaded by the pure, bright mind.&rdquo;</p>
+
+      <p>&ldquo;Suppose a person were to sit wrapped from head to foot in a clean white cloth. There would be no part of their body that the white cloth did not cover. In the same way, the monk sits pervading this body with a pure, bright mind.&rdquo;</p>
+
+      <h3>The first true knowledge: past lives</h3>
+
+      <p><span class="segno">&sect;15</span>&ldquo;When the mind is composed in this way &mdash; purified, bright, unblemished, rid of corruptions, malleable, wieldy, steady, and imperturbable &mdash; the monk directs the mind toward the knowledge of recollection of past lives.&rdquo;</p>
+
+      <p>&ldquo;They recollect many kinds of past lives: one birth, two births, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand births; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. They remember: &lsquo;There I was so named, of such a clan, with such an appearance, eating such food, experiencing such pleasure and pain, living for so long. When I passed away from there, I was reborn somewhere else.&rsquo; And so, with features and details, they recollect many kinds of past lives.&rdquo;</p>
+
+      <h3>The second true knowledge: the divine eye</h3>
+
+      <p><span class="segno">&sect;16</span>&ldquo;When the mind is composed in this way, the monk directs the mind toward the knowledge of the passing away and reappearing of beings.&rdquo;</p>
+
+      <p>&ldquo;With the divine eye, which is purified and surpasses the human, they see beings passing away and being reborn &mdash; inferior and superior, beautiful and ugly, in a good place and a bad place. They understand how beings are reborn according to their deeds: &lsquo;These beings did bad things by way of body, speech, and mind. They spoke ill of the noble ones. They held wrong view and acted out of wrong view. When their body broke up, after death, they were reborn in a place of loss, a bad place, the underworld, hell. But these beings did good things by way of body, speech, and mind. They spoke well of the noble ones. They held right view and acted out of right view. When their body broke up, after death, they were reborn in a good place, a heavenly realm.&rsquo;&rdquo;</p>
+
+      <h3>The third true knowledge: destruction of the taints</h3>
+
+      <p><span class="segno">&sect;17</span>&ldquo;When the mind is composed in this way, the monk directs the mind toward the knowledge of the destruction of the taints.&rdquo;</p>
+
+      <p>&ldquo;They truly understand: &lsquo;This is suffering. This is the origin of suffering. This is the cessation of suffering. This is the practice that leads to the cessation of suffering. These are the taints. This is the origin of the taints. This is the cessation of the taints. This is the practice that leads to the cessation of the taints.&rsquo;&rdquo;</p>
+
+      <p>&ldquo;Knowing and seeing in this way, the mind is freed from the taint of sensual desire, the taint of being, and the taint of ignorance. When freed, there is the knowledge: &lsquo;It is freed.&rsquo; They understand: &lsquo;Birth is ended, the spiritual life has been lived, what had to be done has been done, there is no more coming back to any state of being.&rsquo;&rdquo;</p>
+
+      <p><span class="segno">&sect;18</span>&ldquo;Monks, this is how a person is an ascetic and a brahmin. They are an ascetic because they have stilled bad, unwholesome qualities that are defiling, that lead to future lives, that are troublesome, that ripen in suffering, and that lead to future birth, aging, and death. They are a brahmin because they have expelled bad, unwholesome qualities. They are a bather because they have washed off bad, unwholesome qualities. They are a knower of the Vedas because the bad, unwholesome qualities have departed from them. They are a noble one because the bad, unwholesome qualities are far from them. And they are a perfected one because the taints have been destroyed.&rdquo;</p>
+
+      <p>That is what the Buddha said. The monks were satisfied and delighted in the Buddha&rsquo;s words.</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What challenge does the Buddha put to the monks at the beginning of the discourse?</div>
+        <button class="opt">That they should teach the Dhamma to laypeople</button>
+        <button class="opt">That since people call them &ldquo;ascetics&rdquo; and they claim to be ascetics, they should train in practices that make them true ascetics</button>
+        <button class="opt">That they should leave the monastery and wander alone</button>
+        <button class="opt">That they should memorize the entire Vinaya</button>
+        <div class="expl"><strong>Correct: B.</strong> The Buddha takes the label &ldquo;ascetic&rdquo; seriously. If you bear the name, you should live up to it. The rest of the discourse lays out exactly what that requires: the complete graduated training from moral foundations to liberation.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What two qualities form the foundation of the training?</div>
+        <button class="opt">Moral shame (<em>hiri</em>) and moral dread (<em>ottappa</em>)</button>
+        <button class="opt">Wisdom (<em>pa&ntilde;&ntilde;&#257;</em>) and compassion (<em>karu&#7751;&#257;</em>)</button>
+        <button class="opt">Energy (<em>v&#299;riya</em>) and mindfulness (<em>sati</em>)</button>
+        <button class="opt">Faith (<em>saddh&#257;</em>) and generosity (<em>d&#257;na</em>)</button>
+        <div class="expl"><strong>Correct: A.</strong> <em>Hiri</em> (moral shame &mdash; an inner conscience) and <em>ottappa</em> (moral dread &mdash; a wise fear of consequences) are the first qualities mentioned. The Buddha elsewhere calls them &ldquo;the guardians of the world&rdquo; (AN 2.9). They are the inner compass that keeps the entire path on track.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What does &ldquo;guarding the sense doors&rdquo; mean in this discourse?</div>
+        <button class="opt">Avoiding all sensory experience by closing the eyes and ears</button>
+        <button class="opt">Only using the senses for spiritual purposes</button>
+        <button class="opt">On encountering a sense object, not grasping at its features and details &mdash; restraining the senses so that unwholesome qualities of desire and aversion do not arise</button>
+        <button class="opt">Reciting a protective chant when encountering sense objects</button>
+        <div class="expl"><strong>Correct: C.</strong> Sense restraint is not sensory deprivation. The monk still sees, hears, and thinks &mdash; but does not grasp at the attractive features of what is perceived. The goal is to prevent the initial contact from triggering desire or aversion, which would obstruct the deeper stages of practice.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What are the five hindrances that must be abandoned before jh&#257;na?</div>
+        <button class="opt">Greed, hatred, delusion, conceit, and wrong view</button>
+        <button class="opt">The five aggregates: form, feeling, perception, formations, consciousness</button>
+        <button class="opt">Birth, aging, illness, death, and sorrow</button>
+        <button class="opt">Sensual desire, ill will, dullness-and-drowsiness, restlessness-and-remorse, and doubt</button>
+        <div class="expl"><strong>Correct: D.</strong> The five hindrances (<em>n&#299;vara&#7751;a</em>) are the specific mental obstacles that prevent deep concentration. The discourse calls them &ldquo;corruptions of the mind that weaken wisdom.&rdquo; They must be abandoned &mdash; not suppressed permanently, but set aside through the conditions created by the earlier stages of the training &mdash; before jh&#257;na can arise.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">What simile illustrates the first jh&#257;na?</div>
+        <button class="opt">A ball of bath powder kneaded with water until saturated inside and out</button>
+        <button class="opt">A deep lake fed by an underground spring</button>
+        <button class="opt">Lotuses immersed in water from root to tip</button>
+        <button class="opt">A person wrapped in a clean white cloth</button>
+        <div class="expl"><strong>Correct: A.</strong> The bath-powder simile conveys thorough permeation: the rapture and pleasure of the first jh&#257;na saturate the entire body, just as the water saturates the ball of powder. The key image is that the moisture is worked in evenly &mdash; no dry spots remain. The meditator&rsquo;s body is completely suffused with rapture and pleasure.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What is distinctive about the second jh&#257;na&rsquo;s simile of the spring-fed lake?</div>
+        <button class="opt">The water is agitated by wind, representing mental activity</button>
+        <button class="opt">The water wells up from within &mdash; no external source. The rapture and pleasure of the second jh&#257;na arise from internal composure, not from applied thought</button>
+        <button class="opt">The lake is empty, representing the absence of all mental content</button>
+        <button class="opt">The lake overflows, representing the outpouring of compassion</button>
+        <div class="expl"><strong>Correct: B.</strong> The spring-fed lake has no inlet from any direction and no rain. The cool water wells up from below. This captures the defining feature of the second jh&#257;na: applied and sustained thought have subsided, and the rapture and pleasure now arise from internal composure (<em>sam&#257;dhi</em>) alone &mdash; not from any external or effortful source.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What changes between the second and third jh&#257;nas?</div>
+        <button class="opt">Pleasure ceases entirely</button>
+        <button class="opt">The monk loses awareness of the body</button>
+        <button class="opt">Rapture fades away; the monk dwells in pleasure with equanimity and mindfulness</button>
+        <button class="opt">Consciousness becomes formless</button>
+        <div class="expl"><strong>Correct: C.</strong> In the third jh&#257;na, rapture (<em>p&#299;ti</em>) fades while pleasure (<em>sukha</em>) remains. The monk dwells equanimous, mindful, and aware, experiencing what the noble ones describe as &ldquo;dwelling in pleasure with equanimity.&rdquo; The simile of the lotuses immersed in water captures this quiet, pervasive well-being without the excitement of rapture.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">What are the three true knowledges (<em>tevijj&#257;</em>)?</div>
+        <button class="opt">The three Vedas of the Brahmanical tradition</button>
+        <button class="opt">Knowledge of the four noble truths, the eightfold path, and dependent origination</button>
+        <button class="opt">Knowledge of suffering, impermanence, and not-self</button>
+        <button class="opt">Recollection of past lives, the divine eye (seeing beings reborn according to their deeds), and the destruction of the taints</button>
+        <div class="expl"><strong>Correct: D.</strong> The three true knowledges are: (1) <em>pubbenivasanussati&ntilde;a&#7751;a</em> &mdash; recollection of past lives; (2) <em>cut&#363;pap&#257;ta&ntilde;a&#7751;a</em> &mdash; the divine eye, seeing beings dying and being reborn; and (3) <em>&#257;savakkhaya&ntilde;a&#7751;a</em> &mdash; the destruction of the taints. The Buddha redefines the Brahmanical &ldquo;three knowledges&rdquo; (the three Vedas) as these three directly verified forms of understanding.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What does the destruction of the taints reveal?</div>
+        <button class="opt">The nature of the cosmos and its creation</button>
+        <button class="opt">The four noble truths &mdash; suffering, its origin, its cessation, and the path &mdash; and that one is freed</button>
+        <button class="opt">The identity of the true self</button>
+        <button class="opt">The future rebirths of all beings</button>
+        <div class="expl"><strong>Correct: B.</strong> The third knowledge is not abstract metaphysics but a direct seeing of the four noble truths: &ldquo;This is suffering. This is the origin of suffering. This is the cessation of suffering. This is the path.&rdquo; The taints of sensual desire, being, and ignorance are destroyed, and the practitioner knows: &ldquo;Birth is ended, the spiritual life has been lived.&rdquo;</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">At the discourse&rsquo;s end, the Buddha redefines several Brahmanical titles. Why is the liberated person called a &ldquo;bather&rdquo;?</div>
+        <button class="opt">Because they have washed off bad, unwholesome qualities</button>
+        <button class="opt">Because they have bathed in the Ganges</button>
+        <button class="opt">Because they have cleansed their body through ascetic practices</button>
+        <button class="opt">Because they perform ritual purification</button>
+        <div class="expl"><strong>Correct: A.</strong> The Buddha redefines Brahmanical titles in Buddhist terms. A &ldquo;bather&rdquo; is not one who performs ritual ablution but one who has washed off unwholesome qualities. Similarly, a &ldquo;brahmin&rdquo; is one who has expelled unwholesome qualities, and a &ldquo;knower of the Vedas&rdquo; is one from whom those qualities have departed. The redefinitions shift the meaning from ritual to ethical and spiritual accomplishment.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">The graduated training</div>
+      <ul>
+        <li><span class="pali">1. hiri &amp; ottappa</span>moral shame &amp; dread</li>
+        <li><span class="pali">2. s&#299;la</span>purified conduct</li>
+        <li><span class="pali">3. indriyasa&#7747;vara</span>sense restraint</li>
+        <li><span class="pali">4. bhojane matta&ntilde;&ntilde;ut&#257;</span>moderation in eating</li>
+        <li><span class="pali">5. j&#257;gariy&#257;</span>wakefulness</li>
+        <li><span class="pali">6. sati-sampaja&ntilde;&ntilde;a</span>mindfulness &amp; awareness</li>
+        <li><span class="pali">7. n&#299;vara&#7751;a-pah&#257;na</span>abandoning hindrances</li>
+        <li><span class="pali">8. jh&#257;na 1&ndash;4</span>meditative absorption</li>
+        <li><span class="pali">9. tevijj&#257;</span>three true knowledges</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 40 &middot; Shorter Discourse at Assapura</li>
+        <li>DN 2 &middot; Fruits of the Ascetic Life</li>
+        <li>MN 27 &middot; The Shorter Simile of the Elephant&rsquo;s Footprint</li>
+        <li>MN 51 &middot; To Kandaraka</li>
+        <li>AN 2.9 &middot; Guardians of the World</li>
+        <li>M&#256; 182 &middot; Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn39/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with P&#257;li alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN39.html" target="_blank" rel="noopener">Thanissaro Bhikkhu&rsquo;s translation</a> &mdash; titled &ldquo;The Greater Discourse at Assapura.&rdquo;</li>
+      <li><a href="mn-038.html">MN 38 &middot; The Greater Discourse on the Ending of Craving</a> &mdash; the preceding discourse: dependent origination and the correction of S&#257;ti&rsquo;s wrong view about consciousness.</li>
+      <li><a href="https://suttacentral.net/mn40/en/sujato" target="_blank" rel="noopener">MN 40 &middot; The Shorter Discourse at Assapura</a> &mdash; the companion discourse: a shorter treatment of what makes someone a true ascetic, focused on the internal qualities rather than the full graduated training.</li>
+      <li><a href="https://suttacentral.net/dn2/en/sujato" target="_blank" rel="noopener">DN 2 &middot; The Fruits of the Ascetic Life</a> &mdash; the most famous graduated training discourse: King Aj&#257;tasattu asks the Buddha what concrete benefits the spiritual life can deliver, and receives the full path from moral restraint to liberation.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-038.html"><span class="label">&larr; Previous</span>MN 38 &middot; The Greater Discourse on the Ending of Craving</a>
+    <a href="mn-040.html" class="next"><span class="label">Next &rarr;</span>MN 40 &middot; The Shorter Discourse at Assapura</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
