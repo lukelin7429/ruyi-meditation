@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 31 — The Shorter Discourse at Gosiṅga | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Cūḷagosiṅgasutta — three monks living in perfect harmony describe their practice of communal kindness and silent cooperation, then reveal they have realized the full path to liberation. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Majjhima Nik&#257;ya</a><span>&rsaquo;</span>MN 31
+  </nav>
+
+  <div class="sutta-number">Majjhima Nik&#257;ya &middot; Discourse 31</div>
+  <h1>The Shorter Discourse at Gosi&#7749;ga</h1>
+  <p class="subtitle"><em>C&#363;&#7735;agosi&#7749;gasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>The Buddha at &Ntilde;&#257;tika in the brick house; Anuruddha, Nandiya, and Kimbila at the sal forest park at Gosi&#7749;ga</dd>
+      <dt>Speaker</dt><dd>The Buddha in dialogue with Anuruddha, Nandiya, and Kimbila</dd>
+      <dt>Form</dt><dd>A progressive visit &mdash; three questions about harmony, diligence, and attainment &mdash; revealing that communal kindness and silent cooperation are the soil in which the highest liberation grows</dd>
+      <dt>Length</dt><dd>~12 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>M&#256; 185 (Madhyama-&#257;gama 185, &ldquo;The Sa&#7749;gha at Gosinga&rdquo;)</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&star;&star;&star; &mdash; narrative and warm; no technical argumentation. The progressive structure (how do you live? &rarr; how do you practice? &rarr; what have you attained?) makes the logic transparent: harmony is not merely pleasant &mdash; it is the foundation of the highest realization.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, thirty-first</h2>
+    <p class="lede">
+      MN 31 is one of the most beloved discourses in the canon: a portrait of three monks living together in such seamless harmony that even the Buddha walks over from a neighboring town to visit them. The discourse&rsquo;s structure is its argument &mdash; only after establishing the depth of their communal life does the Buddha ask what they have attained, and the answer is: everything. The full path. Arahantship.
+    </p>
+    <p>
+      The implication is architectural: the highest meditative achievements do not arise in isolation from the quality of one&rsquo;s relationships. Anuruddha, Nandiya, and Kimbila did not attain liberation <em>despite</em> living together but <em>through</em> the discipline of living together &mdash; consistently treating each other with kindness in body, speech, and mind, setting aside their own ideas, and coordinating their daily life with such care that they communicate by hand gestures rather than breaking the silence.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Three monks who live together &ldquo;different in body but one in mind&rdquo; &mdash; treating each other with consistent kindness, setting aside their own ideas, and coordinating daily life in near-silence &mdash; have attained the complete path through all nine meditative levels to arahantship, demonstrating that communal harmony is not separate from the highest liberation but its foundation.
+    </p>
+
+    <h3>The three progressive questions</h3>
+    <p>
+      The Buddha&rsquo;s visit is structured as three questions, each going deeper:
+    </p>
+    <table>
+      <thead><tr><th>Question</th><th>What it reveals</th><th>Why it matters</th></tr></thead>
+      <tbody>
+        <tr><td>&ldquo;Do you live in harmony?&rdquo;</td><td>Kindness in body, speech, and mind &mdash; public and private. Setting aside one&rsquo;s own ideas for the group.</td><td>Harmony is not passive coexistence but active, chosen discipline.</td></tr>
+        <tr><td>&ldquo;Do you live diligently?&rdquo;</td><td>A detailed daily routine: whoever comes back first from alms prepares seats and water; whoever comes last eats the remainder or disposes of it. They signal with hand gestures, not speech. Every five days they discuss the teachings through the night.</td><td>Diligence is expressed in practical cooperation, not heroic individual effort.</td></tr>
+        <tr><td>&ldquo;Have you achieved any superhuman distinction?&rdquo;</td><td>All nine successive attainments &mdash; four jh&#257;nas, four formless realms, cessation of perception and feeling &mdash; and the destruction of defilements.</td><td>The highest attainments grow from the soil of the first two answers. The sequence is the argument.</td></tr>
+      </tbody>
+    </table>
+
+    <h3>&ldquo;Different in body, one in mind&rdquo;</h3>
+    <p>
+      Anuruddha&rsquo;s phrase (<em>n&#257;n&#257;k&#257;y&#257; ekacitta</em>) is one of the most quoted lines in the Nik&#257;yas. It describes a community where each person retains their individuality (&ldquo;different in body&rdquo;) while sharing a unified orientation (&ldquo;one in mind&rdquo;). The unity is not conformity but alignment: each monk independently chooses to set aside personal preference for the group&rsquo;s welfare. The phrase captures the ideal of spiritual friendship &mdash; not the erasure of difference but its subordination to a shared purpose.
+    </p>
+
+    <h3>The daily routine as practice</h3>
+    <p>
+      The discourse gives unusually concrete details about the monks&rsquo; daily life. These details are not incidental &mdash; they are the teaching. Notice what Anuruddha does <em>not</em> describe: he does not describe individual meditation schedules, solitary retreats, or private breakthroughs. He describes <em>shared logistics</em>: who prepares the water, who sweeps, how they handle leftovers. The implication is that these mundane acts of cooperation <em>are</em> the practice &mdash; or at least, inseparable from it.
+    </p>
+    <p>
+      One detail stands out: they communicate by hand gestures rather than breaking into speech. This is not a rule of silence but a refinement of attention &mdash; they are so attuned to each other&rsquo;s needs that minimal signals suffice. The discourse treats this as a sign of spiritual maturity, not ascetic severity.
+    </p>
+
+    <h3>The narrative frame: the park keeper</h3>
+    <p>
+      A charming detail: the park keeper tries to stop the Buddha from entering, saying, &ldquo;Don&rsquo;t come into this park, ascetic. There are three gentlemen staying here whose nature is to desire self-knowledge. Do not disturb them.&rdquo; Anuruddha overhears and corrects the keeper. The scene serves two purposes: it shows that outsiders recognize the monks&rsquo; quality even without understanding their identity, and it creates a moment of dramatic irony &mdash; the park keeper is protecting the monks from their own teacher.
+    </p>
+
+    <h3>D&#299;gha Parajana and the cosmic declaration</h3>
+    <p>
+      The discourse ends with a remarkable expansion of scale. The native spirit D&#299;gha Parajana announces that the Vajjians are fortunate to have these three monks living among them. The cry echoes upward through all the celestial realms. The Buddha then makes an extraordinary claim: if the entire world were to recollect these three monks with a confident heart, it would be for the world&rsquo;s lasting welfare and happiness. The three monks are &ldquo;practicing for the welfare and happiness of the people, out of sympathy for the world.&rdquo;
+    </p>
+    <p>
+      This conclusion reframes the entire discourse. What looked like a private account of three monks living quietly in a forest is revealed to be a teaching about the relationship between personal practice and universal benefit. Their harmony is not merely their own good fortune &mdash; it radiates outward.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>&ldquo;Is this discourse saying communal life is necessary for liberation?&rdquo;</strong> Not quite. It is saying that the <em>qualities</em> expressed in communal life &mdash; consistent kindness, willingness to set aside personal preference, attentive cooperation &mdash; are necessary. The three monks are not monks who happen to live together and also happen to be arahants. Their communal discipline and their meditative attainments are presented as structurally connected: the first two questions lead to the third.</p>
+
+    <p><strong>&ldquo;How did Anuruddha know about their attainments if they never told him?&rdquo;</strong> Anuruddha says he knew &ldquo;by encompassing their minds with his own&rdquo; and that deities also told him. Anuruddha is famous in the tradition for his mastery of the divine eye (<em>dibbacakkhu</em>). The detail serves the discourse&rsquo;s theme: in a community of genuine practitioners, knowledge is shared not through boasting but through mutual awareness.</p>
+
+    <p><strong>&ldquo;Why are there two Gosi&#7749;ga discourses (MN 31 and MN 32)?&rdquo;</strong> MN 31 (the &ldquo;Shorter&rdquo;) is the Buddha&rsquo;s visit to the three monks, focused on harmony and attainment. MN 32 (the &ldquo;Greater&rdquo;) is a different occasion entirely: a moonlit conversation among senior monks about what kind of monk would adorn the Gosi&#7749;ga forest. They share the setting but not the teaching.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">samagg&#257;</span> &mdash; in harmony; in concord. The central quality of the discourse. Not passive agreement but active, chosen alignment &mdash; &ldquo;blending like milk and water, viewing each other with eyes of affection.&rdquo;
+      </div>
+      <div class="term">
+        <span class="pali-word">n&#257;n&#257;k&#257;y&#257; ekacitta</span> &mdash; different in body, one in mind. Anuruddha&rsquo;s summary of their communal life. Each person retains their individuality while sharing a unified orientation toward the path.
+      </div>
+      <div class="term">
+        <span class="pali-word">mett&#257;k&#257;yakamma</span> &mdash; kindness by way of body. One of the three domains of active kindness (body, speech, mind) that Anuruddha describes &mdash; practiced &ldquo;both in public and in private.&rdquo;
+      </div>
+      <div class="term">
+        <span class="pali-word">Anuruddha</span> &mdash; the Buddha&rsquo;s cousin, renowned for his divine eye. Spokesperson for the trio. He can encompass others&rsquo; minds with his own &mdash; a sign of his mastery of the higher knowledges.
+      </div>
+      <div class="term">
+        <span class="pali-word">Nandiya</span> &mdash; one of the three harmonious monks. A Sakyan nobleman who went forth with Anuruddha. Confirms Anuruddha&rsquo;s account of their shared practice.
+      </div>
+      <div class="term">
+        <span class="pali-word">Kimbila</span> &mdash; the third of the trio. Also a Sakyan nobleman. Like Nandiya, he independently confirms the communal practice described by Anuruddha.
+      </div>
+      <div class="term">
+        <span class="pali-word">uttari&shy;manussadhamma</span> &mdash; superhuman distinction; a quality beyond ordinary human capacity. The Buddha&rsquo;s third question asks whether they have realized this &mdash; the canonical way of asking about meditative attainments without naming them in advance.
+      </div>
+      <div class="term">
+        <span class="pali-word">D&#299;gha Parajana</span> &mdash; a native spirit (<em>yakkha</em>) of Vajjian territory. His spontaneous praise of the three monks echoes upward through the celestial realms, connecting their private practice to the welfare of the entire cosmos.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 31 is a narrative discourse with progressive dialogue. The meditative attainments in the final section follow the standard nine-level sequence. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The occasion</h3>
+
+      <p><span class="segno">&sect;1</span>So I have heard. At one time the Buddha was staying at &Ntilde;&#257;tika in the brick house. The venerables Anuruddha, Nandiya, and Kimbila were staying in the sal forest park at Gosi&#7749;ga.</p>
+
+      <p><span class="segno">&sect;2</span>In the late afternoon, the Buddha came out of retreat and went to the sal forest park at Gosi&#7749;ga. The park keeper saw the Buddha coming from a distance and said, &ldquo;Don&rsquo;t come into this park, ascetic. There are three gentlemen staying here whose nature is to desire self-knowledge. Do not disturb them.&rdquo;</p>
+
+      <p>Anuruddha heard the park keeper speaking with the Buddha. He said to the keeper, &ldquo;Don&rsquo;t keep the Buddha out, good park keeper. Our Teacher, the Blessed One, has arrived.&rdquo;</p>
+
+      <p><span class="segno">&sect;3</span>Then Anuruddha went to Nandiya and Kimbila and said, &ldquo;Come out, venerables, come out! Our Teacher, the Blessed One, has arrived.&rdquo;</p>
+
+      <p>Then all three went to meet the Buddha. One received his bowl and robe, one spread a seat, and one set out water for washing the feet. The Buddha sat on the prepared seat, and when he was seated he washed his feet. Those venerables bowed to the Buddha and sat down to one side.</p>
+
+      <h3>The first question: harmony</h3>
+
+      <p><span class="segno">&sect;4</span>The Buddha said to Anuruddha, &ldquo;I hope you&rsquo;re all keeping well, Anuruddha, I hope you&rsquo;re comfortable, and that you have no trouble getting alms food.&rdquo;</p>
+
+      <p>&ldquo;We&rsquo;re keeping well, sir, we&rsquo;re comfortable, and we have no trouble getting alms food.&rdquo;</p>
+
+      <p>&ldquo;I hope you&rsquo;re all living in harmony, appreciating each other, without quarreling, blending like milk and water, and viewing each other with eyes of affection?&rdquo;</p>
+
+      <p>&ldquo;Indeed, sir, we are living in that way.&rdquo;</p>
+
+      <p>&ldquo;But how do you live in this way?&rdquo;</p>
+
+      <p><span class="segno">&sect;5</span>&ldquo;Sir, I think, &lsquo;I&rsquo;m fortunate, so very fortunate, to live together with spiritual companions such as these.&rsquo; I consistently treat these venerables with kindness by way of body, speech, and mind, both in public and in private. I think, &lsquo;Why don&rsquo;t I set aside my own ideas and just go along with these venerables&rsquo; ideas?&rsquo; And that is what I do. Though we&rsquo;re different in body, sir, we&rsquo;re one in mind.&rdquo;</p>
+
+      <p>Nandiya and Kimbila each confirmed that they practiced in exactly the same way.</p>
+
+      <p>&ldquo;That is how we live in harmony, appreciating each other, without quarreling, blending like milk and water, and viewing each other with eyes of affection.&rdquo;</p>
+
+      <h3>The second question: diligence</h3>
+
+      <p><span class="segno">&sect;6</span>&ldquo;Good, good, Anuruddha! But I hope you&rsquo;re all living diligently, keen, and resolute?&rdquo;</p>
+
+      <p>&ldquo;Indeed, sir, we are living diligently.&rdquo;</p>
+
+      <p>&ldquo;But how do you live diligently?&rdquo;</p>
+
+      <p><span class="segno">&sect;7</span>&ldquo;Sir, whoever returns first from almsround in the village prepares the seats, puts out drinking water and washing water, and puts out the rubbish bin. Whoever returns last eats any remainder of the food if they like. Otherwise they throw it out where there is little that is green or drop it into water that has no living creatures. Then they put away the seats, the drinking water and washing water, put away the rubbish bin, and sweep the refectory.</p>
+
+      <p>Whoever sees that the pot of drinking water, washing water, or the toilet pot is empty sets it up. If he can&rsquo;t do it, he summons another with a wave of the hand, and they set it up together. But we don&rsquo;t break into speech for that reason.</p>
+
+      <p>And every five days we sit together for the whole night and discuss the teachings.</p>
+
+      <p>That is how we live diligently, keen, and resolute.&rdquo;</p>
+
+      <h3>The third question: superhuman attainment</h3>
+
+      <p><span class="segno">&sect;8</span>&ldquo;Good, good, Anuruddha! But as you live diligently in this way, have you achieved any superhuman distinction, a truly noble knowledge and vision worthy of the noble ones, a comfortable abiding?&rdquo;</p>
+
+      <p>&ldquo;Sir, whenever we want, quite secluded from sensual pleasures, secluded from unskillful qualities, we enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected.&rdquo;</p>
+
+      <p>&ldquo;As the placing of the mind and keeping it connected are stilled, we enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and mind at one, without placing the mind and keeping it connected.&rdquo;</p>
+
+      <p>&ldquo;With the fading away of rapture, we enter and remain in the third absorption, where we meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, &lsquo;Equanimous and mindful, one meditates in bliss.&rsquo;&rdquo;</p>
+
+      <p>&ldquo;With the giving up of pleasure and pain, and the ending of former happiness and sadness, we enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness.&rdquo;</p>
+
+      <div class="compact">
+        <strong>The sequence continues</strong> through the four formless attainments: the dimension of infinite space, infinite consciousness, nothingness, and neither perception nor non-perception.
+      </div>
+
+      <p><span class="segno">&sect;9</span>&ldquo;Going totally beyond the dimension of neither perception nor non-perception, we enter and remain in the cessation of perception and feeling. And, having seen with wisdom, our defilements have come to an end.</p>
+
+      <p>We don&rsquo;t see any better or finer way of meditating comfortably than this.&rdquo;</p>
+
+      <p>&ldquo;Good, good, Anuruddha! There is no better or finer way of meditating comfortably than this.&rdquo;</p>
+
+      <h3>The aftermath</h3>
+
+      <p><span class="segno">&sect;10</span>Then the Buddha educated, encouraged, fired up, and inspired the venerables Anuruddha, Nandiya, and Kimbila with a Dhamma talk, after which he rose from his seat and left.</p>
+
+      <p>Having accompanied the Buddha for a while, the monks turned back. Nandiya and Kimbila said to Anuruddha, &ldquo;Did we ever tell Anuruddha about our attainments, that Anuruddha would describe them in the Buddha&rsquo;s presence up to the ending of defilements?&rdquo;</p>
+
+      <p>&ldquo;The venerables never told me about their attainments. But I know by encompassing your minds with my own. And deities also told me.&rdquo;</p>
+
+      <h3>D&#299;gha Parajana&rsquo;s proclamation</h3>
+
+      <p><span class="segno">&sect;11</span>Then the native spirit D&#299;gha Parajana approached the Buddha and said, &ldquo;The Vajjians are lucky, sir! So very lucky! That the Realized One, the Perfected One, the fully awakened Buddha stays there, as well as these three gentlemen, the venerables Anuruddha, Nandiya, and Kimbila.&rdquo;</p>
+
+      <p>Hearing D&#299;gha Parajana&rsquo;s cry, the earth deities raised the same cry. Then the deities of the Four Great Kings, then the deities of the Thirty-three, then the Yama deities, then the Joyful deities, then the deities who love creating, then the deities who control the creations of others, then the deities of Brahm&#257;&rsquo;s retinue raised the same cry:</p>
+
+      <p>&ldquo;The Vajjians are lucky, so very lucky! That the Realized One, the Perfected One, the fully awakened Buddha stays there, as well as these three gentlemen!&rdquo;</p>
+
+      <p><span class="segno">&sect;12</span>So in that instant, in that moment, those three venerables became known as far as the Brahm&#257; realm. The Buddha said:</p>
+
+      <p>&ldquo;That is so, D&#299;gha! If the family from which those three gentlemen went forth were to recollect them with a confident heart, that would be for their lasting welfare and happiness. If the village &hellip; the town &hellip; the country &hellip; if the whole world with its gods, M&#257;ras, and divinities, with its ascetics and brahmins, its gods and humans, were to recollect those three venerables with a confident heart, that would be for the whole world&rsquo;s lasting welfare and happiness.</p>
+
+      <p>See, D&#299;gha, how those three gentlemen are practicing for the welfare and happiness of the people, out of sympathy for the world, for the benefit, welfare, and happiness of gods and humans.&rdquo;</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">Who are the three monks living at the Gosi&#7749;ga sal forest park?</div>
+        <button class="opt">S&#257;riputta, Moggall&#257;na, and &#256;nanda</button>
+        <button class="opt">Anuruddha, Nandiya, and Kimbila</button>
+        <button class="opt">Mah&#257;kassapa, Uppa&#7789;isissa, and Assaji</button>
+        <button class="opt">Devadatta, Anuruddha, and &#256;nanda</button>
+        <div class="expl"><strong>Correct: B.</strong> Anuruddha, Nandiya, and Kimbila are all Sakyan noblemen who went forth together. Anuruddha is the Buddha&rsquo;s cousin, famous for his divine eye. The three become one of the canon&rsquo;s most celebrated examples of communal harmony.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What does the park keeper say to the Buddha when he arrives?</div>
+        <button class="opt">He invites the Buddha in immediately and prepares a seat</button>
+        <button class="opt">He asks the Buddha to teach him the Dhamma</button>
+        <button class="opt">He demands payment for entry into the park</button>
+        <button class="opt">&ldquo;Don&rsquo;t come into this park, ascetic. There are three gentlemen staying here &hellip; Do not disturb them.&rdquo;</button>
+        <div class="expl"><strong>Correct: D.</strong> The park keeper does not recognize the Buddha and tries to protect the monks from disturbance. This creates dramatic irony &mdash; he is keeping the teacher away from his own students &mdash; and shows that even outsiders recognize the quality of the monks&rsquo; practice.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">How does Anuruddha describe their life together?</div>
+        <button class="opt">&ldquo;Though we&rsquo;re different in body, sir, we&rsquo;re one in mind&rdquo; &mdash; consistently treating each other with kindness in body, speech, and mind, setting aside his own ideas to go along with theirs</button>
+        <button class="opt">&ldquo;We each practice alone in separate parts of the forest and meet only for meals&rdquo;</button>
+        <button class="opt">&ldquo;We follow a strict schedule that eliminates all disagreement&rdquo;</button>
+        <button class="opt">&ldquo;We compete with each other to motivate deeper practice&rdquo;</button>
+        <div class="expl"><strong>Correct: A.</strong> Anuruddha&rsquo;s phrase <em>n&#257;n&#257;k&#257;y&#257; ekacitta</em> (&ldquo;different in body, one in mind&rdquo;) captures the ideal: individuality without discord. The harmony is not passive &mdash; it is an active practice of kindness and the deliberate setting aside of personal preference.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What is notable about the monks&rsquo; daily routine?</div>
+        <button class="opt">They each have assigned tasks that never change</button>
+        <button class="opt">They hire a servant to handle all domestic duties</button>
+        <button class="opt">Whoever returns first from alms prepares seats and water; whoever sees an empty pot signals with a hand gesture rather than breaking the silence; every five days they discuss the teachings through the night</button>
+        <button class="opt">They fast for five days between each meal</button>
+        <div class="expl"><strong>Correct: C.</strong> The routine is characterized by spontaneous mutual care (first back prepares, last back cleans up), minimal verbal communication (a wave of the hand), and periodic deep engagement with the teachings. The discourse treats these mundane acts of cooperation as inseparable from their spiritual practice.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">What is the Buddha&rsquo;s third question to the monks?</div>
+        <button class="opt">&ldquo;What texts do you study?&rdquo;</button>
+        <button class="opt">&ldquo;How long have you been practicing?&rdquo;</button>
+        <button class="opt">&ldquo;Do you wish to remain here permanently?&rdquo;</button>
+        <button class="opt">&ldquo;Have you achieved any superhuman distinction, a truly noble knowledge and vision?&rdquo;</button>
+        <div class="expl"><strong>Correct: D.</strong> The three questions form a progressive sequence: harmony &rarr; diligence &rarr; attainment. The structure is the discourse&rsquo;s argument: the quality of communal life (Q1 and Q2) is not separate from the depth of meditative realization (Q3) but its foundation.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What level of attainment have the three monks reached?</div>
+        <button class="opt">The first jh&#257;na only</button>
+        <button class="opt">The full path: all four jh&#257;nas, all four formless attainments, cessation of perception and feeling, and the destruction of defilements (arahantship)</button>
+        <button class="opt">Stream-entry but not yet full liberation</button>
+        <button class="opt">Accomplishment of virtue and concentration but not liberation</button>
+        <div class="expl"><strong>Correct: B.</strong> All three monks have attained the complete nine-level sequence culminating in arahantship. Anuruddha says, &ldquo;Having seen with wisdom, our defilements have come to an end. We don&rsquo;t see any better or finer way of meditating comfortably than this.&rdquo; The Buddha confirms: &ldquo;There is no better or finer way.&rdquo;</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">How did Anuruddha know about Nandiya&rsquo;s and Kimbila&rsquo;s attainments?</div>
+        <button class="opt">&ldquo;By encompassing your minds with my own&rdquo; and through information from deities</button>
+        <button class="opt">They told him during their five-day discussions</button>
+        <button class="opt">The Buddha informed him privately beforehand</button>
+        <button class="opt">He guessed based on their behavior</button>
+        <div class="expl"><strong>Correct: A.</strong> Nandiya and Kimbila had never told Anuruddha about their attainments. He knew through his mastery of the divine eye &mdash; encompassing their minds with his own &mdash; and deities also informed him. This detail reinforces the theme: in a community of genuine practitioners, knowledge circulates through awareness, not through boasting.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">Who is D&#299;gha Parajana?</div>
+        <button class="opt">A senior monk who visits the three practitioners</button>
+        <button class="opt">The king of the Vajjian territory</button>
+        <button class="opt">A native spirit (<em>yakkha</em>) who spontaneously praises the Vajjians&rsquo; good fortune, triggering a cry that echoes through all the celestial realms</button>
+        <button class="opt">A lay follower who supplies the monks with food</button>
+        <div class="expl"><strong>Correct: C.</strong> D&#299;gha Parajana is a <em>yakkha</em> (native spirit) of Vajjian territory. His spontaneous praise echoes upward from earth deities through seven celestial levels to Brahm&#257;&rsquo;s retinue. The escalating proclamation connects the monks&rsquo; quiet forest practice to the entire cosmic order.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What does the Buddha say about the broader significance of these three monks?</div>
+        <button class="opt">They are exceptional but their practice cannot be replicated</button>
+        <button class="opt">They should leave the forest and teach in the cities</button>
+        <button class="opt">Their practice is admirable but benefits only themselves</button>
+        <button class="opt">If the whole world were to recollect them with a confident heart, it would be for the whole world&rsquo;s lasting welfare and happiness &mdash; they are &ldquo;practicing for the welfare and happiness of the people, out of sympathy for the world&rdquo;</button>
+        <div class="expl"><strong>Correct: D.</strong> The Buddha&rsquo;s final statement reframes the entire discourse: the monks&rsquo; private harmonious practice in a remote forest is, paradoxically, an act of universal compassion. Their practice benefits not only themselves but &mdash; through recollection and inspiration &mdash; the entire world.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What structural argument does the discourse make through the sequence of the Buddha&rsquo;s three questions?</div>
+        <button class="opt">That individual meditation is more important than communal life</button>
+        <button class="opt">That communal harmony and practical cooperation (questions 1 and 2) are the foundation upon which the highest meditative attainments (question 3) are built &mdash; the sequence is the argument</button>
+        <button class="opt">That monastics should avoid all contact with lay people</button>
+        <button class="opt">That the Buddha tests monks before allowing them to remain in a park</button>
+        <div class="expl"><strong>Correct: B.</strong> The discourse&rsquo;s architecture makes the point: the Buddha asks about harmony first, daily routine second, and attainments last. He does not ask about attainments until he has established the relational and practical foundations. The implication: liberation does not arise in a vacuum but from the soil of disciplined, kind, cooperative daily life.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">samagg&#257;</span>in harmony; concord</li>
+        <li><span class="pali">n&#257;n&#257;k&#257;y&#257; ekacitta</span>different body, one mind</li>
+        <li><span class="pali">mett&#257;k&#257;yakamma</span>kindness by way of body</li>
+        <li><span class="pali">Anuruddha</span>divine eye master</li>
+        <li><span class="pali">Nandiya</span>Sakyan monk</li>
+        <li><span class="pali">Kimbila</span>Sakyan monk</li>
+        <li><span class="pali">uttarimanussadhamma</span>superhuman distinction</li>
+        <li><span class="pali">D&#299;gha Parajana</span>native spirit</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 32 &middot; Greater Gosi&#7749;ga</li>
+        <li>MN 128 &middot; Corruptions</li>
+        <li>AN 3.95 &middot; Three Assemblies</li>
+        <li>AN 6.40 &middot; Kimbila</li>
+        <li>M&#256; 185 &middot; Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn31/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with P&#257;li alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN31.html" target="_blank" rel="noopener">Thanissaro Bhikkhu&rsquo;s translation</a> &mdash; titled &ldquo;The Shorter Discourse in Gosi&#7749;ga,&rdquo; with introduction.</li>
+      <li><a href="mn-030.html">MN 30 &middot; The Shorter Simile of the Heartwood</a> &mdash; the preceding discourse, mapping the nine attainments as what lies beyond knowledge and vision.</li>
+      <li><a href="https://suttacentral.net/mn32/en/sujato" target="_blank" rel="noopener">MN 32 &middot; The Greater Discourse at Gosi&#7749;ga</a> &mdash; a different occasion at the same forest: senior monks discuss what kind of monk would adorn Gosi&#7749;ga.</li>
+      <li><a href="https://suttacentral.net/mn128/en/sujato" target="_blank" rel="noopener">MN 128 &middot; Corruptions</a> &mdash; another discourse featuring Anuruddha, focused on the obstacles to meditation that he struggled with before his breakthrough.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-030.html"><span class="label">&larr; Previous</span>MN 30 &middot; The Shorter Simile of the Heartwood</a>
+    <a href="mn-032.html" class="next"><span class="label">Next &rarr;</span>MN 32 &middot; The Greater Discourse at Gosi&#7749;ga</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      var tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
