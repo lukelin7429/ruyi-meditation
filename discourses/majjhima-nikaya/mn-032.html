@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 32 — The Greater Discourse at Gosiṅga | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Mahāgosiṅgasutta — on a moonlit night, six senior monks each describe the ideal practitioner who would adorn the Gosiṅga forest, revealing their own spiritual mastery; the Buddha then gives his own answer. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Majjhima Nik&#257;ya</a><span>&rsaquo;</span>MN 32
+  </nav>
+
+  <div class="sutta-number">Majjhima Nik&#257;ya &middot; Discourse 32</div>
+  <h1>The Greater Discourse at Gosi&#7749;ga</h1>
+  <p class="subtitle"><em>Mah&#257;gosi&#7749;gasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>The sal forest park at Gosi&#7749;ga, on a bright moonlit night with the sal trees in full blossom</dd>
+      <dt>Speakers</dt><dd>S&#257;riputta (moderator), &#256;nanda, Revata, Anuruddha, Mah&#257;kassapa, Mah&#257;moggall&#257;na, and the Buddha</dd>
+      <dt>Form</dt><dd>A round-table conversation &mdash; each senior monk describes the ideal practitioner who would adorn this forest; the Buddha gives the final word</dd>
+      <dt>Length</dt><dd>~10 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>M&#256; 184 (Madhyama-&#257;gama 184)</dd>
+      <dt>Difficulty</dt><dd>&starf;&star;&star;&star;&star; &mdash; no technical argument; pure narrative. The discourse is a gallery of spiritual ideals, each answer a self-portrait. The power lies in the contrast between the monks&rsquo; varied answers and the Buddha&rsquo;s single, radical simplicity.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, thirty-second</h2>
+    <p class="lede">
+      On a bright moonlit night with the sal trees in full blossom, S&#257;riputta asks five senior monks a single aesthetic question: &ldquo;What kind of mendicant would grace this park?&rdquo; Each monk answers from the heart &mdash; and each answer is a mirror of his own mastery. The Buddha validates every answer, then gives his own: a monk who sits down after the meal and resolves not to break the posture until the mind is freed.
+    </p>
+    <p>
+      The discourse is one of the canon&rsquo;s most elegant: no argumentation, no doctrine, no correction. Just six accomplished practitioners revealing what they most value &mdash; and the Buddha reframing all of it with a single image of uncompromising resolve.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Each great practitioner&rsquo;s ideal reflects his own mastery &mdash; learning, retreat, clairvoyance, asceticism, Dhamma discussion, mental command &mdash; and all are valid; but the Buddha&rsquo;s own ideal is starker than any of them: a monk who sits down after the meal and will not rise until freed.
+    </p>
+
+    <h3>The six answers and their mirrors</h3>
+    <p>
+      The discourse&rsquo;s genius is that each monk&rsquo;s answer is a self-portrait. The Buddha explicitly confirms this by saying each &ldquo;answered in the right way for him&rdquo; &mdash; meaning each answer reflects the speaker&rsquo;s own realized strength:
+    </p>
+    <table>
+      <thead><tr><th>Monk</th><th>Ideal practitioner</th><th>What it reveals</th></tr></thead>
+      <tbody>
+        <tr><td><strong>&#256;nanda</strong></td><td>Very learned, teaching the four assemblies with well-rounded words</td><td>&#256;nanda is the &ldquo;guardian of the Dhamma,&rdquo; famous for remembering everything the Buddha taught. His ideal is the scholar-teacher.</td></tr>
+        <tr><td><strong>Revata</strong></td><td>Enjoys retreat, committed to inner serenity, frequents empty huts</td><td>Revata is the tradition&rsquo;s foremost practitioner of seclusion. His ideal is the silent contemplative.</td></tr>
+        <tr><td><strong>Anuruddha</strong></td><td>Surveys a thousandfold galaxy with the divine eye</td><td>Anuruddha is famous for his clairvoyance. His ideal is the visionary with cosmic perception.</td></tr>
+        <tr><td><strong>Mah&#257;kassapa</strong></td><td>Wilderness-dweller, rag-robed, of few wishes &mdash; accomplished in ethics, immersion, wisdom, and freedom, and praises these things</td><td>Mah&#257;kassapa is the foremost ascetic, the model of contentment with little. His ideal is the austere master who both practices and advocates the ascetic life.</td></tr>
+        <tr><td><strong>Mah&#257;moggall&#257;na</strong></td><td>Two mendicants who discuss the Dhamma without faltering, their conversation flowing on</td><td>Moggall&#257;na is described by the Buddha as &ldquo;a Dhamma speaker.&rdquo; His ideal is the living dialogue &mdash; two practitioners sharpening each other.</td></tr>
+        <tr><td><strong>S&#257;riputta</strong></td><td>A mendicant who masters the mind and is not mastered by it &mdash; entering whatever meditation or attainment they want, whenever they want</td><td>S&#257;riputta has total command of meditative states. His ideal is sovereign mental control &mdash; the mind as a wardrobe, each attainment a garment chosen at will.</td></tr>
+      </tbody>
+    </table>
+
+    <h3>The Buddha&rsquo;s answer</h3>
+    <p>
+      The Buddha validates all six answers: &ldquo;You&rsquo;ve all spoken well in your own way.&rdquo; Then he gives his own. And it is startlingly simple: a mendicant who, after the meal, sits down cross-legged, sets the body straight, establishes mindfulness, and resolves: <em>&ldquo;I will not break this sitting posture until my mind is freed from the defilements by not grasping!&rdquo;</em>
+    </p>
+    <p>
+      The Buddha&rsquo;s answer does not describe an ability, a quality, or a way of life. It describes a <em>moment of resolve</em>. No learning, no cosmic vision, no mastery of states &mdash; just a person who sits down and will not get up until they are free. It is the most radical answer in the room: not because it contradicts the others, but because it strips away everything except the essential act.
+    </p>
+
+    <h3>The narrative frame: a moonlit gathering</h3>
+    <p>
+      The setting is unusually vivid. S&#257;riputta&rsquo;s question opens with: &ldquo;The sal forest park at Gosi&#7749;ga is lovely, the night is bright, the sal trees are in full blossom, and heavenly scents seem to float on the air.&rdquo; This is repeated by each subsequent speaker. The repetition is not formulaic filler &mdash; it creates atmosphere. This is a gathering of friends on a beautiful night, sharing what they most care about. The discourse&rsquo;s tone is intimate and celebratory, not didactic.
+    </p>
+
+    <h3>Relation to MN 31</h3>
+    <p>
+      MN 31 (The Shorter Discourse at Gosi&#7749;ga) and MN 32 share a setting but almost nothing else. MN 31 is about three monks living in harmony; MN 32 is about six senior monks in conversation. MN 31 asks &ldquo;how do you live together?&rdquo;; MN 32 asks &ldquo;what do you most admire?&rdquo; The two discourses complement each other: MN 31 shows the practice of communal life; MN 32 shows the diversity of realized perspectives within a single community.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>&ldquo;Is the Buddha saying the other monks are wrong?&rdquo;</strong> No. He says &ldquo;Good, good&rdquo; to each one and explicitly confirms that each answered &ldquo;in the right way for him.&rdquo; The monks&rsquo; answers are genuine expressions of realized qualities. The Buddha is not correcting but completing: his answer adds the dimension of resolve that underlies all the others. Learning, retreat, vision, asceticism, dialogue, and mastery are all real &mdash; but they culminate in a moment when someone sits down and refuses to rise until freed.</p>
+
+    <p><strong>&ldquo;Why does S&#257;riputta&rsquo;s answer sound the most impressive?&rdquo;</strong> S&#257;riputta&rsquo;s answer &mdash; mastering the mind rather than being mastered by it, entering any state at will &mdash; sounds like the summit. And it is, in one sense: S&#257;riputta is the chief disciple. But the Buddha&rsquo;s answer is different in kind, not degree. S&#257;riputta describes <em>capacity</em>; the Buddha describes <em>intention</em>. You might have total command of all meditative states and still not resolve to use them for liberation. The Buddha&rsquo;s point: the decisive factor is not what you can do but what you are determined to do.</p>
+
+    <p><strong>&ldquo;Is this discourse about meditation or about community?&rdquo;</strong> Both. The monks are alone in their contemplative achievements, but they share them freely in conversation. Moggall&#257;na&rsquo;s answer &mdash; two mendicants discussing the Dhamma without faltering &mdash; is itself a description of what is happening in the discourse. MN 32 enacts its own teaching: a community of practitioners, each with distinct strengths, enriching each other through honest dialogue.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">sobheyya</span> &mdash; would adorn; would grace. The aesthetic framing of S&#257;riputta&rsquo;s question. Not &ldquo;what is the best practitioner?&rdquo; but &ldquo;what kind of practitioner would <em>beautify</em> this place?&rdquo; The question invites subjective, heartfelt answers rather than doctrinal ones.
+      </div>
+      <div class="term">
+        <span class="pali-word">bahussuta</span> &mdash; very learned; one who has heard much. &#256;nanda&rsquo;s ideal. The term denotes not academic knowledge but comprehensive familiarity with the teachings as an oral tradition &mdash; hearing, retaining, rehearsing, and being able to teach.
+      </div>
+      <div class="term">
+        <span class="pali-word">pa&#7789;isall&#257;na</span> &mdash; retreat; seclusion. Revata&rsquo;s ideal. Not mere isolation but the active practice of withdrawing into inner serenity &mdash; frequenting empty huts as a deliberate discipline.
+      </div>
+      <div class="term">
+        <span class="pali-word">dibbacakkhu</span> &mdash; the divine eye; clairvoyance. Anuruddha&rsquo;s ideal. The ability to perceive a thousandfold galaxy &mdash; a sign of mastery over the higher knowledges.
+      </div>
+      <div class="term">
+        <span class="pali-word">dhuta&#7749;ga</span> &mdash; ascetic practices. Mah&#257;kassapa&rsquo;s ideal. Voluntary austerities &mdash; wilderness dwelling, rag robes, almsfood only &mdash; undertaken not as penance but as simplification and contentment.
+      </div>
+      <div class="term">
+        <span class="pali-word">dhamm&#299;kath&#257;</span> &mdash; Dhamma discussion. Moggall&#257;na&rsquo;s ideal. Two practitioners questioning and answering each other without faltering &mdash; a living, flowing exchange about the teachings.
+      </div>
+      <div class="term">
+        <span class="pali-word">cetovasippatta</span> &mdash; mastery of the mind. S&#257;riputta&rsquo;s ideal. The capacity to enter any meditative state at will &mdash; the mind as instrument, not master.
+      </div>
+      <div class="term">
+        <span class="pali-word">an&#257;d&#257;na</span> &mdash; not grasping. The key word in the Buddha&rsquo;s answer: the mind is freed &ldquo;by not grasping&rdquo; (<em>an&#257;d&#257;nena</em>). Liberation is not an addition but a release &mdash; the cessation of clinging.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 32 is a narrative discourse structured as a round-table conversation. Each monk&rsquo;s answer is given once in the moonlit gathering and then summarized when S&#257;riputta reports to the Buddha. The repeated summaries are condensed here. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The moonlit gathering</h3>
+
+      <p><span class="segno">&sect;1</span>So I have heard. At one time the Buddha was staying in the sal forest park at Gosi&#7749;ga, together with several well-known senior disciples, such as the venerables S&#257;riputta, Mah&#257;moggall&#257;na, Mah&#257;kassapa, Anuruddha, Revata, &#256;nanda, and others.</p>
+
+      <p><span class="segno">&sect;2</span>Then in the late afternoon, Venerable Mah&#257;moggall&#257;na came out of retreat, went to Venerable Mah&#257;kassapa, and said, &ldquo;Come, Reverend Kassapa, let&rsquo;s go to Venerable S&#257;riputta to hear the teaching.&rdquo; &ldquo;Yes, reverend,&rdquo; Mah&#257;kassapa replied. Then, together with Venerable Anuruddha, they went to S&#257;riputta to hear the teaching.</p>
+
+      <p>Seeing them, Venerable &#256;nanda went to Venerable Revata, told him what was happening, and invited him also.</p>
+
+      <h3>S&#257;riputta&rsquo;s question</h3>
+
+      <p><span class="segno">&sect;3</span>S&#257;riputta saw them coming from a distance and said to &#256;nanda, &ldquo;Come, Venerable &#256;nanda. Welcome to &#256;nanda, the Buddha&rsquo;s attendant, who is so close to the Buddha. &#256;nanda, the sal forest park at Gosi&#7749;ga is lovely, the night is bright, the sal trees are in full blossom, and heavenly scents seem to float on the air. What kind of mendicant would grace this park?&rdquo;</p>
+
+      <h3>&#256;nanda: the learned teacher</h3>
+
+      <p><span class="segno">&sect;4</span>&ldquo;Reverend S&#257;riputta, it&rsquo;s a mendicant who is very learned, remembering and keeping what they&rsquo;ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that&rsquo;s entirely full and pure. They are very learned in such teachings, remembering them, rehearsing them, mentally scrutinizing them, and penetrating them theoretically. And they teach the four assemblies in order to uproot the underlying tendencies with well-rounded and coherent words and phrases. That&rsquo;s the kind of mendicant who would grace this park.&rdquo;</p>
+
+      <h3>Revata: the solitary contemplative</h3>
+
+      <p><span class="segno">&sect;5</span>When he had spoken, S&#257;riputta said to Revata, &ldquo;Reverend Revata, &#256;nanda has answered according to his own inspiration. And now we ask you the same question.&rdquo;</p>
+
+      <p>&ldquo;Reverend S&#257;riputta, it&rsquo;s a mendicant who enjoys retreat and loves retreat. They&rsquo;re committed to inner serenity of the heart, they don&rsquo;t neglect absorption, they&rsquo;re endowed with discernment, and they frequent empty huts. That&rsquo;s the kind of mendicant who would grace this park.&rdquo;</p>
+
+      <h3>Anuruddha: the cosmic seer</h3>
+
+      <p><span class="segno">&sect;6</span>&ldquo;Reverend S&#257;riputta, it&rsquo;s a mendicant who surveys a thousandfold galaxy with clairvoyance that is purified and surpasses the human, just as a person with clear eyes could survey a thousand orbits from the upper floor of a royal longhouse. That&rsquo;s the kind of mendicant who would grace this park.&rdquo;</p>
+
+      <h3>Mah&#257;kassapa: the austere master</h3>
+
+      <p><span class="segno">&sect;7</span>&ldquo;Reverend S&#257;riputta, it&rsquo;s a mendicant who lives in the wilderness, eats only almsfood, wears rag robes, and owns just three robes; and they praise these things. They are of few wishes, content, secluded, aloof, and energetic; and they praise these things. They are accomplished in ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom; and they praise these things. That&rsquo;s the kind of mendicant who would grace this park.&rdquo;</p>
+
+      <h3>Mah&#257;moggall&#257;na: the Dhamma dialogue</h3>
+
+      <p><span class="segno">&sect;8</span>&ldquo;Reverend S&#257;riputta, it&rsquo;s when two mendicants engage in discussion about the teaching. They question each other and answer each other&rsquo;s questions without faltering, and their discussion on the teaching flows on. That&rsquo;s the kind of mendicant who would grace this park.&rdquo;</p>
+
+      <h3>S&#257;riputta: the sovereign mind</h3>
+
+      <p><span class="segno">&sect;9</span>Then Mah&#257;moggall&#257;na said to S&#257;riputta, &ldquo;Each of us has spoken from our heart. And now we ask you: S&#257;riputta, the sal forest park at Gosi&#7749;ga is lovely, the night is bright, the sal trees are in full blossom, and heavenly scents seem to float on the air. What kind of mendicant would grace this park?&rdquo;</p>
+
+      <p>&ldquo;Reverend Moggall&#257;na, it&rsquo;s when a mendicant masters their mind and is not mastered by it. In the morning, they abide in whatever meditation or attainment they want. At midday, and in the evening, they abide in whatever meditation or attainment they want.</p>
+
+      <p>Suppose that a ruler or their chief minister had a chest full of garments of different colors. In the morning, they&rsquo;d don whatever pair of garments they wanted. At midday, and in the evening, they&rsquo;d don whatever pair of garments they wanted. In the same way, a mendicant masters their mind and is not mastered by it. That&rsquo;s the kind of mendicant who would grace this park.&rdquo;</p>
+
+      <h3>Before the Buddha</h3>
+
+      <p><span class="segno">&sect;10</span>Then S&#257;riputta said to those venerables, &ldquo;Each of us has spoken from the heart. Come, reverends, let&rsquo;s go to the Buddha, and inform him about this. As he answers, so we&rsquo;ll remember it.&rdquo; &ldquo;Yes, reverend,&rdquo; they replied.</p>
+
+      <p>Then those venerables went to the Buddha, bowed, and sat down to one side. Venerable S&#257;riputta reported the entire conversation.</p>
+
+      <div class="compact">
+        <strong>S&#257;riputta repeats each monk&rsquo;s answer to the Buddha.</strong> After each summary, the Buddha responds: &ldquo;Good, good, S&#257;riputta! [Monk&rsquo;s name] answered in the right way for him.&rdquo; He confirms that &#256;nanda is indeed very learned, Revata enjoys retreat, Anuruddha surveys the galaxy with clairvoyance, Kassapa lives the ascetic life and praises it, and Moggall&#257;na is a Dhamma speaker.
+      </div>
+
+      <p><span class="segno">&sect;11</span>Then Moggall&#257;na reported S&#257;riputta&rsquo;s own answer to the Buddha. The Buddha said, &ldquo;Good, good, Moggall&#257;na! S&#257;riputta answered in the right way for him. For S&#257;riputta masters his mind and is not mastered by it.&rdquo;</p>
+
+      <h3>The Buddha&rsquo;s answer</h3>
+
+      <p><span class="segno">&sect;12</span>When he had spoken, S&#257;riputta asked the Buddha, &ldquo;Sir, who has spoken well?&rdquo;</p>
+
+      <p>&ldquo;You&rsquo;ve all spoken well in your own way. However, listen to me also as to what kind of mendicant would grace this sal forest park at Gosi&#7749;ga.</p>
+
+      <p>It&rsquo;s a mendicant who, after the meal, returns from almsround, sits down cross-legged, sets their body straight, and brings mindfulness to the present, thinking: &lsquo;I will not break this sitting posture until my mind is freed from the defilements by not grasping!&rsquo;</p>
+
+      <p>That&rsquo;s the kind of mendicant who would grace this park.&rdquo;</p>
+
+      <p>That is what the Buddha said. Satisfied, those venerables approved what the Buddha said.</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">Who initiates the question &ldquo;What kind of mendicant would grace this park?&rdquo;</div>
+        <button class="opt">The Buddha</button>
+        <button class="opt">&#256;nanda</button>
+        <button class="opt">S&#257;riputta, addressing &#256;nanda on a moonlit night</button>
+        <button class="opt">Mah&#257;kassapa</button>
+        <div class="expl"><strong>Correct: C.</strong> S&#257;riputta poses the aesthetic question to &#256;nanda first, then passes it to each monk in turn. The question&rsquo;s framing &mdash; &ldquo;grace&rdquo; (<em>sobheyya</em>) rather than &ldquo;best&rdquo; &mdash; invites personal, heartfelt answers rather than doctrinal ones.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What is &#256;nanda&rsquo;s answer?</div>
+        <button class="opt">A mendicant who is very learned, teaches the four assemblies with well-rounded words to uproot underlying tendencies</button>
+        <button class="opt">A mendicant who enjoys retreat and frequents empty huts</button>
+        <button class="opt">A mendicant who surveys a thousandfold galaxy with clairvoyance</button>
+        <button class="opt">A mendicant who masters the mind and is not mastered by it</button>
+        <div class="expl"><strong>Correct: A.</strong> &#256;nanda&rsquo;s ideal reflects his own role as the &ldquo;guardian of the Dhamma&rdquo; &mdash; the monk who remembered and transmitted the Buddha&rsquo;s teachings. His answer values learning, retention, and skilled communication.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What is Mah&#257;kassapa&rsquo;s ideal?</div>
+        <button class="opt">Two mendicants in flowing Dhamma discussion</button>
+        <button class="opt">A mendicant committed to inner serenity in empty huts</button>
+        <button class="opt">A mendicant with clairvoyance surveying a thousandfold galaxy</button>
+        <button class="opt">A wilderness-dweller who wears rag robes, owns three robes, is of few wishes, and is accomplished in ethics, immersion, wisdom, and freedom &mdash; and praises these things</button>
+        <div class="expl"><strong>Correct: D.</strong> Mah&#257;kassapa&rsquo;s answer is the most detailed and the most personal: the ascetic life in full. The repeated &ldquo;and they praise these things&rdquo; is distinctive &mdash; Kassapa values not only practice but advocacy. He doesn&rsquo;t merely live austerely; he champions austerity as an ideal.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What is Mah&#257;moggall&#257;na&rsquo;s answer?</div>
+        <button class="opt">A mendicant who masters the mind and enters any state at will</button>
+        <button class="opt">Two mendicants who discuss the Dhamma, questioning and answering without faltering, their conversation flowing on</button>
+        <button class="opt">A mendicant who lives alone in the wilderness</button>
+        <button class="opt">A mendicant who surveys the cosmos with the divine eye</button>
+        <div class="expl"><strong>Correct: B.</strong> Moggall&#257;na&rsquo;s answer is unique in describing a pair, not a solitary individual. The Buddha confirms it by calling Moggall&#257;na &ldquo;a Dhamma speaker.&rdquo; The image of two practitioners in flowing dialogue is itself enacted in the discourse: Moggall&#257;na&rsquo;s ideal is what the monks are doing right now.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">What simile does S&#257;riputta use to illustrate mental mastery?</div>
+        <button class="opt">A ruler with a chest full of garments of different colors, donning whichever pair they want &mdash; morning, midday, or evening</button>
+        <button class="opt">A warrior choosing weapons before battle</button>
+        <button class="opt">A gardener selecting which flower to water</button>
+        <button class="opt">A musician playing any instrument at will</button>
+        <div class="expl"><strong>Correct: A.</strong> S&#257;riputta&rsquo;s garment-chest simile captures his ideal of sovereign mental freedom: the mind is not a prison but a wardrobe. Any meditative state is available at any time, chosen at will &mdash; the practitioner is master, not servant, of their own inner life.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">How does the Buddha respond to the monks&rsquo; individual answers?</div>
+        <button class="opt">He corrects each one and gives the proper answer</button>
+        <button class="opt">He says only S&#257;riputta&rsquo;s answer is correct</button>
+        <button class="opt">He says &ldquo;Good, good&rdquo; to each one, confirming that each &ldquo;answered in the right way for him&rdquo;</button>
+        <button class="opt">He remains silent and does not comment</button>
+        <div class="expl"><strong>Correct: C.</strong> The Buddha validates every answer as a genuine expression of that monk&rsquo;s realized quality. There is no correction, no ranking. Each answer is true &mdash; and true <em>to</em> the speaker. The diversity of valid answers is itself the teaching: the path expresses itself differently in different practitioners.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What is the Buddha&rsquo;s own answer?</div>
+        <button class="opt">A mendicant with all six qualities combined</button>
+        <button class="opt">A mendicant who achieves the four jh&#257;nas in sequence</button>
+        <button class="opt">A mendicant who has completely memorized the teachings</button>
+        <button class="opt">A mendicant who sits down after the meal and resolves: &ldquo;I will not break this sitting posture until my mind is freed from the defilements by not grasping!&rdquo;</button>
+        <div class="expl"><strong>Correct: D.</strong> The Buddha&rsquo;s answer is radically simple. It does not describe an ability, a quality, or a way of life but a <em>moment of resolve</em>. The decisive factor is not what you can do but what you are determined to do &mdash; sit down and refuse to rise until freed.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">How does the Buddha&rsquo;s answer differ from S&#257;riputta&rsquo;s in kind?</div>
+        <button class="opt">S&#257;riputta&rsquo;s is practical while the Buddha&rsquo;s is theoretical</button>
+        <button class="opt">S&#257;riputta describes capacity &mdash; the ability to enter any state at will; the Buddha describes intention &mdash; the resolve not to rise until freed. One is about what you can do, the other about what you are determined to do.</button>
+        <button class="opt">There is no real difference; the Buddha merely restates S&#257;riputta&rsquo;s point</button>
+        <button class="opt">S&#257;riputta&rsquo;s is about meditation while the Buddha&rsquo;s is about ethics</button>
+        <div class="expl"><strong>Correct: B.</strong> This is the discourse&rsquo;s deepest point. S&#257;riputta describes mastery &mdash; sovereign command over states. The Buddha describes determination &mdash; an irrevocable commitment to liberation in this very sitting. You could have S&#257;riputta&rsquo;s capacity and still lack the Buddha&rsquo;s resolve. The Buddha adds the missing dimension: will.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">Why does each monk&rsquo;s answer mirror their own spiritual strength?</div>
+        <button class="opt">Because the question asks &ldquo;what would grace this park?&rdquo; &mdash; an aesthetic question that draws out each person&rsquo;s deepest value. The Buddha confirms this by saying each &ldquo;answered in the right way for him.&rdquo;</button>
+        <button class="opt">Because the monks are simply describing themselves rather than thinking about the question</button>
+        <button class="opt">Because the Buddha secretly prompted each monk beforehand</button>
+        <button class="opt">Because they had rehearsed their answers before the gathering</button>
+        <div class="expl"><strong>Correct: A.</strong> S&#257;riputta&rsquo;s question is genius because it is open-ended and aesthetic, not doctrinal. &ldquo;What would grace this park?&rdquo; has no single right answer &mdash; so each monk reveals what they most deeply value. The result is a gallery of spiritual portraits, each authentic, each complementary.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What is the relationship between MN 31 and MN 32?</div>
+        <button class="opt">They are two parts of the same discourse, meant to be read together as one</button>
+        <button class="opt">MN 31 is a later commentary on MN 32</button>
+        <button class="opt">They share the Gosi&#7749;ga setting but are different occasions &mdash; MN 31 is about three monks&rsquo; communal harmony; MN 32 is a round-table among six senior monks about ideal practice</button>
+        <button class="opt">They are identical discourses with different titles</button>
+        <div class="expl"><strong>Correct: C.</strong> MN 31 features Anuruddha, Nandiya, and Kimbila (communal life and progressive attainment); MN 32 features S&#257;riputta, &#256;nanda, Revata, Anuruddha, Mah&#257;kassapa, and Mah&#257;moggall&#257;na (a moonlit conversation about spiritual ideals). They complement each other: practice as daily cooperation (MN 31) and practice as diverse realization (MN 32).</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">The six answers</div>
+      <ul>
+        <li><span class="pali">&#256;nanda</span>learned teacher</li>
+        <li><span class="pali">Revata</span>solitary retreat</li>
+        <li><span class="pali">Anuruddha</span>cosmic clairvoyance</li>
+        <li><span class="pali">Mah&#257;kassapa</span>austere ascetic</li>
+        <li><span class="pali">Mah&#257;moggall&#257;na</span>Dhamma dialogue</li>
+        <li><span class="pali">S&#257;riputta</span>sovereign mind</li>
+        <li><span class="pali">The Buddha</span>unbreakable resolve</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 31 &middot; Shorter Gosi&#7749;ga</li>
+        <li>AN 1.188&ndash;197 &middot; Foremost monks</li>
+        <li>AN 6.34 &middot; Moggall&#257;na</li>
+        <li>SN 21.1 &middot; Kassapa (1)</li>
+        <li>M&#256; 184 &middot; Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn32/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with P&#257;li alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN32.html" target="_blank" rel="noopener">Thanissaro Bhikkhu&rsquo;s translation</a> &mdash; titled &ldquo;The Greater Discourse in Gosi&#7749;ga.&rdquo;</li>
+      <li><a href="mn-031.html">MN 31 &middot; The Shorter Discourse at Gosi&#7749;ga</a> &mdash; the companion discourse: three monks at the same forest, focused on communal harmony and progressive attainment.</li>
+      <li><a href="https://suttacentral.net/an1.188-197/en/sujato" target="_blank" rel="noopener">AN 1.188&ndash;197 &middot; Foremost Monks</a> &mdash; the Buddha&rsquo;s canonical list of which monks are foremost in each quality &mdash; the background that makes each answer in MN 32 a self-portrait.</li>
+      <li><a href="mn-029.html">MN 29 &middot; The Greater Simile of the Heartwood</a> &mdash; the heartwood discourse, which shares MN 32&rsquo;s theme of not stopping at intermediate attainments.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-031.html"><span class="label">&larr; Previous</span>MN 31 &middot; The Shorter Discourse at Gosi&#7749;ga</a>
+    <a href="mn-033.html" class="next"><span class="label">Next &rarr;</span>MN 33 &middot; The Greater Cowherd Discourse</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      var tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
