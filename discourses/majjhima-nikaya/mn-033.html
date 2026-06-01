@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 33 — The Greater Discourse on the Cowherd | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Mahāgopālakasutta — the Buddha draws an extended analogy between eleven qualities of a skilled cowherd and eleven qualities of a monk who grows in the Dhamma. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Majjhima Nik&#257;ya</a><span>&rsaquo;</span>MN 33
+  </nav>
+
+  <div class="sutta-number">Majjhima Nik&#257;ya &middot; Discourse 33</div>
+  <h1>The Greater Discourse on the Cowherd</h1>
+  <p class="subtitle"><em>Mah&#257;gop&#257;lakasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>S&#257;vatth&#299;, in Jeta&rsquo;s Grove, An&#257;thapi&#7751;&#7693;ika&rsquo;s monastery</dd>
+      <dt>Speaker</dt><dd>The Buddha, addressing the monks</dd>
+      <dt>Form</dt><dd>An extended simile &mdash; eleven qualities of a skilled cowherd are mapped one-to-one onto eleven qualities of a monk who grows in the Dhamma</dd>
+      <dt>Length</dt><dd>~12 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>M&#256; 185 (Madhyama-&#257;gama 185)</dd>
+      <dt>Difficulty</dt><dd>&starf;&star;&star;&star;&star; &mdash; no technical argument; the simile is concrete and systematic. An excellent entry point for understanding how the Buddha uses occupational metaphors to teach monastic training.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, thirty-third</h2>
+    <p class="lede">
+      The Buddha takes one of ancient India&rsquo;s most common occupations &mdash; tending cattle &mdash; and turns it into a complete curriculum for monastic growth. A cowherd who lacks any of eleven skills will fail to maintain and expand the herd; a monk who lacks the corresponding eleven qualities will fail to grow in the Dhamma.
+    </p>
+    <p>
+      The discourse&rsquo;s power lies in the completeness and concreteness of the analogy. Each of the eleven cowherd skills maps to a specific monastic quality, and the correspondence is vivid enough to remember. The result is something rare in the canon: a mnemonic checklist that is also a teaching, and a teaching that is also a portrait of the complete practitioner.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Just as a cowherd who possesses eleven qualities can maintain and expand the herd, a monk who possesses the corresponding eleven qualities can grow in the Dhamma &mdash; and just as a cowherd who lacks them will see the herd dwindle, a monk who lacks them will decline.
+    </p>
+
+    <h3>The eleven qualities: cowherd to monk</h3>
+    <p>
+      The discourse&rsquo;s structure is unusually systematic. The Buddha first lists the eleven qualities a cowherd needs, then maps each one to a monastic quality. The following table captures the full correspondence:
+    </p>
+    <table>
+      <thead><tr><th>#</th><th>The cowherd&rsquo;s skill</th><th>The monk&rsquo;s quality</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td><strong>Knows forms</strong> &mdash; recognizes each cow by appearance</td><td>Understands the <strong>four elements</strong> (earth, water, fire, air) that make up bodily form</td></tr>
+        <tr><td>2</td><td><strong>Knows marks</strong> &mdash; identifies cattle by their distinguishing marks</td><td>Understands that a fool is known by their <strong>actions</strong> (deeds of body, speech, and mind) and a wise person likewise</td></tr>
+        <tr><td>3</td><td><strong>Picks off flies&rsquo; eggs</strong> &mdash; removes parasites before they hatch</td><td><strong>Removes sensual thoughts</strong> as soon as they arise, before they can take hold</td></tr>
+        <tr><td>4</td><td><strong>Tends wounds</strong> &mdash; dresses and bandages injuries</td><td><strong>Guards the sense doors</strong> &mdash; does not let contact with sense objects produce unwholesome states</td></tr>
+        <tr><td>5</td><td><strong>Makes fires</strong> &mdash; smokes out insects and pests</td><td><strong>Teaches the Dhamma</strong> to others as learned and understood</td></tr>
+        <tr><td>6</td><td><strong>Knows the ford</strong> &mdash; knows where to cross the river safely</td><td>Goes to <strong>learned monks</strong> and asks: &ldquo;How is this? What does this mean?&rdquo; &mdash; they open up what is hidden</td></tr>
+        <tr><td>7</td><td><strong>Knows where to drink</strong> &mdash; leads cattle to clean water</td><td>Finds <strong>joy and gladness</strong> when the Dhamma and Vinaya are taught</td></tr>
+        <tr><td>8</td><td><strong>Knows the road</strong> &mdash; knows which paths are safe</td><td>Knows the <strong>noble eightfold path</strong></td></tr>
+        <tr><td>9</td><td><strong>Skilled in pastures</strong> &mdash; knows where good grazing is</td><td>Knows the <strong>four establishments of mindfulness</strong> as the proper pasture for a monk</td></tr>
+        <tr><td>10</td><td><strong>Milks without leaving a remainder</strong> &mdash; leaves enough for the calves</td><td>Knows <strong>moderation in accepting gifts</strong> from lay supporters &mdash; neither greedy nor negligent</td></tr>
+        <tr><td>11</td><td><strong>Shows extra care for the bulls</strong> &mdash; honors the fathers and leaders of the herd</td><td>Shows <strong>extra respect for senior monks</strong> who are long-ordained, experienced, and the community&rsquo;s elders</td></tr>
+      </tbody>
+    </table>
+
+    <h3>The negative frame comes first</h3>
+    <p>
+      Unusually, the Buddha begins with the <em>negative</em> case: a cowherd who lacks these eleven qualities cannot maintain the herd. He then runs through the positive case. This rhetorical move &mdash; showing the failure first, then the success &mdash; has a pedagogical purpose: the listener recognizes the cost of each missing skill before hearing what the skill actually is. The structure creates urgency. You don&rsquo;t just learn the eleven qualities; you learn what happens without each one.
+    </p>
+
+    <h3>Why a cowherd?</h3>
+    <p>
+      Cattle-herding was one of the most widely understood occupations in the Buddha&rsquo;s world. A cowherd&rsquo;s work was tangible, observable, and required genuine skill. The analogy works because it is not lofty &mdash; it is earthy. The Buddha consistently chose occupations his audience knew from daily life (potters, charioteers, archers, carpenters) to make abstract training concrete. The cowherd simile is the most fully developed of these.
+    </p>
+
+    <h3>Relation to MN 34</h3>
+    <p>
+      MN 34 (The Shorter Discourse on the Cowherd) is a companion piece, but it takes a completely different approach. Where MN 33 maps cowherd skills to monastic qualities, MN 34 tells a story: a foolish cowherd tries to cross his cattle at a dangerous ford, and the herd is scattered; a wise cowherd crosses at the right place, leading the strongest bulls first, then the trained cattle, then the calves and weak cows. The Buddha uses this to describe how beings cross the flood of sa&#7747;s&#257;ra &mdash; the most developed practitioners go first and open the way.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>&ldquo;Is this discourse just a list?&rdquo;</strong> It is a list &mdash; and deliberately so. The Buddha organized his teachings for oral memorization. The eleven qualities form a systematic checklist: a monk can review them and identify what is missing. The checklist format is itself a teaching method: it says that spiritual growth is not one dramatic insight but eleven concurrent capacities, each needing attention.</p>
+
+    <p><strong>&ldquo;Why does &lsquo;making fires&rsquo; correspond to teaching the Dhamma?&rdquo;</strong> The correspondence is not arbitrary. A cowherd makes fires to smoke out insects and pests that would harm the cattle. A monk &ldquo;makes fires&rdquo; by teaching the Dhamma: the act of teaching disperses the pests of ignorance and unwholesome states &mdash; in others and in oneself. Teaching is not just output; it is an act of clarification that burns away confusion.</p>
+
+    <p><strong>&ldquo;What does &lsquo;milking without leaving a remainder&rsquo; mean for a monk?&rdquo;</strong> A greedy cowherd milks every drop and the calves starve. A negligent cowherd leaves too much and the owner loses out. The middle way: take enough, leave enough. For a monk, this means accepting lay offerings with moderation &mdash; neither burdening supporters with excessive demands nor refusing what is freely given. It is the ethics of dependence: a monk depends on the lay community and must be careful not to exhaust that goodwill.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">gop&#257;laka</span> &mdash; cowherd; cattle-keeper. The central simile of the discourse. The P&#257;li literally means &ldquo;cow-protector&rdquo; &mdash; the cowherd&rsquo;s role is not mere herding but guardianship.
+      </div>
+      <div class="term">
+        <span class="pali-word">r&#363;pa&#7747; j&#257;n&#257;ti</span> &mdash; knows forms. The first cowherd skill: recognizing each animal by its physical appearance. For the monk: understanding the four great elements (earth, water, fire, air) that constitute material form.
+      </div>
+      <div class="term">
+        <span class="pali-word">lakkha&#7751;a&#7747; j&#257;n&#257;ti</span> &mdash; knows marks. The second skill: distinguishing cattle by their brands or distinguishing features. For the monk: recognizing the moral character of a person by the &ldquo;marks&rdquo; of their actions.
+      </div>
+      <div class="term">
+        <span class="pali-word">&#257;sa&#7789;ika&#7747; h&#257;reti</span> &mdash; picks off flies&rsquo; eggs. Removing parasites before they can develop. For the monk: removing unwholesome thoughts at the moment of arising, before they proliferate.
+      </div>
+      <div class="term">
+        <span class="pali-word">va&#7751;a&#7747; pa&#7789;icch&#257;deti</span> &mdash; tends wounds; bandages injuries. For the monk: guarding the sense doors so that contact does not become a wound through which defilements enter.
+      </div>
+      <div class="term">
+        <span class="pali-word">dh&#363;ma&#7747; kattabba&#7747; j&#257;n&#257;ti</span> &mdash; knows when to make fires (smoke). For the monk: teaching the Dhamma to others &mdash; creating the &ldquo;smoke&rdquo; that drives out the pests of ignorance.
+      </div>
+      <div class="term">
+        <span class="pali-word">tittha&#7747; j&#257;n&#257;ti</span> &mdash; knows the ford. For the monk: approaching learned monks who can open up what is obscure &mdash; finding the crossing-place in the teachings.
+      </div>
+      <div class="term">
+        <span class="pali-word">ariya a&#7789;&#7789;ha&#7749;gika magga</span> &mdash; the noble eightfold path. The &ldquo;road&rdquo; that the monk must know, corresponding to the cowherd&rsquo;s knowledge of safe paths.
+      </div>
+      <div class="term">
+        <span class="pali-word">catt&#257;ro satipa&#7789;&#7789;h&#257;n&#257;</span> &mdash; the four establishments of mindfulness (body, feelings, mind, and mind-objects). The monk&rsquo;s &ldquo;pasture&rdquo; &mdash; the domain where growth happens.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 33 is a systematic simile discourse. The Buddha presents the negative case (a cowherd lacking eleven qualities) and then the positive case, mapping each cowherd skill to a monastic quality. Repetitive enumerations are condensed. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The cowherd who fails</h3>
+
+      <p><span class="segno">&sect;1</span>So I have heard. At one time the Buddha was staying near S&#257;vatth&#299; in Jeta&rsquo;s Grove, An&#257;thapi&#7751;&#7693;ika&rsquo;s monastery.</p>
+
+      <p><span class="segno">&sect;2</span>There the Buddha addressed the monks: &ldquo;Monks!&rdquo; &ldquo;Venerable sir,&rdquo; they replied. The Buddha said this:</p>
+
+      <p>&ldquo;Monks, a cowherd with eleven qualities is incapable of maintaining and expanding a herd of cattle. What eleven? It&rsquo;s when a cowherd doesn&rsquo;t know forms, is unskilled in marks, doesn&rsquo;t pick off flies&rsquo; eggs, doesn&rsquo;t tend wounds, doesn&rsquo;t make fires, doesn&rsquo;t know the ford, doesn&rsquo;t know where to drink, doesn&rsquo;t know the road, isn&rsquo;t skilled in pastures, milks dry without leaving a remainder, and doesn&rsquo;t show extra respect to the bulls who are fathers and leaders of the herd.</p>
+
+      <p>A cowherd with these eleven qualities is incapable of maintaining and expanding a herd of cattle.</p>
+
+      <p><span class="segno">&sect;3</span>In the same way, a monk with eleven qualities is incapable of growing in this teaching and training.</p>
+
+      <div class="compact">
+        <strong>The Buddha maps each of the eleven lacks to a monk&rsquo;s deficiency.</strong> A monk who doesn&rsquo;t understand forms (the four elements), doesn&rsquo;t know marks (judging character by actions), doesn&rsquo;t pick off flies&rsquo; eggs (remove sensual thoughts at arising), doesn&rsquo;t tend wounds (guard the senses), doesn&rsquo;t make fires (teach the Dhamma), doesn&rsquo;t know the ford (consult learned monks), doesn&rsquo;t know where to drink (find no joy in the teachings), doesn&rsquo;t know the road (the noble eightfold path), isn&rsquo;t skilled in pastures (the four establishments of mindfulness), milks dry (immoderately accepts gifts), and doesn&rsquo;t show extra respect for senior monks &mdash; such a monk is incapable of growth. Each quality is explained in turn.
+      </div>
+
+      <h3>The cowherd who succeeds</h3>
+
+      <p><span class="segno">&sect;4</span>&ldquo;A cowherd with eleven qualities is capable of maintaining and expanding a herd of cattle. What eleven? It&rsquo;s when a cowherd knows forms, is skilled in marks, picks off flies&rsquo; eggs, tends wounds, makes fires, knows the ford, knows where to drink, knows the road, is skilled in pastures, milks without leaving a remainder, and shows extra respect to the bulls who are fathers and leaders of the herd.</p>
+
+      <p>A cowherd with these eleven qualities is capable of maintaining and expanding a herd of cattle.</p>
+
+      <h3>The monk who grows</h3>
+
+      <p><span class="segno">&sect;5</span>In the same way, a monk with eleven qualities is capable of growing in this teaching and training. What eleven?</p>
+
+      <p><span class="segno">&sect;6</span>And how does a monk know forms? It&rsquo;s when a monk truly understands that all form is made up of the four great elements and form derived from the four great elements. That is how a monk knows forms.</p>
+
+      <p><span class="segno">&sect;7</span>And how does a monk know marks? It&rsquo;s when a monk truly understands that a fool is marked by their deeds and a wise person is also marked by their deeds. That is how a monk knows marks.</p>
+
+      <p><span class="segno">&sect;8</span>And how does a monk pick off flies&rsquo; eggs? It&rsquo;s when a monk doesn&rsquo;t tolerate a sensual thought that has arisen. They give it up, get rid of it, eliminate it, and obliterate it. They don&rsquo;t tolerate a thought of ill will that has arisen &hellip; They don&rsquo;t tolerate a thought of cruelty that has arisen &hellip; They don&rsquo;t tolerate any bad, unwholesome qualities that have arisen. They give them up, get rid of them, eliminate them, and obliterate them. That is how a monk picks off flies&rsquo; eggs.</p>
+
+      <p><span class="segno">&sect;9</span>And how does a monk tend wounds? It&rsquo;s when a monk, on seeing a form with the eye, doesn&rsquo;t grasp at features and details. If the faculty of sight were left unguarded, bad, unwholesome qualities of desire and aversion would become overwhelming. For this reason they guard the faculty of sight. They do the same with the ear, nose, tongue, body, and mind. That is how a monk tends wounds.</p>
+
+      <p><span class="segno">&sect;10</span>And how does a monk make fires? It&rsquo;s when a monk teaches others the Dhamma in detail as they have learned and understood it. That is how a monk makes fires.</p>
+
+      <p><span class="segno">&sect;11</span>And how does a monk know the ford? It&rsquo;s when a monk from time to time goes to the monks who are very learned, who have memorized the tradition, and who are experts in the teaching, the monastic law, and the summaries. He asks them: &ldquo;How is this, sir? What does this mean?&rdquo; Those venerables open up what is hidden, clarify what is obscure, and resolve doubt on many doubtful matters. That is how a monk knows the ford.</p>
+
+      <p><span class="segno">&sect;12</span>And how does a monk know where to drink? It&rsquo;s when a monk, whenever the teaching and training proclaimed by the Realized One is being taught, finds joy and gladness in the meaning, joy and gladness in the teaching. That is how a monk knows where to drink.</p>
+
+      <p><span class="segno">&sect;13</span>And how does a monk know the road? It&rsquo;s when a monk truly understands the noble eightfold path. That is how a monk knows the road.</p>
+
+      <p><span class="segno">&sect;14</span>And how is a monk skilled in pastures? It&rsquo;s when a monk truly understands the four establishments of mindfulness. That is how a monk is skilled in pastures.</p>
+
+      <p><span class="segno">&sect;15</span>And how does a monk milk without leaving a remainder? It&rsquo;s when faithful laypeople invite a monk to accept robes, almsfood, lodgings, and medicines. That monk knows moderation in accepting. That is how a monk milks without leaving a remainder.</p>
+
+      <p><span class="segno">&sect;16</span>And how does a monk show extra respect to the bulls who are fathers and leaders of the herd? It&rsquo;s when a monk sets up acts of body, speech, and mind filled with loving-kindness toward those senior monks who are long-ordained, long gone forth, fathers and leaders of the community. That is how a monk shows extra respect to the bulls who are fathers and leaders of the herd.</p>
+
+      <p><span class="segno">&sect;17</span>A monk with these eleven qualities is capable of growing in this teaching and training.&rdquo;</p>
+
+      <p>That is what the Buddha said. Satisfied, the monks approved what the Buddha said.</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">How many qualities does the Buddha enumerate for a cowherd (and correspondingly for a monk)?</div>
+        <button class="opt">Seven</button>
+        <button class="opt">Eleven</button>
+        <button class="opt">Five</button>
+        <button class="opt">Eight</button>
+        <div class="expl"><strong>Correct: B.</strong> The discourse is built on a systematic analogy of eleven qualities. This number is distinctive &mdash; most lists in the P&#257;li canon use round numbers (4, 5, 8, 10). The oddness of eleven itself makes the list memorable.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What does &ldquo;knowing forms&rdquo; correspond to for a monk?</div>
+        <button class="opt">Recognizing the thirty-two parts of the body</button>
+        <button class="opt">Knowing the five aggregates of clinging</button>
+        <button class="opt">Understanding the four great elements &mdash; earth, water, fire, and air &mdash; that make up all material form</button>
+        <button class="opt">Seeing impermanence in all visual objects</button>
+        <div class="expl"><strong>Correct: C.</strong> Just as a cowherd recognizes each cow by its physical appearance, a monk understands that all bodily form is composed of the four great elements (<em>mah&#257;bh&#363;ta</em>) and form derived from them. This is foundational material analysis.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What does &ldquo;picking off flies&rsquo; eggs&rdquo; correspond to for a monk?</div>
+        <button class="opt">Removing unwholesome thoughts &mdash; sensual, ill-willed, or cruel &mdash; the moment they arise, before they can develop</button>
+        <button class="opt">Avoiding contact with lay people who hold wrong views</button>
+        <button class="opt">Cleaning the meditation hall before practice</button>
+        <button class="opt">Removing doubts about the Buddha&rsquo;s teaching</button>
+        <div class="expl"><strong>Correct: A.</strong> Flies&rsquo; eggs become maggots if left alone. Sensual thoughts become obsessions if not removed at the moment of arising. The vividness of the image is the teaching: catch them early, before they hatch.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What does &ldquo;tending wounds&rdquo; correspond to for a monk?</div>
+        <button class="opt">Practicing loving-kindness meditation toward those who have wronged you</button>
+        <button class="opt">Confessing transgressions to the monastic community</button>
+        <button class="opt">Eating only plain food to avoid attachment</button>
+        <button class="opt">Guarding the sense doors &mdash; not grasping at features and details when seeing, hearing, or otherwise sensing</button>
+        <div class="expl"><strong>Correct: D.</strong> An untended wound on a cow lets infection in. An unguarded sense door lets defilements in. The cowherd bandages the wound; the monk practices sense restraint (<em>indriyasa&#7747;vara</em>) so that contact with sense objects does not become a pathway for desire and aversion.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">Why does the Buddha present the negative case (the cowherd who fails) <em>before</em> the positive case?</div>
+        <button class="opt">It is a scribal convention with no special significance</button>
+        <button class="opt">So the listener recognizes the cost of each missing quality before hearing what the quality is &mdash; creating urgency and motivation</button>
+        <button class="opt">Because the negative case is easier to understand</button>
+        <button class="opt">Because the Buddha always teaches in pairs of opposites</button>
+        <div class="expl"><strong>Correct: B.</strong> By showing the failure first, the Buddha ensures that the listener feels the stakes. You don&rsquo;t just learn what to do; you first see what happens if you don&rsquo;t do it. The negative frame creates urgency &mdash; a pedagogical technique the Buddha uses in several discourses.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What does &ldquo;knowing the ford&rdquo; correspond to for a monk?</div>
+        <button class="opt">Knowing when to enter and leave the rainy-season retreat</button>
+        <button class="opt">Memorizing the rules of the monastic code</button>
+        <button class="opt">Going to learned, experienced monks to ask questions &mdash; they open up what is hidden and clarify what is obscure</button>
+        <button class="opt">Knowing the stages of meditation in correct sequence</button>
+        <div class="expl"><strong>Correct: C.</strong> A ford is a safe crossing-place in a river. For a monk, the &ldquo;ford&rdquo; is the wisdom of senior practitioners who can show the way through difficult teachings. The image captures the humility of asking: you do not cross the river by guessing, but by going to someone who knows where the riverbed is firm.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What is the monk&rsquo;s &ldquo;pasture,&rdquo; according to the discourse?</div>
+        <button class="opt">The four establishments of mindfulness &mdash; body, feelings, mind, and mind-objects</button>
+        <button class="opt">The five precepts</button>
+        <button class="opt">The four noble truths</button>
+        <button class="opt">The seven factors of awakening</button>
+        <div class="expl"><strong>Correct: A.</strong> The <em>satipa&#7789;&#7789;h&#257;na</em> (establishments of mindfulness) are the monk&rsquo;s proper grazing ground. Just as cattle grow strong in good pasture, a monk grows in wisdom by cultivating mindfulness of body, feelings, mind, and mind-objects. This connection between &ldquo;pasture&rdquo; and <em>satipa&#7789;&#7789;h&#257;na</em> appears in several discourses.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">What does &ldquo;milking without leaving a remainder&rdquo; mean for a monk?</div>
+        <button class="opt">Practicing until reaching full awakening without stopping at intermediate stages</button>
+        <button class="opt">Teaching every detail of the Dhamma without omitting anything</button>
+        <button class="opt">Completing every meditation session without getting up early</button>
+        <button class="opt">Knowing moderation in accepting offerings from lay supporters &mdash; neither greedy nor burdensome</button>
+        <div class="expl"><strong>Correct: D.</strong> A cowherd who milks every drop starves the calves; one who leaves too much cheats the owner. The monk likewise must find moderation: accepting enough to sustain the practice, but not so much as to exhaust the goodwill of lay supporters. This is the ethics of dependence &mdash; a cornerstone of monastic life.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What does &ldquo;making fires&rdquo; correspond to for a monk?</div>
+        <button class="opt">Practicing the fire-kasina meditation</button>
+        <button class="opt">Burning unwholesome mental states in the fire of wisdom</button>
+        <button class="opt">Teaching the Dhamma to others in detail, as learned and understood</button>
+        <button class="opt">Performing the fire-offering ritual</button>
+        <div class="expl"><strong>Correct: C.</strong> A cowherd makes fires to smoke out insects and pests. A monk &ldquo;makes fires&rdquo; by teaching: the act of explaining the Dhamma drives out the pests of ignorance and confusion &mdash; in others and, through the clarification involved, in oneself.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">How does MN 33 relate to MN 34 (The Shorter Discourse on the Cowherd)?</div>
+        <button class="opt">MN 34 is a shorter version of the same eleven-quality list</button>
+        <button class="opt">Both use cowherd imagery, but MN 33 maps eleven skills to monastic qualities while MN 34 tells a narrative about crossing a river &mdash; a foolish cowherd who fails and a wise one who succeeds by leading the strongest bulls first</button>
+        <button class="opt">MN 34 corrects errors in MN 33</button>
+        <button class="opt">They are identical discourses addressed to different audiences</button>
+        <div class="expl"><strong>Correct: B.</strong> MN 33 is systematic: a point-by-point analogy. MN 34 is narrative: a story about river-crossing that becomes a metaphor for how beings cross the flood of sa&#7747;s&#257;ra. Together they show two ways the Buddha uses the same pastoral imagery &mdash; as a checklist and as a parable.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">The eleven qualities</div>
+      <ul>
+        <li><span class="pali">1. r&#363;pa</span>knows forms &rarr; four elements</li>
+        <li><span class="pali">2. lakkha&#7751;a</span>knows marks &rarr; judging by deeds</li>
+        <li><span class="pali">3. &#257;sa&#7789;ik&#257;</span>picks off eggs &rarr; removes bad thoughts</li>
+        <li><span class="pali">4. va&#7751;a</span>tends wounds &rarr; guards senses</li>
+        <li><span class="pali">5. dh&#363;ma</span>makes fires &rarr; teaches Dhamma</li>
+        <li><span class="pali">6. tittha</span>knows ford &rarr; consults elders</li>
+        <li><span class="pali">7. p&#299;ta</span>knows water &rarr; joy in Dhamma</li>
+        <li><span class="pali">8. magga</span>knows road &rarr; eightfold path</li>
+        <li><span class="pali">9. gocara</span>skilled in pasture &rarr; satipa&#7789;&#7789;h&#257;na</li>
+        <li><span class="pali">10. dohana</span>milks well &rarr; moderation</li>
+        <li><span class="pali">11. usabha</span>honors bulls &rarr; respects elders</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 34 &middot; Shorter Cowherd</li>
+        <li>AN 11.17 &middot; Cowherd (1)</li>
+        <li>SN 47.6&ndash;7 &middot; Pasture</li>
+        <li>M&#256; 185 &middot; Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn33/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with P&#257;li alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN33.html" target="_blank" rel="noopener">Thanissaro Bhikkhu&rsquo;s translation</a> &mdash; titled &ldquo;The Greater Discourse on the Cowherd.&rdquo;</li>
+      <li><a href="mn-032.html">MN 32 &middot; The Greater Discourse at Gosi&#7749;ga</a> &mdash; the preceding discourse: a moonlit conversation among six senior monks about the ideal practitioner.</li>
+      <li><a href="https://suttacentral.net/mn34/en/sujato" target="_blank" rel="noopener">MN 34 &middot; The Shorter Discourse on the Cowherd</a> &mdash; the companion discourse: a narrative about crossing a river, using cowherd imagery as a metaphor for crossing sa&#7747;s&#257;ra.</li>
+      <li><a href="https://suttacentral.net/sn47.6/en/sujato" target="_blank" rel="noopener">SN 47.6&ndash;7 &middot; Pasture</a> &mdash; the four <em>satipa&#7789;&#7789;h&#257;na</em> as a monk&rsquo;s &ldquo;own pasture&rdquo; &mdash; the same metaphor explored further.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-032.html"><span class="label">&larr; Previous</span>MN 32 &middot; The Greater Discourse at Gosi&#7749;ga</a>
+    <a href="mn-034.html" class="next"><span class="label">Next &rarr;</span>MN 34 &middot; The Shorter Discourse on the Cowherd</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      var tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
