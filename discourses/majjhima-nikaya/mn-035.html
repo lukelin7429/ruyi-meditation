@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 35 — The Shorter Discourse with Saccaka | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Cūḷasaccakasutta — the Buddha debates Saccaka, a Jain-trained polemicist who claims the five aggregates are the self. Through the simile of a king's sovereignty, the Buddha dismantles the claim and leads Saccaka through the not-self teaching. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-block {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 21px;
+    line-height: 1.85;
+    color: #1a1a1a;
+  }
+  .text-block p { margin-bottom: 14px; }
+  .segno {
+    display: inline-block;
+    color: #a64018;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-right: 8px;
+    vertical-align: 2px;
+  }
+  .compact {
+    background: #f3f5f7;
+    border-left: 2px solid #d8dadf;
+    padding: 14px 20px;
+    margin: 18px 0;
+    font-family: -apple-system, sans-serif;
+    font-size: 17px;
+    color: #6b6b6b;
+    line-height: 1.7;
+    font-style: italic;
+  }
+  .compact strong {
+    color: #1a1d23;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Majjhima Nik&#257;ya</a><span>&rsaquo;</span>MN 35
+  </nav>
+
+  <div class="sutta-number">Majjhima Nik&#257;ya &middot; Discourse 35</div>
+  <h1>The Shorter Discourse with Saccaka</h1>
+  <p class="subtitle"><em>C&#363;&#7735;asaccakasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Ves&#257;l&#299;, in the Great Wood, at the hall with the peaked roof</dd>
+      <dt>Speakers</dt><dd>The Buddha and Saccaka (Aggivessana), a Jain-trained debater; the Licchavi princes as audience</dd>
+      <dt>Form</dt><dd>A public debate &mdash; Saccaka claims the five aggregates are the self; the Buddha refutes him through the simile of a king&rsquo;s sovereignty and then leads him step by step through the not-self analysis</dd>
+      <dt>Length</dt><dd>~15 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>M&#256; 203 (Madhyama-&#257;gama 203)</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&star;&star;&star; &mdash; the argument is logical and the narrative vivid, but following the not-self reasoning closely requires attention. One of the best introductions to the <em>anatt&#257;</em> teaching in debate form.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, thirty-fifth</h2>
+    <p class="lede">
+      Saccaka, a professional debater trained in the Jain tradition, boasts that he can rout the Buddha in argument. He claims that form, feeling, perception, volitional formations, and consciousness are the self. The Buddha dismantles this with a single image: does a king have power over his kingdom &mdash; to execute, banish, or exile? Yes. Do you have that kind of power over your own body and mind? Saccaka falls silent.
+    </p>
+    <p>
+      The discourse is the canon&rsquo;s most dramatic demonstration of the not-self (<em>anatt&#257;</em>) teaching in action. It works not through abstract philosophy but through a forensic cross-examination: if the aggregates were truly &ldquo;self,&rdquo; you would have sovereign control over them. You do not. Therefore they are not self. The argument is devastatingly simple, and Saccaka has no answer.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      If the five aggregates were truly &ldquo;self,&rdquo; you would have sovereign power over them &mdash; but since you cannot command form, feeling, perception, formations, or consciousness to be as you wish, they are not self; and what is not self, being impermanent and suffering, should not be regarded as &ldquo;mine,&rdquo; &ldquo;I,&rdquo; or &ldquo;my self.&rdquo;
+    </p>
+
+    <h3>The structure of the debate</h3>
+    <p>
+      The discourse unfolds as a narrative drama in five acts:
+    </p>
+    <table>
+      <thead><tr><th>Act</th><th>What happens</th></tr></thead>
+      <tbody>
+        <tr><td><strong>1. The encounter</strong></td><td>Saccaka meets Venerable Assaji on almsround and asks about the Buddha&rsquo;s teaching. Assaji explains the five aggregates and their not-self nature. Saccaka is horrified and declares he will refute the Buddha in debate.</td></tr>
+        <tr><td><strong>2. The boast</strong></td><td>Saccaka tells the Licchavi princes he will &ldquo;drag the ascetic Gotama back and forth like a mat-maker drags hair,&rdquo; or &ldquo;shake him like a spirit-washer shakes a straining cloth.&rdquo; Five hundred Licchavi princes follow him to watch.</td></tr>
+        <tr><td><strong>3. The sovereignty test</strong></td><td>The Buddha asks: does a king have the power to execute, banish, or exile in his own realm? Yes. Do you have that power over your body &mdash; can you say &ldquo;Let my form be thus, let my form not be thus&rdquo;? Saccaka is asked three times and cannot answer.</td></tr>
+        <tr><td><strong>4. The five-aggregate analysis</strong></td><td>The Buddha takes each aggregate in turn: Is form permanent or impermanent? Impermanent. Is what is impermanent suffering or happiness? Suffering. Is it fitting to regard what is impermanent, suffering, and subject to change as &ldquo;This is mine, this am I, this is my self&rdquo;? No, it is not. The same for feeling, perception, formations, and consciousness.</td></tr>
+        <tr><td><strong>5. The meal invitation</strong></td><td>Saccaka, defeated but not hostile, invites the Buddha and the monks for a meal the next day. The debate ends without bitterness.</td></tr>
+      </tbody>
+    </table>
+
+    <h3>The king simile: why it works</h3>
+    <p>
+      The Buddha&rsquo;s argument is not metaphysical &mdash; it is practical. He does not argue about the ultimate nature of reality. He asks a simple question about <em>control</em>: if something is &ldquo;your self,&rdquo; you should be its master. A king is master of his kingdom: he can punish, reward, or exile. Are you the master of your body? Can you command it not to age, not to sicken, not to die? Can you command your feelings to be always pleasant? Your thoughts to be always clear?
+    </p>
+    <p>
+      Saccaka cannot say yes. Nobody can. The argument is complete. If you do not have sovereignty over the aggregates, calling them &ldquo;self&rdquo; is an empty claim. The simile cuts through centuries of metaphysical debate with a single empirical test: <em>try commanding them</em>.
+    </p>
+
+    <h3>Saccaka&rsquo;s position</h3>
+    <p>
+      Saccaka holds the view that &ldquo;form is my self, feeling is my self, perception is my self, volitional formations are my self, consciousness is my self.&rdquo; This is a view the Buddha calls <em>sakkāyadiṭṭhi</em> &mdash; identity view, or the view of a personal self among the aggregates. It is a view shared by many traditions of the Buddha&rsquo;s time and is one of the first three fetters that a stream-enterer abandons. Saccaka is not a fool &mdash; he is articulate, confident, and well-trained. His defeat is not due to stupidity but to the strength of the Buddha&rsquo;s argument.
+    </p>
+
+    <h3>Relation to MN 36</h3>
+    <p>
+      MN 36 (The Greater Discourse with Saccaka) is the sequel. In MN 35, Saccaka loses the argument. In MN 36, he returns and the Buddha tells the story of his own awakening &mdash; the six years of austerity, the realization that self-mortification is futile, the rediscovery of the four jh&#257;nas, and the three knowledges attained on the night of awakening. MN 35 is the philosophical argument; MN 36 is the autobiographical narrative. Together they are one of the great pairs in the Majjhima Nik&#257;ya.
+    </p>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>&ldquo;Is Saccaka a villain?&rdquo;</strong> No. He is a serious debater who holds a common view. The discourse treats him with respect: the Buddha does not mock him, and Saccaka&rsquo;s response to defeat is gracious &mdash; he invites the Buddha for a meal. The narrative is not about good versus evil but about a wrong view being dismantled through logic. Saccaka is simply wrong, not wicked.</p>
+
+    <p><strong>&ldquo;Does the not-self teaching mean there is no self at all?&rdquo;</strong> The Buddha does not make that claim in this discourse. He makes a narrower, more precise claim: the five aggregates &mdash; form, feeling, perception, formations, and consciousness &mdash; are not self. He demonstrates this through the sovereignty test. The discourse does not address whether there is some other &ldquo;self&rdquo; beyond the aggregates; it simply shows that identifying any aggregate as self is a mistake. The Buddha&rsquo;s method is therapeutic, not ontological: he removes a specific wrong view rather than establishing a metaphysical thesis.</p>
+
+    <p><strong>&ldquo;Why does the Buddha ask three times?&rdquo;</strong> The triple questioning is a formal debate convention: if you cannot answer after three prompts, you have conceded the point. The Buddha uses the convention deliberately. Saccaka knows the rules &mdash; and knows that his silence constitutes defeat. The triple asking also gives Saccaka every chance to respond. The Buddha is not ambushing him; he is giving him a fair opportunity to defend his position.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">anatt&#257;</span> &mdash; not-self. The central teaching of the discourse. Not a denial of personal experience but a denial that any of the five aggregates can be identified as a permanent, sovereign self.
+      </div>
+      <div class="term">
+        <span class="pali-word">pa&ntilde;cupādānakkhandhā</span> &mdash; the five aggregates subject to clinging: form (<em>r&#363;pa</em>), feeling (<em>vedan&#257;</em>), perception (<em>sa&ntilde;&ntilde;&#257;</em>), volitional formations (<em>sa&#7749;kh&#257;r&#257;</em>), and consciousness (<em>vi&ntilde;&ntilde;&#257;&#7751;a</em>). Saccaka claims each is the self; the Buddha denies it for each.
+      </div>
+      <div class="term">
+        <span class="pali-word">sakk&#257;yadi&#7789;&#7789;hi</span> &mdash; identity view; the view that there is a self among the aggregates. One of the three fetters abandoned at stream-entry. Saccaka&rsquo;s position is a textbook case of this view.
+      </div>
+      <div class="term">
+        <span class="pali-word">vasavatt&#299;</span> &mdash; having mastery; being sovereign. The key word in the Buddha&rsquo;s argument: if the aggregates were self, you would be their sovereign &mdash; you would have <em>vasa</em> (power, control) over them. You do not.
+      </div>
+      <div class="term">
+        <span class="pali-word">Aggivessana</span> &mdash; Saccaka&rsquo;s clan name, by which the Buddha addresses him. The use of the clan name rather than the personal name is a formal address &mdash; respectful but impersonal, appropriate for a debate between a teacher and an outsider.
+      </div>
+      <div class="term">
+        <span class="pali-word">Licchav&#299;</span> &mdash; the ruling clan of Ves&#257;l&#299;, a republican oligarchy. Five hundred Licchavi princes attend the debate as audience. Their presence raises the stakes: Saccaka is performing before the political elite of the city.
+      </div>
+      <div class="term">
+        <span class="pali-word">anicca, dukkha, anatt&#257;</span> &mdash; impermanent, suffering, not-self. The three characteristics (<em>tilakkha&#7751;a</em>) that the Buddha applies to each aggregate in the final analysis. The argument proceeds: impermanent &rarr; therefore suffering &rarr; therefore not fit to be called &ldquo;mine, I, my self.&rdquo;
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      MN 35 is a narrative debate discourse. The opening scene with Assaji, Saccaka&rsquo;s boasts, and the cross-examination are given in full. The repeated five-aggregate analysis is condensed where the pattern is established. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>Saccaka meets Assaji</h3>
+
+      <p><span class="segno">&sect;1</span>So I have heard. At one time the Buddha was staying near Ves&#257;l&#299;, in the Great Wood, at the hall with the peaked roof.</p>
+
+      <p><span class="segno">&sect;2</span>Now at that time Saccaka, the son of Jain parents, was staying in Ves&#257;l&#299;. He was a debater and a clever speaker, well-regarded by many. He used to make this declaration before the assembly in Ves&#257;l&#299;: &ldquo;I don&rsquo;t see any ascetic or brahmin &mdash; the leader of an order, the leader of a community, the teacher of a community, even one who claims to be a perfected one, a fully awakened Buddha &mdash; who, if they engaged me in debate, would not shake and tremble and sweat under the arms. Even if I were to engage a senseless post in debate, it would shake and tremble, let alone a human being.&rdquo;</p>
+
+      <p><span class="segno">&sect;3</span>Then in the morning, Venerable Assaji robed up, took his bowl and robe, and entered Ves&#257;l&#299; for alms. Saccaka was walking and wandering for exercise when he saw Assaji coming from a distance. He went up to him and exchanged greetings, then stood to one side and said:</p>
+
+      <p>&ldquo;Master Assaji, how does the ascetic Gotama train his disciples? And what instruction does the ascetic Gotama usually give to his disciples?&rdquo;</p>
+
+      <p><span class="segno">&sect;4</span>&ldquo;This is how the Buddha trains his disciples, Aggivessana, and this is the instruction he usually gives: &lsquo;Form is impermanent, feeling is impermanent, perception is impermanent, volitional formations are impermanent, consciousness is impermanent. Form is not-self, feeling is not-self, perception is not-self, formations are not-self, consciousness is not-self. All conditioned things are impermanent. All things are not-self.&rsquo; That is how the Buddha trains his disciples, and that is the instruction he usually gives.&rdquo;</p>
+
+      <p><span class="segno">&sect;5</span>&ldquo;It is bad news indeed that we should hear such a thing, Master Assaji! Perhaps sometime we might meet the ascetic Gotama and have a conversation, so we might detach him from that evil view.&rdquo;</p>
+
+      <h3>Saccaka&rsquo;s boast</h3>
+
+      <p><span class="segno">&sect;6</span>At that time five hundred Licchavi princes had gathered in a meeting hall on some business. Then Saccaka went to them and said: &ldquo;Come, good Licchavi princes! Today there shall be a conversation between me and the ascetic Gotama. If the ascetic Gotama stands by his teaching as reported to me by one of his well-known disciples, the monk Assaji, then just as a strong man would grab a long-haired ram by the hair and drag it to and fro and all around, so I will drag the ascetic Gotama back and forth in debate. Just as a strong distillery worker would throw a big straining cloth in a deep pool of water and grab it by the corners and shake it to and fro and all around, so I will shake the ascetic Gotama in debate. Just as a strong spirit-washer&rsquo;s apprentice would grab a strainer by the corners and shake it down and shake it up and shake it all around, so I will shake the ascetic Gotama in debate. And just as a sixty-year-old elephant would plunge into a deep lotus pond and enjoy a game of hemp-washing, so I will enjoy a game of hemp-washing with the ascetic Gotama. Come, good Licchavi princes, come! Today there shall be a conversation between me and the ascetic Gotama.&rdquo;</p>
+
+      <p>Some of the Licchavis said, &ldquo;How could the ascetic Gotama refute Saccaka&rsquo;s thesis? Rather, Saccaka will refute the ascetic Gotama.&rdquo; And others said, &ldquo;Who is Saccaka to refute the Buddha? Rather, the Buddha will refute Saccaka.&rdquo; And so, accompanied by five hundred Licchavi princes, Saccaka went to the hall with the peaked roof in the Great Wood.</p>
+
+      <h3>The debate begins</h3>
+
+      <p><span class="segno">&sect;7</span>Then Saccaka went up to the Buddha, exchanged greetings, sat down to one side, and said:</p>
+
+      <p>&ldquo;I would like to question Master Gotama on a certain point, if he would grant me the opportunity to put my case.&rdquo;</p>
+
+      <p>&ldquo;Ask what you wish, Aggivessana.&rdquo;</p>
+
+      <p><span class="segno">&sect;8</span>&ldquo;How does Master Gotama train his disciples? And what instruction does Master Gotama usually give to his disciples?&rdquo;</p>
+
+      <p>&ldquo;This is how I train my disciples, Aggivessana, and this is the instruction I usually give: &lsquo;Form is impermanent, feeling is impermanent, perception is impermanent, volitional formations are impermanent, consciousness is impermanent. Form is not-self, feeling is not-self, perception is not-self, formations are not-self, consciousness is not-self. All conditioned things are impermanent. All things are not-self.&rsquo;&rdquo;</p>
+
+      <p><span class="segno">&sect;9</span>&ldquo;A simile occurs to me, Master Gotama.&rdquo; &ldquo;Present it, Aggivessana.&rdquo;</p>
+
+      <p>&ldquo;All the plants and seeds that grow, increase, and mature do so dependent on the earth, based on the earth. All the hard work that gets done gets done dependent on the earth, based on the earth. In the same way, an individual has form as self, and based on form they generate merit or demerit. An individual has feeling as self &hellip; perception as self &hellip; formations as self &hellip; consciousness as self, and based on consciousness they generate merit or demerit.&rdquo;</p>
+
+      <h3>The sovereignty test</h3>
+
+      <p><span class="segno">&sect;10</span>&ldquo;Well, Aggivessana, you do say: &lsquo;Form is my self, feeling is my self, perception is my self, formations are my self, consciousness is my self.&rsquo; Is that right?&rdquo;</p>
+
+      <p>&ldquo;I say so, Master Gotama, and so does this great assembly.&rdquo;</p>
+
+      <p>&ldquo;Leave the great assembly out of it, Aggivessana. Just answer for yourself. What do you think, Aggivessana? Would a consecrated aristocratic king &mdash; such as King Pasenadi of Kosala or King Aj&#257;tasattu Vedehiputta of Magadha &mdash; exercise sovereign power in his own realm: to execute, fine, or exile anyone who deserves it?&rdquo;</p>
+
+      <p>&ldquo;He would, Master Gotama. Even the leaders of the republican confederacies such as the Vajjians and Mallians exercise sovereign power in their own realms. How much more so a consecrated aristocratic king!&rdquo;</p>
+
+      <p><span class="segno">&sect;11</span>&ldquo;What do you think, Aggivessana? When you say &lsquo;Form is my self,&rsquo; do you exercise sovereignty over that form: &lsquo;Let my form be thus; let my form not be thus&rsquo;?&rdquo;</p>
+
+      <p>When this was said, Saccaka was silent.</p>
+
+      <p>A second time the Buddha asked: &ldquo;What do you think, Aggivessana? When you say &lsquo;Form is my self,&rsquo; do you exercise sovereignty over that form: &lsquo;Let my form be thus; let my form not be thus&rsquo;?&rdquo;</p>
+
+      <p>A second time Saccaka was silent.</p>
+
+      <p>Then the Buddha said: &ldquo;Answer now, Aggivessana. Now is not the time for silence. If anyone does not answer a legitimate question put by the Realized One by the third time, their head will split into seven pieces right here.&rdquo;</p>
+
+      <div class="compact">
+        <strong>Note:</strong> At this moment, the text says a spirit-wielding <em>yakkha</em> appeared in the sky above Saccaka, holding a blazing iron thunderbolt. Only Saccaka and the Buddha could see it. Whether taken literally or as a dramatic device, the narrative effect is the same: the stakes are total. Saccaka must answer.
+      </div>
+
+      <p><span class="segno">&sect;12</span>Saccaka, frightened and terrified, his hair standing on end, seeking shelter, protection, and refuge in the Buddha himself, said: &ldquo;Ask me, Master Gotama! I will answer.&rdquo;</p>
+
+      <p>&ldquo;What do you think, Aggivessana? When you say &lsquo;Form is my self,&rsquo; do you exercise sovereignty over that form: &lsquo;Let my form be thus; let my form not be thus&rsquo;?&rdquo;</p>
+
+      <p>&ldquo;No, Master Gotama.&rdquo;</p>
+
+      <p>&ldquo;Pay attention, Aggivessana, and then answer. Your last statement does not agree with your first, nor your first with your last.</p>
+
+      <div class="compact">
+        <strong>The Buddha repeats the sovereignty test for the remaining four aggregates:</strong> feeling, perception, formations, and consciousness. In each case Saccaka admits he does not exercise sovereignty: &ldquo;Let my feeling be thus &hellip; let my perception be thus &hellip; let my formations be thus &hellip; let my consciousness be thus.&rdquo; Each time he must answer &ldquo;No.&rdquo;
+      </div>
+
+      <h3>The not-self analysis</h3>
+
+      <p><span class="segno">&sect;13</span>&ldquo;What do you think, Aggivessana? Is form permanent or impermanent?&rdquo; &ldquo;Impermanent, Master Gotama.&rdquo;</p>
+
+      <p>&ldquo;Is what is impermanent suffering or happiness?&rdquo; &ldquo;Suffering, Master Gotama.&rdquo;</p>
+
+      <p>&ldquo;Is it fitting to regard what is impermanent, suffering, and subject to change as: &lsquo;This is mine, this am I, this is my self&rsquo;?&rdquo; &ldquo;No, Master Gotama.&rdquo;</p>
+
+      <div class="compact">
+        <strong>The same analysis is applied to each of the remaining four aggregates</strong> &mdash; feeling, perception, formations, and consciousness. In each case, Saccaka agrees: impermanent, suffering, not fit to be called &ldquo;mine, I, my self.&rdquo;
+      </div>
+
+      <p><span class="segno">&sect;14</span>&ldquo;What do you think, Aggivessana? When a person grasps at suffering, clings to suffering, and remains holding to suffering, regarding it as &lsquo;This is mine, this am I, this is my self&rsquo; &mdash; would they fully understand suffering or live having cut off suffering?&rdquo;</p>
+
+      <p>&ldquo;How could they, Master Gotama? No, Master Gotama.&rdquo;</p>
+
+      <p>&ldquo;It&rsquo;s as if a man who needed heartwood, seeking heartwood, wandering in search of heartwood, took a sharp axe and entered the forest. There he&rsquo;d see the trunk of a large banana tree &mdash; straight, fresh, without a core. He&rsquo;d cut it down at the base, cut off the top, and unroll the sheaths. But he wouldn&rsquo;t even find sapwood, let alone heartwood. In the same way, Aggivessana, when you are pressed and questioned on your own thesis, you turn out to be empty, hollow, and mistaken.&rdquo;</p>
+
+      <h3>Saccaka&rsquo;s response</h3>
+
+      <p><span class="segno">&sect;15</span>Then Saccaka said: &ldquo;It is wonderful, Master Gotama, it is marvelous! When Master Gotama is spoken to so rudely, attacked with such harsh words, the color of his skin brightens and his face clears, as is to be expected of a perfected one, a fully awakened Buddha.</p>
+
+      <p>I recall engaging Makkhali Gos&#257;la in debate &mdash; he ducked and dodged and changed the subject. I recall engaging P&#363;ra&#7751;a Kassapa &hellip; Ajita Kesakambal&#299; &hellip; Pakudha Kacc&#257;yana &hellip; Sa&ntilde;jaya Bela&#7789;&#7789;haputta &hellip; the Jain Nā&#7789;aputta in debate &mdash; they too ducked and dodged and changed the subject, and even showed anger, hate, and bitterness.</p>
+
+      <p>But when Master Gotama is spoken to so rudely, the color of his skin brightens and his face clears. I invite Master Gotama together with the mendicant Sa&#7749;gha for the meal tomorrow.&rdquo;</p>
+
+      <p>The Buddha consented by keeping silent.</p>
+
+      <div class="compact">
+        <strong>The next day&rsquo;s meal.</strong> Saccaka prepares a fine meal of hard and soft foods for the Buddha and the Sa&#7749;gha. After the meal, he tells the Licchavi princes that the Buddha and his community are resplendent. The discourse ends with a tone of respect, not hostility.
+      </div>
+
+      <p>That is what the Buddha said. Satisfied, Saccaka approved what the Buddha said.</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">Who first tells Saccaka about the Buddha&rsquo;s teaching on the five aggregates and not-self?</div>
+        <button class="opt">The Buddha, in a private meeting</button>
+        <button class="opt">Venerable Assaji, whom Saccaka meets on almsround in Ves&#257;l&#299;</button>
+        <button class="opt">One of the Licchavi princes</button>
+        <button class="opt">Venerable S&#257;riputta, at the hall with the peaked roof</button>
+        <div class="expl"><strong>Correct: B.</strong> Saccaka encounters Assaji while the monk is on almsround. Assaji gives a concise summary of the Buddha&rsquo;s core teaching: all five aggregates are impermanent and not-self. This summary horrifies Saccaka and sets the debate in motion.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What vivid similes does Saccaka use to boast about what he will do to the Buddha in debate?</div>
+        <button class="opt">Dragging a long-haired ram back and forth; shaking a straining cloth in a pool; shaking a spirit-washer&rsquo;s strainer; a sixty-year-old elephant playing hemp-washing</button>
+        <button class="opt">Taming a wild horse; breaking a potter&rsquo;s wheel</button>
+        <button class="opt">Cutting down a banyan tree; draining a lake</button>
+        <button class="opt">He makes no specific boasts, only general claims of superiority</button>
+        <div class="expl"><strong>Correct: A.</strong> Saccaka&rsquo;s boasts are extravagant and physical &mdash; rams dragged by the hair, cloths shaken in pools, elephants at play. The extravagance of the imagery highlights his overconfidence and makes his subsequent silence all the more striking.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What is Saccaka&rsquo;s core claim about the five aggregates?</div>
+        <button class="opt">They are permanent and eternal</button>
+        <button class="opt">They are illusions produced by the mind</button>
+        <button class="opt">They are created by God and therefore sacred</button>
+        <button class="opt">Form is my self, feeling is my self, perception is my self, formations are my self, consciousness is my self</button>
+        <div class="expl"><strong>Correct: D.</strong> Saccaka&rsquo;s position is the identification of each aggregate with a personal self. This is the classic <em>sakk&#257;yadi&#7789;&#7789;hi</em> (identity view): the self is found within the aggregates. The Buddha&rsquo;s entire refutation targets this specific claim.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What is the Buddha&rsquo;s &ldquo;sovereignty test&rdquo;?</div>
+        <button class="opt">He asks whether Saccaka can recite the five aggregates from memory</button>
+        <button class="opt">He asks whether Saccaka has ever attained meditative absorption</button>
+        <button class="opt">He asks: a king has sovereign power in his realm &mdash; do you likewise exercise sovereignty over your form, saying &ldquo;Let my form be thus; let my form not be thus&rdquo;?</button>
+        <button class="opt">He asks whether the Licchavi princes recognize Saccaka as a teacher</button>
+        <div class="expl"><strong>Correct: C.</strong> The sovereignty test is the hinge of the entire debate. If the aggregates were self, you would be their sovereign &mdash; you could command them. A king commands his realm; do you command your body? Your feelings? Your consciousness? Saccaka cannot say yes, and the argument is over.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">How does Saccaka respond the first two times the Buddha asks the sovereignty question about form?</div>
+        <button class="opt">He is silent both times &mdash; unable to answer</button>
+        <button class="opt">He argues that form is self because it can be trained through exercise</button>
+        <button class="opt">He admits the point immediately on the first asking</button>
+        <button class="opt">He changes the subject to a different philosophical topic</button>
+        <div class="expl"><strong>Correct: A.</strong> Saccaka falls silent twice. In the formal debate conventions of the time, silence after being asked a legitimate question is a concession. The Buddha asks three times &mdash; giving Saccaka every fair opportunity &mdash; before Saccaka finally answers &ldquo;No.&rdquo;</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">After the sovereignty test, the Buddha applies the three-characteristic analysis. What is the logical chain?</div>
+        <button class="opt">Permanent &rarr; pleasant &rarr; therefore self</button>
+        <button class="opt">Impermanent &rarr; therefore suffering &rarr; therefore not fit to be regarded as &ldquo;mine, I, my self&rdquo;</button>
+        <button class="opt">Conditioned &rarr; therefore neutral &rarr; therefore empty</button>
+        <button class="opt">Not-self &rarr; therefore impermanent &rarr; therefore suffering</button>
+        <div class="expl"><strong>Correct: B.</strong> The chain is: impermanent (<em>anicca</em>) &rarr; suffering (<em>dukkha</em>) &rarr; not-self (<em>anatt&#257;</em>). If something is impermanent, clinging to it as stable will produce suffering. If it produces suffering, it is not fit to be called &ldquo;mine, I, or my self.&rdquo; Each step follows from the previous one.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What is the banana-tree simile?</div>
+        <button class="opt">A banana tree grows fast, showing that the self develops quickly</button>
+        <button class="opt">A banana tree bends in the wind, showing that the self is flexible</button>
+        <button class="opt">A banana tree produces fruit once, showing that awakening happens only once</button>
+        <button class="opt">A man seeks heartwood in a banana tree but finds none &mdash; just as Saccaka&rsquo;s thesis, when pressed, turns out to be empty and without substance</button>
+        <div class="expl"><strong>Correct: D.</strong> The banana tree has no heartwood &mdash; only layer upon layer of sheaths. You can unroll them all and find nothing solid at the center. Saccaka&rsquo;s position is the same: pressed and examined, it is empty, hollow, and without core. The simile is the Buddha&rsquo;s summary judgment on the debate.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">How does Saccaka respond to his own defeat?</div>
+        <button class="opt">He storms away in anger</button>
+        <button class="opt">He declares that the debate was rigged and challenges the Buddha again</button>
+        <button class="opt">He praises the Buddha&rsquo;s composure, contrasts it with other teachers who &ldquo;ducked and dodged,&rdquo; and invites the Buddha and monks for a meal</button>
+        <button class="opt">He immediately ordains as a monk</button>
+        <div class="expl"><strong>Correct: C.</strong> Saccaka&rsquo;s response is remarkably gracious. He praises the Buddha&rsquo;s unshakeable composure, notes that other famous teachers became angry when challenged, and offers a generous meal. He is defeated in argument but not humiliated &mdash; the discourse ends without bitterness.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What is <em>sakk&#257;yadi&#7789;&#7789;hi</em>?</div>
+        <button class="opt">Identity view &mdash; the view that there is a self to be found among the five aggregates. It is one of the three fetters abandoned at stream-entry.</button>
+        <button class="opt">The view that the world is eternal</button>
+        <button class="opt">The view that only the body is real and the mind is an illusion</button>
+        <button class="opt">The view that all beings have a divine soul</button>
+        <div class="expl"><strong>Correct: A.</strong> <em>Sakk&#257;yadi&#7789;&#7789;hi</em> is literally &ldquo;view of the existing body&rdquo; &mdash; the belief that a self can be found within or among the aggregates. It is the first of the three fetters (along with doubt and attachment to rules and rituals) that a stream-enterer overcomes. Saccaka&rsquo;s position is a direct expression of this view.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">How does MN 35 relate to MN 36?</div>
+        <button class="opt">MN 36 is a shorter version of the same debate</button>
+        <button class="opt">In MN 35 the Buddha refutes Saccaka philosophically; in MN 36 Saccaka returns and the Buddha responds by narrating his own path to awakening &mdash; the austerities, the rediscovery of the jh&#257;nas, and the three knowledges on the night of enlightenment</button>
+        <button class="opt">They are unrelated discourses that happen to share the same opponent</button>
+        <button class="opt">MN 36 is Saccaka&rsquo;s revenge debate where he defeats the Buddha</button>
+        <div class="expl"><strong>Correct: B.</strong> MN 35 is the philosophical argument (not-self via the sovereignty test). MN 36 is the autobiographical narrative (the Buddha&rsquo;s path to awakening). Together they form one of the great pairs in the Majjhima Nik&#257;ya: the doctrine demonstrated through logic (MN 35) and through personal experience (MN 36).</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">The argument&rsquo;s arc</div>
+      <ul>
+        <li><span class="pali">Saccaka&rsquo;s claim</span>each aggregate is self</li>
+        <li><span class="pali">Sovereignty test</span>do you control your form?</li>
+        <li><span class="pali">Saccaka&rsquo;s silence</span>three times, no answer</li>
+        <li><span class="pali">Three characteristics</span>impermanent &rarr; suffering &rarr; not-self</li>
+        <li><span class="pali">Banana-tree simile</span>empty, hollow, no core</li>
+        <li><span class="pali">Saccaka concedes</span>invites Buddha for meal</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 36 &middot; Greater Saccaka</li>
+        <li>SN 22.59 &middot; Anattalakkha&#7751;a</li>
+        <li>SN 22.1 &middot; Na&#7735;akal&#257;p&#299;</li>
+        <li>MN 22 &middot; Simile of the Snake</li>
+        <li>M&#256; 203 &middot; Chinese parallel</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn35/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with P&#257;li alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN35.html" target="_blank" rel="noopener">Thanissaro Bhikkhu&rsquo;s translation</a> &mdash; titled &ldquo;The Shorter Discourse to Saccaka.&rdquo;</li>
+      <li><a href="mn-034.html">MN 34 &middot; The Shorter Discourse on the Cowherd</a> &mdash; the preceding discourse: a river-crossing parable about the community&rsquo;s ordered progress.</li>
+      <li><a href="https://suttacentral.net/mn36/en/sujato" target="_blank" rel="noopener">MN 36 &middot; The Greater Discourse with Saccaka</a> &mdash; the sequel: Saccaka returns, and the Buddha narrates his own path to awakening.</li>
+      <li><a href="https://suttacentral.net/sn22.59/en/sujato" target="_blank" rel="noopener">SN 22.59 &middot; The Characteristic of Not-Self</a> &mdash; the Anattalakkha&#7751;a Sutta, the Buddha&rsquo;s foundational discourse on not-self, addressed to the group of five monks.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-034.html"><span class="label">&larr; Previous</span>MN 34 &middot; The Shorter Discourse on the Cowherd</a>
+    <a href="mn-036.html" class="next"><span class="label">Next &rarr;</span>MN 36 &middot; The Greater Discourse with Saccaka</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      var tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
