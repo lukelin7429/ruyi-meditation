@@ -1304,3 +1304,37 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   .refuge-card h3 { font-size: 30px; }
   .formula { padding: 18px 22px; font-size: 17px; }
 }
+
+/* ============ Centered reading columns ============ */
+/* Match the centered hero: headings + eyebrows centered, the text
+   column centered on the page, but body paragraphs stay left-aligned
+   for readability. */
+.page-header-inner,
+.section-head,
+.section-inner.section-narrow,
+.about-inner.section-narrow {
+  text-align: center;
+}
+.about-inner.section-narrow { max-width: 880px; }
+.section-head { margin-left: auto; margin-right: auto; }
+
+/* Body paragraphs: keep the column centered, lines left-aligned */
+.page-header-inner .lede,
+.section-inner.section-narrow .lede,
+.section-inner.section-narrow p,
+.about-inner.section-narrow .lede,
+.about-inner.section-narrow p {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+/* Short one-line ledes under grid headers read fine centered */
+.section-head .lede {
+  margin-left: auto;
+  margin-right: auto;
+}
+.section-inner.section-narrow .gold-rule,
+.about-inner.section-narrow .gold-rule {
+  margin-left: auto;
+  margin-right: auto;
+}
