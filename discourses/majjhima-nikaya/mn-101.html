@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 101 — At Devadaha | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Devadahasutta — the Buddha takes apart the Jain doctrine that every feeling is caused by past deeds, worn away by self-mortification: they cannot know any of what they claim, their pain comes from their own present effort, and exertion cannot change how a deed ripens. Against this he sets the striving that is truly fruitful. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(40px, 5.5vw, 54px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Majjhima Nikāya</a><span>&rsaquo;</span>MN 101
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya &middot; Discourse 101</div>
+  <h1>At Devadaha</h1>
+  <p class="subtitle"><em>Devadahasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>The Sakyan town of Devadaha, addressed to the mendicants</dd>
+      <dt>Speakers</dt><dd>The Buddha, reporting his debate with the Jain ascetics</dd>
+      <dt>Form</dt><dd>A point-by-point refutation of a rival doctrine, followed by the practice that actually works.</dd>
+      <dt>Length</dt><dd>~19 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>A counterpart is preserved in the Chinese Madhyama Āgama (MĀ 19)</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&starf;&starf;&star; &mdash; the Buddha&rsquo;s subtle middle position on action and suffering.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, one-hundred-and-first</h2>
+    <p class="lede">
+      The Jains taught that <em>every</em> feeling you have &mdash; pleasant, painful, neutral &mdash; is the ripening of a past deed; so burn off the backlog through fierce self-mortification, do no new deeds, and suffering must end. The Buddha tests this belief the way he tests every belief: not with a counter-doctrine, but with questions. <em>Do you actually know any of what you claim?</em> And the whole grim edifice of self-torture collapses for want of a single thing anyone has ever seen.
+    </p>
+    <p>
+      The opening chapter of the Final Fifty begins with the most sustained critique of a rival system in the canon. The target is the doctrine of the Nigaṇṭhas &mdash; the Jains, followers of the Ñātika ascetic (Mahāvīra) &mdash; and specifically their austere logic of liberation: since pain is the payment of old karmic debt, suffer it deliberately and intensely now, contract no new debt, and the account will close. It is a coherent and demanding vision, and the Buddha takes it with full seriousness before taking it apart.
+    </p>
+    <p>
+      His method has three movements. First, the Jains cannot <em>know</em> the past lives, past deeds, and exact karmic accounting their practice presupposes &mdash; so their confidence is baseless. Second, their pain plainly comes from their own present straining, not from the past at all. Third, even granting karma, exertion cannot alter how a deed is destined to ripen. From the wreckage the Buddha builds the contrast: a striving that <em>is</em> fruitful &mdash; not the blind endurance of pain, but the discerning use of effort and equanimity that wears suffering away and opens, step by step, the whole path to freedom.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      The Jain belief that all feeling is the fruit of past deeds, to be worn away by mortification, is baseless &mdash; they can know none of what it requires, their pain comes from their own present effort, and exertion cannot change how a deed ripens; truly fruitful striving is not the blind endurance of pain but the discerning use of effort and equanimity that wears suffering away and opens the path to freedom.
+    </p>
+
+    <h3>The doctrine on trial</h3>
+    <p>
+      The Jain position is stated fairly and fully: &ldquo;Everything a person experiences &mdash; pleasure, pain, or neutral &mdash; is because of past deeds. So by wearing away past deeds through mortification, and doing no new deeds, there is no future consequence; deeds end, suffering ends.&rdquo; This is a pure karmic determinism: the present is wholly the cashing-out of the past, and the only freedom is to pay the debt off faster by suffering on purpose. The Buddha&rsquo;s reply is not &ldquo;karma is false&rdquo; &mdash; he affirms karma &mdash; but that <em>this</em> account claims to know far more than anyone can.
+    </p>
+
+    <h3>First movement: &ldquo;Do you know?&rdquo;</h3>
+    <p>
+      The Buddha puts five questions to the Jains. Do you know for certain (1) that you existed in the past; (2) that you did bad deeds then; (3) which deeds; (4) how much suffering has been worn away, how much remains, and when it will all be gone; (5) what abandoning the unskillful and developing the skillful is, here and now? To every one: &ldquo;No, reverend.&rdquo; The conclusion follows: if you know none of this, it is not appropriate to claim your suffering is precisely measured karmic repayment.
+    </p>
+    <div class="compact"><strong>The healed arrow-wound.</strong> A man shot with a poisoned arrow endures the surgeon&rsquo;s painful cutting, probing, and cauterising &mdash; but once healed and whole, he can rightly look back and say the pain was worth it, because he can see the result. The Jain endures pain just as sharp, but can point to no healing, no result, nothing known. His suffering is a treatment with no evidence it cures anything.</div>
+
+    <h3>Second movement: the pain is your own doing</h3>
+    <p>
+      The Jains fall back on their all-knowing teacher, who declares their austerities the way to burn off past evil. The Buddha invokes the five unreliable grounds from MN 95 &mdash; faith, endorsement, oral transmission, reasoning, accepted opinion &mdash; none of which can establish a claim about the unseeable past. Then a simpler, empirical point: <em>when</em> do you feel these sharp pains? Only when you exert and strain intensely &mdash; never otherwise. So the pain is manifestly produced by present effort, here and now; to read it as the surfacing of ancient deeds is &ldquo;out of ignorance, unknowing, and confusion.&rdquo; They are hurting themselves and calling it destiny.
+    </p>
+
+    <h3>Third movement: exertion cannot reschedule karma</h3>
+    <p>
+      Even granting their own premises, the Buddha shows the practice incoherent. Can exertion make a deed due to ripen in <em>this</em> life ripen in another? Or the reverse? Can it turn a deed due to be felt as pleasure into one felt as pain? A deed due to ripen when fully matured into one felt before? A strong result into a weak one? A result that must be felt into one not felt? To every pairing the Jains must answer: &ldquo;No.&rdquo; But then their fervent striving cannot accelerate or alter the karmic process at all &mdash; so it is, on their own terms, fruitless.
+    </p>
+
+    <h3>The ten grounds of criticism</h3>
+    <p>
+      The Buddha then turns the Jains&rsquo; visible suffering against every possible theory of its cause &mdash; a striking piece of reasoning. <em>If</em> beings feel pleasure and pain because of past deeds, the Jains&rsquo; intense present pain shows they did terrible past deeds. If because of a creator God, they were made by a cruel one. If because of circumstance, their circumstances are wretched; if because of the class they were born into, a low one; if because of present effort, they strive disastrously. On any theory of causation whatever, the Jains&rsquo; self-inflicted agony reflects badly on them &mdash; ten grounds for criticism. The same reasoning, applied to the Realized One&rsquo;s &ldquo;undefiled pleasure,&rdquo; yields ten grounds of <em>praise</em>. The point is not to settle the metaphysics but to expose how self-defeating the doctrine of redemptive pain is.
+    </p>
+
+    <h3>What fruitful striving actually is</h3>
+    <p>
+      Having cleared away the false striving, the Buddha describes the true. The mendicant &ldquo;does not bring suffering upon themselves, and does not forsake legitimate pleasure, yet is not besotted with it.&rdquo; They learn a discernment:
+    </p>
+    <div class="compact"><strong>Strive, or be equanimous &mdash; as fits.</strong> &ldquo;When I actively strive against this source of suffering, I become dispassionate toward it. When I develop equanimity toward that other source, I become dispassionate toward it.&rdquo; So they apply effort or equanimity according to what each case needs.</div>
+    <p>
+      The <strong>jilted lover</strong> illustrates it: a man tormented by seeing his beloved laughing with another lets go of his desire for her &mdash; and the same sight no longer wounds him. Suffering is worn away not by attacking the feeling but by removing the craving beneath it. And where effort <em>is</em> called for, it is purposeful, not endless: like an <strong>arrowsmith</strong> who heats and straightens a shaft only until it is true and then stops, the mendicant strives painfully against unskillful qualities only until the goal is reached &mdash; then strives no more. Effort is a tool, not a penance.
+    </p>
+
+    <h3>The path that pain could never buy</h3>
+    <p>
+      Finally the Buddha lays out the whole gradual training that this discerning striving makes possible &mdash; going forth, ethical conduct, sense-restraint, mindfulness, abandoning the five hindrances, the four absorptions, and the three knowledges culminating in liberation: &ldquo;rebirth is ended.&rdquo; This is striving that bears fruit &mdash; not because it hurts, but because it transforms. The contrast with the Jains is complete: they sought to <em>exhaust</em> suffering by enduring more of it; the Buddha&rsquo;s path <em>extinguishes</em> its cause. Where the Jain doctrine drew ten grounds of criticism, this one draws ten grounds of praise &mdash; the Realized One&rsquo;s &ldquo;undefiled pleasure&rdquo; commending the path on any theory of cause whatever.
+    </p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">the Nigaṇṭhas (Jains)</span> &mdash; followers of the Ñātika ascetic (Mahāvīra), here holding that all feeling is the fruit of past deeds, to be worn away by self-mortification. The Buddha&rsquo;s chief doctrinal rivals.
+      </div>
+      <div class="term">
+        <span class="pali-word">karmic determinism (pubbekata-hetu)</span> &mdash; the view that the present is wholly the cashing-out of past deeds. The Buddha affirms karma but denies that it is the <em>sole</em> cause of all experience.
+      </div>
+      <div class="term">
+        <span class="pali-word">&ldquo;do you know?&rdquo;</span> &mdash; the five questions exposing that the Jains know none of the past lives, past deeds, or karmic accounting their practice presupposes. Confidence without knowledge.
+      </div>
+      <div class="term">
+        <span class="pali-word">the healed arrow-wound</span> &mdash; only one who is cured can rightly say the painful treatment was worth it. The Jain endures equal pain but can point to no result &mdash; a treatment with no evidence it heals.
+      </div>
+      <div class="term">
+        <span class="pali-word">the ten grounds of criticism</span> &mdash; on <em>any</em> theory of why beings suffer (past deeds, a creator, circumstance, birth-class, present effort), the Jains&rsquo; self-inflicted pain reflects badly on them. The doctrine is self-defeating.
+      </div>
+      <div class="term">
+        <span class="pali-word">strive or be equanimous, as fits</span> &mdash; fruitful effort: applying active striving against one source of suffering and equanimity toward another, according to what each requires &mdash; not the blind endurance of pain.
+      </div>
+      <div class="term">
+        <span class="pali-word">the arrowsmith</span> &mdash; effort as a tool, not a penance: as a smith heats a shaft only until it is straight and then stops, one strives painfully against the unskillful only until the goal is won.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The full discourse, abridged where the source repeats. The Jain doctrine, the five questions, the arrow-wound, the cross-examination on karma, the ten grounds, and fruitful striving are given closely; the long gradual-path section is condensed (it is given fully in MN 27 and MN 51). Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The Jain doctrine</h3>
+
+      <p><span class="segno">&sect;1&ndash;2</span>So I have heard. At one time the Buddha was staying in the Sakyan land near the town of Devadaha, and addressed the mendicants. &ldquo;Mendicants, there are some ascetics and brahmins who hold this view: &lsquo;Everything a person experiences &mdash; pleasure, pain, or neutral &mdash; is because of past deeds. So by wearing away past deeds through mortification, and doing no new deeds, there is no future consequence; deeds end, suffering ends, feeling ends, and all suffering will have been worn away.&rsquo; Such is the doctrine of the Jain ascetics.&rdquo;</p>
+
+      <h3>&ldquo;Do you know?&rdquo;</h3>
+
+      <p><span class="segno">&sect;3&ndash;6</span>&ldquo;I went to those Jains and asked: &lsquo;Do you know for certain that you existed in the past? That you did bad deeds then? Which deeds? How much suffering has been worn away, how much remains, and when it will all be gone? Do you know the abandoning of the unskillful and the developing of the skillful here and now?&rsquo; To each they said: &lsquo;No, reverend.&rsquo; &lsquo;Then since you know none of this, it is not appropriate for you to declare your doctrine.&rsquo;&rdquo;</p>
+
+      <h3>The healed arrow-wound</h3>
+
+      <p><span class="segno">&sect;7&ndash;9</span>&ldquo;Suppose a man were struck by a poisoned arrow, and a surgeon cut open the wound, probed for the arrow, drew it out, and cauterised it &mdash; each step sharply painful. Healed at last, healthy and his own master, he could rightly say: &lsquo;The treatment was painful, but now I am whole.&rsquo; In the same way, if you knew these things, it would be appropriate to declare your doctrine. But since you do not, it is not.&rdquo;</p>
+
+      <h3>The pain is your own doing</h3>
+
+      <p><span class="segno">&sect;10&ndash;15</span>They appealed to their all-knowing teacher. I said: &lsquo;Five things turn out two ways &mdash; faith, endorsement, oral transmission, reasoning, accepted opinion. What grounds have you for claims about the past?&rsquo; They had no defence. &lsquo;Tell me: do you feel these sharp pains only when you strain and exert intensely &mdash; not otherwise?&rsquo; &lsquo;Only when we exert, reverend.&rsquo; &lsquo;Then are you not feeling pain from your own present exertion, which out of ignorance you misread as the fruit of past deeds?&rsquo; Again they had no defence.&rdquo;</p>
+
+      <h3>Exertion cannot reschedule karma</h3>
+
+      <p><span class="segno">&sect;16&ndash;22</span>&ldquo;I asked further: can exertion make a deed due to ripen in this life ripen in another &mdash; or the reverse? Make a deed felt as pleasure be felt as pain? Make a deed that ripens when matured ripen early? A strong result weak? A result that must be felt not be felt? To all: &lsquo;No, reverend.&rsquo; &lsquo;Then your exertion cannot change how deeds ripen at all &mdash; so it is fruitless.&rsquo; And consider: whatever the cause of suffering &mdash; past deeds, a creator God, circumstance, birth-class, or present effort &mdash; the Jains&rsquo; intense pain reflects badly on them every way. On ten grounds they deserve criticism. That is how striving is fruitless.&rdquo;</p>
+
+      <h3>How striving is fruitful</h3>
+
+      <p><span class="segno">&sect;23&ndash;26</span>&ldquo;And how is striving fruitful? A mendicant does not torment themselves, and does not give up legitimate pleasure, yet is not besotted with it. They understand: &lsquo;When I actively strive against this source of suffering, I grow dispassionate toward it; when I develop equanimity toward that source, I grow dispassionate toward it.&rsquo; So they strive or stay equanimous as fits. Suppose a man in love sees his beloved laughing with another, and it pains him. Letting go his desire for her, he sees the same sight again &mdash; and now it brings no sorrow, for he no longer desires her. Just so, suffering is worn away.&rdquo;</p>
+
+      <h3>The arrowsmith, and the path</h3>
+
+      <p><span class="segno">&sect;27&ndash;45</span>&ldquo;Again, a mendicant reflects: &lsquo;Living as I please, the unskillful grows; striving painfully, the skillful grows &mdash; so let me strive.&rsquo; And once the goal is reached, they strive painfully no more &mdash; as an arrowsmith heats and straightens a shaft only until it is true, then stops. So too, a Realized One arises; one goes forth, fulfils ethics, guards the senses, is mindful, abandons the five hindrances, and enters the four absorptions; then recollects past lives, sees beings reborn by their deeds, and ends the defilements: &lsquo;rebirth is ended.&rsquo; Such is the doctrine of the Realized One &mdash; deserving praise on ten grounds, his undefiled pleasure commending it whatever the cause of feeling may be.&rdquo;</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What is the Jain doctrine the Buddha examines?</div>
+        <button class="opt">That there is no such thing as karma</button>
+        <button class="opt">That every feeling is caused by past deeds, to be worn away by self-mortification while doing no new deeds</button>
+        <button class="opt">That pleasure alone leads to liberation</button>
+        <button class="opt">That the gods determine all experience</button>
+        <div class="expl"><strong>Correct: B.</strong> A pure karmic determinism: pay off the karmic debt faster by suffering on purpose, and the account closes.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">Does the Buddha reject the idea of karma itself?</div>
+        <button class="opt">Yes, he denies karma entirely</button>
+        <button class="opt">He says karma is unknowable</button>
+        <button class="opt">No &mdash; he affirms karma, but denies that it is the <em>sole</em> cause of all experience</button>
+        <button class="opt">He says only the Jains have karma</button>
+        <div class="expl"><strong>Correct: C.</strong> His objection is that the Jain account claims to know far more than anyone possibly can.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What do the Jains answer to the Buddha&rsquo;s five questions &mdash; whether they know their past existence, past deeds, and the exact karmic accounting?</div>
+        <button class="opt">&ldquo;No, reverend&rdquo; to every one</button>
+        <button class="opt">&ldquo;Yes&rdquo; to all of them</button>
+        <button class="opt">Only that they know their past lives</button>
+        <button class="opt">That their teacher knows, so they need not</button>
+        <div class="expl"><strong>Correct: A.</strong> Knowing none of it, they have no basis for claiming their suffering is precisely measured karmic repayment.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What does the simile of the healed arrow-wound show?</div>
+        <button class="opt">That surgery is dangerous</button>
+        <button class="opt">That pain should always be avoided</button>
+        <button class="opt">That arrows symbolise craving</button>
+        <button class="opt">Only one who is actually cured can rightly say the painful treatment was worth it &mdash; but the Jain can point to no result at all</button>
+        <div class="expl"><strong>Correct: D.</strong> The Jain endures equal pain but with no evidence it heals anything &mdash; a treatment justified by nothing seen.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">What simple, empirical point does the Buddha make about <em>when</em> the Jains feel sharp pain?</div>
+        <button class="opt">That they feel it while sleeping</button>
+        <button class="opt">That they never feel pain</button>
+        <button class="opt">They feel it only when they strain and exert intensely &mdash; so it is produced by present effort, not surfacing from past deeds</button>
+        <button class="opt">That they feel it only in winter</button>
+        <div class="expl"><strong>Correct: C.</strong> They are hurting themselves here and now, and calling it destiny &mdash; &ldquo;out of ignorance, unknowing, and confusion.&rdquo;</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">When the Buddha asks whether exertion can change how a deed ripens (its timing, its pleasantness, its strength), what must the Jains admit?</div>
+        <button class="opt">&ldquo;No&rdquo; to every case &mdash; so their striving cannot alter the karmic process, and is fruitless on their own terms</button>
+        <button class="opt">That exertion changes everything</button>
+        <button class="opt">That only their teacher can change karma</button>
+        <button class="opt">That exertion makes pain into pleasure</button>
+        <div class="expl"><strong>Correct: A.</strong> If effort cannot reschedule or soften a single karmic result, the fervent austerity accomplishes nothing it claims to.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What is the point of the &ldquo;ten grounds of criticism&rdquo;?</div>
+        <button class="opt">That the Jains broke ten precepts</button>
+        <button class="opt">That there are ten kinds of karma</button>
+        <button class="opt">That ten teachers disagree</button>
+        <button class="opt">On <em>any</em> theory of why beings suffer &mdash; past deeds, a creator, circumstance, birth-class, present effort &mdash; the Jains&rsquo; self-inflicted pain reflects badly on them</button>
+        <div class="expl"><strong>Correct: D.</strong> The doctrine of redemptive pain is self-defeating whatever the metaphysics; the same reasoning yields ten grounds of <em>praise</em> for the Realized One&rsquo;s undefiled pleasure.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">What is the discernment at the heart of fruitful striving?</div>
+        <button class="opt">Always endure as much pain as possible</button>
+        <button class="opt">Apply active striving against one source of suffering and equanimity toward another, according to what each requires</button>
+        <button class="opt">Never make any effort at all</button>
+        <button class="opt">Only meditate, never act</button>
+        <div class="expl"><strong>Correct: B.</strong> Effort and equanimity are both tools; wisdom is knowing which the situation calls for.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">In the simile of the jilted lover, how does his suffering at seeing his beloved with another man finally end?</div>
+        <button class="opt">By confronting the other man</button>
+        <button class="opt">By winning her back</button>
+        <button class="opt">By letting go of his desire for her &mdash; then the same sight no longer wounds him</button>
+        <button class="opt">By never seeing her again</button>
+        <div class="expl"><strong>Correct: C.</strong> Suffering is worn away not by attacking the feeling but by removing the craving beneath it.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What does the arrowsmith heating a shaft illustrate about effort?</div>
+        <button class="opt">Effort is a tool, not a penance &mdash; one strives painfully against the unskillful only until the goal is won, then strives no more</button>
+        <button class="opt">That one must strive painfully forever</button>
+        <button class="opt">That fire purifies past deeds</button>
+        <button class="opt">That weapons should be well made</button>
+        <div class="expl"><strong>Correct: A.</strong> As a smith heats and straightens a shaft only until it is true and then stops, painful effort is purposeful and finite &mdash; unlike the Jains&rsquo; endless mortification.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">The Jain claim</div>
+      <ul>
+        <li>all feeling = past deeds</li>
+        <li>mortify to burn the backlog</li>
+        <li>do no new deeds &rarr; suffering ends</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Three refutations</div>
+      <ul>
+        <li>you can know none of it</li>
+        <li>the pain is your own effort</li>
+        <li>effort can&rsquo;t reschedule karma</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Fruitful striving</div>
+      <ul>
+        <li>strive <em>or</em> stay equanimous, as fits</li>
+        <li>remove the craving beneath</li>
+        <li>effort finite, like the arrowsmith</li>
+        <li>&rarr; the whole path to freedom</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>AN 3.61 &middot; the three sectarian tenets &mdash; past deeds, a creator, no cause</li>
+        <li>MN 14 &middot; the Jains&rsquo; redemptive pain examined</li>
+        <li>MN 27 &middot; the gradual path, in full</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn101/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN101.html" target="_blank" rel="noopener">Thanissaro Bhikkhu&rsquo;s translation</a> &mdash; titled &ldquo;At Devadaha.&rdquo;</li>
+      <li><a href="mn-100.html">MN 100 &middot; With Saṅgārava</a> &mdash; the previous discourse: the awakening, and why self-torture fails.</li>
+      <li><a href="https://suttacentral.net/an3.61/en/sujato" target="_blank" rel="noopener">AN 3.61 &middot; Sectarian Tenets</a> &mdash; the refutation of &ldquo;all is due to past deeds&rdquo; alongside two other fatalisms.</li>
+      <li><a href="https://suttacentral.net/mn14/en/sujato" target="_blank" rel="noopener">MN 14 &middot; The Shorter Discourse on the Mass of Suffering</a> &mdash; the Jains&rsquo; doctrine of pain examined again.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-100.html"><span class="label">&larr; Previous</span>MN 100 &middot; With Saṅgārava</a>
+    <a href="mn-102.html" class="next"><span class="label">Next &rarr;</span>MN 102 &middot; The Five and Three</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
