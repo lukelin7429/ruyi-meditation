@@ -105,6 +105,8 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
 
 .btn-ghost { background: transparent; color: #14181f; border-color: #14181f; }
 .btn-ghost:hover { background: #14181f; color: #fff; }
+.hero .btn-ghost { color: #fff; border-color: rgba(255, 255, 255, 0.7); background: rgba(255, 255, 255, 0.08); }
+.hero .btn-ghost:hover { background: #fff; color: #14181f; border-color: #fff; }
 
 .btn-gold { background: #b8431c; color: #fff; border-color: #b8431c; }
 .btn-gold:hover { background: #8c2f12; color: #fff; border-color: #8c2f12; }
@@ -194,11 +196,15 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
 /* ============ HERO ============ */
 
 .hero {
-  background: linear-gradient(120deg, #f5f6f8 0%, #fafbfc 55%, #fff 100%);
+  background-image:
+    linear-gradient(180deg, rgba(20, 26, 24, 0.30) 0%, rgba(20, 26, 24, 0.22) 38%, rgba(15, 20, 18, 0.62) 100%),
+    url("/assets/images/hero-valley.jpg");
+  background-size: cover;
+  background-position: center 42%;
   padding: 90px 56px 100px;
   position: relative;
   overflow: hidden;
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 .hero::before {
   content: "";
@@ -207,7 +213,7 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   right: -200px;
   width: 600px;
   height: 600px;
-  background: radial-gradient(circle, rgba(184, 67, 28, 0.18) 0%, rgba(184, 67, 28, 0) 70%);
+  background: radial-gradient(circle, rgba(184, 67, 28, 0.16) 0%, rgba(184, 67, 28, 0) 70%);
   pointer-events: none;
 }
 .hero-grid {
@@ -236,6 +242,10 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   margin-bottom: 32px;
   font-weight: 600;
 }
+.hero .parent-mark {
+  color: #ffe7c2;
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.5);
+}
 .parent-mark::before {
   content: "";
   display: inline-block;
@@ -245,29 +255,32 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   vertical-align: middle;
   margin-right: 14px;
 }
+.hero .parent-mark::before { background: #ffd9a0; }
 .hero h1 {
   font-family: 'Playfair Display', serif;
   font-size: clamp(54px, 7.2vw, 92px);
   font-weight: 500;
   line-height: 1.0;
   letter-spacing: -0.025em;
-  color: #1a1a1a;
+  color: #fff;
   margin-bottom: 28px;
+  text-shadow: 0 2px 24px rgba(0, 0, 0, 0.55), 0 1px 4px rgba(0, 0, 0, 0.4);
 }
 .hero h1 em {
   font-style: italic;
   font-weight: 400;
-  color: #8c2f12;
+  color: #ffd9a0;
 }
 .hero .vision {
   font-family: 'Playfair Display', serif;
   font-size: clamp(20px, 1.8vw, 26px);
   line-height: 1.45;
   font-style: italic;
-  color: #2a2725;
+  color: #f4f1ec;
   max-width: 560px;
   margin-bottom: 42px;
   font-weight: 400;
+  text-shadow: 0 1px 16px rgba(0, 0, 0, 0.6);
 }
 .cta-row { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 32px; }
 .hero-meta {
