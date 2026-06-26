@@ -530,6 +530,79 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
 }
 .entry-card.live:hover .card-action { gap: 14px; }
 
+/* ============ INVITATION: Going for refuge ============ */
+.refuge-band { background: #f5f6f8; }
+.refuge-invite {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 16px;
+  padding: 60px 64px;
+  text-decoration: none;
+  color: #fff;
+  background: linear-gradient(118deg, #7a280f 0%, #a83a17 50%, #c2622c 100%);
+  box-shadow: 0 22px 52px rgba(122, 40, 15, 0.30);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.refuge-invite:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 30px 66px rgba(122, 40, 15, 0.40);
+}
+.refuge-invite-mark {
+  position: absolute;
+  right: -8px;
+  bottom: -64px;
+  font-size: 300px;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.09);
+  pointer-events: none;
+  transition: transform 0.6s ease;
+}
+.refuge-invite:hover .refuge-invite-mark { transform: rotate(18deg) scale(1.04); }
+.refuge-invite-body { position: relative; z-index: 1; max-width: 660px; }
+.refuge-invite-tag {
+  display: inline-block;
+  font-family: 'Playfair Display', serif;
+  font-size: 13px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #ffd9a0;
+  margin-bottom: 18px;
+  font-weight: 600;
+}
+.refuge-invite h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(30px, 4vw, 46px);
+  font-weight: 600;
+  line-height: 1.1;
+  color: #fff;
+  margin-bottom: 20px;
+  letter-spacing: -0.01em;
+}
+.refuge-invite p {
+  font-size: 18px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.93);
+  margin-bottom: 32px;
+  max-width: 600px;
+}
+.refuge-invite-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.14);
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+  padding: 13px 26px;
+  border-radius: 30px;
+  transition: gap 0.2s ease, background 0.2s ease;
+}
+.refuge-invite:hover .refuge-invite-cta { gap: 16px; background: rgba(255, 255, 255, 0.22); }
+.refuge-invite-cta .arrow { transition: transform 0.2s ease; }
+.refuge-invite:hover .refuge-invite-cta .arrow { transform: translateX(4px); }
+
 /* ============ SECTION: Vision quote ============ */
 
 .vision-section {
@@ -1125,6 +1198,8 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   .section-head { margin-bottom: 36px; }
   .entry-grid { grid-template-columns: 1fr; gap: 18px; }
   .entry-card { min-height: auto; padding: 28px 26px; }
+  .refuge-invite { padding: 38px 26px; }
+  .refuge-invite-mark { font-size: 190px; bottom: -42px; right: -22px; }
   .recent-grid { grid-template-columns: 1fr; }
   .values-grid { grid-template-columns: 1fr; gap: 18px; }
   .column-grid { grid-template-columns: 1fr; }
