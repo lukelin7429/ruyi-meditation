@@ -823,6 +823,63 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   font-weight: 600;
 }
 
+/* ---- Author directory (jump nav at top of Columns) ---- */
+.author-directory { padding: 56px 56px 8px; }
+.author-directory-inner { max-width: 1280px; margin: 0 auto; }
+.author-directory-inner h2 {
+  font-size: clamp(24px, 2.6vw, 32px);
+  margin: 6px 0 28px;
+}
+.author-directory-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+.author-chip {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 22px 24px;
+  background: #fff;
+  border: 1px solid #e7e7ea;
+  border-radius: 10px;
+  border-top: 3px solid #b8431c;
+  text-decoration: none;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.author-chip:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(140, 47, 18, 0.12);
+}
+.author-chip-name {
+  font-family: 'Playfair Display', serif;
+  font-size: 21px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+.author-chip-role {
+  font-size: 14px;
+  color: #6b6b6b;
+}
+.author-chip-count {
+  margin-top: 8px;
+  font-family: 'Playfair Display', serif;
+  font-size: 12px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #8c2f12;
+  font-weight: 700;
+}
+/* offset sticky header when jumping to an author section */
+.author-anchor { scroll-margin-top: 92px; }
+
+@media (max-width: 640px) {
+  .author-directory { padding: 44px 22px 4px; }
+  .author-directory-grid { grid-template-columns: 1fr 1fr; gap: 12px; }
+  .author-chip { padding: 16px 16px; }
+  .author-chip-name { font-size: 18px; }
+}
+
 .column-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

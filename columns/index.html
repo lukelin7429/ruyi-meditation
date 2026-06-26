@@ -14,10 +14,35 @@ title: Columns
 {% assign by_author = site.columns | group_by: 'author' %}
 {% assign ordered_authors = "Luke Lin,Jennafer Duerden,Emily Hogle,Quentin Gooch" | split: "," %}
 
+<section class="author-directory">
+  <div class="author-directory-inner">
+    <span class="eyebrow">The writers</span>
+    <h2>Browse by author.</h2>
+    <div class="author-directory-grid">
+      {% for author_name in ordered_authors %}
+        {% assign group = by_author | where: 'name', author_name | first %}
+        {% if group %}
+        <a class="author-chip" href="#author-{{ author_name | slugify }}">
+          <span class="author-chip-name">{{ author_name }}</span>
+          <span class="author-chip-role">
+            {% case author_name %}
+              {% when 'Luke Lin' %}Executive Director
+              {% when 'Jennafer Duerden' %}Writer &amp; Editor
+              {% else %}Contributor
+            {% endcase %}
+          </span>
+          <span class="author-chip-count">{{ group.items | size }} {% if group.items.size == 1 %}essay{% else %}essays{% endif %}</span>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
 {% for author_name in ordered_authors %}
   {% assign group = by_author | where: 'name', author_name | first %}
   {% if group %}
-  <section class="columns-page" style="padding-top: 64px; padding-bottom: 32px;{% if forloop.index == 1 %}{% else %} border-top: 1px solid #dee2e6;{% endif %}">
+  <section id="author-{{ author_name | slugify }}" class="columns-page author-anchor" style="padding-top: 64px; padding-bottom: 32px; border-top: 1px solid #dee2e6;">
     <div class="columns-inner">
       <div class="author-section-head">
         <h2>{{ author_name }}</h2>
