@@ -986,6 +986,16 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   border-radius: 10px;
   border-top: 3px solid #b8431c;
 }
+.founder-photo {
+  display: block;
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 22px;
+  border: 3px solid #f0e6dd;
+  box-shadow: 0 6px 18px rgba(140, 47, 18, 0.12);
+}
 .founder-card h3 {
   font-family: 'Playfair Display', serif;
   font-size: 30px;
@@ -1021,6 +1031,16 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   border: 1px solid #e7e7ea;
   border-radius: 8px;
   border-top: 2px solid #b8431c;
+}
+.team-photo {
+  display: block;
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 18px;
+  border: 3px solid #f0e6dd;
+  box-shadow: 0 5px 14px rgba(140, 47, 18, 0.10);
 }
 .team-card h3 {
   font-family: 'Playfair Display', serif;
