@@ -1426,3 +1426,241 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   margin-left: auto;
   margin-right: auto;
 }
+
+/* ===========================================
+   Community · Summer Camp
+   =========================================== */
+
+/* Breadcrumb */
+.crumb {
+  font-family: 'Inter', sans-serif;
+  font-size: 13.5px;
+  letter-spacing: 0.02em;
+  color: #8a8d93;
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+.crumb a { color: #8c2f12; text-decoration: none; }
+.crumb a:hover { text-decoration: underline; }
+.crumb span { color: #c2c4c9; }
+
+/* Year-archive cards (summer-camp index) */
+.camp-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+.camp-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #e1e3e7;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.28s ease, box-shadow 0.28s ease, border-color 0.28s ease;
+}
+.camp-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(20, 24, 31, 0.12);
+  border-color: #b8431c;
+}
+.camp-card .cc-img {
+  position: relative;
+  display: block;
+  aspect-ratio: 16 / 10;
+  background-size: cover;
+  background-position: center;
+}
+.camp-card .cc-img::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(20,24,31,0) 40%, rgba(20,24,31,0.32) 100%);
+}
+.cc-badge {
+  position: absolute;
+  top: 12px; left: 12px;
+  z-index: 2;
+  font-family: 'Playfair Display', serif;
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #fff;
+  background: #b8431c;
+  padding: 5px 11px;
+  border-radius: 4px;
+}
+.cc-play {
+  position: absolute;
+  z-index: 2;
+  left: 50%; top: 50%;
+  width: 54px; height: 54px;
+  transform: translate(-50%, -50%) scale(0.9);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.92);
+  opacity: 0;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+.cc-play::after {
+  content: "";
+  position: absolute;
+  left: 54%; top: 50%;
+  transform: translate(-50%, -50%);
+  border-style: solid;
+  border-width: 9px 0 9px 15px;
+  border-color: transparent transparent transparent #b8431c;
+}
+.camp-card:hover .cc-play { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+.camp-card .cc-body {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 18px 20px 20px;
+}
+.cc-year {
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 1;
+}
+.cc-meta { font-size: 14px; color: #6b6e74; font-weight: 500; white-space: nowrap; }
+.cc-meta .arw { color: #b8431c; transition: margin-left 0.2s ease; display: inline-block; }
+.camp-card:hover .cc-meta .arw { margin-left: 4px; }
+
+/* Video grid (year pages) */
+.camp-videos { padding: 64px 56px 100px; }
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 22px 20px;
+}
+.vthumb {
+  display: flex;
+  flex-direction: column;
+  border: none;
+  background: transparent;
+  padding: 0;
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+}
+.vthumb-img {
+  position: relative;
+  display: block;
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+  background-size: cover;
+  background-position: center;
+  background-color: #e9ebee;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(20, 24, 31, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.vthumb-img::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(20, 24, 31, 0.04);
+  transition: background 0.25s ease;
+}
+.vthumb:hover .vthumb-img { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(20, 24, 31, 0.18); }
+.vthumb:hover .vthumb-img::after { background: rgba(20, 24, 31, 0.18); }
+.vthumb:focus-visible .vthumb-img { outline: 3px solid #b8431c; outline-offset: 2px; }
+.vplay {
+  position: absolute;
+  z-index: 2;
+  left: 50%; top: 50%;
+  width: 48px; height: 48px;
+  transform: translate(-50%, -50%) scale(0.88);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.86);
+  opacity: 0;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+.vplay::after {
+  content: "";
+  position: absolute;
+  left: 55%; top: 50%;
+  transform: translate(-50%, -50%);
+  border-style: solid;
+  border-width: 8px 0 8px 13px;
+  border-color: transparent transparent transparent #b8431c;
+}
+.vthumb:hover .vplay, .vthumb:focus-visible .vplay { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+.vcap {
+  display: block;
+  margin-top: 11px;
+  font-size: 14.5px;
+  line-height: 1.4;
+  color: #2a2725;
+  font-weight: 500;
+}
+
+.camp-yearnav { margin-top: 56px; text-align: center; }
+
+/* Lightbox */
+.camp-lb {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 5vw;
+  background: rgba(12, 15, 20, 0.88);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+.camp-lb.open { display: flex; animation: campFade 0.2s ease; }
+@keyframes campFade { from { opacity: 0; } to { opacity: 1; } }
+.camp-lb-frame {
+  width: min(1040px, 100%);
+  aspect-ratio: 16 / 9;
+  background: #000;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.5);
+}
+.camp-lb-frame iframe { width: 100%; height: 100%; border: 0; display: block; }
+.camp-lb-close {
+  position: absolute;
+  top: 22px; right: 28px;
+  width: 46px; height: 46px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+.camp-lb-close:hover { background: rgba(255, 255, 255, 0.26); }
+
+/* Reveal (only armed when JS present, so no-JS stays visible) */
+.camp-js .reveal { opacity: 0; transform: translateY(16px); }
+.camp-js .reveal.in { opacity: 1; transform: none; transition: opacity 0.6s ease, transform 0.6s ease; }
+
+@media (max-width: 1024px) {
+  .camp-grid { grid-template-columns: repeat(3, 1fr); }
+  .video-grid { grid-template-columns: repeat(3, 1fr); }
+  .camp-videos { padding: 56px 32px 80px; }
+}
+@media (max-width: 720px) {
+  .camp-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  .video-grid { grid-template-columns: repeat(2, 1fr); gap: 18px 14px; }
+}
+@media (max-width: 460px) {
+  .camp-videos { padding: 44px 22px 64px; }
+  .cc-year { font-size: 25px; }
+  .vcap { font-size: 13.5px; }
+}
