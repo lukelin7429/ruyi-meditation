@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ru-Yi English School — Lessons · Ru-Yi Meditation Center</title>
+<meta name="description" content="The Ru-Yi English School: a bilingual curriculum weaving English learning together with the cultivation of the heart. Vocabulary, patterns, stories, and a self-check quiz for every week. Free, for students and seekers everywhere.">
+<link rel="canonical" href="https://www.ruyimeditation.org/english-school/">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+<meta name="theme-color" content="#559986">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --green:#559986;--green-deep:#3f7565;--green-soft:#eef4f1;
+  --rust:#b8431c;--rust-deep:#8c2f12;--gold:#c9912f;--gold-soft:#fbf3e2;
+  --ink:#1a1a1a;--ink-2:#4a4a4a;--ink-3:#6b6b6b;--rule:#e3e1dc;
+  --bg:#fff;--bg-2:#f5f6f8;--cream:#f4f1ec;--max:1040px;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{scroll-behavior:smooth;}
+body{font-family:'Inter','PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;color:var(--ink);background:var(--bg);font-size:18px;line-height:1.7;-webkit-font-smoothing:antialiased;}
+img{max-width:100%;display:block;}
+a{color:var(--rust);text-decoration:none;}
+a:hover{text-decoration:underline;}
+.wrap{max-width:var(--max);margin:0 auto;padding:0 26px;}
+
+.site-header{border-bottom:1px solid var(--rule);background:#fff;}
+.header-inner{max-width:1100px;margin:0 auto;padding:16px 26px;display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;}
+.brand{display:flex;align-items:center;gap:11px;color:var(--ink);}
+.brand:hover{text-decoration:none;}
+.brand-logo{width:40px;height:40px;}
+.brand-name{font-family:'Playfair Display',serif;font-size:21px;font-weight:600;}
+.brand-name em{font-style:italic;font-weight:500;color:var(--green-deep);}
+.site-nav{display:flex;gap:22px;font-size:15px;flex-wrap:wrap;}
+.site-nav a{color:var(--ink-2);font-weight:500;}
+.site-nav a:hover{color:var(--rust);text-decoration:none;}
+.site-nav a.active{color:var(--rust);}
+
+.hero{background:linear-gradient(165deg,#f3f7f4 0%,#eef4f1 55%,#fbf3e2 100%);border-bottom:1px solid var(--rule);padding:54px 0 56px;}
+.hero .eyebrow{font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--rust-deep);font-weight:600;margin-bottom:14px;}
+.hero h1{font-family:'Playfair Display',serif;font-size:40px;line-height:1.05;font-weight:700;max-width:760px;}
+@media(min-width:720px){.hero h1{font-size:54px;}}
+.hero .zh{font-size:20px;color:var(--green-deep);margin-top:12px;font-weight:500;}
+.hero p.lede{font-size:19px;color:var(--ink-2);margin-top:20px;max-width:680px;line-height:1.7;}
+
+main{padding:52px 0 30px;}
+.quarter{margin-bottom:56px;}
+.quarter-head{margin-bottom:24px;}
+.quarter-head .q-tag{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--rust-deep);font-weight:600;}
+.quarter-head h2{font-family:'Playfair Display',serif;font-size:28px;font-weight:700;margin-top:4px;}
+@media(min-width:720px){.quarter-head h2{font-size:32px;}}
+.quarter-head p{font-size:16px;color:var(--ink-3);margin-top:6px;}
+
+.lessons{display:grid;gap:14px;grid-template-columns:1fr;}
+@media(min-width:620px){.lessons{grid-template-columns:1fr 1fr;}}
+@media(min-width:920px){.lessons{grid-template-columns:1fr 1fr 1fr;}}
+
+.lcard{display:flex;flex-direction:column;border:1px solid var(--rule);border-radius:10px;padding:18px 20px;background:#fff;transition:transform .14s,box-shadow .14s,border-color .14s;min-height:128px;}
+a.lcard:hover{transform:translateY(-3px);box-shadow:0 14px 30px -16px rgba(63,117,101,.4);border-color:var(--green);text-decoration:none;}
+.lcard .wk{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);font-weight:600;margin-bottom:8px;display:flex;align-items:center;gap:8px;}
+.lcard .dot{width:7px;height:7px;border-radius:50%;background:var(--green);display:inline-block;}
+.lcard h3{font-family:'Playfair Display',serif;font-size:19px;line-height:1.25;color:var(--ink);margin-bottom:auto;}
+.lcard .go{font-size:14px;color:var(--rust);font-weight:600;margin-top:14px;}
+.lcard.soon{background:var(--bg-2);border-style:dashed;opacity:.92;}
+.lcard.soon .dot{background:#c4c0b8;}
+.lcard.soon h3{color:var(--ink-2);}
+.lcard.soon .go{color:var(--ink-3);font-weight:500;}
+
+.intro-note{background:var(--green-soft);border:1px solid #d8e6df;border-radius:10px;padding:20px 24px;margin-bottom:48px;font-size:16px;color:var(--ink-2);line-height:1.65;}
+.intro-note b{color:var(--green-deep);}
+
+.site-footer{border-top:1px solid var(--rule);background:#1f2622;color:#cdd6d1;margin-top:30px;}
+.footer-inner{max-width:1100px;margin:0 auto;padding:34px 26px 26px;}
+.footer-inner p{font-size:14px;line-height:1.7;color:#aeb8b3;margin-bottom:3px;}
+.footer-inner a{color:#e7d9a8;}
+.footer-bottom{border-top:1px solid #33403a;margin-top:18px;padding-top:14px;font-size:13px;color:#8b958f;}
+.footer-bottom .free{color:#9fc7b6;}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/discourses/">The Discourses</a>
+      <a href="/english-school/" class="active">English School</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="eyebrow">Ru-Yi English School</div>
+    <h1>English for the mind and the heart.</h1>
+    <div class="zh">如意英文學校 · 線上複習課程</div>
+    <p class="lede">A bilingual curriculum that weaves English learning together with the cultivation of the heart. Each week brings vocabulary you can hear and say, sentence patterns, a story, a Buddhist principle, a daily practice, and a self-check quiz. Free, for our students and for seekers everywhere.</p>
+  </div>
+</section>
+
+<main>
+<div class="wrap">
+
+  <div class="intro-note">
+    <b>For our students:</b> use these pages to review what we practiced in class — listen to the vocabulary, read the story again, and test yourself with the quiz. 上課的同學可以用這些頁面複習：聽單字發音、重讀故事、做小考檢測自己。
+  </div>
+
+  <!-- QUARTER 1 -->
+  <section class="quarter">
+    <div class="quarter-head">
+      <div class="q-tag">Quarter 1 · Months 1–3</div>
+      <h2>Foundation, Effort &amp; Diligence</h2>
+      <p>Building the mind and the vocabulary — consistency, clarity, and Right Effort. 基礎、精進與恆心。</p>
+    </div>
+    <div class="lessons">
+      <a class="lcard" href="/english-school/q1w1/">
+        <div class="wk"><span class="dot"></span>Week 1 · Live</div>
+        <h3>Right Effort in Gratitude</h3>
+        <div class="go">Start the lesson →</div>
+      </a>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 2</div><h3>Mindfulness &amp; the Present Moment</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 3</div><h3>Past Actions, Present Results</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 4</div><h3>Setting Intentions &amp; Compassionate Action</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 5</div><h3>Self-Worth, Balance &amp; True Wealth</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 6</div><h3>The Middle Path &amp; Right Action</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 7</div><h3>Concentration &amp; the Present Moment</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 8</div><h3>Sustained Effort &amp; the Present Moment</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 9</div><h3>The Eightfold Path Synthesis</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 10</div><h3>Emotional Management &amp; Upekkhā</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 11</div><h3>Emotional Regulation &amp; the Power of Pause</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 12</div><h3>Ahimsa in Action</h3><div class="go">Coming soon</div></div>
+    </div>
+  </section>
+
+  <!-- QUARTER 2 -->
+  <section class="quarter">
+    <div class="quarter-head">
+      <div class="q-tag">Quarter 2 · Months 4–7</div>
+      <h2>Character, Connection &amp; Ethical Communication</h2>
+      <p>Speaking with purpose and living ethically — loving-kindness, compassion, and joy. 品格、慈悲與善語。</p>
+    </div>
+    <div class="lessons">
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 13</div><h3>Mettā — Good Will for All Life</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 14</div><h3>Kindness &amp; Interconnectedness</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 15</div><h3>The Heart of Love &amp; Kindness</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 16</div><h3>From Mettā to Karuṇā</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 17</div><h3>Mindfulness &amp; the Four Noble Truths</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 18</div><h3>Muditā — The Joy of Others</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 19</div><h3>Muditā in the Family</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 20</div><h3>Deepening the Practice</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 21</div><h3>Moving Meditation &amp; Positive Energy</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 22</div><h3>Moving in Harmony</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 23</div><h3>Yoking the Body &amp; Mind</h3><div class="go">Coming soon</div></div>
+      <div class="lcard soon"><div class="wk"><span class="dot"></span>Week 24</div><h3>The Prince’s Great Journey</h3><div class="go">Coming soon</div></div>
+    </div>
+  </section>
+
+</div>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p style="font-family:'Playfair Display',serif;font-size:18px;color:#e7e2d6;margin-bottom:6px;">Ru-Yi Meditation Center · 如意禪修中心</p>
+    <p>Founded 2017 · Nantou, Taiwan. The Ru-Yi English School integrates English learning with the cultivation of the heart.</p>
+    <p>中文姊妹站 · <a href="https://ruyi99.org" target="_blank" rel="noopener">如意精舍 ruyi99.org</a></p>
+    <div class="footer-bottom">
+      <p>© Ru-Yi Meditation Center · <span class="free">Free, in keeping with the Buddha’s instruction.</span></p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
