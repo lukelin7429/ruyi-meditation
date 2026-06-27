@@ -4,40 +4,152 @@ title: Community
 permalink: /community/
 ---
 
-<section class="page-header">
-  <div class="page-header-inner">
-    <span class="eyebrow">Community</span>
-    <h1>The life of the <em>center.</em></h1>
-    <p class="lede">Beyond the texts and the columns, Ru-Yi is a place where people gather — to learn, to practice, and to grow up alongside one another. This is where that community lives.</p>
-  </div>
-</section>
+<script>document.documentElement.classList.add('js');</script>
 
-<section class="section section-white">
-  <div class="section-inner">
-    <div class="entry-grid">
-      <a href="{{ '/community/summer-camp/' | relative_url }}" class="entry-card live">
-        <span class="card-tag"><span class="live-dot"></span>Every July · Free</span>
-        <h3>Summer Camp</h3>
-        <p class="card-sub">A children's spiritual growth camp on the mountain</p>
-        <p class="card-desc">Each summer we welcome children and teenagers for a few free days away from screens — meditation, nature, stories, crafts, and character. Eight years of it, recorded and archived here.</p>
-        <span class="card-action">Browse the archive →</span>
-      </a>
+<style>
+  /* ============ COMMUNITY — bespoke, warm gold/amber palette ============ */
+  .cm{--gold:#d99a2b;--gold-deep:#b5781c;--amber:#e8b75a;--amber-soft:#fbecc9;
+      --coral:#c2542f;--coral-deep:#8c2f12;--maroon:#6f2a22;--maroon-deep:#3d1712;
+      --cream:#fbf5ea;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;}
+  .cm *{box-sizing:border-box;}
+  .cm-wrap{max-width:1040px;margin:0 auto;padding:0 26px;}
 
-      <a href="{{ '/community/dharma-events/' | relative_url }}" class="entry-card live">
-        <span class="card-tag"><span class="live-dot"></span>Every month · Free</span>
-        <h3>Dharma Events</h3>
-        <p class="card-sub">Our monthly retreat on the mountain</p>
-        <p class="card-desc">Every month we gather at 800 metres on Fengguidou for a day of recitation and stillness — alongside the seasonal observances that mark the year: Bathing the Buddha, Ullambana, and the New Year homecoming.</p>
-        <span class="card-action">See what's on →</span>
-      </a>
+  /* reveal */
+  .js .cm [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .cm [data-rv].in{opacity:1;transform:none;}
 
-      <a href="https://ruyi99.org/study-group/" class="entry-card live">
-        <span class="card-tag"><span class="live-dot"></span>中文 · On ruyi99.org</span>
-        <h3>Study Circle</h3>
-        <p class="card-sub">A book club for lay practitioners across Taiwan</p>
-        <p class="card-desc">An online reading group lets practitioners scattered across the island read, listen, and reflect together. Conducted in Mandarin on our Chinese sister site.</p>
-        <span class="card-action">Visit the study circle →</span>
-      </a>
+  /* ---- HERO ---- */
+  .cm-hero{position:relative;overflow:hidden;color:#fff;}
+  .cm-hero-bg{position:absolute;inset:0;
+    background-image:url('{{ "/assets/images/events/feast-homecoming.jpg" | relative_url }}');
+    background-size:cover;background-position:center 38%;z-index:0;
+    transform:scale(1.04);}
+  .cm-hero-scrim{position:absolute;inset:0;z-index:1;
+    background:
+      radial-gradient(120% 100% at 80% 12%, rgba(217,154,43,.40), transparent 58%),
+      linear-gradient(155deg,rgba(111,42,34,.78) 0%,rgba(89,33,26,.80) 40%,rgba(35,18,14,.90) 100%);}
+  .cm-hero-in{position:relative;max-width:1040px;margin:0 auto;padding:90px 26px 84px;z-index:2;}
+  .cm-eyebrow{font-size:13px;letter-spacing:.26em;text-transform:uppercase;color:var(--amber);font-weight:600;}
+  .cm-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(40px,6.6vw,72px);line-height:1.04;margin:16px 0 0;max-width:13ch;text-shadow:0 2px 24px rgba(0,0,0,.35);}
+  .cm-hero h1 em{font-style:italic;color:var(--amber);}
+  .cm-rule{width:64px;height:3px;background:var(--amber);border-radius:3px;margin:24px 0;}
+  .cm-hero p{max-width:600px;font-size:19px;line-height:1.7;color:#f6ead7;text-shadow:0 1px 14px rgba(0,0,0,.3);}
+
+  /* ---- CARDS ---- */
+  .cm-live{background:var(--cream);padding:80px 0 86px;}
+  .cm-head{text-align:center;max-width:640px;margin:0 auto 48px;}
+  .cm-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--coral-deep);}
+  .cm-head h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.6vw,44px);color:var(--ink);margin:12px 0 12px;}
+  .cm-head p{font-size:17px;color:var(--ink-soft);line-height:1.6;}
+
+  .cm-cards{display:grid;gap:28px;grid-template-columns:1fr;}
+  @media(min-width:760px){.cm-cards{grid-template-columns:1fr 1fr 1fr;}}
+
+  .cm-card{position:relative;overflow:hidden;border-radius:18px;background:#fff;text-decoration:none;
+    display:flex;flex-direction:column;border:1px solid var(--line);
+    box-shadow:0 18px 40px -26px rgba(120,80,30,.5);
+    transition:transform .32s cubic-bezier(.22,.61,.36,1),box-shadow .32s;}
+  .cm-card:hover{transform:translateY(-7px);text-decoration:none;box-shadow:0 34px 56px -26px rgba(120,80,30,.6);}
+
+  .cm-shot{position:relative;height:188px;overflow:hidden;background:var(--maroon-deep);}
+  .cm-shot img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .55s cubic-bezier(.22,.61,.36,1);}
+  .cm-card:hover .cm-shot img{transform:scale(1.07);}
+  .cm-shot::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 55%,rgba(35,18,14,.32));}
+
+  .cm-body{padding:24px 26px 28px;display:flex;flex-direction:column;flex:1;}
+  .cm-card .tag{display:inline-flex;align-items:center;gap:7px;font-size:11px;letter-spacing:.13em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);margin-bottom:12px;}
+  .cm-dot{width:8px;height:8px;border-radius:50%;background:var(--coral);box-shadow:0 0 0 3px rgba(194,84,47,.18);}
+  .cm-card h3{font-family:'Playfair Display',serif;font-size:25px;line-height:1.12;color:var(--ink);margin:0 0 5px;}
+  .cm-card .sub{font-size:14.5px;color:var(--coral-deep);font-style:italic;margin:0 0 12px;}
+  .cm-card .desc{font-size:15px;line-height:1.6;color:var(--ink-soft);margin:0 0 20px;}
+  .cm-card .action{margin-top:auto;font-size:15px;font-weight:600;color:var(--gold-deep);display:inline-flex;align-items:center;gap:7px;}
+  .cm-card .action .arw{transition:transform .25s;}
+  .cm-card:hover .action .arw{transform:translateX(5px);}
+
+  /* Study Circle — warm gradient panel (external / Mandarin) */
+  .cm-card.cm-panel{border:none;color:#fff;
+    background:linear-gradient(158deg,#d99a2b 0%,#c2542f 52%,#8c2f12 100%);
+    box-shadow:0 26px 50px -26px rgba(140,47,18,.6);}
+  .cm-card.cm-panel:hover{box-shadow:0 38px 62px -26px rgba(140,47,18,.7);}
+  .cm-panel .cm-body{padding:34px 30px 30px;}
+  .cm-panel .tag{color:rgba(255,255,255,.92);}
+  .cm-panel .cm-dot{background:#fff;box-shadow:0 0 0 3px rgba(255,255,255,.22);}
+  .cm-panel h3{color:#fff;}
+  .cm-panel .sub{color:rgba(255,255,255,.9);}
+  .cm-panel .desc{color:rgba(255,255,255,.92);}
+  .cm-panel .action{color:#fff;}
+  .cm-glyph{position:absolute;right:-26px;bottom:-34px;font-family:'Playfair Display',serif;font-size:200px;line-height:1;color:rgba(255,255,255,.10);pointer-events:none;user-select:none;}
+</style>
+
+<div class="cm">
+
+  <!-- HERO -->
+  <section class="cm-hero">
+    <div class="cm-hero-bg" aria-hidden="true"></div>
+    <div class="cm-hero-scrim" aria-hidden="true"></div>
+    <div class="cm-hero-in">
+      <div class="cm-eyebrow" data-rv>Community</div>
+      <h1 data-rv style="transition-delay:.08s">The life of the <em>center.</em></h1>
+      <div class="cm-rule" data-rv style="transition-delay:.16s"></div>
+      <p class="lede" data-rv style="transition-delay:.2s">Beyond the texts and the columns, Ru-Yi is a place where people gather — to learn, to practice, and to grow up alongside one another. This is where that community lives.</p>
     </div>
-  </div>
-</section>
+  </section>
+
+  <!-- CARDS -->
+  <section class="cm-live">
+    <div class="cm-wrap">
+      <div class="cm-head" data-rv>
+        <div class="lbl">Gathering together</div>
+        <h2>Three ways in.</h2>
+        <p>From summers on the mountain to the monthly retreat and a reading circle that spans the island — here is where the community comes together.</p>
+      </div>
+      <div class="cm-cards">
+
+        <a href="{{ '/community/summer-camp/' | relative_url }}" class="cm-card" data-rv>
+          <div class="cm-shot"><img src="{{ '/assets/images/events/feast-camp.jpg' | relative_url }}" alt="Families and children at the monastery summer camp" loading="lazy"></div>
+          <div class="cm-body">
+            <span class="tag"><span class="cm-dot"></span>Every July · Free</span>
+            <h3>Summer Camp</h3>
+            <p class="sub">A children's spiritual growth camp on the mountain</p>
+            <p class="desc">Each summer we welcome children and teenagers for a few free days away from screens — meditation, nature, stories, crafts, and character. Eight years of it, recorded and archived here.</p>
+            <span class="action">Browse the archive <span class="arw">→</span></span>
+          </div>
+        </a>
+
+        <a href="{{ '/community/dharma-events/' | relative_url }}" class="cm-card" data-rv style="transition-delay:.1s">
+          <div class="cm-shot"><img src="{{ '/assets/images/events/feast-bathing.jpg' | relative_url }}" alt="Practitioners at a seasonal observance on the mountain" loading="lazy"></div>
+          <div class="cm-body">
+            <span class="tag"><span class="cm-dot"></span>Every month · Free</span>
+            <h3>Dharma Events</h3>
+            <p class="sub">Our monthly retreat on the mountain</p>
+            <p class="desc">Every month we gather at 800 metres on Fengguidou for a day of recitation and stillness — alongside the seasonal observances that mark the year: Bathing the Buddha, Ullambana, and the New Year homecoming.</p>
+            <span class="action">See what's on <span class="arw">→</span></span>
+          </div>
+        </a>
+
+        <a href="https://ruyi99.org/study-group/" class="cm-card cm-panel" data-rv style="transition-delay:.2s">
+          <div class="cm-glyph" aria-hidden="true">讀</div>
+          <div class="cm-body">
+            <span class="tag"><span class="cm-dot"></span>中文 · On ruyi99.org</span>
+            <h3>Study Circle</h3>
+            <p class="sub">A book club for lay practitioners across Taiwan</p>
+            <p class="desc">An online reading group lets practitioners scattered across the island read, listen, and reflect together. Conducted in Mandarin on our Chinese sister site.</p>
+            <span class="action">Visit the study circle <span class="arw">→</span></span>
+          </div>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var els=document.querySelectorAll('.cm [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>

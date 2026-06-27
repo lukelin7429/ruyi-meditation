@@ -3,93 +3,188 @@ layout: default
 title: About
 ---
 
-<section class="page-header">
-  <div class="page-header-inner">
-    <span class="eyebrow">About</span>
-    <h1>The center on <em>Fengguidou mountain.</em></h1>
-    <p class="lede">Ru-Yi Meditation Center sits at roughly 800 metres on Fengguidou mountain, in the Xinyi Township of Nantou County, Taiwan. The mountain weather is generous: mist that drifts and re-makes the landscape through the day, and winters where plum blossoms open against the snow and the air carries their perfume far enough to clear a quiet mind.</p>
-  </div>
-</section>
+<script>document.documentElement.classList.add('js');</script>
 
-<section class="about-section">
-  <div class="about-inner section-narrow">
-    <span class="eyebrow">Our history</span>
-    <h2>A return to the hometown.</h2>
-    <p class="lede">The two masters were born on this mountain. Years later, after taking their vows and training away from home, they noticed something simple: the people of their own village had no easy way to study the dharma. The thought stayed with them, and in time it became a quiet vow — to return one day, and to plant the seeds of the teaching in the soil they had grown up on.</p>
-    <p class="lede" style="margin-top: 24px;">In September 2017 they came home. They turned the family dwellings they had grown up in into a small monastery, with one teaching aim — to help others build right view and right understanding of life. A Buddhist study circle was started for elementary-age children. An online book club followed, so that lay practitioners scattered across Taiwan could read, listen, and reflect together. And because the next generation deserves the same chance to begin early, a children's spiritual growth camp soon joined the calendar.</p>
-    <p class="lede" style="margin-top: 24px;">The monastery sits at the end of a winding road, and the masters know that reach is hard. They are not in a hurry. Their wish, as they describe it, is simply to serve the dharma for all living beings — one student, one season, one returning visitor at a time. Ru-Yi Meditation Center was founded on September 21st, 2017 by Ven. Master Da-hui and Ven. Master Yang-hui.</p>
-  </div>
-</section>
+<style>
+  /* ============ ABOUT — bespoke, warm green palette ============ */
+  .ab{--green:#559986;--green-deep:#3f7565;--green-dark:#2c5446;--green-soft:#e8f1ed;
+      --gold:#e3b765;--cream:#f4f1ec;--ink:#2a211b;--ink-soft:#6a5e52;--line:#e6ddd0;}
+  .ab *{box-sizing:border-box;}
+  .ab-wrap{max-width:1040px;margin:0 auto;padding:0 26px;}
 
-<section class="about-section cream">
-  <div class="about-inner section-narrow">
-    <span class="eyebrow">The meaning of Ru-Yi</span>
-    <h2><em>Ru-Yi</em> 如意</h2>
-    <p class="lede"><em>Ru-Yi</em> is the transliteration of the Mandarin <strong>如意</strong>. In Mandarin, <em>rú yì</em> means "everything goes your way," and is often seen in phrases like <em>諸事如意</em> (<em>Zhū shì rú yì</em>): everything as you wish.</p>
-    <p class="lede" style="margin-top: 24px;">In the context of Buddhism, however, <em>rú yì</em> carries a deeper meaning. In the Bodhi path to enlightenment, there are 37 factors to develop. Four of these factors are known as the <em>spiritual powers</em> — referring to concentration on intention, effort, consciousness, and investigation. In Pāli they are called <strong>Iddhipāda</strong>, a compound term meaning "power" and "base." In Mandarin this translates to <strong>如意足</strong> (<em>rú yì zú</em>), literally "wishful foot."</p>
-    <p class="lede" style="margin-top: 24px;"><em>Rú yì</em> therefore has a profound meaning: to have the spiritual power to have things go your way — thereby having a mind that is a master of itself, able to accomplish what it wants. That is the practice this center is named for.</p>
-  </div>
-</section>
+  /* reveal */
+  .js .ab [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .ab [data-rv].in{opacity:1;transform:none;}
 
-<section class="about-section">
-  <div class="about-inner">
-    <span class="eyebrow">Our founders</span>
-    <h2>Two teachers, one path.</h2>
-    <div class="founder-pair">
-      <div class="founder-card">
-        <img class="founder-photo" src="{{ '/assets/images/team/yang-hui.jpg' | relative_url }}" alt="Ven. Master Yang-hui 陽慧法師">
-        <h3>Ven. Master Yang-hui</h3>
-        <p class="person-zh">陽慧法師</p>
-        <p class="person-role">Co-founder</p>
-        <p>Co-founder of Ru-Yi Meditation Center, returning in 2017 to teach in the hometown where she grew up. A short biography is being prepared in consultation with the venerable.</p>
+  /* ---- HERO ---- */
+  .ab-hero{position:relative;overflow:hidden;color:#fff;
+    background:
+      linear-gradient(160deg,rgba(44,84,70,.62) 0%,rgba(44,84,70,.74) 45%,rgba(20,40,33,.92) 100%),
+      url('{{ '/assets/images/hero-valley.jpg' | relative_url }}') center 38%/cover no-repeat;}
+  .ab-hero-in{position:relative;max-width:1040px;margin:0 auto;padding:108px 26px 96px;z-index:2;}
+  .ab-eyebrow{font-size:13px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ab-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(40px,6.6vw,72px);line-height:1.05;margin:16px 0 0;max-width:15ch;text-shadow:0 2px 24px rgba(0,0,0,.35);}
+  .ab-hero h1 em{font-style:italic;color:var(--gold);}
+  .ab-rule{width:64px;height:3px;background:var(--gold);border-radius:3px;margin:24px 0;}
+  .ab-hero p{max-width:660px;font-size:19px;line-height:1.75;color:#f1f6f3;text-shadow:0 1px 12px rgba(0,0,0,.3);}
+
+  /* ---- PROSE SECTIONS ---- */
+  .ab-sec{padding:84px 0;}
+  .ab-sec.white{background:#fff;}
+  .ab-sec.cream{background:var(--cream);}
+  .ab-narrow{max-width:760px;}
+  .ab-lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--green-deep);}
+  .ab-sec h2{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(28px,4.4vw,42px);color:var(--ink);line-height:1.12;margin:12px 0 26px;}
+  .ab-sec h2 em{font-style:italic;color:var(--green-deep);}
+  .ab-sec p.lede{font-size:18.5px;line-height:1.8;color:var(--ink-soft);margin:0;}
+  .ab-sec p.lede + p.lede{margin-top:24px;}
+  .ab-sec p.lede strong{color:var(--ink);}
+  .ab-sec p.lede em{color:var(--green-dark);}
+
+  /* ---- FOUNDERS ---- */
+  .ab-headblock{max-width:680px;margin:0 0 44px;}
+  .ab-headblock h2{margin-bottom:0;}
+  .founder-pair{display:grid;gap:28px;grid-template-columns:1fr;}
+  @media(min-width:720px){.founder-pair{grid-template-columns:1fr 1fr;}}
+  .ab .founder-card{position:relative;background:#fff;border-radius:18px;border-top:4px solid var(--green);
+    padding:34px 32px 32px;box-shadow:0 22px 46px -28px rgba(44,84,70,.45);
+    transition:transform .32s cubic-bezier(.22,.61,.36,1),box-shadow .32s;overflow:hidden;}
+  .ab .founder-card:hover{transform:translateY(-6px);box-shadow:0 34px 58px -28px rgba(44,84,70,.55);}
+  .ab .founder-photo{width:96px;height:96px;border-radius:50%;object-fit:cover;
+    border:3px solid var(--green-soft);box-shadow:0 8px 20px -10px rgba(44,84,70,.5);margin-bottom:18px;}
+  .ab .founder-card h3{font-family:'Playfair Display',serif;font-size:25px;color:var(--ink);margin:0 0 2px;}
+  .ab .founder-card .person-zh{font-size:16px;color:var(--green-deep);font-weight:600;margin:0 0 6px;}
+  .ab .founder-card .person-role{font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--ink-soft);margin:0 0 16px;}
+  .ab .founder-card p:last-child{font-size:16px;line-height:1.7;color:var(--ink-soft);margin:0;}
+
+  /* ---- TEAM ---- */
+  .team-grid{display:grid;gap:24px;grid-template-columns:1fr;}
+  @media(min-width:560px){.team-grid{grid-template-columns:1fr 1fr;}}
+  @media(min-width:920px){.team-grid{grid-template-columns:repeat(3,1fr);}}
+  .ab .team-card{position:relative;background:#fff;border-radius:16px;
+    padding:30px 26px 28px;box-shadow:0 18px 40px -26px rgba(44,84,70,.4);
+    border-bottom:4px solid var(--green);
+    transition:transform .3s cubic-bezier(.22,.61,.36,1),box-shadow .3s;overflow:hidden;}
+  .ab .team-card:hover{transform:translateY(-5px);box-shadow:0 28px 50px -26px rgba(44,84,70,.5);}
+  .ab .team-photo{width:80px;height:80px;border-radius:50%;object-fit:cover;
+    border:3px solid var(--green-soft);box-shadow:0 6px 16px -8px rgba(44,84,70,.5);margin-bottom:16px;}
+  .ab .team-card h3{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);margin:0 0 2px;}
+  .ab .team-card .person-zh{font-size:15px;color:var(--green-deep);font-weight:600;margin:0 0 6px;}
+  .ab .team-card .person-role{font-size:12px;letter-spacing:.13em;text-transform:uppercase;font-weight:700;color:var(--ink-soft);margin:0 0 14px;}
+  .ab .team-card p:last-child{font-size:15px;line-height:1.65;color:var(--ink-soft);margin:0;}
+</style>
+
+<div class="ab">
+
+  <!-- HERO -->
+  <section class="ab-hero">
+    <div class="ab-hero-in">
+      <div class="ab-eyebrow" data-rv>About · 如意精舍</div>
+      <h1 data-rv style="transition-delay:.08s">The center on <em>Fengguidou mountain.</em></h1>
+      <div class="ab-rule" data-rv style="transition-delay:.16s"></div>
+      <p data-rv style="transition-delay:.2s">Ru-Yi Meditation Center sits at roughly 800 metres on Fengguidou mountain, in the Xinyi Township of Nantou County, Taiwan. The mountain weather is generous: mist that drifts and re-makes the landscape through the day, and winters where plum blossoms open against the snow and the air carries their perfume far enough to clear a quiet mind.</p>
+    </div>
+  </section>
+
+  <!-- HISTORY -->
+  <section class="ab-sec white">
+    <div class="ab-wrap ab-narrow">
+      <span class="ab-lbl" data-rv>Our history</span>
+      <h2 data-rv style="transition-delay:.06s">A return to the hometown.</h2>
+      <p class="lede" data-rv style="transition-delay:.1s">The two masters were born on this mountain. Years later, after taking their vows and training away from home, they noticed something simple: the people of their own village had no easy way to study the dharma. The thought stayed with them, and in time it became a quiet vow — to return one day, and to plant the seeds of the teaching in the soil they had grown up on.</p>
+      <p class="lede" data-rv style="transition-delay:.14s">In September 2017 they came home. They turned the family dwellings they had grown up in into a small monastery, with one teaching aim — to help others build right view and right understanding of life. A Buddhist study circle was started for elementary-age children. An online book club followed, so that lay practitioners scattered across Taiwan could read, listen, and reflect together. And because the next generation deserves the same chance to begin early, a children's spiritual growth camp soon joined the calendar.</p>
+      <p class="lede" data-rv style="transition-delay:.18s">The monastery sits at the end of a winding road, and the masters know that reach is hard. They are not in a hurry. Their wish, as they describe it, is simply to serve the dharma for all living beings — one student, one season, one returning visitor at a time. Ru-Yi Meditation Center was founded on September 21st, 2017 by Ven. Master Da-hui and Ven. Master Yang-hui.</p>
+    </div>
+  </section>
+
+  <!-- MEANING OF RU-YI -->
+  <section class="ab-sec cream">
+    <div class="ab-wrap ab-narrow">
+      <span class="ab-lbl" data-rv>The meaning of Ru-Yi</span>
+      <h2 data-rv style="transition-delay:.06s"><em>Ru-Yi</em> 如意</h2>
+      <p class="lede" data-rv style="transition-delay:.1s"><em>Ru-Yi</em> is the transliteration of the Mandarin <strong>如意</strong>. In Mandarin, <em>rú yì</em> means "everything goes your way," and is often seen in phrases like <em>諸事如意</em> (<em>Zhū shì rú yì</em>): everything as you wish.</p>
+      <p class="lede" data-rv style="transition-delay:.14s">In the context of Buddhism, however, <em>rú yì</em> carries a deeper meaning. In the Bodhi path to enlightenment, there are 37 factors to develop. Four of these factors are known as the <em>spiritual powers</em> — referring to concentration on intention, effort, consciousness, and investigation. In Pāli they are called <strong>Iddhipāda</strong>, a compound term meaning "power" and "base." In Mandarin this translates to <strong>如意足</strong> (<em>rú yì zú</em>), literally "wishful foot."</p>
+      <p class="lede" data-rv style="transition-delay:.18s"><em>Rú yì</em> therefore has a profound meaning: to have the spiritual power to have things go your way — thereby having a mind that is a master of itself, able to accomplish what it wants. That is the practice this center is named for.</p>
+    </div>
+  </section>
+
+  <!-- FOUNDERS -->
+  <section class="ab-sec white">
+    <div class="ab-wrap">
+      <div class="ab-headblock">
+        <span class="ab-lbl" data-rv>Our founders</span>
+        <h2 data-rv style="transition-delay:.06s">Two teachers, one path.</h2>
       </div>
-      <div class="founder-card">
-        <img class="founder-photo" src="{{ '/assets/images/team/da-hui.jpg' | relative_url }}" alt="Ven. Master Da-hui 達慧法師">
-        <h3>Ven. Master Da-hui</h3>
-        <p class="person-zh">達慧法師</p>
-        <p class="person-role">Co-founder</p>
-        <p>Co-founder of Ru-Yi Meditation Center, returning in 2017 to teach in the hometown where she grew up. A short biography is being prepared in consultation with the venerable.</p>
+      <div class="founder-pair">
+        <div class="founder-card" data-rv>
+          <img class="founder-photo" src="{{ '/assets/images/team/yang-hui.jpg' | relative_url }}" alt="Ven. Master Yang-hui 陽慧法師">
+          <h3>Ven. Master Yang-hui</h3>
+          <p class="person-zh">陽慧法師</p>
+          <p class="person-role">Co-founder</p>
+          <p>Co-founder of Ru-Yi Meditation Center, returning in 2017 to teach in the hometown where she grew up. A short biography is being prepared in consultation with the venerable.</p>
+        </div>
+        <div class="founder-card" data-rv style="transition-delay:.1s">
+          <img class="founder-photo" src="{{ '/assets/images/team/da-hui.jpg' | relative_url }}" alt="Ven. Master Da-hui 達慧法師">
+          <h3>Ven. Master Da-hui</h3>
+          <p class="person-zh">達慧法師</p>
+          <p class="person-role">Co-founder</p>
+          <p>Co-founder of Ru-Yi Meditation Center, returning in 2017 to teach in the hometown where she grew up. A short biography is being prepared in consultation with the venerable.</p>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<section class="about-section cream">
-  <div class="about-inner">
-    <span class="eyebrow">The team</span>
-    <h2>The wider circle.</h2>
-    <div class="team-grid">
-      <div class="team-card">
-        <img class="team-photo" src="{{ '/assets/images/team/luke.jpg' | relative_url }}" alt="Luke Lin 林吉祥">
-        <h3>Luke Lin</h3>
-        <p class="person-zh">林吉祥</p>
-        <p class="person-role">Executive Director</p>
-        <p>Luke leads Ru-Yi's English-language teaching and writes most of the columns on this site. A lifelong English teacher in Taiwan, he has spent decades working at the seam between language education and the Buddhist tradition.</p>
+  <!-- TEAM -->
+  <section class="ab-sec cream">
+    <div class="ab-wrap">
+      <div class="ab-headblock">
+        <span class="ab-lbl" data-rv>The team</span>
+        <h2 data-rv style="transition-delay:.06s">The wider circle.</h2>
       </div>
-      <div class="team-card">
-        <img class="team-photo" src="{{ '/assets/images/team/lucien.jpg' | relative_url }}" alt="Lucien Hsieh">
-        <h3>Lucien Hsieh</h3>
-        <p class="person-role">Deputy Executive Director</p>
-        <p>Supports center operations and program coordination.</p>
-      </div>
-      <div class="team-card">
-        <img class="team-photo" src="{{ '/assets/images/team/jennafer.jpg' | relative_url }}" alt="Jennafer Duerden">
-        <h3>Jennafer Duerden</h3>
-        <p class="person-role">Writer / Editor</p>
-        <p>Contributes regular columns on right livelihood, ethics, and the practical edges of the Buddhist life.</p>
-      </div>
-      <div class="team-card">
-        <img class="team-photo" src="{{ '/assets/images/team/dom.jpg' | relative_url }}" alt="Dom Jones">
-        <h3>Dom Jones</h3>
-        <p class="person-role">Teacher</p>
-        <p>Teaches in our English-language programs.</p>
-      </div>
-      <div class="team-card">
-        <img class="team-photo" src="{{ '/assets/images/team/david.jpg' | relative_url }}" alt="David Wei">
-        <h3>David Wei</h3>
-        <p class="person-role">Social Media Lead</p>
-        <p>Brings the center's work to wider audiences online.</p>
+      <div class="team-grid">
+        <div class="team-card" data-rv>
+          <img class="team-photo" src="{{ '/assets/images/team/luke.jpg' | relative_url }}" alt="Luke Lin 林吉祥">
+          <h3>Luke Lin</h3>
+          <p class="person-zh">林吉祥</p>
+          <p class="person-role">Executive Director</p>
+          <p>Luke leads Ru-Yi's English-language teaching and writes most of the columns on this site. A lifelong English teacher in Taiwan, he has spent decades working at the seam between language education and the Buddhist tradition.</p>
+        </div>
+        <div class="team-card" data-rv style="transition-delay:.08s">
+          <img class="team-photo" src="{{ '/assets/images/team/lucien.jpg' | relative_url }}" alt="Lucien Hsieh">
+          <h3>Lucien Hsieh</h3>
+          <p class="person-role">Deputy Executive Director</p>
+          <p>Supports center operations and program coordination.</p>
+        </div>
+        <div class="team-card" data-rv style="transition-delay:.16s">
+          <img class="team-photo" src="{{ '/assets/images/team/jennafer.jpg' | relative_url }}" alt="Jennafer Duerden">
+          <h3>Jennafer Duerden</h3>
+          <p class="person-role">Writer / Editor</p>
+          <p>Contributes regular columns on right livelihood, ethics, and the practical edges of the Buddhist life.</p>
+        </div>
+        <div class="team-card" data-rv style="transition-delay:.08s">
+          <img class="team-photo" src="{{ '/assets/images/team/dom.jpg' | relative_url }}" alt="Dom Jones">
+          <h3>Dom Jones</h3>
+          <p class="person-role">Teacher</p>
+          <p>Teaches in our English-language programs.</p>
+        </div>
+        <div class="team-card" data-rv style="transition-delay:.16s">
+          <img class="team-photo" src="{{ '/assets/images/team/david.jpg' | relative_url }}" alt="David Wei">
+          <h3>David Wei</h3>
+          <p class="person-role">Social Media Lead</p>
+          <p>Brings the center's work to wider audiences online.</p>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var els=document.querySelectorAll('.ab [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
