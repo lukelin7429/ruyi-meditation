@@ -8,8 +8,7 @@
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
       <a href="{{ '/about/' | relative_url }}"{% if page.url contains '/about' %} class="active"{% endif %}>About</a>
       <a href="{{ '/columns/' | relative_url }}"{% if page.url contains '/columns' %} class="active"{% endif %}>Columns</a>
-      <a href="{{ '/discourses/' | relative_url }}"{% if page.url contains '/discourses' %} class="active"{% endif %}>The Discourses</a>
-      <a href="{{ '/forbearance/' | relative_url }}"{% if page.url contains '/forbearance' %} class="active"{% endif %}>Forbearance</a>
+      <a href="{{ '/dharma/' | relative_url }}"{% if page.url contains '/dharma' or page.url contains '/discourses' or page.url contains '/forbearance' %} class="active"{% endif %}>Dharma</a>
       <a href="{{ '/english-school/' | relative_url }}"{% if page.url contains '/english-school' %} class="active"{% endif %}>English School</a>
       <a href="{{ '/community/' | relative_url }}"{% if page.url contains '/community' %} class="active"{% endif %}>Community</a>
     </nav>
