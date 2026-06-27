@@ -285,6 +285,23 @@
 </style>
 </head>
 <body>
+<script>document.documentElement.classList.add('js');</script>
+<style>
+  /* ===== restrained scroll-reveal + refined hover (added) ===== */
+  .js [data-rv]{opacity:0;transform:translateY(20px);
+    transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
+  .js [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js [data-rv]{opacity:1 !important;transform:none !important;}}
+  /* linked rows: a quiet rust accent slides in on hover */
+  .sutta-row.linked{position:relative;transition:background .2s ease,padding-left .2s ease;}
+  .sutta-row.linked::before{content:"";position:absolute;left:0;top:6px;bottom:6px;width:3px;border-radius:3px;
+    background:linear-gradient(180deg,#b8431c,#e0a93f);opacity:0;transform:scaleY(.4);transform-origin:top;
+    transition:opacity .22s ease,transform .28s ease;}
+  .sutta-row.linked:hover{background:#f7f2ea;padding-left:12px;}
+  .sutta-row.linked:hover::before{opacity:1;transform:scaleY(1);}
+  .sutta-row.linked:hover .sutta-num{color:#8c2f12;}
+  .sutta-num{transition:color .2s ease;}
+</style>
 <header class="site-header">
   <div class="header-inner">
     <a href="/" class="brand">
@@ -319,7 +336,7 @@
     Each entry on this page will, in time, link to a study page with three things: a reading guide in plain English, the full Sujato translation (with one click to expand all repetitions), and a 10-question self-check quiz. We are publishing slowly. MN 1 is live; the rest are coming.
   </p>
 
-  <div class="meta-card">
+  <div class="meta-card" data-rv>
     <dl>
       <dt>Discourses</dt><dd>152, arranged in 15 chapters (<em>vagga</em>) across 3 sections of fifty (<em>paṇṇāsa</em>)</dd>
       <dt>English source</dt><dd>Bhikkhu Sujato, released CC0 by SuttaCentral</dd>
@@ -333,7 +350,7 @@
     <h2>How to start</h2>
     <p>If you are new to the Majjhima Nikāya, do not start at MN 1. The first discourse is one of the most demanding in the collection — a useful place to <em>finish</em> a first pass, not to begin one. Choose one of the paths below.</p>
 
-    <div class="paths">
+    <div class="paths" data-rv>
       <h3>Four recommended reading paths</h3>
 
       <div class="path">
@@ -371,12 +388,12 @@
     <p style="font-size: 18px; color:#6b6b6b; margin-bottom:12px;">Linked rows have a published reading guide. Unlinked rows are listed for navigation and will become available as the series progresses.</p>
 
     <!-- ============== MŪLAPAṆṆĀSA ============== -->
-    <div class="pinnaasa-heading">
+    <div class="pinnaasa-heading" data-rv>
       <span class="pin-name">I. Mūlapaṇṇāsa</span>
       <span class="pin-note">MN 1–50 · five chapters</span>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">1. Mūlapariyāyavagga</span>
         <span class="vagga-range">MN 1–10</span>
@@ -395,7 +412,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">2. Sīhanādavagga</span>
         <span class="vagga-range">MN 11–20</span>
@@ -414,7 +431,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">3. Opammavagga</span>
         <span class="vagga-range">MN 21–30</span>
@@ -433,7 +450,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">4. Mahāyamakavagga</span>
         <span class="vagga-range">MN 31–40</span>
@@ -452,7 +469,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">5. Cūḷayamakavagga</span>
         <span class="vagga-range">MN 41–50</span>
@@ -472,12 +489,12 @@
     </div>
 
     <!-- ============== MAJJHIMAPAṆṆĀSA ============== -->
-    <div class="pinnaasa-heading">
+    <div class="pinnaasa-heading" data-rv>
       <span class="pin-name">II. Majjhimapaṇṇāsa</span>
       <span class="pin-note">MN 51–100 · five chapters · dialogues with kings, brāhmaṇas, householders, monks</span>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">6. Gahapativagga</span>
         <span class="vagga-range">MN 51–60</span>
@@ -496,7 +513,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">7. Bhikkhuvagga</span>
         <span class="vagga-range">MN 61–70</span>
@@ -515,7 +532,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">8. Paribbājakavagga</span>
         <span class="vagga-range">MN 71–80</span>
@@ -534,7 +551,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">9. Rājavagga</span>
         <span class="vagga-range">MN 81–90</span>
@@ -553,7 +570,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">10. Brāhmaṇavagga</span>
         <span class="vagga-range">MN 91–100</span>
@@ -573,12 +590,12 @@
     </div>
 
     <!-- ============== UPARIPAṆṆĀSA ============== -->
-    <div class="pinnaasa-heading">
+    <div class="pinnaasa-heading" data-rv>
       <span class="pin-name">III. Uparipaṇṇāsa</span>
       <span class="pin-note">MN 101–152 · five chapters · detailed instruction on meditation, emptiness, and the analysis of action</span>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">11. Devadahavagga</span>
         <span class="vagga-range">MN 101–110</span>
@@ -597,7 +614,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">12. Anupadavagga</span>
         <span class="vagga-range">MN 111–120</span>
@@ -616,7 +633,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">13. Suññatavagga</span>
         <span class="vagga-range">MN 121–130</span>
@@ -635,7 +652,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">14. Vibhaṅgavagga</span>
         <span class="vagga-range">MN 131–142</span>
@@ -656,7 +673,7 @@
       </ul>
     </div>
 
-    <div class="vagga">
+    <div class="vagga" data-rv>
       <div class="vagga-header">
         <span class="vagga-name">15. Saḷāyatanavagga</span>
         <span class="vagga-range">MN 143–152</span>
@@ -683,5 +700,14 @@
   </footer>
 
 </div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.08,rootMargin:'0px 0px -5% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
 </body>
 </html>

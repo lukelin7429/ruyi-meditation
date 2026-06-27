@@ -527,6 +527,29 @@
 </style>
 </head>
 <body>
+<script>document.documentElement.classList.add('js');</script>
+<style>
+  /* ============ color + motion layer (added) ============ */
+  .js [data-rv]{opacity:0;transform:translateY(22px);
+    transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);transition-delay:var(--rvd,0s);}
+  .js [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js [data-rv]{opacity:1 !important;transform:none !important;}}
+
+  /* per-method accent hue, cycling through the palette */
+  .methods-section .method:nth-of-type(8n+1){--ac:#b8431c;}
+  .methods-section .method:nth-of-type(8n+2){--ac:#0c8599;}
+  .methods-section .method:nth-of-type(8n+3){--ac:#7048e8;}
+  .methods-section .method:nth-of-type(8n+4){--ac:#2f9e44;}
+  .methods-section .method:nth-of-type(8n+5){--ac:#d6336c;}
+  .methods-section .method:nth-of-type(8n+6){--ac:#e8590c;}
+  .methods-section .method:nth-of-type(8n+7){--ac:#c9912f;}
+  .methods-section .method:nth-of-type(8n+8){--ac:#3b5bdb;}
+  .method{--ac:#b8431c;position:relative;transition:transform .3s cubic-bezier(.22,.61,.36,1),border-color .2s ease,box-shadow .2s ease;}
+  .method .m-num{color:var(--ac);transition:color .2s ease;}
+  .method:hover{border-color:var(--ac);box-shadow:0 14px 30px -8px var(--ac);transform:translateY(-3px);}
+  .method details[open]{border-color:var(--ac);}
+  .method details[open]+*{}
+</style>
 <header class="site-header">
   <div class="header-inner">
     <a href="/" class="brand">
@@ -567,7 +590,7 @@
 </header>
 
 <section class="source-section">
-  <div class="source-card">
+  <div class="source-card" data-rv>
     <h2>Why these 25 methods?</h2>
     <p class="zh-title">大智度論 · Treatise on the Great Perfection of Wisdom</p>
     <p>The <strong>Mahāprajñāpāramitā Śāstra</strong> is one of the most important treatises in the Mahāyāna Buddhist canon — a vast commentary attributed to the Indian master <strong>Nāgārjuna</strong>, translated into Chinese by Kumārajīva in the early 5th century. It has shaped East Asian Buddhist thought for sixteen centuries.</p>
@@ -579,7 +602,7 @@
 <section class="jump-section">
   <h2>Jump to a method</h2>
   <p class="jump-intro">Twenty-five different doors into the same room. Browse the list, or start with whichever method speaks to your current situation.</p>
-  <div class="jump-grid">
+  <div class="jump-grid" data-rv>
 <a href="#m01" class="jump-link"><span class="jump-num">01</span><span class="jump-label">Repaying a Debt</span></a>
 <a href="#m02" class="jump-link"><span class="jump-num">02</span><span class="jump-label">Loving-Kindness Shield</span></a>
 <a href="#m03" class="jump-link"><span class="jump-num">03</span><span class="jump-label">Open Wound</span></a>
@@ -609,7 +632,7 @@
 </section>
 
 <section class="methods-section">
-<article class="method" id="m01">
+<article class="method" data-rv id="m01">
   <details>
     <summary>
       <div class="m-num">01</div>
@@ -650,7 +673,7 @@
   </details>
 </article>
 
-<article class="method" id="m02">
+<article class="method" data-rv id="m02">
   <details>
     <summary>
       <div class="m-num">02</div>
@@ -698,7 +721,7 @@
   </details>
 </article>
 
-<article class="method" id="m03">
+<article class="method" data-rv id="m03">
   <details>
     <summary>
       <div class="m-num">03</div>
@@ -750,7 +773,7 @@
   </details>
 </article>
 
-<article class="method" id="m04">
+<article class="method" data-rv id="m04">
   <details>
     <summary>
       <div class="m-num">04</div>
@@ -803,7 +826,7 @@
   </details>
 </article>
 
-<article class="method" id="m05">
+<article class="method" data-rv id="m05">
   <details>
     <summary>
       <div class="m-num">05</div>
@@ -856,7 +879,7 @@
   </details>
 </article>
 
-<article class="method" id="m06">
+<article class="method" data-rv id="m06">
   <details>
     <summary>
       <div class="m-num">06</div>
@@ -909,7 +932,7 @@
   </details>
 </article>
 
-<article class="method" id="m07">
+<article class="method" data-rv id="m07">
   <details>
     <summary>
       <div class="m-num">07</div>
@@ -959,7 +982,7 @@
   </details>
 </article>
 
-<article class="method" id="m08">
+<article class="method" data-rv id="m08">
   <details>
     <summary>
       <div class="m-num">08</div>
@@ -1010,7 +1033,7 @@
   </details>
 </article>
 
-<article class="method" id="m09">
+<article class="method" data-rv id="m09">
   <details>
     <summary>
       <div class="m-num">09</div>
@@ -1062,7 +1085,7 @@
   </details>
 </article>
 
-<article class="method" id="m10">
+<article class="method" data-rv id="m10">
   <details>
     <summary>
       <div class="m-num">10</div>
@@ -1112,7 +1135,7 @@
   </details>
 </article>
 
-<article class="method" id="m11">
+<article class="method" data-rv id="m11">
   <details>
     <summary>
       <div class="m-num">11</div>
@@ -1163,7 +1186,7 @@
   </details>
 </article>
 
-<article class="method" id="m12">
+<article class="method" data-rv id="m12">
   <details>
     <summary>
       <div class="m-num">12</div>
@@ -1214,7 +1237,7 @@
   </details>
 </article>
 
-<article class="method" id="m13">
+<article class="method" data-rv id="m13">
   <details>
     <summary>
       <div class="m-num">13</div>
@@ -1266,7 +1289,7 @@
   </details>
 </article>
 
-<article class="method" id="m14">
+<article class="method" data-rv id="m14">
   <details>
     <summary>
       <div class="m-num">14</div>
@@ -1316,7 +1339,7 @@
   </details>
 </article>
 
-<article class="method" id="m15">
+<article class="method" data-rv id="m15">
   <details>
     <summary>
       <div class="m-num">15</div>
@@ -1370,7 +1393,7 @@
   </details>
 </article>
 
-<article class="method" id="m16">
+<article class="method" data-rv id="m16">
   <details>
     <summary>
       <div class="m-num">16</div>
@@ -1424,7 +1447,7 @@
   </details>
 </article>
 
-<article class="method" id="m17">
+<article class="method" data-rv id="m17">
   <details>
     <summary>
       <div class="m-num">17</div>
@@ -1476,7 +1499,7 @@
   </details>
 </article>
 
-<article class="method" id="m18">
+<article class="method" data-rv id="m18">
   <details>
     <summary>
       <div class="m-num">18</div>
@@ -1528,7 +1551,7 @@
   </details>
 </article>
 
-<article class="method" id="m19">
+<article class="method" data-rv id="m19">
   <details>
     <summary>
       <div class="m-num">19</div>
@@ -1578,7 +1601,7 @@
   </details>
 </article>
 
-<article class="method" id="m20">
+<article class="method" data-rv id="m20">
   <details>
     <summary>
       <div class="m-num">20</div>
@@ -1628,7 +1651,7 @@
   </details>
 </article>
 
-<article class="method" id="m21">
+<article class="method" data-rv id="m21">
   <details>
     <summary>
       <div class="m-num">21</div>
@@ -1679,7 +1702,7 @@
   </details>
 </article>
 
-<article class="method" id="m22">
+<article class="method" data-rv id="m22">
   <details>
     <summary>
       <div class="m-num">22</div>
@@ -1730,7 +1753,7 @@
   </details>
 </article>
 
-<article class="method" id="m23">
+<article class="method" data-rv id="m23">
   <details>
     <summary>
       <div class="m-num">23</div>
@@ -1782,7 +1805,7 @@
   </details>
 </article>
 
-<article class="method" id="m24">
+<article class="method" data-rv id="m24">
   <details>
     <summary>
       <div class="m-num">24</div>
@@ -1835,7 +1858,7 @@
   </details>
 </article>
 
-<article class="method" id="m25">
+<article class="method" data-rv id="m25">
   <details>
     <summary>
       <div class="m-num">25</div>
@@ -1889,7 +1912,7 @@
 </article>
 </section>
 
-<section class="closing">
+<section class="closing" data-rv>
   <div class="closing-inner">
     <h2>Pick one, and try it this week</h2>
     <p>You don't have to memorise all twenty-five. The text itself doesn't expect you to. It offers you a catalogue, so that when one method doesn't fit the situation, you have twenty-four others to reach for. Bookmark this page. Come back to it the next time you feel the heat rising.</p>
@@ -1907,5 +1930,14 @@
   <p style="margin-top: 14px; font-size: 13px; color: #4a4d53;">Free, in keeping with the Buddha's instruction.</p>
 </footer>
 
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.1,rootMargin:'0px 0px -6% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
 </body>
 </html>
