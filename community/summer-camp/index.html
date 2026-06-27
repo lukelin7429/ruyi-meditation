@@ -4,15 +4,60 @@ title: Summer Camp
 permalink: /community/summer-camp/
 ---
 
+<script>var _d=document.documentElement;_d.classList.add('js');_d.classList.add('camp-js');</script>
+
+<style>
+  /* ============ SUMMER CAMP — color + motion layer ============ */
+  .js [data-rv]{opacity:0;transform:translateY(22px);
+    transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);transition-delay:var(--rvd,0s);}
+  .js [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js [data-rv],.camp-js .reveal{opacity:1 !important;transform:none !important;}}
+
+  /* warm colored hero (was a flat grey gradient) */
+  .page-header{position:relative;overflow:hidden;color:#fff;border-bottom:0;
+    background:radial-gradient(120% 90% at 80% 16%,rgba(201,145,47,.32),transparent 60%),
+               linear-gradient(155deg,#b8431c 0%,#a23916 40%,#8c2f12 100%);}
+  .page-header::after{content:"\2600";position:absolute;right:-30px;top:-86px;font-size:330px;line-height:1;
+    color:rgba(255,243,224,.10);pointer-events:none;}
+  .page-header-inner{position:relative;}
+  .page-header .eyebrow{color:#f3d79a;}
+  .page-header h1{color:#fff;}
+  .page-header h1 em{color:#f3d79a;}
+  .page-header .lede{color:#f7ebda;}
+  .page-header .crumb{color:#f7ebda;}
+  .page-header .crumb a{color:#f3d79a;}
+
+  /* camp year tiles — a distinct hue each, with a colored hover glow */
+  .camp-grid .camp-card:nth-child(8n+1){--ac:#b8431c;}
+  .camp-grid .camp-card:nth-child(8n+2){--ac:#0c8599;}
+  .camp-grid .camp-card:nth-child(8n+3){--ac:#7048e8;}
+  .camp-grid .camp-card:nth-child(8n+4){--ac:#2f9e44;}
+  .camp-grid .camp-card:nth-child(8n+5){--ac:#d6336c;}
+  .camp-grid .camp-card:nth-child(8n+6){--ac:#e8590c;}
+  .camp-grid .camp-card:nth-child(8n+7){--ac:#c9912f;}
+  .camp-grid .camp-card:nth-child(8n+8){--ac:#3b5bdb;}
+  .camp-card{--ac:#b8431c;}
+  .camp-card:hover{border-color:var(--ac);box-shadow:0 22px 46px -16px var(--ac),0 6px 16px rgba(20,24,31,.06);}
+  .camp-card .cc-body{position:relative;}
+  .camp-card .cc-body::before{content:"";position:absolute;left:0;right:0;top:0;height:3px;
+    background:linear-gradient(90deg,var(--ac),transparent);transform:scaleX(0);transform-origin:left center;transition:transform .4s cubic-bezier(.22,.61,.36,1);}
+  .camp-card:hover .cc-body::before{transform:scaleX(1);}
+  .cc-year{transition:color .25s ease;}
+  .camp-card:hover .cc-year{color:var(--ac);}
+  .cc-meta .arw{color:var(--ac);}
+  .cc-play::after{border-left-color:var(--ac);}
+  .cc-badge{background:var(--ac);}
+</style>
+
 <section class="page-header">
   <div class="page-header-inner">
     <nav class="crumb" aria-label="Breadcrumb">
       <a href="{{ '/community/' | relative_url }}">Community</a>
       <span>›</span>Summer Camp
     </nav>
-    <span class="eyebrow">Community · Summer Camp</span>
-    <h1>Every July, on the <em>mountain.</em></h1>
-    <p class="lede">A free summer camp for children and teenagers — a few days away from screens, and closer to nature, to each other, and to a quieter way of being.</p>
+    <span class="eyebrow" data-rv>Community · Summer Camp</span>
+    <h1 data-rv style="--rvd:.08s">Every July, on the <em>mountain.</em></h1>
+    <p class="lede" data-rv style="--rvd:.18s">A free summer camp for children and teenagers — a few days away from screens, and closer to nature, to each other, and to a quieter way of being.</p>
   </div>
 </section>
 
@@ -27,7 +72,7 @@ permalink: /community/summer-camp/
 
 <section class="section section-cream">
   <div class="section-inner">
-    <div class="section-head">
+    <div class="section-head" data-rv>
       <span class="eyebrow">The archive</span>
       <h2>Eight summers.</h2>
     </div>
@@ -98,3 +143,12 @@ permalink: /community/summer-camp/
     </div>
   </div>
 </section>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('.reveal,[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
