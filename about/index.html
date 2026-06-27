@@ -74,6 +74,33 @@ title: About
   .ab .team-card .person-zh{font-size:15px;color:var(--indigo);font-weight:600;margin:0 0 6px;}
   .ab .team-card .person-role{font-size:12px;letter-spacing:.13em;text-transform:uppercase;font-weight:700;color:var(--ink-soft);margin:0 0 14px;}
   .ab .team-card p:last-child{font-size:15px;line-height:1.65;color:var(--ink-soft);margin:0;}
+
+  /* ---- per-person accent color + homepage-style hover (added) ---- */
+  .ab .founder-card,.ab .team-card{--ac:var(--indigo);--ac2:var(--gold);}
+  .ab .founder-pair .founder-card:nth-child(1){--ac:#c9912f;--ac2:#e8c15a;}
+  .ab .founder-pair .founder-card:nth-child(2){--ac:#b8431c;--ac2:#e0a93f;}
+  .ab .team-grid .team-card:nth-child(1){--ac:#b8431c;--ac2:#e0a93f;}
+  .ab .team-grid .team-card:nth-child(2){--ac:#0c8599;--ac2:#3bc9db;}
+  .ab .team-grid .team-card:nth-child(3){--ac:#7048e8;--ac2:#b197fc;}
+  .ab .team-grid .team-card:nth-child(4){--ac:#2f9e44;--ac2:#69db7c;}
+  .ab .team-grid .team-card:nth-child(5){--ac:#e8590c;--ac2:#ffa94d;}
+
+  .ab .founder-card{border-top-color:var(--ac);}
+  .ab .team-card{border-bottom-color:var(--ac);}
+  .ab .founder-card::after,.ab .team-card::after{content:"";position:absolute;right:-50px;top:-50px;
+    width:150px;height:150px;border-radius:50%;pointer-events:none;
+    background:radial-gradient(circle at 32% 32%,var(--ac),transparent 70%);opacity:.07;
+    transition:opacity .35s ease,transform .55s cubic-bezier(.22,.61,.36,1);}
+  .ab .founder-card:hover::after,.ab .team-card:hover::after{opacity:.16;transform:scale(1.35);}
+  .ab .founder-card:hover{box-shadow:0 34px 58px -26px var(--ac);}
+  .ab .team-card:hover{box-shadow:0 28px 50px -24px var(--ac);}
+  .ab .founder-photo,.ab .team-photo{transition:border-color .3s ease,box-shadow .3s ease,transform .4s cubic-bezier(.34,1.56,.64,1);}
+  .ab .founder-card:hover .founder-photo,.ab .team-card:hover .team-photo{border-color:var(--ac);box-shadow:0 10px 22px -8px var(--ac);transform:scale(1.05);}
+  .ab .founder-card h3,.ab .team-card h3{transition:color .25s ease;}
+  .ab .founder-card:hover h3,.ab .team-card:hover h3{color:var(--ac);}
+  .ab .founder-card .person-zh,.ab .team-card .person-zh{color:var(--ac);}
+  /* role is now the last line on team cards — keep its compact size */
+  .ab .team-grid .team-card .person-role{font-size:12px;margin:0;}
 </style>
 
 <div class="ab">
@@ -156,31 +183,26 @@ title: About
           <h3>Luke Lin</h3>
           <p class="person-zh">林吉祥</p>
           <p class="person-role">Executive Director</p>
-          <p>Luke leads Ru-Yi's English-language teaching and writes most of the columns on this site. A lifelong English teacher in Taiwan, he has spent decades working at the seam between language education and the Buddhist tradition.</p>
         </div>
         <div class="team-card" data-rv style="transition-delay:.06s">
           <img class="team-photo" src="{{ '/assets/images/team/lucien.jpg' | relative_url }}" alt="Lucien Hsieh">
           <h3>Lucien Hsieh</h3>
           <p class="person-role">Deputy Executive Director</p>
-          <p>Supports center operations and program coordination.</p>
         </div>
         <div class="team-card" data-rv style="transition-delay:.12s">
           <img class="team-photo" src="{{ '/assets/images/team/jennafer.jpg' | relative_url }}" alt="Jennafer Duerden">
           <h3>Jennafer Duerden</h3>
           <p class="person-role">Writer / Editor</p>
-          <p>Contributes regular columns on right livelihood, ethics, and the practical edges of the Buddhist life.</p>
         </div>
         <div class="team-card" data-rv style="transition-delay:.06s">
           <img class="team-photo" src="{{ '/assets/images/team/dom.jpg' | relative_url }}" alt="Dom Jones">
           <h3>Dom Jones</h3>
           <p class="person-role">Teacher</p>
-          <p>Teaches in our English-language programs.</p>
         </div>
         <div class="team-card" data-rv style="transition-delay:.12s">
           <img class="team-photo" src="{{ '/assets/images/team/david.jpg' | relative_url }}" alt="David Wei">
           <h3>David Wei</h3>
           <p class="person-role">Social Media Lead</p>
-          <p>Brings the center's work to wider audiences online.</p>
         </div>
       </div>
     </div>
