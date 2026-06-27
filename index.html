@@ -3,22 +3,73 @@ layout: default
 title: Home
 ---
 
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  /* ============ HOMEPAGE — color + motion layer ============ */
+  /* scroll reveal */
+  .js .page-home [data-rv]{opacity:0;transform:translateY(24px);
+    transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);transition-delay:var(--rvd,0s);}
+  .js .page-home [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js .page-home [data-rv]{opacity:1 !important;transform:none !important;}}
+
+  /* hero intro */
+  .js .page-home .hero-text [data-rv]{transition-delay:var(--rvd,0s);}
+  .page-home .hero .gold-rule[data-rv]{transform-origin:center;}
+  .js .page-home .hero .gold-rule[data-rv]{transform:scaleX(.2);opacity:0;
+    transition:transform .9s cubic-bezier(.22,.61,.36,1) var(--rvd,0s),opacity .6s ease var(--rvd,0s);}
+  .js .page-home .hero .gold-rule[data-rv].in{transform:scaleX(1);opacity:1;}
+
+  /* ---- entry cards: a distinct hue per door ---- */
+  .page-home .entry-grid .entry-card:nth-child(1){--accent:#b8431c;--accent2:#e0a93f;}
+  .page-home .entry-grid .entry-card:nth-child(2){--accent:#0c8599;--accent2:#3bc9db;--rvd:.1s;}
+  .page-home .entry-grid .entry-card:nth-child(3){--accent:#7048e8;--accent2:#b197fc;--rvd:.2s;}
+  .page-home .entry-card{--accent:#b8431c;--accent2:#e0a93f;}
+  .page-home .entry-card.live{border-color:var(--accent);}
+  .page-home .entry-card.live::before{background:linear-gradient(180deg,var(--accent),var(--accent2));width:6px;}
+  .page-home .entry-card::after{content:"";position:absolute;right:-55px;top:-55px;width:170px;height:170px;border-radius:50%;
+    background:radial-gradient(circle at 32% 32%,var(--accent),transparent 70%);opacity:.08;pointer-events:none;
+    transition:opacity .35s ease,transform .6s cubic-bezier(.22,.61,.36,1);}
+  .page-home .entry-card.live:hover{transform:translateY(-8px);border-color:var(--accent);
+    box-shadow:0 26px 52px -20px var(--accent),0 6px 16px rgba(20,24,31,.06);}
+  .page-home .entry-card.live:hover::after{opacity:.18;transform:scale(1.3);}
+  .page-home .entry-card .card-tag{color:var(--accent);}
+  .page-home .entry-card .card-tag .live-dot{background:var(--accent);box-shadow:0 0 0 3px rgba(0,0,0,.05);}
+  .page-home .entry-card .card-action{color:var(--accent);}
+
+  /* ---- recent column cards: cycling accent rail ---- */
+  .page-home .recent-grid .recent-card:nth-child(6n+1){--accent:#b8431c;}
+  .page-home .recent-grid .recent-card:nth-child(6n+2){--accent:#0c8599;}
+  .page-home .recent-grid .recent-card:nth-child(6n+3){--accent:#7048e8;}
+  .page-home .recent-grid .recent-card:nth-child(6n+4){--accent:#2f9e44;}
+  .page-home .recent-grid .recent-card:nth-child(6n+5){--accent:#d6336c;}
+  .page-home .recent-grid .recent-card:nth-child(6n+6){--accent:#e8590c;}
+  .page-home .recent-card{--accent:#b8431c;position:relative;overflow:hidden;}
+  .page-home .recent-card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;
+    background:linear-gradient(180deg,var(--accent),transparent 90%);}
+  .page-home .recent-card::after{content:"";position:absolute;right:-40px;bottom:-40px;width:110px;height:110px;border-radius:50%;
+    background:radial-gradient(circle at 30% 30%,var(--accent),transparent 70%);opacity:0;pointer-events:none;transition:opacity .35s ease;}
+  .page-home .recent-card:hover{transform:translateY(-5px);border-color:var(--accent);box-shadow:0 18px 38px -20px var(--accent);}
+  .page-home .recent-card:hover::after{opacity:.12;}
+  .page-home .recent-card .card-meta{color:var(--accent);}
+</style>
+
 <!-- ============ HERO ============ -->
 <header class="hero">
   <div class="hero-grid">
     <div class="hero-text">
-      <div class="parent-mark">如意精舍 · Founded 2017 · Nantou, Taiwan</div>
-      <h1>Another path<br><em>to happiness.</em></h1>
-      <div class="gold-rule"></div>
-      <p class="vision">In a world dominated by daily pressure, work, and success measured in possessions, Ru-Yi offers a different way — meditation and dharma, taught freely to everyone willing to learn.</p>
-      <div class="cta-row">
+      <div class="parent-mark" data-rv>如意精舍 · Founded 2017 · Nantou, Taiwan</div>
+      <h1 data-rv style="--rvd:.08s">Another path<br><em>to happiness.</em></h1>
+      <div class="gold-rule" data-rv style="--rvd:.18s"></div>
+      <p class="vision" data-rv style="--rvd:.26s">In a world dominated by daily pressure, work, and success measured in possessions, Ru-Yi offers a different way — meditation and dharma, taught freely to everyone willing to learn.</p>
+      <div class="cta-row" data-rv style="--rvd:.34s">
         <a href="{{ '/columns/' | relative_url }}" class="btn btn-primary">
           Read the columns
           <span class="arrow">→</span>
         </a>
         <a href="{{ '/about/' | relative_url }}" class="btn btn-ghost">About Ru-Yi</a>
       </div>
-      <div class="hero-meta">
+      <div class="hero-meta" data-rv style="--rvd:.42s">
         <span class="dot"></span>
         {{ site.columns | size }} essays &nbsp;·&nbsp; Free, since 2017
       </div>
@@ -29,8 +80,8 @@ title: Home
 <!-- ============ MISSION (Luke's original prose) ============ -->
 <section class="section section-cream">
   <div class="section-inner section-narrow">
-    <span class="eyebrow">Our mission</span>
-    <h2>Life is short.</h2>
+    <span class="eyebrow" data-rv>Our mission</span>
+    <h2 data-rv style="--rvd:.08s">Life is short.</h2>
     <p class="lede">Most of us spend our lives running. Daily pressure, work, the next thing to acquire — and a quiet sense that something is still missing. Ru-Yi exists to offer another path: one where success is something you define for yourself, and meaning is something you cultivate, rather than something you buy.</p>
     <p class="lede" style="margin-top: 28px;">We do this the simplest way we know how — by sharing what meditation and the dharma have taught us. Our classes are free, open to anyone, and welcome the complete beginner as readily as the long-time practitioner. There is no enrollment, no fee, no entrance test. Come learn how to calm a busy mind, and think honestly about what you actually want from your life.</p>
     <p class="lede" style="margin-top: 28px;">Our hope is to grow a community of practitioners who keep each other honest — bringing the wisdom of the Buddha to bear on the questions that actually matter today: how we work, how we treat each other, how we face uncertainty and our own mortality. If any of that calls to you, you are already welcome here.</p>
@@ -40,13 +91,13 @@ title: Home
 <!-- ============ THREE OFFERINGS (Luke's original copy verbatim) ============ -->
 <section id="begin" class="section section-white">
   <div class="section-inner">
-    <div class="section-head">
+    <div class="section-head" data-rv>
       <span class="eyebrow">What we offer</span>
       <h2>Three doors into the practice.</h2>
     </div>
 
     <div class="entry-grid">
-      <div class="entry-card live">
+      <div class="entry-card live" data-rv>
         <span class="card-tag">Mental Clarity</span>
         <h3>Calm the mind.</h3>
         <p class="card-sub">心智清明</p>
@@ -54,7 +105,7 @@ title: Home
         <span class="card-action">Begin with the columns →</span>
       </div>
 
-      <div class="entry-card live">
+      <div class="entry-card live" data-rv>
         <span class="card-tag">Community Support</span>
         <h3>Walk together.</h3>
         <p class="card-sub">社群陪伴</p>
@@ -62,7 +113,7 @@ title: Home
         <span class="card-action">About the center →</span>
       </div>
 
-      <div class="entry-card live">
+      <div class="entry-card live" data-rv>
         <span class="card-tag">New Perspectives</span>
         <h3>See more clearly.</h3>
         <p class="card-sub">嶄新視角</p>
@@ -76,14 +127,14 @@ title: Home
 <!-- ============ ENTRY POINTS — Columns / Discourses / About ============ -->
 <section class="section section-cream">
   <div class="section-inner">
-    <div class="section-head">
+    <div class="section-head" data-rv>
       <span class="eyebrow">Where to begin</span>
       <h2>Choose your starting point.</h2>
       <p class="lede">Three places to enter Ru-Yi, depending on what you're looking for today.</p>
     </div>
 
     <div class="entry-grid">
-      <a href="{{ '/columns/' | relative_url }}" class="entry-card live">
+      <a href="{{ '/columns/' | relative_url }}" class="entry-card live" data-rv>
         <span class="card-tag"><span class="live-dot"></span>{{ site.columns | size }} essays</span>
         <h3>The Columns</h3>
         <p class="card-sub">Buddhist wisdom meets contemporary life</p>
@@ -91,7 +142,7 @@ title: Home
         <span class="card-action">Browse all columns →</span>
       </a>
 
-      <a href="{{ '/dharma/' | relative_url }}" class="entry-card live">
+      <a href="{{ '/dharma/' | relative_url }}" class="entry-card live" data-rv>
         <span class="card-tag"><span class="live-dot"></span>Discourses · Treatises · Methods</span>
         <h3>The Dharma</h3>
         <p class="card-sub">The Buddha's teachings, in plain English</p>
@@ -99,7 +150,7 @@ title: Home
         <span class="card-action">Enter the Dharma →</span>
       </a>
 
-      <a href="{{ '/english-school/' | relative_url }}" class="entry-card live">
+      <a href="{{ '/english-school/' | relative_url }}" class="entry-card live" data-rv>
         <span class="card-tag"><span class="live-dot"></span>Lessons · 24 weeks</span>
         <h3>The English School</h3>
         <p class="card-sub">English for the mind and the heart</p>
@@ -113,7 +164,7 @@ title: Home
 <!-- ============ INVITATION — Going for Refuge ============ -->
 <section class="section refuge-band">
   <div class="section-inner">
-    <a href="{{ '/three-refuges/' | relative_url }}" class="refuge-invite">
+    <a href="{{ '/three-refuges/' | relative_url }}" class="refuge-invite" data-rv>
       <span class="refuge-invite-mark" aria-hidden="true">☸</span>
       <div class="refuge-invite-body">
         <span class="refuge-invite-tag">Going for refuge · 三皈依</span>
@@ -127,8 +178,8 @@ title: Home
 
 <!-- ============ VISION QUOTE (dark) ============ -->
 <section class="section section-dark vision-section">
-  <span class="eyebrow on-dark">Our dream</span>
-  <blockquote class="big-quote">
+  <span class="eyebrow on-dark" data-rv>Our dream</span>
+  <blockquote class="big-quote" data-rv>
     <span class="quote-mark">"</span>A supportive, welcoming community of meditation practitioners — to help improve the quality of our own lives and the lives of those around us.<span class="quote-mark">"</span>
   </blockquote>
   <div class="quote-attribution">Ru-Yi Meditation Center · since 2017</div>
@@ -137,7 +188,7 @@ title: Home
 <!-- ============ RECENT COLUMNS ============ -->
 <section class="section section-white">
   <div class="section-inner">
-    <div class="section-head">
+    <div class="section-head" data-rv>
       <span class="eyebrow">Recent writing</span>
       <h2>From the columns.</h2>
       <p class="lede">The most recent essays from the center. The full archive of {{ site.columns | size }} pieces — by Luke Lin, Jennafer Duerden, Emily Hogle, and Quentin Gooch — is one click away.</p>
@@ -166,7 +217,7 @@ title: Home
 <!-- ============ CONTACT ============ -->
 <section class="section section-cream">
   <div class="section-inner section-narrow">
-    <div class="contact-card">
+    <div class="contact-card" data-rv>
       <span class="eyebrow">Get in touch</span>
       <h2>Visit us, or write.</h2>
       <p>Our center sits at 800 metres on Fengguidou mountain in Nantou's Xinyi Township. Mandarin-speaking visitors can also find us through our Chinese sister site, <a href="https://ruyi99.org">如意精舍 · ruyi99.org</a>, where event schedules and video archives live.</p>
@@ -174,3 +225,12 @@ title: Home
     </div>
   </div>
 </section>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('.page-home [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>

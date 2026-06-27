@@ -4,18 +4,81 @@ title: Going for Refuge
 permalink: /three-refuges/
 ---
 
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  /* ============ THREE REFUGES — color + motion layer ============ */
+  .js [data-rv]{opacity:0;transform:translateY(22px);
+    transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);transition-delay:var(--rvd,0s);}
+  .js [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js [data-rv]{opacity:1 !important;transform:none !important;}}
+
+  /* warm colored hero (was a flat grey gradient) */
+  .page-header{position:relative;overflow:hidden;color:#fff;border-bottom:0;
+    background:radial-gradient(120% 90% at 80% 16%,rgba(201,145,47,.32),transparent 60%),
+               linear-gradient(155deg,#b8431c 0%,#a23916 40%,#8c2f12 100%);}
+  .page-header::after{content:"\262F";position:absolute;right:-26px;top:-78px;font-size:340px;line-height:1;
+    color:rgba(255,243,224,.10);pointer-events:none;}
+  .page-header .eyebrow{color:#f3d79a;}
+  .page-header h1{color:#fff;position:relative;}
+  .page-header h1 em{color:#f3d79a;}
+  .page-header .lede{color:#f7ebda;position:relative;}
+
+  /* refuge cards — one hue each */
+  .refuges-grid .refuge-card:nth-child(1){--ac:#c9912f;--ac2:#e8c15a;}
+  .refuges-grid .refuge-card:nth-child(2){--ac:#2f9e44;--ac2:#69db7c;--rvd:.1s;}
+  .refuges-grid .refuge-card:nth-child(3){--ac:#7048e8;--ac2:#b197fc;--rvd:.2s;}
+  .refuge-card{--ac:#b8431c;--ac2:#e0a93f;position:relative;overflow:hidden;border-top-color:var(--ac);
+    transition:transform .3s cubic-bezier(.22,.61,.36,1),box-shadow .3s,border-color .3s;}
+  .refuge-card::after{content:"";position:absolute;right:-50px;top:-50px;width:150px;height:150px;border-radius:50%;
+    background:radial-gradient(circle at 32% 32%,var(--ac),transparent 70%);opacity:.08;pointer-events:none;transition:opacity .35s,transform .5s;}
+  .refuge-card:hover{transform:translateY(-6px);border-color:var(--ac);box-shadow:0 24px 46px -22px var(--ac);}
+  .refuge-card:hover::after{opacity:.16;transform:scale(1.3);}
+  .refuge-card .refuge-num,.refuge-card .refuge-pali{color:var(--ac);}
+
+  /* precept numbers cycle through the palette */
+  .precept-row:nth-child(1) .precept-num{color:#b8431c;}
+  .precept-row:nth-child(2) .precept-num{color:#0c8599;}
+  .precept-row:nth-child(3) .precept-num{color:#7048e8;}
+  .precept-row:nth-child(4) .precept-num{color:#2f9e44;}
+  .precept-row:nth-child(5) .precept-num{color:#d6336c;}
+
+  /* step numbers cycle */
+  .step-row:nth-child(7n+1) .step-num{color:#b8431c;}
+  .step-row:nth-child(7n+2) .step-num{color:#0c8599;}
+  .step-row:nth-child(7n+3) .step-num{color:#7048e8;}
+  .step-row:nth-child(7n+4) .step-num{color:#2f9e44;}
+  .step-row:nth-child(7n+5) .step-num{color:#d6336c;}
+  .step-row:nth-child(7n+6) .step-num{color:#e8590c;}
+  .step-row:nth-child(7n+7) .step-num{color:#c9912f;}
+
+  /* faq — colored accent rail per item */
+  .faq-grid .faq-item:nth-child(6n+1){--ac:#b8431c;}
+  .faq-grid .faq-item:nth-child(6n+2){--ac:#0c8599;--rvd:.08s;}
+  .faq-grid .faq-item:nth-child(6n+3){--ac:#7048e8;--rvd:.1s;}
+  .faq-grid .faq-item:nth-child(6n+4){--ac:#2f9e44;--rvd:.16s;}
+  .faq-grid .faq-item:nth-child(6n+5){--ac:#d6336c;--rvd:.2s;}
+  .faq-grid .faq-item:nth-child(6n+6){--ac:#e8590c;--rvd:.26s;}
+  .faq-item{--ac:#b8431c;position:relative;padding-left:20px;transition:transform .25s ease;}
+  .faq-item::before{content:"";position:absolute;left:0;top:5px;bottom:5px;width:4px;border-radius:4px;
+    background:linear-gradient(180deg,var(--ac),transparent 92%);}
+  .faq-item:hover{transform:translateX(3px);}
+  .faq-item h3{transition:color .25s ease;}
+  .faq-item:hover h3{color:var(--ac);}
+</style>
+
 <section class="page-header">
   <div class="page-header-inner">
-    <span class="eyebrow">Practice · A starting point</span>
-    <h1>Going for <em>refuge.</em></h1>
-    <p class="lede">Every Buddhist tradition begins in the same place — with three short lines, said with care. They mark the moment you decide, in your own time, that the Buddha's path is one you would like to learn. This page explains what those lines mean, what you can take on alongside them, and how to make them your own.</p>
+    <span class="eyebrow" data-rv>Practice · A starting point</span>
+    <h1 data-rv style="--rvd:.08s">Going for <em>refuge.</em></h1>
+    <p class="lede" data-rv style="--rvd:.18s">Every Buddhist tradition begins in the same place — with three short lines, said with care. They mark the moment you decide, in your own time, that the Buddha's path is one you would like to learn. This page explains what those lines mean, what you can take on alongside them, and how to make them your own.</p>
   </div>
 </section>
 
 <section class="about-section">
   <div class="about-inner section-narrow">
-    <span class="eyebrow">What "refuge" actually means</span>
-    <h2>It is an orientation, not an escape.</h2>
+    <span class="eyebrow" data-rv>What "refuge" actually means</span>
+    <h2 data-rv>It is an orientation, not an escape.</h2>
     <p class="lede">The English word <em>refuge</em> can sound like a hiding place. The Buddhist sense is closer to <em>turning toward</em>. In Pali, the verb is <em>saraṇaṃ gacchāmi</em> — "I go for refuge." Not run from. Go toward. You are choosing something reliable to act from, so that the rest of your life can be lived from a steadier place.</p>
     <p class="lede" style="margin-top: 24px;"><strong>You are not converting.</strong> Going for refuge is not a renunciation of whatever religious tradition you grew up in. Many people who go for refuge have a Christian, Jewish, or Muslim background; many have none at all. The act is closer to enrolling in a school than swearing allegiance to a flag — you have decided to learn from a particular teacher and tradition, and you are naming that out loud.</p>
     <p class="lede" style="margin-top: 24px;"><strong>You are not promising perfection.</strong> Refuge is not a vow to be enlightened by Friday. It marks an intention: to take the Buddha as a teacher worth listening to, the Dharma as a teaching worth studying, and the Sangha as a community worth being part of.</p>
@@ -25,12 +88,12 @@ permalink: /three-refuges/
 
 <section class="about-section cream">
   <div class="about-inner section-narrow">
-    <span class="eyebrow">The three refuges</span>
-    <h2>Three lines, one path.</h2>
+    <span class="eyebrow" data-rv>The three refuges</span>
+    <h2 data-rv>Three lines, one path.</h2>
     <p class="lede">The same three lines anchor every Buddhist tradition — Theravāda, Mahāyāna, and Vajrayāna alike. Each one names something you can lean on: a teacher, a teaching, a company of fellow travellers.</p>
 
     <div class="refuges-grid">
-      <div class="refuge-card">
+      <div class="refuge-card" data-rv>
         <div class="refuge-num">First refuge</div>
         <h3>Buddha</h3>
         <p class="refuge-pali">Buddhaṃ saraṇaṃ gacchāmi</p>
@@ -38,7 +101,7 @@ permalink: /three-refuges/
         <p>The Buddha was a historical person — Siddhattha Gotama, who taught in northern India about 2,500 years ago. To take refuge in him is not to worship him. It is to accept that someone, once, found a way through human suffering, and to commit to learning what he learned.</p>
       </div>
 
-      <div class="refuge-card">
+      <div class="refuge-card" data-rv>
         <div class="refuge-num">Second refuge</div>
         <h3>Dharma</h3>
         <p class="refuge-pali">Dhammaṃ saraṇaṃ gacchāmi</p>
@@ -46,7 +109,7 @@ permalink: /three-refuges/
         <p>The Dharma is what the Buddha taught: the Four Noble Truths, the Eightfold Path, the practices of ethics, meditation, and wisdom. To take refuge in it is to study it seriously enough that, in time, it begins to shape how you see things.</p>
       </div>
 
-      <div class="refuge-card">
+      <div class="refuge-card" data-rv>
         <div class="refuge-num">Third refuge</div>
         <h3>Sangha</h3>
         <p class="refuge-pali">Saṅghaṃ saraṇaṃ gacchāmi</p>
@@ -59,12 +122,12 @@ permalink: /three-refuges/
 
 <section class="about-section">
   <div class="about-inner section-narrow">
-    <span class="eyebrow">The five precepts</span>
-    <h2>Five training rules, taken on freely.</h2>
+    <span class="eyebrow" data-rv>The five precepts</span>
+    <h2 data-rv>Five training rules, taken on freely.</h2>
     <p class="lede">After going for refuge, a practitioner usually takes on a small set of ethical commitments — the Five Precepts. They are not commandments handed down from above. They are training rules you take on yourself, because each one, kept, makes the mind clearer and the heart lighter. You can take them all today, or one at a time. Most teachers will tell you the same thing: start where you can keep your word.</p>
 
     <div class="precepts-list">
-      <div class="precept-row">
+      <div class="precept-row" data-rv>
         <div class="precept-num">01</div>
         <div class="precept-body">
           <h3>Refrain from killing.</h3>
@@ -73,7 +136,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="precept-row">
+      <div class="precept-row" data-rv>
         <div class="precept-num">02</div>
         <div class="precept-body">
           <h3>Refrain from taking what is not given.</h3>
@@ -82,7 +145,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="precept-row">
+      <div class="precept-row" data-rv>
         <div class="precept-num">03</div>
         <div class="precept-body">
           <h3>Refrain from sexual misconduct.</h3>
@@ -91,7 +154,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="precept-row">
+      <div class="precept-row" data-rv>
         <div class="precept-num">04</div>
         <div class="precept-body">
           <h3>Refrain from false speech.</h3>
@@ -100,7 +163,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="precept-row">
+      <div class="precept-row" data-rv>
         <div class="precept-num">05</div>
         <div class="precept-body">
           <h3>Refrain from intoxicants that cloud the mind.</h3>
@@ -114,12 +177,12 @@ permalink: /three-refuges/
 
 <section class="about-section cream">
   <div class="about-inner section-narrow">
-    <span class="eyebrow">A simple way to begin</span>
-    <h2>You can do this today, alone.</h2>
+    <span class="eyebrow" data-rv>A simple way to begin</span>
+    <h2 data-rv>You can do this today, alone.</h2>
     <p class="lede">If you would like to go for refuge now, here is a short ceremony you can follow by yourself. Take your time with it. Nothing rushes a beginning.</p>
 
     <div class="steps-list">
-      <div class="step-row">
+      <div class="step-row" data-rv>
         <div class="step-num">1</div>
         <div class="step-body">
           <h3>Find a quiet place.</h3>
@@ -127,7 +190,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="step-row">
+      <div class="step-row" data-rv>
         <div class="step-num">2</div>
         <div class="step-body">
           <h3>Settle the body and mind.</h3>
@@ -135,7 +198,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="step-row">
+      <div class="step-row" data-rv>
         <div class="step-num">3</div>
         <div class="step-body">
           <h3>Reflect briefly on why you are here.</h3>
@@ -143,7 +206,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="step-row">
+      <div class="step-row" data-rv>
         <div class="step-num">4</div>
         <div class="step-body">
           <h3>Recite the three refuges, three times.</h3>
@@ -157,7 +220,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="step-row">
+      <div class="step-row" data-rv>
         <div class="step-num">5</div>
         <div class="step-body">
           <h3>Take on the precepts you are ready for.</h3>
@@ -172,7 +235,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="step-row">
+      <div class="step-row" data-rv>
         <div class="step-num">6</div>
         <div class="step-body">
           <h3>Sit quietly for a few minutes.</h3>
@@ -180,7 +243,7 @@ permalink: /three-refuges/
         </div>
       </div>
 
-      <div class="step-row">
+      <div class="step-row" data-rv>
         <div class="step-num">7</div>
         <div class="step-body">
           <h3>Dedicate the merit. (Optional.)</h3>
@@ -196,36 +259,36 @@ permalink: /three-refuges/
 
 <section class="about-section">
   <div class="about-inner section-narrow">
-    <span class="eyebrow">Common questions</span>
-    <h2>What people usually ask.</h2>
+    <span class="eyebrow" data-rv>Common questions</span>
+    <h2 data-rv>What people usually ask.</h2>
 
     <div class="faq-grid">
-      <div class="faq-item">
+      <div class="faq-item" data-rv>
         <h3>Do I need a teacher to do this?</h3>
         <p>For the act itself, no — the Buddhist tradition has always recognised that intention is what counts. For the path that follows, yes, sooner or later. A teacher can show you what a book cannot.</p>
       </div>
 
-      <div class="faq-item">
+      <div class="faq-item" data-rv>
         <h3>Am I leaving my old religion?</h3>
         <p>Only if you want to. The Buddhist tradition has no creed about other religions, and no requirement to renounce one. Many practitioners hold both — going to a Buddhist temple on Sunday morning, a church on Sunday evening, with no felt contradiction.</p>
       </div>
 
-      <div class="faq-item">
+      <div class="faq-item" data-rv>
         <h3>What if I am not sure I believe everything in Buddhism?</h3>
         <p>You do not have to. The Buddha himself encouraged students to test what he said. Going for refuge is a statement of intent to study, not a profession of faith. Belief, if it comes, comes from practice — not the other way around.</p>
       </div>
 
-      <div class="faq-item">
+      <div class="faq-item" data-rv>
         <h3>Is one tradition's refuge different from another's?</h3>
         <p>The three lines are the same across Theravāda, Mahāyāna, and Vajrayāna — every Buddhist tradition begins here. The ceremonies around them differ in detail; the heart of the act is identical.</p>
       </div>
 
-      <div class="faq-item">
+      <div class="faq-item" data-rv>
         <h3>Can I take refuge for a child, or as a child?</h3>
         <p>A young child can take refuge with a parent's guidance. For the formal version, most teachers will want the practitioner to be old enough to understand the words. There is no hard age — readiness is the measure.</p>
       </div>
 
-      <div class="faq-item">
+      <div class="faq-item" data-rv>
         <h3>What comes next?</h3>
         <p>Sit. Read. Find others on the path. If you would like a teacher's guidance, write to us. Most practitioners begin a daily meditation around the same time as taking refuge — twenty minutes is plenty to start.</p>
       </div>
@@ -235,8 +298,8 @@ permalink: /three-refuges/
 
 <section class="about-section cream">
   <div class="about-inner section-narrow" style="text-align: center;">
-    <span class="eyebrow">If you would like to do this formally</span>
-    <h2>We would be glad to walk with you.</h2>
+    <span class="eyebrow" data-rv>If you would like to do this formally</span>
+    <h2 data-rv>We would be glad to walk with you.</h2>
     <p class="lede" style="margin-left: auto; margin-right: auto;">If you would like the traditional ceremony — with a monastic reciting the refuges alongside you, and the chance to ask whatever questions remain — please write. We hold informal refuge ceremonies for visitors at Ru-Yi, and remote ceremonies, by video call, for practitioners abroad.</p>
     <div class="cta-row" style="justify-content: center; margin-top: 40px;">
       <a class="btn btn-primary" href="mailto:ruyi@ruyimeditation.org?subject=Refuge%20ceremony%20enquiry">Write to us <span class="arrow">→</span></a>
@@ -244,3 +307,12 @@ permalink: /three-refuges/
     </div>
   </div>
 </section>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
