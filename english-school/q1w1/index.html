@@ -43,18 +43,20 @@ a{color:var(--rust);text-decoration:none;}
 a:hover{text-decoration:underline;}
 .wrap{max-width:var(--max);margin:0 auto;padding:0 26px;}
 
-/* ===== SITE HEADER (matches ruyimeditation.org) ===== */
-.site-header{border-bottom:1px solid var(--rule);background:#fff;}
-.header-inner{max-width:1100px;margin:0 auto;padding:16px 26px;display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;}
-.brand{display:flex;align-items:center;gap:11px;color:var(--ink);}
+/* ===== SITE HEADER (verbatim from /assets/css/style.css — must stay pixel-identical) ===== */
+.site-header{background:rgba(255,255,255,.94);backdrop-filter:saturate(180%) blur(10px);-webkit-backdrop-filter:saturate(180%) blur(10px);border-bottom:1px solid #e7e7ea;position:sticky;top:0;z-index:100;}
+.header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
 .brand:hover{text-decoration:none;}
-.brand-logo{width:40px;height:40px;}
-.brand-name{font-family:'Playfair Display',serif;font-size:21px;font-weight:600;letter-spacing:.01em;}
-.brand-name em{font-style:italic;font-weight:500;color:var(--green-deep);}
-.site-nav{display:flex;gap:22px;font-size:15px;flex-wrap:wrap;}
-.site-nav a{color:var(--ink-2);font-weight:500;}
-.site-nav a:hover{color:var(--rust);text-decoration:none;}
-.site-nav a.active{color:var(--rust);}
+.brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-nav{display:flex;gap:32px;}
+.site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;position:relative;padding:4px 0;}
+.site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-nav a.active{color:#1a1a1a;}
+.site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.header-inner{padding:0 22px;min-height:64px;gap:16px;}.brand-name{display:none;}.site-nav{gap:18px;}.site-nav a{font-size:14px;}}
 
 /* ===== HERO ===== */
 .les-hero{background:linear-gradient(160deg,#f3f7f4 0%,#eef4f1 60%,#fbf3e2 100%);border-bottom:1px solid var(--rule);padding:34px 0 38px;}
@@ -489,7 +491,7 @@ main{padding:48px 0 40px;}
 <!-- SITE FOOTER -->
 <footer class="site-footer">
   <div class="footer-inner">
-    <p style="font-family:'Playfair Display',serif;font-size:18px;color:#e7e2d6;margin-bottom:6px;">Ru-Yi Meditation Center · 如意禪修中心</p>
+    <p style="font-family:'Playfair Display',serif;font-size:18px;color:#e7e2d6;margin-bottom:6px;">Ru-Yi Meditation Center · 如意精舍</p>
     <p>Founded 2017 · Nantou, Taiwan. The Ru-Yi English School integrates English learning with the cultivation of the heart.</p>
     <p>中文姊妹站 · <a href="https://ruyi99.org" target="_blank" rel="noopener">如意精舍 ruyi99.org</a></p>
     <div class="footer-bottom">

@@ -1,6 +1,6 @@
 # Ru-Yi Meditation Center — Website
 
-The English-language website of Ru-Yi Meditation Center (南投信義鄉如意禪修中心), built as a Jekyll site served from GitHub Pages.
+The English-language website of Ru-Yi Meditation Center (南投信義鄉如意精舍), built as a Jekyll site served from GitHub Pages.
 
 - Live (preview): https://lukelin7429.github.io/ruyi-meditation/
 - Target production domain: `ruyimeditation.org` (after DNS cutover from GoDaddy Website Builder)
