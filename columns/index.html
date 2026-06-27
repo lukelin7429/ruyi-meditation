@@ -37,16 +37,24 @@ title: Columns
   @media(min-width:560px){.col-pg .author-directory-grid{grid-template-columns:1fr 1fr;}}
   @media(min-width:880px){.col-pg .author-directory-grid{grid-template-columns:repeat(4,1fr);}}
 
-  .col-pg .author-chip{position:relative;display:flex;flex-direction:column;gap:5px;text-decoration:none;
+  .col-pg .author-chip{--ac:var(--rust);--ac2:var(--gold);position:relative;display:flex;flex-direction:column;gap:5px;text-decoration:none;
     background:#fff;border:1px solid var(--line);border-radius:16px;padding:24px 22px 22px;overflow:hidden;
     box-shadow:0 14px 30px -22px rgba(140,47,18,.4);
-    transition:transform .28s cubic-bezier(.22,.61,.36,1),box-shadow .28s;}
-  .col-pg .author-chip::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;
-    background:linear-gradient(180deg,var(--rust),var(--gold));}
-  .col-pg .author-chip:hover{transform:translateY(-5px);text-decoration:none;box-shadow:0 24px 44px -22px rgba(140,47,18,.5);}
-  .col-pg .author-chip-name{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);line-height:1.15;}
-  .col-pg .author-chip-role{font-size:13px;color:var(--rust-deep);font-weight:600;letter-spacing:.01em;}
-  .col-pg .author-chip-count{margin-top:6px;font-size:12.5px;letter-spacing:.04em;color:var(--ink-soft);
+    transition:transform .28s cubic-bezier(.22,.61,.36,1),box-shadow .28s,border-color .28s;}
+  .col-pg .author-chip::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;
+    background:linear-gradient(180deg,var(--ac),var(--ac2));}
+  .col-pg .author-chip::after{content:"";position:absolute;right:-40px;top:-40px;width:120px;height:120px;border-radius:50%;
+    background:radial-gradient(circle at 30% 30%,var(--ac),transparent 70%);opacity:.1;transition:opacity .3s,transform .4s;}
+  .col-pg .author-chip:hover{transform:translateY(-6px);text-decoration:none;border-color:var(--ac);box-shadow:0 26px 46px -22px var(--ac);}
+  .col-pg .author-chip:hover::after{opacity:.2;transform:scale(1.3);}
+  .col-pg .author-chip-badge{position:relative;width:46px;height:46px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+    font-family:'Playfair Display',serif;font-size:19px;font-weight:600;color:#fff;margin-bottom:8px;
+    background:linear-gradient(135deg,var(--ac),var(--ac2));box-shadow:0 8px 18px -8px var(--ac);
+    transition:transform .35s cubic-bezier(.34,1.56,.64,1);}
+  .col-pg .author-chip:hover .author-chip-badge{transform:rotate(-6deg) scale(1.08);}
+  .col-pg .author-chip-name{position:relative;font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);line-height:1.15;}
+  .col-pg .author-chip-role{position:relative;font-size:13px;color:var(--ac);font-weight:700;letter-spacing:.01em;}
+  .col-pg .author-chip-count{position:relative;margin-top:6px;font-size:12.5px;letter-spacing:.04em;color:var(--ink-soft);
     text-transform:uppercase;font-weight:600;}
 
   /* ---- AUTHOR SECTIONS + FEATURE CARDS ---- */
@@ -62,25 +70,43 @@ title: Columns
   @media(min-width:680px){.col-pg .col-feature-grid{grid-template-columns:1fr 1fr;}}
   @media(min-width:980px){.col-pg .col-feature-grid{grid-template-columns:repeat(3,1fr);}}
 
-  .col-pg .col-feature{position:relative;display:flex;flex-direction:column;text-decoration:none;
-    background:linear-gradient(180deg,#fffdf9,#fbf5ea);border:1px solid var(--line);border-radius:16px;
-    padding:26px 24px 22px;overflow:hidden;
+  .col-pg .col-feature{--accent:var(--rust);--accent2:var(--gold);position:relative;display:flex;flex-direction:column;text-decoration:none;
+    background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden;
     box-shadow:0 16px 34px -24px rgba(140,47,18,.42);
-    transition:transform .3s cubic-bezier(.22,.61,.36,1),box-shadow .3s,border-color .3s;}
-  .col-pg .col-feature:hover{transform:translateY(-6px);text-decoration:none;border-color:#e6c98f;
-    box-shadow:0 30px 54px -26px rgba(140,47,18,.52);}
-  .col-pg .col-feature-tag{display:inline-block;align-self:flex-start;font-size:10.5px;letter-spacing:.14em;
-    text-transform:uppercase;font-weight:700;color:var(--rust-deep);background:var(--gold-soft);
-    border:1px solid #f0dcae;border-radius:20px;padding:4px 12px;margin-bottom:14px;}
+    transition:transform .32s cubic-bezier(.22,.61,.36,1),box-shadow .32s,border-color .32s;}
+  .col-pg .col-feature:hover{transform:translateY(-8px);text-decoration:none;border-color:var(--accent);
+    box-shadow:0 34px 58px -26px var(--accent);}
+
+  /* colored header band — one hue per essay category */
+  .col-pg .col-feature-band{position:relative;height:92px;display:flex;align-items:flex-end;padding:0 22px 14px;overflow:hidden;
+    background:linear-gradient(125deg,var(--accent),var(--accent2),var(--accent));background-size:220% 220%;
+    animation:bandPan 9s ease-in-out infinite;}
+  @keyframes bandPan{0%,100%{background-position:0% 50%;}50%{background-position:100% 50%;}}
+  .col-pg .col-feature-band::after{content:"";position:absolute;inset:0;
+    background:linear-gradient(110deg,transparent 30%,rgba(255,255,255,.45) 50%,transparent 70%);
+    transform:translateX(-120%);transition:transform .7s cubic-bezier(.22,.61,.36,1);}
+  .col-pg .col-feature:hover .col-feature-band::after{transform:translateX(120%);}
+  .col-pg .col-feature-glyph{position:absolute;right:-14px;top:-18px;width:104px;height:104px;color:rgba(255,255,255,.22);
+    transition:transform .5s cubic-bezier(.34,1.56,.64,1);}
+  .col-pg .col-feature:hover .col-feature-glyph{transform:rotate(12deg) scale(1.12);}
+  .col-pg .col-feature-tag{position:relative;z-index:2;display:inline-block;font-size:10.5px;letter-spacing:.14em;
+    text-transform:uppercase;font-weight:800;color:#fff;background:rgba(0,0,0,.18);
+    border:1px solid rgba(255,255,255,.4);border-radius:20px;padding:5px 13px;backdrop-filter:blur(2px);}
+
+  .col-pg .col-feature-body{display:flex;flex-direction:column;flex:1;padding:20px 24px 22px;}
   .col-pg .col-feature h3{font-family:'Playfair Display',serif;font-size:22px;line-height:1.2;color:var(--ink);margin:0 0 10px;}
   .col-pg .col-feature-excerpt{font-size:14.5px;line-height:1.62;color:var(--ink-soft);margin:0 0 20px;flex:1;}
   .col-pg .col-feature-meta{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--ink-soft);
     border-top:1px solid var(--line);padding-top:14px;margin-top:auto;}
-  .col-pg .col-feature-read{font-weight:700;color:var(--rust);letter-spacing:.01em;}
+  .col-pg .col-feature-read{font-weight:800;color:var(--accent);letter-spacing:.01em;}
   .col-pg .col-feature-read::after{content:" →";display:inline-block;transition:transform .25s;}
   .col-pg .col-feature:hover .col-feature-read::after{transform:translateX(5px);}
   .col-pg .col-feature-meta-sep{color:#cdbba6;}
   .col-pg .col-feature-meta time{font-variant-numeric:tabular-nums;}
+
+  /* staggered scroll-in for cards */
+  .js .col-pg .col-feature[data-rv]{transition-delay:var(--rv-delay,0s);}
+  @media(prefers-reduced-motion:reduce){.col-pg .col-feature-band{animation:none;}}
 </style>
 
 <div class="col-pg">
@@ -110,7 +136,14 @@ title: Columns
       {% for author_name in ordered_authors %}
         {% assign group = by_author | where: 'name', author_name | first %}
         {% if group %}
-        <a class="author-chip" href="#author-{{ author_name | slugify }}" data-rv>
+        {% case author_name %}
+          {% when 'Luke Lin' %}{% assign ac='#b8431c' %}{% assign ac2='#e0a93f' %}
+          {% when 'Jennafer Duerden' %}{% assign ac='#7048e8' %}{% assign ac2='#b197fc' %}
+          {% when 'Emily Hogle' %}{% assign ac='#0c8599' %}{% assign ac2='#3bc9db' %}
+          {% else %}{% assign ac='#e8590c' %}{% assign ac2='#ffa94d' %}
+        {% endcase %}
+        <a class="author-chip" href="#author-{{ author_name | slugify }}" data-rv style="--ac:{{ ac }};--ac2:{{ ac2 }}">
+          <span class="author-chip-badge">{{ author_name | slice: 0 }}</span>
           <span class="author-chip-name">{{ author_name }}</span>
           <span class="author-chip-role">
             {% case author_name %}
@@ -139,24 +172,32 @@ title: Columns
       <div class="col-feature-grid">
         {% assign sorted = group.items | sort: 'original_date' | reverse %}
         {% for col in sorted %}
-        <a class="col-feature" href="{{ col.url | relative_url }}" data-rv>
-          <span class="col-feature-tag">
-            {% if col.tags contains 'ai' %}On AI
-            {% elsif col.tags contains 'family' %}On Family
-            {% elsif col.tags contains 'right-livelihood' %}On Right Livelihood
-            {% elsif col.tags contains 'breath' or col.tags contains 'anapanasati' %}On Meditation
-            {% elsif col.tags contains 'mahayana' or col.tags contains 'dharma' %}On the Dharma
-            {% elsif col.tags contains 'current-events' %}On Our Times
-            {% elsif col.tags contains 'ethics' %}On Ethics
-            {% else %}Essay
-            {% endif %}
-          </span>
-          <h3>{{ col.title }}</h3>
-          <p class="col-feature-excerpt">{{ col.content | strip_html | strip_newlines | truncate: 240 }}</p>
-          <div class="col-feature-meta">
-            <span class="col-feature-read">Read</span>
-            <span class="col-feature-meta-sep">·</span>
-            {% if col.original_date %}<time datetime="{{ col.original_date }}">{{ col.original_date | date: '%B %-d, %Y' }}</time>{% endif %}
+          {% if col.tags contains 'ai' %}{% assign cat='On AI' %}{% assign cc='#3b5bdb' %}{% assign cc2='#5c7cfa' %}
+          {% elsif col.tags contains 'family' %}{% assign cat='On Family' %}{% assign cc='#d6336c' %}{% assign cc2='#f06595' %}
+          {% elsif col.tags contains 'right-livelihood' %}{% assign cat='On Right Livelihood' %}{% assign cc='#0c8599' %}{% assign cc2='#3bc9db' %}
+          {% elsif col.tags contains 'breath' or col.tags contains 'anapanasati' %}{% assign cat='On Meditation' %}{% assign cc='#7048e8' %}{% assign cc2='#b197fc' %}
+          {% elsif col.tags contains 'mahayana' or col.tags contains 'dharma' %}{% assign cat='On the Dharma' %}{% assign cc='#b8431c' %}{% assign cc2='#e0a93f' %}
+          {% elsif col.tags contains 'current-events' %}{% assign cat='On Our Times' %}{% assign cc='#e8590c' %}{% assign cc2='#ffa94d' %}
+          {% elsif col.tags contains 'ethics' %}{% assign cat='On Ethics' %}{% assign cc='#2f9e44' %}{% assign cc2='#69db7c' %}
+          {% else %}{% assign cat='Essay' %}{% assign cc='#c9912f' %}{% assign cc2='#e8c15a' %}
+          {% endif %}
+          {% assign rvd = forloop.index0 | modulo: 6 | times: 70 %}
+        <a class="col-feature" href="{{ col.url | relative_url }}" data-rv style="--accent:{{ cc }};--accent2:{{ cc2 }};--rv-delay:{{ rvd }}ms">
+          <div class="col-feature-band">
+            <svg class="col-feature-glyph" viewBox="0 0 64 64" fill="currentColor" aria-hidden="true">
+              <path d="M32 8c3 7 3 13 0 19-3-6-3-12 0-19zm0 0c-3 7-3 13 0 19 3-6 3-12 0-19zM18 18c6 3 9 8 11 15-7-1-12-5-15-11 1-2 2-3 4-4zm28 0c-6 3-9 8-11 15 7-1 12-5 15-11-1-2-2-3-4-4zM8 34c7-1 13 1 19 6-6 3-13 3-20 0 0-2 0-4 1-6zm48 0c-7-1-13 1-19 6 6 3 13 3 20 0 0-2 0-4-1-6z"/>
+              <circle cx="32" cy="34" r="5"/>
+            </svg>
+            <span class="col-feature-tag">{{ cat }}</span>
+          </div>
+          <div class="col-feature-body">
+            <h3>{{ col.title }}</h3>
+            <p class="col-feature-excerpt">{{ col.content | strip_html | strip_newlines | truncate: 240 }}</p>
+            <div class="col-feature-meta">
+              <span class="col-feature-read">Read</span>
+              <span class="col-feature-meta-sep">·</span>
+              {% if col.original_date %}<time datetime="{{ col.original_date }}">{{ col.original_date | date: '%B %-d, %Y' }}</time>{% endif %}
+            </div>
           </div>
         </a>
         {% endfor %}
