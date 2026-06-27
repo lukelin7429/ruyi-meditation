@@ -5,121 +5,265 @@ permalink: /community/dharma-events/
 excerpt: Every month we gather on Fengguidou mountain for a day of recitation and stillness — our monthly retreat — alongside the seasonal observances that mark the year at Ru-Yi.
 ---
 
-<section class="page-header">
-  <div class="page-header-inner">
-    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="{{ '/community/' | relative_url }}">Community</a><span class="sep">›</span>Dharma Events</nav>
-    <span class="eyebrow">Community · Dharma Events</span>
-    <h1>Come up the <em>mountain.</em></h1>
-    <p class="lede">Throughout the year the doors of the monastery open for shared practice — and at the heart of it is our <strong>monthly retreat</strong>, a day set aside, every month, to climb the mountain and quiet the mind together.</p>
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  /* ============ DHARMA EVENTS — bespoke ============ */
+  .de-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .de-narrow{max-width:760px;}
+
+  /* reveal-on-scroll (fails open without JS) */
+  .js [data-reveal]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js [data-reveal].in{opacity:1;transform:none;}
+
+  /* ---- HERO ---- */
+  .de-hero{position:relative;min-height:74vh;display:flex;align-items:flex-end;
+    background:linear-gradient(180deg,rgba(20,26,24,.18) 0%,rgba(20,26,24,.30) 42%,rgba(15,20,18,.82) 100%),url("/assets/images/events/hero-hall.jpg");
+    background-size:cover;background-position:center 38%;}
+  .de-hero-inner{max-width:980px;margin:0 auto;width:100%;padding:0 26px 64px;color:#fff;}
+  .de-hero .eyebrow{color:#f0c98a;letter-spacing:.2em;font-size:12.5px;text-transform:uppercase;font-weight:600;}
+  .de-hero h1{font-family:'Playfair Display',serif;font-weight:600;color:#fff;font-size:clamp(40px,7vw,76px);line-height:1.02;margin:14px 0 0;text-shadow:0 2px 30px rgba(0,0,0,.45);}
+  .de-hero h1 em{font-style:italic;color:#f3d9a8;}
+  .de-hero p{max-width:560px;margin-top:18px;font-size:19px;line-height:1.65;color:#eef0ee;text-shadow:0 1px 14px rgba(0,0,0,.5);}
+  .de-scroll{display:inline-flex;align-items:center;gap:9px;margin-top:26px;color:#fff;font-size:13px;letter-spacing:.14em;text-transform:uppercase;opacity:.9;}
+  .de-scroll .dot{width:30px;height:30px;border:1px solid rgba(255,255,255,.55);border-radius:50%;display:inline-flex;align-items:center;justify-content:center;animation:debob 1.8s ease-in-out infinite;}
+  @keyframes debob{0%,100%{transform:translateY(0)}50%{transform:translateY(5px)}}
+
+  /* ---- MONTHLY RETREAT split band ---- */
+  .de-retreat{padding:88px 0;background:#fff;}
+  .de-split{max-width:1080px;margin:0 auto;padding:0 26px;display:grid;gap:48px;align-items:center;grid-template-columns:1fr;}
+  @media(min-width:860px){.de-split{grid-template-columns:1.05fr 1fr;gap:60px;}}
+  .de-figure{position:relative;border-radius:10px;overflow:hidden;box-shadow:0 30px 60px -28px rgba(20,40,30,.5);}
+  .de-figure img{width:100%;display:block;aspect-ratio:4/3;object-fit:cover;transition:transform 1.2s ease;}
+  .de-figure:hover img{transform:scale(1.04);}
+  .de-figure .de-cap{position:absolute;left:0;bottom:0;right:0;padding:34px 20px 14px;font-size:13px;color:#fff;background:linear-gradient(180deg,transparent,rgba(0,0,0,.55));}
+  .de-retreat .eyebrow{color:#8c2f12;letter-spacing:.16em;font-size:12.5px;text-transform:uppercase;font-weight:700;}
+  .de-retreat h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.4vw,42px);line-height:1.08;color:#1a1a1a;margin:12px 0 18px;}
+  .de-retreat p{font-size:18px;line-height:1.72;color:#3a3d43;margin-bottom:16px;}
+  .de-retreat p:last-child{margin-bottom:0;}
+  .de-pill{display:inline-block;margin-top:22px;background:#eef4f1;color:#3f7565;font-weight:600;font-size:14px;padding:8px 16px;border-radius:30px;letter-spacing:.02em;}
+
+  /* ---- SCHEDULE timeline ---- */
+  .de-sched{padding:86px 0 92px;background:#f4f1ec;}
+  .de-sched .de-head{text-align:center;max-width:640px;margin:0 auto 50px;}
+  .de-sched .eyebrow{color:#8c2f12;letter-spacing:.18em;font-size:12.5px;text-transform:uppercase;font-weight:700;}
+  .de-sched h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.6vw,44px);color:#1a1a1a;margin:12px 0 14px;}
+  .de-sched .de-head p{font-size:17px;color:#5a5d63;line-height:1.6;}
+
+  .de-tl{max-width:680px;margin:0 auto;position:relative;}
+  .de-tl::before{content:"";position:absolute;left:33px;top:14px;bottom:14px;width:2px;background:linear-gradient(180deg,transparent,#d9cdb8 8%,#d9cdb8 92%,transparent);}
+  @media(max-width:560px){.de-tl::before{left:27px;}}
+
+  .de-yr{position:relative;display:flex;justify-content:center;margin:10px 0 26px;z-index:2;}
+  .de-yr span{background:#8c2f12;color:#fff;font-family:'Playfair Display',serif;font-size:15px;letter-spacing:.22em;font-weight:600;padding:6px 22px;border-radius:30px;box-shadow:0 8px 20px -8px rgba(140,47,18,.5);}
+
+  .de-ev{position:relative;display:flex;gap:20px;align-items:center;padding:9px 0;}
+  .de-badge{flex-shrink:0;width:68px;height:68px;border-radius:16px;background:#fff;border:1px solid #e6ddcb;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:2;
+    box-shadow:0 6px 18px -10px rgba(60,50,30,.4);transition:transform .25s ease,box-shadow .25s ease;}
+  .de-ev:hover .de-badge{transform:translateY(-2px);box-shadow:0 12px 24px -10px rgba(60,50,30,.5);}
+  .de-badge .m{font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#b8431c;line-height:1;}
+  .de-badge .d{font-family:'Playfair Display',serif;font-size:23px;font-weight:600;color:#1a1a1a;line-height:1.1;margin-top:2px;}
+  .de-badge .d.rng{font-size:15px;}
+  .de-card{flex:1;background:#fff;border:1px solid #ece4d5;border-radius:12px;padding:15px 20px;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease;}
+  .de-ev:hover .de-card{transform:translateX(3px);box-shadow:0 14px 30px -20px rgba(60,50,30,.55);border-color:#ddd0bb;}
+  .de-card h3{font-family:'Inter',sans-serif;font-size:18px;font-weight:600;color:#1a1a1a;margin:0;line-height:1.3;}
+  .de-card .sub{font-size:13.5px;color:#8a857c;margin-top:3px;}
+  .de-card .lu{font-size:12.5px;color:#a59f93;margin-top:6px;letter-spacing:.02em;}
+
+  /* festival accent */
+  .de-ev.is-feast .de-badge{background:linear-gradient(160deg,#fbf3e2,#f6e7c4);border-color:#ecd9a8;}
+  .de-ev.is-feast .de-badge .d,.de-ev.is-feast .de-badge .m{color:#8c2f12;}
+  .de-ev.is-feast .de-card{background:linear-gradient(180deg,#fffaf0,#fff);border-color:#eddcb6;}
+  .de-tag{display:inline-block;font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#9a6a1e;background:#fbf3e2;border:1px solid #ecd9a8;border-radius:20px;padding:2px 10px;margin-bottom:7px;}
+
+  /* ---- FEAST PHOTO CARDS ---- */
+  .de-feasts{padding:90px 0;background:#fff;}
+  .de-feasts .de-head{text-align:center;max-width:640px;margin:0 auto 48px;}
+  .de-feasts .eyebrow{color:#3f7565;letter-spacing:.18em;font-size:12.5px;text-transform:uppercase;font-weight:700;}
+  .de-feasts h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.6vw,44px);color:#1a1a1a;margin:12px 0 14px;}
+  .de-feasts .de-head p{font-size:17px;color:#5a5d63;line-height:1.6;}
+  .de-grid{max-width:1080px;margin:0 auto;padding:0 26px;display:grid;gap:26px;grid-template-columns:1fr;}
+  @media(min-width:620px){.de-grid{grid-template-columns:1fr 1fr;}}
+  .de-fcard{border-radius:14px;overflow:hidden;background:#fff;border:1px solid #ece7df;box-shadow:0 18px 44px -30px rgba(30,40,30,.5);transition:transform .3s ease,box-shadow .3s ease;}
+  .de-fcard:hover{transform:translateY(-5px);box-shadow:0 30px 54px -28px rgba(30,40,30,.55);}
+  .de-fcard .ph{aspect-ratio:16/10;overflow:hidden;}
+  .de-fcard .ph img{width:100%;height:100%;object-fit:cover;transition:transform 1.1s cubic-bezier(.22,.61,.36,1);}
+  .de-fcard:hover .ph img{transform:scale(1.07);}
+  .de-fcard .bd{padding:22px 24px 26px;}
+  .de-fcard .ssn{font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#b8431c;}
+  .de-fcard h3{font-family:'Playfair Display',serif;font-size:23px;color:#1a1a1a;margin:7px 0 3px;line-height:1.12;}
+  .de-fcard .zh{font-size:14px;color:#7a756c;margin-bottom:11px;}
+  .de-fcard p{font-size:15.5px;line-height:1.62;color:#4a4d53;margin:0;}
+
+  /* ---- JOIN US ---- */
+  .de-join{position:relative;padding:96px 0;text-align:center;
+    background:linear-gradient(180deg,rgba(20,26,24,.62),rgba(15,20,18,.74)),url("/assets/images/events/feast-homecoming.jpg");
+    background-size:cover;background-position:center 40%;color:#fff;}
+  .de-join .eyebrow{color:#f0c98a;letter-spacing:.2em;font-size:12.5px;text-transform:uppercase;font-weight:600;}
+  .de-join h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.8vw,46px);color:#fff;margin:12px 0 16px;text-shadow:0 2px 24px rgba(0,0,0,.4);}
+  .de-join p{max-width:560px;margin:0 auto 26px;font-size:18px;line-height:1.66;color:#eef0ee;}
+  .de-btn{display:inline-block;background:#c9912f;color:#231a08;font-weight:700;font-size:16px;letter-spacing:.01em;padding:15px 32px;border-radius:8px;text-decoration:none;transition:transform .2s ease,background .2s ease;box-shadow:0 14px 30px -12px rgba(0,0,0,.5);}
+  .de-btn:hover{background:#dca63f;transform:translateY(-2px);text-decoration:none;}
+  .de-join .meta{margin-top:22px;font-size:14px;color:#cdd3cf;letter-spacing:.01em;}
+</style>
+
+<!-- ===== HERO ===== -->
+<section class="de-hero">
+  <div class="de-hero-inner">
+    <div class="eyebrow" data-reveal>Community · Dharma Events</div>
+    <h1 data-reveal style="transition-delay:.08s">Come up the <em>mountain.</em></h1>
+    <p data-reveal style="transition-delay:.16s">Every month the doors of the monastery open for a day of shared practice at 800 metres — and through the year, the festivals that mark the turning of the seasons.</p>
+    <span class="de-scroll" data-reveal style="transition-delay:.24s"><span class="dot">↓</span> The year on the mountain</span>
   </div>
 </section>
 
-<!-- MONTHLY RETREAT — the centerpiece -->
-<section class="section section-white">
-  <div class="section-inner section-narrow">
-    <span class="eyebrow">Every month</span>
-    <h2>The monthly retreat.</h2>
-    <p>Once a month, practitioners make their way up to Ru-Yi — perched at 800 metres on Fengguidou mountain in Nantou's Xinyi Township — for a full day of practice together. It is the steady heartbeat of our community: come down from the busyness of the world, and spend a day doing nothing but turning toward the Dharma.</p>
-    <p>The day unfolds gently. We chant and recite the name of the Buddha together, sit in periods of quiet meditation, listen to a short teaching, and share a simple vegetarian meal. No experience is needed, and nothing is required of you but a willingness to be present. In winter the plum blossoms open white across the slopes and the mountain mist drifts through the courtyard — the setting itself does half the teaching.</p>
-    <p>The retreat is, like everything at Ru-Yi, completely <strong>free</strong>, and open to anyone who wishes to come.</p>
-  </div>
-</section>
-
-<!-- SCHEDULE -->
-<section class="section section-cream">
-  <div class="section-inner section-narrow">
-    <div class="section-head">
-      <span class="eyebrow">法會時間表 · Schedule</span>
-      <h2>This year on the mountain.</h2>
-      <p class="lede">All are welcome — come and join freely. Dates follow the lunar calendar; the monastery's latest announcement is always the final word.</p>
+<!-- ===== MONTHLY RETREAT ===== -->
+<section class="de-retreat">
+  <div class="de-split">
+    <div class="de-figure" data-reveal>
+      <img src="/assets/images/events/retreat-altar.jpg" alt="A nun in quiet devotion before the golden Buddha in the main hall" loading="lazy">
+      <div class="de-cap">The main hall, Ru-Yi · 風櫃斗</div>
     </div>
-    <style>
-      .sched{width:100%;border-collapse:collapse;font-size:17px;margin-top:6px;}
-      .sched tr{border-bottom:1px solid #e3e1dc;}
-      .sched tr:last-child{border-bottom:none;}
-      .sched td{padding:13px 8px;vertical-align:baseline;}
-      .sched .d{white-space:nowrap;font-weight:700;color:#8c2f12;width:1%;font-family:'Playfair Display',Georgia,serif;font-size:18px;}
-      .sched .ev{color:#1a1a1a;font-weight:600;}
-      .sched .ev small{display:block;color:#7a756c;font-weight:400;font-size:13.5px;margin-top:2px;}
-      .sched .lu{text-align:right;white-space:nowrap;color:#9a958c;font-size:13.5px;}
-      .sched tr.feast .ev{color:#8c2f12;}
-      .sched tr.yr td{background:#efe9e0;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#6b6b6b;font-weight:700;padding:9px 8px;}
-      @media(max-width:560px){.sched .lu{display:none;}.sched .d{font-size:16px;}}
-    </style>
-    <table class="sched">
-      <tr class="yr"><td colspan="3">2026</td></tr>
-      <tr><td class="d">Jan 10</td><td class="ev">Homecoming Gathering<small>回娘家</small></td><td class="lu">11th lunar month · 22nd</td></tr>
-      <tr><td class="d">Jan 11</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">11th lunar month · 23rd</td></tr>
-      <tr><td class="d">Feb 1</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">12th lunar month · 14th</td></tr>
-      <tr><td class="d">Mar 1</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">1st lunar month · 13th</td></tr>
-      <tr><td class="d">Apr 12</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">2nd lunar month · 25th</td></tr>
-      <tr class="feast"><td class="d">May 10</td><td class="ev">Bathing the Buddha — the Buddha's Birthday<small>浴佛節 · Vesak</small></td><td class="lu">3rd lunar month · 24th</td></tr>
-      <tr><td class="d">Jun 7</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">4th lunar month · 22nd</td></tr>
-      <tr><td class="d">Jun 28</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">5th lunar month · 14th</td></tr>
-      <tr class="feast"><td class="d">Jul 4–7</td><td class="ev">Youth Buddhist Camp<small>青少年學佛營</small></td><td class="lu">5th lunar month · 21st–23rd</td></tr>
-      <tr class="feast"><td class="d">Jul 8–12</td><td class="ev">Children's Buddhist Camp<small>兒童學佛營 · summer growth program</small></td><td class="lu">5th lunar month · 24th–28th</td></tr>
-      <tr><td class="d">Aug 2</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">6th lunar month · 20th</td></tr>
-      <tr><td class="d">Aug 23</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">7th lunar month · 4th</td></tr>
-      <tr class="feast"><td class="d">Sep 6</td><td class="ev">Ullambana Assembly<small>盂蘭盆法會</small></td><td class="lu">7th lunar month · 25th</td></tr>
-      <tr><td class="d">Oct 11</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">9th lunar month · 1st</td></tr>
-      <tr><td class="d">Nov 8</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">9th lunar month · 30th</td></tr>
-      <tr><td class="d">Dec 6</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">10th lunar month · 28th</td></tr>
-      <tr class="yr"><td colspan="3">2027</td></tr>
-      <tr><td class="d">Jan 10</td><td class="ev">Buddha-Recitation Service<small>念佛法會 · the monthly retreat</small></td><td class="lu">12th lunar month · 3rd</td></tr>
-    </table>
-  </div>
-</section>
-
-<!-- THE YEAR ON THE MOUNTAIN -->
-<section class="section section-white">
-  <div class="section-inner">
-    <div class="section-head">
-      <span class="eyebrow">The year on the mountain</span>
-      <h2>Seasons of gathering.</h2>
-      <p class="lede">Around the monthly rhythm, a handful of larger observances mark the turning of the year.</p>
-    </div>
-
-    <div class="entry-grid">
-      <div class="entry-card">
-        <span class="card-tag">Spring · Vesak</span>
-        <h3>Bathing the Buddha</h3>
-        <p class="card-sub">浴佛節 · The Buddha's birthday</p>
-        <p class="card-desc">On the Buddha's birthday we pour fragrant water over the infant Buddha — an old and tender rite of purifying the heart, celebrated together in the main hall.</p>
-      </div>
-
-      <div class="entry-card">
-        <span class="card-tag">Summer · July</span>
-        <h3>Youth &amp; Children's Camps</h3>
-        <p class="card-sub">學佛營 · A few days away from screens</p>
-        <p class="card-desc">Each summer the mountain fills with young people for a few free days of meditation, nature, stories, and character — the next generation learning to steady the mind.</p>
-      </div>
-
-      <div class="entry-card">
-        <span class="card-tag">Autumn · Ullambana</span>
-        <h3>The Ullambana Assembly</h3>
-        <p class="card-sub">盂蘭盆法會 · Gratitude to our ancestors</p>
-        <p class="card-desc">In the seventh lunar month we gather to remember and give thanks to our parents and ancestors — the festival of filial love and the transfer of merit.</p>
-      </div>
-
-      <div class="entry-card">
-        <span class="card-tag">Winter · New Year</span>
-        <h3>New Year Homecoming</h3>
-        <p class="card-sub">回娘家 · Returning home to the mountain</p>
-        <p class="card-desc">As the lunar year turns, old friends of the monastery come back up the mountain to begin the year in practice, blessing, and good company.</p>
-      </div>
+    <div data-reveal style="transition-delay:.1s">
+      <div class="eyebrow">Every month</div>
+      <h2>The monthly retreat.</h2>
+      <p>Once a month, practitioners climb the mountain to Ru-Yi for a full day of practice together — the steady heartbeat of our community. We come down from the busyness of the world and spend a day doing nothing but turning toward the Dharma.</p>
+      <p>The day unfolds gently: we recite the name of the Buddha together, sit in periods of quiet meditation, listen to a short teaching, and share a simple vegetarian meal. No experience is needed — only a willingness to be present. In winter, plum blossoms open white across the slopes and mountain mist drifts through the courtyard.</p>
+      <span class="de-pill">Free · open to everyone</span>
     </div>
   </div>
 </section>
 
-<!-- JOIN US -->
-<section class="section section-cream">
-  <div class="section-inner section-narrow">
-    <div class="contact-card">
-      <span class="eyebrow">You are welcome</span>
-      <h2>Join us for the next retreat.</h2>
-      <p>Pick a date from the schedule above and simply come — no registration or experience is needed. If you would like help finding your way up the mountain, or want to confirm the latest timing, write to us and we will gladly point you the right way.</p>
-      <a href="mailto:ruyi@ruyimeditation.org" class="btn btn-gold">ruyi@ruyimeditation.org</a>
-      <p style="margin-top:18px;font-size:15px;color:#6b6b6b;">Ru-Yi Meditation Center · No. 80, Yanghe Ln., Xinyi Township, Nantou County 556001, Taiwan · +886 928-961-171</p>
+<!-- ===== SCHEDULE ===== -->
+<section class="de-sched">
+  <div class="de-head" data-reveal>
+    <div class="eyebrow">法會時間表 · Schedule</div>
+    <h2>This year on the mountain.</h2>
+    <p>All are welcome — simply come and join. Dates follow the lunar calendar; the monastery's latest announcement is always the final word.</p>
+  </div>
+
+  <div class="de-tl">
+    <div class="de-yr" data-reveal><span>2026</span></div>
+
+    <div class="de-ev is-feast" data-reveal>
+      <div class="de-badge"><span class="m">Jan</span><span class="d">10</span></div>
+      <div class="de-card"><span class="de-tag">Gathering</span><h3>Homecoming Gathering</h3><div class="sub">回娘家 · returning home to the mountain</div><div class="lu">11th lunar month · 22nd</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Jan</span><span class="d">11</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">11th lunar month · 23rd</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Feb</span><span class="d">1</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">12th lunar month · 14th</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Mar</span><span class="d">1</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">1st lunar month · 13th</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Apr</span><span class="d">12</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">2nd lunar month · 25th</div></div>
+    </div>
+    <div class="de-ev is-feast" data-reveal>
+      <div class="de-badge"><span class="m">May</span><span class="d">10</span></div>
+      <div class="de-card"><span class="de-tag">Festival · Vesak</span><h3>Bathing the Buddha</h3><div class="sub">浴佛節 · the Buddha's birthday</div><div class="lu">3rd lunar month · 24th</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Jun</span><span class="d">7</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">4th lunar month · 22nd</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Jun</span><span class="d">28</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">5th lunar month · 14th</div></div>
+    </div>
+    <div class="de-ev is-feast" data-reveal>
+      <div class="de-badge"><span class="m">Jul</span><span class="d rng">4–7</span></div>
+      <div class="de-card"><span class="de-tag">Summer camp</span><h3>Youth Buddhist Camp</h3><div class="sub">青少年學佛營</div><div class="lu">5th lunar month · 21st–23rd</div></div>
+    </div>
+    <div class="de-ev is-feast" data-reveal>
+      <div class="de-badge"><span class="m">Jul</span><span class="d rng">8–12</span></div>
+      <div class="de-card"><span class="de-tag">Summer camp</span><h3>Children's Buddhist Camp</h3><div class="sub">兒童學佛營 · summer growth program</div><div class="lu">5th lunar month · 24th–28th</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Aug</span><span class="d">2</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">6th lunar month · 20th</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Aug</span><span class="d">23</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">7th lunar month · 4th</div></div>
+    </div>
+    <div class="de-ev is-feast" data-reveal>
+      <div class="de-badge"><span class="m">Sep</span><span class="d">6</span></div>
+      <div class="de-card"><span class="de-tag">Festival</span><h3>Ullambana Assembly</h3><div class="sub">盂蘭盆法會 · gratitude to our ancestors</div><div class="lu">7th lunar month · 25th</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Oct</span><span class="d">11</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">9th lunar month · 1st</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Nov</span><span class="d">8</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">9th lunar month · 30th</div></div>
+    </div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Dec</span><span class="d">6</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">10th lunar month · 28th</div></div>
+    </div>
+
+    <div class="de-yr" data-reveal><span>2027</span></div>
+    <div class="de-ev" data-reveal>
+      <div class="de-badge"><span class="m">Jan</span><span class="d">10</span></div>
+      <div class="de-card"><h3>Buddha-Recitation Service</h3><div class="sub">念佛法會 · the monthly retreat</div><div class="lu">12th lunar month · 3rd</div></div>
     </div>
   </div>
 </section>
+
+<!-- ===== FEAST PHOTO CARDS ===== -->
+<section class="de-feasts">
+  <div class="de-head" data-reveal>
+    <div class="eyebrow">The year's festivals</div>
+    <h2>Seasons of gathering.</h2>
+    <p>Around the monthly rhythm, a handful of larger observances mark the turning of the year.</p>
+  </div>
+  <div class="de-grid">
+    <article class="de-fcard" data-reveal>
+      <div class="ph"><img src="/assets/images/events/feast-bathing.jpg" alt="The infant Buddha among flowers at the Bathing the Buddha ceremony" loading="lazy"></div>
+      <div class="bd"><div class="ssn">Spring · Vesak</div><h3>Bathing the Buddha</h3><div class="zh">浴佛節 · The Buddha's Birthday</div><p>On the Buddha's birthday we pour fragrant water over the infant Buddha — an old and tender rite of purifying the heart, celebrated together in the main hall.</p></div>
+    </article>
+    <article class="de-fcard" data-reveal style="transition-delay:.08s">
+      <div class="ph"><img src="/assets/images/events/feast-camp.jpg" alt="Families and children gathered at the monastery for the summer camp" loading="lazy"></div>
+      <div class="bd"><div class="ssn">Summer · July</div><h3>Youth &amp; Children's Camps</h3><div class="zh">學佛營 · A few days away from screens</div><p>Each summer the mountain fills with young people for a few free days of meditation, nature, stories, and character — the next generation learning to steady the mind.</p></div>
+    </article>
+    <article class="de-fcard" data-reveal>
+      <div class="ph"><img src="/assets/images/events/feast-ullambana.jpg" alt="The community gathered in the mountain courtyard for a teaching" loading="lazy"></div>
+      <div class="bd"><div class="ssn">Autumn · Ullambana</div><h3>The Ullambana Assembly</h3><div class="zh">盂蘭盆法會 · Gratitude to our ancestors</div><p>In the seventh lunar month we gather to remember and give thanks to our parents and ancestors — the festival of filial love and the transfer of merit.</p></div>
+    </article>
+    <article class="de-fcard" data-reveal style="transition-delay:.08s">
+      <div class="ph"><img src="/assets/images/events/feast-homecoming.jpg" alt="Practitioners and the nuns gathered together on the mountain" loading="lazy"></div>
+      <div class="bd"><div class="ssn">Winter · New Year</div><h3>New Year Homecoming</h3><div class="zh">回娘家 · Returning home to the mountain</div><p>As the lunar year turns, old friends of the monastery come back up the mountain to begin the year in practice, blessing, and good company.</p></div>
+    </article>
+  </div>
+</section>
+
+<!-- ===== JOIN US ===== -->
+<section class="de-join">
+  <div class="de-wrap" data-reveal>
+    <div class="eyebrow">You are welcome</div>
+    <h2>Join us for the next retreat.</h2>
+    <p>Pick a date from the schedule above and simply come — no registration or experience needed. If you'd like help finding your way up the mountain, or want to confirm the latest timing, write to us and we'll gladly point the way.</p>
+    <a href="mailto:ruyi@ruyimeditation.org" class="de-btn">ruyi@ruyimeditation.org</a>
+    <div class="meta">Ru-Yi Meditation Center · 如意精舍 · No. 80, Yanghe Ln., Xinyi Township, Nantou · +886 928-961-171</div>
+  </div>
+</section>
+
+<script>
+(function(){
+  var els=document.querySelectorAll('[data-reveal]');
+  if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(en){ if(en.isIntersecting){ en.target.classList.add('in'); io.unobserve(en.target); } });
+  },{threshold:0.12, rootMargin:'0px 0px -8% 0px'});
+  els.forEach(function(e){ io.observe(e); });
+})();
+</script>
