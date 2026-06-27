@@ -5,74 +5,191 @@ permalink: /dharma/
 excerpt: The Buddha's teachings in plain English — discourses, treatises, and methods of practice from both the Theravāda and Mahāyāna traditions, gathered in one place.
 ---
 
-<section class="page-header">
-  <div class="page-header-inner">
-    <span class="eyebrow">Dharma · 佛法</span>
-    <h1>The Buddha's teachings, <em>in plain English.</em></h1>
-    <p class="lede">The <em>Dharma</em> is the whole body of the Buddha's teaching — the discourses he gave, the treatises the great masters wrote, and the methods of practice handed down for over two thousand years. We are gathering it here, one collection at a time, drawing on both the <strong>Theravāda</strong> and <strong>Mahāyāna</strong> traditions, and always in language an English speaker can actually use.</p>
-  </div>
-</section>
+<script>document.documentElement.classList.add('js');</script>
 
-<section class="section section-cream">
-  <div class="section-inner">
-    <div class="section-head">
-      <span class="eyebrow">Live collections</span>
-      <h2>Where to begin.</h2>
-      <p class="lede">Each collection has a reading guide written for English speakers, the full text, and a self-check quiz.</p>
-    </div>
+<style>
+  /* ============ DHARMA HUB — bespoke, warm palette ============ */
+  .dh{--saffron:#d98b2b;--saffron-deep:#b56a1c;--maroon:#6f2a22;--maroon-deep:#4a1c17;
+      --gold:#e3b765;--jade:#2f6d5e;--jade-deep:#234f44;--jade-soft:#e8f1ed;
+      --terra:#b5482f;--terra-deep:#8c2f12;--terra-soft:#fbeae3;
+      --cream:#fbf5ea;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;}
+  .dh *{box-sizing:border-box;}
+  .dh-wrap{max-width:1040px;margin:0 auto;padding:0 26px;}
 
-    <div class="entry-grid">
-      <a href="{{ '/discourses/' | relative_url }}" class="entry-card live">
-        <span class="card-tag"><span class="live-dot"></span>Theravāda · Pāli Canon</span>
-        <h3>The Discourses</h3>
-        <p class="card-sub">Majjhima Nikāya — the Middle-Length Discourses</p>
-        <p class="card-desc">152 dialogues, parables, and meditation instructions spoken by the Buddha himself, preserved in the Pāli Canon. The first collection in our journey through the discourses, one sutta at a time.</p>
-        <span class="card-action">Enter the discourses →</span>
-      </a>
+  /* reveal */
+  .js .dh [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .dh [data-rv].in{opacity:1;transform:none;}
 
-      <a href="{{ '/forbearance/' | relative_url }}" class="entry-card live">
-        <span class="card-tag"><span class="live-dot"></span>Mahāyāna · Treatise</span>
-        <h3>Forbearance</h3>
-        <p class="card-sub">25 ways to keep your peace</p>
-        <p class="card-desc">Eighteen centuries ago the master <em>Nāgārjuna</em> set down twenty-five concrete strategies for not getting hijacked by anger, in the <em>Mahāprajñāpāramitā Śāstra</em>. Each one a different angle for seeing the situation that provoked you — in plain modern English.</p>
-        <span class="card-action">Read the 25 methods →</span>
-      </a>
-    </div>
-  </div>
-</section>
+  /* ---- HERO ---- */
+  .dh-hero{position:relative;overflow:hidden;color:#fff;
+    background:
+      radial-gradient(120% 90% at 78% 18%, rgba(227,183,101,.28), transparent 60%),
+      linear-gradient(155deg,#7c2f24 0%,#6f2a22 38%,#3d1712 100%);}
+  .dh-hero-in{position:relative;max-width:1040px;margin:0 auto;padding:84px 26px 78px;z-index:2;}
+  .dh-wheel{position:absolute;right:-90px;top:-60px;width:420px;height:420px;color:rgba(227,183,101,.16);z-index:1;animation:dhspin 80s linear infinite;}
+  @keyframes dhspin{to{transform:rotate(360deg);}}
+  .dh-eyebrow{font-size:13px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .dh-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(40px,6.6vw,72px);line-height:1.04;margin:16px 0 0;max-width:14ch;}
+  .dh-hero h1 em{font-style:italic;color:var(--gold);}
+  .dh-rule{width:64px;height:3px;background:var(--gold);border-radius:3px;margin:24px 0;}
+  .dh-hero p{max-width:600px;font-size:19px;line-height:1.7;color:#f4e7d6;}
+  .dh-trad{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px;}
+  .dh-trad span{font-size:13px;letter-spacing:.04em;color:#fbeede;border:1px solid rgba(227,183,101,.4);background:rgba(255,255,255,.06);border-radius:30px;padding:7px 16px;}
+  .dh-trad b{color:var(--gold);font-weight:600;}
 
-<section class="section section-white">
-  <div class="section-inner">
-    <div class="section-head">
-      <span class="eyebrow">Growing the collection</span>
-      <h2>On the way.</h2>
-      <p class="lede">Our aim is to bring the whole of the Dharma — both vehicles, every gate of practice — into clear English. These collections are in preparation.</p>
-    </div>
+  /* ---- LIVE COLLECTIONS ---- */
+  .dh-live{background:var(--cream);padding:80px 0 84px;}
+  .dh-head{text-align:center;max-width:640px;margin:0 auto 48px;}
+  .dh-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--terra-deep);}
+  .dh-head h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.6vw,44px);color:var(--ink);margin:12px 0 12px;}
+  .dh-head p{font-size:17px;color:var(--ink-soft);line-height:1.6;}
 
-    <div class="entry-grid">
-      <div class="entry-card placeholder">
-        <span class="card-tag">In preparation</span>
-        <h3>Mahāyāna Sūtras</h3>
-        <p class="card-sub">The great vehicle's foundational scriptures</p>
-        <p class="card-desc">Selected Mahāyāna sūtras — the Heart Sūtra, the Diamond Sūtra, and others — with reading guides that open their meaning for the modern reader.</p>
-        <span class="card-action" style="color:#a8aab0;">Coming</span>
+  .dh-cards{display:grid;gap:26px;grid-template-columns:1fr;}
+  @media(min-width:760px){.dh-cards{grid-template-columns:1fr 1fr;}}
+  .dh-card{position:relative;overflow:hidden;border-radius:18px;padding:38px 34px 32px;color:#fff;text-decoration:none;
+    display:flex;flex-direction:column;min-height:340px;transition:transform .32s cubic-bezier(.22,.61,.36,1),box-shadow .32s;}
+  .dh-card:hover{transform:translateY(-6px);text-decoration:none;}
+  .dh-card.jade{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -26px rgba(35,79,68,.7);}
+  .dh-card.jade:hover{box-shadow:0 36px 60px -26px rgba(35,79,68,.78);}
+  .dh-card.terra{background:linear-gradient(158deg,#c2542f 0%,#b5482f 45%,#8c2f12 100%);box-shadow:0 26px 50px -26px rgba(140,47,18,.65);}
+  .dh-card.terra:hover{box-shadow:0 36px 60px -26px rgba(140,47,18,.74);}
+  .dh-icon{width:54px;height:54px;color:rgba(255,255,255,.92);margin-bottom:auto;}
+  .dh-card .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);margin-top:20px;}
+  .dh-card h3{font-family:'Playfair Display',serif;font-size:30px;line-height:1.1;margin:8px 0 4px;}
+  .dh-card .sub{font-size:15px;color:rgba(255,255,255,.85);font-style:italic;margin-bottom:14px;}
+  .dh-card p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.9);margin:0 0 22px;}
+  .dh-card .foot{display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(255,255,255,.22);padding-top:16px;}
+  .dh-card .stat{font-family:'Playfair Display',serif;font-size:15px;color:#fff;}
+  .dh-card .stat b{font-size:30px;font-weight:700;margin-right:4px;}
+  .dh-card .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .dh-card .go .arw{transition:transform .25s;}
+  .dh-card:hover .go .arw{transform:translateX(5px);}
+  .dh-bigwheel{position:absolute;right:-50px;bottom:-50px;width:200px;height:200px;color:rgba(255,255,255,.08);}
+
+  /* ---- ON THE WAY ---- */
+  .dh-soon{background:#fff;padding:78px 0 86px;}
+  .dh-soon .dh-head h2{color:var(--ink);}
+  .dh-grid3{display:grid;gap:20px;grid-template-columns:1fr;}
+  @media(min-width:680px){.dh-grid3{grid-template-columns:repeat(3,1fr);}}
+  .dh-prep{border:1px solid var(--line);border-radius:14px;padding:26px 24px;background:linear-gradient(180deg,#fdfaf4,#fbf5ea);transition:transform .25s,box-shadow .25s;}
+  .dh-prep:hover{transform:translateY(-4px);box-shadow:0 18px 36px -22px rgba(120,80,30,.4);}
+  .dh-prep .tag{display:inline-block;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--saffron-deep);background:#fbeed6;border:1px solid #f0dcae;border-radius:20px;padding:3px 11px;margin-bottom:14px;}
+  .dh-prep h3{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);margin:0 0 4px;}
+  .dh-prep .sub{font-size:13.5px;color:var(--saffron-deep);font-weight:600;margin-bottom:10px;}
+  .dh-prep p{font-size:15px;line-height:1.6;color:var(--ink-soft);margin:0;}
+</style>
+
+<div class="dh">
+
+  <!-- HERO -->
+  <section class="dh-hero">
+    <svg class="dh-wheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+      <circle cx="50" cy="50" r="46"/><circle cx="50" cy="50" r="12"/>
+      <g stroke-width="2"><line x1="50" y1="4" x2="50" y2="96"/><line x1="4" y1="50" x2="96" y2="50"/>
+      <line x1="17" y1="17" x2="83" y2="83"/><line x1="83" y1="17" x2="17" y2="83"/>
+      <line x1="29" y1="9" x2="71" y2="91"/><line x1="91" y1="29" x2="9" y2="71"/>
+      <line x1="9" y1="29" x2="91" y2="71"/><line x1="71" y1="9" x2="29" y2="91"/></g>
+    </svg>
+    <div class="dh-hero-in">
+      <div class="dh-eyebrow" data-rv>Dharma · 佛法</div>
+      <h1 data-rv style="transition-delay:.08s">The Buddha's teachings, <em>in plain English.</em></h1>
+      <div class="dh-rule" data-rv style="transition-delay:.16s"></div>
+      <p data-rv style="transition-delay:.2s">The whole body of the Buddha's teaching — the discourses he gave, the treatises the great masters wrote, and the methods of practice handed down for over two thousand years. We are gathering it here, one collection at a time, from both the <b style="color:var(--gold)">Theravāda</b> and <b style="color:var(--gold)">Mahāyāna</b> traditions, always in language you can actually use.</p>
+      <div class="dh-trad" data-rv style="transition-delay:.26s">
+        <span><b>177</b> texts &amp; counting</span>
+        <span>Reading guides</span>
+        <span>Full English text</span>
+        <span>A quiz with each</span>
       </div>
+    </div>
+  </section>
 
-      <div class="entry-card placeholder">
-        <span class="card-tag">In preparation</span>
-        <h3>Pure Land &amp; Recitation</h3>
-        <p class="card-sub">The path of faith and the recollection of the Buddha</p>
-        <p class="card-desc">The teachings and practices of the Pure Land tradition — Amitābha, the recollection of the Buddha (<em>nianfo</em>), and the masters who carried this gate of practice.</p>
-        <span class="card-action" style="color:#a8aab0;">Coming</span>
+  <!-- LIVE COLLECTIONS -->
+  <section class="dh-live">
+    <div class="dh-wrap">
+      <div class="dh-head" data-rv>
+        <div class="lbl">Live collections</div>
+        <h2>Where to begin.</h2>
+        <p>Two collections are open now. Each entry has a reading guide written for English speakers, the full text, and a self-check quiz.</p>
       </div>
+      <div class="dh-cards">
 
-      <div class="entry-card placeholder">
-        <span class="card-tag">In preparation</span>
-        <h3>Treatises &amp; Commentaries</h3>
-        <p class="card-sub">The masters who explained the path</p>
-        <p class="card-desc">Śāstras and commentaries from the great teachers of both traditions — the works that systematized the Buddha's teaching and made it practicable.</p>
-        <span class="card-action" style="color:#a8aab0;">Coming</span>
+        <a href="{{ '/discourses/' | relative_url }}" class="dh-card jade" data-rv>
+          <svg class="dh-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="24" cy="24" r="20"/><circle cx="24" cy="24" r="5"/>
+            <line x1="24" y1="4" x2="24" y2="44"/><line x1="4" y1="24" x2="44" y2="24"/>
+            <line x1="9.9" y1="9.9" x2="38.1" y2="38.1"/><line x1="38.1" y1="9.9" x2="9.9" y2="38.1"/>
+          </svg>
+          <div class="trad">Theravāda · Pāli Canon</div>
+          <h3>The Discourses</h3>
+          <div class="sub">Majjhima Nikāya — the Middle-Length Discourses</div>
+          <p>Dialogues, parables, and meditation instructions spoken by the Buddha himself, preserved in the Pāli Canon — one sutta at a time.</p>
+          <div class="foot">
+            <span class="stat"><b>152</b> suttas</span>
+            <span class="go">Enter <span class="arw">→</span></span>
+          </div>
+          <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><circle cx="50" cy="50" r="46"/><circle cx="50" cy="50" r="14"/><line x1="50" y1="4" x2="50" y2="96"/><line x1="4" y1="50" x2="96" y2="50"/><line x1="17" y1="17" x2="83" y2="83"/><line x1="83" y1="17" x2="17" y2="83"/></svg>
+        </a>
+
+        <a href="{{ '/forbearance/' | relative_url }}" class="dh-card terra" data-rv style="transition-delay:.1s">
+          <svg class="dh-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M24 42c8-6 14-12 14-21a8 8 0 0 0-14-5 8 8 0 0 0-14 5c0 9 6 15 14 21Z"/>
+            <path d="M24 16v26M16 24c3 0 8 2 8 8M32 24c-3 0-8 2-8 8"/>
+          </svg>
+          <div class="trad">Mahāyāna · Treatise</div>
+          <h3>Forbearance</h3>
+          <div class="sub">Nāgārjuna's 25 ways to keep your peace</div>
+          <p>Eighteen centuries ago the master Nāgārjuna set down twenty-five concrete strategies for not getting hijacked by anger — in plain modern English.</p>
+          <div class="foot">
+            <span class="stat"><b>25</b> methods</span>
+            <span class="go">Read <span class="arw">→</span></span>
+          </div>
+          <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><path d="M50 92c18-13 30-26 30-45a17 17 0 0 0-30-11 17 17 0 0 0-30 11c0 19 12 32 30 45Z"/></svg>
+        </a>
+
       </div>
     </div>
-  </div>
-</section>
+  </section>
+
+  <!-- ON THE WAY -->
+  <section class="dh-soon">
+    <div class="dh-wrap">
+      <div class="dh-head" data-rv>
+        <div class="lbl">Growing the collection</div>
+        <h2>On the way.</h2>
+        <p>Our aim is to bring the whole of the Dharma — both vehicles, every gate of practice — into clear English. These are in preparation.</p>
+      </div>
+      <div class="dh-grid3">
+        <div class="dh-prep" data-rv>
+          <span class="tag">In preparation</span>
+          <h3>Mahāyāna Sūtras</h3>
+          <div class="sub">The great vehicle's scriptures</div>
+          <p>The Heart Sūtra, the Diamond Sūtra, and others — with reading guides that open their meaning for the modern reader.</p>
+        </div>
+        <div class="dh-prep" data-rv style="transition-delay:.08s">
+          <span class="tag">In preparation</span>
+          <h3>Pure Land &amp; Recitation</h3>
+          <div class="sub">The path of faith</div>
+          <p>The teachings and practices of the Pure Land tradition — Amitābha, the recollection of the Buddha (<em>nianfo</em>), and its masters.</p>
+        </div>
+        <div class="dh-prep" data-rv style="transition-delay:.16s">
+          <span class="tag">In preparation</span>
+          <h3>Treatises &amp; Commentaries</h3>
+          <div class="sub">The masters who explained the path</div>
+          <p>Śāstras and commentaries from the great teachers of both traditions — the works that made the teaching practicable.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var els=document.querySelectorAll('.dh [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
