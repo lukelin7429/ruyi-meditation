@@ -6,54 +6,56 @@ title: About
 <script>document.documentElement.classList.add('js');</script>
 
 <style>
-  /* ============ ABOUT — bespoke, warm green palette ============ */
-  .ab{--green:#559986;--green-deep:#3f7565;--green-dark:#2c5446;--green-soft:#e8f1ed;
-      --gold:#e3b765;--cream:#f4f1ec;--ink:#2a211b;--ink-soft:#6a5e52;--line:#e6ddd0;}
+  /* ============ ABOUT — bespoke, indigo & gold palette (Dharma method) ============ */
+  .ab{--indigo:#2f4a63;--indigo-deep:#1b2d3e;--indigo-soft:#e9eef3;
+      --gold:#e3b765;--gold-deep:#b88a37;--cream:#f6f3ec;--ink:#23211d;--ink-soft:#665f54;--line:#e6ddcf;}
   .ab *{box-sizing:border-box;}
   .ab-wrap{max-width:1040px;margin:0 auto;padding:0 26px;}
+  .ab-narrow{max-width:760px;}
 
   /* reveal */
   .js .ab [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
   .js .ab [data-rv].in{opacity:1;transform:none;}
 
-  /* ---- HERO ---- */
+  /* ---- HERO (no photo — color only, like Dharma) ---- */
   .ab-hero{position:relative;overflow:hidden;color:#fff;
     background:
-      linear-gradient(160deg,rgba(44,84,70,.62) 0%,rgba(44,84,70,.74) 45%,rgba(20,40,33,.92) 100%),
-      url('{{ '/assets/images/hero-valley.jpg' | relative_url }}') center 38%/cover no-repeat;}
-  .ab-hero-in{position:relative;max-width:1040px;margin:0 auto;padding:108px 26px 96px;z-index:2;}
+      radial-gradient(120% 90% at 80% 16%, rgba(227,183,101,.26), transparent 60%),
+      linear-gradient(155deg,#3a5a78 0%,#2f4a63 38%,#172533 100%);}
+  .ab-hero-in{position:relative;max-width:1040px;margin:0 auto;padding:88px 26px 82px;z-index:2;}
+  .ab-wheel{position:absolute;right:-90px;top:-60px;width:420px;height:420px;color:rgba(227,183,101,.15);z-index:1;animation:abspin 90s linear infinite;}
+  @keyframes abspin{to{transform:rotate(360deg);}}
   .ab-eyebrow{font-size:13px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);font-weight:600;}
-  .ab-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(40px,6.6vw,72px);line-height:1.05;margin:16px 0 0;max-width:15ch;text-shadow:0 2px 24px rgba(0,0,0,.35);}
+  .ab-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(40px,6.6vw,72px);line-height:1.05;margin:16px 0 0;max-width:15ch;}
   .ab-hero h1 em{font-style:italic;color:var(--gold);}
   .ab-rule{width:64px;height:3px;background:var(--gold);border-radius:3px;margin:24px 0;}
-  .ab-hero p{max-width:660px;font-size:19px;line-height:1.75;color:#f1f6f3;text-shadow:0 1px 12px rgba(0,0,0,.3);}
+  .ab-hero p{max-width:660px;font-size:19px;line-height:1.75;color:#e9eff4;}
 
   /* ---- PROSE SECTIONS ---- */
   .ab-sec{padding:84px 0;}
   .ab-sec.white{background:#fff;}
   .ab-sec.cream{background:var(--cream);}
-  .ab-narrow{max-width:760px;}
-  .ab-lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--green-deep);}
+  .ab-lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--indigo);}
   .ab-sec h2{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(28px,4.4vw,42px);color:var(--ink);line-height:1.12;margin:12px 0 26px;}
-  .ab-sec h2 em{font-style:italic;color:var(--green-deep);}
+  .ab-sec h2 em{font-style:italic;color:var(--indigo);}
   .ab-sec p.lede{font-size:18.5px;line-height:1.8;color:var(--ink-soft);margin:0;}
   .ab-sec p.lede + p.lede{margin-top:24px;}
   .ab-sec p.lede strong{color:var(--ink);}
-  .ab-sec p.lede em{color:var(--green-dark);}
+  .ab-sec p.lede em{color:var(--indigo-deep);}
 
   /* ---- FOUNDERS ---- */
   .ab-headblock{max-width:680px;margin:0 0 44px;}
   .ab-headblock h2{margin-bottom:0;}
   .founder-pair{display:grid;gap:28px;grid-template-columns:1fr;}
   @media(min-width:720px){.founder-pair{grid-template-columns:1fr 1fr;}}
-  .ab .founder-card{position:relative;background:#fff;border-radius:18px;border-top:4px solid var(--green);
-    padding:34px 32px 32px;box-shadow:0 22px 46px -28px rgba(44,84,70,.45);
+  .ab .founder-card{position:relative;background:#fff;border-radius:18px;border-top:4px solid var(--indigo);
+    padding:34px 32px 32px;box-shadow:0 22px 46px -28px rgba(47,74,99,.45);
     transition:transform .32s cubic-bezier(.22,.61,.36,1),box-shadow .32s;overflow:hidden;}
-  .ab .founder-card:hover{transform:translateY(-6px);box-shadow:0 34px 58px -28px rgba(44,84,70,.55);}
+  .ab .founder-card:hover{transform:translateY(-6px);box-shadow:0 34px 58px -28px rgba(47,74,99,.55);}
   .ab .founder-photo{width:96px;height:96px;border-radius:50%;object-fit:cover;
-    border:3px solid var(--green-soft);box-shadow:0 8px 20px -10px rgba(44,84,70,.5);margin-bottom:18px;}
+    border:3px solid var(--indigo-soft);box-shadow:0 8px 20px -10px rgba(47,74,99,.5);margin-bottom:18px;}
   .ab .founder-card h3{font-family:'Playfair Display',serif;font-size:25px;color:var(--ink);margin:0 0 2px;}
-  .ab .founder-card .person-zh{font-size:16px;color:var(--green-deep);font-weight:600;margin:0 0 6px;}
+  .ab .founder-card .person-zh{font-size:16px;color:var(--indigo);font-weight:600;margin:0 0 6px;}
   .ab .founder-card .person-role{font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--ink-soft);margin:0 0 16px;}
   .ab .founder-card p:last-child{font-size:16px;line-height:1.7;color:var(--ink-soft);margin:0;}
 
@@ -62,14 +64,14 @@ title: About
   @media(min-width:560px){.team-grid{grid-template-columns:1fr 1fr;}}
   @media(min-width:920px){.team-grid{grid-template-columns:repeat(3,1fr);}}
   .ab .team-card{position:relative;background:#fff;border-radius:16px;
-    padding:30px 26px 28px;box-shadow:0 18px 40px -26px rgba(44,84,70,.4);
-    border-bottom:4px solid var(--green);
+    padding:30px 26px 28px;box-shadow:0 18px 40px -26px rgba(47,74,99,.4);
+    border-bottom:4px solid var(--indigo);
     transition:transform .3s cubic-bezier(.22,.61,.36,1),box-shadow .3s;overflow:hidden;}
-  .ab .team-card:hover{transform:translateY(-5px);box-shadow:0 28px 50px -26px rgba(44,84,70,.5);}
+  .ab .team-card:hover{transform:translateY(-5px);box-shadow:0 28px 50px -26px rgba(47,74,99,.5);}
   .ab .team-photo{width:80px;height:80px;border-radius:50%;object-fit:cover;
-    border:3px solid var(--green-soft);box-shadow:0 6px 16px -8px rgba(44,84,70,.5);margin-bottom:16px;}
+    border:3px solid var(--indigo-soft);box-shadow:0 6px 16px -8px rgba(47,74,99,.5);margin-bottom:16px;}
   .ab .team-card h3{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);margin:0 0 2px;}
-  .ab .team-card .person-zh{font-size:15px;color:var(--green-deep);font-weight:600;margin:0 0 6px;}
+  .ab .team-card .person-zh{font-size:15px;color:var(--indigo);font-weight:600;margin:0 0 6px;}
   .ab .team-card .person-role{font-size:12px;letter-spacing:.13em;text-transform:uppercase;font-weight:700;color:var(--ink-soft);margin:0 0 14px;}
   .ab .team-card p:last-child{font-size:15px;line-height:1.65;color:var(--ink-soft);margin:0;}
 </style>
@@ -78,6 +80,13 @@ title: About
 
   <!-- HERO -->
   <section class="ab-hero">
+    <svg class="ab-wheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+      <circle cx="50" cy="50" r="46"/><circle cx="50" cy="50" r="12"/>
+      <g stroke-width="2"><line x1="50" y1="4" x2="50" y2="96"/><line x1="4" y1="50" x2="96" y2="50"/>
+      <line x1="17" y1="17" x2="83" y2="83"/><line x1="83" y1="17" x2="17" y2="83"/>
+      <line x1="29" y1="9" x2="71" y2="91"/><line x1="91" y1="29" x2="9" y2="71"/>
+      <line x1="9" y1="29" x2="91" y2="71"/><line x1="71" y1="9" x2="29" y2="91"/></g>
+    </svg>
     <div class="ab-hero-in">
       <div class="ab-eyebrow" data-rv>About · 如意精舍</div>
       <h1 data-rv style="transition-delay:.08s">The center on <em>Fengguidou mountain.</em></h1>
@@ -149,25 +158,25 @@ title: About
           <p class="person-role">Executive Director</p>
           <p>Luke leads Ru-Yi's English-language teaching and writes most of the columns on this site. A lifelong English teacher in Taiwan, he has spent decades working at the seam between language education and the Buddhist tradition.</p>
         </div>
-        <div class="team-card" data-rv style="transition-delay:.08s">
+        <div class="team-card" data-rv style="transition-delay:.06s">
           <img class="team-photo" src="{{ '/assets/images/team/lucien.jpg' | relative_url }}" alt="Lucien Hsieh">
           <h3>Lucien Hsieh</h3>
           <p class="person-role">Deputy Executive Director</p>
           <p>Supports center operations and program coordination.</p>
         </div>
-        <div class="team-card" data-rv style="transition-delay:.16s">
+        <div class="team-card" data-rv style="transition-delay:.12s">
           <img class="team-photo" src="{{ '/assets/images/team/jennafer.jpg' | relative_url }}" alt="Jennafer Duerden">
           <h3>Jennafer Duerden</h3>
           <p class="person-role">Writer / Editor</p>
           <p>Contributes regular columns on right livelihood, ethics, and the practical edges of the Buddhist life.</p>
         </div>
-        <div class="team-card" data-rv style="transition-delay:.08s">
+        <div class="team-card" data-rv style="transition-delay:.06s">
           <img class="team-photo" src="{{ '/assets/images/team/dom.jpg' | relative_url }}" alt="Dom Jones">
           <h3>Dom Jones</h3>
           <p class="person-role">Teacher</p>
           <p>Teaches in our English-language programs.</p>
         </div>
-        <div class="team-card" data-rv style="transition-delay:.16s">
+        <div class="team-card" data-rv style="transition-delay:.12s">
           <img class="team-photo" src="{{ '/assets/images/team/david.jpg' | relative_url }}" alt="David Wei">
           <h3>David Wei</h3>
           <p class="person-role">Social Media Lead</p>
@@ -180,7 +189,6 @@ title: About
 </div>
 
 <script>
-  document.documentElement.classList.add('js');
   (function(){
     var els=document.querySelectorAll('.ab [data-rv]');
     if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
