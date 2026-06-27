@@ -58,6 +58,20 @@ permalink: /community/
   .cm-card .go .arw{transition:transform .25s;}
   .cm-card:hover .go .arw{transform:translateX(5px);}
   .cm-bigwheel{position:absolute;right:-46px;bottom:-46px;width:185px;height:185px;color:rgba(255,255,255,.08);}
+
+  /* ===== unified hover juice (added) ===== */
+  .cm-card{will-change:transform;}
+  .cm-card::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;z-index:3;
+    background:linear-gradient(120deg,transparent 34%,rgba(255,255,255,.26) 50%,transparent 66%);
+    transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,.61,.36,1);}
+  .cm-card:hover::after{transform:translateX(130%);}
+  .cm-card:hover{transform:translateY(-10px) scale(1.012);}
+  .cm-bigwheel{transition:transform .7s cubic-bezier(.22,.61,.36,1);}
+  .cm-card:hover .cm-bigwheel{transform:rotate(38deg) scale(1.14);}
+  .cm-card.amber:hover{box-shadow:0 40px 74px -24px rgba(224,166,58,.72);}
+  .cm-card.plum:hover{box-shadow:0 40px 74px -24px rgba(122,63,118,.72);}
+  .cm-card.jade:hover{box-shadow:0 40px 74px -24px rgba(53,122,105,.72);}
+  @media(prefers-reduced-motion:reduce){.cm-card::after{display:none;}.cm-card:hover{transform:none;}}
 </style>
 
 <div class="cm">

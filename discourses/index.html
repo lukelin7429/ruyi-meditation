@@ -79,6 +79,18 @@ title: The Discourses
   .dc-prep h3{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);margin:0 0 4px;}
   .dc-prep .sub{font-size:13.5px;color:var(--jade-deep);font-weight:600;margin-bottom:10px;}
   .dc-prep p{font-size:15px;line-height:1.6;color:var(--ink-soft);margin:0;}
+
+  /* ===== unified hover juice (added) ===== */
+  .dc-card{will-change:transform;}
+  .dc-card::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;z-index:3;
+    background:linear-gradient(120deg,transparent 34%,rgba(255,255,255,.26) 50%,transparent 66%);
+    transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,.61,.36,1);}
+  .dc-card:hover::after{transform:translateX(130%);}
+  .dc-card:hover{transform:translateY(-10px) scale(1.012);}
+  .dc-bigwheel{transition:transform .7s cubic-bezier(.22,.61,.36,1);}
+  .dc-card:hover .dc-bigwheel{transform:rotate(38deg) scale(1.14);}
+  .dc-card.jade:hover{box-shadow:0 40px 74px -24px rgba(53,122,105,.72);}
+  @media(prefers-reduced-motion:reduce){.dc-card::after{display:none;}.dc-card:hover{transform:none;}}
 </style>
 
 <div class="dc">
