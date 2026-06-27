@@ -4,29 +4,32 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ru-Yi English School — Lessons · Ru-Yi Meditation Center</title>
-<meta name="description" content="The Ru-Yi English School: a bilingual curriculum weaving English learning together with the cultivation of the heart. Vocabulary, patterns, stories, and a self-check quiz for every week. Free, for students and seekers everywhere.">
+<meta name="description" content="The Ru-Yi English School: a bilingual curriculum weaving English learning together with the cultivation of the heart. Vocabulary, patterns, stories, and a self-check quiz for every week. Designed by Teacher Dom. Free, for students and seekers everywhere.">
 <link rel="canonical" href="https://www.ruyimeditation.org/english-school/">
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
 <meta name="theme-color" content="#559986">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700&family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
 <style>
 :root{
   --green:#559986;--green-deep:#3f7565;--green-soft:#eef4f1;
   --rust:#b8431c;--rust-deep:#8c2f12;--gold:#c9912f;--gold-soft:#fbf3e2;
-  --ink:#1a1a1a;--ink-2:#4a4a4a;--ink-3:#6b6b6b;--rule:#e3e1dc;
-  --bg:#fff;--bg-2:#f5f6f8;--cream:#f4f1ec;--max:1040px;
+  --ink:#27313a;--ink-2:#4a4a4a;--ink-3:#6b6b6b;--rule:#e3e1dc;
+  --bg:#fffdf8;--max:1100px;
+  --display:'Fredoka','PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;
+  --body:'Nunito','PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;
 }
 *{box-sizing:border-box;margin:0;padding:0;}
 html{scroll-behavior:smooth;}
-body{font-family:'Inter','PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;color:var(--ink);background:var(--bg);font-size:18px;line-height:1.7;-webkit-font-smoothing:antialiased;}
+body{font-family:var(--body);color:var(--ink);background:var(--bg);font-size:18px;line-height:1.7;-webkit-font-smoothing:antialiased;}
 img{max-width:100%;display:block;}
 a{color:var(--rust);text-decoration:none;}
 a:hover{text-decoration:underline;}
 .wrap{max-width:var(--max);margin:0 auto;padding:0 26px;}
 
+/* ===== SITE HEADER (verbatim — must stay pixel-identical across the site) ===== */
 .site-header{background:rgba(255,255,255,.94);backdrop-filter:saturate(180%) blur(10px);-webkit-backdrop-filter:saturate(180%) blur(10px);border-bottom:1px solid #e7e7ea;position:sticky;top:0;z-index:100;}
 .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
 .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
@@ -41,45 +44,108 @@ a:hover{text-decoration:underline;}
 .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
 @media (max-width:720px){.header-inner{padding:0 22px;min-height:64px;gap:16px;}.brand-name{display:none;}.site-nav{gap:18px;}.site-nav a{font-size:14px;}}
 
-.hero{background:linear-gradient(165deg,#f3f7f4 0%,#eef4f1 55%,#fbf3e2 100%);border-bottom:1px solid var(--rule);padding:54px 0 56px;}
-.hero .eyebrow{font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--rust-deep);font-weight:600;margin-bottom:14px;}
-.hero h1{font-family:'Playfair Display',serif;font-size:40px;line-height:1.05;font-weight:700;max-width:760px;}
-@media(min-width:720px){.hero h1{font-size:54px;}}
-.hero .zh{font-size:20px;color:var(--green-deep);margin-top:12px;font-weight:500;}
-.hero p.lede{font-size:19px;color:var(--ink-2);margin-top:20px;max-width:680px;line-height:1.7;}
+/* ===== HERO ===== */
+.hero{position:relative;overflow:hidden;border-bottom:1px solid #f0e7d5;
+  background:linear-gradient(135deg,#fff4d6 0%,#ffe2ec 38%,#e4f7ef 72%,#e2f0ff 100%);
+  background-size:200% 200%;animation:heroDrift 18s ease-in-out infinite;}
+@keyframes heroDrift{0%,100%{background-position:0% 50%;}50%{background-position:100% 50%;}}
+.hero-inner{position:relative;z-index:2;padding:64px 0 70px;}
+.hero .eyebrow{display:inline-flex;align-items:center;gap:8px;font-family:var(--display);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:#b8431c;font-weight:600;background:rgba(255,255,255,.7);padding:7px 16px;border-radius:30px;margin-bottom:20px;box-shadow:0 6px 18px -10px rgba(184,67,28,.5);}
+.hero h1{font-family:var(--display);font-size:42px;line-height:1.04;font-weight:700;max-width:14ch;color:#2f4738;}
+@media(min-width:720px){.hero h1{font-size:66px;}}
+.hero h1 .pop{color:#e8722e;}
+.hero h1 .pop2{color:#e0518a;}
+.hero .zh{font-family:var(--display);font-size:21px;color:var(--green-deep);margin-top:14px;font-weight:500;}
+.hero p.lede{font-size:19px;color:#46554b;margin-top:20px;max-width:600px;line-height:1.65;font-weight:600;}
+.hero-credit{display:inline-flex;align-items:center;gap:10px;margin-top:26px;background:#fff;border:2px solid #ffe0ad;border-radius:40px;padding:9px 20px 9px 12px;font-weight:700;color:#a3560f;box-shadow:0 12px 26px -16px rgba(196,108,17,.6);}
+.hero-credit .pen{width:34px;height:34px;border-radius:50%;background:linear-gradient(135deg,#ffd166,#ff9f43);display:flex;align-items:center;justify-content:center;font-size:18px;}
+.hero-credit small{display:block;font-weight:600;font-size:12px;letter-spacing:.05em;color:#c98a3c;text-transform:uppercase;}
+/* floating decorations */
+.float{position:absolute;z-index:1;font-size:42px;opacity:.85;filter:drop-shadow(0 8px 14px rgba(0,0,0,.08));animation:bob 7s ease-in-out infinite;}
+.f1{top:14%;right:8%;font-size:64px;animation-delay:0s;}
+.f2{top:58%;right:16%;font-size:40px;animation-delay:1.2s;}
+.f3{top:30%;right:28%;font-size:30px;animation-delay:.6s;}
+.f4{bottom:12%;right:4%;font-size:48px;animation-delay:2s;}
+.f5{top:70%;left:50%;font-size:28px;animation-delay:1.6s;}
+@keyframes bob{0%,100%{transform:translateY(0) rotate(-4deg);}50%{transform:translateY(-18px) rotate(4deg);}}
+@media(max-width:720px){.f1{font-size:44px;right:4%;}.f3,.f5{display:none;}}
 
-main{padding:52px 0 30px;}
-.quarter{margin-bottom:56px;}
-.quarter-head{margin-bottom:24px;}
-.quarter-head .q-tag{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--rust-deep);font-weight:600;}
-.quarter-head h2{font-family:'Playfair Display',serif;font-size:28px;font-weight:700;margin-top:4px;}
-@media(min-width:720px){.quarter-head h2{font-size:32px;}}
-.quarter-head p{font-size:16px;color:var(--ink-3);margin-top:6px;}
+main{padding:18px 0 30px;}
 
-.lessons{display:grid;gap:14px;grid-template-columns:1fr;}
-@media(min-width:620px){.lessons{grid-template-columns:1fr 1fr;}}
-@media(min-width:920px){.lessons{grid-template-columns:1fr 1fr 1fr;}}
-
-.lcard{display:flex;flex-direction:column;border:1px solid var(--rule);border-radius:10px;padding:18px 20px;background:#fff;transition:transform .14s,box-shadow .14s,border-color .14s;min-height:128px;}
-a.lcard:hover{transform:translateY(-3px);box-shadow:0 14px 30px -16px rgba(63,117,101,.4);border-color:var(--green);text-decoration:none;}
-.lcard .wk{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);font-weight:600;margin-bottom:8px;display:flex;align-items:center;gap:8px;}
-.lcard .dot{width:7px;height:7px;border-radius:50%;background:var(--green);display:inline-block;}
-.lcard h3{font-family:'Playfair Display',serif;font-size:19px;line-height:1.25;color:var(--ink);margin-bottom:auto;}
-.lcard .go{font-size:14px;color:var(--rust);font-weight:600;margin-top:14px;}
-.lcard.soon{background:var(--bg-2);border-style:dashed;opacity:.92;}
-.lcard.soon .dot{background:#c4c0b8;}
-.lcard.soon h3{color:var(--ink-2);}
-.lcard.soon .go{color:var(--ink-3);font-weight:500;}
-
-.intro-note{background:var(--green-soft);border:1px solid #d8e6df;border-radius:10px;padding:20px 24px;margin-bottom:48px;font-size:16px;color:var(--ink-2);line-height:1.65;}
+/* ===== INTRO / TEACHER CARD ===== */
+.welcome{display:grid;gap:18px;grid-template-columns:1fr;margin:40px 0 8px;}
+@media(min-width:860px){.welcome{grid-template-columns:1.35fr 1fr;align-items:stretch;}}
+.intro-note{background:#fff;border:2px solid #d8eee4;border-radius:22px;padding:26px 28px;font-size:17px;color:#46554b;line-height:1.7;font-weight:600;box-shadow:0 18px 36px -28px rgba(63,117,101,.5);}
+.intro-note .ico{font-size:34px;margin-bottom:8px;}
 .intro-note b{color:var(--green-deep);}
+.teacher{background:linear-gradient(160deg,#fff6e3,#ffe9d2);border:2px solid #ffd9a8;border-radius:22px;padding:26px 28px;box-shadow:0 18px 36px -26px rgba(196,108,17,.55);position:relative;overflow:hidden;}
+.teacher::after{content:"💛";position:absolute;right:-10px;bottom:-14px;font-size:120px;opacity:.12;transform:rotate(-12deg);}
+.teacher .who{display:flex;align-items:center;gap:14px;margin-bottom:12px;}
+.teacher .av{width:58px;height:58px;border-radius:50%;background:linear-gradient(135deg,#ffd166,#ff8a3d);display:flex;align-items:center;justify-content:center;font-size:30px;box-shadow:0 8px 18px -8px rgba(255,138,61,.7);flex-shrink:0;}
+.teacher .who h3{font-family:var(--display);font-size:22px;color:#9a4f0c;line-height:1.1;}
+.teacher .who span{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:#c0822f;font-weight:700;}
+.teacher p{font-size:16px;color:#6b4a23;line-height:1.65;font-weight:600;position:relative;z-index:1;}
+
+/* ===== QUARTERS ===== */
+.quarter{margin:44px 0 8px;}
+.quarter-head{display:flex;align-items:center;gap:16px;margin-bottom:24px;flex-wrap:wrap;}
+.q-badge{font-family:var(--display);font-weight:700;color:#fff;font-size:15px;padding:8px 18px;border-radius:30px;letter-spacing:.02em;box-shadow:0 12px 24px -12px rgba(0,0,0,.35);}
+.q1 .q-badge{background:linear-gradient(135deg,#ff9f43,#ff6f3d);}
+.q2 .q-badge{background:linear-gradient(135deg,#ff7eb3,#9b6bff);}
+.quarter-head h2{font-family:var(--display);font-size:26px;font-weight:700;color:#36433b;line-height:1.1;}
+@media(min-width:720px){.quarter-head h2{font-size:32px;}}
+.quarter-head .q-sub{flex-basis:100%;font-size:15px;color:#6b6b6b;font-weight:600;margin-top:-6px;}
+
+.lessons{display:grid;gap:18px;grid-template-columns:1fr;}
+@media(min-width:560px){.lessons{grid-template-columns:1fr 1fr;}}
+@media(min-width:880px){.lessons{grid-template-columns:1fr 1fr 1fr;}}
+
+.lcard{position:relative;display:flex;flex-direction:column;border-radius:22px;padding:22px 22px 20px;background:#fff;border:2px solid var(--c-line);
+  box-shadow:0 16px 30px -24px rgba(40,49,58,.5);overflow:hidden;
+  transition:transform .45s cubic-bezier(.2,.7,.2,1),box-shadow .25s,opacity .5s;}
+/* cards are visible by default; reveal animation only applies when JS opts in */
+.js-reveal .lcard{opacity:0;transform:translateY(22px);}
+.js-reveal .lcard.in{opacity:1;transform:translateY(0);}
+.lcard::before{content:"";position:absolute;inset:0 0 auto 0;height:8px;background:var(--c-bar);}
+a.lcard:hover{transform:translateY(-8px) rotate(-.6deg);box-shadow:0 26px 44px -22px var(--c-shadow);text-decoration:none;border-color:var(--c-bar);}
+.lcard .top{display:flex;align-items:center;gap:13px;margin-bottom:14px;margin-top:4px;}
+.lcard .emo{width:54px;height:54px;border-radius:18px;background:var(--c-soft);display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0;transition:transform .3s;}
+a.lcard:hover .emo{transform:scale(1.12) rotate(-8deg);}
+.lcard .wk{font-family:var(--display);font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--c-bar);font-weight:600;}
+.lcard .wknum{font-family:var(--display);font-size:24px;font-weight:700;color:#3a4540;line-height:1;}
+.lcard h3{font-family:var(--display);font-size:19px;line-height:1.22;color:#33403a;margin-bottom:auto;font-weight:600;}
+.lcard .go{font-family:var(--display);font-size:14px;color:var(--c-bar);font-weight:600;margin-top:16px;display:inline-flex;align-items:center;gap:6px;}
+.lcard .go .arr{transition:transform .25s;}
+a.lcard:hover .go .arr{transform:translateX(5px);}
+.lcard .live{position:absolute;top:14px;right:14px;font-family:var(--display);font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#fff;background:#2bb673;padding:4px 10px;border-radius:20px;box-shadow:0 6px 14px -6px rgba(43,182,115,.8);}
+
+/* color themes (cycled per card) */
+.t-saffron{--c-bar:#ff8a3d;--c-soft:#fff0e0;--c-line:#ffe4ce;--c-shadow:rgba(255,138,61,.55);}
+.t-pink{--c-bar:#ff6f91;--c-soft:#ffe6ee;--c-line:#ffd6e1;--c-shadow:rgba(255,111,145,.55);}
+.t-jade{--c-bar:#2bb3a3;--c-soft:#dff6f2;--c-line:#c7efe9;--c-shadow:rgba(43,179,163,.5);}
+.t-sky{--c-bar:#4aa8f0;--c-soft:#e2f1ff;--c-line:#cfe7ff;--c-shadow:rgba(74,168,240,.5);}
+.t-coral{--c-bar:#ff6b5e;--c-soft:#ffe7e3;--c-line:#ffd6cf;--c-shadow:rgba(255,107,94,.5);}
+.t-violet{--c-bar:#9b6bff;--c-soft:#efe6ff;--c-line:#e1d3ff;--c-shadow:rgba(155,107,255,.5);}
+.t-gold{--c-bar:#e0a020;--c-soft:#fdf2d4;--c-line:#f7e6b4;--c-shadow:rgba(224,160,32,.5);}
+
+/* ===== FOOTER ===== */
+.thanks{text-align:center;margin:54px 0 10px;padding:30px 24px;background:linear-gradient(135deg,#fff4d6,#ffe2ec 55%,#e4f7ef);border-radius:24px;border:2px solid #ffe7c2;}
+.thanks .big{font-family:var(--display);font-size:24px;color:#b85a17;font-weight:700;margin-bottom:6px;}
+.thanks p{font-size:16px;color:#6b5230;font-weight:600;}
 
 .site-footer{border-top:1px solid var(--rule);background:#1f2622;color:#cdd6d1;margin-top:30px;}
 .footer-inner{max-width:1100px;margin:0 auto;padding:34px 26px 26px;}
 .footer-inner p{font-size:14px;line-height:1.7;color:#aeb8b3;margin-bottom:3px;}
 .footer-inner a{color:#e7d9a8;}
+.footer-credit{color:#f0c98a !important;font-weight:700;}
 .footer-bottom{border-top:1px solid #33403a;margin-top:18px;padding-top:14px;font-size:13px;color:#8b958f;}
 .footer-bottom .free{color:#9fc7b6;}
+
+@media(prefers-reduced-motion:reduce){
+  .hero{animation:none;}.float{animation:none;}
+  .lcard{opacity:1;transform:none;transition:box-shadow .2s,border-color .2s;}
+  a.lcard:hover{transform:translateY(-4px);}
+}
 </style>
 </head>
 <body>
@@ -102,70 +168,94 @@ a.lcard:hover{transform:translateY(-3px);box-shadow:0 14px 30px -16px rgba(63,11
 </header>
 
 <section class="hero">
-  <div class="wrap">
-    <div class="eyebrow">Ru-Yi English School</div>
-    <h1>English for the mind and the heart.</h1>
-    <div class="zh">如意英文學校 · 線上複習課程</div>
-    <p class="lede">A bilingual curriculum that weaves English learning together with the cultivation of the heart. Each week brings vocabulary you can hear and say, sentence patterns, a story, a Buddhist principle, a daily practice, and a self-check quiz. Free, for our students and for seekers everywhere.</p>
+  <span class="float f1">🪷</span>
+  <span class="float f2">🌈</span>
+  <span class="float f3">⭐</span>
+  <span class="float f4">☀️</span>
+  <span class="float f5">✨</span>
+  <div class="wrap hero-inner">
+    <div class="eyebrow">🎒 Ru-Yi English School</div>
+    <h1>English for the <span class="pop">mind</span> and the <span class="pop2">heart</span>.</h1>
+    <div class="zh">如意英文學校 · 線上複習樂園</div>
+    <p class="lede">Twenty-four happy weeks of English — words you can hear and say, fun stories, and a little kindness practice every time. Pick a week and let's play!</p>
+    <div class="hero-credit">
+      <span class="pen">✏️</span>
+      <span><small>Curriculum designed by</small>Teacher Dom 老師</span>
+    </div>
   </div>
 </section>
 
 <main>
 <div class="wrap">
 
-  <div class="intro-note">
-    <b>For our students:</b> use these pages to review what we practiced in class — listen to the vocabulary, read the story again, and test yourself with the quiz. 上課的同學可以用這些頁面複習：聽單字發音、重讀故事、做小考檢測自己。
+  <div class="welcome">
+    <div class="intro-note">
+      <div class="ico">📚</div>
+      <b>Hello, students!</b> Use these pages to review what we did in class — tap the 🔊 to hear each word, read the story again, and try the quiz to test yourself. Have fun!<br>
+      <span style="color:#6b6b6b;">上課的同學可以用這些頁面複習：聽單字發音、重讀故事、做小考檢測自己。一起快樂學英文！</span>
+    </div>
+    <div class="teacher">
+      <div class="who">
+        <div class="av">🌟</div>
+        <div>
+          <span>Our Teacher</span>
+          <h3>Teacher Dom</h3>
+        </div>
+      </div>
+      <p>Every week of this journey was lovingly designed by <b>Teacher Dom</b>, who weaves English together with a kind and peaceful heart. Thank you, Teacher Dom! 這趟英文旅程的每一週，都是 Teacher Dom 老師用心設計的。謝謝老師！💛</p>
+    </div>
   </div>
 
   <!-- QUARTER 1 -->
-  <section class="quarter">
+  <section class="quarter q1">
     <div class="quarter-head">
-      <div class="q-tag">Quarter 1 · Months 1–3</div>
-      <h2>Foundation, Effort &amp; Diligence</h2>
-      <p>Building the mind and the vocabulary — consistency, clarity, and Right Effort. 基礎、精進與恆心。</p>
+      <span class="q-badge">Quarter 1 · Months 1–3</span>
+      <h2>Foundation, Effort &amp; Diligence 🌱</h2>
+      <p class="q-sub">Building the mind and the words — consistency, clarity, and Right Effort. 基礎、精進與恆心。</p>
     </div>
     <div class="lessons">
-      <a class="lcard" href="/english-school/q1w1/">
-        <div class="wk"><span class="dot"></span>Week 1 · Live</div>
-        <h3>Right Effort in Gratitude</h3>
-        <div class="go">Start the lesson →</div>
-      </a>
-      <a class="lcard" href="/english-school/q1w2/"><div class="wk"><span class="dot"></span>Week 2</div><h3>Mindfulness &amp; the Present Moment</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w3/"><div class="wk"><span class="dot"></span>Week 3</div><h3>Past Actions, Present Results</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w4/"><div class="wk"><span class="dot"></span>Week 4</div><h3>Setting Intentions &amp; Compassionate Action</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w5/"><div class="wk"><span class="dot"></span>Week 5</div><h3>Self-Worth, Balance &amp; True Wealth</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w6/"><div class="wk"><span class="dot"></span>Week 6</div><h3>The Middle Path &amp; Right Action</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w7/"><div class="wk"><span class="dot"></span>Week 7</div><h3>Concentration &amp; the Present Moment</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w8/"><div class="wk"><span class="dot"></span>Week 8</div><h3>Sustained Effort &amp; the Present Moment</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w9/"><div class="wk"><span class="dot"></span>Week 9</div><h3>The Eightfold Path Synthesis</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w10/"><div class="wk"><span class="dot"></span>Week 10</div><h3>Emotional Management &amp; Upekkhā</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w11/"><div class="wk"><span class="dot"></span>Week 11</div><h3>Emotional Regulation &amp; the Power of Pause</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q1w12/"><div class="wk"><span class="dot"></span>Week 12</div><h3>Ahimsa in Action</h3><div class="go">Open the lesson →</div></a>
+      <a class="lcard t-saffron" href="/english-school/q1w1/"><span class="live">★ Live</span><div class="top"><span class="emo">🙏</span><div><div class="wk">Week</div><div class="wknum">1</div></div></div><h3>Right Effort in Gratitude</h3><div class="go">Start the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-pink" href="/english-school/q1w2/"><div class="top"><span class="emo">🧘</span><div><div class="wk">Week</div><div class="wknum">2</div></div></div><h3>Mindfulness &amp; the Present Moment</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-jade" href="/english-school/q1w3/"><div class="top"><span class="emo">🌱</span><div><div class="wk">Week</div><div class="wknum">3</div></div></div><h3>Past Actions, Present Results</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-sky" href="/english-school/q1w4/"><div class="top"><span class="emo">💗</span><div><div class="wk">Week</div><div class="wknum">4</div></div></div><h3>Setting Intentions &amp; Compassionate Action</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-coral" href="/english-school/q1w5/"><div class="top"><span class="emo">💎</span><div><div class="wk">Week</div><div class="wknum">5</div></div></div><h3>Self-Worth, Balance &amp; True Wealth</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-violet" href="/english-school/q1w6/"><div class="top"><span class="emo">🛤️</span><div><div class="wk">Week</div><div class="wknum">6</div></div></div><h3>The Middle Path &amp; Right Action</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-gold" href="/english-school/q1w7/"><div class="top"><span class="emo">🎯</span><div><div class="wk">Week</div><div class="wknum">7</div></div></div><h3>Concentration &amp; the Present Moment</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-saffron" href="/english-school/q1w8/"><div class="top"><span class="emo">🔥</span><div><div class="wk">Week</div><div class="wknum">8</div></div></div><h3>Sustained Effort &amp; the Present Moment</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-pink" href="/english-school/q1w9/"><div class="top"><span class="emo">☸️</span><div><div class="wk">Week</div><div class="wknum">9</div></div></div><h3>The Eightfold Path Synthesis</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-jade" href="/english-school/q1w10/"><div class="top"><span class="emo">🌊</span><div><div class="wk">Week</div><div class="wknum">10</div></div></div><h3>Emotional Management &amp; Upekkhā</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-sky" href="/english-school/q1w11/"><div class="top"><span class="emo">🌬️</span><div><div class="wk">Week</div><div class="wknum">11</div></div></div><h3>Emotional Regulation &amp; the Power of Pause</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-coral" href="/english-school/q1w12/"><div class="top"><span class="emo">🕊️</span><div><div class="wk">Week</div><div class="wknum">12</div></div></div><h3>Ahimsa in Action</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
     </div>
   </section>
 
   <!-- QUARTER 2 -->
-  <section class="quarter">
+  <section class="quarter q2">
     <div class="quarter-head">
-      <div class="q-tag">Quarter 2 · Months 4–7</div>
-      <h2>Character, Connection &amp; Ethical Communication</h2>
-      <p>Speaking with purpose and living ethically — loving-kindness, compassion, and joy. 品格、慈悲與善語。</p>
+      <span class="q-badge">Quarter 2 · Months 4–7</span>
+      <h2>Character, Connection &amp; Kind Words 💞</h2>
+      <p class="q-sub">Speaking with purpose and living kindly — loving-kindness, compassion, and joy. 品格、慈悲與善語。</p>
     </div>
     <div class="lessons">
-      <a class="lcard" href="/english-school/q2w13/"><div class="wk"><span class="dot"></span>Week 13</div><h3>Mettā — Good Will for All Life</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w14/"><div class="wk"><span class="dot"></span>Week 14</div><h3>Kindness &amp; Interconnectedness</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w15/"><div class="wk"><span class="dot"></span>Week 15</div><h3>The Heart of Love &amp; Kindness</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w16/"><div class="wk"><span class="dot"></span>Week 16</div><h3>From Mettā to Karuṇā</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w17/"><div class="wk"><span class="dot"></span>Week 17</div><h3>Mindfulness &amp; the Four Noble Truths</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w18/"><div class="wk"><span class="dot"></span>Week 18</div><h3>Muditā — The Joy of Others</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w19/"><div class="wk"><span class="dot"></span>Week 19</div><h3>Muditā in the Family</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w20/"><div class="wk"><span class="dot"></span>Week 20</div><h3>Deepening the Practice</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w21/"><div class="wk"><span class="dot"></span>Week 21</div><h3>Moving Meditation &amp; Positive Energy</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w22/"><div class="wk"><span class="dot"></span>Week 22</div><h3>Moving in Harmony</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w23/"><div class="wk"><span class="dot"></span>Week 23</div><h3>Yoking the Body &amp; Mind</h3><div class="go">Open the lesson →</div></a>
-      <a class="lcard" href="/english-school/q2w24/"><div class="wk"><span class="dot"></span>Week 24</div><h3>The Prince’s Great Journey</h3><div class="go">Open the lesson →</div></a>
+      <a class="lcard t-pink" href="/english-school/q2w13/"><div class="top"><span class="emo">💛</span><div><div class="wk">Week</div><div class="wknum">13</div></div></div><h3>Mettā — Good Will for All Life</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-jade" href="/english-school/q2w14/"><div class="top"><span class="emo">🤝</span><div><div class="wk">Week</div><div class="wknum">14</div></div></div><h3>Kindness &amp; Interconnectedness</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-coral" href="/english-school/q2w15/"><div class="top"><span class="emo">❤️</span><div><div class="wk">Week</div><div class="wknum">15</div></div></div><h3>The Heart of Love &amp; Kindness</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-violet" href="/english-school/q2w16/"><div class="top"><span class="emo">🤲</span><div><div class="wk">Week</div><div class="wknum">16</div></div></div><h3>From Mettā to Karuṇā</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-gold" href="/english-school/q2w17/"><div class="top"><span class="emo">🍃</span><div><div class="wk">Week</div><div class="wknum">17</div></div></div><h3>Mindfulness &amp; the Four Noble Truths</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-saffron" href="/english-school/q2w18/"><div class="top"><span class="emo">🎉</span><div><div class="wk">Week</div><div class="wknum">18</div></div></div><h3>Muditā — The Joy of Others</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-sky" href="/english-school/q2w19/"><div class="top"><span class="emo">👨‍👩‍👧</span><div><div class="wk">Week</div><div class="wknum">19</div></div></div><h3>Muditā in the Family</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-jade" href="/english-school/q2w20/"><div class="top"><span class="emo">🌳</span><div><div class="wk">Week</div><div class="wknum">20</div></div></div><h3>Deepening the Practice</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-pink" href="/english-school/q2w21/"><div class="top"><span class="emo">✨</span><div><div class="wk">Week</div><div class="wknum">21</div></div></div><h3>Moving Meditation &amp; Positive Energy</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-coral" href="/english-school/q2w22/"><div class="top"><span class="emo">🪷</span><div><div class="wk">Week</div><div class="wknum">22</div></div></div><h3>Moving in Harmony</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-violet" href="/english-school/q2w23/"><div class="top"><span class="emo">🧘‍♀️</span><div><div class="wk">Week</div><div class="wknum">23</div></div></div><h3>Yoking the Body &amp; Mind</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
+      <a class="lcard t-gold" href="/english-school/q2w24/"><div class="top"><span class="emo">👑</span><div><div class="wk">Week</div><div class="wknum">24</div></div></div><h3>The Prince's Great Journey</h3><div class="go">Open the lesson <span class="arr">→</span></div></a>
     </div>
   </section>
+
+  <div class="thanks">
+    <div class="big">✏️ Curriculum designed with love by Teacher Dom 老師</div>
+    <p>Twenty-four weeks of English &amp; heart — created for the students of the Ru-Yi English School.</p>
+  </div>
 
 </div>
 </main>
@@ -174,12 +264,37 @@ a.lcard:hover{transform:translateY(-3px);box-shadow:0 14px 30px -16px rgba(63,11
   <div class="footer-inner">
     <p style="font-family:'Playfair Display',serif;font-size:18px;color:#e7e2d6;margin-bottom:6px;">Ru-Yi Meditation Center · 如意精舍</p>
     <p>Founded 2017 · Nantou, Taiwan. The Ru-Yi English School integrates English learning with the cultivation of the heart.</p>
+    <p class="footer-credit">English School curriculum designed by Teacher Dom · 課程設計：Teacher Dom 老師</p>
     <p>中文姊妹站 · <a href="https://ruyi99.org" target="_blank" rel="noopener">如意精舍 ruyi99.org</a></p>
     <div class="footer-bottom">
-      <p>© Ru-Yi Meditation Center · <span class="free">Free, in keeping with the Buddha’s instruction.</span></p>
+      <p>© Ru-Yi Meditation Center · <span class="free">Free, in keeping with the Buddha's instruction.</span></p>
     </div>
   </div>
 </footer>
+
+<script>
+(function(){
+  var cards=document.querySelectorAll('.lcard');
+  if(!cards.length)return;
+  var reduce=window.matchMedia&&window.matchMedia('(prefers-reduced-motion:reduce)').matches;
+  if(reduce||!('IntersectionObserver'in window))return; // leave cards visible, no animation
+  // opt in to the hidden-then-reveal animation
+  document.body.classList.add('js-reveal');
+  function show(c){c.classList.add('in');}
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting){
+        var c=e.target,sibs=Array.prototype.slice.call(c.parentNode.children);
+        c.style.transitionDelay=(Math.min(sibs.indexOf(c),5)*70)+'ms';
+        show(c);io.unobserve(c);
+      }
+    });
+  },{threshold:.08,rootMargin:'0px 0px -8% 0px'});
+  cards.forEach(function(c){io.observe(c);});
+  // safety net: never leave a card invisible
+  setTimeout(function(){cards.forEach(show);},1600);
+})();
+</script>
 
 </body>
 </html>
