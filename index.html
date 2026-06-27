@@ -52,6 +52,24 @@ title: Home
   .page-home .recent-card:hover{transform:translateY(-5px);border-color:var(--accent);box-shadow:0 18px 38px -20px var(--accent);}
   .page-home .recent-card:hover::after{opacity:.12;}
   .page-home .recent-card .card-meta{color:var(--accent);}
+
+  /* ---- Verse of the Day ---- */
+  .page-home .section-verse{background:linear-gradient(160deg,#fbf4e8,#f7eef0 58%,#f3f6f4);padding:62px 0;}
+  .page-home .verse-card{position:relative;text-align:center;background:#fffdf9;
+    border:1px solid #ecdcc2;border-radius:22px;padding:40px 44px 34px;max-width:780px;margin:0 auto;
+    box-shadow:0 18px 50px -28px rgba(120,70,30,.4);overflow:hidden;}
+  .page-home .verse-card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;
+    background:linear-gradient(180deg,#b8431c,#e0a93f);}
+  .page-home .verse-card .eyebrow{color:#b8431c;margin-bottom:6px;}
+  .page-home .verse-mark{position:absolute;top:10px;right:30px;font-family:'Playfair Display',Georgia,serif;
+    font-size:96px;line-height:1;color:#b8431c;opacity:.10;pointer-events:none;}
+  .page-home .verse-q{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-weight:500;
+    font-size:clamp(21px,3vw,30px);line-height:1.55;color:#2a2725;margin:16px auto 0;max-width:30ch;}
+  .page-home .verse-plain{font-family:'Inter',sans-serif;font-size:16px;line-height:1.85;color:#6b6258;
+    margin:18px auto 0;max-width:48ch;}
+  .page-home .verse-src{display:block;margin-top:18px;font-family:'Playfair Display',Georgia,serif;
+    font-style:normal;font-size:15.5px;letter-spacing:.04em;color:#b8431c;}
+  @media(max-width:640px){.page-home .verse-card{padding:30px 24px 28px;}.page-home .verse-mark{right:18px;font-size:66px;}}
 </style>
 
 <!-- ============ HERO ============ -->
@@ -76,6 +94,21 @@ title: Home
     </div>
   </div>
 </header>
+
+<!-- ============ VERSE OF THE DAY (mirrors the Chinese site's 每日一句) ============ -->
+{% assign v0 = site.data.verses | first %}
+<section class="section section-verse">
+  <div class="section-inner section-narrow">
+    <div class="verse-card" data-rv>
+      <span class="eyebrow">Verse of the Day</span>
+      <span class="verse-mark" aria-hidden="true">&rdquo;</span>
+      <blockquote class="verse-q" id="verse-q">{{ v0.q }}</blockquote>
+      <p class="verse-plain" id="verse-plain">{{ v0.plain }}</p>
+      <cite class="verse-src" id="verse-src">&mdash; {{ v0.src }}</cite>
+      <script type="application/json" id="verse-data">{{ site.data.verses | jsonify }}</script>
+    </div>
+  </div>
+</section>
 
 <!-- ============ MISSION (Luke's original prose) ============ -->
 <section class="section section-cream">
@@ -232,5 +265,18 @@ title: Home
     if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
     var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
     els.forEach(function(e){io.observe(e);});
+  })();
+
+  // Verse of the Day — pick by today's date (same for everyone that day; auto-rotates)
+  (function(){
+    var dd=document.getElementById('verse-data'); if(!dd) return;
+    try{
+      var qs=JSON.parse(dd.textContent); if(!qs.length) return;
+      var now=new Date(), start=new Date(now.getFullYear(),0,0);
+      var day=Math.floor((now-start)/86400000);
+      var p=qs[((day%qs.length)+qs.length)%qs.length];
+      var q=document.getElementById('verse-q'), pl=document.getElementById('verse-plain'), s=document.getElementById('verse-src');
+      if(q)q.textContent=p.q; if(pl)pl.textContent=p.plain; if(s)s.textContent='— '+p.src;
+    }catch(e){}
   })();
 </script>
