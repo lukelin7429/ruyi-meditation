@@ -202,6 +202,7 @@ main{padding:44px 0 40px;}
 
 @media(prefers-reduced-motion:reduce){*{transition:none!important;}}
 </style>
+  <link rel="stylesheet" href="/assets/css/search.css">
 </head>
 <body class="t-gold">
 
@@ -220,6 +221,7 @@ main{padding:44px 0 40px;}
       <a href="/english-school/" class="active">English School</a>
       <a href="/community/">Community</a>
     </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
   </div>
 </header>
 
@@ -553,5 +555,6 @@ main{padding:44px 0 40px;}
 })();
 </script>
 
+  <script defer src="/assets/js/search.js"></script>
 </body>
 </html>
