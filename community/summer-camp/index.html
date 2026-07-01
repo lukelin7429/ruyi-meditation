@@ -17,8 +17,10 @@ permalink: /community/summer-camp/
   .page-header{position:relative;overflow:hidden;color:#fff;border-bottom:0;
     background:radial-gradient(120% 90% at 80% 16%,rgba(201,145,47,.32),transparent 60%),
                linear-gradient(155deg,#b8431c 0%,#a23916 40%,#8c2f12 100%);}
-  .page-header::after{content:"\2600";position:absolute;right:-30px;top:-86px;font-size:330px;line-height:1;
-    color:rgba(255,243,224,.10);pointer-events:none;}
+  @media(min-width:600px){
+    .page-header::after{content:"\2600";position:absolute;right:-30px;top:-86px;font-size:330px;line-height:1;
+      color:rgba(255,243,224,.10);pointer-events:none;}
+  }
   .page-header-inner{position:relative;}
   .page-header .eyebrow{color:#f3d79a;}
   .page-header h1{color:#fff;}

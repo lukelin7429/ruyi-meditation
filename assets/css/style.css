@@ -186,11 +186,61 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   background: #b8431c;
 }
 
+/* ---- hamburger button ---- */
+.header-actions { display: flex; align-items: center; gap: 8px; }
+.nav-hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: 40px; height: 40px;
+  background: none; border: none; cursor: pointer; padding: 8px;
+  border-radius: 8px;
+  -webkit-tap-highlight-color: transparent;
+}
+.nav-hamburger span {
+  display: block; width: 22px; height: 2px;
+  background: #2a2a2a; border-radius: 2px;
+  transition: transform .28s cubic-bezier(.22,.61,.36,1), opacity .2s;
+  transform-origin: center;
+}
+.nav-hamburger.is-open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.nav-hamburger.is-open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+.nav-hamburger.is-open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
 @media (max-width: 720px) {
-  .header-inner { padding: 0 22px; min-height: 64px; gap: 16px; }
-  .brand-name { display: none; }
-  .site-nav { gap: 18px; }
-  .site-nav a { font-size: 14px; }
+  .header-inner { padding: 0 20px; min-height: 64px; gap: 0; }
+  .brand-name { display: block; }
+  .brand-name em { display: none; }
+
+  /* hide desktop nav links, show hamburger */
+  .site-nav {
+    display: none;
+    position: fixed; top: 64px; left: 0; right: 0; bottom: 0;
+    background: rgba(255,255,255,.98);
+    flex-direction: column; gap: 0;
+    padding: 16px 0 40px;
+    z-index: 200;
+    overflow-y: auto;
+    box-shadow: 0 8px 32px rgba(0,0,0,.1);
+  }
+  .site-nav.nav-open { display: flex; }
+  .site-nav a {
+    font-size: 17px; font-weight: 500;
+    padding: 17px 28px;
+    border-bottom: 1px solid #f0f0f0;
+    letter-spacing: .04em; text-transform: uppercase;
+    color: #1a1a1a;
+  }
+  .site-nav a.active { color: #b8431c; }
+  .site-nav a.active::after { display: none; }
+  .site-nav a:hover { color: #b8431c; background: #fdf6f3; }
+
+  .nav-hamburger { display: flex; }
+
+  /* hide search label/kbd on mobile */
+  .nav-search-label, kbd { display: none; }
 }
 
 /* ============ HERO ============ */
