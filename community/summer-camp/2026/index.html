@@ -48,42 +48,39 @@ permalink: /community/summer-camp/2026/
 
   /* ---- SCHEDULE ---- */
   .y26-sched{padding:0 0 80px;background:#fff;}
-  .y26-sched-in{max-width:1100px;margin:0 auto;padding:0 20px;}
+  .y26-sched-in{max-width:780px;margin:0 auto;padding:0 20px;}
   .y26-sched-head{text-align:center;max-width:640px;margin:0 auto 52px;}
   .y26-sched-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:#1e5c3a;}
   .y26-sched-head h2{font-family:'Playfair Display',serif;font-size:clamp(28px,4vw,42px);color:#1a2a1a;margin:12px 0 0;}
 
-  /* day columns */
-  .y26-days{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-bottom:40px;}
-  @media(max-width:900px){.y26-days{grid-template-columns:repeat(2,1fr);}}
-  @media(max-width:540px){.y26-days{grid-template-columns:1fr;}}
+  /* day block */
+  .y26-day-block{margin-bottom:48px;border-radius:14px;overflow:hidden;border:1.5px solid #d8eadb;}
+  .y26-day-hd{padding:20px 24px 16px;color:#fff;display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;}
+  .y26-day-block.d1 .y26-day-hd{background:linear-gradient(145deg,#1e5c3a,#0f3320);}
+  .y26-day-block.d2 .y26-day-hd{background:linear-gradient(145deg,#2c5f7a,#173a4d);}
+  .y26-day-block.d3 .y26-day-hd{background:linear-gradient(145deg,#6b3d8a,#3d1f54);}
+  .y26-day-block.d4 .y26-day-hd{background:linear-gradient(145deg,#a36c12,#6b4209);}
+  .y26-day-num{font-size:11px;letter-spacing:.18em;text-transform:uppercase;font-weight:700;opacity:.75;}
+  .y26-day-date{font-size:14px;font-weight:600;}
+  .y26-day-theme{font-family:'Playfair Display',serif;font-size:22px;line-height:1.15;margin-left:auto;}
+  .y26-day-theme-zh{font-size:12px;opacity:.72;margin-left:6px;font-style:italic;}
 
-  .y26-day{border-radius:14px;overflow:hidden;border:1.5px solid #d8eadb;}
-  .y26-day-hd{padding:18px 18px 14px;color:#fff;}
-  .y26-day.d1 .y26-day-hd{background:linear-gradient(145deg,#1e5c3a,#0f3320);}
-  .y26-day.d2 .y26-day-hd{background:linear-gradient(145deg,#2c5f7a,#173a4d);}
-  .y26-day.d3 .y26-day-hd{background:linear-gradient(145deg,#6b3d8a,#3d1f54);}
-  .y26-day.d4 .y26-day-hd{background:linear-gradient(145deg,#a36c12,#6b4209);}
-  .y26-day-num{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;opacity:.8;margin-bottom:4px;}
-  .y26-day-date{font-size:14.5px;font-weight:600;margin-bottom:2px;}
-  .y26-day-theme{font-family:'Playfair Display',serif;font-size:19px;line-height:1.2;margin-bottom:2px;}
-  .y26-day-theme-en{font-size:12px;opacity:.78;font-style:italic;}
-
-  /* schedule table */
-  .y26-table{width:100%;border-collapse:collapse;font-size:14px;}
-  .y26-table th{background:#f0f7f2;padding:9px 10px;text-align:left;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:#1e5c3a;font-weight:700;border-bottom:2px solid #b8d8be;}
-  .y26-table th:first-child{width:90px;}
-  .y26-table td{padding:9px 10px;vertical-align:top;border-bottom:1px solid #e8f2ea;color:#2a3a2a;line-height:1.45;}
-  .y26-table tr:last-child td{border-bottom:0;}
-  .y26-table td:first-child{font-size:12.5px;font-weight:600;color:#666;white-space:nowrap;}
-  .y26-table td.shared{background:#fafcfa;color:#444;font-style:italic;font-size:13px;}
-  .y26-star{color:#d4af37;font-weight:700;margin-right:2px;}
-  .y26-inst{font-size:11.5px;color:#888;display:block;margin-top:2px;}
-  .y26-section-label{background:#e8f5ea;padding:7px 10px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#1e5c3a;font-weight:700;border-bottom:1.5px solid #b8d8be;}
-
-  @media(max-width:700px){
-    .y26-table th,.y26-table td{padding:7px 8px;font-size:13px;}
-    .y26-table th:first-child{width:70px;}
+  /* rows */
+  .y26-rows{background:#fff;}
+  .y26-row{display:flex;gap:0;border-bottom:1px solid #eaf2eb;}
+  .y26-row:last-child{border-bottom:0;}
+  .y26-row-time{width:108px;flex-shrink:0;padding:13px 14px;font-size:12px;font-weight:600;color:#7a9a7e;background:#f7fbf7;border-right:1px solid #ddeedd;line-height:1.4;}
+  .y26-row-content{flex:1;padding:12px 18px;font-size:14.5px;color:#2a3a2a;line-height:1.55;}
+  .y26-row-content strong{display:block;margin-top:1px;}
+  .y26-row.section-header .y26-row-time{background:#e8f5ea;color:#1e5c3a;font-size:11px;letter-spacing:.1em;text-transform:uppercase;display:flex;align-items:center;}
+  .y26-row.section-header .y26-row-content{background:#e8f5ea;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#1e5c3a;font-weight:700;display:flex;align-items:center;padding-left:0;}
+  .y26-row.shared .y26-row-content{color:#666;font-style:italic;}
+  .y26-star{color:#d4af37;font-weight:700;margin-right:3px;}
+  .y26-inst{font-size:12px;color:#8aaa8e;display:block;margin-top:2px;}
+  @media(max-width:500px){
+    .y26-row-time{width:80px;padding:11px 10px;font-size:11px;}
+    .y26-row-content{padding:11px 13px;font-size:13.5px;}
+    .y26-day-theme{font-size:18px;}
   }
 
   /* ---- INSTRUCTORS ---- */
@@ -163,209 +160,142 @@ permalink: /community/summer-camp/2026/
       <h2>Daily Schedule</h2>
     </div>
 
-    <!-- Daily theme cards -->
-    <div class="y26-days" data-rv style="--rvd:.1s">
-      <div class="y26-day d1">
-        <div class="y26-day-hd">
-          <div class="y26-day-num">Day 1</div>
-          <div class="y26-day-date">Saturday, July 4</div>
-          <div class="y26-day-theme">Seeds of Aspiration</div>
-          <div class="y26-day-theme-en">願力種子</div>
-        </div>
+    <p style="font-size:13px;color:#8aaa8e;text-align:center;margin:-28px 0 36px;">
+      <span class="y26-star">★</span> = signature camp experience &nbsp;·&nbsp; Instructor names in pinyin romanization
+    </p>
+
+    <!-- DAY 1 -->
+    <div class="y26-day-block d1 reveal">
+      <div class="y26-day-hd">
+        <span class="y26-day-num">Day 1</span>
+        <span class="y26-day-date">Saturday, July 4</span>
+        <span class="y26-day-theme">Seeds of Aspiration <span class="y26-day-theme-zh">願力種子</span></span>
       </div>
-      <div class="y26-day d2">
-        <div class="y26-day-hd">
-          <div class="y26-day-num">Day 2</div>
-          <div class="y26-day-date">Sunday, July 5</div>
-          <div class="y26-day-theme">Mindful Observation</div>
-          <div class="y26-day-theme-en">覺察紀錄</div>
-        </div>
-      </div>
-      <div class="y26-day d3">
-        <div class="y26-day-hd">
-          <div class="y26-day-num">Day 3</div>
-          <div class="y26-day-date">Monday, July 6</div>
-          <div class="y26-day-theme">Co-Creation &amp; Expression</div>
-          <div class="y26-day-theme-en">共創表達</div>
-        </div>
-      </div>
-      <div class="y26-day d4">
-        <div class="y26-day-hd">
-          <div class="y26-day-num">Day 4</div>
-          <div class="y26-day-date">Tuesday, July 7</div>
-          <div class="y26-day-theme">Transmission &amp; Closing</div>
-          <div class="y26-day-theme-en">傳承結業</div>
-        </div>
+      <div class="y26-rows">
+        <div class="y26-row shared"><div class="y26-row-time">by 10:00 am</div><div class="y26-row-content">Arrive &amp; check in</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Morning Routine</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">5:30 – 6:00</div><div class="y26-row-content">Wake up &amp; wash up</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">6:00 – 6:30</div><div class="y26-row-content">Morning yoga &amp; seated meditation <span class="y26-inst">(60 min)</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">6:30 – 7:30</div><div class="y26-row-content">Morning chanting &amp; sutra recitation <span class="y26-inst">(30 min)</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">7:30 – 8:20</div><div class="y26-row-content">Breakfast</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Morning Session</div></div>
+        <div class="y26-row"><div class="y26-row-time">8:30 – 9:50</div><div class="y26-row-content">Check-in &amp; settling in</div></div>
+        <div class="y26-row"><div class="y26-row-time">10:20 – 11:30</div><div class="y26-row-content">Opening ceremony &amp; icebreaker</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Lunch</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">11:40 – 12:30</div><div class="y26-row-content">Lunch</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">12:30 – 13:30</div><div class="y26-row-content">Midday rest</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Afternoon · Active</div></div>
+        <div class="y26-row"><div class="y26-row-time">13:30 – 14:45</div><div class="y26-row-content">Living Zen: <strong>Making Steamed Buns</strong> — kneading, shaping, waiting to rise</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">14:45 – 15:00</div><div class="y26-row-content">Break &amp; hydration</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Afternoon · Deep</div></div>
+        <div class="y26-row"><div class="y26-row-time">15:00 – 16:30</div><div class="y26-row-content">Dharma Class 1 — <strong>Seeds of Aspiration</strong> + steamed buns out of the oven <span class="y26-inst">Jùn Xiáng</span></div></div>
+        <div class="y26-row"><div class="y26-row-time">16:30 – 17:00</div><div class="y26-row-content">Team sharing &amp; free activities</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Evening</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">17:00 – 17:30</div><div class="y26-row-content">Evening chanting (30 min) &amp; meal preparation</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">17:30 – 18:20</div><div class="y26-row-content">Dinner</div></div>
+        <div class="y26-row"><div class="y26-row-time">19:00 – 19:30</div><div class="y26-row-content">Daily Song Time — <em>Three Jewels Song</em> <span class="y26-inst">Jiā Wéi</span></div></div>
+        <div class="y26-row"><div class="y26-row-time">19:40 – 20:50</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>Welcome Night</strong> — team-hosted performances &amp; activities</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Night</div></div>
+        <div class="y26-row"><div class="y26-row-time">21:00 – 21:15</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>Mountain Diary</strong> — write the most meaningful moment of the day</div></div>
+        <div class="y26-row"><div class="y26-row-time">21:15 – 21:50</div><div class="y26-row-content">Washing up &amp; team sharing</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">21:50</div><div class="y26-row-content">Lights out</div></div>
       </div>
     </div>
 
-    <!-- Main schedule table -->
-    <div data-rv style="--rvd:.18s;overflow-x:auto;">
-    <table class="y26-table">
-      <thead>
-        <tr>
-          <th>Time</th>
-          <th>Day 1 · Sat Jul 4</th>
-          <th>Day 2 · Sun Jul 5</th>
-          <th>Day 3 · Mon Jul 6</th>
-          <th>Day 4 · Tue Jul 7</th>
-        </tr>
-      </thead>
-      <tbody>
-        <!-- Arrival -->
-        <tr>
-          <td>by 10:00 am</td>
-          <td>Arrive &amp; check in</td>
-          <td class="shared" colspan="3">—</td>
-        </tr>
-        <!-- Morning routine -->
-        <tr>
-          <td colspan="5" class="y26-section-label">Morning Routine</td>
-        </tr>
-        <tr>
-          <td>5:30 – 6:00</td>
-          <td class="shared" colspan="4">Wake up &amp; wash up</td>
-        </tr>
-        <tr>
-          <td>6:00 – 6:30</td>
-          <td class="shared" colspan="4">Morning yoga &amp; seated meditation <span class="y26-inst">(60 min)</span></td>
-        </tr>
-        <tr>
-          <td>6:30 – 7:30</td>
-          <td class="shared" colspan="4">Morning chanting &amp; sutra recitation <span class="y26-inst">(30 min)</span></td>
-        </tr>
-        <tr>
-          <td>7:30 – 8:20</td>
-          <td class="shared" colspan="4">Breakfast</td>
-        </tr>
-        <!-- Morning session -->
-        <tr>
-          <td colspan="5" class="y26-section-label">Morning Session</td>
-        </tr>
-        <tr>
-          <td>8:30 – 9:50</td>
-          <td>Check-in &amp; settling in</td>
-          <td>Dharma Class 4<br><strong>Life Vision</strong><span class="y26-inst">Wèi Zhé</span></td>
-          <td>Dharma Class 3<br><strong>Leadership Wisdom</strong><span class="y26-inst">Teacher Lǚ Xián</span></td>
-          <td>Dharma Class 6<br><strong>Why I Am Vegetarian</strong><span class="y26-inst">Jiā Wéi</span></td>
-        </tr>
-        <tr>
-          <td>10:20 – 11:30</td>
-          <td>Opening ceremony &amp; icebreaker</td>
-          <td>Film Workshop (1)<br><strong>Teaching &amp; Shooting</strong><span class="y26-inst">Teacher Jíxiáng</span></td>
-          <td><span class="y26-star">★</span> Team Short Film Shoot<br><strong>60-Second Dharma Micro-Film</strong><span class="y26-inst">Teacher Jíxiáng</span></td>
-          <td>Film Workshop (2) — Advanced<br><strong>Leadership Empowerment &amp; Team Games</strong><span class="y26-inst">Wèi Zhé</span></td>
-        </tr>
-        <!-- Lunch -->
-        <tr>
-          <td colspan="5" class="y26-section-label">Lunch</td>
-        </tr>
-        <tr>
-          <td>11:40 – 12:30</td>
-          <td>Lunch</td>
-          <td><span class="y26-star">★</span> <strong>Silent Meal Experience</strong><br>Mindful eating; share afterward<span class="y26-inst">Wéi Zhé</span></td>
-          <td>Lunch</td>
-          <td><span class="y26-star">★</span> <strong>Gratitude Letter Writing</strong><br>Write to the person you are most grateful for — mailed after closing<span class="y26-inst">(Heart-to-Heart)</span></td>
-        </tr>
-        <tr>
-          <td>12:30 – 13:30</td>
-          <td class="shared" colspan="4">Midday rest</td>
-        </tr>
-        <!-- Afternoon block 1 -->
-        <tr>
-          <td colspan="5" class="y26-section-label">Afternoon Block 1 · Active (75 min)</td>
-        </tr>
-        <tr>
-          <td>13:30 – 14:45</td>
-          <td>Living Zen: <strong>Making Steamed Buns</strong><br>Kneading, shaping, waiting to rise</td>
-          <td>Music (1)<br><strong>Sound Awareness &amp; Basic Chanting</strong><span class="y26-inst">Jùn Xiáng</span></td>
-          <td>Music (2)<br><strong>Harmony &amp; Concert Preparation</strong><span class="y26-inst">Zhǐ Ruì</span></td>
-          <td class="shared">—</td>
-        </tr>
-        <tr>
-          <td>14:45 – 15:00</td>
-          <td class="shared" colspan="3">Break &amp; hydration</td>
-          <td class="shared">—</td>
-        </tr>
-        <!-- Afternoon block 2 -->
-        <tr>
-          <td colspan="5" class="y26-section-label">Afternoon Block 2 · Deep (90 min)</td>
-        </tr>
-        <tr>
-          <td>15:00 – 16:30</td>
-          <td>Dharma Class 1<br><strong>Seeds of Aspiration</strong><br>+ Steamed buns out of the oven<span class="y26-inst">Jùn Xiáng</span></td>
-          <td><span class="y26-star">★</span> <strong>Nature Walking Meditation</strong><br>+ Forest Mindfulness Treasure Hunt<br>Five-senses task map · 5-min sitting<span class="y26-inst">Wéi Zhé</span></td>
-          <td>Dharma Class 2<br><strong>Emotional Intelligence</strong><span class="y26-inst">Teacher Jíxiáng</span></td>
-          <td class="shared">—</td>
-        </tr>
-        <!-- Buffer -->
-        <tr>
-          <td colspan="5" class="y26-section-label">Buffer / Free Time (30 min)</td>
-        </tr>
-        <tr>
-          <td>16:30 – 17:00</td>
-          <td>Team sharing &amp; free activities</td>
-          <td>Team sharing &amp; free activities</td>
-          <td><span class="y26-star">★</span> <strong>Dharma Comic Creation</strong><br>Draw Buddhist stories as comics; each group presents<span class="y26-inst">Zhǐ Ruì</span></td>
-          <td class="shared">—</td>
-        </tr>
-        <!-- Evening -->
-        <tr>
-          <td colspan="5" class="y26-section-label">Evening</td>
-        </tr>
-        <tr>
-          <td>17:00 – 17:30</td>
-          <td class="shared" colspan="2">Evening chanting (30 min) &amp; meal preparation</td>
-          <td class="shared" colspan="2">Group A: Cook dinner &nbsp;|&nbsp; Group B: Evening chanting</td>
-        </tr>
-        <tr>
-          <td>17:30 – 18:20</td>
-          <td class="shared" colspan="4">Dinner</td>
-        </tr>
-        <tr>
-          <td>19:00 – 19:30</td>
-          <td>Daily Song Time<br><em>Three Jewels Song</em><span class="y26-inst">Jiā Wéi</span></td>
-          <td>Daily Song Time<br><em>Three Jewels Song</em><span class="y26-inst">Jiā Wéi</span></td>
-          <td><span class="y26-star">★</span> <strong>My Worry Room</strong><br>Write worries anonymously; find Dharma wisdom solutions<span class="y26-inst">Teacher Lǚ Xián</span></td>
-          <td class="shared">—</td>
-        </tr>
-        <tr>
-          <td>19:40 – 20:50</td>
-          <td><span class="y26-star">★</span> <strong>Welcome Night</strong><br>Team-hosted performances &amp; activities</td>
-          <td><span class="y26-star">★</span> <strong>Moonlight Meditation</strong><br>Outdoor moonlit sitting · stargazing · breathing guidance<span class="y26-inst">Jiā Wéi</span></td>
-          <td>Dharma Class 5<br><strong>Transmission &amp; Gratitude</strong><br>+ <span class="y26-star">★</span> Starlight Film Screening &amp; Offering of Sound<span class="y26-inst">Jùn Xiáng</span></td>
-          <td class="shared">—</td>
-        </tr>
-        <!-- Night -->
-        <tr>
-          <td colspan="5" class="y26-section-label">Night</td>
-        </tr>
-        <tr>
-          <td>21:00 – 21:15</td>
-          <td><span class="y26-star">★</span> <strong>Mountain Diary</strong><br>Write the most meaningful moment of the day</td>
-          <td><span class="y26-star">★</span> <strong>Mountain Diary</strong><br>Write the most meaningful moment of the day</td>
-          <td><span class="y26-star">★</span> <strong>Mountain Diary</strong><br>Write the most meaningful moment of the day</td>
-          <td class="shared">—</td>
-        </tr>
-        <tr>
-          <td>21:15 – 21:50</td>
-          <td>Washing up &amp; team sharing</td>
-          <td>Washing up &amp; team sharing</td>
-          <td>Washing up &amp; pack luggage</td>
-          <td class="shared">—</td>
-        </tr>
-        <tr>
-          <td>21:50</td>
-          <td class="shared" colspan="3">Lights out</td>
-          <td class="shared">—</td>
-        </tr>
-      </tbody>
-    </table>
-    </div><!-- /overflow wrapper -->
+    <!-- DAY 2 -->
+    <div class="y26-day-block d2 reveal">
+      <div class="y26-day-hd">
+        <span class="y26-day-num">Day 2</span>
+        <span class="y26-day-date">Sunday, July 5</span>
+        <span class="y26-day-theme">Mindful Observation <span class="y26-day-theme-zh">覺察紀錄</span></span>
+      </div>
+      <div class="y26-rows">
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Morning Routine</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">5:30 – 6:00</div><div class="y26-row-content">Wake up &amp; wash up</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">6:00 – 6:30</div><div class="y26-row-content">Morning yoga &amp; seated meditation <span class="y26-inst">(60 min)</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">6:30 – 7:30</div><div class="y26-row-content">Morning chanting &amp; sutra recitation <span class="y26-inst">(30 min)</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">7:30 – 8:20</div><div class="y26-row-content">Breakfast</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Morning Session</div></div>
+        <div class="y26-row"><div class="y26-row-time">8:30 – 9:50</div><div class="y26-row-content">Dharma Class 4 — <strong>Life Vision</strong> <span class="y26-inst">Wèi Zhé</span></div></div>
+        <div class="y26-row"><div class="y26-row-time">10:20 – 11:30</div><div class="y26-row-content">Film Workshop (1) — <strong>Teaching &amp; Shooting</strong> <span class="y26-inst">Teacher Jíxiáng</span></div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Lunch</div></div>
+        <div class="y26-row"><div class="y26-row-time">11:40 – 12:30</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>Silent Meal Experience</strong> — mindful eating; share afterward <span class="y26-inst">Wéi Zhé</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">12:30 – 13:30</div><div class="y26-row-content">Midday rest</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Afternoon · Active</div></div>
+        <div class="y26-row"><div class="y26-row-time">13:30 – 14:45</div><div class="y26-row-content">Music (1) — <strong>Sound Awareness &amp; Basic Chanting</strong> <span class="y26-inst">Jùn Xiáng</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">14:45 – 15:00</div><div class="y26-row-content">Break &amp; hydration</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Afternoon · Deep</div></div>
+        <div class="y26-row"><div class="y26-row-time">15:00 – 16:30</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>Nature Walking Meditation</strong> + Forest Mindfulness Treasure Hunt — five-senses task map, 5-min sitting <span class="y26-inst">Wéi Zhé</span></div></div>
+        <div class="y26-row"><div class="y26-row-time">16:30 – 17:00</div><div class="y26-row-content">Team sharing &amp; free activities</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Evening</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">17:00 – 17:30</div><div class="y26-row-content">Evening chanting (30 min) &amp; meal preparation</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">17:30 – 18:20</div><div class="y26-row-content">Dinner</div></div>
+        <div class="y26-row"><div class="y26-row-time">19:00 – 19:30</div><div class="y26-row-content">Daily Song Time — <em>Three Jewels Song</em> <span class="y26-inst">Jiā Wéi</span></div></div>
+        <div class="y26-row"><div class="y26-row-time">19:40 – 20:50</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>Moonlight Meditation</strong> — outdoor moonlit sitting, stargazing, breathing guidance <span class="y26-inst">Jiā Wéi</span></div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Night</div></div>
+        <div class="y26-row"><div class="y26-row-time">21:00 – 21:15</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>Mountain Diary</strong> — write the most meaningful moment of the day</div></div>
+        <div class="y26-row"><div class="y26-row-time">21:15 – 21:50</div><div class="y26-row-content">Washing up &amp; team sharing</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">21:50</div><div class="y26-row-content">Lights out</div></div>
+      </div>
+    </div>
 
-    <p style="font-size:13px;color:#888;margin-top:16px;text-align:center;">
-      <span class="y26-star">★</span> = signature camp experience &nbsp;·&nbsp; Instructor names in pinyin romanization
-    </p>
+    <!-- DAY 3 -->
+    <div class="y26-day-block d3 reveal">
+      <div class="y26-day-hd">
+        <span class="y26-day-num">Day 3</span>
+        <span class="y26-day-date">Monday, July 6</span>
+        <span class="y26-day-theme">Co-Creation &amp; Expression <span class="y26-day-theme-zh">共創表達</span></span>
+      </div>
+      <div class="y26-rows">
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Morning Routine</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">5:30 – 6:00</div><div class="y26-row-content">Wake up &amp; wash up</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">6:00 – 6:30</div><div class="y26-row-content">Morning yoga &amp; seated meditation <span class="y26-inst">(60 min)</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">6:30 – 7:30</div><div class="y26-row-content">Morning chanting &amp; sutra recitation <span class="y26-inst">(30 min)</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">7:30 – 8:20</div><div class="y26-row-content">Breakfast</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Morning Session</div></div>
+        <div class="y26-row"><div class="y26-row-time">8:30 – 9:50</div><div class="y26-row-content">Dharma Class 3 — <strong>Leadership Wisdom</strong> <span class="y26-inst">Teacher Lǚ Xián</span></div></div>
+        <div class="y26-row"><div class="y26-row-time">10:20 – 11:30</div><div class="y26-row-content"><span class="y26-star">★</span> Team Short Film Shoot — <strong>60-Second Dharma Micro-Film</strong> <span class="y26-inst">Teacher Jíxiáng</span></div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Lunch</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">11:40 – 12:30</div><div class="y26-row-content">Lunch</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">12:30 – 13:30</div><div class="y26-row-content">Midday rest</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Afternoon · Active</div></div>
+        <div class="y26-row"><div class="y26-row-time">13:30 – 14:45</div><div class="y26-row-content">Music (2) — <strong>Harmony &amp; Concert Preparation</strong> <span class="y26-inst">Zhǐ Ruì</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">14:45 – 15:00</div><div class="y26-row-content">Break &amp; hydration</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Afternoon · Deep</div></div>
+        <div class="y26-row"><div class="y26-row-time">15:00 – 16:30</div><div class="y26-row-content">Dharma Class 2 — <strong>Emotional Intelligence</strong> <span class="y26-inst">Teacher Jíxiáng</span></div></div>
+        <div class="y26-row"><div class="y26-row-time">16:30 – 17:00</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>Dharma Comic Creation</strong> — draw Buddhist stories as comics; each group presents <span class="y26-inst">Zhǐ Ruì</span></div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Evening</div></div>
+        <div class="y26-row"><div class="y26-row-time">17:00 – 17:30</div><div class="y26-row-content">Group A: Cook dinner &nbsp;|&nbsp; Group B: Evening chanting</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">17:30 – 18:20</div><div class="y26-row-content">Dinner</div></div>
+        <div class="y26-row"><div class="y26-row-time">19:00 – 19:30</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>My Worry Room</strong> — write worries anonymously; find Dharma wisdom solutions <span class="y26-inst">Teacher Lǚ Xián</span></div></div>
+        <div class="y26-row"><div class="y26-row-time">19:40 – 20:50</div><div class="y26-row-content">Dharma Class 5 — <strong>Transmission &amp; Gratitude</strong><br>+ <span class="y26-star">★</span> Starlight Film Screening &amp; Offering of Sound <span class="y26-inst">Jùn Xiáng</span></div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Night</div></div>
+        <div class="y26-row"><div class="y26-row-time">21:00 – 21:15</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>Mountain Diary</strong> — write the most meaningful moment of the day</div></div>
+        <div class="y26-row"><div class="y26-row-time">21:15 – 21:50</div><div class="y26-row-content">Washing up &amp; pack luggage</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">21:50</div><div class="y26-row-content">Lights out</div></div>
+      </div>
+    </div>
+
+    <!-- DAY 4 -->
+    <div class="y26-day-block d4 reveal">
+      <div class="y26-day-hd">
+        <span class="y26-day-num">Day 4</span>
+        <span class="y26-day-date">Tuesday, July 7</span>
+        <span class="y26-day-theme">Transmission &amp; Closing <span class="y26-day-theme-zh">傳承結業</span></span>
+      </div>
+      <div class="y26-rows">
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Morning Routine</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">5:30 – 6:00</div><div class="y26-row-content">Wake up &amp; wash up</div></div>
+        <div class="y26-row shared"><div class="y26-row-time">6:00 – 6:30</div><div class="y26-row-content">Morning yoga &amp; seated meditation <span class="y26-inst">(60 min)</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">6:30 – 7:30</div><div class="y26-row-content">Morning chanting &amp; sutra recitation <span class="y26-inst">(30 min)</span></div></div>
+        <div class="y26-row shared"><div class="y26-row-time">7:30 – 8:20</div><div class="y26-row-content">Breakfast</div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Morning Session</div></div>
+        <div class="y26-row"><div class="y26-row-time">8:30 – 9:50</div><div class="y26-row-content">Dharma Class 6 — <strong>Why I Am Vegetarian</strong> <span class="y26-inst">Jiā Wéi</span></div></div>
+        <div class="y26-row"><div class="y26-row-time">10:20 – 11:30</div><div class="y26-row-content">Film Workshop (2) — Advanced: <strong>Leadership Empowerment &amp; Team Games</strong> <span class="y26-inst">Wèi Zhé</span></div></div>
+        <div class="y26-row section-header"><div class="y26-row-time"></div><div class="y26-row-content">Closing</div></div>
+        <div class="y26-row"><div class="y26-row-time">11:40 – 12:30</div><div class="y26-row-content"><span class="y26-star">★</span> <strong>Gratitude Letter Writing</strong> — write to the person you are most grateful for; letters mailed after closing <span class="y26-inst">(Heart-to-Heart)</span></div></div>
+      </div>
+    </div>
   </div>
 </section>
 
