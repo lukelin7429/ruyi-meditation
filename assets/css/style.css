@@ -209,38 +209,50 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
 .nav-hamburger.is-open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
 .nav-hamburger.is-open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
+/* mobile nav drawer (lives outside header to escape backdrop-filter stacking context) */
+.mobile-nav-drawer {
+  display: none;
+}
 @media (max-width: 720px) {
   .header-inner { padding: 0 20px; min-height: 64px; gap: 0; }
   .brand-name { display: block; }
   .brand-name em { display: none; }
-
-  /* hide desktop nav links, show hamburger */
-  .site-nav {
-    display: none;
-    position: fixed; top: 64px; left: 0; right: 0; bottom: 0;
-    background: rgba(255,255,255,.98);
-    flex-direction: column; gap: 0;
-    padding: 16px 0 40px;
-    z-index: 200;
-    overflow-y: auto;
-    box-shadow: 0 8px 32px rgba(0,0,0,.1);
-  }
-  .site-nav.nav-open { display: flex; }
-  .site-nav a {
-    font-size: 17px; font-weight: 500;
-    padding: 17px 28px;
-    border-bottom: 1px solid #f0f0f0;
-    letter-spacing: .04em; text-transform: uppercase;
-    color: #1a1a1a;
-  }
-  .site-nav a.active { color: #b8431c; }
-  .site-nav a.active::after { display: none; }
-  .site-nav a:hover { color: #b8431c; background: #fdf6f3; }
-
+  .site-nav { display: none; } /* desktop nav hidden on mobile */
   .nav-hamburger { display: flex; }
-
-  /* hide search label/kbd on mobile */
   .nav-search-label, kbd { display: none; }
+
+  /* drawer */
+  .mobile-nav-drawer {
+    display: block;
+    position: fixed; top: 64px; left: 0; right: 0; bottom: 0;
+    background: #fff;
+    z-index: 9999;
+    overflow-y: auto;
+    transform: translateY(-12px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .22s ease, transform .22s cubic-bezier(.22,.61,.36,1);
+  }
+  .mobile-nav-drawer.is-open {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+  .mobile-nav-drawer nav {
+    display: flex; flex-direction: column;
+    padding: 8px 0 48px;
+  }
+  .mobile-nav-drawer nav a {
+    font-size: 18px; font-weight: 500;
+    padding: 18px 28px;
+    border-bottom: 1px solid #f0f0f0;
+    text-decoration: none;
+    letter-spacing: .06em; text-transform: uppercase;
+    color: #1a1a1a;
+    display: block;
+  }
+  .mobile-nav-drawer nav a.active { color: #b8431c; }
+  .mobile-nav-drawer nav a:hover { color: #b8431c; background: #fdf6f3; }
 }
 
 /* ============ HERO ============ */
