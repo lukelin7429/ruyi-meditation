@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mahāyāna Sūtras — The Great Vehicle's Scriptures | Ru-Yi Meditation Center</title>
+<meta name="description" content="The great scriptures of Mahāyāna Buddhism in plain English — each with a reading guide, the full Chinese-and-English text, and a self-check quiz. The Heart Sūtra is live; the Diamond, Lotus, Vimalakīrti and more are on the way. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16.png">
+  <link rel="icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.65;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .series-mark {
+    font-family: Georgia, serif;
+    font-size: 17px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 14px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 6vw, 59px);
+    font-weight: 400;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 25px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 44px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 8px;
+  }
+
+  .intro {
+    font-size: 21px;
+    color: #1a1d23;
+    margin-bottom: 24px;
+  }
+  .meta-card {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 48px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .meta-card dl { display: grid; grid-template-columns: 150px 1fr; gap: 6px 16px; }
+  .meta-card dt { color: #6b6b6b; font-weight: 600; }
+  .meta-card dd { color: #1a1d23; }
+  .meta-card .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 28px;
+    font-weight: 400;
+    margin: 8px 0 6px;
+    color: #1a1d23;
+  }
+  .group-note {
+    color: #6b6b6b;
+    font-size: 17px;
+    margin-bottom: 8px;
+  }
+  .group-head {
+    margin: 40px 0 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px dashed #dee2e6;
+  }
+
+  .sutra-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .sutra-row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 14px;
+    padding: 16px 0;
+    border-bottom: 1px solid #dee2e6;
+    align-items: baseline;
+    font-size: 18px;
+  }
+  .sutra-row:last-child { border-bottom: none; }
+  .sutra-titles { line-height: 1.4; }
+  .sutra-titles .en {
+    color: #1a1a1a;
+    font-weight: 500;
+    font-size: 21px;
+    font-family: Georgia, "Times New Roman", serif;
+  }
+  .sutra-titles .zh {
+    font-family: "PingFang TC", "Microsoft JhengHei", serif;
+    color: #8a8a8a;
+    margin-left: 8px;
+    font-size: 18px;
+  }
+  .sutra-titles .gloss {
+    display: block;
+    color: #6b6b6b;
+    font-size: 16px;
+    margin-top: 4px;
+    line-height: 1.5;
+  }
+  .sutra-status {
+    font-size: 14px;
+    color: #b8b8b8;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .sutra-row a {
+    color: inherit;
+    text-decoration: none;
+    display: contents;
+  }
+  .sutra-row.linked .sutra-titles .en {
+    text-decoration: underline;
+    text-decoration-color: #b8431c;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 1.5px;
+  }
+  .sutra-row.linked .sutra-status { color: #6ba368; }
+  .sutra-row.placeholder .sutra-titles .en { color: #9a9a9a; }
+
+  footer {
+    margin-top: 72px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<script>document.documentElement.classList.add('js');</script>
+<style>
+  .js [data-rv]{opacity:0;transform:translateY(20px);
+    transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
+  .js [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js [data-rv]{opacity:1 !important;transform:none !important;}}
+  .sutra-row.linked{position:relative;transition:background .2s ease,padding-left .2s ease;}
+  .sutra-row.linked::before{content:"";position:absolute;left:0;top:8px;bottom:8px;width:3px;border-radius:3px;
+    background:linear-gradient(180deg,#b8431c,#e0a93f);opacity:0;transform:scaleY(.4);transform-origin:top;
+    transition:opacity .22s ease,transform .28s ease;}
+  .sutra-row.linked:hover{background:#f7f2ea;padding-left:14px;}
+  .sutra-row.linked:hover::before{opacity:1;transform:scaleY(1);}
+</style>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+<div class="container">
+
+  <nav class="crumb">
+    <a href="/">Ru-Yi Meditation Center</a><span>›</span><a href="/dharma/">Dharma</a><span>›</span>Mahāyāna Sūtras
+  </nav>
+
+  <div class="series-mark">A series at Ru-Yi Meditation Center</div>
+  <h1>Mahāyāna Sūtras</h1>
+  <p class="subtitle"><em>The scriptures of the Great Vehicle</em><span class="zh">大乘經典</span></p>
+
+  <p class="intro">
+    The Mahāyāna — the "Great Vehicle" — is the stream of Buddhism that spread north and east into China, Korea, Japan, Tibet, and Vietnam. Its scriptures turn on two ideas: the <strong>bodhisattva</strong>, who vows to awaken for the sake of all beings, and <strong>emptiness</strong> (<em>śūnyatā</em>), the seeing that sets that vow free. These are the texts recited in the great monasteries of East Asia, the source of Chan and Zen, Pure Land and Huayan.
+  </p>
+  <p class="intro">
+    Each sūtra here gets the same three things: a <strong>reading guide</strong> in plain English that opens the meaning for a modern reader, the <strong>full text</strong> with the Chinese and English side by side, and a <strong>10-question self-check quiz</strong>. We are publishing slowly, one sūtra at a time. The Heart Sūtra is live; the rest are on the way.
+  </p>
+
+  <div class="meta-card" data-rv>
+    <dl>
+      <dt>Tradition</dt><dd>Mahāyāna (<span class="zh">大乘</span>) — the Great Vehicle</dd>
+      <dt>Chinese source</dt><dd>The Taishō canon (<span class="zh">大正藏</span>), the standard modern edition, in the public domain</dd>
+      <dt>English</dt><dd>Fresh translations made for Ru-Yi, kept plain and close to the Chinese</dd>
+      <dt>Live now</dt><dd>1 sūtra — the Heart Sūtra</dd>
+    </dl>
+  </div>
+
+  <div class="group-head">
+    <h2>The Perfection of Wisdom <span class="zh" style="font-family:'PingFang TC',serif; color:#6b6b6b; font-size:20px;">般若</span></h2>
+    <p class="group-note">The scriptures of emptiness — the foundation of the whole Mahāyāna.</p>
+  </div>
+  <ul class="sutra-list">
+    <li>
+      <a href="heart-sutra.html">
+        <div class="sutra-row linked" data-rv>
+          <div class="sutra-titles">
+            <span class="en">The Heart Sūtra</span><span class="zh">般若波羅蜜多心經</span>
+            <span class="gloss">The distilled essence of the Perfection of Wisdom — "form is emptiness, emptiness is form" — in 260 characters. The most-recited scripture in Mahāyāna Buddhism.</span>
+          </div>
+          <div class="sutra-status">Read →</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <div class="sutra-row placeholder" data-rv>
+        <div class="sutra-titles">
+          <span class="en">The Diamond Sūtra</span><span class="zh">金剛般若波羅蜜經</span>
+          <span class="gloss">The dialogue with Subhūti on non-abiding and the cutting of all fixed views — the sūtra behind the world's oldest printed book.</span>
+        </div>
+        <div class="sutra-status">Coming soon</div>
+      </div>
+    </li>
+  </ul>
+
+  <div class="group-head">
+    <h2>The great teaching sūtras</h2>
+    <p class="group-note">The scriptures that shaped the schools of East Asian Buddhism.</p>
+  </div>
+  <ul class="sutra-list">
+    <li>
+      <div class="sutra-row placeholder" data-rv>
+        <div class="sutra-titles">
+          <span class="en">The Lotus Sūtra</span><span class="zh">妙法蓮華經</span>
+          <span class="gloss">The One Vehicle and the parables of skilful means — the central scripture of Tiantai and Nichiren Buddhism.</span>
+        </div>
+        <div class="sutra-status">Coming soon</div>
+      </div>
+    </li>
+    <li>
+      <div class="sutra-row placeholder" data-rv>
+        <div class="sutra-titles">
+          <span class="en">The Vimalakīrti Sūtra</span><span class="zh">維摩詰所說經</span>
+          <span class="gloss">The layman who out-teaches the Buddha's greatest disciples — and the "thunderous silence" on non-duality.</span>
+        </div>
+        <div class="sutra-status">Coming soon</div>
+      </div>
+    </li>
+    <li>
+      <div class="sutra-row placeholder" data-rv>
+        <div class="sutra-titles">
+          <span class="en">The Platform Sūtra</span><span class="zh">六祖壇經</span>
+          <span class="gloss">The teaching of Huineng, Sixth Patriarch of Chan — sudden awakening, and the only Chinese work granted the title "sūtra."</span>
+        </div>
+        <div class="sutra-status">Coming soon</div>
+      </div>
+    </li>
+  </ul>
+
+  <div class="group-head">
+    <h2>Pure Land <span class="zh" style="font-family:'PingFang TC',serif; color:#6b6b6b; font-size:20px;">淨土</span></h2>
+    <p class="group-note">The path of faith — the recollection of Amitābha Buddha.</p>
+  </div>
+  <ul class="sutra-list">
+    <li>
+      <div class="sutra-row placeholder" data-rv>
+        <div class="sutra-titles">
+          <span class="en">The Amitābha Sūtra</span><span class="zh">佛說阿彌陀經</span>
+          <span class="gloss">The shorter Pure Land sūtra — the description of Sukhāvatī and the practice of reciting the Buddha's name (<em>nianfo</em>).</span>
+        </div>
+        <div class="sutra-status">Coming soon</div>
+      </div>
+    </li>
+  </ul>
+
+  <footer>
+    <p>A series at <a href="/">Ru-Yi Meditation Center</a> · part of <a href="/dharma/">the Dharma collection</a></p>
+    <p style="margin-top:6px;">Suggestions for which sūtra to add next are welcome — write to us.</p>
+  </footer>
+
+</div>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
