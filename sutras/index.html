@@ -331,6 +331,15 @@
 
 </div>
 
+  <script>
+  // 進場動畫觸發器：data-rv 元素進入視窗時加 .in（先前漏放，卡片會永遠隱形）
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+  </script>
   <script defer src="/assets/js/search.js"></script>
 </body>
 </html>
