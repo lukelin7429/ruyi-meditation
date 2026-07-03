@@ -1,0 +1,242 @@
+---
+layout: default
+title: Life Questions
+permalink: /life-questions/
+excerpt: Start from a problem you're actually facing — anger, attachment, grief, restlessness — and find what the Buddhist tradition offers, in plain English, for living with it.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  /* ============ LIFE QUESTIONS — warm terra & saffron ============ */
+  .lq{--saffron:#d98b2b;--saffron-deep:#b56a1c;--gold:#e3b765;--gold-deep:#c69642;
+      --terra:#b5482f;--terra-deep:#8c2f12;--maroon:#6f2a22;
+      --jade:#2f6d5e;--jade-deep:#234f44;
+      --cream:#fbf5ea;--cream-2:#fdfaf4;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;}
+  .lq *{box-sizing:border-box;}
+  .lq-wrap{max-width:1040px;margin:0 auto;padding:0 26px;}
+
+  /* reveal */
+  .js .lq [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .lq [data-rv].in{opacity:1;transform:none;}
+
+  /* ---- HERO ---- */
+  .lq-hero{position:relative;overflow:hidden;color:#fff;
+    background:
+      radial-gradient(120% 90% at 80% 16%, rgba(227,183,101,.30), transparent 60%),
+      linear-gradient(155deg,#c2542f 0%,#a53c22 38%,#6f2216 100%);}
+  .lq-hero-in{position:relative;max-width:1040px;margin:0 auto;padding:78px 26px 78px;z-index:2;}
+  .lq-halo{position:absolute;right:-90px;top:-70px;width:440px;height:440px;color:rgba(227,183,101,.15);z-index:1;animation:lqspin 90s linear infinite;}
+  @keyframes lqspin{to{transform:rotate(360deg);}}
+  .lq-bread{position:relative;z-index:3;font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(251,245,234,.8);}
+  .lq-bread a{color:var(--gold);text-decoration:none;border-bottom:1px solid rgba(227,183,101,.4);transition:border-color .2s;}
+  .lq-bread a:hover{border-color:var(--gold);}
+  .lq-bread .sep{margin:0 9px;color:rgba(251,245,234,.5);}
+  .lq-eyebrow{font-size:13px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .lq-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(38px,6.2vw,68px);line-height:1.06;margin:16px 0 0;max-width:17ch;}
+  .lq-hero h1 em{font-style:italic;color:var(--gold);}
+  .lq-rule{width:64px;height:3px;background:var(--gold);border-radius:3px;margin:24px 0;}
+  .lq-hero p{max-width:620px;font-size:19px;line-height:1.7;color:#fbeade;}
+
+  /* ---- INTRO ---- */
+  .lq-intro{background:var(--cream);padding:70px 0 30px;}
+  .lq-head{text-align:center;max-width:680px;margin:0 auto 44px;}
+  .lq-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--terra-deep);}
+  .lq-head h2{font-family:'Playfair Display',serif;font-size:clamp(28px,4.4vw,42px);color:var(--ink);margin:12px 0 12px;line-height:1.14;}
+  .lq-head p{font-size:17px;color:var(--ink-soft);line-height:1.65;}
+
+  /* ---- TOPIC GRID ---- */
+  .lq-topics{background:var(--cream);padding:14px 0 86px;}
+  .lq-grid{display:grid;gap:24px;grid-template-columns:1fr;}
+  @media(min-width:680px){.lq-grid{grid-template-columns:1fr 1fr;}}
+  @media(min-width:1000px){.lq-grid{grid-template-columns:1fr 1fr 1fr;}}
+
+  /* live topic card */
+  .lq-card{position:relative;overflow:hidden;border-radius:18px;padding:34px 30px 28px;color:#fff;text-decoration:none;
+    display:flex;flex-direction:column;min-height:300px;transition:transform .32s cubic-bezier(.22,.61,.36,1),box-shadow .32s;}
+  .lq-card:hover{transform:translateY(-8px);text-decoration:none;}
+  .lq-card.terra{background:linear-gradient(158deg,#c2542f 0%,#b5482f 45%,#8c2f12 100%);box-shadow:0 26px 50px -26px rgba(140,47,18,.65);}
+  .lq-card .ic{width:46px;height:46px;color:rgba(255,255,255,.92);margin-bottom:auto;}
+  .lq-card .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.82);margin-top:18px;display:inline-flex;align-items:center;gap:9px;}
+  .lq-card .trad .live-dot{width:8px;height:8px;border-radius:50%;background:var(--gold);animation:lqpulse 2s infinite;}
+  @keyframes lqpulse{0%{box-shadow:0 0 0 0 rgba(227,183,101,.55);}70%{box-shadow:0 0 0 8px rgba(227,183,101,0);}100%{box-shadow:0 0 0 0 rgba(227,183,101,0);}}
+  .lq-card h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.12;margin:8px 0 4px;}
+  .lq-card .sub{font-size:14.5px;color:rgba(255,255,255,.86);font-style:italic;margin-bottom:12px;}
+  .lq-card p{font-size:15px;line-height:1.58;color:rgba(255,255,255,.9);margin:0 0 20px;}
+  .lq-card .foot{display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(255,255,255,.22);padding-top:15px;margin-top:auto;}
+  .lq-card .stat{font-family:'Playfair Display',serif;font-size:14px;color:#fff;}
+  .lq-card .stat b{font-size:26px;font-weight:700;margin-right:4px;}
+  .lq-card .go{font-size:14.5px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .lq-card .go .arw{transition:transform .25s;}
+  .lq-card:hover .go .arw{transform:translateX(5px);}
+  .lq-card::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;
+    background:linear-gradient(120deg,transparent 34%,rgba(255,255,255,.24) 50%,transparent 66%);
+    transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,.61,.36,1);}
+  .lq-card:hover::after{transform:translateX(130%);}
+  .lq-bigmark{position:absolute;right:-40px;bottom:-40px;width:180px;height:180px;color:rgba(255,255,255,.08);transition:transform .7s cubic-bezier(.22,.61,.36,1);}
+  .lq-card:hover .lq-bigmark{transform:rotate(20deg) scale(1.12);}
+
+  /* preparing topic card */
+  .lq-prep{position:relative;border:1px solid var(--line);border-radius:18px;padding:32px 28px 26px;background:linear-gradient(180deg,#fff,#fbf5ea);
+    display:flex;flex-direction:column;min-height:300px;transition:transform .25s,box-shadow .25s;}
+  .lq-prep:hover{transform:translateY(-4px);box-shadow:0 20px 40px -24px rgba(120,80,30,.4);}
+  .lq-prep .ic{width:44px;height:44px;color:var(--saffron-deep);margin-bottom:auto;opacity:.9;}
+  .lq-prep .tag{display:inline-block;align-self:flex-start;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--saffron-deep);background:#fbeed6;border:1px solid #f0dcae;border-radius:20px;padding:3px 11px;margin-top:18px;}
+  .lq-prep h3{font-family:'Playfair Display',serif;font-size:24px;color:var(--ink);margin:10px 0 4px;}
+  .lq-prep .sub{font-size:14px;color:var(--saffron-deep);font-weight:600;font-style:italic;margin-bottom:10px;}
+  .lq-prep p{font-size:15px;line-height:1.58;color:var(--ink-soft);margin:0;}
+
+  /* ---- HOW IT WORKS ---- */
+  .lq-how{background:#fff;padding:78px 0 84px;}
+  .lq-steps{display:grid;gap:22px;grid-template-columns:1fr;max-width:920px;margin:0 auto;counter-reset:st;}
+  @media(min-width:760px){.lq-steps{grid-template-columns:repeat(3,1fr);}}
+  .lq-step{text-align:center;padding:8px 12px;}
+  .lq-step .num{width:52px;height:52px;margin:0 auto 16px;border-radius:50%;background:linear-gradient(150deg,#c2542f,#8c2f12);color:#fff;
+    font-family:'Playfair Display',serif;font-size:22px;font-weight:600;display:flex;align-items:center;justify-content:center;box-shadow:0 14px 28px -14px rgba(140,47,18,.6);}
+  .lq-step h4{font-family:'Playfair Display',serif;font-size:20px;color:var(--ink);margin:0 0 7px;}
+  .lq-step p{font-size:15px;line-height:1.6;color:var(--ink-soft);margin:0;}
+
+  @media(prefers-reduced-motion:reduce){.lq-halo{animation:none;}.lq-card::after{display:none;}}
+</style>
+
+<div class="lq">
+
+  <!-- HERO -->
+  <section class="lq-hero">
+    <svg class="lq-halo" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+      <circle cx="50" cy="50" r="46"/><circle cx="50" cy="50" r="12"/>
+      <g stroke-width="2"><line x1="50" y1="4" x2="50" y2="96"/><line x1="4" y1="50" x2="96" y2="50"/>
+      <line x1="17" y1="17" x2="83" y2="83"/><line x1="83" y1="17" x2="17" y2="83"/>
+      <line x1="29" y1="9" x2="71" y2="91"/><line x1="91" y1="29" x2="9" y2="71"/>
+      <line x1="9" y1="29" x2="91" y2="71"/><line x1="71" y1="9" x2="29" y2="91"/></g>
+    </svg>
+    <div class="lq-hero-in">
+      <nav class="lq-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a><span class="sep">›</span>Life Questions</nav>
+      <div class="lq-eyebrow" data-rv>Life Questions · 主題研究</div>
+      <h1 data-rv style="transition-delay:.08s">Start from what you're <em>actually facing.</em></h1>
+      <div class="lq-rule" data-rv style="transition-delay:.16s"></div>
+      <p data-rv style="transition-delay:.2s">You don't have to read a whole canon to find help. Start from a problem in your own life — a temper you can't govern, a loss you can't let go of, a fear of what's coming — and we'll show you what two and a half thousand years of Buddhist practice offers for living with it. Grounded in the texts; written for right now.</p>
+    </div>
+  </section>
+
+  <!-- INTRO -->
+  <section class="lq-intro">
+    <div class="lq-wrap">
+      <div class="lq-head" data-rv>
+        <div class="lbl">Browse by theme</div>
+        <h2>Which one is yours today?</h2>
+        <p>Each theme gathers the relevant teachings, practices, and passages into one plain-English guide. The first is open now; the rest are being written.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- TOPIC GRID -->
+  <section class="lq-topics">
+    <div class="lq-wrap">
+      <div class="lq-grid">
+
+        <!-- LIVE: Forbearance -->
+        <a href="{{ '/forbearance/' | relative_url }}" class="lq-card terra" data-rv>
+          <svg class="ic" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M24 42c8-6 14-12 14-21a8 8 0 0 0-14-5 8 8 0 0 0-14 5c0 9 6 15 14 21Z"/>
+            <path d="M24 16v26M16 24c3 0 8 2 8 8M32 24c-3 0-8 2-8 8"/>
+          </svg>
+          <div class="trad"><span class="live-dot"></span>Open now</div>
+          <h3>Forbearance &amp; Patience</h3>
+          <div class="sub">When anger keeps hijacking you</div>
+          <p>Master Nāgārjuna's twenty-five concrete strategies for not being run by your temper — the classic Buddhist toolkit for patience, in plain modern English.</p>
+          <div class="foot">
+            <span class="stat"><b>25</b> methods</span>
+            <span class="go">Read <span class="arw">→</span></span>
+          </div>
+          <svg class="lq-bigmark" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><path d="M50 92c18-13 30-26 30-45a17 17 0 0 0-30-11 17 17 0 0 0-30 11c0 19 12 32 30 45Z"/></svg>
+        </a>
+
+        <!-- PREP: Anger -->
+        <div class="lq-prep" data-rv style="transition-delay:.05s">
+          <svg class="ic" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 40c0-8 4-16 16-16s16 8 16 16"/><path d="M16 18l6 3M32 18l-6 3M18 30h.02M30 30h.02"/><path d="M24 8v4M14 11l2 3M34 11l-2 3"/></svg>
+          <span class="tag">In preparation</span>
+          <h3>Working with Anger</h3>
+          <div class="sub">Meeting a hot emotion before it acts</div>
+          <p>How the tradition understands anger, and the practices for catching it early — cooling the reaction, and choosing your response instead of firing it off.</p>
+        </div>
+
+        <!-- PREP: Meditation skills -->
+        <div class="lq-prep" data-rv style="transition-delay:.1s">
+          <svg class="ic" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 34c8-5 24-5 32 0M24 30V14M18 20l6-6 6 6"/><circle cx="24" cy="9" r="3"/></svg>
+          <span class="tag">In preparation</span>
+          <h3>Meditation Skills</h3>
+          <div class="sub">Deepening a practice you've started</div>
+          <p>Beyond the basics: working with hindrances, cultivating loving-kindness, walking meditation, and steadying concentration over the long haul.</p>
+        </div>
+
+        <!-- PREP: Letting go -->
+        <div class="lq-prep" data-rv style="transition-delay:.15s">
+          <svg class="ic" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M24 6v22M24 28c-4 4-4 10 0 14 4-4 4-10 0-14Z"/><path d="M14 20c-4 2-6 6-4 10M34 20c4 2 6 6 4 10"/></svg>
+          <span class="tag">In preparation</span>
+          <h3>Letting Go of Attachment</h3>
+          <div class="sub">Loosening the grip that hurts</div>
+          <p>Why clinging causes suffering, and how to hold what we love with open hands — the heart of the Buddha's second noble truth, made practical.</p>
+        </div>
+
+        <!-- PREP: Facing death -->
+        <div class="lq-prep" data-rv style="transition-delay:.2s">
+          <svg class="ic" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="24" cy="24" r="18"/><path d="M24 24l0-9M24 24l7 4"/><path d="M24 6v3M42 24h-3M24 42v-3M6 24h3"/></svg>
+          <span class="tag">In preparation</span>
+          <h3>Facing Death &amp; Impermanence</h3>
+          <div class="sub">Living with loss and what's coming</div>
+          <p>The Buddhist contemplations on impermanence and mortality — not to frighten, but to soften the fear and help us meet grief, aging, and death with steadiness.</p>
+        </div>
+
+        <!-- PREP: more coming -->
+        <div class="lq-prep" data-rv style="transition-delay:.25s">
+          <svg class="ic" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M24 10v28M10 24h28"/></svg>
+          <span class="tag">More on the way</span>
+          <h3>And more to come</h3>
+          <div class="sub">Anxiety, relationships, purpose…</div>
+          <p>New themes are added as they're written. Facing something that isn't here yet? The tradition almost certainly speaks to it — tell us, and it may be next.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section class="lq-how">
+    <div class="lq-wrap">
+      <div class="lq-head" data-rv>
+        <div class="lbl">How to use this</div>
+        <h2>From a problem to a practice.</h2>
+        <p>Every theme is built the same way, so you can move from "I'm struggling with this" to "here's what I'll actually do" in one sitting.</p>
+      </div>
+      <div class="lq-steps">
+        <div class="lq-step" data-rv>
+          <div class="num">1</div>
+          <h4>Name what's hard</h4>
+          <p>Pick the theme that matches what you're facing right now — not in theory, but today.</p>
+        </div>
+        <div class="lq-step" data-rv style="transition-delay:.08s">
+          <div class="num">2</div>
+          <h4>See what the texts say</h4>
+          <p>Read how the Buddha and the great masters understood it, drawn straight from the discourses and treatises — in language you can use.</p>
+        </div>
+        <div class="lq-step" data-rv style="transition-delay:.16s">
+          <div class="num">3</div>
+          <h4>Take one thing to try</h4>
+          <p>Each guide ends with a concrete practice — something to do, not just to think about — and links back to the source for going deeper.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var els=document.querySelectorAll('.lq [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){var t=e.target;t.classList.add('in');io.unobserve(t);setTimeout(function(){t.style.transitionDelay='0s';},900);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>

@@ -53,6 +53,26 @@ excerpt: The Buddha's teachings in plain English — discourses, treatises, and 
   .dh-card.jade:hover{box-shadow:0 36px 60px -26px rgba(35,79,68,.78);}
   .dh-card.terra{background:linear-gradient(158deg,#c2542f 0%,#b5482f 45%,#8c2f12 100%);box-shadow:0 26px 50px -26px rgba(140,47,18,.65);}
   .dh-card.terra:hover{box-shadow:0 36px 60px -26px rgba(140,47,18,.74);}
+  .dh-card.gold{background:linear-gradient(158deg,#cf9a3d 0%,#b97e28 46%,#8a5716 100%);box-shadow:0 26px 50px -26px rgba(138,87,22,.6);}
+  .dh-card.gold:hover{box-shadow:0 36px 60px -26px rgba(138,87,22,.72);}
+  .dh-card.night{background:linear-gradient(158deg,#33475f 0%,#27384d 46%,#141d28 100%);box-shadow:0 26px 50px -26px rgba(20,29,40,.68);}
+  .dh-card.night:hover{box-shadow:0 36px 60px -26px rgba(20,29,40,.78);}
+  /* live pulse dot on cards */
+  .dh-card .trad .live-dot{width:8px;height:8px;border-radius:50%;background:var(--gold);display:inline-block;margin-right:2px;animation:dhpulse 2s infinite;}
+  @keyframes dhpulse{0%{box-shadow:0 0 0 0 rgba(227,183,101,.55);}70%{box-shadow:0 0 0 8px rgba(227,183,101,0);}100%{box-shadow:0 0 0 0 rgba(227,183,101,0);}}
+  /* shelves */
+  .dh-shelf{margin-bottom:46px;}
+  .dh-shelf:last-child{margin-bottom:0;}
+  .dh-shelf-lbl{display:flex;align-items:center;gap:16px;margin:0 0 22px;}
+  .dh-shelf-lbl .t{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--maroon);white-space:nowrap;}
+  .dh-shelf-lbl .t small{font-weight:600;color:var(--saffron-deep);letter-spacing:.06em;margin-left:8px;}
+  .dh-shelf-lbl .ln{flex:1;height:1px;background:linear-gradient(90deg,var(--line),transparent);}
+  /* coming-soon card (non-link) */
+  .dh-card.soon{cursor:default;}
+  .dh-card.soon:hover{transform:none;}
+  .dh-card.soon::after{display:none;}
+  .dh-card .ribbon{position:absolute;top:20px;right:-34px;transform:rotate(45deg);background:rgba(255,255,255,.16);color:#fff;
+    font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;padding:5px 40px;z-index:4;}
   .dh-icon{width:54px;height:54px;color:rgba(255,255,255,.92);margin-bottom:auto;}
   .dh-card .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);margin-top:20px;}
   .dh-card h3{font-family:'Playfair Display',serif;font-size:30px;line-height:1.1;margin:8px 0 4px;}
@@ -121,45 +141,89 @@ excerpt: The Buddha's teachings in plain English — discourses, treatises, and 
   <section class="dh-live">
     <div class="dh-wrap">
       <div class="dh-head" data-rv>
-        <div class="lbl">Live collections</div>
+        <div class="lbl">Four ways in</div>
         <h2>Where to begin.</h2>
-        <p>Two collections are open now. Each entry has a reading guide written for English speakers, the full text, and a self-check quiz.</p>
+        <p>Two doors open onto the texts themselves; two start from where you are. Every entry has a reading guide for English speakers, the full text, and a self-check quiz.</p>
       </div>
-      <div class="dh-cards">
 
-        <a href="{{ '/discourses/' | relative_url }}" class="dh-card jade" data-rv>
-          <svg class="dh-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <circle cx="24" cy="24" r="20"/><circle cx="24" cy="24" r="5"/>
-            <line x1="24" y1="4" x2="24" y2="44"/><line x1="4" y1="24" x2="44" y2="24"/>
-            <line x1="9.9" y1="9.9" x2="38.1" y2="38.1"/><line x1="38.1" y1="9.9" x2="9.9" y2="38.1"/>
-          </svg>
-          <div class="trad">Theravāda · Pāli Canon</div>
-          <h3>The Discourses</h3>
-          <div class="sub">Majjhima Nikāya — the Middle-Length Discourses</div>
-          <p>Dialogues, parables, and meditation instructions spoken by the Buddha himself, preserved in the Pāli Canon — one sutta at a time.</p>
-          <div class="foot">
-            <span class="stat"><b>152</b> suttas</span>
-            <span class="go">Enter <span class="arw">→</span></span>
+      <!-- SHELF 1 · STUDY THE TEXTS -->
+      <div class="dh-shelf" data-rv>
+        <div class="dh-shelf-lbl"><span class="t">Study the texts<small>經典研讀</small></span><span class="ln"></span></div>
+        <div class="dh-cards">
+
+          <div class="dh-card gold soon" data-rv>
+            <span class="ribbon">Opening soon</span>
+            <svg class="dh-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M24 12c-4-3-9-4-15-4v28c6 0 11 1 15 4 4-3 9-4 15-4V8c-6 0-11 1-15 4Z"/><path d="M24 12v28"/>
+            </svg>
+            <div class="trad">Mahāyāna · Sūtras</div>
+            <h3>Mahāyāna Sūtras</h3>
+            <div class="sub">The Heart Sūtra, the Diamond Sūtra &amp; more</div>
+            <p>The great vehicle's scriptures — several translations of each side by side, with a plain-English reading guide that opens their meaning for the modern reader.</p>
+            <div class="foot">
+              <span class="stat">In preparation</span>
+              <span class="go" style="opacity:.7">Coming</span>
+            </div>
+            <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><path d="M50 24c-8-6-18-8-30-8v56c12 0 22 2 30 8 8-6 18-8 30-8V16c-12 0-22 2-30 8Z"/><path d="M50 24v56"/></svg>
           </div>
-          <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><circle cx="50" cy="50" r="46"/><circle cx="50" cy="50" r="14"/><line x1="50" y1="4" x2="50" y2="96"/><line x1="4" y1="50" x2="96" y2="50"/><line x1="17" y1="17" x2="83" y2="83"/><line x1="83" y1="17" x2="17" y2="83"/></svg>
-        </a>
 
-        <a href="{{ '/forbearance/' | relative_url }}" class="dh-card terra" data-rv style="transition-delay:.1s">
-          <svg class="dh-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M24 42c8-6 14-12 14-21a8 8 0 0 0-14-5 8 8 0 0 0-14 5c0 9 6 15 14 21Z"/>
-            <path d="M24 16v26M16 24c3 0 8 2 8 8M32 24c-3 0-8 2-8 8"/>
-          </svg>
-          <div class="trad">Mahāyāna · Treatise</div>
-          <h3>Forbearance</h3>
-          <div class="sub">Nāgārjuna's 25 ways to keep your peace</div>
-          <p>Eighteen centuries ago the master Nāgārjuna set down twenty-five concrete strategies for not getting hijacked by anger — in plain modern English.</p>
-          <div class="foot">
-            <span class="stat"><b>25</b> methods</span>
-            <span class="go">Read <span class="arw">→</span></span>
-          </div>
-          <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><path d="M50 92c18-13 30-26 30-45a17 17 0 0 0-30-11 17 17 0 0 0-30 11c0 19 12 32 30 45Z"/></svg>
-        </a>
+          <a href="{{ '/discourses/' | relative_url }}" class="dh-card jade" data-rv style="transition-delay:.1s">
+            <svg class="dh-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="24" cy="24" r="20"/><circle cx="24" cy="24" r="5"/>
+              <line x1="24" y1="4" x2="24" y2="44"/><line x1="4" y1="24" x2="44" y2="24"/>
+              <line x1="9.9" y1="9.9" x2="38.1" y2="38.1"/><line x1="38.1" y1="9.9" x2="9.9" y2="38.1"/>
+            </svg>
+            <div class="trad"><span class="live-dot"></span>Theravāda · Pāli Canon</div>
+            <h3>The Discourses</h3>
+            <div class="sub">Majjhima Nikāya — the Middle-Length Discourses</div>
+            <p>Dialogues, parables, and meditation instructions spoken by the Buddha himself, preserved in the Pāli Canon — one sutta at a time.</p>
+            <div class="foot">
+              <span class="stat"><b>152</b> suttas</span>
+              <span class="go">Enter <span class="arw">→</span></span>
+            </div>
+            <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><circle cx="50" cy="50" r="46"/><circle cx="50" cy="50" r="14"/><line x1="50" y1="4" x2="50" y2="96"/><line x1="4" y1="50" x2="96" y2="50"/><line x1="17" y1="17" x2="83" y2="83"/><line x1="83" y1="17" x2="17" y2="83"/></svg>
+          </a>
 
+        </div>
+      </div>
+
+      <!-- SHELF 2 · START WHERE YOU ARE -->
+      <div class="dh-shelf" data-rv>
+        <div class="dh-shelf-lbl"><span class="t">Start where you are<small>從你的處境</small></span><span class="ln"></span></div>
+        <div class="dh-cards">
+
+          <a href="{{ '/life-questions/' | relative_url }}" class="dh-card terra" data-rv>
+            <svg class="dh-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M24 42c8-6 14-12 14-21a8 8 0 0 0-14-5 8 8 0 0 0-14 5c0 9 6 15 14 21Z"/>
+              <path d="M24 16v26M16 24c3 0 8 2 8 8M32 24c-3 0-8 2-8 8"/>
+            </svg>
+            <div class="trad"><span class="live-dot"></span>Themes &amp; practice</div>
+            <h3>Life Questions</h3>
+            <div class="sub">Anger, letting go, grief — start from your problem</div>
+            <p>Facing something hard? Begin from the problem itself and find what the tradition offers. Forbearance &amp; patience — Nāgārjuna's 25 methods — is open now.</p>
+            <div class="foot">
+              <span class="stat"><b>1</b> theme live</span>
+              <span class="go">Browse <span class="arw">→</span></span>
+            </div>
+            <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><path d="M50 92c18-13 30-26 30-45a17 17 0 0 0-30-11 17 17 0 0 0-30 11c0 19 12 32 30 45Z"/></svg>
+          </a>
+
+          <a href="{{ '/meditation/' | relative_url }}" class="dh-card night" data-rv style="transition-delay:.1s">
+            <svg class="dh-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M9 38q15-8 30 0Q34 34 24 34T9 38Z"/><path d="M24 34V16"/><path d="M17 23l7-7 7 7"/><circle cx="24" cy="10" r="3.5"/>
+            </svg>
+            <div class="trad"><span class="live-dot"></span>Practice · 靜坐</div>
+            <h3>Begin to Meditate</h3>
+            <div class="sub">Posture, breath &amp; why it's worth doing</div>
+            <p>A plain-English guide for complete beginners — the seven-point posture, mindfulness of breathing, and a ten-minute first session, drawn straight from the suttas.</p>
+            <div class="foot">
+              <span class="stat">For beginners</span>
+              <span class="go">Start sitting <span class="arw">→</span></span>
+            </div>
+            <svg class="dh-bigwheel" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><path d="M12 82q38-18 76 0Q76 74 50 74T12 82Z"/><path d="M50 74V30"/></svg>
+          </a>
+
+        </div>
       </div>
     </div>
   </section>
@@ -175,9 +239,9 @@ excerpt: The Buddha's teachings in plain English — discourses, treatises, and 
       <div class="dh-grid3">
         <div class="dh-prep" data-rv>
           <span class="tag">In preparation</span>
-          <h3>Mahāyāna Sūtras</h3>
-          <div class="sub">The great vehicle's scriptures</div>
-          <p>The Heart Sūtra, the Diamond Sūtra, and others — with reading guides that open their meaning for the modern reader.</p>
+          <h3>More Mahāyāna Sūtras</h3>
+          <div class="sub">Beyond the Heart &amp; Diamond</div>
+          <p>Once the first sūtras are live, the Lotus, the Vimalakīrti, the Platform Sūtra and more — each with a reading guide for the modern reader.</p>
         </div>
         <div class="dh-prep" data-rv style="transition-delay:.08s">
           <span class="tag">In preparation</span>

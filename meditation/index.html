@@ -1,0 +1,393 @@
+---
+layout: default
+title: Begin to Meditate
+permalink: /meditation/
+excerpt: A plain-English guide to sitting meditation for complete beginners — the posture, the breath, and why it's worth doing — drawn straight from the Buddha's own instructions.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  /* ============ BEGIN TO MEDITATE — night-indigo & gold ============ */
+  .mb{--gold:#e3b765;--gold-deep:#c69642;--indigo:#27384d;--indigo-mid:#33475f;--indigo-deep:#141d28;
+      --jade:#2f6d5e;--jade-deep:#234f44;
+      --cream:#fbf5ea;--cream-2:#fdfaf4;--ink:#22303f;--ink-soft:#5d6b78;--line:#e6ded0;--line-cool:#dde3ea;}
+  .mb *{box-sizing:border-box;}
+  .mb-wrap{max-width:1000px;margin:0 auto;padding:0 26px;}
+  .mb-narrow{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  /* reveal */
+  .js .mb [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .mb [data-rv].in{opacity:1;transform:none;}
+
+  /* ---- HERO ---- */
+  .mb-hero{position:relative;overflow:hidden;color:#fff;
+    background:
+      radial-gradient(120% 92% at 82% 14%, rgba(227,183,101,.26), transparent 58%),
+      linear-gradient(158deg,#33475f 0%,#27384d 40%,#141d28 100%);}
+  .mb-hero-in{position:relative;max-width:1000px;margin:0 auto;padding:78px 26px 84px;z-index:2;}
+  .mb-halo{position:absolute;right:-70px;top:-60px;width:440px;height:440px;color:rgba(227,183,101,.14);z-index:1;animation:mbspin 90s linear infinite;}
+  @keyframes mbspin{to{transform:rotate(360deg);}}
+  .mb-bread{position:relative;z-index:3;font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(233,239,246,.78);}
+  .mb-bread a{color:var(--gold);text-decoration:none;border-bottom:1px solid rgba(227,183,101,.4);transition:border-color .2s;}
+  .mb-bread a:hover{border-color:var(--gold);}
+  .mb-bread .sep{margin:0 9px;color:rgba(233,239,246,.5);}
+  .mb-eyebrow{font-size:13px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .mb-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(40px,6.4vw,70px);line-height:1.05;margin:16px 0 0;max-width:16ch;}
+  .mb-hero h1 em{font-style:italic;color:var(--gold);}
+  .mb-rule{width:64px;height:3px;background:var(--gold);border-radius:3px;margin:24px 0;}
+  .mb-hero p{max-width:600px;font-size:19px;line-height:1.7;color:#e7edf3;}
+  .mb-trad{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px;}
+  .mb-trad span{font-size:13px;letter-spacing:.04em;color:#f2f6fa;border:1px solid rgba(227,183,101,.4);background:rgba(255,255,255,.06);border-radius:30px;padding:7px 16px;}
+  .mb-trad b{color:var(--gold);font-weight:600;}
+  /* seated figure floating in hero */
+  .mb-hero-figure{position:absolute;right:6%;bottom:-6px;width:210px;color:rgba(227,183,101,.5);z-index:1;display:none;}
+  @media(min-width:1080px){.mb-hero-figure{display:block;}}
+
+  /* ---- generic section ---- */
+  .mb-sec{padding:76px 0 80px;}
+  .mb-sec.cream{background:var(--cream);}
+  .mb-sec.white{background:#fff;}
+  .mb-head{max-width:680px;margin:0 auto 46px;text-align:center;}
+  .mb-head.left{text-align:left;margin-left:0;}
+  .mb-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);}
+  .mb-head h2{font-family:'Playfair Display',serif;font-size:clamp(28px,4.4vw,42px);color:var(--ink);margin:12px 0 12px;line-height:1.12;}
+  .mb-head p{font-size:17px;color:var(--ink-soft);line-height:1.65;}
+  .mb-lead{font-size:18.5px;line-height:1.8;color:var(--ink);}
+  .mb-lead.center{text-align:center;max-width:680px;margin:0 auto;}
+
+  /* ---- WHY / benefits ---- */
+  .mb-benefits{display:grid;gap:20px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:640px){.mb-benefits{grid-template-columns:1fr 1fr;}}
+  .mb-ben{position:relative;border:1px solid var(--line);border-radius:16px;padding:28px 26px;background:linear-gradient(180deg,#fff,#fdfaf4);transition:transform .25s,box-shadow .25s;}
+  .mb-ben:hover{transform:translateY(-5px);box-shadow:0 22px 44px -26px rgba(60,80,110,.4);}
+  .mb-ben .ic{width:40px;height:40px;color:var(--jade);margin-bottom:14px;}
+  .mb-ben h3{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);margin:0 0 7px;}
+  .mb-ben p{font-size:15.5px;line-height:1.62;color:var(--ink-soft);margin:0;}
+
+  /* ---- practical strip ---- */
+  .mb-strip{display:grid;gap:18px;grid-template-columns:1fr;margin-top:6px;}
+  @media(min-width:720px){.mb-strip{grid-template-columns:repeat(4,1fr);}}
+  .mb-fact{text-align:center;padding:24px 16px;border-radius:14px;background:#fff;border:1px solid var(--line-cool);}
+  .mb-fact .k{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);margin-bottom:8px;}
+  .mb-fact .v{font-family:'Playfair Display',serif;font-size:19px;color:var(--ink);line-height:1.3;}
+  .mb-fact .v small{display:block;font-family:'Inter',sans-serif;font-size:13.5px;color:var(--ink-soft);font-weight:400;margin-top:4px;}
+
+  /* ---- POSTURE ---- */
+  .mb-posture{display:grid;gap:40px;grid-template-columns:1fr;align-items:start;}
+  @media(min-width:860px){.mb-posture{grid-template-columns:300px 1fr;gap:56px;}}
+  .mb-figwrap{position:sticky;top:30px;background:linear-gradient(158deg,#33475f,#27384d 55%,#182231);border-radius:20px;padding:30px 24px 20px;text-align:center;box-shadow:0 30px 60px -34px rgba(20,29,40,.7);}
+  .mb-figwrap svg{width:100%;max-width:210px;color:var(--gold);}
+  .mb-figwrap .cap{margin-top:6px;font-size:12.5px;letter-spacing:.12em;text-transform:uppercase;color:rgba(227,183,101,.8);font-weight:600;}
+  .mb-points{list-style:none;margin:0;padding:0;counter-reset:pt;}
+  .mb-points li{position:relative;padding:0 0 22px 60px;}
+  .mb-points li:last-child{padding-bottom:0;}
+  .mb-points li::before{counter-increment:pt;content:counter(pt);position:absolute;left:0;top:-2px;width:40px;height:40px;border-radius:50%;
+    background:var(--indigo);color:var(--gold);font-family:'Playfair Display',serif;font-size:19px;font-weight:600;
+    display:flex;align-items:center;justify-content:center;box-shadow:0 8px 18px -8px rgba(39,56,77,.6);}
+  .mb-points li::after{content:"";position:absolute;left:19.5px;top:40px;bottom:6px;width:1px;background:var(--line-cool);}
+  .mb-points li:last-child::after{display:none;}
+  .mb-points h4{font-family:'Playfair Display',serif;font-size:20px;color:var(--ink);margin:2px 0 5px;}
+  .mb-points p{font-size:15.5px;line-height:1.62;color:var(--ink-soft);margin:0;}
+  .mb-points .zh{color:var(--gold-deep);font-weight:600;font-style:normal;}
+
+  /* ---- BREATH ---- */
+  .mb-breath{display:grid;gap:20px;grid-template-columns:1fr;counter-reset:br;}
+  @media(min-width:720px){.mb-breath{grid-template-columns:1fr 1fr;}}
+  .mb-bstep{position:relative;background:#fff;border:1px solid var(--line);border-radius:16px;padding:26px 26px 24px;}
+  .mb-bstep .n{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--gold-deep);letter-spacing:.02em;margin-bottom:8px;text-transform:uppercase;}
+  .mb-bstep h4{font-family:'Playfair Display',serif;font-size:21px;color:var(--ink);margin:0 0 8px;}
+  .mb-bstep p{font-size:15.5px;line-height:1.64;color:var(--ink-soft);margin:0;}
+  .mb-pull{margin:34px auto 0;max-width:720px;text-align:center;font-family:'Playfair Display',serif;font-style:italic;font-size:clamp(21px,3vw,27px);line-height:1.4;color:var(--ink);}
+  .mb-pull b{color:var(--gold-deep);font-style:normal;font-weight:600;}
+
+  /* ---- SESSION timeline ---- */
+  .mb-flow{max-width:720px;margin:0 auto;list-style:none;padding:0;counter-reset:fl;}
+  .mb-flow li{position:relative;padding:0 0 24px 74px;}
+  .mb-flow li:last-child{padding-bottom:0;}
+  .mb-flow li::before{counter-increment:fl;content:counter(fl);position:absolute;left:0;top:0;width:44px;height:44px;border-radius:12px;
+    background:linear-gradient(150deg,#33475f,#1c2836);color:var(--gold);font-family:'Playfair Display',serif;font-size:18px;font-weight:600;
+    display:flex;align-items:center;justify-content:center;}
+  .mb-flow li::after{content:"";position:absolute;left:21.5px;top:44px;bottom:2px;width:1px;background:var(--line-cool);}
+  .mb-flow li:last-child::after{display:none;}
+  .mb-flow h4{font-family:'Playfair Display',serif;font-size:19px;color:var(--ink);margin:4px 0 4px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;}
+  .mb-flow h4 .t{font-family:'Inter',sans-serif;font-size:12.5px;font-weight:600;color:var(--gold-deep);letter-spacing:.06em;background:#fbeed6;border:1px solid #f0dcae;border-radius:20px;padding:2px 10px;}
+  .mb-flow p{font-size:15.5px;line-height:1.62;color:var(--ink-soft);margin:0;}
+
+  /* ---- TROUBLE (accordion) ---- */
+  .mb-faq{max-width:760px;margin:0 auto;}
+  .mb-q{border:1px solid var(--line);border-radius:14px;background:#fff;margin-bottom:14px;overflow:hidden;transition:box-shadow .25s;}
+  .mb-q[open]{box-shadow:0 18px 40px -28px rgba(60,80,110,.5);}
+  .mb-q summary{list-style:none;cursor:pointer;padding:20px 24px;display:flex;align-items:center;justify-content:space-between;gap:16px;
+    font-family:'Playfair Display',serif;font-size:19px;color:var(--ink);}
+  .mb-q summary::-webkit-details-marker{display:none;}
+  .mb-q summary .plus{flex:0 0 auto;width:26px;height:26px;border-radius:50%;border:1.5px solid var(--gold-deep);position:relative;transition:transform .3s;}
+  .mb-q summary .plus::before,.mb-q summary .plus::after{content:"";position:absolute;background:var(--gold-deep);left:50%;top:50%;transform:translate(-50%,-50%);}
+  .mb-q summary .plus::before{width:12px;height:1.7px;}
+  .mb-q summary .plus::after{width:1.7px;height:12px;transition:transform .3s;}
+  .mb-q[open] summary .plus::after{transform:translate(-50%,-50%) scaleY(0);}
+  .mb-q .a{padding:0 24px 22px;font-size:15.5px;line-height:1.68;color:var(--ink-soft);}
+  .mb-q .a p{margin:0;}
+
+  /* ---- SOURCE cross-link ---- */
+  .mb-source{display:grid;gap:22px;grid-template-columns:1fr;}
+  @media(min-width:760px){.mb-source{grid-template-columns:1fr 1fr;}}
+  .mb-slink{position:relative;overflow:hidden;display:flex;flex-direction:column;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;min-height:210px;
+    transition:transform .32s cubic-bezier(.22,.61,.36,1),box-shadow .32s;}
+  .mb-slink.jade{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.7);}
+  .mb-slink.night{background:linear-gradient(158deg,#33475f 0%,#27384d 45%,#141d28 100%);box-shadow:0 26px 50px -28px rgba(20,29,40,.7);}
+  .mb-slink:hover{transform:translateY(-8px);text-decoration:none;}
+  .mb-slink .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .mb-slink h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.12;margin:8px 0 6px;}
+  .mb-slink p{font-size:15px;line-height:1.6;color:rgba(255,255,255,.9);margin:0 0 20px;}
+  .mb-slink .go{margin-top:auto;font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .mb-slink .go .arw{transition:transform .25s;}
+  .mb-slink:hover .go .arw{transform:translateX(5px);}
+  .mb-slink::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;
+    background:linear-gradient(120deg,transparent 34%,rgba(255,255,255,.22) 50%,transparent 66%);
+    transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,.61,.36,1);}
+  .mb-slink:hover::after{transform:translateX(130%);}
+
+  /* ---- closing CTA ---- */
+  .mb-cta{background:linear-gradient(158deg,#27384d,#141d28);color:#fff;text-align:center;padding:72px 26px 78px;}
+  .mb-cta h2{font-family:'Playfair Display',serif;font-size:clamp(26px,4vw,38px);margin:0 0 14px;}
+  .mb-cta p{max-width:560px;margin:0 auto 28px;font-size:17px;line-height:1.7;color:#dfe6ee;}
+  .mb-cta .btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;}
+  .mb-btn{display:inline-flex;align-items:center;gap:8px;padding:14px 26px;border-radius:30px;font-weight:600;font-size:15px;text-decoration:none;transition:transform .25s,box-shadow .25s;}
+  .mb-btn.gold{background:var(--gold);color:#2a211b;box-shadow:0 16px 30px -14px rgba(227,183,101,.6);}
+  .mb-btn.gold:hover{transform:translateY(-3px);box-shadow:0 22px 38px -14px rgba(227,183,101,.7);}
+  .mb-btn.ghost{border:1.5px solid rgba(227,183,101,.5);color:var(--gold);}
+  .mb-btn.ghost:hover{transform:translateY(-3px);border-color:var(--gold);}
+
+  @media(prefers-reduced-motion:reduce){.mb-halo{animation:none;}.mb-slink::after{display:none;}}
+</style>
+
+<div class="mb">
+
+  <!-- seated meditation figure, reused as a symbol -->
+  <svg style="display:none" id="mb-seated"><symbol id="seated" viewBox="0 0 200 230">
+    <g fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+      <!-- folded legs / lotus base -->
+      <path d="M28 188 Q100 150 172 188 Q176 200 160 205 Q100 220 40 205 Q24 200 28 188 Z"/>
+      <!-- hands resting in lap -->
+      <path d="M72 178 Q100 162 128 178 Q100 190 72 178 Z"/>
+      <!-- torso -->
+      <path d="M80 178 Q70 120 90 82 M120 178 Q130 120 110 82"/>
+      <!-- arms draping to knees -->
+      <path d="M88 92 Q46 112 40 182"/>
+      <path d="M112 92 Q154 112 160 182"/>
+      <!-- shoulders -->
+      <path d="M88 90 Q100 80 112 90"/>
+      <!-- neck -->
+      <path d="M92 80 L92 70 M108 80 L108 70"/>
+      <!-- head -->
+      <circle cx="100" cy="48" r="24"/>
+      <!-- uṣṇīṣa dome -->
+      <path d="M86 30 Q100 8 114 30"/>
+    </g>
+  </symbol></svg>
+
+  <!-- HERO -->
+  <section class="mb-hero">
+    <svg class="mb-halo" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+      <circle cx="50" cy="50" r="46"/><circle cx="50" cy="50" r="12"/>
+      <g stroke-width="2"><line x1="50" y1="4" x2="50" y2="96"/><line x1="4" y1="50" x2="96" y2="50"/>
+      <line x1="17" y1="17" x2="83" y2="83"/><line x1="83" y1="17" x2="17" y2="83"/>
+      <line x1="29" y1="9" x2="71" y2="91"/><line x1="91" y1="29" x2="9" y2="71"/>
+      <line x1="9" y1="29" x2="91" y2="71"/><line x1="71" y1="9" x2="29" y2="91"/></g>
+    </svg>
+    <svg class="mb-hero-figure" viewBox="0 0 200 230" aria-hidden="true"><use href="#seated"/></svg>
+    <div class="mb-hero-in">
+      <nav class="mb-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a><span class="sep">›</span>Begin to Meditate</nav>
+      <div class="mb-eyebrow" data-rv>Begin to Meditate · 靜坐入門</div>
+      <h1 data-rv style="transition-delay:.08s">Learning to sit, <em>in plain English.</em></h1>
+      <div class="mb-rule" data-rv style="transition-delay:.16s"></div>
+      <p data-rv style="transition-delay:.2s">You don't need incense, a robe, or a quiet mind to start. You need a place to sit, a few minutes, and a willingness to begin again each time you drift. This is the whole of it — the posture, the breath, and why it's worth doing — taught the way the Buddha taught it.</p>
+      <div class="mb-trad" data-rv style="transition-delay:.26s">
+        <span>For <b>complete beginners</b></span>
+        <span>Posture</span>
+        <span>The breath</span>
+        <span>Rooted in the suttas</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHY SIT -->
+  <section class="mb-sec cream">
+    <div class="mb-wrap">
+      <div class="mb-head" data-rv>
+        <div class="lbl">Why sit at all</div>
+        <h2>What meditation is for.</h2>
+        <p>Meditation is not about forcing the mind blank or escaping your life. It is training in attention — learning to see what's happening, clearly and without panic. Everything else grows from that.</p>
+      </div>
+      <div class="mb-benefits">
+        <div class="mb-ben" data-rv>
+          <svg class="ic" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 24c0-8 6-14 14-14s14 6 14 14"/><path d="M20 10V4M9 24H4M36 24h-5M11 15 8 12M29 15l3-3"/></svg>
+          <h3>A body that settles</h3>
+          <p>Sitting still and watching the breath calms the nervous system — the heart slows, the shoulders drop, the constant bracing eases off.</p>
+        </div>
+        <div class="mb-ben" data-rv style="transition-delay:.06s">
+          <svg class="ic" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="20" cy="20" r="15"/><path d="M20 12v8l6 4"/></svg>
+          <h3>A mind you can steady</h3>
+          <p>Attention is a muscle. Each time you notice you've wandered and come back, you strengthen it — until you can hold your focus where you choose.</p>
+        </div>
+        <div class="mb-ben" data-rv style="transition-delay:.12s">
+          <svg class="ic" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 34C11 28 5 22 5 14a8 8 0 0 1 15-4 8 8 0 0 1 15 4c0 8-6 14-15 20Z"/></svg>
+          <h3>Room around your feelings</h3>
+          <p>You learn to feel anger, worry, or grief without being swept away by them — meeting emotion with a little space instead of a reflex.</p>
+        </div>
+        <div class="mb-ben" data-rv style="transition-delay:.18s">
+          <svg class="ic" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="20" cy="20" r="6"/><path d="M20 4v4M20 32v4M4 20h4M32 20h4M9 9l3 3M28 28l3 3M31 9l-3 3M12 28l-3 3"/></svg>
+          <h3>Clearer seeing</h3>
+          <p>A quiet, steady mind is the ground the Buddha's whole path rests on — the calm from which real insight into ourselves becomes possible.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BEFORE YOU BEGIN -->
+  <section class="mb-sec white">
+    <div class="mb-wrap">
+      <div class="mb-head" data-rv>
+        <div class="lbl">Before you begin</div>
+        <h2>The practical basics.</h2>
+        <p>Don't overthink the setup. These four things are all you need to decide — and none of them has to be perfect.</p>
+      </div>
+      <div class="mb-strip">
+        <div class="mb-fact" data-rv><div class="k">How long</div><div class="v">5–10 min<small>Start small. Daily beats long.</small></div></div>
+        <div class="mb-fact" data-rv style="transition-delay:.06s"><div class="k">When</div><div class="v">Same time<small>Morning is traditional — pick what sticks.</small></div></div>
+        <div class="mb-fact" data-rv style="transition-delay:.12s"><div class="k">Where</div><div class="v">Anywhere calm-ish<small>You don't need silence, just fewer pulls.</small></div></div>
+        <div class="mb-fact" data-rv style="transition-delay:.18s"><div class="k">What you need</div><div class="v">A seat &amp; a timer<small>A cushion or a plain chair. That's it.</small></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- POSTURE -->
+  <section class="mb-sec cream">
+    <div class="mb-wrap">
+      <div class="mb-head left" data-rv>
+        <div class="lbl">The posture · 坐姿</div>
+        <h2>Seven points, from the ground up.</h2>
+        <p>A good posture is alert and relaxed at once — awake, but not tense. Set it once at the start, then let it hold you. Work up from the base.</p>
+      </div>
+      <div class="mb-posture">
+        <div class="mb-figwrap" data-rv>
+          <svg viewBox="0 0 200 230" aria-hidden="true"><use href="#seated"/></svg>
+          <div class="cap">Steady as a mountain</div>
+        </div>
+        <ol class="mb-points">
+          <li data-rv><h4>Seat <span class="zh">· 坐墊</span></h4><p>Sit on a cushion with your hips a little higher than your knees, so your back can stay upright on its own. On a chair, sit forward, both feet flat on the floor.</p></li>
+          <li data-rv style="transition-delay:.04s"><h4>Legs <span class="zh">· 盤腿</span></h4><p>Cross your legs loosely — either ankle in front of the other is fine. No lotus required, and no strain. On a chair, simply keep your feet grounded and parallel.</p></li>
+          <li data-rv style="transition-delay:.08s"><h4>Back <span class="zh">· 脊背</span></h4><p>Straight but not stiff. Picture the spine as a stack of coins, rising naturally. Keep the small curve at the lower back — don't tuck or slump.</p></li>
+          <li data-rv style="transition-delay:.12s"><h4>Hands <span class="zh">· 手</span></h4><p>Rest them in your lap, right hand cupped in the left, thumb-tips lightly touching — or simply lay both palms down on your knees. Let the arms hang loose.</p></li>
+          <li data-rv style="transition-delay:.16s"><h4>Shoulders &amp; chest <span class="zh">· 肩胸</span></h4><p>Roll the shoulders gently back and down to open the chest, then let them soften. Relaxed and broad, never hunched toward the screen you just left.</p></li>
+          <li data-rv style="transition-delay:.2s"><h4>Head &amp; chin <span class="zh">· 頭頸</span></h4><p>Lengthen the back of the neck and tuck the chin a hair, as if the crown were lifted by a thread. The head floats level, balanced on top of the spine.</p></li>
+          <li data-rv style="transition-delay:.24s"><h4>Eyes, jaw &amp; breath <span class="zh">· 眼息</span></h4><p>Lower the eyes softly — half-closed, gaze resting on the floor a few feet ahead, or fully closed if that's steadier. Unclench the jaw, rest the tongue behind the upper teeth, and breathe through the nose.</p></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- BREATH -->
+  <section class="mb-sec white">
+    <div class="mb-narrow">
+      <div class="mb-head" data-rv>
+        <div class="lbl">The breath · 觀息</div>
+        <h2>Now, just watch the breath.</h2>
+        <p>This is the oldest meditation the Buddha taught — <em>ānāpānasati</em>, mindfulness of breathing. The instructions are almost embarrassingly simple. The simplicity is the point.</p>
+      </div>
+    </div>
+    <div class="mb-wrap">
+      <div class="mb-breath">
+        <div class="mb-bstep" data-rv><div class="n">First</div><h4>Don't control it</h4><p>Breathe naturally through the nose. You're not doing a breathing exercise — you're only <em>noticing</em> a breath that's already happening on its own. Long or short, deep or shallow: leave it be.</p></div>
+        <div class="mb-bstep" data-rv style="transition-delay:.06s"><div class="n">Then</div><h4>Pick one spot</h4><p>Choose a single place to feel it — the cool touch at the tip of the nose, or the rise and fall of the belly. Keep your attention resting there, at that one spot, for the whole sit.</p></div>
+        <div class="mb-bstep" data-rv style="transition-delay:.12s"><div class="n">Optionally</div><h4>Count to ten</h4><p>To steady a busy mind, count each out-breath: one… two… up to ten, then start again at one. Lose count? Just begin again at one. Losing count is not failing — it's the practice showing you where the mind went.</p></div>
+        <div class="mb-bstep" data-rv style="transition-delay:.18s"><div class="n">Always</div><h4>Come back, gently</h4><p>Your mind <em>will</em> wander — into plans, memories, the shopping list. The moment you notice, that's a moment of waking up. Without scolding yourself, set the thought down and return to the breath.</p></div>
+      </div>
+      <p class="mb-pull" data-rv>The wandering is not the problem. <b>Noticing you wandered, and coming back — that is the meditation.</b></p>
+    </div>
+  </section>
+
+  <!-- FIRST SESSION -->
+  <section class="mb-sec cream">
+    <div class="mb-narrow">
+      <div class="mb-head" data-rv>
+        <div class="lbl">Your first sit</div>
+        <h2>A ten-minute session.</h2>
+        <p>Set a timer for ten minutes and move through these six stages. After a week it will feel like second nature — you'll drop the map and simply sit.</p>
+      </div>
+      <ol class="mb-flow">
+        <li data-rv><h4>Settle in <span class="t">1 min</span></h4><p>Take your posture, point by point. Then three slow, deliberate breaths to arrive — a little longer on each out-breath.</p></li>
+        <li data-rv style="transition-delay:.05s"><h4>Feel the body <span class="t">1 min</span></h4><p>Sense the weight of you on the seat, the points of contact, the hands in the lap. Let the body grow heavy and still.</p></li>
+        <li data-rv style="transition-delay:.1s"><h4>Find the breath <span class="t">30 sec</span></h4><p>Bring your attention to your one chosen spot. Catch the very next in-breath, and stay with it.</p></li>
+        <li data-rv style="transition-delay:.15s"><h4>Follow &amp; count <span class="t">6 min</span></h4><p>Watch each breath in and out, counting to ten and beginning again. Each time the mind slips off, walk it back — as many times as it takes.</p></li>
+        <li data-rv style="transition-delay:.2s"><h4>Rest open <span class="t">1 min</span></h4><p>Drop the counting. Just sit, aware, letting breath and body simply be — nothing to do now but be present.</p></li>
+        <li data-rv style="transition-delay:.25s"><h4>Close with good will <span class="t">30 sec</span></h4><p>Wish the calm you've found for someone else too. Then open the eyes slowly, and carry a little of the stillness into the rest of your day.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- COMMON DIFFICULTIES -->
+  <section class="mb-sec white">
+    <div class="mb-narrow">
+      <div class="mb-head" data-rv>
+        <div class="lbl">When it gets hard</div>
+        <h2>Common difficulties.</h2>
+        <p>Everyone meets these. They aren't signs you're doing it wrong — they're the very material of the practice.</p>
+      </div>
+      <div class="mb-faq">
+        <details class="mb-q" data-rv><summary>"My mind won't stop." <span class="plus"></span></summary><div class="a"><p>It won't — and it doesn't have to. You're not trying to empty the mind or stop thoughts. You're training one small move: noticing you've drifted, and returning. A busy mind simply gives you more chances to practise that move.</p></div></details>
+        <details class="mb-q" data-rv><summary>I keep getting sleepy. <span class="plus"></span></summary><div class="a"><p>Drowsiness is common, especially early morning or after meals. Sit up a little taller, lift the gaze and open the eyes wider, take a few brighter breaths — or simply meditate earlier and shorten the sit. Better ten alert minutes than twenty drowsy ones.</p></div></details>
+        <details class="mb-q" data-rv><summary>I'm too restless to sit still. <span class="plus"></span></summary><div class="a"><p>Don't fight the restlessness — turn toward it. Name it ("restlessness"), feel where it lives in the body, let it be there. Then come back to the breath. If it's fierce, try slow walking meditation instead: the same attention, applied to each step.</p></div></details>
+        <details class="mb-q" data-rv><summary>My legs / back hurt. <span class="plus"></span></summary><div class="a"><p>Meditation is not an endurance test. Adjust your position, add a cushion, or move to a chair — a chair is a completely legitimate way to sit. Sharp pain is a signal to change, not to push through.</p></div></details>
+        <details class="mb-q" data-rv><summary>How do I know I'm doing it right? <span class="plus"></span></summary><div class="a"><p>Here's the whole test: if at some point you realised your mind had wandered and you brought it back to the breath — even once — you did it exactly right. That returning <em>is</em> the practice succeeding, not a sign it failed.</p></div></details>
+      </div>
+    </div>
+  </section>
+
+  <!-- ROOTED IN THE SUTTAS -->
+  <section class="mb-sec cream">
+    <div class="mb-wrap">
+      <div class="mb-head" data-rv>
+        <div class="lbl">Where this comes from</div>
+        <h2>Straight from the Buddha's own words.</h2>
+        <p>None of this was invented here. The posture and the breath are laid out in the discourses themselves — you can read the source instructions in plain English.</p>
+      </div>
+      <div class="mb-source">
+        <a class="mb-slink jade" href="{{ '/discourses/majjhima-nikaya/mn-010.html' | relative_url }}" data-rv>
+          <div class="trad">Majjhima Nikāya · MN 10</div>
+          <h3>Mindfulness Meditation</h3>
+          <p>The <em>Satipaṭṭhāna Sutta</em> — the Buddha's most complete set of meditation instructions, on watching the body, feelings, and mind. The root text behind everything on this page.</p>
+          <span class="go">Read the discourse <span class="arw">→</span></span>
+        </a>
+        <a class="mb-slink night" href="{{ '/discourses/' | relative_url }}" data-rv style="transition-delay:.08s">
+          <div class="trad">Theravāda · Pāli Canon</div>
+          <h3>The Discourses</h3>
+          <p>When you're ready for more, the whole collection of the Buddha's dialogues is here — each with a reading guide for English speakers, the full text, and a quiz.</p>
+          <span class="go">Browse the collection <span class="arw">→</span></span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- CLOSING CTA -->
+  <section class="mb-cta">
+    <h2 data-rv>Sit once today. That's the whole practice.</h2>
+    <p data-rv style="transition-delay:.06s">Not tomorrow, not for twenty minutes — just once, for a few breaths, now. Then again tomorrow. That is how every meditator who ever lived began.</p>
+    <div class="btns" data-rv style="transition-delay:.12s">
+      <a class="mb-btn gold" href="{{ '/life-questions/' | relative_url }}">Bring it to a problem you're facing <span aria-hidden="true">→</span></a>
+      <a class="mb-btn ghost" href="{{ '/dharma/' | relative_url }}">Back to the Dharma</a>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var els=document.querySelectorAll('.mb [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){var t=e.target;t.classList.add('in');io.unobserve(t);setTimeout(function(){t.style.transitionDelay='0s';},900);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
