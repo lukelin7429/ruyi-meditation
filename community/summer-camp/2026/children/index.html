@@ -1,0 +1,383 @@
+---
+layout: default
+title: Summer Camp 2026 — Children's Buddhist Day Camp
+permalink: /community/summer-camp/2026/children/
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  /* ============ 2026 CHILDREN'S CAMP — warm palette, mirrors youth layout ============ */
+  .js [data-rv]{opacity:0;transform:translateY(22px);
+    transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);transition-delay:var(--rvd,0s);}
+  .js [data-rv].in{opacity:1;transform:none;}
+  .js .reveal{opacity:0;transform:translateY(22px);
+    transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .reveal.in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js [data-rv],.js .reveal{opacity:1!important;transform:none!important;}}
+
+  /* hero — warm sunrise coral with amber accent */
+  .page-header{position:relative;overflow:hidden;color:#fff;border-bottom:0;
+    background:radial-gradient(130% 82% at 76% 20%,rgba(255,208,120,.40),transparent 58%),
+               linear-gradient(155deg,#f2802a 0%,#e8590c 42%,#c2410c 100%);}
+  .page-header::before{content:"";position:absolute;inset:0;
+    background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 260'%3E%3Cpath d='M0 260 L160 90 L280 170 L400 60 L520 140 L640 80 L800 130 L800 260Z' fill='rgba(255,255,255,.05)'/%3E%3Cpath d='M0 260 L100 150 L220 205 L340 110 L460 170 L580 100 L700 160 L800 120 L800 260Z' fill='rgba(255,255,255,.06)'/%3E%3C/svg%3E") no-repeat bottom center/cover;pointer-events:none;}
+  .page-header-inner{position:relative;}
+  .page-header .eyebrow{color:#fff0d6;}
+  .page-header h1{color:#fff;}
+  .page-header h1 em{color:#ffe3a8;}
+  .page-header .lede{color:#fff2e2;}
+  .page-header .crumb{color:#ffe0c4;}
+  .page-header .crumb a{color:#ffe3a8;}
+
+  /* badge row */
+  .c26-badges{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;}
+  .c26-badge{display:inline-flex;align-items:center;gap:7px;padding:6px 14px;
+    border-radius:99px;font-size:13px;font-weight:600;letter-spacing:.02em;
+    background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.28);color:#fff;}
+  .c26-badge svg{width:15px;height:15px;flex-shrink:0;}
+
+  /* ---- INTRO ---- */
+  .c26-intro{padding:72px 0 56px;background:#fff;}
+  .c26-intro-in{max-width:780px;margin:0 auto;padding:0 26px;}
+  .c26-intro h2{font-family:'Playfair Display',serif;font-size:clamp(28px,3.8vw,40px);color:#3a1e0e;margin:0 0 22px;}
+  .c26-intro p{font-size:17px;line-height:1.75;color:#4a3a2e;margin:0 0 18px;}
+  .c26-theme-pills{display:flex;flex-wrap:wrap;gap:10px;margin-top:28px;}
+  .c26-pill{padding:8px 18px;border-radius:99px;font-size:14px;font-weight:600;background:#fff2e8;border:1.5px solid #f6c9a0;color:#c2410c;}
+  .c26-pill span{color:#a88;font-weight:400;margin-left:4px;}
+
+  /* ---- SCHEDULE ---- */
+  .c26-sched{padding:0 0 80px;background:#fff;}
+  .c26-sched-in{max-width:780px;margin:0 auto;padding:0 20px;}
+  .c26-sched-head{text-align:center;max-width:640px;margin:0 auto 52px;}
+  .c26-sched-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:#e8590c;}
+  .c26-sched-head h2{font-family:'Playfair Display',serif;font-size:clamp(28px,4vw,42px);color:#3a1e0e;margin:12px 0 0;}
+
+  /* day block */
+  .c26-day-block{margin-bottom:48px;border-radius:14px;overflow:hidden;border:1.5px solid #f3ddc7;}
+  .c26-day-hd{padding:20px 24px 16px;color:#fff;display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;}
+  .c26-day-block.d1 .c26-day-hd{background:linear-gradient(145deg,#e8590c,#c2410c);}
+  .c26-day-block.d2 .c26-day-hd{background:linear-gradient(145deg,#2f9e44,#1c7a30);}
+  .c26-day-block.d3 .c26-day-hd{background:linear-gradient(145deg,#d6336c,#a61e4d);}
+  .c26-day-block.d4 .c26-day-hd{background:linear-gradient(145deg,#7048e8,#4a2fb0);}
+  .c26-day-block.d5 .c26-day-hd{background:linear-gradient(145deg,#c9912f,#996f12);}
+  .c26-day-num{font-size:11px;letter-spacing:.18em;text-transform:uppercase;font-weight:700;opacity:.8;}
+  .c26-day-date{font-size:14px;font-weight:600;}
+  .c26-day-theme{font-family:'Playfair Display',serif;font-size:22px;line-height:1.15;margin-left:auto;}
+  .c26-day-theme-zh{font-size:12px;opacity:.78;margin-left:6px;font-style:italic;}
+
+  /* rows */
+  .c26-rows{background:#fff;}
+  .c26-row{display:flex;gap:0;border-bottom:1px solid #f5ebe0;}
+  .c26-row:last-child{border-bottom:0;}
+  .c26-row-time{width:108px;flex-shrink:0;padding:13px 14px;font-size:12px;font-weight:600;color:#b07a4a;background:#fdf8f2;border-right:1px solid #f2e2d2;line-height:1.4;}
+  .c26-row-content{flex:1;padding:12px 18px;font-size:14.5px;color:#3a2a1e;line-height:1.55;}
+  .c26-row-content strong{display:block;margin-top:1px;}
+  .c26-row.section-header .c26-row-time{background:#fdeede;color:#c2410c;font-size:11px;letter-spacing:.1em;text-transform:uppercase;display:flex;align-items:center;}
+  .c26-row.section-header .c26-row-content{background:#fdeede;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#c2410c;font-weight:700;display:flex;align-items:center;padding-left:0;}
+  .c26-row.shared .c26-row-content{color:#8a7a6a;font-style:italic;}
+  .c26-star{color:#e8590c;font-weight:700;margin-right:3px;}
+  .c26-inst{font-size:12px;color:#c08a5a;display:block;margin-top:2px;}
+  @media(max-width:500px){
+    .c26-row-time{width:80px;padding:11px 10px;font-size:11px;}
+    .c26-row-content{padding:11px 13px;font-size:13.5px;}
+    .c26-day-theme{font-size:18px;}
+  }
+
+  /* ---- INSTRUCTORS ---- */
+  .c26-team{padding:60px 0 70px;background:#fdf7f1;}
+  .c26-team-in{max-width:960px;margin:0 auto;padding:0 26px;}
+  .c26-team h2{font-family:'Playfair Display',serif;font-size:clamp(26px,3.6vw,38px);color:#3a1e0e;text-align:center;margin:0 0 8px;}
+  .c26-team .sub{text-align:center;font-size:16px;color:#a5745a;margin-bottom:40px;}
+  .c26-names{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;}
+  .c26-name-chip{padding:10px 20px;border-radius:99px;font-size:14.5px;font-weight:600;
+    background:#fff;border:1.5px solid #f6c9a0;color:#c2410c;}
+  .c26-name-chip small{font-weight:400;color:#b08a6a;}
+
+  /* ---- VIDEOS (coming soon) ---- */
+  .c26-vids{padding:72px 0 90px;background:#fff;}
+  .c26-vids-in{max-width:1040px;margin:0 auto;padding:0 26px;}
+  .c26-vids-head{text-align:center;margin-bottom:48px;}
+  .c26-vids-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:#e8590c;}
+  .c26-vids-head h2{font-family:'Playfair Display',serif;font-size:clamp(26px,3.8vw,40px);color:#3a1e0e;margin:12px 0 10px;}
+  .c26-vids-head p{font-size:17px;color:#a5745a;line-height:1.6;max-width:560px;margin:0 auto;}
+  .c26-cs-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+  @media(max-width:700px){.c26-cs-grid{grid-template-columns:repeat(2,1fr);}}
+  .c26-cs-slot{aspect-ratio:16/9;border-radius:10px;background:#fff5ec;border:1.5px dashed #f6c9a0;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;color:#c08a5a;}
+  .c26-cs-slot svg{width:28px;height:28px;opacity:.5;}
+  .c26-cs-slot span{font-size:12.5px;font-weight:600;opacity:.7;}
+</style>
+
+<!-- HERO -->
+<section class="page-header">
+  <div class="page-header-inner">
+    <nav class="crumb" aria-label="Breadcrumb">
+      <a href="{{ '/community/' | relative_url }}">Community</a>
+      <span>›</span>
+      <a href="{{ '/community/summer-camp/' | relative_url }}">Summer Camp</a>
+      <span>›</span>
+      <a href="{{ '/community/summer-camp/2026/' | relative_url }}">2026</a>
+      <span>›</span>Children
+    </nav>
+    <span class="eyebrow" data-rv>Community · Summer Camp 2026 · Children</span>
+    <h1 data-rv style="--rvd:.08s">The Little<br><em>Bodhisattvas.</em></h1>
+    <p class="lede" data-rv style="--rvd:.18s">Five days on Fengguidou Mountain for younger children — stories and songs, painting and cooking, nature and kindness. The Buddha's teachings, told the way a child can hold them. July 2026.</p>
+    <div class="c26-badges" data-rv style="--rvd:.28s">
+      <span class="c26-badge">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+        Five days · July 2026
+      </span>
+      <span class="c26-badge">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+        Fengguidou Mountain
+      </span>
+      <span class="c26-badge">
+        <svg viewBox="0 0 20 20" fill="currentColor"><path d="M9 6a3 3 0 11-6 0 3 3 0 016 0zM17 6a3 3 0 11-6 0 3 3 0 016 0zM12.93 17c.046-.327.07-.66.07-1a6.97 6.97 0 00-1.5-4.33A5 5 0 0119 16v1h-6.07zM6 11a5 5 0 015 5v1H1v-1a5 5 0 015-5z"/></svg>
+        Ages 6–12 · Free
+      </span>
+    </div>
+  </div>
+</section>
+
+<!-- INTRO -->
+<section class="c26-intro">
+  <div class="c26-intro-in">
+    <h2 data-rv>Five days. Five small lessons.</h2>
+    <p data-rv style="--rvd:.08s">The children's camp keeps the same heart as the youth camp — kindness, gratitude, honest character — but moves at a child's pace. Mornings are gentle: a short chant, some stretching, breakfast together. The days fill up with stories about the Buddha and his disciples, painting and stone-craft, singing, a dessert to make with their own hands, and plenty of time outdoors.</p>
+    <p data-rv style="--rvd:.14s">Each day carries one simple idea. Together the five days form a small arc: from meeting the Three Jewels, to thanking the natural world, to sharing with kindness, to building good habits, and finally to bringing it all home to family.</p>
+    <div class="c26-theme-pills" data-rv style="--rvd:.2s">
+      <span class="c26-pill">Day 1 <span>Three Jewels</span></span>
+      <span class="c26-pill">Day 2 <span>Gratitude</span></span>
+      <span class="c26-pill">Day 3 <span>Compassion</span></span>
+      <span class="c26-pill">Day 4 <span>Good Habits</span></span>
+      <span class="c26-pill">Day 5 <span>Family Day</span></span>
+    </div>
+  </div>
+</section>
+
+<!-- SCHEDULE -->
+<section class="c26-sched">
+  <div class="c26-sched-in">
+    <div class="c26-sched-head" data-rv>
+      <span class="lbl">Full Program</span>
+      <h2>Daily Schedule</h2>
+    </div>
+
+    <p style="font-size:13px;color:#c08a5a;text-align:center;margin:-28px 0 36px;">
+      <span class="c26-star">★</span> = signature camp experience &nbsp;·&nbsp; Instructor names in pinyin romanization
+    </p>
+
+    <!-- DAY 1 -->
+    <div class="c26-day-block d1 reveal">
+      <div class="c26-day-hd">
+        <span class="c26-day-num">Day 1</span>
+        <span class="c26-day-date">Arrival Day</span>
+        <span class="c26-day-theme">Meeting the Three Jewels <span class="c26-day-theme-zh">認識三寶</span></span>
+      </div>
+      <div class="c26-rows">
+        <div class="c26-row shared"><div class="c26-row-time">by 10:00 am</div><div class="c26-row-content">Arrive, check in &amp; settle in</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Morning</div></div>
+        <div class="c26-row"><div class="c26-row-time">10:20 – 11:10</div><div class="c26-row-content">Opening ceremony</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Lunch</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">11:30 – 12:20</div><div class="c26-row-content">Lunch</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">12:20 – 13:20</div><div class="c26-row-content">Midday rest</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Afternoon</div></div>
+        <div class="c26-row"><div class="c26-row-time">13:30 – 14:20</div><div class="c26-row-content">Icebreakers &amp; team games <span class="c26-inst">Team Leaders</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">14:40 – 15:30</div><div class="c26-row-content"><span class="c26-star">★</span> <strong>Meeting the Three Jewels</strong> — a little bodhisattva's very first class <span class="c26-inst">Jiāwéi</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">15:50 – 16:40</div><div class="c26-row-content">Fun English — songs &amp; games <span class="c26-inst">Dom Jones</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Evening</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">17:00 – 17:30</div><div class="c26-row-content">Evening chanting (short)</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">17:40 – 18:20</div><div class="c26-row-content">Dinner</div></div>
+        <div class="c26-row"><div class="c26-row-time">18:40 – 20:00</div><div class="c26-row-content">Drama workshop — rehearse in teams <span class="c26-inst">Team Leaders</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Night</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">20:00 – 20:40</div><div class="c26-row-content">Wash up &amp; team sharing</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">20:40</div><div class="c26-row-content">Lights out</div></div>
+      </div>
+    </div>
+
+    <!-- DAY 2 -->
+    <div class="c26-day-block d2 reveal">
+      <div class="c26-day-hd">
+        <span class="c26-day-num">Day 2</span>
+        <span class="c26-day-date">Second Day</span>
+        <span class="c26-day-theme">Gifts of Nature <span class="c26-day-theme-zh">感恩惜福</span></span>
+      </div>
+      <div class="c26-rows">
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Morning Routine</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">6:00 – 6:30</div><div class="c26-row-content">Wake up &amp; wash up</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">6:30 – 7:00</div><div class="c26-row-content">Morning chanting (children's, short)</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">7:00 – 7:30</div><div class="c26-row-content">Morning stretches &amp; movement</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">7:30 – 8:00</div><div class="c26-row-content">Breakfast</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Morning Session</div></div>
+        <div class="c26-row"><div class="c26-row-time">8:00 – 9:00</div><div class="c26-row-content"><span class="c26-star">★</span> <strong>Nature Exploration</strong> — a walk to look closely at living things <span class="c26-inst">Zhìzhōng</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">9:10 – 10:00</div><div class="c26-row-content">Creative Painting <span class="c26-inst">Xiùzhū</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">10:20 – 11:10</div><div class="c26-row-content">Gratitude Stories — counting our blessings <span class="c26-inst">Cuìlíng</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Lunch</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">11:30 – 12:20</div><div class="c26-row-content">Lunch</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">12:20 – 13:20</div><div class="c26-row-content">Midday rest</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Afternoon</div></div>
+        <div class="c26-row"><div class="c26-row-time">13:30 – 14:20</div><div class="c26-row-content">Stone Painting <span class="c26-inst">Xiǎojūn</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">14:40 – 15:30</div><div class="c26-row-content">Sing &amp; Play <span class="c26-inst">Zhǐruì</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">15:50 – 16:40</div><div class="c26-row-content">The Power of the Heart-Mind <span class="c26-inst">Qiānruì</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Evening</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">17:00 – 17:30</div><div class="c26-row-content">Evening chanting (short)</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">17:40 – 18:20</div><div class="c26-row-content">Dinner</div></div>
+        <div class="c26-row"><div class="c26-row-time">18:40 – 20:00</div><div class="c26-row-content">Film Screening — a gentle animated story <span class="c26-inst">Jùnxiáng</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Night</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">20:00 – 20:40</div><div class="c26-row-content">Wash up &amp; team sharing</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">20:40</div><div class="c26-row-content">Lights out</div></div>
+      </div>
+    </div>
+
+    <!-- DAY 3 -->
+    <div class="c26-day-block d3 reveal">
+      <div class="c26-day-hd">
+        <span class="c26-day-num">Day 3</span>
+        <span class="c26-day-date">Third Day</span>
+        <span class="c26-day-theme">Compassion &amp; Sharing <span class="c26-day-theme-zh">慈悲與分享</span></span>
+      </div>
+      <div class="c26-rows">
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Morning Routine</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">6:00 – 6:30</div><div class="c26-row-content">Wake up &amp; wash up</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">6:30 – 7:00</div><div class="c26-row-content">Morning chanting (children's, short)</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">7:00 – 7:30</div><div class="c26-row-content">Morning stretches &amp; movement</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">7:30 – 8:00</div><div class="c26-row-content">Breakfast</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Morning Session</div></div>
+        <div class="c26-row"><div class="c26-row-time">8:00 – 8:50</div><div class="c26-row-content"><strong>Story of the Buddha</strong> &amp; the Ten Great Disciples <span class="c26-inst">Àiyīng</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">9:10 – 10:00</div><div class="c26-row-content">3-D Illusion Drawing <span class="c26-inst">Xiǎojūn</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">10:20 – 11:10</div><div class="c26-row-content">Being Brave: Saying No <span class="c26-inst">Lǚxián</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Lunch</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">11:30 – 12:20</div><div class="c26-row-content">Lunch</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">12:20 – 13:20</div><div class="c26-row-content">Midday rest</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Afternoon</div></div>
+        <div class="c26-row"><div class="c26-row-time">13:30 – 14:20</div><div class="c26-row-content"><span class="c26-star">★</span> <strong>Dessert DIY</strong> — Hawaiian-nut jujube cake <span class="c26-inst">Lìlì</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">14:40 – 15:30</div><div class="c26-row-content">Healthy Movement — stretch &amp; tap <span class="c26-inst">Yùnī</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">15:50 – 16:40</div><div class="c26-row-content">Compassion Has No Enemies — kindness stories <span class="c26-inst">Jiāwéi</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Evening</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">17:00 – 17:30</div><div class="c26-row-content">Evening chanting (short)</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">17:40 – 18:20</div><div class="c26-row-content">Dinner</div></div>
+        <div class="c26-row"><div class="c26-row-time">18:40 – 20:00</div><div class="c26-row-content"><span class="c26-star">★</span> <strong>Drama Performance</strong> — teams take the stage <span class="c26-inst">Team Leaders</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Night</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">20:00 – 20:40</div><div class="c26-row-content">Wash up &amp; team sharing</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">20:40</div><div class="c26-row-content">Lights out</div></div>
+      </div>
+    </div>
+
+    <!-- DAY 4 -->
+    <div class="c26-day-block d4 reveal">
+      <div class="c26-day-hd">
+        <span class="c26-day-num">Day 4</span>
+        <span class="c26-day-date">Fourth Day</span>
+        <span class="c26-day-theme">Good Habits <span class="c26-day-theme-zh">生活好習慣・五戒</span></span>
+      </div>
+      <div class="c26-rows">
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Morning Routine</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">6:00 – 6:30</div><div class="c26-row-content">Wake up &amp; wash up</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">6:30 – 7:00</div><div class="c26-row-content">Morning chanting (children's, short)</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">7:00 – 7:30</div><div class="c26-row-content">Morning stretches &amp; movement</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">7:30 – 8:00</div><div class="c26-row-content">Breakfast</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Morning Session</div></div>
+        <div class="c26-row"><div class="c26-row-time">8:00 – 8:50</div><div class="c26-row-content"><strong>Dizigui &amp; Everyday Good Habits</strong> — the little rules that make a kind day <span class="c26-inst">Zhāochóng</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">9:10 – 10:00</div><div class="c26-row-content">Cause &amp; Effect — simple stories <span class="c26-inst">Wěizhé</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">10:20 – 11:10</div><div class="c26-row-content">Character &amp; Life (children's edition) <span class="c26-inst">Cuìlíng</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Lunch</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">11:30 – 12:20</div><div class="c26-row-content">Lunch</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">12:20 – 13:20</div><div class="c26-row-content">Midday rest</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Afternoon</div></div>
+        <div class="c26-row"><div class="c26-row-time">13:30 – 14:20</div><div class="c26-row-content"><span class="c26-star">★</span> <strong>Adventure Challenge</strong> — a team obstacle course <span class="c26-inst">Team Leaders</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">14:40 – 15:30</div><div class="c26-row-content">Kindness to Others <span class="c26-inst">Jiāwéi</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">15:50 – 16:40</div><div class="c26-row-content">Talent-show rehearsal <span class="c26-inst">Team Leaders</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Evening</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">17:00 – 17:30</div><div class="c26-row-content">Evening chanting (short)</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">17:40 – 18:20</div><div class="c26-row-content">Dinner</div></div>
+        <div class="c26-row"><div class="c26-row-time">18:40 – 20:00</div><div class="c26-row-content"><span class="c26-star">★</span> <strong>Closing-Night Gala</strong> — talent show &amp; celebration <span class="c26-inst">Everyone</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Night</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">20:00 – 20:40</div><div class="c26-row-content">Wash up &amp; pack luggage</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">20:40</div><div class="c26-row-content">Lights out</div></div>
+      </div>
+    </div>
+
+    <!-- DAY 5 -->
+    <div class="c26-day-block d5 reveal">
+      <div class="c26-day-hd">
+        <span class="c26-day-num">Day 5</span>
+        <span class="c26-day-date">Family Day</span>
+        <span class="c26-day-theme">Transmission &amp; Closing <span class="c26-day-theme-zh">傳承・親子同心</span></span>
+      </div>
+      <div class="c26-rows">
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Morning Routine</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">6:00 – 6:30</div><div class="c26-row-content">Wake up &amp; wash up</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">6:30 – 7:00</div><div class="c26-row-content">Morning chanting (children's, short)</div></div>
+        <div class="c26-row shared"><div class="c26-row-time">7:00 – 8:00</div><div class="c26-row-content">Morning stretches &amp; breakfast</div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Morning Session</div></div>
+        <div class="c26-row"><div class="c26-row-time">8:00 – 8:50</div><div class="c26-row-content"><span class="c26-star">★</span> <strong>Sweet Blessings</strong> — make a gratitude card for someone you love <span class="c26-inst">Lìlì</span></div></div>
+        <div class="c26-row"><div class="c26-row-time">9:10 – 9:50</div><div class="c26-row-content"><span class="c26-star">★</span> <strong>Heart-to-Heart with Family</strong> — parents arrive to join <span class="c26-inst">Everyone · Team Leaders</span></div></div>
+        <div class="c26-row section-header"><div class="c26-row-time"></div><div class="c26-row-content">Closing</div></div>
+        <div class="c26-row"><div class="c26-row-time">10:00 – 10:50</div><div class="c26-row-content">Closing ceremony &amp; group photo <span class="c26-inst">Everyone</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- INSTRUCTORS -->
+<section class="c26-team">
+  <div class="c26-team-in">
+    <h2 data-rv>The team.</h2>
+    <p class="sub" data-rv style="--rvd:.08s">Instructors and session leaders for the Children's Camp 2026</p>
+    <div class="c26-names" data-rv style="--rvd:.14s">
+      <span class="c26-name-chip">Jiāwéi <small>尉家維老師</small></span>
+      <span class="c26-name-chip">Zhìzhōng <small>邱志中老師</small></span>
+      <span class="c26-name-chip">Xiùzhū <small>林秀珠老師</small></span>
+      <span class="c26-name-chip">Cuìlíng <small>劉翠玲老師</small></span>
+      <span class="c26-name-chip">Xiǎojūn <small>郭曉君老師</small></span>
+      <span class="c26-name-chip">Zhǐruì <small>尉芷睿老師</small></span>
+      <span class="c26-name-chip">Qiānruì <small>蔡謙睿老師</small></span>
+      <span class="c26-name-chip">Àiyīng <small>詹璦瑛老師</small></span>
+      <span class="c26-name-chip">Lǚxián <small>謝呂賢老師</small></span>
+      <span class="c26-name-chip">Lìlì <small>李莉莉老師</small></span>
+      <span class="c26-name-chip">Yùnī <small>張玉妮老師</small></span>
+      <span class="c26-name-chip">Zhāochóng <small>劉昭崇老師</small></span>
+      <span class="c26-name-chip">Wěizhé <small>蔡暐哲老師</small></span>
+      <span class="c26-name-chip">Jùnxiáng <small>尉峻翔老師</small></span>
+      <span class="c26-name-chip">Dom Jones</span>
+      <span class="c26-name-chip">Team Leaders <small>隊輔</small></span>
+    </div>
+  </div>
+</section>
+
+<!-- VIDEOS — placeholder until after the camp -->
+<section class="c26-vids">
+  <div class="c26-vids-in">
+    <div class="c26-vids-head" data-rv>
+      <span class="lbl">Session Recordings</span>
+      <h2>Videos from the camp.</h2>
+      <p>Recordings will be added here after the camp concludes. Check back in late July 2026.</p>
+    </div>
+    <div class="c26-cs-grid" data-rv style="--rvd:.1s">
+      <div class="c26-cs-slot">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></svg>
+        <span>Coming Soon</span>
+      </div>
+      <div class="c26-cs-slot">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></svg>
+        <span>Coming Soon</span>
+      </div>
+      <div class="c26-cs-slot">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></svg>
+        <span>Coming Soon</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  (function(){
+    var els = document.querySelectorAll('[data-rv], .reveal');
+    if (!('IntersectionObserver' in window)) { els.forEach(function(e){ e.classList.add('in'); }); return; }
+    var io = new IntersectionObserver(function(en){
+      en.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
+    }, { threshold: .1, rootMargin: '0px 0px -6% 0px' });
+    els.forEach(function(e){ io.observe(e); });
+  })();
+</script>
