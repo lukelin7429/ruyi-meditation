@@ -186,6 +186,30 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   background: #b8431c;
 }
 
+/* ---- header Sign Up button (→ member portal) ---- */
+.nav-signup {
+  display: inline-flex;
+  align-items: center;
+  background: #b8431c;
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.01em;
+  padding: 9px 20px;
+  border-radius: 30px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+.nav-signup:hover {
+  background: #8c2f12;
+  transform: translateY(-1px);
+  box-shadow: 0 8px 18px rgba(184, 67, 28, 0.3);
+}
+@media (max-width: 720px) {
+  .nav-signup { padding: 7px 14px; font-size: 13px; }
+}
+
 /* ---- hamburger button ---- */
 .header-actions { display: flex; align-items: center; gap: 8px; }
 .nav-hamburger {
@@ -664,6 +688,91 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
 .refuge-invite:hover .refuge-invite-cta { gap: 16px; background: rgba(255, 255, 255, 0.22); }
 .refuge-invite-cta .arrow { transition: transform 0.2s ease; }
 .refuge-invite:hover .refuge-invite-cta .arrow { transform: translateX(4px); }
+
+/* ============ INVITATION: Ask a Question (member portal) ============ */
+/* 沿用 refuge-invite 的骨架，改成深玉綠，與磚紅的皈依卡區隔 */
+.ask-band { background: #f4f7f5; }
+.ask-invite {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 16px;
+  padding: 60px 64px;
+  text-decoration: none;
+  color: #fff;
+  background: linear-gradient(118deg, #16382e 0%, #2f6d5e 55%, #4d8f7b 100%);
+  box-shadow: 0 22px 52px rgba(22, 56, 46, 0.30);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.ask-invite:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 30px 66px rgba(22, 56, 46, 0.40);
+}
+.ask-invite-mark {
+  position: absolute;
+  right: 14px;
+  bottom: -74px;
+  font-family: 'Playfair Display', serif;
+  font-size: 320px;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.09);
+  pointer-events: none;
+  transition: transform 0.6s ease;
+}
+.ask-invite:hover .ask-invite-mark { transform: rotate(-8deg) scale(1.05); }
+.ask-invite-body { position: relative; z-index: 1; max-width: 660px; }
+.ask-invite-tag {
+  display: inline-block;
+  font-family: 'Playfair Display', serif;
+  font-size: 13px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #b7e3cf;
+  margin-bottom: 18px;
+  font-weight: 600;
+}
+.ask-invite h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(30px, 4vw, 46px);
+  font-weight: 600;
+  line-height: 1.1;
+  color: #fff;
+  margin-bottom: 20px;
+  letter-spacing: -0.01em;
+}
+.ask-invite p {
+  font-size: 18px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.93);
+  margin-bottom: 32px;
+  max-width: 600px;
+}
+.ask-invite-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.14);
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+  padding: 13px 26px;
+  border-radius: 30px;
+  transition: gap 0.2s ease, background 0.2s ease;
+}
+.ask-invite:hover .ask-invite-cta { gap: 16px; background: rgba(255, 255, 255, 0.22); }
+.ask-invite-cta .arrow { transition: transform 0.2s ease; }
+.ask-invite:hover .ask-invite-cta .arrow { transform: translateX(4px); }
+.ask-invite-note {
+  display: block;
+  margin-top: 16px;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.75);
+}
+@media (max-width: 720px) {
+  .ask-invite { padding: 38px 26px; }
+  .ask-invite-mark { font-size: 200px; bottom: -48px; right: -10px; }
+}
 
 /* ============ SECTION: Vision quote ============ */
 
