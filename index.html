@@ -70,6 +70,41 @@ title: Home
   .page-home .verse-src{display:block;margin-top:18px;font-family:'Playfair Display',Georgia,serif;
     font-style:normal;font-size:15.5px;letter-spacing:.04em;color:#b8431c;}
   @media(max-width:640px){.page-home .verse-card{padding:30px 24px 28px;}.page-home .verse-mark{right:18px;font-size:66px;}}
+
+  /* ---- Mission: two-column, numbered point cards ---- */
+  .page-home .mission-grid{display:grid;grid-template-columns:.85fr 1.25fr;gap:72px;align-items:start;}
+  .page-home .mission-head{position:sticky;top:110px;}
+  .page-home .mission-head h2{font-family:'Playfair Display',Georgia,serif;font-weight:600;
+    font-size:clamp(42px,5.4vw,68px);line-height:1.04;letter-spacing:-.01em;color:#2a2725;margin:14px 0 0;}
+  .page-home .mission-head h2 em{font-style:italic;color:#b8431c;}
+  .page-home .mission-rule{width:64px;height:3px;border-radius:3px;
+    background:linear-gradient(90deg,#b8431c,#e0a93f);margin:24px 0 0;}
+  .page-home .mission-kicker{margin-top:22px;font-size:18px;line-height:1.75;color:#6b6258;max-width:36ch;}
+  .page-home .mission-points{display:flex;flex-direction:column;gap:18px;}
+  .page-home .mission-point{--accent:#b8431c;--accent2:#e0a93f;position:relative;overflow:hidden;
+    display:grid;grid-template-columns:auto 1fr;gap:22px;background:#fffdf9;
+    border:1px solid #ece2d2;border-radius:18px;padding:28px 32px;
+    transition:transform .35s cubic-bezier(.22,.61,.36,1),box-shadow .35s ease,border-color .35s ease;}
+  .page-home .mission-point:nth-child(2){--accent:#0c8599;--accent2:#3bc9db;}
+  .page-home .mission-point:nth-child(3){--accent:#7048e8;--accent2:#b197fc;}
+  .page-home .mission-point::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;
+    background:linear-gradient(180deg,var(--accent),var(--accent2));}
+  .page-home .mission-point::after{content:"";position:absolute;right:-46px;top:-46px;width:150px;height:150px;
+    border-radius:50%;background:radial-gradient(circle at 32% 32%,var(--accent),transparent 70%);
+    opacity:.07;pointer-events:none;transition:opacity .35s ease,transform .5s ease;}
+  .js .page-home .mission-points .mission-point:hover{transform:translateY(-5px);border-color:var(--accent);
+    box-shadow:0 22px 44px -22px var(--accent),0 4px 12px rgba(20,24,31,.05);}
+  .page-home .mission-points .mission-point:hover::after{opacity:.15;transform:scale(1.25);}
+  .page-home .mp-num{font-family:'Playfair Display',Georgia,serif;font-size:15px;font-weight:700;
+    letter-spacing:.08em;color:var(--accent);padding-top:5px;}
+  .page-home .mission-point h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;font-weight:600;
+    color:#2a2725;margin:0 0 8px;}
+  .page-home .mission-point p{font-size:16.5px;line-height:1.8;color:#5f574e;margin:0;}
+  @media(max-width:900px){
+    .page-home .mission-grid{grid-template-columns:1fr;gap:40px;}
+    .page-home .mission-head{position:static;}
+    .page-home .mission-point{padding:24px 22px;gap:16px;}
+  }
 </style>
 
 <!-- ============ HERO ============ -->
@@ -126,14 +161,40 @@ title: Home
   </div>
 </section>
 
-<!-- ============ MISSION (Luke's original prose) ============ -->
-<section class="section section-cream">
-  <div class="section-inner section-narrow">
-    <span class="eyebrow" data-rv>Our mission</span>
-    <h2 data-rv style="--rvd:.08s">Life is short.</h2>
-    <p class="lede">Most of us spend our lives running. Daily pressure, work, the next thing to acquire — and a quiet sense that something is still missing. Ru-Yi exists to offer another path: one where success is something you define for yourself, and meaning is something you cultivate, rather than something you buy.</p>
-    <p class="lede" style="margin-top: 28px;">We do this the simplest way we know how — by sharing what meditation and the dharma have taught us. Our classes are free, open to anyone, and welcome the complete beginner as readily as the long-time practitioner. There is no enrollment, no fee, no entrance test. Come learn how to calm a busy mind, and think honestly about what you actually want from your life.</p>
-    <p class="lede" style="margin-top: 28px;">Our hope is to grow a community of practitioners who keep each other honest — bringing the wisdom of the Buddha to bear on the questions that actually matter today: how we work, how we treat each other, how we face uncertainty and our own mortality. If any of that calls to you, you are already welcome here.</p>
+<!-- ============ MISSION (Luke's original prose, two-column layout) ============ -->
+<section class="section section-cream mission-section">
+  <div class="section-inner">
+    <div class="mission-grid">
+      <div class="mission-head">
+        <span class="eyebrow" data-rv>Our mission</span>
+        <h2 data-rv style="--rvd:.08s">Life is<br><em>short.</em></h2>
+        <div class="mission-rule" data-rv style="--rvd:.16s"></div>
+        <p class="mission-kicker" data-rv style="--rvd:.24s">Most of us spend our lives running. Daily pressure, work, the next thing to acquire — and a quiet sense that something is still missing.</p>
+      </div>
+      <div class="mission-points">
+        <div class="mission-point" data-rv>
+          <span class="mp-num">01</span>
+          <div>
+            <h3>Another path</h3>
+            <p>Ru-Yi exists to offer another path: one where success is something you define for yourself, and meaning is something you cultivate, rather than something you buy.</p>
+          </div>
+        </div>
+        <div class="mission-point" data-rv style="--rvd:.1s">
+          <span class="mp-num">02</span>
+          <div>
+            <h3>Free, and open to everyone</h3>
+            <p>We do this the simplest way we know how — by sharing what meditation and the dharma have taught us. Our classes are free, open to anyone, and welcome the complete beginner as readily as the long-time practitioner. There is no enrollment, no fee, no entrance test. Come learn how to calm a busy mind, and think honestly about what you actually want from your life.</p>
+          </div>
+        </div>
+        <div class="mission-point" data-rv style="--rvd:.2s">
+          <span class="mp-num">03</span>
+          <div>
+            <h3>A community that keeps each other honest</h3>
+            <p>Our hope is to grow a community of practitioners who keep each other honest — bringing the wisdom of the Buddha to bear on the questions that actually matter today: how we work, how we treat each other, how we face uncertainty and our own mortality. If any of that calls to you, you are already welcome here.</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
