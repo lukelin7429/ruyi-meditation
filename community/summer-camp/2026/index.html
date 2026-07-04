@@ -49,6 +49,7 @@ permalink: /community/summer-camp/2026/
   .h26-card:hover{transform:translateY(-6px);}
   .h26-card .cc-art{position:relative;aspect-ratio:16/10;overflow:hidden;}
   .h26-card .cc-art svg{position:absolute;inset:0;width:100%;height:100%;display:block;}
+  .h26-card .cc-art .cc-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 42%;display:block;}
   .h26-card .cc-tag{position:absolute;left:16px;top:16px;z-index:2;
     padding:5px 13px;border-radius:99px;font-size:12px;font-weight:700;letter-spacing:.03em;color:#fff;}
   .h26-card .cc-inner{padding:24px 26px 28px;}
@@ -177,40 +178,7 @@ permalink: /community/summer-camp/2026/
     <!-- YOUTH -->
     <a class="h26-card youth reveal" style="transition-delay:90ms" href="{{ '/community/summer-camp/2026/youth/' | relative_url }}">
       <span class="cc-art">
-        <svg viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <defs>
-            <linearGradient id="yhSky" x1="0" y1="0" x2="0" y2="1">
-              <stop offset="0%" stop-color="#0a2216"/>
-              <stop offset="100%" stop-color="#1e5c3a"/>
-            </linearGradient>
-          </defs>
-          <rect width="480" height="300" fill="url(#yhSky)"/>
-          <!-- moon -->
-          <circle cx="356" cy="66" r="30" fill="#d4af37" opacity=".18"/>
-          <circle cx="356" cy="66" r="18" fill="#e8cd6a" opacity=".6"/>
-          <circle cx="356" cy="66" r="11" fill="#f5e29a" opacity=".9"/>
-          <!-- stars -->
-          <g fill="#fff">
-            <circle cx="52" cy="40" r="1.4" opacity=".7"/>
-            <circle cx="128" cy="24" r="1.1" opacity=".6"/>
-            <circle cx="205" cy="46" r="1.5" opacity=".8"/>
-            <circle cx="270" cy="20" r="1.1" opacity=".55"/>
-            <circle cx="96" cy="82" r="1.1" opacity=".5"/>
-            <circle cx="176" cy="70" r="1.3" opacity=".6"/>
-            <circle cx="430" cy="36" r="1.2" opacity=".6"/>
-          </g>
-          <!-- mountains -->
-          <path d="M0 214 L90 104 L180 178 L262 78 L342 150 L422 88 L480 140 L480 300 L0 300Z" fill="#16452b" opacity=".9"/>
-          <path d="M0 258 L60 176 L132 226 L212 142 L302 200 L382 132 L462 190 L480 176 L480 300 L0 300Z" fill="#1a5232" opacity=".95"/>
-          <path d="M0 274 Q120 256 240 268 Q360 280 480 266 L480 300 L0 300Z" fill="#0f3320"/>
-          <!-- lotus silhouette -->
-          <g transform="translate(240,236)" opacity=".85">
-            <ellipse cx="0" cy="-6" rx="11" ry="22" fill="#d4af37" opacity=".7" transform="rotate(-30)"/>
-            <ellipse cx="0" cy="-6" rx="11" ry="22" fill="#d4af37" opacity=".7"/>
-            <ellipse cx="0" cy="-6" rx="11" ry="22" fill="#d4af37" opacity=".7" transform="rotate(30)"/>
-            <ellipse cx="0" cy="10" rx="17" ry="6" fill="#1a5232"/>
-          </g>
-        </svg>
+        <img class="cc-photo" src="{{ '/assets/images/camp-2026-teen.jpg' | relative_url }}" alt="2026 如意精舍佛青營 · Youth Buddhist Study Camp group photo" loading="lazy" width="1800" height="1350">
         <span class="cc-tag">Teenagers</span>
       </span>
       <span class="cc-inner">
