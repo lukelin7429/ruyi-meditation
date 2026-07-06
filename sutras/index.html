@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mahāyāna Sūtras — The Great Vehicle's Scriptures | Ru-Yi Meditation Center</title>
-<meta name="description" content="The great scriptures of Mahāyāna Buddhism in plain English — each with a reading guide, the full Chinese-and-English text, and a self-check quiz. The Heart Sūtra is live; the Diamond, Lotus, Vimalakīrti and more are on the way. From Ru-Yi Meditation Center.">
+<title>Mahāyāna Scriptures — Sūtras and Treatises | Ru-Yi Meditation Center</title>
+<meta name="description" content="Common Mahāyāna scriptures and treatises in plain English, including the Heart Sūtra, Diamond Sūtra, Lotus Sūtra, Vimalakīrti Sūtra, Pure Land texts, and two ways into Nāgārjuna's Mahāprajñāpāramitā Śāstra.">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16.png">
   <link rel="icon" href="/assets/images/favicon.ico">
@@ -104,26 +104,65 @@
     border-bottom: 1px dashed #dee2e6;
   }
 
-  .sutra-list {
+  .sutra-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 18px;
     list-style: none;
     margin: 0;
     padding: 0;
   }
-  .sutra-row {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    gap: 14px;
-    padding: 16px 0;
-    border-bottom: 1px solid #dee2e6;
-    align-items: baseline;
-    font-size: 18px;
+  @media (min-width: 760px) {
+    .container { max-width: 1020px; }
+    .sutra-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
-  .sutra-row:last-child { border-bottom: none; }
-  .sutra-titles { line-height: 1.4; }
+  .sutra-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 258px;
+    border: 1px solid #e3dfd8;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #fff, #fbf7ef);
+    padding: 22px 22px 18px;
+    text-decoration: none;
+    color: inherit;
+    overflow: hidden;
+    transition: transform .22s ease, box-shadow .22s ease, border-color .22s ease;
+  }
+  .sutra-card::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto;
+    height: 4px;
+    background: linear-gradient(90deg, #b8431c, #e0a93f, #559986);
+    opacity: .88;
+  }
+  .sutra-card:hover {
+    transform: translateY(-4px);
+    border-color: #d7c7aa;
+    box-shadow: 0 20px 40px -28px rgba(80, 48, 20, .55);
+    text-decoration: none;
+  }
+  .sutra-card.placeholder {
+    background: #fff;
+  }
+  .sutra-card.placeholder::before {
+    background: #d8d8d8;
+  }
+  .card-kicker {
+    color: #8c2f12;
+    font-size: 12px;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 12px;
+  }
+  .sutra-titles { line-height: 1.35; }
   .sutra-titles .en {
     color: #1a1a1a;
     font-weight: 500;
-    font-size: 21px;
+    font-size: 25px;
     font-family: Georgia, "Times New Roman", serif;
   }
   .sutra-titles .zh {
@@ -135,30 +174,34 @@
   .sutra-titles .gloss {
     display: block;
     color: #6b6b6b;
-    font-size: 16px;
-    margin-top: 4px;
+    font-size: 16.5px;
+    margin-top: 14px;
     line-height: 1.5;
   }
   .sutra-status {
-    font-size: 14px;
-    color: #b8b8b8;
-    letter-spacing: 0.04em;
+    margin-top: auto;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    color: #8c2f12;
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .sutra-status .pill {
+    color: #6b6b6b;
+    background: #f3eee5;
+    border: 1px solid #e4d7c4;
+    border-radius: 999px;
+    padding: 4px 10px;
+    font-size: 12px;
+    letter-spacing: .08em;
     text-transform: uppercase;
     white-space: nowrap;
   }
-  .sutra-row a {
-    color: inherit;
-    text-decoration: none;
-    display: contents;
-  }
-  .sutra-row.linked .sutra-titles .en {
-    text-decoration: underline;
-    text-decoration-color: #b8431c;
-    text-underline-offset: 4px;
-    text-decoration-thickness: 1.5px;
-  }
-  .sutra-row.linked .sutra-status { color: #6ba368; }
-  .sutra-row.placeholder .sutra-titles .en { color: #9a9a9a; }
+  .placeholder .sutra-status { color: #8a8a8a; }
+  .placeholder .sutra-status .pill { background: #f5f5f5; border-color: #e2e2e2; }
 
   footer {
     margin-top: 72px;
@@ -196,12 +239,7 @@
     transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
   .js [data-rv].in{opacity:1;transform:none;}
   @media(prefers-reduced-motion:reduce){.js [data-rv]{opacity:1 !important;transform:none !important;}}
-  .sutra-row.linked{position:relative;transition:background .2s ease,padding-left .2s ease;}
-  .sutra-row.linked::before{content:"";position:absolute;left:0;top:8px;bottom:8px;width:3px;border-radius:3px;
-    background:linear-gradient(180deg,#b8431c,#e0a93f);opacity:0;transform:scaleY(.4);transform-origin:top;
-    transition:opacity .22s ease,transform .28s ease;}
-  .sutra-row.linked:hover{background:#f7f2ea;padding-left:14px;}
-  .sutra-row.linked:hover::before{opacity:1;transform:scaleY(1);}
+  .sutra-card{will-change:transform;}
 </style>
 <header class="site-header">
   <div class="header-inner">
@@ -224,18 +262,18 @@
 <div class="container">
 
   <nav class="crumb">
-    <a href="/">Ru-Yi Meditation Center</a><span>›</span><a href="/dharma/">Dharma</a><span>›</span>Mahāyāna Sūtras
+    <a href="/">Ru-Yi Meditation Center</a><span>›</span><a href="/dharma/">Dharma</a><span>›</span>Mahāyāna Scriptures
   </nav>
 
   <div class="series-mark">A series at Ru-Yi Meditation Center</div>
-  <h1>Mahāyāna Sūtras</h1>
-  <p class="subtitle"><em>The scriptures of the Great Vehicle</em><span class="zh">大乘經典</span></p>
+  <h1>Mahāyāna Scriptures</h1>
+  <p class="subtitle"><em>Sūtras and treatises of the Great Vehicle</em><span class="zh">大乘經典</span></p>
 
   <p class="intro">
     The Mahāyāna — the "Great Vehicle" — is the stream of Buddhism that spread north and east into China, Korea, Japan, Tibet, and Vietnam. Its scriptures turn on two ideas: the <strong>bodhisattva</strong>, who vows to awaken for the sake of all beings, and <strong>emptiness</strong> (<em>śūnyatā</em>), the seeing that sets that vow free. These are the texts recited in the great monasteries of East Asia, the source of Chan and Zen, Pure Land and Huayan.
   </p>
   <p class="intro">
-    Each sūtra here gets the same three things: a <strong>reading guide</strong> in plain English that opens the meaning for a modern reader, the <strong>full text</strong> with the Chinese and English side by side, and a <strong>10-question self-check quiz</strong>. We are publishing slowly, one sūtra at a time. The Heart Sūtra is live; the rest are on the way.
+    Each scripture here is presented as a plain-English doorway: what it teaches, why it matters, and how to begin reading it. Some entries lead directly to a full reading guide; others are prepared as study paths so the collection can grow one text, one chapter, and one life-question at a time.
   </p>
 
   <div class="meta-card" data-rv>
@@ -243,7 +281,7 @@
       <dt>Tradition</dt><dd>Mahāyāna (<span class="zh">大乘</span>) — the Great Vehicle</dd>
       <dt>Chinese source</dt><dd>The Taishō canon (<span class="zh">大正藏</span>), the standard modern edition, in the public domain</dd>
       <dt>English</dt><dd>Fresh translations made for Ru-Yi, kept plain and close to the Chinese</dd>
-      <dt>Live now</dt><dd>1 sūtra — the Heart Sūtra</dd>
+      <dt>Live now</dt><dd>The Heart Sūtra, plus two new doors into the <span class="zh">大智度論</span></dd>
     </dl>
   </div>
 
@@ -251,26 +289,46 @@
     <h2>The Perfection of Wisdom <span class="zh" style="font-family:'PingFang TC',serif; color:#6b6b6b; font-size:20px;">般若</span></h2>
     <p class="group-note">The scriptures of emptiness — the foundation of the whole Mahāyāna.</p>
   </div>
-  <ul class="sutra-list">
-    <li>
-      <a href="heart-sutra.html">
-        <div class="sutra-row linked" data-rv>
+  <ul class="sutra-grid">
+    <li data-rv>
+      <a class="sutra-card" href="heart-sutra.html">
+          <div class="card-kicker">Prajñāpāramitā · Live</div>
           <div class="sutra-titles">
             <span class="en">The Heart Sūtra</span><span class="zh">般若波羅蜜多心經</span>
             <span class="gloss">The distilled essence of the Perfection of Wisdom — "form is emptiness, emptiness is form" — in 260 characters. The most-recited scripture in Mahāyāna Buddhism.</span>
           </div>
-          <div class="sutra-status">Read →</div>
-        </div>
+          <div class="sutra-status"><span class="pill">Read now</span><span>Open →</span></div>
       </a>
     </li>
-    <li>
-      <div class="sutra-row placeholder" data-rv>
+    <li data-rv>
+      <div class="sutra-card placeholder" aria-label="The Diamond Sūtra is coming soon">
+        <div class="card-kicker">Prajñāpāramitā · In preparation</div>
         <div class="sutra-titles">
           <span class="en">The Diamond Sūtra</span><span class="zh">金剛般若波羅蜜經</span>
           <span class="gloss">The dialogue with Subhūti on non-abiding and the cutting of all fixed views — the sūtra behind the world's oldest printed book.</span>
         </div>
-        <div class="sutra-status">Coming soon</div>
+        <div class="sutra-status"><span class="pill">Coming soon</span><span>Planned</span></div>
       </div>
+    </li>
+    <li data-rv>
+      <a class="sutra-card" href="mahaprajnaparamita-sastra/">
+        <div class="card-kicker">Nāgārjuna · 100 fascicles</div>
+        <div class="sutra-titles">
+          <span class="en">Mahāprajñāpāramitā Śāstra</span><span class="zh">大智度論</span>
+          <span class="gloss">A vast commentary on the Great Perfection of Wisdom, attributed to Nāgārjuna and translated by Kumārajīva. Enter here to study the treatise fascicle by fascicle.</span>
+        </div>
+        <div class="sutra-status"><span class="pill">New</span><span>Read by fascicle →</span></div>
+      </a>
+    </li>
+    <li data-rv>
+      <a class="sutra-card" href="mahaprajnaparamita-sastra/topics/">
+        <div class="card-kicker">Practical study · Life questions</div>
+        <div class="sutra-titles">
+          <span class="en">Learning the Śāstra by Theme</span><span class="zh">大智度論主題學習</span>
+          <span class="gloss">Begin with a real concern: managing emotions, letting go of attachment, facing death, cultivating patience, or finding courage on the bodhisattva path.</span>
+        </div>
+        <div class="sutra-status"><span class="pill">New</span><span>Choose a theme →</span></div>
+      </a>
     </li>
   </ul>
 
@@ -278,32 +336,35 @@
     <h2>The great teaching sūtras</h2>
     <p class="group-note">The scriptures that shaped the schools of East Asian Buddhism.</p>
   </div>
-  <ul class="sutra-list">
-    <li>
-      <div class="sutra-row placeholder" data-rv>
+  <ul class="sutra-grid">
+    <li data-rv>
+      <div class="sutra-card placeholder" aria-label="The Lotus Sūtra is coming soon">
+        <div class="card-kicker">One Vehicle · In preparation</div>
         <div class="sutra-titles">
           <span class="en">The Lotus Sūtra</span><span class="zh">妙法蓮華經</span>
           <span class="gloss">The One Vehicle and the parables of skilful means — the central scripture of Tiantai and Nichiren Buddhism.</span>
         </div>
-        <div class="sutra-status">Coming soon</div>
+        <div class="sutra-status"><span class="pill">Coming soon</span><span>Planned</span></div>
       </div>
     </li>
-    <li>
-      <div class="sutra-row placeholder" data-rv>
+    <li data-rv>
+      <div class="sutra-card placeholder" aria-label="The Vimalakīrti Sūtra is coming soon">
+        <div class="card-kicker">Non-duality · In preparation</div>
         <div class="sutra-titles">
           <span class="en">The Vimalakīrti Sūtra</span><span class="zh">維摩詰所說經</span>
           <span class="gloss">The layman who out-teaches the Buddha's greatest disciples — and the "thunderous silence" on non-duality.</span>
         </div>
-        <div class="sutra-status">Coming soon</div>
+        <div class="sutra-status"><span class="pill">Coming soon</span><span>Planned</span></div>
       </div>
     </li>
-    <li>
-      <div class="sutra-row placeholder" data-rv>
+    <li data-rv>
+      <div class="sutra-card placeholder" aria-label="The Platform Sūtra is coming soon">
+        <div class="card-kicker">Chan · In preparation</div>
         <div class="sutra-titles">
           <span class="en">The Platform Sūtra</span><span class="zh">六祖壇經</span>
           <span class="gloss">The teaching of Huineng, Sixth Patriarch of Chan — sudden awakening, and the only Chinese work granted the title "sūtra."</span>
         </div>
-        <div class="sutra-status">Coming soon</div>
+        <div class="sutra-status"><span class="pill">Coming soon</span><span>Planned</span></div>
       </div>
     </li>
   </ul>
@@ -312,14 +373,25 @@
     <h2>Pure Land <span class="zh" style="font-family:'PingFang TC',serif; color:#6b6b6b; font-size:20px;">淨土</span></h2>
     <p class="group-note">The path of faith — the recollection of Amitābha Buddha.</p>
   </div>
-  <ul class="sutra-list">
-    <li>
-      <div class="sutra-row placeholder" data-rv>
+  <ul class="sutra-grid">
+    <li data-rv>
+      <div class="sutra-card placeholder" aria-label="The Amitābha Sūtra is coming soon">
+        <div class="card-kicker">Pure Land · In preparation</div>
         <div class="sutra-titles">
           <span class="en">The Amitābha Sūtra</span><span class="zh">佛說阿彌陀經</span>
           <span class="gloss">The shorter Pure Land sūtra — the description of Sukhāvatī and the practice of reciting the Buddha's name (<em>nianfo</em>).</span>
         </div>
-        <div class="sutra-status">Coming soon</div>
+        <div class="sutra-status"><span class="pill">Coming soon</span><span>Planned</span></div>
+      </div>
+    </li>
+    <li data-rv>
+      <div class="sutra-card placeholder" aria-label="The Larger Sukhāvatīvyūha Sūtra is coming soon">
+        <div class="card-kicker">Pure Land · In preparation</div>
+        <div class="sutra-titles">
+          <span class="en">The Larger Sukhāvatīvyūha Sūtra</span><span class="zh">佛說無量壽經</span>
+          <span class="gloss">The longer Pure Land scripture on Amitābha's vows, especially the vow to receive beings into the land of peace and joy.</span>
+        </div>
+        <div class="sutra-status"><span class="pill">Coming soon</span><span>Planned</span></div>
       </div>
     </li>
   </ul>
