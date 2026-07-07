@@ -42,8 +42,11 @@ excerpt: A plain-English study entrance to Nāgārjuna's Mahāprajñāpāramitā
   @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
   @media(min-width:980px){.vol-grid{grid-template-columns:repeat(4,minmax(0,1fr));}}
   .vol-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:16px;text-decoration:none;color:inherit;min-height:122px;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card.live{background:linear-gradient(180deg,#fff,#f5fbf8);border-color:#b9d2c8;}
   .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#d8c6a6;text-decoration:none;}
+  .vol-card.live:hover{border-color:#7ea99a;}
   .vol-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .vol-card.live .vol-num{color:var(--jade);}
   .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin:8px 0 6px;line-height:1.2;}
   .vol-note{font-size:14px;color:var(--muted);line-height:1.45;margin-top:auto;}
   .mpps-featured{display:grid;grid-template-columns:1fr;gap:18px;margin-bottom:28px;}
@@ -120,11 +123,19 @@ excerpt: A plain-English study entrance to Nāgārjuna's Mahāprajñāpāramitā
       <div class="vol-grid">
         {% for i in (1..100) %}
         {% assign padded = i | prepend: '00' | slice: -3, 3 %}
+        {% if i == 1 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/mahaprajnaparamita-sastra/fascicle-001/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Our plain-English translation and study notes for scroll 1 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">大智度論</span>, growing section by section.</span>
+        </a>
+        {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T25n1509_{{ padded }}" target="_blank" rel="noopener" data-rv>
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read the source text</span>
           <span class="vol-note">Open scroll {{ i }} of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">大智度論</span> on CBETA. Ru-Yi's plain-English essay will be added here.</span>
         </a>
+        {% endif %}
         {% endfor %}
       </div>
     </div>
