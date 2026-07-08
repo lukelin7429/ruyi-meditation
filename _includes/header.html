@@ -1,3 +1,27 @@
+{% assign is_french = false %}
+{% if page.lang == 'fr' or page.url contains '/fr/' %}
+  {% assign is_french = true %}
+{% endif %}
+{% assign show_language_switcher = true %}
+{% if page.url contains '/english-school' %}
+  {% assign show_language_switcher = false %}
+{% endif %}
+{% assign english_url = page.url %}
+{% assign french_url = '/fr/' %}
+{% if page.en_url %}
+  {% assign english_url = page.en_url %}
+{% elsif is_french %}
+  {% assign english_url = page.url | remove_first: '/fr' %}
+  {% if english_url == '' %}
+    {% assign english_url = '/' %}
+  {% endif %}
+{% endif %}
+{% if page.fr_url %}
+  {% assign french_url = page.fr_url %}
+{% elsif is_french %}
+  {% assign french_url = page.url %}
+{% endif %}
+
 <header class="site-header">
   <div class="header-inner">
     <a href="{{ '/' | relative_url }}" class="brand">
@@ -13,6 +37,12 @@
       <a href="{{ '/community/' | relative_url }}"{% if page.url contains '/community' %} class="active"{% endif %}>Community</a>
     </nav>
     <div class="header-actions">
+      {% if show_language_switcher %}
+      <nav class="language-switcher" aria-label="Language">
+        <a href="{{ english_url | relative_url }}"{% unless is_french %} class="active"{% endunless %}>EN</a>
+        <a href="{{ french_url | relative_url }}"{% if is_french %} class="active"{% endif %}>FR</a>
+      </nav>
+      {% endif %}
       <a href="https://members.ruyimeditation.org/signup" class="nav-signup">Sign Up</a>
       <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)">
         <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg>
@@ -35,6 +65,12 @@
     <a href="{{ '/dharma/' | relative_url }}"{% if page.url contains '/dharma' or page.url contains '/discourses' or page.url contains '/forbearance' or page.url contains '/life-questions' or page.url contains '/meditation' or page.url contains '/sutras' %} class="active"{% endif %}>Dharma</a>
     <a href="{{ '/english-school/' | relative_url }}"{% if page.url contains '/english-school' %} class="active"{% endif %}>English School</a>
     <a href="{{ '/community/' | relative_url }}"{% if page.url contains '/community' %} class="active"{% endif %}>Community</a>
+    {% if show_language_switcher %}
+    <span class="mobile-language-row">
+      <a href="{{ english_url | relative_url }}"{% unless is_french %} class="active"{% endunless %}>English</a>
+      <a href="{{ french_url | relative_url }}"{% if is_french %} class="active"{% endif %}>Français</a>
+    </span>
+    {% endif %}
     <a href="https://members.ruyimeditation.org/signup">Sign Up · Ask a Question</a>
   </nav>
 </div>
