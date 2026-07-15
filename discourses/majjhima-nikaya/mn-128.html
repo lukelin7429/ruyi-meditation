@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MN 128 — Corruptions | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for Upakkilesasutta — after a bitter quarrel drives the Buddha from Kosambī, he finds three harmonious friends whose meditation keeps stalling, and answers with a unique first-person account of his own pre-awakening struggle against eleven subtle corruptions of concentration. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(38px, 5vw, 50px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Majjhima Nikāya</a><span>&rsaquo;</span>MN 128
+  </nav>
+
+  <div class="sutta-number">Majjhima Nikāya &middot; Discourse 128</div>
+  <h1>Corruptions</h1>
+  <p class="subtitle"><em>Upakkilesasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Kosambī, then the road to Bhagu&rsquo;s hut, then the Eastern Bamboo Park where Anuruddha, Nandiya, and Kimbila are staying</dd>
+      <dt>Speakers</dt><dd>The Buddha, an unnamed defiant mendicant, Bhagu, a park keeper, and Anuruddha</dd>
+      <dt>Form</dt><dd>A quarrel the Buddha cannot resolve, a visit to harmonious friends, and a unique first-person account of the Buddha&rsquo;s own struggle with eleven subtle corruptions of concentration</dd>
+      <dt>Length</dt><dd>~18 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>The opening shares content with MN 31 and the Vinaya account of the Kosambī schism; no single Āgama match for the full discourse is noted in the available commentary</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&starf;&starf;&starf; &mdash; the most detailed first-person map of meditative obstacles anywhere in the Majjhima</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, one-hundred-and-twenty-eighth</h2>
+    <p class="lede">
+      Most suttas show the Buddha teaching from a position of settled attainment. This one is different: pressed by three friends who admit their meditation keeps mysteriously stalling, the Buddha responds by opening up his own pre-awakening struggle in unusual detail &mdash; eleven distinct ways his concentration used to collapse, discovered and overcome one at a time, each with its own diagnosis and its own vivid image. It is one of the only places in the canon where the path to awakening is described not as a triumphant ascent but as a long process of trial, error, and precise self-correction.
+    </p>
+    <p>
+      It begins, fittingly, with a failure &mdash; a bitter monastic quarrel the Buddha himself cannot resolve, no matter how many times he intervenes.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Asked why their meditation keeps producing light and visionary experience that then mysteriously vanishes, the Buddha answers by tracing his own pre-awakening struggle against eleven distinct &ldquo;corruptions of the mind&rdquo; &mdash; doubt, distraction, drowsiness, terror, excitement, discomfort, over- and under-exertion, longing, distraction by variety, and over-fixation on the visions themselves &mdash; each identified, understood, and deliberately released before deep, stable immersion became possible.
+    </p>
+
+    <h3>A quarrel the Buddha cannot stop</h3>
+    <p>
+      The setting is the notorious schism at Kosambī, referenced elsewhere in the canon and recorded in detail in the Vinaya. The mendicants there are &ldquo;fighting, quarreling, and disputing, continually wounding each other with barbed words.&rdquo; The Buddha goes to them directly and says, simply, &ldquo;Enough, mendicants! Stop fighting.&rdquo; A mendicant refuses him &mdash; not once, but three times &mdash; with words that are almost breathtaking in their defiance: &ldquo;Wait, sir! Let the Buddha, the Lord of the Dhamma, remain passive, dwelling in blissful meditation in this life. We will be known for this fighting.&rdquo; Having tried three times and failed, the Buddha does something rare: he simply leaves, reciting verses on his way out that would become some of the most famous in the tradition, shared with the Dhammapada:
+    </p>
+    <div class="compact"><strong>The verses at the door.</strong> &ldquo;For never is hatred laid to rest by hate, it&rsquo;s laid to rest by love: this is an ancient teaching&hellip; If you find no alert companion, no attentive friend to live happily together, then, like a king who flees his conquered realm, wander alone like a tusker in the wilds. It&rsquo;s better to wander alone, there&rsquo;s no fellowship with fools.&rdquo;</div>
+    <p>
+      It is a striking moment: even the Buddha, faced with a dispute he cannot mend, chooses withdrawal over forcing a resolution &mdash; and openly says so.
+    </p>
+
+    <h3>Finding harmonious company</h3>
+    <p>
+      The Buddha walks on alone, first briefly visiting a fellow Sakyan, Bhagu, then arriving at the Eastern Bamboo Park, where Anuruddha, Nandiya, and Kimbila are staying. A park keeper, not recognizing him, tries to turn him away: &ldquo;Don&rsquo;t come into this park, ascetic. There are three gentlemen staying here whose nature is to desire only the self. Don&rsquo;t disturb them.&rdquo; Anuruddha overhears and rushes to correct the mistake &mdash; &ldquo;Don&rsquo;t keep the Buddha out! Our Teacher, the Blessed One, has arrived!&rdquo; &mdash; and the three friends come out together to receive him with full hospitality.
+    </p>
+
+    <h3>What harmony actually looks like</h3>
+    <p>
+      The Buddha asks whether they are living &ldquo;in harmony, appreciating each other, without quarreling, blending like milk and water&rdquo; &mdash; a pointed question, arriving as it does straight from a community that could not manage this at all. Anuruddha&rsquo;s answer is concrete and practical: he reflects on his good fortune to have such companions, treats them with kindness in both public and private, and deliberately &ldquo;sets aside his own ideas&rdquo; to go along with theirs &mdash; &ldquo;though we&rsquo;re different in body, we&rsquo;re one in mind.&rdquo; Asked further whether they live diligently, they describe an orderly communal routine: whoever returns first from almsround prepares the seats and water; whoever returns last deals with any leftover food without waste; chores are shared, lifted together when one person can&rsquo;t manage alone, and &ldquo;we don&rsquo;t break into speech for that reason&rdquo; &mdash; and every five nights, they sit together until dawn discussing the teaching.
+    </p>
+
+    <h3>A reluctant admission</h3>
+    <p>
+      Pressed further &mdash; had they, living this well, achieved &ldquo;any superhuman distinction in knowledge and vision worthy of the noble ones&rdquo;? &mdash; the three friends answer with real honesty rather than false modesty or overclaiming: &ldquo;While meditating diligent, keen, and resolute, we perceive both light and vision of forms. But before long the light and the vision of forms vanish. We haven&rsquo;t worked out the basis of that.&rdquo; This is early meditative experience &mdash; radiance and visionary imagery arising in deep concentration, a precursor to the clairvoyant power Anuruddha would later become famous for &mdash; but incomplete and, as yet, not understood.
+    </p>
+
+    <h3>The Buddha&rsquo;s own confession</h3>
+    <p>
+      Rather than simply explaining the phenomenon in the abstract, the Buddha answers with something unusual: a first-person account of his own identical struggle, before his awakening. &ldquo;I too perceived light and vision of forms. But before long my light and vision of forms vanished.&rdquo; What follows is a patient, one-by-one diagnosis of eleven &ldquo;corruptions of the mind&rdquo; (<em>upakkilesa</em>) &mdash; each discovered only after the last was overcome, since a new obstacle would surface the moment the previous one was resolved:
+    </p>
+    <table>
+      <thead><tr><th>Corruption</th><th>What it is / its simile</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Doubt</strong></td><td>uncertainty disturbing an unconsolidated immersion</td></tr>
+        <tr><td><strong>Loss of focus</strong></td><td>the mind drifting, attending imprecisely</td></tr>
+        <tr><td><strong>Dullness and drowsiness</strong></td><td>a natural lapse of energy over long practice</td></tr>
+        <tr><td><strong>Terror</strong></td><td>like a traveler ambushed by killers springing out from both sides of the road</td></tr>
+        <tr><td><strong>Elation</strong></td><td>like suddenly finding five entrances to a treasure trove at once</td></tr>
+        <tr><td><strong>Discomfort</strong></td><td>ordinary bodily strain from sitting for long periods</td></tr>
+        <tr><td><strong>Excessive energy</strong></td><td>like gripping a quail too tightly in the hand &mdash; it dies</td></tr>
+        <tr><td><strong>Overly lax energy</strong></td><td>like gripping a quail too loosely &mdash; it flies away</td></tr>
+        <tr><td><strong>Longing</strong></td><td>yearning for higher realization, wholesome in itself, yet still a disturbance here</td></tr>
+        <tr><td><strong>Perception of diversity</strong></td><td>distraction by the variety of sense-impressions or visionary forms</td></tr>
+        <tr><td><strong>Excessive concentration on forms</strong></td><td>becoming fascinated by the visions themselves, losing the thread of the meditation</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Each is described with careful, almost clinical precision &mdash; the same three-part structure recurring throughout: recalling what arose (past tense), inferring the causal principle (&ldquo;X arose, and because of that my immersion fell away; when immersion falls away, the light and vision vanish&rdquo;), and resolving never to let it recur (future tense). Once all eleven were understood as corruptions and given up, the Buddha says simply, &ldquo;I gave them up.&rdquo;
+    </p>
+
+    <h3>Two puzzles beyond the eleven</h3>
+    <p>
+      Even after clearing all eleven corruptions, two subtler patterns remained. Sometimes he perceived light but no forms, or forms but no light, for a whole day and night at a stretch &mdash; until he realized this depended on which &ldquo;basis&rdquo; he was focusing on: attending to the basis of light produced light without forms, and vice versa. And sometimes his light and vision were limited, sometimes limitless &mdash; which he traced directly to the scope of his immersion itself: &ldquo;when my immersion is limited, my vision is limited&hellip; when my immersion is limitless, my vision is limitless.&rdquo; This closing insight connects directly back to <a href="mn-127.html">MN 127</a>&rsquo;s teaching on the &ldquo;expansive release of the heart&rdquo; &mdash; the breadth of one&rsquo;s cultivated attention determines the breadth of what one perceives.
+    </p>
+
+    <h3>Immersion in three ways, and the fruit</h3>
+    <p>
+      Having given up all the corruptions, the Buddha resolved to develop immersion three further ways &mdash; with the mind both placed and sustained on its object, with only sustaining and no placing, and with neither &mdash; each combined in turn with rapture, without rapture, with pleasure, and with equanimity: a systematic, exhaustive mapping of every combination available to a settled mind. Out of this thoroughness came the final knowledge: &ldquo;My freedom is unshakable; this is my last rebirth; now there&rsquo;ll be no more future lives.&rdquo; The discourse that began with a quarrel no one could settle ends with the most settled mind imaginable.
+    </p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">upakkilesa</span> &mdash; &ldquo;corruption&rdquo;: a subtle mental flaw that undermines meditation on the very brink of absorption, distinct from the coarser five hindrances.
+      </div>
+      <div class="term">
+        <span class="pali-word">obhāsa, dassana rūpānaṁ</span> &mdash; &ldquo;light&rdquo; and &ldquo;vision of forms&rdquo;: the radiance and visionary imagery that can arise in deep concentration, a precursor to the power of clairvoyance (<em>dibbacakkhu</em>) Anuruddha would later be declared foremost in.
+      </div>
+      <div class="term">
+        <span class="pali-word">nimitta (as &ldquo;basis&rdquo;)</span> &mdash; in this early usage, not a visual &ldquo;sign&rdquo; but the causal ground being investigated: &ldquo;we haven&rsquo;t worked out the <em>nimitta</em> [basis, cause] of that.&rdquo;
+      </div>
+      <div class="term">
+        <span class="pali-word">the quail similes</span> &mdash; gripped too tight, it dies; held too loose, it flies away: a precise image for the balance of energy required in meditation, neither forcing nor slacking.
+      </div>
+      <div class="term">
+        <span class="pali-word">&ldquo;different in body, one in mind&rdquo;</span> &mdash; Anuruddha&rsquo;s description of communal harmony, achieved by deliberately setting aside one&rsquo;s own preferences for a companion&rsquo;s.
+      </div>
+      <div class="term">
+        <span class="pali-word">the Bṛhadāraṇyaka echo</span> &mdash; the commentary notes this discourse&rsquo;s structure of a reluctant sage pressed to reveal an inner &ldquo;light&rdquo; parallels a famous dialogue in the Bṛhadāraṇyaka Upaniṣad, where King Janaka presses the sage Yājñavalkya on the true light of a person.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The discourse in full: the Kosambī quarrel and the Buddha&rsquo;s verses, the visits to Bhagu and to Anuruddha&rsquo;s community, the discussion of harmony and diligence, and the Buddha&rsquo;s complete account of the eleven corruptions and their resolution. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>A quarrel the Buddha cannot stop</h3>
+
+      <p><span class="segno">&sect;1&ndash;6</span>So I have heard. At one time the Buddha was staying near Kosambī, in Ghosita&rsquo;s Monastery. The mendicants there were fighting, quarreling, and disputing, continually wounding each other with barbed words. The Buddha went to them and said, &ldquo;Enough, mendicants! Stop fighting, quarreling, and disputing.&rdquo; A mendicant replied: &ldquo;Wait, sir! Let the Buddha, the Lord of the Dhamma, remain passive, dwelling in blissful meditation in this life. We will be known for this fighting, quarreling, arguing, and disputing.&rdquo; A second and a third time the Buddha said the same, and a third time that mendicant answered the same.</p>
+
+      <p>Then the Buddha went for alms, and on his return, having set his lodgings in order, recited these verses while standing: &ldquo;Many voices shout at once, yet no-one thinks that they&rsquo;re the fool&hellip; &lsquo;They abused me, they hit me! They beat me, they robbed me!&rsquo; For those bearing such a grudge, hatred is never laid to rest&hellip; For never is hatred laid to rest by hate, it&rsquo;s laid to rest by love: this is an ancient teaching. When others do not understand, let us, who do understand this, restrain ourselves in this regard; for that is how conflicts are laid to rest. Breakers of bones and takers of life, thieves of cattle, horses, wealth, those who plunder the nation: even they can come together, so why can&rsquo;t you? If you find an alert companion, an attentive friend to live happily together, then, overcoming all adversities, wander with them, joyful and mindful. If you find no alert companion, no attentive friend to live happily together, then, like a king who flees his conquered realm, wander alone like a tusker in the wilds. It&rsquo;s better to wander alone, there&rsquo;s no fellowship with fools. Wander alone and do no wrong, at ease like a tusker in the wilds.&rdquo;</p>
+
+      <h3>Finding harmonious company</h3>
+
+      <p><span class="segno">&sect;7&ndash;10</span>After speaking these verses, the Buddha went to the village of the child salt-miners, where Venerable Bhagu was staying, and gave him an encouraging Dhamma talk. He then set out for the Park of the East-Raftered Hall, where Anuruddha, Nandiya, and Kimbila were staying. The park keeper, seeing him approach, said: &ldquo;Don&rsquo;t come into this park, ascetic. There are three gentlemen staying here whose nature is to desire only the self. Don&rsquo;t disturb them.&rdquo; Anuruddha, overhearing, said: &ldquo;Don&rsquo;t keep the Buddha out, good park keeper! Our Teacher, the Blessed One, has arrived.&rdquo; He then called Nandiya and Kimbila, and the three came out together, one receiving the Buddha&rsquo;s bowl and robe, one spreading a seat, one setting out water for his feet.</p>
+
+      <h3>What harmony actually looks like</h3>
+
+      <p><span class="segno">&sect;11&ndash;14</span>&ldquo;I hope you&rsquo;re living in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes?&rdquo; &ldquo;Indeed, sir, we live in harmony.&rdquo; &ldquo;But how?&rdquo; Anuruddha answered: &ldquo;I think: &lsquo;I&rsquo;m fortunate, so very fortunate, to live together with spiritual companions such as these.&rsquo; I consistently treat these venerables with kindness by way of body, speech, and mind, both in public and in private. I think: &lsquo;Why don&rsquo;t I set aside my own ideas and just go along with these venerables&rsquo; ideas?&rsquo; And that&rsquo;s what I do. Though we&rsquo;re different in body, sir, we&rsquo;re one in mind, it seems to me.&rdquo; Nandiya and Kimbila spoke likewise.</p>
+
+      <p>&ldquo;Good, good! But I hope you&rsquo;re living diligently, keen, and resolute?&rdquo; &ldquo;Indeed, sir. Whoever returns first from almsround prepares the seats, and puts out the drinking water and the rubbish bin. If there&rsquo;s remainder, whoever returns last eats it if they like, or disposes of it without harm to living creatures. Then they put everything away and sweep the refectory. If anyone sees a water-pot empty, they fill it, lending a hand to each other if needed &mdash; but we don&rsquo;t break into speech for that reason. And every five days we sit together for the whole night and discuss the teachings. That&rsquo;s how we live diligently.&rdquo;</p>
+
+      <h3>A reluctant admission</h3>
+
+      <p><span class="segno">&sect;15</span>&ldquo;Good, good! But as you live diligently like this, have you achieved any superhuman distinction in knowledge and vision worthy of the noble ones, a comfortable meditation?&rdquo; &ldquo;Well, sir, while meditating diligent, keen, and resolute, we perceive both light and vision of forms. But before long the light and the vision of forms vanish. We haven&rsquo;t worked out the basis of that.&rdquo;</p>
+
+      <h3>The Buddha&rsquo;s own confession: eleven corruptions</h3>
+
+      <p><span class="segno">&sect;16&ndash;26</span>&ldquo;Well, you should work out the basis of that. Before my awakening, I too perceived light and vision of forms, and before long they vanished. It occurred to me: &lsquo;Doubt arose in me, and because of that my immersion fell away. When immersion falls away, the light and vision of forms vanish. I&rsquo;ll make sure that doubt will not arise in me again.&rsquo;</p>
+
+      <p>Meditating again, the light and vision vanished once more. It occurred to me: &lsquo;Loss of focus arose in me&hellip; I&rsquo;ll make sure neither doubt nor loss of focus will arise again.&rsquo; Then in turn: &lsquo;Dullness and drowsiness arose&hellip;&rsquo; Then: &lsquo;Terror arose in me &mdash; suppose a person was traveling along a road, and killers were to spring out at them from both sides; they&rsquo;d feel terrified because of that. In the same way, terror arose in me.&rsquo; Then: &lsquo;Elation arose &mdash; suppose a person was looking for the entrance to a treasure trove, and all at once came across five entrances; they&rsquo;d feel excited.&rsquo; Then: &lsquo;Discomfort arose.&rsquo; Then: &lsquo;Excessive energy arose &mdash; suppose a person was to grip a quail too tightly in their hands; it would die right there.&rsquo; Then: &lsquo;Overly lax energy arose &mdash; suppose a person was to grip a quail too loosely; it would fly out of their hands.&rsquo; Then: &lsquo;Longing arose.&rsquo; Then: &lsquo;Perceptions of diversity arose.&rsquo; And finally: &lsquo;Excessive concentration on forms arose.&rsquo;</p>
+
+      <p>When I understood that doubt, loss of focus, dullness and drowsiness, terror, elation, discomfort, excessive energy, overly lax energy, longing, perception of diversity, and excessive concentration on forms are corruptions of the mind, I gave them up.</p>
+
+      <h3>Two puzzles beyond the eleven</h3>
+
+      <p><span class="segno">&sect;28&ndash;29</span>Still, meditating diligently, I sometimes perceived light but did not see forms, or saw forms but did not perceive light &mdash; for a whole night, a whole day, or even both. I thought: &lsquo;What is the reason for this?&rsquo; It occurred to me: &lsquo;When I don&rsquo;t focus on the basis of the forms, but focus on the basis of the light, I perceive light and do not see forms; and the reverse likewise.&rsquo;</p>
+
+      <p>I also sometimes perceived limited light and saw limited forms, or perceived limitless light and saw limitless forms. I thought: &lsquo;What is the reason for this?&rsquo; It occurred to me: &lsquo;When my immersion is limited, my vision is limited; when my immersion is limitless, my vision is limitless.&rsquo;</p>
+
+      <h3>Immersion in three ways, and the fruit</h3>
+
+      <p><span class="segno">&sect;30&ndash;32</span>After understanding and giving up all these corruptions of the mind, I thought: &lsquo;Now let me develop immersion in three ways.&rsquo; I developed immersion while placing the mind and keeping it connected; without placing the mind, merely keeping it connected; without placing the mind or keeping it connected; with rapture; without rapture; with pleasure; with equanimity. When I had developed immersion in these ways, the knowledge and vision arose in me: &lsquo;My freedom is unshakable; this is my last rebirth; now there&rsquo;ll be no more future lives.&rsquo;&rdquo; That is what the Buddha said. Satisfied, Venerable Anuruddha approved what the Buddha said.</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">How does the Kosambī quarrel end?</div>
+        <button class="opt">The Buddha forcibly separates the quarreling monks</button>
+        <button class="opt">The monks apologize immediately when the Buddha arrives</button>
+        <button class="opt">After being rebuffed three times, the Buddha simply leaves, reciting verses on hatred and solitude on his way out — even he cannot force a resolution</button>
+        <button class="opt">King Pasenadi intervenes and settles the dispute</button>
+        <div class="expl"><strong>Correct: C.</strong> A rare moment where the Buddha chooses withdrawal over forcing an outcome.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What mistake does the park keeper make when the Buddha arrives at the Eastern Bamboo Park?</div>
+        <button class="opt">He directs the Buddha to the wrong park</button>
+        <button class="opt">Not recognizing him, he tries to turn the Buddha away to protect the three residents' privacy — until Anuruddha overhears and corrects him</button>
+        <button class="opt">He charges the Buddha an entrance fee</button>
+        <button class="opt">He calls the guards on the Buddha</button>
+        <div class="expl"><strong>Correct: B.</strong> The commentary notes the park keeper was likely not Buddhist, being responsible for a Vedic ritual site.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">According to Anuruddha, what is the practical basis of his harmony with Nandiya and Kimbila?</div>
+        <button class="opt">Strict rules enforced by a senior authority</button>
+        <button class="opt">Living in separate huts far apart</button>
+        <button class="opt">Never speaking to each other</button>
+        <button class="opt">Deliberately setting aside his own ideas to go along with his companions', treating them with kindness in public and private — "different in body, one in mind"</button>
+        <div class="expl"><strong>Correct: D.</strong> A concrete, practical description rather than an abstract ideal.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What do Anuruddha, Nandiya, and Kimbila honestly admit when asked about their meditative attainments?</div>
+        <button class="opt">They perceive light and vision of forms in meditation, but it vanishes before long, and they haven't worked out why</button>
+        <button class="opt">They have achieved full awakening already</button>
+        <button class="opt">They have never experienced anything unusual in meditation</button>
+        <button class="opt">They refuse to answer the question</button>
+        <div class="expl"><strong>Correct: A.</strong> A moment of genuine honesty rather than false modesty or overclaiming.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">How does the Buddha respond to their admission?</div>
+        <button class="opt">He tells them to stop meditating on light and forms entirely</button>
+        <button class="opt">He dismisses the question as unimportant</button>
+        <button class="opt">He gives an unusual first-person account of his own identical struggle before his awakening, diagnosing eleven "corruptions of the mind" one by one</button>
+        <button class="opt">He refers them to another teacher</button>
+        <div class="expl"><strong>Correct: C.</strong> One of the few places in the canon where the Buddha describes his own pre-awakening trial and error in this much detail.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What do the two "quail" similes illustrate?</div>
+        <button class="opt">The fragility of life in general</button>
+        <button class="opt">The balance of energy needed in meditation: gripping too tightly (excessive energy) kills the bird, gripping too loosely (overly lax energy) lets it escape</button>
+        <button class="opt">Two different types of visionary experience</button>
+        <button class="opt">A story about hunting</button>
+        <div class="expl"><strong>Correct: B.</strong> A precise image for finding the middle way between forcing and slacking.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What three-part structure recurs in the Buddha's description of each corruption?</div>
+        <button class="opt">A question, a parable, and a moral</button>
+        <button class="opt">A prayer, a chant, and a blessing</button>
+        <button class="opt">A list, a comparison, and a summary</button>
+        <button class="opt">Recalling what arose (past tense), inferring the causal principle (present tense: "X arose, immersion fell away, light and vision vanish"), and resolving never to let it recur (future tense)</button>
+        <div class="expl"><strong>Correct: D.</strong> The commentary specifically notes this precise, deliberate use of grammatical tense.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">After clearing all eleven corruptions, what two further puzzles did the Buddha still encounter?</div>
+        <button class="opt">Sometimes perceiving light without forms or forms without light (resolved by which "basis" he focused on), and sometimes limited versus limitless light and forms (resolved by the scope of his immersion)</button>
+        <button class="opt">Whether to eat before or after meditating</button>
+        <button class="opt">Which posture to meditate in</button>
+        <button class="opt">Whether meditation should be done alone or in groups</button>
+        <div class="expl"><strong>Correct: A.</strong> The second puzzle directly echoes MN 127's teaching that the breadth of cultivated attention determines the breadth of what is perceived.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What three variations of immersion did the Buddha develop after giving up the corruptions?</div>
+        <button class="opt">Sitting, standing, and walking meditation</button>
+        <button class="opt">Morning, noon, and evening practice</button>
+        <button class="opt">With the mind both placed and sustained on its object, with only sustaining, and with neither — each further combined with rapture, without rapture, with pleasure, and with equanimity</button>
+        <button class="opt">Silent, chanted, and visualized meditation</button>
+        <div class="expl"><strong>Correct: C.</strong> A systematic, exhaustive mapping of every combination available to a settled mind.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What parallel does the commentary draw between this discourse and the Bṛhadāraṇyaka Upaniṣad?</div>
+        <button class="opt">Both texts describe the same historical events</button>
+        <button class="opt">Both feature a structure where a reluctant figure is pressed to reveal an inner "light" — there, King Janaka presses the sage Yājñavalkya; here, Anuruddha must be prodded to reveal his meditation experience</button>
+        <button class="opt">Both texts reject the existence of gods</button>
+        <button class="opt">There is no connection between the two texts</button>
+        <div class="expl"><strong>Correct: B.</strong> A subtle intertextual echo, down to the park keeper's phrase about the three monks desiring "only the self."</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">The frame</div>
+      <ul>
+        <li>Kosambī quarrel, unresolved</li>
+        <li>Buddha leaves, reciting verses</li>
+        <li>finds harmony at the park</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Eleven corruptions</div>
+      <ul>
+        <li>doubt &middot; loss of focus</li>
+        <li>drowsiness &middot; terror &middot; elation</li>
+        <li>discomfort &middot; energy (2)</li>
+        <li>longing &middot; diversity &middot; forms</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Two puzzles</div>
+      <ul>
+        <li>light vs. forms = which basis</li>
+        <li>limited vs. limitless = scope</li>
+        <li>&nbsp;&nbsp;of immersion</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>MN 31 &middot; shares the opening scene</li>
+        <li>MN 48 &middot; the Kosambī quarrel again</li>
+        <li>MN 127 &middot; expansive immersion</li>
+        <li>Dhp 3&ndash;6 &middot; the shared verses</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/mn128/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.</li>
+      <li><a href="https://www.dhammatalks.org/suttas/MN/MN128.html" target="_blank" rel="noopener">Thanissaro Bhikkhu&rsquo;s translation</a> &mdash; titled &ldquo;Defilements.&rdquo;</li>
+      <li><a href="mn-127.html">MN 127 &middot; With Anuruddha</a> &mdash; the previous discourse, featuring the same three friends.</li>
+      <li><a href="mn-129.html">MN 129 &middot; The Foolish and the Astute</a> &mdash; the next discourse.</li>
+      <li><a href="https://suttacentral.net/mn31/en/sujato" target="_blank" rel="noopener">MN 31 &middot; The Shorter Discourse at Gosinga</a> &mdash; sharing this discourse&rsquo;s opening scene with Anuruddha, Nandiya, and Kimbila.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="mn-127.html"><span class="label">&larr; Previous</span>MN 127 &middot; With Anuruddha</a>
+    <a href="mn-129.html" class="next"><span class="label">Next &rarr;</span>MN 129 &middot; The Foolish and the Astute</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
