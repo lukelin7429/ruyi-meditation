@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iti 40 &mdash; Knowledge | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for the Vijjāsutta &mdash; a short Itivuttaka teaching holding that ignorance precedes unskillful qualities, with lack of conscience and prudence following along, and that knowledge does the same for the skillful. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(38px, 5vw, 50px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Itivuttaka</a><span>&rsaquo;</span>Iti 40
+  </nav>
+
+  <div class="sutta-number">Itivuttaka &middot; Discourse 40</div>
+  <h1>Knowledge</h1>
+  <p class="subtitle"><em>Vijjāsutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>None given &mdash; no narrative frame, as with almost every discourse in this collection</dd>
+      <dt>Speaker</dt><dd>The Buddha alone</dd>
+      <dt>Form</dt><dd>A two-part prose statement about sequence, restated in a three-stanza verse</dd>
+      <dt>Position</dt><dd>The Book of the Twos, Chapter Two, the 3rd of its discourses; the source text marks its end as the close of the Itivuttaka&rsquo;s first recitation section (<em>paṭhama-bhāṇavāra</em>)</dd>
+      <dt>Length</dt><dd>&lt; 1 minute to read</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&#9734;&#9734;&#9734; &mdash; a compact claim about sequence, worth reading against the wider canon&rsquo;s longer causal chain</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>What comes first: ignorance, or the lack of shame that follows it</h2>
+    <p class="lede">
+      This discourse makes a claim about sequence: ignorance does not simply accompany unskillful action, it precedes it, with the absence of conscience and prudence following along afterward &mdash; and knowledge does the same for skillful action, in reverse. It is a compact statement about what actually starts the chain, worth reading against the wider canon&rsquo;s much longer account of exactly that kind of chain.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Ignorance comes first, before the arising of unskillful qualities, with lack of conscience and lack of prudence following along after; knowledge comes first, before the arising of skillful qualities, with conscience and prudence following along after.
+    </p>
+
+    <h3><em>Pubbaṅgama</em> &mdash; what goes first</h3>
+    <p>
+      The key word describing ignorance&rsquo;s (and knowledge&rsquo;s) role is <em>pubbaṅgama</em>, &ldquo;going before, a forerunner.&rdquo; The claim is not merely that ignorance and moral carelessness travel together; it specifies a direction &mdash; ignorance leads, and the erosion of conscience and prudence trails behind it, &ldquo;following along.&rdquo;
+    </p>
+
+    <h3><em>Hirī</em> and <em>ottappa</em>, the two guardians</h3>
+    <p>
+      Conscience (<em>hirī</em>, an inner sense of shame at wrongdoing) and prudence (<em>ottappa</em>, dread of the consequences of wrongdoing) are traditionally described elsewhere in the canon as the world&rsquo;s two guardians, the qualities that keep ordinary decency intact. Here they are treated as downstream effects rather than as the starting point &mdash; a person does not lose conscience and prudence for no reason; ignorance is what erodes them first.
+    </p>
+
+    <h3>A short chain, not the twelve-link one</h3>
+    <p>
+      Readers familiar with the classical twelve-link chain of dependent origination &mdash; which also opens with <em>avijjā</em>, ignorance, as its first link &mdash; will recognize the shape here, though this discourse gives only a short, two-step version of it, ending in the arising of unskillful or skillful qualities rather than tracing the fuller path through to suffering itself.
+    </p>
+
+    <h3>The verse&rsquo;s diagnosis, and its remedy</h3>
+    <p>
+      The verse widens the frame: all &ldquo;bad destinies,&rdquo; in this world or the next, are said to be rooted in ignorance, compounded with greed and desire; a person of corrupt wishes, lacking conscience, brims with wickedness and heads for &ldquo;a place of loss.&rdquo; The remedy named is exactly the reverse of the diagnosis: dispelling desire, greed, and ignorance, and arousing knowledge in their place.
+    </p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">avijjā</span> &mdash; &ldquo;ignorance&rdquo;: named here as the forerunner (<em>pubbaṅgama</em>) of unskillful qualities, with the erosion of conscience and prudence following.
+      </div>
+      <div class="term">
+        <span class="pali-word">vijjā</span> &mdash; &ldquo;knowledge&rdquo;: the positive counterpart, forerunner of skillful qualities.
+      </div>
+      <div class="term">
+        <span class="pali-word">hirī</span> &mdash; &ldquo;conscience, moral shame&rdquo;: one of the &ldquo;two guardians of the world&rdquo; in the wider canon, here named as a downstream effect of knowledge, or, absent, of ignorance.
+      </div>
+      <div class="term">
+        <span class="pali-word">ottappa</span> &mdash; &ldquo;prudence, moral dread of wrongdoing&rdquo;: paired with <em>hirī</em> throughout the canon as the second guardian.
+      </div>
+      <div class="term">
+        <span class="pali-word">pubbaṅgama</span> &mdash; &ldquo;forerunner, what goes before&rdquo;: the term specifying that ignorance, or knowledge, leads, rather than merely accompanies, what follows.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The discourse in full &mdash; a compact statement about sequence and its widening, three-stanza restating verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <p><span class="segno">&sect;1</span>This was said by the Buddha, the Perfected One: that is what I heard.</p>
+
+      <p><span class="segno">&sect;2</span>&ldquo;Mendicants, ignorance precedes the attainment of unskillful qualities, with lack of conscience and prudence following along. Knowledge precedes the attainment of skillful qualities, with conscience and prudence following along.&rdquo; The Buddha spoke this matter. On this it is said:</p>
+
+      <p><span class="segno">&sect;3</span>&ldquo;Bad destinies of whatever kind,<br>
+      in this world or the next,<br>
+      are all rooted in ignorance,<br>
+      compounded of greed and desire.</p>
+
+      <p><span class="segno">&sect;4</span>Since one of corrupt wishes is<br>
+      unconscientious, lacking regard for others,<br>
+      they brim with much wickedness,<br>
+      which sends them to a place of loss.</p>
+
+      <p><span class="segno">&sect;5</span>Therefore, dispelling desire<br>
+      and greed and ignorance,<br>
+      a mendicant arousing knowledge<br>
+      would abandon all bad destinies.&rdquo;</p>
+
+      <p><span class="segno">&sect;6</span>This too is a matter that was spoken by the Blessed One: that is what I heard.</p>
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">According to this discourse, what precedes the attainment of unskillful qualities?</div>
+        <button class="opt">Poverty</button>
+        <button class="opt">Ignorance, with lack of conscience and prudence following along</button>
+        <button class="opt">Bad company</button>
+        <button class="opt">Illness</button>
+        <div class="expl"><strong>Correct: B.</strong> Ignorance is named as the forerunner, not merely a companion, of unskillful qualities.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What precedes the attainment of skillful qualities, according to the text?</div>
+        <button class="opt">Wealth</button>
+        <button class="opt">Good company alone</button>
+        <button class="opt">Knowledge, with conscience and prudence following along</button>
+        <button class="opt">A teacher&rsquo;s blessing</button>
+        <div class="expl"><strong>Correct: C.</strong> This is the exact positive mirror of the discourse&rsquo;s first claim.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">According to the reading guide, what does <em>pubbaṅgama</em> specify, beyond simple accompaniment?</div>
+        <button class="opt">A direction &mdash; ignorance (or knowledge) leads, and conscience and prudence (or their absence) trail behind it</button>
+        <button class="opt">A location, not a sequence</button>
+        <button class="opt">A number, referring to exactly two qualities</button>
+        <button class="opt">A time of day</button>
+        <div class="expl"><strong>Correct: A.</strong> The word means &ldquo;forerunner, going before.&rdquo;</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">According to the reading guide, what are <em>hirī</em> and <em>ottappa</em> traditionally called elsewhere in the canon?</div>
+        <button class="opt">The four noble truths</button>
+        <button class="opt">The five hindrances</button>
+        <button class="opt">The seven factors of awakening</button>
+        <button class="opt">The two guardians of the world</button>
+        <div class="expl"><strong>Correct: D.</strong> Conscience and prudence are said to keep ordinary decency intact.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">According to the verse, what are &ldquo;bad destinies of whatever kind&rdquo; said to be rooted in?</div>
+        <button class="opt">Bad luck alone</button>
+        <button class="opt">Ignorance, compounded of greed and desire</button>
+        <button class="opt">The actions of other people only</button>
+        <button class="opt">Physical weakness</button>
+        <div class="expl"><strong>Correct: B.</strong> The verse widens the prose statement into a fuller diagnosis.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What remedy does the verse&rsquo;s final stanza prescribe?</div>
+        <button class="opt">Accumulating wealth to give away later</button>
+        <button class="opt">Withdrawing from all society</button>
+        <button class="opt">Dispelling desire, greed, and ignorance, and arousing knowledge in their place</button>
+        <button class="opt">Waiting for a future Buddha to appear</button>
+        <div class="expl"><strong>Correct: C.</strong> The remedy is the exact reverse of the diagnosis given in the previous stanza.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">According to the reading guide, what does this discourse share with the classical twelve-link chain of dependent origination?</div>
+        <button class="opt">Both open with ignorance (<em>avijjā</em>) as the first link, though this discourse gives only a short, two-step version rather than the full twelve-link chain</button>
+        <button class="opt">Both are exactly twelve segments long</button>
+        <button class="opt">Both were spoken at the same location</button>
+        <button class="opt">Neither mentions ignorance at all</button>
+        <div class="expl"><strong>Correct: A.</strong> This discourse ends at the arising of unskillful or skillful qualities, not the fuller chain through to suffering.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">Where does this discourse fall within the Book of the Twos, and what else does the source text mark at its end?</div>
+        <button class="opt">The 1st of Chapter One; nothing else is marked</button>
+        <button class="opt">The last discourse of the whole Itivuttaka; nothing else is marked</button>
+        <button class="opt">The 1st of Chapter Two; it marks the end of a vagga</button>
+        <button class="opt">The 3rd of Chapter Two; the source text marks its end as the close of the Itivuttaka&rsquo;s first recitation section (<em>paṭhama-bhāṇavāra</em>)</button>
+        <div class="expl"><strong>Correct: D.</strong> This is a manuscript-recitation marker, distinct from the chapter (vagga) divisions.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">Is any narrative setting or specific audience named in this discourse?</div>
+        <button class="opt">Yes, it is addressed to King Ajātasattu</button>
+        <button class="opt">No &mdash; as with almost every discourse in this collection, no setting is given</button>
+        <button class="opt">Yes, it is set at the Deer Park</button>
+        <button class="opt">Yes, it is given to a group of brahmins</button>
+        <div class="expl"><strong>Correct: B.</strong> The text opens directly with the fixed attribution formula.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What is this discourse&rsquo;s exact closing attribution line?</div>
+        <button class="opt">&ldquo;Thus ends the first recitation section.&rdquo;</button>
+        <button class="opt">&ldquo;May knowledge arise in all beings.&rdquo;</button>
+        <button class="opt">&ldquo;This too is a matter that was spoken by the Blessed One: that is what I heard.&rdquo;</button>
+        <button class="opt">&ldquo;And the mendicants were satisfied.&rdquo;</button>
+        <div class="expl"><strong>Correct: C.</strong> This fixed closing formula ends every discourse in the collection.</div>
+      </div>
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">The sequence</div>
+      <ul>
+        <li>ignorance &rarr; lack of conscience/prudence</li>
+        <li>knowledge &rarr; conscience/prudence</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">The two guardians</div>
+      <ul>
+        <li>hirī &mdash; conscience</li>
+        <li>ottappa &mdash; prudence</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">The verse</div>
+      <ul>
+        <li>bad destinies rooted in ignorance</li>
+        <li>+ greed and desire</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>SN 12.1 &middot; Dependent Origination</li>
+        <li>Iti 34 &middot; ottāpī root shared</li>
+        <li>Iti 39 &middot; previous discourse</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/iti40/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.</li>
+      <li><a href="../samyutta-nikaya/sn-12.1.html">SN 12.1 &middot; Dependent Origination</a> &mdash; the classic twelve-link chain, which also opens with ignorance as its first link.</li>
+      <li><a href="iti-39.html">Iti 39 &middot; Teaching</a> &mdash; the previous discourse, on the Buddha&rsquo;s method of teaching.</li>
+      <li><a href="iti-41.html">Iti 41</a> &mdash; the next discourse in the collection.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="iti-39.html"><span class="label">&larr; Previous</span>Iti 39 &middot; Teaching</a>
+    <a href="iti-41.html" class="next"><span class="label">Next &rarr;</span>Iti 41</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
