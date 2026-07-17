@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Chapter of Pure Conduct — Jìngxíng Pǐn 淨行品 | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide and full Chinese-and-English text for the Chapter of Pure Conduct (淨行品) from the Avataṃsaka Sūtra — 141 vow-verses that turn every act of daily life, from washing hands to walking a road, into a wish for the awakening of all beings. Written in plain English for Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16.png">
+  <link rel="icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(38px, 5.2vw, 52px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 8px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 150px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+  .glance .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 17px;
+  }
+  th, td {
+    text-align: left;
+    padding: 9px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+  }
+  td .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+  td.range { font-family: Georgia, serif; color: #8c2f12; white-space: nowrap; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; font-style: normal; }
+
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-block { color: #1a1a1a; }
+  .verse {
+    margin-bottom: 8px;
+    padding: 16px 0 18px;
+    border-bottom: 1px solid #eef0f2;
+    display: grid;
+    grid-template-columns: 34px 1fr;
+    gap: 4px 14px;
+  }
+  .verse:last-of-type { border-bottom: none; }
+  .verse .vnum {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    color: #b8431c;
+    padding-top: 4px;
+  }
+  .verse .vbody { min-width: 0; }
+  .verse .zh {
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    font-size: 21px;
+    color: #1a1a1a;
+    line-height: 1.85;
+    letter-spacing: 0.02em;
+    margin-bottom: 8px;
+  }
+  .verse .en {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    color: #34383f;
+    line-height: 1.7;
+    margin: 0;
+  }
+  .movement {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #8c2f12;
+    font-weight: 600;
+    margin: 40px 0 4px;
+  }
+  .movement:first-child { margin-top: 6px; }
+  .movement .zh {
+    font-family: "PingFang TC", "Microsoft JhengHei", serif;
+    text-transform: none;
+    color: #6b6b6b;
+    font-weight: 400;
+    margin-left: 8px;
+    letter-spacing: 0.02em;
+  }
+  .movement-note {
+    font-size: 15.5px;
+    color: #6b6b6b;
+    margin-bottom: 18px;
+  }
+  .movement-stub {
+    background: #fafbfc;
+    border: 1px dashed #dee2e6;
+    border-radius: 6px;
+    padding: 16px 20px;
+    margin-bottom: 40px;
+    font-size: 16.5px;
+    color: #6b6b6b;
+  }
+  .movement-stub strong { color: #4a4a4a; }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .q-text .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+  .quiz .opt {
+    display: block; width: 100%; text-align: left;
+    background: #fff; border: 1px solid #dee2e6; border-radius: 4px;
+    padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23;
+    cursor: pointer; font-family: inherit; line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  ✓"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  ✗"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl {
+    display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc;
+    border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a;
+    line-height: 1.65; border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .quiz .expl .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+  .score-bar {
+    margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6;
+    border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6;
+    font-size: 17px; color: #6b6b6b; text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0;
+    border-top: 1px solid #dee2e6; font-size: 17px; gap: 16px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em;
+    text-transform: uppercase; margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+  .nav-prev-next .muted { color: #b0b0b0; cursor: default; }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+<div class="container">
+
+  <nav class="crumb">
+    <a href="/">Ru-Yi Meditation Center</a><span>›</span><a href="/dharma/">Dharma</a><span>›</span><a href="./">Mahāyāna Sūtras</a><span>›</span>The Chapter of Pure Conduct
+  </nav>
+
+  <div class="sutta-number">Mahāyāna · The Avataṃsaka Sūtra</div>
+  <h1>The Chapter of Pure Conduct</h1>
+  <p class="subtitle"><em>Jìngxíng Pǐn</em><span class="zh">淨行品</span></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Chinese</dt><dd><span class="zh">《大方廣佛華嚴經》〈淨行品第十一〉</span> — fascicle 14 of the 80-fascicle Avataṃsaka, translated by Śikṣānanda (<span class="zh">實叉難陀</span>), completed 699 CE (Taishō T279)</dd>
+      <dt>Also appears as</dt><dd><span class="zh">〈淨行品第七〉</span> in the 60-fascicle Avataṃsaka, translated by Buddhabhadra (<span class="zh">佛馱跋陀羅</span>), 418–420 CE (Taishō T278)</dd>
+      <dt>Tradition</dt><dd>Mahāyāna — the Avataṃsaka (Huayan, <span class="zh">華嚴</span>) literature</dd>
+      <dt>Speaker</dt><dd>Mañjuśrī Bodhisattva (<span class="zh">文殊師利菩薩</span>), answering a question from Bodhisattva Sudhīmati (<span class="zh">智首菩薩</span>, "Foremost in Wisdom")</dd>
+      <dt>Length</dt><dd>141 four-line vow-verses (<em>gāthā</em>), each keyed to one moment of ordinary life</dd>
+      <dt>On this page</dt><dd>Full reading guide and background now; Section I of IX (<em>Living at Home</em>, 11 verses) translated in full. The remaining eight sections are mapped below and will be added next.</dd>
+    </dl>
+  </div>
+
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Origins, structure &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Chinese &amp; English, verse by verse</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">6-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      A bodhisattva who <strong>skillfully applies the mind</strong> — <span class="zh">善用其心</span> — turns every single act of an ordinary day, from putting on a robe to washing a bowl, into a wish for the awakening of all beings; nothing is too small to be practice, and nothing is left outside the path.
+    </p>
+
+    <h3>Where it sits in the Avataṃsaka</h3>
+    <p>
+      The Avataṃsaka Sūtra (<span class="zh">華嚴經</span>, the "Flower Garland Sūtra") is one of the largest and most cosmic scriptures in the Mahāyāna canon — an ocean of interpenetrating worlds, radiant Buddhas, and the fifty-two stages of the bodhisattva path. Inside that vastness, the Chapter of Pure Conduct is something different: a close, practical, almost domestic text. It has no cosmic vision, no other-world Buddha. It simply asks — and then answers, 141 times — how a single day of an ordinary practitioner's life can be turned entirely toward the liberation of others.
+    </p>
+    <p>
+      This intimacy of scale is exactly why the chapter has always circulated more widely, and been chanted more often, than almost anything else in the Avataṃsaka. It is the one part of this enormous sūtra you can actually carry into a kitchen, a hallway, or a hospital room.
+    </p>
+
+    <h3>A text older than the sūtra it lives in</h3>
+    <p>
+      The Chapter of Pure Conduct did not start out as a chapter. It circulated independently for centuries before it was folded into the Avataṃsaka — the clearest sign of how prized it was on its own. The earliest known Chinese translation is Lokakṣema's <span class="zh">《諸菩薩求佛本業經》</span> (2nd century CE, Eastern Han); Zhi Qian of the Wu kingdom translated it again in the 3rd century as <span class="zh">《菩薩本業經》</span>, in the <span class="zh">〈願行品〉</span> section, and it was Zhi Qian who first cast the material into the verse form used ever since. Two later translators then absorbed it into the full Avataṃsaka: Buddhabhadra placed it as chapter 7 of the 60-fascicle version (418–420 CE), and Śikṣānanda placed it as chapter 11 of the 80-fascicle version (completed 699 CE) — the translation used on this page, and the most widely read of the four surviving versions.
+    </p>
+
+    <h3>The question: what Sudhīmati asks</h3>
+    <p>
+      The chapter opens with Bodhisattva Sudhīmati (<span class="zh">智首</span>, literally "wisdom foremost") putting ten sets of questions to Mañjuśrī — around a hundred qualities in all — asking how a bodhisattva can obtain each one. The questions climb from the most basic (flawless conduct) to the most exalted (the ten powers of a Buddha):
+    </p>
+    <table>
+      <thead><tr><th>Set</th><th>Chinese</th><th>Asking how to obtain…</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td class="zh">十種三業</td><td>ten qualities of body, speech, and mind — flawless, harmless, unshakable, pure, wisdom-led…</td></tr>
+        <tr><td>2</td><td class="zh">十種具足</td><td>ten kinds of completeness — birth, lineage, family, form, mindfulness, wisdom, fearlessness…</td></tr>
+        <tr><td>3</td><td class="zh">十種慧</td><td>ten kinds of wisdom — supreme, measureless, inconceivable, ineffable…</td></tr>
+        <tr><td>4</td><td class="zh">十力</td><td>ten inner powers — of aspiration, of skillful means, of calm-abiding, of insight…</td></tr>
+        <tr><td>5</td><td class="zh">十種善巧</td><td>ten kinds of skillful mastery — of the aggregates, the elements, dependent origination…</td></tr>
+        <tr><td>6</td><td class="zh">七覺分、三解脫門</td><td>the seven factors of awakening, and the three gates of liberation — emptiness, signlessness, wishlessness</td></tr>
+        <tr><td>7</td><td class="zh">六度、四無量</td><td>the six perfections and the four immeasurables — loving-kindness, compassion, joy, equanimity</td></tr>
+        <tr><td>8</td><td class="zh">十智力</td><td>the ten powers of knowledge of a Buddha — karma across the three times, the unobstructed divine eye…</td></tr>
+        <tr><td>9</td><td class="zh">十王護持</td><td>the reverence and protection of ten kinds of kings, divine and human</td></tr>
+        <tr><td>10</td><td class="zh">十種為依、十種超勝</td><td>being a refuge, a torch, a guide for all beings — and being foremost among all beings</td></tr>
+      </tbody>
+    </table>
+    <p>
+      It is a formidable list — the entire résumé of a Buddha, in outline. The drama of the chapter is that Mañjuśrī does not answer it point by point. He answers it with a single principle, and then shows what that principle looks like at breakfast.
+    </p>
+
+    <h3>The answer: "skillfully applying the mind"</h3>
+    <p>
+      Mañjuśrī opens by praising the question — <span class="zh">善哉！佛子，汝今為欲多所饒益，多所安隱，哀愍世間，利樂天人，問如是義</span>, "Excellent, child of the Buddha — you ask this wishing to benefit many, bring peace to many, have compassion for the world, and bring welfare to gods and humans." Then he collapses the entire hundred-item list into one sentence:
+    </p>
+    <p class="lede">
+      <span class="zh">若諸菩薩善用其心，則獲一切勝妙功德。</span><br>
+      "If a bodhisattva skillfully applies the mind, every supreme and wondrous virtue follows."
+    </p>
+    <p>
+      Everything else in the chapter — all 141 verses — is Mañjuśrī making good on that claim, scene by scene. Nothing further is asked of the reader: no austerity, no special circumstance, no monastery required to start. The entire path is contained in <em>how the mind meets each moment</em>. This is also why the chapter closes, after the last verse, by circling back to the very same phrase, now in the past tense: a bodhisattva who has practiced <em>this way</em> — <span class="zh">若諸菩薩如是用心，則獲一切勝妙功德</span> — becomes unshakable by the whole world, including gods, māras, and even the more limited attainments of the Śrāvaka and Pratyekabuddha vehicles.
+    </p>
+
+    <h3>The form: one thing seen, one wish made</h3>
+    <p>
+      Each of the 141 verses follows the same four-part shape, tightened by Zhi Qian into verse form and kept ever since:
+    </p>
+    <ol>
+      <li><strong>An ordinary moment</strong> — a scene from daily life: waking, dressing, walking a road, seeing a bridge, eating, going to sleep.</li>
+      <li><strong>The turn</strong> — the fixed phrase <span class="zh">當願眾生</span>, "the wish: may all beings…" This hinge is what makes the chapter a practice and not a poem. Nothing is only noticed; everything is <em>dedicated</em>.</li>
+      <li><strong>The wish</strong> — usually two matched four-character clauses, drawing some quality out of the concrete image: a bridge becomes a wish to carry all beings across; muddy water becomes a wish to wash away affliction; a locked door becomes a wish to enter the gate of the Dharma.</li>
+      <li><strong>Nothing more.</strong> No verse explains itself. The four lines are the whole practice — see, turn, wish, move on to the next thing.</li>
+    </ol>
+    <p>
+      A well-known example, from later in the chapter (not yet translated on this page — see the map below): seeing a bridge on the road, <span class="zh">若見橋道，當願眾生，廣度一切，猶如橋梁</span> — "may all beings be widely carried across, like a bridge." The genius of the form is how ordinary the trigger is and how large the wish becomes.
+    </p>
+
+    <h3>The nine sections</h3>
+    <p>
+      The 141 verses have no headings in the sūtra itself, but the great Huayan commentator Chengguan (<span class="zh">澄觀</span>, 738–839 CE), National Master Qingliang, divided them into nine movements in his <span class="zh">《華嚴經疏鈔》</span>, tracing a single day of a monastic's life from home to sleep. That division, still used in study and chanting today, structures the text on this page:
+    </p>
+    <table>
+      <thead><tr><th>#</th><th>Chinese</th><th>Section</th><th class="range">Verses</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr><td>I</td><td class="zh">明菩薩在家時願</td><td>Living at Home</td><td class="range">1–11</td><td>Live now</td></tr>
+        <tr><td>II</td><td class="zh">明創出家時願</td><td>Going Forth</td><td class="range">12–27</td><td>In preparation</td></tr>
+        <tr><td>III</td><td class="zh">明修禪定時願</td><td>Sitting in Meditation</td><td class="range">28–32</td><td>In preparation</td></tr>
+        <tr><td>IV</td><td class="zh">明住處進止威儀時願</td><td>Deportment at the Dwelling</td><td class="range">33–46</td><td>In preparation</td></tr>
+        <tr><td>V</td><td class="zh">明乞食教化時願</td><td>Setting Out to Teach and Beg</td><td class="range">47–49</td><td>In preparation</td></tr>
+        <tr><td>VI</td><td class="zh">明在路見聞諸事時願</td><td>On the Road</td><td class="range">50–104</td><td>In preparation</td></tr>
+        <tr><td>VII</td><td class="zh">明至聚落乞食時願</td><td>Begging in the Village</td><td class="range">105–128</td><td>In preparation</td></tr>
+        <tr><td>VIII</td><td class="zh">明食訖禮誦時願</td><td>After the Meal: Chanting and Veneration</td><td class="range">129–138</td><td>In preparation</td></tr>
+        <tr><td>IX</td><td class="zh">明晝夜寢覺時願</td><td>Waking and Sleeping</td><td class="range">139–141</td><td>In preparation</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Notice the shape of the day this traces: home, ordination, meditation, dressing and washing, setting out, the long walk into town noticing everything along the way (by far the largest section — over a third of the whole chapter), begging house to house, the meal, chanting and bowing before returning, and finally sleep. The mundane and the monastic are not separated; the text simply keeps walking, and keeps turning what it sees into a vow.
+    </p>
+
+    <h3>Why the small things get so much attention</h3>
+    <p>
+      Western readers often expect a sacred text to reserve its intensity for extraordinary moments — a vision, a crisis, a death. This chapter does the opposite. It gives exactly the same four-line treatment to seeing a beautiful sunrise and to using the toilet, to entering deep meditation and to putting on socks. That is the point, not an oversight. If liberation is only available in rare, elevated states, then most of a human life — the eating, dressing, walking, waiting — is wasted time. The Chapter of Pure Conduct refuses that. Every object the eye lands on, every task the hand performs, is treated as sufficient material for the entire bodhisattva path, provided the mind turns it toward all beings. This is also why the chapter has always resonated beyond monastic life: a layperson chanting these verses over a sink of dishes is doing exactly what the text asks.
+    </p>
+
+    <h3>How to actually use this text</h3>
+    <ol>
+      <li><strong>Read one section at a time.</strong> The chapter is not meant to be absorbed in one sitting; it is meant to be lived in, section by section, day by day.</li>
+      <li><strong>Borrow the form for your own day.</strong> The deepest use of this text is not memorization but imitation — noticing an ordinary moment in your own life and silently completing it with <em>the wish: may all beings…</em> Boiling water, opening a laptop, waiting at a red light are all fair game; the sūtra's own list was never meant to be exhaustive.</li>
+      <li><strong>Chant a section before or after the activity it describes.</strong> Section I suits a quiet moment at home; the verses on washing (in Section IV, forthcoming) suit standing at a sink; the closing verses on sleep (Section IX, forthcoming) suit the edge of the bed.</li>
+    </ol>
+
+    <h3>Two questions readers often ask</h3>
+    <p><strong>"Isn't wishing something for other people, silently, just sentiment — does it actually do anything?"</strong> In the Mahāyāna, a formally made wish directed at the awakening of others is not decoration; it is <em>puṇya-pariṇāmanā</em>, the dedication or "turning-over" of merit — a technical act with real weight in the tradition, not unlike setting an intention that shapes everything that follows it. The chapter trains this dedication until it becomes reflexive: not something remembered occasionally, but the mind's default response to whatever it meets.</p>
+    <p><strong>"Why does a text about compassion for all beings spend so much time on physical routines — teeth, robes, toilets?"</strong> Because the alternative is a compassion that only shows up for special occasions, which is to say, a compassion that is mostly absent. By anchoring the wish to the most repeated, least dramatic actions of a day, the chapter makes universal benevolence into a habit of attention rather than an occasional mood — something closer to what contemporary readers might recognize as mindfulness, but aimed outward, at the welfare of others, rather than only inward.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">Jìngxíng</span> <span class="zh">淨行</span> — "pure conduct" or "purifying practice." Conduct made pure not by withdrawing from ordinary activity but by turning every act, through a wish, toward the benefit of all beings.
+      </div>
+      <div class="term">
+        <span class="pali-word">dāng yuàn zhòngshēng</span> <span class="zh">當願眾生</span> — "the wish: may all beings…" The hinge phrase repeated in all 141 verses, turning a bare observation into a dedication.
+      </div>
+      <div class="term">
+        <span class="pali-word">gāthā</span> <span class="zh">偈頌</span> — a verse, typically four lines of four characters in the Chinese of this text. The literary unit of the whole chapter.
+      </div>
+      <div class="term">
+        <span class="pali-word">shàn yòng qí xīn</span> <span class="zh">善用其心</span> — "skillfully applying the mind." Mañjuśrī's one-sentence answer to Sudhīmati's hundred questions, and the thesis the rest of the chapter demonstrates.
+      </div>
+      <div class="term">
+        <span class="pali-word">Sudhīmati</span> <span class="zh">智首菩薩</span> — "Wisdom Foremost," the bodhisattva who asks the opening questions.
+      </div>
+      <div class="term">
+        <span class="pali-word">Mañjuśrī</span> <span class="zh">文殊師利菩薩</span> — the bodhisattva of wisdom, who answers with the 141 verses.
+      </div>
+      <div class="term">
+        <span class="pali-word">pariṇāmanā</span> <span class="zh">迴向</span> — dedication, the "turning over" of merit or intention toward the awakening of others; the technical act each verse performs.
+      </div>
+      <div class="term">
+        <span class="pali-word">bodhisattva</span> <span class="zh">菩薩</span> — one bound for full buddhahood who practises for the sake of all beings.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      Chinese source: Śikṣānanda's 699 CE translation, Taishō T279, fascicle 14 (<span class="zh">大方廣佛華嚴經</span>, CBETA), the version chanted across East Asia today. The nine section divisions follow Chengguan's <span class="zh">《華嚴經疏鈔》</span>. English translation made fresh for Ru-Yi Meditation Center, kept plain and close to the Chinese. Section I is complete; the remaining sections are mapped with their Chinese section titles and verse counts and will be added as translation continues.
+    </div>
+
+    <div class="text-block">
+
+      <div class="movement">I &nbsp;·&nbsp; Living at Home <span class="zh">明菩薩在家時願</span></div>
+      <div class="movement-note">Verses 1–11 — the bodhisattva still living as a householder.</div>
+
+      <div class="verse">
+        <div class="vnum">1</div>
+        <div class="vbody">
+          <div class="zh">菩薩在家，當願眾生，知家性空，免其逼迫。</div>
+          <p class="en">A bodhisattva living at home — the wish: may all beings know that "home" has no fixed nature of its own, and so be freed from its pressures.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">2</div>
+        <div class="vbody">
+          <div class="zh">孝事父母，當願眾生，善事於佛，護養一切。</div>
+          <p class="en">Serving parents with filial devotion — the wish: may all beings serve the Buddhas well, and protect and nurture all beings.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">3</div>
+        <div class="vbody">
+          <div class="zh">妻子集會，當願眾生，怨親平等，永離貪著。</div>
+          <p class="en">Gathered with spouse and children — the wish: may all beings see friend and foe as equal, forever free of craving and attachment.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">4</div>
+        <div class="vbody">
+          <div class="zh">若得五欲，當願眾生，拔除欲箭，究竟安隱。</div>
+          <p class="en">On obtaining the five desired pleasures — the wish: may all beings pull out the arrow of desire, and reach final peace.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">5</div>
+        <div class="vbody">
+          <div class="zh">伎樂聚會，當願眾生，以法自娛，了伎非實。</div>
+          <p class="en">At a gathering of music and entertainment — the wish: may all beings take their joy in the Dharma alone, understanding that such performances are not real.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">6</div>
+        <div class="vbody">
+          <div class="zh">若在宮室，當願眾生，入於聖地，永除穢欲。</div>
+          <p class="en">Dwelling in a fine chamber — the wish: may all beings enter the ground of the noble ones, and forever remove impure desire.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">7</div>
+        <div class="vbody">
+          <div class="zh">著瓔珞時，當願眾生，捨諸偽飾，到真實處。</div>
+          <p class="en">Putting on jeweled ornaments — the wish: may all beings cast off every false adornment, and arrive at the place of truth.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">8</div>
+        <div class="vbody">
+          <div class="zh">上升樓閣，當願眾生，升正法樓，徹見一切。</div>
+          <p class="en">Climbing up to a high tower — the wish: may all beings ascend the tower of the true Dharma, and see all things through and through.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">9</div>
+        <div class="vbody">
+          <div class="zh">若有所施，當願眾生，一切能捨，心無愛著。</div>
+          <p class="en">Giving something in charity — the wish: may all beings be able to give up everything, their minds free of clinging attachment.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">10</div>
+        <div class="vbody">
+          <div class="zh">眾會聚集，當願眾生，捨眾聚法，成一切智。</div>
+          <p class="en">Gathered together in a crowd — the wish: may all beings let go of the ways of the crowd, and accomplish the wisdom that knows all things.</p>
+        </div>
+      </div>
+      <div class="verse">
+        <div class="vnum">11</div>
+        <div class="vbody">
+          <div class="zh">若在厄難，當願眾生，隨意自在，所行無礙。</div>
+          <p class="en">Caught in difficulty and misfortune — the wish: may all beings move as freely as they wish, unobstructed in all they do.</p>
+        </div>
+      </div>
+
+      <div class="ending-mark">· · ·</div>
+
+      <div class="movement">II &nbsp;·&nbsp; Going Forth <span class="zh">明創出家時願</span></div>
+      <div class="movement-stub"><strong>Verses 12–27 (16 verses)</strong> — leaving the household, entering the monastery, taking the precepts. Chinese text confirmed from the Taishō source; English translation in preparation.</div>
+
+      <div class="movement">III &nbsp;·&nbsp; Sitting in Meditation <span class="zh">明修禪定時願</span></div>
+      <div class="movement-stub"><strong>Verses 28–32 (5 verses)</strong> — spreading the sitting mat, taking the cross-legged posture, entering samādhi. In preparation.</div>
+
+      <div class="movement">IV &nbsp;·&nbsp; Deportment at the Dwelling <span class="zh">明住處進止威儀時願</span></div>
+      <div class="movement-stub"><strong>Verses 33–46 (14 verses)</strong> — rising, dressing, brushing the teeth, washing hands and face. In preparation.</div>
+
+      <div class="movement">V &nbsp;·&nbsp; Setting Out to Teach and Beg <span class="zh">明乞食教化時願</span></div>
+      <div class="movement-stub"><strong>Verses 47–49 (3 verses)</strong> — taking up the staff and bowl, setting out on the road. In preparation.</div>
+
+      <div class="movement">VI &nbsp;·&nbsp; On the Road <span class="zh">明在路見聞諸事時願</span></div>
+      <div class="movement-stub"><strong>Verses 50–104 (55 verses)</strong> — by far the longest section: bridges, rivers, trees, mountains, and every kind of person met along the way. In preparation.</div>
+
+      <div class="movement">VII &nbsp;·&nbsp; Begging in the Village <span class="zh">明至聚落乞食時願</span></div>
+      <div class="movement-stub"><strong>Verses 105–128 (24 verses)</strong> — entering the village door to door, receiving food, eating the meal. In preparation.</div>
+
+      <div class="movement">VIII &nbsp;·&nbsp; After the Meal: Chanting and Veneration <span class="zh">明食訖禮誦時願</span></div>
+      <div class="movement-stub"><strong>Verses 129–138 (10 verses)</strong> — reciting scripture, seeing the Buddha, circling and bowing before a stūpa. In preparation.</div>
+
+      <div class="movement">IX &nbsp;·&nbsp; Waking and Sleeping <span class="zh">明晝夜寢覺時願</span></div>
+      <div class="movement-stub"><strong>Verses 139–141 (3 verses)</strong> — washing the feet, lying down to rest, and the moment of waking. In preparation.</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Six questions, covering the background and Section I. Click an answer to see immediate feedback. No score is recorded.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 6</span>
+        <div class="q-text">What does the title <span class="zh">淨行</span> (<em>Jìngxíng</em>, "Pure Conduct") point to?</div>
+        <button class="opt">Withdrawing from ordinary life into monastic seclusion</button>
+        <button class="opt">A special ritual of purification performed once a year</button>
+        <button class="opt">Turning every act of ordinary life, through a wish, toward the benefit of all beings</button>
+        <button class="opt">Following a strict list of dietary rules</button>
+        <div class="expl"><strong>Correct: C.</strong> The chapter's 141 verses apply the same treatment to washing hands, walking a road, and sitting in meditation — nothing is excluded from practice; conduct becomes "pure" through the wish that accompanies it, not through withdrawal from daily life.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 6</span>
+        <div class="q-text">Who asks the opening questions, and who answers with the 141 verses?</div>
+        <button class="opt">The Buddha asks; Avalokiteśvara answers</button>
+        <button class="opt">Bodhisattva Sudhīmati (<span class="zh">智首</span>) asks; Mañjuśrī (<span class="zh">文殊師利</span>) answers</button>
+        <button class="opt">Śāriputra asks; the Buddha answers</button>
+        <button class="opt">Mañjuśrī asks; Samantabhadra answers</button>
+        <div class="expl"><strong>Correct: B.</strong> Sudhīmati puts about a hundred questions to Mañjuśrī, who collapses them into a single principle — "skillfully applying the mind" — and then demonstrates it verse by verse.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 3 of 6</span>
+        <div class="q-text">Mañjuśrī's one-sentence answer to Sudhīmati's long list of questions is:</div>
+        <button class="opt">"All questions are empty of self-nature"</button>
+        <button class="opt">"Only monastics can attain these qualities"</button>
+        <button class="opt">"Form is emptiness, emptiness is form"</button>
+        <button class="opt">"若諸菩薩善用其心，則獲一切勝妙功德" — if a bodhisattva skillfully applies the mind, every supreme virtue follows</button>
+        <div class="expl"><strong>Correct: D.</strong> This single sentence is the thesis of the entire chapter. The 141 verses that follow are not a new topic — they are Mañjuśrī showing exactly what "skillfully applying the mind" looks like, moment by moment, through a single day.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 4 of 6</span>
+        <div class="q-text">What is the fixed hinge phrase repeated in every one of the 141 verses?</div>
+        <button class="opt"><span class="zh">當願眾生</span> — "the wish: may all beings…"</button>
+        <button class="opt"><span class="zh">色即是空</span> — "form is emptiness"</button>
+        <button class="opt"><span class="zh">南無阿彌陀佛</span> — homage to Amitābha Buddha</button>
+        <button class="opt"><span class="zh">如是我聞</span> — "thus have I heard"</button>
+        <div class="expl"><strong>Correct: A.</strong> This is the hinge that turns a bare observation into a dedication (<em>pariṇāmanā</em>) — the technical act each verse performs, and the reason the text is a practice rather than a description.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 5 of 6</span>
+        <div class="q-text">Before it became a chapter of the Avataṃsaka Sūtra, this text:</div>
+        <button class="opt">Did not exist — it was composed specifically for the 80-fascicle Avataṃsaka</button>
+        <button class="opt">Was part of the Lotus Sūtra</button>
+        <button class="opt">Circulated independently for centuries, translated as early as the 2nd century CE under titles including <span class="zh">《菩薩本業經》</span></button>
+        <button class="opt">Existed only as an oral chant, never written down</button>
+        <div class="expl"><strong>Correct: C.</strong> Lokakṣema translated an early version in the 2nd century; Zhi Qian translated it again in the 3rd century and cast it into verse form. It was only later absorbed into the 60-fascicle (5th c.) and then 80-fascicle (7th c.) Avataṃsaka as a chapter.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 6</span>
+        <div class="q-text">In Section I (<em>Living at Home</em>), verse 3 — "Gathered with spouse and children" (<span class="zh">妻子集會</span>) — pairs with which wish?</div>
+        <button class="opt">May all beings renounce family life immediately</button>
+        <button class="opt">May all beings see friend and foe as equal, forever free of craving and attachment</button>
+        <button class="opt">May all beings gain wealth and worldly success</button>
+        <button class="opt">May all beings be reborn in a Pure Land</button>
+        <div class="expl"><strong>Correct: B.</strong> The verse does not ask the householder to leave the scene — it asks the mind to meet it differently: seeing spouse and children with the same even-handedness extended to everyone, rather than through the grip of attachment.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 6 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://cbetaonline.dila.edu.tw/en/T0279_014" target="_blank" rel="noopener">Śikṣānanda's Chinese text · Taishō T279, fascicle 14</a> — the source text of this page, at CBETA (Chinese Buddhist Electronic Text Association).</li>
+      <li><a href="https://www.huayencollege.org/" target="_blank" rel="noopener">Huayen College (<span class="zh">華嚴專宗學院</span>) research papers on the Chapter of Pure Conduct</a> — scholarly studies of the chapter's textual history and the interpretation of <span class="zh">當願眾生</span>.</li>
+      <li>Thomas Cleary, <em>The Flower Ornament Scripture: A Translation of the Avatamsaka Sutra</em> (Shambhala, 1993) — the standard complete English translation of the 80-fascicle Avataṃsaka, including this chapter.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="./"><span class="label">← Collection</span>All Mahāyāna Sūtras</a>
+    <span class="next muted"><span class="label">Next →</span>Section II · Going Forth — in preparation</span>
+  </div>
+
+  <footer>
+    <p>A series at <a href="/">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">Chinese source: Śikṣānanda's translation (699&nbsp;CE), Taishō T279, public domain. Section divisions after Chengguan's <span class="zh">《華嚴經疏鈔》</span>. English translation and reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+
+</div>
+
+<script>
+(function() {
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
