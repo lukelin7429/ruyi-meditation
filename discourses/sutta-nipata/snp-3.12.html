@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Snp 3.12 &mdash; Contemplating Pairs | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for the Dvayatānupassanāsutta &mdash; a long, systematic discourse contemplating suffering and its cessation as a fundamental pair, worked through from sixteen different analytical angles echoing the Saṃyutta Nikāya's teaching on dependent origination, closing the Mahāvagga as one of the longest suttas in the Sutta Nipāta. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(38px, 5vw, 50px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Sutta Nipāta</a><span>&rsaquo;</span>Snp 3.12
+  </nav>
+
+  <div class="sutta-number">Sutta Nipāta &middot; Discourse 3.12</div>
+  <h1>Contemplating Pairs</h1>
+  <p class="subtitle"><em>Dvayatānupassanāsutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Near Sāvatthī, in the stilt longhouse of Migāra&rsquo;s mother in the Eastern Monastery, on the sabbath &mdash; the full moon of the fifteenth day</dd>
+      <dt>Speakers</dt><dd>The Buddha, addressing the entire Saṅgha of mendicants seated in silence around him</dd>
+      <dt>Form</dt><dd>A long, systematic teaching &mdash; sixteen different ways of &ldquo;contemplating a pair,&rdquo; each stated first in prose as a question-and-answer, then restated in verse</dd>
+      <dt>Length</dt><dd>~18 minutes to read</dd>
+      <dt>Scale</dt><dd>One of the longest suttas in the entire Sutta Nipāta, and the discourse that closes the Mahāvagga</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&starf;&starf;&#9734; &mdash; the structure is highly repetitive, but the content tracks most of the links of dependent origination in close detail</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse</h2>
+    <p class="lede">
+      This sutta closes the Mahāvagga with its most demanding and most systematic teaching &mdash; sixteen separate ways of &ldquo;contemplating a pair,&rdquo; each one approaching the single underlying reality of suffering and its ending from a different angle: attachment, ignorance, choices, consciousness, contact, feeling, craving, grasping, and on through territory that closely tracks the twelve links of dependent origination already covered on this site in SN 12.1. What makes the sutta remarkable isn&rsquo;t just its length &mdash; among the longest in the whole collection &mdash; but its ending: while the Buddha is still speaking, sixty mendicants in the audience are freed from all defilements on the spot, a result the sutta itself simply states and moves past, without any fanfare at all.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+
+    <p>
+      Suffering and its cessation can be truly understood as a single &ldquo;pair&rdquo; approached from at least sixteen different angles &mdash; through attachment, ignorance, choices, consciousness, contact, feeling, craving, grasping, activity, sustenance, perturbation, dependence, form, and two closing contemplations on how the world&rsquo;s ordinary sense of &ldquo;true&rdquo; and &ldquo;happy&rdquo; is inverted by right understanding &mdash; and contemplating any one of these pairs rightly leads to full awakening or, at minimum, non-return.
+    </p>
+
+    <h3>A silent assembly, and a question about pairs</h3>
+
+    <p>
+      The setting is unusually formal: the sabbath, the full moon, the entire Saṃgha seated in the open in total silence. The Buddha opens not with a story but with a hypothetical: if someone asked you why it&rsquo;s worth listening to teachings that are &ldquo;noble, emancipating, and lead to awakening,&rdquo; what would you say? His own answer is the sutta&rsquo;s organizing principle: &ldquo;only so as to truly know the pairs of teachings.&rdquo; The first pair given is the most basic possible statement of the four noble truths compressed into two: &ldquo;this is suffering, this is the origin of suffering&rdquo; as one contemplation, &ldquo;this is the cessation of suffering, this is the practice that leads to cessation&rdquo; as the second. Meditating rightly on any pair, the Buddha states, and this refrain repeats after all sixteen contemplations, &ldquo;they can expect one of two results: enlightenment in this very life, or if there&rsquo;s residue left behind, non-return.&rdquo;
+    </p>
+
+    <h3>Working through the chain of conditions</h3>
+
+    <p>
+      What follows tracks strikingly close to the twelve links of dependent origination familiar from SN 12.1, already on this site, though presented here as a series of independent &ldquo;pairs&rdquo; rather than one continuous chain: suffering originates from attachment (upadhi); from ignorance (avijjā); from choices (saṃkhārā); from consciousness (vi&ntilde;&ntilde;āṇa); from contact (phassa); from feeling (vedanā); from craving (taṇhā); from grasping (upādāna); from instigating activity; and from sustenance. Each pair follows the same pattern precisely: a prose statement (&ldquo;all the suffering that originates is caused by X&rdquo; paired with &ldquo;when X has faded away&hellip; there is no origination of suffering&rdquo;), then the Buddha restating the same point in verse.
+    </p>
+
+    <h3>Beyond the causal chain</h3>
+
+    <p>
+      The final several pairs move past the strict causal sequence into broader territory. Perturbation (i&ntilde;jita) &mdash; a kind of restless agitation &mdash; gets its own pair, followed by a contemplation of dependence itself: &ldquo;for the dependent there is agitation&hellip; for the independent there&rsquo;s no agitation.&rdquo; Then comes a contemplation contrasting the formless states with states of form, and cessation with both: &ldquo;formless states are more peaceful than states of form&hellip; cessation is more peaceful than formless states&rdquo; &mdash; an explicit ranking of increasingly refined levels of meditative attainment against final release.
+    </p>
+
+    <h3>What the world calls true is false, what it calls happiness is suffering</h3>
+
+    <p>
+      The sutta&rsquo;s final two contemplations are its most philosophically startling. The first: &ldquo;what this world&hellip; focuses on as true, the noble ones have clearly seen with right wisdom to be actually false&rdquo; &mdash; and the reverse holds too. The verses explain the mechanism: the world, &ldquo;habituated to name and form,&rdquo; mistakes what is not-self for self, and mistakes the changeable for the fixed &mdash; &ldquo;for whatever you imagine it is, it turns out to be something else,&rdquo; a line that echoes Snp 3.8&rsquo;s teaching on loss almost verbatim. The second closing contemplation goes further still: what the world calls happiness &mdash; the pleasure of sights, sounds, tastes, smells, touches, and ideas &mdash; the noble ones call suffering, precisely because it depends on conditions that must eventually cease; and what the world calls suffering &mdash; the cessation of that very stimulation &mdash; the noble ones call happiness. The text is unusually candid about how counterintuitive this is: &ldquo;this teaching is hard to understand, it confuses the ignorant&hellip; this insight by those who see contradicts the whole world.&rdquo;
+    </p>
+
+    <h3>Sixty mendicants freed</h3>
+
+    <p>
+      The sutta ends almost abruptly, without ceremony: &ldquo;while this discourse was being spoken, the minds of sixty mendicants were freed from defilements by not grasping.&rdquo; No names are given, no further reaction is recorded. After sixteen sustained contemplations and dozens of verses, the sutta simply reports the result and stops &mdash; letting the scale of the outcome, sixty people reaching the end of the path during a single sitting, speak for itself.
+    </p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">dvayatānupassanā</span> &mdash; &ldquo;contemplation of a pair&rdquo; or duality &mdash; the sutta&rsquo;s title and its organizing method, approaching suffering and its cessation from sixteen different angles.
+      </div>
+      <div class="term">
+        <span class="pali-word">upadhi</span> &mdash; attachment or substrate of rebirth &mdash; the first of the causal factors examined after the opening pair on suffering itself.
+      </div>
+      <div class="term">
+        <span class="pali-word">i&ntilde;jita</span> &mdash; perturbation or agitation &mdash; a subtler condition examined among the sutta&rsquo;s later contemplations, closely tied to dependence.
+      </div>
+      <div class="term">
+        <span class="pali-word">the refrain</span> &mdash; &ldquo;they can expect one of two results: enlightenment in this very life, or if there&rsquo;s residue left behind, non-return&rdquo; &mdash; repeated after every one of the sixteen contemplations.
+      </div>
+      <div class="term">
+        <span class="pali-word">SN 12.1</span> &mdash; the Saṃyutta Nikāya&rsquo;s foundational statement of dependent origination, already on this site, tracking closely with much of this sutta&rsquo;s causal sequence.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The discourse in full: all sixteen contemplations, each given in both its prose statement and its verse restatement, plus the closing frame and the report of sixty mendicants&rsquo; liberation. This is one of the longest suttas in the collection, reproduced complete without abridgment. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The first pair: suffering and its cause</h3>
+
+      <p><span class="segno">&sect;1</span>So I have heard. At one time the Buddha was staying near Sāvatthī in the stilt longhouse of Migāra&rsquo;s mother in the Eastern Monastery. Now, at that time it was the sabbath&mdash;the full moon on the fifteenth day&mdash;and the Buddha was sitting in the open surrounded by the Saṅgha of monks. Then the Buddha looked around the Saṅgha of mendicants, who were so very silent. He addressed them:</p>
+
+      <p><span class="segno">&sect;2&ndash;4</span>&ldquo;Suppose, mendicants, they questioned you thus: &lsquo;There are skillful teachings that are noble, emancipating, and lead to awakening. What is the real reason for listening to such teachings?&rsquo; You should answer: &lsquo;Only so as to truly know the pairs of teachings.&rsquo; And what pairs do they speak of? &lsquo;This is suffering; this is the origin of suffering&rsquo;: this is the first contemplation. &lsquo;This is the cessation of suffering; this is the practice that leads to the cessation of suffering&rsquo;: this is the second contemplation. When a mendicant meditates rightly contemplating a pair of teachings in this way&mdash;diligent, keen, and resolute&mdash;they can expect one of two results: enlightenment in this very life, or if there&rsquo;s residue left behind, non-return.&rdquo; That is what the Buddha said. Then the Holy One, the Teacher, went on to say:</p>
+
+      <p><span class="segno">&sect;5&ndash;6</span>&ldquo;There are those who don&rsquo;t understand suffering<br>
+      and suffering&rsquo;s cause,<br>
+      and where all suffering<br>
+      ceases no residue left behind.<br>
+      And they do not know the path<br>
+      that leads to the stilling of suffering.<br>
+      They lack the heart&rsquo;s release,<br>
+      as well as the release by wisdom.<br>
+      Unable to make an end,<br>
+      they continue to be reborn and grow old.</p>
+
+      <p><span class="segno">&sect;7&ndash;8</span>But there are those who understand suffering<br>
+      and suffering&rsquo;s cause,<br>
+      and where all suffering<br>
+      ceases with no residue left behind.<br>
+      And they understand the path<br>
+      that leads to the stilling of suffering.<br>
+      They&rsquo;re endowed with the heart&rsquo;s release,<br>
+      as well as the release by wisdom.<br>
+      Able to make an end,<br>
+      they don&rsquo;t continue to be reborn and grow old.&rdquo;</p>
+
+      <h3>Attachment, ignorance, and choices</h3>
+
+      <p><span class="segno">&sect;9</span>&ldquo;Suppose, mendicants, they questioned you thus: &lsquo;Could there be another way to contemplate the pairs?&rsquo; You should say, &lsquo;There could.&rsquo; And how could there be? &lsquo;All the suffering that originates is caused by attachment&rsquo;: this is one contemplation. &lsquo;When attachment has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;10</span>&ldquo;Attachment is the source of suffering<br>
+      in all its countless forms in the world.<br>
+      When an ignorant person builds up attachments,<br>
+      that dullard returns to suffering again and again.<br>
+      So let one who understands not build up attachments,<br>
+      contemplating the inception of suffering and rebirth.&rdquo;</p>
+
+      <p><span class="segno">&sect;11</span>&ldquo;Suppose, mendicants, they questioned you thus: &lsquo;Could there be another way to contemplate the pairs?&rsquo; You should say, &lsquo;There could.&rsquo; And how could there be? &lsquo;All the suffering that originates is caused by ignorance&rsquo;: this is one contemplation. &lsquo;When ignorance has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;12&ndash;13</span>&ldquo;Those who journey again and again,<br>
+      transmigrating through birth and death;<br>
+      they go from this state to another,<br>
+      that destination due only to ignorance.<br>
+      For ignorance is the great delusion<br>
+      because of which we have long transmigrated.<br>
+      Those beings who have knowledge<br>
+      do not proceed to a future life.&rdquo;</p>
+
+      <p><span class="segno">&sect;14</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;All the suffering that originates is caused by choices&rsquo;: this is one contemplation. &lsquo;When choices has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;15&ndash;17</span>&ldquo;All the suffering that originates<br>
+      is caused by choices.<br>
+      With the cessation of choices,<br>
+      there is no origination of suffering.<br>
+      Knowing this danger,<br>
+      that suffering is caused by choices;<br>
+      through the stilling of all choices,<br>
+      and the stopping of perceptions,<br>
+      this is the way suffering ends<br>
+      when one has known this as it is.<br>
+      Rightly seeing, knowledge masters,<br>
+      the astute, understanding rightly,<br>
+      having thrown off Māra&rsquo;s yoke,<br>
+      do not proceed to a future life.&rdquo;</p>
+
+      <h3>Consciousness, contact, and feeling</h3>
+
+      <p><span class="segno">&sect;18</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;All the suffering that originates is caused by consciousness&rsquo;: this is one contemplation. &lsquo;When consciousness has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;19&ndash;20</span>&ldquo;All the suffering that originates<br>
+      is caused by consciousness.<br>
+      With the cessation of consciousness,<br>
+      there is no origination of suffering.<br>
+      Knowing this danger,<br>
+      that suffering is caused by consciousness,<br>
+      with the stilling of consciousness a mendicant<br>
+      is hungerless, quenched.&rdquo;</p>
+
+      <p><span class="segno">&sect;21</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;All the suffering that originates is caused by contact&rsquo;: this is one contemplation. &lsquo;When contact has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;22&ndash;23</span>&ldquo;Those mired in contact,<br>
+      swept down the stream of lives,<br>
+      practicing the wrong way,<br>
+      are far from the ending of fetters.<br>
+      But those who completely understand contact,<br>
+      who, understanding, delight in peace;<br>
+      by comprehending contact<br>
+      they are hungerless, quenched.&rdquo;</p>
+
+      <p><span class="segno">&sect;24</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;All the suffering that originates is caused by feeling&rsquo;: this is one contemplation. &lsquo;When feeling has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;25&ndash;26</span>&ldquo;Whether it&rsquo;s pleasant or painful,<br>
+      as well as what&rsquo;s neutral,<br>
+      whatever there is that is felt<br>
+      internally and externally:<br>
+      having known, &lsquo;this is suffering,<br>
+      deceptive, breaking apart&rsquo;,<br>
+      seeing feelings vanish with every contact,<br>
+      that&rsquo;s how they understand them.<br>
+      With the ending of feelings, a mendicant<br>
+      is hungerless, quenched.&rdquo;</p>
+
+      <h3>Craving, grasping, and instigating activity</h3>
+
+      <p><span class="segno">&sect;27</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;All the suffering that originates is caused by craving&rsquo;: this is one contemplation. &lsquo;When craving has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;28&ndash;29</span>&ldquo;Craving is a person&rsquo;s partner<br>
+      as they transmigrate on this long journey.<br>
+      They go from this state to another,<br>
+      but don&rsquo;t escape transmigration.<br>
+      Knowing this danger,<br>
+      that craving is the cause of suffering&mdash;<br>
+      rid of craving, free of grasping,<br>
+      a mendicant would wander mindful.&rdquo;</p>
+
+      <p><span class="segno">&sect;30</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;All the suffering that originates is caused by grasping&rsquo;: this is one contemplation. &lsquo;When grasping has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;31&ndash;32</span>&ldquo;Grasping is the cause of continued existence;<br>
+      one who exists falls into suffering.<br>
+      Death comes to those who are born&mdash;<br>
+      this is the origination of suffering.<br>
+      That&rsquo;s why with the end of grasping,<br>
+      the astute, understanding rightly,<br>
+      having directly known the end of rebirth,<br>
+      do not proceed to a future life.&rdquo;</p>
+
+      <p><span class="segno">&sect;33</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;All the suffering that originates is caused by instigating activity&rsquo;: this is one contemplation. &lsquo;When instigation has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;34&ndash;36</span>&ldquo;All the suffering that originates<br>
+      is caused by instigating activity.<br>
+      With the cessation of instigation,<br>
+      there is no origination of suffering.<br>
+      Knowing this danger,<br>
+      that suffering is caused by instigating activity,<br>
+      having given up all instigation,<br>
+      one is freed with respects to instigation.<br>
+      For the mendicant with peaceful mind,<br>
+      who has cut off craving for continued existence,<br>
+      transmigration through births is finished;<br>
+      there&rsquo;ll be no more future lives for them.&rdquo;</p>
+
+      <h3>Sustenance and perturbation</h3>
+
+      <p><span class="segno">&sect;37</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;All the suffering that originates is caused by sustenance&rsquo;: this is one contemplation. &lsquo;When sustenance has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;38&ndash;40</span>&ldquo;All the suffering that originates<br>
+      is caused by sustenance.<br>
+      With the cessation of sustenance,<br>
+      there is no origination of suffering.<br>
+      Knowing this danger,<br>
+      that suffering is caused by sustenance,<br>
+      completely understanding all sustenance,<br>
+      one is independent of all sustenance.<br>
+      Having rightly understood the state of health,<br>
+      through the ending of defilements,<br>
+      using after reflection, firm in principle,<br>
+      a knowledge master cannot be reckoned.&rdquo;</p>
+
+      <p><span class="segno">&sect;41</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;All the suffering that originates is caused by perturbation&rsquo;: this is one contemplation. &lsquo;When perturbation has faded away and ceased with no residue left behind, there is no origination of suffering&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;42&ndash;43</span>&ldquo;All the suffering that originates<br>
+      is caused by perturbation.<br>
+      With the cessation of perturbation,<br>
+      there is no origination of suffering.<br>
+      Knowing this danger,<br>
+      that suffering is caused by perturbation,<br>
+      that&rsquo;s why, having relinquished perturbation,<br>
+      and stopped making karmic choices,<br>
+      imperturbable, free of grasping,<br>
+      a mendicant would wander mindful.&rdquo;</p>
+
+      <h3>Dependence, form, and cessation</h3>
+
+      <p><span class="segno">&sect;44</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;For the dependent there is agitation&rsquo;: this is the first contemplation. &lsquo;For the independent there&rsquo;s no agitation&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;45&ndash;46</span>&ldquo;For the independent there&rsquo;s no agitation.<br>
+      The dependent, grasping,<br>
+      goes from this state to another,<br>
+      without escaping transmigration.<br>
+      Knowing this danger,<br>
+      the great fear in dependencies,<br>
+      independent, free of grasping,<br>
+      a mendicant would wander mindful.&rdquo;</p>
+
+      <p><span class="segno">&sect;47</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;Formless states are more peaceful than states of form&rsquo;: this is the first contemplation. &lsquo;Cessation is more peaceful than formless states&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;48&ndash;49</span>&ldquo;There are beings in the realm of luminous form,<br>
+      and others stuck in the formless.<br>
+      Not understanding cessation,<br>
+      they return in future lives.<br>
+      But the people who completely understand form,<br>
+      not stuck in the formless,<br>
+      released in cessation&mdash;<br>
+      they are conquerors of death.&rdquo;</p>
+
+      <h3>What the world calls true is false</h3>
+
+      <p><span class="segno">&sect;50</span>&ldquo;&lsquo;Could there be another way?&rsquo; &hellip; And how could there be? &lsquo;What this world&mdash;with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans&mdash;focuses on as true, the noble ones have clearly seen with right wisdom to be actually false&rsquo;: this is the first contemplation. &lsquo;What this world focuses on as false, the noble ones have clearly seen with right wisdom to be actually true&rsquo;: this is the second contemplation. When a mendicant meditates in this way they can expect enlightenment or non-return.&rdquo; Then the Teacher went on to say:</p>
+
+      <p><span class="segno">&sect;51&ndash;52</span>&ldquo;See how the world with its gods<br>
+      imagines not-self to be self;<br>
+      habituated to name and form,<br>
+      imagining this is truth.<br>
+      For whatever you imagine it is,<br>
+      it turns out to be something else.<br>
+      And that is what is false in it,<br>
+      for the ephemeral is deceptive by nature.</p>
+
+      <p><span class="segno">&sect;53</span>Extinguishment has an undeceptive nature,<br>
+      the noble ones know it as truth.<br>
+      Having comprehended the truth,<br>
+      they are hungerless, quenched.&rdquo;</p>
+
+      <h3>What the world calls happiness is suffering</h3>
+
+      <p><span class="segno">&sect;54</span>&ldquo;Suppose, mendicants, they questioned you thus: &lsquo;Could there be another way to contemplate the pairs?&rsquo; You should say, &lsquo;There could.&rsquo; And how could there be? &lsquo;What this world&mdash;with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans&mdash;focuses on as happiness, the noble ones have clearly seen with right wisdom to be actually suffering&rsquo;: this is the first contemplation. &lsquo;What this world focuses on as suffering, the noble ones have clearly seen with right wisdom to be actually happiness&rsquo;: this is the second contemplation. When a mendicant meditates rightly contemplating a pair of teachings in this way&mdash;diligent, keen, and resolute&mdash;they can expect one of two results: enlightenment in this very life, or if there&rsquo;s residue left behind, non-return.&rdquo; That is what the Buddha said. Then the Holy One, the Teacher, went on to say:</p>
+
+      <p><span class="segno">&sect;55&ndash;56</span>&ldquo;Sights, sounds, tastes, smells,<br>
+      touches, and ideas, the lot of them&mdash;<br>
+      they&rsquo;re likable, desirable, and pleasurable<br>
+      as long as you can say that they exist.<br>
+      For all the world with its gods,<br>
+      this is what they deem happiness.<br>
+      And where they cease<br>
+      is deemed as suffering for them.</p>
+
+      <p><span class="segno">&sect;57&ndash;58</span>The noble ones have seen as happiness<br>
+      the ceasing of substantial reality.<br>
+      This insight by those who see<br>
+      contradicts the whole world.<br>
+      What others say is happiness<br>
+      the noble ones say is suffering.<br>
+      What others say is suffering<br>
+      the noble ones know as happiness.</p>
+
+      <p><span class="segno">&sect;59&ndash;60</span>See, this teaching is hard to understand,<br>
+      it confuses the ignorant.<br>
+      There is darkness for the shrouded;<br>
+      blackness for those who don&rsquo;t see.<br>
+      But the good are open;<br>
+      like light for those who see.<br>
+      Though close, they do not understand,<br>
+      those fools inexpert in the teaching.</p>
+
+      <p><span class="segno">&sect;61&ndash;62</span>They&rsquo;re mired in desire for continued existence,<br>
+      flowing along the stream of lives,<br>
+      mired in Māra&rsquo;s dominion:<br>
+      this teaching isn&rsquo;t easy for them to understand.<br>
+      Who, apart from the noble ones,<br>
+      is qualified to understand this state?<br>
+      Having rightly understood this state,<br>
+      the undefiled are fully extinguished.&rdquo;</p>
+
+      <h3>Sixty mendicants freed</h3>
+
+      <p><span class="segno">&sect;63</span>That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said. And while this discourse was being spoken, the minds of sixty mendicants were freed from defilements by not grasping.</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What is the occasion for this discourse, and how is the Buddha&rsquo;s audience described?</div>
+        <button class="opt">A private conversation with one student</button>
+        <button class="opt">The sabbath, the full moon of the fifteenth day, with the entire Saṅgha of mendicants seated in the open, in silence</button>
+        <button class="opt">A public debate with rival ascetics</button>
+        <button class="opt">A funeral rite for a deceased mendicant</button>
+        <div class="expl"><strong>Correct: B.</strong> The unusually formal setting matches the length and systematic character of the teaching that follows.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What is the Buddha&rsquo;s own answer to why it&rsquo;s worth listening to teachings that are &ldquo;noble, emancipating, and lead to awakening&rdquo;?</div>
+        <button class="opt">To gain merit for a better rebirth</button>
+        <button class="opt">Only so as to truly know the pairs of teachings</button>
+        <button class="opt">To win arguments with rival teachers</button>
+        <button class="opt">To be recognized as learned by others</button>
+        <div class="expl"><strong>Correct: B.</strong> This single line organizes the entire, very long discourse that follows.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What is the first, most basic &ldquo;pair&rdquo; the Buddha gives?</div>
+        <button class="opt">Right speech and right action</button>
+        <button class="opt">&ldquo;This is suffering; this is the origin of suffering&rdquo; as one contemplation, and &ldquo;this is the cessation of suffering; this is the practice that leads to its cessation&rdquo; as the second</button>
+        <button class="opt">Generosity and ethical conduct</button>
+        <button class="opt">Meditation and study</button>
+        <div class="expl"><strong>Correct: B.</strong> This is essentially the four noble truths compressed into a single pair.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What result does the Buddha say follows from rightly contemplating any of the sixteen pairs?</div>
+        <button class="opt">Rebirth as a deity</button>
+        <button class="opt">Enlightenment in this very life, or, if there&rsquo;s residue left behind, non-return</button>
+        <button class="opt">A long and prosperous lay life</button>
+        <button class="opt">Nothing in particular; the pairs are purely academic</button>
+        <div class="expl"><strong>Correct: B.</strong> This refrain repeats after every single one of the sixteen contemplations.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">The reading guide notes that much of this sutta&rsquo;s middle section tracks closely with which teaching already on this site?</div>
+        <button class="opt">MN 135, The Shorter Analysis of Deeds</button>
+        <button class="opt">The twelve links of dependent origination in SN 12.1</button>
+        <button class="opt">DN 26, The Wheel-Turning Monarch</button>
+        <button class="opt">Dhammapada Chapter 1, Pairs</button>
+        <div class="expl"><strong>Correct: B.</strong> Attachment, ignorance, choices, consciousness, contact, feeling, craving, and grasping all appear here as they do in the standard dependent-origination sequence.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">According to the sutta&rsquo;s pair on formless states versus cessation, what is more peaceful than the formless states?</div>
+        <button class="opt">Sensual pleasure</button>
+        <button class="opt">Physical exercise</button>
+        <button class="opt">Cessation</button>
+        <button class="opt">Long life</button>
+        <div class="expl"><strong>Correct: C.</strong> This ranks increasingly refined meditative attainments against final release, with cessation placed highest.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What does the sutta claim about what &ldquo;this world&hellip; focuses on as true&rdquo;?</div>
+        <button class="opt">That the world is always correct about what is true</button>
+        <button class="opt">That the noble ones have clearly seen it, with right wisdom, to be actually false &mdash; and vice versa</button>
+        <button class="opt">That truth cannot be known by anyone, noble or otherwise</button>
+        <button class="opt">That this question is left unanswered in the sutta</button>
+        <div class="expl"><strong>Correct: B.</strong> The verses explain that the world, &ldquo;habituated to name and form,&rdquo; imagines not-self to be self.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">What surprising claim does the sutta make about happiness and suffering in its final contemplation?</div>
+        <button class="opt">That happiness and suffering are identical in every respect</button>
+        <button class="opt">That what the world calls happiness (the pleasure of sights, sounds, tastes, and so on), the noble ones call suffering, and what the world calls suffering, the noble ones call happiness</button>
+        <button class="opt">That only kings can experience true happiness</button>
+        <button class="opt">That happiness is impossible to define</button>
+        <div class="expl"><strong>Correct: B.</strong> The text is candid that this &ldquo;insight by those who see contradicts the whole world.&rdquo;</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">How does the sutta itself describe the difficulty of this final teaching?</div>
+        <button class="opt">As simple and immediately obvious to anyone</button>
+        <button class="opt">As &ldquo;hard to understand&hellip; it confuses the ignorant&rdquo;, and as contradicting the whole world</button>
+        <button class="opt">As applicable only to monastics, never to lay people</button>
+        <button class="opt">As a teaching the Buddha refused to fully explain</button>
+        <div class="expl"><strong>Correct: B.</strong> The sutta doesn&rsquo;t soften the counterintuitive nature of its own conclusion.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">How does the sutta end?</div>
+        <button class="opt">With a long closing sermon summarizing all sixteen pairs</button>
+        <button class="opt">With the minds of sixty mendicants freed from defilements while the discourse was still being spoken, reported without further comment</button>
+        <button class="opt">With King Pasenadi arriving to make an offering</button>
+        <button class="opt">With a debate between two disciples over which pair is most important</button>
+        <div class="expl"><strong>Correct: B.</strong> The abrupt, unceremonious ending lets the scale of the result speak for itself.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Structure</div>
+      <ul>
+        <li>16 contemplations of &ldquo;a pair&rdquo;</li>
+        <li>prose statement, then verse</li>
+        <li>refrain: awakening or non-return</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">The causal chain</div>
+      <ul>
+        <li>attachment, ignorance, choices</li>
+        <li>consciousness, contact, feeling</li>
+        <li>craving, grasping, activity</li>
+        <li>sustenance, perturbation</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">The final inversion</div>
+      <ul>
+        <li>world&rsquo;s &ldquo;true&rdquo; = actually false</li>
+        <li>world&rsquo;s &ldquo;happy&rdquo; = actually suffering</li>
+        <li>&ldquo;contradicts the whole world&rdquo;</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>SN 12.1 &middot; Dependent Origination</li>
+        <li>Snp 3.8 &middot; The Dart, on impermanence</li>
+        <li>Snp 3.11 &middot; About Nālaka, previous</li>
+        <li>Snp 4.1 &middot; Sensual Pleasures, next</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/snp3.12/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.</li>
+      <li><a href="../samyutta-nikaya/sn-12.1.html">SN 12.1 &middot; Dependent Origination</a> &mdash; the Saṃyutta Nikāya&rsquo;s foundational statement of the causal sequence this sutta works through pair by pair.</li>
+      <li><a href="snp-3.11.html">Snp 3.11 &middot; About Nālaka</a> &mdash; the previous discourse, closing the Mahāvagga&rsquo;s narrative material before this final systematic teaching.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="snp-3.11.html"><span class="label">&larr; Previous</span>Snp 3.11 &middot; About Nālaka</a>
+    <a href="snp-4.1.html" class="next"><span class="label">Next &rarr;</span>Snp 4.1 &middot; Sensual Pleasures</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
