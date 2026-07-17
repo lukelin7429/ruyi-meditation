@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Udāna — Heartfelt Sayings | Ru-Yi Meditation Center</title>
+<meta name="description" content="All 80 discourses of the Udāna, the Buddha’s inspired “heartfelt sayings,” with reading guides, full English translations, and self-check quizzes. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.65;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .series-mark {
+    font-family: Georgia, serif;
+    font-size: 17px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 14px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 6vw, 59px);
+    font-weight: 400;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 25px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 44px;
+  }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .intro {
+    font-size: 21px;
+    color: #1a1d23;
+    margin-bottom: 24px;
+  }
+  .meta-card {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 48px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .meta-card dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .meta-card dt { color: #6b6b6b; font-weight: 600; }
+  .meta-card dd { color: #1a1d23; }
+
+  .vagga { margin: 32px 0; }
+  .vagga-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px dashed #dee2e6;
+  }
+  .vagga-name {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #1a1d23;
+  }
+  .vagga-range {
+    font-size: 15px;
+    color: #b8b8b8;
+    letter-spacing: 0.05em;
+  }
+
+  .sutta-list { list-style: none; margin: 0; padding: 0; }
+  .sutta-row {
+    display: grid;
+    grid-template-columns: 70px 1fr auto;
+    gap: 14px;
+    padding: 9px 0;
+    border-bottom: 1px solid #dee2e6;
+    align-items: baseline;
+    font-size: 18px;
+  }
+  .sutta-row:last-child { border-bottom: none; }
+  .sutta-num {
+    font-family: Georgia, serif;
+    color: #b8431c;
+    font-size: 17px;
+    letter-spacing: 0.04em;
+  }
+  .sutta-titles { line-height: 1.45; }
+  .sutta-titles .en { color: #1a1a1a; font-weight: 500; }
+  .sutta-status {
+    font-size: 14px;
+    color: #b8b8b8;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .sutta-row a { color: inherit; text-decoration: none; display: contents; }
+  .sutta-row.linked .sutta-titles .en {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-decoration-color: #b8431c;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+  }
+  .sutta-row.linked:hover { background: #f3f5f7; }
+  .sutta-row.linked .sutta-status { color: #6ba368; }
+  .sutta-row.placeholder .sutta-titles .en { color: #8a8a8a; }
+
+  footer {
+    margin-top: 72px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<script>document.documentElement.classList.add('js');</script>
+<style>
+  .js [data-rv]{opacity:0;transform:translateY(20px);
+    transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
+  .js [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js [data-rv]{opacity:1 !important;transform:none !important;}}
+  .sutta-row.linked{position:relative;transition:background .2s ease,padding-left .2s ease;}
+  .sutta-row.linked::before{content:"";position:absolute;left:0;top:6px;bottom:6px;width:3px;border-radius:3px;
+    background:linear-gradient(180deg,#b8431c,#e0a93f);opacity:0;transform:scaleY(.4);transform-origin:top;
+    transition:opacity .22s ease,transform .28s ease;}
+  .sutta-row.linked:hover{background:#f7f2ea;padding-left:12px;}
+  .sutta-row.linked:hover::before{opacity:1;transform:scaleY(1);}
+  .sutta-row.linked:hover .sutta-num{color:#8c2f12;}
+  .sutta-num{transition:color .2s ease;}
+</style>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+<div class="container">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span>Udāna
+  </nav>
+
+  <div class="series-mark">A series at Ru-Yi Meditation Center</div>
+  <h1>Udāna</h1>
+  <p class="subtitle"><em>Heartfelt Sayings</em></p>
+
+  <p class="intro">
+    Part of the Khuddaka Nikāya, the Udāna collects eighty short episodes from the Buddha's life, each closing with a spontaneous "heartfelt saying" &mdash; a spoken or verse utterance the Buddha makes not because he was asked, but because a moment moved him to speak. Most are brief: a short narrative frame followed by a few lines of prose or verse. Together they range from his first week after awakening to the schism at Kosambī to a series of profound reflections on Nibbāna itself.
+  </p>
+  <p class="intro">
+    This collection includes some of the most quietly powerful texts in the canon &mdash; the Buddha's account of his own first days of freedom, the story of Bāhiya's instant awakening ("in the seen, let there only be the seen"), and four short, direct statements on what extinguishment actually is. Each entry here has the same reading guide, full Sujato translation, and self-check quiz as our other series.
+  </p>
+
+  <div class="meta-card" data-rv>
+    <dl>
+      <dt>Discourses</dt><dd>80, arranged in 8 chapters (<em>vagga</em>)</dd>
+      <dt>Collection</dt><dd>Part of the Khuddaka Nikāya, the fifth Nikāya of the Sutta Piṭaka</dd>
+      <dt>English source</dt><dd>Bhikkhu Sujato, released CC0 by SuttaCentral</dd>
+      <dt>Pāli source</dt><dd>Mahāsaṅgīti edition, CC0</dd>
+      <dt>Reference</dt><dd>Bhikkhu Ānandajoti, <em>Udāna: Exalted Utterances</em></dd>
+      <dt>Chinese parallel</dt><dd>No complete Chinese Udāna survives; scattered individual parallels appear across the Āgamas and Vinaya</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>All 80 discourses</h2>
+    <p style="font-size: 18px; color:#6b6b6b; margin-bottom:12px;">Linked rows have a published reading guide. Unlinked rows are listed for navigation and will become available as the series progresses.</p>
+
+        <div class="vagga" data-rv>
+      <div class="vagga-header"><span class="vagga-name">1. Nidānavagga</span><span class="vagga-range">Ud 1.1&ndash;1.10</span></div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="ud-1.1.html"><span class="sutta-num">1.1</span><span class="sutta-titles"><span class="en">Upon Awakening (1st)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-1.2.html"><span class="sutta-num">1.2</span><span class="sutta-titles"><span class="en">Upon Awakening (2nd)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-1.3.html"><span class="sutta-num">1.3</span><span class="sutta-titles"><span class="en">Upon Awakening (3rd)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-1.4.html"><span class="sutta-num">1.4</span><span class="sutta-titles"><span class="en">The Mystic Syllable Huṁ</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-1.5.html"><span class="sutta-num">1.5</span><span class="sutta-titles"><span class="en">The Brahmin</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-1.6.html"><span class="sutta-num">1.6</span><span class="sutta-titles"><span class="en">With Mahākassapa</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-1.7.html"><span class="sutta-num">1.7</span><span class="sutta-titles"><span class="en">At Ajakalāpaka</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-1.8.html"><span class="sutta-num">1.8</span><span class="sutta-titles"><span class="en">With Saṅgāmaji</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-1.9.html"><span class="sutta-num">1.9</span><span class="sutta-titles"><span class="en">Dreadlocked Ascetics</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-1.10.html"><span class="sutta-num">1.10</span><span class="sutta-titles"><span class="en">With Bāhiya</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+    <div class="vagga" data-rv>
+      <div class="vagga-header"><span class="vagga-name">2. Muccalindavagga</span><span class="vagga-range">Ud 2.1&ndash;2.10</span></div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="ud-2.1.html"><span class="sutta-num">2.1</span><span class="sutta-titles"><span class="en">With Mucalinda</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-2.2.html"><span class="sutta-num">2.2</span><span class="sutta-titles"><span class="en">Kings</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-2.3.html"><span class="sutta-num">2.3</span><span class="sutta-titles"><span class="en">A Stick</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-2.4.html"><span class="sutta-num">2.4</span><span class="sutta-titles"><span class="en">Esteem</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-2.5.html"><span class="sutta-num">2.5</span><span class="sutta-titles"><span class="en">A Lay Follower</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-2.6.html"><span class="sutta-num">2.6</span><span class="sutta-titles"><span class="en">The Pregnant Woman</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-2.7.html"><span class="sutta-num">2.7</span><span class="sutta-titles"><span class="en">An Only Son</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-2.8.html"><span class="sutta-num">2.8</span><span class="sutta-titles"><span class="en">Suppavāsā</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-2.9.html"><span class="sutta-num">2.9</span><span class="sutta-titles"><span class="en">With Visākhā</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-2.10.html"><span class="sutta-num">2.10</span><span class="sutta-titles"><span class="en">With Bhaddiya</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+    <div class="vagga" data-rv>
+      <div class="vagga-header"><span class="vagga-name">3. Nandavagga</span><span class="vagga-range">Ud 3.1&ndash;3.10</span></div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="ud-3.1.html"><span class="sutta-num">3.1</span><span class="sutta-titles"><span class="en">Born of the Fruits of Deeds</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-3.2.html"><span class="sutta-num">3.2</span><span class="sutta-titles"><span class="en">With Nanda</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-3.3.html"><span class="sutta-num">3.3</span><span class="sutta-titles"><span class="en">With Yasoja</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-3.4.html"><span class="sutta-num">3.4</span><span class="sutta-titles"><span class="en">With Sāriputta</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-3.5.html"><span class="sutta-num">3.5</span><span class="sutta-titles"><span class="en">With Mahāmoggallāna</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-3.6.html"><span class="sutta-num">3.6</span><span class="sutta-titles"><span class="en">With Pilindavaccha</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-3.7.html"><span class="sutta-num">3.7</span><span class="sutta-titles"><span class="en">Sakka’s Heartfelt Saying</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-3.8.html"><span class="sutta-num">3.8</span><span class="sutta-titles"><span class="en">One Who Eats Only Almsfood</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-3.9.html"><span class="sutta-num">3.9</span><span class="sutta-titles"><span class="en">Professions</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-3.10.html"><span class="sutta-num">3.10</span><span class="sutta-titles"><span class="en">The World</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+    <div class="vagga" data-rv>
+      <div class="vagga-header"><span class="vagga-name">4. Meghiyavagga</span><span class="vagga-range">Ud 4.1&ndash;4.10</span></div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="ud-4.1.html"><span class="sutta-num">4.1</span><span class="sutta-titles"><span class="en">With Meghiya</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-4.2.html"><span class="sutta-num">4.2</span><span class="sutta-titles"><span class="en">Restless</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-4.3.html"><span class="sutta-num">4.3</span><span class="sutta-titles"><span class="en">The Cowherd</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-4.4.html"><span class="sutta-num">4.4</span><span class="sutta-titles"><span class="en">The Spirit’s Blow</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-4.5.html"><span class="sutta-num">4.5</span><span class="sutta-titles"><span class="en">A Bull Elephant</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-4.6.html"><span class="sutta-num">4.6</span><span class="sutta-titles"><span class="en">The Alms-Gatherer</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-4.7.html"><span class="sutta-num">4.7</span><span class="sutta-titles"><span class="en">With Sāriputta</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-4.8.html"><span class="sutta-num">4.8</span><span class="sutta-titles"><span class="en">With Sundarī</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-4.9.html"><span class="sutta-num">4.9</span><span class="sutta-titles"><span class="en">With Upasena</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-4.10.html"><span class="sutta-num">4.10</span><span class="sutta-titles"><span class="en">The Peacefulness of Sāriputta</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+    <div class="vagga" data-rv>
+      <div class="vagga-header"><span class="vagga-name">5. Soṇavagga</span><span class="vagga-range">Ud 5.1&ndash;5.10</span></div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="ud-5.1.html"><span class="sutta-num">5.1</span><span class="sutta-titles"><span class="en">Who is More Dear?</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-5.2.html"><span class="sutta-num">5.2</span><span class="sutta-titles"><span class="en">Short-lived</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-5.3.html"><span class="sutta-num">5.3</span><span class="sutta-titles"><span class="en">With Suppabuddha the Leper</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-5.4.html"><span class="sutta-num">5.4</span><span class="sutta-titles"><span class="en">The Boys</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-5.5.html"><span class="sutta-num">5.5</span><span class="sutta-titles"><span class="en">Sabbath</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-5.6.html"><span class="sutta-num">5.6</span><span class="sutta-titles"><span class="en">With Soṇa</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-5.7.html"><span class="sutta-num">5.7</span><span class="sutta-titles"><span class="en">With Revata the Doubter</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-5.8.html"><span class="sutta-num">5.8</span><span class="sutta-titles"><span class="en">Schism in the Saṅgha</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-5.9.html"><span class="sutta-num">5.9</span><span class="sutta-titles"><span class="en">Teasing</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-5.10.html"><span class="sutta-num">5.10</span><span class="sutta-titles"><span class="en">With Cūḷapanthaka</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+    <div class="vagga" data-rv>
+      <div class="vagga-header"><span class="vagga-name">6. Jaccandhavagga</span><span class="vagga-range">Ud 6.1&ndash;6.10</span></div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="ud-6.1.html"><span class="sutta-num">6.1</span><span class="sutta-titles"><span class="en">Surrendering the Life Force</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-6.2.html"><span class="sutta-num">6.2</span><span class="sutta-titles"><span class="en">Seven Matted-Hair Ascetics</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-6.3.html"><span class="sutta-num">6.3</span><span class="sutta-titles"><span class="en">The Buddha’s Reviewing</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-6.4.html"><span class="sutta-num">6.4</span><span class="sutta-titles"><span class="en">Followers of Various Other Religions (1st)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-6.5.html"><span class="sutta-num">6.5</span><span class="sutta-titles"><span class="en">Followers of Various Other Religions (2nd)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-6.6.html"><span class="sutta-num">6.6</span><span class="sutta-titles"><span class="en">Followers of Various Other Religions (3rd)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-6.7.html"><span class="sutta-num">6.7</span><span class="sutta-titles"><span class="en">With Subhūti</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-6.8.html"><span class="sutta-num">6.8</span><span class="sutta-titles"><span class="en">The Courtesan</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-6.9.html"><span class="sutta-num">6.9</span><span class="sutta-titles"><span class="en">Hastening By</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-6.10.html"><span class="sutta-num">6.10</span><span class="sutta-titles"><span class="en">Arising</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+    <div class="vagga" data-rv>
+      <div class="vagga-header"><span class="vagga-name">7. Cūḷavagga</span><span class="vagga-range">Ud 7.1&ndash;7.10</span></div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="ud-7.1.html"><span class="sutta-num">7.1</span><span class="sutta-titles"><span class="en">Bhaddiya the Dwarf (1st)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-7.2.html"><span class="sutta-num">7.2</span><span class="sutta-titles"><span class="en">Bhaddiya the Dwarf (2nd)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-7.3.html"><span class="sutta-num">7.3</span><span class="sutta-titles"><span class="en">Clinging (1st)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-7.4.html"><span class="sutta-num">7.4</span><span class="sutta-titles"><span class="en">Clinging (2nd)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-7.5.html"><span class="sutta-num">7.5</span><span class="sutta-titles"><span class="en">Another Discourse with Bhaddiya the Dwarf</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-7.6.html"><span class="sutta-num">7.6</span><span class="sutta-titles"><span class="en">The Ending of Craving</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-7.7.html"><span class="sutta-num">7.7</span><span class="sutta-titles"><span class="en">The Ending of Proliferation</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-7.8.html"><span class="sutta-num">7.8</span><span class="sutta-titles"><span class="en">Kaccāna</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-7.9.html"><span class="sutta-num">7.9</span><span class="sutta-titles"><span class="en">The Well</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-7.10.html"><span class="sutta-num">7.10</span><span class="sutta-titles"><span class="en">King Udena</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+    <div class="vagga" data-rv>
+      <div class="vagga-header"><span class="vagga-name">8. Pāṭaligāmiyavagga</span><span class="vagga-range">Ud 8.1&ndash;8.10</span></div>
+      <ul class="sutta-list">
+        <li class="sutta-row linked"><a href="ud-8.1.html"><span class="sutta-num">8.1</span><span class="sutta-titles"><span class="en">About Extinguishment (1st)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-8.2.html"><span class="sutta-num">8.2</span><span class="sutta-titles"><span class="en">About Extinguishment (2nd)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-8.3.html"><span class="sutta-num">8.3</span><span class="sutta-titles"><span class="en">About Extinguishment (3rd)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-8.4.html"><span class="sutta-num">8.4</span><span class="sutta-titles"><span class="en">About Extinguishment (4th)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-8.5.html"><span class="sutta-num">8.5</span><span class="sutta-titles"><span class="en">With Cunda</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-8.6.html"><span class="sutta-num">8.6</span><span class="sutta-titles"><span class="en">The Layfolk of Pāṭali Village</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-8.7.html"><span class="sutta-num">8.7</span><span class="sutta-titles"><span class="en">A Fork in the Road</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-8.8.html"><span class="sutta-num">8.8</span><span class="sutta-titles"><span class="en">With Visākhā</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-8.9.html"><span class="sutta-num">8.9</span><span class="sutta-titles"><span class="en">With Dabba (1st)</span></span><span class="sutta-status">live</span></a></li>
+        <li class="sutta-row linked"><a href="ud-8.10.html"><span class="sutta-num">8.10</span><span class="sutta-titles"><span class="en">Dabba (2nd)</span></span><span class="sutta-status">live</span></a></li>
+      </ul>
+    </div>
+
+  
+
+  </section>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translations © Bhikkhu Sujato, released CC0. Reading guides written for Ru-Yi Meditation Center.</p>
+  </footer>
+
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.08,rootMargin:'0px 0px -5% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
