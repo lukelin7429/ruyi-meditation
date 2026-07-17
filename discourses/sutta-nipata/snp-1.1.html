@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Snp 1.1 — The Serpent | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for the Uragasutta, the discourse that opens the entire Sutta Nipāta — seventeen verses, given without any narrative frame, each built on the image of a snake sliding out of its old, worn-out skin as the figure for a mendicant letting go of anger, greed, craving, and conceit. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(38px, 5vw, 50px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Sutta Nipāta</a><span>&rsaquo;</span>Snp 1.1
+  </nav>
+
+  <div class="sutta-number">Sutta Nipāta &middot; Discourse 1.1</div>
+  <h1>The Serpent</h1>
+  <p class="subtitle"><em>Uragasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>None given &mdash; unlike almost everything that follows it in the collection, the text supplies no location, no audience, and no occasion</dd>
+      <dt>Speakers</dt><dd>None named. The seventeen verses stand as direct teaching, traditionally placed first in the Sutta Nipāta and in the Khuddaka Nikāya&rsquo;s verse collections generally</dd>
+      <dt>Form</dt><dd>Continuous verse &mdash; seventeen four-line verses, each closing with the same refrain</dd>
+      <dt>Length</dt><dd>~4 minutes to read</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&#9734;&#9734;&#9734; &mdash; short and plainly built, but the imagery is dense and the &ldquo;near shore and the far&rdquo; line is deliberately left unglossed</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse, the first</h2>
+    <p class="lede">
+      Nothing introduces this text. No mendicant approaches, no brahmin asks a question, no location is named &mdash; the Sutta Nipāta simply begins, verse after verse, with a snake shedding its skin. That image, repeated seventeen times without variation in its final two lines, gives the discourse its name and gives an entire genre of Buddhist verse literature its opening gesture: renunciation is not violent rejection but something closer to a snake&rsquo;s own biology, a natural outgrowing of what no longer fits. Anger, greed, craving, and conceit are each, in turn, described as sloughed off rather than fought off &mdash; and the discourse closes by widening from named defilements to something more structural: the underlying tendencies themselves, and the five hindrances that block calm and clarity in the first place.
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Seventeen verses, each ending in the same refrain, use the image of a snake shedding its worn-out skin to
+      describe a mendicant letting go &mdash; in turn &mdash; of anger, greed, craving, conceit, attachment to future
+      lives, hidden resentment, restless mental activity, and finally the underlying tendencies and hindrances
+      themselves.
+    </p>
+
+    <h3>A collection opened without introduction</h3>
+    <p>
+      Every other discourse translated for this site opens by telling you where the Buddha was staying and who
+      he was speaking to, even when that framing is brief. The Uragasutta supplies none of it. There is no
+      narrator, no named speaker, no place, no listener. The seventeen verses simply proceed, each stating a
+      quality relinquished and then repeating: &ldquo;such a mendicant sheds the near shore and the far, as a
+      serpent its old worn-out skin.&rdquo; The commentarial tradition and later collections read these verses
+      as spoken by the Buddha, but the text itself makes no such claim &mdash; it is worth noticing, reading the
+      collection&rsquo;s first page, that this restraint is deliberate rather than accidental.
+    </p>
+
+    <h3>The refrain: a snake shedding its skin</h3>
+    <p>
+      A snake does not fight its old skin off; it simply grows past it, and the skin comes away because it no
+      longer fits. That is the discourse&rsquo;s entire argument in a single image, repeated with only the opening
+      couplet changing from verse to verse. The phrase &ldquo;the near shore and the far&rdquo; is left unglossed by
+      the text itself &mdash; it has been read, at different points in the tradition, as this life and the next, or
+      as the internal and external sense fields, or more broadly as any pair of opposed positions a person might
+      cling to. The discourse does not resolve this ambiguity, and neither does this guide; what is clear is that
+      the mendicant described sheds <em>both</em> sides of whatever pair is meant, not simply trading one shore for
+      another.
+    </p>
+
+    <h3>Verses 1&ndash;4: four things cut off entirely</h3>
+    <p>
+      The first four verses proceed through anger (driven out &ldquo;as with medicine a snake&rsquo;s spreading
+      venom&rdquo;), greed (&ldquo;cut off entirely, like a lotus plucked flower and stalk&rdquo;), craving (dried
+      up &ldquo;that swift-flowing stream&rdquo;), and conceit (swept away &ldquo;as a fragile bridge of reeds by a
+      great flood&rdquo;). Each image supplies its own logic: venom is drawn out, not simply endured; a lotus is
+      removed root and stem, not merely trimmed; a stream is dried at its source; a flimsy reed bridge cannot
+      survive a real flood. The differences between the four similes matter as much as their shared refrain.
+    </p>
+
+    <h3>Verses 5&ndash;7: a future with nothing to find, an interior with nothing hidden</h3>
+    <p>
+      Verse 5 turns from present defilements to future rebirth: such a person &ldquo;finds no worth&rdquo; in
+      future lives, the way &ldquo;an inspector of fig trees finds no flower&rdquo; &mdash; because fig trees, in
+      the region&rsquo;s common knowledge, produce fruit without any visible flowering stage first. Verse 6 turns
+      inward: no anger is hidden away, stored for later. Verse 7 addresses something more subtle still &mdash; the
+      &ldquo;mental vibrations&rdquo; that produce restlessness are &ldquo;cleared away, internally clipped off
+      entirely.&rdquo;
+    </p>
+
+    <h3>Verses 8&ndash;13: neither running too far nor running back</h3>
+    <p>
+      A new refrain-within-the-refrain appears here: &ldquo;they have not run too far nor run back.&rdquo; Verse 8
+      glosses this as having &ldquo;gone beyond all this proliferation&rdquo; &mdash; the compulsive elaboration of
+      experience into more experience. Verses 9 through 13 then repeat the same opening line five times, each time
+      adding one clause: knowing that nothing in the world is what it seems, and being free, in turn, of greed,
+      lust, hate, and delusion. The cumulative repetition is itself part of the teaching &mdash; each verse adds
+      exactly one term to what has come before, building a list rather than simply restating a claim.
+    </p>
+
+    <h3>Verses 14&ndash;17: roots, distress, entanglement, and hindrance</h3>
+    <p>
+      The closing verses move from named defilements to the underlying structures that produce them: no
+      underlying tendencies remain, and the unskillful roots are gone (v.14); nothing born of distress remains to
+      pull such a person back to &ldquo;the near shore&rdquo; (v.15); no entangling &ldquo;snarl&rdquo; grows that
+      would bind them to a new life (v.16); and, in the final verse, the five hindrances themselves have been
+      given up, leaving someone &ldquo;untroubled, rid of indecision, free of thorns.&rdquo; The discourse ends,
+      that is, not with a dramatic climax but with a kind of inventory completed.
+    </p>
+  
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">uraga</span> &mdash; &ldquo;serpent&rdquo;: the discourse&rsquo;s name, drawn from
+        its refrain image of a snake shedding its old skin, repeated in all seventeen verses.
+      </div>
+      <div class="term">
+        <span class="pali-word">&ldquo;the near shore and the far&rdquo;</span> &mdash; a phrase the text leaves
+        deliberately unglossed; read variously in the tradition as this world and the next, or as the internal
+        and external sense fields, or more generally as any pair of positions a person might cling to.
+      </div>
+      <div class="term">
+        <span class="pali-word">proliferation</span> &mdash; the restless elaboration of raw experience into
+        further thought and reaction, named directly in verse 8 as what such a mendicant has &ldquo;gone beyond.&rdquo;
+      </div>
+      <div class="term">
+        <span class="pali-word">underlying tendencies</span> &mdash; latent dispositions toward greed, aversion,
+        and delusion that persist beneath the level of active thought or emotion, named in verse 14 as fully
+        absent in the person described.
+      </div>
+      <div class="term">
+        <span class="pali-word">the five hindrances</span> &mdash; the five qualities (including indecision,
+        named explicitly) that the final verse describes as &ldquo;given up,&rdquo; leaving the mind &ldquo;free of
+        thorns.&rdquo;
+      </div>
+  
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      All seventeen verses of the Uragasutta, given in full, without omission or paraphrase. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <p><span class="segno">Verse 1</span>When anger surges, they drive it out,<br>
+      as with medicine a snake&rsquo;s spreading venom.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 2</span>They&rsquo;ve cut off greed entirely,<br>
+      like a lotus plucked flower and stalk.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 3</span>They&rsquo;ve cut off craving entirely,<br>
+      drying up that swift-flowing stream.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 4</span>They&rsquo;ve swept away conceit entirely,<br>
+      as a fragile bridge of reeds by a great flood.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 5</span>In future lives they find no worth,<br>
+      as an inspector of fig trees finds no flower.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 6</span>They hide no anger within,<br>
+      passed beyond any kind of existence.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 7</span>Their mental vibrations are cleared away,<br>
+      internally clipped off entirely.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 8</span>They have not run too far nor run back,<br>
+      but have gone beyond all this proliferation.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 9</span>They have not run too far nor run back,<br>
+      for they know that nothing in the world is what it seems.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 10</span>They have not run too far nor run back,<br>
+      knowing nothing is what it seems, free of greed.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 11</span>They have not run too far nor run back,<br>
+      knowing nothing is what it seems, free of lust.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 12</span>They have not run too far nor run back,<br>
+      knowing nothing is what it seems, free of hate.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 13</span>They have not run too far nor run back,<br>
+      knowing nothing is what it seems, free of delusion.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 14</span>They have no underlying tendencies at all,<br>
+      and are rid of unskillful roots,<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 15</span>They have nothing born of distress at all<br>
+      to make them to return to the near shore.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 16</span>No snarl grows in them at all,<br>
+      that would shackle them to a new life.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+
+      <p><span class="segno">Verse 17</span>They&rsquo;ve given up the five hindrances,<br>
+      untroubled, rid of indecision, free of thorns.<br>
+      Such a mendicant sheds the near shore and the far,<br>
+      as a serpent its old worn-out skin.</p>
+  
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What narrative frame does the Uragasutta give &mdash; who is speaking, and where?</div>
+        <button class="opt">The Buddha, staying near Sāvatthī in Jeta&rsquo;s Grove</button>
+        <button class="opt">A deity, addressing the Buddha at night</button>
+        <button class="opt">None at all &mdash; no location, speaker, or audience is named anywhere in the text</button>
+        <button class="opt">A group of mendicants reciting together</button>
+        <div class="expl"><strong>Correct: C.</strong> The discourse that opens the whole Sutta Nipāta supplies no frame whatsoever.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What image closes every one of the seventeen verses?</div>
+        <button class="opt">A lamp being lit in the dark</button>
+        <button class="opt">A serpent shedding its old, worn-out skin</button>
+        <button class="opt">A raft being left behind after crossing a river</button>
+        <button class="opt">A lotus rising untouched from muddy water</button>
+        <div class="expl"><strong>Correct: B.</strong> This refrain gives the discourse its name, Uragasutta, "The Serpent."</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">In verse 1, how is anger described as being dealt with?</div>
+        <button class="opt">Driven out, "as with medicine a snake's spreading venom"</button>
+        <button class="opt">Ignored until it passes on its own</button>
+        <button class="opt">Debated and reasoned away</button>
+        <button class="opt">Suppressed through willpower alone</button>
+        <div class="expl"><strong>Correct: A.</strong> The image is of active treatment, not passive endurance.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What simile does verse 5 use for a person who "finds no worth" in future lives?</div>
+        <button class="opt">A farmer whose field yields no harvest</button>
+        <button class="opt">A river that runs dry before reaching the sea</button>
+        <button class="opt">A merchant who finds no buyer</button>
+        <button class="opt">"As an inspector of fig trees finds no flower" &mdash; since fig trees were understood to fruit without a visible flowering stage</button>
+        <div class="expl"><strong>Correct: D.</strong> The comparison trades on a specific piece of botanical common knowledge.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">According to the reading guide, how does the tradition read the unglossed phrase "the near shore and the far"?</div>
+        <button class="opt">It is explained in full within the sutta itself, with no ambiguity</button>
+        <button class="opt">The text leaves it unglossed; it has been read variously as this life and the next, or as internal and external sense fields, or as any pair of clung-to positions</button>
+        <button class="opt">It refers exclusively to a specific river near Sāvatthī</button>
+        <button class="opt">It is a later scribal insertion absent from all manuscripts</button>
+        <div class="expl"><strong>Correct: B.</strong> The reading guide deliberately does not resolve the ambiguity, since the source text does not either.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What does verse 8 mean by "gone beyond all this proliferation"?</div>
+        <button class="opt">Successfully multiplying merit through generosity</button>
+        <button class="opt">Having many disciples and followers</button>
+        <button class="opt">Being free of the restless, compulsive elaboration of experience into further thought and reaction</button>
+        <button class="opt">Having memorized a large number of teachings</button>
+        <div class="expl"><strong>Correct: C.</strong> This is the sense in which the person has "not run too far nor run back."</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">Verses 9 through 13 share an identical opening line and then add exactly one clause each. What is being added, term by term?</div>
+        <button class="opt">Freedom from greed, then lust, then hate, then delusion, one added per verse</button>
+        <button class="opt">The names of four different meditation teachers</button>
+        <button class="opt">Four different locations the Buddha visited</button>
+        <button class="opt">Four different types of alms food</button>
+        <div class="expl"><strong>Correct: A.</strong> The cumulative, one-term-at-a-time repetition is itself part of how the verses teach.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">What does the final verse (17) say has been given up?</div>
+        <button class="opt">All forms of speech</button>
+        <button class="opt">The practice of alms-begging</button>
+        <button class="opt">Ownership of robes and bowl</button>
+        <button class="opt">The five hindrances, leaving someone "untroubled, rid of indecision, free of thorns"</button>
+        <div class="expl"><strong>Correct: D.</strong> The discourse closes on this inventory of hindrances relinquished.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">Verse 6 says such a mendicant hides no anger within. What further claim does it make in the same verse?</div>
+        <button class="opt">That they have never once felt anger</button>
+        <button class="opt">That they are "passed beyond any kind of existence"</button>
+        <button class="opt">That they will be reborn as a deity</button>
+        <button class="opt">That anger belongs only to the untrained mind</button>
+        <div class="expl"><strong>Correct: B.</strong> The verse pairs an interior claim (no hidden anger) with a claim about existence itself.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What do verses 14 through 16 turn their attention to, after the earlier verses named specific defilements?</div>
+        <button class="opt">The daily schedule of a monastery</button>
+        <button class="opt">The specific foods a mendicant should avoid</button>
+        <button class="opt">Deeper structures: underlying tendencies and unskillful roots (v.14), whatever is "born of distress" (v.15), and any entangling "snarl" that would bind to a new life (v.16)</button>
+        <button class="opt">The geography of the four directions</button>
+        <div class="expl"><strong>Correct: C.</strong> The discourse moves from named defilements toward the underlying structures that produce them.</div>
+      </div>
+  
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">The refrain</div>
+      <ul>
+        <li>a serpent sheds its skin</li>
+        <li>the near shore and the far</li>
+        <li>repeated in all 17 verses</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">What is shed</div>
+      <ul>
+        <li>anger, greed, craving, conceit</li>
+        <li>future-life attachment</li>
+        <li>hidden resentment</li>
+        <li>underlying tendencies</li>
+        <li>the five hindrances</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">A structural note</div>
+      <ul>
+        <li>no narrator, no setting</li>
+        <li>opens the whole Sutta Nipāta</li>
+        <li>v.9&ndash;13 add one term each</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>SN 1.1 &middot; crossing the flood</li>
+        <li>Dhp Ch. 24 &middot; Craving</li>
+        <li>Snp 1.3 &middot; The Horned Rhino</li>
+      </ul>
+    </div>
+  
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/snp1.1/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.</li>
+      <li><a href="../samyutta-nikaya/sn-1.1.html">SN 1.1 &middot; Crossing the Flood</a> &mdash; another verse discourse built on the image of a far shore reached without standing or swimming.</li>
+      <li><a href="../dhammapada/dhp-24.html">Dhammapada Chapter 24 &middot; Craving</a> &mdash; a full chapter elaborating the theme this discourse states in verse 3.</li>
+      <li><a href="snp-1.3.html">Snp 1.3 &middot; The Horned Rhino</a> &mdash; the vagga&rsquo;s other great refrain-poem, on solitary practice.</li>
+  
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="./" class="prev"><span class="label">Collection</span>Sutta Nipāta index</a>
+    <a href="snp-1.2.html" class="next"><span class="label">Next &rarr;</span>Snp 1.2 &middot; The Wealthy Rancher</a>
+  
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>

@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Snp 2.5 — With Spiky | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for the Sūcilomasutta — the fierce yakkha Sūciloma ('Spiky') tests the Buddha, threatens him, then asks where greed, hate, discontent, desire, terror, and the mind's restless thoughts actually come from, and receives an answer tracing them to the self. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(38px, 5vw, 50px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Sutta Nipāta</a><span>&rsaquo;</span>Snp 2.5
+  </nav>
+
+  <div class="sutta-number">Sutta Nipāta &middot; Discourse 2.5</div>
+  <h1>With Spiky</h1>
+  <p class="subtitle"><em>S&#363;cilomasutta</em></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Near Gay&#257;, on the cut-stone ledge in the haunt of the native spirit S&#363;ciloma (&ldquo;Spiky&rdquo;)</dd>
+      <dt>Speakers</dt><dd>The native spirits Khara (&ldquo;Shaggy&rdquo;) and S&#363;ciloma (&ldquo;Spiky&rdquo;), then S&#363;ciloma and the Buddha</dd>
+      <dt>Form</dt><dd>A prose narrative &mdash; a hostile test, a threat, and calm composure &mdash; followed by a short verse dialogue on the origin of the mind&rsquo;s afflictions</dd>
+      <dt>Length</dt><dd>~2 minutes to read</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&#9734;&#9734;&#9734; &mdash; a vivid narrative frame around a psychologically dense final answer</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse</h2>
+    <p class="lede">
+      Before this sutta becomes a teaching, it is a confrontation. A yakkha named S&#363;ciloma &mdash; &ldquo;Spiky,&rdquo; presumably for a fearsome, bristling appearance &mdash; doubts that the seated ascetic before him is genuine, leans his body against him to test him, and threatens, when rebuffed, to drive him insane or hurl him across the Ganges. The Buddha&rsquo;s reply is unhurried: he isn&rsquo;t afraid, he simply finds the touch unpleasant, and he sees no one in any world who could actually carry out the threat &mdash; so Spiky may as well ask his real question. What follows is a compact, image-rich answer to one of the oldest psychological puzzles in the canon: where do greed, hatred, and the mind&rsquo;s restless thoughts actually come from?
+    </p>
+  </section>
+
+  </div>
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Greed, hatred, discontent, desire, terror, and the mind&rsquo;s restless wandering all arise &ldquo;from here&rdquo; &mdash; born of affection and originating in oneself, like the prop roots of a banyan sprouting from the tree itself &mdash; and understanding that origin is what allows a person to be free of them.
+    </p>
+
+    <h3>A fierce welcome</h3>
+    <p>
+      The sutta opens with two yakkhas, Khara (&ldquo;Shaggy&rdquo;) and S&#363;ciloma (&ldquo;Spiky&rdquo;), passing near the seated Buddha. Shaggy remarks, simply, &ldquo;that&rsquo;s an ascetic&rdquo; &mdash; and Spiky disagrees: &ldquo;that&rsquo;s no ascetic, he&rsquo;s a faker! I&rsquo;ll soon find out whether he&rsquo;s an ascetic or a faker.&rdquo; The test that follows is physical, not verbal: Spiky leans his body directly against the Buddha, who pulls away. Asked whether he is afraid, the Buddha gives an answer that reframes the entire exchange: &ldquo;No, respectable sir, I&rsquo;m not afraid. But your touch is nasty.&rdquo; The distinction matters &mdash; not fear, but simple, honest distaste.
+    </p>
+
+    <h3>A threat, and a striking composure</h3>
+    <p>
+      Spiky escalates: answer my question, he says, or &ldquo;I&rsquo;ll drive you insane, or explode your heart, or grab you by the feet and throw you to the far shore of the Ganges!&rdquo; The Buddha&rsquo;s reply is calm to the point of dryness: he doesn&rsquo;t see anyone &ldquo;in this world with its gods, M&#257;ras, and Divinities, this population with its ascetics and brahmins, its gods and humans&rdquo; who could actually do that to him &mdash; and, that settled, Spiky is welcome to ask whatever he wishes. The threat is answered not with a counter-threat or a display of power, but with an unbothered assessment of what is and isn&rsquo;t actually possible.
+    </p>
+
+    <h3>The question: where do these things come from?</h3>
+    <p>
+      Spiky&rsquo;s question, once it finally arrives, is precise and psychologically serious: &ldquo;Where do greed and hate come from? From where spring discontent, desire, and terror? Where do the mind&rsquo;s thoughts originate, like a crow let loose by boys?&rdquo; That closing image is worth pausing on &mdash; a crow released by children, flying about erratically with nowhere safe to land, is an unusually exact picture of a mind full of thoughts that have no stable place to settle.
+    </p>
+
+    <h3>The answer: rooted in self, spreading like a creeper</h3>
+    <p>
+      The Buddha&rsquo;s reply first repeats Spiky&rsquo;s own images back to him almost verbatim &mdash; greed, hate, discontent, desire, terror, and the mind&rsquo;s thoughts all come &ldquo;from here&rdquo; &mdash; before locating exactly where &ldquo;here&rdquo; is: &ldquo;born of affection, originating in oneself, like prop roots sprouting from a banyan.&rdquo; A banyan famously grows new roots downward from its own branches, each one eventually thickening into what looks like an independent trunk &mdash; a single tree that appears, from a distance, like an entire grove. The image suggests that these afflictions are not intrusions from outside but growths the self keeps generating from itself. The second image is sharper still: &ldquo;the many kinds of attachment to sensual pleasures are like camel&rsquo;s-foot creeper creeping through the woods&rdquo; &mdash; an invasive vine, spreading unchecked, choking whatever it climbs.
+    </p>
+
+    <h3>Understanding the origin, crossing the flood</h3>
+    <p>
+      The sutta&rsquo;s final verse turns the diagnosis into a path: &ldquo;those who understand where they come from get rid of them &mdash; listen up, spirit! &mdash; they cross this flood so hard to cross, not crossed before, so as to not be reborn.&rdquo; The &ldquo;flood&rdquo; is a recurring canonical image for the pull of craving and views that keeps beings cycling through existence; crossing it &ldquo;not crossed before&rdquo; suggests something genuinely final, not a temporary reprieve. Notably, the answer is addressed directly back to Spiky &mdash; &ldquo;listen up, spirit!&rdquo; &mdash; closing the discourse as a real reply to a real, if hostile, interlocutor, rather than an abstract teaching floated into the air.
+    </p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">yakkha</span> &mdash; a class of powerful, often fearsome nature spirits in the ancient Indian cosmos; S&#363;ciloma and Khara both belong to this category.
+      </div>
+      <div class="term">
+        <span class="pali-word">&ldquo;like a crow let loose by boys&rdquo;</span> &mdash; Spiky&rsquo;s own image for the mind&rsquo;s restless, unsettled thoughts.
+      </div>
+      <div class="term">
+        <span class="pali-word">the banyan&rsquo;s prop roots</span> &mdash; the Buddha&rsquo;s image for how greed, hate, and related afflictions originate in oneself rather than arriving from outside.
+      </div>
+      <div class="term">
+        <span class="pali-word">the flood (ogha)</span> &mdash; a standard canonical metaphor for the pull of craving, views, and ignorance that carries beings through repeated existence; crossing it is a synonym for liberation.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      Complete, including the prose frame with Khara and S&#363;ciloma. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>A fierce welcome</h3>
+
+      <p><span class="segno">&sect;1</span>So I have heard. At one time the Buddha was staying near Gay&#257; on the cut-stone ledge in the haunt of S&#363;ciloma the native spirit. Now at that time the native spirits Khara and S&#363;ciloma were passing by not far from the Buddha. So Khara said to S&#363;ciloma, &ldquo;That&rsquo;s an ascetic.&rdquo; &ldquo;That&rsquo;s no ascetic, he&rsquo;s a faker! I&rsquo;ll soon find out whether he&rsquo;s an ascetic or a faker.&rdquo;</p>
+
+      <p><span class="segno">&sect;2</span>Then S&#363;ciloma went up to the Buddha and leaned up against his body, but the Buddha pulled away. Then S&#363;ciloma said to the Buddha, &ldquo;Are you afraid, ascetic?&rdquo; &ldquo;No, respectable sir, I&rsquo;m not afraid. But your touch is nasty.&rdquo;</p>
+
+      <h3>A threat, and a striking composure</h3>
+
+      <p><span class="segno">&sect;3</span>&ldquo;I will ask you a question, ascetic. If you don&rsquo;t answer me, I&rsquo;ll drive you insane, or explode your heart, or grab you by the feet and throw you to the far shore of the Ganges!&rdquo;</p>
+
+      <p><span class="segno">&sect;4</span>&ldquo;I don&rsquo;t see anyone in this world with its gods, M&#257;ras, and Divinities, this population with its ascetics and brahmins, its gods and humans who could do that to me. But anyway, ask what you wish.&rdquo; Then S&#363;ciloma addressed the Buddha in verse:</p>
+
+      <h3>The question</h3>
+
+      <p><span class="segno">Verse 1</span>&ldquo;Where do greed and hate come from?<br>From where spring discontent, desire, and terror?<br>Where do the mind&rsquo;s thoughts originate,<br>like a crow let loose by boys.&rdquo;</p>
+
+      <h3>The answer: rooted in self, spreading like a creeper</h3>
+
+      <p><span class="segno">Verse 2</span>&ldquo;Greed and hate come from here;<br>from here spring discontent, desire, and terror;<br>here&rsquo;s where the mind&rsquo;s thoughts originate,<br>like a crow let loose by boys.</p>
+
+      <p><span class="segno">Verse 3</span>Born of affection, originating in oneself,<br>like prop roots sprouting from a banyan;<br>the many kinds of attachment to sensual pleasures<br>are like camel&rsquo;s foot creeper creeping through the woods.</p>
+
+      <h3>Understanding the origin, crossing the flood</h3>
+
+      <p><span class="segno">Verse 4</span>Those who understand where they come from<br>get rid of them&mdash;listen up, spirit!<br>They cross this flood so hard to cross,<br>not crossed before, so as to not be reborn.&rdquo;</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">Where does the discourse take place?</div>
+        <button class="opt">Near Sāvatthī, in Jeta's Grove</button>
+        <button class="opt">Near Gayā, on the cut-stone ledge in the haunt of the native spirit Sūciloma</button>
+        <button class="opt">On Vulture's Peak Mountain near Rājagaha</button>
+        <button class="opt">In a forest near Vesālī</button>
+        <div class="expl"><strong>Correct: B.</strong> This is literally Sūciloma's own territory — "Spiky's haunt."</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What does Khara say about the seated Buddha, and how does Sūciloma respond?</div>
+        <button class="opt">Khara says it's a king; Sūciloma agrees</button>
+        <button class="opt">Khara says it's a tree spirit; Sūciloma laughs</button>
+        <button class="opt">Khara says "that's an ascetic"; Sūciloma disagrees, calling him "no ascetic, he's a faker," and decides to test him</button>
+        <button class="opt">Khara says nothing; Sūciloma attacks immediately</button>
+        <div class="expl"><strong>Correct: C.</strong> This sets up Sūciloma's physical test that follows.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">How does Sūciloma first test the Buddha, and how does the Buddha respond to being asked if he's afraid?</div>
+        <button class="opt">Sūciloma leans his body against the Buddha; the Buddha pulls away and says he isn't afraid, but the touch is "nasty"</button>
+        <button class="opt">Sūciloma throws a rock; the Buddha catches it silently</button>
+        <button class="opt">Sūciloma shouts a riddle; the Buddha answers immediately</button>
+        <button class="opt">Sūciloma vanishes and reappears; the Buddha is unmoved</button>
+        <div class="expl"><strong>Correct: A.</strong> The Buddha distinguishes clearly between fear and simple, honest distaste.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What does Sūciloma threaten if the Buddha doesn't answer his question?</div>
+        <button class="opt">To burn down the forest</button>
+        <button class="opt">To summon the four great kings</button>
+        <button class="opt">To curse the Buddha's followers</button>
+        <button class="opt">To drive him insane, explode his heart, or grab him by the feet and throw him to the far shore of the Ganges</button>
+        <div class="expl"><strong>Correct: D.</strong> A vivid, escalating threat from a fierce yakkha.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">How does the Buddha respond to this threat?</div>
+        <button class="opt">He immediately flees</button>
+        <button class="opt">He calmly states he sees no one in any world — with its gods, Māras, Divinities, ascetics, brahmins, gods, or humans — who could do that to him, and invites the question anyway</button>
+        <button class="opt">He threatens Sūciloma in return</button>
+        <button class="opt">He refuses to speak further</button>
+        <div class="expl"><strong>Correct: B.</strong> Composure, not confrontation.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What is Sūciloma's actual question, once he asks it?</div>
+        <button class="opt">How to become invisible</button>
+        <button class="opt">Why humans fear yakkhas</button>
+        <button class="opt">Where greed, hate, discontent, desire, and terror come from, and where the mind's thoughts originate, "like a crow let loose by boys"</button>
+        <button class="opt">How many lifetimes remain before he is reborn as a human</button>
+        <div class="expl"><strong>Correct: C.</strong> A serious, precise question about the origin of mental affliction.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">According to the Buddha's answer, where do greed, hate, and the mind's restless thoughts come from?</div>
+        <button class="opt">"From here" — born of affection and originating in oneself, like prop roots sprouting from a banyan</button>
+        <button class="opt">From the influence of hostile spirits</button>
+        <button class="opt">From bad food and poor sleep</button>
+        <button class="opt">From the stars and planets</button>
+        <div class="expl"><strong>Correct: A.</strong> The Buddha first echoes Spiky's own images back before locating their source in the self.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">What image is used for "the many kinds of attachment to sensual pleasures"?</div>
+        <button class="opt">A river overflowing its banks</button>
+        <button class="opt">A moth drawn to flame</button>
+        <button class="opt">A spider's web</button>
+        <button class="opt">Camel's-foot creeper creeping through the woods — an invasive vine spreading unchecked</button>
+        <div class="expl"><strong>Correct: D.</strong> Paired with the banyan's self-sprouting prop roots as the sutta's two central images.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What happens to those who "understand where they come from," according to the final verse?</div>
+        <button class="opt">They become powerful yakkhas themselves</button>
+        <button class="opt">They get rid of these afflictions and "cross this flood so hard to cross, not crossed before, so as to not be reborn"</button>
+        <button class="opt">They are reborn immediately as gods</button>
+        <button class="opt">Nothing changes for them</button>
+        <div class="expl"><strong>Correct: B.</strong> The "flood" is a standard canonical image for the pull of craving and views.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">Who is the final verse's answer explicitly addressed to?</div>
+        <button class="opt">A general audience of monks</button>
+        <button class="opt">Khara, the other yakkha</button>
+        <button class="opt">Sūciloma directly — "listen up, spirit!" — closing the discourse as a genuine reply to a real, if hostile, interlocutor</button>
+        <button class="opt">No one; it is left unaddressed</button>
+        <div class="expl"><strong>Correct: C.</strong> The teaching remains grounded in the specific confrontation that opened the sutta.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">A yakkha's test</div>
+      <ul>
+        <li>Khara & S&#363;ciloma</li>
+        <li>leaning, pulling away</li>
+        <li>"your touch is nasty"</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">The threat</div>
+      <ul>
+        <li>insanity, exploded heart</li>
+        <li>thrown across the Ganges</li>
+        <li>met with calm</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Origin traced to self</div>
+      <ul>
+        <li>"from here"</li>
+        <li>born of affection</li>
+        <li>banyan's prop roots</li>
+        <li>camel's-foot creeper</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>DN 32 &middot; &#256;&#7789;&#257;n&#257;&#7789;iya Protection</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/snp2.5/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with P&#257;li alongside, segment by segment.</li>
+      <li><a href="../digha-nikaya/dn-32.html">DN 32 &middot; The &#256;&#7789;&#257;n&#257;&#7789;iya Protection</a> &mdash; another encounter between the Buddha and the wider world of spirits, this one framed as a chant for protection rather than a hostile confrontation.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="snp-2.4.html"><span class="label">&larr; Previous</span>Snp 2.4 &middot; Blessings</a>
+    <a href="snp-2.6.html" class="next"><span class="label">Next &rarr;</span>Snp 2.6 &middot; A Righteous Life</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
