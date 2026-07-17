@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dhammapada — Sayings of the Dhamma | Ru-Yi Meditation Center</title>
+<meta name="description" content="All 26 chapters of the Dhammapada, the most widely read verse collection in the Pāli Canon, with reading guides, full English translations, and self-check quizzes. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.65;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .series-mark {
+    font-family: Georgia, serif;
+    font-size: 17px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 14px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 6vw, 59px);
+    font-weight: 400;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 25px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 44px;
+  }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .intro {
+    font-size: 21px;
+    color: #1a1d23;
+    margin-bottom: 24px;
+  }
+  .meta-card {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 48px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .meta-card dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .meta-card dt { color: #6b6b6b; font-weight: 600; }
+  .meta-card dd { color: #1a1d23; }
+
+  .sutta-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .sutta-row {
+    display: grid;
+    grid-template-columns: 50px 1fr auto;
+    gap: 14px;
+    padding: 9px 0;
+    border-bottom: 1px solid #dee2e6;
+    align-items: baseline;
+    font-size: 18px;
+  }
+  .sutta-row:last-child { border-bottom: none; }
+  .sutta-num {
+    font-family: Georgia, serif;
+    color: #b8431c;
+    font-size: 17px;
+    letter-spacing: 0.04em;
+  }
+  .sutta-titles { line-height: 1.45; }
+  .sutta-titles .pali {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color: #4a4a4a;
+    font-size: 17px;
+    margin-right: 2px;
+  }
+  .sutta-titles .en {
+    color: #1a1a1a;
+    font-weight: 500;
+  }
+  .sutta-status {
+    font-size: 14px;
+    color: #b8b8b8;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .sutta-row a {
+    color: inherit;
+    text-decoration: none;
+    display: contents;
+  }
+  .sutta-row.linked .sutta-titles .en {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-decoration-color: #b8431c;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+  }
+  .sutta-row.linked:hover {
+    background: #f3f5f7;
+  }
+  .sutta-row.linked .sutta-status {
+    color: #6ba368;
+  }
+  .sutta-row.placeholder .sutta-titles .en {
+    color: #8a8a8a;
+  }
+  .sutta-row.placeholder .sutta-titles .pali {
+    color: #8a8d93;
+  }
+
+  footer {
+    margin-top: 72px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<script>document.documentElement.classList.add('js');</script>
+<style>
+  .js [data-rv]{opacity:0;transform:translateY(20px);
+    transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
+  .js [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js [data-rv]{opacity:1 !important;transform:none !important;}}
+  .sutta-row.linked{position:relative;transition:background .2s ease,padding-left .2s ease;}
+  .sutta-row.linked::before{content:"";position:absolute;left:0;top:6px;bottom:6px;width:3px;border-radius:3px;
+    background:linear-gradient(180deg,#b8431c,#e0a93f);opacity:0;transform:scaleY(.4);transform-origin:top;
+    transition:opacity .22s ease,transform .28s ease;}
+  .sutta-row.linked:hover{background:#f7f2ea;padding-left:12px;}
+  .sutta-row.linked:hover::before{opacity:1;transform:scaleY(1);}
+  .sutta-row.linked:hover .sutta-num{color:#8c2f12;}
+  .sutta-num{transition:color .2s ease;}
+</style>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+<div class="container">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>›</span><a href="../">The Discourses</a><span>›</span>Dhammapada
+  </nav>
+
+  <div class="series-mark">A series at Ru-Yi Meditation Center</div>
+  <h1>Dhammapada</h1>
+  <p class="subtitle"><em>Sayings of the Dhamma</em></p>
+
+  <p class="intro">
+    The Dhammapada is part of the Khuddaka Nikāya, the fifth and most varied of the five collections of the Pāli Canon &mdash; a collection of fifteen very different kinds of text, from verse anthologies to birth stories to technical treatises. Of all of them, the Dhammapada is by far the most widely read: 423 short verses arranged in 26 thematic chapters, prized for millennia for their clarity and quotability, and almost certainly the single most translated text in the entire Buddhist canon.
+  </p>
+  <p class="intro">
+    Unlike the Majjhima, Dīgha, and other Nikāya discourses on this site, the Dhammapada has no narrative frame, no dialogue, no setting &mdash; just concentrated verse, often paired for contrast (the fool and the wise person, the corrupt mind and the clear one). Each chapter here gets the same treatment as our other series: a reading guide, the full Sujato translation, and a self-check quiz.
+  </p>
+
+  <div class="meta-card" data-rv>
+    <dl>
+      <dt>Verses</dt><dd>423, arranged in 26 chapters (<em>vagga</em>)</dd>
+      <dt>Collection</dt><dd>Part of the Khuddaka Nikāya, the fifth Nikāya of the Sutta Piṭaka</dd>
+      <dt>English source</dt><dd>Bhikkhu Sujato, released CC0 by SuttaCentral</dd>
+      <dt>Pāli source</dt><dd>Mahāsaṅgīti edition, CC0</dd>
+      <dt>Reference</dt><dd>Gil Fronsdal, <em>The Dhammapada</em> (Shambhala, 2005); Ānandajoti Bhikkhu's verse-by-verse study edition</dd>
+      <dt>Chinese parallel</dt><dd>Corresponds broadly to the Faju Jing (法句經, T210) and related Chinese Dharmapada collections</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>All 26 chapters</h2>
+    <p style="font-size: 18px; color:#6b6b6b; margin-bottom:12px;">Linked rows have a published reading guide. Unlinked rows are listed for navigation and will become available as the series progresses.</p>
+
+    <ul class="sutta-list">
+      <li class="sutta-row linked"><a href="dhp-01.html"><span class="sutta-num">1</span><span class="sutta-titles"><span class="pali">Yamakavagga</span> · <span class="en">Pairs</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-02.html"><span class="sutta-num">2</span><span class="sutta-titles"><span class="pali">Appamādavagga</span> · <span class="en">Diligence</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-03.html"><span class="sutta-num">3</span><span class="sutta-titles"><span class="pali">Cittavagga</span> · <span class="en">The Mind</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-04.html"><span class="sutta-num">4</span><span class="sutta-titles"><span class="pali">Pupphavagga</span> · <span class="en">Flowers</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-05.html"><span class="sutta-num">5</span><span class="sutta-titles"><span class="pali">Bālavagga</span> · <span class="en">The Fool</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-06.html"><span class="sutta-num">6</span><span class="sutta-titles"><span class="pali">Paṇḍitavagga</span> · <span class="en">The Astute</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-07.html"><span class="sutta-num">7</span><span class="sutta-titles"><span class="pali">Arahantavagga</span> · <span class="en">The Perfected Ones</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-08.html"><span class="sutta-num">8</span><span class="sutta-titles"><span class="pali">Sahassavagga</span> · <span class="en">The Thousands</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-09.html"><span class="sutta-num">9</span><span class="sutta-titles"><span class="pali">Pāpavagga</span> · <span class="en">Wickedness</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-10.html"><span class="sutta-num">10</span><span class="sutta-titles"><span class="pali">Daṇḍavagga</span> · <span class="en">The Rod</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-11.html"><span class="sutta-num">11</span><span class="sutta-titles"><span class="pali">Jarāvagga</span> · <span class="en">Old Age</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-12.html"><span class="sutta-num">12</span><span class="sutta-titles"><span class="pali">Attavagga</span> · <span class="en">The Self</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-13.html"><span class="sutta-num">13</span><span class="sutta-titles"><span class="pali">Lokavagga</span> · <span class="en">The World</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-14.html"><span class="sutta-num">14</span><span class="sutta-titles"><span class="pali">Buddhavagga</span> · <span class="en">The Buddhas</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-15.html"><span class="sutta-num">15</span><span class="sutta-titles"><span class="pali">Sukhavagga</span> · <span class="en">Happiness</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-16.html"><span class="sutta-num">16</span><span class="sutta-titles"><span class="pali">Piyavagga</span> · <span class="en">The Beloved</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-17.html"><span class="sutta-num">17</span><span class="sutta-titles"><span class="pali">Kodhavagga</span> · <span class="en">Anger</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-18.html"><span class="sutta-num">18</span><span class="sutta-titles"><span class="pali">Malavagga</span> · <span class="en">Stains</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-19.html"><span class="sutta-num">19</span><span class="sutta-titles"><span class="pali">Dhammaṭṭhavagga</span> · <span class="en">The Just</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-20.html"><span class="sutta-num">20</span><span class="sutta-titles"><span class="pali">Maggavagga</span> · <span class="en">The Path</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-21.html"><span class="sutta-num">21</span><span class="sutta-titles"><span class="pali">Pakiṇṇakavagga</span> · <span class="en">Miscellaneous</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-22.html"><span class="sutta-num">22</span><span class="sutta-titles"><span class="pali">Nirayavagga</span> · <span class="en">Hell</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-23.html"><span class="sutta-num">23</span><span class="sutta-titles"><span class="pali">Nāgavagga</span> · <span class="en">Elephants</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-24.html"><span class="sutta-num">24</span><span class="sutta-titles"><span class="pali">Taṇhāvagga</span> · <span class="en">Craving</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-25.html"><span class="sutta-num">25</span><span class="sutta-titles"><span class="pali">Bhikkhuvagga</span> · <span class="en">Mendicants</span></span><span class="sutta-status">live</span></a></li>
+      <li class="sutta-row linked"><a href="dhp-26.html"><span class="sutta-num">26</span><span class="sutta-titles"><span class="pali">Brāhmaṇavagga</span> · <span class="en">Brahmins</span></span><span class="sutta-status">live</span></a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translations © Bhikkhu Sujato, released CC0. Reading guides written for Ru-Yi Meditation Center.</p>
+  </footer>
+
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.08,rootMargin:'0px 0px -5% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
