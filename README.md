@@ -25,7 +25,7 @@ ruyi-meditation/
 
 ## Content sources
 
-- Columns: imported from Obsidian vault `組織事務/Ru-Yi Meditation Center/Columns/` (Phase 2 migration 2026-05-23). 61 articles by Luke Lin, Jennafer Duerden, Emily Hogle, Quentin Gooch.
+- Columns: imported from Obsidian vault `組織事務/Ru-Yi Meditation Center/Columns/` (Phase 2 migration 2026-05-23). 62 articles by Luke Lin, Jennafer Duerden, Emily Hogle, Quentin Gooch.
 - Discourses (MN 1-9): canonical version lives on academy.ruyimeditation.org; this site currently links out and will absorb the content when the two sites merge.
 
 ## Conventions
