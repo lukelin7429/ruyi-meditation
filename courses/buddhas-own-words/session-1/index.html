@@ -1,0 +1,221 @@
+---
+layout: default
+title: "Session 1 · The Simile of the Arrow (MN 63)"
+permalink: /courses/buddhas-own-words/session-1/
+excerpt: Session 1 of The Buddha's Own Words — reading MN 63, the Shorter Discourse with Māluṅkya, on why the Buddha set the big cosmic questions aside and taught the Four Noble Truths instead.
+---
+
+<style>
+  .ls{--saffron:#d98b2b;--saffron-deep:#b56a1c;--maroon:#6f2a22;--maroon-deep:#3d1712;
+      --gold:#e3b765;--jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#2a211b;--ink-soft:#5f5449;--line:#ece0cf;}
+  .ls *{box-sizing:border-box;}
+  .ls-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .ls-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ls-crumb .ls-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .ls-crumb a{color:var(--saffron-deep);text-decoration:none;}
+  .ls-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .ls-hero{background:linear-gradient(158deg,#7c2f24 0%,#6f2a22 42%,#3d1712 100%);color:#fff;}
+  .ls-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .ls-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ls-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .ls-hero .subt{font-style:italic;font-size:18px;color:#f4e2d4;}
+  .ls-hero .rd{margin-top:22px;font-size:14px;color:#e9cdbf;}
+  .ls-hero .rd b{color:var(--gold);}
+
+  /* prep callout */
+  .ls-prep{background:var(--gold);color:#4a3410;font-size:15px;line-height:1.6;padding:16px 22px;border-radius:12px;margin:34px 0 10px;font-weight:500;}
+  .ls-prep b{color:var(--maroon-deep);}
+
+  /* body */
+  .ls-body{background:#fff;padding:44px 0 24px;}
+  .ls-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+  .ls-body p.tight{margin-bottom:10px;}
+
+  /* part header */
+  .ls-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .ls-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--saffron-deep);}
+  .ls-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .ls-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+
+  .ls-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--maroon);margin:34px 0 10px;}
+
+  /* pull quote / sutta passage */
+  .ls-quote{border-left:4px solid var(--gold);background:var(--cream);padding:18px 24px;border-radius:0 12px 12px 0;margin:24px 0;
+    font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:var(--maroon-deep);}
+
+  /* the four truths */
+  .ls-truths{list-style:none;counter-reset:t;padding:0;margin:22px 0;}
+  .ls-truths li{counter-increment:t;position:relative;padding:16px 20px 16px 60px;background:var(--cream);border:1px solid var(--line);border-radius:12px;margin-bottom:10px;
+    font-size:16.5px;line-height:1.55;color:var(--ink);}
+  .ls-truths li::before{content:counter(t);position:absolute;left:16px;top:15px;width:30px;height:30px;border-radius:50%;background:var(--jade);color:#fff;
+    font-family:'Playfair Display',serif;font-weight:700;font-size:16px;display:flex;align-items:center;justify-content:center;}
+  .ls-truths li b{color:var(--maroon);}
+  .ls-truths li i{color:var(--jade-deep);font-style:italic;}
+
+  /* takeaways */
+  .ls-take{background:linear-gradient(180deg,#fdfaf4,#f7eddc);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .ls-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--maroon);margin-bottom:8px;}
+  .ls-take ul{margin:0;padding-left:20px;}
+  .ls-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
+  .ls-take li b{color:var(--maroon-deep);}
+
+  /* annotation legend */
+  .ls-legend{display:grid;gap:8px;grid-template-columns:1fr 1fr;margin:16px 0;}
+  @media(min-width:560px){.ls-legend{grid-template-columns:repeat(4,1fr);}}
+  .ls-legend div{background:var(--cream);border:1px solid var(--line);border-radius:10px;padding:12px 14px;font-size:14px;color:var(--ink);text-align:center;}
+  .ls-legend .sym{font-family:'Playfair Display',serif;font-size:22px;font-weight:700;color:var(--saffron-deep);display:block;}
+
+  /* discussion / assignment */
+  .ls-disc{counter-reset:d;list-style:none;padding:0;margin:18px 0;}
+  .ls-disc li{counter-increment:d;position:relative;padding:14px 18px 14px 54px;border-bottom:1px solid var(--line);font-size:16.5px;line-height:1.6;color:var(--ink);}
+  .ls-disc li:last-child{border-bottom:none;}
+  .ls-disc li::before{content:"Q" counter(d);position:absolute;left:16px;top:14px;font-family:'Playfair Display',serif;font-weight:700;color:var(--saffron-deep);font-size:15px;}
+
+  .ls-opt{border:1px solid var(--line);border-radius:14px;padding:22px 24px;margin:14px 0;background:#fff;}
+  .ls-opt b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .ls-opt p{font-size:16px;line-height:1.65;color:var(--ink-soft);margin:0;}
+
+  .ls-next{background:var(--maroon);color:#f4e7d6;border-radius:16px;padding:28px 32px;margin:40px 0 20px;}
+  .ls-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ls-next h3{font-family:'Playfair Display',serif;color:#fff;font-size:22px;margin:8px 0 8px;}
+  .ls-next p{color:#f0ddcf;font-size:15.5px;line-height:1.65;margin:0;}
+
+  /* footer nav + actions */
+  .ls-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .ls-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .ls-btn.primary{background:linear-gradient(158deg,#357a69,#2f6d5e);color:#fff;box-shadow:0 12px 26px -14px rgba(35,79,68,.7);}
+  .ls-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(35,79,68,.8);text-decoration:none;}
+  .ls-btn.ghost{border:1.5px solid var(--maroon);color:var(--maroon);background:transparent;}
+  .ls-btn.ghost:hover{background:var(--maroon);color:#fff;}
+
+  /* PRINT */
+  @media print{
+    .site-header,.site-main > .ls .ls-crumb,.ls-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .ls-hero{background:none;color:#000;padding:0;}
+    .ls-hero-in{padding:0 0 12px;}
+    .ls-eyebrow,.ls-hero .subt,.ls-hero .rd{color:#444;}
+    .ls-hero h1{color:#000;}
+    .ls-body{padding:0;}
+    .ls-body p,.ls-body h3,.ls-part h2,.ls-truths li,.ls-take li,.ls-disc li{color:#000;}
+    .ls-quote,.ls-take,.ls-truths li,.ls-opt,.ls-prep{background:#fff !important;border:1px solid #bbb;}
+    .ls-next{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ls-next h3,.ls-next p,.ls-next .l{color:#000;}
+    .ls{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="ls">
+
+  <nav class="ls-crumb"><div class="ls-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/buddhas-own-words/' | relative_url }}">The Buddha's Own Words</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="ls-hero">
+    <div class="ls-hero-in">
+      <div class="ls-eyebrow">Session 1 · The problem Buddhism is trying to solve</div>
+      <h1>The Simile of the Arrow</h1>
+      <div class="subt">MN 63 — The Shorter Discourse with Māluṅkya</div>
+      <div class="rd"><b>Before class:</b> Read MN 63 in full (about 10 minutes) and bring your notes. Don't worry if parts feel confusing — that's what today is for.</div>
+    </div>
+  </section>
+
+  <div class="ls-body">
+    <div class="ls-wrap">
+
+      <!-- PART 1 -->
+      <div class="ls-part"><div class="pn">Part 1</div><h2>Lecture Notes</h2></div>
+
+      <h3>Setting the scene</h3>
+      <p>Imagine a student who has studied with a great teacher for years, and one day marches up, frustrated, and issues an ultimatum: <em>"Either you answer my biggest questions about the universe — right now — or I quit."</em></p>
+      <p>That is exactly how this discourse opens. A monk named <strong>Māluṅkyaputta</strong> comes to the Buddha with a list of ten enormous questions he feels the Buddha has been dodging:</p>
+      <ul style="font-size:17px;line-height:1.7;color:var(--ink);">
+        <li>Is the universe eternal, or not?</li>
+        <li>Is it infinite, or finite?</li>
+        <li>Is the soul the same thing as the body, or different?</li>
+        <li>Does an enlightened being continue to exist after death — or not, or both, or neither?</li>
+      </ul>
+      <p>He tells the Buddha: answer these, or I'm leaving. These are real questions — people have argued about them for thousands of years. And here is the surprising thing: <strong>the Buddha refuses to answer them.</strong> Not because he's hiding something, but because he thinks asking them <em>first</em> is a mistake. To show why, he tells one of the most famous stories in all of Buddhism.</p>
+
+      <h3>The simile of the arrow</h3>
+      <p>Suppose a man is shot with an arrow thickly smeared with poison. His friends rush to bring a surgeon. But the man says:</p>
+      <div class="ls-quote">"I won't let this arrow be pulled out until I know who shot me — his name, his family, whether he was tall or short; until I know what the bow was made of, the bowstring, the kind of feathers on the shaft…"</div>
+      <p>What happens to this man? <strong>He dies.</strong> He dies with all his questions still unanswered — because the questions, however interesting, had nothing to do with the thing that was actually killing him.</p>
+      <p>The Buddha's point lands like a hammer: <em>you are the man with the arrow.</em> The "arrow" is suffering — the dissatisfaction, anxiety, grief, and restlessness woven into ordinary human life. The speculative questions are real, but they will not pull the arrow out. Life is short; the wound is real; get to work on what actually heals.</p>
+
+      <h3>What the Buddha <em>did</em> choose to teach</h3>
+      <p>So if he set those ten questions aside, what did he teach instead? He was precise about this. He said he taught four things — and only things like them — because they are <em>useful</em>, they <em>lead to peace</em>, they actually pull the arrow out. These four are the foundation of everything else in the course. They are called the <strong>Four Noble Truths</strong>:</p>
+      <ol class="ls-truths">
+        <li><b>There is suffering</b> (<em>dukkha</em>) — a pervasive unsatisfactoriness in life. <i>(This is the arrow.)</i></li>
+        <li><b>Suffering has a cause</b> — it arises from craving and clinging. <i>(This is the poison.)</i></li>
+        <li><b>Suffering can end</b> — the cause can be let go. <i>(This is the possibility of healing.)</i></li>
+        <li><b>There is a path that leads to its ending.</b> <i>(This is the treatment.)</i></li>
+      </ol>
+      <p>Notice the <em>shape</em> of this. It is not a creed. It is a <strong>diagnosis and a treatment plan</strong> — the structure a doctor uses: here is the illness, here is its cause, here is the good news that it can be cured, here is the medicine. The Buddha, in the early texts, is far more like a physician than a prophet.</p>
+
+      <div class="ls-take">
+        <b class="h">Three ideas to carry out of today</b>
+        <ul>
+          <li><b>Buddhism begins with a problem, not a belief.</b> The starting point is honest observation of suffering, not faith in a doctrine.</li>
+          <li><b>The Buddha valued usefulness over speculation.</b> A question is worth answering if answering it helps free you; otherwise he set it aside — not as forbidden, but as a distraction from the wound.</li>
+          <li><b>The Four Noble Truths are a template, not a dogma.</b> Diagnosis → cause → cure → treatment. The whole path hangs on this shape.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="ls-part"><div class="pn">Part 2</div><h2>Primary Text<span class="rf">Read &amp; annotate the full discourse</span></h2></div>
+      <p>Read the full discourse on its reading page. As you read, mark up your copy with these four symbols:</p>
+      <div class="ls-legend">
+        <div><span class="sym">!</span>surprises you / hits hard</div>
+        <div><span class="sym">?</span>you don't understand</div>
+        <div><span class="sym">★</span>want to remember</div>
+        <div><span class="sym">~</span>want to push back on</div>
+      </div>
+      <p>Pay special attention to two passages: <strong>(1)</strong> the list of ten questions Māluṅkyaputta demands answers to, and <strong>(2)</strong> the Buddha's own words on <em>why</em> he leaves them undeclared — the phrase to watch for is that they are <em>"not connected with the goal… do not lead to disenchantment, to dispassion, to cessation, to peace, to nibbāna."</em></p>
+      <p style="font-size:15px;color:var(--ink-soft);"><em>Tip: don't just underline. In the margin, write one word for how each part makes you feel — "clever," "cold," "relieved," "annoyed." Your reactions are data we'll use in discussion.</em></p>
+      <p><a class="ls-btn ghost" href="{{ '/discourses/majjhima-nikaya/mn-063.html' | relative_url }}">Open MN 63 — full text &amp; quiz →</a></p>
+
+      <!-- PART 3 -->
+      <div class="ls-part"><div class="pn">Part 3</div><h2>Discussion Questions</h2></div>
+      <p>We'll talk through these together. There are no wrong answers — bring your honest thinking.</p>
+      <ol class="ls-disc">
+        <li>The Buddha refuses to answer Māluṅkyaputta's big questions. When you first read that, did it feel <strong>wise</strong>, or did it feel like a <strong>dodge</strong>? Be honest.</li>
+        <li>Think of a time you were "the man with the arrow" — stuck demanding answers or certainty, while the actual problem in front of you went unaddressed. What was your arrow?</li>
+        <li>The Buddha frames his teaching like a <strong>doctor</strong> (diagnosis, cause, cure, treatment) rather than a <strong>priest</strong> (believe this). Does that framing make Buddhism more approachable for you, or less? Why?</li>
+        <li>Is it really possible to set aside the "big questions" — about death, the universe, the soul — and still live a full life? Or do we <em>need</em> answers to them?</li>
+        <li>The first noble truth is "there is suffering." Some hear that and call Buddhism pessimistic. After reading this discourse, do you think that's fair?</li>
+      </ol>
+
+      <!-- PART 4 -->
+      <div class="ls-part"><div class="pn">Part 4</div><h2>Assignment<span class="rf">Choose one · half to one page · bring it next session</span></h2></div>
+      <div class="ls-opt">
+        <b class="h">Option A — Your own arrow</b>
+        <p>Write about a real situation where, like the wounded man, you got stuck on a question that didn't actually help you — while the thing that needed attention went unattended. What was the "arrow"? What were the "who made the bow?" questions you fixated on instead? Looking back, what would "pulling the arrow out" have meant?</p>
+      </div>
+      <div class="ls-opt">
+        <b class="h">Option B — Rewrite the simile</b>
+        <p>The arrow was a vivid image for its time. Write a <strong>modern version</strong> — a short parable set in today's world that makes the Buddha's point (stop demanding irrelevant certainty; treat the real wound) to a friend who has never heard of Buddhism. Keep it under one page.</p>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="ls-part"><div class="pn">Part 5</div><h2>Self-Check</h2></div>
+      <p>Take the short quiz for MN 63 on its reading page. It's not graded — it's a mirror. If any question stumps you, note it and bring it to class; that's exactly the kind of thing we should talk about.</p>
+
+      <!-- NEXT -->
+      <div class="ls-next">
+        <div class="l">Looking ahead</div>
+        <h3>Session 2 — How to hold the teachings</h3>
+        <p>If today's discourse said <em>"don't get lost in speculation — treat the wound,"</em> a natural next question is: <em>"So am I supposed to just believe whatever the Buddha teaches, then?"</em> Next week's discourse (MN 22, the <em>Simile of the Raft</em>) gives a startling answer — the Buddha compares his own teachings to a raft you use to cross a river and then leave behind. Come ready to have your idea of "religion" gently taken apart.</p>
+      </div>
+
+      <div class="ls-foot">
+        <a class="ls-btn ghost" href="{{ '/courses/buddhas-own-words/' | relative_url }}">← Course overview</a>
+        <button type="button" class="ls-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>

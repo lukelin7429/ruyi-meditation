@@ -1,0 +1,204 @@
+---
+layout: default
+title: The Buddha's Own Words
+permalink: /courses/buddhas-own-words/
+excerpt: A twelve-session beginner course reading the Buddha's own discourses from the Majjhima Nikāya — with lecture notes, primary text, discussion, and assignments. Ru-Yi Academy.
+---
+
+<style>
+  .cw{--saffron:#d98b2b;--saffron-deep:#b56a1c;--maroon:#6f2a22;--maroon-deep:#3d1712;
+      --gold:#e3b765;--jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;}
+  .cw *{box-sizing:border-box;}
+  .cw-wrap{max-width:880px;margin:0 auto;padding:0 26px;}
+
+  .cw-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .cw-crumb .cw-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);}
+  .cw-crumb a{color:var(--saffron-deep);text-decoration:none;}
+  .cw-crumb a:hover{text-decoration:underline;}
+
+  /* HERO */
+  .cw-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 90% at 82% 12%,rgba(227,183,101,.24),transparent 60%),
+      linear-gradient(158deg,#357a69 0%,#2f6d5e 46%,#1f4a40 100%);}
+  .cw-hero-in{position:relative;max-width:880px;margin:0 auto;padding:66px 26px 60px;z-index:2;}
+  .cw-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .cw-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(34px,5.4vw,56px);line-height:1.08;margin:14px 0 6px;}
+  .cw-hero .subt{font-style:italic;font-size:19px;color:#e9f3ef;max-width:32ch;}
+  .cw-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .cw-facts span{font-size:13px;color:#eaf4f0;border:1px solid rgba(227,183,101,.4);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+
+  .cw-body{background:#fff;padding:56px 0 20px;}
+  .cw-body h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.6vw,32px);color:var(--ink);margin:0 0 4px;}
+  .cw-body h2 + .cw-zh{color:var(--saffron-deep);font-size:13px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;}
+  .cw-lede{font-size:18px;line-height:1.75;color:var(--ink);}
+  .cw-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--maroon);}
+  .cw-body p{font-size:16.5px;line-height:1.72;color:var(--ink-soft);}
+  .cw-sec{margin:44px 0;}
+  .cw-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--saffron-deep);margin-bottom:12px;}
+
+  /* objectives */
+  .cw-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;}
+  .cw-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.55;color:var(--ink);}
+  .cw-obj li b{color:var(--maroon);}
+  .cw-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--jade);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+  .cw-obj{counter-reset:o;}
+
+  /* rhythm chips */
+  .cw-rhythm{display:grid;gap:10px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:640px){.cw-rhythm{grid-template-columns:repeat(5,1fr);}}
+  .cw-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 8px;}
+  .cw-rc .n{font-family:'Playfair Display',serif;color:var(--saffron-deep);font-weight:700;font-size:15px;}
+  .cw-rc b{display:block;color:var(--ink);font-size:14.5px;margin:4px 0 2px;}
+  .cw-rc span{font-size:12px;color:var(--ink-soft);line-height:1.4;}
+
+  /* schedule */
+  .cw-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .cw-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .cw-row:last-child{border-bottom:none;}
+  .cw-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--saffron-deep);text-align:center;}
+  .cw-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .cw-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .cw-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .cw-row.live{background:#fff;}
+  .cw-row.live:hover{background:var(--cream);}
+  .cw-row.live .st{background:var(--jade);color:#fff;}
+  .cw-row.soon{background:#fcfaf5;cursor:default;}
+  .cw-row.soon .wk,.cw-row.soon .ti{color:#9a8f80;}
+  .cw-row.soon .st{background:#f0e7d6;color:#a9906a;}
+  .cw-row.zero{background:linear-gradient(90deg,#fbf5ea,#fff);}
+  .cw-row.zero .st{background:#e8ded0;color:var(--saffron-deep);}
+
+  /* assess + materials */
+  .cw-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .cw-card ul{margin:6px 0 0;padding-left:20px;}
+  .cw-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .cw-card li b{color:var(--maroon);}
+
+  /* actions */
+  .cw-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .cw-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .cw-btn.primary{background:linear-gradient(158deg,#357a69,#2f6d5e);color:#fff;box-shadow:0 14px 30px -16px rgba(35,79,68,.7);}
+  .cw-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(35,79,68,.8);}
+  .cw-btn.ghost{border:1.5px solid var(--maroon);color:var(--maroon);}
+  .cw-btn.ghost:hover{background:var(--maroon);color:#fff;text-decoration:none;}
+
+  .cw-teacher{background:var(--maroon);color:#f4e7d6;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .cw-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .cw-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="cw">
+
+  <nav class="cw-crumb"><div class="cw-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> → <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → The Buddha's Own Words</div></nav>
+
+  <!-- HERO -->
+  <section class="cw-hero">
+    <div class="cw-hero-in">
+      <div class="cw-eyebrow">Ru-Yi Academy · Course 1</div>
+      <h1>The Buddha's Own Words</h1>
+      <div class="subt">An Introduction to Buddhism through the Majjhima Nikāya</div>
+      <div class="cw-facts">
+        <span>12 sessions · ~75 min each</span>
+        <span>Absolute beginner</span>
+        <span>Taught in English</span>
+        <span>Free · public-domain texts</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="cw-body">
+    <div class="cw-wrap">
+
+      <p class="cw-lede first">Most introductions to Buddhism hand you a list of doctrines to memorize. This course does something different: <b style="color:var(--ink)">we read what the Buddha actually said.</b> The <em>Majjhima Nikāya</em> — the "Middle-Length Discourses" — is a collection of 152 short talks from the earliest layer of Buddhist scripture, each set in a real scene and focused on one practical question: how do you actually free yourself from suffering?</p>
+
+      <p>We won't read all 152. Instead, you and your teacher walk through <strong>twelve carefully chosen discourses</strong>, arranged not in scriptural order but in <em>learning</em> order — from the most concrete and immediately useful toward the more subtle. Think of it as a college seminar where the reading is a 2,500-year-old primary source, and you are learning to read it well.</p>
+
+      <!-- OBJECTIVES -->
+      <div class="cw-sec">
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="cw-obj">
+          <li>Read a sutta on your own — recognize its structure, its setting, and its central teaching.</li>
+          <li>Explain the Buddha's core diagnosis of the human condition (the <b>Four Noble Truths</b>) in your own words, with examples from your own life.</li>
+          <li>Describe the basic practices — mindfulness, meditation on the breath, working with difficult emotions — and try them yourself.</li>
+          <li>Distinguish what the Buddha emphasized from what he deliberately set aside, and understand why.</li>
+          <li>Engage thoughtfully with harder ideas such as not-self (<em>anattā</em>) and emptiness — not as beliefs to accept, but as invitations to look closely.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="cw-sec">
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">The same five-part rhythm every week — the structure that makes this a course, not just reading.</p>
+        <div class="cw-rhythm">
+          <div class="cw-rc"><div class="n">1</div><b>Lecture Notes</b><span>Your teacher sets the scene &amp; key ideas</span></div>
+          <div class="cw-rc"><div class="n">2</div><b>Primary Text</b><span>You read the sutta, notes in the margin</span></div>
+          <div class="cw-rc"><div class="n">3</div><b>Discussion</b><span>Open questions, talked through</span></div>
+          <div class="cw-rc"><div class="n">4</div><b>Assignment</b><span>A short take-home task</span></div>
+          <div class="cw-rc"><div class="n">5</div><b>Self-Check</b><span>A quick quiz confirms it landed</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="cw-sec">
+        <div class="lbl">The twelve sessions</div>
+        <p style="margin:0 0 14px;">Sequence logic: <em>concrete → practice → emotion → ethics → philosophy.</em> The hardest ideas come last, on purpose — only after trust and method are in place.</p>
+        <div class="cw-sched">
+
+          <div class="cw-row zero">
+            <div class="wk">0</div>
+            <div class="ti">Orientation — Who was the Buddha? What is a sutta? How do you read one?<small>Getting your bearings</small></div>
+            <div class="st">Intro</div>
+          </div>
+
+          <a class="cw-row live" href="{{ '/courses/buddhas-own-words/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">The problem Buddhism is trying to solve<small>MN 63 · The Simile of the Arrow</small></div>
+            <div class="st">Open →</div>
+          </a>
+
+          <div class="cw-row soon"><div class="wk">2</div><div class="ti">How to hold the teachings<small>MN 22 · The Simile of the Snake (the Raft)</small></div><div class="st">Soon</div></div>
+          <div class="cw-row soon"><div class="wk">3</div><div class="ti">Training the mind: what mindfulness is<small>MN 10 · Mindfulness Meditation (excerpt)</small></div><div class="st">Soon</div></div>
+          <div class="cw-row soon"><div class="wk">4</div><div class="ti">Breath and concentration<small>MN 118 · Mindfulness of Breathing</small></div><div class="st">Soon</div></div>
+          <div class="cw-row soon"><div class="wk">5</div><div class="ti">When you're provoked: patience &amp; anger<small>MN 21 · The Simile of the Saw</small></div><div class="st">Soon</div></div>
+          <div class="cw-row soon"><div class="wk">6</div><div class="ti">Working with a distracted mind<small>MN 20 · The Stilling of Thoughts</small></div><div class="st">Soon</div></div>
+          <div class="cw-row soon"><div class="wk">7</div><div class="ti">Ethics and everyday life<small>MN 8 · Self-Effacement</small></div><div class="st">Soon</div></div>
+          <div class="cw-row soon"><div class="wk">8</div><div class="ti">Action and its results (karma)<small>MN 135 · The Shorter Analysis of Deeds</small></div><div class="st">Soon</div></div>
+          <div class="cw-row soon"><div class="wk">9</div><div class="ti">Not-self, part 1<small>MN 22 (second half) + guided discussion</small></div><div class="st">Soon</div></div>
+          <div class="cw-row soon"><div class="wk">10</div><div class="ti">Emptiness &amp; letting go<small>MN 148 · The Six Sets of Six</small></div><div class="st">Soon</div></div>
+          <div class="cw-row soon"><div class="wk">11</div><div class="ti">Capstone — you choose a discourse, read it, and teach the teacher<small>Student's choice</small></div><div class="st">Soon</div></div>
+
+        </div>
+      </div>
+
+      <!-- ASSESSMENT + MATERIALS -->
+      <div class="cw-sec">
+        <div class="lbl">Assignments &amp; what you'll need</div>
+        <div class="cw-card">
+          <ul>
+            <li><b>Weekly reflection</b> — a half to one page responding to the session's prompt.</li>
+            <li><b>Reading notes</b> — bring your marked-up sutta to each session.</li>
+            <li><b>Self-check quizzes</b> — low-stakes, just to confirm comprehension.</li>
+            <li><b>Capstone</b> — choose any discourse from the Majjhima Nikāya, read it independently, and lead the final session. The real "final exam": proof you can now read the Buddha's words on your own.</li>
+          </ul>
+          <p style="margin:16px 0 0;font-size:15px;"><b style="color:var(--maroon);">No purchase required.</b> All translations (Bhikkhu Sujato) are free and in the public domain. Reading pages, guides, and quizzes for every discourse live in <a href="{{ '/discourses/' | relative_url }}" style="color:var(--saffron-deep);font-weight:600;">The Discourses</a>. Bring a notebook you keep for the whole course.</p>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="cw-actions">
+        <a class="cw-btn primary" href="{{ '/courses/buddhas-own-words/session-1/' | relative_url }}">Begin Session 1 →</a>
+        <a class="cw-btn ghost" href="{{ '/discourses/majjhima-nikaya/' | relative_url }}">Browse the discourses</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="cw-teacher" style="margin-top:52px;">
+        <div class="q">"You don't need to become a Buddhist to take this course, and you won't be asked to believe anything. The Buddha himself, as you'll see in our very first discourse, was suspicious of belief for its own sake. Come with curiosity and honesty — that's the only prerequisite."</div>
+        <div class="who">— Luke Lin, instructor · Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
