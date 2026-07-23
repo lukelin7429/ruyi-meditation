@@ -1,0 +1,26 @@
+# ─────────────────────────────────────────────────────────────
+# Single source of truth for the counts shown on the Dharma pages.
+# Update the numbers HERE whenever content is added — the Dharma hub
+# cards (dharma/index.html) and the section heroes read from this file,
+# so they can never drift apart again.
+#
+# Referenced by:
+#   dharma/index.html      — hero pill, Sūtras card, Discourses card
+#   discourses/index.html  — hero pill
+# ─────────────────────────────────────────────────────────────
+
+sutras:
+  # Distinct live Mahāyāna works on /sutras/ (excludes "coming soon"
+  # placeholders). Currently: Heart Sūtra, 大智度論, 瑜伽師地論, 淨行品.
+  live_texts: 4
+
+discourses:
+  # Live collections on /discourses/ (MN, DN, AN, SN, Dhammapada,
+  # Sutta Nipāta, Udāna, Itivuttaka).
+  collections: 8
+  # Sum of all live entries across those collections (for reference).
+  total_entries: 515
+
+totals:
+  # Approximate grand total shown on the Dharma hero ("& counting").
+  texts: "500+"
