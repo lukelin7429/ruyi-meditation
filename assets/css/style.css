@@ -186,6 +186,28 @@ a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; 
   background: #b8431c;
 }
 
+/* ---- header Log In link (→ member portal) ---- */
+.nav-login {
+  display: inline-flex;
+  align-items: center;
+  color: #4a4340;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.01em;
+  padding: 9px 14px;
+  border-radius: 30px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+.nav-login:hover {
+  background: #f5f1ea;
+  color: #b8431c;
+}
+@media (max-width: 720px) {
+  .nav-login { padding: 7px 10px; font-size: 13px; }
+}
+
 /* ---- header Sign Up button (→ member portal) ---- */
 .nav-signup {
   display: inline-flex;
