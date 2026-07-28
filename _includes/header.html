@@ -71,3 +71,28 @@
   });
 })();
 </script>
+
+<!-- 跨網域登入狀態：問一下會員站現在這位訪客是否已登入，是的話把 Log In / Sign Up 換成他的名字 -->
+<script>
+(function(){
+  fetch('https://members.ruyimeditation.org/api/session', { credentials: 'include' })
+    .then(function(r){ return r.ok ? r.json() : null; })
+    .then(function(data){
+      if (!data || !data.loggedIn) return;
+      var firstName = (data.name || 'Member').split(' ')[0];
+      var dashboardUrl = 'https://members.ruyimeditation.org/dashboard';
+
+      document.querySelectorAll('.nav-login').forEach(function(el){ el.style.display = 'none'; });
+      document.querySelectorAll('.nav-signup').forEach(function(el){
+        el.textContent = firstName;
+        el.href = dashboardUrl;
+      });
+      document.querySelectorAll('.mobile-nav-drawer a[href$="/login"]').forEach(function(el){ el.style.display = 'none'; });
+      document.querySelectorAll('.mobile-nav-drawer a[href*="/signup"]').forEach(function(el){
+        el.textContent = firstName + ' — Member Area';
+        el.href = dashboardUrl;
+      });
+    })
+    .catch(function(){});
+})();
+</script>
