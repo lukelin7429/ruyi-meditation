@@ -21,3 +21,28 @@ Chinese source:
 Preferred translation:
 
 > Gavampati, whose name means "Ox-Chewing"
+
+## 經與論的標示
+
+The Mahaprajnaparamita Sastra contains two textual layers:
+
+- The sutra passages are the Buddha's Mahaprajnaparamita Sutra.
+- The treatise passages are Bodhisattva Nagarjuna's explanations of the sutra.
+
+In the website translation, do not omit these markers. They help English readers understand when the text is quoting the sutra and when the treatise is explaining it.
+
+Formatting guidelines:
+
+- In Chinese, render `〖經〗` and `〖論〗` in bold.
+- In English, render `Sutra:` and `Treatise:` in bold.
+- Keep the marker at the beginning of the corresponding paragraph whenever the source text marks a sutra or treatise passage.
+
+Example:
+
+Chinese source:
+
+> 〖經〗如是我聞：一時。
+
+Preferred translation:
+
+> Sutra: Thus have I heard: at one time.
