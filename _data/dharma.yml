@@ -5,9 +5,16 @@
 # so they can never drift apart again.
 #
 # Referenced by:
-#   dharma/index.html      — hero pill, Sūtras card, Discourses card
+#   dharma/index.html      — hero pill, Sūtras card, Discourses card, Abhidharma card
 #   discourses/index.html  — hero pill
+#   abhidharma/index.html  — hero pill
 # ─────────────────────────────────────────────────────────────
+
+abhidharma:
+  # Live works on /abhidharma/. Currently: Abhidharmakośa — the structure
+  # page (nine chapters, thirty fascicle links) is live; fascicle-by-fascicle
+  # English translation has not started yet (all link to CBETA for now).
+  live_texts: 1
 
 sutras:
   # Distinct live Mahāyāna works on /sutras/ (excludes "coming soon"

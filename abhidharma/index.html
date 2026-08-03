@@ -1,0 +1,184 @@
+---
+layout: default
+title: Abhidharma
+permalink: /abhidharma/
+excerpt: The scholastic analysis of experience into its component parts — Vasubandhu's Abhidharmakośa and other classical treatises of systematic Buddhist psychology, in plain English.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  /* ============ ABHIDHARMA HUB — indigo & gold palette ============ */
+  .ah{--gold:#e3b765;--indigo:#33455e;--indigo-deep:#1b2634;--indigo-dark:#111925;
+      --saffron-deep:#b56a1c;--cream:#fbf5ea;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;}
+  .ah *{box-sizing:border-box;}
+  .ah-wrap{max-width:1040px;margin:0 auto;padding:0 26px;}
+
+  .js .ah [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.22,.61,.36,1),transform .8s cubic-bezier(.22,.61,.36,1);}
+  .js .ah [data-rv].in{opacity:1;transform:none;}
+
+  /* ---- HERO ---- */
+  .ah-hero{position:relative;overflow:hidden;color:#fff;
+    background:
+      radial-gradient(120% 90% at 80% 16%, rgba(227,183,101,.22), transparent 60%),
+      linear-gradient(155deg,#33455e 0%,#243244 42%,#111925 100%);}
+  .ah-hero-in{position:relative;max-width:1040px;margin:0 auto;padding:78px 26px 78px;z-index:2;}
+  .ah-grid-mark{position:absolute;right:-70px;top:-40px;width:380px;height:380px;color:rgba(227,183,101,.14);z-index:1;}
+  .ah-bread{position:relative;z-index:3;font-size:13px;letter-spacing:.04em;margin-bottom:30px;color:rgba(251,245,234,.78);}
+  .ah-bread a{color:var(--gold);text-decoration:none;border-bottom:1px solid rgba(227,183,101,.4);}
+  .ah-bread .sep{margin:0 9px;color:rgba(251,245,234,.5);}
+  .ah-eyebrow{font-size:13px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ah-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(38px,6.2vw,64px);line-height:1.08;margin:16px 0 0;max-width:15ch;}
+  .ah-hero h1 em{font-style:italic;color:var(--gold);}
+  .ah-rule{width:64px;height:3px;background:var(--gold);border-radius:3px;margin:24px 0;}
+  .ah-hero p{max-width:660px;font-size:19px;line-height:1.7;color:#e8ecf1;}
+  .ah-hero p+p{margin-top:14px;}
+  .ah-trad{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px;}
+  .ah-trad span{font-size:13px;letter-spacing:.04em;color:#f4f0e6;border:1px solid rgba(227,183,101,.4);background:rgba(255,255,255,.06);border-radius:30px;padding:7px 16px;}
+  .ah-trad b{color:var(--gold);font-weight:600;}
+
+  /* ---- WHAT IS ABHIDHARMA ---- */
+  .ah-intro{background:var(--cream);padding:64px 0 42px;}
+  .ah-grid2{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.ah-grid2{grid-template-columns:1fr 1fr;}}
+  .ah-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .ah-panel h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(24px,3.2vw,30px);line-height:1.2;color:var(--ink);margin:0 0 14px;}
+  .ah-panel p{color:var(--ink-soft);font-size:16px;line-height:1.65;margin:0 0 12px;}
+  .ah-panel p:last-child{margin-bottom:0;}
+
+  /* ---- LIVE COLLECTION ---- */
+  .ah-live{background:#fff;padding:76px 0 84px;}
+  .ah-head{text-align:center;max-width:640px;margin:0 auto 48px;}
+  .ah-head .lbl{font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--saffron-deep);}
+  .ah-head h2{font-family:'Playfair Display',serif;font-size:clamp(30px,4.6vw,44px);color:var(--ink);margin:12px 0 12px;}
+  .ah-head p{font-size:17px;color:var(--ink-soft);line-height:1.6;}
+
+  .ah-cards{display:grid;gap:26px;grid-template-columns:1fr;max-width:560px;margin:0 auto;}
+  @media(min-width:900px){.ah-cards{grid-template-columns:repeat(2,1fr);max-width:960px;}}
+  .ah-card{position:relative;overflow:hidden;border-radius:18px;padding:38px 34px 32px;color:#fff;text-decoration:none;
+    display:flex;flex-direction:column;min-height:320px;transition:transform .32s cubic-bezier(.22,.61,.36,1),box-shadow .32s;}
+  .ah-card:hover{transform:translateY(-6px);text-decoration:none;}
+  .ah-card.indigo{background:linear-gradient(158deg,#3d5270 0%,#33455e 45%,#1b2634 100%);box-shadow:0 26px 50px -26px rgba(27,38,52,.7);}
+  .ah-card.indigo:hover{box-shadow:0 36px 60px -26px rgba(27,38,52,.8);}
+  .ah-card.soon{background:linear-gradient(158deg,#4a4a4a 0%,#3a3a3a 46%,#232323 100%);box-shadow:0 22px 44px -26px rgba(20,20,20,.6);cursor:default;}
+  .ah-card.soon:hover{transform:none;}
+  .ah-icon{width:50px;height:50px;color:rgba(255,255,255,.9);margin-bottom:auto;}
+  .ah-card .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);margin-top:20px;display:inline-flex;align-items:center;gap:9px;}
+  .ah-card .trad .live-dot{width:8px;height:8px;border-radius:50%;background:var(--gold);animation:ahpulse 2s infinite;}
+  @keyframes ahpulse{0%{box-shadow:0 0 0 0 rgba(227,183,101,.55);}70%{box-shadow:0 0 0 8px rgba(227,183,101,0);}100%{box-shadow:0 0 0 0 rgba(227,183,101,0);}}
+  .ah-card h3{font-family:'Playfair Display',serif;font-size:28px;line-height:1.1;margin:8px 0 4px;}
+  .ah-card .sub{font-size:15px;color:rgba(255,255,255,.85);font-style:italic;margin-bottom:14px;}
+  .ah-card p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.9);margin:0 0 22px;}
+  .ah-card .foot{display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(255,255,255,.22);padding-top:16px;}
+  .ah-card .stat{font-family:'Playfair Display',serif;font-size:15px;color:#fff;}
+  .ah-card .stat b{font-size:28px;font-weight:700;margin-right:4px;}
+  .ah-card .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+  .ah-card .go .arw{transition:transform .25s;}
+  .ah-card:hover .go .arw{transform:translateX(5px);}
+  .ah-bigmark{position:absolute;right:-40px;bottom:-40px;width:170px;height:170px;color:rgba(255,255,255,.08);}
+
+  .ah-card{will-change:transform;}
+  .ah-card::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;z-index:3;
+    background:linear-gradient(120deg,transparent 34%,rgba(255,255,255,.22) 50%,transparent 66%);
+    transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,.61,.36,1);}
+  .ah-card:hover::after{transform:translateX(130%);}
+  .ah-card:hover{transform:translateY(-10px) scale(1.012);}
+  @media(prefers-reduced-motion:reduce){.ah-card::after{display:none;}.ah-card:hover{transform:none;}}
+</style>
+
+<div class="ah">
+
+  <!-- HERO -->
+  <section class="ah-hero">
+    <svg class="ah-grid-mark" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <rect x="12" y="12" width="34" height="34" rx="2"/><rect x="54" y="12" width="34" height="34" rx="2"/>
+      <rect x="12" y="54" width="34" height="34" rx="2"/><rect x="54" y="54" width="34" height="34" rx="2"/>
+    </svg>
+    <div class="ah-hero-in">
+      <nav class="ah-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a><span class="sep">›</span>Abhidharma</nav>
+      <div class="ah-eyebrow" data-rv>Abhidharma · 阿毗達磨</div>
+      <h1 data-rv style="transition-delay:.08s">Every experience, <em>taken apart.</em></h1>
+      <div class="ah-rule" data-rv style="transition-delay:.16s"></div>
+      <p data-rv style="transition-delay:.2s">Abhidharma is the analytical wing of the Buddhist canon: instead of parables and dialogue, it maps the mind and the world into their smallest working parts, and asks exactly how those parts fit together — moment by moment.</p>
+      <p data-rv style="transition-delay:.24s">These are classical <b>Nikāya</b> treatises — the scholastic tradition also called "Hīnayāna" in older sources — distinct from the Mahāyāna sūtras and śāstras found elsewhere in Dharma, but foundational to how every later school, East and West, has thought about the mind ever since.</p>
+      <div class="ah-trad" data-rv style="transition-delay:.28s">
+        <span><b>{{ site.data.dharma.abhidharma.live_texts }}</b> text underway</span>
+        <span>Fascicle-by-fascicle structure</span>
+        <span>Source: Xuánzàng's Chinese translation</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHAT IS ABHIDHARMA -->
+  <section class="ah-intro">
+    <div class="ah-wrap ah-grid2">
+      <div class="ah-panel" data-rv>
+        <h2>What "Abhidharma" means</h2>
+        <p><em>Abhidharma</em> — "higher teaching" or "about the teaching" — is the third basket of the Buddhist canon, alongside the discourses (<em>sūtra</em>) and the monastic code (<em>vinaya</em>). Where a discourse teaches through story and dialogue, Abhidharma teaches through classification: it lists every mental and physical factor (<em>dharma</em>) that can arise, and works out the rules for how they combine.</p>
+        <p>Two independent Abhidharma traditions survive in full: the Theravāda's Pāli <em>Abhidhamma</em>, and the Sanskrit Abhidharma of the Sarvāstivāda school, preserved mostly in Chinese translation. This section is for the second — the tradition that produced the Abhidharmakośa.</p>
+      </div>
+      <div class="ah-panel" data-rv style="transition-delay:.08s">
+        <h2>Not Mahāyāna — and why that matters</h2>
+        <p>Vasubandhu wrote the Abhidharmakośa as a Sarvāstivāda–Sautrāntika scholar, before his brother Asaṅga persuaded him toward the Mahāyāna. The Kośa itself teaches no bodhisattva path and no emptiness of dharmas — it is squarely a Nikāya (small-vehicle) treatise.</p>
+        <p>It stayed required reading anyway. Every major Mahāyāna monastic curriculum in East Asia — Chan, Tiantai, Huayan, Yogācāra — still opens with the Kośa, because its map of mind, karma, and cosmology is the shared vocabulary the later schools argue with, refine, or transcend.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- LIVE / IN PREPARATION -->
+  <section class="ah-live">
+    <div class="ah-wrap">
+      <div class="ah-head" data-rv>
+        <div class="lbl">Texts in this section</div>
+        <h2>Choose a treatise to enter.</h2>
+        <p>We are building this collection one treatise at a time, starting with the single most widely studied Abhidharma text in the Chinese tradition.</p>
+      </div>
+      <div class="ah-cards">
+
+        <a href="{{ '/abhidharma/abhidharmakosa/' | relative_url }}" class="ah-card indigo" data-rv>
+          <svg class="ah-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="6" y="6" width="15" height="15" rx="1.5"/><rect x="27" y="6" width="15" height="15" rx="1.5"/>
+            <rect x="6" y="27" width="15" height="15" rx="1.5"/><rect x="27" y="27" width="15" height="15" rx="1.5"/>
+          </svg>
+          <div class="trad"><span class="live-dot"></span>Vasubandhu · Xuánzàng · 30 fascicles</div>
+          <h3>Abhidharmakośa</h3>
+          <div class="sub">The Treasury of Abhidharma — 俱舍論</div>
+          <p>Vasubandhu's systematic restatement of Sarvāstivāda Abhidharma, sharpened by his own Sautrāntika criticisms. Enter here for the nine-chapter map of the whole treatise and the fascicle-by-fascicle table of contents.</p>
+          <div class="foot">
+            <span class="stat"><b>9</b> chapters</span>
+            <span class="go">Enter <span class="arw">→</span></span>
+          </div>
+          <svg class="ah-bigmark" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><rect x="14" y="14" width="30" height="30" rx="2"/><rect x="56" y="14" width="30" height="30" rx="2"/><rect x="14" y="56" width="30" height="30" rx="2"/><rect x="56" y="56" width="30" height="30" rx="2"/></svg>
+        </a>
+
+        <div class="ah-card soon" data-rv style="transition-delay:.1s" aria-label="The Mahāvibhāṣā Śāstra is coming soon">
+          <svg class="ah-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="6" y="6" width="15" height="15" rx="1.5"/><rect x="27" y="6" width="15" height="15" rx="1.5"/>
+            <rect x="6" y="27" width="15" height="15" rx="1.5"/><rect x="27" y="27" width="15" height="15" rx="1.5"/>
+          </svg>
+          <div class="trad">Sarvāstivāda · In preparation</div>
+          <h3>Mahāvibhāṣā Śāstra</h3>
+          <div class="sub">The Great Commentary — 大毘婆沙論</div>
+          <p>The vast Sarvāstivāda compendium the Abhidharmakośa is written against — two hundred fascicles compiled at the council of Kashmir. A future doorway into the tradition's fullest encyclopedia.</p>
+          <div class="foot">
+            <span class="stat">Planned</span>
+            <span class="go">Coming soon</span>
+          </div>
+          <svg class="ah-bigmark" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true"><rect x="14" y="14" width="30" height="30" rx="2"/><rect x="56" y="14" width="30" height="30" rx="2"/><rect x="14" y="56" width="30" height="30" rx="2"/><rect x="56" y="56" width="30" height="30" rx="2"/></svg>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var els=document.querySelectorAll('.ah [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){var t=e.target;t.classList.add('in');io.unobserve(t);setTimeout(function(){t.style.transitionDelay='0s';},900);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
