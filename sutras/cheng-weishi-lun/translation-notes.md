@@ -25,6 +25,17 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 現行 | manifest activity / current activity | as opposed to seeds lying dormant |
 | 護法 | Dharmapāla | the master whose interpretation Xuanzang's compilation follows as its main line |
 | 世親 | Vasubandhu | author of the *Triṃśikā* (the thirty verses this treatise comments on) |
+| 三能變 | the three transformations | the three kinds of consciousness capable of "transforming": the ripening, deliberating, and object-discriminating consciousnesses |
+| 異熟(識) | the ripening consciousness | vipāka; refers to the ālayavijñāna in its role of maturing the results of past action. Distinguish from 阿賴耶識 by context — same consciousness, different function being named |
+| 思量(識) | the deliberating consciousness | manana; refers to manas (末那識) in its role of constant self-referential grasping |
+| 了別境識 | the consciousnesses that discriminate objects | the six sense-consciousnesses (five senses + mental consciousness) collectively, in their role of cognizing objects |
+| 相分 | the perceived aspect | nimitta-bhāga; the "object" side of a single act of cognition |
+| 見分 | the perceiving aspect | darśana-bhāga; the "subject" side of a single act of cognition |
+| 自證分 | the self-witnessing aspect | svasaṃvitti-bhāga; the deeper aspect of consciousness that grounds both 相分 and 見分. (Dharmapāla later adds a fourth aspect, 證自證分 — do not introduce it before the text does) |
+| 熏習 | perfuming / habituation | vāsanā; the way repeated discrimination leaves habitual traces that shape future experience |
+| 增執 / 減執 | the attachment of overstating / the attachment of understating | the two extremes the treatise steers between: treating appearances as fully real (overstating) vs. denying they exist at all (understating) |
+| 世俗有 | conventionally existent | saṃvṛtisat |
+| 勝義有 | ultimately existent | paramārthasat |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
