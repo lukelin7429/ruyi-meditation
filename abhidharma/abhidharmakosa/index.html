@@ -86,7 +86,7 @@ excerpt: A plain-English study entrance to Vasubandhu's Abhidharmakośa (俱舍�
       <div class="mpps-panel" data-rv>
         <h2>How to read this collection</h2>
         <p>The structure below is complete: all nine chapters and all thirty fascicles of Xuánzàng's translation, mapped out using the traditional mnemonic verse that generations of students have memorized to keep the chapters and fascicle counts straight.</p>
-        <p>The English essays are not yet written. Each fascicle card currently opens the source text on CBETA; as Ru-Yi's own plain-English translation and study notes are finished, they will replace the CBETA link one fascicle at a time — the same way the Mahāprajñāpāramitā Śāstra and the Yogācārabhūmi-śāstra are being built.</p>
+        <p>Fascicle 1's opening section is now live — see below. The remaining fascicle cards currently open the source text on CBETA; as Ru-Yi's own plain-English translation and study notes are finished, they will replace the CBETA link one fascicle at a time — the same way the Mahāprajñāpāramitā Śāstra and the Yogācārabhūmi-śāstra are being built.</p>
       </div>
       <div class="mpps-panel" data-rv style="transition-delay:.08s">
         <h2>What each essay will include</h2>
@@ -203,11 +203,19 @@ excerpt: A plain-English study entrance to Vasubandhu's Abhidharmakośa (俱舍�
         {% elsif i <= 29 %}{% assign ch = 8 %}
         {% else %}{% assign ch = 9 %}
         {% endif %}
+        {% if i == 1 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/abhidharma/abhidharmakosa/fascicle-001/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }} · Ch. {{ ch }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The opening section is live: the homage verse, and the definition of Abhidharma in the ultimate and conventional sense. In progress.</span>
+        </a>
+        {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T29n1558_{{ padded }}" target="_blank" rel="noopener" data-rv>
           <span class="vol-num">Fascicle {{ i }} · Ch. {{ ch }}</span>
           <span class="vol-title">Read the source text</span>
           <span class="vol-note">Open scroll {{ i }} of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">阿毘達磨俱舍論</span> on CBETA. Ru-Yi's plain-English essay will be added here.</span>
         </a>
+        {% endif %}
         {% endfor %}
       </div>
     </div>
