@@ -26,6 +26,11 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 擇法 | discernment of dharmas | the technical definition of 慧 (wisdom/prajñā) given in fascicle 1. |
 | 世親 | Vasubandhu | author. |
 | 玄奘 | Xuánzàng | translator into Chinese, 651 CE. |
+| 地 | realm(s) | bhūmi, in the cosmological sense (desire realm, four dhyānas, four formless attainments — nine levels total), not "ground" or "stage." |
+| 靜慮 | dhyāna | left untranslated as the proper term (initial/first dhyāna, second dhyāna, etc.), not "meditative absorption" except in loose framing. |
+| 等至 | meditative attainment(s) | samāpatti; distinct from 靜慮/dhyāna — used when the text is discussing actively entering an attainment rather than the realm one is born into. |
+| 依 / 所依 | support | āśraya — what a consciousness or faculty leans on to arise. |
+| 等無間緣 | immediately-antecedent condition | samanantara-pratyaya, one of the four classical conditions (pratyaya). |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
