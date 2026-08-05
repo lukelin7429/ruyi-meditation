@@ -52,6 +52,12 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 交蘆 | two leaning reeds | The image (fascicle 5's central verse) of two reeds propping each other up, neither able to stand alone — for how a sense-root and its object depend on each other with no independent nature of either. |
 | 六解一亡 | once the six are untied, the "one" also disappears | Fixed phrase from the six-knotted-cloth demonstration; do not paraphrase — it recurs as a set phrase in later fascicles too. |
 | 大勢至 | Mahāsthāmaprāpta | The bodhisattva of the recollection-of-the-Buddha (nianfo) method, fascicle 5's twenty-fourth testimony — foundational for the Pure Land tradition. Keep the full Sanskrit form, not "Great Strength Arrived" or similar calques. |
+| 觀世音 | Avalokiteśvara | Fascicle 6's twenty-fifth and highest-ranked testimony. Use they/them pronouns (bodhisattva, not gendered in the source). |
+| 入流亡所 | entering the stream and letting go of what was heard | Avalokiteśvara's opening move — do not translate 流 as "flow" alone; "stream" preserves the sense of a specific practice-stage referenced again in later fascicles. |
+| 三十二應 | the thirty-two manifested bodies | Avalokiteśvara's shape-shifting responses to different audiences, fascicle 6. |
+| 十四無畏 | the fourteen kinds of fearlessness | Fascicle 6; keep numbered when excerpting, since Chinese commentaries (including Yuanying's) always cite these by number. |
+| 三決定義 | the three decisive principles | 攝心為戒 (gathering the mind is precepts) → 因戒生定 (from precepts, samādhi) → 因定發慧 (from samādhi, wisdom) — the "three undefiled trainings" (三無漏學) that frame fascicle 6's four precepts. |
+| 四種清淨明誨 | the four clear instructions | Fascicle 6: sever sexual desire, killing, stealing, and false claims of spiritual attainment — each with the refrain "this is what the Buddha teaches; anyone who teaches otherwise is Māra's own teaching" (是佛說, 非佛說即波旬說). Keep this refrain as a fixed phrase every time it recurs. |
 
 Keep this table growing as new terms recur in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 

@@ -104,7 +104,7 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
     <div class="ssutra-wrap">
       <div class="ssutra-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Use this as the table of contents for the sūtra. Fascicles 1–5 are open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
+        <p>Use this as the table of contents for the sūtra. Fascicles 1–6 are open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
       </div>
 
       <div class="ssutra-featured">
@@ -115,13 +115,13 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
         </div>
         <div class="feature" data-rv style="transition-delay:.06s">
           <span class="tag">Complete</span>
-          <h3>Fascicle 4: How the World Begins</h3>
-          <p>Pūrṇa's questions on how the world arises, the parable of Yajñadatta's lost head, the five turbidities, and the bell that proves hearing never ceases.</p>
+          <h3>Fascicle 5: Twenty-Four Doors</h3>
+          <p>The six-knotted cloth, the "true nature is emptiness" verse, and twenty-four disciples' own testimony of how each attained perfect penetration — ending with Mahāsthāmaprāpta's recollection of the Buddha.</p>
         </div>
         <div class="feature" data-rv style="transition-delay:.12s">
           <span class="tag">Complete</span>
-          <h3>Fascicle 5: Twenty-Four Doors</h3>
-          <p>The six-knotted cloth, the "true nature is emptiness" verse, and twenty-four disciples' own testimony of how each attained perfect penetration — ending with Mahāsthāmaprāpta's recollection of the Buddha.</p>
+          <h3>Fascicle 6: The Best Door</h3>
+          <p>Avalokiteśvara's ear-faculty method, Mañjuśrī's verse selecting it as best for this world, and the four clear instructions on precepts that ground all practice.</p>
         </div>
       </div>
 
@@ -157,6 +157,12 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Our plain-English translation and study notes for fascicle 5 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
+        </a>
+        {% elsif i == 6 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra/fascicle-006/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Our plain-English translation and study notes for fascicle 6 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T19n0945_{{ padded }}" target="_blank" rel="noopener" data-rv>
