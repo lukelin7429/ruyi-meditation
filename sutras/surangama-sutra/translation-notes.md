@@ -48,6 +48,10 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 二決定義 | the two decisive meanings | Fascicle 4: (1) matching the causal-stage mind to the fruit-stage goal, and (2) examining the root of affliction — the two things Ānanda is told to settle before starting to cultivate. |
 | 五濁 | the five turbidities | The aeon, views, affliction, beings, and life-span — fascicle 4's five-stage account of how originally undivided awareness becomes progressively entangled. |
 | 六根功德 | the merit of the six sense-roots | Fascicle 4's tally of each sense-faculty's functional completeness (800 or 1200 units), setting up Ānanda's later choice of which faculty to cultivate through. |
+| 圓通 | perfect penetration | The technical term for the twenty-five disciples' testimonies in fascicles 5–6: enlightenment reached through a single sense-faculty or element, cultivated to completeness. Keep as "perfect penetration," not "perfect understanding" or "complete comprehension." |
+| 交蘆 | two leaning reeds | The image (fascicle 5's central verse) of two reeds propping each other up, neither able to stand alone — for how a sense-root and its object depend on each other with no independent nature of either. |
+| 六解一亡 | once the six are untied, the "one" also disappears | Fixed phrase from the six-knotted-cloth demonstration; do not paraphrase — it recurs as a set phrase in later fascicles too. |
+| 大勢至 | Mahāsthāmaprāpta | The bodhisattva of the recollection-of-the-Buddha (nianfo) method, fascicle 5's twenty-fourth testimony — foundational for the Pure Land tradition. Keep the full Sanskrit form, not "Great Strength Arrived" or similar calques. |
 
 Keep this table growing as new terms recur in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
