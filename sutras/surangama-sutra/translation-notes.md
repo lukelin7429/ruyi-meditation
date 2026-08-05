@@ -36,6 +36,12 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 同分妄見 | shared-karma false seeing | The second kind — perception distorted collectively, across a whole population sharing the same karmic condition. |
 | 第二月 | the second moon | The classical image of pressing a finger against the eye and seeing one moon appear as two: neither simply real nor simply nonexistent. Used to dissolve "is / is not" questions about seeing and its objects. |
 | 見見非見 | seeing seeing itself is not seeing | One of the sūtra's most compressed formulations (fascicle 2): awareness can never turn itself into an object for itself to perceive. Render literally rather than paraphrasing away the repetition — the repetition is the point. |
+| 六入 | the six sense-entrances | Fascicle 3: the six internal sense-faculties considered as "entrances" (āyatana, internal half) — eye, ear, nose, tongue, body, mind. |
+| 十二處 | the twelve sense-fields | Fascicle 3: each of the six faculties paired with its object (āyatana, full twelve) — e.g. "seeing and form," "hearing and sound." |
+| 十八界 | the eighteen elements | Fascicle 3: each of the twelve fields together with the consciousness (dhātu) it gives rise to — e.g. "eye, form, and eye-consciousness." |
+| 七大 | the seven great elements | Fascicle 3: earth, water, fire, wind, space, seeing, and consciousness (地水火風空見識) — the classical four elements expanded to include seeing and consciousness explicitly. |
+| 性X真空，性空真X | the nature of X is true emptiness, and the nature of emptiness is true X | The refrain closing each of the seven great elements' analysis. Keep the parallel construction identical every time it recurs — do not vary the wording between elements. |
+| 循業發現 | appearing/manifesting in accordance with karma | The recurring phrase explaining how a nature with no fixed origin can still appear differently for different beings — not caused, but not random either. |
 
 Keep this table growing as new terms recur in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
