@@ -58,6 +58,9 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 十四無畏 | the fourteen kinds of fearlessness | Fascicle 6; keep numbered when excerpting, since Chinese commentaries (including Yuanying's) always cite these by number. |
 | 三決定義 | the three decisive principles | 攝心為戒 (gathering the mind is precepts) → 因戒生定 (from precepts, samādhi) → 因定發慧 (from samādhi, wisdom) — the "three undefiled trainings" (三無漏學) that frame fascicle 6's four precepts. |
 | 四種清淨明誨 | the four clear instructions | Fascicle 6: sever sexual desire, killing, stealing, and false claims of spiritual attainment — each with the refrain "this is what the Buddha teaches; anyone who teaches otherwise is Māra's own teaching" (是佛說, 非佛說即波旬說). Keep this refrain as a fixed phrase every time it recurs. |
+| 悉怛多般怛囉 | Sitātapatra | The "White Canopy" mantra, fascicle 7. Left transliterated (a Sanskrit dhāraṇī name), never translated into a descriptive English phrase as the primary rendering. |
+| 楞嚴神呪 | the Śūraṅgama Mantra | Do not attempt a semantic English "translation" of the mantra's syllables themselves — reproduce CBETA's Chinese transliteration and translate only the sūtra's surrounding prose about its origin, use, and effects. This matches how every reputable edition, traditional or academic, handles dhāraṇī material. |
+| 十二類生 | the twelve categories of birth | Fascicle 7's closing taxonomy, extending the classical fourfold division (egg/womb/moisture/transformation-born) to twelve by adding categories built from form/formlessness and conception/non-conception. Each traced to a specific "confused thought" (亂想) — keep this causal link explicit in translation, not just the category list. |
 
 Keep this table growing as new terms recur in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
