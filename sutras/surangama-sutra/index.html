@@ -70,9 +70,9 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
       <nav class="ssutra-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › The Śūraṅgama Sūtra</nav>
       <div class="ssutra-eyebrow" data-rv>Paramiti · Taishō T945 · 楞嚴經</div>
       <h1 data-rv style="transition-delay:.06s">The Sūtra of the Search for the Mind.</h1>
-      <p data-rv style="transition-delay:.12s">Ānanda, the Buddha's most learned disciple, falls to a sorceress's spell through nothing but a moment's carelessness — and returns undone, admitting that learning alone was never enough. What follows is one of the most searching interrogations in the whole Buddhist canon: where, exactly, is the mind? This page is the entrance for reading the sūtra fascicle by fascicle.</p>
+      <p data-rv style="transition-delay:.12s">Ānanda, the Buddha's most learned disciple, falls to a sorceress's spell through nothing but a moment's carelessness — and returns undone, admitting that learning alone was never enough. What follows is one of the most searching interrogations in the whole Buddhist canon: where, exactly, is the mind? This page is the entrance for reading the sūtra fascicle by fascicle — now complete, all ten fascicles.</p>
       <div class="ssutra-actions" data-rv style="transition-delay:.18s">
-        <a class="ssutra-btn primary" href="#fascicles">Browse 10 fascicles →</a>
+        <a class="ssutra-btn primary" href="#fascicles">Browse all 10 fascicles →</a>
         <a class="ssutra-btn secondary" href="#notes">Translation notes →</a>
       </div>
     </div>
@@ -93,7 +93,7 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
           <li>A running glossary so terminology stays consistent from fascicle 1 to fascicle 10, and with the companion commentary project.</li>
         </ul>
         <div class="ssutra-stats">
-          <div class="ssutra-stat"><b>10</b> fascicles in the Chinese sūtra</div>
+          <div class="ssutra-stat"><b>10 / 10</b> fascicles complete</div>
           <div class="ssutra-stat"><b>1</b> continuous conversation, start to finish</div>
         </div>
       </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
     <div class="ssutra-wrap">
       <div class="ssutra-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Use this as the table of contents for the sūtra. Fascicles 1–9 are open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
+        <p>Use this as the table of contents for the sūtra — all ten fascicles are now complete.</p>
       </div>
 
       <div class="ssutra-featured">
@@ -132,6 +132,11 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
           <span class="tag">Complete</span>
           <h3>Fascicle 9: The Fifty States of Interference</h3>
           <p>The form and formless heavens, the four kinds of asuras, and the opening of the sūtra's warning about demonic states in meditation — the aggregates of form and sensation in full, and the ten heavenly-demon states of perception.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.3s">
+          <span class="tag">Complete — sūtra finished</span>
+          <h3>Fascicle 10: The Final Twenty States</h3>
+          <p>Ten deviant philosophies in the aggregate of formations, ten deviant final attainments in the aggregate of consciousness, the five layers of false thought behind all fifty states, and the sūtra's closing teaching.</p>
         </div>
       </div>
 
@@ -191,6 +196,12 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Our plain-English translation and study notes for fascicle 9 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
+        </a>
+        {% elsif i == 10 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra/fascicle-010/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Our plain-English translation and study notes for fascicle 10 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete — the sūtra's close.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T19n0945_{{ padded }}" target="_blank" rel="noopener" data-rv>
