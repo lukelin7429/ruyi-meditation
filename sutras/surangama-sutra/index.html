@@ -104,7 +104,7 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
     <div class="ssutra-wrap">
       <div class="ssutra-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Use this as the table of contents for the sūtra. Fascicles 1–8 are open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
+        <p>Use this as the table of contents for the sūtra. Fascicles 1–9 are open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
       </div>
 
       <div class="ssutra-featured">
@@ -127,6 +127,11 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
           <span class="tag">Complete</span>
           <h3>Fascicle 8: The Roots of the Six Destinies</h3>
           <p>The three gradual stages of practice, the fifty-five stages of the bodhisattva path, and why emotion and thought alone determine hell, hungry ghosts, animals, immortals, and the heavens.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.24s">
+          <span class="tag">Complete</span>
+          <h3>Fascicle 9: The Fifty States of Interference</h3>
+          <p>The form and formless heavens, the four kinds of asuras, and the opening of the sūtra's warning about demonic states in meditation — the aggregates of form and sensation in full, and the ten heavenly-demon states of perception.</p>
         </div>
       </div>
 
@@ -180,6 +185,12 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Our plain-English translation and study notes for fascicle 8 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
+        </a>
+        {% elsif i == 9 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra/fascicle-009/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Our plain-English translation and study notes for fascicle 9 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T19n0945_{{ padded }}" target="_blank" rel="noopener" data-rv>
