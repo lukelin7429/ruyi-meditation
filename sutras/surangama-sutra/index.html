@@ -104,7 +104,7 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
     <div class="ssutra-wrap">
       <div class="ssutra-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Use this as the table of contents for the sūtra. Fascicle 1 is open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
+        <p>Use this as the table of contents for the sūtra. Fascicles 1–2 are open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
       </div>
 
       <div class="ssutra-featured">
@@ -114,9 +114,9 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
           <p>Ānanda's fall to Mātaṅgī's spell, the Buddha's rescue, and the "seven locations" search for the mind — ending with the analogy of the fist and the blind man's lamp.</p>
         </div>
         <div class="feature" data-rv style="transition-delay:.06s">
-          <span class="tag">Coming next</span>
-          <h3>Seeing Itself</h3>
-          <p>Fascicle 2 turns from refuting where the mind is to directly pointing at the unmoving, unborn nature of seeing — the famous "ten displays of seeing."</p>
+          <span class="tag">Complete</span>
+          <h3>Fascicle 2: Seeing Itself</h3>
+          <p>King Prasenajit's unchanging seeing-nature, the "eight things returned," and the teaching that the five aggregates are, each one, the tathāgatagarbha.</p>
         </div>
         <div class="feature" data-rv style="transition-delay:.12s">
           <span class="tag">Translation notes</span>
@@ -133,6 +133,12 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Our plain-English translation and study notes for fascicle 1 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
+        </a>
+        {% elsif i == 2 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra/fascicle-002/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Our plain-English translation and study notes for fascicle 2 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T19n0945_{{ padded }}" target="_blank" rel="noopener" data-rv>

@@ -30,6 +30,12 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 了義 | complete meaning / the teaching of complete meaning | As opposed to teachings of "provisional meaning" (權教) suited to a particular audience; see the commentary for the full doctrinal distinction. |
 | 攀緣心 | the grasping, conditioned mind | The ordinary discriminating mind that "runs after" objects — identified in fascicle 1 as the false root the Buddha spends the whole sūtra dismantling. |
 | 見精 / 見性 | the essence of seeing / the nature of seeing | The faculty of seeing considered apart from the physical eye — the thread the Buddha pulls on throughout the "seven locations" dialogue and beyond. |
+| 如來藏 | tathāgatagarbha | Left transliterated (the "womb"/"matrix" of Buddhahood); glossed on first use in fascicle 2. First named explicitly at the close of the five-aggregates teaching. |
+| 五陰 / 五蘊 | the five aggregates | Form (色), sensation (受), perception (想), formations (行), consciousness (識). Use "aggregate of ___" consistently (e.g. "the aggregate of form"), not "skandha" untranslated. |
+| 別業妄見 | individual-karma false seeing | The first of the two kinds of false seeing in fascicle 2 — an individual's own distorted perception (illustrated by a diseased eye seeing a halo around a lamp). |
+| 同分妄見 | shared-karma false seeing | The second kind — perception distorted collectively, across a whole population sharing the same karmic condition. |
+| 第二月 | the second moon | The classical image of pressing a finger against the eye and seeing one moon appear as two: neither simply real nor simply nonexistent. Used to dissolve "is / is not" questions about seeing and its objects. |
+| 見見非見 | seeing seeing itself is not seeing | One of the sūtra's most compressed formulations (fascicle 2): awareness can never turn itself into an object for itself to perceive. Render literally rather than paraphrasing away the repetition — the repetition is the point. |
 
 Keep this table growing as new terms recur in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
