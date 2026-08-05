@@ -47,6 +47,16 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 所緣緣 | the condition of the objective support | one of the four conditions; subdivided into 親所緣緣 (the direct condition of objective support) and 疎所緣緣 (the indirect condition of objective support) |
 | 增上緣 | the dominant condition | one of the four conditions; any dharma with the power to favor or oppose another, not already covered by the first three |
 | 二十二根 | the twenty-two faculties | the five physical senses, two sex faculties, life faculty, mental faculty, five feelings, five wholesome roots beginning with faith, and three faculties tracking a practitioner's progress toward full awakening |
+| 十因 | the ten causes | a finer classification of the four conditions, drawn from fifteen underlying bases (十五處); reduces to two causes (能生因 the capable-of-generating cause, 方便因 the facilitating cause) |
+| 五果 | the five fruits | 異熟果 the ripened result, 等流果 the outflow result, 離繫果 the result of liberation from bondage, 士用果 the result of human effort, 增上果 the dominant result |
+| 有支 / 十二有支 | the link(s) of existence / the twelve links of dependent origination | from 無明 (ignorance) through 老死 (old age and death); grouped in this treatise into four: 能引支 (drawing-forth), 所引支 (drawn-forth), 能生支 (generating), 所生支 (generated) |
+| 二取 | the two graspings | the deep-seated grasping at a perceiving subject and a perceived object (見分/相分); one of the two habituations, alongside karma's habituation, that keep birth-and-death continuing |
+| 分段生死 | fragmentary birth-and-death | the ordinary cycle of rebirth, with body and life-span of fixed limit, driven by contaminated karma and the afflictive obstruction |
+| 變易生死 | transformative birth-and-death | the "inconceivable" mode of continued existence available to advanced practitioners (arhats, solitary buddhas, bodhisattvas of mastery), sustained by vow and uncontaminated concentration rather than ordinary karma; also called 意成身 "the mind-made body" |
+| 三性 | the Three Natures | trisvabhāva; the treatise's foundational framework — see the three rows below. Related: 三無性, the three corresponding forms of naturelessness (not yet reached in translation as of fascicle 8) |
+| 遍計所執性 | the imagined nature | parikalpita; the falsely grasped-at nature of a fixed, independent self or dharma — has no essence of its own whatsoever |
+| 依他起性 | the dependent nature | paratantra; the genuinely-arising flow of mind, mental factors, and their perceived/perceiving aspects, produced by conditions — real, but not as the imagined nature misconstrues it |
+| 圓成實性 | the perfectly accomplished nature | pariniṣpanna; suchness itself, i.e. the dependent nature's permanent freedom from the imagined nature — neither identical with nor separate from the dependent nature |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
