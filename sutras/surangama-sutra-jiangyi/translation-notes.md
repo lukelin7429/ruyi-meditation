@@ -50,6 +50,11 @@ In addition to the shared sūtra-narrative terms in the companion notes:
 | 了義 | complete meaning | Yuanying distinguishes this from ordinary usage in two specific ways — see his gloss under 甲一: "using the [sense-]root rather than [discriminating] consciousness" and "according with [true] nature rather than clinging to appearances." Do not collapse this into a generic "profound teaching." |
 | 七種立題 | the seven ways sūtra titles are formed | Person / Dharma / Analogy, singly, in pairs, or all three — the traditional classification scheme Yuanying applies to this sūtra's title before analyzing it. |
 | 三身 | the three bodies | Dharmakāya (法身), Saṃbhogakāya (報身), Nirmāṇakāya (應身) — invoked in Yuanying's gloss of "Tathāgata." |
+| 二種根本 | the two roots | Fascicle 2: the false root (妄本, the grasping/conditioned mind, root of birth and death) and the true root (真本, the identity of bodhi and nirvāṇa's originally pure substance). Shared with the companion sūtra project's 攀緣心 entry — keep "root" fixed, not "basis" or "source." |
+| 識精 | the essential consciousness | Fascicle 2: the eighth consciousness' inherently luminous substance — "essential" translates 精 here (not "refined" or "pure"), since Yuanying glosses it as the single brightness underlying all six sense-faculties' functions. |
+| 咄 | "Enough!" | The Buddha's single-syllable shout refuting Ānanda's last claim ("此非汝心" — "that is not your mind"). Render as an exclamation, not translated literally as a word of scolding like "tsk" or "bah," to preserve the sūtra's own dramatic force; Yuanying explicitly likens it to a lion's roar and a sword-stroke. |
+| 七處徵心 | the seven-location search for the mind | The popular name for fascicle 2's central episode; Yuanying is careful to note this is technically seven refutations of proposed *locations*, not seven separate instances of "asking where the mind is" (徵心) — the sūtra only asks that question twice. Keep both the popular name and Yuanying's technical correction when discussing this passage. |
+| 無生法忍 | the forbearance of the unborn nature of all things | Standard term (anutpattikadharmakṣānti); do not abbreviate to just "non-arising" — Yuanying's gloss stresses both that nothing is seen to arise *or* cease, and that this recognition must be "borne" (忍) as settled understanding, not merely observed in passing. |
 
 ## Register
 
