@@ -1,0 +1,41 @@
+# Śūraṅgama Sūtra Translation Notes
+
+These notes record recurring translation decisions for the Ru-Yi English translation of the *Śūraṅgama Sūtra* (大佛頂如來密因修證了義諸菩薩萬行首楞嚴經, Taishō T19, no. 945). They exist so that terminology stays consistent across all ten fascicles, and so that they stay consistent with the companion project translating Master Yuanying's (圓瑛法師) commentary — see [`sutras/surangama-sutra-jiangyi/translation-notes.md`](../surangama-sutra-jiangyi/translation-notes.md).
+
+## Source and independence from prior translations
+
+- Base text: Taishō T945, via the CBETA digital edition (public domain). Translated by Paramiti (般剌蜜帝) in 705 CE at Guangzhou, with Meghaśikha (彌伽釋迦) rendering the oral translation and the statesman Fang Rong (房融) recording and polishing the Chinese prose.
+- The best-known modern English translation is the Buddhist Text Translation Society's *The Śūraṅgama Sūtra: A New Translation with Excerpts from the Commentary by the Venerable Master Hsüan Hua* (2009), which remains under copyright and is not licensed for reproduction here. We do not paraphrase it sentence-by-sentence. The English wording, sentence structure, and section framing on this site are Ru-Yi's own, made directly from the Chinese source text.
+- There is no existing complete English translation of Master Yuanying's commentary specifically — the companion `surangama-sutra-jiangyi` project is, as far as we know, the first.
+
+## Core terminology
+
+| Chinese | English | Notes |
+|---|---|---|
+| 首楞嚴 | Śūraṅgama | Left untranslated as a proper name (the transliteration is already standard in English-language Buddhism). Literally "heroic march" / "all-heroic progress" — the name of the samādhi the sūtra is named for; see the commentary's title exegesis for the full breakdown. |
+| 阿難 | Ānanda | The Buddha's cousin and attendant, renowned for having heard and retained more of the Buddha's teaching than anyone else. |
+| 摩登伽女 | Mātaṅgī | Named for her mother's caste (摩登伽, mātaṅga, a low caste of Ānanda's era); her own name, Prakṛti (缽吉蹄), is given later in the narrative. |
+| 娑毘迦羅先梵天呪 | the ancient Brahmā-heaven spell of Kapila | Kapila (娑毘迦羅, "Golden-Head," for his yellow hair) is a legendary ascetic teacher; the spell is attributed to the god Brahmā by way of his lineage. |
+| 文殊師利 | Mañjuśrī | Bodhisattva of wisdom, foremost among the assembly. |
+| 舍利弗 | Śāriputra | Foremost in wisdom among the Buddha's arhat disciples. |
+| 摩訶目犍連 | Mahāmaudgalyāyana | Foremost in supernatural powers. |
+| 波斯匿王 | King Prasenajit | King of Kośala, ruling from Śrāvastī; a contemporary of the Buddha. |
+| 室羅筏城 | Śrāvastī | The capital of Kośala; also rendered Śrāvastī throughout for consistency, even where the Chinese gives a phonetic transliteration (室羅筏) rather than the descriptive gloss (豐德, "Land of Abundant Virtue"). |
+| 祇桓精舍 / 祇樹給孤獨園 | Jetavana, Anāthapiṇḍada's Grove | The monastery where the sūtra is set. |
+| 奢摩他 | śamatha | Calm-abiding; one of the three practices Ānanda asks about. Left transliterated on first use, then glossed. |
+| 三摩(提) | samādhi | Left transliterated. |
+| 禪那 | dhyāna | Left transliterated. |
+| 妙奢摩他、三摩、禪那 | wondrous śamatha, samādhi, and dhyāna | Ānanda's specific request; kept as a fixed triad throughout, since the Buddha's answer (the Śūraṅgama samādhi) unifies all three under one name — this is a major structural point of the whole sūtra. |
+| 密因 | hidden cause | The "cause" referred to in the sūtra's full title: the originally pure nature every being already has, prior to any cultivation. |
+| 了義 | complete meaning / the teaching of complete meaning | As opposed to teachings of "provisional meaning" (權教) suited to a particular audience; see the commentary for the full doctrinal distinction. |
+| 攀緣心 | the grasping, conditioned mind | The ordinary discriminating mind that "runs after" objects — identified in fascicle 1 as the false root the Buddha spends the whole sūtra dismantling. |
+| 見精 / 見性 | the essence of seeing / the nature of seeing | The faculty of seeing considered apart from the physical eye — the thread the Buddha pulls on throughout the "seven locations" dialogue and beyond. |
+
+Keep this table growing as new terms recur in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
+
+## Structure and register
+
+- The sūtra text on CBETA does not carry an inline traditional outline the way some other canonical works do (contrast the Yogâcāra commentarial literature, where Kuiji's 科判 is preserved as inline headers). Master Yuanying's commentary supplies its own detailed 科判 for this sūtra; the bare-sūtra fascicle pages here use plain descriptive section headings for readability, and will cross-reference the commentary's outline once both projects have covered the same ground.
+- Plain English, close to the Chinese, not a loose paraphrase — matching the method already used for the other large translation projects on this site (*Mahāprajñāpāramitā Śāstra*, *Yogācārabhūmi Śāstra*, *Cheng Weishi Lun*).
+- Dialogue is kept as dialogue (short quoted exchanges), rather than being collapsed into indirect narration, since the sūtra's teaching method in fascicle 1 — the "seven locations" search for the mind — depends on watching Ānanda's answers get refuted one at a time.
+- Mark every fascicle's status honestly (e.g. "translation in progress") rather than implying more is finished than actually is.

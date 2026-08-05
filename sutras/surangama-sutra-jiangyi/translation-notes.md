@@ -1,0 +1,58 @@
+# Śūraṅgama Sūtra Jiǎngyì (Master Yuanying's Commentary) Translation Notes
+
+These notes record recurring translation decisions for the Ru-Yi English translation of Master Yuanying's (圓瑛法師) *Dà Fódǐng Shǒu Léngyán Jīng Jiǎngyì* (大佛頂首楞嚴經講義, "Lecture Notes on the Śūraṅgama Sūtra"). See the companion notes at [`sutras/surangama-sutra/translation-notes.md`](../surangama-sutra/translation-notes.md) for terminology shared with the bare-sūtra translation project.
+
+## Who Yuanying was, and why this text
+
+Master Yuanying (圓瑛, 1878–1953) was one of the most prominent Chinese Buddhist monks of the Republican era — abbot of Tiantong Monastery and Qita Monastery in Ningbo, first chairman of the Chinese Buddhist Association, and a founder of educational and relief institutions across China. By his own account in the preface to this work, he began studying the Śūraṅgama Sūtra at twenty-four, spent over forty years researching it, and did not begin writing this commentary until age sixty-eight, finishing it at seventy-four (completed 1953, the year of his death). It runs to 24 fascicles.
+
+## Source and copyright
+
+- Base text: the commentary as reproduced at [bfnn.org](https://book.bfnn.org/article2/1472.htm) (Buddhist Education Foundation's online library), cross-checked against the independent reproduction at the [National Taiwan University Buddhist Digital Library](https://buddhism.lib.ntu.edu.tw/). Both are independent non-commercial reproductions of the same public text, not a single publisher's proprietary typesetting — we deliberately avoid using any one commercial reprint (e.g. bookstore e-book editions) as the base text, to stay clear of any claim over a specific edition's layout or editorial apparatus.
+- Yuanying died in 1953. The commentary is in the public domain in Taiwan and mainland China (life + 50 years, expired 2003) and, on the most conservative reading of U.S. law for a foreign work restored under the URAA (life + 70 years), expired at the end of 2023 as well. We are not aware of any surviving rights holder.
+- No prior English translation of this commentary is known to exist. This is an original translation made directly from the Chinese.
+
+## The sūtra text embedded in the commentary
+
+Yuanying's method, like many classical Chinese commentaries, quotes a passage of the sūtra and then explains it clause by clause. Following the convention already established on this site for the *Mahāprajñāpāramitā Śāstra* (which interleaves sūtra and treatise passages), we mark the two layers inline:
+
+- Chinese source: bold `〖經〗` for a quoted sūtra passage, bold `〖講〗` for Yuanying's own commentary.
+- English translation: **Sūtra:** for the quoted passage, **Commentary:** for Yuanying's explanation.
+
+Where Yuanying quotes a sūtra passage that Ru-Yi has already translated in the companion `surangama-sutra` project, we reuse that exact English wording for the quotation, so a reader comparing both projects sees one consistent translation of the sūtra itself.
+
+## Yuanying's own outline (科判)
+
+Yuanying organizes his entire commentary under a ten-part outline (十門分別), labeled with the Heavenly Stems (甲乙丙丁...) and, within each part, the Earthly Branches:
+
+1. 總釋名題 — General explanation of the title
+2. 起教因緣 — The causes and conditions for teaching this sūtra
+3. 藏乘攝屬 — Which piṭaka and which vehicle it belongs to
+4. 義理淺深 — The relative depth of its doctrine
+5. 能詮教體 — The substance of the teaching that expresses it
+6. 所被機宜 — The capacities of those it addresses
+7. 宗趣通別 — Its general and specific aims
+8. 說時前後 — When in the Buddha's teaching career it was spoken
+9. 歷明傳譯 — The history of its transmission and translation
+10. 別解文義 — Line-by-line explanation of the text itself (divided further into 序分, 正宗分, 流通分 — the preface, main teaching, and transmission sections)
+
+We keep this outline as the page structure for each fascicle rather than inventing new section divisions, and preserve Yuanying's Heavenly-Stem/Earthly-Branch labels (甲一, 乙初, 丙初...) alongside an English translation of each heading.
+
+## Core terminology
+
+In addition to the shared sūtra-narrative terms in the companion notes:
+
+| Chinese | English | Notes |
+|---|---|---|
+| 十門分別 | the tenfold analysis | Yuanying's overall organizing scheme for the whole commentary (see outline above). |
+| 賢首十門 | the Xianshou (Fazang) school's ten gates | The traditional Huayan-school template Yuanying adapts, with his own reordering (see his preface remarks on placing 總釋名題 first). |
+| 密因 | the hidden cause | See companion notes. Yuanying glosses this at length as the unborn, unconditioned nature every being already possesses, as opposed to any nature contingent on cultivation. |
+| 了義 | complete meaning | Yuanying distinguishes this from ordinary usage in two specific ways — see his gloss under 甲一: "using the [sense-]root rather than [discriminating] consciousness" and "according with [true] nature rather than clinging to appearances." Do not collapse this into a generic "profound teaching." |
+| 七種立題 | the seven ways sūtra titles are formed | Person / Dharma / Analogy, singly, in pairs, or all three — the traditional classification scheme Yuanying applies to this sūtra's title before analyzing it. |
+| 三身 | the three bodies | Dharmakāya (法身), Saṃbhogakāya (報身), Nirmāṇakāya (應身) — invoked in Yuanying's gloss of "Tathāgata." |
+
+## Register
+
+- Yuanying writes in a lucid, relatively modern classical Chinese (白話夾雜文言), not the denser style of Tang-dynasty commentarial writing — the English should likewise read as clear expository prose, not artificially archaic.
+- Where Yuanying poses a rhetorical question-and-answer to unpack a term (a common move — e.g. "問：... 答：..."), preserve the question-and-answer form in English rather than flattening it into a single explanatory sentence; it is part of how he teaches.
+- Mark every fascicle's status honestly. Given the size of each fascicle (Yuanying's fascicle 1 alone runs to roughly 40,000–50,000 Chinese characters — considerably longer than first estimated from the table of contents alone), a fascicle page may cover only one numbered section of Yuanying's ten-part outline at a time. Label each page clearly as covering "part of fascicle 1" (etc.) rather than implying the whole fascicle is finished.

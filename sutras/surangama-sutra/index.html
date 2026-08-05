@@ -1,0 +1,174 @@
+---
+layout: default
+title: The Śūraṅgama Sūtra
+permalink: /sutras/surangama-sutra/
+excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized fascicle by fascicle — Ānanda's fall to Mātaṅgī's spell, the Buddha's search for the mind, and the path to the Śūraṅgama samādhi.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .ssutra{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .ssutra *{box-sizing:border-box;}
+  .ssutra-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .ssutra [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .ssutra [data-rv].in{opacity:1;transform:none;}
+  .ssutra-hero{background:linear-gradient(155deg,#8c2f12 0%,#5a2210 45%,#1c1410 100%);color:#fff;overflow:hidden;position:relative;}
+  .ssutra-hero::after{content:"楞嚴經";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .ssutra-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .ssutra-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .ssutra-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .ssutra-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .ssutra h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:16ch;}
+  .ssutra-hero p{max-width:720px;color:#edf4ef;font-size:19px;line-height:1.7;}
+  .ssutra-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .ssutra-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .ssutra-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .ssutra-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .ssutra-intro{background:var(--cream);padding:64px 0 42px;}
+  .ssutra-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.ssutra-grid{grid-template-columns:1.15fr .85fr;}}
+  .ssutra-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .ssutra-panel h2,.ssutra-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .ssutra-panel p,.ssutra-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .ssutra-panel ul{padding-left:20px;margin:0;}
+  .ssutra-stats{display:grid;gap:12px;margin-top:18px;}
+  .ssutra-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .ssutra-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .ssutra-section{padding:70px 0;background:#fff;}
+  .ssutra-section-head{max-width:720px;margin-bottom:28px;}
+  .ssutra-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:12px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(4,minmax(0,1fr));}}
+  .vol-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:16px;text-decoration:none;color:inherit;min-height:122px;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card.live{background:linear-gradient(180deg,#fff,#f5fbf8);border-color:#b9d2c8;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#d8c6a6;text-decoration:none;}
+  .vol-card.live:hover{border-color:#7ea99a;}
+  .vol-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .vol-card.live .vol-num{color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin:8px 0 6px;line-height:1.2;}
+  .vol-note{font-size:14px;color:var(--muted);line-height:1.45;margin-top:auto;}
+  .ssutra-featured{display:grid;grid-template-columns:1fr;gap:18px;margin-bottom:28px;}
+  @media(min-width:760px){.ssutra-featured{grid-template-columns:repeat(3,1fr);}}
+  .feature{border-radius:8px;background:#f7f1e6;border:1px solid var(--line);padding:22px;}
+  .feature .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra-deep);font-weight:800;}
+  .feature h3{font-family:'Playfair Display',Georgia,serif;font-size:24px;margin:8px 0 8px;color:var(--ink);}
+  .feature p{font-size:15.5px;line-height:1.6;color:var(--muted);margin:0;}
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .ssutra [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="ssutra">
+  <section class="ssutra-hero">
+    <div class="ssutra-hero-in">
+      <nav class="ssutra-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › The Śūraṅgama Sūtra</nav>
+      <div class="ssutra-eyebrow" data-rv>Paramiti · Taishō T945 · 楞嚴經</div>
+      <h1 data-rv style="transition-delay:.06s">The Sūtra of the Search for the Mind.</h1>
+      <p data-rv style="transition-delay:.12s">Ānanda, the Buddha's most learned disciple, falls to a sorceress's spell through nothing but a moment's carelessness — and returns undone, admitting that learning alone was never enough. What follows is one of the most searching interrogations in the whole Buddhist canon: where, exactly, is the mind? This page is the entrance for reading the sūtra fascicle by fascicle.</p>
+      <div class="ssutra-actions" data-rv style="transition-delay:.18s">
+        <a class="ssutra-btn primary" href="#fascicles">Browse 10 fascicles →</a>
+        <a class="ssutra-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="ssutra-intro">
+    <div class="ssutra-wrap ssutra-grid">
+      <div class="ssutra-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>The sūtra unfolds as a single long conversation: Ānanda's confession, the Buddha's questions, and — across the ten fascicles — the gradual dismantling of every mistaken idea of what "mind" and "self" could be, replaced with a direct pointing at the nature of seeing itself.</p>
+        <p>A companion project translates Master Yuanying's (圓瑛法師) classical commentary on this same sūtra, fascicle by fascicle — see <a href="{{ '/sutras/surangama-sutra-jiangyi/' | relative_url }}">the Jiǎngyì project</a> for the traditional exegesis alongside this bare translation.</p>
+      </div>
+      <div class="ssutra-panel" data-rv style="transition-delay:.08s">
+        <h2>What each fascicle page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation.</li>
+          <li>Reading notes explaining the sūtra's teaching devices — such as the "seven locations" search for the mind.</li>
+          <li>A running glossary so terminology stays consistent from fascicle 1 to fascicle 10, and with the companion commentary project.</li>
+        </ul>
+        <div class="ssutra-stats">
+          <div class="ssutra-stat"><b>10</b> fascicles in the Chinese sūtra</div>
+          <div class="ssutra-stat"><b>1</b> continuous conversation, start to finish</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="ssutra-section" id="fascicles">
+    <div class="ssutra-wrap">
+      <div class="ssutra-section-head" data-rv>
+        <h2>Read by Fascicle</h2>
+        <p>Use this as the table of contents for the sūtra. Fascicle 1 is open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
+      </div>
+
+      <div class="ssutra-featured">
+        <div class="feature" data-rv>
+          <span class="tag">Complete</span>
+          <h3>Fascicle 1</h3>
+          <p>Ānanda's fall to Mātaṅgī's spell, the Buddha's rescue, and the "seven locations" search for the mind — ending with the analogy of the fist and the blind man's lamp.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.06s">
+          <span class="tag">Coming next</span>
+          <h3>Seeing Itself</h3>
+          <p>Fascicle 2 turns from refuting where the mind is to directly pointing at the unmoving, unborn nature of seeing — the famous "ten displays of seeing."</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.12s">
+          <span class="tag">Translation notes</span>
+          <h3>How we translate this text</h3>
+          <p>See our terminology choices, kept consistent across all ten fascicles and with the companion commentary project.</p>
+        </div>
+      </div>
+
+      <div class="vol-grid">
+        {% for i in (1..10) %}
+        {% assign padded = i | prepend: '00' | slice: -3, 3 %}
+        {% if i == 1 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra/fascicle-001/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Our plain-English translation and study notes for fascicle 1 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
+        </a>
+        {% else %}
+        <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T19n0945_{{ padded }}" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read the source text</span>
+          <span class="vol-note">Open fascicle {{ i }} of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span> on CBETA. Ru-Yi's translation will be added here.</span>
+        </a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="ssutra-section" id="notes" style="background:var(--cream);padding-top:64px;">
+    <div class="ssutra-wrap">
+      <div class="ssutra-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent from fascicle 1 through fascicle 10. See the full <a href="https://github.com/lukelin7429/ruyi-meditation/blob/main/sutras/surangama-sutra/translation-notes.md" target="_blank" rel="noopener">translation-notes.md</a> in the site repository for the complete, growing list.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>首楞嚴 — Śūraṅgama</b><span>"Heroic march" — the name of the great samādhi the whole sūtra leads toward; kept as a proper name.</span></div>
+        <div class="term"><b>摩登伽女 — Mātaṅgī</b><span>The woman whose spell nearly breaks Ānanda's precepts, named for her mother's caste.</span></div>
+        <div class="term"><b>攀緣心 — the grasping, conditioned mind</b><span>The ordinary discriminating mind that "runs after" objects — the false root the Buddha spends the sūtra dismantling.</span></div>
+        <div class="term"><b>見精 / 見性 — the essence / nature of seeing</b><span>The faculty of seeing considered apart from the physical eye — the thread pulled on throughout the "seven locations" dialogue.</span></div>
+        <div class="term"><b>奢摩他、三摩、禪那 — śamatha, samādhi, dhyāna</b><span>The three practices Ānanda asks about; the Buddha's answer unifies all three under one name, the Śūraṅgama samādhi.</span></div>
+        <div class="term"><b>密因 — hidden cause</b><span>The originally pure nature every being already has, prior to any cultivation — part of the sūtra's full title.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
