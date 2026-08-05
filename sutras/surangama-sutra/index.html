@@ -104,7 +104,7 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
     <div class="ssutra-wrap">
       <div class="ssutra-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Use this as the table of contents for the sūtra. Fascicles 1–3 are open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
+        <p>Use this as the table of contents for the sūtra. Fascicles 1–4 are open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
       </div>
 
       <div class="ssutra-featured">
@@ -120,8 +120,8 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
         </div>
         <div class="feature" data-rv style="transition-delay:.12s">
           <span class="tag">Complete</span>
-          <h3>Fascicle 3: Every Category</h3>
-          <p>The six entrances, twelve fields, eighteen elements, and seven great elements — earth, water, fire, wind, space, seeing, consciousness — each the tathāgatagarbha. Ends with Ānanda's awakening and verse of praise.</p>
+          <h3>Fascicle 4: How the World Begins</h3>
+          <p>Pūrṇa's questions on how the world arises, the parable of Yajñadatta's lost head, the five turbidities, and the bell that proves hearing never ceases.</p>
         </div>
       </div>
 
@@ -145,6 +145,12 @@ excerpt: A plain-English study entrance to the Śūraṅgama Sūtra, organized f
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Our plain-English translation and study notes for fascicle 3 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
+        </a>
+        {% elsif i == 4 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra/fascicle-004/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Our plain-English translation and study notes for fascicle 4 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">楞嚴經</span>, complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T19n0945_{{ padded }}" target="_blank" rel="noopener" data-rv>

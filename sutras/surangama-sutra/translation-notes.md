@@ -42,6 +42,12 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 七大 | the seven great elements | Fascicle 3: earth, water, fire, wind, space, seeing, and consciousness (地水火風空見識) — the classical four elements expanded to include seeing and consciousness explicitly. |
 | 性X真空，性空真X | the nature of X is true emptiness, and the nature of emptiness is true X | The refrain closing each of the seven great elements' analysis. Keep the parallel construction identical every time it recurs — do not vary the wording between elements. |
 | 循業發現 | appearing/manifesting in accordance with karma | The recurring phrase explaining how a nature with no fixed origin can still appear differently for different beings — not caused, but not random either. |
+| 性覺必明，妄為明覺 | the nature of awareness is necessarily bright; mistakenly, this becomes "awareness that is bright" | Fascicle 4's founding cosmogonic wordplay — awareness trying to illuminate itself as an object is the origin of the split into world and perceiver. Preserve the near-repetition rather than smoothing it into two clearly distinct phrases. |
+| 演若達多 | Yajñadatta | The man who, per fascicle 10, becomes convinced in a mirror that he has lost his own head. Referenced in fascicle 4 before being told in full; keep the name transliterated (not "Yajnadatta" without diacritics) for consistency. |
+| 三種相續 | the three continuities | World-continuity, sentient-being-continuity (through reproduction), and karma-continuity (through killing/stealing/desire) — fascicle 4's answer to how a world of suffering perpetuates itself. |
+| 二決定義 | the two decisive meanings | Fascicle 4: (1) matching the causal-stage mind to the fruit-stage goal, and (2) examining the root of affliction — the two things Ānanda is told to settle before starting to cultivate. |
+| 五濁 | the five turbidities | The aeon, views, affliction, beings, and life-span — fascicle 4's five-stage account of how originally undivided awareness becomes progressively entangled. |
+| 六根功德 | the merit of the six sense-roots | Fascicle 4's tally of each sense-faculty's functional completeness (800 or 1200 units), setting up Ānanda's later choice of which faculty to cultivate through. |
 
 Keep this table growing as new terms recur in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
