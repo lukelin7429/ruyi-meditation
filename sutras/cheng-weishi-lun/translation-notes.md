@@ -36,6 +36,17 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 增執 / 減執 | the attachment of overstating / the attachment of understating | the two extremes the treatise steers between: treating appearances as fully real (overstating) vs. denying they exist at all (understating) |
 | 世俗有 | conventionally existent | saṃvṛtisat |
 | 勝義有 | ultimately existent | paramārthasat |
+| 悔 | regret | one of the four indeterminates (不定); also glossed as "ill-doing" (惡作) in the treatise's own definition |
+| 眠 | sleep | one of the four indeterminates; torpor that suppresses the six consciousnesses |
+| 尋 | coarse discursive thought | vitarka; one of the four indeterminates, coarse seeking-out of a mentally-conceived object |
+| 伺 | subtle discursive thought | vicāra; one of the four indeterminates, subtle, close examination of a mentally-conceived object |
+| 阿陀那識 | the ādāna-consciousness | an alternate name for the ālayavijñāna, used when emphasizing its role as the root that all other consciousnesses depend on |
+| 三能變 conclusion | — | fascicle 7 closes the three-transformations discussion (begun fascicle 2) by establishing that the eight consciousnesses are "neither strictly one nor different" (非一非異) |
+| 因緣 | the causal condition | one of the four conditions (四緣); a conditioned dharma directly producing its own result, via seeds or manifest activity |
+| 等無間緣 | the condition of immediately preceding sameness | one of the four conditions; each mind-moment opening the way for its own immediately following kind |
+| 所緣緣 | the condition of the objective support | one of the four conditions; subdivided into 親所緣緣 (the direct condition of objective support) and 疎所緣緣 (the indirect condition of objective support) |
+| 增上緣 | the dominant condition | one of the four conditions; any dharma with the power to favor or oppose another, not already covered by the first three |
+| 二十二根 | the twenty-two faculties | the five physical senses, two sex faculties, life faculty, mental faculty, five feelings, five wholesome roots beginning with faith, and three faculties tracking a practitioner's progress toward full awakening |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
