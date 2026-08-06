@@ -1,0 +1,239 @@
+---
+layout: default
+title: "Session 1 · Why Trust the Buddha at All? (Pramāṇavārttika)"
+permalink: /courses/pramanavarttika/session-1/
+excerpt: Session 1 of Reading the Pramāṇavārttika — Dharmakīrti's opening argument for why the Buddha counts as a valid authority, built on the doctor analogy and four qualifications, not on faith.
+---
+
+<style>
+  .ls{--saffron:#d98b2b;--saffron-deep:#b56a1c;--maroon:#6f2a22;--maroon-deep:#3d1712;
+      --gold:#e3b765;--jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#2a211b;--ink-soft:#5f5449;--line:#ece0cf;}
+  .ls *{box-sizing:border-box;}
+  .ls-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .ls-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ls-crumb .ls-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .ls-crumb a{color:var(--saffron-deep);text-decoration:none;}
+  .ls-crumb a:hover{text-decoration:underline;}
+
+  .ls-hero{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 46%,#1f4a40 100%);color:#fff;}
+  .ls-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .ls-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ls-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .ls-hero .subt{font-style:italic;font-size:18px;color:#e9f3ef;}
+  .ls-hero .rd{margin-top:22px;font-size:14px;color:#cfe6de;}
+  .ls-hero .rd b{color:var(--gold);}
+
+  .ls-prep{background:var(--gold);color:#4a3410;font-size:15px;line-height:1.6;padding:16px 22px;border-radius:12px;margin:34px 0 10px;font-weight:500;}
+  .ls-prep b{color:var(--maroon-deep);}
+
+  .ls-body{background:#fff;padding:44px 0 24px;}
+  .ls-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+  .ls-body p.tight{margin-bottom:10px;}
+
+  .ls-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .ls-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--saffron-deep);}
+  .ls-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .ls-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+
+  .ls-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--maroon);margin:34px 0 10px;}
+
+  .ls-quote{border-left:4px solid var(--gold);background:var(--cream);padding:18px 24px;border-radius:0 12px 12px 0;margin:24px 0;
+    font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:var(--maroon-deep);}
+
+  .ls-truths{list-style:none;counter-reset:t;padding:0;margin:22px 0;}
+  .ls-truths li{counter-increment:t;position:relative;padding:16px 20px 16px 60px;background:var(--cream);border:1px solid var(--line);border-radius:12px;margin-bottom:10px;
+    font-size:16.5px;line-height:1.55;color:var(--ink);}
+  .ls-truths li::before{content:counter(t);position:absolute;left:16px;top:15px;width:30px;height:30px;border-radius:50%;background:var(--jade);color:#fff;
+    font-family:'Playfair Display',serif;font-weight:700;font-size:16px;display:flex;align-items:center;justify-content:center;}
+  .ls-truths li b{color:var(--maroon);}
+  .ls-truths li i{color:var(--jade-deep);font-style:italic;}
+
+  .ls-take{background:linear-gradient(180deg,#fdfaf4,#f7eddc);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .ls-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--maroon);margin-bottom:8px;}
+  .ls-take ul{margin:0;padding-left:20px;}
+  .ls-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
+  .ls-take li b{color:var(--maroon-deep);}
+
+  /* debate check — a callback to Collected Topics */
+  .ls-dbg{border:1px solid var(--line);border-radius:16px;padding:6px;margin:26px 0;background:var(--cream);}
+  .ls-dbg-lbl{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--saffron-deep);padding:12px 16px 4px;}
+  .ls-dbg-turn{background:#fff;border-radius:12px;padding:14px 18px;margin:6px;box-shadow:0 4px 14px -10px rgba(60,30,20,.25);}
+  .ls-dbg-turn .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;margin-bottom:4px;}
+  .ls-dbg-turn.c{border-left:4px solid var(--saffron-deep);}
+  .ls-dbg-turn.c .who{color:var(--saffron-deep);}
+  .ls-dbg-turn.d{border-left:4px solid var(--jade);}
+  .ls-dbg-turn.d .who{color:var(--jade);}
+  .ls-dbg-turn .ln{font-size:16px;line-height:1.5;color:var(--ink);}
+  .ls-dbg-turn .note{margin-top:6px;font-size:13.5px;font-style:italic;color:var(--ink-soft);}
+
+  .ls-disc{counter-reset:d;list-style:none;padding:0;margin:18px 0;}
+  .ls-disc li{counter-increment:d;position:relative;padding:14px 18px 14px 54px;border-bottom:1px solid var(--line);font-size:16.5px;line-height:1.6;color:var(--ink);}
+  .ls-disc li:last-child{border-bottom:none;}
+  .ls-disc li::before{content:"Q" counter(d);position:absolute;left:16px;top:14px;font-family:'Playfair Display',serif;font-weight:700;color:var(--saffron-deep);font-size:15px;}
+
+  .ls-opt{border:1px solid var(--line);border-radius:14px;padding:22px 24px;margin:14px 0;background:#fff;}
+  .ls-opt b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .ls-opt p{font-size:16px;line-height:1.65;color:var(--ink-soft);margin:0;}
+
+  .ls-quiz{border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin:14px 0;background:#fff;}
+  .ls-quiz .q{font-size:16.5px;line-height:1.6;color:var(--ink);margin-bottom:12px;}
+  .ls-quiz .q b{color:var(--maroon);}
+  .ls-reveal-btn{border:1.5px solid var(--maroon);color:var(--maroon);background:transparent;font-family:inherit;font-weight:600;font-size:14px;border-radius:24px;padding:9px 18px;cursor:pointer;transition:background .2s,color .2s;}
+  .ls-reveal-btn:hover{background:var(--maroon);color:#fff;}
+  .ls-answer{max-height:0;overflow:hidden;transition:max-height .35s ease;}
+  .ls-answer.open{max-height:200px;}
+  .ls-answer-in{padding-top:14px;font-size:15.5px;line-height:1.6;color:var(--jade-deep);border-top:1px dashed var(--line);margin-top:14px;}
+  .ls-answer-in b{color:var(--maroon);}
+
+  .ls-next{background:var(--maroon);color:#f4e7d6;border-radius:16px;padding:28px 32px;margin:40px 0 20px;}
+  .ls-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ls-next h3{font-family:'Playfair Display',serif;color:#fff;font-size:22px;margin:8px 0 8px;}
+  .ls-next p{color:#f0ddcf;font-size:15.5px;line-height:1.65;margin:0;}
+
+  .ls-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .ls-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .ls-btn.primary{background:linear-gradient(158deg,#357a69,#2f6d5e);color:#fff;box-shadow:0 12px 26px -14px rgba(35,79,68,.7);}
+  .ls-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(35,79,68,.8);text-decoration:none;}
+  .ls-btn.ghost{border:1.5px solid var(--maroon);color:var(--maroon);background:transparent;}
+  .ls-btn.ghost:hover{background:var(--maroon);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .ls .ls-crumb,.ls-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .ls-hero{background:none;color:#000;padding:0;}
+    .ls-hero-in{padding:0 0 12px;}
+    .ls-eyebrow,.ls-hero .subt,.ls-hero .rd{color:#444;}
+    .ls-hero h1{color:#000;}
+    .ls-body{padding:0;}
+    .ls-body p,.ls-body h3,.ls-part h2,.ls-truths li,.ls-take li,.ls-disc li{color:#000;}
+    .ls-quote,.ls-take,.ls-truths li,.ls-opt,.ls-prep,.ls-dbg-turn{background:#fff !important;border:1px solid #bbb;}
+    .ls-next{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ls-next h3,.ls-next p,.ls-next .l{color:#000;}
+    .ls{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="ls">
+
+  <nav class="ls-crumb"><div class="ls-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/pramanavarttika/' | relative_url }}">Reading the Pramāṇavārttika</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="ls-hero">
+    <div class="ls-hero-in">
+      <div class="ls-eyebrow">Session 1 · The opening argument of 成量品</div>
+      <h1>Why Trust the Buddha at All?</h1>
+      <div class="subt">Pramāṇasiddhi — the chapter that earns the right to everything after it</div>
+      <div class="rd"><b>Before class:</b> Collected Topics, especially Session 6 (Kinds of Knowing). No knowledge of the <em>Pramāṇavārttika</em> itself required — this is where it begins.</div>
+    </div>
+  </section>
+
+  <div class="ls-body">
+    <div class="ls-wrap">
+
+      <!-- PART 1 -->
+      <div class="ls-part"><div class="pn">Part 1</div><h2>Lecture Notes</h2></div>
+
+      <h3>The question skeptics ask first</h3>
+      <p>Before anyone accepts a single teaching about karma, rebirth, or the end of suffering, a fair-minded skeptic asks one question first: <em>why should I believe any of this came from someone reliable?</em> It's not a hostile question. It's the same question you'd ask about a stranger giving you medical advice, or a contractor telling you your house is structurally sound. Trust isn't owed to anyone by default — it has to be earned, and earned specifically.</p>
+      <p>Dignāga, the founder of the Buddhist logical tradition, opened his own treatise with a single line of praise calling the Buddha "one who has become <em>pramāṇa</em>" — a valid means of knowledge, an authority. Dharmakīrti's <em>Pramāṇavārttika</em> devotes its entire first chapter, traditionally called <strong>Pramāṇasiddhi</strong> ("Establishing [the Buddha as] a Valid Authority"), to defending that one line against exactly the skeptic's question. Nothing in the rest of the text is allowed to matter until this chapter does its work.</p>
+
+      <h3>The doctor analogy</h3>
+      <p>Here's the move that makes the whole argument work. Think about why you trust your doctor about your illness. It isn't because your doctor knows everything — they may be hopeless at astronomy, cooking, or car repair, and that doesn't bother you at all. You trust them because they are <strong>reliable on the one thing you actually came for</strong>: your health.</p>
+      <div class="ls-quote">You don't need an authority to know everything. You need them to be reliable on the thing you actually need from them.</div>
+      <p>Dharmakīrti's claim about the Buddha is built on exactly this shape, not on a claim to omniscience. He is explicit that whether the Buddha knew the exact number of insects in the world, or every grain of sand in the Ganges, is <em>irrelevant</em> to the proof — and deliberately set aside. The only question that matters is whether the Buddha is reliable on the one subject his teaching claims expertise in: <strong>the nature of suffering, and the way out of it.</strong></p>
+
+      <h3>Four qualifications, not a leap of faith</h3>
+      <p>So what would it actually take for someone to earn that kind of narrow, specific reliability? Dharmakīrti's argument builds it from four pieces, each doing real work:</p>
+      <ol class="ls-truths">
+        <li><b>Compassion</b> as the motivating cause — the reason to investigate suffering in the first place has to be a genuine wish to end it for others, not idle curiosity or self-interest. <i>(Motive matters: it determines what someone actually bothers to get right.)</i></li>
+        <li><b>Sustained practice over a very long time</b> — not a single flash of insight, but training deliberately cultivated until it becomes stable and reliable, the way a surgeon's steady hand comes from years, not talent alone. <i>(This is what makes the result trustworthy rather than lucky.)</i></li>
+        <li><b>Direct realization</b> of the Four Noble Truths — actually seeing the nature of suffering and its cessation firsthand, not reasoning about it secondhand. <i>(You want a doctor who has actually treated the illness, not just read about it.)</i></li>
+        <li><b>Reliable transmission</b> — able to accurately communicate what was realized, so that others can independently verify and walk the same path. <i>(An insight nobody can follow is not yet an authority for anyone but the person who had it.)</i></li>
+      </ol>
+
+      <div class="ls-take">
+        <b class="h">Three ideas to carry out of today</b>
+        <ul>
+          <li><b>This is a narrow claim, on purpose.</b> Dharmakīrti isn't proving the Buddha knew everything — he's proving reliability on one specific, load-bearing subject, and explicitly sets the rest aside.</li>
+          <li><b>Trust is being built from evidence, not asserted by authority.</b> Motive, training, direct experience, and communicability are each independently checkable ideas — this is closer to a résumé than a creed.</li>
+          <li><b>The doctor analogy is doing the real philosophical work.</b> If you accept that narrow expertise can be trustworthy without omniscience in medicine, the same logic is what's being extended here.</li>
+        </ul>
+      </div>
+
+      <!-- DEBATE CHECK -->
+      <div class="ls-dbg">
+        <div class="ls-dbg-lbl">Debate Check — a Collected Topics callback</div>
+        <div class="ls-dbg-turn c"><div class="who">Challenger</div><div class="ln">"So, the Buddha is a reliable authority on everything, because he's a reliable authority on liberation."</div></div>
+        <div class="ls-dbg-turn d"><div class="who">Defender</div><div class="ln">"That doesn't prove it! There is no pervasion."</div><div class="note">Reliability on liberation doesn't force reliability on astronomy or arithmetic — and Dharmakīrti never claimed it did. This is exactly the same move you used to catch "has a color, therefore green" back in Session 1.</div></div>
+      </div>
+
+      <!-- PART 3 -->
+      <div class="ls-part"><div class="pn">Part 2</div><h2>Discussion Questions</h2></div>
+      <p>No wrong answers here — bring your honest reaction.</p>
+      <ol class="ls-disc">
+        <li>Does narrowing the claim to "reliable specifically about liberation" feel like a fair, honest move to you — or like moving the goalposts to make the claim easier to defend?</li>
+        <li>Think of someone you already trust as an authority in a narrow domain (a doctor, a mechanic, a teacher). Which of the four qualifications above do they actually satisfy, and which don't obviously apply to them?</li>
+        <li>Is compassion really <em>necessary</em> for reliability? Could someone with entirely selfish motives still stumble onto a true path and report it accurately?</li>
+        <li>Dharmakīrti explicitly sets aside whether the Buddha knew trivial facts like the number of grains of sand. Does that concession strengthen the argument, or does it feel like it's dodging a legitimate question about omniscience?</li>
+        <li>How is this argument different from simply saying "trust the Buddha because he's the Buddha"? Is the difference real, or just more elaborate packaging around the same faith claim?</li>
+      </ol>
+
+      <!-- PART 4 -->
+      <div class="ls-part"><div class="pn">Part 3</div><h2>Assignment<span class="rf">Choose one · half to one page · bring it next session</span></h2></div>
+      <div class="ls-opt">
+        <b class="h">Option A — Build your own résumé</b>
+        <p>Pick someone you consider a genuine authority in some narrow field — not a celebrity, an actual working authority (a specific doctor, teacher, craftsperson). Walk through Dharmakīrti's four qualifications (motive, sustained training, direct experience, reliable communication) and check which ones they actually satisfy. Where the fit is awkward, say so honestly.</p>
+      </div>
+      <div class="ls-opt">
+        <b class="h">Option B — Steelman the skeptic</b>
+        <p>Write the strongest version you can of the objection: "this argument is just faith wearing a philosopher's coat." Then write Dharmakīrti's best reply to your own objection, using only what this session actually covered — no outside material.</p>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="ls-part"><div class="pn">Part 4</div><h2>Self-Check</h2></div>
+
+      <div class="ls-quiz">
+        <div class="q">1. <b>What is the doctor analogy actually meant to establish?</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a1">Reveal answer</button>
+        <div class="ls-answer" id="a1"><div class="ls-answer-in">That narrow, subject-specific reliability (like a doctor's on health) can be genuine authority — without requiring omniscience about everything else.</div></div>
+      </div>
+      <div class="ls-quiz">
+        <div class="q">2. <b>Name the four qualifications Dharmakīrti attributes to the Buddha.</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a2">Reveal answer</button>
+        <div class="ls-answer" id="a2"><div class="ls-answer-in">Compassion as motive, sustained practice over time, direct realization of the Four Noble Truths, and reliable transmission of that realization to others.</div></div>
+      </div>
+      <div class="ls-quiz">
+        <div class="q">3. <b>Why does Dharmakīrti explicitly set aside the question of whether the Buddha knew trivial facts (like the number of grains of sand)?</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a3">Reveal answer</button>
+        <div class="ls-answer" id="a3"><div class="ls-answer-in">Because the proof only needs reliability on the one subject that matters — liberation from suffering — and omniscience about unrelated trivia is irrelevant to that claim, one way or the other.</div></div>
+      </div>
+
+      <!-- NEXT -->
+      <div class="ls-next">
+        <div class="l">Looking ahead</div>
+        <h3>Session 2 — The Limits of the Claim</h3>
+        <p>If Session 1 built the case for trusting the Buddha on liberation specifically, Session 2 asks the harder follow-up: what does this argument <em>not</em> prove, and where do even sympathetic readers think Dharmakīrti's case is at its weakest? A good argument survives being pressure-tested — this session pressure-tests it.</p>
+      </div>
+
+      <div class="ls-foot">
+        <a class="ls-btn ghost" href="{{ '/courses/pramanavarttika/' | relative_url }}">← Course overview</a>
+        <button type="button" class="ls-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.querySelectorAll('.ls-reveal-btn').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var target = document.getElementById(btn.dataset.answer);
+      var open = target.classList.toggle('open');
+      btn.textContent = open ? 'Hide answer' : 'Reveal answer';
+    });
+  });
+})();
+</script>

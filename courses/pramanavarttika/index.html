@@ -1,0 +1,178 @@
+---
+layout: default
+title: Reading the Pramāṇavārttika
+permalink: /courses/pramanavarttika/
+excerpt: A pilot course reading Dharmakīrti's Pramāṇavārttika in English — starting with his proof that the Buddha is actually worth trusting. The sequel to Collected Topics.
+---
+
+<style>
+  .pv{--saffron:#d98b2b;--saffron-deep:#b56a1c;--maroon:#6f2a22;--maroon-deep:#3d1712;
+      --gold:#e3b765;--jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;}
+  .pv *{box-sizing:border-box;}
+  .pv-wrap{max-width:880px;margin:0 auto;padding:0 26px;}
+
+  .pv-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .pv-crumb .pv-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:880px;}
+  .pv-crumb a{color:var(--saffron-deep);text-decoration:none;}
+  .pv-crumb a:hover{text-decoration:underline;}
+
+  .pv-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 90% at 82% 12%,rgba(227,183,101,.24),transparent 60%),
+      linear-gradient(158deg,#357a69 0%,#2f6d5e 46%,#1f4a40 100%);}
+  .pv-hero-in{position:relative;max-width:880px;margin:0 auto;padding:66px 26px 60px;z-index:2;}
+  .pv-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .pv-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(32px,5vw,52px);line-height:1.1;margin:14px 0 6px;}
+  .pv-hero .subt{font-style:italic;font-size:19px;color:#e9f3ef;max-width:36ch;}
+  .pv-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .pv-facts span{font-size:13px;color:#eaf4f0;border:1px solid rgba(227,183,101,.4);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+
+  .pv-body{background:#fff;padding:56px 0 20px;}
+  .pv-lede{font-size:18px;line-height:1.75;color:var(--ink);}
+  .pv-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--maroon);}
+  .pv-body p{font-size:16.5px;line-height:1.72;color:var(--ink-soft);}
+  .pv-sec{margin:44px 0;}
+  .pv-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--saffron-deep);margin-bottom:12px;}
+
+  .pv-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .pv-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.55;color:var(--ink);}
+  .pv-obj li b{color:var(--maroon);}
+  .pv-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--jade);color:#fff;font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  .pv-rhythm{display:grid;gap:10px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:640px){.pv-rhythm{grid-template-columns:repeat(5,1fr);}}
+  .pv-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 8px;}
+  .pv-rc .n{font-family:'Playfair Display',serif;color:var(--saffron-deep);font-weight:700;font-size:15px;}
+  .pv-rc b{display:block;color:var(--ink);font-size:14.5px;margin:4px 0 2px;}
+  .pv-rc span{font-size:12px;color:var(--ink-soft);line-height:1.4;}
+
+  .pv-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .pv-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .pv-row:last-child{border-bottom:none;}
+  .pv-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--saffron-deep);text-align:center;}
+  .pv-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .pv-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .pv-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .pv-row.live{background:#fff;}
+  .pv-row.live:hover{background:var(--cream);}
+  .pv-row.live .st{background:var(--jade);color:#fff;}
+  .pv-row.soon{background:#fcfaf5;cursor:default;}
+  .pv-row.soon .wk,.pv-row.soon .ti{color:#9a8f80;}
+  .pv-row.soon .st{background:#f0e7d6;color:#a9906a;}
+
+  .pv-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .pv-card ul{margin:6px 0 0;padding-left:20px;}
+  .pv-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .pv-card li b{color:var(--maroon);}
+
+  .pv-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .pv-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .pv-btn.primary{background:linear-gradient(158deg,#357a69,#2f6d5e);color:#fff;box-shadow:0 14px 30px -16px rgba(35,79,68,.7);}
+  .pv-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(35,79,68,.8);}
+  .pv-btn.ghost{border:1.5px solid var(--maroon);color:var(--maroon);}
+  .pv-btn.ghost:hover{background:var(--maroon);color:#fff;text-decoration:none;}
+
+  .pv-teacher{background:var(--maroon);color:#f4e7d6;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .pv-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .pv-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="pv">
+
+  <nav class="pv-crumb"><div class="pv-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> → <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → Reading the Pramāṇavārttika</div></nav>
+
+  <!-- HERO -->
+  <section class="pv-hero">
+    <div class="pv-hero-in">
+      <div class="pv-eyebrow">Ru-Yi Academy · Pilot Course · Sequel to Collected Topics</div>
+      <h1>Reading the Pramāṇavārttika</h1>
+      <div class="subt">釋量論 — Dharmakīrti's proof that the Buddha is actually worth trusting</div>
+      <div class="pv-facts">
+        <span>Pilot · Session 1 of many live</span>
+        <span>Requires Collected Topics or equivalent</span>
+        <span>Taught in English</span>
+        <span>Free</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="pv-body">
+    <div class="pv-wrap">
+
+      <p class="pv-lede first">Every Geluk monk who finishes Collected Topics walks straight into the same enormous text: Dharmakīrti's <em>Pramāṇavārttika</em> (《釋量論》), the great Indian treatise on what counts as valid knowledge. This course reads it the way <a href="{{ '/courses/buddhas-own-words/' | relative_url }}" style="color:var(--maroon);font-weight:600;">The Buddha's Own Words</a> reads the suttas — <b style="color:var(--ink)">lecture notes, primary argument, discussion, assignment</b> — rather than as a debate game. The four moves from Collected Topics don't disappear; they show up occasionally as a tool for testing an argument, the way a wrench shows up when you actually need to turn a bolt.</p>
+
+      <p>We start where the text itself starts: not with logic puzzles, but with a question every serious skeptic asks first. <strong>Why should anyone believe what the Buddha said about liberation, karma, or the nature of mind?</strong> Dharmakīrti's opening chapter — traditionally called <em>Pramāṇasiddhi</em>, "Establishing [the Buddha as] a Valid Authority" — is his answer, and it is far more careful and far less faith-based than most people, believers and skeptics alike, expect.</p>
+
+      <p style="font-size:15px;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:14px 18px;"><b style="color:var(--maroon);">A note on the text:</b> this is Luke Lin's original English exposition of Dharmakīrti's argument, not a verse-by-verse translation of the <em>Pramāṇavārttika</em> — no complete public-domain English translation of the text exists to build on, so each session is written from scratch based on the standard scholarly understanding of the chapter's structure and reasoning.</p>
+
+      <!-- OBJECTIVES -->
+      <div class="pv-sec">
+        <div class="lbl">What you'll be able to do</div>
+        <ol class="pv-obj">
+          <li>Explain Dharmakīrti's core move: a teacher doesn't need to know everything to be worth trusting — they need to be reliable on the thing that actually matters.</li>
+          <li>Walk through the four qualifications Dharmakīrti attributes to the Buddha, and explain why each one is doing real argumentative work, not just decoration.</li>
+          <li>Defend this argument against its most obvious objection — and recognize where it genuinely has limits.</li>
+          <li>(As later sessions open) follow the text into its treatment of perception, inference, and what it actually means to know something — deepening everything Collected Topics introduced.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="pv-sec">
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">Same five-part rhythm as The Buddha's Own Words.</p>
+        <div class="pv-rhythm">
+          <div class="pv-rc"><div class="n">1</div><b>Lecture Notes</b><span>The argument, unpacked in plain English</span></div>
+          <div class="pv-rc"><div class="n">2</div><b>Core Argument</b><span>Dharmakīrti's reasoning, followed step by step</span></div>
+          <div class="pv-rc"><div class="n">3</div><b>Discussion</b><span>Open questions, talked through</span></div>
+          <div class="pv-rc"><div class="n">4</div><b>Assignment</b><span>A short take-home task</span></div>
+          <div class="pv-rc"><div class="n">5</div><b>Self-Check</b><span>A quick quiz confirms it landed</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="pv-sec">
+        <div class="lbl">The sessions</div>
+        <p style="margin:0 0 14px;">Session 1 is live; the rest of <em>Pramāṇasiddhi</em> and the chapters that follow it (perception, inference-for-oneself, inference-for-others) are being piloted before they're published here.</p>
+        <div class="pv-sched">
+
+          <a class="pv-row live" href="{{ '/courses/pramanavarttika/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">Why Trust the Buddha at All?<small>成量品 · The doctor analogy and the four qualifications</small></div>
+            <div class="st">Open →</div>
+          </a>
+
+          <div class="pv-row soon"><div class="wk">2</div><div class="ti">The Limits of the Claim<small>成量品 (cont.) · What this argument does NOT try to prove</small></div><div class="st">Planned</div></div>
+          <div class="pv-row soon"><div class="wk">3</div><div class="ti">What Counts as Direct Perception<small>現量品 · Building on Collected Topics Session 6</small></div><div class="st">Planned</div></div>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="pv-sec">
+        <div class="lbl">What you'll need</div>
+        <div class="pv-card">
+          <ul>
+            <li><b>Collected Topics, or comparable comfort with the four debate moves.</b> This course leans on that vocabulary without re-teaching it.</li>
+            <li><b>Nothing to buy.</b> Every session is free and self-contained on this page.</li>
+            <li><b>Patience with dense argument.</b> This text is harder than Collected Topics on purpose — that's the whole point of graduating into it.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="pv-actions">
+        <a class="pv-btn primary" href="{{ '/courses/pramanavarttika/session-1/' | relative_url }}">Begin Session 1 →</a>
+        <a class="pv-btn ghost" href="{{ '/courses/collected-topics/' | relative_url }}">Review Collected Topics first</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="pv-teacher">
+        <div class="q">"Collected Topics teaches you the grammar of debate. This course is the first time you point that grammar at the question everything else depends on: is this teacher actually worth listening to? Dharmakīrti thought the honest answer required an argument, not just faith — and so do I."</div>
+        <div class="who">— Luke Lin, instructor · Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
