@@ -57,6 +57,8 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 四生 | the four kinds of birth | egg-birth (卵生) / womb-birth (胎生) / moisture-birth (濕生) / transformation-birth (化生); introduced in fascicle 8. Humans and animals uniquely span all four; hells, gods, and the intermediate-existence being are exclusively transformation-born; ghosts span only womb- and transformation-birth. |
 | 揭路荼 / 那落迦 (as used for hell-beings) | garuḍa / hell-being (nāraka) | garuḍa — a mythical bird-being; introduced in fascicle 8 in the discussion of transformation-birth. 那落迦/nāraka for "hell-being" already used consistently since earlier fascicles' hell discussions. |
 | 目連 | Maudgalyāyana | one of the Buddha's two chief disciples (with Śāriputra); introduced in fascicle 8 as the addressee of the hungry ghost's lament. |
+| 中有 | intermediate existence | antarābhava — the five-aggregate being arising between the existence of death and the existence of birth; introduced and extensively defended in fascicle 8's closing debate. Also called 健達縛/gandharva in the specific context of entry into a mother's womb. |
+| 五不還 | the five non-returners | introduced in fascicle 8: 中般 "attains final nirvana in the interval," 生般 "attains it upon birth," 無行般 "without exertion," 有行般 "through exertion," 上流 "streams upward." |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
