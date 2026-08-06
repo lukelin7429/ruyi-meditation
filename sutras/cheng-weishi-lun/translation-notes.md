@@ -66,6 +66,11 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 轉依 | the transformation of the basis | āśraya-parāvṛtti; the dependent nature's (or suchness's) transformative relinquishment of the imagined nature and transformative attainment of the perfectly accomplished nature, achieved through the stage of cultivation |
 | 十地 | the ten grounds | 極喜地, 離垢地, 發光地, 焰慧地, 極難勝地, 現前地, 遠行地, 不動地, 善慧地, 法雲地 — the ten grounds of the stage of cultivation, each pairing one of the ten perfections with one of the ten obstructions eliminated there |
 | 十波羅蜜多 | the ten perfections | 施 (generosity), 戒 (moral discipline), 忍 (patience), 精進 (diligence), 靜慮 (meditative concentration), 般若 (wisdom), 方便善巧 (skillful means), 願 (vow), 力 (power), 智 (wisdom); the last four support the first six and must be qualified by the seven excellences (七最勝) to count as genuine perfections |
+| 十真如 | the ten kinds of suchness | ten provisional names for a single, undivided suchness, each corresponding to one of the ten grounds — see fascicle 10 for the full list |
+| 四種涅槃 | the four kinds of nirvana | 本來自性清淨涅槃 (original, intrinsic purity — possessed by all beings), 有餘依涅槃 (with residual basis), 無餘依涅槃 (without residual basis — the latter two possessed by arhats), 無住處涅槃 (of no fixed abode — possessed only by a buddha, freed from the cognitive obstruction) |
+| 四智 | the four wisdoms | 大圓鏡智 (the great, perfect mirror wisdom, from the 8th consciousness), 平等性智 (the wisdom of equality, from the 7th), 妙觀察智 (the wisdom of wondrous contemplation, from the 6th), 成所作智 (the wisdom of accomplishing what is to be done, from the first 5); the treatise's account of what an awakened mind consists of (轉識成智, "transforming consciousness into wisdom") |
+| 三身 | the three bodies (trikāya) | 自性身 (the intrinsic-nature body, i.e. suchness itself), 受用身 (the enjoyment body, subdivided into 自受用 self-enjoyment and 他受用 other-enjoyment), 變化身 (the transformation body) |
+| 轉識成智 | transforming consciousness into wisdom | the treatise's central teaching on enlightenment: each of the eight consciousnesses, once purified, becomes its own corresponding wisdom rather than being discarded |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 

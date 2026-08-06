@@ -83,7 +83,7 @@ excerpt: A plain-English study entrance to the Cheng Weishi Lun, Xuanzang's synt
       <div class="cwsl-panel" data-rv>
         <h2>How to read this collection</h2>
         <p>This treatise is dense and technical — it was written to train monastic scholars, not casual readers. We keep the argument's own structure (its traditional 科判 outline) rather than smoothing it away, and we add reading notes wherever a modern English reader would otherwise lose the thread.</p>
-        <p>The individual fascicle pages will be filled in progressively. The structure is ready now, so readers can move through the treatise in order while the translation grows.</p>
+        <p>All ten fascicles are now translated in full. Read them in order, or jump to whichever part of the treatise you need — the eight consciousnesses, the fifty-one mental factors, the Three Natures, or the five-stage path to buddhahood.</p>
       </div>
       <div class="cwsl-panel" data-rv style="transition-delay:.08s">
         <h2>What each fascicle page includes</h2>
@@ -104,24 +104,24 @@ excerpt: A plain-English study entrance to the Cheng Weishi Lun, Xuanzang's synt
     <div class="cwsl-wrap">
       <div class="cwsl-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Use this as the table of contents for the treatise. Fascicle 1 is open now; the remaining entries mark the full shape of the project and link to the source text on CBETA in the meantime.</p>
+        <p>The full ten-fascicle translation is now complete. Use this as the table of contents for the treatise, from the opening refutation of self and dharmas through to the ultimate stage of buddhahood.</p>
       </div>
 
       <div class="cwsl-featured">
         <div class="feature" data-rv>
-          <span class="tag">Complete</span>
-          <h3>Fascicle 1</h3>
-          <p>The opening homage, the refutation of a real self, and the full refutation of dharma-attachment — six non-Buddhist schools and six categories of realist Buddhist Abhidharma, methodically cleared away.</p>
+          <span class="tag">Fascicles 1–6</span>
+          <h3>The Eight Consciousnesses and Fifty-One Mental Factors</h3>
+          <p>The refutation of self and dharmas, the ālayavijñāna, the manas, the six sense-consciousnesses, and the full taxonomy of mental factors — universal, particular, wholesome, afflicted, and secondary-afflicted.</p>
         </div>
         <div class="feature" data-rv style="transition-delay:.06s">
-          <span class="tag">Coming next</span>
-          <h3>The Eight Consciousnesses</h3>
-          <p>Fascicles 2–5 build the positive theory: the ālayavijñāna, the manas, and the six sense-consciousnesses — the working parts of the whole theory of mind.</p>
+          <span class="tag">Fascicles 7–8</span>
+          <h3>Proving Consciousness-Only, and the Three Natures</h3>
+          <p>The indeterminates completing all fifty-one factors, the formal proof of Consciousness-Only, causation and the twelve links of dependent origination, and the foundational doctrine of the Three Natures.</p>
         </div>
         <div class="feature" data-rv style="transition-delay:.12s">
-          <span class="tag">Translation notes</span>
-          <h3>How we translate this text</h3>
-          <p>See our terminology choices and how we handle the traditional outline — kept consistent across all ten fascicles.</p>
+          <span class="tag">Fascicles 9–10</span>
+          <h3>The Five-Stage Path to Buddhahood</h3>
+          <p>Provisioning, applied practice, the path of seeing, and the ten grounds of cultivation, closing with the four wisdoms, the four kinds of nirvana, the three bodies of a buddha, and the treatise's own final verse.</p>
         </div>
       </div>
 
@@ -181,6 +181,12 @@ excerpt: A plain-English study entrance to the Cheng Weishi Lun, Xuanzang's synt
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Our plain-English translation and study notes for scroll 9 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">成唯識論</span>, complete.</span>
+        </a>
+        {% elsif i == 10 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/cheng-weishi-lun/fascicle-010/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Our plain-English translation and study notes for scroll 10 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">成唯識論</span> — the final fascicle, complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T31n1585_{{ padded }}" target="_blank" rel="noopener" data-rv>
