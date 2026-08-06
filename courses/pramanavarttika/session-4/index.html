@@ -1,0 +1,249 @@
+---
+layout: default
+title: "Session 4 · What Makes an Inference Actually Valid (Pramāṇavārttika)"
+permalink: /courses/pramanavarttika/session-4/
+excerpt: Session 4 of Reading the Pramāṇavārttika — 自義比量品. The three modes of a valid reason (trairūpya) and the three types of valid reason, formalizing "pervasion" used throughout both courses.
+---
+
+<style>
+  .ls{--saffron:#d98b2b;--saffron-deep:#b56a1c;--maroon:#6f2a22;--maroon-deep:#3d1712;
+      --gold:#e3b765;--jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#2a211b;--ink-soft:#5f5449;--line:#ece0cf;}
+  .ls *{box-sizing:border-box;}
+  .ls-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .ls-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ls-crumb .ls-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .ls-crumb a{color:var(--saffron-deep);text-decoration:none;}
+  .ls-crumb a:hover{text-decoration:underline;}
+
+  .ls-hero{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 46%,#1f4a40 100%);color:#fff;}
+  .ls-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .ls-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ls-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .ls-hero .subt{font-style:italic;font-size:18px;color:#e9f3ef;}
+  .ls-hero .rd{margin-top:22px;font-size:14px;color:#cfe6de;}
+  .ls-hero .rd b{color:var(--gold);}
+
+  .ls-body{background:#fff;padding:44px 0 24px;}
+  .ls-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .ls-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .ls-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--saffron-deep);}
+  .ls-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .ls-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .ls-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--maroon);margin:34px 0 10px;}
+
+  .ls-quote{border-left:4px solid var(--gold);background:var(--cream);padding:18px 24px;border-radius:0 12px 12px 0;margin:24px 0;
+    font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:var(--maroon-deep);}
+
+  .ls-truths{list-style:none;counter-reset:t;padding:0;margin:22px 0;}
+  .ls-truths li{counter-increment:t;position:relative;padding:16px 20px 16px 60px;background:var(--cream);border:1px solid var(--line);border-radius:12px;margin-bottom:10px;
+    font-size:16.5px;line-height:1.55;color:var(--ink);}
+  .ls-truths li::before{content:counter(t);position:absolute;left:16px;top:15px;width:30px;height:30px;border-radius:50%;background:var(--jade);color:#fff;
+    font-family:'Playfair Display',serif;font-weight:700;font-size:16px;display:flex;align-items:center;justify-content:center;}
+  .ls-truths li b{color:var(--maroon);}
+  .ls-truths li i{color:var(--jade-deep);font-style:italic;}
+
+  .ls-moves{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:18px 0;}
+  .ls-move{display:grid;grid-template-columns:1.3fr 1.7fr;gap:0;border-bottom:1px solid var(--line);}
+  .ls-move:last-child{border-bottom:none;}
+  .ls-move .say{padding:16px 18px;background:var(--cream);font-family:'Playfair Display',serif;font-weight:700;font-size:16px;color:var(--maroon);display:flex;align-items:center;}
+  .ls-move .why{padding:16px 18px;font-size:15px;line-height:1.5;color:var(--ink);display:flex;align-items:center;}
+  .ls-move .why small{display:block;color:var(--ink-soft);font-style:italic;font-weight:400;margin-top:3px;}
+
+  .ls-take{background:linear-gradient(180deg,#fdfaf4,#f7eddc);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .ls-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--maroon);margin-bottom:8px;}
+  .ls-take ul{margin:0;padding-left:20px;}
+  .ls-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
+  .ls-take li b{color:var(--maroon-deep);}
+
+  .ls-dbg{border:1px solid var(--line);border-radius:16px;padding:6px;margin:26px 0;background:var(--cream);}
+  .ls-dbg-lbl{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--saffron-deep);padding:12px 16px 4px;}
+  .ls-dbg-turn{background:#fff;border-radius:12px;padding:14px 18px;margin:6px;box-shadow:0 4px 14px -10px rgba(60,30,20,.25);}
+  .ls-dbg-turn .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;margin-bottom:4px;}
+  .ls-dbg-turn.c{border-left:4px solid var(--saffron-deep);}
+  .ls-dbg-turn.c .who{color:var(--saffron-deep);}
+  .ls-dbg-turn.d{border-left:4px solid var(--jade);}
+  .ls-dbg-turn.d .who{color:var(--jade);}
+  .ls-dbg-turn .ln{font-size:16px;line-height:1.5;color:var(--ink);}
+  .ls-dbg-turn .note{margin-top:6px;font-size:13.5px;font-style:italic;color:var(--ink-soft);}
+
+  .ls-disc{counter-reset:d;list-style:none;padding:0;margin:18px 0;}
+  .ls-disc li{counter-increment:d;position:relative;padding:14px 18px 14px 54px;border-bottom:1px solid var(--line);font-size:16.5px;line-height:1.6;color:var(--ink);}
+  .ls-disc li:last-child{border-bottom:none;}
+  .ls-disc li::before{content:"Q" counter(d);position:absolute;left:16px;top:14px;font-family:'Playfair Display',serif;font-weight:700;color:var(--saffron-deep);font-size:15px;}
+
+  .ls-opt{border:1px solid var(--line);border-radius:14px;padding:22px 24px;margin:14px 0;background:#fff;}
+  .ls-opt b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .ls-opt p{font-size:16px;line-height:1.65;color:var(--ink-soft);margin:0;}
+
+  .ls-quiz{border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin:14px 0;background:#fff;}
+  .ls-quiz .q{font-size:16.5px;line-height:1.6;color:var(--ink);margin-bottom:12px;}
+  .ls-quiz .q b{color:var(--maroon);}
+  .ls-reveal-btn{border:1.5px solid var(--maroon);color:var(--maroon);background:transparent;font-family:inherit;font-weight:600;font-size:14px;border-radius:24px;padding:9px 18px;cursor:pointer;transition:background .2s,color .2s;}
+  .ls-reveal-btn:hover{background:var(--maroon);color:#fff;}
+  .ls-answer{max-height:0;overflow:hidden;transition:max-height .35s ease;}
+  .ls-answer.open{max-height:220px;}
+  .ls-answer-in{padding-top:14px;font-size:15.5px;line-height:1.6;color:var(--jade-deep);border-top:1px dashed var(--line);margin-top:14px;}
+  .ls-answer-in b{color:var(--maroon);}
+
+  .ls-next{background:var(--maroon);color:#f4e7d6;border-radius:16px;padding:28px 32px;margin:40px 0 20px;}
+  .ls-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ls-next h3{font-family:'Playfair Display',serif;color:#fff;font-size:22px;margin:8px 0 8px;}
+  .ls-next p{color:#f0ddcf;font-size:15.5px;line-height:1.65;margin:0;}
+
+  .ls-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .ls-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .ls-btn.primary{background:linear-gradient(158deg,#357a69,#2f6d5e);color:#fff;box-shadow:0 12px 26px -14px rgba(35,79,68,.7);}
+  .ls-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(35,79,68,.8);text-decoration:none;}
+  .ls-btn.ghost{border:1.5px solid var(--maroon);color:var(--maroon);background:transparent;}
+  .ls-btn.ghost:hover{background:var(--maroon);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .ls .ls-crumb,.ls-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .ls-hero{background:none;color:#000;padding:0;}
+    .ls-hero-in{padding:0 0 12px;}
+    .ls-eyebrow,.ls-hero .subt,.ls-hero .rd{color:#444;}
+    .ls-hero h1{color:#000;}
+    .ls-body{padding:0;}
+    .ls-body p,.ls-body h3,.ls-part h2,.ls-truths li,.ls-take li,.ls-disc li{color:#000;}
+    .ls-quote,.ls-take,.ls-truths li,.ls-opt,.ls-dbg-turn{background:#fff !important;border:1px solid #bbb;}
+    .ls-next{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ls-next h3,.ls-next p,.ls-next .l{color:#000;}
+    .ls{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="ls">
+
+  <nav class="ls-crumb"><div class="ls-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/pramanavarttika/' | relative_url }}">Reading the Pramāṇavārttika</a> → Session 4</div></nav>
+
+  <!-- HERO -->
+  <section class="ls-hero">
+    <div class="ls-hero-in">
+      <div class="ls-eyebrow">Session 4 · 自義比量品, the inference chapter</div>
+      <h1>What Makes an Inference Actually Valid</h1>
+      <div class="subt">The three-part test behind every "that doesn't prove it" you've ever said in this course</div>
+      <div class="rd"><b>Before class:</b> Collected Topics (all six sessions) and Pramāṇavārttika Session 3. Today formalizes what "no pervasion" has meant this whole time.</div>
+    </div>
+  </section>
+
+  <div class="ls-body">
+    <div class="ls-wrap">
+
+      <!-- PART 1 -->
+      <div class="ls-part"><div class="pn">Part 1</div><h2>Lecture Notes</h2></div>
+
+      <h3>The question you've been begging since Session 1 of Collected Topics</h3>
+      <p>Every single time you said <em>"that doesn't prove it — there is no pervasion,"</em> across two entire courses, you were relying on an intuition nobody had formally defined for you yet. Why does smoke prove fire, but a rooster's crow doesn't prove sunrise? Why does "impermanent" prove "product," but "has a color" doesn't prove "green"? You could always <em>feel</em> the difference. This chapter is where Dharmakīrti finally writes down the actual test.</p>
+
+      <h3>The three modes of a valid reason</h3>
+      <p>A reason (a piece of evidence offered to prove something) only counts as logically valid if it passes all three of these, together — not two out of three, all three:</p>
+      <ol class="ls-truths">
+        <li><b>It genuinely applies to the case at hand.</b> If you're arguing about this mountain, there actually has to be smoke on this mountain — not smoke somewhere else, not smoke you're assuming. <i>(This is where "the reason is not established" lives — a reason that fails this mode is simply false.)</i></li>
+        <li><b>Positive pervasion:</b> everywhere the reason occurs, the thing you're proving occurs too. Every genuinely smoky place is a fiery place, no exceptions. <i>(This is where "no pervasion" catches a reason that's real but doesn't force the conclusion.)</i></li>
+        <li><b>Negative pervasion:</b> everywhere the thing you're proving is absent, the reason is absent too. Every non-fiery place is a non-smoky place. <i>(The mirror image of mode 2 — checking the connection holds in reverse as well, not just forward.)</i></li>
+      </ol>
+      <div class="ls-quote">Mode 1 asks: is the evidence real? Modes 2 and 3 ask: does the evidence actually force the conclusion, in both directions?</div>
+      <p>Notice something: modes 2 and 3 are exactly the two failure points you've been testing this whole time with "no pervasion." You were doing this formal check informally, by feel, from the very first color-and-shape debate. This chapter just gives it its full name: <strong>pervasion</strong> (khyab pa) — the genuine, checkable, two-directional connection between a reason and what it proves.</p>
+
+      <h3>Three types of valid reason</h3>
+      <p>Dharmakīrti sorts every reason that actually passes all three modes into one of three families:</p>
+      <div class="ls-moves">
+        <div class="ls-move">
+          <div class="say">Effect Reason</div>
+          <div class="why">Inferring a cause from its effect.<small>Smoke → fire (Collected Topics Session 6)</small></div>
+        </div>
+        <div class="ls-move">
+          <div class="say">Nature Reason</div>
+          <div class="why">The reason and the conclusion share one entity by very definition.<small>"Impermanent, because it's a product" (Collected Topics Session 4)</small></div>
+        </div>
+        <div class="ls-move">
+          <div class="say">Non-Perception Reason</div>
+          <div class="why">Proving an absence, because something that should be perceivable simply isn't perceived.<small>"No pot on the floor, because if there were one, in this light, I'd see it — and I don't"</small></div>
+        </div>
+      </div>
+
+      <div class="ls-take">
+        <b class="h">Two threads finally tied together</b>
+        <ul>
+          <li><b>"Pervasion" was never just a Collected Topics word.</b> It's the technical center of the entire logical system — modes 2 and 3, applied to whatever subject you're debating.</li>
+          <li><b>You already knew the three reason-types from experience</b> — smoke/fire (effect), product/impermanent (nature) — before you had names for them. This chapter is the payoff for paying attention back then.</li>
+        </ul>
+      </div>
+
+      <!-- DEBATE CHECK -->
+      <div class="ls-dbg">
+        <div class="ls-dbg-lbl">Debate Check — running the full three-mode test</div>
+        <div class="ls-dbg-turn c"><div class="who">Challenger</div><div class="ln">"So, it rained last night, because the grass is wet."</div></div>
+        <div class="ls-dbg-turn d"><div class="who">Defender</div><div class="ln">"That doesn't prove it! There is no pervasion."</div><div class="note">Mode 1 passes (the grass really is wet). Mode 2 fails: wet grass does <em>not</em> always mean rain — a sprinkler produces the same evidence. A reason that fails mode 2 is called inconclusive, and this is exactly that.</div></div>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="ls-part"><div class="pn">Part 2</div><h2>Discussion Questions</h2></div>
+      <ol class="ls-disc">
+        <li>Go back to Collected Topics Session 1's "has a color, therefore green" trap. Which specific mode does it fail — 1, 2, or 3?</li>
+        <li>Is mode 3 (negative pervasion) doing real independent work, or is it automatically guaranteed once mode 2 holds? Argue it either way.</li>
+        <li>Of the three reason-types (effect, nature, non-perception), which feels most intuitively solid to you, and which feels shakiest?</li>
+        <li>Try classifying "this room is empty of elephants, because if one were here, I'd see it, and I don't" — which type of reason is this, and does it remind you of anything from Collected Topics Session 5?</li>
+      </ol>
+
+      <!-- PART 3 -->
+      <div class="ls-part"><div class="pn">Part 3</div><h2>Assignment<span class="rf">Choose one · half to one page · bring it next session</span></h2></div>
+      <div class="ls-opt">
+        <b class="h">Option A — Run the full test</b>
+        <p>Take a claim from your own everyday reasoning ("you have a fever, because your forehead feels hot" or similar) and formally check it against all three modes. Does it survive?</p>
+      </div>
+      <div class="ls-opt">
+        <b class="h">Option B — Sort your own examples</b>
+        <p>Come up with one original example each of an effect reason, a nature reason, and a non-perception reason — none copied from this session — and explain why each belongs in its category.</p>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="ls-part"><div class="pn">Part 4</div><h2>Self-Check</h2></div>
+
+      <div class="ls-quiz">
+        <div class="q">1. <b>Name the three modes a reason must pass to count as logically valid.</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a1">Reveal answer</button>
+        <div class="ls-answer" id="a1"><div class="ls-answer-in">(1) It genuinely applies to the subject, (2) positive pervasion — wherever the reason occurs, the conclusion occurs, (3) negative pervasion — wherever the conclusion is absent, the reason is absent.</div></div>
+      </div>
+      <div class="ls-quiz">
+        <div class="q">2. <b>Classify: "sound is impermanent, because it is a product."</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a2">Reveal answer</button>
+        <div class="ls-answer" id="a2"><div class="ls-answer-in">A nature reason — "product" and "impermanent" are one entity by definition, not cause-and-effect or an absence.</div></div>
+      </div>
+      <div class="ls-quiz">
+        <div class="q">3. <b>Classify: "there is fire on the mountain, because there is smoke."</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a3">Reveal answer</button>
+        <div class="ls-answer" id="a3"><div class="ls-answer-in">An effect reason — smoke is an effect of fire, and the effect is used to infer the cause.</div></div>
+      </div>
+
+      <!-- NEXT -->
+      <div class="ls-next">
+        <div class="l">Looking ahead</div>
+        <h3>More sessions in progress</h3>
+        <p>The chapters after this one turn from reasoning-for-yourself to putting a valid inference into words someone else can check (為他比量品) — the difference between knowing something is true and actually proving it to a skeptic sitting across from you. Being piloted before it's published here.</p>
+      </div>
+
+      <div class="ls-foot">
+        <a class="ls-btn ghost" href="{{ '/courses/pramanavarttika/' | relative_url }}">← Course overview</a>
+        <button type="button" class="ls-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.querySelectorAll('.ls-reveal-btn').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var target = document.getElementById(btn.dataset.answer);
+      var open = target.classList.toggle('open');
+      btn.textContent = open ? 'Hide answer' : 'Reveal answer';
+    });
+  });
+})();
+</script>
