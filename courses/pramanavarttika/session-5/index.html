@@ -1,0 +1,250 @@
+---
+layout: default
+title: "Session 5 · Proving It to Someone Else (Pramāṇavārttika)"
+permalink: /courses/pramanavarttika/session-5/
+excerpt: Session 5 (capstone) of Reading the Pramāṇavārttika — 為他比量品. The formal proof statement, and the three kinds of pseudo-reason, including the new move "that proves the opposite!"
+---
+
+<style>
+  .ls{--saffron:#d98b2b;--saffron-deep:#b56a1c;--maroon:#6f2a22;--maroon-deep:#3d1712;
+      --gold:#e3b765;--jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#2a211b;--ink-soft:#5f5449;--line:#ece0cf;}
+  .ls *{box-sizing:border-box;}
+  .ls-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .ls-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ls-crumb .ls-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .ls-crumb a{color:var(--saffron-deep);text-decoration:none;}
+  .ls-crumb a:hover{text-decoration:underline;}
+
+  .ls-hero{background:linear-gradient(158deg,#357a69 0%,#2f6d5e 46%,#1f4a40 100%);color:#fff;}
+  .ls-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .ls-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ls-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .ls-hero .subt{font-style:italic;font-size:18px;color:#e9f3ef;}
+  .ls-hero .rd{margin-top:22px;font-size:14px;color:#cfe6de;}
+  .ls-hero .rd b{color:var(--gold);}
+
+  .ls-body{background:#fff;padding:44px 0 24px;}
+  .ls-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .ls-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .ls-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--saffron-deep);}
+  .ls-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .ls-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .ls-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--maroon);margin:34px 0 10px;}
+
+  .ls-quote{border-left:4px solid var(--gold);background:var(--cream);padding:18px 24px;border-radius:0 12px 12px 0;margin:24px 0;
+    font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:var(--maroon-deep);}
+
+  .ls-moves{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:18px 0;}
+  .ls-move{display:grid;grid-template-columns:1.3fr 1.7fr;gap:0;border-bottom:1px solid var(--line);}
+  .ls-move:last-child{border-bottom:none;}
+  .ls-move .say{padding:16px 18px;background:var(--cream);font-family:'Playfair Display',serif;font-weight:700;font-size:16px;color:var(--maroon);display:flex;align-items:center;}
+  .ls-move .why{padding:16px 18px;font-size:15px;line-height:1.5;color:var(--ink);display:flex;align-items:center;}
+  .ls-move .why small{display:block;color:var(--ink-soft);font-style:italic;font-weight:400;margin-top:3px;}
+  .ls-move.new .say{background:var(--gold);color:var(--maroon-deep);}
+
+  .ls-take{background:linear-gradient(180deg,#fdfaf4,#f7eddc);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .ls-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--maroon);margin-bottom:8px;}
+  .ls-take ul{margin:0;padding-left:20px;}
+  .ls-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
+  .ls-take li b{color:var(--maroon-deep);}
+
+  .ls-dbg{border:1px solid var(--line);border-radius:16px;padding:6px;margin:26px 0;background:var(--cream);}
+  .ls-dbg-lbl{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--saffron-deep);padding:12px 16px 4px;}
+  .ls-dbg-turn{background:#fff;border-radius:12px;padding:14px 18px;margin:6px;box-shadow:0 4px 14px -10px rgba(60,30,20,.25);}
+  .ls-dbg-turn .who{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;margin-bottom:4px;}
+  .ls-dbg-turn.c{border-left:4px solid var(--saffron-deep);}
+  .ls-dbg-turn.c .who{color:var(--saffron-deep);}
+  .ls-dbg-turn.d{border-left:4px solid var(--jade);}
+  .ls-dbg-turn.d .who{color:var(--jade);}
+  .ls-dbg-turn .ln{font-size:16px;line-height:1.5;color:var(--ink);}
+  .ls-dbg-turn .note{margin-top:6px;font-size:13.5px;font-style:italic;color:var(--ink-soft);}
+
+  .ls-disc{counter-reset:d;list-style:none;padding:0;margin:18px 0;}
+  .ls-disc li{counter-increment:d;position:relative;padding:14px 18px 14px 54px;border-bottom:1px solid var(--line);font-size:16.5px;line-height:1.6;color:var(--ink);}
+  .ls-disc li:last-child{border-bottom:none;}
+  .ls-disc li::before{content:"Q" counter(d);position:absolute;left:16px;top:14px;font-family:'Playfair Display',serif;font-weight:700;color:var(--saffron-deep);font-size:15px;}
+
+  .ls-opt{border:1px solid var(--line);border-radius:14px;padding:22px 24px;margin:14px 0;background:#fff;}
+  .ls-opt b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .ls-opt p{font-size:16px;line-height:1.65;color:var(--ink-soft);margin:0;}
+
+  .ls-quiz{border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin:14px 0;background:#fff;}
+  .ls-quiz .q{font-size:16.5px;line-height:1.6;color:var(--ink);margin-bottom:12px;}
+  .ls-quiz .q b{color:var(--maroon);}
+  .ls-reveal-btn{border:1.5px solid var(--maroon);color:var(--maroon);background:transparent;font-family:inherit;font-weight:600;font-size:14px;border-radius:24px;padding:9px 18px;cursor:pointer;transition:background .2s,color .2s;}
+  .ls-reveal-btn:hover{background:var(--maroon);color:#fff;}
+  .ls-answer{max-height:0;overflow:hidden;transition:max-height .35s ease;}
+  .ls-answer.open{max-height:220px;}
+  .ls-answer-in{padding-top:14px;font-size:15.5px;line-height:1.6;color:var(--jade-deep);border-top:1px dashed var(--line);margin-top:14px;}
+  .ls-answer-in b{color:var(--maroon);}
+
+  .ls-complete{background:linear-gradient(158deg,#7c2f24 0%,#6f2a22 42%,#3d1712 100%);color:#fff;border-radius:16px;padding:36px 38px;margin:40px 0 20px;position:relative;overflow:hidden;}
+  .ls-complete .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .ls-complete h3{font-family:'Playfair Display',serif;color:#fff;font-size:26px;margin:10px 0 12px;}
+  .ls-complete p{color:#f4e2d4;font-size:16px;line-height:1.7;margin:0 0 14px;}
+  .ls-complete p:last-child{margin-bottom:0;}
+
+  .ls-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .ls-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .ls-btn.primary{background:linear-gradient(158deg,#357a69,#2f6d5e);color:#fff;box-shadow:0 12px 26px -14px rgba(35,79,68,.7);}
+  .ls-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(35,79,68,.8);text-decoration:none;}
+  .ls-btn.ghost{border:1.5px solid var(--maroon);color:var(--maroon);background:transparent;}
+  .ls-btn.ghost:hover{background:var(--maroon);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .ls .ls-crumb,.ls-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .ls-hero{background:none;color:#000;padding:0;}
+    .ls-hero-in{padding:0 0 12px;}
+    .ls-eyebrow,.ls-hero .subt,.ls-hero .rd{color:#444;}
+    .ls-hero h1{color:#000;}
+    .ls-body{padding:0;}
+    .ls-body p,.ls-body h3,.ls-part h2,.ls-take li,.ls-disc li{color:#000;}
+    .ls-quote,.ls-take,.ls-opt,.ls-dbg-turn{background:#fff !important;border:1px solid #bbb;}
+    .ls-complete{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .ls-complete h3,.ls-complete p,.ls-complete .l{color:#000;}
+    .ls{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="ls">
+
+  <nav class="ls-crumb"><div class="ls-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/pramanavarttika/' | relative_url }}">Reading the Pramāṇavārttika</a> → Session 5</div></nav>
+
+  <!-- HERO -->
+  <section class="ls-hero">
+    <div class="ls-hero-in">
+      <div class="ls-eyebrow">Session 5 · Capstone — 為他比量品, the inference-for-others chapter</div>
+      <h1>Proving It to Someone Else</h1>
+      <div class="subt">Private conviction is not the same skill as a proof someone else can check</div>
+      <div class="rd"><b>Before class:</b> Session 4 (What Makes an Inference Actually Valid). Today is the fourth and final foundational chapter of this pilot.</div>
+    </div>
+  </section>
+
+  <div class="ls-body">
+    <div class="ls-wrap">
+
+      <!-- PART 1 -->
+      <div class="ls-part"><div class="pn">Part 1</div><h2>Lecture Notes</h2></div>
+
+      <h3>Two different skills, easy to confuse</h3>
+      <p>You can privately work through a piece of reasoning until you're completely convinced — that's <span style="font-style:italic;">svārthānumāna</span>, "inference for yourself," Session 4's whole subject. Then you try to explain it to a friend, out loud, and watch it land flat. Nothing about your private reasoning changed. What's missing is a second, separate skill: <strong>parārthānumāna</strong>, "inference for others" — putting a valid inference into words that actually work on someone whose mind doesn't already contain your reasoning.</p>
+      <p>This is the last of the four chapters this pilot set out to cover, and it closes a loop that's been running since the very first color-and-shape debate: everything so far has been about getting the logic right <em>inside your own head</em>. This chapter is about what changes when another person is the one who has to be convinced.</p>
+
+      <h3>What a proof statement actually is</h3>
+      <p>Here's the chapter's central, almost deflating point: a spoken proof statement is not itself a third kind of valid cognition, alongside perception and inference. It's just words. What it does is <strong>trigger</strong> a valid inferential cognition in the listener's own mind — and it only works if the listener can independently verify, or already grants, the pervasion involved. Say a perfect proof statement to someone who doesn't accept "wherever there's smoke, there's fire," and nothing happens. The words didn't do the logical work; they pointed at logical work the listener has to complete themselves.</p>
+      <div class="ls-quote">A proof statement doesn't hand someone a conclusion. It hands them exactly enough to do the inferring themselves.</div>
+
+      <h3>A leaner proof than you might expect</h3>
+      <p>Older Indian logic (the Nyāya school) used a five-part proof: thesis, reason, example, application, conclusion. Dignāga and Dharmakīrti trimmed this down hard. Their claim: if the reason is stated correctly, a competent listener already has everything they need — the example is a teaching aid, useful for a beginner, but not a separate logical requirement. In its leanest form, a proof statement needs only two working parts:</p>
+      <div class="ls-moves">
+        <div class="ls-move">
+          <div class="say">Thesis</div>
+          <div class="why">What you're claiming.<small>"Sound is impermanent"</small></div>
+        </div>
+        <div class="ls-move">
+          <div class="say">Reason</div>
+          <div class="why">Correctly stated, this already implies its own pervasion to anyone who checks it.<small>"…because it is a product"</small></div>
+        </div>
+      </div>
+
+      <h3>When a reason actively backfires</h3>
+      <p>Session 4 gave you two ways a reason can fail: it can be false (not established), or true-but-toothless (no pervasion). This chapter names a third, sharper failure: a reason that doesn't just fail to prove the thesis, but actually proves the opposite of it.</p>
+      <div class="ls-moves">
+        <div class="ls-move new">
+          <div class="say">That proves the opposite!</div>
+          <div class="why">A contradictory reason (viruddha / 相違) — it genuinely connects to something, just to the wrong conclusion.<small>New this session — a fifth move, added just for pseudo-reasons like this</small></div>
+        </div>
+      </div>
+      <p>Classic case: <em>"Sound is permanent, because it is a product."</em> "Product" is a real, working reason — you met it as far back as Session 4 of Collected Topics — but it's the textbook proof of <strong>impermanence</strong>, not permanence. The reason doesn't fail to connect; it connects to exactly the wrong side.</p>
+
+      <div class="ls-take">
+        <b class="h">The whole chapter in two lines</b>
+        <ul>
+          <li><b>Being privately convinced and being able to convince someone else are different skills</b> — the second one lives entirely in how precisely you state the reason.</li>
+          <li><b>A bad reason fails in one of three distinct ways</b> — false, toothless, or backwards — and now you can name and catch all three.</li>
+        </ul>
+      </div>
+
+      <!-- DEBATE CHECK -->
+      <div class="ls-dbg">
+        <div class="ls-dbg-lbl">Debate Check</div>
+        <div class="ls-dbg-turn c"><div class="who">Challenger</div><div class="ln">"So, sound is eternal, because it is a product."</div></div>
+        <div class="ls-dbg-turn d"><div class="who">Defender</div><div class="ln">"That proves the opposite!"</div><div class="note">"Product" is a genuine, valid reason — for impermanence. Stated in defense of "eternal," it doesn't just fail; it argues for the other side.</div></div>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="ls-part"><div class="pn">Part 2</div><h2>Discussion Questions</h2></div>
+      <ol class="ls-disc">
+        <li>Have you ever been privately certain of something and then genuinely failed to explain it to someone else? Looking back, was the problem your reasoning, or your proof statement?</li>
+        <li>Dharmakīrti treats the example as a teaching aid, not a logical requirement. Does that match your own experience of when examples actually help you understand an argument, versus when they're just decoration?</li>
+        <li>Try to recall a real argument you've heard (politics, a group chat, anywhere) that used a contradictory reason — one that actually supported the opposite conclusion from the one being argued.</li>
+        <li>If a proof statement only works on someone who already grants the pervasion, is logical "proof" ever really neutral — or does it always depend on what the listener walked in already accepting?</li>
+      </ol>
+
+      <!-- PART 3 -->
+      <div class="ls-part"><div class="pn">Part 3</div><h2>Assignment<span class="rf">Choose one · half to one page</span></h2></div>
+      <div class="ls-opt">
+        <b class="h">Option A — Diagnose a backwards argument</b>
+        <p>Find or construct a real example of a contradictory reason — an argument whose evidence actually supports the opposite conclusion from the one being claimed. Explain exactly where it goes backwards.</p>
+      </div>
+      <div class="ls-opt">
+        <b class="h">Option B — Write a two-part proof</b>
+        <p>State a thesis and reason of your own choosing, in the leanest two-part form this session taught. Then write out, honestly, what pervasion a listener would need to already accept for your proof statement to actually work on them.</p>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="ls-part"><div class="pn">Part 4</div><h2>Self-Check</h2></div>
+
+      <div class="ls-quiz">
+        <div class="q">1. <b>Classify: "This pot is impermanent, because it is a product."</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a1">Reveal answer</button>
+        <div class="ls-answer" id="a1"><div class="ls-answer-in">Valid — accept. A correct nature reason, correctly pointed at the right conclusion.</div></div>
+      </div>
+      <div class="ls-quiz">
+        <div class="q">2. <b>Classify: "Whales are fish, because whales have gills."</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a2">Reveal answer</button>
+        <div class="ls-answer" id="a2"><div class="ls-answer-in">Not established — the reason itself is false; whales don't have gills.</div></div>
+      </div>
+      <div class="ls-quiz">
+        <div class="q">3. <b>Classify: "It rained last night, because the grass is wet."</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a3">Reveal answer</button>
+        <div class="ls-answer" id="a3"><div class="ls-answer-in">No pervasion — wet grass is a real but inconclusive sign; a sprinkler produces the same evidence.</div></div>
+      </div>
+      <div class="ls-quiz">
+        <div class="q">4. <b>Classify: "Sound is eternal, because it is a product."</b></div>
+        <button type="button" class="ls-reveal-btn" data-answer="a4">Reveal answer</button>
+        <div class="ls-answer" id="a4"><div class="ls-answer-in">Contradictory — "product" is a genuine reason, but for impermanence. It proves the opposite of the stated thesis.</div></div>
+      </div>
+
+      <!-- CAPSTONE -->
+      <div class="ls-complete">
+        <div class="l">Pilot complete — four chapters, five sessions</div>
+        <h3>You've now read the foundational arc of the Pramāṇavārttika: why to trust the teacher, what perception delivers, what makes a private inference valid, and what it takes to prove that inference to someone else.</h3>
+        <p>This whole project started from a much simpler question: could Collected Topics — and everything after it — actually be adapted into English for people with no Buddhist background at all? Eleven sessions later, across two courses, the answer turned out to be yes, and they now form a single, continuous path: color and shape, to one and many, to definitions, to cause and effect, to negation, to kinds of knowing — then straight into why to trust the teacher, what perception is, what makes reasoning valid, and how to prove it to someone else.</p>
+        <p>The <em>Pramāṇavārttika</em> itself is far larger than five sessions — deeper treatments of perception, whole further arguments about rebirth and momentariness, and much more sit beyond this pilot's edge. But the foundation is genuinely built now, in English, for exactly the audience this was always meant for.</p>
+      </div>
+
+      <div class="ls-foot">
+        <a class="ls-btn ghost" href="{{ '/courses/pramanavarttika/' | relative_url }}">← Course overview</a>
+        <button type="button" class="ls-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  document.querySelectorAll('.ls-reveal-btn').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var target = document.getElementById(btn.dataset.answer);
+      var open = target.classList.toggle('open');
+      btn.textContent = open ? 'Hide answer' : 'Reveal answer';
+    });
+  });
+})();
+</script>
