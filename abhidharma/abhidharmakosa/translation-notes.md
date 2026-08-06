@@ -42,6 +42,7 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 六因 | the six causes | ṣaḍ-hetavaḥ — introduced in fascicle 6: 能作因 "efficient cause" (kāraṇa-hetu), 俱有因 "co-existent cause" (sahabhū-hetu), 同類因 "homogeneous cause" (sabhāga-hetu), 相應因 "associated cause" (saṃprayuktaka-hetu), 遍行因 "universal cause" (sarvatraga-hetu), 異熟因 "ripening cause" (vipāka-hetu). |
 | 士用果 | agent-efficacy result | puruṣakāra-phala — the kind of result two dharmas produce when they are mutually a co-existent cause (俱有因) of one another. |
 | 心隨轉法 | dharmas that follow mind's course | dharmas co-arising with mind in lockstep — mental factors, the two moral restraints, and mind's own characteristics; defined in fascicle 6 by matching time, result, and moral quality with mind. |
+| 四緣 | the four conditions | catuḥ-pratyaya — introduced in fascicle 7: 因緣 "causal condition" (hetu-pratyaya, = five of the six causes), 等無間緣 "immediately-antecedent condition" (samanantara-pratyaya, mind/mental-factors only), 所緣緣 "objective condition" (ālambana-pratyaya), 增上緣 "dominant condition" (adhipati-pratyaya, = the efficient cause). |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
