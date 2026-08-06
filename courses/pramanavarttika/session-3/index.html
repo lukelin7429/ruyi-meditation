@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Session 1 · Why Trust the Buddha at All? (Pramāṇavārttika)"
-permalink: /courses/pramanavarttika/session-1/
-excerpt: Session 1 of Reading the Pramāṇavārttika — Dharmakīrti's opening argument for why the Buddha counts as a valid authority, built on the doctor analogy and four qualifications, not on faith.
+title: "Session 3 · What Counts as Direct Perception (Pramāṇavārttika)"
+permalink: /courses/pramanavarttika/session-3/
+excerpt: Session 3 of Reading the Pramāṇavārttika — 現量品, the perception chapter. Why "red" is something you see and "apple" is something you think, and the traditional four kinds of direct perception.
 ---
 
 <style>
@@ -29,17 +29,22 @@ excerpt: Session 1 of Reading the Pramāṇavārttika — Dharmakīrti's opening
 
   .ls-body{background:#fff;padding:44px 0 24px;}
   .ls-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
-  .ls-body p.tight{margin-bottom:10px;}
 
   .ls-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
   .ls-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--saffron-deep);}
   .ls-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
   .ls-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
-
   .ls-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--maroon);margin:34px 0 10px;}
 
   .ls-quote{border-left:4px solid var(--gold);background:var(--cream);padding:18px 24px;border-radius:0 12px 12px 0;margin:24px 0;
     font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:var(--maroon-deep);}
+
+  .ls-moves{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:18px 0;}
+  .ls-move{display:grid;grid-template-columns:1.3fr 1.7fr;gap:0;border-bottom:1px solid var(--line);}
+  .ls-move:last-child{border-bottom:none;}
+  .ls-move .say{padding:16px 18px;background:var(--cream);font-family:'Playfair Display',serif;font-weight:700;font-size:16px;color:var(--maroon);display:flex;align-items:center;}
+  .ls-move .why{padding:16px 18px;font-size:15px;line-height:1.5;color:var(--ink);display:flex;align-items:center;}
+  .ls-move .why small{display:block;color:var(--ink-soft);font-style:italic;font-weight:400;margin-top:3px;}
 
   .ls-truths{list-style:none;counter-reset:t;padding:0;margin:22px 0;}
   .ls-truths li{counter-increment:t;position:relative;padding:16px 20px 16px 60px;background:var(--cream);border:1px solid var(--line);border-radius:12px;margin-bottom:10px;
@@ -55,7 +60,6 @@ excerpt: Session 1 of Reading the Pramāṇavārttika — Dharmakīrti's opening
   .ls-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
   .ls-take li b{color:var(--maroon-deep);}
 
-  /* debate check — a callback to Collected Topics */
   .ls-dbg{border:1px solid var(--line);border-radius:16px;padding:6px;margin:26px 0;background:var(--cream);}
   .ls-dbg-lbl{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--saffron-deep);padding:12px 16px 4px;}
   .ls-dbg-turn{background:#fff;border-radius:12px;padding:14px 18px;margin:6px;box-shadow:0 4px 14px -10px rgba(60,30,20,.25);}
@@ -82,7 +86,7 @@ excerpt: Session 1 of Reading the Pramāṇavārttika — Dharmakīrti's opening
   .ls-reveal-btn{border:1.5px solid var(--maroon);color:var(--maroon);background:transparent;font-family:inherit;font-weight:600;font-size:14px;border-radius:24px;padding:9px 18px;cursor:pointer;transition:background .2s,color .2s;}
   .ls-reveal-btn:hover{background:var(--maroon);color:#fff;}
   .ls-answer{max-height:0;overflow:hidden;transition:max-height .35s ease;}
-  .ls-answer.open{max-height:200px;}
+  .ls-answer.open{max-height:220px;}
   .ls-answer-in{padding-top:14px;font-size:15.5px;line-height:1.6;color:var(--jade-deep);border-top:1px dashed var(--line);margin-top:14px;}
   .ls-answer-in b{color:var(--maroon);}
 
@@ -116,110 +120,122 @@ excerpt: Session 1 of Reading the Pramāṇavārttika — Dharmakīrti's opening
 
 <div class="ls">
 
-  <nav class="ls-crumb"><div class="ls-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/pramanavarttika/' | relative_url }}">Reading the Pramāṇavārttika</a> → Session 1</div></nav>
+  <nav class="ls-crumb"><div class="ls-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/pramanavarttika/' | relative_url }}">Reading the Pramāṇavārttika</a> → Session 3</div></nav>
 
   <!-- HERO -->
   <section class="ls-hero">
     <div class="ls-hero-in">
-      <div class="ls-eyebrow">Session 1 · The opening argument of 成量品</div>
-      <h1>Why Trust the Buddha at All?</h1>
-      <div class="subt">Pramāṇasiddhi — the chapter that earns the right to everything after it</div>
-      <div class="rd"><b>Before class:</b> Collected Topics, especially Session 6 (Kinds of Knowing). No knowledge of the <em>Pramāṇavārttika</em> itself required — this is where it begins.</div>
+      <div class="ls-eyebrow">Session 3 · 現量品, the perception chapter</div>
+      <h1>What Counts as Direct Perception</h1>
+      <div class="subt">Why "red" is something you see, and "apple" is something you think</div>
+      <div class="rd"><b>Before class:</b> Collected Topics Session 6 (direct perception vs. inference, in outline). This session gives that distinction real depth.</div>
     </div>
   </section>
 
   <div class="ls-body">
     <div class="ls-wrap">
 
+      <div class="ls-prep"><b>A note on this session:</b> the perception chapter is one of the most technical and most debated parts of the entire text. What follows is the standard, simplified picture used to introduce it — not a full account of every scholarly controversy around it.</div>
+
       <!-- PART 1 -->
       <div class="ls-part"><div class="pn">Part 1</div><h2>Lecture Notes</h2></div>
 
-      <h3>The question skeptics ask first</h3>
-      <p>Before anyone accepts a single teaching about karma, rebirth, or the end of suffering, a fair-minded skeptic asks one question first: <em>why should I believe any of this came from someone reliable?</em> It's not a hostile question. It's the same question you'd ask about a stranger giving you medical advice, or a contractor telling you your house is structurally sound. Trust isn't owed to anyone by default — it has to be earned, and earned specifically.</p>
-      <p>Dignāga, the founder of the Buddhist logical tradition, opened his own treatise with a single line of praise calling the Buddha "one who has become <em>pramāṇa</em>" — a valid means of knowledge, an authority. Dharmakīrti's <em>Pramāṇavārttika</em> devotes its entire first chapter, traditionally called <strong>Pramāṇasiddhi</strong> ("Establishing [the Buddha as] a Valid Authority"), to defending that one line against exactly the skeptic's question. Nothing in the rest of the text is allowed to matter until this chapter does its work.</p>
+      <h3>A question that sounds too simple</h3>
+      <p>Look at a red apple. Ask yourself honestly: is "red" something you <em>see</em>, or something you <em>think</em>?</p>
+      <p>Most people answer instantly: obviously you see red. But sit with it a moment longer. The raw event of light hitting your eye and triggering a visual sensation is one thing. The moment where your mind reaches for the word "red" — and files this experience together with every other red thing you've ever seen, from fire trucks to roses — is a separate step, layered on so fast it feels instantaneous. Dharmakīrti's perception chapter exists because he thinks that gap is real, and that missing it causes real philosophical confusion.</p>
 
-      <h3>The doctor analogy</h3>
-      <p>Here's the move that makes the whole argument work. Think about why you trust your doctor about your illness. It isn't because your doctor knows everything — they may be hopeless at astronomy, cooking, or car repair, and that doesn't bother you at all. You trust them because they are <strong>reliable on the one thing you actually came for</strong>: your health.</p>
-      <div class="ls-quote">You don't need an authority to know everything. You need them to be reliable on the thing you actually need from them.</div>
-      <p>Dharmakīrti's claim about the Buddha is built on exactly this shape, not on a claim to omniscience. He is explicit that whether the Buddha knew the exact number of insects in the world, or every grain of sand in the Ganges, is <em>irrelevant</em> to the proof — and deliberately set aside. The only question that matters is whether the Buddha is reliable on the one subject his teaching claims expertise in: <strong>the nature of suffering, and the way out of it.</strong></p>
+      <h3>Two requirements for a "real" perception</h3>
+      <p>Not every mental event that feels like "seeing" counts as valid perception. Dharmakīrti sets two requirements:</p>
+      <div class="ls-moves">
+        <div class="ls-move">
+          <div class="say">Non-conceptual</div>
+          <div class="why">Not filtered through language or category-thought — raw contact, before any labeling.<small>The instant of seeing color, before "red" gets attached</small></div>
+        </div>
+        <div class="ls-move">
+          <div class="say">Non-erroneous</div>
+          <div class="why">Not a mistake — a mirage, a rope mistaken for a snake, or a reflection mistaken for the real thing.<small>Something that would survive closer inspection</small></div>
+        </div>
+      </div>
 
-      <h3>Four qualifications, not a leap of faith</h3>
-      <p>So what would it actually take for someone to earn that kind of narrow, specific reliability? Dharmakīrti's argument builds it from four pieces, each doing real work:</p>
+      <h3>The particular and the universal</h3>
+      <p>This is the heart of the chapter. Dharmakīrti argues that raw perception only ever grasps what's called the <strong>specifically-characterized particular</strong> (rang mtshan) — the completely unique, momentary, this-exact-instant reality in front of you, which technically never repeats and can't fully be captured in words. The concept "apple," on the other hand, is a <strong>generally-characterized universal</strong> (spyi mtshan) — a mental category built by comparing this experience to a stored memory of past experiences, useful for thinking and talking, but strictly a construction of mind rather than something literally sitting out there to be seen.</p>
+      <div class="ls-quote">The particular is what you actually meet. The universal is the label your mind reaches for afterward, to make sense of it.</div>
+      <p>Notice the stakes: this isn't a minor technicality. If concepts are constructions rather than things directly perceived, then an enormous amount of what feels like "just seeing the world" — categories, names, comparisons — turns out to already be inference-adjacent mental activity, not raw perception at all.</p>
+
+      <h3>Four kinds of direct perception</h3>
+      <p>The tradition recognizes four:</p>
       <ol class="ls-truths">
-        <li><b>Compassion</b> as the motivating cause — the reason to investigate suffering in the first place has to be a genuine wish to end it for others, not idle curiosity or self-interest. <i>(Motive matters: it determines what someone actually bothers to get right.)</i></li>
-        <li><b>Sustained practice over a very long time</b> — not a single flash of insight, but training deliberately cultivated until it becomes stable and reliable, the way a surgeon's steady hand comes from years, not talent alone. <i>(This is what makes the result trustworthy rather than lucky.)</i></li>
-        <li><b>Direct realization</b> of the Four Noble Truths — actually seeing the nature of suffering and its cessation firsthand, not reasoning about it secondhand. <i>(You want a doctor who has actually treated the illness, not just read about it.)</i></li>
-        <li><b>Reliable transmission</b> — able to accurately communicate what was realized, so that others can independently verify and walk the same path. <i>(An insight nobody can follow is not yet an authority for anyone but the person who had it.)</i></li>
+        <li><b>Sense perception</b> — the five senses making raw contact with their objects. <i>(Seeing color, hearing sound, before any labeling.)</i></li>
+        <li><b>Mental perception</b> — a non-conceptual mental awareness that follows immediately after sense perception. <i>(Subtler, and harder to isolate in ordinary experience.)</i></li>
+        <li><b>Self-cognizing awareness</b> (rang rig) — the mind's direct awareness of its own experience, without needing a second act of observation. <i>(You don't infer that you're currently seeing red — you're just aware of the seeing itself.)</i></li>
+        <li><b>Yogic perception</b> — direct, non-conceptual realization achieved through sustained meditative training, traditionally culminating in directly perceiving selflessness. <i>(Not sense-based at all — the fruit of the practice, not a starting assumption.)</i></li>
       </ol>
 
       <div class="ls-take">
         <b class="h">Three ideas to carry out of today</b>
         <ul>
-          <li><b>This is a narrow claim, on purpose.</b> Dharmakīrti isn't proving the Buddha knew everything — he's proving reliability on one specific, load-bearing subject, and explicitly sets the rest aside.</li>
-          <li><b>Trust is being built from evidence, not asserted by authority.</b> Motive, training, direct experience, and communicability are each independently checkable ideas — this is closer to a résumé than a creed.</li>
-          <li><b>The doctor analogy is doing the real philosophical work.</b> If you accept that narrow expertise can be trustworthy without omniscience in medicine, the same logic is what's being extended here.</li>
+          <li><b>Ordinary "seeing" is usually a blend.</b> A split-second of raw contact, immediately dressed in concepts — and the two are easy to mistake for one continuous act.</li>
+          <li><b>The particular/universal split has real consequences.</b> If you've ever meditated and noticed a raw sensation arise a beat before you named it, you've brushed up against exactly this distinction firsthand.</li>
+          <li><b>Not all four kinds of perception are equally easy to verify for yourself.</b> Sense perception is obvious; self-cognizing awareness and yogic perception ask you to take the framework further on trust — worth noticing which is which.</li>
         </ul>
       </div>
 
       <!-- DEBATE CHECK -->
       <div class="ls-dbg">
-        <div class="ls-dbg-lbl">Debate Check — a Collected Topics callback</div>
-        <div class="ls-dbg-turn c"><div class="who">Challenger</div><div class="ln">"So, the Buddha is a reliable authority on everything, because he's a reliable authority on liberation."</div></div>
-        <div class="ls-dbg-turn d"><div class="who">Defender</div><div class="ln">"That doesn't prove it! There is no pervasion."</div><div class="note">Reliability on liberation doesn't force reliability on astronomy or arithmetic — and Dharmakīrti never claimed it did. This is exactly the same move you used to catch "has a color, therefore green" back in Session 1.</div></div>
+        <div class="ls-dbg-lbl">Debate Check</div>
+        <div class="ls-dbg-turn c"><div class="who">Challenger</div><div class="ln">"So, you directly perceive that this is an apple, because you're looking right at it."</div></div>
+        <div class="ls-dbg-turn d"><div class="who">Defender</div><div class="ln">"That doesn't prove it! There is no pervasion."</div><div class="note">Looking at it is genuine sense perception of color and shape — real contact with a particular. "Apple" is a universal, added by concept, riding along so fast it feels like part of the seeing itself.</div></div>
       </div>
 
-      <!-- PART 3 -->
+      <!-- PART 2 -->
       <div class="ls-part"><div class="pn">Part 2</div><h2>Discussion Questions</h2></div>
-      <p>No wrong answers here — bring your honest reaction.</p>
       <ol class="ls-disc">
-        <li>Does narrowing the claim to "reliable specifically about liberation" feel like a fair, honest move to you — or like moving the goalposts to make the claim easier to defend?</li>
-        <li>Think of someone you already trust as an authority in a narrow domain (a doctor, a mechanic, a teacher). Which of the four qualifications above do they actually satisfy, and which don't obviously apply to them?</li>
-        <li>Is compassion really <em>necessary</em> for reliability? Could someone with entirely selfish motives still stumble onto a true path and report it accurately?</li>
-        <li>Dharmakīrti explicitly sets aside whether the Buddha knew trivial facts like the number of grains of sand. Does that concession strengthen the argument, or does it feel like it's dodging a legitimate question about omniscience?</li>
-        <li>How is this argument different from simply saying "trust the Buddha because he's the Buddha"? Is the difference real, or just more elaborate packaging around the same faith claim?</li>
+        <li>Does the particular/universal split feel like a real discovery to you, or like philosophers overcomplicating something obvious? Defend your answer.</li>
+        <li>Self-cognizing awareness claims you're directly aware of your own experience without a second observing act. Does that match how your own mind feels from the inside?</li>
+        <li>Is it fair to call yogic perception "perception" at all, given it isn't sense-based? What would change if we called it something else instead?</li>
+        <li>Which of the four kinds of perception would you find hardest to defend to a skeptical friend, and why?</li>
       </ol>
 
-      <!-- PART 4 -->
+      <!-- PART 3 -->
       <div class="ls-part"><div class="pn">Part 3</div><h2>Assignment<span class="rf">Choose one · half to one page · bring it next session</span></h2></div>
       <div class="ls-opt">
-        <b class="h">Option A — Build your own résumé</b>
-        <p>Pick someone you consider a genuine authority in some narrow field — not a celebrity, an actual working authority (a specific doctor, teacher, craftsperson). Walk through Dharmakīrti's four qualifications (motive, sustained training, direct experience, reliable communication) and check which ones they actually satisfy. Where the fit is awkward, say so honestly.</p>
+        <b class="h">Option A — Sit with the gap</b>
+        <p>Spend five quiet minutes with a single ordinary object — a cup, a plant, your own hand. Try to notice the instant of raw sensory contact before your mind reaches for a name or category. Write about what you actually noticed, honestly — including if you couldn't catch the gap at all.</p>
       </div>
       <div class="ls-opt">
-        <b class="h">Option B — Steelman the skeptic</b>
-        <p>Write the strongest version you can of the objection: "this argument is just faith wearing a philosopher's coat." Then write Dharmakīrti's best reply to your own objection, using only what this session actually covered — no outside material.</p>
+        <b class="h">Option B — Defend one of the four</b>
+        <p>Pick one of the four kinds of direct perception and explain, with your own original example, what makes it distinct from the other three — and where a skeptic would push back hardest.</p>
       </div>
 
-      <!-- PART 5 -->
+      <!-- PART 4 -->
       <div class="ls-part"><div class="pn">Part 4</div><h2>Self-Check</h2></div>
 
       <div class="ls-quiz">
-        <div class="q">1. <b>What is the doctor analogy actually meant to establish?</b></div>
+        <div class="q">1. <b>What are the two requirements for a cognition to count as valid direct perception?</b></div>
         <button type="button" class="ls-reveal-btn" data-answer="a1">Reveal answer</button>
-        <div class="ls-answer" id="a1"><div class="ls-answer-in">That narrow, subject-specific reliability (like a doctor's on health) can be genuine authority — without requiring omniscience about everything else.</div></div>
+        <div class="ls-answer" id="a1"><div class="ls-answer-in">Non-conceptual (not filtered through language or category-thought) and non-erroneous (not a mistake like a mirage).</div></div>
       </div>
       <div class="ls-quiz">
-        <div class="q">2. <b>Name the four qualifications Dharmakīrti attributes to the Buddha.</b></div>
+        <div class="q">2. <b>What's the difference between a "particular" and a "universal" in this chapter's sense?</b></div>
         <button type="button" class="ls-reveal-btn" data-answer="a2">Reveal answer</button>
-        <div class="ls-answer" id="a2"><div class="ls-answer-in">Compassion as motive, sustained practice over time, direct realization of the Four Noble Truths, and reliable transmission of that realization to others.</div></div>
+        <div class="ls-answer" id="a2"><div class="ls-answer-in">A particular is the unique, momentary reality directly perceived; a universal is a mental category built by comparing that experience to memory — useful, but a construction, not itself directly perceived.</div></div>
       </div>
       <div class="ls-quiz">
-        <div class="q">3. <b>Why does Dharmakīrti explicitly set aside the question of whether the Buddha knew trivial facts (like the number of grains of sand)?</b></div>
+        <div class="q">3. <b>Name the four kinds of direct perception.</b></div>
         <button type="button" class="ls-reveal-btn" data-answer="a3">Reveal answer</button>
-        <div class="ls-answer" id="a3"><div class="ls-answer-in">Because the proof only needs reliability on the one subject that matters — liberation from suffering — and omniscience about unrelated trivia is irrelevant to that claim, one way or the other.</div></div>
+        <div class="ls-answer" id="a3"><div class="ls-answer-in">Sense perception, mental perception, self-cognizing awareness, and yogic perception.</div></div>
       </div>
 
       <!-- NEXT -->
       <div class="ls-next">
         <div class="l">Looking ahead</div>
-        <h3>Session 2 — The Limits of the Claim</h3>
-        <p>If Session 1 built the case for trusting the Buddha on liberation specifically, Session 2 asks the harder follow-up: what does this argument <em>not</em> prove, and where do even sympathetic readers think Dharmakīrti's case is at its weakest? A good argument survives being pressure-tested — this session pressure-tests it.</p>
+        <h3>More sessions in progress</h3>
+        <p>The next stretch of the text turns from perception to inference-for-oneself (自義比量品) — the chapter that finally gives full philosophical weight to the reasoning you first practiced, informally, all the way back in Collected Topics. It's being piloted before it's published here.</p>
       </div>
 
       <div class="ls-foot">
         <a class="ls-btn ghost" href="{{ '/courses/pramanavarttika/' | relative_url }}">← Course overview</a>
         <button type="button" class="ls-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
-        <a class="ls-btn ghost" href="{{ '/courses/pramanavarttika/session-2/' | relative_url }}">Session 2 →</a>
       </div>
 
     </div>
