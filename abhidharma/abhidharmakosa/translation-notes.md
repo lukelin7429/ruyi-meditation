@@ -43,6 +43,9 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 士用果 | agent-efficacy result | puruṣakāra-phala — the kind of result two dharmas produce when they are mutually a co-existent cause (俱有因) of one another. |
 | 心隨轉法 | dharmas that follow mind's course | dharmas co-arising with mind in lockstep — mental factors, the two moral restraints, and mind's own characteristics; defined in fascicle 6 by matching time, result, and moral quality with mind. |
 | 四緣 | the four conditions | catuḥ-pratyaya — introduced in fascicle 7: 因緣 "causal condition" (hetu-pratyaya, = five of the six causes), 等無間緣 "immediately-antecedent condition" (samanantara-pratyaya, mind/mental-factors only), 所緣緣 "objective condition" (ālambana-pratyaya), 增上緣 "dominant condition" (adhipati-pratyaya, = the efficient cause). |
+| 生因/依因/立因/持因/養因 | generative / support / establishing / sustaining / nurturing cause | introduced in fascicle 7 — five named subdivisions of the efficient cause (能作因), specifically describing how the four great elements (大種) cause derived form (所造色) to arise, be supported, be established, continue uninterrupted, and grow. |
+| 十二心 | the twelve minds | introduced in fascicle 7: the desire, form, and formless realms' wholesome/unwholesome/covered-neutral/uncovered-neutral minds (form and formless lack "unwholesome"), plus the two uncontaminated minds, 學 "trainee's" and 無學 "non-trainee's". Used as the basis for an extended combinatorial analysis of the immediately-antecedent condition (等無間緣). |
+| 化心 | transformation-mind | nirmāṇa-citta — a sub-variety of uncovered-neutral mind (無覆無記) exercised specifically in producing supernormally-created forms; introduced in fascicle 7, formally named as part of the twenty-mind subdivision. |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
