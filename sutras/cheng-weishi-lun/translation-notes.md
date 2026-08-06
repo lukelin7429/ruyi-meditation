@@ -31,9 +31,12 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 了別境識 | the consciousnesses that discriminate objects | the six sense-consciousnesses (five senses + mental consciousness) collectively, in their role of cognizing objects |
 | 相分 | the perceived aspect | nimitta-bhāga; the "object" side of a single act of cognition |
 | 見分 | the perceiving aspect | darśana-bhāga; the "subject" side of a single act of cognition |
-| 自證分 | the self-witnessing aspect | svasaṃvitti-bhāga; the deeper aspect of consciousness that grounds both 相分 and 見分. (Dharmapāla later adds a fourth aspect, 證自證分 — do not introduce it before the text does) |
+| 自證分 | the self-witnessing aspect | svasaṃvitti-bhāga; the deeper aspect of consciousness that grounds both 相分 and 見分 |
+| 證自證分 | the self-witnessing of the self-witnessing | Dharmapāla's fourth aspect of cognition, introduced in fascicle 2's "Four Parts of Cognition" section, grounding 自證分 in turn |
 | 熏習 | perfuming / habituation | vāsanā; the way repeated discrimination leaves habitual traces that shape future experience |
 | 增執 / 減執 | the attachment of overstating / the attachment of understating | the two extremes the treatise steers between: treating appearances as fully real (overstating) vs. denying they exist at all (understating) |
+| 六位心所 | the six categories of mental factors | 遍行 (universal), 別境 (particular), 善 (wholesome), 煩惱 (root affliction), 隨煩惱 (secondary affliction), 不定 (indeterminate) — the fifty-one mental factors' complete taxonomy, built up across fascicles 3–7 and finished with the four indeterminates in fascicle 7 |
+| 慚 / 愧 | sense of shame / sense of embarrassment | the first two of the eleven wholesome factors, grounded respectively in self-respect (依自、法) and worldly opinion (依世間). Their negations 無慚 / 無愧 are "lack of shame" / "lack of embarrassment" — never "conscience" |
 | 世俗有 | conventionally existent | saṃvṛtisat |
 | 勝義有 | ultimately existent | paramārthasat |
 | 悔 | regret | one of the four indeterminates (不定); also glossed as "ill-doing" (惡作) in the treatise's own definition |
@@ -43,7 +46,7 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 阿陀那識 | the ādāna-consciousness | an alternate name for the ālayavijñāna, used when emphasizing its role as the root that all other consciousnesses depend on |
 | 三能變 conclusion | — | fascicle 7 closes the three-transformations discussion (begun fascicle 2) by establishing that the eight consciousnesses are "neither strictly one nor different" (非一非異) |
 | 因緣 | the causal condition | one of the four conditions (四緣); a conditioned dharma directly producing its own result, via seeds or manifest activity |
-| 等無間緣 | the condition of immediately preceding sameness | one of the four conditions; each mind-moment opening the way for its own immediately following kind |
+| 等無間緣 | the equal-immediate-antecedent condition | one of the four conditions; each mind-moment opening the way for its own immediately following kind. (Sometimes glossed descriptively as "the condition of immediately preceding sameness" in early reading-note prose, but "equal-immediate-antecedent condition" is the established rendering used in translated text from fascicle 3 onward — use that form for new work) |
 | 所緣緣 | the condition of the objective support | one of the four conditions; subdivided into 親所緣緣 (the direct condition of objective support) and 疎所緣緣 (the indirect condition of objective support) |
 | 增上緣 | the dominant condition | one of the four conditions; any dharma with the power to favor or oppose another, not already covered by the first three |
 | 二十二根 | the twenty-two faculties | the five physical senses, two sex faculties, life faculty, mental faculty, five feelings, five wholesome roots beginning with faith, and three faculties tracking a practitioner's progress toward full awakening |
@@ -54,7 +57,7 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 分段生死 | fragmentary birth-and-death | the ordinary cycle of rebirth, with body and life-span of fixed limit, driven by contaminated karma and the afflictive obstruction |
 | 變易生死 | transformative birth-and-death | the "inconceivable" mode of continued existence available to advanced practitioners (arhats, solitary buddhas, bodhisattvas of mastery), sustained by vow and uncontaminated concentration rather than ordinary karma; also called 意成身 "the mind-made body" |
 | 三性 | the Three Natures | trisvabhāva; the treatise's foundational framework — see the three rows below. Related: 三無性, the three corresponding forms of naturelessness (not yet reached in translation as of fascicle 8) |
-| 遍計所執性 | the imagined nature | parikalpita; the falsely grasped-at nature of a fixed, independent self or dharma — has no essence of its own whatsoever |
+| 遍計所執性 | the discriminated, attached-to nature (also "the imagined nature" as a shorthand in headers and reading notes) | parikalpita; the falsely grasped-at nature of a fixed, independent self or dharma — has no essence of its own whatsoever. Use "the discriminated, attached-to nature" for translated prose (the established rendering from fascicle 8 onward); "the imagined nature" is fine for section headers and note-box prose, but the two should not be mixed within the same passage |
 | 依他起性 | the dependent nature | paratantra; the genuinely-arising flow of mind, mental factors, and their perceived/perceiving aspects, produced by conditions — real, but not as the imagined nature misconstrues it |
 | 圓成實性 | the perfectly accomplished nature | pariniṣpanna; suchness itself, i.e. the dependent nature's permanent freedom from the imagined nature — neither identical with nor separate from the dependent nature |
 | 三無性 | the three naturelessnesses | 相無性 (naturelessness of characteristic, for the imagined nature), 生無性 (naturelessness of arising, for the dependent nature), 勝義無性 (naturelessness in the ultimate sense, for the perfectly accomplished nature) — the scriptures' "no nature" teaching, glossed by this treatise as hidden intent, not literal denial |
