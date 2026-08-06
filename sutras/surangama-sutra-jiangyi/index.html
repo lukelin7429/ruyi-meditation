@@ -94,7 +94,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
         </ul>
         <div class="sjy-stats">
           <div class="sjy-stat"><b>24</b> fascicles in Yuanying's commentary</div>
-          <div class="sjy-stat"><b>2</b> fascicles complete so far</div>
+          <div class="sjy-stat"><b>3</b> fascicles complete so far</div>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
     <div class="sjy-wrap">
       <div class="sjy-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–2 — the tenfold preliminary analysis through the seven-location search for the mind — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
+        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–3 — the tenfold preliminary analysis through the first four of the ten displays of seeing — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
       </div>
 
       <div class="sjy-featured">
@@ -119,9 +119,9 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
           <p>The seven-location search for the mind, and the Buddha's sharper refutation that the very searching mind itself is not the true mind — the two roots of true mind and false mind.</p>
         </div>
         <div class="feature" data-rv style="transition-delay:.12s">
-          <span class="tag">Translation notes</span>
-          <h3>How we translate this text</h3>
-          <p>Source, copyright status, Yuanying's outline, and shared terminology — kept consistent across all 24 fascicles.</p>
+          <span class="tag">Complete</span>
+          <h3>Fascicle 3: Ten Displays of Seeing, Part One</h3>
+          <p>Ānanda's grief and request, and the first four of the ten displays of seeing: seeing is mind, unmoving, unceasing, and never truly lost even amid delusion.</p>
         </div>
       </div>
 
@@ -138,6 +138,12 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">The seven-location search for the mind, and "a thief mistaken for a son" — complete.</span>
+        </a>
+        {% elsif i == 3 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra-jiangyi/fascicle-003/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The first four of the ten displays of seeing: seeing is mind, unmoving, unceasing, never lost — complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://book.bfnn.org/books2/{{ 1471 | plus: i }}.htm" target="_blank" rel="noopener" data-rv>
