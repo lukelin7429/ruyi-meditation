@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Session 1 · Color and Shape (Collected Topics)"
-permalink: /courses/collected-topics/session-1/
-excerpt: Session 1 of Collected Topics — the four fixed moves of Tibetan Buddhist debate, taught through the safest possible subject, colors and shapes, with a toggle between plain-English and formal terminology.
+title: "Session 2 · One and Many (Collected Topics)"
+permalink: /courses/collected-topics/session-2/
+excerpt: Session 2 of Collected Topics — what it actually means for two things to be "the same," using the same four debate moves from Session 1, with the classic Morning Star / Evening Star puzzle.
 ---
 
 <style>
@@ -46,22 +46,21 @@ excerpt: Session 1 of Collected Topics — the four fixed moves of Tibetan Buddh
   .cts-toggle button.on{background:var(--maroon);color:#fff;}
   .cts-tip{font-size:13.5px;color:var(--ink-soft);margin:-20px 0 30px;}
 
-  /* fmt/plain visibility — default plain */
   .cts[data-track="plain"] .fmt-only{display:none;}
   .cts[data-track="formal"] .plain-only{display:none;}
 
-  /* moves table */
+  /* recap */
+  .cts-recap{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0;}
+  .cts-recap span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:14px;color:var(--ink);}
+  .cts-recap span b{color:var(--maroon);}
+
+  /* moves / idea table */
   .cts-moves{border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:18px 0;}
   .cts-move{display:grid;grid-template-columns:1.3fr 1.7fr;gap:0;border-bottom:1px solid var(--line);}
   .cts-move:last-child{border-bottom:none;}
   .cts-move .say{padding:16px 18px;background:var(--cream);font-family:'Playfair Display',serif;font-weight:700;font-size:16px;color:var(--maroon);display:flex;align-items:center;}
   .cts-move .why{padding:16px 18px;font-size:15px;line-height:1.5;color:var(--ink);display:flex;align-items:center;}
   .cts-move .why small{display:block;color:var(--ink-soft);font-style:italic;font-weight:400;margin-top:3px;}
-
-  /* content chips (colors/shapes) */
-  .cts-chips{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 8px;}
-  .cts-chip{display:inline-flex;align-items:center;gap:8px;background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:14.5px;color:var(--ink);}
-  .cts-dot{width:14px;height:14px;border-radius:50%;display:inline-block;border:1px solid rgba(0,0,0,.15);}
 
   /* debate turns */
   .cts-debate{border:1px solid var(--line);border-radius:16px;padding:6px;margin:22px 0;background:var(--cream);}
@@ -91,6 +90,11 @@ excerpt: Session 1 of Collected Topics — the four fixed moves of Tibetan Buddh
   .cts-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
   .cts-take li b{color:var(--maroon-deep);}
 
+  .cts-peek{border:1px dashed var(--line);border-radius:14px;padding:18px 22px;margin:22px 0;background:#fcfaf5;}
+  .cts-peek .tag{display:inline-block;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--saffron-deep);
+    background:#fbeed6;border:1px solid #f0dcae;border-radius:20px;padding:3px 11px;margin-bottom:10px;}
+  .cts-peek p{font-size:15px;color:var(--ink-soft);margin:0;}
+
   .cts-next{background:var(--maroon);color:#f4e7d6;border-radius:16px;padding:28px 32px;margin:40px 0 20px;}
   .cts-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
   .cts-next h3{font-family:'Playfair Display',serif;color:#fff;font-size:22px;margin:8px 0 8px;}
@@ -118,15 +122,15 @@ excerpt: Session 1 of Collected Topics — the four fixed moves of Tibetan Buddh
 
 <div class="cts" data-track="plain">
 
-  <nav class="cts-crumb"><div class="cts-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/collected-topics/' | relative_url }}">Collected Topics</a> → Session 1</div></nav>
+  <nav class="cts-crumb"><div class="cts-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/collected-topics/' | relative_url }}">Collected Topics</a> → Session 2</div></nav>
 
   <!-- HERO -->
   <section class="cts-hero">
     <div class="cts-hero-in">
-      <div class="cts-eyebrow">Session 1 · The four moves of debate</div>
-      <h1>Color and Shape</h1>
-      <div class="subt">色法 — the safest possible subject, chosen on purpose</div>
-      <div class="rd"><b>Before class:</b> nothing required. No reading, no background — just show up curious.</div>
+      <div class="cts-eyebrow">Session 2 · The same four moves, a harder question</div>
+      <h1>One and Many</h1>
+      <div class="subt">一與異 — what does it actually mean for two things to be "the same"?</div>
+      <div class="rd"><b>Before class:</b> Session 1 (Color and Shape) — you'll need the four moves cold.</div>
     </div>
   </section>
 
@@ -137,79 +141,56 @@ excerpt: Session 1 of Collected Topics — the four fixed moves of Tibetan Buddh
         <button type="button" class="on" data-set="plain" role="tab" aria-selected="true">Plain English</button>
         <button type="button" data-set="formal" role="tab" aria-selected="false">Formal Terms</button>
       </div>
-      <p class="cts-tip">Switch any time — every debate line on this page has both versions. Formal terms are what you'd meet in an actual monastery; plain English is how we'll practice today.</p>
+      <p class="cts-tip">Same toggle as Session 1 — every debate line below has both versions.</p>
 
       <!-- PART 1 -->
-      <div class="cts-part"><div class="pn">Part 1</div><h2>The Idea</h2></div>
+      <div class="cts-part"><div class="pn">Part 1</div><h2>The Puzzle</h2></div>
 
-      <p>Imagine a detective who refuses to accept any claim unless it survives three tests: <em>Is the evidence real? Does the evidence actually prove the conclusion? And if I accept this, what else am I now forced to accept?</em> Tibetan monks have trained their minds with exactly this method for six hundred years — in front of other monks, out loud, in public, where every sloppy step gets caught immediately.</p>
+      <p>Here's an old riddle, first written down by a German philosopher in 1892, though sky-watchers had quietly lived with it for millennia: ancient astronomers gave a name to the bright point that rises just before dawn — <strong>the Morning Star</strong> — and a different name to the bright point that appears just after sunset — <strong>the Evening Star</strong>. Two names. Two appearances, months apart, in opposite parts of the sky.</p>
 
-      <p>Their first lesson is deliberately boring: colors and shapes. Not because colors and shapes matter philosophically — they don't — but because they're the one subject nobody can get emotional about. You can't be attached to whether a shell is white. That makes it the perfect place to learn the <em>grammar</em> of debate before the debate is ever about something that matters to you.</p>
+      <p>Then it turned out: they're the same object. Both are the planet Venus. So here's the question this session is really about — <strong>were the Morning Star and the Evening Star ever "different things"?</strong> Or were they one thing the whole time, and only the names were different?</p>
 
-      <div class="cts-take">
-        <b class="h">Why start here, of all places</b>
-        <ul>
-          <li><b>Low stakes, high precision.</b> Nobody argues about the color of a conch shell — so all the energy goes into getting the logic exactly right.</li>
-          <li><b>The format outlasts the content.</b> Once these four moves are automatic, monks spend the next twenty years pointing them at harder and harder questions — the mind, karma, and eventually the mistakes reasoning itself can make.</li>
-          <li><b>It's a skill, not a belief.</b> You don't need to accept anything Buddhist to learn this. You're borrowing a training method, not a doctrine.</li>
-        </ul>
-      </div>
+      <div class="cts-quote">"Same in entity, different in name." — a phrase you're about to use constantly.</div>
+
+      <p>This isn't just an old astronomy trivia question. It's the same move you'll eventually need for much bigger claims — like whether "the mind" and "consciousness" are one thing described two ways, or genuinely different things. Today we build the tool on something safe first.</p>
 
       <!-- PART 2 -->
-      <div class="cts-part"><div class="pn">Part 2</div><h2>Learn the Moves<span class="rf">Four fixed replies — this is the whole grammar</span></h2></div>
+      <div class="cts-part"><div class="pn">Part 2</div><h2>The New Idea<span class="rf">One vs. Different — plus a quick recap of the moves</span></h2></div>
 
-      <p>In a debate, one person (the <strong>Challenger</strong>) pushes a claim. The other (the <strong>Defender</strong>) must respond with exactly one of these four moves — no vague hedging allowed.</p>
+      <p>Quick recap — you still have exactly four replies, unchanged from Session 1:</p>
+      <div class="cts-recap">
+        <span><b class="plain-only">"So…"</b><b class="fmt-only">"It follows that…"</b></span>
+        <span><b class="plain-only">"That's not true."</b><b class="fmt-only">"The reason is not established."</b></span>
+        <span><b class="plain-only">"That doesn't prove it."</b><b class="fmt-only">"There is no pervasion."</b></span>
+        <span><b class="plain-only">"Yes, I agree."</b><b class="fmt-only">"I accept it."</b></span>
+      </div>
+
+      <p>What's new today is the <em>subject</em> those moves get pointed at. Two definitions to hold onto:</p>
 
       <div class="cts-moves">
         <div class="cts-move">
-          <div class="say"><span class="plain-only">"So&hellip;"</span><span class="fmt-only">"It follows that&hellip;"</span></div>
-          <div class="why">The Challenger opens a claim.<small class="fmt-only">Formal name: Consequence (thal 'gyur / 應成)</small></div>
+          <div class="say"><span class="plain-only">One (the same)</span><span class="fmt-only">一 (gcig)</span></div>
+          <div class="why">Two names or descriptions pointing at exactly the same thing.<small>Morning Star / Evening Star → both are Venus</small></div>
         </div>
         <div class="cts-move">
-          <div class="say"><span class="plain-only">"That's not true."</span><span class="fmt-only">"The reason is not established."</span></div>
-          <div class="why">The reason itself is false.<small class="fmt-only">Formal name: 因不成</small></div>
-        </div>
-        <div class="cts-move">
-          <div class="say"><span class="plain-only">"That doesn't prove it."</span><span class="fmt-only">"There is no pervasion."</span></div>
-          <div class="why">The reason is true, but doesn't force the conclusion.<small class="fmt-only">Formal name: 不周遍</small></div>
-        </div>
-        <div class="cts-move">
-          <div class="say"><span class="plain-only">"Yes, I agree."</span><span class="fmt-only">"I accept it."</span></div>
-          <div class="why">The reasoning holds. Accept it.<small class="fmt-only">Formal name: 承許</small></div>
+          <div class="say"><span class="plain-only">Different</span><span class="fmt-only">異 (tha dad)</span></div>
+          <div class="why">Two genuinely separate things — not just two names for one thing.<small>The Morning Star / the Moon → two different objects</small></div>
         </div>
       </div>
 
-      <p style="font-size:15px;color:var(--ink-soft);"><em>Most of the skill in this course lives in telling move 2 and move 3 apart — a false reason vs. a true reason that proves nothing. Watch for it in the example below.</em></p>
+      <p style="font-size:15px;color:var(--ink-soft);"><em>The test monks actually use: if X and Y are truly one, then whatever is true of X must be true of Y — no exceptions. If you can find even one thing true of X but not Y, they're different.</em></p>
 
       <!-- PART 3 -->
-      <div class="cts-part"><div class="pn">Part 3</div><h2>The Content<span class="rf">What we'll actually argue about today</span></h2></div>
-
-      <p><strong>Basic colors</strong> — these just are what they are:</p>
-      <div class="cts-chips">
-        <span class="cts-chip"><span class="cts-dot" style="background:#fff;"></span>white</span>
-        <span class="cts-chip"><span class="cts-dot" style="background:#c0392b;"></span>red</span>
-        <span class="cts-chip"><span class="cts-dot" style="background:#e8c34a;"></span>yellow</span>
-        <span class="cts-chip"><span class="cts-dot" style="background:#2f6d5e;"></span>blue</span>
-        <span class="cts-chip"><span class="cts-dot" style="background:#222;"></span>black</span>
-      </div>
-      <p><strong>Combined colors</strong> — made from two basic colors together:</p>
-      <div class="cts-chips">
-        <span class="cts-chip"><span class="cts-dot" style="background:#3f8f52;"></span>green = blue + yellow</span>
-        <span class="cts-chip"><span class="cts-dot" style="background:#7a4fa0;"></span>purple = red + blue</span>
-        <span class="cts-chip"><span class="cts-dot" style="background:#d9822b;"></span>orange = red + yellow</span>
-      </div>
-
-      <!-- PART 4 -->
-      <div class="cts-part"><div class="pn">Part 4</div><h2>Worked Example<span class="rf">Watch the trap, then watch it get caught</span></h2></div>
+      <div class="cts-part"><div class="pn">Part 3</div><h2>Worked Example<span class="rf">Same trap-and-catch pattern as Session 1</span></h2></div>
 
       <div class="cts-debate">
         <div class="cts-turn challenger">
           <div class="who">Challenger</div>
           <div class="ln">
-            <span class="plain-only">"Look at this shell. So, it has a color, because it is white."</span>
-            <span class="fmt-only">"It follows that the subject, this conch shell, is a colored thing, because it is white."</span>
+            <span class="plain-only">"So, the object you saw at dawn is the same as the object I saw at dusk, because both are Venus."</span>
+            <span class="fmt-only">"It follows that the subject, the Morning Star, is one entity with the Evening Star, because both are the planet Venus."</span>
           </div>
-          <div class="note">Opens with a claim that looks completely safe.</div>
+          <div class="note">A real, verifiable fact about the physical object — not about its name.</div>
         </div>
         <div class="cts-turn defender">
           <div class="who">Defender</div>
@@ -217,15 +198,15 @@ excerpt: Session 1 of Collected Topics — the four fixed moves of Tibetan Buddh
             <span class="plain-only">"Yes, I agree."</span>
             <span class="fmt-only">"I accept it."</span>
           </div>
-          <div class="note">Correct — white is obviously a color. No trap here yet.</div>
+          <div class="note">Correct — one physical object, two appearances, two names.</div>
         </div>
         <div class="cts-turn challenger">
           <div class="who">Challenger</div>
           <div class="ln">
-            <span class="plain-only">"So, it is green, because it has a color."</span>
-            <span class="fmt-only">"It follows that the subject is green, because it is a colored thing."</span>
+            <span class="plain-only">"So, the Morning Star and the Evening Star are different things, because they have different names."</span>
+            <span class="fmt-only">"It follows that the Morning Star and the Evening Star are different entities, because they have different names."</span>
           </div>
-          <div class="note">The trap: "has a color" is true — but true of a thousand things that aren't green.</div>
+          <div class="note">The trap: this session's version of Session 1's "true but toothless" reason.</div>
         </div>
         <div class="cts-turn defender">
           <div class="who">Defender</div>
@@ -233,40 +214,52 @@ excerpt: Session 1 of Collected Topics — the four fixed moves of Tibetan Buddh
             <span class="plain-only">"That doesn't prove it!"</span>
             <span class="fmt-only">"There is no pervasion."</span>
           </div>
-          <div class="note">Correct catch. "Having a color" doesn't force "being green" — the reason is true but toothless.</div>
+          <div class="note">Having different names is true — but "different name" doesn't force "different thing." Same object, described two ways.</div>
         </div>
       </div>
 
-      <!-- PART 5 -->
-      <div class="cts-part"><div class="pn">Part 5</div><h2>Practice<span class="rf">You call the reply — press to check yourself</span></h2></div>
+      <div class="cts-take">
+        <b class="h">The one habit this session is really training</b>
+        <ul>
+          <li><b>Don't confuse the label with the thing.</b> Different words can point at one entity; the same word can sometimes hide two entities. Check the thing, not the name.</li>
+          <li><b>"Different name" is never, by itself, proof of "different thing."</b> It's exactly the same shape of mistake as "has a color" not proving "is green" from Session 1.</li>
+        </ul>
+      </div>
+
+      <div class="cts-peek">
+        <span class="tag">A preview, not a lesson yet</span>
+        <p>There's a much stranger version of "one" waiting a few sessions ahead — two things can be <em>one entity</em> and still count as <em>conceptually different</em> in a precise technical sense monks give its own name. You don't need it yet. File it away: "same thing, but not the same idea of it" is coming.</p>
+      </div>
+
+      <!-- PART 4 -->
+      <div class="cts-part"><div class="pn">Part 4</div><h2>Practice<span class="rf">Same three-move check as Session 1</span></h2></div>
 
       <div class="cts-prac">
-        <div class="q">1. <b>"So, grass is blue, because it has a color."</b></div>
+        <div class="q">1. <b>"So, water and H₂O are different things, because 'water' and 'H₂O' are different words."</b></div>
         <button type="button" class="cts-reveal-btn" data-answer="a1">Reveal answer</button>
-        <div class="cts-answer" id="a1"><div class="cts-answer-in"><b><span class="plain-only">"That doesn't prove it!"</span><span class="fmt-only">"There is no pervasion."</span></b> — "has a color" is true of grass, but doesn't force "blue." Same trap as the worked example.</div></div>
+        <div class="cts-answer" id="a1"><div class="cts-answer-in"><b><span class="plain-only">"That doesn't prove it!"</span><span class="fmt-only">"There is no pervasion."</span></b> — different words, same substance. Same trap as the Morning/Evening Star.</div></div>
       </div>
       <div class="cts-prac">
-        <div class="q">2. <b>"So, this shirt is green, because it is blue and yellow mixed together."</b></div>
+        <div class="q">2. <b>"So, Samuel Clemens wrote 'The Adventures of Huckleberry Finn,' because Mark Twain wrote it, and Mark Twain is Samuel Clemens."</b></div>
         <button type="button" class="cts-reveal-btn" data-answer="a2">Reveal answer</button>
-        <div class="cts-answer" id="a2"><div class="cts-answer-in"><b><span class="plain-only">"Yes, I agree."</span><span class="fmt-only">"I accept it."</span></b> — this time the reason genuinely forces the conclusion: blue + yellow mixed <em>is</em> the definition of green.</div></div>
+        <div class="cts-answer" id="a2"><div class="cts-answer-in"><b><span class="plain-only">"Yes, I agree."</span><span class="fmt-only">"I accept it."</span></b> — "Mark Twain" and "Samuel Clemens" are one entity (a real pen name), so whatever is true of one is true of the other.</div></div>
       </div>
       <div class="cts-prac">
-        <div class="q">3. <b>"So, this ball is red, because it is a banana."</b></div>
+        <div class="q">3. <b>"So, the Morning Star and the Evening Star are one, because they are both stars."</b></div>
         <button type="button" class="cts-reveal-btn" data-answer="a3">Reveal answer</button>
-        <div class="cts-answer" id="a3"><div class="cts-answer-in"><b><span class="plain-only">"That's not true!"</span><span class="fmt-only">"The reason is not established."</span></b> — this is the other kind of bad move: the reason itself is false. A ball isn't a banana, so we never even get to talk about red.</div></div>
+        <div class="cts-answer" id="a3"><div class="cts-answer-in"><b><span class="plain-only">"That's not true!"</span><span class="fmt-only">"The reason is not established."</span></b> — the reason itself is false: Venus is a planet, not a star. (It happens to reach the right conclusion by accident — a false reason proves nothing, even when the conclusion is true.)</div></div>
       </div>
 
       <!-- NEXT -->
       <div class="cts-next">
         <div class="l">Looking ahead</div>
-        <h3>Session 2 — One and Many</h3>
-        <p>Today's trap was "true reason, wrong conclusion." Next session points the same four moves at a harder question: what does it actually mean for two things to be "the same"? The answer turns out to matter a great deal once we get to how monks reason about the mind.</p>
+        <h3>Session 3 — What a Definition Actually Is</h3>
+        <p>We've now used the word "impermanent," "colored," and "one entity" without ever pinning down what a definition is actually made of. Session 3 opens up the three-part structure — definiendum, definiens, and a working instance — that monks use to check whether a definition is any good at all.</p>
       </div>
 
       <div class="cts-foot">
         <a class="cts-btn ghost" href="{{ '/courses/collected-topics/' | relative_url }}">← Course overview</a>
         <button type="button" class="cts-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
-        <a class="cts-btn ghost" href="{{ '/courses/collected-topics/session-2/' | relative_url }}">Session 2 →</a>
       </div>
 
     </div>
