@@ -94,7 +94,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
         </ul>
         <div class="sjy-stats">
           <div class="sjy-stat"><b>24</b> fascicles in Yuanying's commentary</div>
-          <div class="sjy-stat"><b>7</b> fascicles complete so far</div>
+          <div class="sjy-stat"><b>8</b> fascicles complete so far</div>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
     <div class="sjy-wrap">
       <div class="sjy-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–7 — the tenfold preliminary analysis through the five aggregates, six sense-entrances, twelve sense-fields, and eighteen elements harmonized with the tathāgatagarbha — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
+        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–8 — the tenfold preliminary analysis through the four categories and seven great elements harmonized with the tathāgatagarbha, closing the sūtra's entire "refuting falseness, revealing truth" division — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
       </div>
 
       <div class="sjy-featured">
@@ -120,8 +120,8 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
         </div>
         <div class="feature" data-rv style="transition-delay:.12s">
           <span class="tag">Complete</span>
-          <h3>Fascicle 7: No Fixed Place to Be Found</h3>
-          <p>The twelve sense-fields and eighteen elements, each tested and found to have no fixed location anywhere — completing the four-category harmonization with the tathāgatagarbha begun in fascicle 6.</p>
+          <h3>Fascicle 8: Every Spark Can Burn Down a Forest</h3>
+          <p>The seven great elements — earth, water, fire, wind, space, seeing, consciousness — each shown to pervade the whole Dharma-realm, closing the sūtra's entire "refuting falseness, revealing truth" division.</p>
         </div>
       </div>
 
@@ -168,6 +168,12 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">The twelve sense-fields and eighteen elements harmonized with the tathāgatagarbha — complete.</span>
+        </a>
+        {% elsif i == 8 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra-jiangyi/fascicle-008/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The seven great elements — earth, water, fire, wind, space, seeing, consciousness — complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://book.bfnn.org/books2/{{ 1471 | plus: i }}.htm" target="_blank" rel="noopener" data-rv>
