@@ -59,6 +59,13 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 目連 | Maudgalyāyana | one of the Buddha's two chief disciples (with Śāriputra); introduced in fascicle 8 as the addressee of the hungry ghost's lament. |
 | 中有 | intermediate existence | antarābhava — the five-aggregate being arising between the existence of death and the existence of birth; introduced and extensively defended in fascicle 8's closing debate. Also called 健達縛/gandharva in the specific context of entry into a mother's womb. |
 | 五不還 | the five non-returners | introduced in fascicle 8: 中般 "attains final nirvana in the interval," 生般 "attains it upon birth," 無行般 "without exertion," 有行般 "through exertion," 上流 "streams upward." |
+| 五位 (胎內) | the five embryonic stages | kalala / arbuda / peśī / ghana / praśākhā — kept untranslated as Sanskrit terms; introduced in fascicle 9. Kept distinct from the unrelated 五位 used elsewhere (e.g. 三際/三世 stage-schemes) — context disambiguates. |
+| 十二支緣起 | the twelve links of dependent origination | pratītyasamutpāda; introduced in fascicle 9: 無明 ignorance / 行 formations / 識 consciousness / 名色 name-and-form / 六處 the six sense-bases / 觸 contact / 受 feeling / 愛 craving / 取 grasping / 有 existence / 生 birth / 老死 aging-and-death. Mapped across three lifetimes (past/present/future = prior/middle/later periods, 前際/中際/後際). |
+| 緣起 / 緣已生法 | dependent origination / dependently-arisen dharmas | the same twelve links named for their causal aspect (緣起) vs. their resultant aspect (緣已生法); introduced in fascicle 9. |
+| 四取 | the four kinds of grasping | introduced in fascicle 9: 欲取 desire-grasping (for the five sense-pleasures), 見取 view-grasping (the sixty-two views, 六十二見), 戒禁取 precept-and-vow-grasping, 我語取 "the discourse of self" (self-view/self-conceit). |
+| 播輸鉢多 / 伐羅勺迦 | Pāśupata / Vārṣagaṇya | rival ascetic schools; introduced in fascicle 9 alongside Jain ascetics and brahmins as examples of precept-and-vow-grasping. |
+| 《象迹喻經》 | the Elephant's Footprint Simile Sutra | cited in fascicle 9's debate over whether the "staged" twelve-link reading matches scripture's own definitions. |
+| 《大因緣經》/《辯緣起經》 | the Mahānidāna Sutra / the Discourse Distinguishing Dependent Origination | cited in fascicle 9 as scriptural sources for the three-lifetime, full-five-aggregates account of name-and-form. |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
