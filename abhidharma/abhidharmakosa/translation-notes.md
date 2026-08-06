@@ -31,6 +31,14 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 等至 | meditative attainment(s) | samāpatti; distinct from 靜慮/dhyāna — used when the text is discussing actively entering an attainment rather than the realm one is born into. |
 | 依 / 所依 | support | āśraya — what a consciousness or faculty leans on to arise. |
 | 等無間緣 | immediately-antecedent condition | samanantara-pratyaya, one of the four classical conditions (pratyaya). |
+| 得 | possession | prāpti — a formation dissociated from mind; central to fascicle 4's major debate over whether it is a real, distinct dharma. |
+| 非得 | non-possession | the reverse of 得; always undefiled-neutral in nature. |
+| 種子 | seed | bīja — in fascicle 4's rival "transformed basis" theory, defined via 相續轉變差別 (continuum, transformation, distinction). |
+| 異生性 | ordinary-being-nature | pṛthagjanatva — the non-possession of the noble path; debated at length in fascicle 4. |
+| 同分 / 眾同分 | class-commonality | nikāya-sabhāga — a formation dissociated from mind explaining shared "kind-ness" among members of the same class; introduced in fascicle 5. |
+| 學 / 無學 | trainee / non-trainee | śaikṣa / aśaikṣa — one still progressing on the noble path vs. one who has completed it (arhatship); "path of no-more-learning" for 無學道. |
+| 見道 / 修道 | path of seeing / path of cultivation | darśana-mārga / bhāvanā-mārga. |
+| 擇滅 / 非擇滅 | cessation through discernment / cessation not through discernment | pratisaṃkhyā-nirodha / apratisaṃkhyā-nirodha — two of the three unconditioned dharmas. |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
