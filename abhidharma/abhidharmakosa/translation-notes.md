@@ -39,6 +39,9 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 學 / 無學 | trainee / non-trainee | śaikṣa / aśaikṣa — one still progressing on the noble path vs. one who has completed it (arhatship); "path of no-more-learning" for 無學道. |
 | 見道 / 修道 | path of seeing / path of cultivation | darśana-mārga / bhāvanā-mārga. |
 | 擇滅 / 非擇滅 | cessation through discernment / cessation not through discernment | pratisaṃkhyā-nirodha / apratisaṃkhyā-nirodha — two of the three unconditioned dharmas. |
+| 六因 | the six causes | ṣaḍ-hetavaḥ — introduced in fascicle 6: 能作因 "efficient cause" (kāraṇa-hetu), 俱有因 "co-existent cause" (sahabhū-hetu), 同類因 "homogeneous cause" (sabhāga-hetu), 相應因 "associated cause" (saṃprayuktaka-hetu), 遍行因 "universal cause" (sarvatraga-hetu), 異熟因 "ripening cause" (vipāka-hetu). |
+| 士用果 | agent-efficacy result | puruṣakāra-phala — the kind of result two dharmas produce when they are mutually a co-existent cause (俱有因) of one another. |
+| 心隨轉法 | dharmas that follow mind's course | dharmas co-arising with mind in lockstep — mental factors, the two moral restraints, and mind's own characteristics; defined in fascicle 6 by matching time, result, and moral quality with mind. |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 

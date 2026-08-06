@@ -233,6 +233,12 @@ excerpt: A plain-English study entrance to Vasubandhu's Abhidharmakośa (俱舍�
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Complete: every formation dissociated from mind — class-commonality, the two mindless attainments, the life faculty, the four marks of the conditioned, and name, phrase, and letter.</span>
         </a>
+        {% elsif i == 6 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/abhidharma/abhidharmakosa/fascicle-006/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }} · Ch. {{ ch }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Chapter 2's close: the six causes (六因), this tradition's foundational theory of what it means for one dharma to cause another. In progress.</span>
+        </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T29n1558_{{ padded }}" target="_blank" rel="noopener" data-rv>
           <span class="vol-num">Fascicle {{ i }} · Ch. {{ ch }}</span>
