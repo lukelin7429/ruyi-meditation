@@ -94,7 +94,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
         </ul>
         <div class="sjy-stats">
           <div class="sjy-stat"><b>24</b> fascicles in Yuanying's commentary</div>
-          <div class="sjy-stat"><b>10</b> fascicles complete so far</div>
+          <div class="sjy-stat"><b>11</b> fascicles complete so far</div>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
     <div class="sjy-wrap">
       <div class="sjy-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–10 — the tenfold preliminary analysis, the four categories and seven great elements harmonized with the tathāgatagarbha, Ānanda's verse of gratitude, Pūrṇa's cosmogony questions, the complete teaching of the three aspects of the tathāgatagarbha, and the parable of Yajñadatta — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
+        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–11 — the tenfold preliminary analysis, the four categories and seven great elements harmonized with the tathāgatagarbha, Ānanda's verse of gratitude, Pūrṇa's cosmogony questions, the complete teaching of the three aspects of the tathāgatagarbha, the parable of Yajñadatta, and the opening of the sūtra's practical teaching on the two decisive meanings — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
       </div>
 
       <div class="sjy-featured">
@@ -120,8 +120,8 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
         </div>
         <div class="feature" data-rv style="transition-delay:.12s">
           <span class="tag">Complete</span>
-          <h3>Fascicle 10: Once the Flowers Vanish, They Never Return</h3>
-          <p>The five great elements interfuse without destroying one another, the tathāgatagarbha's three aspects are taught in full, and Yajñadatta runs through the streets convinced, from his own reflection, that he has lost his own head.</p>
+          <h3>Fascicle 11: A Mansion Without a Door</h3>
+          <p>Ānanda's final doubt about causation, the Buddha's closing word on Yajñadatta, Mātaṅgī and Yaśodharā's swift attainment set against mere erudition, and the two decisive meanings — the five turbidities and the merit of each sense-faculty — that open the sūtra's teaching of practice.</p>
         </div>
       </div>
 
@@ -186,6 +186,12 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">The five great elements' interfusion, the three aspects of the tathāgatagarbha in full, and Yajñadatta — complete.</span>
+        </a>
+        {% elsif i == 11 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra-jiangyi/fascicle-011/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Ānanda's final doubt about causation, the two decisive meanings, the five turbidities, and the merit of each sense-faculty — complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://book.bfnn.org/books2/{{ 1471 | plus: i }}.htm" target="_blank" rel="noopener" data-rv>
