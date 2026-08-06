@@ -1,0 +1,475 @@
+---
+layout: default
+title: Nyāyapraveśa
+permalink: /sutras/nyayapravesa/
+excerpt: Ru-Yi's complete plain-English translation of the Nyāyapraveśa (因明入正理論), the standard introductory textbook of Buddhist logic — thesis, reason, example, the nine fallacious theses, and the rules for valid proof and refutation.
+---
+
+<style>
+  .nyayapravesa{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .nyayapravesa *{box-sizing:border-box;}
+  .np-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .np-hero{background:linear-gradient(155deg,#2f6d5e 0%,#254f45 45%,#151c20 100%);color:#fff;overflow:hidden;position:relative;}
+  .np-hero::after{content:"因明入正理論";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:88px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .np-hero-in{position:relative;z-index:1;padding:64px 26px 56px;max-width:980px;margin:0 auto;}
+  .np-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:rgba(255,255,255,.72);}
+  .np-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .np-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#f0c96d;font-weight:800;}
+  .nyayapravesa h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(36px,5.6vw,58px);line-height:1.08;color:#fff;margin:14px 0 16px;max-width:16ch;}
+  .np-hero p{max-width:720px;color:#edf4ef;font-size:18px;line-height:1.7;}
+  .np-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;}
+  .np-pill{border:1px solid rgba(255,255,255,.28);background:rgba(255,255,255,.08);border-radius:999px;padding:7px 12px;font-size:13px;color:#fff;font-weight:700;}
+  .np-body{background:#fff;padding:54px 0 76px;}
+  .np-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .np-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .nyayapravesa h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.18;color:var(--ink);margin:0 0 14px;}
+  .nyayapravesa h3{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);margin:26px 0 10px;}
+  .nyayapravesa h4{font-size:15.5px;font-weight:800;color:var(--terra-deep);margin:20px 0 8px;text-transform:uppercase;letter-spacing:.04em;}
+  .nyayapravesa p,.nyayapravesa li{font-size:16.5px;line-height:1.72;color:var(--muted);}
+  .nyayapravesa ul,.nyayapravesa ol{padding-left:22px;}
+  .zh-sub{font-family:'PingFang TC','Microsoft JhengHei',serif;font-weight:400;color:var(--muted);font-size:16px;}
+  .np-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:18px;}
+  .np-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.np-row{grid-template-columns:1fr 1.08fr;}}
+  .np-source,.np-translation{border:1px solid var(--line);border-radius:8px;padding:20px;background:#fffdf8;}
+  .np-translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .np-label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:10px;}
+  .np-translation .np-label{color:var(--jade);}
+  .np-source p{font-family:"PingFang TC","Microsoft JhengHei",serif;color:#382a20;}
+  .np-note{border-left:4px solid var(--gold);background:#fdf9f1;padding:20px 22px;margin-top:20px;}
+  .np-note p{margin:0;font-size:15.5px;}
+  .np-note p+p{margin-top:10px;}
+  .np-toc{background:var(--cream);border:1px solid var(--line);border-radius:8px;padding:22px 26px;margin-top:18px;}
+  .np-toc ol{columns:1;margin:10px 0 0;padding-left:20px;}
+  @media(min-width:700px){.np-toc ol{columns:2;column-gap:28px;}}
+  .np-toc li{font-size:15px;margin-bottom:6px;break-inside:avoid;}
+  .np-toc a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.3);}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:18px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  .np-eightfold{display:grid;grid-template-columns:1fr;gap:12px;margin-top:18px;}
+  @media(min-width:640px){.np-eightfold{grid-template-columns:repeat(2,1fr);}}
+  .np-ecard{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .np-ecard b{display:block;color:var(--terra-deep);font-size:14.5px;margin-bottom:4px;}
+  .np-ecard span{font-size:14px;color:var(--muted);}
+</style>
+
+<article class="nyayapravesa">
+  <section class="np-hero">
+    <div class="np-hero-in">
+      <nav class="np-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Nyāyapraveśa</nav>
+      <div class="np-kicker">Śaṅkarasvāmin · Xuanzang · 因明入正理論</div>
+      <h1>The Treatise That Teaches Right Reasoning</h1>
+      <p>The <em>Nyāyapraveśa</em> is the standard introductory textbook of hetuvidyā — Buddhist logic — used to train monastic debaters across East Asia for over a thousand years. In it, Śaṅkarasvāmin, a direct disciple of Dignāga, distills his teacher's much larger and more difficult works into a short, systematic manual: how to build a valid three-part argument, how a thesis can fail in nine different ways before the argument even starts, and how a reason that looks sound can still prove nothing — or prove the opposite of what was intended. This page is Ru-Yi's complete translation of the whole text, together with Xuanzang's own translator's postface.</p>
+      <div class="np-meta">
+        <span class="np-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="np-pill">Status: complete — one fascicle</span>
+        <span class="np-pill">Source: Taishō T32, No. 1630</span>
+        <span class="np-pill">Author: Śaṅkarasvāmin · Translator: Xuanzang, 647 CE</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="np-body">
+    <div class="np-wrap">
+
+      <section class="np-section">
+        <h2>Project Background</h2>
+        <p>The <em>Nyāyapraveśa</em> (因明入正理論, "A Treatise on Entering Right Reasoning") stands at the head of a short lineage. Dignāga (陳那, c. 5th–6th century CE) founded the mature school of Buddhist logic and epistemology — hetuvidyā (因明), one of the "five sciences" of classical Indian learning — with two major works: the <em>Nyāyamukha</em> (因明正理門論, "The Gate of Logic") and the vast <em>Pramāṇasamuccaya</em> ("Compendium of Valid Cognition"). Both are dense, and the <em>Nyāyamukha</em> in particular was, by tradition, considered too difficult for beginners. Śaṅkarasvāmin (商羯羅主), Dignāga's direct disciple, wrote this treatise to solve exactly that problem: a short, tightly organized digest of his teacher's system, simple enough to teach from, but complete enough to actually use.</p>
+        <p>Xuanzang (玄奘) translated it into Chinese in 647 CE, the same period in which he was translating Dignāga's other logical works and building the doctrinal foundation of the Faxiang (法相) school in China. No Sanskrit original of this particular text survives; only Xuanzang's Chinese translation is complete, and it is from this Chinese text — not from any modern reconstruction — that this translation is made.</p>
+        <p>This treatise pairs naturally with the Ru-Yi translation of the <em><a href="{{ '/sutras/cheng-weishi-lun/' | relative_url }}">Cheng Weishi Lun</a></em> (成唯識論). Fascicle 7 of that treatise builds a full, formal three-part argument (宗因喻) to prove that Consciousness-Only is not merely asserted but logically established — a passage that, without this page, can only be read as an isolated example. Here is the rulebook behind it: what makes such an argument valid, and every way it can go wrong.</p>
+      </section>
+
+      <section class="np-section">
+        <h2>Translation Method</h2>
+        <p>Scholarly work on Dignāga's logic and on this treatise exists in English, some of it under copyright. We do not reproduce or paraphrase any of it here — this is Ru-Yi's own translation, made directly from the Chinese text preserved by CBETA, which is in the public domain. Difficult technical passages may be checked privately against existing scholarship to confirm we have not misread the Chinese, but the English wording and structure on this page are our own.</p>
+        <ul>
+          <li>Technical terms are translated consistently throughout — see the <a href="#notes">translation notes</a> below for the running glossary, and the fuller <a href="https://github.com/lukelin7429/ruyi-meditation/blob/main/sutras/nyayapravesa/translation-notes.md" target="_blank" rel="noopener">translation-notes.md</a> in the site repository.</li>
+          <li>CBETA's edition of this text carries no inline 科判 (traditional outline markers) the way the <em>Cheng Weishi Lun</em> does — this treatise is short enough that none were ever needed for its own transmission. The section headings on this page are Ru-Yi's own, built around the treatise's own eight-topic structure (see below), not a traditional outline.</li>
+          <li>Because nearly every sentence here is a technical definition or a worked example, reading notes carry more of the explanatory weight than on a less technical page — the Chinese itself leaves very little room for the English translation to unpack a term in place without breaking the tight, formulaic structure the treatise depends on.</li>
+        </ul>
+      </section>
+
+      <section class="np-section" id="toc">
+        <h2>Table of Contents</h2>
+        <p>The treatise's own opening verse names eight topics, split into two groups of four: proof, refutation, and their fallacious counterparts (for awakening others in debate); direct perception, inference, and their fallacious counterparts (for awakening oneself). This page works through them in the order the text itself takes them up.</p>
+        <div class="np-toc">
+          <ol>
+            <li><a href="#verse">The Opening Verse — the Eight Approaches</a></li>
+            <li><a href="#thesis">Defining Proof: the Thesis (宗)</a></li>
+            <li><a href="#three-characteristics">The Three Characteristics of a Valid Reason (因三相)</a></li>
+            <li><a href="#examples">The Two Kinds of Example (喻)</a></li>
+            <li><a href="#full-proof">The Three-Part Proof, Complete</a></li>
+            <li><a href="#fallacious-thesis">The Nine Fallacious Theses (似宗九過)</a></li>
+            <li><a href="#fallacious-reason-intro">Fallacious Reasons: Three Families (似因)</a></li>
+            <li><a href="#non-establishment">Non-Establishment, Four Kinds (不成四種)</a></li>
+            <li><a href="#inconclusiveness">Inconclusiveness, Six Kinds (不定六種)</a></li>
+            <li><a href="#contradiction">Contradiction, Four Kinds (相違四種)</a></li>
+            <li><a href="#fallacious-example-agreement">Fallacious Examples by Agreement (似同法喻)</a></li>
+            <li><a href="#fallacious-example-difference">Fallacious Examples by Difference (似異法喻)</a></li>
+            <li><a href="#perception-inference">Direct Perception and Inference (現量、比量)</a></li>
+            <li><a href="#fallacious-perception-inference">Fallacious Perception and Fallacious Inference</a></li>
+            <li><a href="#refutation">Refutation and Fallacious Refutation (能破、似能破)</a></li>
+            <li><a href="#closing-verse">The Closing Verse</a></li>
+            <li><a href="#postface">Translator's Postface (後序)</a></li>
+            <li><a href="#notes">Translation Notes</a></li>
+          </ol>
+        </div>
+      </section>
+
+      <section class="np-section" id="verse">
+        <h2>The Opening Verse <span class="zh-sub">標宗頌 · 八門</span></h2>
+        <p>The treatise opens by naming its entire scope in a single four-line verse — the eight approaches (八門) that organize everything that follows.</p>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>能立與能破，及似唯悟他，現量與比量，及似唯自悟。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>Proof and refutation, together with their fallacious counterparts, serve only to awaken others. Direct perception and inference, together with their fallacious counterparts, serve only to awaken oneself.</p></div>
+          </div>
+        </div>
+        <div class="np-eightfold">
+          <div class="np-ecard"><b>能立 — Proof</b><span>A correctly formed argument establishing a thesis. For awakening others.</span></div>
+          <div class="np-ecard"><b>似能立 — Fallacious proof</b><span>An argument that only appears valid. For awakening others (in the negative: exposing bad arguments).</span></div>
+          <div class="np-ecard"><b>能破 — Refutation</b><span>Correctly pointing out a genuine flaw in an opponent's proof. For awakening others.</span></div>
+          <div class="np-ecard"><b>似能破 — Fallacious refutation</b><span>An objection aimed at a proof that has no real flaw. For awakening others (in the negative).</span></div>
+          <div class="np-ecard"><b>現量 — Direct perception</b><span>Cognition free of conceptual construction. For awakening oneself.</span></div>
+          <div class="np-ecard"><b>似現量 — Fallacious perception</b><span>Perception mixed with conceptual construction. For awakening oneself (in the negative).</span></div>
+          <div class="np-ecard"><b>比量 — Inference</b><span>Cognition arrived at through a valid reason. For awakening oneself.</span></div>
+          <div class="np-ecard"><b>似比量 — Fallacious inference</b><span>Cognition built on a fallacious reason. For awakening oneself (in the negative).</span></div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> This one verse is the treatise's table of contents. Notice the division of labor: proof and refutation are tools for <strong>debate</strong> — used out loud, on someone else, to bring them to understanding (悟他). Direct perception and inference are tools for <strong>private reasoning</strong> — used silently, on oneself, to arrive at correct understanding in the first place (自悟). Everything that follows works through these eight, one at a time, always pairing the genuine article with its fallacious look-alike.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="thesis">
+        <h2>Defining Proof: the Thesis <span class="zh-sub">宗</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>如是總攝諸論要義。此中宗等多言，名為能立。由宗、因、喻多言，開示諸有問者未了義故。此中宗者，謂極成有法，極成能別差別為性，隨自樂為所成立性，是名為宗。如有成立「聲是無常」。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>These eight together comprehensively gather the essential meaning of the whole science. Among them, a group of statements built around a thesis is called "proof": a group of statements consisting of a thesis, a reason, and an example, which makes clear, to whoever has raised a question, a meaning they did not yet understand.</p><p>Here, a "thesis" means this: taking as its subject a locus that both parties already accept as established, and taking as its predicate a distinguishing property that both parties already accept as established, and combining the two exactly as the proponent himself wishes to establish them — this combination is called a thesis. For example, one might set up the thesis: "Sound is impermanent."</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> Two words are doing all the work here: <strong>established</strong> (極成) and <strong>as the proponent wishes</strong> (隨自樂). "Established" means both debaters already agree the term is meaningful and applies — nobody is disputing that "sound" exists, or that "impermanent" is a real property something could have. What they disagree about is whether the two belong together. That disagreement is exactly what a thesis stakes out, and exactly why "Sound is impermanent" — not some more exotic claim — is the treatise's standing example for the rest of the page.</p>
+          <p>The subject ("sound") is called 有法, literally "that which holds a property"; the predicate ("impermanent") is called 能別, "the distinguishing [property]." These two labels recur constantly from here on — see the <a href="#notes">translation notes</a>.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="three-characteristics">
+        <h2>The Three Characteristics of a Valid Reason <span class="zh-sub">因三相</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>因有三相。何等為三？謂遍是宗法性、同品定有性、異品遍無性。云何名為同品、異品？謂所立法均等義品，說名同品。如立「無常」，瓶等無常，是名同品。異品者，謂於是處無其所立，「若有是常，見非所作，如虛空等」。此中所作性或勤勇無間所發性，遍是宗法性。同品定有性、異品遍無性，是無常等因。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>A valid reason has three characteristics. What are the three? That it pervades the property of the subject; that it is definitely present among the instances of the homologous class; and that it is entirely absent from the instances of the heterologous class.</p><p>What are meant by "the homologous class" and "the heterologous class"? A class of things sharing, in equal measure, the very property being established is called the homologous class. For instance, if one is establishing "impermanent," then pots and the like, being impermanent, count as the homologous class. The heterologous class consists of whatever lacks the property being established — for instance: "whatever is permanent is seen not to be produced, as with space and the like." Here, "being produced" — or, in another phrasing of the same reason, "being brought about through effort, without interruption" — pervades the property of the subject. That it is definitely present among the homologous instances and entirely absent from the heterologous instances is what makes it a valid reason for "impermanent," and so on.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> This is the treatise's central test, and everything from here through the fallacious reasons (似因) is really just this test applied, or failed, in different ways. Take the standing example, "Sound is impermanent, because it is produced" (聲是無常，所作性故):</p>
+          <p>(1) The reason "produced" must actually hold of the subject, sound — sound must in fact be a produced thing. (2) Wherever the property "impermanent" is found — the <strong>homologous class</strong> (同品, sapakṣa), things like pots — the reason "produced" must also definitely be found. (3) Wherever "impermanent" is entirely absent — the <strong>heterologous class</strong> (異品, vipakṣa), things like space, held to be permanent — the reason "produced" must be entirely absent as well. Only when all three hold at once does a reason actually prove its thesis, rather than merely being associated with it. Nearly every fallacy catalogued later in this treatise is a specific way one of these three characteristics fails.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="examples">
+        <h2>The Two Kinds of Example <span class="zh-sub">喻</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>喻有二種：一者同法；二者異法。同法者，若於是處顯因同品決定有性，謂「若所作見，彼無常，譬如瓶等」。異法者，若於是處說所立無，因遍非有，謂「若是常，見非所作，如虛空等」。此中「常」言表「非無常」，「非所作」言表「無所作」，如有非有，說名「非有」。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>There are two kinds of example: the example by agreement and the example by difference.</p><p>The example by agreement shows the reason to be definitely present among the instances of the homologous class — for instance: "Whatever is seen to be produced is seen to be impermanent, as with a pot and the like." The example by difference states that, wherever the property being established is absent, the reason is entirely absent as well — for instance: "Whatever is permanent is seen not to be produced, as with space and the like." Here, the word "permanent" expresses "not impermanent," and "not produced" expresses "the absence of being produced" — in the same way that negating "existent" gives "non-existent."</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> The two examples are really the same content stated twice, once from each direction, and both are required together: the example by agreement (同法喻) confirms characteristic (2) above — the reason really is found wherever the property is; the example by difference (異法喻) confirms characteristic (3) — the reason really is absent wherever the property is absent. A single example that only ran one direction would leave half the test unchecked.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="full-proof">
+        <h2>The Three-Part Proof, Complete <span class="zh-sub">能立三分圓成</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>已說宗等如是多言開悟他時，說名「能立」。如說「聲無常」者，是立宗言。「所作性故」者，是宗法言。「若是所作，見彼無常，如瓶等」者，是隨同品言。「若是其常，見非所作，如虛空」者，是遠離言。唯此三分，說名「能立」。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>When a group of statements consisting of the thesis and the rest, as just explained, is used to awaken another person, it is called "proof." Thus, in the statement "Sound is impermanent" — this is the statement of the thesis. "Because it is produced" — this is the statement of the reason. "Whatever is produced is seen to be impermanent, as with a pot and the like" — this is the statement that follows the homologous class. "Whatever is permanent is seen not to be produced, as with space" — this is the statement that withdraws from the heterologous class. Only these three parts together are called "proof."</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> This is the complete worked example the rest of the treatise assumes readers already have in hand — <strong>thesis</strong>: sound is impermanent; <strong>reason</strong>: because it is produced; <strong>example</strong> (both directions): whatever is produced is impermanent, like a pot; whatever is permanent is not produced, like space. Three parts (三支), not the five-part form (五分) of older Nyāya logic. The treatise's own postface, near the end of this page, describes Śaṅkarasvāmin's whole contribution as having "pruned away the five parts to fix on the three" — this is the pruning it means. Everything from here forward is a catalogue of ways this three-part structure can be gotten wrong.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="fallacious-thesis">
+        <h2>The Nine Fallacious Theses <span class="zh-sub">似宗九過</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>雖樂成立，由與現量等相違故，名似立宗。謂現量相違、比量相違、自教相違、世間相違、自語相違、能別不極成、所別不極成、俱不極成、相符極成。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>Although one may wish to establish it, a thesis that contradicts direct perception or the like is called only a "fallacious thesis." There are nine kinds: contradicting direct perception; contradicting inference; contradicting one's own scripture; contradicting the world; self-contradiction; the predicate not established; the subject not established; neither established; and stating what is already agreed upon by both parties.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>此中現量相違者，如說「聲非所聞」。比量相違者，如說「瓶等是常」。自教相違者，如勝論師立「聲為常」。世間相違者，如說「懷兔非月，有故」，又如說言「人頂骨淨，眾生分故，猶如螺貝」。自語相違者，如言「我母是其石女」。能別不極成者，如佛弟子對數論師立「聲滅壞」。所別不極成者，如數論師對佛弟子說「我是思」。俱不極成者，如勝論師對佛弟子立「我以為和合因緣」。相符極成者，如說「聲是所聞」。</p></div>
+            <div class="np-translation"><p><strong>Contradicting direct perception:</strong> saying, "Sound is not something heard." <strong>Contradicting inference:</strong> saying, "A pot and the like are permanent." <strong>Contradicting one's own scripture:</strong> a Vaiśeṣika asserting, "Sound is permanent." <strong>Contradicting the world:</strong> saying, "The hare seen in the moon is not the moon, because it exists," or saying, "The crown of a person's skull is pure, being part of a sentient being, just like a conch shell." <strong>Self-contradiction:</strong> saying, "My mother is a barren woman." <strong>The predicate not established:</strong> a disciple of the Buddha, addressing a Sāṃkhya opponent, asserting, "Sound perishes." <strong>The subject not established:</strong> a Sāṃkhya, addressing a disciple of the Buddha, saying, "The self is [pure] thought." <strong>Neither established:</strong> a Vaiśeṣika, addressing a disciple of the Buddha, asserting, "The self serves as the cause that unites [substance, quality, and action]." <strong>Already agreed upon by both parties:</strong> saying, "Sound is something heard."</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>如是多言，是遣諸法自相門故、不容成故、立無果故，名似立宗過。</p></div>
+            <div class="np-translation"><p>Statements of this kind fail as a thesis because they wrongly exclude what the thing itself actually is, because they cannot possibly be established, or because setting them up yields no result — hence they are called the faults of a fallacious thesis.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> The nine fall into three natural groups. The first four — contradicting perception, inference, one's own scripture, or the world — are theses that lose to an outside authority: something everyone can see, something already proven, one's own school's texts, or common consensus (the moon example plays on the traditional Indian image of "the hare in the moon," and the skull example on a claim some non-Buddhist ascetics reportedly held). <strong>Self-contradiction</strong> loses to itself — "my mother is a barren woman" is incoherent on its own terms, since a barren woman by definition has no children. The <strong>Vaiśeṣika</strong> (勝論) and <strong>Sāṃkhya</strong> (數論) named here are rival non-Buddhist philosophical schools, regularly used throughout this treatise as the "opponent" in worked examples.</p>
+          <p>The last four are failures of <strong>極成</strong>, "establishment" — the precondition from the thesis section above. If the predicate itself isn't a term the opponent accepts as meaningful ("perishes" pressed on a Sāṃkhya, who has no such category), or the subject itself isn't accepted as existing ("the self," pressed on a Buddhist, who denies there is one), or neither is accepted, the two sides are not even disagreeing about the same thing yet — there is nothing there to debate. And if both sides already agree on the claim outright ("sound is something heard"), there is likewise nothing to prove; a thesis has to state a live disagreement, not a settled fact.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="fallacious-reason-intro">
+        <h2>Fallacious Reasons: Three Families <span class="zh-sub">似因總說</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>已說似宗，當說似因。不成、不定及與相違，是名似因。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>The fallacious theses have now been explained; the fallacious reasons will be explained next. Non-establishment, inconclusiveness, and contradiction — these are called the fallacious reasons.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> These three families map directly onto the three characteristics of a valid reason above. <strong>Non-establishment</strong> (不成) fails characteristic (1) — the reason was never actually shown to hold of the subject at all. <strong>Inconclusiveness</strong> (不定) fails characteristics (2) and (3) at once by being too permissive — the reason is compatible with more than one, mutually exclusive thesis. <strong>Contradiction</strong> (相違) also fails (2) and (3), but in the sharpest possible way — the reason turns out to prove the exact opposite of what was intended.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="non-establishment">
+        <h2>Non-Establishment, Four Kinds <span class="zh-sub">不成四種</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>不成有四：一、兩俱不成；二、隨一不成；三、猶豫不成；四、所依不成。如成立「聲為無常」等，若言「是眼所見性故」，兩俱不成。「所作性故」，對聲顯論，隨一不成。於霧等性起疑惑時，為成「大種和合火有」而有所說，猶豫不成。「虛空實有，德所依故」，對無空論，所依不成。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>There are four kinds of non-establishment: non-establishment for both parties; non-establishment for one party; non-establishment through doubt; and non-establishment of the basis.</p><p>For example, in establishing "Sound is impermanent," if one says "because it is something seen by the eye" — this is non-establishment for both parties (sound is plainly not seen by the eye at all). If one says "because it is produced" while addressing a follower of the Sound-Manifestation school, this is non-establishment for one party only, since that school does not accept sound as produced. When doubt has already arisen over whether something like mist is really smoke, and one nonetheless argues from it that "there is fire, because the elements have combined" — this is non-establishment through doubt. Arguing that "space truly exists, because it is the substrate of a quality," addressed to a school that denies space exists at all, is non-establishment of the basis.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> The "Sound-Manifestation school" (聲顯論) is a rival, non-Buddhist (Mīmāṃsā-affiliated) view holding that sound is eternal and merely revealed, or "manifested," by an event like speaking — never actually produced. A reason built on "because it is produced" simply has no purchase on an opponent who denies the premise outright; that is <strong>non-establishment for one party</strong> (隨一不成), as opposed to the mist example, where the reason's applicability is uncertain to both debaters at once (<strong>through doubt</strong>, 猶豫不成), or the space example, where the reason cannot even get off the ground because the opponent denies the subject exists in the first place (<strong>of the basis</strong>, 所依不成).</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="inconclusiveness">
+        <h2>Inconclusiveness, Six Kinds <span class="zh-sub">不定六種</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>不定有六：一、共；二、不共；三、同品一分轉異品遍轉；四、異品一分轉同品遍轉；五、俱品一分轉；六、相違決定。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>There are six kinds of inconclusiveness: common; exclusive; present in part of the homologous class and throughout the heterologous class; present in part of the heterologous class and throughout the homologous class; present in part of both classes; and mutually contradictory yet equally well-formed.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>此中共者，如言「聲常，所量性故」。常無常品皆共此因，是故不定。為如瓶等所量性故，聲是無常？為如空等所量性故，聲是其常？言不共者，如說「聲常，所聞性故」，常無常品皆離此因，常無常外餘非有故，是猶豫因。此所聞性，其猶何等？</p></div>
+            <div class="np-translation"><p><strong>Common:</strong> saying, "Sound is permanent, because it is an object of cognition." Both the permanent and the impermanent class share this reason equally, so it is inconclusive — is sound impermanent, being an object of cognition as a pot is? Or permanent, being an object of cognition as space is? <strong>Exclusive:</strong> saying, "Sound is permanent, because it is something heard." Both the permanent and the impermanent class are entirely apart from this reason — nothing outside the two exists for it to apply to — so it leaves the matter simply in doubt: this property of "being heard," what does it actually resemble?</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>同品一分轉異品遍轉者，如說「聲非勤勇無間所發，無常性故」。此中非勤勇無間所發宗，以電空等為其同品。此無常性，於電等有、於空等無。非勤勇無間所發宗，以瓶等為異品，於彼遍有。此因以電、瓶等為同法故，亦是不定。為如瓶等無常性故，彼是勤勇無間所發？為如電等無常性故，彼非勤勇無間所發？</p></div>
+            <div class="np-translation"><p><strong>Present in part of the homologous class, throughout the heterologous class:</strong> saying, "Sound is not produced through effort without interruption, because it is impermanent." For this thesis, lightning and space count as the homologous class; impermanence holds of lightning but not of space. Pots count as the heterologous class, and impermanence holds of them throughout. Since the reason applies to both lightning and pots alike, it is inconclusive: is sound not produced through effort, being impermanent as lightning is? Or produced through effort, being impermanent as a pot is?</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>異品一分轉同品遍轉者，如立宗言「聲是勤勇無間所發，無常性故」。勤勇無間所發宗，以瓶等為同品，其無常性於此遍有；以電空等為異品，於彼一分電等是有、空等是無。是故如前，亦為不定。</p></div>
+            <div class="np-translation"><p><strong>Present in part of the heterologous class, throughout the homologous class:</strong> setting up the thesis, "Sound is produced through effort without interruption, because it is impermanent." Here pots count as the homologous class, and impermanence holds of them throughout; lightning and space count as the heterologous class, and impermanence holds of lightning but not of space. So, as before, this too is inconclusive.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>俱品一分轉者，如說「聲常，無質礙故」。此中常宗，以虛空極微等為同品，無質礙性於虛空等有、於極微等無；以瓶樂等為異品，於樂等有、於瓶等無。是故此因，以樂以空為同法故，亦名不定。</p></div>
+            <div class="np-translation"><p><strong>Present in part of both classes:</strong> saying, "Sound is permanent, because it lacks resistant materiality." For "permanent," space and atoms count as the homologous class — lacking resistant materiality holds of space but not of atoms. Pleasure and pots count as the heterologous class — it holds of pleasure but not of pots. Since the reason applies to both pleasure and space alike, it too is inconclusive.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>相違決定者，如立宗言「聲是無常，所作性故，譬如瓶等」；有立「聲常，所聞性故，譬如聲性」。此二皆是猶豫因故，俱名不定。</p></div>
+            <div class="np-translation"><p><strong>Mutually contradictory yet equally well-formed:</strong> one side sets up "Sound is impermanent, because it is produced, like a pot"; another sets up "Sound is permanent, because it is something heard, like the very nature of sound." Both are reasons that leave the matter in doubt, so both are called inconclusive.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> This section is the densest test of the three characteristics in the whole treatise, and it is best read against the classical <strong>nine forms of the reason</strong> (九句因, the Hetucakra or "wheel of reasons") that Dignāga worked out in his own <em>Nyāyamukha</em>, even though this treatise never draws the chart explicitly. Sort every possible reason by how it distributes across the homologous class (同品) and the heterologous class (異品) — present in all, some, or none of each — and nine combinations result. Two are valid (present throughout the homologous class and absent throughout the heterologous class, or the reverse pairing that still satisfies both directions); two are the contradictions taken up in the next section; the remaining five are exactly the six cases catalogued here (the treatise's "mutually contradictory yet equally well-formed," case six, is really two of the nine valid-looking combinations colliding against each other rather than a distinct cell of the chart).</p>
+          <p>The common thread through all six: the reason is real and does hold of the subject — this is not non-establishment — but it fails to single out one thesis over its rivals. "Object of cognition" is simply too broad a net; "being heard" is so narrow a net that nothing else falls into it either, leaving no comparison class to test against at all. The two "partial" cases show that even a reason genuinely restricted to (say) all impermanent things can still fail, if the class it is being used to prove doesn't line up cleanly with impermanence in both directions. And the final case is a sobering reminder built into the system itself: two opposite theses, each backed by a reason that looks perfectly well-formed on its own, can be argued with equal apparent force — which is exactly why a reason has to be checked against <em>all three</em> characteristics, not merely shown to hold of the subject.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="contradiction">
+        <h2>Contradiction, Four Kinds <span class="zh-sub">相違四種</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>相違有四：謂法自相相違因、法差別相違因、有法自相相違因、有法差別相違因等。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>There are four kinds of contradiction: the reason contradicting the manifest nature of the predicate; the reason contradicting a further implication of the predicate; the reason contradicting the manifest nature of the subject; and the reason contradicting a further implication of the subject.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>此中，法自相相違因者，如說「聲常，所作性故，或勤勇無間所發性故」。此因唯於異品中有，是故相違。</p></div>
+            <div class="np-translation"><p><strong>Contradicting the manifest nature of the predicate:</strong> saying, "Sound is permanent, because it is produced" — or, "because it is brought about through effort, without interruption." This reason is present only among the heterologous instances (things that are impermanent), so it actually contradicts the very thesis it was meant to prove — it proves that sound is impermanent instead.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>法差別相違因者，如說「眼等必為他用，積聚性故，如臥具等」。此因如能成立眼等必為他用，如是亦能成立所立法差別相違積聚他用，諸臥具等為積聚他所受用故。</p></div>
+            <div class="np-translation"><p><strong>Contradicting a further implication of the predicate:</strong> saying, "The eye and the other [sense faculties] necessarily exist for the use of another, because they are aggregations, like a bed or a mat." Just as this reason can establish that the eye and the rest exist for another's use, it equally establishes a contrary further implication: that they exist for another's use only as an aggregation is put to use and then set aside — the way a bed or a mat is used by a guest and then left behind, not the way the proponent actually intends "another" to be understood.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>有法自相相違因者，如說「有性非實非德非業，有一實故、有德業故，如同異性」。此因如能成遮實等，如是亦能成遮有性，俱決定故。</p></div>
+            <div class="np-translation"><p><strong>Contradicting the manifest nature of the subject:</strong> saying, "Universality is neither substance, quality, nor action, because it possesses a single [nature as] substance, and because it possesses quality and action, like [the Vaiśeṣika category of] sameness-and-difference." Just as this reason can negate substance and the rest being identical with universality, it equally negates universality itself as any real, singular entity apart from them — both conclusions follow with the same necessity.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>有法差別相違因者，如即此因即於前宗有法差別作有緣性，亦能成立與此相違作非有緣性，如遮實等，俱決定故。已說似因，當說似喻。</p></div>
+            <div class="np-translation"><p><strong>Contradicting a further implication of the subject:</strong> this same reason, just as it can establish, for the subject of the prior thesis, a further implication that it serves as a real condition for something, can equally establish the contrary — that it serves as a condition for nothing existent — since, again, negating substance and the rest holds with the same necessity either way.</p><p>The fallacious reasons have now been explained; the fallacious examples will be explained next.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> This is the most philosophically famous — and most difficult — passage in the treatise, and later commentators wrote entire sub-commentaries on just these four cases. The first case is the simplest: a reason that is supposed to prove "permanent" turns out to sit entirely inside the class of impermanent things, so instead of proving the thesis it proves its exact opposite. It is worth noticing that this is not a new kind of reason — it is the very same reason that appeared earlier as the treatise's standing valid example ("Sound is impermanent, because it is produced"); attach it to the opposite thesis and it becomes not merely unhelpful but actively self-defeating.</p>
+          <p>The remaining three cases turn on a distinction between a term's plain, surface meaning (自相) and something further it implies (差別). The "bed or mat" example targets a Sāṃkhya argument that the senses exist "for the use of another" (i.e., for puruṣa, the Sāṃkhya's separate conscious self) — the Buddhist objection is that the very same reason, aggregation, equally implies a use-and-discard relationship the Sāṃkhya proponent never intended, undermining the argument from within rather than attacking it from outside. The "sameness-and-difference" example targets the Vaiśeṣika school's own category of universal being (有性, sattā): the reason offered to deny it is substance, quality, or action turns out, with equal force, to deny that it exists as anything at all. In each case the lesson is the same: a reason has to be checked not only against what it plainly says, but against everything it can equally be read as implying — an opponent's own words can double back against their own conclusion.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="fallacious-example-agreement">
+        <h2>Fallacious Examples by Agreement, Five Kinds <span class="zh-sub">似同法喻五種</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>已說似因，當說似喻。似同法喻有其五種：一、能立法不成；二、所立法不成；三、俱不成；四、無合；五、倒合。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>The fallacious reasons have now been explained; the fallacious examples will be explained next. There are five kinds of fallacious example by agreement: the proving property not established; the property to be proved not established; neither established; no connection stated; and the connection stated in reverse.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>能立法不成者，如說「聲常，無質礙故。諸無質礙，見彼是常，猶如極微。」然彼極微，所成立法常性是有，能成立法無質礙無，以諸極微質礙性故。所立法不成者，謂說「如覺」。然一切覺，能成立法無質礙有，所成立法常住性無，以一切覺皆無常故。</p></div>
+            <div class="np-translation"><p><strong>The proving property not established:</strong> saying, "Sound is permanent, because it lacks resistant materiality. Whatever lacks resistant materiality is seen to be permanent, as with an atom." But for an atom, the property to be proved (permanence) does hold, while the proving property (lacking resistant materiality) does not — atoms do possess resistant materiality. <strong>The property to be proved not established:</strong> using cognition as the example. But for cognition, the proving property (lacking resistant materiality) does hold, while the property to be proved (permanence) does not, since all cognition is impermanent.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>俱不成者，復有二種：有及非有。若言「如瓶」，有俱不成。若說「如空」，對無空論，無俱不成。無合者，謂於是處無有配合，但於瓶等雙現能立、所立二法。如言「於瓶，見所作性及無常性」。倒合者，謂應說言「諸所作者皆是無常」，而倒說言「諸無常者皆是所作」。如是名似同法喻品。</p></div>
+            <div class="np-translation"><p><strong>Neither established:</strong> this has two forms, according to whether the example exists or not. Using a pot as the example is neither-established-with-existence; using space as the example, addressed to a school that denies space exists, is neither-established-without-existence. <strong>No connection stated:</strong> when the proving and the to-be-proved properties are simply shown together in a pot or the like, with no explicit connection drawn between them — for instance, "In a pot, being produced and being impermanent are both seen." <strong>Reversed connection:</strong> saying, instead of "Whatever is produced is entirely impermanent," the reverse — "Whatever is impermanent is entirely produced." These are the fallacies of the example by agreement.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> An example is supposed to be an outside case, uncontroversial to both debaters, that actually displays the reason and the thesis's property going together. The first three fallacies here simply pick a bad case: an atom that has the property to be proved but not the reason, cognition that has the reason but not the property, or a pot/space whose very status as an example is itself still disputed (a pot, at least, is agreed to exist by both parties; space is not, if the opponent is a school that denies space is real). The last two are subtler — even with a perfectly good case in hand, the example fails if it merely displays the reason and property side by side without stating that the one entails the other, or if it states the entailment backwards. "Whatever is produced is impermanent" licenses inferring impermanence from production; its reverse does not license the inference the proof actually needs.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="fallacious-example-difference">
+        <h2>Fallacious Examples by Difference, Five Kinds <span class="zh-sub">似異法喻五種</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>似異法中，所立不遣者，且如有言「諸無常者，見彼質礙，譬如極微」。由於極微所成立法常性不遣，彼立極微是常性故，能成立法無質礙無。能立不遣者，謂說「如業」。但遣所立，不遣能立，彼說諸業無質礙故。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p><strong>The property to be proved not excluded:</strong> saying, "Whatever is impermanent is seen to have resistant materiality, as with an atom." But for an atom, the property to be proved (permanence) is not excluded, since the opponent holds atoms to be permanent — only the proving property (lacking resistant materiality) is correctly absent from it. <strong>The proving property not excluded:</strong> using karma [action] as the example. This excludes only the property to be proved, not the proving property, since that same opponent holds actions to lack resistant materiality.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>俱不遣者，對彼有論，說「如虛空」。由彼虛空不遣常性、無質礙性，以說虛空是常性故、無質礙故。不離者，謂說「如瓶，見無常性、有質礙性」。倒離者，謂如說言「諸質礙者皆是無常」。如是等似宗、因、喻言，非正能立。</p></div>
+            <div class="np-translation"><p><strong>Neither excluded:</strong> addressing a school that accepts space as real, using space as the example — that school excludes neither permanence nor the lack of resistant materiality from space, since it holds space to be both. <strong>Not [shown to be] inseparable:</strong> saying, "As with a pot, in which impermanence and resistant materiality are both seen" — without stating that wherever one is absent, so is the other. <strong>Reversed exclusion:</strong> saying, "Whatever has resistant materiality is entirely impermanent," instead of properly stating that whatever is permanent lacks resistant materiality.</p><p>Statements of the thesis, the reason, and the example of these kinds do not amount to a genuine proof.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> The example by difference runs the same five failure modes in the negative direction: instead of showing where the reason and property are both <em>present</em> together, it has to show them both <em>absent</em> together, everywhere outside the homologous class. The same standing example, an atom, does double duty here as a case where permanence — the property that is supposed to be entirely excluded — is not actually excluded by the opponent's own commitments, showing how the very same test case can expose a different flaw depending on which direction of the example is being checked. With this, all ten fallacious examples (five by agreement, five by difference) are complete, and with them, all three parts of the proof (thesis, reason, example) have now been shown in both their valid and fallacious forms.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="perception-inference">
+        <h2>Direct Perception and Inference <span class="zh-sub">現量、比量</span></h2>
+        <p>Having finished proof and refutation — the tools of debate, for awakening others — the treatise turns to the second half of its opening verse: the tools of private reasoning, for awakening oneself.</p>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>復次為自開悟，當知唯有現、比二量。此中現量，謂無分別。若有正智於色等義，離名種等所有分別，現現別轉，故名現量。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>Next, for the sake of awakening oneself, one should know that there are only two valid means of knowledge: direct perception and inference.</p><p>Direct perception here means cognition free of conceptual construction. Whenever correct cognition, with respect to an object such as visible form, is free of all the conceptual construction bound up with names, universals, and the like, and instead arises vividly, distinctly, in direct contact with each particular — this is called direct perception.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>言比量者，謂藉眾相而觀於義。相有三種，如前已說。由彼為因，於所比義有正智生，了知有火或無常等，是名比量。於二量中，即智名果，是證相故。如有作用而顯現故，亦名為量。</p></div>
+            <div class="np-translation"><p>Inference means observing an object indirectly, by way of a set of characteristics. The characteristics are of three kinds, as already explained above — the three characteristics of a valid reason. When correct cognition of the object to be inferred arises on the basis of these as the cause — coming to know, for instance, that there is fire, or that something is impermanent — this is called inference. Within these two means of knowledge, it is the resulting cognition itself that is called the "result," since it is what verifies the object; and because it functions in this way, making the object manifest, it too is called a "means of knowledge."</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> This is a compressed statement of Dignāga's epistemology, taken over directly into this treatise. <strong>Direct perception</strong> is defined negatively, as whatever is free of conceptual construction (分別) — the moment raw sensation gets bundled together with a name ("this is a pot") or sorted into a category, it is no longer perception in this strict sense, only conceptual thought riding on the back of perception. <strong>Inference</strong> is exactly the machinery built up over the whole treatise so far: reasoning correctly from a reason that satisfies the three characteristics to a conclusion about something not directly observed. The closing remark — that the "result" of knowing and the act of knowing are, in a sense, the same thing — is a famous and difficult point in Dignāga's system (the identity of pramāṇa and phala): the treatise does not defend it here, only states it in passing.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="fallacious-perception-inference">
+        <h2>Fallacious Perception and Fallacious Inference <span class="zh-sub">似現量、似比量</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>有分別智於義異轉，名似現量。謂諸有智了瓶衣等分別而生，由彼於義不以自相為境界故，名似現量。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>Cognition involving conceptual construction, which turns toward its object in a distorted way, is called fallacious perception. Any cognition that arises through conceptually recognizing something as "a pot," "a cloth," and so on, is called fallacious perception, because it does not take the object's own particular, unmediated characteristic as its objective sphere.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>若似因智為先所起諸似義智，名似比量。似因多種，如先已說。用彼為因，於似所比諸有智生，不能正解，名似比量。</p></div>
+            <div class="np-translation"><p>Any cognition of a merely apparent object, arising on the basis of a preceding cognition that used a fallacious reason, is called fallacious inference. The fallacious reasons are of the many kinds already explained above. Using one of these as a cause, various cognitions arise concerning what is only apparently to be inferred, without producing genuine understanding — these are called fallacious inference.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> These two definitions close the loop with everything the treatise has already built. Fallacious perception is simply ordinary, everyday conceptual cognition — recognizing "a pot" as a pot — reclassified, from the strict standard set above, as falling short of genuine direct perception. Fallacious inference is not a new category of error at all; it is just what happens whenever any of the fallacious reasons catalogued earlier (non-establishment, inconclusiveness, contradiction) actually gets used to draw a conclusion. The entire middle of the treatise, in other words, was already teaching what fallacious inference looks like — this section only supplies the label.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="refutation">
+        <h2>Refutation and Fallacious Refutation <span class="zh-sub">能破、似能破</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>復次若正顯示能立過失，說名能破。謂初能立缺減過性、立宗過性、不成因性、不定因性、相違因性及喻過性，顯示此言開曉問者，故名能破。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>Next, correctly pointing out the faults of an opponent's proof is called "refutation." That is: pointing out that the proof is missing one of its opening parts, that the thesis is faulty, that the reason is unestablished, that the reason is inconclusive, that the reason is contradictory, or that the example is faulty — when a statement making one of these points clear brings understanding to the one who raised the question, it is called "refutation."</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>若不實顯能立過言，名似能破。謂於圓滿能立顯示缺減性言、於無過宗有過宗言、於成就因不成因言、於決定因不定因言、於不相違因相違因言、於無過喻有過喻言。如是言說，名似能破，以不能顯他宗過失，彼無過故。且止斯事。</p></div>
+            <div class="np-translation"><p>If a statement does not truly point out a fault in the opponent's proof, it is called "fallacious refutation." That is: declaring a complete proof to be deficient; declaring a faultless thesis to be faulty; declaring a valid reason to be unestablished; declaring a conclusive reason to be inconclusive; declaring a non-contradictory reason to be contradictory; or declaring a faultless example to be faulty. Statements of this kind are called fallacious refutation, since they fail to point out any actual fault in the opponent's thesis — there being no fault there to begin with.</p><p>Let this much suffice on this matter.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> With this, the treatise closes its own circle one last time. Refutation is not a separate skill from everything already taught — it is simply the ability to correctly locate, in an opponent's argument, exactly which of the fallacies catalogued on this page has occurred. Fallacious refutation is the mirror-image abuse of that same skill: accusing a sound argument of a fault it does not have. The final line — "let this much suffice" — is Śaṅkarasvāmin himself signaling that the main body of the treatise is finished; the closing verse follows immediately.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="closing-verse">
+        <h2>The Closing Verse <span class="zh-sub">結頌</span></h2>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>已宣少句義，為始立方隅；其間理非理，妙辯於餘處。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>I have now set forth, in a few brief words, the essential meaning of this science — enough to establish, as a beginning, its four corners. The finer distinctions within it, of what is sound reasoning and what is not, are argued skillfully, at length, elsewhere.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> A modest close, entirely in keeping with the project stated at the start: this treatise was written to be an entry point (入正理), not the final word. "Elsewhere" (餘處) points back to Dignāga's own much larger works, the <em>Nyāyamukha</em> and the <em>Pramāṇasamuccaya</em> — a reader who has worked through this page now has the vocabulary and the basic tests needed to take those on.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="postface">
+        <h2>Translator's Postface <span class="zh-sub">後序</span></h2>
+        <p>CBETA's edition marks this closing passage explicitly as a "後序" (postface) — a separate document, appended after the treatise proper, most likely composed by Xu Jingzong (許敬宗), the senior Tang court official who supervised the translation and whose title and voice appear near its end. It is written in the ornate, allusive parallel prose (駢文) typical of a formal Tang preface, glossing the treatise's own title character by character before turning to Dignāga, Śaṅkarasvāmin, Emperor Taizong's patronage, and finally Xuanzang's own journey to India — including the two teachers from whom he learned this very science of logic.</p>
+        <div class="np-table">
+          <div class="np-row">
+            <div class="np-source"><div class="np-label">Chinese Source</div><p>因明入正理論者，蓋乃抗辯標宗、摧邪顯正之閫閾也。因談照實；明彰顯理；入言趣本；正以離邪；論之者，較言旨歸、審明要會也。</p></div>
+            <div class="np-translation"><div class="np-label">Ru-Yi Translation</div><p>As for the <em>Nyāyapraveśa</em> — it is the very threshold of debate: it sets forth a thesis, and it crushes the false to reveal the true. "Hetu" [因, "reason"] speaks of illuminating what is real; "vidyā" [明, "science"] speaks of making principle manifest; "entering" [入] speaks of proceeding to the root; "right" [正] means departing from the false; and "treatise" [論] means weighing words to their essential point, examining and clarifying what matters most.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>昔應符道樹茲義備焉，登庸鹿林斯風扇矣。六師稽顙而卷舌，十仙請命以知歸。非天靈曜寢光、邪津鼓浪，同惡孔熾寔繁有徒，所以世親弘盛烈於前，陳那纂遺芳於後，揚真殄謬、夷難解紛，至矣神功備詳餘論。</p></div>
+            <div class="np-translation"><p>Long ago, this meaning was already complete beneath the bodhi tree; by the time the Buddha rose to teach at Deer Park, this same wind was already stirring. The six [heterodox] teachers bowed their heads to the ground and fell silent; even the ancient seers sought guidance in order to know where to turn. Yet the divine light did not shine everywhere without interruption, and heterodox currents still stirred their waves — companions in error flourished, and their followers were many. And so Vasubandhu spread its splendor before, and Dignāga gathered its remaining fragrance after — raising up the true, eliminating the false, leveling every difficulty and untangling every dispute. Of the fullness of this achievement, other treatises give the complete account.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>粵有天主菩薩亞聖挺生，博綜研詳，聿修前緒，撰略精祕，逗適時機，啟以八門通其二益，芟夷五分取定三支，其義簡而彰，其文約而顯。西方時彥鑽仰彌深，自非履此通規，未足預其高論。</p></div>
+            <div class="np-translation"><p>Then Bodhisattva Deva-lord [Śaṅkarasvāmin] arose, a sage second only to the greatest — broadly learned, thorough in his study, he carried forward what his teacher had begun, composing a concise and refined digest suited to the capacities of his time. He opened it with eight approaches, making its two benefits accessible; he pruned away the [older] five-part [form] to fix on the three. Its meaning, though brief, is clear; its text, though concise, is plain. Scholars of the Western lands, probing it ever more deeply, found in it exactly this: that without first walking this common path, one is not yet fit to take part in the higher discourse [of the larger treatises].</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>大唐皇帝乘時啟聖，闡金鏡而運金輪，納錄嗣明，振玉鼓而調玉燭，洞敷玄化、載緝彝章，爇慧炬而鑒昏城，艤智舟而濟苦海。</p></div>
+            <div class="np-translation"><p>The Emperor of the great Tang, meeting his moment, opened forth his sagacity — unfurling the golden mirror [of good rule] and turning the golden wheel; receiving the mandate and carrying its brightness forward; sounding the jade drum and tuning the jade candle. Thoroughly he spread his transforming virtue abroad, and wove anew its proper order; he lit the torch of wisdom to illuminate the benighted city, and moored the boat of wisdom to ferry beings across the sea of suffering.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>我三藏法師玄奘，神悟爽拔峻節冠群，行四勤如不及、瞻三宗而好問，漢地先達各擅專門，寓目必察其微、納心並殫其妙。嗟乎聖迹緜遠、像教陵夷，未嘗不臨訛文以喟然、撫疑義而太息。望葱山而高視，期鷲峯而遠遊。</p></div>
+            <div class="np-translation"><p>Our Tripiṭaka Master Xuanzang, whose spiritual insight was extraordinary and whose lofty integrity stood above the crowd, practiced diligence in all things as though he could never do enough, and, looking up to the three vehicles, loved to inquire. The accomplished scholars of China each specialized in their own field; whatever met his eye, he was sure to examine its subtlety, and whatever he took to heart, he exhausted its meaning fully. Alas — the Buddha's sacred traces had grown ever more distant, and the teaching had fallen into decline; he could never come upon a corrupted text without a sigh, or handle a doubtful passage without a long lament. He looked toward the Pamirs with lofty aspiration, and set his hope on a distant journey to Vulture Peak.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>既而冒險乘危詢師訪道，行達北印度迦濕彌羅國，屬大論師僧伽耶舍，稽疑八藏、考決五乘。論師以大義磐根嘉其素蓄，唯因明妙術誨其未喻，梵音覯止氷釋于懷。後於中印度摩竭陀國，遇尸羅跋陀羅菩薩，更廣其例，觸類而長、優而柔之。於是遍謁遺靈、備訊餘烈，雖遇鍱腹，縱辯無前，風偃邪徒；抑兼茲論，旋弘周化，景福會昌。</p></div>
+            <div class="np-translation"><p>And so, braving every danger, he sought out teachers and inquired after the way, until he reached the kingdom of Kashmir in northern India. There he met the great treatise-master Saṅghayaśas, with whom he examined doubtful points across the eight canons and settled questions concerning the five vehicles. The Master, recognizing the firm foundation of learning Xuanzang already carried, instructed him in the subtle art of hetuvidyā where his understanding was not yet complete — and on hearing the Sanskrit exposition, every doubt melted like ice in his heart. Later, in the kingdom of Magadha in central India, he met Bodhisattva Śīlabhadra, who extended his examples still further, drawing out one class of things to illuminate another, refining his understanding further still. From there he called on every remaining trace of the sacred teaching and questioned every surviving master of renown; though he met debaters said to bind an iron plate around their own bellies for fear their learning would burst them, his eloquence, unmatched, laid every heterodox current to rest. This treatise, carried among them, was swiftly spread on every side, and fortune gathered and flourished around it.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>粵以貞觀二十一年秋八月六日，於弘福寺承詔譯訖。弘福寺沙門明濬筆受證文，弘福寺沙門玄謨證梵語，大總持寺沙門玄應正字，大總持寺沙門道洪、實際寺沙門明琰、羅漢寺沙門慧貴、寶昌寺沙門法祥、弘福寺沙門文備、廓州法講寺沙門道深、蒲州栖巖寺沙門神泰，詳證大義。銀青光祿大夫行左庶子高陽縣開國男臣許敬宗奉詔監譯。</p></div>
+            <div class="np-translation"><p>On the sixth day of the eighth month of autumn, in the twenty-first year of the Zhenguan era [647 CE], the translation was completed by imperial decree at Hongfu Monastery. The monk Ming-jun of Hongfu Monastery took down the text and verified its wording; the monk Xuanmo of Hongfu Monastery verified the Sanskrit; the monk Xuanying of Great Zongchi Monastery corrected the characters; the monks Daohong of Great Zongchi Monastery, Mingyan of Shiji Monastery, Huigui of Luohan Monastery, Faxiang of Baochang Monastery, Wenbei of Hongfu Monastery, Daoshen of Fajiang Monastery in Guozhou, and Shentai of Qiyan Monastery in Puzhou examined and verified its essential meaning. Xu Jingzong, Silver-and-Blue Grand Master of the Palace, Acting Vice Director of the Left of the Household of the Heir Apparent, Founding Baron of Gaoyang County, received the decree to supervise the translation.</p></div>
+          </div>
+          <div class="np-row">
+            <div class="np-source"><p>三藏法師以虛已應物闢此幽關，義海淼其無源、詞峯峻而難仰，異方秀傑同稟親承，筆記玄章並行於世。余以不敏妄忝吹噓，受旨證文偶茲嘉會，敢錄時事貽諸後毘，勝範鴻因無泯來際。</p></div>
+            <div class="np-translation"><p>The Tripiṭaka Master, emptying himself to meet each occasion, opened up this hidden gate; the sea of its meaning is so vast as to be fathomless, and the peak of its diction so steep as to be hard to look up to — yet outstanding scholars of foreign lands received it alike in person, and the record of its profound chapters now circulates together throughout the world. As for myself, unworthy as I am, I have been entrusted beyond my merit with adding my own small praise; having received the charge to verify the text, I happened upon this fortunate occasion, and I have dared to record these events of the time to hand down to those who come after — may this excellent example, and the far-reaching cause behind it, never be extinguished in the ages to come.</p></div>
+          </div>
+        </div>
+        <div class="np-note">
+          <p><strong>Reading note:</strong> A few historical details are worth drawing out. "Bodhisattva Deva-lord" (天主菩薩) is this postface's own Chinese gloss on the name Śaṅkarasvāmin — reading "Śaṅkara" as an epithet of Śiva ("the Lord") and "svāmin" as "lord" or "master," hence "Deva[-lord]." "The eight canons" and "the five vehicles" refer to the broad scope of Buddhist and Brahmanical learning Xuanzang tested himself against at each stop of his journey. Saṅghayaśas in Kashmir and Śīlabhadra at Nālandā, in Magadha, are named here as the two teachers who personally instructed Xuanzang in hetuvidyā — this treatise's own science — before he ever brought it back to China to translate.</p>
+          <p>The image of a debater binding an iron plate around his own belly (鍱腹) is a piece of legendary color: a boast, told of certain famously erudite (or famously arrogant) Indian debaters, that their learning was so vast it might otherwise burst their stomachs. The postface uses it to set up Xuanzang's unmatched eloquence in reply. And the closing paragraph's first-person voice — "as for myself, unworthy as I am" — is very likely Xu Jingzong speaking for himself, in his role as the official who supervised and verified the translation, rounding off the whole postface with his own modest signature.</p>
+        </div>
+      </section>
+
+      <section class="np-section" id="notes" style="border-bottom:0; margin-bottom:0; padding-bottom:0;">
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent throughout the page. See the full <a href="https://github.com/lukelin7429/ruyi-meditation/blob/main/sutras/nyayapravesa/translation-notes.md" target="_blank" rel="noopener">translation-notes.md</a> in the site repository for the complete glossary, including terms not repeated here.</p>
+        <div class="term-grid">
+          <div class="term"><b>因明 — hetuvidyā</b><span>"The science of reasons" — Buddhist logic and epistemology, one of the five classical sciences of Indian learning.</span></div>
+          <div class="term"><b>宗、因、喻 — thesis, reason, example</b><span>三支, "the three parts": Dignāga's streamlined syllogism, replacing the older five-part form of Nyāya logic.</span></div>
+          <div class="term"><b>能立 / 能破 — proof / refutation</b><span>Correctly establishing a thesis, and correctly pointing out a genuine flaw in an opponent's proof.</span></div>
+          <div class="term"><b>似能立 / 似能破 — fallacious proof / fallacious refutation</b><span>An argument that only appears valid; an objection aimed at a proof that has no real flaw.</span></div>
+          <div class="term"><b>現量 / 比量 — direct perception / inference</b><span>The two valid means of knowledge: cognition free of conceptual construction, and cognition arrived at through a valid reason.</span></div>
+          <div class="term"><b>因三相 — the three characteristics of a valid reason</b><span>Pervading the subject; definitely present in the homologous class; entirely absent from the heterologous class.</span></div>
+          <div class="term"><b>同品 / 異品 — the homologous class / the heterologous class</b><span>Sapakṣa and vipakṣa: instances that already share, or already lack, the property the thesis is trying to establish.</span></div>
+          <div class="term"><b>九句因 — the nine forms of the reason</b><span>Dignāga's Hetucakra: the full grid of ways a reason can distribute across the two classes — two valid, two contradictory, five inconclusive.</span></div>
+        </div>
+      </section>
+
+    </div>
+  </section>
+</article>

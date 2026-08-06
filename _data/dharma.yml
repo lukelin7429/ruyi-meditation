@@ -19,8 +19,8 @@ abhidharma:
 sutras:
   # Distinct live Mahāyāna works on /sutras/ (excludes "coming soon"
   # placeholders). Currently: Heart Sūtra, 大智度論, 瑜伽師地論, 淨行品,
-  # 楞嚴經, and Master Yuanying's 楞嚴經講義.
-  live_texts: 6
+  # 楞嚴經, Master Yuanying's 楞嚴經講義, and 因明入正理論 (complete).
+  live_texts: 7
 
 discourses:
   # Live collections on /discourses/ (MN, DN, AN, SN, Dhammapada,
