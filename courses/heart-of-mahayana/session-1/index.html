@@ -1,0 +1,189 @@
+---
+layout: default
+title: "Session 1 · The Heart Sūtra (The Heart of the Mahāyāna)"
+permalink: /courses/heart-of-mahayana/session-1/
+excerpt: Session 1 of The Heart of the Mahāyāna — reading the Heart Sūtra's wall of negations through the two-kinds-of-negation lens from Collected Topics Session 5.
+---
+
+<style>
+  .hs{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--gold-deep:#b8862e;--jade:#2f6d5e;--jade-deep:#234f44;
+      --cream:#fbf5ea;--ink:#251f1a;--ink-soft:#6b625a;--line:#eadfce;}
+  .hs *{box-sizing:border-box;}
+  .hs-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .hs-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .hs-crumb .hs-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .hs-crumb a{color:var(--terra);text-decoration:none;}
+  .hs-crumb a:hover{text-decoration:underline;}
+
+  .hs-hero{background:linear-gradient(158deg,#b8431c 0%,#8c2f12 46%,#4a1808 100%);color:#fff;}
+  .hs-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .hs-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .hs-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .hs-hero .subt{font-style:italic;font-size:18px;color:#f9ede0;}
+  .hs-hero .rd{margin-top:22px;font-size:14px;color:#f0d9c4;}
+  .hs-hero .rd b{color:var(--gold);}
+
+  .hs-body{background:#fff;padding:44px 0 24px;}
+  .hs-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .hs-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .hs-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .hs-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .hs-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .hs-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--terra-deep);margin:34px 0 10px;}
+
+  .hs-quote{border-left:4px solid var(--gold);background:var(--cream);padding:18px 24px;border-radius:0 12px 12px 0;margin:24px 0;
+    font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:var(--terra-deep);}
+
+  .hs-recap{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0;}
+  .hs-recap span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:14px;color:var(--ink);}
+  .hs-recap span b{color:var(--terra-deep);}
+
+  .hs-take{background:linear-gradient(180deg,#fdfaf4,#f7eddc);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .hs-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--terra-deep);margin-bottom:8px;}
+  .hs-take ul{margin:0;padding-left:20px;}
+  .hs-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
+  .hs-take li b{color:var(--gold-deep);}
+
+  .hs-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .hs-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .hs-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .hs-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .hs-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .hs-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+
+  .hs-disc{counter-reset:d;list-style:none;padding:0;margin:18px 0;}
+  .hs-disc li{counter-increment:d;position:relative;padding:14px 18px 14px 54px;border-bottom:1px solid var(--line);font-size:16.5px;line-height:1.6;color:var(--ink);}
+  .hs-disc li:last-child{border-bottom:none;}
+  .hs-disc li::before{content:"Q" counter(d);position:absolute;left:16px;top:14px;font-family:'Playfair Display',serif;font-weight:700;color:var(--terra);font-size:15px;}
+
+  .hs-opt{border:1px solid var(--line);border-radius:14px;padding:22px 24px;margin:14px 0;background:#fff;}
+  .hs-opt b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .hs-opt p{font-size:16px;line-height:1.65;color:var(--ink-soft);margin:0;}
+
+  .hs-next{background:var(--terra-deep);color:#f9ede0;border-radius:16px;padding:28px 32px;margin:40px 0 20px;}
+  .hs-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .hs-next h3{font-family:'Playfair Display',serif;color:#fff;font-size:22px;margin:8px 0 8px;}
+  .hs-next p{color:#f0d9c4;font-size:15.5px;line-height:1.65;margin:0;}
+
+  .hs-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .hs-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .hs-btn.primary{background:linear-gradient(158deg,#b8431c,#8c2f12);color:#fff;box-shadow:0 12px 26px -14px rgba(140,47,18,.7);}
+  .hs-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(140,47,18,.8);text-decoration:none;}
+  .hs-btn.ghost{border:1.5px solid var(--terra);color:var(--terra);background:transparent;}
+  .hs-btn.ghost:hover{background:var(--terra);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .hs .hs-crumb,.hs-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .hs-hero{background:none;color:#000;padding:0;}
+    .hs-hero-in{padding:0 0 12px;}
+    .hs-eyebrow,.hs-hero .subt,.hs-hero .rd{color:#444;}
+    .hs-hero h1{color:#000;}
+    .hs-body{padding:0;}
+    .hs-body p,.hs-body h3,.hs-part h2,.hs-take li,.hs-disc li{color:#000;}
+    .hs-quote,.hs-take,.hs-opt{background:#fff !important;border:1px solid #bbb;}
+    .hs-next{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .hs-next h3,.hs-next p,.hs-next .l{color:#000;}
+    .hs{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="hs">
+
+  <nav class="hs-crumb"><div class="hs-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/heart-of-mahayana/' | relative_url }}">The Heart of the Mahāyāna</a> → Session 1</div></nav>
+
+  <!-- HERO -->
+  <section class="hs-hero">
+    <div class="hs-hero-in">
+      <div class="hs-eyebrow">Session 1 · Reading negation as a tool, not an obstacle</div>
+      <h1>The Heart Sūtra</h1>
+      <div class="subt">《般若波羅蜜多心經》 — 260 characters, and a lifetime to fathom</div>
+      <div class="rd"><b>Before class:</b> Collected Topics Session 5 (What It Means to Deny Something) is genuinely useful here, though not required.</div>
+    </div>
+  </section>
+
+  <div class="hs-body">
+    <div class="hs-wrap">
+
+      <!-- PART 1 -->
+      <div class="hs-part"><div class="pn">Part 1</div><h2>Lecture Notes</h2></div>
+
+      <h3>A text made almost entirely of "no"</h3>
+      <p>Open the Heart Sūtra and, within a page, you're standing in a hallway of doors slamming shut: no form, no feeling, no eye, no ear, no suffering, no path, no wisdom, no attainment. First-time readers — Western readers especially — usually land on one of two conclusions: either the text is nihilistic ("nothing is real, nothing matters"), or it's a kind of elegant word-game with no real content. Neither is right, and Collected Topics gave you the exact tool to see why.</p>
+
+      <h3>Bringing back the two kinds of "no"</h3>
+      <p>Quick recap of Session 5's distinction:</p>
+      <div class="hs-recap">
+        <span><b>Flat Denial</b> (無遮) — denies something, implies nothing else in its place</span>
+        <span><b>Loaded Denial</b> (非遮) — denies something while implying something specific remains</span>
+      </div>
+      <p>Here's the reading question this session actually turns on: when the Heart Sūtra says "no suffering, no path," is that a Loaded Denial — quietly implying "…therefore nothing is real, nothing matters" — or a Flat Denial, clearing away one specific kind of claim (that these things exist as fixed, independent, separate essences) without asserting anything about existence in general?</p>
+      <div class="hs-quote">Read as a Loaded Denial, the sūtra teaches nihilism. Read as a Flat Denial, it teaches freedom. The whole text hinges on which one you bring to it.</div>
+      <p style="font-size:15px;color:var(--ink-soft);"><em>A caution, in fairness: whether any single clause of the sūtra is technically 無遮 or 非遮 in the strict scholastic sense is itself a real, contested question among Madhyamaka commentators — this isn't the traditional classification, it's a lens borrowed from your own training to keep your reading honest.</em></p>
+
+      <h3>What the negations are actually denying</h3>
+      <p>Each "no X" in the sūtra is best read as denying that X has a <strong>fixed, independent, self-standing existence</strong> — not denying that X appears, functions, or matters at all. "No suffering" doesn't mean pain isn't felt; it means suffering has no separate, frozen essence sitting behind the felt experience, unconnected to causes and conditions. That's a Flat Denial about a specific kind of existence — not a Loaded Denial implying "nothing is real."</p>
+
+      <div class="hs-take">
+        <b class="h">Why this matters before you read the full text</b>
+        <ul>
+          <li><b>The nihilism misreading is a Loaded-Denial mistake.</b> It smuggles in "therefore nothing matters" where the text never actually says that.</li>
+          <li><b>The word-game misreading misses that something real is being denied</b> — fixed, independent existence — just not what casual readers assume.</li>
+          <li><b>This is the same skill, pointed at something that matters.</b> Collected Topics trained the move; here is where it does real work.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="hs-part"><div class="pn">Part 2</div><h2>Primary Text<span class="rf">The full sūtra, with its own reading guide and quiz</span></h2></div>
+      <p>Read the sūtra now, with the negation lens from Part 1 in hand. Its own reading guide goes deep on every clause — the five aggregates, the great negation, "no obstruction, no fear," and the closing mantra — and ends with a ten-question self-check.</p>
+      <a class="hs-textcard" href="{{ '/sutras/heart-sutra.html' | relative_url }}">
+        <div class="trad">Mahāyāna · The Perfection of Wisdom</div>
+        <h3>The Heart Sūtra — full text &amp; reading guide</h3>
+        <p>Xuanzang's 649 CE Chinese text alongside an original English translation, a structured commentary, key terms, and a self-check quiz.</p>
+        <span class="go">Read the sūtra →</span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="hs-part"><div class="pn">Part 3</div><h2>Discussion Questions</h2></div>
+      <ol class="hs-disc">
+        <li>Take "no suffering, no origin, no cessation, no path" — the negation of the Four Noble Truths. Write out what it would mean read as a Loaded Denial, and what it would mean read as a Flat Denial. Which does the sūtra's own reading guide support?</li>
+        <li>Compare this to Session 5's example, "the heavy man does not eat during the day" — a textbook Loaded Denial. Is the Heart Sūtra doing anything structurally similar anywhere, or is it Flat Denial all the way through?</li>
+        <li>"Form is emptiness, emptiness is form" runs both directions. Using Collected Topics Session 2's language, are "form" and "emptiness" being treated as one entity, different entities, or something the course hasn't given you a name for yet?</li>
+        <li>Where did your own first instinct land — nihilism, word-games, or something closer to what the text actually intends? What changed, if anything, once you applied the negation lens?</li>
+      </ol>
+
+      <!-- PART 4 -->
+      <div class="hs-part"><div class="pn">Part 4</div><h2>Assignment<span class="rf">Choose one · half to one page · bring it next session</span></h2></div>
+      <div class="hs-opt">
+        <b class="h">Option A — Diagnose one negation</b>
+        <p>Pick a single "no X" clause from the sūtra's great negation (Movement IV in the text). Write both a Loaded-Denial reading and a Flat-Denial reading of it, then argue, using the sūtra's own language, which one the text intends.</p>
+      </div>
+      <div class="hs-opt">
+        <b class="h">Option B — Explain it to a skeptic</b>
+        <p>Write a short explanation, for someone who's never read the sūtra, of why "no suffering, no path" is not the same claim as "suffering doesn't matter." Use the Flat Denial / Loaded Denial distinction explicitly.</p>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="hs-part"><div class="pn">Part 5</div><h2>Self-Check</h2></div>
+      <p>The sūtra's own page has a ten-question quiz covering the full text — the aggregates, the great negation, the mantra, and the common objections. Take it there before moving on.</p>
+      <p><a class="hs-btn ghost" href="{{ '/sutras/heart-sutra.html' | relative_url }}#quiz">Take the self-check quiz →</a></p>
+
+      <!-- NEXT -->
+      <div class="hs-next">
+        <div class="l">Looking ahead</div>
+        <h3>More sessions in progress</h3>
+        <p>The Diamond Sūtra takes a different route to the same insight — not lists methodically negated, but a series of unsettling questions the Buddha puts to Subhūti. Being piloted before it's published here.</p>
+      </div>
+
+      <div class="hs-foot">
+        <a class="hs-btn ghost" href="{{ '/courses/heart-of-mahayana/' | relative_url }}">← Course overview</a>
+        <button type="button" class="hs-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
