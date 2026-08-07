@@ -94,7 +94,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
         </ul>
         <div class="sjy-stats">
           <div class="sjy-stat"><b>24</b> fascicles in Yuanying's commentary</div>
-          <div class="sjy-stat"><b>20</b> fascicles complete so far</div>
+          <div class="sjy-stat"><b>21</b> fascicles complete so far</div>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
     <div class="sjy-wrap">
       <div class="sjy-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–20 — the tenfold preliminary analysis, the four categories and seven great elements harmonized with the tathāgatagarbha, Ānanda's verse of gratitude, Pūrṇa's cosmogony questions, the complete teaching of the three aspects of the tathāgatagarbha, the parable of Yajñadatta, the sūtra's practical teaching on the two decisive meanings, the famous six-knotted cloth demonstration, all twenty-five disciples' testimonies to perfect penetration (Avalokiteśvara's own testimony spanning fascicles 15–16), Mañjuśrī's own verse selecting the ear-faculty as best suited to this world, the complete four clear instructions with the elaborate building of the ritual platform, the full account of the Śūraṅgama Mantra's structure, benefits, and protector deities, the complete fifty-five stages of the path from dry wisdom to wondrous enlightenment, and the detailed teaching on how emotion and thought decide rebirth among hell, hungry ghosts, and animals — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
+        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–21 — the tenfold preliminary analysis, the four categories and seven great elements harmonized with the tathāgatagarbha, Ānanda's verse of gratitude, Pūrṇa's cosmogony questions, the complete teaching of the three aspects of the tathāgatagarbha, the parable of Yajñadatta, the sūtra's practical teaching on the two decisive meanings, the famous six-knotted cloth demonstration, all twenty-five disciples' testimonies to perfect penetration (Avalokiteśvara's own testimony spanning fascicles 15–16), Mañjuśrī's own verse selecting the ear-faculty as best suited to this world, the complete four clear instructions with the elaborate building of the ritual platform, the full account of the Śūraṅgama Mantra's structure, benefits, and protector deities, the complete fifty-five stages of the path from dry wisdom to wondrous enlightenment, and the entire seven-destinies teaching — hell, hungry ghosts, animals, humans, immortals, all the heavens of the desire, form, and formless realms, and the asuras, closing with the declaration that none of the seven destinies has any real, inherent existence at all — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
       </div>
 
       <div class="sjy-featured">
@@ -161,6 +161,14 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
           <span class="tag">Complete</span>
           <h3>Fascicle 20: Ten Habits, Six Crossings, One Wheel of Rebirth</h3>
           <p>How the ratio of emotion to thought at death decides a being's destiny, the ten habitual causes and six cross-referenced retributions of hell in full clause-by-clause detail, the ten kinds of hungry ghosts, and the animal realm's own long accounting of debts owed and repaid.</p>
+        </div>
+      </div>
+
+      <div class="sjy-featured">
+        <div class="feature" data-rv>
+          <span class="tag">Complete</span>
+          <h3>Fascicle 21: From Human Debt to the Summit of the Formless Realm</h3>
+          <p>The human destiny's own debts of goods and of life, the ten classes of humans returning from the animal realm, the ten kinds of immortals with the full story of Lü Dongbin and Chan Master Huanglong, all the heavens of the desire, form, and formless realms in exact cosmological detail, and the four kinds of asuras — closing the entire seven-destinies teaching with the declaration that none of it has any real, inherent existence at all.</p>
         </div>
       </div>
 
@@ -285,6 +293,12 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">The ten habitual causes and six cross-referenced retributions of hell, the ten kinds of hungry ghosts, and the animal realm — complete.</span>
+        </a>
+        {% elsif i == 21 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra-jiangyi/fascicle-021/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The human and immortal destinies, all the heavens of the desire, form, and formless realms, and the four kinds of asuras — closing the seven-destinies teaching — complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://book.bfnn.org/books2/{{ 1471 | plus: i }}.htm" target="_blank" rel="noopener" data-rv>
