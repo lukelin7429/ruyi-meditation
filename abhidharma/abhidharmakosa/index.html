@@ -269,6 +269,12 @@ excerpt: A plain-English study entrance to Vasubandhu's Abhidharmakośa (俱舍�
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Complete: the container world's physical architecture, from the wind, water, and gold wheels through Mount Sumeru, the four continents, the hells, the heavens, and body sizes and lifespans across every realm.</span>
         </a>
+        {% elsif i == 12 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/abhidharma/abhidharmakosa/fascicle-012/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }} · Ch. {{ ch }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The smallest units of form, name, and time, the full measurement chain from an atom to a yojana and an instant to a year, and the cosmic cycles of a great kalpa. In progress.</span>
+        </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/T29n1558_{{ padded }}" target="_blank" rel="noopener" data-rv>
           <span class="vol-num">Fascicle {{ i }} · Ch. {{ ch }}</span>
