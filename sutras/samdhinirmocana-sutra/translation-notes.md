@@ -49,6 +49,13 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 六識身 | the six bodies of consciousness | Eye-, ear-, nose-, tongue-, body-, and mental consciousness collectively. |
 | 分別意識 | discriminating mental consciousness | The mental consciousness that turns together with one or more of the five sense-consciousnesses. |
 | 法住智 | wisdom that abides in Dharma | Chapter 3's basis for understanding the functioning of mind, intellect, and consciousness. |
+| 諸法相 | the characteristics of dharmas | Chapter 4's topic. Keep "characteristic" for 相 even though the system corresponds to the Three Natures. |
+| 遍計所執相 | the discriminated, attached-to characteristic | Chapter 4 form of the first of the Three Natures; matches the Cheng Weishi Lun's "discriminated, attached-to nature." |
+| 依他起相 | the dependent characteristic | Chapter 4 form of the second of the Three Natures. |
+| 圓成實相 | the perfectly accomplished characteristic | Chapter 4 form of the third of the Three Natures. |
+| 無相法 | dharmas without characteristics | In chapter 4, what is known by understanding the discriminated, attached-to characteristic upon the dependent characteristic. |
+| 雜染相法 | dharmas with the characteristic of defilement | Known through the dependent characteristic. |
+| 清淨相法 | dharmas with the characteristic of purity | Realized through the perfectly accomplished characteristic. |
 
 ## Relationship to the Cheng Weishi Lun glossary
 
