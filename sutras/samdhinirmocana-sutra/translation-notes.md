@@ -26,12 +26,20 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 如理請問菩薩 | Bodhisattva Who Questions According to the Principle | Functional English name; preserve the role of "questioning according to the principle." |
 | 法涌菩薩 | Bodhisattva Dharmodgata | Use the Sanskrit-style form where standard. |
 | 善清淨慧菩薩 | Bodhisattva Suviśuddhamati | Use the Sanskrit-style form where standard. |
+| 善現 | Subhūti | Render as "Elder Subhūti" when 長老 is present. |
 | 廣慧菩薩 | Bodhisattva Vast Wisdom | Functional English name until a fixed Sanskrit form is needed. |
 | 德本菩薩 | Bodhisattva Root of Virtue | Functional English name. |
 | 勝義生菩薩 | Bodhisattva Born of the Ultimate | Functional English name. |
 | 觀自在菩薩 | Avalokiteśvara Bodhisattva | Follow the site's Heart Sūtra convention. |
 | 慈氏菩薩 | Maitreya Bodhisattva | |
 | 曼殊室利菩薩 | Mañjuśrī Bodhisattva | |
+| 尋思 | ordinary thought | The conceptual, inferential activity the sūtra contrasts with direct noble realization of ultimate truth. |
+| 一異性相 | the characteristic of being one or different | Use in chapter 2 for the question of whether ultimate truth and conditioned phenomena are the same or different. |
+| 相縛 | bondage to characteristics | The bondage produced by grasping characteristics as finally real. |
+| 麁重縛 | the bondage of coarseness and heaviness | The deeper burden that remains when characteristics are not relinquished. |
+| 增上慢 | overweening pride | The pride that declares realization on the basis of something still grasped as attained. |
+| 一味相 | the characteristic of one taste | In chapter 2, the ultimate truth is one taste throughout all dharmas and path categories. |
+| 清淨所緣 | pure objective support | Keep "objective support" consistent with the site's Yogācāra usage for 所緣. |
 
 ## Relationship to the Cheng Weishi Lun glossary
 
