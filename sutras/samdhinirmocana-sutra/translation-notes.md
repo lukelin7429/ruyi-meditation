@@ -56,6 +56,14 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 無相法 | dharmas without characteristics | In chapter 4, what is known by understanding the discriminated, attached-to characteristic upon the dependent characteristic. |
 | 雜染相法 | dharmas with the characteristic of defilement | Known through the dependent characteristic. |
 | 清淨相法 | dharmas with the characteristic of purity | Realized through the perfectly accomplished characteristic. |
+| 無自性性 | naturelessness | Use as the general term for absence of own-nature. |
+| 相無自性性 | naturelessness of characteristic | First of the three naturelessnesses. |
+| 生無自性性 | naturelessness of arising | Second of the three naturelessnesses. |
+| 勝義無自性性 | naturelessness in the ultimate sense | Third of the three naturelessnesses. |
+| 法無我性 | dharma-selflessness | The selflessness of dharmas, revealed as ultimate truth. |
+| 一乘 | the one vehicle | In chapter 5, taught with hidden intent because all vehicles share the one pure path and ultimate purity, not because capacities do not differ. |
+| 了義 / 不了義 | definitive meaning / non-definitive meaning | Use in chapter 5's explanation of the third turning. |
+| 三時轉法輪 | the three turnings of the Dharma wheel | The chapter distinguishes the first, second, and third periods of teaching. |
 
 ## Relationship to the Cheng Weishi Lun glossary
 
