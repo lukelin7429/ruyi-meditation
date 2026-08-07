@@ -92,6 +92,12 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 力波羅蜜多 | the perfection of power | Companion to meditative concentration. |
 | 智波羅蜜多 | the perfection of wisdom | Companion to prajñā in the ten-perfection system. |
 | 諸地波羅蜜多了義之教 | the definitive teaching of the grounds and perfections | The chapter's own title for this teaching. |
+| 法身 | dharma-body | In chapter 8, the Tathāgata's dharma-body is the completed transformation of the basis through the grounds and perfections. |
+| 解脫身 | liberation-body | The body attained by śrāvakas and solitary buddhas; equal in liberation but distinct from the Tathāgata's dharma-body. |
+| 化身 | transformation body | The Tathāgata's displayed body that appears, teaches, and benefits sentient beings. |
+| 契經 / 調伏 / 本母 | sūtra / discipline / matrix | Chapter 8's threefold classification of the Tathāgata's speech-sounds. |
+| 轉依 | transformation of the basis | Keep fixed with the site's Yogācāra usage. |
+| 如來成所作事了義之教 | the definitive teaching of the Tathāgata's accomplished work | The final chapter's title for this teaching. |
 
 ## Relationship to the Cheng Weishi Lun glossary
 
