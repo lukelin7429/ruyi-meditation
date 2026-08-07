@@ -1,0 +1,195 @@
+---
+layout: default
+title: "Session 2 · The Diamond Sūtra, Part One (The Heart of the Mahāyāna)"
+permalink: /courses/heart-of-mahayana/session-2/
+excerpt: Session 2 of The Heart of the Mahāyāna — Sections 1–16 of the Diamond Sūtra, and the "is not X, that is why it is called X" formula underneath almost every paragraph.
+---
+
+<style>
+  .hs{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--gold-deep:#b8862e;--jade:#2f6d5e;--jade-deep:#234f44;
+      --cream:#fbf5ea;--ink:#251f1a;--ink-soft:#6b625a;--line:#eadfce;}
+  .hs *{box-sizing:border-box;}
+  .hs-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .hs-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .hs-crumb .hs-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:760px;}
+  .hs-crumb a{color:var(--terra);text-decoration:none;}
+  .hs-crumb a:hover{text-decoration:underline;}
+
+  .hs-hero{background:linear-gradient(158deg,#b8431c 0%,#8c2f12 46%,#4a1808 100%);color:#fff;}
+  .hs-hero-in{max-width:760px;margin:0 auto;padding:56px 26px 50px;}
+  .hs-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .hs-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(30px,5vw,48px);line-height:1.1;margin:12px 0 8px;}
+  .hs-hero .subt{font-style:italic;font-size:18px;color:#f9ede0;}
+  .hs-hero .rd{margin-top:22px;font-size:14px;color:#f0d9c4;}
+  .hs-hero .rd b{color:var(--gold);}
+
+  .hs-body{background:#fff;padding:44px 0 24px;}
+  .hs-body p{font-size:17.5px;line-height:1.78;color:var(--ink);margin:0 0 20px;}
+
+  .hs-part{margin:52px 0 20px;padding-top:26px;border-top:2px solid var(--line);}
+  .hs-part .pn{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .hs-part h2{font-family:'Playfair Display',serif;font-size:clamp(24px,3.8vw,32px);color:var(--ink);margin:6px 0 0;line-height:1.14;}
+  .hs-part h2 .rf{display:block;font-size:15px;font-style:italic;font-weight:400;color:var(--ink-soft);margin-top:5px;}
+  .hs-body h3{font-family:'Playfair Display',serif;font-size:22px;color:var(--terra-deep);margin:34px 0 10px;}
+
+  .hs-quote{border-left:4px solid var(--gold);background:var(--cream);padding:18px 24px;border-radius:0 12px 12px 0;margin:24px 0;
+    font-family:'Playfair Display',serif;font-style:italic;font-size:19px;line-height:1.6;color:var(--terra-deep);}
+
+  .hs-recap{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0;}
+  .hs-recap span{background:var(--cream);border:1px solid var(--line);border-radius:30px;padding:8px 16px;font-size:14px;color:var(--ink);}
+  .hs-recap span b{color:var(--terra-deep);}
+
+  .hs-take{background:linear-gradient(180deg,#fdfaf4,#f7eddc);border:1px solid var(--line);border-radius:14px;padding:22px 26px;margin:26px 0;}
+  .hs-take b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--terra-deep);margin-bottom:8px;}
+  .hs-take ul{margin:0;padding-left:20px;}
+  .hs-take li{font-size:16px;line-height:1.65;color:var(--ink);margin-bottom:9px;}
+  .hs-take li b{color:var(--gold-deep);}
+
+  .hs-textcard{position:relative;overflow:hidden;border-radius:18px;padding:34px 32px 28px;color:#fff;text-decoration:none;display:block;margin:22px 0;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);box-shadow:0 26px 50px -28px rgba(35,79,68,.6);transition:transform .3s;}
+  .hs-textcard:hover{transform:translateY(-6px);text-decoration:none;}
+  .hs-textcard .trad{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,.78);}
+  .hs-textcard h3{font-family:'Playfair Display',serif;font-size:26px;line-height:1.15;margin:8px 0 10px;color:#fff;}
+  .hs-textcard p{font-size:15.5px;line-height:1.6;color:rgba(255,255,255,.92);margin:0 0 16px;}
+  .hs-textcard .go{font-size:15px;font-weight:600;color:#fff;display:inline-flex;align-items:center;gap:7px;}
+
+  .hs-disc{counter-reset:d;list-style:none;padding:0;margin:18px 0;}
+  .hs-disc li{counter-increment:d;position:relative;padding:14px 18px 14px 54px;border-bottom:1px solid var(--line);font-size:16.5px;line-height:1.6;color:var(--ink);}
+  .hs-disc li:last-child{border-bottom:none;}
+  .hs-disc li::before{content:"Q" counter(d);position:absolute;left:16px;top:14px;font-family:'Playfair Display',serif;font-weight:700;color:var(--terra);font-size:15px;}
+
+  .hs-opt{border:1px solid var(--line);border-radius:14px;padding:22px 24px;margin:14px 0;background:#fff;}
+  .hs-opt b.h{display:block;font-family:'Playfair Display',serif;font-size:18px;color:var(--jade-deep);margin-bottom:6px;}
+  .hs-opt p{font-size:16px;line-height:1.65;color:var(--ink-soft);margin:0;}
+
+  .hs-next{background:var(--terra-deep);color:#f9ede0;border-radius:16px;padding:28px 32px;margin:40px 0 20px;}
+  .hs-next .l{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:700;}
+  .hs-next h3{font-family:'Playfair Display',serif;color:#fff;font-size:22px;margin:8px 0 8px;}
+  .hs-next p{color:#f0d9c4;font-size:15.5px;line-height:1.65;margin:0;}
+
+  .hs-foot{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;margin:36px 0 64px;padding-top:26px;border-top:1px solid var(--line);}
+  .hs-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15px;border-radius:30px;padding:12px 24px;cursor:pointer;border:none;font-family:inherit;transition:transform .2s,box-shadow .2s;}
+  .hs-btn.primary{background:linear-gradient(158deg,#b8431c,#8c2f12);color:#fff;box-shadow:0 12px 26px -14px rgba(140,47,18,.7);}
+  .hs-btn.primary:hover{transform:translateY(-2px);box-shadow:0 18px 32px -14px rgba(140,47,18,.8);text-decoration:none;}
+  .hs-btn.ghost{border:1.5px solid var(--terra);color:var(--terra);background:transparent;}
+  .hs-btn.ghost:hover{background:var(--terra);color:#fff;}
+
+  @media print{
+    .site-header,.site-main > .hs .hs-crumb,.hs-foot,.mobile-nav-drawer,.site-footer,.nav-search-btn,#siteSearchBtn{display:none !important;}
+    .hs-hero{background:none;color:#000;padding:0;}
+    .hs-hero-in{padding:0 0 12px;}
+    .hs-eyebrow,.hs-hero .subt,.hs-hero .rd{color:#444;}
+    .hs-hero h1{color:#000;}
+    .hs-body{padding:0;}
+    .hs-body p,.hs-body h3,.hs-part h2,.hs-take li,.hs-disc li{color:#000;}
+    .hs-quote,.hs-take,.hs-opt{background:#fff !important;border:1px solid #bbb;}
+    .hs-next{background:#fff !important;color:#000;border:1px solid #bbb;}
+    .hs-next h3,.hs-next p,.hs-next .l{color:#000;}
+    .hs{--ink:#000;}
+    a{color:#000;text-decoration:none;}
+  }
+</style>
+
+<div class="hs">
+
+  <nav class="hs-crumb"><div class="hs-wrap"><a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → <a href="{{ '/courses/heart-of-mahayana/' | relative_url }}">The Heart of the Mahāyāna</a> → Session 2</div></nav>
+
+  <!-- HERO -->
+  <section class="hs-hero">
+    <div class="hs-hero-in">
+      <div class="hs-eyebrow">Session 2 · A different method — cutting through with questions, not lists</div>
+      <h1>The Diamond Sūtra, Part One</h1>
+      <div class="subt">《金剛般若波羅蜜經》 — Sections 1–16, and why no mark is ever the real thing</div>
+      <div class="rd"><b>Before class:</b> Collected Topics Session 3 (What a Definition Actually Is) is genuinely useful here, though not required.</div>
+    </div>
+  </section>
+
+  <div class="hs-body">
+    <div class="hs-wrap">
+
+      <!-- PART 1 -->
+      <div class="hs-part"><div class="pn">Part 1</div><h2>Lecture Notes</h2></div>
+
+      <h3>A text made of questions, not lists</h3>
+      <p>Session 1 read a text built almost entirely out of negated nouns: no form, no eye, no suffering, no path. The Diamond Sūtra teaches the same emptiness a completely different way. The Buddha almost never simply asserts. He asks Subhūti a question, and Subhūti — the disciple foremost in understanding emptiness — has to work out the answer out loud, often catching and correcting his own first instinct mid-sentence. Where the Heart Sūtra hands you the finished insight, this sūtra hands you the method for reasoning your own way toward it. You are meant to notice yourself doing, silently, what Subhūti does out loud.</p>
+
+      <h3>The engine underneath: "is not X, that is why it is called X"</h3>
+      <p>Read a few sections and one pattern is impossible to miss. Section 8 is a clean first example: someone fills a billion-world universe with treasure and gives it all away — great merit, Subhūti says. Then: <span style="font-family:'PingFang TC',serif">「是福德即非福德性，是故如來說福德多」</span> — "this merit has no fixed nature as merit, that is exactly why the Tathāgata calls it great merit." Three beats, repeated for dozens of different words across the whole sūtra:</p>
+      <div class="hs-recap">
+        <span><b>Name it</b> — the word is granted its ordinary, functional use</span>
+        <span><b>Negate it</b> — denies the word points to a fixed, independent essence</span>
+        <span><b>Rename it</b> — the word returns to use, no longer mistaken for something solid</span>
+      </div>
+      <p>The formula is not a trick and not a paradox for its own sake. Each beat is doing real work, and the third beat is the one first-time readers most often skip past — without it, "is not X" reads as nihilism about language. With it, the sūtra is training you to use words without being captured by them.</p>
+
+      <h3>Definitions that pass the test, and still aren't the real thing</h3>
+      <p>If you've studied Collected Topics Session 3, you already have a formal tool for testing whether a definition is correct — whether it's too wide, too narrow, or exactly right. That tool and this sūtra are not doing the same job, and the difference is worth being precise about. A correct definition of "bodhisattva" could pass every test Session 3 gives you — include every real bodhisattva, exclude everyone who isn't one — and Section 17 would still say <span style="font-family:'PingFang TC',serif">「實無有法名為菩薩」</span>, "there is in truth no fixed thing called a bodhisattva." The sūtra is not attacking bad definitions. It's attacking the assumption that even a perfectly correct definition proves something solid sits behind the word being defined.</p>
+      <div class="hs-quote">A definition can be exactly right about where a word applies, and still say nothing at all about whether the word names a fixed essence. The Diamond Sūtra grants you the first and denies you the second — for every word in the text, including its own most sacred ones.</div>
+
+      <h3>Giving without dwelling — the first practice, not a conclusion</h3>
+      <p>Notice where the sūtra starts: not with argument, but with instruction. Section 4 teaches that a bodhisattva should give <span style="font-family:'PingFang TC',serif">「不住於相」</span> — without dwelling on a giver, a gift, or a receiver as fixed, separate things. This is the emptiness teaching arriving first as ethics, before it ever becomes philosophy. Giving without dwelling is giving without the quiet bookkeeping — <em>I gave, they received, I am now generous</em> — that turns generosity back into a transaction for the self. Its merit is called as unmeasurable as space in every direction, precisely because it was never collected as a possession.</p>
+
+      <h3>The line that reached Huineng</h3>
+      <p>Section 10 holds the sūtra's single most famous sentence — <span style="font-family:'PingFang TC',serif">應無所住而生其心</span>, "give rise to a mind that dwells nowhere at all." Tradition says the illiterate woodcutter who became the Sixth Chan Patriarch, Huineng, first woke up on merely overhearing this one line recited in a marketplace, before he had studied a single scripture. The sūtra's own reading guide goes deep on this line and the story behind it — read it there before class.</p>
+
+      <div class="hs-take">
+        <b class="h">Why this matters before you read the full text</b>
+        <ul>
+          <li><b>"Is not X" is not nihilism about language.</b> The third beat — "that is why it is called X" — always restores the word to ordinary use. Skip that beat and the whole formula is misread.</li>
+          <li><b>A correct definition and a fixed essence are two different claims.</b> The sūtra can grant you the first while flatly denying the second, for the same word, in the same sentence.</li>
+          <li><b>Emptiness starts as a practice, not a theory.</b> "Giving without dwelling" comes before any of the sūtra's harder philosophical moves — the ethics is the entry point, not an afterthought.</li>
+        </ul>
+      </div>
+
+      <!-- PART 2 -->
+      <div class="hs-part"><div class="pn">Part 2</div><h2>Primary Text<span class="rf">Sections 1–16, with the full sūtra's own reading guide and quiz</span></h2></div>
+      <p>Read Sections 1 through 16 now (the sūtra's own text is grouped into eight "movements" of four sections each — this session covers Movements I through IV). Its reading guide goes deep on the "is not X, called X" formula, the four notions of self, giving without dwelling, and the line that reached Huineng, and ends with a twelve-question self-check covering the whole sūtra.</p>
+      <a class="hs-textcard" href="{{ '/sutras/diamond-sutra.html' | relative_url }}">
+        <div class="trad">Mahāyāna · The Perfection of Wisdom</div>
+        <h3>The Diamond Sūtra — full text &amp; reading guide</h3>
+        <p>Kumārajīva's c. 402 CE Chinese text alongside an original English translation, a structured commentary, key terms, and a self-check quiz covering all 32 sections.</p>
+        <span class="go">Read the sūtra →</span>
+      </a>
+
+      <!-- PART 3 -->
+      <div class="hs-part"><div class="pn">Part 3</div><h2>Discussion Questions</h2></div>
+      <ol class="hs-disc">
+        <li>Take Section 8's "this merit has no fixed nature as merit, that is exactly why the Tathāgata calls it great merit." Walk through the three beats — name it, negate it, rename it — and explain what would be lost if the sūtra only did the first two beats and stopped.</li>
+        <li>Suppose you wrote a technically correct definition of "bodhisattva" — one that passes Collected Topics Session 3's three-part test perfectly. Would that definition, on its own, satisfy what Section 17 is demanding when it says "there is in truth no fixed thing called a bodhisattva"? Why or why not?</li>
+        <li>"Give rise to a mind that dwells nowhere at all" is easy to say and hard to picture. Apply it to one very ordinary activity — eating a meal, or replying to a text message. What would "not dwelling" actually look like in that specific case, moment to moment?</li>
+        <li>Where did your first instinct land when you met "is not X, that is why it is called X" for the first time — as circular nonsense, or as doing real work? What, if anything, changed once you had the three-beat breakdown?</li>
+      </ol>
+
+      <!-- PART 4 -->
+      <div class="hs-part"><div class="pn">Part 4</div><h2>Assignment<span class="rf">Choose one · half to one page · bring it next session</span></h2></div>
+      <div class="hs-opt">
+        <b class="h">Option A — Trace the formula twice more</b>
+        <p>Beyond the merit example from Section 8, find two more instances of "is not X, that is why it is called X" within Sections 1–16. For each, write out what "name it, negate it, rename it" is specifically doing to that word.</p>
+      </div>
+      <div class="hs-opt">
+        <b class="h">Option B — Explain the mind that dwells nowhere</b>
+        <p>Write a short explanation, for someone who has never read the sūtra, of what "a mind that dwells nowhere" means — and just as importantly, what it doesn't mean. (It is not the same as having no thoughts, and not the same as not caring.)</p>
+      </div>
+
+      <!-- PART 5 -->
+      <div class="hs-part"><div class="pn">Part 5</div><h2>Self-Check</h2></div>
+      <p>The sūtra's own page has a twelve-question quiz covering all 32 sections, so a few questions look ahead to material Part Two will cover in Session 3. Take what you can now, and return to finish it after Part Two.</p>
+      <p><a class="hs-btn ghost" href="{{ '/sutras/diamond-sutra.html' | relative_url }}#quiz">Take the self-check quiz →</a></p>
+
+      <!-- NEXT -->
+      <div class="hs-next">
+        <div class="l">Looking ahead</div>
+        <h3>Part Two: the vow restated, and giving without a giver</h3>
+        <p>Section 17 asks Subhūti's opening question again, almost word for word — and this time answers it after fifteen sections of "is not X" have already done their work. Part Two follows the bodhisattva's vow to its far side: a mind that gives, and takes no credit for having given.</p>
+      </div>
+
+      <div class="hs-foot">
+        <a class="hs-btn ghost" href="{{ '/courses/heart-of-mahayana/' | relative_url }}">← Course overview</a>
+        <button type="button" class="hs-btn primary" onclick="window.print()">🖨 Print / Save as PDF</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>

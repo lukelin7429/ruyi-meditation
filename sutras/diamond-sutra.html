@@ -1,0 +1,1261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Diamond Sūtra — Vajracchedikā Prajñāpāramitā | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full Chinese-and-English text, and self-check quiz for the Diamond Sūtra (金剛般若波羅蜜經) — Kumārajīva's 5th-century translation, traditionally divided into 32 sections, with an original English translation written for Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16.png">
+  <link rel="icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    background: #fff;
+    color: #1a1a1a;
+    line-height: 1.7;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .crumb {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #6b6b6b;
+    margin-bottom: 28px;
+  }
+  .crumb a { color: #6b6b6b; text-decoration: none; }
+  .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+
+  .sutta-number {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: #6b6b6b;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: clamp(40px, 5.5vw, 54px);
+    font-weight: 400;
+    line-height: 1.18;
+    letter-spacing: -0.01em;
+    margin-bottom: 14px;
+    color: #1a1a1a;
+  }
+  .subtitle {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-bottom: 40px;
+  }
+  .subtitle .zh {
+    font-style: normal;
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    color: #6b6b6b;
+    margin-left: 8px;
+  }
+
+  .glance {
+    background: #f3f5f7;
+    border-left: 3px solid #1a1d23;
+    padding: 22px 26px;
+    margin-bottom: 56px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+  .glance dl { display: grid; grid-template-columns: 150px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; }
+  .glance dd { color: #1a1d23; }
+  .glance .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+
+  /* Tab navigation — card style */
+  .tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin: 8px 0 48px;
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 14px 0 16px;
+    z-index: 10;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 20px 22px 22px;
+    border: 1.5px solid #dee2e6;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.18s ease, background 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+  }
+  .tab-num {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    color: #a64018;
+    margin-bottom: 8px;
+    font-weight: 400;
+  }
+  .tab-label {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 600;
+    color: #1a1d23;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    transition: color 0.18s ease;
+  }
+  .tab-sub {
+    font-size: 14.5px;
+    color: #6b6b6b;
+    letter-spacing: 0.01em;
+    line-height: 1.45;
+  }
+  .tab:hover {
+    border-color: #b8431c;
+    background: #fafbfc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
+  }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active {
+    background: #f3f5f7;
+    border-color: #b8431c;
+    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
+  }
+  .tab.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #b8431c;
+  }
+  .tab.active .tab-num {
+    color: #8c2f12;
+    font-weight: 600;
+  }
+  .tab.active .tab-label { color: #1a1a1a; }
+
+  @media (max-width: 640px) {
+    .tabs {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      padding: 8px 0 12px;
+    }
+    .tab { padding: 16px 18px 18px; }
+    .tab-label { font-size: 21px; }
+  }
+
+  [data-panel] { display: none; }
+  [data-panel].active { display: block; }
+
+  section { margin-bottom: 56px; }
+  h2 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 31px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    color: #1a1d23;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+  }
+  h3 {
+    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: #1a1d23;
+  }
+  p { margin-bottom: 14px; color: #1a1d23; }
+  p:last-child { margin-bottom: 0; }
+
+  .lede {
+    font-size: 21px;
+    color: #1a1a1a;
+    border-left: 2px solid #b8431c;
+    padding-left: 18px;
+    margin: 0 0 24px;
+  }
+
+  ul, ol { margin: 0 0 16px 22px; }
+  li { margin-bottom: 8px; color: #1a1d23; }
+  li strong { color: #1a1a1a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 18px 0 24px;
+    font-size: 18px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+  }
+  th {
+    background: #f3f5f7;
+    color: #1a1d23;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+  }
+  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
+  td .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+
+  .terms {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    padding: 20px 24px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  .terms .term { margin-bottom: 14px; }
+  .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .terms .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; font-style: normal; }
+
+  /* Text section */
+  .text-intro {
+    background: #fafbfc;
+    border-left: 3px solid #b8431c;
+    padding: 14px 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+  }
+  .text-block { color: #1a1a1a; }
+  .verse {
+    margin-bottom: 8px;
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #eef0f2;
+  }
+  .verse:last-of-type { border-bottom: none; }
+  .fen-label {
+    font-family: Georgia, serif;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #8c2f12;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .fen-label .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+  .verse .zh {
+    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
+    font-size: 23px;
+    color: #1a1a1a;
+    line-height: 1.95;
+    letter-spacing: 0.03em;
+    margin-bottom: 10px;
+  }
+  .verse .en {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 20px;
+    color: #34383f;
+    line-height: 1.75;
+    margin: 0;
+  }
+  .movement {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #8c2f12;
+    font-weight: 600;
+    margin: 34px 0 6px;
+  }
+  .movement:first-child { margin-top: 6px; }
+  .mantra-verse {
+    background: #f7f2ea;
+    border-left: 3px solid #b8431c;
+    padding: 20px 24px;
+    border-radius: 0 4px 4px 0;
+    margin: 8px 0;
+  }
+  .mantra-verse .zh { font-size: 24px; margin-bottom: 12px; }
+  .mantra-verse .translit {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 22px;
+    color: #8c2f12;
+    line-height: 1.6;
+    margin-bottom: 8px;
+  }
+  .mantra-verse .en { font-size: 18px; color: #4a4a4a; }
+  .ending-mark {
+    text-align: center;
+    color: #b8431c;
+    letter-spacing: 0.8em;
+    margin: 32px 0 0;
+    font-size: 21px;
+  }
+
+  /* Quiz */
+  .quiz {
+    background: #f5f6f8;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 28px 26px;
+  }
+  .quiz .q {
+    padding: 18px 0 20px;
+    border-bottom: 1px solid #dee2e6;
+  }
+  .quiz .q:first-of-type { padding-top: 4px; }
+  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num {
+    display: inline-block;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    color: #b8431c;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .quiz .q-text {
+    font-size: 19px;
+    color: #1a1a1a;
+    margin-bottom: 14px;
+    line-height: 1.55;
+  }
+  .quiz .q-text .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+  .quiz .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 11px 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #1a1d23;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.5;
+    transition: background 0.12s, border-color 0.12s;
+  }
+  .quiz .opt:hover:not(:disabled) {
+    background: #f3f5f7;
+    border-color: #b8431c;
+  }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct {
+    background: #f0f7ee;
+    border-color: #6ba368;
+    color: #2d5a2a;
+  }
+  .quiz .opt.wrong {
+    background: #fbf1ef;
+    border-color: #c87b6f;
+    color: #7a3a31;
+  }
+  .quiz .opt.correct::after {
+    content: "  ✓";
+    color: #6ba368;
+    font-weight: 700;
+  }
+  .quiz .opt.wrong::after {
+    content: "  ✗";
+    color: #c87b6f;
+    font-weight: 700;
+  }
+  .quiz .expl {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: #fafbfc;
+    border-left: 2px solid #b8431c;
+    font-size: 17px;
+    color: #4a4a4a;
+    line-height: 1.65;
+    border-radius: 0 4px 4px 0;
+  }
+  .quiz .expl.show { display: block; }
+  .quiz .expl strong { color: #1a1d23; }
+  .quiz .expl .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+  .score-bar {
+    margin-top: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #4a4a4a;
+    text-align: center;
+  }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+
+  /* Resources */
+  .resources { font-size: 18px; }
+  .resources a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+  }
+  .resources a:hover { color: #6b6b6b; }
+  .resources li { margin-bottom: 10px; }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 28px;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    color: #6b6b6b;
+    text-align: center;
+  }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
+  footer a:hover { color: #1a1a1a; }
+  .nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px 0 0;
+    padding: 24px 0 0;
+    border-top: 1px solid #dee2e6;
+    font-size: 17px;
+    gap: 16px;
+  }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label {
+    display: block;
+    color: #b8b8b8;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .nav-prev-next .next { text-align: right; }
+  .nav-prev-next .muted { color: #b0b0b0; cursor: default; }
+
+  /* === Three-column magazine === */
+  @media (min-width: 1100px) {
+    .container {
+      max-width: 1380px;
+      display: grid;
+      grid-template-columns: 220px 1fr 240px;
+      grid-template-areas:
+        "header  header  header"
+        "sidebar main    marginalia"
+        "footer  footer  footer";
+      column-gap: 48px;
+      padding-top: 32px;
+    }
+    .pv-header { grid-area: header; }
+    .pv-sidebar { grid-area: sidebar; }
+    .pv-main { grid-area: main; min-width: 0; }
+    .pv-marginalia { grid-area: marginalia; }
+    .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar,
+    .pv-marginalia {
+      position: sticky; top: 64px; align-self: start;
+    }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab {
+    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
+    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
+    background: #fff; cursor: pointer; font-family: inherit;
+    position: relative; overflow: hidden; transition: all 0.18s;
+  }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active {
+    background: #f5f6f8; border-color: #b8431c;
+  }
+  .side-tab.active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 4px; background: #b8431c;
+  }
+  .side-tab-num {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
+    margin-bottom: 4px;
+  }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 17px; font-weight: 600; color: #2a2725;
+  }
+  .marginalia-block {
+    padding: 18px 20px; background: #f5f6f8;
+    border-radius: 6px; border-left: 3px solid #b8431c;
+  }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
+  }
+  .marginalia-block ul {
+    list-style: none; padding: 0; margin: 0;
+    font-size: 14px; line-height: 1.55;
+  }
+  .marginalia-block li {
+    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
+  }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; color: #2a2725;
+    display: block; margin-bottom: 2px; font-size: 15px;
+  }
+  .marginalia-block li .pali .zh { font-family: "PingFang TC","Microsoft JhengHei",serif; font-style: normal; }
+  @media (max-width: 1099px) {
+    .pv-sidebar,
+    .pv-marginalia { display: none; }
+  }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+<div class="container">
+
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="/">Ru-Yi Meditation Center</a><span>›</span><a href="/dharma/">Dharma</a><span>›</span><a href="./">Mahāyāna Sūtras</a><span>›</span>The Diamond Sūtra
+  </nav>
+
+  <div class="sutta-number">Mahāyāna · The Perfection of Wisdom</div>
+  <h1>The Diamond Sūtra</h1>
+  <p class="subtitle"><em>Vajracchedikā Prajñāpāramitā</em><span class="zh">《金剛般若波羅蜜經》</span></p>
+
+  <div class="glance">
+    <dl>
+      <dt>Sanskrit</dt><dd><em>Vajracchedikā Prajñāpāramitā Sūtra</em> — "The Diamond Cutter of the Perfection of Wisdom"</dd>
+      <dt>Chinese</dt><dd><span class="zh">《金剛般若波羅蜜經》</span>, translated by Kumārajīva (<span class="zh">鳩摩羅什</span>), c. 402&nbsp;CE — the version studied and chanted across East Asia, divided into 32 sections by Prince Zhaoming of Liang (<span class="zh">梁昭明太子</span>) a century later</dd>
+      <dt>Tradition</dt><dd>Mahāyāna — the <em>Prajñāpāramitā</em> (Perfection of Wisdom) literature; one of its earliest and most compact texts</dd>
+      <dt>Speaker</dt><dd>The Buddha, in dialogue with the elder Subhūti (<span class="zh">須菩提</span>), foremost among his disciples in understanding emptiness</dd>
+      <dt>Length</dt><dd>~5,180 Chinese characters across 32 traditional sections — about twenty times the length of the Heart Sūtra</dd>
+      <dt>Difficulty</dt><dd>★★★★☆ — the vocabulary is plain and the scenes are ordinary; the difficulty is getting used to one relentless verbal engine that runs underneath almost every paragraph.</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why the Diamond Sūtra, after the Heart Sūtra</h2>
+    <p class="lede">
+      If the Heart Sūtra is the Perfection of Wisdom compressed to its absolute limit, the Diamond Sūtra is what that teaching looks like at ordinary length — a real conversation, on a real morning, between the Buddha and one of his students, that happens to demolish, piece by piece, almost everything the student thought he understood about giving, attainment, and himself.
+    </p>
+    <p>
+      It is also, historically, a different kind of landmark. A copy printed in 868&nbsp;CE and recovered from the Dunhuang caves is the world's oldest dated printed book — this sūtra, not a Bible or a technical manual, was what people in ninth-century China judged worth mass-producing. And unlike the Heart Sūtra, which distills the Perfection of Wisdom teaching into a wall of negated lists, the Diamond Sūtra works by a different method entirely: the Buddha keeps asking Subhūti questions, and Subhūti keeps discovering, out loud, that his own confident answers dissolve the moment he examines them. You watch the insight happen in real time, in someone else's mouth, before you're asked to do it in your own.
+    </p>
+    <p>
+      This is the course's second primary text, and it earns that place honestly. Where Session 1 trained you to hear "no X" as a precise philosophical move rather than nihilism, this sūtra trains something adjacent and just as important: that even the noblest religious vocabulary — merit, attainment, buddhahood, the bodhisattva vow itself — collapses into the same trap the moment you let it become a fixed thing to hold onto. The text names that trap, over and over, and hands you a name for how to see through it.
+    </p>
+  </section>
+
+  </div><!-- /pv-header -->
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Chinese &amp; English, all 32 sections</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">12-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Every fixed thing you could grasp — a self, a teaching, an attainment, even a buddha's own body — is not, in the end, that fixed thing; and the moment you see this clearly, you are free to act, give, and teach without the grasping that was quietly recreating the very suffering the practice was meant to end.
+    </p>
+
+    <h3>What "Diamond" means</h3>
+    <p>
+      <em>Vajra</em> is usually rendered "diamond," but its older sense is closer to a thunderbolt or an indestructible weapon — something that can cut through anything and cannot itself be cut. The full title, <em>Vajracchedikā Prajñāpāramitā</em>, means "the diamond that cuts through to the Perfection of Wisdom" — or, as it is usually shortened, "the diamond cutter." The image is deliberate: this is not a gentle text. It is a blade applied, calmly and repeatedly, to every place your mind wants to stand still.
+    </p>
+
+    <h3>Where it sits in the Perfection of Wisdom literature</h3>
+    <p>
+      The <em>Prajñāpāramitā</em> corpus spans an enormous range of lengths — from a single letter, in the most esoteric tellings, up through 100,000 lines. The Diamond Sūtra, at roughly 5,000 characters, sits near the shorter end but is not a digest the way the Heart Sūtra is. It reads as a complete, self-standing teaching with its own narrative frame — an ordinary morning at Jetavana, an almsround, a meal, and then a conversation that runs the length of the text. Scholars generally treat it as one of the earlier Perfection of Wisdom scriptures, its plain prose and lack of the more baroque cosmic imagery found in later Mahāyāna sūtras suggesting a text closer to the root of the tradition than to its later elaborations.
+    </p>
+
+    <h3>The cast: the Buddha and Subhūti</h3>
+    <p>
+      Almost the entire sūtra is a two-person dialogue. <strong>Subhūti</strong> (<span class="zh" style="font-family:'PingFang TC',serif">須菩提</span>) was, in the early tradition, the disciple <em>foremost in understanding emptiness</em> and known for a compassion so thoroughgoing he was said to practise loving-kindness even while begging for alms — the ideal partner for a text about seeing through fixed notions without losing compassion for beings. He is not a foil the way a slower student would be. He answers well, and the sūtra's method is to let him answer well and then, again and again, ask one more question that shows even his correct answer cannot be held onto as a possession.
+    </p>
+    <p>
+      Notice the frame: Subhūti opens the sūtra (Section 2) by asking exactly the question a serious practitioner should ask — "how should one stand, and how should one subdue the mind?" — and the same question, almost word for word, returns in Section 17, roughly at the sūtra's midpoint. That repetition is not an editing accident. The first answer teaches you the shape of the practice; the second answer, after fifteen sections of dismantling, teaches you that the practice was never a possession you could stand inside of in the first place.
+    </p>
+
+    <h3>The engine of the text: "is not X, therefore it is called X"</h3>
+    <p>
+      Read a few sections and a pattern becomes impossible to miss. The Tathāgata says merit, the Tathāgata says a world, the Tathāgata says the thirty-two marks — <span class="zh" style="font-family:'PingFang TC',serif">即非</span> ("is exactly not") merit, a world, the marks — <span class="zh" style="font-family:'PingFang TC',serif">是名</span> ("that is why it is called") merit, a world, the marks. This three-beat formula — <strong>name it, negate it, rename it</strong> — is the sūtra's real subject, repeated for dozens of different terms: merit, the Buddha-dharma, a bodhisattva, an ordinary person, a mass of dust, an entire universe.
+    </p>
+    <p>
+      The formula is not a trick or a paradox for its own sake. It is doing exactly what the Heart Sūtra's negation-lists do, in a different register: the first beat acknowledges that the word functions and is useful (there is such a thing as "merit," conventionally); the second beat denies that the word names something with a fixed, independent essence sitting behind the label; the third beat restores the word to ordinary use, now stripped of the illusion that it points to something solid. You are being trained, sentence by sentence, to use language without being captured by it.
+    </p>
+    <table>
+      <thead><tr><th>Chinese</th><th>Beat</th><th>What it does</th></tr></thead>
+      <tbody>
+        <tr><td><span class="zh">如來說 X</span></td><td>Name it</td><td>The Tathāgata speaks of X — the word is granted ordinary, functional use.</td></tr>
+        <tr><td><span class="zh">即非 X</span></td><td>Negate it</td><td>X is exactly not-X — there is no fixed, independent essence called "X" behind the label.</td></tr>
+        <tr><td><span class="zh">是名 X</span></td><td>Rename it</td><td>That is precisely why it is called X — the word returns, now used without being grasped.</td></tr>
+      </tbody>
+    </table>
+
+    <h3>The four notions: self, person, being, lifespan</h3>
+    <p>
+      A second refrain runs alongside the first: <span class="zh" style="font-family:'PingFang TC',serif">我相、人相、眾生相、壽者相</span> — "the notion of a self, a person, a being, a lifespan." Wherever the text wants to name the root error — the thing a bodhisattva must be free of to actually be a bodhisattva, the thing an arhat must be free of to actually be liberated — it names these four. They are not four separate errors; they are one grasping, viewed from four angles: a self that persists (self), a self set against other selves (person), a self among a class of beings (being), a self extended through time (lifespan). Every "is not X" in the sūtra ultimately traces back to unhooking this fourfold notion from whatever is currently being discussed.
+    </p>
+
+    <h3>Giving without dwelling: the ethics, not just the metaphysics</h3>
+    <p>
+      The sūtra opens its teaching (Section 4) not with philosophy but with practice: a bodhisattva should give — practise <em>dāna</em>, generosity — "without dwelling on anything," not fixed on a giver, a gift, or a receiver as solid, separate things. This is the text's first and most important move, because it shows immediately that emptiness is not an abstract metaphysical claim to be admired from a distance. It is instructions for how to act. Giving without dwelling is giving without the subtle bookkeeping — I gave, they received, I am now a generous person — that quietly turns generosity back into a transaction for the self. The merit of ungrasped giving, the text says, is as unmeasurable as space in every direction, precisely because it was never collected as a possession in the first place.
+    </p>
+
+    <h3>"A mind that dwells nowhere": the line that reached Huineng</h3>
+    <p>
+      Section 10 contains the sūtra's single most famous line: <span class="zh" style="font-family:'PingFang TC',serif">應無所住而生其心</span> — "give rise to a mind that dwells nowhere at all." In East Asian Buddhism this line carries an outsized weight because of one story: the illiterate woodcutter who became the Sixth Chan Patriarch, Huineng, is said to have attained his first awakening simply from overhearing this single sentence recited in a marketplace, before he had ever formally studied a scripture. Whether or not the story is literal history, it captures exactly what the line is doing in the text — it is not a conclusion to be reasoned toward but a description of a mind you could, in principle, simply recognize the moment you stop trying to plant it somewhere.
+    </p>
+    <p>
+      "Dwelling" (<span class="zh" style="font-family:'PingFang TC',serif">住</span>) here means fixing the mind on something as a stable resting place — on form, on a view, on an achievement, on the practice itself. The instruction is not to have no mind, and not to think of nothing; it is to let the mind arise and act without anchoring itself anywhere it could later be pulled out from under you. This is the Diamond Sūtra's version of the Heart Sūtra's "no obstruction, no fear" — freedom described not as an absence but as a mind with nowhere left to be caught.
+    </p>
+
+    <h3>King Kalī and patience without a self to injure</h3>
+    <p>
+      Section 14 tells the sūtra's one vivid narrative episode: in a past life, the Buddha recalls, King Kalī cut his body apart limb by limb, and he felt no anger — not because he suppressed the anger through discipline, but because at that moment he held no notion of a self, a person, a being, or a lifespan for the anger to defend. The logic is precise and worth sitting with: anger requires something to protect. Where there is no fixed self standing behind the pain to be wronged, the pain can be fully present without generating resentment on top of it. This is what makes the "perfection of patience" a perfection rather than mere endurance — endurance grits its teeth; this patience has nothing left that needs defending.
+    </p>
+
+    <h3>The closing verse: "like a dream, a bubble, a shadow"</h3>
+    <p>
+      The sūtra ends (Section 32) with four lines that are, on their own, probably the single most chanted verse in Chinese Buddhism, recited independently of the rest of the text at funerals and in daily practice: <span class="zh" style="font-family:'PingFang TC',serif">一切有為法，如夢幻泡影，如露亦如電，應作如是觀</span> — "all conditioned things are like a dream, an illusion, a bubble, a shadow; like dew, and like a flash of lightning — see them all like this." Six similes for the same point: not that conditioned things are unreal, but that they are transient, dependent, and insubstantial in exactly the way a dream or a bubble is — vivid while present, gone the moment conditions change, never solid to begin with. It is the whole sūtra's method — name it, see through it, act anyway — compressed into a single image you can hold in mind after you close the page.
+    </p>
+
+    <h3>Questions, not lists: how this differs from the Heart Sūtra's method</h3>
+    <p>
+      Both texts teach the same emptiness. They teach it through opposite literary strategies. The Heart Sūtra states its conclusions as a cascade of negated nouns — no eye, no ear, no suffering, no path — compressed almost past the point of narrative. The Diamond Sūtra never simply asserts; the Buddha nearly always <em>asks</em>, and Subhūti has to work out the answer in front of you, often correcting his own first instinct mid-sentence. If the Heart Sūtra hands you the finished insight, the Diamond Sūtra hands you the method for arriving at it yourself — which is exactly the reason this course places it second: you now have the conclusion from Session 1, and here is what it looks like to reason your own way toward it, one ordinary question at a time.
+    </p>
+
+    <h3>How to actually use this text</h3>
+    <ol>
+      <li><strong>Read for the refrain before the content.</strong> On a first pass, just watch for "is not X, that is why it is called X" everywhere it appears. Once you can hear it automatically, the individual topics — merit, worlds, bodies, marks — become much easier to follow, because you already know the move being made on each of them.</li>
+      <li><strong>Sit with one repetition.</strong> The doubled question in Sections 2 and 17 is worth reading side by side. Notice exactly what has changed in the answer by the second asking, and what that change tells you about what fifteen sections of "is not X" were actually for.</li>
+      <li><strong>Take the closing verse on its own.</strong> "Like a dream, a bubble, a shadow" is traditionally chanted by itself. Read the whole sūtra once, then come back another day and sit with just those four lines — the text is built to reward that kind of return.</li>
+    </ol>
+
+    <h3>Three questions Western students often ask</h3>
+    <p><strong>"If no being is ever really liberated, why does the Buddha spend the whole sūtra teaching liberation?"</strong> Because the two statements are not in tension the way they first sound. Section 3 says a bodhisattva vows to liberate every being <em>and</em> that, in truth, no being is liberated — and both halves are meant to stand. The vow is real and total; what is denied is that "being liberated" names a fixed transaction between a solid liberator and a solid liberated person. Compassion doesn't require a permanent self on either end to be genuine — if anything, the sūtra argues, believing there is one is what eventually curdles compassion into pride.</p>
+
+    <p><strong>"Doesn't 'the Tathāgata attained nothing' mean the Buddha's awakening wasn't real?"</strong> No — it means awakening isn't a possession, a trophy acquired at one moment and held ever after. Section 22's "not the least thing whatsoever was attained" is not modesty or negative theology; it is the same move made everywhere else in the text, applied to the goal itself. If awakening were a fixed thing to be grasped, it would be one more object for the self to cling to — and the whole sūtra has just spent twenty-one sections showing you why that clinging is exactly what awakening dissolves.</p>
+
+    <p><strong>"This text keeps saying words don't refer to real things — isn't that just skepticism about language?"</strong> Not quite. The sūtra never says language is useless or meaningless — it keeps using the words right after negating them ("that is why it is called X"). What it denies is a specific, additional claim: that behind each useful word sits a separate, self-contained essence the word simply points at. Take that extra claim away and the words still work perfectly well for teaching, giving, and living — they just stop being places the mind can secretly try to move in and set up a permanent residence.</p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">vajra</span> <span class="zh">金剛</span> — diamond, or more literally a thunderbolt: something that cuts through anything and cannot itself be cut. The image behind the sūtra's title and its method.
+      </div>
+      <div class="term">
+        <span class="pali-word">Vajracchedikā Prajñāpāramitā</span> <span class="zh">金剛般若波羅蜜</span> — "the diamond that cuts through to the Perfection of Wisdom." The sūtra's full name, given by the Buddha himself in Section 13.
+      </div>
+      <div class="term">
+        <span class="pali-word">Subhūti</span> <span class="zh">須菩提</span> — the disciple foremost in understanding emptiness, and the Buddha's interlocutor throughout. Asks the same opening question twice, in Sections 2 and 17.
+      </div>
+      <div class="term">
+        <span class="pali-word">即非…是名…</span> — "is exactly not… that is why it is called…" The sūtra's three-beat refrain: name a thing, deny it a fixed essence, restore the word to ordinary, ungrasped use.
+      </div>
+      <div class="term">
+        <span class="pali-word">我相、人相、眾生相、壽者相</span> — the notion of a self, a person, a being, a lifespan. One grasping viewed from four angles; the root error the text returns to again and again.
+      </div>
+      <div class="term">
+        <span class="pali-word">應無所住而生其心</span> — "give rise to a mind that dwells nowhere at all" (Section 10). The sūtra's most famous line — traditionally the sentence that first awakened Huineng, the Sixth Chan Patriarch.
+      </div>
+      <div class="term">
+        <span class="pali-word">dāna</span> <span class="zh">布施</span> — giving, generosity. The sūtra's opening practice: give without dwelling on a giver, a gift, or a receiver as fixed, separate things.
+      </div>
+      <div class="term">
+        <span class="pali-word">阿耨多羅三藐三菩提</span> <em>(anuttarā-samyak-saṃbodhi)</em> — unsurpassed, perfect, complete awakening. The goal the sūtra names constantly, then repeatedly denies is a fixed thing to be attained.
+      </div>
+      <div class="term">
+        <span class="pali-word">King Kalī</span> <span class="zh">歌利王</span> — the king who, in a past life, cut the Buddha's body apart; the Buddha felt no anger, having no fixed self left to defend. The sūtra's example of the perfection of patience (Section 14).
+      </div>
+      <div class="term">
+        <span class="pali-word">一合相</span> — a single, indivisible whole. What a "universe" would have to be if it truly existed as one solid thing — which, the sūtra says, it does not (Section 30).
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The Chinese is Kumārajīva's translation of c.&nbsp;402&nbsp;CE (<span class="zh" style="font-family:'PingFang TC',serif">鳩摩羅什</span>, Taishō T235), collated against the Jiangweinong edition and in the public domain — the version studied and chanted across East Asia, later divided into the 32 traditional sections (<span class="zh" style="font-family:'PingFang TC',serif">分</span>) attributed to Prince Zhaoming of Liang. The English translation was made for Ru-Yi Meditation Center, kept plain and close to the Chinese, following the same conventions as the Heart Sūtra page. The 32 sections are grouped below into eight movements for readability; the movement break after Section 16 also marks the course's Part One / Part Two division.
+    </div>
+
+    <div class="text-block">
+
+      <div class="movement">I · Setting Out</div>
+
+      <div class="verse">
+        <div class="fen-label">Section 1 · The Occasion <span class="zh">法會因由分第一</span></div>
+        <div class="zh">如是我聞。一時，佛在舍衛國祇樹給孤獨園，與大比丘眾千二百五十人俱。爾時，世尊食時，著衣持缽，入舍衛大城乞食。於其城中，次第乞已，還至本處。飯食訖，收衣缽，洗足已，敷座而坐。</div>
+        <p class="en">Thus have I heard. At one time the Buddha was staying at Jetavana, in Anāthapiṇḍada's Park near Śrāvastī, together with a great assembly of monks, twelve hundred and fifty in all. When it came time to eat, the World-Honored One put on his robe, took up his bowl, and went into the great city of Śrāvastī to beg for food. Going from door to door in order, he returned to his own place when he had finished. He ate the food, put away his robe and bowl, washed his feet, and sat down on the seat prepared for him.</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 2 · Subhūti Asks the Question <span class="zh">善現啟請分第二</span></div>
+        <div class="zh">時，長老須菩提，在大眾中，即從座起，偏袒右肩，右膝著地，合掌恭敬。而白佛言：「希有世尊！如來善護念諸菩薩，善付囑諸菩薩。世尊！善男子、善女人，發阿耨多羅三藐三菩提心，應云何住？云何降伏其心？」<br><br>佛言：「善哉，善哉。須菩提！如汝所說：如來善護念諸菩薩，善付囑諸菩薩。汝今諦聽，當為汝說：善男子、善女人，發阿耨多羅三藐三菩提心，應如是住，如是降伏其心。」<br><br>「唯然，世尊！願樂欲聞。」</div>
+        <p class="en">At that time the elder Subhūti rose from his seat in the midst of the assembly, bared his right shoulder, knelt on his right knee, and, joining his palms together in reverence, said to the Buddha: "How rare, World-Honored One! The Tathāgata watches over and cares for all bodhisattvas, and entrusts all bodhisattvas with his teaching. World-Honored One — when a good son or good daughter sets out for unsurpassed, perfect, complete awakening, how should they stand, and how should they subdue their own mind?"<br><br>The Buddha said: "Well asked, well asked, Subhūti. It is as you say — the Tathāgata watches over and cares for all bodhisattvas, and entrusts all bodhisattvas with his teaching. Listen carefully now; I will tell you. When a good son or good daughter sets out for unsurpassed, perfect, complete awakening, they should stand like this, and subdue their mind like this."<br><br>"Yes, World-Honored One — we would gladly hear it."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 3 · The True Doctrine of the Great Vehicle <span class="zh">大乘正宗分第三</span></div>
+        <div class="zh">佛告須菩提：「諸菩薩摩訶薩，應如是降伏其心：所有一切眾生之類，若卵生、若胎生、若濕生、若化生；若有色、若無色；若有想、若無想、若非有想非無想，我皆令入無餘涅槃而滅度之。如是滅度無量無數無邊眾生，實無眾生得滅度者。何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，即非菩薩。」</div>
+        <p class="en">The Buddha told Subhūti: "All bodhisattva-mahāsattvas should subdue their mind like this: of every kind of sentient being there is — born from an egg, born from a womb, born from moisture, born by transformation; possessing form or without form; possessing perception, without perception, or neither possessing nor lacking perception — I will lead every one of them to final nirvāṇa, and there liberate them all. And when I have liberated these countless, immeasurable, boundless beings, in truth no being at all has been liberated. Why is this? Subhūti, if a bodhisattva still holds the notion of a self, a person, a being, or a lifespan, that bodhisattva is no bodhisattva at all."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 4 · Wondrous Practice, Without Dwelling <span class="zh">妙行無住分第四</span></div>
+        <div class="zh">「復次，須菩提！菩薩於法，應無所住，行於布施。所謂不住色布施，不住聲、香、味、觸、法布施。須菩提！菩薩應如是布施，不住於相。何以故？若菩薩不住相布施。其福德不可思量。」<br><br>「須菩提！於意云何？東方虛空，可思量不？」「不也，世尊！」「須菩提！南、西、北方，四維上下虛空，可思量不？」「不也，世尊！」<br><br>「須菩提！菩薩無住相布施，福德亦復如是不可思量。須菩提！菩薩但應如所教住。」</div>
+        <p class="en">"Furthermore, Subhūti, when a bodhisattva practises giving, they should give without dwelling on anything at all — giving without dwelling on form, and without dwelling on sound, smell, taste, touch, or mental object. Subhūti, a bodhisattva should give like this, not dwelling on any mark. Why is this? If a bodhisattva gives without dwelling on marks, their merit cannot be measured."<br><br>"Subhūti, what do you think — can the empty space to the east be measured?" "No, World-Honored One." "Subhūti, can the empty space to the south, west, north, above, and below be measured?" "No, World-Honored One."<br><br>"Subhūti, the merit of a bodhisattva who gives without dwelling on marks is just as unmeasurable as that. Subhūti, a bodhisattva should stand only in the way I have taught."</p>
+      </div>
+
+      <div class="movement">II · The Marks Are Not the Real</div>
+
+      <div class="verse">
+        <div class="fen-label">Section 5 · Seeing Reality As It Truly Is <span class="zh">如理實見分第五</span></div>
+        <div class="zh">「須菩提。於意云何？可以身相見如來不？」<br><br>「不也，世尊，不可以身相得見如來。何以故？如來所說身相，即非身相。」<br><br>佛告須菩提：「凡所有相，皆是虛妄。若見諸相非相，即見如來。」</div>
+        <p class="en">"Subhūti, what do you think — can the Tathāgata be seen by his bodily marks?"<br><br>"No, World-Honored One, the Tathāgata cannot be seen by his bodily marks. Why is this? What the Tathāgata calls bodily marks are no bodily marks at all."<br><br>The Buddha told Subhūti: "Wherever there is a mark, it is empty and false. See that all marks are no marks, and you see the Tathāgata."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 6 · True Faith Is Rare <span class="zh">正信希有分第六</span></div>
+        <div class="zh">須菩提白佛言：「世尊！頗有眾生，得聞如是言說章句，生實信不？」<br><br>佛告須菩提：「莫作是說。如來滅後，後五百歲，有持戒修福者，於此章句能生信心，以此為實，當知是人不於一佛、二佛、三四五佛而種善根，已於無量千萬佛所種諸善根，聞是章句，乃至一念生淨信者，須菩提！如來悉知悉見，是諸眾生得如是無量福德。何以故？是諸眾生無復我相、人相、眾生相、壽者相。」<br><br>「無法相，亦無非法相。何以故？是諸眾生若心取相，則為著我、人、眾生、壽者。」<br><br>「若取法相，即著我、人、眾生、壽者。何以故？若取非法相，即著我、人、眾生、壽者。是故不應取法，不應取非法。以是義故，如來常說：汝等比丘，知我說法，如筏喻者，法尚應捨，何況非法。」</div>
+        <p class="en">Subhūti said to the Buddha: "World-Honored One, will there really be beings who, hearing words and passages like these, give rise to true faith?"<br><br>The Buddha told Subhūti: "Do not speak like that. Five hundred years after the Tathāgata's final passing, there will be those who keep the precepts and cultivate merit, who are able to give rise to faith in these very words, and take them as true. Know that such people have not planted good roots under just one buddha, or two, or three, four, five buddhas — they have planted good roots under countless thousands of buddhas. Whoever hears these words and gives rise to even a single thought of pure faith — Subhūti, the Tathāgata knows them completely, sees them completely, and they obtain immeasurable merit of just this kind. Why is this? Because these beings no longer hold the notion of a self, a person, a being, or a lifespan."<br><br>"They hold no notion of a teaching, and no notion of a non-teaching either. Why is this? If these beings' minds grasp at a mark, they thereby cling to a self, a person, a being, a lifespan."<br><br>"If they grasp at the mark of a teaching, they thereby cling to a self, a person, a being, a lifespan. Why is this? If they grasp at the mark of a non-teaching, they thereby cling to a self, a person, a being, a lifespan. For this reason you should not grasp at a teaching, and you should not grasp at a non-teaching either. This is why the Tathāgata always says: monks, know that my teaching is like a raft — even the teaching itself should be let go of, how much more so what is not the teaching."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 7 · Nothing Attained, Nothing Taught <span class="zh">無得無說分第七</span></div>
+        <div class="zh">「須菩提！於意云何？如來得阿耨多羅三藐三菩提耶？如來有所說法耶？」<br><br>須菩提言：「如我解佛所說義，無有定法，名『阿耨多羅三藐三菩提』，亦無有定法，如來可說。何以故？如來所說法。皆不可取、不可說；非法，非非法。所以者何？一切賢聖，皆以無為法而有差別。」</div>
+        <p class="en">"Subhūti, what do you think — has the Tathāgata attained unsurpassed, perfect, complete awakening? Has the Tathāgata taught any fixed teaching?"<br><br>Subhūti said: "As I understand what the Buddha has taught, there is no fixed teaching called 'unsurpassed, perfect, complete awakening,' and there is no fixed teaching that the Tathāgata could teach. Why is this? What the Tathāgata teaches can none of it be grasped, and none of it be spoken; it is neither a teaching nor a non-teaching. And why is that? Because all the sages and worthies are distinguished by the unconditioned."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 8 · Born From This Teaching <span class="zh">依法出生分第八</span></div>
+        <div class="zh">「須菩提！於意云何？若人滿三千大千世界七寶以用布施，是人所得福德，寧為多不？」<br><br>須菩提言：「甚多，世尊！何以故？是福德即非福德性，是故如來說福德多。」<br><br>「若復有人，於此經中受持，乃至四句偈等，為他人說，其福勝彼。何以故？須菩提！一切諸佛，及諸佛阿耨多羅三藐三菩提法，皆從此經出。須菩提！所謂佛法者，即非佛法，是名佛法。」</div>
+        <p class="en">"Subhūti, what do you think — if someone filled a billion-world universe with the seven treasures and gave it all away, would the merit that person gained be great?"<br><br>Subhūti said: "Very great, World-Honored One. Why is this? Because this merit has no fixed nature as merit — that is exactly why the Tathāgata calls it great merit."<br><br>"But if someone else took up even a single four-line verse of this sūtra, upheld it, and explained it to others, their merit would surpass the first person's. Why is this? Subhūti, all buddhas, and the teaching of unsurpassed, perfect, complete awakening that all buddhas hold, come forth from this very sūtra. Subhūti, what is called the buddha-dharma is no buddha-dharma at all — that is why it is called the buddha-dharma."</p>
+      </div>
+
+      <div class="movement">III · No Fixed Fruit to Hold</div>
+
+      <div class="verse">
+        <div class="fen-label">Section 9 · One Mark Is No Mark <span class="zh">一相無相分第九</span></div>
+        <div class="zh">「須菩提！於意云何？須陀洹能作是念：『我得須陀洹果』不？」須菩提言：「不也，世尊！何以故？須陀洹名為入流，而無所入；不入色、聲、香、味、觸、法，是名須陀洹。」<br><br>「須菩提！於意云何？斯陀含能作是念：『我得斯陀含果』不？」須菩提言：「不也，世尊！何以故？斯陀含名一往來，而實無往來，是名斯陀含。」<br><br>「須菩提！於意云何？阿那含能作是念：『我得阿那含果』不？」須菩提言：「不也，世尊！何以故？阿那含名為不來，而實無不來，是故名阿那含。」<br><br>「須菩提！於意云何？阿羅漢能作是念：『我得阿羅漢道』不？」須菩提言：「不也，世尊！何以故？實無有法名阿羅漢。世尊！若阿羅漢作是念：『我得阿羅漢道』即為著我、人、眾生、壽者。世尊！佛說我得無諍三昧，人中最為第一，是第一離欲阿羅漢。世尊！我不作是念：『我是離欲阿羅漢。』世尊！我若作是念：『我得阿羅漢道。』世尊則不說須菩提是樂阿蘭那行者。以須菩提實無所行，而名須菩提，是樂阿蘭那行。」</div>
+        <p class="en">"Subhūti, what do you think — can a stream-enterer have the thought, 'I have attained the fruit of stream-entry'?" Subhūti said: "No, World-Honored One. Why is this? 'Stream-enterer' means one who has entered the stream, yet there is nothing entered — not entering form, sound, smell, taste, touch, or mental object. That is why they are called a stream-enterer."<br><br>"Subhūti, what do you think — can a once-returner have the thought, 'I have attained the fruit of once-returning'?" Subhūti said: "No, World-Honored One. Why is this? 'Once-returner' means one who goes and returns once, yet in truth there is no going and returning. That is why they are called a once-returner."<br><br>"Subhūti, what do you think — can a non-returner have the thought, 'I have attained the fruit of non-returning'?" Subhūti said: "No, World-Honored One. Why is this? 'Non-returner' means one who does not return, yet in truth there is no not-returning. That is why they are called a non-returner."<br><br>"Subhūti, what do you think — can an arhat have the thought, 'I have attained the path of arhatship'?" Subhūti said: "No, World-Honored One. Why is this? There is in truth no fixed thing called 'arhat.' World-Honored One, if an arhat had the thought, 'I have attained the path of arhatship,' that would be clinging to a self, a person, a being, a lifespan. World-Honored One, the Buddha has said that I have attained the state free of contention and am foremost among people — the foremost arhat free of desire. But World-Honored One, I do not have the thought, 'I am an arhat free of desire.' World-Honored One, if I had the thought, 'I have attained the path of arhatship,' the World-Honored One would not say that Subhūti is one who delights in the practice of stillness. It is only because Subhūti in truth practises nothing at all that he is called Subhūti, one who delights in the practice of stillness."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 10 · Adorning the Buddha-Land <span class="zh">莊嚴淨土分第十</span></div>
+        <div class="zh">佛告須菩提：「於意云何？如來昔在燃燈佛所，於法有所得不？」「不也，世尊！如來在燃燈佛所，於法實無所得。」<br><br>「須菩提！於意云何？菩薩莊嚴佛土不？」「不也，世尊！何以故？莊嚴佛土者，即非莊嚴，是名莊嚴。」<br><br>「是故，須菩提！諸菩薩摩訶薩，應如是生清淨心，不應住色生心，不應住聲、香、味、觸、法生心，應無所住而生其心。」<br><br>「須菩提！譬如有人，身如須彌山王，於意云何？是身為大不？」須菩提言：「甚大，世尊！何以故？佛說非身，是名大身。」</div>
+        <p class="en">The Buddha told Subhūti: "What do you think — long ago, in the presence of Dīpaṃkara Buddha, did the Tathāgata attain anything in the teaching?" "No, World-Honored One. In the presence of Dīpaṃkara Buddha, the Tathāgata in truth attained nothing in the teaching."<br><br>"Subhūti, what do you think — does a bodhisattva adorn a buddha-land?" "No, World-Honored One. Why is this? To adorn a buddha-land is no adorning at all — that is why it is called adorning."<br><br>"For this reason, Subhūti, all bodhisattva-mahāsattvas should give rise to a pure mind like this: they should not give rise to a mind dwelling on form, nor give rise to a mind dwelling on sound, smell, taste, touch, or mental object. <strong>They should give rise to a mind that dwells nowhere at all.</strong>"<br><br>"Subhūti, suppose there were a person whose body was as great as Mount Sumeru, king of mountains — what do you think, would that body be large?" Subhūti said: "Very large, World-Honored One. Why is this? The Buddha speaks of no-body — that is why it is called a great body."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 11 · The Merit of the Unconditioned Surpasses <span class="zh">無為福勝分第十一</span></div>
+        <div class="zh">「須菩提！如恆河中所有沙數，如是沙等恆河，於意云何？是諸恆河沙，寧為多不？」須菩提言：「甚多，世尊！但諸恆河，尚多無數，何況其沙。」<br><br>「須菩提！我今實言告汝：若有善男子、善女人，以七寶滿爾所恆河沙數三千大千世界，以用布施，得福多不？」須菩提言：「甚多，世尊！」<br><br>佛告須菩提：「若善男子、善女人，於此經中，乃至受持四句偈等，為他人說，而此福德，勝前福德。」</div>
+        <p class="en">"Subhūti, if there were as many Ganges Rivers as there are grains of sand in the Ganges, what do you think — would the grains of sand in all those Ganges Rivers be many?" Subhūti said: "Very many, World-Honored One. Just the Ganges Rivers themselves would be beyond counting, how much more so their grains of sand."<br><br>"Subhūti, I tell you truly now: if a good son or good daughter filled as many billion-world universes as there are grains of sand in all those Ganges Rivers with the seven treasures, and gave it all away, would the merit they gained be great?" Subhūti said: "Very great, World-Honored One."<br><br>The Buddha told Subhūti: "But if a good son or good daughter took up even a single four-line verse of this sūtra, upheld it, and explained it to others, this merit would surpass that merit."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 12 · Honoring the True Teaching <span class="zh">尊重正教分第十二</span></div>
+        <div class="zh">「復次，須菩提！隨說是經，乃至四句偈等，當知此處，一切世間，天、人、阿修羅，皆應供養，如佛塔廟。何況有人，盡能受持讀誦。須菩提！當知是人成就最上第一希有之法，若是經典所在之處，即為有佛，若尊重弟子。」</div>
+        <p class="en">"Furthermore, Subhūti, wherever this sūtra is spoken, even a single four-line verse of it, know that this place should be venerated by every being in every world — gods, humans, and asuras alike — as they would venerate a buddha's stūpa or shrine. How much more so where someone can uphold, recite, and fully embody it. Subhūti, know that such a person accomplishes the highest, foremost, rarest teaching. And wherever this sūtra is found, there the Buddha is present, honored among his disciples."</p>
+      </div>
+
+      <div class="movement">IV · A Mind That Dwells Nowhere</div>
+
+      <div class="verse">
+        <div class="fen-label">Section 13 · Upholding It As Taught <span class="zh">如法受持分第十三</span></div>
+        <div class="zh">爾時，須菩提白佛言：「世尊！當何名此經？我等云何奉持？」<br><br>佛告須菩提：「是經名為金剛般若波羅蜜，以是名字，汝當奉持。所以者何？須菩提！佛說般若波羅蜜，即非般若波羅蜜。是名般若波羅蜜。須菩提！於意云何？如來有所說法不？」須菩提白佛言：「世尊！如來無所說。」<br><br>「須菩提！於意云何？三千大千世界所有微塵，是為多不？」須菩提言：「甚多，世尊！」<br><br>「須菩提！諸微塵，如來說非微塵，是名微塵。如來說：世界，非世界，是名世界。須菩提！於意云何？可以三十二相見如來不？」「不也，世尊！不可以三十二相得見如來。何以故？如來說：三十二相，即是非相，是名三十二相。」<br><br>「須菩提！若有善男子、善女人，以恆河沙等身命布施；若復有人，於此經中，乃至受持四句偈等，為他人說，其福甚多！」</div>
+        <p class="en">At that time Subhūti said to the Buddha: "World-Honored One, what should this sūtra be called? How should we hold and carry it?"<br><br>The Buddha told Subhūti: "This sūtra is named the Diamond Perfection of Wisdom. By this name you should hold and carry it. Why is that? Subhūti, what the Buddha calls the Perfection of Wisdom is no Perfection of Wisdom — that is why it is called the Perfection of Wisdom. Subhūti, what do you think — has the Tathāgata taught anything at all?" Subhūti said to the Buddha: "World-Honored One, the Tathāgata has taught nothing."<br><br>"Subhūti, what do you think — are the specks of dust in a billion-world universe many?" Subhūti said: "Very many, World-Honored One."<br><br>"Subhūti, the Tathāgata says these specks of dust are no specks of dust — that is why they are called specks of dust. The Tathāgata says a world is no world — that is why it is called a world. Subhūti, what do you think — can the Tathāgata be seen by his thirty-two marks?" "No, World-Honored One, the Tathāgata cannot be seen by his thirty-two marks. Why is this? The Tathāgata says the thirty-two marks are no marks at all — that is why they are called the thirty-two marks."<br><br>"Subhūti, if a good son or good daughter gave up as many bodies and lives as there are grains of sand in the Ganges; and if someone else took up even a single four-line verse of this sūtra and explained it to others — that person's merit would be far, far greater."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 14 · Beyond All Marks, Utter Stillness <span class="zh">離相寂滅分第十四</span></div>
+        <div class="zh">爾時，須菩提聞說是經，深解義趣，涕淚悲泣，而白佛言：「希有世尊！佛說如是甚深經典，我從昔來所得慧眼，未曾得聞如是之經。世尊！若復有人，得聞是經，信心清淨，則生實相，當知是人，成就第一希有功德。世尊！是實相者，則是非相，是故如來說名實相。世尊！我今得聞如是經典，信解受持，不足為難；若當來世，後五百歲，其有眾生，得聞是經，信解受持，是人則為第一希有。何以故？此人無我相、無人相、無眾生相、無壽者相。所以者何？我相，即是非相；人相、眾生相、壽者相，即是非相。何以故？離一切諸相，則名諸佛。」<br><br>佛告須菩提：「如是，如是！若復有人，得聞是經，不驚、不怖、不畏，當知是人，甚為希有。何以故？須菩提！如來說：第一波羅蜜，即非第一波羅蜜，是名第一波羅蜜。須菩提！忍辱波羅蜜，如來說非忍辱波羅蜜。是名忍辱波羅密。何以故？須菩提！如我昔為歌利王割截身體，我於爾時，無我相、無人相、無眾生相、無壽者相。何以故？我於往昔，節節支解時，若有我相、人相、眾生相、壽者相，應生瞋恨。須菩提！又念過去，於五百世，作忍辱仙人，於爾所世，無我相、無人相、無眾生相、無壽者相。是故須菩提！菩薩應離一切相，發阿耨多羅三藐三菩提心。不應住色生心，不應住聲、香、味、觸、法生心，應生無所住心。若心有住，則為非住。」<br><br>「是故佛說：菩薩心不應住色布施。須菩提！菩薩為利益一切眾生故，應如是布施。如來說：一切諸相，即是非相。又說：一切眾生，即非眾生。須菩提！如來是真語者、實語者、如語者、不誑語者、不異語者。」<br><br>「須菩提！如來所得法，此法無實無虛。須菩提！若菩薩心住於法而行布施，如人入闇，則無所見；若菩薩心不住法而行布施，如人有目，日光明照，見種種色。」<br><br>「須菩提！當來之世，若有善男子、善女人，能於此經，受持讀誦，則為如來，以佛智慧，悉知是人，悉見是人，皆得成就無量無邊功德。」</div>
+        <p class="en">At that time, hearing this sūtra taught, Subhūti understood its meaning deeply, and, weeping, said to the Buddha: "How rare, World-Honored One! Since I first gained the eye of wisdom, I have never before heard a sūtra as profound as this. World-Honored One, if someone hears this sūtra with a pure and believing mind, true reality will arise in them, and know that this person accomplishes the rarest merit. World-Honored One, this 'true reality' is no mark at all — that is why the Tathāgata calls it true reality. World-Honored One, that I can now hear this sūtra, believe it, understand it, and hold to it is not so difficult. But five hundred years from now, in a future age, if there is anyone who hears this sūtra and believes it, understands it, and holds to it — that person will be rarest of all. Why is this? Because that person will hold no notion of a self, a person, a being, or a lifespan. And why is that? The notion of a self is no notion at all; the notion of a person, a being, a lifespan, are no notions at all. Why is this? Whoever is free of every notion is called a buddha."<br><br>The Buddha told Subhūti: "So it is, so it is. If someone hears this sūtra and is not startled, not alarmed, not afraid, know that this person is rare indeed. Why is this? Subhūti, what the Tathāgata calls the foremost perfection is no foremost perfection — that is why it is called the foremost perfection. Subhūti, the perfection of patience — the Tathāgata says it is no perfection of patience. That is why it is called the perfection of patience. Why is this? Subhūti, long ago when <strong>King Kalī</strong> cut my body limb from limb, I held no notion of a self, no notion of a person, no notion of a being, no notion of a lifespan. Why do I say this? Because if, as my limbs were cut away piece by piece, I had held the notion of a self, a person, a being, a lifespan, I would surely have given rise to anger and resentment. Subhūti, I also recall that in ages past, for five hundred lives, I was a sage who practised patience — and through all those lives I held no notion of a self, a person, a being, a lifespan. For this reason, Subhūti, a bodhisattva should be free of every notion when they set out for unsurpassed, perfect, complete awakening. They should not give rise to a mind dwelling on form, nor a mind dwelling on sound, smell, taste, touch, or mental object; they should give rise to a mind that dwells nowhere at all. If the mind dwells anywhere, that is no true dwelling."<br><br>"This is why the Buddha says a bodhisattva's mind should not dwell on form when giving. Subhūti, it is for the benefit of all beings that a bodhisattva should give like this. The Tathāgata says every notion is no notion at all, and also says every being is no being at all. Subhūti, the Tathāgata is one who speaks what is true, speaks what is real, speaks what accords with things as they are, does not speak falsely, does not speak in contradiction."<br><br>"Subhūti, the teaching the Tathāgata has attained is neither substantial nor empty. Subhūti, if a bodhisattva's mind dwells on some teaching while practising giving, it is like a person walking in darkness who sees nothing at all. If a bodhisattva's mind does not dwell on any teaching while practising giving, it is like a person with clear eyes, in bright sunlight, who sees every kind of form."<br><br>"Subhūti, in ages to come, if a good son or good daughter can uphold and recite this sūtra, the Tathāgata, through the Buddha's wisdom, will know that person completely and see that person completely, and they will accomplish immeasurable, boundless merit."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 15 · The Merit of Upholding This Sūtra <span class="zh">持經功德分第十五</span></div>
+        <div class="zh">「須菩提！若有善男子、善女人，初日分以恆河沙等身布施，中日分復以恆河沙等身布施，後日分亦以恆河沙等身布施，如是無量百千萬億劫，以身布施；若復有人，聞此經典，信心不逆，其福勝彼，何況書寫、受持、讀誦、為人解說。」<br><br>「須菩提！以要言之，是經有不可思議、不可稱量、無邊功德。如來為發大乘者說，為發最上乘者說。若有人能受持讀誦，廣為人說，如來悉知是人，悉見是人，皆得成就不可量、不可稱、無有邊、不可思議功德。」<br><br>「如是人等，則為荷擔如來阿耨多羅三藐三菩提。何以故？須菩提！若樂小法者，著我見、人見、眾生見、壽者見，則於此經不能聽受、讀誦，為人解說。」<br><br>「須菩提！在在處處，若有此經，一切世間，天、人、阿修羅，所應供養；當知此處，則為是塔，皆應恭敬，作禮圍遶，以諸華香而散其處。」</div>
+        <p class="en">"Subhūti, if a good son or good daughter gave up as many bodies as there are grains of sand in the Ganges in the morning, gave up as many bodies again at midday, and gave up as many bodies again in the evening, and kept giving up bodies like this for countless hundreds of thousands of millions of aeons; and if someone else, on hearing this sūtra, believed it without resistance — this person's merit would surpass the first, how much more so one who copies it, upholds it, recites it, and explains it to others."<br><br>"Subhūti, to put it simply, this sūtra has merit beyond thought, beyond measure, beyond limit. The Tathāgata teaches it for those who have set out on the great vehicle, for those who have set out on the supreme vehicle. If anyone can uphold and recite it, and widely explain it to others, the Tathāgata will know that person completely and see that person completely, and they will accomplish merit beyond measure, beyond reckoning, beyond limit, beyond thought."<br><br>"People such as these carry the Tathāgata's unsurpassed, perfect, complete awakening on their own shoulders. Why is this? Subhūti, if someone delights in lesser teachings, clinging to the view of a self, a person, a being, a lifespan, they will not be able to hear this sūtra, recite it, or explain it to others."<br><br>"Subhūti, wherever this sūtra is found, it should be venerated by every being in every world — gods, humans, and asuras alike. Know that such a place is like a stūpa, and all should honor it, bow before it, circle around it in reverence, and scatter flowers and incense there."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 16 · Purifying Karmic Obstruction <span class="zh">能淨業障分第十六</span></div>
+        <div class="zh">「復次，須菩提！善男子、善女人，受持讀誦此經，若為人輕賤，是人先世罪業，應墮惡道，以今世人輕賤故，先世罪業則為消滅，當得阿耨多羅三藐三菩提。」<br><br>「須菩提！我念過去無量阿僧祇劫，於燃燈佛前，得值八百四千萬億那由他諸佛，悉皆供養承事，無空過者；若復有人，於後末世，能受持讀誦此經，所得功德，於我所供養諸佛功德，百分不及一，千萬億分、乃至算數譬喻所不能及。」<br><br>「須菩提！若善男子，善女人，於後末世，有受持讀誦此經，所得功德，我若具說者，或有人聞，心則狂亂，狐疑不信。須菩提！當知是經義不可思議，果報亦不可思議！」</div>
+        <p class="en">"Furthermore, Subhūti, if a good son or good daughter upholds and recites this sūtra and is treated with contempt, that is because of wrongdoing from a former life which should have brought them down into a lower realm; but because they are treated with contempt in this present life, the wrongdoing of that former life is thereby dissolved, and they will attain unsurpassed, perfect, complete awakening."<br><br>"Subhūti, I recall that in ages past, countless incalculable aeons before Dīpaṃkara Buddha, I encountered eighty-four thousand myriad millions of buddhas, and made offerings to every one of them without exception. Yet if someone in the last age can uphold and recite this sūtra, the merit they gain will be so much greater than the merit of all my offerings to those buddhas that mine would not be a hundredth part of it — not a thousandth, not a ten-thousandth, not any fraction that could be reckoned by number or likeness."<br><br>"Subhūti, if I were to fully describe the merit that a good son or good daughter gains from upholding and reciting this sūtra in that last age, some who heard it might become confused in mind, doubtful, and disbelieving. Subhūti, know that the meaning of this sūtra is beyond thought, and its fruit is beyond thought as well."</p>
+      </div>
+
+      <div class="movement">V · No Self, No Attainment — Restated</div>
+
+      <div class="verse">
+        <div class="fen-label">Section 17 · Ultimately, No Self <span class="zh">究竟無我分第十七</span></div>
+        <div class="zh">爾時，須菩提白佛言：「世尊！善男子、善女人，發阿耨多羅三藐三菩提心，云何應住？云何降伏其心？」<br><br>佛告須菩提：「善男子、善女人，發阿耨多羅三藐三菩提心者，當生如是心：我應滅度一切眾生。滅度一切眾生已，而無有一眾生實滅度者。何以故？須菩提！若菩薩有我相、人相、眾生相、壽者相，則非菩薩。所以者何？須菩提！實無有法，發阿耨多羅三藐三菩提心者。」<br><br>「須菩提！於意云何？如來於燃燈佛所，有法得阿耨多羅三藐三菩提不？」「不也，世尊！如我解佛所說義，佛於燃燈佛所，無有法得阿耨多羅三藐三菩提。」<br><br>佛言：「如是，如是！須菩提！實無有法，如來得阿耨多羅三藐三菩提。須菩提！若有法，如來得阿耨多羅三藐三菩提者，燃燈佛則不與我授記：『汝於來世，當得作佛，號釋迦牟尼。』以實無有法得阿耨多羅三藐三菩提，是故燃燈佛與我授記，作是言：『汝於來世，當得作佛，號釋迦牟尼。』何以故？如來者，即諸法如義。」<br><br>「若有人言：如來得阿耨多羅三藐三菩提。須菩提！實無有法，佛得阿耨多羅三藐三菩提。須菩提！如來所得阿耨多羅三藐三菩提，於是中無實無虛。是故如來說：一切法皆是佛法。須菩提！所言一切法者，即非一切法，是故名一切法。」<br><br>「須菩提！譬如人身長大。」須菩提言：「世尊！如來說：人身長大，則為非大身，是名大身。」<br><br>「須菩提！菩薩亦如是。若作是言：我當滅度無量眾生，則不名菩薩。何以故？須菩提！實無有法名為菩薩。是故佛說一切法，無我、無人、無眾生、無壽者。」<br><br>「須菩提！若菩薩作是言：『我當莊嚴佛土』，是不名菩薩。何以故？如來說：莊嚴佛土者，即非莊嚴，是名莊嚴。」<br><br>「須菩提！若菩薩通達無我、法者，如來說名真是菩薩。」</div>
+        <p class="en">At that time Subhūti said to the Buddha: "World-Honored One, when a good son or good daughter sets out for unsurpassed, perfect, complete awakening, how should they stand, and how should they subdue their mind?"<br><br>The Buddha told Subhūti: "A good son or good daughter who sets out for unsurpassed, perfect, complete awakening should give rise to a mind like this: I must liberate every single being. And once every being is liberated, in truth not one being at all has been liberated. Why is this? Subhūti, if a bodhisattva holds the notion of a self, a person, a being, a lifespan, they are no bodhisattva. And why is that? Subhūti, there is in truth no fixed thing called 'one who sets out for unsurpassed, perfect, complete awakening.'"<br><br>"Subhūti, what do you think — in the presence of Dīpaṃkara Buddha, did the Tathāgata attain any fixed teaching called unsurpassed, perfect, complete awakening?" "No, World-Honored One. As I understand what the Buddha has taught, in the presence of Dīpaṃkara Buddha, the Buddha attained no fixed teaching called unsurpassed, perfect, complete awakening."<br><br>The Buddha said: "So it is, so it is, Subhūti. There is in truth no fixed teaching by which the Tathāgata attained unsurpassed, perfect, complete awakening. Subhūti, if there had been such a fixed teaching, Dīpaṃkara Buddha would not have given me the prediction, saying, 'In a future age you will become a buddha, named Śākyamuni.' It was precisely because there is no fixed teaching to attain unsurpassed, perfect, complete awakening that Dīpaṃkara Buddha gave me this prediction, saying, 'In a future age you will become a buddha, named Śākyamuni.' Why is this? 'Tathāgata' means precisely 'suchness of all things.'"<br><br>"If someone says the Tathāgata attained unsurpassed, perfect, complete awakening — Subhūti, there is in truth no fixed teaching by which the Buddha attained unsurpassed, perfect, complete awakening. Subhūti, the unsurpassed, perfect, complete awakening that the Tathāgata attained is, within itself, neither substantial nor empty. This is why the Tathāgata says all things are the buddha-dharma. Subhūti, what is called 'all things' is no 'all things' at all — that is why it is called 'all things.'"<br><br>"Subhūti, it is like a person of great, towering stature." Subhūti said: "World-Honored One, the Tathāgata says a person of great stature is no great body at all — that is why it is called a great body."<br><br>"Subhūti, a bodhisattva is just the same. If a bodhisattva says, 'I must liberate countless beings,' they cannot be called a bodhisattva. Why is this? Subhūti, there is in truth no fixed thing called a bodhisattva. This is why the Buddha says all things are without self, without person, without being, without lifespan."<br><br>"Subhūti, if a bodhisattva says, 'I must adorn a buddha-land,' they cannot be called a bodhisattva. Why is this? The Tathāgata says to adorn a buddha-land is no adorning at all — that is why it is called adorning."<br><br>"Subhūti, only if a bodhisattva penetrates through to the selflessness of all things does the Tathāgata call them a true bodhisattva."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 18 · One Body, One Seeing <span class="zh">一體同觀分第十八</span></div>
+        <div class="zh">「須菩提！於意云何？如來有肉眼不？」「如是，世尊！如來有肉眼。」「須菩提！於意云何？如來有天眼不？」「如是，世尊！如來有天眼。」「須菩提！於意云何？如來有慧眼不？」「如是，世尊！如來有慧眼。」「須菩提！於意云何？如來有法眼不？」「如是，世尊！如來有法眼。」「須菩提！於意云何？如來有佛眼不？」「如是，世尊！如來有佛眼。」<br><br>「須菩提！於意云何？如恆河中所有沙，佛說是沙不？」「如是，世尊！如來說是沙。」<br><br>「須菩提！於意云何？如一恆河中所有沙，有如是沙等恆河，是諸恆河所有沙數，佛世界如是，寧為多不？」「甚多，世尊。」<br><br>佛告須菩提：「爾所國土中，所有眾生，若干種心，如來悉知。何以故？如來說：諸心皆為非心，是名為心。所以者何？須菩提！過去心不可得，現在心不可得，未來心不可得。」</div>
+        <p class="en">"Subhūti, what do you think — does the Tathāgata have the physical eye?" "Yes, World-Honored One, the Tathāgata has the physical eye." "Does the Tathāgata have the heavenly eye?" "Yes, World-Honored One, the Tathāgata has the heavenly eye." "Does the Tathāgata have the eye of wisdom?" "Yes, World-Honored One, the Tathāgata has the eye of wisdom." "Does the Tathāgata have the dharma eye?" "Yes, World-Honored One, the Tathāgata has the dharma eye." "Does the Tathāgata have the buddha eye?" "Yes, World-Honored One, the Tathāgata has the buddha eye."<br><br>"Subhūti, what do you think — the grains of sand in the Ganges River, has the Buddha spoken of them as sand?" "Yes, World-Honored One, the Tathāgata has spoken of them as sand."<br><br>"Subhūti, what do you think — if there were as many Ganges Rivers as there are grains of sand in one Ganges, and as many buddha-worlds as there are grains of sand in all those Ganges Rivers together, would that be many?" "Very many, World-Honored One."<br><br>The Buddha told Subhūti: "The Tathāgata knows completely every kind of mind that every being in all those lands has. Why is this? What the Tathāgata calls 'minds' are all no minds at all — that is why they are called minds. And why is that, Subhūti? <strong>The mind of the past cannot be grasped, the mind of the present cannot be grasped, the mind of the future cannot be grasped.</strong>"</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 19 · Pervading the Whole Dharma Realm <span class="zh">法界通化分第十九</span></div>
+        <div class="zh">「須菩提！於意云何？若有人滿三千大千世界七寶，以用布施，是人以是因緣，得福多不？」「如是，世尊！此人以是因緣，得福甚多。」<br><br>「須菩提！若福德有實，如來不說得福德多；以福德無故，如來說得福德多。」</div>
+        <p class="en">"Subhūti, what do you think — if someone filled a billion-world universe with the seven treasures and gave it all away, would that person, through this cause, gain great merit?" "Yes, World-Honored One, through this cause that person would gain very great merit."<br><br>"Subhūti, if merit had a substantial nature, the Tathāgata would not speak of gaining great merit; it is precisely because merit has no such nature that the Tathāgata speaks of gaining great merit."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 20 · Beyond Form, Beyond Every Mark <span class="zh">離色離相分第二十</span></div>
+        <div class="zh">「須菩提！於意云何？佛可以具足色身見不？」「不也，世尊！如來不應以具足色身見。何以故？如來說：具足色身，即非具足色身，是名具足色身。」<br><br>「須菩提！於意云何？如來可以具足諸相見不？」「不也，世尊！如來不應以具足諸相見。何以故？如來說：諸相具足，即非具足。是名諸相具足。」</div>
+        <p class="en">"Subhūti, what do you think — can the Buddha be seen through his perfectly formed body?" "No, World-Honored One, the Tathāgata should not be seen through his perfectly formed body. Why is this? The Tathāgata says a perfectly formed body is no perfectly formed body at all — that is why it is called a perfectly formed body."<br><br>"Subhūti, what do you think — can the Tathāgata be seen through his perfectly formed marks?" "No, World-Honored One, the Tathāgata should not be seen through his perfectly formed marks. Why is this? The Tathāgata says perfectly formed marks are no perfection at all — that is why they are called perfectly formed marks."</p>
+      </div>
+
+      <div class="movement">VI · Beyond Every Comparison</div>
+
+      <div class="verse">
+        <div class="fen-label">Section 21 · Not Speaking, Yet Spoken <span class="zh">非說所說分第二十一</span></div>
+        <div class="zh">「須菩提！汝勿謂如來作是念：『我當有所說法。』莫作是念。何以故？若人言：如來有所說法，即為謗佛，不能解我所說故。須菩提！說法者，無法可說，是名說法。」<br><br>爾時，慧命須菩提白佛言：「世尊！頗有眾生，於未來世，聞說是法，生信心不？」<br><br>佛言：「須菩提！彼非眾生，非不眾生。何以故？須菩提！眾生眾生者，如來說非眾生，是名眾生。」</div>
+        <p class="en">"Subhūti, do not say that the Tathāgata has the thought, 'I should teach a teaching.' Do not think this way. Why is this? If someone says the Tathāgata has taught a teaching, they slander the Buddha, because they cannot understand what I have taught. Subhūti, one who teaches, teaches no teaching at all — that is what is called teaching."<br><br>At that time the venerable Subhūti said to the Buddha: "World-Honored One, in ages to come, will there be beings who hear this teaching and give rise to faith?"<br><br>The Buddha said: "Subhūti, they are neither beings nor non-beings. Why is this? Subhūti, what are called 'beings,' the Tathāgata says, are no beings at all — that is why they are called beings."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 22 · Nothing Whatsoever to Attain <span class="zh">無法可得分第二十二</span></div>
+        <div class="zh">須菩提白佛言：「世尊！佛得阿耨多羅三藐三菩提。為無所得耶？」<br><br>佛言：「如是，如是。須菩提！我於阿耨多羅三藐三菩提乃至無有少法可得，是名阿耨多羅三藐三菩提。」</div>
+        <p class="en">Subhūti said to the Buddha: "World-Honored One, when the Buddha attained unsurpassed, perfect, complete awakening — did he attain nothing at all?"<br><br>The Buddha said: "So it is, so it is, Subhūti. In unsurpassed, perfect, complete awakening, I did not attain the least thing whatsoever — that is exactly why it is called unsurpassed, perfect, complete awakening."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 23 · Pure Mind, Wholesome Action <span class="zh">淨心行善分第二十三</span></div>
+        <div class="zh">「復次，須菩提！是法平等，無有高下，是名『阿耨多羅三藐三菩提』；以無我、無人、無眾生、無壽者，修一切善法，則得阿耨多羅三藐三菩提。須菩提！所言善法者，如來說即非善法，是名善法。」</div>
+        <p class="en">"Furthermore, Subhūti, this teaching is level and equal, with nothing higher and nothing lower — that is why it is called unsurpassed, perfect, complete awakening. Free of self, free of person, free of being, free of lifespan, cultivate every wholesome teaching, and unsurpassed, perfect, complete awakening is attained. Subhūti, what is called a wholesome teaching, the Tathāgata says, is no wholesome teaching at all — that is why it is called a wholesome teaching."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 24 · Merit and Wisdom Beyond Compare <span class="zh">福智無比分第二十四</span></div>
+        <div class="zh">「須菩提！若三千大千世界中，所有諸須彌山王，如是等七寶聚，有人持用布施；若人以此《般若波羅蜜經》，乃至四句偈等，受持讀誦，為他人說，於前福德百分不及一，百千萬億分、乃至算數譬喻所不能及。」</div>
+        <p class="en">"Subhūti, if someone gathered up every Mount Sumeru, king of mountains, in a billion-world universe, made them into a mass of the seven treasures, and gave it all away; and if someone else took up even a single four-line verse of this Perfection of Wisdom Sūtra, upheld it, recited it, and explained it to others — the first person's merit would not be a hundredth part of the second, not a fraction in a hundred thousand million, not any fraction that number or likeness could express."</p>
+      </div>
+
+      <div class="movement">VII · Saving No One, Owning Nothing</div>
+
+      <div class="verse">
+        <div class="fen-label">Section 25 · Saving No One At All <span class="zh">化無所化分第二十五</span></div>
+        <div class="zh">「須菩提！於意云何？汝等勿謂如來作是念：『我當度眾生。』須菩提！莫作是念。何以故？實無有眾生如來度者。若有眾生如來度者，如來則有我、人、眾生、壽者。須菩提！如來說：『有我者，則非有我，而凡夫之人以為有我。』須菩提！凡夫者，如來說則非凡夫，是名凡夫。」</div>
+        <p class="en">"Subhūti, what do you think — do not say that the Tathāgata has the thought, 'I should save all beings.' Subhūti, do not think this way. Why is this? There is in truth no being that the Tathāgata saves. If there were a being that the Tathāgata saves, the Tathāgata would hold a self, a person, a being, a lifespan. Subhūti, the Tathāgata says, 'a self exists' is no existing self at all — it is only ordinary people who take there to be a self. Subhūti, what the Tathāgata calls an 'ordinary person' is no ordinary person at all — that is why they are called an ordinary person."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 26 · The Dharma-Body Has No Mark <span class="zh">法身非相分第二十六</span></div>
+        <div class="zh">「須菩提！於意云何？可以三十二相觀如來不？」須菩提言：「如是！如是！以三十二相觀如來。」<br><br>佛言：「須菩提！若以三十二相觀如來者，轉輪聖王則是如來。」須菩提白佛言：「世尊！如我解佛所說義。不應以三十二相觀如來。」<br><br>爾時，世尊而說偈言：「若以色見我，以音聲求我，是人行邪道，不能見如來。」</div>
+        <p class="en">"Subhūti, what do you think — can the Tathāgata be seen through the thirty-two marks?" Subhūti said: "So it is, so it is — the Tathāgata is seen through the thirty-two marks."<br><br>The Buddha said: "Subhūti, if the Tathāgata could be seen through the thirty-two marks, then a wheel-turning king would be a Tathāgata too." Subhūti said to the Buddha: "World-Honored One, as I understand what the Buddha has taught, the Tathāgata should not be seen through the thirty-two marks."<br><br>At that time the World-Honored One spoke this verse: <strong>"Whoever sees me through form, whoever seeks me through sound, that person walks a mistaken path and cannot see the Tathāgata."</strong></p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 27 · Neither Cut Off Nor Annihilated <span class="zh">無斷無滅分第二十七</span></div>
+        <div class="zh">「須菩提！汝若作是念：『如來不以具足相故，得阿耨多羅三藐三菩提。』須菩提！莫作是念：『如來不以具足相故，得阿耨多羅三藐三菩提。』」<br><br>「須菩提！汝若作是念，發阿耨多羅三藐三菩提心者，說諸法斷滅。莫作是念！何以故？發阿耨多羅三藐三菩提心者。於法不說斷滅相。」</div>
+        <p class="en">"Subhūti, if you have the thought, 'The Tathāgata did not attain unsurpassed, perfect, complete awakening because he lacked perfectly formed marks' — Subhūti, do not think this way, that the Tathāgata did not attain unsurpassed, perfect, complete awakening because he lacked perfectly formed marks."<br><br>"Subhūti, if you have the thought that one who sets out for unsurpassed, perfect, complete awakening teaches the annihilation of all things — do not think this way. Why is this? One who sets out for unsurpassed, perfect, complete awakening does not teach that anything is cut off or annihilated."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 28 · Neither Received Nor Craved <span class="zh">不受不貪分第二十八</span></div>
+        <div class="zh">「須菩提！若菩薩以滿恆河沙等世界七寶持用布施；若復有人，知一切法無我，得成於忍，此菩薩勝前菩薩所得功德。何以故？須菩提！以諸菩薩不受福德故。」<br><br>須菩提白佛言：「世尊！云何菩薩不受福德？」<br><br>「須菩提！菩薩所作福德，不應貪著。是故說不受福德。」</div>
+        <p class="en">"Subhūti, if a bodhisattva filled as many worlds as there are grains of sand in the Ganges with the seven treasures and gave it all away; and if another bodhisattva came to know that all things are without self, and thereby attained forbearance — this second bodhisattva's merit would surpass the first's. Why is this? Subhūti, because bodhisattvas do not receive merit."<br><br>Subhūti said to the Buddha: "World-Honored One, what does it mean that a bodhisattva does not receive merit?"<br><br>"Subhūti, a bodhisattva should not crave or cling to the merit they create. This is why it is said that they do not receive merit."</p>
+      </div>
+
+      <div class="movement">VIII · Like a Dream, a Bubble, a Shadow</div>
+
+      <div class="verse">
+        <div class="fen-label">Section 29 · Still, in Every Posture <span class="zh">威儀寂靜分第二十九</span></div>
+        <div class="zh">「須菩提！若有人言：如來若來若去，若坐若臥，是人不解我所說義。何以故？如來者，無所從來，亦無所去，故名如來。」</div>
+        <p class="en">"Subhūti, if someone says that the Tathāgata comes, or goes, or sits, or lies down, that person has not understood the meaning of what I teach. Why is this? 'Tathāgata' means one who comes from nowhere and goes nowhere — that is why he is called the Tathāgata, the Thus-Come One."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 30 · The Principle of the Single Whole <span class="zh">一合理相分第三十</span></div>
+        <div class="zh">「須菩提！若善男子、善女人，以三千大千世界碎為微塵，於意云何？是微塵眾寧為多不？」須菩提言「甚多，世尊！何以故？若是微塵眾實有者，佛則不說是微塵眾。所以者何？佛說微塵眾，則非微塵眾，是名微塵眾。」<br><br>「世尊！如來所說三千大千世界，則非世界，是名世界。何以故？若世界實有者，則是一合相。如來說一合相，則非一合相，是名一合相。」<br><br>「須菩提！一合相者，則是不可說；但凡夫之人貪著其事。」</div>
+        <p class="en">"Subhūti, if a good son or good daughter ground a billion-world universe into fine dust — what do you think, would that mass of dust be great?" Subhūti said: "Very great, World-Honored One. Why is this? If that mass of dust truly existed as such, the Buddha would not call it a mass of dust. And why is that? What the Buddha calls a mass of dust is no mass of dust at all — that is why it is called a mass of dust."<br><br>"World-Honored One, the billion-world universe that the Tathāgata speaks of is no universe at all — that is why it is called a universe. Why is this? If a universe truly existed as such, it would be a single, indivisible whole. The Tathāgata speaks of a single, indivisible whole, yet it is no single whole at all — that is why it is called a single, indivisible whole."<br><br>"Subhūti, a single, indivisible whole is, in truth, beyond words — it is only ordinary people who crave and cling to it as a thing."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 31 · Knowing and Seeing, Without Grasping <span class="zh">知見不生分第三十一</span></div>
+        <div class="zh">「須菩提！若人言：佛說我見、人見、眾生見、壽者見。須菩提！於意云何？是人解我所說義不？」<br><br>「不也，世尊！是人不解如來所說義。何以故？世尊說我見、人見、眾生見、壽者見，即非我見、人見、眾生見、壽者見，是名我見、人見、眾生見、壽者見。」<br><br>「須菩提！發阿耨多羅三藐三菩提心者，於一切法，應如是知，如是見，如是信解，不生法相。須菩提！所言法相者，如來說即非法相，是名法相。」</div>
+        <p class="en">"Subhūti, if someone says that the Buddha teaches the view of a self, the view of a person, the view of a being, the view of a lifespan — Subhūti, what do you think, has that person understood the meaning of what I teach?"<br><br>"No, World-Honored One, that person has not understood what the Tathāgata teaches. Why is this? What the World-Honored One calls the view of a self, a person, a being, a lifespan, are no such views at all — that is why they are called the view of a self, a person, a being, a lifespan."<br><br>"Subhūti, one who sets out for unsurpassed, perfect, complete awakening should, with regard to all things, know them, see them, and believe and understand them exactly like this — without giving rise to any notion of a thing. Subhūti, what is called the notion of a thing, the Tathāgata says, is no notion of a thing at all — that is why it is called the notion of a thing."</p>
+      </div>
+
+      <div class="verse">
+        <div class="fen-label">Section 32 · A Manifestation Is Not the Real <span class="zh">應化非真分第三十二</span></div>
+        <div class="zh">「須菩提！若有人以滿無量阿僧祇世界七寶，持用布施；若有善男子、善女人，發菩提心者，持於此經，乃至四句偈等，受持讀誦，為人演說，其福勝彼。云何為人演說，不取於相，如如不動。何以故？」</div>
+        <p class="en">"Subhūti, if someone filled countless, incalculable universes with the seven treasures and gave it all away; and if a good son or good daughter who has set out for awakening took up even a single four-line verse of this sūtra, upheld it, recited it, and explained it to others — their merit would surpass the first's. And how should they explain it to others? Without grasping at any mark, unmoved, just as things are. Why is this?</p>
+      </div>
+
+      <div class="mantra-verse">
+        <div class="zh">一切有為法，如夢幻泡影，如露亦如電，應作如是觀。</div>
+        <p class="en">All conditioned things are like a dream, an illusion, a bubble, a shadow; like dew, and like a flash of lightning — see them all like this.</p>
+      </div>
+
+      <div class="verse">
+        <div class="zh">佛說是經已，長老須菩提及諸比丘、比丘尼、優婆塞、優婆夷、一切世間天、人、阿修羅，聞佛所說，皆大歡喜，信受奉行。</div>
+        <p class="en">When the Buddha had finished teaching this sūtra, the elder Subhūti, together with all the monks and nuns, laymen and laywomen, and every being in every world — gods, humans, and asuras — hearing what the Buddha had taught, rejoiced greatly, believed it, and carried it into practice.</p>
+      </div>
+
+      <div class="ending-mark">· · ·</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Twelve questions covering all 32 sections. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 1 of 12</span>
+        <div class="q-text">What does "Diamond" (<span class="zh">金剛</span>, <em>vajra</em>) mean in the title of this sūtra?</div>
+        <button class="opt">A rare and precious gemstone, symbolizing the value of the teaching</button>
+        <button class="opt">The hardest known material, symbolizing how difficult the teaching is to learn</button>
+        <button class="opt">A thunderbolt or indestructible weapon — something that cuts through anything and cannot itself be cut</button>
+        <button class="opt">The name of the mountain where the sūtra was first taught</button>
+        <div class="expl"><strong>Correct: C.</strong> <em>Vajra</em>'s older sense is a thunderbolt or indestructible weapon. The full title, <em>Vajracchedikā Prajñāpāramitā</em>, means "the diamond that cuts through to the Perfection of Wisdom" — a blade applied, calmly and repeatedly, to every place the mind wants to stand still.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 12</span>
+        <div class="q-text">Who is the Buddha's dialogue partner throughout almost the entire sūtra?</div>
+        <button class="opt">Śāriputra, foremost in analytical wisdom</button>
+        <button class="opt">Subhūti, foremost in understanding emptiness</button>
+        <button class="opt">Ānanda, the Buddha's attendant</button>
+        <button class="opt">Avalokiteśvara, the bodhisattva of compassion</button>
+        <div class="expl"><strong>Correct: B.</strong> Subhūti was known in the early tradition as foremost in understanding emptiness, and for a compassion so thorough he practised loving-kindness even while begging for alms — the ideal partner for a text about seeing through fixed notions without losing compassion.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 3 of 12</span>
+        <div class="q-text">The sūtra constantly repeats a pattern like "merit is not merit, that is why it is called merit." What is this three-beat formula actually doing?</div>
+        <button class="opt">Nothing — it is decorative repetition typical of oral recitation</button>
+        <button class="opt">Proving that language is entirely useless and should be abandoned</button>
+        <button class="opt">Showing that the Buddha contradicts himself within a single sentence</button>
+        <button class="opt">Naming a word's ordinary use, denying it has a fixed independent essence, then restoring the word to ordinary use without that illusion</button>
+        <div class="expl"><strong>Correct: D.</strong> Name it, negate it, rename it. The word is granted ordinary function, denied a solid essence behind the label, then handed back for use — training the reader to use language without being captured by it.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 4 of 12</span>
+        <div class="q-text">Section 3 says a bodhisattva vows to liberate every being, "and yet in truth no being at all has been liberated." How do these two claims fit together?</div>
+        <button class="opt">The vow is real and total; what's denied is that "liberation" names a fixed transaction between a solid liberator and a solid liberated self — not that the compassion or the effort is fake</button>
+        <button class="opt">They don't fit together — this is a contradiction the text never resolves</button>
+        <button class="opt">The vow is only symbolic and was never meant to be taken seriously</button>
+        <button class="opt">"No being is liberated" means beings do not actually exist at all</button>
+        <div class="expl"><strong>Correct: A.</strong> The vow stands; what's denied is a solid self on either end of the transaction. If a bodhisattva held onto "I liberated them" as a real, fixed accomplishment, that grasping would recreate the very self-notion the practice is meant to dissolve.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 5 of 12</span>
+        <div class="q-text">Section 4 teaches that a bodhisattva should give (<span class="zh">布施</span>) "without dwelling on anything." What does "dwelling" mean here?</div>
+        <button class="opt">Living in a monastery rather than a household</button>
+        <button class="opt">Thinking carefully and slowly before acting</button>
+        <button class="opt">Fixing the mind on something as a solid resting point — a giver, a gift, a receiver, treated as separate, permanent things</button>
+        <button class="opt">Feeling guilty about material possessions</button>
+        <div class="expl"><strong>Correct: C.</strong> Giving without dwelling means giving without the subtle bookkeeping — I gave, they received, I am now generous — that quietly turns generosity back into a transaction for the self. Its merit is called unmeasurable, like space in every direction, because it was never collected as a possession.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 12</span>
+        <div class="q-text">"<span class="zh">應無所住而生其心</span>" — "give rise to a mind that dwells nowhere at all" (Section 10) — is traditionally associated with which story?</div>
+        <button class="opt">The Buddha's own enlightenment under the Bodhi tree</button>
+        <button class="opt">Huineng, the illiterate woodcutter who became the Sixth Chan Patriarch, said to have first awakened on overhearing this line recited in a marketplace</button>
+        <button class="opt">Bodhidharma's nine years facing a wall</button>
+        <button class="opt">Śāriputra's first meeting with the Buddha</button>
+        <div class="expl"><strong>Correct: B.</strong> This is the sūtra's single most famous line in East Asian Buddhism, carrying this outsized weight through Huineng's story — awakening not as a conclusion reasoned toward, but as something recognized the instant the mind stops trying to plant itself somewhere.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 7 of 12</span>
+        <div class="q-text">In Section 14, King Kalī cuts the Buddha's body apart limb by limb, and the Buddha feels no anger. Why not, according to the text?</div>
+        <button class="opt">He used a special meditative technique to numb the pain</button>
+        <button class="opt">He forgave the king out of religious duty</button>
+        <button class="opt">He did not actually feel the pain, being a fully enlightened being</button>
+        <button class="opt">He held no notion of a self, a person, a being, or a lifespan — and anger requires a fixed self to defend, which was not present</button>
+        <div class="expl"><strong>Correct: D.</strong> This is not suppression through discipline — it's the absence of anything the anger would be defending. Where there's no fixed self standing behind the pain to be wronged, the pain is present without generating resentment. This is what makes patience a "perfection" rather than mere endurance.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 12</span>
+        <div class="q-text">Section 22: "In unsurpassed, perfect, complete awakening, I did not attain the least thing whatsoever." What is this saying about the Buddha's enlightenment?</div>
+        <button class="opt">That the Buddha never actually became enlightened</button>
+        <button class="opt">That awakening is not a possession or trophy acquired at one moment and held onto — treating it as a fixed thing to grasp would just be one more object for the self to cling to</button>
+        <button class="opt">That enlightenment is purely a social status, not a real inner change</button>
+        <button class="opt">That the Buddha is being falsely modest to please his audience</button>
+        <div class="expl"><strong>Correct: B.</strong> This is the same "name it, negate it, rename it" move applied to the goal itself. If awakening were a fixed thing to be grasped, it would become one more object of clinging — exactly what the whole sūtra has been showing you how to release.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 9 of 12</span>
+        <div class="q-text">The question Subhūti asks in Section 2 — "how should one stand, how should one subdue the mind?" — returns almost word for word in Section 17. What is the effect of this repetition?</div>
+        <button class="opt">The first answer teaches the shape of the practice; after fifteen sections of "is not X," the second answer shows the practice itself was never a fixed possession to stand inside of</button>
+        <button class="opt">It is a copying error introduced by later scribes</button>
+        <button class="opt">The second answer directly contradicts and replaces the first</button>
+        <button class="opt">It shows Subhūti forgot the Buddha's first answer</button>
+        <div class="expl"><strong>Correct: A.</strong> The doubled question is a deliberate structural device. Reading the two answers side by side reveals what all the intervening negations were actually for — not a different teaching, but the same teaching stripped of anything left to grasp.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 12</span>
+        <div class="q-text">How does the Diamond Sūtra's method differ from the Heart Sūtra's, as read in Session 1?</div>
+        <button class="opt">They teach opposite conclusions about emptiness</button>
+        <button class="opt">The Diamond Sūtra is written entirely in verse, while the Heart Sūtra is prose</button>
+        <button class="opt">The Heart Sūtra states its conclusions as compressed negated lists; the Diamond Sūtra almost always has the Buddha ask a question and let Subhūti work out the answer, showing the method of arriving at the insight rather than just the finished result</button>
+        <button class="opt">The Diamond Sūtra rejects the idea of emptiness that the Heart Sūtra teaches</button>
+        <div class="expl"><strong>Correct: C.</strong> Same emptiness, opposite literary strategy. The Heart Sūtra hands you the finished insight in compressed form; the Diamond Sūtra hands you the process of reasoning your own way toward it, one ordinary question at a time.</div>
+      </div>
+
+      <div class="q" data-correct="3">
+        <span class="q-num">Question 11 of 12</span>
+        <div class="q-text">The closing verse (Section 32) — "all conditioned things are like a dream, an illusion, a bubble, a shadow; like dew, and like a flash of lightning" — is making what point?</div>
+        <button class="opt">Conditioned things do not exist at all and should be ignored</button>
+        <button class="opt">Dreams and lightning are literally sacred objects to be venerated</button>
+        <button class="opt">Only monks and nuns can understand this teaching, not laypeople</button>
+        <button class="opt">Conditioned things are transient, dependent, and insubstantial — vivid while present, gone the moment conditions change, never solid to begin with — not that they are unreal</button>
+        <div class="expl"><strong>Correct: D.</strong> Six similes for one point: not non-existence, but insubstantiality of exactly the kind a dream or a bubble has. It compresses the sūtra's whole method — name it, see through it, act anyway — into a single image, which is why it is traditionally chanted on its own.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 12 of 12</span>
+        <div class="q-text">"This sūtra keeps saying words don't refer to real things — isn't that just skepticism about language?" What is the accurate response?</div>
+        <button class="opt">Yes — the sūtra teaches that language is entirely meaningless and should be abandoned</button>
+        <button class="opt">No — the sūtra keeps using each word again right after negating it ("that is why it is called X"); what's denied is only the extra claim that a separate, self-contained essence sits behind the label, not that the word functions</button>
+        <button class="opt">The sūtra only applies this teaching to religious vocabulary, not ordinary language</button>
+        <button class="opt">The sūtra is written in a special language that has no real referents at all</button>
+        <div class="expl"><strong>Correct: B.</strong> The three-beat formula always restores the word to use. Words still work perfectly well for teaching, giving, and living once the extra claim — a fixed essence behind the label — is removed; they simply stop being places the mind can secretly try to move in and set up permanent residence.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 12 · Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main><!-- /pv-main -->
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Key terms</div>
+      <ul>
+        <li><span class="pali">vajra <span class="zh">金剛</span></span>diamond · thunderbolt</li>
+        <li><span class="pali">Subhūti <span class="zh">須菩提</span></span>foremost in emptiness</li>
+        <li><span class="pali">即非…是名…</span>is not X, called X</li>
+        <li><span class="pali">我人眾生壽者相</span>self, person, being, lifespan</li>
+        <li><span class="pali">應無所住而生其心</span>a mind that dwells nowhere</li>
+        <li><span class="pali">dāna <span class="zh">布施</span></span>giving, generosity</li>
+        <li><span class="pali">一合相</span>a single, indivisible whole</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">In the collection</div>
+      <ul>
+        <li><a href="heart-sutra.html" style="color:inherit; text-decoration:none;"><span class="pali">The Heart Sūtra <span class="zh">心經</span></span>read now →</a></li>
+        <li>The Lotus Sūtra · <span style="font-family:'PingFang TC',serif">法華經</span> — coming soon</li>
+        <li>The Vimalakīrti Sūtra · <span style="font-family:'PingFang TC',serif">維摩詰經</span> — coming soon</li>
+        <li>The Amitābha Sūtra · <span style="font-family:'PingFang TC',serif">阿彌陀經</span> — coming soon</li>
+        <li>The Platform Sūtra · <span style="font-family:'PingFang TC',serif">六祖壇經</span> — coming soon</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://zh.wikisource.org/wiki/%E9%87%91%E5%89%9B%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E7%B6%93_(%E9%B3%A9%E6%91%A9%E7%BE%85%E4%BB%80)" target="_blank" rel="noopener">Kumārajīva's Chinese text, Jiangweinong edition · Wikisource</a> — the source text of this page, public domain.</li>
+      <li><a href="https://cbetaonline.dila.edu.tw/en/T0235" target="_blank" rel="noopener">Kumārajīva's Chinese text · Taishō T235, CBETA</a> — the canonical edition at CBETA (Chinese Buddhist Electronic Text Association).</li>
+      <li>Red Pine (Bill Porter), <em>The Diamond Sutra: The Perfection of Wisdom</em> (Counterpoint, 2001) — a line-by-line commentary drawing on the Chinese, Sanskrit, and classical Chinese commentators.</li>
+      <li>Edward Conze, <em>Buddhist Wisdom: The Diamond Sutra and The Heart Sutra</em> (Vintage, 2001) — an English translation direct from the Sanskrit, useful for comparing against the Chinese.</li>
+      <li>Thich Nhat Hanh, <em>The Diamond That Cuts Through Illusion</em> (Parallax Press, 1992) — a practice-oriented modern rendering and commentary.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Diamond_Sutra#Dunhuang_manuscript" target="_blank" rel="noopener">The Dunhuang printed scroll of 868 CE</a> — the world's oldest dated printed book, a copy of this very sūtra, now in the British Library.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="./"><span class="label">← Collection</span>All Mahāyāna Sūtras</a>
+    <a href="/courses/heart-of-mahayana/session-2/" class="next"><span class="label">Course →</span>Take this as a class session</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="/">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">Chinese source: Kumārajīva's translation (c. 402&nbsp;CE), public domain. English translation and reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div><!-- /pv-footer -->
+
+</div>
+
+<script>
+(function() {
+  const tabs = document.querySelectorAll('.tab[data-tab]');
+  const panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts = {}) {
+    let found = false;
+    tabs.forEach(function(tab) {
+      const isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) {
+      history.replaceState(null, '', '#' + name);
+    }
+    if (opts.scroll) {
+      const tabBar = document.querySelector('.tabs');
+      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      showTab(tab.dataset.tab, { scroll: true });
+    });
+  });
+
+  const initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) {
+    showTab(initialHash, { updateHash: false });
+  }
+
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
