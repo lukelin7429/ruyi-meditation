@@ -64,6 +64,18 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 一乘 | the one vehicle | In chapter 5, taught with hidden intent because all vehicles share the one pure path and ultimate purity, not because capacities do not differ. |
 | 了義 / 不了義 | definitive meaning / non-definitive meaning | Use in chapter 5's explanation of the third turning. |
 | 三時轉法輪 | the three turnings of the Dharma wheel | The chapter distinguishes the first, second, and third periods of teaching. |
+| 瑜伽 | yoga | In chapter 6, keep "yoga" for the disciplined integration of study, śamatha, vipaśyanā, and direct realization. |
+| 奢摩他 | śamatha | Calming or stilling meditation. Keep the Sanskrit term in translated prose. |
+| 毘鉢舍那 | vipaśyanā | Insight or discerning contemplation. Keep the Sanskrit term in translated prose. |
+| 所緣境事 | objective support | Use "objective support" rather than simply "object" when the passage classifies the four supports of meditation. |
+| 有分別影像 | image accompanied by discrimination | The vipaśyanā support. |
+| 無分別影像 | image free from discrimination | The śamatha support. |
+| 事邊際 | the limit of the matter | The third meditation support, realized at the path of seeing. |
+| 所作成辦 | the accomplishment of what is to be done | The fourth meditation support, completed at awakening. |
+| 心一境性 | the mind's one-pointedness toward its object | Chapter 6's union of śamatha and vipaśyanā. |
+| 唯識所現 | appears from consciousness-only | Keep the consciousness-only force explicit in the mirror simile. |
+| 總空性相 | the general characteristic of emptiness | Chapter 6's guard against damaging the meaning of emptiness. |
+| 瑜伽了義之教 | the definitive teaching of yoga | The chapter's own title for this teaching. |
 
 ## Relationship to the Cheng Weishi Lun glossary
 
