@@ -76,6 +76,22 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 唯識所現 | appears from consciousness-only | Keep the consciousness-only force explicit in the mirror simile. |
 | 總空性相 | the general characteristic of emptiness | Chapter 6's guard against damaging the meaning of emptiness. |
 | 瑜伽了義之教 | the definitive teaching of yoga | The chapter's own title for this teaching. |
+| 極喜地 | the Ground of Great Joy | First of the ten bodhisattva grounds in chapter 7. |
+| 離垢地 | the Stainless Ground | Second ground. |
+| 發光地 | the Luminous Ground | Third ground. |
+| 焰慧地 | the Blazing Wisdom Ground | Fourth ground. |
+| 極難勝地 | the Ground Difficult to Conquer | Fifth ground. |
+| 現前地 | the Manifest Ground | Sixth ground. |
+| 遠行地 | the Far-Reaching Ground | Seventh ground. |
+| 不動地 | the Immovable Ground | Eighth ground. |
+| 善慧地 | the Good Wisdom Ground | Ninth ground. |
+| 法雲地 | the Dharma Cloud Ground | Tenth ground. |
+| 波羅蜜多 | perfection | Keep "perfection" in running prose; use "pāramitā" only when discussing the Sanskrit term itself. |
+| 方便善巧波羅蜜多 | the perfection of skillful means | One of the four companion perfections in chapter 7. |
+| 願波羅蜜多 | the perfection of vow | Companion to diligence. |
+| 力波羅蜜多 | the perfection of power | Companion to meditative concentration. |
+| 智波羅蜜多 | the perfection of wisdom | Companion to prajñā in the ten-perfection system. |
+| 諸地波羅蜜多了義之教 | the definitive teaching of the grounds and perfections | The chapter's own title for this teaching. |
 
 ## Relationship to the Cheng Weishi Lun glossary
 
