@@ -40,6 +40,15 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 增上慢 | overweening pride | The pride that declares realization on the basis of something still grasped as attained. |
 | 一味相 | the characteristic of one taste | In chapter 2, the ultimate truth is one taste throughout all dharmas and path categories. |
 | 清淨所緣 | pure objective support | Keep "objective support" consistent with the site's Yogācāra usage for 所緣. |
+| 心意識 | mind, intellect, and consciousness | The chapter title's triad. When the text uses 心 alone for the deep consciousness, translate according to context as "mind." |
+| 祕密善巧 | skilled in the secret / skilled in every secret | Keep "secret" rather than "mystery" to match the chapter's technical register. |
+| 一切種子心識 | the mind-consciousness containing all seeds | The initial description of the seed-bearing current before the names ādāna and ālaya are introduced. |
+| 執受 | appropriation / appropriate | Use for the consciousness's taking up and sustaining of body, faculties, supports, and habitual tendencies. |
+| 阿陀那識 | the ādāna-consciousness | The appropriating consciousness. Already fixed in the Cheng Weishi Lun glossary. |
+| 阿賴耶識 | ālayavijñāna | Also "storehouse consciousness" in explanatory notes; keep ālayavijñāna in translated prose when the Chinese names 阿賴耶識. |
+| 六識身 | the six bodies of consciousness | Eye-, ear-, nose-, tongue-, body-, and mental consciousness collectively. |
+| 分別意識 | discriminating mental consciousness | The mental consciousness that turns together with one or more of the five sense-consciousnesses. |
+| 法住智 | wisdom that abides in Dharma | Chapter 3's basis for understanding the functioning of mind, intellect, and consciousness. |
 
 ## Relationship to the Cheng Weishi Lun glossary
 
