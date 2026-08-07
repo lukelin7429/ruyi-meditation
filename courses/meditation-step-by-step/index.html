@@ -1,0 +1,187 @@
+---
+layout: default
+title: Meditation, Step by Step
+permalink: /courses/meditation-step-by-step/
+excerpt: A pilot guided-practice course taking sitting meditation from a single ten-minute sit to a sustained daily practice, one stage of calm and insight at a time.
+---
+
+<style>
+  .ms{--gold:#e3b765;--gold-deep:#c69642;--indigo:#27384d;--indigo-mid:#33475f;--indigo-deep:#141d28;
+      --jade:#2f6d5e;--jade-deep:#234f44;--cream:#fbf5ea;--ink:#22303f;--ink-soft:#5d6b78;--line:#e6ded0;--line-cool:#dde3ea;}
+  .ms *{box-sizing:border-box;}
+  .ms-wrap{max-width:880px;margin:0 auto;padding:0 26px;}
+
+  .ms-crumb{background:var(--cream);border-bottom:1px solid var(--line);}
+  .ms-crumb .ms-wrap{padding:14px 26px;font-size:13.5px;color:var(--ink-soft);max-width:880px;}
+  .ms-crumb a{color:var(--gold-deep);text-decoration:none;}
+  .ms-crumb a:hover{text-decoration:underline;}
+
+  .ms-hero{position:relative;overflow:hidden;color:#fff;
+    background:radial-gradient(120% 90% at 82% 12%,rgba(227,183,101,.24),transparent 60%),
+      linear-gradient(158deg,#33475f 0%,#27384d 46%,#141d28 100%);}
+  .ms-hero-in{position:relative;max-width:880px;margin:0 auto;padding:66px 26px 60px;z-index:2;}
+  .ms-eyebrow{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .ms-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(32px,5vw,52px);line-height:1.1;margin:14px 0 6px;}
+  .ms-hero .subt{font-style:italic;font-size:19px;color:#e9edf3;max-width:36ch;}
+  .ms-facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;}
+  .ms-facts span{font-size:13px;color:#eaeef3;border:1px solid rgba(227,183,101,.4);background:rgba(255,255,255,.07);border-radius:30px;padding:6px 15px;}
+
+  .ms-body{background:#fff;padding:56px 0 20px;}
+  .ms-lede{font-size:18px;line-height:1.75;color:var(--ink);}
+  .ms-lede.first::first-letter{font-family:'Playfair Display',serif;font-size:60px;float:left;line-height:.82;padding:6px 12px 0 0;color:var(--indigo);}
+  .ms-body p{font-size:16.5px;line-height:1.72;color:var(--ink-soft);}
+  .ms-sec{margin:44px 0;}
+  .ms-sec > .lbl{font-size:12px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--gold-deep);margin-bottom:12px;}
+
+  .ms-primer{display:flex;align-items:center;gap:16px;flex-wrap:wrap;background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:20px 24px;}
+  .ms-primer p{margin:0;font-size:15.5px;color:var(--ink);flex:1 1 320px;}
+  .ms-primer a{flex:0 0 auto;}
+
+  .ms-obj{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px;counter-reset:o;}
+  .ms-obj li{position:relative;padding:14px 18px 14px 52px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+    font-size:15.5px;line-height:1.55;color:var(--ink);}
+  .ms-obj li b{color:var(--indigo);}
+  .ms-obj li::before{content:counter(o);counter-increment:o;position:absolute;left:14px;top:13px;width:26px;height:26px;border-radius:50%;
+    background:var(--indigo);color:var(--gold);font-family:'Playfair Display',serif;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+  .ms-rhythm{display:grid;gap:10px;grid-template-columns:1fr;margin-top:8px;}
+  @media(min-width:640px){.ms-rhythm{grid-template-columns:repeat(5,1fr);}}
+  .ms-rc{text-align:center;background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:16px 8px;}
+  .ms-rc .n{font-family:'Playfair Display',serif;color:var(--gold-deep);font-weight:700;font-size:15px;}
+  .ms-rc b{display:block;color:var(--ink);font-size:14.5px;margin:4px 0 2px;}
+  .ms-rc span{font-size:12px;color:var(--ink-soft);line-height:1.4;}
+
+  .ms-sched{border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .ms-row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:15px 20px;border-bottom:1px solid var(--line);text-decoration:none;}
+  .ms-row:last-child{border-bottom:none;}
+  .ms-row .wk{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--gold-deep);text-align:center;}
+  .ms-row .ti{color:var(--ink);font-size:15.5px;font-weight:600;line-height:1.35;}
+  .ms-row .ti small{display:block;font-weight:400;font-style:italic;color:var(--ink-soft);font-size:13.5px;margin-top:2px;}
+  .ms-row .st{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;white-space:nowrap;padding:5px 12px;border-radius:20px;}
+  .ms-row.live{background:#fff;}
+  .ms-row.live:hover{background:var(--cream);}
+  .ms-row.live .st{background:var(--indigo);color:var(--gold);}
+  .ms-row.soon{background:#fcfaf5;cursor:default;}
+  .ms-row.soon .wk,.ms-row.soon .ti{color:#9a8f80;}
+  .ms-row.soon .st{background:#f0e7d6;color:#a9906a;}
+
+  .ms-card{background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:24px 26px;}
+  .ms-card ul{margin:6px 0 0;padding-left:20px;}
+  .ms-card li{font-size:15.5px;line-height:1.7;color:var(--ink);margin-bottom:6px;}
+  .ms-card li b{color:var(--indigo);}
+
+  .ms-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;}
+  .ms-btn{display:inline-flex;align-items:center;gap:9px;text-decoration:none;font-weight:600;font-size:15.5px;border-radius:30px;padding:13px 26px;transition:transform .2s,box-shadow .2s;}
+  .ms-btn.primary{background:linear-gradient(158deg,#33475f,#27384d);color:#fff;box-shadow:0 14px 30px -16px rgba(39,56,77,.7);}
+  .ms-btn.primary:hover{transform:translateY(-2px);text-decoration:none;box-shadow:0 20px 36px -16px rgba(39,56,77,.8);}
+  .ms-btn.ghost{border:1.5px solid var(--indigo);color:var(--indigo);}
+  .ms-btn.ghost:hover{background:var(--indigo);color:#fff;text-decoration:none;}
+
+  .ms-teacher{background:var(--indigo-deep);color:#e9edf3;border-radius:16px;padding:30px 34px;margin:8px 0 60px;position:relative;overflow:hidden;}
+  .ms-teacher .q{font-family:'Playfair Display',serif;font-style:italic;font-size:20px;line-height:1.55;color:#fff;}
+  .ms-teacher .who{margin-top:14px;font-size:14px;letter-spacing:.06em;color:var(--gold);}
+</style>
+
+<div class="ms">
+
+  <nav class="ms-crumb"><div class="ms-wrap"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> → <a href="{{ '/courses/' | relative_url }}">Ru-Yi Academy</a> → Meditation, Step by Step</div></nav>
+
+  <!-- HERO -->
+  <section class="ms-hero">
+    <div class="ms-hero-in">
+      <div class="ms-eyebrow">Ru-Yi Academy · Pilot Course · Guided Practice</div>
+      <h1>Meditation, Step by Step</h1>
+      <div class="subt">靜坐，一步一步來 — from a single ten-minute sit to a sustained daily practice</div>
+      <div class="ms-facts">
+        <span>Pilot · Session 1 live</span>
+        <span>Absolute beginner</span>
+        <span>A real sit every week</span>
+        <span>Free</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="ms-body">
+    <div class="ms-wrap">
+
+      <p class="ms-lede first">Most people who read a good meditation guide sit once, feel something real, and then never sit again. Not because the instructions were wrong — because nobody told them what to do about <b style="color:var(--ink)">the second day, and the tenth, and the one where you really don't feel like it.</b> This course exists for exactly that gap: not how to sit once, but how to keep sitting, and how the practice actually deepens once you do.</p>
+
+      <div class="ms-primer">
+        <p><b>Haven't sat before?</b> Start with <a href="{{ '/meditation/' | relative_url }}" style="color:var(--indigo);font-weight:600;">Begin to Meditate</a> first — the posture, the breath, and your first ten-minute sit. This course picks up exactly where that page leaves off.</p>
+        <a class="ms-btn ghost" href="{{ '/meditation/' | relative_url }}">Read Begin to Meditate →</a>
+      </div>
+
+      <!-- OBJECTIVES -->
+      <div class="ms-sec">
+        <div class="lbl">What this course actually builds</div>
+        <ol class="ms-obj">
+          <li>A daily practice that survives the days you don't feel like sitting — not through willpower, but through a rhythm designed around how motivation actually works.</li>
+          <li>A working relationship with a wandering mind, using the noting technique — a concrete tool sharper than "just watch the breath."</li>
+          <li>The traditional foundations of mindfulness in order — the body, feelings, and the mind itself — each explored through an actual week of practice, not just reading about it.</li>
+          <li>A working knowledge of the five hindrances, and what to actually do when one shows up mid-sit.</li>
+          <li>A first real sense of the shift from calm (<em>samatha</em>) to insight (<em>vipassanā</em>) — where steadiness stops being the goal and starts being the ground for seeing clearly.</li>
+        </ol>
+      </div>
+
+      <!-- RHYTHM -->
+      <div class="ms-sec">
+        <div class="lbl">How each session works</div>
+        <p style="margin:0 0 14px;">A different rhythm from the reading courses — this one is built around a week of actual sitting.</p>
+        <div class="ms-rhythm">
+          <div class="ms-rc"><div class="n">1</div><b>Teaching</b><span>This week's theme, explained</span></div>
+          <div class="ms-rc"><div class="n">2</div><b>Guided Instructions</b><span>A script you can sit with directly</span></div>
+          <div class="ms-rc"><div class="n">3</div><b>This Week's Practice</b><span>A daily sit, with a simple log</span></div>
+          <div class="ms-rc"><div class="n">4</div><b>Common Obstacles</b><span>Troubleshooting for this week's practice</span></div>
+          <div class="ms-rc"><div class="n">5</div><b>Reflection</b><span>Journal prompts, not a quiz</span></div>
+        </div>
+      </div>
+
+      <!-- SCHEDULE -->
+      <div class="ms-sec">
+        <div class="lbl">The sessions</div>
+        <p style="margin:0 0 14px;">Session 1 is live; the rest are being piloted with real students before they're published here.</p>
+        <div class="ms-sched">
+
+          <a class="ms-row live" href="{{ '/courses/meditation-step-by-step/session-1/' | relative_url }}">
+            <div class="wk">1</div>
+            <div class="ti">Building the Habit<small>Why daily beats long, and what to do on the days you don't want to sit</small></div>
+            <div class="st">Open →</div>
+          </a>
+
+          <div class="ms-row soon"><div class="wk">2</div><div class="ti">Working with a Wandering Mind<small>The noting technique — a sharper tool than "just watch the breath"</small></div><div class="st">Planned</div></div>
+          <div class="ms-row soon"><div class="wk">3</div><div class="ti">The Body as Ground<small>Mindfulness of the body — the first foundation</small></div><div class="st">Planned</div></div>
+          <div class="ms-row soon"><div class="wk">4</div><div class="ti">Feelings and the Space Around Them<small>Mindfulness of feeling-tone — the second foundation</small></div><div class="st">Planned</div></div>
+          <div class="ms-row soon"><div class="wk">5</div><div class="ti">The Five Hindrances<small>Desire, aversion, sloth, restlessness, doubt — and what to do about each</small></div><div class="st">Planned</div></div>
+          <div class="ms-row soon"><div class="wk">6</div><div class="ti">From Calm to Insight<small>Where samatha stops being the goal and starts being the ground</small></div><div class="st">Planned</div></div>
+
+        </div>
+      </div>
+
+      <!-- MATERIALS -->
+      <div class="ms-sec">
+        <div class="lbl">What you'll need</div>
+        <div class="ms-card">
+          <ul>
+            <li><b>A seat and a timer.</b> A cushion or a plain chair — nothing else to buy.</li>
+            <li><b>10–15 minutes, most days of the week.</b> This course only works if you actually sit, not just read.</li>
+            <li><b>A simple practice log.</b> Each session includes one — a few lines a day is enough.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ACTIONS -->
+      <div class="ms-actions">
+        <a class="ms-btn primary" href="{{ '/courses/meditation-step-by-step/session-1/' | relative_url }}">Begin Session 1 →</a>
+        <a class="ms-btn ghost" href="{{ '/meditation/' | relative_url }}">Read Begin to Meditate first</a>
+      </div>
+
+      <!-- TEACHER NOTE -->
+      <div class="ms-teacher">
+        <div class="q">"I can teach you the posture in one page. I can't teach you to actually sit down tomorrow — that only comes from building the habit deliberately, the way this course tries to. Everything after that is just the practice slowly showing you what it already knew."</div>
+        <div class="who">— Luke Lin, instructor · Ru-Yi Academy</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
