@@ -94,7 +94,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
         </ul>
         <div class="sjy-stats">
           <div class="sjy-stat"><b>24</b> fascicles in Yuanying's commentary</div>
-          <div class="sjy-stat"><b>17</b> fascicles complete so far</div>
+          <div class="sjy-stat"><b>18</b> fascicles complete so far</div>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
     <div class="sjy-wrap">
       <div class="sjy-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–17 — the tenfold preliminary analysis, the four categories and seven great elements harmonized with the tathāgatagarbha, Ānanda's verse of gratitude, Pūrṇa's cosmogony questions, the complete teaching of the three aspects of the tathāgatagarbha, the parable of Yajñadatta, the sūtra's practical teaching on the two decisive meanings, the famous six-knotted cloth demonstration, all twenty-five disciples' testimonies to perfect penetration (Avalokiteśvara's own testimony spanning fascicles 15–16), Mañjuśrī's own verse selecting the ear-faculty as best suited to this world, and the complete four clear instructions with the elaborate building of the ritual platform — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
+        <p>Yuanying's fascicles are considerably longer than the sūtra's own ten fascicles. Fascicles 1–18 — the tenfold preliminary analysis, the four categories and seven great elements harmonized with the tathāgatagarbha, Ānanda's verse of gratitude, Pūrṇa's cosmogony questions, the complete teaching of the three aspects of the tathāgatagarbha, the parable of Yajñadatta, the sūtra's practical teaching on the two decisive meanings, the famous six-knotted cloth demonstration, all twenty-five disciples' testimonies to perfect penetration (Avalokiteśvara's own testimony spanning fascicles 15–16), Mañjuśrī's own verse selecting the ear-faculty as best suited to this world, the complete four clear instructions with the elaborate building of the ritual platform, and the full account of the Śūraṅgama Mantra's structure, benefits, and protector deities — are complete and open now; the remaining entries link to the source text at bfnn.org in the meantime.</p>
       </div>
 
       <div class="sjy-featured">
@@ -143,6 +143,11 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
           <span class="tag">Complete</span>
           <h3>Fascicle 17: A Crooked Cause Brings a Twisted Result</h3>
           <p>Ānanda's request for a place of practice, the complete four clear instructions against sexual misconduct, killing, stealing, and false claims of attainment, the Śūraṅgama Mantra recommended, and the elaborate, symbol-laden building of the ritual platform for the hundred-day practice.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.06s">
+          <span class="tag">Complete</span>
+          <h3>Fascicle 18: A Thousand Places Entreating, a Thousand Places Answered</h3>
+          <p>The assembly's renewed request to hear the Śūraṅgama Mantra in full, the transformation-buddha's manifestation of light, the mantra's five-part structure, its uses for every buddha and every sentient being, and the closing assembly of deities vowing protection.</p>
         </div>
       </div>
 
@@ -249,6 +254,12 @@ excerpt: A plain-English translation of Master Yuanying's classical commentary o
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Ānanda's request for a place of practice, the complete four clear instructions, the Śūraṅgama Mantra, and the ritual platform's own construction — complete.</span>
+        </a>
+        {% elsif i == 18 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/surangama-sutra-jiangyi/fascicle-018/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The Śūraṅgama Mantra in full: its five-part structure, its uses for every buddha and every sentient being, and the assembly of deities vowing protection — complete.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://book.bfnn.org/books2/{{ 1471 | plus: i }}.htm" target="_blank" rel="noopener" data-rv>
