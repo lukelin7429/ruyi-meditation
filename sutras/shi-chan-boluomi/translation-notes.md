@@ -85,6 +85,22 @@ Zhiyi (智顗, 538–597 CE), posthumously honored as the Great Master of Tianta
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
+### Fascicle 2 onward — the twenty-five preliminary conditions
+
+| Chinese | English | Notes |
+|---|---|---|
+| 前方便 | the preliminary expedient means | Topic 6's own subject; opens into external (外方便) and internal (內方便) categories. |
+| 外方便 / 內方便 | external expedient means / internal expedient means | External: methods of using the mind outside concentration. Internal: methods of using the mind within concentration. |
+| 二十五方便 | the twenty-five preliminary conditions | The treatise's celebrated five-groups-of-five structure: 具五緣 (being complete in the five conditions), 訶五欲 (rejecting the five desires), 棄五蓋 (abandoning the five hindrances), 調五法 (harmonizing the five faculties), 行五法 (practicing the five dharmas). Fascicle 2 begins with the first group. |
+| 具五緣 | being complete in the five conditions | The first group of five: pure moral discipline, being complete in robes and food, dwelling in a quiet place, setting worldly affairs to rest, and obtaining a good spiritual friend. Condition 1 (moral discipline) alone occupies the whole of fascicle 2 so far. |
+| 持戒清淨 | pure moral discipline | Condition 1 of the five conditions; itself opens into three parts — 明有戒無戒 (the presence or absence of precepts), 持犯 (upholding and violation), and 懺悔 (repentance). |
+| 有戒 / 無戒 | having precepts / lacking precepts | The first of pure moral discipline's three parts. |
+| 十種得戒 | the ten ways precepts are received | Ten classical Vinaya precedents, from the Buddha's own spontaneous attainment through ordination-by-messenger and the five/ten-person quorum rules for border versus central regions. |
+| 無作（戒） | non-action | avijñapti. The Hīnayāna account of what precepts fundamentally are: a wholesome quality, brought into being at ordination, that continues functioning spontaneously without further deliberate mental effort — contested across schools (Sarvāstivādins: unmanifest form; Dharmaguptakas: a third category, neither form nor mind). |
+| 戒體 | the essence of the precepts | The technical question of what precepts actually consist in; topic 6 contrasts the Hīnayāna's "non-action" account with the Mahāyāna's identification of the precepts with the wholesome mind itself. |
+| 七眾 | the seven assemblies | The seven ordination categories: upāsaka, upāsikā (lay man, lay woman), śrāmaṇera, śrāmaṇerī (male, female novice), śikṣamāṇā (female probationer), bhikṣu, bhikṣuṇī (fully ordained monk, nun). |
+| 羯磨 | the formal procedure | karman. The ritual/legal act of conferring ordination or other saṅgha business; left as "the formal procedure" in translated prose rather than transliterated, since the text uses it as a functional term rather than discussing it technically (contrast terms like "dhyāna" or "pāramitā" that the treatise itself explains). |
+
 ## Register
 
 - Plain English, close to the Chinese, not a loose paraphrase — matching the method already used for the *Cheng Weishi Lun* and the two Śūraṅgama projects on this site.
@@ -93,4 +109,4 @@ Keep this table growing as new recurring terms appear in later fascicles — add
 
 ## Project status
 
-Fascicle 1 is complete: the front matter and all five of its topics (修禪波羅蜜大意, 釋禪波羅蜜名, 明禪波羅蜜門, 辨禪波羅蜜詮次, and 簡禪波羅蜜法心), spanning both its upper and lower halves (卷第一之上 and 卷第一之下). Fascicles 2 through 10 of the treatise — carrying Zhiyi's ten-topic outline the rest of the way through topics 6 through 10, including the twenty-five preliminary conditions — remain untranslated.
+Fascicle 1 is complete: the front matter and all five of its topics (修禪波羅蜜大意, 釋禪波羅蜜名, 明禪波羅蜜門, 辨禪波羅蜜詮次, and 簡禪波羅蜜法心), spanning both its upper and lower halves (卷第一之上 and 卷第一之下). Fascicle 2 is in progress: the front matter, the external/internal expedient means framing, the full twenty-five-fold structure, and the first of condition 1's three parts (有戒無戒, having or lacking precepts) are translated. Condition 1's remaining two parts, the remaining four of the five conditions, and the remaining four groups of the twenty-five preliminary conditions remain untranslated, as do fascicles 3 through 10 of the treatise.

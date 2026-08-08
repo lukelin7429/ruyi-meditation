@@ -83,7 +83,7 @@ excerpt: A plain-English study entrance to Zhiyi's Shi Chan Boluomi Cidi Famen, 
       <div class="scbl-panel" data-rv>
         <h2>How to read this collection</h2>
         <p>Zhiyi delivered this treatise as oral lectures, recorded by his disciple Fashen and revised by his disciple Guanding — the same pairing behind his other great meditation works. It opens by naming ten framing topics for the whole treatise, from the right motivation for practice through to where the path ultimately leads, and then works through them one at a time, at real length.</p>
-        <p>This is a new, ongoing translation. Fascicle 1 — the front matter and all five of the topics it contains — is now complete. Zhiyi's ten-topic outline continues into later fascicles, including the treatise's well-known twenty-five preliminary conditions for practice, which will be added as the project continues.</p>
+        <p>This is a new, ongoing translation. Fascicle 1 — the front matter and all five of the topics it contains — is complete. Fascicle 2 has begun, opening the treatise's sixth topic: the famous twenty-five preliminary conditions for practice, five groups of five, starting with the most extensively treated of them all, pure moral discipline.</p>
       </div>
       <div class="scbl-panel" data-rv style="transition-delay:.08s">
         <h2>What each fascicle page includes</h2>
@@ -94,7 +94,7 @@ excerpt: A plain-English study entrance to Zhiyi's Shi Chan Boluomi Cidi Famen, 
         </ul>
         <div class="scbl-stats">
           <div class="scbl-stat"><b>10</b> fascicles in the Chinese treatise</div>
-          <div class="scbl-stat"><b>1</b> fascicle complete (topics 1–5 of Zhiyi's ten-topic outline)</div>
+          <div class="scbl-stat"><b>1</b> fascicle complete, 1 more begun</div>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English study entrance to Zhiyi's Shi Chan Boluomi Cidi Famen, 
     <div class="scbl-wrap">
       <div class="scbl-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Fascicle 1 is now complete. Use this as the table of contents for the treatise as it grows — fascicle 1 links to Ru-Yi's own translation, and the rest link out to the source text on CBETA for now.</p>
+        <p>Fascicle 1 is complete and fascicle 2 has begun. Use this as the table of contents for the treatise as it grows — fascicles 1 and 2 link to Ru-Yi's own translation, and the rest link out to the source text on CBETA for now.</p>
       </div>
 
       <div class="scbl-featured">
@@ -114,9 +114,9 @@ excerpt: A plain-English study entrance to Zhiyi's Shi Chan Boluomi Cidi Famen, 
           <p>The treatise's ten-topic outline, the great intent behind cultivating dhyāna-pāramitā, its name, its three gates of practice, the whole sequence of attainments from the twelve contaminated dhyānas through the bodhisattva's nine unshared samādhis, and a Madhyamaka-style analysis of the mind that practices them.</p>
         </div>
         <div class="feature" data-rv style="transition-delay:.06s">
-          <span class="tag">Fascicles 2–10 · Not yet translated</span>
-          <h3>The Twenty-Five Preliminary Conditions, and Beyond</h3>
-          <p>Zhiyi's ten-topic outline continues into later fascicles — topics 6 through 10, including the treatise's famous twenty-five preliminary conditions for practice, cultivation, realization, fruits, and the treatise's own conclusion, are not contained within fascicle 1 itself.</p>
+          <span class="tag">Fascicle 2 · Begun</span>
+          <h3>The Twenty-Five Preliminary Conditions, Begun</h3>
+          <p>Topic 6 opens: the famous twenty-five preliminary conditions, five groups of five. Translation begins with condition 1 of the first group, pure moral discipline — the ten Vinaya precedents for how precepts are received, what the precepts actually are across Hīnayāna and Mahāyāna teaching, and how precept-holding differs across the seven assemblies.</p>
         </div>
       </div>
 
@@ -128,6 +128,12 @@ excerpt: A plain-English study entrance to Zhiyi's Shi Chan Boluomi Cidi Famen, 
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Complete — all 5 topics covered by scroll 1 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">釋禪波羅蜜次第法門</span>.</span>
+        </a>
+        {% elsif i == 2 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/shi-chan-boluomi/fascicle-002/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Topic 6 begun — the twenty-five preliminary conditions, starting with pure moral discipline, for scroll 2 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">釋禪波羅蜜次第法門</span> — in progress.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/zh/T1916_{{ padded }}" target="_blank" rel="noopener" data-rv>
