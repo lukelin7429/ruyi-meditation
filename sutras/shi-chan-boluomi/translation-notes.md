@@ -46,6 +46,20 @@ Zhiyi (智顗, 538–597 CE), posthumously honored as the Great Master of Tianta
 | 頓教 | the sudden teaching | Cited in topic 2's closing argument that a bodhisattva's still-incomplete dhyāna can nonetheless be called pāramitā, since the sudden teaching holds the initial arising of the bodhi-mind and its ultimate completion to be, in the end, not two different things. |
 | 八背捨、八勝處、十一切處 | the eight liberations, the eight stations of mastery, the ten totality-bases | A recurring set of named meditative attainments cited in topic 2 as states contained within, but not equal in status to, the four root dhyānas. |
 | 九次第定 | the nine sequential concentrations | Another named set cited in topic 2's classification of dhyāna/concentration/samādhi/pāramitā. |
+| 名色 | name and form | nāmarūpa. Used in topic 3 in a broader sense than its usual place in dependent origination — as shorthand for mind ("name") and body ("form") together, the basis for reducing every gate of practice to just three. |
+| 甘露門 | the gate to the deathless | amṛta-dvāra. Topic 3's term for the two gates within the gate of form: the contemplation of impurity, and mindfulness of the breath. |
+| 不淨觀 | the contemplation of impurity | aśubha-bhāvanā, one of the two gates of form named in topic 3. |
+| 阿那波那 | mindfulness of the breath | ānāpāna(-smṛti); left partly transliterated on first use in topic 3, then rendered in full. |
+| 十六特勝 | the sixteen special excellences | A named breath-based meditation scheme, listed in topic 3 among the attainments reached through the gate of the breath; not yet detailed in translation. |
+| 九想 / 八念 / 十想 | the nine contemplations / the eight recollections / the ten contemplations | Named sets of contemplative practices within the gate of form, listed in topic 3; not yet detailed in translation. |
+| 師子奮迅（三昧） | the lion's-sport samādhi | Named in topics 2 and 3 among the most complete meditative attainments; not yet detailed in translation. |
+| 超越三昧 | the transcendence samādhi | Named alongside the lion's-sport samādhi in topics 2 and 3; not yet detailed in translation. |
+| 自性禪 | the samādhi of self-nature | Named in topic 3 among the great samādhis reached through the gate of mind. |
+| 清淨淨禪 | the pure-and-undefiled samādhi | Named in topic 3 as the furthest attainment reached through the gate of mind. |
+| 出法攝心 / 滅法攝心 / 非出非滅法攝心 | gathering the mind through the dharma of emergence / of extinction / of neither | The *Mahāsaṃnipāta Sūtra*'s own threefold naming of the three gates, quoted in topic 3 as a scriptural parallel to Zhiyi's own worldly / world-transcending / world-transcending-and-beyond division. |
+| 大集經 | the *Mahāsaṃnipāta Sūtra* | Cited in topic 3 for the "three kinds of gathering the mind" and the three-part kalala description of conception. |
+| 請觀音經 | the *Sūtra of Invoking Avalokiteśvara* | Cited in topic 3 as evidence that breath-practice extends to all three vehicles, not only ordinary practitioners. |
+| 毘尼 | the Vinaya | Cited in topic 3 for the Buddha's sixteen practices of breath-observation taught to śrāvaka disciples. |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
@@ -57,4 +71,4 @@ Keep this table growing as new recurring terms appear in later fascicles — add
 
 ## Project status
 
-Fascicle 1 is in progress: the treatise's front matter (title, ten-topic outline), the whole of topic 1 (the great intent of cultivating dhyāna-pāramitā), and the whole of topic 2 (explaining the name of dhyāna-pāramitā) are translated. Topics 3 through 10 of fascicle 1, and fascicles 2 through 10 of the treatise, remain untranslated.
+Fascicle 1's upper half (卷第一之上) is complete: the treatise's front matter (title, ten-topic outline) and the whole of topics 1 through 3 (the great intent of cultivating dhyāna-pāramitā, explaining its name, and clarifying its three gates) are translated. Fascicle 1's lower half (卷第一之下, topics 4 through 10) and fascicles 2 through 10 of the treatise remain untranslated.
