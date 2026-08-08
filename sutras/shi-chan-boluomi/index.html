@@ -83,7 +83,7 @@ excerpt: A plain-English study entrance to Zhiyi's Shi Chan Boluomi Cidi Famen, 
       <div class="scbl-panel" data-rv>
         <h2>How to read this collection</h2>
         <p>Zhiyi delivered this treatise as oral lectures, recorded by his disciple Fashen and revised by his disciple Guanding — the same pairing behind his other great meditation works. It opens by naming ten framing topics for the whole treatise, from the right motivation for practice through to where the path ultimately leads, and then works through them one at a time, at real length.</p>
-        <p>This is a new, ongoing translation. Fascicles 1 through 4 are complete — through the whole of topic 6, the preliminary expedient means: the twenty-five external conditions, and all five internal layers, from the gate of stopping (止, śamatha) through verifying wholesome and unwholesome capacity, settling the mind, treating illness, and recognizing demonic affairs.</p>
+        <p>This is a new, ongoing translation. Fascicles 1 through 5 are complete — through the whole of topic 6, the preliminary expedient means, and into the opening of topic 7, cultivation and realization: the four dhyānas in full, from the breath-counting method that opens the first dhyāna through the naming, cultivation, and marks of realization for all four.</p>
       </div>
       <div class="scbl-panel" data-rv style="transition-delay:.08s">
         <h2>What each fascicle page includes</h2>
@@ -146,6 +146,12 @@ excerpt: A plain-English study entrance to Zhiyi's Shi Chan Boluomi Cidi Famen, 
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Complete — verifying unwholesome capacity, settling the mind, treating illness, and recognizing demonic affairs, finishing the internal expedient means, in scroll 4 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">釋禪波羅蜜次第法門</span>.</span>
+        </a>
+        {% elsif i == 5 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/shi-chan-boluomi/fascicle-005/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Complete — the four dhyānas in full, naming and cultivation through the marks of realization for each, in scroll 5 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">釋禪波羅蜜次第法門</span>.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/zh/T1916_{{ padded }}" target="_blank" rel="noopener" data-rv>
