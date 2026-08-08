@@ -46,6 +46,11 @@ excerpt: Ru-Yi's own reading notes on Candrakīrti's Madhyamakāvatāra ("Enteri
   .note-card h3{font-family:'Playfair Display',Georgia,serif;font-size:22px;color:var(--ink);margin:8px 0 8px;line-height:1.2;}
   .note-card p{font-size:15px;color:var(--muted);line-height:1.55;margin:0;}
   .note-card.placeholder{background:#fbfaf7;border-style:dashed;color:var(--muted);}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
   @media(prefers-reduced-motion:reduce){.js .mav [data-rv]{opacity:1;transform:none;}}
 </style>
 
@@ -140,6 +145,21 @@ excerpt: Ru-Yi's own reading notes on Candrakīrti's Madhyamakāvatāra ("Enteri
           <h3>The Ten Powers, and a Buddha Who Never Departs</h3>
           <p>The Buddha's omniscience catalogued in ten powers, and the text's closing argument for why a Buddha never enters final nirvana as long as any being still suffers.</p>
         </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="mav-section" id="terminology" style="background:var(--cream);padding-top:64px;">
+    <div class="mav-wrap">
+      <div class="mav-section-head" data-rv>
+        <h2>Terminology Notes</h2>
+        <p>Recurring terms, the ten ground names, and a note on method, kept consistent across all eleven entries. See the full <a href="https://github.com/lukelin7429/ruyi-meditation/blob/main/sutras/madhyamakavatara/translation-notes.md" target="_blank" rel="noopener">translation-notes.md</a> in the site repository for the complete list.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>佛子 — a child of the Victorious Ones</b><span>Fazun's literal phrasing for "bodhisattva" in verse; kept literal in translated verses, glossed as "bodhisattva" in prose.</span></div>
+        <div class="term"><b>薩迦耶見 — the view of a fixed self</b><span>Satkāyadṛṣṭi, the root of all afflictions; refuted first via the sevenfold chariot reasoning.</span></div>
+        <div class="term"><b>自性 / 自相 — inherent nature / own-characteristic</b><span>Two distinct technical terms, kept distinct rather than collapsed into one English word.</span></div>
+        <div class="term"><b>石女兒 — the son of a barren woman</b><span>Stock analogy for something empty in both truths at once — not existent even conventionally, unlike a vase or a dream.</span></div>
       </div>
     </div>
   </section>
