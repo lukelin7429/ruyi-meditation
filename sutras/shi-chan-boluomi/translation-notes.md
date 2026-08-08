@@ -60,6 +60,20 @@ Zhiyi (智顗, 538–597 CE), posthumously honored as the Great Master of Tianta
 | 大集經 | the *Mahāsaṃnipāta Sūtra* | Cited in topic 3 for the "three kinds of gathering the mind" and the three-part kalala description of conception. |
 | 請觀音經 | the *Sūtra of Invoking Avalokiteśvara* | Cited in topic 3 as evidence that breath-practice extends to all three vehicles, not only ordinary practitioners. |
 | 毘尼 | the Vinaya | Cited in topic 3 for the Buddha's sixteen practices of breath-observation taught to śrāvaka disciples. |
+| 十二門禪 | the twelve gates of dhyāna | Topic 4's name for the contaminated (有漏) attainments: the four dhyānas, the four immeasurable minds, and the four formless bases. |
+| 六妙門 | the six wondrous gates | Counting, following, stilling, contemplating, returning, and purifying — Zhiyi's own separate, shorter treatise (already published in English by Bhikshu Dharmamitra as *Six Dharma Gates to the Sublime*); named in topic 4 as both contaminated and uncontaminated dhyāna. See the source-and-copyright note above — translate independently, without reference to that edition. |
+| 十六特勝 | the sixteen special excellences | Named in topic 4 among the "both contaminated and uncontaminated" dhyānas, correlated with the four foundations of mindfulness. |
+| 通明觀 | the thorough-and-bright contemplation | Named in topic 4 as a finer-grained companion practice to the sixteen special excellences. |
+| 觀、鍊、熏、修（禪） | observing, refining, perfuming, and mastering (dhyāna) | Topic 4's four-stage sequence of practice-conduct (行行次第) for working with uncontaminated dhyāna once concentration is established. Keep all four verbs fixed wherever this sequence recurs. |
+| 九想 / 八念 / 十想 | the nine contemplations / the eight recollections / the ten contemplations | Named among the six kinds of "observing dhyāna" (觀禪) in topic 4; individual definitions not yet reached in translation. |
+| 九次第定 | the nine sequential concentrations | See topic 2's entry above; topic 4 identifies this set with "refining dhyāna" (鍊禪). |
+| 師子奮迅三昧 | the lion's-sport samādhi | Identified in topic 4 with "perfuming dhyāna" (熏禪): cycling forward and backward through every dhyāna in sequence. |
+| 超越三昧 | the transcendence samādhi | Identified in topic 4 with "mastering dhyāna" (修禪): moving freely between dhyānas out of sequence. Topic 4 notes this is the highest attainment still shared with the two lesser vehicles — "even the great arhat can also attain" it. |
+| 九種菩薩不共禪 | the bodhisattva's nine unshared dhyānas | First fully listed in topic 4: 自性禪 (the samādhi of self-nature), 一切義禪 (of every meaning), 難禪 (the difficult samādhi), 一切門禪 (of every gate), 善人禪 (of the good person), 一切行禪 (of every practice), 除惱禪 (that removes affliction), 此世他世樂禪 (of joy in this life and lives to come), 清淨淨禪 (the pure-and-undefiled samādhi). Same set as the "nine kinds of great dhyāna" (九種大禪) named in topic 2; individual definitions not yet reached in translation. |
+| 三十七品 | the thirty-seven factors of enlightenment | bodhipakṣa-dharma; cited in topic 4 as part of the śrāvaka's wisdom-conduct sequence. |
+| 十二因緣 | the twelve links of dependent origination | Cited in topic 4 as the basis of the pratyekabuddha's own contemplation. |
+| 乾慧地、性地、八人地、見地、離欲地 | the ground of dry wisdom, the ground of conforming nature, the ground of the eighth-stage practitioner, the ground of vision, the ground free of desire | The opening five of the "common ten grounds" (十地/共十地) shared across vehicles, quoted from the Larger Sūtra in topic 4; full definitions not yet reached in translation. |
+| 次第 / 非次第 | sequential / not sequential | The governing pair for topic 4's closing fourfold classification (sequential, not sequential, sequential-then-not, not-sequential-then-sequential), applied to both the bodhisattva path and the śrāvaka path. |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
@@ -71,4 +85,4 @@ Keep this table growing as new recurring terms appear in later fascicles — add
 
 ## Project status
 
-Fascicle 1's upper half (卷第一之上) is complete: the treatise's front matter (title, ten-topic outline) and the whole of topics 1 through 3 (the great intent of cultivating dhyāna-pāramitā, explaining its name, and clarifying its three gates) are translated. Fascicle 1's lower half (卷第一之下, topics 4 through 10) and fascicles 2 through 10 of the treatise remain untranslated.
+Fascicle 1's upper half (卷第一之上, topics 1–3) is complete, and topic 4 of the lower half (卷第一之下, distinguishing the sequence in which dhyāna-pāramitā is explained) is also translated — four of the fascicle's ten topics in total. Topics 5 through 10 of fascicle 1, and fascicles 2 through 10 of the treatise, remain untranslated.
