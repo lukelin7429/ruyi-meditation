@@ -1,0 +1,80 @@
+# Xiuxi Zhiguan Zuochan Fayao Jiangshu (Master Baojing's Commentary) Translation Notes
+
+These notes record recurring translation decisions for the Ru-Yi English translation of Master Baojing's (寶靜法師) *Xiūxí Zhǐguān Zuòchán Fǎyào Jiǎngshù* (修習止觀坐禪法要講述, "A Lecture Commentary on the Essentials of Practicing Calming and Insight for Sitting Meditation"). This is a vernacular commentary on Zhiyi's own short meditation manual, the *Tóngméng Zhǐguān* (童蒙止觀, "Calming and Insight for Beginners"), also known as the *Xiǎo Zhǐguān* (小止觀, "Lesser Calming and Insight"). See the companion notes at [`sutras/shi-chan-boluomi/translation-notes.md`](../shi-chan-boluomi/translation-notes.md) for the site's general approach to Zhiyi's meditation writings, and [`sutras/surangama-sutra-jiangyi/translation-notes.md`](../surangama-sutra-jiangyi/translation-notes.md) for the closest structural model — a modern master's clause-by-clause vernacular commentary on an earlier text, with no prior English translation of the commentary itself.
+
+## Who Baojing was, and why this text
+
+Master Baojing (寶靜, 1899–1940) was the forty-fourth-generation patriarch of the Tiantai lineage and the principal dharma-heir of Master Dixian (諦閑法師), the leading reviver of Tiantai teaching and monastic education in early-twentieth-century China. Baojing succeeded Dixian as abbot of Guanzong Monastery (觀宗寺) in Ningbo — the seat of Tiantai studies Dixian had rebuilt — and carried that work forward through his own founding of the Hongfa Research Society (弘法研究社) for training students in Tiantai doctrine and practice.
+
+This commentary began as a series of oral lectures. In the autumn of 1934 (甲戌年秋), lay disciples Zeng Bishan (曾璧山) and Lü Biecheng (呂碧城) of the Xianghai Lotus Society (香海蓮社) invited Baojing to lecture on Zhiyi's *Tóngméng Zhǐguān*. Two of his students, Fazi (法慈) and Minzhi (敏智), took down the lectures; Fazi's own preface (dated to this same lecture series) records that the two recorders' draft was afterward submitted back to Baojing for correction before being edited into its final form and printed. Fazi's preface is explicit about the pairing this commentary keeps drawing on throughout: that Tiantai's teaching on calming and insight (止觀) and Pure Land recitation of the Buddha's name are "mutually entailing, not mutually separate" (相即而不相離) — a theme that recurs constantly in Baojing's own gloss of Zhiyi's text.
+
+## Source and copyright
+
+- Base text: as reproduced at [book.bfnn.org](https://book.bfnn.org/books3/2074.htm) (Buddhist Education Foundation's online library) and cross-checked against the independent reproduction at [book853.com](http://www.book853.com/show.aspx?id=1369&cid=23) (via its Internet Archive snapshot, the live site being intermittently unreachable). Both are independent non-commercial reproductions of the same public text, not a single publisher's proprietary typesetting — as with the *Léngyán Jīng Jiǎngyì* project, we deliberately avoid relying on any one commercial reprint as the base text.
+- This text is not in CBETA, which is primarily a repository of canonical scriptures (the Taishō and related canons) rather than modern vernacular lecture-commentaries; book.bfnn.org and book853.com are, between them, the standard online sources for this particular work.
+- Baojing died in 1940 — over eighty years ago. Under any plausible reading of copyright term (life + 50 years, expired 1990; or the more conservative life + 70 years used for URAA-restored foreign works, expired 2010), this commentary has been in the public domain for well over a decade, in every jurisdiction that could plausibly apply. This is, if anything, a cleaner case than the *Léngyán Jīng Jiǎngyì* project's (Yuanying died in 1953), and does not need the same close term-by-term calculation.
+- No prior English translation of this commentary is known to exist. This is an original translation made directly from the Chinese.
+
+## Relation to Zhiyi's root text and to Dharmamitra's published translation
+
+Zhiyi's own root text, the *Tóngméng Zhǐguān* (童蒙止觀, also titled *Xiūxí Zhǐguān Zuòchán Fǎyào* — the same eight-character title Baojing's commentary borrows and expounds), already has a complete, published English translation: Bhikshu Dharmamitra's *The Essentials of Buddhist Meditation* (Kalavinka Press, 2009). That translation covers only Zhiyi's own short root text. It does not include Baojing's commentary — a separate, much longer twentieth-century work that quotes Zhiyi's text passage by passage and then explains it clause by clause for a modern lay audience, weaving in his own Tiantai-and-Pure-Land synthesis, historical anecdotes, and pastoral asides that have no counterpart in Zhiyi's own spare original. As far as we are aware, no English translation of Baojing's commentary specifically exists; this is the unique contribution of this translation project.
+
+Because Dharmamitra's translation of the root text is already published and well known, we take the same care here that the *Shì Chán Bōluómì Cìdì Fǎmén* project already takes with Zhiyi's other meditation writings: **every quoted passage of Zhiyi's root text is translated independently from the Chinese**, without consulting, echoing, or drifting toward Dharmamitra's existing wording, sentence structure, or section framing. Baojing's own commentary prose is, in any case, an entirely separate composition with no existing English rendering to avoid.
+
+## The root text embedded in the commentary
+
+Baojing's method, like Yuanying's in the *Léngyán Jīng Jiǎngyì*, quotes a passage of Zhiyi's root text and then explains it clause by clause. We follow the same inline convention already established for that project (itself following the convention used for the *Mahāprajñāpāramitā Śāstra*):
+
+- Chinese source: bold `〖文〗` for a quoted passage of Zhiyi's root text, bold `〖講〗` for Baojing's own commentary.
+- English translation: **Root Text:** for the quoted passage, **Commentary:** for Baojing's explanation.
+
+We use `〖文〗` / **Root Text:** rather than `〖經〗` / **Sūtra:** because Zhiyi's *Tóngméng Zhǐguān* is not itself a sūtra (a discourse attributed to the Buddha) but a treatise (論) — the same distinction already kept for the *Shì Chán Bōluómì* project. Where Baojing quotes a passage that overlaps with material already translated in the *Shì Chán Bōluómì* project (both being Zhiyi's own writing on dhyāna), we do not automatically reuse that project's wording — the *Xiǎo Zhǐguān* and the *Shì Chán Bōluómì Cìdì Fǎmén* are distinct compositions in Zhiyi's own hand, addressed to different audiences (the *Xiǎo Zhǐguān* explicitly for beginners, per its own subtitle 童蒙), and we translate each passage fresh in its own context unless the underlying Chinese is truly identical.
+
+## Structure
+
+Zhiyi's root text opens with a short prologue (quoting "commit no evil, do every good, purify one's own mind" as the whole of the Buddha's teaching, then explaining why calming and insight are the most direct gate into it) and a listing of its own ten-topic outline, before the ten chapters proper begin. We treat this prologue material as front matter — summarized in English on this project's index page and in Baojing's biography above, rather than translated in full on a chapter page — and begin each chapter page's translation at the chapter's own opening line, matching how a reader of the Chinese text would actually navigate to that chapter.
+
+The ten chapters (十意/十章), in Zhiyi's own order:
+
+1. 具緣第一 — Being Provided with the Conditions: the five prerequisite conditions for practice (pure precept-observance, sufficient clothing and food, a quiet dwelling place, setting worldly affairs aside, staying close to good spiritual friends).
+2. 訶欲第二 — Rebuking the Five Desires: turning away from the five sense-desires (form, sound, smell, taste, touch).
+3. 棄蓋第三 — Discarding the Hindrances: setting aside the five hindrances (desire, ill will, drowsiness, restlessness and regret, doubt).
+4. 調和第四 — Regulation: harmonizing food, sleep, body, breath, and mind.
+5. 方便行第五 — Skillful Means: the five conditions proper to the method itself (aspiration, mindfulness, diligence, discernment, singleness of mind).
+6. 正修行第六 — Actual Practice: practice while seated, and practice carried into every activity and circumstance.
+7. 善根發第七 — The Arising of Wholesome Roots: recognizing genuine signs of progress as they appear.
+8. 覺知魔事第八 — Awareness of Demonic Affairs: recognizing and not being deceived by obstructive states.
+9. 治病第九 — Curing Illness: diagnosing and treating illness that arises from or obstructs practice.
+10. 證果第十 — The Fruit of Realization: what is actually attained.
+
+We keep this ten-chapter structure as the site's own page structure — one page per chapter — rather than subdividing further, since each chapter (unlike the multi-fascicle *Léngyán Jīng Jiǎngyì*) is short enough to read in one sitting even at full commentary length.
+
+## Core terminology
+
+| Chinese | English | Notes |
+|---|---|---|
+| 止觀 | calming and insight (śamatha-vipaśyanā) | The treatise's central pair of terms. 止 ("calming," śamatha) and 觀 ("insight," vipaśyanā) are kept as a fixed pair throughout, spelled out with the Sanskrit on first use per chapter, then in plain English afterward — matching this site's general preference for accessible English over dense transliteration where a clear rendering exists. |
+| 童蒙止觀 / 小止觀 | the *Tóngméng Zhǐguān* / the *Xiǎo Zhǐguān* | Zhiyi's own root text under commentary here — left in transliteration as a title, per this site's convention for named works (e.g. the *Shì Chán Bōluómì Cìdì Fǎmén*), rather than translated inline as "the Lesser Calming and Insight" each time it is named. |
+| 具緣 | the [five] conditions | Chapter 1's own term for its five prerequisites; see Structure above for the five. |
+| 善知識 | a good spiritual friend | kalyāṇamitra. Baojing distinguishes three kinds in chapter 1: the protecting friend (外護, who provides material support), the fellow-practitioner (同行, who practices alongside one and keeps one accountable), and the teaching friend (教授, who actually instructs). Keep this threefold distinction fixed when it recurs. |
+| 頭陀 | dhutaṅga, ascetic practice | Transliterated per common English Buddhist usage; Baojing's chapter 1 discussion covers the traditional twelve dhutaṅga practices grouped under food, dwelling, and robes. |
+| 三品持戒 | the three grades of precept-observance | Chapter 1's threefold grading of practitioners by how they hold precepts: upper grade (never broken, from before ordination onward), middle grade (unbroken major precepts, minor lapses sincerely repented), lower grade (even major precepts broken, requiring Mahāyāna-style repentance since Hīnayāna teaching holds the four root offenses unrepentable). Keep this threefold grading fixed if it recurs in later chapters. |
+| 波羅夷 | pārājika | The four root monastic offenses (killing, stealing, sexual misconduct, false claims of spiritual attainment) — transliterated per standard English Buddhist-studies usage. |
+| 事懺 / 理懺 | repentance through ritual form / repentance through principle | A recurring pair in chapter 1's discussion of confession: 事懺 (also called 作法懺, "repentance according to a set method") is repentance carried out through actual ritual observance — bathing, incense, prostration, a fixed period of practice; 理懺 (also called 無相懺, "signless repentance" or 實相懺, "repentance through the true mark of reality") is repentance through directly contemplating that the offense, like the mind that gave rise to it, has no fixed, findable nature. Baojing is explicit that the two are not really separable — genuine ritual repentance already implicitly contains the contemplative kind, and vice versa — matching the 事/理 pairing already logged in the *Shì Chán Bōluómì* notes. |
+| 尸羅 | śīla | Transliterated; glossed in-line as "precept-observance" where it appears as its own term (Baojing glosses the transliteration itself, e.g. "尸羅, meaning precept-observance," so both the transliteration and its plain-English sense appear together on first use). |
+| 阿蘭若 | araṇya | A wilderness dwelling-place suited to practice — transliterated, matching the term's standing as a fixed technical term throughout Buddhist meditation literature, rather than translated case-by-case as "forest," "hermitage," or "quiet place." |
+| 檀越 | a donor | dāna-pati — a lay patron who supports a practitioner materially, discussed in chapter 1's account of the lower grade of alms-food. |
+| 邪命 | wrong livelihood | The four kinds of improper means of subsistence for a mendicant (named in chapter 1 by the direction implied in each: "mouth facing down," "mouth facing up," "mouth facing the four directions," "mouth facing everywhere at once" — farming/manual trades, astrology/weather-prediction, networking/travel for gain, and fortune-telling/medicine/physiognomy, respectively). Keep all four named individually when this term recurs. |
+
+Keep this table growing as new terms recur in later chapters — add a row rather than improvising a fresh translation of a term that already has an entry.
+
+## Register
+
+- Baojing lectures in clear, accessible vernacular Chinese (白話), addressed explicitly to lay beginners — noticeably plainer and more discursive than Yuanying's *Léngyán Jīng Jiǎngyì*, and further still from Zhiyi's own terse classical root text. The English should read as clear, warm expository prose, not artificially elevated or archaic — matching the register of an oral lecture transcribed for print.
+- Baojing draws constantly on Pure Land practice as his worked example whenever he illustrates an abstract point about calming and insight (e.g. reciting the Buddha's name single-mindedly as an instance of 止, hearing one's own recitation clearly as an instance of 觀). Preserve these asides rather than trimming them as digressions — they are the commentary's own consistent teaching method, not incidental color.
+- Zhiyi's own root-text passages, by contrast, are terse and enumerative (e.g. the ten methods of aiding repentance, the four kinds of wrong livelihood) — keep the enumerated structure explicit in translation (numbered or clearly parallel clauses) even where Baojing's surrounding commentary expands into looser prose.
+- Mark every chapter's status honestly. A chapter page should say plainly whether it covers the whole chapter or only part of it, matching the practice already established for the *Shì Chán Bōluómì* and *Léngyán Jīng Jiǎngyì* projects.
+
+## Project status
+
+Chapter 1 (具緣第一, "Being Provided with the Conditions") is translated in full. Chapters 2 through 10 remain untranslated.
