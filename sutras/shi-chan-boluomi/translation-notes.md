@@ -37,6 +37,15 @@ Zhiyi (智顗, 538–597 CE), posthumously honored as the Great Master of Tianta
 | 纓絡經 | the Yingluo Sūtra | 菩薩瓔珞本業經, cited for its own mapping of the four vows onto the Four Noble Truths. |
 | 六情 | the six faculties of feeling | The six sense-faculties, named here (topic 1) for their role in the perfection of moral discipline — "closing off" the six faculties of feeling to keep evil from entering. |
 | 天魔、外道 | heavenly demons, non-Buddhist paths | A fixed pair recurring wherever the text names external obstacles to genuine practice, alongside "the two [lesser] vehicles" as an internal one. |
+| 事 / 理 | phenomenal conduct / principle | A recurring conceptual pair from topic 2 onward: 事 for actual practice and activity, 理 for the underlying, unchanging truth that practice discloses. Keep this pairing consistent, since Zhiyi uses it repeatedly to sort different renderings of the same term. |
+| 九種大禪 | the nine kinds of great dhyāna | Named in topic 2 as what only a bodhisattva's penetration of the middle-way buddha-nature produces; not yet reached in translation. |
+| 首楞嚴 | Śūraṅgama | Left transliterated, per this site's existing convention at [`sutras/surangama-sutra/`](../surangama-sutra/). Topic 2 names the Śūraṅgama samādhi as one of the rare states possessing dhyāna, concentration, samādhi, and pāramitā all at once. |
+| 波羅蜜 | pāramitā | Left transliterated (rather than "perfection") when discussed as a term in its own right in topic 2's etymological discussion, matching the treatment of "dhyāna" itself. |
+| 涅槃經 | the Nirvāṇa Sūtra | The *Mahāparinirvāṇa Sūtra*, cited in topic 2 for its "five names of buddha-nature" passage. |
+| 瑞應經 | the Sūtra of Auspicious Manifestations | 太子瑞應本起經, cited in topic 2 for its rendering of pāramitā as "crossing to the limitless." |
+| 頓教 | the sudden teaching | Cited in topic 2's closing argument that a bodhisattva's still-incomplete dhyāna can nonetheless be called pāramitā, since the sudden teaching holds the initial arising of the bodhi-mind and its ultimate completion to be, in the end, not two different things. |
+| 八背捨、八勝處、十一切處 | the eight liberations, the eight stations of mastery, the ten totality-bases | A recurring set of named meditative attainments cited in topic 2 as states contained within, but not equal in status to, the four root dhyānas. |
+| 九次第定 | the nine sequential concentrations | Another named set cited in topic 2's classification of dhyāna/concentration/samādhi/pāramitā. |
 
 Keep this table growing as new recurring terms appear in later fascicles — add a row rather than improvising a fresh translation of a term that already has an entry.
 
@@ -48,4 +57,4 @@ Keep this table growing as new recurring terms appear in later fascicles — add
 
 ## Project status
 
-Fascicle 1 is in progress: the treatise's front matter (title, ten-topic outline) and the whole of topic 1 (the great intent of cultivating dhyāna-pāramitā) are translated. Topics 2 through 10 of fascicle 1, and fascicles 2 through 10 of the treatise, remain untranslated.
+Fascicle 1 is in progress: the treatise's front matter (title, ten-topic outline), the whole of topic 1 (the great intent of cultivating dhyāna-pāramitā), and the whole of topic 2 (explaining the name of dhyāna-pāramitā) are translated. Topics 3 through 10 of fascicle 1, and fascicles 2 through 10 of the treatise, remain untranslated.
