@@ -120,6 +120,17 @@ Keep this table growing as new recurring terms appear in later fascicles — add
 | 十二頭陀 | the twelve dhutanga practices | Ascetic observances (forest-dwelling, alms-begging, a single daily meal, discarded robes, dwelling among graves, never lying down, and the rest) cited under "diligence" as the paradigm of complete bodily and mental effort. |
 | 六行觀 | the six contemplations | A repurposed Abhidharma scheme (growing weary of the lower realm's suffering/coarseness/obstruction; reaching for the higher realm's superiority/subtlety/transcendence) applied here to moving from the desire realm into the first dhyāna, explained under "mindfulness" in both fruit-terms and cause-terms. |
 
+### Fascicle 3 onward — the internal expedient means
+
+| Chinese | English | Notes |
+|---|---|---|
+| 內方便 | the internal expedient means | Topic 6's second half (fascicle 3 onward), opening into five layers: the gate of stopping (止門), verifying wholesome/unwholesome capacity (驗善惡根性), methods for settling the mind (安心法), treating illness (治病患), and recognizing demonic affairs (覺魔事). |
+| 止門 | the gate of stopping | Śamatha; taken as the first of the five internal-expedient-means layers because, per the treatise, every dhyāna's merit depends on restraining the mind. Has four parts: distinguishing its kinds, its great intent, its method of cultivation, and the marks that verify it. |
+| 繫緣止 | fixed-object stopping | The first, coarsest of the three kinds of stopping (in terms of practice): fixing the mind on a physical point (the nose, navel, etc.) to prevent it from wandering. |
+| 制心止 | restraining-the-mind stopping | The second, middle kind: restraining discursive thought directly at its arising, rather than via an external object. |
+| 體真止 | embodying-truth stopping | The third, subtlest kind: embodying the emptiness of all dharmas directly, described as "a stopping that stops nothing" — the deepest of the three, each breaking through the one before it as antidote. |
+| 隨緣止 / 入定止 / 真性止 | stopping that follows conditions / stopping that has entered concentration / stopping of the true nature | The same three kinds of stopping restated in terms of principle rather than practice, mapped one-to-one onto 繫緣止/制心止/體真止 respectively. |
+
 ## Register
 
 - Plain English, close to the Chinese, not a loose paraphrase — matching the method already used for the *Cheng Weishi Lun* and the two Śūraṅgama projects on this site.
@@ -128,4 +139,4 @@ Keep this table growing as new recurring terms appear in later fascicles — add
 
 ## Project status
 
-Fascicles 1 and 2 are complete. Fascicle 1: the front matter and all five of its topics (修禪波羅蜜大意, 釋禪波羅蜜名, 明禪波羅蜜門, 辨禪波羅蜜詮次, and 簡禪波羅蜜法心), spanning both its upper and lower halves (卷第一之上 and 卷第一之下). Fascicle 2: the front matter and the whole of topic 6 (分別禪波羅蜜前方便), covering all twenty-five preliminary conditions across their five groups (具五緣, 訶五欲, 棄五蓋, 調五法, and 行五法). Fascicles 3 through 10 of the treatise, carrying Zhiyi's ten-topic outline through topics 7 through 10, remain untranslated.
+Fascicles 1 and 2 are complete. Fascicle 1: the front matter and all five of its topics (修禪波羅蜜大意, 釋禪波羅蜜名, 明禪波羅蜜門, 辨禪波羅蜜詮次, and 簡禪波羅蜜法心), spanning both its upper and lower halves (卷第一之上 and 卷第一之下). Fascicle 2: the front matter and the whole of topic 6's external expedient means (分別禪波羅蜜前方便), covering all twenty-five preliminary conditions across their five groups (具五緣, 訶五欲, 棄五蓋, 調五法, and 行五法). Fascicle 3 is in progress: the front matter, the five-fold framing of topic 6's internal expedient means, and the first two of the gate of stopping's four parts (the three kinds of stopping, in practice and in principle, and the great intent of establishing stopping). The gate of stopping's remaining two parts, the internal expedient means' remaining four layers, and fascicles 4 through 10 of the treatise remain untranslated.
