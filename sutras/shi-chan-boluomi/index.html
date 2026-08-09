@@ -83,7 +83,7 @@ excerpt: A plain-English study entrance to Zhiyi's Shi Chan Boluomi Cidi Famen, 
       <div class="scbl-panel" data-rv>
         <h2>How to read this collection</h2>
         <p>Zhiyi delivered this treatise as oral lectures, recorded by his disciple Fashen and revised by his disciple Guanding — the same pairing behind his other great meditation works. It opens by naming ten framing topics for the whole treatise, from the right motivation for practice through to where the path ultimately leads, and then works through them one at a time, at real length.</p>
-        <p>This is a new, ongoing translation. Fascicles 1 through 8 are complete — through the whole of topic 6, the preliminary expedient means, through mundane dhyāna, and through the whole of dhyāna both mundane and world-transcending: the six wondrous gates, the sixteen special excellences, and the thorough-and-bright contemplation, each matched to a different balance of concentration and wisdom.</p>
+        <p>This is a new, ongoing translation. Fascicles 1 through 9 are complete — through the whole of topic 6, the preliminary expedient means, through mundane dhyāna, through the whole of dhyāna both mundane and world-transcending, and into dhyāna that is purely world-transcending: the destructive path's nine contemplations, eight recollections, and ten perceptions, a stark charnel-ground meditation designed to sever attachment to the body at its root.</p>
       </div>
       <div class="scbl-panel" data-rv style="transition-delay:.08s">
         <h2>What each fascicle page includes</h2>
@@ -170,6 +170,12 @@ excerpt: A plain-English study entrance to Zhiyi's Shi Chan Boluomi Cidi Famen, 
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Complete — the thorough-and-bright contemplation in full, closing dhyāna both mundane and world-transcending, in scroll 8 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">釋禪波羅蜜次第法門</span>.</span>
+        </a>
+        {% elsif i == 9 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/shi-chan-boluomi/fascicle-009/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Complete — the destructive path in full: the nine contemplations, eight recollections, and ten perceptions, in scroll 9 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">釋禪波羅蜜次第法門</span>.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/zh/T1916_{{ padded }}" target="_blank" rel="noopener" data-rv>
