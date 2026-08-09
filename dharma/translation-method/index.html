@@ -1,0 +1,273 @@
+---
+layout: default
+title: How These Translations Are Made
+permalink: /dharma/translation-method/
+excerpt: A note on method — how source texts, AI-assisted drafting, and human doctrinal review combine on this site, set beside the Tang dynasty translation bureau that produced the Chinese canon itself.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  /* ============ TRANSLATION METHOD — warm article page, shares Dharma hub palette ============ */
+  .tm{--saffron:#d98b2b;--saffron-deep:#b56a1c;--maroon:#6f2a22;--maroon-deep:#4a1c17;
+      --gold:#e3b765;--jade:#2f6d5e;--jade-deep:#234f44;--jade-soft:#e8f1ed;
+      --terra:#b5482f;--terra-deep:#8c2f12;--terra-soft:#fbeae3;
+      --cream:#fbf5ea;--ink:#2a211b;--ink-soft:#6a5e52;--line:#ece0cf;
+      background:var(--cream);}
+  .tm *{box-sizing:border-box;}
+  .tm-wrap{max-width:760px;margin:0 auto;padding:0 26px;}
+
+  .js .tm [data-rv]{opacity:0;transform:translateY(18px);transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
+  .js .tm [data-rv].in{opacity:1;transform:none;}
+
+  .tm-hero{position:relative;overflow:hidden;color:#fff;
+    background:linear-gradient(155deg,#7c2f24 0%,#6f2a22 42%,#3d1712 100%);}
+  .tm-hero-in{position:relative;max-width:760px;margin:0 auto;padding:64px 26px 56px;z-index:2;}
+  .tm-crumb{font-size:13px;letter-spacing:.06em;color:#e8c9ad;margin-bottom:20px;}
+  .tm-crumb a{color:#e8c9ad;text-decoration:none;}
+  .tm-crumb a:hover{color:#fff;}
+  .tm-crumb span{color:rgba(255,255,255,.4);margin:0 8px;}
+  .tm-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+  .tm-hero h1{font-family:'Playfair Display',serif;font-weight:600;font-size:clamp(32px,5.6vw,50px);line-height:1.12;margin:14px 0 0;}
+  .tm-hero p{max-width:560px;font-size:18px;line-height:1.68;color:#f4e7d6;margin-top:18px;}
+
+  .tm-langbar{display:flex;gap:8px;margin-top:30px;}
+  .tm-langbar button{font:inherit;font-size:14px;font-weight:600;letter-spacing:.02em;color:#f4e7d6;
+    background:rgba(255,255,255,.08);border:1px solid rgba(227,183,101,.4);border-radius:30px;
+    padding:8px 20px;cursor:pointer;transition:background .2s,color .2s,border-color .2s;}
+  .tm-langbar button.active{background:var(--gold);color:#3d1712;border-color:var(--gold);}
+  .tm-langbar button:not(.active):hover{border-color:var(--gold);color:#fff;}
+
+  .tm-body{background:var(--cream);padding:52px 0 90px;}
+  .tm-panel[hidden]{display:none;}
+
+  .tm-panel .zh{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;}
+  .tm-panel:not(.tm-zh) p, .tm-panel:not(.tm-zh) li{font-family:Georgia,'Times New Roman',serif;}
+  .tm-zh, .tm-zh p, .tm-zh li, .tm-zh h2, .tm-zh h3, .tm-zh dt, .tm-zh dd, .tm-zh td, .tm-zh th{
+    font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;}
+
+  .tm-panel{font-size:19px;line-height:1.75;color:var(--ink);}
+  .tm-panel p{margin:0 0 20px;}
+  .tm-panel h2{font-family:'Playfair Display',serif;font-size:27px;font-weight:600;color:var(--maroon);
+    margin:52px 0 16px;}
+  .tm-zh h2{font-family:'PingFang TC','Apple LiGothic Medium','Microsoft JhengHei',sans-serif;font-weight:700;}
+  .tm-panel h2 .num{color:var(--gold-deep,#b56a1c);margin-right:10px;font-family:'Playfair Display',serif;}
+  .tm-panel h3{font-size:19px;font-weight:700;color:var(--ink);margin:28px 0 10px;}
+  .tm-panel ol, .tm-panel ul{margin:0 0 20px;padding-left:24px;}
+  .tm-panel li{margin-bottom:10px;}
+  .tm-panel strong{color:var(--maroon);}
+  .tm-lead{font-size:21px;color:var(--maroon-deep);font-style:italic;margin-bottom:28px;}
+  .tm-zh .tm-lead{font-style:normal;}
+
+  .tm-table-wrap{overflow-x:auto;margin:0 0 28px;border-radius:10px;border:1px solid var(--line);}
+  .tm-table{width:100%;border-collapse:collapse;font-size:16px;background:#fff;}
+  .tm-table th{background:var(--terra-soft);color:var(--terra-deep);text-align:left;padding:10px 14px;
+    font-size:13px;letter-spacing:.04em;text-transform:uppercase;font-weight:700;white-space:nowrap;}
+  .tm-table td{padding:10px 14px;border-top:1px solid var(--line);vertical-align:top;}
+  .tm-table tr:nth-child(even) td{background:#fbf8f2;}
+
+  .tm-callout{background:linear-gradient(135deg,rgba(255,255,255,.9),var(--jade-soft));
+    border:1px solid rgba(47,109,94,.28);border-left:5px solid var(--jade);border-radius:8px;
+    padding:22px 24px;margin:8px 0 32px;font-size:17px;line-height:1.7;color:var(--jade-deep);}
+  .tm-callout strong{color:var(--jade-deep);}
+
+  .tm-honest{background:linear-gradient(135deg,rgba(255,255,255,.9),var(--terra-soft));
+    border:1px solid rgba(181,72,47,.28);border-left:5px solid var(--terra);border-radius:8px;
+    padding:22px 24px;margin:8px 0 32px;font-size:17px;line-height:1.7;color:var(--terra-deep);}
+  .tm-honest strong{color:var(--terra-deep);}
+
+  .tm-cta{margin-top:56px;padding:28px 26px;border-radius:12px;
+    background:linear-gradient(158deg,#357a69 0%,#2f6d5e 45%,#234f44 100%);color:#fff;}
+  .tm-cta h3{font-family:'Playfair Display',serif;font-size:21px;margin-bottom:10px;color:#fff;}
+  .tm-cta p{color:#dcefe9;margin-bottom:14px;font-size:16.5px;}
+  .tm-cta a{color:var(--gold);font-weight:700;text-decoration:none;}
+  .tm-cta a:hover{text-decoration:underline;}
+
+  .tm-foot-note{margin-top:44px;padding-top:24px;border-top:1px solid var(--line);
+    font-size:15px;color:var(--ink-soft);}
+
+  @media(max-width:640px){
+    .tm-hero-in{padding:48px 22px 40px;}
+    .tm-body{padding:40px 0 70px;}
+    .tm-panel{font-size:17.5px;}
+    .tm-table{font-size:14.5px;}
+  }
+</style>
+
+<div class="tm">
+
+  <section class="tm-hero">
+    <div class="tm-hero-in">
+      <nav class="tm-crumb">
+        <a href="/">Ru-Yi Meditation Center</a><span>›</span><a href="/dharma/">Dharma</a><span>›</span>Translation Method
+      </nav>
+      <div class="tm-eyebrow">A note on method</div>
+      <h1>How these translations are made</h1>
+      <p>Every Chinese text on this site — sūtra, śāstra, or commentary — reaches you only after a process. This page describes that process plainly, including where an AI tool is and isn't involved, and sets it beside the oldest translation tradition in the canon.</p>
+      <div class="tm-langbar" role="tablist">
+        <button type="button" class="tm-lang-btn active" data-lang="en" role="tab" aria-selected="true">English</button>
+        <button type="button" class="tm-lang-btn" data-lang="zh" role="tab" aria-selected="false">中文</button>
+      </div>
+    </div>
+  </section>
+
+  <div class="tm-body">
+    <div class="tm-wrap">
+
+      <!-- ================= ENGLISH ================= -->
+      <article class="tm-panel" data-lang-panel="en">
+
+        <p class="tm-lead">Translation was never the work of one quiet scholar with a dictionary. It has always been a checked, collaborative craft — and it still is here.</p>
+
+        <h2><span class="num">I.</span>An old craft, not a solitary one</h2>
+        <p>The Chinese Buddhist canon that this site draws on — the Taishō edition, <span class="zh">大正藏</span> — exists because of a translation institution the Tang dynasty perfected: the <strong>translation bureau</strong> (<span class="zh">譯場</span>). By the height of Xuánzàng's era, a single sūtra could pass through as many as a dozen distinct roles before it was considered finished:</p>
+
+        <div class="tm-table-wrap">
+          <table class="tm-table">
+            <tr><th>Role</th><th>Job</th></tr>
+            <tr><td>Chief Translator <span class="zh">譯主</span></td><td>Read and expounded the Sanskrit; held final authority on meaning</td></tr>
+            <tr><td>Doctrinal Verifier <span class="zh">證義</span></td><td>Checked the reading against established doctrine, in dialogue with the Chief Translator</td></tr>
+            <tr><td>Textual Verifier <span class="zh">證文</span></td><td>Listened to the Sanskrit recitation, checked it against the manuscript</td></tr>
+            <tr><td>Scribe <span class="zh">筆受</span></td><td>Turned the spoken meaning into a written Chinese draft</td></tr>
+            <tr><td>Editor <span class="zh">綴文</span></td><td>Arranged that draft into proper Chinese sentence order</td></tr>
+            <tr><td>Cross-checker <span class="zh">參譯</span></td><td>Compared Chinese against Sanskrit, sometimes back-translating to test accuracy</td></tr>
+            <tr><td>Reviser <span class="zh">刊定</span></td><td>Cut redundancy, tightened the text without losing meaning</td></tr>
+            <tr><td>Literary Polisher <span class="zh">潤文</span></td><td>Refined the prose style — often a court scholar, not a monk</td></tr>
+            <tr><td>Imperial Supervisor <span class="zh">監護大使</span></td><td>Oversaw resources and gave the project standing</td></tr>
+          </table>
+        </div>
+
+        <p>The point of this machinery was never ceremony. It was <strong>error control</strong>. No single mind — not even Xuánzàng's — was trusted alone with a text that would be chanted, studied, and relied on for a thousand years. The name on a sūtra's colophon represents an institution of checks, not one person's certainty.</p>
+
+        <h2><span class="num">II.</span>What happens at Ru-Yi, step by step</h2>
+        <ol>
+          <li><strong>Source.</strong> The Chinese text is the Taishō canon (<span class="zh">大正藏</span>) as preserved by CBETA — the standard modern critical edition, public domain, the same source scholars cite.</li>
+          <li><strong>Draft.</strong> Claude Code, an AI coding assistant made by Anthropic, produces a first rendering of the Chinese into English, sentence by sentence, cross-referenced against any existing published translation where one exists.</li>
+          <li><strong>Doctrinal review.</strong> Luke Lin checks that draft against the Chinese, against Chinese and English commentary, and against the wider canon. Where a term is genuinely contested among translators, the reading guide says so and explains the choice — it isn't silently resolved and hidden.</li>
+          <li><strong>Publication as a working edition.</strong> The page goes live dated, not declared final. Revisions are tracked in the site's version history and made openly, not quietly.</li>
+        </ol>
+
+        <h2><span class="num">III.</span>Where the AI sits in the old division of labor</h2>
+        <p>Mapped onto the Tang bureau's roles, honestly:</p>
+        <div class="tm-table-wrap">
+          <table class="tm-table">
+            <tr><th>Tang role</th><th>On this site</th></tr>
+            <tr><td>Scribe + Editor + Cross-checker<br><span class="zh">筆受・綴文・參譯</span></td><td>Claude Code — first rendering, sentence-level accuracy checks, readable English phrasing</td></tr>
+            <tr><td>Chief Translator + Doctrinal Verifier<br><span class="zh">譯主・證義</span></td><td>Luke Lin — final meaning, doctrinal judgment, what gets published under Ru-Yi's name</td></tr>
+            <tr><td>Reviser <span class="zh">刊定</span></td><td>Open revision history in place of a second court pass</td></tr>
+          </table>
+        </div>
+
+        <div class="tm-callout">
+          <strong>What doesn't change with the tool.</strong> The Tang bureau's real innovation wasn't manpower for its own sake — it was <em>separating drafting from doctrinal authority</em>, so no one step could quietly corrupt the meaning. That separation is exactly what this process preserves: the AI drafts and cross-checks language; a human being trained in the material decides what the text means and signs off on it.
+        </div>
+
+        <div class="tm-honest">
+          <strong>Where this is honestly incomplete.</strong> The Tang bureau had an independent second and third reader — <span class="zh">證義</span> and <span class="zh">證文</span> — checking the Chief Translator's own judgment. Ru-Yi does not yet have a standing independent doctrinal reviewer for every page. Until it does, that gap is real, and readers who can read Chinese, Sanskrit, or Pāli are the closest thing this project has to it — see the invitation below.
+        </div>
+
+        <h2><span class="num">IV.</span>What this is, and isn't</h2>
+        <p>These are not authorized translations issued by a monastic order or an ordination lineage. They are a doorway for readers who don't read Chinese — a way in, not a substitute for a teacher, and not the last word on a difficult passage. Where the tradition itself holds open questions, these pages try to show the question rather than paper over it.</p>
+
+        <div class="tm-cta">
+          <h3>Found something that looks wrong?</h3>
+          <p>Tell us which text and which line. We'll show our reasoning, or fix it — either way, in the open. Every page here is a working edition, the way it always was.</p>
+          <p><a href="mailto:{{ site.center.email }}">{{ site.center.email }}</a></p>
+        </div>
+
+        <p class="tm-foot-note">On the Tang translation bureau: Zànníng's <span class="zh">《宋高僧傳》</span> (Song Biographies of Eminent Monks) is the classical source for this system's roles and history.</p>
+
+      </article>
+
+      <!-- ================= 中文 ================= -->
+      <article class="tm-panel tm-zh" data-lang-panel="zh" hidden>
+
+        <p class="tm-lead">譯經從來不是一位學者獨自伏案查字典的工作，而是一門經過層層檢核、集體合作的技藝——在這裡也不例外。</p>
+
+        <h2><span class="num">一、</span>譯經自古就不是一人之事</h2>
+        <p>本站所依據的漢傳佛教大藏經——《大正藏》——之所以存在，源自唐朝發展到極致的一套翻譯制度：<strong>譯場</strong>。到玄奘的時代，一部經典在被視為完成之前，最多可能經過十餘種不同的職司：</p>
+
+        <div class="tm-table-wrap">
+          <table class="tm-table">
+            <tr><th>職司</th><th>工作內容</th></tr>
+            <tr><td>譯主</td><td>誦讀並講解梵文，對經義擁有最終權威</td></tr>
+            <tr><td>證義</td><td>與譯主討論、核對經義是否符合既有教理</td></tr>
+            <tr><td>證文</td><td>聆聽梵文誦讀，核對抄本文字是否無誤</td></tr>
+            <tr><td>筆受</td><td>將口述的義理轉寫成漢文初稿</td></tr>
+            <tr><td>綴文</td><td>將初稿整理成通順的漢文句式</td></tr>
+            <tr><td>參譯</td><td>對照梵漢文本，有時反譯回梵文以驗證準確性</td></tr>
+            <tr><td>刊定</td><td>刪削冗贅、精簡文字而不失原意</td></tr>
+            <tr><td>潤文</td><td>潤飾文采——常由朝廷文士擔任，而非僧侶</td></tr>
+            <tr><td>監護大使</td><td>督導資源調度，賦予譯場官方地位</td></tr>
+          </table>
+        </div>
+
+        <p>這套制度的用意從來不是排場，而是<strong>錯誤控管</strong>。即使是玄奘，也不會被單獨信任去獨力完成一部日後要被誦持、研習、依止千年的經典。經卷末尾署的那個名字，代表的是一整套層層查核的制度，而不是一個人的自信。</p>
+
+        <h2><span class="num">二、</span>如意精舍的實際流程</h2>
+        <ol>
+          <li><strong>底本。</strong>漢文原典採用 CBETA（中華電子佛典協會）所保存的《大正藏》——現代學界通用的標準校勘本，公版，也是學者引用的同一來源。</li>
+          <li><strong>初譯。</strong>由 Anthropic 開發的 AI 程式輔助工具 Claude Code，逐句將漢文譯成英文初稿，並與既有出版譯本(若有)交叉核對。</li>
+          <li><strong>義理審定。</strong>林吉祥本人將初稿對照原文、對照中英文注疏、對照整部大藏經脈絡逐一核實。若某個術語在譯者之間確實存在爭議，導讀會明說並說明取捨理由——不會悄悄定案、不予交代。</li>
+          <li><strong>以「進行中版本」發布。</strong>頁面上線時即標明日期，不宣稱為定本；修訂歷程保存在網站的版本紀錄中，公開可查，不做無聲更動。</li>
+        </ol>
+
+        <h2><span class="num">三、</span>AI 在這套古老分工裡的位置</h2>
+        <p>誠實地對照唐朝譯場的職司：</p>
+        <div class="tm-table-wrap">
+          <table class="tm-table">
+            <tr><th>唐朝譯場職司</th><th>在本站對應的角色</th></tr>
+            <tr><td>筆受・綴文・參譯</td><td>Claude Code——負責初譯、逐句準確度核對、通順的英文表達</td></tr>
+            <tr><td>譯主・證義</td><td>林吉祥——負責最終義理判斷，決定以如意精舍之名發布的內容</td></tr>
+            <tr><td>刊定</td><td>以公開的修訂紀錄，取代第二輪的宮廷覆核</td></tr>
+          </table>
+        </div>
+
+        <div class="tm-callout">
+          <strong>工具改變了，這一點沒有改變。</strong> 唐朝譯場真正的創見，不在於人多勢眾本身，而在於<em>把「起草」與「義理最終判斷」分開</em>，讓任何單一環節都無法悄悄扭曲原意。這正是本流程所保留的精神：AI 負責語言的起草與核對，而受過相關訓練的人來判斷經文的意義，並為最終發布負責。
+        </div>
+
+        <div class="tm-honest">
+          <strong>誠實承認尚不完備之處。</strong> 唐朝譯場有獨立的第二、第三位審核者——證義與證文——來檢核譯主本人的判斷。如意精舍目前並未對每一頁內容都設有常設的獨立義理審核人。在補上這一環之前，這個落差是真實存在的；而懂中文、梵文或巴利文的讀者，正是目前最接近這個角色的人——詳見下方的邀請。
+        </div>
+
+        <h2><span class="num">四、</span>這是什麼，又不是什麼</h2>
+        <p>這些譯文並非任何僧團或傳承正式頒行的官方譯本，而是為不諳中文的讀者開的一扇門——是入口，不是老師的替代品，也不是艱澀段落的最終定論。凡是傳統本身留有開放討論空間之處，這些頁面會試著呈現那個問題本身，而不是把它抹平。</p>
+
+        <div class="tm-cta">
+          <h3>發現譯文有問題？</h3>
+          <p>請告訴我們是哪一部經、哪一句話。我們會公開說明推敲的理由，或是直接修正——無論哪一種，都會公開處理。這裡的每一頁，一如既往，都是進行中的版本。</p>
+          <p><a href="mailto:{{ site.center.email }}">{{ site.center.email }}</a></p>
+        </div>
+
+        <p class="tm-foot-note">關於唐朝譯場制度，贊寧《宋高僧傳》是記載此一分工與歷史的經典史料。</p>
+
+      </article>
+
+    </div>
+  </div>
+</div>
+
+<script>
+  document.documentElement.classList.add('js');
+  (function(){
+    var els=document.querySelectorAll('.tm [data-rv]');
+    if('IntersectionObserver' in window){
+      var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12});
+      els.forEach(function(e){io.observe(e);});
+    } else {
+      els.forEach(function(e){e.classList.add('in');});
+    }
+
+    var btns=document.querySelectorAll('.tm-lang-btn');
+    var panels=document.querySelectorAll('.tm-panel[data-lang-panel]');
+    btns.forEach(function(btn){
+      btn.addEventListener('click', function(){
+        var lang=btn.dataset.lang;
+        btns.forEach(function(b){b.classList.toggle('active', b===btn); b.setAttribute('aria-selected', b===btn ? 'true':'false');});
+        panels.forEach(function(p){p.hidden = (p.dataset.langPanel !== lang);});
+        window.scrollTo({top:0, behavior:'smooth'});
+      });
+    });
+  })();
+</script>

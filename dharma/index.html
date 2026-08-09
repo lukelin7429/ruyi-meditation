@@ -103,6 +103,17 @@ excerpt: The Buddha's teachings in plain English — discourses, treatises, and 
   .dh-prep .sub{font-size:13.5px;color:var(--saffron-deep);font-weight:600;margin-bottom:10px;}
   .dh-prep p{font-size:15px;line-height:1.6;color:var(--ink-soft);margin:0;}
 
+  /* method note strip */
+  .dh-methodnote{background:var(--cream);padding:0 0 84px;}
+  .dh-methodlink{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px;
+    text-decoration:none;border:1px solid var(--line);border-radius:14px;padding:20px 26px;
+    background:linear-gradient(100deg,rgba(255,255,255,.8),rgba(251,245,234,.94));transition:transform .22s,box-shadow .22s;}
+  .dh-methodlink:hover{transform:translateY(-2px);box-shadow:0 18px 36px -26px rgba(120,80,30,.4);text-decoration:none;}
+  .dh-methodlink-txt{font-size:15px;line-height:1.55;color:var(--ink-soft);max-width:520px;}
+  .dh-methodlink-go{font-size:13.5px;font-weight:700;letter-spacing:.04em;color:var(--maroon);white-space:nowrap;}
+  .dh-methodlink:hover .dh-methodlink-go .arw{transform:translateX(4px);}
+  .dh-methodlink-go .arw{display:inline-block;transition:transform .25s;}
+
   /* ===== unified hover juice (added) ===== */
   .dh-card{will-change:transform;}
   .dh-card::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;z-index:3;
@@ -265,6 +276,16 @@ excerpt: The Buddha's teachings in plain English — discourses, treatises, and 
           </a>
         </div>
       </div>
+    </div>
+  </section>
+
+  <!-- METHOD NOTE -->
+  <section class="dh-methodnote">
+    <div class="dh-wrap">
+      <a href="/dharma/translation-method/" class="dh-methodlink" data-rv>
+        <span class="dh-methodlink-txt">How these translations are made — source texts, AI-assisted drafting, and doctrinal review, set beside the Tang dynasty translation bureau.</span>
+        <span class="dh-methodlink-go">Read the note <span class="arw">→</span></span>
+      </a>
     </div>
   </section>
 
