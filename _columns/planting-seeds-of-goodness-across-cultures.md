@@ -9,11 +9,11 @@ slug: planting-seeds-of-goodness-across-cultures
 
 # Planting Seeds of Goodness Across Cultures
 
-This August, students from the Chinese Community Center Chinese School in New York came to Taiwan for a week of cultural exchange. On the surface, it was an international education program. But from a Buddhist point of view, it was also a beautiful example of wholesome conditions coming together.
+This August, students from the CCC Chinese School in New York came to Taiwan for a week of cultural exchange. On the surface, it was an international education program. But from a Buddhist point of view, it was also a beautiful example of wholesome conditions coming together.
 
 These students crossed distance, language, and culture to enter Taiwanese schools and homes. They did not come only to visit Taiwan, or only to learn Chinese language and culture. More importantly, they came into situations where they could connect with others, receive kindness, and share what they themselves had to offer.
 
-On the morning of August 3, the high school students visited Zhonghe Elementary School and helped younger children learn English. They prepared lessons based on everyday topics and used interactive activities to make English feel more natural and accessible.
+On the morning of August 3, the high school students visited Jhonghe Elementary School and helped younger children learn English. They prepared lessons based on everyday topics and used interactive games to make English feel more natural and accessible.
 
 To me, this was not merely an English class. It was an act of generosity.
 
@@ -25,7 +25,7 @@ And for the American students, teaching also changed their role. They were not s
 
 That is a precious moment in education. When young people realize they are capable of benefiting someone else, their understanding of themselves begins to change.
 
-Later that day at Xihu High School, students from Taiwan and the United States worked together to create indigo-dyed postcards they could bring back home. As they made them, they talked, laughed, and slowly became more comfortable with one another. The next day, they continued in small groups, discussing school life and cultural differences between Taiwan and the United States. Questions were asked, ideas were exchanged, and laughter filled the room.
+Later that day at Sihu High School, students from Taiwan and the United States worked together to create blueprint postcards they could bring back home. As they made them, they talked, laughed, and slowly became more comfortable with one another. The next day, they continued in small groups, discussing school life and cultural differences between Taiwan and the United States. Questions were asked, ideas were exchanged, and laughter filled the room.
 
 Real cultural exchange is not one side performing its culture while the other side watches. It is not treating another person as a curiosity. Real exchange happens when people ask sincere questions, listen carefully, and allow themselves to be changed, even slightly, by what they hear.
 
@@ -35,13 +35,13 @@ At first glance, these may seem like simple cultural activities. But they also c
 
 Beyond the school activities, one of the most moving parts of the exchange was the hospitality of the host families.
 
-Several Taiwanese families planned rich local experiences for the visiting students. Some took them to enjoy Taiwanese snacks, mochi rolls, shaved ice, and other local foods. Some brought them to night markets or fitness centers. For these young people far from home, the host families provided more than a place to sleep. They offered warmth, trust, and the feeling of being cared for.
+Several Taiwanese families planned rich local experiences for the visiting students. Some took them to enjoy Taiwanese snacks, mochi rolls, shaved ice, and other local foods. Some brought them to night markets or gyms. For these young people far from home, the host families provided more than a place to sleep. They offered warmth, trust, and the feeling of being cared for.
 
 Compassion in Buddhism does not always appear in dramatic forms. Often, compassion is found in ordinary details: preparing a meal, arranging transportation, listening patiently, helping a student feel safe in an unfamiliar place. These actions may look simple, but they require real care.
 
 When a family opens its home to a student from another country, that too is generosity. They are not only giving food and space. They are giving time, trust, attention, and a part of their family life. Because of their kindness, the students' experience in Taiwan was not limited to classrooms and scheduled visits. They were able to touch real Taiwanese life.
 
-This entire exchange could not have been accomplished by one person alone. It depended on many conditions: the Chinese Community Center Chinese School, My Culture Connect, the Taiwanese host schools, teachers, volunteers, students, parents, and host families. Each played a part.
+This entire exchange could not have been accomplished by one person alone. It depended on many conditions: the CCC Chinese School, My Culture Connect, the Taiwanese host schools, teachers, volunteers, students, parents, and host families. Each played a part.
 
 In Buddhist language, this is dependent origination. Nothing meaningful arises by itself. Every wholesome event is supported by many visible and invisible causes and conditions.
 
