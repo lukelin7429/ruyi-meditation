@@ -83,7 +83,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
       <div class="scbl-panel" data-rv>
         <h2>How to read this collection</h2>
         <p>Zhiyi delivered this treatise as oral lectures, recorded directly by his disciple Guanding as the Master spoke — unlike Zhiyi's other two meditation treatises, this one was never revised into a second, polished pass. It opens with a long account of the teaching's own lineage, back through Zhiyi's teachers to Nāgārjuna and the twenty-four Indian patriarchs, before naming ten framing sections for the whole treatise and working through the first of them, the great intent, at very great length.</p>
-        <p>This translation is in progress. Fascicle 1 is complete, covering the treatise's origin, its three kinds of calming-and-contemplation, and the whole of topic one so far as fascicle 1 itself carries it. The treatise's own outline continues well beyond what fascicle 1 covers — including its celebrated twenty-five preliminary conditions and ten objects of contemplation — and remains to be translated.</p>
+        <p>This translation is in progress. Fascicles 1 and 2 are complete, covering the treatise's origin, its three kinds of calming-and-contemplation, and the whole of topic one, the great intent — including the celebrated Four Kinds of Samādhi. The treatise's own outline continues well beyond what these two fascicles cover — including its celebrated twenty-five preliminary conditions and ten objects of contemplation — and remains to be translated.</p>
       </div>
       <div class="scbl-panel" data-rv style="transition-delay:.08s">
         <h2>What each fascicle page includes</h2>
@@ -94,7 +94,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
         </ul>
         <div class="scbl-stats">
           <div class="scbl-stat"><b>10</b> fascicles in the Chinese treatise</div>
-          <div class="scbl-stat"><b>1</b> fascicle complete so far</div>
+          <div class="scbl-stat"><b>2</b> fascicles complete so far</div>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
     <div class="scbl-wrap">
       <div class="scbl-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Fascicle 1 is complete. Use this as the table of contents for the whole treatise as translation continues — completed fascicles link to Ru-Yi's own translation, and the rest link to the CBETA source text in the meantime.</p>
+        <p>Fascicles 1 and 2 are complete. Use this as the table of contents for the whole treatise as translation continues — completed fascicles link to Ru-Yi's own translation, and the rest link to the CBETA source text in the meantime.</p>
       </div>
 
       <div class="scbl-featured">
@@ -114,9 +114,9 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
           <p>The transmission lineage from Mahākāśyapa through Zhiyi's own teachers, the three kinds of calming-and-contemplation with their scriptural proof, the three written versions, and — from topic one, the great intent — giving rise to the bodhi-mind in full: the ten deviant minds to reject, and four ways of revealing what is right, through the Four Noble Truths, beholding the Buddha, the four universal vows, and the six identities.</p>
         </div>
         <div class="feature" data-rv style="transition-delay:.06s">
-          <span class="tag">Fascicle 2 · Not yet translated</span>
-          <h3>The Great Intent, Continued</h3>
-          <p>The remaining four of topic one's five brief points — cultivating great practice, evoking a great fruit, tearing apart the great net of scriptural doubt, and returning to the great abode — plus, most likely, the opening of topic two, explaining the name (釋名). Read the source text on CBETA in the meantime.</p>
+          <span class="tag">Fascicle 2 · Topic 1 complete</span>
+          <h3>The Four Kinds of Samādhi, and the Close of the Great Intent</h3>
+          <p>The celebrated Four Kinds of Samādhi in full — constantly sitting, constantly walking, half walking and half sitting, and neither walking nor sitting, the last worked through wholesome, unwholesome, and indeterminate states, including the treatise's famous and carefully hedged teaching that "craving is itself the path." Closes with the three virtues and the whole of topic one, the great intent.</p>
         </div>
       </div>
 
@@ -128,6 +128,12 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">The teaching's origin and giving rise to the great mind, covered by scroll 1 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">摩訶止觀</span>.</span>
+        </a>
+        {% elsif i == 2 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/mohe-zhiguan/fascicle-002/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">The four kinds of samādhi in full, closing topic one, the great intent, covered by scroll 2 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">摩訶止觀</span>.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/zh/T1911_{{ padded }}" target="_blank" rel="noopener" data-rv>
