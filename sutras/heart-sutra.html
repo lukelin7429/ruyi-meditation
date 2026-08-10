@@ -1,1312 +1,597 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Heart Sūtra — Prajñāpāramitā-hṛdaya | Ru-Yi Meditation Center</title>
-<meta name="description" content="A reading guide, full Chinese-and-English text, and self-check quiz for the Heart Sūtra (般若波羅蜜多心經) — the shortest and most-recited scripture of Mahāyāna Buddhism, the distilled heart of the Perfection of Wisdom. Written in plain English for Ru-Yi Meditation Center.">
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16.png">
-  <link rel="icon" href="/assets/images/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
-  <meta name="theme-color" content="#559986">
+---
+layout: default
+title: The Heart Sūtra — Prajñāpāramitā-hṛdaya
+permalink: /sutras/heart-sutra.html
+excerpt: Ru-Yi's reading guide, side-by-side Chinese–English translation, and self-check quiz for the Heart Sūtra (般若波羅蜜多心經) — with reading notes drawn from Grand Master Yuanying's 1953 般若心經講義.
+---
+
 <style>
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif;
-    background: #fff;
-    color: #1a1a1a;
-    line-height: 1.7;
-    font-size: 20px;
-    -webkit-font-smoothing: antialiased;
-  }
-  .container {
-    max-width: 720px;
-    margin: 0 auto;
-    padding: 48px 24px 96px;
-  }
-  .crumb {
-    font-size: 15px;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: #6b6b6b;
-    margin-bottom: 28px;
-  }
-  .crumb a { color: #6b6b6b; text-decoration: none; }
-  .crumb a:hover { color: #1a1a1a; }
-  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle .lede{font-size:19px;color:var(--ink);border-left:2px solid var(--terra);padding-left:18px;margin:0 0 20px;}
+  .fascicle table{width:100%;border-collapse:collapse;margin:16px 0 22px;font-size:16px;}
+  .fascicle th,.fascicle td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--muted);}
+  .fascicle th{background:#f6efe2;color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
 
-  .sutta-number {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 18px;
-    letter-spacing: 0.18em;
-    color: #6b6b6b;
-    text-transform: uppercase;
-    margin-bottom: 12px;
-  }
-  h1 {
-    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
-    font-size: clamp(40px, 5.5vw, 54px);
-    font-weight: 400;
-    line-height: 1.18;
-    letter-spacing: -0.01em;
-    margin-bottom: 14px;
-    color: #1a1a1a;
-  }
-  .subtitle {
-    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
-    font-size: 24px;
-    font-style: italic;
-    color: #4a4a4a;
-    margin-bottom: 40px;
-  }
-  .subtitle .zh {
-    font-style: normal;
-    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
-    color: #6b6b6b;
-    margin-left: 8px;
-  }
+  .glance{background:#f6efe2;border-left:3px solid var(--ink);padding:22px 26px;margin:26px 0 6px;font-size:16px;}
+  .glance dl{display:grid;grid-template-columns:130px 1fr;gap:9px 16px;margin:0;}
+  .glance dt{color:var(--muted);font-weight:700;}
+  .glance dd{color:var(--ink);margin:0;}
 
-  .glance {
-    background: #f3f5f7;
-    border-left: 3px solid #1a1d23;
-    padding: 22px 26px;
-    margin-bottom: 56px;
-    font-size: 18px;
-    line-height: 1.7;
-  }
-  .glance dl { display: grid; grid-template-columns: 150px 1fr; gap: 6px 16px; }
-  .glance dt { color: #6b6b6b; font-weight: 600; }
-  .glance dd { color: #1a1d23; }
-  .glance .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
+  .terms{background:#fdf9f1;border:1px solid var(--line);padding:22px 24px;border-radius:6px;font-size:16px;}
+  .terms .term{margin-bottom:14px;}
+  .terms .term:last-child{margin-bottom:0;}
+  .terms .pali-word{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-weight:700;color:var(--ink);}
 
-  /* Tab navigation — card style */
-  .tabs {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 12px;
-    margin: 8px 0 48px;
-    position: sticky;
-    top: 0;
-    background: #fff;
-    padding: 14px 0 16px;
-    z-index: 10;
-  }
-  .tab {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    text-align: left;
-    padding: 20px 22px 22px;
-    border: 1.5px solid #dee2e6;
-    border-radius: 6px;
-    background: #fff;
-    cursor: pointer;
-    font-family: inherit;
-    position: relative;
-    overflow: hidden;
-    transition: border-color 0.18s ease, background 0.18s ease,
-                box-shadow 0.18s ease, transform 0.18s ease;
-  }
-  .tab-num {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 13px;
-    letter-spacing: 0.18em;
-    color: #a64018;
-    margin-bottom: 8px;
-    font-weight: 400;
-  }
-  .tab-label {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 23px;
-    font-weight: 600;
-    color: #1a1d23;
-    line-height: 1.2;
-    margin-bottom: 8px;
-    transition: color 0.18s ease;
-  }
-  .tab-sub {
-    font-size: 14.5px;
-    color: #6b6b6b;
-    letter-spacing: 0.01em;
-    line-height: 1.45;
-  }
-  .tab:hover {
-    border-color: #b8431c;
-    background: #fafbfc;
-    transform: translateY(-1px);
-    box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08);
-  }
-  .tab:hover .tab-label { color: #1a1a1a; }
-  .tab.active {
-    background: #f3f5f7;
-    border-color: #b8431c;
-    box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14);
-  }
-  .tab.active::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: 4px;
-    background: #b8431c;
-  }
-  .tab.active .tab-num {
-    color: #8c2f12;
-    font-weight: 600;
-  }
-  .tab.active .tab-label { color: #1a1a1a; }
+  .translation-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px;}
+  .translation-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.translation-row{grid-template-columns:1fr 1.08fr;}}
+  .source,.translation{border:1px solid var(--line);border-radius:8px;padding:20px 22px;background:#fffdf8;}
+  .translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:10px;}
+  .translation .label{color:var(--jade);}
+  .source p{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:#382a20;font-size:19px;line-height:1.9;margin:0;}
+  .translation p{font-family:'Playfair Display',Georgia,serif;font-style:italic;color:var(--ink);font-size:17px;line-height:1.75;margin:0;}
 
-  @media (max-width: 640px) {
-    .tabs {
-      grid-template-columns: 1fr;
-      gap: 10px;
-      padding: 8px 0 12px;
-    }
-    .tab { padding: 16px 18px 18px; }
-    .tab-label { font-size: 21px; }
-  }
-  @media (min-width: 641px) and (max-width: 1099px) {
-    .tabs { grid-template-columns: 1fr 1fr; }
-  }
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:20px;border-radius:0 6px 6px 0;}
+  .note-box .who{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:10px;}
+  .note-box p{margin:0;font-size:16px;color:#5c4a2a;line-height:1.75;}
+  .note-box p+p{margin-top:12px;}
 
-  [data-panel] { display: none; }
-  [data-panel].active { display: block; }
+  .mantra-box{background:#f7f2ea;border-left:3px solid var(--terra);padding:22px 26px;border-radius:0 6px 6px 0;margin-top:16px;}
+  .mantra-box .zh{font-size:25px;color:var(--ink);margin-bottom:12px;}
+  .mantra-box .translit{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-size:22px;color:var(--terra-deep);margin-bottom:10px;}
+  .mantra-box .en{font-size:16px;color:var(--muted);}
+  .ending-mark{text-align:center;color:var(--terra);letter-spacing:.8em;margin:28px 0 0;font-size:19px;}
 
-  section { margin-bottom: 56px; }
-  h2 {
-    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
-    font-size: 31px;
-    font-weight: 400;
-    margin-bottom: 18px;
-    color: #1a1d23;
-    border-bottom: 1px solid #dee2e6;
-    padding-bottom: 10px;
-  }
-  h3 {
-    font-family: Georgia, "Times New Roman", "PingFang TC", serif;
-    font-size: 22px;
-    font-weight: 600;
-    margin: 28px 0 10px;
-    color: #1a1d23;
-  }
-  p { margin-bottom: 14px; color: #1a1d23; }
-  p:last-child { margin-bottom: 0; }
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
 
-  .lede {
-    font-size: 21px;
-    color: #1a1a1a;
-    border-left: 2px solid #b8431c;
-    padding-left: 18px;
-    margin: 0 0 24px;
-  }
-
-  ul, ol { margin: 0 0 16px 22px; }
-  li { margin-bottom: 8px; color: #1a1d23; }
-  li strong { color: #1a1a1a; }
-
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 18px 0 24px;
-    font-size: 18px;
-  }
-  th, td {
-    text-align: left;
-    padding: 10px 12px;
-    border-bottom: 1px solid #dee2e6;
-    vertical-align: top;
-  }
-  th {
-    background: #f3f5f7;
-    color: #1a1d23;
-    font-weight: 600;
-    font-size: 17px;
-    letter-spacing: 0.02em;
-  }
-  td.pali { font-family: Georgia, serif; font-style: italic; color: #4a4a4a; }
-  td .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
-
-  .terms {
-    background: #f5f6f8;
-    border: 1px solid #dee2e6;
-    padding: 20px 24px;
-    border-radius: 4px;
-    font-size: 18px;
-  }
-  .terms .term { margin-bottom: 14px; }
-  .terms .term:last-child { margin-bottom: 0; }
-  .terms .pali-word {
-    font-family: Georgia, serif;
-    font-style: italic;
-    font-weight: 600;
-    color: #1a1a1a;
-  }
-  .terms .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; font-style: normal; }
-
-  /* Text section */
-  .text-intro {
-    background: #fafbfc;
-    border-left: 3px solid #b8431c;
-    padding: 14px 20px;
-    margin-bottom: 20px;
-    font-size: 17px;
-    color: #4a4a4a;
-    line-height: 1.65;
-  }
-  .text-block { color: #1a1a1a; }
-  .verse {
-    margin-bottom: 8px;
-    padding: 18px 0 20px;
-    border-bottom: 1px solid #eef0f2;
-  }
-  .verse:last-of-type { border-bottom: none; }
-  .verse .zh {
-    font-family: "PingFang TC", "Apple LiGothic Medium", "Microsoft JhengHei", serif;
-    font-size: 23px;
-    color: #1a1a1a;
-    line-height: 1.95;
-    letter-spacing: 0.03em;
-    margin-bottom: 10px;
-  }
-  .verse .en {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 20px;
-    color: #34383f;
-    line-height: 1.75;
-    margin: 0;
-  }
-  .movement {
-    font-family: Georgia, serif;
-    font-size: 14px;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-    color: #8c2f12;
-    font-weight: 600;
-    margin: 34px 0 6px;
-  }
-  .movement:first-child { margin-top: 6px; }
-  .mantra-verse {
-    background: #f7f2ea;
-    border-left: 3px solid #b8431c;
-    padding: 20px 24px;
-    border-radius: 0 4px 4px 0;
-    margin: 8px 0;
-  }
-  .mantra-verse .zh { font-size: 24px; margin-bottom: 12px; }
-  .mantra-verse .translit {
-    font-family: Georgia, serif;
-    font-style: italic;
-    font-size: 22px;
-    color: #8c2f12;
-    line-height: 1.6;
-    margin-bottom: 8px;
-  }
-  .mantra-verse .en { font-size: 18px; color: #4a4a4a; }
-  .ending-mark {
-    text-align: center;
-    color: #b8431c;
-    letter-spacing: 0.8em;
-    margin: 32px 0 0;
-    font-size: 21px;
-  }
+  .resources{font-size:16px;}
+  .resources a{color:var(--terra-deep);text-decoration:underline;text-underline-offset:3px;}
+  .resources li{margin-bottom:10px;}
 
   /* Quiz */
-  .quiz {
-    background: #f5f6f8;
-    border: 1px solid #dee2e6;
-    border-radius: 6px;
-    padding: 28px 26px;
-  }
-  .quiz .q {
-    padding: 18px 0 20px;
-    border-bottom: 1px solid #dee2e6;
-  }
-  .quiz .q:first-of-type { padding-top: 4px; }
-  .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
-  .quiz .q-num {
-    display: inline-block;
-    font-family: Georgia, serif;
-    font-size: 15px;
-    letter-spacing: 0.1em;
-    color: #b8431c;
-    text-transform: uppercase;
-    margin-bottom: 6px;
-  }
-  .quiz .q-text {
-    font-size: 19px;
-    color: #1a1a1a;
-    margin-bottom: 14px;
-    line-height: 1.55;
-  }
-  .quiz .q-text .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
-  .quiz .opt {
-    display: block;
-    width: 100%;
-    text-align: left;
-    background: #fff;
-    border: 1px solid #dee2e6;
-    border-radius: 4px;
-    padding: 11px 16px;
-    margin-bottom: 8px;
-    font-size: 18px;
-    color: #1a1d23;
-    cursor: pointer;
-    font-family: inherit;
-    line-height: 1.5;
-    transition: background 0.12s, border-color 0.12s;
-  }
-  .quiz .opt:hover:not(:disabled) {
-    background: #f3f5f7;
-    border-color: #b8431c;
-  }
-  .quiz .opt:disabled { cursor: default; }
-  .quiz .opt.correct {
-    background: #f0f7ee;
-    border-color: #6ba368;
-    color: #2d5a2a;
-  }
-  .quiz .opt.wrong {
-    background: #fbf1ef;
-    border-color: #c87b6f;
-    color: #7a3a31;
-  }
-  .quiz .opt.correct::after {
-    content: "  ✓";
-    color: #6ba368;
-    font-weight: 700;
-  }
-  .quiz .opt.wrong::after {
-    content: "  ✗";
-    color: #c87b6f;
-    font-weight: 700;
-  }
-  .quiz .expl {
-    display: none;
-    margin-top: 12px;
-    padding: 12px 16px;
-    background: #fafbfc;
-    border-left: 2px solid #b8431c;
-    font-size: 17px;
-    color: #4a4a4a;
-    line-height: 1.65;
-    border-radius: 0 4px 4px 0;
-  }
-  .quiz .expl.show { display: block; }
-  .quiz .expl strong { color: #1a1d23; }
-  .quiz .expl .zh { font-family: "PingFang TC", "Microsoft JhengHei", serif; }
-  .score-bar {
-    margin-top: 20px;
-    padding: 14px 18px;
-    background: #fff;
-    border: 1px solid #dee2e6;
-    border-radius: 4px;
-    font-size: 17px;
-    color: #4a4a4a;
-    text-align: center;
-  }
-  .score-bar strong { color: #1a1d23; font-size: 19px; }
-
-  /* Reading notes (Yin Shun) — translation-table + note-box, matching the
-     stages-of-yogic-practice fascicle pages */
-  .note-section { margin-bottom: 44px; }
-  .note-section:last-of-type { margin-bottom: 0; }
-  .note-section h3 { margin-top: 0; }
-  .translation-table {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 14px;
-    margin: 18px 0;
-  }
-  .translation-row {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 16px;
-    align-items: start;
-  }
-  @media (min-width: 820px) {
-    .translation-row { grid-template-columns: 1fr 1.08fr; }
-  }
-  .source, .translation {
-    border: 1px solid #eadfce;
-    border-radius: 8px;
-    padding: 20px 22px;
-    background: #fffdf8;
-  }
-  .translation { background: #f8fbf8; border-color: #cfe0d8; }
-  .translation-table .label {
-    font-size: 11px;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-    font-weight: 900;
-    color: #b8431c;
-    margin-bottom: 12px;
-  }
-  .translation .label { color: #2f6d5e; }
-  .source p {
-    font-family: "PingFang TC", "Microsoft JhengHei", serif;
-    color: #382a20;
-    font-size: 17px;
-    line-height: 1.9;
-    margin: 0;
-  }
-  .translation p {
-    font-size: 17px;
-    line-height: 1.75;
-    color: #1a1a1a;
-    margin: 0;
-  }
-  .note-box {
-    border-left: 4px solid #d9a441;
-    background: #fdf9f1;
-    padding: 22px 24px;
-    border-radius: 0 4px 4px 0;
-  }
-  .note-box .who {
-    font-size: 12px;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    font-weight: 800;
-    color: #8a6a2a;
-    margin-bottom: 8px;
-  }
-  .note-box p { font-size: 16px; color: #5c4a2a; margin: 0; }
-  .note-box p + p { margin-top: 12px; }
-  .note-box a { color: #8c2f12; }
-  .source-cite {
-    font-size: 14px;
-    color: #6b6b6b;
-    border-top: 1px solid #dee2e6;
-    padding-top: 20px;
-    margin-top: 8px;
-  }
-
-  /* Resources */
-  .resources { font-size: 18px; }
-  .resources a {
-    color: #1a1a1a;
-    text-decoration: underline;
-    text-underline-offset: 3px;
-    text-decoration-thickness: 1px;
-  }
-  .resources a:hover { color: #6b6b6b; }
-  .resources li { margin-bottom: 10px; }
-
-  footer {
-    margin-top: 80px;
-    padding-top: 28px;
-    border-top: 1px solid #dee2e6;
-    font-size: 17px;
-    color: #6b6b6b;
-    text-align: center;
-  }
-  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; }
-  footer a:hover { color: #1a1a1a; }
-  .nav-prev-next {
-    display: flex;
-    justify-content: space-between;
-    margin: 48px 0 0;
-    padding: 24px 0 0;
-    border-top: 1px solid #dee2e6;
-    font-size: 17px;
-    gap: 16px;
-  }
-  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
-  .nav-prev-next .label {
-    display: block;
-    color: #b8b8b8;
-    font-size: 14px;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    margin-bottom: 4px;
-  }
-  .nav-prev-next .next { text-align: right; }
-  .nav-prev-next .muted { color: #b0b0b0; cursor: default; }
-
-  /* === Three-column magazine === */
-  @media (min-width: 1100px) {
-    .container {
-      max-width: 1380px;
-      display: grid;
-      grid-template-columns: 220px 1fr 240px;
-      grid-template-areas:
-        "header  header  header"
-        "sidebar main    marginalia"
-        "footer  footer  footer";
-      column-gap: 48px;
-      padding-top: 32px;
-    }
-    .pv-header { grid-area: header; }
-    .pv-sidebar { grid-area: sidebar; }
-    .pv-main { grid-area: main; min-width: 0; }
-    .pv-marginalia { grid-area: marginalia; }
-    .pv-footer { grid-area: footer; }
-    .pv-main .tabs { display: none !important; }
-    .pv-sidebar,
-    .pv-marginalia {
-      position: sticky; top: 64px; align-self: start;
-    }
-  }
-  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
-  .side-tab {
-    display: flex; flex-direction: column; align-items: flex-start; text-align: left;
-    padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px;
-    background: #fff; cursor: pointer; font-family: inherit;
-    position: relative; overflow: hidden; transition: all 0.18s;
-  }
-  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
-  .side-tab.active {
-    background: #f5f6f8; border-color: #b8431c;
-  }
-  .side-tab.active::before {
-    content: ""; position: absolute; left: 0; top: 0; bottom: 0;
-    width: 4px; background: #b8431c;
-  }
-  .side-tab-num {
-    font-family: 'Playfair Display', Georgia, serif;
-    font-size: 11px; letter-spacing: 0.18em; color: #b8a070;
-    margin-bottom: 4px;
-  }
-  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
-  .side-tab-label {
-    font-family: 'Playfair Display', Georgia, serif;
-    font-size: 17px; font-weight: 600; color: #2a2725;
-  }
-  .marginalia-block {
-    padding: 18px 20px; background: #f5f6f8;
-    border-radius: 6px; border-left: 3px solid #b8431c;
-  }
-  .marginalia-block + .marginalia-block { margin-top: 24px; }
-  .marginalia-block .m-label {
-    font-family: 'Playfair Display', Georgia, serif;
-    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
-    color: #8c2f12; font-weight: 700; margin-bottom: 12px;
-  }
-  .marginalia-block ul {
-    list-style: none; padding: 0; margin: 0;
-    font-size: 14px; line-height: 1.55;
-  }
-  .marginalia-block li {
-    padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a;
-  }
-  .marginalia-block li:last-child { border-bottom: none; }
-  .marginalia-block li .pali {
-    font-family: 'Playfair Display', Georgia, serif;
-    font-style: italic; font-weight: 600; color: #2a2725;
-    display: block; margin-bottom: 2px; font-size: 15px;
-  }
-  .marginalia-block li .pali .zh { font-family: "PingFang TC","Microsoft JhengHei",serif; font-style: normal; }
-  @media (max-width: 1099px) {
-    .pv-sidebar,
-    .pv-marginalia { display: none; }
-  }
+  .quiz{background:#fdf9f1;border:1px solid var(--line);border-radius:8px;padding:26px 26px;}
+  .quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .quiz .q:first-of-type{padding-top:2px;}
+  .quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .quiz .q-num{display:inline-block;font-family:'Playfair Display',Georgia,serif;font-size:13px;letter-spacing:.1em;color:var(--terra);text-transform:uppercase;margin-bottom:6px;}
+  .quiz .q-text{font-size:18px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:6px;padding:11px 16px;margin-bottom:8px;font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .quiz .opt:hover:not(:disabled){background:#f6efe2;border-color:var(--terra);}
+  .quiz .opt:disabled{cursor:default;}
+  .quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--muted);line-height:1.65;border-radius:0 4px 4px 0;}
+  .quiz .expl.show{display:block;}
+  .quiz .expl strong{color:var(--ink);}
+  .score-bar{margin-top:20px;padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:6px;font-size:15px;color:var(--muted);text-align:center;}
+  .score-bar strong{color:var(--ink);font-size:17px;}
 </style>
-<style id="ruyi-topbar">
-.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
-.site-header *{box-sizing:border-box;}
-.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
-.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
-.site-header .brand:hover{text-decoration:none;}
-.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
-.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
-.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
-.site-header .site-nav{display:flex;gap:32px;}
-.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
-.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
-.site-header .site-nav a.active{color:#1a1a1a;}
-.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
-@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
-</style>
-  <link rel="stylesheet" href="/assets/css/search.css">
-</head>
-<body>
-<header class="site-header">
-  <div class="header-inner">
-    <a href="/" class="brand">
-      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
-      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
-    </a>
-    <nav class="site-nav" aria-label="Primary">
-      <a href="/">Home</a>
-      <a href="/about/">About</a>
-      <a href="/columns/">Columns</a>
-      <a href="/dharma/" class="active">Dharma</a>
-      <a href="/english-school/">English School</a>
-      <a href="/community/">Community</a>
-    </nav>
-    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
-  </div>
-</header>
 
-<div class="container">
-
-  <div class="pv-header">
-
-  <nav class="crumb">
-    <a href="/">Ru-Yi Meditation Center</a><span>›</span><a href="/dharma/">Dharma</a><span>›</span><a href="./">Mahāyāna Sūtras</a><span>›</span>The Heart Sūtra
-  </nav>
-
-  <div class="sutta-number">Mahāyāna · The Perfection of Wisdom</div>
-  <h1>The Heart Sūtra</h1>
-  <p class="subtitle"><em>Prajñāpāramitā-hṛdaya</em><span class="zh">《般若波羅蜜多心經》</span></p>
-
-  <div class="glance">
-    <dl>
-      <dt>Sanskrit</dt><dd><em>Prajñāpāramitā-hṛdaya Sūtra</em> — "The Heart of the Perfection of Wisdom"</dd>
-      <dt>Chinese</dt><dd><span class="zh">《般若波羅蜜多心經》</span>, translated by Xuanzang (<span class="zh">玄奘</span>), 649&nbsp;CE — the version chanted daily across China, Japan, Korea, and Vietnam</dd>
-      <dt>Tradition</dt><dd>Mahāyāna — the <em>Prajñāpāramitā</em> (Perfection of Wisdom) literature</dd>
-      <dt>Speaker</dt><dd>Avalokiteśvara (<span class="zh">觀自在菩薩</span>), the bodhisattva of compassion, addressing the elder Śāriputra</dd>
-      <dt>Length</dt><dd>~260 Chinese characters — the shortest and most-recited scripture in all of Mahāyāna Buddhism</dd>
-      <dt>Difficulty</dt><dd>★★★★★ — a few minutes to read; a lifetime to fathom. Every clause is a negation, and the negations are the teaching.</dd>
-    </dl>
-  </div>
-
-  <section>
-    <h2>Why the Heart Sūtra, first</h2>
-    <p class="lede">
-      Of the thousands of texts in the Mahāyāna canon, this is the one a monk in Kyoto, a nun in Taipei, and a layperson in San Francisco are most likely to know by heart. In 260 characters it compresses the entire Perfection of Wisdom — a body of scripture that runs, in its longest form, to a hundred thousand verses — into something you can chant in two minutes.
-    </p>
-    <p>
-      That compression is the point. The <em>Prajñāpāramitā</em> literature is vast, repetitive, and deliberately exhausting: it says the same radical thing about emptiness in ten thousand ways until the mind gives up trying to hold onto anything. The Heart Sūtra is the distillate. It keeps the one insight and throws away the scaffolding. This is why it is called a <em>heart</em> — <em>hṛdaya</em>, the pith, the essence, the core that everything else was protecting.
-    </p>
-    <p>
-      It is also the most misunderstood text in the tradition, because its surface is a wall of negations — no form, no eye, no suffering, no path, no wisdom, no attainment — that sounds, to a first-time Western reader, either nihilistic or like word-games. It is neither. The reading guide below is written to get you past the wall, so that when you read the text itself, the negations land as what they are: not a denial of the world, but a description of what the world is like when nothing in it is grasped.
-    </p>
-  </section>
-
-  </div><!-- /pv-header -->
-
-  <aside class="pv-sidebar">
-    <div class="side-tabs">
-      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
-        <span class="side-tab-num">01</span>
-        <span class="side-tab-label">Reading Guide</span>
-      </button>
-      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
-        <span class="side-tab-num">02</span>
-        <span class="side-tab-label">The Text</span>
-      </button>
-      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
-        <span class="side-tab-num">03</span>
-        <span class="side-tab-label">Self-Check</span>
-      </button>
-      <button class="side-tab tab" type="button" data-tab="notes" role="tab" aria-selected="false">
-        <span class="side-tab-num">04</span>
-        <span class="side-tab-label">印順導師 Notes</span>
-      </button>
-    </div>
-  </aside>
-
-  <main class="pv-main">
-  <div class="tabs" role="tablist">
-    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
-      <span class="tab-num">01</span>
-      <span class="tab-label">Reading Guide</span>
-      <span class="tab-sub">Structured commentary &amp; key terms</span>
-    </button>
-    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
-      <span class="tab-num">02</span>
-      <span class="tab-label">The Text</span>
-      <span class="tab-sub">Chinese &amp; English, side by side</span>
-    </button>
-    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
-      <span class="tab-num">03</span>
-      <span class="tab-label">Self-Check</span>
-      <span class="tab-sub">10-question quiz, instant feedback</span>
-    </button>
-    <button class="tab" type="button" data-tab="notes" role="tab" aria-selected="false">
-      <span class="tab-num">04</span>
-      <span class="tab-label">印順導師 Notes</span>
-      <span class="tab-sub">Reading notes informed by 般若經講記</span>
-    </button>
-  </div>
-
-  <section data-panel="guide" class="active">
-    <h2>Reading guide</h2>
-
-    <h3>The teaching in one sentence</h3>
-    <p>
-      When wisdom looks deeply enough, it finds that nothing whatsoever — not the body, not the mind, not even the Buddhist path itself — has a fixed, separate, self-standing existence; and seeing this, the heart is set free from fear.
-    </p>
-
-    <h3>What "Heart" means</h3>
-    <p>
-      The title is often heard as "the sūtra about the heart," as though the text were about love or feeling. It is not. <em>Hṛdaya</em> here means <strong>essence</strong> or <strong>core</strong> — the way we say "the heart of the matter." The Heart Sūtra is the extracted centre of the enormous <em>Prajñāpāramitā</em> collection. Think of it as the single paragraph you would keep if you had to burn every other page and preserve the teaching. It is short not because it is introductory, but because it is <em>concentrated</em>.
-    </p>
-
-    <h3>Where it comes from: the Perfection of Wisdom</h3>
-    <p>
-      Beginning around the first century BCE, a new stream of Mahāyāna scriptures appeared, organized around a single theme: <em>prajñāpāramitā</em>, the "perfection of wisdom." These texts came in many sizes — the Perfection of Wisdom in 8,000 lines, in 25,000, in 100,000. All of them circle one claim: that liberation depends on seeing the <strong>emptiness</strong> (<em>śūnyatā</em>) of all phenomena, and that a bodhisattva — one bound for full buddhahood — practises by working without grasping at anything as real. The Heart Sūtra takes this whole world of scripture and gives you its conclusion, up front, without the argument.
-    </p>
-
-    <h3>The cast: Avalokiteśvara and Śāriputra</h3>
-    <p>
-      Two figures carry the text, and the choice of both is deliberate.
-    </p>
-    <ul>
-      <li><strong>Avalokiteśvara</strong> (<span class="zh" style="font-family:'PingFang TC',serif">觀自在</span> / <span class="zh" style="font-family:'PingFang TC',serif">觀世音</span>, Guanyin) is the bodhisattva of <em>compassion</em>. That the deepest statement of wisdom is spoken by the embodiment of compassion is the whole Mahāyāna in miniature: wisdom and compassion are not two projects. The name itself, <span class="zh" style="font-family:'PingFang TC',serif">觀自在</span>, means "the one who observes with sovereign freedom" — the seeing that this sūtra describes.</li>
-      <li><strong>Śāriputra</strong> is, in the older tradition, the disciple <em>foremost in wisdom</em> — the sharpest analytical mind among the Buddha's students. The Heart Sūtra has the bodhisattva of compassion teach the master of analysis. The point is pointed: even the finest scholastic understanding of the Buddha's lists must, in the end, be emptied.</li>
-    </ul>
-
-    <h3>The hinge: "Form is emptiness, emptiness is form"</h3>
-    <p>
-      The most famous sentence in Mahāyāna Buddhism is <span class="zh" style="font-family:'PingFang TC',serif">色即是空，空即是色</span> — <em>form is emptiness, emptiness is form</em>. It is easy to quote and easy to get exactly backwards. Here is what it does <em>not</em> say: it does not say the world is an illusion, or that nothing exists, or that matter is secretly made of a mystical substance called emptiness.
-    </p>
-    <p>
-      "Form" (<em>rūpa</em>) means physical stuff — everything material. "Emptiness" (<em>śūnyatā</em>) means <strong>the absence of independent, intrinsic existence</strong>. A wave is real; it is also not a separate thing standing apart from the ocean, the wind, and the shore — it has no wave-essence you could isolate. To say "form is emptiness" is to say: everything that appears is real <em>as appearance</em>, and at the same time has no self-contained core. And crucially the sūtra runs the equation <em>both ways</em>. Emptiness is not a void behind things; it is not more real than form. Emptiness <em>is</em> form. The two are one situation seen truly. The text then extends the equation to the other four aggregates — feeling, perception, formations, consciousness — so that mind is included with matter. Nothing is exempt.
-    </p>
-    <table>
-      <thead><tr><th>Translator</th><th>Renders <span class="zh" style="font-family:'PingFang TC',serif">色即是空</span> as</th></tr></thead>
-      <tbody>
-        <tr><td>Conze (1958)</td><td>"Form is emptiness and the very emptiness is form"</td></tr>
-        <tr><td>Red Pine (2004)</td><td>"Form is emptiness, emptiness is form"</td></tr>
-        <tr><td>Thich Nhat Hanh (2017)</td><td>"This body itself is emptiness, and emptiness itself is this body"</td></tr>
-        <tr><td>Ru-Yi (this page)</td><td>"Form itself is emptiness, emptiness itself is form"</td></tr>
-      </tbody>
-    </table>
-
-    <h3>What emptiness is — and is not</h3>
-    <p>
-      This is where Western readers most often go wrong, so it is worth stating plainly. <strong>Emptiness is not nothingness.</strong> The Sanskrit <em>śūnyatā</em> is built on <em>śūnya</em>, "zero" or "hollow" — but the tradition spent centuries insisting it does not mean non-existence. To read "emptiness" as "nothing exists" is a specific error the Buddha's followers named and warned against: nihilism (<em>ucchedavāda</em>), which is as false as its opposite, the belief in permanent fixed essences (<em>eternalism</em>).
-    </p>
-    <p>
-      Emptiness is the <em>middle</em> between these. It says: things function, arise, and matter — <em>and</em> they do so precisely because they are not frozen, not self-made, not independent. A seed can become a tree only because it has no fixed unchanging seed-nature. Emptiness is the openness that makes change, relationship, and freedom possible. It is the reason liberation is available at all. Nāgārjuna, the great philosopher of this school, put it exactly: <em>"For whom emptiness is possible, everything is possible."</em>
-    </p>
-
-    <h3>The great negation: "no… no… no…"</h3>
-    <p>
-      The central movement of the sūtra is a systematic dismantling. In emptiness, it says, there is <em>no</em> form, feeling, perception, formations, consciousness; <em>no</em> eye, ear, nose, tongue, body, mind; <em>no</em> sight, sound, smell, taste, touch, object; and so on. What is being negated here is not the existence of your eyes. What is being negated is that any of these categories names a truly separate, self-existing thing.
-    </p>
-    <p>
-      Notice <em>which</em> lists are being crossed out. They are the core teaching-lists of early Buddhism itself:
-    </p>
-    <table>
-      <thead><tr><th>The list</th><th>What it is</th><th>The sūtra's move</th></tr></thead>
-      <tbody>
-        <tr><td>The five aggregates <span class="zh" style="font-family:'PingFang TC',serif">(五蘊)</span></td><td>Body, feeling, perception, formations, consciousness</td><td>empty</td></tr>
-        <tr><td>The twelve sense fields <span class="zh" style="font-family:'PingFang TC',serif">(十二處)</span></td><td>Six senses + their six objects</td><td>empty</td></tr>
-        <tr><td>The eighteen elements <span class="zh" style="font-family:'PingFang TC',serif">(十八界)</span></td><td>Senses, objects, and the consciousnesses between</td><td>empty</td></tr>
-        <tr><td>Dependent origination <span class="zh" style="font-family:'PingFang TC',serif">(十二因緣)</span></td><td>The twelve links from ignorance to death</td><td>empty — and so is its ending</td></tr>
-        <tr><td>The Four Noble Truths <span class="zh" style="font-family:'PingFang TC',serif">(四諦)</span></td><td>Suffering, origin, cessation, path</td><td>empty</td></tr>
-        <tr><td>Wisdom and attainment</td><td>The goal of the whole enterprise</td><td>empty — "no wisdom and no attainment"</td></tr>
-      </tbody>
-    </table>
-    <p>
-      This is startling, and meant to be. The Heart Sūtra takes the Buddha's own most sacred lists — the Four Noble Truths above all — and declares them empty. It is not rejecting them. It is completing them. Those teachings were medicines; a medicine you cling to becomes a new disease. Even the path must not be turned into one more thing to grasp. The final and most audacious negation, <span class="zh" style="font-family:'PingFang TC',serif">無智亦無得</span>, "no wisdom and no attainment," pulls the ground out from under spiritual ambition itself. There is no prize to seize, no self to seize it, no seizing.
-    </p>
-
-    <h3>Why this sets you free: "no obstruction, no fear"</h3>
-    <p>
-      Everything in the sūtra bends toward one line: <span class="zh" style="font-family:'PingFang TC',serif">心無罣礙，無罣礙故，無有恐怖</span> — <em>the mind is without obstruction; and because it is unobstructed, there is no fear.</em> This is the sūtra's emotional core and the reason it is chanted at funerals, before surgery, in prison cells, and at the edge of death.
-    </p>
-    <p>
-      The logic is precise. Fear needs two things: a self that can be threatened, and a threat treated as solid and real. When wisdom sees that neither the self nor the threat has the fixed independent existence we assign to it, the machinery of fear loses its grip. The mind stops snagging on things (<span class="zh" style="font-family:'PingFang TC',serif">罣礙</span> literally means "hanging up, getting caught"). Free of catching, it is free of dread; it leaves behind "upside-down views and dreamlike thinking" and comes to rest. This is not numbness. It is the fearlessness of someone who has stopped clutching.
-    </p>
-
-    <h3>The mantra: gate gate pāragate pārasaṃgate bodhi svāhā</h3>
-    <p>
-      The sūtra ends by becoming a sound. After all the negations, it offers a mantra and calls the perfection of wisdom itself "the great radiant mantra, the unsurpassed mantra." The words are left untranslated in the chant, but they do mean something:
-    </p>
-    <blockquote style="margin: 12px 0; font-style: italic; color: #2a2725; border-left: 3px solid #b8431c; padding-left: 18px;">
-      <em>gate gate</em> — gone, gone · <em>pāragate</em> — gone beyond · <em>pārasaṃgate</em> — gone completely beyond · <em>bodhi svāhā</em> — awakening, so be it!
-    </blockquote>
-    <p>
-      It is a going-across: from this shore of grasping and fear to the far shore of freedom. Ending in a mantra is not a decorative flourish. The text has spent 250 characters showing that concepts cannot finally grasp reality; it closes by handing you something that is not a concept at all — a sound to be practised, not a proposition to be believed.
-    </p>
-
-    <h3>How to actually use this text</h3>
-    <p>
-      The Heart Sūtra is not primarily something to <em>understand once</em>; it is something to <em>return to</em>. Three ways in, from lightest to deepest:
-    </p>
-    <ol>
-      <li><strong>Read it slowly, with the guide.</strong> On a first pass, let the "Reading Guide" carry you through the negations so they stop sounding like denial and start sounding like release.</li>
-      <li><strong>Chant it.</strong> Across East Asia this text is <em>recited</em>, daily, out loud, often before meditation. The chanting is the practice — the meaning soaks in below the level of analysis, the way a song does. Try the Chinese, or the English; the point is the repetition.</li>
-      <li><strong>Contemplate one line.</strong> Take a single sentence — "form is emptiness," or "no obstruction, no fear" — and hold it in sitting meditation, not solving it, just letting it work on you. The sūtra is built for this. It rewards a lifetime of returns.</li>
-    </ol>
-
-    <h3>Three questions Western students often ask</h3>
-    <p><strong>"If everything is empty, why get out of bed? Doesn't this make life meaningless?"</strong> It does the opposite. Emptiness does not say things don't matter; it says things aren't <em>fixed</em>. The person you love, the work you do, the pain you feel — all real, all vivid, none of it frozen or separate from everything else. Meaning does not require permanence; in fact grasping for permanence is what makes us suffer. Seeing emptiness is what lets you love and act <em>without</em> the desperation of trying to make things last forever.</p>
-
-    <p><strong>"Isn't 'no suffering, no path, no attainment' just a denial of Buddhism itself?"</strong> No — it is Buddhism refusing to let you turn Buddhism into an idol. The Four Noble Truths and the path are indispensable; the sūtra assumes you have taken them seriously. What it forbids is clinging to them as solid final things, which quietly recreates the very self-grasping they were meant to dissolve. A raft carries you across the river; you don't strap it to your back and carry it up the mountain.</p>
-
-    <p><strong>"Do I have to believe in bodhisattvas and mantras to get something from this?"</strong> No. You can read Avalokiteśvara as a personification of awakened compassion and the mantra as a focusing practice rather than a magic spell, and the core teaching stands untouched: what you take to be solid, separate, and permanent — including yourself — is none of those things, and seeing that clearly loosens fear. The devotional frame is a door; the emptiness is the room. Enter by whichever door you can.</p>
-  </section>
-
-  <section data-panel="guide" class="active">
-    <h2>Key terms</h2>
-    <div class="terms">
-      <div class="term">
-        <span class="pali-word">prajñāpāramitā</span> <span class="zh">般若波羅蜜多</span> — the "perfection of wisdom." <em>Prajñā</em> is the deep, liberating insight into how things actually are; <em>pāramitā</em> is a perfection carried to its far shore. The name of both the wisdom and the whole body of scripture the sūtra distills.
-      </div>
-      <div class="term">
-        <span class="pali-word">hṛdaya</span> <span class="zh">心</span> — heart, core, essence. Not "heart" in the emotional sense but "the heart of the matter." The title says: this is the extracted centre of the Perfection of Wisdom.
-      </div>
-      <div class="term">
-        <span class="pali-word">śūnyatā</span> <span class="zh">空</span> — emptiness. The absence of independent, intrinsic, self-standing existence. <strong>Not</strong> nothingness; the openness that makes change and freedom possible.
-      </div>
-      <div class="term">
-        <span class="pali-word">rūpa</span> <span class="zh">色</span> — form, material stuff. The first of the five aggregates, and the subject of the famous line "form is emptiness."
-      </div>
-      <div class="term">
-        <span class="pali-word">pañca-skandha</span> <span class="zh">五蘊</span> — the five aggregates: form, feeling, perception, formations, consciousness. The complete inventory of what a "person" is made of — all of it declared empty.
-      </div>
-      <div class="term">
-        <span class="pali-word">Avalokiteśvara</span> <span class="zh">觀自在 · 觀世音</span> — the bodhisattva of compassion (Guanyin), speaker of the sūtra. That wisdom's deepest word is spoken by compassion is the teaching's whole shape.
-      </div>
-      <div class="term">
-        <span class="pali-word">Śāriputra</span> <span class="zh">舍利子</span> — the disciple foremost in analytical wisdom, whom the sūtra addresses. Even the sharpest understanding of the lists must be emptied.
-      </div>
-      <div class="term">
-        <span class="pali-word">bodhisattva</span> <span class="zh">菩薩</span> — one bound for full buddhahood who practises for the sake of all beings, working "with nothing to attain."
-      </div>
-      <div class="term">
-        <span class="pali-word">gate gate pāragate pārasaṃgate bodhi svāhā</span> <span class="zh">揭諦揭諦，波羅揭諦，波羅僧揭諦，菩提薩婆訶</span> — "Gone, gone, gone beyond, gone completely beyond — awakening, so be it!" The closing mantra: a crossing to the far shore.
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Sūtras</a> › The Heart Sūtra</nav>
+      <div class="fascicle-kicker">Mahāyāna · The Perfection of Wisdom</div>
+      <h1>The Heart Sūtra</h1>
+      <p class="subtitle"><em>Prajñāpāramitā-hṛdaya</em><span class="zh">《般若波羅蜜多心經》</span></p>
+      <p class="lede">A reading guide, a clause-by-clause Chinese–English translation, and reading notes drawn from Grand Master Yuanying's 1953 <em>般若心經講義</em> — for the shortest and most-recited scripture in Mahāyāna Buddhism.</p>
+      <div class="fascicle-meta">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T251 · Xuanzang's translation, 649 CE</span>
+        <span class="fascicle-pill">Commentary guide: Grand Master Yuanying's 般若心經講義 (1953)</span>
+        <span class="fascicle-pill">Status: complete</span>
       </div>
     </div>
   </section>
 
-  <section data-panel="text">
-    <h2>The text</h2>
-    <div class="text-intro">
-      The Chinese is Xuanzang's translation of 649&nbsp;CE (<span class="zh" style="font-family:'PingFang TC',serif">玄奘</span>, Taishō T251), the version chanted across East Asia and in the public domain. The English translation was made for Ru-Yi Meditation Center, kept plain and close to the Chinese. The mantra is left in transliterated Sanskrit, as it is chanted, with a literal gloss beneath.
-    </div>
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
 
-    <div class="text-block">
-
-      <div class="movement">I · The insight</div>
-      <div class="verse">
-        <div class="zh">觀自在菩薩，行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。</div>
-        <p class="en">When Avalokiteśvara Bodhisattva was practising the deep Perfection of Wisdom, he clearly saw that all five aggregates are empty, and so crossed beyond all suffering and distress.</p>
-      </div>
-
-      <div class="movement">II · Form and emptiness</div>
-      <div class="verse">
-        <div class="zh">舍利子，色不異空，空不異色，色即是空，空即是色，受想行識，亦復如是。</div>
-        <p class="en">Śāriputra, form is not different from emptiness, emptiness is not different from form; form itself is emptiness, emptiness itself is form. Feeling, perception, formations, and consciousness are just the same.</p>
+      <div class="glance">
+        <dl>
+          <dt>Sanskrit</dt><dd><em>Prajñāpāramitā-hṛdaya Sūtra</em> — "The Heart of the Perfection of Wisdom"</dd>
+          <dt>Chinese</dt><dd><span class="zh">《般若波羅蜜多心經》</span>, translated by Xuanzang (<span class="zh">玄奘</span>), 649&nbsp;CE — the version chanted daily across China, Japan, Korea, and Vietnam</dd>
+          <dt>Tradition</dt><dd>Mahāyāna — the <em>Prajñāpāramitā</em> (Perfection of Wisdom) literature</dd>
+          <dt>Speaker</dt><dd>Avalokiteśvara (<span class="zh">觀自在菩薩</span>), addressing the elder Śāriputra</dd>
+          <dt>Length</dt><dd>~260 Chinese characters — the shortest and most-recited scripture in all of Mahāyāna Buddhism</dd>
+          <dt>Difficulty</dt><dd>★★★★★ — a few minutes to read; a lifetime to fathom. Every clause is a negation, and the negations are the teaching.</dd>
+        </dl>
       </div>
 
-      <div class="movement">III · The mark of emptiness</div>
-      <div class="verse">
-        <div class="zh">舍利子，是諸法空相，不生不滅，不垢不淨，不增不減。</div>
-        <p class="en">Śāriputra, all things bear the mark of emptiness: they neither arise nor cease, are neither defiled nor pure, neither increase nor decrease.</p>
-      </div>
+      <section class="fascicle-section">
+        <h2>Why the Heart Sūtra, First</h2>
+        <p class="lede">
+          Of the thousands of texts in the Mahāyāna canon, this is the one a monk in Kyoto, a nun in Taipei, and a layperson in San Francisco are most likely to know by heart. In 260 characters it compresses the entire Perfection of Wisdom — a body of scripture that runs, in its longest form, to a hundred thousand verses — into something you can chant in two minutes.
+        </p>
+        <p>
+          That compression is the point. The <em>Prajñāpāramitā</em> literature is vast, repetitive, and deliberately exhausting: it says the same radical thing about emptiness in ten thousand ways until the mind gives up trying to hold onto anything. The Heart Sūtra is the distillate. It keeps the one insight and throws away the scaffolding. This is why it is called a <em>heart</em> — <em>hṛdaya</em>, the pith, the essence, the core that everything else was protecting.
+        </p>
+        <p>
+          It is also the most misunderstood text in the tradition, because its surface is a wall of negations — no form, no eye, no suffering, no path, no wisdom, no attainment — that sounds, to a first-time Western reader, either nihilistic or like word-games. It is neither. This guide is written to get you past the wall, so that when you read the text itself, below, the negations land as what they are: not a denial of the world, but a description of what the world is like when nothing in it is grasped.
+        </p>
 
-      <div class="movement">IV · The great negation</div>
-      <div class="verse">
-        <div class="zh">是故空中無色，無受想行識，無眼耳鼻舌身意，無色聲香味觸法，無眼界，乃至無意識界。</div>
-        <p class="en">And so, within emptiness there is no form, no feeling, perception, formations, or consciousness; no eye, ear, nose, tongue, body, or mind; no sight, sound, smell, taste, touch, or object of mind; no field of vision — and so on, up to no field of mind-consciousness.</p>
-      </div>
-      <div class="verse">
-        <div class="zh">無無明，亦無無明盡，乃至無老死，亦無老死盡。</div>
-        <p class="en">There is no ignorance and no end of ignorance; and so on, up to no old-age-and-death and no end of old-age-and-death.</p>
-      </div>
-      <div class="verse">
-        <div class="zh">無苦集滅道，無智亦無得，以無所得故。</div>
-        <p class="en">There is no suffering, no origin, no cessation, no path; no wisdom, and no attainment — because there is nothing to attain.</p>
-      </div>
+        <h3>The teaching in one sentence</h3>
+        <p>
+          When wisdom looks deeply enough, it finds that nothing whatsoever — not the body, not the mind, not even the Buddhist path itself — has a fixed, separate, self-standing existence; and seeing this, the heart is set free from fear.
+        </p>
 
-      <div class="movement">V · The bodhisattva's freedom</div>
-      <div class="verse">
-        <div class="zh">菩提薩埵，依般若波羅蜜多故，心無罣礙。無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。</div>
-        <p class="en">The bodhisattva, relying on the Perfection of Wisdom, has a mind without obstruction. Because it is unobstructed, there is no fear; far removed from all upside-down views and dreamlike thinking, he comes to final nirvāṇa.</p>
-      </div>
-      <div class="verse">
-        <div class="zh">三世諸佛，依般若波羅蜜多故，得阿耨多羅三藐三菩提。</div>
-        <p class="en">All the buddhas of the three times, relying on the Perfection of Wisdom, attain unsurpassed, perfect, complete awakening.</p>
-      </div>
+        <h3>What "Heart" means</h3>
+        <p>
+          The title is often heard as "the sūtra about the heart," as though the text were about love or feeling. It is not. <em>Hṛdaya</em> here means <strong>essence</strong> or <strong>core</strong> — the way we say "the heart of the matter." The Heart Sūtra is the extracted centre of the enormous <em>Prajñāpāramitā</em> collection. Think of it as the single paragraph you would keep if you had to burn every other page and preserve the teaching. It is short not because it is introductory, but because it is <em>concentrated</em>.
+        </p>
 
-      <div class="movement">VI · The mantra proclaimed</div>
-      <div class="verse">
-        <div class="zh">故知般若波羅蜜多，是大神咒，是大明咒，是無上咒，是無等等咒，能除一切苦，真實不虛。</div>
-        <p class="en">Therefore know that the Perfection of Wisdom is the great sacred mantra, the great radiant mantra, the unsurpassed mantra, the mantra beyond all compare — able to remove all suffering, true and not false.</p>
-      </div>
-      <div class="verse">
-        <div class="zh">故說般若波羅蜜多咒，即說咒曰：</div>
-        <p class="en">So he proclaimed the mantra of the Perfection of Wisdom, saying:</p>
-      </div>
+        <h3>Where it comes from: the Perfection of Wisdom</h3>
+        <p>
+          Beginning around the first century BCE, a new stream of Mahāyāna scriptures appeared, organized around a single theme: <em>prajñāpāramitā</em>, the "perfection of wisdom." These texts came in many sizes — the Perfection of Wisdom in 8,000 lines, in 25,000, in 100,000. All of them circle one claim: that liberation depends on seeing the <strong>emptiness</strong> (<em>śūnyatā</em>) of all phenomena, and that a bodhisattva — one bound for full buddhahood — practises by working without grasping at anything as real. The Heart Sūtra takes this whole world of scripture and gives you its conclusion, up front, without the argument.
+        </p>
 
-      <div class="movement">VII · The mantra</div>
-      <div class="mantra-verse">
-        <div class="zh">揭諦揭諦，波羅揭諦，波羅僧揭諦，菩提薩婆訶。</div>
-        <div class="translit">gate gate pāragate pārasaṃgate bodhi svāhā</div>
-        <p class="en">Gone, gone, gone beyond, gone completely beyond — awakening, so be it!</p>
-      </div>
+        <h3>The cast: Avalokiteśvara and Śāriputra</h3>
+        <p>Two figures carry the text, and the choice of both is deliberate.</p>
+        <ul>
+          <li><strong>Avalokiteśvara</strong> (<span class="zh">觀自在</span> / <span class="zh">觀世音</span>, Guanyin) is the bodhisattva of <em>compassion</em>. That the deepest statement of wisdom is spoken by the embodiment of compassion is the whole Mahāyāna in miniature: wisdom and compassion are not two projects. The name itself, <span class="zh">觀自在</span>, means "the one who observes with sovereign freedom" — the seeing that this sūtra describes.</li>
+          <li><strong>Śāriputra</strong> is, in the older tradition, the disciple <em>foremost in wisdom</em> — the sharpest analytical mind among the Buddha's students. The Heart Sūtra has the bodhisattva of compassion teach the master of analysis. The point is pointed: even the finest scholastic understanding of the Buddha's lists must, in the end, be emptied.</li>
+        </ul>
 
-      <div class="ending-mark">· · ·</div>
+        <h3>The hinge: "Form is emptiness, emptiness is form"</h3>
+        <p>
+          The most famous sentence in Mahāyāna Buddhism is <span class="zh">色即是空，空即是色</span> — <em>form is emptiness, emptiness is form</em>. It is easy to quote and easy to get exactly backwards. Here is what it does <em>not</em> say: it does not say the world is an illusion, or that nothing exists, or that matter is secretly made of a mystical substance called emptiness.
+        </p>
+        <p>
+          "Form" (<em>rūpa</em>) means physical stuff — everything material. "Emptiness" (<em>śūnyatā</em>) means <strong>the absence of independent, intrinsic existence</strong>. A wave is real; it is also not a separate thing standing apart from the ocean, the wind, and the shore — it has no wave-essence you could isolate. To say "form is emptiness" is to say: everything that appears is real <em>as appearance</em>, and at the same time has no self-contained core. And crucially the sūtra runs the equation <em>both ways</em>. Emptiness is not a void behind things; it is not more real than form. Emptiness <em>is</em> form. The two are one situation seen truly. The text then extends the equation to the other four aggregates — feeling, perception, formations, consciousness — so that mind is included with matter. Nothing is exempt.
+        </p>
+        <table>
+          <thead><tr><th>Translator</th><th>Renders <span class="zh">色即是空</span> as</th></tr></thead>
+          <tbody>
+            <tr><td>Conze (1958)</td><td>"Form is emptiness and the very emptiness is form"</td></tr>
+            <tr><td>Red Pine (2004)</td><td>"Form is emptiness, emptiness is form"</td></tr>
+            <tr><td>Thich Nhat Hanh (2017)</td><td>"This body itself is emptiness, and emptiness itself is this body"</td></tr>
+            <tr><td>Ru-Yi (this page)</td><td>"Form itself is emptiness, emptiness itself is form"</td></tr>
+          </tbody>
+        </table>
+
+        <h3>What emptiness is — and is not</h3>
+        <p>
+          This is where Western readers most often go wrong, so it is worth stating plainly. <strong>Emptiness is not nothingness.</strong> The Sanskrit <em>śūnyatā</em> is built on <em>śūnya</em>, "zero" or "hollow" — but the tradition spent centuries insisting it does not mean non-existence. To read "emptiness" as "nothing exists" is a specific error the Buddha's followers named and warned against: nihilism (<em>ucchedavāda</em>), which is as false as its opposite, the belief in permanent fixed essences (<em>eternalism</em>).
+        </p>
+        <p>
+          Emptiness is the <em>middle</em> between these. It says: things function, arise, and matter — <em>and</em> they do so precisely because they are not frozen, not self-made, not independent. A seed can become a tree only because it has no fixed unchanging seed-nature. Emptiness is the openness that makes change, relationship, and freedom possible. It is the reason liberation is available at all. Nāgārjuna, the great philosopher of this school, put it exactly: <em>"For whom emptiness is possible, everything is possible."</em>
+        </p>
+
+        <h3>The great negation: "no… no… no…"</h3>
+        <p>
+          The central movement of the sūtra is a systematic dismantling. In emptiness, it says, there is <em>no</em> form, feeling, perception, formations, consciousness; <em>no</em> eye, ear, nose, tongue, body, mind; <em>no</em> sight, sound, smell, taste, touch, object; and so on. What is being negated here is not the existence of your eyes. What is being negated is that any of these categories names a truly separate, self-existing thing. Notice <em>which</em> lists are being crossed out — they are the core teaching-lists of early Buddhism itself:
+        </p>
+        <table>
+          <thead><tr><th>The list</th><th>What it is</th><th>The sūtra's move</th></tr></thead>
+          <tbody>
+            <tr><td>The five aggregates <span class="zh">(五蘊)</span></td><td>Body, feeling, perception, formations, consciousness</td><td>empty</td></tr>
+            <tr><td>The twelve sense fields <span class="zh">(十二處)</span></td><td>Six senses + their six objects</td><td>empty</td></tr>
+            <tr><td>The eighteen elements <span class="zh">(十八界)</span></td><td>Senses, objects, and the consciousnesses between</td><td>empty</td></tr>
+            <tr><td>Dependent origination <span class="zh">(十二因緣)</span></td><td>The twelve links from ignorance to death</td><td>empty — and so is its ending</td></tr>
+            <tr><td>The Four Noble Truths <span class="zh">(四諦)</span></td><td>Suffering, origin, cessation, path</td><td>empty</td></tr>
+            <tr><td>Wisdom and attainment</td><td>The goal of the whole enterprise</td><td>empty — "no wisdom and no attainment"</td></tr>
+          </tbody>
+        </table>
+        <p>
+          This is startling, and meant to be. The Heart Sūtra takes the Buddha's own most sacred lists — the Four Noble Truths above all — and declares them empty. It is not rejecting them. It is completing them. Those teachings were medicines; a medicine you cling to becomes a new disease. Even the path must not be turned into one more thing to grasp. The final and most audacious negation, <span class="zh">無智亦無得</span>, "no wisdom and no attainment," pulls the ground out from under spiritual ambition itself. There is no prize to seize, no self to seize it, no seizing.
+        </p>
+
+        <h3>Why this sets you free: "no obstruction, no fear"</h3>
+        <p>
+          Everything in the sūtra bends toward one line: <span class="zh">心無罣礙，無罣礙故，無有恐怖</span> — <em>the mind is without obstruction; and because it is unobstructed, there is no fear.</em> This is the sūtra's emotional core and the reason it is chanted at funerals, before surgery, in prison cells, and at the edge of death.
+        </p>
+        <p>
+          The logic is precise. Fear needs two things: a self that can be threatened, and a threat treated as solid and real. When wisdom sees that neither the self nor the threat has the fixed independent existence we assign to it, the machinery of fear loses its grip. The mind stops snagging on things (<span class="zh">罣礙</span> literally means "hanging up, getting caught"). Free of catching, it is free of dread; it leaves behind "upside-down views and dreamlike thinking" and comes to rest. This is not numbness. It is the fearlessness of someone who has stopped clutching.
+        </p>
+
+        <h3>The mantra: gate gate pāragate pārasaṃgate bodhi svāhā</h3>
+        <p>
+          The sūtra ends by becoming a sound. After all the negations, it offers a mantra and calls the perfection of wisdom itself "the great radiant mantra, the unsurpassed mantra." The words are left untranslated in the chant, but they do mean something:
+        </p>
+        <blockquote style="margin:12px 0;font-style:italic;color:var(--ink);border-left:3px solid var(--terra);padding-left:18px;">
+          <em>gate gate</em> — gone, gone · <em>pāragate</em> — gone beyond · <em>pārasaṃgate</em> — gone completely beyond · <em>bodhi svāhā</em> — awakening, so be it!
+        </blockquote>
+        <p>
+          It is a going-across: from this shore of grasping and fear to the far shore of freedom. Ending in a mantra is not a decorative flourish. The text has spent 250 characters showing that concepts cannot finally grasp reality; it closes by handing you something that is not a concept at all — a sound to be practised, not a proposition to be believed.
+        </p>
+
+        <h3>How to actually use this text</h3>
+        <p>The Heart Sūtra is not primarily something to <em>understand once</em>; it is something to <em>return to</em>. Three ways in, from lightest to deepest:</p>
+        <ol>
+          <li><strong>Read it slowly, with the guide.</strong> On a first pass, let this guide carry you through the negations so they stop sounding like denial and start sounding like release.</li>
+          <li><strong>Chant it.</strong> Across East Asia this text is <em>recited</em>, daily, out loud, often before meditation. The chanting is the practice — the meaning soaks in below the level of analysis, the way a song does. Try the Chinese, or the English; the point is the repetition.</li>
+          <li><strong>Contemplate one line.</strong> Take a single sentence — "form is emptiness," or "no obstruction, no fear" — and hold it in sitting meditation, not solving it, just letting it work on you. The sūtra is built for this. It rewards a lifetime of returns.</li>
+        </ol>
+
+        <h3>Three questions Western students often ask</h3>
+        <p><strong>"If everything is empty, why get out of bed? Doesn't this make life meaningless?"</strong> It does the opposite. Emptiness does not say things don't matter; it says things aren't <em>fixed</em>. The person you love, the work you do, the pain you feel — all real, all vivid, none of it frozen or separate from everything else. Meaning does not require permanence; in fact grasping for permanence is what makes us suffer. Seeing emptiness is what lets you love and act <em>without</em> the desperation of trying to make things last forever.</p>
+        <p><strong>"Isn't 'no suffering, no path, no attainment' just a denial of Buddhism itself?"</strong> No — it is Buddhism refusing to let you turn Buddhism into an idol. The Four Noble Truths and the path are indispensable; the sūtra assumes you have taken them seriously. What it forbids is clinging to them as solid final things, which quietly recreates the very self-grasping they were meant to dissolve. A raft carries you across the river; you don't strap it to your back and carry it up the mountain.</p>
+        <p><strong>"Do I have to believe in bodhisattvas and mantras to get something from this?"</strong> No. You can read Avalokiteśvara as a personification of awakened compassion and the mantra as a focusing practice rather than a magic spell, and the core teaching stands untouched: what you take to be solid, separate, and permanent — including yourself — is none of those things, and seeing that clearly loosens fear. The devotional frame is a door; the emptiness is the room. Enter by whichever door you can.</p>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Key Terms</h2>
+        <div class="terms">
+          <div class="term"><span class="pali-word">prajñāpāramitā</span> <span class="zh">般若波羅蜜多</span> — the "perfection of wisdom." <em>Prajñā</em> is the deep, liberating insight into how things actually are; <em>pāramitā</em> is a perfection carried to its far shore. The name of both the wisdom and the whole body of scripture the sūtra distills.</div>
+          <div class="term"><span class="pali-word">hṛdaya</span> <span class="zh">心</span> — heart, core, essence. Not "heart" in the emotional sense but "the heart of the matter." The title says: this is the extracted centre of the Perfection of Wisdom.</div>
+          <div class="term"><span class="pali-word">śūnyatā</span> <span class="zh">空</span> — emptiness. The absence of independent, intrinsic, self-standing existence. <strong>Not</strong> nothingness; the openness that makes change and freedom possible.</div>
+          <div class="term"><span class="pali-word">rūpa</span> <span class="zh">色</span> — form, material stuff. The first of the five aggregates, and the subject of the famous line "form is emptiness."</div>
+          <div class="term"><span class="pali-word">pañca-skandha</span> <span class="zh">五蘊</span> — the five aggregates: form, feeling, perception, formations, consciousness. The complete inventory of what a "person" is made of — all of it declared empty.</div>
+          <div class="term"><span class="pali-word">Avalokiteśvara</span> <span class="zh">觀自在 · 觀世音</span> — "the one who observes with sovereign freedom" (Guanyin), speaker of the sūtra. That wisdom's deepest word is spoken by compassion is the teaching's whole shape.</div>
+          <div class="term"><span class="pali-word">Śāriputra</span> <span class="zh">舍利子</span> — the disciple foremost in analytical wisdom, whom the sūtra addresses. Even the sharpest understanding of the lists must be emptied.</div>
+          <div class="term"><span class="pali-word">bodhisattva</span> <span class="zh">菩薩</span> — one bound for full buddhahood who practises for the sake of all beings, working "with nothing to attain."</div>
+          <div class="term"><span class="pali-word">gate gate pāragate pārasaṃgate bodhi svāhā</span> <span class="zh">揭諦揭諦，波羅揭諦，波羅僧揭諦，菩提薩婆訶</span> — "Gone, gone, gone beyond, gone completely beyond — awakening, so be it!" The closing mantra: a crossing to the far shore.</div>
+        </div>
+      </section>
+
+      <div class="rn-divider"><h2>The Translation</h2></div>
+
+      <section class="fascicle-section">
+        <p class="lede">
+          The Chinese below is Xuanzang's translation of 649&nbsp;CE (<span class="zh">玄奘</span>, Taishō T251), the version chanted across East Asia and in the public domain. The English is Ru-Yi's own translation, kept plain and close to the Chinese, set out clause by clause. The reading note after each passage draws on Grand Master Yuanying's (<span class="zh">圓瑛大師</span>, 1878–1953) <em>般若心經講義</em> — a commentary delivered at Meifeng Monastery, Putian, and first printed in 1953. Grand Master Yuanying was president of the Chinese Buddhist Association for seven terms and one of the most widely heard teachers of his generation; he died in 1953, so this commentary is now in the public domain. It is quoted and paraphrased here as a reference, in Ru-Yi's own words — not reproduced in full.
+        </p>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>1. Who Is Observing</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>觀自在菩薩，</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Avalokiteśvara Bodhisattva —</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>Yuanying reads the first character, <span class="zh">觀</span> ("guān"), as pointed away from the ordinary sense of "watching with the eyes": this is the mind observing with the wisdom it already possesses, turned on the world of body and mind to break the two kinds of grasping — grasping at a self, and grasping at things as real. <span class="zh">自在</span>, "sovereign freedom," is what that observing produces: watching existence without clinging to it as existence, watching emptiness without clinging to it as emptiness — the mind turns things, rather than being turned by them.</p>
+          <p>He traces the epithet to the Śūraṅgama Sūtra's account of how this bodhisattva perfected the ear faculty by listening inward until hearing itself dissolved, gaining both a personal mastery (self-cultivation freedom) and a boundless capacity to answer any being's cry for help by taking whatever form is needed (freedom in saving others) — hence the second name, Avalokiteśvara, "the one who hears the world's sounds." As for <span class="zh">菩薩</span> — <em>bodhi-sattva</em>, "awakened being" — Yuanying takes it three ways at once: one who has realized the goal for their own sake, one who labours to awaken every being still lost, and, most fully, one doing both together. He is pointed that this is not otherworldly: a bodhisattva "does not shrink from the donkey's womb or the horse's belly" — willing to be reborn anywhere, in any form, if it serves living beings.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>2. What Is Practised</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>行深般若波羅蜜多時，</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>while practising the profound Perfection of Wisdom,</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p><span class="zh">般若</span> is one of five categories of Sanskrit term the old translators agreed never to render into Chinese — here specifically "kept untranslated out of reverence," because "wisdom" (<span class="zh">智慧</span>) alone undersells it. Worldly cleverness, Yuanying says — even the sharpest scientific or philosophical kind — can advance material life without ever touching the root of suffering; prajñā is the different order of knowing that does. <span class="zh">波羅蜜多</span> he glosses as "arrived at the far shore," and — departing from most other commentators — reads the final syllable, <span class="zh">多</span>, not as mere transliteration filler but as <em>samādhi</em>, concentration: wisdom and stillness held in balance, neither collapsing into the other, "settled and radiant at once."</p>
+          <p>His governing image for the whole sūtra appears here: the enlightened mind is like a bronze mirror, obscuring afflictions like the dust that dulls it, and the work of observing-wisdom is like polishing — the mirror's own brightness was never lost, only covered over, and steady polishing is all it takes for the light to show through on its own.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>3. What Is Seen</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>照見五蘊皆空，</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>[Avalokiteśvara] clearly saw that all five aggregates are empty,</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>The five aggregates — form, feeling, perception, formations, consciousness — are Yuanying's inventory of everything a "person" is: one physical category (form, defined by taking up space and eventually breaking down) and four mental ones (receiving an experience as pleasant or not, forming an image of it, acting on it, and finally knowing it as an object). He walks through how form itself is composite — earth, water, fire, and wind combining, the way clay, water, fire, and air-pressure together make a vase — and how at death these same four elements separate out again in order, breath first, then warmth, then fluid, then flesh, until nothing is left standing.</p>
+          <p>His central image for why this counts as empty rather than merely temporary: it is like a dream. Not because the world is unreal exactly the way a dream is, but because within a dream, the dream-world feels every bit as solid and continuous as this one does — until waking shows it never had the substance it seemed to. "A single night's dream is the small dream; an entire lifetime is the great dream" — and most people, he says, are simply still asleep inside the larger one, mistaking its intensity for proof of its solidity.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>4. The Result</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>度一切苦厄。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>and so crossed beyond all suffering and distress.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>Yuanying reads "all" here as deliberately covering two tiers at once, not just the sufferings anyone would recognize. Within ordinary existence there is the suffering born of mistaken views and habitual craving, and the specific hardship of being born again and again in a body that ages and dies. Beyond that, even a bodhisattva who has left ordinary rebirth behind still carries a subtler suffering — the last residue of ignorance, and a finer kind of change-and-renewal that has not yet fully settled. The sūtra's "all" is built to reach both: it is not only a path out of an unhappy life, but out of every remaining trace of not-yet-fully-awake, however fine.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>5. Two Doubts Answered</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>舍利子，色不異空，空不異色；色即是空，空即是色。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Śāriputra, form is not different from emptiness, emptiness is not different from form; form itself is emptiness, emptiness itself is form.</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><p>受想行識，亦復如是。</p></div>
+            <div class="translation"><p>Feeling, perception, formations, and consciousness are just the same.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>Yuanying reads these four short clauses as answering five specific doubts, not as a single poetic flourish. Two belong to the narrower path: a practitioner who has only understood that <em>the self</em> is empty may still quietly treat the five aggregates themselves as real building-blocks — hence "not different from emptiness." Another may treat emptiness as something reached only once form is extinguished, a peace found by shutting the world out — hence "form itself is emptiness," true right now, with nothing needing to end first. Three further doubts, which he traces to the <em>Ratnagotravibhāga</em>, belong to more advanced students of emptiness: mistaking emptiness for a separate space apart from form, mistaking it for form's annihilation, or — most subtly — quietly turning "emptiness" itself into a thing to be grasped. The fourfold formula closes each door in turn.</p>
+          <p>His two images for how this actually works: form is emptiness the way digging a hole is not importing space from somewhere else — the emptiness was already there, coextensive with the earth, before any digging began. And emptiness is form the way water is waves: constant change of surface, one same wetness underneath, so that naming the waves "not water" or the water "absent from the waves" would both be simply wrong.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>6. The Nature of Emptiness Itself</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>舍利子，是諸法空相，不生不滅，不垢不淨，不增不減。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Śāriputra, all things bear the mark of emptiness: they neither arise nor cease, are neither defiled nor pure, neither increase nor decrease.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>A worry Yuanying anticipates directly: does this "empty mark" only come into being <em>because</em> one meditates — as though contemplation manufactures an emptiness that wasn't there before, replacing the five aggregates with something new? No, he says: the aggregates were never anything else to begin with. Meditation uncovers what was already, always the case; it does not produce a fresh substitute for it.</p>
+          <p>His image: a wish-fulfilling jewel can throw off five colours of light, but the jewel's own nature stays exactly as it is throughout — the colours' coming and going is not the jewel arising or ceasing. Reflected in mud it is not stained; reflected in clean water it gains nothing extra we'd call "purity." Show it to a crowd and it does not multiply; show it to one person alone and it does not diminish. Whatever changes on the surface, the jewel itself never does — and this, for Yuanying, is exactly the relationship between the ever-shifting aggregates and the unmoving emptiness they never actually depart from.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>7. Emptying the Aggregates, the Senses, and Their Fields</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>是故空中無色，無受想行識，無眼耳鼻舌身意，無色聲香味觸法，無眼界，乃至無意識界。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>And so, within emptiness there is no form, no feeling, perception, formations, or consciousness; no eye, ear, nose, tongue, body, or mind; no sight, sound, smell, taste, touch, or object of mind; no field of vision — and so on, up to no field of mind-consciousness.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>Yuanying distinguishes the coarse sense organs we can see — the fleshly eye, the outer ear — from what he calls their "subtle faculty": a refined, imperceptible working-part seated within the coarse organ, the actual site where seeing or hearing happens, invisible even to ordinary sight. The trickiest of the six sense-objects to place, he notes, are touch and mental objects. Touch only registers where something with awareness meets something without it — cloth resting unworn on a hanger is not "touch," but the moment it is worn and felt as comfortable or not, it becomes so. And mental objects, he says, are like photographs: each of the other five senses leaves an impression behind as it registers its object, and that afterimage — no longer the live sense-data itself, but the trace of it — is what the mind continues to hold, recall, and think about.</p>
+          <p>For why naming eighteen elements — six senses, six objects, six resulting consciousnesses — collapses once the first twelve are seen as empty, his image is a house with three connected rooms: knock down the outer wall and the inner wall, and the middle room, whose entire identity was "the space between the other two," no longer has anything to be a middle of. Inner faculties and outer objects both empty, the eighteen elements — the entire textbook of early Buddhist analysis — do not need separately emptying; they were never anything apart from those two in the first place.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>8. Emptying Dependent Origination</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>無無明，亦無無明盡，乃至無老死，亦無老死盡。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>There is no ignorance and no end of ignorance; and so on, up to no old-age-and-death and no end of old-age-and-death.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>The twelve links run in two directions at once here: forward, from ignorance through craving to old age and death, tracing how one life's causes ripen into the next; and in reverse, showing that if ignorance is uprooted, every link chained to it collapses in turn. On the forward chain, Yuanying repeats a piece of folk diagnostic teaching he clearly expected his audience to recognize: at the moment of death, where the body cools last is said to reveal where the departing consciousness is headed — the crown of the head for a realized sage, the eyes for rebirth in a heaven, the heart for rebirth as a human, the belly for a hungry ghost, the knees for an animal, the soles of the feet for hell. Vivid, and meant to be unsettling.</p>
+          <p>The turn he insists on is in the second half of the clause: it is not enough to see that the chain of suffering is empty. The sūtra also says there is <em>no ending of it to attain</em> — "emptying the extinguishing, too." A narrower path can still quietly treat nirvāṇa itself as a real destination to be grasped once the chain is broken; this line closes that door as well. The bodhisattva does not merely escape the wheel — the wheel, and the escaping, are seen through together.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>9. Emptying the Four Truths, Knowledge, and Attainment</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>無苦集滅道。無智亦無得，以無所得故。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>There is no suffering, no origin, no cessation, no path; no wisdom, and no attainment — because there is nothing to attain.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>Yuanying keeps the Four Truths' ordinary meaning intact — suffering as fact, craving as its cause, cessation as the resulting peace, the path as the way there — before showing what the Mahāyāna does to them: "here, birth-and-death just is nirvāṇa, affliction just is awakening; there is no origin to cut off, no suffering to abandon, no path to walk, no cessation to attain." Not a rejection of the four truths, but the claim that seen clearly enough, there was never a gap between the sickness and the cure to begin with.</p>
+          <p>For "no attainment," his image is a family's own buried treasure, forgotten for years and then suddenly remembered: nothing was newly acquired in the remembering — the wealth had been there, theirs, all along. What awakening finds, on this account, was never absent; it only looks like a gain because it had, for so long, been mistaken for a loss.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>10. The Bodhisattva's Fearlessness</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>菩提薩埵，依般若波羅蜜多故，心無罣礙。無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>The bodhisattva, relying on the Perfection of Wisdom, has a mind without obstruction. Because it is unobstructed, there is no fear; far removed from all upside-down views and dreamlike thinking, he comes to final nirvāṇa.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>Yuanying frames the obstruction two ways, and shows the bodhisattva clear of both at once: an ordinary person, lacking insight into emptiness, clings to things as real and so is hemmed in by existence; a practitioner of the narrower path, lacking a feel for how form still functions, clings instead to stillness and so is hemmed in by emptiness. Only holding neither extreme — seeing both the everyday and the ultimate truth without being caught by either — leaves the mind genuinely without a snag to catch on.</p>
+          <p>For the "upside-down, dreamlike thinking" that falls away, he describes four layers of delusion, coarse to subtle, arising and dissolving in mirrored order — like dressing, which proceeds from the innermost layer outward, and undressing, which reverses it, from the outermost layer in. The point: liberation is not one clean break but a peeling-back, the subtlest confusions going last, in the reverse order they first took hold.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>11. The Buddhas' Awakening</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>三世諸佛，依般若波羅蜜多故，得阿耨多羅三藐三菩提。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>All the buddhas of the three times, relying on the Perfection of Wisdom, attain unsurpassed, perfect, complete awakening.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>Every buddha of past, present, and future, Yuanying stresses, reaches awakening by this same wisdom — there is no other route, for any of them. He unpacks the title itself in three parts: <em>unsurpassed</em>, because nothing stands higher than what is realized; <em>perfect</em> (or "equal"), because the realizing mind holds no favourites, and because what it sees is one same nature running through everything, however different things look on the surface; <em>complete awakening</em>, full realization with nothing left over — a height even advanced bodhisattvas, one rung short of buddhahood, have not yet fully reached.</p>
+          <p>His image for "perfect," or equality-without-favouritism: a goldsmith's cups, hairpins, and bracelets look entirely different if you attend only to their shapes — but attend to what they're made of, and every one of them, without exception, is simply gold. Things stay as different as they ever were on the surface; it is the shared nature beneath the surface that is, without qualification, one and the same.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>12. Praising the Mantra's Power</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>故知般若波羅蜜多，是大神咒，是大明咒，是無上咒，是無等等咒，能除一切苦，真實不虛。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Therefore know that the Perfection of Wisdom is the great sacred mantra, the great radiant mantra, the unsurpassed mantra, the mantra beyond all compare — able to remove all suffering, true and not false.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>Yuanying takes each epithet as earned, not decorative: "great sacred," because it can drive off the demon of samsaric suffering itself; "great radiant," because its light reaches everywhere, breaking the long night of ignorance; "unsurpassed," because — like a blazing mass of fire that cannot be touched from any side without burning — nothing in or beyond the world stands higher than it; "beyond all compare," because it is what every buddha, without exception, is born from, so nothing else could be placed beside it as an equal. Four titles, one claim repeated from four angles: this wisdom has no ceiling above it and no rival beside it.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>13. The Mantra</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>故說般若波羅蜜多咒，即說咒曰：</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>So he proclaimed the mantra of the Perfection of Wisdom, saying:</p></div>
+          </div>
+        </div>
+        <div class="mantra-box">
+          <div class="zh">揭諦揭諦，波羅揭諦，波羅僧揭諦，菩提薩婆訶。</div>
+          <div class="translit">gate gate pāragate pārasaṃgate bodhi svāhā</div>
+          <div class="en">Gone, gone, gone beyond, gone completely beyond — awakening, so be it!</div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Yuanying</div>
+          <p>Mantras, Yuanying explains, belong to the same "kept untranslated" category as <span class="zh">般若</span> in Section 2 — this time for secrecy rather than reverence: rendered into Chinese meaning, a mantra's force is thought to dissipate, so only the sound is carried across. He offers a practical case for why this still counts as genuine practice, not superstition: while reciting, the body sits or walks still and so commits no wrongdoing; the mouth repeats the syllables without interruption and so speaks no wrongdoing; the mind holds the mantra without scattering and so intends no wrongdoing — three karmic actions purified together, whatever the syllables mean.</p>
+          <p>He then tells a story to make the point that understanding the words is not the mechanism. A penniless drifter once passed himself off as a prince in a foreign land and was married to its princess; well-fed and comfortable, he grew short-tempered over trifles. A merchant who knew his real background — but wished to spare him public shame — taught the princess a short verse to recite, in sound only, whenever his temper flared: <em>"No kin in this land, deceiver of everyone, coarse food your daily fare — why trouble yourself to rage?"</em> Not understanding a word of it, she recited it anyway the next time he grew angry — and he, recognizing only that his secret had somehow been found out, was overcome with dread and never lost his temper again. The princess never learned what she had said; it worked all the same. Yuanying closes by quoting Hanshan Deqing: a mantra is not meant to be intellectually parsed but "recited straight through, in silence" — its speed of effect lying exactly in that surrender of the need to understand. "In the surging ocean of suffering, prajñā is the vessel; in the long, dark night, prajñā is the lamp."</p>
+        </div>
+        <div class="ending-mark">· · ·</div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Self-Check</h2>
+        <p style="font-size:15px;color:var(--muted);margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+        <div class="quiz" id="quiz">
+
+          <div class="q" data-correct="2">
+            <span class="q-num">Question 1 of 10</span>
+            <div class="q-text">What does "Heart" (<span class="zh">心</span>, <em>hṛdaya</em>) mean in the title of this sūtra?</div>
+            <button class="opt">The emotional heart — the sūtra is about love and compassion</button>
+            <button class="opt">The physical organ, used as a meditation object</button>
+            <button class="opt">Essence or core — this is the distilled centre of the vast Perfection of Wisdom literature</button>
+            <button class="opt">A place name where the sūtra was first taught</button>
+            <div class="expl"><strong>Correct: C.</strong> <em>Hṛdaya</em> means the pith, the essence — "the heart of the matter." The Heart Sūtra compresses the enormous <em>Prajñāpāramitā</em> collection (up to 100,000 verses) into ~260 characters. It is short because it is <em>concentrated</em>, not because it is introductory.</div>
+          </div>
+
+          <div class="q" data-correct="1">
+            <span class="q-num">Question 2 of 10</span>
+            <div class="q-text">Who speaks the Heart Sūtra, and to whom?</div>
+            <button class="opt">The Buddha, to his son Rāhula</button>
+            <button class="opt">Avalokiteśvara, addressing Śāriputra, the disciple foremost in wisdom</button>
+            <button class="opt">Śāriputra, addressing the assembly of monks</button>
+            <button class="opt">Nāgārjuna, to his students</button>
+            <div class="expl"><strong>Correct: B.</strong> That the deepest statement of <em>wisdom</em> is spoken by the embodiment of <em>compassion</em> — and taught to the master of analysis, Śāriputra — is the whole Mahāyāna in miniature: wisdom and compassion are not two separate projects.</div>
+          </div>
+
+          <div class="q" data-correct="3">
+            <span class="q-num">Question 3 of 10</span>
+            <div class="q-text">"Form is emptiness, emptiness is form." What does <em>emptiness</em> (<span class="zh">空</span>, <em>śūnyatā</em>) actually mean here?</div>
+            <button class="opt">Nothing exists; the world is an illusion</button>
+            <button class="opt">A mystical void or substance that lies behind appearances</button>
+            <button class="opt">Empty space, as in a room with nothing in it</button>
+            <button class="opt">The absence of independent, intrinsic, self-standing existence — things are real as appearance but have no fixed separate core</button>
+            <div class="expl"><strong>Correct: D.</strong> Emptiness is <strong>not</strong> nothingness. A wave is real, yet has no separate "wave-essence" apart from ocean, wind, and shore. Emptiness is the openness that makes change, relationship, and freedom possible. Reading it as "nothing exists" is the error of nihilism, which the tradition explicitly rejects.</div>
+          </div>
+
+          <div class="q" data-correct="0">
+            <span class="q-num">Question 4 of 10</span>
+            <div class="q-text">The sūtra runs the equation both ways — "form is emptiness" <em>and</em> "emptiness is form." Why does the second half matter?</div>
+            <button class="opt">It prevents emptiness from becoming a hidden "more real" reality behind things; emptiness is not a void behind form — it IS form, seen truly</button>
+            <button class="opt">It is simply poetic repetition with no added meaning</button>
+            <button class="opt">It shows emptiness is superior to and separate from form</button>
+            <button class="opt">It cancels the first half, leaving a paradox with no meaning</button>
+            <div class="expl"><strong>Correct: A.</strong> If the sūtra only said "form is emptiness," a reader might imagine emptiness as a truer reality lurking behind the world. Running it the other way — "emptiness is form" — blocks that. There is no void behind appearances. The two are one situation seen truly.</div>
+          </div>
+
+          <div class="q" data-correct="2">
+            <span class="q-num">Question 5 of 10</span>
+            <div class="q-text">What are the five aggregates (<span class="zh">五蘊</span>) that Avalokiteśvara "clearly saw to be empty"?</div>
+            <button class="opt">Earth, water, fire, air, space</button>
+            <button class="opt">Sight, sound, smell, taste, touch</button>
+            <button class="opt">Form, feeling, perception, formations, consciousness</button>
+            <button class="opt">Suffering, origin, cessation, path, wisdom</button>
+            <div class="expl"><strong>Correct: C.</strong> The five aggregates (<em>pañca-skandha</em>) are the complete inventory of what a "person" is made of — one part material (form) and four parts mental (feeling, perception, formations, consciousness). The sūtra declares all five empty, so that mind is included with matter. Nothing is exempt.</div>
+          </div>
+
+          <div class="q" data-correct="1">
+            <span class="q-num">Question 6 of 10</span>
+            <div class="q-text">The sūtra says there is "no suffering, no origin, no cessation, no path" — negating the Four Noble Truths. What is it doing?</div>
+            <button class="opt">Rejecting the Buddha's teaching as false</button>
+            <button class="opt">Refusing to let even the most sacred teachings be clung to as solid, final things — the medicine must not become a new disease</button>
+            <button class="opt">Claiming the Four Noble Truths were never really taught</button>
+            <button class="opt">Saying suffering is not real, so there is nothing to be done</button>
+            <div class="expl"><strong>Correct: B.</strong> The sūtra is not rejecting the Four Noble Truths; it assumes you have taken them seriously. It forbids clinging to them as fixed final things, which quietly recreates the self-grasping they were meant to dissolve. A raft carries you across the river — you don't then strap it to your back and carry it up the mountain.</div>
+          </div>
+
+          <div class="q" data-correct="3">
+            <span class="q-num">Question 7 of 10</span>
+            <div class="q-text">"No wisdom and no attainment" (<span class="zh">無智亦無得</span>) is the most audacious negation. What does it pull the ground out from under?</div>
+            <button class="opt">The existence of the physical world</button>
+            <button class="opt">The reliability of the senses</button>
+            <button class="opt">The value of compassion</button>
+            <button class="opt">Spiritual ambition itself — there is no prize to seize, no self to seize it, and no seizing</button>
+            <div class="expl"><strong>Correct: D.</strong> Even the goal of the whole enterprise — wisdom, attainment — is emptied. This dismantles the subtle grasping that turns the spiritual path into one more acquisition. "Because there is nothing to attain," the bodhisattva can practise freely, without the grasping that recreates the very self it seeks to release.</div>
+          </div>
+
+          <div class="q" data-correct="0">
+            <span class="q-num">Question 8 of 10</span>
+            <div class="q-text">The sūtra's emotional core: "the mind is without obstruction; because it is unobstructed, there is no fear" (<span class="zh">心無罣礙…無有恐怖</span>). What is the logic linking emptiness to fearlessness?</div>
+            <button class="opt">Fear needs a solid self that can be threatened and a threat treated as fixed and real; when wisdom sees neither has independent existence, the machinery of fear loses its grip</button>
+            <button class="opt">Meditation simply suppresses fear through relaxation</button>
+            <button class="opt">The mantra magically removes all danger from the world</button>
+            <button class="opt">Fearlessness comes from believing nothing bad can happen</button>
+            <div class="expl"><strong>Correct: A.</strong> <span class="zh">罣礙</span> literally means "getting hung up, caught." Fear requires a self to be threatened and a threat held as solid. When wisdom sees neither has the fixed, separate existence we assign it, the mind stops snagging. This is not numbness — it is the fearlessness of someone who has stopped clutching. It is why the sūtra is chanted before surgery and at the edge of death.</div>
+          </div>
+
+          <div class="q" data-correct="2">
+            <span class="q-num">Question 9 of 10</span>
+            <div class="q-text">The mantra <em>gate gate pāragate pārasaṃgate bodhi svāhā</em> literally means:</div>
+            <button class="opt">Praise to the Buddha, the Dharma, and the Sangha</button>
+            <button class="opt">May all beings be free from suffering</button>
+            <button class="opt">Gone, gone, gone beyond, gone completely beyond — awakening, so be it!</button>
+            <button class="opt">Form is emptiness, emptiness is form</button>
+            <div class="expl"><strong>Correct: C.</strong> The mantra is a going-across: from this shore of grasping and fear to the far shore of freedom. Ending in a mantra is not decoration — having shown that concepts cannot finally grasp reality, the sūtra closes by handing you something that is not a concept at all: a sound to be practised, not a proposition to be believed.</div>
+          </div>
+
+          <div class="q" data-correct="1">
+            <span class="q-num">Question 10 of 10</span>
+            <div class="q-text">"If everything is empty, why get out of bed? Doesn't emptiness make life meaningless?"</div>
+            <button class="opt">Yes — emptiness teaches that nothing matters, so effort is pointless</button>
+            <button class="opt">No — emptiness says things aren't <em>fixed</em>, not that they don't matter; meaning doesn't require permanence, and grasping for permanence is what makes us suffer</button>
+            <button class="opt">The question cannot be answered without becoming a monk</button>
+            <button class="opt">Emptiness applies only to objects, not to human lives or relationships</button>
+            <div class="expl"><strong>Correct: B.</strong> Emptiness does the opposite of draining meaning. The people you love, the work you do, the pain you feel are all real and vivid — none of it frozen or separate from everything else. Seeing emptiness is precisely what lets you love and act <em>without</em> the desperation of trying to make things last forever.</div>
+          </div>
+
+          <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Further Reading</h2>
+        <ul class="resources">
+          <li><a href="https://cbetaonline.dila.edu.tw/en/T0251" target="_blank" rel="noopener">Xuanzang's Chinese text · Taishō T251</a> — the source text of this page, at CBETA (Chinese Buddhist Electronic Text Association).</li>
+          <li><a href="http://www.book853.com/show.aspx?id=998&amp;cid=84" target="_blank" rel="noopener">般若心經講義 · Grand Master Yuanying</a> — the full 1953 commentary this page's reading notes draw on, freely hosted (public domain).</li>
+          <li><a href="https://www.84000.co/translation/toh21" target="_blank" rel="noopener">The longer Heart Sūtra · 84000</a> — a scholarly English translation of the extended version, with the Buddha's framing narrative, from the Tibetan.</li>
+          <li>Red Pine (Bill Porter), <em>The Heart Sutra: The Womb of Buddhas</em> (Counterpoint, 2004) — a line-by-line commentary drawing on the Chinese, Sanskrit, and the classical Indian and Chinese commentators.</li>
+          <li>Donald S. Lopez Jr., <em>The Heart Sūtra Explained</em> (SUNY, 1988) — how the great Indian and Tibetan commentators read the text, for readers who want the scholarship.</li>
+          <li>Thich Nhat Hanh, <em>The Other Shore</em> (Palm Leaves, 2017) — a warm, practice-oriented modern rendering and commentary.</li>
+          <li>Kazuaki Tanahashi, <em>The Heart Sutra: A Comprehensive Guide</em> (Shambhala, 2014) — the text's history, its many translations, and word-by-word notes.</li>
+        </ul>
+        <p style="margin-top:20px;">Chinese sūtra source: Xuanzang's translation (649&nbsp;CE), public domain. Chinese commentary source: Grand Master Yuanying's <em>般若心經講義</em> (1953), public domain. English translation and reading guide written for Ru-Yi Meditation Center. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>, and <a href="{{ '/courses/heart-of-mahayana/session-1/' | relative_url }}">take this sūtra as a class session</a> in the Ru-Yi Academy.</p>
+      </section>
 
     </div>
   </section>
-
-  <section data-panel="quiz">
-    <h2>Self-check quiz</h2>
-    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
-
-    <div class="quiz" id="quiz">
-
-      <div class="q" data-correct="2">
-        <span class="q-num">Question 1 of 10</span>
-        <div class="q-text">What does "Heart" (<span class="zh">心</span>, <em>hṛdaya</em>) mean in the title of this sūtra?</div>
-        <button class="opt">The emotional heart — the sūtra is about love and compassion</button>
-        <button class="opt">The physical organ, used as a meditation object</button>
-        <button class="opt">Essence or core — this is the distilled centre of the vast Perfection of Wisdom literature</button>
-        <button class="opt">A place name where the sūtra was first taught</button>
-        <div class="expl"><strong>Correct: C.</strong> <em>Hṛdaya</em> means the pith, the essence — "the heart of the matter." The Heart Sūtra compresses the enormous <em>Prajñāpāramitā</em> collection (up to 100,000 verses) into ~260 characters. It is short because it is <em>concentrated</em>, not because it is introductory.</div>
-      </div>
-
-      <div class="q" data-correct="1">
-        <span class="q-num">Question 2 of 10</span>
-        <div class="q-text">Who speaks the Heart Sūtra, and to whom?</div>
-        <button class="opt">The Buddha, to his son Rāhula</button>
-        <button class="opt">Avalokiteśvara, the bodhisattva of compassion, addressing Śāriputra, the disciple foremost in wisdom</button>
-        <button class="opt">Śāriputra, addressing the assembly of monks</button>
-        <button class="opt">Nāgārjuna, to his students</button>
-        <div class="expl"><strong>Correct: B.</strong> That the deepest statement of <em>wisdom</em> is spoken by the embodiment of <em>compassion</em> — and taught to the master of analysis, Śāriputra — is the whole Mahāyāna in miniature: wisdom and compassion are not two separate projects.</div>
-      </div>
-
-      <div class="q" data-correct="3">
-        <span class="q-num">Question 3 of 10</span>
-        <div class="q-text">"Form is emptiness, emptiness is form." What does <em>emptiness</em> (<span class="zh">空</span>, <em>śūnyatā</em>) actually mean here?</div>
-        <button class="opt">Nothing exists; the world is an illusion</button>
-        <button class="opt">A mystical void or substance that lies behind appearances</button>
-        <button class="opt">Empty space, as in a room with nothing in it</button>
-        <button class="opt">The absence of independent, intrinsic, self-standing existence — things are real as appearance but have no fixed separate core</button>
-        <div class="expl"><strong>Correct: D.</strong> Emptiness is <strong>not</strong> nothingness. A wave is real, yet has no separate "wave-essence" apart from ocean, wind, and shore. Emptiness is the openness that makes change, relationship, and freedom possible. Reading it as "nothing exists" is the error of nihilism, which the tradition explicitly rejects.</div>
-      </div>
-
-      <div class="q" data-correct="0">
-        <span class="q-num">Question 4 of 10</span>
-        <div class="q-text">The sūtra runs the equation both ways — "form is emptiness" <em>and</em> "emptiness is form." Why does the second half matter?</div>
-        <button class="opt">It prevents emptiness from becoming a hidden "more real" reality behind things; emptiness is not a void behind form — it IS form, seen truly</button>
-        <button class="opt">It is simply poetic repetition with no added meaning</button>
-        <button class="opt">It shows emptiness is superior to and separate from form</button>
-        <button class="opt">It cancels the first half, leaving a paradox with no meaning</button>
-        <div class="expl"><strong>Correct: A.</strong> If the sūtra only said "form is emptiness," a reader might imagine emptiness as a truer reality lurking behind the world. Running it the other way — "emptiness is form" — blocks that. There is no void behind appearances. The two are one situation seen truly.</div>
-      </div>
-
-      <div class="q" data-correct="2">
-        <span class="q-num">Question 5 of 10</span>
-        <div class="q-text">What are the five aggregates (<span class="zh">五蘊</span>) that Avalokiteśvara "clearly saw to be empty"?</div>
-        <button class="opt">Earth, water, fire, air, space</button>
-        <button class="opt">Sight, sound, smell, taste, touch</button>
-        <button class="opt">Form, feeling, perception, formations, consciousness</button>
-        <button class="opt">Suffering, origin, cessation, path, wisdom</button>
-        <div class="expl"><strong>Correct: C.</strong> The five aggregates (<em>pañca-skandha</em>) are the complete inventory of what a "person" is made of — one part material (form) and four parts mental (feeling, perception, formations, consciousness). The sūtra declares all five empty, so that mind is included with matter. Nothing is exempt.</div>
-      </div>
-
-      <div class="q" data-correct="1">
-        <span class="q-num">Question 6 of 10</span>
-        <div class="q-text">The sūtra says there is "no suffering, no origin, no cessation, no path" — negating the Four Noble Truths. What is it doing?</div>
-        <button class="opt">Rejecting the Buddha's teaching as false</button>
-        <button class="opt">Refusing to let even the most sacred teachings be clung to as solid, final things — the medicine must not become a new disease</button>
-        <button class="opt">Claiming the Four Noble Truths were never really taught</button>
-        <button class="opt">Saying suffering is not real, so there is nothing to be done</button>
-        <div class="expl"><strong>Correct: B.</strong> The sūtra is not rejecting the Four Noble Truths; it assumes you have taken them seriously. It forbids clinging to them as fixed final things, which quietly recreates the self-grasping they were meant to dissolve. A raft carries you across the river — you don't then strap it to your back and carry it up the mountain.</div>
-      </div>
-
-      <div class="q" data-correct="3">
-        <span class="q-num">Question 7 of 10</span>
-        <div class="q-text">"No wisdom and no attainment" (<span class="zh">無智亦無得</span>) is the most audacious negation. What does it pull the ground out from under?</div>
-        <button class="opt">The existence of the physical world</button>
-        <button class="opt">The reliability of the senses</button>
-        <button class="opt">The value of compassion</button>
-        <button class="opt">Spiritual ambition itself — there is no prize to seize, no self to seize it, and no seizing</button>
-        <div class="expl"><strong>Correct: D.</strong> Even the goal of the whole enterprise — wisdom, attainment — is emptied. This dismantles the subtle grasping that turns the spiritual path into one more acquisition. "Because there is nothing to attain," the bodhisattva can practise freely, without the grasping that recreates the very self it seeks to release.</div>
-      </div>
-
-      <div class="q" data-correct="0">
-        <span class="q-num">Question 8 of 10</span>
-        <div class="q-text">The sūtra's emotional core: "the mind is without obstruction; because it is unobstructed, there is no fear" (<span class="zh">心無罣礙…無有恐怖</span>). What is the logic linking emptiness to fearlessness?</div>
-        <button class="opt">Fear needs a solid self that can be threatened and a threat treated as fixed and real; when wisdom sees neither has independent existence, the machinery of fear loses its grip</button>
-        <button class="opt">Meditation simply suppresses fear through relaxation</button>
-        <button class="opt">The mantra magically removes all danger from the world</button>
-        <button class="opt">Fearlessness comes from believing nothing bad can happen</button>
-        <div class="expl"><strong>Correct: A.</strong> <span class="zh">罣礙</span> literally means "getting hung up, caught." Fear requires a self to be threatened and a threat held as solid. When wisdom sees neither has the fixed, separate existence we assign it, the mind stops snagging. This is not numbness — it is the fearlessness of someone who has stopped clutching. It is why the sūtra is chanted before surgery and at the edge of death.</div>
-      </div>
-
-      <div class="q" data-correct="2">
-        <span class="q-num">Question 9 of 10</span>
-        <div class="q-text">The mantra <em>gate gate pāragate pārasaṃgate bodhi svāhā</em> literally means:</div>
-        <button class="opt">Praise to the Buddha, the Dharma, and the Sangha</button>
-        <button class="opt">May all beings be free from suffering</button>
-        <button class="opt">Gone, gone, gone beyond, gone completely beyond — awakening, so be it!</button>
-        <button class="opt">Form is emptiness, emptiness is form</button>
-        <div class="expl"><strong>Correct: C.</strong> The mantra is a going-across: from this shore of grasping and fear to the far shore of freedom. Ending in a mantra is not decoration — having shown that concepts cannot finally grasp reality, the sūtra closes by handing you something that is not a concept at all: a sound to be practised, not a proposition to be believed.</div>
-      </div>
-
-      <div class="q" data-correct="1">
-        <span class="q-num">Question 10 of 10</span>
-        <div class="q-text">"If everything is empty, why get out of bed? Doesn't emptiness make life meaningless?"</div>
-        <button class="opt">Yes — emptiness teaches that nothing matters, so effort is pointless</button>
-        <button class="opt">No — emptiness says things aren't <em>fixed</em>, not that they don't matter; meaning doesn't require permanence, and grasping for permanence is what makes us suffer</button>
-        <button class="opt">The question cannot be answered without becoming a monk</button>
-        <button class="opt">Emptiness applies only to objects, not to human lives or relationships</button>
-        <div class="expl"><strong>Correct: B.</strong> Emptiness does the opposite of draining meaning. The people you love, the work you do, the pain you feel are all real and vivid — none of it frozen or separate from everything else. Seeing emptiness is precisely what lets you love and act <em>without</em> the desperation of trying to make things last forever.</div>
-      </div>
-
-      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
-    </div>
-  </section>
-
-  <section data-panel="notes">
-    <h2>Reading notes, informed by Venerable Yin Shun</h2>
-    <div class="text-intro">
-      Chinese source below is drawn from Venerable Yin Shun's (<span class="zh" style="font-family:'PingFang TC',serif">印順導師</span>) <em>般若波羅蜜多心經講記</em> (Explanatory Notes on the Heart Sūtra) — a talk given at Xuedou Monastery (<span class="zh" style="font-family:'PingFang TC',serif">雪竇寺</span>) in the summer of 1947, collected in his <em>般若經講記</em> within the <em>妙雲集</em>, and available at <a href="https://cbetaonline.dila.edu.tw/zh/Y0001_003" target="_blank" rel="noopener">CBETA (Y0001, 篇章三)</a>. As with the rest of this page, the Chinese source is set in the left-hand column, Ru-Yi's English translation of it in the right. The reading note that follows each passage is Ru-Yi's own commentary, informed by the lecture but not part of it.
-    </div>
-
-    <div class="note-section">
-      <h3>Two Meanings in One Word: <span class="zh" style="font-family:'PingFang TC',serif">波羅蜜多</span></h3>
-      <div class="translation-table">
-        <div class="translation-row">
-          <div class="source">
-            <div class="label">印順導師 Lecture</div>
-            <p>波羅蜜多是梵音，譯成中文可有兩個意思：一、凡事做到了圓滿成就的時候，印度人都稱做波羅蜜多，就是「事業成辦」的意思。二、凡作一事，從開始向目標前進到完成，中間所經的過程、方法，印度人也稱做波羅蜜多，這就是中文「度」（到彼岸）的意思。</p>
-          </div>
-          <div class="translation">
-            <div class="label">Ru-Yi Translation</div>
-            <p><em>Pāramitā</em> is a Sanskrit term with two possible Chinese renderings. First: whenever anything reaches full, perfect completion, Indians called it <em>pāramitā</em> — meaning "the undertaking accomplished." Second: for any undertaking, the process and method by which one advances from the start toward the goal until it is reached — this too Indians called <em>pāramitā</em>, which carries the sense of the Chinese <span class="zh" style="font-family:'PingFang TC',serif">度</span>, "to cross over to the far shore."</p>
-          </div>
-        </div>
-      </div>
-      <div class="note-box">
-        <div class="who">Reading note — after Yin Shun</div>
-        <p>Yin Shun treats these as one word doing double duty, not two separate ideas. The way of removing suffering (<span class="zh" style="font-family:'PingFang TC',serif">動</span>, the dynamic sense — the crossing itself) and the state of suffering already removed (<span class="zh" style="font-family:'PingFang TC',serif">靜</span>, the static sense — the arrival) are the same pāramitā seen from before and after. It's a small grammatical point that sets up the whole sūtra's shape — a text that is simultaneously a method to practise and a description of what practising it arrives at.</p>
-      </div>
-    </div>
-
-    <div class="note-section">
-      <h3>Wisdom Leads — It Doesn't Replace</h3>
-      <p>On why the Perfection of Wisdom gets singled out for such extravagant praise among the six pāramitās, Yin Shun is direct about a misreading he'd evidently heard often: that once you have prajñā, you no longer need to give, keep precepts, or do anything else.</p>
-      <div class="translation-table">
-        <div class="translation-row">
-          <div class="source">
-            <div class="label">印順導師 Lecture</div>
-            <p>「五度如盲，般若為導」……有些人不知佛經讚嘆智慧的用意，於是以為只要有般若，其餘的五度就可以不要了，這是錯誤的。智慧是領導者，它需要與布施等行為配合起來，使所修所行的不致發生錯誤，這才是佛法重智慧的真義。</p>
-          </div>
-          <div class="translation">
-            <div class="label">Ru-Yi Translation</div>
-            <p>"The five [other] perfections are like the blind; prajñā is their guide." Some people, not understanding why the sūtras praise wisdom so highly, conclude that once one has prajñā the other five perfections become unnecessary — this is a mistake. Wisdom is the leader: it needs to work together with practices such as giving, so that what one cultivates and does does not go wrong. This is the true meaning of why the Dharma so values wisdom.</p>
-          </div>
-        </div>
-      </div>
-      <div class="note-box">
-        <div class="who">Reading note — after Yin Shun</div>
-        <p>The other five perfections still have to walk; wisdom's job is to keep them from wandering off course, not to retire them. It's a useful corrective for a reader who finishes the sūtra's wall of negations and concludes that seeing emptiness makes ethical and compassionate action optional. On Yin Shun's reading, it's the opposite: emptiness is what lets giving, discipline, and patience be practised without the subtle self-interest that usually rides along with them.</p>
-      </div>
-    </div>
-
-    <div class="note-section">
-      <h3>One Word Holding Three Seals</h3>
-      <p>Early Buddhism teaches three marks of reality — impermanence, no-self, and the stillness of nirvāṇa (<span class="zh" style="font-family:'PingFang TC',serif">諸行無常、諸法無我、涅槃寂靜</span>) — and a disciple typically realizes them one after another, in that order.</p>
-      <div class="translation-table">
-        <div class="translation-row">
-          <div class="source">
-            <div class="label">印順導師 Lecture</div>
-            <p>大乘菩薩就不必如此，只一「空」字，就把三法印統攝起來。空，是真理中最高的真理，最究竟的真理。</p>
-          </div>
-          <div class="translation">
-            <div class="label">Ru-Yi Translation</div>
-            <p>The Mahāyāna bodhisattva need not do this [climb the three seals one by one] — a single word, "emptiness," gathers up and unifies the three dharma seals. Emptiness is the highest truth among truths, the most ultimate truth.</p>
-          </div>
-        </div>
-      </div>
-      <p>Yin Shun illustrates what this realization is <em>not</em> — not passivity, not withdrawal — by quoting an account from Venerable Taixu's autobiography, of an experience reading the <em>Mahāprajñāpāramitā Sūtra</em>:</p>
-      <div class="translation-table">
-        <div class="translation-row">
-          <div class="source">
-            <div class="label">Taixu's Autobiography, quoted by Yin Shun</div>
-            <p>身心漸漸凝定，忽然失卻身心世界，泯然空寂中靈光湛湛，無數塵剎煥然炳現如凌虛影像，明照無邊……從此，我以前禪錄上的疑團一概冰釋，心智透脫無滯。</p>
-          </div>
-          <div class="translation">
-            <div class="label">Ru-Yi Translation</div>
-            <p>Body and mind gradually settled and stilled, until suddenly body, mind, and world all fell away; within that empty stillness a spiritual radiance shone vast and clear, and countless world-systems appeared brilliantly, like reflections floating in open space, their light reaching everywhere without limit... From that time on, every doubt I had held from my earlier reading of the Chan records dissolved at once, and my mind and understanding were penetrated through, without obstruction.</p>
-          </div>
-        </div>
-      </div>
-      <div class="note-box">
-        <div class="who">Reading note — after Yin Shun</div>
-        <p>This is why the Heart Sūtra can move in 260 characters through aggregates, sense-fields, dependent origination, and the Four Truths without pausing to argue impermanence, then no-self, then stillness in turn — it has already collapsed the sequence into one negation, applied everywhere. And Yin Shun's own gloss on the Taixu passage: his grasp of emptiness is what made him a reformer, not a recluse — seeing that nothing has fixed, unchanging nature is precisely what freed him to argue that Buddhist institutions of his day could and should change. Emptiness, on this account, is "<span class="zh" style="font-family:'PingFang TC',serif">充滿革命的積極性</span>" — charged with a reforming energy — the opposite of the resignation a first-time reader often assumes it teaches.</p>
-      </div>
-    </div>
-
-    <div class="note-section">
-      <h3>Who, Exactly, Is "Observing Freely"?</h3>
-      <p>The Reading Guide above follows the standard identification of the sūtra's speaker as Avalokiteśvara, the bodhisattva of compassion. Yin Shun offers a reading worth holding alongside that one, not in place of it: he takes <span class="zh" style="font-family:'PingFang TC',serif">觀自在</span> as a description before it is a proper name.</p>
-      <div class="translation-table">
-        <div class="translation-row">
-          <div class="source">
-            <div class="label">印順導師 Lecture</div>
-            <p>「觀自在菩薩」，即般若觀慧已得自在的菩薩，不一定指補怛落迦的觀世音菩薩。菩薩是依德立名的，有某種特殊功德，即名他為某某……誰有觀自在的功德，誰就可以稱為觀自在。</p>
-          </div>
-          <div class="translation">
-            <div class="label">Ru-Yi Translation</div>
-            <p>"Avalokiteśvara Bodhisattva" means a bodhisattva whose observing wisdom has already attained mastery — it does not necessarily refer specifically to the Avalokiteśvara of Mount Potalaka. Bodhisattvas are named for the virtue they embody: whoever has some particular merit is named accordingly for it... Whoever possesses the merit of observing-with-mastery may be called "Avalokiteśvara."</p>
-          </div>
-        </div>
-      </div>
-      <div class="note-box">
-        <div class="who">Reading note — after Yin Shun</div>
-        <p>Bodhisattva names, he notes, are often given for a quality attained rather than functioning as a fixed proper noun — the <em>Avataṃsaka Sūtra</em> has multiple bodhisattvas sharing names for this reason. On this reading, "Avalokiteśvara" in this sūtra names <em>whoever's</em> observing wisdom (<span class="zh" style="font-family:'PingFang TC',serif">觀</span>) has reached mastery (<span class="zh" style="font-family:'PingFang TC',serif">自在</span>) — which he then ties directly back to the sūtra's own grammar: <em>observing</em> (<span class="zh" style="font-family:'PingFang TC',serif">照見</span>) that the five aggregates are empty is the "觀"; being free of suffering as a result (<span class="zh" style="font-family:'PingFang TC',serif">度一切苦厄</span>) is the "自在." The specific bodhisattva of Potalaka is one instance of this; it is not the only door into the title.</p>
-      </div>
-    </div>
-
-    <div class="note-section">
-      <h3>Not an Escape From the World, But a Way of Seeing Through It</h3>
-      <p>Discussing why the sūtra insists on running "form is emptiness" <em>and</em> "emptiness is form" — both directions, not just one — Yin Shun contrasts two different things a spiritual tradition can mean by liberation. Some traditions, including a strand within early Buddhism itself that he names directly, treat nirvāṇa as reached by <em>leaving</em> the world of arising and passing away — "<span class="zh" style="font-family:'PingFang TC',serif">沈空滯寂</span>," sinking into emptiness and lodging there, which in practice tends toward withdrawal from engaged life.</p>
-      <div class="translation-table">
-        <div class="translation-row">
-          <div class="source">
-            <div class="label">印順導師 Lecture</div>
-            <p>真正的涅槃空寂，是要在宇宙萬有中，不離宇宙萬有而即是宇宙萬有的……古德說：「佛法在世間，不離世間覺。」</p>
-          </div>
-          <div class="translation">
-            <div class="label">Ru-Yi Translation</div>
-            <p>True nirvāṇa-stillness must be found within the whole of existence — not apart from the myriad things of the universe, but identical with them... As an ancient master said: "The Dharma is found within the world; awakening is not apart from the world."</p>
-          </div>
-        </div>
-      </div>
-      <div class="note-box">
-        <div class="who">Reading note — after Yin Shun</div>
-        <p>He calls this an "<span class="zh" style="font-family:'PingFang TC',serif">內在的超越</span>" — a transcendence found <em>inside</em> ordinary experience rather than reached by exiting it. It is worth sitting with alongside this page's own answer to "doesn't emptiness make life meaningless" (in the Reading Guide tab): Yin Shun's version of the same point is that the sūtra was never offering a door out of the world, only a way of no longer being caught by it.</p>
-      </div>
-    </div>
-
-    <div class="note-section">
-      <h3>A Caution Against Tidying the Sūtra into a Formula</h3>
-      <p>One of the more pointed passages in the lecture pushes back on a reading Yin Shun says some Chinese commentators favoured: mapping the sūtra's three clauses — form is not different from emptiness; emptiness is not different from form; form is emptiness, emptiness is form — onto the Tiantai school's three contemplations (<span class="zh" style="font-family:'PingFang TC',serif">空觀、假觀、中觀</span>), and calling the sūtra a compact statement of the "perfect teaching" (<span class="zh" style="font-family:'PingFang TC',serif">圓教</span>) that unites all three.</p>
-      <div class="translation-table">
-        <div class="translation-row">
-          <div class="source">
-            <div class="label">印順導師 Lecture</div>
-            <p>假定真是如此，那經文應結論說「即空即色，即色即空」才是。但經文反而說：是故空中無色，無受想行識……不是隨意割裂比配可以了事的。</p>
-          </div>
-          <div class="translation">
-            <div class="label">Ru-Yi Translation</div>
-            <p>If that were truly so, the sūtra's text ought to conclude by saying "form just is emptiness, emptiness just is form" — but the text instead says: "therefore, within emptiness there is no form, no feeling, perception, formations, or consciousness"... This is not something to be settled by arbitrarily cutting the text apart and matching it to a scheme.</p>
-          </div>
-        </div>
-      </div>
-      <div class="note-box">
-        <div class="who">Reading note — after Yin Shun</div>
-        <p>His objection is textual before it is doctrinal: the sūtra's own conclusion doesn't land where that three-step formula predicts it should. He treats this as a caution about a specific temptation — that a comfortable, symmetrical synthesis ("everything is everything, so nothing is finally at odds") can quietly slide into a fusion so total it stops distinguishing anything, "<span class="zh" style="font-family:'PingFang TC',serif">善惡不分，是非不辨</span>" — good and evil no longer told apart. The sūtra's negations, on his reading, are doing something more exacting than affirming a grand unity.</p>
-      </div>
-    </div>
-
-    <div class="note-section">
-      <h3>Why End in a Mantra — a Historical Answer</h3>
-      <p>Where the Reading Guide above treats the closing mantra as a deliberate move beyond concepts, Yin Shun adds a historical layer: he places the sūtra's practice of closing insight-teachings with a mantra within a broader shift in how later Indian Buddhism, centuries after the Buddha, adapted to popular expectation as devotional and esoteric currents rose — comparable to how a Christian "Amen" or a Daoist ritual formula seals a prayer, a fixed, wholehearted close rather than an argument to be evaluated. He also glosses the mantra's words slightly differently in register than this page's "gone, gone, gone beyond" — not as a report of a crossing already completed, but as a summons, an imperative:</p>
-      <div class="translation-table">
-        <div class="translation-row">
-          <div class="source">
-            <div class="label">印順導師 Lecture</div>
-            <p>去啊！去啊！到彼岸去啊！大眾都去啊！願正覺的速疾成就！</p>
-          </div>
-          <div class="translation">
-            <div class="label">Ru-Yi Translation</div>
-            <p>Go! Go! Go to the far shore! Let everyone go! May true awakening be swiftly accomplished!</p>
-          </div>
-        </div>
-      </div>
-      <div class="note-box">
-        <div class="who">Reading note — after Yin Shun</div>
-        <p>Same syllables, same meaning underneath — <span class="zh" style="font-family:'PingFang TC',serif">揭諦</span> as "go," <span class="zh" style="font-family:'PingFang TC',serif">波羅</span> as "to the far shore," <span class="zh" style="font-family:'PingFang TC',serif">薩婆訶</span> as "swift accomplishment" — but read as a call to move rather than an announcement that the moving is already done.</p>
-      </div>
-    </div>
-
-    <p class="source-cite">Source for these notes: Venerable Yin Shun (印順導師), 般若波羅蜜多心經講記, in 般若經講記 (妙雲集) — quoted and translated here, with reading notes of Ru-Yi's own composition. Read the source at <a href="https://cbetaonline.dila.edu.tw/zh/Y0001_003" target="_blank" rel="noopener">CBETA, Y0001篇章三</a>. See also this site's <a href="/dharma/translation-method/">note on translation method</a> for how Ru-Yi works with primary sources.</p>
-  </section>
-
-  </main><!-- /pv-main -->
-
-  <aside class="pv-marginalia">
-    <div class="marginalia-block">
-      <div class="m-label">Key terms</div>
-      <ul>
-        <li><span class="pali">prajñāpāramitā <span class="zh">般若波羅蜜多</span></span>perfection of wisdom</li>
-        <li><span class="pali">hṛdaya <span class="zh">心</span></span>heart · essence · core</li>
-        <li><span class="pali">śūnyatā <span class="zh">空</span></span>emptiness (not nothingness)</li>
-        <li><span class="pali">rūpa <span class="zh">色</span></span>form · material stuff</li>
-        <li><span class="pali">pañca-skandha <span class="zh">五蘊</span></span>the five aggregates</li>
-        <li><span class="pali">Avalokiteśvara <span class="zh">觀自在</span></span>bodhisattva of compassion</li>
-        <li><span class="pali">Śāriputra <span class="zh">舍利子</span></span>foremost in wisdom</li>
-      </ul>
-    </div>
-    <div class="marginalia-block">
-      <div class="m-label">In the collection</div>
-      <ul>
-        <li><a href="diamond-sutra.html" style="color:inherit; text-decoration:none;">The Diamond Sūtra · <span style="font-family:'PingFang TC',serif">金剛經</span> — read now →</a></li>
-        <li>The Lotus Sūtra · <span style="font-family:'PingFang TC',serif">法華經</span> — coming soon</li>
-        <li>The Vimalakīrti Sūtra · <span style="font-family:'PingFang TC',serif">維摩詰經</span> — coming soon</li>
-        <li>The Amitābha Sūtra · <span style="font-family:'PingFang TC',serif">阿彌陀經</span> — coming soon</li>
-        <li>The Platform Sūtra · <span style="font-family:'PingFang TC',serif">六祖壇經</span> — coming soon</li>
-      </ul>
-    </div>
-  </aside>
-
-  <div class="pv-footer">
-  <section>
-    <h2>Further reading</h2>
-    <ul class="resources">
-      <li><a href="https://cbetaonline.dila.edu.tw/en/T0251" target="_blank" rel="noopener">Xuanzang's Chinese text · Taishō T251</a> — the source text of this page, at CBETA (Chinese Buddhist Electronic Text Association).</li>
-      <li><a href="https://www.84000.co/translation/toh21" target="_blank" rel="noopener">The longer Heart Sūtra · 84000</a> — a scholarly English translation of the extended version, with the Buddha's framing narrative, from the Tibetan.</li>
-      <li>Red Pine (Bill Porter), <em>The Heart Sutra: The Womb of Buddhas</em> (Counterpoint, 2004) — a line-by-line commentary drawing on the Chinese, Sanskrit, and the classical Indian and Chinese commentators.</li>
-      <li>Donald S. Lopez Jr., <em>The Heart Sūtra Explained</em> (SUNY, 1988) — how the great Indian and Tibetan commentators read the text, for readers who want the scholarship.</li>
-      <li>Thich Nhat Hanh, <em>The Other Shore</em> (Palm Leaves, 2017) — a warm, practice-oriented modern rendering and commentary.</li>
-      <li>Kazuaki Tanahashi, <em>The Heart Sutra: A Comprehensive Guide</em> (Shambhala, 2014) — the text's history, its many translations, and word-by-word notes.</li>
-    </ul>
-  </section>
-
-  <div class="nav-prev-next">
-    <a href="./"><span class="label">← Collection</span>All Mahāyāna Sūtras</a>
-    <a href="/courses/heart-of-mahayana/session-1/" class="next"><span class="label">Course →</span>Take this as a class session</a>
-  </div>
-
-  <footer>
-    <p>A series at <a href="/">Ru-Yi Meditation Center</a></p>
-    <p style="margin-top:6px;">Chinese source: Xuanzang's translation (649&nbsp;CE), public domain. English translation and reading guide written for Ru-Yi Meditation Center.</p>
-  </footer>
-  </div><!-- /pv-footer -->
-
-</div>
+</article>
 
 <script>
 (function() {
-  const tabs = document.querySelectorAll('.tab[data-tab]');
-  const panels = document.querySelectorAll('[data-panel]');
-
-  function showTab(name, opts = {}) {
-    let found = false;
-    tabs.forEach(function(tab) {
-      const isActive = tab.dataset.tab === name;
-      tab.classList.toggle('active', isActive);
-      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
-      if (isActive) found = true;
-    });
-    if (!found) return;
-    panels.forEach(function(panel) {
-      panel.classList.toggle('active', panel.dataset.panel === name);
-    });
-    if (opts.updateHash !== false) {
-      history.replaceState(null, '', '#' + name);
-    }
-    if (opts.scroll) {
-      const tabBar = document.querySelector('.tabs');
-      if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
-  }
-
-  tabs.forEach(function(tab) {
-    tab.addEventListener('click', function() {
-      showTab(tab.dataset.tab, { scroll: true });
-    });
-  });
-
-  const initialHash = window.location.hash.replace('#', '');
-  if (['guide', 'text', 'quiz', 'notes'].indexOf(initialHash) !== -1) {
-    showTab(initialHash, { updateHash: false });
-  }
-
   const quiz = document.getElementById('quiz');
   const answeredEl = document.getElementById('answered-count');
   const correctEl = document.getElementById('correct-count');
@@ -1336,9 +621,18 @@
       });
     });
   });
+
+  if (location.hash) {
+    var target = document.querySelector(location.hash);
+    if (target) {
+      var scrollToTarget = function() { target.scrollIntoView({ block: 'start' }); };
+      scrollToTarget();
+      if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(scrollToTarget);
+      } else {
+        window.addEventListener('load', scrollToTarget);
+      }
+    }
+  }
 })();
 </script>
-
-  <script defer src="/assets/js/search.js"></script>
-</body>
-</html>
