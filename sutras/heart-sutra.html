@@ -409,30 +409,72 @@
   }
   .score-bar strong { color: #1a1d23; font-size: 19px; }
 
-  /* Reading notes (Yin Shun) */
+  /* Reading notes (Yin Shun) — translation-table + note-box, matching the
+     stages-of-yogic-practice fascicle pages */
+  .note-section { margin-bottom: 44px; }
+  .note-section:last-of-type { margin-bottom: 0; }
+  .note-section h3 { margin-top: 0; }
+  .translation-table {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+    margin: 18px 0;
+  }
+  .translation-row {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    align-items: start;
+  }
+  @media (min-width: 820px) {
+    .translation-row { grid-template-columns: 1fr 1.08fr; }
+  }
+  .source, .translation {
+    border: 1px solid #eadfce;
+    border-radius: 8px;
+    padding: 20px 22px;
+    background: #fffdf8;
+  }
+  .translation { background: #f8fbf8; border-color: #cfe0d8; }
+  .translation-table .label {
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #b8431c;
+    margin-bottom: 12px;
+  }
+  .translation .label { color: #2f6d5e; }
+  .source p {
+    font-family: "PingFang TC", "Microsoft JhengHei", serif;
+    color: #382a20;
+    font-size: 17px;
+    line-height: 1.9;
+    margin: 0;
+  }
+  .translation p {
+    font-size: 17px;
+    line-height: 1.75;
+    color: #1a1a1a;
+    margin: 0;
+  }
   .note-box {
     border-left: 4px solid #d9a441;
     background: #fdf9f1;
     padding: 22px 24px;
-    margin-bottom: 32px;
     border-radius: 0 4px 4px 0;
   }
-  .note-box p { font-size: 16px; color: #5c4a2a; margin-bottom: 10px; }
-  .note-box p:last-child { margin-bottom: 0; }
-  .note-box a { color: #8c2f12; }
-  .note-section { margin-bottom: 40px; }
-  .note-section:last-of-type { margin-bottom: 0; }
-  .note-section h3 { margin-top: 0; }
-  .note-quote {
-    font-family: "PingFang TC", "Microsoft JhengHei", serif;
-    background: #fafbfc;
-    border-left: 3px solid #b8431c;
-    padding: 14px 20px;
-    margin: 14px 0;
-    font-size: 17px;
-    color: #34383f;
-    line-height: 1.85;
+  .note-box .who {
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: #8a6a2a;
+    margin-bottom: 8px;
   }
+  .note-box p { font-size: 16px; color: #5c4a2a; margin: 0; }
+  .note-box p + p { margin-top: 12px; }
+  .note-box a { color: #8c2f12; }
   .source-cite {
     font-size: 14px;
     color: #6b6b6b;
@@ -1009,62 +1051,170 @@
 
   <section data-panel="notes">
     <h2>Reading notes, informed by Venerable Yin Shun</h2>
-
-    <div class="note-box">
-      <p>These reading notes are Ru-Yi's own composition. They draw on a study of Venerable Yin Shun's (<span class="zh">印順導師</span>) <em>般若波羅蜜多心經講記</em> (Explanatory Notes on the Heart Sūtra) — a talk given at Xuedou Monastery (<span class="zh">雪竇寺</span>) in the summer of 1947, collected in his <em>般若經講記</em> within the <em>妙雲集</em>, and available at <a href="https://cbetaonline.dila.edu.tw/zh/Y0001_003" target="_blank" rel="noopener">CBETA (Y0001, 篇章三)</a>.</p>
-      <p>This is not a translation of that work — it is original commentary informed by it, listed here as a reference. Any quotations from the lecture below are brief excerpts cited for illustration.</p>
+    <div class="text-intro">
+      Chinese source below is drawn from Venerable Yin Shun's (<span class="zh" style="font-family:'PingFang TC',serif">印順導師</span>) <em>般若波羅蜜多心經講記</em> (Explanatory Notes on the Heart Sūtra) — a talk given at Xuedou Monastery (<span class="zh" style="font-family:'PingFang TC',serif">雪竇寺</span>) in the summer of 1947, collected in his <em>般若經講記</em> within the <em>妙雲集</em>, and available at <a href="https://cbetaonline.dila.edu.tw/zh/Y0001_003" target="_blank" rel="noopener">CBETA (Y0001, 篇章三)</a>. As with the rest of this page, the Chinese source is set in the left-hand column, Ru-Yi's English translation of it in the right. The reading note that follows each passage is Ru-Yi's own commentary, informed by the lecture but not part of it.
     </div>
 
     <div class="note-section">
       <h3>Two Meanings in One Word: <span class="zh" style="font-family:'PingFang TC',serif">波羅蜜多</span></h3>
-      <p>Yin Shun opens by pointing out that <em>pāramitā</em> carries two senses at once, not one. Taken as a verb, it names the crossing itself — the method, the "度" (to ferry across) that gets you from here to there. Taken as a noun, it names the arrival — "事業成辦," a task brought to full completion. He treats these as one word doing double duty, not two separate ideas: the way of removing suffering (動, the dynamic sense) and the state of suffering already removed (靜, the static sense) are the same pāramitā seen from before and after. It's a small grammatical point that sets up the whole sūtra's shape — a text that is simultaneously a method to practise and a description of what practising it arrives at.</p>
+      <div class="translation-table">
+        <div class="translation-row">
+          <div class="source">
+            <div class="label">印順導師 Lecture</div>
+            <p>波羅蜜多是梵音，譯成中文可有兩個意思：一、凡事做到了圓滿成就的時候，印度人都稱做波羅蜜多，就是「事業成辦」的意思。二、凡作一事，從開始向目標前進到完成，中間所經的過程、方法，印度人也稱做波羅蜜多，這就是中文「度」（到彼岸）的意思。</p>
+          </div>
+          <div class="translation">
+            <div class="label">Ru-Yi Translation</div>
+            <p><em>Pāramitā</em> is a Sanskrit term with two possible Chinese renderings. First: whenever anything reaches full, perfect completion, Indians called it <em>pāramitā</em> — meaning "the undertaking accomplished." Second: for any undertaking, the process and method by which one advances from the start toward the goal until it is reached — this too Indians called <em>pāramitā</em>, which carries the sense of the Chinese <span class="zh" style="font-family:'PingFang TC',serif">度</span>, "to cross over to the far shore."</p>
+          </div>
+        </div>
+      </div>
+      <div class="note-box">
+        <div class="who">Reading note — after Yin Shun</div>
+        <p>Yin Shun treats these as one word doing double duty, not two separate ideas. The way of removing suffering (<span class="zh" style="font-family:'PingFang TC',serif">動</span>, the dynamic sense — the crossing itself) and the state of suffering already removed (<span class="zh" style="font-family:'PingFang TC',serif">靜</span>, the static sense — the arrival) are the same pāramitā seen from before and after. It's a small grammatical point that sets up the whole sūtra's shape — a text that is simultaneously a method to practise and a description of what practising it arrives at.</p>
+      </div>
     </div>
 
     <div class="note-section">
       <h3>Wisdom Leads — It Doesn't Replace</h3>
       <p>On why the Perfection of Wisdom gets singled out for such extravagant praise among the six pāramitās, Yin Shun is direct about a misreading he'd evidently heard often: that once you have prajñā, you no longer need to give, keep precepts, or do anything else.</p>
-      <div class="note-quote">「五度如盲，般若為導」……有些人不知佛經讚嘆智慧的用意，於是以為只要有般若，其餘的五度就可以不要了，這是錯誤的。智慧是領導者，它需要與布施等行為配合起來，使所修所行的不致發生錯誤，這才是佛法重智慧的真義。</div>
-      <p>"The five [other] perfections are like the blind; prajñā is their guide" — the other five still have to walk. Wisdom's job is to keep them from wandering off course, not to retire them. It's a useful corrective for a reader who finishes the sūtra's wall of negations and concludes that seeing emptiness makes ethical and compassionate action optional. On Yin Shun's reading, it's the opposite: emptiness is what lets giving, discipline, and patience be practised without the subtle self-interest that usually rides along with them.</p>
+      <div class="translation-table">
+        <div class="translation-row">
+          <div class="source">
+            <div class="label">印順導師 Lecture</div>
+            <p>「五度如盲，般若為導」……有些人不知佛經讚嘆智慧的用意，於是以為只要有般若，其餘的五度就可以不要了，這是錯誤的。智慧是領導者，它需要與布施等行為配合起來，使所修所行的不致發生錯誤，這才是佛法重智慧的真義。</p>
+          </div>
+          <div class="translation">
+            <div class="label">Ru-Yi Translation</div>
+            <p>"The five [other] perfections are like the blind; prajñā is their guide." Some people, not understanding why the sūtras praise wisdom so highly, conclude that once one has prajñā the other five perfections become unnecessary — this is a mistake. Wisdom is the leader: it needs to work together with practices such as giving, so that what one cultivates and does does not go wrong. This is the true meaning of why the Dharma so values wisdom.</p>
+          </div>
+        </div>
+      </div>
+      <div class="note-box">
+        <div class="who">Reading note — after Yin Shun</div>
+        <p>The other five perfections still have to walk; wisdom's job is to keep them from wandering off course, not to retire them. It's a useful corrective for a reader who finishes the sūtra's wall of negations and concludes that seeing emptiness makes ethical and compassionate action optional. On Yin Shun's reading, it's the opposite: emptiness is what lets giving, discipline, and patience be practised without the subtle self-interest that usually rides along with them.</p>
+      </div>
     </div>
 
     <div class="note-section">
       <h3>One Word Holding Three Seals</h3>
-      <p>Early Buddhism teaches three marks of reality — impermanence, no-self, and the stillness of nirvāṇa (<span class="zh">諸行無常、諸法無我、涅槃寂靜</span>) — and a disciple typically realizes them one after another, in that order. Yin Shun's point is that the Mahāyāna bodhisattva doesn't have to climb the three seals as separate rungs; a single word, <em>emptiness</em>, holds all three at once — no fixed unchanging thing (impermanence), no independently-standing thing (no-self), no truly existent thing to fix your grip on (nirvāṇa's stillness) are three ways of saying the same "not." This is why the Heart Sūtra can move in 260 characters through aggregates, sense-fields, dependent origination, and the Four Truths without pausing to argue impermanence, then no-self, then stillness in turn — it has already collapsed the sequence into one negation, applied everywhere.</p>
-      <p>He illustrates what this realization is <em>not</em> — not passivity, not withdrawal — with an account from Venerable Taixu's autobiography, of an experience reading the <em>Mahāprajñāpāramitā Sūtra</em>:</p>
-      <div class="note-quote">身心漸漸凝定，忽然失卻身心世界，泯然空寂中靈光湛湛，無數塵剎煥然炳現如凌虛影像，明照無邊……從此，我以前禪錄上的疑團一概冰釋，心智透脫無滯。</div>
-      <p>Yin Shun's own gloss on this: Taixu's grasp of emptiness is what made him a reformer, not a recluse — seeing that nothing has fixed, unchanging nature is precisely what freed him to argue that Buddhist institutions of his day could and should change. Emptiness, on this account, is "充滿革命的積極性" — charged with a reforming energy — the opposite of the resignation a first-time reader often assumes it teaches.</p>
+      <p>Early Buddhism teaches three marks of reality — impermanence, no-self, and the stillness of nirvāṇa (<span class="zh" style="font-family:'PingFang TC',serif">諸行無常、諸法無我、涅槃寂靜</span>) — and a disciple typically realizes them one after another, in that order.</p>
+      <div class="translation-table">
+        <div class="translation-row">
+          <div class="source">
+            <div class="label">印順導師 Lecture</div>
+            <p>大乘菩薩就不必如此，只一「空」字，就把三法印統攝起來。空，是真理中最高的真理，最究竟的真理。</p>
+          </div>
+          <div class="translation">
+            <div class="label">Ru-Yi Translation</div>
+            <p>The Mahāyāna bodhisattva need not do this [climb the three seals one by one] — a single word, "emptiness," gathers up and unifies the three dharma seals. Emptiness is the highest truth among truths, the most ultimate truth.</p>
+          </div>
+        </div>
+      </div>
+      <p>Yin Shun illustrates what this realization is <em>not</em> — not passivity, not withdrawal — by quoting an account from Venerable Taixu's autobiography, of an experience reading the <em>Mahāprajñāpāramitā Sūtra</em>:</p>
+      <div class="translation-table">
+        <div class="translation-row">
+          <div class="source">
+            <div class="label">Taixu's Autobiography, quoted by Yin Shun</div>
+            <p>身心漸漸凝定，忽然失卻身心世界，泯然空寂中靈光湛湛，無數塵剎煥然炳現如凌虛影像，明照無邊……從此，我以前禪錄上的疑團一概冰釋，心智透脫無滯。</p>
+          </div>
+          <div class="translation">
+            <div class="label">Ru-Yi Translation</div>
+            <p>Body and mind gradually settled and stilled, until suddenly body, mind, and world all fell away; within that empty stillness a spiritual radiance shone vast and clear, and countless world-systems appeared brilliantly, like reflections floating in open space, their light reaching everywhere without limit... From that time on, every doubt I had held from my earlier reading of the Chan records dissolved at once, and my mind and understanding were penetrated through, without obstruction.</p>
+          </div>
+        </div>
+      </div>
+      <div class="note-box">
+        <div class="who">Reading note — after Yin Shun</div>
+        <p>This is why the Heart Sūtra can move in 260 characters through aggregates, sense-fields, dependent origination, and the Four Truths without pausing to argue impermanence, then no-self, then stillness in turn — it has already collapsed the sequence into one negation, applied everywhere. And Yin Shun's own gloss on the Taixu passage: his grasp of emptiness is what made him a reformer, not a recluse — seeing that nothing has fixed, unchanging nature is precisely what freed him to argue that Buddhist institutions of his day could and should change. Emptiness, on this account, is "<span class="zh" style="font-family:'PingFang TC',serif">充滿革命的積極性</span>" — charged with a reforming energy — the opposite of the resignation a first-time reader often assumes it teaches.</p>
+      </div>
     </div>
 
     <div class="note-section">
       <h3>Who, Exactly, Is "Observing Freely"?</h3>
-      <p>The Reading Guide above follows the standard identification of the sūtra's speaker as Avalokiteśvara, the bodhisattva of compassion. Yin Shun offers a reading worth holding alongside that one, not in place of it: he takes <span class="zh">觀自在</span> as a description before it is a proper name.</p>
-      <div class="note-quote">「觀自在菩薩」，即般若觀慧已得自在的菩薩，不一定指補怛落迦的觀世音菩薩。菩薩是依德立名的，有某種特殊功德，即名他為某某……誰有觀自在的功德，誰就可以稱為觀自在。</div>
-      <p>Bodhisattva names, he notes, are often given for a quality attained rather than functioning as a fixed proper noun — the <em>Avataṃsaka Sūtra</em> has multiple bodhisattvas sharing names for this reason. On this reading, "Avalokiteśvara" in this sūtra names <em>whoever's</em> observing wisdom (<span class="zh">觀</span>) has reached mastery (<span class="zh">自在</span>) — which he then ties directly back to the sūtra's own grammar: <em>observing</em> (照見) that the five aggregates are empty is the "觀"; being free of suffering as a result (度一切苦厄) is the "自在." The specific bodhisattva of Potalaka is one instance of this; it is not the only door into the title.</p>
+      <p>The Reading Guide above follows the standard identification of the sūtra's speaker as Avalokiteśvara, the bodhisattva of compassion. Yin Shun offers a reading worth holding alongside that one, not in place of it: he takes <span class="zh" style="font-family:'PingFang TC',serif">觀自在</span> as a description before it is a proper name.</p>
+      <div class="translation-table">
+        <div class="translation-row">
+          <div class="source">
+            <div class="label">印順導師 Lecture</div>
+            <p>「觀自在菩薩」，即般若觀慧已得自在的菩薩，不一定指補怛落迦的觀世音菩薩。菩薩是依德立名的，有某種特殊功德，即名他為某某……誰有觀自在的功德，誰就可以稱為觀自在。</p>
+          </div>
+          <div class="translation">
+            <div class="label">Ru-Yi Translation</div>
+            <p>"Avalokiteśvara Bodhisattva" means a bodhisattva whose observing wisdom has already attained mastery — it does not necessarily refer specifically to the Avalokiteśvara of Mount Potalaka. Bodhisattvas are named for the virtue they embody: whoever has some particular merit is named accordingly for it... Whoever possesses the merit of observing-with-mastery may be called "Avalokiteśvara."</p>
+          </div>
+        </div>
+      </div>
+      <div class="note-box">
+        <div class="who">Reading note — after Yin Shun</div>
+        <p>Bodhisattva names, he notes, are often given for a quality attained rather than functioning as a fixed proper noun — the <em>Avataṃsaka Sūtra</em> has multiple bodhisattvas sharing names for this reason. On this reading, "Avalokiteśvara" in this sūtra names <em>whoever's</em> observing wisdom (<span class="zh" style="font-family:'PingFang TC',serif">觀</span>) has reached mastery (<span class="zh" style="font-family:'PingFang TC',serif">自在</span>) — which he then ties directly back to the sūtra's own grammar: <em>observing</em> (<span class="zh" style="font-family:'PingFang TC',serif">照見</span>) that the five aggregates are empty is the "觀"; being free of suffering as a result (<span class="zh" style="font-family:'PingFang TC',serif">度一切苦厄</span>) is the "自在." The specific bodhisattva of Potalaka is one instance of this; it is not the only door into the title.</p>
+      </div>
     </div>
 
     <div class="note-section">
       <h3>Not an Escape From the World, But a Way of Seeing Through It</h3>
-      <p>Discussing why the sūtra insists on running "form is emptiness" <em>and</em> "emptiness is form" — both directions, not just one — Yin Shun contrasts two different things a spiritual tradition can mean by liberation. Some traditions, including a strand within early Buddhism itself that he names directly, treat nirvāṇa as reached by <em>leaving</em> the world of arising and passing away — the "沈空滯寂" reading, sinking into emptiness and lodging there, which in practice tends toward withdrawal from engaged life. The Mahāyāna's move, on his account, is different in kind, not just degree:</p>
-      <div class="note-quote">真正的涅槃空寂，是要在宇宙萬有中，不離宇宙萬有而即是宇宙萬有的……古德說：「佛法在世間，不離世間覺。」</div>
-      <p>He calls this an "內在的超越" — a transcendence found <em>inside</em> ordinary experience rather than reached by exiting it. It is worth sitting with alongside this page's own answer to "doesn't emptiness make life meaningless" (in the Reading Guide tab): Yin Shun's version of the same point is that the sūtra was never offering a door out of the world, only a way of no longer being caught by it.</p>
+      <p>Discussing why the sūtra insists on running "form is emptiness" <em>and</em> "emptiness is form" — both directions, not just one — Yin Shun contrasts two different things a spiritual tradition can mean by liberation. Some traditions, including a strand within early Buddhism itself that he names directly, treat nirvāṇa as reached by <em>leaving</em> the world of arising and passing away — "<span class="zh" style="font-family:'PingFang TC',serif">沈空滯寂</span>," sinking into emptiness and lodging there, which in practice tends toward withdrawal from engaged life.</p>
+      <div class="translation-table">
+        <div class="translation-row">
+          <div class="source">
+            <div class="label">印順導師 Lecture</div>
+            <p>真正的涅槃空寂，是要在宇宙萬有中，不離宇宙萬有而即是宇宙萬有的……古德說：「佛法在世間，不離世間覺。」</p>
+          </div>
+          <div class="translation">
+            <div class="label">Ru-Yi Translation</div>
+            <p>True nirvāṇa-stillness must be found within the whole of existence — not apart from the myriad things of the universe, but identical with them... As an ancient master said: "The Dharma is found within the world; awakening is not apart from the world."</p>
+          </div>
+        </div>
+      </div>
+      <div class="note-box">
+        <div class="who">Reading note — after Yin Shun</div>
+        <p>He calls this an "<span class="zh" style="font-family:'PingFang TC',serif">內在的超越</span>" — a transcendence found <em>inside</em> ordinary experience rather than reached by exiting it. It is worth sitting with alongside this page's own answer to "doesn't emptiness make life meaningless" (in the Reading Guide tab): Yin Shun's version of the same point is that the sūtra was never offering a door out of the world, only a way of no longer being caught by it.</p>
+      </div>
     </div>
 
     <div class="note-section">
       <h3>A Caution Against Tidying the Sūtra into a Formula</h3>
-      <p>One of the more pointed passages in the lecture pushes back on a reading Yin Shun says some Chinese commentators favoured: mapping the sūtra's three clauses — form is not different from emptiness; emptiness is not different from form; form is emptiness, emptiness is form — onto the Tiantai school's three contemplations (空觀, 假觀, 中觀), and calling the sūtra a compact statement of the "perfect teaching" (圓教) that unites all three.</p>
-      <div class="note-quote">假定真是如此，那經文應結論說「即空即色，即色即空」才是。但經文反而說：是故空中無色，無受想行識……不是隨意割裂比配可以了事的。</div>
-      <p>His objection is textual before it is doctrinal: the sūtra's own conclusion doesn't land where that three-step formula predicts it should. He treats this as a caution about a specific temptation — that a comfortable, symmetrical synthesis ("everything is everything, so nothing is finally at odds") can quietly slide into a fusion so total it stops distinguishing anything, "善惡不分，是非不辨" — good and evil no longer told apart. The sūtra's negations, on his reading, are doing something more exacting than affirming a grand unity.</p>
+      <p>One of the more pointed passages in the lecture pushes back on a reading Yin Shun says some Chinese commentators favoured: mapping the sūtra's three clauses — form is not different from emptiness; emptiness is not different from form; form is emptiness, emptiness is form — onto the Tiantai school's three contemplations (<span class="zh" style="font-family:'PingFang TC',serif">空觀、假觀、中觀</span>), and calling the sūtra a compact statement of the "perfect teaching" (<span class="zh" style="font-family:'PingFang TC',serif">圓教</span>) that unites all three.</p>
+      <div class="translation-table">
+        <div class="translation-row">
+          <div class="source">
+            <div class="label">印順導師 Lecture</div>
+            <p>假定真是如此，那經文應結論說「即空即色，即色即空」才是。但經文反而說：是故空中無色，無受想行識……不是隨意割裂比配可以了事的。</p>
+          </div>
+          <div class="translation">
+            <div class="label">Ru-Yi Translation</div>
+            <p>If that were truly so, the sūtra's text ought to conclude by saying "form just is emptiness, emptiness just is form" — but the text instead says: "therefore, within emptiness there is no form, no feeling, perception, formations, or consciousness"... This is not something to be settled by arbitrarily cutting the text apart and matching it to a scheme.</p>
+          </div>
+        </div>
+      </div>
+      <div class="note-box">
+        <div class="who">Reading note — after Yin Shun</div>
+        <p>His objection is textual before it is doctrinal: the sūtra's own conclusion doesn't land where that three-step formula predicts it should. He treats this as a caution about a specific temptation — that a comfortable, symmetrical synthesis ("everything is everything, so nothing is finally at odds") can quietly slide into a fusion so total it stops distinguishing anything, "<span class="zh" style="font-family:'PingFang TC',serif">善惡不分，是非不辨</span>" — good and evil no longer told apart. The sūtra's negations, on his reading, are doing something more exacting than affirming a grand unity.</p>
+      </div>
     </div>
 
     <div class="note-section">
       <h3>Why End in a Mantra — a Historical Answer</h3>
-      <p>Where the Reading Guide above treats the closing mantra as a deliberate move beyond concepts, Yin Shun adds a historical layer: he places the sūtra's practice of closing insight-teachings with a mantra within a broader shift in how later Indian Buddhism, centuries after the Buddha, adapted to popular expectation as devotional and esoteric currents rose. He compares the mantra's closing function to devices in other traditions that seal a teaching or a prayer — Christian "Amen," Daoist ritual formulae — a fixed, wholehearted close rather than an argument to be evaluated.</p>
-      <p>He also glosses the mantra's words slightly differently in register than this page's "gone, gone, gone beyond" — not as a report of a crossing already completed, but as a summons, an imperative:</p>
-      <div class="note-quote">去啊！去啊！到彼岸去啊！大眾都去啊！願正覺的速疾成就！</div>
-      <p>Go! Go! Go across! Everyone, go! May full awakening come swiftly! Same syllables, same meaning underneath — <span class="zh">揭諦</span> as "go," <span class="zh">波羅</span> as "to the far shore," <span class="zh">薩婆訶</span> as "swift accomplishment" — but read as a call to move rather than an announcement that the moving is already done.</p>
+      <p>Where the Reading Guide above treats the closing mantra as a deliberate move beyond concepts, Yin Shun adds a historical layer: he places the sūtra's practice of closing insight-teachings with a mantra within a broader shift in how later Indian Buddhism, centuries after the Buddha, adapted to popular expectation as devotional and esoteric currents rose — comparable to how a Christian "Amen" or a Daoist ritual formula seals a prayer, a fixed, wholehearted close rather than an argument to be evaluated. He also glosses the mantra's words slightly differently in register than this page's "gone, gone, gone beyond" — not as a report of a crossing already completed, but as a summons, an imperative:</p>
+      <div class="translation-table">
+        <div class="translation-row">
+          <div class="source">
+            <div class="label">印順導師 Lecture</div>
+            <p>去啊！去啊！到彼岸去啊！大眾都去啊！願正覺的速疾成就！</p>
+          </div>
+          <div class="translation">
+            <div class="label">Ru-Yi Translation</div>
+            <p>Go! Go! Go to the far shore! Let everyone go! May true awakening be swiftly accomplished!</p>
+          </div>
+        </div>
+      </div>
+      <div class="note-box">
+        <div class="who">Reading note — after Yin Shun</div>
+        <p>Same syllables, same meaning underneath — <span class="zh" style="font-family:'PingFang TC',serif">揭諦</span> as "go," <span class="zh" style="font-family:'PingFang TC',serif">波羅</span> as "to the far shore," <span class="zh" style="font-family:'PingFang TC',serif">薩婆訶</span> as "swift accomplishment" — but read as a call to move rather than an announcement that the moving is already done.</p>
+      </div>
     </div>
 
-    <p class="source-cite">Source for these notes: Venerable Yin Shun (印順導師), 般若波羅蜜多心經講記, in 般若經講記 (妙雲集) — cited as a reference, not translated. Read the source at <a href="https://cbetaonline.dila.edu.tw/zh/Y0001_003" target="_blank" rel="noopener">CBETA, Y0001篇章三</a>. See also this site's <a href="/dharma/translation-method/">note on translation method</a> for how Ru-Yi works with primary sources.</p>
+    <p class="source-cite">Source for these notes: Venerable Yin Shun (印順導師), 般若波羅蜜多心經講記, in 般若經講記 (妙雲集) — quoted and translated here, with reading notes of Ru-Yi's own composition. Read the source at <a href="https://cbetaonline.dila.edu.tw/zh/Y0001_003" target="_blank" rel="noopener">CBETA, Y0001篇章三</a>. See also this site's <a href="/dharma/translation-method/">note on translation method</a> for how Ru-Yi works with primary sources.</p>
   </section>
 
   </main><!-- /pv-main -->
