@@ -83,7 +83,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
       <div class="scbl-panel" data-rv>
         <h2>How to read this collection</h2>
         <p>Zhiyi delivered this treatise as oral lectures, recorded directly by his disciple Guanding as the Master spoke — unlike Zhiyi's other two meditation treatises, this one was never revised into a second, polished pass. It opens with a long account of the teaching's own lineage, back through Zhiyi's teachers to Nāgārjuna and the twenty-four Indian patriarchs, before naming ten framing sections for the whole treatise and working through the first of them, the great intent, at very great length.</p>
-        <p>This translation is in progress. Fascicles 1 through 3 are complete, covering the treatise's origin, its three kinds of calming-and-contemplation, the whole of topic one (the great intent, including the celebrated Four Kinds of Samādhi), and topics two through five — explaining the name, the essence and its marks, the scope of the teachings, and partial versus complete teachings — where the treatise's governing Four Teachings scheme (Tripiṭaka, shared, distinct, and perfect) is laid out in full. The treatise's own outline continues well beyond what these three fascicles cover — including its celebrated twenty-five preliminary conditions and ten objects of contemplation — and remains to be translated.</p>
+        <p>This translation is in progress. Fascicles 1 through 4 are complete, covering the treatise's origin, its three kinds of calming-and-contemplation, the whole of topic one (the great intent, including the celebrated Four Kinds of Samādhi), topics two through five — explaining the name, the essence and its marks, the scope of the teachings, and partial versus complete teachings — where the treatise's governing Four Teachings scheme (Tripiṭaka, shared, distinct, and perfect) is laid out in full, and topic six, the preliminary expedients, given in full as the celebrated twenty-five preliminary conditions. The treatise's own outline continues well beyond what these four fascicles cover — including its famous ten objects of contemplation — and remains to be translated.</p>
       </div>
       <div class="scbl-panel" data-rv style="transition-delay:.08s">
         <h2>What each fascicle page includes</h2>
@@ -94,7 +94,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
         </ul>
         <div class="scbl-stats">
           <div class="scbl-stat"><b>10</b> fascicles in the Chinese treatise</div>
-          <div class="scbl-stat"><b>3</b> fascicles complete so far</div>
+          <div class="scbl-stat"><b>4</b> fascicles complete so far</div>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
     <div class="scbl-wrap">
       <div class="scbl-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Fascicles 1 through 3 are complete. Use this as the table of contents for the whole treatise as translation continues — completed fascicles link to Ru-Yi's own translation, and the rest link to the CBETA source text in the meantime.</p>
+        <p>Fascicles 1 through 4 are complete. Use this as the table of contents for the whole treatise as translation continues — completed fascicles link to Ru-Yi's own translation, and the rest link to the CBETA source text in the meantime.</p>
       </div>
 
       <div class="scbl-featured">
@@ -122,6 +122,11 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
           <span class="tag">Fascicle 3 · Topics 2–5 complete</span>
           <h3>The Four Teachings, Laid Out in Full</h3>
           <p>Explaining the name (mutual opposition, the absolute, reconciling different names, pervading the three virtues — including the famous letter <em>i</em>), the essence and its marks (the Two and Three Truths across the Tripiṭaka, shared, distinct, and perfect teachings), the scope of the teachings gathered in (the Five Flavors and the giant sūtra hidden in a mote of dust), and partial versus complete teachings (gradual and sudden, the provisional and the real).</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.18s">
+          <span class="tag">Fascicle 4 · Topic 6 complete</span>
+          <h3>The Twenty-Five Preliminary Conditions</h3>
+          <p>The whole of topic six, the preliminary expedients, in exhaustive practical detail — fulfilling the five conditions (purity in upholding the precepts, with its rākṣasa parable and four-part confession rite; sufficiency of robes and food; a quiet place; freedom from entanglements; a good friend), rebuking the five desires, abandoning the five hindrances (including the eighty-four thousand afflictions and "all dharmas converge in the matter of desire"), regulating the five things, and practicing the five methods, closing with the story of Sadāprarudita.</p>
         </div>
       </div>
 
@@ -145,6 +150,12 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
           <span class="vol-num">Fascicle {{ i }}</span>
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">Topics two through five — explaining the name, the essence and its marks, the scope of the teachings, and partial versus complete teachings — covered by scroll 3 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">摩訶止觀</span>.</span>
+        </a>
+        {% elsif i == 4 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/mohe-zhiguan/fascicle-004/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Topic six, the preliminary expedients — the twenty-five preliminary conditions in full — covered by scroll 4 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">摩訶止觀</span>.</span>
         </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/zh/T1911_{{ padded }}" target="_blank" rel="noopener" data-rv>
@@ -176,6 +187,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
         <div class="term"><b>析法 / 體法 — analysis / embodying</b><span>Two routes to emptiness: breaking a real thing down until nothing remains, versus recognizing it was never solid to begin with — the Hīnayāna and Mahāyāna methods respectively.</span></div>
         <div class="term"><b>伊字三點 — the letter <em>i</em></b><span>The Nirvāṇa Sūtra's own image for the three virtues: three points in triangular arrangement, neither vertically sequential nor horizontally separate.</span></div>
         <div class="term"><b>五味 — the Five Flavors</b><span>Milk, cream, curdled butter, clarified butter, ghee — mapping five ways of contemplating mind onto five bodies of scripture, the seed of the later Five Periods doctrine.</span></div>
+        <div class="term"><b>二十五法 — the twenty-five preliminary conditions</b><span>Five groups of five — conditions, desires rebuked, hindrances abandoned, things regulated, methods practiced — laid out in full in fascicle 4 as the treatise's own bridge from doctrine to daily conduct.</span></div>
       </div>
     </div>
   </section>
