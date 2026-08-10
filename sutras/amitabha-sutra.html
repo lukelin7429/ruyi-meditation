@@ -1,0 +1,619 @@
+---
+layout: default
+title: The Amitābha Sūtra — the Shorter Sukhāvatīvyūha
+permalink: /sutras/amitabha-sutra.html
+excerpt: Ru-Yi's reading guide, side-by-side Chinese–English translation, and self-check quiz for the Amitābha Sūtra (佛說阿彌陀經) — Kumārajīva's 5th-century translation, with reading notes drawn from Ouyi Zhixu's 1647 彌陀要解.
+---
+
+<style>
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle .lede{font-size:19px;color:var(--ink);border-left:2px solid var(--terra);padding-left:18px;margin:0 0 20px;}
+  .fascicle table{width:100%;border-collapse:collapse;margin:16px 0 22px;font-size:16px;}
+  .fascicle th,.fascicle td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--muted);}
+  .fascicle th{background:#f6efe2;color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+
+  .glance{background:#f6efe2;border-left:3px solid var(--ink);padding:22px 26px;margin:26px 0 6px;font-size:16px;}
+  .glance dl{display:grid;grid-template-columns:130px 1fr;gap:9px 16px;margin:0;}
+  .glance dt{color:var(--muted);font-weight:700;}
+  .glance dd{color:var(--ink);margin:0;}
+
+  .terms{background:#fdf9f1;border:1px solid var(--line);padding:22px 24px;border-radius:6px;font-size:16px;}
+  .terms .term{margin-bottom:14px;}
+  .terms .term:last-child{margin-bottom:0;}
+  .terms .pali-word{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-weight:700;color:var(--ink);}
+
+  .translation-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px;}
+  .translation-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.translation-row{grid-template-columns:1fr 1.08fr;}}
+  .source,.translation{border:1px solid var(--line);border-radius:8px;padding:20px 22px;background:#fffdf8;}
+  .translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:10px;}
+  .translation .label{color:var(--jade);}
+  .source p{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:#382a20;font-size:19px;line-height:1.9;margin:0;}
+  .translation p{font-family:'Playfair Display',Georgia,serif;font-style:italic;color:var(--ink);font-size:17px;line-height:1.75;margin:0;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:20px;border-radius:0 6px 6px 0;}
+  .note-box .who{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:10px;}
+  .note-box p{margin:0;font-size:16px;color:#5c4a2a;line-height:1.75;}
+  .note-box p+p{margin-top:12px;}
+
+  .mantra-box{background:#f7f2ea;border-left:3px solid var(--terra);padding:22px 26px;border-radius:0 6px 6px 0;margin-top:16px;}
+  .mantra-box .zh{font-size:22px;color:var(--ink);margin-bottom:12px;line-height:1.6;}
+  .mantra-box .translit{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-size:19px;color:var(--terra-deep);margin-bottom:10px;}
+  .mantra-box .en{font-size:16px;color:var(--muted);}
+  .ending-mark{text-align:center;color:var(--terra);letter-spacing:.8em;margin:28px 0 0;font-size:19px;}
+
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  .resources{font-size:16px;}
+  .resources a{color:var(--terra-deep);text-decoration:underline;text-underline-offset:3px;}
+  .resources li{margin-bottom:10px;}
+
+  /* Quiz */
+  .quiz{background:#fdf9f1;border:1px solid var(--line);border-radius:8px;padding:26px 26px;}
+  .quiz .q{padding:18px 0 20px;border-bottom:1px solid var(--line);}
+  .quiz .q:first-of-type{padding-top:2px;}
+  .quiz .q:last-of-type{border-bottom:0;padding-bottom:2px;}
+  .quiz .q-num{display:inline-block;font-family:'Playfair Display',Georgia,serif;font-size:13px;letter-spacing:.1em;color:var(--terra);text-transform:uppercase;margin-bottom:6px;}
+  .quiz .q-text{font-size:18px;color:var(--ink);margin-bottom:14px;line-height:1.5;}
+  .quiz .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:6px;padding:11px 16px;margin-bottom:8px;font-size:16px;color:var(--ink);cursor:pointer;font-family:inherit;line-height:1.5;transition:background .12s,border-color .12s;}
+  .quiz .opt:hover:not(:disabled){background:#f6efe2;border-color:var(--terra);}
+  .quiz .opt:disabled{cursor:default;}
+  .quiz .opt.correct{background:#eef5ec;border-color:#7ba374;color:#2d5a2a;}
+  .quiz .opt.wrong{background:#fbf1ef;border-color:#c87b6f;color:#7a3a31;}
+  .quiz .opt.correct::after{content:"  ✓";color:#4f7a4b;font-weight:700;}
+  .quiz .opt.wrong::after{content:"  ✗";color:#c87b6f;font-weight:700;}
+  .quiz .expl{display:none;margin-top:12px;padding:12px 16px;background:#fff;border-left:2px solid var(--gold);font-size:15px;color:var(--muted);line-height:1.65;border-radius:0 4px 4px 0;}
+  .quiz .expl.show{display:block;}
+  .quiz .expl strong{color:var(--ink);}
+  .score-bar{margin-top:20px;padding:14px 18px;background:#fff;border:1px solid var(--line);border-radius:6px;font-size:15px;color:var(--muted);text-align:center;}
+  .score-bar strong{color:var(--ink);font-size:17px;}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Sūtras</a> › The Amitābha Sūtra</nav>
+      <div class="fascicle-kicker">Mahāyāna · Pure Land</div>
+      <h1>The Amitābha Sūtra</h1>
+      <p class="subtitle"><em>the shorter Sukhāvatīvyūha</em><span class="zh">《佛說阿彌陀經》</span></p>
+      <p class="lede">A reading guide, a clause-by-clause Chinese–English translation, and reading notes drawn from Ouyi Zhixu's 1647 <em>彌陀要解</em> — for the sūtra chanted daily wherever the Pure Land practice of reciting Amitābha's name is followed.</p>
+      <div class="fascicle-meta">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T366 · Kumārajīva's translation, 402 CE</span>
+        <span class="fascicle-pill">Commentary guide: Ouyi Zhixu's 彌陀要解 (1647)</span>
+        <span class="fascicle-pill">Status: complete</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <div class="glance">
+        <dl>
+          <dt>Sanskrit</dt><dd>The shorter <em>Sukhāvatīvyūha Sūtra</em> — "the display of the Land of Bliss"</dd>
+          <dt>Chinese</dt><dd><span class="zh">《佛說阿彌陀經》</span>, translated by Kumārajīva (<span class="zh">鳩摩羅什</span>), 402&nbsp;CE — the version chanted daily wherever the Pure Land recitation practice (<em>nianfo</em>) is followed</dd>
+          <dt>Tradition</dt><dd>Mahāyāna — the Pure Land (<span class="zh">淨土</span>) tradition</dd>
+          <dt>Speaker</dt><dd>Śākyamuni Buddha, addressing the elder Śāriputra — entirely unprompted, without any disciple's question</dd>
+          <dt>Length</dt><dd>~1,850 Chinese characters — short enough to read in one sitting, and built almost entirely around a single practice</dd>
+          <dt>Difficulty</dt><dd>★★☆☆☆ to read — the prose is plain and deliberately repetitive. The real difficulty is not comprehension but the sūtra's own central claim, which it calls "the teaching hardest to believe in the whole world."</dd>
+        </dl>
+      </div>
+
+      <section class="fascicle-section">
+        <h2>Why the Amitābha Sūtra</h2>
+        <p class="lede">
+          Of all the scriptures on this site, this is the shortest one built around a single practical instruction rather than a philosophical argument. Where the Heart Sūtra empties every category the mind can hold, and the Diamond Sūtra dismantles every fixed view a bodhisattva might cling to, the Amitābha Sūtra does something almost the opposite: it describes an actual place, names an actual buddha presiding there, and tells you exactly what to do to get there. That plainness is precisely what has made it, for over a thousand years, the most widely recited scripture in East Asian Buddhism — and also the one Śākyamuni himself calls, in its closing lines, the hardest teaching in the world to believe.
+        </p>
+        <p>
+          This guide exists to walk through why that is — why a sūtra this direct in its instructions is also the one the tradition treats as requiring the deepest faith to accept.
+        </p>
+
+        <h3>The teaching in one sentence</h3>
+        <p>
+          West of this world, past countless buddha-lands, there is a real place called Utmost Bliss, presided over by a buddha of boundless light and boundless life; anyone who holds that buddha's name in mind with sincerity and an undistracted heart — even for as little as a single day — will be met by him at the hour of death and carried there, a place from which, once arrived, there is no falling back.
+        </p>
+
+        <h3>An unasked-for sūtra</h3>
+        <p>
+          Nearly every sūtra in the Buddhist canon opens with someone asking a question — a disciple puzzled about suffering, a bodhisattva wondering how to practice, a layperson wanting to know how to live. Traditional Buddhist scholarship classifies scripture by literary form into twelve types, and one of the rarer types is <em>anupṛcchā</em> — a teaching the Buddha speaks entirely on his own initiative, unprompted by any question at all. This sūtra is one of the clearest examples. Śāriputra does not ask; the Buddha simply turns to him and begins describing a world he has not been asked about. The tradition reads this as significant: this teaching lay so far outside what anyone in the assembly would have thought to ask that only the Buddha's own unprompted compassion could introduce it.
+        </p>
+
+        <h3>Ouyi's frame: faith, vow, and practice</h3>
+        <p>
+          The most influential lens brought to this sūtra in the last four centuries belongs to the Ming-dynasty monk Ouyi Zhixu (<span class="zh">蕅益智旭</span>, 1599–1655), whose 1647 commentary, the <em>Yaojie</em> (<span class="zh">彌陀要解</span>, "Essential Explanation"), organizes the entire text around three terms he takes as its cardinal principle: <strong>faith</strong> (<span class="zh">信</span>), <strong>vow</strong> (<span class="zh">願</span>), and <strong>practice</strong> (<span class="zh">行</span>) — the last of which, for this sūtra, means specifically holding fast to Amitābha's name. His governing claim, stated here in Ru-Yi's own paraphrase rather than a direct quotation, is roughly this: whether one attains rebirth in that land at all depends entirely on whether faith and vow are genuinely present; the grade or depth of the rebirth one attains depends on how deeply one has practiced the holding of the name. Faith and vow open the door; practice determines how far into the house one walks. That three-part structure — sometimes called the "three provisions" (<span class="zh">三資糧</span>) for the path — is the thread this guide follows through the translation below.
+        </p>
+
+        <h3>A real place, not only a state of mind</h3>
+        <p>
+          One recurring question, both historically and among readers today, is how literally to take the sūtra's geography. Ouyi reads "west from here, past a hundred thousand million buddha-lands" as exactly what it says — a specific, real place, not a metaphor for an inner state — and he argues against collapsing Sukhāvatī into a purely psychological "Pure Land is only the pure mind" (<span class="zh">唯心淨土</span>) reading, which he considers an evasion of the text's plain claim. Other commentators handle this tension differently. Zhuhong (<span class="zh">蓮池大師</span>, 1535–1615), writing his own encyclopedic commentary the <em>Shuchao</em> (<span class="zh">彌陀疏鈔</span>) roughly a century before Ouyi, holds that the external land and the practitioner's own buddha-nature are not in competition — that Sukhāvatī is both a real place and, at the deepest level, not separate from mind. This guide does not adjudicate between these positions; both remain live within the tradition, and the sūtra's own language supports a literal reading without settling every metaphysical question a later reader might bring to it.
+        </p>
+
+        <h3>What "holding the name" asks of you</h3>
+        <p>
+          The sūtra's central instruction — hold Amitābha's name in mind for one to seven days with a mind that is <span class="zh">一心不亂</span>, "one-pointed and undistracted" — is worth being precise, and honest, about. The text itself does not say whether "one day... up to seven days" describes a literal ceiling (achieve this within a week or it has not worked) or is better read as open-ended shorthand for "however long it takes, from the least to the most." Both readings exist in the tradition; the later liturgical retreat practice of an intensive seven-day recitation session (<span class="zh">打佛七</span>) took this passage as its scriptural basis, treating the number more literally than every commentator has been willing to. Commentators, including Ouyi, additionally distinguish two depths within "one-pointed and undistracted" that the bare sūtra text does not itself spell out: a phenomenal one-pointedness (<span class="zh">事一心</span>), meaning sustained, unbroken recitation without the mind wandering, and a noumenal one-pointedness (<span class="zh">理一心</span>), meaning a mind that has also penetrated the empty, non-dual nature of the buddha being recited and the one reciting. That two-tier distinction is a commentarial addition worth knowing as an addition — a later interpretive tool laid over the text, not a division the sūtra draws itself.
+        </p>
+
+        <h3>Difficult to believe, not difficult to understand</h3>
+        <p>
+          Near its close, the sūtra has Śākyamuni say plainly that what he has just taught is "the Dharma that the whole world finds hard to believe" (<span class="zh">一切世間難信之法</span>) — and it is worth being precise about where that difficulty is said to lie. It is not the prose, which stays plain and repeats itself by design. Ouyi's reading is that the difficulty sits in the claim itself: that sustained, sincere recitation of a name, without first mastering doctrine or completing lifetimes of austere practice, secures rebirth into a state of guaranteed, irreversible progress toward buddhahood. For a mind trained to assume the more effortful path must be the truer one, that is a hard thing to accept at face value — which is also, on this reading, exactly why the sūtra stages six directions' worth of buddhas testifying to it, rather than resting on Śākyamuni's word alone.
+        </p>
+
+        <h3>How to actually use this text</h3>
+        <p>Three ways in, from lightest to deepest:</p>
+        <ol>
+          <li><strong>Read it as description.</strong> On a first pass, let the sūtra's repeated refrains — "accomplished with just such adornments of merit" — build up a picture, the way a litany builds rather than argues.</li>
+          <li><strong>Recite the name.</strong> The practice this sūtra describes is not abstract: it is the recitation of <em>Námó Ēmítuófó</em> (<span class="zh">南無阿彌陀佛</span>), "homage to Amitābha Buddha," held with as undistracted a mind as you can bring to it, for however long you sit.</li>
+          <li><strong>Sit with one line.</strong> "Whether one is reborn depends on faith and vow" is worth holding in meditation on its own — not as doctrine to accept or reject on the spot, but as a question about what you actually trust.</li>
+        </ol>
+
+        <h3>Three questions Western students often ask</h3>
+        <p><strong>"Doesn't praying to be reborn in a paradise contradict Buddhism's core teachings on non-self and emptiness?"</strong> This tension is real and has been debated within the tradition itself, not only by outside readers. The standard Pure Land answer, which Ouyi and others develop at length, is that recitation practiced with genuine faith and vow is not a request granted by an external power in the way a petition is granted, but a cause set in motion — the sūtra's own logic is causal (this practice, this result) rather than transactional. Whether that fully resolves the tension with teachings on non-self is a question the tradition continues to hold open rather than treat as settled.</p>
+        <p><strong>"Do I have to believe this cosmology literally for the practice to mean anything?"</strong> Commentators disagree, as noted above. You can read the sūtra's geography as literally as Ouyi does, or lean toward Zhuhong's more integrated mind-and-place reading, and the core instruction — hold the name, cultivate an undistracted mind — remains available either way.</p>
+        <p><strong>"Isn't this too easy compared to the difficulty of Buddhist practice described elsewhere?"</strong> The sūtra anticipates this exact objection by calling itself "hard to believe" rather than "hard to do." The apparent simplicity of the instruction is precisely what the text expects readers to find suspicious — and precisely what it spends its final section defending.</p>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Key Terms</h2>
+        <div class="terms">
+          <div class="term"><span class="pali-word">Sukhāvatī</span> <span class="zh">極樂</span> — "Utmost Bliss," Amitābha's land, said to lie a hundred thousand million buddha-lands to the west.</div>
+          <div class="term"><span class="pali-word">Amitābha / Amitāyus</span> <span class="zh">阿彌陀</span> — the buddha of Sukhāvatī, whose single Chinese transliteration collapses two Sanskrit roots: <em>amitābha</em>, "infinite light," and <em>amitāyus</em>, "infinite life."</div>
+          <div class="term"><span class="pali-word">avaivartika</span> <span class="zh">阿鞞跋致</span> — non-retrogressing. A practitioner at this stage cannot fall back from progress toward buddhahood.</div>
+          <div class="term"><span class="pali-word">ekajātipratibaddha</span> <span class="zh">一生補處</span> — "bound by one more birth": a bodhisattva who will become a buddha after only one further rebirth, the rank presently held by Maitreya.</div>
+          <div class="term"><span class="pali-word">執持名號</span> — holding fast to the name. The sūtra's central practice: the recitation of Amitābha's name.</div>
+          <div class="term"><span class="pali-word">一心不亂</span> — one mind, undistracted. The quality of mind the sūtra asks of the practitioner while reciting; later commentators split this into phenomenal (<span class="zh">事一心</span>) and noumenal (<span class="zh">理一心</span>) levels.</div>
+          <div class="term"><span class="pali-word">信願行</span> — faith, vow, practice. Ouyi Zhixu's own three-part framework for what secures rebirth in Sukhāvatī.</div>
+          <div class="term"><span class="pali-word">五濁惡世</span> — the evil age of the five turbidities: of the kalpa, of views, of afflictions, of beings, and of lifespan — the degenerate conditions the sūtra names as the setting of Śākyamuni's own teaching career.</div>
+          <div class="term"><span class="pali-word">護念</span> — kept in mind and protected — the state the sūtra promises to anyone who hears and holds it, or hears the names of the witnessing buddhas.</div>
+        </div>
+      </section>
+
+      <div class="rn-divider"><h2>The Translation</h2></div>
+
+      <section class="fascicle-section">
+        <p class="lede">
+          The Chinese below is Kumārajīva's translation of 402&nbsp;CE (<span class="zh">鳩摩羅什</span>, Taishō T366), sourced here from a public-domain digital edition of the Taishō text and reproduced in full alongside a fresh English translation made directly from this Chinese for Ru-Yi — without reference to any existing English translation, including older public-domain ones, which are noted only as historical context where relevant. The reading note after each passage draws on Ouyi Zhixu's (<span class="zh">蕅益智旭</span>, 1599–1655) 1647 <em>彌陀要解</em>, a commentary written over three and a half centuries ago and long in the public domain. It is presented here in Ru-Yi's own words as a guide to the sūtra's traditional interpretation — not reproduced or translated in full — and, where other classical commentators read a passage differently, that divergence is noted rather than smoothed over.
+        </p>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>1. The Assembly</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>如是我聞：一時，佛在舍衛國衹樹給孤獨園，與大比丘僧千二百五十人俱，皆是大阿羅漢，眾所知識。長老舍利弗、摩訶目犍連、摩訶迦葉、摩訶迦旃延、摩訶俱絺羅、離婆多、周利槃陀伽、難陀、阿難陀、羅睺羅、憍梵波提、賓頭盧頗羅墮、迦留陀夷、摩訶劫賓那、薄拘羅、阿㝹樓馱，如是等諸大弟子。并諸菩薩摩訶薩——文殊師利法王子、阿逸多菩薩、乾陀訶提菩薩、常精進菩薩——與如是等諸大菩薩，及釋提桓因等無量諸天大眾俱。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Thus have I heard: at one time the Buddha was staying at Jetavana, in Anāthapiṇḍada's Park in the country of Śrāvastī, together with a great assembly of monks, twelve hundred and fifty in all, every one of them a great arhat known and recognized by all. Among them were the elders Śāriputra, Mahāmaudgalyāyana, Mahākāśyapa, Mahākātyāyana, Mahākauṣṭhila, Revata, Cūḍapanthaka, Nanda, Ānanda, Rāhula, Gavāṃpati, Piṇḍola Bharadvāja, Kālodāyin, Mahākapphiṇa, Vakkula, and Aniruddha — great disciples such as these. And with them were great bodhisattvas: the Dharma Prince Mañjuśrī, the bodhisattva Ajita, the bodhisattva Gandhahastin, the bodhisattva Nityodyukta — great bodhisattvas such as these, together with Śakra, chief of the gods, and an immeasurable host of the assembled devas.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>East Asian exegesis traditionally reads a sūtra's opening through six recurring markers — faith, hearing, time, host, place, assembly — that establish the account as trustworthy before a word of the actual teaching begins. Ouyi's own attention falls on one detail beyond this standard frame: that the assembly is composed entirely of arhats "known and recognized by all" (<span class="zh">眾所知識</span>). Because the teaching about to be given is, by the sūtra's own later admission, the hardest in the canon to believe, he reads the deliberate presence of an assembly of unimpeachable standing — rather than, say, an audience of newer or lesser-known disciples — as itself part of how the text builds credibility before the claim is even made.</p>
+          <p>He also notes the shape of what is <em>not</em> here: no one asks a question. Śāriputra, addressed directly and without prompting, is chosen — as in the Heart Sūtra — as the disciple foremost in wisdom, so that even analytical strength finds this teaching addressed to it rather than originating from it.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>2. Why It Is Called "Utmost Bliss"</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>爾時，佛告長老舍利弗：「從是西方過十萬億佛土，有世界名曰極樂。其土有佛，號阿彌陀，今現在說法。舍利弗！彼土何故名為極樂？其國眾生無有眾苦，但受諸樂，故名極樂。又舍利弗！極樂國土，七重欄楯、七重羅網、七重行樹，皆是四寶周帀圍繞，是故彼國名為極樂。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>Then the Buddha said to the elder Śāriputra: "West from here, past a hundred thousand million buddha-lands, there is a world named Utmost Bliss. In that land there is a buddha called Amitābha, who is teaching the Dharma there right now. Śāriputra, why is that land called Utmost Bliss? Because the beings born in that country have no suffering of any kind and experience only joy — that is why it is called Utmost Bliss. And Śāriputra, the land of Utmost Bliss is everywhere encircled by seven tiers of railings, seven tiers of netting, and seven rows of trees, all made of the four treasures — this too is why that land is called Utmost Bliss."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>Ouyi takes "a hundred thousand million buddha-lands" as a specific, literal distance rather than poetic exaggeration — for him, the land's concreteness is the whole point, and he argues directly against collapsing it into a purely inward "Pure Land is only the pure mind" reading. As noted above, Zhuhong's <em>Shuchao</em> takes a more integrating position, holding the external land and the practitioner's own mind-nature as not mutually exclusive. Both readings remain current in the tradition.</p>
+          <p>On the double naming — "utmost bliss" explained first by the absence of suffering, then again by physical adornment — Ouyi reads the sūtra as answering two different orders of doubt at once: that beings there might still suffer in some subtle way (answered by "no suffering of any kind"), and that the description might be only allegorical (answered by specific, countable, material features — railings, nets, rows of trees).</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>3. The Jeweled Ponds and Lotus Flowers</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「又舍利弗！極樂國土有七寶池，八功德水充滿其中，池底純以金沙布地。四邊階道，金、銀、琉璃、玻瓈、合成；上有樓閣，亦以金、銀、琉璃、玻瓈、硨磲、赤珠、瑪瑙而嚴飾之。池中蓮華，大如車輪，青色青光，黃色黃光，赤色赤光，白色白光，微妙香潔。舍利弗！極樂國土成就如是功德莊嚴。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"And Śāriputra, the land of Utmost Bliss has ponds of seven jewels, filled with water possessing eight virtues; the floor of each pond is spread with pure golden sand. On all four sides are stairways made of gold, silver, lapis lazuli, and crystal; above stand pavilions likewise adorned with gold, silver, lapis lazuli, crystal, mother-of-pearl, red pearls, and carnelian. In the ponds are lotus flowers as large as carriage wheels — blue flowers with blue light, yellow flowers with yellow light, red flowers with red light, white flowers with white light — each one subtle, wondrous, fragrant, and pure. Śāriputra, the land of Utmost Bliss is accomplished with just such adornments of merit."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>The traditional gloss of "eight virtues" (<span class="zh">八功德水</span>) lists the water as clear, cool, sweet, light, soft, harmonious, and — when drunk — settling to hunger and thirst while nourishing the roots of goodness. Ouyi's recurring point across this whole descriptive stretch of the sūtra is that the refrain "accomplished with just such adornments of merit" is not decorative language: each feature of the land is presented as the direct fruit of Amitābha's own cultivated vows, not naturally occurring scenery. The land, on this reading, is itself a teaching device — its beauty is functional, not incidental.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>4. Heavenly Music and the Ceaseless Offering</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「又舍利弗！彼佛國土，常作天樂，黃金為地，晝夜六時，雨天曼陀羅華。其土眾生，常以清旦，各以衣裓盛眾妙華，供養他方十萬億佛；即以食時，還到本國，飯食經行。舍利弗！極樂國土成就如是功德莊嚴。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"And Śāriputra, in that buddha-land heavenly music is always playing, the ground is made of gold, and in each of the six periods of the day and night a rain of heavenly māndārava flowers falls. Each morning, at first light, the beings of that land fill the folds of their robes with these wondrous flowers and make offerings to the hundred thousand million buddhas of other worlds; then, in time for the midday meal, they return to their own land, take their meal, and walk in mindful exercise. Śāriputra, the land of Utmost Bliss is accomplished with just such adornments of merit."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>"The six periods of day and night" is an old Indian division of time — three watches by day, three by night. Ouyi's point in retaining it here: even in a land without any material need for time to structure labor or suffering, time still structures continuous practice and offering — leisure in Sukhāvatī is not idleness, but uninterrupted cultivation.</p>
+          <p>He also draws attention to the ease of the morning offering-round: beings travel to a hundred thousand million other buddha-lands and return in time for a midday meal. Read against the effortful travel of ordinary existence, this unobstructed mobility is meant to illustrate what a mind free of grasping and heaviness can do — not as a display of magic for its own sake.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>5. The Birds That Preach the Dharma</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「復次舍利弗！彼國常有種種奇妙雜色之鳥——白鶴、孔雀、鸚鵡、舍利、迦陵頻伽、共命之鳥。是諸眾鳥，晝夜六時出和雅音，其音演暢五根、五力、七菩提分、八聖道分如是等法。其土眾生聞是音已，皆悉念佛、念法、念僧。舍利弗！汝勿謂此鳥實是罪報所生。所以者何？彼佛國土無三惡道。舍利弗！其佛國土尚無三惡道之名，何況有實？是諸眾鳥，皆是阿彌陀佛欲令法音宣流，變化所作。舍利弗！彼佛國土微風吹動，諸寶行樹及寶羅網出微妙音，譬如百千種樂同時俱作，聞是音者，自然皆生念佛念法念僧之心。舍利弗！其佛國土成就如是功德莊嚴。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"Furthermore, Śāriputra, that land always has flocks of rare and wondrous birds of every color — white cranes, peacocks, parrots, śārikas, kalaviṅkas, and birds of shared life. Throughout the six periods of day and night these birds send out a gentle, elegant call, and their call proclaims the five faculties, the five powers, the seven factors of awakening, the eightfold noble path, and teachings such as these. Hearing this call, the beings of that land all become mindful of the Buddha, mindful of the Dharma, mindful of the Saṅgha. Śāriputra, do not think that these birds are actually born from the karmic retribution for wrongdoing. And why? Because that buddha-land has no three lower paths of rebirth at all. Śāriputra, that buddha-land does not even have the name of the three lower paths — how much less could they actually exist there? All these birds are transformations conjured by Amitābha Buddha, so that the sound of the Dharma might spread and flow. Śāriputra, in that buddha-land, when a gentle breeze moves, the rows of jeweled trees and the jeweled nets send out a subtle, wondrous sound, like a hundred thousand kinds of music playing all at once; and everyone who hears that sound naturally gives rise to a mind mindful of the Buddha, mindful of the Dharma, mindful of the Saṅgha. Śāriputra, that buddha-land is accomplished with just such adornments of merit."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>The sūtra pre-empts its own obvious objection: in ordinary Buddhist cosmology, birth as an animal is a lower rebirth destination born of unwholesome karma, so how could a land free of suffering be full of birds? Ouyi reads the Buddha's own clarification — these are Amitābha's conjured emanations, not karmically-born creatures — as evidence of how carefully the text guards against a literalist misreading at exactly the point a careful listener would raise it.</p>
+          <p>Zhuhong's <em>Shuchao</em> draws out a subtler layer in the line "does not even have the name of the three lower paths, how much less the reality" — reading it as addressing a further doubt: that merely speaking a word for evil might, in some sense, retain a trace of it. The absence of even the concept, not only the thing, is offered as the fuller answer.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>6. Why He Is Called Amitābha: Light and Life</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「舍利弗，於汝意云何？彼佛何故號阿彌陀？舍利弗！彼佛光明無量，照十方國無所障礙，是故號為阿彌陀。又舍利弗！彼佛壽命及其人民，無量無邊阿僧祇劫，故名阿彌陀。舍利弗！阿彌陀佛成佛以來，於今十劫。又舍利弗！彼佛有無量無邊聲聞弟子，皆阿羅漢，非是算數之所能知；諸菩薩眾，亦復如是。舍利弗！彼佛國土成就如是功德莊嚴。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"Śāriputra, what do you think? Why is that buddha called Amitābha? Śāriputra, that buddha's light is immeasurable, shining on the lands of the ten directions without obstruction — this is why he is called Amitābha, Infinite Light. And Śāriputra, the lifespan of that buddha, and of his people, extends for immeasurable, boundless asaṃkhyeya kalpas — this too is why he is named Amitābha, Infinite Life. Śāriputra, it has now been ten kalpas since Amitābha Buddha attained buddhahood. And Śāriputra, that buddha has immeasurable, boundless śrāvaka disciples, every one of them an arhat, a number beyond what any reckoning could know; and his host of bodhisattvas is just the same. Śāriputra, that buddha-land is accomplished with just such adornments of merit."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>The single Chinese transliteration "Amitābha" carries two distinct Sanskrit roots at once — <em>amitābha</em>, infinite light, and <em>amitāyus</em>, infinite life — and the sūtra explains both under one name. Ouyi reads this as intentional and complementary: light expressing the buddha's boundless wisdom reaching outward across space, life expressing his boundless compassion sustained through time. Worth being honest about as a textual matter, beyond Ouyi's doctrinal reading: Sanskrit sources preserve Amitābha and Amitāyus as related but historically distinct epithets that were fused over time into a single figure; this sūtra's Chinese translation presents that fusion as settled and elegant, simplifying a more layered textual history that scholars continue to discuss.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>7. Non-Retrogression, and the Company of the Good</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「又舍利弗！極樂國土眾生生者，皆是阿鞞跋致。其中多有一生補處，其數甚多，非是算數所能知之，但可以無量無邊阿僧祇說。舍利弗！眾生聞者，應當發願，願生彼國。所以者何？得與如是諸上善人俱會一處。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"And Śāriputra, all the beings born in the land of Utmost Bliss are avaivartika, non-retrogressing. Among them a great many are bound for buddhahood after just one more birth; their number is so great that no reckoning could know it — it can only be spoken of as immeasurable, boundless asaṃkhyeyas. Śāriputra, any being who hears this should vow — should aspire to be born in that land. And why? Because there, one gets to be gathered together in one place with such supremely good people as these."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>Ouyi treats this as one of the sūtra's single most consequential sentences. On the ordinary bodhisattva path, non-retrogression (<span class="zh">阿鞞跋致</span>) ordinarily takes lifetimes of dedicated practice to secure, and a practitioner can still fall back through a serious error, a poor teacher, or an unfavorable rebirth. His argument is that birth in Sukhāvatī removes that risk of backsliding for anyone born there, regardless of the level of realization they arrive with — which is why he treats it as uniquely efficient among Buddhist paths for reaching buddhahood eventually, without claiming it is the only valid path.</p>
+          <p>He also reads "gathered together in one place with such supremely good people" as a quiet answer to a different worry: that this might describe a private, solitary paradise. Rebirth here is explicitly rebirth into community with a specific class of companions, not isolated bliss.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>8. Holding the Name with an Undistracted Mind</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「舍利弗！不可以少善根福德因緣得生彼國。舍利弗！若有善男子、善女人，聞說阿彌陀佛，執持名號，若一日、若二日、若三日、若四日、若五日、若六日、若七日，一心不亂。其人臨命終時，阿彌陀佛與諸聖眾，現在其前。是人終時，心不顛倒，即得往生阿彌陀佛極樂國土。舍利弗！我見是利，故說此言。若有眾生聞是說者，應當發願生彼國土。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"Śāriputra, one cannot be born in that land through few roots of goodness, blessings, and causes and conditions. Śāriputra, if there is a good son or good daughter who, hearing Amitābha Buddha spoken of, holds fast to that name — whether for one day, two days, three, four, five, six, or seven days — with a single, undistracted mind, then when that person's life comes to its end, Amitābha Buddha, together with the host of sages, will appear before them. And at the moment of death, that person's mind will not be inverted with confusion or fear, and they will at once attain rebirth in Amitābha Buddha's land of Utmost Bliss. Śāriputra, I see this benefit, and that is why I speak these words. If there are beings who hear this teaching, they should vow to be born in that land."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>This is the passage Ouyi's whole commentary turns on. His governing formula, given here in paraphrase: whether one attains rebirth at all depends entirely on whether faith and vow are genuinely present; the grade of the rebirth one attains depends entirely on the depth of one's practice in holding the name. Faith, vow, and practice — the "three provisions" — of which the first two determine admission, and the third determines how far one arrives.</p>
+          <p>Two honest caveats belong here rather than a confident resolution. First, "one day... up to seven days" is read by different parts of the tradition as either a literal ceiling or an open-ended figure of speech; Xuanzang's later, parallel translation of this same sūtra (Taishō T367) phrases the passage somewhat differently, and scholars have discussed what that variation implies about the underlying source material. Second, the split between phenomenal one-pointedness (<span class="zh">事一心</span>, unbroken recitation without wandering thought) and noumenal one-pointedness (<span class="zh">理一心</span>, a mind that has also seen through the emptiness of both the buddha recited and the one reciting) is supplied by commentators, Ouyi among them — it is not a distinction the bare sūtra text draws for itself.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>9. The Buddhas of the Six Directions Bear Witness</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source · East</div><p>「舍利弗！如我今者，讚歎阿彌陀佛不可思議功德之利；東方亦有阿閦鞞佛、須彌相佛、大須彌佛、須彌光佛、妙音佛，如是等恆河沙數諸佛，各於其國出廣長舌相，徧覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"Śāriputra, just as I now praise the inconceivable benefit of Amitābha Buddha's merit, so too in the east there are the buddhas Akṣobhya, Sumeru-Appearance, Great Sumeru, Sumeru-Light, and Wondrous-Sound — buddhas as numerous as the sands of the Ganges — each of whom, in his own land, puts forth the sign of the broad and long tongue, covering an entire billion-world universe, and speaks these true words: 'You beings should believe in this sūtra, praised for its inconceivable merit, that all buddhas keep in mind and protect.'"</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source · South</div><p>「舍利弗！南方世界有日月燈佛、名聞光佛、大燄肩佛、須彌燈佛、無量精進佛，如是等恆河沙數諸佛，各於其國出廣長舌相，徧覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』」</p></div>
+            <div class="translation"><p>"Śāriputra, in the world of the south there are the buddhas Sun-and-Moon-Lamp, Renowned Light, Great Blazing-Shoulders, Sumeru-Lamp, and Boundless Diligence — buddhas as numerous as the sands of the Ganges — each of whom, in his own land, puts forth the sign of the broad and long tongue, covering an entire billion-world universe, and speaks these true words: 'You beings should believe in this sūtra, praised for its inconceivable merit, that all buddhas keep in mind and protect.'"</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source · West</div><p>「舍利弗！西方世界有無量壽佛、無量相佛、無量幢佛、大光佛、大明佛、寶相佛、淨光佛，如是等恆河沙數諸佛，各於其國出廣長舌相，徧覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』」</p></div>
+            <div class="translation"><p>"Śāriputra, in the world of the west there are the buddhas Infinite Life, Infinite Appearance, Infinite Banner, Great Light, Great Brilliance, Jeweled Appearance, and Pure Light — buddhas as numerous as the sands of the Ganges — each of whom, in his own land, puts forth the sign of the broad and long tongue, covering an entire billion-world universe, and speaks these true words: 'You beings should believe in this sūtra, praised for its inconceivable merit, that all buddhas keep in mind and protect.'"</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source · North</div><p>「舍利弗！北方世界有燄肩佛、最勝音佛、難沮佛、日生佛、網明佛，如是等恆河沙數諸佛，各於其國出廣長舌相，徧覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』」</p></div>
+            <div class="translation"><p>"Śāriputra, in the world of the north there are the buddhas Blazing-Shoulders, Supreme-Sound, Unassailable, Sun-Born, and Net-of-Light — buddhas as numerous as the sands of the Ganges — each of whom, in his own land, puts forth the sign of the broad and long tongue, covering an entire billion-world universe, and speaks these true words: 'You beings should believe in this sūtra, praised for its inconceivable merit, that all buddhas keep in mind and protect.'"</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source · Below</div><p>「舍利弗。下方世界有師子佛、名聞佛、名光佛、達摩佛、法幢佛、持法佛，如是等恆河沙數諸佛，各於其國出廣長舌相，徧覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』」</p></div>
+            <div class="translation"><p>"Śāriputra, in the world below there are the buddhas Lion, Renown, Named Light, Dharma, Dharma-Banner, and Dharma-Upholder — buddhas as numerous as the sands of the Ganges — each of whom, in his own land, puts forth the sign of the broad and long tongue, covering an entire billion-world universe, and speaks these true words: 'You beings should believe in this sūtra, praised for its inconceivable merit, that all buddhas keep in mind and protect.'"</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source · Above</div><p>「舍利弗。上方世界有梵音佛、宿王佛、香上佛、香光佛、大燄肩佛、雜色寶華嚴身佛、娑羅樹王佛、寶華德佛、見一切義佛、如須彌山佛，如是等恆河沙數諸佛，各於其國出廣長舌相，徧覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』」</p></div>
+            <div class="translation"><p>"Śāriputra, in the world above there are the buddhas Brahma-Sound, King of Constellations, Supreme Fragrance, Fragrant Light, Great Blazing-Shoulders, Body Adorned with Jeweled Flowers of Every Color, King of Sāla Trees, Virtue of Jeweled Flowers, Seer of Every Meaning, and Like Mount Sumeru — buddhas as numerous as the sands of the Ganges — each of whom, in his own land, puts forth the sign of the broad and long tongue, covering an entire billion-world universe, and speaks these true words: 'You beings should believe in this sūtra, praised for its inconceivable merit, that all buddhas keep in mind and protect.'"</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>Names above are given as direct English renderings of the Chinese, except for the one universally standard Sanskrit form, Akṣobhya; the exact Sanskrit underlying most of these lesser-known buddha names is not settled enough to reconstruct with confidence, so this guide translates the Chinese epithets themselves rather than presenting invented Sanskrit as though it were established.</p>
+          <p>The "broad, long tongue" is a traditional mark of a great being: one who has never spoken falsely across many lifetimes is said to be capable of a tongue broad enough to cover the face, magnified here to cover an entire universe. Ouyi reads the sūtra's staging of six directions of near-identical testimony — not one witness but a cross-directional consensus, repeated in almost the same words six times — as intentional rather than repetitive padding: this is, by the sūtra's own later admission, the hardest teaching in the canon to accept, and the corroboration offered is built to match that difficulty. Worth noting as a genuine textual variant, not an error in either translation: Kumārajīva's version gives six directions (the four cardinal directions plus above and below, a standard East Asian cosmological scheme), while Xuanzang's later seventh-century translation of the same sūtra (T367) expands the list to ten directions, adding the four ordinal directions — a real difference between the two Chinese translations rather than an arbitrary choice by either translator.</p>
+          <p>One curiosity worth flagging rather than passing over: among the buddhas of the west is one named "Infinite Life" (<span class="zh">無量壽佛</span>) — the same epithet used for Amitābha himself. The sūtra does not comment on this, and commentators generally treat it as an instance of buddhas sharing similar epithets related to light and life rather than any identification with Amitābha.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>10. Why It Is Called "Kept in Mind by All Buddhas"</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「舍利弗！於汝意云何？何故名為『一切諸佛所護念經』？舍利弗！若有善男子、善女人，聞是經受持者，及聞諸佛名者；是諸善男子、善女人，皆為一切諸佛之所護念，皆得不退轉於阿耨多羅三藐三菩提。是故舍利弗！汝等皆當信受我語及諸佛所說。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"Śāriputra, what do you think? Why is this called the sūtra that all buddhas keep in mind and protect? Śāriputra, if there is a good son or good daughter who hears this sūtra and upholds it, or who hears the names of these buddhas, then that good son or good daughter will be kept in mind and protected by all buddhas, and will attain non-retrogression from unsurpassed, perfect, complete awakening. Therefore, Śāriputra, you should all believe and accept my words, and the words spoken by all these buddhas."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>This sūtra circulates in the Chinese tradition under two names — "the Amitābha Sūtra," by content, and, closer to Kumārajīva's own phrase here, "the sūtra of inconceivable merit that all buddhas keep in mind and protect." Ouyi reads this section as widening the promise of non-retrogression made in Section 7: there, it belonged to beings already reborn in Sukhāvatī; here, it is extended to anyone who merely hears and upholds this sūtra, or hears these buddhas' names, even before completing the practice described in Section 8. He takes this seriously as a genuine widening of the sūtra's reach, while elsewhere in his commentary cautioning against letting it be mistaken for a substitute for the practice itself.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>11. Vowing Across Past, Present, and Future</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「舍利弗！若有人已發願、今發願、當發願，欲生阿彌陀佛國者；是諸人等，皆得不退轉於阿耨多羅三藐三菩提，於彼國土若已生、若今生、若當生。是故舍利弗！諸善男子、善女人若有信者，應當發願生彼國土。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"Śāriputra, if there are people who have already made the vow, are now making the vow, or will make the vow to be born in Amitābha Buddha's land, all these people attain non-retrogression from unsurpassed, perfect, complete awakening, and with regard to that land, they have already been born, are being born now, or will be born there. Therefore, Śāriputra, any good son or good daughter who has faith should make the vow to be born in that land."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>The threefold repetition across past, present, and future — already vowed, now vowing, will vow, matched against already born, being born now, will be born — Ouyi reads as a deliberate, almost legal precision: the promise is not limited to whoever happened to be present at this one sermon, but applies to any practitioner meeting the same condition across all of time, including, he notes, readers of later ages who were not yet born when the sūtra was spoken.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>12. The Hardest Teaching to Believe</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「舍利弗！如我今者，稱讚諸佛不可思議功德；彼諸佛等，亦稱讚我不可思議功德，而作是言：『釋迦牟尼佛能為甚難希有之事，能於娑婆國土五濁惡世，劫濁、見濁、煩惱濁、眾生濁、命濁中，得阿耨多羅三藐三菩提，為諸眾生說是一切世間難信之法。』舍利弗！當知我於五濁惡世行此難事，得阿耨多羅三藐三菩提，為一切世間說此難信之法，是為甚難！」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"Śāriputra, just as I now praise the inconceivable merit of all the buddhas, those buddhas likewise praise my own inconceivable merit, speaking these words: 'Śākyamuni Buddha has been able to do an extremely difficult and rare thing — able, in the sahā world, in the evil age of the five turbidities — the turbidity of the kalpa, the turbidity of views, the turbidity of afflictions, the turbidity of beings, and the turbidity of lifespan — to attain unsurpassed, perfect, complete awakening, and, for the sake of all beings, to speak this Dharma that the whole world finds hard to believe.' Śāriputra, you should know that I, in this evil age of the five turbidities, have done this difficult thing — attaining unsurpassed, perfect, complete awakening, and speaking, for the sake of the whole world, this Dharma that is hard to believe — this indeed is extremely difficult!"</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>This passage is the source of the sūtra's reputation as the teaching hardest to believe in the entire canon, and it is worth being precise about where Ouyi locates that difficulty, since it is easy to get backward. It is not that the sūtra's structure is complicated — set beside the causal chains of Yogācāra analysis or the dialectics of Madhyamaka, this text's structure is plain. The difficulty, on his reading, sits in the listener's own habits of mind: a trained assumption that the more effortful path must be the truer one, meeting a claim that sustained, sincere recitation, without first mastering doctrine, secures guaranteed and irreversible progress. Not every commentator locates the difficulty identically — some readings emphasize instead the sheer scale of what is described, thousands of Ganges-sands buddhas and a bhūmi ten kalpas old, as what strains ordinary credulity. Both are worth holding as this text moves toward its close.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>13. The Assembly Rejoices</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>佛說此經已，舍利弗及諸比丘，一切世間天、人、阿修羅等，聞佛所說，歡喜信受，作禮而去。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>When the Buddha had finished speaking this sūtra, Śāriputra, together with the monks, and all the devas, humans, and asuras of the world, having heard what the Buddha had spoken, rejoiced, believed, and accepted it; and, making obeisance, they departed.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Ouyi Zhixu</div>
+          <p>This is the standard closing formula found at the end of nearly every sūtra — the assembly hears, rejoices, and departs having accepted the teaching. Ouyi notes one small, deliberate detail worth pausing on: the text specifically includes asuras among the joyful hearers, a class of being usually characterized in Buddhist cosmology by pride and resistance to teaching. He reads their inclusion as one more quiet signal that this teaching's promise is said to reach even those whose disposition would ordinarily make them its least receptive audience.</p>
+        </div>
+        <div class="ending-mark">· · ·</div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Appendix: The Rebirth Dhāraṇī — A Later Addition</h2>
+        <p class="lede">
+          What follows does not belong to Kumārajīva's 5th-century translation as historically transmitted, and Ouyi's <em>Yaojie</em> does not comment on it — his commentary ends at the sūtra's own closing line, above. In most printed and liturgical editions of the sūtra used in East Asian Buddhist practice today, a dhāraṇī and a short explanatory note were appended at some later point, and the two have circulated together ever since. It is presented here, honestly labeled as a later accretion to the liturgical text rather than part of the original translation, because readers encountering a printed copy of this sūtra will very likely meet it there.
+        </p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>無量壽佛　說往生淨土呪：</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>The dhāraṇī for rebirth in the Pure Land, spoken by the Buddha of Infinite Life:</p></div>
+          </div>
+        </div>
+        <div class="mantra-box">
+          <div class="zh">南無阿彌多婆夜 哆他伽多夜 哆地夜他 阿彌利都婆毘 阿彌唎哆 悉耽婆毘 阿彌唎哆 毘迦蘭哆 伽彌膩 伽伽那 抧多迦隸 莎婆訶</div>
+          <div class="translit">namo 'mitābhāya tathāgatāya tadyathā amṛtodbhave amṛtasiddhaṃbhave amṛtavikrānte amṛtavikrāntagāmini gagana kīrtīchare svāhā</div>
+          <div class="en">A dhāraṇī of homage to Amitābha, the Tathāgata — kept, like most dhāraṇī, as sound rather than as sense; a rough sense of the underlying Sanskrit runs toward "homage to Amitābha, the Thus-Come One — rising of the deathless, accomplishment of the deathless, deathless valor, one who strides in deathless valor, whose renown fills the sky, svāhā." Reconstructions of dhāraṇī syllables carry real uncertainty, and this one should be read as approximate.</div>
+        </div>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><p>誦此呪者，阿彌陀佛常住其頂，命終之後任運往生。龍樹菩薩願生安養，夢感此呪。</p></div>
+            <div class="translation"><p>Whoever recites this dhāraṇī has Amitābha Buddha constantly abiding above the crown of their head, and after death is spontaneously, effortlessly reborn there. Nāgārjuna Bodhisattva, aspiring for rebirth in the Land of Peace and Nurture, received this dhāraṇī in a dream.</p></div>
+          </div>
+          <div class="translation-row">
+            <div class="source"><p>耶舍三藏誦此呪，天平寺銹法師從耶舍三藏口受此呪。其人云：「經本外國不來。受持呪法，日夜六時各誦三七遍；晨夜澡漱，嚼楊枝，然香火，於形象前跪，合掌誦三七遍。日日恒爾，即滅四重、五逆、十惡，謗方等罪悉得除滅。現在不為一切諸邪鬼神之所惱亂，命終之後任運往生阿彌陀國。何況晝夜受持誦讀功德不可思議！」</p></div>
+            <div class="translation"><p>The Tripiṭaka Master Yaśas recited this dhāraṇī; Dhyāna Master Xiu of Tianping Monastery received it directly from Tripiṭaka Master Yaśas' own mouth. He said: "The fuller source text did not reach here from abroad. As for the practice of holding and reciting this dhāraṇī: in each of the six periods of day and night, recite it twenty-one times; at dawn and at night, rinse the mouth, chew a willow twig, light incense, kneel before an image, join the palms, and recite it twenty-one times. Doing this every single day extinguishes the four grave offenses, the five acts of immediate retribution, and the ten evils, and offenses of slandering the correct teaching are all eliminated. In this life one will not be troubled by any evil spirits, and after death one will spontaneously and effortlessly be reborn in Amitābha's land — how much more so the inconceivable merit of holding and reciting it day and night!"</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">A textual note</div>
+          <p>This closing note names its own transmission chain — a "Tripiṭaka Master Yaśas" who recited the dhāraṇī, and a Dhyāna Master Xiu of Tianping Monastery who received it from him directly — but Chinese Buddhist history records several monks whose names are transliterated as "Yaśas" (among them Buddhayaśas and Dharmayaśas), and traditional sources do not agree on which one this note refers to. Rather than assert an identification this guide cannot verify, it is left here as an open question. The dhāraṇī and this account of its transmission are best understood as a separate stream of Pure Land liturgical material that became bound to Kumārajīva's translation in later printed editions, not as part of the sūtra Ouyi comments on above.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Self-Check</h2>
+        <p style="font-size:15px;color:var(--muted);margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded — this is for your own checking.</p>
+
+        <div class="quiz" id="quiz">
+
+          <div class="q" data-correct="2">
+            <span class="q-num">Question 1 of 10</span>
+            <div class="q-text">Where does the sūtra say the land of Utmost Bliss is located, relative to our world?</div>
+            <button class="opt">Directly above, in a heaven realm</button>
+            <button class="opt">Nowhere in particular — it is purely a state of mind</button>
+            <button class="opt">West, past a hundred thousand million buddha-lands</button>
+            <button class="opt">On the summit of Mount Sumeru</button>
+            <div class="expl"><strong>Correct: C.</strong> The sūtra opens by placing the land specifically to the west, "past a hundred thousand million buddha-lands." Ouyi reads this as a literal, specific claim, not a metaphor — though other commentators, like Zhuhong, integrate the external land with the practitioner's own mind-nature rather than treating the two as opposed.</div>
+          </div>
+
+          <div class="q" data-correct="0">
+            <span class="q-num">Question 2 of 10</span>
+            <div class="q-text">Why does the sūtra say the land is called "Utmost Bliss" (<span class="zh">極樂</span>)?</div>
+            <button class="opt">Because the beings born there have no suffering of any kind, and experience only joy</button>
+            <button class="opt">Because it was named after a bodhisattva called Utmost Bliss</button>
+            <button class="opt">Because it is the most beautiful of all buddha-lands</button>
+            <button class="opt">Because rebirth there is extremely difficult to attain</button>
+            <div class="expl"><strong>Correct: A.</strong> The text gives the reason directly: "the beings of that country have no suffering of any kind, and experience only joy." A second reason — the land's physical adornments — is given immediately after, which Ouyi reads as answering a second, separate doubt about whether the description is only allegorical.</div>
+          </div>
+
+          <div class="q" data-correct="3">
+            <span class="q-num">Question 3 of 10</span>
+            <div class="q-text">The name "Amitābha" is explained in the sūtra as combining what two meanings?</div>
+            <button class="opt">Great compassion and great wisdom</button>
+            <button class="opt">The eastern buddha and the western buddha</button>
+            <button class="opt">The teacher and the taught</button>
+            <button class="opt">Infinite light (his light reaches all directions without obstruction) and infinite life (his lifespan, and his people's, is boundless)</button>
+            <div class="expl"><strong>Correct: D.</strong> One Chinese transliteration, "Amitābha," carries two distinct Sanskrit roots at once: <em>amitābha</em> (infinite light) and <em>amitāyus</em> (infinite life). The sūtra explains both under the single name — a fusion that simplifies a more layered textual history behind the two epithets.</div>
+          </div>
+
+          <div class="q" data-correct="1">
+            <span class="q-num">Question 4 of 10</span>
+            <div class="q-text">What does <em>avaivartika</em> (<span class="zh">阿鞞跋致</span>), "non-retrogressing," mean, and why does Ouyi consider its promise significant?</div>
+            <button class="opt">It means the practitioner has already become a buddha</button>
+            <button class="opt">It means one cannot fall back from progress toward buddhahood — a security that ordinarily takes lifetimes of practice to secure and can still be lost through error or an unfavorable rebirth</button>
+            <button class="opt">It refers only to bodhisattvas who have taken a vow never to speak</button>
+            <button class="opt">It means the practitioner is reborn immediately as a buddha's attendant</button>
+            <div class="expl"><strong>Correct: B.</strong> On the ordinary path, non-retrogression is hard-won and can still be lost. Ouyi's argument is that everyone born in Sukhāvatī holds this status automatically, regardless of the level of realization they arrive with — which is why he treats rebirth there as an unusually efficient guarantee of eventual buddhahood, not the only valid path to it.</div>
+          </div>
+
+          <div class="q" data-correct="2">
+            <span class="q-num">Question 5 of 10</span>
+            <div class="q-text">What does the sūtra say is required to be met by Amitābha Buddha at the moment of death?</div>
+            <button class="opt">Decades of monastic ordination and scriptural study</button>
+            <button class="opt">A single moment of sincere thought, with no further practice needed</button>
+            <button class="opt">Holding fast to Amitābha's name, for one to seven days, with a single undistracted mind</button>
+            <button class="opt">Reciting the entire sūtra from memory every day for one's whole life</button>
+            <div class="expl"><strong>Correct: C.</strong> The sūtra's central instruction: holding the name with an undistracted mind, for a period given as "one day... up to seven days." The text itself leaves genuinely open whether that range is a literal ceiling or open-ended shorthand — both readings exist in the tradition.</div>
+          </div>
+
+          <div class="q" data-correct="0">
+            <span class="q-num">Question 6 of 10</span>
+            <div class="q-text">In Ru-Yi's paraphrase of Ouyi Zhixu's central formula, what determines <em>whether</em> one is reborn in Sukhāvatī at all, versus what determines the <em>grade</em> of that rebirth?</div>
+            <button class="opt">Whether rebirth happens at all depends on faith and vow; the grade of rebirth depends on the depth of one's practice in holding the name</button>
+            <button class="opt">Both are determined solely by how many times the sūtra has been recited aloud</button>
+            <button class="opt">Whether rebirth happens depends on merit accumulated in past lives only, with no role for present practice</button>
+            <button class="opt">Neither is determined by the practitioner; both are decided entirely by Amitābha's judgment</button>
+            <div class="expl"><strong>Correct: A.</strong> This is Ouyi's organizing claim for the whole sūtra: faith and vow open the door to rebirth at all; the depth of practice in holding the name determines how far — the grade of rebirth — one arrives.</div>
+          </div>
+
+          <div class="q" data-correct="1">
+            <span class="q-num">Question 7 of 10</span>
+            <div class="q-text">Why do buddhas in six directions each "put forth the sign of the broad, long tongue" to cover a whole universe?</div>
+            <button class="opt">It is a punishment for doubting the teaching</button>
+            <button class="opt">As a traditional mark of truthful speech, used here to stage a cross-directional consensus corroborating the sūtra's claim, rather than resting on one buddha's word alone</button>
+            <button class="opt">It is a purely decorative image with no doctrinal function</button>
+            <button class="opt">It shows that the six directions are actually a single buddha in disguise</button>
+            <div class="expl"><strong>Correct: B.</strong> A being who has never spoken falsely is traditionally said to be capable of this sign. Ouyi reads the sūtra's staging of six directions of nearly identical testimony as maximal corroboration, matched to a teaching the text itself later calls the hardest in the world to believe.</div>
+          </div>
+
+          <div class="q" data-correct="3">
+            <span class="q-num">Question 8 of 10</span>
+            <div class="q-text">Besides "the Amitābha Sūtra," what alternate title does the text give itself, and what does that title promise?</div>
+            <button class="opt">"The Sūtra of the Golden Ground" — a description of the land's physical construction</button>
+            <button class="opt">"The Sūtra of the Six Directions" — a geography lesson</button>
+            <button class="opt">"The Sūtra of Non-Retrogression" — a title describing only bodhisattvas already reborn there</button>
+            <button class="opt">"The sūtra that all buddhas keep in mind and protect" — extending protection and non-retrogression to anyone who hears and upholds this sūtra, or hears the witnessing buddhas' names, even before completing the practice of holding the name</button>
+            <div class="expl"><strong>Correct: D.</strong> Ouyi reads this as a genuine widening of the sūtra's earlier promise — from those already reborn in Sukhāvatī to anyone who merely hears and holds the sūtra — while also cautioning elsewhere against mistaking this for a substitute for the actual practice.</div>
+          </div>
+
+          <div class="q" data-correct="1">
+            <span class="q-num">Question 9 of 10</span>
+            <div class="q-text">The sūtra calls itself "the Dharma that the whole world finds hard to believe." According to Ouyi's reading, where does that difficulty actually lie?</div>
+            <button class="opt">In the prose itself, which is written in unusually dense, technical language</button>
+            <button class="opt">Not in the complexity of the text, but in accepting that sincere, sustained recitation — without first mastering doctrine or completing lifetimes of austere practice — could secure guaranteed, irreversible progress toward buddhahood</button>
+            <button class="opt">In the fact that the sūtra was lost for centuries before being rediscovered</button>
+            <button class="opt">In a mathematical error in its account of the six directions</button>
+            <div class="expl"><strong>Correct: B.</strong> The sūtra's prose stays plain throughout. Ouyi locates the difficulty in the listener's own habit of assuming the more effortful path must be the truer one — meeting a claim that seems, on its face, too generous.</div>
+          </div>
+
+          <div class="q" data-correct="2">
+            <span class="q-num">Question 10 of 10</span>
+            <div class="q-text">What is the status of the rebirth dhāraṇī that appears after the sūtra's closing line ("作禮而去") in most printed editions?</div>
+            <button class="opt">It is the single most important line of Kumārajīva's translation</button>
+            <button class="opt">It was spoken by Śāriputra as a summary of the teaching</button>
+            <button class="opt">It is a later liturgical addition — not part of Kumārajīva's original 5th-century translation, and not something Ouyi's commentary addresses</button>
+            <button class="opt">It replaces the need for the practice of holding the name described earlier in the sūtra</button>
+            <div class="expl"><strong>Correct: C.</strong> The dhāraṇī and its transmission note became attached to printed and recited editions of the sūtra at some later point; Ouyi's commentary ends at the sūtra's own closing line. This guide labels the dhāraṇī as a distinct, later layer rather than presenting it as part of the original translation.</div>
+          </div>
+
+          <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 · Correct <strong id="correct-count">0</strong></div>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Further Reading</h2>
+        <ul class="resources">
+          <li><a href="https://cbetaonline.dila.edu.tw/zh/T0366_001" target="_blank" rel="noopener">Kumārajīva's Chinese text · Taishō T366</a> — at CBETA (Chinese Buddhist Electronic Text Association).</li>
+          <li><a href="https://zh.wikisource.org/wiki/佛說阿彌陀經" target="_blank" rel="noopener">佛說阿彌陀經 · Wikisource</a> — the public-domain digital edition of the Taishō text this translation was made from.</li>
+          <li><a href="http://www.book853.com/show.aspx?id=448&amp;cid=59" target="_blank" rel="noopener">彌陀疏鈔 · Grand Master Zhuhong</a> — the alternative 16th-century commentary referenced above for its more integrating reading of "mind" and "land," freely hosted (public domain).</li>
+          <li>Ouyi Zhixu (<span class="zh">蕅益智旭</span>, 1599–1655), <em>佛說阿彌陀經要解</em> (1647) — the primary commentary this page's reading notes draw on, collected in Ouyi's own <em>淨土十要</em>; catalogued in the <span class="zh">卍新纂大日本続藏經</span>, vol. 22, no. 424. Long in the public domain; quoted here only in paraphrase, not reproduced.</li>
+          <li>Kuiji (<span class="zh">窺基</span>, 632–682), <em>阿彌陀經通贊疏</em> — an earlier, Yogācāra-inflected commentary from the Tang dynasty, offering a third point of comparison alongside Ouyi and Zhuhong.</li>
+          <li>F. Max Müller (trans.), <em>The Smaller Sukhāvatī-vyūha</em>, in <em>Sacred Books of the East</em>, vol. 49 (Oxford, 1894) — a public-domain 19th-century English translation made from a surviving Sanskrit recension, not the Chinese. Noted here only as historical context; this page's translation was made independently, directly from Kumārajīva's Chinese.</li>
+        </ul>
+        <p style="margin-top:20px;">Chinese sūtra source: Kumārajīva's translation (402&nbsp;CE), public domain. Chinese commentary source: Ouyi Zhixu's <em>彌陀要解</em> (1647), public domain. English translation and reading guide written for Ru-Yi Meditation Center. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </section>
+
+    </div>
+  </section>
+</article>
+
+<script>
+(function() {
+  const quiz = document.getElementById('quiz');
+  const answeredEl = document.getElementById('answered-count');
+  const correctEl = document.getElementById('correct-count');
+  let answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    const correctIndex = parseInt(q.dataset.correct, 10);
+    const opts = q.querySelectorAll('.opt');
+    const expl = q.querySelector('.expl');
+
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) {
+          btn.classList.add('correct');
+          correct++;
+        } else {
+          btn.classList.add('wrong');
+          opts[correctIndex].classList.add('correct');
+        }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+
+  if (location.hash) {
+    var target = document.querySelector(location.hash);
+    if (target) {
+      var scrollToTarget = function() { target.scrollIntoView({ block: 'start' }); };
+      scrollToTarget();
+      if (document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(scrollToTarget);
+      } else {
+        window.addEventListener('load', scrollToTarget);
+      }
+    }
+  }
+})();
+</script>
