@@ -83,7 +83,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
       <div class="scbl-panel" data-rv>
         <h2>How to read this collection</h2>
         <p>Zhiyi delivered this treatise as oral lectures, recorded directly by his disciple Guanding as the Master spoke — unlike Zhiyi's other two meditation treatises, this one was never revised into a second, polished pass. It opens with a long account of the teaching's own lineage, back through Zhiyi's teachers to Nāgārjuna and the twenty-four Indian patriarchs, before naming ten framing sections for the whole treatise and working through the first of them, the great intent, at very great length.</p>
-        <p>This translation is in progress. Fascicles 1 through 7 are complete, covering the treatise's origin, its three kinds of calming-and-contemplation, the whole of topic one (the great intent, including the celebrated Four Kinds of Samādhi), topics two through five — explaining the name, the essence and its marks, the scope of the teachings, and partial versus complete teachings — where the treatise's governing Four Teachings scheme (Tripiṭaka, shared, distinct, and perfect) is laid out in full, topic six, the preliminary expedients, given in full as the celebrated twenty-five preliminary conditions, and the whole of topic seven's own treatment of the first object of contemplation, the five aggregates — naming the ten objects of contemplation and working every one of the ten modes of contemplation through that first object in full, including the celebrated "three thousand in a single thought" passage, comprehensively breaking through every dharma, and the Lotus Sūtra's own parable of the great cart. The treatise's own outline continues well beyond what these seven fascicles cover, and remains to be translated.</p>
+        <p>This translation is in progress. Fascicles 1 through 8 are complete, covering the treatise's origin, its three kinds of calming-and-contemplation, the whole of topic one (the great intent, including the celebrated Four Kinds of Samādhi), topics two through five — explaining the name, the essence and its marks, the scope of the teachings, and partial versus complete teachings — where the treatise's governing Four Teachings scheme (Tripiṭaka, shared, distinct, and perfect) is laid out in full, topic six, the preliminary expedients, given in full as the celebrated twenty-five preliminary conditions, and topic seven's treatment of the first five of the ten objects of contemplation: the five aggregates, worked through all ten modes of contemplation in full, including the celebrated "three thousand in a single thought" passage, comprehensively breaking through every dharma, and the Lotus Sūtra's own parable of the great cart, followed by four further objects — affliction, illness, the marks of karma, and demonic affairs — each treated under its own outline. The treatise's own outline continues well beyond what these eight fascicles cover, and remains to be translated.</p>
       </div>
       <div class="scbl-panel" data-rv style="transition-delay:.08s">
         <h2>What each fascicle page includes</h2>
@@ -94,7 +94,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
         </ul>
         <div class="scbl-stats">
           <div class="scbl-stat"><b>10</b> fascicles in the Chinese treatise</div>
-          <div class="scbl-stat"><b>7</b> fascicles complete so far</div>
+          <div class="scbl-stat"><b>8</b> fascicles complete so far</div>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
     <div class="scbl-wrap">
       <div class="scbl-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Fascicles 1 through 7 are complete. Use this as the table of contents for the whole treatise as translation continues — completed fascicles link to Ru-Yi's own translation, and the rest link to the CBETA source text in the meantime.</p>
+        <p>Fascicles 1 through 8 are complete. Use this as the table of contents for the whole treatise as translation continues — completed fascicles link to Ru-Yi's own translation, and the rest link to the CBETA source text in the meantime.</p>
       </div>
 
       <div class="scbl-featured">
@@ -142,6 +142,11 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
           <span class="tag">Fascicle 7 · All ten modes complete</span>
           <h3>The Great Cart</h3>
           <p>Completes the remaining six modes of contemplation for the first object: distinguishing blockage from passage, cultivating the thirty-seven branches of the path (including the four foundations of mindfulness defeating the eight inversions), auxiliary remedies (the six pāramitās as antidote to six coverings of the mind, shown to gather in the ten powers, the fearlessnesses, and every mark of buddhahood), knowing one's own stage (the five kinds of repentance and the five grades of disciple), bearing with adversity, and freedom from attachment to the Dharma — then the Lotus Sūtra's own parable of the great cart, and the whole method extended into daily activity.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.42s">
+          <span class="tag">Fascicle 8 · Four further objects</span>
+          <h3>Beyond the Aggregates</h3>
+          <p>Moves past the first object of contemplation to four more: affliction (desire itself as the path, the cautionary tale of Priyaṅkara and Sthiramati, and an extended thirty-six-proposition analysis of severing and entering nirvāṇa run again for prajñā and the four bodies), illness (extensive medical material on the five organs and six methods of treatment, closing with Vimalakīrti's "my illness comes from great compassion"), the marks of karma (the six pāramitās' own wholesome and unwholesome signs, and debt owed to the Triple Gem), and demonic affairs (the three kinds of demon and their treatment, closing with the Buddha's own past-life sacrifice of skin for a single verse of the Dharma).</p>
         </div>
       </div>
 
@@ -190,6 +195,12 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
           <span class="vol-title">Read Ru-Yi's translation</span>
           <span class="vol-note">All ten modes of contemplation completed for the first object, and the Lotus Sūtra's great cart — covered by scroll 7 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">摩訶止觀</span>.</span>
         </a>
+        {% elsif i == 8 %}
+        <a class="vol-card live" id="fascicle-{{ i }}" href="{{ '/sutras/mohe-zhiguan/fascicle-008/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle {{ i }}</span>
+          <span class="vol-title">Read Ru-Yi's translation</span>
+          <span class="vol-note">Four further objects of contemplation — affliction, illness, karma, and demonic affairs — covered by scroll 8 of the <span style="font-family:'PingFang TC','Microsoft JhengHei',serif;">摩訶止觀</span>.</span>
+        </a>
         {% else %}
         <a class="vol-card" id="fascicle-{{ i }}" href="https://cbetaonline.dila.edu.tw/zh/T1911_{{ padded }}" target="_blank" rel="noopener" data-rv>
           <span class="vol-num">Fascicle {{ i }}</span>
@@ -226,6 +237,8 @@ excerpt: A plain-English study entrance to Zhiyi's Mohe Zhiguan, the Tiantai fou
         <div class="term"><b>智障 — the intellectual obstruction</b><span>Fascicle 6's most demanding turn: the very wisdom that broke through views and habituated thought becomes, itself, an obstruction relative to the middle way's own wisdom, requiring a third contemplation to break through in turn.</span></div>
         <div class="term"><b>十乘觀法 — the ten modes of contemplation</b><span>Applied in full to the first object of contemplation across fascicles 5 through 7: contemplating the inconceivable object, giving rise to the bodhi-mind, skillfully settling the mind, comprehensively breaking through every dharma, distinguishing blockage from passage, cultivating the branches of the path, auxiliary remedies, knowing one's own stage, bearing with adversity, and freedom from attachment to the Dharma.</span></div>
         <div class="term"><b>大車喻 — the parable of the great cart</b><span>The Lotus Sūtra's own image for the one vehicle, mapped in fascicle 7 point by point onto all ten modes of contemplation — the ox is the four foundations of mindfulness, the jeweled cords are the four universal vows, and so on.</span></div>
+        <div class="term"><b>十境 — the ten objects of contemplation</b><span>Named in fascicle 5: the aggregates, affliction, illness, the marks of karma, demonic affairs, meditative states, views, overweening pride, the two lesser vehicles, and the bodhisattva. Fascicle 8 moves from the first object to the second through fifth.</span></div>
+        <div class="term"><b>貪欲即是道 — desire itself is the path</b><span>Fascicle 8's governing citation for the inconceivable object of affliction, developed into "neither abiding in the tamed nor the untamed" and hedged with cautionary tales against literalizing it into license.</span></div>
       </div>
     </div>
   </section>
