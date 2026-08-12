@@ -1,0 +1,272 @@
+---
+layout: default
+title: The Platform Sūtra — 六祖大師法寶壇經
+permalink: /sutras/platform-sutra.html
+excerpt: Ru-Yi's reading guide to the Platform Sūtra of the Sixth Patriarch (六祖大師法寶壇經) — Huineng's own life story and teaching, recorded by his disciple Fahai — complete, ten parts covering all ten chapters, each with side-by-side Chinese–English text and reading notes drawn from Hanshan Deqing's 六祖法寶壇經解義.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .js .fascicle [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
+  .js .fascicle [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js .fascicle [data-rv]{opacity:1;transform:none;}}
+
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:60px 26px 52px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:26px;}
+  .fascicle-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid transparent;}
+  .fascicle-btn.primary{background:var(--terra);color:#fff;}
+  .fascicle-btn.secondary{color:var(--terra-deep);background:#fffaf1;border-color:#dfceb3;}
+
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle .lede{font-size:19px;color:var(--ink);border-left:2px solid var(--terra);padding-left:18px;margin:0 0 20px;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+
+  .glance{background:#f6efe2;border-left:3px solid var(--ink);padding:22px 26px;margin:26px 0 6px;font-size:16px;}
+  .glance dl{display:grid;grid-template-columns:130px 1fr;gap:9px 16px;margin:0;}
+  .glance dt{color:var(--muted);font-weight:700;}
+  .glance dd{color:var(--ink);margin:0;}
+
+  .terms{background:#fdf9f1;border:1px solid var(--line);padding:22px 24px;border-radius:6px;font-size:16px;}
+  .terms .term{margin-bottom:14px;}
+  .terms .term:last-child{margin-bottom:0;}
+  .terms .pali-word{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-weight:700;color:var(--ink);}
+
+  .citation-panel{background:#fdf9f1;border:1px solid #e6d9bd;border-radius:8px;padding:26px 28px;margin-top:20px;}
+  .citation-panel .tag{display:inline-block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:10px;}
+  .citation-panel p{color:#5c4a2a;font-size:16px;line-height:1.72;}
+
+  .note-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:24px;}
+  @media(min-width:700px){.note-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .note-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf8ef);padding:22px;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .note-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(140,47,18,.4);border-color:var(--terra);text-decoration:none;}
+  .note-card .kicker{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .note-card h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;color:var(--ink);margin:8px 0 8px;line-height:1.25;}
+  .note-card p{font-size:15px;color:var(--muted);line-height:1.55;margin:0;}
+  .note-card .zh-range{font-size:13px;color:#9a8a6a;margin-top:10px;}
+
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  .resources{font-size:16px;}
+  .resources a{color:var(--terra-deep);text-decoration:underline;text-underline-offset:3px;}
+  .resources li{margin-bottom:10px;}
+
+  .warn-panel{background:#fbf1ef;border:1px solid #e3bdb4;border-radius:8px;padding:22px 24px;margin-top:20px;}
+  .warn-panel .tag{display:inline-block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:#8c2f12;margin-bottom:10px;}
+  .warn-panel p{color:#5c2a20;font-size:16px;line-height:1.72;margin:0;}
+  .warn-panel p+p{margin-top:12px;}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › The Platform Sūtra</nav>
+      <div class="fascicle-kicker" data-rv>Chan · The Only Chinese Work Titled "Sūtra"</div>
+      <h1 data-rv style="transition-delay:.05s">The Platform Sūtra</h1>
+      <p class="subtitle" data-rv style="transition-delay:.1s"><em>the Platform Sūtra of the Sixth Patriarch's Dharma Treasure</em><span class="zh">《六祖大師法寶壇經》</span></p>
+      <p class="lede" data-rv style="transition-delay:.14s">A complete reading guide and Chinese–English translation, with reading notes drawn from Hanshan Deqing's Ming-dynasty commentary — the record of an illiterate woodcutter who became the Sixth Patriarch of Chan, and the only text composed in China ever granted the title "sūtra," a word otherwise reserved for the Buddha's own discourses translated from Sanskrit.</p>
+      <div class="fascicle-meta" data-rv style="transition-delay:.18s">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T2008 · Zongbao's redaction, Yuan dynasty (1291 CE)</span>
+        <span class="fascicle-pill">Commentary guide: Hanshan Deqing's 六祖法寶壇經解義 (17th c.)</span>
+        <span class="fascicle-pill">Status: complete · 10 of 10 parts (十品)</span>
+      </div>
+      <div class="fascicle-actions" data-rv style="transition-delay:.22s">
+        <a class="fascicle-btn primary" href="#sections">Browse all ten parts →</a>
+        <a class="fascicle-btn secondary" href="#source">About the source →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <div class="glance" data-rv>
+        <dl>
+          <dt>Chinese</dt><dd><span class="zh">《六祖大師法寶壇經》</span>, "the Platform Sūtra of the Dharma Treasure of the Sixth Patriarch's Great Master" — usually shortened to <span class="zh">《壇經》</span>, "the Platform Sūtra"</dd>
+          <dt>Genre</dt><dd>Chan (禪) <em>yülu</em> — a recorded-sayings text, not a scripture translated from an Indian original. Huineng's own biography and teaching, set down by his disciple Fahai, in the redaction of the Yuan-dynasty monk Zongbao (1291 CE)</dd>
+          <dt>Speaker</dt><dd>Huineng (惠能, 638–713 CE), an illiterate woodcutter who became the Sixth Patriarch of Chan, speaking to an assembly at Dafan Temple in Shaozhou and, across the rest of the text, to individual visitors and disciples over roughly four decades</dd>
+          <dt>Length</dt><dd>Roughly 20,000 Chinese characters across ten chapters — about a fifth the length of the Lotus Sūtra on this site, but far more varied in form: continuous discourse, autobiography, and dozens of short individual encounters</dd>
+          <dt>Difficulty</dt><dd>★★★☆☆ to read — the narrative sections move quickly and the individual encounters are short and vivid, but the doctrinal chapters build a specific technical vocabulary (self-nature, no-thought, formlessness, no-dwelling) that pays off only if tracked consistently from its first appearance</dd>
+        </dl>
+      </div>
+
+      <section class="fascicle-section" data-rv>
+        <h2>Why This Text, and How This Guide Is Built</h2>
+        <p class="lede">
+          Every other text in this site's Mahāyāna Sūtras collection is a translation — a discourse the Buddha gave in India, rendered into Chinese by Kumārajīva, Xuánzàng, or another translator, centuries after the fact. The Platform Sūtra is not that. It is the record of a Chinese Chan master's own life and teaching, set down by his own disciple within his own lifetime, and it is the only work composed in China that the tradition has ever granted the title "sūtra" — a word everywhere else on this site reserved for what a buddha himself spoke.
+        </p>
+        <p>
+          That distinction is not a technicality this guide sets aside. Huineng's own teaching is explicit that a scripture's authority was never a matter of where it was composed: "the subtle principles of the buddhas have nothing to do with written words," he tells an astonished nun in the seventh chapter, and the text's own traditional title for itself takes that claim seriously enough to act on it. This guide follows the site's convention of Chinese personal names in pinyin romanization — Huineng, Hongren, Shenxiu — while keeping Bodhidharma in its long-established English form, and it uses one consistent set of English terms for this text's core vocabulary throughout: <em>self-nature</em> for <span class="zh">自性</span>, <em>no-thought</em> for <span class="zh">無念</span>, <em>markless</em> or <em>mark</em> for <span class="zh">無相</span> and <span class="zh">相</span> (matching this site's Diamond Sūtra page, which already names Huineng's own awakening as the reason it renders 相 this way), and <em>no-dwelling</em> for <span class="zh">無住</span>.
+        </p>
+
+        <h3>The text behind this translation</h3>
+        <p>
+          The base text translated here is Zongbao's redaction (Taishō T2008), compiled in 1291 CE and the version that has stood as the standard received text across East Asia for the past seven centuries. A second, considerably shorter and older manuscript survives from the Dunhuang caves (Taishō T2007) — likely closer to what circulated within a generation or two of Huineng's own death, and studied closely by modern scholars for exactly that reason. The two texts differ in more than length: several passages, including the famous verse contest in the first chapter, read differently in real and sometimes doctrinally significant ways between the two editions. Where this guide's reading notes touch on a divergence between them, it is flagged openly rather than silently resolved in either direction.
+        </p>
+
+        <h3>Ten chapters, not seven fascicles</h3>
+        <p>
+          Unlike this site's Lotus Sūtra or Śūraṅgama Sūtra projects, which divide by fascicle (卷) because their source texts do, the Platform Sūtra's ten chapters (品) vary enormously in length and character — from the short, single-episode ninth chapter to the sprawling seventh chapter's gallery of a dozen separate encounters, split here across two parts. The ten parts below follow the text's own ten-chapter division exactly, except for the fourth and fifth chapters, which are combined into a single part because the fifth alone is too short to stand on its own, and the seventh, split into two parts because it is by far the longest chapter in the text.
+        </p>
+
+        <h3>How to actually read this text</h3>
+        <ol>
+          <li><strong>Read Part 1 first, in full, even if you are tempted to skip to the doctrine.</strong> Huineng's own account of his life — the verse contest, the secret transmission, fifteen years hiding among hunters — is not background to the teaching that follows; the entire tradition's central claim, that awakening does not wait on literacy or seniority, is argued through this story before it is ever argued in words.</li>
+          <li><strong>Track the core vocabulary from where it first appears.</strong> Self-nature, no-thought, formlessness, and no-dwelling are each defined once, carefully, in Parts 2 and 4, and then used without redefinition for the rest of the text. A reader who skips ahead will find later chapters using these terms as though their meaning were already settled — because, within this text, it is.</li>
+          <li><strong>Read Parts 6 and 7 as a gallery, not a single argument.</strong> Each encounter in the "machinery of circumstance" chapter stands on its own, answering one specific visitor's specific confusion. They reward being read slowly, one at a time, rather than as a single continuous argument moving toward a conclusion.</li>
+          <li><strong>Let Part 10 close the loop.</strong> The final chapter's teaching — "my own mind already has the Buddha within it of itself" — is, almost word for word, the same claim Huineng opened with in Part 1. Reading the two side by side is the fastest way to see how much the text in between has actually been elaborating a single point rather than introducing new ones.</li>
+        </ol>
+      </section>
+
+      <section class="fascicle-section" data-rv>
+        <h2>Key Terms</h2>
+        <div class="terms">
+          <div class="term"><span class="pali-word">自性</span> — self-nature: the term this translation uses throughout for what every being already possesses, unconditioned and already pure — not something to be acquired through practice, only recognized. First defined in <a href="{{ '/sutras/platform-sutra/the-perfection-of-wisdom.html' | relative_url }}">Part 2</a>.</div>
+          <div class="term"><span class="pali-word">見性成佛</span> — seeing one's own nature and becoming a buddha: the sūtra's central formula for awakening, repeated with variations across every chapter, from the illiterate woodcutter of <a href="{{ '/sutras/platform-sutra/the-life-and-awakening-of-huineng.html' | relative_url }}">Part 1</a> to the closing verse of <a href="{{ '/sutras/platform-sutra/the-final-instructions.html' | relative_url }}">Part 10</a>.</div>
+          <div class="term"><span class="pali-word">頓悟・頓教</span> — sudden awakening, the sudden teaching: Huineng's own school, defined against gradual cultivation not as a different destination but a different speed — "the Dharma itself has no sudden or gradual, it is only that people are sharp or dull," as <a href="{{ '/sutras/platform-sutra/sudden-and-gradual.html' | relative_url }}">Part 8</a> puts it directly.</div>
+          <div class="term"><span class="pali-word">無念</span> — no-thought: not the absence of thought (which this text calls death, not attainment) but a mind stained by nothing it encounters — defined at length in <a href="{{ '/sutras/platform-sutra/the-perfection-of-wisdom.html' | relative_url }}">Part 2</a> and again as one of the teaching's three pillars in <a href="{{ '/sutras/platform-sutra/samadhi-and-seated-meditation.html' | relative_url }}">Part 4</a>.</div>
+          <div class="term"><span class="pali-word">無相</span> — markless, formless: rendered to match this site's Diamond Sūtra page, which already credits Huineng's own first awakening to the line "give rise to a mind that dwells nowhere at all." Named as the teaching's substance in <a href="{{ '/sutras/platform-sutra/samadhi-and-seated-meditation.html' | relative_url }}">Part 4</a>, and given as the title of three separate teaching verses across the text.</div>
+          <div class="term"><span class="pali-word">無住</span> — no-dwelling: named as the teaching's root in <a href="{{ '/sutras/platform-sutra/samadhi-and-seated-meditation.html' | relative_url }}">Part 4</a> — not forgetting the past, but declining to let any one thought, including an old grievance, chain itself unbroken into the next.</div>
+          <div class="term"><span class="pali-word">定慧</span> — samādhi and prajñā: taught in <a href="{{ '/sutras/platform-sutra/samadhi-and-seated-meditation.html' | relative_url }}">Part 4</a> as one substance rather than two, illustrated by a lamp and its light — never one producing the other in sequence.</div>
+          <div class="term"><span class="pali-word">無相頌</span> — the Verse of Formlessness: a recurring teaching device Huineng returns to three times, in <a href="{{ '/sutras/platform-sutra/the-perfection-of-wisdom.html' | relative_url }}">Part 2</a>, <a href="{{ '/sutras/platform-sutra/doubts-resolved.html' | relative_url }}">Part 3</a>, and <a href="{{ '/sutras/platform-sutra/repentance-vows-and-the-threefold-body.html' | relative_url }}">Part 5</a> — each meant to be memorized and lived by, not merely admired.</div>
+          <div class="term"><span class="pali-word">三十六對法</span> — the thirty-six pairs: a teaching method Huineng leaves his senior disciples in <a href="{{ '/sutras/platform-sutra/the-final-instructions.html' | relative_url }}">Part 10</a> — answering every question through its paired opposite, so a fixed position dissolves rather than hardens into a second fixed position.</div>
+        </div>
+      </section>
+
+      <section class="fascicle-section" id="sections" data-rv>
+        <div class="rn-divider"><h2>All Ten Parts</h2></div>
+        <p class="lede">
+          All ten chapters, complete — 行由品第一 through 付囑品第十. Each part has the Chinese–English text side by side and reading notes drawn from Hanshan Deqing's commentary. Part 1 is worth reading first regardless of where you go afterward; the rest can be read in order or dipped into individually.
+        </p>
+        <div class="note-grid">
+          <a class="note-card" href="{{ '/sutras/platform-sutra/the-life-and-awakening-of-huineng.html' | relative_url }}">
+            <span class="kicker">Part 1 · 行由品第一</span>
+            <h3>The Life and Awakening of Huineng</h3>
+            <p>An illiterate woodcutter overhears the Diamond Sūtra, wins the Fifth Patriarch's robe in a verse contest with the head monk, and flees south for fifteen years before he dares teach in public.</p>
+            <span class="zh-range">T2008 行 179–344</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/platform-sutra/the-perfection-of-wisdom.html' | relative_url }}">
+            <span class="kicker">Part 2 · 般若品第二</span>
+            <h3>The Perfection of Wisdom</h3>
+            <p>Mahā-prajñā-pāramitā, self-nature as vast as empty space, the warning against mistaking a blank mind for that vastness, and the first Verse of Formlessness.</p>
+            <span class="zh-range">T2008 行 345–491</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/platform-sutra/doubts-resolved.html' | relative_url }}">
+            <span class="kicker">Part 3 · 疑問品第三</span>
+            <h3>Doubts Resolved</h3>
+            <p>Bodhidharma's "no merit" answer to Emperor Wu explained, the Pure Land relocated from geography to mind, and a Verse of Formlessness written for lay practice at home.</p>
+            <span class="zh-range">T2008 行 492–565</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/platform-sutra/samadhi-and-seated-meditation.html' | relative_url }}">
+            <span class="kicker">Part 4 · 定慧品第四・坐禪品第五</span>
+            <h3>Samādhi, Prajñā, and Seated Meditation</h3>
+            <p>Samādhi and prajñā as one substance like a lamp and its light, no-thought/formlessness/no-dwelling as the teaching's three pillars, and what seated meditation actually is.</p>
+            <span class="zh-range">T2008 行 566–626</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/platform-sutra/repentance-vows-and-the-threefold-body.html' | relative_url }}">
+            <span class="kicker">Part 5 · 懺悔品第六</span>
+            <h3>Repentance, the Vows, and the Threefold Body</h3>
+            <p>The five-fold incense of the Dharma-body, formless repentance, the four great vows reinterpreted entirely inwardly, and the threefold body of self-nature.</p>
+            <span class="zh-range">T2008 行 627–735</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/platform-sutra/encounters-fada-and-the-lotus-sutra.html' | relative_url }}">
+            <span class="kicker">Part 6 · 機緣品第七（上）</span>
+            <h3>Encounters: Fada and the Lotus Sūtra</h3>
+            <p>An illiterate nun astonished that Huineng can explain her sūtra, Fahai's question on mind and buddha, and a monk who recited the Lotus Sūtra three thousand times without once understanding it.</p>
+            <span class="zh-range">T2008 行 737–853</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/platform-sutra/encounters-the-lineage-masters.html' | relative_url }}">
+            <span class="kicker">Part 7 · 機緣品第七（下）</span>
+            <h3>Encounters: The Lineage Masters</h3>
+            <p>The two disciples from whom every later House of Chan descends, Yongjia Xuanjue's "one-night enlightenment," and a practitioner whose twenty years of sitting turn out to be the wrong kind of stillness.</p>
+            <span class="zh-range">T2008 行 854–998</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/platform-sutra/sudden-and-gradual.html' | relative_url }}">
+            <span class="kicker">Part 8 · 頓漸品第八</span>
+            <h3>Sudden and Gradual</h3>
+            <p>A spy sent to steal the teaching who stays as a disciple, a would-be assassin whose blade cannot touch Huineng, and a brilliant novice whose confident answers earn the sūtra's sharpest rebuke.</p>
+            <span class="zh-range">T2008 行 999–1102</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/platform-sutra/the-imperial-summons.html' | relative_url }}">
+            <span class="kicker">Part 9 · 宣詔品第九</span>
+            <h3>The Imperial Summons</h3>
+            <p>Empress Wu Zetian summons Huineng to the capital; he declines, and sends a court envoy back with a compressed teaching on why the Way was never a matter of sitting still.</p>
+            <span class="zh-range">T2008 行 1103–1135</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/platform-sutra/the-final-instructions.html' | relative_url }}">
+            <span class="kicker">Part 10 · 付囑品第十</span>
+            <h3>The Final Instructions</h3>
+            <p>The thirty-six pairs as a teaching method, the naming of this sūtra, the full lineage back to the Buddha, and the Sixth Patriarch's parinirvāṇa.</p>
+            <span class="zh-range">T2008 行 1136–1319</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="fascicle-section" id="source" data-rv>
+        <h2>About the Source</h2>
+        <p>
+          The Chinese is Zongbao's redaction of the Platform Sūtra (<span class="zh">宗寶</span>, Taishō T2008), compiled in 1291 CE during the Yuan dynasty and the version that has stood as the standard received text throughout East Asia ever since. The English translation was made for Ru-Yi Meditation Center directly from this Chinese, without reference to any existing English translation, following the same conventions as this site's other sūtra pages.
+        </p>
+        <div class="warn-panel">
+          <span class="tag">A note on genre, and on what this guide leaves untranslated</span>
+          <p>
+            The Platform Sūtra is not a translation of an Indian original — it is a Chinese Chan <em>yülu</em> (recorded-sayings text), the record of Huineng's own life and teaching set down by his disciple Fahai. It is the only work composed in China ever granted the title "sūtra" by the wider tradition, a genre distinction this guide notes openly rather than obscures by treating it identically to the site's other, translated Mahāyāna scriptures.
+          </p>
+          <p>
+            T2008 as it survives runs beyond the ten chapters translated here: lines 1320 onward preserve a set of posthumous materials — an account of events after Huineng's death, a record of imperial honors paid to his memory, two memorial steles by the Tang-dynasty writers Liu Zongyuan and Liu Yuxi, a short piece on the robe he transmitted, and a closing colophon — compiled by later hands rather than spoken by Huineng himself. This guide follows this site's Lotus Sūtra page in treating such appended, non-scriptural material as outside its scope: noted here, rather than translated as part of the text proper.
+          </p>
+        </div>
+        <div class="citation-panel">
+          <span class="tag">Reference, not a source translated</span>
+          <p>The reading notes draw primarily on Hanshan Deqing's (<span class="zh">憨山德清</span>, 1546–1623) <em>六祖法寶壇經解義</em>, one of the four eminent monks of the late Ming dynasty and a commentator this site's Lotus Sūtra project readers will recognize from the same period as Ouyi Zhixu, cited on this site's Amitābha Sūtra page. Hanshan's own base text divides the sūtra into slightly different chapter names in places — 自序品 for what T2008 calls 行由品, 妙行品 for 坐禪品, 護法品 for 宣詔品 — with identical content under different titles; this guide follows T2008's now-standard chapter names throughout, noting Hanshan's alternate title where it first becomes relevant. A second commentary, Dingfubao's (<span class="zh">丁福保</span>) early-20th-century <em>六祖壇經箋註</em>, offers more strictly philological annotation — glossing names, places, and textual sources — and is drawn on where a passage calls for that kind of verification rather than doctrinal exposition. Both commentators' work is in the public domain.</p>
+          <p>The commentaries are listed here as references consulted, not reproduced. Each "Reading note — after Hanshan" is Ru-Yi's own English synthesis of the commentarial tradition's key points, images, and distinctions for that passage — not a translation of any commentary in full. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section" data-rv>
+        <h2>Further Reading</h2>
+        <ul class="resources">
+          <li><a href="https://cbetaonline.dila.edu.tw/en/T2008" target="_blank" rel="noopener">Zongbao's Chinese text · Taishō T2008, CBETA</a> — the canonical received edition at CBETA (Chinese Buddhist Electronic Text Association).</li>
+          <li><a href="https://cbetaonline.dila.edu.tw/en/T2007" target="_blank" rel="noopener">The Dunhuang manuscript · Taishō T2007, CBETA</a> — the older, shorter recension, closer in most scholars' judgment to the text's earliest form.</li>
+          <li>Philip B. Yampolsky (tr.), <em>The Platform Sutra of the Sixth Patriarch</em> (Columbia University Press, 1967) — the standard scholarly English translation, based on the Dunhuang manuscript, with an extensive historical introduction useful for comparison against this guide's own translation of the later Zongbao text.</li>
+          <li>Red Pine (Bill Porter, tr.), <em>The Platform Sutra: The Zen Teaching of Hui-neng</em> (Counterpoint, 2006) — a widely read English translation of the Zongbao text, with the Chinese original and brief notes.</li>
+          <li>John McRae, <em>Seeing Through Zen: Encounter, Transformation, and Genealogy in Chinese Chan Buddhism</em> (University of California Press, 2003) — a critical historical study of how the Platform Sūtra's own account of the Chan lineage was constructed, useful context for the lineage claims made in this text's tenth chapter.</li>
+        </ul>
+        <p style="margin-top:20px;">Chinese sūtra source: Zongbao's redaction (Taishō T2008), public domain. Chinese commentary source: Hanshan Deqing's <em>六祖法寶壇經解義</em> (17th c.), public domain. English translation and reading guide written for Ru-Yi Meditation Center. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </section>
+
+    </div>
+  </section>
+</article>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('.fascicle [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.1,rootMargin:'0px 0px -6% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
