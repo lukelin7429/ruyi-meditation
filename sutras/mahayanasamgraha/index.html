@@ -1,0 +1,208 @@
+---
+layout: default
+title: Mahāyānasaṃgraha
+permalink: /sutras/mahayanasamgraha/
+excerpt: A plain-English study entrance to the Mahāyānasaṃgraha, Asaṅga's own summary of the entire Great Vehicle, organized part by part, read with Vasubandhu's and Asvabhāva's commentaries.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .msg{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .msg *{box-sizing:border-box;}
+  .msg-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .msg [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .msg [data-rv].in{opacity:1;transform:none;}
+  .msg-hero{background:linear-gradient(155deg,#2f6d5e 0%,#254f45 45%,#151c20 100%);color:#fff;overflow:hidden;position:relative;}
+  .msg-hero::after{content:"攝大乘論";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .msg-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .msg-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .msg-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .msg-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .msg h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:16ch;}
+  .msg-hero p{max-width:720px;color:#edf4ef;font-size:19px;line-height:1.7;}
+  .msg-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .msg-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .msg-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .msg-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .msg-intro{background:var(--cream);padding:64px 0 42px;}
+  .msg-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.msg-grid{grid-template-columns:1.15fr .85fr;}}
+  .msg-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .msg-panel h2,.msg-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .msg-panel p,.msg-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .msg-panel ul{padding-left:20px;margin:0;}
+  .msg-stats{display:grid;gap:12px;margin-top:18px;}
+  .msg-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .msg-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .msg-section{padding:70px 0;background:#fff;}
+  .msg-section-head{max-width:720px;margin-bottom:28px;}
+  .msg-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:12px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(3,minmax(0,1fr));}}
+  .vol-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:16px;text-decoration:none;color:inherit;min-height:132px;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card.live{background:linear-gradient(180deg,#fff,#f5fbf8);border-color:#b9d2c8;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#d8c6a6;text-decoration:none;}
+  .vol-card.live:hover{border-color:#7ea99a;}
+  .vol-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .vol-card.live .vol-num{color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin:8px 0 6px;line-height:1.2;}
+  .vol-note{font-size:14px;color:var(--muted);line-height:1.45;margin-top:auto;}
+  .msg-featured{display:grid;grid-template-columns:1fr;gap:18px;margin-bottom:28px;}
+  @media(min-width:760px){.msg-featured{grid-template-columns:repeat(2,1fr);}}
+  .feature{border-radius:8px;background:#f7f1e6;border:1px solid var(--line);padding:22px;}
+  .feature .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra-deep);font-weight:800;}
+  .feature h3{font-family:'Playfair Display',Georgia,serif;font-size:24px;margin:8px 0 8px;color:var(--ink);}
+  .feature p{font-size:15.5px;line-height:1.6;color:var(--muted);margin:0;}
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .msg [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="msg">
+  <section class="msg-hero">
+    <div class="msg-hero-in">
+      <nav class="msg-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Mahāyānasaṃgraha</nav>
+      <div class="msg-eyebrow" data-rv>Asaṅga · Xuánzàng · 攝大乘論</div>
+      <h1 data-rv style="transition-delay:.06s">The Treatise That Gathers the Whole Great Vehicle.</h1>
+      <p data-rv style="transition-delay:.12s">The <em>Mahāyānasaṃgraha</em> — "Summary of the Great Vehicle" — is Asaṅga's own synthesis of Yogācāra philosophy into a single treatise: the storehouse consciousness that carries every seed of experience, the three natures that explain how a constructed world is mistaken for a real one, the path of the six perfections through the ten bodhisattva grounds, and the three bodies of a buddha at the path's end. This page is the entrance for reading it part by part, following the treatise's own eleven-part outline.</p>
+      <div class="msg-actions" data-rv style="transition-delay:.18s">
+        <a class="msg-btn primary" href="#parts">Browse 11 parts →</a>
+        <a class="msg-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-intro">
+    <div class="msg-wrap msg-grid">
+      <div class="msg-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>This treatise is dense and systematic — Asaṅga wrote it to gather the entire Great Vehicle into eleven parts, each building on the one before. We keep the treatise's own structure rather than smoothing it away, and add reading notes wherever a modern English reader would otherwise lose the thread.</p>
+        <p>Our primary commentary guide is Vasubandhu, Asaṅga's own younger brother, whose commentary shares Xuánzàng as translator with the root text, so terminology stays aligned. Where Asvabhāva's independent commentary on the same root text adds something worth hearing, we bring it in as a second voice.</p>
+      </div>
+      <div class="msg-panel" data-rv style="transition-delay:.08s">
+        <h2>What each part page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation.</li>
+          <li>Reading notes drawn from Vasubandhu's commentary, with Asvabhāva as a second voice where useful.</li>
+          <li>A running glossary so terminology stays consistent from Part 1 to Part 11, and with the site's other Yogācāra pages.</li>
+        </ul>
+        <div class="msg-stats">
+          <div class="msg-stat"><b>11</b> parts in the root treatise, translated in full</div>
+          <div class="msg-stat"><b>2</b> commentaries woven in — Vasubandhu primary, Asvabhāva as a second voice</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-section" id="parts">
+    <div class="msg-wrap">
+      <div class="msg-section-head" data-rv>
+        <h2>Read by Part</h2>
+        <p>Asaṅga's own eleven-part outline, named in Part 1 itself. Use this as the table of contents for the treatise, from the proof that the Great Vehicle is Buddha-word through to the three bodies of buddhahood.</p>
+      </div>
+
+      <div class="msg-featured">
+        <div class="feature" data-rv>
+          <span class="tag">Parts 1–3</span>
+          <h3>The Ten Points, the Storehouse Consciousness, and the Three Natures</h3>
+          <p>Asaṅga's proof that the Great Vehicle is Buddha-word, the full account of the ālayavijñāna as the basis of everything knowable, and the three natures — dependent, discriminated, and perfectly accomplished — that are its character.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.06s">
+          <span class="tag">Parts 4–9</span>
+          <h3>Entering the Path, Cultivating the Grounds, the Three Trainings</h3>
+          <p>Realizing the nature of Consciousness-Only, the six perfections as the entry's cause and effect, the ten bodhisattva grounds, and the higher trainings in morality, concentration, and non-discriminating wisdom.</p>
+        </div>
+      </div>
+
+      <div class="vol-grid">
+        <a class="vol-card live" id="part-1" href="{{ '/sutras/mahayanasamgraha/part-01/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 1 · 總標綱要分</span>
+          <span class="vol-title">Ten Points That Prove the Great Vehicle Is the Buddha's Word</span>
+          <span class="vol-note">Asaṅga's own outline for the whole treatise. Complete.</span>
+        </a>
+        <a class="vol-card" id="part-2" href="https://cbetaonline.dila.edu.tw/T31n1594_001" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 2 · 所知依分</span>
+          <span class="vol-title">The Basis of the Knowable</span>
+          <span class="vol-note">The ālayavijñāna, in full — its names, its self-nature, seeds, and the two kinds of dependent origination. The treatise's longest part. Ru-Yi's translation coming next; read the source text on CBETA in the meantime.</span>
+        </a>
+        <a class="vol-card" id="part-3" href="https://cbetaonline.dila.edu.tw/T31n1594_001" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 3 · 所知相分</span>
+          <span class="vol-title">The Character of the Knowable</span>
+          <span class="vol-note">The three natures, the dream simile, and the textual proof of Consciousness-Only. Read the source text on CBETA in the meantime.</span>
+        </a>
+        <a class="vol-card" id="part-4" href="https://cbetaonline.dila.edu.tw/T31n1594_002" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 4 · 入所知相分</span>
+          <span class="vol-title">Entering the Character of the Knowable</span>
+          <span class="vol-note">The four investigations and the path of seeing. Read the source text on CBETA in the meantime.</span>
+        </a>
+        <a class="vol-card" id="part-5" href="https://cbetaonline.dila.edu.tw/T31n1594_002" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 5 · 彼入因果分</span>
+          <span class="vol-title">The Cause and Effect of That Entry</span>
+          <span class="vol-note">The six perfections, before and after realization. Read the source text on CBETA in the meantime.</span>
+        </a>
+        <a class="vol-card" id="part-6" href="https://cbetaonline.dila.edu.tw/T31n1594_002" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 6 · 彼修差別分</span>
+          <span class="vol-title">The Distinctions in Cultivating That</span>
+          <span class="vol-note">The ten bodhisattva grounds, and the three incalculable great eons. Read the source text on CBETA in the meantime.</span>
+        </a>
+        <a class="vol-card" id="part-7" href="https://cbetaonline.dila.edu.tw/T31n1594_003" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 7 · 增上戒學分</span>
+          <span class="vol-title">The Higher Training in Morality</span>
+          <span class="vol-note">The treatise's shortest part. Read the source text on CBETA in the meantime.</span>
+        </a>
+        <a class="vol-card" id="part-8" href="https://cbetaonline.dila.edu.tw/T31n1594_003" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 8 · 增上心學分</span>
+          <span class="vol-title">The Higher Training in Concentration</span>
+          <span class="vol-note">Read the source text on CBETA in the meantime.</span>
+        </a>
+        <a class="vol-card" id="part-9" href="https://cbetaonline.dila.edu.tw/T31n1594_003" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 9 · 增上慧學分</span>
+          <span class="vol-title">The Higher Training in Wisdom</span>
+          <span class="vol-note">Non-discriminating wisdom, across fourteen approaches. Read the source text on CBETA in the meantime.</span>
+        </a>
+        <a class="vol-card" id="part-10" href="https://cbetaonline.dila.edu.tw/T31n1594_003" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 10 · 果斷分</span>
+          <span class="vol-title">The Fruit of Relinquishment</span>
+          <span class="vol-note">Non-abiding nirvāṇa. Read the source text on CBETA in the meantime.</span>
+        </a>
+        <a class="vol-card" id="part-11" href="https://cbetaonline.dila.edu.tw/T31n1594_003" target="_blank" rel="noopener" data-rv>
+          <span class="vol-num">Part 11 · 彼果智分</span>
+          <span class="vol-title">The Fruit of Wisdom</span>
+          <span class="vol-note">The three bodies of a buddha. The treatise's closing part. Read the source text on CBETA in the meantime.</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-section" id="notes" style="background:var(--cream);padding-top:64px;">
+    <div class="msg-wrap">
+      <div class="msg-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent from Part 1 through Part 11, and matched to the site's other Yogācāra pages where the same term appears. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>所知依 — the basis of the knowable</b><span>What everything knowable depends on and arises from — identified in Part 1 as the ālayavijñāna.</span></div>
+        <div class="term"><b>阿賴耶識 — ālayavijñāna</b><span>The storehouse consciousness, which holds the seeds of every past action and experience.</span></div>
+        <div class="term"><b>三自性 — the three natures</b><span>The dependent, discriminated-and-attached-to, and perfectly accomplished natures — the same terms used across the site's Cheng Weishi Lun pages.</span></div>
+        <div class="term"><b>唯識性 — the nature of Consciousness-Only</b><span>Vijñaptimātratā: what is realized when the three natures are directly understood.</span></div>
+        <div class="term"><b>十地 — the ten grounds</b><span>The ten bodhisattva stages, each pairing one of the six perfections with a ground to be traversed.</span></div>
+        <div class="term"><b>三種佛身 — the three bodies</b><span>The intrinsic-nature body, the enjoyment body, and the transformation body — the treatise's account of buddhahood.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
