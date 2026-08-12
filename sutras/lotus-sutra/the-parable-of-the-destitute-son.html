@@ -1,0 +1,353 @@
+---
+layout: default
+title: "The Lotus Sūtra, Part 6: The Parable of the Destitute Son"
+permalink: /sutras/lotus-sutra/the-parable-of-the-destitute-son.html
+excerpt: Part 6 of the Lotus Sūtra (妙法蓮華經), Kumārajīva's early 5th-century translation — four elder disciples confess their own long complacency and answer the burning-house parable with one of their own, a son who flees his wealthy father, spends decades as a hired laborer shoveling dung in his own father's house, and is only gradually, gently led to accept that he was the heir all along.
+---
+
+<style>
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle .lede{font-size:19px;color:var(--ink);border-left:2px solid var(--terra);padding-left:18px;margin:0 0 20px;}
+  .fascicle table{width:100%;border-collapse:collapse;margin:16px 0 22px;font-size:16px;}
+  .fascicle th,.fascicle td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--muted);}
+  .fascicle th{background:#f6efe2;color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+
+  .glance{background:#f6efe2;border-left:3px solid var(--ink);padding:22px 26px;margin:26px 0 6px;font-size:16px;}
+  .glance dl{display:grid;grid-template-columns:130px 1fr;gap:9px 16px;margin:0;}
+  .glance dt{color:var(--muted);font-weight:700;}
+  .glance dd{color:var(--ink);margin:0;}
+
+  .translation-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px;}
+  .translation-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.translation-row{grid-template-columns:1fr 1.08fr;}}
+  .source,.translation{border:1px solid var(--line);border-radius:8px;padding:20px 22px;background:#fffdf8;}
+  .translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:10px;}
+  .translation .label{color:var(--jade);}
+  .source p{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:#382a20;font-size:19px;line-height:1.9;margin:0;}
+  .translation p{font-family:'Playfair Display',Georgia,serif;font-style:italic;color:var(--ink);font-size:17px;line-height:1.75;margin:0;}
+  .source p.verse,.translation p.verse{white-space:pre-line;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:20px;border-radius:0 6px 6px 0;}
+  .note-box .who{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:10px;}
+  .note-box p{margin:0;font-size:16px;color:#5c4a2a;line-height:1.75;}
+  .note-box p+p{margin-top:12px;}
+
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  .fascicle-pagenav{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-top:8px;padding-top:30px;border-top:1px solid var(--line);flex-wrap:wrap;}
+  .fascicle-pagenav a{text-decoration:none;color:var(--ink);}
+  .fascicle-pagenav .pn-label{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra);font-weight:800;margin-bottom:5px;}
+  .fascicle-pagenav .pn-title{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--ink);}
+  .fascicle-pagenav .pn-prev{text-align:left;}
+  .fascicle-pagenav .pn-next{text-align:right;}
+  .fascicle-pagenav .pn-index{text-align:center;font-size:14px;color:var(--muted);align-self:center;}
+  .fascicle-pagenav .pn-index a{color:var(--terra-deep);border-bottom:1px solid rgba(184,67,28,.35);}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Sūtras</a> › <a href="{{ '/sutras/lotus-sutra.html' | relative_url }}">The Lotus Sūtra</a> › The Parable of the Destitute Son</nav>
+      <div class="fascicle-kicker">Part 6 of 25 · 信解品第四</div>
+      <h1>The Parable of the Destitute Son</h1>
+      <p class="subtitle"><span class="zh">信解品第四</span></p>
+      <p class="lede">Four elder disciples — Subhūti, Mahākātyāyana, Mahākāśyapa, and Mahāmaudgalyāyana — confess that they too had spent years content with what they now realize was a lesser attainment. They answer the burning-house parable with a parable of their own: a son who flees his father as a child, spends decades as a stranger shoveling dung in his own father's household without recognizing him, and is only led, with great patience and no sudden revelation, to accept an inheritance that was his the entire time.</p>
+      <div class="fascicle-meta">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T262 · Kumārajīva's translation, early 5th century CE</span>
+        <span class="fascicle-pill">Commentary guide: Zhiyi's 妙法蓮華經文句 (6th c.)</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <div class="glance">
+        <dl>
+          <dt>This part covers</dt><dd>Four elder disciples' joyful confession that they too had long supposed their own attainment was final, and had never aspired to what the bodhisattvas were promised; their own parable, told in reply — a destitute son who runs from his wealthy father as a boy, wanders in poverty for decades, and, on stumbling back into his father's household, is drawn in so gradually and gently that he spends twenty years believing himself only a hired laborer before he can accept that he was the heir all along; and the disciples' own explanation of what every detail of the story means for their relationship to the Buddha.</dd>
+          <dt>Why it matters</dt><dd>This chapter answers the burning house with a parable of its own, and the shift in who is speaking matters as much as the story itself. Śāriputra received the sūtra's claim directly, in prose, and needed only one telling. These four disciples needed something closer to their own experience — not a single dramatic rescue, but decades of small, patient trust-building before they could accept what was already true.</dd>
+        </dl>
+      </div>
+
+      <section class="fascicle-section">
+        <h2>1. Four Elders' Confession</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>爾時慧命須菩提、摩訶迦旃延、摩訶迦葉、摩訶目犍連，從佛所聞未曾有法，世尊授舍利弗阿耨多羅三藐三菩提記，發希有心，歡喜踊躍，即從座起，整衣服偏袒右肩，右膝著地，一心合掌，曲躬恭敬，瞻仰尊顏而白佛言：「我等居僧之首，年竝朽邁，自謂已得涅槃，無所堪任，不復進求阿耨多羅三藐三菩提。世尊往昔說法既久，我時在座，身體疲懈，但念空、無相、無作，於菩薩法——遊戲神通、淨佛國土、成就眾生——心不喜樂。所以者何？世尊令我等出於三界，得涅槃證。又今我等年已朽邁，於佛教化菩薩阿耨多羅三藐三菩提，不生一念好樂之心。我等今於佛前，聞授聲聞阿耨多羅三藐三菩提記，心甚歡喜，得未曾有。不謂於今，忽然得聞希有之法，深自慶幸，獲大善利，無量珍寶、不求自得。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>At that time the venerable Subhūti, Mahākātyāyana, Mahākāśyapa, and Mahāmaudgalyāyana, hearing from the Buddha this Dharma never heard before — that the World-Honored One had bestowed on Śāriputra a prediction of unsurpassed, perfect and complete awakening — gave rise to a mind of wonder, and, leaping with joy, at once rose from their seats, arranged their robes, bared their right shoulders, placed their right knees on the ground, joined their palms with one mind, bowed low in reverence, and, gazing up at the Buddha's honored countenance, said to him: "We stand at the head of the saṅgha, all of us worn with age, and we had supposed that we had already attained nirvāṇa, fit for nothing further, and would seek unsurpassed, perfect and complete awakening no longer. In the long years the World-Honored One has taught the Dharma, we sat in the assembly, our bodies wearied and our minds grown slack, thinking only of emptiness, signlessness, and wishlessness, and taking no joy in the bodhisattva's own practices — playing freely with spiritual powers, purifying buddha-lands, and bringing beings to maturity. Why is this so? Because the World-Honored One had caused us to leave the three realms and attain the realization of nirvāṇa. And now, worn with age as we are, we gave rise to not a single thought of joy at the Buddha's teaching and transforming of bodhisattvas toward unsurpassed, perfect and complete awakening. Yet now, before the Buddha, hearing him bestow on a śrāvaka a prediction of unsurpassed, perfect and complete awakening, our hearts are filled with great joy, and we have gained what we never had before. We had not supposed that now, so suddenly, we would come to hear so rare a Dharma as this, and we rejoice deeply at our own good fortune, having obtained a great and good benefit — immeasurable treasure, sought by us not at all, yet attained."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zhiyi</div>
+          <p>Zhiyi reads the title of this chapter, "faith and understanding" (信解), as marking a shift in audience from the previous two chapters. Śāriputra, foremost of the disciples in wisdom, needed only the direct doctrinal statement of Part 2 to grasp what was being taught — Zhiyi's "Dharma round," addressed to the sharpest faculties. These four elders belong to what he calls the "parable round" (譬說一周): the burning-house parable is what first breaks their doubt and lets them enter the Great Vehicle — this is the "faith" of the chapter's title — and what follows in this chapter, as they work out the implications for themselves in their own words, is the "understanding." The chapter's very existence is evidence for the claim Part 2 made in the abstract: the same one truth needs to be taught more than once, in more than one way, because not every listener is ready to receive it the first time it is spoken.</p>
+          <p>Zhiyi also draws out the three separate reasons the text lists for why these elders never sought buddhahood, though he notes the text does not present them in a tidy order: their long seniority within the saṅgha, which made them reluctant to be seen abruptly changing course before younger monks who looked to them as a model; their advanced age, which left them feeling unfit for a bodhisattva's demanding, decades-long work of saving countless beings; and their own settled conviction that they had already reached nirvāṇa, with nothing further to attain. For this last point he reaches for an image that resonates with this sūtra's own title: a lotus does not grow on high, dry ground. Having settled, as they believed, onto solid and final ground, there was — by their own understanding at the time — no water left in which anything further could grow.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>2. The Parable of the Destitute Son</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「世尊！我等今者樂說譬喻以明斯義。譬若有人，年既幼稚，捨父逃逝，久住他國，或十、二十，至五十歲，年既長大，加復窮困，馳騁四方以求衣食。漸漸遊行，遇向本國。其父先來，求子不得，中止一城。其家大富，財寶無量——金、銀、琉璃、珊瑚、虎珀、頗梨珠等，其諸倉庫，悉皆盈溢；多有僮僕、臣佐、吏民；象馬車乘，牛羊無數——出入息利，乃遍他國，商估賈客亦甚眾多。時貧窮子遊諸聚落，經歷國邑，遂到其父所止之城。父每念子，與子離別五十餘年，而未曾向人說如此事，但自思惟，心懷悔恨，自念老朽，多有財物，金銀珍寶，倉庫盈溢；無有子息，一旦終沒，財物散失，無所委付。是以慇懃每憶其子，復作是念：『我若得子，委付財物，坦然快樂，無復憂慮。』
+
+「世尊！爾時窮子傭賃展轉遇到父舍，住立門側。遙見其父、踞師子床，寶机承足，諸婆羅門、剎利、居士皆恭敬圍繞，以真珠瓔珞，價直千萬，莊嚴其身；吏民、僮僕，手執白拂，侍立左右。覆以寶帳，垂諸華幡，香水灑地，散眾名華，羅列寶物，出內取與，有如是等種種嚴飾，威德特尊。窮子見父有大力勢，即懷恐怖，悔來至此。竊作是念：『此或是王，或是王等，非我傭力得物之處。不如往至貧里，肆力有地，衣食易得。若久住此，或見逼迫，強使我作。』作是念已，疾走而去。
+
+「時富長者於師子座，見子便識，心大歡喜，即作是念：『我財物庫藏，今有所付。我常思念此子，無由見之，而忽自來，甚適我願。我雖年朽，猶故貪惜。』即遣傍人，急追將還。爾時使者，疾走往捉。窮子驚愕，稱怨大喚：『我不相犯，何為見捉？』使者執之愈急，強牽將還。于時窮子，自念無罪，而被囚執，此必定死；轉更惶怖，悶絕躄地。父遙見之，而語使言：『不須此人，勿強將來。以冷水灑面，令得醒悟，莫復與語。』所以者何？父知其子志意下劣，自知豪貴為子所難，審知是子而以方便，不語他人云是我子。使者語之：『我今放汝，隨意所趣。』窮子歡喜，得未曾有，從地而起，往至貧里、以求衣食。
+
+「爾時長者將欲誘引其子而設方便，密遣二人，形色憔悴無威德者：『汝可詣彼，徐語窮子：「此有作處，倍與汝直。」窮子若許，將來使作。若言：「欲何所作？」便可語之：「雇汝除糞。我等二人亦共汝作。」』時二使人即求窮子，既已得之，具陳上事。
+
+「爾時窮子先取其價，尋與除糞。其父見子，愍而怪之。又以他日，於窓牖中遙見子身，羸瘦憔悴，糞土塵坌，污穢不淨。即脫瓔珞、細軟上服、嚴飾之具，更著麁弊垢膩之衣，塵土坌身，右手執持除糞之器，狀有所畏。語諸作人：『汝等勤作，勿得懈息。』以方便故，得近其子。後復告言：『咄，男子！汝常此作，勿復餘去，當加汝價。諸有所須瓫器米麵鹽醋之屬，莫自疑難，亦有老弊使人須者相給，好自安意。我如汝父，勿復憂慮。所以者何？我年老大，而汝少壯，汝常作時，無有欺怠瞋恨怨言，都不見汝有此諸惡，如餘作人。自今已後，如所生子。』即時長者、更與作字，名之為兒。爾時窮子雖欣此遇，猶故自謂客作賤人。由是之故，於二十年中常令除糞。過是已後，心相體信，入出無難，然其所止猶在本處。
+
+「世尊，爾時長者有疾，自知將死不久。語窮子言：『我今多有金銀珍寶，倉庫盈溢，其中多少、所應取與，汝悉知之。我心如是，當體此意。所以者何？今我與汝，便為不異，宜加用心，無令漏失。』爾時窮子，即受教勅，領知眾物，金銀珍寶及諸庫藏，而無悕取一飡之意。然其所止故在本處，下劣之心亦未能捨。復經少時，父知子意漸已通泰，成就大志，自鄙先心。臨欲終時，而命其子并會親族、國王、大臣、剎利、居士，皆悉已集，即自宣言：『諸君當知！此是我子，我之所生。於某城中、捨吾逃走，伶俜辛苦五十餘年，其本字某。我名某甲，昔在本城懷憂推覓，忽於此間遇會得之。此實我子，我實其父。今我所有一切財物，皆是子有，先所出內，是子所知。』
+
+「世尊！是時窮子聞父此言，即大歡喜，得未曾有，而作是念：『我本無心有所希求，今此寶藏自然而至。』」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"World-Honored One! We would now delight in telling a parable, to make this same meaning clear. Suppose there was a person who, while still a small child, forsook his father and ran away, and dwelt long in another land — ten years, twenty, even as many as fifty. As he grew to full manhood, poverty and hardship pressed upon him besides, and he ran about in every direction in search of clothing and food. Wandering gradually onward, he happened to come toward his own native land. His father, meanwhile, had long since sought his son and failed to find him, and had settled in a certain city. That father's house was greatly wealthy, his treasure beyond measure — gold, silver, lapis lazuli, coral, amber, and crystal beads, filling every one of his storehouses to overflowing; he had many servants, ministers, and officials; elephants, horses, carriages, and countless cattle and sheep; his profits from lending and trade reached even into other lands, and merchants and traders in his service were exceedingly numerous. At that time the destitute son, wandering from village to village, passing through one land and city after another, at last came to the very city where his father dwelt. The father thought of his son constantly; in the more than fifty years since they had been parted, he had never spoken of this to anyone, but only reflected on it within himself, his heart filled with regret, thinking to himself that he was now old and worn, with great wealth, gold, silver, and treasure, his storehouses filled to overflowing, yet with no son of his own — and that when he came at last to die, his wealth would scatter and be lost, with no one to entrust it to. For this reason he thought of his son constantly and earnestly, and thought further: 'If only I could find my son, and entrust my wealth to him, I would be at ease and happy, with no more care or worry.'
+
+"World-Honored One! At that time the destitute son, drifting from one hired labor to another, happened at last to arrive at his father's house, and stood by the side of the gate. From a distance he saw his father, seated upon a lion's throne, his feet resting on a jeweled bench, surrounded reverently by brahmins, warrior-nobles, and householders, his body adorned with a necklace of pearls worth a thousand myriad pieces; officials and servants stood attending him on either side, holding white fly-whisks in their hands. Above him hung a jeweled canopy, draped with flowered banners; scented water had been sprinkled on the ground, and rare flowers scattered about; treasures were arrayed and taken in and out — with adornments of every such kind, his majesty and virtue were singularly exalted. The destitute son, seeing his father possessed of such great power, was filled with terror, and regretted having come to this place at all. He thought to himself in secret: 'This must be some king, or someone equal to a king — this is no place where I could earn anything by my own labor. Better to go to some poor quarter instead, where my labor would have a place, and clothing and food would be easy to come by. If I stay here long, I may be pressed and forced to work against my will.' Having had this thought, he fled quickly away.
+
+"At that time the wealthy elder, upon his lion's seat, saw his son and recognized him at once, and his heart was filled with great joy. He thought: 'Now I have someone to entrust my wealth and storehouses to. I have constantly thought of this son of mine, with no way to see him, and now, suddenly, he has come of himself — this is exactly what I have wished for. Though I am old and worn, I still hold to this desire.' He at once sent his attendants to pursue him quickly and bring him back. The messengers ran swiftly and seized him. The destitute son, startled and alarmed, cried out in protest: 'I have done nothing against you — why do you seize me?' But the messengers held him only more tightly, and dragged him back by force. The destitute son, thinking himself innocent of any wrong yet being seized and held captive, was certain he would surely be put to death; he grew all the more terrified, and fainted, falling to the ground. The father, seeing this from a distance, said to his messengers: 'I have no need of this man — do not force him to come. Sprinkle cold water on his face, to bring him back to his senses, and say nothing further to him.' Why was this? Because the father knew that his son's own resolve was base and small, and knew that his own eminence and wealth would be hard for his son to accept; though he knew for certain that this was his own son, he used skillful means, and did not tell anyone else that this was his son. The messengers said to him: 'I now release you; go wherever you wish.' The destitute son, overjoyed, having gained what he never had before, rose up from the ground, and went off to a poor quarter to seek clothing and food.
+
+"At that time the elder, wishing to draw his son onward, devised a skillful means, and secretly sent two men, haggard in appearance and without any air of authority: 'Go to him, and say gently to the destitute son: "There is work to be had here, paying double your usual wage." If the destitute son agrees, bring him to work. If he asks: "What work is it?" then say to him: "We would hire you to clear away dung. The two of us will work alongside you as well."' The two messengers then went to find the destitute son, and, having found him, told him everything just as instructed.
+
+"At that time the destitute son first took his wage, and set at once to clearing away dung. His father, seeing his son, felt pity for him, though also puzzlement. On another day, gazing from a window, he saw his son's body, thin and haggard, covered with the dust and filth of his work, unclean and unwashed. He at once removed his own necklace and his fine, soft upper robes and every adornment, and put on instead coarse, worn, and soiled clothing, covering his body with dust, and, taking an implement for clearing dung in his right hand, went to where his son was, appearing as one who might be feared. He said to the workers: 'Work diligently, all of you, and do not grow lax.' By this skillful means, he was able to draw near to his son. Afterward he said to him further: 'Ah, good man! You may work here always; there is no need to go elsewhere, and I shall raise your wage. Whatever you need — basins, rice, flour, salt, vinegar, and the like — do not hesitate to ask; there are old and worn-out servants here as well, should you need their help. Set your mind at ease. I am like a father to you; have no more worry. Why is this so? I am old and advanced in years, and you are young and strong, and in all the time you have worked here, I have never seen you deceive, grow lazy, harbor anger, or speak resentfully, as I have seen in my other workers. From now on, you shall be to me like my own son.' The elder then gave him a new name, calling him his own child. Though the destitute son rejoiced at this treatment, he still thought of himself as a lowly hired hand. Because of this, for twenty years he was constantly set to clearing away dung. After this time had passed, a mutual trust grew between them, and he came and went freely, without difficulty — though he still remained dwelling in the same place as before.
+
+"World-Honored One, at that time the elder fell ill, and knew for himself that he would not live much longer. He said to the destitute son: 'I now have great stores of gold, silver, and treasure, my storehouses filled to overflowing; how much there is, and what should be taken in and given out, you now know all of this in full. Understand well what is in my heart. Why is this so? Now you and I are truly no different; you should apply your mind carefully, and let nothing be lost or wasted.' At that time the destitute son received this instruction, and came to oversee all these goods — the gold, silver, treasure, and every storehouse — yet had no desire to take so much as a single meal's worth for himself. He still remained dwelling in the same place as before, and his lowly, base state of mind he had still not been able to set aside. After some further time had passed, the father saw that his son's mind had gradually opened and grown at ease, that he had come to a great resolve, and himself looked back with contempt on his own former, lesser mind. When the time of his death drew near, he commanded his son, and gathered together his relatives, kings, ministers, warrior-nobles, and householders; and when they had all assembled, he declared to them: 'You should all know: this is my own son, born of me. In a certain city, he forsook me and ran away, and wandered in loneliness and hardship for more than fifty years. His original name was such-and-such, and my own name is so-and-so. Long ago, in my native city, I searched for him with an anxious heart, and now, suddenly, in this place, I have come upon him and found him again. This is truly my own son, and I am truly his father. All the wealth that I now possess belongs entirely to my son; whatever has been taken in or given out before this, my son already knows in full.'
+
+"World-Honored One! At that time, the destitute son, hearing his father speak these words, was filled with great joy, gaining what he never had before, and thought to himself: 'I originally had no mind that hoped for anything at all — and now this treasure has come to me of itself.'"</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zhiyi</div>
+          <p>Zhiyi divides this parable into five successive similes, and reads each one against two backgrounds at once: a "near" reference back to the burning house two chapters earlier, and a "far" reference back to the abstract claims of Part 2. The son's flight from his father corresponds, at the near range, to the burning house's general premise, and at the far range, to the brief verse summary in the "skillful means" chapter. The son's return and the father's recognition of him from a distance corresponds to the elder in the fire seeing the danger, and, further back, to the Buddha's own account of surveying beings "with the buddha-eye." The father's pursuit of his son, and his choice to let him go and approach him instead through hired labor, corresponds to the elder setting aside his own strength in favor of the three carts, and, further back, to the decision to "rest the great vehicle and offer the lesser" first.</p>
+          <p>The fourth and fifth similes are different in kind. The gradual growth of the son's trust over twenty years of managing the household's affairs, Zhiyi says, has no clean parallel within this sūtra at all — instead he reads it as reaching outside the Lotus Sūtra entirely, toward the reproving, transitional teachings of the intervening Vaipulya period and the "handing over of instruction" theme in the Prajñāpāramitā literature, periods this site's earlier translation of the Amitābha Sūtra and Vimalakīrti Sūtra project touched on directly. And the final bestowal of the entire estate corresponds to the equal gift of the great cart, and, at the widest range, to the direct declaration, later in this same sūtra, that sets skillful means aside outright. Reading the five similes together, what stands out is that only the first, second, third, and fifth have a clean echo inside this sūtra; the passage of patient, unglamorous trust-building in the middle does not — as if the sūtra is acknowledging that some of what it takes to bring a person from doubt to full acceptance cannot be told in a single parable, however carefully constructed, and has to be lived through instead.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>3. The Meaning Explained</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>「世尊！大富長者則是如來，我等皆似佛子，如來常說我等為子。世尊！我等以三苦故，於生死中受諸熱惱，迷惑無知，樂著小法。今日世尊令我等思惟，蠲除諸法戲論之糞，我等於中勤加精進，得至涅槃一日之價。既得此已，心大歡喜，自以為足，而便自謂：『於佛法中勤精進故，所得弘多。』然世尊先知我等，心著弊欲，樂於小法，便見縱捨，不為分別：『汝等當有如來知見寶藏之分。』世尊以方便力，說如來智慧。我等從佛，得涅槃一日之價，以為大得；於此大乘，無有志求。我等又因如來智慧，為諸菩薩開示演說，而自於此無有志願。所以者何？佛知我等心樂小法，以方便力、隨我等說；而我等不知真是佛子。今我等方知世尊，於佛智慧無所悋惜。所以者何？我等昔來真是佛子，而但樂小法，若我等有樂大之心，佛則為我說大乘法。於此經中唯說一乘，而昔於菩薩前，毀呰聲聞樂小法者，然佛實以大乘教化。是故我等，說本無心有所悕求。今法王大寶自然而至，如佛子所應得者皆已得之。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>"World-Honored One! The great, wealthy elder is the Tathāgata, and we are all like his children — the Tathāgata has always called us his children. World-Honored One! We, because of the three kinds of suffering, endured every torment amid birth and death, confused and without understanding, delighting only in a lesser Dharma. Today the World-Honored One caused us to reflect, and to sweep away the dung of idle speculation about all things; diligently applying ourselves to this, we attained a single day's wage toward nirvāṇa. Having attained this, our hearts were filled with great joy, and we considered ourselves satisfied, telling ourselves: 'Because of our diligent effort in the Buddha's Dharma, what we have gained is already great.' Yet the World-Honored One, knowing from the start that our minds were attached to base desires and delighted only in a lesser Dharma, simply let us be and set us free, without distinguishing for us: 'You yourselves have a share in the treasury of the Tathāgata's own knowledge and vision.' The World-Honored One, by the power of skillful means, spoke of the Tathāgata's wisdom, and we, from the Buddha, received a single day's wage toward nirvāṇa, and considered this a great attainment, with no aspiration toward the Great Vehicle at all. We even taught and expounded the Tathāgata's wisdom for the sake of the bodhisattvas, and yet had no aspiration toward it ourselves. Why is this so? The Buddha, knowing that our minds delighted in a lesser Dharma, taught us according to that, by the power of skillful means; and we did not know that we were truly children of the Buddha. Only now do we know that the World-Honored One is not in the least sparing of the Buddha's own wisdom. Why is this so? Because we have truly been children of the Buddha all along, yet delighted only in a lesser Dharma; had we had a mind that delighted in the Great, the Buddha would have taught us the Dharma of the Great Vehicle directly. In this sūtra he teaches only the one vehicle — and though, in the presence of the bodhisattvas in the past, he seemed to disparage the śrāvakas who delighted in a lesser Dharma, the Buddha was in truth all along teaching and transforming us by the Great Vehicle. For this reason we say: we originally had no mind that hoped for anything — and now this treasure of the Dharma-king has come to us of itself, and whatever a child of the Buddha ought to attain, we have now attained it all."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zhiyi</div>
+          <p>One equation worth being precise about, since this site has already translated a sūtra centered on a different buddha entirely: an older tradition of commentary, Zhiyi notes, had proposed reading the wealthy elder in this parable as Amitābha Buddha of the western Pure Land — presumably drawn to the image of a father of immeasurable wealth awaiting a wandering child's return. Zhiyi rejects this identification directly. Amitābha, he points out, is a different buddha, with a different set of karmic connections to the beings in this assembly; the "hidden and revealed" logic that runs through the whole parable — the son's true identity concealed and then disclosed — does not work if the father is a buddha other than the one actually telling this story, and the father-son relationship the parable depends on cannot be transferred to a different buddha's different assembly. The elder in this parable is Śākyamuni, addressing these same four disciples he has taught since the beginning of his own teaching career — a reading that keeps this parable's specific promise where the text itself places it, rather than borrowing the emotional resonance of a different, if related, tradition's Buddha of immeasurable life.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>4. The Parable Retold in Verse</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p class="verse">爾時摩訶迦葉欲重宣此義，而說偈言：
+「我等今日，　聞佛音教，　歡喜踊躍，
+得未曾有。　佛說聲聞，　當得作佛，
+無上寶聚，　不求自得。　譬如童子，
+幼稚無識，　捨父逃逝，　遠到他土，
+周流諸國，　五十餘年。　其父憂念，
+四方推求，　求之既疲，　頓止一城，
+造立舍宅，　五欲自娛。　其家巨富，
+多諸金銀、　車璩馬腦、　真珠琉璃；
+象馬牛羊、　輦輿車乘；　田業僮僕、
+人民眾多。　出入息利，　乃遍他國，
+商估賈人、　無處不有。　千萬億眾，
+圍繞恭敬，　常為王者，　之所愛念，
+群臣豪族，　皆共宗重。　以諸緣故，
+往來者眾，　豪富如是，　有大力勢。
+
+而年朽邁，　益憂念子，　夙夜惟念，
+死時將至。　癡子捨我，　五十餘年，
+庫藏諸物，　當如之何？　爾時窮子，
+求索衣食，　從邑至邑、　從國至國。
+或有所得，　或無所得，　飢餓羸瘦，
+體生瘡癬。　漸次經歷，　到父住城，
+傭賃展轉，　遂至父舍。　爾時長者，
+於其門內，　施大寶帳，　處師子座；
+眷屬圍遶，　諸人侍衛，　或有計算，
+金銀寶物，　出內財產，　注記券䟽。
+
+窮子見父，　豪貴尊嚴，　謂是國王，
+若是王等。　驚怖自怪，　何故至此。
+覆自念言：　『我若久住，　或見逼迫，
+強驅使作。』　思惟是已，　馳走而去，
+借問貧里，　欲往傭作。　長者是時，
+在師子座，　遙見其子，　默而識之。
+即勅使者，　追捉將來。　窮子驚喚，
+迷悶躄地：　『是人執我，　必當見殺，
+何用衣食，　使我至此？』　長者知子，
+愚癡狹劣，　不信我言，　不信是父。
+
+即以方便，　更遣餘人，　眇目矬陋，
+無威德者：　『汝可語之，　云當相雇，
+除諸糞穢，　倍與汝價。』　窮子聞之，
+歡喜隨來，　為除糞穢，　淨諸房舍。
+長者於牖，　常見其子，　念子愚劣，
+樂為鄙事。　於是長者，　著弊垢衣，
+執除糞器，　往到子所，　方便附近，
+語令勤作：
+『既益汝價，　并塗足油，　飲食充足，
+薦席厚煖。』　如是苦言：　『汝當勤作。』
+又以軟語：　『若如我子。』　長者有智，
+漸令入出，　經二十年，　執作家事。
+
+示其金銀、　真珠頗梨；　諸物出入，
+皆使令知。　猶處門外，　止宿草庵，
+自念貧事：　『我無此物。』　父知子心，
+漸已廣大，　欲與財物。　即聚親族、
+國王大臣、　剎利居士。　於此大眾，
+說是我子，　捨我他行，　經五十歲。
+自見子來，　已二十年。　昔於某城，
+而失是子，　周行求索，　遂來至此。
+凡我所有，　舍宅人民，　悉以付之，
+恣其所用。　子念昔貧，　志意下劣，
+今於父所，　大獲珍寶，　并及舍宅、
+一切財物。　甚大歡喜，　得未曾有。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p class="verse">At that time Mahākāśyapa, wishing to restate this same meaning once more, spoke in verse: "Today we have heard the Buddha's voice teach us, and we leap with joy, having gained what we never had before. The Buddha says that śrāvakas shall become buddhas, and an unsurpassed treasure, sought by us not at all, we have attained. It is like a young boy, small and without understanding, who forsakes his father and runs away, going far off to another land, wandering through every country for more than fifty years. His father, grieving over him, searches for him in every direction, and, wearied by the search, at last settles in a single city, builds a house, and enjoys himself with the five desires. That family is greatly wealthy, with much gold and silver, giant clam-shell and carnelian, pearls and lapis lazuli; elephants, horses, cattle, and sheep; carriages and palanquins; fields, servants, and a great many people. His profits from lending and trade reach even into other lands, and merchants and traders are everywhere to be found. Thousands upon thousands surround him with reverence, ever cherished by kings, and honored by every minister and noble house. For all these reasons, many come and go about him — so wealthy and eminent is he, of such great power.
+
+Yet as he grows old and worn, he only grieves the more over his son, thinking of him morning and night, aware that the time of his own death draws near. 'My foolish son forsook me more than fifty years ago — what shall become of all my stores and treasures?' At that time the destitute son was seeking clothing and food, from town to town, from land to land. Sometimes he found something, sometimes he found nothing; starving and gaunt, sores broke out over his body. Wandering by degrees, he came at last to the city where his father dwelt, drifting from one hired labor to another, until he arrived at his father's house. At that time the elder, within his gate, had spread a great jeweled canopy, and sat upon a lion's throne, surrounded by his household, attended by many people; some were reckoning gold, silver, and treasure, recording the taking in and giving out of his wealth in ledgers and deeds.
+
+The destitute son, seeing his father so eminent, wealthy, and majestic, supposed him to be a king, or someone equal to a king. Terrified, he wondered to himself why he had come to this place at all. He thought further: 'If I stay here long, I may be pressed and forced to work against my will.' Having thought this, he fled away at once, and asked after some poor quarter where he might go to find hired work. The elder, at that time, seated upon his lion's throne, saw his son from a distance, and recognized him at once, though he said nothing. He at once commanded his messengers to pursue and seize him and bring him back. The destitute son cried out in alarm, and, overcome with confusion, fell to the ground: 'These men seize me — surely I shall be killed! Why have they brought me, for the sake of mere food and clothing, to this?' The elder, knowing that his son was foolish and narrow in his understanding, and would not believe his words or believe that he was his father,
+
+used a skillful means instead, and sent other messengers, one-eyed, stunted, and without any air of authority: 'Go and tell him that we would hire him, to clear away dung and filth, paying him double.' The destitute son, hearing this, came gladly, to clear away the filth and cleanse the rooms of the house. The elder, watching from a window, saw his son constantly, and, thinking of his son's low and foolish state, content with such base work, put on worn and soiled clothing himself, took up an implement for clearing dung, and went to where his son was, drawing near to him by this skillful means, and told him to work diligently: 'I shall raise your wage, and give you oil for your feet besides, and food enough, and thick, warm bedding.' Speaking sternly like this, he said: 'You should work diligently' — and then, with gentle words: 'You are like my own son to me.' The elder, being wise, gradually let him come and go freely, and for twenty years had him manage the affairs of the household.
+
+He showed him the gold, silver, pearls, and crystal, and had him learn all the comings and goings of his goods — yet the son still remained outside the gate, lodging in a grass hut, thinking to himself of his own poverty: 'None of this belongs to me.' The father, seeing that his son's mind had gradually broadened, wished to give him his wealth, and so gathered his relatives, kings, ministers, warrior-nobles, and householders. Before this great assembly he declared: 'This is my own son, who forsook me and went elsewhere for fifty years. It has now been twenty years since I first saw him return. Long ago, in a certain city, I lost this son, and searched for him everywhere, until at last he came to this place. All that I possess — my house, my people — I now entrust entirely to him, to use as he wishes.' The son, remembering his former poverty and his own base and lowly resolve, now, in his father's presence, received great treasure, together with the house and all its wealth. He was filled with great joy, having gained what he never had before."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zhiyi</div>
+          <p>The verse follows the prose parable's own sequence closely, without adding the kind of vivid new imagery the burning-house verse added to its own prose original. What it does add is emphasis, through repetition, on the sheer duration of the son's uncertainty: fifty years lost, twenty more spent laboring within his own father's house before he can accept what is his. Zhiyi's five-simile scheme treats this long middle stretch — far longer, in the story's own telling, than either the initial flight or the final bestowal — as the one movement in the parable without a clean parallel elsewhere in this sūtra. Read plainly, the emphasis the verse places on time passing is itself part of what these four elders are telling the Buddha: not every listener's path from doubt to acceptance can be compressed into a single dramatic turn.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>5. What the Parable Means: The Elders' Own Reflection</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p class="verse">「佛亦如是，　知我樂小，　未曾說言：
+『汝等作佛。』　而說我等，　得諸無漏，
+成就小乘，　聲聞弟子。　佛勅我等，
+說最上道，　修習此者，　當得成佛。
+
+我承佛教，　為大菩薩，　以諸因緣、
+種種譬喻、　若干言辭，　說無上道。
+諸佛子等、　從我聞法，　日夜思惟，
+精勤修習。　是時諸佛，　即授其記：
+『汝於來世，　當得作佛。』　一切諸佛，
+祕藏之法，　但為菩薩，　演其實事，
+而不為我，　說斯真要。　如彼窮子、
+得近其父，　雖知諸物，　心不希取。
+
+我等雖說，　佛法寶藏，　自無志願，
+亦復如是。　我等內滅，　自謂為足，
+唯了此事，　更無餘事。　我等若聞，
+淨佛國土，　教化眾生，　都無欣樂。
+所以者何？　一切諸法，　皆悉空寂，
+無生無滅，　無大無小，　無漏無為。
+如是思惟，　不生喜樂。　我等長夜，
+於佛智慧，　無貪無著，　無復志願；
+而自於法，　謂是究竟。　我等長夜，
+修習空法，　得脫三界，　苦惱之患，
+住最後身、　有餘涅槃。　佛所教化，
+得道不虛，　則為已得，　報佛之恩。
+
+我等雖為，　諸佛子等，　說菩薩法，
+以求佛道；　而於是法，　永無願樂。
+導師見捨，　觀我心故，　初不勸進，
+說有實利。　如富長者，　知子志劣，
+以方便力，　柔伏其心，　然後乃付，
+一切財物。
+
+佛亦如是，　現希有事，　知樂小者，
+以方便力，　調伏其心，　乃教大智。
+我等今日，　得未曾有，　非先所望，
+而今自得，　如彼窮子，　得無量寶。
+
+世尊我今，　得道得果，　於無漏法，
+得清淨眼。　我等長夜，　持佛淨戒，
+始於今日，　得其果報，　法王法中，
+久修梵行，　今得無漏，　無上大果。
+我等今者，　真是聲聞，　以佛道聲，
+令一切聞。　我等今者，　真阿羅漢，
+於諸世間，　天人魔梵，　普於其中，
+應受供養。
+
+世尊大恩，　以希有事，　憐愍教化，
+利益我等，　無量億劫，　誰能報者。
+手足供給，　頭頂禮敬，　一切供養，
+皆不能報。　若以頂戴，　兩肩荷負，
+於恒沙劫，　盡心恭敬；　又以美饍、
+無量寶衣，　及諸臥具、　種種湯藥，
+牛頭栴檀，　及諸珍寶，　以起塔廟，
+寶衣布地。　如斯等事，　以用供養，
+於恒沙劫，　亦不能報。
+
+諸佛希有，　無量無邊，　不可思議，
+大神通力，　無漏無為，　諸法之王。
+能為下劣，　忍于斯事，　取相凡夫，
+隨宜為說。　諸佛於法，　得最自在，
+知諸眾生，　種種欲樂，　及其志力。
+隨所堪任，　以無量喻，　而為說法。
+隨諸眾生，　宿世善根，　又知成熟、
+未成熟者，　種種籌量，　分別知已，
+於一乘道、　隨宜說三。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p class="verse">"The Buddha is likewise so: knowing that we delighted in a lesser Dharma, he never once said to us, 'You shall become buddhas' — but taught us instead that we had attained the undefiled, and accomplished the lesser vehicle, as śrāvaka disciples. The Buddha commanded us to teach the supreme path, saying that those who cultivate and practice it would attain buddhahood.
+
+Receiving the Buddha's instruction, we taught it for the great bodhisattvas, through every kind of cause and condition, every kind of parable, and every manner of word, teaching the unsurpassed path. These children of the Buddha, hearing the Dharma from us, reflected on it day and night, and diligently cultivated it; and the buddhas then bestowed on them a prediction: 'In a future age, you shall become buddhas.' The secret, treasured Dharma of all the buddhas is taught for the bodhisattvas alone, expounding its true substance — and it was not taught to us; this true essence was not spoken for our sake. Like that destitute son, who drew near to his father and, though he came to know all his goods, had no desire to take them for himself —
+
+even as we taught the treasury of the Buddha's own Dharma, we ourselves had no aspiration toward it; we were just the same. Within ourselves we had reached cessation, and considered ourselves satisfied, understanding only this one matter, with nothing further to do. When we heard of purifying buddha-lands and bringing beings to maturity, we felt no delight in it at all. Why is this so? Because we considered all things to be entirely empty and quiescent, without arising, without ceasing, without great, without small, undefiled, and unconditioned. Reflecting in this way, we gave rise to no joy or delight. Through the long night of saṃsāra, we had no greed, no attachment, and no further aspiration toward the Buddha's own wisdom; we simply considered the Dharma we had as the ultimate one. Through the long night, we cultivated and practiced the Dharma of emptiness, and, freed from the affliction of suffering in the three realms, we dwelt in our final body, in nirvāṇa with remainder. We believed that the Buddha's teaching had brought us to a genuine attainment of the path, and that this alone repaid the Buddha's kindness.
+
+Though we taught the bodhisattva's own Dharma to these children of the Buddha, so that they might seek the buddha-path, toward this same Dharma we ourselves had no aspiration or delight at all. Our Guide, seeing this, and understanding our minds, did not, at first, urge us onward, or tell us there was a real benefit still to be gained. It was like the wealthy elder, who, knowing his son's resolve was base, used the power of skillful means to gently subdue his mind, and only then entrusted him with all his wealth.
+
+The Buddha is likewise so: manifesting this rare event, knowing that we delighted in a lesser Dharma, he used the power of skillful means to tame our minds, and only then taught us the great wisdom. Today we have gained what we never had before, something we never hoped for, yet have now attained of ourselves — like that destitute son, who obtained immeasurable treasure.
+
+World-Honored One, we have now attained the path and its fruit, and, within the undefiled Dharma, have attained a pure eye. Through the long night we upheld the Buddha's pure precepts, and only today have we attained their true fruit; within the Dharma-king's own Dharma, we long cultivated pure conduct, and have now attained the undefiled, unsurpassed great fruit. We are now truly śrāvakas, causing everyone to hear, through us, the voice of the buddha-path. We are now truly arhats, worthy, throughout every world, among gods, humans, māras, and Brahmās alike, to receive their offerings.
+
+The World-Honored One's great kindness, through this rare event, has out of compassion taught and transformed us, benefiting us — through immeasurable koṭis of kalpas, who could ever repay it? Serving with our own hands and feet, bowing our heads to the ground in reverence, every offering we could make would still not repay it. Even if we bore him upon our own heads, carried him upon our own shoulders, through kalpas as many as the sands of the Ganges, with utmost reverence and devotion; or made offerings of fine food, of immeasurable jeweled robes, of every kind of bedding and medicine, of ox-head sandalwood and every kind of treasure, building stūpas and shrines, spreading jeweled robes upon the ground — offerings such as these, made through kalpas as many as the sands of the Ganges, still could not repay it.
+
+The buddhas are rare, immeasurable, boundless, and inconceivable, of great spiritual power, undefiled and unconditioned, kings of every Dharma. They are able, for the sake of the lowly, to bear with all of this, teaching, according to what is fitting, ordinary people attached to appearances. The buddhas, having attained the utmost mastery over the Dharma, know the every kind of desire and delight of beings, and the strength of their resolve, and, according to what each is able to bear, teach the Dharma through immeasurable parables. According to the good roots beings have planted in past lives, and knowing which are ripened and which are not yet ripe, they consider and distinguish every kind of case, and, within the one vehicle path, teach three according to what is fitting."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Zhiyi</div>
+          <p>The line these elders return to twice — first describing themselves as dwelling in "nirvāṇa with remainder" (有餘涅槃), and again insisting they "considered the Dharma we had as the ultimate one" — is the same distinction Part 5 raised about the arhats generally: what they had reached was real, but not yet the true and final extinction. What this chapter adds is the elders' own account of why they could not have known this at the time. Their attainment of emptiness left them, by their own description, with "no greed, no attachment, and no further aspiration" — a state that felt, from the inside, indistinguishable from completion. The parable's insistence that the father approached his son gradually, through decades of ordinary labor rather than a single dramatic disclosure, is these elders' own explanation for why the deeper truth could not simply have been announced to them earlier: a mind settled into believing itself finished has no felt need to ask whether it might not be.</p>
+          <p>The chapter's closing lines return to the same formulation this site's commentary has now traced across several parts — past, present, and future buddhas alike teaching three only in order to make one vehicle intelligible to beings not yet ready to hear it stated directly. What is new here is that the elders apply this to their own case explicitly, thanking the Buddha not for withholding the truth but for the specific patience of not forcing it on them before they could receive it. Coming from disciples who spent this same chapter's opening lines confessing years of quiet self-satisfaction, the gratitude reads less as gratitude for the destination than for the pace at which they were finally, gently, brought to it.</p>
+        </div>
+      </section>
+
+      <nav class="fascicle-pagenav" aria-label="Section navigation">
+        <a class="pn-prev" href="{{ '/sutras/lotus-sutra/the-burning-house-in-verse.html' | relative_url }}"><span class="pn-label">← Previous</span><span class="pn-title">The Burning House, Retold in Verse</span></a>
+        <span class="pn-index"><a href="{{ '/sutras/lotus-sutra.html' | relative_url }}">↑ All sections · The Lotus Sūtra</a></span>
+        <a class="pn-next" href="{{ '/sutras/lotus-sutra/the-medicinal-herbs-and-four-predictions.html' | relative_url }}"><span class="pn-label">Next →</span><span class="pn-title">The Medicinal Herbs, and Four Predictions</span></a>
+      </nav>
+
+    </div>
+  </section>
+</article>
