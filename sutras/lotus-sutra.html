@@ -1,0 +1,301 @@
+---
+layout: default
+title: The Lotus Sūtra — 妙法蓮華經
+permalink: /sutras/lotus-sutra.html
+excerpt: Ru-Yi's reading guide to the Lotus Sūtra (妙法蓮華經) — Kumārajīva's early 5th-century translation — in progress, fourteen parts covering fascicles one through four, each with side-by-side Chinese–English text and reading notes drawn from Zhiyi's 妙法蓮華經文句, with Jizang and Kuiji consulted where their readings diverge.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .js .fascicle [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
+  .js .fascicle [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js .fascicle [data-rv]{opacity:1;transform:none;}}
+
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:60px 26px 52px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:26px;}
+  .fascicle-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid transparent;}
+  .fascicle-btn.primary{background:var(--terra);color:#fff;}
+  .fascicle-btn.secondary{color:var(--terra-deep);background:#fffaf1;border-color:#dfceb3;}
+
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle .lede{font-size:19px;color:var(--ink);border-left:2px solid var(--terra);padding-left:18px;margin:0 0 20px;}
+  .fascicle table{width:100%;border-collapse:collapse;margin:16px 0 22px;font-size:16px;}
+  .fascicle th,.fascicle td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--muted);}
+  .fascicle th{background:#f6efe2;color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+
+  .glance{background:#f6efe2;border-left:3px solid var(--ink);padding:22px 26px;margin:26px 0 6px;font-size:16px;}
+  .glance dl{display:grid;grid-template-columns:130px 1fr;gap:9px 16px;margin:0;}
+  .glance dt{color:var(--muted);font-weight:700;}
+  .glance dd{color:var(--ink);margin:0;}
+
+  .terms{background:#fdf9f1;border:1px solid var(--line);padding:22px 24px;border-radius:6px;font-size:16px;}
+  .terms .term{margin-bottom:14px;}
+  .terms .term:last-child{margin-bottom:0;}
+  .terms .pali-word{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-weight:700;color:var(--ink);}
+
+  .citation-panel{background:#fdf9f1;border:1px solid #e6d9bd;border-radius:8px;padding:26px 28px;margin-top:20px;}
+  .citation-panel .tag{display:inline-block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:10px;}
+  .citation-panel p{color:#5c4a2a;font-size:16px;line-height:1.72;}
+
+  .note-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:24px;}
+  @media(min-width:700px){.note-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .note-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf8ef);padding:22px;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .note-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(140,47,18,.4);border-color:var(--terra);text-decoration:none;}
+  .note-card .kicker{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .note-card h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;color:var(--ink);margin:8px 0 8px;line-height:1.25;}
+  .note-card p{font-size:15px;color:var(--muted);line-height:1.55;margin:0;}
+  .note-card .zh-range{font-size:13px;color:#9a8a6a;margin-top:10px;}
+
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  .resources{font-size:16px;}
+  .resources a{color:var(--terra-deep);text-decoration:underline;text-underline-offset:3px;}
+  .resources li{margin-bottom:10px;}
+
+  .warn-panel{background:#fbf1ef;border:1px solid #e3bdb4;border-radius:8px;padding:22px 24px;margin-top:20px;}
+  .warn-panel .tag{display:inline-block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:#8c2f12;margin-bottom:10px;}
+  .warn-panel p{color:#5c2a20;font-size:16px;line-height:1.72;margin:0;}
+  .warn-panel p+p{margin-top:12px;}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Sūtras</a> › The Lotus Sūtra</nav>
+      <div class="fascicle-kicker" data-rv>Mahāyāna · Ekayāna</div>
+      <h1 data-rv style="transition-delay:.05s">The Lotus Sūtra</h1>
+      <p class="subtitle" data-rv style="transition-delay:.1s"><em>the Sūtra of the Lotus of the Wonderful Dharma</em><span class="zh">《妙法蓮華經》</span></p>
+      <p class="lede" data-rv style="transition-delay:.14s">A reading guide and a Chinese–English translation, in progress, with reading notes drawn from Zhiyi's 6th-century <em>妙法蓮華經文句</em> — the sūtra whose one claim everything else on this site's Mahāyāna shelf has been quietly assuming: that the teachings which look like three separate vehicles were always, secretly, one.</p>
+      <div class="fascicle-meta" data-rv style="transition-delay:.18s">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T262 · Kumārajīva's translation, early 5th century CE</span>
+        <span class="fascicle-pill">Commentary guide: Zhiyi's 妙法蓮華經文句 (6th c.)</span>
+        <span class="fascicle-pill">Status: in progress · 14 of 25 parts (卷一–卷四 complete)</span>
+      </div>
+      <div class="fascicle-actions" data-rv style="transition-delay:.22s">
+        <a class="fascicle-btn primary" href="#sections">Browse the fourteen parts →</a>
+        <a class="fascicle-btn secondary" href="#source">About the source →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <div class="glance" data-rv>
+        <dl>
+          <dt>Sanskrit</dt><dd>The <em>Saddharmapuṇḍarīka Sūtra</em> — "the sūtra of the lotus flower of the true Dharma"</dd>
+          <dt>Chinese</dt><dd><span class="zh">《妙法蓮華經》</span>, translated by Kumārajīva (<span class="zh">鳩摩羅什</span>), 406&nbsp;CE — the translation that became standard across East Asian Buddhism, and the founding scripture of the Tiantai school</dd>
+          <dt>Tradition</dt><dd>Mahāyāna — Ekayāna, "the one vehicle" (<span class="zh">一乘</span>); doctrinal foundation of the Tiantai (<span class="zh">天台</span>) and Nichiren traditions</dd>
+          <dt>Speaker</dt><dd>Śākyamuni Buddha, at Vulture Peak, to an assembly that grows, across the sūtra, to include an entire buddha risen bodily from the earth and buddhas emanated across the ten directions</dd>
+          <dt>Length</dt><dd>Roughly 87,600 Chinese characters across twenty-eight chapters and seven fascicles — more than three times the length of <a href="{{ '/sutras/immeasurable-life-sutra.html' | relative_url }}">the Larger Sukhāvatīvyūha Sūtra</a>, and the longest sūtra project on this site</dd>
+          <dt>Difficulty</dt><dd>★★★★☆ to read — individual parables are simple and vivid, but the sūtra builds its argument cumulatively across dozens of chapters, and several passages (the ten suchnesses, the "three rounds" of teaching, the sūtra's own contested textual history) reward reading in sequence rather than in isolation.</dd>
+        </dl>
+      </div>
+
+      <section class="fascicle-section" data-rv>
+        <h2>Why This Sūtra, and Where This Guide Currently Stands</h2>
+        <p class="lede">
+          Every other Mahāyāna sūtra on this site describes a specific path — Sukhāvatī's forty-eight vows, Vimalakīrti's inconceivable liberation, the Diamond Sūtra's perfection of wisdom. This sūtra makes a claim about all of them at once: that the śrāvaka's path, the pratyekabuddha's path, and the bodhisattva's path were never three different destinations, only three provisional descriptions of the same one, offered because most listeners were not yet ready to hear the single truth stated directly. Everything from the burning house to the phantom city to the destitute son is this same claim, told again through a different image, for a different audience.
+        </p>
+        <p>
+          This translation is a work in progress, not a finished one. Kumārajīva's Lotus Sūtra runs to roughly 87,600 characters across twenty-eight chapters in seven fascicles — more than three times the length of the Immeasurable Life Sūtra, and too large to translate and annotate in a single sitting. The fourteen parts published so far cover the first four fascicles in full: the entire "trace gate" (<span class="zh">迹門</span>) argument that the three vehicles were always skillful means for one, chapters one through thirteen. The remaining fascicles — the Medicine King's self-immolation, Avalokiteśvara's universal gate, the Bodhisattvas Springing Up from the Earth, and the sūtra's account of the Buddha's own truly immeasurable lifespan — are not yet translated.
+        </p>
+
+        <h3>The teaching in one sentence</h3>
+        <p>
+          Every buddha appears in the world for one great cause alone — to open, show, help beings awaken to, and lead them into the buddha's own knowledge and vision — and the three vehicles taught for so long, to audiences not yet ready to hear this stated directly, were always skillful means pointing toward this one single truth, never a lesser or different one.
+        </p>
+
+        <h3>Zhiyi's "three rounds," and how this guide is organized</h3>
+        <p>
+          Zhiyi's commentary reads the sūtra's opening chapters as a single teaching delivered three separate times, calibrated to three levels of readiness: a direct doctrinal statement to the sharpest listeners (Śāriputra, in <a href="{{ '/sutras/lotus-sutra/skillful-means-the-buddhas-wisdom.html' | relative_url }}">Parts 2–3</a>), the same claim retold as the parable of a burning house to those who need an image before they can follow it (<a href="{{ '/sutras/lotus-sutra/the-parable-of-the-burning-house.html' | relative_url }}">Parts 4–5</a>), and, several chapters later, an ancient story reaching back over countless lifetimes for those who need a narrative before they can accept it at all (<a href="{{ '/sutras/lotus-sutra/sixteen-buddhas-from-one-teacher.html' | relative_url }}">Parts 8–9</a>). Reading these three tellings against one another — not just each in isolation — is, on Zhiyi's own account, the point of how this sūtra is built.
+        </p>
+
+        <h3>A note on this chapter's own contested history</h3>
+        <p>
+          Not every chapter in the received Lotus Sūtra came from Kumārajīva's own hand at the same time. <a href="{{ '/sutras/lotus-sutra/devadatta.html' | relative_url }}">Part 13</a>, on Devadatta and the dragon king's daughter, was not part of Kumārajīva's original twenty-seven-chapter translation — Jizang, writing in the early seventh century, records that it was translated separately from a manuscript found in Khotan and only inserted into the Lotus Sūtra decades after Kumārajīva's death. That same chapter contains this sūtra's most direct — and most doctrinally fraught — passage on gender and buddhahood; the reading note there presents the classical commentarial position and the tension a reader today will likely feel against it side by side, without resolving the question in either direction.
+        </p>
+
+        <h3>How to actually use this text</h3>
+        <ol>
+          <li><strong>Read Parts 2 through 5 as one unit.</strong> The direct statement and the burning-house parable are two tellings of a single argument; reading them back to back, rather than treating the parable as a separate story, is closer to how the sūtra itself presents them.</li>
+          <li><strong>Don't skip the ancient story in Parts 8–9 for its length.</strong> It is the longest sustained narrative in the sūtra so far, and it exists to answer a specific question: not just why the three vehicles were taught, but how far back this present assembly's own connection to the teaching actually reaches.</li>
+          <li><strong>Read Part 13 with its reading notes, not around them.</strong> This is the one chapter on this site where the reading notes are doing as much work as the translation — both the textual-history note at its start and the paired reading of its closing episode are load-bearing, not optional context.</li>
+        </ol>
+      </section>
+
+      <section class="fascicle-section" data-rv>
+        <h2>Key Terms</h2>
+        <div class="terms">
+          <div class="term"><span class="pali-word">一佛乘</span> — the one buddha vehicle: the sūtra's central claim, that the śrāvaka, pratyekabuddha, and bodhisattva vehicles were always this one vehicle, taught as three only as skillful means.</div>
+          <div class="term"><span class="pali-word">方便</span> — skillful means: read by Zhiyi, in its deepest sense for this sūtra's title, not as a lesser truth simplified for weak minds, but as the truth itself, worn in a form not yet recognized as such — the parable of the pearl sewn into a poor man's robe, in <a href="{{ '/sutras/lotus-sutra/the-jeweled-robe-and-the-priceless-pearl.html' | relative_url }}">Part 10</a>, states this claim in the sūtra's own words.</div>
+          <div class="term"><span class="pali-word">十如是</span> — the ten suchnesses: the sūtra's own list of how all phenomena are known, in <a href="{{ '/sutras/lotus-sutra/skillful-means-the-buddhas-wisdom.html' | relative_url }}">Part 2</a> — and the site of some of the densest exegesis in the entire Tiantai tradition, including the "three transpositions" reading laid over the same nine characters from outside the text.</div>
+          <div class="term"><span class="pali-word">三周說法</span> — the three rounds of teaching: Zhiyi's scheme for how this sūtra delivers its one claim three times, to three levels of readiness — see "Zhiyi's three rounds" above.</div>
+          <div class="term"><span class="pali-word">開三顯一</span> — opening the three to reveal the one: the technical shorthand, used throughout the commentarial tradition, for this sūtra's central doctrinal move.</div>
+          <div class="term"><span class="pali-word">授記</span> — prediction: the Buddha's formal confirmation, to a specific disciple by name, of a future buddhahood complete with a name, a land, a kalpa, and a lifespan — first given to Śāriputra in <a href="{{ '/sutras/lotus-sutra/the-parable-of-the-burning-house.html' | relative_url }}">Part 4</a>, and repeated, with variations, through most of the chapters that follow it.</div>
+          <div class="term"><span class="pali-word">化城</span> — the phantom city: a guide's provisional rest-stop, conjured and later dissolved, standing for the two lesser nirvāṇas taught as a resting place along a road whose real destination lies further on — <a href="{{ '/sutras/lotus-sutra/the-parable-of-the-phantom-city.html' | relative_url }}">Part 9</a>.</div>
+          <div class="term"><span class="pali-word">多寶佛塔</span> — the stūpa of Prabhūtaratna: an entire long-extinct buddha's stūpa, rising bodily from the earth to confirm this sūtra's truth wherever it is taught — <a href="{{ '/sutras/lotus-sutra/the-jeweled-stupa.html' | relative_url }}">Part 12</a>.</div>
+          <div class="term"><span class="pali-word">如來室・如來衣・如來座</span> — the Tathāgata's room, robe, and seat: great compassion, gentleness and patience, and the emptiness of all things — the sūtra's own three-phrase discipline for anyone who teaches it after the Buddha's parinirvāṇa, in <a href="{{ '/sutras/lotus-sutra/the-teacher-of-the-dharma.html' | relative_url }}">Part 11</a>.</div>
+        </div>
+      </section>
+
+      <section class="fascicle-section" id="sections" data-rv>
+        <div class="rn-divider"><h2>The Fourteen Parts (of Twenty-Five Planned)</h2></div>
+        <p class="lede">
+          Fascicles one through four, in full — chapters 序品第一 through 勸持品第十三. Each part has the Chinese–English text side by side and reading notes drawn from Zhiyi's commentary. Read in order; the argument builds cumulatively, and later parts assume the earlier ones.
+        </p>
+        <div class="note-grid">
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-assembly-and-the-six-signs.html' | relative_url }}">
+            <span class="kicker">Part 1 · 序品第一</span>
+            <h3>The Assembly and the Six Signs</h3>
+            <p>Vulture Peak, the Buddha's wordless samādhi, six auspicious signs, and Mañjuśrī's account of an ancient buddha who once taught this very sūtra under circumstances identical to this one.</p>
+            <span class="zh-range">卷一 · T262 行 83–424</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/skillful-means-the-buddhas-wisdom.html' | relative_url }}">
+            <span class="kicker">Part 2 · 方便品第二（上）</span>
+            <h3>Skillful Means: The Buddha's Wisdom</h3>
+            <p>A wisdom praised as "hard to understand and hard to enter," the ten suchnesses, five thousand who cannot accept it and walk out, and the declaration of the one great cause and the one buddha vehicle.</p>
+            <span class="zh-range">卷一 · T262 行 427–621</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-buddhas-hesitation-and-the-turning-of-the-wheel.html' | relative_url }}">
+            <span class="kicker">Part 3 · 方便品第二（下）</span>
+            <h3>The Buddha's Hesitation, and the Turning of the Wheel</h3>
+            <p>The verse restatement of skillful means, the merit of a child's game of sand, the Buddha's own account of nearly declining to teach at all, and the first turning of the wheel at Vārāṇasī.</p>
+            <span class="zh-range">卷一 · T262 行 622–962</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-parable-of-the-burning-house.html' | relative_url }}">
+            <span class="kicker">Part 4 · 譬喻品第三（上）</span>
+            <h3>The Parable of the Burning House</h3>
+            <p>Śāriputra's confession of years of self-doubt, his prediction of future buddhahood, and a father who lures his children from a burning house with three carts, then gives them all one greater cart instead.</p>
+            <span class="zh-range">卷二 · T262 行 970–1249</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-burning-house-in-verse.html' | relative_url }}">
+            <span class="kicker">Part 5 · 譬喻品第三（下）</span>
+            <h3>The Burning House, Retold in Verse</h3>
+            <p>The parable retold with vivid new detail, the warning that arhatship was not yet true extinction, and a stark passage on exactly who this sūtra should — and should not — be taught to.</p>
+            <span class="zh-range">卷二 · T262 行 1250–1516</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-parable-of-the-destitute-son.html' | relative_url }}">
+            <span class="kicker">Part 6 · 信解品第四</span>
+            <h3>The Parable of the Destitute Son</h3>
+            <p>Four elder disciples answer the burning house with a parable of their own: a son who flees his wealthy father, labors two decades unrecognized in his own father's house, and is gradually led to his inheritance.</p>
+            <span class="zh-range">卷二 · T262 行 1517–1754</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-medicinal-herbs-and-four-predictions.html' | relative_url }}">
+            <span class="kicker">Part 7 · 藥草喻品第五・授記品第六</span>
+            <h3>The Medicinal Herbs, and Four Predictions</h3>
+            <p>A single rain nourishing plants of every size according to their own nature, and predictions of future buddhahood for Mahākāśyapa, Subhūti, Mahākātyāyana, and Mahāmaudgalyāyana.</p>
+            <span class="zh-range">卷三 · T262 行 1761–2035</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/sixteen-buddhas-from-one-teacher.html' | relative_url }}">
+            <span class="kicker">Part 8 · 化城喻品第七（上）</span>
+            <h3>Sixteen Buddhas from One Teacher</h3>
+            <p>An inconceivably ancient buddha, his sixteen sons who become novices and teach this same sūtra themselves, and their revelation as sixteen present buddhas — among them Amitābha, and Śākyamuni himself.</p>
+            <span class="zh-range">卷三 · T262 行 2036–2359</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-parable-of-the-phantom-city.html' | relative_url }}">
+            <span class="kicker">Part 9 · 化城喻品第七（下）</span>
+            <h3>The Parable of the Phantom City</h3>
+            <p>A guide conjures a walled city for exhausted travelers to rest in, then lets it vanish — and Śākyamuni's disclosure that he himself once taught this very assembly, in a lifetime beyond any of their memories.</p>
+            <span class="zh-range">卷三 · T262 行 2360–2516</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-jeweled-robe-and-the-priceless-pearl.html' | relative_url }}">
+            <span class="kicker">Part 10 · 五百弟子受記品第八・授學無學人記品第九</span>
+            <h3>The Jeweled Robe, and the Priceless Pearl</h3>
+            <p>Pūrṇa revealed as a bodhisattva who secretly played a śrāvaka's role, a priceless pearl sewn unknowingly into a poor man's robe, and predictions for Ānanda, Rāhula, and two thousand more.</p>
+            <span class="zh-range">卷四 · T262 行 2523–2818</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-teacher-of-the-dharma.html' | relative_url }}">
+            <span class="kicker">Part 11 · 法師品第十</span>
+            <h3>The Teacher of the Dharma</h3>
+            <p>The merit extended to anyone who hears even a single verse of this sūtra, the stūpa marking wherever it is kept, and the room, robe, and seat that anyone teaching it after the Buddha must enter, wear, and sit in.</p>
+            <span class="zh-range">卷四 · T262 行 2819–3002</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/the-jeweled-stupa.html' | relative_url }}">
+            <span class="kicker">Part 12 · 見寶塔品第十一</span>
+            <h3>The Jeweled Stūpa</h3>
+            <p>An entire buddha's stūpa erupts from the earth to bear witness to this sūtra, and a verse insisting that every conceivable feat of cosmic strength is easier than simply teaching it in a difficult age.</p>
+            <span class="zh-range">卷四 · T262 行 3003–3179</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/devadatta.html' | relative_url }}">
+            <span class="kicker">Part 13 · 提婆達多品第十二</span>
+            <h3>Devadatta</h3>
+            <p>A chapter with its own contested textual history, in which the Buddha's own rival is revealed as a former teacher and future buddha, and an eight-year-old dragon princess attains buddhahood in an instant.</p>
+            <span class="zh-range">卷四 · T262 行 3180–3293</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/lotus-sutra/those-who-uphold-this-sutra.html' | relative_url }}">
+            <span class="kicker">Part 14 · 勸持品第十三</span>
+            <h3>Those Who Uphold This Sūtra</h3>
+            <p>Waves of vows to teach this sūtra in a hostile future age, predictions for the Buddha's foster mother and the mother of his son, and eighty myriad koṭis of bodhisattvas volunteering, unasked, to endure persecution.</p>
+            <span class="zh-range">卷四 · T262 行 3294–3389</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="fascicle-section" id="source" data-rv>
+        <h2>About the Source</h2>
+        <p>
+          The Chinese is Kumārajīva's translation (<span class="zh">鳩摩羅什</span>, Taishō T262, 406&nbsp;CE), the version that became standard throughout East Asian Buddhism and the founding text of the Tiantai school. The English translation was made for Ru-Yi Meditation Center directly from this Chinese, without reference to any existing English translation, following the same conventions as this site's other sūtra pages.
+        </p>
+        <div class="warn-panel">
+          <span class="tag">A note on Part 13's textual history</span>
+          <p>
+            Part 13, on Devadatta, was not part of Kumārajīva's original translation. Jizang's early-7th-century commentary records that Kumārajīva's Lotus Sūtra had only twenty-seven chapters; the Devadatta material was separately translated from a Khotanese manuscript decades later — first as a standalone text in 490 CE, then folded into the Lotus Sūtra itself only near the end of the Liang dynasty. This site's translation includes the chapter as it has stood in the received text for many centuries, with this history noted plainly at the point where the chapter begins rather than left unstated.
+          </p>
+        </div>
+        <div class="citation-panel">
+          <span class="tag">Reference, not a source translated</span>
+          <p>The reading notes draw primarily on Zhiyi's (<span class="zh">智顗</span>, 538–597) <em>妙法蓮華經文句</em>, the foundational Tiantai commentary on this sūtra, along with his <em>妙法蓮華經玄義</em> for several passages this site's notes attribute to Zhanran's transmission of Zhiyi's teaching. Where their readings genuinely diverge from Zhiyi's, this guide also draws on Jizang's (<span class="zh">吉藏</span>, 549–623) <em>法華義疏</em> — the same commentator consulted throughout this site's Amitābha and Immeasurable Life Sūtra pages — and on Kuiji's (<span class="zh">窺基</span>, 632–682) <em>妙法蓮華經玄贊</em>, particularly for the doctrinal position underlying Part 13's most contested passage. All three commentators' lifetimes predate the seventh century by a comfortable margin, placing them well within the public domain.</p>
+          <p>The commentaries are listed here as references consulted, not reproduced. Each "Reading note — after Zhiyi" is Ru-Yi's own English synthesis of the commentarial tradition's key points, images, and distinctions for that passage — not a translation of any commentary in full. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section" data-rv>
+        <h2>Further Reading</h2>
+        <ul class="resources">
+          <li><a href="https://cbetaonline.dila.edu.tw/en/T0262" target="_blank" rel="noopener">Kumārajīva's Chinese text · Taishō T262, CBETA</a> — the canonical edition at CBETA (Chinese Buddhist Electronic Text Association).</li>
+          <li><a href="https://cbetaonline.dila.edu.tw/en/T1718" target="_blank" rel="noopener">妙法蓮華經文句 · Zhiyi, CBETA</a> — the full 6th-century commentary these pages' reading notes draw on primarily, freely hosted (public domain).</li>
+          <li>Leon Hurvitz (tr.), <em>Scripture of the Lotus Blossom of the Fine Dharma</em> (Columbia University Press, rev. ed. 2009) — a scholarly English translation of Kumārajīva's text, useful for comparison against this guide's own independent translation.</li>
+          <li>Burton Watson (tr.), <em>The Lotus Sutra</em> (Columbia University Press, 1993) — a widely read and more accessible English translation, also of Kumārajīva's Chinese.</li>
+          <li>Paul L. Swanson, <em>Foundations of T'ien-T'ai Philosophy</em> (Asian Humanities Press, 1989) — a study of the Tiantai doctrinal framework built directly on this sūtra, including the "three rounds" scheme this guide's notes draw on.</li>
+        </ul>
+        <p style="margin-top:20px;">Chinese sūtra source: Kumārajīva's translation (Taishō T262), public domain. Chinese commentary source: Zhiyi's <em>妙法蓮華經文句</em> (6th c.), public domain. English translation and reading guide written for Ru-Yi Meditation Center. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </section>
+
+    </div>
+  </section>
+</article>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('.fascicle [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.1,rootMargin:'0px 0px -6% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
