@@ -1,0 +1,294 @@
+---
+layout: default
+title: The Vimalakīrti Sūtra
+permalink: /sutras/vimalakirti-sutra.html
+excerpt: Ru-Yi's reading guide to the Vimalakīrti Sūtra (維摩詰所說經) — Kumārajīva's 5th-century translation — now complete in fourteen parts, each with side-by-side Chinese–English text and reading notes drawn from Sengzhao's early-5th-century 注維摩詰經, from the layman who out-argues the Buddha's own foremost disciples to the "thunderous silence" on nonduality and a buddha-land lifted whole into this world.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .js .fascicle [data-rv]{opacity:0;transform:translateY(20px);transition:opacity .7s cubic-bezier(.22,.61,.36,1),transform .7s cubic-bezier(.22,.61,.36,1);}
+  .js .fascicle [data-rv].in{opacity:1;transform:none;}
+  @media(prefers-reduced-motion:reduce){.js .fascicle [data-rv]{opacity:1;transform:none;}}
+
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:60px 26px 52px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:26px;}
+  .fascicle-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid transparent;}
+  .fascicle-btn.primary{background:var(--terra);color:#fff;}
+  .fascicle-btn.secondary{color:var(--terra-deep);background:#fffaf1;border-color:#dfceb3;}
+
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle .lede{font-size:19px;color:var(--ink);border-left:2px solid var(--terra);padding-left:18px;margin:0 0 20px;}
+  .fascicle table{width:100%;border-collapse:collapse;margin:16px 0 22px;font-size:16px;}
+  .fascicle th,.fascicle td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--muted);}
+  .fascicle th{background:#f6efe2;color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+
+  .glance{background:#f6efe2;border-left:3px solid var(--ink);padding:22px 26px;margin:26px 0 6px;font-size:16px;}
+  .glance dl{display:grid;grid-template-columns:130px 1fr;gap:9px 16px;margin:0;}
+  .glance dt{color:var(--muted);font-weight:700;}
+  .glance dd{color:var(--ink);margin:0;}
+
+  .terms{background:#fdf9f1;border:1px solid var(--line);padding:22px 24px;border-radius:6px;font-size:16px;}
+  .terms .term{margin-bottom:14px;}
+  .terms .term:last-child{margin-bottom:0;}
+  .terms .pali-word{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-weight:700;color:var(--ink);}
+
+  .citation-panel{background:#fdf9f1;border:1px solid #e6d9bd;border-radius:8px;padding:26px 28px;margin-top:20px;}
+  .citation-panel .tag{display:inline-block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;color:var(--terra-deep);margin-bottom:10px;}
+  .citation-panel p{color:#5c4a2a;font-size:16px;line-height:1.72;}
+
+  .note-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:24px;}
+  @media(min-width:700px){.note-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .note-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf8ef);padding:22px;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .note-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(140,47,18,.4);border-color:var(--terra);text-decoration:none;}
+  .note-card .kicker{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .note-card h3{font-family:'Playfair Display',Georgia,serif;font-size:21px;color:var(--ink);margin:8px 0 8px;line-height:1.25;}
+  .note-card p{font-size:15px;color:var(--muted);line-height:1.55;margin:0;}
+  .note-card .zh-range{font-size:13px;color:#9a8a6a;margin-top:10px;}
+
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  .resources{font-size:16px;}
+  .resources a{color:var(--terra-deep);text-decoration:underline;text-underline-offset:3px;}
+  .resources li{margin-bottom:10px;}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Sūtras</a> › The Vimalakīrti Sūtra</nav>
+      <div class="fascicle-kicker" data-rv>Mahāyāna · Nonduality</div>
+      <h1 data-rv style="transition-delay:.05s">The Vimalakīrti Sūtra</h1>
+      <p class="subtitle" data-rv style="transition-delay:.1s"><em>the teaching of Vimalakīrti</em><span class="zh">《維摩詰所說經》</span></p>
+      <p class="lede" data-rv style="transition-delay:.14s">A reading guide, a fourteen-part Chinese–English translation, and reading notes drawn from Sengzhao's early-5th-century <em>注維摩詰經</em> — the layman who out-argues the Buddha's own foremost disciples one by one, the goddess who out-argues Śāriputra, thirty-one bodhisattvas who each dissolve a duality before Vimalakīrti answers with nothing at all, and, at the very end, an entire buddha-land lifted whole into this one.</p>
+      <div class="fascicle-meta" data-rv style="transition-delay:.18s">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T475 · Kumārajīva's translation, early 5th century CE</span>
+        <span class="fascicle-pill">Commentary guide: Sengzhao's 注維摩詰經 (early 5th c.)</span>
+        <span class="fascicle-pill">Status: complete · 14 parts</span>
+      </div>
+      <div class="fascicle-actions" data-rv style="transition-delay:.22s">
+        <a class="fascicle-btn primary" href="#sections">Browse the fourteen parts →</a>
+        <a class="fascicle-btn secondary" href="#source">About the source →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <div class="glance" data-rv>
+        <dl>
+          <dt>Sanskrit</dt><dd>The <em>Vimalakīrtinirdeśa Sūtra</em> — "the teaching given by Vimalakīrti"</dd>
+          <dt>Chinese</dt><dd><span class="zh">《維摩詰所說經》</span>, translated by Kumārajīva (<span class="zh">鳩摩羅什</span>), 406 CE — one of three surviving Chinese translations, and the version that became standard in East Asian practice, prized for the same clear, unadorned prose style as his Diamond and Lotus Sūtra translations</dd>
+          <dt>Tradition</dt><dd>Mahāyāna — a text that sits outside any single doctrinal school, read for centuries across Chan, Tiantai, and lay Buddhist circles alike for its teaching on nonduality and its portrait of an awakened life lived entirely outside the monastery</dd>
+          <dt>Speaker</dt><dd>Chiefly Vimalakīrti himself — a layman and householder — in dialogue with Mañjuśrī and a cast of the Buddha's own foremost disciples, framed by Śākyamuni Buddha at Āmrapālī's mango grove</dd>
+          <dt>Length</dt><dd>Fourteen chapters, translated here across fourteen parts (chapter three split across two parts; the sūtra's final two chapters combined into one) — a mid-length sūtra, shorter than <a href="{{ '/sutras/immeasurable-life-sutra.html' | relative_url }}">the Immeasurable Life Sūtra</a> but considerably longer than <a href="{{ '/sutras/heart-sutra.html' | relative_url }}">the Heart Sūtra</a> or <a href="{{ '/sutras/amitabha-sutra.html' | relative_url }}">the Amitābha Sūtra</a></dd>
+          <dt>Difficulty</dt><dd>★★★★☆ to read — the narrative frame and dialogue are lively and often funny, but the sūtra moves through some of Mahāyāna Buddhism's most demanding philosophical material — emptiness, nonduality, the identity of affliction and awakening — often in long chains of paradox with no easing-in.</dd>
+        </dl>
+      </div>
+
+      <section class="fascicle-section" data-rv>
+        <h2>Why This Sūtra</h2>
+        <p class="lede">
+          Vimalakīrti is a householder, not a monk — married, wealthy, and fully engaged in ordinary worldly life — who is nonetheless shown to understand the Dharma more deeply than every one of the Buddha's own foremost disciples and even several bodhisattvas. The entire sūtra grows out of a single premise: Vimalakīrti takes to his sickbed, and the Buddha asks his assembly, one figure at a time, to go inquire after his health. One by one, each declines, each admitting a time Vimalakīrti had already out-argued them. Only Mañjuśrī, bodhisattva of wisdom, is willing to go — and their meeting becomes the occasion for nearly everything that follows: a room that fits thirty-two thousand borrowed thrones without growing any larger, a goddess who swaps bodies with Śāriputra to make a point about fixed marks, thirty-one bodhisattvas who each name a duality and dissolve it, and Vimalakīrti's own answer to the same question — total silence — which Mañjuśrī immediately recognizes as going one step further than anything speech could say.
+        </p>
+        <p>
+          This is also one of the most concrete, image-driven sūtras translated on this site. Where texts like the Diamond Sūtra or the Heart Sūtra work almost entirely through direct philosophical statement, this sūtra teaches the same material — emptiness, nonduality, the illusory nature of every fixed category — through narrative set pieces built to be visualized: Sumeru fitting inside a mustard seed, an entire buddha-land severed free with one hand like clay from a potter's wheel, a bowl of rice that feeds an entire city and is never depleted. The philosophy and the story are not separable in this text; the demonstrations are the argument.
+        </p>
+
+        <h3>The teaching in one sentence</h3>
+        <p>
+          A sick layman, visited by Mañjuśrī and an assembly of the Buddha's own disciples, shows through conversation, paradox, and a series of increasingly inconceivable feats that awakening has nothing to do with monastic status, fixed categories, or even language itself — and that the deepest teaching on nonduality is not a statement at all, but silence.
+        </p>
+
+        <h3>Who was Vimalakīrti?</h3>
+        <p>
+          The sūtra's opening chapter describes Vimalakīrti at length: a householder of Vaiśālī, wealthy and married with children, who nonetheless keeps every precept a monk keeps, teaches in marketplaces and gambling halls and schools alike, and is welcomed everywhere — among kings, merchants, ascetics, and children — because he meets each of them precisely where they already are. His name itself means something close to "Stainless Reputation" or "Undefiled Fame." He never actually appears unwell in any physical sense the sūtra describes; his illness is compassion itself, as he explains directly to Mañjuśrī in <a href="{{ '/sutras/vimalakirti-sutra/i-am-sick-because-all-beings-are-sick.html' | relative_url }}">Part 6</a>: "because all beings are sick, I am sick too."
+        </p>
+
+        <h3>A note on this site's chapter numbering</h3>
+        <p>
+          The sūtra's own fourteen chapters (品) do not map one-to-one onto this guide's fourteen parts. Chapter three, on the ten disciples' decline, is long enough to be split across <a href="{{ '/sutras/vimalakirti-sutra/the-disciples-decline-part-one.html' | relative_url }}">Parts 3</a> and <a href="{{ '/sutras/vimalakirti-sutra/the-disciples-decline-part-two.html' | relative_url }}">4</a>; the sūtra's final two chapters — on the offering of the Dharma and the Buddha's entrustment of the teaching to Maitreya — are short enough, and continuous enough in argument, to be combined into a single closing <a href="{{ '/sutras/vimalakirti-sutra/the-offering-of-dharma-and-the-final-entrustment.html' | relative_url }}">Part 14</a>. Every other part corresponds to exactly one chapter of the source text.
+        </p>
+
+        <h3>How to actually use this text</h3>
+        <ol>
+          <li><strong>Read the decline scenes as one unit.</strong> Parts 3 through 5 — ten disciples and four bodhisattvas, each declining in turn, each with their own story — are formulaic by design; the repetition is part of the argument, and they read fastest and land hardest read together in sequence.</li>
+          <li><strong>Give the room scene its own sitting.</strong> Parts 7 and 8 — Mañjuśrī's visit, the borrowed thrones, Sumeru in a mustard seed, and the goddess's debate with Śāriputra — are this sūtra's most celebrated stretch, and reward slow reading rather than skimming for the famous images alone.</li>
+          <li><strong>Treat Part 10 as the sūtra's center of gravity.</strong> Thirty-one bodhisattvas' answers on nonduality, followed by Mañjuśrī's own answer and Vimalakīrti's silence, is the single most quoted passage from this entire text in later Buddhist literature — read slowly, and consider reading Sengzhao's reading note on the "speech about no-speech" distinction twice.</li>
+          <li><strong>Read the last four parts as a single closing arc.</strong> Parts 11 through 14 — the journey to see the Buddha, the fragrant rice's effects, an entire buddha-land lifted into this world, and the final entrustment — build cumulatively toward the sūtra's own close, and are best read without long gaps between them.</li>
+        </ol>
+
+        <h3>A question readers often ask</h3>
+        <p><strong>"If Vimalakīrti's silence is the 'best' answer on nonduality, why does the sūtra keep talking for four more chapters afterward?"</strong> The sūtra itself does not treat the silence as a stopping point so much as a demonstration already made — everything after it (the journey to see the Buddha, the fragrant rice, the buddha-land of Wonderful Joy, the final entrustment) continues to teach through action and image rather than through further argument about nonduality directly. Sengzhao's own commentary reads the silence as the high point of a graduated sequence — the thirty-one bodhisattvas measure out speech about the marks of dharma, Mañjuśrī has speech about no-speech, and Vimalakīrti has no-speech about no-speech — and treats what follows not as a retreat from that point but as its consequence: having shown what silence can do, the sūtra goes on to show what a bodhisattva who has understood it then does in the world.</p>
+      </section>
+
+      <section class="fascicle-section" data-rv>
+        <h2>Key Terms</h2>
+        <div class="terms">
+          <div class="term"><span class="pali-word">Vimalakīrti</span> <span class="zh">維摩詰</span> — "Stainless Reputation" or "Undefiled Fame," the householder-bodhisattva at the center of the sūtra, who keeps a monk's precepts while living fully as a layman.</div>
+          <div class="term"><span class="pali-word">不可思議解脫</span> — the inconceivable liberation, this sūtra's other title in full (<span class="zh">不可思議解脫法門</span>), and the thread running through nearly every feat in the text, from borrowed thrones to a buddha-land carried in one hand.</div>
+          <div class="term"><span class="pali-word">方便</span> upāya — skillful means: teaching, or acting, in whatever form actually reaches a given being, rather than in one fixed correct form.</div>
+          <div class="term"><span class="pali-word">不二法門</span> — the Dharma-door of nonduality: entering a state in which no pair of opposites — birth and cessation, self and no-self, purity and defilement — retains any fixed, separate mark.</div>
+          <div class="term"><span class="pali-word">無生法忍</span> — the acquiescence to the birthlessness of phenomena: a settled, unshakeable acceptance that nothing truly arises or ceases, attained by thousands of beings at several points across this sūtra.</div>
+          <div class="term"><span class="pali-word">行於非道</span> — practicing the non-path: a bodhisattva's willingness to display every kind of wrong or low condition without being bound by it, one of this sūtra's sharpest and most provocative teachings.</div>
+          <div class="term"><span class="pali-word">香積佛 / 眾香國</span> — the Fragrance-Accumulated Buddha and his Land of Many Fragrances, a pure land taught entirely through scent rather than words, the source of the inexhaustible bowl of rice in Parts 11 and 12.</div>
+          <div class="term"><span class="pali-word">阿閦佛 / 妙喜世界</span> — Akṣobhya Buddha, "the Unmoved," and his pure land Wonderful Joy — Vimalakīrti's own place of origin, severed whole from its place and set down inside this world in Part 13.</div>
+          <div class="term"><span class="pali-word">阿耨多羅三藐三菩提</span> — unsurpassed, perfect and complete awakening: this sūtra's fixed rendering of anuttarā-samyak-saṃbodhi throughout, kept consistent across all fourteen parts.</div>
+        </div>
+      </section>
+
+      <section class="fascicle-section" id="sections" data-rv>
+        <div class="rn-divider"><h2>The Fourteen Parts</h2></div>
+        <p class="lede">
+          The sūtra's own chapter divisions, each with the Chinese–English text side by side and reading notes drawn from Sengzhao's early-5th-century commentary. Read in order — the argument genuinely builds toward Part 10 and then resolves outward from it — or jump to whichever part you need.
+        </p>
+        <div class="note-grid">
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/the-assembly-and-the-jeweled-canopy.html' | relative_url }}">
+            <span class="kicker">Part 1 · 佛國品第一</span>
+            <h3>The Assembly and the Jeweled Canopy</h3>
+            <p>Five hundred jeweled canopies become one; a young man's verse of praise; and a teaching that a buddha-land's purity depends entirely on the purity of the beings' own minds.</p>
+            <span class="zh-range">佛國品第一</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/vimalakirtis-skillful-means.html' | relative_url }}">
+            <span class="kicker">Part 2 · 方便品第二</span>
+            <h3>Vimalakīrti's Skillful Means</h3>
+            <p>Who Vimalakīrti actually is — a householder keeping a monk's precepts, welcomed in every quarter of the city — and the illness that becomes the occasion for everything that follows.</p>
+            <span class="zh-range">方便品第二</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/the-disciples-decline-part-one.html' | relative_url }}">
+            <span class="kicker">Part 3 · 弟子品第三（上）</span>
+            <h3>The Disciples Decline, Part I</h3>
+            <p>The first five of the Buddha's great disciples are asked to visit the sick Vimalakīrti, and each, in turn, recalls a past encounter that leaves them unwilling to go.</p>
+            <span class="zh-range">弟子品第三（上半）</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/the-disciples-decline-part-two.html' | relative_url }}">
+            <span class="kicker">Part 4 · 弟子品第三（下）</span>
+            <h3>The Disciples Decline, Part II</h3>
+            <p>The second five of the Buddha's great disciples decline in turn — Kātyāyana, Aniruddha, Upāli, Rāhula, and Ānanda — completing all ten disciples' accounts.</p>
+            <span class="zh-range">弟子品第三（下半）</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/the-bodhisattvas-decline.html' | relative_url }}">
+            <span class="kicker">Part 5 · 菩薩品第四</span>
+            <h3>The Bodhisattvas Decline</h3>
+            <p>Four bodhisattvas are asked in turn, and decline for their own reasons — including a debate with Māra disguised as Śakra, and a teaching on what a bodhisattva's own seat actually is.</p>
+            <span class="zh-range">菩薩品第四</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/i-am-sick-because-all-beings-are-sick.html' | relative_url }}">
+            <span class="kicker">Part 6 · 文殊師利問疾品第五</span>
+            <h3>I Am Sick Because All Beings Are Sick</h3>
+            <p>Mañjuśrī alone agrees to go. Vimalakīrti's empty room, and the teaching that a bodhisattva's illness has no cause but compassion itself.</p>
+            <span class="zh-range">文殊師利問疾品第五</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/the-inconceivable-liberation.html' | relative_url }}">
+            <span class="kicker">Part 7 · 不思議品第六</span>
+            <h3>The Inconceivable Liberation</h3>
+            <p>Śāriputra's silent worry about seating, thirty-two thousand borrowed lion-thrones fit into one small room, and Mount Sumeru set inside a single mustard seed.</p>
+            <span class="zh-range">不思議品第六</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/the-goddess-and-the-flowers.html' | relative_url }}">
+            <span class="kicker">Part 8 · 觀眾生品第七</span>
+            <h3>Regarding Living Beings</h3>
+            <p>A chain of similes for how a bodhisattva views beings without treating them as fixed, and the goddess who scatters flowers and debates Śāriputra over transforming out of her female body.</p>
+            <span class="zh-range">觀眾生品第七</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/the-buddha-way-through-the-non-path.html' | relative_url }}">
+            <span class="kicker">Part 9 · 佛道品第八</span>
+            <h3>The Buddha-Way Through the Non-Path</h3>
+            <p>A bodhisattva reaches the buddha-way precisely by practicing the non-path, every affliction is called "the seed of the Tathāgata," and Vimalakīrti's verse on his household and manifest forms.</p>
+            <span class="zh-range">佛道品第八</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/entering-the-gate-of-nonduality.html' | relative_url }}">
+            <span class="kicker">Part 10 · 入不二法門品第九</span>
+            <h3>Entering the Gate of Nonduality</h3>
+            <p>Thirty-one bodhisattvas each dissolve a pair of opposites, Mañjuśrī answers that nonduality is beyond all speech, and Vimalakīrti answers with nothing at all — the sūtra's most famous moment.</p>
+            <span class="zh-range">入不二法門品第九</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/the-fragrance-accumulated-buddha.html' | relative_url }}">
+            <span class="kicker">Part 11 · 香積佛品第十</span>
+            <h3>The Fragrance-Accumulated Buddha</h3>
+            <p>A buddha-land built entirely of fragrance, an inexhaustible bowl of borrowed rice, and the contrast between teaching by scent alone and teaching this harder world with harsh words.</p>
+            <span class="zh-range">香積佛品第十</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/bodhisattva-conduct.html' | relative_url }}">
+            <span class="kicker">Part 12 · 菩薩行品第十一</span>
+            <h3>Bodhisattva Conduct</h3>
+            <p>The whole assembly rides to see the Buddha on Vimalakīrti's palm; every possible way a buddha performs the buddha's work; and the teaching on neither exhausting the conditioned nor dwelling in the unconditioned.</p>
+            <span class="zh-range">菩薩行品第十一</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/seeing-akshobhya-buddha.html' | relative_url }}">
+            <span class="kicker">Part 13 · 見阿閦佛品第十二</span>
+            <h3>Seeing Akṣobhya Buddha</h3>
+            <p>Vimalakīrti's negation-meditation on how to truly see the Tathāgata, the revelation of his origin in the pure land Wonderful Joy, and an entire buddha-land severed free and set inside this one.</p>
+            <span class="zh-range">見阿閦佛品第十二</span>
+          </a>
+          <a class="note-card" href="{{ '/sutras/vimalakirti-sutra/the-offering-of-dharma-and-the-final-entrustment.html' | relative_url }}">
+            <span class="kicker">Part 14 · 法供養品第十三・囑累品第十四</span>
+            <h3>The Offering of Dharma, and the Final Entrustment</h3>
+            <p>What an offering of the Dharma actually is, the story of a prince who turns out to be Śākyamuni himself, and the Buddha's entrustment of the whole teaching to Maitreya before the sūtra's close.</p>
+            <span class="zh-range">法供養品第十三・囑累品第十四</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="fascicle-section" id="source" data-rv>
+        <h2>About the Source</h2>
+        <p>
+          The Chinese is Kumārajīva's translation (<span class="zh">鳩摩羅什</span>, Taishō T475), completed in 406 CE — one of three surviving Chinese translations of this sūtra, and the version that became standard in East Asian practice, prized for the same clear, unadorned prose style as his translations of the Diamond and Lotus Sūtras. The English translation was made for Ru-Yi Meditation Center directly from this Chinese, without reference to any existing English translation, following the same conventions as this site's other sūtra pages.
+        </p>
+        <div class="citation-panel">
+          <span class="tag">Reference, not a source translated</span>
+          <p>The reading notes across all fourteen parts draw primarily on Sengzhao's (<span class="zh">僧肇</span>, 384–414) <em>注維摩詰經</em>, compiled from the commentarial remarks of Kumārajīva himself (<span class="zh">什曰</span>), Sengzhao (<span class="zh">肇曰</span>), and their contemporary Daosheng (<span class="zh">生曰</span>, <span class="zh">竺道生</span>) during the same translation circle at Chang'an in the early 5th century — making it, unusually, a commentary written essentially alongside the translation it explains, by people who worked on that translation directly.</p>
+          <p>The commentary is listed here as a reference consulted, not reproduced. Each "Reading note — after Kumārajīva," "after Sengzhao," or "after Daosheng" is Ru-Yi's own English synthesis of that commentator's key points, images, and distinctions for the passage at hand — not a translation of the commentary in full. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section" data-rv>
+        <h2>Further Reading</h2>
+        <ul class="resources">
+          <li><a href="https://cbetaonline.dila.edu.tw/en/T0475" target="_blank" rel="noopener">Kumārajīva's Chinese text · Taishō T475, CBETA</a> — the canonical edition at CBETA (Chinese Buddhist Electronic Text Association), the source text of this guide.</li>
+          <li><a href="https://cbetaonline.dila.edu.tw/en/T1775" target="_blank" rel="noopener">注維摩詰經 · Taishō T1775, CBETA</a> — Sengzhao's full commentary, incorporating Kumārajīva's and Daosheng's remarks, these pages' reading notes draw on throughout.</li>
+          <li>Burton Watson (tr.), <em>The Vimalakirti Sutra</em> (Columbia University Press, 1997) — a widely read scholarly English translation of Kumārajīva's text, useful for comparison against this guide's own independent translation.</li>
+          <li>Robert A. F. Thurman (tr.), <em>The Holy Teaching of Vimalakīrti</em> (Pennsylvania State University Press, 1976) — a translation from the Tibetan, with an influential introductory essay on the sūtra's place in Mahāyāna thought.</li>
+          <li>Étienne Lamotte (tr.), <em>The Teaching of Vimalakīrti</em> (Pali Text Society, 1976; tr. from the 1962 French) — a heavily annotated scholarly translation comparing the Chinese and Tibetan recensions in detail.</li>
+        </ul>
+        <p style="margin-top:20px;">Chinese sūtra source: Kumārajīva's translation (Taishō T475), public domain. Chinese commentary source: Sengzhao's <em>注維摩詰經</em> (Taishō T1775, early 5th c.), public domain. English translation and reading guide written for Ru-Yi Meditation Center. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </section>
+
+    </div>
+  </section>
+</article>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('.fascicle [data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.1,rootMargin:'0px 0px -6% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
