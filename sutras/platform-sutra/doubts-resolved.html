@@ -1,0 +1,227 @@
+---
+layout: default
+title: "The Platform Sūtra, Part 3: Doubts Resolved"
+permalink: /sutras/platform-sutra/doubts-resolved.html
+excerpt: Part 3 of the Platform Sūtra (六祖大師法寶壇經) — Bodhidharma's "no merit" answer to Emperor Wu explained, and the Pure Land reinterpreted as a matter of the mind rather than geography, closing with a Verse of Formlessness written for lay practice at home.
+---
+
+<style>
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle .lede{font-size:19px;color:var(--ink);border-left:2px solid var(--terra);padding-left:18px;margin:0 0 20px;}
+  .fascicle table{width:100%;border-collapse:collapse;margin:16px 0 22px;font-size:16px;}
+  .fascicle th,.fascicle td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--muted);}
+  .fascicle th{background:#f6efe2;color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+
+  .glance{background:#f6efe2;border-left:3px solid var(--ink);padding:22px 26px;margin:26px 0 6px;font-size:16px;}
+  .glance dl{display:grid;grid-template-columns:130px 1fr;gap:9px 16px;margin:0;}
+  .glance dt{color:var(--muted);font-weight:700;}
+  .glance dd{color:var(--ink);margin:0;}
+
+  .translation-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px;}
+  .translation-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.translation-row{grid-template-columns:1fr 1.08fr;}}
+  .source,.translation{border:1px solid var(--line);border-radius:8px;padding:20px 22px;background:#fffdf8;}
+  .translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:10px;}
+  .translation .label{color:var(--jade);}
+  .source p{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:#382a20;font-size:19px;line-height:1.9;margin:0;}
+  .translation p{font-family:'Playfair Display',Georgia,serif;font-style:italic;color:var(--ink);font-size:17px;line-height:1.75;margin:0;}
+  .source p.verse,.translation p.verse{white-space:pre-line;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:20px;border-radius:0 6px 6px 0;}
+  .note-box .who{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:10px;}
+  .note-box p{margin:0;font-size:16px;color:#5c4a2a;line-height:1.75;}
+  .note-box p+p{margin-top:12px;}
+
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  .fascicle-pagenav{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-top:8px;padding-top:30px;border-top:1px solid var(--line);flex-wrap:wrap;}
+  .fascicle-pagenav a{text-decoration:none;color:var(--ink);}
+  .fascicle-pagenav .pn-label{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra);font-weight:800;margin-bottom:5px;}
+  .fascicle-pagenav .pn-title{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--ink);}
+  .fascicle-pagenav .pn-prev{text-align:left;}
+  .fascicle-pagenav .pn-next{text-align:right;}
+  .fascicle-pagenav .pn-index{text-align:center;font-size:14px;color:var(--muted);align-self:center;}
+  .fascicle-pagenav .pn-index a{color:var(--terra-deep);border-bottom:1px solid rgba(184,67,28,.35);}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › <a href="{{ '/sutras/platform-sutra.html' | relative_url }}">The Platform Sūtra</a> › Doubts Resolved</nav>
+      <div class="fascicle-kicker">Part 3 of 10 · 疑問品第三</div>
+      <h1>Doubts Resolved</h1>
+      <p class="subtitle"><span class="zh">疑問品第三</span></p>
+      <p class="lede">Prefect Wei brings Huineng two doubts that have troubled Chinese Buddhists since the sixth century: why did Bodhidharma tell Emperor Wu that a lifetime of building temples and feeding monks earned him no merit at all, and can anyone actually be reborn in Amitābha's Western Pure Land by reciting his name? Huineng's answers turn both questions inward, without ever denying the practices themselves — merit is what self-nature does, not what money buys, and the West is not a place ten thousand li away but a condition of mind available in the time it takes to purify one thought.</p>
+      <div class="fascicle-meta">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T2008 · Zongbao's redaction, Yuan dynasty (1291 CE)</span>
+        <span class="fascicle-pill">Commentary guide: Hanshan Deqing's 六祖法寶壇經解義 (17th c.)</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <div class="glance">
+        <dl>
+          <dt>This part covers</dt><dd>Bodhidharma's "no merit" answer to Emperor Wu, and the distinction between blessings (福) sought through giving and merit (功德) found only within self-nature; the Pure Land reinterpreted as a matter of the mind's purity rather than geography, with Huineng offering to make the West visible "in a single instant"; the body-as-city allegory mapping Buddhist cosmology onto the constituents of the ordinary mind; and a second Verse of Formlessness written explicitly for lay practice at home.</dd>
+          <dt>Why it matters</dt><dd>This chapter is the sūtra's most direct engagement with devotional practice as most Buddhists actually encountered it — temple-building, alms-giving, and Pure Land recitation — and its method throughout is not to dismiss these practices but to relocate where their real effect is found.</dd>
+        </dl>
+      </div>
+
+      <section class="fascicle-section">
+        <h2>1. Bodhidharma and Emperor Wu: What "No Merit" Means</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>一日，韋刺史為師設大會齋。齋訖，刺史請師陞座，同官僚士庶肅容再拜，問曰：「弟子聞和尚說法，實不可思議。今有少疑，願大慈悲，特為解說。」
+
+師曰：「有疑即問，吾當為說。」
+
+韋公曰：「和尚所說，可不是達磨大師宗旨乎？」
+
+師曰：「是。」
+
+公曰：「弟子聞：達磨初化梁武帝，帝問云：『朕一生造寺度僧、布施設齋，有何功德？』達磨言：『實無功德。』弟子未達此理，願和尚為說。」
+
+師曰：「實無功德，勿疑先聖之言。武帝心邪，不知正法。造寺度僧、布施設齋，名為求福，不可將福便為功德。功德在法身中，不在修福。」師又曰：「見性是功，平等是德。念念無滯，常見本性，真實妙用，名為功德。內心謙下是功，外行於禮是德。自性建立萬法是功，心體離念是德。不離自性是功，應用無染是德。若覓功德法身，但依此作，是真功德。若修功德之人，心即不輕，常行普敬。心常輕人，吾我不斷，即自無功；自性虛妄不實，即自無德。為吾我自大，常輕一切故。善知識！念念無間是功，心行平直是德。自修性是功，自修身是德。善知識！功德須自性內見，不是布施供養之所求也。是以福德與功德別。武帝不識真理，非我祖師有過。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>One day Prefect Wei arranged a great vegetarian feast for the Master. When the feast was over, the prefect asked the Master to ascend his seat, and together with his officials and the assembled gentry, composed himself and bowed twice, asking, "Your disciple has heard the venerable monk teach the Dharma, and it is truly inconceivable. I now have a small doubt, and I beg your great compassion to explain it for me especially."
+
+The Master said, "If you have a doubt, ask it, and I will explain it for you."
+
+Wei said, "Is what the venerable monk teaches not the very same principle as the great teacher Bodhidharma's own tradition?"
+
+The Master said, "It is."
+
+Wei said, "Your disciple has heard that when Bodhidharma first converted Emperor Wu of Liang, the emperor asked him, 'Throughout my whole life I have built temples, ordained monks, given alms, and held vegetarian feasts — what merit is there in this?' Bodhidharma said, 'There is truly no merit at all.' Your disciple has never understood this principle, and I hope the venerable monk will explain it."
+
+The Master said, "There is truly no merit — do not doubt the words of that former sage. Emperor Wu's mind was mistaken; he did not know the true Dharma. Building temples, ordaining monks, giving alms, and holding vegetarian feasts is what is called seeking blessings — you cannot take blessings and call them merit. Merit lies within the Dharma-body; it does not lie in the cultivation of blessings." The Master continued: "Seeing one's own nature is achievement; even-mindedness is virtue. Thought after thought without obstruction, constantly seeing one's own fundamental nature and its true, wondrous function — this is what is called merit. An inwardly humble mind is achievement; outwardly practicing courtesy is virtue. Self-nature establishing the ten thousand things is achievement; the substance of mind departing from thought is virtue. Never departing from self-nature is achievement; applying it without any stain is virtue. If you wish to find the merit that is the Dharma-body, simply act according to this, and this is true merit. One who cultivates merit in this way does not hold their own mind lightly, and constantly practices universal respect. A mind that constantly holds others lightly, never cutting off the notion of a self, is of itself without achievement; a self-nature that is false and unreal is of itself without virtue — because one is arrogant with the notion of a self, and constantly holds everything else lightly. Good friends, thought after thought without interruption is achievement; conduct of mind that is even and upright is virtue. Cultivating your own nature is achievement; cultivating your own person is virtue. Good friends, merit must be seen from within self-nature — it is not something sought through giving alms and making offerings. This is why blessings and merit are different things. Emperor Wu did not recognize the true principle — the fault is not our patriarch Bodhidharma's."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Hanshan</div>
+          <p>Hanshan's gloss turns on a single distinction: 福 ("blessings") is karmic reward that ripens later, in proportion to what was given away, while 功德 ("merit") exists only in the Dharma-body and is not a transaction at all — nothing is given up to acquire it, because it was never separate from self-nature to begin with. On this reading, Bodhidharma's answer was never a rebuke of temple-building or alms-giving as such; it was a correction of category. Emperor Wu asked what merit his generosity had produced, and the honest answer was that generosity produces blessings, a different thing entirely, which is not a criticism of generosity so much as a refusal to let one word cover two different phenomena.</p>
+          <p>Hanshan notes the deliberate structure of the paired definitions that follow — "seeing one's own nature is achievement, even-mindedness is virtue," and seven more pairs built the same way — each pairing an inward seeing (功) with its outward expression (德), so that merit is never located in the visible act alone. Building a temple is visible from outside; whether it constitutes merit depends entirely on something no observer can see. This is also why Huineng closes by defending Bodhidharma rather than Emperor Wu: the fault, on this reading, was never in what the emperor did, only in mistaking one kind of good for another.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>2. The Pure Land, Moved into a Single Instant</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>刺史又問曰：「弟子常見僧俗念阿彌陀佛，願生西方。請和尚說，得生彼否？願為破疑。」
+
+師言：「使君善聽，惠能與說。世尊在舍衛城中，說西方引化。經文分明，去此不遠。若論相說，里數有十萬八千，即身中十惡八邪，便是說遠。說遠為其下根，說近為其上智。人有兩種，法無兩般。迷悟有殊，見有遲疾。迷人念佛求生於彼，悟人自淨其心。所以佛言：『隨其心淨即佛土淨。』使君東方人，但心淨即無罪。雖西方人，心不淨亦有愆。東方人造罪，念佛求生西方。西方人造罪，念佛求生何國？凡愚不了自性，不識身中淨土，願東願西。悟人在處一般，所以佛言：『隨所住處恒安樂。』使君心地但無不善，西方去此不遙。若懷不善之心，念佛往生難到。今勸善知識，先除十惡即行十萬，後除八邪乃過八千。念念見性，常行平直，到如彈指，便覩彌陀。使君但行十善，何須更願往生？不斷十惡之心，何佛即來迎請？若悟無生頓法，見西方只在剎那。不悟念佛求生，路遙如何得達。惠能與諸人，移西方於剎那間，目前便見。各願見否？」
+
+眾皆頂禮云：「若此處見，何須更願往生？願和尚慈悲，便現西方，普令得見。」</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>The prefect asked further, "Your disciple often sees monks and laypeople reciting the name of Amitābha Buddha, vowing to be reborn in the West. I ask the venerable monk to tell me — can they truly attain rebirth there? I beg you to resolve this doubt."
+
+The Master said, "Listen well, my lord, and I will explain it for you. The World-Honored One, while in the city of Śrāvastī, spoke of the West to guide and convert beings; the sūtra text states plainly that it is not far from here. If we speak of it in terms of outward measure, the distance is a hundred and eight thousand li — but this is itself speaking of the ten evils and eight wrongs within the body, and it is in that sense that it is spoken of as far. It is spoken of as far for those of lesser faculties, and as near for those of superior wisdom. There are two kinds of people, but the Dharma itself has no two kinds — it is only delusion and awakening that differ, and the seeing of it that is slow or swift. The deluded recite the Buddha's name and seek to be reborn there; the awakened simply purify their own mind. This is why the Buddha said, 'As the mind is purified, so the buddha-land is purified.' My lord, you are a person of the East — if your mind is simply pure, you are without fault; even a person of the West, if their mind is impure, has transgression all the same. A person of the East commits wrongs, and recites the Buddha's name seeking rebirth in the West; but if a person of the West commits wrongs, reciting the Buddha's name, to what land should they seek rebirth? The foolish and ordinary, not understanding their own self-nature, do not recognize the pure land already within their own body, and so they long for the East or long for the West; but for the awakened, every place is the same, and this is why the Buddha said, 'Wherever one dwells, there is constant peace and ease.' My lord, if only your own mind holds nothing unwholesome, the West is not far from here at all; but if you harbor an unwholesome mind, then even reciting the Buddha's name, rebirth there will be hard to reach. I urge you now, good friends: first remove the ten evils, and you have already traveled a hundred thousand li; then remove the eight wrongs, and you have already passed beyond eight thousand more. See your own nature in thought after thought, constantly practice what is even and upright, and you will behold Amitābha as quickly as a finger-snap. My lord, simply practice the ten wholesome deeds — what further need is there to vow for rebirth? If you do not cut off the mind of the ten evils, which buddha would come to receive and welcome you? If you awaken to the sudden Dharma of no-birth, seeing the West takes only a single instant; if you do not awaken, then reciting the Buddha's name seeking rebirth, the road is so far — how could you ever arrive? Huineng can move the West before all of you in a single instant, so that it appears right before your eyes this moment. Would each of you wish to see it?"
+
+The whole assembly bowed to the ground and said, "If it can be seen right here, what further need is there to vow for rebirth elsewhere? We beg the venerable monk's compassion — please manifest the West at once, and let everyone see it fully."</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Hanshan</div>
+          <p>Hanshan takes care to head off a reading of this passage he considers a real misunderstanding: that Huineng is here disparaging Pure Land practice, or contradicting the Amitābha Sūtra's own teaching. His point is the opposite. The Amitābha Sūtra's own condition for rebirth is "one mind, undisturbed" (一心不亂) — a purified, unwavering mind at the moment of recitation — and "as the mind is purified, so the buddha-land is purified" is, on Hanshan's reading, that very same condition restated, not a rival teaching set against it. Wei is a layperson of ordinary understanding who has been treating the West as a place reached by geography rather than by mind; Huineng corrects that specific error using an ordinary listener's own terms, which is different from rejecting the practice Wei is asking about.</p>
+          <p>The line that does the most work, on this reading, is the question put to Wei directly: if a person born in the West still commits wrong, to which further West should they pray to be reborn? Hanshan reads this as collapsing the assumption that any geography could be inherently pure independent of the mind occupying it — the same move the sūtra makes throughout this chapter, relocating the site of purity from a place to a condition, without ever denying that Amitābha, the vow, or the practice of recitation are real.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>3. The Body as a City, and a Verse for Lay Practice</h2>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source"><div class="label">Chinese Source</div><p>師言：「大眾！世人自色身是城，眼耳鼻舌是門，外有五門，內有意門。心是地，性是王。王居心地上，性在王在，性去王無。性在身心存，性去身壞。佛向性中作，莫向身外求。自性迷即是眾生，自性覺即是佛。慈悲即是觀音，喜捨名為勢至，能淨即釋迦，平直即彌陀；人我是須彌，貪欲是海水，煩惱是波浪，毒害是惡龍，虛妄是鬼神，塵勞是魚鱉。貪瞋是地獄，愚癡是畜生。善知識！常行十善，天堂便至。除人我，須彌倒；去貪欲，海水竭；煩惱無，波浪滅；毒害除，魚龍絕。自心地上覺性，如來放大光明；外照六門清淨，能破六欲諸天；自性內照，三毒即除；地獄等罪一時銷滅，內外明徹不異西方。不作此修，如何到彼？」
+
+大眾聞說，了然見性，悉皆禮拜，俱歎善哉。唱言：「普願法界眾生，聞者一時悟解。」
+
+師言：「善知識！若欲修行，在家亦得，不由在寺。在家能行，如東方人心善；在寺不修，如西方人心惡。但心清淨，即是自性西方。」
+
+韋公又問：「在家如何修行？願為教授。」
+
+師言：「吾與大眾說無相頌。但依此修，常與吾同處無別；若不依此修，剃髮出家於道何益？頌曰：
+
+「心平何勞持戒，　行直何用修禪！
+
+恩則孝養父母，　義則上下相憐，
+讓則尊卑和睦，　忍則眾惡無諠，
+若能鑽木出火，　淤泥定生紅蓮。
+
+苦口的是良藥，　逆耳必是忠言，
+改過必生智慧，　護短心內非賢。
+
+日用常行饒益，　成道非由施錢，
+菩提只向心覓，　何勞向外求玄。
+
+聽說依此修行，　西方只在目前。」
+
+師復曰：「善知識！總須依偈修行，見取自性，直成佛道。時不相待，眾人且散，吾歸曹溪。眾若有疑，却來相問。」
+
+時，刺史官僚、在會善男信女，各得開悟，信受奉行。</p></div>
+            <div class="translation"><div class="label">Ru-Yi Translation</div><p>The Master said, "Everyone! For people of this world, their own physical body is the city; the eyes, ears, nose, and tongue are its gates. Outwardly there are five gates, and inwardly there is the gate of the mind's intention. The heart is the ground, and self-nature is the king. The king dwells upon the ground of the heart — where nature is present, the king is present; where nature departs, the king is gone. Where nature is present, body and mind endure; where nature departs, the body decays. The buddha is made within self-nature — do not seek for one outside the body. When self-nature is deluded, this is a sentient being; when self-nature is awakened, this is a buddha. Compassion is Avalokiteśvara; joyful giving is called Mahāsthāmaprāpta; the ability to be pure is Śākyamuni; being even and upright is Amitābha. The notion of self and other is Mount Sumeru; greed and desire are the ocean's waters; affliction is its waves; malice and harm are the wicked dragon; falseness is the ghosts and spirits; the dust and toil of the world are its fish and turtles. Greed and anger are the hells; ignorance and folly are the animal realm. Good friends, constantly practice the ten wholesome deeds, and the heavens will arrive of themselves. Remove the notion of self and other, and Mount Sumeru topples; take away greed and desire, and the ocean's waters run dry; when there is no affliction, its waves subside; when malice and harm are removed, the fish and dragons vanish entirely. When the awakened nature upon the ground of your own mind sends forth its great light, shining outward it purifies the six gates, able to break through the heavens of the six desires; shining inward upon self-nature, the three poisons are thereby removed, and the crimes that lead to hell and the rest are all extinguished at once — within and without, entirely clear and bright, no different at all from the West. Without cultivating in this way, how could you ever arrive there?"
+
+Hearing this teaching, the whole assembly saw their own nature with perfect clarity; every one of them bowed in homage, and all together praised it, exclaiming, "How excellent!" and proclaiming together, "We wish only that every being throughout the entire dharma-realm who hears this may awaken to understanding all at once."
+
+The Master said, "Good friends, if you wish to practice, you may do so equally well at home — it does not depend on being in a temple. Practicing well at home is like a person of the East with a good mind; failing to practice while in a temple is like a person of the West with an evil mind. Simply keep the mind pure, and this itself is the West of your own self-nature."
+
+Wei asked further, "How should one practice at home? I beg you to teach us."
+
+The Master said, "I will speak a Markless Verse for the assembly. Simply practice according to it, and you will always dwell in the very same place as I do; but if you do not practice according to it, what benefit is there even in shaving your head and leaving home for the sake of the Way? The verse says:
+
+"When the mind is even, why trouble to keep the precepts? When conduct is upright, what need is there to cultivate meditation?
+
+For kindness, support your parents with filial devotion; for righteousness, let high and low have compassion for one another; for yielding, let noble and humble live in harmony; for forbearance, let no clamor arise over any wrong. If you are able to rub wood together until fire comes forth, then a red lotus will surely grow even out of the mud.
+
+Bitter to the mouth — this is sure to be good medicine; harsh to the ear — this is sure to be honest counsel. Correcting your faults will surely give rise to wisdom; guarding your own shortcomings within your heart is not the mark of a worthy person.
+
+In your daily life, constantly act for the benefit of others — the Way is accomplished not through giving away money. Bodhi is to be sought only within your own mind — why trouble yourself searching for mystery outside it?
+
+Hear this teaching, and practice according to it, and the West will be right before your eyes."
+
+The Master said further, "Good friends, you must all practice according to this verse, take hold of your own self-nature, and go straight to the buddha-path. Time waits for no one — let everyone disperse now, and I will return to Caoxi. If any of you have doubts, come to me again and ask."
+
+At that time the prefect and his officials, and all the good men and women of faith gathered there, each attained awakening, and received and upheld the teaching with faith.</p></div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — after Hanshan</div>
+          <p>Hanshan reads the body-as-city allegory as a systematic remapping rather than a loose metaphor: every named feature of Buddhist cosmology — Sumeru, the ocean, the hells, the animal realm, even named bodhisattvas like Avalokiteśvara and Mahāsthāmaprāpta — is assigned a corresponding mental or moral constituent already present in an ordinary person. Nothing is invented to make the correspondence work; the claim is that the cosmology was, in a sense, always a description of the mind, waiting to be read that way. "The buddha is made within self-nature — do not seek for one outside the body" is, on this reading, the entire allegory's thesis stated plainly before the imagery begins.</p>
+          <p>Hanshan draws attention to what the closing verse deliberately omits: no mention of ordination, monastic precepts, or leaving the household life — a striking absence, given that it is spoken in direct answer to "how should one practice at home?" Its very first line, "when the mind is even, why trouble to keep the precepts," is not a dismissal of monastic discipline elsewhere in the sūtra, several chapters of which treat precepts with full seriousness, but a claim specific to this verse's lay audience: for someone whose mind is already even and whose conduct is already upright, formal precepts describe what such a mind does naturally rather than imposing something onto it from outside.</p>
+        </div>
+      </section>
+
+      <nav class="fascicle-pagenav" aria-label="Section navigation">
+        <a class="pn-prev" href="{{ '/sutras/platform-sutra/the-perfection-of-wisdom.html' | relative_url }}"><span class="pn-label">← Previous</span><span class="pn-title">The Perfection of Wisdom</span></a>
+        <span class="pn-index"><a href="{{ '/sutras/platform-sutra.html' | relative_url }}">↑ All sections · The Platform Sūtra</a></span>
+        <a class="pn-next" href="{{ '/sutras/platform-sutra/samadhi-and-seated-meditation.html' | relative_url }}"><span class="pn-label">Next →</span><span class="pn-title">Samādhi, Prajñā, and Seated Meditation</span></a>
+      </nav>
+
+    </div>
+  </section>
+</article>
