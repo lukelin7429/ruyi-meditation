@@ -59,3 +59,10 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 | 梵問經 | the *Brahma-Questions Sūtra* | Cited in Part 3 for "the Tathāgata neither attains birth-and-death nor attains nirvāṇa," resolved via the three natures. |
 | 四意趣 | the four intentions | Equality, a different time, a different meaning, and accommodating an individual's disposition — four reasons a Buddha saying may need reading with a hidden intent rather than at face value. |
 | 四祕密 | the four hidden meanings | Leading one to enter, characteristics, counteraction, and transformation — distinguished from the four intentions by the specific interpretive key each requires. |
+| 意言 | mental discourse | The conceptual, verbal-feeling activity of thinking through the teaching before it deepens into direct, non-conceptual realization — central to Part 4's account of how a practitioner actually enters Consciousness-Only. |
+| 四尋思 / 四如實遍智 | the four investigations / the four kinds of thorough knowledge of things as they really are | Part 4's two-stage technique: investigating whether name, meaning, own-nature, and differentiating quality are real, then thoroughly knowing that none of them are. |
+| 勝解行地 | the stage of resolute conduct | The long preparatory stage before the path of seeing, where entry into Consciousness-Only happens through conviction rather than direct sight. |
+| 見道 / 修道 / 究竟道 | the path of seeing / the path of cultivation / the ultimate path | Matches Cheng Weishi Lun's five-stage path (accumulation, preparatory effort, seeing, cultivation, ultimate). |
+| 順決擇分 (煖 / 頂 / 忍 / 世第一法) | the aids to penetration (heat / summit / acceptance / the highest worldly dharma) | The four-stage threshold immediately before the path of seeing; matches Cheng Weishi Lun's terminology for the same four stages. |
+| 極喜地 | the Ground of Utmost Joy | Pramuditā, the first of the ten bodhisattva grounds, entered at the path of seeing. |
+| 轉依 | see Part 2 entry | Cross-reference: the transformation of the basis, introduced in Part 2, is the goal of the path of cultivation described in Part 4. |
