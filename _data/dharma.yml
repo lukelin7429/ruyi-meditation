@@ -20,13 +20,14 @@ sutras:
   # Distinct live Mahāyāna works on /sutras/ (excludes "coming soon"
   # placeholders). Currently: Heart Sūtra, 大智度論, 瑜伽師地論, 淨行品,
   # 楞嚴經, Master Yuanying's 楞嚴經講義, 解深密經, 因明入正理論,
-  # 因明正理門論, and 優婆塞戒經 (The Sutra on Upasaka Precepts, added here).
+  # 因明正理門論, 優婆塞戒經 (The Sutra on Upasaka Precepts), and
+  # 南山律在家備覽 (Nanshan Vinaya for Laypeople, added here).
   # NOTE: this count is manually maintained and known to lag behind
   # /sutras/index.html in general (several other works — e.g. the Brahma
   # Net Sutra — were added to that page without updating this number).
   # Only incrementing for this session's own addition; a full recount
   # against sutras/index.html is a separate cleanup task.
-  live_texts: 10
+  live_texts: 11
 
 discourses:
   # Live collections on /discourses/ (MN, DN, AN, SN, Dhammapada,
