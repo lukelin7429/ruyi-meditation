@@ -27,7 +27,7 @@ sutras:
   # Net Sutra — were added to that page without updating this number).
   # Only incrementing for this session's own addition; a full recount
   # against sutras/index.html is a separate cleanup task.
-  live_texts: 11
+  live_texts: 12
 
 discourses:
   # Live collections on /discourses/ (MN, DN, AN, SN, Dhammapada,
