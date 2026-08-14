@@ -1,0 +1,173 @@
+---
+layout: default
+title: Viṃśatikā
+permalink: /sutras/vimsatika/
+excerpt: A plain-English study entrance to the Viṃśatikā, Vasubandhu's own twenty-verse demolition of every rival argument for a mind-independent world, read with Kuījī's commentary.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .msg{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .msg *{box-sizing:border-box;}
+  .msg-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .msg [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .msg [data-rv].in{opacity:1;transform:none;}
+  .msg-hero{background:linear-gradient(155deg,#2f6d5e 0%,#254f45 45%,#151c20 100%);color:#fff;overflow:hidden;position:relative;}
+  .msg-hero::after{content:"唯識二十論";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .msg-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .msg-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .msg-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .msg-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .msg h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:16ch;}
+  .msg-hero p{max-width:720px;color:#edf4ef;font-size:19px;line-height:1.7;}
+  .msg-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .msg-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .msg-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .msg-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .msg-intro{background:var(--cream);padding:64px 0 42px;}
+  .msg-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.msg-grid{grid-template-columns:1.15fr .85fr;}}
+  .msg-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .msg-panel h2,.msg-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .msg-panel p,.msg-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .msg-panel ul{padding-left:20px;margin:0;}
+  .msg-stats{display:grid;gap:12px;margin-top:18px;}
+  .msg-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .msg-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .msg-section{padding:70px 0;background:#fff;}
+  .msg-section-head{max-width:720px;margin-bottom:28px;}
+  .msg-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:12px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(3,minmax(0,1fr));}}
+  .vol-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:16px;text-decoration:none;color:inherit;min-height:132px;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card.live{background:linear-gradient(180deg,#fff,#f5fbf8);border-color:#b9d2c8;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#d8c6a6;text-decoration:none;}
+  .vol-card.live:hover{border-color:#7ea99a;}
+  .vol-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .vol-card.live .vol-num{color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin:8px 0 6px;line-height:1.2;}
+  .vol-note{font-size:14px;color:var(--muted);line-height:1.45;margin-top:auto;}
+  .msg-featured{display:grid;grid-template-columns:1fr;gap:18px;margin-bottom:28px;}
+  @media(min-width:760px){.msg-featured{grid-template-columns:repeat(3,1fr);}}
+  .feature{border-radius:8px;background:#f7f1e6;border:1px solid var(--line);padding:22px;}
+  .feature .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra-deep);font-weight:800;}
+  .feature h3{font-family:'Playfair Display',Georgia,serif;font-size:24px;margin:8px 0 8px;color:var(--ink);}
+  .feature p{font-size:15.5px;line-height:1.6;color:var(--muted);margin:0;}
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .msg [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="msg">
+  <section class="msg-hero">
+    <div class="msg-hero-in">
+      <nav class="msg-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Viṃśatikā</nav>
+      <div class="msg-eyebrow" data-rv>Vasubandhu · Xuánzàng · 唯識二十論</div>
+      <h1 data-rv style="transition-delay:.06s">Twenty Verses Against a Mind-Independent World.</h1>
+      <p data-rv style="transition-delay:.12s">The <em>Viṃśatikā</em> — "the Twenty-Verse [Treatise]" — is Vasubandhu's own short, dense answer to every objection a rival school could raise against consciousness-only: how a mind-only world could still explain fixed place and time, how it could be shared consistently by many separate witnesses, how it could still cause real harm and real function, and — in the treatise's most famous argument — why no indivisible atom could ever combine with another to build the physical world those schools took for granted. This page is the entrance for reading it part by part, following the treatise's own argument as it unfolds.</p>
+      <div class="msg-actions" data-rv style="transition-delay:.18s">
+        <a class="msg-btn primary" href="#parts">Browse 3 parts →</a>
+        <a class="msg-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-intro">
+    <div class="msg-wrap msg-grid">
+      <div class="msg-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>The treatise itself is short — twenty-one verses in Xuánzàng's translation, each with Vasubandhu's own prose commentary attached — but its argument is dense, moving briskly from one rival school's objection to the next. We split it into three parts by the natural shape of that argument: the fourfold challenge and its answer, scripture's hidden intent together with the refutation of atoms, and the closing run of objections on perception, ethics, and other minds.</p>
+        <p>Because Vasubandhu supplies his own commentary directly beneath each verse, no root-and-commentary pairing is needed the way it is for the <em>Triṃśikā</em>. For a second layer of reading, we follow Kuījī, Xuánzàng's direct disciple, whose own commentary preserves notes taken during the very week Xuánzàng translated the root text.</p>
+      </div>
+      <div class="msg-panel" data-rv style="transition-delay:.08s">
+        <h2>What each part page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation.</li>
+          <li>Reading notes drawn from Kuījī's commentary.</li>
+          <li>A running glossary so terminology stays consistent from Part 1 to Part 3, and with the site's other Yogācāra pages.</li>
+        </ul>
+        <div class="msg-stats">
+          <div class="msg-stat"><b>1</b> of 3 parts — complete</div>
+          <div class="msg-stat"><b>21</b> verses, each with Vasubandhu's own prose commentary</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-section" id="parts">
+    <div class="msg-wrap">
+      <div class="msg-section-head" data-rv>
+        <h2>Read by Part</h2>
+        <p>The treatise's own argument, unfolding verse by verse: from the fourfold challenge to consciousness-only, through the refutation of every rival account of the physical world, to the closing objections on perception, ethics, and other minds.</p>
+      </div>
+
+      <div class="msg-featured">
+        <div class="feature" data-rv>
+          <span class="tag">Part 1</span>
+          <h3>The Fourfold Challenge</h3>
+          <p>Vasubandhu's opening thesis that the three realms are consciousness-only, an opponent's challenge that a mind-only world could never explain fixed place, fixed time, many witnesses, or real function, and the answer — dream, hungry ghost, and hell — that closes off three rival schools' accounts of the hell-guardians.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.06s">
+          <span class="tag">Part 2</span>
+          <h3>Scripture's Hidden Intent, and the Refutation of Atoms</h3>
+          <p>Why the Buddha's own teaching that form and the senses exist does not prove a mind-independent world, and the treatise's most celebrated argument: that no indivisible, partless atom could ever combine with another to build anything at all.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.12s">
+          <span class="tag">Part 3</span>
+          <h3>Perception, Ethics, and Other Minds</h3>
+          <p>Whether direct perception proves an external object, why dream and waking karma differ, how killing is possible without a real external victim, and the treatise's closing verse: consciousness-only's own limits, before the unthinkable domain of a buddha's own wisdom.</p>
+        </div>
+      </div>
+
+      <div class="vol-grid">
+        <a class="vol-card live" id="part-1" href="{{ '/sutras/vimsatika/part-01/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 1 · 破外境四難</span>
+          <span class="vol-title">The Fourfold Challenge</span>
+          <span class="vol-note">The opening thesis, the fourfold challenge, and the dream, the ghost, and the hell that answer it. Complete.</span>
+        </a>
+        <a class="vol-card" id="part-2" href="{{ '/sutras/vimsatika/part-02/' | relative_url }}" data-rv style="transition-delay:.05s">
+          <span class="vol-num">Part 2 · 密意與極微破斥</span>
+          <span class="vol-title">Scripture's Hidden Intent, and the Refutation of Atoms</span>
+          <span class="vol-note">Coming next.</span>
+        </a>
+        <a class="vol-card" id="part-3" href="{{ '/sutras/vimsatika/part-03/' | relative_url }}" data-rv style="transition-delay:.1s">
+          <span class="vol-num">Part 3 · 現量、倫理與結頌</span>
+          <span class="vol-title">Perception, Ethics, and Other Minds</span>
+          <span class="vol-note">Coming next.</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-section" id="notes" style="background:var(--cream);padding-top:64px;">
+    <div class="msg-wrap">
+      <div class="msg-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent from Part 1 through Part 3, and matched to the site's other Yogācāra pages where the same term appears. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>三界 — the three realms</b><span>Desire, form, and formless — matches the site's standard Yogācāra usage.</span></div>
+        <div class="term"><b>眩瞖 — a clouded eye</b><span>The treatise's controlling simile: hairs, flies, and a second moon seen where nothing real exists at all.</span></div>
+        <div class="term"><b>異熟 — karmic ripening</b><span>Vipāka; how shared karma, not a shared object, explains shared appearance among many witnesses.</span></div>
+        <div class="term"><b>熏習 — habituation</b><span>Vāsanā; matches the <em>Mahāyānasaṃgraha</em> glossary.</span></div>
+        <div class="term"><b>獄卒 — hell-guardians</b><span>The treatise's central test case: neither real beings, nor karma-made matter, nor a habituation ripening outside consciousness.</span></div>
+        <div class="term"><b>極微 — atoms</b><span>Paramāṇu; the indivisible physical particles refuted in Part 2.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
