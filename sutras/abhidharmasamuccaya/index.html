@@ -1,0 +1,354 @@
+---
+layout: default
+title: Abhidharmasamuccaya
+permalink: /sutras/abhidharmasamuccaya/
+excerpt: A plain-English study entrance to the Abhidharmasamuccaya, Asaṅga's own compendium of Mahāyāna Abhidharma, organized part by part across 131 parts, read with Sthiramati and Jinaputra's companion commentary.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .asc{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .asc *{box-sizing:border-box;}
+  .asc-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .asc [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .asc [data-rv].in{opacity:1;transform:none;}
+  .asc-hero{background:linear-gradient(155deg,#8c2f12 0%,#5e2110 45%,#1c130f 100%);color:#fff;overflow:hidden;position:relative;}
+  .asc-hero::after{content:"集論";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .asc-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .asc-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .asc-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .asc-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .asc h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:17ch;}
+  .asc-hero p{max-width:720px;color:#f3ece3;font-size:19px;line-height:1.7;}
+  .asc-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .asc-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .asc-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .asc-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .asc-intro{background:var(--cream);padding:64px 0 42px;}
+  .asc-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.asc-grid{grid-template-columns:1.15fr .85fr;}}
+  .asc-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .asc-panel h2,.asc-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .asc-panel p,.asc-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .asc-panel ul{padding-left:20px;margin:0;}
+  .asc-stats{display:grid;gap:12px;margin-top:18px;}
+  .asc-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .asc-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .asc-section{padding:70px 0;background:#fff;}
+  .asc-section-head{max-width:720px;margin-bottom:28px;}
+  .asc-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+
+  .ch-grid{display:grid;grid-template-columns:1fr;gap:14px;}
+  @media(min-width:640px){.ch-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .ch-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:20px;}
+  .ch-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .ch-zh{font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:22px;color:var(--ink);margin:6px 0 8px;line-height:1.2;}
+  .ch-desc{font-size:15px;color:var(--muted);line-height:1.55;}
+  .ch-parts{margin-top:10px;font-size:12.5px;font-weight:700;color:var(--terra-deep);letter-spacing:.03em;}
+
+  .sub-head{margin:44px 0 16px;}
+  .sub-head:first-child{margin-top:0;}
+  .sub-head h3{font-family:'Playfair Display',Georgia,serif;font-size:24px;color:var(--ink);margin:0 0 4px;}
+  .sub-head span{font-size:14px;color:var(--muted);font-family:"PingFang TC","Microsoft JhengHei",serif;}
+
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:10px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(3,minmax(0,1fr));}}
+  .vol-card{border:1px solid #b9d2c8;border-radius:8px;background:linear-gradient(180deg,#fff,#f5fbf8);padding:14px 16px;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#7ea99a;text-decoration:none;}
+  .vol-num{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:16.5px;color:var(--ink);margin-top:5px;line-height:1.3;}
+
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .asc [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="asc">
+  <section class="asc-hero">
+    <div class="asc-hero-in">
+      <nav class="asc-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Abhidharmasamuccaya</nav>
+      <div class="asc-eyebrow" data-rv>Asaṅga · Xuánzàng · 大乘阿毘達磨集論</div>
+      <h1 data-rv style="transition-delay:.06s">The Compendium of Abhidharma.</h1>
+      <p data-rv style="transition-delay:.12s">The <em>Abhidharmasamuccaya</em> — "Compendium of Abhidharma" — is Asaṅga's own systematic re-working of Abhidharma scholasticism through a Yogācāra lens: the five aggregates, elements, and sense fields analyzed in exhaustive detail, the four noble truths worked out at treatise-length, and the treatise's own closing chapters on the Dharma, on attainment, and on the rules of formal debate. This page is the entrance for reading it part by part, following the treatise's own two-part structure — 本事分, the foundations, and 決擇分, their detailed determination.</p>
+      <div class="asc-actions" data-rv style="transition-delay:.18s">
+        <a class="asc-btn primary" href="#parts">Browse all 131 parts →</a>
+        <a class="asc-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-intro">
+    <div class="asc-wrap asc-grid">
+      <div class="asc-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>This is the largest single treatise on this site — Asaṅga's own attempt to gather the entire field of Mahāyāna Abhidharma into one systematic work. We keep the treatise's own structure rather than smoothing it away: the foundations chapter (本事分) working through the aggregates, elements, and sense fields in full technical detail, followed by the determination chapter (決擇分), which takes up the four noble truths, the Dharma, attainment, and formal debate each in turn.</p>
+        <p>Our commentary guide is the <em>Abhidharmasamuccayavyākhyā</em> (大乘阿毘達磨雜集論), attributed to Sthiramati and completed by Jinaputra, translated into Chinese by the same Xuánzàng, so terminology stays aligned with the root text throughout.</p>
+      </div>
+      <div class="asc-panel" data-rv style="transition-delay:.08s">
+        <h2>What each part page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation.</li>
+          <li>Reading notes drawn from Sthiramati and Jinaputra's commentary.</li>
+          <li>A running glossary so terminology stays consistent across all 131 parts, and with the site's other Yogācāra pages.</li>
+        </ul>
+        <div class="asc-stats">
+          <div class="asc-stat"><b>131</b> of 131 parts — complete</div>
+          <div class="asc-stat"><b>7</b> fascicles in Xuánzàng's translation (T1605)</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="chapters">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>The Treatise's Own Structure</h2>
+        <p>Asaṅga divides the whole work into two parts: 本事分, laying out the foundations, and 決擇分, determining them in far greater technical detail. The determination chapter is itself four further chapters long — 諦品 on the four noble truths, 法品 on the Dharma, 得品 on attainment, and 論議品 on formal debate.</p>
+      </div>
+      <div class="ch-grid">
+        <div class="ch-card" data-rv>
+          <div class="ch-num">本事分 · Foundations</div>
+          <div class="ch-zh">The Five Aggregates, Elements, and Sense Fields</div>
+          <div class="ch-desc">Form, feeling, perception, volition and the fifty-one mental factors, the ālayavijñāna, the eighteen elements and twelve sense fields, the hundred-gate analysis, wholesome/unwholesome/neutral dharmas, dependent origination, and the eight kinds of suffering.</div>
+          <div class="ch-parts">Parts 1–31</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.05s">
+          <div class="ch-num">決擇分 · 諦品</div>
+          <div class="ch-zh">The Four Noble Truths</div>
+          <div class="ch-desc">Suffering, origination, cessation, and the path, worked out at treatise length — the afflictions and karma in exhaustive detail, the many names of nirvāṇa, and the entire structure of the path from the path of seeing through the culminating path.</div>
+          <div class="ch-parts">Parts 32–69</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.1s">
+          <div class="ch-num">決擇分 · 法品</div>
+          <div class="ch-zh">The Chapter on the Dharma</div>
+          <div class="ch-desc">The twelve genres of scripture, the three baskets, the objects and principles of investigating the Dharma, and the vast teachings' own correct reading of emptiness against twenty-eight wrong views.</div>
+          <div class="ch-parts">Parts 70–82</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.15s">
+          <div class="ch-num">決擇分 · 得品</div>
+          <div class="ch-zh">The Chapter on Attainment</div>
+          <div class="ch-desc">The sevenfold classification of persons from ordinary being to bodhisattva, and the tenfold classification of direct realization with its full catalogue of eighteen categories of buddha-qualities.</div>
+          <div class="ch-parts">Parts 83–122</div>
+        </div>
+        <div class="ch-card" data-rv style="transition-delay:.2s;grid-column:1/-1;">
+          <div class="ch-num">決擇分 · 論議品</div>
+          <div class="ch-zh">The Chapter on Formal Debate</div>
+          <div class="ch-desc">The treatise's own closing methodology: seven kinds of determination through discourse, the full rules of formal debate down to its eight-part logical structure, and the treatise's own explanation of its own title.</div>
+          <div class="ch-parts">Parts 123–131</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="parts" style="background:var(--cream);">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Read by Part</h2>
+        <p>All 131 parts, grouped by the treatise's own sections. Every part links to the full bilingual translation with reading notes.</p>
+      </div>
+
+      {% assign part_data = "1|Numbers and Defining Marks
+2|Building the Aggregate of Form
+3|Feeling and Perception
+4|Volition, and the Universal, Particular, and Wholesome Factors
+5|The Root Afflictions and the Five Views
+6|Secondary Afflictions and the Indeterminates
+7|Formations Dissociated from Mind
+8|Consciousness, and the Proof of the Ālayavijñāna
+9|The Eighteen Elements, Eight Unconditioned Dharmas, and Twelve Sense Fields
+10|Mutual Inclusion, and the Meaning of Aggregate, Element, and Sense Field
+11|The Hundred-Gate Analysis Begins
+12|Form, Visibility, Resistance, and Contamination
+13|Conflict, Defilement, and Indulgence
+14|Conditioned and Unconditioned, Worldly and Supramundane
+15|Already Arisen, Grasping, and the Two Gates
+16|Defilement, and the Three Times
+17|What Makes a Dharma Wholesome
+18|Unwholesome and Morally Neutral Dharmas
+19|The Three Realms, and Freedom from Desire
+20|Trainee, Non-Trainee, and What Gets Abandoned How
+21|Dependent Origination
+22|The Four Conditions
+23|Shared Experience, Appropriation, Faculties, and Three Kinds of Suffering
+24|Karmic Ripening, the Four Nutriments, and 三法品's Close
+25|Subsumption, Association, and Possession
+26|The Sentient World and the Container World
+27|The Eight Kinds of Suffering
+28|Twelve Marks of Impermanence
+29|Suffering, Emptiness, and Selflessness
+30|Even Form Is Momentary
+31|Death and the Intermediate State
+32|The Truth of Origination Begins
+33|The Nine Fetters
+34|Bonds, Latent Tendencies, and Entanglements
+35|Ties, Hindrances, and Stumps
+36|Thirteen Further Names for the Same Three Poisons
+37|Wrongful Conduct and Realm
+38|The Two Classes, and How Abandonment Works
+39|Karma Begins
+40|Decisive Karma, and the Ten Karma-Paths' Three Fruits
+41|Meritorious, Demeritorious, and Unshakable Karma
+42|Shared Karma, and Strong Versus Weak
+43|What 'Pleasant Karma Ripens as Pleasant' Really Means
+44|Restraint, Non-Restraint, and Neither
+45|Non-Restraint, and When Karma Actually Ripens
+46|Black Karma, White Karma, and the Karma That Exhausts All Karma
+47|What Makes an Act of Giving Complete
+48|Nineteen Marks of Genuine Moral Discipline
+49|The Truth of Origination Closes
+50|The Truth of Cessation Begins
+51|The Many Names of Nirvāṇa
+52|The Truth of the Path Begins
+53|The Path of Seeing
+54|Four Aspects of the Path, and Two Scriptural Descriptions
+55|The Path of Cultivation Begins
+56|Seven Mental Applications, and the Naming of Immeasurable Absorptions
+57|The Supramundane Path
+58|Nine Grades of Path Against Nine Grades of Affliction
+59|The Thirty-Seven Factors of Awakening Begin
+60|Correct Exertions, and the Bases of Supernormal Power
+61|The Five Faculties and Five Powers
+62|The Seven Factors of Awakening
+63|The Eightfold Noble Path
+64|The Four Correct Practices, and the Four Footprints of the Dharma
+65|Calm-Abiding and Insight, and the Four Types of Path
+66|The Three Faculties Across the Path
+67|The Culminating Path
+68|Twenty-Four Kinds of Coarse Heaviness
+69|Exhaustion-Knowledge, and the Truth of the Path Complete
+70|The Twelve Genres of Scripture
+71|The Three Baskets
+72|What Apprehends the Dharma, and the Four Kinds of Objects
+73|Purifying Conduct, Skillful Means, and Purifying Affliction
+74|The Four Principles of Reasoning
+75|The Four Investigations, and the Four Resultant True Knowledges
+76|The Five Stages of the Yogic Ground
+77|Five Kinds of Skill, and Abiding in the Dharma
+78|Why the Vast Teachings Are Called the Bodhisattva's Basket
+79|Twenty-Eight Wrong Views
+80|The Three Kinds of Absence of Own-Nature
+81|The Four Intentions, and the Four Hidden Implications
+82|Five Marks of Skill in the Dharma, and 法品 Complete
+83|Why Persons Are Provisionally Established
+84|The Seven Temperaments, and the Three Vehicles
+85|The Three Degrees of Provisions
+86|Faith-Follower, Dharma-Follower, and the Five Kinds of Liberation
+87|Stream-Entry, and the Three Fetters
+88|Once-Returning, Non-Returning, and the Five Lower Fetters
+89|Arhatship, and the Five Upper Fetters
+90|Seven Returns, Family to Family, and One Interval
+91|Five Ways the Non-Returner Attains Final Nirvāṇa
+92|The Six Kinds of Arhat
+93|Realm, and Persons Beyond the Ordinary Threefold Scheme
+94|Five Stages of Bodhisattva Practice, and 建立補特伽羅 Complete
+95|The Ten Kinds of Direct Realization Begin
+96|Culminating Realization, and the Three Vehicles' Realization
+97|Eleven Ways Bodhisattva Realization Differs
+98|The Distinction of Fruit Begins
+99|The Distinction of Fruit Complete
+100|The Four Immeasurables
+101|The Eight Liberations
+102|Eight Stations of Mastery, and Ten Totalities
+103|Non-Contention, and Wish-Knowledge
+104|The Four Unhindered Understandings
+105|The Six Superknowledges, and the Major and Minor Marks
+106|The Four Purities
+107|The Ten Powers
+108|The Four Fearlessnesses
+109|Three Foundations of Mindfulness, and Three States Requiring No Concealment
+110|Never Forgetting, Permanent Elimination of Habitual Imprints, and Great Compassion
+111|The Eighteen Exclusive Buddha-Qualities Begin
+112|The Eighteen Exclusive Buddha-Qualities Complete
+113|How These Qualities Are Generated
+114|What Each Quality Accomplishes Begins
+115|What Each Quality Accomplishes Complete
+116|Inexhaustible Bodhisattvas, and Fourteen Undetermined Questions
+117|Why Bodhisattvas Are Never Formally Named Stream-Enterers
+118|Five Kinds of Bodhisattva Skill Begin
+119|Ten Kinds of False Discrimination
+120|Scattering Discrimination, and the Perfection of Wisdom's Own Teaching
+121|Three Kinds of Non-Discrimination
+122|Sharpening the Faculties, and 得品 Complete
+123|論議品 Begins: The Six Meanings
+124|Fourteen Approaches to Interpreting Scripture
+125|Differentiated Exposition, Disputation, and Inclusion
+126|The Rules of Debate Begin
+127|The Basis of Debate, and Proving the Absence of a Self
+128|The Adornment of Debate, and Defeat in Debate
+129|Withdrawing from Debate, and the Twelve Rare Conditions
+130|Determination Through Hidden Meaning
+131|The Final Concealed Teachings, and Why This Treatise Bears Its Name" | split: "
+" %}
+
+      {% for entry in part_data %}
+        {% assign fields = entry | split: "|" %}
+        {% assign n = fields[0] | plus: 0 %}
+        {% assign t = fields[1] %}
+
+        {% if n == 1 %}
+          <div class="sub-head" data-rv><h3>五蘊 · The Five Aggregates and Their Analysis (本事分)</h3></div>
+          <div class="vol-grid">
+        {% elsif n == 32 %}
+          </div>
+          <div class="sub-head" data-rv><h3>諦品 · The Four Noble Truths</h3></div>
+          <div class="vol-grid">
+        {% elsif n == 70 %}
+          </div>
+          <div class="sub-head" data-rv><h3>法品 · The Chapter on the Dharma</h3></div>
+          <div class="vol-grid">
+        {% elsif n == 83 %}
+          </div>
+          <div class="sub-head" data-rv><h3>得品 · The Chapter on Attainment</h3></div>
+          <div class="vol-grid">
+        {% elsif n == 123 %}
+          </div>
+          <div class="sub-head" data-rv><h3>論議品 · The Chapter on Formal Debate</h3></div>
+          <div class="vol-grid">
+        {% endif %}
+
+        {% if n < 10 %}
+          {% assign slug = "0" | append: n %}
+        {% else %}
+          {% assign slug = n %}
+        {% endif %}
+        <a class="vol-card" href="{{ '/sutras/abhidharmasamuccaya/part-' | append: slug | append: '/' | relative_url }}" data-rv>
+          <span class="vol-num">Part {{ n }}</span>
+          <span class="vol-title">{{ t }}</span>
+        </a>
+      {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="asc-section" id="notes" style="background:#fff;">
+    <div class="asc-wrap">
+      <div class="asc-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>Recurring terms, kept consistent across all 131 parts, and matched to the site's other Yogācāra pages where the same term appears. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>本事分 / 決擇分 — foundations / determination</b><span>The treatise's own two-part structure: laying out the basic categories, then determining them in far greater technical detail.</span></div>
+        <div class="term"><b>阿賴耶識 — ālayavijñāna</b><span>The storehouse consciousness, examined here alongside its full eight-proof case for existence, matched to the site's Mahāyānasaṃgraha and Cheng Weishi Lun pages.</span></div>
+        <div class="term"><b>五十一心所法 — the fifty-one mental factors</b><span>The full Yogācāra taxonomy of mind's associated factors, kept terminologically identical to the site's Cheng Weishi Lun pages.</span></div>
+        <div class="term"><b>三自性 — the three natures</b><span>The discriminated, dependent, and perfected natures — the same terms used across the site's other Yogācāra pages.</span></div>
+        <div class="term"><b>諦品 · 四聖諦 — the four noble truths</b><span>Suffering, origination, cessation, and the path, each given its own four-aspect closing summary in the treatise's own style.</span></div>
+        <div class="term"><b>建立補特伽羅 / 建立現觀 — persons and direct realization</b><span>得品's own twofold structure: who attains, and what is attained.</span></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
