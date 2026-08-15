@@ -1,0 +1,427 @@
+---
+layout: default
+title: "Hundred Treatise, Part 14 — You Are the Destroyer"
+permalink: /sutras/hundred-treatise/part-14/
+excerpt: Ru-Yi's bilingual translation of the tenth and final chapter of the Hundred Treatise (百論・破空品第十) — the Outsider turns and asks what the refutation itself is made of, and gets the fullest answer in the treatise: the two truths, the fourth position beyond existence and non-existence, a mirage that a thirsty man runs toward, and a last line that withdraws even the liberation just offered.
+---
+
+<style>
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle table{width:100%;border-collapse:collapse;margin:16px 0 22px;font-size:16px;}
+  .fascicle th,.fascicle td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--muted);}
+  .fascicle th{background:#f6efe2;color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+
+  .translation-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px;}
+  .translation-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.translation-row{grid-template-columns:1fr 1.08fr;}}
+  .source,.translation{border:1px solid var(--line);border-radius:8px;padding:20px 22px;background:#fffdf8;}
+  .translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:10px;}
+  .translation .label{color:var(--jade);}
+  .label .zh{letter-spacing:0;}
+  .source p{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:#382a20;font-size:18px;line-height:1.9;margin:0;}
+  .translation p{color:var(--ink);font-size:16.5px;line-height:1.75;margin:0;}
+  .source p+p,.translation p+p{margin-top:12px;}
+
+  .translation-row.root .source{background:#fdf6ec;border-color:#e2cfa8;}
+  .translation-row.root .translation{background:#f4f9f5;border-color:#bcd6c9;}
+  .translation-row.root .source p{font-size:20px;line-height:2;letter-spacing:.02em;}
+  .translation-row.root .translation p{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-size:18px;line-height:1.6;}
+  .translation-row.root .verse p{margin:0;}
+  .translation-row.root .verse p+p{margin-top:2px;}
+
+  .spk-out{color:var(--terra-deep);font-weight:800;}
+  .spk-in{color:var(--jade);font-weight:800;}
+  .sutra-line{background:#fdf3e2;box-shadow:inset 0 -1px 0 #e3cfa8;padding:1px 5px;border-radius:3px;font-family:'Playfair Display',Georgia,serif;font-style:italic;color:#5d3a18;}
+  .sutra-tag{font-family:'Playfair Display',Georgia,serif;font-style:normal;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#a07333;margin-left:6px;vertical-align:.18em;font-weight:700;}
+
+  .convention{border:1px solid var(--line);border-radius:8px;background:#fffdf8;padding:22px 24px;margin-top:20px;}
+  .convention dl{margin:0;}
+  .convention dt{font-weight:800;color:var(--ink);margin-top:16px;font-size:16.5px;}
+  .convention dt:first-child{margin-top:0;}
+  .convention dd{margin:5px 0 0;color:var(--muted);font-size:16px;line-height:1.7;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:20px;border-radius:0 6px 6px 0;}
+  .note-box .who{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:10px;}
+  .note-box p{margin:0;font-size:16px;color:#5c4a2a;line-height:1.75;}
+  .note-box p+p{margin-top:12px;}
+  .note-box.second{border-left-color:var(--jade);}
+
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  .ending-mark{text-align:center;color:var(--terra);letter-spacing:.8em;margin:28px 0 0;font-size:19px;}
+
+  .fascicle-pagenav{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-top:8px;padding-top:30px;border-top:1px solid var(--line);flex-wrap:wrap;}
+  .fascicle-pagenav a{text-decoration:none;color:var(--ink);}
+  .fascicle-pagenav .pn-label{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra);font-weight:800;margin-bottom:5px;}
+  .fascicle-pagenav .pn-title{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--ink);}
+  .fascicle-pagenav .pn-prev{text-align:left;}
+  .fascicle-pagenav .pn-next{text-align:right;}
+  .fascicle-pagenav .pn-index{text-align:center;font-size:14px;color:var(--muted);align-self:center;}
+  .fascicle-pagenav .pn-index a{color:var(--terra-deep);border-bottom:1px solid rgba(184,67,28,.35);}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › <a href="{{ '/sutras/hundred-treatise/' | relative_url }}">Hundred Treatise</a> › You Are the Destroyer</nav>
+      <div class="fascicle-kicker">Part 14 of 14 · 破空品第十 · Complete · ends the treatise</div>
+      <h1>You Are the Destroyer</h1>
+      <p class="subtitle"><em>Refuting Emptiness</em><span class="zh">破空品第十</span></p>
+      <p class="lede">The last chapter is the Outsider's, and it is the one he should have opened with. For nine chapters he has been losing to a man who defends nothing, and he finally turns and asks what that man's refutation is made of. If it exists, not everything is empty. If it does not, nothing has been refuted. Out of that question comes the fullest statement of position in the treatise: the two truths, a fourth alternative found lurking in the opponent's own textbooks, and a mirage that a thirsty man chases across hot ground. And then the final line takes back the liberation it has just offered.</p>
+      <div class="fascicle-meta">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T30, no. 1569, 百論</span>
+        <span class="fascicle-pill">Āryadeva <span class="zh">(提婆)</span>, with Vasu's commentary <span class="zh">(婆藪開士釋)</span></span>
+        <span class="fascicle-pill">Kumārajīva, revised 404 CE</span>
+        <span class="fascicle-pill">Reading notes: Ru-Yi, original</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <section class="fascicle-section">
+        <h2>1. What Is Your Refutation Made Of?</h2>
+        <p>The chapter's title is startling on first sight — <em>Refuting Emptiness</em> — and it means what it says. The instrument that has dismantled nine chapters of doctrine is now turned on the position doing the dismantling.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source · <span class="zh">破空品第十</span></div>
+              <p>外曰：應有諸法破有故。若無破餘法有故(修妬路)。汝破一切法相，是破若有，不應言一切法空，以破有故。是破有故，不名破一切法。若無破，一切法有。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">There must be things, because the refutation exists; and if there is no refutation, then the remaining things exist.<span class="sutra-tag">sūtra</span></span> You refute the marks of all things. If this refutation exists, you should not say that all things are empty, since the refutation exists; and since the refutation exists, it is not a refutation of <em>all</em> things. And if there is no refutation, then all things exist.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>內曰：破如可破(修妬路)。汝著破故，以有無法欲破是破。汝不知耶？破成故，一切法空無所有。是破若有，已墮可破中，空無所有。是破若無，汝何所破？如說無第二頭，不以破故便有。如人言無，不以言無故有。破可破亦如是。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">The refutation is as what is refuted.<span class="sutra-tag">sūtra</span></span> Because you are attached to refutation, you would refute this refutation by means of existence and non-existence. Do you not know? Since the refutation succeeds, all things are empty and nothing at all. If this refutation exists, it has already fallen among the things that can be refuted, and is empty and nothing at all. And if this refutation does not exist, what is it that you are refuting? It is as when one says there is no second head: the denying does not bring one into being. As when a person says "there is none," the saying does not make there be one. Refutation and what is refuted are just the same.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This is the most famous objection in Madhyamaka and it is a genuinely good one — good enough that Nāgārjuna wrote a separate work, the <em>Vigrahavyāvartanī</em> or "Dispeller of Disputes," to answer it, and the <a href="{{ '/sutras/twelve-gate-treatise/part-08/' | relative_url }}"><em>Twelve Gate Treatise</em> meets it in Gate Eleven</a> in almost identical terms. A weapon that destroys everything it touches ought to destroy itself; and either it does, in which case nothing has been established, or it does not, in which case here is one thing that is not empty.</p>
+          <p>The reply's first move is the one everything depends on: <span class="zh">破成故，一切法空無所有</span> — <em>since the refutation succeeds, all things are empty.</em> The refutation is not exempt. It falls under its own conclusion and is as empty as everything else, and the Insider says so without the slightest reluctance, because on his account that is not a difficulty but the result. An argument whose conclusion is that nothing has a nature of its own is not embarrassed to find that it has none either. The embarrassment would belong to someone who had claimed that refutation is a real, self-natured thing — and nobody has.</p>
+          <p>The second head is the image that makes it concrete, and it is worth dwelling on. Say "I have no second head." You have used the words, formed the thought, made the denial — and no second head has appeared. A negation does not conjure the thing it denies into a shadowy half-existence in order to have something to be about. So too here: the refutation does not need to be a real entity in order to do its work, any more than "there is no second head" needs a second head.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>2. "You Are the Destroyer" — Handed Back</h2>
+        <p>The accusation from <a href="{{ '/sutras/hundred-treatise/part-08/' | relative_url }}">Part 8</a> returns, and this time it is not brushed aside in a sentence. It gets a definition, a reversal, and an argument about what refuting can and cannot accomplish.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：應有諸法，執此彼故(修妬路)。汝執異法故說一法過，執一法故說異法過，是二執成故有一切法。</p>
+              <p>內曰：一非所執，異亦爾(修妬路)。一異不可得先已破，先已破故無所執。復次若有人言：「汝無所執，我執一異法。」若有此問，應如是破。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">There must be things, because you take hold of this and of that.<span class="sutra-tag">sūtra</span></span> You take hold of difference in order to state the fault in sameness, and take hold of sameness in order to state the fault in difference. These two graspings being established, all things exist.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">Sameness is not something grasped, and neither is difference.<span class="sutra-tag">sūtra</span></span> That sameness and difference are not to be got has been refuted already; and having been refuted, there is nothing grasped. Furthermore, if someone should say, "You grasp nothing; I grasp sameness and difference" — should such a question be raised, it is to be refuted in just this way.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：破他法故，汝是破法人(修妬路)。汝好破他法，強為生過，自無所執，是故汝是破人。</p>
+              <p>內曰：汝是破人(修妬路)。說空人無所執，無所執故非破人，汝執自法破他執，故汝是破人。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Since you refute the doctrines of others, you are a destroyer of dharma.<span class="sutra-tag">sūtra</span></span> You delight in refuting the doctrines of others and force faults upon them, while grasping nothing of your own. Therefore you are a destroyer.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">It is you who are the destroyer.<span class="sutra-tag">sūtra</span></span> One who speaks of emptiness grasps nothing, and grasping nothing is not a destroyer. But you grasp your own doctrine and destroy the graspings of others — and so it is you who are the destroyer.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：破他法故自法成(修妬路)。汝破他法時自法即成。何以故？他法若負，自法勝故，是以我非破人。</p>
+              <p>內曰：不然。成破非一故(修妬路)。成名稱歎功德，破名出其過罪。歎德、出罪不名為一。復次成名有畏(修妬路)。畏名無力。若人自於法畏故，不能成於他法。不畏故好破，是故成破不一。若破他法是即自成法者，汝何故先言說空人但破他法、自無所執？</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Refuting another's doctrine establishes one's own.<span class="sutra-tag">sūtra</span></span> When you refute another's doctrine, your own is thereby established. Why? Because if another's doctrine is defeated, one's own has won — and so I am not a destroyer.</p>
+              <p><span class="spk-in">Insider:</span> Not so. <span class="sutra-line">Because establishing and refuting are not one.<span class="sutra-tag">sūtra</span></span> "Establishing" means praising a thing's merits; "refuting" means bringing out its faults. Praising merits and bringing out faults are not one and the same. Furthermore, <span class="sutra-line">establishing means fear.<span class="sutra-tag">sūtra</span></span> "Fear" means lacking strength. If a person is fearful for his own doctrine, he cannot establish it against another's; and being unafraid, he is glad to refute. So establishing and refuting are not one. And if refuting another's doctrine were the establishing of one's own, why did you say a moment ago that the one who speaks of emptiness merely refutes the doctrines of others and grasps nothing of his own?</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：說他執過自執成(修妬路)。汝何以不自執成法，但破他法？破他法故，即是自成法。</p>
+              <p>內曰：破他法、自法成故，一切不成(修妬路)。破他法故自法成，自法成故一切不成，一切不成故我無所成。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Stating the fault in another's grasping establishes one's own.<span class="sutra-tag">sūtra</span></span> Why do you not establish a doctrine by grasping one yourself, instead of merely refuting the doctrines of others? For refuting another's doctrine just is establishing one's own.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">If refuting another's doctrine establishes one's own, then nothing whatever is established.<span class="sutra-tag">sūtra</span></span> If refuting another's doctrine establishes one's own, and one's own doctrine is thereby established — then nothing at all is established; and since nothing at all is established, I establish nothing.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The reversal turns on a definition of "destroyer" that is worth stating plainly, because it is not the obvious one. A destroyer, on this account, is not someone who argues against things. It is someone who <em>holds a position and attacks the positions that compete with it</em>. On that definition the one who speaks of emptiness cannot be a destroyer — there is no rival doctrine he is clearing ground for — and the Outsider, who has spent ten chapters defending Sāṃkhya and Vaiśeṣika against all comers, obviously is one.</p>
+          <p><span class="zh">成名有畏</span> — <em>establishing means fear</em> — is the strangest line in the chapter and the most psychologically acute. The reasoning: a person who is anxious about his own doctrine cannot make it prevail, and it is precisely because one is <em>un</em>anxious that one is free to go on the attack. So the two activities do not merely differ in content; they come from opposite conditions. Building up is what the insecure do. The remark is worth sitting with by anyone who argues for a living.</p>
+          <p>The last exchange is compressed to the point of obscurity and deserves unpacking. The Outsider's rule is: refuting a doctrine establishes its rival. The Insider accepts the rule and applies it to the whole field. He has refuted every doctrine there is — so by the Outsider's own rule, every doctrine has also been established by the refutation of its rivals; and a field in which everything is established is one in which nothing is, since the doctrines contradict each other. The rule, applied universally, cancels itself. Hence: <span class="zh">我無所成</span>, I establish nothing — which was the charge, now accepted as a description.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>3. Emptiness Is What the World Already Believes</h2>
+        <p>The Outsider changes tack to the objection that has the most force with ordinary readers: whatever the logic, nobody actually lives as though this were true. The answer is the most surprising turn in the treatise.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：不然。世間相違故(修妬路)。若諸法空無相者，世間人盡不信受。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> Not so. <span class="sutra-line">Because it contradicts the world.<span class="sutra-tag">sūtra</span></span> If all things are empty and markless, no one in the world will accept it.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>內曰：是法世間信(修妬路)。是因緣法世間信受。所以者何？因緣生法是即無相。汝謂乳中有酪酥等、童女已姙、諸子食中已有糞，又除梁椽等別更有屋、除縷別有布。或言因中有果、或言因中無果、或言離因緣諸法生。其實空不應言說世事，是人所執誰當信受？我法不爾，與世人同故，一切信受。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">This is the doctrine the world does accept.<span class="sutra-tag">sūtra</span></span> This teaching of dependent arising the world accepts. Why? Because what arises from causes and conditions is precisely what is markless. Whereas <em>you</em> hold that in milk there are already curds and butter; that a young girl is already pregnant; that in children's food there is already excrement; and further that apart from beams and rafters there is some separate house, and apart from thread some separate cloth. Some of you say there is a fruit in the cause, some say there is no fruit in the cause, and some say that things arise apart from causes and conditions altogether. Such a person, himself in reality empty, ought not to be pronouncing on the affairs of the world — who will accept what he grasps? My doctrine is not like this: because it agrees with ordinary people, everyone accepts it.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The reversal here is complete and it is the treatise's most important single claim about itself. The charge was that emptiness is the exotic doctrine that offends common sense. The reply is that common sense is on the <em>other</em> side — <span class="zh">與世人同故，一切信受</span>, because it agrees with ordinary people, everyone accepts it.</p>
+          <p>And the three examples chosen to make the point are deliberately grotesque, because they are what the pre-existence doctrine of <a href="{{ '/sutras/hundred-treatise/part-11/' | relative_url }}">Part 11</a> actually commits a person to. If an effect is already present in its cause, then curds and butter are in the milk you drink; a girl who will one day bear a child is pregnant now; and the food on a child's plate already contains what it will become. No one believes any of this. Nobody looks at a jug of milk and sees butter. The doctrine that presents itself as the sober defense of ordinary reality turns out to require statements no ordinary person would make.</p>
+          <p>The hinge of the reply is the clause in the middle, and it should be read carefully: <span class="zh">因緣生法是即無相</span> — <em>what arises from causes and conditions is precisely what is markless.</em> Emptiness and dependent arising are not two claims, one of which follows from the other. They are the same observation stated twice. Everyone already accepts that pots are made by potters out of clay, that fires need fuel, that children have parents. To accept that is to have accepted that nothing carries its own being independently — which is all emptiness ever meant. This is the identification the <a href="{{ '/sutras/twelve-gate-treatise/part-06/' | relative_url }}"><em>Twelve Gate Treatise</em> makes in its own doctrinal center</a>, and it is the sentence to carry away from this treatise if one carries away only one.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>4. Not Grasping Is Not a Grasp</h2>
+        <p>The Outsider spots what looks like a slip: in saying his doctrine agrees with ordinary people, the Insider has finally claimed something. And then he presses the charge from the other direction — a man with no doctrine at all is not a philosopher but a nihilist.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：汝無所執是法成(修妬路)。汝言無執是即執。又言我法與世人同，是則自執。</p>
+              <p>內曰：無執不名執，如無(修妬路)。我先說因緣生諸法是即無相，是故我無所執。無所執不名為執，譬如言無。是實無，不以言無故便有無。無執亦如是。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Your grasping nothing is itself an established doctrine.<span class="sutra-tag">sūtra</span></span> Your saying that you grasp nothing is itself a grasping. And your saying that your doctrine agrees with ordinary people is a grasping of your own.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">Not grasping is not called grasping — as with "there is none."<span class="sutra-tag">sūtra</span></span> I said above that things arising from causes and conditions are precisely markless, and therefore I grasp nothing. Grasping nothing is not called a grasping — it is like saying "there is none." What is truly absent is not made into an absence by one's saying "there is none." Not grasping is just the same.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：汝說無相法故，是滅法人(修妬路)。若諸法空無相，此執亦無，是則無一切法。無一切法故，是名滅法人。</p>
+              <p>內曰：破滅法人，是名滅法人(修妬路)。我自無法，則無所破。汝謂我滅法而欲破者，是則滅法人。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Since you teach a markless doctrine, you are an annihilator of dharma.<span class="sutra-tag">sūtra</span></span> If all things are empty and markless, then this grasping too is absent, and so there are no things at all. And since there are no things at all, you are called an annihilator of dharma.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">The one who attacks an annihilator of dharma is himself the annihilator.<span class="sutra-tag">sūtra</span></span> I have no doctrine of my own, and so I destroy nothing. It is you who suppose that I annihilate dharma and set out to refute me — and so it is you who are the annihilator.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The trap the Outsider is setting is the oldest one in the book: any denial of all positions is itself a position, so the emptiness theorist is caught the moment he opens his mouth.</p>
+          <p>The reply is not a dodge but a point about what negation does, and it is the same point as the second head in section 1, now stated as a general principle. When there is truly nothing there, saying "there is nothing there" does not manufacture an item called The Absence. The words report a lack; they do not create a thing. And so "I grasp nothing" is not the announcement of a special doctrine — the Doctrine of Not Grasping — held with the same grip as the doctrines it declines. It is the report of an empty hand.</p>
+          <p>Whether that reply fully succeeds is a question philosophers have argued about for eighteen centuries, and readers are entitled to remain unsatisfied. What can be said is that the treatise is at least consistent: it has claimed no theses, its arguments have all been conditionals resting on premises supplied by others, and the conclusion it reaches about itself in section 1 — that the refutation is as empty as everything else — is one it accepts without flinching rather than one it is caught out by.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>5. The Empty Room, and the Mirage</h2>
+        <p>Two more attempts to catch the Insider in an assertion, and then the objection that finally draws out what the whole treatise thinks it has been doing.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：應有法，相待有故(修妬路)。若有長必有短，若有高必有下，有空必有實。</p>
+              <p>內曰：何有相待？一破故(修妬路)。若無一，則無相待。若少有不空，應有相待。若無不空則無空，云何相待？</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">There must be things, because they exist in mutual dependence.<span class="sutra-tag">sūtra</span></span> If there is long there must be short; if there is high there must be low; and if there is empty there must be full.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">How should there be mutual dependence, since oneness has been refuted?<span class="sutra-tag">sūtra</span></span> If there is no one, there is no mutual dependence. If there were even a little that is not empty, there would be mutual dependence. But if there is nothing that is not empty, then there is no emptiness either — so how should there be mutual dependence?</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：汝無成是成(修妬路)。如言室空無馬則有無馬。如是汝雖言諸法空無相，而能生種種心故，應有無，是則無成是成。</p>
+              <p>內曰：不然。有無一切無故(修妬路)。我實相中種種法門說有無皆空。何以故？若無有亦無無，是故有無一切無。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Your establishing nothing is itself an establishing.<span class="sutra-tag">sūtra</span></span> It is as when one says a room is empty of horses: then there is the absence-of-horses. Just so, though you say all things are empty and markless, since this gives rise to all sorts of thoughts, there must be an absence — and so your establishing nothing is itself an establishing.</p>
+              <p><span class="spk-in">Insider:</span> Not so. <span class="sutra-line">Because existence and non-existence are alike entirely absent.<span class="sutra-tag">sūtra</span></span> In my account of the true character of things, through many gateways of teaching, both existence and non-existence are said to be empty. Why? Because if there is no existence, there is no non-existence either — and so existence and non-existence are alike entirely absent.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：破不然，自空故(修妬路)。諸法自性空，無有作者。以無作故，不應有破。如愚癡人欲破虛空，徒自疲勞。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Your refuting will not do, since things are empty of themselves.<span class="sutra-tag">sūtra</span></span> Things are empty of any nature of their own, and there is no maker of them; and since nothing is made, there should be no refuting either. It is like a foolish man who sets out to demolish space and merely tires himself for nothing.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>內曰：雖自性空，取相故縛(修妬路)。一切法雖自性空，但為邪想分別故縛。為破是顛倒故言破，實無所破。譬如愚人見熱時焰妄生水想，逐之疲勞。智者告言此非水也。為斷彼想，不為破水。如是諸法性空，眾生取相故著。為破是顛倒故，言破實無所破。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">Though they are empty of a nature of their own, one is bound by taking hold of marks.<span class="sutra-tag">sūtra</span></span> Though all things are empty of any nature of their own, one is bound by wrong imagining and discrimination. It is in order to break that inversion that refutation is spoken of; and in truth nothing is refuted. It is like a foolish man who sees the shimmering of heat and falsely forms the notion of water, and wearies himself running after it. A wise man tells him: this is not water. That is said in order to cut off the man's notion, not in order to destroy any water. Just so, things are empty of nature, and beings cling by taking hold of marks. It is in order to break that inversion that refutation is spoken of; and in truth nothing is refuted.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The mirage is the answer to the best objection in the chapter and it is the passage that explains the whole book, so it is worth being slow about.</p>
+          <p>The objection is sharp: if things were already empty before you started, your ten chapters of argument have accomplished nothing — you have been swinging at space. And the reply concedes the premise entirely. Nothing was refuted. <span class="zh">實無所破</span> is said twice, at the start and the end of the answer, and it is meant literally.</p>
+          <p>What the argument was for is stated in the image. A thirsty man on hot ground sees the shimmer and takes it for water, and runs, and exhausts himself. A wise man says: that is not water. Now — what did the wise man destroy? There was never any water; nothing was there to be removed. He did not change the desert. He changed nothing at all except a notion in the man's head, and the running stopped.</p>
+          <p>That is the treatise's account of itself. The pots and selves and atoms it has spent ten chapters dismantling were never there to dismantle. What was there was <span class="zh">取相故著</span> — the clinging that comes from taking hold of marks — and that is a fact about the mind of the one who clings, not about the world. Hence the exact phrasing: <em>that is said in order to cut off the man's notion, not in order to destroy any water.</em> Every argument in this book has been addressed to a notion.</p>
+          <p>Notice also how much this changes the tone of everything that has come before. A reader who has followed nine chapters of demolition may have formed a picture of a debater enjoying himself. The mirage says something else: that the whole exercise has been aimed at a man running across hot ground after nothing, and that the point of the shouting was to make him stop.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>6. The Fourth Position</h2>
+        <p>A last procedural objection, and a very good one: this "neither existent nor non-existent" is not merely wrong but <em>unsayable</em>, and no recognized school has any such thing. The reply searches the opponent's own libraries.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：無說法，大經無故(修妬路)。汝破有、破無、破有無，今墮非有非無。是非有非無不可說。何以故？有無相不可得故，是名無說法。是無說法，衛世師經、僧佉經、尼乾法等大經中皆無，故不可信。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">An inexpressible doctrine — because it is in none of the great texts.<span class="sutra-tag">sūtra</span></span> You refute existence, you refute non-existence, and you refute both existence and non-existence — and so you fall now into "neither existent nor non-existent." And this "neither existent nor non-existent" cannot be stated. Why? Because the marks of existence and non-existence are not to be got; and this is what is called an inexpressible doctrine. Such an inexpressible doctrine is found nowhere in the great texts — not in the Vaiśeṣika text, nor the Sāṃkhya text, nor the Nirgrantha teaching — and so it is not to be believed.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>內曰：有第四(修妬路)。汝大經中亦有無說法。如衛世師經，聲不名大、不名小。僧佉經，泥團非瓶、非非瓶。尼乾法，光非明、非闇。如是諸經，有第四無說法，汝何言無？</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">There is a fourth.<span class="sutra-tag">sūtra</span></span> Your own great texts have an inexpressible doctrine too. In the Vaiśeṣika text, sound is called neither large nor small. In the Sāṃkhya text, a lump of clay is neither a pot nor not a pot. In the Nirgrantha teaching, light is neither bright nor dark. In all these texts there is a fourth, inexpressible position — so how can you say there is none?</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This is the treatise's favorite manoeuvre performed one last time and at its most elegant. The Outsider says: no serious school has a category for what you are describing. The Insider replies by naming three schools and citing a case from each.</p>
+          <p>And the citations are precise rather than rhetorical. Vaiśeṣika classes sound as a quality rather than a substance, so magnitude does not apply to it — sound is neither large nor small, and no Vaiśeṣika finds that troubling. Sāṃkhya, holding that the effect pre-exists, must say the lump of clay is neither the pot nor not the pot, since the pot is in it unmanifest. The Nirgranthas have their own case in light that is neither brightness nor darkness. Each school, in the ordinary course of its own business, has needed a fourth option beyond <em>is</em>, <em>is not</em>, and <em>both</em>. The Outsider was objecting to a logical form he uses himself.</p>
+          <p>Readers of the site's other Madhyamaka pages will recognize the four-cornered structure — existent, non-existent, both, neither — as the <em>catuṣkoṭi</em> that organizes so much of Nāgārjuna's argument. It is worth noticing that here it is not defended as a Buddhist innovation. It is shown to be already in general use, which is a more disarming defense than any argument for it would have been.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>7. The Two Truths</h2>
+        <p>The last objection is the practical one, and it is fair: if everything is empty and the truth is unsayable, what has this teacher been doing all along, telling people what is good and what is evil? The answer is the doctrine the whole treatise has been working toward.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：若空不應有說(修妬路)。若都空，以無說法為是，今者何以說善惡法教化耶？內曰：隨俗語故無過(修妬路)。諸佛說法，常依俗諦、第一義諦，是二皆實，非妄語也。如佛雖知諸法無相，然告阿難入舍衛城乞食。若除土木等，城不可得。而隨俗語故，不墮妄語。我亦隨佛學，故無過。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">If all is empty, there should be no teaching.<span class="sutra-tag">sūtra</span></span> If everything is empty, and the inexpressible doctrine is the right one, then why do you now teach and instruct in terms of good and evil?</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">There is no fault, since one speaks in accordance with convention.<span class="sutra-tag">sūtra</span></span> The buddhas, in teaching the Dharma, always rely upon conventional truth and upon ultimate truth; and these two are both real and are not false speech. So although the Buddha knew that things are markless, he still told Ānanda to go into the city of Śrāvastī for alms. Yet if one sets aside the earth and the timber and the rest, no city is to be found. Because he spoke in accordance with convention, he did not fall into false speech. And I too follow the Buddha in learning — and so there is no fault.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：俗諦無，不實故(修妬路)。俗諦若實，則入第一義諦。若不實，何以言諦？內曰：不然。相待故，如大小(修妬路)。俗諦於世人為實，於聖人為不實。譬如一柰，於棗為大、於瓜為小，此二皆實。若於棗言小、於瓜言大者，是則妄語。如是隨俗語故無過。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Conventional truth is nothing, since it is not real.<span class="sutra-tag">sūtra</span></span> If conventional truth were real, it would be included in ultimate truth; and if it is not real, why call it a truth at all?</p>
+              <p><span class="spk-in">Insider:</span> Not so. <span class="sutra-line">Because it is a matter of relation, as with large and small.<span class="sutra-tag">sūtra</span></span> Conventional truth is real for ordinary people and unreal for the noble ones. It is like a single crab-apple, which is large beside a jujube and small beside a melon: and both of these are true. But if one were to call it small beside the jujube and large beside the melon, <em>that</em> would be false speech. Just so, because one speaks in accordance with convention, there is no fault.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The city of Śrāvastī is the perfect example and it is chosen with care. Take away the earth, the timber, the walls and the streets, and there is no further thing called Śrāvastī left over — the city is exactly as empty as the pot in <a href="{{ '/sutras/hundred-treatise/part-07/' | relative_url }}">Part 7</a> and the cart in <a href="{{ '/sutras/hundred-treatise/part-08/' | relative_url }}">Part 8</a>. And the Buddha, who knew this perfectly well, told Ānanda to go there for his meal. He did not say "proceed toward the conventional designation of Śrāvastī." He named the city, and Ānanda went, and was fed. <span class="zh">是二皆實</span> — both truths are real, and neither is a permitted falsehood.</p>
+          <p>The crab-apple is the finest image in the chapter and it settles the Outsider's dilemma exactly. He has argued that a truth must be either real — and then it is just the ultimate — or unreal, and then it is no truth. The fruit shows the false step. Is the crab-apple large or small? Both, truly: large beside a jujube, small beside a melon, and neither answer is a concession or an approximation. What <em>would</em> be false is to reverse them — to call it small beside the jujube. Relational truths are not degraded truths. They are exact, and they can be got wrong, which is the proof that they can be got right.</p>
+          <p>So conventional truth is not a useful fiction and not a ladder to be kicked away. It is what is true at the level at which ordinary people live and speak, and the noble ones do not stop speaking it when they see further. This is the same doctrine set out at length in the <a href="{{ '/sutras/twelve-gate-treatise/part-06/' | relative_url }}"><em>Twelve Gate Treatise</em>'s sixth part</a> — that without conventional truth the ultimate cannot be spoken of at all — and it is what makes the whole of Chapter One of this treatise, with its precepts and its giving and its ordinary morality, something other than a discarded scaffold.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>8. What Is Gained</h2>
+        <p>The Outsider's last words in the treatise are a request for the point of it all. He gets an answer, and then asks one further question — and the reply to that is the final sentence of the book, which quietly withdraws what has just been given.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：知是過，得何等利(修妬路)。如初捨罪福乃至破空，如是諸法皆見有過，得何等利？內曰：如是捨我，名得解脫(修妬路)。如是三種破諸法，初捨罪福中破神，後破一切法，是名無我無我所。又於諸法不受不著，聞有不喜、聞無不憂，是名解脫。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">What benefit is gained by knowing these faults?<span class="sutra-tag">sūtra</span></span> From the first chapter, on discarding sin and merit, down to the refutation of emptiness, faults have been found in all these things. What benefit is gained?</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">Discarding the self in this way is called attaining liberation.<span class="sutra-tag">sūtra</span></span> In three ways things have been refuted: first, in the discarding of sin and merit; then in the refuting of the self; and afterward in the refuting of all things. This is what is called no self and nothing belonging to a self. And further: toward all things one neither takes up nor clings; hearing of existence one is not delighted, and hearing of non-existence one is not distressed. This is what is called liberation.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：何以言名得解脫，不實得解脫耶？內曰：畢竟清淨故。破神故，無人；破涅槃故，無解脫。云何言人得解脫？於俗諦故，說名解脫。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> Why do you say it is <em>called</em> attaining liberation? Is liberation not really attained?</p>
+              <p><span class="spk-in">Insider:</span> Because it is ultimately pure. Since the self has been refuted, there is no person; and since nirvāṇa has been refuted, there is no liberation. How then should one say that a person attains liberation? It is at the level of conventional truth that one speaks of liberation.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The description of liberation is the plainest thing in the treatise and it is worth reading as a description of a person rather than a doctrine: <span class="zh">聞有不喜、聞無不憂</span> — hearing of existence, not delighted; hearing of non-existence, not distressed. Not a state of trance, not a metaphysical attainment. An evenness. The two words name exactly the two errors the book has been dismantling since Chapter One, and the mark of being free of them is not that one has the right view about them but that one no longer flinches either way.</p>
+          <p>And then the last exchange, which is the best possible ending and would be a strange one in almost any other book. The Outsider hears the word "called" and pounces on it. And the answer does not soften it. <em>Since the self has been refuted, there is no person; and since nirvāṇa has been refuted, there is no liberation. How then should one say that a person attains liberation?</em></p>
+          <p>Every element of the sentence has been earned earlier in the treatise. The person went in Chapter Two. Nirvāṇa went in Chapter Nine, along with the one who was to attain it. So the concluding claim of the book is dismantled by the book, one page after being offered — and this is not a joke at the reader's expense. It is the last application of the two truths just established. There <em>is</em> liberation; people are freed; one may say so and be speaking truly, at the level at which we speak. What there is not is a self who ends up owning it.</p>
+          <p>It is a fitting close to a text that has spent ten chapters refusing to hold anything. The very last thing the treatise does is decline to keep its own conclusion — <span class="zh">於俗諦故，說名解脫</span>, at the level of conventional truth one speaks of liberation — which is also, exactly, what Sengzhao promised in the preface sixteen chapters earlier, before the argument had begun: <em>it speaks, yet settles on nothing; it refutes, yet grasps at nothing.</em></p>
+        </div>
+        <div class="ending-mark">· · ·</div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>The Treatise Complete</h2>
+        <p>This closes Part Fourteen, and with it the <em>Hundred Treatise</em> entire: the refutation that falls under its own conclusion and is not embarrassed to; the charge of destroying dharma handed back to the man who holds a doctrine; the milk that would contain butter and the girl already pregnant, offered as what common sense actually refuses; not-grasping shown to be an empty hand rather than a tighter grip; the mirage, and a wise man who destroys no water; a fourth position found in all three of the opponent's own libraries; the city of Śrāvastī that cannot be found apart from its timber and that the Buddha named anyway; the crab-apple that is truly large and truly small; and a liberation that is real at the level where anyone speaks, with nobody left to have it.</p>
+        <p>What survives of Āryadeva's hundred verses is these ten chapters, roughly half the original, as Sengzhao reported in <a href="{{ '/sutras/hundred-treatise/part-01/' | relative_url }}">Part 1</a> — the other ten judged of no benefit to this land and never carried over, along with four sheets in Chapter Three that could not be brought across at all. With the <a href="{{ '/sutras/mulamadhyamakakarika/' | relative_url }}"><em>Mūlamadhyamakakārikā</em></a> and the <a href="{{ '/sutras/twelve-gate-treatise/' | relative_url }}"><em>Twelve Gate Treatise</em></a>, this is the third of the three treatises on which the Sanlun school was founded, and all three now stand complete on this site.</p>
+      </section>
+
+      <nav class="fascicle-pagenav" aria-label="Part navigation">
+        <a class="pn-prev" href="{{ '/sutras/hundred-treatise/part-13/' | relative_url }}"><span class="pn-label">← Previous</span><span class="pn-title">Space, Time, Direction, Atoms, and Nirvāṇa</span></a>
+        <span class="pn-index"><a href="{{ '/sutras/hundred-treatise/' | relative_url }}">↑ All parts · Hundred Treatise</a></span>
+        <span class="pn-next"></span>
+      </nav>
+
+    </div>
+  </section>
+</article>
