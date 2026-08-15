@@ -1,0 +1,204 @@
+---
+layout: default
+title: Twelve Gate Treatise
+permalink: /sutras/twelve-gate-treatise/
+excerpt: A plain-English study entrance to the Twelve Gate Treatise (十二門論), the short companion to Nāgārjuna's Mūlamadhyamakakārikā, in Kumārajīva's translation — twelve ways into emptiness, each opening onto the next.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .msg{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .msg *{box-sizing:border-box;}
+  .msg-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .msg [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .msg [data-rv].in{opacity:1;transform:none;}
+  .msg-hero{background:linear-gradient(155deg,#2f6d5e 0%,#254f45 45%,#151c20 100%);color:#fff;overflow:hidden;position:relative;}
+  .msg-hero::after{content:"十二門論";position:absolute;right:-18px;bottom:-36px;font-family:"PingFang TC","Microsoft JhengHei",serif;font-size:126px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .msg-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .msg-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .msg-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .msg-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .msg h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:16ch;}
+  .msg-hero p{max-width:720px;color:#edf4ef;font-size:19px;line-height:1.7;}
+  .msg-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .msg-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .msg-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .msg-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .msg-intro{background:var(--cream);padding:64px 0 42px;}
+  .msg-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.msg-grid{grid-template-columns:1.15fr .85fr;}}
+  .msg-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .msg-panel h2,.msg-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .msg-panel p,.msg-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .msg-panel ul{padding-left:20px;margin:0;}
+  .msg-stats{display:grid;gap:12px;margin-top:18px;}
+  .msg-stat{border-top:1px solid var(--line);padding-top:14px;}
+  .msg-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .msg-section{padding:70px 0;background:#fff;}
+  .msg-section-head{max-width:760px;margin-bottom:28px;}
+  .msg-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:12px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(3,minmax(0,1fr));}}
+  .vol-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:16px;text-decoration:none;color:inherit;min-height:142px;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card.live{background:linear-gradient(180deg,#fff,#f5fbf8);border-color:#b9d2c8;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#d8c6a6;text-decoration:none;}
+  .vol-card.live:hover{border-color:#7ea99a;}
+  .vol-num{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:var(--terra);}
+  .vol-card.live .vol-num{color:var(--jade);}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin:8px 0 6px;line-height:1.2;}
+  .vol-note{font-size:14px;color:var(--muted);line-height:1.45;margin-top:auto;}
+  .msg-featured{display:grid;grid-template-columns:1fr;gap:18px;margin-bottom:28px;}
+  @media(min-width:760px){.msg-featured{grid-template-columns:repeat(3,1fr);}}
+  .feature{border-radius:8px;background:#f7f1e6;border:1px solid var(--line);padding:22px;}
+  .feature .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra-deep);font-weight:800;}
+  .feature h3{font-family:'Playfair Display',Georgia,serif;font-size:24px;margin:8px 0 8px;color:var(--ink);}
+  .feature p{font-size:15.5px;line-height:1.6;color:var(--muted);margin:0;}
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  @media(prefers-reduced-motion:reduce){.js .msg [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="msg">
+  <section class="msg-hero">
+    <div class="msg-hero-in">
+      <nav class="msg-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Twelve Gate Treatise</nav>
+      <div class="msg-eyebrow" data-rv>Nāgārjuna · Kumārajīva · 十二門論</div>
+      <h1 data-rv style="transition-delay:.06s">Twelve Ways In, and Each Opens on the Next.</h1>
+      <p data-rv style="transition-delay:.12s">The <em>Twelve Gate Treatise</em> is the short companion to Nāgārjuna's <em>Mūlamadhyamakakārikā</em> — the same method, the same conclusions, compressed into a single fascicle and organized as twelve successive doors. "Gate," Sengrui writes in his preface, "is the name for what opens a way through without obstruction." Causes fail, so conditions are pressed; conditions fail, so the marks of a conditioned thing are pressed; and by the eleventh and twelfth gates the pressing has reached time itself and arising itself. This page is the entrance for reading it part by part.</p>
+      <div class="msg-actions" data-rv style="transition-delay:.18s">
+        <a class="msg-btn primary" href="#parts">Browse 8 parts →</a>
+        <a class="msg-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-intro">
+    <div class="msg-wrap msg-grid">
+      <div class="msg-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>The treatise is short — one fascicle, twenty-four verses of its own with Nāgārjuna's question-and-answer prose beneath them — but its twelve gates are wildly uneven in length. Gate Two alone runs to a fifth of the whole; Gate Nine is a single paragraph. We have split the text into eight parts by the shape of the argument rather than by counting gates, so that each page carries one sustained line of reasoning. Gate Two is the one place we divide a gate in two, and we divide it at the seam its own title announces: whether the fruit exists in the cause, or does not.</p>
+        <p>Because Nāgārjuna supplies his own commentary beneath each verse, no second voice is needed here, and none has been brought in. Where the treatise quotes the <em>Mūlamadhyamakakārikā</em> by name — twice — we use the same English already standing on this site's pages for those verses.</p>
+      </div>
+      <div class="msg-panel" data-rv style="transition-delay:.08s">
+        <h2>What each part page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation.</li>
+          <li>Reading notes on what each argument is actually claiming, and against whom.</li>
+          <li>Cross-links to the <em>Mūlamadhyamakakārikā</em> wherever the two treatises share a verse or an argument.</li>
+        </ul>
+        <div class="msg-stats">
+          <div class="msg-stat"><b>8</b> of 8 parts — complete</div>
+          <div class="msg-stat"><b>12</b> gates, plus Sengrui's preface and outline</div>
+          <div class="msg-stat"><b>24</b> verses, each with Nāgārjuna's own prose</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-section" id="parts">
+    <div class="msg-wrap">
+      <div class="msg-section-head" data-rv>
+        <h2>Read by Part</h2>
+        <p>The treatise's own argument, gate by gate: from the first question about what a condition can give, through the marks of a conditioned thing and the two truths, to the last two gates on time and on arising itself.</p>
+      </div>
+
+      <div class="msg-featured">
+        <div class="feature" data-rv>
+          <span class="tag">Start here</span>
+          <h3>The Preface and the First Gate</h3>
+          <p>Sengrui's preface, written at Chang'an while the translation was fresh; the treatise's own outline of its twelve gates; and Gate One, on why the Mahāyāna's deep meaning is emptiness and why nothing arisen from conditions has a nature of its own.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.06s">
+          <span class="tag">The turning point</span>
+          <h3>The Two Truths</h3>
+          <p>In Gate Eight an opponent charges that emptiness abolishes the Four Noble Truths and the Three Jewels. The answer — the two truths, and the identification of emptiness with dependent arising — turns the objection completely around.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.12s">
+          <span class="tag">Most accessible</span>
+          <h3>The Refutation of Īśvara</h3>
+          <p>Gate Ten asks who makes suffering, and answers with the naked ascetic Kāśyapa's four questions, the Buddha's four silences, and fourteen arguments against a sovereign creator god.</p>
+        </div>
+      </div>
+
+      <div class="vol-grid">
+        <a class="vol-card live" id="part-1" href="{{ '/sutras/twelve-gate-treatise/part-01/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 1 · 序・品目・觀因緣門</span>
+          <span class="vol-title">The Preface, the Twelve Gates, and the Gate of Conditions</span>
+          <span class="vol-note">Sengrui's preface, the outline of all twelve gates, and Gate One: what the Mahāyāna is, and why what arises from conditions has no nature of its own. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-2" href="{{ '/sutras/twelve-gate-treatise/part-02/' | relative_url }}" data-rv style="transition-delay:.05s">
+          <span class="vol-num">Part 2 · 觀有果無果門（上）</span>
+          <span class="vol-title">Is the Fruit Already in the Cause?</span>
+          <span class="vol-note">The doctrine that an effect pre-exists in its cause, dismantled — with the eight reasons a real thing goes unseen, and why a pot in clay fits none of them. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-3" href="{{ '/sutras/twelve-gate-treatise/part-03/' | relative_url }}" data-rv style="transition-delay:.1s">
+          <span class="vol-num">Part 3 · 觀有果無果門（下）・觀緣門</span>
+          <span class="vol-title">Nor Is It Absent, and the Four Conditions</span>
+          <span class="vol-note">The opposite doctrine refuted, the appeal to sesame and sand answered, and the four conditions of Abhidharma searched for the fruit they do not hold. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-4" href="{{ '/sutras/twelve-gate-treatise/part-04/' | relative_url }}" data-rv style="transition-delay:.15s">
+          <span class="vol-num">Part 4 · 觀相門</span>
+          <span class="vol-title">The Three Marks, and the Lamp</span>
+          <span class="vol-note">Arising, abiding, and ceasing put to the question; the seven co-arising dharmas; the lamp that lights itself; and whether marklessness can be nirvāṇa's mark. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-5" href="{{ '/sutras/twelve-gate-treatise/part-05/' | relative_url }}" data-rv style="transition-delay:.2s">
+          <span class="vol-num">Part 5 · 觀有相無相門・觀一異門・觀有無門</span>
+          <span class="vol-title">Mark and Marked, One and Different, Existent and Non-existent</span>
+          <span class="vol-note">A mark with nothing to mark, a relation that is neither sameness nor difference, and a thing that arises together with its own impermanence. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-6" href="{{ '/sutras/twelve-gate-treatise/part-06/' | relative_url }}" data-rv style="transition-delay:.25s">
+          <span class="vol-num">Part 6 · 觀性門・觀因果門</span>
+          <span class="vol-title">No Nature, the Two Truths, and Cause and Fruit</span>
+          <span class="vol-note">The treatise's doctrinal center: the charge that emptiness destroys Buddhism, and the two truths that answer it — and turn it around. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-7" href="{{ '/sutras/twelve-gate-treatise/part-07/' | relative_url }}" data-rv style="transition-delay:.3s">
+          <span class="vol-num">Part 7 · 觀作者門</span>
+          <span class="vol-title">Who Makes Suffering?</span>
+          <span class="vol-note">Suffering unmade by itself, by another, by both, or by nothing; the Buddha's four silences; and fourteen arguments against Īśvara, the sovereign creator. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-8" href="{{ '/sutras/twelve-gate-treatise/part-08/' | relative_url }}" data-rv style="transition-delay:.35s">
+          <span class="vol-num">Part 8 · 觀三時門・觀生門</span>
+          <span class="vol-title">The Three Times, and Arising Itself</span>
+          <span class="vol-note">A cause that can be neither earlier, nor later, nor simultaneous; and arising sought in the arisen, the unarisen, and the arising-now. Complete.</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-section" id="notes" style="background:var(--cream);padding-top:64px;">
+    <div class="msg-wrap">
+      <div class="msg-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>The Chinese source is Kumārajīva's translation, made at Chang'an around 409 CE — the same workshop and nearly the same years that produced this site's <a href="{{ '/sutras/mulamadhyamakakarika/' | relative_url }}"><em>Mūlamadhyamakakārikā</em></a>. Terminology is matched to that translation throughout, so that a reader moving between the two treatises meets the same English for the same Chinese. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b>自性 — a nature of its own</b><span>Svabhāva. What is unmade and does not depend on another — which is why nothing produced by conditions can have one. Matches the <em>Mūlamadhyamakakārikā</em> pages.</span></div>
+        <div class="term"><b>有為・無為 — conditioned, unconditioned</b><span>The treatise's recurring closing cadence: the conditioned is empty, so the unconditioned is empty, and how much more the self.</span></div>
+        <div class="term"><b>相・可相 — mark and what is marked</b><span>The pair examined in Gates Four through Six. A mark is what one points to in order to recognize a thing.</span></div>
+        <div class="term"><b>四緣 — the four conditions</b><span>Causal, antecedent, object, and dominant — given in the same order and with the same definitions as in the root treatise's opening chapter.</span></div>
+        <div class="term"><b>世諦・第一義諦 — conventional and ultimate truth</b><span>Named in Gate Eight, the treatise's doctrinal center. Not two worlds, but two ways of speaking truly, each needed to reach the other.</span></div>
+        <div class="term"><b>自在天 — Īśvara, the Sovereign Lord</b><span>The creator god refuted in Gate Ten. His name means "the one in his own power" — the same word the treatise uses when it says conditions are <em>not</em> in their own power.</span></div>
+      </div>
+      <div class="msg-panel" data-rv style="margin-top:18px;">
+        <h2>On authorship</h2>
+        <p>The treatise comes down to us as Nāgārjuna's, and that is how the Chinese tradition has always read it: with the <em>Mūlamadhyamakakārikā</em> and Āryadeva's <em>Śataka</em>, it is one of the three treatises on which the Sanlun school was founded. Modern scholarship has raised a genuine question about this. The text survives only in Chinese — no Sanskrit or Tibetan witness exists — and much of its material is drawn openly from the <em>Mūlamadhyamakakārikā</em> and the <em>Śūnyatāsaptati</em>, which has led some scholars to read it as a later compilation from Nāgārjuna's school rather than his own composition. We keep the traditional attribution, because it is the frame in which the treatise has been read and taught for sixteen centuries, and we note the question rather than settle it.</p>
+        <p>The Sanskrit title sometimes given, <em>Dvādaśamukha-śāstra</em>, is a modern back-formation from the Chinese rather than an attested original, which is why this collection is titled in English rather than in Sanskrit.</p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
