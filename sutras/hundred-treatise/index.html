@@ -1,0 +1,245 @@
+---
+layout: default
+title: Hundred Treatise
+permalink: /sutras/hundred-treatise/
+excerpt: A plain-English study entrance to the Hundred Treatise (百論), Āryadeva's debate manual and the third of the three treatises of the Sanlun school, in Kumārajīva's translation with Vasu's commentary — ten chapters in which an outsider states his case and is answered on his own ground.
+---
+
+<script>document.documentElement.classList.add('js');</script>
+
+<style>
+  .msg{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .msg *{box-sizing:border-box;}
+  .msg-wrap{max-width:1080px;margin:0 auto;padding:0 26px;}
+  .js .msg [data-rv]{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.22,.61,.36,1),transform .75s cubic-bezier(.22,.61,.36,1);}
+  .js .msg [data-rv].in{opacity:1;transform:none;}
+  .msg-hero{background:linear-gradient(155deg,#8c2f12 0%,#5e2410 45%,#1c1512 100%);color:#fff;overflow:hidden;position:relative;}
+  .msg-hero::after{content:"百論";position:absolute;right:6px;bottom:-30px;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;font-size:150px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.06em;white-space:nowrap;}
+  .msg-hero-in{position:relative;z-index:1;padding:78px 26px 84px;max-width:1080px;margin:0 auto;}
+  .msg-bread{font-size:13px;letter-spacing:.04em;margin-bottom:28px;color:rgba(255,255,255,.72);}
+  .msg-bread a{color:#f0c96d;text-decoration:none;border-bottom:1px solid rgba(240,201,109,.45);}
+  .msg-eyebrow{font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:#f0c96d;font-weight:700;}
+  .msg h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(40px,6.4vw,66px);line-height:1.06;color:#fff;margin:14px 0 18px;max-width:16ch;}
+  .msg-hero p{max-width:720px;color:#f6ece4;font-size:19px;line-height:1.7;}
+  .msg-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .msg-btn{display:inline-flex;align-items:center;gap:8px;border-radius:4px;padding:13px 20px;font-weight:700;text-decoration:none;border:1px solid rgba(255,255,255,.28);}
+  .msg-btn.primary{background:#f0c96d;color:#251f1a;border-color:#f0c96d;}
+  .msg-btn.secondary{color:#fff;background:rgba(255,255,255,.08);}
+  .msg-intro{background:var(--cream);padding:64px 0 42px;}
+  .msg-grid{display:grid;grid-template-columns:1fr;gap:20px;}
+  @media(min-width:780px){.msg-grid{grid-template-columns:1.15fr .85fr;}}
+  .msg-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;}
+  .msg-panel h2,.msg-section h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(30px,4vw,42px);line-height:1.12;color:var(--ink);margin:0 0 14px;}
+  .msg-panel p,.msg-panel li{color:var(--muted);font-size:16.5px;line-height:1.65;}
+  .msg-panel ul{padding-left:20px;margin:0;}
+  .msg-stats{display:grid;gap:12px;margin-top:18px;}
+  .msg-stat{border-top:1px solid var(--line);padding-top:14px;color:var(--muted);font-size:16px;}
+  .msg-stat b{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:var(--terra);margin-right:6px;}
+  .msg-section{padding:70px 0;background:#fff;}
+  .msg-section-head{max-width:760px;margin-bottom:28px;}
+  .msg-section-head p{color:var(--muted);font-size:17px;line-height:1.65;}
+  .vol-grid{display:grid;grid-template-columns:1fr;gap:12px;}
+  @media(min-width:640px){.vol-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  @media(min-width:980px){.vol-grid{grid-template-columns:repeat(3,minmax(0,1fr));}}
+  .vol-card{border:1px solid var(--line);border-radius:8px;background:linear-gradient(180deg,#fff,#fdf9f1);padding:16px;text-decoration:none;color:inherit;min-height:150px;display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;}
+  .vol-card.live{background:linear-gradient(180deg,#fff,#f5fbf8);border-color:#b9d2c8;}
+  .vol-card:hover{transform:translateY(-3px);box-shadow:0 16px 30px -24px rgba(80,48,20,.55);border-color:#d8c6a6;text-decoration:none;}
+  .vol-card.live:hover{border-color:#7ea99a;}
+  .vol-num{font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--jade);}
+  .vol-num .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;letter-spacing:0;text-transform:none;}
+  .vol-title{font-family:'Playfair Display',Georgia,serif;font-size:20px;color:var(--ink);margin:8px 0 6px;line-height:1.2;}
+  .vol-note{font-size:14px;color:var(--muted);line-height:1.45;margin-top:auto;}
+  .msg-featured{display:grid;grid-template-columns:1fr;gap:18px;margin-bottom:28px;}
+  @media(min-width:760px){.msg-featured{grid-template-columns:repeat(3,1fr);}}
+  .feature{border-radius:8px;background:#f7f1e6;border:1px solid var(--line);padding:22px;}
+  .feature .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra-deep);font-weight:800;}
+  .feature h3{font-family:'Playfair Display',Georgia,serif;font-size:24px;margin:8px 0 8px;color:var(--ink);}
+  .feature p{font-size:15.5px;line-height:1.6;color:var(--muted);margin:0;}
+  #notes{padding-top:24px;}
+  .term-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px;}
+  @media(min-width:700px){.term-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+  .term{border:1px solid var(--line);border-radius:8px;padding:16px;background:#fffdf8;}
+  .term b{display:block;color:var(--ink);margin-bottom:5px;}
+  .term span{font-size:14.5px;color:var(--muted);line-height:1.55;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+  @media(prefers-reduced-motion:reduce){.js .msg [data-rv]{opacity:1;transform:none;}}
+</style>
+
+<div class="msg">
+  <section class="msg-hero">
+    <div class="msg-hero-in">
+      <nav class="msg-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › Hundred Treatise</nav>
+      <div class="msg-eyebrow" data-rv>Āryadeva · Vasu · Kumārajīva · 百論</div>
+      <h1 data-rv style="transition-delay:.06s">A Book Written to Be Argued With.</h1>
+      <p data-rv style="transition-delay:.12s">The <em>Hundred Treatise</em> is not a teacher explaining his thought to a pupil. It is a debate manual. On one side stands <span class="zh">外</span>, the outsider — a Sāṃkhya philosopher, a Vaiśeṣika, a Jain ascetic — who states his case fully, in his own vocabulary, and is quoted without distortion. On the other stands <span class="zh">內</span>, the insider, who almost never asserts anything, and instead lets each position collide with its own premises. Ten chapters, roughly a hundred and ninety exchanges, and by the end the self, the pot, the senses, causation, space, time and nirvāṇa have all been let go of — including, in the last chapter, the argument that let them go.</p>
+      <div class="msg-actions" data-rv style="transition-delay:.18s">
+        <a class="msg-btn primary" href="#parts">Browse 14 parts →</a>
+        <a class="msg-btn secondary" href="#notes">Translation notes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-intro">
+    <div class="msg-wrap msg-grid">
+      <div class="msg-panel" data-rv>
+        <h2>How to read this collection</h2>
+        <p>The treatise runs to two fascicles and about twenty thousand characters of Chinese, organized in ten chapters of very uneven length. We have split it into fourteen parts by the shape of the argument rather than by counting chapters: seven chapters fit one page each, while the first two — on discarding merit, and on refuting the self — are long enough to need three pages apiece.</p>
+        <p>Two features of the text govern how these pages are laid out, and both are explained in full on <a href="{{ '/sutras/hundred-treatise/part-01/' | relative_url }}">Part 1</a>. Āryadeva's root lines do not appear as verses — Kumārajīva rendered them as terse prose aphorisms inside Vasu's commentary, each closed by the marker <span class="zh">(修妬路)</span> — so the root text is marked inline rather than set in verse blocks. And the speakers are not "question" and "answer" but <span class="zh">外</span> and <span class="zh">內</span>, the outsider and the insider, which is why they appear here as <strong>Outsider</strong> and <strong>Insider</strong> throughout.</p>
+      </div>
+      <div class="msg-panel" data-rv style="transition-delay:.08s">
+        <h2>What each part page includes</h2>
+        <ul>
+          <li>The Chinese source text beside our English translation.</li>
+          <li>Reading notes on what each argument is actually claiming, and against whom.</li>
+          <li>Cross-links to the <em>Mūlamadhyamakakārikā</em> and the <em>Twelve Gate Treatise</em> wherever the three treatises share an argument.</li>
+          <li>Honest marking of the places where the received text is damaged, ambiguous, or incomplete.</li>
+        </ul>
+        <div class="msg-stats">
+          <div class="msg-stat"><b>14</b> of 14 parts — complete</div>
+          <div class="msg-stat"><b>10</b> chapters, in two fascicles, with Sengzhao's preface</div>
+          <div class="msg-stat"><b>~50</b> of the hundred verses — see below</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-section" id="parts">
+    <div class="msg-wrap">
+      <div class="msg-section-head" data-rv>
+        <h2>Read by Part</h2>
+        <p>From an argument about whether a book may open with the word "evil," through the longest sustained refutation of the self in Chinese Madhyamaka, to a last chapter in which the treatise turns on itself and asks what its own refutation is made of.</p>
+      </div>
+
+      <div class="msg-featured">
+        <div class="feature" data-rv>
+          <span class="tag">Start here</span>
+          <h3>The Preface and the Homage</h3>
+          <p>Sengzhao's preface, which is nearly everything we know about how the text reached China — including the fact that half of it did not. Then the question that starts the argument: which teacher deserves the name World-Honored One?</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.06s">
+          <span class="tag">The longest argument</span>
+          <h3>Refuting the Self</h3>
+          <p>Three parts on Sāṃkhya's self, whose mark is awareness, and Vaiśeṣika's self, which merely possesses knowledge. An ox, a horse, a black cloth, a walking staff — and a knife that must cut whatever it can hurt.</p>
+        </div>
+        <div class="feature" data-rv style="transition-delay:.12s">
+          <span class="tag">The turning point</span>
+          <h3>You Are the Destroyer</h3>
+          <p>The final chapter, in which the opponent asks what an argument that empties everything is itself made of. The answer brings the two truths, a fourth position found in the opponent's own texts, and a mirage.</p>
+        </div>
+      </div>
+
+      <div class="vol-grid">
+        <a class="vol-card live" id="part-1" href="{{ '/sutras/hundred-treatise/part-01/' | relative_url }}" data-rv>
+          <span class="vol-num">Part 1 · <span class="zh">序・捨罪福品第一</span></span>
+          <span class="vol-title">The Preface, the Homage, and Stopping Evil</span>
+          <span class="vol-note">Sengzhao's preface; the homage verses; four rival schools reciting their definitions of a good dharma; and the Buddhist answer, four characters long. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-2" href="{{ '/sutras/hundred-treatise/part-02/' | relative_url }}" data-rv style="transition-delay:.04s">
+          <span class="vol-num">Part 2 · <span class="zh">捨罪福品第一（二）</span></span>
+          <span class="vol-title">Must a Book Begin Auspiciously?</span>
+          <span class="vol-note">Salt, a lamp that lights itself, a spell cast at a distance, and an elephant named for its trunk — an argument about book design that ends somewhere else. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-3" href="{{ '/sutras/hundred-treatise/part-03/' | relative_url }}" data-rv style="transition-delay:.08s">
+          <span class="vol-num">Part 3 · <span class="zh">捨罪福品第一（三）</span></span>
+          <span class="vol-title">Giving, Precepts, Wisdom, and Letting Merit Go</span>
+          <span class="vol-note">A merchant's calculation inside almsgiving, lust inside celibacy, an enemy inside knowledge — and merit set down, because a poisoned meal is sweet in the eating. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-4" href="{{ '/sutras/hundred-treatise/part-04/' | relative_url }}" data-rv style="transition-delay:.12s">
+          <span class="vol-num">Part 4 · <span class="zh">破神品第二（一）</span></span>
+          <span class="vol-title">Is the Self Awareness, or Does It Merely Know?</span>
+          <span class="vol-note">Sāṃkhya's twenty-five principles and Vaiśeṣika's evidence for a self, then both taken apart with an ox, a horse, a black cloth and a staff. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-5" href="{{ '/sutras/hundred-treatise/part-05/' | relative_url }}" data-rv style="transition-delay:.16s">
+          <span class="vol-num">Part 5 · <span class="zh">破神品第二（二）</span></span>
+          <span class="vol-title">The Self Inferred, and the Self That Feels</span>
+          <span class="vol-note">The crystal that takes every color, fire inferred from smoke — and the knife: whatever the blade can hurt, the blade can cut. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-6" href="{{ '/sutras/hundred-treatise/part-06/' | relative_url }}" data-rv style="transition-delay:.2s">
+          <span class="vol-num">Part 6 · <span class="zh">破神品第二（三）</span></span>
+          <span class="vol-title">What the Self Is Supposed to Do</span>
+          <span class="vol-note">A reaper's sickle, a wildfire with no arsonist, a newborn already grieving, and two eyes needing the bridge the self was brought in to be. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-7" href="{{ '/sutras/hundred-treatise/part-07/' | relative_url }}" data-rv style="transition-delay:.24s">
+          <span class="vol-num">Part 7 · <span class="zh">破一品第三</span></span>
+          <span class="vol-title">Being, Oneness, and the Pot</span>
+          <span class="vol-note">What could make "there is one pot" true, if being, oneness and pot are one thing. Contains the treatise's confessed lacuna. Ends fascicle one. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-8" href="{{ '/sutras/hundred-treatise/part-08/' | relative_url }}" data-rv style="transition-delay:.28s">
+          <span class="vol-num">Part 8 · <span class="zh">破異品第四</span></span>
+          <span class="vol-title">If They Are Different, There Is No Pot</span>
+          <span class="vol-note">The other horn: three kinds of difference, atoms with no work to do, and the destroyer-of-dharma charge returned with a cart. Opens fascicle two. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-9" href="{{ '/sutras/hundred-treatise/part-09/' | relative_url }}" data-rv style="transition-delay:.32s">
+          <span class="vol-num">Part 9 · <span class="zh">破情品第五</span></span>
+          <span class="vol-title">Does the Eye Travel to What It Sees?</span>
+          <span class="vol-note">The moon and a pot seen at once; a wall that stops sight anyway; and a conjunction of three members, none of which can see. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-10" href="{{ '/sutras/hundred-treatise/part-10/' | relative_url }}" data-rv style="transition-delay:.36s">
+          <span class="vol-num">Part 10 · <span class="zh">破塵品第六</span></span>
+          <span class="vol-title">Is a Pot Ever Actually Seen?</span>
+          <span class="vol-note">Only a fifth of a pot reaches the eye, and color hides its own far side; fire in which everything is hot; and sandals ageing on the first day. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-11" href="{{ '/sutras/hundred-treatise/part-11/' | relative_url }}" data-rv style="transition-delay:.4s">
+          <span class="vol-num">Part 11 · <span class="zh">破因中有果品第七</span></span>
+          <span class="vol-title">The Fruit Is Not Already in the Cause</span>
+          <span class="vol-note">The bending finger, the three ages, the eight reasons a real thing goes unseen, and the seed that continues into the sprout and is gone. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-12" href="{{ '/sutras/hundred-treatise/part-12/' | relative_url }}" data-rv style="transition-delay:.44s">
+          <span class="vol-num">Part 12 · <span class="zh">破因中無果品第八</span></span>
+          <span class="vol-title">Nor Is It Absent from the Cause</span>
+          <span class="vol-note">When exactly does a pot arise? The three marks turned on themselves, and four terms of production tested on mother, blood, change and mirror. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-13" href="{{ '/sutras/hundred-treatise/part-13/' | relative_url }}" data-rv style="transition-delay:.48s">
+          <span class="vol-num">Part 13 · <span class="zh">破常品第九</span></span>
+          <span class="vol-title">Space, Time, Direction, Atoms, and Nirvāṇa</span>
+          <span class="vol-note">Space that would need somewhere to be, an east that is only whoever has morning, an atom that needs sides, and a lamp gone out. Complete.</span>
+        </a>
+        <a class="vol-card live" id="part-14" href="{{ '/sutras/hundred-treatise/part-14/' | relative_url }}" data-rv style="transition-delay:.52s">
+          <span class="vol-num">Part 14 · <span class="zh">破空品第十</span></span>
+          <span class="vol-title">You Are the Destroyer</span>
+          <span class="vol-note">The refutation turned on itself; the two truths and the crab-apple; the mirage that destroys no water; and a liberation with nobody left to have it. Complete.</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="msg-section" id="notes" style="background:var(--cream);padding-top:64px;">
+    <div class="msg-wrap">
+      <div class="msg-section-head" data-rv>
+        <h2>Translation Notes</h2>
+        <p>The Chinese source is Kumārajīva's translation, revised at Chang'an in 404 CE — five years before the same workshop produced this site's <a href="{{ '/sutras/mulamadhyamakakarika/' | relative_url }}"><em>Mūlamadhyamakakārikā</em></a> and <a href="{{ '/sutras/twelve-gate-treatise/' | relative_url }}"><em>Twelve Gate Treatise</em></a>. Terminology is matched across all three, so that a reader moving among them meets the same English for the same Chinese. See also <a href="{{ '/dharma/translation-method/' | relative_url }}">this site's note on translation method</a>.</p>
+      </div>
+      <div class="term-grid" data-rv>
+        <div class="term"><b><span class="zh">自性</span> — a nature of its own</b><span>Svabhāva. What is unmade and depends on nothing else. Named first at the close of Chapter One and load-bearing for the nine chapters after it.</span></div>
+        <div class="term"><b><span class="zh">外曰／內曰</span> — the Outsider, the Insider</b><span>Not "question" and "answer" but <span class="zh">外道</span> and <span class="zh">內道</span>: those outside the Buddha's way and those within it. The labels tell you this is a manual for public debate.</span></div>
+        <div class="term"><b><span class="zh">修妬路</span> — the root-line marker</b><span>Transliterates <em>sūtra</em>. Marks the end of one of Āryadeva's own lines, which Kumārajīva rendered as prose rather than verse.</span></div>
+        <div class="term"><b><span class="zh">相・可相</span> — mark and what is marked</b><span>A mark is what a thing is recognized by. The treatise's most-used distinction is between a mark and a mere act: a hand is a hand while it rests.</span></div>
+        <div class="term"><b><span class="zh">神</span> — the self</b><span>Kumārajīva's word for <em>puruṣa</em> in Sāṃkhya and <em>ātman</em> in Vaiśeṣika. A Chinese word for spirit, pressed into service; here it means simply the abiding subject.</span></div>
+        <div class="term"><b><span class="zh">陀羅驃・求那</span> — substance and quality</b><span><em>Dravya</em> and <em>guṇa</em>, two of Vaiśeṣika's six categories. The treatise repeatedly beats its opponent with the rule that the two never convert.</span></div>
+        <div class="term"><b><span class="zh">作因・了因</span> — productive and revealing cause</b><span>A potter makes the pot; a lamp only shows what was already there. Used in Chapters Four and Nine, and matched to the Twelve Gate pages.</span></div>
+        <div class="term"><b><span class="zh">世諦・第一義諦</span> — conventional and ultimate truth</b><span>Named in the last chapter. Not one true and one false, but two levels each of which can be got right or wrong — as a crab-apple is truly large beside a jujube.</span></div>
+      </div>
+
+      <div class="msg-panel" data-rv style="margin-top:18px;">
+        <h2>On the missing half</h2>
+        <p>Sengzhao's preface states that the treatise had twenty chapters of five verses each — a hundred verses, which is where the title comes from. Only the first ten chapters were brought into Chinese: the last ten, he writes, "he judged to be of no benefit to this land, and so they are wanting and were not transmitted." The <em>Hundred Treatise</em>, as it exists in Chinese and therefore as it exists at all, holds roughly fifty of its hundred verses. There is no Sanskrit and no Tibetan witness to tell us what was in the other half.</p>
+        <p>There is a second and smaller hole. In the middle of Chapter Three, the received text carries an in-line editorial note — <span class="zh">此中四紙辯名字無可傳譯</span>, "four sheets of argument concerning names occur at this point, which cannot be carried over in translation." Four sheets of the argument are simply not there, and whoever prepared the Chinese said so rather than closing the gap silently. Both losses are flagged where they occur, in <a href="{{ '/sutras/hundred-treatise/part-01/' | relative_url }}">Part 1</a> and <a href="{{ '/sutras/hundred-treatise/part-07/' | relative_url }}">Part 7</a>.</p>
+      </div>
+
+      <div class="msg-panel" data-rv style="margin-top:18px;">
+        <h2>On the author, the commentator, and the title</h2>
+        <p>Āryadeva (<span class="zh">提婆</span>) was Nāgārjuna's pupil and, by the tradition's account, the sharpest debater of his generation; Sengzhao places him some eight centuries after the Buddha. The commentary is by one <span class="zh">婆藪開士</span>, "Vasu the Illumining Being," about whom essentially nothing is known beyond Sengzhao's few lines of praise. His exposition is translated here as primary text, exactly as Piṅgala's commentary is on this site's <em>Mūlamadhyamakakārikā</em> pages — this treatise, unlike the <em>Twelve Gate Treatise</em>, is not a self-commentary, and there are genuinely two voices in it.</p>
+        <p>We title the work in English rather than in Sanskrit. The form <em>Śataśāstra</em> sometimes given is a back-formation from the Chinese; the text survives only in Chinese, with no Sanskrit or Tibetan witness. "Hundred Treatise" also follows the rendering already used on this site's <a href="{{ '/sutras/mohe-zhiguan/' | relative_url }}"><em>Great Calming and Contemplation</em></a> pages, where Zhiyi quotes this treatise by name. Note that Āryadeva's <em>Catuḥśataka</em>, the "Four Hundred," is a different and separate work.</p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('[data-rv]');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in');});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
