@@ -1,0 +1,415 @@
+---
+layout: default
+title: "Hundred Treatise, Part 8 — If They Are Different, There Is No Pot"
+permalink: /sutras/hundred-treatise/part-08/
+excerpt: Ru-Yi's bilingual translation of the fourth chapter of the Hundred Treatise (百論・破異品第四), which opens the second fascicle — the other horn of the dilemma about "there is one pot," the three kinds of difference, the atoms that were supposed to be the floor beneath everything, and the first time the Outsider loses his temper and calls his opponent a destroyer of dharma.
+---
+
+<style>
+  .fascicle{--terra:#b8431c;--terra-deep:#8c2f12;--gold:#d9a441;--jade:#2f6d5e;--cream:#fbf5ea;--ink:#251f1a;--muted:#6b625a;--line:#eadfce;}
+  .fascicle *{box-sizing:border-box;}
+  .fascicle-wrap{max-width:980px;margin:0 auto;padding:0 26px;}
+  .fascicle-hero{background:#f6efe2;color:var(--ink);border-bottom:1px solid var(--line);}
+  .fascicle-hero-in{max-width:980px;margin:0 auto;padding:56px 26px 48px;}
+  .fascicle-bread{font-size:13px;letter-spacing:.03em;margin-bottom:24px;color:var(--muted);}
+  .fascicle-bread a{color:var(--terra-deep);text-decoration:none;border-bottom:1px solid rgba(184,67,28,.35);}
+  .fascicle-kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--terra);font-weight:800;}
+  .fascicle h1{font-family:'Playfair Display',Georgia,serif;font-size:clamp(38px,6vw,64px);line-height:1.05;margin:12px 0 10px;color:var(--ink);max-width:16ch;}
+  .fascicle-hero .subtitle{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:var(--terra-deep);margin:0 0 18px;}
+  .fascicle-hero .subtitle .zh{font-style:normal;font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:var(--muted);margin-left:8px;}
+  .fascicle-hero p.lede{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;}
+  .fascicle-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;}
+  .fascicle-pill{border:1px solid #dfceb3;background:#fffaf1;border-radius:999px;padding:7px 12px;font-size:13px;color:#62452b;font-weight:700;}
+  .fascicle-body{background:#fff;padding:54px 0 76px;}
+  .fascicle-section{border-bottom:1px solid var(--line);padding:0 0 36px;margin-bottom:36px;}
+  .fascicle-section:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0;}
+  .fascicle h2{font-family:'Playfair Display',Georgia,serif;font-size:clamp(26px,3.6vw,36px);line-height:1.15;color:var(--ink);margin:0 0 14px;}
+  .fascicle h3{font-family:'Playfair Display',Georgia,serif;font-size:23px;color:var(--ink);margin:28px 0 10px;}
+  .fascicle h3:first-child{margin-top:0;}
+  .fascicle p,.fascicle li{font-size:17px;line-height:1.72;color:var(--muted);}
+  .fascicle ul,.fascicle ol{padding-left:22px;margin-bottom:14px;}
+  .fascicle table{width:100%;border-collapse:collapse;margin:16px 0 22px;font-size:16px;}
+  .fascicle th,.fascicle td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--muted);}
+  .fascicle th{background:#f6efe2;color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em;}
+  .zh{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;}
+
+  .translation-table{display:grid;grid-template-columns:1fr;gap:14px;margin-top:20px;}
+  .translation-row{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;}
+  @media(min-width:820px){.translation-row{grid-template-columns:1fr 1.08fr;}}
+  .source,.translation{border:1px solid var(--line);border-radius:8px;padding:20px 22px;background:#fffdf8;}
+  .translation{background:#f8fbf8;border-color:#cfe0d8;}
+  .label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:900;color:var(--terra);margin-bottom:10px;}
+  .translation .label{color:var(--jade);}
+  .label .zh{letter-spacing:0;}
+  .source p{font-family:"PingFang TC","Apple LiGothic Medium","Microsoft JhengHei",serif;color:#382a20;font-size:18px;line-height:1.9;margin:0;}
+  .translation p{color:var(--ink);font-size:16.5px;line-height:1.75;margin:0;}
+  .source p+p,.translation p+p{margin-top:12px;}
+
+  .translation-row.root .source{background:#fdf6ec;border-color:#e2cfa8;}
+  .translation-row.root .translation{background:#f4f9f5;border-color:#bcd6c9;}
+  .translation-row.root .source p{font-size:20px;line-height:2;letter-spacing:.02em;}
+  .translation-row.root .translation p{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-size:18px;line-height:1.6;}
+  .translation-row.root .verse p{margin:0;}
+  .translation-row.root .verse p+p{margin-top:2px;}
+
+  .spk-out{color:var(--terra-deep);font-weight:800;}
+  .spk-in{color:var(--jade);font-weight:800;}
+  .sutra-line{background:#fdf3e2;box-shadow:inset 0 -1px 0 #e3cfa8;padding:1px 5px;border-radius:3px;font-family:'Playfair Display',Georgia,serif;font-style:italic;color:#5d3a18;}
+  .sutra-tag{font-family:'Playfair Display',Georgia,serif;font-style:normal;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#a07333;margin-left:6px;vertical-align:.18em;font-weight:700;}
+
+  .convention{border:1px solid var(--line);border-radius:8px;background:#fffdf8;padding:22px 24px;margin-top:20px;}
+  .convention dl{margin:0;}
+  .convention dt{font-weight:800;color:var(--ink);margin-top:16px;font-size:16.5px;}
+  .convention dt:first-child{margin-top:0;}
+  .convention dd{margin:5px 0 0;color:var(--muted);font-size:16px;line-height:1.7;}
+
+  .note-box{border-left:4px solid var(--gold);background:#fdf9f1;padding:22px 24px;margin-top:20px;border-radius:0 6px 6px 0;}
+  .note-box .who{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#8a6a2a;margin-bottom:10px;}
+  .note-box p{margin:0;font-size:16px;color:#5c4a2a;line-height:1.75;}
+  .note-box p+p{margin-top:12px;}
+  .note-box.second{border-left-color:var(--jade);}
+
+  .rn-divider{display:flex;align-items:center;gap:14px;margin:8px 0 30px;}
+  .rn-divider h2{margin:0;white-space:nowrap;}
+  .rn-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  .ending-mark{text-align:center;color:var(--terra);letter-spacing:.8em;margin:28px 0 0;font-size:19px;}
+
+  .fascicle-pagenav{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-top:8px;padding-top:30px;border-top:1px solid var(--line);flex-wrap:wrap;}
+  .fascicle-pagenav a{text-decoration:none;color:var(--ink);}
+  .fascicle-pagenav .pn-label{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--terra);font-weight:800;margin-bottom:5px;}
+  .fascicle-pagenav .pn-title{font-family:'Playfair Display',Georgia,serif;font-size:18px;color:var(--ink);}
+  .fascicle-pagenav .pn-prev{text-align:left;}
+  .fascicle-pagenav .pn-next{text-align:right;}
+  .fascicle-pagenav .pn-index{text-align:center;font-size:14px;color:var(--muted);align-self:center;}
+  .fascicle-pagenav .pn-index a{color:var(--terra-deep);border-bottom:1px solid rgba(184,67,28,.35);}
+</style>
+
+<article class="fascicle">
+  <section class="fascicle-hero">
+    <div class="fascicle-hero-in">
+      <nav class="fascicle-bread" aria-label="Breadcrumb"><a href="{{ '/dharma/' | relative_url }}">Dharma</a> › <a href="{{ '/sutras/' | relative_url }}">Mahāyāna Scriptures</a> › <a href="{{ '/sutras/hundred-treatise/' | relative_url }}">Hundred Treatise</a> › If They Are Different, There Is No Pot</nav>
+      <div class="fascicle-kicker">Part 8 of 14 · 破異品第四 · Complete · opens 卷下</div>
+      <h1>If They Are Different, There Is No Pot</h1>
+      <p class="subtitle"><em>Refuting Difference</em><span class="zh">破異品第四</span></p>
+      <p class="lede">The second fascicle opens on the other horn. In Chapter Three, being, oneness and pot were taken as one thing and the results were absurd; here they are taken as genuinely distinct, and the pot vanishes a different way — for a substance that is not existence and not number is not anything. The Outsider defends himself with a taxonomy of difference, with a lamp, and finally with atoms, the indivisible floor beneath the world. All three fail, and he says out loud what he has been thinking since Chapter One: <em>you are a destroyer of dharma.</em> The reply hands the charge straight back, and does it with a cart.</p>
+      <div class="fascicle-meta">
+        <span class="fascicle-pill">Translator: Ru-Yi Meditation Center</span>
+        <span class="fascicle-pill">Source: Taishō T30, no. 1569, 百論</span>
+        <span class="fascicle-pill">Āryadeva <span class="zh">(提婆)</span>, with Vasu's commentary <span class="zh">(婆藪開士釋)</span></span>
+        <span class="fascicle-pill">Kumārajīva, revised 404 CE</span>
+        <span class="fascicle-pill">Reading notes: Ru-Yi, original</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="fascicle-body">
+    <div class="fascicle-wrap">
+
+      <section class="fascicle-section">
+        <h2>1. Each One Lost</h2>
+        <p>The chapter opens by simply asking for the fault that was promised. And the fault is symmetrical to the one before: if the three items are genuinely distinct, then each of them is stripped of the other two.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source · <span class="zh">破異品第四</span></div>
+              <p>外曰：汝先言，有一瓶異，是亦有過。有何等過？</p>
+              <p>內曰：若有等異一一無(修妬路)。若有一瓶異各各無。瓶與有一異者，此瓶非有非一。有與一瓶異者，非瓶非一。一與有瓶異者，非瓶非有。如是各各失。復次若瓶失，有一不應失。有失，一瓶不應失。一失，有瓶不應失。以異故。譬如此人滅，彼人不應滅。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> You said earlier that for being, one and pot to be different is also at fault. What fault is that?</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">If being and the rest are different, each one singly is absent.<span class="sutra-tag">sūtra</span></span> If being, one and pot are different, then each of them is absent. If the pot is different from being and from one, then this pot is neither existent nor one. If being is different from one and from pot, then it is neither pot nor one. If one is different from being and from pot, then it is neither pot nor existent. So each is lost in turn. Furthermore, if the pot is lost, being and one should not be lost; if being is lost, one and pot should not be lost; if one is lost, being and pot should not be lost — because they are different. Just as when this man dies, that man should not die.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>Two distinct faults, and they pull in opposite directions, which is what makes the horn as bad as the other one.</p>
+          <p>The first is deprivation. Real difference means not sharing: if the pot is genuinely other than existence, then the pot does not have existence, and a pot without existence is nothing at all. The same subtraction runs for oneness. The Outsider wanted three real items so that the sentence "there is one pot" would have three things to be about; what he gets is a pot that neither exists nor is single.</p>
+          <p>The second is independence, and it is the sharper of the two. Genuinely different things have separate fates — <em>when this man dies, that man should not die</em>. So smash the pot and existence should be untouched, oneness should be untouched, and by the same token the loss of the pot's oneness should leave the pot intact. That is plainly not how anything behaves. Difference cheap enough to leave the three items in one sentence is too cheap to make them three; difference strong enough to make them three is strong enough to let each survive the others' destruction.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>2. Three Kinds of Difference</h2>
+        <p>The Outsider's answer is a piece of real technical philosophy, and it deserves respect. He does not deny the argument; he denies that "different" is one relation. His school distinguishes three, and the distinction is meant to give him a difference that binds.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：不然。有一合故，有一瓶成(修妬路)。有一瓶雖異，瓶與有合故瓶名有，瓶與一合故瓶名一。汝言瓶失、有一不應失者，是語非也。何以故？異合故。異有三種：一合異；二別異；三變異。合異者，如陀羅驃、求那。別異者，如此人、彼人。變異者，如牛糞團變為灰團。以異合故，瓶失一亦失，一失瓶亦失，有常故不失。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> Not so. <span class="sutra-line">Because being and one are conjoined with it, "there is one pot" is established.<span class="sutra-tag">sūtra</span></span> Though being, one and pot are different, the pot is called existent because it is conjoined with being, and the pot is called one because it is conjoined with one. Your saying that if the pot is lost, being and one should not be lost, is wrong. Why? Because of conjoined difference. Difference is of three kinds: first, conjoined difference; second, separate difference; third, transformative difference. Conjoined difference is as of substance and quality. Separate difference is as of this man and that man. Transformative difference is as when a ball of cow-dung turns into a ball of ash. Because of conjoined difference, when the pot is lost the one is lost too, and when the one is lost the pot is lost too — while being, being permanent, is not lost.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>內曰：若爾多瓶(修妬路)。瓶與有合故有瓶，瓶與一合故一瓶，又瓶亦瓶，是故多瓶。汝言陀羅驃、求那合異故，瓶失一亦失、一失瓶亦失者，我欲破汝異，云何以異證異？應更說因。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">If so, there are many pots.<span class="sutra-tag">sūtra</span></span> Since the pot conjoined with being gives an existent pot, and the pot conjoined with one gives one pot, and the pot is besides simply a pot — therefore there are many pots. And as for your saying that because substance and quality are conjoined-different, the loss of the pot carries off the one and the loss of the one carries off the pot: I am setting out to refute your difference — how can you prove difference by difference? You should give some other reason.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The three kinds are worth keeping, because they are a genuine contribution and the treatise does not sneer at them. <em>Separate difference</em> is the ordinary kind: two men, each of whom can be removed without the other noticing. <em>Transformative difference</em> is difference across a change in the same stuff — the dung-ball and the ash-ball are not two things standing side by side, but neither are they simply the same. And <em>conjoined difference</em> is what a Vaiśeṣika quality has to its substance: distinguishable, but not separable, and destroyed together.</p>
+          <p>That third kind is exactly the tool the Outsider needs, and it is a reasonable one. He can now say: yes, the pot and its oneness are different, and no, they do not have independent fates, because their difference is the conjoined kind.</p>
+          <p>The reply's second half is where the round is actually decided, and it is a point of debating law rather than metaphysics: <span class="zh">我欲破汝異，云何以異證異</span> — <em>I am setting out to refute your difference; how can you prove difference by difference?</em> The whole question at issue is whether these items are different. To answer by classifying kinds of difference is to help oneself to the thing in dispute. It is the same charge as the horse in <a href="{{ '/sutras/hundred-treatise/part-04/' | relative_url }}">Part 4</a>, where illustrating the self by means of the self was named a position of defeat, and the demand is the same: <span class="zh">應更說因</span>, give another reason.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>3. A Substance That Is Neither Existent Nor One</h2>
+        <p>The Outsider does give another reason, and it is drawn straight from the six categories. Being, oneness and pot fall into three different boxes, and things in different boxes are different by definition.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：總相故、求那故，有一非瓶(修妬路)。有是總相故非瓶，一是求那故非瓶，瓶是陀羅驃。</p>
+              <p>內曰：若爾無瓶(修妬路)。若有是總相故非瓶，一是求那故非瓶，瓶是陀羅驃故非有非一，是則無瓶。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Being a general mark, and being a quality — being and one are not the pot.<span class="sutra-tag">sūtra</span></span> Being is a general mark and so is not the pot; one is a quality and so is not the pot; and the pot is a substance.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">If so, there is no pot.<span class="sutra-tag">sūtra</span></span> If being, as a general mark, is not the pot; and one, as a quality, is not the pot; and the pot, being a substance, is thereby neither existent nor one — then there is no pot.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>This is the shortest exchange in the chapter and one of the most economical arguments in the treatise: the Outsider's own filing system does the work.</p>
+          <p>Vaiśeṣika's categories are exclusive — that is their whole purpose. A substance is not a quality; a quality is not a universal. So placing the pot in <span class="zh">陀羅驃</span> (<em>dravya</em>, substance), oneness in <span class="zh">求那</span> (<em>guṇa</em>, quality), and being among the general marks does secure their difference, precisely as intended. But exclusivity runs in both directions, and the Insider simply reads the third line off the first two. If being belongs to a category the pot is not in, the pot does not have being. If number belongs to another, the pot is not one. The Outsider has bought the difference of the three terms at the price of the middle one.</p>
+          <p>It is worth noticing that this is the same move that broke the black-cloth simile in <a href="{{ '/sutras/hundred-treatise/part-04/' | relative_url }}">Part 4</a> — there too, the rule that substances do not become qualities was quoted back at the man whose system it is. The <em>Hundred Treatise</em> is unusually fond of this manoeuvre, and it is a sign of what the text was for: whoever carried it into a debate hall was expected to know the opponent's categories better than the opponent used them.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>4. Without One There Is No Many</h2>
+        <p>The Outsider repeats the accusation from the previous chapter — you have multiplied pots — and the reply this time goes further than "I am stating your fault." It points out that the very counting he is relying on has been destroyed.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：受多瓶(修妬路)。汝先說多瓶欲破一瓶，更受多瓶。</p>
+              <p>內曰：一無故多亦無(修妬路)。汝言瓶與有合故有瓶，瓶與一合故一瓶，又瓶亦瓶。若爾世界言一瓶，而汝以為多瓶，是故一瓶為多瓶。一為多故則無一瓶，一瓶無故多亦無，先一後多故。復次初數無故(修妬路)。數法初一，若一與瓶異，則瓶不為一，一無故多亦無。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">You accept many pots.<span class="sutra-tag">sūtra</span></span> You spoke earlier of many pots in order to refute one pot, and so you have taken on many pots yourself.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">Since the one is absent, the many are absent too.<span class="sutra-tag">sūtra</span></span> You said that the pot conjoined with being is an existent pot, that the pot conjoined with one is one pot, and that the pot is besides simply a pot. If so, then what the world calls one pot you have turned into many pots — and so one pot has become many. The one having become many, there is no one pot; and there being no one pot, there are no many either, since the one comes first and the many after. Furthermore, <span class="sutra-line">because the first of the numbers is absent.<span class="sutra-tag">sūtra</span></span> The first of the numbers is one; and if one is different from the pot, then the pot is not one — and the one being absent, the many are absent too.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The counter-accusation is nicely aimed. It was the Outsider who insisted on three real items, and three real items in one pot is what "many pots" amounts to: the pot-as-existent, the pot-as-one, and the pot itself. What the world calls a single pot, his analysis has resolved into a small crowd.</p>
+          <p>Then the argument that gives the section its name, and it is a genuinely deep one. <span class="zh">數法初一</span>: the first of the numbers is one. Every larger number is built by repeating it — many is many <em>ones</em>. So if oneness has been detached from the pot, nothing has been left that could be counted, and "many pots" is as unavailable as "one pot." The Outsider has been assuming that if singularity fails he can retreat to plurality, and the reply closes that exit: plurality was never an alternative to unity, it was an accumulation of it.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>5. Conjoined With a Non-Pot</h2>
+        <p>A retreat to something weaker. The pot is not identical with being; it merely <em>has</em> some being by conjunction, the way a man in the sun is warm without being warmth. The reply turns the conjunction against itself.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：瓶與有合故(修妬路)。瓶與有合故瓶名有，非盡有。如是瓶與一合故瓶名一，非盡一。</p>
+              <p>內曰：但有是語，此事先已破，若有非瓶則無瓶。今當更說瓶應非瓶(修妬路)。若瓶與有合故瓶有，是有非瓶。若瓶與非瓶合者，瓶何以不作非瓶？</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Because the pot is conjoined with being.<span class="sutra-tag">sūtra</span></span> Because the pot is conjoined with being, the pot is called existent — not that it is being entire. And likewise, because the pot is conjoined with one, the pot is called one — not that it is one entire.</p>
+              <p><span class="spk-in">Insider:</span> That is words and nothing more, and the matter has been refuted already: if being is not the pot, then there is no pot. But let it now be said again — <span class="sutra-line">the pot ought to be a non-pot.<span class="sutra-tag">sūtra</span></span> If the pot is existent because it is conjoined with being, and that being is not the pot, then the pot is conjoined with a non-pot; and if the pot is conjoined with a non-pot, why does the pot not become a non-pot?</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：無無合故非非瓶(修妬路)。非瓶名無瓶，無則無合，是故瓶不作非瓶。今有有故應有合，有合故瓶有。</p>
+              <p>內曰：今有合瓶故(修妬路)。若非瓶則無有，無有則無合，今有合瓶故有應為瓶。若汝謂瓶未與有合故無，無故無合；如先說，無法故無合。如是未與有合時瓶則無法，無法故不應與有合。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">Since there is no conjunction with what is not, it does not become a non-pot.<span class="sutra-tag">sūtra</span></span> "Non-pot" means the absence of a pot; and what is not has no conjunction. So the pot does not become a non-pot. But being does exist, and so there can be conjunction with it; and by that conjunction the pot is existent.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">But being is in fact conjoined with the pot.<span class="sutra-tag">sūtra</span></span> If it is a non-pot then it has no being; having no being it has no conjunction; and since being is in fact conjoined with the pot, being must be the pot. And if you say that before the pot is conjoined with being it does not exist, and that not existing it has no conjunction — then, as was said above, what is not a thing has no conjunction; and so before it is conjoined with being the pot is not a thing at all, and not being a thing it cannot be conjoined with being.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The trap here is a good one and worth laying out slowly, because the Outsider walks into it by defending himself well.</p>
+          <p>He needs conjunction to confer existence on the pot. The Insider points out that whatever being is, it is not the pot — so it is a non-pot, and the pot is therefore conjoined with a non-pot; and if conjunction transfers properties, the pot should catch non-pot-hood. The Outsider's escape is precise: "non-pot" names a mere absence, and absences have no conjunctions. Nothing can be joined to nothing.</p>
+          <p>And that escape is what finishes him. He has just conceded the principle that <em>what does not exist cannot enter into conjunction</em>. Now apply it to his own account. Before the pot is joined to being, does the pot exist? On his story, no — existence is what the conjunction is supposed to deliver. But a thing that does not yet exist cannot be joined to anything, by the rule he has himself just laid down. So the conjunction can never take place, and existence can never be delivered.</p>
+          <p>This is the general shape of every argument against a thing that acquires its existence from something else, and the treatise will meet it again in <a href="{{ '/sutras/hundred-treatise/part-12/' | relative_url }}">Part 12</a>, where the same reasoning is turned on arising itself. What has to exist in order to receive existence already has it; what does not exist is not available to receive anything.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>6. Being as a Lamp</h2>
+        <p>The lamp makes its fourth appearance in this treatise, now cast as a revealer rather than a maker: being does not manufacture the pot, it shows the pot to be there. The reply introduces a distinction that the treatise will use again in <a href="{{ '/sutras/hundred-treatise/part-13/' | relative_url }}">Part 13</a>.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：不然。有了瓶等故，如燈(修妬路)。有非但瓶等諸物因，亦能了瓶等諸物，譬如燈能照諸物。如是有能了瓶故，則知有瓶。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> Not so. <span class="sutra-line">Because being makes the pot and the rest manifest, as a lamp does.<span class="sutra-tag">sūtra</span></span> Being is not merely the cause of pots and other things; it also makes pots and other things manifest, as a lamp lights things up. Just so, since being can make the pot manifest, one knows that there is a pot.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>內曰：若有法能了如燈，瓶應先有(修妬路)。今先有諸物，然後以燈照了。有若如是者，有未合時瓶等諸物應先有。若先有者，後有何用？若有未合時無瓶等諸物，有合故有者，有是作因非了因。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">If being makes manifest as a lamp does, the pot must exist beforehand.<span class="sutra-tag">sūtra</span></span> Things exist first, and afterward a lamp lights them up. If being were like that, then before being was conjoined with them, pots and the rest must already exist — and if they exist beforehand, what use is the being that comes after? But if, before being was conjoined, there were no pots and the rest, and it is by conjunction with being that they exist, then being is a productive cause and not a revealing cause.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>復次若以相可相成，何故一不作二(修妬路)。若汝以有為瓶相故知有瓶者，若離相可相之物則不成，是故有亦應更有相。若更無相知有法為有者，瓶等亦應爾。燈喻先已破。復次如燈自照，不假外照；瓶亦自有，不待外有。</p>
+            </div>
+            <div class="translation">
+              <p>Furthermore, <span class="sutra-line">if a thing is established by mark and what is marked, why does the one not become two?<span class="sutra-tag">sūtra</span></span> If you take being to be the pot's mark and thereby know that there is a pot — then, since nothing is established apart from a mark and what is marked, being too must have a further mark. And if being can be known to be existent without any further mark, then pots and the rest should be so as well. The lamp simile has been refuted already. Furthermore, as a lamp lights itself and does not borrow an outer lighting, so the pot exists of itself and does not wait upon an outer being.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The distinction between <span class="zh">作因</span> and <span class="zh">了因</span> — a <em>productive</em> cause and a <em>revealing</em> cause — is the technical heart of this section and will return in <a href="{{ '/sutras/hundred-treatise/part-13/' | relative_url }}">Part 13</a>, where the Outsider uses it to argue that permanent things can have causes without being produced. A potter is a productive cause of the pot; a lamp is a revealing cause of what was already in the room.</p>
+          <p>The dilemma is then exhaustive. If being reveals, the pot was already there without it, and being is redundant. If being confers, then being produces, and the lamp analogy has been abandoned. There is no third option, because the analogy's entire content was the claim that revealing is not producing.</p>
+          <p>The second stroke is subtler and aims at the regress. The Outsider's method is to establish a thing by pointing at its mark. Apply the method to being itself: what is <em>its</em> mark? If it needs one, the same question arises again without end; if it does not — if some things are simply known to exist without a mark — then the method has an exception, and the pot may as well be one. Either the rule is universal and destroys itself, or it admits exceptions and cannot be used to force the pot into needing being.</p>
+          <p>And then, in one dry sentence, the treatise takes back the lamp it has been demolishing since <a href="{{ '/sutras/hundred-treatise/part-02/' | relative_url }}">Part 2</a> and lends it to the opposite side: <em>as a lamp lights itself and does not borrow an outer lighting, so the pot exists of itself and does not wait upon an outer being.</em> The Outsider's own favorite image, granted to him on his own terms, argues against him.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>7. The Whole Inside the Part</h2>
+        <p>Back to whole and part, and now stated as a dilemma with no middle: if there is a body over and above head and feet, it is either wholly in each part or distributed among them.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：如身相(修妬路)。如以足分知有分為身，足更不求相。如是以有為瓶相，故知有瓶，有更不求相。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">As with the body's mark.<span class="sutra-tag">sūtra</span></span> One knows the whole that has parts to be a body by means of the part that is the foot, and the foot requires no further mark. Just so, one knows there is a pot by taking being as the pot's mark, and being requires no further mark.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>內曰：若分中有分具者，何故頭中無足(修妬路)。若有身法於足分等中，為具有耶？為分有耶？若具有者，頭中應有足，身法一故。若分有者亦不然。何以故？有分如分(修妬路)。若足中有分與足分等，餘分中亦爾者，則有分與分為一，是故無有有分名為身。如是足分等自有，有分亦同破。有分無故，諸分亦無。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">If the whole is present complete within a part, why is there no foot in the head?<span class="sutra-tag">sūtra</span></span> Is the body-dharma present in the foot and the other parts entire, or present part by part? If entire, then there must be a foot within the head, since the body-dharma is one. And if part by part, that will not do either. Why? <span class="sutra-line">Because the whole would be as the parts.<span class="sutra-tag">sūtra</span></span> If the portion of the whole present in the foot is equal to the foot, and likewise in each remaining part, then the whole is one with the parts — and so there is no whole-that-has-parts to be called a body. And just as the foot and the other parts exist of themselves, so the whole is refuted in the same way. The whole being absent, the parts are absent too.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The first horn is a small masterpiece of consequence-drawing. If the body is one thing and it is fully present in the foot, then everything that belongs to the body belongs to whatever the body is fully present in. The head is one of those places. So the head contains a foot — <span class="zh">頭中應有足</span>. It is absurd, and it follows exactly from taking "the whole is present in each part" at its word.</p>
+          <p>The second horn is quieter and does the real damage. Distribute the whole among the parts, giving each part the amount that fits it, and you have not described a whole plus parts; you have described the parts twice over. There is nothing left for "the body" to name.</p>
+          <p>And then the last sentence, which is easy to skim and is the hinge of the chapter: <span class="zh">有分無故，諸分亦無</span> — <em>the whole being absent, the parts are absent too.</em> A foot is a foot only as part of a body; a wheel is a wheel only as part of a cart. Take away the whole and what is left is not a heap of well-defined parts but material that was only ever "parts" by reference to something now gone. This is why the treatise does not end up with atoms as survivors of the analysis, and it is what the Outsider tries to prevent in the next section.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>8. Atoms, Threads, and Drops</h2>
+        <p>Here is the Outsider's real defense, and it is the one that mattered most in Indian philosophy: there is a floor. Divide anything far enough and you reach the partless atom, which cannot be dissolved by any argument about parts because it has none.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：不然。微塵在故(修妬路)。諸分不無。何以故？微塵無分，不在分中。微塵集故，能生瓶等果，是故應有有分。</p>
+              <p>內曰：若集為瓶一切瓶(修妬路)。汝言微塵無分，但有是語，後當破，今當略說。微塵集為瓶時，若都集為瓶，一切微塵盡應為瓶。若不都集為瓶，一切非瓶。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> Not so. <span class="sutra-line">Because atoms remain.<span class="sutra-tag">sūtra</span></span> The parts are not absent. Why? An atom has no parts and is not contained within any part. And because atoms gather, they can produce the pot and other fruits — so there must be a whole that has parts.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">If gathering makes a pot, everything is a pot.<span class="sutra-tag">sūtra</span></span> Your saying that an atom has no parts is words and nothing more; it will be refuted later, and here a brief account will do. When atoms gather to make a pot: if they all gather to make the pot, then every atom whatever must be a pot; and if they do not all gather to make the pot, then none of them is a pot.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：如縷渧集力。微塵亦爾(修妬路)。如一一縷不能制象，一一水渧不能滿瓶，多集則能。如是微塵集故力能為瓶。</p>
+              <p>內曰：不然。不定故(修妬路)。譬如一一石女不能有子，一一盲人不能見色，一一沙不能出油，多集亦不能。如是微塵，一一不能，多亦不能。</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">As with the power of gathered threads and drops, so with atoms.<span class="sutra-tag">sūtra</span></span> A single thread cannot restrain an elephant, and a single drop of water cannot fill a pot; but gathered in quantity they can. Just so, because atoms gather, they have the power to make a pot.</p>
+              <p><span class="spk-in">Insider:</span> Not so. <span class="sutra-line">Because it is not settled.<span class="sutra-tag">sūtra</span></span> A single barren woman cannot bear a child, a single blind man cannot see color, a single grain of sand cannot yield oil — and gathered in quantity they still cannot. Just so with atoms: singly they cannot, and in quantity they cannot either.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>外曰：分分有力，故非不定(修妬路)。縷、渧分分有力，能制象、滿瓶。石女、盲、沙分分無力故，多亦無力，是故非不定，不應以石女、盲、沙為喻。</p>
+              <p>內曰：分有分一異過故(修妬路)。分有分若一若異，是過先已破。復次有分無故分亦無。若有分未有時，分不可得，云何有作力？若有分已有者，分力何用？</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">It is settled, because each single part has the power.<span class="sutra-tag">sūtra</span></span> Each thread and each drop has the power, and so together they can restrain the elephant and fill the pot. But a barren woman, a blind man and a grain of sand have no such power in each, and so have none in quantity either. Therefore the matter is settled after all, and you should not use the barren woman, the blind man and the sand as your simile.</p>
+              <p><span class="spk-in">Insider:</span> <span class="sutra-line">Because of the fault of the part and the whole being either one or different.<span class="sutra-tag">sūtra</span></span> Whether the part and the whole are one or different, the fault has been refuted above. Furthermore, since the whole is absent, the parts are absent too. When the whole does not yet exist, the parts are not to be got — so how could they have any productive power? And if the whole already exists, what use is the parts' power?</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The exchange over threads and sand is the best-argued in the chapter, and the Outsider wins the middle round outright.</p>
+          <p>His analogy is that quantity converts capacity into effect: one thread will not hold an elephant, a rope of them will. The Insider's counter-examples are meant to show that quantity alone guarantees nothing — a thousand barren women and a heap of sand yield nothing at all. And the Outsider spots the flaw immediately, in the sharpest reply he makes anywhere in the treatise: those cases fail because the power is <em>absent in each individual</em>. A single thread does have a little tensile strength; a single drop does have a little volume. Sand has no oil in it at all, so no amount of sand yields oil. Multiplying zero gives zero; multiplying something gives more. His distinction is correct.</p>
+          <p>So the Insider abandons that line and returns to the dilemma the chapter has been building, and this is why the atom argument is placed <em>here</em>, after the whole-and-part section rather than before it. The question is no longer whether atoms can accumulate power. It is whether there are atoms — that is, well-defined parts — before there is a whole for them to be parts of. And the answer given is the sentence from the previous section: <span class="zh">有分無故分亦無</span>. Before the pot exists, there is nothing that counts as a part <em>of the pot</em>; and once the pot exists, the parts' power has nothing left to accomplish. The productive moment falls between two times at neither of which it can occur.</p>
+          <p>Note also the promise <span class="zh">後當破</span> — "it will be refuted later." That is a forward reference to <a href="{{ '/sutras/hundred-treatise/part-13/' | relative_url }}">Part 13</a>, where the partless atom is attacked directly and at length: an atom that touches another has sides, an atom distinguishable from space has a boundary, an atom with color and taste has aspects — and anything with parts is impermanent. The floor is not left standing.</p>
+        </div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>9. "You Are a Destroyer of Dharma"</h2>
+        <p>And here the Outsider finally says it. Four chapters of losing arguments to a man who defends no position of his own, and the charge comes out: this is not philosophy, it is vandalism. The reply is one of the two or three most important passages in the treatise, and it ends with the oldest image in Buddhist philosophy.</p>
+        <div class="translation-table">
+          <div class="translation-row">
+            <div class="source">
+              <div class="label">Chinese Source</div>
+              <p>外曰：汝是破法人(修妬路)。世人盡見瓶等諸物，汝種種因緣破，是故汝為破法人。</p>
+            </div>
+            <div class="translation">
+              <div class="label">Ru-Yi Translation</div>
+              <p><span class="spk-out">Outsider:</span> <span class="sutra-line">You are a destroyer of dharma.<span class="sutra-tag">sūtra</span></span> Everyone in the world sees pots and other things, and you refute them by every sort of reasoning. Therefore you are a destroyer of dharma.</p>
+            </div>
+          </div>
+          <div class="translation-row">
+            <div class="source">
+              <p>內曰。不然。汝言有與瓶異，我說若有與瓶異是則無瓶。復次無見有、有見無等(修妬路)。汝與破法人同，乃復過甚。何以故？頭足分等和合現是身，汝言非身，離是已別有有分為身。復次輪軸等和合現為車，汝言離是已別有車。是故汝為妄語人。◎</p>
+            </div>
+            <div class="translation">
+              <p><span class="spk-in">Insider:</span> Not so. It was <em>you</em> who said that being is different from the pot; I said only that if being is different from the pot, then there is no pot. Furthermore, <span class="sutra-line">seeing being where there is none, and seeing none where there is being.<span class="sutra-tag">sūtra</span></span> You are the same as a destroyer of dharma, and worse besides. Why? Head and feet and the other parts, combined, appear as the body — and you say this is not the body, and that apart from it there is some further whole-that-has-parts which is the body. And wheels and axle and the rest, combined, appear as a cart — and you say that apart from this there is some further cart. Therefore you are a speaker of falsehood.</p>
+            </div>
+          </div>
+        </div>
+        <div class="note-box">
+          <div class="who">Reading note — Ru-Yi</div>
+          <p>The first sentence of the reply is the one to memorize, because it states the method of the entire treatise in a single clause: <em>it was you who said being is different from the pot; I said only that</em> if <em>being is different from the pot, then there is no pot.</em></p>
+          <p>Nothing has been asserted. Every destructive result in four chapters has been a conditional whose antecedent the Outsider supplied. The pots were not destroyed by the Insider; they were destroyed by a theory about pots, and the Insider's whole contribution was to carry that theory to its end. This is the point that <a href="{{ '/sutras/hundred-treatise/part-14/' | relative_url }}">Part 14</a> exists to make in full, when the same accusation is made again and answered at length. Here it gets one sentence, and the sentence is enough.</p>
+          <p>Then the counter-charge, and it is not a debating flourish — it is precise. <span class="zh">無見有、有見無</span>: seeing being where there is none, and seeing none where there is being. The Outsider does both. He posits a whole-that-has-parts over and above the assembled limbs, which is seeing something where there is nothing; and he denies that the assembled limbs are the body, which is seeing nothing where there is something. Whatever a destroyer of dharma is, the man who says <em>this assembled thing in front of you is not a body</em> has a stronger claim to the title.</p>
+          <p>And the closing image is the oldest and most famous in Buddhist philosophy. Wheels, axle, frame, pole — put together, and there is a cart; and there is no further cart standing behind them. It is the image the nun Vajirā gives in the earliest strata of the canon, the one Nāgasena uses on King Milinda, and it is doing exactly the same work here that it does there. The point was never that carts are unreal. It is that "cart" is what the assembly is called, not the name of a hidden extra passenger.</p>
+          <p>The mark <span class="zh">◎</span> closes the chapter. What has been established across Chapters Three and Four is a single result reached from both sides: the things of the world are neither identical with what constitutes them nor different from it. Chapters Five and Six now turn from the object to the one perceiving it — first the faculties, then the objects they are supposed to reach.</p>
+        </div>
+        <div class="ending-mark">· · ·</div>
+      </section>
+
+      <section class="fascicle-section">
+        <h2>Part Eight Complete</h2>
+        <p>This closes Part Eight: the three items pulled apart and each one stripped by the separation; the three kinds of difference, and the ruling that difference cannot be proved by difference; the categories that secure distinctness at the price of the pot; the one whose loss takes the many with it; the conjunction that cannot occur because what awaits existence is not yet there to be joined; being as a lamp, caught between redundancy and production; the whole that would put a foot in the head; the atoms that have no work to do before the whole exists and none after; and the charge of destroying dharma, returned with a cart.</p>
+        <p>Part Nine turns the analysis on the perceiver. If a pot cannot be found among its parts, what of the eye that is supposed to see it? The chapter asks a question that sounds like physics and turns out to be about relation: when you see something across a room, does the eye go out to it, or not?</p>
+      </section>
+
+      <nav class="fascicle-pagenav" aria-label="Part navigation">
+        <a class="pn-prev" href="{{ '/sutras/hundred-treatise/part-07/' | relative_url }}"><span class="pn-label">← Previous</span><span class="pn-title">Being, Oneness, and the Pot</span></a>
+        <span class="pn-index"><a href="{{ '/sutras/hundred-treatise/' | relative_url }}">↑ All parts · Hundred Treatise</a></span>
+        <a class="pn-next" href="{{ '/sutras/hundred-treatise/part-09/' | relative_url }}"><span class="pn-label">Next →</span><span class="pn-title">Does the Eye Travel to What It Sees?</span></a>
+      </nav>
+
+    </div>
+  </section>
+</article>
