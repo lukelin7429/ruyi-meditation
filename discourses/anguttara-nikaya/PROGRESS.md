@@ -8,8 +8,8 @@ page, the Threes onward one discourse to a page.
 |---|---:|---:|---:|---|---|
 | AN 1 | 31 | 31 | 0 | 1.1-10–1.616-627 | **complete** |
 | AN 2 | 19 | 19 | 0 | 2.1-10–2.310-479 | **complete** |
-| AN 3 | 158 | 38 | 120 | 3.1–3.35 | 3.36 |
-| AN 4 | 278 | 121 | 157 | 4.1–4.120 | 4.121 |
+| AN 3 | 158 | 43 | 115 | 3.1–3.40 | 3.41 |
+| AN 4 | 278 | 131 | 147 | 4.1–4.130 | 4.131 |
 | AN 5 | 271 | 2 | 269 | — | 5.1 |
 | AN 6 | 125 | 2 | 123 | — | 6.1 |
 | AN 7 | 101 | 1 | 100 | — | 7.1 |
@@ -17,17 +17,17 @@ page, the Threes onward one discourse to a page.
 | AN 9 | 82 | 1 | 81 | — | 9.1 |
 | AN 10 | 211 | 2 | 209 | — | 10.1 |
 | AN 11 | 36 | 1 | 35 | — | 11.1 |
-| **Total** | **1408** | **220** | **1188** | | |
+| **Total** | **1408** | **235** | **1173** | | |
 
-## AN 3 — 120 still to do
+## AN 3 — 115 still to do
 
-Missing: 36–60, 62–64, 66–99, 101–156, 163, 183
+Missing: 41–60, 62–64, 66–99, 101–156, 163, 183
 
 Already published out of order (pre-existing pages): 3.61, 3.65, 3.100
 
-## AN 4 — 157 still to do
+## AN 4 — 147 still to do
 
-Missing: 121–169, 171–277, 304
+Missing: 131–169, 171–277, 304
 
 Already published out of order (pre-existing pages): 4.170
 

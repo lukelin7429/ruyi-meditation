@@ -7960,3 +7960,1319 @@ page(
         "situation Hatthaka is looking at from the outside.",
     ],
 )
+
+
+page(
+    36, "Devadūta", "Messengers of the Gods",
+    vagga=VAGGA_4,
+    meta_title="AN 3.36 — Messengers of the Gods | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Devadūtasutta, which "
+        "gives the chapter its name — King Yama's three questions, the hells, and the one wish "
+        "the lord of the underworld makes for himself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A narrated interrogation in three identical rounds, a passage of punishments, a "
+                 "verse describing the Great Hell, a reported wish, and four closing verses"),
+        ("Length", "~7 minutes to read"),
+        ("Northern parallel", "The discourse of the divine messengers is well represented in the "
+                              "Chinese Madhyama-āgama (T26) and its imagery passed into East Asian "
+                              "art and liturgy through the Ten Kings tradition; the longer Pāli "
+                              "version with five messengers is at MN 130; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; plainly told, and the most "
+                       "graphic discourse in the Threes"),
+    ],
+    why=(
+        "Three messengers are sent among human beings and everybody sees them: an old person, a sick "
+        "person, and a corpse. The discourse imagines the interview that follows for someone who saw "
+        "all three and did nothing. King Yama asks the same question three times, gets the same "
+        "answer three times &mdash; <em>I couldn&rsquo;t, sir. I was negligent</em> &mdash; and then "
+        "falls silent. What comes next is the harshest passage in the Threes. But the discourse ends "
+        "somewhere unexpected: with Yama himself hoping to be reborn as a human being so that he can "
+        "meet a Buddha."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The warnings were not hidden and not rare; they were an old person, a sick person, and a "
+            "corpse, and the only question afterward is what you did about seeing them."]),
+        ("Who the messengers are", [
+            "<em>Devadūta</em> is a messenger or envoy of the gods, and the joke &mdash; if that is "
+            "the word &mdash; is that they are not supernatural at all. The first is an old man or "
+            "woman of eighty, ninety, or a hundred, bent double, leaning on a staff, teeth broken and "
+            "skin blotchy. The second is somebody gravely ill, fallen in their own waste, lifted by "
+            "one person and set down by another. The third is a body two or three days dead, bloated "
+            "and festering.",
+            "Nothing has been sent. These are simply the three things everybody sees, renamed as "
+            "dispatches. The renaming is the entire argument: what looks like the ordinary background "
+            "of human life is treated as a message that has already been delivered, and the recipient "
+            "signed for it.",
+            "MN 130 tells the same story at greater length with five messengers, adding a newborn "
+            "infant at the start and a criminal being punished. The Threes keep the three that "
+            "correspond exactly to the three reflections of AN 3.39, which is the next-but-three "
+            "discourse in this same chapter and the reason the pair should be read together."]),
+        ("What Yama actually does", [
+            "It is worth being precise, because a reader raised on a different underworld will supply "
+            "the wrong picture. Yama does not sentence anybody. He asks a question &mdash; did you "
+            "not see the messenger? &mdash; and when the answer is <em>I saw nothing</em>, he "
+            "describes what was there until the person admits having seen it. Then he asks whether "
+            "the obvious thought followed: <em>I too am liable to grow old; I am not exempt; I had "
+            "better do good.</em>",
+            "The reply each time is <em>I couldn&rsquo;t, sir. I was negligent</em>. <em>Pamāda</em>, "
+            "negligence or heedlessness, is the canon&rsquo;s great single-word diagnosis, and the "
+            "discourse puts it in the person&rsquo;s own mouth rather than in the mouth of the judge.",
+            "Then the crucial sentence, repeated three times: <em>that bad deed wasn&rsquo;t done by "
+            "your mother, father, brother, or sister; it wasn&rsquo;t done by friends and colleagues, "
+            "by relatives and kin, by the deities, or by ascetics and brahmins. That bad deed was "
+            "done by you alone, and you alone will experience the result.</em>",
+            "That list is doing careful work. It rules out inherited guilt, it rules out family "
+            "liability, and by naming deities and ascetics it rules out the transfer of responsibility "
+            "to any religious specialist. Nobody stands between the person and the consequence in "
+            "either direction &mdash; which is also why nobody can intercede.",
+            "And after the third round Yama <em>falls silent</em>. He does not pronounce. The wardens "
+            "act; the king says nothing more."]),
+        ("The hells, and how to read them honestly", [
+            "The punishments are described in detail: the five-fold crucifixion with red-hot stakes "
+            "through hands, feet, and chest; hacking with axes; being harnessed to a chariot and "
+            "driven across burning ground; a mountain of coals; a copper pot in which the person is "
+            "swept up and down and round and round in boiling scum. Then the Great Hell, four-cornered "
+            "and iron-roofed, radiating heat a hundred leagues.",
+            "A modern class will have three objections and they should be met in order rather than "
+            "hurried past.",
+            "First, the sheer cruelty. It is cruel, and the text does not soften it. What can be said "
+            "is what the text itself keeps repeating: <em>they don&rsquo;t die until that bad deed is "
+            "eliminated</em>. The suffering is bounded by the deed rather than by a sentence, and "
+            "when the deed is exhausted the situation ends. Buddhist hells are long and they are not "
+            "eternal, and that is a real structural difference from the doctrine most Western readers "
+            "grew up arguing with.",
+            "Second, proportionality &mdash; can any finite act deserve this? The discourse does not "
+            "argue the point, and pretending otherwise would be dishonest. What it says is that the "
+            "punishment fits the negligence, and the framework it assumes is one of natural "
+            "consequence rather than judicial retribution: nobody chose the sentence, which is "
+            "precisely why Yama has nothing to say after the third question.",
+            "Third, whether any of it is literal. Here the tradition itself argues, and it is worth "
+            "telling a class that the argument is internal rather than a modern embarrassment. "
+            "Vasubandhu, in the Viṃśatikā, uses the wardens of hell as a test case and concludes that "
+            "they are not independent beings at all but appearances thrown up by the kamma of those "
+            "who see them &mdash; a position developed within Buddhist scholasticism, in Sanskrit, "
+            "long before anyone in Europe had an opinion about it."]),
+        ("Yama&rsquo;s wish", [
+            "Then the discourse does something no summary of it ever mentions. King Yama, having "
+            "watched this happen for a very long time, thinks: <em>oh, I hope I may be reborn as a "
+            "human being! And that a Realized One arises in the world! And that I may pay homage to "
+            "the Buddha, so that he can teach me Dhamma, and I may understand his teaching.</em>",
+            "The lord of the underworld wants to be a person, and specifically he wants the one thing "
+            "the people in front of him had and wasted: a human life during which a Buddha is "
+            "available. In one paragraph the discourse converts its own most terrifying figure into "
+            "evidence for its central claim &mdash; that a human birth in which the teaching can be "
+            "heard is the rarest and most valuable position in the cosmos, and that being a king in "
+            "any other realm is worse.",
+            "The Buddha then adds a line that is easy to skip: <em>I don&rsquo;t say this because "
+            "I&rsquo;ve heard it from some other ascetic or brahmin. I only say it because I&rsquo;ve "
+            "known, seen, and realized it for myself.</em> He is aware that he is reporting the inner "
+            "monologue of a mythological king, and he marks the claim as first-hand rather than "
+            "traditional. Whatever one makes of the claim, the discourse is not passing on folklore "
+            "unexamined."]),
+        ("Using it", [
+            "This is a hard text to teach and an easy one to teach badly, in either direction: as "
+            "horror, or as embarrassed allegory. The honest middle is to let the hells be as bad as "
+            "they are, name the three objections, and then point at what the discourse is actually "
+            "built to do, which is not to frighten anybody into belief but to make an ordinary "
+            "observation unavoidable.",
+            "The observation is in Yama&rsquo;s question, and it survives every disagreement about "
+            "cosmology: you have seen an old person, a sick person, and a dead body, and you are not "
+            "exempt from any of the three. The interrogation format simply asks the question that "
+            "nobody asks themselves at the time.",
+            "The closing verses supply the constructive half, and they are the reason the discourse "
+            "is not merely a threat: those warned by the messengers who do not neglect the teaching "
+            "see the peril in grasping, are freed with the ending of birth and death, and are "
+            "<em>quenched in this very life</em>. The point of arrival is not a better rebirth. It is "
+            "safety now."]),
+    ],
+    terms=[
+        ("devadūta",
+         "&ldquo;messenger of the gods&rdquo; &mdash; and the three are an old person, a sick person, "
+         "and a corpse. Nothing is sent; what everyone already sees is renamed as a dispatch."),
+        ("yama",
+         "the king of the underworld, inherited from earlier Indian religion. In this discourse he "
+         "interrogates rather than sentences, and after the third question he falls silent."),
+        ("pamāda",
+         "&ldquo;negligence, heedlessness&rdquo; &mdash; the canon&rsquo;s single-word diagnosis, and "
+         "in this discourse the answer the person gives about themselves rather than the charge laid "
+         "against them."),
+        ("niraya",
+         "&ldquo;hell&rdquo; &mdash; long but not everlasting: the text repeats that the being does "
+         "not die until the bad deed is eliminated, which bounds the suffering by the deed rather "
+         "than by a sentence."),
+        ("mahāniraya",
+         "&ldquo;the Great Hell&rdquo; &mdash; four-cornered, four-doored, walled and roofed in iron, "
+         "radiating heat a hundred leagues, described in a verse the canon quotes in several places."),
+    ],
+    text_intro=(
+        "The discourse in full, including the punishments and the closing verses. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Brought before King Yama"),
+        ("p", "&sect;1", "an3.36:1.1-1.7"),
+        ("h3", "The first messenger"),
+        ("p", "&sect;2&ndash;5", "an3.36:2.1-5.5"),
+        ("h3", "The second"),
+        ("p", "&sect;6&ndash;8", "an3.36:6.1-8.5"),
+        ("h3", "The third"),
+        ("p", "&sect;9&ndash;12", "an3.36:9.1-12.5"),
+        ("h3", "The king falls silent"),
+        ("p", "&sect;13", "an3.36:13.1-13.4"),
+        ("p", "&sect;14&ndash;15", "an3.36:14.1-15.8"),
+        ("p", "&sect;16&ndash;17", "an3.36:16.1-17.4"),
+        ("h3", "What King Yama wants"),
+        ("p", "&sect;18", "an3.36:18.1-18.5"),
+        ("h3", "In verse"),
+        ("p", "&sect;19&ndash;20", "an3.36:19.1-20.4"),
+        ("p", "&sect;21&ndash;22", "an3.36:21.1-22.4"),
+    ],
+    quiz=[
+        {"q": "Who are the three messengers of the gods?",
+         "opts": [
+             "Three deities sent to warn humanity",
+             "An old person, a sick person, and a corpse &mdash; things everybody already sees, renamed as dispatches",
+             "Three past Buddhas",
+             "Yama&rsquo;s three ministers"],
+         "correct": 1,
+         "expl": "Nothing has been sent; the renaming is the entire argument."},
+        {"q": "How does the longer version at MN 130 differ?",
+         "opts": [
+             "It has five messengers, adding a newborn infant and a criminal being punished",
+             "It has only two",
+             "It omits the hells",
+             "It is spoken by Sāriputta"],
+         "correct": 0,
+         "expl": "The Threes keep the three that match the three reflections of AN 3.39."},
+        {"q": "What does King Yama actually do in this discourse?",
+         "opts": [
+             "Pronounces a sentence",
+             "Weighs the person&rsquo;s deeds on a scale",
+             "Asks whether the person saw the messenger, then whether the obvious thought followed &mdash; and after the third round falls silent",
+             "Argues the person&rsquo;s case for them"],
+         "correct": 2,
+         "expl": "The wardens act; the king says nothing more."},
+        {"q": "What answer does the person give each time?",
+         "opts": [
+             "&ldquo;It was not my fault.&rdquo;",
+             "&ldquo;I couldn&rsquo;t, sir. I was negligent.&rdquo;",
+             "&ldquo;I did not know.&rdquo;",
+             "&ldquo;I was following orders.&rdquo;"],
+         "correct": 1,
+         "expl": "<em>Pamāda</em> is put in the person&rsquo;s own mouth rather than in the judge&rsquo;s."},
+        {"q": "What is the long list of people who did not do the deed accomplishing?",
+         "opts": [
+             "Nothing; it is a stock formula",
+             "Ruling out inherited guilt, family liability, and &mdash; by naming deities and ascetics &mdash; the transfer of responsibility to any religious specialist",
+             "Blaming the family after all",
+             "Establishing who should be punished instead"],
+         "correct": 1,
+         "expl": "Nobody stands between the person and the consequence in either direction, which is also why nobody can intercede."},
+        {"q": "What does the text keep repeating about the punishments?",
+         "opts": [
+             "That they last forever",
+             "That they are deserved",
+             "That the being does not die until that bad deed is eliminated &mdash; the suffering is bounded by the deed rather than by a sentence",
+             "That they are symbolic"],
+         "correct": 2,
+         "expl": "Buddhist hells are long and not eternal, which is a real structural difference."},
+        {"q": "How does the guide handle the objection about proportionality?",
+         "opts": [
+             "By claiming the discourse answers it",
+             "By saying the discourse does not argue the point, and that the framework it assumes is natural consequence rather than judicial retribution",
+             "By saying the objection is modern and therefore invalid",
+             "By omitting the passage"],
+         "correct": 1,
+         "expl": "Which is precisely why Yama has nothing to say after the third question."},
+        {"q": "Which Buddhist thinker used the wardens of hell as a test case, and what did he conclude?",
+         "opts": [
+             "Nāgārjuna &mdash; that hells are empty",
+             "Buddhaghosa &mdash; that they are literal",
+             "Vasubandhu, in the Viṃśatikā &mdash; that they are not independent beings but appearances thrown up by the kamma of those who see them",
+             "Zhiyi &mdash; that they are states of mind only"],
+         "correct": 2,
+         "expl": "The argument about literalness is internal to the tradition, not a modern embarrassment."},
+        {"q": "What does King Yama wish for himself?",
+         "opts": [
+             "A larger realm",
+             "To be reborn as a human being, in a world where a Buddha has arisen, so that he can hear and understand the teaching",
+             "To be released from his office",
+             "To become a god of the thirty-three"],
+         "correct": 1,
+         "expl": "The discourse converts its most terrifying figure into evidence that a human birth with a Buddha available is the rarest position in the cosmos."},
+        {"q": "What do the closing verses give as the point of arrival?",
+         "opts": [
+             "A better rebirth",
+             "A shorter time in hell",
+             "Safety now &mdash; the unattached are freed with the ending of birth and death, quenched in this very life",
+             "The favor of the gods"],
+         "correct": 2,
+         "expl": "Which is why the discourse is not merely a threat."},
+    ],
+    marginalia=[
+        ("Three messengers", [
+            "an old person",
+            "a sick person",
+            "a corpse",
+            "&mdash; already delivered",
+        ]),
+        ("The one question", [
+            "&ldquo;did you not see?&rdquo;",
+            "&ldquo;did it not occur to you?&rdquo;",
+            "&ldquo;I was negligent.&rdquo;",
+        ]),
+        ("Nobody else did it", [
+            "not mother or father",
+            "not friends or kin",
+            "not deities",
+            "not ascetics or brahmins",
+        ]),
+        ("Cross-references", [
+            "MN 130 &middot; five messengers",
+            "AN 3.39 &middot; the same three, voluntary",
+            "Viṃśatikā &middot; are the wardens real?",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.36/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-130.html">MN 130 &middot; Messengers of the Gods</a> '
+        "&mdash; the long version, with five messengers instead of three and the hells at greater "
+        "length. Read after this one it shows what the Threes cut and why the number three was worth "
+        "cutting to.",
+        '<a href="an-3.39.html">AN 3.39 &middot; A Delicate Lifestyle</a> &mdash; the necessary '
+        "companion, three discourses later in this same chapter: the young Bodhisatta asking himself "
+        "exactly the question Yama asks, and answering it in time.",
+        '<a href="/sutras/vimsatika/part-01/">Viṃśatikā &middot; Part 1</a> &mdash; where Vasubandhu '
+        "takes the hells as his hardest case: if there is no external world, how do the condemned "
+        "share a fixed place and time and see the same wardens? His answer, that the wardens are "
+        "appearances produced by kamma, is the tradition arguing with itself about how literally to "
+        "read a passage like this one.",
+        '<a href="an-3.34.html">AN 3.34 &middot; Sources</a> &mdash; for the mechanism this discourse '
+        "dramatizes: where deeds come from, and the three times at which a result may be experienced.",
+    ],
+)
+
+
+page(
+    37, "Catumahārāja", "The Four Great Kings (1st)",
+    vagga=VAGGA_4,
+    meta_title="AN 3.37 — The Four Great Kings (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Catumahārājasutta — the "
+        "sabbath inspection of the world by the four great kings, and why Sakka's verse about "
+        "himself was poorly sung. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A three-stage narrative of inspection, two reports with opposite outcomes, a quoted "
+                 "verse, its rejection, and the same verse reassigned"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The sabbath inspection by the four great kings is preserved in the "
+                              "Chinese Āgamas, and the observance days became the 六齋日 of East "
+                              "Asian practice; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; easy to follow, with a sharp turn "
+                       "in the last third"),
+    ],
+    why=(
+        "On the eighth day of the fortnight the ministers of the four great kings walk the world "
+        "counting; on the fourteenth their sons; on the fifteenth the kings themselves. They report "
+        "to the assembled gods, who are pleased or disappointed depending on the numbers. Then Sakka, "
+        "lord of gods, is quoted saying <em>whoever wants to be like me would observe the sabbath</em> "
+        "&mdash; and the Buddha says the verse was poorly sung. The same words are then given to "
+        "somebody entitled to say them. The discourse spends two-thirds of its length building a "
+        "heavenly bureaucracy and the last third pointing out that its chief executive is not worth "
+        "imitating."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Whether &ldquo;be like me&rdquo; is a good thing to say depends entirely on who is "
+            "saying it."]),
+        ("The inspection", [
+            "The four great kings are the guardian deities of the four directions &mdash; familiar to "
+            "anyone who has walked into a Chinese temple past the 四大天王 at the gate. Here they run "
+            "a three-tier survey on the three sabbath days of the fortnight: ministers on the eighth, "
+            "the kings&rsquo; sons on the fourteenth, the kings in person on the fifteenth.",
+            "What they count is precise, and it is the same list AN 3.31 was about: whether people "
+            "are paying due respect to parents, ascetics and brahmins, honoring the elders of their "
+            "families, observing the sabbath, and making merit.",
+            "The reporting scene is worth reading slowly. If the numbers are low the gods of the "
+            "thirty-three are disappointed &mdash; <em>the heavenly hosts will dwindle, while the "
+            "titan hosts will swell</em>. If high, the reverse. The gods are not concerned for human "
+            "welfare here. They are watching their own demographics, since human conduct determines "
+            "who is born into which realm next, and the gods have an ongoing conflict with the titans "
+            "to staff."]),
+        ("Whether to be uneasy about the surveillance", [
+            "A modern reader may find the whole apparatus unattractive: invisible officials walking "
+            "the world on fixed days, checking whether you were good, and filing a report. It reads "
+            "like the celestial bureaucracy of a later Chinese imagination, and in fact it is one of "
+            "the places that imagination came from.",
+            "Two things are worth saying plainly. The first is that the Buddha is using a picture his "
+            "audience already held rather than announcing a discovery; the four great kings and the "
+            "gods of the thirty-three were part of the furniture, and the discourse assumes them "
+            "without arguing for them.",
+            "The second is what he then does with the picture, which is to demolish the standing of "
+            "the being at the top of it. That is the actual content, and it is unfriendly to "
+            "surveillance rather than reliant on it. The related discourse AN 3.40 makes the point "
+            "without any gods at all: what watches you most reliably is you."]),
+        ("Sakka&rsquo;s verse, and its rejection", [
+            "Sakka, lord of the gods of the thirty-three, is quoted encouraging the sabbath complete "
+            "in all eight factors, on the fourteenth, fifteenth, and eighth days of the fortnight, "
+            "and on the special displays. The content is unobjectionable; the Buddha recommends the "
+            "same observance elsewhere.",
+            "&ldquo;But that verse was poorly sung by Sakka, lord of gods, not well sung; poorly "
+            "spoken, not well spoken. Why is that? Sakka, lord of gods, is not free of greed, hate, "
+            "and delusion.&rdquo;",
+            "The defect is not in the recommendation. It is in the first two words. <em>Whoever wants "
+            "to be like me</em> converts a piece of good advice into an offer of a model, and Sakka "
+            "is not one. A being who still has the three roots intact may say true things, and this "
+            "is a true thing, but he may not hold himself up as the destination.",
+            "Then the identical verse is given to a mendicant who is perfected &mdash; defilements "
+            "ended, burden laid down, rightly freed through enlightenment &mdash; and it becomes "
+            "appropriate, for the reason stated with the same flatness: <em>because that mendicant is "
+            "free of greed, hate, and delusion</em>. Not because the monastic outranks the god, but "
+            "because in the one respect the sentence depends on, the monastic has finished and the "
+            "god has not."]),
+        ("The eight-factored sabbath", [
+            "The observance in question is the <em>uposatha</em> kept with eight factors: the five "
+            "precepts, with the third tightened from misconduct to celibacy, plus abstention from "
+            "eating at the wrong time, from entertainment and adornment, and from high and luxurious "
+            "beds. Laypeople take it for a day and a night, on the days named here.",
+            "East Asian Buddhism inherited the practice as the 八關齋戒 and the days as the 六齋日, "
+            "still marked in temple calendars. A class in Taiwan is likely to have relatives who keep "
+            "them, and this discourse is where the schedule is set out in Pāli.",
+            "It is worth noticing that the sabbath is one of the five items the kings are counting, "
+            "and that all five are things a layperson does. The heavenly census is not measuring "
+            "meditation or insight. It is measuring whether ordinary households look after their "
+            "parents and keep a day."]),
+        ("Using it", [
+            "Teach it for the reversal at the end, which is unusually clean. The class hears an "
+            "unimpeachable piece of religious advice, agrees with it, and then watches the Buddha "
+            "reject it on grounds that have nothing to do with its content.",
+            "The transferable question is a good one for teachers in particular: what makes someone "
+            "entitled to say <em>do as I do</em>? This discourse gives an answer with no wiggle room "
+            "&mdash; that the speaker has actually finished the thing they are recommending &mdash; "
+            "and it applies the test to a god rather than to a person, which makes it easier to "
+            "discuss without anyone in the room feeling accused.",
+            "AN 3.38, the next discourse, repeats the whole exchange and changes the reason. Read "
+            "them together and the pair says something neither says alone."]),
+    ],
+    terms=[
+        ("cattāro mahārājāno",
+         "&ldquo;the four great kings&rdquo; &mdash; guardian deities of the four directions, the "
+         "四大天王 who stand inside the gate of a Chinese temple. Here they run a three-tier survey of "
+         "human conduct."),
+        ("uposatha",
+         "the sabbath, observed on the eighth, fourteenth, and fifteenth days of the fortnight. Kept "
+         "by laypeople with eight factors, it became the 八關齋戒 of East Asian practice."),
+        ("aṭṭhaṅgasamannāgata",
+         "&ldquo;complete in all eight factors&rdquo; &mdash; the five precepts with celibacy in "
+         "place of the third, plus abstention from untimely eating, from entertainment and adornment, "
+         "and from luxurious beds."),
+        ("sakka devānaminda",
+         "&ldquo;Sakka, lord of gods&rdquo; &mdash; ruler of the thirty-three, a devout figure "
+         "throughout the canon, and here the one whose verse is judged poorly sung."),
+        ("dubbhāsita",
+         "&ldquo;poorly spoken&rdquo; &mdash; the verdict on the verse. The judgment falls on the "
+         "speaker&rsquo;s standing to say it, not on what was said."),
+    ],
+    text_intro=(
+        "The discourse in full, with Sakka&rsquo;s verse given twice. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The inspection"),
+        ("p", "&sect;1", "an3.37:1.1-1.6"),
+        ("p", "&sect;2", "an3.37:2.1-2.5"),
+        ("p", "&sect;3", "an3.37:3.1-3.5"),
+        ("h3", "Sakka&rsquo;s verse"),
+        ("p", "&sect;4&ndash;5", "an3.37:4.1-5.6"),
+        ("p", "&sect;6", "an3.37:6.1-6.3"),
+        ("h3", "The same verse, reassigned"),
+        ("p", "&sect;7&ndash;9", "an3.37:7.1-9.2"),
+    ],
+    quiz=[
+        {"q": "Who inspects the world, and on which days?",
+         "opts": [
+             "The four great kings only, on the full moon",
+             "Their ministers on the eighth, their sons on the fourteenth, and the kings themselves on the fifteenth",
+             "Sakka, every day",
+             "The gods of the thirty-three, once a year"],
+         "correct": 1,
+         "expl": "A three-tier survey on the three sabbath days of the fortnight."},
+        {"q": "What are they counting?",
+         "opts": [
+             "How many people meditate",
+             "How many monastics have been ordained",
+             "Whether people respect parents, ascetics and brahmins, honor family elders, observe the sabbath, and make merit",
+             "How many temples have been built"],
+         "correct": 2,
+         "expl": "All five are things a layperson does; the census is not measuring insight."},
+        {"q": "Why are the gods pleased or disappointed by the report?",
+         "opts": [
+             "Out of concern for human welfare",
+             "Because human conduct determines who is born where next &mdash; the heavenly hosts swell or dwindle while the titan hosts do the opposite",
+             "Because they are judged on the numbers",
+             "Because they wager on the outcome"],
+         "correct": 1,
+         "expl": "The gods are watching their own demographics."},
+        {"q": "Where does a reader in Taiwan already meet the four great kings?",
+         "opts": [
+             "In the 四大天王 standing inside a Chinese temple gate",
+             "In the Vinaya",
+             "Only in Pāli texts",
+             "In the Heart Sutra"],
+         "correct": 0,
+         "expl": "The discourse assumes a picture its audience already held."},
+        {"q": "What does Sakka&rsquo;s verse recommend?",
+         "opts": [
+             "Meditation retreats",
+             "Observing the sabbath complete in all eight factors, on the fourteenth, fifteenth, and eighth days",
+             "Giving to the gods",
+             "Ordination"],
+         "correct": 1,
+         "expl": "The content is unobjectionable; the Buddha recommends the same observance elsewhere."},
+        {"q": "What is the Buddha&rsquo;s verdict on that verse, and why?",
+         "opts": [
+             "Well sung, because the advice is correct",
+             "Poorly sung, because the advice is wrong",
+             "Poorly sung, because Sakka is not free of greed, hate, and delusion",
+             "Poorly sung, because a god should not address humans"],
+         "correct": 2,
+         "expl": "The judgment falls on the speaker&rsquo;s standing, not on what was said."},
+        {"q": "Which part of the verse is the defect actually in?",
+         "opts": [
+             "The list of days",
+             "The eight factors",
+             "The first two words &mdash; &ldquo;whoever wants to be like me&rdquo; converts good advice into an offer of a model",
+             "The meter"],
+         "correct": 2,
+         "expl": "A being with the three roots intact may say true things but may not hold himself up as the destination."},
+        {"q": "Who is then given the same words?",
+         "opts": [
+             "The Buddha himself",
+             "A perfected mendicant &mdash; defilements ended, burden laid down, rightly freed through enlightenment",
+             "The four great kings",
+             "A lay disciple"],
+         "correct": 1,
+         "expl": "Not because the monastic outranks the god, but because in the one respect the sentence depends on, the monastic has finished."},
+        {"q": "What does the eight-factored sabbath consist of?",
+         "opts": [
+             "Eight hours of meditation",
+             "The five precepts with celibacy in place of the third, plus no untimely eating, no entertainment or adornment, and no luxurious beds",
+             "Eight days of fasting",
+             "The eightfold path recited"],
+         "correct": 1,
+         "expl": "Kept by laypeople for a day and a night, and inherited in East Asia as the 八關齋戒."},
+        {"q": "What question does the guide draw out for teachers?",
+         "opts": [
+             "How often to hold retreats",
+             "Which days are auspicious",
+             "What makes someone entitled to say &ldquo;do as I do&rdquo; &mdash; answered here as: that the speaker has actually finished the thing they are recommending",
+             "Whether gods exist"],
+         "correct": 2,
+         "expl": "And the test is applied to a god, which makes it easier to discuss without anyone feeling accused."},
+    ],
+    marginalia=[
+        ("Three days, three ranks", [
+            "8th &middot; the ministers",
+            "14th &middot; the kings&rsquo; sons",
+            "15th &middot; the kings themselves",
+        ]),
+        ("What is counted", [
+            "respect for parents",
+            "respect for ascetics and brahmins",
+            "honoring family elders",
+            "keeping the sabbath &middot; making merit",
+        ]),
+        ("The verdict", [
+            "<span class=\"pali\">dubbhāsita</span>poorly spoken",
+            "not: the advice is wrong",
+            "but: he is not free of the three roots",
+        ]),
+        ("Cross-references", [
+            "AN 3.38 &middot; same verse, new reason",
+            "AN 3.31 &middot; the list being counted",
+            "AN 3.40 &middot; what watches you instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.37/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.38.html">AN 3.38 &middot; The Four Great Kings (2nd)</a> &mdash; the same '
+        "exchange with the reason changed, and the discourse this one has to be read with.",
+        '<a href="/sutras/upasaka-precepts-sutra/chapter-21/">Sutra on Upasaka Precepts &middot; '
+        "Chapter 21</a> &mdash; a Chinese Mahāyāna treatment of the same observance, where Shansheng "
+        "asks what reward the three refuges and the eight-precept fast actually bring and gets an "
+        "answer measured against four kingdoms&rsquo; worth of treasure.",
+        '<a href="an-3.31.html">AN 3.31 &middot; With Divinity</a> &mdash; for the first item on the '
+        "kings&rsquo; checklist, treated at length six discourses earlier in this chapter.",
+    ],
+)
+
+
+page(
+    38, "Dutiyacatumahārāja", "The Four Great Kings (2nd)",
+    vagga=VAGGA_4,
+    meta_title="AN 3.38 — The Four Great Kings (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Catumahārājasutta — the same verse of Sakka's rejected again, this time for a different "
+        "reason. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A quoted verse, its rejection, the same verse reassigned, with one clause changed "
+                 "throughout"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material on the limits of Sakka&rsquo;s standing appears in "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; almost identical to AN 3.37, and "
+                       "the difference is the whole discourse"),
+    ],
+    why=(
+        "The same verse, the same verdict, the same reassignment &mdash; and a different reason. In "
+        "AN 3.37 Sakka may not say <em>be like me</em> because he still has greed, hate, and delusion. "
+        "Here it is because he is not exempt from rebirth, old age, and death, from sorrow, "
+        "lamentation, pain, sadness, and distress. The Threes rarely repeat a discourse this closely, "
+        "and when they do the variable is the point."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The lord of the gods cannot be a model, and there are two separate reasons why, either "
+            "of which is enough."]),
+        ("What has changed", [
+            "The narrative frame is gone: no inspection, no ministers, no census. The discourse opens "
+            "directly with Sakka&rsquo;s verse and moves straight to the verdict, which means the "
+            "reader is meant to arrive already knowing AN 3.37 and to notice one clause.",
+            "In AN 3.37 the disqualifier was <em>not free of greed, hate, and delusion</em> &mdash; a "
+            "statement about what is still present in Sakka. Here it is <em>not exempt from rebirth, "
+            "old age, and death, from sorrow, lamentation, pain, sadness, and distress; he is not "
+            "exempt from suffering</em> &mdash; a statement about what is still going to happen to "
+            "him.",
+            "The two are related but not the same. The first names a defilement; the second names a "
+            "predicament. A being could in principle be told that his mind is impure, which is a "
+            "reproach, or that his situation is unresolved, which is not. The second discourse chooses "
+            "the second and it is noticeably gentler in tone while being no less final."]),
+        ("Why it matters that it is Sakka", [
+            "Sakka is not a foil. Throughout the canon he is the most devout of the gods: he asks the "
+            "Buddha questions, he is a stream-enterer by some accounts, and he is generally on the "
+            "right side of every story he appears in. The verse quoted here is him doing his job "
+            "well, encouraging observance among the gods.",
+            "Choosing him is what makes the point general. If the discourse had disqualified a wicked "
+            "deity it would have said nothing. Disqualifying the best available god says that the "
+            "issue is structural: as long as birth, aging, and death are still ahead of you, you are "
+            "not a destination, however admirable you are and however good your advice is.",
+            "It also quietly settles the question of where the gods sit in this religion. They are "
+            "real, they are powerful, they are worth being polite to, and they are fellow travelers "
+            "with unfinished business. The distance from that to worship is not a short one."]),
+        ("The one who may say it", [
+            "The perfected mendicant gets the verse, with the qualification stated in the same terms: "
+            "<em>because that mendicant is exempt from rebirth, old age, and death, from sorrow, "
+            "lamentation, pain, sadness, and distress. He is exempt from suffering, I say.</em>",
+            "The phrase <em>I say</em>, <em>vadāmi</em>, is doing something. This is a claim the "
+            "Buddha is making on his own authority about somebody else&rsquo;s condition, and the "
+            "canon marks such claims rather than leaving them impersonal.",
+            "The list of what the mendicant is exempt from is the standard formula for suffering in "
+            "the first noble truth, given in full. So the credential being asserted is not seniority, "
+            "learning, or virtue. It is having finished with the thing the whole teaching is about."]),
+        ("Reading the pair", [
+            "Together the two discourses give a complete answer to a question people ask constantly "
+            "in religious life: who is worth following? The answer comes in two parts, and either is "
+            "sufficient to disqualify.",
+            "Is there still greed, hate, or delusion in this person? Then their advice may be sound "
+            "and their example is not. Is this person still subject to aging, sickness, sorrow, and "
+            "death in the way everybody is? Then whatever they have, it is not the thing that solves "
+            "that.",
+            "The test is severe enough that almost nobody passes it, which is the intended effect. "
+            "The canon&rsquo;s standing recommendation to laypeople is not to find a perfected teacher "
+            "but to rely on the teaching, examine it, and keep good company &mdash; see AN 3.65, "
+            "later in this chapter of the collection, for the fullest statement of that."]),
+        ("Using it", [
+            "Teach the two discourses as one lesson. Read AN 3.37 in full, then read AN 3.38 aloud "
+            "and ask a class to find the change; it takes about thirty seconds and they will remember "
+            "the point far longer than if they were told it.",
+            "Then the harder question, which is the reason the pair exists: why would the compilers "
+            "keep two versions differing by one clause? Because the disqualification is not a single "
+            "fact about Sakka but a class of facts, and the discourse is showing the class by giving "
+            "two of its members."]),
+    ],
+    terms=[
+        ("aparimutta",
+         "&ldquo;not exempt, not freed from&rdquo; &mdash; the word that replaces AN 3.37&rsquo;s "
+         "&ldquo;not free of greed, hate, and delusion.&rdquo; It names a predicament rather than a "
+         "defilement."),
+        ("jātijarāmaraṇa",
+         "&ldquo;rebirth, old age, and death&rdquo; &mdash; the opening of the standard formula for "
+         "suffering, given here in full as the thing Sakka has not got past."),
+        ("sokaparidevadukkhadomanassupāyāsa",
+         "&ldquo;sorrow, lamentation, pain, sadness, and distress&rdquo; &mdash; the rest of that "
+         "formula, familiar from the first noble truth."),
+        ("khīṇāsava",
+         "&ldquo;with defilements ended&rdquo; &mdash; the first item in the standard description of "
+         "a perfected one, the being who may say &ldquo;be like me.&rdquo;"),
+        ("vadāmi",
+         "&ldquo;I say&rdquo; &mdash; the Buddha marking a claim as made on his own authority. The "
+         "canon uses it where a statement about another being&rsquo;s condition is being asserted "
+         "rather than reported."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sakka&rsquo;s verse"),
+        ("p", "&sect;1&ndash;2", "an3.38:1.1-2.6"),
+        ("p", "&sect;3", "an3.38:3.1-3.3"),
+        ("h3", "The same verse, reassigned"),
+        ("p", "&sect;4&ndash;5", "an3.38:4.1-5.6"),
+        ("p", "&sect;6", "an3.38:6.1-6.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from AN 3.37?",
+         "opts": [
+             "The verse is different",
+             "The narrative frame is gone and the reason for the verdict has changed",
+             "Sakka is praised instead",
+             "It is spoken by Ānanda"],
+         "correct": 1,
+         "expl": "The reader is meant to arrive already knowing AN 3.37 and to notice one clause."},
+        {"q": "What is the disqualifying reason here?",
+         "opts": [
+             "That Sakka is not free of greed, hate, and delusion",
+             "That Sakka is not exempt from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress",
+             "That Sakka is a god rather than a human",
+             "That the verse is badly composed"],
+         "correct": 1,
+         "expl": "A statement about what is still going to happen to him, rather than about what is still present in him."},
+        {"q": "How does the guide distinguish the two reasons?",
+         "opts": [
+             "The first names a defilement; the second names a predicament",
+             "The first is about speech; the second about action",
+             "The first applies to gods; the second to humans",
+             "They are identical"],
+         "correct": 0,
+         "expl": "The second is noticeably gentler in tone while being no less final."},
+        {"q": "Why does it matter that the figure disqualified is Sakka?",
+         "opts": [
+             "Because he is a wicked deity",
+             "Because he is the most devout of the gods, generally on the right side of every story &mdash; so disqualifying him makes the point structural rather than personal",
+             "Because he is unknown to the audience",
+             "Because he opposes the Buddha"],
+         "correct": 1,
+         "expl": "If the discourse had disqualified a wicked deity it would have said nothing."},
+        {"q": "What does the pair settle about the status of gods in this religion?",
+         "opts": [
+             "That they do not exist",
+             "That they are to be worshiped",
+             "That they are real, powerful, worth being polite to, and fellow travelers with unfinished business",
+             "That they are metaphors for mental states"],
+         "correct": 2,
+         "expl": "The distance from that to worship is not a short one."},
+        {"q": "What credential does the perfected mendicant have?",
+         "opts": [
+             "Seniority",
+             "Learning",
+             "Being exempt from rebirth, old age, and death and from the rest of the standard formula for suffering",
+             "Ordination in the right lineage"],
+         "correct": 2,
+         "expl": "Having finished with the thing the whole teaching is about."},
+        {"q": "What is the guide&rsquo;s point about the word <em>vadāmi</em>, &ldquo;I say&rdquo;?",
+         "opts": [
+             "It is filler",
+             "It marks the claim as made on the Buddha&rsquo;s own authority rather than left impersonal",
+             "It indicates verse",
+             "It signals doubt"],
+         "correct": 1,
+         "expl": "The canon marks claims about another being&rsquo;s condition."},
+        {"q": "What complete answer do the two discourses give together?",
+         "opts": [
+             "Which days to observe",
+             "Who is worth following &mdash; in two parts, either of which is enough to disqualify",
+             "How to address a god",
+             "How many gods there are"],
+         "correct": 1,
+         "expl": "Still defiled: sound advice, bad example. Still subject to aging and death: whatever they have does not solve that."},
+        {"q": "What does the guide say about how severe that test is?",
+         "opts": [
+             "That it is easily met",
+             "That almost nobody passes it, which is the intended effect &mdash; the canon&rsquo;s standing advice is to rely on the teaching, examine it, and keep good company",
+             "That it applies only to gods",
+             "That it should be relaxed for teachers"],
+         "correct": 1,
+         "expl": "AN 3.65 later in this collection gives the fullest statement of that advice."},
+        {"q": "Why would the compilers keep two versions differing by one clause?",
+         "opts": [
+             "Scribal accident",
+             "To pad the chapter",
+             "Because the disqualification is a class of facts rather than a single fact, and two members of the class show the class",
+             "Because the first version was lost"],
+         "correct": 2,
+         "expl": "Which is why the pair says something neither says alone."},
+    ],
+    marginalia=[
+        ("One clause, changed", [
+            "AN 3.37 &middot; not free of the three roots",
+            "AN 3.38 &middot; not exempt from birth, aging, death",
+            "&mdash; defilement vs. predicament",
+        ]),
+        ("Who Sakka is", [
+            "lord of the thirty-three",
+            "the most devout of the gods",
+            "&mdash; and still not a destination",
+        ]),
+        ("The credential", [
+            "<span class=\"pali\">khīṇāsava</span>defilements ended",
+            "burden laid down",
+            "exempt from suffering, &ldquo;I say&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.37 &middot; the first version",
+            "AN 3.65 &middot; how to judge a teaching",
+            "AN 3.35 &middot; what a perfected one claims",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.38/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.37.html">AN 3.37 &middot; The Four Great Kings (1st)</a> &mdash; the first '
+        "version, with the heavenly inspection that this one drops. The pair is a single lesson.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the '
+        "famous discourse later in this collection on how to judge a teaching when you cannot judge "
+        "the teacher, which is the practical problem this discourse leaves you with.",
+        '<a href="an-3.35.html">AN 3.35 &middot; With Hatthaka</a> &mdash; for what a perfected one '
+        "does claim about their own condition, stated in the same flat third person.",
+    ],
+)
+
+
+page(
+    39, "Sukhumāla", "A Delicate Lifestyle",
+    vagga=VAGGA_4,
+    meta_title="AN 3.39 — A Delicate Lifestyle | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sukhumālasutta — the "
+        "Buddha's own account of the three palaces, the white parasol, and the three vanities he "
+        "gave up before he left. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", "The Buddha, speaking about his own life before awakening"),
+        ("Form", "An autobiographical description, three parallel reflections, a definition of three "
+                 "vanities, and five closing verses"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The account of the Bodhisatta&rsquo;s three palaces and the three "
+                              "intoxications is preserved in the Chinese Āgamas and became the basis "
+                              "of the later legend of the four sights; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the most personal discourse in "
+                       "the Threes, and the plainest"),
+    ],
+    why=(
+        "&ldquo;My lifestyle was delicate, mendicants, most delicate, extremely delicate.&rdquo; What "
+        "follows is the Buddha&rsquo;s own inventory of his father&rsquo;s house: lotus ponds stocked "
+        "in three colors for his benefit, sandalwood and cloth from Kāsi, a white parasol held over "
+        "him night and day, three houses for three seasons. And then the reflection that ended it "
+        "&mdash; not a vision, not an encounter arranged by gods, but a young man noticing that when "
+        "he saw an old person he was disgusted, and that he had no standing to be."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The disgust an ordinary person feels at age, sickness, and death is a claim to be exempt "
+            "from them, and nobody has that standing."]),
+        ("The inventory, and why it is given", [
+            "The details are specific and slightly odd, which is a mark in their favor: lotus ponds "
+            "with blue water lilies in one, pink and white lotuses in another, all for one person. "
+            "Sandalwood from Kāsi, and turbans, jackets, sarongs, and upper robes from Kāsi too. A "
+            "white parasol held over him night and day so that <em>cold, heat, grass, dust, or "
+            "damp</em> should not bother him. Three stilt longhouses for winter, summer, and the "
+            "rains, and four months in one of them without coming downstairs.",
+            "The purpose of the inventory is comparative. It establishes that the person about to "
+            "renounce everything had a maximal amount to renounce, and it establishes that nothing "
+            "in the list worked. The parasol keeps off dust; the discourse is about what it does not "
+            "keep off.",
+            "Two details deserve to be named rather than skated over. The musicians who entertained "
+            "him were <em>none of them men</em>, and the passage about servants compares his "
+            "father&rsquo;s household &mdash; where staff got fine rice with meat &mdash; against "
+            "other houses where they got rough gruel with false black pepper. The first is a rich "
+            "man&rsquo;s pleasure quarter described without comment; the second is a boast about "
+            "generous provisioning that simultaneously records that bondservants elsewhere ate badly.",
+            "Both belong to a world with slavery in it and with women as furnishing in it, and the "
+            "discourse is not examining either. It is worth telling a class that plainly. What the "
+            "discourse does with the household is not to defend it but to establish it as the best "
+            "case, and then report that the best case failed &mdash; which is a use of the material "
+            "that does not depend on approving of any of it."]),
+        ("The three reflections", [
+            "Each has an identical structure, and the structure is the argument. An unlearned "
+            "ordinary person, <em>who is liable to grow old, not being exempt from old age</em>, sees "
+            "someone else who is old and is horrified, repelled, and disgusted &mdash; "
+            "<em>overlooking the fact that they themselves are in the same situation</em>. Then: "
+            "since I too am liable to grow old, <em>it would not be appropriate for me</em> to be "
+            "disgusted.",
+            "Notice that the objection is not that disgust is unkind. The objection is that it is "
+            "false. Disgust at an old person is a performance of not being one, and the performance "
+            "is a lie about the performer. The word Sujato renders as &ldquo;it would not be "
+            "appropriate&rdquo; is doing the work of a logical <em>therefore</em>.",
+            "That matters for how the discourse reads today. A modern reader will hear the description "
+            "of the old, the sick, and the dead as unkind &mdash; horrified, repelled, disgusted &mdash; "
+            "and it is worth pointing out that these are the ordinary person&rsquo;s reactions being "
+            "diagnosed, not the discourse&rsquo;s attitude. The whole passage exists in order to say "
+            "that the reaction is unwarranted, and the reason given is not that the old deserve "
+            "respect but that the person recoiling is looking at their own future."]),
+        ("Three vanities", [
+            "<em>Mada</em> is intoxication, and it gets rendered as vanity, pride, or conceit "
+            "depending on the translator. The three are the vanity of youth, of health, and of life.",
+            "They are not the same as vanity about appearance. Each is an assumed exemption: the "
+            "background sense that aging happens to other people, that illness is something one "
+            "recovers from as a matter of course, that death is a fact about the world rather than an "
+            "appointment. The discourse is precise that these are intoxications, meaning that they "
+            "distort judgment without being noticed.",
+            "The consequences given are two, and the second is unexpected. Intoxicated with any of "
+            "the three, an ordinary person does bad things by body, speech, and mind and is reborn "
+            "badly. And then: intoxicated with youth, health, or life, <em>a mendicant disavows the "
+            "training and returns to a lesser life</em>. Same intoxication, two different failures, "
+            "and the monastic one is disrobing. It is the discourse&rsquo;s quiet acknowledgment that "
+            "the three vanities do not stop at the monastery gate."]),
+        ("What this discourse is not", [
+            "This is the canonical version of the story everybody knows, and it is worth showing a "
+            "class exactly how much of the familiar version is not here.",
+            "There are no gods arranging encounters. There is no chariot ride outside the palace, no "
+            "charioteer explaining what an old man is, no father conspiring to hide reality, no "
+            "fourth sight of a serene renunciant. The Bodhisatta is not shielded from knowledge of "
+            "aging: he has clearly seen old, sick, and dead people, and the discourse&rsquo;s "
+            "complaint is about his reaction to them, not his ignorance of them.",
+            "What is here is smaller and much more usable: a young man with everything notices that "
+            "his response to other people&rsquo;s aging is disgust, works out that the response is "
+            "incoherent, and loses his intoxication. The elaborate legend grew later, and it is a "
+            "good legend; but it makes the turning point an accident of exposure, and the discourse "
+            "makes it an act of thinking.",
+            "The verses close in the first person and end the story where the legend does: <em>zeal "
+            "sprang up in me as I looked to extinguishment. Now I&rsquo;m unable to indulge in "
+            "sensual pleasures; there&rsquo;s no turning back.</em>"]),
+        ("Using it", [
+            "Read this immediately after AN 3.36. Yama&rsquo;s question to the person in hell is "
+            "<em>did it not occur to you &mdash; I too am liable to grow old &mdash; I had better do "
+            "good?</em> and the answer is <em>I was negligent.</em> AN 3.39 is the same question, "
+            "asked in time, by somebody who answered it. Three discourses apart, in the same chapter, "
+            "and almost certainly on purpose.",
+            "For a class of teachers the useful frame is the diagnosis of disgust. Everyone has felt "
+            "the recoil the discourse describes, in a hospital corridor or on a bus, and most people "
+            "have filed it under compassion fatigue or squeamishness. This text files it under a "
+            "false claim about oneself, and the reframing does more work in a lesson than any amount "
+            "of exhortation to be kind."]),
+    ],
+    terms=[
+        ("sukhumāla",
+         "&ldquo;delicate, refined, softly raised&rdquo; &mdash; the word the Buddha applies to his "
+         "own upbringing three times over in the opening line."),
+        ("mada",
+         "&ldquo;intoxication&rdquo; &mdash; rendered vanity or pride. The three are of youth, of "
+         "health, and of life, and each is an assumed exemption that distorts judgment without being "
+         "noticed."),
+        ("assutavā puthujjana",
+         "&ldquo;unlearned ordinary person&rdquo; &mdash; the canon&rsquo;s standard term for the "
+         "untrained majority, used here for the one who is disgusted by age and sickness."),
+        ("na kallaṁ",
+         "&ldquo;it would not be appropriate&rdquo; &mdash; the pivot of all three reflections. The "
+         "objection to disgust is that it is unwarranted, not that it is unkind."),
+        ("sikkhaṁ paccakkhāya hīnāyāvattati",
+         "&ldquo;disavows the training and returns to a lesser life&rdquo; &mdash; the formula for "
+         "disrobing, named here as what the three vanities do to a monastic."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "My father&rsquo;s house"),
+        ("p", "&sect;1", "an3.39:1.1-1.6"),
+        ("p", "&sect;2", "an3.39:2.1-2.3"),
+        ("h3", "Three reflections"),
+        ("p", "&sect;3", "an3.39:3.1-3.4"),
+        ("p", "&sect;4", "an3.39:4.1-4.3"),
+        ("p", "&sect;5", "an3.39:5.1-5.3"),
+        ("h3", "Three vanities"),
+        ("p", "&sect;6", "an3.39:6.1-6.8"),
+        ("p", "&sect;7", "an3.39:7.1"),
+        ("h3", "In verse"),
+        ("p", "&sect;8&ndash;9", "an3.39:8.1-9.4"),
+        ("p", "&sect;10&ndash;12", "an3.39:10.1-12.4"),
+    ],
+    quiz=[
+        {"q": "How does the discourse open?",
+         "opts": [
+             "With a question from a monk",
+             "With the Buddha&rsquo;s own words: &ldquo;My lifestyle was delicate, mendicants, most delicate, extremely delicate.&rdquo;",
+             "With a description of hell",
+             "With Sakka&rsquo;s verse"],
+         "correct": 1,
+         "expl": "The most personal discourse in the Threes."},
+        {"q": "What is the purpose of the inventory of his father&rsquo;s house?",
+         "opts": [
+             "To praise his family",
+             "To establish that the person about to renounce everything had a maximal amount to renounce &mdash; and that nothing in the list worked",
+             "To explain his later poverty",
+             "To describe royal customs"],
+         "correct": 1,
+         "expl": "The parasol keeps off dust; the discourse is about what it does not keep off."},
+        {"q": "How does the guide treat the musicians and the passage about servants?",
+         "opts": [
+             "By omitting them",
+             "By defending them as cultural",
+             "By naming plainly that both belong to a world with slavery and with women as furnishing in it, which the discourse does not examine &mdash; while noting that its use of the household does not depend on approving of any of it",
+             "By claiming they are later additions"],
+         "correct": 2,
+         "expl": "The household is established as the best case, and the best case failed."},
+        {"q": "What is the objection to being disgusted at an old person?",
+         "opts": [
+             "That it is unkind",
+             "That it is impolite",
+             "That it is false &mdash; disgust is a performance of not being one, and the performance is a lie about the performer",
+             "That the old cannot help it"],
+         "correct": 2,
+         "expl": "&ldquo;It would not be appropriate&rdquo; is doing the work of a logical <em>therefore</em>."},
+        {"q": "Whose reactions are being described as horrified, repelled, and disgusted?",
+         "opts": [
+             "The discourse&rsquo;s own attitude to the old and sick",
+             "The unlearned ordinary person&rsquo;s &mdash; being diagnosed, not endorsed",
+             "The Buddha&rsquo;s, before awakening",
+             "The gods&rsquo;"],
+         "correct": 1,
+         "expl": "The whole passage exists to say the reaction is unwarranted."},
+        {"q": "What are the three vanities?",
+         "opts": [
+             "Wealth, beauty, and fame",
+             "Youth, health, and life",
+             "Birth, caste, and learning",
+             "Strength, skill, and knowledge"],
+         "correct": 1,
+         "expl": "<em>Mada</em> is intoxication: each is an assumed exemption that distorts judgment without being noticed."},
+        {"q": "What second consequence does the discourse name, beyond bad rebirth?",
+         "opts": [
+             "Illness",
+             "Poverty",
+             "That an intoxicated mendicant disavows the training and returns to a lesser life",
+             "Loss of memory"],
+         "correct": 2,
+         "expl": "The discourse&rsquo;s quiet acknowledgment that the three vanities do not stop at the monastery gate."},
+        {"q": "What familiar elements of the legend are absent here?",
+         "opts": [
+             "The three palaces",
+             "The white parasol",
+             "Gods arranging encounters, the chariot ride, the charioteer&rsquo;s explanations, the conspiring father, and the fourth sight of a renunciant",
+             "The three vanities"],
+         "correct": 2,
+         "expl": "The Bodhisatta has clearly seen old, sick, and dead people; the complaint is about his reaction, not his ignorance."},
+        {"q": "How does the guide contrast the legend with the discourse?",
+         "opts": [
+             "The legend is false and the discourse true",
+             "The legend makes the turning point an accident of exposure; the discourse makes it an act of thinking",
+             "They are the same story",
+             "The discourse is later"],
+         "correct": 1,
+         "expl": "Smaller, and much more usable."},
+        {"q": "Which discourse does the guide say this should be read against?",
+         "opts": [
+             "AN 3.36, where Yama asks the same question of someone who answered &ldquo;I was negligent&rdquo;",
+             "AN 3.30, on three kinds of listener",
+             "AN 3.1, on perils",
+             "AN 3.21, on three individuals"],
+         "correct": 0,
+         "expl": "Three discourses apart, in the same chapter, and almost certainly on purpose."},
+    ],
+    marginalia=[
+        ("The house", [
+            "lotus ponds in three colors",
+            "sandalwood and cloth from Kāsi",
+            "a white parasol, night and day",
+            "three houses, three seasons",
+        ]),
+        ("Three vanities", [
+            "<span class=\"pali\">mada</span>intoxication",
+            "of youth",
+            "of health",
+            "of life",
+        ]),
+        ("The reflection", [
+            "they are disgusted",
+            "overlooking that they are the same",
+            "&mdash; &ldquo;it would not be appropriate for me&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.36 &middot; the question, asked too late",
+            "MN 26 &middot; the going forth",
+            "AN 3.35 &middot; comfort that does not reach",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.39/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.36.html">AN 3.36 &middot; Messengers of the Gods</a> &mdash; the same three '
+        "facts, put as an interrogation after death. Yama&rsquo;s question and the Bodhisatta&rsquo;s "
+        "reflection are word for word the same thought; only the timing differs.",
+        '<a href="../majjhima-nikaya/mn-026.html">MN 26 &middot; The Noble Search</a> &mdash; the '
+        "Buddha&rsquo;s other first-person account of leaving home, told as a search rather than as a "
+        "loss of intoxication. The two together are the canon&rsquo;s own biography, without the "
+        "later legend.",
+        '<a href="an-3.35.html">AN 3.35 &middot; With Hatthaka</a> &mdash; for the same argument run '
+        "the other way: a fully equipped house described in loving detail, and what it fails to "
+        "reach.",
+    ],
+)
+
+
+page(
+    40, "Ādhipateyya", "In Charge",
+    vagga=VAGGA_4,
+    meta_title="AN 3.40 — In Charge | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ādhipateyyasutta — three "
+        "things to put in charge of a life: yourself, the world, and the teaching. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three parallel expositions, each a reflection made in solitude, closing with four "
+                 "verses"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "The three authorities are preserved in the Chinese Āgamas and the "
+                              "triad passed into East Asian usage as 自增上、世增上、法增上; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; long, highly repetitive, and the "
+                       "middle section is the interesting one"),
+    ],
+    why=(
+        "Three things can be put in charge of a life: yourself, the world, or the teaching. Each is "
+        "described as a reflection made alone in a wilderness, at the root of a tree, or in an empty "
+        "hut, and each ends in the same sentence about rousing energy and settling the mind. What "
+        "differs is the reason that gets you there &mdash; your own purpose, the fact that others can "
+        "see you, or the quality of the teaching itself. The middle one is the strangest and the most "
+        "honest."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are three things you can appeal to when nobody is making you practice, and all "
+            "three end in the same place."]),
+        ("What <em>ādhipateyya</em> means", [
+            "The word is built from <em>adhipati</em>, an overlord or ruler. To make something "
+            "<em>ādhipateyya</em> is to give it the deciding vote &mdash; to let it be the authority "
+            "a decision is referred to. Sujato&rsquo;s &ldquo;putting in charge&rdquo; keeps the "
+            "political flavor, which is right: the question is what governs you.",
+            "East Asian Buddhism took the triad over as 自增上、世增上、法增上, and it is one of the "
+            "places where the Pāli and the Chinese vocabularies line up cleanly enough that a "
+            "bilingual class can hold both.",
+            "All three descriptions share an opening and a closing. The opening is the practitioner "
+            "alone &mdash; in a wilderness, at the root of a tree, or in an empty hut &mdash; "
+            "recalling why they left home: not for a robe, almsfood, lodgings, or a better rebirth, "
+            "but because they were <em>swamped by suffering, mired in suffering</em>. The closing is "
+            "the resolution: energy roused and unflagging, mindfulness established and lucid, body "
+            "tranquil, mind immersed in samādhi. Everything between the two is the variable."]),
+        ("Self in charge", [
+            "The reflection is short: I did not go forth for this; it would not be appropriate for me "
+            "to seek the same sensual pleasures I abandoned, or worse.",
+            "It is an appeal to consistency with one&rsquo;s own stated purpose, and it needs no "
+            "witness and no doctrine. This is what the canon elsewhere calls <em>hiri</em>, the sense "
+            "of shame that faces inward &mdash; the first of the two qualities AN 2.9 names as what "
+            "keeps the world from dissolving.",
+            "It is also the version most immediately transferable to lay life, and to work that "
+            "nobody is checking. The whole of it is: remember what you said you were doing."]),
+        ("The world in charge", [
+            "Here the discourse becomes surprising. The reflection is that the world is large, and it "
+            "contains ascetics and brahmins with psychic powers who are clairvoyant and can read "
+            "minds; <em>they see far without being seen, even by those close</em>. And there are "
+            "deities of the same kind. Any of them might look and think: <em>look at this gentleman; "
+            "he&rsquo;s gone forth out of faith, but he&rsquo;s living mixed up with bad, unskillful "
+            "qualities.</em>",
+            "This is <em>ottappa</em>, prudence, the outward-facing counterpart of shame &mdash; and "
+            "the discourse gives it a cosmology to work with. A reader who does not believe in "
+            "mind-reading ascetics or in deities will find this section inert, and it is better to "
+            "say so than to translate it into something more comfortable.",
+            "But notice what the argument actually needs, which is less than it says. It needs the "
+            "practitioner to abandon the assumption of privacy. The closing verse states it without "
+            "any supernatural machinery at all: <em>there&rsquo;s no privacy in the world for someone "
+            "who does bad deeds. You&rsquo;ll know for yourself, whether you&rsquo;ve lied or told the "
+            "truth.</em> The first witness the verse names is the person themselves.",
+            "There is also a sharp psychological observation buried in the verses, and it is easy to "
+            "read past: <em>when you witness your good self, you despise it; while you disguise your "
+            "bad self inside yourself.</em> The line describes somebody who is contemptuous of the "
+            "part of them that is doing well and protective of the part that is not. Anyone who has "
+            "worked with their own motivation will recognize it, and the canon states it in one "
+            "sentence and moves on."]),
+        ("The teaching in charge", [
+            "The third reflection appeals to the quality of what is on offer: the teaching is "
+            "<em>well explained by the Buddha &mdash; apparent in the present life, immediately "
+            "effective, inviting inspection, relevant, so that sensible people can know it for "
+            "themselves</em>. That is the standard recollection of the Dhamma, used here as a motive "
+            "rather than as a devotion.",
+            "And a second clause that does not usually get quoted with it: <em>I have spiritual "
+            "companions who live knowing and seeing</em>. The evidence is not only the doctrine&rsquo;s "
+            "elegance but the existence of people in the same community who have got somewhere with "
+            "it. Given that, it would not be appropriate to live lazy and heedless.",
+            "This is the version that scales best, because it does not depend on your resolve holding "
+            "or on anyone watching. It depends on the material being good and on somebody nearby "
+            "having demonstrated it."]),
+        ("Using it", [
+            "The triad is genuinely useful outside monastic life, and a class will find its own "
+            "examples fast. Why does a teacher prepare a lesson properly when nobody will check? "
+            "Because of what they said they were for; because someone might see; because the subject "
+            "deserves it. The discourse says all three are legitimate and that they land in the same "
+            "place.",
+            "It is worth resisting the temptation to rank them. The text does not, and the closing "
+            "verse recommends all three in one line: <em>with yourself in charge, live mindfully; "
+            "with the world in charge, be alert and practice absorption; with the teaching in charge, "
+            "live in line with that teaching.</em>",
+            "The last verses end where the chapter began, with the messengers: <em>Māra&rsquo;s "
+            "conquered; the terminator&rsquo;s overcome: one who strives reaches the end of "
+            "rebirth.</em> The Devadūtavagga opened with three warnings that go unheeded and closes "
+            "with three ways of getting oneself to act without being warned at all."]),
+    ],
+    terms=[
+        ("ādhipateyya",
+         "&ldquo;overlordship, being in charge&rdquo; &mdash; from <em>adhipati</em>, a ruler. To "
+         "make something <em>ādhipateyya</em> is to give it the deciding vote. Taken into Chinese as "
+         "增上."),
+        ("attādhipateyya",
+         "&ldquo;self in charge&rdquo; &mdash; the appeal to consistency with one&rsquo;s own stated "
+         "purpose. Close to <em>hiri</em>, the sense of shame that faces inward."),
+        ("lokādhipateyya",
+         "&ldquo;the world in charge&rdquo; &mdash; the appeal to being visible to others, including "
+         "those who see far without being seen. Close to <em>ottappa</em>, prudence."),
+        ("dhammādhipateyya",
+         "&ldquo;the teaching in charge&rdquo; &mdash; the appeal to the quality of the teaching and "
+         "to companions who live knowing and seeing."),
+        ("sandiṭṭhiko akāliko ehipassiko",
+         "&ldquo;apparent in the present life, immediately effective, inviting inspection&rdquo; "
+         "&mdash; the standard recollection of the Dhamma, used here as a motive for effort rather "
+         "than as a devotional formula."),
+    ],
+    text_intro=(
+        "The discourse in full, all three expositions and the closing verses. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Putting oneself in charge"),
+        ("p", "&sect;1", "an3.40:1.1-1.14"),
+        ("h3", "Putting the world in charge"),
+        ("p", "&sect;2", "an3.40:2.1-2.19"),
+        ("h3", "Putting the teaching in charge"),
+        ("p", "&sect;3", "an3.40:3.1-3.14"),
+        ("h3", "In verse"),
+        ("p", "&sect;4&ndash;5", "an3.40:4.1-5.4"),
+        ("p", "&sect;6", "an3.40:6.1-6.6"),
+        ("p", "&sect;7", "an3.40:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What does <em>ādhipateyya</em> mean?",
+         "opts": [
+             "&ldquo;Effort&rdquo;",
+             "&ldquo;Overlordship&rdquo; &mdash; from <em>adhipati</em>, a ruler; to give something the deciding vote",
+             "&ldquo;Reflection&rdquo;",
+             "&ldquo;Solitude&rdquo;"],
+         "correct": 1,
+         "expl": "The question is what governs you. Taken into Chinese as 增上."},
+        {"q": "What do all three descriptions share?",
+         "opts": [
+             "Nothing but the title",
+             "The same opening &mdash; alone, recalling why one left home, swamped by suffering &mdash; and the same closing resolution about energy, mindfulness, tranquility, and samādhi",
+             "The same speaker",
+             "The same length"],
+         "correct": 1,
+         "expl": "Everything between the two is the variable."},
+        {"q": "What is the reflection when self is in charge?",
+         "opts": [
+             "That others are watching",
+             "That the teaching is well explained",
+             "That one did not go forth for robes, almsfood, lodgings, or rebirth &mdash; so it would not be appropriate to seek the pleasures one abandoned",
+             "That death is near"],
+         "correct": 2,
+         "expl": "An appeal to consistency with one&rsquo;s own stated purpose, needing no witness and no doctrine."},
+        {"q": "Which canonical pair does the guide line the first two up with?",
+         "opts": [
+             "Calm and insight",
+             "<em>Hiri</em> and <em>ottappa</em> &mdash; shame facing inward and prudence facing outward",
+             "Faith and wisdom",
+             "Giving and ethics"],
+         "correct": 1,
+         "expl": "AN 2.9 names them as what keeps the world from dissolving."},
+        {"q": "What does the second reflection actually appeal to?",
+         "opts": [
+             "Public reputation only",
+             "Ascetics and brahmins with psychic powers, and deities of the same kind, who see far without being seen and can read minds",
+             "The monastic rule",
+             "One&rsquo;s family"],
+         "correct": 1,
+         "expl": "This is <em>ottappa</em> given a cosmology to work with."},
+        {"q": "How does the guide handle a reader who does not believe in mind-reading ascetics?",
+         "opts": [
+             "By translating the passage into something more comfortable",
+             "By saying the section will be inert for them, and that saying so is better than softening it &mdash; while noting the argument needs less than it says",
+             "By claiming the passage is a later addition",
+             "By dropping the section"],
+         "correct": 1,
+         "expl": "What it needs is that the practitioner abandon the assumption of privacy."},
+        {"q": "How does the closing verse state the same point without supernatural machinery?",
+         "opts": [
+             "&ldquo;The gods see everything.&rdquo;",
+             "&ldquo;There&rsquo;s no privacy in the world for someone who does bad deeds. You&rsquo;ll know for yourself, whether you&rsquo;ve lied or told the truth.&rdquo;",
+             "&ldquo;Nothing is hidden from the Buddha.&rdquo;",
+             "&ldquo;Deeds ripen where they are done.&rdquo;"],
+         "correct": 1,
+         "expl": "The first witness the verse names is the person themselves."},
+        {"q": "What psychological observation is buried in the verses?",
+         "opts": [
+             "That people forget their resolutions",
+             "That people fear death",
+             "That one despises one&rsquo;s good self while disguising one&rsquo;s bad self inside oneself",
+             "That solitude is difficult"],
+         "correct": 2,
+         "expl": "Contemptuous of the part doing well, protective of the part that is not &mdash; stated in one sentence and left there."},
+        {"q": "What second clause supports the third reflection, beyond the quality of the teaching?",
+         "opts": [
+             "That the Buddha is still alive",
+             "That the monastery is well provisioned",
+             "That one has spiritual companions who live knowing and seeing",
+             "That the rains retreat has begun"],
+         "correct": 2,
+         "expl": "The evidence is not only the doctrine&rsquo;s elegance but people nearby who have got somewhere with it."},
+        {"q": "Does the discourse rank the three?",
+         "opts": [
+             "Yes &mdash; the teaching first",
+             "Yes &mdash; the self first",
+             "No &mdash; and the closing verse recommends all three in a single line",
+             "No &mdash; it says only one is valid"],
+         "correct": 2,
+         "expl": "With yourself in charge live mindfully; with the world in charge be alert; with the teaching in charge live in line with it."},
+    ],
+    marginalia=[
+        ("Three in charge", [
+            "<span class=\"pali\">atta</span>oneself &middot; 自增上",
+            "<span class=\"pali\">loka</span>the world &middot; 世增上",
+            "<span class=\"pali\">dhamma</span>the teaching &middot; 法增上",
+        ]),
+        ("Same frame each time", [
+            "wilderness, tree root, empty hut",
+            "&ldquo;not for a robe or almsfood&rdquo;",
+            "energy, mindfulness, tranquility, samādhi",
+        ]),
+        ("From the verses", [
+            "&ldquo;no privacy in the world&rdquo;",
+            "&ldquo;you&rsquo;ll know for yourself&rdquo;",
+            "&mdash; the first witness is you",
+        ]),
+        ("Cross-references", [
+            "AN 2.1&ndash;10 &middot; conscience and prudence",
+            "AN 3.36 &middot; warnings unheeded",
+            "AN 3.31 &middot; the chapter&rsquo;s other duty",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.40/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-2.1-10.html">AN 2.1&ndash;10 &middot; Punishments</a> &mdash; for AN 2.9, where '
+        "conscience and prudence, the inward and outward forms of shame, are named as the two bright "
+        "things that keep the world from dissolving. The first two authorities here are those two "
+        "qualities put to work.",
+        '<a href="an-3.36.html">AN 3.36 &middot; Messengers of the Gods</a> &mdash; the discourse '
+        "that opens this chapter with three warnings unheeded; this one closes it with three ways of "
+        "getting oneself to act without being warned.",
+        '<a href="/sutras/mohe-zhiguan/fascicle-001/">Mohe Zhiguan &middot; Fascicle 1</a> &mdash; '
+        "Zhiyi on why a practitioner starts at all, which is the same question this discourse answers "
+        "three ways. Useful for seeing how a Chinese master frames motivation when there is no one "
+        "to compel it.",
+    ],
+)
