@@ -18765,3 +18765,1139 @@ page(
         "sets aside for Ānanda.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.81–3.91 — Samaṇavagga
+# --------------------------------------------------------------------------- #
+VAGGA_9 = "<em>Samaṇavagga</em> &mdash; the ninth chapter of the Threes"
+
+page(
+    81, "Samaṇa", "Ascetics",
+    vagga=VAGGA_9,
+    meta_title="AN 3.81 — Ascetics | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Samaṇasutta — the three "
+        "duties of an ascetic, and the chapter they open. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three items and a training instruction"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The three trainings are preserved throughout the Chinese Āgamas and "
+                              "became 戒定慧 in East Asian usage; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; four lines, and the frame for the "
+                       "eleven that follow"),
+    ],
+    why=(
+        "The ninth chapter opens by naming the three things an ascetic is for: the training in the "
+        "higher ethics, the higher mind, and the higher wisdom. Nine of the eleven discourses that "
+        "follow are variations on that one list, and the chapter is the most single-minded stretch "
+        "of the Threes. This is where it states the theme."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An ascetic has three jobs and they are ethics, mind, and wisdom."]),
+        ("<em>Samaṇa</em>, and what a duty is", [
+            "<em>Samaṇa</em> is the general word for a renunciate of any school &mdash; the "
+            "wanderers, Jains, Ājīvakas, and Buddhist mendicants all counted. The word is not "
+            "sectarian, which is why the discourse can speak of <em>the duties of an ascetic</em> and "
+            "mean something that could in principle be evaluated from outside.",
+            "<em>Karaṇīya</em> is what is to be done: a task, a duty, the thing the role exists for. "
+            "So the question the discourse answers is not what a renunciate believes or where they "
+            "live, but what their work is.",
+            "That framing has an edge to it. A person can be a <em>samaṇa</em> by dress, by ordination, "
+            "and by residence, and still not be doing the three things. AN 3.82, the next discourse, "
+            "is about exactly that person."]),
+        ("The three trainings", [
+            "<em>Adhisīla</em>, the higher ethics; <em>adhicitta</em>, the higher mind; "
+            "<em>adhipaññā</em>, the higher wisdom. The prefix <em>adhi-</em> means higher or "
+            "further, and it distinguishes these from ordinary good conduct, ordinary "
+            "concentration, and ordinary intelligence.",
+            "In East Asian usage the triad is 戒定慧, precepts, concentration, and wisdom &mdash; one "
+            "of the most familiar formulas in Chinese Buddhism, and one that a bilingual class will "
+            "already have. Pointing out that 戒定慧 is <em>adhisīla adhicitta adhipaññā</em> takes "
+            "ten seconds and connects a great deal.",
+            "The order is not arbitrary and the collection treats it as a sequence: AN 3.73 has "
+            "Ānanda expound the three in exactly this order, with the trainee&rsquo;s immersion "
+            "described as the four absorptions and the trainee&rsquo;s wisdom as understanding the "
+            "four truths."]),
+        ("The instruction, and one word in it", [
+            "&ldquo;So you should train like this: we will have keen enthusiasm for undertaking the "
+            "training in the higher ethics, the higher mind, and the higher wisdom.&rdquo;",
+            "<em>Tibbo chando</em> &mdash; keen or sharp desire. The word for the desire is "
+            "<em>chanda</em>, which the canon distinguishes carefully from <em>taṇhā</em>, craving. "
+            "One is the wanting that drives a task; the other is the wanting that produces continued "
+            "existence, as AN 3.76 has just described.",
+            "That distinction is worth making explicitly to a class, because a tradition that "
+            "attacks desire as thoroughly as this one does has to be able to say what it is asking "
+            "for here. The answer is that <em>chanda</em> for the training is one of the four bases "
+            "of psychic power and is recommended everywhere; it is not an exception to the teaching "
+            "on craving but a different item.",
+            "The instruction is also not <em>do the three trainings</em> but <em>be keen to undertake "
+            "them</em>. What is being asked for is an appetite, which is the same thing AN 3.42 named "
+            "as the first two grounds on which faith is recognized."]),
+        ("Why the chapter repeats itself", [
+            "Nine of the eleven discourses in this chapter restate the three trainings, most of them "
+            "closing with the identical instruction. A reader working through in order will find it "
+            "repetitive, and it is worth explaining rather than apologizing for.",
+            "The variation is in the frame. AN 3.82 gives a donkey; AN 3.83 gives a farmer; AN 3.84 "
+            "gives a monk who cannot manage the rules; AN 3.85 gives a definition of the word "
+            "trainee; AN 3.86 through 3.88 give the three trainings against the stages of "
+            "attainment. The list is the constant and the entry points are the variables.",
+            "That is a teaching structure rather than an accident. A class encountering 戒定慧 for "
+            "the first time will not learn it from one statement; they will learn it from a donkey, a "
+            "field, and a monk with a problem."]),
+        ("Using it", [
+            "Use it as a hinge. If a class knows 戒定慧 already, this discourse tells them where the "
+            "phrase comes from and that it is presented as a job description rather than a doctrine. "
+            "If they do not, this is the shortest possible introduction and the ten discourses after "
+            "it supply the illustrations.",
+            "The one substantive point to draw out is the word <em>duty</em>. The discourse is not "
+            "describing what an ascetic hopes for or believes; it is describing what they are "
+            "supposed to be doing, which makes the standard checkable and makes AN 3.82&rsquo;s "
+            "donkey possible."]),
+    ],
+    terms=[
+        ("samaṇa",
+         "&ldquo;ascetic, renunciate&rdquo; &mdash; the general word covering wanderers, Jains, "
+         "Ājīvakas, and Buddhist mendicants alike. Not a sectarian term."),
+        ("karaṇīya",
+         "&ldquo;what is to be done, a duty&rdquo; &mdash; the task the role exists for, rather than "
+         "a belief or a way of dressing."),
+        ("adhisīla adhicitta adhipaññā",
+         "&ldquo;the higher ethics, mind, and wisdom&rdquo; &mdash; the three trainings, 戒定慧 in "
+         "East Asian usage. The prefix marks them off from ordinary conduct, concentration, and "
+         "intelligence."),
+        ("tibbo chando",
+         "&ldquo;keen enthusiasm&rdquo; &mdash; and <em>chanda</em> is the desire that drives a task, "
+         "carefully distinguished in the canon from <em>taṇhā</em>, the craving that produces "
+         "continued existence."),
+        ("sikkhā",
+         "&ldquo;training&rdquo; &mdash; the word behind both the three trainings and the "
+         "<em>sikkhāpada</em>, the training rules of the monastic code."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.81:1.1-1.4"),
+        ("p", "&sect;2", "an3.81:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What are the three duties of an ascetic?",
+         "opts": [
+             "Almsround, recitation, and meditation",
+             "Undertaking the training in the higher ethics, the higher mind, and the higher wisdom",
+             "Poverty, chastity, and obedience",
+             "Study, teaching, and service"],
+         "correct": 1,
+         "expl": "Nine of the eleven discourses in this chapter are variations on that list."},
+        {"q": "What does <em>samaṇa</em> cover?",
+         "opts": [
+             "Buddhist monastics only",
+             "Brahmins",
+             "Renunciates of any school &mdash; wanderers, Jains, Ājīvakas, and Buddhist mendicants alike",
+             "Laypeople who keep precepts"],
+         "correct": 2,
+         "expl": "Not a sectarian term, which is why the duties could in principle be evaluated from outside."},
+        {"q": "What does <em>karaṇīya</em> mean, and why does it matter?",
+         "opts": [
+             "&ldquo;Belief&rdquo;; it defines the school",
+             "&ldquo;What is to be done, a duty&rdquo; &mdash; so the question is what a renunciate&rsquo;s work is, not what they believe or where they live",
+             "&ldquo;Rule&rdquo;; it belongs to the code",
+             "&ldquo;Wish&rdquo;; it names an aspiration"],
+         "correct": 1,
+         "expl": "That framing has an edge: one can be an ascetic by dress and residence and not be doing the three things."},
+        {"q": "What does the prefix <em>adhi-</em> mark?",
+         "opts": [
+             "That the training is monastic",
+             "Higher or further &mdash; distinguishing these from ordinary good conduct, concentration, and intelligence",
+             "That the training is optional",
+             "That the training is old"],
+         "correct": 1,
+         "expl": "<em>Adhisīla</em>, <em>adhicitta</em>, <em>adhipaññā</em>."},
+        {"q": "What is the East Asian form of the triad?",
+         "opts": [
+             "戒定慧",
+             "貪瞋癡",
+             "三千大千世界",
+             "八關齋戒"],
+         "correct": 0,
+         "expl": "Precepts, concentration, wisdom &mdash; one of the most familiar formulas in Chinese Buddhism."},
+        {"q": "Which earlier discourse expounds the three in this order?",
+         "opts": [
+             "AN 3.73, where Ānanda gives the trainee&rsquo;s ethics, immersion, and wisdom",
+             "AN 3.30",
+             "AN 3.55",
+             "AN 3.62"],
+         "correct": 0,
+         "expl": "The collection treats the order as a sequence."},
+        {"q": "What is asked for in the training instruction?",
+         "opts": [
+             "That the three be completed",
+             "Keen enthusiasm for undertaking them &mdash; an appetite rather than a performance",
+             "That the rules be memorized",
+             "That a teacher be found"],
+         "correct": 1,
+         "expl": "The same thing AN 3.42 named as the first two grounds on which faith is recognized."},
+        {"q": "How does the guide distinguish <em>chanda</em> from <em>taṇhā</em>?",
+         "opts": [
+             "They are the same",
+             "<em>Chanda</em> is the wanting that drives a task; <em>taṇhā</em> is the wanting that produces continued existence",
+             "<em>Chanda</em> is worse",
+             "<em>Taṇhā</em> applies only to monastics"],
+         "correct": 1,
+         "expl": "<em>Chanda</em> for the training is one of the four bases of psychic power and is recommended everywhere."},
+        {"q": "How does the guide explain the chapter&rsquo;s repetition?",
+         "opts": [
+             "As a transmission error",
+             "As a teaching structure &mdash; the list is the constant and the entry points are the variables: a donkey, a field, a monk with a problem",
+             "As padding",
+             "As the work of different compilers"],
+         "correct": 1,
+         "expl": "A class will not learn 戒定慧 from one statement."},
+        {"q": "What substantive point does the guide draw from the word <em>duty</em>?",
+         "opts": [
+             "That the training is compulsory",
+             "That the discourse describes what an ascetic is supposed to be <em>doing</em>, which makes the standard checkable &mdash; and makes the next discourse&rsquo;s donkey possible",
+             "That laypeople are excluded",
+             "That the trainings are ranked"],
+         "correct": 1,
+         "expl": "Not what an ascetic hopes for or believes."},
+    ],
+    marginalia=[
+        ("Three duties", [
+            "<span class=\"pali\">adhisīla</span>higher ethics &middot; 戒",
+            "<span class=\"pali\">adhicitta</span>higher mind &middot; 定",
+            "<span class=\"pali\">adhipaññā</span>higher wisdom &middot; 慧",
+        ]),
+        ("What is asked", [
+            "<span class=\"pali\">tibbo chando</span>keen enthusiasm",
+            "&mdash; an appetite, not a performance",
+        ]),
+        ("The chapter ahead", [
+            "3.82 &middot; a donkey",
+            "3.83 &middot; a farmer",
+            "3.84 &middot; a monk who cannot manage",
+        ]),
+        ("Cross-references", [
+            "AN 3.73 &middot; the three expounded",
+            "AN 3.42 &middot; appetite as a sign",
+            "AN 3.76 &middot; craving, the other wanting",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.81/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.73.html">AN 3.73 &middot; With Mahānāma the Sakyan</a> &mdash; where the three '
+        "trainings are expounded rather than named, divided between the trainee and the adept.",
+        '<a href="an-3.82.html">AN 3.82 &middot; The Donkey</a> &mdash; the next discourse, and what '
+        "this one&rsquo;s framing as a duty makes possible: a figure who has everything about the "
+        "role except the work.",
+        '<a href="/sutras/mohe-zhiguan/index.html">Mohe Zhiguan</a> &mdash; Zhiyi&rsquo;s great '
+        "treatise on the second of the three trainings, for what one tradition built on 定 once the "
+        "triad was inherited.",
+    ],
+)
+
+
+page(
+    82, "Gadrabha", "The Donkey",
+    vagga=VAGGA_9,
+    meta_title="AN 3.82 — The Donkey | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Gadrabhasutta — the "
+        "donkey following the cattle and insisting it can moo. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A simile, its application, and the chapter&rsquo;s standing instruction"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The donkey-among-cattle simile is preserved in the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, funny, and unkind"),
+    ],
+    why=(
+        "A donkey walks behind a herd of cattle saying <em>I can moo too! I can moo too!</em> It does "
+        "not look like a cow, sound like a cow, or leave a footprint like a cow, and it goes on "
+        "saying it. The application is a monk walking behind the Saṅgha saying <em>I&rsquo;m a monk "
+        "too!</em> without the enthusiasm for the three trainings that the others have."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Belonging to the group is not the same as doing the work, and the difference shows in "
+            "three ways at once."]),
+        ("Three tests, all failed", [
+            "The simile is unusually precise about how the donkey is caught out: it does not look "
+            "like a cow, does not sound like a cow, and does not leave a footprint like a cow. "
+            "Appearance, voice, and track.",
+            "The application does not spell out three matching tests for the monk, but the "
+            "correspondence is not hard to see and is worth letting a class find. What the monk "
+            "lacks is named as a single thing &mdash; the same enthusiasm for the three trainings "
+            "that the other mendicants have &mdash; and the three trainings are themselves ethics, "
+            "mind, and wisdom, which is roughly conduct, inner state, and understanding.",
+            "The footprint is the sharpest of the three. Appearance can be arranged and a voice can "
+            "be attempted; a track is what is left behind by actually moving, and it cannot be "
+            "produced by intention."]),
+        ("What the donkey is not accused of", [
+            "The donkey is not accused of pretending, deceiving, or infiltrating. It is not "
+            "described as a wolf among sheep, which would be a different simile and a different "
+            "complaint.",
+            "It says <em>I can moo too</em>, and the discourse&rsquo;s judgment is that it cannot. "
+            "The failure is one of capacity and effort rather than of honesty, and the "
+            "donkey&rsquo;s claim is presented as sincere and mistaken.",
+            "That distinction matters for how the discourse should be taught. It is not about "
+            "hypocrites in a monastery; it is about somebody who genuinely thinks that being in the "
+            "line is the thing, and who is at least partly right &mdash; nothing in the discourse "
+            "says the donkey should leave.",
+            "It is worth being honest, though, that the simile is not kind. Comparing a fellow "
+            "monastic to a donkey braying is a piece of mockery, and the canon is capable of "
+            "gentleness on this subject when it wants to be &mdash; AN 3.84, two discourses later, "
+            "treats a monk who cannot keep up with great tenderness. The Threes contain both, and a "
+            "teacher should present both rather than only the one that suits the audience."]),
+        ("The word for enthusiasm", [
+            "What the monk lacks is <em>chanda</em>, the same keen enthusiasm AN 3.81 asked for. Not "
+            "attainment, not knowledge, not seniority &mdash; appetite.",
+            "That is a merciful standard in one respect and a demanding one in another. It is "
+            "merciful because the donkey is not being asked to be a cow: the failure is not that the "
+            "monk has not reached anything but that they do not want to. And it is demanding because "
+            "appetite is the one thing that cannot be simulated over time. A person can attend, "
+            "recite, and keep rules without it, and this discourse says that produces a donkey.",
+            "The pairing with AN 3.42 is exact and worth making. There, the first two grounds on "
+            "which a person of faith is recognized are that they <em>like</em> to see ethical people "
+            "and <em>like</em> to hear the teaching. Here, the absence of that liking is what makes "
+            "the monk a donkey. The canon is consistent: it treats what somebody wants as more "
+            "diagnostic than what they do."]),
+        ("Using it", [
+            "This is a discourse to use on oneself rather than on anybody else, and that should be "
+            "said when teaching it. A simile this sharp is immediately useful for identifying "
+            "somebody in the room, and that use is available to any group and has nothing to "
+            "recommend it.",
+            "The version that works in a classroom is the question the simile puts: is there a track? "
+            "Not whether a person looks the part or says the right things, but whether anything has "
+            "actually moved. Applied to a student, to a teacher, or to a practice, that is a hard and "
+            "fair question."]),
+    ],
+    terms=[
+        ("gadrabha",
+         "&ldquo;donkey&rdquo; &mdash; the figure following the herd. The canon uses domestic animals "
+         "freely for this kind of comparison."),
+        ("padavalañja",
+         "&ldquo;footprint, track&rdquo; &mdash; the third test, and the one that cannot be produced "
+         "by intention: it is what is left behind by actually moving."),
+        ("chanda",
+         "&ldquo;enthusiasm, keen desire&rdquo; &mdash; the one thing the monk in the simile is said "
+         "to lack. Not attainment, knowledge, or seniority."),
+        ("anubandhati",
+         "&ldquo;follows behind&rdquo; &mdash; used of both the donkey and the monk. Proximity to the "
+         "group is what both have."),
+        ("bhikkhusaṅgha",
+         "&ldquo;the mendicant Saṅgha&rdquo; &mdash; the herd in the application, which the figure is "
+         "walking behind rather than within."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The donkey"),
+        ("p", "&sect;1", "an3.82:1.1-1.5"),
+        ("h3", "The monk"),
+        ("p", "&sect;2", "an3.82:2.1-2.5"),
+        ("p", "&sect;3", "an3.82:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What does the donkey say?",
+         "opts": [
+             "Nothing",
+             "&ldquo;I can moo too! I can moo too!&rdquo;",
+             "&ldquo;I am a cow&rdquo;",
+             "&ldquo;Follow me&rdquo;"],
+         "correct": 1,
+         "expl": "And the discourse&rsquo;s judgment is that it cannot."},
+        {"q": "In which three ways is the donkey caught out?",
+         "opts": [
+             "It does not look like a cow, sound like a cow, or leave a footprint like a cow",
+             "It is smaller, slower, and louder",
+             "It eats differently, sleeps differently, and walks differently",
+             "It is not accepted by the herd"],
+         "correct": 0,
+         "expl": "Appearance, voice, and track."},
+        {"q": "Why does the guide call the footprint the sharpest test?",
+         "opts": [
+             "Because it lasts longest",
+             "Because appearance can be arranged and a voice attempted, but a track is left by actually moving and cannot be produced by intention",
+             "Because it is hardest to see",
+             "Because cattle have distinctive hooves"],
+         "correct": 1,
+         "expl": "The correspondence with the three trainings is left for the reader."},
+        {"q": "What does the monk in the application lack?",
+         "opts": [
+             "Ordination",
+             "Learning",
+             "The same enthusiasm for the three trainings that the other mendicants have",
+             "Seniority"],
+         "correct": 2,
+         "expl": "Not attainment, not knowledge, not seniority &mdash; appetite."},
+        {"q": "What is the donkey <em>not</em> accused of?",
+         "opts": [
+             "Pretending, deceiving, or infiltrating &mdash; it is not a wolf among sheep",
+             "Being slow",
+             "Being noisy",
+             "Leaving the herd"],
+         "correct": 0,
+         "expl": "The claim is presented as sincere and mistaken: a failure of capacity and effort rather than of honesty."},
+        {"q": "What does the discourse not say about the donkey?",
+         "opts": [
+             "That it follows the herd",
+             "That it brays",
+             "That it should leave",
+             "That it is not a cow"],
+         "correct": 2,
+         "expl": "The figure is somebody who genuinely thinks that being in the line is the thing."},
+        {"q": "What honest reservation does the guide make?",
+         "opts": [
+             "That the simile is inaccurate",
+             "That comparing a fellow monastic to a braying donkey is mockery, and that the collection is capable of gentleness on the same subject &mdash; AN 3.84 two discourses later",
+             "That donkeys cannot bray",
+             "That the discourse is late"],
+         "correct": 1,
+         "expl": "The Threes contain both, and a teacher should present both."},
+        {"q": "Why is the standard merciful in one respect?",
+         "opts": [
+             "Because it excuses failure",
+             "Because the donkey is not asked to be a cow &mdash; the failure is not that the monk has not reached anything, but that they do not want to",
+             "Because it applies only to novices",
+             "Because it is easily met"],
+         "correct": 1,
+         "expl": "And demanding in another, because appetite cannot be simulated over time."},
+        {"q": "How does this pair with AN 3.42?",
+         "opts": [
+             "There, faith is recognized by <em>liking</em> to see ethical people and hear the teaching; here, the absence of that liking makes the monk a donkey",
+             "They contradict each other",
+             "AN 3.42 is about laypeople only",
+             "They share a simile"],
+         "correct": 0,
+         "expl": "The canon treats what somebody wants as more diagnostic than what they do."},
+        {"q": "How does the guide say the discourse should be used?",
+         "opts": [
+             "To identify others in the room",
+             "On oneself &mdash; and the classroom version is the question the simile puts: is there a track?",
+             "As a rule for admission",
+             "As a warning to novices"],
+         "correct": 1,
+         "expl": "Not whether a person looks the part, but whether anything has actually moved."},
+    ],
+    marginalia=[
+        ("Three tests", [
+            "does not look like a cow",
+            "does not sound like a cow",
+            "leaves no cow&rsquo;s footprint",
+        ]),
+        ("What it says", [
+            "&ldquo;I can moo too!&rdquo;",
+            "&ldquo;I&rsquo;m a monk too!&rdquo;",
+        ]),
+        ("What is missing", [
+            "<span class=\"pali\">chanda</span>enthusiasm",
+            "&mdash; not attainment",
+            "&mdash; not seniority",
+        ]),
+        ("Cross-references", [
+            "AN 3.81 &middot; the three duties",
+            "AN 3.84 &middot; the gentle version",
+            "AN 3.42 &middot; liking as a diagnostic",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.82/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.84.html">AN 3.84 &middot; The Vajji</a> &mdash; two discourses later, a monk '
+        "who says outright that he cannot manage the training and is met with complete gentleness. "
+        "The pair is the honest picture of how this collection treats somebody falling behind.",
+        '<a href="an-3.42.html">AN 3.42 &middot; Three Grounds</a> &mdash; for the canon&rsquo;s '
+        "habit of diagnosing a person by what they like rather than by what they do.",
+        '<a href="an-3.81.html">AN 3.81 &middot; Ascetics</a> &mdash; the chapter&rsquo;s opening '
+        "statement of the three duties this donkey is failing to perform.",
+    ],
+)
+
+
+page(
+    83, "Khetta", "Fields",
+    vagga=VAGGA_9,
+    meta_title="AN 3.83 — Fields | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Khettasutta — a farmer's "
+        "three tasks and a mendicant's three, with the timing that both share. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A trade described in three duties, applied to another in three, with the standing "
+                 "instruction"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Agricultural similes for the training are preserved throughout the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and better made than it "
+                       "looks"),
+    ],
+    why=(
+        "A farmer has three primary duties: plough and till the field, plant the seed in season, and "
+        "irrigate and then drain when the time is right. A mendicant has three: the higher ethics, "
+        "the higher mind, the higher wisdom. The parallel is not spelled out, and the reason to read "
+        "the discourse slowly is that the farmer&rsquo;s three are all about timing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The three trainings are the three things a mendicant does the way ploughing, sowing, and "
+            "watering are the three things a farmer does."]),
+        ("What the farmer actually does", [
+            "First, <em>makes sure the field is well ploughed and tilled</em>. Preparation, and it "
+            "happens before anything is planted. Nothing grows from it directly and skipping it "
+            "wastes everything that follows.",
+            "Second, <em>plants seeds in season</em>. Not merely plants: in season. The task has a "
+            "window.",
+            "Third, <em>when the time is right, they irrigate the field and then drain it</em>. This "
+            "is the one a city reader misses. Irrigation is not simply adding water; the field is "
+            "flooded and then let out again, and both halves are the task. Too much water standing "
+            "too long is as fatal as none.",
+            "So all three duties are timing-dependent and the third is a two-part operation with a "
+            "judgment in the middle. Whoever composed the simile knew what a field required."]),
+        ("What the parallel implies without stating it", [
+            "The discourse does not say which training corresponds to which task, and it is worth "
+            "letting a class do the mapping and disagree about it.",
+            "The obvious reading is ethics as the ploughing &mdash; preparation that grows nothing by "
+            "itself and without which nothing else takes; the higher mind as the sowing, done in "
+            "season; and wisdom as the watering and draining, the part requiring judgment about when "
+            "enough is enough.",
+            "That mapping is defensible and is not in the text. What the text does assert is the "
+            "structure: three primary duties, in an order, each with its own timing, and none of them "
+            "optional. The Pāli word is <em>accāyika</em>, urgent or primary &mdash; the tasks that "
+            "cannot be deferred without losing the season.",
+            "And the simile makes one point that the bare list of three trainings cannot. A farmer "
+            "does not do the three tasks and then wait for the crop as a reward. The crop is what the "
+            "tasks are for and it comes on its own schedule; there is no fourth task called "
+            "harvesting-by-effort. AN 3.85 and the discourses after it say the same thing about the "
+            "trainee in plain language."]),
+        ("Why the collection keeps using farming", [
+            "The Threes reach for agriculture repeatedly: sound seed in a prepared field with rain at "
+            "AN 3.34, the burnt seed scattered in a stream, deeds as the field and consciousness as "
+            "the seed at AN 3.76, the strangling creepers dug out at AN 3.69, and now the "
+            "farmer&rsquo;s three duties.",
+            "The audience is the reason. These discourses were given in a society where nearly "
+            "everybody understood fields, and where the relation between work, timing, and a result "
+            "that arrives on its own was the most familiar structure available.",
+            "It is worth telling a class in a modern city that they are at a disadvantage with these "
+            "similes and that the disadvantage is worth repairing. A person who has never waited for "
+            "something to grow has to be told that the waiting is not passivity and that the "
+            "cultivation is not the cause of the growth."]),
+        ("Using it", [
+            "Teach it immediately after AN 3.82, and let the pair do its work: the donkey is a figure "
+            "with no track, and the farmer is a figure whose entire existence is timing. Between them "
+            "the chapter has said that the three trainings are work, and that work has a shape.",
+            "For a class, the productive exercise is the mapping. Ask which training is the "
+            "ploughing, which the sowing, and which the watering, and the disagreement will be more "
+            "instructive than the answer. The one thing to insist on is the third task&rsquo;s two "
+            "halves, because <em>irrigate and then drain</em> is the only part of the simile that "
+            "cannot be read as simply doing more."]),
+    ],
+    terms=[
+        ("khetta",
+         "&ldquo;field&rdquo; &mdash; the same word used in AN 3.76 for deeds and in AN 3.57 for a "
+         "worthy recipient, the 福田 or field of merit."),
+        ("accāyika",
+         "&ldquo;urgent, primary&rdquo; &mdash; the tasks that cannot be deferred without losing the "
+         "season."),
+        ("sukaṭṭha sumatikata",
+         "&ldquo;well ploughed and tilled&rdquo; &mdash; preparation, which grows nothing by itself "
+         "and without which nothing else takes."),
+        ("samaye",
+         "&ldquo;in season, at the right time&rdquo; &mdash; attached to the sowing and again to the "
+         "watering. All three duties are timing-dependent."),
+        ("udakaṁ atiharati apaharati",
+         "&ldquo;irrigate and then drain&rdquo; &mdash; a two-part operation with a judgment in the "
+         "middle, and the part a city reader misses."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The farmer"),
+        ("p", "&sect;1", "an3.83:1.1-1.6"),
+        ("h3", "The mendicant"),
+        ("p", "&sect;2", "an3.83:2.1-2.4"),
+        ("p", "&sect;3", "an3.83:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What are the farmer&rsquo;s three primary duties?",
+         "opts": [
+             "Ploughing and tilling; planting in season; irrigating and then draining",
+             "Ploughing, harvesting, and storing",
+             "Sowing, weeding, and reaping",
+             "Clearing, fencing, and guarding"],
+         "correct": 0,
+         "expl": "All three are timing-dependent, and the third is a two-part operation."},
+        {"q": "What does a city reader usually miss?",
+         "opts": [
+             "That fields need ploughing",
+             "That seeds have a season",
+             "That irrigation is a flood and then a draining &mdash; too much water standing too long is as fatal as none",
+             "That crops take months"],
+         "correct": 2,
+         "expl": "Both halves are the task, with a judgment in the middle."},
+        {"q": "Does the discourse say which training matches which task?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; the mapping is left to the reader",
+             "Yes, in a verse",
+             "It denies any correspondence"],
+         "correct": 1,
+         "expl": "Which makes it a productive exercise for a class."},
+        {"q": "What mapping does the guide offer as defensible but not textual?",
+         "opts": [
+             "Ethics as the ploughing, the higher mind as the sowing, wisdom as the watering and draining",
+             "Wisdom first, ethics last",
+             "All three as the sowing",
+             "Ethics as the harvest"],
+         "correct": 0,
+         "expl": "Preparation that grows nothing by itself; a task with a window; a part requiring judgment about when enough is enough."},
+        {"q": "What does <em>accāyika</em> mean?",
+         "opts": [
+             "&ldquo;Traditional&rdquo;",
+             "&ldquo;Urgent, primary&rdquo; &mdash; the tasks that cannot be deferred without losing the season",
+             "&ldquo;Difficult&rdquo;",
+             "&ldquo;Threefold&rdquo;"],
+         "correct": 1,
+         "expl": "Not optional and not postponable."},
+        {"q": "What point does the simile make that the bare list cannot?",
+         "opts": [
+             "That farming is hard",
+             "That there is no fourth task called harvesting-by-effort &mdash; the crop is what the tasks are for and it comes on its own schedule",
+             "That fields need rain",
+             "That mendicants should farm"],
+         "correct": 1,
+         "expl": "AN 3.85 and the discourses after it say the same in plain language."},
+        {"q": "Which other discourses in the Threes use farming?",
+         "opts": [
+             "AN 3.34 with sound seed in a prepared field, AN 3.76 with deeds as the field, and AN 3.69 with creepers dug out",
+             "AN 3.1 and AN 3.2",
+             "AN 3.60 and AN 3.61",
+             "None; this is the only one"],
+         "correct": 0,
+         "expl": "The collection reaches for agriculture repeatedly."},
+        {"q": "Why does the guide say the collection does that?",
+         "opts": [
+             "Because the Buddha was a farmer",
+             "Because the audience understood fields, and the relation between work, timing, and a result that arrives on its own was the most familiar structure available",
+             "Because farming is virtuous",
+             "Because monastics farmed"],
+         "correct": 1,
+         "expl": "And a modern city reader is at a disadvantage worth repairing."},
+        {"q": "What must a person who has never waited for something to grow be told?",
+         "opts": [
+             "That farming is difficult",
+             "That the waiting is not passivity, and that the cultivation is not the cause of the growth",
+             "That seeds are cheap",
+             "That fields need draining"],
+         "correct": 1,
+         "expl": "The disadvantage is worth repairing."},
+        {"q": "Which part of the simile does the guide say cannot be read as simply doing more?",
+         "opts": [
+             "The ploughing",
+             "The sowing",
+             "&ldquo;Irrigate and then drain&rdquo;",
+             "The tilling"],
+         "correct": 2,
+         "expl": "The one thing to insist on in the mapping exercise."},
+    ],
+    marginalia=[
+        ("Three duties", [
+            "plough and till",
+            "plant in season",
+            "irrigate, then drain",
+        ]),
+        ("All three", [
+            "<span class=\"pali\">accāyika</span>urgent, primary",
+            "&mdash; each with its own timing",
+        ]),
+        ("What is absent", [
+            "no fourth task",
+            "no harvesting-by-effort",
+            "&mdash; the crop comes on its own",
+        ]),
+        ("Cross-references", [
+            "AN 3.34 &middot; seed, field, rain",
+            "AN 3.76 &middot; deeds as the field",
+            "AN 3.81 &middot; the three duties named",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.83/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.34.html">AN 3.34 &middot; Sources</a> &mdash; the collection&rsquo;s fullest '
+        "agricultural simile, where sound seed in a prepared field with rain is what a deed rooted in "
+        "greed is like, and burnt seed scattered in a stream is what one rooted in its opposite is "
+        "like.",
+        '<a href="an-3.76.html">AN 3.76 &middot; Continued Existence (1st)</a> &mdash; for the same '
+        "word <em>field</em> used of deeds themselves, in the most compact agricultural image in the "
+        "canon.",
+        '<a href="an-3.82.html">AN 3.82 &middot; The Donkey</a> &mdash; the previous discourse, and '
+        "the pair worth teaching together: a figure with no track, and a figure whose whole existence "
+        "is timing.",
+    ],
+)
+
+
+page(
+    84, "Vajjiputta", "The Vajji",
+    vagga=VAGGA_9,
+    meta_title="AN 3.84 — The Vajji | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vajjiputtasutta — a monk "
+        "says he cannot train in a hundred and fifty rules, and is given three instead. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the peaked roof"),
+        ("Speakers", "A Vajji monk and the Buddha"),
+        ("Form", "An admission, a counter-offer, an agreement, and a report of what followed"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material on reducing the training to its three headings is "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and the kindest discourse "
+                       "in the chapter"),
+    ],
+    why=(
+        "A monk comes and says, without excuse or explanation, that more than a hundred and fifty "
+        "training rules are recited every fortnight and he cannot train in them. He is not rebuked, "
+        "not encouraged to try harder, and not told to leave. He is asked whether he can train in "
+        "three things instead. He says he can. And the discourse reports that he did, and that it "
+        "worked."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Somebody who cannot manage a hundred and fifty rules can be given three headings, and "
+            "the three will produce what the rules were for."]),
+        ("What the monk says", [
+            "&ldquo;Sir, each fortnight over a hundred and fifty training rules are recited. "
+            "I&rsquo;m not able to train in them.&rdquo;",
+            "There is no apology and no excuse in it. He does not say the rules are too many, or "
+            "wrong, or that his circumstances are special; he reports a fact about himself.",
+            "The number is worth pausing on, because it dates the text. The Pātimokkha recited "
+            "fortnightly grew over time and the fully developed monastic code has well over two "
+            "hundred rules for monks; <em>over a hundred and fifty</em> is a figure from an earlier "
+            "stage, and the discourse preserves it. That is a small piece of evidence about the age "
+            "of the material, and it is the kind of detail worth showing a class who assume the canon "
+            "is a single flat surface."]),
+        ("What he is offered", [
+            "&ldquo;But monk, are you able to train in three trainings: the higher ethics, the higher "
+            "mind, and the higher wisdom?&rdquo;",
+            "The offer is not a reduction of the requirement and it is not a dispensation. It is the "
+            "same training under three headings instead of a hundred and fifty items, and the monk "
+            "says he can do that.",
+            "What makes it work is worth spelling out. A list of rules is a list of things not to do, "
+            "each of which must be remembered separately. The three trainings are directions of "
+            "effort. A person can hold three directions in mind continuously and cannot hold a "
+            "hundred and fifty prohibitions in mind at all.",
+            "It is also worth noticing what is not offered. He is not given a shorter list of rules, "
+            "not told which rules matter most, and not excused any of them. The Vinaya is not "
+            "amended; the way he holds it is changed."]),
+        ("The promise, and the report", [
+            "&ldquo;As you train in these, you will give up greed, hate, and delusion. Then you "
+            "won&rsquo;t do anything unskillful, or practice anything bad.&rdquo;",
+            "That is a claim about mechanism: the three trainings remove the roots, and with the "
+            "roots gone the conduct the rules were protecting follows without the rules having to be "
+            "recalled one by one. The rules were never the point; they were a description of how "
+            "somebody without greed, hate, and delusion behaves.",
+            "And then the discourse does something the Threes rarely do: it reports the outcome. "
+            "<em>After some time that monk trained in the higher ethics, the higher mind, and the "
+            "higher wisdom. He gave up greed, hate, and delusion. Then he didn&rsquo;t do anything "
+            "unskillful, or practice anything bad.</em>",
+            "No verse, no praise, and no name. The discourse ends with a report that the advice was "
+            "taken and worked, which is a form of ending the collection almost never uses."]),
+        ("Read against the donkey", [
+            "Two discourses earlier, a monk who follows the Saṅgha without the enthusiasm for the "
+            "three trainings is compared to a braying donkey. Here, a monk who cannot manage the "
+            "training says so and is helped.",
+            "The pair should be taught together, because either one alone gives a false picture of "
+            "the collection. AN 3.82 is what this literature sounds like when it is describing "
+            "somebody who wants the standing without the work. AN 3.84 is what it sounds like when "
+            "somebody says plainly that they are struggling.",
+            "The difference between the two figures is not capacity. It is that one of them said "
+            "something. The donkey goes on insisting <em>I&rsquo;m a monk too</em>; the Vajji monk "
+            "says <em>I&rsquo;m not able</em>, and is immediately given something he can do.",
+            "For a teacher that is the whole lesson, and it does not require any Buddhist commitment "
+            "to use."]),
+        ("Using it", [
+            "This is the discourse for anybody who has been given a system too large to hold &mdash; "
+            "a curriculum, a rule book, a practice with too many parts. The move it models is not "
+            "cutting the requirement but re-describing it at a level the person can actually carry.",
+            "It also gives a teacher permission to do that. The Buddha does not check whether the "
+            "monk is really incapable, does not negotiate, and does not ask him to try the rules "
+            "again first. The report of incapacity is accepted at face value and answered with a "
+            "workable alternative in a single sentence."]),
+    ],
+    terms=[
+        ("sikkhāpada",
+         "&ldquo;training rule&rdquo; &mdash; the items of the monastic code recited fortnightly. "
+         "&ldquo;Over a hundred and fifty&rdquo; is a figure from an earlier stage of the code."),
+        ("uddesa",
+         "&ldquo;recitation&rdquo; &mdash; the fortnightly recital of the code at which the rules are "
+         "gone through."),
+        ("nāhaṁ sakkomi",
+         "&ldquo;I&rsquo;m not able&rdquo; &mdash; the monk&rsquo;s statement, offered without excuse "
+         "or explanation and accepted at face value."),
+        ("tisso sikkhā",
+         "&ldquo;the three trainings&rdquo; &mdash; offered in place of the hundred and fifty, not as "
+         "a reduction but as the same training under three headings."),
+        ("pahāsi",
+         "&ldquo;he gave up&rdquo; &mdash; in the closing report, which states that the advice was "
+         "taken and worked. An ending the collection almost never uses."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "&ldquo;I&rsquo;m not able&rdquo;"),
+        ("p", "&sect;1", "an3.84:1.1-1.10"),
+        ("h3", "What follows from three"),
+        ("p", "&sect;2", "an3.84:2.1-2.2"),
+        ("h3", "And what happened"),
+        ("p", "&sect;3", "an3.84:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What does the monk say?",
+         "opts": [
+             "That the rules are wrong",
+             "That over a hundred and fifty training rules are recited each fortnight and he is not able to train in them &mdash; with no apology or excuse",
+             "That he wishes to disrobe",
+             "That his teacher is too strict"],
+         "correct": 1,
+         "expl": "He reports a fact about himself."},
+        {"q": "Why is the number worth pausing on?",
+         "opts": [
+             "Because it is symbolic",
+             "Because the fully developed code has well over two hundred rules for monks, so &ldquo;over a hundred and fifty&rdquo; is a figure from an earlier stage &mdash; a small piece of evidence about the age of the material",
+             "Because it is inaccurate",
+             "Because it counts both monks and nuns"],
+         "correct": 1,
+         "expl": "Worth showing a class who assume the canon is a single flat surface."},
+        {"q": "What is he offered?",
+         "opts": [
+             "A shorter list of rules",
+             "A dispensation from the code",
+             "The three trainings &mdash; the same training under three headings rather than a hundred and fifty items",
+             "A different monastery"],
+         "correct": 2,
+         "expl": "The Vinaya is not amended; the way he holds it is changed."},
+        {"q": "Why does the guide say the substitution works?",
+         "opts": [
+             "Because three is easier than a hundred and fifty",
+             "Because a list of rules is things not to do, each remembered separately, while the three trainings are directions of effort &mdash; and a person can hold three directions continuously",
+             "Because the rules were optional",
+             "Because the monk was advanced"],
+         "correct": 1,
+         "expl": "Nobody can hold a hundred and fifty prohibitions in mind at all."},
+        {"q": "What is <em>not</em> offered?",
+         "opts": [
+             "A shorter list, a ranking of which rules matter most, or an excuse from any of them",
+             "The three trainings",
+             "Encouragement",
+             "A promise"],
+         "correct": 0,
+         "expl": "The requirement is re-described rather than reduced."},
+        {"q": "What claim about mechanism does the Buddha make?",
+         "opts": [
+             "That the rules will become easier",
+             "That training in the three will remove greed, hate, and delusion &mdash; and then nothing unskillful will be done",
+             "That the monk will be forgiven",
+             "That the code will be shortened"],
+         "correct": 1,
+         "expl": "The rules were a description of how somebody without the three roots behaves."},
+        {"q": "How does the discourse end?",
+         "opts": [
+             "With a verse",
+             "With praise",
+             "With a report that after some time the monk trained in the three, gave up the roots, and did nothing unskillful",
+             "With a rebuke"],
+         "correct": 2,
+         "expl": "No verse, no praise, no name &mdash; an ending the collection almost never uses."},
+        {"q": "How does this discourse relate to AN 3.82?",
+         "opts": [
+             "It contradicts it",
+             "It repeats it",
+             "It is the other half of the picture &mdash; the donkey wants the standing without the work; this monk says plainly that he is struggling",
+             "They share a simile"],
+         "correct": 2,
+         "expl": "Either one alone gives a false picture of the collection."},
+        {"q": "What does the guide say the difference between the two figures is?",
+         "opts": [
+             "Capacity",
+             "Seniority",
+             "That one of them said something &mdash; the donkey insists &ldquo;I&rsquo;m a monk too&rdquo;, the Vajji monk says &ldquo;I&rsquo;m not able&rdquo;",
+             "Their monastery"],
+         "correct": 2,
+         "expl": "And is immediately given something he can do."},
+        {"q": "What does the Buddha not do before offering the alternative?",
+         "opts": [
+             "Check whether the monk is really incapable, negotiate, or ask him to try the rules again first",
+             "Ask his name",
+             "Consult the Saṅgha",
+             "Recite the rules"],
+         "correct": 0,
+         "expl": "The report of incapacity is accepted at face value and answered in a single sentence."},
+    ],
+    marginalia=[
+        ("What he says", [
+            "&ldquo;over a hundred and fifty",
+            "training rules&hellip;",
+            "I&rsquo;m not able&rdquo;",
+        ]),
+        ("What he gets", [
+            "not fewer rules",
+            "not a dispensation",
+            "three headings instead",
+        ]),
+        ("How it ends", [
+            "&ldquo;after some time&hellip;",
+            "he gave up greed, hate, delusion&rdquo;",
+            "&mdash; no verse, no name",
+        ]),
+        ("Cross-references", [
+            "AN 3.82 &middot; the donkey",
+            "AN 3.81 &middot; the three duties",
+            "AN 3.78 &middot; observances judged by results",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.84/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.82.html">AN 3.82 &middot; The Donkey</a> &mdash; the discourse two earlier, '
+        "and the necessary companion. Between them the chapter shows how it treats somebody who wants "
+        "the standing without the work, and somebody who admits they are struggling.",
+        '<a href="/sutras/nanshan-lu/index.html">Nanshan Vinaya for Laypeople</a> &mdash; '
+        "Hongyi&rsquo;s compendium of the Chinese vinaya tradition, for how a later school organized "
+        "a code that had grown far past a hundred and fifty rules into something a person could "
+        "actually hold.",
+        '<a href="an-3.78.html">AN 3.78 &middot; Precepts and Observances</a> &mdash; for the '
+        "criterion that makes this substitution legitimate: an observance is judged by whether the "
+        "unskillful declines, not by its completeness.",
+    ],
+)
+
+
+page(
+    85, "Sekkha", "A Trainee",
+    vagga=VAGGA_9,
+    meta_title="AN 3.85 — A Trainee | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sekkhasutta — how a "
+        "trainee is defined, answered by the word itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", "A mendicant and the Buddha"),
+        ("Form", "A question about a term, an etymological answer, and two verses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on the trainee is preserved in the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four lines of prose and two "
+                       "compressed verses"),
+    ],
+    why=(
+        "A monk asks how a trainee is defined and gets the shortest possible answer: <em>they train, "
+        "that&rsquo;s why they&rsquo;re called a trainee.</em> Then the content &mdash; they train in "
+        "the higher ethics, the higher mind, and the higher wisdom &mdash; and then the same sentence "
+        "again. The verses that follow say where the training goes."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A trainee is somebody who trains, and the training is the three."]),
+        ("An answer that is a tautology, deliberately", [
+            "<em>Sikkhatīti kho, bhikkhu, tasmā sekhoti vuccati</em> &mdash; they train, therefore "
+            "they are called a trainee. The Pāli makes the connection audible in a way English "
+            "cannot: <em>sikkhati</em> and <em>sekha</em> are the same root.",
+            "This kind of answer is common in the canon and it is easy to mistake for evasion. It is "
+            "not. The questioner has heard a technical term used as a category &mdash; <em>they speak "
+            "of the one called a trainee</em> &mdash; and is being told that the word is not a rank, "
+            "a certificate, or a stage that somebody is placed in. It describes an activity.",
+            "The difference matters practically. Asked whether they are a trainee, a person on the "
+            "first reading has to check their attainments against a list. On this reading they have "
+            "to check whether they are training.",
+            "The tradition does also use <em>sekha</em> technically &mdash; AN 3.73 divides the three "
+            "trainings between trainee and adept, and elsewhere a trainee is specifically somebody "
+            "from stream-entry up. Both uses are real, and this discourse is not denying the "
+            "technical one. It is answering a question about the word with the plainest thing the "
+            "word means."]),
+        ("What the verses add", [
+            "The verses compress the whole path into four lines and they take some unpacking.",
+            "<em>As a trainee trains, following the straight road, first they know about ending; "
+            "enlightenment follows in the same lifetime.</em> The order is the surprising part: "
+            "knowledge of ending comes <em>first</em>, and full enlightenment follows. The canon "
+            "distinguishes the knowledge that the defilements are ending from the subsequent "
+            "knowledge that they have ended, and the verse is marking that sequence.",
+            "<em>Then the knowledge comes, such a one, freed through enlightenment, with the end of "
+            "the fetters of continued existence: my freedom is unshakable.</em> The second knowledge "
+            "is reflexive &mdash; it is knowing that one is free, which the canon consistently treats "
+            "as a separate event from being free.",
+            "<em>Anantarā</em>, in the same lifetime or immediately following, is the word carrying "
+            "the promise. The trainee is not being told that the training tends in a good direction "
+            "over many lives; the verse says the second thing follows the first without an interval."]),
+        ("Why this discourse sits where it does", [
+            "The chapter has given the three trainings as duties, as a donkey&rsquo;s failure, as a "
+            "farmer&rsquo;s tasks, and as a rescue for somebody drowning in rules. This discourse "
+            "gives the name of the person doing them.",
+            "The three discourses that follow, AN 3.86 to AN 3.88, take the same three trainings and "
+            "correlate them with the stages of attainment, which is the technical treatment. So the "
+            "chapter moves from what the training is, through who does it, to how far it gets a "
+            "person &mdash; and this short discourse is the hinge.",
+            "It is also the discourse that names the word the Buddha used about Ānanda behind his "
+            "back in AN 3.78: <em>Ānanda is a trainee, but it&rsquo;s not easy to find his equal in "
+            "wisdom.</em> Read after this one, that sentence says something more precise than it "
+            "first appears: Ānanda is still doing the three, and among those still doing them he has "
+            "few equals."]),
+        ("Using it", [
+            "The usable content is the definition, and it transfers to any discipline. A student is "
+            "somebody who studies; a practitioner is somebody who practices. That sounds trivial "
+            "until it is applied, at which point it disqualifies a great many people who hold the "
+            "title on other grounds.",
+            "For a class that has met the technical vocabulary of stream-enterer, once-returner, and "
+            "non-returner, this discourse is worth using as a corrective. The canon has a detailed "
+            "typology of attainment and it also has this: the word for a person on the path names "
+            "what they are doing, not where they have got to."]),
+    ],
+    terms=[
+        ("sekha",
+         "&ldquo;trainee&rdquo; &mdash; from <em>sikkhati</em>, to train. The answer makes the "
+         "connection audible in Pāli in a way English cannot."),
+        ("sikkhati",
+         "&ldquo;trains&rdquo; &mdash; the verb, and the whole of the definition offered."),
+        ("ujumagga",
+         "&ldquo;the straight road&rdquo; &mdash; what the trainee follows, in the verse."),
+        ("khaya",
+         "&ldquo;ending&rdquo; &mdash; the first knowledge, of the defilements ending, which the "
+         "verse places before enlightenment."),
+        ("akuppā me vimutti",
+         "&ldquo;my freedom is unshakable&rdquo; &mdash; the reflexive knowledge that follows, which "
+         "the canon treats as a separate event from being free."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "How is a trainee defined?"),
+        ("p", "&sect;1", "an3.85:1.1"),
+        ("p", "&sect;2", "an3.85:2.1-2.6"),
+        ("h3", "In verse"),
+        ("p", "&sect;3", "an3.85:3.1-3.4"),
+        ("p", "&sect;4", "an3.85:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "How is a trainee defined?",
+         "opts": [
+             "By attainment",
+             "By ordination",
+             "&ldquo;They train, that&rsquo;s why they&rsquo;re called a trainee&rdquo;",
+             "By years of practice"],
+         "correct": 2,
+         "expl": "<em>Sikkhati</em> and <em>sekha</em> are the same root."},
+        {"q": "Why does the guide say the answer is not evasion?",
+         "opts": [
+             "Because it is traditional",
+             "Because the questioner has heard the term used as a category, and is being told it is not a rank or a stage but an activity",
+             "Because it is short",
+             "Because the Buddha said it"],
+         "correct": 1,
+         "expl": "Asked whether they are a trainee, a person then has to check whether they are training."},
+        {"q": "What do they train in?",
+         "opts": [
+             "The eightfold path",
+             "The higher ethics, the higher mind, and the higher wisdom",
+             "The monastic code",
+             "The four immeasurables"],
+         "correct": 1,
+         "expl": "The same three the whole chapter is built on."},
+        {"q": "Does the discourse deny the technical use of <em>sekha</em>?",
+         "opts": [
+             "Yes",
+             "No &mdash; both uses are real, and this one answers a question about the word with the plainest thing it means",
+             "It does not mention it",
+             "It replaces it"],
+         "correct": 1,
+         "expl": "Elsewhere a trainee is specifically somebody from stream-entry up."},
+        {"q": "What is surprising about the order in the verses?",
+         "opts": [
+             "That ethics comes last",
+             "That knowledge of ending comes <em>first</em>, and enlightenment follows",
+             "That the trainee is named",
+             "That the road is straight"],
+         "correct": 1,
+         "expl": "The canon distinguishes knowing the defilements are ending from knowing they have ended."},
+        {"q": "What is the second knowledge?",
+         "opts": [
+             "Knowledge of past lives",
+             "Knowledge of others&rsquo; minds",
+             "The reflexive knowledge that one is free &mdash; &ldquo;my freedom is unshakable&rdquo;",
+             "Knowledge of the four truths"],
+         "correct": 2,
+         "expl": "Treated consistently as a separate event from being free."},
+        {"q": "What does <em>anantarā</em> carry in the verse?",
+         "opts": [
+             "That the training is difficult",
+             "That the second thing follows the first without an interval &mdash; in the same lifetime",
+             "That the path is long",
+             "That the order may vary"],
+         "correct": 1,
+         "expl": "Not a promise about many lives."},
+        {"q": "Where does this discourse sit in the chapter?",
+         "opts": [
+             "At the end",
+             "As the hinge &mdash; after what the training is, before AN 3.86 to 3.88 correlate the three trainings with the stages of attainment",
+             "As an aside",
+             "As an introduction"],
+         "correct": 1,
+         "expl": "From what the training is, through who does it, to how far it gets a person."},
+        {"q": "How does this sharpen the Buddha&rsquo;s remark about Ānanda in AN 3.78?",
+         "opts": [
+             "It does not",
+             "&ldquo;Ānanda is a trainee&rdquo; means he is still doing the three &mdash; and among those still doing them he has few equals",
+             "It shows the remark was critical",
+             "It shows Ānanda was an adept"],
+         "correct": 1,
+         "expl": "More precise than it first appears."},
+        {"q": "What does the definition disqualify when applied?",
+         "opts": [
+             "Nothing",
+             "A great many people who hold the title on other grounds &mdash; a student is somebody who studies, a practitioner somebody who practices",
+             "Only monastics",
+             "Only beginners"],
+         "correct": 1,
+         "expl": "Trivial-sounding until it is applied."},
+    ],
+    marginalia=[
+        ("The definition", [
+            "<span class=\"pali\">sikkhati</span>they train",
+            "<span class=\"pali\">sekha</span>therefore, a trainee",
+            "&mdash; an activity, not a rank",
+        ]),
+        ("Two knowledges", [
+            "first &middot; about ending",
+            "then &middot; &ldquo;my freedom is unshakable&rdquo;",
+            "<span class=\"pali\">anantarā</span>without an interval",
+        ]),
+        ("The chapter", [
+            "3.81&ndash;84 &middot; what the training is",
+            "3.85 &middot; who does it",
+            "3.86&ndash;88 &middot; how far it gets",
+        ]),
+        ("Cross-references", [
+            "AN 3.78 &middot; &ldquo;Ānanda is a trainee&rdquo;",
+            "AN 3.73 &middot; trainee and adept",
+            "AN 3.81 &middot; the three trainings",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.85/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.78.html">AN 3.78 &middot; Precepts and Observances</a> &mdash; where the '
+        "Buddha calls Ānanda a trainee in his absence, in the same sentence as the praise. This "
+        "discourse is what makes that remark precise.",
+        '<a href="an-3.73.html">AN 3.73 &middot; With Mahānāma the Sakyan</a> &mdash; for the '
+        "technical division of the three trainings between the trainee and the adept.",
+        '<a href="an-3.81.html">AN 3.81 &middot; Ascetics</a> &mdash; the chapter&rsquo;s opening '
+        "statement of the three trainings that a trainee is, by definition, training in.",
+    ],
+)
