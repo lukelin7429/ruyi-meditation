@@ -2153,3 +2153,1146 @@ page(
         "continues, until the intervening discourses of the Threes are added.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.11–20 — Rathakāravagga
+# --------------------------------------------------------------------------- #
+VAGGA_2 = "<em>Rathakāravagga</em> &mdash; the second chapter of the Threes"
+NO_SETTING = ("None stated; the discourse continues from AN 3.1, whose setting at Sāvatthī "
+              "is understood to hold")
+
+page(
+    11, "Ñāta", "Well-known",
+    vagga=VAGGA_2,
+    meta_title="AN 3.11 — Well-known | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ñātasutta — what a "
+        "well-known mendicant does with the three things they encourage, and why the "
+        "discourse specifies fame before it specifies conduct. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel passages, negative then positive, on one qualified subject"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on the influence of prominent monastics appears "
+                              "in the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief, with one qualifying word "
+                       "doing all the work"),
+    ],
+    why=(
+        "The second chapter of the Threes opens on a subject the first never touched: not what a "
+        "person is, but what a person with an audience is. The discourse is about a "
+        "<em>well-known</em> mendicant &mdash; and everything it says would be unremarkable without "
+        "that word. What it names is the multiplier: the same three things, encouraged by someone "
+        "nobody listens to, do not act for the harm of gods and humans."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant with a reputation encourages deeds and principles, and whether those are in "
+            "line with good qualities decides whether their fame does harm or good on a very large "
+            "scale."]),
+        ("The word that changes everything", [
+            "<em>Ñāta</em> means known, famous, recognized. Strip it out and the discourse reads like "
+            "any of the ten before it: someone who promotes bad conduct acts for the harm of the "
+            "many. With it, the subject is different. The discourse is not about a fault; it is about "
+            "a fault with reach.",
+            "The Aṅguttara is unusually attentive to this. AN 2.39 described what happens when bad "
+            "mendicants are strong and the good-hearted fall silent. AN 2.44 described the assembly "
+            "whose seniors are leaders in backsliding and whose juniors follow. Both are about "
+            "influence rather than about individual conduct, and this discourse states the principle "
+            "underlying them: a person whose words carry has a different relationship to their own "
+            "faults than a person whose words do not."]),
+        ("Three things, and the third is odd", [
+            "The three are deeds of body, deeds of speech, and <em>principles</em> &mdash; "
+            "<em>dhamma</em>. The first two are the familiar list minus its third member; mental "
+            "action has been replaced by something else.",
+            "That substitution is the discourse&rsquo;s real content. What a well-known person "
+            "encourages is not only how people behave but what they take to be true, and the "
+            "discourse counts the second as a third kind of encouragement alongside the two kinds of "
+            "conduct. A prominent teacher propagates a view whether or not they mean to.",
+            "It is worth setting this beside AN 3.2, where the three things were body, speech, and "
+            "mind. For an ordinary person the third term is private &mdash; what they cultivate in "
+            "thought. For a well-known person it has become public: the principles they encourage in "
+            "others. Fame converts the inner term into an outer one."]),
+        ("Reading it now", [
+            "The discourse assumes a world in which a well-known monastic&rsquo;s reach was a "
+            "district and a generation. That assumption no longer holds, and the arithmetic of the "
+            "claim has changed accordingly rather than the claim itself.",
+            "It is also worth naming what the discourse does not offer, which is any advice about "
+            "how to become or stay well-known, or any suggestion that a person should avoid "
+            "prominence. It treats being known as a circumstance, like the shopkeeper&rsquo;s "
+            "capital two discourses later. What it asks is what is being multiplied."]),
+    ],
+    terms=[
+        ("ñāta",
+         "&ldquo;known, famous, recognized&rdquo; &mdash; the qualifying word without which the "
+         "discourse would say nothing new."),
+        ("samādapeti",
+         "&ldquo;encourages, incites, takes up together with&rdquo; &mdash; what the well-known "
+         "mendicant does with deeds and principles. Not commanding but bringing others along."),
+        ("dhamma",
+         "&ldquo;principle, teaching&rdquo; &mdash; the third of the three things encouraged, "
+         "replacing the mental action of the standard triad."),
+        ("ananulomika",
+         "&ldquo;not in line with&rdquo; &mdash; said of what is encouraged when it does not accord "
+         "with good qualities."),
+        ("bahujanaahitāya",
+         "&ldquo;for the detriment of the people&rdquo; &mdash; the standard formula for large-scale "
+         "harm, used in the Ones of those who make the true teaching disappear."),
+    ],
+    text_intro=(
+        "The discourse in full, in two parallel passages. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A well-known mendicant, acting for harm"),
+        ("p", "&sect;1", "an3.11:1.1-1.4"),
+        ("h3", "And for welfare"),
+        ("p", "&sect;2", "an3.11:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What single word makes this discourse different from the ten before it?",
+         "opts": [
+             "<em>Mendicant</em>",
+             "<em>Ñāta</em> &mdash; well-known; the subject is a fault with reach rather than a fault",
+             "<em>Deeds</em>",
+             "<em>Principles</em>"],
+         "correct": 1,
+         "expl": "Strip it out and the discourse reads like any of the ten before it."},
+        {"q": "Which three things does a well-known mendicant encourage?",
+         "opts": [
+             "Deeds of body, deeds of speech, and principles",
+             "Deeds of body, speech, and mind",
+             "Giving, ethics, and meditation",
+             "Faith, energy, and wisdom"],
+         "correct": 0,
+         "expl": "Mental action has been replaced by something else."},
+        {"q": "What does that substitution amount to?",
+         "opts": [
+             "Nothing; the terms are synonyms",
+             "What a well-known person encourages is not only how people behave but what they take to be true &mdash; a prominent teacher propagates a view whether or not they mean to",
+             "That mental action does not matter",
+             "That principles are easier to teach"],
+         "correct": 1,
+         "expl": "The discourse counts it as a third kind of encouragement alongside the two kinds of conduct."},
+        {"q": "How does the guide relate this to AN 3.2?",
+         "opts": [
+             "They are unrelated",
+             "For an ordinary person the third term is private &mdash; what they cultivate in thought; for a well-known person it has become public. Fame converts the inner term into an outer one",
+             "AN 3.2 contradicts this discourse",
+             "AN 3.2 uses the same three terms"],
+         "correct": 1,
+         "expl": "A small change in a list carrying a real observation."},
+        {"q": "Which earlier discourses does the guide say share this concern with influence?",
+         "opts": [
+             "AN 2.39 on bad mendicants being strong, and AN 2.44 on the assembly whose seniors are leaders in backsliding",
+             "AN 2.141&ndash;150 on giving",
+             "AN 1.1&ndash;10 on the senses",
+             "AN 2.77&ndash;86 on causation"],
+         "correct": 0,
+         "expl": "Both are about influence rather than individual conduct."},
+        {"q": "What principle does this discourse state that underlies them?",
+         "opts": [
+             "That fame should be avoided",
+             "That a person whose words carry has a different relationship to their own faults than a person whose words do not",
+             "That reputation is always deserved",
+             "That influence cannot be measured"],
+         "correct": 1,
+         "expl": "The multiplier is the subject."},
+        {"q": "What does <em>samādapeti</em> mean?",
+         "opts": [
+             "&ldquo;Commands&rdquo;",
+             "&ldquo;Encourages, incites, takes up together with&rdquo; &mdash; bringing others along rather than commanding",
+             "&ldquo;Forbids&rdquo;",
+             "&ldquo;Records&rdquo;"],
+         "correct": 1,
+         "expl": "Which is how influence actually works in the discourse's picture."},
+        {"q": "What does the discourse <em>not</em> offer?",
+         "opts": [
+             "Any advice about becoming or staying well-known, or any suggestion that a person should avoid prominence",
+             "Any account of harm",
+             "Any positive case",
+             "Any mention of principles"],
+         "correct": 0,
+         "expl": "It treats being known as a circumstance and asks what is being multiplied."},
+        {"q": "What assumption of the discourse no longer holds?",
+         "opts": [
+             "That monastics exist",
+             "That a well-known monastic&rsquo;s reach was a district and a generation",
+             "That conduct matters",
+             "That teachings can be encouraged"],
+         "correct": 1,
+         "expl": "The arithmetic of the claim has changed; the claim has not."},
+        {"q": "What is the formula <em>bahujanaahitāya</em> used of elsewhere in this series?",
+         "opts": [
+             "Those who make the true teaching disappear, in the Ones",
+             "The foremost disciples",
+             "The four assemblies",
+             "The ten recollections"],
+         "correct": 0,
+         "expl": "The standard formula for large-scale harm."},
+    ],
+    marginalia=[
+        ("One word", [
+            "<span class=\"pali\">ñāta</span>well-known",
+            "&mdash; a fault with reach",
+        ]),
+        ("Three things", [
+            "deeds of body",
+            "deeds of speech",
+            "<span class=\"pali\">dhamma</span>principles",
+            "&mdash; mind, gone public",
+        ]),
+        ("What it does not say", [
+            "not: avoid prominence",
+            "not: how to become known",
+            "but: what is being multiplied",
+        ]),
+        ("Cross-references", [
+            "AN 2.39 &middot; when bad monastics are strong",
+            "AN 2.44 &middot; seniors set the pace",
+            "AN 3.2 &middot; the private third term",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.11/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-2.32-41.html">AN 2.32&ndash;41 &middot; The Peaceful Mind</a> &mdash; AN 2.39, '
+        "on what happens to a community when the influence runs the wrong way and the decent fall "
+        "silent.",
+        '<a href="an-3.12.html">AN 3.12 &middot; Commemoration</a> &mdash; next in this series.',
+    ],
+)
+
+
+page(
+    12, "Sāraṇīya", "Commemoration",
+    vagga=VAGGA_2,
+    meta_title="AN 3.12 — Commemoration | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sāraṇīyasutta — the "
+        "three places a king remembers all his life, and the three a mendicant should, with "
+        "the parallel drawn exactly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three places for a king, then three for a mendicant, on a strict parallel"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material appears in the Chinese Āgamas, where places "
+                              "associated with the Buddha&rsquo;s life became objects of pilgrimage; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple, and quietly making a "
+                       "large claim about what a life is measured by"),
+    ],
+    why=(
+        "An anointed king remembers three places as long as he lives: where he was born, where he was "
+        "crowned, and where he won his decisive battle. The discourse gives the list, and then gives "
+        "a mendicant&rsquo;s three: where they went forth, where they understood the four truths, and "
+        "where they realized freedom. The parallel is exact and the substitution is the point. A "
+        "life is measured by three moments, and the question is which three."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Both a king and a mendicant have three places worth remembering for life, and the two "
+            "lists are structurally identical and share nothing."]),
+        ("The king&rsquo;s three", [
+            "Birth, coronation, and the battle that established him as foremost. Read as a life they "
+            "are: what you were given, what you were granted, and what you took. Two of the three "
+            "depend entirely on other people &mdash; a king does not choose to be born royal or "
+            "anoint himself &mdash; and the third is a victory over someone else.",
+            "The discourse does not criticize any of this. It is stated as a plain fact about what a "
+            "king commemorates, and the tone is neutral. The critique, if there is one, is entirely "
+            "in the parallel."]),
+        ("The mendicant&rsquo;s three", [
+            "Where they shaved off hair and beard, put on ocher robes, and went forth. Where they "
+            "truly understood <em>this is suffering, this is its origin, this is its cessation, this "
+            "is the practice leading to its cessation</em>. And where they realized the undefiled "
+            "freedom of heart and freedom by wisdom in this very life.",
+            "Line the two lists up. Birth answers to going forth &mdash; both are the beginning of a "
+            "life, one received and one undertaken. Coronation answers to understanding the four "
+            "truths &mdash; both the moment of becoming what one is going to be. And the decisive "
+            "battle answers to the ending of the defilements &mdash; both a victory, except that the "
+            "second has no opponent outside the person who wins it.",
+            "That third correspondence is the discourse&rsquo;s sharpest move and it is made without "
+            "comment. A king&rsquo;s greatest day is the day he defeated somebody. A "
+            "mendicant&rsquo;s is the day nothing was left to defeat."]),
+        ("Why places", [
+            "The Pāli is specific: these are <em>places</em>, not moments. <em>Sāraṇīya</em> is worth "
+            "remembering, worth calling to mind; and what is to be remembered is where the thing "
+            "happened.",
+            "That the canon locates spiritual events geographically is not incidental. The four places "
+            "the Buddha is elsewhere said to name as worth seeing &mdash; where he was born, awakened, "
+            "first taught, and passed away &mdash; are the origin of Buddhist pilgrimage, and the "
+            "logic here is the same. A realization has an address.",
+            "For a modern reader who has met Buddhism mostly as an interior practice, this is worth "
+            "sitting with. The discourse does not tell a mendicant to remember three states of mind. "
+            "It tells them to remember three locations, which means their practice is a thing that "
+            "happened somewhere, on a particular day, in a body that was standing in a particular "
+            "field."]),
+        ("Teaching it", [
+            "The exercise this discourse suggests almost writes itself, and it works with any group. "
+            "The king&rsquo;s list is easy to construct for oneself &mdash; where you were born, where "
+            "you were given what you have, where you won. The mendicant&rsquo;s list is harder and the "
+            "difficulty is instructive: most people can name the first, few can name the second, and "
+            "the third is not available.",
+            "Read that way the discourse is not a criticism of kings but a description of an "
+            "incomplete list, and the incompleteness is the ordinary condition. AN 3.13, the next "
+            "discourse, is about exactly that: what it is like to be partway through such a list, and "
+            "what it is like not to be on it at all."]),
+    ],
+    terms=[
+        ("sāraṇīya",
+         "&ldquo;worth remembering, to be called to mind&rdquo; &mdash; from the root for memory. The "
+         "discourse&rsquo;s name, and said of places rather than of events."),
+        ("muddhāvasitta",
+         "&ldquo;anointed on the head&rdquo; &mdash; the coronation rite that makes a king, and the "
+         "second of his three places."),
+        ("agārasmā anagāriyaṁ pabbajati",
+         "&ldquo;goes forth from the lay life to homelessness&rdquo; &mdash; the standard formula for "
+         "ordination, and the mendicant&rsquo;s first place."),
+        ("cetovimutti / paññāvimutti",
+         "&ldquo;freedom of heart&rdquo; and &ldquo;freedom by wisdom&rdquo; &mdash; realized "
+         "together at the mendicant&rsquo;s third place, answering to the king&rsquo;s battle."),
+        ("āsavānaṁ khayā",
+         "&ldquo;due to the ending of defilements&rdquo; &mdash; the phrase that marks the third "
+         "place as an ending rather than an achievement over anyone."),
+    ],
+    text_intro=(
+        "The discourse in full: the king&rsquo;s three places, then the mendicant&rsquo;s. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The three places a king commemorates"),
+        ("p", "&sect;1", "an3.12:1.1-1.4"),
+        ("p", "&sect;2&ndash;3", "an3.12:2.1-3.3"),
+        ("h3", "And the three a mendicant should"),
+        ("p", "&sect;4", "an3.12:4.1-4.4"),
+        ("p", "&sect;5&ndash;6", "an3.12:5.1-6.3"),
+    ],
+    quiz=[
+        {"q": "Which three places does an anointed king commemorate?",
+         "opts": [
+             "Where he was born, where he was anointed, and where he won victory in battle",
+             "His palace, his temple, and his treasury",
+             "Where he was married, where his heir was born, and where he died",
+             "Three cities of his realm"],
+         "correct": 0,
+         "expl": "What you were given, what you were granted, and what you took."},
+        {"q": "How many of the king&rsquo;s three depend entirely on other people?",
+         "opts": ["None", "Two &mdash; a king does not choose to be born royal or anoint himself",
+                  "All three", "One"],
+         "correct": 1,
+         "expl": "And the third is a victory over someone else."},
+        {"q": "Which three places should a mendicant commemorate?",
+         "opts": [
+             "Where they were born, ordained, and will die",
+             "Where they went forth; where they truly understood the four truths; and where they realized freedom of heart and freedom by wisdom",
+             "Three monasteries",
+             "Where they first heard the Dhamma, first gave alms, and first meditated"],
+         "correct": 1,
+         "expl": "The parallel with the king's list is exact."},
+        {"q": "What does the discourse&rsquo;s sharpest correspondence pair?",
+         "opts": [
+             "Birth with going forth",
+             "Coronation with understanding the truths",
+             "The decisive battle with the ending of the defilements &mdash; both a victory, except that the second has no opponent outside the person who wins it",
+             "Nothing; the lists are unrelated"],
+         "correct": 2,
+         "expl": "A king's greatest day is the day he defeated somebody; a mendicant's is the day nothing was left to defeat."},
+        {"q": "Does the discourse criticize the king&rsquo;s list?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; it is stated as a plain fact and the tone is neutral; the critique, if there is one, is entirely in the parallel",
+             "Yes, by calling it worldly",
+             "The discourse does not mention a king"],
+         "correct": 1,
+         "expl": "The substitution does the work without comment."},
+        {"q": "What is notable about the Pāli specifying <em>places</em>?",
+         "opts": [
+             "Nothing; places and moments are the same",
+             "The canon locates spiritual events geographically &mdash; a realization has an address, which is the same logic behind the four places of Buddhist pilgrimage",
+             "It means the events are legendary",
+             "It restricts the teaching to India"],
+         "correct": 1,
+         "expl": "The discourse does not tell a mendicant to remember three states of mind."},
+        {"q": "Why does the guide say that is worth sitting with?",
+         "opts": [
+             "Because pilgrimage is required",
+             "Because for a reader who has met Buddhism mostly as an interior practice, it means the practice is a thing that happened somewhere, on a particular day, in a body standing in a particular field",
+             "Because places can be visited",
+             "Because geography is doctrinally important"],
+         "correct": 1,
+         "expl": "Three locations, not three states."},
+        {"q": "What exercise does the guide propose?",
+         "opts": [
+             "Memorizing the Pāli names",
+             "Constructing both lists for oneself &mdash; most people can name the first of the mendicant&rsquo;s three, few can name the second, and the third is not available",
+             "Visiting the four pilgrimage places",
+             "Reciting the four truths daily"],
+         "correct": 1,
+         "expl": "The difficulty of the second list is the instructive part."},
+        {"q": "How does that reading change the discourse?",
+         "opts": [
+             "It becomes a criticism of kings",
+             "It becomes a description of an incomplete list, and the incompleteness is the ordinary condition",
+             "It becomes irrelevant to laypeople",
+             "It becomes a rule"],
+         "correct": 1,
+         "expl": "Which is exactly what AN 3.13 takes up next."},
+        {"q": "What does <em>sāraṇīya</em> mean?",
+         "opts": [
+             "&ldquo;Worth remembering, to be called to mind&rdquo; &mdash; from the root for memory",
+             "&ldquo;Sacred&rdquo;",
+             "&ldquo;Hidden&rdquo;",
+             "&ldquo;Distant&rdquo;"],
+         "correct": 0,
+         "expl": "The discourse's name, and said of places rather than of events."},
+    ],
+    marginalia=[
+        ("A king&rsquo;s three", [
+            "where he was born",
+            "where he was anointed",
+            "where he won the battle",
+        ]),
+        ("A mendicant&rsquo;s three", [
+            "where they went forth",
+            "where they understood the truths",
+            "where the defilements ended",
+        ]),
+        ("The third pairing", [
+            "a victory over someone",
+            "a victory with no opponent",
+        ]),
+        ("Cross-references", [
+            "AN 2.52&ndash;63 &middot; Buddha and monarch paired",
+            "AN 3.13 &middot; next: partway through the list",
+            "AN 3.14 &middot; the monarch&rsquo;s own king",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.12/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-2.52-63.html">AN 2.52&ndash;63 &middot; Individuals</a> &mdash; where the Buddha '
+        "and the wheel-turning monarch are paired four times in public standing but never in "
+        "attainment, which is the same move this discourse makes with three places.",
+        '<a href="an-3.13.html">AN 3.13 &middot; Hopes</a> &mdash; next in this series, on what it is '
+        "like to be partway through such a list, and what it is like not to be on it.",
+    ],
+)
+
+
+page(
+    13, "Āsaṁsa", "Hopes",
+    vagga=VAGGA_2,
+    meta_title="AN 3.13 — Hopes | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Āsaṁsasutta — the "
+        "hopeless, the hopeful, and the one who has done away with hope, illustrated first "
+        "with a royal succession and then with the Saṅgha. The chapter's caste and disability "
+        "language read honestly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three individuals defined and illustrated among laypeople, then the same three "
+                 "among mendicants, on a strict parallel"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "Comparable three-person typologies appear in the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the structure is clear; the "
+                       "illustration in the first half needs handling"),
+    ],
+    why=(
+        "Three individuals: the hopeless, the hopeful, and the one who has done away with hope. The "
+        "first and third look alike from outside &mdash; neither of them thinks <em>when will it be "
+        "my turn?</em> &mdash; and the discourse&rsquo;s whole point is that they are opposites. But "
+        "the illustration it uses for the first is a passage about caste and disability that reads "
+        "badly today and should not be passed over, and the illustration it uses for the third has an "
+        "internal tension with the discourse two pages later. Both are worth facing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Hopelessness and the end of hope produce the same silence and are opposite conditions."]),
+        ("The structure", [
+            "Three individuals, each defined by what does or does not occur to them on hearing a "
+            "particular piece of news. The hopeless person hears that someone has been made king and "
+            "it never occurs to them to wonder when their own turn will come. The hopeful person "
+            "hears it and does wonder. The person who has done away with hope hears it and does not "
+            "wonder &mdash; because they have already been crowned.",
+            "So the first and third are behaviorally identical and causally opposite. One does not "
+            "hope because it is unimaginable; the other does not hope because it is finished. That is "
+            "a genuinely acute observation and it survives entirely intact into the second half, "
+            "where the news is that a certain mendicant has realized freedom.",
+            "The three among mendicants are: the unethical person, of bad qualities, &ldquo;rotten "
+            "inside, festering, and depraved,&rdquo; to whom it never occurs that they might be freed; "
+            "the ethical person, to whom it does occur; and the perfected one, to whom it does not, "
+            "because <em>the former hope they had to be freed has now died down</em>."]),
+        ("The caste and disability passage", [
+            "The illustration of the hopeless layperson is the difficult part, and it should be read "
+            "rather than summarized. The person is born into a low family &mdash; corpse-workers, "
+            "bamboo-workers, hunters, chariot-makers, scavengers &mdash; poor, with little food, where "
+            "life is tough. And then: ugly, deformed, sickly, one-eyed, crippled, lame, or "
+            "half-paralyzed, without food, clothing, or shelter.",
+            "There is no version of this that a modern reader will find comfortable, and the honest "
+            "things to say about it are limited but real. First, what the passage is doing "
+            "structurally: it is constructing the most extreme case of social impossibility available "
+            "to its audience, in order to make vivid a state of mind &mdash; the state in which a "
+            "certain future does not present itself as a possibility at all. The disability terms are "
+            "there for the same reason as the poverty terms, as intensifiers.",
+            "Second, what that does not excuse: the passage treats birth and bodily condition as "
+            "self-evidently marking a person as beyond hope, and it does so without comment. That is a "
+            "view about caste and about disabled people, and it is in the text. A reader who finds it "
+            "objectionable is not misreading it.",
+            "Third, what the same canon does elsewhere, which is not a defense but is part of an "
+            "accurate picture. The Buddha is repeatedly shown rejecting birth as a determinant of "
+            "worth, ordaining people from exactly these occupations, and telling brahmins that one is "
+            "not noble by birth but by conduct. Upāli, on whom the entire monastic law depends, is "
+            "remembered as a barber. The second half of this very discourse relocates hopelessness "
+            "from birth to conduct: among mendicants, the hopeless person is hopeless because they are "
+            "corrupt, not because of how they were born.",
+            "That last point is the most useful thing to teach here. The discourse&rsquo;s two halves "
+            "do not use the same criterion, and the shift from the first to the second is a shift "
+            "from a social fact to a moral one."]),
+        ("The chariot-maker", [
+            "One detail in the list of low families is worth pointing out because of what happens two "
+            "discourses later. <em>Rathakāra</em>, chariot-maker, is named here among the occupations "
+            "that mark a hopeless birth. AN 3.15 &mdash; which gives this whole chapter its name "
+            "&mdash; is the story of a chariot-maker, and it ends with the Buddha saying "
+            "<em>I myself was the chariot-maker at that time</em>.",
+            "The two passages sit four pages apart in the same chapter. Nothing in the text "
+            "acknowledges the tension and it may well be accidental, since the Aṅguttara assembles "
+            "material by number rather than by theme. But a reader who notices it has noticed "
+            "something real, and pointing it out is a better use of a class than smoothing it over: "
+            "the collection lists chariot-making among the marks of a hopeless birth, and then has "
+            "the Buddha claim the trade as his own."]),
+        ("What &ldquo;done away with hope&rdquo; means", [
+            "The third individual is <em>vigatāsa</em>, hope-departed, and the phrase for why is "
+            "precise: <em>the former hope they had to be freed has now died down</em>. Not abandoned, "
+            "not renounced &mdash; <em>paṭippassaddhā</em>, stilled, settled, calmed. The hope has not "
+            "been given up as a fault. It has stopped because it has been satisfied.",
+            "That matters because Buddhism is often presented as recommending the abandonment of hope "
+            "on the grounds that hope is a form of craving. This discourse does not do that. The "
+            "hopeful mendicant is the ethical one, and hoping to be freed is what an ethical "
+            "practitioner does. Hope ends when it is met, and its ending is not something to aim at "
+            "separately from the thing hoped for."]),
+    ],
+    terms=[
+        ("āsaṁsa",
+         "&ldquo;hope, expectation&rdquo; &mdash; the discourse&rsquo;s name and the axis of its "
+         "three-person typology."),
+        ("nirāsa / āsaṁsa / vigatāsa",
+         "&ldquo;hopeless,&rdquo; &ldquo;hopeful,&rdquo; and &ldquo;hope-departed&rdquo; &mdash; the "
+         "first and third behaviorally identical and causally opposite."),
+        ("paṭippassaddhā",
+         "&ldquo;died down, stilled, calmed&rdquo; &mdash; what happens to the hope of the perfected "
+         "one. Not abandoned or renounced; satisfied."),
+        ("nīce kule",
+         "&ldquo;in a low family&rdquo; &mdash; the phrase introducing the caste passage, followed by "
+         "a list of occupations including <em>rathakāra</em>, chariot-maker."),
+        ("dussīla pāpadhamma",
+         "&ldquo;unethical, of bad qualities&rdquo; &mdash; the criterion for hopelessness in the "
+         "second half, where conduct replaces birth."),
+    ],
+    text_intro=(
+        "The discourse in full: the three individuals among people at large, then the same three "
+        "among mendicants. The first illustration includes a passage on caste and bodily condition "
+        "that the reading guide addresses directly. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The hopeless, the hopeful, and the one who has done away with hope"),
+        ("p", "&sect;1", "an3.13:1.1-1.11"),
+        ("p", "&sect;2", "an3.13:2.1-2.7"),
+        ("p", "&sect;3", "an3.13:3.1-3.10"),
+        ("h3", "The same three among mendicants"),
+        ("p", "&sect;4", "an3.13:4.1-4.10"),
+        ("p", "&sect;5", "an3.13:5.1-5.7"),
+        ("p", "&sect;6", "an3.13:6.1-6.10"),
+    ],
+    quiz=[
+        {"q": "What do the hopeless person and the one who has done away with hope have in common?",
+         "opts": [
+             "Both are unethical",
+             "Neither thinks &ldquo;when will it be my turn?&rdquo; &mdash; they are behaviorally identical and causally opposite",
+             "Both have been crowned",
+             "Both are mendicants"],
+         "correct": 1,
+         "expl": "One does not hope because it is unimaginable; the other because it is finished."},
+        {"q": "Who are the three among mendicants?",
+         "opts": [
+             "The unethical person, the ethical person, and the perfected one",
+             "The novice, the trainee, and the elder",
+             "The forest dweller, the village dweller, and the wanderer",
+             "The teacher, the student, and the donor"],
+         "correct": 0,
+         "expl": "The news they hear is that a certain mendicant has realized freedom."},
+        {"q": "What does the guide say the caste and disability passage is doing structurally?",
+         "opts": [
+             "Making a doctrinal claim about rebirth",
+             "Constructing the most extreme case of social impossibility available to its audience, to make vivid a state of mind in which a certain future does not present itself as a possibility at all",
+             "Describing a specific historical person",
+             "Listing occupations open to monastics"],
+         "correct": 1,
+         "expl": "The disability terms are there for the same reason as the poverty terms, as intensifiers."},
+        {"q": "What does the guide say that does <em>not</em> excuse?",
+         "opts": [
+             "Nothing needs excusing",
+             "That the passage treats birth and bodily condition as self-evidently marking a person as beyond hope, without comment &mdash; a view about caste and about disabled people that is in the text",
+             "The length of the discourse",
+             "The use of a royal illustration"],
+         "correct": 1,
+         "expl": "A reader who finds it objectionable is not misreading it."},
+        {"q": "What does the same canon do elsewhere, as part of an accurate picture?",
+         "opts": [
+             "Repeats the same view without variation",
+             "Shows the Buddha rejecting birth as a determinant of worth, ordaining people from these occupations, and telling brahmins one is noble by conduct rather than birth &mdash; and Upāli, on whom the monastic law depends, is remembered as a barber",
+             "Never mentions caste",
+             "Endorses the caste system explicitly"],
+         "correct": 1,
+         "expl": "Not a defense, but part of an accurate picture."},
+        {"q": "What is the most useful thing to teach about the discourse&rsquo;s two halves?",
+         "opts": [
+             "That they are identical",
+             "That they do not use the same criterion &mdash; the shift from the first to the second is a shift from a social fact to a moral one",
+             "That the second half is later",
+             "That only the second half is authentic"],
+         "correct": 1,
+         "expl": "Among mendicants, the hopeless person is hopeless because they are corrupt, not because of how they were born."},
+        {"q": "What tension does the guide point out with AN 3.15?",
+         "opts": [
+             "None",
+             "<em>Rathakāra</em>, chariot-maker, is listed here among the occupations marking a hopeless birth &mdash; and AN 3.15 ends with the Buddha saying &ldquo;I myself was the chariot-maker at that time&rdquo;",
+             "AN 3.15 repeats the caste list",
+             "AN 3.15 corrects this discourse"],
+         "correct": 1,
+         "expl": "Four pages apart in the same chapter, and nothing in the text acknowledges it."},
+        {"q": "How does the guide suggest handling that tension?",
+         "opts": [
+             "Smoothing it over",
+             "Pointing it out &mdash; it may well be accidental, since the Aṅguttara assembles by number rather than theme, but a reader who notices it has noticed something real",
+             "Treating it as proof of forgery",
+             "Ignoring AN 3.15"],
+         "correct": 1,
+         "expl": "A better use of a class than smoothing it over."},
+        {"q": "What does <em>paṭippassaddhā</em> say about the perfected one&rsquo;s hope?",
+         "opts": [
+             "That it was abandoned as a fault",
+             "That it has died down, stilled, calmed &mdash; it stopped because it was satisfied",
+             "That it was never present",
+             "That it was replaced by a greater hope"],
+         "correct": 1,
+         "expl": "Not abandoned or renounced."},
+        {"q": "What common presentation of Buddhism does this discourse cut against?",
+         "opts": [
+             "That Buddhism recommends abandoning hope on the grounds that hope is a form of craving &mdash; here the hopeful mendicant is the ethical one, and hope ends when it is met",
+             "That Buddhism values ethics",
+             "That Buddhism has stages of attainment",
+             "That Buddhism uses similes"],
+         "correct": 0,
+         "expl": "The ending of hope is not something to aim at separately from the thing hoped for."},
+    ],
+    marginalia=[
+        ("Three individuals", [
+            "<span class=\"pali\">nirāsa</span>hopeless",
+            "<span class=\"pali\">āsaṁsa</span>hopeful",
+            "<span class=\"pali\">vigatāsa</span>hope departed",
+            "&mdash; first and third look alike",
+        ]),
+        ("Two criteria", [
+            "first half &middot; birth and body",
+            "second half &middot; conduct",
+            "&mdash; not the same test",
+        ]),
+        ("A tension", [
+            "3.13 &middot; chariot-maker, a low birth",
+            "3.15 &middot; &ldquo;I was the chariot-maker&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.15 &middot; the chariot-maker",
+            "AN 3.12 &middot; an incomplete list",
+            "Dhammapada 26 &middot; noble by conduct",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.13/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../dhammapada/dhp-26.html">Dhammapada 26 &middot; Brahmins</a> &mdash; the '
+        "collection&rsquo;s sustained argument that one is not noble by birth but by conduct, which "
+        "is the other half of the canon&rsquo;s position on what this discourse illustrates with.",
+        '<a href="an-3.15.html">AN 3.15 &middot; About Pacetana</a> &mdash; where the Buddha names '
+        "himself a chariot-maker, four pages after chariot-making appears in a list of hopeless "
+        "births.",
+        '<a href="an-1.219-234.html">AN 1.219&ndash;234 &middot; Foremost Monks (IV)</a> &mdash; '
+        "Upāli, remembered as a barber, foremost in the monastic law and reciting it at the first "
+        "council.",
+    ],
+)
+
+
+page(
+    14, "Cakkavatti", "The Wheel-Turning Monarch",
+    vagga=VAGGA_2,
+    meta_title="AN 3.14 — The Wheel-Turning Monarch | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Cakkavattisutta — "
+        "even a universal monarch has a king above him, and it is principle; and the Buddha "
+        "rules the same way, over actions of body, speech, and mind. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", "The Buddha, answering a question from one of the mendicants"),
+        ("Form", "A cryptic statement, a question from the assembly, and the answer worked out on "
+                 "both sides of a parallel"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The wheel-turning monarch ruling by Dharma is a standard theme across "
+                              "the Chinese Āgamas and shaped Buddhist political thought in East Asia; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and one of the most "
+                       "consequential political passages in the canon"),
+    ],
+    why=(
+        "&ldquo;Even a wheel-turning monarch does not wield power without having their own king.&rdquo; "
+        "A monk asks the obvious question &mdash; who is the king of a universal monarch? &mdash; and "
+        "the answer is one word: <em>dhamma</em>. Principle. What follows is the working out of that "
+        "on two sides: how a king rules under principle, and how a Buddha does. It is the passage "
+        "every Buddhist polity from Aśoka onward reached for, and its logic is worth having exactly "
+        "right."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The highest human authority is itself under an authority, and so is the Buddha; the name "
+            "of that authority is principle."]),
+        ("The claim, and the question it provokes", [
+            "The opening sentence is deliberately incomplete: even a wheel-turning monarch, a just and "
+            "principled king, does not wield power <em>arājaka</em> &mdash; kingless. The word is "
+            "arresting because a <em>cakkavatti</em> is by definition the one who has no superior; "
+            "there is nobody above him in the political order.",
+            "A monk asks. That in itself is worth noticing: the discourse is structured so that the "
+            "answer is requested rather than volunteered, and the request comes from the assembly. It "
+            "is a small piece of pedagogy embedded in a political teaching.",
+            "The answer is <em>dhammo</em>. Sujato renders it &ldquo;principle,&rdquo; a choice worth "
+            "flagging: the word could equally be &ldquo;the Dhamma,&rdquo; &ldquo;the law,&rdquo; or "
+            "&ldquo;the teaching,&rdquo; and translators differ. The rendering matters, because "
+            "&ldquo;principle&rdquo; keeps the claim general &mdash; the king is under a standard, not "
+            "under a religion &mdash; while &ldquo;the Dhamma&rdquo; would make it the Buddha&rsquo;s "
+            "teaching specifically. The Pāli does not settle it, and both readings had long careers."]),
+        ("What ruling under principle looks like", [
+            "The king honors, respects, and venerates principle, and has it as his flag, banner, and "
+            "authority. Then the substance: he provides just protection and security for his court, "
+            "his aristocrats and vassals, his troops, brahmins and householders, town and country "
+            "people, ascetics and brahmins &mdash; and <em>beasts and birds</em>.",
+            "That last item is not decorative. The list runs from the innermost circle of power "
+            "outward through every human class to animals, and the same obligation covers all of them. "
+            "A monarch whose legitimacy rests on providing protection to birds is a considerable "
+            "distance from a monarch whose legitimacy rests on conquest, and the canon says this "
+            "twice: this discourse and AN 3.12 together describe a king who commemorates his battle "
+            "and a king who is obligated to wildlife.",
+            "The consequence stated is worth quoting precisely: when he has done this, he wields power "
+            "only in a principled manner, <em>and this power cannot be undermined by any human "
+            "enemy</em>. The claim is not that principled rule is morally preferable. It is that it is "
+            "structurally secure, which is a different and more interesting argument."]),
+        ("And how a Buddha rules", [
+            "The parallel is exact and the domain is different. The Realized One, also called here a "
+            "just and principled king, provides protection and security not over subjects but over "
+            "<em>actions</em>: this kind of bodily action should be cultivated, this kind should not; "
+            "and the same for speech and for mind.",
+            "So the Buddha&rsquo;s realm is conduct, and his governing is the drawing of that line. He "
+            "too rules under principle rather than by personal authority &mdash; which is the "
+            "discourse&rsquo;s most important claim and the one most easily missed. The Buddha is not "
+            "the source of what should and should not be cultivated. He is, on this account, the one "
+            "who sees it and says so, standing under the same authority he points to.",
+            "That reading is consistent with the rest of the canon. It is why AN 3.65 can tell the "
+            "Kālāmas to test claims against observed consequences rather than against a "
+            "teacher&rsquo;s authority, and why AN 1.276 says someone accomplished in view cannot "
+            "dedicate themselves to another teacher &mdash; there is nothing to transfer, because the "
+            "authority was never personal.",
+            "The discourse closes on the wheel: having done this, he rolls forth the supreme Wheel of "
+            "Dhamma, and it <em>cannot be rolled back</em> by any ascetic, brahmin, god, Māra, "
+            "divinity, or anyone in the world. The same structural security claimed for the "
+            "principled king is claimed for the teaching."]),
+        ("What was made of it", [
+            "This passage, and the wheel-turning monarch material generally, is the foundation of "
+            "Buddhist political theory. Aśoka&rsquo;s edicts read as an attempt to govern by it; "
+            "every later Buddhist kingdom in South and Southeast Asia and in East Asia invoked the "
+            "<em>cakkavatti</em> ideal; and the claim that a ruler is subject to Dhamma rather than "
+            "the source of it is the closest thing early Buddhism has to a constitutional principle.",
+            "It should be said that the ideal was invoked at least as often to legitimate power as to "
+            "constrain it. A king who declares himself a wheel-turning monarch has claimed the highest "
+            "available title, and the obligations attached to it are enforced by nobody. That is a "
+            "real limitation of the doctrine and it is visible in the history. But the text itself is "
+            "unambiguous about the direction of authority, and a ruler who invoked it was at least "
+            "invoking something that could be quoted back at them."]),
+    ],
+    terms=[
+        ("cakkavatti",
+         "&ldquo;wheel-turning monarch&rdquo; &mdash; the universal righteous king, who by definition "
+         "has no political superior, which is what makes the discourse&rsquo;s opening arresting."),
+        ("arājaka",
+         "&ldquo;kingless, without a king&rdquo; &mdash; the word the Buddha denies of even a "
+         "universal monarch."),
+        ("dhamma",
+         "the answer to the monk&rsquo;s question. Sujato renders it &ldquo;principle&rdquo;; the word "
+         "could equally be &ldquo;the Dhamma,&rdquo; &ldquo;the law,&rdquo; or &ldquo;the teaching,&rdquo; "
+         "and the choice affects whether the king is under a standard or under a religion."),
+        ("dhammiraṁ rakkhāvaraṇaguttiṁ",
+         "&ldquo;just protection and security&rdquo; &mdash; what the king provides to every class of "
+         "subject, ending with beasts and birds, and what the Buddha provides regarding actions."),
+        ("dhammacakka",
+         "&ldquo;the Wheel of Dhamma&rdquo; &mdash; rolled forth once the protection is established, "
+         "and said to be unrollable-back by anyone in the world."),
+    ],
+    text_intro=(
+        "The discourse in full: the opening claim, the monk&rsquo;s question, and the answer worked "
+        "out for a king and for a Buddha. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Who is the king of a universal monarch?"),
+        ("p", "&sect;1", "an3.14:1.1-1.5"),
+        ("h3", "How a king rules under principle"),
+        ("p", "&sect;2", "an3.14:2.1-2.3"),
+        ("h3", "And how a Realized One does"),
+        ("p", "&sect;3&ndash;4", "an3.14:3.1-4.3"),
+        ("p", "&sect;5", "an3.14:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "Why is the discourse&rsquo;s opening sentence arresting?",
+         "opts": [
+             "Because it names a specific king",
+             "Because a <em>cakkavatti</em> is by definition the one who has no political superior, and the Buddha says even he is not kingless",
+             "Because it is spoken by a monk",
+             "Because it contradicts AN 3.12"],
+         "correct": 1,
+         "expl": "There is nobody above him in the political order."},
+        {"q": "How does the answer come?",
+         "opts": [
+             "The Buddha volunteers it",
+             "A monk asks, so the answer is requested rather than volunteered &mdash; a small piece of pedagogy embedded in a political teaching",
+             "It is not given",
+             "A king asks"],
+         "correct": 1,
+         "expl": "And the request comes from the assembly."},
+        {"q": "What is the answer, and why does the rendering matter?",
+         "opts": [
+             "<em>Dhamma</em> &mdash; and &ldquo;principle&rdquo; keeps the claim general, while &ldquo;the Dhamma&rdquo; would make it the Buddha&rsquo;s teaching specifically",
+             "<em>Kamma</em> &mdash; and the rendering is settled",
+             "<em>Saṅgha</em>",
+             "<em>Nibbāna</em>"],
+         "correct": 0,
+         "expl": "The Pāli does not settle it, and both readings had long careers."},
+        {"q": "Who is on the list of those the king must protect?",
+         "opts": [
+             "Only his court and army",
+             "His court, aristocrats, vassals, troops, brahmins and householders, town and country people, ascetics and brahmins &mdash; and beasts and birds",
+             "Only monastics",
+             "Only his own people"],
+         "correct": 1,
+         "expl": "The list runs from the innermost circle of power outward to animals, with the same obligation covering all."},
+        {"q": "Why does the guide say the last item is not decorative?",
+         "opts": [
+             "Because birds were sacred",
+             "Because a monarch whose legitimacy rests on providing protection to birds is a considerable distance from one whose legitimacy rests on conquest",
+             "Because animals could not be taxed",
+             "Because the Vinaya requires it"],
+         "correct": 1,
+         "expl": "And AN 3.12 has just described a king who commemorates his battle."},
+        {"q": "What consequence does the discourse claim for principled rule?",
+         "opts": [
+             "That it is morally preferable",
+             "That the power cannot be undermined by any human enemy &mdash; a claim about structural security rather than about moral preference",
+             "That it produces wealth",
+             "That it guarantees a long reign"],
+         "correct": 1,
+         "expl": "A different and more interesting argument."},
+        {"q": "What is the Buddha&rsquo;s realm, on the parallel?",
+         "opts": [
+             "Subjects and territory",
+             "Actions &mdash; this kind of bodily, verbal, and mental action should be cultivated, and this kind should not",
+             "The Saṅgha only",
+             "The heavens"],
+         "correct": 1,
+         "expl": "His governing is the drawing of that line."},
+        {"q": "What is the discourse&rsquo;s most important and most easily missed claim?",
+         "opts": [
+             "That the Buddha rules under principle rather than by personal authority &mdash; he is not the source of what should be cultivated but the one who sees it and says so",
+             "That kings should be Buddhists",
+             "That monarchs are superior to monastics",
+             "That the wheel can be rolled back"],
+         "correct": 0,
+         "expl": "Standing under the same authority he points to."},
+        {"q": "Which other passages does the guide say that reading is consistent with?",
+         "opts": [
+             "AN 3.65, telling the Kālāmas to test claims against consequences rather than a teacher&rsquo;s authority, and AN 1.276, where someone accomplished in view cannot dedicate themselves to another teacher",
+             "AN 1.1&ndash;10 and AN 2.1",
+             "AN 2.141&ndash;150",
+             "AN 3.13 alone"],
+         "correct": 0,
+         "expl": "There is nothing to transfer, because the authority was never personal."},
+        {"q": "What limitation of the doctrine does the guide name?",
+         "opts": [
+             "That it is unclear",
+             "That the ideal was invoked at least as often to legitimate power as to constrain it, and the obligations attached to the title are enforced by nobody",
+             "That kings never used it",
+             "That it applies only to India"],
+         "correct": 1,
+         "expl": "A real limitation, visible in the history &mdash; though a ruler who invoked it was invoking something that could be quoted back at them."},
+    ],
+    marginalia=[
+        ("The question", [
+            "even a <span class=\"pali\">cakkavatti</span>",
+            "is not <span class=\"pali\">arājaka</span>",
+            "&mdash; who is his king?",
+        ]),
+        ("The answer", [
+            "<span class=\"pali\">dhammo</span>principle",
+            "his flag, banner, and authority",
+        ]),
+        ("Two realms", [
+            "the king &middot; subjects, down to birds",
+            "the Buddha &middot; actions of body, speech, mind",
+            "&mdash; both under principle",
+        ]),
+        ("Cross-references", [
+            "AN 3.12 &middot; the king who commemorates a battle",
+            "AN 3.65 &middot; authority is not personal",
+            "AN 2.52&ndash;63 &middot; the pair, elsewhere",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.14/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the '
+        "discourse that makes the same point from the listener&rsquo;s side: what settles a claim is "
+        "not who said it.",
+        '<a href="an-2.52-63.html">AN 2.52&ndash;63 &middot; Individuals</a> &mdash; where the Buddha '
+        "and the wheel-turning monarch are paired in public standing but never in attainment.",
+        '<a href="an-3.15.html">AN 3.15 &middot; About Pacetana</a> &mdash; next in this series, '
+        "and the chapter&rsquo;s namesake.",
+    ],
+)
+
+
+page(
+    15, "Sacetana", "About Pacetana",
+    vagga=VAGGA_2,
+    meta_title="AN 3.15 — About Pacetana | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sacetanasutta — the "
+        "chariot-maker who took six months over one wheel and six days over the other, and "
+        "the Buddha's statement that he was the chariot-maker. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Varanasi, in the deer park at Isipatana &mdash; the site of the first teaching, "
+                    "named here rather than the chapter&rsquo;s usual Sāvatthī"),
+        ("Speakers", "The Buddha, narrating a story of his own past life"),
+        ("Form", "A narrative with dialogue, a demonstration, an explanation, and the "
+                 "speaker&rsquo;s identification of himself with its main character"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The story appears in the Chinese Āgamas and in the wider Jātaka "
+                              "literature; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a story, told plainly, with its "
+                       "point stated at the end"),
+    ],
+    why=(
+        "The best-told story in the first two chapters of the Threes, and the one that gives the "
+        "chapter its name. A king orders a pair of chariot wheels six months before a battle. His "
+        "chariot-maker finishes the first with six days to spare, then makes the second in those six "
+        "days. The king cannot tell them apart. The wheels are then rolled, and the difference is "
+        "immediate and total. It is a discourse about the invisibility of workmanship until the thing "
+        "is used &mdash; and it ends with the Buddha saying he was the chariot-maker."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Crookedness that cannot be seen in a finished thing shows the moment the thing is put in "
+            "motion."]),
+        ("The arithmetic of the story", [
+            "The timings are exact and worth following. Six months are allowed. At six days less than "
+            "six months, one wheel is finished &mdash; so the first wheel took almost the whole "
+            "period. The second is then made in the remaining six days.",
+            "The story is careful to make the second wheel a real achievement rather than a botch. "
+            "The chariot-maker says he can do it and does; the wheels are delivered on time; and the "
+            "king, examining them, can see no difference at all. Nothing was skipped that shows. "
+            "Whatever is wrong with the fast wheel is invisible to an interested and competent "
+            "observer holding it in his hands.",
+            "Then it is rolled. Both wheels roll as far as the initial push carries them. The fast one "
+            "wobbles and falls. The slow one <em>stood still as if fixed to an axle</em> &mdash; it "
+            "comes to rest upright, balanced, as though still mounted. The defect was in rim, spoke, "
+            "and hub: crooked, flawed, and defective. Every part."]),
+        ("What the simile is not about", [
+            "It is easy to read this as a discourse about haste, and it is worth being precise, "
+            "because it is not quite that. The chariot-maker was not rushed by his own impatience; he "
+            "was given a deadline and met it. Nor is the point that the fast wheel is useless &mdash; "
+            "it rolls exactly as far as the slow one.",
+            "What separates them is what happens when the momentum runs out. Under the initial push "
+            "the two are indistinguishable. The difference appears only when the wheel has to stand on "
+            "its own accumulated trueness, and at that moment the fast wheel has nothing to draw on.",
+            "Applied to a practitioner, which is what the discourse does, that is a specific and "
+            "uncomfortable claim. Someone whose practice has crooks and flaws is not thereby "
+            "incapable; they will go exactly as far as their initial impetus takes them &mdash; the "
+            "enthusiasm of a new commitment, the momentum of a retreat, the push of a crisis. What "
+            "they will not do is stand when it is spent."]),
+        ("Rim, spoke, and hub", [
+            "The three defective parts are given as three, which is what puts the story in the Threes, "
+            "and the Buddha maps them onto three: the crooks, flaws, and defects of body, speech, and "
+            "mind.",
+            "The vocabulary is worth keeping. <em>Vaṅka</em> is crooked or bent; <em>dosa</em> is a "
+            "flaw or blemish &mdash; the same word as the hatred in greed-hate-delusion, and here "
+            "meaning something closer to a fault in material; <em>kasāva</em> is a stain or "
+            "astringency, a defect running through the grain. Three different kinds of wrongness in a "
+            "piece of wood: bent, blemished, impure.",
+            "That is a more useful taxonomy of a person&rsquo;s faults than good and bad. Something "
+            "bent has been forced out of true by pressure. Something blemished has a local fault. "
+            "Something with <em>kasāva</em> is wrong all the way through and cannot be repaired by "
+            "working on the surface."]),
+        ("&ldquo;I myself was the chariot-maker&rdquo;", [
+            "The turn at the end is the discourse&rsquo;s real content. The Buddha heads off the "
+            "expected assumption &mdash; <em>you might think that chariot-maker must have been someone "
+            "else; you should not see it like that</em> &mdash; and identifies himself with the "
+            "craftsman. Then he draws the parallel exactly: <em>then I was skilled in the crooks, "
+            "flaws, and defects of wood; now I am skilled in the crooks, flaws, and defects of actions "
+            "by body, speech, and mind</em>.",
+            "So the claim is about a transferred competence. What the Buddha has is not a different "
+            "kind of faculty from a craftsman&rsquo;s but the same kind applied to a different "
+            "material: the trained eye that sees a defect in something that looks finished. That is a "
+            "remarkably deflationary self-description for a collection that elsewhere calls him "
+            "unequaled and without peer, and the two pictures sit in the same nipāta.",
+            "It is also worth putting beside AN 3.13, two discourses earlier, where chariot-makers "
+            "appear in a list of low families whose members have no hope. Nothing in the text connects "
+            "them and the juxtaposition may be accidental. But the Buddha of AN 3.15 claims a trade "
+            "that AN 3.13 uses as an example of hopelessness, and a reader is entitled to notice."]),
+    ],
+    terms=[
+        ("rathakāra",
+         "&ldquo;chariot-maker&rdquo; &mdash; the trade the Buddha claims as his own in a past life, "
+         "and one of the occupations listed at AN 3.13 as marking a hopeless birth."),
+        ("vaṅka",
+         "&ldquo;crooked, bent&rdquo; &mdash; the first of the three defects; something forced out of "
+         "true."),
+        ("dosa",
+         "&ldquo;flaw, blemish&rdquo; &mdash; the second. The same word as the hatred of "
+         "greed-hate-delusion, here meaning a fault in the material."),
+        ("kasāva",
+         "&ldquo;defect, stain, astringency&rdquo; &mdash; the third, running through the grain, and "
+         "not repairable by working the surface."),
+        ("nemi, ara, nābhi",
+         "rim, spoke, and hub &mdash; the three parts of a wheel found defective, mapped onto actions "
+         "of body, speech, and mind."),
+    ],
+    text_intro=(
+        "The discourse in full: the story of King Pacetana&rsquo;s chariot-maker, the demonstration "
+        "with the two wheels, and the Buddha&rsquo;s identification of himself with the craftsman. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "At Isipatana"),
+        ("p", "&sect;1", "an3.15:1.1-1.5"),
+        ("h3", "The two wheels"),
+        ("p", "&sect;2", "an3.15:2.1-2.16"),
+        ("p", "&sect;3", "an3.15:3.1-3.4"),
+        ("p", "&sect;4", "an3.15:4.1-4.6"),
+        ("h3", "&ldquo;I myself was the chariot-maker&rdquo;"),
+        ("p", "&sect;5&ndash;6", "an3.15:5.1-6.1"),
+        ("p", "&sect;7", "an3.15:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "How long did each wheel take?",
+         "opts": [
+             "Both took six months",
+             "The first took six days less than six months; the second was made in those remaining six days",
+             "Both took six days",
+             "The first took six days and the second six months"],
+         "correct": 1,
+         "expl": "The timings are exact and worth following."},
+        {"q": "Could the king tell the wheels apart?",
+         "opts": [
+             "Yes, immediately",
+             "No &mdash; examining them he could see no difference at all",
+             "Only by weighing them",
+             "The story does not say"],
+         "correct": 1,
+         "expl": "Whatever is wrong with the fast wheel is invisible to an interested and competent observer holding it."},
+        {"q": "What happened when the wheels were rolled?",
+         "opts": [
+             "The fast one did not roll at all",
+             "Both rolled as far as the initial push carried them; then the fast one wobbled and fell, and the slow one stood still as if fixed to an axle",
+             "Both fell",
+             "Both stood"],
+         "correct": 1,
+         "expl": "The difference appears only when the momentum runs out."},
+        {"q": "Why does the guide say this is not quite a discourse about haste?",
+         "opts": [
+             "Because the chariot-maker was given a deadline and met it, and the fast wheel rolls exactly as far as the slow one",
+             "Because no time is mentioned",
+             "Because the king was at fault",
+             "Because the wheels were identical"],
+         "correct": 0,
+         "expl": "What separates them is what happens when the momentum runs out."},
+        {"q": "Applied to a practitioner, what is the claim?",
+         "opts": [
+             "That flawed practice is useless",
+             "That they will go exactly as far as their initial impetus takes them &mdash; the enthusiasm of a new commitment, the momentum of a retreat, the push of a crisis &mdash; and will not stand when it is spent",
+             "That practice takes six months",
+             "That defects can be seen from outside"],
+         "correct": 1,
+         "expl": "Specific, and uncomfortable."},
+        {"q": "Which three parts of the wheel were defective?",
+         "opts": [
+             "Rim, spoke, and hub &mdash; mapped onto actions of body, speech, and mind",
+             "Axle, yoke, and pole",
+             "Wood, iron, and leather",
+             "Only the rim"],
+         "correct": 0,
+         "expl": "Three, which is what puts the story in the Threes."},
+        {"q": "What do <em>vaṅka</em>, <em>dosa</em>, and <em>kasāva</em> distinguish?",
+         "opts": [
+             "Three degrees of severity",
+             "Bent, blemished, and impure &mdash; something forced out of true, a local fault, and something wrong all the way through the grain",
+             "Three kinds of wood",
+             "Three stages of manufacture"],
+         "correct": 1,
+         "expl": "A more useful taxonomy of a person's faults than good and bad."},
+        {"q": "Which of the three cannot be repaired by working the surface?",
+         "opts": [
+             "<em>Vaṅka</em>", "<em>Dosa</em>",
+             "<em>Kasāva</em> &mdash; it runs through the grain", "All three can"],
+         "correct": 2,
+         "expl": "A stain or astringency running through the material."},
+        {"q": "What does the Buddha say about the chariot-maker?",
+         "opts": [
+             "That he was a previous Buddha",
+             "That he was someone else",
+             "That he himself was the chariot-maker at that time &mdash; heading off the expected assumption first",
+             "That the story is a parable with no historical claim"],
+         "correct": 2,
+         "expl": "&ldquo;You might think that chariot-maker must have been someone else; you should not see it like that.&rdquo;"},
+        {"q": "What kind of claim does the guide say the identification makes?",
+         "opts": [
+             "A claim about miraculous powers",
+             "A claim about transferred competence &mdash; the same trained eye that sees a defect in something that looks finished, applied to a different material",
+             "A claim about caste",
+             "A claim about the length of the path"],
+         "correct": 1,
+         "expl": "A remarkably deflationary self-description for a collection that elsewhere calls him unequaled."},
+    ],
+    marginalia=[
+        ("The two wheels", [
+            "six months less six days",
+            "six days",
+            "&mdash; indistinguishable in the hand",
+        ]),
+        ("Rolled", [
+            "both go as far as the push",
+            "one wobbles and falls",
+            "one stands as if on an axle",
+        ]),
+        ("Three defects", [
+            "<span class=\"pali\">vaṅka</span>bent",
+            "<span class=\"pali\">dosa</span>blemished",
+            "<span class=\"pali\">kasāva</span>wrong through the grain",
+        ]),
+        ("Cross-references", [
+            "AN 3.13 &middot; chariot-makers, two pages earlier",
+            "AN 3.12 &middot; the deer park at Isipatana",
+            "AN 3.16 &middot; next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.15/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.13.html">AN 3.13 &middot; Hopes</a> &mdash; two discourses earlier, where '
+        "chariot-making appears in a list of occupations marking a hopeless birth.",
+        '<a href="../samyutta-nikaya/sn-56.11.html">SN 56.11 &middot; Rolling Forth the Wheel of '
+        "Dhamma</a> &mdash; spoken at Isipatana, the setting named here, and the reason a wheel is the "
+        "canon&rsquo;s image for a teaching set in motion.",
+    ],
+)
