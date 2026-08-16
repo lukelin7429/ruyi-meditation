@@ -282,7 +282,7 @@ PAGES.append({
     "further": [
         '<a href="%s/an2.1-10/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
         "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
-        '<a href="/abhidharma/abhidharmakosa/fascicle-004.html">Abhidharmakośa, Fascicle 4 &middot; '
+        '<a href="/abhidharma/abhidharmakosa/fascicle-004/">Abhidharmakośa, Fascicle 4 &middot; '
         "What Must Arise Together?</a> &mdash; Vasubandhu on shamelessness and lack of conscience, "
         "distinguished exactly as <em>hiri</em> and <em>ottappa</em> are here: reflecting on oneself "
         "against reflecting on others.",
@@ -841,10 +841,10 @@ PAGES.append({
     "further": [
         '<a href="%s/an2.21-31/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
         "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
-        '<a href="/sutras/samdhinirmocana-sutra/chapter-05.html">Saṁdhinirmocana Sūtra 5 &middot; The '
+        '<a href="/sutras/samdhinirmocana-sutra/chapter-05/">Saṁdhinirmocana Sūtra 5 &middot; The '
         "Characteristic of Naturelessness</a> &mdash; the three turnings of the wheel, and the boldest "
         "use anyone made of the distinction AN 2.24 states without applying.",
-        '<a href="/sutras/samdhinirmocana-sutra/chapter-06.html">Saṁdhinirmocana Sūtra 6 &middot; '
+        '<a href="/sutras/samdhinirmocana-sutra/chapter-06/">Saṁdhinirmocana Sūtra 6 &middot; '
         "Analyzing Yogic Practice</a> &mdash; a whole chapter on how serenity and discernment operate "
         "together, against AN 2.31&rsquo;s four lines.",
         '<a href="/sutras/mohe-zhiguan/index.html">Mohe Zhiguan</a> &mdash; Zhiyi building an entire '
@@ -1144,7 +1144,7 @@ PAGES.append({
     "further": [
         '<a href="%s/an2.32-41/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
         "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
-        '<a href="/sutras/brahma-net-sutra/chapter-07.html">The Brahmā Net Sūtra &middot; The Precept '
+        '<a href="/sutras/brahma-net-sutra/chapter-07/">The Brahmā Net Sūtra &middot; The Precept '
         "Preface</a> &mdash; where AN 2.33&rsquo;s answer becomes doctrine: filial devotion as the "
         "first content of the bodhisattva precepts, and as itself the dharma of the highest way.",
         '<a href="/sutras/contemplation-sutra/vaidehis-imprisonment-and-the-three-blessings.html">The '
@@ -3493,7 +3493,7 @@ PAGES.append({
         '<a href="an-2.42-51.html">AN 2.42&ndash;51 &middot; Assemblies</a> &mdash; AN 2.48 on the '
         "assembly that values things of the flesh, which is the check on how this chapter&rsquo;s "
         "verdict gets used.",
-        '<a href="/sutras/upasaka-precepts-sutra/chapter-19.html">The Sutra on Upāsaka Precepts '
+        '<a href="/sutras/upasaka-precepts-sutra/chapter-19/">The Sutra on Upāsaka Precepts '
         "&middot; Nothing Too Small to Give</a> &mdash; a Chinese treatment of giving that takes the "
         "material side entirely seriously while holding the same ranking.",
     ],
@@ -4256,7 +4256,7 @@ PAGES.append({
         '<a href="%s/an2.180-229/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
         "SuttaCentral</a> &mdash; with Pāli alongside, and with the abbreviated passages shown in "
         "their canonical form." % SC,
-        '<a href="/abhidharma/abhidharmakosa/fascicle-021.html">Abhidharmakośa, Fascicle 21 &middot; '
+        '<a href="/abhidharma/abhidharmakosa/fascicle-021/">Abhidharmakośa, Fascicle 21 &middot; '
         "The Nine Bonds</a> &mdash; where several of these pairs are classified as secondary "
         "defilements and traced to their roots in greed or ignorance.",
         '<a href="an-2.1-10.html">AN 2.1&ndash;10 &middot; Punishments</a> &mdash; conscience and '

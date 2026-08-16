@@ -3530,7 +3530,7 @@ page(
         "in a sequence can be seen.",
         '<a href="an-1.1-10.html">AN 1.1&ndash;10 &middot; What Occupies the Mind</a> &mdash; the '
         "chapter that opens the collection by naming what the sense doors are being guarded against.",
-        '<a href="/sutras/mohe-zhiguan/fascicle-004.html">Mohe Zhiguan, Fascicle 4</a> &mdash; Zhiyi '
+        '<a href="/sutras/mohe-zhiguan/fascicle-004/">Mohe Zhiguan, Fascicle 4</a> &mdash; Zhiyi '
         "arranging the same preliminaries as conditions to be settled before formal practice begins.",
     ],
 )
@@ -5270,7 +5270,7 @@ page(
         "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
         '<a href="an-2.32-41.html">AN 2.32&ndash;41 &middot; The Peaceful Mind</a> &mdash; AN 2.33 on '
         "repaying parents, which uses the same phrase and does supply an answer.",
-        '<a href="/sutras/brahma-net-sutra/chapter-07.html">The Brahmā Net Sūtra &middot; The Precept '
+        '<a href="/sutras/brahma-net-sutra/chapter-07/">The Brahmā Net Sūtra &middot; The Precept '
         "Preface</a> &mdash; where the debts to parents, teachers, and the Three Jewels are named in "
         "one breath and made the first content of the bodhisattva precepts.",
         '<a href="an-2.130-140.html">AN 2.130&ndash;140 &middot; Aspiration</a> &mdash; AN 2.136, '

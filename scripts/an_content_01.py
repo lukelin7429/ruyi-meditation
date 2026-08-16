@@ -274,10 +274,10 @@ PAGES.append({
         "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
         '<a href="an-1.11-20.html">AN 1.11&ndash;20 &middot; Giving Up the Hindrances</a> &mdash; next in '
         "this series, and the point at which the Ones turn sharply practical.",
-        '<a href="/sutras/mohe-zhiguan/fascicle-004.html">Mohe Zhiguan, Fascicle 4 &middot; The Twenty-Five '
+        '<a href="/sutras/mohe-zhiguan/fascicle-004/">Mohe Zhiguan, Fascicle 4 &middot; The Twenty-Five '
         "Preliminary Conditions</a> &mdash; Zhiyi&rsquo;s long treatment of censuring the five desires, "
         "which is this chapter&rsquo;s material worked out as a practice in the Chinese tradition.",
-        '<a href="/sutras/shi-chan-boluomi/fascicle-002.html">Shi Chan Boluomi, Fascicle 2 &middot; The '
+        '<a href="/sutras/shi-chan-boluomi/fascicle-002/">Shi Chan Boluomi, Fascicle 2 &middot; The '
         "Preliminary Conditions Begin</a> &mdash; the same five sense objects treated one at a time, with "
         "the stories Zhiyi uses to make each one stick.",
     ],
@@ -551,10 +551,10 @@ PAGES.append({
         "hindrances and the seven awakening factors in parallel." % SC,
         '<a href="an-1.1-10.html">AN 1.1&ndash;10 &middot; What Occupies the Mind</a> &mdash; previous in '
         "this series, on the sense objects the untrained mind cannot put down.",
-        '<a href="/sutras/mohe-zhiguan/fascicle-004.html">Mohe Zhiguan, Fascicle 4 &middot; The Twenty-Five '
+        '<a href="/sutras/mohe-zhiguan/fascicle-004/">Mohe Zhiguan, Fascicle 4 &middot; The Twenty-Five '
         "Preliminary Conditions</a> &mdash; Zhiyi on discarding the five hindrances, with each one&rsquo;s "
         "cause, symptoms, and antidote worked out at length.",
-        '<a href="/sutras/shi-chan-boluomi/fascicle-002.html">Shi Chan Boluomi, Fascicle 2 &middot; The '
+        '<a href="/sutras/shi-chan-boluomi/fascicle-002/">Shi Chan Boluomi, Fascicle 2 &middot; The '
         "Preliminary Conditions Begin</a> &mdash; the earlier and more detailed Tiantai treatment of the "
         "same five hindrances.",
     ],
@@ -805,7 +805,7 @@ PAGES.append({
         '<a href="../dhammapada/dhp-03.html">Dhammapada 3 &middot; The Mind</a> &mdash; the same claim in '
         "verse, with the images this chapter does without: the fletcher straightening an arrow, and the "
         "harm a wrongly directed mind does that no enemy could.",
-        '<a href="/sutras/mohe-zhiguan/fascicle-001.html">Mohe Zhiguan, Fascicle 1</a> &mdash; '
+        '<a href="/sutras/mohe-zhiguan/fascicle-001/">Mohe Zhiguan, Fascicle 1</a> &mdash; '
         "Zhiyi&rsquo;s opening statement of why the mind is taken as the object of contemplation at all, "
         "the Chinese tradition&rsquo;s answer to the question this chapter raises.",
     ],
@@ -1057,7 +1057,7 @@ PAGES.append({
         "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
         '<a href="../dhammapada/dhp-03.html">Dhammapada 3 &middot; The Mind</a> &mdash; the taming image '
         "in verse, including the fish pulled from the water and the mind that goes wherever it wants.",
-        '<a href="/sutras/mohe-zhiguan/fascicle-004.html">Mohe Zhiguan, Fascicle 4 &middot; The Twenty-Five '
+        '<a href="/sutras/mohe-zhiguan/fascicle-004/">Mohe Zhiguan, Fascicle 4 &middot; The Twenty-Five '
         "Preliminary Conditions</a> &mdash; the guarding and restraining of this chapter set out as a "
         "sequence of concrete preparations rather than as four adjectives.",
     ],
@@ -1331,10 +1331,10 @@ PAGES.append({
         '<a href="/sutras/platform-sutra/the-life-and-awakening-of-huineng.html">The Platform Sutra '
         "&middot; The Life and Awakening of Huineng</a> &mdash; the far end of the line that runs from "
         "AN 1.49: &ldquo;the self-nature of bodhi is fundamentally pure &mdash; simply use this mind.&rdquo;",
-        '<a href="/sutras/mahayanasamgraha/part-02.html">Mahāyānasaṁgraha, Part 2 &middot; The Basis of '
+        '<a href="/sutras/mahayanasamgraha/part-02/">Mahāyānasaṁgraha, Part 2 &middot; The Basis of '
         "the Knowable</a> &mdash; Asaṅga on the storehouse consciousness and what it means for defilement "
         "to be adventitious rather than intrinsic.",
-        '<a href="/sutras/mohe-zhiguan/fascicle-004.html">Mohe Zhiguan, Fascicle 4</a> &mdash; the still '
+        '<a href="/sutras/mohe-zhiguan/fascicle-004/">Mohe Zhiguan, Fascicle 4</a> &mdash; the still '
         "and turbid water of AN 1.45&ndash;46 worked into a full account of 止 and 觀.",
     ],
 })
@@ -1859,7 +1859,7 @@ PAGES.append({
         '<a href="an-1.11-20.html">AN 1.11&ndash;20 &middot; Giving Up the Hindrances</a> &mdash; the '
         "same one-factor template applied to the five hindrances rather than to skillful qualities at "
         "large.",
-        '<a href="/sutras/mohe-zhiguan/fascicle-004.html">Mohe Zhiguan, Fascicle 4 &middot; The '
+        '<a href="/sutras/mohe-zhiguan/fascicle-004/">Mohe Zhiguan, Fascicle 4 &middot; The '
         "Twenty-Five Preliminary Conditions</a> &mdash; few wishes, contentment, and good company set out "
         "as conditions to be arranged before practice rather than as qualities to be admired.",
     ],
@@ -3155,7 +3155,7 @@ PAGES.append({
         '<a href="/sutras/nanshan-lu/index.html">Nanshan Vinaya for Laypeople</a> &mdash; the Chinese '
         "scholastic tradition of exactly this kind of classification, worked out gate by gate for "
         "householders.",
-        '<a href="/sutras/hongyi-vinaya-essays.html">Master Hongyi &middot; Nine Essays on the '
+        '<a href="/sutras/hongyi-vinaya-essays/">Master Hongyi &middot; Nine Essays on the '
         "Vinaya</a> &mdash; a twentieth-century monk arguing, with some urgency, that getting these "
         "distinctions right still matters.",
         '<a href="an-1.140-149.html">AN 1.140&ndash;149 &middot; Not the Teaching</a> &mdash; previous '
