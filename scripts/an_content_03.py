@@ -17550,3 +17550,1218 @@ page(
         "establishing has actually happened.",
     ],
 )
+
+
+page(
+    76, "Paṭhamabhava", "Continued Existence (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 3.76 — Continued Existence (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Bhavasutta — deeds "
+        "are the field, consciousness is the seed, craving is the moisture. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Ānanda approaches and asks"),
+        ("Speakers", "Venerable Ānanda and the Buddha"),
+        ("Form", "A question about a term, answered three times over for three realms with one "
+                 "agricultural image"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The field-seed-moisture image for rebirth is preserved in the Chinese "
+                              "Āgamas and stands behind the Yogācāra doctrine of seeds, 種子; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; short, technical, and load-bearing "
+                       "for a great deal of later thought"),
+    ],
+    why=(
+        "Ānanda asks how <em>continued existence</em> is defined, and gets one of the most compact "
+        "answers in the canon: <em>deeds are the field, consciousness is the seed, and craving is the "
+        "moisture.</em> Three components, one image, and the whole of rebirth described as "
+        "agriculture. It is repeated for three realms without variation, and the Yogācāra schools "
+        "later built their account of the mind on the word <em>seed</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Existence continues because there is somewhere to grow, something to grow, and something "
+            "keeping it wet."]),
+        ("The question, and why it is a question", [
+            "<em>Bhava</em> is one of those words a tradition uses constantly and rarely defines. It "
+            "means being, becoming, existence, and in the chain of dependent origination it is the "
+            "link between grasping and birth. Ānanda asks the obvious thing: <em>they speak of this "
+            "thing called continued existence &mdash; how is it defined?</em>",
+            "The Buddha answers with a counter-question rather than a definition. <em>If there were "
+            "no deeds to result in the sensual realm, would continued existence in the sensual realm "
+            "still come about?</em> No. So the definition arrives as a consequence of something "
+            "Ānanda already accepts, which is the method of AN 3.66 and AN 3.72 applied to a "
+            "technical term."]),
+        ("Field, seed, moisture", [
+            "<em>Kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho</em>. Deeds are the field; consciousness "
+            "is the seed; craving is the moisture.",
+            "The image is exact and each element does a different job. A field is a location and a "
+            "set of conditions &mdash; it determines what can grow there, and deeds determine which "
+            "realm is available. A seed is what actually grows and carries continuity from one plant "
+            "to the next. Moisture is what makes a dormant seed start, and without it a good seed in "
+            "a good field does nothing at all.",
+            "That third term is where the practical weight sits. Deeds are done and cannot be undone; "
+            "the seed is what it is. Craving is the variable, and it is the one the whole path works "
+            "on. A dry seed in a prepared field stays a seed.",
+            "The full sentence adds two conditions: the consciousness of beings <em>shrouded by "
+            "ignorance and fettered by craving</em> is established in a lower, middle, or higher "
+            "realm. Ignorance shrouds and craving fetters, and between them the seed is planted."]),
+        ("Three realms", [
+            "The answer is given three times for the three realms of the Buddhist cosmos: the sensual "
+            "realm, the realm of luminous form, and the formless realm &mdash; established in a "
+            "lower, middle, and higher place respectively.",
+            "Nothing changes except the realm, and the repetition makes a point that is easy to miss: "
+            "the mechanism is the same all the way up. The formless attainments are the highest "
+            "meditative states this tradition recognizes, and existence in that realm is produced by "
+            "exactly the same field, seed, and moisture as existence among sensual beings.",
+            "That is the discourse&rsquo;s real argument. Refinement does not change the process. A "
+            "practitioner who has reached the formless attainments has not escaped anything; they "
+            "have planted in a better field."]),
+        ("Where the word <em>seed</em> went", [
+            "This image is one of the most consequential in Buddhist intellectual history, and a "
+            "class in a Chinese-speaking country should be told where it goes.",
+            "The Yogācāra schools developed an account of the mind in which past deeds leave "
+            "<em>bīja</em>, 種子, seeds, deposited in a store consciousness, 阿賴耶識, and later "
+            "results grow from them. The technical apparatus &mdash; perfuming, seeds, the store that "
+            "holds them &mdash; is enormous, and the Mahāyānasaṃgraha devotes its longest section to "
+            "it under the heading of the basis of the knowable.",
+            "The relation between that and this discourse is worth stating carefully. AN 3.76 does "
+            "not teach a store consciousness and does not say seeds are deposited anywhere; "
+            "consciousness <em>is</em> the seed here, not the container of seeds. What the later "
+            "system did was take a metaphor used once and make it a mechanism.",
+            "Whether that development is a legitimate unfolding or an over-reading is exactly the "
+            "kind of question the Chinese schools argued about, and a student who has read this "
+            "four-line discourse is in a position to understand what was at stake."]),
+        ("The companion discourse", [
+            "AN 3.77 is this discourse with one phrase changed. Where this one says <em>the "
+            "consciousness of sentient beings &hellip; is established</em>, the next says <em>the "
+            "intention and aim of sentient beings &hellip; is established</em>.",
+            "So the pair offers two candidates for what gets planted: consciousness, or intention and "
+            "aim. Neither is presented as a correction of the other and the collection gives both "
+            "without comment.",
+            "Read together they suggest that the seed is not a substance but whatever it is about a "
+            "person that continues &mdash; describable as awareness from one angle and as wanting-and-"
+            "aiming from another. That is a more careful position than either discourse alone, and it "
+            "is the reason the compilers kept both."]),
+    ],
+    terms=[
+        ("bhava",
+         "&ldquo;continued existence, becoming&rdquo; &mdash; the link between grasping and birth in "
+         "dependent origination, and the word Ānanda asks to have defined."),
+        ("kammaṁ khettaṁ",
+         "&ldquo;deeds are the field&rdquo; &mdash; the location and set of conditions, determining "
+         "which realm is available."),
+        ("viññāṇaṁ bījaṁ",
+         "&ldquo;consciousness is the seed&rdquo; &mdash; what grows and carries continuity. The "
+         "Yogācāra schools built the doctrine of 種子 on this word."),
+        ("taṇhā sneho",
+         "&ldquo;craving is the moisture&rdquo; &mdash; the variable the path works on. A dry seed in "
+         "a prepared field stays a seed."),
+        ("avijjānīvaraṇa taṇhāsaṁyojana",
+         "&ldquo;shrouded by ignorance, fettered by craving&rdquo; &mdash; the two conditions under "
+         "which the seed is established."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "How is it defined?"),
+        ("p", "&sect;1", "an3.76:1.1-1.3"),
+        ("h3", "The sensual realm"),
+        ("p", "&sect;2", "an3.76:2.1-2.4"),
+        ("h3", "Luminous form, and the formless"),
+        ("p", "&sect;3", "an3.76:3.1-3.4"),
+        ("p", "&sect;4", "an3.76:4.1-4.5"),
+    ],
+    quiz=[
+        {"q": "What does Ānanda ask?",
+         "opts": [
+             "How rebirth can be stopped",
+             "How <em>continued existence</em> is defined",
+             "Whether there is a self",
+             "How many realms there are"],
+         "correct": 1,
+         "expl": "A word the tradition uses constantly and rarely defines."},
+        {"q": "How does the Buddha begin the answer?",
+         "opts": [
+             "With a definition",
+             "With a simile",
+             "With a counter-question &mdash; if there were no deeds to result in the sensual realm, would existence there come about?",
+             "With a refusal"],
+         "correct": 2,
+         "expl": "The definition arrives as a consequence of something Ānanda already accepts."},
+        {"q": "What are the three components of the image?",
+         "opts": [
+             "Deeds are the field, consciousness is the seed, craving is the moisture",
+             "Body, speech, and mind",
+             "Greed, hate, and delusion",
+             "Ignorance, craving, and grasping"],
+         "correct": 0,
+         "expl": "Three components, one image, and the whole of rebirth described as agriculture."},
+        {"q": "Why does the guide say the third term carries the practical weight?",
+         "opts": [
+             "Because moisture is scarce",
+             "Because deeds are done and cannot be undone and the seed is what it is &mdash; craving is the variable, and the one the whole path works on",
+             "Because craving is easiest to see",
+             "Because it is listed last"],
+         "correct": 1,
+         "expl": "A dry seed in a prepared field stays a seed."},
+        {"q": "Which two conditions are named alongside the image?",
+         "opts": [
+             "Merit and demerit",
+             "Shrouded by ignorance and fettered by craving",
+             "Body and mind",
+             "Past and future"],
+         "correct": 1,
+         "expl": "Ignorance shrouds and craving fetters, and between them the seed is planted."},
+        {"q": "For how many realms is the answer repeated, and what changes?",
+         "opts": [
+             "Three realms &mdash; sensual, luminous form, and formless &mdash; and nothing changes except the realm",
+             "Two, with the mechanism differing",
+             "Three, with a different image each time",
+             "One, repeated for emphasis"],
+         "correct": 0,
+         "expl": "The mechanism is the same all the way up."},
+        {"q": "What does the guide call the discourse&rsquo;s real argument?",
+         "opts": [
+             "That the formless realm is best",
+             "That refinement does not change the process &mdash; a practitioner in the formless attainments has planted in a better field, not escaped anything",
+             "That deeds are unimportant",
+             "That craving cannot be removed"],
+         "correct": 1,
+         "expl": "The repetition makes a point that is easy to miss."},
+        {"q": "What did the Yogācāra schools build on the word <em>seed</em>?",
+         "opts": [
+             "The doctrine of emptiness",
+             "The doctrine of 種子, seeds deposited by past deeds in a store consciousness, 阿賴耶識",
+             "The two truths",
+             "The theory of momentariness"],
+         "correct": 1,
+         "expl": "The Mahāyānasaṃgraha devotes its longest section to it."},
+        {"q": "How does the guide describe the relation between the two?",
+         "opts": [
+             "As identical",
+             "As unrelated",
+             "As a later system taking a metaphor used once and making it a mechanism &mdash; here consciousness <em>is</em> the seed, not the container of seeds",
+             "As a mistranslation"],
+         "correct": 2,
+         "expl": "Whether that is a legitimate unfolding or an over-reading is what the Chinese schools argued about."},
+        {"q": "How does AN 3.77 differ?",
+         "opts": [
+             "It uses a different image",
+             "It says the <em>intention and aim</em> of beings is established, where this one says the consciousness",
+             "It applies to one realm only",
+             "It denies rebirth"],
+         "correct": 1,
+         "expl": "Two candidates for what gets planted, given without comment."},
+    ],
+    marginalia=[
+        ("Three components", [
+            "<span class=\"pali\">kammaṁ khettaṁ</span>deeds, the field",
+            "<span class=\"pali\">viññāṇaṁ bījaṁ</span>consciousness, the seed",
+            "<span class=\"pali\">taṇhā sneho</span>craving, the moisture",
+        ]),
+        ("Three realms", [
+            "sensual &middot; a lower place",
+            "luminous form &middot; a middle place",
+            "formless &middot; a higher place",
+            "&mdash; the same mechanism throughout",
+        ]),
+        ("Later", [
+            "<span class=\"pali\">bīja</span>種子 seeds",
+            "阿賴耶識 the store",
+            "&mdash; a metaphor made a mechanism",
+        ]),
+        ("Cross-references", [
+            "AN 3.77 &middot; the same, one phrase changed",
+            "AN 3.34 &middot; the other seed simile",
+            "Mahāyānasaṃgraha &middot; the basis of the knowable",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.76/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.77.html">AN 3.77 &middot; Continued Existence (2nd)</a> &mdash; the same '
+        "discourse with intention and aim in place of consciousness. The pair is more careful than "
+        "either half.",
+        '<a href="/sutras/mahayanasamgraha/part-02/">Mahāyānasaṃgraha &middot; Part 2, The Basis of '
+        "the Knowable</a> &mdash; where the word <em>seed</em> has become a full theory of mind: "
+        "種子 deposited in the store consciousness, perfumed by deeds, and producing results. Read "
+        "after this four-line discourse it shows exactly how much weight one metaphor was made to "
+        "carry.",
+        '<a href="an-3.34.html">AN 3.34 &middot; Sources</a> &mdash; the collection&rsquo;s other '
+        "seed simile, where sound seed in a prepared field with rain is what deeds rooted in greed "
+        "are like.",
+    ],
+)
+
+
+page(
+    77, "Dutiyabhava", "Continued Existence (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 3.77 — Continued Existence (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Bhavasutta — the "
+        "same field, seed, and moisture, with intention and aim in place of consciousness. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Ānanda approaches and asks"),
+        ("Speakers", "Venerable Ānanda and the Buddha"),
+        ("Form", "AN 3.76 with one phrase changed in each of its three sections"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; identical to AN 3.76 except for "
+                       "the term that matters most"),
+    ],
+    why=(
+        "Ānanda asks the same question and gets the same answer with one substitution. Where AN 3.76 "
+        "said that <em>the consciousness</em> of beings is established in a realm, this says that "
+        "<em>the intention and aim</em> of beings is established there. Everything else is word for "
+        "word. The collection puts the two side by side and says nothing about the difference, which "
+        "leaves the reader with a real question."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What gets planted can be described as consciousness or as intention and aim, and the "
+            "canon declines to choose."]),
+        ("The substitution", [
+            "<em>Cetanā</em> is intention or volition &mdash; the same word the canon uses when it "
+            "defines a deed as intention. <em>Patthanā</em> is aspiration, aim, a wish directed at "
+            "something.",
+            "So where the first discourse named the knowing faculty as the seed, this one names the "
+            "wanting-and-aiming faculty. Both are said to be <em>shrouded by ignorance and fettered "
+            "by craving</em>, and both are said to be established in a lower, middle, or higher "
+            "realm.",
+            "Notice that the image itself does not change. Deeds are still the field and craving is "
+            "still the moisture in both discourses; the seed line is stated identically. Only the "
+            "sentence about what is established differs, which narrows the question considerably: "
+            "the discourses are not offering two theories of rebirth but two descriptions of the same "
+            "component."]),
+        ("Why the pairing is careful rather than careless", [
+            "It would be easy to treat this as a scribal variant, and worth resisting. The Aṅguttara "
+            "does this deliberately and often &mdash; AN 3.37 and AN 3.38 differ by a clause and the "
+            "difference is the lesson; AN 3.43 and AN 3.44 differ at both ends around a fixed core.",
+            "Here the pattern is a substitution at the point of maximum load. The whole answer turns "
+            "on what is established in the realm, and the collection provides two answers without "
+            "ranking them.",
+            "The most defensible reading is that no single faculty is the thing that continues. "
+            "Describe it as consciousness and you have named the aspect that knows; describe it as "
+            "intention and aim and you have named the aspect that leans forward. Both descriptions "
+            "pick out the same continuing process, and insisting on one would turn a process into an "
+            "entity &mdash; which is precisely the move this tradition spends its energy preventing.",
+            "That reading is not stated by either discourse and should be offered as a reading."]),
+        ("What this rules out", [
+            "Both discourses rule out the same thing, and it is worth naming for a class that has "
+            "been taught not-self as a slogan.",
+            "Neither says that nothing continues. Something is established in a realm, and the whole "
+            "point of the field-seed-moisture image is continuity: a seed becomes a plant and the "
+            "plant is not the seed but is not unrelated to it either.",
+            "What is ruled out is that the thing continuing is a possession or a passenger. It is "
+            "consciousness, or it is intention and aim &mdash; both of which are activities rather "
+            "than things, and both of which are described as conditioned by ignorance and craving "
+            "rather than as standing on their own.",
+            "The practical consequence follows directly from the image and is the same in both "
+            "versions: remove the moisture and nothing grows, whatever the seed is called."]),
+        ("For the later tradition", [
+            "The Yogācāra account discussed under AN 3.76 has to reckon with both discourses, and it "
+            "is worth noticing that its solution is to make room for both: the store consciousness is "
+            "described as carrying seeds that are deposited by intention and that ripen as "
+            "experience, which is a synthesis rather than a choice between them.",
+            "Whether that synthesis is warranted by these two short discourses is a fair question. "
+            "What can be said is that the pair creates the problem the synthesis answers, and that a "
+            "reader who has met AN 3.76 and AN 3.77 together will find the later literature less "
+            "arbitrary than it looks from outside."]),
+        ("Using it", [
+            "Read the two discourses aloud back to back and ask a class to find the difference. It "
+            "takes about a minute and produces the right question without any framing.",
+            "Then the discussion: does it matter whether we say that consciousness continues or that "
+            "intention and aim continue? Most classes will start by saying it does not, and change "
+            "their minds when asked which of the two they think they are."]),
+    ],
+    terms=[
+        ("cetanā",
+         "&ldquo;intention, volition&rdquo; &mdash; the word the canon uses when it defines a deed as "
+         "intention. Here it is half of what is established in a realm."),
+        ("patthanā",
+         "&ldquo;aim, aspiration&rdquo; &mdash; a wish directed at something, paired here with "
+         "intention."),
+        ("viññāṇa",
+         "&ldquo;consciousness&rdquo; &mdash; what AN 3.76 puts in this position instead. The two "
+         "discourses differ at exactly this point and nowhere else."),
+        ("bhavābhinibbatti",
+         "&ldquo;regeneration into a new state of existence&rdquo; &mdash; the result, in both "
+         "versions."),
+        ("hīnā majjhimā paṇītā",
+         "&ldquo;lower, middle, higher&rdquo; &mdash; the three realms in which the seed is "
+         "established, corresponding to the sensual, the luminous form, and the formless."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "How is it defined?"),
+        ("p", "&sect;1", "an3.77:1.1-1.3"),
+        ("h3", "The sensual realm"),
+        ("p", "&sect;2", "an3.77:2.1-2.4"),
+        ("h3", "Luminous form, and the formless"),
+        ("p", "&sect;3", "an3.77:3.1-3.4"),
+        ("p", "&sect;4", "an3.77:4.1-4.5"),
+    ],
+    quiz=[
+        {"q": "What single change distinguishes this discourse from AN 3.76?",
+         "opts": [
+             "The realms differ",
+             "The image differs",
+             "The <em>intention and aim</em> of beings is established, where the first says the <em>consciousness</em>",
+             "The questioner differs"],
+         "correct": 2,
+         "expl": "Everything else is word for word."},
+        {"q": "What is <em>cetanā</em>?",
+         "opts": [
+             "Perception",
+             "Intention or volition &mdash; the word the canon uses when it defines a deed",
+             "Feeling",
+             "Attention"],
+         "correct": 1,
+         "expl": "Paired here with <em>patthanā</em>, aim."},
+        {"q": "What does <em>not</em> change between the two discourses?",
+         "opts": [
+             "The image &mdash; deeds are still the field and craving still the moisture, stated identically",
+             "The questioner",
+             "The number of realms",
+             "The conditions of ignorance and craving"],
+         "correct": 0,
+         "expl": "Which narrows the question: two descriptions of the same component, not two theories."},
+        {"q": "Why does the guide resist treating this as a scribal variant?",
+         "opts": [
+             "Because the manuscripts agree",
+             "Because the Aṅguttara pairs discourses deliberately and often &mdash; AN 3.37 and 3.38 differ by a clause, AN 3.43 and 3.44 at both ends",
+             "Because the Buddha says so",
+             "Because the discourses are far apart"],
+         "correct": 1,
+         "expl": "Here the pattern is a substitution at the point of maximum load."},
+        {"q": "What is the guide&rsquo;s most defensible reading of the pair?",
+         "opts": [
+             "That the second corrects the first",
+             "That no single faculty is the thing that continues &mdash; consciousness names the aspect that knows, intention and aim the aspect that leans forward",
+             "That the two describe different beings",
+             "That one is later"],
+         "correct": 1,
+         "expl": "Offered as a reading, since neither discourse states it."},
+        {"q": "What would insisting on one description do?",
+         "opts": [
+             "Simplify the teaching",
+             "Turn a process into an entity &mdash; precisely the move this tradition spends its energy preventing",
+             "Contradict dependent origination",
+             "Nothing"],
+         "correct": 1,
+         "expl": "Both terms name activities rather than things."},
+        {"q": "What do both discourses <em>not</em> say?",
+         "opts": [
+             "That something is established in a realm",
+             "That nothing continues &mdash; the whole point of the seed image is continuity",
+             "That craving is the moisture",
+             "That deeds are the field"],
+         "correct": 1,
+         "expl": "Worth naming for a class taught not-self as a slogan."},
+        {"q": "What is ruled out?",
+         "opts": [
+             "Rebirth",
+             "That the thing continuing is a possession or a passenger &mdash; both candidates are activities, conditioned by ignorance and craving",
+             "That deeds matter",
+             "That the realms differ"],
+         "correct": 1,
+         "expl": "A seed becomes a plant, and the plant is neither the seed nor unrelated to it."},
+        {"q": "What practical consequence follows in both versions?",
+         "opts": [
+             "That good deeds must be multiplied",
+             "That the realm should be chosen carefully",
+             "That removing the moisture stops the growth, whatever the seed is called",
+             "That consciousness must be purified first"],
+         "correct": 2,
+         "expl": "It follows directly from the image."},
+        {"q": "How does the later Yogācāra account handle the pair?",
+         "opts": [
+             "By rejecting one",
+             "By making room for both &mdash; a store consciousness carrying seeds deposited by intention and ripening as experience",
+             "By ignoring the question",
+             "By denying rebirth"],
+         "correct": 1,
+         "expl": "A synthesis rather than a choice, and the pair is what creates the problem it answers."},
+    ],
+    marginalia=[
+        ("One phrase", [
+            "AN 3.76 &middot; consciousness established",
+            "AN 3.77 &middot; intention and aim established",
+            "&mdash; and nothing else differs",
+        ]),
+        ("Unchanged", [
+            "deeds, the field",
+            "consciousness, the seed",
+            "craving, the moisture",
+        ]),
+        ("What is ruled out", [
+            "not: that nothing continues",
+            "but: that it is a passenger",
+            "&mdash; both candidates are activities",
+        ]),
+        ("Cross-references", [
+            "AN 3.76 &middot; the first version",
+            "AN 3.37&ndash;38 &middot; the same pairing habit",
+            "AN 3.34 &middot; deeds and their sources",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.77/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.76.html">AN 3.76 &middot; Continued Existence (1st)</a> &mdash; the first '
+        "version, where the key terms of the field-seed-moisture image are set out in full.",
+        '<a href="an-3.37.html">AN 3.37 &middot; The Four Great Kings (1st)</a> &mdash; for the '
+        "collection&rsquo;s habit of pairing discourses that differ by a single clause, with the "
+        "difference carrying the lesson.",
+        '<a href="/sutras/mahayanasamgraha/part-02/">Mahāyānasaṃgraha &middot; Part 2</a> &mdash; the '
+        "later synthesis that makes room for both descriptions at once, and the reason a reader of "
+        "this pair will find that literature less arbitrary than it looks from outside.",
+    ],
+)
+
+
+page(
+    78, "Sīlabbata", "Precepts and Observances",
+    vagga=VAGGA_8,
+    meta_title="AN 3.78 — Precepts and Observances | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sīlabbatasutta — Ānanda "
+        "refuses a categorical answer, analyzes instead, and is praised for it after he leaves. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Ānanda approaches and is questioned by the Buddha"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "A question put to a student, refused as categorical, analyzed, approved, and "
+                 "commented on after the student has gone"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material on the fruitfulness of observances is preserved in "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; very short, and a working "
+                       "demonstration of the previous chapter&rsquo;s theory"),
+    ],
+    why=(
+        "The Buddha asks Ānanda whether all precepts and observances are fruitful. Ānanda says the "
+        "matter is not categorical. The Buddha tells him to break it down, and he does, in two "
+        "sentences. Then Ānanda leaves, and the Buddha turns to the monks and says something he did "
+        "not say to his face."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An observance is fruitful if unskillful qualities decline and skillful ones grow, and "
+            "not otherwise &mdash; and the question of whether observances are good cannot be "
+            "answered yes or no."]),
+        ("A worked example of AN 3.67", [
+            "Eleven discourses earlier, AN 3.67 said that a question may need to be answered "
+            "categorically, or analytically, or with a counter-question, or set aside &mdash; and "
+            "that someone who cannot tell which is which is not competent to hold a discussion.",
+            "This discourse is that theory in action, and the two should be taught together. The "
+            "Buddha asks a yes-or-no question. Ānanda replies <em>this matter is not categorical</em> "
+            "&mdash; identifying the kind of question rather than answering it. The Buddha says "
+            "<em>well then, break it down</em>, using the verb <em>vibhaja</em>, the same word behind "
+            "the second category.",
+            "So the exchange is a small examination: a question with the wrong shape is offered, and "
+            "the student is judged by whether he notices. Nothing in the text says it is a test, and "
+            "the Buddha&rsquo;s comment afterward suggests it may well have been."]),
+        ("What <em>sīlabbata</em> means, and why the question is live", [
+            "<em>Sīlabbata</em> &mdash; precepts and observances, ethics and vows &mdash; is a word "
+            "with a shadow on it. <em>Sīlabbataparāmāsa</em>, misapprehension of precepts and "
+            "observances, is the third of the ten fetters and one of the three abandoned at "
+            "stream-entry. It names the mistake of treating a rule or a rite as itself the thing that "
+            "purifies.",
+            "That is why the Buddha&rsquo;s question is not idle. If observances can be misapprehended "
+            "in a way that blocks the path, a natural conclusion is that they are worthless, and a "
+            "tradition with a monastic code and a list of precepts cannot afford that conclusion.",
+            "The phrase that carries the difficulty is <em>taken as the essence</em>, "
+            "<em>sārato paccāgacchati</em> &mdash; treating the observance as the substance of the "
+            "matter. The question is whether an observance held that way is fruitful, and it is a "
+            "sharper question than whether observances are good."]),
+        ("The answer, and its criterion", [
+            "&ldquo;If unskillful qualities grow while skillful qualities decline, that&rsquo;s not "
+            "fruitful. However, if unskillful qualities decline while skillful qualities grow, that "
+            "is fruitful.&rdquo;",
+            "Two sentences, and the criterion is entirely about results in the practitioner. Not "
+            "whether the observance is orthodox, not who prescribed it, not how demanding it is, and "
+            "not whether it belongs to this tradition. The same test AN 3.66 gave for judging a "
+            "teaching is applied here to judging a practice.",
+            "The generality is the point. On this criterion an observance from any tradition could be "
+            "fruitful, and one from this tradition could fail. Nothing in the answer restricts its "
+            "scope, and Ānanda does not add a qualification.",
+            "The test is also usable, which is more than can be said for most criteria offered in "
+            "this area. A person keeping an observance is not asked to judge whether it is "
+            "theologically sound; they are asked whether the unskillful is declining, which they can "
+            "observe over a few weeks."]),
+        ("The praise given behind his back", [
+            "Ānanda finishes, the teacher approves, and Ānanda gets up, bows, circles the Buddha "
+            "keeping him on the right, and leaves. Then, <em>not long after Ānanda had left</em>, the "
+            "Buddha addresses the mendicants: <em>Ānanda is a trainee, but it&rsquo;s not easy to "
+            "find his equal in wisdom.</em>",
+            "The timing is deliberate and the discourse records it precisely. The praise is made to a "
+            "third party, after the subject has gone, and it contains both a limitation and a "
+            "superlative: he is still a <em>sekha</em>, a trainee, and among those who are not "
+            "trainees there are few his equal in wisdom.",
+            "Ānanda&rsquo;s status as a trainee at this point is well known in the tradition &mdash; "
+            "he is remembered as having reached the goal only after the Buddha&rsquo;s death, on the "
+            "eve of the first council. Saying so in his absence and praising him in the same sentence "
+            "is a small and very precise piece of conduct.",
+            "For a teacher there is something usable here. The correction and the compliment are "
+            "separated: the student got the approval to his face and the assessment was made "
+            "elsewhere, in a form that raised his standing among his peers without putting him in the "
+            "position of having to respond to it."]),
+        ("Using it", [
+            "This is a two-minute discourse with three separable lessons, and a class can be given "
+            "all three: how to recognize a question that cannot be answered yes or no, a criterion "
+            "for evaluating any practice, and a small model of how to praise somebody.",
+            "The criterion is the most transferable. Applied to a school subject, a training regime, "
+            "or a devotional practice, the question <em>are the unskillful qualities declining and "
+            "the skillful growing?</em> cuts through a great deal of argument about whether a method "
+            "is the right one."]),
+    ],
+    terms=[
+        ("sīlabbata",
+         "&ldquo;precepts and observances&rdquo; &mdash; ethics and vows taken together. The word "
+         "carries a shadow because of the fetter named after it."),
+        ("sīlabbataparāmāsa",
+         "&ldquo;misapprehension of precepts and observances&rdquo; &mdash; the third fetter, "
+         "abandoned at stream-entry: treating a rule or rite as itself the thing that purifies."),
+        ("sārato paccāgacchati",
+         "&ldquo;taken as the essence&rdquo; &mdash; the phrase that makes the Buddha&rsquo;s "
+         "question sharp: not whether observances are good, but whether one held as the substance of "
+         "the matter is fruitful."),
+        ("na ekaṁsena",
+         "&ldquo;not categorical&rdquo; &mdash; Ānanda&rsquo;s reply, naming the kind of question "
+         "rather than answering it. See AN 3.67 for the four kinds."),
+        ("sekha",
+         "&ldquo;trainee&rdquo; &mdash; what the Buddha calls Ānanda in his absence, in the same "
+         "sentence as the praise."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A question that cannot be answered yes or no"),
+        ("p", "&sect;1", "an3.78:1.1-1.4"),
+        ("h3", "Broken down"),
+        ("p", "&sect;2", "an3.78:2.1-2.4"),
+        ("h3", "After he had gone"),
+        ("p", "&sect;3", "an3.78:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha ask Ānanda?",
+         "opts": [
+             "Whether all precepts and observances, lifestyles, and spiritual paths are fruitful when taken as the essence",
+             "Whether he has attained the goal",
+             "Which observance is best",
+             "Whether laypeople should keep precepts"],
+         "correct": 0,
+         "expl": "A yes-or-no question with the wrong shape."},
+        {"q": "How does Ānanda reply?",
+         "opts": [
+             "Yes",
+             "No",
+             "That the matter is not categorical &mdash; identifying the kind of question rather than answering it",
+             "With a counter-question"],
+         "correct": 2,
+         "expl": "And the Buddha then tells him to break it down, using the verb behind the second category."},
+        {"q": "Which earlier discourse does this demonstrate?",
+         "opts": [
+             "AN 3.67, on the four kinds of question and who is competent to hold a discussion",
+             "AN 3.30, on kinds of listener",
+             "AN 3.55, on extinguishment",
+             "AN 3.70, on the sabbath"],
+         "correct": 0,
+         "expl": "The theory in action, and the two should be taught together."},
+        {"q": "Why does the word <em>sīlabbata</em> carry a shadow?",
+         "opts": [
+             "Because it is rare",
+             "Because <em>sīlabbataparāmāsa</em>, misapprehension of precepts and observances, is the third fetter &mdash; treating a rule or rite as itself the thing that purifies",
+             "Because it refers to other religions",
+             "Because it is a late term"],
+         "correct": 1,
+         "expl": "One of the three fetters abandoned at stream-entry."},
+        {"q": "Why can a tradition with a monastic code not simply conclude that observances are worthless?",
+         "opts": [
+             "Because the Vinaya forbids it",
+             "Because it has a code and a list of precepts of its own &mdash; the question has to be answered more finely than yes or no",
+             "Because laypeople would object",
+             "Because the Buddha prescribed them"],
+         "correct": 1,
+         "expl": "Which is why the question is live rather than idle."},
+        {"q": "What is the criterion Ānanda gives?",
+         "opts": [
+             "Whether the observance is orthodox",
+             "Who prescribed it",
+             "Whether unskillful qualities decline and skillful qualities grow",
+             "How demanding it is"],
+         "correct": 2,
+         "expl": "Entirely about results in the practitioner."},
+        {"q": "What follows from the generality of that criterion?",
+         "opts": [
+             "That an observance from any tradition could be fruitful, and one from this tradition could fail",
+             "That only Buddhist observances count",
+             "That all observances are equal",
+             "That observances are unnecessary"],
+         "correct": 0,
+         "expl": "Nothing in the answer restricts its scope, and Ānanda adds no qualification."},
+        {"q": "Why does the guide call the test usable?",
+         "opts": [
+             "Because it is short",
+             "Because a practitioner is not asked to judge whether the observance is theologically sound, only whether the unskillful is declining &mdash; which can be observed over a few weeks",
+             "Because it requires a teacher",
+             "Because it is traditional"],
+         "correct": 1,
+         "expl": "More than can be said for most criteria offered in this area."},
+        {"q": "What does the Buddha say after Ānanda leaves?",
+         "opts": [
+             "That Ānanda has attained the goal",
+             "That Ānanda is a trainee, but it is not easy to find his equal in wisdom",
+             "That the answer was incomplete",
+             "Nothing"],
+         "correct": 1,
+         "expl": "Both a limitation and a superlative, in one sentence."},
+        {"q": "What does the guide say a teacher can take from the timing?",
+         "opts": [
+             "That praise should be withheld",
+             "That the approval was given to his face and the assessment made elsewhere &mdash; raising his standing among his peers without requiring him to respond to it",
+             "That students should not hear praise",
+             "That the Buddha was being cautious"],
+         "correct": 1,
+         "expl": "The correction and the compliment are separated."},
+    ],
+    marginalia=[
+        ("The exchange", [
+            "&ldquo;are all of them fruitful?&rdquo;",
+            "&ldquo;this matter is not categorical&rdquo;",
+            "&ldquo;well then, break it down&rdquo;",
+        ]),
+        ("The criterion", [
+            "unskillful growing, skillful declining",
+            "&mdash; not fruitful",
+            "the reverse &mdash; fruitful",
+        ]),
+        ("Said in his absence", [
+            "&ldquo;Ānanda is a trainee,",
+            "but it&rsquo;s not easy to find",
+            "his equal in wisdom&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.67 &middot; the four kinds of question",
+            "AN 3.66 &middot; the same test, for a teaching",
+            "AN 3.73 &middot; trainee and adept",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.78/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.67.html">AN 3.67 &middot; Topics of Discussion</a> &mdash; the theory this '
+        "discourse demonstrates: four kinds of question, and the incompetence of somebody who answers "
+        "categorically what needs analysis.",
+        '<a href="an-3.66.html">AN 3.66 &middot; With Sāḷha and His Friend</a> &mdash; where the same '
+        "criterion &mdash; do the unskillful qualities decline? &mdash; is applied to a teaching "
+        "rather than to an observance.",
+        '<a href="an-3.73.html">AN 3.73 &middot; With Mahānāma the Sakyan</a> &mdash; for what '
+        "<em>sekha</em>, trainee, means, which is the term the Buddha applies to Ānanda in his "
+        "absence.",
+    ],
+)
+
+
+page(
+    79, "Gandhajāta", "Fragrances",
+    vagga=VAGGA_8,
+    meta_title="AN 3.79 — Fragrances | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Gandhajātasutta — three "
+        "fragrances that travel only downwind, and the one that goes both ways. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Ānanda approaches and asks"),
+        ("Speakers", "Venerable Ānanda and the Buddha"),
+        ("Form", "A question built on an observation, an answer describing a person, and one verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The image of virtue traveling against the wind is preserved in the "
+                              "Chinese Āgamas and in the Dharmapada literature; the Pāli verse also "
+                              "stands at Dhammapada 54; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the most immediately likable "
+                       "discourse in the chapter"),
+    ],
+    why=(
+        "Ānanda notices something about the world and turns it into a question. Root, heartwood, and "
+        "flower fragrances all travel with the wind and not against it &mdash; is there any that "
+        "travels both ways? There is, and the answer is not a plant. It is a household in a village "
+        "that keeps the precepts and gives things away."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A good reputation is the only fragrance that travels upwind."]),
+        ("The question, and who asks it", [
+            "The three fragrances named are the standard categories of Indian perfumery: root, "
+            "heartwood, and flower &mdash; and the last of these covered the most valued substances "
+            "of the ancient trade.",
+            "What Ānanda has noticed is a physical fact and he states it precisely: these <em>spread "
+            "only with the wind, not against it</em>. Then the question: is there a kind that spreads "
+            "with the wind, and against it, and both ways?",
+            "It is worth pointing out that the question is Ānanda&rsquo;s, not the Buddha&rsquo;s, "
+            "and that it is built from an ordinary observation about smell. This chapter has already "
+            "shown him managing a sick teacher and analyzing a question about observances; here he "
+            "sets up an image, and the Buddha completes it."]),
+        ("What the answer describes", [
+            "Not a virtue in the abstract but a specific person in a specific place: <em>in some "
+            "village or town, a woman or man</em> who has gone for refuge to the Buddha, the "
+            "teaching, and the Saṅgha.",
+            "Then three things. They have taken refuge. They keep the five precepts &mdash; no "
+            "killing, stealing, sexual misconduct, lying, or intoxicants &mdash; and are <em>ethical, "
+            "of good character</em>. And they live at home <em>rid of the stain of stinginess, freely "
+            "generous, open-handed, loving to let go</em>, in the six-phrase formula AN 3.42 used for "
+            "the third ground of faith.",
+            "So the fragrance is not attainment, insight, or meditative achievement. It is a "
+            "layperson keeping ordinary precepts and giving things away. Nothing in the description "
+            "requires ordination or any unusual capacity.",
+            "And the effect: <em>ascetics and brahmins everywhere praise them for these good "
+            "qualities; even the deities praise them.</em> Ascetics and brahmins means everyone with "
+            "religious standing, including those of other traditions. The reputation crosses "
+            "sectarian lines, which is the upwind part."]),
+        ("The verse, and where else it stands", [
+            "&ldquo;The fragrance of flowers doesn&rsquo;t spread against the wind, nor sandalwood, "
+            "pinwheel flowers, or jasmine; but the fragrance of the good spreads against the wind; a "
+            "true person&rsquo;s virtue spreads in every direction.&rdquo;",
+            "The same verse stands in the Dhammapada&rsquo;s chapter on flowers, which is where most "
+            "readers will have met it, and the three named substances there are the same. Sandalwood "
+            "was the most expensive aromatic of the ancient world; naming it and then saying it "
+            "cannot do what an ordinary householder&rsquo;s conduct does is the whole rhetorical "
+            "move.",
+            "It is worth flagging that a verse appearing in two places is normal in this literature "
+            "rather than a sign that one copied the other. Verses circulated, and the collections "
+            "gathered them into different settings. This discourse gives the verse a narrative frame; "
+            "the Dhammapada gives it neighbors on a theme."]),
+        ("What the discourse is and is not claiming", [
+            "It is a discourse about reputation, and reputation is a strange thing for a renunciate "
+            "tradition to praise. The canon is generally suspicious of fame &mdash; AN 3.11 warns "
+            "about what a well-known mendicant&rsquo;s conduct does to others, and the Threes have "
+            "already ranked being praised well below being free.",
+            "The difference is that nothing here is done for the sake of the reputation. The person "
+            "described is keeping precepts and giving; the praise is a consequence they do not act "
+            "for and are not said to notice. The fragrance image carries exactly that: a flower does "
+            "not smell in order to be smelled.",
+            "It is also worth being honest that the discourse offers a social reward and means it. "
+            "This is not a text about inner peace. It says that a household that behaves this way "
+            "will be spoken well of by religious people everywhere, and it offers that as a good "
+            "thing. A tradition that only ever spoke of liberation would have no way of "
+            "recommending anything to a village."]),
+        ("Using it", [
+            "This is the discourse to open a lay class with. It is short, the image is memorable, it "
+            "asks nothing that a listener cannot do, and its verse is already familiar to anyone who "
+            "has read the Dhammapada.",
+            "The teaching point that survives translation is the direction of travel. Everything a "
+            "person buys travels downwind &mdash; the fine clothes, the sandalwood, the house. What "
+            "they do travels both ways. That is a plain claim about how reputations actually work and "
+            "it does not need any doctrinal commitment to test."]),
+    ],
+    terms=[
+        ("gandhajāta",
+         "&ldquo;kinds of fragrance&rdquo; &mdash; the three named are root, heartwood, and flower, "
+         "the standard categories of Indian perfumery."),
+        ("anuvātaṁ paṭivātaṁ",
+         "&ldquo;with the wind, against the wind&rdquo; &mdash; the physical fact Ānanda&rsquo;s "
+         "question is built on."),
+        ("sappurisa",
+         "&ldquo;a true person&rdquo; &mdash; whose virtue the verse says spreads in every direction."),
+        ("candana tagara mallikā",
+         "&ldquo;sandalwood, pinwheel flowers, jasmine&rdquo; &mdash; the three costly aromatics "
+         "named in the verse, which also stands at Dhammapada 54."),
+        ("muttacāga",
+         "&ldquo;loving to let go&rdquo; &mdash; one of the six phrases for generosity, the same set "
+         "AN 3.42 uses for the third ground on which faith is recognized."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three fragrances"),
+        ("p", "&sect;1", "an3.79:1.1"),
+        ("p", "&sect;2", "an3.79:2.1-2.5"),
+        ("h3", "And one that goes both ways"),
+        ("p", "&sect;3", "an3.79:3.1-3.2"),
+        ("p", "&sect;4", "an3.79:4.1-4.3"),
+        ("p", "&sect;5&ndash;6", "an3.79:5.1-6.5"),
+        ("h3", "In verse"),
+        ("p", "&sect;7", "an3.79:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "Which three fragrances does Ānanda name?",
+         "opts": [
+             "Sandalwood, jasmine, and incense",
+             "Root, heartwood, and flower &mdash; the standard categories of Indian perfumery",
+             "Oil, resin, and smoke",
+             "Field, forest, and garden"],
+         "correct": 1,
+         "expl": "The last covered the most valued substances of the ancient trade."},
+        {"q": "Whose question is it?",
+         "opts": [
+             "The Buddha&rsquo;s",
+             "Ānanda&rsquo;s, built from an ordinary observation about smell",
+             "A layperson&rsquo;s",
+             "A wanderer&rsquo;s"],
+         "correct": 1,
+         "expl": "He sets up the image and the Buddha completes it."},
+        {"q": "What does the answer describe?",
+         "opts": [
+             "A meditative attainment",
+             "A rare flower",
+             "A woman or man in some village or town who has taken refuge, keeps the five precepts, and lives at home free of stinginess",
+             "A monastery"],
+         "correct": 2,
+         "expl": "Nothing in the description requires ordination or any unusual capacity."},
+        {"q": "Who is said to praise such a person?",
+         "opts": [
+             "Their family",
+             "Ascetics and brahmins everywhere &mdash; including those of other traditions &mdash; and even the deities",
+             "The Saṅgha only",
+             "The king"],
+         "correct": 1,
+         "expl": "The reputation crosses sectarian lines, which is the upwind part."},
+        {"q": "Which formula does the description of generosity borrow?",
+         "opts": [
+             "The six phrases AN 3.42 uses for the third ground on which faith is recognized",
+             "The eight sabbath factors",
+             "The three refuges",
+             "The four immeasurables"],
+         "correct": 0,
+         "expl": "&ldquo;Rid of the stain of stinginess, freely generous, open-handed, loving to let go&hellip;&rdquo;"},
+        {"q": "Where else does the closing verse stand?",
+         "opts": [
+             "In the Sutta Nipāta",
+             "In the Dhammapada&rsquo;s chapter on flowers",
+             "In the Udāna",
+             "Nowhere else"],
+         "correct": 1,
+         "expl": "Verses circulated, and the collections gathered them into different settings."},
+        {"q": "What is the rhetorical move in naming sandalwood?",
+         "opts": [
+             "It was the most expensive aromatic of the ancient world, and it cannot do what an ordinary householder&rsquo;s conduct does",
+             "It was used in temples",
+             "It was rare in India",
+             "It is a medicine"],
+         "correct": 0,
+         "expl": "Named, and then outdone."},
+        {"q": "Why is a discourse praising reputation unusual here?",
+         "opts": [
+             "Because reputations are hard to acquire",
+             "Because the canon is generally suspicious of fame &mdash; AN 3.11 warns about a well-known mendicant, and the Threes rank being praised well below being free",
+             "Because laypeople are not usually addressed",
+             "Because fragrance is a luxury"],
+         "correct": 1,
+         "expl": "The difference is that nothing here is done for the sake of the reputation."},
+        {"q": "How does the fragrance image carry that difference?",
+         "opts": [
+             "A flower does not smell in order to be smelled",
+             "Fragrance is invisible",
+             "Fragrance fades",
+             "Fragrance can be bought"],
+         "correct": 0,
+         "expl": "The praise is a consequence the person does not act for and is not said to notice."},
+        {"q": "What plain claim does the guide say survives translation?",
+         "opts": [
+             "That virtue is rewarded in heaven",
+             "That everything a person buys travels downwind, and what they do travels both ways",
+             "That perfume is wasteful",
+             "That reputation is unimportant"],
+         "correct": 1,
+         "expl": "A claim about how reputations actually work, testable without any doctrinal commitment."},
+    ],
+    marginalia=[
+        ("Downwind only", [
+            "root",
+            "heartwood",
+            "flower",
+        ]),
+        ("Both ways", [
+            "gone for refuge",
+            "keeping five precepts",
+            "living at home, open-handed",
+        ]),
+        ("The verse", [
+            "&ldquo;nor sandalwood,",
+            "pinwheel flowers, or jasmine&rdquo;",
+            "&mdash; also at Dhammapada 54",
+        ]),
+        ("Cross-references", [
+            "Dhp 4 &middot; the same verse, among flowers",
+            "AN 3.42 &middot; the six phrases for giving",
+            "AN 3.11 &middot; fame, warned about",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.79/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../dhammapada/dhp-04.html">Dhammapada &middot; Chapter 4, Flowers</a> &mdash; where '
+        "the same verse stands among its neighbors on a theme rather than inside a conversation. "
+        "Reading both shows how a single verse works differently with and without a narrative frame.",
+        '<a href="an-3.42.html">AN 3.42 &middot; Three Grounds</a> &mdash; for the six-phrase '
+        "description of generosity that this discourse borrows, and for the claim that faith is "
+        "recognized by what a household actually does.",
+        '<a href="an-3.11.html">AN 3.11 &middot; Well-known</a> &mdash; for the collection&rsquo;s '
+        "warier treatment of reputation, which is worth setting beside this discourse&rsquo;s praise "
+        "of it.",
+    ],
+)
+
+
+page(
+    80, "Cūḷanikā", "Lesser",
+    vagga=VAGGA_8,
+    meta_title="AN 3.80 — Lesser | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Cūḷanikāsutta — how far a "
+        "Buddha's voice reaches, three sizes of world system, and a remark made to Udāyī about "
+        "Ānanda. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Ānanda approaches with a question he has asked before"),
+        ("Speakers", "Venerable Ānanda, the Buddha, and Venerable Udāyī"),
+        ("Form", "A question refused twice and answered the third time, a cosmological exposition in "
+                 "three scales, a method, and a closing exchange"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "The three world systems are preserved in the Chinese Āgamas and became "
+                              "the 三千大千世界 of East Asian Buddhism; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the cosmology is easy and the "
+                       "last paragraph is not"),
+    ],
+    why=(
+        "Ānanda has heard that a disciple of a past Buddha could make his voice heard throughout a "
+        "galaxy, and wants to know how far a Buddha&rsquo;s voice reaches. He is told <em>Realized "
+        "Ones are immeasurable</em> and asks again, and again. On the third asking he gets the "
+        "cosmology of the thousandfold world systems, an answer, and a method &mdash; and then the "
+        "discourse ends with an exchange about Ānanda himself that has nothing to do with any of it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The scale of the world is stated in three multiplications, and the last word of the "
+            "discourse is about somebody&rsquo;s confidence rather than about the cosmos."]),
+        ("Asking three times", [
+            "The question is asked and refused twice with the same reply: <em>he was a disciple, "
+            "Ānanda. Realized Ones are immeasurable.</em> That is not evasion so much as a category "
+            "objection &mdash; the comparison Ānanda is trying to make has no upper term.",
+            "On the third asking the Buddha changes tack and asks whether Ānanda has heard of a "
+            "thousandfold lesser world system, and Ānanda gives the formula that invites teaching: "
+            "<em>now is the time, Blessed One!</em> The same phrase Sāriputta uses in AN 3.33.",
+            "Asking three times is a recognized pattern in the canon and it usually marks a request "
+            "as serious rather than idle. It is worth noticing that here it works &mdash; persistence "
+            "is rewarded, where in AN 3.60 Ānanda&rsquo;s three askings of Saṅgārava produced only "
+            "silence."]),
+        ("Three scales", [
+            "A <em>galaxy</em> &mdash; a thousandfold lesser world system &mdash; contains a thousand "
+            "moons, a thousand suns, a thousand Mount Merus, a thousand of each of the four "
+            "continents, four thousand oceans, four thousand great kings, and a thousand of each "
+            "heaven up through the Brahmā realm.",
+            "A thousand of those is a <em>galactic cluster</em>, a millionfold middling world system. "
+            "A thousand of those is a <em>galactic supercluster</em>, a billionfold great world "
+            "system.",
+            "This is the scheme that entered Chinese as 三千大千世界, the thousand-cubed great "
+            "thousand world &mdash; a phrase any reader of Mahāyāna sūtras has met dozens of times, "
+            "usually without being told that it names a specific arithmetic rather than a poetic "
+            "immensity. Anyone who has read the Lotus or the Diamond Sūtra has been counting these.",
+            "A word about the translation is owed here. Sujato renders the three as galaxy, galactic "
+            "cluster, and supercluster, which is an interpretive choice: the Pāli says <em>cūḷanikā "
+            "lokadhātu</em>, a lesser world element, and so on. The rendering makes the scheme vivid "
+            "for a modern reader and it also imports a modern cosmology the text does not have. A "
+            "class should be told this, and told that the underlying claim &mdash; a thousand of "
+            "these, a thousand of those, and a thousand again &mdash; is unaffected either way."]),
+        ("The answer, and the method", [
+            "<em>If he wished, Ānanda, a Realized One could make his voice heard throughout a "
+            "galactic supercluster, or as far as he wants.</em> Then Ānanda asks how, and gets a "
+            "two-step procedure: fill the whole system with light; and when beings see the light, "
+            "project the call so they hear it.",
+            "The light comes first. Whatever one makes of the claim, the sequence is worth noticing: "
+            "the voice does not arrive unannounced. Something is made visible, attention is drawn, "
+            "and then the sound is sent. It is a description of how anybody gets heard at "
+            "scale.",
+            "The passage sits oddly with AN 3.60, twenty discourses earlier, where the demonstration "
+            "of psychic power was ranked last of three and let stand as such. The Threes evidently "
+            "did not regard the powers as embarrassing; they regarded them as ineffective for "
+            "convincing anybody, which is a different objection and is not contradicted here. Nobody "
+            "in this discourse is being convinced of anything."]),
+        ("Udāyī, and the last paragraph", [
+            "Ānanda says: <em>I&rsquo;m so fortunate, so very fortunate, to have a teacher with such "
+            "power and might!</em>",
+            "And Udāyī says: <em>what is it to you, Reverend Ānanda, if your teacher has such power "
+            "and might?</em>",
+            "That is a hard sentence and the discourse does not explain it. It can be read as a "
+            "rebuke &mdash; your teacher&rsquo;s attainment is not yours &mdash; which would be a "
+            "defensible point badly timed, and Udāyī elsewhere in the canon is often the one who says "
+            "the tactless thing.",
+            "The Buddha&rsquo;s reply is the strangest part of the discourse. <em>Not so, Udāyī, not "
+            "so! If Ānanda were to die while still not free of greed, he would rule as king of the "
+            "gods for seven lifetimes, or as king of the Black Plum Tree Land for seven lifetimes, "
+            "because of the confidence of his heart. However, Ānanda will be fully extinguished in "
+            "this very life.</em>",
+            "So the defense of Ānanda is that his confidence in his teacher is itself worth an "
+            "enormous amount &mdash; and then that the calculation does not apply, because he will "
+            "finish. Two answers to Udāyī, and the second cancels the first.",
+            "It is also a prediction made about a named living person in his presence, which the canon "
+            "does not do lightly, and it is the answer to the question Udāyī asked: what is it to you? "
+            "It is this much."]),
+        ("Using it", [
+            "Teach the cosmology for the Chinese connection, which is immediate and useful: a class "
+            "that has read 三千大千世界 in a Mahāyāna sūtra can be shown where the phrase comes from "
+            "and what it counts.",
+            "Teach the last paragraph for the human material. A student expresses delight in his "
+            "teacher, a colleague makes a cutting remark about it, and the teacher defends the "
+            "student by putting a value on the delight itself. Very little in the canon is more "
+            "recognizable than that exchange, and it is preserved without any comment on who was "
+            "right."]),
+    ],
+    terms=[
+        ("cūḷanikā lokadhātu",
+         "&ldquo;lesser world system&rdquo; &mdash; a thousandfold system, rendered by Sujato as a "
+         "galaxy. The first of three scales."),
+        ("tisahassī mahāsahassī lokadhātu",
+         "the billionfold great world system, which entered Chinese as 三千大千世界 &mdash; a phrase "
+         "familiar from every Mahāyāna sūtra."),
+        ("abhibhū",
+         "a disciple of the past Buddha Sikhī, whose voice was said to reach a whole galaxy. The "
+         "comparison that starts the discourse."),
+        ("appamāṇā tathāgatā",
+         "&ldquo;Realized Ones are immeasurable&rdquo; &mdash; the reply given twice before the "
+         "question is answered: a category objection rather than a refusal."),
+        ("cittappasāda",
+         "&ldquo;confidence of the heart&rdquo; &mdash; what the Buddha says Ānanda&rsquo;s delight "
+         "would have been worth, before adding that the calculation does not apply."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Asked three times"),
+        ("p", "&sect;1", "an3.80:1.1-1.5"),
+        ("p", "&sect;2", "an3.80:2.1-2.5"),
+        ("p", "&sect;3", "an3.80:3.1-3.10"),
+        ("h3", "Three scales"),
+        ("p", "&sect;4", "an3.80:4.1-4.3"),
+        ("p", "&sect;5&ndash;6", "an3.80:5.1-6.2"),
+        ("h3", "How far, and how"),
+        ("p", "&sect;7", "an3.80:7.1"),
+        ("p", "&sect;8", "an3.80:8.1-8.4"),
+        ("h3", "What is it to you?"),
+        ("p", "&sect;9", "an3.80:9.1-9.9"),
+    ],
+    quiz=[
+        {"q": "What starts the discourse?",
+         "opts": [
+             "A question about rebirth",
+             "Ānanda&rsquo;s report that Abhibhū, a disciple of the Buddha Sikhī, could make his voice heard throughout a galaxy &mdash; and his question about how far a Buddha&rsquo;s voice reaches",
+             "A dispute among monks",
+             "A visit from a brahmin"],
+         "correct": 1,
+         "expl": "He asks three times before he is answered."},
+        {"q": "What is the reply the first two times?",
+         "opts": [
+             "That the question is improper",
+             "&ldquo;He was a disciple, Ānanda. Realized Ones are immeasurable&rdquo; &mdash; a category objection rather than a refusal",
+             "Silence",
+             "A counter-question"],
+         "correct": 1,
+         "expl": "The comparison Ānanda is trying to make has no upper term."},
+        {"q": "What contains a thousand moons, a thousand suns, and a thousand Mount Merus?",
+         "opts": [
+             "A galactic cluster",
+             "A galactic supercluster",
+             "A thousandfold lesser world system &mdash; a galaxy",
+             "The sensual realm"],
+         "correct": 2,
+         "expl": "The first of three scales, each a thousand of the last."},
+        {"q": "What phrase did the three-scale scheme become in Chinese?",
+         "opts": [
+             "三千大千世界",
+             "四大天王",
+             "八關齋戒",
+             "貪瞋癡"],
+         "correct": 0,
+         "expl": "Familiar from every Mahāyāna sūtra, usually without being explained as an arithmetic."},
+        {"q": "What does the guide say about Sujato&rsquo;s &ldquo;galaxy&rdquo;?",
+         "opts": [
+             "That it is a literal translation",
+             "That it is an interpretive choice which makes the scheme vivid and also imports a modern cosmology the text does not have &mdash; while the underlying arithmetic is unaffected",
+             "That it is an error",
+             "That the Pāli has no word for it"],
+         "correct": 1,
+         "expl": "The Pāli says <em>cūḷanikā lokadhātu</em>, a lesser world element."},
+        {"q": "What two-step method is given?",
+         "opts": [
+             "Speaking loudly and repeating",
+             "Filling the whole system with light, and then projecting the call once beings have seen the light",
+             "Sending disciples out",
+             "Writing it down"],
+         "correct": 1,
+         "expl": "The light comes first: the voice does not arrive unannounced."},
+        {"q": "How does the guide relate this to AN 3.60?",
+         "opts": [
+             "As a contradiction",
+             "By noting that the Threes did not treat the powers as embarrassing, only as ineffective for convincing anybody &mdash; and nobody here is being convinced of anything",
+             "By saying AN 3.60 is later",
+             "By denying the powers"],
+         "correct": 1,
+         "expl": "A different objection, and not contradicted here."},
+        {"q": "What does Udāyī say?",
+         "opts": [
+             "That the cosmology is doubtful",
+             "&ldquo;What is it to you, Reverend Ānanda, if your teacher has such power and might?&rdquo;",
+             "That Ānanda should ask less",
+             "That he wishes to hear more"],
+         "correct": 1,
+         "expl": "A hard sentence that the discourse does not explain."},
+        {"q": "What is the Buddha&rsquo;s reply?",
+         "opts": [
+             "That Udāyī is correct",
+             "That Ānanda&rsquo;s confidence would be worth seven lifetimes as king of the gods &mdash; and that the calculation does not apply, because Ānanda will be fully extinguished in this very life",
+             "Silence",
+             "A rebuke of Ānanda"],
+         "correct": 1,
+         "expl": "Two answers, and the second cancels the first."},
+        {"q": "Why does the guide call the last paragraph worth teaching?",
+         "opts": [
+             "For the cosmology",
+             "For the human material &mdash; a student expresses delight, a colleague makes a cutting remark, and the teacher defends the student by putting a value on the delight itself",
+             "For the prediction alone",
+             "For the psychic powers"],
+         "correct": 1,
+         "expl": "Preserved without any comment on who was right."},
+    ],
+    marginalia=[
+        ("Three scales", [
+            "a thousand &middot; a galaxy",
+            "a thousand of those &middot; a cluster",
+            "a thousand again &middot; a supercluster",
+            "&mdash; 三千大千世界",
+        ]),
+        ("The method", [
+            "first, fill it with light",
+            "then, project the call",
+            "&mdash; in that order",
+        ]),
+        ("The last exchange", [
+            "&ldquo;what is it to you?&rdquo;",
+            "&ldquo;seven lifetimes &hellip;",
+            "however, in this very life&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.60 &middot; psychic power ranked last",
+            "AN 3.33 &middot; &ldquo;now is the time&rdquo;",
+            "AN 3.75 &middot; confidence and what it secures",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.80/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="/sutras/lotus-sutra/skillful-means-the-buddhas-wisdom.html">The Lotus Sūtra &middot; '
+        "Skillful Means</a> &mdash; for the phrase 三千大千世界 in its natural habitat, used as the "
+        "unit of measurement for a Buddha&rsquo;s scope. Reading this discourse first turns a "
+        "familiar formula back into an arithmetic.",
+        '<a href="an-3.60.html">AN 3.60 &middot; With Saṅgārava</a> &mdash; where displays of psychic '
+        "power are ranked last of three kinds of demonstration, which is worth holding beside this "
+        "discourse rather than against it.",
+        '<a href="an-3.75.html">AN 3.75 &middot; Support</a> &mdash; for what confidence secures in '
+        "the canon&rsquo;s ordinary accounting, which is the calculation the Buddha performs and then "
+        "sets aside for Ānanda.",
+    ],
+)
