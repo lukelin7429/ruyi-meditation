@@ -5,6 +5,7 @@ SC = "https://suttacentral.net"
 
 # Where the chapter chain attaches at each end. TAIL moves forward as the
 # Ones fill in; today the next published page after the Ones is AN 3.61.
+INDEX_HEADING = "Ekaka Nipāta — The Ones"
 HEAD = ("./", "Aṅguttara Nikāya selections")
 TAIL = ("an-3.61.html", "AN 3.61 &middot; Sectarian Tenets")
 
@@ -15,6 +16,7 @@ PAGES = []
 # --------------------------------------------------------------------------- #
 PAGES.append({
     "slug": "an-1.1-10",
+    "index_pali": "Rūpādi",
     "nav_title": "What Occupies the Mind",
     "source": "an1/an1.1-10",
     "crumb": "AN 1.1&ndash;10",
@@ -287,6 +289,7 @@ PAGES.append({
 # --------------------------------------------------------------------------- #
 PAGES.append({
     "slug": "an-1.11-20",
+    "index_pali": "Nīvaraṇappahāna",
     "nav_title": "Giving Up the Hindrances",
     "source": "an1/an1.11-20",
     "crumb": "AN 1.11&ndash;20",
@@ -563,6 +566,7 @@ PAGES.append({
 # --------------------------------------------------------------------------- #
 PAGES.append({
     "slug": "an-1.21-30",
+    "index_pali": "Akammaniya",
     "nav_title": "Unworkable",
     "source": "an1/an1.21-30",
     "crumb": "AN 1.21&ndash;30",
@@ -813,6 +817,7 @@ PAGES.append({
 # --------------------------------------------------------------------------- #
 PAGES.append({
     "slug": "an-1.31-40",
+    "index_pali": "Adanta",
     "nav_title": "Wild",
     "source": "an1/an1.31-40",
     "crumb": "AN 1.31&ndash;40",
@@ -1064,6 +1069,7 @@ PAGES.append({
 # --------------------------------------------------------------------------- #
 PAGES.append({
     "slug": "an-1.41-50",
+    "index_pali": "Paṇihitaaccha",
     "nav_title": "A Spike",
     "source": "an1/an1.41-50",
     "crumb": "AN 1.41&ndash;50",
@@ -1339,6 +1345,7 @@ PAGES.append({
 # --------------------------------------------------------------------------- #
 PAGES.append({
     "slug": "an-1.51-60",
+    "index_pali": "Accharāsaṅghāta",
     "nav_title": "A Finger-Snap",
     "source": "an1/an1.51-60",
     "crumb": "AN 1.51&ndash;60",
@@ -1598,5 +1605,1057 @@ PAGES.append({
         "where the radiant-mind statement is made for the first time and left unglossed.",
         '<a href="an-11.15.html">AN 11.15 &middot; The Benefits of Love</a> &mdash; what the '
         "finger-snap of <em>mettā</em> grows into when it is made much of.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 1.61–70 — Vīriyārambhādivagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.61-70",
+    "index_pali": "Vīriyārambhādi",
+    "nav_title": "Arousing Energy",
+    "source": "an1/an1.61-70",
+    "crumb": "AN 1.61&ndash;70",
+    "meta_title": "AN 1.61–70 — Arousing Energy | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vīriyārambhādivagga, the seventh chapter of the Aṅguttara Nikāya — energy, few "
+        "wishes, contentment, rational attention, situational awareness, and friendship, "
+        "each paired with its opposite as the one factor that most reliably tips a "
+        "practice one way. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.61&ndash;70",
+    "title": "Arousing Energy",
+    "subtitle": "<em>Vīriyārambhādivagga</em> &mdash; the seventh chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Paired entries on one template, continuing without a break from the end of the "
+                 "previous chapter and running past the end of this one"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The list of factors that cause skillful qualities to arise or decline "
+                              "recurs throughout the Chinese Saṁyukta-āgama (T99); this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the easiest chapter so far to read, "
+                       "and the one most worth keeping as a checklist"),
+    ],
+    "why": (
+        "From here to the end of AN 1.129 the Ones are essentially one long list, restated under "
+        "different headings, of the factors that decide whether a practice grows or shrinks. This "
+        "chapter is where that list is first laid out in full, and it is the most immediately usable "
+        "material in the nipāta: nine paired factors, each stated as the single thing that most reliably "
+        "tips a person one way. Nothing in it is difficult. Its value is that it is short enough to keep "
+        "in mind and specific enough to check yourself against on an ordinary day."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Energy, modest wants, contentment, well-aimed attention, situational awareness, and the "
+            "company you keep are the factors that decide whether skillful qualities grow in you or "
+            "fall away &mdash; and each has an opposite that does the reverse."]),
+        ("A list that ignores the chapter divisions", [
+            "The first thing to notice is that this chapter does not begin or end where its content "
+            "does. AN 1.58&ndash;60, at the close of the previous chapter, already gave negligence, "
+            "diligence, and laziness on this same template. AN 1.61 opens here with arousing energy, "
+            "which is laziness&rsquo;s missing partner. And AN 1.70 ends the chapter with bad friends, "
+            "leaving good friends stranded at the start of the next one.",
+            "That is worth pointing out to students once and then not belaboring. The <em>vagga</em> "
+            "divisions in the Ones are counts of roughly ten, imposed for recitation, not thematic "
+            "units. The content runs straight through them. Reading a chapter of the Ones as though it "
+            "were a composed essay produces confusion that reading it as a stretch of a list does not."]),
+        ("The nine pairs", [
+            "Taken together with the entries on either side, the full list is: diligence against "
+            "negligence, arousing energy against laziness, few wishes against many wishes, contentment "
+            "against discontent, rational against irrational application of mind, situational awareness "
+            "against its absence, good friends against bad, and pursuing good rather than bad habits. "
+            "The Aṅguttara will return to this list several times over the next seventy entries, "
+            "applying it to different questions each time.",
+            "Notice what is not on it. There is nothing about doctrinal correctness, nothing about "
+            "ritual, nothing about how much one has studied or how long one has been ordained. Every "
+            "item is either a disposition one can check in oneself in the present moment or a fact about "
+            "one&rsquo;s circumstances that one can change."]),
+        ("Few wishes and contentment are not the same thing", [
+            "<em>Appicchatā</em> and <em>santuṭṭhitā</em> get separate pairs, and the distinction is "
+            "worth keeping. Having few wishes is about the size of what one wants; contentment is about "
+            "one&rsquo;s relation to what one has already got. A person can want very little and still "
+            "be dissatisfied with the little they have; a person can be genuinely content and still be "
+            "acquiring more.",
+            "For lay students in particular, this is a more forgiving pair of ideas than it first "
+            "sounds. Neither term requires poverty. Both describe a relationship to wanting rather than "
+            "a quantity of possessions, which is why householders in the canon are praised for them as "
+            "readily as monastics."]),
+        ("Sujato&rsquo;s &ldquo;situational awareness&rdquo;", [
+            "<em>Sampajañña</em> is usually Englished as &ldquo;clear comprehension&rdquo; or "
+            "&ldquo;clear knowing,&rdquo; and Sujato&rsquo;s &ldquo;situational awareness&rdquo; is a "
+            "deliberate departure worth flagging in class. The older renderings are more literal and "
+            "sound more contemplative; Sujato&rsquo;s is borrowed from aviation and emergency response, "
+            "and it captures something the literal versions can obscure &mdash; that "
+            "<em>sampajañña</em> is practical and outward-facing, a matter of knowing what is going on "
+            "and what one is doing in it, not of an inward glow of clarity.",
+            "Either rendering can be defended, and showing students both is more instructive than "
+            "picking one. The pairing throughout the canon is with <em>sati</em>, mindfulness: "
+            "remembering to attend, and knowing what one is attending to."]),
+        ("Ending on friendship", [
+            "The chapter closes on bad friends, and the next opens on good ones. That placement is not "
+            "accidental even if the chapter break is. Everything else in the list is interior &mdash; "
+            "energy, wanting, attention, awareness &mdash; and friendship is the one factor on it that "
+            "lives outside a person entirely. The collection will make that structural point explicitly "
+            "later, at AN 1.98&ndash;113, where interior and exterior factors are separated and "
+            "friendship turns out to be the whole of the exterior list."]),
+    ],
+    "terms": [
+        ("vīriyārambha",
+         "&ldquo;arousing energy&rdquo; &mdash; literally the undertaking or launching of vigor. Not "
+         "sustained strain but the act of getting started, which is what the chapter is named after."),
+        ("mahicchatā / appicchatā",
+         "&ldquo;having many wishes&rdquo; and &ldquo;having few wishes&rdquo; &mdash; a statement about "
+         "the size of what one wants, distinct from contentment with what one has."),
+        ("asantuṭṭhitā / santuṭṭhitā",
+         "&ldquo;discontent&rdquo; and &ldquo;contentment&rdquo; &mdash; one&rsquo;s relation to what "
+         "one has already got. Neither term requires poverty; both describe a relationship to wanting."),
+        ("sampajañña",
+         "Sujato&rsquo;s &ldquo;situational awareness&rdquo;; more usually &ldquo;clear "
+         "comprehension.&rdquo; Knowing what is going on and what one is doing in it. Travels through "
+         "the canon paired with <em>sati</em>, mindfulness."),
+        ("pāpamittatā / kalyāṇamittatā",
+         "&ldquo;bad friendship&rdquo; and &ldquo;good friendship&rdquo; &mdash; the one factor on the "
+         "chapter&rsquo;s list that is not interior to a person, and the one the collection later "
+         "isolates as the whole of the exterior list."),
+    ],
+    "text_intro": (
+        "All ten discourses of the chapter, in order. Each &sect;N below is one complete discourse "
+        "&mdash; &sect;61 is AN 1.61, &sect;70 is AN 1.70 &mdash; and the list they belong to begins "
+        "three entries earlier and continues into the next chapter. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Energy (AN 1.61)"),
+        ("p", "&sect;61", "an1.61"),
+        ("h3", "Wanting and contentment (AN 1.62&ndash;65)"),
+        ("p", "&sect;62", "an1.62"),
+        ("p", "&sect;63", "an1.63"),
+        ("p", "&sect;64", "an1.64"),
+        ("p", "&sect;65", "an1.65"),
+        ("h3", "Attention and awareness (AN 1.66&ndash;69)"),
+        ("p", "&sect;66", "an1.66"),
+        ("p", "&sect;67", "an1.67"),
+        ("p", "&sect;68", "an1.68"),
+        ("p", "&sect;69", "an1.69"),
+        ("h3", "Company (AN 1.70)"),
+        ("p", "&sect;70", "an1.70"),
+    ],
+    "quiz": [
+        {"q": "What does the reading guide say about where this chapter begins and ends?",
+         "opts": [
+             "That it is a carefully composed essay with a beginning and a conclusion",
+             "That the chapter divisions in the Ones are counts of roughly ten imposed for recitation, and the content runs straight through them",
+             "That the chapter was reordered by later editors",
+             "That each chapter was spoken on a separate occasion"],
+         "correct": 1,
+         "expl": "Laziness gets its partner at the start of this chapter, and bad friends leave good friends stranded at the start of the next."},
+        {"q": "What is <em>vīriyārambha</em>, the quality the chapter is named for?",
+         "opts": [
+             "The arousing or undertaking of energy &mdash; the act of getting started",
+             "Sustained physical endurance",
+             "Freedom from all effort",
+             "Enthusiasm for doctrinal study"],
+         "correct": 0,
+         "expl": "Literally the launching of vigor, rather than the strain of keeping it up."},
+        {"q": "What is notably absent from the chapter's list of decisive factors?",
+         "opts": [
+             "Any mention of attention",
+             "Anything about doctrinal correctness, ritual, length of study, or years ordained",
+             "Anything about friendship",
+             "Anything about energy"],
+         "correct": 1,
+         "expl": "Every item is either a present-moment disposition or a changeable circumstance."},
+        {"q": "How do &ldquo;few wishes&rdquo; and &ldquo;contentment&rdquo; differ?",
+         "opts": [
+             "They are two translations of the same Pāli word",
+             "Few wishes concerns monastics and contentment concerns laypeople",
+             "Few wishes is about the size of what one wants; contentment is about one&rsquo;s relation to what one already has",
+             "Few wishes is a stage that must precede contentment"],
+         "correct": 2,
+         "expl": "A person can want little and still be dissatisfied with the little they have."},
+        {"q": "Why does the guide call this a forgiving pair of ideas for lay students?",
+         "opts": [
+             "Because neither term requires poverty &mdash; both describe a relationship to wanting rather than a quantity of possessions",
+             "Because they apply only during retreats",
+             "Because they can be postponed until old age",
+             "Because they are optional in the Buddha&rsquo;s teaching"],
+         "correct": 0,
+         "expl": "Which is why householders in the canon are praised for them as readily as monastics."},
+        {"q": "What word does Sujato render as &ldquo;situational awareness&rdquo;?",
+         "opts": [
+             "<em>Sati</em>",
+             "<em>Sampajañña</em>, more usually Englished &ldquo;clear comprehension&rdquo;",
+             "<em>Samādhi</em>",
+             "<em>Saññā</em>"],
+         "correct": 1,
+         "expl": "A deliberate departure, borrowed from aviation and emergency response."},
+        {"q": "What does that rendering bring out?",
+         "opts": [
+             "That the quality is a rare attainment",
+             "That the quality is inward and mystical",
+             "That the quality is practical and outward-facing &mdash; knowing what is going on and what one is doing in it",
+             "That the quality is identical to concentration"],
+         "correct": 2,
+         "expl": "Both renderings are defensible; showing students both is more instructive than picking one."},
+        {"q": "What does <em>sampajañña</em> travel with throughout the canon?",
+         "opts": [
+             "<em>Sati</em>, mindfulness &mdash; remembering to attend, and knowing what one is attending to",
+             "<em>Sīla</em>, ethical conduct",
+             "<em>Dāna</em>, generosity",
+             "<em>Nibbāna</em>, extinguishment"],
+         "correct": 0,
+         "expl": "The pair is standard, and each half does a different job."},
+        {"q": "What is structurally distinctive about friendship on this list?",
+         "opts": [
+             "It is the only item that requires ordination",
+             "It is the only factor that lives outside the person entirely, while everything else is interior",
+             "It appears only once in the entire collection",
+             "It is the only item with no negative counterpart"],
+         "correct": 1,
+         "expl": "A point the collection makes explicitly later, at AN 1.98&ndash;113."},
+        {"q": "Why does the guide call this the most immediately usable material in the nipāta?",
+         "opts": [
+             "Because it lists monastic rules to be memorized",
+             "Because it settles a doctrinal controversy",
+             "Because the list is short enough to keep in mind and specific enough to check yourself against on an ordinary day",
+             "Because it requires no practice at all"],
+         "correct": 2,
+         "expl": "Nothing in it is difficult; the value is in its portability."},
+    ],
+    "marginalia": [
+        ("The nine pairs", [
+            "diligence / negligence",
+            "energy / laziness",
+            "few wishes / many wishes",
+            "contentment / discontent",
+            "rational / irrational attention",
+            "awareness / its absence",
+            "good friends / bad friends",
+            "good habits / bad habits",
+        ]),
+        ("Two different things", [
+            "<span class=\"pali\">appicchatā</span>how much you want",
+            "<span class=\"pali\">santuṭṭhitā</span>how you hold what you have",
+        ]),
+        ("A translation choice", [
+            "<span class=\"pali\">sampajañña</span>situational awareness",
+            "usually: clear comprehension",
+            "paired always with <em>sati</em>",
+        ]),
+        ("Cross-references", [
+            "AN 1.71&ndash;81 &middot; next: good friends",
+            "AN 1.82&ndash;97 &middot; the same list, bare",
+            "AN 1.11&ndash;20 &middot; the same template",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.61-70/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.71-81.html">AN 1.71&ndash;81 &middot; Good Friends</a> &mdash; next in this '
+        "series, which picks up the friendship pair this chapter leaves half finished.",
+        '<a href="an-1.11-20.html">AN 1.11&ndash;20 &middot; Giving Up the Hindrances</a> &mdash; the '
+        "same one-factor template applied to the five hindrances rather than to skillful qualities at "
+        "large.",
+        '<a href="/sutras/mohe-zhiguan/fascicle-004.html">Mohe Zhiguan, Fascicle 4 &middot; The '
+        "Twenty-Five Preliminary Conditions</a> &mdash; few wishes, contentment, and good company set out "
+        "as conditions to be arranged before practice rather than as qualities to be admired.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 1.71–81 — Kalyāṇamittādivagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.71-81",
+    "index_pali": "Kalyāṇamittādi",
+    "nav_title": "Good Friends",
+    "source": "an1/an1.71-81",
+    "crumb": "AN 1.71&ndash;81",
+    "meta_title": "AN 1.71–81 — Good Friends | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kalyāṇamittādivagga, the eighth chapter of the Aṅguttara Nikāya — good friendship, "
+        "the habits one pursues, what feeds the awakening factors, and six entries ranking "
+        "the loss of relatives, wealth, and fame against the only loss that matters. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.71&ndash;81",
+    "title": "Good Friends",
+    "subtitle": "<em>Kalyāṇamittādivagga</em> &mdash; the eighth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Eleven entries in three groups &mdash; the tail of the factor list, two on what "
+                 "feeds the awakening factors, and six comparing ordinary losses and gains with "
+                 "the loss and growth of wisdom"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Good friendship as the decisive external factor is well attested in the "
+                              "Chinese Saṁyukta-āgama (T99); this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; plain throughout, and the last six "
+                       "entries are among the easiest passages in the canon to teach cold"),
+    ],
+    "why": (
+        "Two things make this short chapter worth more attention than its neighbors. The first is that "
+        "it opens on good friendship &mdash; a subject the early canon takes far more seriously than "
+        "most modern presentations of Buddhism suggest, and one that answers directly to the question "
+        "students ask most often about practicing alone. The second is that it ends with six entries "
+        "that put ordinary human losses and gains &mdash; family, money, reputation &mdash; on a scale "
+        "and then declare the scale beside the point. Those six lines are quotable, immediately "
+        "intelligible without any Buddhist vocabulary at all, and quietly severe."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Good friends and good habits are what make skillful qualities grow; losing relatives, "
+            "money, or standing is a small matter next to losing wisdom, and gaining them is a small "
+            "matter next to growing in it."]),
+        ("Good friendship as a technical term", [
+            "<em>Kalyāṇamittatā</em> is not simply having pleasant company. A <em>kalyāṇamitta</em> is "
+            "an admirable or beautiful friend &mdash; someone whose conduct, values, and practice make "
+            "them worth being near, and whose influence works on a person over time without either "
+            "party treating it as instruction. The canon treats this as a causal factor, not a "
+            "sentiment. This chapter says it is the single thing that most reliably makes skillful "
+            "qualities arise and unskillful ones fall away.",
+            "Elsewhere the claim goes further still. When Ānanda suggests that good friendship is half "
+            "of the spiritual life, the Buddha corrects him: it is the whole of it. That correction is "
+            "worth having ready, because the version of Buddhism that reaches most Western readers first "
+            "is an individualist one &mdash; a solitary practitioner, a cushion, a technique &mdash; and "
+            "this chapter is one of the places the canon is least compatible with that picture."]),
+        ("Habits, and what &ldquo;pursuing&rdquo; means", [
+            "AN 1.72&ndash;73 turn on <em>anuyoga</em>: applying oneself to something, going after it "
+            "repeatedly. What is pursued is <em>kusalā</em> or <em>akusalā dhammā</em> &mdash; skillful "
+            "or unskillful qualities, which Sujato here renders &ldquo;habits&rdquo; to keep the "
+            "sentence readable.",
+            "The pairing with friendship in the same breath is not incidental. Company and habit are "
+            "the two factors on the whole list that operate below the level of decision. Nobody chooses, "
+            "each morning, to be shaped by the people around them or by what they did yesterday; both "
+            "happen anyway. What the chapter offers is not a way to escape that mechanism but a way to "
+            "point it somewhere."]),
+        ("Feeding the awakening factors (AN 1.74&ndash;75)", [
+            "Two entries apply the familiar template to the seven awakening factors "
+            "(<em>bojjhaṅga</em>): mindfulness, investigation of principles, energy, rapture, "
+            "tranquility, immersion, and equanimity. Irrational application of mind keeps them from "
+            "arising and from reaching full development; rational application of mind does the reverse.",
+            "This is the same hinge that AN 1.15 and 1.20 used for doubt, now applied at the other end "
+            "of the scale. Attention is the factor the collection keeps returning to because it is the "
+            "one that operates on everything else. It is worth noting how much weight is being put on "
+            "something so unglamorous: not a special state, not a technique, simply where and how the "
+            "mind is applied."]),
+        ("The six entries on wisdom (AN 1.76&ndash;81)", [
+            "The chapter closes with three matched pairs, each following the same shape. Loss of "
+            "relatives is a small thing; wisdom is the worst thing to lose. Growth of relatives is a "
+            "small thing; wisdom is the best thing to grow &mdash; <em>so you should train like this: "
+            "we will grow in wisdom.</em> Then the same for wealth, and the same for fame.",
+            "The word rendered &ldquo;a small thing&rdquo; is <em>appamattikā</em>, slight or trifling. "
+            "It is important to hear what is and is not being said. The passage does not say these "
+            "losses do not hurt, or that grief over a family is a spiritual failure, or that poverty is "
+            "not hard. It says they are small <em>by comparison</em> &mdash; and it establishes that "
+            "comparison by putting all three on the same list, which is itself a claim: bereavement, "
+            "ruin, and disgrace, the three catastrophes an ancient Indian audience would have named "
+            "first, belong to one category, and wisdom belongs to another.",
+            "The pairs are also asymmetrical in a way worth pointing out. Only the growth entries carry "
+            "the training instruction. The Buddha does not tell anyone to train in not losing wisdom; he "
+            "tells them to train in growing it. The remedy offered for the worst possible loss is "
+            "positive rather than defensive, which is characteristic of the collection and unlike much "
+            "of what passes for spiritual advice about loss."]),
+        ("Teaching this chapter", [
+            "The last six entries work exceptionally well as an opening for a group with no Buddhist "
+            "background, because they require no vocabulary and make a claim anyone can immediately "
+            "agree or disagree with. A useful sequence in a classroom is to read AN 1.78&ndash;79 &mdash; "
+            "the wealth pair &mdash; first, ask whether the claim is true, and only then read AN "
+            "1.76&ndash;77 on relatives, which is much harder to accept and which reveals what the "
+            "claim actually costs."]),
+    ],
+    "terms": [
+        ("kalyāṇamittatā",
+         "&ldquo;good friendship&rdquo; &mdash; <em>kalyāṇa</em> is admirable, beautiful, fine. A "
+         "causal factor in the canon rather than a sentiment; elsewhere the Buddha calls it not half but "
+         "the whole of the spiritual life."),
+        ("anuyoga",
+         "&ldquo;pursuing&rdquo; &mdash; applying oneself to something repeatedly, going after it. "
+         "What the chapter says one pursues is skillful or unskillful qualities, rendered here as "
+         "&ldquo;habits.&rdquo;"),
+        ("bojjhaṅga",
+         "&ldquo;awakening factors&rdquo; &mdash; the seven: mindfulness, investigation of principles, "
+         "energy, rapture, tranquility, immersion, and equanimity. AN 1.74&ndash;75 name attention as "
+         "what feeds or starves the whole set."),
+        ("appamattikā",
+         "&ldquo;slight, trifling&rdquo; &mdash; the word applied to the loss of relatives, wealth, and "
+         "fame. A comparative judgment, not a denial that such losses hurt."),
+        ("paññā",
+         "wisdom &mdash; the one loss called the worst and the one growth called the best. Note that "
+         "only the growth entries carry a training instruction attached."),
+    ],
+    "text_intro": (
+        "All eleven discourses of the chapter, in order. Each &sect;N below is one complete discourse "
+        "&mdash; &sect;71 is AN 1.71, &sect;81 is AN 1.81. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Friends and habits (AN 1.71&ndash;73)"),
+        ("p", "&sect;71", "an1.71"),
+        ("p", "&sect;72", "an1.72"),
+        ("p", "&sect;73", "an1.73"),
+        ("h3", "The awakening factors (AN 1.74&ndash;75)"),
+        ("p", "&sect;74", "an1.74"),
+        ("p", "&sect;75", "an1.75"),
+        ("h3", "The only loss that matters (AN 1.76&ndash;81)"),
+        ("p", "&sect;76", "an1.76"),
+        ("p", "&sect;77", "an1.77"),
+        ("p", "&sect;78", "an1.78"),
+        ("p", "&sect;79", "an1.79"),
+        ("p", "&sect;80", "an1.80"),
+        ("p", "&sect;81", "an1.81"),
+    ],
+    "quiz": [
+        {"q": "What is a <em>kalyāṇamitta</em>?",
+         "opts": [
+             "A fellow monastic ordained in the same year",
+             "An admirable or beautiful friend &mdash; someone whose conduct and practice make them worth being near, treated in the canon as a causal factor rather than a sentiment",
+             "A teacher formally appointed by the Saṅgha",
+             "A donor who supports the community materially"],
+         "correct": 1,
+         "expl": "The influence works over time without either party treating it as instruction."},
+        {"q": "How does the Buddha correct Ānanda&rsquo;s suggestion that good friendship is half of the spiritual life?",
+         "opts": [
+             "By saying it is a quarter of it",
+             "By saying it applies only to beginners",
+             "By saying it is the whole of it",
+             "By agreeing with him"],
+         "correct": 2,
+         "expl": "One of the places the canon is least compatible with a purely individualist picture of practice."},
+        {"q": "What do company and habit have in common, according to the reading guide?",
+         "opts": [
+             "They are the two factors that operate below the level of decision &mdash; both shape a person whether or not they are chosen",
+             "They are both irrelevant to monastics",
+             "They are both under complete conscious control",
+             "They are both discussed only in later commentaries"],
+         "correct": 0,
+         "expl": "The chapter offers not a way to escape the mechanism but a way to point it somewhere."},
+        {"q": "What do AN 1.74&ndash;75 name as what feeds or starves the awakening factors?",
+         "opts": [
+             "Generosity and its absence",
+             "Rational and irrational application of mind",
+             "Good and bad friends",
+             "Solitude and company"],
+         "correct": 1,
+         "expl": "The same hinge AN 1.15 and 1.20 used for doubt, now applied at the other end of the scale."},
+        {"q": "Which seven qualities are the awakening factors?",
+         "opts": [
+             "Mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity",
+             "Generosity, ethics, patience, energy, meditation, wisdom, and skillful means",
+             "Sight, hearing, smell, taste, touch, thought, and memory",
+             "Faith, energy, mindfulness, immersion, wisdom, shame, and prudence"],
+         "correct": 0,
+         "expl": "And the entire set rises or falls on where and how the mind is applied."},
+        {"q": "What three ordinary losses does the chapter name before turning to wisdom?",
+         "opts": [
+             "Health, youth, and beauty",
+             "Relatives, wealth, and fame",
+             "Home, country, and language",
+             "Teachers, texts, and monasteries"],
+         "correct": 1,
+         "expl": "Bereavement, ruin, and disgrace &mdash; the three an ancient Indian audience would have named first."},
+        {"q": "What does the word <em>appamattikā</em> claim about these losses?",
+         "opts": [
+             "That they never happen to the wise",
+             "That they are punishments for past deeds",
+             "That they are slight <em>by comparison</em> &mdash; not that they do not hurt or that grief is a failure",
+             "That they are illusions"],
+         "correct": 2,
+         "expl": "The comparison is established by putting all three in one category and wisdom in another."},
+        {"q": "What asymmetry does the reading guide point out in the six entries?",
+         "opts": [
+             "That the loss entries are longer than the growth entries",
+             "That only the growth entries carry the training instruction &mdash; nobody is told to train in not losing wisdom, only in growing it",
+             "That fame is treated differently from wealth",
+             "That three entries are addressed to laypeople and three to monastics"],
+         "correct": 1,
+         "expl": "The remedy offered for the worst possible loss is positive rather than defensive."},
+        {"q": "What teaching sequence does the guide recommend for a group with no Buddhist background?",
+         "opts": [
+             "Read the awakening-factor entries first, since they are the most technical",
+             "Read the wealth pair first and ask whether the claim is true, then read the relatives pair, which is much harder to accept and reveals what the claim costs",
+             "Begin with the Pāli terminology",
+             "Skip the last six entries entirely"],
+         "correct": 1,
+         "expl": "The six entries need no vocabulary and make a claim anyone can immediately agree or disagree with."},
+        {"q": "Why does the collection keep returning to attention as a factor?",
+         "opts": [
+             "Because it is the most difficult attainment",
+             "Because it is only available to advanced practitioners",
+             "Because it is the one factor that operates on everything else &mdash; not a special state or technique, simply where and how the mind is applied",
+             "Because it replaces the need for ethical conduct"],
+         "correct": 2,
+         "expl": "Worth noting how much weight is put on something so unglamorous."},
+    ],
+    "marginalia": [
+        ("Three groups", [
+            "71&ndash;73 &middot; friends and habits",
+            "74&ndash;75 &middot; the awakening factors",
+            "76&ndash;81 &middot; wisdom against everything",
+        ]),
+        ("Good friendship", [
+            "<span class=\"pali\">kalyāṇamitta</span>an admirable friend",
+            "a causal factor, not a mood",
+            "&ldquo;the whole of the spiritual life&rdquo;",
+        ]),
+        ("Small things", [
+            "loss of relatives",
+            "loss of wealth",
+            "loss of fame",
+            "&mdash; wisdom is the worst to lose",
+        ]),
+        ("Cross-references", [
+            "AN 1.61&ndash;70 &middot; the same factor list",
+            "AN 1.82&ndash;97 &middot; next: the list, bare",
+            "AN 4.62 &middot; a householder&rsquo;s four kinds of happiness",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.71-81/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="%s/sn45.2/en/sujato" target="_blank" rel="noopener">SN 45.2 &middot; Half the '
+        "Spiritual Life</a> &mdash; the exchange with Ānanda in which good friendship is corrected "
+        "upward from half to the whole." % SC,
+        '<a href="an-4.62.html">AN 4.62 &middot; Debtlessness</a> &mdash; the same realism about wealth '
+        "and standing that AN 1.78&ndash;81 measures against wisdom, argued from the householder&rsquo;s "
+        "side rather than against it.",
+        '<a href="an-1.82-97.html">AN 1.82&ndash;97 &middot; Negligence</a> &mdash; next in this series, '
+        "where the whole factor list is restated in its barest possible form.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 1.82–97 — Pamādādivagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.82-97",
+    "index_pali": "Pamādādi",
+    "nav_title": "Negligence",
+    "source": "an1/an1.82-97",
+    "crumb": "AN 1.82&ndash;97",
+    "meta_title": "AN 1.82–97 — Negligence | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Pamādādivagga, the "
+        "ninth chapter of the Aṅguttara Nikāya — the same eight paired factors as the "
+        "chapters before it, now stripped of every qualification and stated as bare "
+        "superlatives. The Ones at their most compressed. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.82&ndash;97",
+    "title": "Negligence",
+    "subtitle": "<em>Pamādādivagga</em> &mdash; the ninth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Sixteen entries: eight paired factors, each stated twice in the shortest form "
+                 "the collection uses &mdash; harmful, and beneficial"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The same paired factors appear throughout the Chinese Āgamas in "
+                              "comparable compressed lists; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the plainest chapter in the Ones, "
+                       "and deliberately so"),
+    ],
+    "why": (
+        "This chapter contains no new information. It takes the list of factors that the previous three "
+        "chapters built up &mdash; negligence and diligence, laziness and energy, wanting much and "
+        "wanting little, discontent and contentment, poor and good attention, absent and present "
+        "awareness, bad and good friends, bad and good habits &mdash; and restates every one of them "
+        "in the barest form the Aṅguttara has: this is very harmful, this is very beneficial. Nothing "
+        "is explained; nothing is qualified. Read as literature it is the least interesting chapter so "
+        "far. Read as what it actually is &mdash; a memorization aid, the compressed form a reciter "
+        "carries and the expanded forms unpack from &mdash; it is the key to how this entire section of "
+        "the collection was built."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Eight things do more harm than anything else, and their eight opposites do more good than "
+            "anything else &mdash; and here they are with nothing else attached."]),
+        ("The same list, stripped", [
+            "Every factor in this chapter has already appeared, twice, in the chapters immediately "
+            "before it: once in AN 1.58&ndash;73 as what makes skillful qualities arise or decline, and "
+            "once implicitly in the surrounding material. What has changed is the frame. The earlier "
+            "entries said <em>I do not see a single thing that gives rise to unskillful qualities like "
+            "X</em>. These say only <em>I do not see a single thing so very harmful as X</em>.",
+            "Dropping the clause about arising and declining removes the mechanism and leaves the "
+            "verdict. That is a real loss of information, and it is deliberate. The Aṅguttara is "
+            "structured for oral transmission, and a list this compressed is what a reciter actually "
+            "holds: sixteen items, eight pairs, one of the standard refrains attached to each. The "
+            "longer versions can be regenerated from it by anyone who knows the template."]),
+        ("Why the pairs are always in this order", [
+            "The negative always comes first: negligence before diligence, laziness before energy, many "
+            "wishes before few. That ordering runs through the whole section and is not accidental. In "
+            "each case the harmful item is the default condition &mdash; the state a person is in "
+            "before anything is done &mdash; and the beneficial one is its correction. The list is "
+            "arranged as a diagnosis followed by a remedy, sixteen times over.",
+            "It also means the chapter can be read straight down the left-hand side as an inventory of "
+            "the ordinary unpracticed life: heedless, lazy, wanting a great deal, unsatisfied, thinking "
+            "carelessly, unaware of what is happening, in poor company, with poor habits. That is not a "
+            "flattering picture and it is not meant to be. But it is a recognizable one, which is why "
+            "the chapter works better as a checklist than as reading."]),
+        ("What to do with a chapter like this", [
+            "There is an honest question about whether a chapter of pure repetition deserves a study "
+            "page at all, and the answer this series gives is yes &mdash; because omitting it would "
+            "misrepresent the collection. A reader who meets only the vivid chapters of the Aṅguttara "
+            "comes away with a false impression of what the Numbered Discourses are actually like. "
+            "Most of the Ones look like this. The compression is the form.",
+            "Practically, the chapter is best used rather than read. Sixteen entries fit on a single "
+            "sheet; the eight negatives make a usable self-review at the end of a day, and the eight "
+            "positives make a usable one at the start. A class that spends five minutes reading it and "
+            "twenty minutes working through which of the eight is currently weakest has used the chapter "
+            "the way its form intends."]),
+        ("Where it goes next", [
+            "The following chapter, AN 1.98&ndash;139, takes this same list and asks three further "
+            "questions of it: which of these factors are interior and which exterior, what each does to "
+            "the survival of the teaching itself, and what happens when the teaching is misrepresented. "
+            "That is where the list stops being a personal checklist and becomes an argument about "
+            "institutions."]),
+    ],
+    "terms": [
+        ("pamāda / appamāda",
+         "negligence and diligence &mdash; heedlessness and its negative. The first pair of the "
+         "chapter and the one it is named after."),
+        ("kosajja / vīriyārambha",
+         "laziness and the arousing of energy. Note that the positive term is about getting started "
+         "rather than about sustained strain."),
+        ("mahicchatā / appicchatā",
+         "having many wishes and having few &mdash; the size of what one wants, as distinct from "
+         "one&rsquo;s satisfaction with what one has."),
+        ("mahato anatthāya / atthāya saṁvattati",
+         "&ldquo;leads to great harm&rdquo; / &ldquo;leads to great benefit&rdquo; &mdash; the entire "
+         "predicate of this chapter. Every one of the sixteen entries ends on one or the other."),
+        ("peyyāla",
+         "the canonical practice of abbreviation &mdash; not used in this chapter, but the reason "
+         "chapters like it exist. A compressed list is what a reciter carries; the expanded forms are "
+         "regenerated from it."),
+    ],
+    "text_intro": (
+        "All sixteen discourses of the chapter, in order. Each &sect;N below is one complete discourse "
+        "&mdash; &sect;82 is AN 1.82, &sect;97 is AN 1.97 &mdash; and they run as eight pairs, negative "
+        "first. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Diligence and energy (AN 1.82&ndash;85)"),
+        ("p", "&sect;82", "an1.82"),
+        ("p", "&sect;83", "an1.83"),
+        ("p", "&sect;84", "an1.84"),
+        ("p", "&sect;85", "an1.85"),
+        ("h3", "Wanting and contentment (AN 1.86&ndash;89)"),
+        ("p", "&sect;86", "an1.86"),
+        ("p", "&sect;87", "an1.87"),
+        ("p", "&sect;88", "an1.88"),
+        ("p", "&sect;89", "an1.89"),
+        ("h3", "Attention and awareness (AN 1.90&ndash;93)"),
+        ("p", "&sect;90", "an1.90"),
+        ("p", "&sect;91", "an1.91"),
+        ("p", "&sect;92", "an1.92"),
+        ("p", "&sect;93", "an1.93"),
+        ("h3", "Company and habits (AN 1.94&ndash;97)"),
+        ("p", "&sect;94", "an1.94"),
+        ("p", "&sect;95", "an1.95"),
+        ("p", "&sect;96", "an1.96"),
+        ("p", "&sect;97", "an1.97"),
+    ],
+    "quiz": [
+        {"q": "What is new in this chapter, compared with the chapters before it?",
+         "opts": [
+             "Nothing in content &mdash; the same factors are restated in the barest form the collection uses",
+             "Four factors never mentioned before",
+             "A new setting and a new interlocutor",
+             "A refutation of the earlier entries"],
+         "correct": 0,
+         "expl": "What has changed is the frame, not the list."},
+        {"q": "What does dropping the clause about qualities arising and declining do?",
+         "opts": [
+             "It makes the claim stronger",
+             "It removes the mechanism and leaves only the verdict &mdash; a real loss of information, and a deliberate one",
+             "It changes which factors are listed",
+             "It restricts the teaching to monastics"],
+         "correct": 1,
+         "expl": "The longer versions can be regenerated from the short one by anyone who knows the template."},
+        {"q": "Why would a collection deliberately preserve a compressed version like this?",
+         "opts": [
+             "Because the longer versions were lost",
+             "Because it was intended for children",
+             "Because the Aṅguttara is structured for oral transmission, and a compressed list is what a reciter actually holds",
+             "Because the Buddha spoke it on a day when he was in a hurry"],
+         "correct": 2,
+         "expl": "Sixteen items, eight pairs, one standard refrain each."},
+        {"q": "In what order do the pairs always come?",
+         "opts": [
+             "Beneficial first, then harmful",
+             "Alphabetically in Pāli",
+             "In order of length",
+             "The harmful item first, then its correction"],
+         "correct": 3,
+         "expl": "Which arranges the whole chapter as a diagnosis followed by a remedy, sixteen times over."},
+        {"q": "What does the reading guide say the left-hand column of the chapter amounts to?",
+         "opts": [
+             "A list of monastic offenses requiring confession",
+             "An inventory of the ordinary unpracticed life &mdash; heedless, lazy, wanting much, unsatisfied, careless, unaware, in poor company, with poor habits",
+             "A summary of rival philosophical schools",
+             "A list of meditation objects"],
+         "correct": 1,
+         "expl": "Not a flattering picture, and not meant to be &mdash; but a recognizable one."},
+        {"q": "Why does this series include a chapter of pure repetition at all?",
+         "opts": [
+             "Because omitting it would misrepresent the collection &mdash; most of the Ones look like this, and the compression is the form",
+             "Because it is the most doctrinally important chapter",
+             "Because it was requested by later commentators",
+             "Because it is the longest chapter in the nipāta"],
+         "correct": 0,
+         "expl": "A reader who meets only the vivid chapters comes away with a false impression of the Numbered Discourses."},
+        {"q": "How does the guide suggest actually using this chapter?",
+         "opts": [
+             "By memorizing it in Pāli before studying anything else",
+             "By reading it aloud once a year on a festival day",
+             "As a checklist &mdash; the eight negatives as an end-of-day review, the eight positives as a start-of-day one, with class time spent on which factor is currently weakest",
+             "By skipping straight to the next chapter"],
+         "correct": 2,
+         "expl": "Five minutes reading it and twenty working with it uses the chapter the way its form intends."},
+        {"q": "Which pair is the chapter named after?",
+         "opts": [
+             "Good and bad friends",
+             "Negligence and diligence &mdash; <em>pamāda</em> and <em>appamāda</em>",
+             "Contentment and discontent",
+             "Rational and irrational attention"],
+         "correct": 1,
+         "expl": "Pāli chapters take their names from their opening item, as usual."},
+        {"q": "What is the entire predicate of every entry in this chapter?",
+         "opts": [
+             "&ldquo;Leads to great harm&rdquo; or &ldquo;leads to great benefit&rdquo;",
+             "&ldquo;Leads to rebirth in heaven&rdquo;",
+             "&ldquo;Is praised by the wise&rdquo;",
+             "&ldquo;Was taught by former Buddhas&rdquo;"],
+         "correct": 0,
+         "expl": "<em>Mahato anatthāya</em> and <em>mahato atthāya saṁvattati</em>, sixteen times."},
+        {"q": "What does the next chapter do with this same list?",
+         "opts": [
+             "Discards it in favor of a different one",
+             "Asks which factors are interior and which exterior, what each does to the survival of the teaching, and what happens when the teaching is misrepresented",
+             "Repeats it again without change",
+             "Applies it to the life of the Buddha"],
+         "correct": 1,
+         "expl": "Where the list stops being a personal checklist and becomes an argument about institutions."},
+    ],
+    "marginalia": [
+        ("Eight pairs, bare", [
+            "negligence / diligence",
+            "laziness / energy",
+            "many wishes / few wishes",
+            "discontent / contentment",
+            "poor / good attention",
+            "no awareness / awareness",
+            "bad / good friends",
+            "bad / good habits",
+        ]),
+        ("The whole predicate", [
+            "<span class=\"pali\">mahato anatthāya</span>leads to great harm",
+            "<span class=\"pali\">mahato atthāya</span>leads to great benefit",
+        ]),
+        ("Why so bare", [
+            "built for recitation",
+            "the negative always first",
+            "diagnosis, then remedy",
+        ]),
+        ("Cross-references", [
+            "AN 1.61&ndash;70 &middot; the same list, expanded",
+            "AN 1.98&ndash;139 &middot; next: applied three ways",
+            "Dhammapada 2 &middot; Diligence",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.82-97/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.61-70.html">AN 1.61&ndash;70 &middot; Arousing Energy</a> &mdash; the same eight '
+        "pairs with the mechanism still attached, which is the version to read first.",
+        '<a href="../dhammapada/dhp-02.html">Dhammapada 2 &middot; Diligence</a> &mdash; what the first '
+        "pair of this chapter looks like when a poet rather than a reciter handles it.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 1.98–139 — Dutiyapamādādivagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.98-139",
+    "index_pali": "Dutiyapamādādi",
+    "nav_title": "Negligence, Again",
+    "source": "an1/an1.98-139",
+    "crumb": "AN 1.98&ndash;139",
+    "meta_title": "AN 1.98–139 — Negligence, Again | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyapamādādivagga, the tenth chapter of the Aṅguttara Nikāya — the factor list "
+        "sorted into interior and exterior, applied to the survival of the teaching itself, "
+        "and closing with ten ways of misrepresenting what the Buddha said. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.98&ndash;139",
+    "title": "Negligence, Again",
+    "subtitle": "<em>Dutiyapamādādivagga</em> &mdash; the tenth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Forty-two discourses in three movements, several of them abbreviated in the "
+                 "canonical manner into combined entries; the last ten are a single sentence "
+                 "repeated with ten substitutions"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Warnings about the disappearance of the true teaching through "
+                              "misrepresentation are found across the Chinese Āgamas and were "
+                              "enormously influential in East Asia; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple sentences, but the closing "
+                       "ten entries are the most institutionally loaded material in the Ones"),
+    ],
+    "why": (
+        "This is where the Ones stop being about a person and start being about a tradition. The same "
+        "eight paired factors that the previous chapters used as a personal checklist are now sorted "
+        "into what is inside a person and what is outside, then asked a different question entirely: "
+        "not what makes an individual grow or decline, but what makes the true teaching survive or "
+        "disappear. The chapter then closes on ten entries about misrepresenting what the Buddha said "
+        "&mdash; passages that would be quoted for the next two thousand years, in China with "
+        "particular intensity, by everyone worried about whether what they had received was really what "
+        "had been sent."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Of everything inside a person, negligence does the most harm and diligence the most good; "
+            "of everything outside, it is the company one keeps &mdash; and the same factors decide "
+            "whether the teaching itself endures, which misrepresenting it destroys."]),
+        ("A note on the abbreviations", [
+            "Three entries on this page cover more than one discourse each: AN 1.102&ndash;109, "
+            "AN 1.118&ndash;128, and AN 1.132&ndash;139. That is not an editorial shortcut made here but "
+            "the form the text itself has come down in. The Pāli canon uses a convention called "
+            "<em>peyyāla</em>, in which a repeated passage is written once with the varying terms "
+            "listed and the rest indicated by ellipsis, and the reciter or reader expands it.",
+            "Sujato&rsquo;s translation preserves that structure rather than silently unrolling it, "
+            "which is why some paragraphs below carry a range of numbers instead of a single one. Every "
+            "word of every discourse is present; what is compressed is the repetition between them. "
+            "Reading the ellipses aloud as full sentences, substituting each term in turn, is how the "
+            "text was meant to be used and takes about three times as long."]),
+        ("Interior and exterior (AN 1.98&ndash;113)", [
+            "The first movement re-sorts the familiar list. <em>Ajjhattikaṁ aṅgaṁ karitvā</em> &mdash; "
+            "taking into account interior factors &mdash; negligence is the most harmful and diligence "
+            "the most beneficial, and the same for laziness and energy, wanting much and wanting little, "
+            "discontent and contentment, careless and careful attention, and the absence and presence of "
+            "situational awareness. Then <em>bāhiraṁ aṅgaṁ karitvā</em>, taking into account exterior "
+            "factors: bad friends and good friends.",
+            "The striking thing is the proportion. Fourteen interior items are named and exactly two "
+            "exterior ones, and both of the exterior ones are the same thing &mdash; the people around "
+            "you. On this accounting, of everything in the world that is not you, the only variable that "
+            "matters decisively for your practice is your company. That is a stronger claim than the "
+            "usual praise of good friendship, and it is made structurally rather than rhetorically.",
+            "AN 1.112&ndash;113 then classify the pursuit of good and bad habits as interior, which is "
+            "worth noticing: what a person repeatedly does is counted as part of them, not as part of "
+            "their circumstances."]),
+        ("The survival of the teaching (AN 1.114&ndash;129)", [
+            "The second movement changes the question. Instead of asking what makes qualities arise in a "
+            "person, it asks what leads to <em>saddhammassa sammosāya antaradhānāya</em> &mdash; the "
+            "decline and disappearance of the true teaching &mdash; and what leads to its continuation, "
+            "persistence, and endurance. The answers are the same eight pairs.",
+            "This is a genuinely interesting move and it is easy to read past. The Buddha does not "
+            "answer the question about institutional survival with an institutional answer. He does not "
+            "name schism, or persecution, or the loss of texts, or lax discipline. He names negligence, "
+            "laziness, greed, discontent, careless attention, unawareness, bad company, and bad habits "
+            "&mdash; the same personal dispositions as before. A tradition disappears, on this account, "
+            "the same way an individual practice does, and by the same mechanisms, only slower.",
+            "It is worth putting that beside the East Asian literature on the decline of the Dharma, "
+            "which developed the theme into a full historical periodization &mdash; 正法, 像法, 末法, the "
+            "true, semblance, and final ages &mdash; and shaped the whole self-understanding of Chinese "
+            "and Japanese Buddhism, Pure Land practice above all. This chapter is one of the roots of "
+            "that, and it is markedly less cosmological than what grew from it: no ages, no calendar, "
+            "no inevitability. Just eight ordinary failings, doing to a tradition what they do to a "
+            "person."]),
+        ("Ten ways to make the teaching disappear (AN 1.130&ndash;139)", [
+            "The chapter ends on the sharpest material in the Ones. Ten entries, each naming a pair of "
+            "opposite errors: explaining what is not the teaching as the teaching, and what is the "
+            "teaching as not the teaching; what is not in the monastic law as being in it, and the "
+            "reverse; what the Realized One did not say as said, and what he said as not said; what he "
+            "did not practice as practiced, and the reverse; what he did not prescribe as prescribed, "
+            "and the reverse. Those who do this, the text says, act for the harm of the many and "
+            "&ldquo;make the true teaching disappear.&rdquo;",
+            "Two features deserve attention. The first is the symmetry: adding to the teaching and "
+            "subtracting from it are treated as equally destructive, and each of the five pairs runs in "
+            "both directions. Conservatism is not safer than innovation here; misrepresenting the "
+            "tradition as narrower than it is does exactly as much damage as misrepresenting it as "
+            "wider. The second is that the accusation is about representation rather than belief. "
+            "Nobody is condemned for being wrong; they are condemned for telling others that something "
+            "has the Buddha&rsquo;s authority when it does not, or lacks it when it does.",
+            "It should also be said plainly that passages like this one have been used as weapons. "
+            "Every sectarian dispute in Buddhist history has had both sides quoting material of exactly "
+            "this shape at each other, and the passage supplies no test for deciding who is right. What "
+            "it supplies is a standard for how seriously the question should be taken. Read honestly, it "
+            "is at least as uncomfortable for the person invoking it as for their opponent."]),
+    ],
+    "terms": [
+        ("ajjhattika / bāhira",
+         "&ldquo;interior&rdquo; and &ldquo;exterior&rdquo; factors. Fourteen of the chapter&rsquo;s "
+         "sorted items are interior; the entire exterior list is friendship."),
+        ("saddhamma",
+         "&ldquo;the true teaching&rdquo; &mdash; what AN 1.114&ndash;129 ask about the survival of, and "
+         "what the closing ten entries say is made to disappear by misrepresentation."),
+        ("antaradhāna",
+         "&ldquo;disappearance&rdquo; &mdash; the technical term for the vanishing of the Dharma from "
+         "the world, and the seed of the East Asian periodization into true, semblance, and final ages."),
+        ("peyyāla",
+         "the canonical convention of abbreviation, in which a repeated passage is written once with "
+         "the varying terms listed and the rest left to the reciter. Three paragraphs on this page carry "
+         "a range of numbers for this reason."),
+        ("adhamma / dhamma",
+         "&ldquo;not the teaching&rdquo; and &ldquo;the teaching.&rdquo; The first of the five pairs of "
+         "misrepresentation, each of which runs in both directions."),
+    ],
+    "text_intro": (
+        "All forty-two discourses of the chapter, in the form the canon transmits them: some paragraphs "
+        "below carry a range rather than a single number because the text abbreviates repeated passages "
+        "in the canonical manner. &sect;98 is AN 1.98 and &sect;132&ndash;139 covers eight discourses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Interior factors (AN 1.98&ndash;109)"),
+        ("p", "&sect;98", "an1.98"),
+        ("p", "&sect;99", "an1.99"),
+        ("p", "&sect;100", "an1.100"),
+        ("p", "&sect;101", "an1.101"),
+        ("p", "&sect;102&ndash;109", "an1.102-109"),
+        ("h3", "Exterior factors (AN 1.110&ndash;111)"),
+        ("p", "&sect;110", "an1.110"),
+        ("p", "&sect;111", "an1.111"),
+        ("h3", "Habits, counted as interior (AN 1.112&ndash;113)"),
+        ("p", "&sect;112", "an1.112"),
+        ("p", "&sect;113", "an1.113"),
+        ("h3", "What makes the teaching last or vanish (AN 1.114&ndash;129)"),
+        ("p", "&sect;114", "an1.114"),
+        ("p", "&sect;115", "an1.115"),
+        ("p", "&sect;116", "an1.116"),
+        ("p", "&sect;117", "an1.117"),
+        ("p", "&sect;118&ndash;128", "an1.118-128"),
+        ("p", "&sect;129", "an1.129"),
+        ("h3", "Misrepresenting the teaching (AN 1.130&ndash;139)"),
+        ("p", "&sect;130", "an1.130"),
+        ("p", "&sect;131", "an1.131"),
+        ("p", "&sect;132&ndash;139", "an1.132-139"),
+    ],
+    "quiz": [
+        {"q": "Why do some paragraphs on this page carry a range of numbers rather than a single one?",
+         "opts": [
+             "Because the discourses were combined by modern editors",
+             "Because the Pāli canon uses <em>peyyāla</em>, writing a repeated passage once with the varying terms listed and leaving the rest to the reciter",
+             "Because parts of the text have been lost",
+             "Because the numbering system changed partway through"],
+         "correct": 1,
+         "expl": "Every word is present; what is compressed is the repetition between discourses."},
+        {"q": "How does the chapter sort the familiar list of factors?",
+         "opts": [
+             "Into monastic and lay",
+             "Into easy and difficult",
+             "Into interior (<em>ajjhattika</em>) and exterior (<em>bāhira</em>) factors",
+             "Into ancient and recent"],
+         "correct": 2,
+         "expl": "And the proportions are the point."},
+        {"q": "What is the entire exterior list?",
+         "opts": [
+             "Bad friends and good friends &mdash; nothing else",
+             "Climate, food, and lodging",
+             "Wealth, reputation, and family",
+             "Teachers, texts, and monasteries"],
+         "correct": 0,
+         "expl": "Of everything in the world that is not you, the only decisive variable named is your company."},
+        {"q": "How does the chapter classify the pursuit of good and bad habits?",
+         "opts": [
+             "As exterior &mdash; a matter of circumstance",
+             "As neither interior nor exterior",
+             "As interior &mdash; what a person repeatedly does is counted as part of them, not their circumstances",
+             "As applying only to monastics"],
+         "correct": 2,
+         "expl": "A small classificatory decision with a large implication."},
+        {"q": "What question do AN 1.114&ndash;129 ask?",
+         "opts": [
+             "How long the Buddha will live",
+             "What leads to the decline and disappearance of the true teaching, and what leads to its continuation and endurance",
+             "Which monastery should house the texts",
+             "Who may ordain new monastics"],
+         "correct": 1,
+         "expl": "The question shifts from the individual to the tradition."},
+        {"q": "What is notable about the answer given to that question?",
+         "opts": [
+             "It names schism, persecution, and the loss of texts",
+             "It refuses to answer",
+             "It names the same eight personal dispositions as before &mdash; a tradition disappears the way an individual practice does, only slower",
+             "It names the failure of royal patronage"],
+         "correct": 2,
+         "expl": "The Buddha does not answer a question about institutional survival with an institutional answer."},
+        {"q": "How does the reading guide relate this to the East Asian literature on the decline of the Dharma?",
+         "opts": [
+             "As unconnected",
+             "As one of its roots &mdash; but markedly less cosmological than what grew from it: no ages, no calendar, no inevitability, just eight ordinary failings",
+             "As a later interpolation borrowed from Chinese sources",
+             "As a refutation of it"],
+         "correct": 1,
+         "expl": "正法, 像法, 末法 developed the theme into a full historical periodization this chapter does not contain."},
+        {"q": "What is the symmetry in the ten closing entries?",
+         "opts": [
+             "Adding to the teaching and subtracting from it are treated as equally destructive; each of the five pairs runs in both directions",
+             "Only additions to the teaching are condemned",
+             "Only omissions from the teaching are condemned",
+             "Monastics are condemned but laypeople excused"],
+         "correct": 0,
+         "expl": "Misrepresenting the tradition as narrower does exactly as much damage as misrepresenting it as wider."},
+        {"q": "What exactly is the accusation in AN 1.130&ndash;139 about?",
+         "opts": [
+             "Holding a mistaken private belief",
+             "Failing to memorize the texts",
+             "Representation &mdash; telling others that something has the Buddha&rsquo;s authority when it does not, or lacks it when it does",
+             "Ordaining without permission"],
+         "correct": 2,
+         "expl": "Nobody is condemned here for being wrong; they are condemned for what they tell others."},
+        {"q": "What does the reading guide say about how passages like these have been used?",
+         "opts": [
+             "That they have never been controversial",
+             "That they settle sectarian disputes decisively",
+             "That every sectarian dispute has had both sides quoting material of this shape at each other, that the passage supplies no test for who is right, and that read honestly it is at least as uncomfortable for the person invoking it as for their opponent",
+             "That they apply only to non-Buddhists"],
+         "correct": 2,
+         "expl": "What the passage supplies is a standard for seriousness, not a weapon."},
+    ],
+    "marginalia": [
+        ("Three movements", [
+            "98&ndash;113 &middot; interior and exterior",
+            "114&ndash;129 &middot; will the teaching last",
+            "130&ndash;139 &middot; misrepresenting it",
+        ]),
+        ("The proportion", [
+            "<span class=\"pali\">ajjhattika</span>fourteen items",
+            "<span class=\"pali\">bāhira</span>one item: your company",
+        ]),
+        ("Five pairs of error", [
+            "not-teaching as teaching",
+            "not in the law as in it",
+            "unsaid as said",
+            "unpracticed as practiced",
+            "unprescribed as prescribed",
+            "&mdash; and each in reverse",
+        ]),
+        ("Cross-references", [
+            "AN 1.82&ndash;97 &middot; the same list, personal",
+            "AN 3.65 &middot; testing a claim yourself",
+            "末法 &middot; the East Asian development",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.98-139/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, and with the abbreviated "
+        "passages shown in their canonical form." % SC,
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the other half '
+        "of the problem AN 1.130&ndash;139 raises: if misrepresentation is this serious, how is an "
+        "ordinary listener supposed to tell?",
+        '<a href="an-1.82-97.html">AN 1.82&ndash;97 &middot; Negligence</a> &mdash; previous in this '
+        "series, where the same eight pairs are given as a personal checklist before being applied to "
+        "the tradition.",
+        '<a href="/sutras/nanshan-lu/index.html">Nanshan Vinaya for Laypeople</a> &mdash; a Chinese '
+        "tradition working out, in enormous detail, exactly what was and was not prescribed by the "
+        "Realized One, which is the question AN 1.132&ndash;139 makes urgent.",
     ],
 })

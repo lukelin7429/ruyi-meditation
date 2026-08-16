@@ -63,11 +63,16 @@ def load_source(rel):
         return json.load(fh)
 
 
+NUMBER_ONLY = re.compile(r"^\d+\s*[-–]?\s*\d*$")
+
+
 def is_structural(key, value):
-    """Titles (:0.x) and the bare sutta number (:1.0) inside grouped files are
-    navigation furniture, not discourse text. The segno carries the number."""
+    """Titles (:0.x) and the bare sutta number or number range (:1.0) inside
+    grouped files are navigation furniture, not discourse text. The segno
+    carries the number."""
     sub = key.split(":")[1]
-    return sub.startswith("0.") or (sub == "1.0" and value.strip().isdigit())
+    return sub.startswith("0.") or (sub == "1.0"
+                                    and NUMBER_ONLY.match(value.strip()))
 
 
 def segments(src, spec):
