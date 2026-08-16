@@ -9276,3 +9276,1167 @@ page(
         "to compel it.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.41–3.50 — Cūḷavagga
+# --------------------------------------------------------------------------- #
+VAGGA_5 = "<em>Cūḷavagga</em> &mdash; the fifth chapter of the Threes"
+
+page(
+    41, "Sammukhībhāva", "Present",
+    vagga=VAGGA_5,
+    meta_title="AN 3.41 — Present | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sammukhībhāvasutta — the "
+        "three things that must all be present before an act of giving produces much merit. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A single statement, a list of three, and the statement repeated"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The analysis of giving into donor, gift, and recipient is preserved "
+                              "across the Chinese Āgamas and became standard in the Mahāyāna "
+                              "treatises as 三輪; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; six lines, and nothing hidden in "
+                       "them"),
+    ],
+    why=(
+        "The Lesser Chapter opens with one of the shortest discourses in the collection. Three things "
+        "have to be present together before a faithful person <em>brims with much merit</em>: faith, "
+        "something to give, and somebody worth giving it to. The interest is not in any of the three "
+        "but in the requirement that all three be there at once &mdash; which turns generosity from "
+        "a state of mind into an event that has conditions."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Merit is not made by good intentions alone; it needs something to give and somebody to "
+            "receive it, and all three have to be there at the same time."]),
+        ("<em>Sammukhībhāva</em>", [
+            "The title word means being face to face, being present, standing in front of one "
+            "another. It is not the ordinary word for existing; it is the word for being at hand at "
+            "the moment something happens.",
+            "That is why the discourse is worth its six lines. It does not say faith is good, gifts "
+            "are good, and recipients are good. It says the merit belongs to the situation in which "
+            "the three coincide. Take any one away and the sentence fails.",
+            "The construction is the Pāli canon&rsquo;s ordinary way of stating a set of necessary "
+            "conditions, and it is the same move the Threes make constantly: three things, none "
+            "sufficient, all required."]),
+        ("The three", [
+            "<em>Saddhā</em>, faith or confidence, is on the giver&rsquo;s side. In this collection "
+            "it means something closer to trust than to belief &mdash; the working confidence that "
+            "makes a person act before they have proof. AN 3.42, the next discourse, is entirely "
+            "about how to tell whether somebody has it.",
+            "<em>Deyyadhamma</em>, &ldquo;a gift to give,&rdquo; is the material fact. Something has "
+            "to exist and be yours to hand over. This is where the discourse can sting, and it is "
+            "better to face the sting than to soften it: as stated, a person with nothing does not "
+            "meet the condition.",
+            "<em>Dakkhiṇeyya</em>, &ldquo;those worthy of a religious donation,&rdquo; is on the "
+            "receiving side, and it is the same family of words as the <em>āhuneyya</em> that AN 3.31 "
+            "applied to parents. There must be a recipient whose receiving means something."]),
+        ("The obvious objection", [
+            "If merit requires a gift, the poor are worse placed than the rich, and a religion that "
+            "said so plainly would deserve the criticism it got.",
+            "Two things are worth putting beside this discourse before anyone draws that conclusion. "
+            "The first is that the canon repeatedly measures giving against what the giver has rather "
+            "than against what the recipient gets; giving a little from little is treated as the "
+            "harder and better act, not the smaller one.",
+            "The second is in this very chapter. AN 3.57, fifteen discourses further on, has the "
+            "Buddha telling a wanderer that even throwing out dishwater into a pool or a puddle with "
+            "the thought <em>may the creatures here live off this</em> is a source of merit &mdash; "
+            "and he says it while insisting that giving to the virtuous is more fruitful. So the "
+            "threshold for &ldquo;a gift to give&rdquo; is set at dishwater.",
+            "Read with that, AN 3.41 is not a wealth requirement. It is a statement that generosity "
+            "is a transaction rather than a sentiment: it has to leave your hands and arrive "
+            "somewhere."]),
+        ("Where this goes in the later tradition", [
+            "The three-part analysis &mdash; giver, gift, recipient &mdash; became one of the most "
+            "worked-over structures in Buddhist thought. The Mahāyāna treatises call it the three "
+            "wheels, 三輪, and the standard instruction is that a perfected act of giving is "
+            "三輪體空: giver, gift, and recipient all seen as empty of own-being.",
+            "It is worth showing a class the distance between the two statements, because the "
+            "relationship is not opposition but load-bearing. The Pāli discourse establishes that "
+            "giving has three parts; the Mahāyāna instruction then applies emptiness to each part in "
+            "turn. You cannot empty a structure you have not first identified, and this six-line "
+            "discourse is where the structure gets identified."]),
+        ("Using it", [
+            "This is a good discourse for a first lesson on generosity precisely because it is so "
+            "small. Give a class the three conditions and ask which one their own practice usually "
+            "lacks. The answers are informative: most people find they have the first and the third "
+            "and are vague about the second, which is a polite way of saying they intend to give and "
+            "do not.",
+            "It also gives a teacher a way to talk about receiving. Half of this discourse is about "
+            "whether there is anyone worth giving to, and a community that has nobody in that "
+            "position has lost something the discourse treats as a condition rather than an "
+            "ornament."]),
+    ],
+    terms=[
+        ("sammukhībhāva",
+         "&ldquo;being present, being face to face&rdquo; &mdash; not merely existing but being at "
+         "hand at the moment something happens. The whole point of the discourse is the coincidence "
+         "of three things."),
+        ("saddhā",
+         "&ldquo;faith, confidence&rdquo; &mdash; closer to trust than to belief: the working "
+         "confidence that lets a person act before they have proof."),
+        ("deyyadhamma",
+         "&ldquo;a gift to give&rdquo; &mdash; the material fact. Something has to exist and be yours "
+         "to hand over; AN 3.57 sets the threshold at dishwater."),
+        ("dakkhiṇeyya",
+         "&ldquo;worthy of a religious donation&rdquo; &mdash; the receiving side, from the same "
+         "family as the <em>āhuneyya</em> that AN 3.31 applies to parents."),
+        ("puññaṁ pasavati",
+         "&ldquo;brims with merit, generates merit&rdquo; &mdash; the standard idiom, with the sense "
+         "of something welling up rather than being accumulated in a ledger."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.41:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What three things must be present?",
+         "opts": [
+             "Faith, a gift to give, and those worthy of a religious donation",
+             "Faith, ethics, and wisdom",
+             "Giving, going forth, and caring for parents",
+             "Body, speech, and mind"],
+         "correct": 0,
+         "expl": "One on the giver&rsquo;s side, one material, one on the receiving side."},
+        {"q": "What does <em>sammukhībhāva</em> mean?",
+         "opts": [
+             "&ldquo;Abundance&rdquo;",
+             "&ldquo;Being present, face to face&rdquo; &mdash; being at hand at the moment something happens, not merely existing",
+             "&ldquo;Merit&rdquo;",
+             "&ldquo;Generosity&rdquo;"],
+         "correct": 1,
+         "expl": "The merit belongs to the situation in which the three coincide."},
+        {"q": "Why does the guide say the discourse is worth its six lines?",
+         "opts": [
+             "Because it praises each of the three",
+             "Because it states a set of necessary conditions &mdash; take any one away and the sentence fails",
+             "Because it is spoken to a king",
+             "Because it contains a simile"],
+         "correct": 1,
+         "expl": "Three things, none sufficient, all required &mdash; the move the Threes make constantly."},
+        {"q": "How does this collection generally use the word <em>saddhā</em>?",
+         "opts": [
+             "As assent to doctrinal propositions",
+             "As closer to trust than to belief &mdash; the working confidence that lets a person act before they have proof",
+             "As ritual observance",
+             "As devotion to a teacher"],
+         "correct": 1,
+         "expl": "AN 3.42, the next discourse, is entirely about how to tell whether somebody has it."},
+        {"q": "What is the obvious objection to the second condition?",
+         "opts": [
+             "That gifts are unnecessary",
+             "That it makes the poor worse placed than the rich",
+             "That recipients cannot be judged",
+             "That faith cannot be measured"],
+         "correct": 1,
+         "expl": "A religion that said so plainly would deserve the criticism it got."},
+        {"q": "What does AN 3.57 contribute to that objection?",
+         "opts": [
+             "It says only monastics may receive gifts",
+             "It says the poor should not give",
+             "It has the Buddha say that even throwing dishwater into a pool with the thought &ldquo;may the creatures here live off this&rdquo; is a source of merit",
+             "It says merit is a fiction"],
+         "correct": 2,
+         "expl": "So the threshold for &ldquo;a gift to give&rdquo; is set at dishwater."},
+        {"q": "What does the guide conclude the discourse is actually asserting?",
+         "opts": [
+             "A wealth requirement",
+             "That generosity is a transaction rather than a sentiment &mdash; it has to leave your hands and arrive somewhere",
+             "That intention is all that matters",
+             "That recipients must be monastics"],
+         "correct": 1,
+         "expl": "Which is why all three conditions have to hold at once."},
+        {"q": "What did this three-part analysis become in the Mahāyāna treatises?",
+         "opts": [
+             "The three refuges",
+             "The three trainings",
+             "The three wheels, 三輪, with the instruction that perfected giving is 三輪體空 &mdash; giver, gift, and recipient all seen as empty",
+             "The three poisons"],
+         "correct": 2,
+         "expl": "The relationship is not opposition but load-bearing."},
+        {"q": "How does the guide describe that relationship?",
+         "opts": [
+             "As a contradiction the tradition never resolved",
+             "As unrelated developments",
+             "As load-bearing &mdash; you cannot empty a structure you have not first identified, and this discourse is where it gets identified",
+             "As a later misreading"],
+         "correct": 2,
+         "expl": "The Pāli discourse establishes the parts; the Mahāyāna instruction applies emptiness to each."},
+        {"q": "What does the guide say a class usually discovers about its own practice?",
+         "opts": [
+             "That the first condition is missing",
+             "That they have faith and know worthy recipients, and are vague about the second &mdash; a polite way of saying they intend to give and do not",
+             "That the third condition is impossible",
+             "That merit is unimportant"],
+         "correct": 1,
+         "expl": "The smallness of the discourse is what makes it a good first lesson."},
+    ],
+    marginalia=[
+        ("Three, at once", [
+            "<span class=\"pali\">saddhā</span>faith",
+            "<span class=\"pali\">deyyadhamma</span>a gift to give",
+            "<span class=\"pali\">dakkhiṇeyya</span>a worthy recipient",
+        ]),
+        ("The title word", [
+            "<span class=\"pali\">sammukhībhāva</span>",
+            "face to face, at hand",
+            "&mdash; coincidence, not existence",
+        ]),
+        ("The threshold", [
+            "AN 3.57 &middot; dishwater",
+            "&ldquo;may the creatures here live off this&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.42 &middot; how faith is recognized",
+            "AN 3.31 &middot; parents as worthy of offerings",
+            "三輪體空 &middot; the later analysis",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.41/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.42.html">AN 3.42 &middot; Three Grounds</a> &mdash; the next discourse, on '
+        "the three signs by which the faith named as the first condition here can actually be "
+        "recognized in somebody.",
+        '<a href="an-3.31.html">AN 3.31 &middot; With Divinity</a> &mdash; where the vocabulary of '
+        "worthy recipients is applied, startlingly, to a person&rsquo;s own parents.",
+        '<a href="/sutras/upasaka-precepts-sutra/chapter-19/">Sutra on Upasaka Precepts &middot; '
+        "Chapter 19</a> &mdash; a Chinese Mahāyāna treatment of lay giving at length, useful for "
+        "seeing what a later tradition builds on the three conditions this discourse states in one "
+        "sentence.",
+    ],
+)
+
+
+page(
+    42, "Tiṭhāna", "Three Grounds",
+    vagga=VAGGA_5,
+    meta_title="AN 3.42 — Three Grounds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Tiṭhānasutta — the three "
+        "observable signs by which a person of faith can be known, and the fact that none of them "
+        "is a belief. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A statement, three grounds, the statement repeated, and one closing verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable lists of the marks of a lay follower&rsquo;s faith appear "
+                              "in the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; plain, and more radical than it "
+                       "looks"),
+    ],
+    why=(
+        "How do you tell whether someone has faith? The discourse gives three grounds and not one of "
+        "them is something a person says, believes, or affirms. They like the company of ethical "
+        "people, they like hearing the teaching, and they live at home without stinginess. Faith, on "
+        "this account, is diagnosed the way a doctor diagnoses: by looking at what the patient does."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Faith shows up as three preferences and one habit, all of them visible from outside."]),
+        ("Three grounds, none of them a belief", [
+            "<em>Ṭhāna</em> is a place, a ground, a basis &mdash; here, a basis on which a judgment "
+            "can be made. The discourse promises that a person <em>with faith and confidence can be "
+            "known</em>, and then delivers three observable facts.",
+            "They like to see ethical people. They like to hear the true teaching. They live at home "
+            "<em>rid of the stain of stinginess, freely generous, open-handed, loving to let go, "
+            "committed to charity, loving to give and to share</em> &mdash; six phrases for the third "
+            "ground, against a handful of words for the other two.",
+            "What is absent is worth naming to a class before anything else. There is no creed here. "
+            "Nobody is asked what they think about rebirth, about the Buddha&rsquo;s awakening, or "
+            "about the status of the teaching. A person could recite every doctrinal formula "
+            "correctly and fail all three tests, and a person who could not explain a single point of "
+            "doctrine could pass all three."]),
+        ("The first two are about appetite", [
+            "Both of the first two grounds are stated as liking, not as doing. It is not <em>they "
+            "visit ethical people</em> but <em>they like to see</em> them; not <em>they attend "
+            "teachings</em> but <em>they like to hear</em> the true teaching.",
+            "That is a sharper test than the behavioral one and harder to fake. Attendance can be "
+            "produced by duty, habit, or social pressure. Wanting to be there cannot, and it is "
+            "something a person can check about themselves in a few seconds.",
+            "It also tells you what this tradition thinks faith is. Not certainty about propositions, "
+            "and not obedience, but a settled attraction &mdash; the state of finding a certain kind "
+            "of person and a certain kind of conversation genuinely appealing. On that account faith "
+            "is closer to taste than to opinion, and it is worth telling students that this is not a "
+            "modern softening but what the third ground&rsquo;s six phrases are also describing."]),
+        ("The stain of stinginess", [
+            "<em>Macchera</em>, stinginess or meanness, is treated in the canon as a stain or "
+            "blemish, and it is the only one of the three grounds stated in the negative and then "
+            "expanded positively at length.",
+            "The expansion is precise about where the test applies: <em>they live at home</em>. Not "
+            "in a monastery, not on retreat, not when a collection plate is going around, but in the "
+            "ordinary running of a household, where nobody is watching and the small decisions get "
+            "made.",
+            "And the six phrases are not synonyms padded for rhythm. <em>Muttacāga</em>, loving to "
+            "let go, is about the hand opening. <em>Payatapāṇi</em>, open-handed, is a posture. "
+            "<em>Dānasaṁvibhāgarata</em>, delighting in giving and sharing, adds distribution to "
+            "donation &mdash; sharing among equals rather than only giving downward. Together they "
+            "describe a temperament rather than a series of acts."]),
+        ("Why the third ground is the one that closes the verse", [
+            "The verse restates the three and then names the result: <em>that&rsquo;s who&rsquo;s "
+            "called an individual of faith</em>. The order is unchanged and the third is again given "
+            "the emphatic position &mdash; <em>they&rsquo;ve driven out the stain of stinginess</em>.",
+            "There is a plain reason for the weighting. The first two grounds cost nothing. Liking "
+            "good company and good teaching is agreeable, and a person can have both while remaining "
+            "exactly as tight-fisted as they were. The third is the one that shows up in the "
+            "accounts.",
+            "This is also why AN 3.41 and AN 3.42 sit next to each other. The first says merit needs "
+            "an actual gift; the second says faith is recognized by whether a household actually "
+            "gives. Neither discourse is interested in what anyone reports about their own inner "
+            "state."]),
+        ("Using it", [
+            "The discourse is short enough to use as an exercise. Read it, then ask a class how they "
+            "would tell whether a person is religious, and compare their list with these three. Most "
+            "lists that get produced are made of professions and observances; this one is made of "
+            "appetites and expenditure.",
+            "For a teacher there is a second use. Applied to a classroom rather than a household, the "
+            "same three grounds ask whether students want to be around people who do the thing well, "
+            "want to hear it explained, and are willing to give something away &mdash; time, credit, "
+            "or help. The structure transfers cleanly, and it is a better diagnostic than enthusiasm."]),
+    ],
+    terms=[
+        ("ṭhāna",
+         "&ldquo;ground, basis, place&rdquo; &mdash; here a basis on which a judgment about someone "
+         "can be made. The discourse promises the person can be <em>known</em>, and delivers "
+         "observable facts."),
+        ("macchera",
+         "&ldquo;stinginess&rdquo; &mdash; treated in the canon as a stain, <em>mala</em>. The only "
+         "one of the three grounds stated in the negative and then expanded at length."),
+        ("muttacāga",
+         "&ldquo;loving to let go&rdquo; &mdash; literally with released giving. One of six phrases "
+         "the discourse spends on the third ground alone."),
+        ("payatapāṇi",
+         "&ldquo;open-handed&rdquo; &mdash; a posture rather than an act: the hand held out ready "
+         "rather than the gift already made."),
+        ("dānasaṁvibhāgarata",
+         "&ldquo;delighting in giving and sharing&rdquo; &mdash; <em>saṁvibhāga</em> adds "
+         "distribution among equals to <em>dāna</em>, donation."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three grounds"),
+        ("p", "&sect;1", "an3.42:1.1-1.4"),
+        ("h3", "In verse"),
+        ("p", "&sect;2", "an3.42:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What are the three grounds?",
+         "opts": [
+             "Belief in rebirth, in kamma, and in the Buddha",
+             "Liking to see ethical people, liking to hear the true teaching, and living at home rid of the stain of stinginess",
+             "Keeping precepts, meditating, and studying",
+             "Giving, going forth, and caring for parents"],
+         "correct": 1,
+         "expl": "Three observable facts, delivered on the promise that a person of faith can be <em>known</em>."},
+        {"q": "What is conspicuously absent from the list?",
+         "opts": [
+             "Any mention of generosity",
+             "Any creed &mdash; nobody is asked what they think about rebirth, awakening, or the status of the teaching",
+             "Any mention of ethics",
+             "Any mention of the Buddha"],
+         "correct": 1,
+         "expl": "A person could recite every formula correctly and fail all three tests."},
+        {"q": "How are the first two grounds stated?",
+         "opts": [
+             "As actions &mdash; they visit and they attend",
+             "As likings &mdash; they <em>like</em> to see, they <em>like</em> to hear",
+             "As duties",
+             "As vows"],
+         "correct": 1,
+         "expl": "A sharper test than the behavioral one, and harder to fake."},
+        {"q": "Why does the guide call that the harder test?",
+         "opts": [
+             "Because attendance is difficult",
+             "Because attendance can be produced by duty, habit, or social pressure, and wanting to be there cannot",
+             "Because liking is unmeasurable",
+             "Because the teaching is hard to hear"],
+         "correct": 1,
+         "expl": "And it is something a person can check about themselves in a few seconds."},
+        {"q": "What does this suggest faith is, on the canon&rsquo;s account?",
+         "opts": [
+             "Certainty about propositions",
+             "Obedience to a teacher",
+             "A settled attraction &mdash; closer to taste than to opinion",
+             "Ritual correctness"],
+         "correct": 2,
+         "expl": "Not a modern softening but what the grounds themselves describe."},
+        {"q": "Where does the third ground specify that the test applies?",
+         "opts": [
+             "In the monastery",
+             "On retreat",
+             "At home &mdash; in the ordinary running of a household, where the small decisions get made",
+             "In public"],
+         "correct": 2,
+         "expl": "Not when a collection plate is going around."},
+        {"q": "What does <em>saṁvibhāga</em> add to <em>dāna</em>?",
+         "opts": [
+             "Nothing; they are synonyms",
+             "Distribution among equals, alongside donation given downward",
+             "A requirement of quantity",
+             "A ritual formula"],
+         "correct": 1,
+         "expl": "The six phrases describe a temperament rather than a series of acts."},
+        {"q": "Which ground gets the emphatic position in the closing verse?",
+         "opts": [
+             "The first",
+             "The second",
+             "The third &mdash; &ldquo;they&rsquo;ve driven out the stain of stinginess&rdquo;",
+             "None; the order is reversed"],
+         "correct": 2,
+         "expl": "The first two cost nothing; the third shows up in the accounts."},
+        {"q": "Why do AN 3.41 and AN 3.42 sit next to each other?",
+         "opts": [
+             "By accident of alphabetical order",
+             "Because one says merit needs an actual gift and the other says faith is recognized by whether a household actually gives",
+             "Because they share a speaker",
+             "Because both are about monastics"],
+         "correct": 1,
+         "expl": "Neither is interested in what anyone reports about their own inner state."},
+        {"q": "How does the guide suggest transferring the three grounds to a classroom?",
+         "opts": [
+             "By testing enthusiasm",
+             "By asking whether students want to be around people who do the thing well, want to hear it explained, and will give away time, credit, or help",
+             "By measuring attendance",
+             "By checking examination results"],
+         "correct": 1,
+         "expl": "A better diagnostic than enthusiasm."},
+    ],
+    marginalia=[
+        ("Three grounds", [
+            "likes to see ethical people",
+            "likes to hear the teaching",
+            "lives at home without stinginess",
+        ]),
+        ("What is not asked", [
+            "no creed",
+            "no doctrinal test",
+            "no profession of belief",
+        ]),
+        ("Six phrases, one ground", [
+            "<span class=\"pali\">muttacāga</span>loving to let go",
+            "<span class=\"pali\">payatapāṇi</span>open-handed",
+            "<span class=\"pali\">saṁvibhāga</span>sharing, not only giving",
+        ]),
+        ("Cross-references", [
+            "AN 3.41 &middot; the gift as a condition",
+            "AN 3.45 &middot; giving, commended",
+            "AN 2.32&ndash;41 &middot; the good person",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.42/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.41.html">AN 3.41 &middot; Present</a> &mdash; the previous discourse, on the '
+        "three things that must coincide for giving to produce merit. The pair works as one lesson.",
+        '<a href="an-3.45.html">AN 3.45 &middot; Recommended by the Astute</a> &mdash; where giving '
+        "stands first on the short list of what people of good judgment commend, alongside two duties "
+        "that sit awkwardly together.",
+        '<a href="an-2.32-41.html">AN 2.32&ndash;41 &middot; People</a> &mdash; for the Twos&rsquo; '
+        "own way of asking how a good person can be recognized, which is worth setting beside these "
+        "three grounds.",
+    ],
+)
+
+
+page(
+    43, "Atthavasa", "Good Reasons",
+    vagga=VAGGA_5,
+    meta_title="AN 3.43 — Good Reasons | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Atthavasasutta — the "
+        "three considerations that are reason enough to teach, and the fourth case the list "
+        "leaves out. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A statement, three cases, the statement repeated"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on the conditions for teaching appears in the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; six lines, and the interesting "
+                       "part is what is missing"),
+    ],
+    why=(
+        "Three considerations are <em>quite enough motivation to teach Dhamma to another</em>: when "
+        "the teacher understands the meaning and the teaching; when the audience does; when both do. "
+        "That looks at first like a single condition stated three times. It is not. It is a "
+        "deliberate enumeration of the cases in which teaching is worth doing, and the case it omits "
+        "is the reason the list has three members instead of one."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Teaching is worth doing whenever at least one side of the exchange understands what is "
+            "being said."]),
+        ("<em>Attha</em> and <em>dhamma</em>", [
+            "The recurring phrase is &ldquo;understands the meaning and the teaching,&rdquo; "
+            "<em>atthapaṭisaṁvedī dhammapaṭisaṁvedī</em>. The pair runs throughout the canon and the "
+            "distinction is worth having.",
+            "<em>Dhamma</em> here is the teaching as formulated &mdash; the words, the sequence, the "
+            "doctrine as it is stated. <em>Attha</em> is what the words are about: the meaning, the "
+            "point, the thing the formulation is a formulation of. A person can have either without "
+            "the other. Someone who has memorized the four noble truths and cannot say what problem "
+            "they solve has the <em>dhamma</em> and not the <em>attha</em>; someone who has grasped "
+            "the point but garbles the formula has the reverse.",
+            "<em>Atthavasa</em>, the title word, is literally the force or sway of the meaning "
+            "&mdash; hence &ldquo;reason&rdquo; or &ldquo;consideration.&rdquo; The discourse is "
+            "asking what considerations have force enough to make teaching worthwhile."]),
+        ("The three cases, and the fourth", [
+            "Teacher understands. Audience understands. Both understand. Enumerate the possibilities "
+            "and there is obviously a fourth: neither understands. It is not on the list, and its "
+            "absence is the discourse&rsquo;s content.",
+            "So the rule is: if either party understands, teaching is justified. Only when nobody in "
+            "the room has hold of either the meaning or the formulation does the reason disappear.",
+            "That is a low bar, and deliberately so. It licenses teaching where the audience is ahead "
+            "of the teacher, which most institutions find uncomfortable, and it licenses teaching "
+            "where the audience does not yet understand at all, which most modern pedagogy would "
+            "question. What it does not license is a room in which the material is not actually "
+            "present on either side of the exchange."]),
+        ("Why the teacher&rsquo;s understanding is listed first, and alone", [
+            "The first case is a teacher who understands speaking to an audience that does not. That "
+            "is the ordinary situation and needs no defense.",
+            "The second is stranger and more interesting: an audience that understands, with no claim "
+            "made about the teacher. The discourse says this is reason enough. One way to read it is "
+            "as the observation that a good listener can extract the teaching from an imperfect "
+            "presentation &mdash; which any teacher has watched happen, usually with embarrassment.",
+            "The third, both, is the case worth aiming at, and the discourse does not rank it above "
+            "the others. It is simply listed third."]),
+        ("The companion discourse", [
+            "AN 3.44, the next one, contains exactly the same three cases under a different heading: "
+            "not <em>reason enough to teach</em> but <em>the situations in which conversation "
+            "flows</em>. The two discourses are identical except for their first and last sentences.",
+            "That repetition is doing something. Motivation and result are being identified: the "
+            "conditions that make teaching worth attempting are the same conditions under which talk "
+            "actually goes somewhere. If the reason to teach is present, the conversation moves; if "
+            "the conversation is not moving, look for which of the three cases has failed.",
+            "Read as a pair, they also head off a misreading of this one. AN 3.43 alone could sound "
+            "like a rule about when a teacher is permitted to speak. AN 3.44 shows that the same "
+            "three conditions were being described as facts about how discussion behaves."]),
+        ("Using it", [
+            "For working teachers this is a two-minute discourse with an immediate application. "
+            "Before a session, ask which of the three cases you are in. Before abandoning a session "
+            "that is going badly, ask the same question, because the answer distinguishes between a "
+            "hard room and a pointless one.",
+            "It is also a useful corrective to a common anxiety. The list nowhere requires the teacher "
+            "to understand completely, and nowhere requires the audience to be ready. It requires the "
+            "material to be genuinely present somewhere in the room, and it counts an audience that "
+            "already understands as a reason to teach rather than a reason not to."]),
+    ],
+    terms=[
+        ("atthavasa",
+         "&ldquo;the force of the meaning&rdquo; &mdash; hence a reason or consideration. The title "
+         "asks what considerations have force enough to make teaching worthwhile."),
+        ("attha",
+         "&ldquo;meaning, point, purpose&rdquo; &mdash; what the words are about, as distinct from "
+         "the words. A person can have the formula without it."),
+        ("dhamma",
+         "here the teaching as formulated: the words, the sequence, the doctrine as stated. A person "
+         "can have this without the <em>attha</em>."),
+        ("paṭisaṁvedī",
+         "&ldquo;experiencing, feeling, understanding&rdquo; &mdash; the verb the discourse uses of "
+         "both parties, closer to registering something than to knowing about it."),
+        ("dhammaṁ deseti",
+         "&ldquo;teaches Dhamma&rdquo; &mdash; the standard idiom, literally to point out or indicate "
+         "the teaching rather than to transmit it."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.43:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What are the three considerations?",
+         "opts": [
+             "Faith, ethics, and wisdom",
+             "That the teacher understands the meaning and the teaching; that the audience does; that both do",
+             "That the teacher is senior, learned, and virtuous",
+             "That the material is short, clear, and useful"],
+         "correct": 1,
+         "expl": "Three cases, and the fourth is left off the list."},
+        {"q": "What is the fourth case, and why does it matter?",
+         "opts": [
+             "That only the teacher understands; it is redundant",
+             "That neither understands &mdash; its absence is the discourse&rsquo;s content",
+             "That a third party understands; it is impossible",
+             "There is no fourth case"],
+         "correct": 1,
+         "expl": "If either party understands, teaching is justified."},
+        {"q": "How does the guide distinguish <em>attha</em> from <em>dhamma</em>?",
+         "opts": [
+             "<em>Dhamma</em> is the teaching as formulated; <em>attha</em> is what the words are about",
+             "<em>Attha</em> is the Pāli and <em>dhamma</em> the Sanskrit",
+             "<em>Attha</em> means benefit and <em>dhamma</em> means duty",
+             "They are synonyms"],
+         "correct": 0,
+         "expl": "Someone who has memorized a formula but cannot say what problem it solves has one without the other."},
+        {"q": "What does <em>atthavasa</em> literally mean?",
+         "opts": [
+             "&ldquo;Right speech&rdquo;",
+             "&ldquo;The force or sway of the meaning&rdquo; &mdash; hence a reason or consideration",
+             "&ldquo;Good fortune&rdquo;",
+             "&ldquo;Three grounds&rdquo;"],
+         "correct": 1,
+         "expl": "The question is which considerations have force enough to make teaching worthwhile."},
+        {"q": "What does the second case license?",
+         "opts": [
+             "Teaching where the audience is ahead of the teacher",
+             "Teaching only by the qualified",
+             "Silence",
+             "Teaching only to monastics"],
+         "correct": 0,
+         "expl": "Which most institutions find uncomfortable."},
+        {"q": "How does the guide read that second case?",
+         "opts": [
+             "As an error in the text",
+             "As the observation that a good listener can extract the teaching from an imperfect presentation",
+             "As applying only to the Buddha",
+             "As a rule about seniority"],
+         "correct": 1,
+         "expl": "Which any teacher has watched happen, usually with embarrassment."},
+        {"q": "Does the discourse rank the third case above the others?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; it is simply listed third",
+             "Yes, by placing it first",
+             "It rejects the third case"],
+         "correct": 1,
+         "expl": "The case worth aiming at, and not marked as such."},
+        {"q": "How does AN 3.44 differ from this discourse?",
+         "opts": [
+             "It gives four cases",
+             "It gives the same three cases under a different heading &mdash; the situations in which conversation flows",
+             "It contradicts them",
+             "It is addressed to laypeople"],
+         "correct": 1,
+         "expl": "The two are identical except for their first and last sentences."},
+        {"q": "What does the pairing accomplish?",
+         "opts": [
+             "It identifies motivation with result &mdash; the conditions that make teaching worth attempting are the conditions under which talk actually goes somewhere",
+             "It corrects an error in AN 3.43",
+             "It restricts teaching to monastics",
+             "Nothing; it is a scribal duplicate"],
+         "correct": 0,
+         "expl": "If the conversation is not moving, look for which of the three cases has failed."},
+        {"q": "What common anxiety does the guide say the list corrects?",
+         "opts": [
+             "That teaching requires ordination",
+             "That the teacher must understand completely and the audience must be ready &mdash; neither is required; what is required is that the material be genuinely present somewhere in the room",
+             "That teaching must be brief",
+             "That teaching must be free"],
+         "correct": 1,
+         "expl": "And an audience that already understands counts as a reason to teach rather than a reason not to."},
+    ],
+    marginalia=[
+        ("Three cases", [
+            "teacher understands",
+            "audience understands",
+            "both understand",
+        ]),
+        ("The one omitted", [
+            "neither understands",
+            "&mdash; and there the reason disappears",
+        ]),
+        ("Two words", [
+            "<span class=\"pali\">dhamma</span>the formulation",
+            "<span class=\"pali\">attha</span>what it is about",
+        ]),
+        ("Cross-references", [
+            "AN 3.44 &middot; the same three, as result",
+            "AN 3.30 &middot; three kinds of listener",
+            "AN 3.33 &middot; &ldquo;hard to find anyone who understands&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.43/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.44.html">AN 3.44 &middot; When Conversation Flows</a> &mdash; the same three '
+        "cases restated as a fact about discussion rather than a reason for teaching. The two must be "
+        "read together.",
+        '<a href="an-3.30.html">AN 3.30 &middot; Upside-down</a> &mdash; the Threes&rsquo; fullest '
+        "discourse on listening, and the necessary complement: this one asks whether the material is "
+        "present in the room, that one asks whether the listener is still holding it an hour later.",
+        '<a href="an-3.33.html">AN 3.33 &middot; With Sāriputta</a> &mdash; where the Buddha says it '
+        "is hard to find anyone who understands, and a student answers that there will be those who "
+        "do.",
+    ],
+)
+
+
+page(
+    44, "Kathāpavatti", "When Conversation Flows",
+    vagga=VAGGA_5,
+    meta_title="AN 3.44 — When Conversation Flows | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kathāpavattisutta — the "
+        "three situations in which talk actually moves, stated in the same words as the reasons "
+        "for teaching. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A statement, three situations, the statement repeated &mdash; identical to AN 3.43 "
+                 "except at each end"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on the conditions of profitable discussion appears "
+                              "in the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the shortest discourse in the "
+                       "chapter and the one that most rewards being read against its neighbor"),
+    ],
+    why=(
+        "The same three cases as AN 3.43, with the frame changed. There it was <em>quite enough "
+        "motivation to teach</em>; here it is <em>conversation flows</em>. Everything between the "
+        "first and last sentences is word for word the same. When the canon does this it is not "
+        "padding a chapter, and the question worth asking is what changes when a reason becomes a "
+        "description."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Talk goes somewhere exactly when at least one person in the room has hold of what is "
+            "being discussed."]),
+        ("<em>Kathā pavattinī</em>", [
+            "<em>Kathā</em> is talk, discussion, a discourse in the ordinary sense &mdash; the same "
+            "word behind the 話 of a Chinese conversation and the name of the Abhidhamma&rsquo;s "
+            "<em>Kathāvatthu</em>, its book of disputed points. <em>Pavattinī</em> is from the verb "
+            "for rolling on, proceeding, keeping going.",
+            "So the image is of talk that rolls rather than stalls. Sujato&rsquo;s &ldquo;flows&rdquo; "
+            "catches it. The discourse is not describing pleasant conversation or agreement; it is "
+            "describing a discussion that has momentum, one that gets somewhere by continuing.",
+            "That is a recognizable thing, and the discourse asserts that it has exactly three "
+            "conditions, all of them about comprehension and none of them about rapport, seniority, "
+            "or good will."]),
+        ("What changes when a reason becomes a description", [
+            "AN 3.43 gave these three as considerations that justify teaching &mdash; a prospective "
+            "judgment, made before you speak. AN 3.44 gives them as the circumstances in which "
+            "conversation in fact proceeds &mdash; a retrospective observation, available after.",
+            "Putting them together produces a diagnostic that neither discourse states on its own. If "
+            "you had a good reason to teach and the conversation is not moving, one of the three "
+            "conditions you thought was present is not. The reason and the result are made of the "
+            "same material, so a failure in one is evidence about the other.",
+            "It also removes an excuse. A stalled discussion is not explained by the audience being "
+            "unwilling, or the hour being late, or the subject being difficult; on this account it is "
+            "explained by nobody in the room having hold of the meaning or the formulation. That is "
+            "an unforgiving diagnosis and it is meant to be usable rather than comfortable."]),
+        ("Why comprehension and not agreement", [
+            "Note what is absent from the three conditions. Nothing about the parties liking each "
+            "other, sharing assumptions, or reaching the same conclusion. The canon has plenty to say "
+            "elsewhere about how to argue &mdash; AN 2.42&ndash;51 on assemblies, and the discourses "
+            "on how a question should be answered &mdash; and none of it is imported here.",
+            "The claim is narrower and stronger: the fuel of a discussion is comprehension, and if "
+            "either side has it the talk continues. Two people who understand and disagree will keep "
+            "going; two people who agree and understand nothing will stop.",
+            "Anyone who teaches has seen both cases. The second is the more dangerous, because "
+            "agreement disguises it."]),
+        ("A note on duplicate discourses", [
+            "Readers new to the Aṅguttara find these near-identical pairs suspicious, and it is worth "
+            "explaining the practice rather than apologizing for it. The collection is organized "
+            "numerically for recitation, and a set of three that fits two frames gets recorded under "
+            "both, because the point of the arrangement is retrieval.",
+            "That is not the same as saying the pairs are redundant. AN 3.37 and AN 3.38, earlier in "
+            "this collection, differ by one clause and the difference is the whole lesson. Here the "
+            "difference is at both ends and the middle is untouched, which is a different pattern "
+            "again: not one variable changed but the entire frame swapped around a fixed core.",
+            "A class can be shown the three patterns quickly &mdash; identical core with a changed "
+            "reason, identical core with a changed frame, and genuine repetition &mdash; and after "
+            "that the Aṅguttara stops looking careless."]),
+        ("Using it", [
+            "The practical form is a single question to ask when a session dies: which of the three "
+            "was I relying on? If the answer is that you assumed the second case &mdash; that the "
+            "audience understood &mdash; the fix is not more energy but a check.",
+            "It is also a good discourse for a class that has begun to notice how repetitive the "
+            "Aṅguttara is. Reading AN 3.43 and AN 3.44 back to back takes ninety seconds and teaches "
+            "the reader how to read the whole collection: look at the ends, because the middle is "
+            "often deliberately unchanged."]),
+    ],
+    terms=[
+        ("kathā",
+         "&ldquo;talk, discussion&rdquo; &mdash; the ordinary word, and the one behind the "
+         "Abhidhamma&rsquo;s <em>Kathāvatthu</em>, its book of disputed points."),
+        ("pavattinī",
+         "&ldquo;proceeding, rolling on&rdquo; &mdash; from the verb for keeping going. The image is "
+         "of talk with momentum rather than talk that is pleasant."),
+        ("atthapaṭisaṁvedī",
+         "&ldquo;understanding the meaning&rdquo; &mdash; the first half of the repeated phrase, "
+         "about the point rather than the formulation."),
+        ("dhammapaṭisaṁvedī",
+         "&ldquo;understanding the teaching&rdquo; &mdash; the second half, about the formulation as "
+         "given."),
+        ("peyyāla",
+         "the canon&rsquo;s convention of abbreviation and repetition, which produces near-identical "
+         "discourses like this one and AN 3.43. An artifact of an oral collection organized for "
+         "retrieval."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.44:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from AN 3.43?",
+         "opts": [
+             "It gives different cases",
+             "Only in its first and last sentences &mdash; the frame is &ldquo;conversation flows&rdquo; rather than &ldquo;motivation to teach&rdquo;",
+             "It is addressed to a layperson",
+             "It adds a fourth case"],
+         "correct": 1,
+         "expl": "Everything between the ends is word for word the same."},
+        {"q": "What does <em>pavattinī</em> convey?",
+         "opts": [
+             "Pleasantness",
+             "Agreement",
+             "Proceeding, rolling on &mdash; talk with momentum",
+             "Formality"],
+         "correct": 2,
+         "expl": "The discourse describes a discussion that gets somewhere by continuing."},
+        {"q": "What is the diagnostic the two discourses produce together?",
+         "opts": [
+             "That teaching should be brief",
+             "That if you had a reason to teach and the conversation is not moving, one of the three conditions you thought was present is not",
+             "That audiences should be tested first",
+             "That agreement is required"],
+         "correct": 1,
+         "expl": "The reason and the result are made of the same material."},
+        {"q": "What excuse does that remove?",
+         "opts": [
+             "That the audience is unwilling, the hour late, or the subject difficult",
+             "That the teacher is inexperienced",
+             "That the room is too small",
+             "That the text is obscure"],
+         "correct": 0,
+         "expl": "An unforgiving diagnosis, meant to be usable rather than comfortable."},
+        {"q": "What is absent from the three conditions?",
+         "opts": [
+             "Any mention of understanding",
+             "Anything about liking each other, sharing assumptions, or reaching the same conclusion",
+             "Anything about the teacher",
+             "Anything about the audience"],
+         "correct": 1,
+         "expl": "The canon has plenty to say elsewhere about how to argue, and none of it is imported here."},
+        {"q": "What is the guide&rsquo;s sharper statement of the claim?",
+         "opts": [
+             "That agreement is the fuel of discussion",
+             "That comprehension is the fuel &mdash; two people who understand and disagree will keep going; two who agree and understand nothing will stop",
+             "That seniority decides",
+             "That only teachers can sustain a discussion"],
+         "correct": 1,
+         "expl": "The second case is the more dangerous, because agreement disguises it."},
+        {"q": "How does the guide explain the near-identical pairs in this collection?",
+         "opts": [
+             "As scribal error",
+             "As padding",
+             "As the practice of a collection organized numerically for recitation, where a set of three that fits two frames is recorded under both",
+             "As later additions"],
+         "correct": 2,
+         "expl": "The point of the arrangement is retrieval."},
+        {"q": "Which three patterns does the guide say a class should learn to spot?",
+         "opts": [
+             "Verse, prose, and dialogue",
+             "Identical core with a changed reason; identical core with a changed frame; and genuine repetition",
+             "Long, medium, and short",
+             "Monastic, lay, and divine"],
+         "correct": 1,
+         "expl": "After that the Aṅguttara stops looking careless."},
+        {"q": "Which earlier pair illustrates the first of those patterns?",
+         "opts": [
+             "AN 3.37 and AN 3.38, which differ by one clause",
+             "AN 3.1 and AN 3.2",
+             "AN 3.30 and AN 3.31",
+             "AN 3.41 and AN 3.42"],
+         "correct": 0,
+         "expl": "There the difference is the whole lesson."},
+        {"q": "What is the practical question when a session dies?",
+         "opts": [
+             "Whether to continue",
+             "Which of the three cases you were relying on &mdash; and if it was the second, the fix is a check rather than more energy",
+             "Whether the material was too advanced",
+             "Whether the audience was tired"],
+         "correct": 1,
+         "expl": "Reading the pair back to back also teaches how to read the whole collection: look at the ends."},
+    ],
+    marginalia=[
+        ("Same three", [
+            "teacher understands",
+            "audience understands",
+            "both understand",
+        ]),
+        ("Changed frame", [
+            "AN 3.43 &middot; reason to teach",
+            "AN 3.44 &middot; conversation flows",
+            "&mdash; prospective vs. observed",
+        ]),
+        ("Not required", [
+            "liking each other",
+            "shared assumptions",
+            "agreement",
+        ]),
+        ("Cross-references", [
+            "AN 3.43 &middot; the same core",
+            "AN 3.37&ndash;38 &middot; one clause changed",
+            "AN 2.42&ndash;51 &middot; how an assembly talks",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.44/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.43.html">AN 3.43 &middot; Good Reasons</a> &mdash; the same three cases as a '
+        "reason for teaching rather than a description of discussion. Neither discourse says on its "
+        "own what the pair says together.",
+        '<a href="an-2.42-51.html">AN 2.42&ndash;51 &middot; Assemblies</a> &mdash; the Twos on what '
+        "distinguishes an assembly that examines a teaching from one that does not, which is the "
+        "communal version of the question this discourse asks about two people.",
+        '<a href="an-3.37.html">AN 3.37 &middot; The Four Great Kings (1st)</a> &mdash; for the '
+        "other pattern of near-repetition in this chapter, where the core is fixed and one clause of "
+        "the reasoning changes.",
+    ],
+)
+
+
+page(
+    45, "Paṇḍita", "Recommended by the Astute",
+    vagga=VAGGA_5,
+    meta_title="AN 3.45 — Recommended by the Astute | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṇḍitasutta — giving, "
+        "going forth, and caring for your mother and father, named in one breath by the astute. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three items, the list repeated, and two closing verses that add to it"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable lists of what the wise commend are preserved in the Chinese "
+                              "Āgamas, and the pairing of renunciation with care for parents became a "
+                              "central question in Chinese Buddhism; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and it contains a tension "
+                       "worth an hour"),
+    ],
+    why=(
+        "Three things are recommended by astute true persons: giving, going forth, and taking care of "
+        "your mother and father. Two of those are householder duties and the one in the middle is "
+        "leaving the household. They are listed without comment, in a single sentence, as though "
+        "there were no problem &mdash; which is exactly the problem that Buddhism in China spent a "
+        "thousand years arguing about."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Generosity, renunciation, and looking after your parents are all commended by the same "
+            "people, and the list does not notice that the second appears to rule out the third."]),
+        ("The three, and who recommends them", [
+            "<em>Dāna</em>, giving. <em>Pabbajjā</em>, going forth &mdash; the technical term for "
+            "leaving the household life for homelessness. <em>Mātāpitu-upaṭṭhāna</em>, attending on "
+            "one&rsquo;s mother and father, the same duty AN 3.31 spent a whole discourse on.",
+            "The recommending is attributed to <em>sappurisā paṇḍitā</em>, astute true persons "
+            "&mdash; not to the Buddha directly and not to scripture. The frame is that these are "
+            "what people of good judgment commend, which places the claim in the register of ordinary "
+            "moral consensus rather than revelation.",
+            "That frame matters for the tension that follows. The discourse is not legislating; it is "
+            "reporting what the sensible approve of. And the sensible, it says, approve of all three."]),
+        ("The tension the list ignores", [
+            "Going forth means leaving. It means, in the concrete terms the canon uses elsewhere, "
+            "shaving the head, putting on ocher robes, and departing from a house where somebody may "
+            "be growing old. Caring for parents means staying, or at least remaining responsible.",
+            "The list sets them side by side without a word of reconciliation. That silence is worth "
+            "showing a class rather than filling in, because the later tradition filled it in at "
+            "enormous length and the reader should see the gap the commentaries are answering.",
+            "Three things can honestly be said about how the canon itself handles it. First, the "
+            "monastic code requires parental permission before ordination, which treats the conflict "
+            "as real and gives the parents a veto. Second, the canon contains stories on both sides "
+            "&mdash; monastics who supported their parents from their alms, and parents whose grief "
+            "at a departure is recorded without being dismissed. Third, this discourse makes no "
+            "attempt at a rule, and any tidy resolution offered to a class should be labeled as "
+            "somebody&rsquo;s later solution rather than as the text&rsquo;s."]),
+        ("Why this is the discourse for a Chinese-speaking class", [
+            "The charge that Buddhism is unfilial &mdash; that monks abandon their parents, cut their "
+            "hair, and leave no descendants for the ancestral offerings &mdash; was the single most "
+            "effective attack on the religion in China, and it was made continuously from the fourth "
+            "century onward.",
+            "The Chinese answers are worth knowing because they are not evasions. The Nanshan Vinaya "
+            "compendium&rsquo;s closing gate on leaving home puts it in one line: <em>the filial love "
+            "of parents is hard to dispel, and yet one can take leave of one&rsquo;s kin</em> "
+            "&mdash; the difficulty is conceded and the act is defended in the same breath. The "
+            "Brahma Net Sutra goes further and calls filial devotion the precept itself.",
+            "AN 3.45 predates all of it and does something neither side of the Chinese argument "
+            "quite did: it names both duties in the same sentence and declines to rank them. For a "
+            "class in Taiwan, where the question is not academic, that is a more useful text than "
+            "either the attack or the defense."]),
+        ("What the verses add", [
+            "The prose gives three items; the verse gives more, and the additions are not decorative. "
+            "The virtuous recommend giving, <em>harmlessness, restraint, and self-control; caring for "
+            "mother and father, and peaceful spiritual practitioners.</em>",
+            "So the verse expands the list to include the three qualities that make renunciation more "
+            "than a change of address &mdash; harmlessness, restraint, self-control &mdash; and it "
+            "replaces the bare <em>going forth</em> with <em>peaceful spiritual practitioners</em>, "
+            "shifting from the act to the people who result from it.",
+            "That is a quiet argument, not an ornament. The prose could be read as commending "
+            "ordination as such; the verse says what is actually being commended is the conduct, and "
+            "names supporting practitioners in the same list as supporting parents. A householder who "
+            "reads only the prose is being told to consider going forth. One who reads the verse is "
+            "being told that giving, restraint, care for parents, and support of practitioners all "
+            "belong together.",
+            "The closing line, <em>a noble one, having vision, will enjoy a world of grace</em>, is "
+            "the standard reward formula and the least interesting part of the discourse."]),
+        ("Using it", [
+            "This is a good text to teach immediately after AN 3.31, and the pairing does most of the "
+            "work. AN 3.31 says your parents are Brahmā; AN 3.45 says going forth and caring for "
+            "parents are both commended. Put them together and the class has the whole problem in "
+            "front of them in about four lines of Pāli.",
+            "The discussion question that works is not <em>how is the conflict resolved?</em> but "
+            "<em>why does the discourse not notice it?</em> The most defensible answer is that a list "
+            "of what good people commend is not a decision procedure, and that the canon expected the "
+            "case to be worked out by the people in it rather than settled in advance."]),
+    ],
+    terms=[
+        ("paṇḍita",
+         "&ldquo;astute, wise&rdquo; &mdash; the canon&rsquo;s standard opposite of the fool. Here "
+         "paired with <em>sappurisa</em>, a true or good person, as the source of the "
+         "recommendation."),
+        ("dāna",
+         "&ldquo;giving&rdquo; &mdash; first on the list, and the practice the two preceding "
+         "discourses in this chapter analyze."),
+        ("pabbajjā",
+         "&ldquo;going forth&rdquo; &mdash; the technical term for leaving the household life for "
+         "homelessness, and the item that makes the list a problem."),
+        ("mātāpitu-upaṭṭhāna",
+         "&ldquo;attending on mother and father&rdquo; &mdash; the same duty AN 3.31 treats at "
+         "length, listed here immediately after the act of leaving home."),
+        ("sappurisa",
+         "&ldquo;a true person, a good person&rdquo; &mdash; the register of the discourse&rsquo;s "
+         "claim: what people of good judgment commend, rather than what is decreed."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things"),
+        ("p", "&sect;1", "an3.45:1.1-1.6"),
+        ("h3", "In verse"),
+        ("p", "&sect;2", "an3.45:2.1-2.4"),
+        ("p", "&sect;3", "an3.45:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What three things are recommended by astute true persons?",
+         "opts": [
+             "Faith, ethics, and wisdom",
+             "Giving, going forth, and taking care of your mother and father",
+             "Study, meditation, and service",
+             "Harmlessness, restraint, and self-control"],
+         "correct": 1,
+         "expl": "Two householder duties with leaving the household in the middle."},
+        {"q": "Who is the recommendation attributed to?",
+         "opts": [
+             "The Buddha directly",
+             "Scripture",
+             "<em>Sappurisā paṇḍitā</em>, astute true persons &mdash; the register of ordinary moral consensus rather than revelation",
+             "The gods"],
+         "correct": 2,
+         "expl": "The discourse is reporting what the sensible approve of, not legislating."},
+        {"q": "What tension does the list ignore?",
+         "opts": [
+             "That giving costs money",
+             "That going forth means leaving, and caring for parents means staying or remaining responsible",
+             "That parents may be unethical",
+             "That the astute disagree among themselves"],
+         "correct": 1,
+         "expl": "The list sets them side by side without a word of reconciliation."},
+        {"q": "How does the monastic code treat the conflict?",
+         "opts": [
+             "It ignores it",
+             "It forbids ordination",
+             "It requires parental permission before ordination, which treats the conflict as real and gives the parents a veto",
+             "It requires parents to be supported financially"],
+         "correct": 2,
+         "expl": "One of three things the guide says can honestly be said about the canon&rsquo;s handling."},
+        {"q": "What does the guide say about tidy resolutions?",
+         "opts": [
+             "That they should be presented as the text&rsquo;s own",
+             "That any tidy resolution offered to a class should be labeled as somebody&rsquo;s later solution rather than as the text&rsquo;s",
+             "That the commentaries settle it",
+             "That the question should be avoided"],
+         "correct": 1,
+         "expl": "The silence is worth showing rather than filling in."},
+        {"q": "What was the most effective attack on Buddhism in China?",
+         "opts": [
+             "That it was foreign",
+             "That it was unfilial &mdash; monks abandon their parents, cut their hair, and leave no descendants for the ancestral offerings",
+             "That it was too difficult",
+             "That it denied the gods"],
+         "correct": 1,
+         "expl": "Made continuously from the fourth century onward."},
+        {"q": "How does the Nanshan Vinaya compendium answer it?",
+         "opts": [
+             "By denying that parents matter",
+             "By conceding the difficulty and defending the act in one breath &mdash; the filial love of parents is hard to dispel, and yet one can take leave of one&rsquo;s kin",
+             "By forbidding ordination without wealth",
+             "By claiming the charge is Confucian"],
+         "correct": 1,
+         "expl": "The Chinese answers are worth knowing because they are not evasions."},
+        {"q": "What does AN 3.45 do that neither side of the Chinese argument quite did?",
+         "opts": [
+             "Rank the duties",
+             "Name both duties in the same sentence and decline to rank them",
+             "Forbid going forth",
+             "Require parental support"],
+         "correct": 1,
+         "expl": "For a class where the question is not academic, that is more useful than either the attack or the defense."},
+        {"q": "What does the verse add to the prose list?",
+         "opts": [
+             "Nothing",
+             "Harmlessness, restraint, and self-control, and it replaces bare &ldquo;going forth&rdquo; with &ldquo;peaceful spiritual practitioners&rdquo;",
+             "A warning about hell",
+             "A list of donors"],
+         "correct": 1,
+         "expl": "Shifting from the act to the people who result from it."},
+        {"q": "Why does the guide call that a quiet argument rather than an ornament?",
+         "opts": [
+             "Because the meter requires it",
+             "Because the prose could be read as commending ordination as such, while the verse says what is commended is the conduct &mdash; and puts supporting practitioners in the same list as supporting parents",
+             "Because verses are always later",
+             "Because it contradicts the prose"],
+         "correct": 1,
+         "expl": "A householder who reads only the prose hears a different instruction."},
+    ],
+    marginalia=[
+        ("Three commended", [
+            "<span class=\"pali\">dāna</span>giving",
+            "<span class=\"pali\">pabbajjā</span>going forth",
+            "<span class=\"pali\">upaṭṭhāna</span>caring for parents",
+        ]),
+        ("The gap", [
+            "going forth means leaving",
+            "caring means staying",
+            "&mdash; no word of reconciliation",
+        ]),
+        ("What the verse adds", [
+            "harmlessness",
+            "restraint, self-control",
+            "&ldquo;peaceful spiritual practitioners&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.31 &middot; parents as Brahmā",
+            "Nanshan Vinaya &middot; the point of leaving home",
+            "AN 3.41 &middot; giving, analyzed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.45/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.31.html">AN 3.31 &middot; With Divinity</a> &mdash; the discourse that gives '
+        "parents Brahmā&rsquo;s own titles. Read with this one, the two put the whole problem in "
+        "front of a class in about four lines of Pāli.",
+        '<a href="/sutras/nanshan-lu/chujia-zongzhi-men/">Nanshan Vinaya for Laypeople &middot; The '
+        "Point of Leaving Home</a> &mdash; the closing gate of Hongyi&rsquo;s compendium, which turns "
+        "from lay practice to explain why renunciation is worth what it costs, and concedes the "
+        "difficulty of taking leave of one&rsquo;s parents in the same sentence in which it defends "
+        "doing so.",
+        '<a href="/sutras/brahma-net-sutra/chapter-07/">Brahma Net Sutra &middot; the precept '
+        "preface</a> &mdash; the other Chinese answer, and the more aggressive one: filial devotion "
+        "is not merely compatible with the precepts but is what the precepts are.",
+        '<a href="an-3.41.html">AN 3.41 &middot; Present</a> &mdash; for the first item on this list, '
+        "analyzed into its three necessary conditions four discourses earlier.",
+    ],
+)
