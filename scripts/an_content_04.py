@@ -20525,3 +20525,2344 @@ page(
         "in the Fours.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Asuravagga — the tenth chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_10 = "<em>Asuravagga</em> &mdash; the tenth chapter of the Fours"
+SETTING_10 = ("None stated; the Asuravagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.91 — Asurasutta
+# --------------------------------------------------------------------------- #
+page(
+    91, "Asura", "Titans",
+    vagga=VAGGA_10,
+    meta_title="AN 4.91 — Titans | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Asurasutta — a titan "
+        "surrounded by titans, a titan surrounded by gods, a god surrounded by titans, and a god "
+        "surrounded by gods. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_10),
+        ("Speakers", SPEAKER),
+        ("Form", "A two-by-two grid of a person and their following, each cell defined"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The titan-and-god grid appears across the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the collection&rsquo;s standard "
+                       "grid applied to leadership"),
+    ],
+    why=(
+        "Another two-by-two, and the variables this time are a person and the people around them. "
+        "Unethical with unethical followers; unethical with ethical followers; ethical with "
+        "unethical followers; ethical with ethical. The chapter takes its name from the titans, and "
+        "the grid is the same instrument the Fours have already applied to marriages, gifts, and "
+        "birth."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person&rsquo;s own conduct and the conduct of their following are independent, and "
+            "there are four combinations."]),
+        ("Titans and gods", [
+            "<em>Asura</em> and <em>deva</em>. The titans are the traditional adversaries of the gods "
+            "in Indian cosmology, defeated and cast down from the heaven of the Thirty-Three; "
+            "AN 4.15 named Rāhu as their lord.",
+            "Here the two are used purely as evaluative labels &mdash; unethical and ethical &mdash; "
+            "with no cosmological content. That is the same move AN 4.53 made with corpses and "
+            "goddesses, and AN 4.85 with darkness and light.",
+            "The collection reaches for these vivid paired terms whenever it wants a grid, and the "
+            "definitions are always the same underneath: <em>dussīla pāpadhamma</em>, unethical and "
+            "of bad character, against <em>sīlavā kalyāṇadhamma</em>."]),
+        ("What is new here", [
+            "The variable that has changed is the second one. AN 4.53 paired a person with their "
+            "spouse; AN 4.78 paired a giver with a recipient; AN 4.85 paired a person&rsquo;s birth "
+            "with their destination. This pairs a person with their <em>parisā</em>, their following "
+            "or retinue.",
+            "That word covers a wide range &mdash; an assembly, a court, a company of students, the "
+            "people who attach themselves to someone. The discourse does not specify, which makes the "
+            "grid applicable to any of them.",
+            "So this is the collection&rsquo;s statement about leadership and its company, and it "
+            "says the obvious thing that is nonetheless routinely denied: the two are not the same "
+            "and neither determines the other."]),
+        ("The mixed cells", [
+            "As always, the mixed cells are the content. A person of bad character can have a "
+            "following of good people, and a person of good character can have a following of bad "
+            "ones.",
+            "The first of those is the more uncomfortable, and it is the one that matters for "
+            "assessing an institution. The quality of the people gathered around someone is not "
+            "evidence about that person. Good people can be assembled by someone who is not one, and "
+            "the discourse says so without qualification.",
+            "The second cuts the other way and is a familiar defense: a leader is not automatically "
+            "convicted by their followers. AN 4.70 said the country follows the king, and this says "
+            "the correspondence is not guaranteed in either direction &mdash; which is worth holding "
+            "alongside it rather than choosing between them."]),
+        ("Against AN 4.20 and AN 4.70", [
+            "Three discourses in the Fours address the relation between a person in a position and "
+            "the people affected. They do not say the same thing, and the differences are the useful "
+            "part.",
+            "AN 4.20 said an assembly whose officers decide by the four prejudices is an assembly of "
+            "the dregs &mdash; a claim that the officers characterize the body. AN 4.70 said the "
+            "country follows the king down through every rank &mdash; a claim about transmission "
+            "downward. This says the two are simply independent variables.",
+            "Read together they are not contradictory but they are differently weighted. AN 4.70 "
+            "describes a tendency; this describes the range of what actually occurs. A tendency and "
+            "a set of possibilities are different kinds of claim, and the collection gives both."]),
+        ("Using it", [
+            "The grid&rsquo;s practical use is in the two questions it separates. What is this person "
+            "like? And what are the people around them like? Most assessment collapses these, in both "
+            "directions.",
+            "For someone evaluating a community, teacher, or organization, keeping them apart is the "
+            "whole of the discipline the discourse asks for. It is also consistent with AN 4.65, "
+            "which said confidence formed on appearance, voice, or austerity is unreliable and only "
+            "principle is a measure &mdash; the composition of a following is another external "
+            "impression, and this discourse says it does not measure the person."]),
+    ],
+    terms=[
+        ("asura",
+         "&ldquo;titan&rdquo; &mdash; the traditional adversaries of the gods, used here purely as an "
+         "evaluative label with no cosmological content."),
+        ("parisā",
+         "&ldquo;following, assembly, retinue&rdquo; &mdash; the second variable; the discourse does "
+         "not specify what kind, which makes the grid widely applicable."),
+        ("dussīla pāpadhamma",
+         "&ldquo;unethical, of bad character&rdquo; &mdash; the same definition used under every "
+         "vivid label the collection reaches for."),
+        ("sīlavā kalyāṇadhamma",
+         "&ldquo;ethical, of good character&rdquo; &mdash; its positive counterpart, identical across "
+         "AN 4.53, AN 4.78, and this discourse."),
+        ("Rāhu",
+         "lord of the titans, named at AN 4.15 as foremost in size of body; the cosmological "
+         "background this discourse leaves aside."),
+    ],
+    text_intro=(
+        "The discourse in full: the four individuals, each defined. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.91:1.1-1.6"),
+        ("h3", "Titan with titans"),
+        ("p", "&sect;2", "an4.91:2.1-2.3"),
+        ("h3", "Titan with gods"),
+        ("p", "&sect;3", "an4.91:3.1-3.3"),
+        ("h3", "God with titans"),
+        ("p", "&sect;4", "an4.91:4.1-4.3"),
+        ("h3", "God with gods"),
+        ("p", "&sect;5", "an4.91:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What two variables make up the grid?",
+         "opts": [
+             "Birth and destination",
+             "A person&rsquo;s own conduct and the conduct of their following",
+             "Giver and recipient",
+             "Husband and wife"],
+         "correct": 1,
+         "expl": "Independent of each other, with four combinations."},
+        {"q": "How are the titan and god labels used?",
+         "opts": [
+             "With their full cosmological content",
+             "Purely as evaluative labels &mdash; unethical and ethical &mdash; with no cosmological content",
+             "As a simile",
+             "As names of individuals"],
+         "correct": 1,
+         "expl": "The same move AN 4.53 made with corpses and goddesses."},
+        {"q": "What does <em>parisā</em> cover?",
+         "opts": [
+             "Only monastics",
+             "An assembly, a court, a company of students &mdash; the people who attach themselves to someone",
+             "Only a family",
+             "Only a village"],
+         "correct": 1,
+         "expl": "The discourse does not specify, which makes the grid widely applicable."},
+        {"q": "Which mixed cell does the guide call the more uncomfortable?",
+         "opts": [
+             "A good person with bad followers",
+             "A bad person with good followers &mdash; the quality of people gathered around someone is not evidence about that person",
+             "Neither",
+             "Both equally"],
+         "correct": 1,
+         "expl": "Good people can be assembled by someone who is not one."},
+        {"q": "What does the other mixed cell provide?",
+         "opts": [
+             "A criticism",
+             "A familiar defense &mdash; a leader is not automatically convicted by their followers",
+             "A cosmology",
+             "A ranking"],
+         "correct": 1,
+         "expl": "The correspondence is not guaranteed in either direction."},
+        {"q": "What did AN 4.20 claim about officers and assemblies?",
+         "opts": [
+             "That they are independent",
+             "That an assembly whose officers decide by the four prejudices is an assembly of the dregs &mdash; the officers characterize the body",
+             "That officers should be replaced",
+             "That assemblies choose their officers"],
+         "correct": 1,
+         "expl": "A different weighting from this discourse."},
+        {"q": "What did AN 4.70 claim?",
+         "opts": [
+             "The same as this",
+             "That the country follows the king down through every rank &mdash; transmission downward",
+             "That kings follow the country",
+             "That conduct is fixed at birth"],
+         "correct": 1,
+         "expl": "A claim about tendency."},
+        {"q": "How does the guide relate the three?",
+         "opts": [
+             "As contradictory",
+             "As differently weighted &mdash; AN 4.70 describes a tendency, this describes the range of what actually occurs",
+             "As identical",
+             "As three stages"],
+         "correct": 1,
+         "expl": "A tendency and a set of possibilities are different kinds of claim."},
+        {"q": "What two questions does the grid separate?",
+         "opts": [
+             "What is right and what is wrong",
+             "What is this person like, and what are the people around them like",
+             "Who leads and who follows",
+             "What is past and what is future"],
+         "correct": 1,
+         "expl": "Most assessment collapses these, in both directions."},
+        {"q": "How does that connect to AN 4.65?",
+         "opts": [
+             "It does not",
+             "The composition of a following is another external impression, and this discourse says it does not measure the person",
+             "AN 4.65 endorses judging by followers",
+             "AN 4.65 concerns only teachers"],
+         "correct": 1,
+         "expl": "Only principle is a measure."},
+    ],
+    marginalia=[
+        ("Four cells", [
+            "titan &amp; titans",
+            "titan &amp; gods",
+            "god &amp; titans",
+            "god &amp; gods",
+        ]),
+        ("Same grid, new pair", [
+            "4.53 &middot; spouse",
+            "4.78 &middot; recipient",
+            "4.85 &middot; destination",
+            "4.91 &middot; following",
+        ]),
+        ("Two questions", [
+            "what is this person like?",
+            "what are these people like?",
+            "&mdash; kept apart",
+        ]),
+        ("Cross-references", [
+            "AN 4.70 &middot; the country follows the king",
+            "AN 4.20 &middot; officers characterize the body",
+            "AN 4.65 &middot; unreliable measures",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.91/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.70.html">AN 4.70 &middot; Unprincipled</a> &mdash; the claim about downward '
+        "transmission this discourse should be held beside.",
+        '<a href="an-4.65.html">AN 4.65 &middot; Appearance</a> &mdash; on measures of a person that '
+        "do not measure.",
+        '<a href="an-4.92.html">AN 4.92 &middot; Immersion (1st)</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.92 — Paṭhamasamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    92, "Paṭhamasamādhi", "Immersion (1st)",
+    vagga=VAGGA_10,
+    meta_title="AN 4.92 — Immersion (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamasamādhisutta — four "
+        "individuals sorted by whether they have internal serenity of heart and the higher wisdom of "
+        "discernment of principles. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_10),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare two-by-two grid with no definitions"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The serenity-and-discernment grid is widespread across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the most practically important "
+                       "grid in the Fours, stated bare"),
+    ],
+    why=(
+        "Serenity and discernment, crossed: one has serenity but not discernment; one has "
+        "discernment but not serenity; one has neither; one has both. It is the diagnostic every "
+        "meditator eventually needs, and this first version gives only the four cells. The next two "
+        "discourses supply what each of the four should do about it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Two capacities, either of which can be present without the other, and four resulting "
+            "conditions."]),
+        ("The two terms", [
+            "<em>Ajjhattaṁ cetosamatha</em> &mdash; internal serenity of heart. <em>Samatha</em> is "
+            "calm, stilling, tranquillity; the qualifier <em>ajjhattaṁ</em>, internal, marks it as a "
+            "condition of the mind rather than of circumstances.",
+            "<em>Adhipaññādhammavipassanā</em> &mdash; the higher wisdom of discernment of "
+            "principles. <em>Vipassanā</em> is seeing clearly or seeing apart; the compound specifies "
+            "what is seen (<em>dhammā</em>, principles or phenomena) and at what level "
+            "(<em>adhipaññā</em>, higher wisdom).",
+            "These are the two great families of Buddhist meditation and the terms have had long "
+            "second lives &mdash; <em>samatha</em> and <em>vipassanā</em> are used as the names of "
+            "whole methods in modern practice. It is worth knowing that in the canon they are named "
+            "here as two qualities a person may or may not have, not as two techniques one chooses "
+            "between."]),
+        ("What the grid claims", [
+            "The important claim is the one made by the grid&rsquo;s existence: the two are "
+            "independent. Serenity does not produce discernment and discernment does not produce "
+            "serenity, or the two mixed cells would not occur.",
+            "That is not obvious and it is not universally held. A practitioner can spend years "
+            "assuming that deep enough calm will resolve into insight, or that clear enough seeing "
+            "will settle the mind. The discourse says both people exist and are stuck.",
+            "The fourth cell &mdash; both present &mdash; is the goal, and AN 4.170, already "
+            "published on this site, gives the four ways it can be reached. This discourse only "
+            "establishes that the four situations occur."]),
+        ("Why it is stated bare", [
+            "AN 4.92 gives the grid with no definitions and no advice. AN 4.93 will tell each of the "
+            "four what to practise. AN 4.94 will tell each of the four whom to ask.",
+            "The sequence is the same three-stage pattern the collection used at AN 4.57&ndash;4.59: "
+            "a statement, then an elaboration, then a further elaboration. Here it runs in the "
+            "opposite direction to that group &mdash; from bare to detailed rather than from occasion "
+            "to rule.",
+            "For a reader the practical consequence is that this discourse is a diagnosis and the "
+            "next two are the treatment. Reading it alone gives a grid with no exit."]),
+        ("Placing oneself", [
+            "The four cells are unusually easy to apply to oneself, which is why the grid has "
+            "survived so well.",
+            "Serenity without discernment: the mind settles, sittings are pleasant, and nothing is "
+            "understood. Discernment without serenity: the analysis is sharp, the reading is "
+            "extensive, and the mind will not stay anywhere. Neither: the common condition, and the "
+            "one AN 4.93 addresses with the image of one&rsquo;s head on fire.",
+            "It is worth noting that the discourse does not describe the four as personality types or "
+            "as fixed dispositions. They are conditions, and the next discourse treats all four as "
+            "changeable."]),
+        ("Where the pair sits in the collection", [
+            "Serenity and discernment appear together throughout the canon and the collection is "
+            "consistent that both are required. What varies is the account of how they relate.",
+            "AN 4.170, further into the Fours, gives the four ways a person reaches the goal: "
+            "developing serenity then discernment, discernment then serenity, the two in conjunction, "
+            "or with the mind seized by agitation about principles. That discourse is the fullest "
+            "treatment and this group prepares for it.",
+            "A reader wanting the collection&rsquo;s teaching on this subject should take AN 4.92, "
+            "4.93, 4.94, and 4.170 as a set. The first three diagnose and prescribe; the last "
+            "describes what actually happens on the way to completion."]),
+    ],
+    terms=[
+        ("cetosamatha",
+         "&ldquo;serenity of heart&rdquo; &mdash; calm or stilling, marked as internal: a condition "
+         "of the mind rather than of circumstances."),
+        ("adhipaññādhammavipassanā",
+         "&ldquo;the higher wisdom of discernment of principles&rdquo; &mdash; seeing clearly, with "
+         "what is seen and at what level both specified."),
+        ("samatha / vipassanā",
+         "the two great families of Buddhist meditation &mdash; named in the canon as two qualities a "
+         "person may have, not as two techniques one chooses between."),
+        ("ajjhattaṁ",
+         "&ldquo;internal&rdquo; &mdash; the qualifier on serenity, locating it in the mind rather "
+         "than in conditions."),
+        ("dhammā",
+         "&ldquo;principles, phenomena&rdquo; &mdash; what discernment discerns, in the compound that "
+         "names it."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.92:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What two qualities make up the grid?",
+         "opts": [
+             "Ethics and wisdom",
+             "Internal serenity of heart, and the higher wisdom of discernment of principles",
+             "Faith and energy",
+             "Mindfulness and immersion"],
+         "correct": 1,
+         "expl": "Either can be present without the other."},
+        {"q": "What does the qualifier <em>ajjhattaṁ</em> mark?",
+         "opts": [
+             "That serenity is temporary",
+             "That it is a condition of the mind rather than of circumstances",
+             "That it is monastic",
+             "That it is deep"],
+         "correct": 1,
+         "expl": "Internal serenity of heart."},
+        {"q": "How are <em>samatha</em> and <em>vipassanā</em> named in the canon?",
+         "opts": [
+             "As two techniques one chooses between",
+             "As two qualities a person may or may not have",
+             "As two schools",
+             "As two stages"],
+         "correct": 1,
+         "expl": "Worth knowing, given their long second lives as names of whole methods."},
+        {"q": "What is the important claim made by the grid&rsquo;s existence?",
+         "opts": [
+             "That both are necessary",
+             "That the two are independent &mdash; serenity does not produce discernment and discernment does not produce serenity, or the mixed cells would not occur",
+             "That serenity comes first",
+             "That discernment is superior"],
+         "correct": 1,
+         "expl": "Not obvious, and not universally held."},
+        {"q": "What assumption does that contradict?",
+         "opts": [
+             "That meditation is useful",
+             "That deep enough calm will resolve into insight, or that clear enough seeing will settle the mind",
+             "That both can be developed",
+             "That the goal is attainable"],
+         "correct": 1,
+         "expl": "The discourse says both people exist and are stuck."},
+        {"q": "What do AN 4.93 and 4.94 supply?",
+         "opts": [
+             "Definitions of the two terms",
+             "What each of the four should practise, and whom each should ask",
+             "Verses",
+             "A cosmological frame"],
+         "correct": 1,
+         "expl": "This discourse is a diagnosis; the next two are the treatment."},
+        {"q": "What pattern does the three-discourse sequence follow?",
+         "opts": [
+             "Occasion, instruction, rule",
+             "Bare, then elaborated, then further elaborated &mdash; the reverse direction from AN 4.57&ndash;4.59",
+             "Question, answer, verse",
+             "Lay, monastic, general"],
+         "correct": 1,
+         "expl": "From bare to detailed."},
+        {"q": "How does the guide describe serenity without discernment?",
+         "opts": [
+             "As a rare condition",
+             "The mind settles, sittings are pleasant, and nothing is understood",
+             "As a form of laziness",
+             "As the goal"],
+         "correct": 1,
+         "expl": "Unusually easy to apply to oneself, which is why the grid has survived."},
+        {"q": "Are the four described as personality types?",
+         "opts": [
+             "Yes",
+             "No &mdash; they are conditions, and the next discourse treats all four as changeable",
+             "Only the first two",
+             "The discourse does not say"],
+         "correct": 1,
+         "expl": "Not fixed dispositions."},
+        {"q": "Which four discourses does the guide recommend as a set on this subject?",
+         "opts": [
+             "AN 4.91 through 4.94",
+             "AN 4.92, 4.93, 4.94, and 4.170",
+             "AN 4.41, 4.92, 4.93, and 4.94",
+             "AN 4.92 and 4.170 only"],
+         "correct": 1,
+         "expl": "The first three diagnose and prescribe; the last describes what happens on the way to completion."},
+    ],
+    marginalia=[
+        ("Four cells", [
+            "serenity, no discernment",
+            "discernment, no serenity",
+            "neither",
+            "both",
+        ]),
+        ("The claim", [
+            "the two are independent",
+            "neither produces the other",
+            "&mdash; or the mixed cells would not occur",
+        ]),
+        ("The set", [
+            "4.92 &middot; the grid",
+            "4.93 &middot; what to practise",
+            "4.94 &middot; whom to ask",
+            "4.170 &middot; how it completes",
+        ]),
+        ("Cross-references", [
+            "AN 4.93 &middot; next: the treatment",
+            "AN 4.170 &middot; serenity and insight in conjunction",
+            "AN 4.41 &middot; four developments of immersion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.92/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.93.html">AN 4.93 &middot; Immersion (2nd)</a> &mdash; next in this series, and '
+        "what each of the four should do.",
+        '<a href="an-4.170.html">AN 4.170 &middot; In Conjunction</a> &mdash; the fullest treatment '
+        "of serenity and discernment in the Fours.",
+        '<a href="an-4.41.html">AN 4.41 &middot; Ways of Developing Immersion Further</a> &mdash; the '
+        "four results immersion can be developed for.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.93 — Dutiyasamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    93, "Dutiyasamādhi", "Immersion (2nd)",
+    vagga=VAGGA_10,
+    meta_title="AN 4.93 — Immersion (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyasamādhisutta — what "
+        "each of the four should practise, with the simile of clothes or head on fire. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_10),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.92&rsquo;s grid with an instruction for each cell, and one simile"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "As with AN 4.92; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the most directly practical "
+                       "discourse of the chapter"),
+    ],
+    why=(
+        "The same four cells, now with an instruction for each: whoever has one should stand on it "
+        "and develop the other; whoever has neither should proceed as though their head were on "
+        "fire; whoever has both should keep going, toward the ending of defilements. It is the "
+        "collection&rsquo;s clearest statement that the diagnosis is not the end of the matter."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Each of the four conditions has its own next step, and none of them is to stay where one "
+            "is."]),
+        ("&lsquo;Grounded on&rsquo;", [
+            "The instruction to the first two is the same in shape: <em>grounded on serenity, they "
+            "should practise meditation to get discernment</em>, and <em>grounded on discernment, "
+            "they should practise meditation to get serenity</em>.",
+            "The phrase is <em>tasmiṁ patiṭṭhāya</em>, having established themselves on that. The "
+            "quality one already has is not something to be set aside while working on the missing "
+            "one; it is the platform.",
+            "That is a specific and useful instruction. A person with strong concentration and no "
+            "insight is not told to abandon concentration and take up analysis; they are told to "
+            "develop discernment <em>from</em> the calm they have. The same in the other direction.",
+            "It also rules out a common misunderstanding of the grid, on which the two are competing "
+            "and time spent on one is taken from the other. On this instruction the one you have is "
+            "what makes the other reachable."]),
+        ("The head on fire", [
+            "For the person with neither, the instruction is different in kind: apply extraordinary "
+            "<em>enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational "
+            "awareness</em> &mdash; seven terms &mdash; and the simile is clothes or head on fire.",
+            "<em>Ādittasīsa</em>, head ablaze, is a standing image in the canon for urgency without "
+            "deliberation. Nobody with their hair on fire weighs options; the response is immediate "
+            "and total.",
+            "What makes the simile apt here is that the person with neither quality has nothing to "
+            "stand on. The other two were told to build from a platform; this one has no platform, "
+            "and what substitutes for it is intensity.",
+            "It is worth noticing that the discourse does not tell this person which of the two to "
+            "develop first. The instruction is to go at both, hard, and the outcome stated is the "
+            "same as for the others: after some time they have both."]),
+        ("The fourth instruction", [
+            "For the person with both: <em>grounded on those skillful qualities, they should practise "
+            "meditation further to end the defilements</em>.",
+            "That is the discourse&rsquo;s quiet correction of an assumption the grid invites. Having "
+            "both is the top cell, and it is not the destination. Serenity and discernment together "
+            "are named as a platform for further work, in the same words &mdash; grounded on those "
+            "&mdash; used for the partial cases.",
+            "So all four instructions have the same grammar. Everyone stands on what they have and "
+            "goes further; the only difference is what they have to stand on and how far there is to "
+            "go."]),
+        ("Why this matters for how the grid is used", [
+            "Diagnostic schemes of this kind reliably become identities. A practitioner learns that "
+            "they are a serenity person or a discernment person, and the label explains what they do "
+            "and licenses not doing the rest.",
+            "This discourse forecloses that. Every cell has an instruction, every instruction is to "
+            "develop what is missing, and every outcome is the same: <em>after some time they have "
+            "both</em>.",
+            "The phrase recurs three times, once for each incomplete cell. It is the discourse&rsquo;s "
+            "answer to the grid, and a teacher using AN 4.92 without AN 4.93 is handing students a "
+            "classification without the sentence that makes it temporary."]),
+        ("The seven terms", [
+            "<em>Chanda, vāyāma, ussāha, ussoḷhī, appaṭivānī, sati, sampajañña</em> &mdash; "
+            "enthusiasm, effort, zeal, vigor, perseverance, mindfulness, situational awareness.",
+            "Five of the seven are near-synonyms for effort, which is the collection&rsquo;s way of "
+            "marking intensity, as AN 4.11&rsquo;s four verbs for getting rid of a thought did. The "
+            "last two are not.",
+            "That mindfulness and situational awareness are on the list of what a desperate person "
+            "should apply is worth pausing on. Urgency in this tradition is not the same as agitation. "
+            "The person with their head on fire is asked for maximum effort and for awareness at the "
+            "same time, which is a harder thing than either alone and is the difference between "
+            "urgency and panic."]),
+    ],
+    terms=[
+        ("tasmiṁ patiṭṭhāya",
+         "&ldquo;grounded on that&rdquo; &mdash; the quality one already has is the platform, not "
+         "something to be set aside."),
+        ("ādittasīsa",
+         "&ldquo;head ablaze&rdquo; &mdash; a standing image for urgency without deliberation; the "
+         "simile for the person with neither quality."),
+        ("ussoḷhī",
+         "&ldquo;vigor&rdquo; &mdash; one of five near-synonyms for effort among the seven terms, "
+         "marking intensity."),
+        ("appaṭivānī",
+         "&ldquo;perseverance&rdquo;, literally not turning back &mdash; another of the five."),
+        ("sampajañña",
+         "&ldquo;situational awareness&rdquo; &mdash; on the list of what a desperate person should "
+         "apply, which is what distinguishes urgency from panic."),
+    ],
+    text_intro=(
+        "The discourse in full: the four cells, the instruction for each, and the simile. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.93:1.1-1.6"),
+        ("h3", "Serenity but not discernment"),
+        ("p", "&sect;2", "an4.93:2.1-2.2"),
+        ("h3", "Discernment but not serenity"),
+        ("p", "&sect;3", "an4.93:3.1-3.2"),
+        ("h3", "Neither"),
+        ("p", "&sect;4", "an4.93:4.1-4.4"),
+        ("h3", "Both"),
+        ("p", "&sect;5", "an4.93:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "What is told to the person with serenity but not discernment?",
+         "opts": [
+             "To abandon serenity and take up analysis",
+             "Grounded on serenity, to practise meditation to get discernment",
+             "To find a teacher",
+             "To wait"],
+         "correct": 1,
+         "expl": "The quality one already has is the platform."},
+        {"q": "What does <em>tasmiṁ patiṭṭhāya</em> rule out?",
+         "opts": [
+             "That both are needed",
+             "The misunderstanding that the two are competing and time spent on one is taken from the other",
+             "That the grid applies",
+             "That progress is possible"],
+         "correct": 1,
+         "expl": "The one you have is what makes the other reachable."},
+        {"q": "What is the simile for the person with neither?",
+         "opts": [
+             "A firebrand",
+             "Clothes or head on fire",
+             "A rotten seed",
+             "A lotus in water"],
+         "correct": 1,
+         "expl": "<em>Ādittasīsa</em>, a standing image for urgency without deliberation."},
+        {"q": "Why is that simile apt for this cell in particular?",
+         "opts": [
+             "Because the person is in danger",
+             "Because they have nothing to stand on &mdash; the other two build from a platform, and what substitutes for it here is intensity",
+             "Because fire is destructive",
+             "Because the situation is hopeless"],
+         "correct": 1,
+         "expl": "No platform, so intensity instead."},
+        {"q": "Which of the two is this person told to develop first?",
+         "opts": [
+             "Serenity",
+             "Neither is specified &mdash; the instruction is to go at both, hard",
+             "Discernment",
+             "Whichever is easier"],
+         "correct": 1,
+         "expl": "And the outcome stated is the same as for the others."},
+        {"q": "What is the person with both told?",
+         "opts": [
+             "That they have arrived",
+             "Grounded on those skillful qualities, to practise meditation further to end the defilements",
+             "To teach others",
+             "To rest"],
+         "correct": 1,
+         "expl": "The top cell is not the destination."},
+        {"q": "What grammar do all four instructions share?",
+         "opts": [
+             "None",
+             "Everyone stands on what they have and goes further &mdash; the only difference is what they have to stand on and how far there is to go",
+             "All are imperatives to abandon",
+             "All name a teacher"],
+         "correct": 1,
+         "expl": "The same &lsquo;grounded on those&rsquo; is used for the complete case too."},
+        {"q": "What failure mode does the discourse foreclose?",
+         "opts": [
+             "Over-effort",
+             "The grid becoming an identity &mdash; a serenity person or a discernment person, with the label licensing not doing the rest",
+             "Wrong view",
+             "Dependence on a teacher"],
+         "correct": 1,
+         "expl": "Every cell has an instruction and every outcome is &lsquo;after some time they have both&rsquo;."},
+        {"q": "What does the guide say about using AN 4.92 without AN 4.93?",
+         "opts": [
+             "It is sufficient",
+             "It hands students a classification without the sentence that makes it temporary",
+             "It is preferable",
+             "It is the traditional order"],
+         "correct": 1,
+         "expl": "The phrase recurs three times, once for each incomplete cell."},
+        {"q": "Why is it notable that mindfulness and situational awareness are on the list of seven?",
+         "opts": [
+             "They are the easiest",
+             "Because urgency in this tradition is not agitation &mdash; maximum effort and awareness at the same time is the difference between urgency and panic",
+             "They are redundant",
+             "They are added later"],
+         "correct": 1,
+         "expl": "Five of the seven are near-synonyms for effort; these two are not."},
+    ],
+    marginalia=[
+        ("Four instructions", [
+            "serenity &rarr; add discernment",
+            "discernment &rarr; add serenity",
+            "neither &rarr; head on fire",
+            "both &rarr; go further",
+        ]),
+        ("The platform", [
+            "<span class=\"pali\">tasmiṁ patiṭṭhāya</span>",
+            "grounded on that",
+            "&mdash; not set aside",
+        ]),
+        ("The repeated line", [
+            "&ldquo;after some time",
+            "they have both&rdquo;",
+            "&mdash; three times",
+        ]),
+        ("Cross-references", [
+            "AN 4.92 &middot; the grid alone",
+            "AN 4.94 &middot; next: whom to ask",
+            "AN 4.170 &middot; how the two complete",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.93/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.92.html">AN 4.92 &middot; Immersion (1st)</a> &mdash; the grid this discourse '
+        "supplies the exits from.",
+        '<a href="an-4.94.html">AN 4.94 &middot; Immersion (3rd)</a> &mdash; next in this series, on '
+        "whom each of the four should ask.",
+        '<a href="an-4.170.html">AN 4.170 &middot; In Conjunction</a> &mdash; the four ways serenity '
+        "and discernment come to completion.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.94 — Tatiyasamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    94, "Tatiyasamādhi", "Immersion (3rd)",
+    vagga=VAGGA_10,
+    meta_title="AN 4.94 — Immersion (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Tatiyasamādhisutta — whom "
+        "each of the four should approach, and the exact questions they should ask. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_10),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.92&rsquo;s grid with an instruction to seek out a particular person, and the "
+                 "questions to put to them"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "As with AN 4.92 and 4.93; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the third and most social of the "
+                       "three, and the one with the actual questions in it"),
+    ],
+    why=(
+        "The same four cells a third time, and this version answers a different question: not what "
+        "to practise but whom to ask. Each of the incomplete three is told to go to someone who has "
+        "what they lack, and the discourse gives the exact wording of the question to put. It is one "
+        "of the few places in the canon that scripts a conversation between practitioners."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What you lack, someone else has; go to them, and here is what to ask."]),
+        ("The two sets of questions", [
+            "For discernment: <em>Reverend, how should conditions be seen? How should they be "
+            "comprehended? How should they be discerned?</em>",
+            "For serenity: <em>Reverend, how should the mind be stilled? How should it be settled? "
+            "How should it be unified? How should it be immersed in samādhi?</em>",
+            "Three questions and four questions, and both sets are entirely about method. Not what "
+            "the goal is, not what the experience is like, not whether the person has attained "
+            "anything &mdash; how it is done.",
+            "The person with neither quality asks both sets, one after the other, of a single person "
+            "who has both. That is eight questions, and the discourse writes them all out."]),
+        ("&lsquo;From their own experience&rsquo;", [
+            "The answer in each case is given <em>yathādiṭṭhaṁ yathāviditaṁ</em> &mdash; as they have "
+            "seen and known it.",
+            "That qualifier is the discourse&rsquo;s condition on the advice. What is being sought is "
+            "not information about serenity or discernment but an account from someone who has "
+            "arrived at it by doing it. A person who has read about stilling the mind cannot supply "
+            "what this discourse is asking for.",
+            "It also implies a criterion for choosing whom to ask, which the discourse states only "
+            "obliquely: approach someone <em>who has</em> the quality. AN 4.65 said the grounds on "
+            "which we form confidence in others are usually appearance, voice, or austerity, and that "
+            "only principle is a measure. This discourse depends on a reader being able to tell who "
+            "actually has serenity or discernment, and does not say how."]),
+        ("What is unusual about this instruction", [
+            "The canon is full of teaching from the Buddha to disciples and of disciples teaching "
+            "assemblies. Peer-to-peer consultation between practitioners, scripted, is rarer.",
+            "What makes it notable is the direction of the exchange. A person with strong serenity "
+            "is being told to go and ask a person with strong discernment, who may have less "
+            "serenity than they do, for instruction. Neither is superior; each has what the other "
+            "lacks.",
+            "That is a specific and slightly awkward social arrangement, and the discourse treats it "
+            "as ordinary. It is also, incidentally, a good argument for practising in a community: "
+            "the grid guarantees that in any group of size, someone has what you are missing."]),
+        ("How the three discourses divide the work", [
+            "AN 4.92 gives the four conditions. AN 4.93 says what each should practise. AN 4.94 says "
+            "whom each should ask.",
+            "Those are three genuinely different answers to &lsquo;what should I do?&rsquo; &mdash; a "
+            "diagnosis, an individual practice, and a social step &mdash; and the collection gives "
+            "all three rather than choosing.",
+            "The fourth cell gets the same instruction in AN 4.93 and AN 4.94: grounded on those "
+            "qualities, practise further to end the defilements. The person who has both is not told "
+            "to ask anyone anything, which is the one place the two discourses agree exactly."]),
+        ("The questions as a template", [
+            "The seven questions are worth keeping as they stand, because they are unusually well "
+            "formed.",
+            "Each asks how something <em>should be</em> done rather than what it is or whether the "
+            "person has done it. Each is short. None of them invites a description of an experience, "
+            "and none of them can be answered by a doctrinal statement.",
+            "For anyone in a position to ask an experienced practitioner a question, these are better "
+            "than most of what gets asked. The discourse&rsquo;s implicit teaching is that the useful "
+            "question is about method, and that it is put to someone who has done the thing."]),
+    ],
+    terms=[
+        ("yathādiṭṭhaṁ yathāviditaṁ",
+         "&ldquo;as they have seen and known it&rdquo; &mdash; the condition on the answer: an "
+         "account from someone who arrived at it by doing it."),
+        ("saṅkhārā",
+         "&ldquo;conditions&rdquo; &mdash; what the questions about discernment ask how to see, "
+         "comprehend, and discern."),
+        ("santhambhitabbaṁ",
+         "&ldquo;stilled&rdquo; &mdash; the first of the four verbs in the questions about serenity, "
+         "with settled, unified, and immersed."),
+        ("ekodi kātabbaṁ",
+         "&ldquo;unified&rdquo; &mdash; made one-pointed; the third of the four verbs about the "
+         "mind."),
+        ("āvuso",
+         "&ldquo;reverend&rdquo; &mdash; the term of address between monastics of similar standing, "
+         "which marks these as peer consultations."),
+    ],
+    text_intro=(
+        "The discourse in full: the four cells, whom each should approach, and the questions to ask. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.94:1.1-1.6"),
+        ("h3", "Serenity but not discernment"),
+        ("p", "&sect;2", "an4.94:2.1-2.7"),
+        ("h3", "Discernment but not serenity"),
+        ("p", "&sect;3", "an4.94:3.1-3.8"),
+        ("h3", "Neither"),
+        ("p", "&sect;4", "an4.94:4.1-4.11"),
+        ("h3", "Both"),
+        ("p", "&sect;5", "an4.94:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "What does this version tell each of the four?",
+         "opts": [
+             "What to practise",
+             "Whom to approach, and the exact questions to ask",
+             "What they have attained",
+             "How long it will take"],
+         "correct": 1,
+         "expl": "One of the few places in the canon that scripts a conversation between practitioners."},
+        {"q": "What are the questions about discernment?",
+         "opts": [
+             "What is wisdom, and who has it?",
+             "How should conditions be seen, comprehended, and discerned?",
+             "What is the goal of insight?",
+             "How long does it take?"],
+         "correct": 1,
+         "expl": "Three questions, entirely about method."},
+        {"q": "What are the questions about serenity?",
+         "opts": [
+             "What does jhāna feel like?",
+             "How should the mind be stilled, settled, unified, and immersed in samādhi?",
+             "Which object should be used?",
+             "How many hours a day?"],
+         "correct": 1,
+         "expl": "Four questions, also entirely about method."},
+        {"q": "What does <em>yathādiṭṭhaṁ yathāviditaṁ</em> condition?",
+         "opts": [
+             "The question",
+             "The answer &mdash; it must come from someone who has arrived at it by doing it",
+             "The setting",
+             "The questioner&rsquo;s attainment"],
+         "correct": 1,
+         "expl": "A person who has read about stilling the mind cannot supply what is being asked for."},
+        {"q": "What does the discourse leave unsaid?",
+         "opts": [
+             "The questions",
+             "How to tell who actually has serenity or discernment",
+             "What to do afterward",
+             "Whom the person with both should ask"],
+         "correct": 1,
+         "expl": "AN 4.65 said the usual grounds of confidence are unreliable, and this discourse depends on the reader being able to tell."},
+        {"q": "What is unusual about the direction of the exchange?",
+         "opts": [
+             "It is from teacher to student",
+             "A person with strong serenity asks a person with strong discernment, who may have less serenity than they do &mdash; neither is superior",
+             "It is anonymous",
+             "It is in writing"],
+         "correct": 1,
+         "expl": "Peer-to-peer consultation, scripted, is rare in the canon."},
+        {"q": "What incidental argument does the guide draw?",
+         "opts": [
+             "For solitary practice",
+             "For practising in a community &mdash; the grid guarantees that in any group of size, someone has what you are missing",
+             "For ordination",
+             "For studying texts"],
+         "correct": 1,
+         "expl": "A specific and slightly awkward social arrangement treated as ordinary."},
+        {"q": "How do the three discourses divide the work?",
+         "opts": [
+             "By audience",
+             "A diagnosis, an individual practice, and a social step &mdash; three different answers to &lsquo;what should I do?&rsquo;",
+             "By length",
+             "By stage of the path"],
+         "correct": 1,
+         "expl": "The collection gives all three rather than choosing."},
+        {"q": "Where do AN 4.93 and AN 4.94 agree exactly?",
+         "opts": [
+             "On the first cell",
+             "On the fourth &mdash; the person who has both is told to practise further, and is not told to ask anyone anything",
+             "On the third cell",
+             "Nowhere"],
+         "correct": 1,
+         "expl": "Grounded on those qualities, to end the defilements."},
+        {"q": "Why does the guide recommend keeping the seven questions as they stand?",
+         "opts": [
+             "They are traditional",
+             "Each asks how something should be done, is short, invites no description of an experience, and cannot be answered by a doctrinal statement",
+             "They are short",
+             "They are easy to memorize"],
+         "correct": 1,
+         "expl": "The useful question is about method, put to someone who has done the thing."},
+    ],
+    marginalia=[
+        ("Three questions", [
+            "how should conditions",
+            "be seen, comprehended,",
+            "and discerned?",
+        ]),
+        ("Four questions", [
+            "how should the mind",
+            "be stilled, settled,",
+            "unified, and immersed?",
+        ]),
+        ("The condition", [
+            "answered as they",
+            "have seen and known",
+            "&mdash; not as read",
+        ]),
+        ("Cross-references", [
+            "AN 4.92 &middot; the grid",
+            "AN 4.93 &middot; what to practise",
+            "AN 4.65 &middot; telling who has what",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.94/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.93.html">AN 4.93 &middot; Immersion (2nd)</a> &mdash; what each of the four '
+        "should practise.",
+        '<a href="an-4.65.html">AN 4.65 &middot; Appearance</a> &mdash; on the difficulty this '
+        "discourse leaves unaddressed: telling who actually has what.",
+        '<a href="an-4.95.html">AN 4.95 &middot; A Firebrand</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.95 — Chavālātasutta
+# --------------------------------------------------------------------------- #
+page(
+    95, "Chavālāta", "A Firebrand",
+    vagga=VAGGA_10,
+    meta_title="AN 4.95 — A Firebrand | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Chavālātasutta — four who "
+        "practise for their own and others' benefit, ranked, with the firebrand and the cream of "
+        "ghee. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_10),
+        ("Speakers", SPEAKER),
+        ("Form", "Four individuals, two similes, and an explicit ranking"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The firebrand and the ghee similes both appear across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and its ranking is the "
+                       "thing modern readers argue about"),
+    ],
+    why=(
+        "Four who practise: for neither themselves nor others; for others but not themselves; for "
+        "themselves but not others; for both. The discourse ranks them explicitly, and the ranking "
+        "is the part that surprises: practising for oneself alone is placed <em>above</em> "
+        "practising for others alone. That is stated without hedging and it is worth taking "
+        "seriously rather than explaining away."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four positions on self and others, ranked, with practising for both at the top and "
+            "practising for oneself alone above practising for others alone."]),
+        ("The firebrand", [
+            "<em>Chavālāta</em> is the brand used to light a funeral pyre &mdash; a piece of wood "
+            "burning at both ends and smeared with dung in the middle. It cannot be used as timber "
+            "in the village or in the wilderness.",
+            "The image is precise about a specific kind of uselessness. The wood is not merely "
+            "unused; it has been rendered unusable at both ends and fouled in between. There is "
+            "nothing left of it that anyone could want.",
+            "That is the person who practises for neither. Not wicked, not dangerous &mdash; useless, "
+            "in both of the places a thing can be useful. The village and the wilderness in this "
+            "literature are the lay world and the monastic one."]),
+        ("The ranking, and why it is uncomfortable", [
+            "<em>The individual who practices to benefit others, but not themselves, is better than "
+            "that. The individual who practices to benefit themselves, but not others, is better than "
+            "both of those.</em>",
+            "Modern readers commonly find this backwards, and the reaction is worth taking seriously "
+            "rather than dismissing. The instinct that helping others should rank above helping "
+            "oneself is not foolish.",
+            "The discourse&rsquo;s logic, which it does not state, has to be reconstructed from the "
+            "next discourse. AN 4.96 defines practising for oneself as removing one&rsquo;s own "
+            "greed, hate, and delusion, and practising for others as encouraging others to remove "
+            "theirs. On those definitions the ranking is less strange: someone who has actually "
+            "removed greed, hate, and delusion has done something real, and someone who exhorts "
+            "others while doing nothing themselves has not.",
+            "It is still a ranking and it should be stated as one. The collection does not say the "
+            "two are equal or that the comparison is meaningless. It says that of the two partial "
+            "cases, the one who has done the work on themselves is the better."]),
+        ("What it does not say", [
+            "Three things, and each is worth stating because each is regularly attributed to this "
+            "discourse.",
+            "It does not say practising for others is bad. It ranks that person second of four, above "
+            "the firebrand.",
+            "It does not say one should practise for oneself alone. The top position is unambiguously "
+            "both, and the ghee simile is spent entirely on that fourth person.",
+            "And it does not say the two are in tension. Nothing in the discourse suggests that "
+            "effort spent on others is taken from oneself. The four cells are a description of what "
+            "occurs, not a budget."]),
+        ("The cream of ghee", [
+            "From a cow comes milk, from milk curds, from curds butter, from butter ghee, and from "
+            "ghee <em>sappimaṇḍa</em>, the cream or essence of ghee &mdash; said to be the best of "
+            "these.",
+            "The simile is one of the canon&rsquo;s most-used and it does something specific: it "
+            "describes a series in which each stage is derived from the one before and the last is "
+            "the finest. Nothing is discarded; the cream of ghee is what the milk becomes.",
+            "Applied here, the person who practises for both is not a different kind of person from "
+            "the other three but the refinement of what they are partially. That is a gentler picture "
+            "than the ranking on its own gives, and the discourse puts the two side by side.",
+            "The same simile is used elsewhere for the Dhamma among teachings and for the arahant "
+            "among persons, and it always carries the same claim: a sequence of derivations ending in "
+            "an essence."]),
+        ("The five superlatives", [
+            "The fourth individual is called <em>foremost, best, chief, highest, and finest</em> "
+            "&mdash; five terms where one would do.",
+            "That piling of superlatives is how this collection marks something it considers "
+            "settled. AN 4.34 did the same with <em>agga</em> repeated through every clause. The "
+            "effect in recitation is emphasis; the effect on the page is a slight excess that a "
+            "reader should recognize as a convention rather than as argument.",
+            "The next four discourses &mdash; AN 4.96 through AN 4.99 &mdash; take these same four "
+            "individuals and define them four different ways, exactly as AN 4.87 through AN 4.90 did "
+            "with the four ascetics. This chapter and the last are the collection&rsquo;s two "
+            "clearest demonstrations of that method."]),
+    ],
+    terms=[
+        ("chavālāta",
+         "&ldquo;firebrand&rdquo; &mdash; the brand for lighting a funeral pyre, burning at both ends "
+         "and fouled in the middle; useless in village and wilderness alike."),
+        ("attahita / parahita",
+         "&ldquo;one&rsquo;s own benefit&rdquo; and &ldquo;the benefit of others&rdquo; &mdash; the "
+         "two variables of the grid."),
+        ("sappimaṇḍa",
+         "&ldquo;cream of ghee&rdquo; &mdash; the last of a series of derivations from milk, and the "
+         "canon&rsquo;s standard image for an essence."),
+        ("agga seṭṭha pāmokkha uttama pavara",
+         "&ldquo;foremost, best, chief, highest, finest&rdquo; &mdash; five superlatives, a "
+         "convention of emphasis rather than an argument."),
+        ("gāma / arañña",
+         "&ldquo;village&rdquo; and &ldquo;wilderness&rdquo; &mdash; the two places a thing can be "
+         "useful; in this literature, the lay world and the monastic one."),
+    ],
+    text_intro=(
+        "The discourse in full: the four individuals, the firebrand, the ranking, and the ghee. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.95:1.1-1.6"),
+        ("h3", "The firebrand"),
+        ("p", "&sect;2", "an4.95:2.1-2.2"),
+        ("h3", "The ranking"),
+        ("p", "&sect;3", "an4.95:3.1-3.3"),
+        ("h3", "The cream of ghee"),
+        ("p", "&sect;4", "an4.95:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What are the four individuals?",
+         "opts": [
+             "The four ascetics",
+             "Those who practise to benefit neither, others only, themselves only, and both",
+             "The four assemblies",
+             "Titan and god in four combinations"],
+         "correct": 1,
+         "expl": "Ranked explicitly by the discourse."},
+        {"q": "What is a <em>chavālāta</em>?",
+         "opts": [
+             "A torch",
+             "The brand used to light a funeral pyre &mdash; burning at both ends and smeared with dung in the middle",
+             "A cooking fire",
+             "A lamp"],
+         "correct": 1,
+         "expl": "Unusable as timber in either the village or the wilderness."},
+        {"q": "What kind of uselessness does the simile describe?",
+         "opts": [
+             "Being unused",
+             "Being rendered unusable at both ends and fouled in between &mdash; nothing left that anyone could want",
+             "Being dangerous",
+             "Being too small"],
+         "correct": 1,
+         "expl": "Not wicked, not dangerous &mdash; useless."},
+        {"q": "How does the discourse rank the two partial cases?",
+         "opts": [
+             "Practising for others above practising for oneself",
+             "Practising for oneself alone above practising for others alone",
+             "Equal",
+             "It does not rank them"],
+         "correct": 1,
+         "expl": "Stated without hedging."},
+        {"q": "How does the guide reconstruct the logic?",
+         "opts": [
+             "From the commentary",
+             "From AN 4.96, where practising for oneself is removing one&rsquo;s own greed, hate, and delusion, and for others is encouraging others to remove theirs",
+             "From the ghee simile",
+             "It does not attempt to"],
+         "correct": 1,
+         "expl": "On those definitions, someone who exhorts others while doing nothing themselves has not done something real."},
+        {"q": "Does the discourse say practising for others is bad?",
+         "opts": [
+             "Yes",
+             "No &mdash; it ranks that person second of four, above the firebrand",
+             "It does not address it",
+             "Only for monastics"],
+         "correct": 1,
+         "expl": "One of three things regularly attributed to this discourse that it does not say."},
+        {"q": "Does it recommend practising for oneself alone?",
+         "opts": [
+             "Yes",
+             "No &mdash; the top position is unambiguously both, and the ghee simile is spent entirely on the fourth person",
+             "For monastics only",
+             "It is silent"],
+         "correct": 1,
+         "expl": "The third position is a ranking of a partial case, not a recommendation."},
+        {"q": "What does the ghee simile describe?",
+         "opts": [
+             "A hierarchy of persons",
+             "A series in which each stage is derived from the one before and the last is the finest &mdash; nothing is discarded",
+             "A process of purification by removal",
+             "The four stages of the path"],
+         "correct": 1,
+         "expl": "The cream of ghee is what the milk becomes."},
+        {"q": "What gentler picture does that give?",
+         "opts": [
+             "That the ranking is wrong",
+             "That the person who practises for both is not a different kind of person but the refinement of what the others are partially",
+             "That all four are equal",
+             "That the firebrand can be reused"],
+         "correct": 1,
+         "expl": "The discourse puts the ranking and the simile side by side."},
+        {"q": "What does the piling of five superlatives indicate?",
+         "opts": [
+             "Five different qualities",
+             "A convention of emphasis marking something the collection considers settled &mdash; not an argument",
+             "A later addition",
+             "Five stages"],
+         "correct": 1,
+         "expl": "AN 4.34 did the same with <em>agga</em> repeated through every clause."},
+    ],
+    marginalia=[
+        ("The ranking", [
+            "4 &middot; neither",
+            "3 &middot; others only",
+            "2 &middot; oneself only",
+            "1 &middot; both",
+        ]),
+        ("The firebrand", [
+            "burning at both ends",
+            "fouled in the middle",
+            "&mdash; no use anywhere",
+        ]),
+        ("The ghee", [
+            "milk &rarr; curds &rarr; butter",
+            "&rarr; ghee &rarr; cream",
+            "&mdash; nothing discarded",
+        ]),
+        ("Cross-references", [
+            "AN 4.96 &middot; next: the same four defined",
+            "AN 4.34 &middot; the same piling of superlatives",
+            "AN 4.87 &middot; the other four-definition group",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.95/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.96.html">AN 4.96 &middot; Removing Greed</a> &mdash; next in this series, and '
+        "the definitions that make the ranking intelligible.",
+        '<a href="an-4.87.html">AN 4.87 &middot; The Son</a> &mdash; the other place in the Fours '
+        "where one set of four titles is defined four ways.",
+        '<a href="an-4.34.html">AN 4.34 &middot; The Best Kinds of Confidence</a> &mdash; on the '
+        "collection&rsquo;s conventions of superlative.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.96 — Rāgavinayasutta
+# --------------------------------------------------------------------------- #
+page(
+    96, "Rāgavinaya", "Removing Greed",
+    vagga=VAGGA_10,
+    meta_title="AN 4.96 — Removing Greed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Rāgavinayasutta — the four "
+        "who practise for their own and others' benefit, defined by removing greed, hate, and "
+        "delusion and encouraging others to do the same. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_10),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.95&rsquo;s four individuals, each defined"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "As with AN 4.95; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and it supplies what "
+                       "AN 4.95 left unstated"),
+    ],
+    why=(
+        "The definitions AN 4.95 did not give. Practising for one&rsquo;s own benefit is removing "
+        "one&rsquo;s own greed, hate, and delusion. Practising for others&rsquo; benefit is "
+        "encouraging others to remove theirs. Once the two are stated that plainly, the previous "
+        "discourse&rsquo;s ranking stops being strange."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Benefiting oneself is removing one&rsquo;s own greed, hate, and delusion; benefiting "
+            "others is encouraging them to remove theirs."]),
+        ("The two definitions", [
+            "<em>Attahitāya paṭipanno</em> is defined as practising for the removal of one&rsquo;s "
+            "own <em>rāga, dosa, moha</em> &mdash; greed, hate, delusion, the three unwholesome "
+            "roots.",
+            "<em>Parahitāya paṭipanno</em> is defined as encouraging others to remove theirs. The "
+            "verb is <em>samādapeti</em>, to encourage or instigate &mdash; one of the four verbs of "
+            "good Dhamma teaching from AN 4.48.",
+            "Note the asymmetry built into the definitions. One&rsquo;s own removal is something one "
+            "does; another&rsquo;s removal is something one <em>encourages</em>. Nobody removes "
+            "anyone else&rsquo;s greed, hate, or delusion for them, and the definitions are careful "
+            "about it."]),
+        ("Why the ranking follows", [
+            "AN 4.95 ranked practising for oneself alone above practising for others alone, and this "
+            "discourse makes that intelligible.",
+            "The person in the third cell has removed greed, hate, and delusion in the only case where "
+            "they can do it directly. The person in the second cell has encouraged others to do "
+            "something they have not done, and encouragement is the whole of what they have "
+            "contributed.",
+            "Put that way the ranking is not a claim that others matter less. It is a claim about "
+            "what has actually been accomplished. The first person has changed something; the second "
+            "has recommended a change.",
+            "It is also worth noticing what the ranking does not depend on: nothing here says the "
+            "encouragement fails, or that people cannot be helped by someone who has not done the "
+            "work. The claim is narrower &mdash; that of the two, the one who has done it has done "
+            "more."]),
+        ("The asymmetry and its consequence", [
+            "Because removal is first-person and encouragement is second, the top cell is not simply "
+            "twice the work of the others. It is doing the thing and recommending it, which are "
+            "different actions with different objects.",
+            "That structure recurs in the next three discourses. AN 4.97 will define the pair as "
+            "being quick-witted about the teachings against being a good speaker; AN 4.99 as keeping "
+            "the precepts against encouraging others to keep them.",
+            "In every version the self side is an accomplishment and the other side is a "
+            "transmission. The collection is consistent about this: one cannot practise for another "
+            "person, only tell them about it."]),
+        ("What this makes of teaching", [
+            "The definitions have an uncomfortable implication for anyone whose role is instruction, "
+            "and it is better to state it than to leave it implied.",
+            "A teacher who instructs others in removing greed, hate, and delusion, and does not "
+            "remove their own, is in the second cell &mdash; ranked third of four. The collection "
+            "does not exempt the professionally religious from the ranking, and AN 4.68 on Devadatta "
+            "and AN 4.26 on the deceivers both make the same point in other registers.",
+            "The corresponding reassurance is in the fourth cell, and it is worth having. Doing the "
+            "work oneself and encouraging others is the top position &mdash; not doing the work in "
+            "seclusion and keeping quiet. The collection wants both, and says so."]),
+        ("The four discourses that follow", [
+            "AN 4.96 through AN 4.99 give the same four individuals four sets of definitions, and "
+            "AN 4.98 gives no definitions at all.",
+            "This one defines by the three roots. AN 4.97 defines by capacity &mdash; understanding "
+            "quickly and speaking well. AN 4.98 is the bare statement. AN 4.99 defines by the five "
+            "precepts.",
+            "The variation is the same exercise as AN 4.87&ndash;4.90 in the previous chapter, and it "
+            "carries the same lesson: the framework is the durable thing, and it can be filled with "
+            "attainment, capacity, or conduct as the occasion requires."]),
+    ],
+    terms=[
+        ("attahita / parahita",
+         "&ldquo;one&rsquo;s own benefit&rdquo; and &ldquo;others&rsquo; benefit&rdquo; &mdash; "
+         "defined here as removal and as encouragement respectively."),
+        ("rāga dosa moha",
+         "greed, hate, delusion &mdash; the three unwholesome roots, and what is removed in the "
+         "self-directed definition."),
+        ("samādapeti",
+         "&ldquo;encourages, instigates&rdquo; &mdash; one of the four verbs of good Dhamma teaching "
+         "from AN 4.48; the whole of what the other-directed practice consists of."),
+        ("paṭipanna",
+         "&ldquo;practising, having entered on&rdquo; &mdash; the participle both halves share, "
+         "marking these as courses of action rather than states."),
+        ("vinaya",
+         "&ldquo;removal, discipline&rdquo; &mdash; in the title <em>rāgavinaya</em>, the removing of "
+         "greed; the same word as the monastic code, in its root sense."),
+    ],
+    text_intro=(
+        "The discourse in full: the four individuals, each defined. The gaps are the Pāli&rsquo;s own "
+        "abbreviation. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.96:1.1-1.6"),
+        ("h3", "For themselves, not others"),
+        ("p", "&sect;2", "an4.96:2.1-2.5"),
+        ("h3", "For others, not themselves"),
+        ("p", "&sect;3", "an4.96:3.1-3.5"),
+        ("h3", "For neither"),
+        ("p", "&sect;4", "an4.96:4.1-4.5"),
+        ("h3", "For both"),
+        ("p", "&sect;5", "an4.96:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "How is practising for one&rsquo;s own benefit defined?",
+         "opts": [
+             "By meditation",
+             "By practising to remove one&rsquo;s own greed, hate, and delusion",
+             "By keeping the precepts",
+             "By study"],
+         "correct": 1,
+         "expl": "The three unwholesome roots."},
+        {"q": "How is practising for others&rsquo; benefit defined?",
+         "opts": [
+             "By removing their greed, hate, and delusion",
+             "By encouraging others to remove theirs",
+             "By giving to them",
+             "By teaching the discourses"],
+         "correct": 1,
+         "expl": "The verb is <em>samādapeti</em>, to encourage."},
+        {"q": "What asymmetry is built into the definitions?",
+         "opts": [
+             "None",
+             "One&rsquo;s own removal is something one does; another&rsquo;s removal is something one encourages &mdash; nobody removes anyone else&rsquo;s roots for them",
+             "The self side is easier",
+             "The other side is longer"],
+         "correct": 1,
+         "expl": "The definitions are careful about it."},
+        {"q": "Why does AN 4.95&rsquo;s ranking follow from these definitions?",
+         "opts": [
+             "Because others matter less",
+             "Because the third-cell person has removed the roots in the only case where they can do it directly, and the second-cell person has recommended a change without making one",
+             "Because encouragement fails",
+             "Because self-benefit is easier"],
+         "correct": 1,
+         "expl": "A claim about what has actually been accomplished."},
+        {"q": "What does the ranking <em>not</em> depend on?",
+         "opts": [
+             "The definitions",
+             "Any claim that the encouragement fails, or that people cannot be helped by someone who has not done the work",
+             "The three roots",
+             "The order of the cells"],
+         "correct": 1,
+         "expl": "The claim is narrower: of the two, the one who has done it has done more."},
+        {"q": "Why is the top cell not simply twice the work?",
+         "opts": [
+             "It is easier",
+             "Because doing the thing and recommending it are different actions with different objects",
+             "Because one implies the other",
+             "Because the discourse says so"],
+         "correct": 1,
+         "expl": "Removal is first-person and encouragement is second."},
+        {"q": "What structure recurs in the next discourses?",
+         "opts": [
+             "The similes",
+             "The self side is an accomplishment and the other side a transmission &mdash; one cannot practise for another person, only tell them about it",
+             "The rankings",
+             "The verses"],
+         "correct": 1,
+         "expl": "Consistent across AN 4.97 and AN 4.99."},
+        {"q": "What uncomfortable implication does the guide state?",
+         "opts": [
+             "That teaching is forbidden",
+             "That a teacher who instructs others in removing the roots and does not remove their own is in the second cell &mdash; ranked third of four",
+             "That teachers must be arahants",
+             "That instruction is useless"],
+         "correct": 1,
+         "expl": "The collection does not exempt the professionally religious from the ranking."},
+        {"q": "What is the corresponding reassurance?",
+         "opts": [
+             "That the ranking is provisional",
+             "That the top position is doing the work <em>and</em> encouraging others &mdash; not doing it in seclusion and keeping quiet",
+             "That teachers rank highest",
+             "That silence is safest"],
+         "correct": 1,
+         "expl": "The collection wants both, and says so."},
+        {"q": "How do AN 4.96 through AN 4.99 differ?",
+         "opts": [
+             "In audience",
+             "This defines by the three roots; AN 4.97 by capacity; AN 4.98 gives no definitions; AN 4.99 by the five precepts",
+             "In length only",
+             "In the individuals named"],
+         "correct": 1,
+         "expl": "The same exercise as AN 4.87&ndash;4.90."},
+    ],
+    marginalia=[
+        ("Two definitions", [
+            "self &middot; remove the roots",
+            "others &middot; encourage removal",
+            "&mdash; and the asymmetry is real",
+        ]),
+        ("Why the ranking", [
+            "one has changed something",
+            "one has recommended a change",
+            "&mdash; not: others matter less",
+        ]),
+        ("The implication", [
+            "instruct without doing",
+            "&rarr; third of four",
+            "&mdash; no exemption for teachers",
+        ]),
+        ("Cross-references", [
+            "AN 4.95 &middot; the ranking",
+            "AN 4.48 &middot; the verbs of teaching",
+            "AN 4.97 &middot; next: the same four by capacity",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.96/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.95.html">AN 4.95 &middot; A Firebrand</a> &mdash; the ranking these '
+        "definitions make intelligible.",
+        '<a href="an-4.97.html">AN 4.97 &middot; Quick-witted</a> &mdash; next in this series.',
+        '<a href="an-4.26.html">AN 4.26 &middot; Deceivers</a> &mdash; the same point about the '
+        "professionally religious, in another register.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.97 — Khippanisantisutta
+# --------------------------------------------------------------------------- #
+page(
+    97, "Khippanisanti", "Quick-witted",
+    vagga=VAGGA_10,
+    meta_title="AN 4.97 — Quick-witted | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Khippanisantisutta — the "
+        "four who practise for their own and others' benefit, defined by understanding quickly and "
+        "by speaking well. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_10),
+        ("Speakers", SPEAKER),
+        ("Form", "The same four individuals defined by two capacities"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "As with AN 4.95 and 4.96; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the version that makes the grid "
+                       "about capacity rather than merit"),
+    ],
+    why=(
+        "The same four, defined this time by two capacities: understanding the teachings quickly "
+        "and being able to say them well. That changes what the grid is about. Removing greed is "
+        "something a person chooses; being a good speaker is largely something they are, and the "
+        "discourse ranks people by it anyway."),
+    guide=[
+        ("The teaching in one sentence", [
+            "One benefits oneself by grasping and practising the teaching, and others by being able "
+            "to convey it &mdash; and the two are separate capacities."]),
+        ("The self side", [
+            "Four steps, and they form a chain: <em>quick-witted when it comes to skillful "
+            "teachings</em>; <em>readily memorize the teachings they&rsquo;ve heard</em>; "
+            "<em>examine the meaning of teachings they&rsquo;ve memorized</em>; and, understanding "
+            "the meaning and the teaching, <em>practice in line with the teaching</em>.",
+            "Grasp, retain, examine, apply. That is the whole cycle of learning as this collection "
+            "describes it, and it ends in practice, which is where AN 4.6 also put the test of "
+            "learning.",
+            "<em>Khippanisanti</em>, quick-witted, is literally quick to attend or notice. It "
+            "describes speed of uptake, which is a capacity rather than an achievement &mdash; and "
+            "the discourse makes it the first link in the self-benefit chain without comment."]),
+        ("The other side", [
+            "<em>They&rsquo;re a good speaker and enunciate well. Their voice is polished, clear, "
+            "articulate, and expresses the meaning. They educate, encourage, fire up, and inspire "
+            "their spiritual companions.</em>",
+            "This is AN 4.48&rsquo;s material, and the vocabulary is the same: the six qualities of "
+            "speech that the Buddha praised in Visākha, and the four-verb formula for good Dhamma "
+            "teaching.",
+            "So the other-benefit side here is not encouragement in general but competent public "
+            "teaching, including the physical clarity of the delivery. That is narrower than "
+            "AN 4.96&rsquo;s definition and it is more demanding in an unexpected direction."]),
+        ("What this version changes", [
+            "AN 4.96 defined both sides by what a person does about greed, hate, and delusion. That "
+            "is a moral variable and it is under the person&rsquo;s control.",
+            "This defines both sides by capacity: how quickly one grasps things, and how well one "
+            "speaks. Neither is fully chosen. A person who is slow to understand and does not "
+            "enunciate well is placed in the bottom cell by this discourse, and there is nothing "
+            "obviously culpable about either condition.",
+            "It is worth saying plainly that this is a different kind of grid, and that the "
+            "collection does not flag the change. The four labels are the same and the criterion is "
+            "not.",
+            "The most defensible reading is that the discourse is describing usefulness rather than "
+            "merit. Someone who understands quickly and speaks well is more use to a community than "
+            "someone who does neither, and that is true without being a judgment about their "
+            "character. AN 4.95&rsquo;s firebrand simile pointed the same way: it described "
+            "uselessness, not wickedness."]),
+        ("The one who benefits others but not themselves", [
+            "This cell is the interesting one in this version, and it names a recognizable figure: "
+            "someone who is not quick to understand, does not retain or examine well, and does not "
+            "practise accordingly &mdash; but is an excellent speaker who educates, encourages, fires "
+            "up, and inspires.",
+            "That person is genuinely useful and the discourse says so, ranking them above the bottom "
+            "cell. It also places them below the person who understands and practises but cannot "
+            "speak.",
+            "AN 4.48 said that an astute person among fools is not known unless he speaks, and that "
+            "words well spoken are the banner of the seers. This discourse says the banner can be "
+            "held by someone who has not made the journey. Both are true and the collection keeps "
+            "both."]),
+        ("Reading the four versions together", [
+            "With AN 4.96 and this in place, the pattern of the group is visible. The same four cells "
+            "are being filled with a moral variable (4.96), a capacity variable (4.97), nothing at "
+            "all (4.98), and a conduct variable (4.99).",
+            "What holds across all four is the structure: two independent axes, four combinations, "
+            "with both-together at the top and neither at the bottom. What varies is what the axes "
+            "measure.",
+            "For a reader that means the framework is worth learning and no single version is the "
+            "definition &mdash; which is exactly the conclusion the previous chapter&rsquo;s four "
+            "ascetic discourses arrived at. The Fours make this point twice in a row, and it is "
+            "probably the most useful thing a reader takes from either chapter."]),
+    ],
+    terms=[
+        ("khippanisanti",
+         "&ldquo;quick-witted&rdquo;, literally quick to attend or notice &mdash; a capacity rather "
+         "than an achievement."),
+        ("dhātā",
+         "&ldquo;memorized, borne in mind&rdquo; &mdash; the second link in the chain of grasp, "
+         "retain, examine, apply."),
+        ("kalyāṇavākkaraṇa",
+         "&ldquo;a good speaker&rdquo; &mdash; with the six qualities of speech carried over from "
+         "AN 4.48."),
+        ("sandasseti samādapeti samuttejeti sampahaṁseti",
+         "&ldquo;educates, encourages, fires up, inspires&rdquo; &mdash; the four-verb formula for "
+         "good Dhamma teaching."),
+        ("attahita / parahita",
+         "&ldquo;one&rsquo;s own benefit&rdquo; and &ldquo;others&rsquo; benefit&rdquo; &mdash; "
+         "defined here by capacity rather than by moral choice."),
+    ],
+    text_intro=(
+        "The discourse in full: the four individuals, each defined. The ellipses are the "
+        "Pāli&rsquo;s own abbreviation. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.97:1.1-1.6"),
+        ("h3", "For themselves, not others"),
+        ("p", "&sect;2", "an4.97:2.1-2.4"),
+        ("h3", "For others, not themselves"),
+        ("p", "&sect;3", "an4.97:3.1-3.4"),
+        ("h3", "For neither"),
+        ("p", "&sect;4", "an4.97:4.1-4.4"),
+        ("h3", "For both"),
+        ("p", "&sect;5", "an4.97:5.1-5.5"),
+    ],
+    quiz=[
+        {"q": "What four steps make up the self-benefit side?",
+         "opts": [
+             "Faith, ethics, immersion, wisdom",
+             "Grasping quickly, memorizing, examining the meaning, and practising in line with the teaching",
+             "Hearing, reciting, teaching, and writing",
+             "Giving, ethics, meditation, and wisdom"],
+         "correct": 1,
+         "expl": "The whole cycle of learning, ending in practice."},
+        {"q": "What does <em>khippanisanti</em> literally mean?",
+         "opts": [
+             "Wise",
+             "Quick to attend or notice &mdash; speed of uptake",
+             "Well spoken",
+             "Diligent"],
+         "correct": 1,
+         "expl": "A capacity rather than an achievement."},
+        {"q": "How is the other-benefit side defined?",
+         "opts": [
+             "By encouraging others to remove greed",
+             "By being a good speaker who enunciates well, expresses the meaning, and educates, encourages, fires up, and inspires companions",
+             "By giving",
+             "By keeping precepts"],
+         "correct": 1,
+         "expl": "AN 4.48&rsquo;s material, including the physical clarity of the delivery."},
+        {"q": "What kind of variable does AN 4.96 use?",
+         "opts": [
+             "Capacity",
+             "A moral one, under the person&rsquo;s control &mdash; what they do about greed, hate, and delusion",
+             "Conduct",
+             "Attainment"],
+         "correct": 1,
+         "expl": "Against this discourse&rsquo;s capacity variable."},
+        {"q": "What problem does the change of variable raise?",
+         "opts": [
+             "None",
+             "A person slow to understand and unable to enunciate is placed in the bottom cell, and there is nothing obviously culpable about either condition",
+             "The cells no longer fit",
+             "The ranking reverses"],
+         "correct": 1,
+         "expl": "The four labels are the same and the criterion is not, and the collection does not flag the change."},
+        {"q": "What reading does the guide find most defensible?",
+         "opts": [
+             "That capacity is moral",
+             "That the discourse is describing usefulness rather than merit &mdash; as AN 4.95&rsquo;s firebrand described uselessness, not wickedness",
+             "That the discourse is corrupt",
+             "That capacity can be chosen"],
+         "correct": 1,
+         "expl": "True without being a judgment about character."},
+        {"q": "What figure does the second cell name in this version?",
+         "opts": [
+             "A silent practitioner",
+             "Someone who does not grasp, retain, or practise well but is an excellent speaker who inspires",
+             "A donor",
+             "A beginner"],
+         "correct": 1,
+         "expl": "Genuinely useful, and the discourse says so."},
+        {"q": "How does that sit with AN 4.48?",
+         "opts": [
+             "It contradicts it",
+             "AN 4.48 said words well spoken are the banner of the seers; this says the banner can be held by someone who has not made the journey &mdash; and the collection keeps both",
+             "It replaces it",
+             "It restricts it to monastics"],
+         "correct": 1,
+         "expl": "Both are true."},
+        {"q": "What holds across all four versions of this grid?",
+         "opts": [
+             "The definitions",
+             "The structure &mdash; two independent axes, four combinations, both-together at the top and neither at the bottom",
+             "The similes",
+             "The audience"],
+         "correct": 1,
+         "expl": "What varies is what the axes measure."},
+        {"q": "What conclusion does the guide draw, and where has it appeared before?",
+         "opts": [
+             "That the versions contradict &mdash; as in AN 4.80",
+             "That the framework is worth learning and no single version is the definition &mdash; the same conclusion as the four ascetic discourses of the previous chapter",
+             "That one version should be preferred",
+             "That the group is late"],
+         "correct": 1,
+         "expl": "The Fours make this point twice in a row."},
+    ],
+    marginalia=[
+        ("The self side", [
+            "grasp quickly",
+            "retain",
+            "examine",
+            "practise accordingly",
+        ]),
+        ("The other side", [
+            "polished, clear, articulate",
+            "expressing the meaning",
+            "&mdash; and inspiring",
+        ]),
+        ("The change", [
+            "4.96 &middot; moral variable",
+            "4.97 &middot; capacity",
+            "&mdash; usefulness, not merit",
+        ]),
+        ("Cross-references", [
+            "AN 4.48 &middot; the banner of the seers",
+            "AN 4.96 &middot; the moral version",
+            "AN 4.98 &middot; next: the bare statement",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.97/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.48.html">AN 4.48 &middot; With Visākha, Pañcāli&rsquo;s Son</a> &mdash; where '
+        "the qualities of good speech are set out and praised.",
+        '<a href="an-4.96.html">AN 4.96 &middot; Removing Greed</a> &mdash; the same four defined by '
+        "a moral variable.",
+        '<a href="an-4.98.html">AN 4.98 &middot; To Benefit Oneself</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.98 — Attahitasutta
+# --------------------------------------------------------------------------- #
+page(
+    98, "Attahita", "To Benefit Oneself",
+    vagga=VAGGA_10,
+    meta_title="AN 4.98 — To Benefit Oneself | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Attahitasutta — the four "
+        "who practise for their own and others' benefit, stated bare, with no definitions. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_10),
+        ("Speakers", SPEAKER),
+        ("Form", "The four individuals named, and nothing else"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "As with AN 4.95 through 4.97; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the bare frame, which is the "
+                       "chapter&rsquo;s point"),
+    ],
+    why=(
+        "The four individuals with no definitions at all: one who practises to benefit themselves "
+        "but not others, one others but not themselves, one neither, one both. Coming after three "
+        "discourses that filled the same four cells three different ways, the bare version is not a "
+        "gap. It is the frame on its own, which is what the group has been demonstrating."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four combinations of self-benefit and other-benefit, named and left open."]),
+        ("Why the bare version is placed here", [
+            "The order of the group is: firebrand and ranking (4.95), definition by the three roots "
+            "(4.96), definition by capacity (4.97), bare (4.98), definition by the precepts (4.99).",
+            "The bare statement sits fourth of five, not first and not last, which is worth noticing. "
+            "If it were an introduction it would come first; if it were a summary it would come last. "
+            "Placed in the middle, it functions as the frame being shown between two of its "
+            "fillings.",
+            "That may be accident of compilation. But the effect on a reader working through in order "
+            "is real: having been given two definitions and about to be given a third, one encounters "
+            "the four cells with nothing in them and can see that the cells are the constant."]),
+        ("What a frame is good for", [
+            "The four cells describe any pair of an activity done for oneself and the same activity "
+            "extended to others. The group has already applied it to removing the unwholesome roots, "
+            "to understanding and communicating the teaching, and will apply it to the precepts.",
+            "Nothing restricts it to those. Any practice that can be both undertaken and recommended "
+            "fits the grid, and the four cells will always be occupied by someone.",
+            "That generality is why the collection bothers to state the frame bare. A definition "
+            "teaches one application; the frame teaches the operation."]),
+        ("The two axes", [
+            "It is worth restating what the two axes are, since without definitions the discourse "
+            "does not.",
+            "The first is whether a person does the thing. The second is whether they get others to "
+            "do it. They are independent, which is the only substantive claim a bare grid can make "
+            "&mdash; and it is not trivial, since a good deal of ordinary thinking assumes that "
+            "someone who advocates a practice does it, and that someone who does it advocates it.",
+            "Both assumptions are false and the grid says so by having four cells rather than two."]),
+        ("The ranking, carried over", [
+            "AN 4.98 gives no ranking, and AN 4.95&rsquo;s ranking is not repeated. A reader coming "
+            "to this discourse alone would have four cells in the order self-only, others-only, "
+            "neither, both &mdash; which is the order used in AN 4.96, 4.97, and 4.99 as well.",
+            "Note that this order is not AN 4.95&rsquo;s. That discourse listed neither, others-only, "
+            "self-only, both, and then ranked them from worst to best in that same sequence.",
+            "The four later discourses list self-only first. Since they give no ranking, the change "
+            "is presumably expositional &mdash; the self side is defined first because the other side "
+            "is defined in terms of it. A reader should not read the reordering as a revision of the "
+            "ranking."]),
+        ("Reading a discourse that says nothing", [
+            "It is fair to ask what a study guide can honestly do with four lines that define "
+            "nothing.",
+            "What it can do is what this page has done: place the discourse in its group, say what "
+            "the frame is for, restate the axes the bare version leaves implicit, and note the "
+            "ordering.",
+            "What it should not do is invent content. There is no teaching in AN 4.98 that is not in "
+            "AN 4.95 through AN 4.99 collectively, and a guide that manufactured one would be "
+            "teaching a reader to find significance where the text has left a placeholder. The "
+            "Aṅguttara contains a good many of these, and recognizing them is part of reading it."]),
+    ],
+    terms=[
+        ("attahita",
+         "&ldquo;one&rsquo;s own benefit&rdquo; &mdash; the first axis, and the title of this bare "
+         "version."),
+        ("parahita",
+         "&ldquo;the benefit of others&rdquo; &mdash; the second axis, independent of the first."),
+        ("paṭipanna",
+         "&ldquo;practising&rdquo; &mdash; the participle used for all four, marking these as "
+         "courses of action."),
+        ("puggala",
+         "&ldquo;individual&rdquo; &mdash; the unit the grid sorts; the same word used in every "
+         "four-person scheme in the collection."),
+        ("peyyāla",
+         "the collection&rsquo;s placeholder convention &mdash; recognizing where a discourse is one "
+         "is part of reading the Aṅguttara."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.98:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What does AN 4.98 contain?",
+         "opts": [
+             "A new definition",
+             "The four individuals named, with no definitions at all",
+             "A simile",
+             "A ranking"],
+         "correct": 1,
+         "expl": "The frame on its own."},
+        {"q": "Where does it sit in its group of five?",
+         "opts": [
+             "First",
+             "Fourth &mdash; not an introduction and not a summary, but the frame shown between two of its fillings",
+             "Last",
+             "Second"],
+         "correct": 1,
+         "expl": "The effect on a reader working through in order is that the cells are visibly the constant."},
+        {"q": "What does the frame describe?",
+         "opts": [
+             "Only the removal of greed",
+             "Any pair of an activity done for oneself and the same activity extended to others",
+             "Only teaching",
+             "Only the precepts"],
+         "correct": 1,
+         "expl": "Nothing restricts it to the group&rsquo;s three applications."},
+        {"q": "Why does the collection bother to state a frame bare?",
+         "opts": [
+             "For recitation length",
+             "Because a definition teaches one application and the frame teaches the operation",
+             "To fill a chapter",
+             "Because the definitions were lost"],
+         "correct": 1,
+         "expl": "The four cells will always be occupied by someone."},
+        {"q": "What is the only substantive claim a bare grid can make?",
+         "opts": [
+             "A ranking",
+             "That the two axes are independent",
+             "A definition",
+             "A consequence"],
+         "correct": 1,
+         "expl": "Which is not trivial."},
+        {"q": "What ordinary assumptions does that contradict?",
+         "opts": [
+             "That practice is difficult",
+             "That someone who advocates a practice does it, and that someone who does it advocates it",
+             "That teaching is valuable",
+             "That the goal is attainable"],
+         "correct": 1,
+         "expl": "Both are false, and the grid says so by having four cells rather than two."},
+        {"q": "How does the order of cells here differ from AN 4.95&rsquo;s?",
+         "opts": [
+             "It does not",
+             "AN 4.95 listed neither, others-only, self-only, both; this and the other three list self-only first",
+             "This reverses AN 4.95 exactly",
+             "AN 4.95 had a different number of cells"],
+         "correct": 1,
+         "expl": "AN 4.95 ranked from worst to best in its own sequence."},
+        {"q": "How does the guide account for the reordering?",
+         "opts": [
+             "As a revision of the ranking",
+             "As expositional &mdash; the self side is defined first because the other side is defined in terms of it",
+             "As a scribal error",
+             "As a doctrinal shift"],
+         "correct": 1,
+         "expl": "A reader should not read it as a revision."},
+        {"q": "What does the guide say a study guide can honestly do with such a discourse?",
+         "opts": [
+             "Skip it",
+             "Place it in its group, say what the frame is for, restate the implicit axes, and note the ordering",
+             "Supply a definition from the commentary",
+             "Treat it as a summary"],
+         "correct": 1,
+         "expl": "What this page has done."},
+        {"q": "What should it not do?",
+         "opts": [
+             "Mention the other discourses",
+             "Invent content &mdash; teaching a reader to find significance where the text has left a placeholder",
+             "Name the axes",
+             "Discuss the ordering"],
+         "correct": 1,
+         "expl": "Recognizing placeholders is part of reading the Aṅguttara."},
+    ],
+    marginalia=[
+        ("Four cells", [
+            "self only",
+            "others only",
+            "neither",
+            "both",
+        ]),
+        ("The group of five", [
+            "4.95 &middot; ranked, with similes",
+            "4.96 &middot; the three roots",
+            "4.97 &middot; capacity",
+            "4.98 &middot; bare",
+            "4.99 &middot; the precepts",
+        ]),
+        ("The one claim", [
+            "the two axes",
+            "are independent",
+            "&mdash; four cells, not two",
+        ]),
+        ("Cross-references", [
+            "AN 4.95 &middot; the ranking and the similes",
+            "AN 4.97 &middot; the capacity version",
+            "AN 4.99 &middot; next: the precepts version",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.98/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.95.html">AN 4.95 &middot; A Firebrand</a> &mdash; the ranked version, with the '
+        "firebrand and the cream of ghee.",
+        '<a href="an-4.99.html">AN 4.99 &middot; Training Rules</a> &mdash; next in this series.',
+        '<a href="an-4.96.html">AN 4.96 &middot; Removing Greed</a> &mdash; the version that supplies '
+        "the definitions the ranking depends on.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.99 — Sikkhāpadasutta
+# --------------------------------------------------------------------------- #
+page(
+    99, "Sikkhāpada", "Training Rules",
+    vagga=VAGGA_10,
+    meta_title="AN 4.99 — Training Rules | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sikkhāpadasutta — the four "
+        "who practise for their own and others' benefit, defined by the five precepts and by "
+        "encouraging others to keep them. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_10),
+        ("Speakers", SPEAKER),
+        ("Form", "The same four individuals defined by the five precepts"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "As with AN 4.95 through 4.98; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the most concrete of the four "
+                       "definitions, and the one with the sharpest second cell"),
+    ],
+    why=(
+        "The last of the group, and the most concrete: the two axes are keeping the five precepts "
+        "and encouraging others to keep them. The second cell is the memorable one &mdash; a person "
+        "who kills, steals, commits misconduct, lies, and drinks, and tells other people not to. "
+        "The discourse ranks that person above the one who does neither, and does not comment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Keeping the five precepts is benefiting oneself; getting others to keep them is "
+            "benefiting others; and the two occur in all four combinations."]),
+        ("The five precepts as the variable", [
+            "Not killing, not stealing, not committing sexual misconduct, not lying, not consuming "
+            "beer, wine, and liquor intoxicants. The full five, including the fifth, which AN 4.64 "
+            "and AN 4.81 both omitted.",
+            "Its presence here is worth noting. Those two discourses were about courses of action "
+            "with destinations attached, and gave the four that directly harm someone. This is about "
+            "training rules undertaken and recommended, and gives the five that a lay follower takes "
+            "on.",
+            "That difference is consistent across the collection. When the subject is consequence, "
+            "the list is four; when the subject is the training, the list is five. A reader who "
+            "notices lists of four and five precepts alternating has noticed something real."]),
+        ("The second cell", [
+            "<em>It&rsquo;s when an individual kills living creatures, steals, commits sexual "
+            "misconduct, lies, and consumes beer, wine, and liquor intoxicants. But they encourage "
+            "others to not do these things.</em>",
+            "That is one of the more startling sentences in the Fours, and the startling part is that "
+            "the discourse counts it as practising for the benefit of others.",
+            "It is worth taking at face value. The claim is that the encouragement has value "
+            "independent of the encourager. If someone tells another person not to kill and that "
+            "person does not kill, a benefit has occurred, and the discourse credits it to the "
+            "advice.",
+            "That is a coherent position and it is not a comfortable one. It implies that hypocrisy "
+            "is better than silence, at least in this respect, and the collection puts that in the "
+            "third rank rather than the fourth."]),
+        ("Against AN 4.26 and AN 4.96", [
+            "The collection is not of one mind about this figure and the tension is worth mapping.",
+            "AN 4.26 disowned the deceivers and flatterers &mdash; <em>those mendicants are no "
+            "followers of mine</em> &mdash; for faults of self-presentation. AN 4.68 said gain and "
+            "honor destroyed Devadatta. AN 4.96&rsquo;s guide noted that a teacher who instructs "
+            "without doing is ranked third of four.",
+            "This discourse says the same third-of-four thing, and says it about someone whose "
+            "conduct is far worse than any of those. It does not disown them; it ranks them.",
+            "The reconcilable reading is that the collection is answering two different questions. "
+            "Whether such a person is a follower of the Buddha, and whether their advice does anyone "
+            "any good, are separate, and it answers no to the first and yes to the second."]),
+        ("The fourth cell as an ordinary description", [
+            "For all the strangeness of the second cell, the fourth is entirely unremarkable: keeping "
+            "the five precepts and encouraging others to do the same.",
+            "That is a description of an ordinary practising lay follower, and it is the top position "
+            "of this discourse&rsquo;s grid. Not an attainment, not a meditative state, not a "
+            "monastic role &mdash; keeping five commitments and telling other people about them.",
+            "Placed at the end of a chapter that has run through titans, serenity and discernment, "
+            "firebrands, and cream of ghee, that plainness is worth registering. The collection&rsquo;s "
+            "top cell in this version is available to anyone."]),
+        ("Closing the chapter", [
+            "AN 4.100, the last discourse of the Asuravagga, returns to a named person and a "
+            "conversation &mdash; Potaliya the wanderer, on whether it is better to have equanimity "
+            "or to know the time for praise and criticism.",
+            "The chapter as a whole has been made of four-cell grids: the titan grid, the "
+            "serenity-and-discernment grid given three times, and the self-and-other grid given five "
+            "times. Nine of its ten discourses are the same instrument with different contents.",
+            "The tenth breaks the pattern and is the only one with a person in it. That is a common "
+            "shape for these chapters and it is worth expecting: a run of schematic material, then "
+            "one exchange that gives it a face."]),
+    ],
+    terms=[
+        ("sikkhāpada",
+         "&ldquo;training rule&rdquo; &mdash; the five a lay follower undertakes, which is the "
+         "variable in this version."),
+        ("surāmerayamajjapamādaṭṭhāna",
+         "&ldquo;beer, wine, and liquor intoxicants&rdquo; &mdash; the fifth precept, present here "
+         "and absent from AN 4.64 and AN 4.81."),
+        ("samādapeti",
+         "&ldquo;encourages&rdquo; &mdash; the verb of the other-benefit axis throughout this group."),
+        ("veramaṇī",
+         "&ldquo;refraining&rdquo; &mdash; what each precept consists of, and what the self-benefit "
+         "axis measures here."),
+        ("attahita / parahita",
+         "&ldquo;one&rsquo;s own benefit&rdquo; and &ldquo;the benefit of others&rdquo; &mdash; the "
+         "two axes, defined here at their most concrete."),
+    ],
+    text_intro=(
+        "The discourse in full: the four individuals, each defined. The gaps are the Pāli&rsquo;s own "
+        "abbreviation. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.99:1.1-1.6"),
+        ("h3", "For themselves, not others"),
+        ("p", "&sect;2", "an4.99:2.1-2.7"),
+        ("h3", "For others, not themselves"),
+        ("p", "&sect;3", "an4.99:3.1-3.7"),
+        ("h3", "For neither"),
+        ("p", "&sect;4", "an4.99:4.1-4.3"),
+        ("h3", "For both"),
+        ("p", "&sect;5", "an4.99:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What variable defines the two axes here?",
+         "opts": [
+             "The three unwholesome roots",
+             "The five precepts &mdash; keeping them, and encouraging others to keep them",
+             "Capacity to understand and speak",
+             "The four requisites"],
+         "correct": 1,
+         "expl": "The most concrete of the four definitions in the group."},
+        {"q": "What is notable about the fifth precept appearing here?",
+         "opts": [
+             "Nothing",
+             "AN 4.64 and AN 4.81 both omitted it &mdash; when the subject is consequence the list is four, and when the subject is the training it is five",
+             "It is a later addition",
+             "It replaces lying"],
+         "correct": 1,
+         "expl": "A difference consistent across the collection."},
+        {"q": "What does the second cell describe?",
+         "opts": [
+             "A silent practitioner",
+             "Someone who kills, steals, commits misconduct, lies, and drinks &mdash; and encourages others not to",
+             "A teacher of the precepts",
+             "A donor"],
+         "correct": 1,
+         "expl": "Counted as practising for the benefit of others."},
+        {"q": "How does the guide say that should be taken?",
+         "opts": [
+             "As irony",
+             "At face value &mdash; the encouragement has value independent of the encourager, and a benefit occurs if someone acts on it",
+             "As a scribal error",
+             "As a warning only"],
+         "correct": 1,
+         "expl": "A coherent position, and not a comfortable one."},
+        {"q": "What does it imply?",
+         "opts": [
+             "That precepts do not matter",
+             "That hypocrisy is better than silence, at least in this respect &mdash; and the collection puts it in the third rank rather than the fourth",
+             "That advice is worthless",
+             "That conduct is unimportant"],
+         "correct": 1,
+         "expl": "Ranked, not endorsed."},
+        {"q": "What tension does the guide map?",
+         "opts": [
+             "None",
+             "AN 4.26 disowned such figures for faults of self-presentation; this ranks someone whose conduct is far worse without disowning them",
+             "Between prose and verse",
+             "Between lay and monastic"],
+         "correct": 1,
+         "expl": "The collection is not of one mind about this figure."},
+        {"q": "What reconcilable reading does the guide offer?",
+         "opts": [
+             "That AN 4.26 is later",
+             "That the collection answers two different questions &mdash; whether such a person is a follower, and whether their advice does anyone good &mdash; no to the first and yes to the second",
+             "That the cases differ",
+             "That the ranking is provisional"],
+         "correct": 1,
+         "expl": "Separate questions."},
+        {"q": "What does the fourth cell describe?",
+         "opts": [
+             "An arahant",
+             "An ordinary practising lay follower &mdash; keeping five commitments and telling other people about them",
+             "A monastic teacher",
+             "A stream-enterer"],
+         "correct": 1,
+         "expl": "Not an attainment, not a meditative state, not a monastic role."},
+        {"q": "Why does the guide say that plainness is worth registering?",
+         "opts": [
+             "Because it is unusual in the canon",
+             "Because after a chapter of titans, firebrands, and cream of ghee, the top cell in this version is available to anyone",
+             "Because it is easy",
+             "Because it excludes monastics"],
+         "correct": 1,
+         "expl": "The collection&rsquo;s top cell here."},
+        {"q": "What shape does the guide say the chapter has?",
+         "opts": [
+             "Ten unrelated discourses",
+             "Nine four-cell grids and one exchange with a person in it &mdash; a run of schematic material, then one conversation that gives it a face",
+             "Five pairs",
+             "A single argument"],
+         "correct": 1,
+         "expl": "A common shape for these chapters, worth expecting."},
+    ],
+    marginalia=[
+        ("The variable", [
+            "the five precepts",
+            "kept &mdash; self",
+            "encouraged &mdash; others",
+        ]),
+        ("Four and five", [
+            "consequence &rarr; four",
+            "training &rarr; five",
+            "&mdash; consistent across the collection",
+        ]),
+        ("The second cell", [
+            "does all five",
+            "tells others not to",
+            "&mdash; ranked third, not disowned",
+        ]),
+        ("Cross-references", [
+            "AN 4.26 &middot; the disowning",
+            "AN 4.96 &middot; the same grid by the roots",
+            "AN 4.100 &middot; next: with Potaliya",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.99/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.96.html">AN 4.96 &middot; Removing Greed</a> &mdash; the same grid defined by '
+        "the three unwholesome roots.",
+        '<a href="an-4.26.html">AN 4.26 &middot; Deceivers</a> &mdash; where the collection disowns '
+        "the figure this discourse merely ranks.",
+        '<a href="an-4.100.html">AN 4.100 &middot; With Potaliya the Wanderer</a> &mdash; next in '
+        "this series, and the last discourse of the chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.100 — Potaliyasutta
+# --------------------------------------------------------------------------- #
+page(
+    100, "Potaliya", "With Potaliya the Wanderer",
+    vagga=VAGGA_10,
+    meta_title="AN 4.100 — With Potaliya the Wanderer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Potaliyasutta — a wanderer "
+        "says equanimity is best and the Buddha says knowing the time is, and the wanderer changes "
+        "his mind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Potaliya the wanderer comes to the Buddha and the Buddha addresses "
+                    "him first"),
+        ("Speakers", "The Buddha and Potaliya the wanderer"),
+        ("Form", "Four individuals, a question put to the visitor, two answers, and a going for "
+                 "refuge"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Exchanges with wanderers on praise and criticism appear across the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a short conversation that turns "
+                       "on one word"),
+    ],
+    why=(
+        "The Buddha names four kinds of person by whether they criticize and praise when it is "
+        "deserved, and then does something he rarely does: he asks the visitor which is best. "
+        "Potaliya picks the one who does neither, on the grounds that equanimity is best. He is "
+        "told that knowing the time and context is best, and he changes his answer &mdash; and then "
+        "takes refuge."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Withholding both praise and criticism is not equanimity but a failure to know the time."]),
+        ("The four individuals", [
+            "One criticizes those deserving criticism, at the right time, truthfully and correctly, "
+            "but does not praise those deserving praise. One praises but does not criticize. One does "
+            "neither. One does both.",
+            "The qualifiers are attached throughout and they matter: <em>at the right time, "
+            "truthfully and correctly</em>. Nobody in this grid is being inaccurate or ill-timed. The "
+            "variable is only which of the two they do.",
+            "That is a refinement on AN 4.3 and AN 4.83, where the fault was praising and criticizing "
+            "<em>without examining</em>. Here everyone has examined. The question is what they do "
+            "with the result."]),
+        ("The question", [
+            "<em>Of these four individuals, who do you believe to be the finest?</em> The Buddha puts "
+            "the question to Potaliya rather than answering it.",
+            "That is unusual and it is worth registering. AN 4.42 named answering with a "
+            "counter-question as one of the four proper ways to handle a question; here the same "
+            "technique is used to open a conversation rather than to respond to one.",
+            "The effect is that Potaliya has to commit to a position before hearing the "
+            "Buddha&rsquo;s, which is what makes the exchange a real one. He is not being told; he is "
+            "being asked, and then corrected."]),
+        ("Potaliya&rsquo;s answer, and why it is not foolish", [
+            "He picks the one who neither praises nor criticizes, <em>because equanimity is best</em> "
+            "&mdash; <em>upekkhā hi seṭṭhā</em>.",
+            "That is a serious position and it deserves to be treated as one. Equanimity is the "
+            "fourth of the immeasurables and the crown of the list; the canon praises it constantly. "
+            "A wanderer who names it as the highest thing is not making an obvious mistake.",
+            "What he has done is apply a genuine principle to the wrong case. Equanimity in the "
+            "canonical sense is a quality of mind that does not tilt toward like and dislike. "
+            "Declining to say anything about anybody is a behavior, and the two are not the same "
+            "&mdash; a person can be perfectly balanced internally and still say what needs saying.",
+            "That is a mistake made regularly and not only by wanderers. Silence gets read as "
+            "equanimity, and non-involvement as non-attachment."]),
+        ("The correction", [
+            "<em>Understanding of time and context is the best</em> &mdash; <em>kālaññutā hi "
+            "seṭṭhā</em>. Not that equanimity is not good, and not that praise and criticism are "
+            "obligatory. That knowing when is the thing.",
+            "The reply is exactly parallel to Potaliya&rsquo;s in form: X <em>hi seṭṭhā</em>, X is "
+            "best. One word is substituted and the whole position changes.",
+            "<em>Kālaññutā</em> is knowing the time or the occasion, and it appears in the canon as "
+            "one of the qualities of a person worth listening to. What it names is not a rule but a "
+            "capacity &mdash; the ability to tell when a thing should be said, which cannot be "
+            "reduced to a policy in either direction.",
+            "So the fourth individual is best not because they say more but because they are governed "
+            "by the occasion rather than by a standing preference. Both of the middle two have a "
+            "policy &mdash; one always criticizes, one always praises &mdash; and so does Potaliya&rsquo;s "
+            "candidate, whose policy is silence."]),
+        ("The conversion", [
+            "Potaliya immediately repeats the Buddha&rsquo;s answer back as his own, in the same "
+            "words, and then goes for refuge with the standard formula: as if righting the "
+            "overturned, revealing the hidden, pointing out the path to the lost, or lighting a lamp "
+            "in the dark.",
+            "The speed is characteristic of these encounters and a modern reader may find it "
+            "implausible. What can be said is that the canon uses this formula as a marker of a "
+            "conversation having concluded successfully rather than as a report of an inner process, "
+            "and that Potaliya changes his answer before he takes refuge, not after.",
+            "The order matters. He is persuaded of a point, and the refuge follows from the "
+            "persuasion. That is the sequence the collection consistently presents, and it is "
+            "consistent with AN 3.65 and AN 4.25 on not accepting a teaching by authority.",
+            "This closes the Asuravagga, and it closes the first hundred discourses of the Fours."]),
+    ],
+    terms=[
+        ("upekkhā",
+         "&ldquo;equanimity&rdquo; &mdash; the fourth immeasurable and a genuine good; Potaliya "
+         "applies it to the wrong case."),
+        ("kālaññutā",
+         "&ldquo;understanding of time and context&rdquo; &mdash; knowing when a thing should be "
+         "said; a capacity rather than a rule."),
+        ("kālena bhūtaṁ tacchaṁ",
+         "&ldquo;at the right time, truthfully and correctly&rdquo; &mdash; the qualifiers attached "
+         "to all four individuals, so that accuracy is not the variable."),
+        ("seṭṭha",
+         "&ldquo;best&rdquo; &mdash; the word both speakers use; the reply substitutes one term in "
+         "an identical sentence."),
+        ("paribbājaka",
+         "&ldquo;wanderer&rdquo; &mdash; a religious mendicant of another school, as at AN 4.30."),
+    ],
+    text_intro=(
+        "The discourse in full: the four individuals, the question, the two answers, and the going "
+        "for refuge. The gaps are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Potaliya comes"),
+        ("p", "&sect;1", "an4.100:1.1-1.2"),
+        ("h3", "Four individuals, and a question"),
+        ("p", "&sect;2", "an4.100:2.1-2.8"),
+        ("h3", "Potaliya&rsquo;s answer"),
+        ("p", "&sect;3", "an4.100:3.1-3.11"),
+        ("h3", "The Buddha&rsquo;s answer"),
+        ("p", "&sect;4", "an4.100:4.1-4.6"),
+        ("h3", "Potaliya agrees"),
+        ("p", "&sect;5", "an4.100:5.1-5.6"),
+        ("p", "&sect;6", "an4.100:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What distinguishes the four individuals?",
+         "opts": [
+             "Whether they examine before speaking",
+             "Which of praise and criticism they give when deserved &mdash; one, the other, neither, or both",
+             "Their attainments",
+             "Their audience"],
+         "correct": 1,
+         "expl": "All four are accurate and well timed; the variable is only which they do."},
+        {"q": "How does that refine AN 4.3 and AN 4.83?",
+         "opts": [
+             "It contradicts them",
+             "There the fault was praising and criticizing without examining; here everyone has examined, and the question is what they do with the result",
+             "It repeats them",
+             "It applies them to monastics"],
+         "correct": 1,
+         "expl": "A refinement rather than a restatement."},
+        {"q": "What is unusual about how the Buddha proceeds?",
+         "opts": [
+             "He uses a simile",
+             "He puts the question to Potaliya rather than answering it",
+             "He refuses to answer",
+             "He addresses the mendicants"],
+         "correct": 1,
+         "expl": "AN 4.42 named the counter-question as a proper way of handling a question; here it opens the conversation."},
+        {"q": "What effect does that have?",
+         "opts": [
+             "It delays the teaching",
+             "Potaliya has to commit to a position before hearing the Buddha&rsquo;s &mdash; he is not being told but asked, and then corrected",
+             "It tests his learning",
+             "It flatters him"],
+         "correct": 1,
+         "expl": "What makes the exchange a real one."},
+        {"q": "Which individual does Potaliya choose, and why?",
+         "opts": [
+             "The one who does both, because completeness is best",
+             "The one who does neither, because equanimity is best",
+             "The one who criticizes, because honesty is best",
+             "The one who praises, because kindness is best"],
+         "correct": 1,
+         "expl": "<em>Upekkhā hi seṭṭhā</em>."},
+        {"q": "How does the guide assess that answer?",
+         "opts": [
+             "As foolish",
+             "As a serious position &mdash; equanimity is the fourth immeasurable and the canon praises it constantly",
+             "As dishonest",
+             "As sectarian"],
+         "correct": 1,
+         "expl": "Not an obvious mistake."},
+        {"q": "What has Potaliya actually done wrong?",
+         "opts": [
+             "Misdefined equanimity",
+             "Applied a genuine principle to the wrong case &mdash; equanimity is a quality of mind, and declining to say anything is a behavior",
+             "Contradicted himself",
+             "Answered too quickly"],
+         "correct": 1,
+         "expl": "A person can be perfectly balanced internally and still say what needs saying."},
+        {"q": "What is the Buddha&rsquo;s answer?",
+         "opts": [
+             "That criticism is best",
+             "That understanding of time and context is best",
+             "That silence is best",
+             "That praise is best"],
+         "correct": 1,
+         "expl": "Exactly parallel in form: one word substituted in an identical sentence."},
+        {"q": "Why is the fourth individual best on that account?",
+         "opts": [
+             "Because they say more",
+             "Because they are governed by the occasion rather than by a standing preference &mdash; and the other three all have a policy, including silence",
+             "Because they are impartial",
+             "Because they are kinder"],
+         "correct": 1,
+         "expl": "<em>Kālaññutā</em> names a capacity rather than a rule."},
+        {"q": "What order does the guide point out in the conversion?",
+         "opts": [
+             "Refuge first, then agreement",
+             "Potaliya changes his answer before he takes refuge &mdash; the refuge follows from the persuasion",
+             "Both at once",
+             "Neither is stated"],
+         "correct": 1,
+         "expl": "Consistent with AN 3.65 and AN 4.25 on not accepting a teaching by authority."},
+    ],
+    marginalia=[
+        ("Four individuals", [
+            "criticizes only",
+            "praises only",
+            "neither",
+            "both",
+        ]),
+        ("Two answers", [
+            "<span class=\"pali\">upekkhā hi seṭṭhā</span>",
+            "<span class=\"pali\">kālaññutā hi seṭṭhā</span>",
+            "&mdash; one word substituted",
+        ]),
+        ("The mistake", [
+            "equanimity &middot; a quality of mind",
+            "saying nothing &middot; a behavior",
+            "&mdash; not the same thing",
+        ]),
+        ("Cross-references", [
+            "AN 4.3 &middot; praise without examining",
+            "AN 4.42 &middot; the counter-question",
+            "AN 4.73 &middot; what a true person volunteers",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.100/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.3.html">AN 4.3 &middot; Broken (1st)</a> &mdash; on praise and criticism '
+        "delivered without examination.",
+        '<a href="an-4.73.html">AN 4.73 &middot; A True Person</a> &mdash; on what a person '
+        "volunteers about others and themselves.",
+        '<a href="an-4.170.html">AN 4.170 &middot; In Conjunction</a> &mdash; the next published page '
+        "in the Fours.",
+    ],
+)
