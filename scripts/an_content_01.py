@@ -3,11 +3,11 @@
 
 SC = "https://suttacentral.net"
 
-# Where the chapter chain attaches at each end. TAIL moves forward as the
-# Ones fill in; today the next published page after the Ones is AN 3.61.
+# Where the chapter chain attaches at each end. TAIL moves forward as later
+# nipātas are published; the Ones now hand off to the Twos.
 INDEX_HEADING = "Ekaka Nipāta — The Ones"
 HEAD = ("./", "Aṅguttara Nikāya selections")
-TAIL = ("an-3.61.html", "AN 3.61 &middot; Sectarian Tenets")
+TAIL = ("an-2.1-10.html", "AN 2.1&ndash;10 &middot; Punishments")
 
 PAGES = []
 
@@ -8094,7 +8094,7 @@ PAGES.append({
         '<a href="an-1.1-10.html">AN 1.1&ndash;10 &middot; What Occupies the Mind</a> &mdash; the other '
         "end of the Book of the Ones, worth rereading now that the collection has finished with the "
         "body.",
-        '<a href="an-3.61.html">AN 3.61 &middot; Sectarian Tenets</a> &mdash; where this series '
-        "continues, at the beginning of the Threes.",
+        '<a href="an-2.1-10.html">AN 2.1&ndash;10 &middot; Punishments</a> &mdash; where this '
+        "series continues, at the beginning of the Twos.",
     ],
 })
