@@ -10440,3 +10440,1187 @@ page(
         "analyzed into its three necessary conditions four discourses earlier.",
     ],
 )
+
+
+page(
+    46, "Sīlavanta", "Ethical",
+    vagga=VAGGA_5,
+    meta_title="AN 3.46 — Ethical | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sīlavantasutta — what a "
+        "town gains by supporting ethical renunciates, counted in three ways. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A single statement, three ways, the statement repeated"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on the merit a locality gains from supporting "
+                              "renunciates appears in the Chinese Āgamas, and the theme of rejoicing "
+                              "in others&rsquo; merit was greatly developed in the Mahāyāna as "
+                              "隨喜功德; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; six lines, with one word doing "
+                       "all the work"),
+    ],
+    why=(
+        "When ethical renunciates are supported by a town or village, the people there generate much "
+        "merit &mdash; by way of body, speech, and mind. Three doors, and the third is the one that "
+        "makes the discourse worth reading, because nothing has to be done through it. A person can "
+        "generate merit by mind while somebody else does the giving."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A community that keeps ethical renunciates gains something through all three doors of "
+            "action, including the one that requires no action."]),
+        ("Who supports whom", [
+            "The sentence is about a place, not an individual: <em>when ethical renunciates are "
+            "supported by a town or village</em>. The unit that generates the merit is the "
+            "settlement, and the beneficiaries are <em>the people there</em>.",
+            "That collective framing is unusual enough to notice. Most of the Threes address a person "
+            "&mdash; a giver, a listener, a mendicant. This one addresses a locality, and it assumes "
+            "an arrangement in which supporting monastics is something a village does rather than "
+            "something a donor does.",
+            "The qualification <em>ethical</em>, <em>sīlavanta</em>, is not decoration. AN 3.50, four "
+            "discourses later, describes what an unethical mendicant does with the same relationship, "
+            "and the two should be read as a pair: the village gets this benefit from ethical "
+            "renunciates and something quite different from the other kind."]),
+        ("Three doors, and the third", [
+            "Merit accrues <em>by way of body, speech, and mind</em> &mdash; the standard triad for "
+            "action, used everywhere in this collection.",
+            "By body is the obvious one: food handed over, a hut built, a robe offered. By speech is "
+            "nearly as obvious: speaking well of them, inviting them, telling somebody where they can "
+            "be found.",
+            "By mind is the interesting one, because it needs no transaction at all. It covers "
+            "approving, being glad that the arrangement exists, and rejoicing in what somebody else "
+            "has given. On this account a person who owns nothing and says nothing still participates "
+            "in the merit of a town that keeps good renunciates, simply by being glad about it.",
+            "That answers the objection AN 3.41 raises, where merit seemed to require having "
+            "something to give. It does not require it here. The third door is open to everyone in "
+            "the village."]),
+        ("Rejoicing, and where it went later", [
+            "The mental participation this discourse leaves in one word became a major practice in "
+            "the Mahāyāna. <em>Anumodanā</em>, rejoicing in merit, is the fifth of Samantabhadra&rsquo;s "
+            "ten great vows &mdash; 隨喜功德 &mdash; where the practitioner rejoices in the merit of "
+            "buddhas, bodhisattvas, and ordinary beings alike, without limit and without end.",
+            "The line of development is easy to trace and worth showing a class. Here it is a "
+            "villager glad that the monastery is fed. There it is a cosmological practice covering all "
+            "beings in all worlds. The mechanism is identical: merit that arises in the mind, from "
+            "somebody else&rsquo;s good act, without the rejoicer having done anything.",
+            "It is also worth being honest that this can be abused, and that the tradition noticed. "
+            "Rejoicing is not a substitute for giving in a person who could give; it is what remains "
+            "available to a person who cannot. The Threes keep both discourses side by side and never "
+            "suggest that one replaces the other."]),
+        ("Using it", [
+            "The practical question this discourse puts to a community is uncomfortable and simple: "
+            "who does this town support, and are they ethical? Both halves matter. A place that "
+            "supports nobody gains nothing here; a place that supports the wrong people is described "
+            "in AN 3.50.",
+            "For a class, the useful exercise is to apply the three doors to something they actually "
+            "do &mdash; a school, a temple, a charity &mdash; and ask which door they use. Most "
+            "people discover they are body-and-speech contributors who have never considered the third "
+            "door as anything other than a consolation prize, which is not how the discourse presents "
+            "it."]),
+    ],
+    terms=[
+        ("sīlavanta",
+         "&ldquo;ethical, virtuous&rdquo; &mdash; the qualification on which the whole benefit "
+         "depends. AN 3.50 describes the same relationship without it."),
+        ("upanissāya viharanti",
+         "&ldquo;live supported by&rdquo; &mdash; the idiom for renunciates dwelling in dependence on "
+         "a settlement, which is the arrangement the discourse assumes."),
+        ("puññaṁ pasavati",
+         "&ldquo;generates merit&rdquo; &mdash; here predicated of the people of a town collectively "
+         "rather than of an individual donor."),
+        ("kāyena vācāya manasā",
+         "&ldquo;by way of body, speech, and mind&rdquo; &mdash; the standard three doors of action. "
+         "The third requires no transaction."),
+        ("anumodanā",
+         "&ldquo;rejoicing&rdquo; &mdash; not in this discourse&rsquo;s vocabulary but its natural "
+         "content, and the practice the Mahāyāna developed from it as 隨喜功德."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.46:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What unit is the discourse about?",
+         "opts": [
+             "An individual donor",
+             "A town or village, and the people there collectively",
+             "A monastery",
+             "A family"],
+         "correct": 1,
+         "expl": "Unusual for the Threes, which mostly address a person."},
+        {"q": "What arrangement does that framing assume?",
+         "opts": [
+             "That monastics are self-supporting",
+             "That supporting monastics is something a village does rather than something a donor does",
+             "That the state pays for monasteries",
+             "That renunciates live far from settlements"],
+         "correct": 1,
+         "expl": "The unit that generates the merit is the settlement."},
+        {"q": "Which three ways is the merit generated?",
+         "opts": [
+             "By giving, praising, and rejoicing only",
+             "By way of body, speech, and mind",
+             "By faith, ethics, and wisdom",
+             "By food, robes, and lodging"],
+         "correct": 1,
+         "expl": "The standard triad for action, used everywhere in this collection."},
+        {"q": "Why does the guide call the third door the interesting one?",
+         "opts": [
+             "Because it is the hardest",
+             "Because it needs no transaction &mdash; approving, being glad the arrangement exists, rejoicing in what somebody else gave",
+             "Because it is reserved for monastics",
+             "Because it produces the most merit"],
+         "correct": 1,
+         "expl": "A person who owns nothing and says nothing still participates."},
+        {"q": "Which earlier discourse&rsquo;s difficulty does that answer?",
+         "opts": [
+             "AN 3.41, where merit seemed to require having something to give",
+             "AN 3.30, on kinds of listener",
+             "AN 3.36, on the messengers",
+             "AN 3.44, on conversation"],
+         "correct": 0,
+         "expl": "The third door is open to everyone in the village."},
+        {"q": "What is the force of the word <em>sīlavanta</em>?",
+         "opts": [
+             "It is decoration",
+             "It is the qualification on which the whole benefit depends &mdash; AN 3.50 describes the same relationship without it",
+             "It restricts the discourse to monks",
+             "It refers to the villagers"],
+         "correct": 1,
+         "expl": "The village gets this benefit from ethical renunciates and something quite different from the other kind."},
+        {"q": "What did mental participation become in the Mahāyāna?",
+         "opts": [
+             "The practice of dedication of merit only",
+             "<em>Anumodanā</em>, rejoicing in merit &mdash; the fifth of Samantabhadra&rsquo;s ten great vows, 隨喜功德",
+             "The practice of confession",
+             "The transfer of precepts"],
+         "correct": 1,
+         "expl": "Rejoicing in the merit of buddhas, bodhisattvas, and ordinary beings alike."},
+        {"q": "How does the guide describe the line of development?",
+         "opts": [
+             "As a break with the early teaching",
+             "As identical in mechanism &mdash; merit arising in the mind from somebody else&rsquo;s good act &mdash; and different only in scale",
+             "As a Chinese invention",
+             "As a misunderstanding"],
+         "correct": 1,
+         "expl": "Here a villager glad the monastery is fed; there a cosmological practice covering all beings."},
+        {"q": "What honest qualification does the guide add about rejoicing?",
+         "opts": [
+             "That it is worthless",
+             "That it is not a substitute for giving in a person who could give; it is what remains available to a person who cannot",
+             "That it applies only to monastics",
+             "That it replaces giving entirely"],
+         "correct": 1,
+         "expl": "The Threes keep both discourses side by side and never suggest one replaces the other."},
+        {"q": "What exercise does the guide suggest for a class?",
+         "opts": [
+             "Counting donations",
+             "Applying the three doors to something they actually support &mdash; and noticing that most people treat the third door as a consolation prize, which is not how the discourse presents it",
+             "Debating whether merit exists",
+             "Memorizing the formula"],
+         "correct": 1,
+         "expl": "The discourse presents the third door as one of three ways, not as a fallback."},
+    ],
+    marginalia=[
+        ("Three doors", [
+            "by body &middot; what is handed over",
+            "by speech &middot; what is said",
+            "by mind &middot; being glad it happens",
+        ]),
+        ("The unit", [
+            "not a donor",
+            "a town or village",
+            "&mdash; and the people there",
+        ]),
+        ("Later", [
+            "<span class=\"pali\">anumodanā</span>rejoicing",
+            "隨喜功德",
+            "&mdash; Samantabhadra&rsquo;s fifth vow",
+        ]),
+        ("Cross-references", [
+            "AN 3.41 &middot; merit needing a gift",
+            "AN 3.50 &middot; the unethical mendicant",
+            "AN 3.48 &middot; what a household grows on",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.46/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="/sutras/samantabhadra-vows/rejoicing-and-supplication.html">The Vows of '
+        "Samantabhadra &middot; Rejoicing</a> &mdash; where the one word this discourse spends on "
+        "mental participation has become the fifth great vow, 隨喜功德, rejoicing without limit in "
+        "the merit of buddhas, bodhisattvas, and ordinary beings alike.",
+        '<a href="an-3.41.html">AN 3.41 &middot; Present</a> &mdash; for the three conditions of '
+        "meritorious giving, and the difficulty this discourse resolves by opening a door that needs "
+        "no gift.",
+        '<a href="an-3.50.html">AN 3.50 &middot; A Master Thief</a> &mdash; the same relationship '
+        "between a mendicant and a community with the ethics removed, four discourses later in this "
+        "chapter.",
+    ],
+)
+
+
+page(
+    47, "Saṅkhatalakkhaṇa", "Characteristics of the Conditioned",
+    vagga=VAGGA_5,
+    meta_title="AN 3.47 — Characteristics of the Conditioned | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṅkhatalakkhaṇasutta — "
+        "arising, vanishing, and change while persisting, and the same three denied of the "
+        "unconditioned. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched statements, positive and negative, of three items each"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The conditioned characteristics are preserved in the Chinese Āgamas "
+                              "and were expanded by the Sarvāstivāda Abhidharma into the four "
+                              "characteristics 生住異滅; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; four lines, and one of the most "
+                       "consequential texts in the collection"),
+    ],
+    why=(
+        "The conditioned has three characteristics: arising is evident, vanishing is evident, and "
+        "change while persisting is evident. The unconditioned has three: no arising is evident, no "
+        "vanishing is evident, and no change while persisting is evident. That is the entire "
+        "discourse. It is also the seed of several centuries of Abhidharma, and the shortest "
+        "definition in the canon of what makes something a thing that happens."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Anything conditioned can be caught starting, stopping, and altering in between &mdash; "
+            "and the one thing that is not conditioned cannot."]),
+        ("<em>Saṅkhata</em>", [
+            "The word is a past participle: <em>put together, constructed, made</em>. It is not a "
+            "synonym for physical or for temporary; it names anything that stands because something "
+            "else holds it up. The five aggregates are <em>saṅkhata</em>. So is a thought, a mood, an "
+            "institution, and a mountain range.",
+            "Rendered into Chinese as 有為, &ldquo;having doing,&rdquo; with the unconditioned as "
+            "無為 &mdash; a translation choice that keeps the sense of activity rather than of "
+            "artifice, and one worth pointing out to a bilingual class, since the English "
+            "&ldquo;conditioned&rdquo; hides it.",
+            "<em>Lakkhaṇa</em> is a mark, sign, or characteristic &mdash; specifically, the feature "
+            "by which a thing is identified. So the discourse is answering the question: how would "
+            "you know?"]),
+        ("The three marks, and the third one especially", [
+            "<em>Uppādo paññāyati</em>, arising is evident. <em>Vayo paññāyati</em>, vanishing is "
+            "evident. <em>Ṭhitassa aññathattaṁ paññāyati</em> &mdash; of what stands, the "
+            "otherwiseness is evident.",
+            "That third phrase is the one to slow down on. It does not say things change; it says "
+            "that while a thing persists, its becoming-otherwise can be observed. Persistence and "
+            "alteration are asserted in the same clause about the same object.",
+            "The reason that matters is that it blocks two easy pictures at once. It blocks the "
+            "picture of a stable object that later changes, since the alteration is going on during "
+            "the standing. And it blocks the picture of pure flux with nothing standing at all, since "
+            "the phrase requires something that persists for the alteration to be predicated of.",
+            "Notice also the repeated verb, <em>paññāyati</em>, is evident, is discerned. The claim "
+            "is not that things arise, persist, and pass. It is that this is <em>apparent</em> "
+            "&mdash; that the three are observable features rather than metaphysical postulates. The "
+            "discourse is describing a diagnostic test, not a doctrine of substance."]),
+        ("Not the three characteristics", [
+            "Students who know a little Buddhism will hear &ldquo;three characteristics&rdquo; and "
+            "supply impermanence, suffering, and not-self. Those are the <em>tilakkhaṇa</em>, and "
+            "they are not what this discourse is about. Head that off early; the confusion is nearly "
+            "universal and it costs a class ten minutes to untangle later.",
+            "The relationship between the two lists is worth stating, since it is real. The three "
+            "marks here are what makes impermanence observable: <em>anicca</em> is the conclusion you "
+            "draw from watching arising, vanishing, and alteration-while-standing. But this discourse "
+            "does not mention suffering or not-self, and it is not a compressed version of the "
+            "familiar triad."]),
+        ("The unconditioned, defined by three denials", [
+            "The second half is the first half negated, term for term. No arising is evident, no "
+            "vanishing is evident, no change while persisting is evident.",
+            "What is remarkable is that nothing positive is said. <em>Asaṅkhata</em>, the "
+            "unconditioned, gets no description, no location, and no properties &mdash; only the "
+            "absence of the three marks. The canon elsewhere identifies it with extinguishment, and "
+            "the reticence here is characteristic: the unconditioned is specified by what it fails "
+            "the test for.",
+            "That is a genuinely careful piece of philosophy and a good place to show a class why the "
+            "tradition is so insistent about negative formulation. If the unconditioned were "
+            "described positively it would acquire features; features arise; and anything that arises "
+            "is conditioned. The negative definition is not modesty or mysticism. It is the only "
+            "definition that does not contradict itself."]),
+        ("What the Abhidharma did with it", [
+            "The Sarvāstivāda schools took these marks and made them four: 生住異滅, arising, abiding, "
+            "decay, and cessation, splitting the single Pāli phrase about standing-and-altering into "
+            "two separate characteristics.",
+            "They then asked a question this discourse does not: are the marks themselves real "
+            "entities? If arising is what makes a thing arise, arising is doing something, and if it "
+            "is doing something it presumably needs its own arising &mdash; which threatens an "
+            "infinite regress. The Abhidharmakośa works through the resulting debate at length, "
+            "classing the four characteristics among the factors dissociated from mind and reporting "
+            "the objections against treating them as real.",
+            "Whether or not a class follows the technical argument, the shape of the development is "
+            "instructive. A four-line discourse says that a thing is known to be conditioned by three "
+            "observable features. Four centuries later, whether those features are themselves things "
+            "is a live question with schools on both sides. That is what happens to a short text with "
+            "a load-bearing claim in it."]),
+    ],
+    terms=[
+        ("saṅkhata",
+         "&ldquo;conditioned, constructed, put together&rdquo; &mdash; anything that stands because "
+         "something else holds it up. Rendered into Chinese as 有為, which keeps the sense of "
+         "activity."),
+        ("asaṅkhata",
+         "&ldquo;the unconditioned&rdquo;, 無為 &mdash; given no positive description here, only the "
+         "absence of the three marks."),
+        ("lakkhaṇa",
+         "&ldquo;mark, characteristic&rdquo; &mdash; the feature by which something is identified. "
+         "The discourse is answering the question: how would you know?"),
+        ("ṭhitassa aññathattaṁ",
+         "&ldquo;of what stands, the otherwiseness&rdquo; &mdash; persistence and alteration asserted "
+         "in one clause about one object, which blocks both the stable-then-changing picture and the "
+         "pure-flux picture."),
+        ("paññāyati",
+         "&ldquo;is evident, is discerned&rdquo; &mdash; the repeated verb. The claim is that the "
+         "three are observable, not that they are metaphysical postulates."),
+    ],
+    text_intro=(
+        "The discourse in full, both halves. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Characteristics of the conditioned"),
+        ("p", "&sect;1", "an3.47:1.1-1.4"),
+        ("h3", "Characteristics of the unconditioned"),
+        ("p", "&sect;2", "an3.47:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What are the three characteristics of the conditioned?",
+         "opts": [
+             "Impermanence, suffering, and not-self",
+             "Arising is evident, vanishing is evident, and change while persisting is evident",
+             "Body, speech, and mind",
+             "Greed, hate, and delusion"],
+         "correct": 1,
+         "expl": "The <em>tilakkhaṇa</em> are a different list and the confusion is nearly universal."},
+        {"q": "What does <em>saṅkhata</em> actually mean?",
+         "opts": [
+             "Physical",
+             "Temporary",
+             "Put together, constructed &mdash; anything that stands because something else holds it up",
+             "Unreal"],
+         "correct": 2,
+         "expl": "A thought, a mood, an institution, and a mountain range all qualify."},
+        {"q": "What does the Chinese rendering 有為 preserve that the English hides?",
+         "opts": [
+             "The sense of artifice",
+             "The sense of activity &mdash; &ldquo;having doing&rdquo;",
+             "The sense of impermanence",
+             "The sense of causation by a creator"],
+         "correct": 1,
+         "expl": "With the unconditioned as 無為."},
+        {"q": "Why does the guide say the third mark blocks two pictures at once?",
+         "opts": [
+             "Because it mentions time",
+             "Because alteration is going on <em>during</em> the standing &mdash; which rules out both a stable object that later changes and pure flux with nothing standing",
+             "Because it is negative",
+             "Because it is the longest"],
+         "correct": 1,
+         "expl": "Persistence and alteration are asserted in one clause about one object."},
+        {"q": "What is the force of the repeated verb <em>paññāyati</em>?",
+         "opts": [
+             "That the marks are hidden",
+             "That the marks are evident &mdash; observable features rather than metaphysical postulates",
+             "That the marks are taught",
+             "That the marks are remembered"],
+         "correct": 1,
+         "expl": "The discourse is describing a diagnostic test."},
+        {"q": "How do these three relate to impermanence?",
+         "opts": [
+             "They are the same list",
+             "They are unrelated",
+             "They are what makes impermanence observable &mdash; <em>anicca</em> is the conclusion drawn from watching them",
+             "They replace it"],
+         "correct": 2,
+         "expl": "But the discourse never mentions suffering or not-self."},
+        {"q": "How is the unconditioned described?",
+         "opts": [
+             "As eternal and blissful",
+             "As a place beyond the world",
+             "Only by three denials &mdash; no arising, no vanishing, no change while persisting",
+             "As the highest of the conditioned"],
+         "correct": 2,
+         "expl": "No description, no location, and no properties."},
+        {"q": "Why does the guide say the negative definition is not mysticism?",
+         "opts": [
+             "Because the canon prefers negatives generally",
+             "Because a positive description would give it features; features arise; and anything that arises is conditioned",
+             "Because the unconditioned is unreal",
+             "Because language cannot describe anything"],
+         "correct": 1,
+         "expl": "It is the only definition that does not contradict itself."},
+        {"q": "What did the Sarvāstivāda Abhidharma do with the three marks?",
+         "opts": [
+             "Reduced them to two",
+             "Made them four &mdash; 生住異滅 &mdash; by splitting standing-and-altering into abiding and decay",
+             "Rejected them",
+             "Applied them to the unconditioned as well"],
+         "correct": 1,
+         "expl": "Arising, abiding, decay, and cessation."},
+        {"q": "Which further question did the Abhidharma raise that this discourse does not?",
+         "opts": [
+             "Whether the marks are themselves real entities &mdash; which threatens an infinite regress and is debated at length in the Abhidharmakośa",
+             "Whether the Buddha said it",
+             "Whether laypeople may study it",
+             "Whether the marks apply to gods"],
+         "correct": 0,
+         "expl": "That is what happens to a short text with a load-bearing claim in it."},
+    ],
+    marginalia=[
+        ("Three marks", [
+            "<span class=\"pali\">uppāda</span>arising, evident",
+            "<span class=\"pali\">vaya</span>vanishing, evident",
+            "<span class=\"pali\">ṭhitassa aññathatta</span>altering while standing",
+        ]),
+        ("Not this list", [
+            "impermanence",
+            "suffering",
+            "not-self",
+            "&mdash; the <span class=\"pali\">tilakkhaṇa</span>, a different set",
+        ]),
+        ("The unconditioned", [
+            "no arising",
+            "no vanishing",
+            "no altering",
+            "&mdash; and nothing positive",
+        ]),
+        ("Cross-references", [
+            "Abhidharmakośa &middot; 生住異滅",
+            "AN 3.34 &middot; conditioned deeds ending",
+            "AN 3.32 &middot; &ldquo;the stilling of all activities&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.47/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="/abhidharma/abhidharmakosa/fascicle-005/">Abhidharmakośa &middot; Fascicle 5</a> '
+        "&mdash; where the four characteristics of the conditioned, 生住異滅, are catalogued among the "
+        "factors dissociated from mind, together with the argument over whether marks that make "
+        "things arise must themselves arise.",
+        '<a href="an-3.32.html">AN 3.32 &middot; With Ānanda</a> &mdash; for the practical use of '
+        "this distinction: the object given to the mind there is the stilling of all activities, "
+        "which is this discourse&rsquo;s unconditioned under another name.",
+        '<a href="an-3.34.html">AN 3.34 &middot; Sources</a> &mdash; for the same vocabulary applied '
+        "to deeds: what arises from the three roots, and what is cut off so that it cannot arise "
+        "again.",
+    ],
+)
+
+
+page(
+    48, "Pabbatarāja", "The King of Mountains",
+    vagga=VAGGA_5,
+    meta_title="AN 3.48 — The King of Mountains | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pabbatarājasutta — great "
+        "sal trees growing on the Himalayas, and a household growing on one person's faith. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A simile in three parts, its application in three parts, and four closing verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable similes of the tree supported by the mountain are preserved "
+                              "in the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clean simile with an unstated "
+                       "asymmetry in it"),
+    ],
+    why=(
+        "Great sal trees grow in three ways supported by the Himalayas: in branches and foliage, in "
+        "bark and shoots, in softwood and heartwood. In the same way a family grows in three ways "
+        "supported by a family head who has faith: in faith, in ethics, and in wisdom. It is a "
+        "flattering image and a demanding one, and the verses that follow quietly widen it from the "
+        "household to everyone who depends on it for a living."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A household grows on the qualities of whoever is holding it up, and the growth reaches "
+            "everybody attached to it."]),
+        ("The simile, and what a mountain does for a tree", [
+            "The Himalaya is called <em>pabbatarāja</em>, king of mountains, and the sal trees grow "
+            "<em>supported by</em> it &mdash; not planted on it decoratively but drawing what they "
+            "need from it.",
+            "The three ways of growing are stated in an odd order, from outside in: branches, leaves, "
+            "and foliage; bark and shoots; softwood and heartwood. The visible growth is named first "
+            "and the heartwood last, which is the reverse of the order of importance and exactly the "
+            "order in which growth is noticed.",
+            "The verse adds the setting: the mountain is <em>in the wilds, the formidable forest</em>, "
+            "and the tree becomes <em>lord of the forest</em>. So the image is not of shelter. It is "
+            "of a hard place and a large result."]),
+        ("The application, and the term that carries it", [
+            "A family grows in faith, ethics, and wisdom &mdash; <em>saddhā</em>, <em>sīla</em>, "
+            "<em>paññā</em> &mdash; supported by a <em>saddha kulapati</em>, a family head who has "
+            "faith.",
+            "<em>Kulapati</em> is the head of a household in the full ancient sense: the person "
+            "responsible for the family&rsquo;s property, dependents, and standing. The discourse "
+            "does not say that everyone in the family must be faithful. It says one person&rsquo;s "
+            "faith is what the rest grow on.",
+            "The mapping to the three parts of the tree is left for the reader, and it is worth "
+            "letting a class do it rather than supplying it. Faith is the visible foliage, the thing "
+            "seen from outside; wisdom is the heartwood, the last to form and the part that holds "
+            "weight; ethics is between. The order matches, and the discourse does not insist on it."]),
+        ("How far the growth reaches", [
+            "The prose says <em>a family</em>. The verse enumerates: <em>children, partners, and kin, "
+            "colleagues, relatives, and those dependent for their livelihood.</em>",
+            "The last group is the reason to read the verse carefully. It reaches past blood and "
+            "marriage to everybody whose living depends on the household &mdash; employees, workers, "
+            "the people who in AN 3.39 were being fed rough gruel in other men&rsquo;s houses. In a "
+            "society with servants and bondservants, that phrase is doing real work.",
+            "So the claim is not that a religious household is pleasant to belong to. It is that the "
+            "qualities of the person at the top propagate to everyone materially dependent on them, "
+            "which is a claim about power rather than about atmosphere."]),
+        ("The mechanism, stated in one verse", [
+            "The discourse does not leave the transmission mysterious. <em>Seeing the ethical conduct "
+            "of the virtuous, the generosity and good deeds, those who see clearly do likewise.</em>",
+            "That is imitation, and nothing else. No blessing, no merit transfer, no inheritance of "
+            "spiritual status. People watch what the head of the household does with money and "
+            "conduct, and those who see clearly copy it.",
+            "Which explains why the simile is a tree rather than an umbrella. A tree does not protect "
+            "the forest; it grows, and what it grows from is available to whatever is rooted in the "
+            "same ground. The demanding part of the discourse is that the mechanism runs on visible "
+            "behavior, so a household head whose faith is private transmits nothing."]),
+        ("Using it", [
+            "This is one of the most usable discourses in the chapter for lay audiences, and it "
+            "should be taught with its edge intact. The comfortable reading is that a religious "
+            "parent is good for a family. The discourse says slightly more: that everybody dependent "
+            "on you is growing on what you actually do, whether or not you intended to teach them "
+            "anything.",
+            "For teachers the transfer is exact and uncomfortable. A classroom has a <em>kulapati</em> "
+            "too, and the verse says the students who see clearly do likewise &mdash; not what they "
+            "are told, but what they watch."]),
+    ],
+    terms=[
+        ("pabbatarāja",
+         "&ldquo;king of mountains&rdquo; &mdash; the Himalaya, on which the great sal trees are said "
+         "to grow. The verse places it in the wilds, the formidable forest."),
+        ("kulapati",
+         "&ldquo;family head&rdquo; &mdash; the person responsible for a household&rsquo;s property, "
+         "dependents, and standing. One person&rsquo;s faith is what the rest grow on."),
+        ("saddhā sīla paññā",
+         "&ldquo;faith, ethics, wisdom&rdquo; &mdash; the three ways a family grows, matched to the "
+         "tree&rsquo;s foliage, bark, and heartwood without the discourse insisting on the mapping."),
+        ("vanaspati",
+         "&ldquo;lord of the forest&rdquo; &mdash; what the supported tree becomes, in the verse."),
+        ("jīvitaṁ nissāya",
+         "&ldquo;dependent for their livelihood&rdquo; &mdash; the last group in the verse&rsquo;s "
+         "list, reaching past blood and marriage to everyone whose living depends on the household."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sal trees on the Himalaya"),
+        ("p", "&sect;1", "an3.48:1.1-1.4"),
+        ("h3", "A family on its head"),
+        ("p", "&sect;2", "an3.48:2.1-2.4"),
+        ("h3", "In verse"),
+        ("p", "&sect;3&ndash;4", "an3.48:3.1-4.6"),
+        ("p", "&sect;5&ndash;6", "an3.48:5.1-6.4"),
+    ],
+    quiz=[
+        {"q": "In which three ways do the great sal trees grow?",
+         "opts": [
+             "Roots, trunk, and crown",
+             "Branches, leaves, and foliage; bark and shoots; softwood and heartwood",
+             "Height, width, and depth",
+             "Spring, summer, and autumn"],
+         "correct": 1,
+         "expl": "Named from outside in &mdash; the order in which growth is noticed."},
+        {"q": "What does the verse say about the setting?",
+         "opts": [
+             "That it is sheltered and fertile",
+             "That it is the wilds, the formidable forest &mdash; a hard place and a large result",
+             "That it is a royal park",
+             "That it is beside a river"],
+         "correct": 1,
+         "expl": "The image is not of shelter."},
+        {"q": "In which three ways does a family grow?",
+         "opts": [
+             "Wealth, reputation, and health",
+             "Faith, ethics, and wisdom",
+             "Body, speech, and mind",
+             "Giving, precepts, and meditation"],
+         "correct": 1,
+         "expl": "Supported by a <em>saddha kulapati</em>, a family head who has faith."},
+        {"q": "What does the discourse require of the rest of the family?",
+         "opts": [
+             "That they all have faith",
+             "Nothing is required of them &mdash; one person&rsquo;s faith is what the rest grow on",
+             "That they take precepts",
+             "That they support monastics"],
+         "correct": 1,
+         "expl": "<em>Kulapati</em> is the head of a household in the full ancient sense."},
+        {"q": "How does the guide suggest mapping the three to the tree?",
+         "opts": [
+             "It refuses to map them",
+             "Faith as the visible foliage, wisdom as the heartwood, ethics between &mdash; and lets a class do it rather than supplying it",
+             "Wisdom as foliage, faith as heartwood",
+             "All three as the roots"],
+         "correct": 1,
+         "expl": "The order matches, and the discourse does not insist on it."},
+        {"q": "Whom does the verse include in the growth?",
+         "opts": [
+             "Only children",
+             "Only monastics",
+             "Children, partners, and kin, colleagues, relatives, and those dependent for their livelihood",
+             "Only those who have faith"],
+         "correct": 2,
+         "expl": "The last group reaches past blood and marriage to everyone whose living depends on the household."},
+        {"q": "Why does the guide call that a claim about power rather than atmosphere?",
+         "opts": [
+             "Because the head of the family is wealthy",
+             "Because the qualities of the person at the top propagate to everyone materially dependent on them",
+             "Because the family is noble",
+             "Because the household employs servants"],
+         "correct": 1,
+         "expl": "In a society with servants and bondservants, the phrase is doing real work."},
+        {"q": "What mechanism does the verse give for the transmission?",
+         "opts": [
+             "Blessing",
+             "Merit transfer",
+             "Imitation &mdash; seeing the conduct, generosity, and good deeds, those who see clearly do likewise",
+             "Inheritance of status"],
+         "correct": 2,
+         "expl": "No blessing, no merit transfer, no inherited spiritual standing."},
+        {"q": "Why is the simile a tree rather than an umbrella?",
+         "opts": [
+             "Because a tree does not protect the forest; it grows, and what it grows from is available to whatever is rooted in the same ground",
+             "Because trees are more common",
+             "Because umbrellas are a royal symbol",
+             "Because the Himalaya has no umbrellas"],
+         "correct": 0,
+         "expl": "The mechanism runs on visible behavior, so a household head whose faith is private transmits nothing."},
+        {"q": "How does the guide transfer the discourse to teaching?",
+         "opts": [
+             "By noting that a classroom has a <em>kulapati</em> too, and that students who see clearly do likewise &mdash; not what they are told, but what they watch",
+             "By recommending that teachers be religious",
+             "By comparing schools to forests",
+             "It does not transfer"],
+         "correct": 0,
+         "expl": "The transfer is exact and uncomfortable."},
+    ],
+    marginalia=[
+        ("The tree", [
+            "branches, leaves, foliage",
+            "bark and shoots",
+            "softwood and heartwood",
+        ]),
+        ("The family", [
+            "<span class=\"pali\">saddhā</span>faith",
+            "<span class=\"pali\">sīla</span>ethics",
+            "<span class=\"pali\">paññā</span>wisdom",
+        ]),
+        ("Who grows", [
+            "children, partners, kin",
+            "colleagues, relatives",
+            "those dependent for their livelihood",
+        ]),
+        ("Cross-references", [
+            "AN 3.42 &middot; how faith is recognized",
+            "AN 3.39 &middot; other men&rsquo;s households",
+            "DN 31 &middot; duties in five pairs",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.48/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.42.html">AN 3.42 &middot; Three Grounds</a> &mdash; for what the '
+        "faith of the family head would actually look like from outside, which is what the verse says "
+        "the household is watching.",
+        '<a href="../digha-nikaya/dn-31.html">DN 31 &middot; Advice to Sigālaka</a> &mdash; the '
+        "long discourse on household relationships, including the duties owed to workers and "
+        "dependents, which is the group this verse quietly includes in the growth.",
+        '<a href="an-3.39.html">AN 3.39 &middot; A Delicate Lifestyle</a> &mdash; where the Buddha '
+        "describes his father&rsquo;s household by comparing what its staff were fed against what "
+        "other houses fed theirs. The two discourses see the same social arrangement from opposite "
+        "ends.",
+    ],
+)
+
+
+page(
+    49, "Ātappakaraṇīya", "Keen",
+    vagga=VAGGA_5,
+    meta_title="AN 3.49 — Keen | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ātappakaraṇīyasutta — "
+        "three situations calling for keenness, the third of which is enduring severe physical "
+        "pain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three situations, then the same three restated of a person, with a title conferred"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on ardor and the endurance of painful feeling "
+                              "appears in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and the third item is not "
+                       "where a reader expects it"),
+    ],
+    why=(
+        "Three situations call for keenness: preventing bad qualities from arising, giving rise to "
+        "good ones, and enduring physical pain that is <em>sharp, severe, acute, unpleasant, "
+        "disagreeable, life-threatening</em>. The first two are what anyone would predict. The third "
+        "is put in the same list, with the same word, as though bearing pain were a form of effort "
+        "rather than something that happens to you."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Effort is called for in three places, and one of them is lying still in pain."]),
+        ("<em>Ātappa</em>", [
+            "The word is from <em>tapati</em>, to burn or scorch &mdash; the same root as <em>tapas</em>, "
+            "the austerity of the Indian ascetic traditions. In the canon it has been repurposed: it "
+            "no longer names self-torment but the heat of effort, ardor, keenness.",
+            "It is one of the three words in the standard formula for establishing mindfulness "
+            "&mdash; <em>ātāpī sampajāno satimā</em>, keen, aware, and mindful &mdash; and this "
+            "discourse ends with almost that phrase: <em>keen, alert, and mindful so as to rightly "
+            "make an end of suffering</em>. So the three situations are being offered as the content "
+            "of the first term in a formula the reader already knows.",
+            "The repurposing is worth pointing out. A tradition that rejected austerity kept the word "
+            "for burning and attached it to something else. What is being burned is no longer the "
+            "body."]),
+        ("Two of the four efforts, and a third thing", [
+            "The first two situations are familiar: preventing bad, unskillful qualities from "
+            "arising, and giving rise to skillful ones. Those are the first and third of the four "
+            "right efforts, which in their full form also include abandoning bad qualities that have "
+            "arisen and maintaining good ones that have.",
+            "The discourse takes two and does not take the other two, and then adds something that "
+            "does not belong to that scheme at all. That is a signal rather than an accident: this is "
+            "not a compressed version of the four right efforts but a different list that happens to "
+            "share two members.",
+            "What the three have in common is that each is a place where nothing external forces the "
+            "issue. Nobody can tell whether you are preventing an unarisen state; nobody can tell "
+            "whether you are enduring or merely suffering. The list is about the situations in which "
+            "effort is invisible."]),
+        ("Enduring pain as a practice", [
+            "The third situation is described at length and without softening: <em>sharp, severe, "
+            "acute, unpleasant, disagreeable, life-threatening</em>. Six adjectives, and the last is "
+            "not rhetorical &mdash; this is the formula the canon uses for the pain of a fatal "
+            "illness.",
+            "Calling that a place for <em>ātappa</em> makes a claim that deserves to be handled "
+            "carefully in a class, because it can be misheard in two directions.",
+            "It is not a claim that pain should be sought, and the canon is explicit elsewhere that "
+            "self-inflicted suffering achieves nothing; the Buddha&rsquo;s own austerities are "
+            "reported as a failed experiment. Nor is it a claim that a practitioner does not feel "
+            "pain. AN 3.35 has the Buddha saying only that the fever born of greed is gone, not that "
+            "the north wind is warm.",
+            "What it claims is that there is something to do in that situation, and that the "
+            "something is of the same kind as the effort involved in the other two. Somebody in "
+            "severe illness is not outside practice and is not waiting for practice to resume. That "
+            "is a genuinely consoling proposition and it costs nothing in honesty to state, which is "
+            "more than can be said for most things said to people in pain."]),
+        ("The title at the end", [
+            "The second half restates the three of a person and then names them: <em>a mendicant who "
+            "is keen, alert, and mindful so as to rightly make an end of suffering</em>.",
+            "The last clause is the one that sets the scale. This is not endurance for its own sake, "
+            "nor keenness as a temperament. The three situations are being described as the working "
+            "conditions of somebody heading for the end of suffering, which is why enduring a fatal "
+            "illness can sit in a list with cultivating skillful qualities: both are things that "
+            "person is doing on the way."]),
+        ("Using it", [
+            "The discourse is four lines and it is the one to have ready when somebody in a class is "
+            "ill or caring for someone who is. It does not promise that practice removes pain and it "
+            "does not ask for cheerfulness. It says that the situation is one of the three places "
+            "keenness belongs.",
+            "It is also a useful corrective to an unspoken assumption that practice happens in good "
+            "conditions. Two of the three situations here are ordinary; the third is the worst "
+            "condition a body can be in, and it is on the list."]),
+    ],
+    terms=[
+        ("ātappa",
+         "&ldquo;keenness, ardor&rdquo; &mdash; from the root meaning to burn, the same as "
+         "<em>tapas</em>, austerity. Repurposed in the canon from self-torment to the heat of "
+         "effort."),
+        ("ātāpī sampajāno satimā",
+         "&ldquo;keen, aware, and mindful&rdquo; &mdash; the standard formula for establishing "
+         "mindfulness, which this discourse&rsquo;s closing line almost repeats."),
+        ("anuppannānaṁ pāpakānaṁ",
+         "&ldquo;of bad qualities not yet arisen&rdquo; &mdash; the first situation, and the first of "
+         "the four right efforts."),
+        ("sammappadhāna",
+         "&ldquo;right effort&rdquo; &mdash; the fourfold scheme this discourse borrows two members "
+         "from without reproducing."),
+        ("adhivāsana",
+         "&ldquo;enduring, putting up with&rdquo; &mdash; what is asked of the third situation, and "
+         "the canon&rsquo;s ordinary word for bearing what cannot be changed."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three situations"),
+        ("p", "&sect;1", "an3.49:1.1-1.4"),
+        ("h3", "And the one who is keen in them"),
+        ("p", "&sect;2", "an3.49:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What are the three situations?",
+         "opts": [
+             "Preventing bad qualities from arising, giving rise to skillful ones, and enduring severe physical pain",
+             "Study, meditation, and service",
+             "Giving, ethics, and wisdom",
+             "Body, speech, and mind"],
+         "correct": 0,
+         "expl": "The first two are predictable; the third is not."},
+        {"q": "Where does the word <em>ātappa</em> come from?",
+         "opts": [
+             "From a word for speed",
+             "From the root meaning to burn &mdash; the same as <em>tapas</em>, austerity",
+             "From a word for attention",
+             "From a word for patience"],
+         "correct": 1,
+         "expl": "A tradition that rejected austerity kept the word for burning and attached it to something else."},
+        {"q": "Which standard formula does the discourse&rsquo;s closing line almost repeat?",
+         "opts": [
+             "The three refuges",
+             "<em>Ātāpī sampajāno satimā</em> &mdash; keen, aware, and mindful",
+             "The four noble truths",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "The three situations are offered as the content of the first term in a formula the reader already knows."},
+        {"q": "How does the list relate to the four right efforts?",
+         "opts": [
+             "It reproduces them",
+             "It takes two of the four, omits the other two, and adds something outside the scheme &mdash; a signal rather than an accident",
+             "It contradicts them",
+             "It has no relation"],
+         "correct": 1,
+         "expl": "Not a compressed version but a different list that shares two members."},
+        {"q": "What do the three have in common, according to the guide?",
+         "opts": [
+             "They all require solitude",
+             "Each is a place where nothing external forces the issue &mdash; the situations in which effort is invisible",
+             "They all concern the body",
+             "They are all painful"],
+         "correct": 1,
+         "expl": "Nobody can tell whether you are enduring or merely suffering."},
+        {"q": "How is the third situation described?",
+         "opts": [
+             "As mild discomfort",
+             "As sharp, severe, acute, unpleasant, disagreeable, and life-threatening",
+             "As mental rather than physical",
+             "As temporary"],
+         "correct": 1,
+         "expl": "The last adjective is not rhetorical; this is the canon&rsquo;s formula for the pain of a fatal illness."},
+        {"q": "What is the discourse <em>not</em> claiming, in the guide&rsquo;s reading?",
+         "opts": [
+             "That there is anything to do in illness",
+             "That pain should be sought, or that a practitioner does not feel pain",
+             "That effort matters",
+             "That mindfulness helps"],
+         "correct": 1,
+         "expl": "The canon reports the Buddha&rsquo;s own austerities as a failed experiment, and AN 3.35 has him say only that the fever of greed is gone."},
+        {"q": "What does it claim instead?",
+         "opts": [
+             "That pain purifies",
+             "That there is something to do in that situation, of the same kind as the effort in the other two &mdash; so someone severely ill is not outside practice",
+             "That illness is deserved",
+             "That pain should be ignored"],
+         "correct": 1,
+         "expl": "A consoling proposition that costs nothing in honesty."},
+        {"q": "What does the closing clause add?",
+         "opts": [
+             "Nothing",
+             "The scale &mdash; keen, alert, and mindful <em>so as to rightly make an end of suffering</em>",
+             "A warning",
+             "A reward in heaven"],
+         "correct": 1,
+         "expl": "Not endurance for its own sake, nor keenness as a temperament."},
+        {"q": "What unspoken assumption does the guide say the discourse corrects?",
+         "opts": [
+             "That practice requires a teacher",
+             "That practice happens in good conditions &mdash; here the worst condition a body can be in is on the list",
+             "That practice requires solitude",
+             "That practice is only for monastics"],
+         "correct": 1,
+         "expl": "Two of the three situations are ordinary; the third is not."},
+    ],
+    marginalia=[
+        ("Three situations", [
+            "prevent what has not arisen",
+            "give rise to the skillful",
+            "endure severe physical pain",
+        ]),
+        ("Six adjectives", [
+            "sharp, severe, acute",
+            "unpleasant, disagreeable",
+            "life-threatening",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">ātappa</span>keenness",
+            "from <span class=\"pali\">tapati</span>, to burn",
+            "&mdash; but not the body",
+        ]),
+        ("Cross-references", [
+            "AN 3.35 &middot; what a perfected one still feels",
+            "AN 3.39 &middot; austerity as failed experiment",
+            "AN 3.34 &middot; the roots being prevented",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.49/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.35.html">AN 3.35 &middot; With Hatthaka</a> &mdash; for the careful limit on '
+        "what freedom from the three roots does and does not remove: the fever is gone, the north "
+        "wind is not.",
+        '<a href="../majjhima-nikaya/mn-002.html">MN 2 &middot; All the Defilements</a> &mdash; '
+        "where enduring cold, heat, hunger, and severe bodily pain is set out as one of the seven "
+        "ways defilements are given up, which is the fullest early treatment of the third situation "
+        "named here.",
+        '<a href="an-3.34.html">AN 3.34 &middot; Sources</a> &mdash; for what the first situation is '
+        "preventing: the roots from which unskillful qualities arise in the first place.",
+    ],
+)
+
+
+page(
+    50, "Mahācora", "A Master Thief",
+    vagga=VAGGA_5,
+    meta_title="AN 3.50 — A Master Thief | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mahācorasutta — the three "
+        "things a master thief relies on, and the bad mendicant who relies on the same three. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A three-part description of a thief, expounded item by item, then applied to a "
+                 "mendicant in the same structure"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The simile of the thief applied to a corrupt monastic is preserved in "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the structure is transparent and "
+                       "the third item is unusually direct"),
+    ],
+    why=(
+        "A master thief operates on three supports: broken ground he can disappear into, thick cover "
+        "he can hide behind, and powerful people who will speak for him if he is caught. Then the "
+        "same three are applied to a bad mendicant &mdash; unethical conduct, extremist views, and "
+        "the identical rulers and ministers. The third item is not translated into a metaphor. It "
+        "stays exactly as it was, and that is the point of the discourse."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A corrupt monastic survives on the same three things a professional criminal does, and "
+            "the third one is not a metaphor."]),
+        ("The thief", [
+            "The description is unsentimental and specific. A master thief <em>breaks into houses, "
+            "plunders wealth, steals from isolated buildings, and commits highway robbery</em>, and "
+            "does it by relying on three things.",
+            "<em>Visamaṁ nissāya</em>, relying on uneven ground: inaccessible riverlands or rugged "
+            "mountains &mdash; terrain that makes pursuit expensive. <em>Vigayhaṁ nissāya</em>, "
+            "relying on thick cover: heavy grass, dense trees, a blind spot, a large forest grove. "
+            "And relying on <em>the powerful</em>: rulers or their chief ministers.",
+            "The third is spelled out in the thief&rsquo;s own words: <em>if anyone accuses me of "
+            "anything, these rulers or their chief ministers will speak in my defense in the case.</em> "
+            "And then the discourse adds four words that are the reason it is memorable: <em>and "
+            "that&rsquo;s exactly what happens.</em>",
+            "The canon is not describing a thief&rsquo;s hopeful delusion. It is stating that the "
+            "protection works."]),
+        ("Two of the three translate; one does not", [
+            "When the simile is applied, the first two supports become interior. Uneven ground "
+            "becomes unethical conduct by body, speech, and mind &mdash; the rough terrain is the "
+            "person&rsquo;s own behavior, hard to walk on and hard to follow anyone into. Thick cover "
+            "becomes wrong view, specifically being <em>attached to an extremist view</em>: a "
+            "position dense enough to hide inside.",
+            "The third support does not become anything. It is repeated word for word: the bad "
+            "mendicant relies on rulers or their chief ministers, thinks that they will speak in his "
+            "defense, <em>and that&rsquo;s exactly what happens.</em>",
+            "A class will usually miss this on a first reading, and it is worth stopping them. Two "
+            "items were converted into spiritual failings and the third was left in the world as a "
+            "plain fact about political protection. The discourse could easily have made it "
+            "&ldquo;relying on the support of the laity&rdquo; or something similarly softened. It "
+            "did not."]),
+        ("What is being said about the institution", [
+            "This is an early Buddhist text saying, without qualification, that a monastic with "
+            "friends in government can misbehave and be defended. It appears in the canon of the "
+            "institution it is describing.",
+            "That is worth naming plainly, because self-criticism of this kind is not universal in "
+            "religious literature. The Vinaya contains a great deal of it &mdash; almost every "
+            "monastic rule exists because somebody did the thing the rule prohibits &mdash; and this "
+            "discourse extends the honesty from individual misconduct to structural capture.",
+            "The consequences named are also worth reading carefully. A bad mendicant with these "
+            "three <em>keeps themselves broken and damaged</em>, deserves blame and criticism from "
+            "sensible people, and <em>brims with much wickedness</em>. That is the same verb, "
+            "<em>pasavati</em>, used of merit in AN 3.41 and AN 3.46. The mechanism is identical and "
+            "it runs in both directions.",
+            "Notice what is not promised: no thunderbolt, no exposure, no institutional correction. "
+            "The protection works and the damage accrues anyway. The discourse does not resolve the "
+            "situation, and it is more useful for that."]),
+        ("Wrong view as cover", [
+            "The middle term repays attention. <em>Micchādiṭṭhi</em>, wrong view, is glossed here as "
+            "attachment to an extreme view, <em>antaggāhikā diṭṭhi</em> &mdash; a view that seizes an "
+            "end, one of the positions the canon treats as unanswerable and unprofitable: that the "
+            "world is eternal or not, that a Realized One exists after death or does not.",
+            "Calling those <em>cover</em> is a sharp piece of observation. An extreme view is not "
+            "described here as an intellectual error but as somewhere to hide, and what it hides is "
+            "the conduct named in the first item. A person defending a large position is not being "
+            "asked about their behavior.",
+            "Anyone who has watched a religious argument will recognize the mechanism, and it is "
+            "worth telling a class that the discourse&rsquo;s three items form a working system "
+            "rather than a list. The conduct gives you something to hide; the view gives you "
+            "somewhere to hide it; the patron makes the pursuit not worth anyone&rsquo;s trouble."]),
+        ("Using it", [
+            "This is the discourse to teach when a class asks whether Buddhism has anything to say "
+            "about institutional corruption. It does, in three sentences, and it says it about its "
+            "own institution rather than somebody else&rsquo;s.",
+            "The reading to avoid is the comfortable one in which the thief is a metaphor and the "
+            "rulers are a symbol of attachment. The text spends four words &mdash; <em>and "
+            "that&rsquo;s exactly what happens</em> &mdash; to prevent it.",
+            "Read it against AN 3.46, four discourses earlier, where a town that supports ethical "
+            "renunciates generates merit through three doors. The chapter puts the two arrangements "
+            "twelve lines apart and lets the reader notice that the same relationship runs both ways "
+            "depending on one adjective."]),
+    ],
+    terms=[
+        ("mahācora",
+         "&ldquo;master thief&rdquo; &mdash; literally great thief, one who operates at scale: "
+         "housebreaking, plunder, and highway robbery."),
+        ("visamaṁ nissāya",
+         "&ldquo;relying on uneven ground&rdquo; &mdash; inaccessible riverlands and rugged "
+         "mountains, terrain that makes pursuit expensive. Applied to a mendicant, it becomes "
+         "unethical conduct."),
+        ("vigayhaṁ nissāya",
+         "&ldquo;relying on thick cover&rdquo; &mdash; heavy grass, dense trees, a blind spot, a "
+         "forest grove. Applied to a mendicant, it becomes attachment to an extreme view."),
+        ("antaggāhikā diṭṭhi",
+         "&ldquo;a view that seizes an end&rdquo; &mdash; the extremist positions the canon treats "
+         "as unanswerable, here described not as an error but as somewhere to hide."),
+        ("pasavati",
+         "&ldquo;brims with, generates&rdquo; &mdash; the same verb used of merit in AN 3.41 and AN "
+         "3.46, used here of wickedness. The mechanism runs in both directions."),
+    ],
+    text_intro=(
+        "The discourse in full, both halves. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The master thief"),
+        ("p", "&sect;1", "an3.50:1.1-1.6"),
+        ("p", "&sect;2", "an3.50:2.1-2.3"),
+        ("p", "&sect;3", "an3.50:3.1-3.7"),
+        ("h3", "The bad mendicant"),
+        ("p", "&sect;4", "an3.50:4.1-4.3"),
+        ("p", "&sect;5", "an3.50:5.1-5.2"),
+        ("p", "&sect;6", "an3.50:6.1-6.2"),
+        ("p", "&sect;7", "an3.50:7.1-7.7"),
+    ],
+    quiz=[
+        {"q": "What three things does a master thief rely on?",
+         "opts": [
+             "Speed, silence, and darkness",
+             "Uneven ground, thick cover, and the powerful",
+             "Weapons, accomplices, and disguise",
+             "Wealth, reputation, and luck"],
+         "correct": 1,
+         "expl": "Terrain that makes pursuit expensive, somewhere to hide, and someone to speak for him."},
+        {"q": "What four words make the third item memorable?",
+         "opts": [
+             "&ldquo;So he believes.&rdquo;",
+             "&ldquo;But he is wrong.&rdquo;",
+             "&ldquo;And that&rsquo;s exactly what happens.&rdquo;",
+             "&ldquo;Until he is caught.&rdquo;"],
+         "correct": 2,
+         "expl": "The canon is not describing a hopeful delusion; it is stating that the protection works."},
+        {"q": "What does uneven ground become when the simile is applied?",
+         "opts": [
+             "Difficult scriptures",
+             "Unethical conduct by body, speech, and mind",
+             "A remote monastery",
+             "Poverty"],
+         "correct": 1,
+         "expl": "The rough terrain is the person&rsquo;s own behavior."},
+        {"q": "What does thick cover become?",
+         "opts": [
+             "Silence",
+             "Learning",
+             "Wrong view &mdash; specifically attachment to an extremist view",
+             "A crowd of followers"],
+         "correct": 2,
+         "expl": "A position dense enough to hide inside."},
+        {"q": "What happens to the third support in the application?",
+         "opts": [
+             "It becomes attachment to praise",
+             "It becomes reliance on the laity",
+             "It is not converted at all &mdash; it is repeated word for word, rulers and chief ministers included",
+             "It is dropped"],
+         "correct": 2,
+         "expl": "Two items became spiritual failings; the third was left in the world as a plain fact."},
+        {"q": "Why does the guide call that notable?",
+         "opts": [
+             "Because it is poorly composed",
+             "Because it is an early Buddhist text saying without qualification that a monastic with friends in government can misbehave and be defended &mdash; preserved in the canon of the institution it describes",
+             "Because it criticizes kings",
+             "Because it is unique in the canon"],
+         "correct": 1,
+         "expl": "Self-criticism of this kind is not universal in religious literature."},
+        {"q": "What verb links this discourse to AN 3.41 and AN 3.46?",
+         "opts": [
+             "<em>Pasavati</em>, brims with or generates &mdash; used of merit there and of wickedness here",
+             "<em>Nissāya</em>, relying on",
+             "<em>Paññāyati</em>, is evident",
+             "<em>Deseti</em>, teaches"],
+         "correct": 0,
+         "expl": "The mechanism is identical and it runs in both directions."},
+        {"q": "What does the discourse conspicuously not promise?",
+         "opts": [
+             "That the bad mendicant is damaged",
+             "That sensible people will criticize him",
+             "Any thunderbolt, exposure, or institutional correction &mdash; the protection works and the damage accrues anyway",
+             "That wickedness accumulates"],
+         "correct": 2,
+         "expl": "The discourse does not resolve the situation, and it is more useful for that."},
+        {"q": "How do the three items work together, in the guide&rsquo;s reading?",
+         "opts": [
+             "As an unordered list",
+             "As a working system &mdash; the conduct gives you something to hide, the view gives you somewhere to hide it, the patron makes pursuit not worth anyone&rsquo;s trouble",
+             "As three independent failings",
+             "As stages in a career"],
+         "correct": 1,
+         "expl": "Anyone who has watched a religious argument will recognize the mechanism."},
+        {"q": "Which discourse does the guide recommend reading this against?",
+         "opts": [
+             "AN 3.46, where a town supporting <em>ethical</em> renunciates generates merit &mdash; the same relationship running the other way, twelve lines earlier",
+             "AN 3.47, on the conditioned",
+             "AN 3.36, on the messengers",
+             "AN 3.44, on conversation"],
+         "correct": 0,
+         "expl": "The whole difference is one adjective."},
+    ],
+    marginalia=[
+        ("Three supports", [
+            "uneven ground",
+            "thick cover",
+            "the powerful",
+        ]),
+        ("What they become", [
+            "unethical conduct",
+            "an extremist view",
+            "rulers and chief ministers",
+            "&mdash; the third, unchanged",
+        ]),
+        ("Four words", [
+            "&ldquo;and that&rsquo;s exactly",
+            "what happens.&rdquo;",
+            "&mdash; twice, for both figures",
+        ]),
+        ("Cross-references", [
+            "AN 3.46 &middot; the ethical renunciate",
+            "AN 3.41 &middot; the same verb, for merit",
+            "AN 3.11 &middot; a well-known mendicant",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.50/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.46.html">AN 3.46 &middot; Ethical</a> &mdash; the same relationship between a '
+        "community and its renunciates with the ethics in place, four discourses earlier in this "
+        "chapter. The pairing is the chapter&rsquo;s own argument.",
+        '<a href="an-3.11.html">AN 3.11 &middot; Well-known</a> &mdash; the earlier discourse on what '
+        "a prominent monastic&rsquo;s conduct does to everyone who follows them, which is the damage "
+        "this one describes from the inside.",
+        '<a href="/sutras/nanshan-lu/index.html">Nanshan Vinaya for Laypeople</a> &mdash; '
+        "Hongyi&rsquo;s compendium of the Chinese vinaya tradition, for how a later school handled "
+        "the same problem: what the precepts are for, and what a community does when they are not "
+        "kept.",
+    ],
+)
