@@ -25192,3 +25192,2348 @@ page(
         "single grid was set out.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Kesivagga — the twelfth chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_12 = "<em>Kesivagga</em> &mdash; the twelfth chapter of the Fours"
+SETTING_12 = ("None stated; the Kesivagga gives no location for this discourse, and it is addressed "
+              "to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.111 — Kesisutta
+# --------------------------------------------------------------------------- #
+page(
+    111, "Kesi", "With Kesi",
+    vagga=VAGGA_12,
+    meta_title="AN 4.111 — With Kesi | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kesisutta — a horse trainer "
+        "asks how the Buddha trains people, and hears that he too kills the ones who will not learn. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Kesi the horse trainer comes to the Buddha and is addressed first"),
+        ("Speakers", "The Buddha and Kesi the horse trainer"),
+        ("Form", "A conversation in four turns, ending in a going for refuge"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The horse-trainer exchange appears across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a short conversation with one "
+                       "line in it that stops most readers"),
+    ],
+    why=(
+        "A professional horse trainer describes his methods &mdash; gently, harshly, or both &mdash; "
+        "and says he kills a horse that will not respond to any of them. Asked the same question, "
+        "the Buddha gives the same three methods and then says: <em>In that case, Kesi, I kill "
+        "them.</em> Kesi objects, and the answer he gets is the discourse."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There is a point past which a teacher stops teaching, and being no longer taught is "
+            "described as being killed."]),
+        ("The three methods", [
+            "Kesi trains <em>sometimes gently, sometimes harshly, and sometimes both</em>, and the "
+            "Buddha reports the identical three. The correspondence is exact and the discourse spends "
+            "no time on it.",
+            "The content is then specified. The gentle way is describing good conduct, its results, "
+            "and life as a god or a human. The harsh way is describing bad conduct, its results, and "
+            "life in hell, as an animal, or as a ghost. The mixed way is both.",
+            "So &lsquo;harsh&rsquo; here does not mean cruelty or abuse. It means telling someone "
+            "about consequences they will not like, and that is worth stating clearly because the "
+            "word invites a worse reading. The Buddha&rsquo;s harsh method is a description of "
+            "outcomes.",
+            "It is also worth noticing what is absent from all three: nothing about technique, "
+            "meditation, or doctrine. The whole of the training as described to Kesi is telling "
+            "people what conduct leads to."]),
+        ("The line that stops readers", [
+            "<em>In that case, Kesi, I kill them.</em> Kesi&rsquo;s objection is immediate and "
+            "correct: <em>it&rsquo;s not appropriate for the Buddha to kill living creatures.</em>",
+            "The Buddha agrees with the objection before answering it &mdash; <em>it&rsquo;s true, "
+            "Kesi</em> &mdash; and then gives the sense in which the word was used: when a person "
+            "will not respond to any form of training, the Realized One does not think them worth "
+            "advising or instructing, and neither do their sensible spiritual companions. "
+            "<em>For it is killing in the training of the Noble One</em> when that happens.",
+            "So the answer is that the word has a specialized sense within this training, and the "
+            "specialized sense is being cut off from instruction. The discourse constructs its own "
+            "shock and then dismantles it in four lines.",
+            "That is worth teaching as a method as much as a content. The exchange works because "
+            "Kesi is allowed to object, the objection is granted, and the answer arrives as a "
+            "clarification rather than as a rebuke."]),
+        ("What is actually being described", [
+            "Two things happen, and they are stated separately: the Realized One stops thinking the "
+            "person worth advising, <em>and</em> their sensible companions stop too.",
+            "The second half is the substantial one. Being given up on by a teacher is one thing; "
+            "being given up on by everyone around you who has any judgment is another, and the "
+            "discourse names both.",
+            "It should be said plainly that this is a description of exclusion, and a serious one. "
+            "The collection is not usually in the business of writing people off &mdash; AN 4.93 gave "
+            "the person with neither serenity nor discernment an instruction rather than a dismissal, "
+            "and AN 4.85 said the corpse-worker who acts well goes to a heavenly realm.",
+            "What distinguishes this case is the condition: the person <em>does not follow any of "
+            "these forms of training</em>. Not that they are failing at them, but that none of the "
+            "three has any purchase. Gentle description of good outcomes, harsh description of bad "
+            "ones, and both together have all been tried."]),
+        ("Kesi&rsquo;s own answer", [
+            "The discourse does not comment on what Kesi does to horses, and a modern reader will "
+            "want it to. He kills them, and his reason is given: <em>so that I don&rsquo;t disgrace "
+            "my tradition</em>.",
+            "That reason is about professional reputation rather than about the animal, and the "
+            "discourse lets it stand without remark. It is worth being honest that this is a text "
+            "from a world in which killing a useless working animal was unremarkable, and that "
+            "nothing in the exchange criticizes it.",
+            "What the discourse does do is take Kesi&rsquo;s word and refuse his practice. The "
+            "Buddha uses the same verb and means something that involves no violence at all, which "
+            "is a more interesting move than a rebuke would have been. Kesi is not told he is wrong "
+            "about horses; he is shown a different thing the word can name."]),
+        ("&lsquo;They&rsquo;re definitely dead&rsquo;", [
+            "Kesi&rsquo;s reply is the discourse&rsquo;s last substantive line, and it is a good one: "
+            "<em>Well, they&rsquo;re definitely dead when the Realized One doesn&rsquo;t think "
+            "they&rsquo;re worth advising or instructing, and neither do their sensible spiritual "
+            "companions.</em>",
+            "He has accepted the redefinition and drawn the consequence himself, which is why the "
+            "going for refuge that follows reads as earned rather than formulaic. He was not "
+            "persuaded of a doctrine; he was shown that a word he uses professionally names something "
+            "worse than what he does with it.",
+            "The Kesivagga takes its name from this discourse, and the chapter that follows is full "
+            "of training similes &mdash; thoroughbreds, a goad, a royal elephant. This is the "
+            "conversation that sets them up."]),
+    ],
+    terms=[
+        ("assadamma",
+         "&ldquo;horse in training&rdquo; &mdash; and <em>assadammasārathi</em>, horse trainer; the "
+         "same word used of the Buddha as &lsquo;supreme guide for those fit for training&rsquo;."),
+        ("saṇha / pharusa",
+         "&ldquo;gentle&rdquo; and &ldquo;harsh&rdquo; &mdash; the two methods, where harsh means "
+         "describing consequences a person will not like."),
+        ("vadhati",
+         "&ldquo;kills&rdquo; &mdash; used by both speakers, with a specialized sense in the training "
+         "of the Noble One: being cut off from instruction."),
+        ("ovadati anusāsati",
+         "&ldquo;advises and instructs&rdquo; &mdash; what stops; the pair covers correction and "
+         "teaching."),
+        ("ariyassa vinaye",
+         "&ldquo;in the training of the Noble One&rdquo; &mdash; the phrase that marks the "
+         "specialized sense of a word."),
+    ],
+    text_intro=(
+        "The discourse in full: the exchange about methods, the line about killing, the "
+        "clarification, and the going for refuge. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "How Kesi trains a horse"),
+        ("p", "&sect;1", "an4.111:1.1-1.9"),
+        ("h3", "How the Buddha trains a person"),
+        ("p", "&sect;2", "an4.111:2.1-2.7"),
+        ("p", "&sect;3", "an4.111:3.1-3.2"),
+        ("h3", "&ldquo;I kill them&rdquo;"),
+        ("p", "&sect;4", "an4.111:4.1-4.10"),
+        ("h3", "Kesi takes refuge"),
+        ("p", "&sect;5", "an4.111:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What three methods does Kesi describe?",
+         "opts": [
+             "Reward, punishment, and neglect",
+             "Gently, harshly, and both gently and harshly",
+             "Speed, endurance, and obedience",
+             "By voice, by rein, and by goad"],
+         "correct": 1,
+         "expl": "And the Buddha reports the identical three."},
+        {"q": "What does the harsh method consist of?",
+         "opts": [
+             "Physical discipline",
+             "Describing bad conduct, its results, and life in hell, as an animal, or as a ghost",
+             "Public rebuke",
+             "Withdrawal of instruction"],
+         "correct": 1,
+         "expl": "Not cruelty or abuse &mdash; a description of outcomes."},
+        {"q": "What is absent from all three methods?",
+         "opts": [
+             "Any mention of consequences",
+             "Anything about technique, meditation, or doctrine &mdash; the whole training as described to Kesi is telling people what conduct leads to",
+             "Any mention of gods",
+             "Any mention of conduct"],
+         "correct": 1,
+         "expl": "Worth noticing."},
+        {"q": "How does the Buddha respond to Kesi&rsquo;s objection?",
+         "opts": [
+             "He rebukes him",
+             "He agrees with the objection first &mdash; &lsquo;it&rsquo;s true, Kesi&rsquo; &mdash; and then gives the sense in which the word was used",
+             "He changes the subject",
+             "He repeats the claim"],
+         "correct": 1,
+         "expl": "The answer arrives as a clarification rather than a rebuke."},
+        {"q": "What does &lsquo;killing&rsquo; mean in the training of the Noble One?",
+         "opts": [
+             "Expulsion from the Saṅgha",
+             "That the Realized One does not think the person worth advising or instructing, and neither do their sensible spiritual companions",
+             "Rebirth in hell",
+             "A vow of silence"],
+         "correct": 1,
+         "expl": "The discourse constructs its own shock and dismantles it in four lines."},
+        {"q": "Which half of that does the guide call the substantial one?",
+         "opts": [
+             "The teacher&rsquo;s",
+             "The companions&rsquo; &mdash; being given up on by everyone around you who has any judgment",
+             "Neither",
+             "Both equally"],
+         "correct": 1,
+         "expl": "The discourse names both separately."},
+        {"q": "What condition distinguishes this case from the collection&rsquo;s usual practice?",
+         "opts": [
+             "The person is a layman",
+             "The person does not follow <em>any</em> of the three forms of training &mdash; not that they are failing, but that none has any purchase",
+             "The person has left the Saṅgha",
+             "The person has committed an offense"],
+         "correct": 1,
+         "expl": "AN 4.93 gave the person with neither serenity nor discernment an instruction rather than a dismissal."},
+        {"q": "What reason does Kesi give for killing a horse?",
+         "opts": [
+             "That it suffers",
+             "So that he does not disgrace his tradition",
+             "That it is dangerous",
+             "That it costs too much to keep"],
+         "correct": 1,
+         "expl": "About professional reputation rather than about the animal, and the discourse lets it stand."},
+        {"q": "How does the guide describe the Buddha&rsquo;s move?",
+         "opts": [
+             "A rebuke of Kesi&rsquo;s practice",
+             "Taking Kesi&rsquo;s word and refusing his practice &mdash; using the same verb to mean something that involves no violence",
+             "An endorsement",
+             "An evasion"],
+         "correct": 1,
+         "expl": "Kesi is shown a different thing the word can name."},
+        {"q": "Why does the guide say the going for refuge reads as earned?",
+         "opts": [
+             "Because it is long",
+             "Because Kesi has accepted the redefinition and drawn the consequence himself before taking refuge",
+             "Because he was a professional",
+             "Because the Buddha invited it"],
+         "correct": 1,
+         "expl": "He was shown that a word he uses professionally names something worse than what he does with it."},
+    ],
+    marginalia=[
+        ("Three methods", [
+            "gently &middot; good conduct, its results",
+            "harshly &middot; bad conduct, its results",
+            "both",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">vadhati</span>kills",
+            "in the Noble One&rsquo;s training:",
+            "no longer worth instructing",
+        ]),
+        ("Two abandonments", [
+            "the Realized One",
+            "and the sensible companions",
+            "&mdash; both stated",
+        ]),
+        ("Cross-references", [
+            "AN 4.93 &middot; an instruction, not a dismissal",
+            "AN 4.112 &middot; next: the thoroughbred&rsquo;s four factors",
+            "AN 4.113 &middot; the goad",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.111/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.112.html">AN 4.112 &middot; Speed</a> &mdash; next in this series, and the '
+        "first of the chapter&rsquo;s training similes.",
+        '<a href="an-4.93.html">AN 4.93 &middot; Immersion (2nd)</a> &mdash; where the person with '
+        "nothing to build on gets an instruction rather than a dismissal.",
+        '<a href="an-4.100.html">AN 4.100 &middot; With Potaliya the Wanderer</a> &mdash; the other '
+        "conversation in the Fours that ends in a going for refuge.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.112 — Javasutta
+# --------------------------------------------------------------------------- #
+page(
+    112, "Java", "Speed",
+    vagga=VAGGA_12,
+    meta_title="AN 4.112 — Speed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Javasutta — integrity, "
+        "speed, patience, and gentleness: four factors of a royal thoroughbred and of a mendicant "
+        "worth giving to. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_12),
+        ("Speakers", SPEAKER),
+        ("Form", "Four factors of a horse, then the same four of a mendicant, with no definitions"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The thoroughbred&rsquo;s factors appear across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four words applied twice, and the "
+                       "second application is the claim"),
+    ],
+    why=(
+        "Four factors make a horse worthy of a king: integrity, speed, patience, gentleness. The "
+        "same four make a mendicant the supreme field of merit for the world. The discourse defines "
+        "none of them and the whole of its content is in the transfer &mdash; the qualities of an "
+        "animal fit for royal service, applied without alteration to a person fit to receive a "
+        "gift."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four qualities make a horse worth a king&rsquo;s stable and a mendicant worth a "
+            "donor&rsquo;s gift."]),
+        ("The four", [
+            "<em>Ajjava</em>, integrity or straightness &mdash; literally uprightness, and of a horse "
+            "it means not shying, balking, or going crooked. <em>Java</em>, speed. <em>Khanti</em>, "
+            "patience or endurance. <em>Soracca</em>, gentleness or good temper.",
+            "Of the four, only <em>java</em> is peculiar to horses. The other three are among the "
+            "collection&rsquo;s standard virtues, and <em>khanti</em> in particular is one of its "
+            "highest &mdash; the Dhammapada calls it the supreme austerity.",
+            "So the transfer is not as strained as it might look. Three of the four terms already "
+            "belong to both registers, and the discourse is largely borrowing one word."]),
+        ("What speed means for a mendicant", [
+            "The discourse does not say, and AN 4.114, three discourses later, does: a mendicant "
+            "&lsquo;goes fast&rsquo; by going swiftly <em>in the direction they have never gone "
+            "before in all this long time</em> &mdash; the stilling of activities, the letting go of "
+            "attachments, the ending of craving, extinguishment.",
+            "That is the chapter&rsquo;s own gloss and it is worth importing here. Speed is not "
+            "quickness of understanding or of practice; it is direction. The fast horse goes where "
+            "the trainer sends it without hesitation, and the fast mendicant goes toward the one "
+            "destination that has never been reached.",
+            "Read that way the four factors are not a list of good qualities but a description of a "
+            "trained animal: straight, quick to the target, able to endure, and manageable. Every one "
+            "of them is about being usable."]),
+        ("&lsquo;Worthy of a king&rsquo; and &lsquo;field of merit&rsquo;", [
+            "The two conclusions are parallel and the parallel is the discourse&rsquo;s argument. A "
+            "horse with these four is <em>worthy of a king, fit to serve a king, a factor of "
+            "kingship</em>. A mendicant with these four is worthy of offerings, hospitality, "
+            "religious donation, veneration, and is the supreme field of merit for the world.",
+            "Both formulas are about being worth what is spent on you. A king&rsquo;s horse consumes "
+            "resources and is justified by service; a mendicant consumes robes, food, lodging, and "
+            "medicine and is justified by being a field in which a gift grows.",
+            "That is a blunter account of the monastic economy than the collection usually gives, and "
+            "it is worth registering. AN 4.51 said the donor&rsquo;s merit is limitless when the "
+            "recipient enters a limitless immersion; this says the recipient has to be worth keeping."]),
+        ("The chapter&rsquo;s animals", [
+            "The Kesivagga runs on trained animals: a horse trainer in AN 4.111, thoroughbreds here "
+            "and in AN 4.113, a royal elephant in AN 4.114.",
+            "Four consecutive discourses about animals that are valuable because they have been "
+            "trained, and in every case the point of comparison is the same &mdash; a mendicant is a "
+            "trained creature whose value is in what the training produced.",
+            "It is not a flattering register and the collection uses it without embarrassment. The "
+            "counterweight elsewhere is the language of lotuses and gold; here it is stables and "
+            "battle."]),
+        ("Why no definitions", [
+            "This discourse gives four words twice and stops. AN 4.113 will elaborate the "
+            "thoroughbred image at length, and AN 4.114 will define each of a different four factors "
+            "for the elephant.",
+            "So this is the bare statement of a theme the chapter then develops, in the same relation "
+            "as AN 4.92 to AN 4.93 and 4.94.",
+            "A reader should take it as an opening rather than as a teaching in itself. Its useful "
+            "contribution is the parallel between royal service and the field of merit, which the "
+            "longer discourses assume without restating."]),
+    ],
+    terms=[
+        ("ajjava",
+         "&ldquo;integrity, straightness&rdquo; &mdash; of a horse, not shying or going crooked; of a "
+         "person, uprightness."),
+        ("java",
+         "&ldquo;speed&rdquo; &mdash; the one factor peculiar to horses, glossed by AN 4.114 as "
+         "going swiftly toward extinguishment."),
+        ("khanti",
+         "&ldquo;patience, endurance&rdquo; &mdash; one of the collection&rsquo;s highest virtues; "
+         "the Dhammapada calls it the supreme austerity."),
+        ("soracca",
+         "&ldquo;gentleness, good temper&rdquo; &mdash; manageability, in both the equine and the "
+         "human application."),
+        ("puññakkhetta",
+         "&ldquo;field of merit&rdquo; &mdash; the human conclusion, parallel to the horse&rsquo;s "
+         "being a factor of kingship."),
+    ],
+    text_intro=(
+        "The discourse in full: the four factors of a thoroughbred and of a mendicant. The ellipses "
+        "are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A royal thoroughbred"),
+        ("p", "&sect;1", "an4.112:1.1-1.4"),
+        ("h3", "A mendicant"),
+        ("p", "&sect;2", "an4.112:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What are the four factors?",
+         "opts": [
+             "Listening, destroying, enduring, going fast",
+             "Integrity, speed, patience, and gentleness",
+             "Faith, ethics, generosity, wisdom",
+             "Strength, beauty, obedience, and stamina"],
+         "correct": 1,
+         "expl": "Applied without alteration to horse and to mendicant."},
+        {"q": "Which of the four is peculiar to horses?",
+         "opts": [
+             "Integrity",
+             "Speed",
+             "Patience",
+             "Gentleness"],
+         "correct": 1,
+         "expl": "The other three are among the collection&rsquo;s standard virtues."},
+        {"q": "What does the Dhammapada say of <em>khanti</em>?",
+         "opts": [
+             "That it is rare",
+             "That it is the supreme austerity",
+             "That it is for monastics",
+             "Nothing"],
+         "correct": 1,
+         "expl": "One of the collection&rsquo;s highest virtues."},
+        {"q": "How does AN 4.114 gloss speed for a mendicant?",
+         "opts": [
+             "As quickness of understanding",
+             "As going swiftly in the direction never gone before &mdash; the stilling of activities, the ending of craving, extinguishment",
+             "As diligence",
+             "As haste"],
+         "correct": 1,
+         "expl": "Speed is direction, not quickness."},
+        {"q": "What do the four factors describe, read together?",
+         "opts": [
+             "A list of good qualities",
+             "A trained animal &mdash; straight, quick to the target, able to endure, and manageable; every one about being usable",
+             "The stages of the path",
+             "The four assemblies"],
+         "correct": 1,
+         "expl": "The transfer is a description of training, not of virtue in general."},
+        {"q": "What do the two conclusions have in common?",
+         "opts": [
+             "Nothing",
+             "Both are about being worth what is spent on you &mdash; the horse justified by service, the mendicant by being a field in which a gift grows",
+             "Both concern kings",
+             "Both concern merit"],
+         "correct": 1,
+         "expl": "The parallel is the discourse&rsquo;s argument."},
+        {"q": "Why does the guide call that blunt?",
+         "opts": [
+             "Because it mentions money",
+             "Because it is a blunter account of the monastic economy than the collection usually gives &mdash; the recipient has to be worth keeping",
+             "Because it insults mendicants",
+             "Because kings are involved"],
+         "correct": 1,
+         "expl": "AN 4.51 said the donor&rsquo;s merit is limitless when the recipient enters a limitless immersion."},
+        {"q": "What runs through the Kesivagga&rsquo;s first four discourses?",
+         "opts": [
+             "Kings",
+             "Trained animals &mdash; a horse trainer, thoroughbreds twice, and a royal elephant",
+             "Verses",
+             "Lay followers"],
+         "correct": 1,
+         "expl": "In every case a mendicant is a trained creature whose value is in what the training produced."},
+        {"q": "How does the guide describe that register?",
+         "opts": [
+             "As flattering",
+             "As not flattering, and used without embarrassment &mdash; with lotuses and gold as the counterweight elsewhere",
+             "As unique to this chapter",
+             "As late"],
+         "correct": 1,
+         "expl": "Stables and battle."},
+        {"q": "How should this discourse be taken?",
+         "opts": [
+             "As the chapter&rsquo;s main teaching",
+             "As an opening &mdash; the bare statement of a theme that AN 4.113 and 4.114 develop",
+             "As a summary",
+             "As a variant"],
+         "correct": 1,
+         "expl": "The same relation as AN 4.92 to AN 4.93 and 4.94."},
+    ],
+    marginalia=[
+        ("Four factors", [
+            "<span class=\"pali\">ajjava</span>integrity",
+            "<span class=\"pali\">java</span>speed",
+            "<span class=\"pali\">khanti</span>patience",
+            "<span class=\"pali\">soracca</span>gentleness",
+        ]),
+        ("Speed, glossed", [
+            "not quickness",
+            "&mdash; direction",
+            "toward what was never reached",
+        ]),
+        ("Two conclusions", [
+            "worthy of a king",
+            "the supreme field of merit",
+            "&mdash; both: worth what is spent",
+        ]),
+        ("Cross-references", [
+            "AN 4.113 &middot; next: the goad",
+            "AN 4.114 &middot; the elephant, and speed defined",
+            "AN 4.51 &middot; the recipient and the donor&rsquo;s merit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.112/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.113.html">AN 4.113 &middot; The Goad</a> &mdash; next in this series.',
+        '<a href="an-4.114.html">AN 4.114 &middot; A Royal Elephant</a> &mdash; where the four '
+        "factors are each defined, including speed.",
+        '<a href="an-4.51.html">AN 4.51 &middot; Overflowing Merit</a> &mdash; on what makes a '
+        "recipient worth giving to.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.113 — Patodasutta
+# --------------------------------------------------------------------------- #
+page(
+    113, "Patoda", "The Goad",
+    vagga=VAGGA_12,
+    meta_title="AN 4.113 — The Goad | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Patodasutta — four "
+        "thoroughbreds moved by the shadow of the goad, by a struck hair, by struck hide, or by "
+        "struck bone; and four people moved by hearing of a death, seeing one, losing a relative, or "
+        "falling ill. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_12),
+        ("Speakers", SPEAKER),
+        ("Form", "Four horses graded by what moves them, then four people on the same scale"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The goad simile appears across the Chinese Āgamas and at SN 3.13 in a "
+                              "different application; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the chapter&rsquo;s central "
+                       "discourse, and one of the collection&rsquo;s best"),
+    ],
+    why=(
+        "One thoroughbred moves when it sees the shadow of the goad. Another needs its hairs struck, "
+        "another its hide, another its bone. And four people: one is moved by hearing that someone "
+        "in some village has died, one has to see it, one has to lose a relative, and one has to be "
+        "dying themselves. The scale is not about ability. It is about how close the news has to "
+        "come."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Everyone is eventually moved by mortality; what differs is how near it has to get."]),
+        ("The four horses", [
+            "The gradation is physical and exact: the shadow of the goad, the hairs, the hide, the "
+            "bone. Each is a stage further in, and the last requires the animal to be actually "
+            "injured.",
+            "What is being measured is responsiveness &mdash; how much signal a creature needs before "
+            "it acts. All four are called <em>fine thoroughbreds</em>, which is worth noticing: none "
+            "of the four is a bad horse. They differ in sensitivity, not in quality.",
+            "The horse&rsquo;s thought is given in each case and it is identical: <em>What task will "
+            "the horse trainer have me do today? How should I respond?</em> That is not fear. It is a "
+            "trained animal orienting to work, and the goad&rsquo;s shadow is a cue rather than a "
+            "threat."]),
+        ("The four people", [
+            "One hears that a woman or man in such-and-such village has suffered or died. One does "
+            "not hear it but sees it. One neither hears nor sees but loses a relative. One is "
+            "afflicted themselves with pain that is <em>sharp, severe, acute, unpleasant, "
+            "disagreeable, and life-threatening</em>.",
+            "The gradation is distance. A stranger reported, a stranger witnessed, a family member, "
+            "and oneself. Each step brings mortality one relation closer.",
+            "And in every case the response is identical: <em>they&rsquo;re moved to act by this, and "
+            "strive effectively. Applying themselves, they directly realize the ultimate truth, and "
+            "see it with penetrating wisdom.</em>",
+            "That identity is the discourse&rsquo;s most important feature. All four arrive. The "
+            "fourth person, who needed to be dying, realizes the same ultimate truth as the first."]),
+        ("<em>Saṁvega</em>", [
+            "The word for what happens to them is <em>saṁvijjati</em> &mdash; they are shaken, "
+            "stirred, moved. The noun <em>saṁvega</em> is one of the tradition&rsquo;s important "
+            "terms and has no good English equivalent: urgency, spiritual shock, the jolt that "
+            "converts a fact one knew into a fact one has registered.",
+            "Everyone in this discourse already knew that people die. The four differ in what it took "
+            "for the knowledge to become <em>saṁvega</em>, and the discourse treats that as the whole "
+            "variable.",
+            "That is a precise psychological observation and it is why the discourse has lasted. It "
+            "does not say some people are more spiritual than others. It says information about death "
+            "has to travel a certain distance before it lands, and the distance differs."]),
+        ("The ranking, and how to use it", [
+            "The four are ranked &mdash; first, second, third, fourth &mdash; and the first is the "
+            "most responsive. There is no suggestion that being moved only at the fourth stage is "
+            "culpable.",
+            "That matters for how the discourse is taught. The obvious misuse is as a reproach: why "
+            "does it take so much to move you? The discourse does not ask that question, and all four "
+            "of its subjects succeed.",
+            "The better use is diagnostic and forward-looking. A person can notice which of the four "
+            "they have been so far and can also notice that the earlier stages are available now, "
+            "before the later ones arrive. Reading a report of a stranger&rsquo;s death is available "
+            "to anyone today; being struck on the bone will come when it comes.",
+            "AN 4.118, five discourses later, names four places worth visiting because they are "
+            "<em>inspiring</em> &mdash; <em>saṁvejanīya</em>, from the same root. The chapter offers "
+            "at least one deliberate way of producing what this discourse describes happening by "
+            "accident."]),
+        ("The horse and the person do not match", [
+            "It is worth being precise about where the simile holds and where it does not.",
+            "For the horse, the goad is applied by a trainer and the gradation is a matter of how "
+            "hard the trainer has to push. For the person, nobody is applying anything. Deaths happen "
+            "and the person is nearer or further from them.",
+            "So the trainer drops out of the human half entirely, and the goad becomes circumstance. "
+            "That is an unusual asymmetry for one of these similes and the discourse does not remark "
+            "on it.",
+            "What survives the transfer is only the scale of proximity, and that is enough. The image "
+            "supplies four calibrated distances and the application fills them with four relations to "
+            "a death, which is all the simile is being asked to do."]),
+    ],
+    terms=[
+        ("patoda",
+         "&ldquo;goad&rdquo; &mdash; the driving stick; its shadow is a cue rather than a threat."),
+        ("saṁvijjati / saṁvega",
+         "&ldquo;is stirred&rdquo; and &ldquo;urgency&rdquo; &mdash; the jolt that converts a fact "
+         "one knew into a fact one has registered."),
+        ("bhaddo assājānīyo",
+         "&ldquo;fine thoroughbred&rdquo; &mdash; applied to all four horses; they differ in "
+         "sensitivity, not in quality."),
+        ("yoniso padahati",
+         "&ldquo;strives effectively&rdquo; &mdash; the identical response of all four people, "
+         "followed by the same realization."),
+        ("paramasacca",
+         "&ldquo;the ultimate truth&rdquo; &mdash; what all four directly realize and see with "
+         "penetrating wisdom."),
+    ],
+    text_intro=(
+        "The discourse in full: the four thoroughbreds and the four people. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four thoroughbreds"),
+        ("p", "&sect;1", "an4.113:1.1-1.6"),
+        ("p", "&sect;2", "an4.113:2.1-2.4"),
+        ("p", "&sect;3", "an4.113:3.1-3.4"),
+        ("p", "&sect;4", "an4.113:4.1-4.5"),
+        ("h3", "Four people"),
+        ("p", "&sect;5", "an4.113:5.1-5.11"),
+        ("p", "&sect;6", "an4.113:6.1-6.9"),
+        ("p", "&sect;7", "an4.113:7.1-7.9"),
+        ("p", "&sect;8", "an4.113:8.1-8.10"),
+    ],
+    quiz=[
+        {"q": "What moves the four thoroughbreds?",
+         "opts": [
+             "Food, water, rest, and praise",
+             "The shadow of the goad, struck hairs, struck hide, and struck bone",
+             "The voice, the rein, the whip, and the spur",
+             "Four kinds of trainer"],
+         "correct": 1,
+         "expl": "Each is a stage further in, and the last requires actual injury."},
+        {"q": "What is notable about all four horses?",
+         "opts": [
+             "They are royal",
+             "All four are called fine thoroughbreds &mdash; they differ in sensitivity, not in quality",
+             "They are the same age",
+             "They are untrained"],
+         "correct": 1,
+         "expl": "None of the four is a bad horse."},
+        {"q": "What is the horse&rsquo;s thought in each case?",
+         "opts": [
+             "Fear of the goad",
+             "&lsquo;What task will the horse trainer have me do today? How should I respond?&rsquo;",
+             "A wish to escape",
+             "Nothing is stated"],
+         "correct": 1,
+         "expl": "A trained animal orienting to work, not fear."},
+        {"q": "What moves the four people?",
+         "opts": [
+             "Four kinds of teaching",
+             "Hearing of a stranger&rsquo;s death, seeing one, losing a relative, and being gravely ill themselves",
+             "Four kinds of loss",
+             "The four inspiring places"],
+         "correct": 1,
+         "expl": "The gradation is distance &mdash; each step brings mortality one relation closer."},
+        {"q": "What is identical in all four cases?",
+         "opts": [
+             "The kind of death",
+             "The response &mdash; they are moved to act, strive effectively, and directly realize the ultimate truth",
+             "The time taken",
+             "The teacher"],
+         "correct": 1,
+         "expl": "All four arrive; the fourth realizes the same truth as the first."},
+        {"q": "What is <em>saṁvega</em>?",
+         "opts": [
+             "Fear of death",
+             "Urgency or spiritual shock &mdash; the jolt that converts a fact one knew into a fact one has registered",
+             "Grief",
+             "Renunciation"],
+         "correct": 1,
+         "expl": "Everyone in the discourse already knew that people die."},
+        {"q": "What does the discourse treat as the whole variable?",
+         "opts": [
+             "Effort",
+             "What it took for the knowledge to become <em>saṁvega</em>",
+             "Attainment",
+             "Learning"],
+         "correct": 1,
+         "expl": "Information about death has to travel a certain distance before it lands."},
+        {"q": "What is the obvious misuse of the discourse?",
+         "opts": [
+             "Reading it as a simile",
+             "As a reproach &mdash; why does it take so much to move you? The discourse does not ask that, and all four of its subjects succeed",
+             "Applying it to horses",
+             "Reading it as literal"],
+         "correct": 1,
+         "expl": "There is no suggestion that being moved only at the fourth stage is culpable."},
+        {"q": "What better use does the guide propose?",
+         "opts": [
+             "Ranking practitioners",
+             "Noticing that the earlier stages are available now, before the later ones arrive &mdash; reading a report of a stranger&rsquo;s death is available to anyone today",
+             "Predicting attainment",
+             "Assessing others"],
+         "correct": 1,
+         "expl": "AN 4.118 names four places worth visiting because they are <em>saṁvejanīya</em>, from the same root."},
+        {"q": "Where does the simile not transfer?",
+         "opts": [
+             "In the gradation",
+             "In the trainer &mdash; for the horse someone applies the goad, and in the human half nobody applies anything; the goad becomes circumstance",
+             "In the response",
+             "In the ranking"],
+         "correct": 1,
+         "expl": "What survives is only the scale of proximity, and that is enough."},
+    ],
+    marginalia=[
+        ("Four goads", [
+            "the shadow",
+            "the hairs",
+            "the hide",
+            "the bone",
+        ]),
+        ("Four distances", [
+            "a stranger, reported",
+            "a stranger, seen",
+            "a relative",
+            "oneself",
+        ]),
+        ("What is the same", [
+            "moved to act",
+            "strive effectively",
+            "&mdash; all four arrive",
+        ]),
+        ("Cross-references", [
+            "AN 4.118 &middot; places that produce the same stirring on purpose",
+            "AN 4.112 &middot; the thoroughbred&rsquo;s four factors",
+            "AN 4.114 &middot; next: the royal elephant",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.113/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.118.html">AN 4.118 &middot; Inspiring</a> &mdash; four places to visit for the '
+        "sake of the same stirring, produced deliberately.",
+        '<a href="an-4.114.html">AN 4.114 &middot; A Royal Elephant</a> &mdash; next in this series.',
+        '<a href="an-4.112.html">AN 4.112 &middot; Speed</a> &mdash; the four factors of the '
+        "thoroughbred this discourse elaborates.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.114 — Nāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    114, "Nāga", "A Royal Elephant",
+    vagga=VAGGA_12,
+    meta_title="AN 4.114 — A Royal Elephant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nāgasutta — a royal elephant "
+        "listens, destroys, endures, and goes fast, and so does a mendicant. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_12),
+        ("Speakers", SPEAKER),
+        ("Form", "Four factors of an elephant, each defined, then the same four of a mendicant, each "
+                 "defined"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The war-elephant simile appears across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the chapter&rsquo;s fullest "
+                       "simile, with every term defined on both sides"),
+    ],
+    why=(
+        "A war elephant listens, destroys, endures, and goes fast. So does a mendicant &mdash; and "
+        "the discourse defines all four on both sides, which none of the chapter&rsquo;s other "
+        "animal similes does. The fourth definition is the one to read: a mendicant goes fast by "
+        "going <em>in the direction they have never gone before in all this long time</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four capacities of a war elephant, each with an exact counterpart in a trained "
+            "practitioner."]),
+        ("Listening", [
+            "The elephant <em>pays attention, applies the mind, concentrates wholeheartedly, and "
+            "actively listens</em> to whatever task the trainer sets, <em>whether or not it has done "
+            "it before</em>.",
+            "The mendicant does the same when the teaching and training is being taught. Four verbs "
+            "on both sides, identical.",
+            "The qualifier about novelty is dropped in the human version and it is worth noticing, "
+            "because it is the sharpest thing in the elephant&rsquo;s definition. An animal that "
+            "attends only to familiar commands is not fully trained; the test is whether it attends "
+            "to an instruction it has never received.",
+            "Applied to a listener, that would mean attending to a teaching one has not heard before "
+            "with the same quality of attention one gives to a familiar one, which is harder than it "
+            "sounds and is not what most people do."]),
+        ("Destroying", [
+            "The elephant destroys elephants with riders, horses with riders, chariots with "
+            "charioteers, and foot soldiers &mdash; the four divisions of an ancient army.",
+            "The mendicant destroys sensual, malicious, and cruel thoughts, and any bad unskillful "
+            "quality that has arisen, with the four verbs of AN 4.11: gives them up, gets rid of "
+            "them, eliminates them, obliterates them.",
+            "The transfer is violent and the collection makes it without hesitation. It is worth "
+            "being straightforward that the language of the path in this register is martial, and "
+            "that the same collection which teaches loving-kindness to snakes describes a mendicant "
+            "as a war elephant breaking a battle line.",
+            "The reconciling observation is about the object. What is destroyed is a thought, and no "
+            "discourse in the collection turns this vocabulary on a person. The martial language is "
+            "reserved for the internal enemy throughout."]),
+        ("Enduring", [
+            "The elephant endures spears, swords, arrows, axes, and the noise of drums, kettledrums, "
+            "horns, and cymbals. Weapons and din.",
+            "The mendicant endures cold, heat, hunger, thirst; flies, mosquitoes, wind, sun, and "
+            "reptiles; rude and unwelcome criticism; and physical pain that is sharp, severe, acute, "
+            "and life-threatening.",
+            "That is one of the canon&rsquo;s standard lists and it is worth reading slowly. Three of "
+            "its four clauses are ordinary discomfort &mdash; weather, insects, hunger &mdash; and "
+            "only the last is extreme. Criticism sits in the middle of the list between mosquitoes "
+            "and mortal illness, which is a placement worth thinking about."]),
+        ("Going fast", [
+            "The elephant goes swiftly wherever the trainer sends it, <em>whether or not it has been "
+            "there before</em>. The mendicant <em>swiftly goes in the direction they have never gone "
+            "before in all this long time; that is, the stilling of all activities, the letting go of "
+            "all attachments, the ending of craving, fading away, cessation, extinguishment</em>.",
+            "This is the chapter&rsquo;s best sentence and it does two things at once.",
+            "First, it defines speed as direction, which AN 4.112 left unexplained. Second, the "
+            "novelty qualifier that was dropped from &lsquo;listening&rsquo; returns here and does "
+            "the whole work: the destination is the one place a being has never been in the entire "
+            "course of transmigration.",
+            "Six terms are given for it &mdash; stilling, letting go, ending, fading away, cessation, "
+            "extinguishment &mdash; and every one is a negation. The place nobody has ever been is "
+            "described exclusively by what stops there, which is the collection&rsquo;s consistent "
+            "practice with this subject."]),
+        ("The chapter&rsquo;s animals, completed", [
+            "AN 4.111 gave a trainer, AN 4.112 and 4.113 gave horses, and this gives the elephant. "
+            "After it the Kesivagga leaves animals entirely and turns to four things pleasant or "
+            "unpleasant to do, diligence, guarding the mind, the four pilgrimage places, and two "
+            "lists of perils.",
+            "Of the four animal discourses this is the most complete and the only one that defines "
+            "its terms on both sides. A reader with time for one of them should take this one; a "
+            "reader with time for two should add AN 4.113, which is better as a piece of "
+            "observation.",
+            "What all four share is the assumption that a practitioner is something trained rather "
+            "than something naturally occurring, and that the value of the training is in what it "
+            "makes the creature able to do."]),
+    ],
+    terms=[
+        ("nāga",
+         "&ldquo;elephant&rdquo; &mdash; and by extension any great being; here specifically a royal "
+         "war elephant."),
+        ("sotā hoti",
+         "&ldquo;listens&rdquo; &mdash; defined by four verbs on both sides, with the test being "
+         "attention to an instruction never received before."),
+        ("hantā hoti",
+         "&ldquo;destroys&rdquo; &mdash; of the elephant, the four divisions of an army; of the "
+         "mendicant, arisen unskillful thoughts."),
+        ("khantā hoti",
+         "&ldquo;endures&rdquo; &mdash; weapons and din for the elephant; weather, insects, "
+         "criticism, and mortal pain for the mendicant."),
+        ("gantā hoti",
+         "&ldquo;goes fast&rdquo; &mdash; toward the one direction never gone before, described by "
+         "six terms, every one a negation."),
+    ],
+    text_intro=(
+        "The discourse in full: the elephant&rsquo;s four factors and the mendicant&rsquo;s, each "
+        "defined. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A royal elephant"),
+        ("p", "&sect;1", "an4.114:1.1-1.3"),
+        ("p", "&sect;2", "an4.114:2.1-2.5"),
+        ("p", "&sect;3", "an4.114:3.1-3.3"),
+        ("p", "&sect;4", "an4.114:4.1-4.3"),
+        ("p", "&sect;5", "an4.114:5.1-5.6"),
+        ("h3", "A mendicant"),
+        ("p", "&sect;6", "an4.114:6.1-6.3"),
+        ("p", "&sect;7", "an4.114:7.1-7.3"),
+        ("p", "&sect;8", "an4.114:8.1-8.3"),
+        ("p", "&sect;9", "an4.114:9.1-9.3"),
+        ("p", "&sect;10", "an4.114:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What are the elephant&rsquo;s four factors?",
+         "opts": [
+             "Integrity, speed, patience, gentleness",
+             "Listens, destroys, endures, and goes fast",
+             "Strength, size, obedience, and courage",
+             "Sight, hearing, smell, and touch"],
+         "correct": 1,
+         "expl": "Each defined on both sides, which none of the chapter&rsquo;s other similes does."},
+        {"q": "What is the test in the elephant&rsquo;s definition of listening?",
+         "opts": [
+             "Silence",
+             "Whether it attends to a task it has never done before",
+             "Speed of response",
+             "Obedience to one trainer"],
+         "correct": 1,
+         "expl": "The qualifier is dropped in the human version."},
+        {"q": "What would that qualifier mean for a listener?",
+         "opts": [
+             "Listening to any teacher",
+             "Attending to a teaching one has not heard before with the same quality of attention one gives a familiar one",
+             "Memorizing quickly",
+             "Asking questions"],
+         "correct": 1,
+         "expl": "Harder than it sounds, and not what most people do."},
+        {"q": "What does the mendicant destroy?",
+         "opts": [
+             "Opponents in debate",
+             "Sensual, malicious, and cruel thoughts, and any arisen unskillful quality",
+             "Wrong views",
+             "Attachments to requisites"],
+         "correct": 1,
+         "expl": "With the four verbs of AN 4.11."},
+        {"q": "How does the guide handle the martial language?",
+         "opts": [
+             "By treating it as metaphor only",
+             "Straightforwardly &mdash; the register is martial, and the reconciling observation is that what is destroyed is a thought, with no discourse turning this vocabulary on a person",
+             "By calling it late",
+             "By omitting it"],
+         "correct": 1,
+         "expl": "Reserved for the internal enemy throughout."},
+        {"q": "What is notable about the endurance list?",
+         "opts": [
+             "It is short",
+             "Three of its four clauses are ordinary discomfort, and criticism sits between mosquitoes and mortal illness",
+             "It omits pain",
+             "It concerns only weather"],
+         "correct": 1,
+         "expl": "A placement worth thinking about."},
+        {"q": "How is going fast defined for a mendicant?",
+         "opts": [
+             "Rapid progress",
+             "Going swiftly in the direction never gone before in all this long time &mdash; the stilling of activities, the ending of craving, extinguishment",
+             "Walking meditation",
+             "Quick understanding"],
+         "correct": 1,
+         "expl": "The chapter&rsquo;s best sentence."},
+        {"q": "What two things does that sentence do?",
+         "opts": [
+             "Names a place and a time",
+             "Defines speed as direction, which AN 4.112 left unexplained; and brings back the novelty qualifier to do the whole work",
+             "Ranks the factors",
+             "Introduces a simile"],
+         "correct": 1,
+         "expl": "The destination is the one place a being has never been in the whole course of transmigration."},
+        {"q": "What is notable about the six terms given for the destination?",
+         "opts": [
+             "They are synonyms",
+             "Every one is a negation &mdash; the place nobody has been is described exclusively by what stops there",
+             "They are technical",
+             "They are in verse"],
+         "correct": 1,
+         "expl": "The collection&rsquo;s consistent practice with this subject."},
+        {"q": "What do the chapter&rsquo;s four animal discourses share?",
+         "opts": [
+             "A setting",
+             "The assumption that a practitioner is something trained rather than naturally occurring, and that the training&rsquo;s value is in what it makes the creature able to do",
+             "A ranking",
+             "A verse"],
+         "correct": 1,
+         "expl": "A trainer, two horses, and an elephant."},
+    ],
+    marginalia=[
+        ("Four factors", [
+            "listens",
+            "destroys",
+            "endures",
+            "goes fast",
+        ]),
+        ("The endurance list", [
+            "cold, heat, hunger, thirst",
+            "flies, mosquitoes, sun",
+            "unwelcome criticism",
+            "&mdash; and mortal pain",
+        ]),
+        ("Where fast goes", [
+            "never gone before",
+            "in all this long time",
+            "&mdash; six words, all negations",
+        ]),
+        ("Cross-references", [
+            "AN 4.112 &middot; speed left undefined",
+            "AN 4.11 &middot; the four verbs of destroying",
+            "AN 4.115 &middot; next: pleasant and beneficial",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.114/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.112.html">AN 4.112 &middot; Speed</a> &mdash; the four factors this discourse '
+        "defines.",
+        '<a href="an-4.11.html">AN 4.11 &middot; Walking</a> &mdash; where the four verbs of getting '
+        "rid of a thought are set out.",
+        '<a href="an-4.115.html">AN 4.115 &middot; Things</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.115 — Ṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    115, "Ṭhāna", "Things",
+    vagga=VAGGA_12,
+    meta_title="AN 4.115 — Things | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ṭhānasutta — unpleasant and "
+        "harmful, unpleasant but beneficial, pleasant but harmful, pleasant and beneficial: the two "
+        "middle cases are where fools and astute people are told apart. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_12),
+        ("Speakers", SPEAKER),
+        ("Form", "A two-by-two grid of pleasantness and benefit, with the two easy cells dismissed "
+                 "and the two hard ones examined"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The pleasant-and-beneficial grid appears across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a plain structure and one of the "
+                       "most immediately usable discourses in the collection"),
+    ],
+    why=(
+        "Four kinds of thing, crossed on whether it is pleasant to do and whether doing it turns out "
+        "well. Two of the four are trivial &mdash; the discourse says so and moves on. The other two "
+        "are where <em>you can tell who is foolish and who is astute in regard to human strength, "
+        "energy, and vigor</em>, and the whole discourse is about them."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Two of the four combinations decide themselves; the other two are what a person&rsquo;s "
+            "strength is for."]),
+        ("The two easy cells", [
+            "Unpleasant to do and harmful: <em>regarded as a thing that shouldn&rsquo;t be done on "
+            "both grounds</em>. Pleasant to do and beneficial: should be done on both grounds.",
+            "The discourse spends two sentences on each and does not return to them. Nothing about "
+            "them requires judgment, effort, or character; both grounds point the same way and the "
+            "decision makes itself.",
+            "That dismissal is worth noticing as a piece of method. The discourse identifies which "
+            "part of a problem is actually a problem and discards the rest, which is a habit the "
+            "collection has and does not often display so plainly."]),
+        ("&lsquo;Human strength, energy, and vigor&rsquo;", [
+            "The phrase is <em>purisathāme purisavīriye purisaparakkame</em> &mdash; the strength, "
+            "energy, and exertion that belong to a person. It appears twice, once for each hard cell.",
+            "What it names is the capacity to act against the pull of the moment: to do a thing one "
+            "does not want to do because it will turn out well, or to refrain from a thing one wants "
+            "to do because it will not.",
+            "The discourse says these two cells are where that capacity becomes visible &mdash; "
+            "<em>it is here that you can tell who is foolish and who is astute</em>. Not in what "
+            "someone believes, not in what they say, and not in the easy cases where preference and "
+            "outcome agree."]),
+        ("The mechanism of failure", [
+            "Both hard cells are described in the same way, and the description is precise about "
+            "where the failure happens.",
+            "<em>A fool doesn&rsquo;t reflect: &lsquo;Despite the fact that this thing is unpleasant "
+            "to do, doing it still proves beneficial.&rsquo; They don&rsquo;t do that thing, so that "
+            "proves harmful.</em>",
+            "The failure is located in the not-reflecting. The fool is not described as knowing the "
+            "outcome and choosing badly; they are described as not running the thought at all. The "
+            "astute person is defined by the same sentence in the positive: they <em>do</em> reflect, "
+            "and then act accordingly.",
+            "That is a more forgiving and more useful account than a claim about willpower. What "
+            "separates the two is whether a particular consideration gets raised, and raising it is "
+            "something a person can practise."]),
+        ("The unpleasant-but-beneficial cell", [
+            "This is the one most teaching draws on and the discourse handles it first. Something one "
+            "does not want to do that will turn out well: the fool does not think it through and "
+            "does not do it, and the not-doing is what proves harmful.",
+            "Note that the harm is attributed to the omission, not to the unpleasantness. The "
+            "discourse is not saying that unpleasant things are good for you; it is saying that "
+            "declining them without checking has consequences.",
+            "Nothing in the discourse recommends doing unpleasant things as such. The variable is "
+            "always the outcome, and the unpleasantness is only what makes the outcome hard to attend "
+            "to."]),
+        ("The pleasant-but-harmful cell", [
+            "The mirror, and the discourse treats it with exactly the same words in the same order. "
+            "The fool does not reflect, does it, and that proves harmful; the astute person reflects, "
+            "does not do it, and that proves beneficial.",
+            "The symmetry is complete and it is worth pointing out, because the two cells are "
+            "usually taught unequally. Discipline literature is full of the first &mdash; do the hard "
+            "thing &mdash; and much lighter on the second, which requires declining something "
+            "available and enjoyable with no immediate cost to declining it.",
+            "The discourse gives them the same weight and the same wording. Both are failures of "
+            "reflection and both are visible at the same place.",
+            "Set beside AN 4.61&rsquo;s definition of wisdom &mdash; recognizing the five hindrances "
+            "as corruptions of the mind and giving them up, so that one no longer does what one "
+            "shouldn&rsquo;t and fails to do what one should &mdash; this discourse is the same claim "
+            "in the vocabulary of ordinary decisions. AN 4.61 named the mechanism; this names the "
+            "situations in which it operates."]),
+    ],
+    terms=[
+        ("ṭhāna",
+         "&ldquo;thing, case, situation&rdquo; &mdash; a very broad word; the discourse means any "
+         "course of action that could be taken."),
+        ("asātaṁ kātuṁ",
+         "&ldquo;unpleasant to do&rdquo; &mdash; the first axis, about how the doing feels rather "
+         "than about what follows."),
+        ("ahitāya saṁvattati",
+         "&ldquo;proves harmful&rdquo; &mdash; literally leads to harm; the second axis, about the "
+         "outcome."),
+        ("purisathāma purisavīriya purisaparakkama",
+         "&ldquo;human strength, energy, and vigor&rdquo; &mdash; the capacity to act against the "
+         "pull of the moment, and what the two hard cells reveal."),
+        ("paṭisañcikkhati",
+         "&ldquo;reflects&rdquo; &mdash; the single operation that separates the fool from the astute "
+         "person in both hard cells."),
+    ],
+    text_intro=(
+        "The discourse in full: the four things, the two easy cases, and the two hard ones. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four things"),
+        ("p", "&sect;1", "an4.115:1.1-1.10"),
+        ("h3", "Unpleasant and harmful"),
+        ("p", "&sect;2", "an4.115:2.1-2.8"),
+        ("h3", "Unpleasant but beneficial"),
+        ("p", "&sect;3", "an4.115:3.1-3.13"),
+        ("h3", "Pleasant but harmful"),
+        ("p", "&sect;4", "an4.115:4.1-4.13"),
+        ("h3", "Pleasant and beneficial"),
+        ("p", "&sect;5", "an4.115:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "What two axes make up the grid?",
+         "opts": [
+             "Right and wrong, easy and hard",
+             "Whether a thing is pleasant to do, and whether doing it proves beneficial",
+             "Skilful and unskilful, timely and untimely",
+             "Bodily and mental, present and future"],
+         "correct": 1,
+         "expl": "Four combinations, of which two decide themselves."},
+        {"q": "How does the discourse treat the two easy cells?",
+         "opts": [
+             "At length",
+             "In two sentences each, and it does not return to them &mdash; both grounds point the same way and the decision makes itself",
+             "It omits them",
+             "It ranks them"],
+         "correct": 1,
+         "expl": "The discourse identifies which part of the problem is actually a problem and discards the rest."},
+        {"q": "What phrase names what the hard cells reveal?",
+         "opts": [
+             "Right view",
+             "Human strength, energy, and vigor",
+             "Faith and wisdom",
+             "Conscience and prudence"],
+         "correct": 1,
+         "expl": "It appears twice, once for each hard cell."},
+        {"q": "What does that capacity consist of?",
+         "opts": [
+             "Physical endurance",
+             "Acting against the pull of the moment &mdash; doing what one does not want to because it turns out well, or refraining from what one wants because it does not",
+             "Speed of decision",
+             "Knowledge of consequences"],
+         "correct": 1,
+         "expl": "Visible in exactly the two cells where preference and outcome disagree."},
+        {"q": "Where is the failure located?",
+         "opts": [
+             "In weakness of will",
+             "In the not-reflecting &mdash; the fool is not described as knowing the outcome and choosing badly, but as not running the thought at all",
+             "In wrong view",
+             "In bad companions"],
+         "correct": 1,
+         "expl": "The astute person is defined by the same sentence in the positive."},
+        {"q": "Why does the guide call that account more useful?",
+         "opts": [
+             "It is shorter",
+             "Because what separates the two is whether a particular consideration gets raised, and raising it is something a person can practise",
+             "It excuses failure",
+             "It requires no effort"],
+         "correct": 1,
+         "expl": "More forgiving than a claim about willpower."},
+        {"q": "What is the harm attributed to in the unpleasant-but-beneficial cell?",
+         "opts": [
+             "The unpleasantness",
+             "The omission &mdash; declining without checking",
+             "The outcome",
+             "The person&rsquo;s character"],
+         "correct": 1,
+         "expl": "The discourse is not saying unpleasant things are good for you."},
+        {"q": "Is doing unpleasant things recommended as such?",
+         "opts": [
+             "Yes",
+             "No &mdash; the variable is always the outcome, and unpleasantness is only what makes the outcome hard to attend to",
+             "Only for monastics",
+             "The discourse does not say"],
+         "correct": 1,
+         "expl": "Nothing in the discourse recommends it."},
+        {"q": "How does the discourse weight the two hard cells?",
+         "opts": [
+             "The first more heavily",
+             "Equally &mdash; the same words in the same order, though the two are usually taught unequally",
+             "The second more heavily",
+             "It ranks them"],
+         "correct": 1,
+         "expl": "Discipline literature is full of the first and much lighter on the second."},
+        {"q": "How does this relate to AN 4.61?",
+         "opts": [
+             "It contradicts it",
+             "AN 4.61 defined wisdom as recognizing the hindrances so one no longer does what one shouldn&rsquo;t and fails to do what one should; this names the situations in which that operates",
+             "It replaces it",
+             "It is unrelated"],
+         "correct": 1,
+         "expl": "The same claim in the vocabulary of ordinary decisions."},
+    ],
+    marginalia=[
+        ("Four cells", [
+            "unpleasant, harmful",
+            "unpleasant, beneficial",
+            "pleasant, harmful",
+            "pleasant, beneficial",
+        ]),
+        ("Two decide themselves", [
+            "both grounds agree",
+            "no judgment needed",
+            "&mdash; and are dismissed",
+        ]),
+        ("The failure", [
+            "not weakness",
+            "not ignorance",
+            "&mdash; not reflecting at all",
+        ]),
+        ("Cross-references", [
+            "AN 4.61 &middot; wisdom as seeing what runs the decision",
+            "AN 4.116 &middot; next: four situations for diligence",
+            "AN 4.115 sits at the chapter&rsquo;s turn from animals",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.115/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.61.html">AN 4.61 &middot; Fitting Deeds</a> &mdash; where wisdom is defined as '
+        "seeing what is running a decision.",
+        '<a href="an-4.116.html">AN 4.116 &middot; Diligence</a> &mdash; next in this series.',
+        '<a href="an-4.113.html">AN 4.113 &middot; The Goad</a> &mdash; the chapter&rsquo;s other '
+        "discourse about what makes a person act.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.116 — Appamādasutta
+# --------------------------------------------------------------------------- #
+page(
+    116, "Appamāda", "Diligence",
+    vagga=VAGGA_12,
+    meta_title="AN 4.116 — Diligence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Appamādasutta — four "
+        "situations calling for diligence: giving up bad conduct, developing good, giving up wrong "
+        "view, developing right view. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_12),
+        ("Speakers", SPEAKER),
+        ("Form", "Four situations named in two pairs, with a closing consequence"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Statements on diligence in conduct and view appear across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and the last line is the "
+                       "one to keep"),
+    ],
+    why=(
+        "Four situations for diligence: give up bad conduct by body, speech, and mind; develop good "
+        "conduct; give up wrong view; develop right view. And then the consequence, stated in a "
+        "single line: <em>a mendicant who has done these things does not fear death in lives to "
+        "come.</em>"),
+    guide=[
+        ("The teaching in one sentence", [
+            "Be diligent about conduct and about view, and the fear of death goes."]),
+        ("The four, and how they are grouped", [
+            "Two pairs. Bad conduct given up and good conduct developed &mdash; each covering body, "
+            "speech, and mind. Wrong view given up and right view developed.",
+            "So conduct and view, each in both directions. That is a smaller set than it looks: the "
+            "collection&rsquo;s usual threefold division of body, speech, and mind is folded into the "
+            "conduct pair, and view is given its own pair because it is not a kind of conduct.",
+            "The pairing of abandonment with development is worth noting. Neither is sufficient. "
+            "Stopping bad conduct does not by itself produce good conduct, and the discourse asks for "
+            "both operations rather than treating one as the shadow of the other."]),
+        ("Why view gets its own pair", [
+            "Wrong view is one of the ten courses of action &mdash; the last of the three mental ones "
+            "&mdash; so it could have been folded into &lsquo;bad conduct by way of mind&rsquo;.",
+            "Giving it its own pair doubles its weight and marks it as different in kind. The "
+            "collection does this consistently: right view is the first factor of the path, wrong "
+            "view is the fetter that stream-entry removes, and AN 4.72 made three right thoughts plus "
+            "right view a set of four rather than folding view among the thoughts.",
+            "What the arrangement claims is that view is not one item of conduct among others. It is "
+            "the thing conduct is conducted under, and correcting it is a separate operation from "
+            "correcting behavior."]),
+        ("<em>Appamāda</em>", [
+            "Diligence, heedfulness, non-negligence &mdash; literally not-intoxication, from the same "
+            "root as the fifth precept&rsquo;s <em>pamāda</em>, negligence.",
+            "It is the collection&rsquo;s standard summary virtue and the Buddha&rsquo;s reported "
+            "last word. AN 4.37 named it as what holds the four non-decline qualities together; "
+            "AN 4.30&rsquo;s verse called one who has good will and is ever mindful <em>a diligent "
+            "one</em>.",
+            "What this discourse adds is a list of what to be diligent <em>about</em>. Diligence is "
+            "not a general alertness; it has four objects, and the discourse&rsquo;s instruction is "
+            "<em>don&rsquo;t neglect these things</em> rather than a recommendation to be attentive "
+            "in general."]),
+        ("The last line", [
+            "<em>A mendicant who has done these things does not fear death in lives to come.</em> "
+            "<em>Abhāyī hoti samparāyikassa maraṇassa</em> &mdash; unafraid of the death that comes "
+            "after.",
+            "That is an unusual thing to offer as the fruit of a short list. Not merit, not heaven, "
+            "not attainment: the absence of a particular fear.",
+            "It is also a checkable claim in a way most of the collection&rsquo;s promises are not. A "
+            "person can notice whether they are afraid of dying, and the discourse is asserting a "
+            "connection between four specific practices and that fear&rsquo;s absence.",
+            "The mechanism is not stated. What can be reconstructed from the collection is that fear "
+            "of death in this literature is largely fear of what comes after it, and that a person "
+            "whose conduct and view are in order has nothing to expect that they would not want. "
+            "AN 4.184, further into the Fours, treats this subject directly."]),
+        ("Its place in the chapter", [
+            "The Kesivagga has turned away from animals. AN 4.115 gave the four things pleasant or "
+            "unpleasant to do; this gives four objects of diligence; AN 4.117 will give four things "
+            "to guard the mind against.",
+            "Those three make a small practical sequence: how to decide, what to attend to, and what "
+            "to watch for. All three are short, all three are about ordinary mental discipline, and "
+            "none of them mentions meditation.",
+            "That is worth registering in a collection often read as though it were about attainment. "
+            "Three consecutive discourses in the middle of the Fours concern how a person handles "
+            "their own decisions, attention, and reactions, and the last of them ends with the fear "
+            "of death."]),
+    ],
+    terms=[
+        ("appamāda",
+         "&ldquo;diligence, heedfulness&rdquo; &mdash; literally not-negligence; the "
+         "collection&rsquo;s standard summary virtue."),
+        ("duccarita / sucarita",
+         "&ldquo;bad conduct&rdquo; and &ldquo;good conduct&rdquo; &mdash; each by way of body, "
+         "speech, and mind, folded into a single pair here."),
+        ("micchādiṭṭhi / sammādiṭṭhi",
+         "&ldquo;wrong view&rdquo; and &ldquo;right view&rdquo; &mdash; given their own pair because "
+         "view is not a kind of conduct."),
+        ("mā pamādattha",
+         "&ldquo;don&rsquo;t neglect these things&rdquo; &mdash; the instruction; diligence has four "
+         "objects rather than being a general alertness."),
+        ("samparāyika maraṇa",
+         "&ldquo;death in lives to come&rdquo; &mdash; what such a mendicant does not fear; the "
+         "discourse&rsquo;s stated fruit."),
+    ],
+    text_intro=(
+        "The discourse in full: the four situations and the consequence. The gaps are the "
+        "Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four situations"),
+        ("p", "&sect;1", "an4.116:1.1-1.10"),
+        ("h3", "The consequence"),
+        ("p", "&sect;2", "an4.116:2.1"),
+    ],
+    quiz=[
+        {"q": "What are the four situations?",
+         "opts": [
+             "The four postures",
+             "Giving up bad conduct, developing good conduct, giving up wrong view, and developing right view",
+             "The four right efforts",
+             "The four requisites"],
+         "correct": 1,
+         "expl": "Conduct and view, each in both directions."},
+        {"q": "Why is the set smaller than it looks?",
+         "opts": [
+             "Two items repeat",
+             "Body, speech, and mind are folded into the conduct pair, and view is given its own pair",
+             "The verse omits one",
+             "One is abbreviated"],
+         "correct": 1,
+         "expl": "Two pairs rather than four separate items."},
+        {"q": "Why does the guide note the pairing of abandonment with development?",
+         "opts": [
+             "It is unusual",
+             "Because neither is sufficient &mdash; stopping bad conduct does not by itself produce good conduct",
+             "It doubles the list",
+             "It is metrical"],
+         "correct": 1,
+         "expl": "The discourse asks for both operations."},
+        {"q": "Where could wrong view have been folded in?",
+         "opts": [
+             "Under speech",
+             "Under bad conduct by way of mind &mdash; it is the last of the three mental courses of action",
+             "Under the precepts",
+             "It could not"],
+         "correct": 1,
+         "expl": "Giving it its own pair doubles its weight."},
+        {"q": "What does that arrangement claim?",
+         "opts": [
+             "That view is easier to change",
+             "That view is not one item of conduct among others &mdash; it is what conduct is conducted under, and correcting it is a separate operation",
+             "That view is optional",
+             "That conduct follows view automatically"],
+         "correct": 1,
+         "expl": "The collection does this consistently."},
+        {"q": "What does <em>appamāda</em> literally mean?",
+         "opts": [
+             "Energy",
+             "Not-negligence, from the same root as the <em>pamāda</em> of the fifth precept",
+             "Attention",
+             "Effort"],
+         "correct": 1,
+         "expl": "The Buddha&rsquo;s reported last word, and the collection&rsquo;s summary virtue."},
+        {"q": "What does this discourse add to it?",
+         "opts": [
+             "A definition",
+             "A list of what to be diligent <em>about</em> &mdash; four objects rather than a general alertness",
+             "A ranking",
+             "A simile"],
+         "correct": 1,
+         "expl": "The instruction is &lsquo;don&rsquo;t neglect these things&rsquo;."},
+        {"q": "What is offered as the fruit?",
+         "opts": [
+             "Merit",
+             "Not fearing death in lives to come",
+             "Rebirth in heaven",
+             "Stream-entry"],
+         "correct": 1,
+         "expl": "An unusual thing to offer as the fruit of a short list."},
+        {"q": "Why does the guide call the claim checkable?",
+         "opts": [
+             "It is repeated",
+             "A person can notice whether they are afraid of dying, and the discourse asserts a connection between four practices and that fear&rsquo;s absence",
+             "The commentary confirms it",
+             "It concerns this life only"],
+         "correct": 1,
+         "expl": "Unlike most of the collection&rsquo;s promises."},
+        {"q": "What small sequence do AN 4.115, 4.116, and 4.117 make?",
+         "opts": [
+             "Three similes",
+             "How to decide, what to attend to, and what to watch for &mdash; three short discourses about ordinary mental discipline, none mentioning meditation",
+             "Three attainments",
+             "Three warnings"],
+         "correct": 1,
+         "expl": "Worth registering in a collection often read as though it were about attainment."},
+    ],
+    marginalia=[
+        ("Two pairs", [
+            "bad conduct &mdash; give up",
+            "good conduct &mdash; develop",
+            "wrong view &mdash; give up",
+            "right view &mdash; develop",
+        ]),
+        ("Why view is separate", [
+            "not one item of conduct",
+            "what conduct runs under",
+            "&mdash; a separate operation",
+        ]),
+        ("The fruit", [
+            "not merit",
+            "not heaven",
+            "&mdash; not fearing death",
+        ]),
+        ("Cross-references", [
+            "AN 4.115 &middot; how to decide",
+            "AN 4.117 &middot; next: what to watch for",
+            "AN 4.37 &middot; diligence holding four things together",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.116/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.117.html">AN 4.117 &middot; Guarding</a> &mdash; next in this series.',
+        '<a href="an-4.37.html">AN 4.37 &middot; Non-decline</a> &mdash; where diligence is what '
+        "holds four maintenance practices together.",
+        '<a href="an-4.115.html">AN 4.115 &middot; Things</a> &mdash; the discourse before this one, '
+        "on deciding.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.117 — Ārakkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    117, "Ārakkha", "Guarding",
+    vagga=VAGGA_12,
+    meta_title="AN 4.117 — Guarding | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ārakkhasutta — four "
+        "situations in which to practise diligence, mindfulness, and guarding of the mind: greed, "
+        "hate, delusion, and intoxication. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_12),
+        ("Speakers", SPEAKER),
+        ("Form", "Four resolutions, each with the same instruction, and a closing description"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The four objects of guarding appear across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; three roots plus one, and the "
+                       "fourth is the interesting one"),
+    ],
+    why=(
+        "Four resolutions, each phrased in the first person: may my mind not be aroused by things "
+        "that arouse greed, angered by things that provoke hate, deluded by things that promote "
+        "delusion, intoxicated by things that intoxicate. Three unwholesome roots and a fourth item "
+        "that is not one of them &mdash; and the closing sentence says what a person free of all "
+        "four is like."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Guard the mind in four places, and a mind guarded in all four does not shake."]),
+        ("The form of the instruction", [
+            "<em>In your own way you should practice diligence, mindfulness, and guarding of the mind "
+            "in four situations.</em> Then each situation is given as a wish in the first person: "
+            "<em>May my mind not be aroused by things that arouse greed.</em>",
+            "Three things are asked for together &mdash; <em>appamāda, sati, cetoārakkha</em>. "
+            "Diligence is not neglecting; mindfulness is holding in view; guarding is the active "
+            "protection of the mind itself.",
+            "<em>Sāmaṁ</em>, in your own way or by oneself, qualifies the whole instruction. Nobody "
+            "else can do this for the practitioner, and the discourse phrases the four as resolutions "
+            "rather than as rules for that reason."]),
+        ("The objects, not the states", [
+            "The wording is careful and worth reading slowly. Not &lsquo;may I not be greedy&rsquo; "
+            "but <em>may my mind not be aroused by things that arouse greed</em> &mdash; "
+            "<em>rajanīyesu dhammesu</em>, things that are arousing.",
+            "So the discourse assumes there are objects with that property. Some things arouse greed; "
+            "some provoke hate; some promote delusion; some intoxicate. The practice is not to deny "
+            "that they have the property but to prevent the mind from doing what they invite.",
+            "That is consistent with the sense-restraint formula of AN 4.14 and AN 4.37, where the "
+            "instruction is not to avoid sights but not to get caught up in their features and "
+            "details. The collection is uniformly realistic about the objects and demanding about the "
+            "response."]),
+        ("The fourth item", [
+            "Greed, hate, and delusion are the three unwholesome roots. The fourth is "
+            "<em>madanīyesu dhammesu na majjeyya</em> &mdash; may my mind not be intoxicated by "
+            "things that intoxicate.",
+            "<em>Mada</em> is intoxication, and its range is wider than drink. The canon uses it of "
+            "the three intoxications &mdash; with youth, with health, and with life &mdash; and of "
+            "the intoxication with birth, wealth, learning, and following.",
+            "So the fourth object is not alcohol. It is the class of things that make a person "
+            "careless by making them feel secure, which is a different mechanism from greed, hate, or "
+            "delusion. A person intoxicated in this sense is not wanting, hating, or confused; they "
+            "are unworried.",
+            "That the collection ranks that alongside the three roots is worth registering. AN 4.68 "
+            "said gain, honor, and popularity destroyed Devadatta, and this discourse gives the "
+            "general form: the things that make a person feel safe are as dangerous as the things "
+            "that make them want."]),
+        ("The closing description", [
+            "<em>They don&rsquo;t shake, tremble, quake, or get nervous, nor are they persuaded by "
+            "the teachings of other ascetics.</em>",
+            "Four verbs for instability and then a fifth clause about intellectual stability. The "
+            "connection between them is the discourse&rsquo;s claim: a mind that cannot be moved by "
+            "greed, hate, delusion, or intoxication also cannot be talked out of its position.",
+            "That is a claim about the mechanism of persuasion, and it is not flattering to most "
+            "changes of mind. It says that being argued out of something usually runs through one of "
+            "the four &mdash; wanting what the new position offers, disliking what the old one costs, "
+            "confusion, or complacency &mdash; rather than through the argument.",
+            "The parallel is AN 4.8, where the Buddha&rsquo;s four assurances produce someone who "
+            "lives <em>secure, fearless, and self-assured</em> because no charge could land. Here the "
+            "same steadiness is produced by there being nothing in the mind for a persuasion to catch "
+            "on."]),
+        ("Using it", [
+            "The four resolutions can be used as they stand and their form is unusually practical. "
+            "Each names a class of object rather than a state to avoid, which makes them checkable "
+            "against a day: what did I encounter today that arouses, provokes, confuses, or "
+            "reassures?",
+            "The fourth question is the one most people have never asked, and it is the one this "
+            "discourse contributes. Greed, hate, and delusion are on everyone&rsquo;s list. The "
+            "things that make a person feel safe enough to stop paying attention are not, and they "
+            "are named here in the same breath as the other three."]),
+    ],
+    terms=[
+        ("cetoārakkha",
+         "&ldquo;guarding of the mind&rdquo; &mdash; asked for together with diligence and "
+         "mindfulness; the active protection of the mind itself."),
+        ("sāmaṁ",
+         "&ldquo;in your own way, by oneself&rdquo; &mdash; the qualifier on the whole instruction, "
+         "which is why the four are phrased as resolutions."),
+        ("rajanīyā dhammā",
+         "&ldquo;things that arouse&rdquo; &mdash; objects with the property, which the discourse "
+         "does not deny; the practice is on the response."),
+        ("mada",
+         "&ldquo;intoxication&rdquo; &mdash; wider than drink; used of intoxication with youth, "
+         "health, life, birth, wealth, learning, and following."),
+        ("na sampavedhati",
+         "&ldquo;does not shake&rdquo; &mdash; the first of four verbs of instability in the closing "
+         "description."),
+    ],
+    text_intro=(
+        "The discourse in full: the four situations and the closing description. The ellipses are "
+        "the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four situations"),
+        ("p", "&sect;1", "an4.117:1.1-1.6"),
+        ("h3", "One whose mind is no longer affected"),
+        ("p", "&sect;2", "an4.117:2.1"),
+    ],
+    quiz=[
+        {"q": "What are the four situations?",
+         "opts": [
+             "The four postures",
+             "Things that arouse greed, provoke hate, promote delusion, and intoxicate",
+             "Gain, honor, praise, and pleasure",
+             "The four requisites"],
+         "correct": 1,
+         "expl": "Three unwholesome roots and a fourth item that is not one of them."},
+        {"q": "What three things are asked for together?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Diligence, mindfulness, and guarding of the mind",
+             "Ethics, immersion, and wisdom",
+             "Restraint, effort, and patience"],
+         "correct": 1,
+         "expl": "<em>Appamāda, sati, cetoārakkha</em>."},
+        {"q": "What does <em>sāmaṁ</em> add?",
+         "opts": [
+             "Urgency",
+             "&lsquo;In your own way, by oneself&rsquo; &mdash; nobody else can do this, which is why the four are resolutions rather than rules",
+             "Repetition",
+             "A time limit"],
+         "correct": 1,
+         "expl": "It qualifies the whole instruction."},
+        {"q": "How is each situation worded?",
+         "opts": [
+             "&lsquo;May I not be greedy&rsquo;",
+             "&lsquo;May my mind not be aroused by things that arouse greed&rsquo; &mdash; naming the objects, not the states",
+             "&lsquo;Avoid what arouses greed&rsquo;",
+             "&lsquo;Greed is to be abandoned&rsquo;"],
+         "correct": 1,
+         "expl": "The discourse assumes there are objects with that property."},
+        {"q": "What follows from that wording?",
+         "opts": [
+             "That the objects should be avoided",
+             "That the practice is not to deny the objects have the property but to prevent the mind from doing what they invite",
+             "That greed is unavoidable",
+             "That objects are illusory"],
+         "correct": 1,
+         "expl": "Consistent with the sense-restraint formula of AN 4.14 and AN 4.37."},
+        {"q": "What does <em>mada</em> cover?",
+         "opts": [
+             "Only alcohol",
+             "Intoxication in a wide sense &mdash; with youth, health, life, birth, wealth, learning, and following",
+             "Only pride",
+             "Only pleasure"],
+         "correct": 1,
+         "expl": "The fourth object is not drink."},
+        {"q": "How does its mechanism differ from the other three?",
+         "opts": [
+             "It is stronger",
+             "It makes a person careless by making them feel secure &mdash; not wanting, hating, or confused, but unworried",
+             "It is slower",
+             "It is external"],
+         "correct": 1,
+         "expl": "A different mechanism from greed, hate, or delusion."},
+        {"q": "Which earlier discourse gives a particular case of it?",
+         "opts": [
+             "AN 4.11",
+             "AN 4.68 &mdash; gain, honor, and popularity destroying Devadatta",
+             "AN 4.61",
+             "AN 4.95"],
+         "correct": 1,
+         "expl": "This discourse gives the general form."},
+        {"q": "What connection does the closing sentence claim?",
+         "opts": [
+             "None",
+             "That a mind that cannot be moved by the four also cannot be talked out of its position",
+             "That stability produces attainment",
+             "That other teachings are false"],
+         "correct": 1,
+         "expl": "Four verbs for instability and a fifth clause about intellectual stability."},
+        {"q": "What does that imply about persuasion?",
+         "opts": [
+             "That it is impossible",
+             "That being argued out of something usually runs through wanting, disliking, confusion, or complacency rather than through the argument",
+             "That arguments are always sound",
+             "That other ascetics are dishonest"],
+         "correct": 1,
+         "expl": "Not flattering to most changes of mind."},
+    ],
+    marginalia=[
+        ("Four objects", [
+            "what arouses",
+            "what provokes",
+            "what confuses",
+            "what intoxicates",
+        ]),
+        ("The fourth", [
+            "<span class=\"pali\">mada</span>intoxication",
+            "youth, health, life",
+            "&mdash; what makes you feel safe",
+        ]),
+        ("The result", [
+            "does not shake",
+            "does not tremble",
+            "&mdash; nor is persuaded",
+        ]),
+        ("Cross-references", [
+            "AN 4.68 &middot; a particular case of the fourth",
+            "AN 4.14 &middot; restraint aimed at the response",
+            "AN 4.8 &middot; steadiness with nothing outstanding",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.117/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.68.html">AN 4.68 &middot; Devadatta</a> &mdash; the case of the fourth object '
+        "worked out on a named person.",
+        '<a href="an-4.14.html">AN 4.14 &middot; Restraint</a> &mdash; where restraint is aimed at '
+        "the response rather than at the object.",
+        '<a href="an-4.118.html">AN 4.118 &middot; Inspiring</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.118 — Saṁvejanīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    118, "Saṁvejanīya", "Inspiring",
+    vagga=VAGGA_12,
+    meta_title="AN 4.118 — Inspiring | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṁvejanīyasutta — the four "
+        "places a faithful person should go and see: where the Buddha was born, awakened, taught, "
+        "and was fully quenched. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_12),
+        ("Speakers", SPEAKER),
+        ("Form", "Four places named, each with the thought that makes it what it is"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four places appear in the Mahāparinibbāna material at DN 16 and "
+                              "across the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four lines that founded a "
+                       "practice still carried on"),
+    ],
+    why=(
+        "Four places worth travelling to: where the Realized One was born, where he was awakened, "
+        "where he set the Wheel of Dhamma rolling, and where he was fully quenched. This short "
+        "discourse is the canonical basis of Buddhist pilgrimage, and the word it uses for what such "
+        "a place is &mdash; <em>saṁvejanīya</em> &mdash; is the same one AN 4.113 used of what "
+        "happens when someone hears that a stranger has died."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four places should be visited, and what makes them worth visiting is the thought "
+            "occasioned by standing in them."]),
+        ("The four places", [
+            "Lumbinī, where he was born. Bodh Gayā, where he was awakened. Isipatana near Vārāṇasī, "
+            "where he taught the first discourse. Kusinārā, where he died.",
+            "The discourse does not name any of them. Each is given only as a thought: <em>Here the "
+            "Realized One was born!</em> and so on. The place is identified by what happened in it, "
+            "and the naming has been left to tradition &mdash; which duly supplied it, and all four "
+            "sites are visited today.",
+            "That the discourse gives thoughts rather than place names is worth noticing. What is "
+            "prescribed is not the geography but the recognition, and the recognition is what the "
+            "traveller brings."]),
+        ("<em>Saṁvejanīya</em>", [
+            "Sujato renders the word &lsquo;inspiring&rsquo;, and it is worth knowing what is behind "
+            "that. <em>Saṁvejanīya</em> is that which produces <em>saṁvega</em> &mdash; the "
+            "urgency, the jolt, the stirring that AN 4.113 described happening to someone who hears "
+            "of a death.",
+            "So an inspiring place in this sense is not a pleasant or uplifting one. It is a place "
+            "that shakes a person, and the four are chosen because standing where something happened "
+            "does what reading about it does not.",
+            "That connection between AN 4.113 and this discourse is the most useful thing on this "
+            "page. AN 4.113 described four accidents of proximity that produce <em>saṁvega</em>. This "
+            "describes a way of producing it deliberately, by going somewhere.",
+            "And two of the four places are about death &mdash; the birth site and the death site "
+            "&mdash; while the other two are about the teaching. A pilgrimage on this model is not "
+            "only devotional; it is a way of arranging to be reminded."]),
+        ("&lsquo;A faithful gentleman&rsquo;", [
+            "<em>Saddhassa kulaputtassa</em> &mdash; a faithful person of good family. The word "
+            "<em>kulaputta</em> is used throughout the canon for the kind of lay person who takes the "
+            "training seriously, and it is not restricted to the wealthy.",
+            "The instruction is <em>dassanīyāni</em>, to be seen. Not worshipped, not circumambulated, "
+            "not made offerings at &mdash; seen.",
+            "That is a modest specification and the tradition has built enormously on top of it. What "
+            "the discourse itself asks for is travel and attention, and the practices that grew "
+            "around the four sites are later elaborations of a four-line instruction."]),
+        ("The fuller version", [
+            "This discourse is a compressed form of a passage in the Mahāparinibbāna narrative at "
+            "DN 16, where the four places are given in the same words with an addition: those who die "
+            "while on pilgrimage to them, with a confident heart, are reborn in a good place.",
+            "That promise is absent here. What the Aṅguttara preserves is the list and the reason for "
+            "it, without the reward, which is characteristic of how this collection handles material "
+            "it shares with the longer collections.",
+            "A reader who wants the fuller narrative context should go to DN 16. What this version "
+            "offers is the instruction on its own, which is easier to see clearly."]),
+        ("The chapter", [
+            "The Kesivagga ends with three short discourses and two of them are lists of perils. This "
+            "one sits between the guarding discourse and those, and it is the only discourse in the "
+            "chapter that asks the listener to go anywhere.",
+            "Read against the chapter&rsquo;s opening &mdash; a horse trainer, thoroughbreds, a war "
+            "elephant &mdash; the pilgrimage instruction is a considerable change of register, and "
+            "the chapter does not connect them.",
+            "What can be said is that both halves are about what moves a person to practise. The "
+            "animals were about how much pressure a creature needs; this is about arranging to "
+            "receive some."]),
+    ],
+    terms=[
+        ("saṁvejanīya",
+         "&ldquo;inspiring&rdquo; &mdash; that which produces <em>saṁvega</em>, the urgency AN 4.113 "
+         "described; a place that shakes a person, not a pleasant one."),
+        ("kulaputta",
+         "&ldquo;gentleman, person of good family&rdquo; &mdash; used throughout the canon for a lay "
+         "person who takes the training seriously; not restricted to the wealthy."),
+        ("dassanīya",
+         "&ldquo;to be seen&rdquo; &mdash; the instruction; not worshipped or made offerings at, but "
+         "seen."),
+        ("dhammacakkaṁ pavattitaṁ",
+         "&ldquo;rolled forth the Wheel of Dhamma&rdquo; &mdash; the third place, identified by the "
+         "first teaching rather than by a name."),
+        ("anupādisesā nibbānadhātu",
+         "&ldquo;the element of extinguishment with no residue&rdquo; &mdash; the fourth place, where "
+         "he was fully quenched."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four inspiring places"),
+        ("p", "&sect;1", "an4.118:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What are the four places?",
+         "opts": [
+             "Four monasteries",
+             "Where the Realized One was born, was awakened, rolled forth the Wheel of Dhamma, and was fully quenched",
+             "The four great cities",
+             "Four stūpas"],
+         "correct": 1,
+         "expl": "The canonical basis of Buddhist pilgrimage."},
+        {"q": "How are the places identified?",
+         "opts": [
+             "By name",
+             "Only by a thought &mdash; &lsquo;Here the Realized One was born!&rsquo; and so on",
+             "By region",
+             "By distance from Sāvatthī"],
+         "correct": 1,
+         "expl": "The naming has been left to tradition, which duly supplied it."},
+        {"q": "What does the guide draw from that?",
+         "opts": [
+             "That the places are uncertain",
+             "That what is prescribed is not the geography but the recognition, and the recognition is what the traveller brings",
+             "That the discourse is late",
+             "That names were forgotten"],
+         "correct": 1,
+         "expl": "Each is given as a thought."},
+        {"q": "What does <em>saṁvejanīya</em> mean?",
+         "opts": [
+             "Beautiful",
+             "That which produces <em>saṁvega</em> &mdash; the urgency or jolt AN 4.113 described",
+             "Sacred",
+             "Ancient"],
+         "correct": 1,
+         "expl": "Not a pleasant or uplifting place but one that shakes a person."},
+        {"q": "How does this discourse relate to AN 4.113?",
+         "opts": [
+             "It contradicts it",
+             "AN 4.113 described four accidents of proximity that produce <em>saṁvega</em>; this describes a way of producing it deliberately, by going somewhere",
+             "It repeats it",
+             "It is unrelated"],
+         "correct": 1,
+         "expl": "The most useful connection on the page."},
+        {"q": "What are two of the four places about?",
+         "opts": [
+             "Kingship",
+             "Death &mdash; the birth site and the death site &mdash; while the other two are about the teaching",
+             "Miracles",
+             "Ordination"],
+         "correct": 1,
+         "expl": "A pilgrimage on this model is a way of arranging to be reminded."},
+        {"q": "What is the instruction, exactly?",
+         "opts": [
+             "To worship at the places",
+             "<em>Dassanīya</em> &mdash; to be seen",
+             "To make offerings",
+             "To circumambulate"],
+         "correct": 1,
+         "expl": "A modest specification on which the tradition has built enormously."},
+        {"q": "Who is <em>kulaputta</em>?",
+         "opts": [
+             "A monastic",
+             "A lay person who takes the training seriously &mdash; not restricted to the wealthy",
+             "A brahmin",
+             "A king"],
+         "correct": 1,
+         "expl": "Used throughout the canon."},
+        {"q": "What does the DN 16 version add?",
+         "opts": [
+             "A fifth place",
+             "That those who die while on pilgrimage with a confident heart are reborn in a good place",
+             "The place names",
+             "A verse"],
+         "correct": 1,
+         "expl": "That promise is absent here."},
+        {"q": "What is characteristic about the Aṅguttara&rsquo;s version?",
+         "opts": [
+             "It is longer",
+             "It preserves the list and the reason for it without the reward &mdash; characteristic of how this collection handles shared material",
+             "It names the sites",
+             "It adds a simile"],
+         "correct": 1,
+         "expl": "Easier to see the instruction clearly on its own."},
+    ],
+    marginalia=[
+        ("Four places", [
+            "born",
+            "awakened",
+            "taught",
+            "fully quenched",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">saṁvejanīya</span>",
+            "produces <span class=\"pali\">saṁvega</span>",
+            "&mdash; a place that shakes you",
+        ]),
+        ("The instruction", [
+            "not worship",
+            "not offerings",
+            "&mdash; to be seen",
+        ]),
+        ("Cross-references", [
+            "AN 4.113 &middot; the same stirring, by accident",
+            "AN 4.76 &middot; the death at Kusinārā",
+            "AN 4.119 &middot; next: four perils",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.118/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.113.html">AN 4.113 &middot; The Goad</a> &mdash; where the same stirring '
+        "arrives by accident rather than by arrangement.",
+        '<a href="an-4.76.html">AN 4.76 &middot; At Kusinārā</a> &mdash; a discourse set at the '
+        "fourth of the four places.",
+        '<a href="an-4.119.html">AN 4.119 &middot; Perils (1st)</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.119 — Paṭhamabhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    119, "Paṭhamabhaya", "Perils (1st)",
+    vagga=VAGGA_12,
+    meta_title="AN 4.119 — Perils (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamabhayasutta — the "
+        "perils of rebirth, old age, sickness, and death. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_12),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of four"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four perils of birth, aging, sickness, and death are universal in "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; four words, and they are the four "
+                       "the whole tradition begins from"),
+    ],
+    why=(
+        "Four perils: rebirth, old age, sickness, and death. There is nothing here that a reader of "
+        "the collection has not met, and the discourse consists of naming them under a single "
+        "heading. What the heading does is worth a moment: it calls them <em>bhaya</em>, perils or "
+        "fears, which is not how the first noble truth names them."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Rebirth, aging, sickness, and death are perils."]),
+        ("The word <em>bhaya</em>", [
+            "<em>Bhaya</em> is danger, fear, peril &mdash; the first of the three words AN 3.1 used "
+            "to open the Threes, where the claim was that all of them come from the foolish.",
+            "The first noble truth names the same four items and calls them <em>dukkha</em>: birth is "
+            "suffering, aging is suffering, sickness is suffering, death is suffering. That is a "
+            "statement about their character.",
+            "Calling them perils is a statement about their relation to a person. A peril is something "
+            "one is exposed to, and the word carries the possibility of avoiding it &mdash; which is "
+            "presumably why the collection has this list as well as the other.",
+            "So the difference between the two framings is not doctrinal. It is a difference in what "
+            "the listener is being asked to do: recognize a character, or notice an exposure."]),
+        ("Why rebirth is first", [
+            "<em>Jāti</em>, birth or rebirth, heads the list, and it is the one item a modern reader "
+            "is most likely to hear as odd. Aging, sickness, and death are perils on any view; birth "
+            "is normally what one is glad of.",
+            "In this framework birth is the peril because it is the condition of the other three. "
+            "Nothing that is not born ages, sickens, or dies, and the collection is consistent that "
+            "the way out is not through better births but through no more of them &mdash; AN 4.1 said "
+            "the leash to existence is ended and there will be no more future lives.",
+            "That ordering also makes the list a causal sequence rather than four separate hazards. "
+            "Birth produces the conditions under which the other three become inevitable, which is "
+            "why it is named first and why it is named at all."]),
+        ("A four-line discourse in the middle of a chapter", [
+            "This and AN 4.120 are the chapter&rsquo;s last two discourses and both are four lines. "
+            "The Kesivagga has run through a conversation with a horse trainer, three animal similes, "
+            "a decision grid, two short practical discourses, and the pilgrimage instruction, and it "
+            "closes with two bare lists.",
+            "As with AN 4.71 and AN 4.74, the function is retrieval. A pair of headings with four "
+            "items each, at the end of a chapter, is how a reciter indexes.",
+            "It is worth being straightforward that there is little here to teach beyond the list "
+            "itself and the choice of the word. A guide that manufactured more would be padding."]),
+        ("The pair with AN 4.120", [
+            "The next discourse gives four perils of a completely different kind: fire, water, kings, "
+            "and bandits. The two together are worth reading as a pair.",
+            "This list is what nobody escapes. The next is what may or may not happen to a particular "
+            "person in a particular life, and each item on it can be guarded against &mdash; AN 4.61 "
+            "listed defending oneself against fire, flood, rulers, and bandits as the second fitting "
+            "use of wealth.",
+            "So the two discourses set the avoidable beside the unavoidable, under the same heading, "
+            "without comment. That juxtaposition is the most interesting thing about either of them, "
+            "and it is available only to a reader who takes them together."]),
+        ("Using it", [
+            "The list is a standard object of reflection and the tradition has used it that way "
+            "continuously. The five recollections &mdash; I am liable to age, to sickness, to death, "
+            "to separation from what is dear, and I am the owner of my deeds &mdash; are the fuller "
+            "form, and AN 5.57 gives them.",
+            "What this discourse contributes to that practice is the word. Reflecting on aging as "
+            "<em>dukkha</em> asks a person to see its character; reflecting on it as <em>bhaya</em> "
+            "asks them to notice that they are standing in front of it.",
+            "AN 4.113 said that people are moved when mortality gets close enough. This discourse is "
+            "one of the ways the collection tries to shorten that distance without waiting for the "
+            "event."]),
+    ],
+    terms=[
+        ("bhaya",
+         "&ldquo;peril, danger, fear&rdquo; &mdash; the first of the three words AN 3.1 used; a "
+         "statement about exposure rather than about character."),
+        ("jāti",
+         "&ldquo;rebirth, birth&rdquo; &mdash; first on the list because it is the condition of the "
+         "other three."),
+        ("jarā",
+         "&ldquo;old age&rdquo; &mdash; the second peril, and the first of the five standard "
+         "recollections."),
+        ("byādhi",
+         "&ldquo;sickness&rdquo; &mdash; the third; AN 4.87 listed eight causes of unpleasant "
+         "feeling, of which past deeds is only one."),
+        ("dukkha",
+         "&ldquo;suffering&rdquo; &mdash; how the first noble truth names the same four items; a "
+         "statement about their character rather than about exposure."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four perils"),
+        ("p", "&sect;1", "an4.119:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What are the four perils?",
+         "opts": [
+             "Fire, water, kings, and bandits",
+             "Rebirth, old age, sickness, and death",
+             "Greed, hate, delusion, and fear",
+             "Birth, decay, loss, and blame"],
+         "correct": 1,
+         "expl": "Named under the heading <em>bhaya</em>."},
+        {"q": "How does the first noble truth name the same four?",
+         "opts": [
+             "As perils",
+             "As <em>dukkha</em>, suffering &mdash; a statement about their character",
+             "As fetters",
+             "As yokes"],
+         "correct": 1,
+         "expl": "The difference in framing is not doctrinal."},
+        {"q": "What does calling them perils add?",
+         "opts": [
+             "Severity",
+             "A statement about their relation to a person &mdash; a peril is something one is exposed to",
+             "A time frame",
+             "A ranking"],
+         "correct": 1,
+         "expl": "Recognize a character, or notice an exposure."},
+        {"q": "Why is rebirth first?",
+         "opts": [
+             "It comes first in time",
+             "Because it is the condition of the other three &mdash; nothing that is not born ages, sickens, or dies",
+             "Because it is the worst",
+             "Because it is the most avoidable"],
+         "correct": 1,
+         "expl": "Which makes the list a causal sequence rather than four separate hazards."},
+        {"q": "What does the collection say the way out is?",
+         "opts": [
+             "Better births",
+             "No more of them &mdash; AN 4.1 said the leash to existence is ended and there will be no more future lives",
+             "Longer life",
+             "Freedom from sickness"],
+         "correct": 1,
+         "expl": "Consistent throughout."},
+        {"q": "What function does a four-line discourse at a chapter&rsquo;s end serve?",
+         "opts": [
+             "Summary",
+             "Retrieval &mdash; a heading with four items is how a reciter indexes",
+             "Emphasis",
+             "Closure"],
+         "correct": 1,
+         "expl": "As with AN 4.71 and AN 4.74."},
+        {"q": "What does the guide say about teaching this discourse?",
+         "opts": [
+             "That it has hidden depths",
+             "That there is little to teach beyond the list and the choice of word, and a guide that manufactured more would be padding",
+             "That it should be skipped",
+             "That the commentary supplies more"],
+         "correct": 1,
+         "expl": "Straightforward about what is there."},
+        {"q": "How does AN 4.120&rsquo;s list differ?",
+         "opts": [
+             "It is longer",
+             "Fire, water, kings, and bandits &mdash; what may or may not happen, and each can be guarded against",
+             "It concerns monastics",
+             "It is in verse"],
+         "correct": 1,
+         "expl": "AN 4.61 listed defending against exactly those as a fitting use of wealth."},
+        {"q": "What is the most interesting thing about the pair?",
+         "opts": [
+             "Their length",
+             "That they set the avoidable beside the unavoidable under the same heading, without comment",
+             "Their order",
+             "Their titles"],
+         "correct": 1,
+         "expl": "Available only to a reader who takes them together."},
+        {"q": "What does this discourse contribute to the practice of recollection?",
+         "opts": [
+             "The list",
+             "The word &mdash; reflecting on aging as <em>dukkha</em> asks one to see its character; as <em>bhaya</em>, to notice one is standing in front of it",
+             "The number",
+             "The order"],
+         "correct": 1,
+         "expl": "One of the ways the collection tries to shorten the distance AN 4.113 described."},
+    ],
+    marginalia=[
+        ("Four perils", [
+            "rebirth",
+            "old age",
+            "sickness",
+            "death",
+        ]),
+        ("Two words", [
+            "<span class=\"pali\">dukkha</span>their character",
+            "<span class=\"pali\">bhaya</span>your exposure",
+            "&mdash; same four items",
+        ]),
+        ("Why birth first", [
+            "the condition of the rest",
+            "nothing unborn ages",
+            "&mdash; a sequence, not a set",
+        ]),
+        ("Cross-references", [
+            "AN 4.120 &middot; next: the avoidable perils",
+            "AN 4.113 &middot; how close it has to get",
+            "AN 4.1 &middot; no more future lives",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.119/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.120.html">AN 4.120 &middot; Perils (2nd)</a> &mdash; next in this series, and '
+        "the pair this one should be read with.",
+        '<a href="an-4.113.html">AN 4.113 &middot; The Goad</a> &mdash; on how near mortality has to '
+        "come before it moves someone.",
+        '<a href="an-5.57.html">AN 5.57 &middot; Topics for Frequent Recollection</a> &mdash; the '
+        "fuller form of this reflection, in the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.120 — Dutiyabhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    120, "Dutiyabhaya", "Perils (2nd)",
+    vagga=VAGGA_12,
+    meta_title="AN 4.120 — Perils (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyabhayasutta — the "
+        "perils of fire, water, kings, and bandits. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_12),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of four"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four external perils recur across the Chinese Āgamas and in the "
+                              "Vinaya; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; four words, and its interest is "
+                       "entirely in sitting next to AN 4.119"),
+    ],
+    why=(
+        "Fire, water, kings, and bandits. Four perils of a completely different kind from the four "
+        "in the discourse before it, given under the same heading and with no comment on the "
+        "difference. The pair is the point, and this discourse alone is a list of the ordinary "
+        "hazards of property in an ancient economy."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Fire, flood, rulers, and robbers are perils."]),
+        ("The list and where else it appears", [
+            "<em>Aggi, udaka, rājā, cora</em>. The same four appear at AN 4.61 as what a noble "
+            "disciple defends himself against with legitimately earned wealth &mdash; there with "
+            "<em>unloved heirs</em> added as a fifth.",
+            "They are the standard catalogue of ways a household loses what it has, and each is "
+            "specific to the period&rsquo;s conditions: thatch and timber towns, monsoon rivers, "
+            "confiscation by rulers, and roads without policing.",
+            "That the same four are elsewhere something to insure against tells us how the list was "
+            "understood. These are not metaphors for anything. They are the things that took people&rsquo;s "
+            "houses."]),
+        ("Kings among the hazards", [
+            "The third item deserves a note. <em>Rājā</em>, king, is listed between flood and bandits "
+            "as a way of losing one&rsquo;s property, and the collection does this without comment "
+            "anywhere it appears.",
+            "The reference is to confiscation, arbitrary taxation, and fine &mdash; the ordinary "
+            "exercise of royal power over subjects&rsquo; goods. AN 4.70 described what happens to a "
+            "country under an unprincipled king; this puts kings in a list with fire and robbery.",
+            "It is worth noticing that a collection frequently patronized by kings preserved that "
+            "classification. Nothing softens it and nothing explains it away, and the item sits in "
+            "the same list in the Fours and in the passage on the fitting use of wealth."]),
+        ("Read against AN 4.119", [
+            "AN 4.119 gave rebirth, old age, sickness, and death. This gives fire, water, kings, and "
+            "bandits. Both are called <em>bhaya</em>, and the discourses are adjacent and identical "
+            "in form.",
+            "The differences are complete. The first list is universal, internal, and unavoidable; "
+            "everyone meets all four. The second is contingent, external, and avoidable; a person may "
+            "meet none of them, and AN 4.61 says what to do about them.",
+            "The collection sets them side by side and says nothing. That silence is the most "
+            "interesting feature of either discourse, and two readings are available.",
+            "The first is that the juxtaposition is deflationary about the second list: these things "
+            "that people spend their lives guarding against are called by the same name as the four "
+            "that cannot be guarded against at all, and the comparison is not flattering to the "
+            "effort.",
+            "The second is that it is dignifying about the first: the four that everyone meets are "
+            "being placed in the same category as concrete disasters, which is a way of saying that "
+            "aging is not an abstraction. Both readings are available and the text supports neither "
+            "over the other."]),
+        ("What the pair does not say", [
+            "It does not say that guarding against fire and theft is foolish. AN 4.61 explicitly "
+            "names defending oneself against these four as one of the four fitting uses of "
+            "legitimately earned wealth, and that discourse is not in tension with this one.",
+            "It also does not rank the two lists. Neither discourse says which perils are worse, and "
+            "the second is not presented as a lesser version of the first.",
+            "A teacher using the pair should probably let the juxtaposition do its own work. Stating "
+            "the two lists in succession and stopping is what the collection does, and the effect on "
+            "a listener is more reliable than any gloss."]),
+        ("Closing the chapter", [
+            "The Kesivagga ends here. It began with a horse trainer being shown that a word he uses "
+            "professionally names something worse than what he does with it, ran through three "
+            "animal similes about training, turned to decision, diligence, and guarding, sent the "
+            "faithful to four places, and finishes with eight words in two lists.",
+            "It is the most varied chapter of the Fours so far and its unity is the loosest. What "
+            "several of its discourses share is a concern with what moves a person &mdash; the goad, "
+            "the inspiring places, the perils &mdash; and a reader could take AN 4.113, AN 4.118, and "
+            "these two as a small sequence on that subject.",
+            "That grouping is not the chapter&rsquo;s own. It is what a reader can make of a chapter "
+            "that does not make much of itself."]),
+    ],
+    terms=[
+        ("aggi",
+         "&ldquo;fire&rdquo; &mdash; the first of the four, and a live hazard in towns of thatch and "
+         "timber."),
+        ("udaka",
+         "&ldquo;water&rdquo; &mdash; flood; the second, in a monsoon climate with unembanked "
+         "rivers."),
+        ("rājā",
+         "&ldquo;king&rdquo; &mdash; confiscation, arbitrary taxation, and fine; listed between "
+         "flood and robbery without comment."),
+        ("cora",
+         "&ldquo;bandit, thief&rdquo; &mdash; the fourth, on roads without policing."),
+        ("bhaya",
+         "&ldquo;peril&rdquo; &mdash; the heading shared with AN 4.119, applied to a completely "
+         "different kind of thing."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four perils"),
+        ("p", "&sect;1", "an4.120:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What are the four perils here?",
+         "opts": [
+             "Rebirth, old age, sickness, and death",
+             "Fire, water, kings, and bandits",
+             "Greed, hate, delusion, and fear",
+             "Loss, blame, pain, and disrepute"],
+         "correct": 1,
+         "expl": "A completely different kind from AN 4.119&rsquo;s."},
+        {"q": "Where else do these four appear in the Fours?",
+         "opts": [
+             "AN 4.113",
+             "AN 4.61 &mdash; as what a noble disciple defends himself against with legitimate wealth, with unloved heirs added",
+             "AN 4.70",
+             "AN 4.118"],
+         "correct": 1,
+         "expl": "The standard catalogue of ways a household loses what it has."},
+        {"q": "How were these understood?",
+         "opts": [
+             "As metaphors",
+             "As the actual things that took people&rsquo;s houses, specific to the period&rsquo;s conditions",
+             "As omens",
+             "As punishments"],
+         "correct": 1,
+         "expl": "Thatch and timber towns, monsoon rivers, confiscation, and unpoliced roads."},
+        {"q": "What does the third item refer to?",
+         "opts": [
+             "War",
+             "Confiscation, arbitrary taxation, and fine &mdash; the ordinary exercise of royal power over subjects&rsquo; goods",
+             "Conscription",
+             "Royal displeasure"],
+         "correct": 1,
+         "expl": "Listed between flood and bandits."},
+        {"q": "What does the guide note about that classification?",
+         "opts": [
+             "That it was later removed",
+             "That a collection frequently patronized by kings preserved it, with nothing softening or explaining it away",
+             "That it applies only to bad kings",
+             "That it is metaphorical"],
+         "correct": 1,
+         "expl": "The item sits in the same list in the Fours and in the passage on the fitting use of wealth."},
+        {"q": "How do the two lists differ?",
+         "opts": [
+             "In length",
+             "The first is universal, internal, and unavoidable; the second contingent, external, and avoidable",
+             "In their speaker",
+             "In their setting"],
+         "correct": 1,
+         "expl": "Both are called <em>bhaya</em>, and the discourses are adjacent and identical in form."},
+        {"q": "What is the deflationary reading of the juxtaposition?",
+         "opts": [
+             "That the first list is exaggerated",
+             "That things people spend their lives guarding against are called by the same name as four that cannot be guarded against at all",
+             "That kings are the worst peril",
+             "That neither matters"],
+         "correct": 1,
+         "expl": "Not flattering to the effort."},
+        {"q": "What is the dignifying reading?",
+         "opts": [
+             "That property matters",
+             "That the four everyone meets are placed in the same category as concrete disasters &mdash; a way of saying that aging is not an abstraction",
+             "That kings are dangerous",
+             "That perils can be avoided"],
+         "correct": 1,
+         "expl": "Both readings are available and the text supports neither over the other."},
+        {"q": "What does the pair <em>not</em> say?",
+         "opts": [
+             "That perils exist",
+             "That guarding against fire and theft is foolish, or that one list ranks above the other",
+             "That kings can confiscate",
+             "That death is certain"],
+         "correct": 1,
+         "expl": "AN 4.61 names defending against these four as a fitting use of wealth."},
+        {"q": "What does the guide suggest a teacher do with the pair?",
+         "opts": [
+             "Gloss it carefully",
+             "Let the juxtaposition do its own work &mdash; state the two lists in succession and stop, as the collection does",
+             "Choose one list",
+             "Add a third"],
+         "correct": 1,
+         "expl": "The effect on a listener is more reliable than any gloss."},
+    ],
+    marginalia=[
+        ("Four perils", [
+            "fire",
+            "water",
+            "kings",
+            "bandits",
+        ]),
+        ("Two lists", [
+            "4.119 &middot; nobody escapes",
+            "4.120 &middot; anyone might",
+            "&mdash; and no comment",
+        ]),
+        ("The third item", [
+            "between flood and robbery",
+            "confiscation and fine",
+            "&mdash; and it was never removed",
+        ]),
+        ("Cross-references", [
+            "AN 4.119 &middot; the unavoidable four",
+            "AN 4.61 &middot; defending against these four",
+            "AN 4.70 &middot; the king and the country",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.120/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.119.html">AN 4.119 &middot; Perils (1st)</a> &mdash; the list this one should '
+        "be read against.",
+        '<a href="an-4.61.html">AN 4.61 &middot; Fitting Deeds</a> &mdash; where defending against '
+        "these four is one of the four proper uses of wealth.",
+        '<a href="an-4.170.html">AN 4.170 &middot; In Conjunction</a> &mdash; the next published page '
+        "in the Fours.",
+    ],
+)
