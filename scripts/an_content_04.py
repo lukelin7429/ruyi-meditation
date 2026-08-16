@@ -22866,3 +22866,2329 @@ page(
         "in the Fours.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Valāhakavagga — the eleventh chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_11 = "<em>Valāhakavagga</em> &mdash; the eleventh chapter of the Fours"
+SETTING_11 = ("None stated; the Valāhakavagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.101 — Paṭhamavalāhakasutta
+# --------------------------------------------------------------------------- #
+page(
+    101, "Paṭhamavalāhaka", "Clouds (1st)",
+    vagga=VAGGA_11,
+    meta_title="AN 4.101 — Clouds (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamavalāhakasutta — four "
+        "kinds of cloud and four kinds of person: one thunders but does not rain, one rains but does "
+        "not thunder. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta&rsquo;s Grove, Anāthapiṇḍika&rsquo;s monastery"),
+        ("Speakers", SPEAKER),
+        ("Form", "A natural fourfold, applied to persons, with each cell defined"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The cloud simile for talkers and doers appears across the Chinese "
+                              "Āgamas and at Dhp 51&ndash;52; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; one of the collection&rsquo;s "
+                       "best-known similes, and the chapter&rsquo;s pattern in its simplest form"),
+    ],
+    why=(
+        "Four kinds of cloud: one thunders without raining, one rains without thundering, one does "
+        "neither, one does both. And four kinds of person: a talker who is not a doer, a doer who is "
+        "not a talker, neither, both. The chapter that opens here is nine variations on a single "
+        "four-cell grid, and this is the version everyone remembers."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Saying and doing are independent, and there are four combinations."]),
+        ("The simile&rsquo;s accuracy", [
+            "The four cloud types are not invented for the occasion. Dry thunderstorms, rain without "
+            "audible thunder, overcast that does neither, and a proper storm are all ordinary weather "
+            "in a monsoon climate, and the audience would have seen all four in a season.",
+            "That is worth noticing because it is what makes the simile land. The four cells are "
+            "presented as a fact about the sky before they are presented as a fact about people, and "
+            "the listener has already agreed to the structure by the time it is applied.",
+            "The Aṅguttara does this repeatedly and this chapter does almost nothing else. Nine "
+            "discourses, nine natural fourfolds &mdash; clouds, pots, lakes, mangoes, mice, oxen, "
+            "trees, vipers &mdash; each observed in the world and then turned on a person."]),
+        ("Thunder and rain", [
+            "The mapping is not arbitrary. Thunder is noise that announces rain; rain is what was "
+            "announced. So the talker who does not act is not merely noisy &mdash; he is a "
+            "<em>promise</em> that does not arrive.",
+            "That is sharper than a general complaint about talk. Thunder is not bad; it is what "
+            "precedes and predicts the useful thing. A cloud that thunders and does not rain has "
+            "raised an expectation, and the frustration it produces is specific to that.",
+            "The reverse cell has the same precision. Rain without thunder is unannounced and "
+            "arrives anyway. It is not more useful than a full storm; it is exactly as useful, and "
+            "quieter."]),
+        ("Which cell is best", [
+            "This discourse gives no ranking, and that is worth registering because the next chapter "
+            "of similes will not always be so restrained.",
+            "One might expect the doer-not-talker to be praised above the doer-and-talker, on the "
+            "grounds that talk is suspect. The discourse does not say that. The fourth cell &mdash; "
+            "both rains and thunders &mdash; is listed last, which in this collection normally marks "
+            "the best, and nothing in the text criticizes thunder that is followed by rain.",
+            "Compare AN 4.48, where Visākha is praised for teaching well and the verse says an astute "
+            "person among fools is not known unless he speaks. The collection wants the announcement "
+            "as well as the arrival. What it objects to is the announcement alone."]),
+        ("&lsquo;A talker, not a doer&rsquo;", [
+            "The Pāli is <em>bhāsitā hoti no kattā</em> &mdash; a speaker, not a maker. Both are "
+            "agent nouns, and the discourse gives no further definition.",
+            "AN 4.102, immediately next, will define the same four cells by memorizing the teaching "
+            "against understanding the four truths, and AN 4.107 will do the same with the mouse "
+            "simile. Those versions narrow the pair to a specific religious context.",
+            "This one does not. As it stands the grid applies to anyone who says things and does "
+            "things, which is everyone, and its lack of definition is why it has travelled better "
+            "than any other discourse in the chapter."]),
+        ("The chapter ahead", [
+            "The Valāhakavagga is the most schematic chapter in the Fours. Every discourse is the "
+            "same grid; what changes is the simile and the pair of variables.",
+            "Clouds and mice use memorizing against understanding. Pots, lakes, and mangoes use "
+            "impressive deportment against understanding. Oxen and trees use a person against their "
+            "followers. Vipers use how often anger comes against how long it stays.",
+            "So four content-pairs, spread across nine similes, in ten discourses &mdash; one of "
+            "which has no text at all. Reading the chapter straight through takes about fifteen "
+            "minutes and the experience is closer to hearing a set of variations than to reading ten "
+            "teachings."]),
+    ],
+    terms=[
+        ("valāhaka",
+         "&ldquo;cloud, rain-cloud&rdquo; &mdash; the chapter&rsquo;s title, taken from this "
+         "discourse and its immediate successor."),
+        ("bhāsitā / kattā",
+         "&ldquo;a speaker&rdquo; and &ldquo;a maker&rdquo; &mdash; both agent nouns, given without "
+         "further definition."),
+        ("gajjitā / vassitā",
+         "&ldquo;thunders&rdquo; and &ldquo;rains&rdquo; &mdash; the two cloud behaviors; thunder "
+         "announces and rain is what was announced."),
+        ("upamā",
+         "&ldquo;simile&rdquo; &mdash; the chapter&rsquo;s entire method: a natural fourfold "
+         "observed, then applied to persons."),
+        ("puggalā valāhakūpamā",
+         "&ldquo;individuals similar to clouds&rdquo; &mdash; the formula that turns each of the "
+         "chapter&rsquo;s nine similes into a classification of people."),
+    ],
+    text_intro=(
+        "The discourse in full: the four clouds, the four individuals, and each cell defined. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting"),
+        ("p", "&sect;1", "an4.101:1.1-1.6"),
+        ("h3", "Four clouds, four individuals"),
+        ("p", "&sect;2", "an4.101:2.1-2.13"),
+        ("h3", "Thunders but does not rain"),
+        ("p", "&sect;3", "an4.101:3.1-3.4"),
+        ("h3", "The other three"),
+        ("p", "&sect;4", "an4.101:4.1-4.2"),
+        ("p", "&sect;5", "an4.101:5.1-5.2"),
+        ("p", "&sect;6", "an4.101:6.1-6.6"),
+    ],
+    quiz=[
+        {"q": "What are the four kinds of cloud?",
+         "opts": [
+             "Storm, mist, fog, and haze",
+             "One thunders but does not rain, one rains but does not thunder, one does neither, one does both",
+             "Monsoon, winter, summer, and spring clouds",
+             "High, low, thick, and thin"],
+         "correct": 1,
+         "expl": "All four are ordinary weather in a monsoon climate."},
+        {"q": "Why does the guide say the simile lands?",
+         "opts": [
+             "Because clouds are beautiful",
+             "Because the four cells are presented as a fact about the sky before being applied to people &mdash; the listener has already agreed to the structure",
+             "Because rain is scarce",
+             "Because thunder is frightening"],
+         "correct": 1,
+         "expl": "The Aṅguttara does this repeatedly, and this chapter does almost nothing else."},
+        {"q": "What makes the thunder-without-rain mapping sharper than a complaint about talk?",
+         "opts": [
+             "Thunder is loud",
+             "Thunder announces rain, so the talker who does not act is a promise that does not arrive",
+             "Thunder is harmless",
+             "Rain is the only useful part"],
+         "correct": 1,
+         "expl": "The frustration produced is specific to a raised expectation."},
+        {"q": "How does the guide characterize rain without thunder?",
+         "opts": [
+             "As better than a full storm",
+             "As exactly as useful, and quieter &mdash; unannounced and arriving anyway",
+             "As insufficient",
+             "As unusual"],
+         "correct": 1,
+         "expl": "The reverse cell has the same precision."},
+        {"q": "Does the discourse rank the four?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; though the fourth cell is listed last, which in this collection normally marks the best",
+             "It ranks only the worst",
+             "It ranks the doer highest"],
+         "correct": 1,
+         "expl": "And nothing in the text criticizes thunder that is followed by rain."},
+        {"q": "Which earlier discourse supports reading the fourth cell as best?",
+         "opts": [
+             "AN 4.3",
+             "AN 4.48 &mdash; Visākha praised for teaching well, and the verse that an astute person among fools is not known unless he speaks",
+             "AN 4.26",
+             "AN 4.95"],
+         "correct": 1,
+         "expl": "The collection wants the announcement as well as the arrival."},
+        {"q": "How much definition does this discourse give of &lsquo;talker&rsquo; and &lsquo;doer&rsquo;?",
+         "opts": [
+             "A full definition of each",
+             "None &mdash; both are bare agent nouns",
+             "A definition of the first only",
+             "A definition by simile"],
+         "correct": 1,
+         "expl": "<em>Bhāsitā hoti no kattā</em>, a speaker not a maker."},
+        {"q": "Why does the guide say that lack of definition matters?",
+         "opts": [
+             "It makes the discourse incomplete",
+             "The grid applies to anyone who says and does things, which is everyone &mdash; and that is why it has travelled better than any other discourse in the chapter",
+             "It requires the commentary",
+             "It restricts it to monastics"],
+         "correct": 1,
+         "expl": "AN 4.102 and AN 4.107 narrow the same pair to a religious context."},
+        {"q": "How many content-pairs does the chapter use across its nine similes?",
+         "opts": [
+             "Nine",
+             "Four &mdash; saying against doing, memorizing against understanding, deportment against understanding, and a person against their followers, plus the vipers&rsquo; anger pair",
+             "Two",
+             "One"],
+         "correct": 1,
+         "expl": "The similes vary far more than the content does."},
+        {"q": "How does the guide describe reading the chapter straight through?",
+         "opts": [
+             "As ten separate teachings",
+             "Closer to hearing a set of variations than to reading ten teachings &mdash; about fifteen minutes",
+             "As impossible",
+             "As a single argument"],
+         "correct": 1,
+         "expl": "One of the ten has no text at all."},
+    ],
+    marginalia=[
+        ("Four clouds", [
+            "thunders, no rain",
+            "rains, no thunder",
+            "neither",
+            "both",
+        ]),
+        ("The mapping", [
+            "thunder &middot; announces",
+            "rain &middot; arrives",
+            "&mdash; a promise, and its keeping",
+        ]),
+        ("The chapter", [
+            "nine similes",
+            "four content-pairs",
+            "&mdash; one grid throughout",
+        ]),
+        ("Cross-references", [
+            "AN 4.102 &middot; next: the same grid, narrowed",
+            "AN 4.48 &middot; on speaking as well as doing",
+            "AN 4.6 &middot; learning that does not become practice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.101/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.102.html">AN 4.102 &middot; Clouds (2nd)</a> &mdash; next in this series, the '
+        "same simile with the pair narrowed.",
+        '<a href="an-4.48.html">AN 4.48 &middot; With Visākha, Pañcāli&rsquo;s Son</a> &mdash; on why '
+        "the collection wants the thunder too.",
+        '<a href="an-4.6.html">AN 4.6 &middot; A Little Learning</a> &mdash; the earlier grid on '
+        "learning that does or does not become practice.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.102 — Dutiyavalāhakasutta
+# --------------------------------------------------------------------------- #
+page(
+    102, "Dutiyavalāhaka", "Clouds (2nd)",
+    vagga=VAGGA_11,
+    meta_title="AN 4.102 — Clouds (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyavalāhakasutta — the "
+        "cloud simile applied to memorizing the teaching against truly understanding the four noble "
+        "truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_11),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.101&rsquo;s simile with a different pair of variables"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "As with AN 4.101; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same grid, and the "
+                       "substitution is the content"),
+    ],
+    why=(
+        "The same four clouds, and the talker and doer are now specified: thunder is memorizing the "
+        "teaching in all nine of its literary forms, and rain is truly understanding the four noble "
+        "truths. That substitution turns a general observation about words and deeds into a claim "
+        "about what learning the canon does and does not accomplish."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Knowing the texts and understanding the truths are independent, and there are four "
+            "combinations."]),
+        ("What thunder becomes", [
+            "<em>An individual memorizes the teaching &mdash; statements, mixed prose and verse, "
+            "discussions, verses, inspired exclamations, legends, stories of past lives, amazing "
+            "stories, and elaborations.</em>",
+            "That is the <em>navaṅga</em>, the ninefold division of the teaching by literary form, "
+            "which AN 4.6 also used. It is the canon&rsquo;s description of its own contents, and "
+            "memorizing all nine is the maximum a person could have done by way of learning.",
+            "So the thunder cell is not a person who talks idly. It is a person who has learned "
+            "everything there is to learn, in a tradition where that was the highest recognized "
+            "qualification. The discourse gives them the top of one scale and nothing on the other."]),
+        ("What rain becomes", [
+            "<em>They truly understand: &lsquo;This is suffering&rsquo; &hellip; &lsquo;This is the "
+            "origin&rsquo; &hellip; &lsquo;This is the cessation&rsquo; &hellip; &lsquo;This is the "
+            "practice that leads to the cessation of suffering&rsquo;.</em>",
+            "<em>Yathābhūtaṁ pajānāti</em>, truly understands or understands as it is. The four "
+            "truths in their standard formulation.",
+            "The gap between the two variables is the discourse&rsquo;s whole point, and it is worth "
+            "stating as plainly as the text does: a person can have the entire canon by heart and not "
+            "understand the four truths, and a person can understand the four truths without having "
+            "memorized anything."]),
+        ("The second cell", [
+            "<em>They don&rsquo;t memorize the teaching &hellip; but they truly understand.</em>",
+            "That cell is the more consequential of the two mixed ones, and it is easy to skip past. "
+            "It says that the goal of the whole system is reachable by someone who has not learned "
+            "the texts.",
+            "The collection says this in several places &mdash; AN 4.6 ranked little learning that "
+            "lands above much learning that does not, and this goes further by making the second "
+            "variable understanding of the truths rather than mere practice.",
+            "It should be said that the collection does not therefore disparage learning. AN 4.6 also "
+            "praised the learned and ethical disciple as a pendant of finest gold, and the fourth "
+            "cell here is both. What is denied is only that learning is necessary or sufficient."]),
+        ("Why this pairing recurs", [
+            "AN 4.107, the mouse discourse of this same chapter, uses exactly this pair of variables "
+            "again: memorizing the ninefold teaching against understanding the four truths.",
+            "So of the chapter&rsquo;s nine similes, two carry this content and three others carry "
+            "deportment against understanding. The pairing that gets repeated is the one about "
+            "learning, which suggests the compilers considered it the most useful application of the "
+            "grid.",
+            "That is a reasonable judgment. Of the four content-pairs in this chapter, this is the "
+            "one that addresses a failure mode specific to a textual tradition, and the tradition "
+            "compiling it was a textual one."]),
+        ("Reading the pair of cloud discourses", [
+            "AN 4.101 and AN 4.102 are a matched set and should be read together: the general form "
+            "and its application.",
+            "The general form is what makes the discourse memorable and portable; the application is "
+            "what makes it a teaching about the path rather than an observation about human "
+            "character.",
+            "This is a common relation between adjacent discourses in the collection, and it is worth "
+            "watching for. AN 4.43 and 4.44 did the same with the four things valued above the "
+            "teaching; AN 4.85 and 4.86 with the dark-and-light grid. The pair is the unit, and "
+            "neither half is the whole."]),
+    ],
+    terms=[
+        ("navaṅga",
+         "the ninefold division of the teaching by literary form &mdash; the maximum a person could "
+         "have learned, and what fills the thunder cell here."),
+        ("yathābhūtaṁ pajānāti",
+         "&ldquo;truly understands, understands as it is&rdquo; &mdash; what fills the rain cell, "
+         "applied to the four noble truths."),
+        ("pariyatti",
+         "&ldquo;learning, the texts as learned&rdquo; &mdash; not used in the discourse, but the "
+         "later tradition&rsquo;s name for what the thunder cell has."),
+        ("cattāri ariyasaccāni",
+         "the four noble truths &mdash; suffering, its origin, its cessation, and the practice "
+         "leading there; the object of true understanding."),
+        ("valāhaka",
+         "&ldquo;cloud&rdquo; &mdash; the simile carried over unchanged from AN 4.101, with only the "
+         "variables substituted."),
+    ],
+    text_intro=(
+        "The discourse in full: the four clouds, the four individuals, and each cell defined. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four clouds, four individuals"),
+        ("p", "&sect;1", "an4.102:1.1-1.13"),
+        ("h3", "Thunders but does not rain"),
+        ("p", "&sect;2", "an4.102:2.1-2.6"),
+        ("h3", "Rains but does not thunder"),
+        ("p", "&sect;3", "an4.102:3.1-3.4"),
+        ("h3", "Neither"),
+        ("p", "&sect;4", "an4.102:4.1-4.4"),
+        ("h3", "Both"),
+        ("p", "&sect;5", "an4.102:5.1-5.8"),
+    ],
+    quiz=[
+        {"q": "What does thunder stand for in this version?",
+         "opts": [
+             "Talking",
+             "Memorizing the teaching in all nine of its literary forms",
+             "Teaching others",
+             "Reciting the code"],
+         "correct": 1,
+         "expl": "The <em>navaṅga</em>, which AN 4.6 also used."},
+        {"q": "What does rain stand for?",
+         "opts": [
+             "Practising in line with the teaching",
+             "Truly understanding the four noble truths",
+             "Attaining jhāna",
+             "Ending the defilements"],
+         "correct": 1,
+         "expl": "<em>Yathābhūtaṁ pajānāti</em>, applied to the four truths."},
+        {"q": "Why is the thunder cell not a person who talks idly?",
+         "opts": [
+             "Because they are silent",
+             "Because they have learned everything there is to learn, in a tradition where that was the highest recognized qualification",
+             "Because they teach well",
+             "Because they are ordained"],
+         "correct": 1,
+         "expl": "The top of one scale and nothing on the other."},
+        {"q": "What does the discourse claim by having four cells?",
+         "opts": [
+             "That learning produces understanding",
+             "That a person can have the entire canon by heart and not understand the four truths, and can understand them without having memorized anything",
+             "That understanding produces learning",
+             "That both are rare"],
+         "correct": 1,
+         "expl": "The gap between the two variables is the whole point."},
+        {"q": "Which mixed cell does the guide call more consequential?",
+         "opts": [
+             "Memorizing without understanding",
+             "Understanding without memorizing &mdash; it says the goal is reachable by someone who has not learned the texts",
+             "Neither",
+             "They are equal"],
+         "correct": 1,
+         "expl": "Easy to skip past."},
+        {"q": "How does that go beyond AN 4.6?",
+         "opts": [
+             "It does not",
+             "AN 4.6 ranked little learning that lands above much that does not; this makes the second variable understanding of the truths rather than mere practice",
+             "It ranks learning higher",
+             "It concerns lay people"],
+         "correct": 1,
+         "expl": "A stronger version of the same claim."},
+        {"q": "Does the collection therefore disparage learning?",
+         "opts": [
+             "Yes",
+             "No &mdash; AN 4.6 praised the learned and ethical disciple as a pendant of finest gold, and the fourth cell here is both",
+             "It is silent",
+             "Only for monastics"],
+         "correct": 1,
+         "expl": "What is denied is only that learning is necessary or sufficient."},
+        {"q": "Which other discourse in this chapter uses the same pair of variables?",
+         "opts": [
+             "AN 4.103, the pots",
+             "AN 4.107, the mice",
+             "AN 4.108, the oxen",
+             "AN 4.110, the vipers"],
+         "correct": 1,
+         "expl": "Two of the chapter&rsquo;s nine similes carry this content."},
+        {"q": "What does the guide infer from that repetition?",
+         "opts": [
+             "That the text is corrupt",
+             "That the compilers considered it the most useful application of the grid &mdash; a failure mode specific to a textual tradition",
+             "That the mouse simile is older",
+             "That the pairing is arbitrary"],
+         "correct": 1,
+         "expl": "And the tradition compiling it was a textual one."},
+        {"q": "How does the guide describe the relation between AN 4.101 and AN 4.102?",
+         "opts": [
+             "As alternatives",
+             "As a matched set &mdash; the general form and its application, with the pair as the unit and neither half the whole",
+             "As contradictory",
+             "As unrelated"],
+         "correct": 1,
+         "expl": "The same relation as AN 4.43 and 4.44, or AN 4.85 and 4.86."},
+    ],
+    marginalia=[
+        ("The substitution", [
+            "thunder &middot; the nine forms",
+            "rain &middot; the four truths",
+            "&mdash; and they are independent",
+        ]),
+        ("The claim", [
+            "the whole canon by heart",
+            "and no understanding",
+            "&mdash; and the reverse",
+        ]),
+        ("Not a disparagement", [
+            "the fourth cell",
+            "is both",
+            "&mdash; only: neither is enough alone",
+        ]),
+        ("Cross-references", [
+            "AN 4.101 &middot; the general form",
+            "AN 4.107 &middot; the same pair, with mice",
+            "AN 4.6 &middot; learning and its point",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.102/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.101.html">AN 4.101 &middot; Clouds (1st)</a> &mdash; the general form this '
+        "discourse applies.",
+        '<a href="an-4.6.html">AN 4.6 &middot; A Little Learning</a> &mdash; the earlier and fuller '
+        "treatment of learning and its point.",
+        '<a href="an-4.103.html">AN 4.103 &middot; Pots</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.103 — Kumbhasutta
+# --------------------------------------------------------------------------- #
+page(
+    103, "Kumbha", "Pots",
+    vagga=VAGGA_11,
+    meta_title="AN 4.103 — Pots | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kumbhasutta — covered but "
+        "hollow, uncovered but full: four pots and four people, sorted by bearing and by "
+        "understanding. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_11),
+        ("Speakers", SPEAKER),
+        ("Form", "The chapter&rsquo;s grid with a new simile and a new pair of variables"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The covered-and-hollow pot appears across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a new pair of variables, and the "
+                       "first of three similes that share it"),
+    ],
+    why=(
+        "Four pots &mdash; covered but hollow, uncovered but full, uncovered and hollow, covered and "
+        "full &mdash; and the new variable is deportment. Impressive bearing against understanding "
+        "the four truths. The chapter has moved from what a person says to how they carry "
+        "themselves, and the pot is chosen because a lid tells you nothing about contents."),
+    guide=[
+        ("The teaching in one sentence", [
+            "How a person carries themselves and what they understand are independent, and the "
+            "outside is a lid."]),
+        ("The new variable", [
+            "<em>Impressive when going out and coming back, when looking ahead and aside, when "
+            "bending and extending the limbs, and when bearing the outer robe, bowl and robes.</em>",
+            "That is a precise description of monastic deportment &mdash; the way a well-trained monk "
+            "walks, looks, moves, and handles their belongings. It is not about appearance in the "
+            "sense of features; it is about carriage.",
+            "The word is <em>pāsādika</em>, inspiring confidence or pleasing. AN 1.378&ndash;393 in "
+            "the Ones listed sixteen such things that make people trust a monastic, and this is the "
+            "same territory. AN 4.65 named appearance as one of the four grounds on which confidence "
+            "is formed, and declined to endorse it.",
+            "So this discourse&rsquo;s first variable is exactly the thing the collection has "
+            "elsewhere said is not a measure, and here it is paired with the thing that is."]),
+        ("The lid", [
+            "<em>Kumbha</em> is a water pot, and the covering is a lid or cloth over the mouth. A "
+            "covered pot looks the same whether it is full or empty; that is what a lid does.",
+            "The simile is therefore about a specific kind of opacity. Deportment is not a false "
+            "signal &mdash; it is not that impressive bearing indicates emptiness &mdash; it is a "
+            "<em>non</em>-signal. It covers the mouth so that nothing about the contents can be "
+            "seen.",
+            "That is why the fourth cell is covered and full rather than uncovered and full. The lid "
+            "is not removed by understanding. A person of good deportment who understands the truths "
+            "is still opaque from outside; the difference is inside the pot."]),
+        ("The second cell", [
+            "<em>Uncovered but full</em> &mdash; not impressive in carriage, and understanding the "
+            "four truths.",
+            "That cell has a long life in the tradition&rsquo;s stories and it is worth naming: the "
+            "unimpressive practitioner who has arrived. The canon has several such figures, and the "
+            "Aṅguttara returns to the type repeatedly.",
+            "It is worth being clear about what the discourse does and does not do with this cell. It "
+            "does not praise poor deportment. Uncovered is not better than covered; the fourth cell "
+            "has both. What it does is deny that the absence of impressive bearing tells you anything "
+            "about the contents, exactly as the presence of it does not."]),
+        ("Three similes, one pair", [
+            "AN 4.103, 4.104, and 4.105 &mdash; pots, lakes, and mangoes &mdash; all use this same "
+            "pair of variables, word for word.",
+            "The three similes differ in what kind of opacity they name. A pot has a lid: the outside "
+            "conceals. A lake has a surface: the outside <em>misleads</em>, since shallow water can "
+            "look deep. A mango has a skin: the outside <em>ripens on its own schedule</em>, which is "
+            "the sharpest of the three.",
+            "So the group is not simple repetition. Each simile adds a different account of why "
+            "appearance and reality come apart, and a reader taking all three gets three mechanisms "
+            "rather than one claim three times."]),
+        ("Using it", [
+            "The grid is a warning about assessment in both directions, and the second direction is "
+            "the one usually neglected.",
+            "The first warning is familiar: do not conclude from good bearing that someone "
+            "understands. The second is that one cannot conclude from awkwardness, poor "
+            "presentation, or lack of polish that they do not.",
+            "AN 4.65 gave the positive version of the same instruction &mdash; judge by principle "
+            "&mdash; and this chapter gives the negative version three times over. Between them they "
+            "are the collection&rsquo;s fullest treatment of how not to assess a practitioner."]),
+    ],
+    terms=[
+        ("kumbha",
+         "&ldquo;pot, water pot&rdquo; &mdash; covered with a lid or cloth, which conceals the "
+         "contents entirely."),
+        ("pāsādika",
+         "&ldquo;impressive, inspiring confidence&rdquo; &mdash; the quality of carriage, not of "
+         "features; the same territory as AN 1.378&ndash;393."),
+        ("abhikkante paṭikkante",
+         "&ldquo;going out and coming back&rdquo; &mdash; the first pair of the deportment formula, "
+         "with looking, bending, and bearing the robes and bowl."),
+        ("tuccha / puṇṇa",
+         "&ldquo;hollow&rdquo; and &ldquo;full&rdquo; &mdash; the second variable, standing for not "
+         "understanding and understanding the four truths."),
+        ("paṭikujjita / vivaṭa",
+         "&ldquo;covered&rdquo; and &ldquo;uncovered&rdquo; &mdash; the lid, which is a non-signal "
+         "rather than a false one."),
+    ],
+    text_intro=(
+        "The discourse in full: the four pots, the four individuals, and each cell defined. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four pots, four individuals"),
+        ("p", "&sect;1", "an4.103:1.1-1.13"),
+        ("h3", "Covered but hollow"),
+        ("p", "&sect;2", "an4.103:2.1-2.5"),
+        ("h3", "Uncovered but full"),
+        ("p", "&sect;3", "an4.103:3.1-3.3"),
+        ("h3", "Uncovered and hollow"),
+        ("p", "&sect;4", "an4.103:4.1-4.3"),
+        ("h3", "Covered and full"),
+        ("p", "&sect;5", "an4.103:5.1-5.7"),
+    ],
+    quiz=[
+        {"q": "What is the new first variable in this discourse?",
+         "opts": [
+             "Memorizing the teaching",
+             "Impressive deportment &mdash; going out and coming back, looking, bending and extending, bearing the robes and bowl",
+             "Talking",
+             "Ethical conduct"],
+         "correct": 1,
+         "expl": "Carriage, not features."},
+        {"q": "Where has the collection treated the same territory?",
+         "opts": [
+             "AN 4.10",
+             "AN 1.378&ndash;393 on what inspires confidence, and AN 4.65, which named appearance as a ground it declined to endorse",
+             "AN 4.51",
+             "AN 4.95"],
+         "correct": 1,
+         "expl": "This discourse pairs that with the thing that is a measure."},
+        {"q": "What kind of signal is a lid?",
+         "opts": [
+             "A false signal",
+             "A non-signal &mdash; it covers the mouth so nothing about the contents can be seen",
+             "A reliable signal",
+             "A warning"],
+         "correct": 1,
+         "expl": "Not that impressive bearing indicates emptiness."},
+        {"q": "Why is the fourth cell covered and full rather than uncovered and full?",
+         "opts": [
+             "Because fullness requires covering",
+             "Because the lid is not removed by understanding &mdash; a person of good deportment who understands is still opaque from outside",
+             "Because pots must be covered",
+             "Because uncovered pots spill"],
+         "correct": 1,
+         "expl": "The difference is inside the pot."},
+        {"q": "What figure does the second cell name?",
+         "opts": [
+             "The learned monk",
+             "The unimpressive practitioner who has arrived",
+             "The novice",
+             "The lay follower"],
+         "correct": 1,
+         "expl": "A type the Aṅguttara returns to repeatedly."},
+        {"q": "Does the discourse praise poor deportment?",
+         "opts": [
+             "Yes",
+             "No &mdash; uncovered is not better than covered, and the fourth cell has both",
+             "Only for arahants",
+             "It does not say"],
+         "correct": 1,
+         "expl": "What it denies is that the absence of bearing tells you anything, just as its presence does not."},
+        {"q": "Which three discourses share this pair of variables?",
+         "opts": [
+             "AN 4.101, 4.102, and 4.107",
+             "AN 4.103, 4.104, and 4.105 &mdash; pots, lakes, and mangoes",
+             "AN 4.108, 4.109, and 4.110",
+             "AN 4.102, 4.103, and 4.104"],
+         "correct": 1,
+         "expl": "Word for word the same."},
+        {"q": "How do the three similes differ?",
+         "opts": [
+             "Only in vividness",
+             "In the kind of opacity &mdash; a lid conceals, a surface misleads, and a skin ripens on its own schedule",
+             "In the number of cells",
+             "In their audience"],
+         "correct": 1,
+         "expl": "Three mechanisms rather than one claim three times."},
+        {"q": "Which of the two warnings does the guide say is usually neglected?",
+         "opts": [
+             "The first",
+             "The second &mdash; that one cannot conclude from awkwardness or lack of polish that someone does not understand",
+             "Neither",
+             "Both equally"],
+         "correct": 1,
+         "expl": "The grid is a warning about assessment in both directions."},
+        {"q": "How does this chapter relate to AN 4.65?",
+         "opts": [
+             "It contradicts it",
+             "AN 4.65 gave the positive instruction &mdash; judge by principle &mdash; and this chapter gives the negative version three times over",
+             "It replaces it",
+             "It has no connection"],
+         "correct": 1,
+         "expl": "Between them, the collection&rsquo;s fullest treatment of how not to assess a practitioner."},
+    ],
+    marginalia=[
+        ("Four pots", [
+            "covered, hollow",
+            "uncovered, full",
+            "uncovered, hollow",
+            "covered, full",
+        ]),
+        ("The lid", [
+            "not a false signal",
+            "a non-signal",
+            "&mdash; and it stays on",
+        ]),
+        ("Three opacities", [
+            "pot &middot; conceals",
+            "lake &middot; misleads",
+            "mango &middot; ripens on its own",
+        ]),
+        ("Cross-references", [
+            "AN 4.65 &middot; judge by principle",
+            "AN 4.104 &middot; next: lakes",
+            "AN 1.378-393 &middot; what inspires confidence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.103/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.104.html">AN 4.104 &middot; Lakes</a> &mdash; next in this series, the same '
+        "pair with a surface instead of a lid.",
+        '<a href="an-4.65.html">AN 4.65 &middot; Appearance</a> &mdash; the positive instruction this '
+        "chapter gives the negative of.",
+        '<a href="an-1.378-393.html">AN 1.378&ndash;393 &middot; Inspiring Confidence</a> &mdash; the '
+        "sixteen things that make people trust a monastic.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.104 — Udakarahadasutta
+# --------------------------------------------------------------------------- #
+page(
+    104, "Udakarahada", "Lakes",
+    vagga=VAGGA_11,
+    meta_title="AN 4.104 — Lakes | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Udakarahadasutta — shallow "
+        "but appearing deep, deep but appearing shallow: four lakes and four people. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_11),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.103&rsquo;s pair of variables with a new simile"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The deep-and-shallow water simile appears across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same content as AN 4.103 with "
+                       "a better simile"),
+    ],
+    why=(
+        "The same two variables &mdash; impressive deportment and understanding the four truths "
+        "&mdash; with water in place of pots. And the water is the better simile, because a lake "
+        "does not merely conceal its depth. It <em>reports</em> a depth, and the report can be "
+        "wrong in either direction."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A surface gives a reading of the depth beneath it, and the reading is unreliable both "
+            "ways."]),
+        ("Why the lake improves on the pot", [
+            "A covered pot tells you nothing; you know you do not know. A lake tells you something "
+            "&mdash; dark water reads as deep, clear water over a pale bottom reads as shallow "
+            "&mdash; and the something can be false.",
+            "That is a different and more dangerous situation. With the pot, an honest observer knows "
+            "they are ignorant. With the lake, they have an impression and no reason to distrust it.",
+            "The discourse&rsquo;s phrasing captures this: <em>shallow but appears deep</em>, "
+            "<em>deep but appears shallow</em>. The verb is about how it looks, and the mismatch is "
+            "stated as a property of the lake rather than as an error by the observer."]),
+        ("What makes water look deep", [
+            "The simile assumes something the audience knew and a modern reader may not. Standing "
+            "water in this climate reads as deep when it is dark &mdash; turbid, shaded, or over a "
+            "dark bed &mdash; and shallow when the bottom is visible.",
+            "Neither is a reliable index. Muddy shallow water is opaque; clear deep water over pale "
+            "sand can be startlingly transparent. Anyone who has misjudged a river crossing knows the "
+            "second case.",
+            "The mapping onto deportment is exact. Composure, carefulness, and self-possession read "
+            "as depth. Their absence reads as its absence. Neither reading is an index of anything, "
+            "and the discourse says so by giving all four cells."]),
+        ("The mixed cells again", [
+            "<em>Shallow but appears deep</em>: impressive carriage, no understanding of the truths. "
+            "<em>Deep but appears shallow</em>: no impressive carriage, understanding of the truths.",
+            "Between AN 4.103, this, and AN 4.105 the same two people are described three times. That "
+            "repetition is worth noticing rather than skipping: the compilers thought these two "
+            "figures worth three similes.",
+            "Both are hazards, and they are hazards to different parties. The first misleads other "
+            "people; the second is misjudged by them. The discourse addresses observers in both "
+            "cases, which is consistent with the chapter being a set of tools for assessment rather "
+            "than for self-examination."]),
+        ("Depth as a metaphor for understanding", [
+            "The choice of depth is not accidental. <em>Gambhīra</em>, deep, is one of the "
+            "canon&rsquo;s standard words for the teaching itself &mdash; the Dhamma is repeatedly "
+            "called deep, hard to see, subtle.",
+            "So a person who understands the four truths is deep in the same sense that the teaching "
+            "is deep, and the simile quietly claims that what is in such a person is the same kind "
+            "of thing as what is in the Dhamma.",
+            "That is more than the pot simile could carry. A full pot is full of something "
+            "unspecified; a deep lake is deep in the way the teaching is deep. The improvement is "
+            "not just in the mechanism of concealment but in what is being concealed."]),
+        ("Reading the three together", [
+            "Pots, lakes, mangoes: concealment, misreading, and timing. The third will add the "
+            "element neither of the first two has, which is that ripeness changes.",
+            "Taken as a sequence the three build. A pot&rsquo;s contents are static and hidden. A "
+            "lake&rsquo;s depth is static and misreported. A mango&rsquo;s ripeness is a process, and "
+            "the appearance and the reality are on different schedules.",
+            "Whether the compilers intended the progression, it is there, and reading the three in "
+            "order is the best use of what would otherwise be three statements of one claim."]),
+    ],
+    terms=[
+        ("udakarahada",
+         "&ldquo;lake, pool of water&rdquo; &mdash; standing water, whose surface gives a reading of "
+         "its depth."),
+        ("gambhīra",
+         "&ldquo;deep&rdquo; &mdash; one of the canon&rsquo;s standard words for the teaching itself: "
+         "deep, hard to see, subtle."),
+        ("uttāna",
+         "&ldquo;shallow&rdquo; &mdash; and by extension plain or obvious; the opposite term in both "
+         "the literal and the figurative sense."),
+        ("gambhīrobhāsa",
+         "&ldquo;appearing deep&rdquo; &mdash; the compound for water that reads deeper than it is; "
+         "the mismatch is stated as a property of the lake."),
+        ("pāsādika",
+         "&ldquo;impressive&rdquo; &mdash; the deportment variable, carried over unchanged from "
+         "AN 4.103."),
+    ],
+    text_intro=(
+        "The discourse in full: the four lakes, the four individuals, and each cell defined. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four lakes, four individuals"),
+        ("p", "&sect;1", "an4.104:1.1-1.13"),
+        ("h3", "Shallow but appears deep"),
+        ("p", "&sect;2", "an4.104:2.1-2.5"),
+        ("h3", "Deep but appears shallow"),
+        ("p", "&sect;3", "an4.104:3.1-3.3"),
+        ("h3", "Shallow and appears shallow"),
+        ("p", "&sect;4", "an4.104:4.1-4.3"),
+        ("h3", "Deep and appears deep"),
+        ("p", "&sect;5", "an4.104:5.1-5.7"),
+    ],
+    quiz=[
+        {"q": "What two variables does this discourse use?",
+         "opts": [
+             "Memorizing and understanding",
+             "Impressive deportment and understanding the four truths &mdash; the same as AN 4.103",
+             "Talking and doing",
+             "Anger&rsquo;s frequency and duration"],
+         "correct": 1,
+         "expl": "With water in place of pots."},
+        {"q": "Why does the guide call the lake the better simile?",
+         "opts": [
+             "It is more vivid",
+             "A pot tells you nothing, so you know you do not know; a lake reports a depth, and the report can be false",
+             "Lakes are larger",
+             "Water is a common image"],
+         "correct": 1,
+         "expl": "A different and more dangerous situation."},
+        {"q": "How is the mismatch stated?",
+         "opts": [
+             "As an error by the observer",
+             "As a property of the lake &mdash; shallow but appears deep",
+             "As a temporary condition",
+             "As a matter of light"],
+         "correct": 1,
+         "expl": "The verb is about how it looks."},
+        {"q": "What makes standing water read as deep?",
+         "opts": [
+             "Its size",
+             "Being dark &mdash; turbid, shaded, or over a dark bed &mdash; while visible bottom reads as shallow",
+             "Its temperature",
+             "Its stillness"],
+         "correct": 1,
+         "expl": "Neither is a reliable index."},
+        {"q": "How does that map onto deportment?",
+         "opts": [
+             "It does not",
+             "Composure, carefulness, and self-possession read as depth, and their absence reads as its absence &mdash; neither reading is an index of anything",
+             "Deportment is always accurate",
+             "Only the negative reading is unreliable"],
+         "correct": 1,
+         "expl": "The discourse says so by giving all four cells."},
+        {"q": "Who are the two mixed cells hazards to?",
+         "opts": [
+             "Only themselves",
+             "Different parties &mdash; the first misleads other people, the second is misjudged by them",
+             "Only the community",
+             "Neither is a hazard"],
+         "correct": 1,
+         "expl": "The discourse addresses observers in both cases."},
+        {"q": "What does that suggest about the chapter&rsquo;s purpose?",
+         "opts": [
+             "That it is for self-examination",
+             "That it is a set of tools for assessment rather than for self-examination",
+             "That it is devotional",
+             "That it is monastic law"],
+         "correct": 1,
+         "expl": "Consistent across the three similes that share this pair."},
+        {"q": "Why is <em>gambhīra</em> a significant choice?",
+         "opts": [
+             "It is a rare word",
+             "It is one of the canon&rsquo;s standard words for the teaching itself &mdash; deep, hard to see, subtle",
+             "It rhymes",
+             "It is unambiguous"],
+         "correct": 1,
+         "expl": "So a person who understands is deep in the same sense the teaching is."},
+        {"q": "What does that let the lake simile carry that the pot could not?",
+         "opts": [
+             "A larger scale",
+             "A claim about what is concealed &mdash; a full pot is full of something unspecified, and a deep lake is deep the way the teaching is",
+             "A moral judgment",
+             "A ranking"],
+         "correct": 1,
+         "expl": "The improvement is not just in the mechanism of concealment."},
+        {"q": "What progression does the guide find across the three similes?",
+         "opts": [
+             "Increasing severity",
+             "Concealment, misreading, and timing &mdash; static and hidden, static and misreported, then a process on two different schedules",
+             "Increasing length",
+             "From monastic to lay"],
+         "correct": 1,
+         "expl": "The best use of what would otherwise be three statements of one claim."},
+    ],
+    marginalia=[
+        ("Four lakes", [
+            "shallow, seems deep",
+            "deep, seems shallow",
+            "shallow, seems shallow",
+            "deep, seems deep",
+        ]),
+        ("Pot and lake", [
+            "pot &middot; you know you don&rsquo;t know",
+            "lake &middot; you have an impression",
+            "&mdash; and no reason to distrust it",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">gambhīra</span>deep",
+            "also said of the Dhamma",
+            "&mdash; hard to see, subtle",
+        ]),
+        ("Cross-references", [
+            "AN 4.103 &middot; the pot version",
+            "AN 4.105 &middot; next: mangoes",
+            "AN 4.65 &middot; measures that do not measure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.104/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.103.html">AN 4.103 &middot; Pots</a> &mdash; the same pair with a lid instead '
+        "of a surface.",
+        '<a href="an-4.105.html">AN 4.105 &middot; Mangoes</a> &mdash; next in this series, and the '
+        "third of the three.",
+        '<a href="an-4.65.html">AN 4.65 &middot; Appearance</a> &mdash; on forming confidence from '
+        "what can be seen.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.105 — Ambasutta
+# --------------------------------------------------------------------------- #
+page(
+    105, "Amba", "Mangoes",
+    vagga=VAGGA_11,
+    meta_title="AN 4.105 — Mangoes | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ambasutta — unripe but "
+        "seeming ripe, ripe but seeming unripe: four mangoes and four people. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_11),
+        ("Speakers", SPEAKER),
+        ("Form", "The same pair of variables with a third simile"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The mango simile appears across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the third of three, and the one "
+                       "that adds time"),
+    ],
+    why=(
+        "The third and last of the deportment similes, and the one that adds what the other two "
+        "could not. A pot conceals and a lake misreports, but a mango <em>ripens</em>. Appearance "
+        "and reality are not merely mismatched here; they are two processes running on different "
+        "schedules, and either can be ahead of the other."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Looking ready and being ready are two processes, and neither waits for the other."]),
+        ("What a mango adds", [
+            "Skin color is the obvious index of ripeness and it is famously unreliable. A mango can "
+            "colour while the flesh is still hard, and can stay green while the flesh has gone soft "
+            "and sweet.",
+            "That is a different situation from the pot and the lake. Both of those had a fixed "
+            "inside and an outside that concealed or misreported it. Here the inside is changing, "
+            "the outside is changing, and the two changes are not synchronized.",
+            "The consequence is that the mismatch is temporary in a way the others are not. An unripe "
+            "mango that looks ripe will become ripe; a ripe one that looks unripe was unripe not long "
+            "ago. Time resolves both mixed cells, which is not true of a covered pot."]),
+        ("Reading the mixed cells with time in view", [
+            "<em>Unripe but seems ripe</em>: a person of impressive carriage who does not understand "
+            "the four truths. On the mango reading, that person is not a fraud &mdash; they are "
+            "early. The carriage has arrived and the understanding has not yet.",
+            "<em>Ripe but seems unripe</em>: understanding without the carriage. On the same reading, "
+            "the outside will catch up.",
+            "That is a gentler picture than either of the previous two similes gives, and it is worth "
+            "saying that the discourse does not state it. Nothing in the text says the mismatch "
+            "resolves. What the text supplies is the simile, and the simile carries the implication "
+            "whether or not the compilers intended it.",
+            "A careful reader should hold that lightly. The claim the discourse makes is the same as "
+            "AN 4.103&rsquo;s and AN 4.104&rsquo;s: appearance is not an index. The extra suggestion "
+            "belongs to the image."]),
+        ("The practice of ripening mangoes", [
+            "One piece of period knowledge sharpens the simile considerably. Mangoes were and are "
+            "picked unripe and ripened off the tree, often packed in straw, and the process is "
+            "unreliable &mdash; some fruit colours without softening, some softens without colouring.",
+            "So the audience for this simile was not thinking of fruit on a branch. They were "
+            "thinking of a basket of mangoes in which each one has to be judged individually, by "
+            "people who did that judging regularly and got it wrong regularly.",
+            "That is a good picture of assessing a community of practitioners, which is what the "
+            "chapter is about."]),
+        ("Closing the group of three", [
+            "Pots, lakes, mangoes. Three similes, one pair of variables, three accounts of why the "
+            "outside does not report the inside: it is covered, it is misread, it is on a different "
+            "schedule.",
+            "The Aṅguttara rarely gives three similes for one claim, and when it does the similes are "
+            "usually doing different work rather than reinforcing. That is the case here, and a "
+            "reader who takes only one of the three gets one third of what the group offers.",
+            "AN 4.106, the next number in the chapter, has no text at all &mdash; it is a ghost "
+            "sutta, and its page explains what that means. After it the chapter changes its pair of "
+            "variables and does not return to deportment."]),
+        ("Against the rest of the collection", [
+            "The three discourses together are a sustained argument against a particular way of "
+            "evaluating people, and it is worth setting them beside the places where the collection "
+            "evaluates people confidently.",
+            "AN 4.73 gave four tests for a true person, all of them about speech and all of them "
+            "checkable. AN 4.3 required examination before praise or criticism. AN 4.65 endorsed "
+            "judging by principle. None of those depends on how someone carries themselves.",
+            "So the collection is consistent. It asks for assessment and it is specific about what to "
+            "assess &mdash; conduct, speech, consistency over time &mdash; and this chapter is the "
+            "negative half of the same instruction, given three times because the mistake it names is "
+            "so easy to make."]),
+    ],
+    terms=[
+        ("amba",
+         "&ldquo;mango&rdquo; &mdash; picked unripe and ripened off the tree, so that each fruit has "
+         "to be judged individually."),
+        ("āma / pakka",
+         "&ldquo;unripe&rdquo; and &ldquo;ripe&rdquo; &mdash; the two states, of which skin colour is "
+         "a famously unreliable index."),
+        ("āmapakkavaṇṇī",
+         "&ldquo;unripe but of ripe colour&rdquo; &mdash; the compound for the first mixed cell; the "
+         "mismatch is between colour and flesh."),
+        ("pāsādika",
+         "&ldquo;impressive&rdquo; &mdash; the deportment variable, the same in all three of these "
+         "discourses."),
+        ("yathābhūtaṁ pajānāti",
+         "&ldquo;truly understands&rdquo; &mdash; the second variable, applied to the four noble "
+         "truths."),
+    ],
+    text_intro=(
+        "The discourse in full: the four mangoes, the four individuals, and each cell defined. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four mangoes, four individuals"),
+        ("p", "&sect;1", "an4.105:1.1-1.13"),
+        ("h3", "Unripe but seems ripe"),
+        ("p", "&sect;2", "an4.105:2.1-2.5"),
+        ("h3", "Ripe but seems unripe"),
+        ("p", "&sect;3", "an4.105:3.1-3.3"),
+        ("h3", "Unripe and seems unripe"),
+        ("p", "&sect;4", "an4.105:4.1-4.3"),
+        ("h3", "Ripe and seems ripe"),
+        ("p", "&sect;5", "an4.105:5.1-5.7"),
+    ],
+    quiz=[
+        {"q": "What does the mango add that the pot and lake could not?",
+         "opts": [
+             "Vividness",
+             "Time &mdash; the inside is changing, the outside is changing, and the two are not synchronized",
+             "A moral judgment",
+             "A ranking"],
+         "correct": 1,
+         "expl": "Appearance and reality as two processes on different schedules."},
+        {"q": "Why is skin colour an unreliable index?",
+         "opts": [
+             "It varies by variety",
+             "A mango can colour while the flesh is hard, and stay green while the flesh has gone soft",
+             "It fades",
+             "It depends on light"],
+         "correct": 1,
+         "expl": "Famously unreliable."},
+        {"q": "What consequence does the guide draw about the mismatch?",
+         "opts": [
+             "It is permanent",
+             "It is temporary in a way the others are not &mdash; time resolves both mixed cells",
+             "It is irrelevant",
+             "It is the fault of the observer"],
+         "correct": 1,
+         "expl": "Not true of a covered pot."},
+        {"q": "How does the first mixed cell read on that account?",
+         "opts": [
+             "As a fraud",
+             "As early &mdash; the carriage has arrived and the understanding has not yet",
+             "As hopeless",
+             "As a beginner"],
+         "correct": 1,
+         "expl": "A gentler picture than either of the previous similes gives."},
+        {"q": "How does the guide qualify that reading?",
+         "opts": [
+             "It endorses it fully",
+             "It notes that nothing in the text says the mismatch resolves &mdash; the extra suggestion belongs to the image, and should be held lightly",
+             "It rejects it",
+             "It attributes it to the commentary"],
+         "correct": 1,
+         "expl": "The claim the discourse makes is the same as the other two: appearance is not an index."},
+        {"q": "What piece of period knowledge sharpens the simile?",
+         "opts": [
+             "That mangoes were sacred",
+             "That mangoes were picked unripe and ripened off the tree, so each fruit in a basket had to be judged individually",
+             "That mangoes were rare",
+             "That mangoes grew wild"],
+         "correct": 1,
+         "expl": "By people who did that judging regularly and got it wrong regularly."},
+        {"q": "Why does the guide call that a good picture of the chapter&rsquo;s subject?",
+         "opts": [
+             "Because monasteries had orchards",
+             "Because it is a picture of assessing a community of practitioners",
+             "Because fruit is impermanent",
+             "Because baskets are like assemblies"],
+         "correct": 1,
+         "expl": "Which is what the chapter is about."},
+        {"q": "What three accounts do the similes give of why the outside does not report the inside?",
+         "opts": [
+             "Deceit, error, and ignorance",
+             "It is covered, it is misread, and it is on a different schedule",
+             "Distance, darkness, and haste",
+             "Skill, luck, and circumstance"],
+         "correct": 1,
+         "expl": "Three similes doing different work rather than reinforcing."},
+        {"q": "What follows for a reader who takes only one of the three?",
+         "opts": [
+             "Nothing; they are equivalent",
+             "They get one third of what the group offers",
+             "They get the strongest version",
+             "They miss the ranking"],
+         "correct": 1,
+         "expl": "The Aṅguttara rarely gives three similes for one claim."},
+        {"q": "How do these three sit with the collection&rsquo;s confident evaluations of people?",
+         "opts": [
+             "They contradict them",
+             "Consistently &mdash; the collection asks for assessment and is specific about what to assess, and this chapter is the negative half of the same instruction",
+             "They replace them",
+             "They apply only to monastics"],
+         "correct": 1,
+         "expl": "Given three times because the mistake it names is so easy to make."},
+    ],
+    marginalia=[
+        ("Four mangoes", [
+            "unripe, seems ripe",
+            "ripe, seems unripe",
+            "unripe, seems unripe",
+            "ripe, seems ripe",
+        ]),
+        ("What time adds", [
+            "the inside changes",
+            "the outside changes",
+            "&mdash; on different schedules",
+        ]),
+        ("The basket", [
+            "picked unripe",
+            "ripened in straw",
+            "&mdash; each one judged alone",
+        ]),
+        ("Cross-references", [
+            "AN 4.103 &middot; the lid",
+            "AN 4.104 &middot; the surface",
+            "AN 4.73 &middot; tests that are checkable",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.105/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.103.html">AN 4.103 &middot; Pots</a> &mdash; the first of the three.',
+        '<a href="an-4.104.html">AN 4.104 &middot; Lakes</a> &mdash; the second.',
+        '<a href="an-4.106.html">AN 4.106 &middot; Mangoes (2nd)</a> &mdash; next in this series, and '
+        "a discourse with no text at all.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.106 — Dutiyaambasutta
+# --------------------------------------------------------------------------- #
+page(
+    106, "Dutiyaamba", "Mangoes (2nd)",
+    vagga=VAGGA_11,
+    meta_title="AN 4.106 — Mangoes (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for the Dutiyaambasutta — a ghost sutta, a discourse "
+        "that has a number and a title in the collection but no text in any surviving edition. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None; the discourse has no text"),
+        ("Speakers", "None recorded"),
+        ("Form", "A number and a title, with nothing between them"),
+        ("Length", "There is no text to read"),
+        ("Northern parallel", "None can be identified, since there is no text to compare"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; nothing to understand, and "
+                       "something worth knowing"),
+    ],
+    why=(
+        "AN 4.106 has a number, a title, and a place in the chapter, and no text. Sujato&rsquo;s "
+        "translation records the fact in a single line: <em>this is a ghost sutta: there is no text "
+        "for it in any available editions</em>. A complete presentation of the Aṅguttara has to "
+        "account for it, and what it is worth accounting for is what such a gap tells us about how "
+        "the collection was transmitted."),
+    guide=[
+        ("The situation in one sentence", [
+            "The collection has a slot here and nothing to put in it."]),
+        ("What a ghost sutta is", [
+            "A discourse that exists in the numbering and the index apparatus of a collection but has "
+            "no surviving text. The number is counted, the title is listed, and the content is gone "
+            "or was never there.",
+            "These occur in the Pāli canon in small numbers and they arise in more than one way. A "
+            "discourse may have been lost between the fixing of the count and the manuscripts we "
+            "have. A title may have entered the summary verses by error and then required a slot. Or "
+            "a discourse may have been abbreviated so heavily by a copyist that nothing survived the "
+            "abbreviation.",
+            "In this case the third is the most likely. The title is <em>Dutiyaamba</em>, Mangoes "
+            "(2nd), and AN 4.105 is Mangoes. A second mango discourse would have been the same simile "
+            "with a different pair of variables &mdash; exactly what AN 4.102 is to AN 4.101.",
+            "That is a reconstruction and it should be labelled as one. What can be said with "
+            "confidence is only that the slot exists and the text does not."]),
+        ("Why the number is kept", [
+            "It would be tidier to renumber, and nobody has. The reason is that the numbering is not "
+            "an editorial convenience but a feature of the transmission.",
+            "The Aṅguttara is organized in chapters of ten, and its summary verses &mdash; the "
+            "<em>uddāna</em> that close each chapter &mdash; list the titles in order as a memory "
+            "check. A reciter who reached the end of a chapter and counted nine had made a mistake.",
+            "So the count is load-bearing. Removing AN 4.106 would shorten the Clouds chapter to nine "
+            "and put every subsequent number out by one, which would break the correspondence with "
+            "every citation, commentary, and parallel that has ever been made.",
+            "The empty slot is the smaller cost, and the tradition has consistently paid it."]),
+        ("What this shows about the collection", [
+            "Two things, and both are useful for reading the rest of the Aṅguttara.",
+            "First, the structure is older and more stable than the contents. The chapter of ten is a "
+            "fixed frame, and this chapter has demonstrated as much throughout &mdash; nine similes "
+            "poured into one grid, and here a tenth slot with nothing in it at all.",
+            "Second, the transmitters were conservative in a specific way. Faced with a gap they "
+            "preserved the gap rather than filling it. Nobody composed a second mango discourse to "
+            "occupy the space, though it would have been easy and the pattern of the chapter would "
+            "have told them exactly what to write.",
+            "That restraint is worth knowing about when reading a collection that is often accused of "
+            "expansion. The people who transmitted it evidently distinguished between arranging what "
+            "they had and manufacturing what they did not."]),
+        ("How this page is written", [
+            "There is no text to guide, no terms to gloss from the discourse, and no content to "
+            "quiz. Everything on this page is about the situation rather than about a teaching, and "
+            "that is stated here so that a reader does not go looking for what is not present.",
+            "The alternative &mdash; omitting AN 4.106 from this series &mdash; was considered and "
+            "rejected. A reader working through the Fours in order would find the numbering jump and "
+            "have no way to know why, and the project&rsquo;s aim is to present the collection as it "
+            "is.",
+            "The key terms below are therefore terms about transmission, and the quiz is about what a "
+            "ghost sutta is and what its preservation indicates."]),
+        ("Where the chapter goes next", [
+            "AN 4.107, the mice, returns to the pair of variables AN 4.102 used: memorizing the "
+            "ninefold teaching against understanding the four truths.",
+            "So the deportment group ends at AN 4.105 and the empty slot sits between the two "
+            "content-pairs, which is at least a tidy place for a gap.",
+            "The chapter then finishes with oxen, trees, and vipers &mdash; a person against their "
+            "followers twice, and anger measured two ways."]),
+    ],
+    terms=[
+        ("ghost sutta",
+         "a discourse that exists in a collection&rsquo;s numbering and index but has no surviving "
+         "text; the number is counted and the content is absent."),
+        ("uddāna",
+         "the summary verses closing each chapter, listing titles in order as a memory check; a "
+         "reciter who counted nine had made a mistake."),
+        ("peyyāla",
+         "the abbreviation convention &mdash; one route by which a discourse can be compressed until "
+         "nothing survives."),
+        ("vagga",
+         "&ldquo;chapter&rdquo; &mdash; fixed at ten discourses in the Aṅguttara, which is why the "
+         "empty slot is preserved rather than removed."),
+        ("Dutiyaamba",
+         "&ldquo;Mangoes (2nd)&rdquo; &mdash; the title, which suggests a second version of "
+         "AN 4.105&rsquo;s simile with different variables."),
+    ],
+    text_intro=(
+        "There is no discourse to present. What follows is the line Sujato&rsquo;s translation puts "
+        "in its place, recording the absence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The note in place of a text"),
+        ("p", "", "an4.106:1.1"),
+    ],
+    quiz=[
+        {"q": "What is AN 4.106?",
+         "opts": [
+             "A very short discourse",
+             "A ghost sutta &mdash; a number and a title with no surviving text",
+             "A summary of AN 4.105",
+             "A verse"],
+         "correct": 1,
+         "expl": "The number is counted, the title is listed, and the content is absent."},
+        {"q": "What three ways can a ghost sutta arise?",
+         "opts": [
+             "Censorship, damage, and forgery",
+             "Loss after the count was fixed; a title entering the summary verses by error; or abbreviation so heavy that nothing survived",
+             "Translation, transmission, and copying",
+             "They arise only one way"],
+         "correct": 1,
+         "expl": "Small numbers of these occur in the Pāli canon."},
+        {"q": "Which does the guide think most likely here, and how does it label that?",
+         "opts": [
+             "Loss; as certain",
+             "Heavy abbreviation, since the title suggests a second version of AN 4.105 with different variables &mdash; and it labels the account a reconstruction",
+             "Scribal error; as proven",
+             "It declines to speculate"],
+         "correct": 1,
+         "expl": "What can be said with confidence is only that the slot exists and the text does not."},
+        {"q": "Why is the number kept rather than renumbered?",
+         "opts": [
+             "Tradition alone",
+             "The numbering is load-bearing &mdash; the Aṅguttara is organized in chapters of ten, and the summary verses list titles as a memory check",
+             "Nobody noticed",
+             "The commentary forbids it"],
+         "correct": 1,
+         "expl": "A reciter who reached the end of a chapter and counted nine had made a mistake."},
+        {"q": "What would renumbering break?",
+         "opts": [
+             "Nothing",
+             "The correspondence with every citation, commentary, and parallel ever made",
+             "Only the chapter",
+             "Only the summary verses"],
+         "correct": 1,
+         "expl": "The empty slot is the smaller cost."},
+        {"q": "What does the gap show about the collection&rsquo;s structure?",
+         "opts": [
+             "That it is unreliable",
+             "That the structure is older and more stable than the contents",
+             "That chapters vary in length",
+             "That it was written late"],
+         "correct": 1,
+         "expl": "A fixed frame of ten, with a tenth slot containing nothing at all."},
+        {"q": "What does it show about the transmitters?",
+         "opts": [
+             "That they were careless",
+             "That they preserved the gap rather than filling it &mdash; nobody composed a second mango discourse, though the pattern would have told them exactly what to write",
+             "That they lost interest",
+             "That they were few"],
+         "correct": 1,
+         "expl": "A specific kind of conservatism."},
+        {"q": "Why is that worth knowing?",
+         "opts": [
+             "It dates the collection",
+             "Because the collection is often accused of expansion, and its transmitters evidently distinguished between arranging what they had and manufacturing what they did not",
+             "It settles authorship",
+             "It explains the similes"],
+         "correct": 1,
+         "expl": "Restraint at a point where composition would have been easy."},
+        {"q": "Why was omitting the discourse from this series rejected?",
+         "opts": [
+             "It would have been more work",
+             "A reader working through in order would find the numbering jump with no way to know why, and the aim is to present the collection as it is",
+             "The index requires it",
+             "The commentary requires it"],
+         "correct": 1,
+         "expl": "Stated on the page so readers do not look for what is not present."},
+        {"q": "What does AN 4.107 return to?",
+         "opts": [
+             "Deportment",
+             "AN 4.102&rsquo;s pair &mdash; memorizing the ninefold teaching against understanding the four truths",
+             "Talking and doing",
+             "A person and their followers"],
+         "correct": 1,
+         "expl": "The empty slot sits between the two content-pairs."},
+    ],
+    marginalia=[
+        ("What is here", [
+            "a number",
+            "a title",
+            "&mdash; and nothing else",
+        ]),
+        ("Why it stays", [
+            "chapters of ten",
+            "the summary verses count",
+            "&mdash; renumbering breaks everything",
+        ]),
+        ("What it shows", [
+            "the frame outlasts the contents",
+            "the gap was kept",
+            "&mdash; not filled",
+        ]),
+        ("Cross-references", [
+            "AN 4.105 &middot; the mango discourse that survives",
+            "AN 4.107 &middot; next: the mice",
+            "AN 4.101 &middot; where the chapter&rsquo;s grid begins",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.106/en/sujato" target="_blank" rel="noopener">The entry on SuttaCentral</a> '
+        "&mdash; which records the absence in the same terms." % SC,
+        '<a href="an-4.105.html">AN 4.105 &middot; Mangoes</a> &mdash; the surviving mango discourse, '
+        "and the likely model for what is missing.",
+        '<a href="an-4.107.html">AN 4.107 &middot; Mice</a> &mdash; next in this series.',
+        '<a href="an-4.101.html">AN 4.101 &middot; Clouds (1st)</a> &mdash; where this chapter&rsquo;s '
+        "single grid is set out.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.107 — Mūsikasutta
+# --------------------------------------------------------------------------- #
+page(
+    107, "Mūsika", "Mice",
+    vagga=VAGGA_11,
+    meta_title="AN 4.107 — Mice | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mūsikasutta — one makes a "
+        "hole but does not live in it, one lives in a hole but does not make it: four mice and four "
+        "people. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_11),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.102&rsquo;s pair of variables with a new simile"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The mouse simile appears across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the chapter&rsquo;s best simile "
+                       "for the learning pair"),
+    ],
+    why=(
+        "Memorizing the teaching is digging a hole; understanding the four truths is living in it. "
+        "The pair is AN 4.102&rsquo;s, and the mouse improves on the cloud in one specific respect: "
+        "a hole is <em>for</em> living in. Thunder does not exist for the sake of rain, but nobody "
+        "digs a burrow for its own sake."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Learning the texts is making a shelter; understanding the truths is being sheltered, and "
+            "the first is only for the sake of the second."]),
+        ("Why the hole is the better image", [
+            "AN 4.101 and 4.102 used thunder and rain. That pair captures announcement and arrival, "
+            "but thunder is not <em>done in order to</em> rain; the two are effects of one weather "
+            "system.",
+            "A burrow is different. It is made by the animal, at cost, for a purpose, and the purpose "
+            "is to live in it. A mouse that digs and does not occupy has wasted its own labour, and "
+            "the waste is specifically of the thing that was supposed to pay off.",
+            "So the mouse simile carries a claim the cloud simile does not: that memorizing the "
+            "teaching is instrumental. It is work undertaken for the sake of something else, and a "
+            "person who does the work and does not get the something else has not merely fallen "
+            "short. They have missed the point of what they did."]),
+        ("The second cell, and its oddity", [
+            "<em>Lives in a hole but does not make it.</em> Someone who does not memorize the "
+            "teaching but truly understands the four truths.",
+            "The mouse version of this is a squatter &mdash; an animal occupying a burrow dug by "
+            "something else. That is a real thing mice do, and the simile does not treat it as "
+            "illegitimate.",
+            "The implication is worth drawing out. If understanding is a hole somebody dug, then the "
+            "person who understands without having learned is living in a shelter made by others "
+            "&mdash; by the tradition, by their teachers, by the people who did memorize.",
+            "That is a more accurate picture of how understanding actually reaches most people than "
+            "the cloud simile could give, and it quietly answers a question the learning discourses "
+            "raise: if learning is not necessary, what was it for? On this image it was for the "
+            "hole, and the hole is still there for whoever needs it."]),
+        ("The nine forms again", [
+            "The content of the memorizing is the <em>navaṅga</em> &mdash; statements, mixed prose "
+            "and verse, discussions, verses, inspired exclamations, legends, stories of past lives, "
+            "amazing stories, elaborations.",
+            "This is its third appearance in the Fours, after AN 4.6 and AN 4.102, and in all three "
+            "it fills the same role: the maximum of what learning can amount to, set against "
+            "something else.",
+            "The consistency is worth noting. The collection never uses the ninefold list to describe "
+            "the goal or the path. It uses it to describe what a person has learned, always as one "
+            "half of a pair whose other half is understanding or practice."]),
+        ("Where the chapter turns", [
+            "AN 4.107 is the last discourse of the chapter to use either of the two pairs that have "
+            "run through it so far. From AN 4.108 the variables change: oxen and trees will pair a "
+            "person with their followers, and vipers will measure anger two ways.",
+            "So the chapter divides three ways. Clouds and mice: learning against understanding. "
+            "Pots, lakes, and mangoes: deportment against understanding. Oxen, trees, and vipers: "
+            "something else entirely.",
+            "That is five discourses on how the visible fails to report the invisible, and three on "
+            "other subjects, with one empty slot between the groups. Whatever the compilers were "
+            "arranging by, it was not a single theme."]),
+        ("Using it", [
+            "The mouse gives a usable question that the cloud does not: what was the digging for?",
+            "Anyone who has undertaken a large amount of study in this tradition can ask it, and the "
+            "answer is not supposed to be that the study was the point. AN 4.6 said as much about "
+            "learning generally; this says it with an image in which the wasted effort is visible.",
+            "The corresponding encouragement is in the fourth cell, and it is the ordinary one: dig "
+            "and live in it. Nothing in the discourse suggests that making one&rsquo;s own hole is "
+            "worse than occupying another&rsquo;s. It is listed last, which in this collection marks "
+            "the best."]),
+    ],
+    terms=[
+        ("mūsika",
+         "&ldquo;mouse&rdquo; &mdash; the simile&rsquo;s animal; a burrow is made at cost, for a "
+         "purpose, and the purpose is to live in it."),
+        ("navaṅga",
+         "the ninefold division of the teaching &mdash; its third appearance in the Fours, always as "
+         "the maximum of what learning can amount to."),
+        ("khaṇati",
+         "&ldquo;digs&rdquo; &mdash; the verb for making the hole, standing for memorizing the "
+         "teaching."),
+        ("vasati",
+         "&ldquo;lives in, dwells&rdquo; &mdash; the verb for occupying it, standing for truly "
+         "understanding the four truths."),
+        ("yathābhūtaṁ pajānāti",
+         "&ldquo;truly understands&rdquo; &mdash; the second variable throughout this chapter, "
+         "applied to the four noble truths."),
+    ],
+    text_intro=(
+        "The discourse in full: the four mice, the four individuals, and each cell defined. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four mice, four individuals"),
+        ("p", "&sect;1", "an4.107:1.1-1.13"),
+        ("h3", "Makes a hole but does not live in it"),
+        ("p", "&sect;2", "an4.107:2.1-2.6"),
+        ("h3", "Lives in a hole but does not make it"),
+        ("p", "&sect;3", "an4.107:3.1-3.4"),
+        ("h3", "Neither"),
+        ("p", "&sect;4", "an4.107:4.1-4.4"),
+        ("h3", "Both"),
+        ("p", "&sect;5", "an4.107:5.1-5.8"),
+    ],
+    quiz=[
+        {"q": "What do digging and living in the hole stand for?",
+         "opts": [
+             "Practising and teaching",
+             "Memorizing the teaching, and truly understanding the four truths",
+             "Ethics and immersion",
+             "Deportment and understanding"],
+         "correct": 1,
+         "expl": "AN 4.102&rsquo;s pair with a new simile."},
+        {"q": "In what respect does the mouse improve on the cloud?",
+         "opts": [
+             "It is more familiar",
+             "A hole is <em>for</em> living in &mdash; thunder is not done in order to rain, but nobody digs a burrow for its own sake",
+             "It is smaller",
+             "It involves an animal"],
+         "correct": 1,
+         "expl": "Thunder and rain are two effects of one weather system."},
+        {"q": "What claim does that let the mouse simile carry?",
+         "opts": [
+             "That learning is harmful",
+             "That memorizing the teaching is instrumental &mdash; work undertaken for the sake of something else",
+             "That understanding is easy",
+             "That mice are diligent"],
+         "correct": 1,
+         "expl": "A person who does the work and does not get the something else has missed the point of what they did."},
+        {"q": "What is the mouse version of the second cell?",
+         "opts": [
+             "A mouse without a burrow",
+             "A squatter &mdash; an animal occupying a burrow dug by something else",
+             "A mouse that digs twice",
+             "A mouse in a nest"],
+         "correct": 1,
+         "expl": "A real thing mice do, and the simile does not treat it as illegitimate."},
+        {"q": "What implication does the guide draw from that?",
+         "opts": [
+             "That such a person is a parasite",
+             "That someone who understands without having learned is living in a shelter made by others &mdash; by the tradition, by teachers, by those who did memorize",
+             "That learning is unnecessary",
+             "That burrows are shared"],
+         "correct": 1,
+         "expl": "A more accurate picture of how understanding reaches most people."},
+        {"q": "What question does that answer?",
+         "opts": [
+             "Why mice dig",
+             "If learning is not necessary, what was it for &mdash; it was for the hole, and the hole is still there",
+             "Who should teach",
+             "How long learning takes"],
+         "correct": 1,
+         "expl": "A question the learning discourses raise."},
+        {"q": "How many times has the <em>navaṅga</em> appeared in the Fours?",
+         "opts": [
+             "Once",
+             "Three times &mdash; AN 4.6, AN 4.102, and here",
+             "Twice",
+             "Five times"],
+         "correct": 1,
+         "expl": "Always in the same role."},
+        {"q": "What is that role?",
+         "opts": [
+             "A description of the path",
+             "The maximum of what learning can amount to, set against something else &mdash; never used to describe the goal",
+             "A list of the canon&rsquo;s books",
+             "A meditation subject"],
+         "correct": 1,
+         "expl": "Always as one half of a pair."},
+        {"q": "How does the chapter divide?",
+         "opts": [
+             "Into two halves",
+             "Clouds and mice on learning; pots, lakes, and mangoes on deportment; oxen, trees, and vipers on something else &mdash; with one empty slot between the groups",
+             "By length",
+             "By setting"],
+         "correct": 1,
+         "expl": "Whatever the compilers were arranging by, it was not a single theme."},
+        {"q": "What usable question does the mouse give that the cloud does not?",
+         "opts": [
+             "Who taught you?",
+             "What was the digging for?",
+             "How long have you practised?",
+             "Where do you live?"],
+         "correct": 1,
+         "expl": "The answer is not supposed to be that the study was the point."},
+    ],
+    marginalia=[
+        ("Four mice", [
+            "digs, doesn&rsquo;t live in it",
+            "lives in it, didn&rsquo;t dig",
+            "neither",
+            "both",
+        ]),
+        ("The improvement", [
+            "thunder &rarr; not for rain",
+            "a hole &rarr; for living in",
+            "&mdash; so the waste is visible",
+        ]),
+        ("The squatter", [
+            "understands without learning",
+            "in a hole others dug",
+            "&mdash; and the hole is still there",
+        ]),
+        ("Cross-references", [
+            "AN 4.102 &middot; the same pair, with clouds",
+            "AN 4.6 &middot; learning and its point",
+            "AN 4.108 &middot; next: the oxen",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.107/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.102.html">AN 4.102 &middot; Clouds (2nd)</a> &mdash; the same pair of '
+        "variables with the cloud simile.",
+        '<a href="an-4.6.html">AN 4.6 &middot; A Little Learning</a> &mdash; the fullest treatment of '
+        "learning and what it is for.",
+        '<a href="an-4.108.html">AN 4.108 &middot; Oxen</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.108 — Balībaddasutta
+# --------------------------------------------------------------------------- #
+page(
+    108, "Balībadda", "Oxen",
+    vagga=VAGGA_11,
+    meta_title="AN 4.108 — Oxen | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Balībaddasutta — four oxen "
+        "and four people, sorted by whom they intimidate: their own followers, other people's, both, "
+        "or neither. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_11),
+        ("Speakers", SPEAKER),
+        ("Form", "The chapter&rsquo;s grid with a third pair of variables"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The hostile-ox simile appears across the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and about a specific "
+                       "social behavior"),
+    ],
+    why=(
+        "Four oxen sorted by whom they gore: their own herd, other herds, both, or neither. And four "
+        "people sorted by whom they intimidate &mdash; their own followers or other people&rsquo;s. "
+        "The chapter has left appearance behind and turned to what a person does to the people around "
+        "them, and the variable is a single verb."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person can be frightening to their own people, to other people&rsquo;s, to both, or to "
+            "neither."]),
+        ("The verb", [
+            "<em>Ubbejetā</em>, one who alarms, terrifies, or intimidates. It is from a root meaning "
+            "to agitate or make tremble, and the same word is used of what a bull does to a herd.",
+            "That is the whole variable. The discourse gives no further definition, no motive, and no "
+            "content &mdash; not what the person says or does to produce the effect, only that they "
+            "produce it.",
+            "Defining a person by the effect they have rather than by their conduct is unusual in "
+            "this collection, which normally specifies acts. It has the advantage of being observable "
+            "by everyone except, often, the person concerned."]),
+        ("Own herd and others", [
+            "<em>Sagaṇa</em> and <em>paragaṇa</em> &mdash; one&rsquo;s own group and other groups. "
+            "The word <em>gaṇa</em> is the same one used of monastic factions and of any organized "
+            "body.",
+            "So the two variables are: are you frightening to the people who are yours, and are you "
+            "frightening to people who are not?",
+            "The four cells that result are recognizable. Someone hard on their own and mild with "
+            "outsiders. Someone charming at home and aggressive abroad. Someone hard on everyone. And "
+            "someone hard on nobody.",
+            "The ordering puts own-herd-only first, which in this chapter&rsquo;s pattern is the "
+            "position of the worst cell &mdash; as thunder-without-rain was, and covered-but-hollow. "
+            "The discourse does not say so, and the inference is from position alone."]),
+        ("What the simile assumes", [
+            "A working ox in this economy lived among the same animals continuously and was handled "
+            "by the same people. An ox hostile to its own herd is a permanent problem; one hostile to "
+            "strangers is only occasionally a problem.",
+            "That practical asymmetry is presumably why own-herd-only leads the list. The harm is "
+            "continuous and falls on those with least ability to avoid it.",
+            "Applied to a person, the parallel holds. Someone frightening to their own household, "
+            "community, or students is frightening to people who cannot easily leave, and the same "
+            "behavior directed outward would cost the target much less."]),
+        ("Against AN 4.91 and AN 4.109", [
+            "This chapter contains two other discourses about a person and the people around them, "
+            "and the three do different work.",
+            "AN 4.91, the titans, paired a person&rsquo;s ethics with their followers&rsquo; ethics: "
+            "both are assessed and the two are independent. AN 4.109, the trees, will do the same "
+            "with softwood and hardwood.",
+            "This one is not about the followers at all. They are not assessed; they are the object "
+            "of a verb. The variable is entirely on the one side, and what is being sorted is a "
+            "person&rsquo;s behavior toward two different audiences.",
+            "That makes AN 4.108 the odd one of the three, and the only one of the chapter&rsquo;s "
+            "grids where both variables belong to the same person."]),
+        ("The fourth cell", [
+            "<em>Doesn&rsquo;t intimidate their own followers or the followers of others.</em> Stated "
+            "purely negatively, with nothing added.",
+            "The discourse names no positive quality &mdash; not kindness, not gentleness, not "
+            "patience. What is commended is an absence.",
+            "That is characteristic of the chapter and of this part of the collection generally, and "
+            "AN 4.72 made the same observation about the three right thoughts: two of the three are "
+            "grammatically negative, and what constitutes the good state is the not-doing of "
+            "something specific.",
+            "For a reader the practical consequence is that the fourth cell is not an achievement to "
+            "be worked toward but a behavior to be stopped. Nobody has to become anything to occupy "
+            "it."]),
+    ],
+    terms=[
+        ("balībadda",
+         "&ldquo;ox, bull&rdquo; &mdash; a working animal living continuously among the same herd and "
+         "handlers."),
+        ("ubbejetā",
+         "&ldquo;one who intimidates&rdquo; &mdash; from a root meaning to agitate or make tremble; "
+         "the discourse&rsquo;s single variable."),
+        ("sagaṇa / paragaṇa",
+         "&ldquo;one&rsquo;s own group&rdquo; and &ldquo;other groups&rdquo; &mdash; <em>gaṇa</em> is "
+         "used of monastic factions and any organized body."),
+        ("caṇḍa",
+         "&ldquo;hostile, fierce&rdquo; &mdash; the adjective applied to the oxen, and the "
+         "simile&rsquo;s term for the behavior."),
+        ("parisā",
+         "&ldquo;followers, assembly&rdquo; &mdash; the object of the verb; the followers here are "
+         "not assessed, only affected."),
+    ],
+    text_intro=(
+        "The discourse in full: the four oxen, the four individuals, and each cell defined. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four oxen, four individuals"),
+        ("p", "&sect;1", "an4.108:1.1-1.13"),
+        ("h3", "Hostile to their own"),
+        ("p", "&sect;2", "an4.108:2.1-2.4"),
+        ("h3", "Hostile to others"),
+        ("p", "&sect;3", "an4.108:3.1-3.2"),
+        ("h3", "Hostile to both"),
+        ("p", "&sect;4", "an4.108:4.1-4.2"),
+        ("h3", "Hostile to neither"),
+        ("p", "&sect;5", "an4.108:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "What sorts the four individuals?",
+         "opts": [
+             "Their ethics and their followers&rsquo;",
+             "Whom they intimidate &mdash; their own followers, other people&rsquo;s, both, or neither",
+             "Their learning and understanding",
+             "Their deportment"],
+         "correct": 1,
+         "expl": "A single verb is the whole variable."},
+        {"q": "What does <em>ubbejetā</em> mean?",
+         "opts": [
+             "One who instructs",
+             "One who alarms, terrifies, or intimidates &mdash; from a root meaning to make tremble",
+             "One who leads",
+             "One who protects"],
+         "correct": 1,
+         "expl": "The same word is used of what a bull does to a herd."},
+        {"q": "What is unusual about defining a person that way?",
+         "opts": [
+             "Nothing",
+             "It defines them by the effect they have rather than by their conduct, which this collection normally specifies",
+             "It is too vague to use",
+             "It requires a witness"],
+         "correct": 1,
+         "expl": "With the advantage of being observable by everyone except, often, the person concerned."},
+        {"q": "What does <em>gaṇa</em> cover?",
+         "opts": [
+             "Only a family",
+             "Any organized body &mdash; the same word used of monastic factions",
+             "Only a herd",
+             "Only a monastery"],
+         "correct": 1,
+         "expl": "One&rsquo;s own group against other groups."},
+        {"q": "Which cell is listed first, and what does the guide infer?",
+         "opts": [
+             "Hostile to neither; that it is best",
+             "Hostile to one&rsquo;s own only; that it is the worst cell, by position alone, as thunder-without-rain and covered-but-hollow were",
+             "Hostile to both; that it is worst",
+             "Nothing can be inferred"],
+         "correct": 1,
+         "expl": "The discourse does not say so."},
+        {"q": "What practical asymmetry does the simile assume?",
+         "opts": [
+             "That oxen are valuable",
+             "That an ox hostile to its own herd is a permanent problem and one hostile to strangers only an occasional one",
+             "That herds are large",
+             "That bulls are stronger"],
+         "correct": 1,
+         "expl": "A working ox lived among the same animals continuously."},
+        {"q": "How does that transfer to a person?",
+         "opts": [
+             "It does not",
+             "Someone frightening to their own household, community, or students is frightening to people who cannot easily leave",
+             "It applies only to leaders",
+             "It applies only to monastics"],
+         "correct": 1,
+         "expl": "The harm is continuous and falls on those least able to avoid it."},
+        {"q": "How does this differ from AN 4.91 and AN 4.109?",
+         "opts": [
+             "It is longer",
+             "Those assess both the person and their followers; here the followers are not assessed but are the object of a verb",
+             "It uses no simile",
+             "It concerns strangers only"],
+         "correct": 1,
+         "expl": "The only grid in the chapter where both variables belong to the same person."},
+        {"q": "How is the fourth cell stated?",
+         "opts": [
+             "By naming kindness",
+             "Purely negatively &mdash; does not intimidate either group, with nothing added",
+             "By naming patience",
+             "By a simile"],
+         "correct": 1,
+         "expl": "What is commended is an absence."},
+        {"q": "What follows practically from that?",
+         "opts": [
+             "That the cell is unreachable",
+             "That it is not an achievement to be worked toward but a behavior to be stopped &mdash; nobody has to become anything to occupy it",
+             "That kindness is unnecessary",
+             "That the discourse is incomplete"],
+         "correct": 1,
+         "expl": "The same observation AN 4.72 made about the three right thoughts."},
+    ],
+    marginalia=[
+        ("Four oxen", [
+            "own herd only",
+            "other herds only",
+            "both",
+            "neither",
+        ]),
+        ("The variable", [
+            "<span class=\"pali\">ubbejetā</span>intimidates",
+            "not what is done",
+            "&mdash; the effect produced",
+        ]),
+        ("The fourth cell", [
+            "no kindness named",
+            "no patience named",
+            "&mdash; an absence",
+        ]),
+        ("Cross-references", [
+            "AN 4.91 &middot; person and followers both assessed",
+            "AN 4.109 &middot; next: the same, with trees",
+            "AN 4.72 &middot; goods stated as absences",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.108/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.91.html">AN 4.91 &middot; Titans</a> &mdash; where a person and their '
+        "followers are both assessed.",
+        '<a href="an-4.109.html">AN 4.109 &middot; Trees</a> &mdash; next in this series.',
+        '<a href="an-4.70.html">AN 4.70 &middot; Unprincipled</a> &mdash; on what a person in a '
+        "position does to those below them.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.109 — Rukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    109, "Rukkha", "Trees",
+    vagga=VAGGA_11,
+    meta_title="AN 4.109 — Trees | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Rukkhasutta — a softwood "
+        "surrounded by softwoods, a hardwood surrounded by softwoods: four trees and four people "
+        "with their followers. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_11),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.91&rsquo;s pair of variables with a new simile"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The softwood-and-hardwood simile appears across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the titan grid again, with a "
+                       "simile that adds one thing"),
+    ],
+    why=(
+        "The same pair as AN 4.91 &mdash; a person&rsquo;s ethics and their followers&rsquo; &mdash; "
+        "with trees in place of titans and gods. Softwood surrounded by softwoods, softwood among "
+        "hardwoods, hardwood among softwoods, hardwood among hardwoods. The simile adds one thing "
+        "the titan version could not: trees stand where they grew, and a stand of trees is a fact "
+        "about a place."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person&rsquo;s character and the character of the people around them are independent, "
+            "and there are four combinations."]),
+        ("Softwood and hardwood", [
+            "<em>Pheggu</em> is sapwood or softwood &mdash; the pale outer wood that is weak and "
+            "rots. <em>Sāra</em> is heartwood, the dense inner wood, and it is one of the "
+            "canon&rsquo;s most-used words: <em>sāra</em> also means essence, substance, the pith of "
+            "a thing.",
+            "That double meaning is why the simile works better than the timber alone would suggest. "
+            "A hardwood tree is one with substance in it, in exactly the sense the collection uses "
+            "when it asks whether a teaching or a person has any <em>sāra</em>.",
+            "AN 4.103&rsquo;s pot was hollow or full; this is the same contrast with a word that "
+            "carries the metaphor built in."]),
+        ("What trees add", [
+            "A titan is surrounded by whoever is around it. A tree stands in a stand, and the stand "
+            "grew where it grew.",
+            "That adds the element of place. A hardwood tree surrounded by softwoods is not there by "
+            "choice and cannot move, and the same is true of the softwood among hardwoods. The "
+            "arrangement is a fact about the forest rather than about the trees in it.",
+            "That is a gentler reading of the mixed cells than the titan version supports, and it is "
+            "worth being explicit that the discourse does not draw it. As with the mango in AN 4.105, "
+            "the extra implication belongs to the image, and a reader should take it as an "
+            "illumination rather than as a claim.",
+            "What the image does clearly supply is that a person&rsquo;s company is often not chosen. "
+            "AN 4.31 listed relying on true persons as one of the four wheels of a prosperous life; "
+            "this simile is a reminder that the wheel is not always available to be arranged."]),
+        ("The mixed cells", [
+            "<em>A softwood surrounded by hardwoods</em>: unethical, with ethical followers. "
+            "<em>A hardwood surrounded by softwoods</em>: ethical, with unethical followers.",
+            "AN 4.91&rsquo;s guide noted that the first is the more uncomfortable, since the quality "
+            "of a following is not evidence about the person at its centre.",
+            "The tree simile sharpens this. A stand of good timber around one rotten trunk does not "
+            "make the rotten one sound, and nobody looking at a forest would think it did. The "
+            "inference from surroundings to substance is one nobody makes about trees and everybody "
+            "makes about people."]),
+        ("Why two similes for one grid", [
+            "AN 4.91 and AN 4.109 give the same pair of variables with different images, and they "
+            "are eighteen discourses apart in the collection but in adjacent chapters.",
+            "The difference between them is the difference between a moral image and a natural one. "
+            "Titans and gods are evaluative from the start &mdash; the labels carry the judgment. "
+            "Softwood and hardwood are descriptive; a tree is not blamed for its wood.",
+            "Having both lets the same grid be used in two registers. The titan version is for saying "
+            "that someone is bad and their people are good. The tree version is for observing the "
+            "same arrangement without the accusation, which is often the more useful thing to be able "
+            "to do."]),
+        ("The chapter&rsquo;s last pair", [
+            "AN 4.110, the vipers, closes the Valāhakavagga with a pair of variables that appears "
+            "nowhere else in it: how often anger arises against how long it lasts.",
+            "That leaves the chapter with four content-pairs across nine similes and one empty slot. "
+            "Three of the pairs concern how a person is perceived or placed; the last concerns "
+            "something entirely internal.",
+            "It is the least unified chapter of the Fours so far, and its unity is entirely formal: "
+            "ten discourses, one grid, nine similes drawn from ordinary observation of weather, "
+            "vessels, water, fruit, and animals."]),
+    ],
+    terms=[
+        ("pheggu",
+         "&ldquo;softwood, sapwood&rdquo; &mdash; the pale outer wood, weak and liable to rot."),
+        ("sāra",
+         "&ldquo;hardwood, heartwood&rdquo; &mdash; and also essence, substance, the pith of a "
+         "thing; the metaphor is built into the word."),
+        ("parivāra",
+         "&ldquo;surrounded by, retinue&rdquo; &mdash; used both of the trees in a stand and of a "
+         "person&rsquo;s followers."),
+        ("dussīla / sīlavā",
+         "&ldquo;unethical&rdquo; and &ldquo;ethical&rdquo; &mdash; the same definitions used in "
+         "AN 4.91 and throughout the collection&rsquo;s grids."),
+        ("rukkha",
+         "&ldquo;tree&rdquo; &mdash; which stands where it grew, so that the arrangement is a fact "
+         "about the forest rather than about the tree."),
+    ],
+    text_intro=(
+        "The discourse in full: the four trees, the four individuals, and each cell defined. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four trees, four individuals"),
+        ("p", "&sect;1", "an4.109:1.1-1.13"),
+        ("h3", "Softwood among softwoods"),
+        ("p", "&sect;2", "an4.109:2.1-2.5"),
+        ("h3", "Softwood among hardwoods"),
+        ("p", "&sect;3", "an4.109:3.1-3.3"),
+        ("h3", "Hardwood among softwoods"),
+        ("p", "&sect;4", "an4.109:4.1-4.3"),
+        ("h3", "Hardwood among hardwoods"),
+        ("p", "&sect;5", "an4.109:5.1-5.7"),
+    ],
+    quiz=[
+        {"q": "What pair of variables does this discourse use?",
+         "opts": [
+             "Learning and understanding",
+             "A person&rsquo;s ethics and their followers&rsquo; ethics &mdash; the same as AN 4.91",
+             "Deportment and understanding",
+             "Anger&rsquo;s frequency and duration"],
+         "correct": 1,
+         "expl": "With trees in place of titans and gods."},
+        {"q": "What does <em>sāra</em> mean besides hardwood?",
+         "opts": [
+             "Bark",
+             "Essence, substance, the pith of a thing",
+             "Root",
+             "Branch"],
+         "correct": 1,
+         "expl": "One of the canon&rsquo;s most-used words, with the metaphor built in."},
+        {"q": "How does that compare with AN 4.103&rsquo;s pot?",
+         "opts": [
+             "It is unrelated",
+             "It is the same hollow-or-full contrast with a word that carries the metaphor built in",
+             "It reverses it",
+             "The pot is stronger"],
+         "correct": 1,
+         "expl": "A hardwood tree is one with substance in it."},
+        {"q": "What element does the tree simile add?",
+         "opts": [
+             "Growth",
+             "Place &mdash; a tree stands in a stand, and the stand grew where it grew",
+             "Age",
+             "Season"],
+         "correct": 1,
+         "expl": "The arrangement is a fact about the forest rather than about the trees."},
+        {"q": "How does the guide qualify the gentler reading that follows?",
+         "opts": [
+             "It endorses it fully",
+             "It notes the discourse does not draw it &mdash; the extra implication belongs to the image, as with the mango in AN 4.105",
+             "It rejects it",
+             "It attributes it to the commentary"],
+         "correct": 1,
+         "expl": "An illumination rather than a claim."},
+        {"q": "What does the image clearly supply?",
+         "opts": [
+             "That trees are patient",
+             "That a person&rsquo;s company is often not chosen",
+             "That forests are mixed",
+             "That timber varies"],
+         "correct": 1,
+         "expl": "AN 4.31 listed relying on true persons as one of the four wheels; this is a reminder that the wheel is not always available."},
+        {"q": "Which mixed cell did AN 4.91&rsquo;s guide call more uncomfortable?",
+         "opts": [
+             "Hardwood among softwoods",
+             "Softwood among hardwoods &mdash; the quality of a following is not evidence about the person at its centre",
+             "Neither",
+             "Both equally"],
+         "correct": 1,
+         "expl": "And the tree simile sharpens it."},
+        {"q": "How does it sharpen it?",
+         "opts": [
+             "By adding a ranking",
+             "Nobody looking at a forest thinks good timber around one rotten trunk makes the rotten one sound &mdash; the inference nobody makes about trees is one everybody makes about people",
+             "By naming the species",
+             "By describing rot"],
+         "correct": 1,
+         "expl": "The inference from surroundings to substance."},
+        {"q": "What is the difference between the titan and tree versions?",
+         "opts": [
+             "Length",
+             "A moral image against a natural one &mdash; titans and gods carry the judgment, and a tree is not blamed for its wood",
+             "The number of cells",
+             "The audience"],
+         "correct": 1,
+         "expl": "The same grid in two registers."},
+        {"q": "What is the tree version useful for?",
+         "opts": [
+             "Accusation",
+             "Observing the same arrangement without the accusation &mdash; often the more useful thing to be able to do",
+             "Ranking",
+             "Cosmology"],
+         "correct": 1,
+         "expl": "The titan version is for saying that someone is bad and their people are good."},
+    ],
+    marginalia=[
+        ("Four trees", [
+            "softwood among softwoods",
+            "softwood among hardwoods",
+            "hardwood among softwoods",
+            "hardwood among hardwoods",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">sāra</span>heartwood",
+            "also: essence, pith",
+            "&mdash; the metaphor is in the word",
+        ]),
+        ("Two registers", [
+            "titans &middot; the label judges",
+            "trees &middot; it describes",
+            "&mdash; and both are useful",
+        ]),
+        ("Cross-references", [
+            "AN 4.91 &middot; the same grid, moralized",
+            "AN 4.31 &middot; relying on true persons",
+            "AN 4.110 &middot; next: the vipers",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.109/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.91.html">AN 4.91 &middot; Titans</a> &mdash; the same pair of variables in a '
+        "moral register.",
+        '<a href="an-4.31.html">AN 4.31 &middot; Situations</a> &mdash; on company as one of the '
+        "four conditions of a life.",
+        '<a href="an-4.110.html">AN 4.110 &middot; Vipers</a> &mdash; next in this series, and the '
+        "last discourse of the chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.110 — Āsīvisasutta
+# --------------------------------------------------------------------------- #
+page(
+    110, "Āsīvisa", "Vipers",
+    vagga=VAGGA_11,
+    meta_title="AN 4.110 — Vipers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Āsīvisasutta — venom that "
+        "is fast-acting but not lethal, lethal but not fast-acting: four vipers and four people, "
+        "sorted by how anger arrives and how long it stays. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_11),
+        ("Speakers", SPEAKER),
+        ("Form", "The chapter&rsquo;s grid with its last pair of variables"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The viper simile for anger appears across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the chapter&rsquo;s sharpest "
+                       "diagnostic, and the only one about a single mind"),
+    ],
+    why=(
+        "Four vipers, sorted by whether the venom acts fast and whether it kills. And four people, "
+        "sorted by whether anger comes often and whether it stays. Every other grid in this chapter "
+        "sorted a person against something outside them &mdash; their words, their bearing, their "
+        "followers. This one is entirely internal, and it separates two things about anger that "
+        "almost nobody separates."),
+    guide=[
+        ("The teaching in one sentence", [
+            "How often anger arises and how long it lasts are two different measurements, and they "
+            "vary independently."]),
+        ("The two measurements", [
+            "<em>Often angry</em> against <em>not often angry</em>. And <em>anger lingers for a long "
+            "time</em> against <em>anger doesn&rsquo;t linger long</em>. Frequency and duration.",
+            "That separation is the discourse&rsquo;s entire contribution and it is genuinely useful. "
+            "In ordinary speech &lsquo;an angry person&rsquo; and &lsquo;a person who holds "
+            "grudges&rsquo; get collapsed into one description, and the four cells show that they are "
+            "two.",
+            "The two mixed cells are the recognizable ones. Someone who flares constantly and is over "
+            "it in a minute; someone who almost never becomes angry and stays angry for years. Both "
+            "are common and neither is captured by a single scale."]),
+        ("The venom mapping", [
+            "<em>Āgataviso</em>, venom that has come &mdash; fast-acting. <em>Ghoraviso</em>, "
+            "terrible or deadly venom &mdash; lethal. The two are properties of different snakes and "
+            "both were known to the audience.",
+            "Speed maps to frequency and lethality maps to duration, which is not the mapping one "
+            "would predict. A more obvious version would map speed to how quickly the anger arrives "
+            "and lethality to how bad it is.",
+            "What the discourse does instead is treat duration as the thing that kills. Anger that "
+            "goes away does damage; anger that stays does the lasting damage, and the simile puts the "
+            "fatal property on the second axis.",
+            "That is a substantive claim and it is stated only through the image. Nothing in the "
+            "prose says long anger is worse than frequent anger; the venom does."]),
+        ("The ordering", [
+            "Fast but not lethal first, lethal but not fast second, both third, neither fourth.",
+            "This is the one grid in the chapter whose order is not worst-first. In the clouds, pots, "
+            "lakes, mangoes, mice, oxen, and trees, the first cell is the one with the appearance and "
+            "not the substance, or the harm and not the restraint. Here the first cell is the "
+            "quick-tempered person who does not hold on, who is on any reading not the worst of the "
+            "four.",
+            "The third cell &mdash; often angry and long-lasting &mdash; is unambiguously the worst "
+            "and is placed third. The fourth, as always, is the best.",
+            "So the ordering here follows the snake rather than the person: fast, deadly, both, "
+            "neither, which is how one would list venoms. The simile has determined the sequence."]),
+        ("Anger elsewhere in the Fours", [
+            "This is the collection&rsquo;s most analytic treatment of anger and it is worth setting "
+            "beside the others.",
+            "AN 4.43, 4.44, and 4.84 named anger as one of four things valued above the teaching "
+            "&mdash; a matter of what outweighs what. AN 4.11 named malicious and cruel thoughts as "
+            "things not to be tolerated once arisen. AN 4.17 named hostility as one of the four "
+            "prejudices that corrupt a decision.",
+            "None of those asks how often or how long. This discourse is the only place in the Fours "
+            "that treats anger as having a shape in time, and that is what makes it usable as a "
+            "self-assessment rather than only as a warning."]),
+        ("Closing the chapter", [
+            "The Valāhakavagga ends here. Ten discourses, one four-cell grid, nine similes, four "
+            "content-pairs, and one slot with nothing in it.",
+            "Read straight through it is the most formally uniform chapter in the Fours and the least "
+            "thematically unified. What holds it together is a method rather than a subject: take an "
+            "ordinary fourfold from the world, and use it to say that two things people run together "
+            "are actually two.",
+            "That method is worth naming as the chapter&rsquo;s real teaching. Clouds, pots, lakes, "
+            "mangoes, mice, oxen, trees, vipers &mdash; in every case the work is done by separating "
+            "a pair, and in every case the pair is one that ordinary speech treats as a single "
+            "thing."]),
+    ],
+    terms=[
+        ("āsīvisa",
+         "&ldquo;viper&rdquo;, literally one with venom in its fangs &mdash; the chapter&rsquo;s last "
+         "and sharpest simile."),
+        ("āgataviso",
+         "&ldquo;fast-acting venom&rdquo; &mdash; venom that has already come; mapped to how often "
+         "anger arises."),
+        ("ghoraviso",
+         "&ldquo;lethal venom&rdquo; &mdash; terrible or deadly; mapped to how long anger lasts, "
+         "which puts the fatal property on duration."),
+        ("abhiṇhaṁ kujjhati",
+         "&ldquo;is often angry&rdquo; &mdash; the frequency axis, stated without reference to "
+         "intensity."),
+        ("dīgharattaṁ anuseti",
+         "&ldquo;lingers for a long time&rdquo; &mdash; the duration axis; <em>anuseti</em> is the "
+         "verb of underlying tendencies that lie dormant."),
+    ],
+    text_intro=(
+        "The discourse in full: the four vipers, the four individuals, and each cell defined. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four vipers, four individuals"),
+        ("p", "&sect;1", "an4.110:1.1-1.13"),
+        ("h3", "Fast-acting but not lethal"),
+        ("p", "&sect;2", "an4.110:2.1-2.5"),
+        ("h3", "Lethal but not fast-acting"),
+        ("p", "&sect;3", "an4.110:3.1-3.3"),
+        ("h3", "Both"),
+        ("p", "&sect;4", "an4.110:4.1-4.3"),
+        ("h3", "Neither"),
+        ("p", "&sect;5", "an4.110:5.1-5.7"),
+    ],
+    quiz=[
+        {"q": "What two things does this discourse separate?",
+         "opts": [
+             "Anger and hatred",
+             "How often anger arises, and how long it lasts",
+             "Anger and its expression",
+             "Anger and its object"],
+         "correct": 1,
+         "expl": "Frequency and duration, varying independently."},
+        {"q": "Why does the guide call the separation useful?",
+         "opts": [
+             "It is traditional",
+             "Because ordinary speech collapses &lsquo;an angry person&rsquo; and &lsquo;a person who holds grudges&rsquo; into one description, and the four cells show they are two",
+             "It ranks people",
+             "It is easy to remember"],
+         "correct": 1,
+         "expl": "Both mixed cells are common and neither is captured by a single scale."},
+        {"q": "How does the venom map onto the two axes?",
+         "opts": [
+             "Speed to intensity, lethality to frequency",
+             "Speed to frequency, lethality to duration",
+             "Speed to duration, lethality to frequency",
+             "Both to intensity"],
+         "correct": 1,
+         "expl": "Not the mapping one would predict."},
+        {"q": "What substantive claim does that mapping make?",
+         "opts": [
+             "That anger is always fatal",
+             "That duration is the thing that kills &mdash; anger that stays does the lasting damage",
+             "That frequency is worse",
+             "That venom is a poor image"],
+         "correct": 1,
+         "expl": "Stated only through the image; nothing in the prose says it."},
+        {"q": "How is this chapter&rsquo;s usual ordering different here?",
+         "opts": [
+             "It is the same",
+             "Every other grid puts the worst cell first; here the first cell is the quick-tempered person who does not hold on, who is not the worst of the four",
+             "It reverses the best and worst",
+             "It has no ordering"],
+         "correct": 1,
+         "expl": "The worst cell &mdash; often angry and long-lasting &mdash; is placed third."},
+        {"q": "What accounts for the ordering?",
+         "opts": [
+             "A change of doctrine",
+             "The simile &mdash; fast, deadly, both, neither is how one would list venoms",
+             "The metre",
+             "A scribal error"],
+         "correct": 1,
+         "expl": "The ordering follows the snake rather than the person."},
+        {"q": "How do the other Fours discourses treat anger?",
+         "opts": [
+             "The same way",
+             "AN 4.43 and 4.84 as something valued above the teaching, AN 4.11 as a thought not to be tolerated, AN 4.17 as a prejudice corrupting decisions &mdash; none asks how often or how long",
+             "They do not mention it",
+             "Only in verse"],
+         "correct": 1,
+         "expl": "This is the only place in the Fours that treats anger as having a shape in time."},
+        {"q": "What does that make it usable as?",
+         "opts": [
+             "A warning only",
+             "A self-assessment rather than only a warning",
+             "A rule",
+             "A meditation subject"],
+         "correct": 1,
+         "expl": "The chapter&rsquo;s sharpest diagnostic."},
+        {"q": "What holds the Valāhakavagga together?",
+         "opts": [
+             "A single subject",
+             "A method rather than a subject &mdash; take an ordinary fourfold from the world and use it to say that two things people run together are two",
+             "A setting",
+             "A speaker"],
+         "correct": 1,
+         "expl": "The most formally uniform chapter in the Fours and the least thematically unified."},
+        {"q": "What does every simile in the chapter have in common?",
+         "opts": [
+             "It involves animals",
+             "The work is done by separating a pair that ordinary speech treats as a single thing",
+             "It involves weather",
+             "It ranks four people"],
+         "correct": 1,
+         "expl": "Clouds, pots, lakes, mangoes, mice, oxen, trees, vipers."},
+    ],
+    marginalia=[
+        ("Four vipers", [
+            "fast, not lethal",
+            "lethal, not fast",
+            "both",
+            "neither",
+        ]),
+        ("Two measurements", [
+            "how often it comes",
+            "how long it stays",
+            "&mdash; and they are separate",
+        ]),
+        ("The claim in the image", [
+            "speed &rarr; frequency",
+            "lethality &rarr; duration",
+            "&mdash; so staying is what kills",
+        ]),
+        ("Cross-references", [
+            "AN 4.11 &middot; not tolerating a thought",
+            "AN 4.43 &middot; anger valued above the teaching",
+            "AN 4.101 &middot; where the chapter began",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.110/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.11.html">AN 4.11 &middot; Walking</a> &mdash; on the malicious thought and '
+        "what is done with it once it arises.",
+        '<a href="an-4.43.html">AN 4.43 &middot; Valuing Anger</a> &mdash; anger as one of four '
+        "things weighed against the teaching.",
+        '<a href="an-4.101.html">AN 4.101 &middot; Clouds (1st)</a> &mdash; where this chapter&rsquo;s '
+        "single grid was set out.",
+    ],
+)
