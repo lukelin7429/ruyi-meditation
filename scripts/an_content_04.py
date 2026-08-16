@@ -18187,3 +18187,2341 @@ page(
         "given not because of tradition.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Macalavagga — the ninth chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_9 = "<em>Macalavagga</em> &mdash; the ninth chapter of the Fours"
+SETTING_9 = ("None stated; the Macalavagga gives no location for this discourse, and it is "
+             "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.81 — Pāṇātipātasutta
+# --------------------------------------------------------------------------- #
+page(
+    81, "Pāṇātipāta", "Killing Living Creatures",
+    vagga=VAGGA_9,
+    meta_title="AN 4.81 — Killing Living Creatures | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pāṇātipātasutta — killing, "
+        "stealing, sexual misconduct, and lying place a person in hell; refraining from them places "
+        "a person in heaven. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "Four qualities and their negation, each with a destination"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four-item precept list with paired destinations recurs across the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; AN 4.64 with its mirror supplied, "
+                       "and the chapter&rsquo;s method announced"),
+    ],
+    why=(
+        "The same four as AN 4.64, with the positive half added: refraining places a person in "
+        "heaven as if delivered there. This is the first of four consecutive discourses that take "
+        "material already given in the Fours and reset it in a hell-and-heaven frame, and reading "
+        "the group is the fastest way to understand what the ninth chapter is doing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four acts deliver a person to hell and refraining from them delivers a person to heaven, "
+            "in each case with nothing further required."]),
+        ("The chapter&rsquo;s method", [
+            "AN 4.81 through AN 4.84 share a single frame: <em>someone with four qualities is placed "
+            "in hell as if delivered there</em>, followed by the mirror for heaven. Only the four "
+            "qualities change.",
+            "And the four qualities are not new. This discourse gives AN 4.64&rsquo;s four acts. "
+            "AN 4.82 gives the four kinds of wrong speech. AN 4.83 gives AN 4.3&rsquo;s four faults "
+            "of praise and criticism. AN 4.84 gives AN 4.43&rsquo;s four things valued above the "
+            "teaching.",
+            "So the opening of the chapter is a systematic restatement: four lists already given "
+            "elsewhere in the Fours, each now attached to a destination. That is worth naming plainly "
+            "rather than reading each discourse as though it were fresh material."]),
+        ("What the frame adds", [
+            "The lists in their original settings had different consequences attached. AN 4.3 said "
+            "the untrue person keeps themselves broken and damaged and brims with wickedness. "
+            "AN 4.43 said such a person does not grow in the teaching. Neither mentioned hell.",
+            "Attaching a destination is a change of register rather than of content. It converts a "
+            "description of a condition into a statement about where it ends up, and it makes the "
+            "four lists commensurable: all four now have the same units.",
+            "That commensurability is presumably the point of the exercise. A reciter who has these "
+            "four discourses has four different lists with one consequence, which is a compact way to "
+            "hold a large amount of ethical material."]),
+        ("The positive half", [
+            "AN 4.64 gave only the negative. This gives both, and the mirror is exact: not killing, "
+            "not stealing, not committing sexual misconduct, not lying places a person in heaven as "
+            "if delivered there.",
+            "It is worth registering that the positive is stated as four abstentions rather than four "
+            "actions. Nothing is required beyond not doing the four things. Heaven, on this "
+            "discourse, is the destination of someone who has simply refrained.",
+            "That is a low bar and the collection knows it. The four kinds of overflowing merit in "
+            "AN 4.51 and 4.52, the four fitting deeds of AN 4.61, and the lay practice of AN 4.60 all "
+            "describe more than abstention. This discourse names the floor, not the program."]),
+        ("&lsquo;As if delivered there&rsquo;, both ways", [
+            "The idiom <em>yathābhataṁ nikkhitto</em> is now applied in both directions, and the "
+            "symmetry is informative. Heaven is arrived at in exactly the same manner as hell: "
+            "carried and set down, with no further step.",
+            "That rules out one common way of thinking about the two, on which hell is a punishment "
+            "and heaven a reward. Neither is described as awarded. Both are described as places one "
+            "ends up, by the same mechanism, in virtue of what one has been doing.",
+            "AN 4.20 used the idiom of the meal assigner; AN 4.64 of these same four acts. This is "
+            "its third appearance in the Fours and the first in the positive direction."]),
+        ("Why four and not five", [
+            "As in AN 4.64, intoxicants are absent. The four are the bodily and verbal courses of "
+            "action that directly harm someone, and the fifth precept is a training rule of a "
+            "different kind.",
+            "The next discourse, AN 4.82, will take the verbal side and expand it from one item into "
+            "four. Between them the two discourses cover the seven bodily and verbal courses of "
+            "action of the tenfold scheme, which is the same material AN 4.54 used to assess a "
+            "marriage.",
+            "The three mental courses &mdash; covetousness, malice, wrong view &mdash; do not get "
+            "their own discourse in this group. What they get instead is AN 4.84, which names four "
+            "things valued above the teaching, two of which are hostile mental states."]),
+    ],
+    terms=[
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; used here in both directions; neither "
+         "hell nor heaven is described as awarded."),
+        ("pāṇātipāta",
+         "&ldquo;killing living creatures&rdquo; &mdash; the first of the four, and the title of the "
+         "discourse."),
+        ("kammapatha",
+         "&ldquo;course of action&rdquo; &mdash; the tenfold scheme, of which this discourse and "
+         "AN 4.82 together cover the bodily and verbal seven."),
+        ("sagga",
+         "&ldquo;heaven&rdquo; &mdash; the destination of the positive half, reached by four "
+         "abstentions and nothing more."),
+        ("veramaṇī",
+         "&ldquo;refraining&rdquo; &mdash; what the positive half consists of; the discourse names "
+         "the floor rather than the program."),
+    ],
+    text_intro=(
+        "The discourse in full: the four qualities and their negation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.81:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.81:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four qualities are named?",
+         "opts": [
+             "The five precepts",
+             "Killing, stealing, sexual misconduct, and lying",
+             "Anger, denigration, gain, and honor",
+             "Four kinds of wrong speech"],
+         "correct": 1,
+         "expl": "The same four as AN 4.64, now with a positive mirror."},
+        {"q": "What frame do AN 4.81 through AN 4.84 share?",
+         "opts": [
+             "A simile",
+             "&lsquo;Someone with four qualities is placed in hell as if delivered there&rsquo;, followed by the mirror for heaven",
+             "A question from a disciple",
+             "A verse"],
+         "correct": 1,
+         "expl": "Only the four qualities change."},
+        {"q": "Where do those four lists come from?",
+         "opts": [
+             "They are new",
+             "Elsewhere in the Fours &mdash; AN 4.64, the four kinds of wrong speech, AN 4.3, and AN 4.43",
+             "The Vinaya",
+             "The Threes"],
+         "correct": 1,
+         "expl": "A systematic restatement, worth naming plainly."},
+        {"q": "What does attaching a destination change?",
+         "opts": [
+             "The content",
+             "The register &mdash; it converts a description of a condition into a statement about where it ends up, and makes the four lists commensurable",
+             "The audience",
+             "The length"],
+         "correct": 1,
+         "expl": "Four different lists with one consequence."},
+        {"q": "How is the positive half stated?",
+         "opts": [
+             "As four actions",
+             "As four abstentions &mdash; nothing is required beyond not doing the four things",
+             "As four attainments",
+             "As four kinds of merit"],
+         "correct": 1,
+         "expl": "Heaven as the destination of someone who has simply refrained."},
+        {"q": "How does the guide characterize that?",
+         "opts": [
+             "As the collection&rsquo;s full program",
+             "As the floor, not the program &mdash; AN 4.51, 4.52, 4.60, and 4.61 all describe more than abstention",
+             "As sufficient for awakening",
+             "As unusually demanding"],
+         "correct": 1,
+         "expl": "A low bar, and the collection knows it."},
+        {"q": "What does the symmetry of the idiom rule out?",
+         "opts": [
+             "That hell exists",
+             "The picture on which hell is a punishment and heaven a reward &mdash; neither is described as awarded",
+             "That conduct matters",
+             "That heaven is temporary"],
+         "correct": 1,
+         "expl": "Both are places one ends up, by the same mechanism."},
+        {"q": "How many times has the idiom appeared in the Fours by now?",
+         "opts": [
+             "Once",
+             "Three times &mdash; AN 4.20, AN 4.64, and here, which is its first use in the positive direction",
+             "Twice",
+             "Five times"],
+         "correct": 1,
+         "expl": "Of the meal assigner, of these four acts, and now both ways."},
+        {"q": "Why are intoxicants absent again?",
+         "opts": [
+             "An oversight",
+             "The four are the bodily and verbal courses of action that directly harm someone; the fifth precept is a training rule of a different kind",
+             "Because monastics are addressed",
+             "Because heaven is at issue"],
+         "correct": 1,
+         "expl": "As in AN 4.64."},
+        {"q": "What do AN 4.81 and AN 4.82 cover between them?",
+         "opts": [
+             "The five precepts",
+             "The seven bodily and verbal courses of action of the tenfold scheme",
+             "The ten courses in full",
+             "The four right efforts"],
+         "correct": 1,
+         "expl": "The same material AN 4.54 used to assess a marriage."},
+    ],
+    marginalia=[
+        ("The four", [
+            "killing",
+            "stealing",
+            "sexual misconduct",
+            "lying",
+        ]),
+        ("The chapter&rsquo;s method", [
+            "4.81 &middot; AN 4.64&rsquo;s four",
+            "4.82 &middot; wrong speech",
+            "4.83 &middot; AN 4.3&rsquo;s four",
+            "4.84 &middot; AN 4.43&rsquo;s four",
+        ]),
+        ("The symmetry", [
+            "hell &middot; carried, set down",
+            "heaven &middot; carried, set down",
+            "&mdash; neither awarded",
+        ]),
+        ("Cross-references", [
+            "AN 4.64 &middot; the same four, negative only",
+            "AN 4.82 &middot; next: four kinds of speech",
+            "AN 4.20 &middot; the idiom&rsquo;s first use",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.81/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.64.html">AN 4.64 &middot; Hell</a> &mdash; the same four without the positive '
+        "half.",
+        '<a href="an-4.82.html">AN 4.82 &middot; Lying</a> &mdash; next in this series.',
+        '<a href="an-4.54.html">AN 4.54 &middot; Living Together (2nd)</a> &mdash; where the same '
+        "courses of action are used to assess a marriage.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.82 — Musāvādasutta
+# --------------------------------------------------------------------------- #
+page(
+    82, "Musāvāda", "Lying",
+    vagga=VAGGA_9,
+    meta_title="AN 4.82 — Lying | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Musāvādasutta — false, "
+        "backbiting, harsh, and nonsensical speech place a person in hell; refraining places them in "
+        "heaven. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "Four qualities and their negation, each with a destination"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The fourfold analysis of wrong speech is standard across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four terms worth knowing "
+                       "precisely"),
+    ],
+    why=(
+        "Four kinds of wrong speech, which between them are the whole of the verbal side of the "
+        "tenfold courses of action: false, backbiting, harsh, and nonsensical. The set is worth "
+        "learning precisely, because three of the four are commonly collapsed into &lsquo;lying&rsquo; "
+        "and each names something different."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Speech goes wrong in four distinct ways, and only one of them is untruth."]),
+        ("False speech", [
+            "<em>Musāvāda</em> &mdash; saying what is not so. The canon&rsquo;s fuller definition, "
+            "given elsewhere, is precise: knowing one thing and saying another, for one&rsquo;s own "
+            "sake, another&rsquo;s sake, or some trifling worldly gain.",
+            "Two elements matter in that definition. The speaker must know; a false statement made in "
+            "error is not this fault. And there must be a purpose, however small &mdash; the "
+            "&lsquo;trifling worldly gain&rsquo; clause exists to close the loophole of the "
+            "unimportant lie."]),
+        ("Backbiting", [
+            "<em>Pisuṇāvācā</em>, divisive speech &mdash; literally speech that is malicious or "
+            "slanderous, and defined in the canon by its effect: repeating here what was heard there "
+            "in order to divide people, or repeating there what was heard here.",
+            "The definition is entirely about function. Nothing is said about whether the report is "
+            "true, and that is deliberate. A true account repeated in order to set two people against "
+            "each other is divisive speech; the fault is in the dividing.",
+            "This is the item most often missed when the four are collapsed. It is possible to be "
+            "scrupulously truthful and to be doing this constantly."]),
+        ("Harsh speech", [
+            "<em>Pharusāvācā</em> &mdash; speech that is rough, cutting, abusive. The canonical "
+            "definition describes it by its reception: words that are hurtful, that make people "
+            "angry, that are far from peace.",
+            "Again the definition is not about truth. A true and accurate criticism delivered in a "
+            "way that wounds is on this list, which is why AN 4.3&rsquo;s requirement of examination "
+            "before criticism is not the whole of what the collection asks about criticizing "
+            "people."]),
+        ("Nonsensical speech", [
+            "<em>Samphappalāpa</em>, talking nonsense &mdash; defined as speech that is untimely, "
+            "false, useless, contrary to the teaching and training, not worth treasuring, unreasoned, "
+            "rambling, and unbeneficial.",
+            "This is the widest of the four and the hardest to take seriously, because it covers "
+            "ordinary idle talk. It is worth noticing that AN 4.22 used almost this same list to "
+            "define the <em>childish senior</em> &mdash; the old person whose speech fails &mdash; "
+            "and its positive form to define the astute one.",
+            "So the fourth item is not a minor addition. It is the same criterion the collection uses "
+            "to decide who deserves the standing of an elder, applied here as a course of action with "
+            "a destination attached."]),
+        ("The four as a set", [
+            "Truth, effect on relationships, effect on the hearer, and worth. Those are four "
+            "independent axes, and speech can fail on any one while passing the others.",
+            "That independence is the reason for having four rather than one. A person who has "
+            "resolved not to lie has addressed one axis. The collection&rsquo;s standard of right "
+            "speech, given at AN 4.22 and elsewhere, requires all four: timely, true, meaningful, and "
+            "in line with the teaching.",
+            "AN 4.81 and this discourse together give the seven bodily and verbal courses of action, "
+            "each with hell and heaven attached. The remaining three of the tenfold scheme are "
+            "mental, and the chapter does not give them their own discourse."]),
+    ],
+    terms=[
+        ("musāvāda",
+         "&ldquo;false speech&rdquo; &mdash; knowing one thing and saying another, for some purpose "
+         "however trifling."),
+        ("pisuṇāvācā",
+         "&ldquo;backbiting, divisive speech&rdquo; &mdash; defined by function rather than truth: "
+         "repeating in order to divide."),
+        ("pharusāvācā",
+         "&ldquo;harsh speech&rdquo; &mdash; defined by reception: hurtful, provoking, far from "
+         "peace; a true criticism can be on this list."),
+        ("samphappalāpa",
+         "&ldquo;talking nonsense&rdquo; &mdash; untimely, useless, unreasoned, rambling; the same "
+         "criterion AN 4.22 used to define the childish senior."),
+        ("vacīkammapatha",
+         "&ldquo;verbal course of action&rdquo; &mdash; the four of the tenfold scheme, covered "
+         "entirely by this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: the four qualities and their negation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.82:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.82:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What are the four kinds of wrong speech?",
+         "opts": [
+             "Loud, hasty, untimely, and long",
+             "False, backbiting, harsh, and nonsensical",
+             "Boastful, flattering, hinting, and belittling",
+             "Untrue, unkind, untimely, and useless"],
+         "correct": 1,
+         "expl": "The whole verbal side of the tenfold courses of action."},
+        {"q": "What two elements does the canon&rsquo;s definition of false speech require?",
+         "opts": [
+             "Repetition and publicity",
+             "That the speaker knows, and that there is a purpose &mdash; however trifling",
+             "Malice and gain",
+             "Harm and intent to harm"],
+         "correct": 1,
+         "expl": "A false statement made in error is not this fault."},
+        {"q": "How is backbiting defined?",
+         "opts": [
+             "By whether the report is true",
+             "By its function &mdash; repeating here what was heard there in order to divide people",
+             "By the speaker&rsquo;s anger",
+             "By the audience"],
+         "correct": 1,
+         "expl": "Nothing is said about truth, and that is deliberate."},
+        {"q": "What follows from that definition?",
+         "opts": [
+             "That truthful reports are always safe",
+             "That a true account repeated in order to set two people against each other is divisive speech &mdash; the fault is in the dividing",
+             "That gossip is permitted",
+             "That silence is required"],
+         "correct": 1,
+         "expl": "It is possible to be scrupulously truthful and to be doing this constantly."},
+        {"q": "How is harsh speech defined?",
+         "opts": [
+             "By volume",
+             "By its reception &mdash; hurtful, making people angry, far from peace",
+             "By falsity",
+             "By its topic"],
+         "correct": 1,
+         "expl": "A true and accurate criticism delivered in a way that wounds is on this list."},
+        {"q": "What does that add to AN 4.3?",
+         "opts": [
+             "Nothing",
+             "AN 4.3 required examination before criticism; this shows that examination is not the whole of what the collection asks about criticizing people",
+             "It replaces it",
+             "It restricts it to monastics"],
+         "correct": 1,
+         "expl": "Manner as well as grounds."},
+        {"q": "How is nonsensical speech defined?",
+         "opts": [
+             "As speech that is untrue",
+             "As untimely, false, useless, contrary to the teaching, unreasoned, rambling, and unbeneficial",
+             "As speech about worldly matters",
+             "As speech in a foreign language"],
+         "correct": 1,
+         "expl": "The widest of the four."},
+        {"q": "Which earlier discourse uses almost the same list?",
+         "opts": [
+             "AN 4.3",
+             "AN 4.22 &mdash; to define the childish senior, and its positive form to define the astute one",
+             "AN 4.43",
+             "AN 4.65"],
+         "correct": 1,
+         "expl": "The same criterion the collection uses to decide who deserves the standing of an elder."},
+        {"q": "What four independent axes do the four cover?",
+         "opts": [
+             "Volume, length, timing, and topic",
+             "Truth, effect on relationships, effect on the hearer, and worth",
+             "Body, speech, mind, and livelihood",
+             "Past, present, future, and timeless"],
+         "correct": 1,
+         "expl": "Speech can fail on any one while passing the others."},
+        {"q": "Why is that independence the reason for having four?",
+         "opts": [
+             "For the number",
+             "Because a person who has resolved not to lie has addressed one axis only",
+             "Because the verses require it",
+             "Because monastics need more rules"],
+         "correct": 1,
+         "expl": "The collection&rsquo;s standard of right speech requires all four."},
+    ],
+    marginalia=[
+        ("Four kinds", [
+            "<span class=\"pali\">musāvāda</span>false",
+            "<span class=\"pali\">pisuṇā</span>backbiting",
+            "<span class=\"pali\">pharusā</span>harsh",
+            "<span class=\"pali\">samphappalāpa</span>nonsense",
+        ]),
+        ("Four axes", [
+            "truth",
+            "effect on relations",
+            "effect on the hearer",
+            "worth",
+        ]),
+        ("The one missed", [
+            "backbiting",
+            "defined by function",
+            "&mdash; a true report can be it",
+        ]),
+        ("Cross-references", [
+            "AN 4.81 &middot; the bodily three",
+            "AN 4.22 &middot; the same list defining a senior",
+            "AN 4.83 &middot; next: praise and criticism",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.82/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.22.html">AN 4.22 &middot; At Uruvelā (2nd)</a> &mdash; where the same criteria '
+        "of speech decide who counts as a senior.",
+        '<a href="an-4.83.html">AN 4.83 &middot; Where Criticism Takes You</a> &mdash; next in this '
+        "series.",
+        '<a href="an-4.81.html">AN 4.81 &middot; Killing Living Creatures</a> &mdash; the bodily '
+        "courses of action, with the same frame.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.83 — Avaṇṇārahasutta
+# --------------------------------------------------------------------------- #
+page(
+    83, "Avaṇṇāraha", "Where Criticism Takes You",
+    vagga=VAGGA_9,
+    meta_title="AN 4.83 — Where Criticism Takes You | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Avaṇṇārahasutta — praising "
+        "and criticizing without examination places a person in hell; doing it after examination "
+        "places them in heaven. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.3&rsquo;s four faults and their mirror, with destinations attached"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "As with AN 4.3; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; familiar content in a new frame, "
+                       "and the change of frame is the subject"),
+    ],
+    why=(
+        "Exactly AN 4.3&rsquo;s four faults &mdash; praising the blameworthy, criticizing the "
+        "praiseworthy, arousing faith in the dubious, withholding it from the inspiring &mdash; with "
+        "hell and heaven attached in place of the earlier discourse&rsquo;s account of self-damage. "
+        "The two versions are worth reading against each other, because they give two quite "
+        "different reasons not to do the same thing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Speaking well or ill of people without having examined them takes a person to hell; "
+            "doing it after examining takes them to heaven."]),
+        ("The same four", [
+            "Without examining or scrutinizing, they praise those deserving of criticism, and "
+            "criticize those deserving of praise; they arouse faith in things that are dubious, and "
+            "do not arouse it in things that are inspiring.",
+            "This is AN 4.3&rsquo;s list word for word, including the crucial qualifier "
+            "<em>ananuvicca apariyogāhetvā</em> &mdash; without examining or scrutinizing. As there, "
+            "the fault is not the verdict but the missing work behind it, and the positive half has "
+            "the astute person criticizing the blameworthy after examination.",
+            "Nothing in the content is new. What is new is what happens next."]),
+        ("Two reasons for the same rule", [
+            "AN 4.3 gave three consequences in a specific order: the person keeps themselves broken "
+            "and damaged; they deserve blame from sensible people; they brim with wickedness. Then "
+            "verses about a losing hand at dice and an enormous span in hell.",
+            "This discourse gives one consequence: hell, as if delivered there. No self-damage, no "
+            "blame from the astute, no dice.",
+            "The difference is a difference in the kind of reason offered. AN 4.3 said the act "
+            "constitutes a condition of the person doing it &mdash; a claim about what the act "
+            "<em>is</em>. This says the act has a destination attached &mdash; a claim about what the "
+            "act <em>leads to</em>.",
+            "Both are in the collection and neither is subordinated to the other. A teacher who "
+            "presents only the first has a more philosophically comfortable tradition than the one "
+            "that exists; a teacher who presents only the second has a more transactional one."]),
+        ("Which reason is more useful", [
+            "It is fair to have a view, and this page will state one. The AN 4.3 form is the more "
+            "usable of the two, for a reason that is not about plausibility.",
+            "A consequence located in the act is available for inspection now. A person can notice "
+            "that they are in the condition of someone who judged without looking, and the noticing "
+            "is itself corrective. A consequence located after death cannot be checked, and its "
+            "motivating force depends entirely on how firmly the framework is held.",
+            "That said, the two are not in competition. The Aṅguttara routinely gives both kinds of "
+            "reason for the same conduct, and a reader who finds one inert may find the other lands. "
+            "That redundancy is probably deliberate in a collection addressed to audiences of very "
+            "different dispositions."]),
+        ("The title", [
+            "<em>Avaṇṇāraha</em> &mdash; deserving of criticism, or literally deserving of "
+            "<em>avaṇṇa</em>, dispraise. Sujato&rsquo;s &lsquo;Where Criticism Takes You&rsquo; "
+            "renders the discourse&rsquo;s function rather than the Pāli word, which is simply the "
+            "first distinctive term in the text.",
+            "That is worth mentioning because discourse titles in this collection are usually taken "
+            "from the first distinctive word rather than assigned as descriptions. A reader who "
+            "expects a title to summarize a discourse will be regularly misled, and a reader who "
+            "expects it to be a retrieval tag will be right most of the time."]),
+        ("Its place in the group", [
+            "This is the third of the chapter&rsquo;s four hell-and-heaven discourses, and the only "
+            "one whose four items are about speech <em>about other people</em> rather than speech or "
+            "action as such.",
+            "Read as a group the four cover: what one does (AN 4.81), how one speaks (AN 4.82), how "
+            "one judges (this), and what one values (AN 4.84). That is a reasonable partition of a "
+            "person, and the fact that all four now carry the same consequence makes the group a "
+            "single compact ethical statement.",
+            "It is the most efficient piece of compilation in the Fours so far, and it takes about "
+            "three minutes to read all four."]),
+    ],
+    terms=[
+        ("avaṇṇāraha",
+         "&ldquo;deserving of criticism&rdquo; &mdash; the first distinctive term in the text, and "
+         "therefore the title."),
+        ("ananuvicca apariyogāhetvā",
+         "&ldquo;without examining or scrutinizing&rdquo; &mdash; carried over unchanged from "
+         "AN 4.3; the fault is the missing work, not the verdict."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the frame this chapter attaches to four "
+         "lists already given elsewhere."),
+        ("appasādanīya",
+         "&ldquo;dubious, not inspiring confidence&rdquo; &mdash; what the third fault arouses faith "
+         "in."),
+        ("avaṇṇa / vaṇṇa",
+         "&ldquo;dispraise&rdquo; and &ldquo;praise&rdquo; &mdash; the pair the four faults are "
+         "built from, in both directions and about both persons and things."),
+    ],
+    text_intro=(
+        "The discourse in full: the four faults and their mirror. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.83:1.1-1.6"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.83:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What four faults does this discourse name?",
+         "opts": [
+             "The four kinds of wrong speech",
+             "Praising the blameworthy, criticizing the praiseworthy, arousing faith in the dubious, and withholding it from the inspiring",
+             "Killing, stealing, misconduct, and lying",
+             "Anger, denigration, gain, and honor"],
+         "correct": 1,
+         "expl": "AN 4.3&rsquo;s list word for word."},
+        {"q": "What qualifier is carried over unchanged?",
+         "opts": [
+             "&lsquo;In full detail&rsquo;",
+             "&lsquo;Without examining or scrutinizing&rsquo;",
+             "&lsquo;When asked&rsquo;",
+             "&lsquo;Among the astute&rsquo;"],
+         "correct": 1,
+         "expl": "The fault is not the verdict but the missing work behind it."},
+        {"q": "What consequences did AN 4.3 give?",
+         "opts": [
+             "Hell only",
+             "Self-damage, blame from sensible people, and brimming with wickedness &mdash; then verses about dice and hell",
+             "Heaven only",
+             "Loss of reputation"],
+         "correct": 1,
+         "expl": "In that order, with the reflexive first."},
+        {"q": "What consequence does this discourse give?",
+         "opts": [
+             "The same three",
+             "One &mdash; hell, as if delivered there",
+             "A fading reputation",
+             "Arrested growth"],
+         "correct": 1,
+         "expl": "No self-damage, no blame from the astute, no dice."},
+        {"q": "How does the guide describe the difference?",
+         "opts": [
+             "One is stronger",
+             "A difference in the kind of reason &mdash; AN 4.3 claims what the act <em>is</em>; this claims what it <em>leads to</em>",
+             "One is later",
+             "One is for monastics"],
+         "correct": 1,
+         "expl": "Both are in the collection and neither is subordinated to the other."},
+        {"q": "What does the guide say about presenting only one of the two?",
+         "opts": [
+             "That either is fine",
+             "That only the first gives a more philosophically comfortable tradition than the one that exists, and only the second a more transactional one",
+             "That the second should be preferred",
+             "That both should be omitted"],
+         "correct": 1,
+         "expl": "The collection contains both."},
+        {"q": "Which does the guide judge more usable, and why?",
+         "opts": [
+             "The destination form, because it motivates",
+             "The AN 4.3 form &mdash; a consequence located in the act is available for inspection now, and the noticing is itself corrective",
+             "Neither",
+             "It declines to say"],
+         "correct": 1,
+         "expl": "A reason that is not about plausibility."},
+        {"q": "Why does the guide say the redundancy is probably deliberate?",
+         "opts": [
+             "For recitation",
+             "Because a reader who finds one kind of reason inert may find the other lands, in a collection addressed to audiences of very different dispositions",
+             "Because of the number four",
+             "Because of the verses"],
+         "correct": 1,
+         "expl": "The Aṅguttara routinely gives both kinds of reason for the same conduct."},
+        {"q": "How are discourse titles in this collection usually assigned?",
+         "opts": [
+             "As descriptions of the content",
+             "From the first distinctive word &mdash; a retrieval tag rather than a summary",
+             "By the reciter",
+             "From the closing verse"],
+         "correct": 1,
+         "expl": "A reader who expects a title to summarize will be regularly misled."},
+        {"q": "What do the chapter&rsquo;s first four discourses cover between them?",
+         "opts": [
+             "The four requisites",
+             "What one does, how one speaks, how one judges, and what one values",
+             "The four assemblies",
+             "The four right efforts"],
+         "correct": 1,
+         "expl": "A reasonable partition of a person, all four now carrying the same consequence."},
+    ],
+    marginalia=[
+        ("The same four", [
+            "praise the blameworthy",
+            "blame the praiseworthy",
+            "faith in the dubious",
+            "none in the inspiring",
+        ]),
+        ("Two reasons", [
+            "AN 4.3 &middot; what the act is",
+            "AN 4.83 &middot; where it leads",
+            "&mdash; both kept",
+        ]),
+        ("The group of four", [
+            "4.81 &middot; what one does",
+            "4.82 &middot; how one speaks",
+            "4.83 &middot; how one judges",
+            "4.84 &middot; what one values",
+        ]),
+        ("Cross-references", [
+            "AN 4.3 &middot; the same four, differently grounded",
+            "AN 4.84 &middot; next: what one values",
+            "AN 4.73 &middot; speech about merit and fault",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.83/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.3.html">AN 4.3 &middot; Broken (1st)</a> &mdash; the same four with a '
+        "different account of why they matter.",
+        '<a href="an-4.84.html">AN 4.84 &middot; Valuing Anger</a> &mdash; next in this series.',
+        '<a href="an-4.73.html">AN 4.73 &middot; A True Person</a> &mdash; the fullest treatment in '
+        "the Fours of speech about merit and fault.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.84 — Kodhagarusutta
+# --------------------------------------------------------------------------- #
+page(
+    84, "Kodhagaru", "Valuing Anger",
+    vagga=VAGGA_9,
+    meta_title="AN 4.84 — Valuing Anger | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kodhagarusutta of the "
+        "Macalavagga — valuing anger, denigration, material things, or honor above the true teaching "
+        "places a person in hell. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.43&rsquo;s four and their mirror, with destinations attached"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "As with AN 4.43 and 4.44; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the fourth of a matched set, and "
+                       "the one that closes it"),
+    ],
+    why=(
+        "Anger, denigration, material things, honor &mdash; valued above the true teaching. The "
+        "list is AN 4.43&rsquo;s and the frame is the chapter&rsquo;s, and this is the third time "
+        "the Fours have given this material: once as four kinds of person, once as four opposing "
+        "forces, and now as four qualities with a destination."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Holding any of four things above the teaching takes a person to hell; holding the "
+            "teaching above them takes a person to heaven."]),
+        ("The third version", [
+            "AN 4.43 gave these four as <em>four individuals found in the world</em> &mdash; people "
+            "who value anger, denigration, material things, or honor rather than the true teaching, "
+            "with the mirror, and verses about growth.",
+            "AN 4.44 gave the same content as <em>four things that oppose the true teaching</em>, "
+            "with the rotten seed and the well-watered herbs.",
+            "This gives them as <em>four qualities</em> a person has, with hell and heaven. Three "
+            "grammatical forms for one list: persons, forces, qualities.",
+            "The Fours have now done this twice in a chapter and a half &mdash; AN 4.17 through 4.19 "
+            "with the prejudices, and AN 4.43, 4.44, and this with the four things valued. It is the "
+            "collection&rsquo;s standard way of storing material it considers important, and the "
+            "number of arrangements is a rough index of weight."]),
+        ("What each form is good for", [
+            "The three are not interchangeable in use, and the differences are worth stating.",
+            "As persons (AN 4.43), the list sorts. It is the form to reach for when the question is "
+            "what kind of person one is dealing with, and it invites the reader to place themselves.",
+            "As forces (AN 4.44), the list diagnoses. It is the form to reach for when something is "
+            "not growing and the question is what is in the way, and it does not require anyone to be "
+            "labelled.",
+            "As qualities with a destination (AN 4.84), the list warns. It is the form for someone "
+            "who has already recognized the condition and needs a reason to move, and it supplies the "
+            "reason from outside the present moment.",
+            "A teacher with all three has a diagnosis, a classification, and a motivation for the "
+            "same four items. That is more useful than any one of them, and it is what the collection "
+            "has preserved."]),
+        ("The four themselves", [
+            "<em>Kodha</em>, anger. <em>Makkha</em>, denigration &mdash; belittling what others have "
+            "done, and refusing to acknowledge a benefit received. <em>Lābha</em>, material things. "
+            "<em>Sakkāra</em>, honor.",
+            "As AN 4.43&rsquo;s guide set out, the first two are hostile states and the second two "
+            "acquisitions, and between them they cover the two ordinary reasons a principle gets set "
+            "aside: because one is angry, and because one has something to lose.",
+            "The word attaching all four to the teaching is <em>garu</em>, weighty. Nothing here is "
+            "described as rejecting the Dhamma. What is described is a scale on which something else "
+            "outweighs it."]),
+        ("Closing the group", [
+            "The chapter&rsquo;s four hell-and-heaven discourses end here, and what follows changes "
+            "direction entirely: AN 4.85 and 4.86 sort people by the light and darkness of their "
+            "circumstances, and AN 4.87 through 4.90 give the four kinds of ascetic four different "
+            "ways.",
+            "That makes the Macalavagga a chapter of two halves. The first half restates ethical "
+            "material with a common consequence; the second gives one set of four titles four "
+            "different definitions.",
+            "Both halves are exercises in re-presentation rather than new teaching, which makes this "
+            "the most nakedly compiled chapter in the Fours so far. Saying so is not a criticism of "
+            "it. A collection built for recitation needs material arranged for retrieval, and this "
+            "chapter is where the arranging is most visible."]),
+    ],
+    terms=[
+        ("garu",
+         "&ldquo;weighty&rdquo; &mdash; the word attaching all four to the teaching; nothing here is "
+         "described as rejecting the Dhamma."),
+        ("kodha",
+         "&ldquo;anger&rdquo; &mdash; the first of the four, and the one the discourse is titled "
+         "for."),
+        ("makkha",
+         "&ldquo;denigration&rdquo; &mdash; belittling what others have done, and refusing to "
+         "acknowledge a benefit received."),
+        ("lābha / sakkāra",
+         "&ldquo;material things&rdquo; and &ldquo;honor&rdquo; &mdash; the two acquisitions, "
+         "against the two hostile states."),
+        ("saddhamma",
+         "&ldquo;the true teaching&rdquo; &mdash; what each of the four is weighed against, in all "
+         "three arrangements of this material."),
+    ],
+    text_intro=(
+        "The discourse in full: the four qualities and their mirror. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.84:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.84:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four things are valued above the teaching?",
+         "opts": [
+             "Wealth, family, health, and status",
+             "Anger, denigration, material things, and honor",
+             "Killing, stealing, misconduct, and lying",
+             "Favoritism, hostility, stupidity, and cowardice"],
+         "correct": 1,
+         "expl": "AN 4.43&rsquo;s list, in a third arrangement."},
+        {"q": "What are the three grammatical forms this material has been given?",
+         "opts": [
+             "Prose, verse, and simile",
+             "Four individuals, four opposing forces, and four qualities with a destination",
+             "Question, answer, and summary",
+             "Lay, monastic, and general"],
+         "correct": 1,
+         "expl": "Persons, forces, qualities."},
+        {"q": "Where else in the Fours has the collection done this?",
+         "opts": [
+             "AN 4.71 through 4.75",
+             "AN 4.17 through 4.19, with the four prejudices",
+             "AN 4.51 and 4.52",
+             "AN 4.87 through 4.90"],
+         "correct": 1,
+         "expl": "The number of arrangements is a rough index of weight."},
+        {"q": "What is the persons form good for?",
+         "opts": [
+             "Diagnosis",
+             "Sorting &mdash; when the question is what kind of person one is dealing with, and it invites the reader to place themselves",
+             "Motivation",
+             "Recitation only"],
+         "correct": 1,
+         "expl": "AN 4.43."},
+        {"q": "What is the forces form good for?",
+         "opts": [
+             "Sorting",
+             "Diagnosis &mdash; when something is not growing and the question is what is in the way, without requiring anyone to be labelled",
+             "Motivation",
+             "Ranking"],
+         "correct": 1,
+         "expl": "AN 4.44."},
+        {"q": "What is the qualities-with-destination form good for?",
+         "opts": [
+             "Classification",
+             "Warning &mdash; for someone who has already recognized the condition and needs a reason to move, supplied from outside the present moment",
+             "Diagnosis",
+             "Definition"],
+         "correct": 1,
+         "expl": "AN 4.84."},
+        {"q": "What does a teacher with all three have?",
+         "opts": [
+             "Three teachings",
+             "A diagnosis, a classification, and a motivation for the same four items",
+             "A contradiction",
+             "A recitation unit"],
+         "correct": 1,
+         "expl": "More useful than any one of them."},
+        {"q": "What does <em>garu</em> establish about the four?",
+         "opts": [
+             "That they are forbidden",
+             "That nothing here is described as rejecting the Dhamma &mdash; only as a scale on which something else outweighs it",
+             "That they are rare",
+             "That they are unconscious"],
+         "correct": 1,
+         "expl": "The word means weighty."},
+        {"q": "How does the guide describe the Macalavagga?",
+         "opts": [
+             "As tightly themed",
+             "As a chapter of two halves &mdash; ethical material restated with a common consequence, then one set of four titles given four definitions",
+             "As entirely new material",
+             "As monastic throughout"],
+         "correct": 1,
+         "expl": "Both halves are exercises in re-presentation."},
+        {"q": "How does the guide assess that?",
+         "opts": [
+             "As a defect",
+             "Not as a criticism &mdash; a collection built for recitation needs material arranged for retrieval, and this chapter is where the arranging is most visible",
+             "As evidence of lateness",
+             "As a compiler&rsquo;s error"],
+         "correct": 1,
+         "expl": "The most nakedly compiled chapter in the Fours so far."},
+    ],
+    marginalia=[
+        ("The four", [
+            "<span class=\"pali\">kodha</span>anger",
+            "<span class=\"pali\">makkha</span>denigration",
+            "<span class=\"pali\">lābha</span>material things",
+            "<span class=\"pali\">sakkāra</span>honor",
+        ]),
+        ("Three forms", [
+            "4.43 &middot; persons &mdash; sorts",
+            "4.44 &middot; forces &mdash; diagnoses",
+            "4.84 &middot; qualities &mdash; warns",
+        ]),
+        ("The chapter", [
+            "4.81-84 &middot; one consequence",
+            "4.85-86 &middot; dark and light",
+            "4.87-90 &middot; four ascetics",
+        ]),
+        ("Cross-references", [
+            "AN 4.43 &middot; the first arrangement",
+            "AN 4.44 &middot; the second",
+            "AN 4.85 &middot; next: dark and light",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.84/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.43.html">AN 4.43 &middot; Valuing Anger</a> &mdash; the same four as four '
+        "kinds of person.",
+        '<a href="an-4.44.html">AN 4.44 &middot; Valuing Anger (2nd)</a> &mdash; the same four as '
+        "four opposing forces, with the rotten seed.",
+        '<a href="an-4.85.html">AN 4.85 &middot; From Darkness to Darkness</a> &mdash; next in this '
+        "series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.85 — Tamotamasutta
+# --------------------------------------------------------------------------- #
+page(
+    85, "Tamotama", "From Darkness to Darkness",
+    vagga=VAGGA_9,
+    meta_title="AN 4.85 — From Darkness to Darkness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Tamotamasutta — four "
+        "individuals sorted by the circumstances they are born into and the direction they are "
+        "heading, with conduct as the only variable that decides. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "A two-by-two grid of birth and destination, each cell defined in detail"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The dark-and-light four-person scheme appears across the Chinese "
+                              "Āgamas and at SN 3.21; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a clear structure with a great "
+                       "deal of period social assumption in the descriptions"),
+    ],
+    why=(
+        "Four individuals: dark bound for darkness, dark bound for light, light bound for darkness, "
+        "light bound for light. &lsquo;Dark&rsquo; and &lsquo;light&rsquo; here mean the "
+        "circumstances of birth &mdash; poor and low against rich and eminent &mdash; and the "
+        "direction is decided by conduct alone. The grid is doing something specific with the caste "
+        "and class assumptions of its period, and what it does is worth reading carefully."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Where a person starts and where they are going are independent, and only conduct decides "
+            "the second."]),
+        ("What &lsquo;dark&rsquo; and &lsquo;light&rsquo; mean", [
+            "The terms are <em>tama</em> and <em>joti</em>, darkness and light or radiance, and the "
+            "discourse defines them by circumstances rather than by character.",
+            "Dark: born in a low family &mdash; the discourse names corpse-workers, bamboo-workers, "
+            "hunters, chariot-makers, and scavengers &mdash; poor, with little food or drink, life "
+            "hard; and ugly, deformed, sickly, without access to food, clothing, transport, "
+            "adornment, or lighting.",
+            "Light: born in an eminent family of aristocrats, brahmins, or householders &mdash; rich, "
+            "with gold, property, and grain; and attractive, of surpassing beauty, with access to all "
+            "the same goods.",
+            "So the two terms cover birth, wealth, health, appearance, and consumption. They are a "
+            "description of material and social position, and nothing in either description concerns "
+            "what the person is like."]),
+        ("The descriptions are of their period", [
+            "It should be said plainly that the specifics are those of a hierarchical society and "
+            "that the discourse states them without argument. The occupations listed as low are "
+            "listed as low; disability appears in the same clause as poverty; beauty appears in the "
+            "same clause as wealth.",
+            "A modern reader is right to notice that this is a period description and not a "
+            "revelation. The canon reflects the social world it was transmitted in, and this passage "
+            "reflects it more visibly than most.",
+            "What can be said in the discourse&rsquo;s favor is what it does with the material next, "
+            "and it is not nothing."]),
+        ("The grid&rsquo;s actual claim", [
+            "Having built two elaborate descriptions of circumstance, the discourse makes them "
+            "irrelevant to the outcome. In each of the four cells the only variable that decides the "
+            "destination is the same sentence: <em>they do bad things by way of body, speech, and "
+            "mind</em>, or <em>they do good things by way of body, speech, and mind</em>.",
+            "The corpse-worker who acts well goes to a heavenly realm. The wealthy brahmin who acts "
+            "badly goes to hell. The two mixed cells exist precisely to make that point, and the "
+            "discourse gives each of them the same space as the unmixed ones.",
+            "That is the operation being performed. The discourse takes the entire apparatus of birth "
+            "and class, sets it out at length in the terms its audience would recognize, and then "
+            "shows it doing no work at all in the thing that matters.",
+            "It is a limited kind of progress and it should be described as limited. The discourse "
+            "does not question the hierarchy, does not suggest the corpse-worker&rsquo;s poverty is "
+            "unjust, and treats low birth as the result of past conduct elsewhere in the collection. "
+            "What it does is deny that position determines destination."]),
+        ("Reading it against AN 4.5", [
+            "AN 4.5, the stream discourse, also gave four individuals in a scheme. There the "
+            "variables were internal &mdash; how far one had got against the current &mdash; and "
+            "birth did not appear.",
+            "The two schemes are worth holding together because they answer different questions. "
+            "AN 4.5 asked where a person is on the path. This asks whether where they started tells "
+            "you anything about it, and answers no.",
+            "For a reader in difficult circumstances, this is the more useful of the two, and it is "
+            "presumably why the scheme recurs. It says that the conditions a person did not choose "
+            "are not the conditions that decide."]),
+        ("The next discourse", [
+            "AN 4.86 gives the same fourfold structure in different words &mdash; sunk low sinking "
+            "lower, sunk low rising high, risen high sinking low, risen high rising higher &mdash; "
+            "and then abbreviates the definitions away entirely.",
+            "That abbreviation is informative. The compilers evidently considered the structure "
+            "portable enough that a second version needed only new labels, which suggests the shape "
+            "of the grid was the memorable part rather than the descriptions.",
+            "A reader who wants the argument rather than the period detail can take AN 4.86 and lose "
+            "very little."]),
+    ],
+    terms=[
+        ("tama / joti",
+         "&ldquo;darkness&rdquo; and &ldquo;light&rdquo; &mdash; defined here by circumstances of "
+         "birth, wealth, health, and appearance, not by character."),
+        ("nīca kula",
+         "&ldquo;low family&rdquo; &mdash; the occupations the discourse names, stated as low without "
+         "argument, in the manner of its period."),
+        ("ucca kula",
+         "&ldquo;eminent family&rdquo; &mdash; aristocrats, brahmins, or householders, rich in gold, "
+         "property, and grain."),
+        ("kāyena vācāya manasā",
+         "&ldquo;by way of body, speech, and mind&rdquo; &mdash; the single variable that decides the "
+         "destination in all four cells."),
+        ("sugati / duggati",
+         "&ldquo;a good place&rdquo; and &ldquo;a bad place&rdquo; &mdash; the two destinations, "
+         "independent of the two starting points."),
+    ],
+    text_intro=(
+        "The discourse in full: the four individuals, each defined. The ellipses are the "
+        "Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.85:1.1-1.6"),
+        ("h3", "Dark bound for darkness"),
+        ("p", "&sect;2", "an4.85:2.1-2.6"),
+        ("h3", "Dark bound for light"),
+        ("p", "&sect;3", "an4.85:3.1-3.6"),
+        ("h3", "Light bound for darkness"),
+        ("p", "&sect;4", "an4.85:4.1-4.6"),
+        ("h3", "Light bound for light"),
+        ("p", "&sect;5", "an4.85:5.1-5.7"),
+    ],
+    quiz=[
+        {"q": "What are the four individuals?",
+         "opts": [
+             "The four assemblies",
+             "Dark bound for darkness, dark bound for light, light bound for darkness, and light bound for light",
+             "Four kinds of ascetic",
+             "The four grounds of confidence"],
+         "correct": 1,
+         "expl": "A two-by-two grid of starting point and direction."},
+        {"q": "What do &lsquo;dark&rsquo; and &lsquo;light&rsquo; refer to?",
+         "opts": [
+             "Character",
+             "Circumstances &mdash; birth, wealth, health, appearance, and access to goods",
+             "Meditative states",
+             "Rebirth destinations"],
+         "correct": 1,
+         "expl": "Nothing in either description concerns what the person is like."},
+        {"q": "How does the guide characterize the descriptions?",
+         "opts": [
+             "As timeless",
+             "As of their period &mdash; a hierarchical society&rsquo;s specifics stated without argument, with disability in the same clause as poverty",
+             "As allegorical",
+             "As later additions"],
+         "correct": 1,
+         "expl": "The canon reflects the social world it was transmitted in."},
+        {"q": "What is the only variable that decides the destination?",
+         "opts": [
+             "Birth",
+             "Doing good or bad things by way of body, speech, and mind",
+             "Wealth",
+             "Health"],
+         "correct": 1,
+         "expl": "The same sentence in all four cells."},
+        {"q": "Why do the two mixed cells exist?",
+         "opts": [
+             "To complete the number",
+             "Precisely to make the point that starting point and destination are independent &mdash; and each gets the same space as the unmixed ones",
+             "To describe rare cases",
+             "For metrical balance"],
+         "correct": 1,
+         "expl": "The corpse-worker who acts well goes to a heavenly realm."},
+        {"q": "What operation does the guide say the discourse performs?",
+         "opts": [
+             "It abolishes caste",
+             "It sets out the apparatus of birth and class at length in the terms its audience would recognize, and then shows it doing no work in the thing that matters",
+             "It reverses the hierarchy",
+             "It ignores social position"],
+         "correct": 1,
+         "expl": "The elaboration is there so that its irrelevance can be shown."},
+        {"q": "How does the guide qualify that?",
+         "opts": [
+             "Not at all",
+             "As limited &mdash; the discourse does not question the hierarchy or suggest the poverty is unjust; what it does is deny that position determines destination",
+             "As complete",
+             "As accidental"],
+         "correct": 1,
+         "expl": "A limited kind of progress, described as limited."},
+        {"q": "How does this scheme differ from AN 4.5&rsquo;s?",
+         "opts": [
+             "It has more cells",
+             "AN 4.5&rsquo;s variables were internal &mdash; how far one had got against the current &mdash; and birth did not appear",
+             "It concerns monastics",
+             "It has no verses"],
+         "correct": 1,
+         "expl": "The two answer different questions."},
+        {"q": "Which is more useful to a reader in difficult circumstances, on the guide&rsquo;s account?",
+         "opts": [
+             "AN 4.5",
+             "This one &mdash; it says the conditions a person did not choose are not the conditions that decide",
+             "Neither",
+             "Both equally"],
+         "correct": 1,
+         "expl": "Presumably why the scheme recurs."},
+        {"q": "What does AN 4.86&rsquo;s abbreviation suggest?",
+         "opts": [
+             "That the text is damaged",
+             "That the compilers considered the structure portable enough to need only new labels &mdash; the shape of the grid was the memorable part",
+             "That AN 4.85 is later",
+             "That the definitions were lost"],
+         "correct": 1,
+         "expl": "A reader who wants the argument rather than the period detail can take AN 4.86."},
+    ],
+    marginalia=[
+        ("Four cells", [
+            "dark &rarr; darkness",
+            "dark &rarr; light",
+            "light &rarr; darkness",
+            "light &rarr; light",
+        ]),
+        ("What decides", [
+            "not birth",
+            "not wealth",
+            "not health or beauty",
+            "&mdash; body, speech, mind",
+        ]),
+        ("The operation", [
+            "set it all out",
+            "at length",
+            "&mdash; then show it decides nothing",
+        ]),
+        ("Cross-references", [
+            "AN 4.5 &middot; four in the stream",
+            "AN 4.86 &middot; next: the same grid, relabelled",
+            "AN 4.31 &middot; conditions one did not choose",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.85/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.86.html">AN 4.86 &middot; Sunk Low</a> &mdash; next in this series, the same '
+        "grid with different labels.",
+        '<a href="an-4.5.html">AN 4.5 &middot; With the Stream</a> &mdash; the other four-person '
+        "scheme in the Fours, sorted by attainment rather than birth.",
+        '<a href="an-4.31.html">AN 4.31 &middot; Situations</a> &mdash; on the conditions of a life '
+        "that one did not arrange.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.86 — Oṇatoṇatasutta
+# --------------------------------------------------------------------------- #
+page(
+    86, "Oṇatoṇata", "Sunk Low",
+    vagga=VAGGA_9,
+    meta_title="AN 4.86 — Sunk Low | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Oṇatoṇatasutta — one sunk "
+        "low who sinks lower, one sunk low who rises high, one risen high who sinks low, and one "
+        "risen high who rises higher. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.85&rsquo;s grid with new labels and the definitions abbreviated away"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "As with AN 4.85; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the grid stripped to its shape, "
+                       "and better for it"),
+    ],
+    why=(
+        "The same four cells as AN 4.85, with the metaphor changed from light to height: sunk low "
+        "sinking lower, sunk low rising high, risen high sinking low, risen high rising higher. The "
+        "definitions are abbreviated away entirely, which leaves the structure standing on its own "
+        "&mdash; and the structure is the part worth having."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four combinations of where a person is and where they are going, with the two "
+            "independent of each other."]),
+        ("The change of metaphor", [
+            "AN 4.85 used <em>tama</em> and <em>joti</em>, darkness and light. This uses "
+            "<em>oṇata</em> and <em>uṇṇata</em> &mdash; bent down and raised up, sunk and elevated.",
+            "The height metaphor is the better of the two for the argument being made, and it is "
+            "worth saying why. Light and dark are qualities a thing has; high and low are positions a "
+            "thing is in. The second is more obviously changeable, and the scheme is entirely about "
+            "change of position.",
+            "The verbs reinforce it. Not &lsquo;is low and becomes low&rsquo; but "
+            "<em>oṇatoṇata</em>, sunk-and-sinking &mdash; the second term is a movement rather than "
+            "a state. Each of the four labels is a position plus a direction."]),
+        ("What the abbreviation leaves", [
+            "The Pāli gives the four labels and then <em>&hellip;</em>, expecting the reciter to "
+            "supply AN 4.85&rsquo;s definitions with the new terms substituted. Sujato preserves the "
+            "gap.",
+            "The effect on a reader working from the page is accidental but real. Stripped of the "
+            "descriptions of corpse-workers, deformity, gold, and beauty, what remains is a bare "
+            "claim: a person&rsquo;s current position does not determine their direction, and all "
+            "four combinations occur.",
+            "That is the argument of AN 4.85 without the period material it was originally carried "
+            "in. A teacher who wants the point rather than the social detail can use this discourse "
+            "and lose nothing of the reasoning."]),
+        ("Where the labels can be applied", [
+            "Because the definitions are absent, the four labels are not tied to birth and wealth "
+            "here. Nothing in the discourse as it stands specifies what &lsquo;sunk low&rsquo; means.",
+            "It is worth being honest that this is a consequence of abbreviation rather than a "
+            "decision by the compilers. The intended content is AN 4.85&rsquo;s, and a reader should "
+            "know that.",
+            "But the grid does transfer, and its transferability is why it recurs. Any situation with "
+            "a current position and a direction of travel has these four cells, and the observation "
+            "that the two are independent is not specific to birth. It applies to a practice, a "
+            "community, an institution, or a life."]),
+        ("The four as a set of expectations", [
+            "The useful thing about a four-cell grid of this kind is that it names the cells people "
+            "tend not to expect.",
+            "Sunk low and sinking lower, and risen high and rising higher, are the outcomes intuition "
+            "predicts &mdash; things continue as they are going. The other two are the ones that "
+            "surprise, and the discourse gives them equal standing.",
+            "Both AN 4.85 and this discourse spend their structure insisting on the mixed cases. That "
+            "is the same move AN 4.53 made about marriages and AN 4.78 about gifts: refuse to let a "
+            "situation have one character, and name the combinations."]),
+        ("Closing the first half", [
+            "This discourse ends the Macalavagga&rsquo;s first half. What follows &mdash; AN 4.87 "
+            "through AN 4.90 &mdash; is a single set of four titles given four different definitions, "
+            "which is the largest exercise of that kind in the Fours so far.",
+            "The chapter is named after the first of those titles: <em>samaṇamacala</em>, the "
+            "confirmed ascetic. So the Macalavagga takes its name from its second half, and the four "
+            "hell-and-heaven discourses and the two grids are what precedes it.",
+            "That is a normal way for these chapters to be assembled. The name comes from a "
+            "distinctive term somewhere in the chapter, not from a theme running through it."]),
+    ],
+    terms=[
+        ("oṇata / uṇṇata",
+         "&ldquo;sunk low&rdquo; and &ldquo;risen high&rdquo; &mdash; bent down and raised up; "
+         "positions rather than qualities."),
+        ("oṇatoṇata",
+         "&ldquo;sunk low and sinking lower&rdquo; &mdash; each label is a position plus a direction, "
+         "with the second term a movement."),
+        ("tama / joti",
+         "&ldquo;darkness&rdquo; and &ldquo;light&rdquo; &mdash; AN 4.85&rsquo;s metaphor, replaced "
+         "here by height."),
+        ("peyyāla",
+         "the abbreviation that removes the definitions, leaving the structure standing on its own."),
+        ("samaṇamacala",
+         "&ldquo;the confirmed ascetic&rdquo; &mdash; the term the chapter is named for, which "
+         "appears only in its second half."),
+    ],
+    text_intro=(
+        "The discourse as the Pāli preserves it: the four labels, with the definitions of AN 4.85 "
+        "abbreviated away. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.86:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What are the four labels?",
+         "opts": [
+             "Dark and light in four combinations",
+             "Sunk low sinking lower, sunk low rising high, risen high sinking low, and risen high rising higher",
+             "The four ascetics",
+             "The four assemblies"],
+         "correct": 1,
+         "expl": "The same four cells as AN 4.85 with the metaphor changed."},
+        {"q": "Why does the guide call the height metaphor better for the argument?",
+         "opts": [
+             "It is more vivid",
+             "Light and dark are qualities a thing has; high and low are positions a thing is in, and the second is more obviously changeable",
+             "It is older",
+             "It avoids caste"],
+         "correct": 1,
+         "expl": "The scheme is entirely about change of position."},
+        {"q": "What do the verbs reinforce?",
+         "opts": [
+             "The permanence of the states",
+             "That each label is a position plus a direction &mdash; the second term is a movement rather than a state",
+             "The speed of change",
+             "The role of others"],
+         "correct": 1,
+         "expl": "Not &lsquo;is low and becomes low&rsquo;."},
+        {"q": "What does the Pāli abbreviate away?",
+         "opts": [
+             "The labels",
+             "AN 4.85&rsquo;s definitions, which the reciter supplies with the new terms substituted",
+             "The verses",
+             "The setting"],
+         "correct": 1,
+         "expl": "Sujato preserves the gap."},
+        {"q": "What is the accidental effect of that on a reader?",
+         "opts": [
+             "The discourse becomes unintelligible",
+             "What remains is a bare claim &mdash; that a person&rsquo;s current position does not determine their direction, and all four combinations occur",
+             "The labels change meaning",
+             "The grid collapses"],
+         "correct": 1,
+         "expl": "The argument of AN 4.85 without the period material it was carried in."},
+        {"q": "What does the guide say honestly about that effect?",
+         "opts": [
+             "That it was intended",
+             "That it is a consequence of abbreviation rather than a decision by the compilers, and a reader should know the intended content is AN 4.85&rsquo;s",
+             "That it improves the doctrine",
+             "That it is a translation choice"],
+         "correct": 1,
+         "expl": "The grid transfers nonetheless."},
+        {"q": "Why does the grid transfer?",
+         "opts": [
+             "Because it is short",
+             "Because any situation with a current position and a direction of travel has these four cells, and the independence of the two is not specific to birth",
+             "Because the labels are vague",
+             "Because it is recited often"],
+         "correct": 1,
+         "expl": "It applies to a practice, a community, an institution, or a life."},
+        {"q": "Which two cells does intuition predict?",
+         "opts": [
+             "The mixed ones",
+             "Sunk low sinking lower, and risen high rising higher &mdash; things continuing as they are going",
+             "None of them",
+             "All four equally"],
+         "correct": 1,
+         "expl": "The other two are the ones that surprise, and the discourse gives them equal standing."},
+        {"q": "What earlier discourses make the same move?",
+         "opts": [
+             "AN 4.81 and 4.82",
+             "AN 4.53 about marriages and AN 4.78 about gifts &mdash; refusing to let a situation have one character, and naming the combinations",
+             "AN 4.71 and 4.72",
+             "AN 4.43 and 4.44"],
+         "correct": 1,
+         "expl": "The structure insists on the mixed cases."},
+        {"q": "Where does the Macalavagga get its name?",
+         "opts": [
+             "From its first discourse",
+             "From <em>samaṇamacala</em>, the confirmed ascetic, a term that appears only in its second half",
+             "From the hell-and-heaven frame",
+             "From the two grids"],
+         "correct": 1,
+         "expl": "The name comes from a distinctive term somewhere in the chapter, not from a theme."},
+    ],
+    marginalia=[
+        ("Four labels", [
+            "sunk &rarr; sinking",
+            "sunk &rarr; rising",
+            "risen &rarr; sinking",
+            "risen &rarr; rising",
+        ]),
+        ("The better metaphor", [
+            "dark/light &middot; qualities",
+            "low/high &middot; positions",
+            "&mdash; and positions change",
+        ]),
+        ("The surprising cells", [
+            "sunk, and rising",
+            "risen, and sinking",
+            "&mdash; given equal standing",
+        ]),
+        ("Cross-references", [
+            "AN 4.85 &middot; the same grid, defined",
+            "AN 4.53 &middot; the same refusal, on marriage",
+            "AN 4.87 &middot; next: four ascetics",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.86/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.85.html">AN 4.85 &middot; From Darkness to Darkness</a> &mdash; the same grid '
+        "with its definitions in full.",
+        '<a href="an-4.87.html">AN 4.87 &middot; The Son</a> &mdash; next in this series, and the '
+        "first of the four discourses on the four ascetics.",
+        '<a href="an-4.78.html">AN 4.78 &middot; A Religious Donation</a> &mdash; the same refusal to '
+        "let a situation have a single character.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.87 — Puttasutta
+# --------------------------------------------------------------------------- #
+page(
+    87, "Putta", "The Son",
+    vagga=VAGGA_9,
+    meta_title="AN 4.87 — The Son | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Puttasutta — the confirmed "
+        "ascetic, the white lotus ascetic, the pink lotus ascetic, and the delicate ascetic of "
+        "ascetics, with the simile of the crown prince. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "Four titles defined, with a simile for the first and a first-person claim for the "
+                 "fourth"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The four-ascetic scheme appears across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; four titles whose definitions "
+                       "change in each of the next three discourses"),
+    ],
+    why=(
+        "Four titles for four kinds of practitioner &mdash; the confirmed ascetic, the white lotus, "
+        "the pink lotus, and the delicate ascetic of ascetics &mdash; and the Buddha claims the "
+        "fourth for himself in the first person. This is the first of four consecutive discourses "
+        "that give these same four titles four different sets of definitions, which makes the group "
+        "the largest exercise of its kind in the Fours."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four grades of practitioner, defined here by attainment and by conditions of life, with "
+            "the highest claimed by the teacher himself."]),
+        ("The four titles", [
+            "<em>Samaṇamacala</em>, the unshakable or confirmed ascetic. <em>Samaṇapuṇḍarīka</em>, "
+            "the white lotus ascetic. <em>Samaṇapaduma</em>, the pink lotus ascetic. "
+            "<em>Samaṇesu samaṇasukhumāla</em>, the delicate ascetic of ascetics.",
+            "The middle two use flower names, and the ranking follows Indian convention: the "
+            "<em>paduma</em>, the pink or red lotus, ranks above the <em>puṇḍarīka</em>, the white "
+            "one. A reader working from English alone will not know that the order is not "
+            "alphabetical or arbitrary.",
+            "<em>Sukhumāla</em>, delicate, is the interesting one. It normally describes someone "
+            "raised in luxury &mdash; the Buddha uses it of his own upbringing in the well-known "
+            "passage about the three palaces &mdash; and it is not obviously a compliment. Its use "
+            "here as the highest of four titles is deliberate and the discourse explains it."]),
+        ("The confirmed ascetic, and the prince", [
+            "The first is a trainee <em>who lives aspiring to the supreme sanctuary from the "
+            "yoke</em>, and the simile is the eldest son of an anointed king: not yet anointed "
+            "himself, but eligible, and <em>confirmed in the succession</em>.",
+            "The word doing the work is <em>macala</em>, unshakable or unmoving, and the simile "
+            "specifies what it means. The prince&rsquo;s position is not an attainment; it is a "
+            "settled fact about his future. Nothing further needs to happen for him to be next.",
+            "That is a precise image for the trainee. The confirmed ascetic has not arrived, and the "
+            "arrival is nonetheless not in question. AN 4.71 called such a practice a sure bet; "
+            "AN 4.76 said the last of five hundred mendicants was a stream-enterer, assured, destined "
+            "for awakening. This is the same claim in a royal image."]),
+        ("The two lotuses", [
+            "Both are arahants &mdash; both have realized the undefiled freedom of heart and freedom "
+            "by wisdom in this very life. What separates them is a single clause: whether they have "
+            "<em>direct meditative experience of the eight liberations</em>.",
+            "The eight liberations (<em>vimokkha</em>) are the sequence of formless and cessation "
+            "attainments. The distinction is therefore between an arahant with the full range of "
+            "meditative attainments and one without.",
+            "That distinction matters for a question students raise often: whether liberation "
+            "requires the deep absorptions. The discourse&rsquo;s answer is no &mdash; the white "
+            "lotus is liberated without them &mdash; and it is also that the two are not equal, since "
+            "the pink lotus ranks higher.",
+            "Reading it honestly, the collection recognizes both and ranks them, without suggesting "
+            "the lower one is incomplete in what matters. Freedom is stated in identical words for "
+            "both."]),
+        ("The delicate ascetic", [
+            "The fourth definition is not about attainment at all, or not only. It is a description "
+            "of a life: usually receiving requisites by invitation rather than having to ask; usually "
+            "treated agreeably by companions in body, speech, and mind; usually given agreeable "
+            "things; healthy, with the various unpleasant feelings from bile, phlegm, wind, weather, "
+            "carelessness, overexertion, or past deeds not usually arising; the four absorptions at "
+            "will; and the ending of defilements.",
+            "So the delicate ascetic is an arahant with jhāna whose external circumstances are also "
+            "easy &mdash; well supported, well treated, and in good health. That is why the word for "
+            "someone raised in luxury is the right one.",
+            "It is worth being honest that this is a strange thing to rank highest. Health and "
+            "agreeable treatment are not attainments and not entirely within anyone&rsquo;s control. "
+            "What the discourse appears to be describing is not a higher realization but the most "
+            "fortunate combination of realization and circumstance.",
+            "The list of causes of unpleasant feeling is worth noting on its own. Bile, phlegm, wind, "
+            "their conjunction, weather, carelessness, overexertion, and past deeds &mdash; eight "
+            "causes, of which past kamma is one among eight. That is a standing list in the canon and "
+            "it is a useful corrective to the idea that this tradition attributes all illness to past "
+            "action."]),
+        ("The first-person claim", [
+            "<em>And if anyone should be rightly called a delicate ascetic of ascetics, it&rsquo;s "
+            "me.</em> The Buddha then runs through all five conditions in the first person.",
+            "The claim is unusual in its content rather than its manner. He has claimed attainment in "
+            "the first person before &mdash; AN 4.8&rsquo;s four assurances, AN 4.35 under protest. "
+            "What is unusual here is claiming to be well fed, well treated, and healthy.",
+            "Read against AN 4.35, where he objected to Vassakāra putting such a claim in his mouth "
+            "and then confirmed it anyway, the difference is that here the claim is volunteered. What "
+            "he volunteers is not an attainment but a set of conditions, and the effect is to define "
+            "the fourth title by pointing at himself rather than by describing a type.",
+            "The next three discourses will define the same four titles without any of this, which "
+            "makes this version the outlier of the group and the one worth reading first."]),
+    ],
+    terms=[
+        ("samaṇamacala",
+         "&ldquo;confirmed ascetic&rdquo; &mdash; <em>macala</em> is unshakable; the simile is the "
+         "crown prince, whose position is a settled fact rather than an attainment."),
+        ("puṇḍarīka / paduma",
+         "white lotus and pink lotus &mdash; the pink ranks above the white by Indian convention, "
+         "which the English order does not show."),
+        ("sukhumāla",
+         "&ldquo;delicate&rdquo; &mdash; normally used of someone raised in luxury, including the "
+         "Buddha&rsquo;s own upbringing; here the highest of four titles."),
+        ("aṭṭha vimokkhā",
+         "&ldquo;the eight liberations&rdquo; &mdash; the formless and cessation attainments; the "
+         "single clause separating the two lotuses."),
+        ("pittasamuṭṭhāna",
+         "&ldquo;arising from bile&rdquo; &mdash; one of eight causes of unpleasant feeling, of which "
+         "past deeds is another; a corrective to attributing all illness to kamma."),
+    ],
+    text_intro=(
+        "The discourse in full: the four titles, each defined, and the first-person claim. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.87:1.1-1.3"),
+        ("h3", "The confirmed ascetic"),
+        ("p", "&sect;2", "an4.87:2.1-2.6"),
+        ("h3", "The white lotus"),
+        ("p", "&sect;3", "an4.87:3.1-3.3"),
+        ("h3", "The pink lotus"),
+        ("p", "&sect;4", "an4.87:4.1-4.3"),
+        ("h3", "The delicate ascetic"),
+        ("p", "&sect;5", "an4.87:5.1-5.8"),
+        ("h3", "If anyone should be so called"),
+        ("p", "&sect;6", "an4.87:6.1-6.6"),
+        ("p", "&sect;7", "an4.87:7.1-7.2"),
+    ],
+    quiz=[
+        {"q": "What are the four titles?",
+         "opts": [
+             "Stream-enterer, once-returner, non-returner, arahant",
+             "The confirmed ascetic, the white lotus ascetic, the pink lotus ascetic, and the delicate ascetic of ascetics",
+             "Monk, nun, layman, laywoman",
+             "The four grounds of confidence"],
+         "correct": 1,
+         "expl": "Four titles that the next three discourses will define differently."},
+        {"q": "Which lotus ranks higher, and how would an English reader know?",
+         "opts": [
+             "The white; the order shows it",
+             "The pink, by Indian convention &mdash; which the English order does not show",
+             "They are equal",
+             "The white, per the commentary"],
+         "correct": 1,
+         "expl": "Not alphabetical or arbitrary."},
+        {"q": "What is the simile for the confirmed ascetic?",
+         "opts": [
+             "A lotus rising from water",
+             "The eldest son of an anointed king &mdash; not yet anointed, but eligible and confirmed in the succession",
+             "A bull crossing a river",
+             "A sure throw at dice"],
+         "correct": 1,
+         "expl": "<em>Macala</em> means unshakable, and the simile specifies what it means."},
+        {"q": "What does the simile establish?",
+         "opts": [
+             "That the trainee is already awakened",
+             "That the position is not an attainment but a settled fact about the future &mdash; nothing further needs to happen for him to be next",
+             "That royalty is required",
+             "That the trainee must wait"],
+         "correct": 1,
+         "expl": "The same claim as AN 4.71&rsquo;s sure bet and AN 4.76&rsquo;s five hundred."},
+        {"q": "What separates the two lotuses?",
+         "opts": [
+             "Their ethical conduct",
+             "Whether they have direct meditative experience of the eight liberations",
+             "Their seniority",
+             "Whether they teach"],
+         "correct": 1,
+         "expl": "Both are arahants, with freedom stated in identical words."},
+        {"q": "What does that answer about whether liberation requires deep absorption?",
+         "opts": [
+             "That it does",
+             "That it does not &mdash; the white lotus is liberated without them &mdash; while also ranking the two, without suggesting the lower is incomplete in what matters",
+             "That the question is unanswerable",
+             "That absorption is a hindrance"],
+         "correct": 1,
+         "expl": "The collection recognizes both and ranks them."},
+        {"q": "How is the delicate ascetic defined?",
+         "opts": [
+             "By attainment alone",
+             "By a life &mdash; requisites received by invitation, agreeable treatment, health, the four absorptions at will, and the ending of defilements",
+             "By seniority",
+             "By teaching ability"],
+         "correct": 1,
+         "expl": "Which is why the word for someone raised in luxury is the right one."},
+        {"q": "What does the guide say honestly about that ranking?",
+         "opts": [
+             "That it is obviously correct",
+             "That it is strange &mdash; health and agreeable treatment are not attainments and not entirely within anyone&rsquo;s control; what is described is the most fortunate combination of realization and circumstance",
+             "That it is a later addition",
+             "That it applies only to the Buddha"],
+         "correct": 1,
+         "expl": "Not a higher realization."},
+        {"q": "What corrective does the list of causes of unpleasant feeling supply?",
+         "opts": [
+             "That illness is imaginary",
+             "That past deeds is one cause among eight &mdash; against the idea that the tradition attributes all illness to past action",
+             "That medicine is unnecessary",
+             "That health is a sign of attainment"],
+         "correct": 1,
+         "expl": "Bile, phlegm, wind, their conjunction, weather, carelessness, overexertion, past deeds."},
+        {"q": "What is unusual about the first-person claim?",
+         "opts": [
+             "That it is made at all",
+             "Its content &mdash; claiming to be well fed, well treated, and healthy, rather than claiming an attainment",
+             "That it is denied afterward",
+             "That it is made to a brahmin"],
+         "correct": 1,
+         "expl": "And here it is volunteered, unlike AN 4.35."},
+    ],
+    marginalia=[
+        ("Four titles", [
+            "confirmed",
+            "white lotus",
+            "pink lotus",
+            "delicate",
+        ]),
+        ("The prince", [
+            "not yet anointed",
+            "eligible",
+            "&mdash; confirmed in the succession",
+        ]),
+        ("Eight causes of pain", [
+            "bile, phlegm, wind",
+            "weather, carelessness",
+            "overexertion",
+            "&mdash; and past deeds, one of eight",
+        ]),
+        ("Cross-references", [
+            "AN 4.88 &middot; next: the same four by fetters",
+            "AN 4.71 &middot; the sure bet",
+            "AN 4.35 &middot; a first-person claim under protest",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.87/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.88.html">AN 4.88 &middot; Fetters</a> &mdash; next in this series, the same '
+        "four titles defined by the stages of the path.",
+        '<a href="an-4.35.html">AN 4.35 &middot; With Vassakāra</a> &mdash; the other place the '
+        "Buddha claims attainments in the first person.",
+        '<a href="an-4.71.html">AN 4.71 &middot; Effort</a> &mdash; on the practice whose outcome is '
+        "not in question.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.88 — Saṁyojanasutta
+# --------------------------------------------------------------------------- #
+page(
+    88, "Saṁyojana", "Fetters",
+    vagga=VAGGA_9,
+    meta_title="AN 4.88 — Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṁyojanasutta — the four "
+        "ascetics defined by the four stages of the path, from stream-enterer to arahant. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "The four titles of AN 4.87 redefined by the fetters abandoned at each stage"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The four stages defined by fetters are standard across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the clearest of the four "
+                       "definitions, and the standard statement of the stages"),
+    ],
+    why=(
+        "The same four titles, defined this time by the four stages of the path: stream-enterer, "
+        "once-returner, non-returner, arahant. This is the cleanest of the four versions, and it "
+        "makes the group&rsquo;s ranking explicit in a way AN 4.87 did not &mdash; but it also "
+        "produces a different scheme, and the difference is worth mapping."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The four ascetics are the four stages of the path, defined by the fetters abandoned at "
+            "each."]),
+        ("The four stages", [
+            "Confirmed ascetic: with the ending of three fetters, a stream-enterer, not liable to be "
+            "reborn in the underworld, assured, destined for awakening.",
+            "White lotus: with the ending of three fetters and the weakening of greed, hate, and "
+            "delusion, a once-returner, who comes back to this world once only.",
+            "Pink lotus: with the ending of the five lower fetters, reborn spontaneously, extinguished "
+            "there, not liable to return &mdash; the non-returner.",
+            "Delicate ascetic: the undefiled freedom of heart and freedom by wisdom realized in this "
+            "very life &mdash; the arahant.",
+            "The three fetters ended at stream-entry are identity view, doubt, and misapprehension of "
+            "precepts and observances; the five lower fetters add sensual desire and ill will. The "
+            "discourse does not enumerate them, assuming the reader knows."]),
+        ("How this differs from AN 4.87", [
+            "The two schemes do not line up, and it is worth setting them side by side.",
+            "AN 4.87: trainee, arahant without the eight liberations, arahant with them, arahant with "
+            "jhāna and easy circumstances. Three of the four are arahants.",
+            "AN 4.88: stream-enterer, once-returner, non-returner, arahant. One of the four is an "
+            "arahant.",
+            "Only the first and last titles land in similar places. The confirmed ascetic is a "
+            "trainee in both, and the delicate ascetic is an arahant in both. The two middle titles "
+            "name entirely different people.",
+            "This is not a contradiction to be resolved. It is the collection using a set of four "
+            "labels as a container and filling it twice. The labels are the constant; what they hold "
+            "is not."]),
+        ("What this version gains", [
+            "Two things.",
+            "First, it makes the ranking unambiguous. The AN 4.87 scheme had to rank three arahants "
+            "against each other, which required criteria &mdash; the eight liberations, health, "
+            "agreeable treatment &mdash; that are not obviously about liberation. This version ranks "
+            "by fetters abandoned, which is the collection&rsquo;s own primary scale.",
+            "Second, it makes the first title mean something more precise. AN 4.87&rsquo;s confirmed "
+            "ascetic was simply a trainee aspiring to the goal; here it is specifically a "
+            "stream-enterer, with the crown-prince simile of the previous discourse now attached to a "
+            "defined attainment.",
+            "That second point is the more useful. Read together, the two discourses say that the "
+            "prince who is confirmed in the succession is the stream-enterer, and the four attributes "
+            "of AN 4.76&rsquo;s five hundred mendicants &mdash; assured, destined for awakening "
+            "&mdash; are what the simile was describing."]),
+        ("The middle stages", [
+            "The once-returner and non-returner appear here without elaboration, and this is one of "
+            "the few places in the Fours where the full four-stage scheme is stated.",
+            "AN 4.5 gave the non-returner without the label &mdash; the <em>steadfast</em> individual "
+            "with the five lower fetters ended, reborn spontaneously, not liable to return &mdash; in "
+            "exactly the words used here. That earlier discourse is worth reading alongside, since it "
+            "sets the same attainment inside the stream image rather than the fetter scheme.",
+            "The once-returner is the stage the collection says least about, here and generally. What "
+            "is given is a weakening rather than an ending &mdash; greed, hate, and delusion "
+            "<em>weakened</em>, not gone &mdash; and one more return to this world. It is the only "
+            "stage defined partly by degree."]),
+        ("The group of four discourses", [
+            "AN 4.87 defined the titles by attainment and circumstance. This defines them by fetters. "
+            "AN 4.89 will define them by the eightfold and tenfold path. AN 4.90 will define them by "
+            "contemplation of the aggregates.",
+            "Four definitions of four titles is an unusual amount of repetition even for this "
+            "collection, and it suggests the titles mattered more than any particular content. They "
+            "are a way of saying &lsquo;four grades of practitioner&rsquo; that can be filled with "
+            "whatever scheme is at hand.",
+            "For a reader, the practical consequence is that these four discourses should be read as "
+            "a set and none of them taken as the definition. The honest summary is that the "
+            "collection has four titles and four ways of using them."]),
+    ],
+    terms=[
+        ("saṁyojana",
+         "&ldquo;fetter&rdquo; &mdash; the bonds abandoned progressively at each stage; the "
+         "discourse does not enumerate them, assuming the reader knows."),
+        ("sotāpanna",
+         "&ldquo;stream-enterer&rdquo; &mdash; three fetters ended; here identified with the "
+         "confirmed ascetic and the crown-prince simile."),
+        ("sakadāgāmī",
+         "&ldquo;once-returner&rdquo; &mdash; greed, hate, and delusion weakened rather than ended; "
+         "the only stage defined partly by degree."),
+        ("opapātika",
+         "&ldquo;reborn spontaneously&rdquo; &mdash; the non-returner&rsquo;s rebirth, in the same "
+         "words AN 4.5 used of the steadfast individual."),
+        ("cetovimutti paññāvimutti",
+         "&ldquo;freedom of heart and freedom by wisdom&rdquo; &mdash; the arahant&rsquo;s "
+         "attainment, and the fourth title here."),
+    ],
+    text_intro=(
+        "The discourse in full: the four titles defined by the stages. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.88:1.1-1.3"),
+        ("h3", "The confirmed ascetic"),
+        ("p", "&sect;2", "an4.88:2.1-2.3"),
+        ("h3", "The white lotus"),
+        ("p", "&sect;3", "an4.88:3.1-3.3"),
+        ("h3", "The pink lotus"),
+        ("p", "&sect;4", "an4.88:4.1-4.3"),
+        ("h3", "The delicate ascetic"),
+        ("p", "&sect;5", "an4.88:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How are the four titles defined here?",
+         "opts": [
+             "By meditative attainment",
+             "By the four stages of the path &mdash; stream-enterer, once-returner, non-returner, arahant",
+             "By circumstances of life",
+             "By the eightfold path"],
+         "correct": 1,
+         "expl": "Defined by the fetters abandoned at each."},
+        {"q": "How many of AN 4.87&rsquo;s four were arahants?",
+         "opts": [
+             "One",
+             "Three",
+             "Two",
+             "All four"],
+         "correct": 1,
+         "expl": "Against one in this discourse."},
+        {"q": "Which titles land in similar places in both schemes?",
+         "opts": [
+             "The two lotuses",
+             "The first and last &mdash; the confirmed ascetic is a trainee in both, and the delicate ascetic an arahant in both",
+             "None",
+             "All four"],
+         "correct": 1,
+         "expl": "The two middle titles name entirely different people."},
+        {"q": "How does the guide say the mismatch should be handled?",
+         "opts": [
+             "As a contradiction to resolve",
+             "As the collection using a set of four labels as a container and filling it twice &mdash; the labels are the constant",
+             "By preferring AN 4.88",
+             "By declaring one late"],
+         "correct": 1,
+         "expl": "What they hold is not constant."},
+        {"q": "What is the first thing this version gains?",
+         "opts": [
+             "Brevity",
+             "An unambiguous ranking &mdash; by fetters abandoned, the collection&rsquo;s own primary scale, rather than by criteria not obviously about liberation",
+             "A simile",
+             "A first-person claim"],
+         "correct": 1,
+         "expl": "AN 4.87 had to rank three arahants against each other."},
+        {"q": "What is the second?",
+         "opts": [
+             "A longer definition of the arahant",
+             "A more precise first title &mdash; specifically a stream-enterer, with AN 4.87&rsquo;s crown-prince simile now attached to a defined attainment",
+             "The eight liberations",
+             "The four absorptions"],
+         "correct": 1,
+         "expl": "Read together, the prince confirmed in the succession is the stream-enterer."},
+        {"q": "Which earlier discourse of the Fours gave the non-returner in these exact words?",
+         "opts": [
+             "AN 4.87",
+             "AN 4.5 &mdash; the steadfast individual, with the five lower fetters ended and reborn spontaneously",
+             "AN 4.76",
+             "AN 4.71"],
+         "correct": 1,
+         "expl": "Setting the same attainment inside the stream image rather than the fetter scheme."},
+        {"q": "What is distinctive about the once-returner&rsquo;s definition?",
+         "opts": [
+             "It is the longest",
+             "It is a weakening rather than an ending &mdash; the only stage defined partly by degree",
+             "It omits the fetters",
+             "It names a realm"],
+         "correct": 1,
+         "expl": "The stage the collection says least about, here and generally."},
+        {"q": "How do the four discourses of the group differ?",
+         "opts": [
+             "In audience",
+             "AN 4.87 by attainment and circumstance, AN 4.88 by fetters, AN 4.89 by the path factors, AN 4.90 by contemplation of the aggregates",
+             "In length only",
+             "In the titles used"],
+         "correct": 1,
+         "expl": "Four definitions of four titles."},
+        {"q": "What does the guide say that repetition suggests?",
+         "opts": [
+             "Editorial carelessness",
+             "That the titles mattered more than any particular content &mdash; a way of saying &lsquo;four grades of practitioner&rsquo; that can be filled with whatever scheme is at hand",
+             "That the definitions are equivalent",
+             "That three are spurious"],
+         "correct": 1,
+         "expl": "None of the four should be taken as the definition."},
+    ],
+    marginalia=[
+        ("Four stages", [
+            "stream-enterer",
+            "once-returner",
+            "non-returner",
+            "arahant",
+        ]),
+        ("Two schemes", [
+            "4.87 &middot; three arahants",
+            "4.88 &middot; one",
+            "&mdash; same labels, different content",
+        ]),
+        ("What it gains", [
+            "ranking by fetters",
+            "a defined first title",
+            "&mdash; the prince is the stream-enterer",
+        ]),
+        ("Cross-references", [
+            "AN 4.87 &middot; the same four by circumstance",
+            "AN 4.5 &middot; the non-returner in the stream image",
+            "AN 4.89 &middot; next: by the path factors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.88/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.87.html">AN 4.87 &middot; The Son</a> &mdash; the same four titles defined by '
+        "attainment and circumstance.",
+        '<a href="an-4.5.html">AN 4.5 &middot; With the Stream</a> &mdash; where the non-returner is '
+        "described in the same words without the label.",
+        '<a href="an-4.89.html">AN 4.89 &middot; Right View</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.89 — Sammādiṭṭhisutta
+# --------------------------------------------------------------------------- #
+page(
+    89, "Sammādiṭṭhi", "Right View",
+    vagga=VAGGA_9,
+    meta_title="AN 4.89 — Right View | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sammādiṭṭhisutta of the "
+        "Macalavagga — the four ascetics defined by the eight path factors and by the ten, with "
+        "right knowledge and right freedom added. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "The four titles redefined by path factors, eight and then ten"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The tenfold path appears across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the version that introduces the "
+                       "ten-factor path, which is worth knowing about"),
+    ],
+    why=(
+        "The four ascetics again, this time by path factors &mdash; and the discourse quietly "
+        "introduces two factors most readers will not have met: right knowledge and right freedom, "
+        "making a path of ten rather than eight. The confirmed ascetic has the eight; the two lotuses "
+        "have the ten. That is the whole distinction, and the two extra factors are the "
+        "discourse&rsquo;s real content."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The trainee has the eight path factors; the one who has finished has ten."]),
+        ("The eight and the ten", [
+            "The confirmed ascetic has right view, purpose, speech, action, livelihood, effort, "
+            "mindfulness, and immersion &mdash; the noble eightfold path.",
+            "The white and pink lotus ascetics have those eight plus <em>sammāñāṇa</em>, right "
+            "knowledge, and <em>sammāvimutti</em>, right freedom.",
+            "The tenfold path is standard in the canon but much less familiar than the eightfold, and "
+            "the two additional factors are not additional practices. They are what the eight arrive "
+            "at: the knowledge that the work is done, and the freedom itself.",
+            "So the difference between the first title and the second two is the difference between "
+            "having the path and having completed it. The eight are the road; the last two are having "
+            "got there and knowing it."]),
+        ("Why the tenfold path matters", [
+            "It resolves a question the eightfold path leaves open, and the question is real: if "
+            "right view is the first factor, what is the difference between the view of a beginner "
+            "and the view of an arahant?",
+            "The tenfold scheme answers by adding terms rather than by grading the existing ones. "
+            "Right view stays right view; what the arahant has in addition is knowledge and freedom, "
+            "which are not on the beginner&rsquo;s list at all.",
+            "The scheme also makes the path a description of a completed thing rather than only a set "
+            "of instructions. Eight factors are what one does; ten factors are what a finished "
+            "practitioner has. A reader who has met only the eightfold path has met the instructions "
+            "and not the description."]),
+        ("The two lotuses again", [
+            "As in AN 4.87, the two lotuses differ only in whether they have direct meditative "
+            "experience of the eight liberations. Both have the ten path factors.",
+            "That consistency across the group is worth noting. Whatever else changes between the "
+            "four versions, the distinction between white and pink lotus is the same in AN 4.87, "
+            "AN 4.89, and AN 4.90: the eight liberations, present or absent, in someone who is "
+            "otherwise complete.",
+            "Only AN 4.88 does something different, making the two lotuses the once-returner and "
+            "non-returner. That version is the outlier on this point, and a reader comparing the four "
+            "should notice that three of them agree."]),
+        ("The fourth title, abbreviated", [
+            "The delicate ascetic is given by pointing: <em>usually uses only what they&rsquo;ve been "
+            "invited to accept &hellip; And if anyone should be rightly called a delicate ascetic of "
+            "ascetics, it&rsquo;s me.</em>",
+            "The Pāli abbreviates AN 4.87&rsquo;s full definition to its first clause and its last, "
+            "keeping the first-person claim. A reciter supplies the middle.",
+            "That the first-person claim survives the abbreviation is informative. Of everything in "
+            "AN 4.87&rsquo;s long fourth definition, the part the compilers kept when compressing is "
+            "the sentence in which the Buddha applies the title to himself. It is evidently what the "
+            "title is for."]),
+        ("Reading the group so far", [
+            "Three of the four versions are now in place. The pattern that emerges is that the two "
+            "lotus titles are stable &mdash; two arahants distinguished by the eight liberations "
+            "&mdash; while the first title moves: a trainee in AN 4.87, a stream-enterer in AN 4.88, "
+            "someone with the eightfold path here.",
+            "Those three are compatible. A person with the eight path factors who is aspiring to the "
+            "goal and has entered the stream is one person described three ways.",
+            "What AN 4.90 will add is a fourth description of the same, and its distinctive "
+            "contribution is to define the lotuses by what they are actually doing rather than by "
+            "what they have attained."]),
+    ],
+    terms=[
+        ("sammāñāṇa",
+         "&ldquo;right knowledge&rdquo; &mdash; the ninth path factor; the knowledge that the work is "
+         "done, not an additional practice."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth factor, and the thing the other eight arrive "
+         "at."),
+        ("dasaṅgika magga",
+         "the tenfold path &mdash; standard in the canon but much less familiar than the eightfold; a "
+         "description of a completed practitioner rather than a set of instructions."),
+        ("aṭṭha vimokkhā",
+         "&ldquo;the eight liberations&rdquo; &mdash; the distinction between the two lotuses in "
+         "three of the four versions."),
+        ("samaṇasukhumāla",
+         "&ldquo;delicate ascetic&rdquo; &mdash; abbreviated here to its first clause and the "
+         "first-person claim, which is what survives compression."),
+    ],
+    text_intro=(
+        "The discourse in full: the four titles defined by path factors. The ellipses are the "
+        "Pāli&rsquo;s own abbreviation. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.89:1.1-1.3"),
+        ("h3", "The confirmed ascetic"),
+        ("p", "&sect;2", "an4.89:2.1-2.3"),
+        ("h3", "The white lotus"),
+        ("p", "&sect;3", "an4.89:3.1-3.3"),
+        ("h3", "The pink lotus"),
+        ("p", "&sect;4", "an4.89:4.1-4.3"),
+        ("h3", "The delicate ascetic"),
+        ("p", "&sect;5", "an4.89:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What does the confirmed ascetic have?",
+         "opts": [
+             "The ten path factors",
+             "The eight factors of the noble eightfold path",
+             "The eight liberations",
+             "The four absorptions"],
+         "correct": 1,
+         "expl": "The two lotuses have ten."},
+        {"q": "What two factors are added to make ten?",
+         "opts": [
+             "Right recollection and right energy",
+             "Right knowledge and right freedom",
+             "Right conduct and right resolve",
+             "Right faith and right giving"],
+         "correct": 1,
+         "expl": "<em>Sammāñāṇa</em> and <em>sammāvimutti</em>."},
+        {"q": "What kind of things are the two extra factors?",
+         "opts": [
+             "Additional practices",
+             "What the eight arrive at &mdash; the knowledge that the work is done, and the freedom itself",
+             "Preliminaries",
+             "Meditative attainments"],
+         "correct": 1,
+         "expl": "The eight are the road; the last two are having got there and knowing it."},
+        {"q": "What open question does the tenfold path resolve?",
+         "opts": [
+             "How long the path takes",
+             "What the difference is between the view of a beginner and the view of an arahant, if right view is the first factor",
+             "Whether jhāna is required",
+             "Whether lay people can practise"],
+         "correct": 1,
+         "expl": "It answers by adding terms rather than grading the existing ones."},
+        {"q": "What else does the tenfold scheme accomplish?",
+         "opts": [
+             "It shortens the path",
+             "It makes the path a description of a completed thing rather than only a set of instructions",
+             "It ranks the factors",
+             "It adds a stage"],
+         "correct": 1,
+         "expl": "A reader who has met only the eightfold path has met the instructions and not the description."},
+        {"q": "What distinguishes the two lotuses here?",
+         "opts": [
+             "The number of path factors",
+             "Whether they have direct meditative experience of the eight liberations &mdash; as in AN 4.87",
+             "Their ethical conduct",
+             "Their seniority"],
+         "correct": 1,
+         "expl": "Both have the ten path factors."},
+        {"q": "Which version of the group is the outlier on that point?",
+         "opts": [
+             "AN 4.87",
+             "AN 4.88, which makes the two lotuses the once-returner and non-returner",
+             "AN 4.89",
+             "AN 4.90"],
+         "correct": 1,
+         "expl": "Three of the four agree on the eight liberations."},
+        {"q": "How is the delicate ascetic given here?",
+         "opts": [
+             "In full",
+             "Abbreviated to its first clause and the first-person claim",
+             "By simile",
+             "It is omitted"],
+         "correct": 1,
+         "expl": "A reciter supplies the middle."},
+        {"q": "What does the guide draw from what survives the abbreviation?",
+         "opts": [
+             "That the definition was lost",
+             "That the part the compilers kept is the sentence in which the Buddha applies the title to himself &mdash; evidently what the title is for",
+             "That the title is unimportant",
+             "That the Pāli is damaged"],
+         "correct": 1,
+         "expl": "Of everything in AN 4.87&rsquo;s long fourth definition."},
+        {"q": "How do the first three versions&rsquo; first titles relate?",
+         "opts": [
+             "They contradict",
+             "They are compatible &mdash; a person with the eight path factors who is aspiring to the goal and has entered the stream is one person described three ways",
+             "Only one is correct",
+             "They describe three stages"],
+         "correct": 1,
+         "expl": "The two lotus titles are stable while the first moves."},
+    ],
+    marginalia=[
+        ("Eight and ten", [
+            "confirmed &middot; the eight",
+            "lotuses &middot; the ten",
+            "&mdash; road, and arrival",
+        ]),
+        ("The two added", [
+            "<span class=\"pali\">sammāñāṇa</span>right knowledge",
+            "<span class=\"pali\">sammāvimutti</span>right freedom",
+            "&mdash; not practices",
+        ]),
+        ("Stable and moving", [
+            "lotuses &middot; the same in three",
+            "first title &middot; moves",
+            "&mdash; and the three agree",
+        ]),
+        ("Cross-references", [
+            "AN 4.88 &middot; the same four by fetters",
+            "AN 4.72 &middot; right view among four",
+            "AN 4.90 &middot; next: by the aggregates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.89/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.88.html">AN 4.88 &middot; Fetters</a> &mdash; the same four titles by the '
+        "stages of the path.",
+        '<a href="an-4.72.html">AN 4.72 &middot; Right View</a> &mdash; the other discourse of the '
+        "Fours named for right view.",
+        '<a href="an-4.90.html">AN 4.90 &middot; Aggregates</a> &mdash; next in this series, and the '
+        "last discourse of the chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.90 — Khandhasutta
+# --------------------------------------------------------------------------- #
+page(
+    90, "Khandha", "Aggregates",
+    vagga=VAGGA_9,
+    meta_title="AN 4.90 — Aggregates | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Khandhasutta — the four "
+        "ascetics defined by contemplation of rise and fall in the five grasping aggregates. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_9),
+        ("Speakers", SPEAKER),
+        ("Form", "The four titles redefined by what the practitioner is doing"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Contemplation of rise and fall in the aggregates is standard across "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the last of four versions, and "
+                       "the one that describes an activity"),
+    ],
+    why=(
+        "The fourth and last version of the four ascetics, and the only one that defines them by "
+        "what the practitioner is <em>doing</em>. The white and pink lotus ascetics meditate "
+        "observing rise and fall in the five grasping aggregates. Not what they have attained, not "
+        "what fetters they have dropped &mdash; what they are engaged in."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The accomplished practitioner is the one contemplating the arising and ending of each of "
+            "the five aggregates."]),
+        ("The definition by activity", [
+            "<em>Such is form, such is the origin of form, such is the ending of form</em> &mdash; "
+            "and the same for feeling, perception, choices, and consciousness.",
+            "This is the formula AN 4.41 gave as the fourth way of developing immersion, the one that "
+            "leads to the ending of defilements. Here it defines the two lotus ascetics.",
+            "The change of grammatical kind is the point. AN 4.87 defined the middle titles by what "
+            "someone has realized; AN 4.88 by what they have abandoned; AN 4.89 by what they possess. "
+            "This defines them by what they are doing, in the present tense.",
+            "That is a different sort of criterion, and for a practitioner it is the most immediately "
+            "useful of the four. Attainments and fetters cannot be checked from where one is "
+            "standing. Whether one is currently watching the aggregates arise and cease can be."]),
+        ("The first title, changed again", [
+            "The confirmed ascetic here is <em>a trainee who hasn&rsquo;t achieved their heart&rsquo;s "
+            "desire, but lives aspiring to the supreme sanctuary from the yoke</em>.",
+            "That is AN 4.87&rsquo;s definition with a clause added: <em>appattamānasa</em>, one who "
+            "has not attained what the mind is set on. The phrase is a standard canonical description "
+            "of the trainee and it makes the incompleteness explicit where AN 4.87 left it implied.",
+            "So across the four versions the first title has been: a trainee aspiring; a "
+            "stream-enterer; one with the eight path factors; a trainee who has not yet attained. "
+            "Four descriptions of the same position, from four angles."]),
+        ("What the group amounts to", [
+            "With AN 4.90 the exercise is complete: four titles, four sets of definitions, and a "
+            "clear pattern.",
+            "The first title is always a trainee. The fourth is always an arahant, and in three of "
+            "four versions is defined by the Buddha pointing at himself. The two middle titles are "
+            "arahants distinguished by the eight liberations in three versions, and the two middle "
+            "path stages in one.",
+            "What the four versions share is not content but shape: a graded series from trainee to "
+            "complete, with a distinction drawn inside the completed category. What varies is the "
+            "criterion for every grade.",
+            "That is worth stating as the conclusion of the group. The collection is not offering "
+            "four definitions of one thing. It is offering one framework and demonstrating that "
+            "several different criteria can be fitted into it &mdash; which is a claim about the "
+            "framework, not about the criteria."]),
+        ("Why this version comes last", [
+            "The ordering of the four is not obviously accidental. AN 4.87 gives the titles with a "
+            "simile and a first-person claim; AN 4.88 gives the standard doctrinal scheme; AN 4.89 "
+            "gives the path factors; AN 4.90 gives the practice.",
+            "That is a movement from image, to doctrine, to structure, to activity &mdash; ending on "
+            "the one a reader can act on. Whether the compilers intended it, it is a good order to "
+            "read them in.",
+            "A teacher using the group might reverse it, starting with AN 4.90 and the question "
+            "&lsquo;are you doing this?&rsquo;, then supplying the other three as answers to what the "
+            "doing amounts to."]),
+        ("Closing the Macalavagga", [
+            "The chapter has spent itself on re-presentation: four ethical lists given a shared "
+            "consequence, one grid given two sets of labels, and one set of four titles given four "
+            "sets of definitions.",
+            "It contains almost no material that has not appeared elsewhere in the Fours, and this "
+            "guide has said so at each discourse rather than pretending otherwise.",
+            "What it does contain is a great deal of information about how the collection works "
+            "&mdash; how it stores, how it varies, how it indexes. For a reader who has come through "
+            "the first nine chapters in order, the Macalavagga is where the machinery becomes "
+            "visible, and that is worth one chapter of a reader&rsquo;s time even though it is worth "
+            "very little of their memory."]),
+    ],
+    terms=[
+        ("pañcupādānakkhandha",
+         "&ldquo;the five grasping aggregates&rdquo; &mdash; form, feeling, perception, choices, "
+         "consciousness; the object of the contemplation that defines the lotuses here."),
+        ("udayabbaya",
+         "&ldquo;rise and fall&rdquo; &mdash; the arising and ending of each aggregate; the practice "
+         "AN 4.41 named as leading to the ending of defilements."),
+        ("appattamānasa",
+         "&ldquo;who hasn&rsquo;t achieved their heart&rsquo;s desire&rdquo; &mdash; a standard "
+         "description of the trainee, making explicit what AN 4.87 left implied."),
+        ("anuttara yogakkhema",
+         "&ldquo;the supreme sanctuary from the yoke&rdquo; &mdash; what the trainee lives aspiring "
+         "to, in the vocabulary AN 4.10 set out."),
+        ("samaṇamacala",
+         "&ldquo;confirmed ascetic&rdquo; &mdash; described four ways across the group, always as a "
+         "trainee, and the name of the chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the four titles defined by contemplation of the aggregates. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.90:1.1-1.3"),
+        ("h3", "The confirmed ascetic"),
+        ("p", "&sect;2", "an4.90:2.1-2.3"),
+        ("h3", "The white lotus"),
+        ("p", "&sect;3", "an4.90:3.1-3.9"),
+        ("h3", "The pink lotus"),
+        ("p", "&sect;4", "an4.90:4.1-4.9"),
+        ("h3", "The delicate ascetic"),
+        ("p", "&sect;5", "an4.90:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "How are the two lotus ascetics defined here?",
+         "opts": [
+             "By the fetters they have ended",
+             "By meditating observing rise and fall in the five grasping aggregates",
+             "By the path factors they possess",
+             "By their circumstances"],
+         "correct": 1,
+         "expl": "The only version that defines them by what the practitioner is doing."},
+        {"q": "Where has that formula appeared before in the Fours?",
+         "opts": [
+             "AN 4.16",
+             "AN 4.41 &mdash; as the fourth way of developing immersion, the one leading to the ending of defilements",
+             "AN 4.75",
+             "AN 4.87"],
+         "correct": 1,
+         "expl": "Here it defines the two lotus ascetics."},
+        {"q": "Why does the guide call this the most immediately useful of the four criteria?",
+         "opts": [
+             "It is the shortest",
+             "Attainments and fetters cannot be checked from where one is standing; whether one is currently watching the aggregates arise and cease can be",
+             "It requires no teacher",
+             "It is the most doctrinal"],
+         "correct": 1,
+         "expl": "A criterion in the present tense."},
+        {"q": "What clause is added to the first title here?",
+         "opts": [
+             "&lsquo;With the ending of three fetters&rsquo;",
+             "&lsquo;Who hasn&rsquo;t achieved their heart&rsquo;s desire&rsquo;",
+             "&lsquo;With the eight path factors&rsquo;",
+             "&lsquo;Reborn spontaneously&rsquo;"],
+         "correct": 1,
+         "expl": "Making the incompleteness explicit where AN 4.87 left it implied."},
+        {"q": "How has the first title been described across the four versions?",
+         "opts": [
+             "Identically each time",
+             "A trainee aspiring; a stream-enterer; one with the eight path factors; a trainee who has not yet attained",
+             "As an arahant throughout",
+             "It is not defined in three of them"],
+         "correct": 1,
+         "expl": "Four descriptions of the same position, from four angles."},
+        {"q": "What do the four versions share?",
+         "opts": [
+             "Their content",
+             "Their shape &mdash; a graded series from trainee to complete, with a distinction drawn inside the completed category",
+             "Their length",
+             "Their similes"],
+         "correct": 1,
+         "expl": "What varies is the criterion for every grade."},
+        {"q": "What does the guide say the group amounts to?",
+         "opts": [
+             "Four definitions of one thing",
+             "One framework, demonstrated to accept several different criteria &mdash; a claim about the framework, not about the criteria",
+             "A contradiction",
+             "Four separate teachings"],
+         "correct": 1,
+         "expl": "The conclusion of the group."},
+        {"q": "What movement does the guide find in the ordering of the four?",
+         "opts": [
+             "From longest to shortest",
+             "From image, to doctrine, to structure, to activity &mdash; ending on the one a reader can act on",
+             "Chronological",
+             "None"],
+         "correct": 1,
+         "expl": "Whether or not the compilers intended it, a good order to read them in."},
+        {"q": "How might a teacher reverse it?",
+         "opts": [
+             "By starting with the fetters",
+             "By starting with AN 4.90 and the question &lsquo;are you doing this?&rsquo;, then supplying the other three as answers to what the doing amounts to",
+             "By starting with the first-person claim",
+             "By omitting AN 4.87"],
+         "correct": 1,
+         "expl": "The activity criterion is the one available from where a practitioner stands."},
+        {"q": "How does the guide sum up the Macalavagga?",
+         "opts": [
+             "As containing important new teaching",
+             "As almost entirely re-presentation &mdash; worth one chapter of a reader&rsquo;s time for what it shows about how the collection works, and very little of their memory",
+             "As the chapter&rsquo;s doctrinal core",
+             "As a late addition"],
+         "correct": 1,
+         "expl": "Where the machinery becomes visible."},
+    ],
+    marginalia=[
+        ("The activity", [
+            "such is form",
+            "such is its origin",
+            "such is its ending",
+            "&mdash; and so for five",
+        ]),
+        ("Four criteria", [
+            "4.87 &middot; realized",
+            "4.88 &middot; abandoned",
+            "4.89 &middot; possessed",
+            "4.90 &middot; doing",
+        ]),
+        ("The shape", [
+            "trainee &rarr; complete",
+            "with a line drawn inside",
+            "&mdash; the framework, not the content",
+        ]),
+        ("Cross-references", [
+            "AN 4.41 &middot; the same contemplation",
+            "AN 4.87 &middot; where the group began",
+            "AN 4.170 &middot; further into the Fours",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.90/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.41.html">AN 4.41 &middot; Ways of Developing Immersion Further</a> &mdash; '
+        "where this contemplation is named as what leads to the ending of defilements.",
+        '<a href="an-4.87.html">AN 4.87 &middot; The Son</a> &mdash; where the group of four begins.',
+        '<a href="an-4.170.html">AN 4.170 &middot; In Conjunction</a> &mdash; the next published page '
+        "in the Fours.",
+    ],
+)
