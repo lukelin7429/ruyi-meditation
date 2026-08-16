@@ -26683,3 +26683,1142 @@ page(
         "holds is owed to parents, which is what the misread clause of the formula is denying.",
     ],
 )
+
+
+page(
+    118, "Apaṇṇaka", "Sure-bet Dice",
+    vagga=VAGGA_12,
+    meta_title="AN 3.118 — Sure-bet Dice | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Apaṇṇakasutta — AN "
+        "3.117's three failures and accomplishments, with a gambling simile attached. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 3.117 with one simile added to each half"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; identical to its predecessor "
+                       "except for one image, and the image is worth the reading"),
+    ],
+    why=(
+        "The same three failures and three accomplishments as AN 3.117, with one sentence added to "
+        "each half: <em>it&rsquo;s like throwing sure-bet dice: they always fall the right side "
+        "up.</em> A gambling image, in a tradition that disapproves of gambling, used to say that "
+        "these particular outcomes are not a matter of chance."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The connection between how a person is and where they end up is not a gamble."]),
+        ("<em>Apaṇṇaka</em>", [
+            "The word means unfailing, incontrovertible, a sure thing. It is the title of a famous "
+            "discourse at MN 60, where it names an argument constructed so that it holds whichever "
+            "way an uncertain question turns out.",
+            "Here it is applied to dice. <em>Apaṇṇaka</em> dice always fall the right side up &mdash; "
+            "loaded dice, or a throw that cannot lose. That is a strange image for a tradition whose "
+            "precepts and lay advice consistently warn against gambling, and choosing it is not an "
+            "accident.",
+            "What the image says is that the outcome is already determined by the state of the thing "
+            "thrown. Nobody is watching to see how it lands, and no interpretation of the throw is "
+            "required. The dice are made a certain way and they land accordingly."]),
+        ("What the simile is doing", [
+            "AN 3.117 said that beings are reborn badly <em>because of</em> failure in ethics, mind, "
+            "or view, and reborn well because of accomplishment in the same three. This discourse "
+            "repeats that and then adds the dice.",
+            "The addition removes an ambiguity in the original. <em>Some sentient beings</em> are "
+            "reborn thus &mdash; which could be read as saying that failure sometimes has this "
+            "consequence. The dice say it is reliable.",
+            "That is worth being careful about, because the discourse is not claiming that every "
+            "detail of a rebirth is determined by the three, and the collection elsewhere is explicit "
+            "that results depend on more than one factor &mdash; AN 3.100&rsquo;s lump of salt turns "
+            "entirely on the difference between two people doing the same deed. What is claimed here "
+            "is a direction, held reliably: these three failures do not sometimes lead down."]),
+        ("Why gambling", [
+            "The choice of image deserves attention rather than being passed over. Dice appear in the "
+            "canon as an example of what a householder should not waste money on, and gambling is "
+            "named among the causes of ruin in DN 31&rsquo;s advice on lay life.",
+            "Using a loaded die to illustrate the reliability of kamma is therefore slightly "
+            "subversive, and it works precisely because the audience knows that ordinary dice are a "
+            "gamble. The point of the image is the contrast: this is the one throw where the outcome "
+            "is not in doubt.",
+            "It is also an image that assumes the audience knows what a rigged throw looks like. The "
+            "canon is generally comfortable drawing on the world its listeners actually lived in, "
+            "including its vices, and this is a small clear instance."]),
+        ("Reading the pair", [
+            "AN 3.117 and AN 3.118 are the same discourse with one image added, and the collection "
+            "has done this repeatedly &mdash; AN 3.109 and AN 3.110, AN 3.103 and AN 3.104, AN 3.37 "
+            "and AN 3.38.",
+            "Here the addition is a simile rather than a definition or a frame, which is a fourth "
+            "kind of variation. The doctrinal content does not change at all; what changes is how "
+            "certain the reader is meant to feel about it.",
+            "For a class the pair is a good demonstration of what a simile is for in this literature. "
+            "It adds no information. It settles a question of degree that the prose left open, and it "
+            "does so with an image that takes three seconds to understand."]),
+        ("Using it", [
+            "Teach AN 3.117 for the content and this one for the image, and give the image its "
+            "strangeness. A class asked to guess what a Buddhist text would compare the reliability "
+            "of moral consequence to will not guess loaded dice.",
+            "The usable point is the one the simile settles. Most people&rsquo;s working assumption "
+            "about consequences is probabilistic &mdash; that bad conduct usually catches up. The "
+            "discourse&rsquo;s claim is stronger and simpler, and worth stating so that a class can "
+            "decide whether they accept it."]),
+    ],
+    terms=[
+        ("apaṇṇaka",
+         "&ldquo;unfailing, a sure thing&rdquo; &mdash; also the title of MN 60, where it names an "
+         "argument that holds whichever way an uncertain question turns out."),
+        ("apaṇṇakā akkhā",
+         "&ldquo;sure-bet dice&rdquo; &mdash; dice that always fall the right side up. The outcome is "
+         "determined by the state of the thing thrown."),
+        ("vipatti",
+         "&ldquo;failure&rdquo; &mdash; in ethics, mind, and view, exactly as defined at AN 3.117."),
+        ("sampadā",
+         "&ldquo;accomplishment&rdquo; &mdash; the same three negated, and given the same simile."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the third failure, expounded here in the same formula as "
+         "AN 3.117, where it is gone through clause by clause."),
+    ],
+    text_intro=(
+        "The discourse in full, both halves. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three failures"),
+        ("p", "&sect;1", "an3.118:1.1-1.3"),
+        ("p", "&sect;2", "an3.118:2.1-2.3"),
+        ("p", "&sect;3", "an3.118:3.1-3.3"),
+        ("p", "&sect;4", "an3.118:4.1-4.8"),
+        ("h3", "Three accomplishments"),
+        ("p", "&sect;5", "an3.118:5.1-5.3"),
+        ("p", "&sect;6", "an3.118:6.1-6.3"),
+        ("p", "&sect;7", "an3.118:7.1-7.3"),
+        ("p", "&sect;8", "an3.118:8.1-8.8"),
+    ],
+    quiz=[
+        {"q": "What does this discourse add to AN 3.117?",
+         "opts": [
+             "A fourth failure",
+             "One simile to each half &mdash; sure-bet dice that always fall the right side up",
+             "A verse",
+             "A different definition of view"],
+         "correct": 1,
+         "expl": "The doctrinal content does not change at all."},
+        {"q": "What does <em>apaṇṇaka</em> mean?",
+         "opts": [
+             "&ldquo;Threefold&rdquo;",
+             "&ldquo;Unfailing, a sure thing&rdquo; &mdash; also the title of MN 60",
+             "&ldquo;Hidden&rdquo;",
+             "&ldquo;Fortunate&rdquo;"],
+         "correct": 1,
+         "expl": "At MN 60 it names an argument that holds whichever way an uncertain question turns out."},
+        {"q": "What does the dice image say?",
+         "opts": [
+             "That outcomes are random",
+             "That the outcome is already determined by the state of the thing thrown &mdash; no interpretation of the throw is required",
+             "That gambling is acceptable",
+             "That chance governs rebirth"],
+         "correct": 1,
+         "expl": "The dice are made a certain way and they land accordingly."},
+        {"q": "What ambiguity does the simile remove?",
+         "opts": [
+             "Which failures matter",
+             "That &ldquo;some sentient beings&rdquo; could be read as saying failure <em>sometimes</em> has this consequence",
+             "Whether view counts",
+             "Whether monastics are included"],
+         "correct": 1,
+         "expl": "The dice say it is reliable."},
+        {"q": "What is the discourse <em>not</em> claiming?",
+         "opts": [
+             "That the three failures lead down",
+             "That every detail of a rebirth is determined by the three &mdash; AN 3.100&rsquo;s lump of salt turns on the difference between two people doing the same deed",
+             "That view matters",
+             "That accomplishment leads up"],
+         "correct": 1,
+         "expl": "What is claimed is a direction, held reliably."},
+        {"q": "Why is the choice of image notable?",
+         "opts": [
+             "Because dice are rare",
+             "Because gambling is named among the causes of ruin in the canon&rsquo;s lay advice, and a loaded die is being used to illustrate the reliability of kamma",
+             "Because dice are expensive",
+             "Because dice are foreign"],
+         "correct": 1,
+         "expl": "Slightly subversive, and it works because the audience knows ordinary dice are a gamble."},
+        {"q": "What does the image assume about the audience?",
+         "opts": [
+             "That they gamble regularly",
+             "That they know what a rigged throw looks like",
+             "That they are monastics",
+             "That they are wealthy"],
+         "correct": 1,
+         "expl": "The canon is generally comfortable drawing on the world its listeners lived in, including its vices."},
+        {"q": "What kind of variation does this pair represent?",
+         "opts": [
+             "A changed definition",
+             "A changed frame",
+             "An added simile &mdash; a fourth kind, alongside the changed clause, changed frame, and changed definition seen earlier",
+             "A translation difference"],
+         "correct": 2,
+         "expl": "What changes is how certain the reader is meant to feel."},
+        {"q": "What does the guide say a simile is for in this literature?",
+         "opts": [
+             "Decoration",
+             "It adds no information; it settles a question of degree that the prose left open, in an image that takes three seconds to understand",
+             "Memorization",
+             "Filling out the recitation"],
+         "correct": 1,
+         "expl": "A good demonstration of the function."},
+        {"q": "What working assumption does the guide say the simile challenges?",
+         "opts": [
+             "That consequences are probabilistic &mdash; that bad conduct usually catches up",
+             "That consequences are immediate",
+             "That consequences are unknowable",
+             "That consequences are social"],
+         "correct": 0,
+         "expl": "The discourse&rsquo;s claim is stronger and simpler, and worth stating so a class can decide whether they accept it."},
+    ],
+    marginalia=[
+        ("The addition", [
+            "&ldquo;like throwing sure-bet dice:",
+            "they always fall",
+            "the right side up&rdquo;",
+        ]),
+        ("What it settles", [
+            "not: which failures",
+            "but: how reliably",
+        ]),
+        ("What it does not claim", [
+            "not every detail determined",
+            "&mdash; cf. AN 3.100",
+        ]),
+        ("Cross-references", [
+            "AN 3.117 &middot; the same, without the dice",
+            "AN 3.100 &middot; the same deed, different people",
+            "MN 60 &middot; the other <span class=\"pali\">apaṇṇaka</span>",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.118/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.117.html">AN 3.117 &middot; Failures and Accomplishments</a> &mdash; the same '
+        "content without the simile, with the wrong-view formula gone through clause by clause.",
+        '<a href="an-3.100.html">AN 3.100 &middot; A Lump of Salt</a> &mdash; for the limit on how '
+        "far this discourse&rsquo;s reliability claim reaches: the same deed lands differently "
+        "depending on who did it.",
+        '<a href="../majjhima-nikaya/mn-060.html">MN 60 &middot; Guaranteed</a> &mdash; the other '
+        "discourse named <em>apaṇṇaka</em>, where the word describes a way of reasoning that holds "
+        "whichever way an unsettled question turns out.",
+    ],
+)
+
+
+page(
+    119, "Kammanta", "Action",
+    vagga=VAGGA_12,
+    meta_title="AN 3.119 — Action | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kammantasutta — the same "
+        "three failures with livelihood in the middle position instead of mind. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three failures and three accomplishments, with the middle term replaced"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material on right livelihood is preserved throughout the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the third variation of one "
+                       "discourse, and the substitution is the content"),
+    ],
+    why=(
+        "The third version of the same discourse in three, and this time the middle term changes. "
+        "Where AN 3.117 and AN 3.118 had failure in <em>mind</em> &mdash; covetous and malicious "
+        "&mdash; this has failure in <em>livelihood</em>. Everything else is unchanged, and the "
+        "replacement moves the discourse from a person&rsquo;s inner state to how they earn money."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What a person does, how they make their living, and what they take to be true &mdash; "
+            "and failure in any of the three is enough."]),
+        ("The substitution", [
+            "Three discourses running on the same frame: failure in ethics, mind, and view; the same "
+            "with sure-bet dice; and now failure in <em>action</em>, <em>livelihood</em>, and view.",
+            "Two changes, and only one of them matters. <em>Ethics</em> has become <em>action</em>, "
+            "<em>kammanta</em>, with the identical definition &mdash; the seven courses of body and "
+            "speech. That is a change of label.",
+            "The middle term is the real change. Covetousness and malice are gone and "
+            "<em>ājīva</em>, livelihood, has taken their place. The discourse has moved from what a "
+            "person wants to how they are paid."]),
+        ("Right and wrong livelihood, undefined", [
+            "The definition given is circular and worth noticing: <em>it&rsquo;s when a noble "
+            "disciple has wrong livelihood and earns a living by wrong livelihood.</em> Nothing is "
+            "specified.",
+            "That is unusual for this collection, which normally spells out its terms, and it is the "
+            "one place a reader has to go elsewhere. The canon fills the gap in two ways: AN "
+            "5.177 names five trades a lay follower should not undertake &mdash; weapons, living "
+            "beings, meat, intoxicants, and poison &mdash; and the monastic texts treat wrong "
+            "livelihood as obtaining requisites by hinting, flattery, or false claims.",
+            "The word for the person is also worth noticing: <em>ariyasāvaka</em>, noble disciple, "
+            "which appears in the definition of livelihood and nowhere else in the discourse. The "
+            "other two failures are stated of anybody; this one is stated of a follower.",
+            "Whether that is significant or a scribal habit is not something the text settles. What "
+            "can be said is that livelihood is the one item on the list that depends on what a "
+            "community makes available, and the only one framed in terms of somebody inside a "
+            "tradition."]),
+        ("Why livelihood gets its own place", [
+            "In the eightfold path, right action and right livelihood are separate factors, and this "
+            "discourse preserves that separation. The distinction is that action covers what a person "
+            "does and livelihood covers what they do it <em>for</em> &mdash; the same act can be "
+            "blameless as an act and unacceptable as a trade.",
+            "That is a real distinction and it is worth drawing out for a class, because it is easy "
+            "to collapse. Selling something is not on any list of unwholesome courses of action. "
+            "Selling weapons is on the list of trades to be avoided. The difference is not in the "
+            "transaction but in what it supplies.",
+            "It also explains why livelihood can substitute for mind in this set. Both are about the "
+            "direction a person&rsquo;s life is pointed rather than about individual acts, and both "
+            "are invisible in any single moment. A person&rsquo;s trade, like their covetousness, is "
+            "a standing condition."]),
+        ("Reading the three together", [
+            "AN 3.117, AN 3.118, and AN 3.119 are one discourse in three versions, and taken as a "
+            "set they say something none of them says alone: that the third item, view, is constant "
+            "while the first two are variable.",
+            "Ethics or action; mind or livelihood. Both slots accept substitutions and the definitions "
+            "shift. The wrong-view formula is given identically in all three and is never abbreviated, "
+            "which in a collection that abbreviates freely is a signal.",
+            "For a class the exercise is to line the three up and find what does not move. The answer "
+            "is the longest and least convenient part of the material, which is generally how this "
+            "collection works."]),
+        ("Using it", [
+            "This is the discourse to teach on work, and its most useful feature is the empty "
+            "definition. A class asked to fill in <em>wrong livelihood</em> for themselves will "
+            "produce a more interesting list than the canon&rsquo;s five trades, and the exercise "
+            "makes the category live.",
+            "The one thing to insist on is the distinction the set preserves. The question is not "
+            "whether any individual act at work was wrong. It is what the work supplies, which is a "
+            "question about the whole of it and cannot be answered a day at a time."]),
+    ],
+    terms=[
+        ("kammanta",
+         "&ldquo;action&rdquo; &mdash; the relabeled first failure, with the identical definition AN "
+         "3.117 gives for ethics: the seven courses of body and speech."),
+        ("ājīva",
+         "&ldquo;livelihood&rdquo; &mdash; the middle term in this version, replacing mind. Defined "
+         "here only circularly."),
+        ("ariyasāvaka",
+         "&ldquo;noble disciple&rdquo; &mdash; the word used in the livelihood definition and nowhere "
+         "else in the discourse."),
+        ("micchājīva",
+         "&ldquo;wrong livelihood&rdquo; &mdash; specified elsewhere as five trades for laypeople, "
+         "and as obtaining requisites by hinting or false claims for monastics."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the third failure, given identically and without "
+         "abbreviation in all three versions of this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full, both halves. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three failures"),
+        ("p", "&sect;1", "an3.119:1.1-1.6"),
+        ("p", "&sect;2", "an3.119:2.1-2.3"),
+        ("p", "&sect;3", "an3.119:3.1-3.5"),
+        ("h3", "Three accomplishments"),
+        ("p", "&sect;4", "an3.119:4.1-4.6"),
+        ("p", "&sect;5", "an3.119:5.1-5.3"),
+        ("p", "&sect;6", "an3.119:6.1-6.5"),
+    ],
+    quiz=[
+        {"q": "What are the three failures in this version?",
+         "opts": [
+             "Ethics, mind, and view",
+             "Action, livelihood, and view",
+             "Body, speech, and mind",
+             "Giving, precepts, and meditation"],
+         "correct": 1,
+         "expl": "The middle term has changed."},
+        {"q": "Which of the two changes matters, and why?",
+         "opts": [
+             "The first &mdash; ethics to action is a substantive change",
+             "The second &mdash; ethics to action is only a change of label, since the definition is identical, while livelihood genuinely replaces mind",
+             "Both equally",
+             "Neither"],
+         "correct": 1,
+         "expl": "The discourse has moved from what a person wants to how they are paid."},
+        {"q": "How is wrong livelihood defined here?",
+         "opts": [
+             "By a list of five trades",
+             "Circularly &mdash; a noble disciple who has wrong livelihood and earns a living by it",
+             "By reference to the eightfold path",
+             "It is not mentioned"],
+         "correct": 1,
+         "expl": "Unusual for a collection that normally spells out its terms."},
+        {"q": "How does the canon fill the gap elsewhere?",
+         "opts": [
+             "It does not",
+             "AN 5.177 names five trades a lay follower should not undertake &mdash; weapons, living beings, meat, intoxicants, and poison &mdash; and the monastic texts treat wrong livelihood as obtaining requisites by hinting or false claims",
+             "Only in the Vinaya",
+             "Only in later commentaries"],
+         "correct": 1,
+         "expl": "The one place in this discourse where a reader has to go elsewhere."},
+        {"q": "What word appears in the livelihood definition and nowhere else?",
+         "opts": [
+             "<em>Ariyasāvaka</em>, noble disciple",
+             "<em>Bhikkhu</em>, mendicant",
+             "<em>Gahapati</em>, householder",
+             "<em>Puggala</em>, individual"],
+         "correct": 0,
+         "expl": "The other two failures are stated of anybody; this one of a follower."},
+        {"q": "What distinction does the guide draw between action and livelihood?",
+         "opts": [
+             "There is none",
+             "Action covers what a person does; livelihood covers what they do it <em>for</em> &mdash; the same act can be blameless as an act and unacceptable as a trade",
+             "Action is bodily and livelihood is mental",
+             "Action is lay and livelihood monastic"],
+         "correct": 1,
+         "expl": "Selling is on no list of unwholesome courses of action; selling weapons is on the list of trades to avoid."},
+        {"q": "Why can livelihood substitute for mind in this set?",
+         "opts": [
+             "Because both are unwholesome",
+             "Because both concern the direction a life is pointed rather than individual acts, and both are invisible in any single moment",
+             "Because both are optional",
+             "Because both are monastic"],
+         "correct": 1,
+         "expl": "A person&rsquo;s trade, like their covetousness, is a standing condition."},
+        {"q": "What do the three versions say as a set that none says alone?",
+         "opts": [
+             "That view is constant while the first two slots are variable",
+             "That livelihood is most important",
+             "That ethics can be omitted",
+             "That the order does not matter"],
+         "correct": 0,
+         "expl": "Ethics or action; mind or livelihood; and the wrong-view formula identical throughout."},
+        {"q": "What signal does the guide read in the wrong-view formula?",
+         "opts": [
+             "That it is a later addition",
+             "That it is never abbreviated, in a collection that abbreviates freely",
+             "That it is optional",
+             "That it is disputed"],
+         "correct": 1,
+         "expl": "The longest and least convenient part of the material is the part that does not move."},
+        {"q": "What exercise does the guide recommend?",
+         "opts": [
+             "Memorizing the five trades",
+             "Asking a class to fill in <em>wrong livelihood</em> for themselves, which produces a more interesting list and makes the category live",
+             "Comparing translations",
+             "Debating the wrong-view formula"],
+         "correct": 1,
+         "expl": "The empty definition is the discourse&rsquo;s most useful feature."},
+    ],
+    marginalia=[
+        ("Three versions", [
+            "3.117 &middot; ethics, mind, view",
+            "3.118 &middot; the same, with dice",
+            "3.119 &middot; action, livelihood, view",
+        ]),
+        ("What does not move", [
+            "the wrong-view formula",
+            "given in full, three times",
+            "&mdash; never abbreviated",
+        ]),
+        ("The distinction", [
+            "action &middot; what is done",
+            "livelihood &middot; what it is done for",
+        ]),
+        ("Cross-references", [
+            "AN 3.117 &middot; the first version",
+            "AN 3.118 &middot; the second",
+            "AN 3.120 &middot; three kinds of purity",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.119/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.117.html">AN 3.117 &middot; Failures and Accomplishments</a> &mdash; the first '
+        "of the three versions, where the shared wrong-view formula is explained clause by clause.",
+        '<a href="../digha-nikaya/dn-31.html">DN 31 &middot; Advice to Sigālaka</a> &mdash; the '
+        "canon&rsquo;s long treatment of lay working life, including what wealth is for and which "
+        "ways of losing it are named as ruin. The practical background to a discourse that leaves "
+        "livelihood undefined.",
+        '<a href="an-3.50.html">AN 3.50 &middot; A Master Thief</a> &mdash; for the '
+        "collection&rsquo;s sharpest treatment of a living made in a way that cannot be defended, "
+        "and of the protection that keeps it going.",
+    ],
+)
+
+
+page(
+    120, "Paṭhamasoceyya", "Purity (1st)",
+    vagga=VAGGA_12,
+    meta_title="AN 3.120 — Purity (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Soceyyasutta — "
+        "three kinds of purity, defined for anybody. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three items, each defined in one sentence"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on purity of body, speech, and mind is preserved "
+                              "in the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and the word is doing more "
+                       "than it looks"),
+    ],
+    why=(
+        "Three kinds of purity: of body, of speech, and of mind. Each is defined by the same material "
+        "the previous discourses have been using &mdash; the courses of action, redistributed across "
+        "the three doors. What makes it worth its own page is the word <em>purity</em>, which in the "
+        "religious world this discourse was spoken into meant something else entirely."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Purity of body is not killing, stealing, or sexual misconduct; of speech, four kinds of "
+            "speech avoided; of mind, contentment, kindness, and right view."]),
+        ("What <em>soceyya</em> meant to the audience", [
+            "The word is from <em>suci</em>, clean or pure, and in the brahmanical world it was a "
+            "ritual category. Purity was a matter of what one touched, ate, and washed in; "
+            "impurity was contracted by contact and removed by prescribed procedures.",
+            "This discourse takes the word and fills it entirely with conduct. Nothing in the three "
+            "definitions concerns washing, food, contact, birth, or ritual. The body is pure when it "
+            "does not kill, steal, or commit sexual misconduct; the speech when it is not false, "
+            "backbiting, harsh, or nonsensical; the mind when it is content, kind-hearted, and holds "
+            "right view.",
+            "This is the same move the Brāhmaṇavagga made repeatedly with <em>tevijja</em> and "
+            "<em>brāhmaṇa</em> and AN 3.74 made with the Jain <em>nijjarā</em>: keep the word, "
+            "replace what satisfies it. It is worth telling a class that the collection does this so "
+            "often that it should be expected."]),
+        ("Three doors, ten items", [
+            "The distribution is the standard one. Body gets three of the courses of action &mdash; "
+            "killing, stealing, sexual misconduct. Speech gets four &mdash; false, backbiting, harsh, "
+            "and nonsensical. Mind gets three &mdash; and here they are given positively: content, "
+            "kind-hearted, and holding right view.",
+            "Ten items across three doors, which is the canon&rsquo;s standard scheme of the courses "
+            "of action. AN 3.117 split the same ten differently, putting seven under ethics and "
+            "holding back covetousness and malice for the mind category and wrong view for its own. "
+            "Here all ten are present and sorted by door.",
+            "That is worth showing a class as an example of how this material is organized. The "
+            "items are fixed; the groupings are not, and each grouping is chosen for what the "
+            "discourse is doing."]),
+        ("Why the mental three are stated positively", [
+            "Body and speech are defined by what is not done. Mind is defined by what is present: "
+            "<em>content, kind-hearted, and has right view</em>.",
+            "That asymmetry runs through the canon and it is not accidental. A body can be pure by "
+            "abstention &mdash; a hand that does nothing steals nothing. A mind cannot be pure by "
+            "abstention, because it is never empty; something occupies it, and purity of mind is "
+            "therefore a matter of what is there rather than what is absent.",
+            "The Pāli behind <em>content</em> and <em>kind-hearted</em> is negative in form, as AN "
+            "3.117&rsquo;s guide noted, and the third item is unambiguously positive: right view is a "
+            "view, not the absence of one.",
+            "So the discourse&rsquo;s account of a pure mind is a mind holding three things, and it "
+            "is the shortest statement in the collection of why mental training cannot consist of "
+            "restraint alone."]),
+        ("Using it", [
+            "This is a good discourse for a first lesson on the ten courses of action, because it "
+            "sorts them by door and takes a minute. Most people who have met the five precepts have "
+            "not seen the full ten, and the speech list in particular is usually a surprise.",
+            "The historical point is worth making too, briefly. A tradition that redefines "
+            "<em>purity</em> as conduct is doing something to the religious vocabulary of its "
+            "society, and the same operation is visible in AN 3.31, AN 3.58, AN 3.74, and AN 3.93. "
+            "By this point in the collection a reader should be able to name the move."]),
+    ],
+    terms=[
+        ("soceyya",
+         "&ldquo;purity&rdquo; &mdash; from <em>suci</em>, clean. In the brahmanical world a ritual "
+         "category, concerning what one touched, ate, and washed in."),
+        ("kāyasoceyya",
+         "&ldquo;purity of body&rdquo; &mdash; defined by three abstentions: killing, stealing, "
+         "sexual misconduct."),
+        ("vacīsoceyya",
+         "&ldquo;purity of speech&rdquo; &mdash; four abstentions: false, backbiting, harsh, and "
+         "nonsensical speech."),
+        ("manosoceyya",
+         "&ldquo;purity of mind&rdquo; &mdash; three presences: content, kind-hearted, and holding "
+         "right view. Stated positively where the other two are negative."),
+        ("kammapatha",
+         "&ldquo;course of action&rdquo; &mdash; the ten items sorted here by door, and grouped "
+         "differently at AN 3.117 for a different purpose."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Purity of body"),
+        ("p", "&sect;1", "an3.120:1.1-1.6"),
+        ("h3", "Of speech"),
+        ("p", "&sect;2", "an3.120:2.1-2.3"),
+        ("h3", "Of mind"),
+        ("p", "&sect;3", "an3.120:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What did <em>soceyya</em> mean in the surrounding religious world?",
+         "opts": [
+             "Moral goodness",
+             "A ritual category &mdash; purity as a matter of what one touched, ate, and washed in, contracted by contact and removed by procedure",
+             "Meditative attainment",
+             "Social standing"],
+         "correct": 1,
+         "expl": "From <em>suci</em>, clean."},
+        {"q": "What does the discourse fill the word with?",
+         "opts": [
+             "Ritual observance",
+             "Conduct &mdash; nothing in the three definitions concerns washing, food, contact, birth, or ritual",
+             "Meditation",
+             "Study"],
+         "correct": 1,
+         "expl": "Keep the word, replace what satisfies it."},
+        {"q": "Which earlier discourses make the same move?",
+         "opts": [
+             "AN 3.58 with <em>tevijja</em>, AN 3.74 with the Jain <em>nijjarā</em>, and AN 3.93 with <em>paviveka</em>",
+             "AN 3.1 and AN 3.2",
+             "AN 3.30 and AN 3.31 only",
+             "None"],
+         "correct": 0,
+         "expl": "The collection does this so often that it should be expected."},
+        {"q": "How are the ten courses of action distributed?",
+         "opts": [
+             "Three to body, four to speech, three to mind",
+             "Five to body, five to speech",
+             "Four to body, three to speech, three to mind",
+             "Evenly"],
+         "correct": 0,
+         "expl": "The canon&rsquo;s standard scheme."},
+        {"q": "How did AN 3.117 group the same ten?",
+         "opts": [
+             "Identically",
+             "Differently &mdash; seven under ethics, covetousness and malice under mind, and wrong view in its own category",
+             "It used only five",
+             "It did not use them"],
+         "correct": 1,
+         "expl": "The items are fixed; the groupings are chosen for what each discourse is doing."},
+        {"q": "How are body and speech defined?",
+         "opts": [
+             "By what is present",
+             "By what is not done",
+             "By intention",
+             "By result"],
+         "correct": 1,
+         "expl": "A hand that does nothing steals nothing."},
+        {"q": "How is mind defined?",
+         "opts": [
+             "By abstention",
+             "By what is present &mdash; content, kind-hearted, and holding right view",
+             "By silence",
+             "By concentration"],
+         "correct": 1,
+         "expl": "The asymmetry runs through the canon and is not accidental."},
+        {"q": "Why can a mind not be pure by abstention?",
+         "opts": [
+             "Because it is uncontrollable",
+             "Because it is never empty &mdash; something occupies it, so purity of mind is a matter of what is there",
+             "Because abstention is difficult",
+             "Because thoughts are not actions"],
+         "correct": 1,
+         "expl": "The shortest statement in the collection of why mental training cannot consist of restraint alone."},
+        {"q": "Which of the three mental items is unambiguously positive in form?",
+         "opts": [
+             "Contentment",
+             "Kind-heartedness",
+             "Right view &mdash; a view, not the absence of one",
+             "None"],
+         "correct": 2,
+         "expl": "The other two render Pāli that is negative in form."},
+        {"q": "Why does the guide recommend this for a first lesson on the courses of action?",
+         "opts": [
+             "Because it is famous",
+             "Because it sorts them by door and takes a minute &mdash; and most people who know the five precepts have not seen the full ten",
+             "Because it has a simile",
+             "Because it is early in the chapter"],
+         "correct": 1,
+         "expl": "The speech list in particular is usually a surprise."},
+    ],
+    marginalia=[
+        ("Three doors", [
+            "body &middot; three abstentions",
+            "speech &middot; four",
+            "mind &middot; three presences",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">soceyya</span>purity",
+            "ritual, in the surrounding world",
+            "&mdash; refilled with conduct",
+        ]),
+        ("The asymmetry", [
+            "body and speech &middot; what is not done",
+            "mind &middot; what is there",
+        ]),
+        ("Cross-references", [
+            "AN 3.117 &middot; the same ten, grouped otherwise",
+            "AN 3.121 &middot; the same three, for a mendicant",
+            "AN 3.93 &middot; another word refilled",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.120/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.121.html">AN 3.121 &middot; Purity (2nd)</a> &mdash; the same three kinds of '
+        "purity restated for a mendicant, where purity of mind becomes something else entirely.",
+        '<a href="an-3.117.html">AN 3.117 &middot; Failures and Accomplishments</a> &mdash; for the '
+        "same ten courses of action grouped for a different purpose, and for the wrong-view formula "
+        "that stands behind this discourse&rsquo;s third item.",
+        '<a href="an-3.58.html">AN 3.58 &middot; With Tikaṇṇa</a> &mdash; for the clearest instance '
+        "of the move this discourse makes on the word <em>purity</em>: a term of the surrounding "
+        "religion kept and refilled.",
+    ],
+)
+
+
+page(
+    121, "Dutiyasoceyya", "Purity (2nd)",
+    vagga=VAGGA_12,
+    meta_title="AN 3.121 — Purity (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Soceyyasutta — the "
+        "same three kinds of purity for a mendicant, with the five hindrances known as they come "
+        "and go. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "The three of AN 3.120 restated, with the third replaced by a long formula, and one "
+                 "verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The formula for knowing the hindrances as they arise and cease is "
+                              "preserved in the Chinese Āgamas and stands in the mindfulness "
+                              "discourses of both traditions; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the third definition is a whole "
+                       "meditation instruction"),
+    ],
+    why=(
+        "The same three kinds of purity, now for a mendicant. Body and speech change slightly &mdash; "
+        "sexual misconduct becomes sex &mdash; and the third is replaced entirely. Purity of mind is "
+        "no longer contentment, kindness, and right view. It is knowing, for each of the five "
+        "hindrances, whether it is present, how it arises, how it is given up, and how it does not "
+        "arise again."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For a mendicant, a pure mind is not one with the right contents but one that knows what "
+            "its contents are doing."]),
+        ("The two small changes", [
+            "Purity of body: <em>doesn&rsquo;t kill living creatures, steal, or have sex.</em> AN "
+            "3.120 said sexual misconduct; this says sex. That is the difference between the third "
+            "precept and the celibacy of a monastic, and the discourse marks it with one word.",
+            "Purity of speech is identical in both versions &mdash; the same four kinds of speech "
+            "avoided. Speech is the one door where the standard does not change between a layperson "
+            "and a monastic, which is worth noticing and is easy to miss.",
+            "Everything else in the pair turns on the third definition."]),
+        ("The formula, and what kind of instruction it is", [
+            "For each of the five hindrances the same four things are known: whether it is present; "
+            "whether it is absent; how it arises; how, once arisen, it is given up; and how, once "
+            "given up, it does not arise again.",
+            "This is the formula of the fourth establishment of mindfulness, and it appears in the "
+            "long mindfulness discourses in exactly this shape. A reader who knows those texts will "
+            "recognize it immediately; a reader who does not should be told that this two-line "
+            "passage is a complete meditation instruction in compressed form.",
+            "The five are sensual desire, ill will, dullness and drowsiness, restlessness and "
+            "remorse, and doubt &mdash; the same five the Udaya verse walked through at AN 3.33 and "
+            "the same five AN 3.57 named as given up by somebody worth giving to.",
+            "What the formula asks for is not their absence. The first clause is <em>when they have "
+            "sensual desire in them they understand &lsquo;I have sensual desire in me&rsquo;</em>, "
+            "which describes a mendicant with a hindrance present and counts it as purity of mind so "
+            "long as they know it."]),
+        ("Why that counts as purity", [
+            "This is the substantive claim and it deserves to be stated plainly, because it is "
+            "surprising. AN 3.120 defined purity of mind by contents: contentment, kindness, right "
+            "view. This one defines it by knowledge of contents, including bad ones.",
+            "The two definitions are not in conflict and they are not the same. The lay version "
+            "describes a mind that is in a good state; the monastic version describes a mind that is "
+            "accurately observed. A mendicant with sensual desire present who knows it is present, "
+            "knows how it arose, knows how it is given up, and knows how it stays given up satisfies "
+            "this definition.",
+            "That is a considerable relief to anybody practicing, and it should be given as one. The "
+            "standard is not an empty mind. It is a mind whose weather is being watched with enough "
+            "precision to answer four questions about it.",
+            "It is also consistent with AN 3.86, where somebody at every stage of attainment still "
+            "breaks lesser and minor rules, and with AN 3.102, where the instruction is to notice "
+            "what the mind is doing and respond rather than to hold it in a state."]),
+        ("The verse", [
+            "<em>Purity of body, purity of speech, and undefiled purity of heart. A pure one, blessed "
+            "with purity, has washed off all bad things, they say.</em>",
+            "<em>Ninhātapāpaka</em> &mdash; one who has washed off what is bad. The verse ends the "
+            "discourse by returning to the bathing metaphor that the word <em>soceyya</em> came from, "
+            "after the prose has spent its length replacing the metaphor with conduct and attention.",
+            "That is a characteristic ending. The image is kept and used, having been given a "
+            "different content; the reader who has followed the prose knows that the washing in "
+            "question is not done with water."]),
+        ("Using it", [
+            "Teach the pair AN 3.120 and AN 3.121 together and let the third definition carry the "
+            "lesson. For a lay audience the first version applies; for anyone practicing meditation, "
+            "the second is the more useful, and its four questions can be run on a hindrance in a "
+            "sitting.",
+            "The relief in the definition is the part worth spelling out. Many people practicing "
+            "conclude that a session in which a hindrance was present was a failure. This discourse "
+            "calls a mind with a hindrance in it pure, provided the four things are known about it."]),
+    ],
+    terms=[
+        ("abrahmacariyā",
+         "&ldquo;sex&rdquo; &mdash; where AN 3.120 has sexual misconduct. The one word marking the "
+         "difference between the third precept and monastic celibacy."),
+        ("pañca nīvaraṇāni",
+         "&ldquo;the five hindrances&rdquo; &mdash; sensual desire, ill will, dullness and drowsiness, "
+         "restlessness and remorse, and doubt."),
+        ("santaṁ vā ajjhattaṁ",
+         "&ldquo;present in oneself&rdquo; &mdash; the first thing known about each hindrance, which "
+         "is why the definition does not require their absence."),
+        ("anuppādo hoti",
+         "&ldquo;how it does not arise again&rdquo; &mdash; the fourth of the four things known, and "
+         "the one that makes the formula a complete instruction."),
+        ("ninhātapāpaka",
+         "&ldquo;one who has washed off what is bad&rdquo; &mdash; the verse&rsquo;s closing image, "
+         "returning to the bathing metaphor the word <em>purity</em> came from."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Body and speech"),
+        ("p", "&sect;1", "an3.121:1.1-1.6"),
+        ("p", "&sect;2", "an3.121:2.1-2.3"),
+        ("h3", "Purity of mind"),
+        ("p", "&sect;3", "an3.121:3.1-3.8"),
+        ("h3", "In verse"),
+        ("p", "&sect;4", "an3.121:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What one word marks the difference between the lay and monastic versions of purity of body?",
+         "opts": [
+             "&ldquo;Sexual misconduct&rdquo; becomes &ldquo;sex&rdquo;",
+             "&ldquo;Killing&rdquo; becomes &ldquo;harming&rdquo;",
+             "&ldquo;Stealing&rdquo; becomes &ldquo;taking&rdquo;",
+             "Nothing changes"],
+         "correct": 0,
+         "expl": "The difference between the third precept and monastic celibacy."},
+        {"q": "What is notable about purity of speech across the two versions?",
+         "opts": [
+             "It is longer for monastics",
+             "It is identical &mdash; the one door where the standard does not change between a layperson and a monastic",
+             "It is omitted for monastics",
+             "It adds a fifth item"],
+         "correct": 1,
+         "expl": "Worth noticing, and easy to miss."},
+        {"q": "What four things are known about each hindrance?",
+         "opts": [
+             "Its name, cause, cure, and result",
+             "Whether it is present or absent; how it arises; how it is given up; and how it does not arise again",
+             "Its strength, duration, frequency, and object",
+             "Whether it is bodily or mental, gross or subtle"],
+         "correct": 1,
+         "expl": "The formula of the fourth establishment of mindfulness."},
+        {"q": "What does the formula <em>not</em> require?",
+         "opts": [
+             "Attention",
+             "The absence of the hindrances &mdash; the first clause describes a mendicant with one present who knows it",
+             "Knowledge of how they arise",
+             "Knowledge of how they cease"],
+         "correct": 1,
+         "expl": "And it counts that as purity of mind."},
+        {"q": "How do the two definitions of purity of mind differ?",
+         "opts": [
+             "They are the same",
+             "The lay version defines it by contents &mdash; contentment, kindness, right view; the monastic version by knowledge of contents, including bad ones",
+             "One is longer",
+             "One applies only to men"],
+         "correct": 1,
+         "expl": "Not in conflict, and not the same."},
+        {"q": "Why does the guide call the definition a relief?",
+         "opts": [
+             "Because it is shorter",
+             "Because the standard is not an empty mind but a mind whose weather is watched precisely enough to answer four questions about it",
+             "Because it excuses hindrances",
+             "Because it applies only to monastics"],
+         "correct": 1,
+         "expl": "And it should be given as one."},
+        {"q": "Which discourses is that consistent with?",
+         "opts": [
+             "AN 3.86, where somebody at every stage still breaks minor rules, and AN 3.102, where the instruction is to notice and respond rather than to hold a state",
+             "AN 3.1 and AN 3.2",
+             "AN 3.70 and AN 3.71",
+             "None"],
+         "correct": 0,
+         "expl": "The collection is consistent on this."},
+        {"q": "Which five are the hindrances?",
+         "opts": [
+             "Greed, hate, delusion, conceit, and doubt",
+             "Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt",
+             "Killing, stealing, lying, drinking, and sex",
+             "View, doubt, observance, desire, and ill will"],
+         "correct": 1,
+         "expl": "The same five the Udaya verse walks through at AN 3.33."},
+        {"q": "What does the closing verse return to?",
+         "opts": [
+             "The three doors",
+             "The bathing metaphor the word <em>purity</em> came from &mdash; one who has washed off what is bad",
+             "The hindrances",
+             "The monastic code"],
+         "correct": 1,
+         "expl": "The image is kept and used, having been given a different content."},
+        {"q": "What conclusion does the guide say many practitioners wrongly draw?",
+         "opts": [
+             "That meditation requires seclusion",
+             "That a session in which a hindrance was present was a failure &mdash; where this discourse calls such a mind pure, provided four things are known about it",
+             "That hindrances cannot be removed",
+             "That purity is a ritual matter"],
+         "correct": 1,
+         "expl": "The four questions can be run on a hindrance in a sitting."},
+    ],
+    marginalia=[
+        ("Two small changes", [
+            "misconduct &rarr; sex",
+            "speech &mdash; unchanged",
+        ]),
+        ("Four things known", [
+            "present, or not",
+            "how it arises",
+            "how it is given up",
+            "how it does not arise again",
+        ]),
+        ("The claim", [
+            "not: a mind without hindrances",
+            "but: a mind that knows them",
+        ]),
+        ("Cross-references", [
+            "AN 3.120 &middot; the lay version",
+            "AN 3.102 &middot; notice and respond",
+            "AN 3.33 &middot; the same five, in verse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.121/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.120.html">AN 3.120 &middot; Purity (1st)</a> &mdash; the lay version, where '
+        "purity of mind is defined by contents rather than by knowledge of them.",
+        '<a href="../majjhima-nikaya/mn-010.html">MN 10 &middot; Mindfulness Meditation</a> &mdash; '
+        "where the formula this discourse compresses into two lines is set out as one of the four "
+        "establishments of mindfulness, with the five hindrances treated one at a time.",
+        '<a href="an-3.102.html">AN 3.102 &middot; Basis</a> &mdash; for the same working principle '
+        "in a meditation instruction: notice what is actually happening and respond to it, rather "
+        "than holding the mind in a state.",
+    ],
+)
+
+
+page(
+    122, "Moneyya", "Sagacity",
+    vagga=VAGGA_12,
+    meta_title="AN 3.122 — Sagacity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Moneyyasutta — three "
+        "kinds of sagacity, and the word behind the Buddha's own clan title. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three items in the shape of AN 3.121, with the third replaced again, and one verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on the three kinds of sagacity is preserved in the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and the title word is the "
+                       "content"),
+    ],
+    why=(
+        "The same three doors again, with a different word over them: sagacity of body, speech, and "
+        "mind. Body and speech are defined exactly as in AN 3.121, and sagacity of mind is the "
+        "realization of freedom in this very life. The interest is entirely in the word "
+        "<em>moneyya</em>, which is the noun behind <em>muni</em> &mdash; the sage of "
+        "<em>Sākyamuni</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Sagacity of body and speech is the same conduct as purity; sagacity of mind is being "
+            "finished."]),
+        ("The word", [
+            "<em>Moneyya</em> is the abstract noun from <em>muni</em>, sage. <em>Muni</em> in turn is "
+            "connected in the tradition with <em>mona</em>, silence &mdash; a sage as one who is "
+            "silent, and the connection is felt in the Pāli whether or not it is etymologically "
+            "sound.",
+            "The word matters because it is not a Buddhist coinage. <em>Muni</em> was the general "
+            "Indian word for a sage of the renunciate kind, older than this tradition and shared with "
+            "others. And it is the second half of the epithet <em>Sākyamuni</em>, the sage of the "
+            "Sakyans, which is how East Asia knows the Buddha: 釋迦牟尼.",
+            "So a class reading this discourse in Chinese is reading a definition of the second half "
+            "of the name they say every day. That is worth pointing out, and it takes a sentence."]),
+        ("Three kinds", [
+            "Sagacity of body: not killing, stealing, or having sex &mdash; identical to AN "
+            "3.121&rsquo;s purity of body, monastic version.",
+            "Sagacity of speech: not using speech that is false, backbiting, harsh, or nonsensical "
+            "&mdash; identical again.",
+            "Sagacity of mind: <em>a mendicant realizes the undefiled freedom of heart and freedom by "
+            "wisdom in this very life, and lives having realized it with their own insight due to the "
+            "ending of defilements.</em> The formula for arahantship.",
+            "So the discourse is AN 3.121 with the third definition raised to the top. Where purity "
+            "of mind was knowing the hindrances as they came and went, sagacity of mind is being done."]),
+        ("The set of three discourses", [
+            "AN 3.120, AN 3.121, and AN 3.122 run the same three doors with three different third "
+            "terms: right view and a good heart; knowledge of the hindrances; and liberation.",
+            "Read in order they form an ascent, and the first two doors do not move. A layperson, a "
+            "practicing mendicant, and an arahant are described as doing exactly the same things with "
+            "their bodies and their speech.",
+            "That is the point of the set and it is worth stating. What changes between a decent "
+            "householder and a finished practitioner, on this account, is not their conduct. The "
+            "bodily and verbal standard is reached early and does not rise; everything above it "
+            "happens in the third position.",
+            "The same claim was made in the thoroughbred set at AN 3.96&ndash;3.98, where beauty and "
+            "strength were identical across all three versions and only speed changed. The collection "
+            "makes this point by structure rather than by statement, and a reader who has noticed it "
+            "once will see it everywhere."]),
+        ("The verse", [
+            "<em>A sage in body, a sage in speech, a sage undefiled in heart; a sage, blessed with "
+            "sagacity, has given up everything, they say.</em>",
+            "<em>Sabbappahāyinaṁ</em> &mdash; one who has given up everything. The verse matches AN "
+            "3.121&rsquo;s closing verse in shape exactly, with <em>washed off all bad things</em> "
+            "replaced by <em>given up everything</em>.",
+            "That substitution is the whole difference between the two discourses in four words. "
+            "Washing removes what is bad; giving up removes everything. The pair of verses says in "
+            "miniature what the pair of discourses says at length."]),
+        ("Using it", [
+            "Use it for the name. A Chinese-speaking class that has recited 釋迦牟尼佛 since childhood "
+            "and has never been told what 牟尼 means will remember this discourse for that alone, and "
+            "the definition given here is the tradition&rsquo;s own.",
+            "The structural point is the second use, and it is the more important one. Read AN 3.120, "
+            "3.121, and 3.122 in three minutes and ask what changed. The answer &mdash; only the "
+            "third term &mdash; says something about this teaching that no single discourse states."]),
+    ],
+    terms=[
+        ("moneyya",
+         "&ldquo;sagacity&rdquo; &mdash; the abstract noun from <em>muni</em>, sage, and connected in "
+         "the tradition with <em>mona</em>, silence."),
+        ("muni",
+         "&ldquo;sage&rdquo; &mdash; the general Indian word for a renunciate sage, older than this "
+         "tradition, and the second half of <em>Sākyamuni</em>, 釋迦牟尼."),
+        ("kāyamoneyya",
+         "&ldquo;sagacity of body&rdquo; &mdash; defined identically to the monastic purity of body "
+         "at AN 3.121."),
+        ("manomoneyya",
+         "&ldquo;sagacity of mind&rdquo; &mdash; the formula for arahantship, replacing AN "
+         "3.121&rsquo;s knowledge of the hindrances."),
+        ("sabbappahāyī",
+         "&ldquo;one who has given up everything&rdquo; &mdash; the closing verse&rsquo;s phrase, "
+         "where AN 3.121 has one who has washed off what is bad."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Body and speech"),
+        ("p", "&sect;1", "an3.122:1.1-1.6"),
+        ("p", "&sect;2", "an3.122:2.1-2.3"),
+        ("h3", "Sagacity of mind"),
+        ("p", "&sect;3", "an3.122:3.1-3.4"),
+        ("h3", "In verse"),
+        ("p", "&sect;4", "an3.122:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What is <em>moneyya</em>?",
+         "opts": [
+             "A kind of meditation",
+             "The abstract noun from <em>muni</em>, sage &mdash; connected in the tradition with <em>mona</em>, silence",
+             "A monastic rank",
+             "A synonym for purity"],
+         "correct": 1,
+         "expl": "The connection is felt in the Pāli whether or not it is etymologically sound."},
+        {"q": "Why does the word matter beyond this discourse?",
+         "opts": [
+             "It is rare",
+             "<em>Muni</em> is the general Indian word for a renunciate sage and the second half of <em>Sākyamuni</em> &mdash; 釋迦牟尼, how East Asia knows the Buddha",
+             "It appears only here",
+             "It is a Buddhist coinage"],
+         "correct": 1,
+         "expl": "A class reading this in Chinese is reading a definition of half the name they say every day."},
+        {"q": "How are sagacity of body and speech defined?",
+         "opts": [
+             "Identically to the monastic purity of body and speech at AN 3.121",
+             "More strictly",
+             "More loosely",
+             "They are not defined"],
+         "correct": 0,
+         "expl": "Only the third term changes."},
+        {"q": "What is sagacity of mind?",
+         "opts": [
+             "Knowing the five hindrances",
+             "Contentment, kindness, and right view",
+             "The realization of the undefiled freedom of heart and freedom by wisdom in this very life",
+             "Silence"],
+         "correct": 2,
+         "expl": "The formula for arahantship."},
+        {"q": "What do AN 3.120, 3.121, and 3.122 have in common?",
+         "opts": [
+             "The same third term",
+             "The same three doors, with three different third terms &mdash; right view and a good heart; knowledge of the hindrances; liberation",
+             "The same audience",
+             "The same simile"],
+         "correct": 1,
+         "expl": "Read in order they form an ascent."},
+        {"q": "What does not move across the three?",
+         "opts": [
+             "The third term",
+             "The bodily and verbal standard",
+             "The title",
+             "The verse"],
+         "correct": 1,
+         "expl": "A layperson, a practicing mendicant, and an arahant do the same things with their bodies and speech."},
+        {"q": "What claim does that structure make?",
+         "opts": [
+             "That conduct is unimportant",
+             "That what changes between a decent householder and a finished practitioner is not their conduct &mdash; the bodily and verbal standard is reached early and does not rise",
+             "That laypeople cannot progress",
+             "That the doors are unequal"],
+         "correct": 1,
+         "expl": "Everything above it happens in the third position."},
+        {"q": "Where else does the collection make the same point by structure?",
+         "opts": [
+             "In the thoroughbred set at AN 3.96&ndash;3.98, where beauty and strength are identical across all three and only speed changes",
+             "In AN 3.1&ndash;3.2",
+             "In AN 3.36",
+             "Nowhere else"],
+         "correct": 0,
+         "expl": "A reader who has noticed it once will see it everywhere."},
+        {"q": "How does the closing verse differ from AN 3.121&rsquo;s?",
+         "opts": [
+             "It is longer",
+             "&ldquo;Washed off all bad things&rdquo; becomes &ldquo;given up everything&rdquo;",
+             "It has no verse",
+             "It names the doors differently"],
+         "correct": 1,
+         "expl": "Washing removes what is bad; giving up removes everything."},
+        {"q": "What exercise does the guide recommend?",
+         "opts": [
+             "Memorizing the doors",
+             "Reading AN 3.120, 3.121, and 3.122 in three minutes and asking what changed &mdash; the answer being only the third term",
+             "Comparing translations",
+             "Reciting the verse"],
+         "correct": 1,
+         "expl": "It says something no single discourse states."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">muni</span>sage",
+            "<span class=\"pali\">moneyya</span>sagacity",
+            "&mdash; 釋迦牟尼",
+        ]),
+        ("Three terms", [
+            "3.120 &middot; right view, good heart",
+            "3.121 &middot; knowing the hindrances",
+            "3.122 &middot; liberation",
+        ]),
+        ("What is fixed", [
+            "body &middot; three abstentions",
+            "speech &middot; four",
+            "&mdash; across all three",
+        ]),
+        ("Cross-references", [
+            "AN 3.121 &middot; the previous term",
+            "AN 3.96&ndash;98 &middot; the same structure",
+            "AN 3.90 &middot; another verse on the three",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.122/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.121.html">AN 3.121 &middot; Purity (2nd)</a> &mdash; the discourse this one '
+        "varies, where the third term is knowledge of the five hindrances rather than liberation.",
+        '<a href="an-3.96.html">AN 3.96 &middot; The Thoroughbred (1st)</a> &mdash; for the same '
+        "structural argument made with horses: two factors constant and only the third scaling.",
+        '<a href="an-3.90.html">AN 3.90 &middot; Three Trainings (2nd)</a> &mdash; for the other '
+        "closing verse in this collection that runs through body, speech, and mind and ends in a "
+        "single image.",
+    ],
+)
