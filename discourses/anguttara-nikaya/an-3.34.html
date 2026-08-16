@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AN 3.34 — Sources | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for the Nidānasutta — greed, hate, and delusion as the sources of deeds, the seed sown in a good field and the seed burned to ash, and a closing verse that drops the prose's timings. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(38px, 5vw, 50px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Aṅguttara Nikāya</a><span>&rsaquo;</span>AN 3.34
+  </nav>
+
+  <div class="sutta-number">Aṅguttara Nikāya &middot; Discourse 3.34</div>
+  <h1>Sources</h1>
+  <p class="subtitle"><em>Nidānasutta</em> &mdash; <em>Devadūtavagga</em> &mdash; the fourth chapter of the Threes</p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>None stated; the discourse continues from AN 3.1, whose setting at Sāvatthī is understood to hold</dd>
+      <dt>Speakers</dt><dd>The Buddha alone, addressing the mendicants</dd>
+      <dt>Form</dt><dd>A triad and its simile, a second triad and its simile, and two closing verses</dd>
+      <dt>Length</dt><dd>~4 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>The three unwholesome roots are preserved throughout the Chinese Āgamas and the triad became standard Abhidharma vocabulary as 貪瞋癡; this reading guide does not assert a specific matching sutra number</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&starf;&#9734;&#9734; &mdash; heavily repetitive by design, with one sentence that has puzzled readers for a long time</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse</h2>
+    <p class="lede">
+      Three things give rise to deeds: greed, hate, and delusion. A deed born of them ripens wherever the doer is reborn, and its result is experienced in this life, the next, or some later one &mdash; like sound seed sown in a prepared field with rain falling. Then the discourse names a second three, contentment, love, and understanding, and the simile changes completely: the seeds are burned, the ashes scattered in the wind or floated down a river. The second half is not about good deeds being rewarded. It is about deeds coming to an end.
+    </p>
+  </section>
+
+  </div>
+
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      Deeds rooted in greed, hate, and delusion keep producing results wherever you go next; deeds rooted in their opposites are what brings the whole production to a stop.
+    </p>
+
+    <h3>The word <em>nidāna</em>, and why the title matters</h3>
+    <p>
+      <em>Nidāna</em> is source, origin, or ground &mdash; the same word that titles the great chapter on dependent origination in the Saṁyutta. The discourse is not asking which deeds are bad. It is asking what deeds come out of.
+    </p>
+    <p>
+      The answer is a triad that will be doing structural work for the rest of the collection: <em>lobha</em>, greed; <em>dosa</em>, hate; <em>moha</em>, delusion. East Asian Buddhism inherited it as 貪瞋癡, the three poisons, and built a whole moral psychology on top of it. This is one of the plainest early statements of what the triad is for.
+    </p>
+    <p>
+      Notice that the roots are not deeds. Greed is not stealing and hate is not violence; they are what stealing and violence come out of. That distinction is the entire content of the word <em>nidāna</em>, and it is why the discourse can then say something about all deeds at once.
+    </p>
+
+    <h3>Two clauses about where and when</h3>
+    <p>
+      Each root gets the same sentence: a deed born, sourced, and originated from it <em>ripens where that new incarnation is born</em>, and wherever it ripens, its result is experienced <em>either in the present life, or in the next life, or in some subsequent period</em>.
+    </p>
+    <p>
+      Two separate claims are packed in there. The first is about place: the deed matures wherever the doer turns up, not in some ledger held elsewhere. The second is about time, and it gives three options rather than one.
+    </p>
+    <p>
+      This is where a Western class usually stops, and the honest thing is to stop with them. The discourse assumes rebirth. It is not using &ldquo;next life&rdquo; as a metaphor for tomorrow, and reading it that way makes the sentence say nothing at all. Anyone who does not accept rebirth is entitled to say so, and should be told that the text is not on their side of the question.
+    </p>
+    <p>
+      What survives that disagreement is still substantial: that acts have sources, that the source determines what the act produces, and that results are not on a schedule the doer controls. The three timings are stated precisely so that no one can read a delay as an acquittal &mdash; which is the same point AN 3.100 makes with its lump of salt.
+    </p>
+
+    <h3>The two similes, and how differently they behave</h3>
+    <p>
+      The first simile is agricultural and entirely positive in mechanism: seeds intact, unspoiled, undamaged by weather, fertile, well kept; sown in a well-prepared productive field; the heavens providing plenty of rain. Then they grow, increase, and mature. Everything is working. That is the point &mdash; deeds rooted in the three roots are not defective machinery. They function.
+    </p>
+    <p>
+      The second simile takes the identical seeds and destroys them: burned with fire, reduced to ashes, and the ashes whisked away in a strong wind or floated down a swift stream. Not stored, not neutralized, not offset. Ended, and then the remains dispersed so thoroughly that the image forecloses recovery.
+    </p>
+    <p>
+      The asymmetry is the discourse&rsquo;s real argument. A reader coming in expects a symmetrical ledger: bad deeds produce bad fruit, good deeds produce good fruit. The second half does not say that. It says that deeds rooted in non-greed, non-hate, and non-delusion are <em>cut off at the root, made like a palm stump, obliterated, and unable to arise in the future.</em> The subject has changed from what kamma produces to how kamma stops.
+    </p>
+
+    <h3>The sentence that has puzzled readers</h3>
+    <p>
+      In the second half each root gets this form: a deed that emerges from contentment &ldquo;is given up when greed is done away with,&rdquo; a deed from love is abandoned when hate is done away with, a deed from understanding when delusion is done away with.
+    </p>
+    <p>
+      Read plainly that is odd. It seems to say that wholesome-rooted deeds are abandoned when the corresponding <em>unwholesome</em> root goes &mdash; and it is the wholesome deed, not the unwholesome one, that is described as cut off like a palm stump. Translators and commentators have not read this uniformly, and this guide is not going to pretend the question is settled.
+    </p>
+    <p>
+      Two readings are worth having in mind. On one, the sentence is about the person in whom greed is gone: their good deeds no longer function as kamma-producing deeds at all, because there is nothing left to carry them forward &mdash; which is what the canon elsewhere says of an arahant&rsquo;s actions. On the other, the passage is describing the whole apparatus of deed-and-result winding down, wholesome deeds included, since the goal is not an improved balance but no balance.
+    </p>
+    <p>
+      Both readings land in the same place, which is why the disagreement is tolerable: the second half of this discourse is not about accumulating merit. If a class comes away thinking that non-greed, non-hate, and non-delusion are how you earn a better rebirth, they have read the first half twice and the second half not at all.
+    </p>
+
+    <h3>The verses, and what they leave out</h3>
+    <p>
+      The closing verses say that when an ignorant person acts out of greed, hate, or delusion, any deeds they have done, a little or a lot, <em>are to be experienced right here, not in any other place</em>.
+    </p>
+    <p>
+      That is not what the prose said. The prose was careful to give three timings &mdash; this life, the next, or some subsequent period &mdash; and the verse compresses them into one. It is the same thing the verses do at AN 3.26 and AN 3.27, where a qualification stated carefully in prose disappears when the material is put into meter.
+    </p>
+    <p>
+      The right response is not to accuse the verse of error. Verse in this collection works by force rather than precision, and <em>right here, not in any other place</em> is doing rhetorical work: there is no elsewhere to send the consequences to. But a reader who takes the verse as the discourse&rsquo;s doctrine of kamma will have a narrower position than the prose eight paragraphs earlier, and a teacher should point at the seam rather than smooth it over.
+    </p>
+    <p>
+      The final verse gives the practical upshot, and it is not a warning: a wise mendicant who <em>arouses knowledge of the outcome</em> of greed, hate, and delusion abandons all bad destinies. What ends the trouble is understanding where deeds come from &mdash; which is the discourse&rsquo;s title.
+    </p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">nidāna</span> &mdash; &ldquo;source, ground, origin&rdquo; &mdash; the title word, and the same term that names the great chapter on dependent origination. The question is not which deeds are bad but what deeds come out of.
+      </div>
+      <div class="term">
+        <span class="pali-word">lobha dosa moha</span> &mdash; &ldquo;greed, hate, delusion&rdquo; &mdash; the three unwholesome roots, inherited by East Asian Buddhism as 貪瞋癡, the three poisons. They are not deeds but what deeds arise from.
+      </div>
+      <div class="term">
+        <span class="pali-word">alobha adosa amoha</span> &mdash; &ldquo;contentment, love, understanding&rdquo; &mdash; the three wholesome roots, each formed in Pāli as the simple negation of its opposite, which is why the English renderings vary so much.
+      </div>
+      <div class="term">
+        <span class="pali-word">ucchinnamūla tālāvatthukata</span> &mdash; &ldquo;cut off at the root, made like a palm stump&rdquo; &mdash; the canon&rsquo;s standard formula for something permanently ended. A palm cut through the crown cannot regrow.
+      </div>
+      <div class="term">
+        <span class="pali-word">diṭṭheva dhamme upapajje vā apare vā pariyāye</span> &mdash; &ldquo;in the present life, in the next life, or in some subsequent period&rdquo; &mdash; the three timings for a result, stated so that a delay cannot be read as an acquittal.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The discourse in full, both triads with their similes and the closing verses. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>Three sources</h3>
+
+      <p><span class="segno">&sect;1</span>&ldquo;Mendicants, there are these three sources that give rise to deeds. What three? Greed, hate, and delusion are sources that give rise to deeds.</p>
+
+      <p><span class="segno">&sect;2&ndash;4</span>Any deed that emerges from greed&mdash;born, sourced, and originated from greed&mdash;ripens where that new incarnation is born. And wherever that deed ripens, its result is experienced&mdash;either in the present life, or in the next life, or in some subsequent period. Any deed that emerges from hate&mdash;born, sourced, and originated from hate&mdash;ripens where that new incarnation is born. And wherever that deed ripens, its result is experienced&mdash;either in the present life, or in the next life, or in some subsequent period. Any deed that emerges from delusion&mdash;born, sourced, and originated from delusion&mdash;ripens where that new incarnation is born. And wherever that deed ripens, its result is experienced&mdash;either in the present life, or in the next life, or in some subsequent period.</p>
+
+      <h3>Seeds sown in a good field</h3>
+
+      <p><span class="segno">&sect;5&ndash;6</span>Suppose some seeds were intact, unspoiled, not weather-damaged, fertile, and well-kept. They&rsquo;re sown in a well-prepared, productive field, and the heavens provide plenty of rain. Then those seeds would grow, increase, and mature. In the same way, any deed that emerges from greed&mdash;born, sourced, and originated from greed&mdash;ripens where that new incarnation is born. And wherever that deed ripens, its result is experienced&mdash;either in the present life, or in the next life, or in some subsequent period. Any deed that emerges from hate &hellip; Any deed that emerges from delusion&mdash;born, sourced, and originated from delusion&mdash;ripens where that new incarnation is born. And wherever that deed ripens, its result is experienced&mdash;either in the present life, or in the next life, or in some subsequent period. These are three sources that give rise to deeds.</p>
+
+      <h3>And three more</h3>
+
+      <p><span class="segno">&sect;7</span>Mendicants, there are these three sources that give rise to deeds. What three? Contentment, love, and understanding are sources that give rise to deeds.</p>
+
+      <p><span class="segno">&sect;8&ndash;10</span>Any deed that emerges from contentment&mdash;born, sourced, and originated from contentment&mdash;is given up when greed is done away with. It&rsquo;s cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. Any deed that emerges from love&mdash;born, sourced, and originated from love&mdash;is abandoned when hate is done away with. It&rsquo;s cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. Any deed that emerges from understanding&mdash;born, sourced, and originated from understanding&mdash;is abandoned when delusion is done away with. It&rsquo;s cut off at the root, made like a palm stump, obliterated, and unable to arise in the future.</p>
+
+      <h3>Seeds burned to ash</h3>
+
+      <p><span class="segno">&sect;11&ndash;12</span>Suppose some seeds were intact, unspoiled, not damaged by wind and sun, fertile, and well-kept. But someone would burn them with fire, reduce them to ashes, and whisk away the ashes in a strong wind, or glide them down a swift stream. Then those seeds would be cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. In the same way, any deed that emerges from contentment&mdash;born, sourced, and originated from contentment&mdash;is abandoned when greed is done away with. It&rsquo;s cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. Any deed that emerges from love &hellip; Any deed that emerges from understanding&mdash;born, sourced, and originated from understanding&mdash;is abandoned when delusion is done away with. It&rsquo;s cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. These are three sources that give rise to deeds.</p>
+
+      <h3>In verse</h3>
+
+      <p><span class="segno">&sect;13&ndash;14</span>When an ignorant person acts out of greed, hate, or delusion, any deeds they have done, a little or a lot, are to be experienced right here, not in any other place. So a wise person, a mendicant arousing knowledge of the outcome of greed, hate, and delusion, would abandon all bad destinies.&rdquo;</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What does <em>nidāna</em> mean, and what question does it set?</div>
+        <button class="opt">&ldquo;Result&rdquo; &mdash; what deeds produce</button>
+        <button class="opt">&ldquo;Source&rdquo; &mdash; not which deeds are bad, but what deeds come out of</button>
+        <button class="opt">&ldquo;Story&rdquo; &mdash; the setting of a discourse</button>
+        <button class="opt">&ldquo;Intention&rdquo; &mdash; the will behind an act</button>
+        <div class="expl"><strong>Correct: B.</strong> The same word titles the great chapter on dependent origination.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">Why does the guide stress that the roots are not deeds?</div>
+        <button class="opt">Because greed is not stealing and hate is not violence &mdash; they are what such acts come out of, which is what lets the discourse speak about all deeds at once</button>
+        <button class="opt">Because the roots are only mental and therefore harmless</button>
+        <button class="opt">Because deeds are unimportant</button>
+        <button class="opt">Because the roots apply only to monastics</button>
+        <div class="expl"><strong>Correct: A.</strong> That distinction is the entire content of the word <em>nidāna</em>.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What two separate claims are packed into the repeated sentence?</div>
+        <button class="opt">One about intention and one about speech</button>
+        <button class="opt">One about place &mdash; the deed ripens wherever the doer is reborn &mdash; and one about time, with three options rather than one</button>
+        <button class="opt">One about monastics and one about laypeople</button>
+        <button class="opt">One about this life only</button>
+        <div class="expl"><strong>Correct: B.</strong> The result is not held in a ledger elsewhere, and it is not on a schedule the doer controls.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">How does the guide handle a reader who does not accept rebirth?</div>
+        <button class="opt">By treating &ldquo;next life&rdquo; as a metaphor for tomorrow</button>
+        <button class="opt">By saying the objection is not allowed</button>
+        <button class="opt">By stating plainly that the discourse assumes rebirth and that the text is not on that reader&rsquo;s side of the question</button>
+        <button class="opt">By omitting the passage</button>
+        <div class="expl"><strong>Correct: C.</strong> Reading it as metaphor makes the sentence say nothing at all.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">What is the first simile, and what does it establish?</div>
+        <button class="opt">Seeds sown in poor soil &mdash; deeds are wasted</button>
+        <button class="opt">Sound seeds in a prepared field with plenty of rain &mdash; deeds rooted in the three roots are not defective machinery; they function</button>
+        <button class="opt">A fire in a grass hut</button>
+        <button class="opt">A pot turned upside down</button>
+        <div class="expl"><strong>Correct: B.</strong> Everything in the image is working, and that is the point.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What happens to the seeds in the second simile?</div>
+        <button class="opt">They are stored for later</button>
+        <button class="opt">They are planted in a better field</button>
+        <button class="opt">They are burned to ash and the ashes whisked away in a strong wind or floated down a swift stream</button>
+        <button class="opt">They are eaten by birds</button>
+        <div class="expl"><strong>Correct: C.</strong> Not stored, not neutralized, not offset &mdash; ended, and the remains dispersed beyond recovery.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What asymmetry does the guide call the discourse&rsquo;s real argument?</div>
+        <button class="opt">That good deeds ripen faster</button>
+        <button class="opt">That the second half is not a symmetrical ledger of good fruit for good deeds &mdash; the subject changes from what kamma produces to how kamma stops</button>
+        <button class="opt">That hate is worse than greed</button>
+        <button class="opt">That the similes are the same</button>
+        <div class="expl"><strong>Correct: B.</strong> The reader arrives expecting a ledger, and does not get one.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">How does the guide treat the puzzling sentence about wholesome-rooted deeds?</div>
+        <button class="opt">As a translation error to be ignored</button>
+        <button class="opt">As settled by the commentary</button>
+        <button class="opt">As a genuine crux &mdash; two readings are set out, and the guide declines to pretend the question is settled</button>
+        <button class="opt">As proof that good deeds have no result</button>
+        <div class="expl"><strong>Correct: C.</strong> Both readings land in the same place, which is why the disagreement is tolerable.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What do the closing verses say about when deeds are experienced?</div>
+        <button class="opt">In the present life, the next, or some subsequent period</button>
+        <button class="opt">Right here, not in any other place &mdash; compressing the prose&rsquo;s three timings into one</button>
+        <button class="opt">Only after death</button>
+        <button class="opt">They say nothing about timing</button>
+        <div class="expl"><strong>Correct: B.</strong> The same thing the verses do at AN 3.26 and AN 3.27.</div>
+      </div>
+
+      <div class="q" data-correct="2">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What does the guide recommend doing about that gap?</div>
+        <button class="opt">Accusing the verse of error</button>
+        <button class="opt">Treating the verse as the discourse&rsquo;s real doctrine</button>
+        <button class="opt">Pointing at the seam rather than smoothing it over &mdash; verse works by force rather than precision, and the prose eight paragraphs earlier is wider</button>
+        <button class="opt">Removing the verse</button>
+        <div class="expl"><strong>Correct: C.</strong> &ldquo;Right here, not in any other place&rdquo; is doing rhetorical work: there is no elsewhere to send consequences to.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Three roots</div>
+      <ul>
+        <li><span class="pali">lobha</span>greed &middot; 貪</li>
+        <li><span class="pali">dosa</span>hate &middot; 瞋</li>
+        <li><span class="pali">moha</span>delusion &middot; 癡</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Two similes</div>
+      <ul>
+        <li>sound seed, good field, rain</li>
+        <li>burned, ashed, scattered</li>
+        <li>&mdash; function vs. ending</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Three timings</div>
+      <ul>
+        <li>in the present life</li>
+        <li>in the next life</li>
+        <li>in some subsequent period</li>
+        <li>&mdash; dropped by the verse</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>AN 3.100 &middot; the lump of salt</li>
+        <li>AN 3.26 &middot; verse dropping prose</li>
+        <li>AN 3.35 &middot; the palm-stump formula</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/an3.34/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.</li>
+      <li><a href="an-3.100.html">AN 3.100 &middot; A Lump of Salt</a> &mdash; the other great kamma discourse of the Threes, and the necessary companion: where this one says a result comes at one of three times, that one says the same deed lands differently depending on who did it.</li>
+      <li><a href="an-3.26.html">AN 3.26 &middot; Associates</a> &mdash; for the same seam between prose and closing verse, where a qualification carefully stated in prose is dropped when the material goes into meter.</li>
+      <li><a href="/abhidharma/abhidharmakosa/fascicle-013/">Abhidharmakośa &middot; Fascicle 13</a> &mdash; the opening of the karma chapter, where the same question this discourse asks in five paragraphs becomes a systematic treatment: what kamma is, whether it leaves a physical residue, and why no creator god is needed to explain the world&rsquo;s differences.</li>
+      <li><a href="an-3.35.html">AN 3.35 &middot; With Hatthaka</a> &mdash; the next discourse, which applies the same palm-stump formula to a person rather than to a deed.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="an-3.33.html"><span class="label">&larr; Previous</span>AN 3.33 &middot; With Sāriputta</a>
+    <a href="an-3.35.html" class="next"><span class="label">Next &rarr;</span>AN 3.35 &middot; With Hatthaka</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+
+</div>
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>

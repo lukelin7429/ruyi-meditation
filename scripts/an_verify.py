@@ -101,7 +101,13 @@ def verify(page):
         target = (os.path.join(ROOT, base.lstrip("/")) if base.startswith("/")
                   else os.path.normpath(os.path.join(OUT_DIR, base)))
         if base.endswith("/"):
-            ok = os.path.isfile(os.path.join(target, "index.html"))
+            # A directory URL resolves either to a real index.html or to a page
+            # that declares that path as its Jekyll permalink. The sutra and
+            # abhidharma translations do the latter: /sutras/x/fascicle-004/ is
+            # published from sutras/x/fascicle-004.html, and the .html path is
+            # not served, so the trailing-slash form is the only correct link.
+            ok = (os.path.isfile(os.path.join(target, "index.html"))
+                  or os.path.isfile(target.rstrip("/") + ".html"))
         else:
             ok = os.path.exists(target)
         check(ok, "%s: dead link %s" % (slug, href))

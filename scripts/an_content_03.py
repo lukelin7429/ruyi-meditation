@@ -6645,3 +6645,1318 @@ page(
         "who understand the teaching but do not practice in line with it are counted among the many.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.31–3.40 — Devadūtavagga
+# --------------------------------------------------------------------------- #
+VAGGA_4 = "<em>Devadūtavagga</em> &mdash; the fourth chapter of the Threes"
+
+page(
+    31, "Sabrahmaka", "With Divinity",
+    vagga=VAGGA_4,
+    meta_title="AN 3.31 — With Divinity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sabrahmakasutta — the "
+        "discourse that gives parents the three highest titles the surrounding religion had to "
+        "offer, and says why. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three parallel statements about a household, three one-line glosses, a reason, "
+                 "and three verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The same discourse stands in the Pāli canon at Iti 106; the equation "
+                              "of parents with Brahmā and with the first teachers is preserved in the "
+                              "Chinese Āgamas and became a standing theme of East Asian Buddhist "
+                              "writing on filial duty; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short and plain, and its central "
+                       "move is easy to walk straight past"),
+    ],
+    why=(
+        "A household where the children look after their parents is called a household living with "
+        "divinity, with the first tutors, and with those worthy of offerings dedicated to the gods. "
+        "Then the discourse tells you what all three phrases refer to: your parents. Each of the "
+        "three was a high word in the religion the Buddha was speaking into &mdash; the highest god, "
+        "the teacher who initiates you, and the recipient of sacrifice &mdash; and the discourse "
+        "hands all three to two ordinary people at home. It is one of the shortest discourses in the "
+        "Threes and one of the boldest."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The words the surrounding religion reserved for its god, its teachers, and its "
+            "sacrifices belong to your parents, because of what they actually did for you."]),
+        ("Three borrowed titles", [
+            "<em>Brahmā</em> is not a general word for holiness. He is the highest god of the "
+            "brahmanical world, the creator, the being whose company a brahmin&rsquo;s whole "
+            "discipline aimed at reaching. Sujato renders him &ldquo;divinity&rdquo; here, which "
+            "keeps the sentence readable in English; the Pāli says the god&rsquo;s name.",
+            "<em>Pubbācariya</em>, &ldquo;first tutors,&rdquo; borrows the other pillar of brahmin "
+            "life. The <em>ācariya</em> is the teacher who takes a boy through his sacred education; "
+            "the relation was formal, lifelong, and carried real authority. The discourse says the "
+            "first holder of that office in anybody&rsquo;s life was already at home.",
+            "<em>Āhuneyya</em> is a sacrificial term &mdash; it describes what is fit to receive an "
+            "offering, and behind it stands the fire ritual into which offerings for the gods were "
+            "poured. Sujato&rsquo;s &ldquo;worthy of offerings dedicated to the gods&rdquo; keeps "
+            "that background visible. The same word is used of the Saṅgha in the standard verse of "
+            "recollection, which shows how high it reaches."]),
+        ("What the move accomplishes", [
+            "Taken one at a time these read as compliments. Taken together they are a redirection of "
+            "an entire religious economy. Everything a brahmin household spent on reaching Brahmā, "
+            "honoring its teachers, and feeding the sacrificial fire is pointed at two people who are "
+            "already in the house.",
+            "The Buddha uses this maneuver often, and the Threes will show more of it: the "
+            "Brāhmaṇavagga at AN 3.51&ndash;60 takes brahmin vocabulary apart term by term. What "
+            "makes AN 3.31 unusual is that the replacement is not a monastic practice or a meditative "
+            "attainment. It is looking after your mother and father.",
+            "It is worth noticing what the discourse does <em>not</em> do. It does not abolish the "
+            "words, mock the sacrifice, or argue with anyone. It simply states where the referent "
+            "actually is, three times, and moves on."]),
+        ("The reason given, and how narrow it is", [
+            "&ldquo;Why is that? Parents are very helpful to their children, they raise them, nurture "
+            "them, and show them the world.&rdquo;",
+            "The ground is not that parents are wise, or good, or owed obedience. It is historical: "
+            "somebody fed you before you could feed yourself and showed you a world you had no other "
+            "way of seeing. The claim is about a debt already incurred, not about the character of "
+            "the person who holds it.",
+            "That narrowness matters, and a teacher should say it out loud rather than let a class "
+            "supply the missing sentence themselves. Readers whose parents did not raise or nurture "
+            "them are not being addressed by the stated reason, because the stated reason does not "
+            "apply to their case. The discourse describes what a household with living parents and a "
+            "real debt owes; it does not legislate for every family, and it never says that a parent "
+            "cannot be wrong.",
+            "Nor does the honoring it asks for consist of agreement. The list is entirely material "
+            "and entirely concrete: food and drink, clothes and bedding, anointing and bathing, "
+            "washing their feet. Not one item is about obeying an instruction or holding an opinion. "
+            "The canon has other places for the question of a parent who asks for something wrong; "
+            "this discourse is about maintenance."]),
+        ("The verses, and the one word they add", [
+            "The verse restates the three titles and then supplies a reason the prose left out: "
+            "parents are worthy of offerings from their children <em>for they love their "
+            "offspring</em> &mdash; <em>anukampakā pajāya</em>, the word for sympathy or "
+            "solicitude, the same quality the canon attributes to the Buddha&rsquo;s own teaching "
+            "activity.",
+            "So the prose grounds the duty in what parents did and the verse grounds it in what "
+            "parents feel. The pairing is not decorative: it is the difference between a debt and a "
+            "relationship, and the discourse ends up asserting both.",
+            "The closing couplet gives the reward in the usual two registers &mdash; praised by the "
+            "astute in this life, rejoicing in heaven after. Read alongside AN 3.10, where being "
+            "praised and going to heaven are simply the two ways good conduct shows up, this is the "
+            "standard formula rather than a bribe."]),
+        ("Using it", [
+            "In a Chinese-speaking classroom this discourse does specific work. Buddhism was attacked "
+            "in China for over a millennium on the ground that it was unfilial: monastics leave home, "
+            "shave their heads, and produce no descendants to maintain the ancestral offerings. The "
+            "Chinese tradition answered at length &mdash; the Brahma Net Sutra states flatly that "
+            "filial devotion is what is called precept &mdash; and the answer is sometimes described "
+            "as a Chinese addition made under Confucian pressure.",
+            "AN 3.31 is a short Pāli text saying that your parents are Brahmā, and it was there "
+            "before the argument started. It does not settle the historical question of how much "
+            "Chinese Buddhism accommodated, but it does show that the raw material was in the "
+            "earliest layer.",
+            "For a lesson, the useful exercise is the substitution itself. Ask a class what the three "
+            "highest words in their own vocabulary are &mdash; the ones reserved for what is beyond "
+            "ordinary life &mdash; and then read them the four glosses. The discourse works by "
+            "putting a word where nobody expects to find it, and that effect survives translation."]),
+    ],
+    terms=[
+        ("sabrahmaka",
+         "&ldquo;with divinity&rdquo; &mdash; the title of the discourse, said of a household where "
+         "the children honor their parents; not a household that worships Brahmā but one that has "
+         "him living in it."),
+        ("brahmā",
+         "the highest god of the brahmanical world and the goal of brahmin practice. Rendered "
+         "&ldquo;divinity&rdquo; here; the force of the discourse depends on it being a proper name."),
+        ("pubbācariya",
+         "&ldquo;first tutors&rdquo; &mdash; the <em>ācariya</em> was the teacher who conducted a "
+         "boy&rsquo;s sacred education, a formal and lifelong relation. The discourse says the office "
+         "was filled at home first."),
+        ("āhuneyya",
+         "&ldquo;worthy of offerings dedicated to the gods&rdquo; &mdash; a sacrificial term for what "
+         "may properly receive an offering, used elsewhere of the Saṅgha in the standard recollection."),
+        ("anukampaka",
+         "&ldquo;sympathetic, solicitous&rdquo; &mdash; the verse&rsquo;s word for how parents stand "
+         "toward their children, and the canon&rsquo;s word for why a Buddha teaches at all."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three names for two people"),
+        ("p", "&sect;1", "an3.31:1.1-1.8"),
+        ("h3", "In verse"),
+        ("p", "&sect;2", "an3.31:2.1-2.4"),
+        ("p", "&sect;3", "an3.31:3.1-3.6"),
+        ("p", "&sect;4", "an3.31:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What is a family where the children honor their parents said to live with?",
+         "opts": [
+             "Divinity, the first tutors, and those worthy of offerings dedicated to the gods",
+             "Wealth, health, and long life",
+             "The Buddha, the Dhamma, and the Saṅgha",
+             "Good friends, good neighbors, and good rulers"],
+         "correct": 0,
+         "expl": "Three statements, each then glossed as referring to the parents."},
+        {"q": "Why does the guide insist that <em>brahmā</em> is a proper name here?",
+         "opts": [
+             "Because it is a general word for anything holy",
+             "Because Brahmā is the highest god of the brahmanical world and the goal of brahmin practice &mdash; the force of the discourse depends on the title being his",
+             "Because the Buddha claimed the name for himself",
+             "Because the verse uses it in the plural"],
+         "correct": 1,
+         "expl": "&ldquo;Divinity&rdquo; keeps the English readable; the Pāli says the god&rsquo;s name."},
+        {"q": "What kind of relationship does <em>pubbācariya</em>, &ldquo;first tutors,&rdquo; borrow from?",
+         "opts": [
+             "The relation between king and subject",
+             "The relation between a merchant and an apprentice",
+             "The <em>ācariya</em>, the teacher who conducted a boy&rsquo;s sacred education &mdash; a formal, lifelong, authoritative office",
+             "The relation between a monastic preceptor and a novice only"],
+         "correct": 2,
+         "expl": "The discourse says the office was filled at home before anyone else held it."},
+        {"q": "What is the background of the term <em>āhuneyya</em>?",
+         "opts": [
+             "Legal inheritance",
+             "Sacrifice &mdash; it describes what may properly receive an offering, and behind it stands the fire ritual",
+             "Royal tribute",
+             "Almsround etiquette"],
+         "correct": 1,
+         "expl": "The same word is used of the Saṅgha in the standard verse of recollection, which shows how high it reaches."},
+        {"q": "How does the guide describe the combined effect of the three titles?",
+         "opts": [
+             "As three unrelated compliments",
+             "As a redirection of an entire religious economy &mdash; what a brahmin household spent on Brahmā, its teachers, and the sacrificial fire is pointed at two people already in the house",
+             "As a criticism of brahmins",
+             "As a promise of rebirth in the Brahmā realm"],
+         "correct": 1,
+         "expl": "And it is done without abolishing the words, mocking the sacrifice, or arguing with anyone."},
+        {"q": "What reason does the discourse itself give?",
+         "opts": [
+             "That parents are wise",
+             "That parents are owed obedience",
+             "That parents are very helpful to their children &mdash; they raise them, nurture them, and show them the world",
+             "That honoring parents produces wealth"],
+         "correct": 2,
+         "expl": "The ground is a debt already incurred, not the character of the person who holds it."},
+        {"q": "Why does the guide call that reason narrow, and say so out loud?",
+         "opts": [
+             "Because it applies only to monastics",
+             "Because a reader whose parents did not raise or nurture them is not addressed by the stated reason &mdash; the discourse describes a household with a real debt rather than legislating for every family",
+             "Because it applies only in India",
+             "Because the verse contradicts it"],
+         "correct": 1,
+         "expl": "And the discourse never says that a parent cannot be wrong."},
+        {"q": "What does the honoring actually consist of, in the discourse&rsquo;s own list?",
+         "opts": [
+             "Obedience and agreement",
+             "Ritual offerings at a shrine",
+             "Food and drink, clothes and bedding, anointing and bathing, and washing their feet",
+             "Financial inheritance"],
+         "correct": 2,
+         "expl": "Entirely material and entirely concrete; not one item is about holding an opinion."},
+        {"q": "What does the verse add that the prose left out?",
+         "opts": [
+             "That parents love their offspring &mdash; <em>anukampakā pajāya</em>, the canon&rsquo;s word for why a Buddha teaches at all",
+             "That parents must be obeyed",
+             "That parents are reborn as gods",
+             "That children inherit their parents&rsquo; deeds"],
+         "correct": 0,
+         "expl": "The prose grounds the duty in what parents did; the verse grounds it in what parents feel."},
+        {"q": "Why is this discourse useful in a Chinese-speaking classroom?",
+         "opts": [
+             "Because it names a Chinese festival",
+             "Because Buddhism was attacked in China for a millennium as unfilial, and this short Pāli text &mdash; saying your parents are Brahmā &mdash; was there before the argument started",
+             "Because it was translated by Xuanzang",
+             "Because it forbids monastic ordination"],
+         "correct": 1,
+         "expl": "It does not settle how much Chinese Buddhism accommodated, but it shows the raw material was in the earliest layer."},
+    ],
+    marginalia=[
+        ("Three titles", [
+            "<span class=\"pali\">brahmā</span>the highest god",
+            "<span class=\"pali\">pubbācariya</span>the first teacher",
+            "<span class=\"pali\">āhuneyya</span>fit for offerings",
+        ]),
+        ("The stated ground", [
+            "they raise them",
+            "they nurture them",
+            "they show them the world",
+            "&mdash; a debt, not a character reference",
+        ]),
+        ("What honoring is", [
+            "food and drink",
+            "clothes and bedding",
+            "anointing and bathing",
+            "washing their feet",
+        ]),
+        ("Cross-references", [
+            "Iti 106 &middot; the same discourse",
+            "DN 31 &middot; the duties in five pairs",
+            "AN 3.10 &middot; praise here, heaven after",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.31/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../itivuttaka/iti-106.html">Iti 106 &middot; With Divinity</a> &mdash; the same '
+        "discourse, preserved a second time in a different collection. Worth reading beside this one "
+        "for what an early text looks like when the tradition thought it important enough to keep "
+        "twice.",
+        '<a href="../digha-nikaya/dn-31.html">DN 31 &middot; Advice to Sigālaka</a> &mdash; the '
+        "long lay-life discourse, where the same duty is set out in working detail: five things "
+        "children do for parents and five things parents do for children, inside a scheme covering "
+        "every relationship a householder has.",
+        '<a href="/sutras/brahma-net-sutra/chapter-07/">Brahma Net Sutra &middot; the precept '
+        "preface</a> &mdash; where the Chinese tradition states its position in one line, 孝名為戒, "
+        "filial devotion is what is called precept. Read after AN 3.31 it shows a later tradition "
+        "pushing a claim that the Pāli text had already made.",
+        '<a href="an-3.10.html">AN 3.10 &middot; Stains</a> &mdash; for the closing couplet&rsquo;s '
+        "two registers of reward, praise in this life and heaven after, in their usual setting.",
+    ],
+)
+
+
+page(
+    32, "Ānanda", "With Ānanda",
+    vagga=VAGGA_4,
+    meta_title="AN 3.32 — With Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ānandasutta — whether "
+        "there is a state of immersion with no I-making, mine-making, or conceit, and the "
+        "one-sentence answer, sealed with a verse from the Pārāyana. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Ānanda approaches the Buddha, bows, and asks"),
+        ("Speakers", "Venerable Ānanda and the Buddha"),
+        ("Form", "A question, a yes, a second question, a one-sentence method, and a quoted verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Material on immersion free of I-making and mine-making is preserved in "
+                              "the Chinese Saṃyukta-āgama (T99); this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; three technical terms, one long "
+                       "sentence repeated four times, and an answer far shorter than the question"),
+    ],
+    why=(
+        "Ānanda asks whether a mendicant can reach a state of immersion in which there is no "
+        "I-making, no mine-making, and no underlying tendency to conceit &mdash; not toward this "
+        "body, and not toward anything outside it. The Buddha says yes, in the same words. Ānanda "
+        "asks how. And the answer is one sentence long: they think, <em>this is peaceful, this is "
+        "sublime</em>. The gap between the size of the question and the size of the answer is the "
+        "whole interest of the discourse."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The immersion in which self-reference has stopped is reached by giving the mind the one "
+            "object that has nothing in it to make a self out of."]),
+        ("The three things being asked about", [
+            "<em>Ahaṅkāra</em>, I-making, and <em>mamiṅkāra</em>, mine-making, are not nouns for "
+            "beliefs. They are verbs made into nouns: the mind&rsquo;s ongoing activity of producing "
+            "an <em>I</em> and producing a <em>mine</em>. A person can hold no philosophical view of "
+            "a self and go on doing both all day.",
+            "<em>Mānānusaya</em> is the underlying tendency to conceit &mdash; not conceit as an "
+            "episode of arrogance but conceit as a disposition, the reflex of measuring: better than, "
+            "equal to, worse than. The canon treats it as the last fetter to go, which is why it "
+            "appears here in a question about the highest attainment rather than in a discourse about "
+            "manners.",
+            "The three are asked about in two directions. <em>For this conscious body</em> covers "
+            "everything on the inside; <em>externally for all signs</em> covers everything else, "
+            "<em>nimitta</em> being the aspect of a thing the mind takes hold of. Between them "
+            "nothing is left over. That is why the sentence is so long, and why it is repeated "
+            "without abbreviation each time."]),
+        ("Why Ānanda asks in that form", [
+            "The question is not &ldquo;is there such a thing?&rdquo; but &ldquo;could it be that a "
+            "mendicant might gain a state of immersion such that&hellip;?&rdquo; He is asking whether "
+            "a describable, attainable state has this property.",
+            "That is characteristic of him. Ānanda&rsquo;s questions in the canon tend to be about "
+            "the reachable middle of the path rather than its terminus, and they are usually framed "
+            "so that a yes commits the Buddha to something specific. Here a yes commits him to saying "
+            "that the end of self-making is not merely a description of an arahant after the fact but "
+            "a state that can be entered."]),
+        ("The answer, and why it is so short", [
+            "&ldquo;It&rsquo;s when a mendicant thinks: <em>this is peaceful; this is sublime &mdash; "
+            "that is, the stilling of all activities, the letting go of all attachments, the ending "
+            "of craving, fading away, cessation, extinguishment.</em>&rdquo;",
+            "The formula is a stock one and it names extinguishment, <em>nibbāna</em>, by six "
+            "descriptions in a row. What the discourse asks the practitioner to do with it is simply "
+            "to hold it as what the mind is attending to.",
+            "The logic is worth spelling out, because a class will otherwise hear a non-answer. "
+            "I-making needs material: some experience with enough content in it to be claimed. Every "
+            "object inside the conscious body and every external sign supplies that material. The one "
+            "object that does not is the stilling of the whole business. Attending to it, there is "
+            "nothing there to make an <em>I</em> out of, nothing to make a <em>mine</em> out of, and "
+            "nothing to measure against.",
+            "So the answer is not a technique of suppression. It is a change of object, and the "
+            "absence of self-making follows from what the object is. AN 3.33, the next discourse, "
+            "gives the identical formula to Sāriputta as something to train in, which is how a state "
+            "described here becomes an instruction there."]),
+        ("The quoted verse", [
+            "The Buddha closes by identifying his own earlier words: this is what he meant in the "
+            "Pārāyana, in the Questions of Puṇṇaka. The verse is on this site at Snp 5.4, and it "
+            "answers a brahmin who had asked about sacrifice.",
+            "<em>Having appraised the world high and low, there is nothing in the world that disturbs "
+            "them. Peaceful, unclouded, untroubled, with no need for hope &mdash; they&rsquo;ve "
+            "crossed over rebirth and old age, I declare.</em>",
+            "Two things are happening. The first is a claim about continuity: the prose analysis and "
+            "the old verse are the same teaching, and the Buddha says so himself. The second is a "
+            "shift of register. Everything the prose states in technical negatives &mdash; no "
+            "I-making, no mine-making, no conceit &mdash; the verse states as a condition: nothing "
+            "disturbs them, they have no need for hope. <em>Nirāsa</em>, hopeless in that sense, is a "
+            "compliment here, which is the kind of reversal worth flagging to a class before they "
+            "meet it."]),
+        ("Using it", [
+            "This is a short text with a high ceiling, and it is easy to teach badly by pretending "
+            "the answer is simpler than it is. The honest presentation gives the class both halves: "
+            "an enormous question and a one-line reply, and then the work of seeing why the reply is "
+            "not evasive.",
+            "The transferable part is the general principle that what the mind does depends on what "
+            "it is holding. That is not a claim anyone needs to be Buddhist to test, and it is the "
+            "load-bearing move of the discourse."]),
+    ],
+    terms=[
+        ("ahaṅkāra",
+         "&ldquo;I-making&rdquo; &mdash; not the belief in a self but the activity of producing an "
+         "<em>I</em>, which continues in people who hold no such belief."),
+        ("mamiṅkāra",
+         "&ldquo;mine-making&rdquo; &mdash; its partner, the activity of producing a <em>mine</em>. "
+         "The pair is standard in the canon and always occurs together."),
+        ("mānānusaya",
+         "&ldquo;the underlying tendency to conceit&rdquo; &mdash; conceit as a disposition rather "
+         "than an episode: the reflex of measuring oneself as better, equal, or worse. Held to be the "
+         "last fetter abandoned."),
+        ("nimitta",
+         "&ldquo;sign&rdquo; &mdash; the aspect of a thing that the mind takes hold of. "
+         "&ldquo;Externally for all signs&rdquo; is how the discourse covers everything outside the "
+         "body without listing it."),
+        ("cetovimutti paññāvimutti",
+         "&ldquo;freedom of heart and freedom by wisdom&rdquo; &mdash; the two-sided formula for "
+         "liberation, one term for the mind released and one for the release being a matter of "
+         "understanding."),
+    ],
+    text_intro=(
+        "The discourse in full, with the verse from the Pārāyana that closes it. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ānanda&rsquo;s question"),
+        ("p", "&sect;1", "an3.32:1.1"),
+        ("p", "&sect;2", "an3.32:2.1-2.4"),
+        ("h3", "But how?"),
+        ("p", "&sect;3", "an3.32:3.1-3.2"),
+        ("p", "&sect;4", "an3.32:4.1-4.4"),
+        ("h3", "The verse he is quoting"),
+        ("p", "&sect;5", "an3.32:5.1"),
+        ("p", "&sect;6", "an3.32:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What does Ānanda ask?",
+         "opts": [
+             "Whether an arahant still has a body",
+             "Whether a mendicant might gain a state of immersion with no I-making, mine-making, or underlying tendency to conceit &mdash; internally or externally",
+             "How many jhānas there are",
+             "Whether laypeople can be liberated"],
+         "correct": 1,
+         "expl": "He asks whether a describable, attainable state has this property."},
+        {"q": "What are I-making and mine-making, according to the guide?",
+         "opts": [
+             "Philosophical beliefs about a self",
+             "Two names for craving",
+             "Activities of the mind &mdash; the ongoing production of an <em>I</em> and a <em>mine</em>, which continue in people who hold no view of a self",
+             "Types of speech"],
+         "correct": 2,
+         "expl": "Verbs made into nouns, not nouns for beliefs."},
+        {"q": "How does the guide distinguish <em>mānānusaya</em> from ordinary arrogance?",
+         "opts": [
+             "It is conceit as a disposition &mdash; the reflex of measuring better, equal, or worse &mdash; and it is held to be the last fetter abandoned",
+             "It is arrogance in speech only",
+             "It applies only to monastics",
+             "There is no difference"],
+         "correct": 0,
+         "expl": "Which is why it appears in a question about the highest attainment rather than one about manners."},
+        {"q": "What is covered by &ldquo;externally for all signs&rdquo;?",
+         "opts": [
+             "Other people only",
+             "Visible objects only",
+             "Everything outside the conscious body &mdash; <em>nimitta</em> being the aspect of a thing the mind takes hold of",
+             "Meditation objects only"],
+         "correct": 2,
+         "expl": "Between inside and outside, nothing is left over &mdash; which is why the sentence is so long."},
+        {"q": "What is the Buddha&rsquo;s answer to &ldquo;how?&rdquo;",
+         "opts": [
+             "A course of four jhānas",
+             "A single contemplation: <em>this is peaceful; this is sublime</em> &mdash; the stilling of all activities, the ending of craving, extinguishment",
+             "Study of the discourses",
+             "Observance of the precepts"],
+         "correct": 1,
+         "expl": "One sentence, in answer to a question four lines long."},
+        {"q": "Why does the guide say the answer is not evasive?",
+         "opts": [
+             "Because it is repeated three times",
+             "Because I-making needs material, and the one object that supplies none is the stilling of the whole business &mdash; so the absence of self-making follows from what the object is",
+             "Because Ānanda accepts it",
+             "Because it is in verse"],
+         "correct": 1,
+         "expl": "It is a change of object rather than a technique of suppression."},
+        {"q": "How does AN 3.33 relate to this discourse?",
+         "opts": [
+             "It contradicts it",
+             "It gives the identical formula to Sāriputta as something to train in &mdash; a state described here becomes an instruction there",
+             "It is about a different subject entirely",
+             "It repeats it word for word with no change"],
+         "correct": 1,
+         "expl": "The two discourses are a matched pair and are best read together."},
+        {"q": "Which text does the Buddha quote at the end?",
+         "opts": [
+             "The Dhammapada",
+             "The Pārāyana, in the Questions of Puṇṇaka &mdash; on this site at Snp 5.4",
+             "The Vinaya",
+             "The Questions of Udaya"],
+         "correct": 1,
+         "expl": "The Questions of Udaya is quoted in the next discourse, AN 3.33."},
+        {"q": "What does the guide say is happening in the quotation?",
+         "opts": [
+             "Only a change of style",
+             "A claim about continuity &mdash; that the prose analysis and the old verse are the same teaching &mdash; and a shift of register from technical negatives to a description of a condition",
+             "A correction of the earlier verse",
+             "An appeal to another teacher&rsquo;s authority"],
+         "correct": 1,
+         "expl": "And the Buddha makes the continuity claim himself."},
+        {"q": "Why does the guide flag the phrase &ldquo;with no need for hope&rdquo;?",
+         "opts": [
+             "Because it is a mistranslation",
+             "Because being without hope is a compliment here &mdash; a reversal worth warning a class about before they meet it",
+             "Because it refers to despair",
+             "Because it is addressed to laypeople"],
+         "correct": 1,
+         "expl": "<em>Nirāsa</em> names the state of someone with nothing outstanding, not someone defeated."},
+    ],
+    marginalia=[
+        ("Three things absent", [
+            "<span class=\"pali\">ahaṅkāra</span>I-making",
+            "<span class=\"pali\">mamiṅkāra</span>mine-making",
+            "<span class=\"pali\">mānānusaya</span>conceit, underlying",
+        ]),
+        ("Two directions", [
+            "this conscious body",
+            "externally, all signs",
+            "&mdash; nothing left over",
+        ]),
+        ("The whole method", [
+            "&ldquo;this is peaceful&rdquo;",
+            "&ldquo;this is sublime&rdquo;",
+            "&mdash; a change of object",
+        ]),
+        ("Cross-references", [
+            "Snp 5.4 &middot; the verse quoted",
+            "AN 3.33 &middot; the same, as training",
+            "MN 109 &middot; the formula at length",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.32/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../sutta-nipata/snp-5.4.html">Snp 5.4 &middot; The Questions of Puṇṇaka</a> '
+        "&mdash; the verse the Buddha quotes, in its own setting: an answer to a brahmin who came "
+        "asking about sacrifice. Reading the two together shows what the Buddha meant by saying the "
+        "prose and the verse are the same teaching.",
+        '<a href="an-3.33.html">AN 3.33 &middot; With Sāriputta</a> &mdash; the matched discourse, '
+        "where the same sentence is handed over as a training rather than described as a state.",
+        '<a href="../majjhima-nikaya/mn-109.html">MN 109 &middot; The Longer Discourse on the '
+        "Full-Moon Night</a> &mdash; where the I-making and mine-making formula is worked through at "
+        "length against the five aggregates, which is the analysis AN 3.32 compresses into a phrase.",
+        '<a href="../majjhima-nikaya/mn-064.html">MN 64 &middot; The Longer Discourse with '
+        "Māluṅkya</a> &mdash; for the same &ldquo;this is peaceful, this is sublime&rdquo; formula "
+        "used as the turning point out of the meditative attainments.",
+    ],
+)
+
+
+page(
+    33, "Sāriputta", "With Sāriputta",
+    vagga=VAGGA_4,
+    meta_title="AN 3.33 — With Sāriputta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sāriputtasutta — the "
+        "Buddha says it is hard to find anyone who understands, Sāriputta says now is the time, "
+        "and the training that follows is the same sentence given to Ānanda. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Sāriputta approaches the Buddha, bows, and is spoken to first"),
+        ("Speakers", "The Buddha and Venerable Sāriputta"),
+        ("Form", "An opening remark, a request, a training instruction, a title conferred, and a "
+                 "quoted verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material on training free of I-making and mine-making is "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the same technical sentence as AN "
+                       "3.32, plus a dense verse on the hindrances"),
+    ],
+    why=(
+        "The Buddha opens by saying he might teach in brief, or in detail, or both &mdash; but that "
+        "it is hard to find anyone who understands. Sāriputta answers, <em>now is the time,</em> and "
+        "guarantees an audience. What follows is the sentence AN 3.32 gave to Ānanda as a description "
+        "of a state, handed over here as something to train in. The pair are best read one after the "
+        "other, and the difference between them is the difference between knowing that something is "
+        "possible and being told to do it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Train so that there is no I-making, mine-making, or conceit toward anything inside or "
+            "outside &mdash; and that training is what the canon calls having made an end of "
+            "suffering."]),
+        ("The opening complaint", [
+            "&ldquo;Maybe I&rsquo;ll teach Dhamma in brief, maybe in detail, maybe both in brief and "
+            "in detail. But it&rsquo;s hard to find anyone who understands.&rdquo;",
+            "This is not a rebuke of Sāriputta, who is standing right there and is about to be given "
+            "the teaching. It is a statement about the general case, and it puts a condition on "
+            "teaching: the form a teaching takes depends on who can receive it. The canon returns to "
+            "this repeatedly, most famously in the hesitation after the awakening.",
+            "Sāriputta&rsquo;s reply is the second half of the exchange and the reason it was "
+            "preserved: <em>now is the time, Blessed One! There will be those who understand the "
+            "teaching!</em> Somebody has to make that claim before a teaching happens, and here it is "
+            "not the teacher who makes it."]),
+        ("The same sentence, in a new mood", [
+            "What the Buddha then says is word for word the formula of AN 3.32, with one change: it "
+            "is put in the first person plural and prefaced by <em>you should train like this</em>. "
+            "Ānanda asked whether such a state exists and was told how it is reached; Sāriputta is "
+            "told to train for it.",
+            "That difference is not trivial and it is worth making a class notice it, because the two "
+            "discourses stand next to each other in the collection deliberately. A description "
+            "answers a question. A training is an instruction with a second person in it. The "
+            "compilers put the answer first and the instruction second.",
+            "The content is unchanged: no I-making, mine-making, or underlying tendency to conceit "
+            "for this conscious body, none externally for all signs, and living in the freedom of "
+            "heart and freedom by wisdom where those three are no more. See the key terms on AN 3.32 "
+            "for the vocabulary."]),
+        ("The title conferred", [
+            "Then comes something AN 3.32 does not have: a name for the person who has done it. Such "
+            "a mendicant <em>has cut off craving, cast off the fetters, and by rightly comprehending "
+            "conceit has made an end of suffering</em>.",
+            "The three clauses are a compressed description of arahantship, and the third is the one "
+            "to slow down on. It does not say that conceit is suppressed or that the person no longer "
+            "feels superior to anyone. It says conceit is <em>rightly comprehended</em>, "
+            "<em>sammā mānābhisamayā</em> &mdash; understood in a way that ends it. The canon "
+            "consistently treats conceit as something that dissolves under accurate seeing rather "
+            "than something defeated by effort, and this phrase is where the Threes say so."]),
+        ("The verse from the Questions of Udaya", [
+            "The closing quotation is from the Pārāyana again, this time the Questions of Udaya, on "
+            "this site at Snp 5.14. It is denser than the Puṇṇaka verse and repays a slow read.",
+            "<em>The giving up of both sensual desires and displeasures, the casting aside of "
+            "dullness, and the prevention of remorse; pure equanimity and mindfulness, preceded by "
+            "investigation of principles &mdash; this, I declare, is liberation by enlightenment, the "
+            "smashing of ignorance.</em>",
+            "The first half is the five hindrances, in order and by name: sensual desire, ill will "
+            "(&ldquo;displeasures&rdquo;), dullness and drowsiness, restlessness and remorse, and "
+            "&mdash; by way of the investigation of principles &mdash; doubt. The second half is the "
+            "fourth jhāna, whose standard formula is exactly <em>purity of mindfulness and "
+            "equanimity</em>. So the verse walks from the hindrances abandoned to the fourth jhāna "
+            "and calls the result liberation by enlightenment.",
+            "That is a strong claim about meditation, and it is the reason this verse gets quoted. It "
+            "does not say that the fourth jhāna is liberation. It says that this sequence &mdash; "
+            "hindrances gone, investigation leading, equanimity and mindfulness pure &mdash; is what "
+            "<em>aññāvimokkha</em>, liberation by enlightenment, names. The Chinese meditation "
+            "manuals build their whole preliminary section on the same order of operations."]),
+        ("Using it", [
+            "Read AN 3.32 and AN 3.33 in one sitting. They are short, they share a sentence, and the "
+            "pair demonstrates something a single discourse cannot: that the canon distinguishes "
+            "carefully between telling you a state exists, telling you how it is entered, and telling "
+            "you to train for it.",
+            "For a class the usable handle is Sāriputta&rsquo;s line. Somebody in the room has to say "
+            "<em>there will be those who understand</em>, and the discourse records a teaching that "
+            "happened because a student said it rather than because the teacher assumed it."]),
+    ],
+    terms=[
+        ("saṅkhittena vitthārena",
+         "&ldquo;in brief, in detail&rdquo; &mdash; the two modes of teaching the Buddha offers, plus "
+         "both together. The canon treats the choice between them as depending on the listener."),
+        ("kālo bhagavā",
+         "&ldquo;now is the time, Blessed One&rdquo; &mdash; the formula by which a request for "
+         "teaching is made. In this discourse the student supplies both the request and the "
+         "assurance that there is an audience."),
+        ("sammā mānābhisamayā",
+         "&ldquo;by rightly comprehending conceit&rdquo; &mdash; the phrase for how conceit ends: "
+         "understood accurately rather than suppressed."),
+        ("upekkhāsatipārisuddhi",
+         "&ldquo;purity of equanimity and mindfulness&rdquo; &mdash; the standing formula for the "
+         "fourth jhāna, which is what the quoted verse arrives at."),
+        ("aññāvimokkha",
+         "&ldquo;liberation by enlightenment&rdquo; &mdash; what the verse calls the result of that "
+         "sequence, glossed in the same line as the smashing of ignorance."),
+    ],
+    text_intro=(
+        "The discourse in full, with the verse from the Questions of Udaya. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Hard to find anyone who understands"),
+        ("p", "&sect;1", "an3.33:1.1-1.8"),
+        ("h3", "The training"),
+        ("p", "&sect;2", "an3.33:2.1-2.3"),
+        ("p", "&sect;3", "an3.33:3.1-3.4"),
+        ("h3", "The verse he is quoting"),
+        ("p", "&sect;4", "an3.33:4.1-4.4"),
+        ("p", "&sect;5", "an3.33:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does the discourse open?",
+         "opts": [
+             "Sāriputta asks a question",
+             "The Buddha says he might teach in brief, in detail, or both &mdash; but that it is hard to find anyone who understands",
+             "The Buddha rebukes Sāriputta",
+             "A layperson asks for teaching"],
+         "correct": 1,
+         "expl": "A statement about the general case, not about the monk standing in front of him."},
+        {"q": "What does Sāriputta contribute?",
+         "opts": [
+             "An answer of his own",
+             "A summary of the teaching",
+             "The request and the assurance &mdash; &ldquo;now is the time&hellip; there will be those who understand the teaching!&rdquo;",
+             "A question about rebirth"],
+         "correct": 2,
+         "expl": "Somebody has to say it, and here it is not the teacher."},
+        {"q": "What is the relationship between this discourse and AN 3.32?",
+         "opts": [
+             "They share the same formula, given there as a description of a state and here as a training",
+             "They contradict each other",
+             "This one is longer and more detailed",
+             "They share only a speaker"],
+         "correct": 0,
+         "expl": "The compilers put the answer first and the instruction second."},
+        {"q": "What does the guide say distinguishes a description from a training?",
+         "opts": [
+             "Length",
+             "A description answers a question; a training is an instruction with a second person in it",
+             "Whether it is in verse",
+             "Whether it names an audience"],
+         "correct": 1,
+         "expl": "The two discourses stand next to each other in the collection deliberately."},
+        {"q": "What is the mendicant who has done this called?",
+         "opts": [
+             "A stream-enterer",
+             "A teacher of the Dhamma",
+             "One who has cut off craving, cast off the fetters, and by rightly comprehending conceit has made an end of suffering",
+             "One who has entered the fourth jhāna"],
+         "correct": 2,
+         "expl": "A compressed description of arahantship, and something AN 3.32 does not contain."},
+        {"q": "Why does the guide slow down on <em>sammā mānābhisamayā</em>?",
+         "opts": [
+             "Because it is a rare word",
+             "Because it says conceit is rightly comprehended &mdash; understood in a way that ends it, rather than suppressed or defeated by effort",
+             "Because it refers to a monastic rule",
+             "Because Sāriputta questions it"],
+         "correct": 1,
+         "expl": "The canon consistently treats conceit as dissolving under accurate seeing."},
+        {"q": "Which verse does the Buddha quote here?",
+         "opts": [
+             "The Questions of Puṇṇaka",
+             "The Questions of Udaya, from the Pārāyana &mdash; on this site at Snp 5.14",
+             "A verse of the Dhammapada",
+             "His own first sermon"],
+         "correct": 1,
+         "expl": "The Questions of Puṇṇaka is quoted in the previous discourse, AN 3.32."},
+        {"q": "What does the first half of that verse enumerate?",
+         "opts": [
+             "The three characteristics",
+             "The four noble truths",
+             "The five hindrances &mdash; sensual desire, ill will, dullness, restlessness and remorse, and doubt by way of the investigation of principles",
+             "The five aggregates"],
+         "correct": 2,
+         "expl": "In order and by name, though not under the collective label."},
+        {"q": "What does its second half describe?",
+         "opts": [
+             "The first jhāna",
+             "The fourth jhāna, whose standard formula is exactly purity of mindfulness and equanimity",
+             "The formless attainments",
+             "Stream-entry"],
+         "correct": 1,
+         "expl": "The verse walks from the hindrances abandoned to the fourth jhāna."},
+        {"q": "What does the verse claim about that sequence?",
+         "opts": [
+             "That the fourth jhāna simply is liberation",
+             "That it is preliminary and unimportant",
+             "That this sequence is what <em>aññāvimokkha</em>, liberation by enlightenment, names &mdash; glossed in the same line as the smashing of ignorance",
+             "That it applies only to Sāriputta"],
+         "correct": 2,
+         "expl": "A strong claim about meditation, and the reason this verse gets quoted."},
+    ],
+    marginalia=[
+        ("The pair", [
+            "AN 3.32 &middot; a state described",
+            "AN 3.33 &middot; a training given",
+            "&mdash; one sentence, two moods",
+        ]),
+        ("Three clauses", [
+            "cut off craving",
+            "cast off the fetters",
+            "rightly comprehended conceit",
+        ]),
+        ("The Udaya verse", [
+            "hindrances abandoned",
+            "investigation leading",
+            "equanimity and mindfulness pure",
+            "&mdash; liberation by enlightenment",
+        ]),
+        ("Cross-references", [
+            "Snp 5.14 &middot; the verse quoted",
+            "AN 3.32 &middot; the matched discourse",
+            "AN 3.63 &middot; the jhāna formula in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.33/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../sutta-nipata/snp-5.14.html">Snp 5.14 &middot; The Questions of Udaya</a> '
+        "&mdash; the verse quoted here, in the exchange it belongs to. Udaya asks about the "
+        "breaking of ignorance and gets this in reply, which is why the Buddha can cite it as a "
+        "summary of the training just given.",
+        '<a href="an-3.32.html">AN 3.32 &middot; With Ānanda</a> &mdash; the other half of the pair, '
+        "with the key terms for the shared formula set out in full.",
+        '<a href="/sutras/shi-chan-boluomi/fascicle-002/">Shi Chan Boluomi &middot; Fascicle 2</a> '
+        "&mdash; Zhiyi&rsquo;s preliminary expedients, built on the same order of operations the "
+        "Udaya verse assumes: the five hindrances abandoned before the mind is gathered. Useful for "
+        "seeing a Chinese manual work out in detail what a Pāli verse states in four lines.",
+    ],
+)
+
+
+page(
+    34, "Nidāna", "Sources",
+    vagga=VAGGA_4,
+    meta_title="AN 3.34 — Sources | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nidānasutta — greed, "
+        "hate, and delusion as the sources of deeds, the seed sown in a good field and the seed "
+        "burned to ash, and a closing verse that drops the prose's timings. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A triad and its simile, a second triad and its simile, and two closing verses"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The three unwholesome roots are preserved throughout the Chinese "
+                              "Āgamas and the triad became standard Abhidharma vocabulary as 貪瞋癡; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; heavily repetitive by design, "
+                       "with one sentence that has puzzled readers for a long time"),
+    ],
+    why=(
+        "Three things give rise to deeds: greed, hate, and delusion. A deed born of them ripens "
+        "wherever the doer is reborn, and its result is experienced in this life, the next, or some "
+        "later one &mdash; like sound seed sown in a prepared field with rain falling. Then the "
+        "discourse names a second three, contentment, love, and understanding, and the simile "
+        "changes completely: the seeds are burned, the ashes scattered in the wind or floated down a "
+        "river. The second half is not about good deeds being rewarded. It is about deeds coming to "
+        "an end."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Deeds rooted in greed, hate, and delusion keep producing results wherever you go next; "
+            "deeds rooted in their opposites are what brings the whole production to a stop."]),
+        ("The word <em>nidāna</em>, and why the title matters", [
+            "<em>Nidāna</em> is source, origin, or ground &mdash; the same word that titles the "
+            "great chapter on dependent origination in the Saṁyutta. The discourse is not asking "
+            "which deeds are bad. It is asking what deeds come out of.",
+            "The answer is a triad that will be doing structural work for the rest of the "
+            "collection: <em>lobha</em>, greed; <em>dosa</em>, hate; <em>moha</em>, delusion. East "
+            "Asian Buddhism inherited it as 貪瞋癡, the three poisons, and built a whole moral "
+            "psychology on top of it. This is one of the plainest early statements of what the triad "
+            "is for.",
+            "Notice that the roots are not deeds. Greed is not stealing and hate is not violence; "
+            "they are what stealing and violence come out of. That distinction is the entire content "
+            "of the word <em>nidāna</em>, and it is why the discourse can then say something about "
+            "all deeds at once."]),
+        ("Two clauses about where and when", [
+            "Each root gets the same sentence: a deed born, sourced, and originated from it "
+            "<em>ripens where that new incarnation is born</em>, and wherever it ripens, its result "
+            "is experienced <em>either in the present life, or in the next life, or in some "
+            "subsequent period</em>.",
+            "Two separate claims are packed in there. The first is about place: the deed matures "
+            "wherever the doer turns up, not in some ledger held elsewhere. The second is about time, "
+            "and it gives three options rather than one.",
+            "This is where a Western class usually stops, and the honest thing is to stop with them. "
+            "The discourse assumes rebirth. It is not using &ldquo;next life&rdquo; as a metaphor for "
+            "tomorrow, and reading it that way makes the sentence say nothing at all. Anyone who does "
+            "not accept rebirth is entitled to say so, and should be told that the text is not on "
+            "their side of the question.",
+            "What survives that disagreement is still substantial: that acts have sources, that the "
+            "source determines what the act produces, and that results are not on a schedule the doer "
+            "controls. The three timings are stated precisely so that no one can read a delay as an "
+            "acquittal &mdash; which is the same point AN 3.100 makes with its lump of salt."]),
+        ("The two similes, and how differently they behave", [
+            "The first simile is agricultural and entirely positive in mechanism: seeds intact, "
+            "unspoiled, undamaged by weather, fertile, well kept; sown in a well-prepared productive "
+            "field; the heavens providing plenty of rain. Then they grow, increase, and mature. "
+            "Everything is working. That is the point &mdash; deeds rooted in the three roots are not "
+            "defective machinery. They function.",
+            "The second simile takes the identical seeds and destroys them: burned with fire, reduced "
+            "to ashes, and the ashes whisked away in a strong wind or floated down a swift stream. "
+            "Not stored, not neutralized, not offset. Ended, and then the remains dispersed so "
+            "thoroughly that the image forecloses recovery.",
+            "The asymmetry is the discourse&rsquo;s real argument. A reader coming in expects a "
+            "symmetrical ledger: bad deeds produce bad fruit, good deeds produce good fruit. The "
+            "second half does not say that. It says that deeds rooted in non-greed, non-hate, and "
+            "non-delusion are <em>cut off at the root, made like a palm stump, obliterated, and "
+            "unable to arise in the future.</em> The subject has changed from what kamma produces to "
+            "how kamma stops."]),
+        ("The sentence that has puzzled readers", [
+            "In the second half each root gets this form: a deed that emerges from contentment "
+            "&ldquo;is given up when greed is done away with,&rdquo; a deed from love is abandoned "
+            "when hate is done away with, a deed from understanding when delusion is done away with.",
+            "Read plainly that is odd. It seems to say that wholesome-rooted deeds are abandoned when "
+            "the corresponding <em>unwholesome</em> root goes &mdash; and it is the wholesome deed, "
+            "not the unwholesome one, that is described as cut off like a palm stump. Translators and "
+            "commentators have not read this uniformly, and this guide is not going to pretend the "
+            "question is settled.",
+            "Two readings are worth having in mind. On one, the sentence is about the person in whom "
+            "greed is gone: their good deeds no longer function as kamma-producing deeds at all, "
+            "because there is nothing left to carry them forward &mdash; which is what the canon "
+            "elsewhere says of an arahant&rsquo;s actions. On the other, the passage is describing "
+            "the whole apparatus of deed-and-result winding down, wholesome deeds included, since "
+            "the goal is not an improved balance but no balance.",
+            "Both readings land in the same place, which is why the disagreement is tolerable: the "
+            "second half of this discourse is not about accumulating merit. If a class comes away "
+            "thinking that non-greed, non-hate, and non-delusion are how you earn a better rebirth, "
+            "they have read the first half twice and the second half not at all."]),
+        ("The verses, and what they leave out", [
+            "The closing verses say that when an ignorant person acts out of greed, hate, or "
+            "delusion, any deeds they have done, a little or a lot, <em>are to be experienced right "
+            "here, not in any other place</em>.",
+            "That is not what the prose said. The prose was careful to give three timings &mdash; "
+            "this life, the next, or some subsequent period &mdash; and the verse compresses them "
+            "into one. It is the same thing the verses do at AN 3.26 and AN 3.27, where a "
+            "qualification stated carefully in prose disappears when the material is put into meter.",
+            "The right response is not to accuse the verse of error. Verse in this collection works "
+            "by force rather than precision, and <em>right here, not in any other place</em> is doing "
+            "rhetorical work: there is no elsewhere to send the consequences to. But a reader who "
+            "takes the verse as the discourse&rsquo;s doctrine of kamma will have a narrower position "
+            "than the prose eight paragraphs earlier, and a teacher should point at the seam rather "
+            "than smooth it over.",
+            "The final verse gives the practical upshot, and it is not a warning: a wise mendicant "
+            "who <em>arouses knowledge of the outcome</em> of greed, hate, and delusion abandons all "
+            "bad destinies. What ends the trouble is understanding where deeds come from &mdash; "
+            "which is the discourse&rsquo;s title."]),
+    ],
+    terms=[
+        ("nidāna",
+         "&ldquo;source, ground, origin&rdquo; &mdash; the title word, and the same term that names "
+         "the great chapter on dependent origination. The question is not which deeds are bad but "
+         "what deeds come out of."),
+        ("lobha dosa moha",
+         "&ldquo;greed, hate, delusion&rdquo; &mdash; the three unwholesome roots, inherited by East "
+         "Asian Buddhism as 貪瞋癡, the three poisons. They are not deeds but what deeds arise from."),
+        ("alobha adosa amoha",
+         "&ldquo;contentment, love, understanding&rdquo; &mdash; the three wholesome roots, each "
+         "formed in Pāli as the simple negation of its opposite, which is why the English renderings "
+         "vary so much."),
+        ("ucchinnamūla tālāvatthukata",
+         "&ldquo;cut off at the root, made like a palm stump&rdquo; &mdash; the canon&rsquo;s "
+         "standard formula for something permanently ended. A palm cut through the crown cannot "
+         "regrow."),
+        ("diṭṭheva dhamme upapajje vā apare vā pariyāye",
+         "&ldquo;in the present life, in the next life, or in some subsequent period&rdquo; &mdash; "
+         "the three timings for a result, stated so that a delay cannot be read as an acquittal."),
+    ],
+    text_intro=(
+        "The discourse in full, both triads with their similes and the closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three sources"),
+        ("p", "&sect;1", "an3.34:1.1-1.3"),
+        ("p", "&sect;2&ndash;4", "an3.34:2.1-4.2"),
+        ("h3", "Seeds sown in a good field"),
+        ("p", "&sect;5&ndash;6", "an3.34:5.1-6.4"),
+        ("h3", "And three more"),
+        ("p", "&sect;7", "an3.34:7.1-7.3"),
+        ("p", "&sect;8&ndash;10", "an3.34:8.1-10.1"),
+        ("h3", "Seeds burned to ash"),
+        ("p", "&sect;11&ndash;12", "an3.34:11.1-12.4"),
+        ("h3", "In verse"),
+        ("p", "&sect;13&ndash;14", "an3.34:13.1-14.4"),
+    ],
+    quiz=[
+        {"q": "What does <em>nidāna</em> mean, and what question does it set?",
+         "opts": [
+             "&ldquo;Result&rdquo; &mdash; what deeds produce",
+             "&ldquo;Source&rdquo; &mdash; not which deeds are bad, but what deeds come out of",
+             "&ldquo;Story&rdquo; &mdash; the setting of a discourse",
+             "&ldquo;Intention&rdquo; &mdash; the will behind an act"],
+         "correct": 1,
+         "expl": "The same word titles the great chapter on dependent origination."},
+        {"q": "Why does the guide stress that the roots are not deeds?",
+         "opts": [
+             "Because greed is not stealing and hate is not violence &mdash; they are what such acts come out of, which is what lets the discourse speak about all deeds at once",
+             "Because the roots are only mental and therefore harmless",
+             "Because deeds are unimportant",
+             "Because the roots apply only to monastics"],
+         "correct": 0,
+         "expl": "That distinction is the entire content of the word <em>nidāna</em>."},
+        {"q": "What two separate claims are packed into the repeated sentence?",
+         "opts": [
+             "One about intention and one about speech",
+             "One about place &mdash; the deed ripens wherever the doer is reborn &mdash; and one about time, with three options rather than one",
+             "One about monastics and one about laypeople",
+             "One about this life only"],
+         "correct": 1,
+         "expl": "The result is not held in a ledger elsewhere, and it is not on a schedule the doer controls."},
+        {"q": "How does the guide handle a reader who does not accept rebirth?",
+         "opts": [
+             "By treating &ldquo;next life&rdquo; as a metaphor for tomorrow",
+             "By saying the objection is not allowed",
+             "By stating plainly that the discourse assumes rebirth and that the text is not on that reader&rsquo;s side of the question",
+             "By omitting the passage"],
+         "correct": 2,
+         "expl": "Reading it as metaphor makes the sentence say nothing at all."},
+        {"q": "What is the first simile, and what does it establish?",
+         "opts": [
+             "Seeds sown in poor soil &mdash; deeds are wasted",
+             "Sound seeds in a prepared field with plenty of rain &mdash; deeds rooted in the three roots are not defective machinery; they function",
+             "A fire in a grass hut",
+             "A pot turned upside down"],
+         "correct": 1,
+         "expl": "Everything in the image is working, and that is the point."},
+        {"q": "What happens to the seeds in the second simile?",
+         "opts": [
+             "They are stored for later",
+             "They are planted in a better field",
+             "They are burned to ash and the ashes whisked away in a strong wind or floated down a swift stream",
+             "They are eaten by birds"],
+         "correct": 2,
+         "expl": "Not stored, not neutralized, not offset &mdash; ended, and the remains dispersed beyond recovery."},
+        {"q": "What asymmetry does the guide call the discourse&rsquo;s real argument?",
+         "opts": [
+             "That good deeds ripen faster",
+             "That the second half is not a symmetrical ledger of good fruit for good deeds &mdash; the subject changes from what kamma produces to how kamma stops",
+             "That hate is worse than greed",
+             "That the similes are the same"],
+         "correct": 1,
+         "expl": "The reader arrives expecting a ledger, and does not get one."},
+        {"q": "How does the guide treat the puzzling sentence about wholesome-rooted deeds?",
+         "opts": [
+             "As a translation error to be ignored",
+             "As settled by the commentary",
+             "As a genuine crux &mdash; two readings are set out, and the guide declines to pretend the question is settled",
+             "As proof that good deeds have no result"],
+         "correct": 2,
+         "expl": "Both readings land in the same place, which is why the disagreement is tolerable."},
+        {"q": "What do the closing verses say about when deeds are experienced?",
+         "opts": [
+             "In the present life, the next, or some subsequent period",
+             "Right here, not in any other place &mdash; compressing the prose&rsquo;s three timings into one",
+             "Only after death",
+             "They say nothing about timing"],
+         "correct": 1,
+         "expl": "The same thing the verses do at AN 3.26 and AN 3.27."},
+        {"q": "What does the guide recommend doing about that gap?",
+         "opts": [
+             "Accusing the verse of error",
+             "Treating the verse as the discourse&rsquo;s real doctrine",
+             "Pointing at the seam rather than smoothing it over &mdash; verse works by force rather than precision, and the prose eight paragraphs earlier is wider",
+             "Removing the verse"],
+         "correct": 2,
+         "expl": "&ldquo;Right here, not in any other place&rdquo; is doing rhetorical work: there is no elsewhere to send consequences to."},
+    ],
+    marginalia=[
+        ("Three roots", [
+            "<span class=\"pali\">lobha</span>greed &middot; 貪",
+            "<span class=\"pali\">dosa</span>hate &middot; 瞋",
+            "<span class=\"pali\">moha</span>delusion &middot; 癡",
+        ]),
+        ("Two similes", [
+            "sound seed, good field, rain",
+            "burned, ashed, scattered",
+            "&mdash; function vs. ending",
+        ]),
+        ("Three timings", [
+            "in the present life",
+            "in the next life",
+            "in some subsequent period",
+            "&mdash; dropped by the verse",
+        ]),
+        ("Cross-references", [
+            "AN 3.100 &middot; the lump of salt",
+            "AN 3.26 &middot; verse dropping prose",
+            "AN 3.35 &middot; the palm-stump formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.34/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.100.html">AN 3.100 &middot; A Lump of Salt</a> &mdash; the other great kamma '
+        "discourse of the Threes, and the necessary companion: where this one says a result comes at "
+        "one of three times, that one says the same deed lands differently depending on who did it.",
+        '<a href="an-3.26.html">AN 3.26 &middot; Associates</a> &mdash; for the same seam between '
+        "prose and closing verse, where a qualification carefully stated in prose is dropped when "
+        "the material goes into meter.",
+        '<a href="/abhidharma/abhidharmakosa/fascicle-013/">Abhidharmakośa &middot; Fascicle 13</a> '
+        "&mdash; the opening of the karma chapter, where the same question this discourse asks in "
+        "five paragraphs becomes a systematic treatment: what kamma is, whether it leaves a physical "
+        "residue, and why no creator god is needed to explain the world&rsquo;s differences.",
+        '<a href="an-3.35.html">AN 3.35 &middot; With Hatthaka</a> &mdash; the next discourse, which '
+        "applies the same palm-stump formula to a person rather than to a deed.",
+    ],
+)
+
+
+page(
+    35, "Hatthaka", "With Hatthaka",
+    vagga=VAGGA_4,
+    meta_title="AN 3.35 — With Hatthaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Hatthakasutta — the "
+        "Buddha, asked whether he slept well on a mat of leaves in midwinter, says yes, and "
+        "answers with the most comfortable bed in the discourses. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Āḷavī, on a mat of leaves by a cow-path in a rosewood grove, in the week "
+                    "of mid-winter"),
+        ("Speakers", "Hatthaka of Āḷavī and the Buddha"),
+        ("Form", "A polite question taken literally, a counter-question with a long simile, three "
+                 "rounds of the same argument, and closing verses"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The exchange with Hatthaka on sleeping at ease has counterparts in the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; one of the most immediately "
+                       "readable discourses in the Threes"),
+    ],
+    why=(
+        "Hatthaka finds the Buddha sitting on leaves by a cow-path in the coldest week of the year "
+        "and asks the polite question &mdash; did you sleep well? The Buddha says yes, and adds that "
+        "he is one of those who sleep at ease in the world. Hatthaka lists everything wrong with the "
+        "situation: frozen ground, thin leaves, bare trees, cold robes, a north wind. And the reply "
+        "is not an argument about hardship. It is a description of the most comfortable bedroom in "
+        "the discourses, and a question about who is really asleep in it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Sleeping well is not a fact about the bed."]),
+        ("The scene, and why it is drawn so carefully", [
+            "The details are unusually specific for this collection: Āḷavī, a mat of leaves, a "
+            "cow-path in a rosewood grove, the week of mid-winter when the snow falls, ground "
+            "trampled hard by hooves, sparse leaves on the trees, thin ocher robes, a north wind. "
+            "Hatthaka supplies most of them himself, in one breath, as an objection.",
+            "This matters because the discourse could easily have been an assertion that discomfort "
+            "does not matter to a spiritually advanced person. It is not. Hatthaka&rsquo;s catalogue "
+            "is allowed to stand in full and is never contradicted. The Buddha does not say the "
+            "ground was soft or the wind was mild.",
+            "Hatthaka is a lay disciple of Āḷavī, addressed here as <em>kumāra</em>, prince. He "
+            "appears elsewhere in this same chapter at AN 3.127 and is one of the more attractive "
+            "laypeople in the collection: rich, well connected, and consistently drawn as someone who "
+            "asks direct questions and takes the answers."]),
+        ("The bungalow", [
+            "Rather than defend the leaves, the Buddha describes their opposite in loving detail. A "
+            "householder or his son in a bungalow plastered inside and out, draft-free, with door "
+            "fastened and window shuttered. A couch spread with woolen covers &mdash; shag-piled, "
+            "pure white, or embroidered with flowers &mdash; and a fine deer hide, a canopy above, "
+            "red pillows at both ends. A lamp burning. Four wives attending to him in all manner of "
+            "agreeable ways.",
+            "The building is word for word the mansion of AN 3.1, where the same sealed and shuttered "
+            "bungalow burns down because a fire started in a grass hut next door. Whoever assembled "
+            "the Threes liked this image, and both discourses use it the same way: as the best "
+            "protection money can build, and as insufficient.",
+            "The wives belong to that inventory, and it is worth naming plainly what a modern reader "
+            "is looking at. They appear in the list the way the deer hide and the red pillows appear "
+            "&mdash; as items in an ancient rich man&rsquo;s catalogue of comfort. The discourse is "
+            "not recommending the arrangement; it is not discussing the arrangement at all. It is "
+            "describing the most enviable situation its first audience could imagine in order to say "
+            "that the man in it may still be lying awake. A class can be told exactly that, and told "
+            "that the text&rsquo;s indifference to the wives as people is a feature of its world "
+            "rather than a teaching of the discourse."]),
+        ("The question that turns it", [
+            "Hatthaka agrees at once that such a man sleeps at ease &mdash; of those who sleep at "
+            "ease in the world, he would be one. Which is the whole trap, because he has just used "
+            "the Buddha&rsquo;s own phrase.",
+            "Then: <em>is it not possible that a fever born of greed &mdash; physical or mental "
+            "&mdash; might arise in that householder, burning him so he sleeps badly?</em> Hatthaka "
+            "says yes. The same for hate, and for delusion.",
+            "<em>Pariḷāha</em> is fever, burning, torment; and the discourse insists it can be "
+            "<em>kāyika</em> or <em>cetasika</em>, of the body or of the mind. Nothing in the "
+            "bungalow addresses either. Shutters keep out wind, not the thing that is actually "
+            "keeping the man awake.",
+            "So the argument is not that austerity is superior to comfort. It is that comfort and "
+            "torment are answers to different questions, and the fully equipped bedroom is aimed at "
+            "the wrong one."]),
+        ("What the Buddha claims for himself", [
+            "&ldquo;The greed that burns that householder, making them sleep badly, has been cut off "
+            "at the root by the Realized One, made like a palm stump, obliterated, and unable to "
+            "arise in the future. That&rsquo;s why I sleep at ease.&rdquo;",
+            "The formula is the one AN 3.34 has just used for deeds. Here it is used of a person, and "
+            "the claim is stated in the third person &mdash; <em>by the Realized One</em> &mdash; "
+            "which is the canon&rsquo;s usual register when the Buddha describes his own condition "
+            "as a matter of fact rather than of feeling.",
+            "Note what is <em>not</em> claimed. He does not say he feels no cold. He says the cause "
+            "of the fever is gone. The mat of leaves is still thin; the north wind is still blowing; "
+            "the man in the bungalow is still better provided for in every respect the two of them "
+            "have discussed. What has changed is the one variable neither the leaves nor the shutters "
+            "could touch."]),
+        ("Using it", [
+            "This is the discourse to teach when a class has begun to suspect that Buddhism is "
+            "against comfort. It is not: the bungalow is described with evident relish, and the "
+            "Buddha never suggests the householder should give it up. The claim is narrower and "
+            "harder to argue with &mdash; that the equipment does not reach the problem.",
+            "It also models something useful about answering questions. Hatthaka asks a formality and "
+            "gets a literal answer; he raises an objection and gets a counter-question rather than a "
+            "rebuttal; and he arrives at the conclusion himself, having agreed to every step. "
+            "Nowhere is he told he is wrong.",
+            "The closing verses generalize it: the one who is fully quenched always sleeps at ease, "
+            "sensual pleasures slip off them, they are cooled and free of attachments. <em>Cooled</em> "
+            "&mdash; <em>sītibhūta</em>, become cool &mdash; is the exact opposite of the fever, and "
+            "it is worth pointing out that in a country where the problem is heat, the word for "
+            "liberation reaches for coolness while a Northern European vocabulary would have reached "
+            "for warmth."]),
+    ],
+    terms=[
+        ("sukhaṁ seti",
+         "&ldquo;sleeps at ease&rdquo; &mdash; the phrase the whole discourse turns on. Hatthaka "
+         "uses it of the man in the bungalow, having just heard the Buddha use it of himself on a mat "
+         "of leaves."),
+        ("pariḷāha",
+         "&ldquo;fever, burning, torment&rdquo; &mdash; and the discourse specifies that it may be "
+         "<em>kāyika</em> or <em>cetasika</em>, bodily or mental. Nothing in the bungalow addresses "
+         "either."),
+        ("ucchinnamūla tālāvatthukata",
+         "&ldquo;cut off at the root, made like a palm stump&rdquo; &mdash; the same formula AN 3.34 "
+         "applies to deeds, here applied to the three roots in a person."),
+        ("sītibhūta",
+         "&ldquo;become cool&rdquo; &mdash; the closing verses&rsquo; word for the quenched person, "
+         "the exact opposite of the fever, and a reminder that the vocabulary of liberation was "
+         "formed in a hot country."),
+        ("kumāra",
+         "&ldquo;prince&rdquo; &mdash; how the Buddha addresses Hatthaka of Āḷavī, a wealthy lay "
+         "disciple who appears again in this collection at AN 3.127."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "On a mat of leaves in midwinter"),
+        ("p", "&sect;1", "an3.35:1.1-1.7"),
+        ("p", "&sect;2", "an3.35:2.1-2.4"),
+        ("h3", "The bungalow"),
+        ("p", "&sect;3", "an3.35:3.1-3.9"),
+        ("h3", "The fever"),
+        ("p", "&sect;4", "an3.35:4.1-4.3"),
+        ("p", "&sect;5", "an3.35:5.1-5.2"),
+        ("p", "&sect;6", "an3.35:6.1-6.4"),
+        ("p", "&sect;7", "an3.35:7.1-7.2"),
+        ("h3", "In verse"),
+        ("p", "&sect;8&ndash;9", "an3.35:8.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What does Hatthaka ask, and what does he get?",
+         "opts": [
+             "A question about rebirth, answered with a simile",
+             "The polite question &mdash; did the Buddha sleep well? &mdash; answered literally, and with the claim to be one of those who sleep at ease in the world",
+             "A request for ordination",
+             "A question about the cold, answered with a rebuke"],
+         "correct": 1,
+         "expl": "A formality taken literally is what starts the discourse."},
+        {"q": "What does the Buddha do with Hatthaka&rsquo;s catalogue of hardships?",
+         "opts": [
+             "Denies them &mdash; the ground was soft and the wind mild",
+             "Lets them stand in full and never contradicts them",
+             "Says they do not matter to an advanced practitioner",
+             "Says Hatthaka is exaggerating"],
+         "correct": 1,
+         "expl": "The discourse is not an assertion that discomfort does not matter."},
+        {"q": "What does the Buddha describe in reply?",
+         "opts": [
+             "A monastery",
+             "A forest hut",
+             "A bungalow plastered inside and out, with a shag-piled couch, a canopy, red pillows, a burning lamp, and four wives in attendance",
+             "A king&rsquo;s palace at war"],
+         "correct": 2,
+         "expl": "Rather than defend the leaves, he describes their opposite in loving detail."},
+        {"q": "Where else in the Threes does that same bungalow appear?",
+         "opts": [
+             "AN 3.1, where it burns down because a fire started in a grass hut next door",
+             "AN 3.30, as a pot set upright",
+             "AN 3.21, as an example of seniority",
+             "It appears only here"],
+         "correct": 0,
+         "expl": "Both discourses use it the same way: the best protection money can build, and insufficient."},
+        {"q": "How does the guide handle the four wives?",
+         "opts": [
+             "By omitting the passage",
+             "By treating it as a teaching about marriage",
+             "By naming plainly that they appear as items in an ancient rich man&rsquo;s inventory of comfort, and that the text&rsquo;s indifference to them as people belongs to its world rather than to the discourse&rsquo;s teaching",
+             "By arguing that the passage is a later addition"],
+         "correct": 2,
+         "expl": "The discourse is not recommending the arrangement; it is not discussing it at all."},
+        {"q": "What does Hatthaka concede, and why does it matter?",
+         "opts": [
+             "That such a man sleeps at ease &mdash; using the Buddha&rsquo;s own phrase, which is the whole trap",
+             "That the Buddha is right about the cold",
+             "That wealth is worthless",
+             "That he cannot answer"],
+         "correct": 0,
+         "expl": "He has agreed to every step before the conclusion arrives."},
+        {"q": "What is <em>pariḷāha</em>, and what does the discourse specify about it?",
+         "opts": [
+             "Cold; and that it affects only the body",
+             "Fever or burning; and that it may be bodily or mental",
+             "Fear; and that it affects only the mind",
+             "Hunger; and that it is easily relieved"],
+         "correct": 1,
+         "expl": "Shutters keep out wind, not the thing that is actually keeping the man awake."},
+        {"q": "What is the argument, according to the guide?",
+         "opts": [
+             "That austerity is superior to comfort",
+             "That the householder should give up his bungalow",
+             "That comfort and torment are answers to different questions, and the fully equipped bedroom is aimed at the wrong one",
+             "That sleep is unimportant"],
+         "correct": 2,
+         "expl": "Which is why the discourse works on a class that suspects Buddhism is against comfort."},
+        {"q": "What does the Buddha claim for himself, and what does he not claim?",
+         "opts": [
+             "That he feels no cold",
+             "That the cause of the fever is gone &mdash; cut off at the root like a palm stump &mdash; not that he feels no cold",
+             "That the leaves are comfortable",
+             "That he does not sleep at all"],
+         "correct": 1,
+         "expl": "The mat is still thin and the north wind is still blowing."},
+        {"q": "What does the guide notice about the word <em>sītibhūta</em>, &ldquo;become cool&rdquo;?",
+         "opts": [
+             "That it means indifference",
+             "That it is a late addition",
+             "That in a hot country the vocabulary of liberation reaches for coolness, where a Northern European vocabulary would have reached for warmth",
+             "That it refers to the weather in the discourse"],
+         "correct": 2,
+         "expl": "And it is the exact opposite of the fever the discourse has been describing."},
+    ],
+    marginalia=[
+        ("The mat", [
+            "mid-winter, snow falling",
+            "ground hard with hooves",
+            "thin leaves, cold robes",
+            "&mdash; never denied",
+        ]),
+        ("The bungalow", [
+            "plastered, shuttered, draft-free",
+            "shag-piled covers, deer hide",
+            "canopy, red pillows, a lamp",
+        ]),
+        ("What it cannot reach", [
+            "<span class=\"pali\">pariḷāha</span>fever",
+            "bodily or mental",
+            "&mdash; born of greed, hate, delusion",
+        ]),
+        ("Cross-references", [
+            "AN 3.1 &middot; the same bungalow, burning",
+            "AN 3.34 &middot; the palm-stump formula",
+            "Dhp 15 &middot; happiness, in verse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.35/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.1.html">AN 3.1 &middot; Perils</a> &mdash; where the identical bungalow, '
+        "plastered inside and out with door fastened and window shuttered, burns down because of a "
+        "fire next door. Read together, the two discourses say that the best-built shelter fails "
+        "against both what comes from outside and what comes from inside.",
+        '<a href="an-3.34.html">AN 3.34 &middot; Sources</a> &mdash; the previous discourse, which '
+        "applies the palm-stump formula to deeds; this one applies it to the roots in a person.",
+        '<a href="../dhammapada/dhp-15.html">Dhammapada &middot; Chapter 15, Happiness</a> &mdash; '
+        "the verse collection on the same claim, including the line about living happily among those "
+        "who are afflicted. Useful beside AN 3.35 for how the same idea sounds without a narrative "
+        "around it.",
+        '<a href="../majjhima-nikaya/mn-004.html">MN 4 &middot; Fear and Dread</a> &mdash; the '
+        "Buddha&rsquo;s own account of what it took to sit out the nights in the wilderness, and the "
+        "long list of things that make a mind unable to settle. It supplies the interior of the "
+        "situation Hatthaka is looking at from the outside.",
+    ],
+)
