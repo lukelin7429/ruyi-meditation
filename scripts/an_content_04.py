@@ -27537,3 +27537,2514 @@ page(
         "in the Fours.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Bhayavagga — the thirteenth chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_13 = "<em>Bhayavagga</em> &mdash; the thirteenth chapter of the Fours"
+SETTING_13 = ("None stated; the Bhayavagga gives no location for this discourse, and it is addressed "
+              "to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.121 — Attānuvādasutta
+# --------------------------------------------------------------------------- #
+page(
+    121, "Attānuvāda", "Guilt",
+    vagga=VAGGA_13,
+    meta_title="AN 4.121 — Guilt | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Attānuvādasutta — four "
+        "fears that stop a person doing harm: their own reproach, other people's, the king's "
+        "punishment, and a bad rebirth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, each defined in turn with an identical closing formula"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The four-fold set of restraining fears circulates widely in the "
+                              "Chinese Āgamas, and the catalogue of judicial punishments inside it "
+                              "is a stock passage of the whole canon; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; plainly built, but the third "
+                       "item is a page of judicial torture and should be read before it is taught"),
+    ],
+    why=(
+        "The chapter of Fears opens by naming four of them, and the four are arranged from the "
+        "inside out: what I would think of myself, what others would think of me, what the king "
+        "would do to my body, and what would happen after I die. Each one is defined, and each "
+        "definition ends in exactly the same sentence &mdash; bad conduct given up, good conduct "
+        "developed, oneself kept pure. Four different motives, one outcome, and no ranking offered "
+        "between them."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four kinds of fear each stop a person from doing harm, and the discourse describes the "
+            "same result following from all four."]),
+        ("The order they come in", [
+            "<em>Attānuvādabhaya</em> is fear of one&rsquo;s own reproach, and it is first. The "
+            "reflection given for it is a question a person puts to themselves: <em>if I were to do "
+            "bad things by way of body, speech, and mind, wouldn&rsquo;t I blame myself for my "
+            "conduct?</em>",
+            "<em>Parānuvādabhaya</em>, second, is the same question with the subject changed &mdash; "
+            "<em>wouldn&rsquo;t others blame me?</em> The two are a matched pair and the Pāli makes "
+            "the pairing audible: <em>attā</em> and <em>para</em>, self and other, on the same stem.",
+            "Then the two external ones. Fear of punishment is fear of what the state does to a "
+            "convicted body. Fear of a bad destination is fear of where bad conduct lands a person "
+            "after death.",
+            "So the sequence runs from a private judgment, to a social one, to a legal one, to a "
+            "cosmological one. It is a tidy arrangement, and it is worth noticing that the "
+            "discourse does not say the first is better than the fourth. It says all four work."]),
+        ("The identical ending", [
+            "Read the four definitions side by side and the last two sentences of each are "
+            "word-for-word the same: <em>they give up bad conduct by way of body, speech, and mind, "
+            "and develop good conduct by way of body, speech, and mind, keeping themselves pure.</em>",
+            "That repetition is the argument. The discourse is not interested in which fear a person "
+            "acts on. It is interested in whether the conduct changes, and it reports that any of "
+            "the four will change it.",
+            "This is worth stating clearly to a class, because it cuts against a common assumption "
+            "that only the interior motive really counts &mdash; that a person restrained by law or "
+            "by the fear of hell is doing something second-rate. This discourse does not make that "
+            "distinction. Elsewhere the collection certainly does grade motives; here it does not.",
+            "The Pāli of the closing phrase, <em>suddhaṁ attānaṁ pariharati</em>, is worth a "
+            "sentence of its own. It is not &lsquo;becomes pure&rsquo; but something closer to "
+            "&lsquo;carries himself about clean&rsquo; &mdash; purity as something maintained in "
+            "motion rather than achieved once."]),
+        ("The third fear, said plainly", [
+            "The definition of <em>daṇḍabhaya</em> contains a catalogue of punishments, and it should "
+            "be read before it is read aloud. Whipping, caning, clubbing; hands or feet or both cut "
+            "off; ears or nose or both cut off; then a run of named tortures &mdash; the "
+            "&lsquo;porridge pot&rsquo;, the &lsquo;shell-shave&rsquo;, the &lsquo;Rāhu&rsquo;s "
+            "mouth&rsquo;, the &lsquo;garland of fire&rsquo;, the &lsquo;burning hand&rsquo;, and "
+            "the rest; then hot oil, the hounds, impalement, beheading.",
+            "None of this is figurative. It is a stock passage that recurs across the canon, and its "
+            "presence here is doing a specific job: the fear in question is not an abstract dread of "
+            "consequences but the memory of something a person has watched happen in public to "
+            "somebody else. The text says so &mdash; <em>it&rsquo;s when someone sees that the kings "
+            "have arrested a bandit</em>.",
+            "The discourse does not criticize the punishments. It records them as a feature of the "
+            "world and then uses them for moral leverage. That is worth saying rather than passing "
+            "over: a collection that elsewhere lists kings among the four perils a household faces "
+            "(AN 4.120) here treats royal violence as a useful deterrent, with no comment on whether "
+            "it is just.",
+            "One more detail. This is the only one of the four whose conclusion names a particular "
+            "deed &mdash; <em>they don&rsquo;t steal the belongings of others</em> &mdash; before "
+            "the general formula arrives. The punishments listed are the ones a thief could expect, "
+            "so the example follows the crime."]),
+        ("Fear as a working motive", [
+            "The word running through all four is <em>bhaya</em>, and the two discourses immediately "
+            "before this chapter used it too: AN 4.119 for birth, old age, sickness, and death, and "
+            "AN 4.120 for fire, water, kings, and bandits. Three lists of four fears in a row, and "
+            "the chapter takes its name from the third.",
+            "What is different here is that these four are recommended. In AN 4.119 and AN 4.120 "
+            "fear is a condition of being alive; in AN 4.121 it is a tool. <em>Being afraid of "
+            "guilt, they give up bad conduct</em> &mdash; the fear is the mechanism, not the problem.",
+            "A modern reader may want the tradition to be more embarrassed about this than it is. It "
+            "is not embarrassed. Fear of consequences is used freely as a support for conduct, here "
+            "and in the &lsquo;harsh&rsquo; method of teaching described to Kesi in AN 4.111, where "
+            "the Buddha reports that one of his own ways of training people is to tell them where "
+            "bad conduct leads.",
+            "What is absent is any suggestion that fear is the destination. The four fears operate "
+            "on conduct, and the collection puts conduct at the bottom of a structure whose upper "
+            "storeys have nothing to do with being afraid."]),
+        ("Teaching it", [
+            "The four make a natural exercise if they are turned into questions. Which of these has "
+            "actually stopped you doing something this month? Most people find the second one does "
+            "far more work in their life than they would like to admit.",
+            "The chapter this opens is called Bhayavagga after this discourse, on the usual "
+            "principle that a chapter of the Aṅguttara is named after whatever stands first in it. "
+            "Almost nothing that follows in the chapter is about fear. AN 4.122 is about four "
+            "dangers in water, and after that the chapter turns to rebirth, to the immeasurables, "
+            "and to what is marvelous about a Buddha, an elder, and a king."]),
+    ],
+    terms=[
+        ("attānuvādabhaya",
+         "&ldquo;fear of self-reproach&rdquo; &mdash; Sujato&rsquo;s &lsquo;fear of guilt&rsquo;; "
+         "<em>attā</em> self, <em>anuvāda</em> blame or censure."),
+        ("parānuvādabhaya",
+         "&ldquo;fear of others&rsquo; reproach&rdquo; &mdash; the same word with <em>para</em>, "
+         "another, in place of <em>attā</em>; rendered &lsquo;fear of shame&rsquo;."),
+        ("daṇḍabhaya",
+         "&ldquo;fear of the rod&rdquo; &mdash; <em>daṇḍa</em> is a stick, and by extension a "
+         "penalty, a fine, judicial force in general."),
+        ("duggati",
+         "&ldquo;bad destination&rdquo; &mdash; the class of unfortunate rebirths, opposed to "
+         "<em>sugati</em>; here the fourth fear is fear of arriving in one."),
+        ("suddhaṁ attānaṁ pariharati",
+         "&ldquo;keeping themselves pure&rdquo; &mdash; literally carrying oneself about clean; "
+         "the phrase that closes all four definitions unchanged."),
+    ],
+    text_intro=(
+        "The discourse in full: the four named, then each defined, with the same closing formula "
+        "each time. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four fears"),
+        ("p", "&sect;1", "an4.121:1.1-1.3"),
+        ("h3", "Fear of guilt"),
+        ("p", "&sect;2", "an4.121:2.1-2.5"),
+        ("h3", "Fear of shame"),
+        ("p", "&sect;3", "an4.121:3.1-3.5"),
+        ("h3", "Fear of punishment"),
+        ("p", "&sect;4", "an4.121:4.1-4.3"),
+        ("p", "&sect;5", "an4.121:5.1-5.6"),
+        ("h3", "Fear of a bad rebirth"),
+        ("p", "&sect;6", "an4.121:6.1-6.7"),
+    ],
+    quiz=[
+        {"q": "What are the four fears?",
+         "opts": [
+             "Birth, old age, sickness, and death",
+             "Guilt, shame, punishment, and going to a bad place",
+             "Fire, water, kings, and bandits",
+             "Greed, hate, delusion, and doubt"],
+         "correct": 1,
+         "expl": "The third list of four <em>bhaya</em> in three consecutive discourses."},
+        {"q": "How does the fear of guilt differ from the fear of shame?",
+         "opts": [
+             "One concerns conduct, the other speech",
+             "The first asks whether I would blame myself, the second whether others would blame me",
+             "One is for monastics, the other for laypeople",
+             "One concerns this life, the other the next"],
+         "correct": 1,
+         "expl": "<em>Attā</em> and <em>para</em>, self and other, on the same stem <em>anuvāda</em>."},
+        {"q": "What do all four definitions have in common?",
+         "opts": [
+             "They all mention kings",
+             "They all end in the same sentence &mdash; bad conduct given up, good developed, oneself kept pure",
+             "They all name a specific deed",
+             "They all end in a verse"],
+         "correct": 1,
+         "expl": "The repetition is the argument: any of the four changes the conduct."},
+        {"q": "What does the guide say about ranking the four motives?",
+         "opts": [
+             "The first is best",
+             "The discourse offers no ranking &mdash; it reports the same result from all four",
+             "The fourth is best",
+             "Only the interior ones count"],
+         "correct": 1,
+         "expl": "The collection grades motives elsewhere; it does not do so here."},
+        {"q": "What does the definition of the fear of punishment actually contain?",
+         "opts": [
+             "A warning about lawcourts",
+             "A catalogue of real judicial punishments &mdash; whipping, mutilation, named tortures, impalement, beheading",
+             "A metaphor for remorse",
+             "A list of fines"],
+         "correct": 1,
+         "expl": "A stock passage of the canon, and not figurative."},
+        {"q": "How does the fear of punishment reach the person?",
+         "opts": [
+             "By hearsay",
+             "By sight &mdash; the person sees that the kings have arrested a bandit and punished them",
+             "By scripture",
+             "By a teacher&rsquo;s warning"],
+         "correct": 1,
+         "expl": "Not an abstract dread but the memory of a public event."},
+        {"q": "What does the guide note about the discourse&rsquo;s attitude to royal violence?",
+         "opts": [
+             "It condemns it",
+             "It records it without comment and uses it for moral leverage, though AN 4.120 lists kings among a household&rsquo;s four perils",
+             "It says only bad kings do this",
+             "It calls it a later addition"],
+         "correct": 1,
+         "expl": "Worth saying rather than passing over."},
+        {"q": "Which fear names a particular deed before the general formula?",
+         "opts": [
+             "The fear of guilt",
+             "The fear of punishment &mdash; &lsquo;they don&rsquo;t steal the belongings of others&rsquo;",
+             "The fear of shame",
+             "The fear of a bad rebirth"],
+         "correct": 1,
+         "expl": "The punishments listed are the ones a thief could expect, so the example follows the crime."},
+        {"q": "What does <em>suddhaṁ attānaṁ pariharati</em> literally say?",
+         "opts": [
+             "Becomes pure",
+             "Carries oneself about clean &mdash; purity maintained in motion rather than achieved once",
+             "Purifies the mind",
+             "Guards the senses"],
+         "correct": 1,
+         "expl": "The phrase closes all four definitions unchanged."},
+        {"q": "Why is the chapter called Bhayavagga?",
+         "opts": [
+             "Because every discourse in it is about fear",
+             "Because a chapter of the Aṅguttara is named after whatever stands first in it, and this discourse stands first",
+             "Because it follows AN 4.119 and AN 4.120",
+             "Because the compilers thought fear was its theme"],
+         "correct": 1,
+         "expl": "Almost nothing after AN 4.122 in the chapter is about fear at all."},
+    ],
+    marginalia=[
+        ("Four fears", [
+            "<span class=\"pali\">attānuvāda</span>my reproach",
+            "<span class=\"pali\">parānuvāda</span>theirs",
+            "<span class=\"pali\">daṇḍa</span>the king&rsquo;s",
+            "<span class=\"pali\">duggati</span>the next life&rsquo;s",
+        ]),
+        ("One ending", [
+            "bad conduct given up",
+            "good conduct developed",
+            "oneself carried clean",
+            "&mdash; the same in all four",
+        ]),
+        ("The third fear", [
+            "whipping, caning, clubbing",
+            "hands, feet, ears, nose",
+            "oil, hounds, stake, sword",
+            "&mdash; and no comment on it",
+        ]),
+        ("Cross-references", [
+            "AN 4.119 &middot; the unavoidable four",
+            "AN 4.120 &middot; fire, water, kings, bandits",
+            "AN 4.111 &middot; the harsh method of teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.121/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.119.html">AN 4.119 &middot; Perils (1st)</a> &mdash; the first of the three '
+        "consecutive lists of four <em>bhaya</em>.",
+        '<a href="an-4.120.html">AN 4.120 &middot; Perils (2nd)</a> &mdash; where kings are one of '
+        "the four perils rather than one of the deterrents.",
+        '<a href="an-4.122.html">AN 4.122 &middot; The Danger of Waves</a> &mdash; next in this '
+        "series, and four more dangers.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.122 — Ūmibhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    122, "Ūmibhaya", "The Danger of Waves",
+    vagga=VAGGA_13,
+    meta_title="AN 4.122 — The Danger of Waves | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ūmibhayasutta — waves, "
+        "gharials, whirlpools, and sharks as four things that end a monastic life, and the "
+        "collection's bluntest naming of the fourth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "A simile of four water hazards, then four matching scenes of a mendicant "
+                 "disrobing, each closed by a one-line gloss"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "The four-hazard simile for those who go forth is known in the "
+                              "Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the scenes are vivid and easy, "
+                       "and the fourth gloss is one of the hardest lines in the Fours"),
+    ],
+    why=(
+        "Anyone entering the water should expect waves, gharials, whirlpools, and sharks. Anyone "
+        "entering the homeless life should expect four dangers of the same names, and the discourse "
+        "gives each one a scene rather than a definition &mdash; a man told how to hold his bowl by "
+        "someone young enough to be his grandson, a man forbidden an evening meal he can see being "
+        "offered, a man on alms round doing the arithmetic of his family&rsquo;s wealth. Three of "
+        "the four are named for states of mind. The fourth is named for a class of people, and "
+        "that is the discourse&rsquo;s hardest fact."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four things reliably end a monastic life, and the discourse describes each of them as a "
+            "scene ending in the same words: they resign the training and return to a lesser life."]),
+        ("How the simile is built", [
+            "The frame takes four seconds. Someone going into the water should <em>anticipate</em> "
+            "four dangers &mdash; <em>pāṭikaṅkhitabbāni</em>, things to be expected rather than "
+            "things that might happen. Then the same four names are transferred whole to the person "
+            "who has gone forth.",
+            "What follows is not an allegory to be decoded. Each danger gets a narrative &mdash; a "
+            "specific man, a specific provocation, a specific thought in the first person &mdash; "
+            "and then a single flat line telling you what the water-word stands for. The scene "
+            "carries the weight; the gloss is only an index entry.",
+            "Notice also who the subject is throughout: a <em>kulaputta</em>, a son of a good "
+            "family, who <em>has gone forth out of faith</em>. The discourse is not describing "
+            "people who never meant it. It is describing the failure of people who did."]),
+        ("Waves: being taught by children", [
+            "The first scene is entirely social. The man has gone forth with the full formula of "
+            "motivation &mdash; swamped by rebirth, old age, and death, hoping to make an end of "
+            "suffering &mdash; and then his companions begin instructing him: how to go out and come "
+            "back, how to look ahead and to the side, how to draw in and stretch out his limbs, how "
+            "to carry his robes and bowl.",
+            "His thought is quoted exactly: <em>formerly, as laypeople, we advised and instructed "
+            "others. And now these mendicants &mdash; who you&rsquo;d think were our children or "
+            "grandchildren &mdash; imagine they can advise and instruct us!</em>",
+            "The observation is precise, and it is about seniority rather than about the rules. "
+            "Monastic seniority runs from ordination, not from age, so a man who arrives at fifty "
+            "is junior to everyone who arrived at twenty. What is being described is that inversion "
+            "landing on someone who was used to being the one who spoke.",
+            "The gloss is <em>kodhūpāyāsa</em>, anger and distress. It is worth noting that the "
+            "scene reads more like injured pride than like anger, and the text labels the outcome "
+            "rather than the root."]),
+        ("Gharials and whirlpools: food, and money", [
+            "The second scene is about eating. The instruction concerns what may be consumed and "
+            "when, and the complaint again arrives in the man&rsquo;s own voice: as laypeople we ate "
+            "what we wanted, when we wanted, <em>and these faithful householders give us delicious "
+            "fresh and cooked foods at the wrong time of day. But these guys imagine they can gag "
+            "our mouths!</em> The gloss is <em>odarikatta</em>, belly-ness, gluttony.",
+            "The specific irritation is worth spelling out for a class: the food is there, it is "
+            "given willingly, and the only thing preventing him from eating it is a rule about the "
+            "hour. That is a harder discipline than simple scarcity, and the discourse knows it.",
+            "The third scene changes register. The mendicant goes for alms <em>without guarding "
+            "body, speech, and mind, without establishing mindfulness, and without restraining the "
+            "sense faculties</em> &mdash; the failure is stated before anything is seen. Then he "
+            "sees a householder enjoying himself, and reasons: my family is wealthy, I could both "
+            "enjoy my wealth and make merit, so why not go back?",
+            "That reasoning is the subtlest thing in the discourse, because it is not obviously "
+            "wrong. AN 4.61 says almost exactly this &mdash; that wealth properly used makes the "
+            "giver happy and produces merit. The discourse does not answer the argument. It shows "
+            "where the argument came from, which was an unguarded alms round, and lets the reader "
+            "draw the conclusion. The gloss is <em>kāmaguṇa</em>, the five kinds of sensual "
+            "stimulation."]),
+        ("Sharks: what the fourth gloss says", [
+            "The fourth scene is four lines long, the shortest of the four. The mendicant goes on "
+            "alms round in the same unguarded way, sees a woman lightly dressed, lust infects his "
+            "mind, and he disrobes. Then: <em>&lsquo;Danger of sharks&rsquo; is a term for ladies.</em>",
+            "The Pāli is <em>mātugāma</em>, womankind, the general term for women as a class. The "
+            "line should be quoted as it stands rather than softened, because softening it hides "
+            "what is actually odd about it.",
+            "Here is the oddity. The first three glosses name states in the person: anger and "
+            "distress, gluttony, sensual stimulation. All three sit inside the man being described. "
+            "The fourth breaks the pattern and names other people &mdash; and it does so immediately "
+            "after a scene in which the discourse has already told us the mechanism is internal, "
+            "since the failure of sense restraint is stated before the woman appears at all. The "
+            "text supplies its own better answer and then labels the danger with the wrong noun.",
+            "It should also be said that the discourse is addressed to men who have gone forth, and "
+            "no counterpart naming men as a danger to nuns is given here. That asymmetry is not "
+            "hidden in the text and it should not be hidden in the teaching of it.",
+            "This is not the collection&rsquo;s only voice on the subject, and the Fours contain "
+            "flatly different material &mdash; AN 4.55 has a husband and wife matched as equals in "
+            "faith, ethics, generosity, and wisdom, and addressed as such by the Buddha in person. "
+            "Both passages are in the same book. Neither cancels the other, and a reader is not "
+            "obliged to harmonize them."]),
+        ("What the four are for", [
+            "Every one of the four ends identically: <em>they resign the training and return to a "
+            "lesser life.</em> The discourse is about attrition &mdash; not about failure in "
+            "meditation, but about the ordinary reasons people leave.",
+            "Read as a piece of observation it is shrewd. Status, appetite, money, and sex, in that "
+            "order, and each caught at the moment of self-justification rather than at the moment of "
+            "leaving. Every scene turns on a sentence the man says to himself, and in three of the "
+            "four that sentence begins <em>formerly, as laypeople&hellip;</em>",
+            "The thing being lost, in each case, is not the practice but the willingness to be a "
+            "beginner. That is the reading worth carrying out of this discourse, and it does not "
+            "depend on accepting the fourth gloss."]),
+    ],
+    terms=[
+        ("kulaputta",
+         "&ldquo;gentleman&rdquo;, son of a good family &mdash; the subject of all four scenes, and "
+         "someone who went forth <em>out of faith</em>, not carelessly."),
+        ("kodhūpāyāsa",
+         "&ldquo;anger and distress&rdquo; &mdash; what &lsquo;the danger of waves&rsquo; is said to "
+         "mean, though the scene itself describes injured seniority."),
+        ("odarikatta",
+         "&ldquo;gluttony&rdquo; &mdash; from <em>udara</em>, belly; literally something like "
+         "belly-ness, the state of being ruled by the stomach."),
+        ("mātugāma",
+         "&ldquo;womankind&rdquo; &mdash; the general term for women as a class; the word the "
+         "discourse uses to gloss &lsquo;the danger of sharks&rsquo;."),
+        ("adhivacana",
+         "&ldquo;is a term for&rdquo; &mdash; the formula that closes each section, marking the "
+         "water-word as a label rather than a description."),
+    ],
+    text_intro=(
+        "The discourse in full: the water simile, then the four scenes of leaving, each with its "
+        "closing gloss. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four dangers in the water"),
+        ("p", "&sect;1", "an4.122:1.1-1.7"),
+        ("h3", "The danger of waves"),
+        ("p", "&sect;2", "an4.122:2.1-2.13"),
+        ("h3", "The danger of gharials"),
+        ("p", "&sect;3", "an4.122:3.1-3.17"),
+        ("h3", "The danger of whirlpools"),
+        ("p", "&sect;4", "an4.122:4.1-4.15"),
+        ("h3", "The danger of sharks"),
+        ("p", "&sect;5", "an4.122:5.1-5.12"),
+    ],
+    quiz=[
+        {"q": "What are the four dangers?",
+         "opts": [
+             "Storms, rocks, currents, and cold",
+             "Waves, gharials, whirlpools, and sharks",
+             "Hunger, thirst, heat, and insects",
+             "Doubt, sloth, restlessness, and ill will"],
+         "correct": 1,
+         "expl": "Named for water hazards and transferred whole to the homeless life."},
+        {"q": "Who is the subject of all four scenes?",
+         "opts": [
+             "A layman considering ordination",
+             "A <em>kulaputta</em> who has already gone forth out of faith",
+             "A wanderer of another sect",
+             "A novice"],
+         "correct": 1,
+         "expl": "The discourse describes the failure of people who meant it."},
+        {"q": "What provokes the first man?",
+         "opts": [
+             "Hunger",
+             "Being instructed in how to walk, look, and carry his bowl by mendicants young enough to be his children",
+             "A rebuke from the Buddha",
+             "Illness"],
+         "correct": 1,
+         "expl": "Monastic seniority runs from ordination, not from age."},
+        {"q": "What is &lsquo;the danger of waves&rsquo; glossed as?",
+         "opts": [
+             "Pride",
+             "Anger and distress &mdash; <em>kodhūpāyāsa</em>",
+             "Restlessness",
+             "Doubt"],
+         "correct": 1,
+         "expl": "Though the scene reads more like injured pride; the text labels the outcome."},
+        {"q": "What makes the food rule hard, on the guide&rsquo;s reading?",
+         "opts": [
+             "That food is scarce",
+             "That the food is present, given willingly, and refused only because of the hour",
+             "That the food is poor",
+             "That laypeople resent giving it"],
+         "correct": 1,
+         "expl": "A harder discipline than simple scarcity, and the discourse knows it."},
+        {"q": "What is stated <em>before</em> anything is seen, in the third and fourth scenes?",
+         "opts": [
+             "The man&rsquo;s age",
+             "That he went for alms without guarding body, speech, and mind, and without restraining the senses",
+             "That he was ill",
+             "That he had already decided to leave"],
+         "correct": 1,
+         "expl": "The failure precedes the object."},
+        {"q": "Why does the guide call the whirlpool reasoning subtle?",
+         "opts": [
+             "Because it is long",
+             "Because it is not obviously wrong &mdash; AN 4.61 says almost the same thing about wealth well used",
+             "Because it is unclear",
+             "Because it concerns merit"],
+         "correct": 1,
+         "expl": "The discourse does not answer the argument; it shows where it came from."},
+        {"q": "How does the fourth gloss break the pattern of the first three?",
+         "opts": [
+             "It is longer",
+             "The first three name states inside the person; the fourth names other people",
+             "It names an animal",
+             "It gives no gloss at all"],
+         "correct": 1,
+         "expl": "&lsquo;Danger of sharks&rsquo; is a term for <em>mātugāma</em>, womankind."},
+        {"q": "What does the guide note about the fourth scene&rsquo;s own account of the mechanism?",
+         "opts": [
+             "That it blames the woman",
+             "That the discourse states the failure of sense restraint before the woman appears, supplying a better answer than its own label",
+             "That it is missing",
+             "That it is metaphorical"],
+         "correct": 1,
+         "expl": "The text supplies its own better answer and then labels the danger with the wrong noun."},
+        {"q": "What does the guide say is lost in all four scenes?",
+         "opts": [
+             "Meditative attainment",
+             "The willingness to be a beginner",
+             "Faith in the Buddha",
+             "Health"],
+         "correct": 1,
+         "expl": "Three of the four self-justifications begin &lsquo;formerly, as laypeople&hellip;&rsquo;"},
+    ],
+    marginalia=[
+        ("Four dangers", [
+            "waves &middot; anger and distress",
+            "gharials &middot; gluttony",
+            "whirlpools &middot; the five strands",
+            "sharks &middot; womankind",
+        ]),
+        ("The first scene", [
+            "how to go out, how to look",
+            "how to hold the bowl",
+            "&mdash; from someone half his age",
+        ]),
+        ("The fourth gloss", [
+            "<span class=\"pali\">mātugāma</span>womankind",
+            "three glosses name states",
+            "this one names people",
+        ]),
+        ("Cross-references", [
+            "AN 4.55 &middot; a couple matched as equals",
+            "AN 4.61 &middot; wealth well used",
+            "AN 4.121 &middot; the chapter&rsquo;s other four fears",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.122/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.55.html">AN 4.55 &middot; Equality</a> &mdash; the Fours&rsquo; flatly '
+        "different voice on husband and wife.",
+        '<a href="an-4.61.html">AN 4.61 &middot; Fitting Deeds</a> &mdash; where enjoying wealth and '
+        "making merit is exactly what a householder should do.",
+        '<a href="an-4.123.html">AN 4.123 &middot; Difference (1st)</a> &mdash; next in this series, '
+        "and the chapter turns to rebirth.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.123 — Paṭhamanānākaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    123, "Paṭhamanānākaraṇa", "Difference (1st)",
+    vagga=VAGGA_13,
+    meta_title="AN 4.123 — Difference (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Nānākaraṇasutta — "
+        "four absorptions, four divine rebirths, and the one thing that separates a noble disciple "
+        "from an ordinary person who reaches the same state. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "Four parallel paragraphs, identical but for the absorption, the realm, and the "
+                 "lifespan"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Material on rebirth by absorption is common to the Chinese Āgamas "
+                              "and the Abhidharma cosmologies; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the form is mechanical, the "
+                       "claim inside it is not"),
+    ],
+    why=(
+        "Two people reach the first absorption. Both enjoy it, both stay in it, both are reborn "
+        "among the gods of the Divinity&rsquo;s host and live there an eon. Then the lifespan runs "
+        "out. One goes to hell, the animal realm, or the ghost realm; the other is extinguished "
+        "there and then. The attainment was the same in both cases, so the attainment is not what "
+        "made the difference &mdash; and the discourse repeats the point four times without ever "
+        "saying what did."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Absorption produces a long divine life, and a long divine life is not a safe place; "
+            "what makes it safe is being a noble disciple, which the discourse names but does not "
+            "explain."]),
+        ("The machinery", [
+            "Each of the four paragraphs is built the same way. Someone enters an absorption; they "
+            "<em>enjoy it and like it and find it rewarding</em>; if they abide in it and do not "
+            "lose it, they are reborn in a matching realm with a stated lifespan; the ordinary "
+            "person falls afterwards and the Buddha&rsquo;s disciple does not.",
+            "The four pairings are fixed: first absorption to the Divinity&rsquo;s host, one eon; "
+            "second to the gods of streaming radiance, two eons; third to the gods of universal "
+            "beauty, four eons; fourth to the gods of abundant fruit, five hundred eons.",
+            "The lifespans are worth pausing on. One, two, four &mdash; and then five hundred. "
+            "Nothing in the discourse accounts for the jump, and the fourth absorption is elsewhere "
+            "the hinge of the whole system, the state from which the higher knowledges are reached. "
+            "The numbers are doing what the doctrine does, in a currency a listener can feel.",
+            "The condition attached to all four is <em>tattha ṭhito tadadhimutto tabbahulavihārī "
+            "aparihīno</em> &mdash; abiding in it, committed to it, dwelling in it often, not having "
+            "fallen away from it. Rebirth follows only from an attainment that was kept."]),
+        ("The verb that is doing the damage", [
+            "<em>They enjoy it and like it and find it rewarding.</em> In Pāli: <em>tadassādeti, taṁ "
+            "nikāmeti, tena ca vittiṁ āpajjati.</em> Three verbs of relishing, stacked.",
+            "This is not incidental. It is the exact phrase AN 4.124 will remove and replace, and "
+            "the removal is what changes the outcome. Read the two discourses together and the "
+            "chapter has set up a controlled comparison with one variable: what the mind does with "
+            "the absorption while it is in it.",
+            "So the first thing to say about this discourse is that it is not really about the "
+            "absorptions. It is about relishing, which is the standing problem of the whole system, "
+            "and it observes that relishing a very refined state is still relishing."]),
+        ("The fall, stated without cushioning", [
+            "<em>An ordinary person stays there until the lifespan of those gods is spent, then they "
+            "go to hell or the animal realm or the ghost realm.</em>",
+            "The sentence deserves to be read slowly, because it is doing something that later "
+            "systematizing usually smooths over. After an eon in a divine realm reached by genuine "
+            "meditative attainment, the destination named is not a slightly lower heaven or a "
+            "fortunate human birth. It is the three bad destinations, all three, by name.",
+            "The discourse offers no mechanism. It does not say the merit was exhausted or that the "
+            "person did something wrong up there. It simply reports where the ordinary person goes, "
+            "and the reason it can report this without argument is that an ordinary person still has "
+            "the full range of underlying tendencies intact, whatever they attained. The absorption "
+            "suppressed them; it did not remove them.",
+            "The honest way to teach this is to leave the harshness in place. A reader who wants "
+            "meditative attainment to be permanently safe will not find that here. AN 4.123 says "
+            "attainment buys time, at an extraordinary rate of exchange, and nothing else."]),
+        ("&lsquo;A disciple of the Buddha&rsquo;", [
+            "The other half of each pairing is one clause long: <em>but a disciple of the Buddha "
+            "stays there until the lifespan of those gods is spent, then they&rsquo;re extinguished "
+            "in that very life</em> &mdash; <em>tasmiṁyeva bhave parinibbāyati</em>, extinguished "
+            "in that very existence, without a further one.",
+            "The summary line names the parties precisely: <em>a learned noble disciple</em> and "
+            "<em>an unlearned ordinary person</em>, <em>sutavā ariyasāvaka</em> and <em>assutavā "
+            "puthujjana</em>. <em>Sutavā</em> means having heard, and the difference the discourse "
+            "insists on is finally a difference in what a person has been told and taken in.",
+            "That is thinner than a modern reader expects, and it is deliberately thin. Nowhere here "
+            "is the noble disciple said to meditate better or longer. The whole distinction rests on "
+            "having heard the teaching and having become, by that hearing, someone whose view is no "
+            "longer reversible.",
+            "The last clause of every paragraph adds a qualification easy to miss: <em>that is, when "
+            "there is a place of rebirth</em>, <em>yadidaṁ gatiyā upapattiyā sati</em>. The "
+            "difference being described holds within the frame of rebirth. Where that frame does not "
+            "apply, the comparison does not arise."]),
+        ("Reading it as a pair, and as a quartet", [
+            "AN 4.123 and AN 4.124 are the same discourse with one thing changed, and AN 4.125 and "
+            "AN 4.126 repeat the identical experiment using the four immeasurables instead of the "
+            "four absorptions. Four discourses, two variables, a complete grid.",
+            "That is how this part of the chapter should be taught: not as four separate teachings "
+            "but as one teaching stated with the alternatives filled in. The chapter heading calls "
+            "the discourse <em>Nānākaraṇa</em>, difference-making, and what the four texts together "
+            "make different is exactly one thing at a time.",
+            "For a reader who does not hold the cosmology, there is still something usable here, and "
+            "it survives translation into any frame: a state that is genuinely good, genuinely "
+            "reached, and genuinely enjoyed, is not thereby a state that has changed anything "
+            "permanently. What the next discourse adds is what to do about that."]),
+    ],
+    terms=[
+        ("nānākaraṇa",
+         "&ldquo;difference&rdquo;, literally difference-making &mdash; the word that titles this "
+         "discourse and the next, and names what the pair is designed to isolate."),
+        ("assādeti",
+         "&ldquo;enjoys&rdquo; &mdash; first of the three relishing verbs, with <em>nikāmeti</em> "
+         "and <em>vittiṁ āpajjati</em>; the phrase AN 4.124 replaces."),
+        ("puthujjana",
+         "&ldquo;ordinary person&rdquo;, literally one of the many folk &mdash; here qualified as "
+         "<em>assutavā</em>, unlearned, one who has not heard."),
+        ("ariyasāvaka",
+         "&ldquo;noble disciple&rdquo; &mdash; qualified as <em>sutavā</em>, learned, one who has "
+         "heard; the whole difference in the discourse rests on this word."),
+        ("parinibbāyati",
+         "&ldquo;is extinguished&rdquo; &mdash; here <em>tasmiṁyeva bhave</em>, in that very "
+         "existence, so that the divine lifespan is the last one."),
+    ],
+    text_intro=(
+        "The discourse in full: four absorptions, four realms, four lifespans, and the same closing "
+        "comparison each time. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first absorption"),
+        ("p", "&sect;1", "an4.123:1.1-1.9"),
+        ("h3", "The second absorption"),
+        ("p", "&sect;2", "an4.123:2.1-2.7"),
+        ("h3", "The third absorption"),
+        ("p", "&sect;3", "an4.123:3.1-3.7"),
+        ("h3", "The fourth absorption"),
+        ("p", "&sect;4", "an4.123:4.1-4.8"),
+    ],
+    quiz=[
+        {"q": "What do the four individuals have in common?",
+         "opts": [
+             "They are all monastics",
+             "Each attains one of the four absorptions, enjoys it, and is reborn in a matching divine realm",
+             "They all become non-returners",
+             "They all fall to a bad destination"],
+         "correct": 1,
+         "expl": "The attainment is the same on both sides of the comparison."},
+        {"q": "What lifespan goes with the fourth absorption?",
+         "opts": [
+             "One eon",
+             "Five hundred eons, among the gods of abundant fruit",
+             "Four eons",
+             "Two eons"],
+         "correct": 1,
+         "expl": "One, two, four &mdash; and then five hundred, with no explanation offered."},
+        {"q": "What phrase describes what the person does with the absorption?",
+         "opts": [
+             "They contemplate it as impermanent",
+             "They enjoy it and like it and find it rewarding",
+             "They emerge from it",
+             "They teach it to others"],
+         "correct": 1,
+         "expl": "Three relishing verbs stacked &mdash; the phrase AN 4.124 removes."},
+        {"q": "Where does the ordinary person go when the divine lifespan is spent?",
+         "opts": [
+             "To a lower heaven",
+             "To hell, the animal realm, or the ghost realm",
+             "To a human rebirth",
+             "Nowhere &mdash; they are extinguished"],
+         "correct": 1,
+         "expl": "All three bad destinations, by name, with no cushioning."},
+        {"q": "What mechanism does the discourse give for the fall?",
+         "opts": [
+             "Exhausted merit",
+             "None &mdash; it simply reports the destination",
+             "A misdeed committed in the divine realm",
+             "The loss of the absorption"],
+         "correct": 1,
+         "expl": "The absorption suppressed the underlying tendencies; it did not remove them."},
+        {"q": "What happens to the Buddha&rsquo;s disciple instead?",
+         "opts": [
+             "They are reborn higher",
+             "They are extinguished in that very life &mdash; <em>tasmiṁyeva bhave parinibbāyati</em>",
+             "They return as a human",
+             "They stay for another eon"],
+         "correct": 1,
+         "expl": "The divine lifespan is the last one."},
+        {"q": "What do <em>sutavā</em> and <em>assutavā</em> mean?",
+         "opts": [
+             "Practiced and unpracticed",
+             "Learned and unlearned &mdash; literally having heard and not having heard",
+             "Ordained and lay",
+             "Awakened and unawakened"],
+         "correct": 1,
+         "expl": "The difference finally rests on what a person has been told and taken in."},
+        {"q": "What qualification closes every paragraph?",
+         "opts": [
+             "&lsquo;For one who has faith&rsquo;",
+             "&lsquo;That is, when there is a place of rebirth&rsquo;",
+             "&lsquo;For a mendicant only&rsquo;",
+             "&lsquo;In this very life&rsquo;"],
+         "correct": 1,
+         "expl": "The difference is stated within the frame of rebirth."},
+        {"q": "How does the guide say AN 4.123 to AN 4.126 should be read?",
+         "opts": [
+             "As four separate teachings",
+             "As one teaching with the alternatives filled in &mdash; two variables, a complete grid",
+             "As a later compilation",
+             "As a commentary on the absorptions"],
+         "correct": 1,
+         "expl": "AN 4.124 changes one thing; AN 4.125 and AN 4.126 rerun both with the immeasurables."},
+        {"q": "What does the guide say survives for a reader who does not hold the cosmology?",
+         "opts": [
+             "Nothing",
+             "That a state genuinely good, genuinely reached, and genuinely enjoyed has not thereby changed anything permanently",
+             "That absorption is dangerous",
+             "That rebirth is metaphorical"],
+         "correct": 1,
+         "expl": "What the next discourse adds is what to do about that."},
+    ],
+    marginalia=[
+        ("Four pairings", [
+            "1st &middot; Divinity&rsquo;s host &middot; 1 eon",
+            "2nd &middot; streaming radiance &middot; 2",
+            "3rd &middot; universal beauty &middot; 4",
+            "4th &middot; abundant fruit &middot; 500",
+        ]),
+        ("The variable", [
+            "<span class=\"pali\">assādeti</span>enjoys",
+            "<span class=\"pali\">nikāmeti</span>likes",
+            "<span class=\"pali\">vittiṁ āpajjati</span>finds rewarding",
+        ]),
+        ("Two outcomes", [
+            "ordinary person &middot; hell, animal, ghost",
+            "disciple &middot; extinguished there",
+            "&mdash; same attainment, both",
+        ]),
+        ("Cross-references", [
+            "AN 4.124 &middot; the same, one thing changed",
+            "AN 4.125 &middot; the immeasurables instead",
+            "AN 4.41 &middot; four ways of developing immersion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.123/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.124.html">AN 4.124 &middot; Difference (2nd)</a> &mdash; next in this series, '
+        "and the other half of the experiment.",
+        '<a href="an-4.41.html">AN 4.41 &middot; Ways of Developing Immersion Further</a> &mdash; '
+        "where absorption is put to four different uses.",
+        '<a href="an-4.126.html">AN 4.126 &middot; Love (2nd)</a> &mdash; the fourth corner of the '
+        "grid these discourses make.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.124 — Dutiyanānākaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    124, "Dutiyanānākaraṇa", "Difference (2nd)",
+    vagga=VAGGA_13,
+    meta_title="AN 4.124 — Difference (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Nānākaraṇasutta — "
+        "the same four absorptions, but contemplated as impermanent rather than enjoyed, and a "
+        "rebirth not shared with ordinary people. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.123 with one clause replaced, abridged after the first absorption"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Contemplation of the aggregates within absorption is standard "
+                              "material across the early collections; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; very short, and unreadable "
+                       "except against the discourse before it"),
+    ],
+    why=(
+        "The discourse before this one described someone who enters an absorption and enjoys it. "
+        "This one describes someone who enters the same absorption and, while there, looks at "
+        "everything present in it &mdash; form, feeling, perception, choices, consciousness &mdash; "
+        "as impermanent, as suffering, as a boil, as a dart, as empty, as not-self. Nothing else "
+        "has changed. The rebirth that follows is in the pure abodes, and the discourse says of it "
+        "only that it is <em>not shared with ordinary people</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Do inside the absorption what the absorption was for, and the destination changes."]),
+        ("One clause, swapped", [
+            "Set the two discourses side by side. AN 4.123: <em>they enjoy it and like it and find "
+            "it rewarding.</em> AN 4.124: <em>they contemplate the phenomena there &mdash; included "
+            "in form, feeling, perception, choices, and consciousness &mdash; as impermanent, as "
+            "suffering, as diseased, as a boil, as a dart, as gloom, as an affliction, as alien, as "
+            "breaking apart, as empty, as not-self.</em>",
+            "Everything else in the two texts is common. Same four absorptions, same person, no "
+            "mention of extra effort, no longer practice, no additional virtue. The pair is as close "
+            "to a controlled experiment as the collection gets, and the isolated variable is the "
+            "attitude taken to the state while inside it.",
+            "That is the whole doctrinal content of the discourse, and it is why the text can afford "
+            "to be four sentences long. Everything else it needs has already been said next door."]),
+        ("The eleven ways of looking", [
+            "The list of eleven is a stock formula and it is worth reading as a list rather than "
+            "skimming as a phrase. Three of the eleven are the familiar marks &mdash; impermanent, "
+            "suffering, not-self. Two are about disintegration &mdash; breaking apart, empty. Six "
+            "are medical or hostile: diseased, a boil, a dart, gloom, an affliction, alien.",
+            "The medical vocabulary is doing something the abstract terms cannot. A boil and a dart "
+            "are not neutral descriptions; they are things you want out. The formula is designed to "
+            "produce a specific disenchantment rather than a general assent.",
+            "What it is applied to is the striking part: <em>the phenomena there</em>, whatever is "
+            "present in the absorption itself, sorted into the five aggregates. So the object of the "
+            "contemplation is the refined and pleasant state the meditator is currently sitting in. "
+            "The instruction is to take the best thing available and see it as a boil."]),
+        ("The pure abodes", [
+            "<em>Suddhāvāsa</em>, the pure abodes, are the realms reserved for non-returners, and "
+            "the discourse&rsquo;s closing line makes the point without using the technical term: "
+            "<em>this rebirth is distinct from that of ordinary people</em>, <em>asādhāraṇā "
+            "puthujjanehi</em>, not held in common with ordinary people.",
+            "Compare what AN 4.123 said. There the noble disciple and the ordinary person went to "
+            "the same realm and parted only when the lifespan ran out. Here the realms themselves "
+            "diverge, because an ordinary person cannot be reborn there at all.",
+            "There is also a quiet consequence for the earlier discourse. AN 4.123 described a noble "
+            "disciple who relishes the absorption and is extinguished only after an eon or five "
+            "hundred. AN 4.124 describes someone who does not relish it, and does not wait. The pair "
+            "is not just ordinary-versus-noble; it is also a comparison of two ways of being a "
+            "practitioner."]),
+        ("Why the abridgment matters", [
+            "AN 4.124 gives the first absorption in full and then compresses the second, third, and "
+            "fourth into a single line of ellipses. AN 4.123 wrote all four out.",
+            "That is not carelessness, and it is worth explaining to students who find the "
+            "manuscript ellipses off-putting. The full text was recited; the written abridgment is a "
+            "storage format. A reciter who has just been through AN 4.123 four times over does not "
+            "need the fourth absorption spelled out again to know what it says.",
+            "The result is a text that is unreadable on its own and completely clear in place. This "
+            "chapter is a good place to see that, because the abridgment gets heavier as the "
+            "material repeats &mdash; AN 4.126 is compressed further still."]),
+        ("What to carry out of it", [
+            "The usable claim does not depend on the cosmology. It is that a good state does nothing "
+            "by itself, and that what makes the difference is what the mind does with it while it "
+            "lasts.",
+            "That is a claim about every good state, not only about the absorptions. The chapter is "
+            "about to make the same move again with love, compassion, rejoicing, and equanimity in "
+            "AN 4.125 and AN 4.126, and the answer will be the same word for word: the same eleven "
+            "ways of looking, applied to the same five aggregates, producing the same result.",
+            "Repetition on that scale is an argument. What the discourse is claiming, by repeating "
+            "it, is that the principle is indifferent to the material &mdash; that it holds for "
+            "anything a practitioner might reach and want to keep."]),
+    ],
+    terms=[
+        ("suddhāvāsa",
+         "&ldquo;pure abodes&rdquo; &mdash; the realms in which only non-returners are reborn; "
+         "named here without the technical term for their inhabitants."),
+        ("asādhāraṇā puthujjanehi",
+         "&ldquo;not shared with ordinary people&rdquo; &mdash; the discourse&rsquo;s way of saying "
+         "what kind of rebirth this is."),
+        ("gaṇḍa / salla",
+         "&ldquo;a boil&rdquo; and &ldquo;a dart&rdquo; &mdash; two of the eleven ways of looking, "
+         "and the reason the formula produces disenchantment rather than assent."),
+        ("parato",
+         "&ldquo;as alien&rdquo; &mdash; literally as other; seeing what is present as not belonging "
+         "to oneself, distinct from the flat denial in <em>anattato</em>."),
+        ("samanupassati",
+         "&ldquo;contemplates&rdquo; &mdash; regards, looks upon as; the verb that replaces the "
+         "three relishing verbs of AN 4.123."),
+    ],
+    text_intro=(
+        "The discourse in full: the first absorption written out, the other three abridged, and the "
+        "same closing line each time. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first absorption, contemplated"),
+        ("p", "&sect;1", "an4.124:1.1-1.6"),
+        ("h3", "The second, third, and fourth"),
+        ("p", "&sect;2", "an4.124:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What single clause distinguishes this discourse from AN 4.123?",
+         "opts": [
+             "The realm of rebirth",
+             "&lsquo;They enjoy it and like it&rsquo; is replaced by the contemplation of the phenomena there as impermanent, and the rest",
+             "The number of absorptions",
+             "The identity of the speaker"],
+         "correct": 1,
+         "expl": "Everything else in the two texts is common."},
+        {"q": "What are the phenomena contemplated sorted into?",
+         "opts": [
+             "The six senses",
+             "The five aggregates &mdash; form, feeling, perception, choices, and consciousness",
+             "The four elements",
+             "The three characteristics"],
+         "correct": 1,
+         "expl": "Whatever is present in the absorption itself."},
+        {"q": "How many ways of looking are listed?",
+         "opts": [
+             "Three",
+             "Eleven",
+             "Five",
+             "Seven"],
+         "correct": 1,
+         "expl": "Impermanent, suffering, diseased, a boil, a dart, gloom, an affliction, alien, breaking apart, empty, not-self."},
+        {"q": "What does the guide say the medical vocabulary achieves?",
+         "opts": [
+             "Precision",
+             "A specific disenchantment rather than a general assent &mdash; a boil and a dart are things you want out",
+             "Brevity",
+             "Authority"],
+         "correct": 1,
+         "expl": "Six of the eleven are medical or hostile."},
+        {"q": "What is striking about the object of the contemplation?",
+         "opts": [
+             "That it is external",
+             "That it is the refined and pleasant state the meditator is currently sitting in",
+             "That it is the body",
+             "That it is the past"],
+         "correct": 1,
+         "expl": "The instruction is to take the best thing available and see it as a boil."},
+        {"q": "Where is this person reborn?",
+         "opts": [
+             "Among the gods of abundant fruit",
+             "In the pure abodes &mdash; a rebirth not shared with ordinary people",
+             "In the Divinity&rsquo;s host",
+             "As a human"],
+         "correct": 1,
+         "expl": "<em>Suddhāvāsa</em>, the realms reserved for non-returners."},
+        {"q": "How does this differ from the outcome in AN 4.123?",
+         "opts": [
+             "It does not",
+             "There the two parted only when the lifespan ran out; here the realms themselves diverge",
+             "It is longer",
+             "It concerns laypeople"],
+         "correct": 1,
+         "expl": "An ordinary person cannot be reborn in the pure abodes at all."},
+        {"q": "What second comparison does the guide draw out of the pair?",
+         "opts": [
+             "Monastic versus lay",
+             "Two ways of being a practitioner &mdash; a noble disciple who relishes and waits an eon, and one who does not relish and does not wait",
+             "Early versus late texts",
+             "Absorption versus insight"],
+         "correct": 1,
+         "expl": "Not just ordinary-versus-noble."},
+        {"q": "Why is this discourse abridged where AN 4.123 was not?",
+         "opts": [
+             "Because the text was damaged",
+             "Because the written ellipsis is a storage format for material a reciter has just been through in full",
+             "Because the later absorptions do not apply",
+             "Because it is a later addition"],
+         "correct": 1,
+         "expl": "Unreadable on its own, completely clear in place."},
+        {"q": "What does the guide say the repetition across AN 4.123 to AN 4.126 is arguing?",
+         "opts": [
+             "That the compilers were careless",
+             "That the principle is indifferent to the material &mdash; it holds for anything a practitioner might reach and want to keep",
+             "That absorption is superior to the immeasurables",
+             "That the immeasurables are later"],
+         "correct": 1,
+         "expl": "The same eleven ways of looking, the same five aggregates, the same result."},
+    ],
+    marginalia=[
+        ("The swap", [
+            "4.123 &middot; enjoys, likes, finds rewarding",
+            "4.124 &middot; contemplates as impermanent&hellip;",
+            "&mdash; nothing else changes",
+        ]),
+        ("Eleven ways", [
+            "impermanent &middot; suffering &middot; diseased",
+            "a boil &middot; a dart &middot; gloom",
+            "an affliction &middot; alien",
+            "breaking apart &middot; empty &middot; not-self",
+        ]),
+        ("The destination", [
+            "<span class=\"pali\">suddhāvāsa</span>pure abodes",
+            "not shared with ordinary people",
+            "&mdash; the realms themselves diverge",
+        ]),
+        ("Cross-references", [
+            "AN 4.123 &middot; the other half of the pair",
+            "AN 4.126 &middot; the same move on the immeasurables",
+            "AN 4.90 &middot; the aggregates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.124/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.123.html">AN 4.123 &middot; Difference (1st)</a> &mdash; the discourse this '
+        "one cannot be read without.",
+        '<a href="an-4.90.html">AN 4.90 &middot; Aggregates</a> &mdash; the five headings the '
+        "contemplation here sorts everything into.",
+        '<a href="an-4.125.html">AN 4.125 &middot; Love (1st)</a> &mdash; next in this series, and '
+        "the same experiment rerun on the immeasurables.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.125 — Paṭhamamettāsutta
+# --------------------------------------------------------------------------- #
+page(
+    125, "Paṭhamamettā", "Love (1st)",
+    vagga=VAGGA_13,
+    meta_title="AN 4.125 — Love (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Mettāsutta of the "
+        "Fours — love, compassion, rejoicing, and equanimity mapped onto four divine rebirths, and "
+        "the same fall waiting at the end. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.123 rerun with the four immeasurables in place of the four absorptions"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The immeasurables and their divine fruits are standard across the "
+                              "early collections; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the same difficulty as AN 4.123, "
+                       "applied to material most readers are fonder of"),
+    ],
+    why=(
+        "Take the discourse on the four absorptions, keep every sentence of it, and change only "
+        "what the person is doing: instead of the first absorption, a heart full of love spread to "
+        "every direction; instead of the second, compassion; then rejoicing; then equanimity. The "
+        "realms are the same, the lifespans are the same, and so is the ending &mdash; the ordinary "
+        "person who has spread limitless love to the whole world for an eon goes afterwards to hell, "
+        "the animal realm, or the ghost realm."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The immeasurables produce the same magnificent, temporary results as the absorptions, "
+            "and are subject to the same limit."]),
+        ("The mapping", [
+            "Love goes with the Divinity&rsquo;s host and one eon; compassion with the gods of "
+            "streaming radiance and two; rejoicing with the gods of universal beauty and four; "
+            "equanimity with the gods of abundant fruit and five hundred. These are precisely the "
+            "four realms AN 4.123 assigned to the four absorptions, in the same order.",
+            "The parallel is exact and the discourse does not argue for it. Setting the two texts "
+            "side by side, the immeasurables and the absorptions are being treated as "
+            "interchangeable routes to identical destinations &mdash; a strong structural claim, "
+            "made silently, by reusing a template.",
+            "This reading guide does not assert which of the two schemes is prior, or how the "
+            "correspondence was arrived at. What can be said from the text alone is that the "
+            "compiler who put these four discourses next to each other wanted them read as one "
+            "system, and built them so they could not be read otherwise.",
+            "The formula for each immeasurable is the standard one and repays reading in full: to "
+            "one direction, and a second, and a third, and a fourth; above, below, across, "
+            "everywhere, all around; <em>abundant, expansive, limitless, free of enmity and ill "
+            "will</em>. Nothing about a particular person, and nothing about feeling warmly."]),
+        ("The same three verbs", [
+            "<em>They enjoy this and like it and find it rewarding.</em> The identical clause from "
+            "AN 4.123, in the identical position, doing the identical damage.",
+            "It is worth dwelling on how counterintuitive this is. The state being relished is "
+            "limitless goodwill toward every being in every direction. There is nothing selfish in "
+            "its content. And the discourse treats relishing it exactly as it treated relishing the "
+            "first absorption, with the same consequence.",
+            "The claim is therefore not about the moral quality of the object. It is about the "
+            "structure of relishing, which does not improve when what is being relished improves. "
+            "Something can be entirely good and still be held in a way that leads nowhere."]),
+        ("The fall, again", [
+            "<em>An ordinary person stays there until the lifespan of those gods is spent, then they "
+            "go to hell or the animal realm or the ghost realm.</em>",
+            "This lands harder here than in AN 4.123, and it should be allowed to. A reader can more "
+            "easily accept that a meditative technique buys only time; it is harder to accept that "
+            "an eon of boundless love does too.",
+            "The discourse does not soften it and neither should a teacher. What it says is that the "
+            "immeasurables are <em>brahmavihāra</em> &mdash; divine dwellings, and dwellings are "
+            "places one stays in and leaves. AN 4.63 in this same collection called living with a "
+            "compassionate household life &lsquo;living with Divinity&rsquo; and meant it as praise. "
+            "The praise stands. The limit stands too.",
+            "There is also no suggestion that the practice was wasted or wrong. The noble disciple "
+            "in this discourse is doing exactly the same practice and is extinguished at the end of "
+            "the same lifespan. What the collection is separating is not good practice from bad but "
+            "practice from view."]),
+        ("Why equanimity is last", [
+            "The order &mdash; love, compassion, rejoicing, equanimity &mdash; is the standard one, "
+            "and its final term is the one most often misread. <em>Upekkhā</em> here is not "
+            "indifference and it is not the end of caring. It is spread with the same formula as the "
+            "other three: to every direction, abundant, expansive, limitless, free of enmity and ill "
+            "will.",
+            "Placing it fourth and giving it five hundred eons says something about its weight. In "
+            "AN 4.123 the fourth absorption, equanimity&rsquo;s natural home, received the same "
+            "figure. The two schemes agree on where the summit is.",
+            "For a reader working with the four in practice, the sequence is usually taught as a "
+            "progression in which each term corrects a failure mode of the one before: love that "
+            "cannot meet suffering becomes compassion, compassion that curdles into grief is "
+            "corrected by rejoicing, and rejoicing that becomes attachment to others&rsquo; good "
+            "fortune is corrected by equanimity. The discourse itself says none of this. It only "
+            "gives the order and the lifespans."]),
+        ("Reading it with its neighbors", [
+            "AN 4.125 is to AN 4.123 what AN 4.126 will be to AN 4.124. The chapter has laid out "
+            "four texts in a two-by-two: absorptions or immeasurables, relished or contemplated.",
+            "Taught as a set, the grid makes a point no single discourse in it makes. Change the "
+            "practice and the destination stays where it is. Change what the mind does with the "
+            "practice and the destination moves. Whatever the collection thinks the practices are "
+            "for, it does not think they are the operative variable.",
+            "That is a useful corrective in both directions. It refuses the idea that any particular "
+            "technique is the thing that saves, and it equally refuses the idea that the "
+            "immeasurables are a lesser or preliminary practice &mdash; they are given the same "
+            "realms, the same eons, and the same treatment as the absorptions, without comment."]),
+    ],
+    terms=[
+        ("brahmavihāra",
+         "&ldquo;divine dwelling&rdquo; &mdash; the traditional name for the four; a dwelling is "
+         "somewhere one stays, and this discourse is about leaving."),
+        ("mettā",
+         "&ldquo;love&rdquo; &mdash; the first of the four; goodwill without an object in "
+         "particular, spread in every direction."),
+        ("muditā",
+         "&ldquo;rejoicing&rdquo; &mdash; gladness at what is good for others; third, and matched "
+         "here with the gods of universal beauty."),
+        ("upekkhā",
+         "&ldquo;equanimity&rdquo; &mdash; fourth, and spread with the same limitless formula as the "
+         "other three, which rules out reading it as indifference."),
+        ("appamāṇa",
+         "&ldquo;limitless&rdquo; &mdash; the word in the spreading formula that gives the four "
+         "their other name, the immeasurables."),
+    ],
+    text_intro=(
+        "The discourse in full: love written out, compassion and rejoicing compressed, equanimity "
+        "written out again, with the same comparison closing it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Love"),
+        ("p", "&sect;1", "an4.125:1.1-1.9"),
+        ("h3", "Compassion and rejoicing"),
+        ("p", "&sect;2", "an4.125:2.1-2.2"),
+        ("h3", "Equanimity"),
+        ("p", "&sect;3", "an4.125:2.3-2.12"),
+    ],
+    quiz=[
+        {"q": "What does this discourse substitute for the four absorptions?",
+         "opts": [
+             "The four noble truths",
+             "The four immeasurables &mdash; love, compassion, rejoicing, and equanimity",
+             "The four right efforts",
+             "The four foundations of mindfulness"],
+         "correct": 1,
+         "expl": "Every other sentence of AN 4.123 is kept."},
+        {"q": "Which realm goes with compassion?",
+         "opts": [
+             "The Divinity&rsquo;s host",
+             "The gods of streaming radiance, two eons",
+             "The gods of universal beauty",
+             "The gods of abundant fruit"],
+         "correct": 1,
+         "expl": "Precisely the realm AN 4.123 gave the second absorption."},
+        {"q": "What structural claim does the discourse make silently?",
+         "opts": [
+             "That the immeasurables come first",
+             "That the immeasurables and the absorptions are interchangeable routes to identical destinations",
+             "That the absorptions are superior",
+             "That both are metaphorical"],
+         "correct": 1,
+         "expl": "Made by reusing a template rather than by argument."},
+        {"q": "What does the spreading formula say the heart is directed to?",
+         "opts": [
+             "A chosen person",
+             "Every direction &mdash; abundant, expansive, limitless, free of enmity and ill will",
+             "Oneself first",
+             "Living beings one has met"],
+         "correct": 1,
+         "expl": "Nothing about a particular person, and nothing about feeling warmly."},
+        {"q": "What clause is carried over unchanged from AN 4.123?",
+         "opts": [
+             "The setting",
+             "&lsquo;They enjoy this and like it and find it rewarding&rsquo;",
+             "The list of eleven",
+             "The closing verse"],
+         "correct": 1,
+         "expl": "Identical position, identical damage."},
+        {"q": "Why does the guide call this counterintuitive?",
+         "opts": [
+             "Because the state is unpleasant",
+             "Because the state relished is limitless goodwill toward every being, with nothing selfish in its content",
+             "Because the state is rare",
+             "Because it is hard to attain"],
+         "correct": 1,
+         "expl": "Relishing does not improve when what is relished improves."},
+        {"q": "What does the guide say <em>brahmavihāra</em> literally means?",
+         "opts": [
+             "Divine knowledge",
+             "Divine dwelling &mdash; and a dwelling is somewhere one stays and leaves",
+             "Divine speech",
+             "Divine effort"],
+         "correct": 1,
+         "expl": "AN 4.63 uses the same praise of a compassionate household."},
+        {"q": "What does the discourse separate, on the guide&rsquo;s reading?",
+         "opts": [
+             "Good practice from bad practice",
+             "Practice from view &mdash; the noble disciple does the identical practice",
+             "Lay from monastic",
+             "Love from equanimity"],
+         "correct": 1,
+         "expl": "There is no suggestion that the practice was wasted or wrong."},
+        {"q": "What rules out reading <em>upekkhā</em> as indifference?",
+         "opts": [
+             "The commentary",
+             "That it is spread with the same limitless formula as the other three",
+             "Its position in the list",
+             "The lifespan attached to it"],
+         "correct": 1,
+         "expl": "To every direction, abundant, expansive, limitless, free of enmity and ill will."},
+        {"q": "What point does the two-by-two make that no single discourse makes?",
+         "opts": [
+             "That the absorptions are better",
+             "That changing the practice leaves the destination where it is, and changing what the mind does with it moves the destination",
+             "That rebirth is uncertain",
+             "That the immeasurables are preliminary"],
+         "correct": 1,
+         "expl": "The practices are not the operative variable."},
+    ],
+    marginalia=[
+        ("Four and four", [
+            "<span class=\"pali\">mettā</span>Divinity&rsquo;s host &middot; 1 eon",
+            "<span class=\"pali\">karuṇā</span>streaming radiance &middot; 2",
+            "<span class=\"pali\">muditā</span>universal beauty &middot; 4",
+            "<span class=\"pali\">upekkhā</span>abundant fruit &middot; 500",
+        ]),
+        ("Carried over", [
+            "enjoy it, like it,",
+            "find it rewarding",
+            "&mdash; word for word from 4.123",
+        ]),
+        ("The hard line", [
+            "an eon of limitless love",
+            "then hell, animal, ghost",
+            "&mdash; for the ordinary person",
+        ]),
+        ("Cross-references", [
+            "AN 4.123 &middot; the template",
+            "AN 4.126 &middot; the correction",
+            "AN 4.63 &middot; living with Divinity",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.125/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.123.html">AN 4.123 &middot; Difference (1st)</a> &mdash; the template this '
+        "discourse reruns.",
+        '<a href="an-4.63.html">AN 4.63 &middot; Living with Divinity</a> &mdash; where the same word '
+        "praises a household rather than a meditation.",
+        '<a href="an-4.126.html">AN 4.126 &middot; Love (2nd)</a> &mdash; next in this series, and '
+        "the last corner of the grid.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.126 — Dutiyamettāsutta
+# --------------------------------------------------------------------------- #
+page(
+    126, "Dutiyamettā", "Love (2nd)",
+    vagga=VAGGA_13,
+    meta_title="AN 4.126 — Love (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Mettāsutta of the "
+        "Fours — the immeasurables contemplated as impermanent rather than enjoyed, and a rebirth "
+        "in the pure abodes. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.125 with one clause replaced, abridged after love"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Contemplation of the aggregates within the immeasurables is standard "
+                              "material; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the shortest of the four and the "
+                       "one that completes the argument"),
+    ],
+    why=(
+        "The last corner of the chapter&rsquo;s grid. Someone spreads a heart full of love in every "
+        "direction, and then looks at what is present in that state &mdash; form, feeling, "
+        "perception, choices, consciousness &mdash; as impermanent, as a boil, as a dart, as empty, "
+        "as not-self. The same for compassion, rejoicing, and equanimity. The rebirth that follows "
+        "is in the pure abodes, and the discourse closes as its counterpart did: <em>this rebirth is "
+        "distinct from that of ordinary people</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The correction that worked for the absorptions works identically for the immeasurables, "
+            "in the same words."]),
+        ("The grid completed", [
+            "Four discourses, two variables. AN 4.123 and AN 4.125 relish; AN 4.124 and AN 4.126 "
+            "contemplate. AN 4.123 and AN 4.124 use the absorptions; AN 4.125 and AN 4.126 use the "
+            "immeasurables. Every cell is filled.",
+            "What the completed grid establishes is that the operative variable is the second one. "
+            "Moving across the practices changes nothing about the outcome. Moving between relishing "
+            "and contemplating changes the outcome in both columns, in exactly the same way.",
+            "The compiler could have said this in one sentence and did not. What was chosen instead "
+            "was to say the same thing four times with the alternatives filled in, so that the "
+            "conclusion is not asserted but left standing after everything else has been held "
+            "constant. That is an argument by arrangement, and it is one of the things the "
+            "Aṅguttara&rsquo;s numbered format is good at."]),
+        ("The same eleven, on a different object", [
+            "The contemplation is word for word what AN 4.124 gave: the phenomena there, sorted into "
+            "the five aggregates, seen as impermanent, as suffering, as diseased, as a boil, as a "
+            "dart, as gloom, as an affliction, as alien, as breaking apart, as empty, as not-self.",
+            "The object, though, has changed, and this is where the discourse asks something harder "
+            "than its counterpart did. In AN 4.124 the thing to be seen as a boil was a state of "
+            "meditative refinement. Here it is boundless love.",
+            "That is worth putting to a class directly, because the instinctive objection is a good "
+            "one. If love is to be seen as a dart, is the discourse recommending coldness? It is "
+            "not, and the text is careful about where the contemplation is aimed: not at love as a "
+            "way of treating beings, but at <em>the phenomena there</em>, the form and feeling and "
+            "perception occurring in the meditator while the state lasts. What is impermanent is the "
+            "meditator&rsquo;s experience, not the value of goodwill.",
+            "The practical form of that distinction is familiar enough. A person can act with "
+            "complete kindness and be entirely unattached to how kind they felt while doing it. The "
+            "discourse is describing the second half of that sentence."]),
+        ("What abridgment costs", [
+            "AN 4.126 is the most heavily compressed of the four. Love is written out; compassion "
+            "gets two words; rejoicing gets one; equanimity is restored to full length because it is "
+            "the last, and the closing formula has to be attached to something.",
+            "By this point in the chapter the reciter has been through the same material four times, "
+            "and the written text records only what changes. A modern reader meeting the text cold "
+            "sees ellipses and assumes damage; what is actually recorded is an efficient index to "
+            "something already known by heart.",
+            "It is a good moment to say plainly what these four discourses show about how the "
+            "collection stores material. Nothing here was composed independently. AN 4.124 is AN "
+            "4.123 with a clause swapped, AN 4.125 is AN 4.123 with a list swapped, and AN 4.126 is "
+            "both swaps at once. Read as literature this looks thin. Read as a memory system it is "
+            "extremely economical, and the doctrinal point emerges from the arrangement rather than "
+            "from any sentence in it."]),
+        ("Where the pure abodes leave the practitioner", [
+            "As in AN 4.124, the destination is the pure abodes and the closing note is "
+            "<em>asādhāraṇā puthujjanehi</em>, not shared with ordinary people. The technical fact "
+            "behind it is that these realms belong to non-returners, and a non-returner does not "
+            "come back to this world.",
+            "So the difference between the two columns of the grid is not a difference of degree. "
+            "One column produces an enormously long divine life followed, for the ordinary person, "
+            "by a fall; the other produces a rebirth from which there is no fall at all. The "
+            "five-hundred-eon figure in AN 4.125 was doing the work of making that contrast "
+            "felt &mdash; a very large number is still a number.",
+            "For a reader who does not hold the cosmology the same contrast is available without it. "
+            "One way of practicing produces states that end, however long they last. The other "
+            "produces a change in how states are held, which does not."]),
+        ("Teaching the set", [
+            "These four are best taught together in one sitting, with the grid drawn on a board, and "
+            "AN 4.126 read last and slowly. Alone it is four sentences and looks like nothing.",
+            "The question to leave a class with is the one the chapter is built to raise: name a "
+            "genuinely good thing in your practice that you enjoy having. That is the thing this set "
+            "of discourses is about, and the answer it gives is not to stop having it.",
+            "After this the chapter changes subject entirely. AN 4.127 begins a run of four "
+            "discourses on what is <em>acchariya abbhuta</em>, incredible and amazing &mdash; about "
+            "a Buddha, about Ānanda, and about a wheel-turning monarch."]),
+    ],
+    terms=[
+        ("acchariya abbhuta",
+         "&ldquo;incredible and amazing&rdquo; &mdash; not in this discourse, but the phrase that "
+         "runs through the four which follow it and close the chapter."),
+        ("dhamme samanupassati",
+         "&ldquo;contemplates the phenomena&rdquo; &mdash; the verb and object that replace the "
+         "three relishing verbs; <em>dhammā</em> here means what is occurring, not the teaching."),
+        ("aniccato",
+         "&ldquo;as impermanent&rdquo; &mdash; the ablative-style ending running through all eleven "
+         "terms, marking an angle of regard rather than a proposition believed."),
+        ("suññato",
+         "&ldquo;as empty&rdquo; &mdash; tenth of the eleven; empty of self and of what belongs to "
+         "a self, and in this list a way of looking rather than a metaphysics."),
+        ("asādhāraṇā",
+         "&ldquo;not shared&rdquo;, not held in common &mdash; the word that marks the pure abodes "
+         "off from every destination an ordinary person can reach."),
+    ],
+    text_intro=(
+        "The discourse in full: love written out, compassion and rejoicing marked only by their "
+        "names, equanimity restored, and the closing line twice. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Love, contemplated"),
+        ("p", "&sect;1", "an4.126:1.1-1.6"),
+        ("h3", "Compassion, rejoicing, equanimity"),
+        ("p", "&sect;2", "an4.126:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse change from AN 4.125?",
+         "opts": [
+             "The four immeasurables",
+             "The relishing clause is replaced by the contemplation of the phenomena there as impermanent, and the rest",
+             "The realms",
+             "The speaker"],
+         "correct": 1,
+         "expl": "The same swap AN 4.124 made to AN 4.123."},
+        {"q": "What does the completed grid establish?",
+         "opts": [
+             "That the immeasurables are superior",
+             "That the operative variable is relishing versus contemplating, not which practice is used",
+             "That the absorptions are superior",
+             "That rebirth is uncertain"],
+         "correct": 1,
+         "expl": "Moving across the practices changes nothing about the outcome."},
+        {"q": "What does the guide call the compiler&rsquo;s method here?",
+         "opts": [
+             "Commentary",
+             "An argument by arrangement &mdash; the conclusion left standing after everything else is held constant",
+             "Abbreviation",
+             "Repetition for emphasis"],
+         "correct": 1,
+         "expl": "One of the things the Aṅguttara&rsquo;s numbered format is good at."},
+        {"q": "What is contemplated as a boil and a dart?",
+         "opts": [
+             "Love itself, as a way of treating beings",
+             "The phenomena there &mdash; the form, feeling, and perception occurring in the meditator while the state lasts",
+             "Other beings",
+             "The divine realms"],
+         "correct": 1,
+         "expl": "What is impermanent is the meditator&rsquo;s experience, not the value of goodwill."},
+        {"q": "How does the guide answer the objection that this recommends coldness?",
+         "opts": [
+             "By appealing to the commentary",
+             "By noting that a person can act with complete kindness and be unattached to how kind they felt while doing it",
+             "By saying the contemplation is optional",
+             "By saying love is exempt"],
+         "correct": 1,
+         "expl": "The discourse is describing the second half of that sentence."},
+        {"q": "Why is equanimity written out in full while compassion and rejoicing are not?",
+         "opts": [
+             "Because it is the most important",
+             "Because it is last, and the closing formula has to be attached to something",
+             "Because it is hardest",
+             "Because the others were lost"],
+         "correct": 1,
+         "expl": "The written text records only what changes."},
+        {"q": "How does the guide describe the four discourses as a whole?",
+         "opts": [
+             "Independently composed",
+             "One text with clauses swapped &mdash; thin as literature, extremely economical as a memory system",
+             "A later compilation",
+             "A commentary on the absorptions"],
+         "correct": 1,
+         "expl": "The doctrinal point emerges from the arrangement rather than from any sentence in it."},
+        {"q": "What does <em>asādhāraṇā puthujjanehi</em> mark?",
+         "opts": [
+             "A rare attainment",
+             "A rebirth not held in common with ordinary people &mdash; the pure abodes belong to non-returners",
+             "A long lifespan",
+             "A teaching for monastics"],
+         "correct": 1,
+         "expl": "And a non-returner does not come back to this world."},
+        {"q": "What was the five-hundred-eon figure in AN 4.125 doing?",
+         "opts": [
+             "Recording an observation",
+             "Making the contrast felt &mdash; a very large number is still a number",
+             "Marking the highest attainment",
+             "Correcting an earlier figure"],
+         "correct": 1,
+         "expl": "One column ends in a fall; the other has no fall at all."},
+        {"q": "What question does the guide suggest leaving a class with?",
+         "opts": [
+             "Which absorption is highest",
+             "Name a genuinely good thing in your practice that you enjoy having",
+             "How long an eon is",
+             "Whether the realms are literal"],
+         "correct": 1,
+         "expl": "And the answer the set gives is not to stop having it."},
+    ],
+    marginalia=[
+        ("The grid", [
+            "4.123 &middot; absorptions, relished",
+            "4.124 &middot; absorptions, contemplated",
+            "4.125 &middot; immeasurables, relished",
+            "4.126 &middot; immeasurables, contemplated",
+        ]),
+        ("The object", [
+            "not love as conduct",
+            "but the phenomena there",
+            "&mdash; form, feeling, perception&hellip;",
+        ]),
+        ("What is compressed", [
+            "love &middot; in full",
+            "compassion &middot; two words",
+            "rejoicing &middot; one",
+            "equanimity &middot; in full again",
+        ]),
+        ("Cross-references", [
+            "AN 4.125 &middot; the relishing version",
+            "AN 4.124 &middot; the same swap on absorptions",
+            "AN 4.127 &middot; the chapter changes subject",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.126/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.125.html">AN 4.125 &middot; Love (1st)</a> &mdash; the discourse this one '
+        "corrects.",
+        '<a href="an-4.124.html">AN 4.124 &middot; Difference (2nd)</a> &mdash; the identical swap '
+        "applied to the absorptions.",
+        '<a href="an-4.127.html">AN 4.127 &middot; Incredible Things About the Realized One (1st)</a> '
+        "&mdash; next in this series, and a change of subject.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.127 — Paṭhamatathāgataacchariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    127, "Paṭhamatathāgataacchariya", "Incredible Things About the Realized One (1st)",
+    vagga=VAGGA_13,
+    meta_title="AN 4.127 — Incredible Things About the Realized One (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first "
+        "Tathāgataacchariyasutta — four moments in a Buddha's life at which an immeasurable light "
+        "reaches even the darkness between the worlds. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "Four parallel paragraphs, the first in full and the rest abridged"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The light at the four moments belongs to the shared biographical "
+                              "cycle behind DN 14 and its Āgama counterparts; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; simple to read, and it asks the "
+                       "reader to decide what kind of text they are holding"),
+    ],
+    why=(
+        "Four events in a Buddha&rsquo;s life &mdash; conception, birth, awakening, and the first "
+        "teaching &mdash; and at each of them the same thing happens: an immeasurable light appears, "
+        "surpassing the glory of the gods, and it reaches even the gaps between the world systems "
+        "where neither sun nor moon can be seen. In that darkness the beings born there see one "
+        "another for a moment, and the discourse gives them a line: <em>So, it seems other sentient "
+        "beings have been reborn here!</em>"),
+    guide=[
+        ("The teaching in one sentence", [
+            "The four turning points of a Buddha&rsquo;s life are marked by a light that reaches "
+            "where nothing else does."]),
+        ("The four moments", [
+            "They are the four hinges of the biography, and the selection is worth noticing. The "
+            "being intent on awakening passes away from the host of joyful gods and is conceived, "
+            "<em>mindful and aware</em>. He emerges from the womb, mindful and aware. He awakens to "
+            "the supreme perfect awakening. He rolls forth the supreme Wheel of Dhamma.",
+            "Conception, birth, awakening, first teaching. What is absent is the fifth event a "
+            "reader might expect &mdash; the final extinguishment. Elsewhere the tradition treats "
+            "the <em>parinibbāna</em> as one of the great moments, with its own earthquake in DN 16. "
+            "Here it is not among the four, and the discourse offers no reason.",
+            "One reading is that the four chosen are all beginnings: the beginning of the last life, "
+            "of the body, of the awakening, and of the teaching. The light is an announcement, and "
+            "there is nothing to announce at the end. This reading guide offers that as a reading, "
+            "not as the text&rsquo;s own explanation.",
+            "The repeated phrase <em>sato sampajāno</em>, mindful and aware, attached to both "
+            "conception and birth, is the discourse&rsquo;s one doctrinal claim about the events "
+            "themselves. Everything else it says is about light."]),
+        ("The light and the dark between worlds", [
+            "The light is described twice each time: it appears in this world with its gods, Māras, "
+            "and divinities, surpassing the glory of the gods &mdash; and then, in the sentence that "
+            "makes the discourse memorable, it appears in the <em>lokantarika</em>, the intervals "
+            "between the world systems.",
+            "Those intervals are described precisely: boundless gloom, so utterly dark that the "
+            "luminosity of the moon and the sun, <em>so mighty and powerful</em>, makes no "
+            "impression there. The Pāli piles the words up &mdash; <em>aghā asaṁvutā andhakārā "
+            "andhakāratimisā</em>, open, unenclosed, dark, dark with the darkness of blackness.",
+            "It is an image of maximum isolation, and the cosmology behind it is that the world "
+            "systems are like bowls set side by side, with unlit space in the joins where certain "
+            "beings are reborn.",
+            "The point of the image is what happens next, and it is not a display of power. "
+            "<em>And the sentient beings reborn there recognize each other by that light: "
+            "&lsquo;So, it seems other sentient beings have been reborn here!&rsquo;</em>",
+            "That is the whole miracle as the discourse chooses to describe it. Not that the light "
+            "is bright, but that beings who did not know anyone else was there find out. The line is "
+            "given to them in direct speech, which the discourse did not have to do."]),
+        ("What kind of text this is", [
+            "It should be said plainly that this is mythological material and that reading it well "
+            "means neither literalizing it nor explaining it away.",
+            "The literalizing reading treats the light as a reportable physical event and turns the "
+            "discourse into a claim about astronomy. The explaining-away reading treats it as a "
+            "metaphor for the spread of the teaching and quietly discards everything specific in it "
+            "&mdash; the intervals, the beings, the line they speak.",
+            "Both lose the same thing, which is the discourse&rsquo;s actual subject. A tradition "
+            "chose to mark the four moments of its founder&rsquo;s life by describing a light that "
+            "reaches the loneliest place it could imagine and lets the beings there see each other. "
+            "What that says about how the tradition understood its own arrival is available without "
+            "settling any question about whether it happened.",
+            "This is also, as it happens, the reading that makes the discourse teachable to a mixed "
+            "audience. Nobody has to agree about cosmology to see what is being valued."]),
+        ("Where it sits in the canon", [
+            "The material belongs to a well-known cycle. DN 14, the discourse on the great legend, "
+            "carries a long version of the wonders surrounding a Buddha&rsquo;s conception and birth, "
+            "with the same light and the same intervals between the worlds. MN 123 gives Ānanda a "
+            "list of incredible and amazing qualities of the Buddha built from the same materials.",
+            "What the Aṅguttara does with it is what the Aṅguttara does with everything: reduce it "
+            "to a numbered set. Four moments, one light, and the whole cycle compressed into "
+            "something a reciter can hold.",
+            "The phrase that titles it, <em>acchariya abbhuta</em>, is a fixed pair &mdash; "
+            "wonderful and unprecedented &mdash; and it is about to be used three more times in this "
+            "chapter, of a Buddha again in AN 4.128, of Ānanda in AN 4.129, and of a wheel-turning "
+            "monarch in AN 4.130. The chapter that began with fears ends with marvels."]),
+        ("Reading it next to AN 4.128", [
+            "The pairing is the most interesting thing about this discourse. AN 4.127 gives four "
+            "cosmic marvels. AN 4.128 gives four marvels of an entirely different kind: people love "
+            "clinging, and yet they listen when a Buddha teaches non-clinging.",
+            "Same title, same number, and the second is composed entirely of ordinary human "
+            "behavior. Whether or not the pairing was deliberate, the effect of reading them in "
+            "order is a deliberate-looking descent from the intervals between the worlds to a room "
+            "with people in it.",
+            "If only one of the two is to be taught, the second is the more useful. If both are "
+            "taught, they should be taught in this order, because the second lands as a correction "
+            "of the first."]),
+    ],
+    terms=[
+        ("acchariya abbhuta",
+         "&ldquo;incredible and amazing&rdquo; &mdash; a fixed pair, wonderful and unprecedented; "
+         "the tag on all four discourses that close this chapter."),
+        ("lokantarika",
+         "&ldquo;between the worlds&rdquo; &mdash; the unlit intervals between world systems, "
+         "described here as places where sun and moon make no impression."),
+        ("bodhisatta",
+         "&ldquo;being intent on awakening&rdquo; &mdash; the term for the Buddha before the "
+         "awakening; here passing away from the host of joyful gods."),
+        ("sato sampajāno",
+         "&ldquo;mindful and aware&rdquo; &mdash; attached to both the conception and the birth, and "
+         "the discourse&rsquo;s only doctrinal claim about the events."),
+        ("dhammacakka",
+         "&ldquo;Wheel of Dhamma&rdquo; &mdash; rolled forth at the fourth moment; the first "
+         "teaching, treated here as an event on the same scale as the awakening."),
+    ],
+    text_intro=(
+        "The discourse in full: the four moments, with the light described at length the first time "
+        "and abridged after. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The conception"),
+        ("p", "&sect;1", "an4.127:1.1-1.7"),
+        ("h3", "The birth"),
+        ("p", "&sect;2", "an4.127:2.1-2.5"),
+        ("h3", "The awakening"),
+        ("p", "&sect;3", "an4.127:3.1-3.5"),
+        ("h3", "The rolling forth of the Wheel"),
+        ("p", "&sect;4", "an4.127:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "What are the four moments?",
+         "opts": [
+             "Birth, awakening, first teaching, and final extinguishment",
+             "Conception, birth, awakening, and the rolling forth of the Wheel of Dhamma",
+             "Renunciation, austerity, awakening, and teaching",
+             "Conception, renunciation, awakening, and death"],
+         "correct": 1,
+         "expl": "All four are beginnings; the final extinguishment is not among them."},
+        {"q": "What happens at each of the four?",
+         "opts": [
+             "An earthquake",
+             "An immeasurable, magnificent light appears, surpassing the glory of the gods",
+             "The gods assemble",
+             "A verse is spoken"],
+         "correct": 1,
+         "expl": "The discourse is about light, not about teaching."},
+        {"q": "What is <em>lokantarika</em>?",
+         "opts": [
+             "The highest heaven",
+             "The unlit intervals between world systems, where sun and moon make no impression",
+             "The human realm",
+             "The far shore"],
+         "correct": 1,
+         "expl": "An image of maximum isolation."},
+        {"q": "What do the beings reborn there do when the light appears?",
+         "opts": [
+             "They are reborn elsewhere",
+             "They recognize each other, and say: &lsquo;So, it seems other sentient beings have been reborn here!&rsquo;",
+             "They praise the Buddha",
+             "They are extinguished"],
+         "correct": 1,
+         "expl": "The line is given to them in direct speech, which the discourse did not have to do."},
+        {"q": "How does the guide describe the miracle?",
+         "opts": [
+             "That the light is brighter than the sun",
+             "Not that the light is bright, but that beings who did not know anyone else was there find out",
+             "That the gods are surpassed",
+             "That the darkness is dispelled forever"],
+         "correct": 1,
+         "expl": "The point of the image is what happens next."},
+        {"q": "What phrase attaches to both conception and birth?",
+         "opts": [
+             "Free of enmity",
+             "Mindful and aware &mdash; <em>sato sampajāno</em>",
+             "Without hindrance",
+             "Surpassing the gods"],
+         "correct": 1,
+         "expl": "The discourse&rsquo;s only doctrinal claim about the events themselves."},
+        {"q": "What two readings does the guide reject?",
+         "opts": [
+             "The literal and the traditional",
+             "Literalizing it into a claim about astronomy, and explaining it away as a metaphor that discards everything specific",
+             "The mythic and the doctrinal",
+             "The early and the late"],
+         "correct": 1,
+         "expl": "Both lose the discourse&rsquo;s actual subject."},
+        {"q": "Which other texts carry this material?",
+         "opts": [
+             "The Dhammapada and the Udāna",
+             "DN 14, on the great legend, and MN 123, Ānanda&rsquo;s list of incredible qualities",
+             "The Vinaya only",
+             "The Abhidhamma"],
+         "correct": 1,
+         "expl": "What the Aṅguttara does with it is reduce it to a numbered set."},
+        {"q": "How many times is <em>acchariya abbhuta</em> used in this chapter?",
+         "opts": [
+             "Once",
+             "Four times &mdash; of a Buddha twice, of Ānanda, and of a wheel-turning monarch",
+             "Twice",
+             "Ten times"],
+         "correct": 1,
+         "expl": "The chapter that began with fears ends with marvels."},
+        {"q": "How does the guide say AN 4.127 and AN 4.128 should be taught?",
+         "opts": [
+             "Separately",
+             "In this order, because the second lands as a correction of the first &mdash; a descent from the intervals between the worlds to a room with people in it",
+             "With AN 4.128 first",
+             "Only the first"],
+         "correct": 1,
+         "expl": "AN 4.128&rsquo;s four marvels are composed entirely of ordinary human behavior."},
+    ],
+    marginalia=[
+        ("Four moments", [
+            "conception",
+            "birth",
+            "awakening",
+            "the Wheel rolled forth",
+        ]),
+        ("Not among them", [
+            "the final extinguishment",
+            "&mdash; all four are beginnings",
+            "and the discourse says nothing",
+        ]),
+        ("Between the worlds", [
+            "<span class=\"pali\">lokantarika</span>the gaps",
+            "no sun, no moon",
+            "&lsquo;so it seems others are here&rsquo;",
+        ]),
+        ("Cross-references", [
+            "AN 4.128 &middot; four marvels of another kind",
+            "AN 4.129 &middot; the same phrase, of Ānanda",
+            "AN 4.130 &middot; and of a monarch",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.127/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.128.html">AN 4.128 &middot; Incredible Things About the Realized One (2nd)</a> '
+        "&mdash; next in this series, and the correction.",
+        '<a href="an-4.21.html">AN 4.21 &middot; At Uruvelā (1st)</a> &mdash; another look at the '
+        "period between the awakening and the first teaching.",
+        '<a href="an-4.34.html">AN 4.34 &middot; The Best Kinds of Confidence</a> &mdash; where the '
+        "Realized One is called foremost without any recourse to marvels.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.128 — Dutiyatathāgataacchariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    128, "Dutiyatathāgataacchariya", "Incredible Things About the Realized One (2nd)",
+    vagga=VAGGA_13,
+    meta_title="AN 4.128 — Incredible Things About the Realized One (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Tathāgataacchariyasutta — people love clinging, conceit, excitement, and ignorance, and "
+        "still they listen. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "Four paragraphs of two sentences each, all built on the same contrast"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The <em>ālaya</em> passage it turns on is shared with the "
+                              "invitation-to-teach material in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the plainest discourse in the "
+                       "chapter and one of the most quotable in the Fours"),
+    ],
+    why=(
+        "The discourse before this one located the marvel of a Buddha in a light reaching the "
+        "darkness between the worlds. This one locates it in a room. People love clinging, and when "
+        "someone teaches non-clinging they want to listen. They love conceit, and they listen to the "
+        "removal of conceit. They love excitement, and they listen to peace. They are lost in "
+        "ignorance, and they listen to the removal of ignorance. Four times, and the amazing thing "
+        "is the listening."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What is incredible about the appearance of a Buddha is that people will listen to a "
+            "teaching aimed squarely at what they most enjoy."]),
+        ("The four contrasts", [
+            "The structure never varies. A state is named; the population is said to delight in it "
+            "three ways over; and then, when a Realized One teaches the opposite, <em>they want to "
+            "listen, they actively listen, and they try to understand.</em>",
+            "The four states are <em>ālaya</em>, clinging or attachment; <em>māna</em>, conceit; "
+            "<em>anupasama</em>, the absence of peace, rendered here as excitement; and "
+            "<em>avijjā</em>, ignorance. The four teachings set against them are named by simply "
+            "negating each word.",
+            "The triple verb for delighting is worth hearing in the Pāli, because the piling-up is "
+            "the point: <em>ālayārāmā ālayaratā ālayasammuditā</em> &mdash; taking delight in it, "
+            "attached to it, thoroughly pleased with it. And the triple verb for listening answers "
+            "it in the same rhythm: <em>sussūsati sotaṁ odahati aññā cittaṁ upaṭṭhapeti</em>, wants "
+            "to hear, lends an ear, sets the mind on understanding.",
+            "Three verbs against three verbs. The discourse is built as a balance, and what it "
+            "weighs is a genuine attachment against a genuine willingness."]),
+        ("The line behind the first one", [
+            "<em>Ālayārāmā pajā</em> is not a phrase invented for this discourse. It comes from the "
+            "most famous hesitation in the tradition: after the awakening, the Buddha considers "
+            "teaching and concludes that this population delights in clinging, and that a teaching "
+            "of dependent origination and extinguishment will be hard for them to see. In that "
+            "context the phrase is a reason not to teach.",
+            "AN 4.128 takes the identical observation and calls it a marvel. The population is "
+            "exactly as described &mdash; nothing has been revised about how attached people are "
+            "&mdash; and yet, when the teaching arrives, they listen.",
+            "That reversal is the whole discourse, and it is worth making explicit to a class, "
+            "because without the background the first paragraph reads as a mild observation. With "
+            "it, the discourse is answering the founding worry of the tradition in four lines: the "
+            "worry was correct, and people listened anyway.",
+            "The reading does not require the two texts to have been composed together. It only "
+            "requires the phrase to have been current, which it demonstrably was."]),
+        ("&lsquo;Swaddled in their shells&rsquo;", [
+            "The fourth contrast breaks the pattern of the other three. Where they said the "
+            "population <em>delights</em> in something, the fourth says: <em>this population is lost "
+            "in ignorance, swaddled in their shells</em> &mdash; <em>avijjāgatā pajā aṇḍabhūtā "
+            "pariyonaddhā</em>, gone into ignorance, become an egg, enveloped.",
+            "Nobody delights in ignorance the way they delight in conceit, and the discourse changes "
+            "its verb accordingly. What it substitutes is an image of enclosure: the egg, wrapped "
+            "around, with the being inside unable to see out and unaware there is an out.",
+            "That is a more sympathetic account than the first three. Clinging, conceit, and "
+            "excitement are things people choose and enjoy; ignorance is a condition they are in. "
+            "And it is the fourth and climactic item, which places the discourse&rsquo;s final "
+            "emphasis on the one thing in the list that is nobody&rsquo;s fault."]),
+        ("What the marvel is not", [
+            "Three things this discourse conspicuously does not say.",
+            "It does not say people practice, or change, or attain anything. The marvel stops at "
+            "listening &mdash; wanting to hear, lending an ear, applying the mind. Whatever follows "
+            "is outside the frame.",
+            "It does not say the Buddha persuades, softens, or adapts the teaching to what the "
+            "audience likes. The teaching named in each case is the exact negation of what they "
+            "enjoy. The remarkable thing happens with the message at full strength.",
+            "And it does not credit the audience with any special quality. They are not called "
+            "faithful or well-disposed or ripe. They are called people who love clinging. The "
+            "marvel is located in the encounter rather than in either party.",
+            "Put together, this is a discourse about attention, and about a very specific kind of "
+            "attention: the willingness to sit still for something that is not going to flatter you."]),
+        ("Teaching it", [
+            "For a teacher this is one of the most usable discourses in the Fours, because its "
+            "subject is the room the teaching is happening in. It says, in effect: notice that they "
+            "came, and notice what they came to hear.",
+            "It also sets a standard that is not comfortable. If the marvel is that people listen to "
+            "the negation of what they love, then a teaching adjusted until it no longer negates "
+            "anything has given up the thing the discourse is amazed by.",
+            "The chapter closes with two more marvels of the same name and a much smaller scale: "
+            "Ānanda in AN 4.129 and a wheel-turning monarch in AN 4.130, both marvelous for the "
+            "effect they have on an assembly that has come to see them. The sequence runs from a "
+            "light between the worlds, to a population listening, to one man in a room, and it is "
+            "hard not to read the descent as intentional."]),
+    ],
+    terms=[
+        ("ālaya",
+         "&ldquo;clinging&rdquo;, attachment &mdash; literally a resting place or lair; the word in "
+         "the Buddha&rsquo;s hesitation after the awakening."),
+        ("māna",
+         "&ldquo;conceit&rdquo; &mdash; the measuring of oneself against others, better, worse, or "
+         "equal; one of the last fetters to go."),
+        ("anupasama",
+         "&ldquo;absence of peace&rdquo; &mdash; rendered &lsquo;excitement&rsquo;; the teaching set "
+         "against it is <em>opasamika</em>, the Dhamma of peace."),
+        ("aṇḍabhūta pariyonaddha",
+         "&ldquo;become an egg, enveloped&rdquo; &mdash; Sujato&rsquo;s &lsquo;swaddled in their "
+         "shells&rsquo;; the image that replaces delight in the fourth item."),
+        ("sussūsati",
+         "&ldquo;wants to hear&rdquo; &mdash; first of the three listening verbs, with lending an "
+         "ear and setting the mind on understanding."),
+    ],
+    text_intro=(
+        "The discourse in full: four things people love, four teachings aimed at them, and the same "
+        "response each time. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Clinging"),
+        ("p", "&sect;1", "an4.128:1.1-1.5"),
+        ("h3", "Conceit"),
+        ("p", "&sect;2", "an4.128:2.1-2.3"),
+        ("h3", "Excitement"),
+        ("p", "&sect;3", "an4.128:3.1-3.3"),
+        ("h3", "Ignorance"),
+        ("p", "&sect;4", "an4.128:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What are the four things people are said to love?",
+         "opts": [
+             "Wealth, praise, pleasure, and long life",
+             "Clinging, conceit, excitement, and &mdash; in the fourth case &mdash; being lost in ignorance",
+             "Form, feeling, perception, and consciousness",
+             "Sights, sounds, smells, and tastes"],
+         "correct": 1,
+         "expl": "And each teaching named against them is the exact negation of the word."},
+        {"q": "What is the incredible and amazing thing in each case?",
+         "opts": [
+             "That people attain the path",
+             "That they want to listen, actively listen, and try to understand",
+             "That the Buddha teaches at all",
+             "That the teaching is understood"],
+         "correct": 1,
+         "expl": "The marvel stops at listening."},
+        {"q": "Where else does <em>ālayārāmā pajā</em> appear?",
+         "opts": [
+             "In the first sermon",
+             "In the Buddha&rsquo;s hesitation after the awakening, as a reason <em>not</em> to teach",
+             "In the Vinaya",
+             "In the verses of the elders"],
+         "correct": 1,
+         "expl": "AN 4.128 takes the identical observation and calls it a marvel."},
+        {"q": "What does that reversal amount to?",
+         "opts": [
+             "A revision of the earlier assessment",
+             "An answer to the founding worry &mdash; the worry was correct, and people listened anyway",
+             "A softening of the teaching",
+             "A claim about the audience&rsquo;s virtue"],
+         "correct": 1,
+         "expl": "Nothing has been revised about how attached people are."},
+        {"q": "How does the fourth item break the pattern?",
+         "opts": [
+             "It is longer",
+             "It does not say people delight in ignorance; it says they are lost in it, swaddled in their shells",
+             "It names no teaching",
+             "It concerns monastics"],
+         "correct": 1,
+         "expl": "<em>Aṇḍabhūtā pariyonaddhā</em> &mdash; become an egg, enveloped."},
+        {"q": "Why does the guide call the fourth item more sympathetic?",
+         "opts": [
+             "Because it is last",
+             "Because clinging, conceit, and excitement are chosen and enjoyed, while ignorance is a condition people are in",
+             "Because it is shorter",
+             "Because ignorance is easier to remove"],
+         "correct": 1,
+         "expl": "The discourse&rsquo;s final emphasis falls on the one item that is nobody&rsquo;s fault."},
+        {"q": "What does the discourse <em>not</em> say happens?",
+         "opts": [
+             "That people listen",
+             "That people practice, change, or attain anything &mdash; whatever follows is outside the frame",
+             "That a Buddha appears",
+             "That a teaching is given"],
+         "correct": 1,
+         "expl": "The marvel is the listening and nothing past it."},
+        {"q": "Is the teaching adapted to the audience?",
+         "opts": [
+             "Yes, it is softened",
+             "No &mdash; the teaching named in each case is the exact negation of what they enjoy",
+             "Yes, it is shortened",
+             "The discourse does not say"],
+         "correct": 1,
+         "expl": "The remarkable thing happens with the message at full strength."},
+        {"q": "Where does the guide say the marvel is located?",
+         "opts": [
+             "In the Buddha",
+             "In the encounter &mdash; the audience is credited with no special quality and is called people who love clinging",
+             "In the audience",
+             "In the teaching"],
+         "correct": 1,
+         "expl": "Neither party is given the credit."},
+        {"q": "What uncomfortable standard does the guide draw from it?",
+         "opts": [
+             "That teaching must be frequent",
+             "That a teaching adjusted until it no longer negates anything has given up the thing the discourse is amazed by",
+             "That audiences must be large",
+             "That teachers must be awakened"],
+         "correct": 1,
+         "expl": "The marvel is that people listen to the negation of what they love."},
+    ],
+    marginalia=[
+        ("Four contrasts", [
+            "<span class=\"pali\">ālaya</span>non-clinging taught",
+            "<span class=\"pali\">māna</span>its removal taught",
+            "<span class=\"pali\">anupasama</span>peace taught",
+            "<span class=\"pali\">avijjā</span>its removal taught",
+        ]),
+        ("Three against three", [
+            "delight in it, attached to it,",
+            "thoroughly pleased with it",
+            "&mdash; and yet: wants to hear,",
+            "lends an ear, sets the mind",
+        ]),
+        ("The fourth", [
+            "not delight but enclosure",
+            "become an egg, enveloped",
+            "&mdash; nobody&rsquo;s fault",
+        ]),
+        ("Cross-references", [
+            "AN 4.127 &middot; the cosmic version",
+            "AN 4.129 &middot; a marvel in one room",
+            "AN 4.6 &middot; hearing and holding little",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.128/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.127.html">AN 4.127 &middot; Incredible Things About the Realized One (1st)</a> '
+        "&mdash; the discourse this one answers.",
+        '<a href="an-4.6.html">AN 4.6 &middot; A Little Learning</a> &mdash; where hearing much and '
+        "holding little is measured against its opposite.",
+        '<a href="an-4.129.html">AN 4.129 &middot; Incredible Things About Ānanda</a> &mdash; next '
+        "in this series, and the same phrase at human scale.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.129 — Ānandaacchariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    129, "Ānandaacchariya", "Incredible Things About Ānanda",
+    vagga=VAGGA_13,
+    meta_title="AN 4.129 — Incredible Things About Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ānandaacchariyasutta — "
+        "four assemblies, one man, and an audience that has never had enough when he stops "
+        "speaking. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "One statement repeated across the four assemblies, heavily abridged"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The praise of Ānanda&rsquo;s effect on an assembly belongs to the "
+                              "shared material behind DN 16 and its Āgama counterparts; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest page in the chapter "
+                       "and the warmest"),
+    ],
+    why=(
+        "The chapter&rsquo;s third set of marvels is about a person who is not a Buddha. Monks, "
+        "nuns, laymen, and laywomen come to see Ānanda; they are uplifted by seeing him and uplifted "
+        "by hearing him speak; and when he falls silent, they have never had enough. Four assemblies, "
+        "three clauses, and one of the most affectionate things said about anyone in the collection."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four kinds of people come to Ānanda and all four go away wanting more."]),
+        ("What is actually claimed", [
+            "The praise has three parts and they are carefully distinguished. The assembly is "
+            "uplifted <em>by seeing him</em> &mdash; before he has said anything at all. It is "
+            "uplifted <em>by hearing him speak</em>. And when he stops, <em>they&rsquo;ve never had "
+            "enough.</em>",
+            "The Pāli behind the third clause puts it the other way round: <em>atittāva bhikkhave "
+            "bhikkhuparisā hoti, atha ānando tuṇhī bhavati</em> &mdash; the assembly is still "
+            "unsated, and then Ānanda falls silent. The unsatisfied state is named first and the "
+            "silence arrives into it.",
+            "That is a compliment about judgment as much as about eloquence. Stopping while the room "
+            "still wants more is a skill, and the discourse is describing someone who does it every "
+            "time, before four different kinds of audience.",
+            "Notice also what is not praised. Not his memory, though the tradition made that his "
+            "defining feature. Not his attainment, which at this point in the story he does not "
+            "have. What is praised is the effect he has on a room."]),
+        ("The four assemblies", [
+            "<em>Bhikkhu, bhikkhunī, upāsaka, upāsikā</em> &mdash; monks, nuns, laymen, laywomen. "
+            "The standard four-fold division of the community, and the reason this praise fits the "
+            "Fours at all.",
+            "The set is doing real work here. A speaker who moves a hall of monastics is not "
+            "necessarily one who holds a room of laywomen, and the discourse&rsquo;s claim is "
+            "specifically that the same three things happen in all four cases with nothing adjusted.",
+            "The written text gives the first assembly in full, marks the second and third by name "
+            "alone, and restores the fourth to full length. That is the ordinary storage format of "
+            "the collection, and by this point in the chapter a reader should recognize it on "
+            "sight."]),
+        ("Who this is about", [
+            "Ānanda is the Buddha&rsquo;s attendant and cousin, named foremost among those who have "
+            "learned much, and the person through whom a very large part of the collection is "
+            "transmitted. The tradition also records, without embarrassment, that he was still "
+            "unawakened when the Buddha died and reached the goal only on the night before the "
+            "council convened.",
+            "That combination is what makes this discourse worth teaching. The person the four "
+            "assemblies cannot get enough of is, at the time described, someone still on the way. "
+            "The collection is willing to say that a room is lifted by someone who has not finished, "
+            "and to call it incredible and amazing.",
+            "It is worth adding, since this chapter has just spent four discourses on what "
+            "distinguishes a noble disciple from an ordinary person, that AN 4.129 places its "
+            "marvel in a completely different register. Nothing here is about attainment at all."]),
+        ("Why it is placed here", [
+            "The chapter&rsquo;s marvels descend. AN 4.127: a light reaching the darkness between "
+            "world systems. AN 4.128: a population that listens against its own inclination. AN "
+            "4.129: one man, four rooms, and an audience that wants him to keep going.",
+            "Three uses of <em>acchariya abbhuta</em>, and the third is small enough to be observed "
+            "by anyone. Whatever the compilers intended, the effect of reading them in order is that "
+            "the word is progressively brought down to a scale a reader can check.",
+            "AN 4.130 will complete the movement by putting a wheel-turning monarch in the same "
+            "frame and then repeating this discourse verbatim inside it."]),
+        ("Teaching it", [
+            "The natural use for this page is as a discussion of what makes a teacher worth "
+            "listening to, with the discourse&rsquo;s own three criteria on the table: presence "
+            "before speaking, effect while speaking, and the timing of stopping.",
+            "The third is the one worth pressing, because it is the only one a teacher fully "
+            "controls. The discourse does not say Ānanda spoke well for a long time. It says the "
+            "room was still hungry when he stopped.",
+            "The chapter ends with the next discourse, and the Fours then move on to the "
+            "Puggalavagga, the chapter of persons, which sorts people into fours for ten discourses "
+            "running."]),
+    ],
+    terms=[
+        ("acchariya abbhuta",
+         "&ldquo;incredible and amazing&rdquo; &mdash; the same fixed pair used of a Buddha in AN "
+         "4.127 and AN 4.128, applied here to a disciple."),
+        ("catasso parisā",
+         "&ldquo;the four assemblies&rdquo; &mdash; monks, nuns, laymen, laywomen; the standard "
+         "division of the community and the reason this praise is a set of four."),
+        ("attamana",
+         "&ldquo;uplifted&rdquo;, gladdened &mdash; literally something like having one&rsquo;s own "
+         "mind; the state the assembly is put into by seeing and by hearing."),
+        ("atitta",
+         "&ldquo;unsated&rdquo;, not having had enough &mdash; the word describing the assembly at "
+         "the moment Ānanda stops speaking."),
+        ("bahussuta",
+         "&ldquo;very learned&rdquo;, one who has heard much &mdash; not used here, but the quality "
+         "for which the tradition names Ānanda foremost."),
+    ],
+    text_intro=(
+        "The discourse in full: the four assemblies, the first and last written out and the middle "
+        "two named only. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The assembly of monks"),
+        ("p", "&sect;1", "an4.129:1.1-1.5"),
+        ("h3", "Nuns, laymen, and laywomen"),
+        ("p", "&sect;2", "an4.129:2.1-4.4"),
+    ],
+    quiz=[
+        {"q": "Who is this discourse about?",
+         "opts": [
+             "Sāriputta",
+             "Ānanda",
+             "The Buddha",
+             "A wheel-turning monarch"],
+         "correct": 1,
+         "expl": "The same phrase used of a Buddha in the two preceding discourses."},
+        {"q": "What are the four?",
+         "opts": [
+             "Four qualities of Ānanda",
+             "Four assemblies &mdash; monks, nuns, laymen, and laywomen &mdash; each affected the same way",
+             "Four teachings he gave",
+             "Four occasions"],
+         "correct": 1,
+         "expl": "The standard fourfold division of the community."},
+        {"q": "What uplifts the assembly first?",
+         "opts": [
+             "His teaching",
+             "Seeing him, before he has said anything",
+             "His reputation",
+             "His silence"],
+         "correct": 1,
+         "expl": "The three parts of the praise are carefully distinguished."},
+        {"q": "What does the Pāli of the third clause put first?",
+         "opts": [
+             "Ānanda&rsquo;s silence",
+             "The assembly&rsquo;s unsated state &mdash; and then Ānanda falls silent",
+             "The assembly&rsquo;s departure",
+             "The Buddha&rsquo;s approval"],
+         "correct": 1,
+         "expl": "<em>Atittāva&hellip; atha ānando tuṇhī bhavati.</em>"},
+        {"q": "What does the guide say that clause is a compliment about?",
+         "opts": [
+             "Eloquence",
+             "Judgment &mdash; stopping while the room still wants more",
+             "Memory",
+             "Patience"],
+         "correct": 1,
+         "expl": "And doing it before four different kinds of audience."},
+        {"q": "What is conspicuously <em>not</em> praised?",
+         "opts": [
+             "His effect on a room",
+             "His memory, and his attainment &mdash; which at this point he does not have",
+             "His kindness",
+             "His speech"],
+         "correct": 1,
+         "expl": "Though the tradition made memory his defining feature."},
+        {"q": "What does the tradition record about Ānanda&rsquo;s awakening?",
+         "opts": [
+             "That it came early",
+             "That he was still unawakened when the Buddha died, and reached the goal the night before the council",
+             "That it is not recorded",
+             "That he never reached it"],
+         "correct": 1,
+         "expl": "The person four assemblies cannot get enough of is, here, still on the way."},
+        {"q": "How does this discourse relate to the four before it in the chapter?",
+         "opts": [
+             "It continues their argument",
+             "It places its marvel in a completely different register &mdash; nothing here is about attainment at all",
+             "It contradicts them",
+             "It abridges them"],
+         "correct": 1,
+         "expl": "AN 4.123 to AN 4.126 were entirely about what distinguishes a noble disciple."},
+        {"q": "How do the chapter&rsquo;s three marvels stand in relation to each other?",
+         "opts": [
+             "They ascend",
+             "They descend &mdash; a light between the worlds, a population listening, one man in four rooms",
+             "They are unrelated",
+             "They repeat"],
+         "correct": 1,
+         "expl": "The word is progressively brought down to a scale a reader can check."},
+        {"q": "Which of the three criteria does the guide call the one a teacher fully controls?",
+         "opts": [
+             "Presence before speaking",
+             "The timing of stopping",
+             "Effect while speaking",
+             "None of them"],
+         "correct": 1,
+         "expl": "The discourse does not say Ānanda spoke well for a long time."},
+    ],
+    marginalia=[
+        ("Four assemblies", [
+            "<span class=\"pali\">bhikkhu</span>monk",
+            "<span class=\"pali\">bhikkhunī</span>nun",
+            "<span class=\"pali\">upāsaka</span>layman",
+            "<span class=\"pali\">upāsikā</span>laywoman",
+        ]),
+        ("Three clauses", [
+            "uplifted by seeing him",
+            "uplifted by hearing him",
+            "never enough when he stops",
+        ]),
+        ("The order in Pāli", [
+            "the assembly is unsated",
+            "&mdash; and then he falls silent",
+        ]),
+        ("Cross-references", [
+            "AN 4.127 &middot; marvels at cosmic scale",
+            "AN 4.128 &middot; marvels in a room",
+            "AN 4.130 &middot; this discourse repeated inside another",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.129/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.128.html">AN 4.128 &middot; Incredible Things About the Realized One (2nd)</a> '
+        "&mdash; the marvel of an audience that listens.",
+        '<a href="an-4.130.html">AN 4.130 &middot; Incredible Things About the Wheel-Turning '
+        'Monarch</a> &mdash; next in this series, and this discourse quoted whole inside it.',
+        '<a href="an-4.15.html">AN 4.15 &middot; Regarded as Foremost</a> &mdash; the Fours on being '
+        "named first in a category.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.130 — Cakkavattiacchariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    130, "Cakkavattiacchariya", "Incredible Things About the Wheel-Turning Monarch",
+    vagga=VAGGA_13,
+    meta_title="AN 4.130 — Incredible Things About the Wheel-Turning Monarch | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Cakkavattiacchariyasutta — "
+        "four assemblies uplifted by a monarch, and then the whole of AN 4.129 repeated inside it. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_13),
+        ("Speakers", SPEAKER),
+        ("Form", "The praise of AN 4.129 given first to a monarch, then repeated of Ānanda"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The comparison of Ānanda to a wheel-turning monarch is shared with "
+                              "the material behind DN 16 and its Āgama counterparts; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and a good place to see "
+                       "how the collection stores and indexes what it has already said"),
+    ],
+    why=(
+        "Aristocrats, brahmins, householders, and ascetics come to see a wheel-turning monarch, and "
+        "the same three things happen that happened to the four assemblies in AN 4.129: uplifted by "
+        "seeing him, uplifted by hearing him, never enough when he stops. Then the discourse says "
+        "<em>in the same way</em>, and repeats the whole of AN 4.129 word for word. Two discourses, "
+        "one of which contains the other."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What is said of a wheel-turning monarch before the four estates is said of Ānanda "
+            "before the four assemblies, in the same words."]),
+        ("The two sets of four", [
+            "The monarch&rsquo;s four are <em>khattiya, brāhmaṇa, gahapati, samaṇa</em> &mdash; "
+            "aristocrats, brahmins, householders, and ascetics. These are the estates of the wider "
+            "society: the ruling class, the priestly class, the settled householders who own and "
+            "trade, and the renunciants outside the whole arrangement.",
+            "Ānanda&rsquo;s four are the assemblies of the community: monks, nuns, laymen, "
+            "laywomen. Not a map of society but a map of the tradition, and one that cuts across "
+            "society&rsquo;s divisions entirely.",
+            "Set the two lists beside each other and the comparison is doing something more than "
+            "flattery. The monarch is a figure whose reach is complete within his world, and the "
+            "discourse assigns Ānanda a reach that is complete within a different world &mdash; one "
+            "whose four divisions are ordained and lay, male and female, rather than born.",
+            "That is worth spelling out, because the comparison is easy to hear as merely "
+            "complimentary. What it actually says is that the community has its own map, and that "
+            "the same completeness can be claimed within it."]),
+        ("A discourse that contains another", [
+            "The second half of AN 4.130 is AN 4.129, entire and unaltered. Not a summary, not a "
+            "reference &mdash; the text itself, all four assemblies, the same three clauses.",
+            "This is worth stopping on rather than passing over, because it shows plainly how the "
+            "collection was assembled. A unit of material about Ānanda existed. It could stand alone "
+            "as a discourse, and it does, at AN 4.129. It could also be embedded as the second term "
+            "of a simile, and it is, at AN 4.130. The compilers recorded both uses and numbered them "
+            "separately.",
+            "The result is that the Fours contain the same paragraph twice in succession, and the "
+            "second time it arrives with a comparison attached. A modern editor would cross-reference "
+            "and cut. A reciting tradition does not, because the two are different recitation units "
+            "with different functions.",
+            "It is also the reason a reader should not treat adjacency in the Aṅguttara as evidence "
+            "of a single occasion. AN 4.129 and AN 4.130 are not a conversation continued; they are "
+            "two filings of overlapping material."]),
+        ("Which way the comparison runs", [
+            "The order matters. The monarch comes first and Ānanda second, and the connective is "
+            "<em>evamevaṁ kho</em>, &lsquo;in the same way&rsquo;. In the standard grammar of a "
+            "simile, the first term is the familiar one and the second is what is being explained.",
+            "So the discourse is not praising the monarch. He is the illustration. Everyone in the "
+            "audience knows what a wheel-turning monarch is and what it would be like to be in a "
+            "room with one, and that knowledge is being spent to say something about a monk.",
+            "The wheel-turning monarch is in any case a figure rather than a person &mdash; the "
+            "righteous universal king of the tradition&rsquo;s political imagination, who conquers "
+            "without violence and rules by principle. The Fours have met him before, in AN 4.130&rsquo;s "
+            "neighborhood at AN 4.70, where an unprincipled king makes the whole country unprincipled "
+            "down to the weather.",
+            "The comparison therefore borrows a figure the collection elsewhere treats critically, "
+            "and uses only the one feature it needs: that when he speaks, every part of the "
+            "population wants to hear him."]),
+        ("What is praised, and what is not", [
+            "Neither half of this discourse mentions the content of anything said. The monarch "
+            "uplifts by being seen and by speaking; so does Ānanda. What is being described is "
+            "presence and effect, twice.",
+            "Nor is anything said about power in the monarch&rsquo;s case, or about attainment in "
+            "Ānanda&rsquo;s. A discourse about a universal emperor that never mentions his rule, "
+            "placed beside one about a leading disciple that never mentions his practice, and joined "
+            "by <em>in the same way</em>.",
+            "The single quality isolated is the capacity to hold every kind of listener. That is why "
+            "this can close a chapter whose earlier discourses were about fear, disrobing, rebirth, "
+            "and the difference between a noble disciple and an ordinary person. It is the only one "
+            "of the chapter&rsquo;s subjects that concerns the community as a body rather than the "
+            "individual in it."]),
+        ("The chapter as a whole", [
+            "Bhayavagga is named for its first discourse and holds four unrelated blocks: the four "
+            "fears (AN 4.121), the four dangers that end a monastic life (AN 4.122), the four-cell "
+            "grid on absorption, the immeasurables, relishing, and contemplation (AN 4.123&ndash;126), "
+            "and the four marvels (AN 4.127&ndash;130).",
+            "Nothing joins them but the number four, and that is the honest description of how this "
+            "part of the collection is organized. The Aṅguttara is an index, and a chapter of it is "
+            "a drawer rather than an argument.",
+            "What follows is the Puggalavagga, the chapter of persons, which spends ten discourses "
+            "sorting people into fours &mdash; by fetter, by conduct, by what they are worth "
+            "associating with. The Fours are about to become a catalogue of human types."]),
+    ],
+    terms=[
+        ("cakkavatti",
+         "&ldquo;wheel-turning monarch&rdquo; &mdash; the righteous universal king of the "
+         "tradition&rsquo;s political imagination, who conquers without violence."),
+        ("khattiya",
+         "&ldquo;aristocrat&rdquo; &mdash; first of the monarch&rsquo;s four estates, with brahmin, "
+         "householder, and ascetic; a map of society rather than of the community."),
+        ("evamevaṁ kho",
+         "&ldquo;in the same way&rdquo; &mdash; the connective that makes the monarch the "
+         "illustration and Ānanda the thing illustrated."),
+        ("parisā",
+         "&ldquo;assembly&rdquo; &mdash; used for both lists, which is what allows the two sets of "
+         "four to be laid over one another."),
+        ("acchariya abbhuta",
+         "&ldquo;incredible and amazing&rdquo; &mdash; the fourth and last use of the pair in this "
+         "chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the monarch before the four estates, then Ānanda before the four "
+        "assemblies, in the same words. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The assembly of aristocrats"),
+        ("p", "&sect;1", "an4.130:1.1-1.5"),
+        ("h3", "Brahmins, householders, and ascetics"),
+        ("p", "&sect;2", "an4.130:2.1-4.4"),
+        ("h3", "In the same way, of Ānanda"),
+        ("p", "&sect;3", "an4.130:5.1-5.5"),
+        ("p", "&sect;4", "an4.130:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "Which four come to see the wheel-turning monarch?",
+         "opts": [
+             "Monks, nuns, laymen, and laywomen",
+             "Aristocrats, brahmins, householders, and ascetics",
+             "Kings, ministers, soldiers, and merchants",
+             "Gods, humans, animals, and ghosts"],
+         "correct": 1,
+         "expl": "A map of society rather than of the community."},
+        {"q": "What happens in the second half of the discourse?",
+         "opts": [
+             "The monarch teaches",
+             "The whole of AN 4.129 is repeated word for word, introduced by &lsquo;in the same way&rsquo;",
+             "The Buddha comments",
+             "A verse is added"],
+         "correct": 1,
+         "expl": "Not a summary and not a reference &mdash; the text itself."},
+        {"q": "What does that repetition show about the collection?",
+         "opts": [
+             "That the text is corrupt",
+             "That a unit of material could stand alone and also be embedded, and the compilers recorded both uses separately",
+             "That AN 4.129 is later",
+             "That the compilers made an error"],
+         "correct": 1,
+         "expl": "A modern editor would cross-reference and cut; a reciting tradition does not."},
+        {"q": "What follows from that for reading the Aṅguttara?",
+         "opts": [
+             "That adjacent discourses are always related",
+             "That adjacency is not evidence of a single occasion &mdash; these are two filings of overlapping material",
+             "That the order is random",
+             "That repetitions should be skipped"],
+         "correct": 1,
+         "expl": "Not a conversation continued."},
+        {"q": "Which term of the comparison is the illustration?",
+         "opts": [
+             "Ānanda",
+             "The monarch &mdash; he comes first, and the connective is <em>evamevaṁ kho</em>",
+             "The four assemblies",
+             "Neither"],
+         "correct": 1,
+         "expl": "In a simile the first term is the familiar one."},
+        {"q": "What does the guide say the comparison of the two sets of four actually claims?",
+         "opts": [
+             "That Ānanda is royal",
+             "That the community has its own map, and the same completeness of reach can be claimed within it",
+             "That the estates are obsolete",
+             "That monastics outrank laypeople"],
+         "correct": 1,
+         "expl": "One map is ordained and lay, male and female, rather than born."},
+        {"q": "Where else in the Fours does a wheel-turning figure appear critically?",
+         "opts": [
+             "AN 4.31",
+             "AN 4.70, where an unprincipled king makes the whole country unprincipled down to the weather",
+             "AN 4.15",
+             "AN 4.55"],
+         "correct": 1,
+         "expl": "The comparison borrows only the one feature it needs."},
+        {"q": "What is never mentioned in either half?",
+         "opts": [
+             "The four assemblies",
+             "The content of anything said &mdash; nor the monarch&rsquo;s rule, nor Ānanda&rsquo;s practice",
+             "The uplifting",
+             "The silence"],
+         "correct": 1,
+         "expl": "What is described is presence and effect, twice."},
+        {"q": "What single quality does the discourse isolate?",
+         "opts": [
+             "Eloquence",
+             "The capacity to hold every kind of listener",
+             "Authority",
+             "Learning"],
+         "correct": 1,
+         "expl": "The only subject in the chapter that concerns the community as a body."},
+        {"q": "How does the guide describe the Bhayavagga as a whole?",
+         "opts": [
+             "As a sustained argument about fear",
+             "As four unrelated blocks joined by nothing but the number four &mdash; a drawer rather than an argument",
+             "As a biography",
+             "As a late compilation"],
+         "correct": 1,
+         "expl": "The Aṅguttara is an index."},
+    ],
+    marginalia=[
+        ("Two sets of four", [
+            "monarch &middot; aristocrat, brahmin,",
+            "householder, ascetic",
+            "Ānanda &middot; monk, nun,",
+            "layman, laywoman",
+        ]),
+        ("Contained whole", [
+            "AN 4.129 repeated",
+            "word for word",
+            "&mdash; two filings, one text",
+        ]),
+        ("Never mentioned", [
+            "what the monarch rules",
+            "what Ānanda has attained",
+            "what either of them says",
+        ]),
+        ("The chapter", [
+            "4.121 &middot; four fears",
+            "4.122 &middot; four dangers",
+            "4.123&ndash;126 &middot; the grid",
+            "4.127&ndash;130 &middot; four marvels",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.130/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.129.html">AN 4.129 &middot; Incredible Things About Ānanda</a> &mdash; the '
+        "discourse repeated whole inside this one.",
+        '<a href="an-4.70.html">AN 4.70 &middot; Unprincipled</a> &mdash; where a king&rsquo;s '
+        "conduct reaches the weather, and the same figure is treated critically.",
+        '<a href="an-4.121.html">AN 4.121 &middot; Guilt</a> &mdash; the discourse the chapter is '
+        "named after, and the start of the four unrelated blocks it holds.",
+    ],
+)
