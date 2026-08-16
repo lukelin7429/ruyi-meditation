@@ -3296,3 +3296,1086 @@ page(
         "canon&rsquo;s image for a teaching set in motion.",
     ],
 )
+
+
+page(
+    16, "Apaṇṇaka", "Sure Bet",
+    vagga=VAGGA_2,
+    meta_title="AN 3.16 — Sure Bet | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Apaṇṇakasutta — "
+        "guarding the sense doors, eating in moderation, and dedication to wakefulness, each "
+        "defined in full. The three preliminaries that make a practice a sure bet. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three things named, then each defined at length in its own passage"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "This triad opens the gradual training in the Chinese Madhyama-āgama "
+                              "(T26) as it does in the Pāli; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; entirely practical, and the most "
+                       "immediately usable discourse in the chapter"),
+    ],
+    why=(
+        "Three things, each given a full definition rather than a name: guarding the sense doors, "
+        "eating in moderation, and dedication to wakefulness. A mendicant who has them is said to have "
+        "a practice that is <em>apaṇṇaka</em> &mdash; a sure bet, a certainty, something that cannot "
+        "come out wrong &mdash; and to have laid the groundwork for ending the defilements. The three "
+        "are unglamorous to the point of being domestic: what you do with your attention, what you do "
+        "with your food, and what you do with your night. That is the whole list."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Attention at the senses, moderation at meals, and a disciplined night are the groundwork "
+            "on which the ending of defilements is possible."]),
+        ("What <em>apaṇṇaka</em> claims", [
+            "The word is a gambling term. <em>Apaṇṇaka</em> is the throw that cannot lose, the bet "
+            "that is not a gamble &mdash; a sure thing. Applied to a practice it says something quite "
+            "strong: that a practice built on these three is not a wager on an uncertain outcome.",
+            "The second half of the sentence is more careful, though, and the two halves should be "
+            "read together. Such a mendicant <em>has laid the groundwork for ending the "
+            "defilements</em> &mdash; <em>āraddho</em>, begun, undertaken. Not completed. The claim is "
+            "not that these three produce awakening; it is that with them in place the enterprise is "
+            "no longer a gamble, and without them, whatever else is done, it is."]),
+        ("Guarding the sense doors", [
+            "The definition is the standard one and it is worth reading closely, because it is far "
+            "more specific than &ldquo;be careful what you look at.&rdquo; On seeing a sight, the "
+            "mendicant does not <em>get caught up in the features and details</em> &mdash; "
+            "<em>nimittaggāhī</em> and <em>anubyañjanaggāhī</em>, seizing on the general mark and "
+            "seizing on the particulars.",
+            "Nothing here says not to see. The restraint operates after contact, on the elaboration: "
+            "the move from <em>there is a face</em> to <em>there is a face, and here is what it means "
+            "to me, and here is what I want from it</em>. The reason given is precise and "
+            "consequential rather than moral: if the faculty were left unrestrained, covetousness and "
+            "displeasure would become overwhelming.",
+            "The list runs through all six &mdash; eye, ear, nose, tongue, body, mind &mdash; and the "
+            "inclusion of mind is what makes the practice complete. Thoughts arrive at a sense door "
+            "like anything else, and are seized on in exactly the same way. A practitioner who guards "
+            "five and elaborates freely on the sixth has not understood the instruction."]),
+        ("Eating in moderation", [
+            "The definition is a reflection, given as a formula to be actually recited: not for fun, "
+            "indulgence, adornment, or decoration, but to sustain the body, avoid harm, and support "
+            "spiritual practice &mdash; to end old discomfort without producing new discomfort, and to "
+            "have the means to keep going, blamelessness, and a comfortable abiding.",
+            "Two features are worth pointing out. First, the four rejected motives are all about the "
+            "body as display or entertainment; nothing rejects nourishment or even pleasure as such. "
+            "Second, the positive formula is unusually accommodating: <em>a comfortable abiding</em> "
+            "is named as one of the aims. This is not an austerity instruction. A person eating to "
+            "this standard would eat enough, regularly, and without fuss.",
+            "For lay students this reflection transfers directly, and is one of the few canonical "
+            "formulas that can be used unmodified outside a monastic setting."]),
+        ("Dedication to wakefulness", [
+            "The definition is a timetable. Walking and sitting meditation by day; walking and sitting "
+            "in the first watch of the night; in the middle watch, lying down in the lion&rsquo;s "
+            "posture &mdash; on the right side, one foot on the other, mindful and aware, and "
+            "<em>focused on the time of getting up</em>; and in the last watch, up again.",
+            "That is roughly four hours of sleep, and it is worth being honest that this is a monastic "
+            "regime and a demanding one. What transfers is not the schedule but two details inside it. "
+            "The posture is specified, which makes lying down a described practice rather than the "
+            "cessation of practice. And the mendicant goes to sleep <em>focused on the time of getting "
+            "up</em> &mdash; the intention to rise is formed before sleep, not on waking.",
+            "<em>Jāgariya</em>, wakefulness, is not primarily about hours. It is about the night not "
+            "being a gap in which nothing is happening."]),
+        ("Why these three", [
+            "The selection is worth a comment because it is not obvious. Nothing here concerns "
+            "doctrine, view, generosity, or ethics in the ordinary sense; there is no mention of the "
+            "precepts. What the three have in common is that each governs a continuous, unavoidable, "
+            "daily process &mdash; perceiving, eating, sleeping &mdash; that a person will engage in "
+            "whether or not they practice.",
+            "That is the logic of calling them groundwork. They are not additional activities to be "
+            "fitted into a life; they are the three activities a life already consists of, done "
+            "differently. Which is also why the discourse can call a practice built on them a sure "
+            "bet: nothing about them depends on finding time."]),
+    ],
+    terms=[
+        ("apaṇṇaka",
+         "&ldquo;a sure bet, a certainty&rdquo; &mdash; a gambling term for the throw that cannot "
+         "lose. Applied here to a practice, not to its outcome."),
+        ("nimittaggāhī / anubyañjanaggāhī",
+         "&ldquo;seizing on the features&rdquo; and &ldquo;on the details&rdquo; &mdash; what a "
+         "guarded practitioner does not do. The restraint operates after contact, on the elaboration."),
+        ("bhojane mattaññutā",
+         "&ldquo;moderation in eating&rdquo; &mdash; literally knowing the measure in food, and "
+         "defined by a reflection rather than by a quantity."),
+        ("jāgariya",
+         "&ldquo;wakefulness&rdquo; &mdash; defined by a timetable in three watches. Not primarily "
+         "about hours but about the night not being a gap."),
+        ("uṭṭhānasaññaṁ manasi karitvā",
+         "&ldquo;focused on the time of getting up&rdquo; &mdash; the intention to rise is formed "
+         "before sleep, not on waking."),
+    ],
+    text_intro=(
+        "The discourse in full: the three named, then each defined. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things"),
+        ("p", "&sect;1", "an3.16:1.1-1.3"),
+        ("h3", "Guarding the sense doors"),
+        ("p", "&sect;2", "an3.16:2.1-2.10"),
+        ("h3", "Eating in moderation"),
+        ("p", "&sect;3", "an3.16:3.1-3.4"),
+        ("h3", "Dedication to wakefulness"),
+        ("p", "&sect;4", "an3.16:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What are the three things?",
+         "opts": [
+             "Ethics, immersion, and wisdom",
+             "Guarding the sense doors, eating in moderation, and dedication to wakefulness",
+             "Faith, energy, and mindfulness",
+             "Giving, ethics, and meditation"],
+         "correct": 1,
+         "expl": "What you do with your attention, your food, and your night."},
+        {"q": "What does <em>apaṇṇaka</em> mean?",
+         "opts": [
+             "&ldquo;A sure bet&rdquo; &mdash; a gambling term for the throw that cannot lose",
+             "&ldquo;Difficult&rdquo;",
+             "&ldquo;Preliminary&rdquo;",
+             "&ldquo;Complete&rdquo;"],
+         "correct": 0,
+         "expl": "Applied to a practice, not to its outcome."},
+        {"q": "What is the second half of the claim?",
+         "opts": [
+             "That awakening follows automatically",
+             "That such a mendicant has <em>laid the groundwork</em> for ending the defilements &mdash; begun, not completed",
+             "That no further practice is needed",
+             "That the defilements are already ended"],
+         "correct": 1,
+         "expl": "With these in place the enterprise is no longer a gamble; without them, whatever else is done, it is."},
+        {"q": "What does guarding the sense doors actually restrain?",
+         "opts": [
+             "Seeing and hearing themselves",
+             "The elaboration after contact &mdash; not seizing on the features and details",
+             "Contact with laypeople",
+             "Speech"],
+         "correct": 1,
+         "expl": "The move from &ldquo;there is a face&rdquo; to &ldquo;here is what I want from it.&rdquo;"},
+        {"q": "What reason is given for the restraint?",
+         "opts": [
+             "That the senses are impure",
+             "That it is required by the Vinaya",
+             "That if the faculty were left unrestrained, covetousness and displeasure would become overwhelming &mdash; a consequential reason, not a moral one",
+             "That teachers expect it"],
+         "correct": 2,
+         "expl": "Precise, and about what happens rather than about what is permitted."},
+        {"q": "Why does the guide say the inclusion of mind completes the practice?",
+         "opts": [
+             "Because mind is the most important sense",
+             "Because thoughts arrive at a sense door like anything else and are seized on in the same way &mdash; a practitioner who guards five and elaborates freely on the sixth has not understood the instruction",
+             "Because the mind cannot be guarded",
+             "Because the Vinaya requires six"],
+         "correct": 1,
+         "expl": "The list runs through all six."},
+        {"q": "What do the four rejected motives in the eating reflection have in common?",
+         "opts": [
+             "They all concern the body as display or entertainment &mdash; nothing rejects nourishment or even pleasure as such",
+             "They all concern cost",
+             "They all concern monastic rules",
+             "They all concern taste"],
+         "correct": 0,
+         "expl": "Not for fun, indulgence, adornment, or decoration."},
+        {"q": "What does the guide say is unusually accommodating in the positive formula?",
+         "opts": [
+             "That fasting is permitted",
+             "That <em>a comfortable abiding</em> is named as one of the aims &mdash; this is not an austerity instruction",
+             "That any quantity is allowed",
+             "That meals may be skipped"],
+         "correct": 1,
+         "expl": "A person eating to this standard would eat enough, regularly, and without fuss."},
+        {"q": "What two details of the wakefulness timetable does the guide say transfer, as against the schedule itself?",
+         "opts": [
+             "The posture is specified, making lying down a described practice rather than the cessation of practice; and the intention to rise is formed before sleep, not on waking",
+             "The number of hours and the direction faced",
+             "The time of the last meal and the time of rising",
+             "Nothing transfers"],
+         "correct": 0,
+         "expl": "Roughly four hours of sleep is a monastic regime, and a demanding one."},
+        {"q": "What do the three things have in common, according to the guide?",
+         "opts": [
+             "Each requires a teacher",
+             "Each governs a continuous, unavoidable daily process &mdash; perceiving, eating, sleeping &mdash; that a person engages in whether or not they practice",
+             "Each takes an hour a day",
+             "Each concerns the body only"],
+         "correct": 1,
+         "expl": "Not additional activities fitted into a life but the activities a life already consists of, done differently."},
+    ],
+    marginalia=[
+        ("Three things", [
+            "the sense doors",
+            "the meal",
+            "the night",
+        ]),
+        ("The bet", [
+            "<span class=\"pali\">apaṇṇaka</span>the throw that cannot lose",
+            "&ldquo;laid the groundwork&rdquo;",
+            "&mdash; begun, not finished",
+        ]),
+        ("What is restrained", [
+            "not seeing",
+            "<span class=\"pali\">nimittaggāhī</span>seizing the feature",
+            "&mdash; the elaboration after contact",
+        ]),
+        ("Cross-references", [
+            "AN 1.1&ndash;10 &middot; where sense restraint is aimed",
+            "AN 1.11&ndash;20 &middot; covetousness and displeasure",
+            "MN 39 &middot; the same three, in the gradual training",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.16/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-039.html">MN 39 &middot; The Longer Discourse at '
+        "Assapura</a> &mdash; these same three set inside the full gradual training, so their place "
+        "in a sequence can be seen.",
+        '<a href="an-1.1-10.html">AN 1.1&ndash;10 &middot; What Occupies the Mind</a> &mdash; the '
+        "chapter that opens the collection by naming what the sense doors are being guarded against.",
+        '<a href="/sutras/mohe-zhiguan/fascicle-004.html">Mohe Zhiguan, Fascicle 4</a> &mdash; Zhiyi '
+        "arranging the same preliminaries as conditions to be settled before formal practice begins.",
+    ],
+)
+
+
+page(
+    17, "Attabyābādha", "Hurting Yourself",
+    vagga=VAGGA_2,
+    meta_title="AN 3.17 — Hurting Yourself | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Attabyābādhasutta — "
+        "bad conduct hurts yourself, hurts others, and hurts both, and the three are named "
+        "separately. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel passages on the standard threefold division of action"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The threefold analysis of harm is standard across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; four sentences, with one "
+                       "distinction worth keeping"),
+    ],
+    why=(
+        "Bad conduct of body, speech, and mind leads to hurting yourself, hurting others, and hurting "
+        "both. Three destinations for one cause, and the discourse names them as three rather than "
+        "collapsing them into &ldquo;harm.&rdquo; That separation is the whole of what the discourse "
+        "adds, and it is enough."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same bad conduct produces three distinguishable kinds of damage, and the first of "
+            "them is to yourself."]),
+        ("Why three and not one", [
+            "<em>Attabyābādhāya</em>, <em>parabyābādhāya</em>, <em>ubhayabyābādhāya</em>: for the "
+            "hurting of self, of another, of both. The Pāli gives three separate compounds where one "
+            "would have done.",
+            "Read as a list they are not three degrees of the same thing. Some conduct damages the "
+            "person doing it and nobody else &mdash; a private resentment, a habit of thought. Some "
+            "damages another and leaves the doer apparently untouched. And some does both, which is "
+            "the ordinary case and the one people notice.",
+            "By naming all three the discourse forecloses two familiar defenses at once. "
+            "<em>It only hurts me</em> is answered by the first item being on a list of harms. "
+            "<em>It doesn&rsquo;t hurt me</em> is answered by the first item being on the list at "
+            "all."]),
+        ("Reading it beside AN 3.9", [
+            "AN 3.9, eight discourses earlier, said the fool <em>keeps themselves broken and "
+            "damaged</em>. This one gives the same claim without the image and adds the other two "
+            "terms. The pair is worth reading together: AN 3.9 established that the harm falls on the "
+            "doer, and AN 3.17 establishes that it does not fall only there.",
+            "The Aṅguttara does this constantly &mdash; states a claim in one discourse with an image "
+            "and in another as a bare list &mdash; and the two versions are useful for different "
+            "purposes. The image is what a person remembers. The list is what they can check "
+            "themselves against."]),
+        ("The positive half", [
+            "Good conduct of body, speech, and mind does <em>not</em> lead to hurting yourself, "
+            "others, or both. Note the form: the positive is stated as a negation. It is not said that "
+            "good conduct helps yourself, others, and both &mdash; only that it does not hurt.",
+            "That is characteristic and worth noticing rather than reading past. The collection is "
+            "quite capable of stating positive benefits when it wants to, and here it does not. What "
+            "is being claimed for good conduct is precisely and only that it is not one of the three "
+            "kinds of damage. Whether it produces anything further is a different question, answered "
+            "elsewhere."]),
+    ],
+    terms=[
+        ("attabyābādha",
+         "&ldquo;hurting oneself&rdquo; &mdash; the first of the three, and the one the collection "
+         "puts first."),
+        ("parabyābādha",
+         "&ldquo;hurting another&rdquo; &mdash; the second."),
+        ("ubhayabyābādha",
+         "&ldquo;hurting both&rdquo; &mdash; the third, and the ordinary case that people notice."),
+        ("duccarita / sucarita",
+         "&ldquo;bad conduct&rdquo; and &ldquo;good conduct&rdquo; &mdash; by way of body, speech, "
+         "and mind, as throughout this chapter."),
+        ("byābādha",
+         "&ldquo;hurting, affliction&rdquo; &mdash; the same root as <em>sabyābajjha</em>, hurtful, "
+         "at AN 3.8."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things that lead to hurting"),
+        ("p", "&sect;1", "an3.17:1.1-1.4"),
+        ("h3", "And three that do not"),
+        ("p", "&sect;2", "an3.17:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What three kinds of hurting does bad conduct lead to?",
+         "opts": [
+             "Hurting yourself, hurting others, and hurting both",
+             "Hurting the body, speech, and mind",
+             "Hurting now, later, and always",
+             "Hurting monastics, laypeople, and gods"],
+         "correct": 0,
+         "expl": "Three separate Pāli compounds where one would have done."},
+        {"q": "Are the three degrees of the same thing?",
+         "opts": [
+             "Yes, increasing in severity",
+             "No &mdash; some conduct damages the doer and nobody else, some damages another and leaves the doer apparently untouched, and some does both",
+             "Yes, decreasing in severity",
+             "The discourse does not distinguish them"],
+         "correct": 1,
+         "expl": "The third is the ordinary case and the one people notice."},
+        {"q": "Which two familiar defenses does naming all three foreclose?",
+         "opts": [
+             "&ldquo;It only hurts me,&rdquo; answered by the first item being on a list of harms; and &ldquo;it doesn&rsquo;t hurt me,&rdquo; answered by the first item being on the list at all",
+             "&ldquo;I did not mean it&rdquo; and &ldquo;nobody saw&rdquo;",
+             "&ldquo;It was necessary&rdquo; and &ldquo;it was small&rdquo;",
+             "Neither; the discourse offers no defense"],
+         "correct": 0,
+         "expl": "Both are closed by the same item."},
+        {"q": "How does this discourse relate to AN 3.9?",
+         "opts": [
+             "It contradicts it",
+             "AN 3.9 established that the harm falls on the doer; this one establishes that it does not fall only there",
+             "It repeats it exactly",
+             "They concern different subjects"],
+         "correct": 1,
+         "expl": "The same claim, once with an image and once as a bare list."},
+        {"q": "What does the guide say the two versions are useful for?",
+         "opts": [
+             "The image is what a person remembers; the list is what they can check themselves against",
+             "The image is for monastics and the list for laypeople",
+             "Only the image is useful",
+             "Only the list is useful"],
+         "correct": 0,
+         "expl": "The Aṅguttara does this constantly."},
+        {"q": "How is the positive half stated?",
+         "opts": [
+             "As a benefit &mdash; good conduct helps yourself, others, and both",
+             "As a negation &mdash; good conduct does <em>not</em> lead to hurting yourself, others, or both",
+             "As a training instruction",
+             "As a rebirth destination"],
+         "correct": 1,
+         "expl": "Characteristic, and worth noticing rather than reading past."},
+        {"q": "What does the guide say is being claimed for good conduct here?",
+         "opts": [
+             "That it produces happiness",
+             "Precisely and only that it is not one of the three kinds of damage &mdash; whether it produces anything further is a different question, answered elsewhere",
+             "That it guarantees a good rebirth",
+             "That it ends the defilements"],
+         "correct": 1,
+         "expl": "The collection is quite capable of stating positive benefits when it wants to, and here it does not."},
+        {"q": "What is the root of <em>byābādha</em> shared with?",
+         "opts": [
+             "<em>Sabyābajjha</em>, hurtful, at AN 3.8",
+             "<em>Sāvajja</em>, blameworthy",
+             "<em>Akusala</em>, unskillful",
+             "<em>Bhaya</em>, danger"],
+         "correct": 0,
+         "expl": "Which is why AN 3.8 and AN 3.17 read as a pair."},
+        {"q": "Which of the three does the collection put first?",
+         "opts": [
+             "Hurting others",
+             "Hurting both",
+             "Hurting oneself",
+             "The order varies"],
+         "correct": 2,
+         "expl": "Consistent with AN 3.9, where the internal consequence is also stated first."},
+        {"q": "How long is this discourse?",
+         "opts": ["Four sentences", "Two pages", "Ten paragraphs", "A single word"],
+         "correct": 0,
+         "expl": "With one distinction worth keeping."},
+    ],
+    marginalia=[
+        ("Three harms", [
+            "<span class=\"pali\">atta-</span>yourself",
+            "<span class=\"pali\">para-</span>another",
+            "<span class=\"pali\">ubhaya-</span>both",
+        ]),
+        ("Two defenses closed", [
+            "&ldquo;it only hurts me&rdquo;",
+            "&ldquo;it doesn&rsquo;t hurt me&rdquo;",
+            "&mdash; by the same item",
+        ]),
+        ("The positive half", [
+            "not: good conduct helps",
+            "but: it does not hurt",
+        ]),
+        ("Cross-references", [
+            "AN 3.9 &middot; the same claim, with an image",
+            "AN 3.8 &middot; the same root",
+            "AN 3.18 &middot; next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.17/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.9.html">AN 3.9 &middot; Broken</a> &mdash; the same claim about self-harm given '
+        "as an image rather than as a list.",
+        '<a href="an-3.18.html">AN 3.18 &middot; The Realm of the Gods</a> &mdash; next in this '
+        "series.",
+    ],
+)
+
+
+page(
+    18, "Devaloka", "The Realm of the Gods",
+    vagga=VAGGA_2,
+    meta_title="AN 3.18 — The Realm of the Gods | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Devalokasutta — the "
+        "Buddha asks whether his monastics would be disgusted to be told they practice for "
+        "rebirth in heaven, and builds an argument out of their answer. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", "The Buddha and the assembled mendicants, who answer him"),
+        ("Form", "A hypothetical question put to the assembly, their answer, and an argument built "
+                 "from it"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material distinguishing the goal from heavenly rebirth "
+                              "appears in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and its argument is a "
+                       "genuine piece of reasoning rather than an assertion"),
+    ],
+    why=(
+        "The Buddha asks his monastics a hypothetical: if wanderers of another religion asked whether "
+        "you practice with me in order to be reborn among the gods, wouldn&rsquo;t you be horrified, "
+        "repelled, and disgusted? They say yes. And then he uses their answer as a premise: so you are "
+        "disgusted by heavenly lifespan, beauty, happiness, glory, and sovereignty &mdash; how much "
+        "more should you be disgusted by bad conduct of body, speech, and mind. It is a short discourse "
+        "that argues rather than asserts, and its premise is supplied by the audience."),
+    guide=[
+        ("The teaching in one sentence", [
+            "If the best thing the world can offer already disgusts you, the worst thing should "
+            "disgust you more."]),
+        ("The shape of the argument", [
+            "The reasoning is an <em>a fortiori</em> &mdash; an argument from the stronger case. If X "
+            "disgusts you, and Y is worse than X in the relevant respect, then Y should disgust you "
+            "more. The Buddha supplies X (heavenly rebirth), the monastics supply the fact that it "
+            "disgusts them, and he supplies Y (bad conduct).",
+            "What makes it work is that X is not a bad thing. Heavenly lifespan, beauty, happiness, "
+            "glory, and sovereignty are named without irony and the canon treats them as genuinely "
+            "desirable &mdash; a heavenly rebirth is what the collection repeatedly says good conduct "
+            "leads to. The argument runs from the best available outcome, not from a straw man.",
+            "That is what gives the conclusion its force. If the summit of what can be attained by "
+            "ordinary merit is already beneath contempt for someone practicing for the end of "
+            "suffering, then conduct that leads in the opposite direction is not merely inadvisable."]),
+        ("Why they would be horrified", [
+            "The reaction is stronger than disagreement: <em>aṭṭiyeyyātha harāyeyyātha jiguccheyyātha</em> "
+            "&mdash; horrified, repelled, disgusted. The same triad is used elsewhere of the reaction "
+            "to a corpse.",
+            "The reason is not that heaven is bad but that being thought to want it would misdescribe "
+            "the enterprise entirely. A person practicing for a better rebirth is doing something the "
+            "canon recognizes and does not condemn &mdash; the discourses to laypeople recommend "
+            "exactly this. But it is a different project, and to have it attributed to you by an "
+            "outsider is to have your whole undertaking misidentified.",
+            "There is a small piece of social observation embedded here too. The question comes from "
+            "<em>wanderers who follow another religion</em>, and the discourse assumes such "
+            "encounters happen and that one has to be able to answer. The Aṅguttara is full of these "
+            "conversations; this one is about how it would feel to be asked the wrong question."]),
+        ("The awkward part, stated plainly", [
+            "It should be said that this discourse sits uneasily beside a great deal of the "
+            "collection, and the tension is worth naming rather than resolving. The Aṅguttara "
+            "repeatedly commends conduct that leads to a heavenly rebirth, promises it to the "
+            "generous and the ethical, and uses <em>placed in heaven as if delivered there</em> as a "
+            "standard formula of praise. AN 3.10, eight discourses earlier, ends on exactly that.",
+            "So the collection recommends to some listeners what it expects other listeners to find "
+            "disgusting. That is not a contradiction if one notices who is being addressed: this "
+            "discourse is spoken to full-time practitioners about their own aim, and the "
+            "heavenly-rebirth material is largely addressed to householders about theirs. But the two "
+            "are in one book, and a reader who moves between them without noticing the shift will "
+            "find the collection incoherent.",
+            "The honest formulation is that the canon holds two things at once: that a good rebirth is "
+            "a real and worthy outcome of good conduct, and that it is not what the path is for. "
+            "AN 3.12 made the same point structurally, with a king&rsquo;s three places and a "
+            "mendicant&rsquo;s."]),
+    ],
+    terms=[
+        ("devaloka",
+         "&ldquo;the realm of the gods&rdquo; &mdash; a heavenly rebirth, which the canon treats as "
+         "genuinely desirable and as the standard result of good conduct."),
+        ("aṭṭiyati, harāyati, jigucchati",
+         "&ldquo;horrified, repelled, disgusted&rdquo; &mdash; a fixed triad used elsewhere of the "
+         "reaction to a corpse."),
+        ("aññatitthiyā paribbājakā",
+         "&ldquo;wanderers who follow another religion&rdquo; &mdash; the hypothetical questioners, "
+         "and a standing feature of the Aṅguttara&rsquo;s social world."),
+        ("dibbaṁ āyu, vaṇṇa, sukha, yasa, ādhipateyya",
+         "heavenly lifespan, beauty, happiness, glory, and sovereignty &mdash; the five goods named "
+         "without irony, which is what gives the argument its force."),
+        ("pageva",
+         "&ldquo;how much more&rdquo; &mdash; the particle that carries the argument from the "
+         "stronger case."),
+    ],
+    text_intro=(
+        "The discourse in full, including the mendicants&rsquo; answer. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A question, and what follows from the answer"),
+        ("p", "&sect;1", "an3.18:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What hypothetical does the Buddha put to the mendicants?",
+         "opts": [
+             "Whether they would leave if he died",
+             "Whether they would be horrified, repelled, and disgusted to be asked by wanderers of another religion if they practice in order to be reborn among the gods",
+             "Whether they can name the four truths",
+             "Whether they would accept a donation"],
+         "correct": 1,
+         "expl": "And they say yes, which becomes the premise of the argument."},
+        {"q": "What kind of argument is it?",
+         "opts": [
+             "An argument from authority",
+             "An <em>a fortiori</em> &mdash; from the stronger case: if X disgusts you and Y is worse in the relevant respect, Y should disgust you more",
+             "An argument from consequences",
+             "A simile"],
+         "correct": 1,
+         "expl": "The premise is supplied by the audience."},
+        {"q": "What makes the argument work?",
+         "opts": [
+             "That heavenly rebirth is a bad thing",
+             "That X is <em>not</em> a bad thing &mdash; heavenly lifespan, beauty, happiness, glory, and sovereignty are named without irony and the canon treats them as genuinely desirable",
+             "That the wanderers are hostile",
+             "That the monastics are senior"],
+         "correct": 1,
+         "expl": "The argument runs from the best available outcome, not from a straw man."},
+        {"q": "Why would being asked the question be horrifying?",
+         "opts": [
+             "Because heaven is bad",
+             "Because being thought to want it would misdescribe the enterprise entirely &mdash; a different project attributed to you by an outsider",
+             "Because the wanderers are enemies",
+             "Because the answer is unknown"],
+         "correct": 1,
+         "expl": "The canon recognizes and does not condemn practicing for a better rebirth; it is simply a different undertaking."},
+        {"q": "Where else is the triad &ldquo;horrified, repelled, disgusted&rdquo; used?",
+         "opts": [
+             "Of the reaction to a corpse",
+             "Of the reaction to a teaching",
+             "Of the reaction to poverty",
+             "Nowhere else"],
+         "correct": 0,
+         "expl": "The reaction is stronger than disagreement."},
+        {"q": "What tension does the guide name?",
+         "opts": [
+             "That the discourse contradicts the Vinaya",
+             "That the Aṅguttara repeatedly commends conduct leading to a heavenly rebirth and uses &ldquo;placed in heaven as if delivered there&rdquo; as praise &mdash; AN 3.10, eight discourses earlier, ends on exactly that",
+             "That the mendicants disagree with the Buddha",
+             "That the wanderers are never identified"],
+         "correct": 1,
+         "expl": "The collection recommends to some listeners what it expects others to find disgusting."},
+        {"q": "How does the guide resolve it?",
+         "opts": [
+             "By declaring one passage inauthentic",
+             "By noticing who is addressed &mdash; this discourse speaks to full-time practitioners about their aim, and the heavenly-rebirth material largely to householders about theirs",
+             "By ignoring the heavenly-rebirth material",
+             "It is not resolved at all"],
+         "correct": 1,
+         "expl": "But a reader who moves between them without noticing the shift will find the collection incoherent."},
+        {"q": "What is the honest formulation the guide offers?",
+         "opts": [
+             "That heaven does not exist",
+             "That the canon holds two things at once: a good rebirth is a real and worthy outcome of good conduct, and it is not what the path is for",
+             "That only monastics may aim higher",
+             "That the question is undecidable"],
+         "correct": 1,
+         "expl": "AN 3.12 made the same point structurally, with a king's three places and a mendicant's."},
+        {"q": "Who are the hypothetical questioners?",
+         "opts": [
+             "Wanderers who follow another religion &mdash; a standing feature of the Aṅguttara&rsquo;s social world",
+             "Kings",
+             "Householders",
+             "Other Buddhist monastics"],
+         "correct": 0,
+         "expl": "The discourse assumes such encounters happen and that one has to be able to answer."},
+        {"q": "What carries the argument from the stronger case?",
+         "opts": [
+             "The particle <em>pageva</em> &mdash; &ldquo;how much more&rdquo;",
+             "A simile",
+             "A training instruction",
+             "A list of three"],
+         "correct": 0,
+         "expl": "The hinge of the whole discourse."},
+    ],
+    marginalia=[
+        ("The argument", [
+            "if heaven disgusts you",
+            "&mdash; lifespan, beauty, happiness,",
+            "glory, sovereignty &mdash;",
+            "<span class=\"pali\">pageva</span>how much more, bad conduct",
+        ]),
+        ("The reaction", [
+            "horrified, repelled, disgusted",
+            "&mdash; the triad used of a corpse",
+        ]),
+        ("The tension", [
+            "AN 3.10 &middot; placed in heaven, as praise",
+            "AN 3.18 &middot; heaven, as disgusting",
+            "&mdash; different listeners, one book",
+        ]),
+        ("Cross-references", [
+            "AN 3.10 &middot; eight discourses earlier",
+            "AN 3.12 &middot; two lists of three places",
+            "AN 4.62 &middot; a householder&rsquo;s aim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.18/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.10.html">AN 3.10 &middot; Stains</a> &mdash; eight discourses earlier, ending '
+        "on the heavenly destination this one treats as beneath the listener&rsquo;s aim.",
+        '<a href="an-4.62.html">AN 4.62 &middot; Debtlessness</a> &mdash; the householder&rsquo;s side '
+        "of the same distinction, where worldly goods are named and ranked without apology.",
+        '<a href="an-3.12.html">AN 3.12 &middot; Commemoration</a> &mdash; the same point made '
+        "structurally, with a king&rsquo;s three places against a mendicant&rsquo;s.",
+    ],
+)
+
+
+page(
+    19, "Paṭhamapāpaṇika", "A Shopkeeper (1st)",
+    vagga=VAGGA_2,
+    meta_title="AN 3.19 — A Shopkeeper (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first "
+        "Pāpaṇikasutta — a shopkeeper who does not attend to the shop morning, midday, and "
+        "afternoon cannot grow the business, and neither can a mendicant. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A simile from trade in two directions, each applied to a mendicant"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Similes drawn from trade are common in the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a single clear simile, with one "
+                       "detail that changes how it reads"),
+    ],
+    why=(
+        "A shopkeeper who does not attend carefully to the business in the morning, at midday, and in "
+        "the afternoon cannot acquire wealth or grow what they have. So too a mendicant who does not "
+        "attend carefully to a meditation subject at those three times. It is the plainest of the "
+        "chapter&rsquo;s similes and its interest is entirely in the schedule: not more effort, not "
+        "better effort &mdash; three times a day."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A practice grows the way a business does: by being attended to three times a day."]),
+        ("The simile is about frequency, not intensity", [
+            "Nothing in the discourse says the shopkeeper is lazy, unskilled, or badly capitalized. "
+            "The failure named is entirely one of scheduling: they do not carefully focus on the work "
+            "<em>in the morning, at midday, and in the afternoon</em>. That is all.",
+            "The parallel is exact. The mendicant who fails does not lack diligence in general; they "
+            "do not carefully focus on <em>a meditation subject as a basis of immersion</em> at those "
+            "three times. And the consequence is stated in the same commercial terms: unable to "
+            "acquire more skillful qualities or to increase those already acquired.",
+            "That commercial framing is worth sitting with rather than apologizing for. Skillful "
+            "qualities are treated here as a stock that can be built up and can fail to grow, and "
+            "attention to them is treated as minding a shop. The canon is entirely comfortable with "
+            "this register &mdash; AN 7.6 lists seven treasures, AN 2.145 speaks of riches in the "
+            "teaching &mdash; and it produces a more workmanlike picture of practice than most modern "
+            "presentations offer."]),
+        ("Three times, and what they are not", [
+            "Morning, midday, afternoon. Notice that the night is absent: this discourse does not "
+            "reach for the three watches that AN 3.16 used for wakefulness. These are the three "
+            "divisions of a working day, which is what makes the shopkeeper the right figure for it.",
+            "Notice also what the instruction is not. It is not to meditate all day, and it is not to "
+            "meditate for a long time. It is to attend carefully, three times, to a specific object "
+            "&mdash; a meditation subject taken as a basis of immersion. A shopkeeper who checks the "
+            "shop three times has not spent the day in it either.",
+            "For anyone building a practice around a working life, this is the most directly usable "
+            "discourse in the chapter, and its usability comes from being unambitious. The failing it "
+            "diagnoses is not doing too little at a sitting; it is going a whole day without turning "
+            "toward the object at all."]),
+        ("The pair of shopkeeper discourses", [
+            "AN 3.19 and AN 3.20 both use a shopkeeper and they do different jobs. This one is about "
+            "regularity; the next is about three capacities &mdash; seeing clearly, being "
+            "indefatigable, and having supporters. Read together they say that a practice needs both "
+            "a schedule and a set of competences, and that neither substitutes for the other.",
+            "The Aṅguttara often runs a figure twice like this, with the number staying at three and "
+            "the content changing entirely. It is worth reading the pair in one sitting for that "
+            "reason: the second discourse is not an expansion of the first but a different question "
+            "asked of the same shop."]),
+    ],
+    terms=[
+        ("pāpaṇika",
+         "&ldquo;shopkeeper, trader&rdquo; &mdash; the figure of both this discourse and the next."),
+        ("sakkaccaṁ",
+         "&ldquo;carefully, attentively&rdquo; &mdash; the manner of the attending, and the word the "
+         "whole discourse turns on."),
+        ("samādhinimitta",
+         "&ldquo;a meditation subject as a basis of immersion&rdquo; &mdash; literally the sign or "
+         "feature of immersion; the specific object the mendicant is to attend to."),
+        ("kusalā dhammā",
+         "&ldquo;skillful qualities&rdquo; &mdash; treated here as a stock that can be acquired and "
+         "increased, in the same terms as a shopkeeper&rsquo;s wealth."),
+        ("pubbaṇhasamayaṁ, majjhanhikasamayaṁ, sāyanhasamayaṁ",
+         "morning, midday, and afternoon &mdash; the three divisions of a working day, as against the "
+         "three watches of the night used at AN 3.16."),
+    ],
+    text_intro=(
+        "The discourse in full, in two directions. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The shopkeeper who cannot grow the business"),
+        ("p", "&sect;1", "an3.19:1.1-1.4"),
+        ("p", "&sect;2", "an3.19:2.1-2.4"),
+        ("h3", "And the one who can"),
+        ("p", "&sect;3", "an3.19:3.1-3.4"),
+        ("p", "&sect;4", "an3.19:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What is the shopkeeper&rsquo;s failing?",
+         "opts": [
+             "Laziness",
+             "Lack of capital",
+             "Not carefully focusing on the work in the morning, at midday, and in the afternoon &mdash; a failure of scheduling",
+             "Poor judgment of prices"],
+         "correct": 2,
+         "expl": "Nothing in the discourse says the shopkeeper is lazy, unskilled, or badly capitalized."},
+        {"q": "What is the mendicant&rsquo;s corresponding failing?",
+         "opts": [
+             "Not carefully focusing on a meditation subject as a basis of immersion at those three times",
+             "Not keeping the precepts",
+             "Not studying the discourses",
+             "Not having good friends"],
+         "correct": 0,
+         "expl": "The parallel is exact, including the consequence stated in commercial terms."},
+        {"q": "How does the discourse describe the consequence?",
+         "opts": [
+             "As rebirth in a bad destination",
+             "As being unable to acquire more skillful qualities or increase those already acquired &mdash; the same terms as a shopkeeper&rsquo;s wealth",
+             "As criticism from the wise",
+             "As losing one&rsquo;s teacher"],
+         "correct": 1,
+         "expl": "Skillful qualities are treated as a stock that can be built up and can fail to grow."},
+        {"q": "What does the guide say about that commercial framing?",
+         "opts": [
+             "That it should be apologized for",
+             "That the canon is entirely comfortable with the register &mdash; AN 7.6 lists seven treasures, AN 2.145 speaks of riches in the teaching &mdash; and it produces a more workmanlike picture of practice than most modern presentations",
+             "That it is a later addition",
+             "That it applies only to laypeople"],
+         "correct": 1,
+         "expl": "Worth sitting with rather than apologizing for."},
+        {"q": "Which three times are named?",
+         "opts": [
+             "Morning, midday, and afternoon",
+             "The three watches of the night",
+             "Dawn, dusk, and midnight",
+             "Before, during, and after meals"],
+         "correct": 0,
+         "expl": "The three divisions of a working day, which is what makes the shopkeeper the right figure."},
+        {"q": "What is notably absent from those three times?",
+         "opts": [
+             "The night &mdash; this discourse does not reach for the three watches AN 3.16 used for wakefulness",
+             "The morning",
+             "Mealtimes",
+             "Nothing is absent"],
+         "correct": 0,
+         "expl": "A working day, not a monastic night."},
+        {"q": "What is the instruction <em>not</em>?",
+         "opts": [
+             "It is not to meditate all day, and not to meditate for a long time &mdash; it is to attend carefully, three times, to a specific object",
+             "It is not for monastics",
+             "It is not about attention",
+             "It is not about frequency"],
+         "correct": 0,
+         "expl": "A shopkeeper who checks the shop three times has not spent the day in it either."},
+        {"q": "What failing does the discourse actually diagnose?",
+         "opts": [
+             "Doing too little at a sitting",
+             "Going a whole day without turning toward the object at all",
+             "Meditating on the wrong object",
+             "Meditating in the wrong posture"],
+         "correct": 1,
+         "expl": "Which is why the guide calls it the most usable discourse in the chapter for a working life."},
+        {"q": "How do AN 3.19 and AN 3.20 differ?",
+         "opts": [
+             "They are identical",
+             "This one is about regularity; the next is about three capacities &mdash; seeing clearly, being indefatigable, and having supporters",
+             "The second corrects the first",
+             "The second concerns laypeople"],
+         "correct": 1,
+         "expl": "A practice needs both a schedule and a set of competences, and neither substitutes for the other."},
+        {"q": "What does the guide say about the Aṅguttara running a figure twice?",
+         "opts": [
+             "That it indicates a compilation error",
+             "That the number stays at three and the content changes entirely &mdash; the second discourse is not an expansion of the first but a different question asked of the same shop",
+             "That the second is always longer",
+             "That only the first is authentic"],
+         "correct": 1,
+         "expl": "Worth reading the pair in one sitting for that reason."},
+    ],
+    marginalia=[
+        ("Three times", [
+            "morning",
+            "midday",
+            "afternoon",
+            "&mdash; a working day, not a night",
+        ]),
+        ("The failing", [
+            "not: too little at a sitting",
+            "but: a whole day without turning",
+        ]),
+        ("The register", [
+            "<span class=\"pali\">kusalā dhammā</span>a stock",
+            "acquired &middot; increased",
+            "&mdash; the canon is at ease with this",
+        ]),
+        ("Cross-references", [
+            "AN 3.20 &middot; the same shop, another question",
+            "AN 7.6 &middot; seven treasures",
+            "AN 3.16 &middot; the three watches instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.19/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.20.html">AN 3.20 &middot; A Shopkeeper (2nd)</a> &mdash; next in this series, '
+        "and the other question asked of the same shop.",
+        '<a href="an-7.6.html">AN 7.6 &middot; Wealth in Detail</a> &mdash; the seven treasures, '
+        "and the clearest case of the canon using a commercial vocabulary without embarrassment.",
+    ],
+)
+
+
+page(
+    20, "Dutiyapāpaṇika", "A Shopkeeper (2nd)",
+    vagga=VAGGA_2,
+    meta_title="AN 3.20 — A Shopkeeper (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Pāpaṇikasutta, which closes the Rathakāravagga — seeing clearly, being "
+        "indefatigable, and having supporters, with the third defined as asking senior "
+        "monastics what a passage means. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three qualities defined for a shopkeeper, then the same three for a mendicant"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Similes drawn from trade are common in the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; clear throughout, and the third "
+                       "quality is the reason to read it"),
+    ],
+    why=(
+        "Three qualities let a shopkeeper acquire great wealth quickly: seeing clearly, being "
+        "indefatigable, and having supporters. The same three, redefined, do the same for a mendicant. "
+        "The third is the one worth the page. A mendicant &ldquo;has supporters&rdquo; when they go "
+        "from time to time to the very learned and ask them <em>why does it say this? what does that "
+        "mean?</em> &mdash; the same two questions AN 2.47 made the mark of a good assembly. Support, "
+        "for a practitioner, turns out to mean people you can ask."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A practice grows fast when a person sees the situation clearly, keeps working, and has "
+            "somebody to ask."]),
+        ("The shopkeeper&rsquo;s three", [
+            "Seeing clearly is knowing the numbers: this product is bought at this price and sells at "
+            "this; with this much investment it will bring this much profit. Being indefatigable is "
+            "skill in buying and selling. Having supporters is credit &mdash; wealthy householders who "
+            "know the shopkeeper is capable and deposit money with him to trade on.",
+            "The third is the most concrete and the most social. The reason given for the deposit is "
+            "specific: <em>they are capable of providing for their wives and children, and paying us "
+            "back from time to time</em>. Support is extended on the basis of demonstrated competence "
+            "and demonstrated reliability, not goodwill. That detail matters when the simile turns."]),
+        ("The mendicant&rsquo;s three", [
+            "Seeing clearly is understanding the four truths. Being indefatigable is living with "
+            "energy roused for giving up the unskillful and embracing the skillful &mdash; strong, "
+            "staunchly vigorous, not slacking off.",
+            "And having supporters is this: from time to time going up to those mendicants who are "
+            "very learned &mdash; <em>inheritors of the heritage, who have memorized the teachings, "
+            "the monastic law, and the outlines</em> &mdash; and asking them questions. <em>Why, sir, "
+            "does it say this? What does that mean?</em> And those venerables reveal what is hidden, "
+            "clarify what is unclear, and dispel doubt regarding the many doubtful matters."]),
+        ("The two questions again", [
+            "Those are the same two questions, in the same words, that AN 2.47 in the Twos made the "
+            "mark of an assembly educated in questioning rather than in fancy talk. There the test was "
+            "whether the members of a community interrogate each other after hearing a teaching. Here "
+            "it is an individual competence, and it is named as one of three things that make a "
+            "practice grow quickly.",
+            "The correspondence is exact enough to be worth teaching as a pair. A community that asks "
+            "is AN 2.47; a person who asks is AN 3.20; and the questions are the same two. For a "
+            "teacher, that is a usable standard on both scales, and it has the advantage of being "
+            "observable &mdash; you can hear whether anyone in a room is asking what a passage means.",
+            "It is also worth noticing what the definition rules out. Having supporters is not "
+            "described as being encouraged, funded, admired, or looked after. It is described as "
+            "having access to people who know more and going to them with a specific kind of "
+            "question. That is a narrow and rather demanding account of what support consists of."]),
+        ("Who the supporters are", [
+            "The description of the senior monastics is worth reading closely: very learned, "
+            "<em>inheritors of the heritage</em>, who have memorized the teachings, the monastic law, "
+            "and the outlines. Three bodies of material &mdash; discourse, discipline, and summaries "
+            "&mdash; and the emphasis is on retention rather than on attainment.",
+            "That is characteristic of an oral tradition and it names a specific role: the person "
+            "worth asking is the one who has the material. Nothing here says they must be awakened, "
+            "senior in years, or personally impressive. What they have is what has been handed down, "
+            "and what they do with it is <em>reveal what is hidden, clarify what is unclear, and "
+            "dispel doubt</em> &mdash; three verbs, and none of them is <em>teach</em>.",
+            "The whole exchange, on both sides, is transactional in the way the shopkeeper simile "
+            "prepared for. The learner brings a question; the learned bring the material; the doubt is "
+            "dispelled. Nobody is being inspired."]),
+        ("Closing the chapter", [
+            "AN 3.20 ends the Rathakāravagga, and the chapter it closes is unusually varied: a "
+            "well-known monastic&rsquo;s influence, three places to commemorate, three kinds of hope, "
+            "the king who has a king, a chariot-maker&rsquo;s two wheels, three preliminaries, three "
+            "kinds of harm, a question about heaven, and two shopkeepers.",
+            "What holds it together, if anything does, is that almost every discourse in it is about "
+            "how something is <em>built</em> &mdash; a reputation, a life measured in three places, a "
+            "wheel, a body of skillful qualities, a business. The first chapter of the Threes was "
+            "about recognizing what a person is. The second is about what a person accumulates, and "
+            "how fast, and whether it will stand when the initial push runs out."]),
+    ],
+    terms=[
+        ("cakkhumā",
+         "&ldquo;seeing clearly&rdquo; &mdash; literally possessed of eyes. For a shopkeeper, knowing "
+         "the numbers; for a mendicant, understanding the four truths."),
+        ("vidhuro",
+         "&ldquo;indefatigable, capable&rdquo; &mdash; skill in buying and selling for one, roused "
+         "energy for the other."),
+        ("nissayasampanno",
+         "&ldquo;having supporters&rdquo; &mdash; literally furnished with a support or basis. Defined "
+         "for a mendicant as having people to ask."),
+        ("bahussutā āgatāgamā",
+         "&ldquo;very learned, inheritors of the heritage&rdquo; &mdash; those who have memorized the "
+         "teachings, the monastic law, and the outlines. The emphasis is on retention, not attainment."),
+        ("kathaṁ imassa bhāsitassa attho",
+         "&ldquo;what does that mean?&rdquo; &mdash; with &ldquo;why does it say this?&rdquo;, the two "
+         "questions AN 2.47 makes the mark of a good assembly and this discourse makes an individual "
+         "competence."),
+    ],
+    text_intro=(
+        "The discourse in full: three qualities for a shopkeeper, then the same three for a mendicant. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A shopkeeper who acquires great wealth"),
+        ("p", "&sect;1", "an3.20:1.1-1.7"),
+        ("p", "&sect;2", "an3.20:2.1-2.3"),
+        ("p", "&sect;3", "an3.20:3.1-3.7"),
+        ("h3", "And a mendicant"),
+        ("p", "&sect;4", "an3.20:4.1-4.6"),
+        ("p", "&sect;5", "an3.20:5.1-5.3"),
+        ("p", "&sect;6", "an3.20:6.1-6.6"),
+    ],
+    quiz=[
+        {"q": "What three qualities let a shopkeeper acquire great wealth quickly?",
+         "opts": [
+             "Seeing clearly, being indefatigable, and having supporters",
+             "Capital, location, and luck",
+             "Honesty, thrift, and industry",
+             "Buying low, selling high, and saving"],
+         "correct": 0,
+         "expl": "The same three, redefined, do the same for a mendicant."},
+        {"q": "What does &ldquo;having supporters&rdquo; mean for the shopkeeper?",
+         "opts": [
+             "Loyal customers",
+             "Credit &mdash; wealthy householders who know he is capable and deposit money with him to trade on",
+             "A large family",
+             "Political protection"],
+         "correct": 1,
+         "expl": "Extended on the basis of demonstrated competence and reliability, not goodwill."},
+        {"q": "What does &ldquo;having supporters&rdquo; mean for the mendicant?",
+         "opts": [
+             "Lay donors who provide requisites",
+             "Going from time to time to the very learned and asking them questions",
+             "A large following",
+             "A monastery to live in"],
+         "correct": 1,
+         "expl": "Support turns out to mean people you can ask."},
+        {"q": "Which two questions does the mendicant ask?",
+         "opts": [
+             "&ldquo;Why, sir, does it say this? What does that mean?&rdquo;",
+             "&ldquo;Is this permitted? Is this forbidden?&rdquo;",
+             "&ldquo;Who said this? When?&rdquo;",
+             "&ldquo;What should I do? When should I do it?&rdquo;"],
+         "correct": 0,
+         "expl": "The same two words for word as AN 2.47 in the Twos."},
+        {"q": "How does AN 2.47 use those same questions?",
+         "opts": [
+             "As a mark of an assembly educated in questioning rather than in fancy talk &mdash; whether members interrogate each other after hearing a teaching",
+             "As a monastic offense",
+             "As a form of doubt",
+             "It does not use them"],
+         "correct": 0,
+         "expl": "A community that asks is AN 2.47; a person who asks is AN 3.20."},
+        {"q": "What does the definition of having supporters rule out?",
+         "opts": [
+             "Being encouraged, funded, admired, or looked after &mdash; it is access to people who know more, and going to them with a specific kind of question",
+             "Having any support at all",
+             "Asking questions",
+             "Living in community"],
+         "correct": 0,
+         "expl": "A narrow and rather demanding account of what support consists of."},
+        {"q": "How are the senior monastics described?",
+         "opts": [
+             "As awakened and senior in years",
+             "As very learned, inheritors of the heritage, who have memorized the teachings, the monastic law, and the outlines &mdash; the emphasis on retention rather than attainment",
+             "As personally impressive",
+             "As appointed by the Saṅgha"],
+         "correct": 1,
+         "expl": "The person worth asking is the one who has the material."},
+        {"q": "What three things do those venerables do?",
+         "opts": [
+             "Reveal what is hidden, clarify what is unclear, and dispel doubt &mdash; and none of the three verbs is <em>teach</em>",
+             "Preach, exhort, and inspire",
+             "Ordain, admonish, and expel",
+             "Recite, memorize, and transmit"],
+         "correct": 0,
+         "expl": "The whole exchange is transactional in the way the shopkeeper simile prepared for."},
+        {"q": "What holds the Rathakāravagga together, according to the guide?",
+         "opts": [
+             "Nothing; it is a random assortment",
+             "Almost every discourse in it is about how something is <em>built</em> &mdash; a reputation, a life, a wheel, a body of skillful qualities, a business",
+             "All its discourses concern kings",
+             "All its discourses use similes"],
+         "correct": 1,
+         "expl": "The first chapter was about recognizing what a person is; the second about what a person accumulates."},
+        {"q": "What question does the chapter&rsquo;s central story leave hanging over it?",
+         "opts": [
+             "Whether the shopkeeper is honest",
+             "Whether what is built will stand when the initial push runs out &mdash; the chariot-maker&rsquo;s two wheels",
+             "Whether kings can be trusted",
+             "Whether heaven exists"],
+         "correct": 1,
+         "expl": "Which is why AN 3.15 gives the chapter its name."},
+    ],
+    marginalia=[
+        ("Three qualities", [
+            "<span class=\"pali\">cakkhumā</span>sees clearly",
+            "<span class=\"pali\">vidhuro</span>indefatigable",
+            "<span class=\"pali\">nissayasampanno</span>has supporters",
+        ]),
+        ("What support means", [
+            "not funding",
+            "not encouragement",
+            "&mdash; people you can ask",
+        ]),
+        ("The two questions", [
+            "&ldquo;Why does it say this?&rdquo;",
+            "&ldquo;What does that mean?&rdquo;",
+            "&mdash; AN 2.47, for a room",
+        ]),
+        ("The chapter", [
+            "a reputation &middot; a life",
+            "a wheel &middot; a business",
+            "&mdash; all of them, built",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.20/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-2.42-51.html">AN 2.42&ndash;51 &middot; Assemblies</a> &mdash; AN 2.47, where the '
+        "same two questions are the mark of a whole community rather than of one practitioner.",
+        '<a href="an-3.19.html">AN 3.19 &middot; A Shopkeeper (1st)</a> &mdash; the other question '
+        "asked of the same shop: not what capacities a practice needs, but how often it is attended to.",
+        '<a href="an-3.15.html">AN 3.15 &middot; About Pacetana</a> &mdash; the chariot-maker '
+        "whose two wheels give this chapter its name and its standing question.",
+    ],
+)
