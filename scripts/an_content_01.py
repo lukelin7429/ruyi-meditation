@@ -5245,3 +5245,2856 @@ PAGES.append({
         "chapter of women on the foremost list, and the one to read beside this.",
     ],
 })
+
+
+# --------------------------------------------------------------------------- #
+# The Aṭṭhāna chapters — AN 1.268–295
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.268-277",
+    "index_pali": "Aṭṭhāna I",
+    "nav_title": "What Cannot Happen (I)",
+    "source": "an1/an1.268-277",
+    "crumb": "AN 1.268&ndash;277",
+    "meta_title": "AN 1.268–277 — What Cannot Happen (I) | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the first of the "
+        "Aṅguttara Nikāya's chapters of impossibilities — what a person accomplished in view "
+        "structurally cannot do, from taking a condition as permanent to causing a schism, "
+        "and why the list is a description rather than a rule. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.268&ndash;277",
+    "title": "What Cannot Happen (I)",
+    "subtitle": "<em>Aṭṭhānapāḷi</em> &mdash; the twenty-first chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten discourses on one template &mdash; <em>it is impossible&hellip; but it is "
+                 "possible</em> &mdash; each contrasting a person accomplished in view with an "
+                 "ordinary person"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The same list of impossibilities appears in the Madhyama-āgama (T26) "
+                              "as part of a longer discourse; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the sentences are plain, but the "
+                       "kind of impossibility being claimed takes some care to state correctly"),
+    ],
+    "why": (
+        "The Ones now change instrument. For nearly three hundred entries the collection has said what "
+        "one thing does the most of something. Here it starts saying what simply cannot occur. The "
+        "subject of the whole chapter is a person <em>accomplished in view</em> &mdash; in the "
+        "commentarial reading, someone who has reached the first stage of awakening &mdash; and the "
+        "claim is that certain things are now structurally out of reach for them. Not forbidden. Not "
+        "unlikely. Impossible. That is an unusual sort of claim to make about a human being, and "
+        "getting clear about what kind of impossibility is meant is most of the work of the chapter."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Once a person has actually seen how things are, a specific list of acts and errors becomes "
+            "not merely unlikely for them but impossible."]),
+        ("What kind of impossibility", [
+            "The Pāli formula is <em>aṭṭhānaṁ anavakāso</em> &mdash; there is no basis, no opportunity "
+            "&mdash; and it is the same phrase used at AN 1.41 about a rice spike pointing the wrong "
+            "way. It is not a prohibition. Nobody is being told not to do these things; they are being "
+            "described as unavailable.",
+            "The distinction matters practically. A rule can be broken. What this chapter describes is "
+            "closer to the way a person who genuinely understands that a wall is solid cannot walk "
+            "through it by deciding to. The accomplishment in view is not a resolution that could be "
+            "abandoned under pressure; it is a change in what the person is able to take seriously. "
+            "Read that way the list is not a set of expectations imposed on stream-enterers. It is a "
+            "description offered as a diagnostic: this is what having seen it actually rules out."]),
+        ("The first three, and the last seven", [
+            "The chapter divides. AN 1.268&ndash;270 concern perception: someone accomplished in view "
+            "cannot take any conditioned thing as permanent, or as pleasant, or take anything at all "
+            "as self. These are the three characteristics, stated as incapacities. The claim is not "
+            "that such a person never feels pleasure or never speaks of themselves, but that they "
+            "cannot any longer <em>take</em> what is conditioned in those ways &mdash; the mistake has "
+            "been closed off at its root.",
+            "AN 1.271&ndash;275 then list five acts: murdering one&rsquo;s mother, murdering one&rsquo;s "
+            "father, murdering a perfected one, injuring a Realized One with malicious intent, and "
+            "causing a schism in the Saṅgha. These are the five acts the tradition treats as "
+            "immediately catastrophic in their consequences, and they appear here as things a person "
+            "accomplished in view cannot perform.",
+            "AN 1.276 adds a sixth incapacity that belongs with them: dedicating oneself to another "
+            "teacher. That is not sectarian possessiveness. Somebody who has verified something for "
+            "themselves has no remaining reason to transfer their trust elsewhere, which is the same "
+            "logic AN 3.65 applies from the other end."]),
+        ("One Buddha at a time (AN 1.277)", [
+            "The last entry changes register entirely: two fully awakened Buddhas cannot arise in the "
+            "same solar system at the same time. This is cosmology rather than psychology, and it "
+            "belongs to a family of statements about how many of certain unique offices the world can "
+            "hold at once. The next chapter continues in the same vein.",
+            "It is worth noticing what work the claim does and does not do. It says nothing about the "
+            "number of Buddhas across time &mdash; the canon is comfortable with previous Buddhas and "
+            "with a future one. What it asserts is simultaneity. Later Mahāyāna cosmology, with its "
+            "innumerable contemporaneous Buddhas in innumerable world-systems, does not so much "
+            "contradict this as expand the frame in which it is stated: one to a system, but very many "
+            "systems.",
+            "For a reader who finds the cosmological material hard going, the honest thing is to say "
+            "that it is genuinely a different kind of statement from the nine before it, and that "
+            "nothing in the practical teaching depends on it."]),
+        ("Reading it as a description, not a standard", [
+            "There is a predictable way for this chapter to go wrong in a classroom, which is for it to "
+            "become a checklist by which people measure themselves or, worse, each other. The list is "
+            "poorly suited to that. It rules out matricide and schism &mdash; acts most people were "
+            "never going to commit anyway &mdash; and one perceptual error that nobody can observe in "
+            "themselves directly.",
+            "What it is genuinely useful for is the opposite move: as a description of what awakening "
+            "is claimed to be. On this account, the first stage of awakening is not an experience, a "
+            "feeling, or a level of calm. It is a permanent change in what a person is capable of. Any "
+            "presentation of stream-entry that leaves the person able to do everything they could "
+            "before, only more peacefully, is not describing what this chapter describes."]),
+    ],
+    "terms": [
+        ("aṭṭhānaṁ anavakāso",
+         "&ldquo;there is no basis, no opportunity&rdquo; &mdash; the formula rendered &ldquo;it is "
+         "impossible, it cannot happen.&rdquo; The same phrase used of the rice spike at AN 1.41."),
+        ("diṭṭhisampanna",
+         "&ldquo;accomplished in view&rdquo; &mdash; the subject of every entry. Read by the "
+         "commentaries as one who has attained the first stage of awakening, stream-entry."),
+        ("puthujjana",
+         "&ldquo;ordinary person&rdquo; &mdash; literally one of the many folk. The contrast term in "
+         "every entry: what is impossible for the first is possible for the second."),
+        ("ānantariya kamma",
+         "the five acts of immediate consequence &mdash; matricide, patricide, killing a perfected "
+         "one, wounding a Buddha, and schism &mdash; which AN 1.271&ndash;275 lists as incapacities."),
+        ("saṅghabheda",
+         "&ldquo;schism in the Saṅgha&rdquo; &mdash; the fifth of those acts, and the only one on the "
+         "list that is institutional rather than personal."),
+    ],
+    "text_intro": (
+        "All ten discourses of the chapter, in order. Each &sect;N below is one complete discourse "
+        "&mdash; &sect;268 is AN 1.268, &sect;277 is AN 1.277. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Three impossible perceptions (AN 1.268&ndash;270)"),
+        ("p", "&sect;268", "an1.268"),
+        ("p", "&sect;269", "an1.269"),
+        ("p", "&sect;270", "an1.270"),
+        ("h3", "Five impossible acts, and a sixth (AN 1.271&ndash;276)"),
+        ("p", "&sect;271", "an1.271"),
+        ("p", "&sect;272", "an1.272"),
+        ("p", "&sect;273", "an1.273"),
+        ("p", "&sect;274", "an1.274"),
+        ("p", "&sect;275", "an1.275"),
+        ("p", "&sect;276", "an1.276"),
+        ("h3", "One at a time (AN 1.277)"),
+        ("p", "&sect;277", "an1.277"),
+    ],
+    "quiz": [
+        {"q": "Who is the subject of every entry in this chapter?",
+         "opts": [
+             "A fully awakened Buddha",
+             "An individual accomplished in view &mdash; read by the commentaries as one who has attained stream-entry",
+             "A senior monastic",
+             "A generous layperson"],
+         "correct": 1,
+         "expl": "Contrasted in every entry with a <em>puthujjana</em>, an ordinary person."},
+        {"q": "What kind of claim is <em>aṭṭhānaṁ anavakāso</em>?",
+         "opts": [
+             "A prohibition &mdash; these things are forbidden",
+             "A prediction that these things are unlikely",
+             "A statement that there is no basis, no opportunity &mdash; the acts are described as unavailable rather than banned",
+             "A vow taken at ordination"],
+         "correct": 2,
+         "expl": "The same phrase used of the rice spike at AN 1.41."},
+        {"q": "What analogy does the guide use for that kind of impossibility?",
+         "opts": [
+             "A rule that can be broken under pressure",
+             "A person who genuinely understands that a wall is solid cannot walk through it by deciding to",
+             "A promise made to a teacher",
+             "A legal contract"],
+         "correct": 1,
+         "expl": "It is a change in what the person is able to take seriously, not a resolution."},
+        {"q": "What do the first three entries concern?",
+         "opts": [
+             "Monastic offenses",
+             "The three characteristics stated as incapacities &mdash; such a person cannot take a conditioned thing as permanent, as pleasant, or take anything as self",
+             "The five hindrances",
+             "Rebirth destinations"],
+         "correct": 1,
+         "expl": "The mistake has been closed off at its root, not merely resisted."},
+        {"q": "Does AN 1.269 claim that such a person never feels pleasure?",
+         "opts": [
+             "Yes, pleasure is entirely absent",
+             "No &mdash; the claim is that they cannot any longer <em>take</em> what is conditioned as pleasant",
+             "The text does not say",
+             "Yes, but only for monastics"],
+         "correct": 1,
+         "expl": "The incapacity is in the taking, not in the feeling."},
+        {"q": "Which five acts does AN 1.271&ndash;275 list?",
+         "opts": [
+             "Killing, stealing, sexual misconduct, lying, and intoxication",
+             "Matricide, patricide, murdering a perfected one, injuring a Realized One with malicious intent, and causing a schism in the Saṅgha",
+             "Theft from the Saṅgha, false claims, disrobing, slander, and desertion",
+             "Neglect, laziness, greed, hatred, and delusion"],
+         "correct": 1,
+         "expl": "The acts the tradition treats as immediately catastrophic in their consequences."},
+        {"q": "Why can such a person not dedicate themselves to another teacher?",
+         "opts": [
+             "Because a vow forbids it",
+             "Because they would be expelled",
+             "Because someone who has verified something for themselves has no remaining reason to transfer their trust elsewhere",
+             "Because other teachers refuse them"],
+         "correct": 2,
+         "expl": "The same logic AN 3.65 applies from the other end."},
+        {"q": "What does AN 1.277 assert, and what does it not assert?",
+         "opts": [
+             "It asserts simultaneity &mdash; one Buddha per solar system at a time &mdash; and says nothing about the number of Buddhas across time",
+             "That there has only ever been one Buddha",
+             "That there will never be another Buddha",
+             "That Buddhas arise only in this world"],
+         "correct": 0,
+         "expl": "The canon is comfortable with previous Buddhas and a future one."},
+        {"q": "How does the guide relate this to later Mahāyāna cosmology?",
+         "opts": [
+             "As a flat contradiction",
+             "As expanding the frame rather than contradicting it &mdash; one to a system, but very many systems",
+             "As identical in every respect",
+             "As unrelated"],
+         "correct": 1,
+         "expl": "And nothing in the practical teaching depends on the cosmological entry either way."},
+        {"q": "What does the guide say this chapter is genuinely useful for?",
+         "opts": [
+             "As a checklist for measuring oneself or others",
+             "As a description of what awakening is claimed to be &mdash; not an experience or a level of calm, but a permanent change in what a person is capable of",
+             "As a list of monastic penalties",
+             "As a guide to cosmology"],
+         "correct": 1,
+         "expl": "Any account of stream-entry that leaves a person able to do everything they could before, only more peacefully, is not describing this."},
+    ],
+    "marginalia": [
+        ("Three perceptions", [
+            "nothing conditioned as permanent",
+            "nothing conditioned as pleasant",
+            "nothing at all as self",
+        ]),
+        ("Five acts", [
+            "matricide, patricide",
+            "murdering a perfected one",
+            "wounding a Realized One",
+            "schism in the Saṅgha",
+        ]),
+        ("The formula", [
+            "<span class=\"pali\">aṭṭhānaṁ anavakāso</span>no basis, no opportunity",
+            "not forbidden &mdash; unavailable",
+            "<span class=\"pali\">diṭṭhisampanna</span>accomplished in view",
+        ]),
+        ("Cross-references", [
+            "AN 1.41 &middot; the same formula",
+            "AN 3.65 &middot; verifying for oneself",
+            "AN 1.278&ndash;286 &middot; next",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.268-277/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-115.html">MN 115 &middot; Many Kinds of Elements</a> &mdash; the same '
+        "list of impossibilities inside a longer discourse, and the version most often cited in "
+        "discussion of it.",
+        '<a href="an-1.41-50.html">AN 1.41&ndash;50 &middot; A Spike</a> &mdash; where the same '
+        "&ldquo;this is quite impossible&rdquo; formula is used of a mind pointing the wrong way.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; why someone '
+        "who has verified something has no remaining reason to transfer their trust.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.278-286",
+    "index_pali": "Aṭṭhāna II",
+    "nav_title": "What Cannot Happen (II)",
+    "source": "an1/an1.278-286",
+    "crumb": "AN 1.278&ndash;286",
+    "meta_title": "AN 1.278–286 — What Cannot Happen (II) | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the second of the "
+        "Aṅguttara Nikāya's chapters of impossibilities — including AN 1.279–283, the passage "
+        "denying five cosmological offices to women, read here in full, in its textual "
+        "context, and against the Mahāyāna responses to it. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.278&ndash;286",
+    "title": "What Cannot Happen (II)",
+    "subtitle": "<em>Aṭṭhānapāḷi</em> &mdash; the twenty-second chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Nine discourses on the impossible-and-possible template, abbreviated in places; "
+                 "cosmological offices first, then the results of bad conduct"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The same list appears in the Madhyama-āgama (T26) as part of a longer "
+                              "discourse corresponding to MN 115; comparative study of those versions "
+                              "is directly relevant to this chapter and is discussed in the guide"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the Pāli is simple; the chapter "
+                       "contains the single hardest passage in the Ones to teach responsibly"),
+    ],
+    "why": (
+        "This chapter contains AN 1.279&ndash;283, which states that it is impossible for a woman to "
+        "be a fully awakened Buddha, a wheel-turning monarch, or to occupy the roles of Sakka, Māra, or "
+        "the Divinity. It is the passage most likely to end a Western reader&rsquo;s interest in the "
+        "Aṅguttara Nikāya, and the one most often quietly omitted from selections. This series prints "
+        "it in full, because a reader who meets it later, elsewhere, having been given a curated canon "
+        "that left it out, has been badly served. What follows is an attempt to say exactly what it "
+        "does and does not claim, what the textual evidence about it actually is, and what the later "
+        "tradition did with it."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Certain offices in the world&rsquo;s order can only be held by one being at a time and, "
+            "the chapter says, only by a man &mdash; and bad conduct cannot produce an agreeable "
+            "result."]),
+        ("The five offices", [
+            "Begin with what the passage actually lists, because it is narrower than it is usually "
+            "reported to be. Five roles: a fully awakened Buddha; a wheel-turning monarch, the "
+            "universal righteous king of Indian political myth; Sakka, ruler of one heaven; Māra, the "
+            "adversary; and Brahmā, the Divinity. Every one of these is a unique cosmological office "
+            "&mdash; a position in the structure of the world, held by one being at a time. The entry "
+            "immediately before them, AN 1.278, makes the same one-at-a-time claim about wheel-turning "
+            "monarchs without reference to gender at all, and AN 1.277 did the same for Buddhas.",
+            "What is not on the list is the part that matters most. Nothing here says a woman cannot "
+            "awaken. Nothing says a woman cannot become an arahant, cannot reach any stage of the path, "
+            "cannot teach, cannot be foremost in wisdom or insight or mastery of the monastic law. The "
+            "collection has, forty entries earlier, named thirteen women as unsurpassed in precisely "
+            "those things, using precisely the terms it uses for the monks. The Therīgāthā preserves "
+            "the awakening verses of the first generation of Buddhist women. Whatever this passage is "
+            "doing, it is not denying women the goal, and any presentation of it that implies otherwise "
+            "misreports it."]),
+        ("What the textual evidence looks like", [
+            "The same list appears in MN 115, the discourse on many kinds of elements, and MN 115 has "
+            "parallels preserved in Chinese and in Tibetan. Comparative study of those versions has "
+            "found that the items about women are not present in all of them, and several scholars "
+            "have argued on that basis that this material is a later addition to an originally "
+            "gender-neutral list of impossibilities.",
+            "That argument should be reported accurately and not oversold. It is a scholarly position "
+            "resting on the distribution of the material across versions, not a settled fact, and "
+            "readers should be told it is contested. But it is a serious position held on textual "
+            "grounds by people who work with these parallels professionally, and a teacher who presents "
+            "the passage as uncontested tradition is leaving out something the room deserves to know.",
+            "There is also an internal argument available, which does not depend on any of that. This "
+            "chapter sits inside a collection that names women foremost in wisdom, records women "
+            "teaching doctrine so well that the Buddha ratifies every word, and closes its foremost "
+            "list with an enslaved woman named foremost in learning. A canon is not a single voice. "
+            "This one contains passages that pull hard in different directions, and the honest thing to "
+            "do with that is to say so rather than to harmonize it."]),
+        ("What the later tradition did", [
+            "Mahāyāna literature engaged this claim directly, and two of its responses are among the "
+            "most famous scenes in Buddhist writing. In the Lotus Sūtra, the eight-year-old daughter of "
+            "the nāga king awakens instantaneously in front of a skeptical Śāriputra, who has just "
+            "objected that a woman&rsquo;s body is defiled and cannot be a vessel for the Dharma; she "
+            "presents a jewel to the Buddha, and the assembly sees her attain buddhahood. The scene is "
+            "explicitly staged as a refutation of an objection of exactly this shape.",
+            "Honesty requires adding that in the received text she transforms into a male body in the "
+            "course of doing so, and that this detail has been argued about ever since &mdash; read by "
+            "some as a concession to the very view the scene is refuting, by others as a deliberate "
+            "demonstration that the form is trivially changeable and therefore not the obstacle it was "
+            "claimed to be.",
+            "The Vimalakīrti Sūtra takes the second line without ambiguity. A goddess in "
+            "Vimalakīrti&rsquo;s house, challenged by Śāriputra to change out of her female form, "
+            "swaps bodies with him &mdash; leaving him in hers and asking him to change out of it "
+            "&mdash; and then swaps back, having made the point that neither form was ever fixed or "
+            "essential. That chapter is on this site, and reading it beside AN 1.279 is one of the "
+            "clearest demonstrations available of the Mahāyāna arguing with the earlier literature "
+            "rather than merely succeeding it."]),
+        ("How to teach it", [
+            "Read it. Do not skip it, do not paraphrase it, and do not read it and hurry on. Then say, "
+            "in this order: what it lists; what it does not list; that the canon contains the "
+            "foremost-nuns chapter and the Therīgāthā; that the textual status of the passage is "
+            "contested on comparative grounds; and that the later tradition argued with it in writing. "
+            "That is five sentences and it is a complete and honest account.",
+            "What not to do is defend it, or apologize for the tradition on its behalf, or pretend the "
+            "matter is settled either way. Students, particularly the women in the room, are generally "
+            "better served by a teacher who can say plainly that a tradition they are being introduced "
+            "to contains something they may well reject, and that the tradition itself contains the "
+            "materials for the argument."]),
+        ("The rest of the chapter (AN 1.284&ndash;286)", [
+            "The last three entries return to firmer ground: an agreeable result cannot come from bad "
+            "bodily, verbal, or mental conduct. This is the impossibility formula applied to kamma, and "
+            "it is the counterpart of the entries in the next chapter, which say the same in the "
+            "positive direction. The structural claim is that the relation between conduct and its "
+            "result is not arbitrary &mdash; not that it is mechanical or immediate, which AN 3.100 "
+            "spends a whole discourse complicating, but that its direction cannot be reversed."]),
+    ],
+    "terms": [
+        ("aṭṭhānaṁ anavakāso",
+         "&ldquo;there is no basis, no opportunity&rdquo; &mdash; the impossibility formula carried "
+         "over from the previous chapter."),
+        ("cakkavattī",
+         "&ldquo;wheel-turning monarch&rdquo; &mdash; the universal righteous king of Indian political "
+         "myth, and a unique cosmological office like the others in this list."),
+        ("Sakka, Māra, Brahmā",
+         "three further unique offices &mdash; the ruler of one heaven, the adversary, and the "
+         "Divinity. AN 1.281&ndash;283 groups them together in a single abbreviated entry."),
+        ("arahant",
+         "a perfected one &mdash; the attainment this passage conspicuously does <em>not</em> restrict, "
+         "and which the canon attributes to women repeatedly, including in the Therīgāthā."),
+        ("Therīgāthā",
+         "&ldquo;Verses of the Senior Nuns&rdquo; &mdash; canonical poetry recording the awakening of "
+         "the first generation of Buddhist women, and part of the internal evidence this chapter has "
+         "to be read against."),
+    ],
+    "text_intro": (
+        "All nine discourses of the chapter. Two paragraphs carry ranges rather than single numbers "
+        "because the canon abbreviates repeated discourses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "One at a time (AN 1.278)"),
+        ("p", "&sect;278", "an1.278"),
+        ("h3", "The five offices (AN 1.279&ndash;283)"),
+        ("p", "&sect;279", "an1.279"),
+        ("p", "&sect;280", "an1.280"),
+        ("p", "&sect;281&ndash;283", "an1.281-283"),
+        ("h3", "Bad conduct and its result (AN 1.284&ndash;286)"),
+        ("p", "&sect;284", "an1.284"),
+        ("p", "&sect;285&ndash;286", "an1.285-286"),
+    ],
+    "quiz": [
+        {"q": "Which five roles does AN 1.279&ndash;283 deny to women?",
+         "opts": [
+             "Arahant, teacher, donor, nun, and elder",
+             "Fully awakened Buddha, wheel-turning monarch, Sakka, Māra, and the Divinity &mdash; five unique cosmological offices",
+             "Any monastic office",
+             "Stream-enterer, once-returner, non-returner, arahant, and Buddha"],
+         "correct": 1,
+         "expl": "Each is a position in the structure of the world held by one being at a time."},
+        {"q": "What is conspicuously <em>not</em> on that list?",
+         "opts": [
+             "Awakening &mdash; nothing here says a woman cannot become an arahant, reach any stage of the path, teach, or be foremost in wisdom",
+             "Wheel-turning monarch",
+             "The role of Māra",
+             "Nothing; the list is comprehensive"],
+         "correct": 0,
+         "expl": "Any presentation implying otherwise misreports the passage."},
+        {"q": "What internal evidence does the guide say this passage has to be read against?",
+         "opts": [
+             "That the Aṅguttara names thirteen nuns foremost in the same terms used for monks, and that the Therīgāthā preserves the awakening verses of the first generation of Buddhist women",
+             "That the passage appears only once",
+             "That the Buddha never addressed women",
+             "That the chapter has no parallels"],
+         "correct": 0,
+         "expl": "A canon is not a single voice, and the honest thing is to say so rather than harmonize it."},
+        {"q": "What has comparative study of MN 115 and its Chinese and Tibetan parallels found?",
+         "opts": [
+             "That the parallels are identical in every respect",
+             "That the items about women are not present in all versions, on which basis several scholars have argued the material is a later addition",
+             "That MN 115 has no parallels",
+             "That the Pāli version is the latest"],
+         "correct": 1,
+         "expl": "A serious position held on textual grounds &mdash; and, the guide adds, a contested one that should not be oversold."},
+        {"q": "How does the guide say that scholarly argument should be presented?",
+         "opts": [
+             "As a settled fact",
+             "As accurately as possible and not oversold &mdash; a position resting on the distribution of material across versions, which readers should be told is contested",
+             "It should not be mentioned",
+             "As proof that the passage is forged"],
+         "correct": 1,
+         "expl": "But a teacher who presents the passage as uncontested tradition leaves out something the room deserves to know."},
+        {"q": "What happens in the Devadatta chapter of the Lotus Sūtra?",
+         "opts": [
+             "Śāriputra converts a king",
+             "The eight-year-old nāga princess awakens instantaneously before a skeptical Śāriputra who has just objected that a woman&rsquo;s body cannot be a vessel for the Dharma",
+             "The Buddha refuses to answer the question",
+             "A council debates the ordination of women"],
+         "correct": 1,
+         "expl": "Staged explicitly as a refutation of an objection of exactly this shape."},
+        {"q": "What detail of that scene does the guide say honesty requires adding?",
+         "opts": [
+             "That she is not actually a nāga",
+             "That in the received text she transforms into a male body in the course of doing so, a detail argued about ever since",
+             "That Śāriputra is not present",
+             "That the scene appears only in Tibetan versions"],
+         "correct": 1,
+         "expl": "Read by some as a concession to the very view being refuted, by others as showing the form is trivially changeable."},
+        {"q": "What does the goddess do in the Vimalakīrti Sūtra?",
+         "opts": [
+             "She teaches the four noble truths",
+             "She refuses to speak with Śāriputra",
+             "Challenged to change out of her female form, she swaps bodies with Śāriputra and asks him to change out of it, then swaps back",
+             "She ordains as a nun"],
+         "correct": 2,
+         "expl": "Making the point that neither form was ever fixed or essential."},
+        {"q": "What five-step account does the guide recommend giving when teaching this passage?",
+         "opts": [
+             "Skip it, then discuss it privately with anyone who asks",
+             "What it lists; what it does not list; the foremost-nuns chapter and the Therīgāthā; that its textual status is contested; and that the later tradition argued with it in writing",
+             "Defend it as skillful means",
+             "Declare it inauthentic and move on"],
+         "correct": 1,
+         "expl": "Five sentences, and a complete and honest account."},
+        {"q": "What do AN 1.284&ndash;286 claim?",
+         "opts": [
+             "That an agreeable result cannot come from bad bodily, verbal, or mental conduct &mdash; the direction of the relation cannot be reversed",
+             "That results are entirely arbitrary",
+             "That conduct has no results",
+             "That only bodily conduct has results"],
+         "correct": 0,
+         "expl": "Not that the relation is mechanical or immediate &mdash; AN 3.100 spends a whole discourse complicating that &mdash; but that it cannot run backward."},
+    ],
+    "marginalia": [
+        ("What is listed", [
+            "a fully awakened Buddha",
+            "a wheel-turning monarch",
+            "Sakka, Māra, the Divinity",
+            "&mdash; five unique offices",
+        ]),
+        ("What is not", [
+            "arahantship",
+            "any stage of the path",
+            "teaching the Dhamma",
+            "being foremost in wisdom",
+        ]),
+        ("The evidence", [
+            "MN 115 and its parallels",
+            "not present in all versions",
+            "argued to be a later addition",
+            "contested, not settled",
+        ]),
+        ("The answers", [
+            "Lotus 12 &middot; the nāga princess",
+            "Vimalakīrti &middot; the goddess",
+            "AN 1.235&ndash;247 &middot; thirteen nuns",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.278-286/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-115.html">MN 115 &middot; Many Kinds of Elements</a> &mdash; the '
+        "same list of impossibilities inside a longer discourse, and the version whose Chinese and "
+        "Tibetan parallels the comparative argument turns on.",
+        '<a href="/sutras/lotus-sutra/devadatta.html">Lotus Sūtra 12 &middot; Devadatta</a> &mdash; the '
+        "nāga king&rsquo;s daughter, Śāriputra&rsquo;s objection, and the most famous single answer "
+        "the Mahāyāna gave to a claim of this shape.",
+        '<a href="/sutras/vimalakirti-sutra/the-goddess-and-the-flowers.html">The Vimalakīrti Sūtra '
+        "&middot; Regarding Living Beings</a> &mdash; the goddess and Śāriputra exchange bodies, and "
+        "the argument is made without the Lotus&rsquo;s ambiguity.",
+        '<a href="an-1.235-247.html">AN 1.235&ndash;247 &middot; Foremost Nuns</a> &mdash; the chapter '
+        "in this same collection that names thirteen women unsurpassed in the same terms used of the "
+        "monks.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.287-295",
+    "index_pali": "Aṭṭhāna III",
+    "nav_title": "What Cannot Happen (III)",
+    "source": "an1/an1.287-295",
+    "crumb": "AN 1.287&ndash;295",
+    "meta_title": "AN 1.287–295 — What Cannot Happen (III) | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the third of the "
+        "Aṅguttara Nikāya's chapters of impossibilities — good conduct cannot produce a "
+        "disagreeable result, and bad conduct cannot by itself carry anyone to a good rebirth. "
+        "The two words that keep it from being fatalism. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.287&ndash;295",
+    "title": "What Cannot Happen (III)",
+    "subtitle": "<em>Aṭṭhānapāḷi</em> &mdash; the twenty-third chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Nine discourses, abbreviated in places, completing the impossibility series with "
+                 "conduct and its results"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The same treatment of conduct and result appears throughout the Chinese "
+                              "Madhyama-āgama (T26); this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple, provided the phrase "
+                       "&ldquo;for that reason alone&rdquo; is not read past"),
+    ],
+    "why": (
+        "This chapter finishes the impossibility series by stating the kammic claim in both directions: "
+        "good conduct cannot yield a disagreeable result, and neither bad nor good conduct can carry "
+        "someone to a destination opposite to its own character. Stated flatly, that is the crudest "
+        "possible doctrine of moral consequence, and it is exactly what a great many people believe "
+        "Buddhism teaches. Stated with the four words the text actually includes &mdash; <em>for that "
+        "reason alone</em> &mdash; it becomes something considerably more careful, and the whole value "
+        "of reading the chapter closely lies in those four words."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Conduct cannot produce a result opposite in character to itself &mdash; but no single act, "
+            "on its own, determines where anyone ends up."]),
+        ("The mirror completed", [
+            "AN 1.287&ndash;289 mirror AN 1.284&ndash;286 exactly: where the previous chapter said an "
+            "agreeable result cannot come from bad bodily, verbal, or mental conduct, this one says a "
+            "disagreeable result cannot come from good conduct of the same three kinds. Together the "
+            "six entries make one claim, which is that the relationship between action and result has "
+            "a direction that cannot be reversed.",
+            "That is a weaker claim than it may look. It does not say the relationship is proportional, "
+            "or immediate, or predictable in its timing, or that the result comes in any particular "
+            "form. It says only that the sign cannot flip."]),
+        ("The four words that change everything", [
+            "AN 1.290&ndash;295 extend the claim to rebirth, and this is where the qualification "
+            "appears. It is impossible that someone who has engaged in bad bodily conduct could "
+            "<em>for that reason alone</em> be reborn in a heavenly realm; possible that they could, "
+            "for that reason alone, be reborn in a bad destination.",
+            "Read without that phrase, the passage is a straightforward doctrine of moral bookkeeping: "
+            "bad people go down, good people go up. Read with it, the claim becomes narrower and much "
+            "more defensible. Bad conduct is not a route to a good destination; that is all. It does "
+            "not say that a person who has done something bad will therefore go to a bad destination, "
+            "because their conduct is not a single item and no single item is being credited with "
+            "deciding the outcome.",
+            "The canon is consistent about this elsewhere, and sometimes startlingly so. AN 3.100 "
+            "&mdash; on this site &mdash; argues at length that the same act produces radically "
+            "different results depending on the character of the person who does it, using the image of "
+            "a lump of salt in a cup of water against the same lump in the Ganges. There are discourses "
+            "in which a murderer becomes an arahant. A reader who takes the phrase &ldquo;for that "
+            "reason alone&rdquo; seriously will find the rest of the canon much easier to reconcile "
+            "than one who does not."]),
+        ("What this rules out", [
+            "It is worth being explicit about which position the chapter is refusing, because it is a "
+            "position people actually hold. The target is the idea that one can act badly and arrange, "
+            "by some other means, for it not to matter &mdash; by ritual, by patronage, by belonging to "
+            "the right group, by intention divorced from action, or by any transaction that leaves the "
+            "conduct in place and removes the consequence.",
+            "That reading fits the Aṅguttara&rsquo;s general temperament. This is the collection that "
+            "told the Kālāmas to test claims by their observed effects and that spends a hundred "
+            "entries on ordinary dispositions rather than on rites. The impossibility here is not "
+            "cosmic bookkeeping enforced by an authority; it is a statement that the world does not "
+            "contain a mechanism for that particular exemption."]),
+        ("Reading the rebirth language", [
+            "Some readers of this series will not hold a view about rebirth, and there is no need to "
+            "pretend otherwise or to require one. It is worth noting how little of the chapter&rsquo;s "
+            "force depends on it. Substitute &ldquo;where this leads&rdquo; for the destinations and "
+            "the structure survives intact: conduct has a direction; the direction cannot be reversed "
+            "by wishing; and no single act settles the whole question.",
+            "The Buddha&rsquo;s own most careful handling of the issue is in the four assurances at the "
+            "end of AN 3.65, which deliberately show that the ethical life pays whether or not there "
+            "is another world. That passage is the right one to have in reserve when this chapter "
+            "raises the question in a class."]),
+    ],
+    "terms": [
+        ("kāya-, vacī-, manosucarita",
+         "good bodily, verbal, and mental conduct &mdash; the threefold division of action used "
+         "throughout the canon and the subject of the first three entries."),
+        ("duccarita",
+         "bad conduct &mdash; the negative of the same three, carried over from the previous chapter."),
+        ("taṁnidānā",
+         "&ldquo;for that reason alone, on that basis&rdquo; &mdash; the qualification in AN "
+         "1.290&ndash;295 that narrows the claim from moral bookkeeping to a statement about "
+         "direction."),
+        ("sugati / duggati",
+         "&ldquo;a good place&rdquo; and &ldquo;a bad place&rdquo; &mdash; the destinations named. The "
+         "chapter&rsquo;s structure survives substituting &ldquo;where this leads&rdquo; for them."),
+        ("iṭṭha, kanta, manāpa",
+         "&ldquo;likable, desirable, agreeable&rdquo; &mdash; the three-word formula for a welcome "
+         "result, and its negation for an unwelcome one."),
+    ],
+    "text_intro": (
+        "All nine discourses of the chapter. Four paragraphs carry ranges rather than single numbers "
+        "because the canon abbreviates repeated discourses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Good conduct and its result (AN 1.287&ndash;289)"),
+        ("p", "&sect;287", "an1.287"),
+        ("p", "&sect;288&ndash;289", "an1.288-289"),
+        ("h3", "Bad conduct and where it leads (AN 1.290&ndash;292)"),
+        ("p", "&sect;290", "an1.290"),
+        ("p", "&sect;291&ndash;292", "an1.291-292"),
+        ("h3", "Good conduct and where it leads (AN 1.293&ndash;295)"),
+        ("p", "&sect;293", "an1.293"),
+        ("p", "&sect;294&ndash;295", "an1.294-295"),
+    ],
+    "quiz": [
+        {"q": "What single claim do AN 1.284&ndash;289 make together?",
+         "opts": [
+             "That every act is repaid in kind and in measure",
+             "That the relationship between action and result has a direction that cannot be reversed",
+             "That results are entirely unpredictable",
+             "That only mental conduct has results"],
+         "correct": 1,
+         "expl": "A weaker claim than it looks: nothing is said about proportion, timing, or form."},
+        {"q": "Which phrase in AN 1.290&ndash;295 narrows the claim decisively?",
+         "opts": [
+             "&ldquo;when their body breaks up&rdquo;",
+             "&ldquo;it is impossible&rdquo;",
+             "&ldquo;for that reason alone&rdquo;",
+             "&ldquo;a heavenly realm&rdquo;"],
+         "correct": 2,
+         "expl": "Read without it the passage is moral bookkeeping; read with it, it is a claim about direction."},
+        {"q": "What does the chapter therefore <em>not</em> say?",
+         "opts": [
+             "That bad conduct is not a route to a good destination",
+             "That a person who has done something bad will therefore go to a bad destination &mdash; conduct is not a single item, and no single item decides the outcome",
+             "That conduct has consequences",
+             "That good conduct leads anywhere at all"],
+         "correct": 1,
+         "expl": "Which is what makes the rest of the canon reconcilable."},
+        {"q": "How does AN 3.100 support that reading?",
+         "opts": [
+             "By denying that kamma exists",
+             "By arguing that the same act produces radically different results depending on the character of the person who does it &mdash; a lump of salt in a cup against the same lump in the Ganges",
+             "By restricting kamma to monastics",
+             "By listing the five heinous acts"],
+         "correct": 1,
+         "expl": "The canon is consistent about this, and sometimes startlingly so."},
+        {"q": "Which position is the chapter actually refusing?",
+         "opts": [
+             "That one can act badly and arrange by some other means for it not to matter &mdash; by ritual, patronage, group membership, or any transaction that leaves the conduct and removes the consequence",
+             "That good conduct is worth undertaking",
+             "That the mind can be developed",
+             "That teachers can be trusted"],
+         "correct": 0,
+         "expl": "The world does not contain a mechanism for that particular exemption."},
+        {"q": "How does that fit the Aṅguttara&rsquo;s general temperament?",
+         "opts": [
+             "Poorly &mdash; the collection is mostly ritual",
+             "Well &mdash; this is the collection that told the Kālāmas to test claims by observed effects and spends a hundred entries on ordinary dispositions rather than rites",
+             "It is unrelated to the rest of the collection",
+             "The collection has no consistent temperament"],
+         "correct": 1,
+         "expl": "Not cosmic bookkeeping enforced by an authority."},
+        {"q": "What happens to the chapter&rsquo;s structure if a reader substitutes &ldquo;where this leads&rdquo; for the rebirth destinations?",
+         "opts": [
+             "It collapses entirely",
+             "It survives intact &mdash; conduct has a direction, the direction cannot be reversed by wishing, and no single act settles the question",
+             "It becomes self-contradictory",
+             "It becomes a rule about monastic discipline"],
+         "correct": 1,
+         "expl": "Little of the chapter's force depends on holding a view about rebirth."},
+        {"q": "Which passage does the guide recommend having in reserve when the rebirth question is raised in a class?",
+         "opts": [
+             "The four assurances at the end of AN 3.65, which show the ethical life pays whether or not there is another world",
+             "The list of foremost disciples",
+             "The five hindrances",
+             "The chapter on the radiant mind"],
+         "correct": 0,
+         "expl": "The Buddha's own most careful handling of exactly that issue."},
+        {"q": "What does the three-word formula <em>iṭṭha, kanta, manāpa</em> describe?",
+         "opts": [
+             "The three kinds of conduct",
+             "A welcome result &mdash; likable, desirable, agreeable &mdash; with its negation used for an unwelcome one",
+             "The three characteristics",
+             "Three stages of the path"],
+         "correct": 1,
+         "expl": "The standard canonical pair of formulas for a good and a bad outcome."},
+        {"q": "What relation does this chapter have to the one before it?",
+         "opts": [
+             "It contradicts it",
+             "It replaces it",
+             "It completes the mirror &mdash; the previous chapter gave bad conduct and its result, this one gives good conduct and its result, and then both applied to destination",
+             "It is unrelated"],
+         "correct": 2,
+         "expl": "The Aṅguttara states both directions of a claim as a matter of course."},
+    ],
+    "marginalia": [
+        ("The mirror", [
+            "284&ndash;286 &middot; bad conduct, no good result",
+            "287&ndash;289 &middot; good conduct, no bad result",
+            "290&ndash;295 &middot; and where each leads",
+        ]),
+        ("Four words", [
+            "<span class=\"pali\">taṁnidānā</span>for that reason alone",
+            "not: bad people go down",
+            "but: bad conduct is not a route up",
+        ]),
+        ("What is refused", [
+            "ritual exemption",
+            "patronage",
+            "group membership",
+            "&mdash; conduct kept, consequence removed",
+        ]),
+        ("Cross-references", [
+            "AN 3.100 &middot; a lump of salt",
+            "AN 3.65 &middot; the four assurances",
+            "AN 1.296&ndash;305 &middot; next: the recollections",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.287-295/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.100.html">AN 3.100 &middot; A Lump of Salt</a> &mdash; the discourse that spends '
+        "its whole length complicating any mechanical reading of this chapter, and the best single "
+        "companion to it.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the four '
+        "assurances, which show what happens to this material if the question of another world is left "
+        "deliberately open.",
+        '<a href="an-1.278-286.html">AN 1.278&ndash;286 &middot; What Cannot Happen (II)</a> &mdash; '
+        "previous in this series, and the chapter this one mirrors.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# The Ekadhamma chapters — AN 1.296–377
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.296-305",
+    "index_pali": "Ekadhamma I",
+    "nav_title": "The Ten Recollections",
+    "source": "an1/an1.296-305",
+    "crumb": "AN 1.296&ndash;305",
+    "meta_title": "AN 1.296–305 — The Ten Recollections | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Aṅguttara Nikāya's "
+        "chapter on the ten recollections — the Buddha, the teaching, the Saṅgha, ethics, "
+        "generosity, the deities, breathing, death, the body, and peace — each said on its own "
+        "to lead all the way to extinguishment. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.296&ndash;305",
+    "title": "The Ten Recollections",
+    "subtitle": "<em>Ekadhammapāḷi</em> &mdash; the twenty-fourth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten discourses on one template, the first written out in full and the remaining "
+                 "nine transmitted as a single abbreviated entry"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The set of recollections is standard across the Chinese Āgamas, and the "
+                              "Ekottarika-āgama (T125) devotes an early chapter to them; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a list, but a list with a "
+                       "surprisingly strong claim attached to every item"),
+    ],
+    "why": (
+        "The Ones open a new section here, the <em>ekadhammapāḷi</em> &mdash; the section on one "
+        "thing &mdash; and it opens by naming ten practices and saying of each, separately, that it "
+        "leads <em>solely</em> to disillusionment, dispassion, cessation, peace, insight, awakening, "
+        "and extinguishment. That is the full destination formula, the one used of the noble eightfold "
+        "path itself. Attaching it to recollection of generosity, or of the deities, or of one&rsquo;s "
+        "own ethical conduct is a much stronger statement than it looks, and it is the reason this "
+        "short chapter matters: it says the whole distance can be covered from any of ten different "
+        "starting points."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Each of ten recollections, developed and cultivated, goes the whole way &mdash; not part "
+            "of the way, and not only in combination with the others."]),
+        ("The ten", [
+            "Recollection of the Buddha, of the teaching, and of the Saṅgha &mdash; the three refuges "
+            "as objects of sustained attention. Recollection of one&rsquo;s own ethical conduct and of "
+            "one&rsquo;s own generosity: reviewing what one has actually done. Recollection of the "
+            "deities, which in practice means recollecting the qualities that brought them there, and "
+            "so is a third form of the same self-review.",
+            "Then four that are more familiar to modern practitioners: mindfulness of breathing, "
+            "recollection of death, mindfulness of the body, and recollection of peace &mdash; "
+            "<em>upasamānussati</em>, bringing to mind the quality of extinguishment itself.",
+            "The list is worth reading for its range. Three items are devotional, three are a review of "
+            "one&rsquo;s own conduct, three are attentional, and one takes the goal as its object. Any "
+            "presentation of Buddhist practice as consisting of one technique has to reckon with the "
+            "fact that the canon&rsquo;s own first list of what to develop contains all four kinds."]),
+        ("The word that makes the claim strong", [
+            "<em>Ekantanibbidāya</em> &mdash; Sujato&rsquo;s &ldquo;leads solely to&rdquo; &mdash; "
+            "means one-sidedly, without exception, wholly in that direction. It is not &ldquo;among "
+            "other things contributes to.&rdquo; And what it leads to is the full sequence: "
+            "disillusionment, dispassion, cessation, peace, insight, awakening, extinguishment.",
+            "That sequence is a technical one and it is worth reading slowly. <em>Nibbidā</em>, "
+            "translated &ldquo;disillusionment,&rdquo; is the turning away that comes from seeing "
+            "clearly rather than from being disappointed &mdash; a distinction worth making explicitly, "
+            "since the English word suggests a sour mood. From there: fading of desire, cessation, "
+            "peace, direct knowledge, awakening, and extinguishment. The whole path, attached to each "
+            "of ten items."]),
+        ("Why the devotional entries are the interesting ones", [
+            "Modern presentations of Buddhism tend to be comfortable with breathing and the body and "
+            "uncomfortable with recollection of the Buddha or of the deities, which look like piety "
+            "rather than practice. This chapter gives all ten the same predicate, which makes the "
+            "discomfort worth examining rather than indulging.",
+            "The practical content of <em>buddhānussati</em> is not adoration; it is sustained "
+            "attention to a specific list of qualities &mdash; that the Blessed One is perfected, fully "
+            "awakened, accomplished in knowledge and conduct, and so on through a fixed formula. What "
+            "it does is give a mind that cannot settle something both concrete and elevating to settle "
+            "on. Recollection of generosity works the same way from the other end: it takes something "
+            "the practitioner has actually done and lets the mind rest in it.",
+            "It is also worth naming where this leads historically. Recollection of the Buddha is the "
+            "seed from which the entire East Asian Pure Land practice of 念佛 grows &mdash; the word "
+            "translates <em>buddhānussati</em> before it means anything about recitation. A tradition "
+            "that eventually put nearly everything on one of these ten items is doing something the "
+            "chapter authorizes, whatever else one makes of it."]),
+        ("Using the list", [
+            "Practically, the most useful thing about this chapter is that it is a menu rather than a "
+            "sequence. Nothing in it says to do them in order, or to master one before beginning "
+            "another. Each is stated as complete on its own.",
+            "For a class, the productive exercise is to read all ten and ask which one a person would "
+            "actually reach for at three in the morning. The answers vary enormously between people, "
+            "which is the point of there being ten. A teacher who offers only the one they personally "
+            "practice is narrowing the canon on their students&rsquo; behalf."]),
+    ],
+    "terms": [
+        ("anussati",
+         "&ldquo;recollection&rdquo; &mdash; literally re-membering, calling to mind repeatedly. The "
+         "term covers six of the ten items and shapes how the others are meant."),
+        ("ekantanibbidāya",
+         "&ldquo;leads solely to disillusionment&rdquo; &mdash; one-sidedly, wholly in that direction. "
+         "The word that makes each item&rsquo;s claim a complete one rather than a partial contribution."),
+        ("nibbidā",
+         "&ldquo;disillusionment&rdquo; &mdash; the turning away that comes from seeing clearly, not "
+         "from being disappointed. The English word&rsquo;s sour connotation is worth correcting when "
+         "teaching."),
+        ("buddhānussati",
+         "&ldquo;recollection of the Buddha&rdquo; &mdash; sustained attention to a fixed list of "
+         "qualities rather than adoration, and the term behind the Chinese 念佛."),
+        ("upasamānussati",
+         "&ldquo;recollection of peace&rdquo; &mdash; the tenth item, which takes the goal itself as "
+         "the object of recollection."),
+    ],
+    "text_intro": (
+        "All ten discourses of the chapter. The second paragraph carries a range rather than a single "
+        "number because the canon transmits nine of the ten as one abbreviated entry. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Recollection of the Buddha (AN 1.296)"),
+        ("p", "&sect;296", "an1.296"),
+        ("h3", "The remaining nine (AN 1.297&ndash;305)"),
+        ("p", "&sect;297&ndash;305", "an1.297-305"),
+    ],
+    "quiz": [
+        {"q": "What is claimed of each of the ten recollections separately?",
+         "opts": [
+             "That it prepares the mind for the real practice",
+             "That it leads solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment &mdash; the full destination formula",
+             "That it is suitable only for monastics",
+             "That it must be combined with the other nine"],
+         "correct": 1,
+         "expl": "The same formula used of the noble eightfold path itself."},
+        {"q": "What does <em>ekantanibbidāya</em> mean?",
+         "opts": [
+             "&ldquo;Sometimes contributes to&rdquo;",
+             "&ldquo;Leads solely to&rdquo; &mdash; one-sidedly, without exception, wholly in that direction",
+             "&ldquo;Is recommended for&rdquo;",
+             "&ldquo;Was formerly taught as&rdquo;"],
+         "correct": 1,
+         "expl": "Not &ldquo;among other things contributes to.&rdquo;"},
+        {"q": "What does <em>nibbidā</em>, &ldquo;disillusionment,&rdquo; actually name?",
+         "opts": [
+             "A sour or depressed mood",
+             "The turning away that comes from seeing clearly rather than from being disappointed",
+             "Indifference to other people",
+             "Loss of faith"],
+         "correct": 1,
+         "expl": "A distinction worth making explicitly, since the English word suggests otherwise."},
+        {"q": "Which four kinds of practice does the list contain?",
+         "opts": [
+             "Only attentional practices",
+             "Only devotional practices",
+             "Three devotional, three reviewing one&rsquo;s own conduct, three attentional, and one taking the goal as its object",
+             "Ten variations on breathing"],
+         "correct": 2,
+         "expl": "Any presentation of Buddhist practice as one technique has to reckon with this range."},
+        {"q": "What is the practical content of recollection of the Buddha?",
+         "opts": [
+             "Petitionary prayer",
+             "Sustained attention to a specific list of qualities &mdash; perfected, fully awakened, accomplished in knowledge and conduct &mdash; rather than adoration",
+             "Visualization of a statue",
+             "Making offerings at a shrine"],
+         "correct": 1,
+         "expl": "It gives a mind that cannot settle something both concrete and elevating to settle on."},
+        {"q": "How does recollection of generosity work, by comparison?",
+         "opts": [
+             "It requires a new act of giving each time",
+             "It works from the other end &mdash; taking something the practitioner has actually done and letting the mind rest in it",
+             "It concerns only monastic donations",
+             "It is identical to recollection of the Buddha"],
+         "correct": 1,
+         "expl": "Three of the ten items are a review of one's own conduct in this way."},
+        {"q": "What does recollection of the Buddha grow into historically?",
+         "opts": [
+             "The Vinaya commentaries",
+             "The Abhidhamma",
+             "The East Asian Pure Land practice of 念佛 &mdash; the word translates <em>buddhānussati</em> before it means anything about recitation",
+             "Chan encounter dialogue"],
+         "correct": 2,
+         "expl": "A tradition that eventually put nearly everything on one of these ten items is doing something the chapter authorizes."},
+        {"q": "What does recollection of the deities practically involve?",
+         "opts": [
+             "Recollecting the qualities that brought them there, making it a third form of self-review",
+             "Petitioning them for help",
+             "Debating their existence",
+             "Visualizing their realms in detail"],
+         "correct": 0,
+         "expl": "Which is why it groups with ethics and generosity rather than with the devotional items."},
+        {"q": "Is the chapter a sequence or a menu?",
+         "opts": [
+             "A strict sequence to be worked through in order",
+             "A menu &mdash; nothing says to do them in order or to master one before another; each is stated as complete on its own",
+             "A ranking from least to most effective",
+             "A historical list of past practices"],
+         "correct": 1,
+         "expl": "Which is the practically most useful thing about it."},
+        {"q": "What classroom exercise does the guide suggest?",
+         "opts": [
+             "Memorizing the Pāli names",
+             "Reading all ten and asking which one a person would actually reach for at three in the morning &mdash; the answers vary enormously, which is the point of there being ten",
+             "Ranking them by difficulty",
+             "Practicing each for a week in turn"],
+         "correct": 1,
+         "expl": "A teacher who offers only the one they personally practice is narrowing the canon on their students' behalf."},
+    ],
+    "marginalia": [
+        ("The ten", [
+            "the Buddha",
+            "the teaching",
+            "the Saṅgha",
+            "one&rsquo;s ethical conduct",
+            "one&rsquo;s generosity",
+            "the deities",
+            "breathing",
+            "death",
+            "the body",
+            "peace",
+        ]),
+        ("The claim", [
+            "<span class=\"pali\">ekantanibbidāya</span>solely, wholly",
+            "&hellip;to extinguishment",
+            "of each one, separately",
+        ]),
+        ("Four kinds", [
+            "three devotional",
+            "three self-review",
+            "three attentional",
+            "one taking the goal",
+        ]),
+        ("Cross-references", [
+            "念佛 &middot; where the first one goes",
+            "MN 119 &middot; mindfulness of the body",
+            "AN 1.575&ndash;615 &middot; the body alone",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.296-305/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-119.html">MN 119 &middot; Mindfulness of the Body</a> &mdash; '
+        "the ninth item on this list given a full discourse of its own, with its similes.",
+        '<a href="/sutras/immeasurable-life-sutra/the-forty-eight-vows.html">The Sutra of '
+        "Immeasurable Life &middot; The Forty-Eight Vows</a> &mdash; where recollection of the Buddha, "
+        "the first item on this list, has become the center of an entire path.",
+        '<a href="an-10.60.html">AN 10.60 &middot; With Girimānanda</a> &mdash; ten perceptions taught '
+        "to a sick monk, several of them overlapping this list, and a good example of the same material "
+        "used for a specific person in a specific situation.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.306-315",
+    "index_pali": "Ekadhamma II",
+    "nav_title": "Wrong View and Right View",
+    "source": "an1/an1.306-315",
+    "crumb": "AN 1.306&ndash;315",
+    "meta_title": "AN 1.306–315 — Wrong View and Right View | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Aṅguttara Nikāya's "
+        "chapter on view — the one thing that most reliably makes unskillful qualities grow, "
+        "and the seed simile that explains why: a bitter seed in good soil still yields "
+        "bitter fruit. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.306&ndash;315",
+    "title": "Wrong View and Right View",
+    "subtitle": "<em>Ekadhammapāḷi</em> &mdash; the twenty-fifth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten discourses in matched pairs on the familiar one-factor template, closing "
+                 "with two long entries built on an agricultural simile"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The seed simile for right and wrong view is preserved in the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the template is familiar, but the "
+                       "closing simile makes a claim strong enough to need careful handling"),
+    ],
+    "why": (
+        "Earlier chapters of the Ones named attention as the factor that decides everything else. This "
+        "one names view, and it presses harder than any previous chapter has. Wrong view is called the "
+        "most blameworthy thing of all in the chapter following, and here it is said to be what most "
+        "reliably brings unskillful qualities into being, what most reliably sends beings to a bad "
+        "destination, and &mdash; in the two long closing entries &mdash; what makes every deed, "
+        "intention, and wish undertaken in line with it turn out badly. The simile used is a bitter "
+        "seed in good soil, and it is one of the most uncomfortable images in the collection."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "What a person takes to be true about how things work determines the character of "
+            "everything they then do, the way a seed determines the taste of the fruit whatever soil "
+            "it is planted in."]),
+        ("View, and where it sits in the list", [
+            "<em>Diṭṭhi</em> is view: not opinion in the casual sense but the underlying account of how "
+            "things are that a person operates on, usually without stating it. Right view "
+            "(<em>sammādiṭṭhi</em>) heads the noble eightfold path, and it is worth remembering what it "
+            "consists of there &mdash; understanding of suffering, its origin, its cessation, and the "
+            "way to its cessation, and at a more basic level, that actions have consequences.",
+            "The first six entries run view through the templates the collection has already "
+            "established: what makes unskillful qualities arise and grow (306&ndash;307), what makes "
+            "skillful ones decline (308&ndash;309), and what causes view itself to arise and grow "
+            "(310&ndash;311) &mdash; which turns out to be attention, again. The chain the Ones have "
+            "been building is now complete: attention shapes view, view shapes deeds, deeds shape "
+            "results."]),
+        ("The seed simile (AN 1.314&ndash;315)", [
+            "The last two entries are the longest in the whole nipāta and carry its strongest claim. "
+            "Plant a seed of neem or bitter gourd in moist earth, and whatever nutrients it draws from "
+            "earth and water go to produce a bitter, acerbic, unpleasant taste &mdash; because the seed "
+            "is bad. Plant sugar cane or fine rice or a grape, and the same earth and the same water "
+            "produce sweetness &mdash; because the seed is good. In the same way, when a person has "
+            "wrong view, whatever bodily, verbal, or mental deeds they undertake in line with that "
+            "view, and their intentions, aims, wishes, and choices as well, all lead to what is "
+            "unlikable, undesirable, disagreeable, harmful, and suffering.",
+            "That is a very strong claim, and it should not be softened. The passage explicitly "
+            "includes intentions and wishes, which forecloses the obvious defense that at least the "
+            "person meant well. Good intentions operating inside a bad account of how things work are, "
+            "on this analysis, part of what produces the bad outcome rather than a mitigation of it."]),
+        ("The obvious objection", [
+            "A reader is entitled to ask whether this licenses the worst kind of religious "
+            "thinking &mdash; that people who hold the wrong beliefs are corrupt in everything they do, "
+            "including their kindness. It would be dishonest not to admit that the sentence can be read "
+            "that way and that religious communities have read sentences like it that way.",
+            "Several things push against that reading, and they are in the text rather than imported. "
+            "The qualification &ldquo;in line with that view&rdquo; is doing real work: what is said to "
+            "go wrong is the deeds undertaken <em>on the basis of</em> the view, not everything the "
+            "person does. The chapter before this one has just insisted that no single factor decides "
+            "an outcome. And the collection&rsquo;s own account of how to identify wrong view, in AN "
+            "3.61 and AN 3.65, is entirely about consequences rather than about doctrinal "
+            "membership &mdash; the wrong views it actually names are the ones that would remove any "
+            "reason to act well at all.",
+            "Read with those in place, the claim is narrower and harder to dismiss: if a person "
+            "genuinely operates on the belief that nothing they do matters, then their kindness, their "
+            "efforts, and their intentions are all being conducted inside that belief, and the belief "
+            "shapes what they come to. That is not a claim about doctrinal affiliation. It is a claim "
+            "about what an account of the world does to a life lived on it."]),
+        ("The most blameworthy thing", [
+            "The next chapter opens by calling wrong view the most blameworthy thing of all, which is a "
+            "superlative the Ones have not used before. It is worth asking why view rather than, say, "
+            "cruelty.",
+            "The answer the collection seems to give is structural. Cruelty is a single kind of act; "
+            "view is what generates acts. A person with a bad view and good habits is running on "
+            "borrowed time, and a person with a good view and bad habits has something to correct them "
+            "by. That is also why attention is named as what produces view: the chain has to bottom out "
+            "somewhere a person can actually intervene, and the collection consistently puts it at the "
+            "least glamorous point available."]),
+    ],
+    "terms": [
+        ("diṭṭhi",
+         "&ldquo;view&rdquo; &mdash; the underlying account of how things are that a person operates "
+         "on, usually without stating it. Not opinion in the casual sense."),
+        ("sammādiṭṭhi / micchādiṭṭhi",
+         "right and wrong view. Right view heads the noble eightfold path and consists at minimum in "
+         "understanding that actions have consequences."),
+        ("yoniso manasikāra",
+         "&ldquo;rational application of mind&rdquo; &mdash; named at AN 1.311 as what gives rise to "
+         "right view, completing the chain: attention shapes view, view shapes deeds."),
+        ("sankappa, patthanā, paṇidhi, saṅkhāra",
+         "&ldquo;intentions, aims, wishes, and choices&rdquo; &mdash; the inner items the seed simile "
+         "explicitly includes, which is what forecloses the defense that the person meant well."),
+        ("nimba, kosātakī, tittakalābu",
+         "neem, angled gourd, and bitter gourd &mdash; the three bitter seeds of AN 1.314, against "
+         "sugar cane, fine rice, and grape in AN 1.315."),
+    ],
+    "text_intro": (
+        "All ten discourses of the chapter, in order. The last two are the longest single entries in "
+        "the Ones. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "View and the growth of qualities (AN 1.306&ndash;309)"),
+        ("p", "&sect;306", "an1.306"),
+        ("p", "&sect;307", "an1.307"),
+        ("p", "&sect;308", "an1.308"),
+        ("p", "&sect;309", "an1.309"),
+        ("h3", "What produces view (AN 1.310&ndash;311)"),
+        ("p", "&sect;310", "an1.310"),
+        ("p", "&sect;311", "an1.311"),
+        ("h3", "Where view leads (AN 1.312&ndash;313)"),
+        ("p", "&sect;312", "an1.312"),
+        ("p", "&sect;313", "an1.313"),
+        ("h3", "The seed (AN 1.314&ndash;315)"),
+        ("p", "&sect;314", "an1.314"),
+        ("p", "&sect;315", "an1.315"),
+    ],
+    "quiz": [
+        {"q": "What is <em>diṭṭhi</em>, view, in this context?",
+         "opts": [
+             "A casually held opinion",
+             "The underlying account of how things are that a person operates on, usually without stating it",
+             "A formal doctrinal affiliation",
+             "A meditative experience"],
+         "correct": 1,
+         "expl": "Right view heads the noble eightfold path and consists at minimum in understanding that actions have consequences."},
+        {"q": "What does AN 1.310&ndash;311 name as what gives rise to view?",
+         "opts": [
+             "Attention &mdash; irrational application of mind produces wrong view, rational application produces right view",
+             "Ordination",
+             "Study of the texts",
+             "Good health"],
+         "correct": 0,
+         "expl": "Completing the chain: attention shapes view, view shapes deeds, deeds shape results."},
+        {"q": "What happens to a bitter seed planted in moist earth, in the simile?",
+         "opts": [
+             "It becomes sweet if the soil is good enough",
+             "It fails to germinate",
+             "Whatever nutrients it takes up from earth and water go to produce a bitter, acerbic, unpleasant taste &mdash; because the seed is bad",
+             "It produces both bitter and sweet fruit"],
+         "correct": 2,
+         "expl": "Good conditions do not change what the seed makes of them."},
+        {"q": "What does the simile explicitly include, which forecloses an obvious defense?",
+         "opts": [
+             "The person&rsquo;s family background",
+             "Their intentions, aims, wishes, and choices &mdash; so &ldquo;at least they meant well&rdquo; is not available",
+             "Their ordination status",
+             "Their level of education"],
+         "correct": 1,
+         "expl": "Good intentions inside a bad account of how things work are part of what produces the outcome."},
+        {"q": "What objection does the guide raise against its own passage?",
+         "opts": [
+             "That the simile is agriculturally inaccurate",
+             "That it can be read as licensing the view that people who hold the wrong beliefs are corrupt in everything they do, including their kindness &mdash; and that religious communities have read sentences like it that way",
+             "That the passage is a later addition",
+             "That seeds were unknown in ancient India"],
+         "correct": 1,
+         "expl": "It would be dishonest not to admit the sentence can be read that way."},
+        {"q": "Which phrase in the text pushes against that reading?",
+         "opts": [
+             "&ldquo;moist earth&rdquo;",
+             "&ldquo;in line with that view&rdquo; &mdash; what goes wrong is the deeds undertaken on the basis of the view, not everything the person does",
+             "&ldquo;bodily, verbal, or mental&rdquo;",
+             "&ldquo;why is that?&rdquo;"],
+         "correct": 1,
+         "expl": "A qualification doing real work."},
+        {"q": "How does the collection itself identify wrong view, in AN 3.61 and AN 3.65?",
+         "opts": [
+             "By doctrinal membership",
+             "By consequences &mdash; the wrong views it names are the ones that would remove any reason to act well at all",
+             "By the teacher one follows",
+             "By caste"],
+         "correct": 1,
+         "expl": "Which makes the claim about a life lived on an account of the world, not about affiliation."},
+        {"q": "Why does the collection call wrong view the most blameworthy thing rather than, say, cruelty?",
+         "opts": [
+             "Because cruelty is not blameworthy",
+             "For a structural reason &mdash; cruelty is a single kind of act, and view is what generates acts",
+             "Because view is easier to change",
+             "Because cruelty is rare"],
+         "correct": 1,
+         "expl": "A person with a bad view and good habits is running on borrowed time."},
+        {"q": "Why does the guide say the chain bottoms out in attention?",
+         "opts": [
+             "Because attention is the most glamorous factor",
+             "Because it has to bottom out somewhere a person can actually intervene, and the collection consistently puts that at the least glamorous point available",
+             "Because attention cannot be trained",
+             "Because the texts say nothing about view"],
+         "correct": 1,
+         "expl": "The same instinct that runs through the whole nipāta."},
+        {"q": "What are the two sets of seeds named in AN 1.314&ndash;315?",
+         "opts": [
+             "Neem, angled gourd, and bitter gourd &mdash; against sugar cane, fine rice, and grape",
+             "Barley and wheat &mdash; against rice and millet",
+             "Mustard and sesame &mdash; against mango and banana",
+             "Only one set is named"],
+         "correct": 0,
+         "expl": "Three bitter, three sweet, and the same earth and water for both."},
+    ],
+    "marginalia": [
+        ("The chain", [
+            "attention shapes view",
+            "view shapes deeds",
+            "deeds shape results",
+            "&mdash; and attention is where you intervene",
+        ]),
+        ("The seed", [
+            "neem, gourd &rarr; bitter",
+            "cane, rice, grape &rarr; sweet",
+            "same earth, same water",
+        ]),
+        ("What is included", [
+            "bodily, verbal, mental deeds",
+            "<span class=\"pali\">sankappa</span>intentions",
+            "<span class=\"pali\">patthanā</span>wishes",
+            "&mdash; meaning well is not a defense",
+        ]),
+        ("Cross-references", [
+            "AN 3.61 &middot; three views refuted",
+            "AN 3.65 &middot; testing a view",
+            "AN 1.316&ndash;332 &middot; next",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.306-315/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.61.html">AN 3.61 &middot; Sectarian Tenets</a> &mdash; the three wrong views the '
+        "collection actually names, each shown to remove any reason to act at all, which is what this "
+        "chapter means by a bad seed.",
+        '<a href="../majjhima-nikaya/mn-117.html">MN 117 &middot; The Great Forty</a> &mdash; right view '
+        "set out in full as the head of the path, including the distinction between the view that is "
+        "still affected by defilements and the one that is not.",
+        '<a href="an-1.11-20.html">AN 1.11&ndash;20 &middot; Giving Up the Hindrances</a> &mdash; where '
+        "rational and irrational attention were first named, one chapter of the Ones before they turned "
+        "out to be producing view.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.316-332",
+    "index_pali": "Ekadhamma III",
+    "nav_title": "A Poorly Explained Teaching",
+    "source": "an1/an1.316-332",
+    "crumb": "AN 1.316&ndash;332",
+    "meta_title": "AN 1.316–332 — A Poorly Explained Teaching | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Aṅguttara Nikāya's "
+        "chapter on well- and poorly-explained teachings — including the four entries on who "
+        "lives happily in each, the one named opponent in the whole nipāta, and the "
+        "extraordinary declaration about a finger-snap of existence. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.316&ndash;332",
+    "title": "A Poorly Explained Teaching",
+    "subtitle": "<em>Ekadhammapāḷi</em> &mdash; the twenty-sixth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Fourteen discourses in three groups &mdash; two on the individual who arises with "
+                 "wrong or right view, eight comparing a poorly and a well explained teaching, and "
+                 "two closing similes about continued existence"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The polemic against Makkhali Gosāla and the material on well and poorly "
+                              "explained teachings are both represented in the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the middle section is a small "
+                       "logical puzzle worth doing properly, and the last two entries are severe"),
+    ],
+    "why": (
+        "Three quite different things sit in this chapter. It contains the only named opponent in the "
+        "entire Book of the Ones, attacked in unusually harsh terms. It contains four entries about who "
+        "lives happily and who lives in suffering under a good teaching and a bad one, which form a "
+        "small logical square and are among the shrewdest observations in the collection. And it ends "
+        "with two sentences comparing continued existence to excrement, which are as blunt as anything "
+        "the Buddha is recorded as saying and are worth neither softening nor skipping."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "A teaching that is well explained rewards effort and punishes idleness; a teaching that is "
+            "poorly explained does the reverse &mdash; and it matters which one a person has been given."]),
+        ("The one named opponent (AN 1.319)", [
+            "&ldquo;That futile man, the bamboo-staffed ascetic&rdquo; is Makkhali Gosāla, leader of "
+            "the Ājīvikas, whose teaching of strict fate the canon treats as the most damaging doctrine "
+            "in circulation. The simile is a trap set at the mouth of a river: he is a net across the "
+            "one channel everything has to pass through.",
+            "This is the harshest personal language in the Ones, and it is worth asking what earns it, "
+            "since the collection is elsewhere notably restrained about rival teachers. AN 3.61, on "
+            "this site, gives the answer: the doctrine attributed to him holds that beings are defiled "
+            "and purified without cause, that there is no act, no effort, no human initiative &mdash; "
+            "and the Buddha&rsquo;s objection there is precisely that anyone who accepts this has no "
+            "remaining reason to do or refrain from anything at all. The severity here is not about "
+            "disagreement. It is about a doctrine that, if believed, disables the person believing it.",
+            "A teacher using this passage should probably say that we know the Ājīvikas almost entirely "
+            "through the reports of their opponents, and that a movement described only by the people "
+            "arguing against it is unlikely to be described fairly."]),
+        ("The four entries on effort (AN 1.324&ndash;327)", [
+            "These four repay slow reading, because the pattern is counterintuitive until it clicks. In "
+            "a poorly explained teaching, an energetic person lives in suffering &mdash; and a lazy "
+            "person lives happily. In a well explained teaching, a lazy person lives in suffering "
+            "&mdash; and an energetic person lives happily.",
+            "The logic is exact. Effort applied to a system that does not work produces nothing but the "
+            "cost of the effort; the person who does not bother is spared that. Effort applied to a "
+            "system that does work produces results; the person who does not bother now has something "
+            "to regret. Whether diligence pays is therefore not a fact about diligence. It depends "
+            "entirely on the quality of what is being practiced.",
+            "That is an unusually candid thing for a tradition to say about itself, because it makes "
+            "the claim falsifiable in exactly the way AN 3.65 recommends. It also has an edge for "
+            "modern readers: the same four sentences apply to any discipline, any institution, and any "
+            "self-improvement scheme, and applying them is not a comfortable exercise."]),
+        ("Three parties, and moderation (AN 1.320&ndash;323)", [
+            "The surrounding entries extend the same logic. Under a poorly explained teaching, the "
+            "encourager, the encouraged, and the practitioner all accumulate wickedness &mdash; "
+            "including, notably, the one who was persuaded. Under a well explained one, all three "
+            "accumulate merit. Responsibility is distributed across the whole chain rather than resting "
+            "on the teacher alone.",
+            "AN 1.322&ndash;323 make a sharper practical point about giving. Under a poorly explained "
+            "teaching, the <em>donor</em> should know moderation, not the recipient; under a well "
+            "explained one, the <em>recipient</em> should, not the donor. It is a compact piece of "
+            "advice with two edges: give sparingly to what does not work, and if you are being given "
+            "to on the strength of a good teaching, the restraint required is yours."]),
+        ("A finger-snap of existence (AN 1.328&ndash;329)", [
+            "The chapter ends with two sentences that are startling in any context. Just as even a "
+            "little bit of excrement still stinks &mdash; and then urine, spit, pus, blood &mdash; so "
+            "the Buddha does not approve of even a little bit of continued existence, "
+            "<em>bhava</em>, not even for as long as a finger-snap.",
+            "Two things are worth saying. First, the phrase &ldquo;not even as long as a "
+            "finger-snap&rdquo; is the same measure used at AN 1.53 for a moment of love, and using it "
+            "here inverts that entry deliberately: the smallest unit that counted for good there counts "
+            "for bad here. Second, the object is <em>bhava</em>, continued existence, becoming &mdash; "
+            "not this life, not the body, and not the world. What is being refused is the process of "
+            "becoming something further, endlessly, which is the third link of dependent origination "
+            "and the thing extinguishment is the extinguishing of.",
+            "Even so, the image is deliberately disgusting and no amount of context makes it pleasant. "
+            "Readers who find this alienating are not misreading it. The Aṅguttara does not always "
+            "sound like the humane, moderate collection of the chapters on friendship and marriage, and "
+            "printing this entry beside those is more honest than choosing between them."]),
+    ],
+    "terms": [
+        ("Makkhali Gosāla",
+         "the &ldquo;bamboo-staffed ascetic&rdquo; of AN 1.319, leader of the Ājīvikas, whose doctrine "
+         "of strict fate the canon treats as the most damaging in circulation. Known to us almost "
+         "entirely through his opponents."),
+        ("svākkhāta / durakkhāta",
+         "&ldquo;well explained&rdquo; and &ldquo;poorly explained&rdquo; &mdash; said of a "
+         "<em>dhammavinaya</em>, a teaching-and-training taken as a whole system."),
+        ("āraddhavīriya / kusīta",
+         "&ldquo;energetic&rdquo; and &ldquo;lazy&rdquo; &mdash; the two persons run through both "
+         "systems in AN 1.324&ndash;327 to produce the chapter&rsquo;s logical square."),
+        ("mattaññutā",
+         "&ldquo;knowing moderation&rdquo; &mdash; which AN 1.322&ndash;323 assigns to the donor in one "
+         "case and to the recipient in the other."),
+        ("bhava",
+         "&ldquo;continued existence, becoming&rdquo; &mdash; the object of the closing similes. Not "
+         "this life or this body but the process of becoming something further; the third link of "
+         "dependent origination."),
+    ],
+    "text_intro": (
+        "All fourteen discourses of the chapter, in order. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Two individuals (AN 1.316&ndash;318)"),
+        ("p", "&sect;316", "an1.316"),
+        ("p", "&sect;317", "an1.317"),
+        ("p", "&sect;318", "an1.318"),
+        ("h3", "The trap at the mouth of the river (AN 1.319)"),
+        ("p", "&sect;319", "an1.319"),
+        ("h3", "Well and poorly explained (AN 1.320&ndash;327)"),
+        ("p", "&sect;320", "an1.320"),
+        ("p", "&sect;321", "an1.321"),
+        ("p", "&sect;322", "an1.322"),
+        ("p", "&sect;323", "an1.323"),
+        ("p", "&sect;324", "an1.324"),
+        ("p", "&sect;325", "an1.325"),
+        ("p", "&sect;326", "an1.326"),
+        ("p", "&sect;327", "an1.327"),
+        ("h3", "Not even a finger-snap (AN 1.328&ndash;329)"),
+        ("p", "&sect;328", "an1.328"),
+        ("p", "&sect;329", "an1.329"),
+    ],
+    "quiz": [
+        {"q": "Who is &ldquo;the bamboo-staffed ascetic&rdquo; of AN 1.319?",
+         "opts": [
+             "Devadatta",
+             "Makkhali Gosāla, leader of the Ājīvikas, whose teaching of strict fate the canon treats as the most damaging in circulation",
+             "A brahmin priest",
+             "An unnamed forest hermit"],
+         "correct": 1,
+         "expl": "The only named opponent in the entire Book of the Ones."},
+        {"q": "What simile is used of him?",
+         "opts": [
+             "A fire in dry grass",
+             "A trap set at the mouth of a river &mdash; a net across the one channel everything has to pass through",
+             "A stone in a shoe",
+             "A cloud covering the sun"],
+         "correct": 1,
+         "expl": "&ldquo;A trap for humans, it seems to me.&rdquo;"},
+        {"q": "What earns that severity, according to the guide?",
+         "opts": [
+             "Personal rivalry",
+             "A doctrine that, if believed, disables the person believing it &mdash; AN 3.61 shows the objection is that it leaves no reason to do or refrain from anything",
+             "His popularity",
+             "His refusal to debate"],
+         "correct": 1,
+         "expl": "The severity is not about disagreement."},
+        {"q": "What caution does the guide add about the Ājīvikas?",
+         "opts": [
+             "That they never existed",
+             "That we know them almost entirely through the reports of their opponents, and a movement described only by those arguing against it is unlikely to be described fairly",
+             "That they were a Buddhist sect",
+             "That their texts survive in full"],
+         "correct": 1,
+         "expl": "A standard historiographical caution, worth stating in class."},
+        {"q": "In a poorly explained teaching, who lives happily?",
+         "opts": [
+             "The energetic person",
+             "The lazy person &mdash; effort applied to a system that does not work produces nothing but the cost of the effort",
+             "Nobody",
+             "Only the teacher"],
+         "correct": 1,
+         "expl": "The person who does not bother is spared that cost."},
+        {"q": "In a well explained teaching, who lives in suffering?",
+         "opts": [
+             "The energetic person",
+             "The lazy person &mdash; who now has something to regret",
+             "The donor",
+             "Everyone equally"],
+         "correct": 1,
+         "expl": "Effort applied to a system that works produces results."},
+        {"q": "What does that square imply about diligence?",
+         "opts": [
+             "That diligence always pays",
+             "That diligence never pays",
+             "That whether diligence pays is not a fact about diligence &mdash; it depends entirely on the quality of what is being practiced",
+             "That diligence is a matter of temperament"],
+         "correct": 2,
+         "expl": "An unusually candid thing for a tradition to say about itself, and falsifiable in the way AN 3.65 recommends."},
+        {"q": "Who accumulates wickedness under a poorly explained teaching, per AN 1.320?",
+         "opts": [
+             "Only the teacher",
+             "The one who encourages, the one who is encouraged, and the one who practices accordingly",
+             "Only those who practice",
+             "Nobody, since they act in good faith"],
+         "correct": 1,
+         "expl": "Responsibility is distributed across the whole chain rather than resting on the teacher alone."},
+        {"q": "What does AN 1.322&ndash;323 say about moderation in giving?",
+         "opts": [
+             "Under a poorly explained teaching the donor should know moderation; under a well explained one the recipient should",
+             "The donor should always know moderation",
+             "The recipient should always know moderation",
+             "Moderation does not apply to giving"],
+         "correct": 0,
+         "expl": "Give sparingly to what does not work; and if you are being given to on the strength of a good teaching, the restraint required is yours."},
+        {"q": "What is the object of the closing similes about excrement?",
+         "opts": [
+             "The body",
+             "This present life",
+             "<em>Bhava</em> &mdash; continued existence, becoming; the process of becoming something further, not this life or this body",
+             "The world"],
+         "correct": 2,
+         "expl": "And the measure used &mdash; &ldquo;not even a finger-snap&rdquo; &mdash; deliberately inverts AN 1.53."},
+    ],
+    "marginalia": [
+        ("The square", [
+            "poor teaching, energetic &rarr; suffering",
+            "poor teaching, lazy &rarr; happy",
+            "good teaching, lazy &rarr; suffering",
+            "good teaching, energetic &rarr; happy",
+        ]),
+        ("The one opponent", [
+            "&ldquo;the bamboo-staffed ascetic&rdquo;",
+            "Makkhali Gosāla, of the Ājīvikas",
+            "a trap at the river mouth",
+            "known only through his opponents",
+        ]),
+        ("The last two", [
+            "<span class=\"pali\">bhava</span>continued existence",
+            "not even a finger-snap",
+            "&mdash; the same measure as AN 1.53",
+        ]),
+        ("Cross-references", [
+            "AN 3.61 &middot; the doctrine attacked",
+            "AN 1.51&ndash;60 &middot; a finger-snap of love",
+            "AN 3.65 &middot; how to tell the difference",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.316-332/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.61.html">AN 3.61 &middot; Sectarian Tenets</a> &mdash; the doctrine of strict '
+        "fate set out and refuted at length, which is what AN 1.319 is reacting to.",
+        '<a href="an-1.51-60.html">AN 1.51&ndash;60 &middot; A Finger-Snap</a> &mdash; where the '
+        "measure used in the closing similes was first used, of a moment of love, so that the "
+        "inversion can be felt.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the '
+        "collection&rsquo;s own answer to the question this chapter raises: how anyone is supposed to "
+        "tell a well explained teaching from a poorly explained one.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.333-377",
+    "index_pali": "Ekadhamma IV",
+    "nav_title": "Few and Many",
+    "source": "an1/an1.333-377",
+    "crumb": "AN 1.333&ndash;377",
+    "meta_title": "AN 1.333–377 — Few and Many | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Aṅguttara Nikāya's "
+        "chapter of proportions — forty-five discourses on one simile, the parks and lotus "
+        "ponds of the Rose-Apple Land against its stumps and thorns, applied to every stage "
+        "between hearing the teaching and living by it. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.333&ndash;377",
+    "title": "Few and Many",
+    "subtitle": "<em>Ekadhammapāḷi</em> &mdash; the twenty-seventh chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Forty-five discourses, most of them abbreviated into combined entries, all "
+                 "hanging on a single simile stated once at the head"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The same &ldquo;few&hellip; many&rdquo; comparisons using the "
+                              "Rose-Apple Land are found in the Chinese Saṁyukta-āgama (T99); this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; easy to follow; the difficulty is "
+                       "entirely in what it is like to be told this about oneself"),
+    ],
+    "why": (
+        "In the Rose-Apple Land, the Buddha says, the delightful parks and woods and lotus ponds are "
+        "few, and the hilly country, the impassable rivers, the stumps and thorns and rugged mountains "
+        "are many. He then applies that proportion to fifteen successive stages of a human life and "
+        "practice, and then to every possible transition between realms. The chapter is a sustained "
+        "argument that the good outcome is always the rare one &mdash; and it is one of the few places "
+        "in the collection where the reader is asked to locate themselves on a scale rather than to "
+        "learn something."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "At every stage from being born human to actually living by what one has understood, the "
+            "few who get through are vastly outnumbered by those who do not."]),
+        ("The simile, and the land it names", [
+            "<em>Jambudīpa</em>, the Rose-Apple or Black Plum Tree Land, is the southern continent of "
+            "Indian cosmology and in practice means the known inhabited world. The image is a "
+            "traveler&rsquo;s: the parks and ponds are the places one would want to be, and they are a "
+            "small fraction of a landscape mostly composed of terrain that is hard to cross.",
+            "The simile is stated once, at AN 1.333, and then carried by ellipsis through everything "
+            "that follows. That structure is worth noticing because it is the whole of the "
+            "chapter&rsquo;s rhetorical method: the proportion is fixed at the start and then applied, "
+            "without further argument, forty-five times."]),
+        ("The ladder (AN 1.333&ndash;347)", [
+            "The first fifteen entries form a sequence, and reading them as one is the point. Beings "
+            "born on land are few. Of those, humans are few. Of humans, those born where the teaching "
+            "is available are few. Of those, the ones able to tell what is well said from what is badly "
+            "said are few. Of those, the ones with the noble eye of wisdom are few. Of those, the ones "
+            "who get to see a Realized One are few &mdash; then the ones who get to hear the teaching, "
+            "then the ones who remember what they heard, then the ones who examine its meaning, then "
+            "the ones who understand and practice accordingly.",
+            "The last five turn inward: those moved by inspiring places, those who having been moved "
+            "actually strive, those who gain unification of mind by letting go, those who get the best "
+            "food, and finally those who get the essence of the meaning, the teaching, and freedom. "
+            "That final entry, alone in the chapter, ends with an instruction: <em>so you should train "
+            "like this: we will get the essence.</em>",
+            "The step that most repays attention is the one from understanding to practicing. Those "
+            "who understand the meaning and the teaching but do not practice in line with it are "
+            "explicitly the many. Everything upstream &mdash; the human birth, the accessible country, "
+            "the discernment, the hearing, the memory, the examination &mdash; can be in place and the "
+            "sequence still fails there. It is the only entry in the ladder where the obstacle is "
+            "neither circumstance nor capacity."]),
+        ("The transitions (AN 1.348&ndash;377)", [
+            "The remainder applies the same proportion to rebirth: of those who die as humans, few are "
+            "reborn as humans or gods and many in the three lower realms; and the same for those dying "
+            "as gods, in hell, as animals, and as ghosts. Thirty discourses, one pattern, uniformly "
+            "discouraging in every direction.",
+            "There is no softening available here and it would be dishonest to attempt one. This is the "
+            "canon at its most sobering about the odds, and the material has done real work "
+            "historically &mdash; the sense that a human birth is vanishingly rare and easily wasted is "
+            "one of the strongest motivators in Buddhist literature across every tradition, and it "
+            "comes from passages like this one.",
+            "For readers who do not hold a view about rebirth, the ladder in the first half survives "
+            "without it, and stands on its own as a description of how many people, at each stage, drop "
+            "out of any demanding undertaking. The transition entries are best presented as what they "
+            "are rather than translated into something more palatable."]),
+        ("How this lands, and how to teach it", [
+            "A chapter like this can be read two ways and a teacher should choose deliberately. Read as "
+            "a statement about other people, it produces exactly the complacency it is arguing "
+            "against &mdash; the listener quietly places themselves among the few. Read as a question "
+            "about oneself, it is uncomfortable in a useful way, because most readers of this page will "
+            "recognize themselves precisely at the step the chapter identifies: understanding the "
+            "meaning, and not practicing in line with it.",
+            "The single training instruction in the whole chapter is attached to the last entry, and it "
+            "is the only response the text offers. Not despair at the proportions, and not reassurance "
+            "about them: <em>we will get the essence</em>. That is worth pointing out explicitly, "
+            "because forty-five discourses of discouraging arithmetic ending in one instruction is a "
+            "structure, not an accident."]),
+    ],
+    "terms": [
+        ("Jambudīpa",
+         "the Rose-Apple or Black Plum Tree Land &mdash; the southern continent of Indian cosmology, in "
+         "practice the known inhabited world, and the setting of the chapter&rsquo;s single simile."),
+        ("majjhimesu janapadesu",
+         "&ldquo;in civilized countries&rdquo; &mdash; literally the middle country, meaning the region "
+         "where the teaching is available, as against the borderlands."),
+        ("ariya paññācakkhu",
+         "&ldquo;the noble eye of wisdom&rdquo; &mdash; the capacity named at AN 1.337, a stage above "
+         "merely being able to tell good speech from bad."),
+        ("saṁvega",
+         "the urgency or being-moved behind &ldquo;inspired by inspiring places&rdquo; &mdash; the "
+         "shock that turns a person toward practice, which AN 1.344 immediately distinguishes from "
+         "actually striving."),
+        ("sāra",
+         "&ldquo;essence, heartwood&rdquo; &mdash; what the final entry says few obtain: the essence of "
+         "the meaning, of the teaching, and of freedom. The one thing in the chapter with a training "
+         "instruction attached."),
+    ],
+    "text_intro": (
+        "All forty-five discourses of the chapter. Most paragraphs carry ranges rather than single "
+        "numbers because the canon abbreviates the repeated material heavily, and the opening simile is "
+        "stated once and then carried by ellipsis. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The ladder (AN 1.333&ndash;347)"),
+        ("p", "&sect;333", "an1.333"),
+        ("p", "&sect;334", "an1.334"),
+        ("p", "&sect;335", "an1.335"),
+        ("p", "&sect;336", "an1.336"),
+        ("p", "&sect;337", "an1.337"),
+        ("p", "&sect;338", "an1.338"),
+        ("p", "&sect;339", "an1.339"),
+        ("p", "&sect;340", "an1.340"),
+        ("p", "&sect;341", "an1.341"),
+        ("p", "&sect;342", "an1.342"),
+        ("p", "&sect;343", "an1.343"),
+        ("p", "&sect;344", "an1.344"),
+        ("p", "&sect;345", "an1.345"),
+        ("p", "&sect;346", "an1.346"),
+        ("p", "&sect;347", "an1.347"),
+        ("h3", "The transitions (AN 1.348&ndash;377)"),
+        ("p", "&sect;348&ndash;350", "an1.348-350"),
+        ("p", "&sect;351&ndash;353", "an1.351-353"),
+        ("p", "&sect;354&ndash;356", "an1.354-356"),
+        ("p", "&sect;357&ndash;359", "an1.357-359"),
+        ("p", "&sect;360&ndash;362", "an1.360-362"),
+        ("p", "&sect;363&ndash;365", "an1.363-365"),
+        ("p", "&sect;366&ndash;368", "an1.366-368"),
+        ("p", "&sect;369&ndash;371", "an1.369-371"),
+        ("p", "&sect;372&ndash;374", "an1.372-374"),
+        ("p", "&sect;375&ndash;377", "an1.375-377"),
+    ],
+    "quiz": [
+        {"q": "What is the single simile the whole chapter hangs on?",
+         "opts": [
+             "A lump of salt in a cup of water",
+             "In the Rose-Apple Land the delightful parks, woods, meadows, and lotus ponds are few, while the hilly terrain, impassable riverlands, stumps and thorns, and rugged mountains are many",
+             "A rice spike pointing the wrong way",
+             "A seed planted in moist earth"],
+         "correct": 1,
+         "expl": "Stated once at AN 1.333 and then carried by ellipsis forty-five times."},
+        {"q": "What is Jambudīpa?",
+         "opts": [
+             "A monastery near Sāvatthī",
+             "The southern continent of Indian cosmology, in practice the known inhabited world",
+             "A heavenly realm",
+             "The Buddha&rsquo;s home village"],
+         "correct": 1,
+         "expl": "The image is a traveler's: the good ground is a small fraction of the landscape."},
+        {"q": "Which step in the ladder does the guide say most repays attention?",
+         "opts": [
+             "Being born human",
+             "Being born where the teaching is available",
+             "The step from understanding the meaning to practicing in line with it &mdash; the only one where the obstacle is neither circumstance nor capacity",
+             "Getting the best food"],
+         "correct": 2,
+         "expl": "Everything upstream can be in place and the sequence still fails there."},
+        {"q": "What does <em>saṁvega</em> name, and what does AN 1.344 add to it?",
+         "opts": [
+             "The urgency that turns a person toward practice &mdash; and AN 1.344 immediately distinguishes being moved from actually striving",
+             "A meditative absorption",
+             "A monastic ceremony",
+             "The moment of stream-entry"],
+         "correct": 0,
+         "expl": "Being inspired and then not striving effectively is its own category of the many."},
+        {"q": "What do AN 1.348&ndash;377 apply the proportion to?",
+         "opts": [
+             "The classification of monastic offenses",
+             "Every possible transition between realms at death &mdash; from human, god, hell, animal, and ghost, in each case few upward and many downward",
+             "The seven awakening factors",
+             "The ten recollections"],
+         "correct": 1,
+         "expl": "Thirty discourses, one pattern, uniformly discouraging in every direction."},
+        {"q": "What historical work has this material done?",
+         "opts": [
+             "It has been used to argue against practice",
+             "The sense that a human birth is vanishingly rare and easily wasted &mdash; one of the strongest motivators in Buddhist literature across every tradition &mdash; comes from passages like this",
+             "It has been used mainly in Vinaya disputes",
+             "It has been largely ignored"],
+         "correct": 1,
+         "expl": "There is no softening available and it would be dishonest to attempt one."},
+        {"q": "What survives for a reader who does not hold a view about rebirth?",
+         "opts": [
+             "Nothing in the chapter",
+             "The ladder in the first half, which stands on its own as a description of how many people drop out of any demanding undertaking at each stage",
+             "Only the simile",
+             "Only the final instruction"],
+         "correct": 1,
+         "expl": "The transition entries are best presented as what they are rather than translated into something more palatable."},
+        {"q": "What is the risk of reading the chapter as a statement about other people?",
+         "opts": [
+             "It produces exactly the complacency it is arguing against &mdash; the listener quietly places themselves among the few",
+             "It makes the text unintelligible",
+             "It contradicts the Pāli",
+             "There is no risk"],
+         "correct": 0,
+         "expl": "Read as a question about oneself it is uncomfortable in a useful way."},
+        {"q": "Where is the chapter&rsquo;s single training instruction, and what is it?",
+         "opts": [
+             "At the start: &ldquo;we will be born human&rdquo;",
+             "In the middle: &ldquo;we will hear the teaching&rdquo;",
+             "At the end of AN 1.347: &ldquo;we will get the essence of the meaning, the essence of the teaching, the essence of freedom&rdquo;",
+             "There is no instruction"],
+         "correct": 2,
+         "expl": "Forty-five discourses of discouraging arithmetic ending in one instruction is a structure, not an accident."},
+        {"q": "What does <em>sāra</em> mean?",
+         "opts": [
+             "&ldquo;Essence, heartwood&rdquo; &mdash; what the final entry says few obtain, of the meaning, the teaching, and freedom",
+             "&ldquo;Effort&rdquo;",
+             "&ldquo;Rebirth&rdquo;",
+             "&ldquo;Discernment&rdquo;"],
+         "correct": 0,
+         "expl": "The one thing in the chapter with a training instruction attached to it."},
+    ],
+    "marginalia": [
+        ("The ladder", [
+            "born on land &middot; born human",
+            "born where the teaching is",
+            "able to tell good speech from bad",
+            "the noble eye of wisdom",
+            "seeing &middot; hearing &middot; remembering",
+            "examining the meaning",
+            "practicing accordingly",
+        ]),
+        ("The hinge", [
+            "understanding and not practicing",
+            "&mdash; the many",
+            "neither circumstance nor capacity",
+        ]),
+        ("The one instruction", [
+            "<span class=\"pali\">sāra</span>essence, heartwood",
+            "&ldquo;we will get the essence&rdquo;",
+            "at the end of forty-five",
+        ]),
+        ("Cross-references", [
+            "AN 1.378&ndash;393 &middot; next",
+            "AN 1.170&ndash;187 &middot; how rare the appearance",
+            "AN 1.98&ndash;139 &middot; if the teaching is lost",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.333-377/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, and with the abbreviated "
+        "passages shown in their canonical form." % SC,
+        '<a href="an-1.170-187.html">AN 1.170&ndash;187 &middot; One Individual</a> &mdash; the other '
+        "side of the same arithmetic: how rare the appearance of a Buddha is said to be, and what "
+        "becomes available with it.",
+        '<a href="an-5.57.html">AN 5.57 &middot; Subjects for Regular Reviewing</a> &mdash; the same '
+        "urgency delivered as a daily practice rather than as a set of proportions.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# The closing chapters of the Ones — AN 1.378–627
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.378-393",
+    "index_pali": "Pasādakaradhamma",
+    "nav_title": "Inspiring Qualities",
+    "source": "an1/an1.378-393",
+    "crumb": "AN 1.378&ndash;393",
+    "meta_title": "AN 1.378–393 — Inspiring Qualities | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pasādakaradhammavagga, the shortest chapter in the Aṅguttara Nikāya — sixteen things "
+        "the Buddha says are worth having, from living in the wilderness to being handsome and "
+        "healthy. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.378&ndash;393",
+    "title": "Inspiring Qualities",
+    "subtitle": "<em>Pasādakaradhammavagga</em> &mdash; the twenty-eighth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Sixteen discourses of a few words each, transmitted as one sentence with sixteen "
+                 "substitutions &mdash; the most compressed chapter in the collection"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable short lists of commendable monastic qualities appear across "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; seventy-five words of text, and one "
+                       "genuine puzzle about what they are doing together"),
+    ],
+    "why": (
+        "This is the shortest chapter in the Book of the Ones and one of the strangest. Sixteen things "
+        "are declared &ldquo;definitely something worth having&rdquo;: living in the wilderness, eating "
+        "only almsfood, wearing rag robes, having three robes, teaching, knowing the monastic law, "
+        "being learned, being respected, being well-presented, having a following, having a large "
+        "following, coming from a good family, being handsome, enunciating well, having few wishes, and "
+        "being healthy. Ascetic practices and social advantages on one list, with no distinction drawn "
+        "between them. The chapter&rsquo;s name explains the puzzle, and Sujato&rsquo;s English title "
+        "gives it away: these are the things that inspire confidence in other people."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Sixteen things about a monastic &mdash; some of them attainments, some of them "
+            "circumstances, some of them simply appearances &mdash; are worth having, because of what "
+            "they do to the people watching."]),
+        ("The puzzle, and the chapter&rsquo;s name", [
+            "Read as a list of virtues, this chapter makes no sense. Wearing rag robes and being "
+            "handsome do not belong to the same category; having few wishes and having a large "
+            "following look like opposites; and the collection has spent hundreds of entries "
+            "distinguishing attainments from circumstances only to run them together here.",
+            "The Pāli chapter name resolves it. <em>Pasādakaradhamma</em>: things that produce "
+            "<em>pasāda</em> &mdash; confidence, clarity, the settled brightening of mind that happens "
+            "when one sees something admirable. The list is not a ranking of what makes a monastic good. "
+            "It is a list of what makes a monastic <em>inspire confidence in others</em>, which is a "
+            "different question with a different answer.",
+            "Seen that way every entry fits. A forest-dwelling monk in rag robes inspires confidence "
+            "because the renunciation is visible. A learned one inspires confidence because they can "
+            "answer. One with a large following inspires confidence because others have already "
+            "judged. And a healthy, well-presented, well-spoken monastic from a respectable family "
+            "inspires confidence for reasons that have nothing to do with attainment at all &mdash; "
+            "which the chapter neither denies nor apologizes for."]),
+        ("An unusually frank piece of realism", [
+            "It is worth dwelling on how candid this is. The chapter says, without embarrassment, that "
+            "appearance and social standing affect whether people trust a teacher. It does not claim "
+            "this is how things ought to be. It does not claim these qualities indicate attainment. It "
+            "observes that they produce confidence, and says confidence is worth producing.",
+            "That is a more mature position than either of the two available alternatives. Pretending "
+            "presentation does not matter is false, and anyone who has watched a community respond to "
+            "two teachers of equal understanding and unequal bearing knows it is false. Concluding that "
+            "presentation is all that matters is worse. The chapter takes the third option: name the "
+            "effect, put it on a list, and let it sit beside rag robes without comment.",
+            "There is an edge here for anyone who teaches. If these things genuinely affect whether "
+            "people can receive what you have to offer, then attending to them is not vanity, and "
+            "neglecting them on principle is not humility &mdash; it is a decision about someone "
+            "else&rsquo;s access, made on their behalf."]),
+        ("What is not being claimed", [
+            "Two guardrails are worth stating, because the chapter is short enough to be quoted "
+            "carelessly. First, nothing here says these qualities produce awakening; the word used is "
+            "<em>worth having</em>, not <em>leads to extinguishment</em>, which the collection uses "
+            "elsewhere when it means that. Second, the list includes both few wishes and a large "
+            "following, which is a fair signal that the entries are not meant to be pursued as a set.",
+            "The Aṅguttara elsewhere is entirely capable of warning about the same qualities. Gain, "
+            "honor, and popularity are treated in several places as a serious hazard to a practitioner, "
+            "and being widely admired is nowhere presented as safe. Both attitudes are in the "
+            "collection, and the resolution is not that one cancels the other but that they answer "
+            "different questions: what helps others trust the teaching, and what endangers the person "
+            "being trusted."]),
+        ("A one-minute chapter", [
+            "Practically, this is the fastest page in the series to teach, and it works best paired "
+            "with something. Read beside the foremost-disciple chapters it is illuminating: half of "
+            "these sixteen items appear there as somebody&rsquo;s distinguishing mark, including the "
+            "charming voice, the eminent family, and the large congregation. What the etadagga list "
+            "records as facts about particular people, this chapter states as a general principle."]),
+    ],
+    "terms": [
+        ("pasāda",
+         "&ldquo;confidence, clarity, brightening&rdquo; &mdash; the settled response to seeing "
+         "something admirable. The chapter is named for what produces it."),
+        ("araññika",
+         "&ldquo;wilderness-dweller&rdquo; &mdash; the first item, and one of a group of optional "
+         "ascetic practices that also supplies almsfood-eating, rag robes, and the three-robe limit."),
+        ("appicchatā",
+         "&ldquo;having few wishes&rdquo; &mdash; the fifteenth item, sitting on the same list as "
+         "having a large following, which is a fair signal the entries are not a set to be pursued "
+         "together."),
+        ("lābhasakkārasiloka",
+         "&ldquo;gain, honor, and popularity&rdquo; &mdash; treated elsewhere in the Aṅguttara as a "
+         "serious hazard, and the reason this chapter should not be read as unqualified endorsement."),
+        ("dhammakathika, vinayadhara, bahussuta",
+         "teaching, knowing the monastic law, and being very learned &mdash; three items here that are "
+         "also, in the foremost chapters, particular disciples&rsquo; distinguishing marks."),
+    ],
+    "text_intro": (
+        "All sixteen discourses of the chapter, which the canon transmits as one sentence with sixteen "
+        "substitutions. It is the shortest chapter in the Book of the Ones. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Ascetic practice (AN 1.378&ndash;381)"),
+        ("p", "&sect;378", "an1.378"),
+        ("p", "&sect;379", "an1.379"),
+        ("p", "&sect;380", "an1.380"),
+        ("p", "&sect;381", "an1.381"),
+        ("h3", "Learning and standing (AN 1.382&ndash;388)"),
+        ("p", "&sect;382", "an1.382"),
+        ("p", "&sect;383", "an1.383"),
+        ("p", "&sect;384", "an1.384"),
+        ("p", "&sect;385", "an1.385"),
+        ("p", "&sect;386", "an1.386"),
+        ("p", "&sect;387", "an1.387"),
+        ("p", "&sect;388", "an1.388"),
+        ("h3", "Birth, bearing, and health (AN 1.389&ndash;393)"),
+        ("p", "&sect;389", "an1.389"),
+        ("p", "&sect;390", "an1.390"),
+        ("p", "&sect;391", "an1.391"),
+        ("p", "&sect;392", "an1.392"),
+        ("p", "&sect;393", "an1.393"),
+    ],
+    "quiz": [
+        {"q": "What does the chapter&rsquo;s Pāli name, <em>pasādakaradhamma</em>, mean?",
+         "opts": [
+             "&ldquo;Things that lead to awakening&rdquo;",
+             "&ldquo;Things that produce <em>pasāda</em>&rdquo; &mdash; confidence, clarity, the brightening of mind on seeing something admirable",
+             "&ldquo;Things that must be renounced&rdquo;",
+             "&ldquo;Things forbidden to monastics&rdquo;"],
+         "correct": 1,
+         "expl": "Which resolves the whole puzzle of what the sixteen items are doing together."},
+        {"q": "Why does the list make no sense read as a ranking of virtues?",
+         "opts": [
+             "Because it is too short",
+             "Because wearing rag robes and being handsome do not belong to the same category, and few wishes and a large following look like opposites",
+             "Because the items are unrelated to monastic life",
+             "Because it contradicts the Vinaya"],
+         "correct": 1,
+         "expl": "The collection has spent hundreds of entries distinguishing attainments from circumstances, only to run them together here."},
+        {"q": "Why does a monastic with a large following inspire confidence, on this reading?",
+         "opts": [
+             "Because size proves attainment",
+             "Because others have already judged",
+             "Because followings are required by the Vinaya",
+             "Because it indicates good health"],
+         "correct": 1,
+         "expl": "Each entry produces confidence by a different route, and the chapter does not rank the routes."},
+        {"q": "What does the chapter candidly acknowledge?",
+         "opts": [
+             "That appearance and social standing affect whether people trust a teacher &mdash; without claiming this is how things ought to be, or that these qualities indicate attainment",
+             "That only ascetics deserve trust",
+             "That appearance is irrelevant",
+             "That teaching should be anonymous"],
+         "correct": 0,
+         "expl": "It observes that they produce confidence, and says confidence is worth producing."},
+        {"q": "What third option does the guide say the chapter takes?",
+         "opts": [
+             "Pretending presentation does not matter",
+             "Concluding presentation is all that matters",
+             "Naming the effect, putting it on a list, and letting it sit beside rag robes without comment",
+             "Refusing to discuss the question"],
+         "correct": 2,
+         "expl": "A more mature position than either alternative."},
+        {"q": "What edge does the guide draw for anyone who teaches?",
+         "opts": [
+             "That attending to these things is vanity",
+             "That neglecting them on principle is humility",
+             "That if these things affect whether people can receive what you offer, attending to them is not vanity and neglecting them is a decision about someone else&rsquo;s access made on their behalf",
+             "That teachers should avoid public settings"],
+         "correct": 2,
+         "expl": "A consequence of taking the chapter's premise seriously."},
+        {"q": "What phrase does the chapter use, and what does it deliberately not use?",
+         "opts": [
+             "It says these things are &ldquo;worth having,&rdquo; not that they &ldquo;lead to extinguishment,&rdquo; which the collection uses elsewhere when it means that",
+             "It says these things lead to extinguishment",
+             "It says these things are required",
+             "It makes no claim at all"],
+         "correct": 0,
+         "expl": "A guardrail worth stating, since the chapter is short enough to be quoted carelessly."},
+        {"q": "What internal signal shows the entries are not meant to be pursued as a set?",
+         "opts": [
+             "The chapter is unnumbered",
+             "The list includes both few wishes and a large following",
+             "The entries are in random order",
+             "There are exactly sixteen"],
+         "correct": 1,
+         "expl": "They are not compatible as a personal program."},
+        {"q": "How does the Aṅguttara elsewhere treat gain, honor, and popularity?",
+         "opts": [
+             "As unambiguously good",
+             "As a serious hazard to a practitioner",
+             "As irrelevant",
+             "It does not mention them"],
+         "correct": 1,
+         "expl": "Both attitudes are in the collection, answering different questions."},
+        {"q": "What does this chapter share with the foremost-disciple chapters?",
+         "opts": [
+             "Nothing",
+             "Half of these sixteen items appear there as somebody&rsquo;s distinguishing mark &mdash; the charming voice, the eminent family, the large congregation",
+             "The same speaker and audience only",
+             "Identical wording throughout"],
+         "correct": 1,
+         "expl": "What the etadagga list records as facts about particular people, this chapter states as a general principle."},
+    ],
+    "marginalia": [
+        ("Sixteen things", [
+            "wilderness &middot; almsfood",
+            "rag robes &middot; three robes",
+            "teaching &middot; the monastic law",
+            "learning &middot; being respected",
+            "presentation &middot; a following",
+            "a large following &middot; good family",
+            "looks &middot; enunciation",
+            "few wishes &middot; health",
+        ]),
+        ("The key", [
+            "<span class=\"pali\">pasāda</span>confidence, brightening",
+            "not: what makes one good",
+            "but: what makes others trust",
+        ]),
+        ("Guardrails", [
+            "&ldquo;worth having&rdquo;",
+            "not &ldquo;leads to extinguishment&rdquo;",
+            "few wishes and a large following",
+            "&mdash; not a program",
+        ]),
+        ("Cross-references", [
+            "AN 1.188&ndash;234 &middot; the same items, as people",
+            "AN 1.394&ndash;574 &middot; next",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.378-393/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.188-197.html">AN 1.188&ndash;197 &middot; Foremost Monks (I)</a> &mdash; where '
+        "half the items on this list appear as particular disciples&rsquo; distinguishing marks rather "
+        "than as a general principle.",
+        '<a href="an-1.61-70.html">AN 1.61&ndash;70 &middot; Arousing Energy</a> &mdash; where few '
+        "wishes, one of this chapter&rsquo;s sixteen, is treated as a factor in a practice rather than "
+        "as something that inspires onlookers.",
+    ],
+})
+
+
+def _run(first, last):
+    """One text paragraph per discourse across an inclusive range."""
+    return [("p", "&sect;%d" % n, "an1.%d" % n) for n in range(first, last + 1)]
+
+
+_AN394_TEXT = (
+    [("h3", "The four absorptions and the four immeasurables (AN 1.394&ndash;401)")]
+    + _run(394, 401)
+    + [("h3", "The four kinds of mindfulness meditation (AN 1.402&ndash;405)")]
+    + _run(402, 405)
+    + [("h3", "The four right efforts (AN 1.406&ndash;409)")]
+    + _run(406, 409)
+    + [("h3", "The four bases of psychic power (AN 1.410&ndash;413)")]
+    + _run(410, 413)
+    + [("h3", "The five faculties and the five powers (AN 1.414&ndash;423)")]
+    + _run(414, 423)
+    + [("h3", "The seven awakening factors (AN 1.424&ndash;430)")]
+    + _run(424, 430)
+    + [("h3", "The noble eightfold path (AN 1.431&ndash;438)")]
+    + _run(431, 438)
+    + [("h3", "The eight dimensions of mastery (AN 1.439&ndash;446)")]
+    + _run(439, 446)
+    + [("h3", "The eight liberations (AN 1.447&ndash;454)")]
+    + _run(447, 454)
+    + [("h3", "The ten universal meditations (AN 1.455&ndash;464)")]
+    + _run(455, 464)
+    + [("h3", "Twenty perceptions (AN 1.465&ndash;484)")]
+    + _run(465, 484)
+    + [("h3", "The ten recollections (AN 1.485&ndash;494)")]
+    + _run(485, 494)
+    + [("h3", "Faculties and powers, with each absorption and immeasurable (AN 1.495&ndash;574)")]
+    + _run(495, 504)
+    + [("p", "&sect;505&ndash;514", "an1.505-514"),
+       ("p", "&sect;515&ndash;524", "an1.515-524"),
+       ("p", "&sect;525&ndash;534", "an1.525-534"),
+       ("p", "&sect;535&ndash;544", "an1.535-544"),
+       ("p", "&sect;545&ndash;554", "an1.545-554"),
+       ("p", "&sect;555&ndash;564", "an1.555-564")]
+    + _run(565, 574)
+)
+
+
+PAGES.append({
+    "slug": "an-1.394-574",
+    "index_pali": "Aparaaccharāsaṅghāta",
+    "nav_title": "Another Finger-Snap",
+    "source": "an1/an1.394-574",
+    "crumb": "AN 1.394&ndash;574",
+    "meta_title": "AN 1.394–574 — Another Finger-Snap | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the "
+        "Aparaaccharāsaṅghātavagga — a hundred and eighty-one discourses that run the entire "
+        "meditation curriculum of the canon past the reader, saying of each item that a "
+        "finger-snap of it is already worth something. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.394&ndash;574",
+    "title": "Another Finger-Snap",
+    "subtitle": "<em>Aparaaccharāsaṅghātavagga</em> &mdash; the twenty-ninth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A hundred and eighty-one discourses on one sentence, with the meditation object "
+                 "substituted each time; the largest chapter in the Book of the Ones by a wide margin"),
+        ("Length", "~8 minutes to read"),
+        ("Northern parallel", "The lists this chapter runs through &mdash; the thirty-seven qualities "
+                              "conducive to awakening, the liberations, the universal meditations, the "
+                              "perceptions &mdash; are shared across all the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; every sentence is easy and the "
+                       "whole is not: this chapter names most of the technical meditation vocabulary "
+                       "in the canon in one pass"),
+    ],
+    "why": (
+        "AN 1.53 said that a mendicant who cultivates a mind of love for no longer than a finger-snap "
+        "is already one who does not eat the country&rsquo;s alms in vain. This chapter takes that "
+        "sentence and substitutes into it, a hundred and eighty-one times, every item in the "
+        "canon&rsquo;s meditation curriculum: the absorptions, the immeasurables, the four kinds of "
+        "mindfulness meditation, the right efforts, the bases of psychic power, the faculties, the "
+        "powers, the awakening factors, the eightfold path, the dimensions of mastery, the "
+        "liberations, the universal meditations, twenty perceptions, and the ten recollections. Read "
+        "as devotional literature it is repetitive to the point of absurdity. Read as what it is "
+        "&mdash; a complete syllabus, with an unusually generous entry requirement attached to every "
+        "line &mdash; it is one of the most useful pages in the collection."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "A moment of any practice in the canon&rsquo;s entire repertoire already counts &mdash; and "
+            "here is the entire repertoire."]),
+        ("What the chapter actually is", [
+            "This is a syllabus. Reading the section headings in the text tab is the fastest tour "
+            "available of what the early canon considers to be meditation, and it is broader than most "
+            "presentations suggest. Alongside the familiar &mdash; breath, body, the four absorptions, "
+            "the four immeasurables, the eightfold path &mdash; it contains material that rarely "
+            "appears in modern teaching at all: the eight dimensions of mastery, the eight liberations, "
+            "the ten universal meditations on the elements and colors, and a set of twenty perceptions "
+            "that includes the repulsiveness of food and four kinds of corpse.",
+            "The thirty-seven qualities conducive to awakening are all here, in their standard order: "
+            "four kinds of mindfulness meditation, four right efforts, four bases of psychic power, "
+            "five faculties, five powers, seven awakening factors, eight path factors. Anyone learning "
+            "that framework can use AN 1.402&ndash;438 as its table of contents.",
+            "Then the last eighty entries do something else again: they pair each of the five faculties "
+            "and five powers with each of the four absorptions and the four immeasurables in turn. "
+            "That is combinatorial rather than expository, and it is the clearest surviving glimpse in "
+            "the Ones of how this literature was actually generated and held in memory."]),
+        ("The entry requirement", [
+            "Every one of the hundred and eighty-one entries ends the same way: such a mendicant is "
+            "called one who does not lack absorption, who follows the Teacher&rsquo;s instructions, who "
+            "responds to advice, and who does not eat the country&rsquo;s alms in vain &mdash; "
+            "<em>how much more so those who make much of it</em>.",
+            "The generosity of that is easy to underestimate because it is repeated so often. The "
+            "chapter includes the fourth absorption and the dimension of neither perception nor "
+            "non-perception, attainments the canon treats as extremely difficult; and it says of them "
+            "what it says of everything else, that a finger-snap counts. There is no threshold, no "
+            "minimum duration, and no qualification by attainment. The bar is set at the smallest "
+            "measurable unit and then the same sentence is applied to the highest items on the list.",
+            "The closing clause keeps this from being an excuse, exactly as it did at AN 1.53. It does "
+            "not say a finger-snap is enough. It says a finger-snap already counts, and that more "
+            "counts more."]),
+        ("How to use a chapter this long", [
+            "Nobody reads a hundred and eighty-one near-identical sentences straight through, and "
+            "nothing is gained by pretending otherwise. Three uses are realistic.",
+            "As an index: skim the section headings, find the items you have never heard of, and go "
+            "look them up. Most readers will find several. As a corrective: notice how much of the "
+            "curriculum is missing from whatever you were taught, and ask whether that was a choice or "
+            "an accident of lineage. And as a reassurance: the chapter is unusually good to reach for "
+            "on a day when practice has consisted of ninety seconds before being interrupted.",
+            "For a class, reading four or five entries from widely separated parts of the chapter "
+            "&mdash; the first absorption, a right effort, the perception of a bloated corpse, the "
+            "power of wisdom with the third absorption &mdash; conveys the structure faster than "
+            "reading fifty consecutive ones."]),
+        ("A note on the strange entries", [
+            "Some of what is listed here will read as alien, and it is better to say so than to "
+            "pretend the canon is uniformly modern in temperament. The universal meditations on blue, "
+            "yellow, red, and white are a technology of concentration with almost no presence in "
+            "contemporary practice. The four corpse perceptions &mdash; the skeleton, the worm-infested "
+            "body, the livid body, the bloated body &mdash; belong to the same family as the "
+            "contemplation of ugliness discussed at AN 1.16, with the same warnings attached.",
+            "Their presence is informative in itself. The canon&rsquo;s repertoire was wider than what "
+            "any single later tradition kept, and every tradition that came afterward selected from it. "
+            "Knowing what was selected <em>from</em> is part of understanding what one has been given."]),
+    ],
+    "terms": [
+        ("accharāsaṅghāta",
+         "&ldquo;a finger-snap&rdquo; &mdash; the unit of duration attached to every entry, and the "
+         "chapter&rsquo;s name. <em>Apara</em>, &ldquo;another,&rdquo; marks it as the second chapter "
+         "so named, after AN 1.51&ndash;60."),
+        ("bodhipakkhiyā dhammā",
+         "the thirty-seven qualities conducive to awakening &mdash; four kinds of mindfulness "
+         "meditation, four right efforts, four bases of psychic power, five faculties, five powers, "
+         "seven awakening factors, eight path factors. AN 1.402&ndash;438 is their table of contents."),
+        ("abhibhāyatana",
+         "&ldquo;dimensions of mastery&rdquo; &mdash; the eight, at AN 1.439&ndash;446: exercises in "
+         "governing perception of form rather than being governed by it."),
+        ("kasiṇa",
+         "&ldquo;universal meditation&rdquo; &mdash; the ten, on earth, water, fire, air, the four "
+         "colors, space, and consciousness. A technology of concentration with almost no presence in "
+         "contemporary practice."),
+        ("arittajjhāna",
+         "&ldquo;not lacking absorption&rdquo; &mdash; the phrase every entry ends on, carried over "
+         "from AN 1.53, and the reason the chapter is generous rather than merely long."),
+    ],
+    "text_intro": (
+        "All one hundred and eighty-one discourses of the chapter. The Pāli states the sentence once "
+        "and substitutes the meditation object each time, which Sujato preserves with ellipses; six "
+        "paragraphs near the end carry ranges because the canon abbreviates them further. The section "
+        "headings below are added by this guide to make the syllabus legible. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    "text": _AN394_TEXT,
+    "quiz": [
+        {"q": "What sentence does this chapter substitute into, a hundred and eighty-one times?",
+         "opts": [
+             "&ldquo;I do not see a single thing&hellip;&rdquo;",
+             "The finger-snap formula of AN 1.53 &mdash; such a mendicant does not lack absorption, follows the Teacher&rsquo;s instructions, responds to advice, and does not eat the country&rsquo;s alms in vain",
+             "&ldquo;It is impossible, it cannot happen&hellip;&rdquo;",
+             "&ldquo;The foremost of my disciples&hellip;&rdquo;"],
+         "correct": 1,
+         "expl": "<em>Apara</em>, &ldquo;another,&rdquo; marks this as the second finger-snap chapter."},
+        {"q": "What does the guide say the chapter actually is?",
+         "opts": [
+             "A devotional litany",
+             "A syllabus &mdash; the fastest tour available of what the early canon considers meditation to be",
+             "A list of monastic rules",
+             "A commentary on earlier chapters"],
+         "correct": 1,
+         "expl": "And it is broader than most presentations of Buddhist meditation suggest."},
+        {"q": "Which framework do AN 1.402&ndash;438 lay out in standard order?",
+         "opts": [
+             "The five hindrances and their antidotes",
+             "The ten recollections",
+             "The thirty-seven qualities conducive to awakening &mdash; four kinds of mindfulness meditation, four right efforts, four bases of psychic power, five faculties, five powers, seven awakening factors, eight path factors",
+             "The eight liberations"],
+         "correct": 2,
+         "expl": "Anyone learning that framework can use this stretch as its table of contents."},
+        {"q": "What do the last eighty entries do?",
+         "opts": [
+             "Repeat the earlier entries without change",
+             "Pair each of the five faculties and five powers with each of the four absorptions and four immeasurables in turn",
+             "List the foremost disciples again",
+             "Return to the five hindrances"],
+         "correct": 1,
+         "expl": "Combinatorial rather than expository &mdash; the clearest glimpse in the Ones of how this literature was generated and held in memory."},
+        {"q": "What is remarkable about applying the finger-snap formula across this whole list?",
+         "opts": [
+             "That it excludes the difficult attainments",
+             "That it applies only to monastics of long standing",
+             "That it includes the fourth absorption and the dimension of neither perception nor non-perception, and says of them what it says of everything else",
+             "That it requires a minimum of one hour"],
+         "correct": 2,
+         "expl": "No threshold, no minimum duration, no qualification by attainment."},
+        {"q": "What keeps that from being an excuse to do the minimum?",
+         "opts": [
+             "A penalty attached for insufficient effort",
+             "The closing clause &mdash; &ldquo;how much more so those who make much of it&rdquo;",
+             "A restriction to the first absorption",
+             "Nothing; the chapter is an excuse"],
+         "correct": 1,
+         "expl": "It does not say a finger-snap is enough; it says a finger-snap already counts."},
+        {"q": "Which three realistic uses does the guide propose for a chapter this long?",
+         "opts": [
+             "As an index of practices to look up, as a corrective showing how much of the curriculum one was never taught, and as a reassurance on a day when practice lasted ninety seconds",
+             "As a daily recitation, a memorization test, and a chant",
+             "As a monastic rule, a lay vow, and a liturgy",
+             "As history, biography, and cosmology"],
+         "correct": 0,
+         "expl": "Nobody reads a hundred and eighty-one near-identical sentences straight through."},
+        {"q": "What are the <em>kasiṇa</em> meditations?",
+         "opts": [
+             "Contemplations of the body&rsquo;s parts",
+             "Ten universal meditations &mdash; on earth, water, fire, air, four colors, space, and consciousness",
+             "The four immeasurables",
+             "The eight liberations"],
+         "correct": 1,
+         "expl": "A technology of concentration with almost no presence in contemporary practice."},
+        {"q": "What does the guide say about the alien-seeming entries, such as the corpse perceptions?",
+         "opts": [
+             "That they should be removed from the canon",
+             "That it is better to say plainly that they read as alien than to pretend the canon is uniformly modern in temperament",
+             "That they are the most important part",
+             "That they were added by later editors"],
+         "correct": 1,
+         "expl": "They belong to the same family as the contemplation of ugliness at AN 1.16, with the same warnings."},
+        {"q": "Why does the guide say their presence is informative?",
+         "opts": [
+             "Because they prove the canon&rsquo;s antiquity",
+             "Because the canon&rsquo;s repertoire was wider than what any later tradition kept, and knowing what was selected <em>from</em> is part of understanding what one has been given",
+             "Because they are the only original practices",
+             "Because they are practiced everywhere today"],
+         "correct": 1,
+         "expl": "Every tradition that came afterward selected from this list."},
+    ],
+    "marginalia": [
+        ("The syllabus", [
+            "4 absorptions &middot; 4 immeasurables",
+            "4 mindfulness &middot; 4 right efforts",
+            "4 bases of psychic power",
+            "5 faculties &middot; 5 powers",
+            "7 awakening factors",
+            "8 path factors",
+            "8 masteries &middot; 8 liberations",
+            "10 universals &middot; 20 perceptions",
+            "10 recollections",
+        ]),
+        ("The bar", [
+            "<span class=\"pali\">accharāsaṅghāta</span>a finger-snap",
+            "&ldquo;does not lack absorption&rdquo;",
+            "&ldquo;how much more so&hellip;&rdquo;",
+        ]),
+        ("Rarely taught now", [
+            "the eight masteries",
+            "the ten universals",
+            "the four corpse perceptions",
+        ]),
+        ("Cross-references", [
+            "AN 1.51&ndash;60 &middot; the first finger-snap",
+            "AN 1.296&ndash;305 &middot; the ten recollections",
+            "MN 10 &middot; mindfulness meditation",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.394-574/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-010.html">MN 10 &middot; Mindfulness Meditation</a> &mdash; four '
+        "of this chapter&rsquo;s entries, AN 1.402&ndash;405, set out in full with their instructions.",
+        '<a href="an-1.51-60.html">AN 1.51&ndash;60 &middot; A Finger-Snap</a> &mdash; where the formula '
+        "this chapter runs on was first stated, of a moment of love.",
+        '<a href="an-1.296-305.html">AN 1.296&ndash;305 &middot; The Ten Recollections</a> &mdash; the '
+        "same ten that appear here at AN 1.485&ndash;494, with the full destination formula attached "
+        "instead of the finger-snap.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.575-615",
+    "index_pali": "Kāyagatāsati",
+    "nav_title": "Mindfulness of the Body",
+    "source": "an1/an1.575-615",
+    "crumb": "AN 1.575&ndash;615",
+    "meta_title": "AN 1.575–615 — Mindfulness of the Body | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Kāyagatāsativagga — "
+        "forty-one discourses on a single practice, opening with the ocean that includes every "
+        "stream that runs into it, and ending in sixteen kinds of wisdom. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.575&ndash;615",
+    "title": "Mindfulness of the Body",
+    "subtitle": "<em>Kāyagatāsativagga</em> &mdash; the thirtieth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Forty-one discourses, heavily abbreviated, all naming the same practice as the "
+                 "answer to &ldquo;what one thing?&rdquo;"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Mindfulness of the body is treated at length in the Chinese "
+                              "Madhyama-āgama (T26), which preserves a counterpart to MN 119; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple sentences carrying an "
+                       "escalating series of very large claims"),
+    ],
+    "why": (
+        "The previous chapter listed the whole meditation curriculum and said a moment of any of it "
+        "counts. This one takes a single item off that list and spends forty-one discourses saying that "
+        "it does everything. Mindfulness of the body, developed and cultivated, is said to include all "
+        "skillful qualities, to give up ignorance, to uproot the underlying tendencies, to lead to each "
+        "of the four fruits of the path, and to produce sixteen distinct kinds of wisdom. The opening "
+        "simile &mdash; the great ocean, which includes every stream that runs into it &mdash; sets the "
+        "claim, and the remaining forty entries make it good."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Mindfulness of the body, developed and cultivated, includes everything else the path "
+            "requires."]),
+        ("The ocean (AN 1.575)", [
+            "The chapter opens with one of the better similes in the Ones and states its whole thesis "
+            "in a sentence: anyone who brings the great ocean into their mind thereby includes all the "
+            "streams that run into it, and anyone who has developed mindfulness of the body includes "
+            "all the skillful qualities that play a part in realization.",
+            "The logic of that image is worth drawing out, because it is doing something precise. It "
+            "does not say the ocean is better than the streams, or that the streams are unnecessary. It "
+            "says the ocean is where they all arrive, so to have it in mind is to have had them "
+            "already. The claim about mindfulness of the body is of the same shape: not that the other "
+            "practices are dispensable, but that this one is where they meet."]),
+        ("What the practice actually is", [
+            "<em>Kāyagatāsati</em> is mindfulness gone to the body, or immersed in it. In its full "
+            "form, set out in MN 119, it covers breathing, the four postures, full awareness in every "
+            "activity, the review of the body&rsquo;s parts, the four elements, the stages of a corpse, "
+            "and the four absorptions with their bodily similes &mdash; the whole thing framed as "
+            "attention that does not leave the body.",
+            "That breadth is why the ocean simile is defensible rather than merely enthusiastic. The "
+            "practice as the canon defines it is not one narrow technique among many; it already "
+            "contains breath meditation, the postures, the contemplation of the body&rsquo;s "
+            "constitution, and the absorptions. A reader who knows only the modern body scan is "
+            "working with a fraction of what the term covers here."]),
+        ("The escalation", [
+            "The chapter climbs. AN 1.576&ndash;582: great urgency, great benefit, great sanctuary from "
+            "the yoke, mindfulness and awareness, knowledge and vision, blissful meditation in this "
+            "life, the fruit of knowledge and freedom. AN 1.583&ndash;585: body and mind become "
+            "tranquil, thinking and considering settle, unskillful qualities do not arise and skillful "
+            "ones grow.",
+            "Then AN 1.586&ndash;592 makes the strongest claims in the chapter: ignorance is given up, "
+            "knowledge arises, the conceit &lsquo;I am&rsquo; is given up, the underlying tendencies "
+            "are uprooted, the fetters are given up, and it leads to demolition by wisdom and to "
+            "complete extinguishment with no fuel for grasping. AN 1.596&ndash;599 attaches the four "
+            "fruits of the path. And the final sixteen entries list sixteen kinds of wisdom &mdash; "
+            "great, widespread, abundant, deep, extraordinary, vast, much, fast, light, laughing, "
+            "swift, sharp, penetrating &mdash; which is the sort of list a tradition only makes when it "
+            "has run out of ways to say a great deal.",
+            "&ldquo;Laughing wisdom&rdquo; (<em>hāsapaññā</em>) is worth pausing on. It is a real "
+            "canonical category, generally taken as wisdom that is joyful or quick with delight, and it "
+            "is a small piece of evidence against the assumption that the early canon is uniformly "
+            "austere."]),
+        ("Why the body", [
+            "There is a reason this practice rather than another gets the ocean treatment, and it is "
+            "worth making explicit for students who find the emphasis surprising. The body is the one "
+            "object of attention that is unavoidably present, that cannot be fabricated, and that "
+            "reports honestly. A mind can convince itself it is calm; a jaw cannot. Every state the "
+            "chapter says this practice addresses &mdash; ignorance, conceit, the underlying tendencies "
+            "&mdash; shows up somewhere physical before it is available to introspection.",
+            "It is also the practice least dependent on circumstance. Nothing in it requires quiet, "
+            "posture, a cushion, or time set aside, which is why it pairs so naturally with the "
+            "finger-snap material of the previous chapter and with the entry that follows it in the "
+            "next: those who have not developed mindfulness of the body have not developed the "
+            "deathless."]),
+    ],
+    "terms": [
+        ("kāyagatāsati",
+         "&ldquo;mindfulness gone to the body&rdquo; &mdash; attention immersed in and not leaving the "
+         "body. In MN 119 it covers breathing, the postures, full awareness in activity, the "
+         "body&rsquo;s parts and elements, the corpse contemplations, and the four absorptions."),
+        ("bodhipakkhiyā dhammā",
+         "&ldquo;qualities that play a part in realization&rdquo; &mdash; what AN 1.575 says this one "
+         "practice includes, as the ocean includes its streams."),
+        ("asmimāna",
+         "&ldquo;the conceit &lsquo;I am&rsquo;&rdquo; &mdash; among the things AN 1.586&ndash;590 says "
+         "this practice gives up. Not a belief but a residual sense of being a self, which the canon "
+         "treats as the last thing to go."),
+        ("anusaya",
+         "&ldquo;underlying tendencies&rdquo; &mdash; the dispositions that lie dormant below "
+         "conscious states and reassert themselves; said here to be uprooted rather than suppressed."),
+        ("hāsapaññā",
+         "&ldquo;laughing wisdom&rdquo; &mdash; one of the sixteen kinds of wisdom listed at the close, "
+         "generally taken as wisdom that is joyful or quick with delight. A small piece of evidence "
+         "against reading the early canon as uniformly austere."),
+    ],
+    "text_intro": (
+        "All forty-one discourses of the chapter. Most paragraphs carry ranges rather than single "
+        "numbers because the canon abbreviates the repeated material heavily. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The ocean (AN 1.575)"),
+        ("p", "&sect;575", "an1.575"),
+        ("h3", "What it leads to (AN 1.576&ndash;585)"),
+        ("p", "&sect;576&ndash;582", "an1.576-582"),
+        ("p", "&sect;583", "an1.583"),
+        ("p", "&sect;584", "an1.584"),
+        ("p", "&sect;585", "an1.585"),
+        ("h3", "Ignorance, conceit, and the fetters (AN 1.586&ndash;595)"),
+        ("p", "&sect;586&ndash;590", "an1.586-590"),
+        ("p", "&sect;591&ndash;592", "an1.591-592"),
+        ("p", "&sect;593&ndash;595", "an1.593-595"),
+        ("h3", "The four fruits, and sixteen kinds of wisdom (AN 1.596&ndash;615)"),
+        ("p", "&sect;596&ndash;599", "an1.596-599"),
+        ("p", "&sect;600&ndash;615", "an1.600-615"),
+    ],
+    "quiz": [
+        {"q": "What simile opens the chapter?",
+         "opts": [
+             "A lump of salt in a cup of water",
+             "The great ocean, which anyone who brings it to mind thereby includes all the streams that run into it",
+             "A rice spike pointing the wrong way",
+             "A seed planted in moist earth"],
+         "correct": 1,
+         "expl": "It states the chapter's whole thesis in a sentence."},
+        {"q": "What does that simile precisely claim?",
+         "opts": [
+             "That the streams are unnecessary",
+             "That the ocean is better than the streams",
+             "That the ocean is where the streams all arrive, so to have it in mind is to have had them already",
+             "That the streams and the ocean are unrelated"],
+         "correct": 2,
+         "expl": "Not that the other practices are dispensable, but that this one is where they meet."},
+        {"q": "What does <em>kāyagatāsati</em> cover in its full form, per MN 119?",
+         "opts": [
+             "Only scanning sensations in the limbs",
+             "Breathing, the four postures, full awareness in every activity, the body&rsquo;s parts and elements, the stages of a corpse, and the four absorptions with their bodily similes",
+             "Only the corpse contemplations",
+             "Only breathing"],
+         "correct": 1,
+         "expl": "Which is why the ocean simile is defensible rather than merely enthusiastic."},
+        {"q": "What does the guide say about a reader who knows only the modern body scan?",
+         "opts": [
+             "They know the practice completely",
+             "They are working with a fraction of what the term covers here",
+             "They are practicing something unrelated",
+             "They should not attempt the practice"],
+         "correct": 1,
+         "expl": "The canonical practice already contains several things usually taught separately."},
+        {"q": "Which of these does AN 1.586&ndash;590 claim mindfulness of the body accomplishes?",
+         "opts": [
+             "Ignorance is given up, knowledge arises, the conceit &lsquo;I am&rsquo; is given up, the underlying tendencies are uprooted, and the fetters are given up",
+             "Physical health is restored",
+             "Rebirth in a heavenly realm is guaranteed",
+             "Psychic powers arise"],
+         "correct": 0,
+         "expl": "The strongest claims in the chapter."},
+        {"q": "What is <em>asmimāna</em>?",
+         "opts": [
+             "A doctrinal belief in a soul",
+             "The conceit &lsquo;I am&rsquo; &mdash; a residual sense of being a self, which the canon treats as the last thing to go",
+             "Pride in one&rsquo;s attainments",
+             "A meditative absorption"],
+         "correct": 1,
+         "expl": "Not a belief but a residue, which is why it is named separately from wrong view."},
+        {"q": "What are <em>anusaya</em>, and what is claimed about them here?",
+         "opts": [
+             "Monastic offenses, said to be forgiven",
+             "Underlying tendencies that lie dormant below conscious states &mdash; said here to be uprooted rather than suppressed",
+             "Meditative attainments, said to be surpassed",
+             "Bodily sensations, said to be observed"],
+         "correct": 1,
+         "expl": "The distinction between uprooting and suppressing carries the weight of the claim."},
+        {"q": "What is <em>hāsapaññā</em>, one of the sixteen kinds of wisdom listed at the close?",
+         "opts": [
+             "&ldquo;Silent wisdom&rdquo;",
+             "&ldquo;Laughing wisdom&rdquo; &mdash; generally taken as wisdom that is joyful or quick with delight",
+             "&ldquo;Painful wisdom&rdquo;",
+             "&ldquo;Borrowed wisdom&rdquo;"],
+         "correct": 1,
+         "expl": "A small piece of evidence against reading the early canon as uniformly austere."},
+        {"q": "Why does the guide say the body gets this treatment rather than another object?",
+         "opts": [
+             "Because it is the easiest object",
+             "Because it is unavoidably present, cannot be fabricated, and reports honestly &mdash; a mind can convince itself it is calm; a jaw cannot",
+             "Because it is the only object permitted to monastics",
+             "Because the other objects were added later"],
+         "correct": 1,
+         "expl": "Every state the chapter names shows up somewhere physical before it is available to introspection."},
+        {"q": "What further advantage does the guide name for this practice?",
+         "opts": [
+             "That it requires long retreats",
+             "That it is the practice least dependent on circumstance &mdash; nothing in it requires quiet, posture, a cushion, or time set aside",
+             "That it produces results fastest",
+             "That it can be done only in the morning"],
+         "correct": 1,
+         "expl": "Which is why it pairs so naturally with the finger-snap material and with the chapter that follows."},
+    ],
+    "marginalia": [
+        ("The claim, escalating", [
+            "includes all skillful qualities",
+            "great urgency, great benefit",
+            "ignorance given up",
+            "the conceit &lsquo;I am&rsquo; given up",
+            "the tendencies uprooted",
+            "the four fruits of the path",
+            "sixteen kinds of wisdom",
+        ]),
+        ("The ocean", [
+            "not better than the streams",
+            "where the streams arrive",
+            "so to have it is to have had them",
+        ]),
+        ("Why the body", [
+            "unavoidably present",
+            "cannot be fabricated",
+            "reports honestly",
+            "needs no cushion",
+        ]),
+        ("Cross-references", [
+            "MN 119 &middot; the full practice",
+            "AN 1.616&ndash;627 &middot; next: the deathless",
+            "AN 1.394&ndash;574 &middot; the whole curriculum",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.575-615/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-119.html">MN 119 &middot; Mindfulness of the Body</a> &mdash; '
+        "the practice this chapter praises, set out in full with its instructions and its six similes.",
+        '<a href="an-1.394-574.html">AN 1.394&ndash;574 &middot; Another Finger-Snap</a> &mdash; the '
+        "curriculum this chapter says one item of includes the rest.",
+        '<a href="an-10.60.html">AN 10.60 &middot; With Girimānanda</a> &mdash; what happens when a '
+        "selection from this material is taught to one sick person rather than listed in the abstract.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.616-627",
+    "index_pali": "Amata",
+    "nav_title": "Freedom From Death",
+    "source": "an1/an1.616-627",
+    "crumb": "AN 1.616&ndash;627",
+    "meta_title": "AN 1.616–627 — Freedom From Death | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Amatavagga, the last "
+        "chapter of the Book of the Ones — twelve discourses equating mindfulness of the body "
+        "with the deathless, twelve verbs at a time, and the closing colophon of the whole "
+        "nipāta. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.616&ndash;627",
+    "title": "Freedom From Death",
+    "subtitle": "<em>Amatavagga</em> &mdash; the thirty-first and last chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants; the closing lines are the "
+                     "compilers&rsquo; colophon"),
+        ("Form", "Twelve discourses on one sentence, with a different verb substituted each time, "
+                 "closing the entire Book of the Ones"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The equation of mindfulness of the body with the deathless is preserved "
+                              "in the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple, and the only chapter in the "
+                       "nipāta whose interest lies almost entirely in its grammar"),
+    ],
+    "why": (
+        "The Book of the Ones ends by saying one thing twelve times, changing only the verb. Those who "
+        "have not enjoyed mindfulness of the body have not enjoyed the deathless; who have not lost it "
+        "have not lost the deathless; who have not neglected, forgotten, cultivated, developed, made "
+        "much of, had insight into, completely understood, or realized the one have not done so to the "
+        "other. It is an equation, run through every verb the language has for what a person does with "
+        "a practice. And then, in a single line, the collection notes that the thousand discourses of "
+        "the Ones are complete."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Whatever you do or fail to do with mindfulness of the body, you do or fail to do with the "
+            "deathless."]),
+        ("A grammatical device carrying a doctrinal claim", [
+            "The whole chapter is one sentence with twelve verbs substituted into it: enjoy, have "
+            "enjoyed, lose, miss out on, neglect, forget, cultivate, develop, make much of, have "
+            "insight into, completely understand, realize. Each is stated negatively and then "
+            "positively.",
+            "The device is not decoration. By running the identity through every available verb, the "
+            "chapter closes off the possibility that the relation holds in one respect and not another. "
+            "You cannot have developed the practice but not the deathless, or realized the deathless "
+            "without having realized the practice. The equation is total, and stating it twelve times "
+            "is how a text without the word &ldquo;therefore&rdquo; says so.",
+            "It is also a good illustration of how this literature works generally. Where a modern "
+            "writer would state a principle once and add a qualification, the canon states it once per "
+            "case and lets the completeness of the enumeration do the work. Readers who find the "
+            "Aṅguttara repetitive are noticing a real feature; what is worth adding is that the "
+            "repetition is usually an argument rather than an emphasis."]),
+        ("The deathless", [
+            "<em>Amata</em> &mdash; not-death, the deathless &mdash; is one of the canon&rsquo;s oldest "
+            "names for the goal, older in Indian usage than <em>nibbāna</em> and carrying a different "
+            "flavor. It is what the Buddha is said to have declared open after the awakening: "
+            "<em>the doors of the deathless are open</em>.",
+            "The word needs a little care in English, because &ldquo;immortality&rdquo; is the obvious "
+            "translation and the wrong one. What is meant is not endless continuation, which the "
+            "collection has just spent a chapter calling worse than excrement, but freedom from the "
+            "process in which dying happens at all. Sujato&rsquo;s &ldquo;freedom from death&rdquo; is "
+            "a careful rendering for exactly this reason, and it is worth pointing out the difference "
+            "in class, because a student who hears &ldquo;deathless&rdquo; as &ldquo;living "
+            "forever&rdquo; has the whole thing backward."]),
+        ("Why the body, again", [
+            "That mindfulness of the body should be equated with the deathless is a striking place for "
+            "the Ones to finish, and the strangeness is worth naming rather than smoothing. The "
+            "collection has spent six hundred entries on the mind &mdash; developing it, taming it, "
+            "guarding it, clearing it &mdash; and it ends by putting the body at the center.",
+            "The two chapters are of a piece, and the reason is the same one the previous guide gave: "
+            "the body is where anything true about a person is available to be checked. But there is a "
+            "further point in ending here. A collection that opened with the sight of a woman occupying "
+            "a man&rsquo;s mind &mdash; the body as the thing attention gets caught on &mdash; closes "
+            "with the body as the thing attention rests in. Whether that arc was designed is impossible "
+            "to say. It is there either way, and it is a good note on which to finish reading the "
+            "Ones."]),
+        ("The colophon", [
+            "The last lines are not the Buddha speaking. &ldquo;The thousand discourses of the Ones are "
+            "completed&rdquo; is the compilers&rsquo; own note, followed by the standard closing "
+            "formula and then &ldquo;The Book of the Ones is finished.&rdquo;",
+            "The number is worth a comment. This series has published the Ones as thirty-one chapters "
+            "covering six hundred and twenty-seven numbered discourses, which is how SuttaCentral and "
+            "the Mahāsaṅgīti edition count them. The tradition&rsquo;s own colophon says a thousand. "
+            "Different editions divide the abbreviated passages differently, and expanding every "
+            "<em>peyyāla</em> in the nipāta produces a considerably larger number than leaving them "
+            "folded. Neither count is wrong; they are counting different things, and the discrepancy is "
+            "a useful last lesson in what &ldquo;how many suttas&rdquo; means in this literature."]),
+    ],
+    "terms": [
+        ("amata",
+         "&ldquo;the deathless,&rdquo; not-death &mdash; one of the oldest names for the goal, older in "
+         "Indian usage than <em>nibbāna</em>. Not endless continuation but freedom from the process in "
+         "which dying happens."),
+        ("kāyagatāsati",
+         "mindfulness of the body &mdash; the subject of the previous chapter, and here equated with "
+         "the deathless through every verb in turn."),
+        ("bhāveti / bahulīkaroti",
+         "&ldquo;develops&rdquo; and &ldquo;makes much of&rdquo; &mdash; two of the twelve verbs, and "
+         "the pair that has run through the whole nipāta since AN 1.27."),
+        ("sacchikaroti",
+         "&ldquo;realizes, sees for oneself&rdquo; &mdash; the last of the twelve verbs and the "
+         "strongest, closing the Book of the Ones."),
+        ("peyyāla",
+         "the abbreviation convention &mdash; and the reason the colophon&rsquo;s count of a thousand "
+         "discourses differs from the six hundred and twenty-seven of modern editions."),
+    ],
+    "text_intro": (
+        "All twelve discourses of the chapter, in order, followed by the compilers&rsquo; closing "
+        "colophon to the entire Book of the Ones, which is part of the transmitted text. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Enjoying, losing, neglecting (AN 1.616&ndash;621)"),
+        ("p", "&sect;616", "an1.616"),
+        ("p", "&sect;617", "an1.617"),
+        ("p", "&sect;618", "an1.618"),
+        ("p", "&sect;619", "an1.619"),
+        ("p", "&sect;620", "an1.620"),
+        ("p", "&sect;621", "an1.621"),
+        ("h3", "Cultivating, understanding, realizing (AN 1.622&ndash;627)"),
+        ("p", "&sect;622", "an1.622"),
+        ("p", "&sect;623", "an1.623"),
+        ("p", "&sect;624", "an1.624"),
+        ("p", "&sect;625", "an1.625"),
+        ("p", "&sect;626", "an1.626"),
+        ("p", "&sect;627", "an1.627"),
+    ],
+    "quiz": [
+        {"q": "What is the chapter&rsquo;s structure?",
+         "opts": [
+             "Twelve unrelated sayings",
+             "One sentence with twelve verbs substituted into it, each stated negatively and then positively",
+             "A dialogue in twelve exchanges",
+             "A single long discourse"],
+         "correct": 1,
+         "expl": "Enjoy, lose, miss out on, neglect, forget, cultivate, develop, make much of, have insight into, understand, realize."},
+        {"q": "What does running the identity through every verb accomplish?",
+         "opts": [
+             "It emphasizes the point for memorization only",
+             "It closes off the possibility that the relation holds in one respect and not another &mdash; the equation is total",
+             "It marks the chapter as later",
+             "It allows for exceptions"],
+         "correct": 1,
+         "expl": "Stating it twelve times is how a text without the word &ldquo;therefore&rdquo; says so."},
+        {"q": "What does the guide say readers noticing the Aṅguttara&rsquo;s repetitiveness should add?",
+         "opts": [
+             "That they are mistaken",
+             "That the repetition is usually an argument rather than an emphasis &mdash; the canon states a principle once per case and lets the completeness of the enumeration do the work",
+             "That the repetition was added by translators",
+             "That the repetition is an error in transmission"],
+         "correct": 1,
+         "expl": "A real feature of how this literature works generally."},
+        {"q": "What does <em>amata</em> mean, and what does it not mean?",
+         "opts": [
+             "Endless continuation &mdash; living forever",
+             "Not-death, freedom from the process in which dying happens &mdash; not endless continuation, which the collection has just called worse than excrement",
+             "Physical health",
+             "A heavenly rebirth"],
+         "correct": 1,
+         "expl": "Sujato's &ldquo;freedom from death&rdquo; is a careful rendering for exactly this reason."},
+        {"q": "Why does the guide say &ldquo;immortality&rdquo; is the wrong translation?",
+         "opts": [
+             "Because it is archaic",
+             "Because a student who hears &ldquo;deathless&rdquo; as &ldquo;living forever&rdquo; has the whole thing backward",
+             "Because the Pāli has no such word",
+             "Because it is too literal"],
+         "correct": 1,
+         "expl": "The collection spent an entire chapter refusing even a finger-snap of continued existence."},
+        {"q": "What arc does the guide note across the whole Book of the Ones?",
+         "opts": [
+             "It opens with the body as the thing attention gets caught on, and closes with the body as the thing attention rests in",
+             "It opens and closes with the same chapter",
+             "It moves from the many to the one",
+             "It moves from practice to doctrine"],
+         "correct": 0,
+         "expl": "Whether the arc was designed is impossible to say; it is there either way."},
+        {"q": "Who speaks the closing lines of the chapter?",
+         "opts": [
+             "The Buddha",
+             "Ānanda",
+             "The compilers &mdash; &ldquo;the thousand discourses of the Ones are completed&rdquo; is their own note",
+             "A later commentator, added outside the canon"],
+         "correct": 2,
+         "expl": "Followed by the standard closing formula and &ldquo;The Book of the Ones is finished.&rdquo;"},
+        {"q": "The colophon says a thousand discourses; this series publishes six hundred and twenty-seven. Why?",
+         "opts": [
+             "Because part of the text has been lost",
+             "Because modern editors deleted material",
+             "Because different editions divide the abbreviated passages differently, and expanding every <em>peyyāla</em> produces a considerably larger number",
+             "Because the colophon is inaccurate"],
+         "correct": 2,
+         "expl": "Neither count is wrong; they are counting different things."},
+        {"q": "Why does the guide call that discrepancy a useful last lesson?",
+         "opts": [
+             "Because it shows the canon is unreliable",
+             "Because it shows what &ldquo;how many suttas&rdquo; actually means in this literature",
+             "Because it proves the Ones are incomplete",
+             "Because it settles a sectarian dispute"],
+         "correct": 1,
+         "expl": "A question that turns out to depend entirely on how the abbreviations are counted."},
+        {"q": "Which is the last of the twelve verbs, and why does it matter?",
+         "opts": [
+             "&ldquo;Realizes, sees for oneself&rdquo; &mdash; the strongest of the twelve, closing the Book of the Ones",
+             "&ldquo;Forgets&rdquo;",
+             "&ldquo;Enjoys&rdquo;",
+             "&ldquo;Neglects&rdquo;"],
+         "correct": 0,
+         "expl": "<em>Sacchikaroti</em>: the collection ends on direct verification rather than on belief."},
+    ],
+    "marginalia": [
+        ("Twelve verbs", [
+            "enjoy &middot; have enjoyed",
+            "lose &middot; miss out on",
+            "neglect &middot; forget",
+            "cultivate &middot; develop",
+            "make much of",
+            "have insight into",
+            "completely understand",
+            "realize",
+        ]),
+        ("The deathless", [
+            "<span class=\"pali\">amata</span>not-death",
+            "older than <em>nibbāna</em>",
+            "not: living forever",
+            "but: no dying happens",
+        ]),
+        ("The arc", [
+            "AN 1.1 &middot; the body caught on",
+            "AN 1.627 &middot; the body rested in",
+        ]),
+        ("The colophon", [
+            "&ldquo;the thousand discourses&rdquo;",
+            "modern editions: 627",
+            "&mdash; the <em>peyyāla</em> question",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.616-627/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.575-615.html">AN 1.575&ndash;615 &middot; Mindfulness of the Body</a> &mdash; '
+        "previous in this series, and the chapter this one converts into an equation.",
+        '<a href="an-1.1-10.html">AN 1.1&ndash;10 &middot; What Occupies the Mind</a> &mdash; the other '
+        "end of the Book of the Ones, worth rereading now that the collection has finished with the "
+        "body.",
+        '<a href="an-3.61.html">AN 3.61 &middot; Sectarian Tenets</a> &mdash; where this series '
+        "continues, at the beginning of the Threes.",
+    ],
+})
