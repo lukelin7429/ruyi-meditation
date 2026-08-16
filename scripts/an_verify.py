@@ -127,9 +127,19 @@ def verify(page):
         # bug there would agree with itself; this catches it.
         heads = [(k, v.strip()) for k, v in src.items()
                  if an_build.is_structural(k, v) and v.strip()]
+        # A leaked heading is followed by the start of a fresh sentence: the
+        # end of the paragraph, an opening quote, or a capital. A verse that
+        # merely begins with the same word runs straight on in lower case, as
+        # AN 4.14's "Restraint and giving up, ..." does under the heading
+        # "Restraint". Requiring the boundary keeps the backstop without
+        # failing those.
         for i, para in enumerate(got, 1):
             for key, head in heads:
-                check(not para.startswith(head),
+                if not para.startswith(head):
+                    continue
+                rest = para[len(head):].lstrip()
+                leaked = not rest or rest[0] in "“‘\"'" or rest[0].isupper()
+                check(not leaked,
                       "%s: paragraph %d opens with heading %s (%r)"
                       % (slug, i, key, head[:60]))
 
