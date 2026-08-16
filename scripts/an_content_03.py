@@ -25561,3 +25561,1125 @@ page(
         "meditation.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.113–3.122 — Āpāyikavagga
+# --------------------------------------------------------------------------- #
+VAGGA_12 = "<em>Āpāyikavagga</em> &mdash; the twelfth chapter of the Threes"
+
+page(
+    113, "Āpāyika", "Bound for Loss",
+    vagga=VAGGA_12,
+    meta_title="AN 3.113 — Bound for Loss | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Āpāyikasutta — three "
+        "people bound for hell, and the clause at both ends that changes what the discourse says. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A statement with a condition attached, three cases, and the statement repeated"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on false claims to purity is preserved in the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, harsh, and conditional"),
+    ],
+    why=(
+        "Three people are bound for a place of loss, bound for hell &mdash; and both times the "
+        "sentence is said, it ends with the same five words: <em>if they don&rsquo;t give up this "
+        "fault</em>. The three are somebody who claims a chastity they do not have, somebody who "
+        "accuses a chaste person of unchastity without grounds, and somebody who holds that there is "
+        "nothing wrong with sensual pleasures and acts on it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Three faults lead to hell if they are not given up, and the condition is stated twice."]),
+        ("The clause that frames everything", [
+            "<em>Sace taṁ paṭinissajjati</em> &mdash; unless they relinquish it. The condition opens "
+            "the discourse and closes it, and it is not decoration.",
+            "Without it the discourse would be a list of people who are damned. With it, the "
+            "discourse is a list of faults that remain fatal only while they are held, and the whole "
+            "point of saying it twice is that a reader should not be able to miss it.",
+            "This is the same structure as AN 3.91, where a monk who resented a talk and then "
+            "confessed it was told that recognizing a mistake and undertaking restraint is "
+            "<em>growth</em>. The collection is consistent: what is fatal is the persisting, not the "
+            "having done."]),
+        ("The first two, and why they belong together", [
+            "Somebody unchaste who claims to be chaste; and somebody who makes <em>a groundless "
+            "accusation of unchastity against a person whose chastity is pure</em>.",
+            "The pair is a false claim about oneself and a false claim about somebody else, on the "
+            "same subject, in opposite directions. Both are lies about chastity and both are treated "
+            "identically.",
+            "That symmetry is worth pointing out because religious communities have generally not "
+            "treated the two as equivalent. The one who falsely claims purity harms the institution "
+            "and their own practice; the one who falsely accuses harms a person who has done nothing. "
+            "The discourse gives them the same sentence.",
+            "Both also correspond to grave matters in the monastic code &mdash; falsely claiming "
+            "attainments is among the offenses entailing expulsion, and groundlessly accusing another "
+            "monastic of a grave offense is a serious matter requiring formal handling. This "
+            "discourse states the moral weight without the procedure."]),
+        ("The third, which is different in kind", [
+            "<em>Someone who has the view &lsquo;there is nothing wrong with sensual pleasures,&rsquo; "
+            "so they throw themselves into sensual pleasures.</em>",
+            "The first two are lies; this is a view plus the conduct that follows from it. And it is "
+            "worth being precise about what is being condemned, because the discourse is not saying "
+            "that sensual pleasure is wrong.",
+            "AN 3.103, ten discourses earlier, said plainly that the pleasure and happiness arising "
+            "from the world are its genuine gratification. What is named here is the view that there "
+            "is <em>no drawback</em> &mdash; <em>natthi kāmesu doso</em> &mdash; and the conduct that "
+            "follows from believing it.",
+            "So the fault is the second term of the three-term analysis going missing. A person who "
+            "has the gratification right and the drawback wrong will behave exactly as described, and "
+            "the discourse is naming the result of an incomplete survey rather than condemning "
+            "enjoyment."]),
+        ("How to teach a hell passage", [
+            "The collection has a longer one at AN 3.36, and the same principles apply. The "
+            "destination is stated without softening; the condition is stated too and should be "
+            "quoted with it; and nothing here is a claim about a particular living person.",
+            "What should be resisted is turning the conditional into a reassurance. The discourse "
+            "does say these three go to hell, and the clause does not remove that; it says the fault "
+            "can be given up. A reading that leaves an audience thinking nothing much was at stake "
+            "has read the clause and dropped the sentence.",
+            "For a class the useful frame is the first two cases. Whatever one makes of hell, "
+            "claiming a purity one does not have and accusing an innocent person of impurity are "
+            "recognizable and serious wrongs, and the discourse&rsquo;s judgment that they are "
+            "equally serious is a claim worth discussing on its own."]),
+    ],
+    terms=[
+        ("āpāyika",
+         "&ldquo;bound for a place of loss&rdquo; &mdash; from <em>apāya</em>, the lower realms. Said "
+         "conditionally in both occurrences."),
+        ("sace taṁ paṭinissajjati",
+         "&ldquo;if they don&rsquo;t give up this fault&rdquo; &mdash; the condition that opens and "
+         "closes the discourse, and the reason it is not a list of the damned."),
+        ("abrahmacārī brahmacāripaṭiñña",
+         "&ldquo;unchaste, but claiming to be chaste&rdquo; &mdash; a false claim about oneself, "
+         "corresponding to a grave matter in the monastic code."),
+        ("amūlakena anuddhaṁseti",
+         "&ldquo;makes a groundless accusation&rdquo; &mdash; a false claim about somebody else, on "
+         "the same subject and given the same weight."),
+        ("natthi kāmesu doso",
+         "&ldquo;there is nothing wrong with sensual pleasures&rdquo; &mdash; the view named as the "
+         "third fault: not that pleasure is real, which the collection affirms, but that it has no "
+         "drawback."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.113:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What clause opens and closes the discourse?",
+         "opts": [
+             "&ldquo;These three are found in the world&rdquo;",
+             "&ldquo;If they don&rsquo;t give up this fault&rdquo;",
+             "&ldquo;So you should train like this&rdquo;",
+             "&ldquo;This is the difference&rdquo;"],
+         "correct": 1,
+         "expl": "Said twice, so that a reader should not be able to miss it."},
+        {"q": "What difference does that clause make?",
+         "opts": [
+             "None",
+             "Without it the discourse lists people who are damned; with it, it lists faults that remain fatal only while they are held",
+             "It excuses the faults",
+             "It restricts the discourse to monastics"],
+         "correct": 1,
+         "expl": "The same structure as AN 3.91: what is fatal is the persisting, not the having done."},
+        {"q": "What are the first two faults?",
+         "opts": [
+             "Killing and stealing",
+             "Claiming a chastity one does not have, and groundlessly accusing a chaste person of unchastity",
+             "Lying and slandering",
+             "Greed and hate"],
+         "correct": 1,
+         "expl": "A false claim about oneself and a false claim about somebody else, in opposite directions."},
+        {"q": "Why does the guide call the symmetry worth pointing out?",
+         "opts": [
+             "Because the two faults are rare",
+             "Because religious communities have generally not treated the two as equivalent, and the discourse gives them the same sentence",
+             "Because one is worse",
+             "Because both are monastic"],
+         "correct": 1,
+         "expl": "One harms the institution and one harms a person who has done nothing."},
+        {"q": "How do the first two relate to the monastic code?",
+         "opts": [
+             "They are unrelated",
+             "Both correspond to grave matters &mdash; falsely claiming attainments, and groundlessly accusing another monastic &mdash; and this discourse states the moral weight without the procedure",
+             "They are minor rules",
+             "They apply only to laypeople"],
+         "correct": 1,
+         "expl": "The discourse gives the weight, not the handling."},
+        {"q": "What is the third fault?",
+         "opts": [
+             "Enjoying sensual pleasure",
+             "Holding that there is nothing wrong with sensual pleasures, and throwing oneself into them on that basis",
+             "Denying kamma",
+             "Neglecting the precepts"],
+         "correct": 1,
+         "expl": "A view plus the conduct that follows from it."},
+        {"q": "Why does the guide say this is not a condemnation of pleasure?",
+         "opts": [
+             "Because pleasure is unreal",
+             "Because AN 3.103 said plainly that the pleasure arising from the world is its genuine gratification &mdash; what is named here is the view that it has no drawback",
+             "Because the fault is only monastic",
+             "Because the view is rare"],
+         "correct": 1,
+         "expl": "<em>Natthi kāmesu doso</em>."},
+        {"q": "How does the guide describe the third fault structurally?",
+         "opts": [
+             "As the second term of the three-term analysis going missing &mdash; the gratification right and the drawback wrong",
+             "As a failure of ethics",
+             "As a failure of energy",
+             "As a failure of memory"],
+         "correct": 0,
+         "expl": "The result of an incomplete survey."},
+        {"q": "What does the guide say should be resisted?",
+         "opts": [
+             "Reading the discourse aloud",
+             "Turning the conditional into a reassurance &mdash; the discourse does say these three go to hell, and the clause says only that the fault can be given up",
+             "Mentioning the monastic code",
+             "Comparing with AN 3.36"],
+         "correct": 1,
+         "expl": "A reading that leaves an audience thinking nothing was at stake has dropped the sentence."},
+        {"q": "What frame does the guide recommend for a class?",
+         "opts": [
+             "The cosmology",
+             "The first two cases &mdash; recognizable and serious wrongs whatever one makes of hell, with the claim that they are equally serious worth discussing on its own",
+             "The third case only",
+             "The monastic procedure"],
+         "correct": 1,
+         "expl": "A claim worth discussing independently of the destination."},
+    ],
+    marginalia=[
+        ("Three", [
+            "claims a chastity not had",
+            "accuses the chaste, groundlessly",
+            "&ldquo;nothing wrong with pleasures&rdquo;",
+        ]),
+        ("The clause", [
+            "&ldquo;if they don&rsquo;t give up",
+            "this fault&rdquo;",
+            "&mdash; opening and closing",
+        ]),
+        ("The third fault", [
+            "not: pleasure is real",
+            "but: it has no drawback",
+            "&mdash; and acting on that",
+        ]),
+        ("Cross-references", [
+            "AN 3.103 &middot; gratification affirmed",
+            "AN 3.91 &middot; a fault given up",
+            "AN 3.36 &middot; the longer hell passage",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.113/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.103.html">AN 3.103 &middot; Before Awakening</a> &mdash; where the '
+        "gratification of the world is affirmed, which is what makes the third fault a claim about "
+        "the drawback rather than about pleasure.",
+        '<a href="an-3.91.html">AN 3.91 &middot; At Paṅkadhā</a> &mdash; for what happens when a '
+        "fault is given up rather than held, which is the condition this discourse states twice.",
+        '<a href="an-3.36.html">AN 3.36 &middot; Messengers of the Gods</a> &mdash; the '
+        "collection&rsquo;s long treatment of the hells, with the three standard objections met.",
+    ],
+)
+
+
+page(
+    114, "Dullabha", "Rare",
+    vagga=VAGGA_12,
+    meta_title="AN 3.114 — Rare | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dullabhasutta — three "
+        "rare appearances in the world, and the third one is not what a reader expects. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A statement and a list of three"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Comparable lists of what is rare in the world are preserved in the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; four lines with one surprise"),
+    ],
+    why=(
+        "Three individuals whose appearance in the world is rare: a fully awakened Buddha; somebody "
+        "who teaches the teaching a Buddha proclaimed; and &mdash; third, in the same list &mdash; "
+        "<em>an individual who is grateful and thankful</em>. The first two are what anyone would "
+        "expect. The third is a person who says thank you."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The three rarest things in the world are a Buddha, somebody who can teach what a Buddha "
+            "taught, and somebody who is grateful."]),
+        ("The escalation, and where it stops", [
+            "The list is built to make the third item land. A Buddha is rare by definition; the canon "
+            "elsewhere counts the eons between them. A competent teacher of that teaching is rare in "
+            "an obvious way &mdash; it requires the teaching to exist and somebody to have understood "
+            "it well enough to pass it on.",
+            "And then, in the same breath and with no change of register: <em>an individual who is "
+            "grateful and thankful</em>.",
+            "The effect depends entirely on the reader noticing that the third item is not of the "
+            "same order. Nobody has to wait an eon for a grateful person, and there is no institution "
+            "required to produce one. The discourse puts them on the same list anyway."]),
+        ("<em>Kataññū katavedī</em>", [
+            "The pair is standard and both halves are worth having. <em>Kataññū</em> is literally "
+            "&ldquo;knowing what was done&rdquo; &mdash; recognizing that something was done for you. "
+            "<em>Katavedī</em> is &ldquo;making known what was done&rdquo; &mdash; acknowledging it, "
+            "declaring it, acting on it.",
+            "So the Pāli separates two things English runs together. The first is a perception: "
+            "noticing that a benefit came from somewhere. The second is a response: making that "
+            "visible. A person can have the first without the second, and the discourse requires "
+            "both.",
+            "The canon uses this pair often, and AN 3.31&rsquo;s treatment of parents rests on it: "
+            "the reason parents are called Brahmā is that <em>they raise them, nurture them, and show "
+            "them the world</em>, which is a statement about what was done. Gratitude in this "
+            "tradition is treated as accuracy about the past."]),
+        ("Why it is rare", [
+            "The discourse gives no reason, and it is worth letting a class supply one before "
+            "offering any.",
+            "The most defensible answer follows from the vocabulary. If gratitude requires knowing "
+            "what was done, then it requires a kind of attention to one&rsquo;s own history that most "
+            "people do not maintain. Benefits received early, received continuously, or received from "
+            "people one dislikes are all easy not to notice, and what is not noticed cannot be "
+            "acknowledged.",
+            "That makes the rarity claim considerably more plausible than it first sounds. The "
+            "discourse is not saying that few people ever say thank you. It is saying that few people "
+            "reliably see what was done for them, which is a different and harder thing."]),
+        ("Using it", [
+            "This discourse takes thirty seconds and it is one of the best openings in the collection "
+            "for a lay audience, because the surprise does the work. Read the three items and stop.",
+            "The second use is for teachers. The list places the person who teaches the Dhamma "
+            "between a Buddha and a grateful person, which is a striking piece of company. Whatever "
+            "else it says, it says that transmitting something well is closer in kind to ordinary "
+            "human decency than to attainment."]),
+    ],
+    terms=[
+        ("dullabha",
+         "&ldquo;rare, hard to find&rdquo; &mdash; said of all three appearances, without "
+         "distinguishing between them."),
+        ("kataññū",
+         "&ldquo;knowing what was done&rdquo; &mdash; the perceptual half of gratitude: noticing that "
+         "a benefit came from somewhere."),
+        ("katavedī",
+         "&ldquo;making known what was done&rdquo; &mdash; the responsive half: acknowledging it and "
+         "acting on it. The discourse requires both."),
+        ("tathāgatappavedita dhammavinaya",
+         "&ldquo;the teaching and training proclaimed by a Realized One&rdquo; &mdash; what the second "
+         "rare individual teaches, which is why they depend on the first."),
+        ("pātubhāva",
+         "&ldquo;appearance, manifestation&rdquo; &mdash; the word applied equally to a Buddha and to "
+         "a grateful person."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.114:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three appearances are called rare?",
+         "opts": [
+             "A Buddha, a wheel-turning monarch, and a great disciple",
+             "A fully awakened Buddha; a teacher of the teaching a Buddha proclaimed; and an individual who is grateful and thankful",
+             "A stream-enterer, a once-returner, and a non-returner",
+             "A king, a brahmin, and an ascetic"],
+         "correct": 1,
+         "expl": "The third is a person who says thank you."},
+        {"q": "How is the list constructed?",
+         "opts": [
+             "In order of importance",
+             "To make the third item land &mdash; two things rare by definition, and then, with no change of register, a grateful person",
+             "At random",
+             "In chronological order"],
+         "correct": 1,
+         "expl": "The effect depends on the reader noticing that the third is not of the same order."},
+        {"q": "What does <em>kataññū</em> literally mean?",
+         "opts": [
+             "&ldquo;Repaying&rdquo;",
+             "&ldquo;Knowing what was done&rdquo; &mdash; recognizing that something was done for you",
+             "&ldquo;Praising&rdquo;",
+             "&ldquo;Remembering&rdquo;"],
+         "correct": 1,
+         "expl": "The perceptual half of gratitude."},
+        {"q": "And <em>katavedī</em>?",
+         "opts": [
+             "&ldquo;Making known what was done&rdquo; &mdash; acknowledging it, declaring it, acting on it",
+             "&ldquo;Feeling grateful&rdquo;",
+             "&ldquo;Owing a debt&rdquo;",
+             "&ldquo;Giving in return&rdquo;"],
+         "correct": 0,
+         "expl": "A person can have the first without the second, and the discourse requires both."},
+        {"q": "Which earlier discourse rests on the same pair?",
+         "opts": [
+             "AN 3.31, where parents are called Brahmā because they raised, nurtured, and showed the world",
+             "AN 3.70",
+             "AN 3.95",
+             "AN 3.107"],
+         "correct": 0,
+         "expl": "Gratitude in this tradition is treated as accuracy about the past."},
+        {"q": "What reason does the discourse give for the rarity?",
+         "opts": [
+             "That people are wicked",
+             "None &mdash; the guide suggests letting a class supply one first",
+             "That the world is in decline",
+             "That teachers are few"],
+         "correct": 1,
+         "expl": "The discourse states the rarity and stops."},
+        {"q": "What is the guide&rsquo;s most defensible answer?",
+         "opts": [
+             "That people are ungrateful by nature",
+             "That gratitude requires attention to one&rsquo;s own history &mdash; benefits received early, continuously, or from people one dislikes are all easy not to notice",
+             "That gratitude is difficult to express",
+             "That society discourages it"],
+         "correct": 1,
+         "expl": "What is not noticed cannot be acknowledged."},
+        {"q": "How does that change the rarity claim?",
+         "opts": [
+             "It weakens it",
+             "It makes it more plausible &mdash; the claim is not that few people say thank you but that few reliably see what was done for them",
+             "It makes it untestable",
+             "It restricts it to monastics"],
+         "correct": 1,
+         "expl": "A different and harder thing."},
+        {"q": "What company does the list place a teacher in?",
+         "opts": [
+             "Between a Buddha and a grateful person",
+             "Among kings",
+             "Among ascetics",
+             "Among donors"],
+         "correct": 0,
+         "expl": "A striking piece of company."},
+        {"q": "What does the guide say that implies?",
+         "opts": [
+             "That teaching is the highest calling",
+             "That transmitting something well is closer in kind to ordinary human decency than to attainment",
+             "That teachers are rare because of ordination",
+             "That teaching requires awakening"],
+         "correct": 1,
+         "expl": "Whatever else the list says."},
+    ],
+    marginalia=[
+        ("Three rare", [
+            "a fully awakened Buddha",
+            "one who can teach it",
+            "one who is grateful",
+        ]),
+        ("Two halves", [
+            "<span class=\"pali\">kataññū</span>knowing what was done",
+            "<span class=\"pali\">katavedī</span>making it known",
+        ]),
+        ("Why rare", [
+            "not: few say thank you",
+            "but: few see what was done",
+        ]),
+        ("Cross-references", [
+            "AN 3.31 &middot; what parents did",
+            "AN 3.45 &middot; caring for parents",
+            "AN 3.115 &middot; the next, on being measured",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.114/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.31.html">AN 3.31 &middot; With Divinity</a> &mdash; the collection&rsquo;s '
+        "fullest treatment of gratitude, where the reason parents hold the highest titles is stated "
+        "as a fact about what they did.",
+        '<a href="an-3.45.html">AN 3.45 &middot; Recommended by the Astute</a> &mdash; where caring '
+        "for one&rsquo;s parents stands in a list of three things people of good judgment commend.",
+        '<a href="../itivuttaka/iti-106.html">Iti 106 &middot; With Divinity</a> &mdash; the same '
+        "teaching on parents preserved in a second collection, worth reading beside this "
+        "discourse&rsquo;s claim about how rare gratitude is.",
+    ],
+)
+
+
+page(
+    115, "Appameyya", "Immeasurable",
+    vagga=VAGGA_12,
+    meta_title="AN 3.115 — Immeasurable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Appameyyasutta — the "
+        "person easy to measure, the one hard to measure, and the one who cannot be measured at "
+        "all. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three individuals, each defined; the first two by lists of qualities and the third "
+                 "in one line"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material on individuals who can and cannot be measured is "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, with a good joke in the "
+                       "first definition"),
+    ],
+    why=(
+        "Three individuals: one easy to measure, one hard to measure, and one immeasurable. The first "
+        "is described with nine words for being all over the place; the second with the same list "
+        "negated; and the third in a single line. What makes the discourse work is that being easy to "
+        "measure turns out to be a criticism."),
+    guide=[
+        ("The teaching in one sentence", [
+            "You can take the measure of a scattered person quickly, and that is not a compliment."]),
+        ("The person easy to measure", [
+            "The list is one of the best strings of adjectives in the collection: <em>restless, "
+            "insolent, fickle, scurrilous, loose-tongued, unmindful, lacking situational awareness "
+            "and immersion, with straying mind and undisciplined faculties.</em>",
+            "Nine items, and they describe one condition from nine angles &mdash; a person who is "
+            "moving constantly, talking constantly, and attending to nothing. <em>Uddhata</em>, "
+            "restless, is the first, and it is the same word as the hindrance of restlessness.",
+            "And the verdict is that such a person is <em>suppameyya</em>, easy to measure. That is "
+            "the joke and the point together. Everything about them is on display; there is nothing "
+            "held, so there is nothing to find out. A few minutes is enough."]),
+        ("The person hard to measure", [
+            "The definition is the same list negated, plus four positives: established mindfulness, "
+            "situational awareness, immersion, a unified mind, and restrained faculties.",
+            "<em>Duppameyya</em>, hard to measure. Not impossible &mdash; the discourse keeps a "
+            "grade between the easy case and the immeasurable one, and the middle person can be "
+            "measured with difficulty.",
+            "The reason is worth drawing out and the discourse leaves it implicit. What makes "
+            "somebody hard to measure is not concealment. It is that their faculties are restrained "
+            "and their mind unified, so what comes out is a small and consistent part of what is "
+            "there. Nothing is being hidden; there is simply more than the surface shows."]),
+        ("The immeasurable one", [
+            "&ldquo;It&rsquo;s a mendicant who is perfected, and has ended defilements.&rdquo; One "
+            "line, no adjectives.",
+            "<em>Appameyya</em> is the same word family as the <em>appamāṇa</em> of the four "
+            "immeasurables at AN 3.63 and of the limitless immersion in AN 3.90&rsquo;s verses. "
+            "Applied to a person it makes a stronger claim than the middle case: not that measuring "
+            "is difficult but that the operation does not apply.",
+            "The canon says this elsewhere in stronger terms &mdash; AN 3.80 has the Buddha say "
+            "<em>Realized Ones are immeasurable</em> when Ānanda tries to compare the reach of his "
+            "voice to a disciple&rsquo;s. That was a refusal to answer a comparative question, and "
+            "this discourse gives the general principle behind it.",
+            "It is also the reason the three form a scale that stops. There is no fourth category, "
+            "and the third one is not the top of a ladder; it is the point at which the measuring "
+            "instrument stops working."]),
+        ("Using it", [
+            "The first definition is the usable part and it should be read aloud slowly. Nine "
+            "adjectives is a long time to spend on somebody who is easy to sum up, and a class will "
+            "recognize the person before the list finishes &mdash; possibly in themselves.",
+            "The teaching point is the inversion. Ordinary judgment treats being readable as a "
+            "virtue and being hard to read as evasive. The discourse reverses both, and gives the "
+            "reason without stating it: what makes a person quick to sum up is that there is nothing "
+            "in them that is not being spent."]),
+    ],
+    terms=[
+        ("suppameyya",
+         "&ldquo;easy to measure&rdquo; &mdash; said of the restless and scattered person, and "
+         "intended as a criticism."),
+        ("duppameyya",
+         "&ldquo;hard to measure&rdquo; &mdash; the middle case. Not concealment: their faculties are "
+         "restrained, so what comes out is a small and consistent part of what is there."),
+        ("appameyya",
+         "&ldquo;immeasurable&rdquo; &mdash; said of the perfected one. The same family as the "
+         "<em>appamāṇa</em> of the four immeasurables."),
+        ("uddhata",
+         "&ldquo;restless&rdquo; &mdash; the first of nine adjectives, and the same word as the "
+         "hindrance of restlessness."),
+        ("asaṁvutindriya",
+         "&ldquo;with undisciplined faculties&rdquo; &mdash; the last of the nine, and the one whose "
+         "negation the middle case is built on."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Easy to measure"),
+        ("p", "&sect;1", "an3.115:1.1-1.6"),
+        ("h3", "Hard to measure"),
+        ("p", "&sect;2", "an3.115:2.1-2.3"),
+        ("h3", "Immeasurable"),
+        ("p", "&sect;3", "an3.115:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What are the three individuals?",
+         "opts": [
+             "The learned, the practicing, and the awakened",
+             "One easy to measure, one hard to measure, and one immeasurable",
+             "The lay, the monastic, and the divine",
+             "The junior, middle, and senior"],
+         "correct": 1,
+         "expl": "And being easy to measure turns out to be a criticism."},
+        {"q": "How many adjectives describe the first?",
+         "opts": [
+             "Three",
+             "Five",
+             "Nine &mdash; describing one condition from nine angles",
+             "Two"],
+         "correct": 2,
+         "expl": "A person moving constantly, talking constantly, and attending to nothing."},
+        {"q": "Why is such a person easy to measure?",
+         "opts": [
+             "Because they are honest",
+             "Because everything about them is on display &mdash; there is nothing held, so there is nothing to find out",
+             "Because they are simple",
+             "Because they are well known"],
+         "correct": 1,
+         "expl": "A few minutes is enough."},
+        {"q": "How is the second defined?",
+         "opts": [
+             "By concealment",
+             "By the same list negated, plus established mindfulness, situational awareness, immersion, a unified mind, and restrained faculties",
+             "By seniority",
+             "By silence"],
+         "correct": 1,
+         "expl": "<em>Duppameyya</em>: hard, but not impossible."},
+        {"q": "What makes the second hard to measure, on the guide&rsquo;s reading?",
+         "opts": [
+             "Deliberate concealment",
+             "That their faculties are restrained and their mind unified, so what comes out is a small and consistent part of what is there",
+             "Rarity of contact",
+             "Complexity of character"],
+         "correct": 1,
+         "expl": "Nothing is being hidden; there is simply more than the surface shows."},
+        {"q": "Who is the immeasurable one?",
+         "opts": [
+             "A teacher",
+             "A mendicant who is perfected and has ended defilements &mdash; in one line, with no adjectives",
+             "A meditator in the formless attainments",
+             "A Buddha only"],
+         "correct": 1,
+         "expl": "<em>Appameyya</em>, the same family as the four immeasurables."},
+        {"q": "How does that claim differ from the middle case?",
+         "opts": [
+             "It does not",
+             "Not that measuring is difficult but that the operation does not apply",
+             "It is a matter of degree",
+             "It concerns a different quality"],
+         "correct": 1,
+         "expl": "The point at which the measuring instrument stops working."},
+        {"q": "Where else does the canon say this?",
+         "opts": [
+             "AN 3.80, where the Buddha says &ldquo;Realized Ones are immeasurable&rdquo; when Ānanda tries a comparison",
+             "AN 3.36",
+             "AN 3.70",
+             "AN 3.95"],
+         "correct": 0,
+         "expl": "That was a refusal to answer a comparative question; this gives the principle behind it."},
+        {"q": "Why does the guide say the scale stops?",
+         "opts": [
+             "Because three is a convention",
+             "Because there is no fourth category and the third is not the top of a ladder",
+             "Because the discourse is short",
+             "Because measuring is unimportant"],
+         "correct": 1,
+         "expl": "It is where the instrument stops working."},
+        {"q": "What inversion does the guide identify?",
+         "opts": [
+             "Ordinary judgment treats being readable as a virtue and being hard to read as evasive; the discourse reverses both",
+             "That measuring is always wrong",
+             "That restlessness is a virtue",
+             "That silence is concealment"],
+         "correct": 0,
+         "expl": "What makes a person quick to sum up is that nothing in them is not being spent."},
+    ],
+    marginalia=[
+        ("Three", [
+            "<span class=\"pali\">suppameyya</span>easy to measure",
+            "<span class=\"pali\">duppameyya</span>hard to measure",
+            "<span class=\"pali\">appameyya</span>immeasurable",
+        ]),
+        ("Nine adjectives", [
+            "restless, insolent, fickle",
+            "scurrilous, loose-tongued",
+            "unmindful, straying, unrestrained",
+        ]),
+        ("The inversion", [
+            "readable &mdash; not a virtue",
+            "hard to read &mdash; not evasion",
+        ]),
+        ("Cross-references", [
+            "AN 3.80 &middot; &ldquo;Realized Ones are immeasurable&rdquo;",
+            "AN 3.63 &middot; the four immeasurables",
+            "AN 3.90 &middot; limitless immersion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.115/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.80.html">AN 3.80 &middot; Lesser</a> &mdash; where the same word is used to '
+        "refuse a comparison, and Ānanda is told that Realized Ones are immeasurable.",
+        '<a href="an-3.63.html">AN 3.63 &middot; At Venāgapura</a> &mdash; for the same word family '
+        "applied to the heart spread in all directions, which is what makes it available for a "
+        "person.",
+        '<a href="an-3.21.html">AN 3.21 &middot; With Saviṭṭha</a> &mdash; the collection&rsquo;s '
+        "other discourse about the limits of ranking people, where a question about who is finest is "
+        "declined because the categories cut across the stages.",
+    ],
+)
+
+
+page(
+    116, "Āneñja", "Imperturbable",
+    vagga=VAGGA_12,
+    meta_title="AN 3.116 — Imperturbable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Āneñjasutta — three "
+        "formless attainments, three enormous lifespans, and the one difference between an "
+        "ordinary person and a noble disciple. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three attainments, each with its rebirth, its lifespan, and two outcomes"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The formless attainments and their corresponding realms are preserved "
+                              "throughout the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; technical vocabulary, and one of "
+                       "the collection&rsquo;s bluntest warnings"),
+    ],
+    why=(
+        "Somebody reaches the dimension of infinite space, enjoys it, and is reborn among the gods of "
+        "that dimension for twenty thousand eons. Then the discourse says what happens next, twice: "
+        "an ordinary person goes to hell, the animal realm, or the ghost realm; a disciple of the "
+        "Buddha is extinguished there. The same for infinite consciousness at forty thousand eons "
+        "and nothingness at sixty thousand."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The highest meditative attainments buy an enormous amount of time and settle nothing."]),
+        ("What the three attainments are", [
+            "The formless attainments, in the standard order and with their standard formulas. "
+            "Infinite space: going beyond perceptions of form, with perceptions of impingement gone "
+            "and perceptions of diversity not attended to. Infinite consciousness: going beyond "
+            "infinite space. Nothingness: going beyond that.",
+            "These sit above the four absorptions in the canon&rsquo;s scheme and they are the "
+            "highest states the tradition inherited from the meditation culture around it. MN 26 "
+            "records the Bodhisatta learning the third of them from Āḷāra Kālāma and the fourth from "
+            "Uddaka Rāmaputta, and leaving both teachers because the attainments did not do what he "
+            "wanted.",
+            "The title word, <em>āneñja</em>, means imperturbable or unshakable, and it is the "
+            "canon&rsquo;s standard epithet for these states. That is what makes the discourse&rsquo;s "
+            "point sharp: the states really are imperturbable, and it is not enough."]),
+        ("The three verbs that do the damage", [
+            "&ldquo;They enjoy it and like it and find it rewarding. If they&rsquo;re set on that, "
+            "committed to it, and meditate on it often without losing it&hellip;&rdquo;",
+            "<em>Assādeti abhinandati</em> &mdash; the same verb family as the <em>assāda</em>, "
+            "gratification, of AN 3.103. What produces the rebirth is not the attainment but the "
+            "enjoyment of it.",
+            "That is the mechanism and it should be made explicit. A meditator reaches a state of "
+            "extraordinary refinement and does with it exactly what an ordinary person does with an "
+            "ordinary pleasure: finds it good, wants more of it, and settles into it. The three-term "
+            "analysis applies unchanged. There is gratification here, and the discourse is showing "
+            "what happens when the drawback is not seen.",
+            "The refinement of the object makes no difference at all, which is the same point AN 3.76 "
+            "made about the three realms: the mechanism is identical all the way up."]),
+        ("The two outcomes", [
+            "For the ordinary person: they stay until the lifespan is spent, and then <em>they go to "
+            "hell or the animal realm or the ghost realm.</em>",
+            "That sentence is one of the harshest in the collection and it should not be softened. "
+            "Twenty thousand eons in a formless realm ends in a lower rebirth, because nothing was "
+            "resolved during it. The attainment was a very long pause.",
+            "For the disciple of the Buddha: they stay until the lifespan is spent, and then "
+            "<em>they&rsquo;re extinguished in that very life</em>.",
+            "The difference is not the attainment, the realm, or the lifespan, all of which are "
+            "identical. It is described as <em>the difference between a learned noble disciple and an "
+            "unlearned ordinary person as regards their place of rebirth</em> &mdash; and what "
+            "distinguishes them was settled before either of them got there."]),
+        ("What this is warning against", [
+            "The target is specific and worth naming. It is not meditation, and it is not the "
+            "formless attainments, which the canon treats as real and describes without hostility.",
+            "It is the assumption that a sufficiently high state is itself the resolution. A person "
+            "who has reached the dimension of nothingness has gone further than almost anyone and the "
+            "discourse says that from that position, without the noble disciple&rsquo;s "
+            "qualification, the eventual destination is a lower realm.",
+            "The numbers are doing rhetorical work here in the same way as AN 3.70&rsquo;s heavenly "
+            "arithmetic. Sixty thousand eons is not a figure anybody can hold, and its function is to "
+            "make the ending land: however long it is, it ends, and what follows was determined by "
+            "something else.",
+            "For a modern class the transferable version does not need the cosmology. A state of mind, "
+            "however refined and however long it lasts, is a state of mind; and the question of what "
+            "happens when it ends is not answered by how good it was."]),
+        ("Using it", [
+            "Teach it to anybody whose practice is going well, and teach it beside AN 3.101, where a "
+            "concentration held in place by force is named as not yet the thing. Between them the two "
+            "discourses cover both failure modes available to a meditator: a state that is not deep "
+            "enough, and a state that is deep enough and is being enjoyed.",
+            "The three-term analysis of AN 3.103 is the tool that makes this discourse usable. Ask "
+            "of any attainment: what is its gratification, what is its drawback, what is the escape? "
+            "A meditator who cannot answer the second question about their own best state is the "
+            "person this discourse describes."]),
+    ],
+    terms=[
+        ("āneñja",
+         "&ldquo;imperturbable&rdquo; &mdash; the canon&rsquo;s standard epithet for the formless "
+         "attainments. The states really are unshakable, which is what makes the discourse&rsquo;s "
+         "point sharp."),
+        ("ākāsānañcāyatana",
+         "&ldquo;the dimension of infinite space&rdquo; &mdash; the first of the three, with a "
+         "corresponding realm whose gods live twenty thousand eons."),
+        ("viññāṇañcāyatana",
+         "&ldquo;the dimension of infinite consciousness&rdquo; &mdash; the second, at forty thousand "
+         "eons."),
+        ("ākiñcaññāyatana",
+         "&ldquo;the dimension of nothingness&rdquo; &mdash; the third, at sixty thousand eons, and "
+         "the attainment MN 26 records the Bodhisatta learning from Āḷāra Kālāma."),
+        ("assādeti abhinandati",
+         "&ldquo;enjoys it and likes it&rdquo; &mdash; the same verb family as the <em>assāda</em> of "
+         "AN 3.103. What produces the rebirth is the enjoyment, not the attainment."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Infinite space"),
+        ("p", "&sect;1", "an3.116:1.1-1.8"),
+        ("h3", "Infinite consciousness"),
+        ("p", "&sect;2", "an3.116:2.1-2.6"),
+        ("h3", "Nothingness"),
+        ("p", "&sect;3", "an3.116:3.1-3.7"),
+    ],
+    quiz=[
+        {"q": "What three attainments are described?",
+         "opts": [
+             "The first three absorptions",
+             "The dimensions of infinite space, infinite consciousness, and nothingness",
+             "The three knowledges",
+             "The three trainings"],
+         "correct": 1,
+         "expl": "The formless attainments, in the standard order."},
+        {"q": "What does <em>āneñja</em> mean, and why does it matter?",
+         "opts": [
+             "&ldquo;Formless&rdquo;; it names the realm",
+             "&ldquo;Imperturbable&rdquo; &mdash; and the point is sharp precisely because the states really are unshakable",
+             "&ldquo;Long-lasting&rdquo;; it names the lifespan",
+             "&ldquo;Difficult&rdquo;; it names the practice"],
+         "correct": 1,
+         "expl": "The canon&rsquo;s standard epithet for these states."},
+        {"q": "Where does MN 26 place two of these attainments?",
+         "opts": [
+             "As things the Bodhisatta learned from Āḷāra Kālāma and Uddaka Rāmaputta, and left because they did not do what he wanted",
+             "As inventions of later schools",
+             "As unattainable",
+             "As identical with awakening"],
+         "correct": 0,
+         "expl": "The highest states the tradition inherited from the meditation culture around it."},
+        {"q": "What actually produces the rebirth?",
+         "opts": [
+             "The attainment itself",
+             "The enjoyment of it &mdash; they enjoy it, like it, and find it rewarding",
+             "The length of practice",
+             "The teacher&rsquo;s instruction"],
+         "correct": 1,
+         "expl": "<em>Assādeti abhinandati</em>, the same verb family as the <em>assāda</em> of AN 3.103."},
+        {"q": "What does the guide say about the refinement of the object?",
+         "opts": [
+             "It reduces the danger",
+             "It makes no difference at all &mdash; the mechanism is identical all the way up, as AN 3.76 said of the three realms",
+             "It removes the need for insight",
+             "It shortens the lifespan"],
+         "correct": 1,
+         "expl": "A meditator does with a refined state what anyone does with an ordinary pleasure."},
+        {"q": "What happens to an ordinary person when the lifespan ends?",
+         "opts": [
+             "They are reborn in a higher realm",
+             "They are extinguished",
+             "They go to hell, the animal realm, or the ghost realm",
+             "They return to the human realm"],
+         "correct": 2,
+         "expl": "One of the harshest sentences in the collection, and it should not be softened."},
+        {"q": "And a disciple of the Buddha?",
+         "opts": [
+             "Is extinguished in that very life",
+             "Is reborn higher",
+             "Returns to the human realm",
+             "Stays indefinitely"],
+         "correct": 0,
+         "expl": "The attainment, realm, and lifespan are identical in both cases."},
+        {"q": "What is the discourse warning against?",
+         "opts": [
+             "Meditation",
+             "The formless attainments",
+             "The assumption that a sufficiently high state is itself the resolution",
+             "Long lifespans"],
+         "correct": 2,
+         "expl": "The canon treats these attainments as real and describes them without hostility."},
+        {"q": "What work are the numbers doing?",
+         "opts": [
+             "Reporting a measurement",
+             "Rhetorical work, as in AN 3.70 &mdash; sixty thousand eons is a figure nobody can hold, and its function is to make the ending land",
+             "Establishing a chronology",
+             "Distinguishing the realms"],
+         "correct": 1,
+         "expl": "However long it is, it ends."},
+        {"q": "What is the transferable version, without the cosmology?",
+         "opts": [
+             "That meditation is dangerous",
+             "That a state of mind, however refined and however long it lasts, is a state of mind &mdash; and what happens when it ends is not answered by how good it was",
+             "That attainments should be avoided",
+             "That teachers are necessary"],
+         "correct": 1,
+         "expl": "Teach it to anybody whose practice is going well."},
+    ],
+    marginalia=[
+        ("Three dimensions", [
+            "infinite space &middot; 20,000 eons",
+            "infinite consciousness &middot; 40,000",
+            "nothingness &middot; 60,000",
+        ]),
+        ("The mechanism", [
+            "enjoys it, likes it",
+            "finds it rewarding",
+            "&mdash; and that is what plants it",
+        ]),
+        ("Two endings", [
+            "ordinary person &middot; a lower realm",
+            "noble disciple &middot; extinguished there",
+            "&mdash; same state, same lifespan",
+        ]),
+        ("Cross-references", [
+            "MN 26 &middot; learned and left",
+            "AN 3.101 &middot; the other failure mode",
+            "AN 3.103 &middot; the tool that applies",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.116/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-026.html">MN 26 &middot; The Noble Search</a> &mdash; where '
+        "the Bodhisatta learns the third and fourth formless attainments from two named teachers and "
+        "leaves both, because the attainments do not lead where he is going. It is the biographical "
+        "version of this discourse&rsquo;s warning.",
+        '<a href="an-3.101.html">AN 3.101 &middot; A Panner</a> &mdash; the other failure mode '
+        "available to a meditator: a concentration that is not deep enough because it is held in "
+        "place by force.",
+        '<a href="an-3.103.html">AN 3.103 &middot; Before Awakening</a> &mdash; the three-term '
+        "analysis that makes this discourse usable, applied to any attainment: what is its "
+        "gratification, its drawback, and the escape?",
+    ],
+)
+
+
+page(
+    117, "Vipattisampadā", "Failures and Accomplishments",
+    vagga=VAGGA_12,
+    meta_title="AN 3.117 — Failures and Accomplishments | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vipattisampadāsutta — "
+        "failure in ethics, mind, and view, with the wrong-view formula explained. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three failures, each defined; then three accomplishments in the same shape"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The three failures and the wrong-view formula are preserved throughout "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; straightforward, with one formula "
+                       "that needs unpacking"),
+    ],
+    why=(
+        "Three ways of failing: in ethics, in mind, and in view. Ethics is defined by the seven "
+        "unwholesome courses of action, mind by covetousness and malice, and view by a formula that "
+        "denies giving, kamma, the afterlife, and the existence of anybody who has realized "
+        "anything. Then the same three in the positive. The middle definition is the shortest and the "
+        "third is the one that repays work."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A life can fail in what it does, in what it wants, or in what it takes to be true."]),
+        ("Failure in ethics", [
+            "Killing, stealing, sexual misconduct, and speech that is <em>false, backbiting, harsh, or "
+            "nonsensical</em>. Seven items: three of body and four of speech.",
+            "This is the standard list of unwholesome courses of action minus the three mental ones, "
+            "which the discourse holds back for the next category. The division is the point: what a "
+            "person does is separated from what a person wants.",
+            "Notice that the seven are all things done to other people. Failure in ethics, on this "
+            "account, is not a matter of personal impurity; every item on the list has a victim."]),
+        ("Failure in mind", [
+            "Two words: <em>covetous and malicious</em>. <em>Abhijjhālu byāpannacitta</em> &mdash; the "
+            "same pair AN 3.94 named as the two things given up after stream-entry, and the first two "
+            "of the five hindrances.",
+            "The definition is much shorter than the other two, and the brevity is informative. "
+            "Failure of mind is not a long list of mental faults; it is two, and they are the two "
+            "directions a mind can move toward an object &mdash; wanting it and wishing it harm.",
+            "The third mental course of action, wrong view, has been split off and given its own "
+            "category, which is what makes this discourse a set of three rather than a set of two."]),
+        ("Failure in view, and what the formula means", [
+            "The formula is one of the most-repeated in the canon and it is worth going through "
+            "clause by clause, because a modern reader will misread at least one of them.",
+            "<em>There&rsquo;s no meaning in giving, sacrifice, or offerings</em> &mdash; that acts of "
+            "generosity have no consequence. <em>There&rsquo;s no fruit or result of good and bad "
+            "deeds</em> &mdash; the denial of kamma. <em>There&rsquo;s no afterlife</em> &mdash; "
+            "the denial of rebirth.",
+            "<em>There&rsquo;s no such thing as mother and father</em> is the clause that gets "
+            "misread, and it does not mean that parents do not exist. It is shorthand for the view "
+            "that there is no moral weight in how one treats them &mdash; that a deed done to a "
+            "mother or father is not different in kind from any other deed. Read as a denial of "
+            "parents&rsquo; existence it is absurd, which is a good sign that it is not what is "
+            "meant.",
+            "<em>Beings that are reborn spontaneously</em> denies a class of rebirth; and the last "
+            "clause &mdash; <em>there&rsquo;s no ascetic or brahmin who is rightly comported</em> and "
+            "has realized and declared this world and the next &mdash; denies that anybody has "
+            "actually attained anything.",
+            "That last clause is the one that makes the formula a coherent position rather than a "
+            "list. Everything before it could in principle be settled by testimony, and the last "
+            "clause forecloses the testimony. Anyone holding the whole formula has ruled out the "
+            "evidence that would tell against it, which is why the canon treats this particular view "
+            "as difficult rather than merely wrong.",
+            "It is worth telling a class that the position described is a real one held by named "
+            "contemporaries and set out at length in DN 2, not a straw figure. And it is worth being "
+            "honest that a modern reader who accepts the first three clauses and rejects the last has "
+            "a position the discourse does not address."]),
+        ("The positive half, and the middle term", [
+            "The three accomplishments are the three failures negated: the seven courses of action "
+            "avoided, the mind <em>content and kind-hearted</em>, and the view formula affirmed.",
+            "<em>Anabhijjhālu abyāpannacitta</em> &mdash; and Sujato&rsquo;s <em>content and "
+            "kind-hearted</em> is worth noticing as a translation choice. The Pāli is negative in "
+            "form, not covetous and not malicious, and the English gives it positive content. Both "
+            "readings are defensible and the difference matters for how the category feels: an "
+            "absence of two faults, or the presence of two qualities.",
+            "The consequences given are the plainest possible: failure in any of the three can lead "
+            "to a bad rebirth, accomplishment in any of the three to a good one. Three independent "
+            "routes in each direction, and the discourse does not say that any of them is decisive by "
+            "itself."]),
+    ],
+    terms=[
+        ("vipatti sampadā",
+         "&ldquo;failure and accomplishment&rdquo; &mdash; the paired title words, applied in turn to "
+         "ethics, mind, and view."),
+        ("abhijjhālu byāpannacitta",
+         "&ldquo;covetous and malicious&rdquo; &mdash; the whole of failure in mind, and the two "
+         "directions a mind can move toward an object."),
+        ("natthi mātā natthi pitā",
+         "&ldquo;there&rsquo;s no such thing as mother and father&rdquo; &mdash; shorthand for the "
+         "view that there is no moral weight in how one treats them, not a denial that parents "
+         "exist."),
+        ("opapātikā sattā",
+         "&ldquo;beings reborn spontaneously&rdquo; &mdash; a class of rebirth whose denial is part "
+         "of the formula."),
+        ("micchādiṭṭhi viparītadassana",
+         "&ldquo;wrong view, a distorted perspective&rdquo; &mdash; the heading under which the whole "
+         "formula is given."),
+    ],
+    text_intro=(
+        "The discourse in full, both halves. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three failures"),
+        ("p", "&sect;1", "an3.117:1.1-1.6"),
+        ("p", "&sect;2", "an3.117:2.1-2.3"),
+        ("p", "&sect;3", "an3.117:3.1-3.8"),
+        ("h3", "Three accomplishments"),
+        ("p", "&sect;4", "an3.117:4.1-4.3"),
+        ("p", "&sect;5", "an3.117:5.1-5.3"),
+        ("p", "&sect;6", "an3.117:6.1-6.3"),
+        ("p", "&sect;7", "an3.117:7.1-7.8"),
+    ],
+    quiz=[
+        {"q": "What are the three failures?",
+         "opts": [
+             "In body, speech, and mind",
+             "In ethics, mind, and view",
+             "In giving, precepts, and meditation",
+             "In faith, energy, and wisdom"],
+         "correct": 1,
+         "expl": "A life can fail in what it does, in what it wants, or in what it takes to be true."},
+        {"q": "How many items define failure in ethics, and of what kinds?",
+         "opts": [
+             "Seven &mdash; three of body and four of speech",
+             "Ten, of body, speech, and mind",
+             "Five precepts",
+             "Three, of body only"],
+         "correct": 0,
+         "expl": "The standard list minus the three mental courses, which are held back."},
+        {"q": "What does the guide notice about the seven?",
+         "opts": [
+             "That they are hard to keep",
+             "That they are all things done to other people &mdash; every item has a victim",
+             "That they apply to monastics",
+             "That they are ranked"],
+         "correct": 1,
+         "expl": "Failure in ethics is not a matter of personal impurity on this account."},
+        {"q": "How is failure in mind defined?",
+         "opts": [
+             "By a long list of mental faults",
+             "By two words &mdash; covetous and malicious",
+             "By wrong view",
+             "By distraction"],
+         "correct": 1,
+         "expl": "The two directions a mind can move toward an object: wanting it and wishing it harm."},
+        {"q": "Why is wrong view given its own category?",
+         "opts": [
+             "Because it is worse",
+             "Because splitting it off from the other two mental courses is what makes this a set of three rather than a set of two",
+             "Because it is rare",
+             "Because it is hard to define"],
+         "correct": 1,
+         "expl": "The third mental course of action has been separated out."},
+        {"q": "What does &ldquo;there&rsquo;s no such thing as mother and father&rdquo; mean?",
+         "opts": [
+             "That parents do not exist",
+             "That there is no moral weight in how one treats them &mdash; a deed done to a parent is not different in kind from any other",
+             "That parents should be ignored",
+             "That birth is spontaneous"],
+         "correct": 1,
+         "expl": "Read as a denial of parents&rsquo; existence it is absurd, which is a good sign it is not what is meant."},
+        {"q": "Which clause makes the formula a coherent position rather than a list?",
+         "opts": [
+             "The denial of giving",
+             "The denial of kamma",
+             "The denial that any ascetic or brahmin has realized and declared this world and the next",
+             "The denial of rebirth"],
+         "correct": 2,
+         "expl": "Everything before it could be settled by testimony, and this clause forecloses the testimony."},
+        {"q": "Why does the canon treat this view as difficult rather than merely wrong?",
+         "opts": [
+             "Because it is popular",
+             "Because anyone holding the whole formula has ruled out the evidence that would tell against it",
+             "Because it is ancient",
+             "Because it is complex"],
+         "correct": 1,
+         "expl": "The position is a real one, set out at length in DN 2."},
+        {"q": "What honest point does the guide make about modern readers?",
+         "opts": [
+             "That they must accept the formula",
+             "That somebody who accepts the first three clauses and rejects the last has a position the discourse does not address",
+             "That the formula is obsolete",
+             "That the clauses are inseparable"],
+         "correct": 1,
+         "expl": "Worth being honest about."},
+        {"q": "What translation choice does the guide flag in the positive half?",
+         "opts": [
+             "&ldquo;Content and kind-hearted&rdquo; renders a Pāli that is negative in form &mdash; not covetous and not malicious",
+             "&ldquo;Accomplishment&rdquo; is too strong",
+             "&ldquo;View&rdquo; should be &ldquo;opinion&rdquo;",
+             "&ldquo;Failure&rdquo; is too harsh"],
+         "correct": 0,
+         "expl": "An absence of two faults, or the presence of two qualities &mdash; and the difference matters for how the category feels."},
+    ],
+    marginalia=[
+        ("Three failures", [
+            "ethics &middot; seven courses of action",
+            "mind &middot; covetous, malicious",
+            "view &middot; the denial formula",
+        ]),
+        ("One clause", [
+            "&ldquo;no such thing as mother and father&rdquo;",
+            "&mdash; not: they don&rsquo;t exist",
+            "but: it makes no moral difference",
+        ]),
+        ("The last clause", [
+            "no one has realized it",
+            "&mdash; and so the testimony",
+            "is foreclosed",
+        ]),
+        ("Cross-references", [
+            "AN 3.94 &middot; the same two, given up",
+            "DN 2 &middot; the position at length",
+            "AN 3.31 &middot; what is owed to parents",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.117/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-02.html">DN 2 &middot; The Fruits of the Ascetic Life</a> '
+        "&mdash; where the position this formula denies is set out at length in the words of the "
+        "teachers who held it, alongside five other contemporary doctrines. It is the necessary "
+        "background for reading the wrong-view formula as a real position rather than a straw figure.",
+        '<a href="an-3.94.html">AN 3.94 &middot; Autumn</a> &mdash; for covetousness and ill will as '
+        "the two things given up after the vision of the teaching, which is the same pair that "
+        "constitutes failure in mind here.",
+        '<a href="an-3.31.html">AN 3.31 &middot; With Divinity</a> &mdash; for what the collection '
+        "holds is owed to parents, which is what the misread clause of the formula is denying.",
+    ],
+)
