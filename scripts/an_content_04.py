@@ -32445,3 +32445,2346 @@ page(
         "this chapter, and set its method.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Ābhāvagga — the fifteenth chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_15 = "<em>Ābhāvagga</em> &mdash; the fifteenth chapter of the Fours"
+SETTING_15 = ("None stated; the Ābhāvagga gives no location for this discourse, and it is addressed "
+              "to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.141 — Ābhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    141, "Ābhā", "Brightness",
+    vagga=VAGGA_15,
+    meta_title="AN 4.141 — Brightness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ābhāsutta — moon, sun, "
+        "fire, and wisdom, and the first of five discourses that say the same thing in five "
+        "different words. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four and a superlative, in five lines"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The comparison of wisdom to the lights of the world is widespread "
+                              "across the early collections; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest kind of discourse "
+                       "in the collection, and the first of five that are nearly identical"),
+    ],
+    why=(
+        "Four kinds of brightness: the moon, the sun, fire, and wisdom. Of the four, the brightness "
+        "of wisdom is best. That is the entire discourse, and the four that follow it repeat it "
+        "with a different word for light each time. The chapter opens by showing, more plainly than "
+        "anywhere else in the Fours, what a collection organized by number actually is."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Of everything that gives light, wisdom gives the most."]),
+        ("Three lights and a fourth", [
+            "The three physical items are not chosen at random and they are not in order of "
+            "brightness. Moon, sun, fire &mdash; if the ordering were by magnitude the sun would "
+            "come first.",
+            "What the order does follow is nearness. The moon is the most distant and the faintest; "
+            "the sun is nearer to a person&rsquo;s day and stronger; fire is the light in the room, "
+            "the only one of the three a human being makes and controls. The list walks inward.",
+            "All three share something the fourth does not. The moon sets, the sun sets, and fire "
+            "goes out. A light that has to be waited for, or fed, is a light that fails, and the "
+            "discourse names three of them before naming a fourth that is not on the same footing.",
+            "The claim is not that wisdom is like the sun only more so. It is that the three "
+            "familiar lights make a category, and that the interesting member of the category is the "
+            "one that is not physical at all."]),
+        ("<em>Etadaggaṁ</em>", [
+            "The final line uses a fixed formula: <em>etadaggaṁ&hellip; yadidaṁ paññābhā</em>, this "
+            "is the foremost of them, namely the brightness of wisdom.",
+            "<em>Etadaggaṁ</em> is the same construction that names the foremost disciple in each "
+            "category in the Ones &mdash; foremost of those with great wisdom, foremost of those who "
+            "have heard much. It is the collection&rsquo;s standard way of ranking a set it has just "
+            "listed.",
+            "Here it does the whole argumentative work of the discourse, and it does it without "
+            "argument. Nothing explains why wisdom should be brightest, and nothing is needed once "
+            "the three failing lights have been put beside it."]),
+        ("What the next four discourses are", [
+            "AN 4.142 to AN 4.145 say exactly this, with <em>pabhā</em>, <em>āloka</em>, "
+            "<em>obhāsa</em>, and <em>pajjota</em> in place of <em>ābhā</em>. The four items are "
+            "the same, the superlative is the same, the length is the same.",
+            "This is a <em>peyyāla</em>, a repetition-series, and it is worth naming for what it is "
+            "rather than treating as five teachings. The teaching is one. What varies is the "
+            "head-word it is filed under.",
+            "That is a retrieval mechanism. In a collection carried by recitation, a teaching is "
+            "found by the word it is filed under, and a teaching filed under only one of five near-"
+            "synonyms is a teaching that will be missed by anyone searching with the other four. "
+            "Repeating it five times is not padding; it is indexing.",
+            "The chapter takes its name from the first of the five, which is why ten discourses "
+            "about light, times, speech, and essentials are collectively called the chapter of "
+            "brightness."]),
+        ("Reading the series honestly", [
+            "There is a temptation to find five different meanings in the five words, and it should "
+            "be resisted at least at first. The Pāli terms are near-synonyms; the Buddha is not "
+            "reported as distinguishing them; and the discourses give no hint that anything has "
+            "changed between one and the next.",
+            "What can be done, and what the following four pages do, is use each occurrence as an "
+            "occasion &mdash; because each of the five words has a life elsewhere in the canon that "
+            "the others do not. <em>Āloka</em> is the last term of the awakening formula. "
+            "<em>Obhāsa</em> is the word for the light that appears at a Buddha&rsquo;s conception "
+            "and for the light a meditator sees. <em>Pajjota</em> is a lamp, an object rather than "
+            "a quality.",
+            "That is a legitimate way to teach a peyyāla and it should be labelled as what it is: "
+            "the series is one teaching, and the differences being drawn out are differences in the "
+            "words&rsquo; other careers, not in this discourse&rsquo;s meaning."]),
+        ("Using it", [
+            "Short as it is, the discourse gives a teacher a complete image and one line. Three "
+            "lights that fail, and a fourth that is being compared to them.",
+            "The most useful question to put beside it is the one the discourse does not ask: what "
+            "kind of dark is being lit? The moon and the sun and the fire all address the same "
+            "darkness, which is the absence of light on things. Wisdom is placed in that list "
+            "without any statement that its darkness is a different darkness.",
+            "The Fours have already said what wisdom is for, in their very first discourse. AN 4.1 "
+            "names noble ethics, immersion, wisdom, and freedom as the four that were not understood "
+            "for a very long time, by the speaker along with everyone else. This chapter closes, at "
+            "AN 4.150, by calling those same four the heartwood."]),
+    ],
+    terms=[
+        ("ābhā",
+         "&ldquo;brightness&rdquo;, radiance &mdash; from <em>ā-bhā</em>, to shine toward; the "
+         "head-word of this discourse and of the whole chapter."),
+        ("paññābhā",
+         "&ldquo;the brightness of wisdom&rdquo; &mdash; the compound the discourse exists to place "
+         "at the head of its list."),
+        ("etadaggaṁ",
+         "&ldquo;this is the foremost&rdquo; &mdash; the collection&rsquo;s standard formula for "
+         "ranking a set, familiar from the foremost-disciple lists of the Ones."),
+        ("peyyāla",
+         "&ldquo;repetition-series&rdquo; &mdash; the technical name for what AN 4.141 to AN 4.145 "
+         "are: one teaching filed under five head-words."),
+        ("aggi",
+         "&ldquo;fire&rdquo; &mdash; the third light, and the only one of the three a human being "
+         "makes, feeds, and can let go out."),
+    ],
+    text_intro=(
+        "The discourse in full: four kinds of brightness, and which is best. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four kinds of brightness"),
+        ("p", "&sect;1", "an4.141:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What are the four kinds of brightness?",
+         "opts": [
+             "Dawn, noon, dusk, and midnight",
+             "The moon, the sun, fire, and wisdom",
+             "Faith, energy, mindfulness, and wisdom",
+             "Gods, humans, fire, and lamps"],
+         "correct": 1,
+         "expl": "Three physical lights and a fourth that is not physical at all."},
+        {"q": "What ordering do the three physical lights follow?",
+         "opts": [
+             "Brightness &mdash; faintest to strongest",
+             "Nearness &mdash; the list walks inward from the moon to the fire in the room",
+             "Chronological order",
+             "No ordering"],
+         "correct": 1,
+         "expl": "If the ordering were by magnitude the sun would come first."},
+        {"q": "What do the three physical lights share?",
+         "opts": [
+             "They are all made by humans",
+             "They all fail &mdash; the moon sets, the sun sets, and fire goes out",
+             "They are all celestial",
+             "They are all constant"],
+         "correct": 1,
+         "expl": "A light that has to be waited for, or fed, is a light that fails."},
+        {"q": "What does <em>etadaggaṁ</em> do?",
+         "opts": [
+             "Defines a term",
+             "Names the foremost of a set just listed &mdash; the same formula as the foremost-disciple lists",
+             "Introduces a simile",
+             "Closes a chapter"],
+         "correct": 1,
+         "expl": "It does the whole argumentative work of the discourse, without argument."},
+        {"q": "What are AN 4.142 to AN 4.145?",
+         "opts": [
+             "Four further teachings on wisdom",
+             "The same discourse with a different word for light each time",
+             "Commentaries on this one",
+             "Four similes"],
+         "correct": 1,
+         "expl": "<em>Pabhā</em>, <em>āloka</em>, <em>obhāsa</em>, <em>pajjota</em>."},
+        {"q": "What is a <em>peyyāla</em>?",
+         "opts": [
+             "A verse summary",
+             "A repetition-series &mdash; one teaching filed under several head-words",
+             "A commentary",
+             "A chapter heading"],
+         "correct": 1,
+         "expl": "The teaching is one; what varies is the word it is filed under."},
+        {"q": "Why does the guide call the repetition indexing rather than padding?",
+         "opts": [
+             "Because reciters enjoy repetition",
+             "Because a teaching filed under one of five near-synonyms will be missed by anyone searching with the other four",
+             "Because the words differ in meaning",
+             "Because the compilers were uncertain"],
+         "correct": 1,
+         "expl": "In a collection carried by recitation, a teaching is found by the word it is filed under."},
+        {"q": "How does the guide say the five words should be treated?",
+         "opts": [
+             "As five distinct kinds of light",
+             "As near-synonyms &mdash; the differences drawn out on later pages are differences in the words&rsquo; other careers, not in this teaching&rsquo;s meaning",
+             "As translation errors",
+             "As a later expansion"],
+         "correct": 1,
+         "expl": "The discourses give no hint that anything has changed between one and the next."},
+        {"q": "Why is the whole chapter called the chapter of brightness?",
+         "opts": [
+             "Because all ten discourses concern light",
+             "Because a chapter is named after its first discourse, and only half of this one is about light",
+             "Because the compilers chose the theme",
+             "Because of the closing verse"],
+         "correct": 1,
+         "expl": "The chapter also covers times, speech, and essentials."},
+        {"q": "What question does the guide say the discourse does not ask?",
+         "opts": [
+             "Which light is brightest",
+             "What kind of dark is being lit &mdash; wisdom is put in the list without any claim that its darkness is a different darkness",
+             "Who is speaking",
+             "Whether fire counts as light"],
+         "correct": 1,
+         "expl": "The three physical lights all address the absence of light on things."},
+    ],
+    marginalia=[
+        ("Four lights", [
+            "moon &middot; distant, faint",
+            "sun &middot; nearer, stronger",
+            "fire &middot; in the room, made",
+            "wisdom &middot; best",
+        ]),
+        ("What three share", [
+            "the moon sets",
+            "the sun sets",
+            "the fire goes out",
+        ]),
+        ("Five filings", [
+            "<span class=\"pali\">ābhā</span>4.141",
+            "<span class=\"pali\">pabhā</span>4.142",
+            "<span class=\"pali\">āloka</span>4.143",
+            "<span class=\"pali\">obhāsa</span>4.144 &middot; <span class=\"pali\">pajjota</span>4.145",
+        ]),
+        ("Cross-references", [
+            "AN 4.1 &middot; wisdom among the first four",
+            "AN 4.150 &middot; the same four as heartwood",
+            "AN 4.142 &middot; next: the same, in another word",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.141/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.142.html">AN 4.142 &middot; Radiance</a> &mdash; next in this series, and the '
+        "second of the five filings.",
+        '<a href="an-4.1.html">AN 4.1 &middot; Understood</a> &mdash; where wisdom is one of the '
+        "four the Fours open with.",
+        '<a href="an-4.150.html">AN 4.150 &middot; Essentials</a> &mdash; the discourse that closes '
+        "this chapter with the same four called heartwood.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.142 — Pabhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    142, "Pabhā", "Radiance",
+    vagga=VAGGA_15,
+    meta_title="AN 4.142 — Radiance | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pabhāsutta — the second of "
+        "five filings of one teaching, and a look at the five Pāli words for light it is filed "
+        "under. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.141 with one word replaced throughout"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Synonym-series of this kind are a feature of the Pāli redaction; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; identical to the discourse "
+                       "before it except for the head-word"),
+    ],
+    why=(
+        "The same four lights and the same verdict, under a different word. This page is the place "
+        "to look at the five words themselves &mdash; <em>ābhā</em>, <em>pabhā</em>, <em>āloka</em>, "
+        "<em>obhāsa</em>, <em>pajjota</em> &mdash; and at the honest answer to what separates them, "
+        "which is: not much, and that is the point."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same teaching as AN 4.141, filed under a second word."]),
+        ("What the five words do", [
+            "<em>Ābhā</em>: from <em>ā-bhā</em>, to shine toward. Light coming from something in "
+            "the direction of an observer &mdash; a glow, a sheen, brightness as a property of a "
+            "surface or a source.",
+            "<em>Pabhā</em>: <em>pa-bhā</em>, to shine forth. The prefix is one of issuing outward "
+            "and beginning, so <em>pabhā</em> leans toward radiance, light going out from a thing.",
+            "<em>Āloka</em>: from the root for seeing, not for shining. It is light in the sense of "
+            "what makes seeing possible &mdash; daylight, illumination, the opposite of a dark room.",
+            "<em>Obhāsa</em>: <em>ava-bhās</em>, to shine down or upon. Illumination falling on "
+            "something; the word used for a light that appears somewhere.",
+            "<em>Pajjota</em>: from a root meaning to blaze. Unlike the other four this is a noun "
+            "for a thing &mdash; a lamp, a torch, whatever is burning."]),
+        ("How much of that survives translation", [
+            "Very little, and the honest thing is to say so. English has brightness, radiance, "
+            "light, shining, and lamp, and Sujato distributes them one to a discourse in that order, "
+            "which preserves the fact that five different words were used without claiming to "
+            "reproduce the shades between them.",
+            "Other translators distribute them differently, and any reader comparing versions will "
+            "find the same five discourses wearing different English words. Nothing turns on which "
+            "assignment is used, because nothing in the discourses depends on the distinction.",
+            "This is worth stating clearly for students who assume that a different word must mean a "
+            "different thing. Sometimes it does. Here, five words are being used to catch one "
+            "teaching in five nets."]),
+        ("Why a tradition builds synonym-series", [
+            "A recited collection has no index at the back. The way a teaching is found is by "
+            "remembering the number it belongs to and the word it starts from, and a teaching filed "
+            "under a single word is only findable by someone who reaches for that word.",
+            "So the compilers file it five times. Anyone who thinks of the teaching as being about "
+            "<em>āloka</em> finds it under <em>āloka</em>; anyone who thinks of it as being about "
+            "<em>pajjota</em> finds it there.",
+            "The cost is that a written text looks padded. The benefit is that nothing is lost, and "
+            "in a system where loss is permanent that trade is obviously worth making.",
+            "The Aṅguttara does this on a much larger scale further on. The Fours themselves end in "
+            "two abridged blocks, AN 4.277&ndash;303 and AN 4.304&ndash;783, in which whole sets of "
+            "practices are crossed with whole sets of defilements to produce hundreds of nominal "
+            "discourses. This chapter is the same mechanism at a size a reader can see all at once."]),
+        ("What is not being said", [
+            "The series does not claim that wisdom is a kind of illumination in any literal sense. "
+            "No mechanism is offered, no experience is described, and no meditative phenomenon is "
+            "mentioned.",
+            "That restraint matters because the vocabulary invites the opposite. Light is the most "
+            "over-used metaphor available to a religion, and this chapter has five discourses in a "
+            "row that could be read as endorsing every claim ever made about inner illumination.",
+            "What they actually say is that among things that give light, wisdom gives the most. It "
+            "is a comparison, not a report.",
+            "The one discourse in the series where this needs watching is the next but one, AN "
+            "4.144, because <em>obhāsa</em> is the word the canon uses for light that meditators "
+            "actually see."]),
+        ("Where it sits", [
+            "Second of the five, and second of the chapter&rsquo;s ten. Three more filings follow, "
+            "and then the chapter changes subject entirely: two discourses on the four times, two on "
+            "speech, and one on the heartwood.",
+            "Half of the chapter of brightness is about brightness. The other half is about when to "
+            "practice, how to speak, and what the whole thing is for.",
+            "That is the ordinary condition of an Aṅguttara chapter, and by this point in the Fours "
+            "a reader should expect it rather than look for a unifying theme that is not there."]),
+    ],
+    terms=[
+        ("pabhā",
+         "&ldquo;radiance&rdquo; &mdash; from <em>pa-bhā</em>, to shine forth; light going out from "
+         "a thing, where <em>ābhā</em> is light coming toward an observer."),
+        ("āloka",
+         "&ldquo;light&rdquo; &mdash; from the root for seeing; light as what makes seeing "
+         "possible, rather than as what a source emits."),
+        ("obhāsa",
+         "&ldquo;shining&rdquo; &mdash; <em>ava-bhās</em>, to shine down upon; illumination falling "
+         "on something, and the word for a light that appears."),
+        ("pajjota",
+         "&ldquo;lamp&rdquo; &mdash; from a root meaning to blaze; alone among the five, a noun for "
+         "a thing rather than for a quality."),
+        ("adhivacana",
+         "&ldquo;designation&rdquo; &mdash; not used in this series, but the concept behind it: "
+         "five names attached to one thing."),
+    ],
+    text_intro=(
+        "The discourse in full: four kinds of radiance, and which is best. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four kinds of radiance"),
+        ("p", "&sect;1", "an4.142:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from AN 4.141?",
+         "opts": [
+             "It adds a fifth light",
+             "Only in the word used for light &mdash; <em>pabhā</em> for <em>ābhā</em>",
+             "It changes the verdict",
+             "It gives a simile"],
+         "correct": 1,
+         "expl": "Same four items, same superlative, same length."},
+        {"q": "What does the prefix in <em>pabhā</em> contribute?",
+         "opts": [
+             "Negation",
+             "Issuing outward &mdash; shining forth, light going out from a thing",
+             "Repetition",
+             "Intensity"],
+         "correct": 1,
+         "expl": "Where <em>ābhā</em> is light coming toward an observer."},
+        {"q": "What root does <em>āloka</em> come from?",
+         "opts": [
+             "To shine",
+             "To see &mdash; light as what makes seeing possible",
+             "To blaze",
+             "To rise"],
+         "correct": 1,
+         "expl": "The opposite of a dark room, rather than a property of a source."},
+        {"q": "Which of the five is a noun for a thing?",
+         "opts": [
+             "<em>Ābhā</em>",
+             "<em>Pajjota</em> &mdash; a lamp, a torch, whatever is burning",
+             "<em>Obhāsa</em>",
+             "<em>Pabhā</em>"],
+         "correct": 1,
+         "expl": "The other four name qualities."},
+        {"q": "How much of the Pāli distinction survives in English?",
+         "opts": [
+             "All of it",
+             "Very little &mdash; Sujato distributes five English words one to a discourse without claiming to reproduce the shades",
+             "None, and the words are identical",
+             "Only in the fourth"],
+         "correct": 1,
+         "expl": "Other translators distribute them differently, and nothing turns on it."},
+        {"q": "Why does a recited collection build synonym-series?",
+         "opts": [
+             "For rhythm",
+             "Because there is no index &mdash; a teaching filed under one word is findable only by someone who reaches for that word",
+             "To lengthen the text",
+             "To honor the speaker"],
+         "correct": 1,
+         "expl": "The cost is that a written text looks padded; the benefit is that nothing is lost."},
+        {"q": "Where does the Aṅguttara run the same mechanism at much larger scale?",
+         "opts": [
+             "In the Ones",
+             "In the two abridged blocks that end the Fours, AN 4.277&ndash;303 and AN 4.304&ndash;783",
+             "In the Elevens",
+             "In the chapter of persons"],
+         "correct": 1,
+         "expl": "Whole sets crossed with whole sets to produce hundreds of nominal discourses."},
+        {"q": "What does the series <em>not</em> claim?",
+         "opts": [
+             "That wisdom is best",
+             "That wisdom is a kind of illumination in any literal sense &mdash; no mechanism, experience, or phenomenon is described",
+             "That fire gives light",
+             "That the moon sets"],
+         "correct": 1,
+         "expl": "It is a comparison, not a report."},
+        {"q": "Why does the guide say that restraint matters?",
+         "opts": [
+             "Because the words are rare",
+             "Because light is the most over-used metaphor available to a religion, and five discourses in a row could be read as endorsing every claim about inner illumination",
+             "Because the discourses are short",
+             "Because the translation varies"],
+         "correct": 1,
+         "expl": "The place to watch is AN 4.144, where the word is one meditators actually see."},
+        {"q": "How much of the chapter of brightness is about brightness?",
+         "opts": [
+             "All of it",
+             "Half &mdash; the rest is about when to practice, how to speak, and what the whole thing is for",
+             "One discourse",
+             "None of it"],
+         "correct": 1,
+         "expl": "The ordinary condition of an Aṅguttara chapter."},
+    ],
+    marginalia=[
+        ("Five words", [
+            "<span class=\"pali\">ābhā</span>shining toward",
+            "<span class=\"pali\">pabhā</span>shining forth",
+            "<span class=\"pali\">āloka</span>what lets you see",
+            "<span class=\"pali\">obhāsa</span>shining upon",
+            "<span class=\"pali\">pajjota</span>a lamp",
+        ]),
+        ("In English", [
+            "brightness &middot; radiance",
+            "light &middot; shining &middot; lamp",
+            "&mdash; one to a discourse",
+        ]),
+        ("Why five", [
+            "no index at the back",
+            "found by the word you reach for",
+            "so: file it five times",
+        ]),
+        ("Cross-references", [
+            "AN 4.141 &middot; the first filing",
+            "AN 4.143 &middot; the next",
+            "AN 4.144 &middot; the one to watch",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.142/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.141.html">AN 4.141 &middot; Brightness</a> &mdash; the first filing, where '
+        "the four lights are set out.",
+        '<a href="an-4.143.html">AN 4.143 &middot; Light</a> &mdash; next in this series, and the '
+        "one word of the five with an independent career.",
+        '<a href="an-4.106.html">AN 4.106 &middot; Mangoes (2nd)</a> &mdash; the other place in the '
+        "Fours where a page has to be written about what the collection does rather than says.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.143 — Ālokasutta
+# --------------------------------------------------------------------------- #
+page(
+    143, "Āloka", "Light",
+    vagga=VAGGA_15,
+    meta_title="AN 4.143 — Light | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ālokasutta — the third of "
+        "five filings, and the one whose head-word closes the formula of the awakening. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.141 with one word replaced throughout"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The awakening formula this word closes is shared across the "
+                              "collections; this reading guide does not assert a specific matching "
+                              "sutra number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; five lines, and the word they "
+                       "turn on carries more weight than the discourse uses"),
+    ],
+    why=(
+        "The third filing of the same teaching, and the one word of the five with a career of its "
+        "own. <em>Āloka</em> is not built on a root meaning to shine; it is built on the root for "
+        "seeing, and it is the last of the five things the first sermon says arose: vision arose, "
+        "knowledge arose, wisdom arose, realization arose, light arose."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same teaching as AN 4.141, filed under the word for light-that-lets-you-see."]),
+        ("A word from the root for seeing", [
+            "The other four words in the series describe what a source does. <em>Āloka</em> "
+            "describes what an eye is given. Its root is <em>lok-</em>, to look, and the word means "
+            "daylight, illumination, the condition under which things are visible.",
+            "That makes it the least metaphorical of the five when it is applied to wisdom, and also "
+            "the most. Least, because saying &lsquo;the light of wisdom&rsquo; with this word says "
+            "wisdom is the condition under which something becomes visible, which is close to a "
+            "plain description of what wisdom does. Most, because nothing about wisdom emits "
+            "anything.",
+            "The compound with which the word is most often met in practice is "
+            "<em>ālokasaññā</em>, the perception of light &mdash; a meditation instruction given "
+            "for drowsiness, in which a practitioner attends to the perception of light so that the "
+            "mind stays clear. That is a technique, and it is not what this discourse is about, but "
+            "it is why the word will sound familiar to anyone who has sat through a nod."]),
+        ("&lsquo;Light arose&rsquo;", [
+            "The first sermon closes each turn of its account with a five-fold formula: "
+            "<em>cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi</em>. "
+            "Vision arose, knowledge arose, wisdom arose, realization arose, light arose.",
+            "Two things in that list are worth holding against AN 4.143. The first is that "
+            "<em>paññā</em> and <em>āloka</em> both appear in it, as separate items &mdash; so the "
+            "awakening formula does not treat wisdom and light as the same thing.",
+            "The second is that <em>āloka</em> comes last. Whatever the sequence in that formula is "
+            "doing, light is where it ends, and it ends there in the account of the moment the "
+            "tradition dates itself from.",
+            "AN 4.143 puts the two words together into one compound, <em>paññāloko</em>, and calls "
+            "it the best of four. It is a much smaller statement than the first sermon&rsquo;s, and "
+            "it is made of the same two pieces. This reading guide does not claim the compound was "
+            "built with the formula in mind; it notes that the vocabulary is shared and that a "
+            "reader who knows one will hear it in the other."]),
+        ("What a light does that a fire does not", [
+            "Since this is the word for illumination rather than for emission, it is the filing "
+            "under which the comparison in the list makes the most sense.",
+            "Moonlight, sunlight, and firelight are all conditions under which things can be seen, "
+            "and they differ in how much they show and for how long. Ranking wisdom above them is "
+            "then a claim about scope: more is visible by it, and it does not stop.",
+            "That is as far as the discourse goes, and it is worth not going further. It does not "
+            "say what becomes visible. It does not say the other three lights are false, or "
+            "unnecessary, or that a person with wisdom needs no lamp.",
+            "A reader who wants the content supplied has to go elsewhere in the collection, and the "
+            "chapter provides it seven discourses later. AN 4.150 names ethics, immersion, wisdom, "
+            "and freedom as the heartwood, which is the same word <em>paññā</em> doing structural "
+            "work rather than metaphorical work."]),
+        ("The middle of a series", [
+            "Third of five, and the point at which a reciter is deepest into the repetition.",
+            "It is worth saying something about what that felt like, because it is easy to read a "
+            "peyyāla as a list on a page and forget that it was a thing people did with their "
+            "voices. Five discourses of five lines each, sharing every word but one, recited in "
+            "sequence: the effect is not tedium but emphasis, and the single varying word stands out "
+            "precisely because everything around it does not move.",
+            "The technique is the same one AN 4.123 to AN 4.126 used with the absorptions and the "
+            "immeasurables, at a larger scale and with a doctrinal point riding on the variation. "
+            "Here there is no doctrinal point riding on it. There is only the teaching, said five "
+            "times, so that it cannot be lost."]),
+        ("Where it sits", [
+            "Third of the five filings and third of the chapter&rsquo;s ten. Two more filings "
+            "follow, and then the chapter turns to the four times, to speech, and to the heartwood.",
+            "The next, AN 4.144, is the one filing in the series that needs a word of caution, "
+            "because its head-word names something practitioners report seeing.",
+            "The one after, AN 4.145, closes the series by turning light into an object."]),
+    ],
+    terms=[
+        ("āloka",
+         "&ldquo;light&rdquo; &mdash; from <em>lok-</em>, to look; the condition under which things "
+         "are visible, rather than what a source emits."),
+        ("paññāloka",
+         "&ldquo;the light of wisdom&rdquo; &mdash; the compound this discourse ranks first, built "
+         "from two words that stand separately in the awakening formula."),
+        ("ālokasaññā",
+         "&ldquo;perception of light&rdquo; &mdash; a standard instruction against drowsiness; not "
+         "this discourse&rsquo;s subject, but the reason the word sounds familiar."),
+        ("udapādi",
+         "&ldquo;arose&rdquo; &mdash; the verb repeated five times in the first sermon&rsquo;s "
+         "closing formula, of which <em>āloko udapādi</em> is the last."),
+        ("vijjā",
+         "&ldquo;realization&rdquo;, true knowledge &mdash; the fourth item of that formula, "
+         "standing between wisdom and light."),
+    ],
+    text_intro=(
+        "The discourse in full: four lights, and which is best. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four lights"),
+        ("p", "&sect;1", "an4.143:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What root is <em>āloka</em> built on?",
+         "opts": [
+             "To shine",
+             "To look &mdash; it names the condition under which things are visible",
+             "To blaze",
+             "To know"],
+         "correct": 1,
+         "expl": "The other four words in the series describe what a source does."},
+        {"q": "Why does the guide call this word both the least and the most metaphorical of the five?",
+         "opts": [
+             "Because it is rare",
+             "Least, because wisdom really is a condition under which things become visible; most, because nothing about wisdom emits anything",
+             "Because it is ambiguous",
+             "Because translators disagree"],
+         "correct": 1,
+         "expl": "The word describes what an eye is given rather than what a lamp does."},
+        {"q": "What is <em>ālokasaññā</em>?",
+         "opts": [
+             "A stage of insight",
+             "The perception of light &mdash; a standard instruction against drowsiness",
+             "A kind of rebirth",
+             "A name for wisdom"],
+         "correct": 1,
+         "expl": "Not this discourse&rsquo;s subject, but why the word sounds familiar."},
+        {"q": "Where does <em>āloka</em> appear in the first sermon?",
+         "opts": [
+             "In the four truths",
+             "As the last of five things that arose &mdash; vision, knowledge, wisdom, realization, light",
+             "In the middle way",
+             "It does not appear"],
+         "correct": 1,
+         "expl": "<em>Āloko udapādi.</em>"},
+        {"q": "What follows from wisdom and light appearing as separate items in that formula?",
+         "opts": [
+             "That the formula is late",
+             "That the awakening formula does not treat wisdom and light as the same thing",
+             "That light is superior",
+             "That wisdom is superior"],
+         "correct": 1,
+         "expl": "AN 4.143 puts the two words into one compound, which is a smaller statement."},
+        {"q": "How careful is the guide about connecting the two?",
+         "opts": [
+             "It claims the compound was built from the formula",
+             "It notes the shared vocabulary and declines to claim the compound was built with the formula in mind",
+             "It denies any connection",
+             "It cites the commentary"],
+         "correct": 1,
+         "expl": "A reader who knows one will hear it in the other."},
+        {"q": "What kind of claim is ranking wisdom above the three lights, on this filing?",
+         "opts": [
+             "A claim about heat",
+             "A claim about scope &mdash; more is visible by it, and it does not stop",
+             "A claim about origin",
+             "A claim about rarity"],
+         "correct": 1,
+         "expl": "Moonlight, sunlight, and firelight differ in how much they show and for how long."},
+        {"q": "What does the discourse not say?",
+         "opts": [
+             "That wisdom is best",
+             "What becomes visible, or that the other three lights are false or unnecessary",
+             "That there are four lights",
+             "That fire is one of them"],
+         "correct": 1,
+         "expl": "It is worth not going further than the text does."},
+        {"q": "What does the guide say a recited peyyāla actually produces?",
+         "opts": [
+             "Tedium",
+             "Emphasis &mdash; the single varying word stands out because everything around it does not move",
+             "Confusion",
+             "Compression"],
+         "correct": 1,
+         "expl": "Easy to forget that this was a thing people did with their voices."},
+        {"q": "How does this series differ from AN 4.123 to AN 4.126?",
+         "opts": [
+             "It is longer",
+             "There is no doctrinal point riding on the variation &mdash; only the teaching, said five times so it cannot be lost",
+             "It uses similes",
+             "It has no superlative"],
+         "correct": 1,
+         "expl": "The same technique, without the argument."},
+    ],
+    marginalia=[
+        ("The odd root", [
+            "four words from <em>bhā</em>, to shine",
+            "<span class=\"pali\">āloka</span>from <em>lok-</em>, to look",
+        ]),
+        ("The first sermon", [
+            "vision arose",
+            "knowledge arose",
+            "wisdom arose &middot; realization arose",
+            "<span class=\"pali\">āloko udapādi</span>light arose",
+        ]),
+        ("The claim here", [
+            "not that wisdom emits",
+            "but that more is visible by it",
+            "and that it does not stop",
+        ]),
+        ("Cross-references", [
+            "AN 4.142 &middot; the five words compared",
+            "AN 4.144 &middot; the filing to watch",
+            "AN 4.150 &middot; wisdom as heartwood",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.143/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.142.html">AN 4.142 &middot; Radiance</a> &mdash; where the five words of the '
+        "series are set side by side.",
+        '<a href="an-4.144.html">AN 4.144 &middot; Shining</a> &mdash; next in this series, and the '
+        "one whose head-word names something meditators report seeing.",
+        '<a href="an-4.41.html">AN 4.41 &middot; Ways of Developing Immersion Further</a> &mdash; '
+        "where a perception is used to keep the mind clear.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.144 — Obhāsasutta
+# --------------------------------------------------------------------------- #
+page(
+    144, "Obhāsa", "Shining",
+    vagga=VAGGA_15,
+    meta_title="AN 4.144 — Shining | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Obhāsasutta — the fourth "
+        "of five filings, and the one whose head-word names a light that meditators report seeing. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.141 with one word replaced throughout"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Accounts of light seen in meditation occur across the early "
+                              "collections; this reading guide does not assert a specific matching "
+                              "sutra number for this discourse"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; five lines, and the only filing "
+                       "in the series that needs a caution attached"),
+    ],
+    why=(
+        "The fourth filing, under the word the canon uses for a light that actually appears. "
+        "<em>Obhāsa</em> is what shone at the four moments of a Buddha&rsquo;s life in AN 4.127, "
+        "reaching the darkness between the world systems; it is also the word for the light "
+        "meditators see, which the tradition treats with a good deal more caution than it treats "
+        "the metaphor."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same teaching as AN 4.141, filed under the word for a light that appears."]),
+        ("The word&rsquo;s other jobs", [
+            "<em>Obhāsa</em> is built on <em>ava-bhās</em>, to shine down or upon. It is "
+            "illumination arriving somewhere rather than a property of a source, and that is why it "
+            "is the word the collection reaches for when a light shows up.",
+            "It showed up thirteen discourses ago. AN 4.127 describes an <em>appamāṇo uḷāro "
+            "obhāso</em>, an immeasurable magnificent light, appearing at a Buddha&rsquo;s "
+            "conception, birth, awakening, and first teaching, and reaching the unlit intervals "
+            "between the world systems.",
+            "It is also the word used when meditators report seeing light. The canon contains a "
+            "long and unusually practical account of this: Anuruddha and his companions perceive "
+            "light and a vision of forms, both disappear, and the Buddha goes through a list of "
+            "mental states &mdash; doubt, loss of attention, dullness and drowsiness, fear, "
+            "elation, excess energy, and more &mdash; each of which makes the light vanish.",
+            "That account is careful in a specific way: it does not deny the light, and it does not "
+            "recommend it. It treats it as an indicator whose coming and going tracks the state of "
+            "the mind."]),
+        ("What this discourse does and does not say", [
+            "AN 4.144 says four things give <em>obhāsa</em> and the best is wisdom. That is all.",
+            "It does not say the light meditators see is the light of wisdom. It does not say that "
+            "seeing light is a sign of progress, or that it is not. It does not mention meditation "
+            "at all.",
+            "The caution is worth attaching here rather than anywhere else, because this is the "
+            "filing where a reader most easily supplies a connection the text has not made. The "
+            "series is a synonym-series; the word arrived in it because it is one of five Pāli words "
+            "for light, not because of anything to do with practice.",
+            "The later tradition made the point in its own way by listing <em>obhāsa</em> first "
+            "among the corruptions of insight &mdash; the pleasant and impressive phenomena that can "
+            "arise partway along and be mistaken for the goal. That list is commentarial and is not "
+            "in this discourse. It is mentioned here because a reader who meets the word in both "
+            "places should know the two uses are separate."]),
+        ("Why the caution belongs in a reading guide", [
+            "A page about a five-line discourse could reasonably say nothing at all. The reason to "
+            "say this much is that light is the point at which meditative experience most often gets "
+            "over-interpreted, in every tradition that has one.",
+            "The Fours themselves give the tools for restraint. AN 4.123 described someone who "
+            "attains a genuine absorption, enjoys it, and gains nothing permanent; AN 4.124 replaced "
+            "the enjoyment with contemplation and changed the outcome. Applied here, the principle "
+            "is exactly the same: whatever appears, the question is what the mind does with it.",
+            "So the honest reading of AN 4.144 is the flat one. Among things that shine, wisdom "
+            "shines most. Any experience a person has of light is a separate matter, and this "
+            "discourse is not evidence about it in either direction."]),
+        ("The comparison in this word", [
+            "Setting the caution aside, this filing does something the others do not, because "
+            "<em>obhāsa</em> is illumination arriving on a thing.",
+            "Moonlight falls on a road; sunlight falls on a field; firelight falls on a wall. The "
+            "word implies a surface. Ranking wisdom in that list is then a claim about what it "
+            "falls on, and the discourse says nothing about that.",
+            "The gap is worth leaving open rather than filling. It is one of the places where the "
+            "extreme brevity of an Aṅguttara discourse is doing something for the reader: the "
+            "compound <em>paññobhāso</em> is handed over intact, with no instructions, and what it "
+            "illuminates is left for whoever is using it."]),
+        ("Where it sits", [
+            "Fourth of the five filings. One more follows, AN 4.145, which closes the series by "
+            "naming a lamp instead of a quality.",
+            "After that the chapter changes subject: two discourses on the four times, two on "
+            "speech, and one on the heartwood.",
+            "By the end of AN 4.145 the same five lines will have been recited five times, and the "
+            "chapter will have spent half its length on one teaching."]),
+    ],
+    terms=[
+        ("obhāsa",
+         "&ldquo;shining&rdquo; &mdash; <em>ava-bhās</em>, to shine down upon; illumination "
+         "arriving somewhere, which is why the collection uses it when a light appears."),
+        ("appamāṇo uḷāro obhāso",
+         "&ldquo;an immeasurable, magnificent light&rdquo; &mdash; the phrase from AN 4.127, at the "
+         "four moments of a Buddha&rsquo;s life."),
+        ("dassana",
+         "&ldquo;vision&rdquo; &mdash; the perception of forms that the canon pairs with "
+         "<em>obhāsa</em> in the accounts of what meditators see."),
+        ("vipassanupakkilesa",
+         "&ldquo;corruption of insight&rdquo; &mdash; the commentarial list that begins with "
+         "<em>obhāsa</em>; not in this discourse, and mentioned only to keep the uses apart."),
+        ("paññobhāsa",
+         "&ldquo;the shining of wisdom&rdquo; &mdash; the compound this discourse ranks first, "
+         "handed over with no instructions."),
+    ],
+    text_intro=(
+        "The discourse in full: four kinds of shining, and which is best. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four kinds of shining"),
+        ("p", "&sect;1", "an4.144:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does <em>obhāsa</em> literally describe?",
+         "opts": [
+             "A source of light",
+             "Illumination arriving somewhere &mdash; shining down or upon",
+             "The act of seeing",
+             "A burning object"],
+         "correct": 1,
+         "expl": "Which is why the collection uses it when a light shows up."},
+        {"q": "Where in the Fours has this word already appeared?",
+         "opts": [
+             "AN 4.1",
+             "AN 4.127 &mdash; the immeasurable magnificent light at the four moments of a Buddha&rsquo;s life",
+             "AN 4.88",
+             "AN 4.111"],
+         "correct": 1,
+         "expl": "Reaching the unlit intervals between the world systems."},
+        {"q": "How does the canon treat light seen in meditation?",
+         "opts": [
+             "It denies it",
+             "It neither denies nor recommends it &mdash; it treats it as an indicator whose coming and going tracks the state of the mind",
+             "It calls it the goal",
+             "It does not mention it"],
+         "correct": 1,
+         "expl": "Anuruddha&rsquo;s account lists the mental states that make the light vanish."},
+        {"q": "Does AN 4.144 connect the light of wisdom to the light meditators see?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; it does not mention meditation at all",
+             "Yes, by implication",
+             "It denies the connection"],
+         "correct": 1,
+         "expl": "The word arrived in the series because it is one of five Pāli words for light."},
+        {"q": "What did the later tradition do with <em>obhāsa</em>?",
+         "opts": [
+             "Dropped it",
+             "Listed it first among the corruptions of insight &mdash; a commentarial list, not in this discourse",
+             "Made it the goal",
+             "Redefined it as wisdom"],
+         "correct": 1,
+         "expl": "Mentioned only so a reader meeting the word in both places keeps the uses apart."},
+        {"q": "Why does the guide attach the caution to this page rather than another?",
+         "opts": [
+             "Because the discourse is longest",
+             "Because this is the filing where a reader most easily supplies a connection the text has not made",
+             "Because the word is rare",
+             "Because the translation is disputed"],
+         "correct": 1,
+         "expl": "Light is where meditative experience most often gets over-interpreted."},
+        {"q": "What tool do the Fours themselves supply for restraint here?",
+         "opts": [
+             "A prohibition",
+             "AN 4.123 and AN 4.124 &mdash; whatever appears, the question is what the mind does with it",
+             "A definition",
+             "A simile"],
+         "correct": 1,
+         "expl": "A genuine attainment enjoyed changes nothing permanent."},
+        {"q": "What does the guide call the honest reading of AN 4.144?",
+         "opts": [
+             "The mystical one",
+             "The flat one &mdash; among things that shine, wisdom shines most, and any experience of light is a separate matter",
+             "The commentarial one",
+             "The comparative one"],
+         "correct": 1,
+         "expl": "The discourse is not evidence about it in either direction."},
+        {"q": "What does the word <em>obhāsa</em> imply that the others do not?",
+         "opts": [
+             "A source",
+             "A surface &mdash; illumination falls on a road, a field, a wall",
+             "A duration",
+             "An observer"],
+         "correct": 1,
+         "expl": "And the discourse says nothing about what wisdom falls on."},
+        {"q": "What does the guide say the discourse&rsquo;s brevity does for the reader?",
+         "opts": [
+             "Hides the meaning",
+             "Hands the compound over intact, with no instructions, leaving what it illuminates to whoever is using it",
+             "Shortens the recitation",
+             "Marks it as late"],
+         "correct": 1,
+         "expl": "A gap worth leaving open rather than filling."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">ava-bhās</span>to shine upon",
+            "implies a surface",
+            "&mdash; and the discourse names none",
+        ]),
+        ("Its other jobs", [
+            "AN 4.127 &middot; the light at four moments",
+            "the light meditators report",
+            "&mdash; both separate from this",
+        ]),
+        ("The caution", [
+            "the sutta does not connect them",
+            "the corruption-of-insight list is later",
+            "keep the uses apart",
+        ]),
+        ("Cross-references", [
+            "AN 4.127 &middot; the same word, at cosmic scale",
+            "AN 4.124 &middot; what the mind does with what appears",
+            "AN 4.145 &middot; next: light as an object",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.144/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.127.html">AN 4.127 &middot; Incredible Things About the Realized One '
+        '(1st)</a> &mdash; the same word, used of the light that reaches between the worlds.',
+        '<a href="an-4.124.html">AN 4.124 &middot; Difference (2nd)</a> &mdash; the principle that '
+        "keeps any impressive experience in its place.",
+        '<a href="an-4.145.html">AN 4.145 &middot; Lamps</a> &mdash; next in this series, and the '
+        "last of the five filings.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.145 — Pajjotasutta
+# --------------------------------------------------------------------------- #
+page(
+    145, "Pajjota", "Lamps",
+    vagga=VAGGA_15,
+    meta_title="AN 4.145 — Lamps | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pajjotasutta — the last of "
+        "five filings, and the only one whose head-word names a thing rather than a quality. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.141 with one word replaced throughout; last of the series"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Lamp imagery for wisdom is widespread; this reading guide does not "
+                              "assert a specific matching sutra number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the fifth recitation of five "
+                       "lines, and the one word in the series that changes what kind of thing is "
+                       "being listed"),
+    ],
+    why=(
+        "The last of the five filings, and the odd one. <em>Ābhā</em>, <em>pabhā</em>, "
+        "<em>āloka</em>, and <em>obhāsa</em> all name a quality &mdash; brightness, radiance, "
+        "light, shining. <em>Pajjota</em> names a thing: a lamp, a torch, whatever is burning. So "
+        "the series that began by calling the moon bright ends by calling it a lamp, and the fourth "
+        "item becomes the lamp of wisdom."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same teaching as AN 4.141, filed one last time, under the word for a lamp."]),
+        ("A noun among adjective-nouns", [
+            "The grammatical shift is small and the effect is not. To speak of the moon&rsquo;s "
+            "brightness is to speak of something the moon has. To call the moon a lamp is to speak "
+            "of what it is for.",
+            "<em>Pajjota</em> comes from a root meaning to blaze, and the ordinary sense of the word "
+            "is a light you can point at &mdash; the oil lamp in a room, a torch carried down a "
+            "road. It is a household object.",
+            "Applied to the sun and moon it makes them instruments: two very large lamps, lit for "
+            "the benefit of whatever is under them. Applied to wisdom it makes wisdom an instrument "
+            "too, and that is a different figure from the one the series started with.",
+            "None of this is stated. The discourse is the same five lines. The shift is entirely in "
+            "the head-word, which is exactly the sort of thing a synonym-series makes visible and a "
+            "single discourse would not."]),
+        ("The lamp that goes out", [
+            "A lamp is the tradition&rsquo;s standing image for something that ends when its fuel "
+            "ends, and the vocabulary of the goal is built on it: <em>nibbāna</em> is the going out "
+            "of a flame.",
+            "The resonance is available and it should be handled carefully. AN 4.145 does not make "
+            "that move. It calls wisdom the best of four lamps and stops, and reading the "
+            "extinguishing of a lamp into a discourse that is about which lamp is brightest is "
+            "reading in.",
+            "What can be said without straining is that the series has now placed wisdom in a "
+            "category of things that burn while they are fed, and left it there without comment. "
+            "The three physical lamps in the list all go out. The discourse does not say whether the "
+            "fourth does.",
+            "That silence is more interesting than any answer that could be supplied for it, and a "
+            "teacher is better off pointing at it than filling it."]),
+        ("The series, complete", [
+            "Five discourses, five words, one teaching. Counting them together: four items each "
+            "time, twenty item-mentions, five superlatives, and not one sentence of explanation "
+            "anywhere in the sequence.",
+            "That is what a peyyāla looks like from the outside, and the Fours contain far larger "
+            "ones. The collection ends in two abridged blocks in which sets are crossed with sets to "
+            "generate hundreds of nominal discourses, and by comparison this chapter&rsquo;s five "
+            "are almost conversational.",
+            "The pedagogical value of a small one is that a reader can hold the whole thing at once. "
+            "Anyone who has read AN 4.141 to AN 4.145 in order knows what the mechanism is and will "
+            "recognize it at any scale afterward.",
+            "It is also worth saying what the mechanism costs. Five separate numbered discourses "
+            "which are one teaching inflate every count anyone makes of the collection, and a reader "
+            "who takes the Aṅguttara&rsquo;s discourse-count at face value is counting filings, not "
+            "teachings."]),
+        ("What the four lights add up to", [
+            "Across the five filings the list has been given twenty times without a single word "
+            "about why the moon, the sun, and fire were chosen and not, say, lightning or a jewel.",
+            "The likeliest answer is the plainest. These are the three lights a person in that time "
+            "and place lived by: the one that governs the night, the one that governs the day, and "
+            "the one you make when neither is available. Between them they cover every hour a human "
+            "being is awake.",
+            "Read that way the list is not a set of impressive things but a complete inventory of "
+            "ordinary illumination, and adding wisdom to it is a claim that something else belongs "
+            "in that inventory &mdash; not above it, in it.",
+            "That is a smaller and better claim than the metaphor usually gets stretched to carry, "
+            "and it is the one the five discourses actually make."]),
+        ("Where it sits", [
+            "Fifth and last of the filings, halfway through the chapter.",
+            "AN 4.146 and AN 4.147 follow with the four times &mdash; for listening, for discussing, "
+            "for serenity, for discernment &mdash; and the second of those pairs the list with a "
+            "simile of rain filling a mountain down to the ocean.",
+            "Then two discourses on speech, and then AN 4.150 closes the chapter by naming ethics, "
+            "immersion, wisdom, and freedom the heartwood."]),
+    ],
+    terms=[
+        ("pajjota",
+         "&ldquo;lamp&rdquo; &mdash; from a root meaning to blaze; a light you can point at, and "
+         "the only one of the five head-words that names an object."),
+        ("paññāpajjota",
+         "&ldquo;the lamp of wisdom&rdquo; &mdash; the compound this filing ranks first, and a "
+         "figure that makes wisdom an instrument."),
+        ("nibbāna",
+         "&ldquo;extinguishment&rdquo; &mdash; built on the image of a flame going out; available "
+         "here as a resonance, and not a move this discourse makes."),
+        ("candima / sūriya",
+         "&ldquo;moon&rdquo; and &ldquo;sun&rdquo; &mdash; the two lights that govern night and "
+         "day; called lamps here, which turns them into instruments."),
+        ("peyyāla",
+         "&ldquo;repetition-series&rdquo; &mdash; completed at this discourse: five words, one "
+         "teaching, twenty statements of the same list."),
+    ],
+    text_intro=(
+        "The discourse in full: four lamps, and which is best. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four lamps"),
+        ("p", "&sect;1", "an4.145:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What makes <em>pajjota</em> the odd one of the five?",
+         "opts": [
+             "It is longer",
+             "It names a thing &mdash; a lamp &mdash; where the other four name qualities",
+             "It is not about light",
+             "It appears only here"],
+         "correct": 1,
+         "expl": "From a root meaning to blaze; a household object."},
+        {"q": "What does the shift from quality to object do to the list?",
+         "opts": [
+             "Nothing",
+             "It makes the moon and sun instruments &mdash; two very large lamps, lit for whatever is under them",
+             "It removes fire",
+             "It ranks them differently"],
+         "correct": 1,
+         "expl": "And wisdom becomes an instrument too."},
+        {"q": "Is that shift stated in the discourse?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; it is entirely in the head-word, which is what a synonym-series makes visible",
+             "Yes, in the superlative",
+             "It is stated in AN 4.141"],
+         "correct": 1,
+         "expl": "A single discourse would not show it."},
+        {"q": "How does the guide handle the resonance with <em>nibbāna</em>?",
+         "opts": [
+             "It develops it fully",
+             "It notes the resonance and says the discourse does not make that move &mdash; reading extinguishing into a discourse about brightness is reading in",
+             "It denies any resonance",
+             "It cites the commentary"],
+         "correct": 1,
+         "expl": "The vocabulary of the goal is built on a flame going out."},
+        {"q": "What can be said without straining?",
+         "opts": [
+             "That wisdom never goes out",
+             "That the series has placed wisdom among things that burn while fed, and left it there without saying whether the fourth goes out",
+             "That wisdom does go out",
+             "That the three lamps are eternal"],
+         "correct": 1,
+         "expl": "A teacher is better off pointing at the silence than filling it."},
+        {"q": "How many statements of the four-item list do the five filings contain?",
+         "opts": [
+             "Five",
+             "Twenty &mdash; four items, five times, with five superlatives and no explanation",
+             "Four",
+             "Ten"],
+         "correct": 1,
+         "expl": "What a peyyāla looks like from the outside."},
+        {"q": "What does the guide say the mechanism costs?",
+         "opts": [
+             "Nothing",
+             "It inflates every count of the collection &mdash; a reader taking the discourse-count at face value is counting filings, not teachings",
+             "Clarity",
+             "Accuracy of the text"],
+         "correct": 1,
+         "expl": "Five numbered discourses which are one teaching."},
+        {"q": "Why does the guide think the moon, sun, and fire were chosen?",
+         "opts": [
+             "Because they are impressive",
+             "Because they are the three lights a person lived by &mdash; night, day, and what you make when neither is available",
+             "Because they appear in the Vedas",
+             "Because they are hot"],
+         "correct": 1,
+         "expl": "Between them they cover every hour a human being is awake."},
+        {"q": "What kind of claim does that make adding wisdom to the list?",
+         "opts": [
+             "That wisdom is above ordinary things",
+             "That something else belongs in the inventory of ordinary illumination &mdash; not above it, in it",
+             "That wisdom replaces the others",
+             "That the others are false"],
+         "correct": 1,
+         "expl": "A smaller and better claim than the metaphor usually gets stretched to carry."},
+        {"q": "What follows the five filings in this chapter?",
+         "opts": [
+             "Five more filings",
+             "The four times, two discourses on speech, and the heartwood",
+             "The end of the Fours",
+             "A chapter of persons"],
+         "correct": 1,
+         "expl": "Half the chapter of brightness is about brightness."},
+    ],
+    marginalia=[
+        ("The shift", [
+            "brightness, radiance, light, shining",
+            "&mdash; qualities",
+            "<span class=\"pali\">pajjota</span>a lamp",
+            "&mdash; a thing",
+        ]),
+        ("Left open", [
+            "three lamps go out",
+            "the fourth?",
+            "&mdash; the discourse does not say",
+        ]),
+        ("The series, counted", [
+            "five words",
+            "one teaching",
+            "twenty statements of the list",
+            "no explanation anywhere",
+        ]),
+        ("Cross-references", [
+            "AN 4.141 &middot; the first filing",
+            "AN 4.146 &middot; next: the four times",
+            "AN 4.150 &middot; the chapter&rsquo;s last word",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.145/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.141.html">AN 4.141 &middot; Brightness</a> &mdash; the first of the five, '
+        "where the four lights are introduced.",
+        '<a href="an-4.146.html">AN 4.146 &middot; Times (1st)</a> &mdash; next in this series, and '
+        "the chapter changes subject.",
+        '<a href="an-4.150.html">AN 4.150 &middot; Essentials</a> &mdash; where wisdom appears again '
+        "with three companions rather than three lamps.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.146 — Paṭhamakālasutta
+# --------------------------------------------------------------------------- #
+page(
+    146, "Paṭhamakāla", "Times (1st)",
+    vagga=VAGGA_15,
+    meta_title="AN 4.146 — Times (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Kālasutta — a time "
+        "for listening, a time for discussion, a time for serenity, and a time for discernment. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, stated once, with no comment"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The pairing of study, discussion, and the two wings of meditation is "
+                              "common across the early collections; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four items, and one of them "
+                       "carries a translation decision worth knowing about"),
+    ],
+    why=(
+        "Four times: for listening to the teaching, for discussing the teaching, for serenity, and "
+        "for discernment. The discourse names them and stops. What makes it worth a page is the "
+        "shape of the list &mdash; two activities done with other people and two done alone, in "
+        "that order &mdash; and the fact that the collection thought the practice needed a schedule "
+        "at all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are four kinds of occasion the practice is made of, and each has its time."]),
+        ("The four, and their order", [
+            "<em>Kālena dhammassavanaṁ</em>: a time for hearing the teaching. <em>Kālena "
+            "dhammasākacchā</em>: a time for discussing it. <em>Kālena sammasanā</em> and "
+            "<em>kālena vipassanā</em>: the two names Sujato renders serenity and discernment.",
+            "The first two are social and the second two are not. Hearing requires someone speaking; "
+            "discussion requires someone answering; the last two are done by a person on their own.",
+            "The order is a movement inward, and it is the same movement the tradition describes "
+            "elsewhere as hearing, reflecting, and cultivating. What this list adds to that "
+            "three-fold shape is the second item: discussion is given its own slot, distinct from "
+            "listening and from private reflection.",
+            "That distinction is not decorative. A person can hear a great deal and never once have "
+            "to say it back to somebody who will push on it, and the discourse treats those as "
+            "different activities with different times."]),
+        ("The word behind &lsquo;serenity&rsquo;", [
+            "A translation decision here is worth knowing about. The Pāli third item is "
+            "<em>sammasanā</em>, not <em>samatha</em>.",
+            "<em>Samatha</em> is the standard word for serenity, and it is the one usually paired "
+            "with <em>vipassanā</em>. <em>Sammasanā</em> is a different word, from a verb meaning to "
+            "touch or handle all over, and so to go over something, explore it, comprehend it. In "
+            "commentarial usage <em>sammasana-ñāṇa</em> is a stage of insight rather than of calm.",
+            "Sujato renders the pair serenity and discernment, which gives the reader the familiar "
+            "dyad. Other translators render <em>sammasanā</em> as exploration or comprehension, "
+            "which keeps the word&rsquo;s own sense and makes the last two items two kinds of "
+            "investigation rather than a calm-and-insight pair.",
+            "This reading guide does not adjudicate between them. It notes that the choice is real, "
+            "that a reader comparing translations will meet it, and that the shape of the discourse "
+            "is the same either way: two occasions with others, two alone."]),
+        ("Why a list of times", [
+            "The framing word is <em>kāla</em>, time or occasion, and it is doing something the "
+            "list would not do without it. The discourse is not saying there are four practices. It "
+            "is saying there are four times.",
+            "That is a claim about allocation. Each of the four is right on its own occasion and "
+            "not on the others, which means a person can fail at this not by doing the wrong thing "
+            "but by doing a right thing at the wrong moment.",
+            "The failure modes are easy to name and everyone will recognize at least one. Reading "
+            "when it is time to sit. Sitting when the confusion is one a conversation would clear "
+            "up in five minutes. Discussing endlessly and never testing anything alone.",
+            "The collection is unusually practical here, and unusually silent about how anyone is "
+            "supposed to tell which time it is. No criterion is given. What the next discourse adds "
+            "instead is a reason to keep all four in rotation."]),
+        ("The bare version and the developed one", [
+            "AN 4.146 gives the list. AN 4.147 gives the same list with a claim attached &mdash; "
+            "rightly developed and reiterated, these four gradually lead to the ending of defilements "
+            "&mdash; and a simile of rain filling a mountain.",
+            "The pairing is this collection&rsquo;s most familiar device, met already at AN 4.123 "
+            "and AN 4.124, at AN 4.125 and AN 4.126, at AN 4.136 and AN 4.137. Bare statement first, "
+            "then the same statement with what it is for.",
+            "The practical instruction is the one that has come up repeatedly: do not read one of a "
+            "pair alone. AN 4.146 read by itself is a list with nothing attached. Read with its "
+            "neighbor it is the first half of a description of how a practice gets somewhere."]),
+        ("Where it sits", [
+            "Sixth of the chapter&rsquo;s ten, and the point at which the five filings on light "
+            "give way to something else entirely.",
+            "There is no connection between the four lights and the four times except that both are "
+            "sets of four and both are in this chapter. That is the honest account, and it is the "
+            "account this collection asks a reader to accept about most of its chapters.",
+            "AN 4.147 completes the pair, and then the chapter turns to speech."]),
+    ],
+    terms=[
+        ("kāla",
+         "&ldquo;time&rdquo;, occasion &mdash; the framing word; the discourse names four times, "
+         "not four practices."),
+        ("dhammassavana",
+         "&ldquo;listening to the teaching&rdquo; &mdash; first of the four, and the only one that "
+         "requires somebody else to be speaking."),
+        ("dhammasākacchā",
+         "&ldquo;discussion of the teaching&rdquo; &mdash; given its own slot, distinct from both "
+         "listening and private reflection."),
+        ("sammasanā",
+         "&ldquo;exploring&rdquo;, comprehending &mdash; from a verb meaning to handle all over; "
+         "rendered serenity here, though it is not the usual word <em>samatha</em>."),
+        ("vipassanā",
+         "&ldquo;discernment&rdquo;, insight &mdash; the fourth time, and the familiar partner of "
+         "whichever word stands third."),
+    ],
+    text_intro=(
+        "The discourse in full: the four times, named and left. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four times"),
+        ("p", "&sect;1", "an4.146:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What are the four times?",
+         "opts": [
+             "Dawn, noon, dusk, and night",
+             "For listening to the teaching, for discussing it, for serenity, and for discernment",
+             "For giving, for ethics, for meditation, and for study",
+             "For working, resting, eating, and sitting"],
+         "correct": 1,
+         "expl": "Two occasions with others, two alone."},
+        {"q": "How is the list ordered?",
+         "opts": [
+             "By difficulty",
+             "As a movement inward &mdash; social first, solitary second",
+             "By duration",
+             "Randomly"],
+         "correct": 1,
+         "expl": "Hearing requires a speaker; discussion requires an answerer."},
+        {"q": "What does the list add to the familiar three-fold shape of hearing, reflecting, and cultivating?",
+         "opts": [
+             "Nothing",
+             "Discussion, given its own slot distinct from listening and from private reflection",
+             "A fourth stage of insight",
+             "A schedule"],
+         "correct": 1,
+         "expl": "A person can hear a great deal and never say it back to someone who will push on it."},
+        {"q": "What is the Pāli behind &lsquo;serenity&rsquo; here?",
+         "opts": [
+             "<em>Samatha</em>",
+             "<em>Sammasanā</em> &mdash; a different word, from a verb meaning to handle all over",
+             "<em>Samādhi</em>",
+             "<em>Passaddhi</em>"],
+         "correct": 1,
+         "expl": "In commentarial usage <em>sammasana-ñāṇa</em> is a stage of insight rather than of calm."},
+        {"q": "How does the guide treat that translation choice?",
+         "opts": [
+             "It calls it an error",
+             "It notes the choice is real and declines to adjudicate, since the shape of the discourse is the same either way",
+             "It ignores it",
+             "It prefers the commentary"],
+         "correct": 1,
+         "expl": "Other translators render it exploration or comprehension."},
+        {"q": "What does the framing word <em>kāla</em> contribute?",
+         "opts": [
+             "Urgency",
+             "A claim about allocation &mdash; the discourse names four times, not four practices",
+             "Duration",
+             "Sequence only"],
+         "correct": 1,
+         "expl": "Each is right on its own occasion and not on the others."},
+        {"q": "What failure does that make possible?",
+         "opts": [
+             "Doing the wrong thing",
+             "Doing a right thing at the wrong moment",
+             "Doing nothing",
+             "Doing too much"],
+         "correct": 1,
+         "expl": "Reading when it is time to sit; sitting when a conversation would clear it up."},
+        {"q": "What does the discourse not supply?",
+         "opts": [
+             "The four items",
+             "Any criterion for telling which time it is",
+             "The framing word",
+             "The order"],
+         "correct": 1,
+         "expl": "Unusually practical, and unusually silent about that."},
+        {"q": "What does AN 4.147 add?",
+         "opts": [
+             "A fifth time",
+             "The claim that these four rightly developed lead gradually to the ending of defilements, plus a simile",
+             "Definitions",
+             "A setting"],
+         "correct": 1,
+         "expl": "Bare statement first, then the same statement with what it is for."},
+        {"q": "What connects the four lights and the four times?",
+         "opts": [
+             "A shared doctrine",
+             "Nothing except that both are sets of four and both are in this chapter",
+             "The word for wisdom",
+             "The simile of rain"],
+         "correct": 1,
+         "expl": "The honest account of most Aṅguttara chapters."},
+    ],
+    marginalia=[
+        ("Four times", [
+            "listening",
+            "discussing",
+            "&mdash; with others",
+            "serenity &middot; discernment",
+            "&mdash; alone",
+        ]),
+        ("The third word", [
+            "<span class=\"pali\">sammasanā</span>not <em>samatha</em>",
+            "to handle all over",
+            "&mdash; rendered serenity here",
+        ]),
+        ("What is missing", [
+            "how to tell which time it is",
+            "&mdash; no criterion given",
+        ]),
+        ("Cross-references", [
+            "AN 4.147 &middot; the same four, with a simile",
+            "AN 4.170 &middot; serenity and discernment yoked",
+            "AN 4.136 &middot; another matched pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.146/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.147.html">AN 4.147 &middot; Times (2nd)</a> &mdash; next in this series, and '
+        "the half of the pair that says what the four times are for.",
+        '<a href="an-4.170.html">AN 4.170 &middot; In Conjunction</a> &mdash; the Fours on serenity '
+        "and discernment developed together.",
+        '<a href="an-4.41.html">AN 4.41 &middot; Ways of Developing Immersion Further</a> &mdash; '
+        "four different uses for one practice.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.147 — Dutiyakālasutta
+# --------------------------------------------------------------------------- #
+page(
+    147, "Dutiyakāla", "Times (2nd)",
+    vagga=VAGGA_15,
+    meta_title="AN 4.147 — Times (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Kālasutta — the "
+        "four times rightly developed, and rain on a mountain filling hollows, pools, lakes, "
+        "streams, rivers, and the ocean. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.146 with a claim attached and a simile of water finding its way downhill"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The rain-filling-the-ocean simile for gradual completion is "
+                              "widespread; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and one of the most "
+                       "quotable images in the Fours"),
+    ],
+    why=(
+        "The same four times as the discourse before, with a claim and a picture. Rightly developed "
+        "and kept in rotation, they gradually lead to the ending of defilements &mdash; and the "
+        "picture is rain falling hard on a mountain top, running down to fill the hollows and "
+        "crevices and creeks, which fill the pools, which fill the lakes, which fill the streams, "
+        "which fill the rivers, which fill the ocean."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Keep the four times in rotation and they will fill something much larger than any of "
+            "them."]),
+        ("What is added to AN 4.146", [
+            "Two things. First a claim: <em>sammā bhāviyamānā sammā anuparivattiyamānā anupubbena "
+            "āsavānaṁ khayaṁ pāpenti</em> &mdash; rightly developed, rightly kept turning, they "
+            "gradually bring about the ending of the defilements.",
+            "The second word in that phrase is the interesting one. <em>Anuparivattati</em> is to "
+            "revolve, to keep going round, and it is not the ordinary verb for practicing something. "
+            "It suggests a rotation among the four rather than progress through them &mdash; you "
+            "come back round to listening after discernment, and round again.",
+            "Second, <em>anupubbena</em>, gradually, by stages, step by step. The result is not "
+            "promised suddenly or in proportion to any single session. It is promised as an "
+            "accumulation.",
+            "That pair of words is doing more work than the simile is, and it is easy to miss "
+            "because the simile is memorable and they are not."]),
+        ("The rain, and where it goes", [
+            "The image is worth reading slowly, because it is built as a chain and every link is "
+            "named: rain on a mountain top; the water flowing downhill; hollows, crevices, and "
+            "creeks; then pools; then lakes; then streams; then rivers; then the ocean.",
+            "Six stages between the rain and the sea, and at each stage the same thing happens "
+            "&mdash; something fills up and then, being full, fills the next thing.",
+            "The mechanism the simile encodes is that nothing is transferred until something is "
+            "complete. A half-full hollow feeds nothing. This is a picture of thresholds, and it is "
+            "an unusually exact one for a tradition often content with a general image of growth.",
+            "The other thing the simile supplies is scale. Rain on a mountain and the ocean are "
+            "wildly different quantities, and the discourse insists on every intermediate step "
+            "rather than jumping from the first to the last. Whoever built this image wanted the "
+            "distance felt."]),
+        ("What the simile does not say", [
+            "It does not say how long. <em>Anupubbena</em> covers any duration.",
+            "It does not say the rain is effortful or that anything is being forced. Water runs "
+            "downhill; the simile is of something proceeding by its own nature once it has fallen.",
+            "That is a mild and easily missed claim. The four times are the rain. What happens after "
+            "them &mdash; the filling, the overflowing, the arriving &mdash; is not described as "
+            "another thing to be done.",
+            "And it does not say the practitioner sees any of it. The hollows and pools do not know "
+            "they are on the way to the ocean. A reader looking for reassurance that progress is "
+            "detectable will not find it here, and the simile arguably says the opposite."]),
+        ("The claim about defilements", [
+            "<em>Āsava</em>, defilement or influx, is the term whose ending is the canon&rsquo;s "
+            "standard description of arahantship: <em>āsavānaṁ khayā</em>, with the ending of "
+            "defilements.",
+            "So this discourse, five lines long, attaches the highest result in the system to four "
+            "ordinary occasions: listening, discussing, and two kinds of solitary work. There is no "
+            "mention of absorption, of the factors of awakening, of the path, or of anything "
+            "technical.",
+            "That is worth saying plainly, because it is easy to read this discourse as a note about "
+            "study habits. It is not. It is a claim that the ordinary rhythm of a practicing life, "
+            "kept in rotation, is sufficient.",
+            "Whether that claim is complete on its own is a separate question, and the collection "
+            "elsewhere fills in a great deal that is missing here. But the claim as stated is not "
+            "hedged, and a reading guide should not hedge it either."]),
+        ("Teaching it", [
+            "The pair AN 4.146 and AN 4.147 make an unusually self-contained teaching for a class: "
+            "four activities, a rotation, and one image.",
+            "The most useful question to put after it is about the rotation rather than the items. "
+            "Which of the four has not come round for a while? Most people can answer that "
+            "immediately, and the answer is usually either discussion or the last one.",
+            "After this the chapter turns to speech, with four kinds of bad verbal conduct in AN "
+            "4.148 and their four opposites in AN 4.149, and then closes with the heartwood."]),
+    ],
+    terms=[
+        ("anuparivattati",
+         "&ldquo;keeps turning&rdquo;, revolves &mdash; not the ordinary verb for practicing; it "
+         "suggests rotation among the four rather than progress through them."),
+        ("anupubbena",
+         "&ldquo;gradually&rdquo;, by stages &mdash; the word that makes the result an accumulation "
+         "rather than an event."),
+        ("āsavānaṁ khaya",
+         "&ldquo;the ending of defilements&rdquo; &mdash; the canon&rsquo;s standard description of "
+         "arahantship, attached here to four ordinary occasions."),
+        ("kandara",
+         "&ldquo;crevice&rdquo; &mdash; one of the named links in the chain from mountain rain to "
+         "ocean; the simile omits nothing between."),
+        ("bhāveti",
+         "&ldquo;develops&rdquo;, cultivates &mdash; from the causative of &lsquo;to be&rsquo;; "
+         "literally to bring into being."),
+    ],
+    text_intro=(
+        "The discourse in full: the four times, the claim, and the water finding the ocean. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four times, rightly developed"),
+        ("p", "&sect;1", "an4.147:1.1-1.4"),
+        ("h3", "Rain on the mountain"),
+        ("p", "&sect;2", "an4.147:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse add to AN 4.146?",
+         "opts": [
+             "A fifth time",
+             "A claim about where the four lead, and a simile",
+             "Definitions of each time",
+             "A setting"],
+         "correct": 1,
+         "expl": "Bare statement first, then the same statement with what it is for."},
+        {"q": "What does <em>anuparivattati</em> suggest?",
+         "opts": [
+             "Steady progress through the four",
+             "Rotation among them &mdash; coming back round to listening after discernment, and round again",
+             "Repetition of one",
+             "Abandoning the earlier ones"],
+         "correct": 1,
+         "expl": "Not the ordinary verb for practicing something."},
+        {"q": "What does <em>anupubbena</em> contribute?",
+         "opts": [
+             "Certainty",
+             "Gradualness &mdash; the result is an accumulation rather than an event",
+             "Speed",
+             "Difficulty"],
+         "correct": 1,
+         "expl": "Doing more work than the simile, and easier to miss."},
+        {"q": "How many stages does the water pass through?",
+         "opts": [
+             "Two",
+             "Six &mdash; hollows and crevices and creeks, pools, lakes, streams, rivers, ocean",
+             "Three",
+             "Ten"],
+         "correct": 1,
+         "expl": "The simile omits nothing between the rain and the sea."},
+        {"q": "What mechanism does the chain encode?",
+         "opts": [
+             "That water evaporates",
+             "That nothing is transferred until something is complete &mdash; a half-full hollow feeds nothing",
+             "That the ocean is the source",
+             "That rain is rare"],
+         "correct": 1,
+         "expl": "A picture of thresholds, unusually exact."},
+        {"q": "Why does the simile insist on every intermediate step?",
+         "opts": [
+             "For rhythm",
+             "Because whoever built it wanted the distance between rain and ocean felt",
+             "Because the stages are doctrinal",
+             "To fill out the recitation"],
+         "correct": 1,
+         "expl": "Wildly different quantities, and no jumping from first to last."},
+        {"q": "What does the simile not describe as another thing to be done?",
+         "opts": [
+             "The four times",
+             "The filling, the overflowing, and the arriving &mdash; water runs downhill by its own nature",
+             "The rain",
+             "The mountain"],
+         "correct": 1,
+         "expl": "A mild and easily missed claim."},
+        {"q": "What does the guide say about whether progress is detectable?",
+         "opts": [
+             "The simile promises it",
+             "The hollows and pools do not know they are on the way to the ocean &mdash; the simile arguably says the opposite",
+             "The discourse gives signs",
+             "It is not addressed"],
+         "correct": 1,
+         "expl": "A reader looking for reassurance will not find it here."},
+        {"q": "What is <em>āsavānaṁ khaya</em>?",
+         "opts": [
+             "A stage of concentration",
+             "The ending of defilements &mdash; the canon&rsquo;s standard description of arahantship",
+             "A kind of rebirth",
+             "A meditation object"],
+         "correct": 1,
+         "expl": "Attached here to four ordinary occasions."},
+        {"q": "What does the guide warn against reading this discourse as?",
+         "opts": [
+             "A claim about arahantship",
+             "A note about study habits &mdash; it is a claim that the ordinary rhythm of a practicing life, kept in rotation, is sufficient",
+             "A simile only",
+             "A monastic rule"],
+         "correct": 1,
+         "expl": "No mention of absorption, the awakening factors, or the path."},
+    ],
+    marginalia=[
+        ("The chain", [
+            "rain on the mountain top",
+            "hollows, crevices, creeks",
+            "pools &middot; lakes &middot; streams",
+            "rivers &middot; the ocean",
+        ]),
+        ("Two words", [
+            "<span class=\"pali\">anuparivatta</span>kept turning",
+            "<span class=\"pali\">anupubbena</span>by stages",
+        ]),
+        ("The mechanism", [
+            "nothing passes on",
+            "until something is full",
+            "&mdash; a picture of thresholds",
+        ]),
+        ("Cross-references", [
+            "AN 4.146 &middot; the bare list",
+            "AN 4.170 &middot; serenity and discernment yoked",
+            "AN 4.104 &middot; the Fours&rsquo; other water simile",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.147/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.146.html">AN 4.146 &middot; Times (1st)</a> &mdash; the bare list this one '
+        "completes.",
+        '<a href="an-4.104.html">AN 4.104 &middot; Lakes</a> &mdash; the other place in the Fours '
+        "where depth and water do the teaching.",
+        '<a href="an-4.148.html">AN 4.148 &middot; Bad Conduct</a> &mdash; next in this series, and '
+        "the chapter turns to speech.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.148 — Duccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    148, "Duccarita", "Bad Conduct",
+    vagga=VAGGA_15,
+    meta_title="AN 4.148 — Bad Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Duccaritasutta of the "
+        "Fours — false speech, divisive speech, harsh speech, and nonsense, named and left. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, stated once"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four kinds of wrong speech are among the most widely attested "
+                              "lists in the early collections; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest statement of a set "
+                       "that appears everywhere else with a great deal attached"),
+    ],
+    why=(
+        "Four kinds of bad conduct by way of speech: false, backbiting, harsh, nonsensical. This is "
+        "one of the most familiar lists in the canon, given here in its barest possible form "
+        "&mdash; four words, no definitions, no consequences, no instruction. It is the same list "
+        "the fourth precept protects and the same four that the path&rsquo;s right speech "
+        "negatively defines, and here it is simply named."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Speech goes wrong in four ways, and they are these."]),
+        ("The four", [
+            "<em>Musāvāda</em>: false speech. Saying what is not so, knowing it is not so. This is "
+            "the one covered by the fourth of the five precepts, and the only one of the four that "
+            "appears in that list.",
+            "<em>Pisuṇā vācā</em>: divisive speech. The Pāli word means malicious or slanderous, and "
+            "the standard definition elsewhere is specific &mdash; repeating what was heard here to "
+            "people there, so as to break them apart. Sujato&rsquo;s &lsquo;backbiting&rsquo; "
+            "catches the mechanism.",
+            "<em>Pharusā vācā</em>: harsh speech. Rough, cutting, the kind that wounds. The same "
+            "adjective was used in AN 4.111 for the harsh method of training, where it meant "
+            "describing unwelcome consequences &mdash; which is worth noting, since it shows the "
+            "word is about the effect on the hearer rather than about anger in the speaker.",
+            "<em>Samphappalāpa</em>: nonsensical or frivolous talk. Literally something like idle "
+            "chatter; the standard gloss is speech that is untimely, untrue, without benefit, not "
+            "about the teaching or the training.",
+            "The order runs from the most obviously wrong to the least, and the fourth is the one "
+            "most readers would not have thought to include."]),
+        ("The fourth item, and why it is there", [
+            "Lying, slander, and cruelty are moral failures that any tradition would name. Idle talk "
+            "is not, and its presence in the list is the thing to notice.",
+            "Nothing about <em>samphappalāpa</em> requires malice, dishonesty, or a victim. It is "
+            "simply talk that is not doing anything, and the collection classes it as bad conduct "
+            "by way of speech alongside the other three.",
+            "The obvious objection is that this makes ordinary human company an offense, and the "
+            "objection has force. The standard definitions elsewhere sharpen the term &mdash; the "
+            "concern is speech that is untimely and without benefit, not conversation as such "
+            "&mdash; but this discourse gives no definition at all and cannot be cited either way.",
+            "What can be said is that the list treats attention as a resource. The first three "
+            "damage other people; the fourth spends something. Whether it belongs in the same list "
+            "is a fair question, and the tradition&rsquo;s answer has consistently been yes."]),
+        ("Bare where everything else is full", [
+            "This set is normally met with a great deal attached. In the description of right speech "
+            "on the path each of the four gets a full definition and its positive counterpart. In "
+            "the discourses on kamma each is assigned consequences. In the account of a person of "
+            "integrity, what someone says about the faults of others is used as a test of "
+            "character.",
+            "Here there is nothing. Four compound words and the closing formula.",
+            "That is not a defect and it is worth explaining to students who find these Aṅguttara "
+            "entries disappointing. A collection organized by number is where a set is kept; it is "
+            "not where the set is explained. The explanations live in the long discourses, and the "
+            "numbered collection preserves the countable skeleton so that the set can be found, "
+            "recited, and checked.",
+            "AN 4.148 is that skeleton for one of the most-used lists the tradition has."]),
+        ("Read with AN 4.149", [
+            "The next discourse is this one inverted: true, harmonious, gentle, and thoughtful "
+            "speech, in the same order and with the same absence of comment.",
+            "The pair is the chapter&rsquo;s third matched set, after AN 4.141 to AN 4.145 and AN "
+            "4.146 with AN 4.147, and it is the most symmetrical of the three. Each of the four "
+            "positive terms is the exact negation or opposite of its counterpart.",
+            "It is worth reading them together for one specific reason. A list of things not to do "
+            "leaves a person with silence as the only guaranteed compliance. The positive list "
+            "closes that gap, and it is the reason the tradition never gives one of these two lists "
+            "without the other being available."]),
+        ("Where it sits", [
+            "Eighth of the chapter&rsquo;s ten. The chapter has now given five discourses on light, "
+            "two on the four times, and turns here to speech for two.",
+            "AN 4.149 completes the pair. AN 4.150 then closes the Ābhāvagga with four essentials "
+            "&mdash; ethics, immersion, wisdom, and freedom &mdash; which is the same set the Fours "
+            "opened with at AN 4.1.",
+            "After that comes the Indriyavagga, the chapter of faculties."]),
+    ],
+    terms=[
+        ("vacīduccarita",
+         "&ldquo;bad conduct by way of speech&rdquo; &mdash; one of the three doors of action, here "
+         "given four subdivisions."),
+        ("musāvāda",
+         "&ldquo;false speech&rdquo; &mdash; the only one of the four covered by the five precepts."),
+        ("pisuṇā vācā",
+         "&ldquo;divisive speech&rdquo; &mdash; malicious talk; the standard definition is repeating "
+         "what was heard here to people there, so as to break them apart."),
+        ("pharusā vācā",
+         "&ldquo;harsh speech&rdquo; &mdash; rough, cutting; the same adjective used of the harsh "
+         "method of training in AN 4.111."),
+        ("samphappalāpa",
+         "&ldquo;nonsense&rdquo;, idle chatter &mdash; the item that requires no malice, no "
+         "dishonesty, and no victim."),
+    ],
+    text_intro=(
+        "The discourse in full: four kinds of bad verbal conduct, named. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four kinds of bad conduct by way of speech"),
+        ("p", "&sect;1", "an4.148:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What are the four?",
+         "opts": [
+             "Lying, boasting, gossiping, and swearing",
+             "Speech that is false, backbiting, harsh, or nonsensical",
+             "Untimely, untrue, unkind, and unhelpful",
+             "Cruel, proud, envious, and deceitful"],
+         "correct": 1,
+         "expl": "Given here in the barest possible form: four words and nothing else."},
+        {"q": "Which of the four is covered by the five precepts?",
+         "opts": [
+             "Harsh speech",
+             "False speech &mdash; <em>musāvāda</em>",
+             "Divisive speech",
+             "Idle chatter"],
+         "correct": 1,
+         "expl": "The only one of the four in that list."},
+        {"q": "What is the standard definition of divisive speech?",
+         "opts": [
+             "Speaking angrily",
+             "Repeating what was heard here to people there, so as to break them apart",
+             "Speaking untruthfully",
+             "Speaking at the wrong time"],
+         "correct": 1,
+         "expl": "Sujato&rsquo;s &lsquo;backbiting&rsquo; catches the mechanism."},
+        {"q": "Where else in the Fours does the word for harsh appear?",
+         "opts": [
+             "AN 4.1",
+             "AN 4.111, of the harsh method of training &mdash; describing unwelcome consequences",
+             "AN 4.88",
+             "AN 4.135"],
+         "correct": 1,
+         "expl": "Which shows the word is about the effect on the hearer, not anger in the speaker."},
+        {"q": "What is notable about the fourth item?",
+         "opts": [
+             "It is the worst",
+             "It requires no malice, no dishonesty, and no victim &mdash; it is simply talk that is not doing anything",
+             "It is a later addition",
+             "It concerns monastics only"],
+         "correct": 1,
+         "expl": "Lying, slander, and cruelty are failures any tradition would name; idle talk is not."},
+        {"q": "How does the guide handle the objection that this condemns ordinary company?",
+         "opts": [
+             "It dismisses it",
+             "It grants the objection has force, notes that definitions elsewhere sharpen the term, and says this discourse gives none and cannot be cited either way",
+             "It cites the commentary as decisive",
+             "It says conversation is forbidden"],
+         "correct": 1,
+         "expl": "The list treats attention as a resource: three items damage others, the fourth spends something."},
+        {"q": "How is this set normally met?",
+         "opts": [
+             "As bare as this",
+             "With a great deal attached &mdash; full definitions on the path, consequences in the discourses on kamma",
+             "Only in the Vinaya",
+             "Only in verse"],
+         "correct": 1,
+         "expl": "Here there is nothing but four compound words and the closing formula."},
+        {"q": "How does the guide explain that bareness?",
+         "opts": [
+             "As loss of text",
+             "A collection organized by number is where a set is kept, not where it is explained",
+             "As a summary for beginners",
+             "As a later abridgment"],
+         "correct": 1,
+         "expl": "The numbered collection preserves the countable skeleton."},
+        {"q": "Why does the guide say the two lists are never given apart?",
+         "opts": [
+             "For symmetry",
+             "Because a list of things not to do leaves silence as the only guaranteed compliance",
+             "For recitation",
+             "Because the Vinaya requires it"],
+         "correct": 1,
+         "expl": "The positive list closes that gap."},
+        {"q": "What closes this chapter?",
+         "opts": [
+             "Another list of speech",
+             "AN 4.150, naming ethics, immersion, wisdom, and freedom as the essentials &mdash; the same set the Fours opened with",
+             "A verse",
+             "The four times"],
+         "correct": 1,
+         "expl": "The same four as AN 4.1."},
+    ],
+    marginalia=[
+        ("Four ways", [
+            "<span class=\"pali\">musāvāda</span>false",
+            "<span class=\"pali\">pisuṇā vācā</span>divisive",
+            "<span class=\"pali\">pharusā vācā</span>harsh",
+            "<span class=\"pali\">samphappalāpa</span>nonsense",
+        ]),
+        ("The fourth", [
+            "no malice required",
+            "no lie required",
+            "no victim required",
+        ]),
+        ("Given bare", [
+            "no definitions",
+            "no consequences",
+            "no instruction",
+        ]),
+        ("Cross-references", [
+            "AN 4.149 &middot; the same four, inverted",
+            "AN 4.82 &middot; lying, and where it leads",
+            "AN 4.73 &middot; what a true person says of others",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.148/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.149.html">AN 4.149 &middot; Good Conduct</a> &mdash; next in this series, and '
+        "this list inverted item by item.",
+        '<a href="an-4.82.html">AN 4.82 &middot; Lying</a> &mdash; where the first of these four is '
+        "given a destination.",
+        '<a href="an-4.73.html">AN 4.73 &middot; A True Person</a> &mdash; where what someone says '
+        "about the faults of others is used as a test of character.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.149 — Sucaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    149, "Sucarita", "Good Conduct",
+    vagga=VAGGA_15,
+    meta_title="AN 4.149 — Good Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sucaritasutta of the Fours "
+        "— true, harmonious, gentle, and thoughtful speech, and the one item that is not a simple "
+        "negation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.148 inverted, item by item"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four kinds of right speech are among the most widely attested "
+                              "lists in the early collections; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four words, and the fourth is "
+                       "not the negation the other three are"),
+    ],
+    why=(
+        "True speech, harmonious speech, gentle speech, thoughtful speech. Three of the four are "
+        "the exact opposites of the four kinds of bad speech in the discourse before &mdash; and "
+        "the fourth is not. Against nonsense the Pāli sets <em>mantabhāsā</em>, speech with "
+        "judgment in it, which is a positive requirement rather than the absence of a fault."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Speech goes right in four ways, and three of them are simply the four faults reversed."]),
+        ("Three negations and one addition", [
+            "<em>Saccavācā</em>, true speech, is the opposite of <em>musāvāda</em>. "
+            "<em>Apisuṇā vācā</em>, non-divisive speech, is literally the same word as the fault "
+            "with a negative prefix. <em>Saṇhā vācā</em>, gentle or smooth speech, is the opposite "
+            "of <em>pharusā</em>, rough.",
+            "Then the fourth. Against <em>samphappalāpa</em>, idle chatter, the Pāli does not put "
+            "&lsquo;non-chatter&rsquo;. It puts <em>mantabhāsā</em>, speech made with "
+            "<em>mantā</em> &mdash; a word for wisdom, counsel, considered judgment.",
+            "Sujato renders it &lsquo;thoughtful&rsquo;. The construction is worth pointing out "
+            "because it changes what the item asks for. The other three can be satisfied by "
+            "refraining. This one cannot: it requires something to be brought to the speech, not "
+            "merely something to be kept out of it.",
+            "So the list has an asymmetry, and it is in the same position as the asymmetry in the "
+            "list of faults. AN 4.148&rsquo;s fourth item was the one that named no victim; AN "
+            "4.149&rsquo;s fourth item is the one that names no fault. The two lists tilt in the "
+            "same place."]),
+        ("Why the positive list is necessary", [
+            "A prohibition can always be satisfied by doing nothing. Four rules against speaking "
+            "badly are, taken alone, fully obeyed by anyone who says nothing at all, and a tradition "
+            "that valued silence as much as this one does could easily have left it there.",
+            "It did not. The positive list requires speech that is true, that holds people together, "
+            "that is gentle, and that has judgment in it &mdash; none of which is available to "
+            "someone who has simply stopped talking.",
+            "That is the reason to teach these two discourses as one unit rather than as a pair of "
+            "lists. The first says what to stop; the second makes clear that stopping is not the "
+            "goal.",
+            "The Fours have made the same move elsewhere on a larger scale. AN 4.121&rsquo;s four "
+            "fears each end not with bad conduct given up but with bad conduct given up "
+            "<em>and good conduct developed</em>. The pattern is consistent enough to be called a "
+            "policy."]),
+        ("&lsquo;Harmonious&rsquo;, and what it asks", [
+            "The second item deserves a second look, because the English can sound weaker than the "
+            "Pāli. <em>Apisuṇā vācā</em> is not merely speech that avoids gossip. Its counterpart "
+            "was defined by an action &mdash; carrying what was said here to people there in order "
+            "to divide them &mdash; so its negation is speech that does the reverse: it brings "
+            "people together.",
+            "The standard fuller descriptions elsewhere say exactly that: hearing something here, "
+            "the person does not repeat it there to divide; they reconcile those who have broken "
+            "apart, encourage those who are united, and delight in concord.",
+            "None of that is in this discourse, which gives one word. But the word carries it, and a "
+            "teacher can say so while being clear about where the detail comes from.",
+            "It is the one of the four whose scope is a group rather than an individual, and in a "
+            "collection that spends this much time on community &mdash; four assemblies, the "
+            "conditions for non-decline, the four ways of drawing people in &mdash; that is not "
+            "incidental."]),
+        ("What is still absent", [
+            "Two things this list does not include, both of which appear in fuller treatments "
+            "elsewhere.",
+            "Timeliness. The standard description of a Realized One&rsquo;s speech includes speaking "
+            "at the right time, and there is nothing about timing here.",
+            "Benefit. The same fuller descriptions require speech to be connected with the goal, and "
+            "<em>mantabhāsā</em> gestures at that without stating it.",
+            "Noting the absences is not a criticism of the discourse. It is a reminder of what a "
+            "numbered collection is doing: preserving a set at the size the number allows. Four "
+            "items are what fits in the Fours, and the additional qualifications are kept where "
+            "there is room for them."]),
+        ("Where it sits", [
+            "Ninth of the chapter&rsquo;s ten, and the last of its three matched pairs.",
+            "AN 4.150 closes the Ābhāvagga with the four essentials, and closes it by returning to "
+            "the four terms the whole nipāta began with at AN 4.1.",
+            "After that the Fours move to the Indriyavagga, the chapter of faculties, and to a run "
+            "of discourses on faith, energy, mindfulness, and wisdom as the powers of a practicing "
+            "life."]),
+    ],
+    terms=[
+        ("vacīsucarita",
+         "&ldquo;good conduct by way of speech&rdquo; &mdash; the positive counterpart of AN "
+         "4.148&rsquo;s heading, with the same four subdivisions inverted."),
+        ("saccavācā",
+         "&ldquo;true speech&rdquo; &mdash; the plain opposite of false speech, and the only one of "
+         "the four that has a precept behind it."),
+        ("apisuṇā vācā",
+         "&ldquo;harmonious speech&rdquo; &mdash; literally non-divisive; its fuller descriptions "
+         "make it speech that reconciles and unites."),
+        ("saṇhā vācā",
+         "&ldquo;gentle speech&rdquo; &mdash; smooth, soft; the opposite of rough, and about how the "
+         "speech lands rather than how it was meant."),
+        ("mantabhāsā",
+         "&ldquo;thoughtful speech&rdquo; &mdash; speech made with <em>mantā</em>, wisdom or "
+         "considered judgment; the one item that requires something added rather than withheld."),
+    ],
+    text_intro=(
+        "The discourse in full: four kinds of good verbal conduct, named. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four kinds of good conduct by way of speech"),
+        ("p", "&sect;1", "an4.149:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What are the four?",
+         "opts": [
+             "Timely, true, gentle, and beneficial",
+             "Speech that is true, harmonious, gentle, and thoughtful",
+             "Kind, brief, clear, and honest",
+             "Wise, patient, warm, and firm"],
+         "correct": 1,
+         "expl": "Three of them invert AN 4.148 item by item."},
+        {"q": "Which item is not a simple negation of its counterpart?",
+         "opts": [
+             "True speech",
+             "Thoughtful speech &mdash; <em>mantabhāsā</em>, speech with judgment in it, against idle chatter",
+             "Gentle speech",
+             "Harmonious speech"],
+         "correct": 1,
+         "expl": "The Pāli does not put &lsquo;non-chatter&rsquo;."},
+        {"q": "What does that asymmetry change?",
+         "opts": [
+             "Nothing",
+             "What the item asks for &mdash; the other three can be satisfied by refraining; this one requires something brought to the speech",
+             "The order",
+             "The number"],
+         "correct": 1,
+         "expl": "AN 4.148&rsquo;s fourth named no victim; AN 4.149&rsquo;s names no fault."},
+        {"q": "Why does the guide say a positive list is necessary?",
+         "opts": [
+             "For completeness",
+             "Because four rules against speaking badly are fully obeyed by anyone who says nothing at all",
+             "For recitation",
+             "Because the precepts require it"],
+         "correct": 1,
+         "expl": "The tradition did not leave it there."},
+        {"q": "Where else in the Fours does the same policy appear?",
+         "opts": [
+             "AN 4.88",
+             "AN 4.121 &mdash; each of the four fears ends with bad conduct given up <em>and</em> good conduct developed",
+             "AN 4.135",
+             "AN 4.140"],
+         "correct": 1,
+         "expl": "Consistent enough to be called a policy."},
+        {"q": "What does <em>apisuṇā vācā</em> ask for, on the fuller descriptions?",
+         "opts": [
+             "Avoiding gossip only",
+             "Speech that reconciles those who have broken apart, encourages the united, and delights in concord",
+             "Silence about others",
+             "Speaking only the truth"],
+         "correct": 1,
+         "expl": "Its counterpart was defined by an action, so its negation reverses that action."},
+        {"q": "How does the guide handle that fuller content?",
+         "opts": [
+             "Presents it as this discourse&rsquo;s text",
+             "Says the word carries it, while being clear about where the detail comes from",
+             "Omits it",
+             "Rejects it"],
+         "correct": 1,
+         "expl": "This discourse gives one word."},
+        {"q": "Which of the four has a group rather than an individual as its scope?",
+         "opts": [
+             "True speech",
+             "Harmonious speech",
+             "Gentle speech",
+             "Thoughtful speech"],
+         "correct": 1,
+         "expl": "Not incidental in a collection that spends this much time on community."},
+        {"q": "What two qualifications appear elsewhere but not here?",
+         "opts": [
+             "Truth and gentleness",
+             "Timeliness, and being connected with the goal",
+             "Kindness and clarity",
+             "Brevity and warmth"],
+         "correct": 1,
+         "expl": "<em>Mantabhāsā</em> gestures at the second without stating it."},
+        {"q": "How does the guide explain those absences?",
+         "opts": [
+             "As textual loss",
+             "As what a numbered collection does &mdash; preserving a set at the size the number allows",
+             "As a translation issue",
+             "As disagreement among compilers"],
+         "correct": 1,
+         "expl": "Four items are what fits in the Fours."},
+    ],
+    marginalia=[
+        ("Four ways", [
+            "<span class=\"pali\">saccavācā</span>true",
+            "<span class=\"pali\">apisuṇā vācā</span>harmonious",
+            "<span class=\"pali\">saṇhā vācā</span>gentle",
+            "<span class=\"pali\">mantabhāsā</span>thoughtful",
+        ]),
+        ("Three and one", [
+            "three are negations",
+            "the fourth adds something",
+            "&mdash; <span class=\"pali\">mantā</span>judgment",
+        ]),
+        ("Why not just prohibit", [
+            "four prohibitions",
+            "are obeyed by silence",
+            "&mdash; so: four requirements",
+        ]),
+        ("Cross-references", [
+            "AN 4.148 &middot; the same four, as faults",
+            "AN 4.121 &middot; given up, and developed",
+            "AN 4.32 &middot; the four ways of drawing people in",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.149/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.148.html">AN 4.148 &middot; Bad Conduct</a> &mdash; the list this one '
+        "inverts, item by item.",
+        '<a href="an-4.32.html">AN 4.32 &middot; Inclusion</a> &mdash; where speech that holds '
+        "people together is one of four ways of drawing them in.",
+        '<a href="an-4.150.html">AN 4.150 &middot; Essentials</a> &mdash; next in this series, and '
+        "the discourse that closes the chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.150 — Sārasutta
+# --------------------------------------------------------------------------- #
+page(
+    150, "Sāra", "Essentials",
+    vagga=VAGGA_15,
+    meta_title="AN 4.150 — Essentials | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sārasutta of the Fours — "
+        "ethics, immersion, wisdom, and freedom called the heartwood, and the chapter closes where "
+        "the Fours began. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_15),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, stated once; the closing discourse of the chapter"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The heartwood image for what a spiritual life is really after is "
+                              "shared across the early collections; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four words, and one of them is "
+                       "one of the tradition&rsquo;s best images"),
+    ],
+    why=(
+        "Four essentials: ethics, immersion, wisdom, and freedom. The word is <em>sāra</em>, "
+        "heartwood &mdash; the hard core of a tree, the part that is left when everything softer "
+        "has been stripped away. These are the same four the Fours opened with at AN 4.1, and the "
+        "chapter of brightness ends by calling them the only part of the tree worth having."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Of everything in the spiritual life, four things are the heartwood."]),
+        ("<em>Sāra</em>", [
+            "The word means the core, the pith, the substance &mdash; and specifically the heartwood "
+            "of a tree, the dense inner wood that is what a timber-seeker is after.",
+            "Behind it stands one of the canon&rsquo;s best-developed images. A man who needs "
+            "heartwood goes into the forest, finds a great tree, and comes back with the twigs and "
+            "leaves, or the outer bark, or the inner bark, or the softwood, believing he has what he "
+            "went for. The point in the long versions is that reputation, ethical attainment, "
+            "concentration, and even knowledge and vision can each be mistaken for the goal by "
+            "someone who stops there.",
+            "That image makes the word a warning as much as a compliment. To call something "
+            "<em>sāra</em> is to say the rest of the tree is not it, and the tradition uses the word "
+            "most often precisely when someone has settled for bark.",
+            "AN 4.150 uses it without any of that. Four words, no simile, no cautionary tale. The "
+            "warning is in the vocabulary and the discourse trusts it to be heard."]),
+        ("The four, and where they came from", [
+            "<em>Sīla, samādhi, paññā, vimutti.</em> Ethics, immersion, wisdom, freedom.",
+            "These are exactly the four of AN 4.1, the discourse that opens the entire nipāta, where "
+            "they are called noble ethics, noble immersion, noble wisdom, and noble freedom, and "
+            "where the Buddha says that both he and his listeners transmigrated for a very long time "
+            "because these four were not understood.",
+            "They are also the three of AN 4.136 and AN 4.137, plus one. Those two discourses graded "
+            "people by how far they had filled out ethics, immersion, and wisdom, and stopped there. "
+            "Freedom is what this list adds, and it is the term that turns a training into a result.",
+            "So the same four terms have now appeared in the Fours as what was not understood, as a "
+            "ladder with the last rung removed, and here as heartwood. The collection is not "
+            "repeating itself carelessly; it is using one set in three different jobs."]),
+        ("Why freedom is fourth and not first", [
+            "The order is the standard one and it is worth defending explicitly, because the modern "
+            "instinct is to treat freedom as the topic and the other three as means.",
+            "The list does not do that. All four are called heartwood, equally. Ethics is not the "
+            "bark on the way to the freedom at the center; it is part of what a person went into the "
+            "forest for.",
+            "That is a real claim and it fits what the collection does elsewhere. AN 4.121 was "
+            "willing to accept fear of punishment as a working motive for good conduct without "
+            "grading it as second-rate; AN 4.135 measured conduct without attaching a destination to "
+            "it. Ethics is treated in this collection as valuable in itself and not only "
+            "instrumentally.",
+            "The heartwood image supports the same reading. Heartwood is not one point inside a "
+            "tree. It is the whole of the dense inner column, top to bottom."]),
+        ("A chapter closed", [
+            "The Ābhāvagga ends here, and it is worth looking back at what it contained: five "
+            "identical discourses on wisdom as the best light, two on the four times, two on "
+            "speech, and this.",
+            "Nothing joins them but the number four. That has been true of every chapter in the "
+            "Fours so far, and it will remain true, and it is the honest description of how this "
+            "collection is built.",
+            "But the closing discourse does something the chapter&rsquo;s arrangement did not "
+            "require. It ends a chapter that spent half its length insisting that wisdom is the best "
+            "light by putting wisdom back into a set of four with three companions &mdash; and by "
+            "adding the one term, freedom, that none of the light discourses mentioned.",
+            "Whether that placement is deliberate cannot be established from the text, and this "
+            "reading guide does not claim it. What can be said is that a reader who has just heard "
+            "<em>paññā</em> named foremost five times running hears it differently in AN 4.150, "
+            "where it is one of four and not the last of them."]),
+        ("What comes next", [
+            "The Indriyavagga, the chapter of faculties, opens the Fours&rsquo; sixteenth chapter "
+            "with faith, energy, mindfulness, and immersion as the four faculties, and works through "
+            "powers, strengths, and what a mendicant relies on.",
+            "After the bareness of this chapter and the last, that is a return to material with more "
+            "in it &mdash; though the Fours will not stop filing, abridging, and cross-indexing "
+            "until the very end.",
+            "For a reader working through the collection in order, AN 4.150 is a good place to stop "
+            "for a week. The four it names are the whole of what everything else in the nipāta is "
+            "about."]),
+    ],
+    terms=[
+        ("sāra",
+         "&ldquo;heartwood&rdquo;, core, pith &mdash; the dense inner wood a timber-seeker is after; "
+         "to call something <em>sāra</em> is to say the rest of the tree is not it."),
+        ("sīla",
+         "&ldquo;ethics&rdquo; &mdash; first of the four, and called heartwood here rather than a "
+         "means to something else."),
+        ("samādhi",
+         "&ldquo;immersion&rdquo; &mdash; second; the same term the Fours have graded, developed, "
+         "and warned about across the whole nipāta."),
+        ("vimutti",
+         "&ldquo;freedom&rdquo; &mdash; fourth, and the term AN 4.136 and AN 4.137 left off their "
+         "ladder; what turns a training into a result."),
+        ("phegguṁ",
+         "&ldquo;softwood&rdquo; &mdash; not in this discourse, but the part of the tree the "
+         "heartwood similes elsewhere warn against mistaking for the core."),
+    ],
+    text_intro=(
+        "The discourse in full: four essentials, named, and the chapter ends. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four essentials"),
+        ("p", "&sect;1", "an4.150:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What are the four essentials?",
+         "opts": [
+             "Faith, energy, mindfulness, and wisdom",
+             "Ethics, immersion, wisdom, and freedom",
+             "Giving, ethics, meditation, and study",
+             "Listening, discussing, serenity, and discernment"],
+         "correct": 1,
+         "expl": "The same four the Fours opened with at AN 4.1."},
+        {"q": "What does <em>sāra</em> mean?",
+         "opts": [
+             "Teaching",
+             "Heartwood &mdash; the dense inner wood a timber-seeker is after",
+             "Foundation",
+             "Summit"],
+         "correct": 1,
+         "expl": "Core, pith, substance."},
+        {"q": "What does the canon&rsquo;s heartwood image warn against?",
+         "opts": [
+             "Cutting trees",
+             "Coming back with twigs, bark, or softwood and believing you have what you went for",
+             "Entering the forest",
+             "Seeking timber at all"],
+         "correct": 1,
+         "expl": "Reputation, ethical attainment, concentration, and even knowledge and vision can each be stopped at."},
+        {"q": "How does that make the word a warning?",
+         "opts": [
+             "It does not",
+             "To call something <em>sāra</em> is to say the rest of the tree is not it",
+             "Because heartwood is hard to reach",
+             "Because trees die"],
+         "correct": 1,
+         "expl": "The tradition uses the word most often when someone has settled for bark."},
+        {"q": "How much of that does AN 4.150 include?",
+         "opts": [
+             "All of it",
+             "None &mdash; four words, no simile, no cautionary tale; the warning is in the vocabulary",
+             "The simile only",
+             "The warning only"],
+         "correct": 1,
+         "expl": "The discourse trusts the word to be heard."},
+        {"q": "What do these four add to AN 4.136 and AN 4.137?",
+         "opts": [
+             "Nothing",
+             "Freedom &mdash; the term that turns a training into a result",
+             "Immersion",
+             "A ranking"],
+         "correct": 1,
+         "expl": "Those two graded ethics, immersion, and wisdom and stopped there."},
+        {"q": "In how many jobs has the collection used this set of four?",
+         "opts": [
+             "One",
+             "Three &mdash; as what was not understood, as a ladder with the last rung removed, and as heartwood",
+             "Two",
+             "Five"],
+         "correct": 1,
+         "expl": "Not careless repetition; one set in three different jobs."},
+        {"q": "What does the guide say about ethics being first rather than a means?",
+         "opts": [
+             "That it is a means",
+             "That all four are called heartwood equally &mdash; ethics is part of what a person went into the forest for",
+             "That the order is arbitrary",
+             "That freedom should be first"],
+         "correct": 1,
+         "expl": "Heartwood is not one point inside a tree; it is the whole dense inner column."},
+        {"q": "What does the closing discourse do to the chapter&rsquo;s five light discourses?",
+         "opts": [
+             "Repeats them",
+             "Puts wisdom back into a set of four with three companions, and adds freedom, which none of them mentioned",
+             "Contradicts them",
+             "Explains them"],
+         "correct": 1,
+         "expl": "The guide does not claim the placement is deliberate; it notes how it reads."},
+        {"q": "What holds the Ābhāvagga together?",
+         "opts": [
+             "A theme of light",
+             "Nothing but the number four",
+             "A single occasion",
+             "A shared audience"],
+         "correct": 1,
+         "expl": "The honest description of how this collection is built."},
+    ],
+    marginalia=[
+        ("Four essentials", [
+            "<span class=\"pali\">sīla</span>ethics",
+            "<span class=\"pali\">samādhi</span>immersion",
+            "<span class=\"pali\">paññā</span>wisdom",
+            "<span class=\"pali\">vimutti</span>freedom",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">sāra</span>heartwood",
+            "twigs, bark, softwood",
+            "&mdash; and what is under them",
+        ]),
+        ("The same four", [
+            "AN 4.1 &middot; not understood",
+            "AN 4.136 &middot; a ladder, minus one",
+            "AN 4.150 &middot; heartwood",
+        ]),
+        ("The chapter", [
+            "five on light",
+            "two on the four times",
+            "two on speech",
+            "one on the heartwood",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.150/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.1.html">AN 4.1 &middot; Understood</a> &mdash; where the same four open the '
+        "Fours, and are said not to have been understood for a very long time.",
+        '<a href="an-4.136.html">AN 4.136 &middot; Ethics (1st)</a> &mdash; the same set minus '
+        "freedom, arranged as a ladder.",
+        '<a href="an-4.141.html">AN 4.141 &middot; Brightness</a> &mdash; the discourse this chapter '
+        "opened with, and the first of its five filings.",
+    ],
+)
