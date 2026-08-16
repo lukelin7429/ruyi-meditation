@@ -6,7 +6,7 @@ SC = "https://suttacentral.net"
 INDEX_HEADING = "Duka Nipāta — The Twos"
 # The Twos follow the completed Ones and hand off to the Threes.
 HEAD = ("an-1.616-627.html", "AN 1.616&ndash;627 &middot; Freedom From Death")
-TAIL = ("an-3.61.html", "AN 3.61 &middot; Sectarian Tenets")
+TAIL = ("an-3.1.html", "AN 3.1 &middot; Perils")
 
 PAGES = []
 
@@ -4987,7 +4987,7 @@ PAGES.append({
         "the mechanism this chapter applies a hundred and seventy times without restating.",
         '<a href="/sutras/mohe-zhiguan/index.html">Mohe Zhiguan</a> &mdash; what the pair this chapter '
         "ends on became in China: an entire system, named after it.",
-        '<a href="an-3.61.html">AN 3.61 &middot; Sectarian Tenets</a> &mdash; where this series '
-        "continues, at the beginning of the Threes.",
+        '<a href="an-3.1.html">AN 3.1 &middot; Perils</a> &mdash; where this series continues, at '
+        "the beginning of the Threes.",
     ],
 })

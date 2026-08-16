@@ -84,7 +84,25 @@ def heading(src, uid):
 
 
 def segments(src, spec):
-    """spec: a uid string ('an1.1') or an explicit list of segment keys."""
+    """Which source segments a text paragraph is made of.
+
+    spec may be a uid ('an1.1') for the whole discourse, a sub-key range
+    within one ('an3.1:1.1-2.3', inclusive, in document order), or an
+    explicit list of segment keys. Headings are skipped either way.
+    """
+    if isinstance(spec, str) and ":" in spec:
+        uid, span = spec.split(":", 1)
+        first, last = span.split("-", 1)
+        order = [k for k in src if k.split(":")[0] == uid]
+        try:
+            lo = order.index("%s:%s" % (uid, first))
+            hi = order.index("%s:%s" % (uid, last))
+        except ValueError:
+            raise KeyError("no such range %s" % spec)
+        keys = [k for k in order[lo:hi + 1] if not is_structural(k, src[k])]
+        if not keys:
+            raise KeyError("range %s is all headings" % spec)
+        return keys
     if isinstance(spec, str):
         keys = [k for k in src if k.split(":")[0] == spec
                 and not is_structural(k, src[k])]

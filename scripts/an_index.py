@@ -42,9 +42,15 @@ def main():
     pages = an_build.chain(mod)
     doc = open(INDEX, encoding="utf-8").read()
 
-    rows = [ROW.format(slug=p["slug"],
-                       num=p["slug"].replace("an-", "AN ").replace("-", "–"),
-                       pali=p["index_pali"], en=p["nav_title"]) for p in pages]
+    # Pages this module generates, plus any already-published pages of the same
+    # nipāta it does not (INDEX_EXTRA), listed in discourse order.
+    entries = [(p["slug"], p["index_pali"], p["nav_title"]) for p in pages]
+    entries += list(getattr(mod, "INDEX_EXTRA", []))
+    entries.sort(key=lambda e: [int(n) for n in
+                                re.findall(r"\d+", e[0].split("-")[1])][:2])
+    rows = [ROW.format(slug=slug,
+                       num=slug.replace("an-", "AN ").replace("-", "–"),
+                       pali=pali, en=en) for slug, pali, en in entries]
     doc = rewrite_block(doc, mod.INDEX_HEADING, rows)
 
     live = len(re.findall(r'class="sutta-row linked"', doc))
