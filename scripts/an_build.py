@@ -131,7 +131,13 @@ def esc(s):
 
 
 def joined(src, keys):
-    return "".join(src[k] for k in keys).strip()
+    """Concatenate segments, dropping SuttaCentral's <j> verse-break hints.
+
+    From the Fours onward the verse segments carry a bare `<j>` where the line
+    is broken for display. It is markup, not text; left in it would print
+    literally. Stripping it here keeps the build and the verifier in step,
+    since both read the text through this function."""
+    return "".join(src[k] for k in keys).replace("<j>", "").strip()
 
 
 # --------------------------------------------------------------------------- #
