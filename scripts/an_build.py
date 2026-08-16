@@ -92,7 +92,8 @@ def segments(src, spec):
     """
     if isinstance(spec, str) and ":" in spec:
         uid, span = spec.split(":", 1)
-        first, last = span.split("-", 1)
+        # "an3.22:2.1" is the one-segment case of "an3.22:2.1-2.1".
+        first, last = span.split("-", 1) if "-" in span else (span, span)
         order = [k for k in src if k.split(":")[0] == uid]
         try:
             lo = order.index("%s:%s" % (uid, first))

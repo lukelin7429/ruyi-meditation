@@ -4379,3 +4379,1132 @@ page(
         "whose two wheels give this chapter its name and its standing question.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.21–30 — Puggalavagga
+# --------------------------------------------------------------------------- #
+VAGGA_3 = "<em>Puggalavagga</em> &mdash; the third chapter of the Threes"
+
+page(
+    21, "Samiddha", "With Saviṭṭha",
+    vagga=VAGGA_3,
+    meta_title="AN 3.21 — With Saviṭṭha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Samiddhasutta — "
+        "three senior monks each name a different kind of person as the finest, take the "
+        "question to the Buddha, and are told it cannot be settled. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta&rsquo;s Grove; a conversation among three senior monks, then "
+                    "taken to the Buddha"),
+        ("Speakers", "Venerable Sāriputta, Venerable Saviṭṭha, Venerable Mahākoṭṭhita, and the "
+                     "Buddha"),
+        ("Form", "A question asked three times with three different answers, then referred upward "
+                 "and declined"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Comparable material on the three kinds of noble person appears in the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the three technical terms need "
+                       "holding, and the ending is the point"),
+    ],
+    why=(
+        "Three senior monks are asked which of three kinds of accomplished person is finest. Each "
+        "gives a different answer, and each gives a good reason for it. They agree that they have "
+        "each spoken from the heart, take the question to the Buddha, and he declines to settle it "
+        "&mdash; four times over, in nearly identical words. It is one of the few places in the canon "
+        "where a question is put to the highest available authority and comes back unresolved, and "
+        "the reason he gives is worth more than an answer would have been."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Three kinds of accomplished person cannot be ranked against each other, because the "
+            "ranking depends on where each of them has actually got to."]),
+        ("The three individuals", [
+            "<em>Kāyasakkhī</em>, the direct witness &mdash; one whose realization has come through "
+            "the meditative attainments, experienced with the body. <em>Diṭṭhippatta</em>, the one "
+            "attained to view &mdash; one who has arrived by seeing, through understanding. "
+            "<em>Saddhāvimutta</em>, the one freed by faith &mdash; one whose confidence carried "
+            "them.",
+            "These are technical categories in the canon&rsquo;s typology of noble persons, and all "
+            "three are genuinely accomplished; nobody in this discourse is discussing a beginner. "
+            "What distinguishes them is which faculty predominated on the way in."]),
+        ("Three answers, each defensible", [
+            "Saviṭṭha says the one freed by faith is finest, because that person&rsquo;s faculty of "
+            "faith is extraordinary. Mahākoṭṭhita says the direct witness, because their faculty of "
+            "immersion is extraordinary. Sāriputta says the one attained to view, because their "
+            "faculty of wisdom is extraordinary.",
+            "Each answer has the same form: the person is finest because the faculty that carried "
+            "them is outstanding. So all three are arguing correctly from a shared premise, and "
+            "reaching incompatible conclusions. The disagreement is not a failure of reasoning by any "
+            "of them.",
+            "It is worth noticing who says what. Sāriputta &mdash; named foremost in great wisdom "
+            "&mdash; picks the one who came by wisdom. Mahākoṭṭhita, foremost in the analytical "
+            "knowledges, picks immersion. The canon does not comment, but each man has answered from "
+            "where he stands, and the discourse is quietly aware of it."]),
+        ("What Sāriputta does next", [
+            "&ldquo;Each of us has spoken from the heart. Come, reverends, let&rsquo;s go to the "
+            "Buddha and tell him about this. As he answers, so we&rsquo;ll remember it.&rdquo;",
+            "That sentence is a small model of how to handle a disagreement among people who all have "
+            "standing. Nobody concedes; nobody is out-argued; the positions are recorded as sincerely "
+            "held and the matter is referred. And Sāriputta &mdash; the most senior of the three, and "
+            "the one whose answer the tradition would most likely have deferred to &mdash; is the one "
+            "who proposes referring it."]),
+        ("And what the Buddha does", [
+            "He says four times that it is not easy to categorically declare which of the three is "
+            "finest, and gives the reason three times over: in some cases the one freed by faith is "
+            "practicing for perfection while the other two are once-returners or non-returners &mdash; "
+            "and then the same with the direct witness in that position, and then with the one "
+            "attained to view.",
+            "So the reason is not that the question is improper or that ranking is unspiritual. It is "
+            "that the categories cut across the stages. Knowing which faculty carried someone in tells "
+            "you nothing about how far they have come, and any of the three types can be found at any "
+            "of the levels. Comparing a type against a type is comparing the wrong thing.",
+            "That is an unusually precise refusal. The Buddha does not say the monks are wrong to "
+            "rank, or that all paths are equal, or that the question does not matter. He says the "
+            "question as put cannot be answered because it holds the wrong variable fixed. Anyone who "
+            "has watched an argument about which kind of practice is best has watched this discourse."]),
+        ("Using it", [
+            "For a teacher this is one of the most useful discourses in the Threes, because the "
+            "argument it defuses is perennial: whether devotion, concentration, or study is the real "
+            "path. All three answers in this discourse are held by named senior disciples, argued "
+            "well, and left standing.",
+            "The practical form of the Buddha&rsquo;s point is simple enough to hand to a class. Ask "
+            "not which kind of practitioner someone is, but how far they have got &mdash; and notice "
+            "that the first question is easy to answer about a stranger and the second is not."]),
+    ],
+    terms=[
+        ("kāyasakkhī",
+         "&ldquo;direct witness&rdquo; &mdash; one whose realization came through the meditative "
+         "attainments, experienced with the body. Mahākoṭṭhita&rsquo;s choice, for the faculty of "
+         "immersion."),
+        ("diṭṭhippatta",
+         "&ldquo;attained to view&rdquo; &mdash; one who arrived by understanding. "
+         "Sāriputta&rsquo;s choice, for the faculty of wisdom."),
+        ("saddhāvimutta",
+         "&ldquo;freed by faith&rdquo; &mdash; one whose confidence carried them. Saviṭṭha&rsquo;s "
+         "choice, for the faculty of faith."),
+        ("ekaṁsena byākātuṁ",
+         "&ldquo;to declare categorically&rdquo; &mdash; what the Buddha says is not easy here. The "
+         "canon elsewhere distinguishes questions answerable categorically from those needing "
+         "analysis or a counter-question."),
+        ("adhimatta",
+         "&ldquo;extraordinary, predominant&rdquo; &mdash; said of the faculty in each monk&rsquo;s "
+         "answer, and the shared premise from which all three argue correctly to different "
+         "conclusions."),
+    ],
+    text_intro=(
+        "The discourse in full, including all three monks&rsquo; answers and the Buddha&rsquo;s "
+        "fourfold refusal. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The question, put to Saviṭṭha"),
+        ("p", "&sect;1", "an3.21:1.1-1.4"),
+        ("p", "&sect;2&ndash;3", "an3.21:2.1-3.7"),
+        ("h3", "And to Mahākoṭṭhita, and to Sāriputta"),
+        ("p", "&sect;4&ndash;5", "an3.21:4.1-5.7"),
+        ("p", "&sect;6&ndash;7", "an3.21:6.1-7.7"),
+        ("h3", "Taken to the Buddha"),
+        ("p", "&sect;8", "an3.21:8.1-8.7"),
+        ("p", "&sect;9&ndash;12", "an3.21:9.1-12.2"),
+    ],
+    quiz=[
+        {"q": "Which three individuals are being compared?",
+         "opts": [
+             "The direct witness, the one attained to view, and the one freed by faith",
+             "The stream-enterer, once-returner, and non-returner",
+             "The monk, the nun, and the layperson",
+             "The teacher, the student, and the donor"],
+         "correct": 0,
+         "expl": "All three genuinely accomplished; what distinguishes them is which faculty predominated on the way in."},
+        {"q": "What form does each of the three answers take?",
+         "opts": [
+             "An appeal to seniority",
+             "The person is finest because the faculty that carried them &mdash; faith, immersion, or wisdom &mdash; is extraordinary",
+             "An appeal to the Buddha&rsquo;s authority",
+             "A refusal to answer"],
+         "correct": 1,
+         "expl": "All three argue correctly from a shared premise to incompatible conclusions."},
+        {"q": "What does the guide notice about who picks what?",
+         "opts": [
+             "Nothing",
+             "Sāriputta, foremost in great wisdom, picks the one who came by wisdom; Mahākoṭṭhita, foremost in the analytical knowledges, picks immersion &mdash; each has answered from where he stands",
+             "They all pick the same",
+             "The choices are randomly assigned"],
+         "correct": 1,
+         "expl": "The canon does not comment, but the discourse is quietly aware of it."},
+        {"q": "What does Sāriputta propose?",
+         "opts": [
+             "That his answer be accepted, as the most senior",
+             "That each has spoken from the heart, and they take the question to the Buddha &mdash; &ldquo;as he answers, so we&rsquo;ll remember it&rdquo;",
+             "That they drop the question",
+             "That they vote"],
+         "correct": 1,
+         "expl": "The most senior of the three, and the one whose answer would most likely have been deferred to, is the one who proposes referring it."},
+        {"q": "What does the Buddha say?",
+         "opts": [
+             "That Sāriputta is right",
+             "That it is not easy to declare categorically which of the three is finest &mdash; four times over",
+             "That the question is improper",
+             "That all three are equal"],
+         "correct": 1,
+         "expl": "One of the few places where a question put to the highest authority comes back unresolved."},
+        {"q": "What reason does he give?",
+         "opts": [
+             "That ranking is unspiritual",
+             "That the categories cut across the stages &mdash; any of the three types can be at any level, so in some cases one is practicing for perfection while the others are once-returners or non-returners",
+             "That the monks lack the standing to ask",
+             "That the answer is secret"],
+         "correct": 1,
+         "expl": "Knowing which faculty carried someone in tells you nothing about how far they have come."},
+        {"q": "How does the guide characterize the refusal?",
+         "opts": [
+             "As evasive",
+             "As unusually precise &mdash; the question as put cannot be answered because it holds the wrong variable fixed",
+             "As a concession to all sides",
+             "As a rebuke"],
+         "correct": 1,
+         "expl": "He does not say the monks are wrong to rank, or that all paths are equal, or that the question does not matter."},
+        {"q": "Which perennial argument does the guide say this defuses?",
+         "opts": [
+             "Whether devotion, concentration, or study is the real path",
+             "Whether laypeople can awaken",
+             "Whether the Vinaya may be amended",
+             "Whether rebirth is literal"],
+         "correct": 0,
+         "expl": "All three answers are held by named senior disciples, argued well, and left standing."},
+        {"q": "What practical form does the guide give the Buddha&rsquo;s point?",
+         "opts": [
+             "Ask not which kind of practitioner someone is, but how far they have got &mdash; and notice that the first question is easy to answer about a stranger and the second is not",
+             "Ask which faculty is strongest",
+             "Ask the most senior person present",
+             "Do not ask at all"],
+         "correct": 0,
+         "expl": "Simple enough to hand to a class."},
+        {"q": "What does <em>ekaṁsena byākātuṁ</em> mean?",
+         "opts": [
+             "&ldquo;To declare categorically&rdquo; &mdash; and the canon elsewhere distinguishes questions answerable this way from those needing analysis or a counter-question",
+             "&ldquo;To refuse to answer&rdquo;",
+             "&ldquo;To answer briefly&rdquo;",
+             "&ldquo;To answer in verse&rdquo;"],
+         "correct": 0,
+         "expl": "The kind of answer being declined is specific."},
+    ],
+    marginalia=[
+        ("Three individuals", [
+            "<span class=\"pali\">kāyasakkhī</span>direct witness",
+            "<span class=\"pali\">diṭṭhippatta</span>attained to view",
+            "<span class=\"pali\">saddhāvimutta</span>freed by faith",
+        ]),
+        ("Three answers", [
+            "Saviṭṭha &middot; faith",
+            "Mahākoṭṭhita &middot; immersion",
+            "Sāriputta &middot; wisdom",
+            "&mdash; each from where he stands",
+        ]),
+        ("The refusal", [
+            "not: the question is improper",
+            "not: all paths are equal",
+            "but: it holds the wrong variable fixed",
+        ]),
+        ("Cross-references", [
+            "AN 1.188&ndash;197 &middot; Sāriputta, Mahākoṭṭhita",
+            "AN 3.22 &middot; next: three patients",
+            "AN 2.51 &middot; being persuadable",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.21/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.209-218.html">AN 1.209&ndash;218 &middot; Foremost Monks (III)</a> &mdash; '
+        "where Mahākoṭṭhita is named foremost in the four analytical knowledges, which is worth "
+        "knowing before reading his answer here.",
+        '<a href="an-2.42-51.html">AN 2.42&ndash;51 &middot; Assemblies</a> &mdash; AN 2.51, on the '
+        "assembly whose members can convince and be convinced, which is what these three monks are "
+        "doing.",
+        '<a href="an-3.22.html">AN 3.22 &middot; Patients</a> &mdash; next in this series.',
+    ],
+)
+
+
+page(
+    22, "Gilāna", "Patients",
+    vagga=VAGGA_3,
+    meta_title="AN 3.22 — Patients | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Gilānasutta — three "
+        "kinds of patient, only one of whom treatment decides, and the sentence that keeps "
+        "the discourse from being a triage argument. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three patients described, a conclusion drawn, and the same structure applied to "
+                 "three kinds of listener"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The medical simile for the reach of teaching appears across the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; clear, and containing one "
+                       "sentence that reverses the obvious reading"),
+    ],
+    why=(
+        "Three patients: one who will not recover whatever is done, one who will recover whatever is "
+        "done, and one who will recover only if treated. Care is prescribed, the discourse says, for "
+        "the sake of the third. Read that far, it is a triage argument, and an uncomfortable one. "
+        "Then comes the next sentence: <em>but also, for the sake of this patient, the other patients "
+        "should be looked after.</em> Everything the discourse is worth turns on that line."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Treatment is justified by the patient it decides, and therefore everyone is treated."]),
+        ("The three patients", [
+            "The distinction is by outcome under intervention, not by severity. The first will not "
+            "recover regardless of suitable food, medicines, and a capable carer. The second will "
+            "recover regardless. The third recovers if treated and does not if not.",
+            "Stated coldly, only the third patient&rsquo;s outcome depends on anything anyone does. "
+            "The first is beyond help; the second does not need it. This is the logic of triage, and "
+            "the discourse states it without flinching: it is for the sake of the third that food, "
+            "medicines, and a carer are <em>prescribed</em>.",
+            "It is worth being clear that the argument is about justification, not about worth. The "
+            "discourse is answering the question <em>why is treatment provided at all?</em>, and the "
+            "answer is that there exists a class of case that it decides."]),
+        ("The sentence that turns it", [
+            "<em>But also, for the sake of this patient, the other patients should be looked after.</em>",
+            "That reverses the practical conclusion without touching the logic. Care is justified by "
+            "the third patient &mdash; and because care must reach the third patient, it is extended "
+            "to all three. The reason is not compassion, or fairness, or the equal worth of the "
+            "sick, though the canon says all of those elsewhere. The reason given here is structural: "
+            "you cannot reliably identify in advance which patient in front of you is the third one, "
+            "so a practice of care that reaches the third must be a practice that treats everybody.",
+            "That is a stronger foundation than sentiment, because it does not depend on the carer "
+            "feeling anything in particular. A triage argument that concludes in universal care is an "
+            "unusual thing to find in any literature."]),
+        ("The three listeners", [
+            "The parallel is exact. Some people do not step into the sure path with regard to skillful "
+            "qualities whether or not they meet a Buddha and hear the teaching. Some do so regardless. "
+            "And some do so only if they meet a Buddha and hear the teaching, and not otherwise.",
+            "Teaching the Dhamma is prescribed for the sake of the third. And then the same reversal: "
+            "<em>but also, for the sake of this individual, the other people should be taught "
+            "Dhamma.</em>",
+            "For anyone who teaches, that is the discourse&rsquo;s practical payload. It says plainly "
+            "that some of your audience will not be reached by anything you do, and that some would "
+            "have got there without you, and it does not pretend otherwise. And it concludes that you "
+            "teach all of them anyway &mdash; not because the claim about the three types is false, "
+            "but because the third type is the reason for the whole enterprise and cannot be picked "
+            "out in advance."]),
+        ("A note on the first type", [
+            "The discourse asserts that some people will not step onto the path whatever happens, and "
+            "it is worth not softening that, because it is stated flatly and the canon means it. AN "
+            "3.13 said the same thing in the language of hope; AN 1.333&ndash;377 said it in the "
+            "language of proportion.",
+            "What is worth adding is what the discourse does with the claim, which is nothing. No "
+            "advice follows about identifying such people, avoiding them, or spending less effort on "
+            "them. The category exists in the analysis and disappears in the instruction. That gap "
+            "between what the canon is willing to assert and what it is willing to act on is itself "
+            "worth teaching."]),
+    ],
+    terms=[
+        ("gilāna",
+         "&ldquo;sick person, patient&rdquo; &mdash; the figure of the simile, and a subject the "
+         "canon treats with unusual practical attention elsewhere."),
+        ("sappāyāni bhojanāni bhesajjāni",
+         "&ldquo;suitable food and medicines&rdquo; &mdash; with a capable carer, the three "
+         "components of treatment held constant across all three patients."),
+        ("okkamati niyāmaṁ kusalesu dhammesu",
+         "&ldquo;steps into the sure path with regard to skillful qualities&rdquo; &mdash; the "
+         "outcome that distinguishes the three listeners."),
+        ("paññatta",
+         "&ldquo;prescribed, laid down&rdquo; &mdash; used of both the treatment and the teaching, "
+         "and the word that makes this a discourse about justification."),
+        ("upaṭṭhātabbā",
+         "&ldquo;should be looked after&rdquo; &mdash; the verb in the sentence that extends care "
+         "from the third patient to all three."),
+    ],
+    text_intro=(
+        "The discourse in full: the three patients, then the three listeners. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three patients"),
+        ("p", "&sect;1", "an3.22:1.1-1.3"),
+        ("p", "&sect;2", "an3.22:2.1"),
+        ("p", "&sect;3", "an3.22:3.1"),
+        ("p", "&sect;4", "an3.22:4.1-4.3"),
+        ("h3", "Three individuals similar to patients"),
+        ("p", "&sect;5", "an3.22:5.1-5.3"),
+        ("p", "&sect;6", "an3.22:6.1"),
+        ("p", "&sect;7", "an3.22:7.1"),
+        ("p", "&sect;8", "an3.22:8.1-8.3"),
+    ],
+    quiz=[
+        {"q": "How are the three patients distinguished?",
+         "opts": [
+             "By severity of illness",
+             "By outcome under intervention &mdash; one will not recover regardless, one will recover regardless, and one recovers only if treated",
+             "By wealth",
+             "By age"],
+         "correct": 1,
+         "expl": "Only the third patient's outcome depends on anything anyone does."},
+        {"q": "For whose sake is treatment said to be prescribed?",
+         "opts": [
+             "The first patient&rsquo;s", "The second patient&rsquo;s",
+             "The third patient&rsquo;s &mdash; the one who recovers only if treated", "All equally"],
+         "correct": 2,
+         "expl": "The discourse states the triage logic without flinching."},
+        {"q": "What sentence reverses the practical conclusion?",
+         "opts": [
+             "&ldquo;These are the three kinds of patients found in the world&rdquo;",
+             "&ldquo;But also, for the sake of this patient, the other patients should be looked after&rdquo;",
+             "&ldquo;Some patients will not recover&rdquo;",
+             "&ldquo;A capable carer is needed&rdquo;"],
+         "correct": 1,
+         "expl": "Everything the discourse is worth turns on that line."},
+        {"q": "What reason does the guide give for the reversal?",
+         "opts": [
+             "Compassion",
+             "Fairness",
+             "A structural one &mdash; you cannot reliably identify in advance which patient is the third, so a practice of care that reaches them must treat everybody",
+             "The equal worth of the sick"],
+         "correct": 2,
+         "expl": "The canon says the others elsewhere; the reason given here is structural."},
+        {"q": "Why does the guide call that a stronger foundation than sentiment?",
+         "opts": [
+             "Because it is older",
+             "Because it does not depend on the carer feeling anything in particular",
+             "Because it is easier to teach",
+             "Because it excludes the first patient"],
+         "correct": 1,
+         "expl": "A triage argument that concludes in universal care is an unusual thing to find in any literature."},
+        {"q": "What distinguishes the three listeners?",
+         "opts": [
+             "Whether they step into the sure path with regard to skillful qualities &mdash; regardless of meeting a Buddha, regardless, or only if they do",
+             "Their ordination status",
+             "Their caste",
+             "Their intelligence"],
+         "correct": 0,
+         "expl": "The parallel with the patients is exact."},
+        {"q": "What is the discourse&rsquo;s practical payload for anyone who teaches?",
+         "opts": [
+             "That teaching is unnecessary",
+             "That some of your audience will not be reached by anything you do and some would have got there without you &mdash; and that you teach all of them anyway, because the third type is the reason for the enterprise and cannot be picked out in advance",
+             "That only the receptive should be taught",
+             "That teaching should be restricted to monastics"],
+         "correct": 1,
+         "expl": "It does not pretend otherwise about the first two types."},
+        {"q": "What does the discourse do with its claim that some people cannot be reached?",
+         "opts": [
+             "Advises avoiding them",
+             "Advises spending less effort on them",
+             "Nothing &mdash; the category exists in the analysis and disappears in the instruction",
+             "Advises identifying them early"],
+         "correct": 2,
+         "expl": "That gap between what the canon asserts and what it acts on is itself worth teaching."},
+        {"q": "Which earlier discourses make the same claim in other language?",
+         "opts": [
+             "AN 3.13 in the language of hope, and AN 1.333&ndash;377 in the language of proportion",
+             "AN 2.1 and AN 2.2",
+             "AN 1.1&ndash;10",
+             "AN 3.14 and AN 3.15"],
+         "correct": 0,
+         "expl": "Stated flatly, and the canon means it."},
+        {"q": "What question is the triage argument actually answering?",
+         "opts": [
+             "Which patients deserve care",
+             "<em>Why is treatment provided at all?</em> &mdash; the argument is about justification, not about worth",
+             "How much care to give",
+             "Who should provide care"],
+         "correct": 1,
+         "expl": "The answer is that there exists a class of case that treatment decides."},
+    ],
+    marginalia=[
+        ("Three patients", [
+            "will not recover, treated or not",
+            "will recover, treated or not",
+            "recovers only if treated",
+        ]),
+        ("The turn", [
+            "care is <em>for</em> the third",
+            "&ldquo;but also, for the sake of this patient,",
+            "the other patients should be looked after&rdquo;",
+        ]),
+        ("Why", [
+            "not compassion, not fairness",
+            "&mdash; you cannot tell which is which",
+        ]),
+        ("Cross-references", [
+            "AN 3.13 &middot; the same claim, as hope",
+            "AN 1.333&ndash;377 &middot; as proportion",
+            "AN 3.23 &middot; next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.22/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.258-267.html">AN 1.258&ndash;267 &middot; Foremost Laywomen</a> &mdash; '
+        "Suppiyā, foremost among those who care for the sick, and the only nursing entry anywhere on "
+        "the foremost list.",
+        '<a href="an-3.13.html">AN 3.13 &middot; Hopes</a> &mdash; the same three-way division made '
+        "in the language of hope rather than of treatment.",
+        '<a href="an-3.23.html">AN 3.23 &middot; Choices</a> &mdash; next in this series.',
+    ],
+)
+
+
+page(
+    23, "Saṅkhāra", "Choices",
+    vagga=VAGGA_3,
+    meta_title="AN 3.23 — Choices | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṅkhārasutta — "
+        "hurtful choices, pleasing choices, and both, each producing a world, a contact, and "
+        "a feeling of the same character. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three individuals, each traced through the same four-step chain"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The analysis of choices producing a corresponding world and feeling is "
+                              "standard across the Chinese Āgamas; this reading guide does not assert "
+                              "a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and its chain is worth "
+                       "following link by link"),
+    ],
+    why=(
+        "Three individuals, and each is traced through the same four steps: choices, a world, a "
+        "contact, a feeling. Hurtful choices produce a hurtful world where hurtful contacts strike "
+        "and hurtful feelings are experienced. Pleasing choices produce the reverse. Mixed choices "
+        "produce a mixed world, which the discourse names as the human one. What makes the discourse "
+        "worth reading is the chain, not the conclusion &mdash; the character of the choice is carried "
+        "through four distinct stages without ever changing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The character of what you choose becomes the character of the world you are in, of what "
+            "meets you there, and of what you feel."]),
+        ("The four-step chain", [
+            "It is stated identically three times. First, an individual makes choices &mdash; "
+            "<em>saṅkhāra</em> &mdash; by way of body, speech, and mind, of a certain character. "
+            "Second, they are reborn in a world of that character. Third, contacts of that character "
+            "strike them there. Fourth, touched by those contacts, they feel feelings of that "
+            "character.",
+            "The steps are not redundant. A world of a certain character is not the same as contacts "
+            "of that character; one could in principle be in a pleasant place and be met by something "
+            "unpleasant. And contact is not the same as feeling; the canon elsewhere spends a great "
+            "deal of effort on exactly that gap. What this discourse asserts is that in these three "
+            "cases the character propagates through all four without loss.",
+            "That is worth noticing precisely because the canon usually insists on the gap. AN 3.100 "
+            "argues at length that the same deed produces very different results depending on the "
+            "person; the whole framework of dependent origination is about where the chain can be "
+            "broken. This discourse describes what happens when nothing intervenes."]),
+        ("The third case is ours", [
+            "The first two illustrations are extreme: the beings in hell, whose feelings are "
+            "exclusively painful, and the gods of universal beauty, whose feelings are of perfect "
+            "happiness. Both are stated as limit cases &mdash; unmixed.",
+            "The third is <em>like humans, some gods, and some beings in the underworld</em>: hurtful "
+            "and pleasing choices together, a world that is both, contacts that are both, feelings "
+            "that are a mixture of pleasure and pain. That is the discourse&rsquo;s description of "
+            "ordinary human experience, and it locates the mixture in the choices rather than in the "
+            "circumstances.",
+            "It is a plain claim and worth stating plainly: on this account the mixed quality of "
+            "ordinary life is not bad luck. It is the shape of what has been chosen, arriving back."]),
+        ("What <em>saṅkhāra</em> is doing here", [
+            "The word is one of the hardest in the canon and it carries a wide range &mdash; "
+            "formations, conditions, volitional activities, constructions. Sujato&rsquo;s "
+            "&ldquo;choices&rdquo; is a strong and defensible narrowing for this context, where the "
+            "term is being used of something a person does by way of body, speech, and mind and which "
+            "then bears fruit.",
+            "It is worth flagging the range anyway, because <em>saṅkhāra</em> in other contexts means "
+            "something quite different &mdash; the conditioned in general, as in <em>all conditions "
+            "are impermanent</em>, where nothing is being chosen by anyone. A reader who meets the "
+            "word in both places and assumes one meaning will be confused by at least one of them.",
+            "Here the choosing sense is clearly right: the discourse is about what a person does and "
+            "what follows from it."]),
+    ],
+    terms=[
+        ("saṅkhāra",
+         "&ldquo;choices&rdquo; here; elsewhere formations, conditions, or the conditioned in general. "
+         "One of the widest-ranging words in the canon, and Sujato&rsquo;s narrowing is contextual."),
+        ("sabyābajjha / abyābajjha",
+         "&ldquo;hurtful&rdquo; and &ldquo;pleasing&rdquo; &mdash; the same root met at AN 3.8 and AN "
+         "3.17, carried here through four stages."),
+        ("phassa",
+         "&ldquo;contact&rdquo; &mdash; the third step, between the world one is in and the feeling "
+         "one has. Distinguished from both."),
+        ("Subhakiṇha",
+         "&ldquo;the gods of universal beauty&rdquo; &mdash; the limit case of unmixed pleasant "
+         "feeling, as the beings in hell are of unmixed painful feeling."),
+        ("vokiṇṇasukhadukkha",
+         "&ldquo;a mixture of pleasure and pain&rdquo; &mdash; the third case, illustrated by humans, "
+         "some gods, and some beings in the underworld."),
+    ],
+    text_intro=(
+        "The discourse in full: three individuals, each traced through the same chain. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Hurtful choices"),
+        ("p", "&sect;1", "an3.23:1.1-1.6"),
+        ("h3", "Pleasing choices"),
+        ("p", "&sect;2", "an3.23:2.1-2.4"),
+        ("h3", "Both"),
+        ("p", "&sect;3", "an3.23:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What are the four steps of the chain?",
+         "opts": [
+             "Choices, a world, a contact, a feeling",
+             "Ignorance, formations, consciousness, name-and-form",
+             "Body, speech, mind, and result",
+             "Cause, condition, effect, and end"],
+         "correct": 0,
+         "expl": "Stated identically three times, with the character carried through unchanged."},
+        {"q": "Why does the guide say the steps are not redundant?",
+         "opts": [
+             "Because they occur at different times",
+             "Because a world of a certain character is not the same as contacts of that character, and contact is not the same as feeling &mdash; one could be in a pleasant place and be met by something unpleasant",
+             "Because each has a different cause",
+             "Because they concern different people"],
+         "correct": 1,
+         "expl": "The discourse asserts that in these three cases the character propagates through all four without loss."},
+        {"q": "Why is that worth noticing?",
+         "opts": [
+             "Because the canon usually insists on the gap &mdash; AN 3.100 argues the same deed produces different results depending on the person, and dependent origination is about where the chain can be broken",
+             "Because the steps are unusual",
+             "Because it contradicts the Vinaya",
+             "Because it is a late addition"],
+         "correct": 0,
+         "expl": "This discourse describes what happens when nothing intervenes."},
+        {"q": "Which two limit cases illustrate the first two individuals?",
+         "opts": [
+             "The beings in hell, whose feelings are exclusively painful, and the gods of universal beauty, whose feelings are of perfect happiness",
+             "Kings and beggars",
+             "Monastics and laypeople",
+             "The young and the old"],
+         "correct": 0,
+         "expl": "Both stated as unmixed."},
+        {"q": "What illustrates the third?",
+         "opts": [
+             "Only animals",
+             "Humans, some gods, and some beings in the underworld &mdash; a mixture of pleasure and pain",
+             "Only the gods",
+             "No illustration is given"],
+         "correct": 1,
+         "expl": "The discourse's description of ordinary human experience."},
+        {"q": "Where does the discourse locate the mixture?",
+         "opts": [
+             "In circumstances",
+             "In the choices &mdash; on this account the mixed quality of ordinary life is not bad luck but the shape of what has been chosen, arriving back",
+             "In the actions of others",
+             "In chance"],
+         "correct": 1,
+         "expl": "A plain claim, and worth stating plainly."},
+        {"q": "What range does <em>saṅkhāra</em> cover elsewhere?",
+         "opts": [
+             "Only volitional choices",
+             "Formations, conditions, and the conditioned in general &mdash; as in &ldquo;all conditions are impermanent,&rdquo; where nothing is being chosen by anyone",
+             "Only mental states",
+             "Only bodily actions"],
+         "correct": 1,
+         "expl": "A reader who meets the word in both places and assumes one meaning will be confused by at least one."},
+        {"q": "Is Sujato&rsquo;s &ldquo;choices&rdquo; defensible here?",
+         "opts": [
+             "No, it is a mistranslation",
+             "Yes &mdash; a strong and defensible contextual narrowing, since the term is used of something a person does by way of body, speech, and mind that then bears fruit",
+             "The guide does not say",
+             "Only for the third individual"],
+         "correct": 1,
+         "expl": "The choosing sense is clearly right here; the range is worth flagging anyway."},
+        {"q": "What is <em>phassa</em>?",
+         "opts": [
+             "&ldquo;Contact&rdquo; &mdash; the third step, between the world one is in and the feeling one has, and distinguished from both",
+             "&ldquo;Feeling&rdquo;",
+             "&ldquo;Choice&rdquo;",
+             "&ldquo;World&rdquo;"],
+         "correct": 0,
+         "expl": "The canon spends a great deal of effort elsewhere on the gap between contact and feeling."},
+        {"q": "Which root do <em>sabyābajjha</em> and <em>abyābajjha</em> share with earlier discourses in this chapter?",
+         "opts": [
+             "The root met at AN 3.8, hurtful deeds, and AN 3.17, hurting yourself and others",
+             "The root of <em>bhaya</em>, danger",
+             "The root of <em>kusala</em>, skillful",
+             "None"],
+         "correct": 0,
+         "expl": "Carried here through four stages instead of named as a predicate."},
+    ],
+    marginalia=[
+        ("The chain", [
+            "choices",
+            "a world",
+            "contacts",
+            "feelings",
+            "&mdash; one character throughout",
+        ]),
+        ("Three cases", [
+            "hurtful &middot; the beings in hell",
+            "pleasing &middot; the gods of universal beauty",
+            "both &middot; humans",
+        ]),
+        ("A hard word", [
+            "<span class=\"pali\">saṅkhāra</span>here: choices",
+            "elsewhere: the conditioned",
+            "&mdash; and nothing is chosen there",
+        ]),
+        ("Cross-references", [
+            "AN 3.100 &middot; where the chain does not propagate",
+            "AN 3.17 &middot; the same root",
+            "AN 3.24 &middot; next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.23/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.100.html">AN 3.100 &middot; A Lump of Salt</a> &mdash; the discourse that '
+        "complicates this one, arguing that the same deed produces very different results depending "
+        "on the character of the person who does it.",
+        '<a href="../samyutta-nikaya/sn-12.1.html">SN 12.1 &middot; Dependent Origination</a> &mdash; '
+        "the full chain this discourse gives a four-step version of, and where the links can be broken.",
+    ],
+)
+
+
+page(
+    24, "Bahukāra", "Very Helpful",
+    vagga=VAGGA_3,
+    meta_title="AN 3.24 — Very Helpful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bahukārasutta — the "
+        "three people who have done most for you, and the statement that they cannot easily "
+        "be repaid. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three individuals named by what they enabled, and a closing statement about "
+                 "repayment"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The theme of the irrepayable debt to those who bring one to the "
+                              "teaching is widespread in the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and the closing sentence "
+                       "connects it to one of the most consequential passages in the Twos"),
+    ],
+    why=(
+        "Three people are very helpful to another: the one who enabled you to go for refuge, the one "
+        "who enabled you to understand the four truths, and the one who enabled you to realize "
+        "freedom. Nobody, the Buddha says, is more helpful than these three. And then the sentence "
+        "that gives the discourse its weight: they cannot easily be repaid by any amount of respect "
+        "or by any amount of material support. It is the same structure as AN 2.33 on parents, and "
+        "reading the two together is how both are best understood."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The three people who brought you to refuge, to understanding, and to freedom cannot be "
+            "repaid by respect or by goods."]),
+        ("Three, in sequence", [
+            "The three are stages of one journey, and each is defined by what they enabled rather than "
+            "by who they are. Going for refuge to the Buddha, the teaching, and the Saṅgha. Truly "
+            "understanding <em>this is suffering</em> and the other three truths. Realizing the "
+            "undefiled freedom of heart and freedom by wisdom in this very life.",
+            "Notice that no role is specified. The discourse does not say <em>your teacher</em>, or "
+            "<em>a monastic</em>, or <em>the person who ordained you</em>. It says the individual who "
+            "enabled it &mdash; whoever that turns out to have been. For many people the first of the "
+            "three is not a teacher at all but a friend, a parent, or someone who lent them a book.",
+            "It is also worth noticing that they may be three different people, or one person, or in "
+            "principle nobody at all for the later stages. The discourse does not require the list to "
+            "be filled."]),
+        ("Why they cannot be repaid", [
+            "The closing sentence names two currencies and rules out both. Not by bowing down, rising "
+            "up, greeting with cupped palms, and observing proper etiquette &mdash; the full "
+            "vocabulary of respect. And not by providing robes, almsfood, lodgings, and medicines "
+            "&mdash; the full vocabulary of material support, and precisely the four requisites that "
+            "AN 2.2 called the lay endeavor.",
+            "So the two things a person actually has to offer, honor and goods, are both declared "
+            "insufficient. The discourse does not then say what would be sufficient, and the silence "
+            "is the interesting part.",
+            "AN 2.33 asked the same question about parents and did answer it: what discharges the debt "
+            "is establishing them in faith, ethics, generosity, and wisdom. Read the two discourses "
+            "together and the answer here suggests itself without being stated &mdash; the only "
+            "repayment available for having been brought to the teaching is bringing someone else. "
+            "The canon does not say so in this discourse, and a guide should not pretend it does. But "
+            "the parallel is exact and the two passages are plainly of a piece."]),
+        ("The debt structure of the tradition", [
+            "Put beside AN 2.33 and AN 2.136 &mdash; where acting rightly toward parents and toward "
+            "the Realized One are given in identical language &mdash; this discourse completes a "
+            "pattern. The canon recognizes a small number of irrepayable debts: to those who gave you "
+            "your life, and to those who gave you the teaching.",
+            "Both are handled the same way. The debt is affirmed as real and as beyond discharge by "
+            "ordinary means; and the only currency that touches it is spiritual rather than material. "
+            "That is the structure the Chinese tradition would later formalize as 四恩 &mdash; the four "
+            "debts of gratitude, to parents, to beings, to rulers, and to the Three Jewels &mdash; and "
+            "the two Pāli discourses behind it are AN 2.33 and this one.",
+            "It is worth pointing out to students that this is not a system of obligation in the "
+            "ordinary sense, because no one is owed anything by anyone. The three helpful individuals "
+            "are not described as expecting repayment, and no duty toward them is prescribed. What is "
+            "described is a fact about the size of what was received."]),
+    ],
+    terms=[
+        ("bahukāra",
+         "&ldquo;very helpful, of great service&rdquo; &mdash; said of the three individuals, and the "
+         "discourse&rsquo;s name."),
+        ("upanissāya",
+         "&ldquo;relying on, by the support of&rdquo; &mdash; the sense in which each of the three "
+         "enabled what followed. Each is defined by what they made possible, not by their role."),
+        ("saraṇaṁ gato",
+         "&ldquo;gone for refuge&rdquo; &mdash; the first of the three enablings, and the one most "
+         "often owed to someone who is not a teacher at all."),
+        ("na suppaṭikāraṁ",
+         "&ldquo;not easily repaid&rdquo; &mdash; the same phrase used of mother and father at AN "
+         "2.33, which is what links the two discourses."),
+        ("cattāro paccayā",
+         "robes, almsfood, lodgings, and medicines &mdash; the four requisites, named here as "
+         "insufficient repayment and named at AN 2.2 as the whole of the lay endeavor."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three individuals very helpful to another"),
+        ("p", "&sect;1", "an3.24:1.1-1.4"),
+        ("p", "&sect;2", "an3.24:2.1-2.2"),
+        ("p", "&sect;3", "an3.24:3.1-3.3"),
+        ("h3", "And they cannot easily be repaid"),
+        ("p", "&sect;4", "an3.24:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "Which three individuals are named?",
+         "opts": [
+             "One&rsquo;s parents, teacher, and preceptor",
+             "The one who enabled you to go for refuge, the one who enabled you to understand the four truths, and the one who enabled you to realize freedom",
+             "The Buddha, the teaching, and the Saṅgha",
+             "A donor, a teacher, and a companion"],
+         "correct": 1,
+         "expl": "Each defined by what they enabled rather than by who they are."},
+        {"q": "What role does the discourse specify for them?",
+         "opts": [
+             "Teacher",
+             "Monastic",
+             "None &mdash; it says the individual who enabled it, whoever that turns out to have been",
+             "Preceptor"],
+         "correct": 2,
+         "expl": "For many people the first is not a teacher at all but a friend, a parent, or someone who lent them a book."},
+        {"q": "Which two currencies does the closing sentence rule out?",
+         "opts": [
+             "Respect &mdash; bowing, rising, cupped palms, proper etiquette &mdash; and material support: robes, almsfood, lodgings, and medicines",
+             "Money and land",
+             "Praise and obedience",
+             "Time and effort"],
+         "correct": 0,
+         "expl": "The two things a person actually has to offer, both declared insufficient."},
+        {"q": "What does the discourse say <em>would</em> be sufficient?",
+         "opts": [
+             "Nothing &mdash; it does not say, and the silence is the interesting part",
+             "Ordination",
+             "Building a monastery",
+             "Lifelong service"],
+         "correct": 0,
+         "expl": "AN 2.33 asked the same question about parents and did answer it."},
+        {"q": "What answer does AN 2.33 give for parents?",
+         "opts": [
+             "Lifelong material care",
+             "Establishing them in faith, ethical conduct, generosity, and wisdom",
+             "Performing their funeral rites",
+             "Ordaining in their name"],
+         "correct": 1,
+         "expl": "Read together, the answer here suggests itself &mdash; though the canon does not say so in this discourse."},
+        {"q": "How does the guide handle that suggestion?",
+         "opts": [
+             "By asserting it as the discourse&rsquo;s teaching",
+             "By naming it as suggested by the parallel while saying plainly that the canon does not say so here and a guide should not pretend it does",
+             "By ignoring it",
+             "By rejecting it"],
+         "correct": 1,
+         "expl": "The parallel is exact and the two passages are plainly of a piece."},
+        {"q": "What pattern does this discourse complete, beside AN 2.33 and AN 2.136?",
+         "opts": [
+             "A system of monastic seniority",
+             "A small number of irrepayable debts &mdash; to those who gave you your life, and to those who gave you the teaching",
+             "A ranking of the four assemblies",
+             "A list of meditation objects"],
+         "correct": 1,
+         "expl": "Both handled the same way: the debt is real, beyond ordinary discharge, and touched only by spiritual currency."},
+        {"q": "What did the Chinese tradition later formalize from this?",
+         "opts": [
+             "四恩 &mdash; the four debts of gratitude, to parents, to beings, to rulers, and to the Three Jewels",
+             "四諦 &mdash; the four truths",
+             "四攝 &mdash; the four ways of being inclusive",
+             "四依 &mdash; the four reliances"],
+         "correct": 0,
+         "expl": "The two Pāli discourses behind it are AN 2.33 and this one."},
+        {"q": "Why does the guide say this is not a system of obligation in the ordinary sense?",
+         "opts": [
+             "Because the debts are small",
+             "Because no one is owed anything by anyone &mdash; the three are not described as expecting repayment, and no duty toward them is prescribed",
+             "Because it applies only to monastics",
+             "Because repayment is impossible"],
+         "correct": 1,
+         "expl": "What is described is a fact about the size of what was received."},
+        {"q": "What phrase links this discourse to AN 2.33?",
+         "opts": [
+             "<em>Na suppaṭikāraṁ</em> &mdash; &ldquo;not easily repaid,&rdquo; used there of mother and father",
+             "<em>Bahukāra</em>",
+             "<em>Saraṇaṁ gato</em>",
+             "<em>Cattāro paccayā</em>"],
+         "correct": 0,
+         "expl": "The same phrase, the same structure."},
+    ],
+    marginalia=[
+        ("Three enablings", [
+            "going for refuge",
+            "understanding the four truths",
+            "realizing freedom",
+        ]),
+        ("Two currencies ruled out", [
+            "bowing, rising, cupped palms",
+            "robes, almsfood, lodgings, medicines",
+        ]),
+        ("The parallel", [
+            "AN 2.33 &middot; mother and father",
+            "same phrase: not easily repaid",
+            "&mdash; there, an answer is given",
+        ]),
+        ("Cross-references", [
+            "AN 2.33 &middot; repaying parents",
+            "AN 2.136 &middot; parents and the Realized One",
+            "四恩 &middot; the later formalization",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.24/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-2.32-41.html">AN 2.32&ndash;41 &middot; The Peaceful Mind</a> &mdash; AN 2.33 on '
+        "repaying parents, which uses the same phrase and does supply an answer.",
+        '<a href="/sutras/brahma-net-sutra/chapter-07.html">The Brahmā Net Sūtra &middot; The Precept '
+        "Preface</a> &mdash; where the debts to parents, teachers, and the Three Jewels are named in "
+        "one breath and made the first content of the bodhisattva precepts.",
+        '<a href="an-2.130-140.html">AN 2.130&ndash;140 &middot; Aspiration</a> &mdash; AN 2.136, '
+        "where acting rightly toward parents and toward the Realized One are given in identical "
+        "language.",
+    ],
+)
+
+
+page(
+    25, "Vajirūpama", "Like Diamond",
+    vagga=VAGGA_3,
+    meta_title="AN 3.25 — Like Diamond | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vajirūpamasutta — "
+        "three minds: one like an open sore, one like lightning, one like diamond. Three "
+        "similes for irritability, insight, and the end of the defilements. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three individuals, each named by a simile and then defined"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The diamond simile for the unbreakable mind is widespread in the "
+                              "Chinese canon and gives the Diamond Sūtra its name; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; three vivid images, and one gap "
+                       "in the sequence worth noticing"),
+    ],
+    why=(
+        "Three minds and three similes. A mind like an open sore, which discharges more when struck. "
+        "A mind like lightning, which sees the whole landscape in a flash. A mind like diamond, which "
+        "nothing can cut. The images are among the most memorable in the Threes, and the sequence has "
+        "a gap in it that is worth noticing: the first is a description of ordinary bad temper, and "
+        "the second is already the four truths understood. There is nothing in between."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mind is either raw and discharging, or lit by a flash of understanding, or beyond "
+            "damage."]),
+        ("The open sore", [
+            "The definition comes before the image and is unusually behavioral: irritable and "
+            "bad-tempered; even when <em>lightly</em> criticized they lose their temper, becoming "
+            "annoyed, hostile, and hard-hearted, and they display annoyance, hate, and bitterness.",
+            "Two details carry the description. The provocation is small &mdash; the Pāli specifies "
+            "that the criticism is slight. And the response is not merely felt but <em>displayed</em>: "
+            "the discourse lists both the internal states and their exhibition.",
+            "Then the image: a festering sore which, struck with a stick or a stone, discharges even "
+            "more. What makes it precise is that a sore does not respond to being struck by hurting "
+            "more; it responds by producing more of what it was already producing. The bad temper was "
+            "there before the criticism. The criticism did not cause it &mdash; it released it.",
+            "That is a more useful account of irritability than one which treats the provocation as "
+            "the cause. It also explains why the size of the provocation does not predict the size of "
+            "the response, which is the detail the definition led with."]),
+        ("The lightning", [
+            "The definition is the four truths truly understood. The image is a person with keen eyes "
+            "in the dark of the night who sees by a flash of lightning.",
+            "Every element does work. The eyes are keen &mdash; the capacity is already there. The "
+            "night is dark &mdash; the ordinary condition is not seeing. And the flash is brief; what "
+            "it gives is not illumination that lasts but a moment in which what is there becomes "
+            "visible. A person who has seen a landscape by lightning knows the landscape afterward, in "
+            "the dark.",
+            "The simile is often read as describing the suddenness of insight, and it does. But its "
+            "more interesting claim is about what the flash reveals: not something new arriving, but "
+            "what was there all along, unlit."]),
+        ("The diamond", [
+            "The definition is the highest: realizing the undefiled freedom of heart and freedom by "
+            "wisdom in this very life, having realized it with one&rsquo;s own insight due to the "
+            "ending of defilements. The image is a diamond, which cannot be cut by anything at all, "
+            "not even a gem or a stone.",
+            "<em>Vajira</em> means both diamond and thunderbolt, and the word&rsquo;s later career in "
+            "Buddhism is enormous &mdash; the Diamond Sūtra, whose full title names the "
+            "<em>vajracchedikā</em>, the diamond-cutter, and the whole of Vajrayāna. What the image "
+            "asserts here is narrow and physical: hardness, in the sense of not being alterable by "
+            "anything brought against it.",
+            "Read against the first simile, the contrast is exact. The open sore is defined by what "
+            "happens when it is struck; the diamond is defined by what does not. Both are descriptions "
+            "of a response to contact, and the middle term &mdash; the lightning &mdash; is the one "
+            "that is not about contact at all."]),
+        ("The gap in the sequence", [
+            "It is worth stating plainly that these three are not a ladder with equal rungs. The first "
+            "describes a person with a temper &mdash; a condition anyone can recognize in themselves "
+            "or a colleague. The second describes someone who has understood the four truths, which in "
+            "the canon&rsquo;s technical vocabulary means at least stream-entry. The third is full "
+            "awakening.",
+            "So the sequence runs: ordinary bad temper, then a stage of the noble path, then the end "
+            "of the path. Nothing occupies the space between the first and the second, and the "
+            "discourse does not remark on it.",
+            "That shape is characteristic of the Aṅguttara&rsquo;s three-person lists and worth "
+            "flagging for students, who reasonably expect a middle term to be a middle. What these "
+            "lists usually give instead is one recognizable case and two attainments &mdash; the "
+            "recognizable case doing the work of making the set memorable, and the other two doing the "
+            "work of naming what is possible."]),
+    ],
+    terms=[
+        ("arukūpama",
+         "&ldquo;like an open sore&rdquo; &mdash; a festering wound which, struck, discharges more of "
+         "what it was already producing."),
+        ("vijjūpama",
+         "&ldquo;like lightning&rdquo; &mdash; the flash by which keen eyes see in the dark. Brief, "
+         "and revealing what was already there."),
+        ("vajirūpama",
+         "&ldquo;like diamond&rdquo; &mdash; <em>vajira</em> means both diamond and thunderbolt, and "
+         "gives its name to the Diamond Sūtra and to Vajrayāna. Here the claim is narrow: not "
+         "alterable by anything brought against it."),
+        ("appamattakena",
+         "&ldquo;lightly, by a little&rdquo; &mdash; the size of the criticism that provokes the first "
+         "individual, and the detail the definition leads with."),
+        ("āsavānaṁ khayā",
+         "&ldquo;due to the ending of defilements&rdquo; &mdash; the definition of the third, and the "
+         "canon&rsquo;s standard formula for full awakening."),
+    ],
+    text_intro=(
+        "The discourse in full: three individuals, each defined and then given a simile. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A mind like an open sore"),
+        ("p", "&sect;1", "an3.25:1.1-1.10"),
+        ("h3", "A mind like lightning"),
+        ("p", "&sect;2", "an3.25:2.1-2.5"),
+        ("h3", "A mind like diamond"),
+        ("p", "&sect;3", "an3.25:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What are the three minds?",
+         "opts": [
+             "Like an open sore, like lightning, and like diamond",
+             "Like water, like fire, and like earth",
+             "Like a child, an adult, and an elder",
+             "Like a seed, a shoot, and a tree"],
+         "correct": 0,
+         "expl": "Among the most memorable images in the Threes."},
+        {"q": "How large is the provocation that sets off the first individual?",
+         "opts": [
+             "A serious accusation",
+             "Slight &mdash; the Pāli specifies that the criticism is light",
+             "A physical attack",
+             "The discourse does not say"],
+         "correct": 1,
+         "expl": "The detail the definition leads with."},
+        {"q": "What is precise about the sore simile?",
+         "opts": [
+             "That a sore is painful",
+             "That a sore struck does not hurt more but produces more of what it was already producing &mdash; the bad temper was there before the criticism, which released rather than caused it",
+             "That sores heal slowly",
+             "That sores are visible"],
+         "correct": 1,
+         "expl": "A more useful account of irritability than one treating the provocation as the cause."},
+        {"q": "What does that explain?",
+         "opts": [
+             "Why criticism should be avoided",
+             "Why the size of the provocation does not predict the size of the response",
+             "Why sores fester",
+             "Why the person displays their anger"],
+         "correct": 1,
+         "expl": "Which is exactly what the definition led with."},
+        {"q": "What is the definition behind the lightning simile?",
+         "opts": [
+             "Quick thinking",
+             "The four truths truly understood",
+             "Psychic power",
+             "A sudden temper"],
+         "correct": 1,
+         "expl": "Which in the canon's technical vocabulary means at least stream-entry."},
+        {"q": "What does the guide say is the more interesting claim of the lightning image?",
+         "opts": [
+             "That insight is sudden",
+             "That the flash reveals not something new arriving but what was there all along, unlit",
+             "That the night is dangerous",
+             "That eyesight must be trained"],
+         "correct": 1,
+         "expl": "A person who has seen a landscape by lightning knows the landscape afterward, in the dark."},
+        {"q": "What does <em>vajira</em> mean, and where does the word go later?",
+         "opts": [
+             "Both diamond and thunderbolt &mdash; and it names the Diamond Sūtra and the whole of Vajrayāna",
+             "Only diamond &mdash; and it has no later career",
+             "Only thunderbolt",
+             "Stone"],
+         "correct": 0,
+         "expl": "What the image asserts here is narrow and physical: hardness."},
+        {"q": "How do the first and third similes contrast exactly?",
+         "opts": [
+             "One is soft and one is hard",
+             "The open sore is defined by what happens when it is struck; the diamond by what does not &mdash; both are descriptions of a response to contact",
+             "One is alive and one is not",
+             "One is small and one is large"],
+         "correct": 1,
+         "expl": "And the middle term, the lightning, is the one not about contact at all."},
+        {"q": "What gap does the guide point out in the sequence?",
+         "opts": [
+             "None",
+             "The first describes ordinary bad temper, the second a stage of the noble path, the third full awakening &mdash; nothing occupies the space between the first and second, and the discourse does not remark on it",
+             "The third is missing a definition",
+             "The similes do not match the definitions"],
+         "correct": 1,
+         "expl": "These three are not a ladder with equal rungs."},
+        {"q": "What does the guide say is characteristic of the Aṅguttara&rsquo;s three-person lists?",
+         "opts": [
+             "That they always progress evenly",
+             "That they usually give one recognizable case and two attainments &mdash; the recognizable case making the set memorable, the other two naming what is possible",
+             "That they concern only monastics",
+             "That the middle term is always the most important"],
+         "correct": 1,
+         "expl": "Worth flagging for students, who reasonably expect a middle term to be a middle."},
+    ],
+    marginalia=[
+        ("Three minds", [
+            "<span class=\"pali\">arukūpama</span>an open sore",
+            "<span class=\"pali\">vijjūpama</span>lightning",
+            "<span class=\"pali\">vajirūpama</span>diamond",
+        ]),
+        ("The sore", [
+            "struck lightly",
+            "discharges more of what was there",
+            "&mdash; released, not caused",
+        ]),
+        ("The gap", [
+            "1 &middot; a bad temper",
+            "2 &middot; the four truths understood",
+            "3 &middot; the defilements ended",
+            "&mdash; nothing between 1 and 2",
+        ]),
+        ("Cross-references", [
+            "Diamond Sūtra &middot; where <em>vajira</em> goes",
+            "AN 3.21 &middot; three individuals, ranked",
+            "AN 3.26 &middot; next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.25/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="/sutras/diamond-sutra/opening-and-non-abiding-giving.html">The Diamond Sūtra '
+        "&middot; Opening</a> &mdash; where <em>vajira</em> ends up: a text named for the "
+        "diamond-cutter, and the most familiar use of this image in East Asia.",
+        '<a href="an-3.21.html">AN 3.21 &middot; With Saviṭṭha</a> &mdash; another three-person list '
+        "in this chapter, and the discourse that shows what happens when someone tries to rank one.",
+    ],
+)
