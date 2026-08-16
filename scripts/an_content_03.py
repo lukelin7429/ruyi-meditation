@@ -5508,3 +5508,1140 @@ page(
         "in this chapter, and the discourse that shows what happens when someone tries to rank one.",
     ],
 )
+
+
+page(
+    26, "Sevitabba", "Associates",
+    vagga=VAGGA_3,
+    meta_title="AN 3.26 — Associates | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sevitabbasutta — "
+        "whom to keep away from, whom to keep company with, and whom to attend with honor, "
+        "sorted by ethics, immersion, and wisdom. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three individuals defined by comparison with oneself, each with a stated reason, "
+                 "closing in verse"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Advice on choosing company by ethical and meditative standing is "
+                              "widespread in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; plain advice, with one clause "
+                       "that stops it being merely self-interested"),
+    ],
+    why=(
+        "Sort the people around you by ethics, immersion, and wisdom, relative to yourself. Those "
+        "below you: do not associate with them. Those level with you: do. Those above you: do, and "
+        "with honor and respect. Stated baldly that is social climbing with a spiritual vocabulary, "
+        "and the discourse would deserve the objection if it stopped there. It does not: the first "
+        "case carries an exception, and the exception is the reason the discourse is worth reading."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Keep company with your equals and your betters in ethics, immersion, and wisdom &mdash; "
+            "and go to your inferiors only out of kindness."]),
+        ("The exception in the first case", [
+            "The instruction about the person inferior in ethics, immersion, and wisdom is: do not "
+            "associate with, accompany, or attend them &mdash; <em>except out of kindness and "
+            "sympathy</em>.",
+            "That clause changes the character of the whole discourse. Without it, the advice is about "
+            "protecting one&rsquo;s own development, and the person below you is simply a hazard. With "
+            "it, there remains exactly one reason to seek them out, and it is the only reason the "
+            "discourse allows: their benefit rather than yours.",
+            "So the rule is not <em>avoid the worse</em>. It is: do not go to them for what you would "
+            "go to an equal or a better for. Company for your own sake goes upward or sideways; going "
+            "downward is not company but help, and the discourse marks the difference by naming the "
+            "motive."]),
+        ("Why equals", [
+            "The reason given for keeping company with equals is unexpectedly concrete and has nothing "
+            "to do with attainment. <em>Since our ethical conduct is similar, we can discuss ethics, "
+            "the conversation will flow, and we&rsquo;ll both be at ease.</em> And the same for "
+            "immersion and for wisdom.",
+            "What is being valued is a conversation that works. Two people at the same level can "
+            "actually talk about the thing &mdash; neither is explaining and neither is struggling to "
+            "follow &mdash; and the discourse names the ease of it as the point. That is an unusually "
+            "sociable reason to find in a list about spiritual company, and it is worth pointing out "
+            "to students who expect the canon to recommend only vertical relationships.",
+            "It also implies something about peers that the tradition does not otherwise say much "
+            "about. A teacher gives you what you lack; an equal gives you a conversation. Both are on "
+            "the list."]),
+        ("Why betters, and what &ldquo;with honor&rdquo; adds", [
+            "The person superior in the three is to be attended <em>with honor and respect</em> "
+            "&mdash; the extra clause that distinguishes this case from the second. And the reason is "
+            "stated as a first-person resolve: I will fulfill the ethics, immersion, and wisdom I have "
+            "not yet fulfilled, or support with wisdom what I have.",
+            "Note that both halves are named. Association upward is not only for acquiring what one "
+            "lacks but for consolidating what one has. That second half is easy to skip and it is the "
+            "more realistic of the two: most of what a practitioner gets from someone further along is "
+            "not new material but confirmation that what they already do is sound."]),
+        ("The closing verse", [
+            "<em>A man who associates with an inferior goes downhill, but associating with an equal, "
+            "you&rsquo;ll never decline; following the best, you&rsquo;ll quickly rise up, so you "
+            "should keep company with people better than you.</em>",
+            "The verse compresses the prose and, in compressing it, drops the exception. Read alone it "
+            "is the bare social advice; read after the prose it is a summary that assumes the "
+            "qualification has already been made. That is a common relationship between a "
+            "discourse&rsquo;s prose and its closing verse, and it is worth knowing about, because "
+            "these verses travel independently and get quoted without what preceded them.",
+            "The same verse closes AN 3.27, the next discourse. Both times it follows a fuller "
+            "treatment that is more careful than the verse is."]),
+    ],
+    terms=[
+        ("sevitabba",
+         "&ldquo;to be associated with&rdquo; &mdash; the gerundive that gives the discourse its name; "
+         "the question throughout is who <em>should</em> be kept company with."),
+        ("bhajitabba / payirupāsitabba",
+         "&ldquo;to be accompanied&rdquo; and &ldquo;to be attended&rdquo; &mdash; the two further "
+         "verbs, running from casual association to sitting at someone&rsquo;s feet."),
+        ("anukampaṁ upādāya",
+         "&ldquo;out of kindness and sympathy&rdquo; &mdash; the exception that permits going to "
+         "someone below one in the three, and the clause that changes the discourse&rsquo;s character."),
+        ("sīla, samādhi, paññā",
+         "ethics, immersion, and wisdom &mdash; the three axes of comparison, and the canon&rsquo;s "
+         "standard division of the training."),
+        ("sakkatvā garuṁ katvā",
+         "&ldquo;with honor and respect&rdquo; &mdash; the addition that distinguishes attending a "
+         "superior from keeping company with an equal."),
+    ],
+    text_intro=(
+        "The discourse in full, closing in verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three individuals"),
+        ("p", "&sect;1", "an3.26:1.1-1.8"),
+        ("h3", "The equal"),
+        ("p", "&sect;2", "an3.26:2.1-2.8"),
+        ("h3", "The superior"),
+        ("p", "&sect;3", "an3.26:3.1-3.9"),
+        ("h3", "In verse"),
+        ("p", "&sect;4", "an3.26:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "By what are the three individuals sorted?",
+         "opts": [
+             "Seniority, learning, and reputation",
+             "Ethics, immersion, and wisdom, relative to oneself",
+             "Wealth, birth, and health",
+             "Age, ordination, and office"],
+         "correct": 1,
+         "expl": "The canon's standard division of the training, used here as a social sorting."},
+        {"q": "What exception attaches to the first case?",
+         "opts": [
+             "None",
+             "&ldquo;Except out of kindness and sympathy&rdquo;",
+             "Except when they ask",
+             "Except in a monastery"],
+         "correct": 1,
+         "expl": "The clause that changes the character of the whole discourse."},
+        {"q": "How does that exception change the rule?",
+         "opts": [
+             "It does not",
+             "The rule is not &ldquo;avoid the worse&rdquo; but &ldquo;do not go to them for what you would go to an equal or a better for&rdquo; &mdash; going downward is not company but help",
+             "It permits all association",
+             "It restricts the rule to monastics"],
+         "correct": 1,
+         "expl": "The discourse marks the difference by naming the motive."},
+        {"q": "What reason is given for keeping company with equals?",
+         "opts": [
+             "That they will not lead one astray",
+             "That the conversation works &mdash; both can discuss the thing, it will flow, and both will be at ease",
+             "That they are easier to find",
+             "That they need help"],
+         "correct": 1,
+         "expl": "An unusually sociable reason to find in a list about spiritual company."},
+        {"q": "What does the guide say that implies about peers?",
+         "opts": [
+             "That they are unnecessary",
+             "That a teacher gives you what you lack and an equal gives you a conversation &mdash; and both are on the list",
+             "That peers should be avoided",
+             "That peers are the same as teachers"],
+         "correct": 1,
+         "expl": "Worth pointing out to students who expect the canon to recommend only vertical relationships."},
+        {"q": "What extra clause distinguishes the third case?",
+         "opts": [
+             "&ldquo;With honor and respect&rdquo;",
+             "&ldquo;Out of kindness&rdquo;",
+             "&ldquo;From time to time&rdquo;",
+             "&ldquo;In private&rdquo;"],
+         "correct": 0,
+         "expl": "<em>Sakkatvā garuṁ katvā</em>."},
+        {"q": "What two halves does the resolve behind attending a superior contain?",
+         "opts": [
+             "Fulfilling what one has not yet fulfilled, and supporting with wisdom what one already has",
+             "Learning and teaching",
+             "Giving and receiving",
+             "Asking and answering"],
+         "correct": 0,
+         "expl": "Association upward is not only for acquiring what one lacks."},
+        {"q": "Which half does the guide call more realistic?",
+         "opts": [
+             "The first",
+             "The second &mdash; most of what a practitioner gets from someone further along is not new material but confirmation that what they already do is sound",
+             "Neither",
+             "The guide does not say"],
+         "correct": 1,
+         "expl": "Easy to skip in the reading."},
+        {"q": "What does the closing verse drop?",
+         "opts": [
+             "The three axes",
+             "The exception &mdash; read alone it is the bare social advice",
+             "The superior individual",
+             "Nothing"],
+         "correct": 1,
+         "expl": "A summary that assumes the qualification has already been made."},
+        {"q": "Why does the guide say that matters?",
+         "opts": [
+             "Because the verse is inauthentic",
+             "Because these verses travel independently and get quoted without what preceded them &mdash; and the same verse closes AN 3.27 as well",
+             "Because verses are harder to translate",
+             "Because the prose is optional"],
+         "correct": 1,
+         "expl": "Both times it follows a fuller treatment that is more careful than the verse is."},
+    ],
+    marginalia=[
+        ("Three, by comparison", [
+            "below you &middot; do not associate",
+            "level with you &middot; do",
+            "above you &middot; do, with honor",
+        ]),
+        ("The exception", [
+            "<span class=\"pali\">anukampaṁ upādāya</span>out of kindness",
+            "&mdash; not company, but help",
+        ]),
+        ("Why equals", [
+            "the conversation flows",
+            "both are at ease",
+            "&mdash; a sociable reason",
+        ]),
+        ("Cross-references", [
+            "AN 3.27 &middot; next, same closing verse",
+            "AN 1.71&ndash;81 &middot; good friendship",
+            "AN 2.118&ndash;129 &middot; the voice of another",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.26/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.71-81.html">AN 1.71&ndash;81 &middot; Good Friends</a> &mdash; where good '
+        "friendship is called not half but the whole of the spiritual life, which this discourse turns "
+        "into a sorting rule.",
+        '<a href="an-2.118-129.html">AN 2.118&ndash;129 &middot; Hopes Hard to Give Up</a> &mdash; the '
+        "discourse that explains why company matters this much: the voice of another is the sole "
+        "external source of view, right or wrong.",
+        '<a href="an-3.27.html">AN 3.27 &middot; You Should be Disgusted</a> &mdash; next in this '
+        "series, which sorts the same field by a different criterion.",
+    ],
+)
+
+
+page(
+    27, "Jigucchitabba", "You Should be Disgusted",
+    vagga=VAGGA_3,
+    meta_title="AN 3.27 — You Should be Disgusted | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Jigucchitabbasutta — "
+        "three people to be disgusted by, regarded with equanimity, or kept company with, "
+        "with the snake in the dunghill and the firebrand of ebony. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three individuals, each with a prescribed attitude, a reason, and one or more "
+                 "similes; closing on the same verse as AN 3.26"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Comparable material on bad association appears in the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; vivid and direct, and worth "
+                       "reading for the difference between its first two prescriptions"),
+    ],
+    why=(
+        "The previous discourse sorted people by ethics, immersion, and wisdom. This one sorts them by "
+        "what attitude to take: be disgusted by the corrupt, regard the bad-tempered with equanimity, "
+        "keep company with the ethical. The two negative prescriptions are different, and the "
+        "difference is the discourse&rsquo;s content &mdash; disgust and equanimity are not two "
+        "strengths of the same reaction but two reactions to two different problems."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Corruption calls for disgust and distance; bad temper calls for equanimity and distance; "
+            "and only good character calls for company."]),
+        ("Disgust, and the snake in the dunghill", [
+            "The first individual is described in the canon&rsquo;s harshest register: unethical, of "
+            "bad qualities, filthy, of suspicious behavior, underhand, no true ascetic though claiming "
+            "to be one, <em>rotten inside, festering, and depraved</em>. The prescription is disgust "
+            "and complete avoidance.",
+            "The reason is not what one might expect. It is not that you will be corrupted by them "
+            "&mdash; the discourse explicitly says <em>even if you don&rsquo;t follow the example of "
+            "such an individual</em>. It is that you will get a bad reputation: <em>that individual "
+            "has bad friends, companions, and associates.</em>",
+            "And the simile is exact about the mechanism. A snake that has been living in a dunghill: "
+            "even if it does not bite, it will still rub off on you. The danger named is not venom but "
+            "residue. Association transfers something whether or not anything happens.",
+            "That is a claim about reputation, and it is worth being honest that it is a prudential "
+            "argument rather than a moral one. The discourse does not say the corrupt person will make "
+            "you corrupt. It says being seen with them will cost you, and treats that cost as "
+            "sufficient reason."]),
+        ("Equanimity, and three similes for one temper", [
+            "The second individual is the irritable and bad-tempered person of AN 3.25 &mdash; the "
+            "same definition word for word, down to being lightly criticized. But where AN 3.25 gave "
+            "one simile, this discourse gives three.",
+            "The festering sore, struck, discharges more. A firebrand of pale-moon ebony, struck, "
+            "sizzles and crackles more. A sewer, stirred, stinks more. Three different sensory "
+            "registers &mdash; sight, sound, smell &mdash; for the same mechanism: contact produces "
+            "an increase of what was already there.",
+            "The prescribed attitude is equanimity, not disgust, and the reason given is purely "
+            "practical: <em>they might abuse or insult me, or do me harm.</em> No moral judgment is "
+            "passed on the bad-tempered person at all. They are a hazard to be given room, not a "
+            "corruption to be recoiled from.",
+            "That distinction is the most useful thing in the discourse. Corruption gets disgust "
+            "because it is a moral condition that contaminates by association. Bad temper gets "
+            "equanimity because it is a hazard that injures on contact. Two problems, two attitudes, "
+            "and the same practical conclusion &mdash; distance &mdash; reached by different routes."]),
+        ("And the third", [
+            "The person to keep company with is simply <em>ethical, of good character</em> &mdash; no "
+            "further qualification, and a much lower bar than AN 3.26&rsquo;s superior in ethics, "
+            "immersion, and wisdom.",
+            "The reason is the mirror of the first: even if you do not follow their example, you get a "
+            "good reputation. The whole discourse runs on the same prudential logic in both "
+            "directions, which is consistent if unedifying, and honest about what it is doing."]),
+        ("The verse it shares with AN 3.26", [
+            "The closing verse is identical to the previous discourse&rsquo;s: associate with an "
+            "inferior and go downhill, with an equal and never decline, with the best and quickly rise.",
+            "Reading the two discourses in sequence shows what a shared verse does in this literature. "
+            "The prose of AN 3.26 sorts by attainment and adds an exception for kindness; the prose of "
+            "AN 3.27 sorts by character and adds a distinction between disgust and equanimity. The "
+            "verse fits both and captures neither qualification. It is a mnemonic, not a summary, and "
+            "the two discourses it closes are more careful than it is."]),
+    ],
+    terms=[
+        ("jigucchitabba",
+         "&ldquo;to be disgusted by&rdquo; &mdash; the attitude prescribed toward the first "
+         "individual, and the discourse&rsquo;s name."),
+        ("ajjhupekkhitabba",
+         "&ldquo;to be regarded with equanimity&rdquo; &mdash; the attitude prescribed toward the "
+         "second. Not a weaker disgust but a different response to a different problem."),
+        ("antopūti avassuta kasambujāta",
+         "&ldquo;rotten inside, festering, and depraved&rdquo; &mdash; the canon&rsquo;s harshest "
+         "register, reserved for one claiming to be an ascetic and not being one."),
+        ("gūthagata ahi",
+         "&ldquo;a snake living in a dunghill&rdquo; &mdash; the simile for the first individual. The "
+         "danger named is residue rather than venom."),
+        ("pāpamitta",
+         "&ldquo;bad friend&rdquo; &mdash; what one is reputed to have, which is the actual reason the "
+         "discourse gives for avoidance."),
+    ],
+    text_intro=(
+        "The discourse in full, closing on the same verse as AN 3.26. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The one to be disgusted by"),
+        ("p", "&sect;1", "an3.27:1.1-1.15"),
+        ("h3", "The one to regard with equanimity"),
+        ("p", "&sect;2", "an3.27:2.1-2.14"),
+        ("h3", "The one to keep company with"),
+        ("p", "&sect;3", "an3.27:3.1-3.8"),
+        ("h3", "In verse"),
+        ("p", "&sect;4", "an3.27:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What three attitudes does the discourse prescribe?",
+         "opts": [
+             "Disgust, equanimity, and company",
+             "Pity, patience, and praise",
+             "Avoidance, tolerance, and imitation",
+             "Fear, respect, and love"],
+         "correct": 0,
+         "expl": "Two of the three end in distance, reached by different routes."},
+        {"q": "What reason does the discourse give for avoiding the corrupt person?",
+         "opts": [
+             "That you will be corrupted by them",
+             "That you will get a bad reputation &mdash; explicitly &ldquo;even if you don&rsquo;t follow the example of such an individual&rdquo;",
+             "That they will harm you physically",
+             "That they will waste your time"],
+         "correct": 1,
+         "expl": "A prudential argument rather than a moral one, and the guide says so."},
+        {"q": "What does the snake simile say about the mechanism?",
+         "opts": [
+             "That the snake will bite",
+             "That even if it does not bite, it will still rub off on you &mdash; the danger is residue, not venom",
+             "That snakes are inherently evil",
+             "That dunghills should be avoided"],
+         "correct": 1,
+         "expl": "Association transfers something whether or not anything happens."},
+        {"q": "How is the second individual defined?",
+         "opts": [
+             "As unethical and corrupt",
+             "As irritable and bad-tempered, losing their temper even when lightly criticized &mdash; the same definition as AN 3.25, word for word",
+             "As lazy",
+             "As ignorant"],
+         "correct": 1,
+         "expl": "Where AN 3.25 gave one simile, this discourse gives three."},
+        {"q": "What three similes are used for the bad-tempered person?",
+         "opts": [
+             "A festering sore, a firebrand of pale-moon ebony, and a sewer",
+             "A snake, a fire, and a flood",
+             "A wheel, a pot, and a lamp",
+             "A dog, a jackal, and a crow"],
+         "correct": 0,
+         "expl": "Sight, sound, and smell &mdash; three registers for one mechanism."},
+        {"q": "What is that mechanism?",
+         "opts": [
+             "That contact causes new damage",
+             "That contact produces an increase of what was already there",
+             "That contact spreads corruption",
+             "That contact provokes retaliation"],
+         "correct": 1,
+         "expl": "The same point AN 3.25 made with the sore alone."},
+        {"q": "What reason is given for equanimity rather than disgust?",
+         "opts": [
+             "That the person may improve",
+             "A purely practical one &mdash; &ldquo;they might abuse or insult me, or do me harm&rdquo;; no moral judgment is passed at all",
+             "That anger is not a fault",
+             "That equanimity is always preferable"],
+         "correct": 1,
+         "expl": "A hazard to be given room, not a corruption to be recoiled from."},
+        {"q": "What is the distinction the guide calls the most useful thing in the discourse?",
+         "opts": [
+             "That corruption contaminates by association and gets disgust, while bad temper injures on contact and gets equanimity &mdash; two problems, two attitudes, one practical conclusion",
+             "That both are equally bad",
+             "That neither should be avoided",
+             "That only monastics need apply it"],
+         "correct": 0,
+         "expl": "Disgust and equanimity are not two strengths of one reaction."},
+        {"q": "How is the third individual described?",
+         "opts": [
+             "As superior in ethics, immersion, and wisdom",
+             "Simply as ethical, of good character &mdash; a much lower bar than AN 3.26&rsquo;s",
+             "As a teacher",
+             "As a monastic"],
+         "correct": 1,
+         "expl": "And the reason is the mirror of the first: you get a good reputation."},
+        {"q": "What does the guide say about the verse shared with AN 3.26?",
+         "opts": [
+             "That it summarizes both discourses accurately",
+             "That it fits both and captures neither qualification &mdash; it is a mnemonic, not a summary, and the two discourses it closes are more careful than it is",
+             "That it belongs only to AN 3.26",
+             "That it contradicts the prose"],
+         "correct": 1,
+         "expl": "AN 3.26 adds an exception for kindness; AN 3.27 distinguishes disgust from equanimity; the verse has neither."},
+    ],
+    marginalia=[
+        ("Three attitudes", [
+            "<span class=\"pali\">jigucchitabba</span>be disgusted by",
+            "<span class=\"pali\">ajjhupekkhitabba</span>regard with equanimity",
+            "<span class=\"pali\">sevitabba</span>keep company with",
+        ]),
+        ("Two problems", [
+            "corruption &middot; contaminates by association",
+            "bad temper &middot; injures on contact",
+            "&mdash; same distance, different route",
+        ]),
+        ("Three similes, one temper", [
+            "a sore, struck",
+            "ebony in the fire, struck",
+            "a sewer, stirred",
+        ]),
+        ("Cross-references", [
+            "AN 3.25 &middot; the same temper, one simile",
+            "AN 3.26 &middot; the same closing verse",
+            "AN 3.28 &middot; next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.27/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.25.html">AN 3.25 &middot; Like Diamond</a> &mdash; the same definition of the '
+        "bad-tempered person with a single simile, where it serves a different argument.",
+        '<a href="an-3.26.html">AN 3.26 &middot; Associates</a> &mdash; the previous discourse, '
+        "which sorts the same field by attainment rather than by character and adds the exception for "
+        "kindness that this one does not repeat.",
+    ],
+)
+
+
+page(
+    28, "Gūthabhāṇī", "Speech like Dung",
+    vagga=VAGGA_3,
+    meta_title="AN 3.28 — Speech like Dung | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Gūthabhāṇīsutta — "
+        "speech like dung, like flowers, and like honey, with the first two defined by "
+        "testimony under oath. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three individuals named by simile, the first two defined by an identical scene "
+                 "with the answers reversed"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The threefold classification of speech is found across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple, and its middle term is "
+                       "set lower than most readers expect"),
+    ],
+    why=(
+        "Three kinds of speech, named by what they are like: dung, flowers, honey. The scene that "
+        "defines the first two is the same for both &mdash; being summoned to give evidence before a "
+        "council, an assembly, a family meeting, a guild, or the royal court &mdash; and the "
+        "difference is only whether the answers are true. What makes the discourse worth reading is "
+        "where it puts the middle term: speech like flowers is not eloquence. It is not lying under "
+        "oath."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Lying under oath is like dung, telling the truth under oath is like flowers, and kind "
+            "speech is like honey."]),
+        ("The scene, and why it is specified", [
+            "The setting is a formal one and the list of venues is worth reading: a council, an "
+            "assembly, a family meeting, a guild, or the royal court. Those are the places where "
+            "disputes were actually settled &mdash; public, domestic, commercial, and judicial &mdash; "
+            "and a person is called to say what they know.",
+            "The formula for the lie is precise and fourfold: not knowing, they say <em>I know</em>; "
+            "knowing, they say <em>I don&rsquo;t know</em>; not seeing, <em>I see</em>; seeing, "
+            "<em>I don&rsquo;t see</em>. Both directions of both faculties, so that withholding is "
+            "counted alongside asserting. Someone who conceals what they saw has lied by this "
+            "definition exactly as much as someone who invents.",
+            "And the motives are named: for the sake of themselves or another, <em>or for some trivial "
+            "worldly reason</em>. That last clause is the sharp one. The definition does not require "
+            "the lie to be self-serving or even to matter; a trivial reason qualifies. Most lying is "
+            "not dramatic, and the discourse knows it."]),
+        ("Where the middle term is set", [
+            "Speech like flowers is the same scene with the four answers reversed: not knowing, they "
+            "say <em>I don&rsquo;t know</em>; and so on. That is the whole definition.",
+            "It is worth stopping on how low that bar is. Flowers, in this taxonomy, is not beautiful "
+            "speech, or wise speech, or helpful speech. It is answering a question accurately when "
+            "under obligation to answer. A person who has never lied in a formal setting has speech "
+            "like flowers, and nothing further is required of them.",
+            "That is a useful correction to a common assumption about the canon&rsquo;s standards. The "
+            "middle term of a three-term list is often read as a decent intermediate achievement. Here "
+            "it is the absence of a specific fault, and the discourse is content to praise it in those "
+            "terms."]),
+        ("Honey, and what it adds", [
+            "The third is defined differently: not by a scene but by a practice. Such a person "
+            "<em>gives up harsh speech</em> and speaks in a way that is mellow, pleasing to the ear, "
+            "endearing, going to the heart, polite, likable and agreeable to people.",
+            "So the third term is not a further degree of truthfulness. It is a different axis "
+            "entirely: the first two concern accuracy, the third concerns manner. Honey is not "
+            "truer than flowers; it is kinder, and the discourse does not say whether it is also true.",
+            "That gap is worth noticing rather than filling in. The canon elsewhere treats these as "
+            "separate factors of right speech &mdash; abstaining from lying, from divisive speech, "
+            "from harsh speech, from idle chatter &mdash; and a person can satisfy one and fail "
+            "another. Reading the three terms of this discourse as a single ladder produces a "
+            "confusion the fourfold analysis of right speech avoids."]),
+        ("The images", [
+            "The three similes are not explained and do not need to be. What is worth noting is their "
+            "ordering by what one does with them: dung is what you get away from, flowers are what you "
+            "are pleased to receive, honey is what you actually want. The scale runs from repulsion "
+            "through acceptability to desire.",
+            "It also runs from what speech is like to what speech does to the hearer, which is the "
+            "same progression the definitions make: the first two are about the speaker&rsquo;s "
+            "relation to the facts, and the third is about the listener&rsquo;s experience."]),
+    ],
+    terms=[
+        ("gūthabhāṇī",
+         "&ldquo;one whose speech is like dung&rdquo; &mdash; the discourse&rsquo;s name, defined by "
+         "lying under formal obligation to answer."),
+        ("pupphabhāṇī",
+         "&ldquo;one whose speech is like flowers&rdquo; &mdash; and the bar is not eloquence but "
+         "accuracy: answering truthfully when called to bear witness."),
+        ("madhubhāṇī",
+         "&ldquo;one whose speech is like honey&rdquo; &mdash; defined not by a scene but by giving "
+         "up harsh speech; a different axis from the first two."),
+        ("sampajānamusā bhāsati",
+         "&ldquo;deliberately lies&rdquo; &mdash; the fourfold formula covering both asserting what is "
+         "not so and withholding what is."),
+        ("appamattakassa lokāmisassa hetu",
+         "&ldquo;for some trivial worldly reason&rdquo; &mdash; the clause that removes any "
+         "requirement for the lie to be significant."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Speech like dung"),
+        ("p", "&sect;1", "an3.28:1.1-1.6"),
+        ("h3", "Speech like flowers"),
+        ("p", "&sect;2", "an3.28:2.1-2.3"),
+        ("h3", "Speech like honey"),
+        ("p", "&sect;3", "an3.28:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What scene defines the first two individuals?",
+         "opts": [
+             "A monastic recitation",
+             "Being summoned to bear witness before a council, an assembly, a family meeting, a guild, or the royal court",
+             "A conversation with the Buddha",
+             "An alms round"],
+         "correct": 1,
+         "expl": "The places where disputes were actually settled &mdash; public, domestic, commercial, and judicial."},
+        {"q": "What is fourfold about the formula for lying?",
+         "opts": [
+             "Four kinds of lie by subject matter",
+             "Both directions of both faculties &mdash; not knowing, saying &ldquo;I know&rdquo;; knowing, saying &ldquo;I don&rsquo;t know&rdquo;; and the same for seeing",
+             "Four venues",
+             "Four motives"],
+         "correct": 1,
+         "expl": "So withholding is counted alongside asserting."},
+        {"q": "What follows from that?",
+         "opts": [
+             "That only assertions count as lies",
+             "That someone who conceals what they saw has lied by this definition exactly as much as someone who invents",
+             "That silence is always safe",
+             "That intent does not matter"],
+         "correct": 1,
+         "expl": "Both directions of both faculties."},
+        {"q": "Which motive clause does the guide call the sharp one?",
+         "opts": [
+             "&ldquo;For the sake of themselves&rdquo;",
+             "&ldquo;For the sake of another&rdquo;",
+             "&ldquo;Or for some trivial worldly reason&rdquo; &mdash; the definition does not require the lie to be self-serving or even to matter",
+             "There is no motive clause"],
+         "correct": 2,
+         "expl": "Most lying is not dramatic, and the discourse knows it."},
+        {"q": "What is speech like flowers?",
+         "opts": [
+             "Beautiful or eloquent speech",
+             "Answering the same four questions accurately &mdash; that is the whole definition",
+             "Speech that pleases the hearer",
+             "Speech about the Dhamma"],
+         "correct": 1,
+         "expl": "Not beautiful speech, or wise speech, or helpful speech."},
+        {"q": "What does the guide say about how low that bar is?",
+         "opts": [
+             "That it is too low to be praised",
+             "That a person who has never lied in a formal setting has speech like flowers, and nothing further is required &mdash; the middle term is the absence of a specific fault, and the discourse is content to praise it in those terms",
+             "That the bar is actually very high",
+             "That the term is mistranslated"],
+         "correct": 1,
+         "expl": "A useful correction to a common assumption about the canon's standards."},
+        {"q": "How is speech like honey defined?",
+         "opts": [
+             "By a scene, like the first two",
+             "By a practice &mdash; giving up harsh speech, and speaking in a way that is mellow, pleasing, endearing, going to the heart, polite, likable and agreeable",
+             "By truthfulness alone",
+             "By silence"],
+         "correct": 1,
+         "expl": "A different axis entirely from the first two."},
+        {"q": "Is honey truer than flowers?",
+         "opts": [
+             "Yes, it is a further degree of truthfulness",
+             "No &mdash; the first two concern accuracy and the third concerns manner; honey is kinder, and the discourse does not say whether it is also true",
+             "The discourse says honey is often false",
+             "The two cannot be compared"],
+         "correct": 1,
+         "expl": "A gap worth noticing rather than filling in."},
+        {"q": "How does the canon elsewhere handle this?",
+         "opts": [
+             "As a single ladder",
+             "As separate factors of right speech &mdash; abstaining from lying, divisive speech, harsh speech, and idle chatter &mdash; any of which a person can satisfy while failing another",
+             "It does not address speech",
+             "As two factors only"],
+         "correct": 1,
+         "expl": "Reading these three terms as one ladder produces a confusion the fourfold analysis avoids."},
+        {"q": "How does the guide describe the ordering of the three images?",
+         "opts": [
+             "By colour",
+             "By what one does with them &mdash; dung is what you get away from, flowers what you are pleased to receive, honey what you actually want: repulsion, acceptability, desire",
+             "By value",
+             "By rarity"],
+         "correct": 1,
+         "expl": "And it runs from the speaker's relation to the facts to the listener's experience."},
+    ],
+    marginalia=[
+        ("Three kinds", [
+            "<span class=\"pali\">gūthabhāṇī</span>dung",
+            "<span class=\"pali\">pupphabhāṇī</span>flowers",
+            "<span class=\"pali\">madhubhāṇī</span>honey",
+        ]),
+        ("The fourfold lie", [
+            "not knowing &rarr; &ldquo;I know&rdquo;",
+            "knowing &rarr; &ldquo;I don&rsquo;t know&rdquo;",
+            "and the same for seeing",
+            "&mdash; withholding counts",
+        ]),
+        ("Two axes", [
+            "dung / flowers &middot; accuracy",
+            "honey &middot; manner",
+            "&mdash; not one ladder",
+        ]),
+        ("Cross-references", [
+            "AN 1.140&ndash;149 &middot; reporting accurately",
+            "AN 3.29 &middot; next",
+            "MN 117 &middot; right speech, fourfold",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.28/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-117.html">MN 117 &middot; The Great Forty</a> &mdash; right '
+        "speech set out as four separate abstentions, which is the analysis that keeps this "
+        "discourse&rsquo;s three terms from being read as one ladder.",
+        '<a href="an-1.140-149.html">AN 1.140&ndash;149 &middot; Not the Teaching</a> &mdash; the same '
+        "concern with saying accurately what is and is not so, applied to the tradition rather than to "
+        "a courtroom.",
+    ],
+)
+
+
+page(
+    29, "Andha", "Blind",
+    vagga=VAGGA_3,
+    meta_title="AN 3.29 — Blind | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Andhasutta — the "
+        "blind, the one-eyed, and the two-eyed, sorted by two kinds of vision: the kind that "
+        "makes money and the kind that tells right from wrong. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three individuals defined by which of two capacities they have, followed by six "
+                 "verses"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The blind and one-eyed simile appears in the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clean two-by-two, with the "
+                       "fourth cell conspicuously absent"),
+    ],
+    why=(
+        "Two kinds of vision: the kind needed to acquire and increase wealth, and the kind needed to "
+        "tell skillful from unskillful, blameworthy from blameless, inferior from superior. Someone "
+        "with neither is blind. Someone with the first only is one-eyed. Someone with both is "
+        "two-eyed, and the discourse calls them the best individual. It is a two-by-two with one cell "
+        "missing, and the missing cell is worth asking about."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Worldly competence and moral discernment are two separate eyes, and most people have at "
+            "most one."]),
+        ("The two visions", [
+            "The first is stated in commercial terms and taken entirely seriously: the vision needed "
+            "to acquire more wealth or to increase the wealth one has. That is not a grudging "
+            "concession. The verses that follow praise the two-eyed person specifically for wealth "
+            "<em>earned legitimately, money acquired by their own hard work</em>.",
+            "The second is moral discernment: knowing the difference between qualities that are "
+            "skillful and unskillful, blameworthy and blameless, inferior and superior, and those with "
+            "a portion of dark or bright. Four pairs, and the last is the least familiar &mdash; the "
+            "canon&rsquo;s way of naming qualities that are mixed rather than one thing or the other.",
+            "So the discourse is not contrasting the worldly with the spiritual. It is naming two "
+            "competences and observing that they come apart."]),
+        ("The missing cell", [
+            "A two-by-two of two capacities has four cells: neither, first only, second only, both. "
+            "The discourse gives three. There is no name here for the person who has moral discernment "
+            "and no ability to make a living.",
+            "It would be reading too much in to say the discourse denies such a person exists. What can "
+            "be said is that it does not name them, and that the numbering is by threes, which "
+            "constrains what fits. But the absence is worth putting to a class, because the person in "
+            "the missing cell is one most modern readers can picture immediately, and the discourse&rsquo;s "
+            "silence about them is more interesting than any answer would have been.",
+            "It is also worth noticing what the ordering assumes. The eye that is present in the "
+            "one-eyed person is the commercial one, not the moral one. On the discourse&rsquo;s own "
+            "arrangement, the more commonly held of the two capacities is the ability to get on in the "
+            "world."]),
+        ("What the one-eyed person does", [
+            "The verses are much harsher than the prose, and they are worth reading for the "
+            "specificity. The one-eyed person seeks wealth <em>by methods good and bad</em>; the "
+            "verses name fraudulent and thieving deeds, and lies; and they add that this person is "
+            "<em>skilled at piling up money, and enjoying sensual pleasures</em>. And then: from here "
+            "they go to hell.",
+            "The prose said only that the one-eyed person lacks moral discernment. The verses assume "
+            "that lacking it, they will use their one eye badly, and describe the result. That gap "
+            "between prose and verse is common in the canon and worth flagging: the prose classifies, "
+            "the verse moralizes, and they are not saying quite the same thing."]),
+        ("The closing advice", [
+            "<em>The blind and the one-eyed, you should avoid from afar. But you should keep the "
+            "two-eyed close, the best individual.</em>",
+            "Read after AN 3.26 and AN 3.27, this is the third consecutive discourse ending in advice "
+            "about company, and the third to sort people for that purpose on a different axis: "
+            "attainment, character, and now capacity. The Puggalavagga is a chapter about types of "
+            "person, and it keeps arriving at the same practical question.",
+            "It is worth noting that this one, unlike AN 3.26, offers no exception for kindness. The "
+            "verse says avoid from afar, and nothing qualifies it. A reader working through the "
+            "chapter in order has been given the exception once and should probably carry it forward; "
+            "the discourse itself does not."]),
+    ],
+    terms=[
+        ("andha",
+         "&ldquo;blind&rdquo; &mdash; here lacking both kinds of vision, worldly and moral."),
+        ("ekacakkhu",
+         "&ldquo;one-eyed&rdquo; &mdash; having the vision that acquires wealth and not the vision "
+         "that tells skillful from unskillful."),
+        ("dvicakkhu",
+         "&ldquo;two-eyed&rdquo; &mdash; having both, and called by the verses the best individual."),
+        ("kaṇhasukkasappaṭibhāga",
+         "&ldquo;having a portion of dark or bright&rdquo; &mdash; the fourth and least familiar of "
+         "the pairs the moral eye distinguishes: qualities that are mixed rather than one thing or "
+         "the other."),
+        ("dhammena bhogā",
+         "&ldquo;wealth earned legitimately&rdquo; &mdash; what the verses praise in the two-eyed "
+         "person, which is why the discourse is not contrasting the worldly with the spiritual."),
+    ],
+    text_intro=(
+        "The discourse in full, with its six closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The blind"),
+        ("p", "&sect;1", "an3.29:1.1-1.7"),
+        ("h3", "The one-eyed"),
+        ("p", "&sect;2", "an3.29:2.1-2.4"),
+        ("h3", "The two-eyed"),
+        ("p", "&sect;3", "an3.29:3.1-3.6"),
+        ("h3", "In verse"),
+        ("p", "&sect;4&ndash;6", "an3.29:4.1-6.6"),
+        ("p", "&sect;7&ndash;9", "an3.29:7.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What are the two kinds of vision?",
+         "opts": [
+             "The vision needed to acquire and increase wealth, and the vision needed to tell skillful from unskillful, blameworthy from blameless, inferior from superior",
+             "Physical sight and the divine eye",
+             "Insight and serenity",
+             "Foresight and hindsight"],
+         "correct": 0,
+         "expl": "Two competences that come apart."},
+        {"q": "Is the discourse contrasting the worldly with the spiritual?",
+         "opts": [
+             "Yes, and it condemns wealth",
+             "No &mdash; the verses praise the two-eyed person specifically for wealth earned legitimately by their own hard work",
+             "Yes, and it condemns discernment",
+             "The discourse does not mention wealth"],
+         "correct": 1,
+         "expl": "The first vision is taken entirely seriously."},
+        {"q": "What is <em>kaṇhasukkasappaṭibhāga</em>?",
+         "opts": [
+             "&ldquo;Having a portion of dark or bright&rdquo; &mdash; qualities that are mixed rather than one thing or the other",
+             "&ldquo;Wholly dark&rdquo;",
+             "&ldquo;Wholly bright&rdquo;",
+             "&ldquo;Neither dark nor bright&rdquo;"],
+         "correct": 0,
+         "expl": "The least familiar of the four pairs the moral eye distinguishes."},
+        {"q": "Which cell of the two-by-two is missing?",
+         "opts": [
+             "The person with neither capacity",
+             "The person with moral discernment and no ability to make a living",
+             "The person with both",
+             "None is missing"],
+         "correct": 1,
+         "expl": "The discourse gives three of four, and the numbering by threes constrains what fits."},
+        {"q": "How does the guide handle that absence?",
+         "opts": [
+             "By claiming the discourse denies such a person exists",
+             "By saying it would be reading too much in to claim that, while noting the silence is worth putting to a class since the missing person is one modern readers picture immediately",
+             "By ignoring it",
+             "By supplying a fourth type"],
+         "correct": 1,
+         "expl": "The silence is more interesting than any answer would have been."},
+        {"q": "Which eye does the one-eyed person have?",
+         "opts": [
+             "The moral one",
+             "The commercial one &mdash; so on the discourse&rsquo;s own arrangement, the more commonly held capacity is the ability to get on in the world",
+             "Neither",
+             "It varies"],
+         "correct": 1,
+         "expl": "Worth noticing what the ordering assumes."},
+        {"q": "How do the verses go beyond the prose about the one-eyed person?",
+         "opts": [
+             "They do not",
+             "The prose says only that they lack moral discernment; the verses assume they will use their one eye badly and name fraudulent and thieving deeds and lies, ending in hell",
+             "They praise them",
+             "They add a fourth type"],
+         "correct": 1,
+         "expl": "The prose classifies, the verse moralizes, and they are not saying quite the same thing."},
+        {"q": "What does the guide say about that gap generally?",
+         "opts": [
+             "That it indicates two authors",
+             "That it is common in the canon and worth flagging",
+             "That the verses are always later",
+             "That the prose should be ignored"],
+         "correct": 1,
+         "expl": "A structural feature rather than a defect."},
+        {"q": "What advice do the closing verses give?",
+         "opts": [
+             "Avoid the blind and the one-eyed from afar, and keep the two-eyed close",
+             "Help the blind and the one-eyed",
+             "Avoid everyone",
+             "Keep all three close"],
+         "correct": 0,
+         "expl": "The third consecutive discourse in this chapter to end in advice about company."},
+        {"q": "How does that advice differ from AN 3.26&rsquo;s?",
+         "opts": [
+             "It is identical",
+             "It offers no exception for kindness &mdash; a reader working through the chapter has been given the exception once and should probably carry it forward, but this discourse does not",
+             "It is gentler",
+             "It concerns monastics only"],
+         "correct": 1,
+         "expl": "The verse says avoid from afar, and nothing qualifies it."},
+    ],
+    marginalia=[
+        ("Two eyes", [
+            "one &middot; acquiring wealth",
+            "two &middot; skillful from unskillful",
+        ]),
+        ("Three of four", [
+            "neither &middot; blind",
+            "wealth only &middot; one-eyed",
+            "both &middot; two-eyed",
+            "&mdash; discernment only: unnamed",
+        ]),
+        ("Prose and verse", [
+            "prose &middot; lacks the second eye",
+            "verse &middot; fraud, theft, lies, hell",
+        ]),
+        ("Cross-references", [
+            "AN 3.26 &middot; the exception this one drops",
+            "AN 4.62 &middot; wealth taken seriously",
+            "AN 3.30 &middot; next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.29/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.62.html">AN 4.62 &middot; Debtlessness</a> &mdash; the fullest treatment of the '
+        "first eye: a householder&rsquo;s happiness in wealth legitimately earned, named without "
+        "apology.",
+        '<a href="an-3.26.html">AN 3.26 &middot; Associates</a> &mdash; the discourse in this chapter '
+        "that adds the exception for kindness which this one&rsquo;s closing verse omits.",
+    ],
+)
+
+
+page(
+    30, "Avakujja", "Upside-down",
+    vagga=VAGGA_3,
+    meta_title="AN 3.30 — Upside-down | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Avakujjasutta, which "
+        "closes the Puggalavagga — the upturned pot, the food spilled from a lap, and the pot "
+        "set straight. Three kinds of listener, and the best discourse in the Threes for "
+        "anyone who teaches. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three listeners, each defined by what they do during and after a teaching, each "
+                 "with a simile; closing in verse"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "The three-pot simile for kinds of listener is well known across the "
+                              "Chinese Āgamas and became standard in later teaching literature; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; long by the standards of this "
+                       "chapter, and entirely practical"),
+    ],
+    why=(
+        "Three people go regularly to hear the teaching. The first attends to none of it, during or "
+        "after &mdash; a pot turned upside down, which water runs off. The second attends while "
+        "sitting there and to none of it afterward &mdash; food heaped on a lap, which scatters when "
+        "the person stands. The third attends during and after &mdash; a pot set upright, which holds "
+        "what is poured in. Of everything in the Threes, this is the discourse most directly about "
+        "what happens in a room where something is being taught, and it is unsparing about the middle "
+        "case."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What separates listeners is not what they hear but whether they are still attending to it "
+            "after they stand up."]),
+        ("One variable, tested twice", [
+            "The three are defined by exactly one thing, asked at two moments: does this person apply "
+            "the mind to the beginning, middle, and end of the discussion &mdash; while sitting there, "
+            "and after getting up from their seat?",
+            "No, no. Yes, no. Yes, yes. That is the whole taxonomy, and it produces three of the four "
+            "possible cases; the fourth, not attending during but attending afterward, is not "
+            "available in practice.",
+            "Everything else in the discourse is held constant, deliberately and at length. All three "
+            "<em>often go to the monastery</em>. All three hear teaching that is <em>good in the "
+            "beginning, good in the middle, and good in the end, meaningful and well-phrased</em>. The "
+            "repetition of that formula three times over is doing real work: no listener here is being "
+            "short-changed. The teaching is identical and excellent in all three cases, so nothing "
+            "about the outcome can be laid at the teacher&rsquo;s door."]),
+        ("The middle case is the point", [
+            "The upside-down pot and the upright pot are obvious. The lap is the discourse&rsquo;s "
+            "real contribution, and it is the most uncomfortable of the three because it describes "
+            "somebody who is doing everything visible correctly.",
+            "The image is exact: a person with different kinds of food crammed on their lap &mdash; "
+            "sesame, rice, sweets, jujube &mdash; who stands up without mindfulness, and everything "
+            "scatters. The food was really there. It was collected, it was varied, and it was held "
+            "while sitting. The failure is entirely in the transition.",
+            "The verses press it further, and this is the sentence to take away: <em>they&rsquo;ve "
+            "only grasped the phrasing, for when they get up their understanding fails, and what "
+            "they&rsquo;ve learned is lost.</em> Grasping the phrasing while sitting is not nothing "
+            "&mdash; the verses say this person is better than the first &mdash; but what is retained "
+            "is the wording rather than the sense, and the wording does not survive standing up.",
+            "For anyone who teaches, that is a description of most of an audience most of the time, "
+            "and the discourse offers no technique for changing it. What it offers is the diagnosis."]),
+        ("What the third person actually does", [
+            "The definition of the widespread-wisdom listener is the second one plus five words: "
+            "<em>and when they get up from their seat, they continue to apply the mind</em>.",
+            "The verses add what that produces: they grasp the phrasing, <em>they remember it with the "
+            "best of intentions</em>, and &mdash; the last line of the discourse &mdash; practicing in "
+            "line with the teaching, they would make an end of suffering.",
+            "So the chain runs: attend while sitting, attend after standing, grasp the phrasing, "
+            "remember it, practice in line with it, end suffering. Six steps, and the first two are "
+            "the only ones this discourse asks about. That is a defensible pedagogical judgment: the "
+            "step that can be observed and worked on is attention, and everything downstream follows "
+            "from it."]),
+        ("Using it", [
+            "This discourse is the most directly usable thing in the Threes for a teacher, and its use "
+            "is not what one might expect. It does not suggest teaching differently, and it explicitly "
+            "rules out blaming the material.",
+            "What it suggests is that the question worth asking about a session is not whether people "
+            "followed it but whether anything is still being turned over an hour later. AN 2.47 in the "
+            "Twos gave the communal version of the same test &mdash; whether the assembly questions "
+            "and examines afterward, <em>why does it say this? what does that mean?</em> Both "
+            "discourses locate the decisive moment after the teaching has finished, and both are "
+            "about what the listener does rather than what the teacher does.",
+            "It also gives a listener something to do, which is more than most discourses about "
+            "listening manage. The instruction implicit in the third case is small and precise: when "
+            "you stand up, keep going."]),
+        ("Closing the chapter", [
+            "AN 3.30 ends the Puggalavagga, ten discourses all built on <em>these three individuals "
+            "are found in the world</em>. Read in order they sort people by attainment, by treatment "
+            "response, by the character of their choices, by what they enabled in you, by the "
+            "hardness of their mind, by their standing relative to yours, by their character, by their "
+            "speech, by their two kinds of vision, and finally by their attention.",
+            "The chapter never says which sorting is the right one, and the accumulation is the point. "
+            "A person is not one type; they are a position on ten different scales, and the "
+            "chapter&rsquo;s repeated formula &mdash; found in the world &mdash; keeps insisting that "
+            "these are observations rather than categories to be assigned."]),
+    ],
+    terms=[
+        ("avakujjapañña",
+         "&ldquo;upside-down wisdom&rdquo; &mdash; the first listener, whose simile is a pot turned "
+         "over so the water runs off."),
+        ("ucchaṅgapañña",
+         "&ldquo;wisdom on the lap&rdquo; &mdash; the second, who holds what is given while seated "
+         "and scatters it on standing."),
+        ("puthupañña",
+         "&ldquo;widespread wisdom&rdquo; &mdash; the third, whose simile is a pot set upright, which "
+         "holds what is poured in."),
+        ("ādikalyāṇa majjhekalyāṇa pariyosānakalyāṇa",
+         "&ldquo;good in the beginning, middle, and end&rdquo; &mdash; the formula for the teaching, "
+         "repeated identically for all three listeners so that nothing can be laid at the "
+         "teacher&rsquo;s door."),
+        ("byañjanam eva gaṇhāti",
+         "&ldquo;they&rsquo;ve only grasped the phrasing&rdquo; &mdash; the verses&rsquo; verdict on "
+         "the middle listener: the wording is retained and the sense is not."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Upside-down wisdom"),
+        ("p", "&sect;1", "an3.30:1.1-1.14"),
+        ("h3", "Wisdom on the lap"),
+        ("p", "&sect;2", "an3.30:2.1-2.13"),
+        ("h3", "Widespread wisdom"),
+        ("p", "&sect;3", "an3.30:3.1-3.12"),
+        ("h3", "In verse"),
+        ("p", "&sect;4&ndash;7", "an3.30:4.1-7.6"),
+        ("p", "&sect;8&ndash;10", "an3.30:8.1-10.4"),
+    ],
+    quiz=[
+        {"q": "By what single variable are the three listeners distinguished?",
+         "opts": [
+             "How much they understand",
+             "Whether they apply the mind to the discussion &mdash; asked twice: while sitting there, and after getting up",
+             "How often they attend",
+             "Which teacher they hear"],
+         "correct": 1,
+         "expl": "No/no, yes/no, yes/yes &mdash; three of the four possible cases."},
+        {"q": "Which possible case is not available in practice?",
+         "opts": [
+             "Attending during and after",
+             "Attending during but not after",
+             "Not attending during but attending afterward",
+             "Attending neither"],
+         "correct": 2,
+         "expl": "Which is why the taxonomy has three terms and not four."},
+        {"q": "What is held constant across all three, and why does it matter?",
+         "opts": [
+             "That all three go often to the monastery and hear teaching good in the beginning, middle, and end &mdash; so nothing about the outcome can be laid at the teacher&rsquo;s door",
+             "Their age",
+             "Their ordination",
+             "Nothing is held constant"],
+         "correct": 0,
+         "expl": "The repetition of that formula three times over is doing real work."},
+        {"q": "What does the lap simile describe?",
+         "opts": [
+             "Someone who does not attend at all",
+             "Someone doing everything visible correctly &mdash; food really collected, varied, and held while sitting &mdash; whose failure is entirely in the transition of standing up",
+             "Someone who eats during a teaching",
+             "Someone who forgets to attend"],
+         "correct": 1,
+         "expl": "The most uncomfortable of the three, and the discourse's real contribution."},
+        {"q": "What do the verses say the middle listener retains?",
+         "opts": [
+             "Nothing",
+             "Only the phrasing &mdash; when they get up their understanding fails, and what they have learned is lost",
+             "The full meaning",
+             "The teacher&rsquo;s name"],
+         "correct": 1,
+         "expl": "The wording is retained and the sense is not."},
+        {"q": "How much longer is the third definition than the second?",
+         "opts": [
+             "Twice as long",
+             "Five words &mdash; &ldquo;and when they get up from their seat, they continue to apply the mind&rdquo;",
+             "A full paragraph",
+             "They are the same length"],
+         "correct": 1,
+         "expl": "The whole difference between the second and third listener."},
+        {"q": "What six-step chain do the verses give for the third listener?",
+         "opts": [
+             "Attend while sitting, attend after standing, grasp the phrasing, remember it, practice in line with it, end suffering",
+             "Hear, memorize, recite, teach, ordain, awaken",
+             "Faith, energy, mindfulness, immersion, wisdom, freedom",
+             "Give, keep precepts, meditate, study, teach, retire"],
+         "correct": 0,
+         "expl": "And the first two are the only ones this discourse asks about."},
+        {"q": "Why does the guide call that a defensible pedagogical judgment?",
+         "opts": [
+             "Because the later steps do not matter",
+             "Because the step that can be observed and worked on is attention, and everything downstream follows from it",
+             "Because the verses are optional",
+             "Because listeners cannot be taught"],
+         "correct": 1,
+         "expl": "The discourse offers a diagnosis rather than a technique."},
+        {"q": "What question does the guide say this discourse suggests asking about a session?",
+         "opts": [
+             "Whether people enjoyed it",
+             "Whether people followed it",
+             "Whether anything is still being turned over an hour later",
+             "Whether the material was correct"],
+         "correct": 2,
+         "expl": "AN 2.47 gives the communal version of the same test."},
+        {"q": "What does the Puggalavagga&rsquo;s repeated formula &ldquo;found in the world&rdquo; keep insisting?",
+         "opts": [
+             "That the types are fixed",
+             "That these are observations rather than categories to be assigned &mdash; a person is a position on ten different scales, not one type",
+             "That the types are rare",
+             "That only monastics are meant"],
+         "correct": 1,
+         "expl": "The chapter never says which sorting is the right one, and the accumulation is the point."},
+    ],
+    marginalia=[
+        ("Three pots", [
+            "<span class=\"pali\">avakujja</span>turned over",
+            "<span class=\"pali\">ucchaṅga</span>on the lap",
+            "<span class=\"pali\">puthu</span>set upright",
+        ]),
+        ("One variable, twice", [
+            "while sitting &middot; after standing",
+            "no / no",
+            "yes / no",
+            "yes / yes",
+        ]),
+        ("The middle case", [
+            "sesame, rice, sweets, jujube",
+            "&ldquo;only grasped the phrasing&rdquo;",
+            "&mdash; the failure is the transition",
+        ]),
+        ("Cross-references", [
+            "AN 2.47 &middot; the same test, for a room",
+            "AN 3.20 &middot; asking afterward",
+            "AN 1.333&ndash;377 &middot; understanding without practicing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.30/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-2.42-51.html">AN 2.42&ndash;51 &middot; Assemblies</a> &mdash; AN 2.47, the '
+        "communal version of this test: whether an assembly questions and examines afterward.",
+        '<a href="an-3.20.html">AN 3.20 &middot; A Shopkeeper (2nd)</a> &mdash; where going to ask '
+        "the learned what a passage means is named as one of three things that make a practice grow "
+        "quickly.",
+        '<a href="an-1.333-377.html">AN 1.333&ndash;377 &middot; Few and Many</a> &mdash; where those '
+        "who understand the teaching but do not practice in line with it are counted among the many.",
+    ],
+)
