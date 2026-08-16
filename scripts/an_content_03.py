@@ -24053,3 +24053,1511 @@ page(
         "conclusion.",
     ],
 )
+
+
+page(
+    106, "Samaṇabrāhmaṇa", "Ascetics and Brahmins",
+    vagga=VAGGA_11,
+    meta_title="AN 3.106 — Ascetics and Brahmins | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Samaṇabrāhmaṇasutta — the three-term analysis turned into a test of who counts as a "
+        "genuine ascetic. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "One negative case and one positive, in identical words"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four lines making a large claim"),
+    ],
+    why=(
+        "The three terms of the previous discourses &mdash; gratification, drawback, escape &mdash; "
+        "are turned into a criterion. Ascetics and brahmins who do not truly understand them, the "
+        "Buddha says, he does not deem true ascetics and brahmins. Those who do, he does. It is one "
+        "of the shortest and most consequential statements in the chapter, and everything depends on "
+        "how the claim is read."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What makes somebody a genuine renunciate is not their tradition but whether they have "
+            "understood what is good about the world, what is wrong with it, and how one gets out."]),
+        ("What is being claimed", [
+            "The words are careful. <em>I don&rsquo;t deem them as true ascetics and brahmins</em> "
+            "&mdash; <em>na sammannāmi</em>, I do not agree to it, I do not acknowledge it. This is "
+            "the Buddha declining to apply a title, not declaring somebody worthless.",
+            "And the reason given is not membership but result: <em>those venerables don&rsquo;t "
+            "realize the goal of life as an ascetic or brahmin, and don&rsquo;t live having realized "
+            "it with their own insight.</em> The criterion is whether the person has arrived at what "
+            "their own role is for.",
+            "Notice that the goal named is <em>the goal of life as an ascetic or brahmin</em> &mdash; "
+            "their goal, on their own terms, not a Buddhist one imposed from outside. The argument is "
+            "that a renunciate who has not understood these three has not achieved what renunciation "
+            "was supposed to achieve, whichever tradition they belong to."]),
+        ("The generosity and the severity together", [
+            "Read one way this is remarkably open. No school is named, no doctrine is required, and "
+            "no ordination is mentioned. Anybody in any tradition who has understood the three counts, "
+            "and the Buddha says he deems them so.",
+            "Read the other way it is severe. The three terms are not a general attitude; AN 3.104 "
+            "claimed the <em>full extent</em> of each had to be seen. A criterion that admits any "
+            "tradition and excludes anybody who has not completed that survey is not a lenient "
+            "criterion.",
+            "Both readings are correct and they are the same claim. The collection does this "
+            "repeatedly &mdash; AN 3.57&rsquo;s five-and-five description of a worthy recipient, AN "
+            "3.58&rsquo;s three knowledges, AN 3.59&rsquo;s redefinition of who deserves an offering. "
+            "In each case a title is opened to everybody and made harder to hold."]),
+        ("What it does not do", [
+            "It does not say that other traditions are false, that their practices are useless, or "
+            "that their members are insincere. AN 3.93 in the previous chapter described the "
+            "austerities of other ascetics in detail and did not call them wicked; this one withholds "
+            "a title and gives a reason.",
+            "It also does not offer a way of telling from outside. Whether somebody has understood "
+            "the world&rsquo;s gratification, drawback, and escape is not visible on inspection, and "
+            "the discourse provides no test that a third party could apply.",
+            "That is worth saying to a class, because a criterion like this is easy to turn into a "
+            "license for judging other people&rsquo;s teachers. The discourse is stated in the first "
+            "person &mdash; <em>I deem</em>, <em>I don&rsquo;t deem</em> &mdash; and nobody else is "
+            "invited to do the deeming."]),
+        ("Using it", [
+            "This is the fourth discourse in a row on the same three terms, and it is the one that "
+            "says what they are for. AN 3.103 gave the analysis; AN 3.104 said it was searched out; "
+            "AN 3.105 argued for it from behavior; this one makes it the standard.",
+            "The transferable version is worth having. Applied to any discipline, the question "
+            "becomes: has this person understood what is genuinely attractive about the thing they "
+            "have renounced or mastered, what is genuinely wrong with it, and what getting free of it "
+            "would consist of? Somebody who has only the second of the three is a critic, not a "
+            "practitioner."]),
+    ],
+    terms=[
+        ("samaṇabrāhmaṇā",
+         "&ldquo;ascetics and brahmins&rdquo; &mdash; the standard pair covering everybody with "
+         "religious standing, of any school."),
+        ("na sammannāmi",
+         "&ldquo;I don&rsquo;t deem them&rdquo; &mdash; I do not acknowledge or agree to the title. "
+         "Declining to apply a name rather than declaring somebody worthless."),
+        ("sāmaññattha brahmaññattha",
+         "&ldquo;the goal of life as an ascetic or brahmin&rdquo; &mdash; their goal on their own "
+         "terms, not a Buddhist one imposed from outside."),
+        ("sayaṁ abhiññā sacchikatvā",
+         "&ldquo;having realized it with their own insight&rdquo; &mdash; the standard phrase for "
+         "first-hand attainment, which is what the criterion requires."),
+        ("yathābhūtaṁ",
+         "&ldquo;for what they are&rdquo; &mdash; the qualification on the understanding, carried "
+         "over from the three preceding discourses."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.106:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What is turned into a criterion here?",
+         "opts": [
+             "The three trainings",
+             "The three terms of the preceding discourses &mdash; gratification, drawback, escape",
+             "The three knowledges",
+             "The three refuges"],
+         "correct": 1,
+         "expl": "The fourth discourse in a row on the same three terms."},
+        {"q": "What does <em>na sammannāmi</em> mean?",
+         "opts": [
+             "&ldquo;I condemn them&rdquo;",
+             "&ldquo;I don&rsquo;t deem them&rdquo; &mdash; declining to apply a title rather than declaring somebody worthless",
+             "&ldquo;I do not know them&rdquo;",
+             "&ldquo;I expel them&rdquo;"],
+         "correct": 1,
+         "expl": "The words are careful."},
+        {"q": "What reason is given?",
+         "opts": [
+             "That they belong to another school",
+             "That they do not realize the goal of life as an ascetic or brahmin, and do not live having realized it with their own insight",
+             "That they are unethical",
+             "That they teach wrongly"],
+         "correct": 1,
+         "expl": "The criterion is whether the person has arrived at what their own role is for."},
+        {"q": "Whose goal is named?",
+         "opts": [
+             "A Buddhist goal imposed from outside",
+             "The goal of life as an ascetic or brahmin &mdash; their goal, on their own terms",
+             "The king&rsquo;s",
+             "The community&rsquo;s"],
+         "correct": 1,
+         "expl": "Whichever tradition they belong to."},
+        {"q": "In what sense is the criterion open?",
+         "opts": [
+             "It names no school, requires no doctrine, and mentions no ordination &mdash; anybody in any tradition who has understood the three counts",
+             "It excuses failure",
+             "It applies only to Buddhists",
+             "It has no content"],
+         "correct": 0,
+         "expl": "And the Buddha says he deems them so."},
+        {"q": "In what sense is it severe?",
+         "opts": [
+             "Because it condemns other schools",
+             "Because AN 3.104 claimed the <em>full extent</em> of each term had to be seen &mdash; a criterion that admits any tradition and excludes anybody short of that survey is not lenient",
+             "Because it requires ordination",
+             "Because it requires meditation"],
+         "correct": 1,
+         "expl": "Both readings are correct and they are the same claim."},
+        {"q": "What pattern does the guide identify in the collection?",
+         "opts": [
+             "A title is opened to everybody and made harder to hold",
+             "Titles are abandoned",
+             "Titles are restricted to monastics",
+             "Titles are decided by seniority"],
+         "correct": 0,
+         "expl": "As in AN 3.57, AN 3.58, and AN 3.59."},
+        {"q": "What does the discourse <em>not</em> say?",
+         "opts": [
+             "That understanding matters",
+             "That other traditions are false, their practices useless, or their members insincere",
+             "That the goal exists",
+             "That the criterion is his"],
+         "correct": 1,
+         "expl": "AN 3.93 described others&rsquo; austerities in detail without calling them wicked."},
+        {"q": "Why does the guide warn about how the criterion is used?",
+         "opts": [
+             "Because it is unclear",
+             "Because whether somebody has understood the three is not visible on inspection, and the discourse is stated in the first person &mdash; nobody else is invited to do the deeming",
+             "Because it is severe",
+             "Because it is old"],
+         "correct": 1,
+         "expl": "Easy to turn into a license for judging other people&rsquo;s teachers."},
+        {"q": "What transferable version does the guide offer?",
+         "opts": [
+             "Whether somebody has a teacher",
+             "Whether they have understood what is genuinely attractive about the thing, what is genuinely wrong with it, and what getting free would consist of &mdash; somebody with only the second is a critic, not a practitioner",
+             "Whether they practice daily",
+             "Whether they can explain the doctrine"],
+         "correct": 1,
+         "expl": "Applicable to any discipline."},
+    ],
+    marginalia=[
+        ("The criterion", [
+            "gratification &middot; drawback &middot; escape",
+            "understood <span class=\"pali\">yathābhūtaṁ</span>",
+            "&mdash; and nothing else",
+        ]),
+        ("The wording", [
+            "<span class=\"pali\">na sammannāmi</span>",
+            "&mdash; I do not deem them",
+            "not: they are worthless",
+        ]),
+        ("Open and severe", [
+            "any tradition admitted",
+            "the full extent required",
+            "&mdash; the same claim",
+        ]),
+        ("Cross-references", [
+            "AN 3.103&ndash;105 &middot; the three terms",
+            "AN 3.58 &middot; a title requalified",
+            "AN 3.93 &middot; others&rsquo; practices, described",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.106/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.103.html">AN 3.103 &middot; Before Awakening</a> &mdash; the first of the set, '
+        "where the three terms are stated and answered.",
+        '<a href="an-3.59.html">AN 3.59 &middot; With Jānussoṇi</a> &mdash; for the same move applied '
+        "to a different title: the criterion opened to anybody and made harder to satisfy.",
+        '<a href="an-3.93.html">AN 3.93 &middot; Seclusion</a> &mdash; where the practices of other '
+        "ascetics are described at length and replaced without being called wicked.",
+    ],
+)
+
+
+page(
+    107, "Ruṇṇa", "Wailing",
+    vagga=VAGGA_11,
+    meta_title="AN 3.107 — Wailing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ruṇṇasutta — singing "
+        "called wailing, dancing called madness, and the smile that is left. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three redescriptions and one instruction"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The restraint on song, dance, and laughter is preserved in the Chinese "
+                              "Āgamas and in the monastic codes of every school; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four lines, and the one most "
+                       "likely to put a modern reader off"),
+    ],
+    why=(
+        "Singing is regarded as wailing in the training of the Noble One. Dancing is regarded as "
+        "madness. Too much laughter, showing the teeth, is childish. So break off singing and "
+        "dancing, and when you are appropriately pleased, it is enough to simply smile. This is the "
+        "discourse in the Threes that a modern class is most likely to dislike, and it should be "
+        "given rather than skipped."),
+    guide=[
+        ("The teaching in one sentence", [
+            "In this training, song and dance are reclassified as grief and derangement, and what is "
+            "left for pleasure is a smile."]),
+        ("Who is being addressed", [
+            "The audience is monastics, and the frame is <em>in the training of the Noble One</em> "
+            "&mdash; <em>ariyassa vinaye</em>. That phrase is doing real work and it should be "
+            "translated for a class before anything else: <em>vinaya</em> is the monastic discipline, "
+            "and the claim is about how these things count inside it.",
+            "The same three items appear as the seventh factor of the eight-factored sabbath at AN "
+            "3.70, where laypeople take them on for a day and a night. So the discourse is not "
+            "issuing a general prohibition on music; it is describing a training that laypeople "
+            "adopt temporarily and monastics keep.",
+            "That does not make the passage comfortable, and it should not be presented as though it "
+            "does. The claim is still that singing is a kind of wailing."]),
+        ("The three redescriptions", [
+            "Each of the three is not a prohibition but a reclassification, which is more "
+            "interesting and harder to argue with.",
+            "<em>Ruṇṇa</em>, wailing, is the sound of mourning. Calling song a form of it is a claim "
+            "about what singing is for: a voice raised in strong feeling, which is what grief also "
+            "produces. The comparison is not that singing is sad but that it belongs to the same "
+            "category of behavior.",
+            "<em>Ummattaka</em>, madness, is said of dancing &mdash; the body moving without ordinary "
+            "restraint, which is also what derangement looks like from outside.",
+            "And <em>too much laughter, showing the teeth</em>, is <em>childish</em>, "
+            "<em>komāraka</em>. Not wicked: childish. The word is developmental rather than moral, "
+            "and it is the mildest of the three.",
+            "Read together the three are an exercise in seeing familiar behavior stripped of its "
+            "social meaning. That is a recognizable ascetic move and it is the same one AN 3.93 makes "
+            "in the other direction, when it strips ascetic hardship of its religious meaning."]),
+        ("Meeting the objection", [
+            "The objection is real: a tradition that classifies music as wailing sounds joyless, and "
+            "a class that has been enjoying the collection&rsquo;s humanity will feel the change of "
+            "temperature. Three things are worth saying.",
+            "First, the instruction ends positively. <em>When you&rsquo;re appropriately pleased, "
+            "it&rsquo;s enough to simply smile.</em> Pleasure is not denied and its expression is not "
+            "forbidden; it is given a form. The last word of the discourse is a smile.",
+            "Second, the scope is the training, not the world. Nothing here says that laypeople "
+            "should not sing or that music is bad. AN 3.79 has the good householder living at home, "
+            "generous and well spoken of; nobody tells them to stop singing.",
+            "Third &mdash; and this is the part that should not be smoothed over &mdash; the Buddhist "
+            "traditions did not keep this consistently. East Asian Buddhism developed 梵唄, liturgical "
+            "chant, into a major art; Tibetan practice uses instruments; Theravāda chanting is "
+            "melodic. Whether that is a relaxation of this instruction, a distinction between "
+            "entertainment and liturgy, or a straightforward departure is a question with real "
+            "positions on both sides, and a teacher should present it as one rather than resolving it "
+            "in either direction."]),
+        ("Using it", [
+            "Give it early to a class that is finding this collection unexpectedly congenial, "
+            "precisely because it is not. A reader who only meets the humane discourses will get a "
+            "false picture of the training, and this one costs four lines.",
+            "The usable observation is the reclassification itself, which works outside the monastic "
+            "context. Stripped of its social framing, what is any familiar behavior actually doing? "
+            "The discourse applies that question to singing, dancing, and laughter; a class can apply "
+            "it to anything, and will not always get an answer they like."]),
+    ],
+    terms=[
+        ("ariyassa vinaye",
+         "&ldquo;in the training of the Noble One&rdquo; &mdash; <em>vinaya</em> is the monastic "
+         "discipline. The claim is about how these things count inside a training."),
+        ("ruṇṇa",
+         "&ldquo;wailing&rdquo; &mdash; the sound of mourning. Singing is placed in the same category "
+         "of behavior: a voice raised in strong feeling."),
+        ("ummattaka",
+         "&ldquo;madness&rdquo; &mdash; said of dancing: the body moving without ordinary restraint, "
+         "which is what derangement looks like from outside."),
+        ("komāraka",
+         "&ldquo;childish&rdquo; &mdash; said of excessive laughter. A developmental word rather than "
+         "a moral one, and the mildest of the three."),
+        ("sita",
+         "&ldquo;a smile&rdquo; &mdash; what is left, and endorsed. The last word of the discourse."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.107:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What is singing regarded as?",
+         "opts": [
+             "A distraction",
+             "Wailing, in the training of the Noble One",
+             "A skill",
+             "An offense"],
+         "correct": 1,
+         "expl": "<em>Ruṇṇa</em> is the sound of mourning."},
+        {"q": "What phrase frames all three claims?",
+         "opts": [
+             "&ldquo;For the whole world&rdquo;",
+             "&ldquo;In the training of the Noble One&rdquo; &mdash; <em>ariyassa vinaye</em>",
+             "&ldquo;For laypeople&rdquo;",
+             "&ldquo;In former times&rdquo;"],
+         "correct": 1,
+         "expl": "<em>Vinaya</em> is the monastic discipline, and the claim is about how these things count inside it."},
+        {"q": "Where else do the same three items appear?",
+         "opts": [
+             "As the seventh factor of the eight-factored sabbath at AN 3.70, which laypeople take for a day and a night",
+             "In the three trainings",
+             "In the five precepts",
+             "Nowhere else"],
+         "correct": 0,
+         "expl": "So the discourse is not a general prohibition on music."},
+        {"q": "Why does the guide call the three &ldquo;reclassifications&rdquo; rather than prohibitions?",
+         "opts": [
+             "Because no punishment is named",
+             "Because each renames a familiar behavior rather than forbidding it &mdash; which is more interesting and harder to argue with",
+             "Because they apply to laypeople",
+             "Because they are optional"],
+         "correct": 1,
+         "expl": "The prohibition comes only in the last line."},
+        {"q": "What is said of dancing?",
+         "opts": [
+             "That it is childish",
+             "That it is madness &mdash; the body moving without ordinary restraint",
+             "That it is wailing",
+             "That it is forbidden to laypeople"],
+         "correct": 1,
+         "expl": "<em>Ummattaka</em>."},
+        {"q": "What is notable about the word used of excessive laughter?",
+         "opts": [
+             "It is the harshest",
+             "<em>Komāraka</em>, childish &mdash; a developmental word rather than a moral one, and the mildest of the three",
+             "It is a legal term",
+             "It refers to noise"],
+         "correct": 1,
+         "expl": "Not wicked: childish."},
+        {"q": "How does the discourse end?",
+         "opts": [
+             "With a prohibition",
+             "With a threat",
+             "Positively &mdash; when appropriately pleased, it is enough to simply smile",
+             "With a verse"],
+         "correct": 2,
+         "expl": "Pleasure is not denied; its expression is given a form."},
+        {"q": "What does the guide say about the scope?",
+         "opts": [
+             "That it covers everybody",
+             "That it is the training, not the world &mdash; nothing here says laypeople should not sing",
+             "That it applies only in India",
+             "That it applies only during the rains"],
+         "correct": 1,
+         "expl": "AN 3.79&rsquo;s good householder is never told to stop singing."},
+        {"q": "What does the guide decline to resolve?",
+         "opts": [
+             "The meaning of <em>ruṇṇa</em>",
+             "Whether the later traditions&rsquo; liturgical music &mdash; 梵唄, Tibetan instruments, melodic chanting &mdash; is a relaxation, a distinction between entertainment and liturgy, or a departure",
+             "Whether the discourse is authentic",
+             "Whether monastics may smile"],
+         "correct": 1,
+         "expl": "A question with real positions on both sides."},
+        {"q": "Why does the guide recommend giving this discourse early?",
+         "opts": [
+             "Because it is short",
+             "Because a reader who only meets the humane discourses will get a false picture of the training, and this one costs four lines",
+             "Because it is famous",
+             "Because it is easy"],
+         "correct": 1,
+         "expl": "Give it to a class that is finding the collection unexpectedly congenial."},
+    ],
+    marginalia=[
+        ("Three redescriptions", [
+            "singing &middot; <span class=\"pali\">ruṇṇa</span>wailing",
+            "dancing &middot; <span class=\"pali\">ummattaka</span>madness",
+            "laughter &middot; <span class=\"pali\">komāraka</span>childish",
+        ]),
+        ("The frame", [
+            "<span class=\"pali\">ariyassa vinaye</span>",
+            "in the training",
+            "&mdash; not: in the world",
+        ]),
+        ("What is left", [
+            "&ldquo;when you&rsquo;re appropriately pleased,",
+            "it&rsquo;s enough to simply smile&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.70 &middot; the same, as a sabbath factor",
+            "AN 3.93 &middot; the same move, reversed",
+            "AN 3.79 &middot; the householder, unrestricted",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.107/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.70.html">AN 3.70 &middot; Sabbath</a> &mdash; where the same restraint appears '
+        "as the seventh of the eight factors a layperson takes on for a day and a night, phrased as "
+        "imitation of the perfected ones.",
+        '<a href="an-3.93.html">AN 3.93 &middot; Seclusion</a> &mdash; for the same kind of '
+        "redescription running the other way: ascetic hardship stripped of its religious meaning.",
+        '<a href="an-3.79.html">AN 3.79 &middot; Fragrances</a> &mdash; for the collection&rsquo;s '
+        "picture of the good lay life, which this instruction does not touch.",
+    ],
+)
+
+
+page(
+    108, "Atitti", "Satisfaction",
+    vagga=VAGGA_11,
+    meta_title="AN 3.108 — Satisfaction | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Atittisutta — three "
+        "indulgences that never satisfy. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A statement and a list of three"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Comparable short lists on what never satisfies are preserved in the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest discourse in the "
+                       "Threes"),
+    ],
+    why=(
+        "Three indulgences never satisfy: sleep, drinking, and sex. Twenty-six words in English, and "
+        "the whole content is in the word <em>never</em>. The discourse does not say these things are "
+        "wicked, harmful, or forbidden. It says something narrower and more testable: that no amount "
+        "of them produces the state of having had enough."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are three things that cannot be finished by doing more of them."]),
+        ("<em>Atitti</em>", [
+            "<em>Titti</em> is satisfaction, satiety, the state of having had enough &mdash; the word "
+            "for what a full meal produces. <em>Atitti</em> is its absence.",
+            "So the claim is precise and it is not a moral claim. Eating produces satiety; these "
+            "three do not. A person who sleeps more does not arrive at a condition of no longer "
+            "needing sleep, and the same is asserted of the other two.",
+            "That is worth separating carefully from the claim it is usually confused with. The "
+            "discourse is not saying these things are bad, or that they should never be done. It says "
+            "they do not terminate. Anything one does for the purpose of arriving at enough will not "
+            "arrive there by this route."]),
+        ("The three, and why these three", [
+            "<em>Sleep</em> is the odd one out and it is the reason the list is interesting. It is "
+            "not an ethical category, it is not restricted by any precept in the ordinary case, and "
+            "everybody has to do it. Its presence signals that the list is not a list of vices.",
+            "<em>Drinking beer and wine</em> is the fifth precept, and <em>sexual intercourse</em> is "
+            "the third for laypeople and the first grave rule for monastics. Both come with rules "
+            "attached elsewhere. Neither is presented here in terms of rules.",
+            "Putting sleep beside them makes the point of the list unmistakable. What the three share "
+            "is a structure &mdash; each provides a temporary relief of a recurring pressure, and the "
+            "pressure returns &mdash; and the discourse is naming the structure rather than "
+            "condemning the items."]),
+        ("What follows, and what does not", [
+            "What follows is a practical observation: a strategy of the form <em>once I have had "
+            "enough of this, I will stop wanting it</em> does not work for these three, and anybody "
+            "who has tried it can confirm that quickly.",
+            "What does not follow is abstinence. The discourse draws no conclusion at all &mdash; "
+            "there is no instruction, no verse, and no consequence named. It is a bare observation, "
+            "and among the Threes that is unusual enough to notice.",
+            "A teacher can be honest that the collection elsewhere <em>does</em> draw conclusions "
+            "about two of the three: intoxicants are a precept and celibacy is a factor of the "
+            "sabbath and of monastic life. But those conclusions are drawn on other grounds and in "
+            "other places. Here nothing is asked for.",
+            "Sleep is again the test. Nobody proposes giving up sleep, and it is on the list. "
+            "Whatever the discourse is recommending, it cannot be the elimination of the three items."]),
+        ("Using it", [
+            "Twenty-six words, and the exercise takes two minutes: ask a class which of the three "
+            "they have tried to satisfy by having more of it, and whether it worked.",
+            "The transferable form is the distinction between a need that can be met and a pressure "
+            "that recurs. Hunger is the first kind and the discourse names three of the second. "
+            "Almost every plan that begins <em>once I have enough of X</em> is a plan that mistakes "
+            "the second kind for the first."]),
+    ],
+    terms=[
+        ("atitti",
+         "&ldquo;never satisfying&rdquo; &mdash; from <em>titti</em>, the satiety a full meal "
+         "produces. The claim is that these three do not produce it."),
+        ("soppa",
+         "&ldquo;sleep&rdquo; &mdash; the item that makes the list a description of a structure "
+         "rather than a list of vices."),
+        ("majjapāna",
+         "&ldquo;drinking beer and wine&rdquo; &mdash; the subject of the fifth precept, but not "
+         "presented here in terms of a rule."),
+        ("methunasamāpatti",
+         "&ldquo;sexual intercourse&rdquo; &mdash; the subject of the third precept for laypeople and "
+         "the first grave rule for monastics, likewise not presented here as a rule."),
+        ("titti",
+         "&ldquo;satiety, having had enough&rdquo; &mdash; the state these three are said not to "
+         "produce, however much of them there is."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.108:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What are the three indulgences that never satisfy?",
+         "opts": [
+             "Wealth, fame, and power",
+             "Sleep, drinking beer and wine, and sexual intercourse",
+             "Food, drink, and rest",
+             "Greed, hate, and delusion"],
+         "correct": 1,
+         "expl": "Twenty-six words in English, and the content is in the word <em>never</em>."},
+        {"q": "What does <em>titti</em> mean?",
+         "opts": [
+             "Pleasure",
+             "Satiety &mdash; the state of having had enough, the word for what a full meal produces",
+             "Craving",
+             "Habit"],
+         "correct": 1,
+         "expl": "<em>Atitti</em> is its absence."},
+        {"q": "Why does the guide say this is not a moral claim?",
+         "opts": [
+             "Because no punishment is named",
+             "Because the claim is that the three do not terminate, not that they are bad or should never be done",
+             "Because it applies to monastics only",
+             "Because sleep is included"],
+         "correct": 1,
+         "expl": "Anything done for the purpose of arriving at enough will not arrive there by this route."},
+        {"q": "Which item makes the list interesting, and why?",
+         "opts": [
+             "Sleep &mdash; it is not an ethical category, is restricted by no precept in the ordinary case, and everybody has to do it",
+             "Drinking, because it is a precept",
+             "Sex, because it is a grave rule",
+             "None; all three are alike"],
+         "correct": 0,
+         "expl": "Its presence signals that the list is not a list of vices."},
+        {"q": "What do the three share?",
+         "opts": [
+             "They are all forbidden",
+             "A structure &mdash; each provides temporary relief of a recurring pressure, and the pressure returns",
+             "They are all pleasant",
+             "They are all bodily"],
+         "correct": 1,
+         "expl": "The discourse names the structure rather than condemning the items."},
+        {"q": "What does the discourse conclude?",
+         "opts": [
+             "That the three should be abandoned",
+             "Nothing &mdash; there is no instruction, no verse, and no consequence named",
+             "That they lead to bad rebirth",
+             "That they are unwholesome"],
+         "correct": 1,
+         "expl": "A bare observation, which among the Threes is unusual enough to notice."},
+        {"q": "What does the collection do elsewhere about two of the three?",
+         "opts": [
+             "Nothing",
+             "Draws conclusions on other grounds &mdash; intoxicants are a precept, and celibacy is a sabbath factor and a monastic requirement",
+             "Permits them",
+             "Recommends them"],
+         "correct": 1,
+         "expl": "But those conclusions are drawn in other places."},
+        {"q": "Why is sleep the test of any reading?",
+         "opts": [
+             "Because it is the first item",
+             "Because nobody proposes giving up sleep, and it is on the list &mdash; so whatever is being recommended, it cannot be the elimination of the three items",
+             "Because it is necessary",
+             "Because it is pleasant"],
+         "correct": 1,
+         "expl": "The item that keeps the discourse honest."},
+        {"q": "What practical observation follows?",
+         "opts": [
+             "That the three should be rationed",
+             "That a strategy of the form &ldquo;once I have had enough of this, I will stop wanting it&rdquo; does not work for these three",
+             "That the three are harmful",
+             "That moderation is required"],
+         "correct": 1,
+         "expl": "Anybody who has tried it can confirm that quickly."},
+        {"q": "What distinction does the guide draw out as transferable?",
+         "opts": [
+             "Between wholesome and unwholesome",
+             "Between a need that can be met and a pressure that recurs &mdash; hunger is the first kind, and the discourse names three of the second",
+             "Between lay and monastic",
+             "Between body and mind"],
+         "correct": 1,
+         "expl": "Almost every plan beginning &ldquo;once I have enough of X&rdquo; mistakes the second kind for the first."},
+    ],
+    marginalia=[
+        ("Three", [
+            "sleep",
+            "drinking",
+            "sexual intercourse",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">titti</span>having had enough",
+            "<span class=\"pali\">atitti</span>never arriving there",
+        ]),
+        ("What is absent", [
+            "no instruction",
+            "no verse",
+            "no consequence named",
+        ]),
+        ("Cross-references", [
+            "AN 3.70 &middot; where two become factors",
+            "AN 3.103 &middot; gratification, real and limited",
+            "AN 3.68 &middot; what feeds greed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.108/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.103.html">AN 3.103 &middot; Before Awakening</a> &mdash; for the '
+        "collection&rsquo;s fuller treatment of the same territory: the pleasure is real, the drawback "
+        "is that it does not hold, and the escape is a change in the person.",
+        '<a href="an-3.70.html">AN 3.70 &middot; Sabbath</a> &mdash; where two of these three become '
+        "factors of a day&rsquo;s observance, phrased as imitation rather than as prohibition.",
+        '<a href="an-3.68.html">AN 3.68 &middot; Followers of Other Religions</a> &mdash; for why '
+        "greed is described as slow to fade, which is the same observation this discourse makes about "
+        "three particular objects.",
+    ],
+)
+
+
+page(
+    109, "Arakkhita", "Unprotected",
+    vagga=VAGGA_11,
+    meta_title="AN 3.109 — Unprotected | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Arakkhitasutta — a badly "
+        "roofed house, deeds that fester, and what Anāthapiṇḍika is told about dying. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; the householder Anāthapiṇḍika comes and is spoken to first"),
+        ("Speakers", "The Buddha, addressing Anāthapiṇḍika"),
+        ("Form", "A chain of four consequences, a simile, and the same again in the positive"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The badly-roofed-house simile is preserved in the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clean chain with an unpleasant "
+                       "middle"),
+    ],
+    why=(
+        "When the mind is unprotected, deeds are unprotected; when deeds are unprotected, they "
+        "fester; when they fester, they become rotten; and a person whose deeds are rotten will not "
+        "have a good death. Four steps, and then a house with a bad roof. The discourse is addressed "
+        "to the greatest lay donor of the canon, and what it is finally about is dying."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An unguarded mind lets everything downstream of it spoil, and the spoiling shows at the "
+            "end."]),
+        ("The chain", [
+            "Four links, each following from the last: mind unprotected &rarr; deeds of body, "
+            "speech, and mind unprotected &rarr; deeds fester &rarr; deeds become rotten &rarr; no "
+            "good death.",
+            "The vocabulary is deliberately physical. <em>Avassuta</em>, festering, is literally "
+            "soaked or oozing &mdash; the word for a wound that has not closed and for a roof that "
+            "lets water in. <em>Pūti</em>, rotten, is what soaked wood becomes.",
+            "So the chain is not moral deterioration in the abstract; it is described as a material "
+            "process, and the simile is chosen to make that exact. The mind is not compared to a "
+            "person who makes bad decisions but to a roof that lets water through.",
+            "The first link is the one worth pressing. <em>Protected</em>, <em>rakkhita</em>, is a "
+            "guarding word &mdash; the same root as the guarding of the sense doors. What is being "
+            "asked for is not good intentions but attention maintained, and everything else in the "
+            "chain follows automatically from its presence or absence."]),
+        ("The house", [
+            "&ldquo;It&rsquo;s like a bungalow with a bad roof. The roof peak, rafters, and walls are "
+            "unprotected. They fester, and become rotten.&rdquo;",
+            "The image is the same bungalow the Threes have used twice already &mdash; at AN 3.1, "
+            "where it burns down because of a fire next door, and at AN 3.35 and AN 3.63, where its "
+            "furnishings stand for everything money can buy. Here it is the structure rather than the "
+            "contents.",
+            "The order of the parts matters: <em>roof peak, rafters, and walls</em>, from the top "
+            "down. Water enters at the highest point and the damage runs downward through the "
+            "structure, which is exactly the shape of the chain. The mind is the roof peak.",
+            "It is worth telling a class that this is a serious practical image for its audience. A "
+            "householder in that climate knew what a monsoon does to an unmaintained roof, and knew "
+            "that the failure is invisible for a long time and then structural."]),
+        ("&ldquo;Will not have a good death&rdquo;", [
+            "<em>Anaddhāgataṁ maraṇaṁ</em> &mdash; the phrase Sujato renders as not having a good "
+            "death, and it is the end point of both halves of the discourse.",
+            "This is being said to Anāthapiṇḍika, the wealthiest lay disciple in the canon and the "
+            "donor of the monastery most of these discourses are set in. He is not being warned about "
+            "poverty, reputation, or business. The subject is how his dying will go.",
+            "The canon has more to say to him about this elsewhere, and the collection is generally "
+            "willing to talk to laypeople about death without softening. What this discourse adds is "
+            "a mechanism: the quality of a death is treated as downstream of a chain that begins with "
+            "whether attention was maintained, which makes it something worked on now rather than "
+            "faced later.",
+            "The positive half is the same chain negated and it arrives at the same place: deeds not "
+            "rotten, and a good death. Nothing in either half is about belief, ritual, or "
+            "preparation. It is about the roof."]),
+        ("Using it", [
+            "For anybody working with the old or the dying, this and AN 3.51&ndash;52 are the "
+            "collection&rsquo;s three short texts on the subject, and this is the one that says what "
+            "makes the difference and when the work has to be done.",
+            "The chain also transfers cleanly to institutions and to relationships, where the same "
+            "shape holds: something at the top is not attended to, the failure is invisible for a "
+            "long time, and by the time it is visible the structure has gone soft. The discourse "
+            "supplies the vocabulary for saying that before it happens."]),
+    ],
+    terms=[
+        ("arakkhita",
+         "&ldquo;unprotected&rdquo; &mdash; from the root for guarding, the same one used of guarding "
+         "the sense doors. What is asked for is attention maintained."),
+        ("avassuta",
+         "&ldquo;festering&rdquo; &mdash; literally soaked or oozing: the word for a wound that has "
+         "not closed and for a roof that lets water through."),
+        ("pūti",
+         "&ldquo;rotten&rdquo; &mdash; what soaked wood becomes. The chain is described as a material "
+         "process rather than as moral deterioration."),
+        ("kūṭa gopānasī bhitti",
+         "&ldquo;roof peak, rafters, and walls&rdquo; &mdash; named from the top down, which is the "
+         "shape of the chain."),
+        ("anaddhāgataṁ maraṇaṁ",
+         "&ldquo;will not have a good death&rdquo; &mdash; the end point of both halves, and what the "
+         "discourse is finally about."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unprotected"),
+        ("p", "&sect;1", "an3.109:1.1-1.5"),
+        ("p", "&sect;2", "an3.109:2.1-2.3"),
+        ("p", "&sect;3", "an3.109:3.1-3.4"),
+        ("h3", "Protected"),
+        ("p", "&sect;4", "an3.109:4.1-4.4"),
+        ("p", "&sect;5", "an3.109:5.1-5.3"),
+        ("p", "&sect;6", "an3.109:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What are the four links of the chain?",
+         "opts": [
+             "Mind unprotected, deeds unprotected, deeds fester, deeds become rotten &mdash; and no good death",
+             "Greed, hate, delusion, and rebirth",
+             "Ignorance, craving, grasping, and becoming",
+             "Body, speech, mind, and result"],
+         "correct": 0,
+         "expl": "Each following from the last."},
+        {"q": "What does <em>avassuta</em> literally mean?",
+         "opts": [
+             "&ldquo;Broken&rdquo;",
+             "&ldquo;Soaked, oozing&rdquo; &mdash; the word for a wound that has not closed and for a roof that lets water in",
+             "&ldquo;Empty&rdquo;",
+             "&ldquo;Dark&rdquo;"],
+         "correct": 1,
+         "expl": "The vocabulary is deliberately physical."},
+        {"q": "What is the mind compared to?",
+         "opts": [
+             "A person making bad decisions",
+             "A roof that lets water through",
+             "A fire",
+             "A gate"],
+         "correct": 1,
+         "expl": "The chain is described as a material process rather than as moral deterioration."},
+        {"q": "What does <em>rakkhita</em>, protected, ask for?",
+         "opts": [
+             "Good intentions",
+             "Attention maintained &mdash; the same guarding word used of the sense doors",
+             "Ritual purity",
+             "Isolation"],
+         "correct": 1,
+         "expl": "Everything else in the chain follows from its presence or absence."},
+        {"q": "In what order are the parts of the house named?",
+         "opts": [
+             "Walls, rafters, roof peak",
+             "Roof peak, rafters, and walls &mdash; from the top down, which is the shape of the chain",
+             "Foundation upward",
+             "At random"],
+         "correct": 1,
+         "expl": "Water enters at the highest point and the damage runs downward."},
+        {"q": "Where else has this bungalow appeared in the Threes?",
+         "opts": [
+             "At AN 3.1, burning; and at AN 3.35 and AN 3.63, for its furnishings",
+             "Only here",
+             "In AN 3.70",
+             "In AN 3.101"],
+         "correct": 0,
+         "expl": "Here it is the structure rather than the contents."},
+        {"q": "Who is being addressed?",
+         "opts": [
+             "A group of monastics",
+             "Anāthapiṇḍika &mdash; the wealthiest lay disciple in the canon and the donor of the monastery most of these discourses are set in",
+             "A brahmin",
+             "A king"],
+         "correct": 1,
+         "expl": "He is not being warned about poverty, reputation, or business."},
+        {"q": "What is the subject of both halves?",
+         "opts": [
+             "Business conduct",
+             "How his dying will go",
+             "Rebirth in heaven",
+             "Almsgiving"],
+         "correct": 1,
+         "expl": "The collection is generally willing to talk to laypeople about death without softening."},
+        {"q": "What does the discourse add to that subject?",
+         "opts": [
+             "A ritual",
+             "A mechanism &mdash; the quality of a death treated as downstream of a chain beginning with whether attention was maintained, which makes it something worked on now",
+             "A prayer",
+             "A prediction"],
+         "correct": 1,
+         "expl": "Nothing in either half is about belief, ritual, or preparation."},
+        {"q": "How does the guide say the chain transfers?",
+         "opts": [
+             "It does not",
+             "To institutions and relationships &mdash; something at the top is not attended to, the failure is invisible for a long time, and by the time it shows the structure has gone soft",
+             "Only to householders",
+             "Only to monastics"],
+         "correct": 1,
+         "expl": "The discourse supplies the vocabulary for saying that before it happens."},
+    ],
+    marginalia=[
+        ("The chain", [
+            "mind unprotected",
+            "deeds unprotected",
+            "deeds fester &rarr; rotten",
+            "&mdash; no good death",
+        ]),
+        ("The house", [
+            "roof peak",
+            "rafters",
+            "walls",
+            "&mdash; top down",
+        ]),
+        ("Who is told", [
+            "Anāthapiṇḍika",
+            "the greatest lay donor",
+            "&mdash; about dying",
+        ]),
+        ("Cross-references", [
+            "AN 3.110 &middot; the same, one word changed",
+            "AN 3.1 &middot; the same bungalow, burning",
+            "AN 3.51 &middot; two old men, and shelter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.109/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.110.html">AN 3.110 &middot; Fallen</a> &mdash; the same discourse to the same '
+        "man with one word changed, where the roof does not leak but collapses.",
+        '<a href="an-3.51.html">AN 3.51 &middot; Two Brahmins (1st)</a> &mdash; the '
+        "collection&rsquo;s other short text on dying, where two men at the end of long lives are "
+        "told what shelter consists of.",
+        '<a href="an-3.1.html">AN 3.1 &middot; Perils</a> &mdash; for the same bungalow, sealed and '
+        "shuttered against everything except a fire that started next door.",
+    ],
+)
+
+
+page(
+    110, "Byāpanna", "Fallen",
+    vagga=VAGGA_11,
+    meta_title="AN 3.110 — Fallen | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Byāpannasutta — the same "
+        "house, with the roof fallen in instead of leaking. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; the Buddha speaks to Anāthapiṇḍika, seated to one side"),
+        ("Speakers", "The Buddha, addressing Anāthapiṇḍika"),
+        ("Form", "AN 3.109 with the chain shortened and the simile changed"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the shortest possible variation "
+                       "on the discourse before it"),
+    ],
+    why=(
+        "The same householder, the same house, and the same conclusion &mdash; with the middle of the "
+        "chain removed. Where AN 3.109 had the mind unprotected, the deeds festering, and the deeds "
+        "rotting, this one says simply: when the mind has fallen, deeds have fallen. And the roof "
+        "does not leak. It falls in."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Some failures do not seep; they collapse."]),
+        ("What has been removed", [
+            "AN 3.109 had four links and this has two: <em>when the mind is fallen, bodily, verbal, "
+            "and mental deeds are fallen</em>, and such a person will not have a good death.",
+            "The festering and the rotting are gone, and with them the temporal element. Soaking and "
+            "rotting take time and the damage is invisible while it happens; falling in does not and "
+            "is not.",
+            "So the pair describes two different failure modes, and the collection gives both without "
+            "ranking them. One is gradual and hidden; the other is sudden and obvious. Anybody who "
+            "has watched a person or an institution fail has seen both."]),
+        ("The word", [
+            "<em>Byāpanna</em> is the participle Sujato renders as <em>fallen</em>. The root sense is "
+            "of something gone wrong, spoiled, or afflicted &mdash; it is the same word behind "
+            "<em>byāpāda</em>, ill will, which appears throughout the collection as one of the five "
+            "hindrances and the fourth fetter.",
+            "That connection is worth making because it slightly changes what the discourse is "
+            "describing. A <em>byāpanna</em> mind is not merely a lax one; the word family is about a "
+            "mind turned against something.",
+            "The English <em>fallen</em> follows the simile rather than the etymology, which is a "
+            "reasonable choice: the house image needs a word that works for both a mind and a roof. "
+            "But a reader should know that the Pāli is closer to spoiled than to slack."]),
+        ("The house, second time", [
+            "&ldquo;It&rsquo;s like a bungalow with a bad roof. The roof peak, rafters, and walls "
+            "fall in.&rdquo;",
+            "The same three parts in the same order, and the same top-down direction. What has "
+            "changed is the verb.",
+            "The economy of the pair is worth pointing out to a class as an example of how this "
+            "collection works. Two discourses, the same audience, the same image, the same "
+            "conclusion, and one word different in the middle &mdash; and the two together say "
+            "something neither says alone, which is that the conclusion holds for both kinds of "
+            "failure.",
+            "It is the same pattern as AN 3.37 and AN 3.38, AN 3.76 and AN 3.77, AN 3.89 and AN 3.90, "
+            "and AN 3.103 and AN 3.104. By this point in the collection a reader should recognize it "
+            "on sight."]),
+        ("Using it", [
+            "Teach the pair, not this one alone. Ninety seconds gets both, and the lesson is the "
+            "difference between the two verbs.",
+            "The distinction is useful outside the discourse. Asked why something failed, most people "
+            "reach for one of the two accounts &mdash; it rotted quietly, or it collapsed &mdash; and "
+            "the collection says both are real and both end in the same place. What it does not offer "
+            "is a third account in which nothing was wrong with the roof."]),
+    ],
+    terms=[
+        ("byāpanna",
+         "&ldquo;fallen, spoiled&rdquo; &mdash; the same word family as <em>byāpāda</em>, ill will. "
+         "The Pāli is closer to spoiled than to slack."),
+        ("byāpāda",
+         "&ldquo;ill will&rdquo; &mdash; one of the five hindrances and the fourth fetter, from the "
+         "same root as this discourse&rsquo;s title word."),
+        ("kūṭa gopānasī bhitti",
+         "&ldquo;roof peak, rafters, and walls&rdquo; &mdash; the same three parts as AN 3.109, in "
+         "the same top-down order."),
+        ("avassuta pūti",
+         "&ldquo;festering, rotten&rdquo; &mdash; the two links AN 3.109 has and this discourse "
+         "removes, taking the temporal element with them."),
+        ("anaddhāgataṁ maraṇaṁ",
+         "&ldquo;will not have a good death&rdquo; &mdash; the conclusion, unchanged between the two "
+         "discourses."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Fallen"),
+        ("p", "&sect;1", "an3.110:1.1-1.6"),
+        ("h3", "Not fallen"),
+        ("p", "&sect;2", "an3.110:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "How many links does this chain have, against AN 3.109&rsquo;s four?",
+         "opts": [
+             "Two &mdash; mind fallen, deeds fallen",
+             "Three",
+             "Four, the same",
+             "One"],
+         "correct": 0,
+         "expl": "The festering and the rotting are gone."},
+        {"q": "What goes with them?",
+         "opts": [
+             "The audience",
+             "The temporal element &mdash; soaking and rotting take time and are invisible while they happen; falling in does not and is not",
+             "The house",
+             "The conclusion"],
+         "correct": 1,
+         "expl": "Two different failure modes."},
+        {"q": "How does the collection rank the two failure modes?",
+         "opts": [
+             "Gradual is worse",
+             "Sudden is worse",
+             "It does not rank them &mdash; both are given and both end in the same place",
+             "It rejects one"],
+         "correct": 2,
+         "expl": "Anybody who has watched a person or an institution fail has seen both."},
+        {"q": "What word family does <em>byāpanna</em> belong to?",
+         "opts": [
+             "The same as <em>byāpāda</em>, ill will &mdash; one of the five hindrances and the fourth fetter",
+             "The same as <em>bhava</em>, existence",
+             "The same as <em>bhāvanā</em>, development",
+             "It is unrelated to any other term"],
+         "correct": 0,
+         "expl": "So a <em>byāpanna</em> mind is not merely a lax one."},
+        {"q": "Why does the guide say the English &ldquo;fallen&rdquo; is a reasonable choice anyway?",
+         "opts": [
+             "Because it is literal",
+             "Because the house image needs a word that works for both a mind and a roof",
+             "Because the Pāli is ambiguous",
+             "Because the term is rare"],
+         "correct": 1,
+         "expl": "But a reader should know the Pāli is closer to spoiled than to slack."},
+        {"q": "What changes in the simile?",
+         "opts": [
+             "The parts of the house",
+             "Their order",
+             "Only the verb &mdash; the same three parts, top down, now falling in rather than soaking",
+             "The kind of building"],
+         "correct": 2,
+         "expl": "The economy of the pair is the point."},
+        {"q": "What do the two discourses say together that neither says alone?",
+         "opts": [
+             "That the conclusion holds for both kinds of failure",
+             "That houses need maintenance",
+             "That Anāthapiṇḍika was worried",
+             "That minds are like roofs"],
+         "correct": 0,
+         "expl": "Two discourses, one word different in the middle."},
+        {"q": "Which earlier pairs follow the same pattern?",
+         "opts": [
+             "AN 3.37 and 3.38; AN 3.76 and 3.77; AN 3.89 and 3.90; AN 3.103 and 3.104",
+             "AN 3.1 and 3.2",
+             "AN 3.30 and 3.31",
+             "There are no others"],
+         "correct": 0,
+         "expl": "By this point a reader should recognize it on sight."},
+        {"q": "How long does the guide say teaching the pair takes?",
+         "opts": [
+             "An hour",
+             "Ninety seconds for both, with the lesson being the difference between the two verbs",
+             "A full session",
+             "Two sessions"],
+         "correct": 1,
+         "expl": "Teach the pair, not this one alone."},
+        {"q": "What third account does the collection <em>not</em> offer?",
+         "opts": [
+             "One in which the failure was sudden",
+             "One in which the failure was gradual",
+             "One in which nothing was wrong with the roof",
+             "One in which the house was rebuilt"],
+         "correct": 2,
+         "expl": "Both accounts of failure are real and both end in the same place."},
+    ],
+    marginalia=[
+        ("Two links", [
+            "mind fallen",
+            "deeds fallen",
+            "&mdash; and nothing in between",
+        ]),
+        ("Two failures", [
+            "AN 3.109 &middot; soaks, rots, hidden",
+            "AN 3.110 &middot; falls in, sudden",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">byāpanna</span>spoiled",
+            "cf. <span class=\"pali\">byāpāda</span>ill will",
+        ]),
+        ("Cross-references", [
+            "AN 3.109 &middot; the leaking roof",
+            "AN 3.37&ndash;38 &middot; the same pairing habit",
+            "AN 3.1 &middot; the same bungalow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.110/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.109.html">AN 3.109 &middot; Unprotected</a> &mdash; the discourse this one '
+        "varies, with the full four-link chain and the vocabulary explained.",
+        '<a href="an-3.37.html">AN 3.37 &middot; The Four Great Kings (1st)</a> &mdash; for the '
+        "collection&rsquo;s habit of pairing discourses that differ by a single element, with the "
+        "difference carrying the lesson.",
+        '<a href="an-3.94.html">AN 3.94 &middot; Autumn</a> &mdash; for another discourse in this '
+        "chapter that compresses a great deal into a single image, and a useful contrast in mood.",
+    ],
+)
+
+
+page(
+    111, "Paṭhamanidāna", "Sources (1st)",
+    vagga=VAGGA_11,
+    meta_title="AN 3.111 — Sources (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Nidānasutta of this "
+        "chapter — deeds that lead to more deeds, and deeds that lead to their cessation. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Two triads, each with a four-part verdict on what its deeds do"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The three roots are preserved throughout the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and the last clause is the "
+                       "reason to read it"),
+    ],
+    why=(
+        "The three roots again, with a verdict attached to each set of deeds. Deeds from greed, hate, "
+        "or delusion are unskillful, blameworthy, result in suffering, and <em>lead to the creation "
+        "of more deeds, not their cessation</em>. Deeds from their opposites are skillful, blameless, "
+        "result in happiness, and lead to the cessation of deeds. That last clause is what the "
+        "discourse is for."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Deeds rooted in the three poisons make more deeds; deeds rooted in their opposites bring "
+            "deeds to an end."]),
+        ("Four verdicts, not three", [
+            "Each set gets four judgments in a row, and they are of different kinds.",
+            "<em>Unskillful</em> is a judgment about competence &mdash; <em>akusala</em>, the word AN "
+            "3.54 pointed out is closer to incompetent than to evil. <em>Blameworthy</em> is social. "
+            "<em>Results in suffering</em> is about consequences. And the fourth is structural: what "
+            "the deed does to the production of further deeds.",
+            "Stacking the four is doing something. A reader who rejects one of the judgments still "
+            "has three, and they are not derived from each other; an act can be criticized on any of "
+            "these grounds independently."]),
+        ("The fourth clause", [
+            "<em>Kammasamudayāya saṁvattati, no kammanirodhāya</em> &mdash; it leads to the arising "
+            "of deeds, not their cessation.",
+            "This is a different order of claim from the other three and it is the one the discourse "
+            "exists for. Deeds are being treated not only as things with results but as things that "
+            "produce more of themselves, and the question asked of any deed is whether it feeds that "
+            "production or stops it.",
+            "That reframes the good half considerably. Deeds from contentment, love, and understanding "
+            "are not described as building up a better store; they are described as leading to "
+            "<em>kammanirodha</em>, the cessation of deeds. The goal is not a larger positive balance "
+            "but an end to the accounting.",
+            "This is the same asymmetry AN 3.34 built its two similes around, where good seed in a "
+            "field was matched not against bad seed but against seed burned to ash. This discourse "
+            "states it in one clause instead."]),
+        ("Read against AN 3.34", [
+            "AN 3.34 shares this discourse&rsquo;s title and its subject, and the two should be read "
+            "together. There the mechanism was given &mdash; deeds ripen where the doer is reborn, at "
+            "one of three times &mdash; along with the puzzling sentence about wholesome-rooted deeds "
+            "being abandoned when greed is done away with.",
+            "This discourse says the same thing without the puzzle. Deeds from the good roots lead to "
+            "the cessation of deeds, which is what AN 3.34&rsquo;s difficult passage appears to be "
+            "reaching for.",
+            "A reader who found AN 3.34 hard should be sent here, and a reader who found this one "
+            "obvious should be sent there. Together they make the collection&rsquo;s position clear: "
+            "the point of good conduct is not accumulation."]),
+        ("Using it", [
+            "The fourth clause is the whole teaching and it can be given to a class as a question "
+            "about any action: does this make more of itself?",
+            "That question is unusually portable. A habit, an argument, a purchase, and a favor can "
+            "all be asked it, and the answer is often more informative than asking whether the act "
+            "was good. The discourse&rsquo;s claim is that the three roots reliably produce actions "
+            "that require more actions, and their opposites reliably do not."]),
+    ],
+    terms=[
+        ("nidāna",
+         "&ldquo;source&rdquo; &mdash; the same title as AN 3.34, and the same question: what deeds "
+         "come out of."),
+        ("akusala",
+         "&ldquo;unskillful&rdquo; &mdash; the first of four verdicts, and a judgment about competence "
+         "rather than about wickedness."),
+        ("sāvajja",
+         "&ldquo;blameworthy&rdquo; &mdash; the second, and a social judgment."),
+        ("kammasamudaya",
+         "&ldquo;the arising of deeds&rdquo; &mdash; what deeds from the three roots lead to. Deeds "
+         "are treated as things that produce more of themselves."),
+        ("kammanirodha",
+         "&ldquo;the cessation of deeds&rdquo; &mdash; what deeds from the good roots lead to. Not a "
+         "larger positive balance but an end to the accounting."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Greed, hate, delusion"),
+        ("p", "&sect;1", "an3.111:1.1-1.7"),
+        ("h3", "Contentment, love, understanding"),
+        ("p", "&sect;2", "an3.111:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How many verdicts are attached to each set of deeds?",
+         "opts": [
+             "Two",
+             "Three",
+             "Four &mdash; and they are of different kinds",
+             "One"],
+         "correct": 2,
+         "expl": "A reader who rejects one still has three, and they are not derived from each other."},
+        {"q": "What kind of judgment is <em>akusala</em>?",
+         "opts": [
+             "About competence &mdash; closer to incompetent than to evil, as AN 3.54 pointed out",
+             "About legality",
+             "About intention",
+             "About results"],
+         "correct": 0,
+         "expl": "The first of the four."},
+        {"q": "What is the fourth verdict on deeds from the three roots?",
+         "opts": [
+             "That they are blameworthy",
+             "That they lead to the creation of more deeds, not their cessation",
+             "That they result in suffering",
+             "That they are unskillful"],
+         "correct": 1,
+         "expl": "A different order of claim from the other three."},
+        {"q": "How does that reframe the good half?",
+         "opts": [
+             "It does not",
+             "Deeds from the good roots are not described as building a better store but as leading to the cessation of deeds &mdash; an end to the accounting",
+             "It makes them optional",
+             "It makes them harder"],
+         "correct": 1,
+         "expl": "The goal is not a larger positive balance."},
+        {"q": "Which earlier discourse built two similes around the same asymmetry?",
+         "opts": [
+             "AN 3.34, where good seed is matched not against bad seed but against seed burned to ash",
+             "AN 3.1",
+             "AN 3.70",
+             "AN 3.95"],
+         "correct": 0,
+         "expl": "This discourse states it in one clause instead."},
+        {"q": "What does AN 3.34 have that this discourse does not?",
+         "opts": [
+             "The three roots",
+             "The mechanism &mdash; where and when deeds ripen &mdash; and the puzzling sentence about wholesome-rooted deeds being abandoned",
+             "A verdict",
+             "A title"],
+         "correct": 1,
+         "expl": "This discourse says the same thing without the puzzle."},
+        {"q": "How does the guide suggest pairing the two?",
+         "opts": [
+             "Send a reader who found AN 3.34 hard here, and one who found this obvious there",
+             "Teach only one",
+             "Teach them in reverse order",
+             "Keep them apart"],
+         "correct": 0,
+         "expl": "Together they make the position clear."},
+        {"q": "What is that position?",
+         "opts": [
+             "That merit should be maximized",
+             "That the point of good conduct is not accumulation",
+             "That deeds are unreal",
+             "That results are unpredictable"],
+         "correct": 1,
+         "expl": "The goal is the cessation of deeds."},
+        {"q": "What question does the guide draw from the fourth clause?",
+         "opts": [
+             "Was this act good?",
+             "Does this make more of itself?",
+             "Who benefits?",
+             "What will it cost?"],
+         "correct": 1,
+         "expl": "Often more informative than asking whether the act was good."},
+        {"q": "What claim does that question rest on?",
+         "opts": [
+             "That all acts are equal",
+             "That the three roots reliably produce actions requiring more actions, and their opposites reliably do not",
+             "That actions can be counted",
+             "That intentions matter most"],
+         "correct": 1,
+         "expl": "Unusually portable: a habit, an argument, a purchase, a favor."},
+    ],
+    marginalia=[
+        ("Four verdicts", [
+            "unskillful &middot; competence",
+            "blameworthy &middot; social",
+            "results in suffering &middot; consequence",
+            "makes more deeds &middot; structural",
+        ]),
+        ("The fourth", [
+            "<span class=\"pali\">kammasamudaya</span>more deeds",
+            "<span class=\"pali\">kammanirodha</span>deeds ceasing",
+        ]),
+        ("Not accumulation", [
+            "not a better balance",
+            "but an end to the accounting",
+        ]),
+        ("Cross-references", [
+            "AN 3.34 &middot; the same title, with mechanism",
+            "AN 3.54 &middot; <span class=\"pali\">akusala</span>, glossed",
+            "AN 3.112 &middot; the same title again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.111/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.34.html">AN 3.34 &middot; Sources</a> &mdash; the earlier discourse of the '
+        "same name, with the seed similes, the three timings, and the sentence about wholesome-rooted "
+        "deeds that this one states plainly.",
+        '<a href="an-3.112.html">AN 3.112 &middot; Sources (2nd)</a> &mdash; the third discourse of '
+        "this title, which locates the source differently again.",
+        '<a href="an-3.54.html">AN 3.54 &middot; A Wanderer</a> &mdash; for why <em>akusala</em> is '
+        "closer to incompetent than to evil, which is the first of this discourse&rsquo;s four "
+        "verdicts.",
+    ],
+)
+
+
+page(
+    112, "Dutiyanidāna", "Sources (2nd)",
+    vagga=VAGGA_11,
+    meta_title="AN 3.112 — Sources (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Nidānasutta of "
+        "this chapter — desire coming up for things past, future, and present, and what stops it. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A source stated in terms of three times, expounded, and then negated"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material on desire arising toward the three times is "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the &ldquo;three&rdquo; of the "
+                       "title is not three items but three tenses"),
+    ],
+    why=(
+        "A third discourse called <em>Sources</em>, and this one locates the source somewhere else "
+        "again: not in the roots and not in deeds, but in what happens when the mind goes over things "
+        "that stimulate desire &mdash; past, future, or present. The mechanism is given in one "
+        "sentence, and so is the way out."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Desire is produced by dwelling on desirable things in any of the three times, and it "
+            "stops when you look at where they lead instead."]),
+        ("Where the three is", [
+            "A reader looking for three items will not find them. The three here is the three times: "
+            "<em>things that stimulate desire and greed in the past, future, or present</em>.",
+            "That is worth flagging because the Threes are usually a list of three things and this "
+            "one is not. The triad is temporal, and it covers the whole field of what a mind can "
+            "dwell on: what happened, what might happen, and what is going on.",
+            "The inclusion of past and future is the substance. Present desirable things are in front "
+            "of you and their effect needs no explanation. The discourse says the mind produces "
+            "desire just as effectively from something over and done with and from something that has "
+            "not happened."]),
+        ("The mechanism", [
+            "&ldquo;In your heart you think about and consider things that stimulate desire and greed "
+            "in the past, future, or present. When you do this, desire comes up, and you get attached "
+            "to those things. This lust in the heart is what I call a fetter.&rdquo;",
+            "Three steps. Thinking about and considering &mdash; <em>anuvitakketi anuvicāreti</em>, "
+            "the same two verbs used for the mental movement in the first absorption, here running on "
+            "the wrong material. Then desire arises. Then attachment.",
+            "And then the identification, which is the sharp part: <em>this lust in the heart is what "
+            "I call a fetter.</em> Not the object, and not the pleasure. The canon is consistent about "
+            "this and the collection has said it before &mdash; AN 3.68 located the cause of greed in "
+            "irrational attention to a feature rather than in the feature itself.",
+            "It is worth pointing out that the mechanism is completely ordinary. Nobody is being "
+            "described as doing anything unusual; going over an attractive thing in one&rsquo;s mind "
+            "is what minds do in idle moments, and the discourse says that is where the source is."]),
+        ("What stops it", [
+            "The negative half is not the absence of thinking but a different object of attention: "
+            "<em>you understand the future result of things that stimulate desire and greed.</em>",
+            "<em>Āyatiṁ vipākaṁ</em> &mdash; the result to come. So the instruction is not to stop "
+            "considering the desirable thing but to consider it further, past the point where the "
+            "attraction lives, to what it produces.",
+            "Then three consequences: <em>you grow disillusioned, your heart becomes dispassionate, "
+            "and you see it with penetrating wisdom.</em> The first is <em>nibbidā</em>, the "
+            "turning-away, and the sequence disillusionment &rarr; dispassion &rarr; seeing is the "
+            "canon&rsquo;s standard one.",
+            "The structure is worth naming for a class because it is the practical version of the "
+            "three-term analysis of AN 3.103. Dwelling on the gratification produces desire; seeing "
+            "the result &mdash; which is the drawback &mdash; produces the turning-away. This "
+            "discourse is that analysis reduced to what a person actually does with their attention "
+            "on a given afternoon."]),
+        ("Using it", [
+            "This is the most immediately applicable discourse of the three called <em>Sources</em> "
+            "and the instruction is a single move: when you catch yourself going over something "
+            "attractive, do not stop &mdash; keep going, to what it leads to.",
+            "The reason that works, and the reason it is better advice than suppression, is in the "
+            "verbs. The mind is already thinking about and considering; the instruction redirects an "
+            "activity that is happening rather than trying to halt it. AN 3.101&rsquo;s warning about "
+            "a concentration held in place by force is the same point from the other end."]),
+    ],
+    terms=[
+        ("anuvitakketi anuvicāreti",
+         "&ldquo;think about and consider&rdquo; &mdash; the same two verbs used of the mental "
+         "movement in the first absorption, here running on the wrong material."),
+        ("chandarāgaṭṭhāniya",
+         "&ldquo;things that stimulate desire and greed&rdquo; &mdash; the objects the mind dwells "
+         "on, in any of the three times."),
+        ("chandarāgo",
+         "&ldquo;lust in the heart&rdquo; &mdash; what the discourse identifies as the fetter. Not "
+         "the object, and not the pleasure."),
+        ("āyatiṁ vipākaṁ",
+         "&ldquo;the future result&rdquo; &mdash; what is attended to instead. The instruction is to "
+         "consider the thing further rather than to stop considering it."),
+        ("nibbidā virāga",
+         "&ldquo;disillusionment, dispassion&rdquo; &mdash; the first two of the three consequences, "
+         "in the canon&rsquo;s standard sequence."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "How desire comes up"),
+        ("p", "&sect;1", "an3.112:1.1-1.11"),
+        ("p", "&sect;3", "an3.112:3.7"),
+        ("h3", "And how it does not"),
+        ("p", "&sect;4", "an3.112:4.1-4.3"),
+        ("p", "&sect;5&ndash;7", "an3.112:5.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What is the &ldquo;three&rdquo; in this discourse?",
+         "opts": [
+             "Three roots",
+             "Three times &mdash; past, future, and present",
+             "Three kinds of deed",
+             "Three objects"],
+         "correct": 1,
+         "expl": "Worth flagging, because the Threes are usually a list of three things."},
+        {"q": "Why does the guide call the inclusion of past and future the substance?",
+         "opts": [
+             "Because they are harder to remember",
+             "Because present desirable things are in front of you and need no explanation &mdash; the claim is that the mind produces desire just as effectively from what is over and from what has not happened",
+             "Because they are less real",
+             "Because they are rarer"],
+         "correct": 1,
+         "expl": "The triad covers the whole field of what a mind can dwell on."},
+        {"q": "What two verbs describe the mechanism?",
+         "opts": [
+             "Seeing and hearing",
+             "Thinking about and considering &mdash; the same pair used of the mental movement in the first absorption",
+             "Wanting and grasping",
+             "Remembering and planning"],
+         "correct": 1,
+         "expl": "Here running on the wrong material."},
+        {"q": "What does the discourse identify as the fetter?",
+         "opts": [
+             "The desirable object",
+             "The pleasure",
+             "The lust in the heart",
+             "The memory"],
+         "correct": 2,
+         "expl": "Consistent with AN 3.68, which located the cause of greed in attention rather than in the feature."},
+        {"q": "How ordinary is the mechanism?",
+         "opts": [
+             "It requires unusual conditions",
+             "Completely ordinary &mdash; going over an attractive thing in one&rsquo;s mind is what minds do in idle moments",
+             "It applies only to monastics",
+             "It requires meditation"],
+         "correct": 1,
+         "expl": "And the discourse says that is where the source is."},
+        {"q": "What is the instruction in the negative half?",
+         "opts": [
+             "Stop thinking about the thing",
+             "Understand the future result of it &mdash; consider it further, past the point where the attraction lives",
+             "Replace it with another object",
+             "Confess it"],
+         "correct": 1,
+         "expl": "<em>Āyatiṁ vipākaṁ</em>, the result to come."},
+        {"q": "What three consequences follow?",
+         "opts": [
+             "Disillusionment, dispassion, and seeing with penetrating wisdom",
+             "Calm, joy, and rapture",
+             "Faith, energy, and mindfulness",
+             "Restraint, seclusion, and equanimity"],
+         "correct": 0,
+         "expl": "The canon&rsquo;s standard sequence."},
+        {"q": "How does this relate to AN 3.103?",
+         "opts": [
+             "It contradicts it",
+             "It is the practical version &mdash; dwelling on the gratification produces desire; seeing the result, which is the drawback, produces the turning-away",
+             "It replaces it",
+             "It is unrelated"],
+         "correct": 1,
+         "expl": "That analysis reduced to what a person does with their attention on a given afternoon."},
+        {"q": "Why does the guide say this is better advice than suppression?",
+         "opts": [
+             "Because it is easier",
+             "Because the mind is already thinking and considering, and the instruction redirects an activity that is happening rather than trying to halt it",
+             "Because suppression is forbidden",
+             "Because it is faster"],
+         "correct": 1,
+         "expl": "AN 3.101&rsquo;s warning about a concentration held in place by force is the same point from the other end."},
+        {"q": "What is the single move the guide extracts?",
+         "opts": [
+             "Stop when you catch yourself",
+             "When you catch yourself going over something attractive, do not stop &mdash; keep going, to what it leads to",
+             "Change the subject",
+             "Recite a formula"],
+         "correct": 1,
+         "expl": "The most immediately applicable of the three discourses called <em>Sources</em>."},
+    ],
+    marginalia=[
+        ("The three", [
+            "past",
+            "future",
+            "present",
+            "&mdash; not three items but three times",
+        ]),
+        ("The mechanism", [
+            "think about and consider",
+            "desire comes up",
+            "attachment",
+            "&mdash; &ldquo;this lust is the fetter&rdquo;",
+        ]),
+        ("The move", [
+            "not: stop considering",
+            "but: consider further",
+            "&mdash; to the future result",
+        ]),
+        ("Cross-references", [
+            "AN 3.111 &middot; the same title",
+            "AN 3.68 &middot; attention, not the object",
+            "AN 3.103 &middot; the analysis this applies",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.112/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.68.html">AN 3.68 &middot; Followers of Other Religions</a> &mdash; for the '
+        "same claim in its analytic form: what feeds greed is irrational attention to a feature, not "
+        "the feature itself.",
+        '<a href="an-3.103.html">AN 3.103 &middot; Before Awakening</a> &mdash; the analysis this '
+        "discourse turns into a single practical move.",
+        '<a href="an-3.101.html">AN 3.101 &middot; A Panner</a> &mdash; for why redirecting an '
+        "activity works better than holding one down, which is the same point approached from "
+        "meditation.",
+    ],
+)
