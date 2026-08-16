@@ -8,7 +8,7 @@ INDEX_HEADING = "Tika Nipāta — The Threes"
 # before this series began working in order; they are listed in the index by
 # INDEX_EXTRA and are not generated here.
 HEAD = ("an-2.310-479.html", "AN 2.310&ndash;479 &middot; Greed, Abbreviated")
-TAIL = ("an-3.61.html", "AN 3.61 &middot; Sectarian Tenets")
+TAIL = ("an-3.65.html", "AN 3.65 &middot; With the Kālāmas of Kesamutta")
 INDEX_EXTRA = [
     ("an-3.61", "Titthāyatana", "Sectarian Tenets"),
     ("an-3.65", "Kesamutti (Kālāma)", "With the Kālāmas of Kesamutta"),
@@ -14171,5 +14171,798 @@ page(
         '<a href="an-3.59.html">AN 3.59 &middot; With Jānussoṇi</a> &mdash; the previous discourse, '
         "and the other place in this chapter where a brahmin&rsquo;s own criterion is handed back to "
         "him redefined.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.62–3.70 — Mahāvagga
+#
+# AN 3.61 and AN 3.65 were published before this series began working in order.
+# The chain is routed through them by hand: AN 3.60 hands off to 3.61, 3.62
+# picks up from it, and TAIL carries the last generated page into 3.65.
+# --------------------------------------------------------------------------- #
+VAGGA_7 = "<em>Mahāvagga</em> &mdash; the seventh chapter of the Threes"
+
+PAGES[-1]["next"] = ("an-3.61.html", "AN 3.61 &middot; Sectarian Tenets")
+
+page(
+    62, "Bhaya", "Perils",
+    vagga=VAGGA_7,
+    prev=("an-3.61.html", "AN 3.61 &middot; Sectarian Tenets"),
+    meta_title="AN 3.62 — Perils | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhayasutta of the Great "
+        "Chapter — the perils an ordinary person names, the three that really do separate a mother "
+        "from her child, and the wish that is never granted. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A popular list given twice, once affirmed and once denied, then replaced by a "
+                 "second list, closing with the eightfold path"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Comparable material on the perils that cannot be shared is preserved "
+                              "in the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; repetitive by design, and the "
+                       "third section is the reason to read it"),
+    ],
+    why=(
+        "Ordinary people name three disasters that tear mothers and children apart: fire, flood, and "
+        "the panic of a countryside in turmoil. The discourse grants the list and then takes it back "
+        "&mdash; in each of those, sometimes a mother does find her child. Then it names three that "
+        "never fail: old age, sickness, and death. The proof is not an argument but a sentence anyone "
+        "who has sat with a sick child already knows: <em>let me be sick, may my child not be "
+        "sick</em> &mdash; and it is not granted."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The disasters people fear can sometimes be survived together; the three nobody names "
+            "cannot be shared at all."]),
+        ("The same list, twice", [
+            "The structure is unusual and worth explaining before a class gets impatient with the "
+            "repetition. First: an unlearned ordinary person speaks of three perils that <em>do</em> "
+            "tear mothers and children apart &mdash; a great fire burning villages and towns, a great "
+            "storm bringing a flood that sweeps them away, and turmoil in the wilds that sends the "
+            "countryfolk fleeing in every direction.",
+            "Then the identical three are given again as perils that <em>do not</em> tear them apart, "
+            "with one word changed: <em>sometimes a mother can find her child, and a child can find "
+            "their mother.</em>",
+            "The point of saying it twice is that both are true, and that is exactly what disqualifies "
+            "the list. A peril that separates people sometimes is not a peril of separation; it is a "
+            "disaster with a survival rate. Fires are terrible and some families walk out of them "
+            "together.",
+            "Notice also who is credited with the list: the <em>assutavā puthujjana</em>, the "
+            "unlearned ordinary person. Not a fool and not an opponent &mdash; just somebody who has "
+            "not been trained to look further, and whose list of catastrophes is made of the things "
+            "that arrive with smoke and noise."]),
+        ("The three that never fail", [
+            "Old age, sickness, and death. And the demonstration is not an argument. It is a wish, "
+            "stated six times with the parties reversed:",
+            "<em>When a child is growing old, a mother doesn&rsquo;t get her wish: &lsquo;let me grow "
+            "old, may my child not grow old!&rsquo; When a mother is growing old, a child "
+            "doesn&rsquo;t get their wish: &lsquo;let me grow old, may my mother not grow old!&rsquo;</em> "
+            "The same for sickness. The same for death.",
+            "It is one of the few passages in the canon that works by putting a sentence in the "
+            "reader&rsquo;s mouth rather than by making a claim. The wish is not presented as foolish "
+            "or as attachment to be given up. It is presented as universal, natural, and never "
+            "granted.",
+            "And the reason it names a <em>separation</em> is precise. In a fire, two people can be "
+            "in the same disaster; in illness, they cannot. One is sick and the other is not, and no "
+            "amount of love transfers a single symptom. That is what makes aging, sickness, and death "
+            "perils that separate: not that they kill, but that they cannot be shared."]),
+        ("What the discourse does not say", [
+            "It does not say that a mother should not make that wish, or that making it is a defect. "
+            "It does not say the love is the problem. Given how often Buddhism is presented as "
+            "recommending detachment from family, this passage is worth reading carefully, because "
+            "the wish it describes is exactly what a parent feels and the discourse treats it with no "
+            "criticism at all.",
+            "What it says is that the wish is not granted. That is a factual claim about the world, "
+            "not an instruction about how to feel, and a teacher should resist the temptation to turn "
+            "it into one.",
+            "It also does not recommend distance as a solution. The remedy at the end is not less "
+            "attachment to the child; it is the eightfold path, which is a different kind of answer "
+            "and a longer one."]),
+        ("The ending, which is easy to skip", [
+            "&ldquo;There is a path and a practice that leads to giving up and going beyond the three "
+            "perils that don&rsquo;t tear mothers and children apart, and the three perils that do. "
+            "&hellip; It is simply this noble eightfold path.&rdquo;",
+            "Two things are notable. First, the path is offered against <em>both</em> lists &mdash; "
+            "the fires and floods as well as the aging and dying. The discourse does not simply "
+            "dismiss the ordinary person&rsquo;s catastrophes as beneath consideration; it says the "
+            "same practice goes beyond those too.",
+            "Second, the phrasing is <em>giving up and going beyond</em>, <em>pahānāya "
+            "samatikkamāya</em>. Not preventing, and not enduring. Nothing here promises that a "
+            "practitioner will not grow old or that their mother will not die.",
+            "The whole of the Threes offers this kind of ending rarely, and when it does the eightfold "
+            "path is usually what is named. It is worth telling a class that the collection&rsquo;s "
+            "characteristic move is to analyze a situation in threes and then hand the reader a "
+            "practice that has eight parts and belongs to a different scheme entirely."]),
+        ("Using it", [
+            "This discourse works on any audience with a family, and it needs almost no framing. Read "
+            "the first two sections quickly &mdash; the repetition is the argument and it makes its "
+            "own case &mdash; and read the wish slowly.",
+            "It also pairs with AN 3.1, which opens the collection under the same title. There, all "
+            "perils in the world come from the foolish; here, three perils come from nowhere and "
+            "nobody is at fault. The Threes use the word <em>bhaya</em> for both, and the difference "
+            "between the two discourses is a good short lesson in reading a term by its context "
+            "rather than by a glossary."]),
+    ],
+    terms=[
+        ("bhaya",
+         "&ldquo;peril, danger, fear&rdquo; &mdash; the same title as AN 3.1, which opens the "
+         "collection, though the two discourses use the word for very different things."),
+        ("mātāputika",
+         "&ldquo;of mother and child&rdquo; &mdash; the perils are classed by whether they part these "
+         "two, which makes separation rather than death the measure."),
+        ("assutavā puthujjana",
+         "&ldquo;unlearned ordinary person&rdquo; &mdash; credited with the popular list. Not a fool "
+         "and not an opponent, just somebody who has not been trained to look further."),
+        ("pahānāya samatikkamāya",
+         "&ldquo;for giving up and going beyond&rdquo; &mdash; what the eightfold path is offered "
+         "for. Not preventing, and not enduring."),
+        ("ariyo aṭṭhaṅgiko maggo",
+         "&ldquo;the noble eightfold path&rdquo; &mdash; named in full at the end, against both lists "
+         "of perils rather than only the second."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three perils that separate"),
+        ("p", "&sect;1", "an3.62:1.1-1.6"),
+        ("p", "&sect;2", "an3.62:2.1-2.5"),
+        ("p", "&sect;3", "an3.62:3.1-3.4"),
+        ("h3", "The same three, that do not"),
+        ("p", "&sect;4", "an3.62:4.1-4.6"),
+        ("p", "&sect;5", "an3.62:5.1-5.5"),
+        ("p", "&sect;6", "an3.62:6.1-6.4"),
+        ("h3", "Three that always do"),
+        ("p", "&sect;7", "an3.62:7.1-7.7"),
+        ("p", "&sect;8", "an3.62:8.1-8.4"),
+        ("p", "&sect;9", "an3.62:9.1-9.5"),
+        ("h3", "The path beyond both"),
+        ("p", "&sect;10", "an3.62:10.1-10.5"),
+    ],
+    quiz=[
+        {"q": "What three perils does the ordinary person name?",
+         "opts": [
+             "War, famine, and plague",
+             "A great fire, a great flood, and turmoil in the wilds that sends countryfolk fleeing",
+             "Old age, sickness, and death",
+             "Poverty, exile, and disgrace"],
+         "correct": 1,
+         "expl": "The catastrophes that arrive with smoke and noise."},
+        {"q": "Why is the same list given twice?",
+         "opts": [
+             "Scribal error",
+             "Because both are true &mdash; sometimes a mother does find her child &mdash; and that is exactly what disqualifies the list",
+             "For emphasis only",
+             "Because two speakers give it"],
+         "correct": 1,
+         "expl": "A peril that separates people sometimes is a disaster with a survival rate."},
+        {"q": "What are the three that always separate?",
+         "opts": [
+             "Fire, flood, and war",
+             "Greed, hate, and delusion",
+             "Old age, sickness, and death",
+             "Birth, aging, and grief"],
+         "correct": 2,
+         "expl": "Not that they kill, but that they cannot be shared."},
+        {"q": "How is that demonstrated?",
+         "opts": [
+             "By an argument from impermanence",
+             "By a wish stated six times with the parties reversed &mdash; &ldquo;let me be sick, may my child not be sick&rdquo; &mdash; and never granted",
+             "By a simile",
+             "By an appeal to the gods"],
+         "correct": 1,
+         "expl": "One of the few passages that works by putting a sentence in the reader&rsquo;s mouth."},
+        {"q": "How is the wish treated?",
+         "opts": [
+             "As foolish",
+             "As attachment to be given up",
+             "As universal, natural, and never granted &mdash; with no criticism at all",
+             "As a sign of ignorance"],
+         "correct": 2,
+         "expl": "Worth reading carefully, given how often Buddhism is presented as recommending detachment from family."},
+        {"q": "Why do aging, sickness, and death count as perils of <em>separation</em>?",
+         "opts": [
+             "Because they end a relationship",
+             "Because in a fire two people can be in the same disaster, and in illness they cannot &mdash; no amount of love transfers a single symptom",
+             "Because they cause grief",
+             "Because they are inevitable"],
+         "correct": 1,
+         "expl": "The measure is whether the peril can be shared."},
+        {"q": "What does the discourse <em>not</em> recommend?",
+         "opts": [
+             "The eightfold path",
+             "Less attachment to the child, or distance as a solution",
+             "Reflection on death",
+             "Care for one&rsquo;s mother"],
+         "correct": 1,
+         "expl": "The claim is factual, and a teacher should resist turning it into an instruction about how to feel."},
+        {"q": "Which list is the eightfold path offered against?",
+         "opts": [
+             "Only the second",
+             "Only the first",
+             "Both &mdash; the fires and floods as well as the aging and dying",
+             "Neither; it is a separate teaching"],
+         "correct": 2,
+         "expl": "The ordinary person&rsquo;s catastrophes are not dismissed as beneath consideration."},
+        {"q": "What do the words <em>pahānāya samatikkamāya</em> promise?",
+         "opts": [
+             "Prevention of aging and death",
+             "Endurance of them",
+             "Giving up and going beyond &mdash; neither preventing nor enduring",
+             "A better rebirth"],
+         "correct": 2,
+         "expl": "Nothing here promises that a practitioner will not grow old."},
+        {"q": "How does this discourse compare with AN 3.1, which shares its title?",
+         "opts": [
+             "They are the same discourse",
+             "There all perils in the world come from the foolish; here three perils come from nowhere and nobody is at fault",
+             "AN 3.1 is longer",
+             "AN 3.1 denies that perils exist"],
+         "correct": 1,
+         "expl": "A short lesson in reading a term by its context rather than by a glossary."},
+    ],
+    marginalia=[
+        ("What people name", [
+            "a great fire",
+            "a great flood",
+            "turmoil in the wilds",
+            "&mdash; sometimes survived together",
+        ]),
+        ("What always parts them", [
+            "old age",
+            "sickness",
+            "death",
+        ]),
+        ("The wish", [
+            "&ldquo;let me grow old,",
+            "may my child not grow old&rdquo;",
+            "&mdash; not granted, either way round",
+        ]),
+        ("Cross-references", [
+            "AN 3.1 &middot; the same title, another sense",
+            "AN 3.36 &middot; the same three, as messengers",
+            "AN 3.39 &middot; the same three, in oneself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.62/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.1.html">AN 3.1 &middot; Perils</a> &mdash; the discourse that opens the '
+        "collection under the same Pāli title, where every peril in the world is traced to "
+        "foolishness. Read together, the two show how far the word <em>bhaya</em> stretches.",
+        '<a href="an-3.36.html">AN 3.36 &middot; Messengers of the Gods</a> &mdash; the same three '
+        "facts presented as warnings already delivered, rather than as the perils nobody counts.",
+        '<a href="an-3.39.html">AN 3.39 &middot; A Delicate Lifestyle</a> &mdash; the same three '
+        "again, this time as the three intoxications a young man gave up by noticing that he was not "
+        "exempt.",
+    ],
+)
+
+
+page(
+    63, "Venāgapura", "At Venāgapura",
+    vagga=VAGGA_7,
+    meta_title="AN 3.63 — At Venāgapura | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Venāgapurasutta — a "
+        "brahmin assumes the Buddha sleeps on luxurious bedding, and is told about three beds he "
+        "does have. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Venāgapura, a Kosalan brahmin village, during a wandering tour"),
+        ("Speakers", "The brahmin Vacchagotta of Venāgapura and the Buddha"),
+        ("Form", "An arrival, a compliment resting on an assumption, a correction, and three parallel "
+                 "answers with the same frame"),
+        ("Length", "~9 minutes to read"),
+        ("Northern parallel", "The three &ldquo;high and luxurious beds&rdquo; and the four "
+                              "immeasurables are preserved in the Chinese Āgamas, the latter entering "
+                              "East Asian practice as 慈悲喜捨; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; long, and almost all of the "
+                       "length is three standard formulas set in an unusually charming frame"),
+    ],
+    why=(
+        "A brahmin looks at the Buddha, admires his clear faculties and bright complexion, compares "
+        "him to a jujube in autumn and a pendant of gold on a cream rug, and draws the obvious "
+        "conclusion: <em>surely you get luxurious bedding whenever you want it.</em> He then lists "
+        "the bedding, at length and with evident expertise. The reply is that renunciates are not "
+        "allowed such things &mdash; and that there are three high and luxurious beds the Buddha does "
+        "get, whenever he wants, without trouble or difficulty."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The three things that actually produce the condition a rich man reads as luxury are "
+            "absorption, the immeasurable heart, and knowing the roots are gone."]),
+        ("The compliment, and the assumption inside it", [
+            "The brahmin&rsquo;s praise is worth reading in full because it is genuinely lovely and "
+            "genuinely wrong. The Buddha&rsquo;s faculties are clear and his complexion pure and "
+            "bright, like a golden brown jujube in autumn, a ripe palmyra fruit freshly plucked, a "
+            "pendant of Black Plum River gold laid on a cream rug where it <em>shines and glows and "
+            "radiates.</em>",
+            "Then the inference: <em>surely the worthy Gotama gets when he wants, without trouble or "
+            "difficulty, various kinds of high and luxurious bedding.</em> And the list runs to a "
+            "dozen items &mdash; sofas, couches, shag-piled woolen covers, silk studded with gems, "
+            "rugs for elephants and horses and chariots, antelope hide, deer hide, a canopy above and "
+            "red cushions at both ends.",
+            "This is the inventory of AN 3.35, where the Buddha described exactly this bedroom to "
+            "Hatthaka. The Threes clearly had a stock description of what wealth looked like, and it "
+            "is used twice in this collection to make opposite halves of one point: there, that it "
+            "does not prevent the fever; here, that it is not the reason the man in front of you "
+            "looks well.",
+            "The brahmin&rsquo;s reasoning is not stupid. Good condition follows from good living; "
+            "this man is in visibly good condition; therefore he lives well. Every step is "
+            "respectable, and the discourse answers by disputing the middle term rather than the "
+            "logic."]),
+        ("Not allowed", [
+            "&ldquo;Brahmin, these various kinds of high and luxurious bedding are hard for "
+            "renunciates to find. And even if they do get them, they&rsquo;re not allowed.&rdquo;",
+            "Two separate facts, and the second is the interesting one. It is not merely that "
+            "monastics cannot afford such things; it is that the training forbids them. High and "
+            "large beds are the seventh of the eight sabbath factors and a standing monastic rule, "
+            "which AN 3.37 has just been through.",
+            "So the answer is not a boast about austerity. It is a flat statement of the rule, "
+            "delivered to someone who did not know it, and it clears the ground for the joke that "
+            "follows."]),
+        ("Three high and luxurious beds", [
+            "&ldquo;There are, brahmin, these three high and luxurious beds that I get these days "
+            "when I want, without trouble or difficulty.&rdquo; The phrasing deliberately borrows the "
+            "brahmin&rsquo;s own &mdash; <em>when I want, without trouble or difficulty</em> &mdash; "
+            "and the word for bedding is kept.",
+            "All three answers share a frame that is repeated word for word, and the frame is half "
+            "the content: robing up in the morning, entering the village for alms, returning after "
+            "the meal, entering a forest, <em>gathering up some grass or leaves into a pile</em>, and "
+            "sitting cross-legged with the body straight and mindfulness present.",
+            "A pile of grass. The bedding question is answered three times over from a heap of leaves "
+            "in a wood, and the brahmin&rsquo;s list of silks is never mentioned again."]),
+        ("What the three actually are", [
+            "The <em>heavenly</em> bed is the four absorptions, given in the standard formula: the "
+            "first with rapture and bliss born of seclusion, the second with the mind at one, the "
+            "third equanimous and mindful, the fourth with pure equanimity and mindfulness.",
+            "The <em>divine</em> bed is the four immeasurables &mdash; love, compassion, rejoicing, "
+            "equanimity &mdash; each spread to one direction and then to all, <em>abundant, "
+            "expansive, limitless, free of enmity and ill will</em>. These are the "
+            "<em>brahmavihāra</em>, the divine abidings, which is why this one is called divine, and "
+            "they are the 慈悲喜捨 of East Asian practice.",
+            "The <em>noble</em> bed is the shortest and needs no attainment described at all: "
+            "<em>I&rsquo;ve given up greed, hate, and delusion, cut them off at the root, made them "
+            "like a palm stump, obliterated them, so they&rsquo;re unable to arise in the future.</em> "
+            "One sentence, and it is knowledge rather than a state.",
+            "The order is worth noticing: a training available to a practitioner, a heart available "
+            "to anyone, and a fact available only to somebody finished. And each ends with the same "
+            "four lines &mdash; when practicing like this, my walking is heavenly, my standing, my "
+            "sitting, my lying down. The bed turns out not to be a piece of furniture but a way of "
+            "occupying all four postures."]),
+        ("Using it", [
+            "This is a discourse to teach for its structure rather than its content, since all three "
+            "of its formulas are given more fully elsewhere. What it does that no other discourse "
+            "does is put them in a frame that a lay audience recognizes immediately: somebody looks "
+            "well, and the question is what he has been sleeping on.",
+            "The brahmin&rsquo;s misreading is also worth dwelling on, because it is the standard "
+            "modern misreading too. The visible signs of a good life are being read as evidence of "
+            "comfortable circumstances, and the discourse&rsquo;s answer is that the same signs are "
+            "produced by three things none of which cost anything and one of which cannot be bought "
+            "at all.",
+            "For a class, the exercise is the frame: read the identical eight lines three times and "
+            "notice that the only variable is what happens after the leaves are piled up."]),
+    ],
+    terms=[
+        ("uccāsayanamahāsayana",
+         "&ldquo;high and luxurious bedding&rdquo; &mdash; forbidden to renunciates and the seventh "
+         "of the eight sabbath factors. The phrase is kept and reused for the three beds that are "
+         "allowed."),
+        ("dibba",
+         "&ldquo;heavenly&rdquo; &mdash; the first of the three beds, being the four absorptions."),
+        ("brahma",
+         "&ldquo;divine&rdquo; &mdash; the second, being the four <em>brahmavihāra</em>: love, "
+         "compassion, rejoicing, and equanimity, the 慈悲喜捨 of East Asian practice."),
+        ("ariya",
+         "&ldquo;noble&rdquo; &mdash; the third, and the only one stated as a piece of knowledge "
+         "rather than an attainment."),
+        ("appamāṇa",
+         "&ldquo;limitless, immeasurable&rdquo; &mdash; said of the heart spread in all directions, "
+         "and the reason the four are called the immeasurables."),
+    ],
+    text_intro=(
+        "The discourse in full, with all three answers and their shared frame. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Arrival at Venāgapura"),
+        ("p", "&sect;1", "an3.63:1.1-1.8"),
+        ("p", "&sect;2", "an3.63:2.1"),
+        ("h3", "A compliment, and its assumption"),
+        ("p", "&sect;3", "an3.63:3.1-3.10"),
+        ("p", "&sect;4&ndash;5", "an3.63:4.1-5.4"),
+        ("h3", "The heavenly bed"),
+        ("p", "&sect;6", "an3.63:6.1-6.13"),
+        ("h3", "The divine bed"),
+        ("p", "&sect;7&ndash;8", "an3.63:7.1-8.13"),
+        ("h3", "The noble bed"),
+        ("p", "&sect;9&ndash;10", "an3.63:9.1-10.13"),
+        ("h3", "Going for refuge"),
+        ("p", "&sect;11&ndash;12", "an3.63:11.1-12.4"),
+    ],
+    quiz=[
+        {"q": "What does the brahmin infer from the Buddha&rsquo;s appearance?",
+         "opts": [
+             "That he must be of noble birth",
+             "That he must get luxurious bedding whenever he wants it, without trouble or difficulty",
+             "That he must be young",
+             "That he must be a god"],
+         "correct": 1,
+         "expl": "Good condition follows from good living; this man is in good condition; therefore he lives well."},
+        {"q": "Where else in this collection does the bedding inventory appear?",
+         "opts": [
+             "AN 3.35, where the same bedroom is described to Hatthaka",
+             "AN 3.1",
+             "AN 3.30",
+             "It appears only here"],
+         "correct": 0,
+         "expl": "Used twice for opposite halves of one point: there it does not prevent the fever, here it is not the cause of the good condition."},
+        {"q": "What are the two facts in the Buddha&rsquo;s first reply?",
+         "opts": [
+             "That such bedding is expensive and uncomfortable",
+             "That it is hard for renunciates to find, and that even if they get it, it is not allowed",
+             "That it is unnecessary and unhealthy",
+             "That it belongs to kings"],
+         "correct": 1,
+         "expl": "High and large beds are a standing monastic rule and the seventh of the eight sabbath factors."},
+        {"q": "What frame do all three answers share?",
+         "opts": [
+             "A visit to a monastery",
+             "Almsround, then a forest, then gathering grass or leaves into a pile and sitting cross-legged with mindfulness present",
+             "A discourse to the mendicants",
+             "A night in a village"],
+         "correct": 1,
+         "expl": "The bedding question is answered three times over from a heap of leaves in a wood."},
+        {"q": "What is the heavenly bed?",
+         "opts": [
+             "Rebirth in heaven",
+             "The four absorptions",
+             "The four immeasurables",
+             "Sleep without dreams"],
+         "correct": 1,
+         "expl": "Given in the standard formula, first through fourth."},
+        {"q": "What is the divine bed?",
+         "opts": [
+             "The four immeasurables &mdash; love, compassion, rejoicing, equanimity &mdash; spread in all directions",
+             "The recollection of the Buddha",
+             "The three knowledges",
+             "The eightfold path"],
+         "correct": 0,
+         "expl": "The <em>brahmavihāra</em>, which is why this bed is called divine; the 慈悲喜捨 of East Asian practice."},
+        {"q": "What is the noble bed?",
+         "opts": [
+             "The fourth absorption",
+             "Knowing that greed, hate, and delusion are given up, cut off at the root, unable to arise in the future",
+             "Rebirth among the noble ones",
+             "The company of the Saṅgha"],
+         "correct": 1,
+         "expl": "One sentence, and it is knowledge rather than a state."},
+        {"q": "What order do the three follow?",
+         "opts": [
+             "Easiest to hardest to perform",
+             "A training available to a practitioner, a heart available to anyone, and a fact available only to somebody finished",
+             "Oldest to newest",
+             "Lay, monastic, and awakened"],
+         "correct": 1,
+         "expl": "And each closes with the same four postures."},
+        {"q": "How does each answer end?",
+         "opts": [
+             "With a verse",
+             "With a refuge formula",
+             "With the four postures &mdash; when practicing like this, my walking, standing, sitting, and lying down are heavenly, divine, or noble",
+             "With a question"],
+         "correct": 2,
+         "expl": "The bed turns out not to be furniture but a way of occupying all four postures."},
+        {"q": "What modern misreading does the guide say the brahmin&rsquo;s mistake resembles?",
+         "opts": [
+             "Reading the visible signs of a good life as evidence of comfortable circumstances",
+             "Assuming renunciates are unhealthy",
+             "Assuming monastics are wealthy",
+             "Confusing meditation with sleep"],
+         "correct": 0,
+         "expl": "The same signs are produced by three things that cost nothing, and one of which cannot be bought at all."},
+    ],
+    marginalia=[
+        ("The compliment", [
+            "a jujube in autumn",
+            "a ripe palmyra fruit",
+            "gold on a cream rug",
+        ]),
+        ("Three beds", [
+            "<span class=\"pali\">dibba</span>heavenly &middot; the absorptions",
+            "<span class=\"pali\">brahma</span>divine &middot; 慈悲喜捨",
+            "<span class=\"pali\">ariya</span>noble &middot; the roots gone",
+        ]),
+        ("The frame, three times", [
+            "almsround, then a forest",
+            "grass or leaves in a pile",
+            "&mdash; the only variable is what follows",
+        ]),
+        ("Cross-references", [
+            "AN 3.35 &middot; the same inventory",
+            "AN 3.37 &middot; the sabbath factor",
+            "AN 3.58 &middot; the same absorptions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.63/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.35.html">AN 3.35 &middot; With Hatthaka</a> &mdash; where the identical list '
+        "of luxurious bedding is described by the Buddha himself, to make the opposite half of the "
+        "point: that none of it reaches the fever.",
+        '<a href="/sutras/shi-chan-boluomi/fascicle-002/">Shi Chan Boluomi &middot; Fascicle 2</a> '
+        "&mdash; Zhiyi on the preliminaries to absorption, for a Chinese working manual of what the "
+        "first of these three beds requires in practice.",
+        '<a href="an-3.37.html">AN 3.37 &middot; The Four Great Kings (1st)</a> &mdash; for the '
+        "sabbath factor about high and luxurious beds, which is the rule the Buddha is citing when he "
+        "says such things are not allowed.",
+    ],
+)
+
+
+page(
+    64, "Sarabha", "With Sarabha",
+    vagga=VAGGA_7,
+    meta_title="AN 3.64 — With Sarabha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sarabhasutta — a former "
+        "disciple boasting in Rājagaha, three questions he will not answer, and the jackal who "
+        "tried to roar. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, on the Vulture&rsquo;s Peak, and then the wanderers&rsquo; monastery "
+                    "on the banks of the Sappinī river"),
+        ("Speakers", "The wanderer Sarabha, several mendicants, the Buddha, and the other wanderers"),
+        ("Form", "A report, a visit, a question put three times and met with silence, a threefold "
+                 "challenge, a departure, and a scene of mockery"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "Comparable material on challenges to the Buddha&rsquo;s claims is "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; easy to follow and "
+                       "uncomfortable to finish"),
+    ],
+    why=(
+        "Sarabha has left the training and is telling a crowd in Rājagaha that he learned the "
+        "teaching of the Sakyan ascetics and then left it. Some monks hear him and ask the Buddha to "
+        "go and see him. The Buddha goes, sits down, and asks him three times what exactly he "
+        "learned, offering both to fill in what is missing and to agree if it is complete. Sarabha "
+        "says nothing. What happens after that is one of the least comfortable scenes in the "
+        "collection, and it is worth reading with the discomfort intact."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A claim to have seen through something has to be able to say what it saw."]),
+        ("What Sarabha said, and what the monks asked for", [
+            "The boast is small and precise: <em>I learned the teaching of the ascetics who follow "
+            "the Sakyan, then I left their teaching and training.</em> It is not an accusation. It "
+            "implies one &mdash; that he found the teaching wanting once he understood it &mdash; "
+            "without stating anything that could be examined.",
+            "The monks who hear it on almsround do not answer him. They report it and make a request, "
+            "and the wording of the request is worth noticing: go and see Sarabha <em>out of "
+            "sympathy</em>, <em>anukampaṁ upādāya</em>. That is the canon&rsquo;s standard phrase for "
+            "why a teacher visits anyone, and it is used here of a visit to someone who has just "
+            "insulted them.",
+            "It is fair to ask whether that framing is generous or self-serving, and a class will "
+            "want to. The best evidence is what the Buddha actually offers when he arrives, which is "
+            "correction in either direction: <em>if you&rsquo;ve not learned it fully, I&rsquo;ll "
+            "fill you in. But if you have learned it fully, I&rsquo;ll agree.</em>",
+            "That second clause is doing real work. It is an offer to concede, in public, in front of "
+            "a crowd of rival wanderers, if the answer is good enough."]),
+        ("Three silences", [
+            "The offer is made three times. Sarabha says nothing all three times.",
+            "Then his own colleagues intervene: <em>the ascetic Gotama has offered to tell you "
+            "anything you ask for. Speak, reverend Sarabha.</em> And the description of him after that "
+            "is one of the canon&rsquo;s stock formulas for total defeat &mdash; <em>silent, "
+            "dismayed, shoulders drooping, downcast, depressed, with nothing to say.</em>",
+            "It is worth being honest about what the silence means and what it does not. It does not "
+            "mean Sarabha had no criticism; a person can have real objections and be unable to state "
+            "them in front of the person concerned, and anyone who has been in a meeting knows it. "
+            "What the discourse records is that he could not produce one on demand, in public, having "
+            "advertised that he had.",
+            "The narrower point stands regardless. He had been claiming to a crowd that he understood "
+            "the teaching and rejected it. Asked what he understood, he did not answer. The claim and "
+            "the silence are inconsistent whatever the reason for the silence."]),
+        ("The three challenges", [
+            "Then the Buddha turns to the assembled wanderers and states, three times, the form a "
+            "real challenge would take. Someone might say: <em>you claim to be a fully awakened "
+            "Buddha, but you don&rsquo;t understand these things.</em> Or: <em>you claim to have "
+            "ended all defilements, but you still have these.</em> Or: <em>your teaching does not "
+            "lead someone who practices it to the complete ending of suffering.</em>",
+            "Each is followed by the same claim about what would happen: he would <em>pursue, press, "
+            "and grill</em> them on the point, and they would fall into one of three categories "
+            "&mdash; dodging the issue with irrelevancies, displaying annoyance and bitterness, or "
+            "sitting silent and downcast <em>like Sarabha</em>.",
+            "The three challenges are worth extracting because they are a list of the things this "
+            "teaching stakes itself on: that the awakening is real, that the defilements are gone, "
+            "and that the method works for other people. Nothing else is offered as a point of "
+            "attack, and the third is the one that concerns anybody who is not the Buddha.",
+            "The naming of Sarabha in each refrain is the part that stings, and it is not necessary "
+            "to the argument. The text does it three times."]),
+        ("Flying away, and the tension with AN 3.60", [
+            "&ldquo;Then the Buddha, having roared his lion&rsquo;s roar three times in the "
+            "wanderers&rsquo; monastery on the bank of the Serpentine river, rose into the air and "
+            "flew away.&rdquo;",
+            "Four discourses earlier, in AN 3.60, Saṅgārava ranked the demonstration of psychic power "
+            "last of three because it is <em>experienced only by the one who performs it</em> and "
+            "seems like an illusion, and the Buddha let that stand. DN 11 has him say he is troubled "
+            "and repelled by such displays.",
+            "And here he leaves a hostile monastery by air. A reader is entitled to notice the "
+            "tension and it should not be smoothed over. The available observations are that the "
+            "canon does not treat the powers as unreal &mdash; AN 3.60 has him affirm he possesses "
+            "them &mdash; only as a poor way of convincing anybody; that this exit does not "
+            "demonstrate anything to Sarabha, who has already stopped speaking; and that a departure "
+            "is not an argument. Whether that is enough to reconcile the two passages is a fair "
+            "question to leave with a class rather than answer for them."]),
+        ("The mockery, and who does it", [
+            "The final scene is a pile-on. The other wanderers surround Sarabha with three similes: "
+            "the old jackal who thinks <em>I&rsquo;ll roar a lion&rsquo;s roar</em> and only manages "
+            "to squeal; the marsh hen who intends to cry like a cuckoo; the bull who thinks to bellow "
+            "only when the cowstall is empty.",
+            "Two facts about this passage need stating together. The Buddha is not present &mdash; "
+            "the text is explicit that this happens <em>soon after the Buddha left</em> &mdash; and "
+            "the jeering is done by Sarabha&rsquo;s own colleagues, other wanderers of his own "
+            "community, not by Buddhists.",
+            "And it is still a scene of public humiliation preserved with evident relish, in a canon "
+            "that elsewhere condemns harsh speech and ridicule. A teacher who presents this discourse "
+            "should say so rather than let a class notice it privately. The similes are memorable "
+            "because they are cruel, and the tradition kept them because they are memorable.",
+            "What can be said in mitigation is small and should be offered as small: the "
+            "Buddha&rsquo;s own words to Sarabha contain no insult, his offer was to be corrected, "
+            "and he had gone. The rest belongs to the crowd, and the text lets the reader watch it "
+            "happen."]),
+    ],
+    terms=[
+        ("anukampaṁ upādāya",
+         "&ldquo;out of sympathy&rdquo; &mdash; the standard reason given for a teacher&rsquo;s "
+         "visit, used here of a visit to someone who has just disparaged him in public."),
+        ("sīhanāda",
+         "&ldquo;lion&rsquo;s roar&rdquo; &mdash; the canon&rsquo;s term for a public declaration "
+         "made without hedging, and the image the wanderers turn back on Sarabha."),
+        ("samanuyuñjeyya samanugāheyya samanubhāseyya",
+         "&ldquo;pursue, press, and grill&rdquo; &mdash; the three-verb formula for cross-examination, "
+         "the same one King Yama uses in AN 3.36."),
+        ("aññena aññaṁ paṭicarati",
+         "&ldquo;dodging the issue&rdquo; &mdash; literally covering one thing with another; the "
+         "first of the three ways a challenger fails."),
+        ("maṅkubhūta pattakkhandha",
+         "&ldquo;dismayed, shoulders drooping&rdquo; &mdash; the stock description of somebody with "
+         "nothing left to say, applied to Sarabha and then to hypothetical challengers."),
+    ],
+    text_intro=(
+        "The discourse in full, including the closing scene. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A boast in Rājagaha"),
+        ("p", "&sect;1", "an3.64:1.1-1.10"),
+        ("p", "&sect;2", "an3.64:2.1-2.7"),
+        ("h3", "Asked three times"),
+        ("p", "&sect;3", "an3.64:3.1-3.5"),
+        ("p", "&sect;4", "an3.64:4.1-4.5"),
+        ("p", "&sect;5", "an3.64:5.1-5.5"),
+        ("p", "&sect;6", "an3.64:6.1-6.6"),
+        ("h3", "Three challenges"),
+        ("p", "&sect;7&ndash;8", "an3.64:7.1-8.3"),
+        ("p", "&sect;9", "an3.64:9.1-9.3"),
+        ("p", "&sect;10", "an3.64:10.1-10.4"),
+        ("h3", "After he had gone"),
+        ("p", "&sect;11", "an3.64:11.1-11.8"),
+    ],
+    quiz=[
+        {"q": "What is Sarabha telling a crowd in Rājagaha?",
+         "opts": [
+             "That the Buddha is a fraud",
+             "That he learned the teaching of the ascetics who follow the Sakyan, and then left their teaching and training",
+             "That he has attained awakening",
+             "That the Saṅgha is corrupt"],
+         "correct": 1,
+         "expl": "It implies a criticism without stating anything that could be examined."},
+        {"q": "What do the monks who hear it do?",
+         "opts": [
+             "Answer him on the spot",
+             "Report it and ask the Buddha to go and see Sarabha out of sympathy",
+             "Complain to the king",
+             "Ignore it"],
+         "correct": 1,
+         "expl": "<em>Anukampaṁ upādāya</em> is the standard phrase for why a teacher visits anyone."},
+        {"q": "What does the Buddha offer Sarabha?",
+         "opts": [
+             "A debate before judges",
+             "To fill in what he has not learned fully &mdash; and to agree if he has learned it fully",
+             "Readmission to the Saṅgha",
+             "Silence"],
+         "correct": 1,
+         "expl": "An offer to concede, in public, in front of a crowd of rival wanderers."},
+        {"q": "How many times is the offer made, and what happens?",
+         "opts": [
+             "Once; Sarabha answers",
+             "Twice; Sarabha argues",
+             "Three times; Sarabha says nothing, and is finally described as dismayed, shoulders drooping, with nothing to say",
+             "Three times; Sarabha leaves"],
+         "correct": 2,
+         "expl": "His own colleagues intervene to urge him to speak before that description arrives."},
+        {"q": "What does the guide say the silence does <em>not</em> establish?",
+         "opts": [
+             "That Sarabha had no criticism &mdash; a person can have real objections and be unable to state them in public",
+             "That Sarabha was present",
+             "That the claim was made",
+             "That the offer was genuine"],
+         "correct": 0,
+         "expl": "The narrower point stands regardless: the claim and the silence are inconsistent."},
+        {"q": "What are the three challenges the Buddha names?",
+         "opts": [
+             "That he is not a brahmin, not a teacher, and not a king",
+             "That his awakening is not real; that his defilements are not ended; that his teaching does not lead a practitioner to the end of suffering",
+             "That he is too strict, too lenient, and too obscure",
+             "That his followers are few"],
+         "correct": 1,
+         "expl": "A list of the things this teaching stakes itself on, and the third concerns anybody who is not the Buddha."},
+        {"q": "What three ways does he say a challenger would fail?",
+         "opts": [
+             "Dodging the issue with irrelevancies; displaying annoyance and bitterness; or sitting silent and downcast",
+             "Lying, fleeing, or conceding",
+             "Arguing, shouting, or laughing",
+             "Appealing to scripture, to a teacher, or to a king"],
+         "correct": 0,
+         "expl": "And each refrain ends with the words &ldquo;like Sarabha.&rdquo;"},
+        {"q": "What tension does the guide identify with AN 3.60?",
+         "opts": [
+             "That the Buddha here rejects instruction",
+             "That he leaves by rising into the air, four discourses after letting stand a ranking that put displays of psychic power last as seeming like illusion",
+             "That he denies having powers",
+             "That Saṅgārava reappears"],
+         "correct": 1,
+         "expl": "The guide leaves the question with the reader rather than resolving it."},
+        {"q": "Who mocks Sarabha at the end, and when?",
+         "opts": [
+             "The Buddha, before leaving",
+             "The mendicants, on almsround",
+             "His own colleagues, the other wanderers, soon after the Buddha left",
+             "The crowd in Rājagaha"],
+         "correct": 2,
+         "expl": "The text is explicit about both the actors and the timing."},
+        {"q": "How does the guide handle that scene?",
+         "opts": [
+             "By omitting it",
+             "By treating it as justified",
+             "By stating that it is a public humiliation preserved with evident relish in a canon that elsewhere condemns ridicule &mdash; and offering the mitigation as small",
+             "By arguing it is a later addition"],
+         "correct": 2,
+         "expl": "The similes are memorable because they are cruel, and the tradition kept them because they are memorable."},
+    ],
+    marginalia=[
+        ("The offer", [
+            "&ldquo;if you&rsquo;ve not learned it fully,",
+            "I&rsquo;ll fill you in&rdquo;",
+            "&ldquo;if you have, I&rsquo;ll agree&rdquo;",
+        ]),
+        ("Three challenges", [
+            "the awakening is not real",
+            "the defilements are not ended",
+            "the teaching does not work",
+        ]),
+        ("Three similes, by others", [
+            "the jackal who would roar",
+            "the marsh hen who would sing",
+            "the bull who bellows at an empty stall",
+        ]),
+        ("Cross-references", [
+            "AN 3.60 &middot; psychic power ranked last",
+            "AN 3.36 &middot; the same three verbs for grilling",
+            "AN 3.65 &middot; how to judge a teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.64/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.60.html">AN 3.60 &middot; With Saṅgārava</a> &mdash; where a brahmin ranks '
+        "the demonstration of psychic power last and the Buddha lets it stand. Read four discourses "
+        "later, the exit in this one is worth arguing about.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the next '
+        "discourse but one, and the collection&rsquo;s answer to the problem this one raises: how to "
+        "judge a teaching when the people disputing it are all confident.",
+        '<a href="../majjhima-nikaya/mn-011.html">MN 11 &middot; The Shorter Discourse on the '
+        "Lion&rsquo;s Roar</a> &mdash; for what the canon means by a lion&rsquo;s roar and what it "
+        "thinks entitles anyone to make one.",
     ],
 )
