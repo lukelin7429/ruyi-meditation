@@ -21086,3 +21086,1221 @@ page(
         "extinguishment that this verse gives an image for.",
     ],
 )
+
+
+page(
+    91, "Saṅkavā", "At Paṅkadhā",
+    vagga=VAGGA_9,
+    meta_title="AN 3.91 — At Paṅkadhā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṅkavāsutta — a monk who "
+        "thought the Buddha was too strict, walked to Rājagaha to say so, and was accepted. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Paṅkadhā, a Kosalan town, and then Rājagaha on the Vulture&rsquo;s Peak"),
+        ("Speakers", "The monk Kassapagotta and the Buddha"),
+        ("Form", "A narrative of irritation, remorse, and a journey; a formula of acceptance; and six "
+                 "cases of monastics praised or not"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Comparable material on confession and on praising those who want to "
+                              "train is preserved in the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a plain narrative with an "
+                       "unusually careful ending"),
+    ],
+    why=(
+        "The Buddha gives a talk about the training rules and a resident monk sits there thinking "
+        "<em>this ascetic is much too strict</em>. Then the Buddha leaves town. The monk, alone with "
+        "what he thought, becomes remorseful, packs his bowl and robe, and walks to Rājagaha to say "
+        "it out loud. What he gets back is a formula that the tradition uses for every confession, "
+        "and then an explanation of who is worth praising."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Recognizing a mistake, dealing with it properly, and undertaking restraint is growth in "
+            "the training &mdash; not a return to zero."]),
+        ("What Kassapagotta thought", [
+            "The talk is described in the canon&rsquo;s standard four verbs: the Buddha "
+            "<em>educated, encouraged, fired up, and inspired</em> the mendicants with a Dhamma talk "
+            "about the training rules. Kassapagotta became <em>impatient and bitter</em>, thinking: "
+            "<em>this ascetic is much too strict.</em>",
+            "It is worth noticing what is and is not recorded. He says nothing at the time. He does "
+            "not argue, does not complain to anybody, and does not act on it. The offense is entirely "
+            "internal, and the discourse treats it as an offense anyway.",
+            "That is a high standard and it should be named as one. A modern reader may reasonably "
+            "think that resenting a sermon privately is not a fault at all. The discourse&rsquo;s "
+            "position is that it is, and the reason emerges from what happens next: an unspoken "
+            "resentment sat on for long enough becomes something a person has to travel a long way to "
+            "put down."]),
+        ("The journey", [
+            "The Buddha stays as long as he pleases and then leaves for Rājagaha, traveling <em>stage "
+            "by stage</em>. Nothing is said to Kassapagotta.",
+            "<em>Soon after the Buddha left</em>, the remorse arrives. The Pāli is emphatic &mdash; "
+            "<em>it&rsquo;s my loss, my misfortune</em> &mdash; and the resolution follows "
+            "immediately: why don&rsquo;t I go and confess it?",
+            "So he sets his lodgings in order, takes bowl and robe, and walks from a Kosalan town to "
+            "Rājagaha, which is a journey of some weeks. The discourse records the distance without "
+            "comment, and the distance is part of what he is saying.",
+            "The detail about setting the lodgings in order is the kind of thing this literature "
+            "includes and most religious literature does not. He is a resident monk; leaving means "
+            "handing over a dwelling properly. The remorse does not excuse him from the housekeeping."]),
+        ("The formula of acceptance", [
+            "&ldquo;Indeed, Kassapa, you made a mistake. But since you have recognized your mistake "
+            "for what it is, and have dealt with it properly, I accept it. For it is growth in the "
+            "training of the Noble One to recognize a mistake for what it is, deal with it properly, "
+            "and commit to restraint in the future.&rdquo;",
+            "This is the canon&rsquo;s standing formula and it appears wherever a confession is "
+            "accepted. Three parts: the mistake is confirmed, not minimized; the handling is what "
+            "makes acceptance possible; and the result is called <em>growth</em>, "
+            "<em>vuddhi</em> &mdash; not restoration, not forgiveness, but increase.",
+            "That third part is the substantive claim and it is easy to skim. The person who erred "
+            "and dealt with it is further along than they were, not merely back where they started. "
+            "Nothing in the formula suggests the mistake was good; what is claimed is that the whole "
+            "sequence &mdash; erring, seeing it, saying it, undertaking restraint &mdash; constitutes "
+            "progress in the training.",
+            "The first three words matter too. <em>Indeed, Kassapa, you made a mistake</em>: the "
+            "confession is not waved away, and Kassapagotta is not told he was being too hard on "
+            "himself. Compare AN 3.51, where two old brahmins&rsquo; account of their own lives is "
+            "likewise confirmed rather than softened. It is a consistent policy."]),
+        ("Who is worth praising", [
+            "Then the discourse turns to something Kassapagotta did not ask about: which monastics "
+            "the Buddha praises. Six cases &mdash; senior, middle, and junior, each in a negative and "
+            "a positive version.",
+            "The negative: a monastic who does not want to train, does not praise taking up the "
+            "training, does not encourage others who do not want to train, and does not praise at the "
+            "right time those who do. Such a person the Buddha does not praise, and the reason is "
+            "given: <em>hearing that I praised that mendicant, other mendicants might want to keep "
+            "company with them. Then they might follow their example, which would be for their "
+            "lasting harm.</em>",
+            "The positive is the same list reversed, with the same reasoning running the other way.",
+            "The mechanism is worth drawing out. Praise is treated as an act with consequences rather "
+            "than as an assessment. The Buddha is not saying such a monastic is worthless; he is "
+            "saying that praising them would move other people toward them, and that is what he is "
+            "declining to do. Praise is being handled as a form of direction.",
+            "And the connection to the opening is not stated but is hard to miss. Kassapagotta "
+            "thought the training talk was too strict; he has just been told, in the gentlest "
+            "possible way, that whether a monastic wants to train is the thing the Buddha uses to "
+            "decide whom to hold up. The answer to his complaint is delivered as a general principle "
+            "immediately after his confession is accepted."]),
+        ("Using it", [
+            "This is the discourse to teach on apology and correction, and its shape is exportable. "
+            "The offense is internal; the person names it themselves without being caught; the "
+            "response confirms rather than minimizes; and the sequence is called growth.",
+            "The praise passage is separately useful for anyone who runs an institution. It says that "
+            "public praise is a lever rather than a verdict, and that the question to ask before "
+            "praising somebody is not <em>do they deserve it</em> but <em>who will move toward them "
+            "if I do this</em>."]),
+    ],
+    terms=[
+        ("accaya",
+         "&ldquo;mistake, transgression&rdquo; &mdash; the word in the confession formula, literally "
+         "an overstepping."),
+        ("accayaṁ accayato disvā",
+         "&ldquo;recognizing a mistake for what it is&rdquo; &mdash; the first of the three parts of "
+         "a proper confession."),
+        ("vuddhi",
+         "&ldquo;growth&rdquo; &mdash; what the whole sequence is called in the training of the Noble "
+         "One. Not restoration, and not forgiveness."),
+        ("anudhammaṁ paṭikaroti",
+         "&ldquo;deals with it properly&rdquo; &mdash; the second part: handling the mistake in "
+         "accordance with the teaching, which for a monastic means the prescribed procedure."),
+        ("kālena vaṇṇaṁ bhāsati",
+         "&ldquo;praises at the right time&rdquo; &mdash; one of the four things the praiseworthy "
+         "monastic does, and a reminder that praise in this collection is timed rather than merely "
+         "felt."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "&ldquo;Much too strict&rdquo;"),
+        ("p", "&sect;1", "an3.91:1.1-1.9"),
+        ("h3", "The journey to Rājagaha"),
+        ("p", "&sect;2", "an3.91:2.1-2.7"),
+        ("p", "&sect;3", "an3.91:3.1-3.13"),
+        ("h3", "Accepted"),
+        ("p", "&sect;4", "an3.91:4.1-4.4"),
+        ("h3", "Whom the Buddha praises"),
+        ("p", "&sect;5", "an3.91:5.1-5.4"),
+        ("p", "&sect;6", "an3.91:6.1-6.5"),
+        ("p", "&sect;7", "an3.91:7.1-7.4"),
+        ("p", "&sect;8", "an3.91:8.1-8.5"),
+    ],
+    quiz=[
+        {"q": "What does Kassapagotta think during the talk?",
+         "opts": [
+             "That the Buddha is mistaken",
+             "That this ascetic is much too strict &mdash; and he says nothing at the time",
+             "That he wants to ordain elsewhere",
+             "That the rules should be changed"],
+         "correct": 1,
+         "expl": "The offense is entirely internal, and the discourse treats it as an offense anyway."},
+        {"q": "How does the guide handle the objection that a private resentment is not a fault?",
+         "opts": [
+             "By agreeing",
+             "By naming the standard as high, and pointing out what follows: an unspoken resentment sat on long enough becomes something a person has to travel a long way to put down",
+             "By omitting the issue",
+             "By saying the monk was punished"],
+         "correct": 1,
+         "expl": "A modern reader may reasonably think it is not a fault at all."},
+        {"q": "What does Kassapagotta do after the Buddha leaves?",
+         "opts": [
+             "Complains to the other monks",
+             "Becomes remorseful, sets his lodgings in order, takes bowl and robe, and walks to Rājagaha to confess",
+             "Disrobes",
+             "Writes a letter"],
+         "correct": 1,
+         "expl": "A journey of some weeks, recorded without comment."},
+        {"q": "Why does the guide single out the detail about the lodgings?",
+         "opts": [
+             "Because it dates the text",
+             "Because the remorse does not excuse him from the housekeeping &mdash; the kind of detail this literature includes and most religious literature does not",
+             "Because lodgings were scarce",
+             "Because it shows he intended to return"],
+         "correct": 1,
+         "expl": "He is a resident monk; leaving means handing over a dwelling properly."},
+        {"q": "What are the three parts of the acceptance formula?",
+         "opts": [
+             "The mistake confirmed, not minimized; the handling that makes acceptance possible; and the result called growth",
+             "Apology, penance, and absolution",
+             "Confession, silence, and return",
+             "Rebuke, correction, and warning"],
+         "correct": 0,
+         "expl": "<em>Vuddhi</em> &mdash; not restoration, and not forgiveness."},
+        {"q": "What is the substantive claim in the third part?",
+         "opts": [
+             "That the mistake was good",
+             "That the person who erred and dealt with it is further along than they were, not merely back where they started",
+             "That mistakes are inevitable",
+             "That confession is required"],
+         "correct": 1,
+         "expl": "Nothing in the formula suggests the mistake was good."},
+        {"q": "What do the first three words of the reply do?",
+         "opts": [
+             "Minimize the fault",
+             "Confirm it &mdash; &ldquo;indeed, Kassapa, you made a mistake&rdquo; &mdash; rather than telling him he was being hard on himself",
+             "Rebuke him further",
+             "Change the subject"],
+         "correct": 1,
+         "expl": "Compare AN 3.51, where two old brahmins&rsquo; account of themselves is likewise confirmed."},
+        {"q": "How many cases of monastics are then described?",
+         "opts": [
+             "Three",
+             "Six &mdash; senior, middle, and junior, each in a negative and a positive version",
+             "Two",
+             "Nine"],
+         "correct": 1,
+         "expl": "On something Kassapagotta did not ask about."},
+        {"q": "Why does the Buddha decline to praise the first kind?",
+         "opts": [
+             "Because they are wicked",
+             "Because hearing that he praised them, other mendicants might keep company with them and follow their example, to their lasting harm",
+             "Because they are junior",
+             "Because they broke rules"],
+         "correct": 1,
+         "expl": "Praise is treated as an act with consequences rather than as an assessment."},
+        {"q": "What question does the guide say an institution should ask before praising somebody?",
+         "opts": [
+             "Do they deserve it",
+             "Who will move toward them if I do this",
+             "Will they be embarrassed",
+             "Is it the right time"],
+         "correct": 1,
+         "expl": "Praise as a lever rather than a verdict."},
+    ],
+    marginalia=[
+        ("What he thought", [
+            "&ldquo;this ascetic",
+            "is much too strict&rdquo;",
+            "&mdash; and said nothing",
+        ]),
+        ("Three parts", [
+            "recognize it for what it is",
+            "deal with it properly",
+            "commit to restraint",
+            "&mdash; and this is <span class=\"pali\">vuddhi</span>, growth",
+        ]),
+        ("Six cases", [
+            "senior &middot; middle &middot; junior",
+            "wanting to train, or not",
+            "&mdash; praise as direction",
+        ]),
+        ("Cross-references", [
+            "AN 3.51 &middot; an account confirmed, not softened",
+            "AN 3.84 &middot; a monk who could not manage",
+            "AN 3.11 &middot; whose example is followed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.91/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.84.html">AN 3.84 &middot; The Vajji</a> &mdash; the other discourse in this '
+        "chapter about somebody who found the training rules too much, and was met with a workable "
+        "alternative rather than a rebuke.",
+        '<a href="an-3.11.html">AN 3.11 &middot; Well-known</a> &mdash; for the mechanism behind the '
+        "praise passage: what a prominent monastic&rsquo;s conduct does to everybody who follows "
+        "them.",
+        '<a href="/sutras/nanshan-lu/index.html">Nanshan Vinaya for Laypeople</a> &mdash; for how the '
+        "Chinese vinaya tradition handled confession and restoration, which is the procedure this "
+        "discourse&rsquo;s formula belongs to.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.92–3.102 — Loṇakapallavagga
+#
+# AN 3.100 was published before this series began working in order; the chain is
+# routed through it by hand, as with 3.61 and 3.65.
+# --------------------------------------------------------------------------- #
+VAGGA_10 = "<em>Loṇakapallavagga</em> &mdash; the tenth chapter of the Threes"
+
+page(
+    92, "Accāyika", "Urgent",
+    vagga=VAGGA_10,
+    meta_title="AN 3.92 — Urgent | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Accāyikasutta — three "
+        "urgent duties, and the one thing neither a farmer nor a mendicant can order to happen. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A trade in three urgent duties with a disclaimer, applied to another in the same "
+                 "shape"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable agricultural similes for the timing of practice are "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; AN 3.83 with the crucial sentence "
+                       "added"),
+    ],
+    why=(
+        "The farmer of AN 3.83 comes back, and this time the discourse says what he cannot do. He "
+        "ploughs swiftly, sows swiftly, waters swiftly &mdash; and then: <em>that farmer has no "
+        "special power or ability to say &lsquo;let the crops germinate today! Let them flower "
+        "tomorrow!&rsquo;</em> The same is then said of a mendicant and the ending of the defilements, "
+        "in the same words."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The three trainings are urgent and their result cannot be scheduled."]),
+        ("What is added to AN 3.83", [
+            "Nine discourses earlier the farmer had three primary duties and the mendicant had three. "
+            "Here the same two lists appear with one word changed &mdash; the duties are "
+            "<em>accāyika</em>, urgent &mdash; and one paragraph added to each side.",
+            "The added paragraph is the point. <em>That farmer has no special power or ability</em> "
+            "&mdash; <em>iddhi vā ānubhāvo vā</em>, no psychic power and no authority &mdash; to say "
+            "let the crops germinate today, flower tomorrow, ripen the day after.",
+            "And the parallel: that mendicant has no special power or ability to say <em>let my mind "
+            "be freed from defilements by not grasping today! Or tomorrow! Or the day after!</em>",
+            "Reading the two discourses together shows how this collection works. AN 3.83 said the "
+            "tasks; AN 3.92 says the tasks are urgent and the result is not. Neither statement alone "
+            "is the teaching."]),
+        ("Urgent and unschedulable at once", [
+            "The two halves are in tension and the tension is deliberate. If the result cannot be "
+            "hurried, why is the work urgent?",
+            "The farming answer is exact and a class will supply it themselves: the tasks are urgent "
+            "<em>because</em> the result is not under control. A farmer who could command the harvest "
+            "would not need to plough at any particular time. It is precisely because germination "
+            "comes when it comes that the ploughing must be done now, in this season, before the "
+            "window closes.",
+            "Applied to practice, that disposes of two errors at once. The first is the striving that "
+            "sets a deadline for awakening and treats the delay as failure; the discourse says "
+            "flatly that nobody has the power to set that deadline. The second is the passivity that "
+            "concludes from this that timing does not matter; the same discourse calls the duties "
+            "urgent.",
+            "A person holding both is in the position of a farmer in the sowing season: unable to "
+            "hurry the crop and unable to postpone the work."]),
+        ("The word for what the mendicant lacks", [
+            "<em>Iddhi</em> is the word this collection uses for psychic power &mdash; the "
+            "multiplying of the body, the walking on water, the flying, which AN 3.60 ranked last of "
+            "three demonstrations and which AN 3.80 has the Buddha exercising.",
+            "So the discourse is not saying that supernormal power does not exist in this tradition. "
+            "It is saying that it does not extend here. A person may have <em>iddhi</em> and still be "
+            "unable to command their own liberation, which is a limitation stated in the vocabulary "
+            "of the thing being limited.",
+            "That is a sharper way of making the point than a general remark about patience would "
+            "have been, and it is aimed at a specific temptation. Somebody with meditative attainment "
+            "has real capacities and might reasonably expect one of them to work on this."]),
+        ("What actually happens", [
+            "&ldquo;But there comes a time &mdash; as that mendicant trains in the higher ethics, the "
+            "higher mind, and the higher wisdom &mdash; that their mind is freed from defilements by "
+            "not grasping.&rdquo;",
+            "<em>Hoti so, bhikkhave, samayo</em> &mdash; there comes a time. The same construction "
+            "used of the crops, which germinate, flower, and ripen <em>as the seasons change</em>.",
+            "The freedom is described as arriving rather than as being achieved, and the training is "
+            "described as continuing throughout. Neither is presented as causing the other in the way "
+            "a lever causes a movement; the relation is the one between cultivation and a season, "
+            "which everyone in the audience understood and which no modern reader has an equally good "
+            "image for.",
+            "This is also the clearest short statement in the Threes of why the collection keeps "
+            "returning to farming. The relation between effort and result in this teaching is "
+            "agricultural rather than mechanical, and there is no other everyday process with the "
+            "same shape."]),
+        ("Using it", [
+            "Teach it to anybody who is discouraged by not having got anywhere, and teach it "
+            "alongside AN 3.83 so that the urgency is not lost. The discourse is precise: the work is "
+            "urgent, the result is not yours to time, and the second fact is the reason for the "
+            "first.",
+            "The transferable form is a question. Is this a thing I can schedule, or a thing I can "
+            "only prepare for? Most worthwhile results are the second kind, and most anxiety about "
+            "them comes from treating them as the first."]),
+    ],
+    terms=[
+        ("accāyika",
+         "&ldquo;urgent&rdquo; &mdash; the word added to the farmer&rsquo;s and the "
+         "mendicant&rsquo;s duties, which AN 3.83 called simply primary."),
+        ("iddhi vā ānubhāvo vā",
+         "&ldquo;special power or ability&rdquo; &mdash; and <em>iddhi</em> is the collection&rsquo;s "
+         "word for psychic power. The limitation is stated in the vocabulary of the thing being "
+         "limited."),
+        ("hoti so samayo",
+         "&ldquo;there comes a time&rdquo; &mdash; used of the crops ripening and of the mind being "
+         "freed, in the same construction."),
+        ("utuparipāka",
+         "&ldquo;as the seasons change&rdquo; &mdash; the crops&rsquo; schedule, which the farmer "
+         "does not set."),
+        ("anupādāya vimuccati",
+         "&ldquo;freed by not grasping&rdquo; &mdash; the standard phrase for the result, described "
+         "as arriving rather than as being achieved."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The farmer"),
+        ("p", "&sect;1", "an3.92:1.1-1.9"),
+        ("h3", "The mendicant"),
+        ("p", "&sect;2", "an3.92:2.1-2.7"),
+        ("p", "&sect;3", "an3.92:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse add to AN 3.83?",
+         "opts": [
+             "A fourth duty",
+             "That the duties are urgent, and that neither the farmer nor the mendicant can order the result to happen on a given day",
+             "A verse",
+             "A different set of trainings"],
+         "correct": 1,
+         "expl": "Neither statement alone is the teaching."},
+        {"q": "What can the farmer not say?",
+         "opts": [
+             "&ldquo;Let the field be ploughed&rdquo;",
+             "&ldquo;Let the crops germinate today! Let them flower tomorrow! Let them ripen the day after!&rdquo;",
+             "&ldquo;Let the rain come&rdquo;",
+             "&ldquo;Let the seed be good&rdquo;"],
+         "correct": 1,
+         "expl": "He has no special power or ability to set that schedule."},
+        {"q": "What is the parallel for the mendicant?",
+         "opts": [
+             "&ldquo;Let me keep the rules today&rdquo;",
+             "&ldquo;Let my mind be freed from defilements by not grasping today! Or tomorrow! Or the day after!&rdquo;",
+             "&ldquo;Let me enter the first absorption&rdquo;",
+             "&ldquo;Let me be reborn well&rdquo;"],
+         "correct": 1,
+         "expl": "In the same words as the farmer."},
+        {"q": "How does the guide resolve the tension between urgency and unschedulability?",
+         "opts": [
+             "By saying the two halves contradict",
+             "The tasks are urgent <em>because</em> the result is not under control &mdash; a farmer who could command the harvest would not need to plough at any particular time",
+             "By ranking urgency above timing",
+             "By treating urgency as rhetorical"],
+         "correct": 1,
+         "expl": "Germination comes when it comes, so the ploughing must be done in this season."},
+        {"q": "Which two errors does that dispose of?",
+         "opts": [
+             "Striving that sets a deadline and treats delay as failure; and passivity that concludes timing does not matter",
+             "Doubt and conceit",
+             "Greed and hate",
+             "Study and meditation"],
+         "correct": 0,
+         "expl": "A person holding both is in the position of a farmer in the sowing season."},
+        {"q": "What is <em>iddhi</em>, and why does its use matter here?",
+         "opts": [
+             "Effort; it names the training",
+             "Psychic power &mdash; so the discourse is not denying that such power exists but saying it does not extend here",
+             "Merit; it names the result",
+             "Faith; it names the motive"],
+         "correct": 1,
+         "expl": "A limitation stated in the vocabulary of the thing being limited."},
+        {"q": "Which temptation is that aimed at?",
+         "opts": [
+             "Laziness",
+             "Somebody with meditative attainment who has real capacities and might expect one of them to work on this",
+             "Doubt about the teaching",
+             "Attachment to rules"],
+         "correct": 1,
+         "expl": "Sharper than a general remark about patience."},
+        {"q": "How is the freedom described?",
+         "opts": [
+             "As achieved by effort",
+             "As arriving &mdash; &ldquo;there comes a time&rdquo;, the same construction used of the crops ripening as the seasons change",
+             "As granted",
+             "As unpredictable in kind"],
+         "correct": 1,
+         "expl": "And the training is described as continuing throughout."},
+        {"q": "Why does the guide say the collection keeps returning to farming?",
+         "opts": [
+             "Because the audience were farmers",
+             "Because the relation between effort and result in this teaching is agricultural rather than mechanical, and there is no other everyday process with the same shape",
+             "Because fields are common",
+             "Because the Buddha liked similes"],
+         "correct": 1,
+         "expl": "No modern reader has an equally good image for it."},
+        {"q": "What transferable question does the guide offer?",
+         "opts": [
+             "How long will this take?",
+             "Is this a thing I can schedule, or a thing I can only prepare for?",
+             "Who can teach me this?",
+             "Is this worth doing?"],
+         "correct": 1,
+         "expl": "Most worthwhile results are the second kind."},
+    ],
+    marginalia=[
+        ("Three urgent duties", [
+            "plough and till, swiftly",
+            "plant in season, swiftly",
+            "water or drain, swiftly",
+        ]),
+        ("What cannot be said", [
+            "&ldquo;germinate today!&rdquo;",
+            "&ldquo;flower tomorrow!&rdquo;",
+            "&ldquo;be freed today, or tomorrow!&rdquo;",
+        ]),
+        ("What is said instead", [
+            "<span class=\"pali\">hoti so samayo</span>",
+            "there comes a time",
+            "&mdash; as the seasons change",
+        ]),
+        ("Cross-references", [
+            "AN 3.83 &middot; the same duties, without this",
+            "AN 3.60 &middot; <span class=\"pali\">iddhi</span>, ranked last",
+            "AN 3.34 &middot; seed, field, and result",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.92/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.83.html">AN 3.83 &middot; Fields</a> &mdash; the same farmer nine discourses '
+        "earlier, with the three duties and without the sentence about what he cannot command. The "
+        "pair is one teaching.",
+        '<a href="an-3.60.html">AN 3.60 &middot; With Saṅgārava</a> &mdash; for what <em>iddhi</em> '
+        "covers in this collection, which is what makes its use here a precise limitation rather than "
+        "a general remark.",
+        '<a href="an-3.89.html">AN 3.89 &middot; Three Trainings (1st)</a> &mdash; which sets out '
+        "what each of the three urgent duties actually consists of.",
+    ],
+)
+
+
+page(
+    93, "Paviveka", "Seclusion",
+    vagga=VAGGA_10,
+    meta_title="AN 3.93 — Seclusion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pavivekasutta — three "
+        "kinds of seclusion other ascetics practice, three that replace them, and rice threshed "
+        "down to the grain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A rival practice described in three parts, three replacements, and a long "
+                 "agricultural simile"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The catalog of ascetic practices is preserved in the Chinese Āgamas "
+                              "and corresponds to the list the Buddha applies to his own former "
+                              "austerities at MN 12; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the catalog is vivid and the "
+                       "replacement is compressed"),
+    ],
+    why=(
+        "Wanderers of other religions advocate three kinds of seclusion: in robes, in almsfood, in "
+        "lodgings. The discourse lists what each means in unsparing detail &mdash; robes of human "
+        "hair and owls&rsquo; wings, food of rice-scum and cow dung, lodging in charnel grounds. Then "
+        "it names three kinds of seclusion in this training instead, and none of them is about "
+        "clothing, food, or where you sleep."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seclusion means separation from unethical conduct, from wrong view, and from "
+            "defilements &mdash; not from comfort."]),
+        ("The catalog, and whose practices these are", [
+            "The list is long and specific. Robes: sunn hemp, mixed hemp, corpse-wrapping cloth, "
+            "rags, lodh bark, antelope hide whole or in strips, kusa grass, bark, wood-chips, human "
+            "hair, horse-tail hair, owls&rsquo; wings. Food: herbs, millet, wild rice, poor rice, "
+            "water lettuce, rice bran, the scum from boiling rice, sesame flour, grass, cow dung, "
+            "forest roots and fruits, fallen fruit. Lodging: wilderness, tree root, charnel ground, "
+            "forest, open air, a heap of straw, a threshing-hut.",
+            "This is not invented. The same catalog appears at MN 12 in the Buddha&rsquo;s own "
+            "first-person account of the austerities he practiced before awakening &mdash; he wore "
+            "these things, ate these things, and slept in these places. The list is autobiography as "
+            "much as ethnography.",
+            "That matters for how the criticism should be read. The discourse is not describing "
+            "practices its author had heard about; it is describing practices its author had done and "
+            "abandoned, which is a considerably stronger position from which to say they are not "
+            "seclusion.",
+            "It is also worth saying that nothing here calls these practices wicked or their "
+            "practitioners insincere. Somebody eating rice-scum in a charnel ground is doing something "
+            "difficult. The claim is that difficulty is not the same as seclusion."]),
+        ("What replaces them", [
+            "Three, and they are compressed almost to the point of being missable:",
+            "<em>A mendicant is ethical, giving up unethical conduct, being secluded from it. They "
+            "have right view, giving up wrong view, being secluded from it. They&rsquo;ve ended "
+            "defilements, giving up defilements, being secluded from them.</em>",
+            "The construction is identical in all three: the quality is possessed, the opposite is "
+            "given up, and the seclusion consists in the separation. <em>Paviveka</em> here has been "
+            "converted from a spatial word to a relational one &mdash; not being apart from people or "
+            "goods, but being apart from a condition.",
+            "The three are also a sequence, and it is the familiar one: ethics, view, and the ending "
+            "of defilements, which maps onto the three trainings the previous chapter spent eleven "
+            "discourses on.",
+            "The substitution has the same shape as the one in AN 3.74, where the Jain <em>nijjarā</em> "
+            "was kept and refilled, and AN 3.58, where the brahmin <em>tevijja</em> was. The chapter "
+            "before this one is about the three trainings; this discourse quietly says that they are "
+            "what seclusion is."]),
+        ("The rice", [
+            "The simile is a list of eleven operations and it is worth reading slowly, because the "
+            "point is the number: cut, gathered, transported, made into heaps, threshed, straw "
+            "removed, winnowed, brought over, pounded, husks removed.",
+            "Each adverb is the same &mdash; <em>swiftly</em> &mdash; and the result is that the crop "
+            "<em>reaches the peak and the pith, being pure and consolidated in the core</em>.",
+            "What the eleven steps describe is the removal of everything that is not grain. The straw "
+            "goes, the chaff goes, the husk goes, and what is left is small and dense. So the simile "
+            "for the three seclusions is not a process of acquiring anything; it is subtraction "
+            "carried out until only the edible part remains.",
+            "That is a precise image for what the three replacements do, and it explains why the "
+            "discourse does not need to argue against the catalog. The ascetic practices add "
+            "hardships. The three seclusions remove things."]),
+        ("Using it", [
+            "This discourse is the best short answer in the collection to the assumption that "
+            "Buddhist practice is a form of austerity. The austerities are listed in full, credited "
+            "to serious practitioners, and then replaced by three items that have nothing to do with "
+            "material conditions.",
+            "For a class, the useful exercise is to read the catalog aloud and ask what the three "
+            "replacements have in common with it. The answer is nothing, and the surprise is the "
+            "point: after a paragraph about owls&rsquo; wings and cow dung, the discourse says "
+            "seclusion is not lying and not holding a wrong view."]),
+    ],
+    terms=[
+        ("paviveka",
+         "&ldquo;seclusion&rdquo; &mdash; converted in this discourse from a spatial word to a "
+         "relational one: apart from a condition rather than from people or goods."),
+        ("cīvarapaviveka piṇḍapātapaviveka senāsanapaviveka",
+         "&ldquo;seclusion in robes, almsfood, and lodgings&rdquo; &mdash; the three that wanderers "
+         "of other religions advocate, each given in a long catalog."),
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the second of the three replacements, and the one that "
+         "makes the list a sequence rather than a set."),
+        ("khīṇāsava",
+         "&ldquo;one whose defilements have ended&rdquo; &mdash; the third replacement, and the "
+         "completion of the sequence."),
+        ("aggappatta sārappatta",
+         "&ldquo;reached the peak and the pith&rdquo; &mdash; said of both the threshed rice and the "
+         "mendicant, after everything that is not the grain has been taken off."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three kinds others advocate"),
+        ("p", "&sect;1", "an3.93:1.1-1.3"),
+        ("p", "&sect;2", "an3.93:2.1-2.2"),
+        ("p", "&sect;3", "an3.93:3.1-3.3"),
+        ("p", "&sect;4", "an3.93:4.1-4.3"),
+        ("h3", "Three kinds here"),
+        ("p", "&sect;5", "an3.93:5.1-5.9"),
+        ("h3", "Threshed down to the grain"),
+        ("p", "&sect;6", "an3.93:6.1-6.13"),
+        ("p", "&sect;7", "an3.93:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What three kinds of seclusion do other wanderers advocate?",
+         "opts": [
+             "In speech, thought, and action",
+             "In robes, almsfood, and lodgings",
+             "In solitude, silence, and fasting",
+             "In body, mind, and possessions"],
+         "correct": 1,
+         "expl": "Each given in a long and specific catalog."},
+        {"q": "Where else does this catalog appear?",
+         "opts": [
+             "Nowhere else",
+             "At MN 12, in the Buddha&rsquo;s own first-person account of the austerities he practiced before awakening",
+             "In the Vinaya only",
+             "In the Dhammapada"],
+         "correct": 1,
+         "expl": "The list is autobiography as much as ethnography."},
+        {"q": "Why does that matter for the criticism?",
+         "opts": [
+             "It does not",
+             "Because the author is describing practices he had done and abandoned, which is a stronger position from which to say they are not seclusion",
+             "Because it dates the text",
+             "Because it proves the practices work"],
+         "correct": 1,
+         "expl": "Not practices heard about second-hand."},
+        {"q": "What does the discourse <em>not</em> say about these practices?",
+         "opts": [
+             "That they are difficult",
+             "That they are wicked or their practitioners insincere",
+             "That they involve robes",
+             "That others advocate them"],
+         "correct": 1,
+         "expl": "The claim is that difficulty is not the same as seclusion."},
+        {"q": "What are the three replacements?",
+         "opts": [
+             "Solitude, silence, and simplicity",
+             "Being secluded from unethical conduct, from wrong view, and from defilements",
+             "Ethics, immersion, and wisdom",
+             "Giving, restraint, and meditation"],
+         "correct": 1,
+         "expl": "The quality is possessed, the opposite given up, and the seclusion consists in the separation."},
+        {"q": "What has happened to the word <em>paviveka</em>?",
+         "opts": [
+             "It has been abandoned",
+             "It has been converted from a spatial word to a relational one &mdash; apart from a condition rather than from people or goods",
+             "It has been narrowed to monastics",
+             "It has been replaced"],
+         "correct": 1,
+         "expl": "The same substitution habit as AN 3.74 and AN 3.58."},
+        {"q": "How many operations does the rice simile list?",
+         "opts": [
+             "Three",
+             "Five",
+             "Eleven &mdash; and the point is the number",
+             "Two"],
+         "correct": 2,
+         "expl": "Cut, gathered, transported, heaped, threshed, straw removed, winnowed, brought over, pounded, husks removed."},
+        {"q": "What do the eleven steps describe?",
+         "opts": [
+             "The growing of the crop",
+             "The removal of everything that is not grain &mdash; subtraction carried out until only the edible part remains",
+             "The storing of the harvest",
+             "The selling of the crop"],
+         "correct": 1,
+         "expl": "The straw goes, the chaff goes, the husk goes, and what is left is small and dense."},
+        {"q": "Why does the simile mean the discourse need not argue against the catalog?",
+         "opts": [
+             "Because the catalog is false",
+             "Because the ascetic practices add hardships and the three seclusions remove things",
+             "Because rice is common",
+             "Because the practices are foreign"],
+         "correct": 1,
+         "expl": "A precise image for what the three replacements do."},
+        {"q": "What exercise does the guide suggest?",
+         "opts": [
+             "Memorizing the catalog",
+             "Reading the catalog aloud and asking what the three replacements have in common with it &mdash; the answer is nothing, and the surprise is the point",
+             "Comparing translations",
+             "Listing modern austerities"],
+         "correct": 1,
+         "expl": "After a paragraph about owls&rsquo; wings and cow dung, seclusion turns out to be not lying and not holding a wrong view."},
+    ],
+    marginalia=[
+        ("What others advocate", [
+            "robes &middot; hair, bark, owls&rsquo; wings",
+            "food &middot; rice-scum, grass, cow dung",
+            "lodging &middot; charnel ground, open air",
+        ]),
+        ("What is named here", [
+            "secluded from unethical conduct",
+            "secluded from wrong view",
+            "secluded from defilements",
+        ]),
+        ("Eleven operations", [
+            "cut, gathered, heaped, threshed",
+            "winnowed, pounded, husked",
+            "&mdash; until only grain is left",
+        ]),
+        ("Cross-references", [
+            "MN 12 &middot; the same list, first-person",
+            "AN 3.74 &middot; a rival term refilled",
+            "AN 3.89 &middot; the three trainings defined",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.93/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-012.html">MN 12 &middot; The Longer Discourse on the '
+        "Lion&rsquo;s Roar</a> &mdash; where the same catalog of austerities is given by the Buddha "
+        "about himself, at length and without embarrassment. Reading it beside this discourse changes "
+        "what the criticism here is worth.",
+        '<a href="an-3.74.html">AN 3.74 &middot; Jains</a> &mdash; for the same move applied to '
+        "another rival term: the vocabulary kept, the content replaced.",
+        '<a href="an-3.39.html">AN 3.39 &middot; A Delicate Lifestyle</a> &mdash; the other side of '
+        "the same biography, where the young man in the three palaces is described before any of the "
+        "austerities in this catalog were tried.",
+    ],
+)
+
+
+page(
+    94, "Sarada", "Autumn",
+    vagga=VAGGA_10,
+    meta_title="AN 3.94 — Autumn | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saradasutta — the autumn "
+        "sun clearing the sky, the three fetters given up, and what follows. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A simile of one sentence, its application, and a consequence"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The autumn-sky simile for the arising of the vision of the teaching is "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; four lines carrying two "
+                       "attainments"),
+    ],
+    why=(
+        "In autumn the sky is clear and the rising sun burns off the dark. In the same way, when the "
+        "stainless vision of the teaching arises in a noble disciple, three fetters are given up. And "
+        "then the discourse keeps going, past stream-entry, to somebody who has abandoned two more "
+        "things and entered the first absorption &mdash; and states what would happen if they died at "
+        "that moment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The vision of the teaching clears the mind the way an autumn sun clears the sky, and "
+            "what follows it can be described precisely."]),
+        ("The simile, and why autumn", [
+            "&ldquo;In the autumn, the heavens are sunny and cloudless. And as the sun is rising to "
+            "the firmament, having dispelled all the darkness of space, it shines and glows and "
+            "radiates.&rdquo;",
+            "Autumn in northern India is the season after the monsoon, when months of cloud finally "
+            "break and the sky becomes the clearest it will be all year. The simile is not about "
+            "sunlight in general; it is about the particular clarity that follows a long overcast.",
+            "The verbs are the same three used of the gold pendant in AN 3.63 &mdash; it shines and "
+            "glows and radiates. The canon reuses this triad for anything at its brightest.",
+            "What is being compared is not the disciple but the event: the <em>arising</em> of the "
+            "stainless, immaculate vision of the teaching. <em>Dhammacakkhu</em>, the eye of the "
+            "teaching, is the canon&rsquo;s standard term for the moment of stream-entry, and it "
+            "arises rather than being produced."]),
+        ("Three fetters", [
+            "<em>Sakkāyadiṭṭhi</em>, substantialist view &mdash; the assumption of a self in or "
+            "behind the aggregates. <em>Vicikicchā</em>, doubt. "
+            "<em>Sīlabbataparāmāsa</em>, misapprehension of precepts and observances, which AN 3.78 "
+            "discussed: treating a rule or rite as itself the thing that purifies.",
+            "These three are what a stream-enterer has given up, and the list is worth noticing for "
+            "what it does not contain. Greed is not on it. Hate is not on it. Sensual desire is not "
+            "on it.",
+            "So the first attainment is not the removal of desire; it is the removal of three "
+            "misconceptions about how the whole business works &mdash; about what one is, about "
+            "whether the teaching is worth following, and about what the rules are for. That is "
+            "consistent with AN 3.86, where a stream-enterer is described as having fulfilled ethics "
+            "and having limited immersion and wisdom."]),
+        ("What comes after", [
+            "&ldquo;Afterwards they get rid of two things: covetousness and ill will.&rdquo; And then "
+            "the first absorption, given in the standard formula.",
+            "Covetousness and ill will are the first two of the five hindrances and the fourth and "
+            "fifth of the ten fetters &mdash; the two whose removal turns a once-returner into a "
+            "non-returner. Their abandonment here is stated as a step after the vision of the "
+            "teaching and before the absorption, which is a compressed account of the whole middle of "
+            "the path.",
+            "Then the consequence: <em>if that noble disciple passed away at that time, they&rsquo;re "
+            "bound by no fetter that might return them to this world.</em>",
+            "That is the definition of a non-returner, stated as a hypothetical about the moment of "
+            "death rather than as a category. The discourse does not say the person <em>is</em> a "
+            "non-returner; it says what would follow if they died then, which is a more careful "
+            "formulation and one worth pointing out to a class that has learned the four stages as "
+            "labels."]),
+        ("Why the discourse is arranged this way", [
+            "It begins with a simile for the first attainment and ends with a statement about the "
+            "third, in four sentences and without naming either stage.",
+            "The compression is deliberate and the effect is a single arc: darkness, the sun coming "
+            "up, the sky clearing, and then a condition in which nothing remains that would bring the "
+            "person back. Nothing in the discourse is presented as a separate achievement.",
+            "That is worth having beside AN 3.86 through 3.88, which sort the same material into "
+            "categories and subdivisions at length. This discourse gives the same territory as a "
+            "morning."]),
+        ("Using it", [
+            "Teach it for the fetters, which are the substantive content, and specifically for what "
+            "the list omits. A class that believes awakening begins with the removal of desire will "
+            "be corrected by three words: view, doubt, and misapprehension of observances.",
+            "The simile is also worth keeping for its own sake. Anyone who has lived through a "
+            "monsoon knows the sky the discourse means, and the image does something a description of "
+            "fetters cannot: it says what the change is like from inside."]),
+    ],
+    terms=[
+        ("sarada",
+         "&ldquo;autumn&rdquo; &mdash; the season after the monsoon, when months of cloud break and "
+         "the sky is at its clearest."),
+        ("dhammacakkhu",
+         "&ldquo;the vision of the teaching&rdquo; &mdash; the canon&rsquo;s standard term for the "
+         "moment of stream-entry. It arises rather than being produced."),
+        ("sakkāyadiṭṭhi",
+         "&ldquo;substantialist view&rdquo; &mdash; the assumption of a self in or behind the "
+         "aggregates, and the first of the three fetters given up."),
+        ("sīlabbataparāmāsa",
+         "&ldquo;misapprehension of precepts and observances&rdquo; &mdash; treating a rule or rite "
+         "as itself the thing that purifies. See AN 3.78."),
+        ("abhijjhā byāpāda",
+         "&ldquo;covetousness and ill will&rdquo; &mdash; the two given up afterward, whose removal "
+         "marks the non-returner."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The autumn sky"),
+        ("p", "&sect;1", "an3.94:1.1"),
+        ("h3", "Three fetters"),
+        ("p", "&sect;2", "an3.94:2.1-2.2"),
+        ("h3", "And two more"),
+        ("p", "&sect;3", "an3.94:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What is the simile?",
+         "opts": [
+             "A lamp in a dark room",
+             "The autumn sky, cloudless after the monsoon, with the rising sun dispelling the darkness",
+             "A gold pendant on a rug",
+             "A field after rain"],
+         "correct": 1,
+         "expl": "Not sunlight in general, but the clarity that follows a long overcast."},
+        {"q": "What is being compared to it?",
+         "opts": [
+             "The disciple",
+             "The event &mdash; the arising of the stainless, immaculate vision of the teaching",
+             "The teaching itself",
+             "The Saṅgha"],
+         "correct": 1,
+         "expl": "<em>Dhammacakkhu</em> arises rather than being produced."},
+        {"q": "Which three fetters are given up?",
+         "opts": [
+             "Greed, hate, and delusion",
+             "Substantialist view, doubt, and misapprehension of precepts and observances",
+             "Sensual desire, ill will, and dullness",
+             "Conceit, restlessness, and ignorance"],
+         "correct": 1,
+         "expl": "The list is worth noticing for what it does not contain."},
+        {"q": "What is <em>not</em> on that list?",
+         "opts": [
+             "Doubt",
+             "Greed, hate, and sensual desire",
+             "Substantialist view",
+             "Misapprehension of observances"],
+         "correct": 1,
+         "expl": "The first attainment is not the removal of desire."},
+        {"q": "What is the first attainment instead, on this account?",
+         "opts": [
+             "Meditative absorption",
+             "The removal of three misconceptions &mdash; about what one is, about whether the teaching is worth following, and about what the rules are for",
+             "Ethical perfection",
+             "Freedom from rebirth"],
+         "correct": 1,
+         "expl": "Consistent with AN 3.86, where a stream-enterer has fulfilled ethics and limited immersion and wisdom."},
+        {"q": "What two things are given up afterward?",
+         "opts": [
+             "Doubt and conceit",
+             "Covetousness and ill will",
+             "Restlessness and ignorance",
+             "Greed and delusion"],
+         "correct": 1,
+         "expl": "The first two of the five hindrances, and the fetters whose removal marks the non-returner."},
+        {"q": "What comes next in the discourse?",
+         "opts": [
+             "The four noble truths",
+             "The first absorption, in the standard formula",
+             "A verse",
+             "The three knowledges"],
+         "correct": 1,
+         "expl": "A compressed account of the whole middle of the path."},
+        {"q": "How is the final consequence stated?",
+         "opts": [
+             "As a category: the person is a non-returner",
+             "As a hypothetical about the moment of death &mdash; if they passed away at that time, no fetter would return them to this world",
+             "As a promise",
+             "As a warning"],
+         "correct": 1,
+         "expl": "A more careful formulation than a label."},
+        {"q": "Why does the guide say the compression matters?",
+         "opts": [
+             "Because it saves space",
+             "Because the effect is a single arc &mdash; darkness, the sun coming up, the sky clearing &mdash; with nothing presented as a separate achievement",
+             "Because the discourse is old",
+             "Because the simile is famous"],
+         "correct": 1,
+         "expl": "Worth having beside AN 3.86 through 3.88, which sort the same material at length."},
+        {"q": "What does the simile do that a description of fetters cannot?",
+         "opts": [
+             "Name the stages",
+             "Say what the change is like from inside",
+             "Give the order",
+             "Define the terms"],
+         "correct": 1,
+         "expl": "Anyone who has lived through a monsoon knows the sky the discourse means."},
+    ],
+    marginalia=[
+        ("The simile", [
+            "autumn, after the monsoon",
+            "the sky cloudless",
+            "the sun shines, glows, radiates",
+        ]),
+        ("Three fetters", [
+            "<span class=\"pali\">sakkāyadiṭṭhi</span>substantialist view",
+            "<span class=\"pali\">vicikicchā</span>doubt",
+            "<span class=\"pali\">sīlabbataparāmāsa</span>misapprehending observances",
+        ]),
+        ("Not on the list", [
+            "greed",
+            "hate",
+            "sensual desire",
+        ]),
+        ("Cross-references", [
+            "AN 3.86 &middot; the stages correlated",
+            "AN 3.78 &middot; the third fetter&rsquo;s subject",
+            "AN 3.63 &middot; shines, glows, radiates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.94/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.86.html">AN 3.86 &middot; Training (1st)</a> &mdash; for the same attainments '
+        "sorted by which of the three trainings has been fulfilled, which is the analytic version of "
+        "what this discourse gives as a morning.",
+        '<a href="an-3.78.html">AN 3.78 &middot; Precepts and Observances</a> &mdash; for the third '
+        "fetter&rsquo;s subject matter, and Ānanda&rsquo;s criterion for when an observance is "
+        "fruitful.",
+        '<a href="an-3.63.html">AN 3.63 &middot; At Venāgapura</a> &mdash; for the same three verbs, '
+        "used there of a gold pendant on a cream rug.",
+    ],
+)
+
+
+page(
+    95, "Parisā", "Assemblies",
+    vagga=VAGGA_10,
+    meta_title="AN 3.95 — Assemblies | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Parisāsutta — three kinds "
+        "of assembly, and the water running downhill from a mountain to the sea. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three kinds defined, one of them expanded into a chain of consequences and a long "
+                 "simile"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Comparable material on kinds of assembly is preserved in the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; plain, and the simile is the best "
+                       "thing in the chapter"),
+    ],
+    why=(
+        "Three assemblies: the best, the divided, and the harmonious. The first is defined by what "
+        "the senior members do and what everybody else copies; the second by people wounding each "
+        "other with barbed words; the third by a phrase worth keeping &mdash; <em>blending like milk "
+        "and water, and regarding each other with kindly eyes</em>. And then a chain of consequences "
+        "that ends in samādhi, illustrated by rain on a mountain finding its way to the sea."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A community that is not fighting produces a mental state, and the state has a sequence "
+            "that ends in immersion."]),
+        ("The assembly of the best", [
+            "It is defined entirely by the seniors. They are <em>not indulgent or slack, nor are they "
+            "backsliders</em>; they <em>take the lead in seclusion</em>, rousing energy for attaining "
+            "the unattained. And <em>those who come afterwards follow their example</em>, and do the "
+            "same.",
+            "So the mechanism is imitation, as it was in AN 3.48 where a household grows on the "
+            "conduct of the person at its head. The seniors are not described as teaching, "
+            "instructing, or enforcing anything. They go first, and the effect on the assembly is "
+            "produced by their being watched.",
+            "The phrase <em>take the lead in seclusion</em> is worth pausing on. What the seniors lead "
+            "in is going apart, which is not an obviously communal act, and the discourse says an "
+            "assembly is at its best when its most senior members are the ones most often absent for "
+            "the right reason."]),
+        ("The divided assembly", [
+            "One sentence: <em>the mendicants fight, quarrel, and dispute, continually wounding each "
+            "other with barbed words.</em>",
+            "<em>Vitudanti</em>, wounding or stabbing &mdash; the word is for piercing with something "
+            "sharp. And <em>mukhasattīhi</em>, with mouth-daggers. The compound is vivid and the "
+            "canon uses it whenever it describes a community at war with itself.",
+            "There is no explanation and no remedy offered here. The divided assembly is defined and "
+            "left, which is unusual for this collection; AN 2.42&ndash;51 and AN 3.67 have more to "
+            "say about how disputes should be conducted, and this discourse simply names the "
+            "condition."]),
+        ("The harmonious assembly, and what it produces", [
+            "<em>Living in harmony, appreciating each other, without dispute, blending like milk and "
+            "water, and regarding each other with kindly eyes.</em>",
+            "Two of those are images. <em>Khīrodakībhūtā</em>, become like milk and water &mdash; two "
+            "liquids that mix completely and cannot be separated again, which is a stronger claim "
+            "than agreement. And <em>piyacakkhūhi sampassantā</em>, looking at one another with "
+            "affectionate eyes, which is about how people regard each other rather than how they "
+            "behave.",
+            "Then the chain, which is the standard sequence for how a mind settles: they generate "
+            "much merit; they live in a divine dwelling, <em>the heart&rsquo;s release by "
+            "rejoicing</em>; joy produces rapture; rapture tranquilizes the body; the tranquil body "
+            "feels bliss; and the blissful mind becomes immersed in samādhi.",
+            "That chain appears throughout the canon as the natural progression toward concentration, "
+            "and what is remarkable here is its starting point. It usually begins with an individual "
+            "practice. Here it begins with people not fighting.",
+            "The claim, stated plainly, is that communal harmony is a meditation subject &mdash; or "
+            "more exactly, that it produces the joy from which the whole sequence follows. A "
+            "practitioner in a quarrelling community is not merely uncomfortable; they are missing "
+            "the first term of a chain."]),
+        ("The water", [
+            "&ldquo;It&rsquo;s like when the heavens rain heavily on a mountain top, and the water "
+            "flows downhill to fill the hollows, crevices, and creeks. As they become full, they fill "
+            "up the pools. The pools fill up the lakes, the lakes fill up the streams, and the "
+            "streams fill up the rivers. And as the rivers become full, they fill up the sea.&rdquo;",
+            "Six stages of filling, each one overflowing into the next, and nothing is pushed. The "
+            "water does one thing &mdash; it runs downhill &mdash; and the sequence follows from the "
+            "landscape.",
+            "That is exactly the structure of the chain it illustrates. Joy is not converted into "
+            "rapture by an effort; the rapture is what happens when the joy is full. And the reason "
+            "the simile is better than the list is that it makes the overflowing visible: nothing "
+            "moves to the next stage until the current one is filled.",
+            "It is also, quietly, an argument about scale. The rain falls on a mountain top and ends "
+            "in the sea. A community that stops quarrelling is a small local event, and the simile "
+            "says where small local events go."]),
+        ("Using it", [
+            "For anyone responsible for a group &mdash; a school, a temple, a team &mdash; this is "
+            "the most directly usable discourse in the chapter, and the three types are a diagnostic "
+            "that takes ten seconds to apply.",
+            "The teaching point to keep is the chain&rsquo;s starting position. It is easy to treat "
+            "getting along as a precondition for the real work; this discourse treats it as the first "
+            "step of the real work, with the rest following the way water finds the sea."]),
+    ],
+    terms=[
+        ("aggavatī parisā",
+         "&ldquo;an assembly of the best&rdquo; &mdash; defined entirely by what the senior members "
+         "do and what everybody else copies."),
+        ("vaggā parisā",
+         "&ldquo;a divided assembly&rdquo; &mdash; defined in one sentence and left without remedy."),
+        ("mukhasattīhi vitudanti",
+         "&ldquo;wounding with barbed words&rdquo; &mdash; literally stabbing with mouth-daggers."),
+        ("khīrodakībhūtā",
+         "&ldquo;blending like milk and water&rdquo; &mdash; two liquids that mix completely and "
+         "cannot be separated again. A stronger claim than agreement."),
+        ("muditā cetovimutti",
+         "&ldquo;the heart&rsquo;s release by rejoicing&rdquo; &mdash; the divine dwelling a "
+         "harmonious assembly is said to live in, and the first term of the chain that ends in "
+         "samādhi."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three assemblies"),
+        ("p", "&sect;1", "an3.95:1.1-1.3"),
+        ("p", "&sect;2", "an3.95:2.1-2.4"),
+        ("p", "&sect;3", "an3.95:3.1-3.2"),
+        ("p", "&sect;4", "an3.95:4.1-4.2"),
+        ("h3", "What harmony produces"),
+        ("p", "&sect;5", "an3.95:5.1-5.3"),
+        ("h3", "Rain on a mountain"),
+        ("p", "&sect;6", "an3.95:6.1"),
+        ("p", "&sect;7", "an3.95:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What are the three assemblies?",
+         "opts": [
+             "Large, small, and mixed",
+             "An assembly of the best, a divided assembly, and a harmonious assembly",
+             "Monastic, lay, and divine",
+             "Senior, middle, and junior"],
+         "correct": 1,
+         "expl": "The first defined by its seniors, the second in one sentence, the third by two images."},
+        {"q": "How is the assembly of the best defined?",
+         "opts": [
+             "By its size",
+             "Entirely by what the senior mendicants do &mdash; taking the lead in seclusion, rousing energy &mdash; and by those who come afterwards following their example",
+             "By its teaching",
+             "By its wealth"],
+         "correct": 1,
+         "expl": "The mechanism is imitation, as in AN 3.48."},
+        {"q": "What do the guide and the discourse say the seniors lead in?",
+         "opts": [
+             "Teaching",
+             "Discipline",
+             "Seclusion &mdash; so an assembly is at its best when its most senior members are the ones most often absent for the right reason",
+             "Almsround"],
+         "correct": 2,
+         "expl": "Not an obviously communal act."},
+        {"q": "How is the divided assembly described?",
+         "opts": [
+             "At length, with remedies",
+             "In one sentence: they fight, quarrel, and dispute, continually wounding each other with barbed words",
+             "As irredeemable",
+             "As rare"],
+         "correct": 1,
+         "expl": "Defined and left, which is unusual for this collection."},
+        {"q": "What does <em>khīrodakībhūtā</em> mean?",
+         "opts": [
+             "&ldquo;Agreeing&rdquo;",
+             "&ldquo;Blending like milk and water&rdquo; &mdash; two liquids that mix completely and cannot be separated again",
+             "&ldquo;Sharing food&rdquo;",
+             "&ldquo;Living together&rdquo;"],
+         "correct": 1,
+         "expl": "A stronger claim than agreement."},
+        {"q": "What chain does harmony produce?",
+         "opts": [
+             "Merit, a heavenly rebirth, and praise",
+             "Merit, the heart&rsquo;s release by rejoicing, joy, rapture, tranquility, bliss, and samādhi",
+             "Ethics, immersion, and wisdom",
+             "Faith, energy, and mindfulness"],
+         "correct": 1,
+         "expl": "The standard sequence for how a mind settles."},
+        {"q": "What is remarkable about the chain&rsquo;s starting point here?",
+         "opts": [
+             "That it begins with merit",
+             "That it usually begins with an individual practice, and here it begins with people not fighting",
+             "That it ends in samādhi",
+             "That it names rapture"],
+         "correct": 1,
+         "expl": "Communal harmony is being treated as producing the joy from which the sequence follows."},
+        {"q": "What does the simile describe?",
+         "opts": [
+             "A flood",
+             "Rain on a mountain top filling hollows, then pools, lakes, streams, rivers, and the sea &mdash; each overflowing into the next",
+             "An irrigation system",
+             "A monsoon"],
+         "correct": 1,
+         "expl": "The water does one thing &mdash; runs downhill &mdash; and the sequence follows from the landscape."},
+        {"q": "What does the simile make visible that the list does not?",
+         "opts": [
+             "The overflowing &mdash; nothing moves to the next stage until the current one is filled",
+             "The speed",
+             "The distance",
+             "The season"],
+         "correct": 0,
+         "expl": "Joy is not converted into rapture by an effort; the rapture is what happens when the joy is full."},
+        {"q": "What teaching point does the guide say should be kept?",
+         "opts": [
+             "That seniors should teach more",
+             "That getting along is not a precondition for the real work but the first step of it, with the rest following the way water finds the sea",
+             "That disputes should be judged",
+             "That assemblies should be small"],
+         "correct": 1,
+         "expl": "Directly usable for anyone responsible for a group."},
+    ],
+    marginalia=[
+        ("Three assemblies", [
+            "the best &middot; seniors lead, others follow",
+            "divided &middot; mouth-daggers",
+            "harmonious &middot; milk and water",
+        ]),
+        ("The chain", [
+            "rejoicing &rarr; joy &rarr; rapture",
+            "&rarr; tranquility &rarr; bliss",
+            "&rarr; samādhi",
+        ]),
+        ("The water", [
+            "hollows, crevices, creeks",
+            "pools, lakes, streams",
+            "rivers &rarr; the sea",
+        ]),
+        ("Cross-references", [
+            "AN 2.42&ndash;51 &middot; assemblies, in the Twos",
+            "AN 3.48 &middot; growth by imitation",
+            "AN 3.67 &middot; how a discussion goes",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.95/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-2.42-51.html">AN 2.42&ndash;51 &middot; Assemblies</a> &mdash; the Twos on the '
+        "same subject, including the test of whether an assembly questions and examines a teaching "
+        "afterward.",
+        '<a href="an-3.67.html">AN 3.67 &middot; Topics of Discussion</a> &mdash; for what the canon '
+        "says about how a disagreement should be conducted, which this discourse names as a condition "
+        "and does not treat.",
+        '<a href="an-3.48.html">AN 3.48 &middot; The King of Mountains</a> &mdash; for the same '
+        "mechanism of imitation, applied there to a household rather than to an assembly.",
+    ],
+)
