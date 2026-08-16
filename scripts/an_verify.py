@@ -122,6 +122,16 @@ def verify(page):
         for i, (a, b) in enumerate(zip(got, expected), 1):
             check(a == b, "%s: paragraph %d does not match bilara-data\n"
                           "   got: %r\n   exp: %r" % (slug, i, a[:120], b[:120]))
+        # Independent of segments(): no source heading may appear as body text.
+        # Both sides of the comparison above run through the same filter, so a
+        # bug there would agree with itself; this catches it.
+        heads = [(k, v.strip()) for k, v in src.items()
+                 if an_build.is_structural(k, v) and v.strip()]
+        for i, para in enumerate(got, 1):
+            for key, head in heads:
+                check(not para.startswith(head),
+                      "%s: paragraph %d opens with heading %s (%r)"
+                      % (slug, i, key, head[:60]))
 
 
 def main():

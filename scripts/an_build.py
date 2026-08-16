@@ -63,16 +63,24 @@ def load_source(rel):
         return json.load(fh)
 
 
-NUMBER_ONLY = re.compile(r"^\d+\s*[-–]?\s*\d*$")
-
-
 def is_structural(key, value):
-    """Titles (:0.x) and the bare sutta number or number range (:1.0) inside
-    grouped files are navigation furniture, not discourse text. The segno
-    carries the number."""
+    """Headings are navigation furniture, not discourse text.
+
+    In bilara-data a segment whose sub-key ends in `.0` is a heading: `0.x` is
+    the file heading, and `N.0` is the label of a division within it — a bare
+    number in the Ones, a numbered title from the Twos on. Across the whole of
+    AN no such segment runs longer than a dozen words. The segno carries the
+    number, and the guide supplies its own section headings."""
     sub = key.split(":")[1]
-    return sub.startswith("0.") or (sub == "1.0"
-                                    and NUMBER_ONLY.match(value.strip()))
+    return sub.startswith("0.") or sub.endswith(".0")
+
+
+def heading(src, uid):
+    """The heading the source gives a discourse, minus its leading number."""
+    for key, value in src.items():
+        if key.split(":")[0] == uid and key.split(":")[1] == "1.0":
+            return re.sub(r"^[\d–-]+\.\s*", "", value.strip())
+    return ""
 
 
 def segments(src, spec):
