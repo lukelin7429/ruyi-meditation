@@ -2659,3 +2659,2589 @@ PAGES.append({
         "Realized One, which is the question AN 1.132&ndash;139 makes urgent.",
     ],
 })
+
+
+# --------------------------------------------------------------------------- #
+# AN 1.140–149 — Adhammavagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.140-149",
+    "index_pali": "Adhamma",
+    "nav_title": "Not the Teaching",
+    "source": "an1/an1.140-149",
+    "crumb": "AN 1.140&ndash;149",
+    "meta_title": "AN 1.140–149 — Not the Teaching | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Adhammavagga, the "
+        "eleventh chapter of the Aṅguttara Nikāya — the exact positive mirror of the ten "
+        "misrepresentation entries before it, in which accurately reporting what the Buddha "
+        "did and did not say is itself said to generate merit and keep the teaching alive. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.140&ndash;149",
+    "title": "Not the Teaching",
+    "subtitle": "<em>Adhammavagga</em> &mdash; the eleventh chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten discourses, abbreviated in the canonical manner into three entries; each "
+                 "is the exact positive counterpart of one entry in AN 1.130&ndash;139"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The paired warning and commendation about representing the teaching "
+                              "accurately is found across the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a single sentence with ten "
+                       "substitutions, and no new vocabulary"),
+    ],
+    "why": (
+        "The previous chapter said that misrepresenting the teaching &mdash; in either direction "
+        "&mdash; makes it disappear. This one says the opposite with the same care: those who explain "
+        "what is not the teaching as not the teaching, and what is the teaching as the teaching, act "
+        "for the welfare of gods and humans, &ldquo;brim with much merit,&rdquo; and make the true "
+        "teaching continue. Stated on its own that sounds unremarkable. Stated as the deliberate mirror "
+        "of the previous chapter, it makes a claim worth stopping on: getting the record right is not a "
+        "precondition of practice or a scholarly hygiene requirement. It is itself listed among the "
+        "things that produce merit."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Reporting accurately what is and is not the teaching, what is and is not in the monastic "
+            "law, and what the Buddha did and did not say, practice, and prescribe is meritorious work "
+            "that keeps the tradition alive."]),
+        ("An exact mirror", [
+            "Every entry here answers an entry in AN 1.130&ndash;139 word for word, with only the "
+            "predicate reversed. Where the previous chapter had <em>explain what is not the teaching as "
+            "the teaching</em>, this has <em>explain what is not the teaching as not the teaching</em>. "
+            "Five pairs of possible error become five pairs of possible accuracy, and the closing "
+            "formula flips from &ldquo;brim with much wickedness and make the true teaching "
+            "disappear&rdquo; to &ldquo;brim with much merit and make the true teaching continue.&rdquo;",
+            "The Aṅguttara does this constantly, and it is easy to skim past as mechanical. It is not "
+            "quite mechanical. Stating a negative alone leaves an ambiguity &mdash; is the opposite "
+            "merely not-bad, or actively good? Mirroring the chapter answers that. Accuracy about the "
+            "tradition is not the absence of a fault. It is a positive contribution with a named "
+            "result."]),
+        ("What is being called meritorious", [
+            "It is worth being precise about the claim, because it is more specific than &ldquo;telling "
+            "the truth is good.&rdquo; The five pairs concern: what is and is not the teaching; what is "
+            "and is not found in the monastic law; what the Realized One did and did not say; what he "
+            "did and did not practice; and what he did and did not prescribe. These are questions of "
+            "attribution &mdash; who said what, what carries whose authority &mdash; rather than "
+            "questions of doctrine.",
+            "So what is being commended is something close to editorial integrity: knowing the "
+            "difference between the tradition and your own reading of it, and marking that difference "
+            "when you speak. That is an unglamorous virtue and the canon puts it beside generosity and "
+            "meditation on the list of things that produce merit.",
+            "The symmetry from the previous chapter still applies here in the positive direction. It is "
+            "as meritorious to say correctly that something was <em>not</em> spoken by the Buddha as to "
+            "say correctly that it was. Deflating a false attribution counts exactly as much as "
+            "confirming a true one."]),
+        ("Why this matters more than it used to", [
+            "In an oral tradition the danger was drift: a phrase remembered slightly wrong, an "
+            "explanation hardening into a quotation. In a written one it became attribution: texts "
+            "circulating under names that did not produce them. In the present it is something new "
+            "again. Anyone can now generate fluent Buddhist-sounding prose in seconds, in any voice, "
+            "with no mechanism at all connecting it to a source, and much of what circulates online as "
+            "&ldquo;the Buddha said&rdquo; was never said by anyone.",
+            "This chapter does not anticipate that, and it would be silly to pretend it does. But the "
+            "standard it sets is exactly the relevant one, and it is a demanding one: not "
+            "&ldquo;is this inspiring&rdquo; or even &ldquo;is this true,&rdquo; but &ldquo;is this "
+            "what was actually said, and am I representing my confidence about that "
+            "honestly?&rdquo; This site&rsquo;s own note on how its translations are made, linked "
+            "below, exists for this reason."]),
+        ("Teaching this chapter", [
+            "Because the two chapters are mirrors, they are best taught together and in the order the "
+            "canon gives them &mdash; the warning first, then the commendation. Read the other way "
+            "round, the warning sounds like a threat appended to good advice. Read in order, the "
+            "commendation is a release: having just been told how much damage misrepresentation does, a "
+            "listener is relieved to hear that the ordinary careful work of getting it right counts for "
+            "something.",
+            "A concrete exercise that works well: give a group three or four sayings widely circulated "
+            "as the Buddha&rsquo;s, at least one of which is genuine and at least one of which is not, "
+            "and ask them to sort. Almost nobody can, and the discovery that they cannot is the point of "
+            "both chapters."]),
+    ],
+    "terms": [
+        ("adhamma / dhamma",
+         "&ldquo;not the teaching&rdquo; and &ldquo;the teaching&rdquo; &mdash; the first pair, and the "
+         "source of the chapter&rsquo;s Pāli name even though its content is the positive case."),
+        ("puñña",
+         "&ldquo;merit&rdquo; &mdash; what those who report accurately are said to brim with. The same "
+         "word used of generosity and meditation elsewhere; accuracy is placed on that list."),
+        ("Tathāgata",
+         "&ldquo;the Realized One&rdquo; &mdash; the Buddha&rsquo;s usual term for himself in these "
+         "formulas. Three of the five pairs concern what he did and did not say, practice, and prescribe."),
+        ("saddhammaṭṭhiti",
+         "&ldquo;the continuation of the true teaching&rdquo; &mdash; the positive counterpart of the "
+         "<em>antaradhāna</em>, disappearance, that the previous chapter warned of."),
+        ("peyyāla",
+         "the canonical abbreviation convention. Eight of this chapter&rsquo;s ten discourses are "
+         "transmitted as a single entry with the varying terms listed, which is why one paragraph below "
+         "carries a range."),
+    ],
+    "text_intro": (
+        "All ten discourses of the chapter. The last paragraph carries a range rather than a single "
+        "number because the canon abbreviates its eight repeated discourses into one entry. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Teaching and not-teaching (AN 1.140&ndash;141)"),
+        ("p", "&sect;140", "an1.140"),
+        ("p", "&sect;141", "an1.141"),
+        ("h3", "The monastic law, and what the Buddha said, practiced, and prescribed (AN 1.142&ndash;149)"),
+        ("p", "&sect;142&ndash;149", "an1.142-149"),
+    ],
+    "quiz": [
+        {"q": "What relation does this chapter have to AN 1.130&ndash;139?",
+         "opts": [
+             "It corrects and replaces it",
+             "It is its exact positive mirror &mdash; every entry answers one entry there with only the predicate reversed",
+             "It is unrelated material placed here by chance",
+             "It restricts the earlier claims to monastics only"],
+         "correct": 1,
+         "expl": "Five pairs of possible error become five pairs of possible accuracy."},
+        {"q": "What does the closing formula become in this chapter?",
+         "opts": [
+             "&ldquo;Brim with much merit and make the true teaching continue&rdquo;",
+             "&ldquo;Will be reborn in a heavenly realm&rdquo;",
+             "&ldquo;Are worthy of the highest offerings&rdquo;",
+             "&ldquo;Have completed the spiritual life&rdquo;"],
+         "correct": 0,
+         "expl": "Flipped from &ldquo;brim with much wickedness and make the true teaching disappear.&rdquo;"},
+        {"q": "Why does the guide say the mirroring is not merely mechanical?",
+         "opts": [
+             "Because the wording differs substantially",
+             "Because a negative alone leaves it ambiguous whether the opposite is merely not-bad or actively good, and the mirror answers that",
+             "Because the two chapters were spoken years apart",
+             "Because only one of them is authentic"],
+         "correct": 1,
+         "expl": "Accuracy about the tradition is a positive contribution with a named result, not the absence of a fault."},
+        {"q": "What kind of questions do the five pairs actually concern?",
+         "opts": [
+             "Questions of meditative attainment",
+             "Questions of monastic seniority",
+             "Questions of attribution &mdash; who said what, and what carries whose authority",
+             "Questions of cosmology"],
+         "correct": 2,
+         "expl": "Not doctrine as such: the pairs are about the record."},
+        {"q": "How does the guide characterize the virtue being commended?",
+         "opts": [
+             "Something close to editorial integrity &mdash; knowing the difference between the tradition and your own reading of it, and marking that difference when you speak",
+             "Silence about all doctrinal questions",
+             "Unquestioning acceptance of one&rsquo;s teacher",
+             "Zeal in refuting other schools"],
+         "correct": 0,
+         "expl": "An unglamorous virtue that the canon puts beside generosity and meditation."},
+        {"q": "Does the chapter treat deflating a false attribution as less valuable than confirming a true one?",
+         "opts": [
+             "Yes, confirming is treated as more meritorious",
+             "Yes, deflating is treated as blameworthy",
+             "No &mdash; saying correctly that something was <em>not</em> spoken by the Buddha counts exactly as much as saying correctly that it was",
+             "The chapter does not address the question"],
+         "correct": 2,
+         "expl": "The symmetry of the previous chapter carries over into the positive direction."},
+        {"q": "How does the reading guide describe the modern form of this problem?",
+         "opts": [
+             "That the texts have all been lost",
+             "That fluent Buddhist-sounding prose can now be generated in seconds in any voice with no mechanism connecting it to a source, and much of what circulates as &ldquo;the Buddha said&rdquo; was never said by anyone",
+             "That translation into English is impossible",
+             "That the problem has been solved by modern scholarship"],
+         "correct": 1,
+         "expl": "The chapter does not anticipate this, but the standard it sets is the relevant one."},
+        {"q": "What standard does the guide draw from the chapter?",
+         "opts": [
+             "&ldquo;Is this inspiring?&rdquo;",
+             "&ldquo;Does this agree with my teacher?&rdquo;",
+             "&ldquo;Is this what was actually said, and am I representing my confidence about that honestly?&rdquo;",
+             "&ldquo;Is this popular?&rdquo;"],
+         "correct": 2,
+         "expl": "A demanding standard, and the reason this site publishes a note on how its translations are made."},
+        {"q": "In what order does the guide recommend teaching the two chapters?",
+         "opts": [
+             "The commendation first, then the warning",
+             "The order the canon gives them &mdash; warning first, then commendation &mdash; so the commendation lands as a release rather than the warning as a threat",
+             "Separately, months apart",
+             "Only the commendation should be taught"],
+         "correct": 1,
+         "expl": "Read the other way round, the warning sounds like a threat appended to good advice."},
+        {"q": "What classroom exercise does the guide suggest?",
+         "opts": [
+             "Memorizing the Pāli of all ten entries",
+             "Debating whether the Buddha existed",
+             "Giving a group several widely circulated &ldquo;Buddha sayings,&rdquo; some genuine and some not, and asking them to sort &mdash; the discovery that almost nobody can is the point",
+             "Copying the chapter out by hand"],
+         "correct": 2,
+         "expl": "It makes both chapters concrete in about five minutes."},
+    ],
+    "marginalia": [
+        ("Five pairs, correctly", [
+            "not-teaching as not-teaching",
+            "not in the law as not in it",
+            "unsaid as unsaid",
+            "unpracticed as unpracticed",
+            "unprescribed as unprescribed",
+            "&mdash; and each in reverse",
+        ]),
+        ("The reward", [
+            "<span class=\"pali\">puñña</span>merit",
+            "the same word used of generosity",
+            "&ldquo;make the true teaching continue&rdquo;",
+        ]),
+        ("The standard", [
+            "not: is this inspiring",
+            "not even: is this true",
+            "but: is this what was said",
+        ]),
+        ("Cross-references", [
+            "AN 1.98&ndash;139 &middot; the warning",
+            "AN 1.150&ndash;169 &middot; next: the same, in Vinaya",
+            "This site&rsquo;s translation method",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.140-149/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.98-139.html">AN 1.98&ndash;139 &middot; Negligence, Again</a> &mdash; previous in '
+        "this series, and the chapter this one mirrors entry for entry.",
+        '<a href="/dharma/translation-method/">How these translations are made</a> &mdash; this '
+        "site&rsquo;s own account of what it does and does not claim about the texts it publishes, "
+        "written to the standard AN 1.140&ndash;149 sets.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; what a '
+        "listener is supposed to do when the people explaining the teaching disagree with each other.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 1.150–169 — Anāpattivagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.150-169",
+    "index_pali": "Anāpatti",
+    "nav_title": "Non-offense",
+    "source": "an1/an1.150-169",
+    "crumb": "AN 1.150&ndash;169",
+    "meta_title": "AN 1.150–169 — Non-offense | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Anāpattivagga, the "
+        "twelfth chapter of the Aṅguttara Nikāya — twenty discourses applying the "
+        "misrepresentation formula to monastic discipline, where getting the severity of an "
+        "offense wrong in either direction is said to make the true teaching disappear. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.150&ndash;169",
+    "title": "Non-offense",
+    "subtitle": "<em>Anāpattivagga</em> &mdash; the twelfth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Twenty discourses, abbreviated in the canonical manner into six entries: ten "
+                 "misjudgments of monastic offenses, then the same ten judged correctly"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The Vinaya traditions preserved in Chinese, the Dharmaguptaka above "
+                              "all, work with the same categories of offense; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the sentences are simple, but the "
+                       "five categories of offense they turn on are technical Vinaya vocabulary"),
+    ],
+    "why": (
+        "The two chapters before this one were about representing the teaching accurately. This one "
+        "narrows the same principle to a place where it bites hardest: judging monastic offenses. "
+        "Calling a non-offense an offense, or a serious one light, or a redeemable one irredeemable "
+        "&mdash; each of these, the chapter says, does the same damage as misquoting the Buddha "
+        "outright. For readers with no interest in monastic law that may sound like a technicality. It "
+        "is actually one of the more humane passages in the Ones, because it insists with equal force "
+        "in both directions: severity misapplied is exactly as destructive as leniency misapplied, and "
+        "neither is the safe option."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "In monastic discipline, judging an offense wrongly in either direction &mdash; harsher or "
+            "milder than it is &mdash; harms everyone and makes the teaching disappear; judging it "
+            "accurately does the opposite."]),
+        ("The five distinctions", [
+            "Each half of the chapter runs through the same five distinctions. Whether there is an "
+            "offense at all (<em>āpatti</em> or <em>anāpatti</em>). Whether it is light or serious "
+            "(<em>lahuka</em> or <em>garuka</em>). Whether it is <em>duṭṭhulla</em> or not &mdash; a "
+            "term Sujato renders &ldquo;committed with corrupt intention,&rdquo; and which in Vinaya "
+            "usage marks the gravest classes of offense. Whether it is <em>sāvasesa</em> or "
+            "<em>anavasesa</em>, literally &ldquo;with remainder&rdquo; or &ldquo;without&rdquo; "
+            "&mdash; that is, whether anything of the monastic life survives it. And whether it is "
+            "<em>sappaṭikamma</em> or <em>appaṭikamma</em>: whether it can be made good by a formal "
+            "procedure or cannot.",
+            "The English renderings of the last three are worth treating with some care. Vinaya "
+            "vocabulary is technical and the translations in circulation differ; a reader who wants to "
+            "work with these categories seriously should go to a Vinaya commentary rather than to a "
+            "one-line English gloss. What is not in doubt is the shape of the list: it moves from "
+            "whether there was an offense at all, through how grave it was, to whether it can be "
+            "repaired."]),
+        ("Both directions, with equal force", [
+            "The structure is the same one AN 1.130&ndash;139 used, and the same lesson applies with "
+            "more force here. Explaining a non-offense as an offense comes first &mdash; before "
+            "explaining an offense as a non-offense. Calling a light offense serious comes before "
+            "calling a serious one light. In every pair, the error of excessive severity is named "
+            "first.",
+            "That ordering is unlikely to be an accident, and it is a corrective to an instinct most "
+            "communities have. Where discipline is taken seriously, erring on the side of strictness "
+            "feels safe: nobody gets blamed for holding a high standard. This chapter removes that "
+            "cover. A community that treats minor faults as grave is destroying the teaching by the same "
+            "mechanism, and to the same degree, as one that waves grave faults through."]),
+        ("Why the stakes are set so high", [
+            "The formula attached to each entry is the strongest the Aṅguttara has: acting for the harm "
+            "of the many, against the many, for the suffering of gods and humans, brimming with "
+            "wickedness, making the true teaching disappear. Applied to a question about how to classify "
+            "a disciplinary infraction, that can look wildly disproportionate.",
+            "It is less so if the reasoning is spelled out. A monastic community is the mechanism by "
+            "which the teaching is transmitted; the Vinaya is the mechanism by which that community "
+            "holds together; and the classification of offenses is the mechanism by which the Vinaya "
+            "actually operates. Corrupt the classification and everything downstream of it becomes "
+            "unreliable &mdash; not because the individual judgment matters cosmically, but because a "
+            "rule system nobody can predict is not a rule system. The chapter is making an "
+            "institutional argument, not a moral one."]),
+        ("Reading this as a layperson", [
+            "Most readers of this page will never sit in a monastic disciplinary proceeding, and it is "
+            "worth saying that the chapter is not written for them. But the principle it isolates "
+            "travels: whenever a community has rules, the accurate classification of what has actually "
+            "gone wrong is a distinct virtue from either mercy or firmness, and it is the one the "
+            "chapter names.",
+            "There is also a useful corrective here to a misreading of Buddhism common among Western "
+            "students, in which the tradition is imagined as being uninterested in rules and concerned "
+            "only with inner states. The Vinaya is a third of the canon, and passages like this one "
+            "treat the correct handling of procedure as continuous with the correct handling of "
+            "doctrine. The Chinese tradition, if anything, took this even more seriously; the Nanshan "
+            "school built an entire scholastic literature on exactly the kind of classification this "
+            "chapter says must not be got wrong."]),
+    ],
+    "terms": [
+        ("āpatti / anāpatti",
+         "&ldquo;offense&rdquo; and &ldquo;non-offense&rdquo; &mdash; the first and most basic "
+         "distinction, and the one the chapter is named after."),
+        ("lahuka / garuka",
+         "&ldquo;light&rdquo; and &ldquo;serious&rdquo; &mdash; the gravity of an offense, once one is "
+         "established."),
+        ("duṭṭhulla",
+         "rendered by Sujato &ldquo;committed with corrupt intention&rdquo;; in Vinaya usage the term "
+         "marks the gravest classes of offense. Renderings in circulation differ, and a reader working "
+         "with the category seriously should consult a Vinaya commentary."),
+        ("sāvasesa / anavasesa",
+         "literally &ldquo;with remainder&rdquo; and &ldquo;without remainder&rdquo; &mdash; whether "
+         "anything of the monastic life survives the offense. Sujato renders the pair in terms of "
+         "whether rehabilitation is required."),
+        ("sappaṭikamma / appaṭikamma",
+         "&ldquo;with redress&rdquo; and &ldquo;without redress&rdquo; &mdash; whether the offense can "
+         "be made good by a formal procedure or cannot."),
+    ],
+    "text_intro": (
+        "All twenty discourses of the chapter. Four paragraphs below carry ranges rather than single "
+        "numbers because the canon abbreviates its repeated discourses; the first half judges wrongly "
+        "and the second half judges correctly, in the same order. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Judged wrongly (AN 1.150&ndash;159)"),
+        ("p", "&sect;150", "an1.150"),
+        ("p", "&sect;151", "an1.151"),
+        ("p", "&sect;152&ndash;159", "an1.152-159"),
+        ("h3", "Judged rightly (AN 1.160&ndash;169)"),
+        ("p", "&sect;160", "an1.160"),
+        ("p", "&sect;161", "an1.161"),
+        ("p", "&sect;162&ndash;169", "an1.162-169"),
+    ],
+    "quiz": [
+        {"q": "What does this chapter apply the misrepresentation formula to?",
+         "opts": [
+             "The classification of monastic offenses",
+             "The dating of the Buddha&rsquo;s life",
+             "The order of the four noble truths",
+             "The rules for lay generosity"],
+         "correct": 0,
+         "expl": "The same principle as the two chapters before it, narrowed to where it bites hardest."},
+        {"q": "Which distinction comes first in the chapter&rsquo;s list?",
+         "opts": [
+             "Whether the offense can be redressed",
+             "Whether there is an offense at all &mdash; <em>āpatti</em> or <em>anāpatti</em>",
+             "Whether the offender was ordained",
+             "Whether the offense was witnessed"],
+         "correct": 1,
+         "expl": "The list moves from whether there was an offense, through how grave, to whether it can be repaired."},
+        {"q": "In every pair, which error is named first?",
+         "opts": [
+             "The error of leniency",
+             "Neither &mdash; the order varies",
+             "The error of excessive severity",
+             "The error of ignorance"],
+         "correct": 2,
+         "expl": "Non-offense called an offense before offense called a non-offense; light called serious before serious called light."},
+        {"q": "What instinct does that ordering correct?",
+         "opts": [
+             "The instinct to avoid rules entirely",
+             "The instinct that erring on the side of strictness is safe, because nobody gets blamed for holding a high standard",
+             "The instinct to consult a teacher",
+             "The instinct to forgive quickly"],
+         "correct": 1,
+         "expl": "The chapter removes that cover: excessive severity destroys the teaching by the same mechanism as excessive leniency."},
+        {"q": "What do <em>sāvasesa</em> and <em>anavasesa</em> literally mean?",
+         "opts": [
+             "&ldquo;Public&rdquo; and &ldquo;private&rdquo;",
+             "&ldquo;Intentional&rdquo; and &ldquo;unintentional&rdquo;",
+             "&ldquo;With remainder&rdquo; and &ldquo;without remainder&rdquo; &mdash; whether anything of the monastic life survives the offense",
+             "&ldquo;Recent&rdquo; and &ldquo;long past&rdquo;"],
+         "correct": 2,
+         "expl": "Sujato renders the pair in terms of whether rehabilitation is required."},
+        {"q": "What does the reading guide advise about the English renderings of the technical terms?",
+         "opts": [
+             "That they are settled and uncontroversial",
+             "That renderings in circulation differ, and a reader working with these categories seriously should consult a Vinaya commentary rather than a one-line gloss",
+             "That the Pāli should be ignored",
+             "That the terms are untranslatable and should be skipped"],
+         "correct": 1,
+         "expl": "What is not in doubt is the shape of the list, whatever the individual glosses."},
+        {"q": "Why does the chapter attach such severe consequences to a classificatory question?",
+         "opts": [
+             "Because individual judgments have cosmic weight",
+             "Because the community transmits the teaching, the Vinaya holds the community together, and classification is how the Vinaya operates &mdash; a rule system nobody can predict is not a rule system",
+             "Because offenses are always intentional",
+             "Because the Buddha personally reviewed every case"],
+         "correct": 1,
+         "expl": "The chapter is making an institutional argument, not a moral one."},
+        {"q": "Who is the chapter written for?",
+         "opts": [
+             "Lay donors deciding where to give",
+             "Kings adjudicating disputes",
+             "Monastics judging monastic offenses &mdash; though the principle it isolates travels to any community with rules",
+             "Translators of the canon"],
+         "correct": 2,
+         "expl": "Accurate classification of what has gone wrong is a distinct virtue from either mercy or firmness."},
+        {"q": "What misreading of Buddhism does the guide say this chapter corrects?",
+         "opts": [
+             "That Buddhism is uninterested in rules and concerned only with inner states",
+             "That Buddhism requires belief in a creator",
+             "That Buddhism is only for monastics",
+             "That Buddhism has no ethical content"],
+         "correct": 0,
+         "expl": "The Vinaya is a third of the canon, and this chapter treats procedure as continuous with doctrine."},
+        {"q": "How did the Chinese tradition take up this kind of material?",
+         "opts": [
+             "By abandoning the Vinaya entirely",
+             "By treating it as applying only in India",
+             "The Nanshan school built an entire scholastic literature on exactly the kind of classification this chapter says must not be got wrong",
+             "By replacing it with Chan encounter dialogue"],
+         "correct": 2,
+         "expl": "If anything the Chinese tradition took the classification question even more seriously."},
+    ],
+    "marginalia": [
+        ("Five distinctions", [
+            "offense or none",
+            "light or serious",
+            "<span class=\"pali\">duṭṭhulla</span>or not",
+            "with remainder or without",
+            "redressable or not",
+        ]),
+        ("Both directions", [
+            "severity misapplied",
+            "leniency misapplied",
+            "&mdash; equally destructive",
+            "severity is named first",
+        ]),
+        ("The argument", [
+            "community transmits the teaching",
+            "Vinaya holds the community",
+            "classification runs the Vinaya",
+        ]),
+        ("Cross-references", [
+            "AN 1.140&ndash;149 &middot; the same, in doctrine",
+            "Nanshan Vinaya for Laypeople",
+            "Hongyi on the Vinaya",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.150-169/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="/sutras/nanshan-lu/index.html">Nanshan Vinaya for Laypeople</a> &mdash; the Chinese '
+        "scholastic tradition of exactly this kind of classification, worked out gate by gate for "
+        "householders.",
+        '<a href="/sutras/hongyi-vinaya-essays.html">Master Hongyi &middot; Nine Essays on the '
+        "Vinaya</a> &mdash; a twentieth-century monk arguing, with some urgency, that getting these "
+        "distinctions right still matters.",
+        '<a href="an-1.140-149.html">AN 1.140&ndash;149 &middot; Not the Teaching</a> &mdash; previous '
+        "in this series, where the same formula is applied to doctrine rather than discipline.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 1.170–187 — Ekapuggalavagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-1.170-187",
+    "index_pali": "Ekapuggala",
+    "nav_title": "One Individual",
+    "source": "an1/an1.170-187",
+    "crumb": "AN 1.170&ndash;187",
+    "meta_title": "AN 1.170–187 — One Individual | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Ekapuggalavagga, "
+        "the thirteenth chapter of the Aṅguttara Nikāya — eighteen discourses on the one "
+        "person whose arising in the world changes what is possible in it, and the one "
+        "disciple said to keep the Wheel of Dhamma rolling. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.170&ndash;187",
+    "title": "One Individual",
+    "subtitle": "<em>Ekapuggalavagga</em> &mdash; the thirteenth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants &mdash; speaking, unusually, "
+                     "almost entirely about himself"),
+        ("Form", "Eighteen discourses on a single formula &mdash; <em>one individual&hellip; what "
+                 "one individual? The Realized One</em> &mdash; closing with a separate entry about "
+                 "Sāriputta"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The one-person formula is preserved in the Chinese Ekottarika-āgama "
+                              "(T125), whose opening chapters cover much of this ground; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the formula is easy, but the "
+                       "superlatives in AN 1.174 and the technical list in AN 1.175&ndash;186 both "
+                       "reward slowing down"),
+    ],
+    "why": (
+        "After a hundred and seventy entries of qualities, factors, and warnings, the Ones arrive at a "
+        "person. This chapter answers the question &ldquo;what single thing?&rdquo; not with a "
+        "disposition but with an individual: the Buddha, whose appearance in the world is said to be "
+        "rare, incomparable, and the condition for a long list of things that could not otherwise "
+        "happen. It is the most devotional chapter in the Ones and the one that sits least comfortably "
+        "with a reading of early Buddhism as a purely psychological program &mdash; which is exactly "
+        "why it is worth reading rather than skipping. It also closes with a single entry about "
+        "Sāriputta that sets up the seven chapters of named disciples to come."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "One person&rsquo;s appearance in the world makes possible what could not otherwise happen "
+            "in it &mdash; and after him, one disciple keeps what he set in motion going."]),
+        ("The formula and its rhythm", [
+            "Every entry runs the same three-beat pattern: a claim about &ldquo;one individual,&rdquo; "
+            "then the question <em>what one individual?</em>, then the answer &mdash; the Realized One, "
+            "the perfected one, the fully awakened Buddha &mdash; followed by the claim restated in "
+            "full. In English the repetition can feel padded. Read aloud, which is how it was meant to "
+            "be received, it works as a call and response, with the answer landing in the same words "
+            "every time.",
+            "The claims themselves escalate. AN 1.170 says he arises for the welfare and happiness of "
+            "the people, out of sympathy for the world. AN 1.171 says such an appearance is rare. "
+            "AN 1.172 calls him an incredible human being &mdash; note <em>human being</em>, which the "
+            "chapter does not soften. AN 1.173 says his death is regretted by many. Then AN 1.174 "
+            "abandons restraint entirely."]),
+        ("The superlatives of AN 1.174", [
+            "&ldquo;Unique, without peer or rival, incomparable, matchless, unrivaled, unequaled, "
+            "without equal, the best of men.&rdquo; Eight terms, several of them near-synonyms, stacked "
+            "without connectives. This is the most emphatic single sentence about the Buddha in the "
+            "Ones, and it is worth being honest that it reads to many modern students as excessive.",
+            "Two observations help without explaining it away. The first is formal: heaped synonyms are "
+            "how emphasis works in this literature, the same way the four immeasurables are described as "
+            "&ldquo;abundant, expansive, limitless&rdquo; rather than simply &ldquo;great.&rdquo; The "
+            "second is that the Pāli phrase behind &ldquo;the best of men&rdquo; is "
+            "<em>dvipadānaṁ aggo</em>, literally &ldquo;foremost of two-footed beings&rdquo; &mdash; "
+            "a formula that classes him with everything that walks upright rather than singling out "
+            "males, though the English inevitably loses that. A teacher reading this passage to a mixed "
+            "group is better off mentioning the Pāli than letting &ldquo;the best of men&rdquo; stand "
+            "unremarked."]),
+        ("What his appearance makes possible (AN 1.175&ndash;186)", [
+            "The longest entry is a list of what appears when he does: a great eye, a great light, a "
+            "great radiance; the six unsurpassable things; the four kinds of textual analysis; the "
+            "penetration of many and diverse elements; the fruit of knowledge and freedom; and the four "
+            "fruits of the path, from stream-entry to perfection.",
+            "The structure of that list is the interesting part. It runs from metaphor (eye, light, "
+            "radiance) through capacity (analysis, penetration) to attainment (the four fruits), and it "
+            "ends on the specific, countable results a practitioner can actually reach. The claim being "
+            "made is not that a great man appeared and was admirable. It is that a set of attainments "
+            "became available that were not available before, and would not be available again if the "
+            "teaching were lost &mdash; which is precisely why the chapters on the disappearance of the "
+            "teaching, a few pages earlier, were so severe."]),
+        ("Reading this without embarrassment", [
+            "Western presentations of early Buddhism have often been shaped by a wish to find, in the "
+            "Pāli canon, a rational and non-devotional core that later tradition supposedly buried under "
+            "veneration. This chapter is a problem for that picture, and pretending otherwise is not "
+            "honest scholarship. The veneration is here, in the oldest stratum, stated at length and "
+            "without apology.",
+            "What can be said accurately is that the veneration has a particular shape. Nothing in these "
+            "eighteen entries asks anyone to worship the Buddha, petition him, or expect anything from "
+            "him. What is claimed is historical and functional: a person appeared, and because he did, "
+            "certain things became possible. The appropriate response the chapter implies is not "
+            "devotion in the sense of feeling, but urgency &mdash; the rarity of the appearance is "
+            "mentioned in the second entry for a reason.",
+            "Readers who know the Lotus Sūtra will recognize where this eventually goes. Its second "
+            "chapter states that the Buddhas appear in the world for one great cause alone, to open "
+            "beings to the Buddha&rsquo;s own insight &mdash; 一大事因緣, one of the most quoted phrases "
+            "in East Asian Buddhism. That is a Mahāyāna development of a question this chapter raises "
+            "and answers more modestly, and reading the two side by side shows the distance travelled "
+            "with unusual clarity."]),
+        ("Sāriputta, and what comes next (AN 1.187)", [
+            "The last entry breaks the chapter&rsquo;s pattern. It is not about the Buddha at all: no "
+            "one, it says, keeps rightly rolling the supreme Wheel of Dhamma that the Realized One set "
+            "rolling like Sāriputta. The image is of a wheel already in motion that requires someone to "
+            "keep turning it.",
+            "Placed here, at the end of a chapter arguing that everything depends on one unrepeatable "
+            "person, this is a deliberate qualification. What the Buddha started does not stop with him, "
+            "and the entry names the specific disciple on whom its continuation rested. It is also the "
+            "hinge into the next seven chapters, which do nothing but name disciples &mdash; monks, "
+            "nuns, laymen, and laywomen &mdash; each foremost in some particular thing. The Ones move "
+            "from the one person to the many people, and AN 1.187 is the sentence that turns the "
+            "corner."]),
+    ],
+    "terms": [
+        ("ekapuggala",
+         "&ldquo;one individual&rdquo; &mdash; the phrase that opens every entry and gives the chapter "
+         "its name. The Ones answer &ldquo;what single thing?&rdquo; here with a person."),
+        ("dvipadānaṁ aggo",
+         "&ldquo;foremost of two-footed beings,&rdquo; Englished as &ldquo;the best of men.&rdquo; A "
+         "formula that classes the Buddha among everything that walks upright rather than singling out "
+         "males; worth mentioning when reading AN 1.174 aloud."),
+        ("paṭisambhidā",
+         "&ldquo;textual analysis&rdquo; &mdash; the four analytical knowledges (of meaning, of "
+         "principle, of language, and of eloquence) that AN 1.175&ndash;186 names among what becomes "
+         "available with a Buddha&rsquo;s appearance."),
+        ("anuttariya",
+         "&ldquo;unsurpassable things&rdquo; &mdash; the six, listed elsewhere in the collection, that "
+         "the same entry includes."),
+        ("dhammacakka",
+         "&ldquo;the Wheel of Dhamma&rdquo; &mdash; set rolling by the Buddha at his first teaching, and "
+         "in AN 1.187 kept rolling by Sāriputta. The image implies motion that must be sustained."),
+    ],
+    "text_intro": (
+        "All eighteen discourses of the chapter. One paragraph carries a range rather than a single "
+        "number because the canon abbreviates twelve repeated discourses into one entry. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The one who arises (AN 1.170&ndash;174)"),
+        ("p", "&sect;170", "an1.170"),
+        ("p", "&sect;171", "an1.171"),
+        ("p", "&sect;172", "an1.172"),
+        ("p", "&sect;173", "an1.173"),
+        ("p", "&sect;174", "an1.174"),
+        ("h3", "What appears with him (AN 1.175&ndash;186)"),
+        ("p", "&sect;175&ndash;186", "an1.175-186"),
+        ("h3", "Keeping the wheel rolling (AN 1.187)"),
+        ("p", "&sect;187", "an1.187"),
+    ],
+    "quiz": [
+        {"q": "How does this chapter answer the Ones&rsquo; standing question, &ldquo;what single thing?&rdquo;",
+         "opts": [
+             "With a meditation technique",
+             "With a person &mdash; the Realized One, the perfected one, the fully awakened Buddha",
+             "With a monastic rule",
+             "With the quality of diligence"],
+         "correct": 1,
+         "expl": "After a hundred and seventy entries of qualities and factors, the Ones arrive at an individual."},
+        {"q": "What three-beat pattern does every entry follow?",
+         "opts": [
+             "A simile, its application, and a verse",
+             "A question, an answer, and a rebuke",
+             "A claim about one individual, the question <em>what one individual?</em>, and the answer, followed by the claim restated",
+             "A setting, a dialogue, and a conversion"],
+         "correct": 2,
+         "expl": "It works as call and response when read aloud, which is how it was meant to be received."},
+        {"q": "What does AN 1.172 call the Buddha?",
+         "opts": [
+             "A god above all gods",
+             "An incredible human being &mdash; and the chapter does not soften &ldquo;human being&rdquo;",
+             "A being beyond all categories",
+             "The creator of the world"],
+         "correct": 1,
+         "expl": "Worth noticing in a chapter otherwise given over to superlatives."},
+        {"q": "How does the reading guide account for the heaped superlatives of AN 1.174?",
+         "opts": [
+             "As a later addition to the text",
+             "As how emphasis works in this literature &mdash; the same way the immeasurables are &ldquo;abundant, expansive, limitless&rdquo; rather than simply &ldquo;great&rdquo;",
+             "As evidence that the passage is inauthentic",
+             "As a mistranslation"],
+         "correct": 1,
+         "expl": "Heaped near-synonyms are a formal device, not an outburst."},
+        {"q": "What does <em>dvipadānaṁ aggo</em>, Englished &ldquo;the best of men,&rdquo; literally mean?",
+         "opts": [
+             "&ldquo;Foremost of two-footed beings&rdquo; &mdash; classing him with everything that walks upright rather than singling out males",
+             "&ldquo;King of the human realm&rdquo;",
+             "&ldquo;Greatest of the Sakyans&rdquo;",
+             "&ldquo;First among ordained monks&rdquo;"],
+         "correct": 0,
+         "expl": "A teacher reading AN 1.174 to a mixed group is better off mentioning the Pāli than letting the English stand unremarked."},
+        {"q": "How is the long list in AN 1.175&ndash;186 structured?",
+         "opts": [
+             "From attainment backward to metaphor",
+             "Alphabetically",
+             "From metaphor (eye, light, radiance) through capacity (analysis, penetration) to attainment, ending on the four fruits of the path",
+             "As a chronological account of the Buddha&rsquo;s career"],
+         "correct": 2,
+         "expl": "It ends on the specific, countable results a practitioner can actually reach."},
+        {"q": "What is the claim that list is actually making?",
+         "opts": [
+             "That a great man appeared and was admirable",
+             "That a set of attainments became available that were not available before and would not be available again if the teaching were lost",
+             "That miracles accompanied his birth",
+             "That other teachers were frauds"],
+         "correct": 1,
+         "expl": "Which is precisely why the chapters on the disappearance of the teaching were so severe."},
+        {"q": "What does the reading guide say about the wish to find a non-devotional core in the Pāli canon?",
+         "opts": [
+             "That it is confirmed by this chapter",
+             "That this chapter is a problem for that picture, and pretending otherwise is not honest &mdash; the veneration is in the oldest stratum, at length and without apology",
+             "That devotion was added by Chinese translators",
+             "That the question cannot be investigated"],
+         "correct": 1,
+         "expl": "What can be said accurately is that the veneration has a particular shape."},
+        {"q": "What shape does that veneration take, according to the guide?",
+         "opts": [
+             "Petition and worship",
+             "Expectation of miracles",
+             "A historical and functional claim &mdash; a person appeared, and because he did certain things became possible; the implied response is urgency, not feeling",
+             "Ritual offerings at shrines"],
+         "correct": 2,
+         "expl": "The rarity of the appearance is mentioned in the second entry for a reason."},
+        {"q": "Why is AN 1.187, on Sāriputta, placed at the end of this chapter?",
+         "opts": [
+             "By accident of numbering",
+             "Because Sāriputta requested it",
+             "As a deliberate qualification &mdash; what the Buddha started does not stop with him &mdash; and as the hinge into the seven chapters of named disciples that follow",
+             "To correct an error in the earlier entries"],
+         "correct": 2,
+         "expl": "The Ones move from the one person to the many people, and this is the sentence that turns the corner."},
+    ],
+    "marginalia": [
+        ("The claims, escalating", [
+            "170 &middot; for the welfare of the world",
+            "171 &middot; rare",
+            "172 &middot; an incredible human being",
+            "173 &middot; his death is regretted",
+            "174 &middot; without equal",
+        ]),
+        ("Eight superlatives", [
+            "unique, without peer, without rival",
+            "incomparable, matchless",
+            "unrivaled, unequaled",
+            "<span class=\"pali\">dvipadānaṁ aggo</span>foremost of the two-footed",
+        ]),
+        ("What appears with him", [
+            "a great eye, light, radiance",
+            "the six unsurpassable things",
+            "the four analytical knowledges",
+            "the four fruits of the path",
+        ]),
+        ("Cross-references", [
+            "Lotus Sūtra 2 &middot; 一大事因緣",
+            "AN 1.188&ndash;197 &middot; next: the disciples",
+            "AN 1.98&ndash;139 &middot; if the teaching is lost",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.170-187/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="/sutras/lotus-sutra/skillful-means-the-buddhas-wisdom.html">Lotus Sūtra 2 &middot; '
+        "Skillful Means</a> &mdash; where the question this chapter raises is answered on a far larger "
+        "scale: the Buddhas appear for one great cause alone, 一大事因緣.",
+        '<a href="an-1.98-139.html">AN 1.98&ndash;139 &middot; Negligence, Again</a> &mdash; why the '
+        "loss of the teaching is treated as a catastrophe, given what AN 1.175&ndash;186 says arrived "
+        "with it.",
+        '<a href="an-1.188-197.html">AN 1.188&ndash;197 &middot; Foremost Monks</a> &mdash; next in '
+        "this series, where the one individual gives way to eighty named ones.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# The Etadagga chapters — AN 1.188–267
+# --------------------------------------------------------------------------- #
+ETADAGGA_PARALLEL = (
+    "The Chinese Ekottarika-āgama (T125) preserves a directly comparable set of chapters "
+    "listing foremost disciples in the same four groups &mdash; monks, nuns, laymen, and "
+    "laywomen &mdash; though its names and categories do not match the Pāli one for one; "
+    "this reading guide does not assert a specific matching sutra number")
+
+PAGES.append({
+    "slug": "an-1.188-197",
+    "index_pali": "Etadagga I",
+    "nav_title": "Foremost Monks (I)",
+    "source": "an1/an1.188-197",
+    "crumb": "AN 1.188&ndash;197",
+    "meta_title": "AN 1.188–197 — Foremost Monks (I) | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the first of the "
+        "Aṅguttara Nikāya's foremost-disciple chapters — Koṇḍañña, Sāriputta, "
+        "Mahāmoggallāna, Mahākassapa, Anuruddha and five others, each named foremost in one "
+        "particular thing. What agga actually claims, and what the Vimalakīrti Sūtra later "
+        "did with the list. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.188&ndash;197",
+    "title": "Foremost Monks (I)",
+    "subtitle": "<em>Etadaggavagga</em> &mdash; the fourteenth chapter of the Ones, first of four on monks",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, naming his own disciples"),
+        ("Form", "Ten single-sentence declarations on one template &mdash; <em>the foremost of my "
+                 "monk disciples in X is Y</em> &mdash; the first written out in full and the rest "
+                 "abbreviated to their variable"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", ETADAGGA_PARALLEL),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; nothing to parse; the work is in "
+                       "knowing who the eighty people are, which takes years and is worth starting"),
+    ],
+    "why": (
+        "For a hundred and eighty-seven entries the Ones have named qualities. Now, for eighty entries "
+        "running, they name people. This is the <em>etadagga</em> list &mdash; &ldquo;this one is "
+        "foremost&rdquo; &mdash; and it is one of the most consequential passages in the canon for "
+        "reasons that have nothing to do with doctrine. It is the reason we know these names at all. "
+        "Every biography, every commentarial story cycle, every later tradition about the great "
+        "disciples grows out of a single line here, and reading the bare list first, before the stories "
+        "attached to it, is the only way to see how little the canon itself actually says."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Each of these ten monks is named foremost in exactly one thing, and the things are not "
+            "commensurable with each other."]),
+        ("What <em>agga</em> claims, and what it does not", [
+            "<em>Etadagga</em> means &ldquo;this is the foremost&rdquo; &mdash; the top, the tip, the "
+            "first of a set. What the formula does is name a person as unsurpassed in one specified "
+            "respect. What it conspicuously does not do is rank anyone overall. Sāriputta is foremost "
+            "in great wisdom and Mahāmoggallāna in psychic power; nothing in the list says which of "
+            "those is the better thing to be foremost in, and the list makes no attempt to arrange its "
+            "categories in order of importance.",
+            "That matters because the list is often read as a leaderboard, and it does not work as one. "
+            "Bhaddiya the Dwarf is here for having a charming voice. Bhaddiya son of Kāḷīgodhā is here "
+            "for coming from an eminent family &mdash; a fact about his birth, not his practice. Read "
+            "as a ranking of spiritual attainment, entries like those are baffling. Read as what it is "
+            "&mdash; a catalog of distinguishing marks, the way you would describe the members of a "
+            "large community to someone who had to tell them apart &mdash; it is coherent throughout."]),
+        ("The ten in this chapter", [
+            "Koṇḍañña Who Understood is foremost in long standing: he was the first of the five "
+            "ascetics to grasp the first teaching, and his epithet <em>Aññā</em>, &ldquo;who "
+            "understood,&rdquo; commemorates the moment. Sāriputta is foremost in great wisdom, "
+            "Mahāmoggallāna in psychic power &mdash; the two chief disciples, always named as a pair. "
+            "Mahākassapa is foremost among those who advocate austerities, which places the ascetic "
+            "strand of the tradition inside the Saṅgha rather than outside it. Anuruddha is foremost "
+            "in clairvoyance, the divine eye.",
+            "Then the less familiar half. Bhaddiya son of Kāḷīgodhā, foremost among those from eminent "
+            "families. Bhaddiya the Dwarf, foremost in having a charming voice. Bhāradvāja the "
+            "Alms-Gatherer, foremost in the lion&rsquo;s roar &mdash; the canon&rsquo;s image for a "
+            "fearless public declaration. Puṇṇa son of Mantāṇī, foremost among those who speak on the "
+            "teaching. And Mahākaccāna, foremost among those who explain in detail the meaning of a "
+            "brief statement &mdash; a job description rather than a virtue, and one the canon "
+            "illustrates repeatedly by having the Buddha say something compressed, leave, and let "
+            "Mahākaccāna unpack it for the puzzled remainder."]),
+        ("A list that generated a literature", [
+            "It is worth being clear about the direction of causation here. Later Buddhist literature "
+            "is full of elaborate biographies of these figures &mdash; their past lives, their "
+            "conversions, their deaths. Almost none of that is in the canon. What is in the canon is a "
+            "single line each, and the commentarial tradition then wrote outward from those lines, "
+            "explaining how each disciple came to be foremost in that particular thing.",
+            "This is worth saying to students because the stories are usually encountered first and are "
+            "much more memorable than the list. Someone who learns about Mahākassapa from a "
+            "commentarial biography and then reads AN 1.191 will find it thin. Someone who reads AN "
+            "1.191 first, and then the biography, can see exactly what the biography was built to "
+            "explain."]),
+        ("The Mahāyāna answer to this chapter", [
+            "There is one later text that engages this list directly and critically, and it is worth "
+            "reading beside it. In the Vimalakīrti Sūtra, the Buddha asks each of the great disciples "
+            "in turn to visit the sick layman Vimalakīrti, and each declines &mdash; because on a "
+            "previous occasion Vimalakīrti confronted him on precisely the thing he is foremost in, and "
+            "showed that he had understood it too narrowly. Śāriputra is corrected on sitting in "
+            "meditation, Mahākāśyapa on the alms round, Subhūti on being worthy of offerings, Upāli on "
+            "the monastic law, Ānanda on learning.",
+            "That is not a coincidence of plot. The chapter is a systematic response to the "
+            "<em>etadagga</em> list, using its own categories against it, and it only lands if the "
+            "reader already knows the list. Reading these four chapters of the Ones first and the "
+            "Vimalakīrti disciples chapter second is one of the cleanest demonstrations available of "
+            "how Mahāyāna literature works on the early canon &mdash; not by ignoring it, but by "
+            "quoting it precisely and then turning it."]),
+    ],
+    "terms": [
+        ("etadagga",
+         "&ldquo;this one is foremost&rdquo; &mdash; the formula that names the whole set of chapters. "
+         "It claims unsurpassed standing in one specified respect and does not rank anyone overall."),
+        ("aññā",
+         "&ldquo;understanding, final knowledge&rdquo; &mdash; the epithet attached to Koṇḍañña "
+         "commemorating his grasping the first teaching, and the reason he appears here as foremost in "
+         "long standing."),
+        ("dhutaṅga",
+         "the ascetic practices Mahākassapa is foremost in advocating &mdash; optional austerities "
+         "such as living in the forest or wearing rag-robes, kept inside the Saṅgha rather than left to "
+         "outside ascetics."),
+        ("sīhanāda",
+         "&ldquo;the lion&rsquo;s roar&rdquo; &mdash; the canon&rsquo;s image for a fearless public "
+         "declaration, and what Bhāradvāja the Alms-Gatherer is named foremost in."),
+        ("saṅkhittena bhāsitassa vitthārena attha&thinsp;vibhaṅga",
+         "&ldquo;explaining in detail the meaning of what was stated in brief&rdquo; &mdash; "
+         "Mahākaccāna&rsquo;s specialty, and a job description the canon dramatizes more than once."),
+    ],
+    "text_intro": (
+        "All ten declarations of the chapter. The Pāli writes the first out in full and abbreviates the "
+        "rest to their variable term, which Sujato preserves with an ellipsis; each entry is a complete "
+        "discourse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The senior disciples (AN 1.188&ndash;192)"),
+        ("p", "&sect;188", "an1.188"),
+        ("p", "&sect;189", "an1.189"),
+        ("p", "&sect;190", "an1.190"),
+        ("p", "&sect;191", "an1.191"),
+        ("p", "&sect;192", "an1.192"),
+        ("h3", "Birth, voice, and speech (AN 1.193&ndash;197)"),
+        ("p", "&sect;193", "an1.193"),
+        ("p", "&sect;194", "an1.194"),
+        ("p", "&sect;195", "an1.195"),
+        ("p", "&sect;196", "an1.196"),
+        ("p", "&sect;197", "an1.197"),
+    ],
+    "quiz": [
+        {"q": "What does the <em>etadagga</em> formula claim?",
+         "opts": [
+             "That a disciple is the greatest overall",
+             "That a disciple is unsurpassed in one specified respect, with no ranking between the respects",
+             "That a disciple has attained full awakening",
+             "That a disciple is senior in ordination"],
+         "correct": 1,
+         "expl": "The list makes no attempt to arrange its categories in order of importance."},
+        {"q": "Why does the guide say the list does not work as a leaderboard?",
+         "opts": [
+             "Because the names are fictional",
+             "Because entries like &ldquo;from an eminent family&rdquo; and &ldquo;a charming voice&rdquo; are baffling as spiritual rankings but coherent as distinguishing marks",
+             "Because the order was randomized in transmission",
+             "Because only the first five entries are authentic"],
+         "correct": 1,
+         "expl": "It reads as a catalog for telling the members of a large community apart."},
+        {"q": "What is Koṇḍañña foremost in, and why does his epithet matter?",
+         "opts": [
+             "In psychic power; his epithet means &ldquo;the swift&rdquo;",
+             "In long standing; <em>Aññā</em>, &ldquo;who understood,&rdquo; commemorates his grasping the first teaching",
+             "In austerities; his epithet names his forest dwelling",
+             "In wisdom; his epithet means &ldquo;the analyst&rdquo;"],
+         "correct": 1,
+         "expl": "He was the first of the five ascetics to understand, and the name records the moment."},
+        {"q": "Which pair is always named together as the chief disciples?",
+         "opts": [
+             "Sāriputta and Mahāmoggallāna &mdash; foremost in great wisdom and in psychic power",
+             "Ānanda and Upāli",
+             "Mahākassapa and Anuruddha",
+             "Koṇḍañña and Puṇṇa"],
+         "correct": 0,
+         "expl": "And the list gives no basis for saying which of the two qualities ranks higher."},
+        {"q": "What does Mahākassapa&rsquo;s entry place inside the Saṅgha rather than outside it?",
+         "opts": [
+             "Ritual observance",
+             "Scriptural memorization",
+             "The advocacy of austerities",
+             "Debate with rival schools"],
+         "correct": 2,
+         "expl": "The ascetic strand is kept within the community rather than left to outside ascetics."},
+        {"q": "What is Mahākaccāna foremost in?",
+         "opts": [
+             "Explaining in detail the meaning of a brief statement",
+             "Memorizing the monastic law",
+             "Composing verse",
+             "Attending on the Buddha"],
+         "correct": 0,
+         "expl": "A job description rather than a virtue, and one the canon dramatizes more than once."},
+        {"q": "What does the guide say about the relation between this list and the later biographies?",
+         "opts": [
+             "The biographies are older and the list summarizes them",
+             "The canon contains a single line each, and the commentarial tradition wrote outward from those lines to explain how each disciple came to be foremost",
+             "The biographies contradict the list at every point",
+             "There are no later biographies"],
+         "correct": 1,
+         "expl": "Reading the line first lets you see exactly what the biography was built to explain."},
+        {"q": "What happens in the disciples chapter of the Vimalakīrti Sūtra?",
+         "opts": [
+             "Each great disciple declines to visit Vimalakīrti, because he previously confronted each on precisely the thing they are foremost in",
+             "The disciples debate one another about seniority",
+             "The disciples are praised in the same terms as here",
+             "The disciples are replaced by bodhisattvas without explanation"],
+         "correct": 0,
+         "expl": "A systematic response to the etadagga list, using its own categories."},
+        {"q": "Why does the guide call that a clean demonstration of how Mahāyāna literature works on the early canon?",
+         "opts": [
+             "Because it ignores the canon entirely",
+             "Because it quotes the list precisely and then turns it &mdash; the chapter only lands if the reader already knows the list",
+             "Because it was written by the same authors",
+             "Because it repeats the canon without change"],
+         "correct": 1,
+         "expl": "Not by ignoring the early material, but by depending on it."},
+        {"q": "How is the chapter written in Pāli?",
+         "opts": [
+             "Every entry in full, with no abbreviation",
+             "The first entry in full, the rest abbreviated to their variable term &mdash; each still a complete discourse",
+             "As a single continuous discourse",
+             "In verse"],
+         "correct": 1,
+         "expl": "Sujato preserves the abbreviation with an ellipsis rather than silently unrolling it."},
+    ],
+    "marginalia": [
+        ("The ten", [
+            "Koṇḍañña &middot; long standing",
+            "Sāriputta &middot; great wisdom",
+            "Mahāmoggallāna &middot; psychic power",
+            "Mahākassapa &middot; austerities",
+            "Anuruddha &middot; clairvoyance",
+            "Bhaddiya &middot; eminent family",
+            "Bhaddiya the Dwarf &middot; voice",
+            "Bhāradvāja &middot; lion&rsquo;s roar",
+            "Puṇṇa &middot; speaking on the teaching",
+            "Mahākaccāna &middot; explaining in detail",
+        ]),
+        ("What it claims", [
+            "<span class=\"pali\">etadagga</span>this one is foremost",
+            "unsurpassed in one respect",
+            "no ranking between respects",
+        ]),
+        ("Where it goes", [
+            "one line each in the canon",
+            "whole biographies in commentary",
+            "and a rebuttal in Vimalakīrti",
+        ]),
+        ("Cross-references", [
+            "Vimalakīrti &middot; the disciples decline",
+            "MN 18 &middot; Mahākaccāna explaining",
+            "AN 1.198&ndash;208 &middot; next ten",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.188-197/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="/sutras/vimalakirti-sutra/the-disciples-decline-part-one.html">The Vimalakīrti Sūtra '
+        "&middot; The Disciples Decline</a> &mdash; the Mahāyāna answer to this list, in which each "
+        "great disciple is confronted on exactly the thing he is foremost in.",
+        '<a href="../majjhima-nikaya/mn-018.html">MN 18 &middot; The Honey-Cake</a> &mdash; the canon '
+        "showing rather than telling what AN 1.197 says about Mahākaccāna: the Buddha speaks briefly, "
+        "leaves, and Mahākaccāna explains.",
+        '<a href="an-1.170-187.html">AN 1.170&ndash;187 &middot; One Individual</a> &mdash; previous in '
+        "this series, which ends on Sāriputta and turns the collection from the one person to the many.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.198-208",
+    "index_pali": "Etadagga II",
+    "nav_title": "Foremost Monks (II)",
+    "source": "an1/an1.198-208",
+    "crumb": "AN 1.198&ndash;208",
+    "meta_title": "AN 1.198–208 — Foremost Monks (II) | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the second of the "
+        "Aṅguttara Nikāya's foremost-disciple chapters — Cūḷapanthaka who could not memorize "
+        "a single verse, Subhūti who would become the Diamond Sūtra's questioner, Sīvali "
+        "foremost in receiving gifts, and Vakkalī foremost in faith. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.198&ndash;208",
+    "title": "Foremost Monks (II)",
+    "subtitle": "<em>Etadaggavagga</em> &mdash; the fifteenth chapter of the Ones, second of four on monks",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, naming his own disciples"),
+        ("Form", "Eleven single-sentence declarations on the same template as the previous chapter"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", ETADAGGA_PARALLEL),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; simple to read, and the chapter "
+                       "where the list stops looking like a hall of fame"),
+    ],
+    "why": (
+        "If the first chapter of foremost disciples looks like a roll of honor, this one quietly "
+        "dismantles that reading. Two brothers appear back to back, one of whom is famous in the "
+        "tradition for being unable to memorize a single verse. One monk is foremost in receiving "
+        "material gifts, which is not obviously a spiritual attainment at all. Another is foremost in "
+        "faith, and the story attached to him in the canon is a cautionary one. And in the middle sits "
+        "Subhūti, twice named here, who would be picked up eight hundred years later as the questioner "
+        "of the Diamond Sūtra and become one of the most familiar names in East Asian Buddhism on the "
+        "strength of it."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Foremost is a category with room in it for the slow learner, the well-provisioned, and the "
+            "over-devoted, as well as for the quietly accomplished."]),
+        ("The Panthaka brothers (AN 1.198&ndash;200)", [
+            "Cūḷapanthaka is named foremost in creating a mind-made body and in skill in the evolution "
+            "of consciousness; his elder brother Mahāpanthaka is foremost in skill in the evolution of "
+            "perception. The Pāli terms are technical and the English renderings vary a good deal; what "
+            "is clear is that both concern advanced meditative capacity.",
+            "The reason this pair is worth stopping on is what the commentarial tradition says about "
+            "the younger brother. Cūḷapanthaka, in the story cycle, is so incapable of memorization "
+            "that after four months he cannot retain a single verse, and his own brother tries to send "
+            "him home. He is given a piece of cloth to rub while repeating a phrase, and awakens by "
+            "watching it soil. The canon does not tell this story here; it simply names him foremost in "
+            "two of the most refined meditative skills on the list. But the tradition&rsquo;s "
+            "insistence on pairing that placement with that biography is not accidental, and the "
+            "combination has kept him one of the most beloved figures in East Asian Buddhism &mdash; "
+            "the patron, in effect, of everyone who cannot learn things by heart."]),
+        ("Subhūti, twice (AN 1.201&ndash;202)", [
+            "Subhūti is named foremost among those who live without strife and foremost among those "
+            "worthy of a religious donation. In the Pāli canon he is a minor figure; these two lines "
+            "and a handful of appearances are nearly all there is.",
+            "What happened afterward is a striking case of a name outgrowing its text. In the "
+            "Prajñāpāramitā literature Subhūti becomes the Buddha&rsquo;s principal interlocutor on "
+            "emptiness, and in the Diamond Sūtra it is his question that opens the whole discourse: how "
+            "should one who has set out on the bodhisattva path stand, proceed, and control the mind? "
+            "For most readers in the Chinese-speaking world Subhūti <em>is</em> the Diamond Sūtra, and "
+            "the two lines here are unknown. Showing both is a good corrective in either direction.",
+            "The connection is not arbitrary, either. &ldquo;Living without strife&rdquo; renders "
+            "<em>araṇavihārī</em>, and the later tradition read <em>araṇa</em> &mdash; without conflict "
+            "&mdash; as pointing toward exactly the non-contentious, non-grasping stance the "
+            "Prajñāpāramitā develops. The Mahāyāna choice of Subhūti was a reading of this line, not a "
+            "disregard of it."]),
+        ("Sīvali, and the entry nobody expects (AN 1.207)", [
+            "Sīvali is foremost among those who receive many possessions. In a collection that has "
+            "spent a hundred entries praising few wishes and contentment, naming someone foremost in "
+            "getting a lot of things is startling, and it is worth letting a class be startled by it "
+            "rather than smoothing it over.",
+            "Two things can be said. First, the category is about what is offered, not about what is "
+            "wanted &mdash; it describes the response Sīvali evokes in donors, not his own appetite. "
+            "Second, and more importantly, it shows again that this list catalogs distinguishing "
+            "features rather than ranking virtues. In practice Sīvali became, for exactly this reason, "
+            "the figure invoked for material sufficiency across Theravāda Asia, which is a use the "
+            "single line here neither authorizes nor forbids."]),
+        ("Vakkalī, foremost in faith (AN 1.208)", [
+            "The last entry names Vakkalī foremost among those committed to faith. Read on its own it "
+            "is straightforward praise. Read with the canon&rsquo;s own story of Vakkalī it becomes "
+            "much more interesting, because that story is a rebuke.",
+            "Vakkalī, in a well-known passage elsewhere, follows the Buddha constantly simply to look "
+            "at him, and the Buddha tells him sharply that there is nothing to be gained by gazing at "
+            "this foul body &mdash; whoever sees the teaching sees the Buddha, and whoever sees the "
+            "Buddha sees the teaching. The disciple foremost in faith is the one the canon uses to show "
+            "where faith goes wrong when it attaches to a person rather than to what the person "
+            "teaches.",
+            "That the list names him foremost anyway is the interesting part. Faith is not withdrawn "
+            "from him or downgraded; the correction is about its object. This is a useful entry to have "
+            "ready for students who assume early Buddhism has no place for devotion, and equally for "
+            "those who assume devotion needs no direction."]),
+    ],
+    "terms": [
+        ("manomayakāya",
+         "&ldquo;mind-made body&rdquo; &mdash; the meditative capacity Cūḷapanthaka is named foremost "
+         "in. Described elsewhere in the canon as producing a second body from this one, complete in "
+         "all its faculties."),
+        ("araṇavihārī",
+         "&ldquo;living without strife&rdquo; &mdash; Subhūti&rsquo;s first entry. <em>Araṇa</em>, "
+         "conflict-free, is the term the Prajñāpāramitā tradition read as pointing toward its own "
+         "non-contentious stance."),
+        ("dakkhiṇeyya",
+         "&ldquo;worthy of a religious donation&rdquo; &mdash; Subhūti&rsquo;s second entry, and a "
+         "standard category: the value of a gift is held to depend partly on the recipient."),
+        ("lābhī",
+         "&ldquo;one who receives&rdquo; &mdash; the term behind Sīvali&rsquo;s entry. A description of "
+         "what is offered to him, not of what he wants."),
+        ("saddhādhimutta",
+         "&ldquo;committed to faith, resolved on faith&rdquo; &mdash; Vakkalī&rsquo;s entry, and worth "
+         "reading beside the passage where the Buddha corrects the object of that faith."),
+    ],
+    "text_intro": (
+        "All eleven declarations of the chapter, abbreviated in the Pāli after the first as before. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The Panthaka brothers (AN 1.198&ndash;200)"),
+        ("p", "&sect;198", "an1.198"),
+        ("p", "&sect;199", "an1.199"),
+        ("p", "&sect;200", "an1.200"),
+        ("h3", "Subhūti, and the forest (AN 1.201&ndash;204)"),
+        ("p", "&sect;201", "an1.201"),
+        ("p", "&sect;202", "an1.202"),
+        ("p", "&sect;203", "an1.203"),
+        ("p", "&sect;204", "an1.204"),
+        ("h3", "Energy, speech, gifts, and faith (AN 1.205&ndash;208)"),
+        ("p", "&sect;205", "an1.205"),
+        ("p", "&sect;206", "an1.206"),
+        ("p", "&sect;207", "an1.207"),
+        ("p", "&sect;208", "an1.208"),
+    ],
+    "quiz": [
+        {"q": "What does the commentarial tradition say about Cūḷapanthaka, who is named here foremost in two refined meditative skills?",
+         "opts": [
+             "That he was the most learned of all the monks",
+             "That he could not retain a single verse after four months, and his own brother tried to send him home",
+             "That he never met the Buddha",
+             "That he was ordained as a child"],
+         "correct": 1,
+         "expl": "The canon does not tell the story here; it simply makes the placement, and the tradition insists on the pairing."},
+        {"q": "Why has that pairing kept Cūḷapanthaka a beloved figure in East Asian Buddhism?",
+         "opts": [
+             "Because he founded a monastic lineage",
+             "Because he is, in effect, the patron of everyone who cannot learn things by heart",
+             "Because he wrote a famous commentary",
+             "Because he was the Buddha&rsquo;s cousin"],
+         "correct": 1,
+         "expl": "The combination of incapacity and attainment is the whole point of his cult."},
+        {"q": "What two things is Subhūti named foremost in?",
+         "opts": [
+             "Living without strife, and being worthy of a religious donation",
+             "Psychic power, and clairvoyance",
+             "Memorizing the monastic law, and advising nuns",
+             "Wilderness dwelling, and energy"],
+         "correct": 0,
+         "expl": "In the Pāli canon he is otherwise a minor figure."},
+        {"q": "What became of Subhūti in later literature?",
+         "opts": [
+             "He was written out of the tradition",
+             "He became the Buddha&rsquo;s principal interlocutor on emptiness, and his question opens the Diamond Sūtra",
+             "He was identified with Mahākassapa",
+             "He appears only in Tibetan sources"],
+         "correct": 1,
+         "expl": "For most readers in the Chinese-speaking world Subhūti <em>is</em> the Diamond Sūtra."},
+        {"q": "Why does the guide call the Mahāyāna choice of Subhūti a reading of this line rather than a disregard of it?",
+         "opts": [
+             "Because the Diamond Sūtra quotes AN 1.201 directly",
+             "Because <em>araṇa</em>, conflict-free, was read as pointing toward the non-contentious, non-grasping stance the Prajñāpāramitā develops",
+             "Because Subhūti is the only disciple named twice",
+             "Because the two texts share a translator"],
+         "correct": 1,
+         "expl": "The connection runs through the term, not merely the name."},
+        {"q": "What is Sīvali foremost in, and why is it startling here?",
+         "opts": [
+             "In receiving many possessions &mdash; startling in a collection that has spent a hundred entries praising few wishes and contentment",
+             "In fasting, after so much praise of moderation",
+             "In silence, after so much praise of teaching",
+             "In solitude, after so much praise of good friendship"],
+         "correct": 0,
+         "expl": "Worth letting a class be startled by it rather than smoothing it over."},
+        {"q": "How does the guide resolve that tension?",
+         "opts": [
+             "By treating the entry as a later interpolation",
+             "By noting the category is about what is offered rather than what is wanted, and that the list catalogs distinguishing features rather than ranking virtues",
+             "By arguing that Sīvali gave everything away",
+             "By denying that contentment is praised elsewhere"],
+         "correct": 1,
+         "expl": "It describes the response he evokes in donors, not his own appetite."},
+        {"q": "What does the canon&rsquo;s own story of Vakkalī, foremost in faith, contain?",
+         "opts": [
+             "An account of his psychic powers",
+             "A rebuke &mdash; he follows the Buddha simply to gaze at him, and is told that whoever sees the teaching sees the Buddha",
+             "A record of his debates with rival teachers",
+             "A list of his previous lives"],
+         "correct": 1,
+         "expl": "The disciple foremost in faith is the one the canon uses to show where faith goes wrong."},
+        {"q": "What is the interesting part of Vakkalī&rsquo;s placement, according to the guide?",
+         "opts": [
+             "That the list names him foremost anyway &mdash; faith is not withdrawn or downgraded, and the correction is about its object",
+             "That he was later expelled",
+             "That the placement is disputed in the manuscripts",
+             "That faith is nowhere else praised in the canon"],
+         "correct": 0,
+         "expl": "Useful for students who assume early Buddhism has no place for devotion, and equally for those who assume devotion needs no direction."},
+        {"q": "What general point does this chapter make about the foremost list?",
+         "opts": [
+             "That it ranks the disciples by attainment after all",
+             "That it applies only to monks",
+             "That it has room in it for the slow learner, the well-provisioned, and the over-devoted as well as the quietly accomplished",
+             "That it was compiled after the Buddha&rsquo;s death"],
+         "correct": 2,
+         "expl": "This is the chapter where the list stops looking like a hall of fame."},
+    ],
+    "marginalia": [
+        ("The eleven", [
+            "Cūḷapanthaka &middot; mind-made body",
+            "Cūḷapanthaka &middot; consciousness",
+            "Mahāpanthaka &middot; perception",
+            "Subhūti &middot; without strife",
+            "Subhūti &middot; worthy of donation",
+            "Revata &middot; wilderness",
+            "Revata the Doubter &middot; absorption",
+            "Soṇa Koḷivisa &middot; energy",
+            "Soṇa &middot; enunciation",
+            "Sīvali &middot; receiving gifts",
+            "Vakkalī &middot; faith",
+        ]),
+        ("A name outgrowing its text", [
+            "<span class=\"pali\">araṇavihārī</span>living without strife",
+            "two lines in the Pāli",
+            "the questioner of the Diamond Sūtra",
+        ]),
+        ("Faith, corrected", [
+            "Vakkalī gazes at the Buddha",
+            "&ldquo;whoever sees the teaching&hellip;&rdquo;",
+            "the placement stands regardless",
+        ]),
+        ("Cross-references", [
+            "Diamond Sūtra &middot; Subhūti asks",
+            "AN 1.188&ndash;197 &middot; previous ten",
+            "AN 1.209&ndash;218 &middot; next ten",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.198-208/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="/sutras/diamond-sutra/opening-and-non-abiding-giving.html">The Diamond Sūtra &middot; '
+        "Opening</a> &mdash; Subhūti&rsquo;s question, eight centuries after the two lines that are all "
+        "the Pāli canon says about him.",
+        '<a href="/sutras/vimalakirti-sutra/the-disciples-decline-part-one.html">The Vimalakīrti Sūtra '
+        "&middot; The Disciples Decline</a> &mdash; where Subhūti is confronted precisely on being "
+        "worthy of a donation, the second of his two entries here.",
+        '<a href="an-1.188-197.html">AN 1.188&ndash;197 &middot; Foremost Monks (I)</a> &mdash; previous '
+        "in this series, on what the <em>etadagga</em> formula does and does not claim.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.209-218",
+    "index_pali": "Etadagga III",
+    "nav_title": "Foremost Monks (III)",
+    "source": "an1/an1.209-218",
+    "crumb": "AN 1.209&ndash;218",
+    "meta_title": "AN 1.209–218 — Foremost Monks (III) | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the third of the "
+        "Aṅguttara Nikāya's foremost-disciple chapters — Rāhula the Buddha's son, Vaṅgīsa "
+        "the poet, Dabba who assigned the lodgings, Bāhiya of the swift insight, and the "
+        "monk foremost in picking up a ballot slip. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.209&ndash;218",
+    "title": "Foremost Monks (III)",
+    "subtitle": "<em>Etadaggavagga</em> &mdash; the sixteenth chapter of the Ones, third of four on monks",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, naming his own disciples"),
+        ("Form", "Ten single-sentence declarations on the same template"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", ETADAGGA_PARALLEL),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; easy reading; two of the ten "
+                       "entries are administrative and one is nearly untranslatable without context"),
+    ],
+    "why": (
+        "This chapter is where the foremost list is at its most miscellaneous, and that is its "
+        "interest. It contains the Buddha&rsquo;s own son; a monk who is foremost at composing verse; "
+        "a monk foremost at assigning people their sleeping quarters; a monk foremost at being liked by "
+        "deities; a monk foremost at being first in the queue when meal invitations are drawn by lot; "
+        "and a wanderer who was never ordained at all, understood the teaching in a single sentence in "
+        "the street, and was killed by a cow the same day. A list that holds all six together is not "
+        "organizing a hierarchy. It is describing a community."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The community the Buddha actually had included poets, quartermasters, and people who "
+            "understood everything in one sentence, and the list names each for what they were "
+            "distinctively good at."]),
+        ("Rāhula, foremost among those who want to train (AN 1.209)", [
+            "The Buddha&rsquo;s son gets one line, and it is worth noticing what it says. He is not "
+            "named foremost in wisdom, or attainment, or lineage &mdash; he is foremost among "
+            "<em>sikkhākāma</em>, those who desire the training. That is a disposition rather than an "
+            "achievement, and it is an unusually modest thing to be praised for.",
+            "The canon elsewhere shows the Buddha instructing Rāhula from childhood, sometimes with "
+            "notable severity, and the placement here is consistent with those passages: what is "
+            "commended in him is willingness to be taught. For anyone teaching this material to "
+            "parents, the contrast between what the Buddha might have said about his son and what he "
+            "actually said is worth sitting with."]),
+        ("The poet and the administrator (AN 1.212, 1.214)", [
+            "Vaṅgīsa is foremost among eloquent poets &mdash; <em>paṭibhānavantānaṁ</em>, those with "
+            "spontaneous inspired speech. He has an entire chapter of the Saṁyutta Nikāya to himself, "
+            "and his verses are among the most personal material in the canon, including his own "
+            "struggles with pride in his gift.",
+            "Two entries later, Dabba Mallaputta is foremost among those who assign lodgings. This is "
+            "not a metaphor. Dabba&rsquo;s job was allocating sleeping quarters and meal invitations to "
+            "a large and mobile community, and the canon records him doing it by the light of his own "
+            "burning fingers when monks arrived after dark. That the roster of foremost disciples has "
+            "room for the person who ran the accommodation is one of the more quietly informative facts "
+            "about the early Saṅgha.",
+            "Kuṇḍadhāna&rsquo;s entry belongs with these. He is foremost among those who are first to "
+            "pick up a ballot slip &mdash; the tickets drawn when a donor invited a fixed number of "
+            "monks to a meal. Read cold this is baffling. Read as a note about a working community "
+            "with a distribution problem, it is exactly as legible as the lodgings entry."]),
+        ("Bāhiya of the Bark Cloth (AN 1.216)", [
+            "Foremost among those with swift insight, <em>khippābhiññānaṁ</em>. The story behind this "
+            "line is one of the most famous in the canon and one of the shortest. Bāhiya, an ascetic "
+            "who wore bark, intercepts the Buddha on his alms round and asks three times for a "
+            "teaching. The Buddha refuses twice as inopportune, then gives him a single compressed "
+            "instruction: in the seen there will be only the seen, in the heard only the heard, in the "
+            "thought only the thought, in the known only the known. Bāhiya understands completely on "
+            "the spot, and is killed by a cow shortly afterward, before he can be ordained.",
+            "The entry is a limit case for everything the collection has said about gradual training. "
+            "Nothing in the Ones about developing the mind, guarding the senses, or arousing energy is "
+            "retracted by it; but the list makes room for someone who did none of that in this life and "
+            "arrived anyway, and it does so without explanation. Teachers who present early Buddhism as "
+            "uniformly gradualist have to account for this line, and teachers who present it as "
+            "sudden-awakening avant la lettre have to account for the hundred and eighty entries before "
+            "it."]),
+        ("The rest of the ten", [
+            "Raṭṭhapāla is foremost among those who went forth out of faith &mdash; his story, in which "
+            "he starves himself until his parents consent to his ordination, is told at length "
+            "elsewhere. Upasena son of Vaṅgantā is foremost among those impressive all around, a phrase "
+            "covering deportment and bearing rather than attainment. Pilindavaccha is foremost among "
+            "those beloved of the deities, and is remembered in the Vinaya for a habit of addressing "
+            "everyone as &ldquo;outcaste&rdquo; that the Buddha excused as a linguistic reflex from a "
+            "past life rather than contempt.",
+            "Kassapa the Prince is foremost in brilliant speech, and Mahākoṭṭhita in the four methods "
+            "of textual analysis &mdash; the analytical knowledges of meaning, principle, language, and "
+            "eloquence, the same set named at AN 1.175&ndash;186 as arriving in the world with a "
+            "Buddha. Between them the chapter has three separate entries for different kinds of verbal "
+            "excellence, which is a fair indication of how a tradition transmitted entirely by speech "
+            "valued speech."]),
+    ],
+    "terms": [
+        ("sikkhākāma",
+         "&ldquo;desiring the training&rdquo; &mdash; Rāhula&rsquo;s entry. A disposition rather than "
+         "an achievement, and a modest thing for the Buddha&rsquo;s own son to be praised for."),
+        ("paṭibhāna",
+         "&ldquo;inspired eloquence&rdquo; &mdash; spontaneous, ready speech, and what Vaṅgīsa is "
+         "foremost in as a poet. Also the fourth of the analytical knowledges."),
+        ("senāsanapaññāpaka",
+         "&ldquo;assigner of lodgings&rdquo; &mdash; Dabba Mallaputta&rsquo;s entry, and a literal job "
+         "in a large mobile community rather than a metaphor."),
+        ("khippābhiññā",
+         "&ldquo;swift insight&rdquo; &mdash; Bāhiya&rsquo;s entry, and the canon&rsquo;s limit case "
+         "for how fast understanding can arrive."),
+        ("paṭisambhidā",
+         "the four analytical knowledges &mdash; of meaning, principle, language, and eloquence &mdash; "
+         "which Mahākoṭṭhita is foremost in attaining, and which AN 1.175&ndash;186 lists among what "
+         "appears in the world with a Buddha."),
+    ],
+    "text_intro": (
+        "All ten declarations of the chapter, abbreviated in the Pāli after the first as before. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Training and going forth (AN 1.209&ndash;211)"),
+        ("p", "&sect;209", "an1.209"),
+        ("p", "&sect;210", "an1.210"),
+        ("p", "&sect;211", "an1.211"),
+        ("h3", "Speech, bearing, and the running of a community (AN 1.212&ndash;215)"),
+        ("p", "&sect;212", "an1.212"),
+        ("p", "&sect;213", "an1.213"),
+        ("p", "&sect;214", "an1.214"),
+        ("p", "&sect;215", "an1.215"),
+        ("h3", "Swift insight and clear analysis (AN 1.216&ndash;218)"),
+        ("p", "&sect;216", "an1.216"),
+        ("p", "&sect;217", "an1.217"),
+        ("p", "&sect;218", "an1.218"),
+    ],
+    "quiz": [
+        {"q": "What is Rāhula, the Buddha&rsquo;s son, named foremost in?",
+         "opts": [
+             "Wisdom",
+             "Psychic power",
+             "Desiring the training &mdash; a disposition rather than an achievement",
+             "Noble birth"],
+         "correct": 2,
+         "expl": "An unusually modest thing for the Buddha's own son to be praised for."},
+        {"q": "What was Dabba Mallaputta foremost at?",
+         "opts": [
+             "Assigning lodgings &mdash; literally allocating sleeping quarters and meal invitations for a large mobile community",
+             "Interpreting dreams",
+             "Reciting the monastic law",
+             "Debating with brahmins"],
+         "correct": 0,
+         "expl": "The canon records him doing it by the light of his own burning fingers when monks arrived after dark."},
+        {"q": "What is Kuṇḍadhāna&rsquo;s entry about?",
+         "opts": [
+             "Being first to pick up a ballot slip &mdash; the tickets drawn when a donor invited a fixed number of monks to a meal",
+             "Being first to enter the monastery each morning",
+             "Being first to be ordained",
+             "Being first to answer a question"],
+         "correct": 0,
+         "expl": "Baffling read cold; entirely legible as a note about a working community with a distribution problem."},
+        {"q": "What does the presence of entries like Dabba&rsquo;s and Kuṇḍadhāna&rsquo;s tell us?",
+         "opts": [
+             "That the list was compiled carelessly",
+             "That the list is describing a working community rather than organizing a hierarchy",
+             "That administration mattered more than practice",
+             "That these monks had no meditative attainment"],
+         "correct": 1,
+         "expl": "A list that holds poets, quartermasters, and Bāhiya together is not a ranking."},
+        {"q": "What teaching did Bāhiya receive?",
+         "opts": [
+             "A full course of gradual training over several years",
+             "A single compressed instruction: in the seen only the seen, in the heard only the heard, in the thought only the thought, in the known only the known",
+             "A set of monastic rules",
+             "A meditation object assigned for a rains retreat"],
+         "correct": 1,
+         "expl": "He understood completely on the spot, after the Buddha had twice refused as inopportune."},
+        {"q": "What happened to Bāhiya afterward?",
+         "opts": [
+             "He became abbot of a large monastery",
+             "He returned to lay life",
+             "He was killed by a cow shortly afterward, before he could be ordained",
+             "He travelled to teach in distant countries"],
+         "correct": 2,
+         "expl": "Which is part of why the entry functions as a limit case."},
+        {"q": "How does the guide frame the problem Bāhiya poses?",
+         "opts": [
+             "That teachers presenting early Buddhism as uniformly gradualist must account for this line, and those presenting it as sudden awakening must account for the hundred and eighty entries before it",
+             "That the entry is inauthentic",
+             "That gradual training is thereby refuted",
+             "That the story has no doctrinal significance"],
+         "correct": 0,
+         "expl": "The list makes room for him without explanation, and retracts nothing."},
+        {"q": "What is Vaṅgīsa foremost in?",
+         "opts": [
+             "Memorizing the monastic law",
+             "Eloquent poetry &mdash; <em>paṭibhāna</em>, spontaneous inspired speech",
+             "Wilderness dwelling",
+             "Healing the sick"],
+         "correct": 1,
+         "expl": "He has an entire chapter of the Saṁyutta Nikāya to himself, including verses on his own pride in the gift."},
+        {"q": "How is Pilindavaccha remembered in the Vinaya?",
+         "opts": [
+             "For refusing to accept alms",
+             "For a habit of addressing everyone as &ldquo;outcaste,&rdquo; which the Buddha excused as a linguistic reflex from a past life rather than contempt",
+             "For sleeping through the recitation",
+             "For never speaking at all"],
+         "correct": 1,
+         "expl": "He is named here as foremost among those beloved of the deities."},
+        {"q": "How many separate entries in this chapter concern kinds of verbal excellence?",
+         "opts": [
+             "None",
+             "One",
+             "Three &mdash; inspired poetry, brilliant speech, and the four analytical knowledges",
+             "All ten"],
+         "correct": 2,
+         "expl": "A fair indication of how a tradition transmitted entirely by speech valued speech."},
+    ],
+    "marginalia": [
+        ("The ten", [
+            "Rāhula &middot; wanting to train",
+            "Raṭṭhapāla &middot; went forth from faith",
+            "Kuṇḍadhāna &middot; the ballot slip",
+            "Vaṅgīsa &middot; poetry",
+            "Upasena &middot; bearing",
+            "Dabba &middot; lodgings",
+            "Pilindavaccha &middot; loved by deities",
+            "Bāhiya &middot; swift insight",
+            "Kassapa the Prince &middot; speech",
+            "Mahākoṭṭhita &middot; analysis",
+        ]),
+        ("Bāhiya", [
+            "&ldquo;in the seen, only the seen&rdquo;",
+            "understood in the street",
+            "killed by a cow the same day",
+            "never ordained",
+        ]),
+        ("A working community", [
+            "someone assigns the beds",
+            "someone draws the meal tickets",
+            "and both are on the list",
+        ]),
+        ("Cross-references", [
+            "Udāna 1.10 &middot; Bāhiya",
+            "MN 61 &middot; advice to Rāhula",
+            "AN 1.219&ndash;234 &middot; next: Ānanda",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.209-218/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../udana/ud-1.10.html">Udāna 1.10 &middot; With Bāhiya</a> &mdash; the whole story '
+        "behind AN 1.216, including the instruction itself and what happened afterward.",
+        '<a href="../majjhima-nikaya/mn-061.html">MN 61 &middot; Advice to Rāhula at Ambalaṭṭhikā</a> '
+        "&mdash; the Buddha teaching his son, and the reason &ldquo;desiring the training&rdquo; is the "
+        "right thing to name him foremost in.",
+        '<a href="an-1.219-234.html">AN 1.219&ndash;234 &middot; Foremost Monks (IV)</a> &mdash; next in '
+        "this series, where Ānanda takes five entries in a row.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.219-234",
+    "index_pali": "Etadagga IV",
+    "nav_title": "Foremost Monks (IV)",
+    "source": "an1/an1.219-234",
+    "crumb": "AN 1.219&ndash;234",
+    "meta_title": "AN 1.219–234 — Foremost Monks (IV) | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the fourth of the "
+        "Aṅguttara Nikāya's foremost-disciple chapters — Ānanda alone takes five of the "
+        "sixteen entries, all of them about memory and attendance, and Upāli takes the one "
+        "on which the entire monastic law depends. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.219&ndash;234",
+    "title": "Foremost Monks (IV)",
+    "subtitle": "<em>Etadaggavagga</em> &mdash; the seventeenth chapter of the Ones, last of four on monks",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, naming his own disciples"),
+        ("Form", "Sixteen single-sentence declarations, the first five of them all naming the same "
+                 "person"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", ETADAGGA_PARALLEL),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; easy to read, and structurally the "
+                       "most revealing of the four monk chapters"),
+    ],
+    "why": (
+        "One disciple takes five of this chapter&rsquo;s sixteen entries in a row, and all five are "
+        "about the same thing: Ānanda is foremost in being very learned, in having a good memory, in "
+        "having an extensive range, in retention, and in being a personal attendant. No one else on "
+        "the entire list gets more than two. That concentration is not modesty about the other fifteen "
+        "&mdash; it is the tradition saying, in the only way a list can, that everything it possesses "
+        "came through one man&rsquo;s memory. Two entries later, Upāli is named foremost in having "
+        "memorized the monastic law, and between the two of them stands the whole of what was "
+        "recited at the first council."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The tradition survived because someone remembered it, and this chapter says so five times "
+            "in a row."]),
+        ("Ānanda&rsquo;s five entries", [
+            "<em>Bahussuta</em>, very learned &mdash; literally &ldquo;of much hearing,&rdquo; which in "
+            "an oral culture is what learning is. <em>Satimant</em>, of good memory. "
+            "<em>Gatimant</em>, of extensive range, meaning grasp of how things connect. "
+            "<em>Dhiti</em>, retention, the capacity to hold what has been taken in. And "
+            "<em>upaṭṭhāka</em>, personal attendant.",
+            "The first four are four angles on a single capacity, distinguished the way a tradition "
+            "distinguishes things it depends on absolutely: taking in, holding, connecting, and "
+            "retaining. It is the same instinct that gave the previous chapter three separate entries "
+            "for kinds of eloquence. What a culture subdivides is what it cares about.",
+            "The fifth entry is different in kind and it explains the other four. Ānanda was the "
+            "Buddha&rsquo;s attendant for the last twenty-five years of his life, which meant he was "
+            "physically present for what was said. The tradition&rsquo;s account of the first council "
+            "turns on exactly this: the discourses are recited by the man who was there, opening each "
+            "with the words that still open them &mdash; <em>evaṁ me sutaṁ</em>, so I have heard."]),
+        ("Upāli and the monastic law (AN 1.228)", [
+            "Foremost among those who have memorized the monastic law &mdash; <em>vinayadhara</em>, "
+            "literally a bearer of the Vinaya. At the first council, in the tradition&rsquo;s account, "
+            "Upāli recites the discipline as Ānanda recites the discourses, and the two bodies of text "
+            "the Buddhist world still has come down from that division of labor.",
+            "Upāli is also remembered as having been a barber before ordination, and as having been "
+            "ordained ahead of the Sakyan nobles who came with him so that they would have to bow to "
+            "him thereafter. Whether or not that story is historical, its placement is deliberate: the "
+            "man on whom the entire law of precedence depends is the one whose own precedence was "
+            "arranged to embarrass rank."]),
+        ("The rest of the sixteen", [
+            "Kassapa of Uruvelā is foremost in having a large congregation &mdash; he came to the "
+            "Buddha with a thousand followers already. Kāḷudāyī is foremost among those who inspire lay "
+            "families. Bakkula is foremost in good health, an entry that gets a whole discourse of its "
+            "own elsewhere in the canon. Sobhita is foremost in recollecting past lives.",
+            "Then two entries that sit interestingly together: Nandaka is foremost among those who "
+            "advise the nuns, and Mahākappina foremost among those who advise the monks. The first of "
+            "those is a formally appointed role, and the discourse in which Nandaka teaches the nuns is "
+            "one of the more substantial teaching texts in the canon. Nanda &mdash; the Buddha&rsquo;s "
+            "half-brother, whose reluctance to leave lay life is told at length elsewhere &mdash; is "
+            "foremost in guarding the sense doors, which is the practice AN 1.1&ndash;10 pointed "
+            "toward. Sāgata is foremost in skill with the fire element, Rādha in inspiring eloquent "
+            "teachings, and Mogharāja, last of the eighty monks, in wearing coarse robes."]),
+        ("What the four chapters add up to", [
+            "Taken together the four monk chapters name roughly forty distinguishing marks, and it is "
+            "worth looking at the shape of the whole. There are entries for meditative attainment and "
+            "entries for administration. There are three for kinds of eloquence and four for kinds of "
+            "memory. There is one for good health, one for a pleasant voice, one for coming from a good "
+            "family, and one for receiving a lot of gifts. There is one for the man who could not learn "
+            "a verse and one for the man who understood in a sentence.",
+            "No hierarchy will hold that together, and none is offered. What the list actually does is "
+            "make a claim about community: that a functioning Saṅgha needs all of these, that they are "
+            "not versions of one another, and that being foremost in something small and specific is a "
+            "real thing to be. For a modern reader used to spiritual literature that recognizes exactly "
+            "one axis of excellence, this is a genuinely different picture, and the four chapters are "
+            "worth reading in one sitting for that reason alone."]),
+    ],
+    "terms": [
+        ("bahussuta",
+         "&ldquo;very learned,&rdquo; literally &ldquo;of much hearing&rdquo; &mdash; which in an oral "
+         "culture is exactly what learning is. The first of Ānanda&rsquo;s five entries."),
+        ("upaṭṭhāka",
+         "&ldquo;personal attendant&rdquo; &mdash; Ānanda&rsquo;s fifth entry, and the one that "
+         "explains the other four: he was present for twenty-five years of what was said."),
+        ("evaṁ me sutaṁ",
+         "&ldquo;so I have heard&rdquo; &mdash; the phrase that opens the discourses, and the claim on "
+         "which the whole collection rests: that someone heard this and remembered it."),
+        ("vinayadhara",
+         "&ldquo;bearer of the monastic law&rdquo; &mdash; Upāli&rsquo;s entry. At the first council he "
+         "recites the discipline as Ānanda recites the discourses."),
+        ("indriyesu guttadvāra",
+         "&ldquo;guarding the sense doors&rdquo; &mdash; Nanda&rsquo;s entry, and the practice the very "
+         "first chapter of the Ones pointed toward."),
+    ],
+    "text_intro": (
+        "All sixteen declarations of the chapter, abbreviated in the Pāli after the first as before. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Ānanda, five times (AN 1.219&ndash;223)"),
+        ("p", "&sect;219", "an1.219"),
+        ("p", "&sect;220", "an1.220"),
+        ("p", "&sect;221", "an1.221"),
+        ("p", "&sect;222", "an1.222"),
+        ("p", "&sect;223", "an1.223"),
+        ("h3", "Congregations, health, and memory (AN 1.224&ndash;228)"),
+        ("p", "&sect;224", "an1.224"),
+        ("p", "&sect;225", "an1.225"),
+        ("p", "&sect;226", "an1.226"),
+        ("p", "&sect;227", "an1.227"),
+        ("p", "&sect;228", "an1.228"),
+        ("h3", "Advising, guarding, and the last of the eighty (AN 1.229&ndash;234)"),
+        ("p", "&sect;229", "an1.229"),
+        ("p", "&sect;230", "an1.230"),
+        ("p", "&sect;231", "an1.231"),
+        ("p", "&sect;232", "an1.232"),
+        ("p", "&sect;233", "an1.233"),
+        ("p", "&sect;234", "an1.234"),
+    ],
+    "quiz": [
+        {"q": "How many of this chapter&rsquo;s sixteen entries name Ānanda?",
+         "opts": ["One", "Two", "Five, consecutively", "All sixteen"],
+         "correct": 2,
+         "expl": "No one else on the entire eighty-name list gets more than two."},
+        {"q": "What do all five of Ānanda&rsquo;s entries concern?",
+         "opts": [
+             "Meditative attainment",
+             "Memory and attendance &mdash; being very learned, of good memory, of extensive range, in retention, and as personal attendant",
+             "Monastic administration",
+             "Psychic power"],
+         "correct": 1,
+         "expl": "Four angles on one capacity, plus the circumstance that made it matter."},
+        {"q": "What does <em>bahussuta</em>, &ldquo;very learned,&rdquo; literally mean?",
+         "opts": [
+             "&ldquo;Of much hearing&rdquo; &mdash; which in an oral culture is exactly what learning is",
+             "&ldquo;Of many books&rdquo;",
+             "&ldquo;Of long ordination&rdquo;",
+             "&ldquo;Of many teachers&rdquo;"],
+         "correct": 0,
+         "expl": "The vocabulary itself records how the tradition was transmitted."},
+        {"q": "Why does the guide say the fifth entry explains the other four?",
+         "opts": [
+             "Because attendants were required to memorize the discourses",
+             "Because Ānanda was the Buddha&rsquo;s attendant for the last twenty-five years and was physically present for what was said",
+             "Because attendants received extra instruction",
+             "Because the entry was added later"],
+         "correct": 1,
+         "expl": "The first council's account turns on exactly this: the discourses are recited by the man who was there."},
+        {"q": "What does the tradition say Upāli recited at the first council?",
+         "opts": [
+             "The discourses",
+             "The verses",
+             "The monastic law &mdash; the discipline, as Ānanda recited the discourses",
+             "The commentaries"],
+         "correct": 2,
+         "expl": "The two bodies of text the Buddhist world still has come down from that division of labor."},
+        {"q": "What is remembered about Upāli&rsquo;s own ordination?",
+         "opts": [
+             "That he was ordained ahead of the Sakyan nobles who came with him, so that they would have to bow to him thereafter",
+             "That he was ordained last of all",
+             "That he refused ordination twice",
+             "That he was ordained in a dream"],
+         "correct": 0,
+         "expl": "The man on whom the law of precedence depends is the one whose own precedence was arranged to embarrass rank."},
+        {"q": "What is Nanda, the Buddha&rsquo;s half-brother, foremost in?",
+         "opts": [
+             "Guarding the sense doors &mdash; the practice the very first chapter of the Ones pointed toward",
+             "Reciting the monastic law",
+             "Advising the nuns",
+             "Skill with the fire element"],
+         "correct": 0,
+         "expl": "His reluctance to leave lay life is told at length elsewhere, which makes the placement pointed."},
+        {"q": "What kind of role is Nandaka&rsquo;s, foremost among those who advise the nuns?",
+         "opts": [
+             "An informal reputation",
+             "A formally appointed role, and the discourse in which he teaches the nuns is one of the more substantial teaching texts in the canon",
+             "A title given posthumously",
+             "A description of his family relationships"],
+         "correct": 1,
+         "expl": "Paired in the chapter with Mahākappina, foremost among those who advise the monks."},
+        {"q": "What does the guide say the four monk chapters add up to?",
+         "opts": [
+             "A ranking from greatest to least",
+             "A claim about community &mdash; that a functioning Saṅgha needs all of these, that they are not versions of one another, and that being foremost in something small and specific is a real thing to be",
+             "A list of who attained awakening first",
+             "A record of monastic seniority"],
+         "correct": 1,
+         "expl": "No hierarchy will hold together entries for meditative attainment, administration, health, and a pleasant voice."},
+        {"q": "Why does the guide say this is a genuinely different picture for a modern reader?",
+         "opts": [
+             "Because most spiritual literature recognizes exactly one axis of excellence",
+             "Because the names are unfamiliar",
+             "Because the entries are so short",
+             "Because it concerns only monastics"],
+         "correct": 0,
+         "expl": "Which is why the four chapters are worth reading in one sitting."},
+    ],
+    "marginalia": [
+        ("Ānanda&rsquo;s five", [
+            "<span class=\"pali\">bahussuta</span>of much hearing",
+            "<span class=\"pali\">satimant</span>good memory",
+            "<span class=\"pali\">gatimant</span>extensive range",
+            "<span class=\"pali\">dhiti</span>retention",
+            "<span class=\"pali\">upaṭṭhāka</span>personal attendant",
+        ]),
+        ("The first council", [
+            "Ānanda &middot; the discourses",
+            "Upāli &middot; the monastic law",
+            "&ldquo;so I have heard&rdquo;",
+        ]),
+        ("Also on the list", [
+            "Bakkula &middot; good health",
+            "Sāgata &middot; the fire element",
+            "Mogharāja &middot; coarse robes",
+        ]),
+        ("Cross-references", [
+            "AN 1.1&ndash;10 &middot; guarding the doors",
+            "MN 146 &middot; Nandaka advises the nuns",
+            "AN 1.235&ndash;247 &middot; next: the nuns",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.219-234/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-146.html">MN 146 &middot; Advice from Nandaka</a> &mdash; the '
+        "teaching that earned AN 1.229 its entry, given to five hundred nuns and then repeated the "
+        "following day because the Buddha judged it unfinished.",
+        '<a href="/sutras/vimalakirti-sutra/the-disciples-decline-part-two.html">The Vimalakīrti Sūtra '
+        "&middot; The Disciples Decline, Part Two</a> &mdash; where Ānanda and Upāli are each "
+        "confronted on precisely the capacity named here.",
+        '<a href="an-1.1-10.html">AN 1.1&ndash;10 &middot; What Occupies the Mind</a> &mdash; the '
+        "practice Nanda is named foremost in, back at the start of the collection.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.235-247",
+    "index_pali": "Etadagga V",
+    "nav_title": "Foremost Nuns",
+    "source": "an1/an1.235-247",
+    "crumb": "AN 1.235&ndash;247",
+    "meta_title": "AN 1.235–247 — Foremost Nuns | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Aṅguttara Nikāya's "
+        "chapter of foremost nuns — thirteen women named unsurpassed in wisdom, psychic "
+        "power, mastery of the monastic law, teaching, and insight, including the Buddha's "
+        "foster mother, his former wife, and the teacher of MN 44. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.235&ndash;247",
+    "title": "Foremost Nuns",
+    "subtitle": "<em>Etadaggavagga</em> &mdash; the eighteenth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, naming his own disciples"),
+        ("Form", "Thirteen single-sentence declarations on the same template as the monk chapters, "
+                 "with <em>nun disciples</em> in place of <em>monk disciples</em>"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", ETADAGGA_PARALLEL),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the text is as simple as the monk "
+                       "chapters; what is not simple is the history it sits inside"),
+    ],
+    "why": (
+        "The same canon that opens with a chapter about the sight of a woman occupying a man&rsquo;s "
+        "mind also contains this: thirteen women named by the Buddha as unsurpassed &mdash; in wisdom, "
+        "in psychic power, in mastery of the monastic law, in teaching the Dhamma, in absorption, in "
+        "insight &mdash; in exactly the same categories and exactly the same formula used for the "
+        "monks. Neither passage cancels the other, and a teacher who presents only one of them is "
+        "misrepresenting the collection. This chapter is short, and it is one of the most important "
+        "pages in this series."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Thirteen nuns are each named unsurpassed in one thing, in the same words and largely the "
+            "same categories as the eighty monks before them."]),
+        ("The categories are the same categories", [
+            "This is the first thing to establish, because it is easy to assume otherwise. Great "
+            "wisdom, psychic power, memorization of the monastic law, speaking on the teaching, "
+            "practicing absorption, energy, clairvoyance, swift insight, recollection of past lives, "
+            "wearing coarse robes, commitment to faith &mdash; every one of these categories also "
+            "appears in the monk chapters, attached to a different name.",
+            "There is no separate set of women&rsquo;s virtues here. Nobody is named foremost in "
+            "patience, or service, or support of others&rsquo; practice. Khemā is foremost in great "
+            "wisdom, exactly as Sāriputta is; Uppalavaṇṇā is foremost in psychic power, exactly as "
+            "Mahāmoggallāna is; Paṭācārā has memorized the monastic law, exactly as Upāli has. The "
+            "parallelism is close enough to be deliberate, and it is the single most useful fact to "
+            "have at hand when this material is discussed."]),
+        ("Who they are", [
+            "Mahāpajāpati Gotamī, foremost in long standing, is the Buddha&rsquo;s aunt and foster "
+            "mother and the first woman ordained &mdash; the counterpart of Koṇḍañña at the head of the "
+            "monks&rsquo; list. Khemā, foremost in great wisdom, had been a queen; a discourse in the "
+            "Saṁyutta shows her handling a king&rsquo;s metaphysical questions with an authority the "
+            "Buddha afterward endorses word for word.",
+            "Dhammadinnā, foremost among those who speak on the teaching, is the teacher in one of the "
+            "most substantial doctrinal discourses in the canon, in which she answers her former "
+            "husband&rsquo;s questions and the Buddha subsequently says he would have answered exactly "
+            "as she did. Paṭācārā, foremost in the monastic law, came to the Saṅgha after losing her "
+            "entire family in a single catastrophe; Kisāgotamī, foremost in wearing coarse robes, after "
+            "carrying her dead child from door to door in search of a mustard seed from a house "
+            "untouched by death.",
+            "Bhaddakaccānā, foremost among those who have attained great insight, is identified by the "
+            "commentarial tradition with Rāhula&rsquo;s mother &mdash; the Buddha&rsquo;s former wife. "
+            "The canon says nothing about that here. She is named for her attainment, in one line, like "
+            "everyone else."]),
+        ("Thirteen against eighty", [
+            "The honest thing to say next is that the list is not symmetrical in size. Thirteen nuns "
+            "are named against roughly eighty monks. Explaining that away is not possible and pretending "
+            "not to notice it is worse.",
+            "Several things are true at once. The nuns&rsquo; order was founded later than the "
+            "monks&rsquo; and remained smaller. The canon was compiled and transmitted by a monastic "
+            "community in which men held most institutional positions, and what gets recorded reflects "
+            "who is doing the recording. And the tradition preserved, alongside this list, an ordination "
+            "account and a set of additional rules for nuns that scholars have long regarded as "
+            "difficult and quite possibly later &mdash; material that sits awkwardly beside a Buddha who "
+            "names women foremost in wisdom.",
+            "What can be said without strain is that this chapter exists, that it uses the same terms, "
+            "and that a substantial body of the women&rsquo;s own poetry survives in the Therīgāthā, "
+            "much of it by the women named here. That is a stronger position than either apologetics or "
+            "dismissal, and it is the one this series takes."]),
+        ("Teaching this chapter", [
+            "Read it immediately after the four monk chapters, without a break, so that the "
+            "correspondence of categories is felt rather than announced. Then, if there is time, read "
+            "one of the discourses attached to a name &mdash; Dhammadinnā&rsquo;s is the best choice, "
+            "because it is long, technical, and ends with the Buddha ratifying her answers without "
+            "amendment.",
+            "For groups likely to have met the difficult material about women in the Vinaya, it is "
+            "better to raise it than to wait for someone else to. The useful framing is that a "
+            "tradition is not a single voice, that this canon preserves several, and that the reader is "
+            "not obliged to pretend they agree."]),
+    ],
+    "terms": [
+        ("bhikkhunī",
+         "&ldquo;nun&rdquo; &mdash; a fully ordained woman. The chapter&rsquo;s formula is identical to "
+         "the monks&rsquo; with this one word changed."),
+        ("mahāpaññā",
+         "&ldquo;great wisdom&rdquo; &mdash; Khemā&rsquo;s entry, and the same term used of Sāriputta "
+         "at AN 1.189."),
+        ("vinayadharā",
+         "&ldquo;bearer of the monastic law&rdquo; &mdash; Paṭācārā&rsquo;s entry, and the same term "
+         "used of Upāli at AN 1.228."),
+        ("dhammakathikā",
+         "&ldquo;one who speaks on the teaching&rdquo; &mdash; Dhammadinnā&rsquo;s entry, and the same "
+         "term used of Puṇṇa at AN 1.196."),
+        ("Therīgāthā",
+         "&ldquo;Verses of the Senior Nuns&rdquo; &mdash; a canonical collection of poetry by the "
+         "first generation of Buddhist women, including several named in this chapter. It is the "
+         "reason their voices survive and not only their placements."),
+    ],
+    "text_intro": (
+        "All thirteen declarations of the chapter, abbreviated in the Pāli after the first as in the "
+        "monk chapters. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The senior nuns (AN 1.235&ndash;239)"),
+        ("p", "&sect;235", "an1.235"),
+        ("p", "&sect;236", "an1.236"),
+        ("p", "&sect;237", "an1.237"),
+        ("p", "&sect;238", "an1.238"),
+        ("p", "&sect;239", "an1.239"),
+        ("h3", "Absorption, energy, and insight (AN 1.240&ndash;245)"),
+        ("p", "&sect;240", "an1.240"),
+        ("p", "&sect;241", "an1.241"),
+        ("p", "&sect;242", "an1.242"),
+        ("p", "&sect;243", "an1.243"),
+        ("p", "&sect;244", "an1.244"),
+        ("p", "&sect;245", "an1.245"),
+        ("h3", "Coarse robes and faith (AN 1.246&ndash;247)"),
+        ("p", "&sect;246", "an1.246"),
+        ("p", "&sect;247", "an1.247"),
+    ],
+    "quiz": [
+        {"q": "What is the relationship between the categories used here and those used for the monks?",
+         "opts": [
+             "A separate set of women&rsquo;s virtues is used",
+             "The same categories &mdash; great wisdom, psychic power, the monastic law, teaching, absorption, insight &mdash; attached to different names",
+             "Only devotional categories are used",
+             "No categories are given, only names"],
+         "correct": 1,
+         "expl": "The parallelism is close enough to be deliberate."},
+        {"q": "Which nun is foremost in great wisdom, and whose entry does that parallel?",
+         "opts": [
+             "Uppalavaṇṇā; parallel to Mahāmoggallāna",
+             "Paṭācārā; parallel to Upāli",
+             "Khemā; parallel to Sāriputta",
+             "Dhammadinnā; parallel to Puṇṇa"],
+         "correct": 2,
+         "expl": "<em>Mahāpaññā</em>, the same term used at AN 1.189."},
+        {"q": "Who is Mahāpajāpati Gotamī?",
+         "opts": [
+             "The Buddha&rsquo;s aunt and foster mother, the first woman ordained, and the counterpart of Koṇḍañña at the head of the monks&rsquo; list",
+             "A queen who questioned the Buddha",
+             "A merchant&rsquo;s daughter who became a donor",
+             "The author of the Therīgāthā"],
+         "correct": 0,
+         "expl": "Foremost in long standing, exactly as Koṇḍañña is."},
+        {"q": "What is notable about Dhammadinnā&rsquo;s discourse in the Majjhima Nikāya?",
+         "opts": [
+             "It is the shortest discourse in the collection",
+             "She answers her former husband&rsquo;s doctrinal questions, and the Buddha afterward says he would have answered exactly as she did",
+             "It records her ordination",
+             "It is spoken entirely in verse"],
+         "correct": 1,
+         "expl": "One of the most substantial doctrinal discourses in the canon, taught by a woman."},
+        {"q": "Who is Bhaddakaccānā identified with by the commentarial tradition?",
+         "opts": [
+             "The Buddha&rsquo;s former wife, Rāhula&rsquo;s mother",
+             "The Buddha&rsquo;s sister",
+             "A king&rsquo;s chief consort",
+             "The first laywoman to go for refuge"],
+         "correct": 0,
+         "expl": "The canon says nothing about that here; she is named for her attainment, in one line, like everyone else."},
+        {"q": "How many nuns are named here, against how many monks in the preceding chapters?",
+         "opts": [
+             "Thirteen against roughly eighty",
+             "Eighty against thirteen",
+             "An equal number of each",
+             "Five against forty"],
+         "correct": 0,
+         "expl": "Explaining that away is not possible, and pretending not to notice it is worse."},
+        {"q": "Which of these does the reading guide offer as part of an honest account of that asymmetry?",
+         "opts": [
+             "That the nuns&rsquo; order was founded later and remained smaller, and that the canon was compiled by a community in which men held most institutional positions",
+             "That the missing entries were lost in transmission",
+             "That women were not permitted to practice",
+             "That the asymmetry is illusory"],
+         "correct": 0,
+         "expl": "Several things are true at once, and the guide sets them out rather than choosing one."},
+        {"q": "What position does the series take on this material?",
+         "opts": [
+             "Apologetics &mdash; explaining the difficulties away",
+             "Dismissal &mdash; treating the tradition as irredeemable",
+             "That this chapter exists, uses the same terms, and stands beside a substantial body of the women&rsquo;s own poetry in the Therīgāthā &mdash; a stronger position than either",
+             "That the question should not be raised with students"],
+         "correct": 2,
+         "expl": "A tradition is not a single voice, and the reader is not obliged to pretend its voices agree."},
+        {"q": "What is the Therīgāthā?",
+         "opts": [
+             "A commentary on the monastic law",
+             "&ldquo;Verses of the Senior Nuns&rdquo; &mdash; canonical poetry by the first generation of Buddhist women, including several named here",
+             "A later Mahāyāna sūtra",
+             "A collection of rules for nuns"],
+         "correct": 1,
+         "expl": "It is the reason their voices survive and not only their placements."},
+        {"q": "How does the guide recommend teaching this chapter?",
+         "opts": [
+             "Separately, months after the monk chapters",
+             "Immediately after the four monk chapters without a break, so the correspondence of categories is felt rather than announced",
+             "Only to women&rsquo;s groups",
+             "Only alongside the Vinaya"],
+         "correct": 1,
+         "expl": "And then, if there is time, one of the discourses attached to a name."},
+    ],
+    "marginalia": [
+        ("The thirteen", [
+            "Mahāpajāpati &middot; long standing",
+            "Khemā &middot; great wisdom",
+            "Uppalavaṇṇā &middot; psychic power",
+            "Paṭācārā &middot; the monastic law",
+            "Dhammadinnā &middot; teaching",
+            "Nandā &middot; absorption",
+            "Soṇā &middot; energy",
+            "Sakulā &middot; clairvoyance",
+            "Bhaddā &middot; swift insight",
+            "Bhaddā Kāpilānī &middot; past lives",
+            "Bhaddakaccānā &middot; great insight",
+            "Kisāgotamī &middot; coarse robes",
+            "Siṅgāla&rsquo;s Mother &middot; faith",
+        ]),
+        ("Same words", [
+            "<span class=\"pali\">mahāpaññā</span>as of Sāriputta",
+            "<span class=\"pali\">vinayadharā</span>as of Upāli",
+            "<span class=\"pali\">dhammakathikā</span>as of Puṇṇa",
+        ]),
+        ("Held together", [
+            "thirteen against eighty",
+            "an order founded later",
+            "compiled by monks",
+            "and the Therīgāthā survives",
+        ]),
+        ("Cross-references", [
+            "MN 44 &middot; Dhammadinnā teaches",
+            "AN 8.53 &middot; advice to Gotamī",
+            "AN 1.248&ndash;257 &middot; next: the laymen",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.235-247/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-044.html">MN 44 &middot; The Shorter Series of Questions and '
+        "Answers</a> &mdash; Dhammadinnā answering doctrinal questions at length, and the Buddha "
+        "afterward endorsing every word.",
+        '<a href="an-8.53.html">AN 8.53 &middot; Brief Advice to Gotamī</a> &mdash; the Buddha giving '
+        "his foster mother, the first nun, a test she can apply to any teaching without him.",
+        '<a href="an-1.219-234.html">AN 1.219&ndash;234 &middot; Foremost Monks (IV)</a> &mdash; the '
+        "chapter to read immediately before this one, so that the shared categories are felt rather "
+        "than announced.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.248-257",
+    "index_pali": "Etadagga VI",
+    "nav_title": "Foremost Laymen",
+    "source": "an1/an1.248-257",
+    "crumb": "AN 1.248&ndash;257",
+    "meta_title": "AN 1.248–257 — Foremost Laymen | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Aṅguttara Nikāya's "
+        "chapter of foremost laymen — Anāthapiṇḍika the donor, Citta who taught the "
+        "teaching, Jīvaka the physician, and Nakula's father, foremost in intimacy. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.248&ndash;257",
+    "title": "Foremost Laymen",
+    "subtitle": "<em>Etadaggavagga</em> &mdash; the nineteenth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, naming his own disciples"),
+        ("Form", "Ten single-sentence declarations on the same template, with <em>laymen</em> "
+                 "(<em>upāsaka</em>) in place of <em>monk disciples</em>"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", ETADAGGA_PARALLEL),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; easy reading, and the chapter most "
+                       "directly addressed to the situation of everyone likely to read this page"),
+    ],
+    "why": (
+        "Ninety-three entries into the foremost list, the Buddha starts naming people who never "
+        "ordained. Householders, merchants, a physician, a Sakyan noble, a married man remembered for "
+        "how he got on with his wife. They are named in the same formula and with the same word "
+        "&mdash; foremost &mdash; as Sāriputta and Khemā. For readers whose practice happens inside a "
+        "job, a family, and a mortgage, this chapter and the one after it are the most consequential "
+        "pages in the Ones, because they settle a question that gets asked constantly and answered "
+        "badly: whether the lay life is a holding pattern."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Ten laymen are named unsurpassed &mdash; in giving, in teaching, in confidence, in "
+            "community-building, and in one case in the quality of a marriage &mdash; in the same "
+            "words used of the monastics."]),
+        ("What the categories are, and what they are not", [
+            "Four of the ten concern giving in one form or another: the merchants Tapussa and Bhallika "
+            "for being the first to go for refuge, Anāthapiṇḍika as a donor, Mahānāma Sakka for "
+            "donating fine things, Ugga of Vesālī for donating nice things, and Uggata for attending "
+            "on the Saṅgha. That weighting is real and it is worth naming: the primary lay function in "
+            "this economy is material support, and the list does not disguise it.",
+            "But it is not the whole list, and the rest is where the chapter gets interesting. Citta "
+            "Macchikāsaṇḍika is foremost among laymen <em>who speak on the teaching</em> &mdash; the "
+            "same category, <em>dhammakathika</em>, that Puṇṇa holds among the monks and Dhammadinnā "
+            "among the nuns. A householder is named unsurpassed at teaching the Dhamma. Elsewhere in "
+            "the canon Citta is shown out-arguing senior monastics on doctrinal points and correcting "
+            "a naked ascetic he had known since childhood.",
+            "Hatthaka of Āḷavī is foremost at attracting a congregation by the four ways of being "
+            "inclusive &mdash; giving, kind speech, beneficial conduct, and equality &mdash; which is a "
+            "leadership category, not a devotional one. Jīvaka Komārabhacca, the physician who treated "
+            "the Buddha and served the king, is foremost in confidence placed in an individual. And "
+            "Sūrambaṭṭha is foremost among those with experiential confidence, <em>aveccappasāda</em>: "
+            "confidence arrived at by having verified something rather than by being told it."]),
+        ("Nakula&rsquo;s father (AN 1.257)", [
+            "The last entry names the householder Nakula&rsquo;s father foremost among those who are "
+            "intimate &mdash; <em>vissāsaka</em>, at ease, trusting, on close terms. Of everything in "
+            "the ninety-three entries so far, this is the one that most resists being turned into a "
+            "spiritual accomplishment, and it is probably the most quietly radical.",
+            "Two discourses fill it in. In one, Nakula&rsquo;s father comes to the Buddha old and "
+            "chronically ill and is told that even if the body is sick the mind need not be. In "
+            "another, he and his wife tell the Buddha they have lived together since they were very "
+            "young without a thought of infidelity, and wish to see one another in a future life as "
+            "well; the Buddha does not correct them, and tells them what such a couple would have to "
+            "match in faith, ethics, generosity, and wisdom for that to be possible.",
+            "What is being called foremost, then, is a long marriage conducted well. It sits at the end "
+            "of a list that began with the first man to go for refuge, and it is on the same list as "
+            "psychic power and great wisdom. Any presentation of early Buddhism as fundamentally "
+            "world-renouncing has to find room for this line."]),
+        ("Whether the lay life is a holding pattern", [
+            "This is the question the chapter actually settles, and it is worth being direct. Much "
+            "popular Buddhism, in Asia and the West both, operates on an assumption that laypeople "
+            "support, and monastics practice; the layperson&rsquo;s realistic aspiration is a better "
+            "rebirth, from which real practice might become possible.",
+            "The canon is not consistent on this, and it would be dishonest to claim it is. There are "
+            "passages that describe household life as cramped and dusty and going forth as open air. "
+            "But this chapter, and the discourses attached to the names in it, hold the other line: "
+            "laypeople here are named foremost at teaching the Dhamma, at experiential confidence "
+            "&mdash; which is a term for stream-entry &mdash; and at the four ways of being inclusive. "
+            "They are not being praised for enabling someone else&rsquo;s practice. They are being "
+            "named for their own.",
+            "The most useful thing to do with this in a class is not to resolve the tension but to lay "
+            "both sets of passages out and let students see that the tradition contains an argument, "
+            "not a settled position."]),
+        ("A note on the names", [
+            "Anāthapiṇḍika &mdash; the name means something like &ldquo;feeder of the "
+            "destitute&rdquo; &mdash; bought and gave the Jeta Grove monastery at Sāvatthī, which is "
+            "the setting stated at AN 1.1 and therefore the implied location of every entry in this "
+            "nipāta including his own. Tapussa and Bhallika, first to go for refuge, are traditionally "
+            "said to have met the Buddha in the weeks after the awakening, before there was a Saṅgha to "
+            "take refuge in, which is why their formula is often given as a twofold rather than "
+            "threefold refuge."]),
+    ],
+    "terms": [
+        ("upāsaka",
+         "&ldquo;layman,&rdquo; literally one who sits near &mdash; a lay follower who has gone for "
+         "refuge. The chapter&rsquo;s formula is the monks&rsquo; with this word substituted."),
+        ("dhammakathika",
+         "&ldquo;one who speaks on the teaching&rdquo; &mdash; Citta&rsquo;s entry, and the same "
+         "category held by Puṇṇa among the monks and Dhammadinnā among the nuns."),
+        ("cattāri saṅgahavatthūni",
+         "&ldquo;the four ways of being inclusive&rdquo; &mdash; giving, kind speech, beneficial "
+         "conduct, and equality. Hatthaka of Āḷavī is foremost at gathering a community by these."),
+        ("aveccappasāda",
+         "&ldquo;experiential confidence&rdquo; &mdash; confidence arrived at by having verified "
+         "something rather than by being told it. Standardly a mark of stream-entry, and named here of "
+         "a layman."),
+        ("vissāsaka",
+         "&ldquo;intimate, on close terms, at ease&rdquo; &mdash; the quality Nakula&rsquo;s father is "
+         "named foremost in, and the hardest entry on the list to convert into a conventional spiritual "
+         "attainment."),
+    ],
+    "text_intro": (
+        "All ten declarations of the chapter, abbreviated in the Pāli after the first as in the monk "
+        "chapters. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Refuge, giving, and teaching (AN 1.248&ndash;251)"),
+        ("p", "&sect;248", "an1.248"),
+        ("p", "&sect;249", "an1.249"),
+        ("p", "&sect;250", "an1.250"),
+        ("p", "&sect;251", "an1.251"),
+        ("h3", "Supporting the community (AN 1.252&ndash;254)"),
+        ("p", "&sect;252", "an1.252"),
+        ("p", "&sect;253", "an1.253"),
+        ("p", "&sect;254", "an1.254"),
+        ("h3", "Confidence, and a marriage (AN 1.255&ndash;257)"),
+        ("p", "&sect;255", "an1.255"),
+        ("p", "&sect;256", "an1.256"),
+        ("p", "&sect;257", "an1.257"),
+    ],
+    "quiz": [
+        {"q": "What is Citta Macchikāsaṇḍika, a householder, named foremost in?",
+         "opts": [
+             "Donating land to the Saṅgha",
+             "Speaking on the teaching &mdash; the same category, <em>dhammakathika</em>, held by Puṇṇa among the monks and Dhammadinnā among the nuns",
+             "Curing the sick",
+             "Going for refuge first"],
+         "correct": 1,
+         "expl": "Elsewhere he is shown out-arguing senior monastics on doctrinal points."},
+        {"q": "What are the four ways of being inclusive that Hatthaka of Āḷavī is foremost at?",
+         "opts": [
+             "Giving, kind speech, beneficial conduct, and equality",
+             "Ethics, meditation, wisdom, and liberation",
+             "Faith, energy, mindfulness, and immersion",
+             "Fasting, silence, solitude, and study"],
+         "correct": 0,
+         "expl": "A leadership category rather than a devotional one."},
+        {"q": "What does <em>aveccappasāda</em>, Sūrambaṭṭha&rsquo;s entry, mean?",
+         "opts": [
+             "Confidence inherited from one&rsquo;s family",
+             "Confidence in the Saṅgha&rsquo;s decisions",
+             "Experiential confidence &mdash; arrived at by having verified something rather than by being told it, and standardly a mark of stream-entry",
+             "Confidence that increases with age"],
+         "correct": 2,
+         "expl": "Named here of a layman, which is the point."},
+        {"q": "What is Nakula&rsquo;s father named foremost in?",
+         "opts": [
+             "Generosity",
+             "Being intimate &mdash; <em>vissāsaka</em>, at ease, trusting, on close terms",
+             "Memorizing the discourses",
+             "Building monasteries"],
+         "correct": 1,
+         "expl": "The entry that most resists being turned into a conventional spiritual accomplishment."},
+        {"q": "What do he and his wife tell the Buddha in the discourse attached to that entry?",
+         "opts": [
+             "That they wish to ordain together",
+             "That they have lived together since they were very young without a thought of infidelity, and wish to see one another in a future life as well",
+             "That they have quarrelled and want a ruling",
+             "That they have given away all their property"],
+         "correct": 1,
+         "expl": "The Buddha does not correct them; he tells them what such a couple would have to match for it to be possible."},
+        {"q": "How does the reading guide describe the weighting of the ten categories?",
+         "opts": [
+             "That giving in some form accounts for several entries, and the list does not disguise that lay material support is a primary function",
+             "That none of the entries concern giving",
+             "That all ten concern giving",
+             "That the categories are identical to the nuns&rsquo;"],
+         "correct": 0,
+         "expl": "Real, and worth naming &mdash; but not the whole list, and the rest is where it gets interesting."},
+        {"q": "What question does the guide say this chapter settles?",
+         "opts": [
+             "Whether laypeople may hear the discourses",
+             "Whether the lay life is a holding pattern in which one supports others&rsquo; practice while awaiting a better rebirth",
+             "Whether monastics may own property",
+             "Whether the Buddha taught in Pāli"],
+         "correct": 1,
+         "expl": "Laypeople here are named for their own practice, not for enabling someone else's."},
+        {"q": "Is the canon consistent on that question, according to the guide?",
+         "opts": [
+             "Yes, entirely consistent in favor of lay practice",
+             "Yes, entirely consistent against it",
+             "No &mdash; other passages describe household life as cramped and dusty, and the honest move is to lay both sets out and let students see that the tradition contains an argument",
+             "The canon does not address it"],
+         "correct": 2,
+         "expl": "Not to resolve the tension but to show that it exists."},
+        {"q": "What is the connection between Anāthapiṇḍika and the setting of this whole nipāta?",
+         "opts": [
+             "He recited it at the first council",
+             "He bought and gave the Jeta Grove monastery at Sāvatthī, which is the setting stated at AN 1.1 and therefore the implied location of every entry including his own",
+             "He was the Buddha&rsquo;s cousin",
+             "He commissioned the first written copy"],
+         "correct": 1,
+         "expl": "The monastery is named after him in the opening formula of the collection."},
+        {"q": "Why is the refuge of Tapussa and Bhallika sometimes given as twofold rather than threefold?",
+         "opts": [
+             "Because they were not yet literate",
+             "Because they took refuge in a dream",
+             "Because they are said to have met the Buddha in the weeks after the awakening, before there was a Saṅgha to take refuge in",
+             "Because they were merchants rather than householders"],
+         "correct": 2,
+         "expl": "First to go for refuge, at a point when only two of the three refuges existed."},
+    ],
+    "marginalia": [
+        ("The ten", [
+            "Tapussa &amp; Bhallika &middot; first refuge",
+            "Anāthapiṇḍika &middot; donor",
+            "Citta &middot; speaking on the teaching",
+            "Hatthaka &middot; gathering a community",
+            "Mahānāma &middot; fine things",
+            "Ugga of Vesālī &middot; nice things",
+            "Uggata &middot; attending the Saṅgha",
+            "Sūrambaṭṭha &middot; experiential confidence",
+            "Jīvaka &middot; confidence in a person",
+            "Nakula&rsquo;s father &middot; intimacy",
+        ]),
+        ("Not only giving", [
+            "<span class=\"pali\">dhammakathika</span>a householder teaching",
+            "<span class=\"pali\">aveccappasāda</span>verified confidence",
+            "<span class=\"pali\">vissāsaka</span>a marriage",
+        ]),
+        ("The argument", [
+            "&ldquo;cramped and dusty&rdquo; elsewhere",
+            "foremost, in the same words, here",
+            "the tradition contains both",
+        ]),
+        ("Cross-references", [
+            "AN 6.16 &middot; Nakula&rsquo;s father, ill",
+            "SN 41.1 &middot; Citta and the monks",
+            "AN 1.258&ndash;267 &middot; next: the laywomen",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.248-257/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.16.html">AN 6.16 &middot; Nakula&rsquo;s Father</a> &mdash; the household behind '
+        "AN 1.257: a sick old man, his wife talking him out of dying anxious, and the Buddha&rsquo;s "
+        "endorsement afterward.",
+        '<a href="../samyutta-nikaya/sn-41.1.html">SN 41.1 &middot; The Fetter</a> &mdash; Citta the '
+        "householder among senior monks, and the reason a layman holds the teaching category.",
+        '<a href="an-4.62.html">AN 4.62 &middot; Debtlessness</a> &mdash; the four kinds of happiness '
+        "available to a householder, stated without any suggestion that they are second best.",
+    ],
+})
+
+
+PAGES.append({
+    "slug": "an-1.258-267",
+    "index_pali": "Etadagga VII",
+    "nav_title": "Foremost Laywomen",
+    "source": "an1/an1.258-267",
+    "crumb": "AN 1.258&ndash;267",
+    "meta_title": "AN 1.258–267 — Foremost Laywomen | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Aṅguttara Nikāya's "
+        "chapter of foremost laywomen — Visākhā the great donor, Sāmāvatī who dwelt in love, "
+        "Suppiyā who cared for the sick, and Khujjuttarā, an enslaved woman named foremost in "
+        "learning of them all. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 1.258&ndash;267",
+    "title": "Foremost Laywomen",
+    "subtitle": "<em>Etadaggavagga</em> &mdash; the twentieth chapter of the Ones",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 1.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, naming his own disciples"),
+        ("Form", "Ten single-sentence declarations, closing the foremost list and with it the "
+                 "seven chapters of named disciples"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", ETADAGGA_PARALLEL),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest kind of reading, "
+                       "containing at least one entry that changes how the whole list looks"),
+    ],
+    "why": (
+        "The foremost list ends here, and it ends with ten laywomen. One of them is a queen&rsquo;s "
+        "attendant who was legally enslaved, and she is named foremost in learning &mdash; not among "
+        "servants, not among women of her station, but among all the Buddha&rsquo;s laywomen "
+        "disciples. Another is named foremost for caring for the sick. Another for dwelling in love, "
+        "and the story attached to her is one of the most terrible in the canon. A list that began "
+        "with Koṇḍañña, the first man to understand, closes on this."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Ten laywomen close the foremost list, named for learning, love, giving, absorption, "
+            "nursing, verified confidence, a marriage, and the trust of someone who only ever "
+            "overheard."]),
+        ("Khujjuttarā (AN 1.260)", [
+            "Foremost among laywomen who are very learned &mdash; <em>bahussutānaṁ</em>, the same term "
+            "used of Ānanda at AN 1.219. Khujjuttarā was an attendant of Queen Sāmāvatī, and in the "
+            "tradition&rsquo;s account she was a slave; her name refers to a curvature of her back. She "
+            "went daily to buy flowers, heard the Buddha teach, and returned to repeat what she had "
+            "heard to the women of the palace, who could not leave it.",
+            "The tradition takes this further than a single entry. The Itivuttaka, one of the short "
+            "books of the canon, is by tradition attributed to Khujjuttarā&rsquo;s transmission &mdash; "
+            "its distinctive formula, &ldquo;this was said by the Blessed One,&rdquo; instead of the "
+            "usual &ldquo;so I have heard,&rdquo; is understood as her reporting to others what she had "
+            "heard directly. Whether or not that attribution is historical, its existence is the point: "
+            "the tradition was prepared to say that a book of its canon came through an enslaved woman.",
+            "This entry is worth reading beside AN 1.219, where Ānanda holds the same category among "
+            "monks. Both are named for hearing and holding. One was the Buddha&rsquo;s cousin and "
+            "constant attendant; the other bought flowers."]),
+        ("Sāmāvatī (AN 1.261)", [
+            "Foremost among those who dwell in love, <em>mettāvihārī</em>. Sāmāvatī was the queen "
+            "Khujjuttarā served, and the story the commentaries attach to her is grim: a rival "
+            "consort&rsquo;s intrigue ended with Sāmāvatī and her women burned to death in their "
+            "quarters, and the tradition holds that she maintained goodwill toward those who killed her "
+            "throughout.",
+            "There is a real question about how to teach a story like that, and it should not be waved "
+            "through. Told carelessly it becomes an argument that victims should be serene, which is "
+            "not what the canon is doing and is a genuinely harmful thing to imply. What the entry "
+            "actually names is her practice, in circumstances that give the naming its weight; it does "
+            "not tell anyone else to endure anything. A teacher unsure of the room is better off "
+            "reading the entry and saying that the traditional story is severe, and offering it "
+            "afterward to those who want it, than delivering it as an uplift."]),
+        ("Visākhā, Suppavāsā, Suppiyā", [
+            "Visākhā, Migāra&rsquo;s mother, is foremost as a donor &mdash; the counterpart of "
+            "Anāthapiṇḍika, and one of the most vividly drawn characters in the canon, who appears "
+            "negotiating, arguing, weeping, and getting her way. Suppavāsā the Koliyan is foremost "
+            "among those who give fine things. Suppiyā is foremost among those who care for the sick, "
+            "which is the only entry in the entire eighty-plus list for nursing, and the Vinaya records "
+            "her attending sick monks at considerable personal cost.",
+            "That nursing appears once, and appears here, is worth a sentence. The canon elsewhere has "
+            "the Buddha find a monk lying in his own waste, unattended, wash him himself, and tell the "
+            "community that whoever would tend him should tend the sick. The category exists; it is "
+            "named once; and it is named of a laywoman."]),
+        ("Confidence, marriage, and hearsay (AN 1.265&ndash;267)", [
+            "Kātiyānī is foremost in experiential confidence, the same term used of Sūrambaṭṭha in the "
+            "previous chapter. Nakula&rsquo;s mother is foremost among those who are intimate, exactly "
+            "as her husband is &mdash; the two entries are the same category, one at the end of each "
+            "chapter, and reading them together is the intended effect.",
+            "The last entry of the entire foremost list is the strangest and the best. Kāḷī of "
+            "Kuraraghara is foremost among those whose confidence is based on oral transmission "
+            "&mdash; <em>anussava</em>, hearsay, report. She is said to have overheard a conversation "
+            "between two spirits praising the Buddha, and to have gained confidence from that, before "
+            "ever meeting him.",
+            "What makes this remarkable is that <em>anussava</em> is one of the ten grounds the Buddha "
+            "tells the Kālāmas not to rely on. The list closes by naming someone foremost in a mode of "
+            "confidence the canon elsewhere warns against relying on by itself. That is not a "
+            "contradiction if the two passages are read carefully &mdash; AN 3.65 says hearsay does not "
+            "settle whether a doctrine is true, not that nothing good ever begins in hearsay &mdash; "
+            "but the juxtaposition is deliberate enough to be worth putting in front of a class. "
+            "Almost everyone&rsquo;s first contact with anything is hearsay. The question is what they "
+            "do next."]),
+    ],
+    "terms": [
+        ("upāsikā",
+         "&ldquo;laywoman&rdquo; &mdash; a lay follower who has gone for refuge. The final substitution "
+         "in the <em>etadagga</em> formula."),
+        ("bahussutā",
+         "&ldquo;very learned,&rdquo; of much hearing &mdash; Khujjuttarā&rsquo;s entry, and the same "
+         "term used of Ānanda at AN 1.219."),
+        ("mettāvihārī",
+         "&ldquo;dwelling in love&rdquo; &mdash; Sāmāvatī&rsquo;s entry. Not a momentary practice but a "
+         "way of living, which is what makes the commentarial story attached to it so heavy."),
+        ("gilānupaṭṭhākā",
+         "&ldquo;one who attends the sick&rdquo; &mdash; Suppiyā&rsquo;s entry, and the only entry for "
+         "nursing anywhere on the foremost list."),
+        ("anussava",
+         "&ldquo;oral transmission, report, hearsay&rdquo; &mdash; the basis of Kāḷī&rsquo;s confidence, "
+         "and one of the ten grounds AN 3.65 tells the Kālāmas not to rely on by itself."),
+    ],
+    "text_intro": (
+        "All ten declarations of the chapter, abbreviated in the Pāli after the first as before. These "
+        "close the foremost list. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Refuge, giving, learning, love (AN 1.258&ndash;261)"),
+        ("p", "&sect;258", "an1.258"),
+        ("p", "&sect;259", "an1.259"),
+        ("p", "&sect;260", "an1.260"),
+        ("p", "&sect;261", "an1.261"),
+        ("h3", "Absorption, giving, nursing (AN 1.262&ndash;264)"),
+        ("p", "&sect;262", "an1.262"),
+        ("p", "&sect;263", "an1.263"),
+        ("p", "&sect;264", "an1.264"),
+        ("h3", "Confidence, intimacy, and what was overheard (AN 1.265&ndash;267)"),
+        ("p", "&sect;265", "an1.265"),
+        ("p", "&sect;266", "an1.266"),
+        ("p", "&sect;267", "an1.267"),
+    ],
+    "quiz": [
+        {"q": "Who is Khujjuttarā, and what is she named foremost in?",
+         "opts": [
+             "A queen, foremost as a donor",
+             "A nun, foremost in absorption",
+             "A queen&rsquo;s attendant, enslaved in the tradition&rsquo;s account, named foremost among laywomen who are very learned",
+             "A merchant, foremost in going for refuge"],
+         "correct": 2,
+         "expl": "<em>Bahussutā</em> &mdash; the same term used of Ānanda at AN 1.219."},
+        {"q": "What does the tradition attribute to Khujjuttarā&rsquo;s transmission?",
+         "opts": [
+             "The Itivuttaka, whose distinctive formula &ldquo;this was said by the Blessed One&rdquo; is understood as her reporting what she had heard directly",
+             "The Vinaya",
+             "The Dhammapada",
+             "The commentaries"],
+         "correct": 0,
+         "expl": "Whether or not the attribution is historical, its existence is the point."},
+        {"q": "Why does the guide say Khujjuttarā&rsquo;s entry should be read beside AN 1.219?",
+         "opts": [
+             "Because both are about generosity",
+             "Because both name the same category &mdash; hearing and holding &mdash; one of the Buddha&rsquo;s cousin and constant attendant, the other of someone who bought flowers",
+             "Because they were spoken on the same day",
+             "Because the entries contradict each other"],
+         "correct": 1,
+         "expl": "The same term, in the same formula, across the widest possible difference in station."},
+        {"q": "How does the guide advise handling the traditional story attached to Sāmāvatī?",
+         "opts": [
+             "Told carelessly it becomes an argument that victims should be serene, which is not what the canon is doing and is harmful to imply; a teacher unsure of the room can name it as severe and offer it afterward",
+             "It should never be mentioned",
+             "It should be presented as an uplifting example to everyone",
+             "It should be treated as historical fact"],
+         "correct": 0,
+         "expl": "What the entry names is her practice; it does not tell anyone else to endure anything."},
+        {"q": "What is unique about Suppiyā&rsquo;s entry?",
+         "opts": [
+             "It is the only entry given in verse",
+             "It is the only entry for nursing anywhere on the foremost list",
+             "It is the only entry naming two people",
+             "It is the only entry without a name"],
+         "correct": 1,
+         "expl": "The category exists, is named once, and is named of a laywoman."},
+        {"q": "What does the canon record the Buddha doing for a sick monk?",
+         "opts": [
+             "Sending him home to his family",
+             "Assigning a physician from the palace",
+             "Finding him lying unattended in his own waste, washing him himself, and telling the community that whoever would tend him should tend the sick",
+             "Prescribing a course of fasting"],
+         "correct": 2,
+         "expl": "Which is the background against which Suppiyā's single entry sits."},
+        {"q": "How do the entries for Nakula&rsquo;s father and Nakula&rsquo;s mother relate?",
+         "opts": [
+             "They are different categories",
+             "They are the same category, one at the end of each chapter, and reading them together is the intended effect",
+             "Only one of them is authentic",
+             "They contradict each other"],
+         "correct": 1,
+         "expl": "Both are named foremost among those who are intimate."},
+        {"q": "What is Kāḷī of Kuraraghara named foremost in?",
+         "opts": [
+             "Confidence based on oral transmission &mdash; <em>anussava</em>, hearsay",
+             "Generosity toward the Saṅgha",
+             "Mastery of the monastic law",
+             "Recollection of past lives"],
+         "correct": 0,
+         "expl": "She is said to have overheard two spirits praising the Buddha, before ever meeting him."},
+        {"q": "Why is that entry striking?",
+         "opts": [
+             "Because it is the longest on the list",
+             "Because <em>anussava</em> is one of the ten grounds the Buddha tells the Kālāmas not to rely on",
+             "Because she is the only person named twice",
+             "Because it is the only entry with no name attached"],
+         "correct": 1,
+         "expl": "The last entry of the whole foremost list names someone foremost in a mode of confidence the canon elsewhere warns about."},
+        {"q": "How does the guide resolve that juxtaposition?",
+         "opts": [
+             "By treating one of the two passages as inauthentic",
+             "By noting that AN 3.65 says hearsay does not settle whether a doctrine is true, not that nothing good ever begins in hearsay &mdash; almost everyone&rsquo;s first contact with anything is hearsay, and the question is what they do next",
+             "By concluding that the Kālāma Sutta was misunderstood",
+             "By declining to comment"],
+         "correct": 1,
+         "expl": "Not a contradiction if both are read carefully, but deliberate enough to put in front of a class."},
+    ],
+    "marginalia": [
+        ("The ten", [
+            "Sujātā &middot; first refuge",
+            "Visākhā &middot; donor",
+            "Khujjuttarā &middot; very learned",
+            "Sāmāvatī &middot; dwelling in love",
+            "Uttarā &middot; absorption",
+            "Suppavāsā &middot; fine things",
+            "Suppiyā &middot; caring for the sick",
+            "Kātiyānī &middot; verified confidence",
+            "Nakula&rsquo;s mother &middot; intimacy",
+            "Kāḷī &middot; what she overheard",
+        ]),
+        ("Khujjuttarā", [
+            "<span class=\"pali\">bahussutā</span>as of Ānanda",
+            "a queen&rsquo;s attendant, enslaved",
+            "went to buy flowers, and repeated",
+            "the Itivuttaka, by tradition",
+        ]),
+        ("The last entry", [
+            "<span class=\"pali\">anussava</span>hearsay",
+            "one of the ten the Kālāmas are warned of",
+            "and here, named foremost",
+        ]),
+        ("Cross-references", [
+            "Itivuttaka &middot; &ldquo;this was said&rdquo;",
+            "AN 3.65 &middot; the ten grounds",
+            "AN 1.248&ndash;257 &middot; the laymen",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an1.258-267/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../itivuttaka/index.html">The Itivuttaka</a> &mdash; the book of the canon the '
+        "tradition attributes to Khujjuttarā&rsquo;s transmission, and the reason its discourses open "
+        "&ldquo;this was said by the Blessed One&rdquo; rather than &ldquo;so I have heard.&rdquo;",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; where '
+        "<em>anussava</em> heads the list of things not to go by, which is what makes AN 1.267 worth "
+        "arguing about.",
+        '<a href="an-1.235-247.html">AN 1.235&ndash;247 &middot; Foremost Nuns</a> &mdash; the other '
+        "chapter of women on the foremost list, and the one to read beside this.",
+    ],
+})
