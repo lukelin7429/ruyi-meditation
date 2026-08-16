@@ -16331,3 +16331,1222 @@ page(
         "discourse&rsquo;s six heavens and their arithmetic.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.71–3.80 — Ānandavagga
+# --------------------------------------------------------------------------- #
+VAGGA_8 = "<em>Ānandavagga</em> &mdash; the eighth chapter of the Threes"
+
+page(
+    71, "Channa", "With Channa",
+    vagga=VAGGA_8,
+    meta_title="AN 3.71 — With Channa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Channasutta — a wanderer "
+        "asks Ānanda what is wrong with greed, and the answer ends with a clause the earlier "
+        "versions do not have. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta&rsquo;s Grove, Anāthapiṇḍika&rsquo;s monastery"),
+        ("Speakers", "The wanderer Channa and Venerable Ānanda"),
+        ("Form", "A question, a request for reasons, the threefold analysis with an added clause, and "
+                 "a question about method"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; familiar material with one new "
+                       "sentence in it, and a good closing line"),
+    ],
+    why=(
+        "The chapter named after Ānanda opens with him answering for the tradition. A wanderer asks "
+        "whether they advocate giving up greed, hate, and delusion; he says yes; the wanderer asks "
+        "what drawbacks they have seen that they should say so. The answer is the analysis AN 3.54 "
+        "gave, with one clause added &mdash; <em>greed is a destroyer of sight, vision, and "
+        "knowledge; it blocks wisdom</em> &mdash; and it closes with a sentence worth memorizing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Greed is objected to because of what it does to seeing, and there is a specified method "
+            "for removing it."]),
+        ("The shape of the question", [
+            "Channa does not ask what the teaching is. He asks two things in sequence: do you "
+            "advocate this, and <em>what drawbacks have you seen</em> that you do?",
+            "That second question is the interesting one, and it is the right question to ask any "
+            "tradition. Not what do you recommend, but what did you observe that made you recommend "
+            "it. Ānanda answers it as asked &mdash; the reply is a list of consequences, not a "
+            "citation of authority, and he never says that the Buddha taught it.",
+            "The wanderer is named Channa, which is also the name of the Buddha&rsquo;s former "
+            "charioteer who became a difficult monk. This is a different person; the canon has "
+            "several Channas and does not distinguish them by epithet here."]),
+        ("The analysis, and the clause that is new", [
+            "The first three parts are the ones AN 3.54 gave to a wanderer: a greedy person intends "
+            "harm and suffers mental pain; acts badly in body, speech, and mind; and does not truly "
+            "understand what is for their own good, another&rsquo;s, or both. Each with its negation "
+            "when greed has gone.",
+            "Then a fourth clause that the earlier discourses do not have: <em>greed is a destroyer "
+            "of sight, vision, and knowledge. It blocks wisdom, it&rsquo;s on the side of distress, "
+            "and it doesn&rsquo;t lead to extinguishment.</em>",
+            "Three verbs and a direction. <em>Andhakaraṇa</em>, making blind; <em>acakkhukaraṇa</em>, "
+            "making eyeless; <em>aññāṇakaraṇa</em>, making unknowing. Then <em>paññānirodhika</em>, "
+            "blocking wisdom, and a placement: on the side of distress, not leading to extinguishment.",
+            "This is the same claim AN 3.54 made about judgment, sharpened into a metaphor of "
+            "blindness and then given a destination. It is worth telling a class that the "
+            "canon&rsquo;s central objection to greed is not that it is selfish but that it is a "
+            "visual impairment &mdash; which is why the antidote is described as seeing rather than "
+            "as restraint."]),
+        ("The question about method", [
+            "Channa then asks the question that makes the discourse more than a complaint: <em>is "
+            "there a path and a practice for giving up that greed, hate, and delusion?</em>",
+            "Ānanda answers with the noble eightfold path, given in full. Nothing else is offered and "
+            "no shorter version is provided.",
+            "The pairing of these two questions is the discourse&rsquo;s structure, and it is a good "
+            "model for teaching anything. First, what is wrong with the current situation, stated as "
+            "consequences that can be checked; then, what is to be done about it, stated as a method "
+            "with parts. A diagnosis and a procedure, in that order, and nothing in between."]),
+        ("The closing line", [
+            "&ldquo;This is a fine path, a fine practice, for giving up that greed, hate, and "
+            "delusion. Just this much is enough for diligence.&rdquo;",
+            "<em>Alameva appamādāya</em> &mdash; this much is enough to be diligent about. It is "
+            "Channa&rsquo;s line, not Ānanda&rsquo;s, and he is a wanderer of another school.",
+            "The sentence is doing something specific. He is not converting; he does not go for "
+            "refuge, and the discourse does not record him becoming a lay follower, which is unusual "
+            "in a chapter full of conversions. What he says is that the material he has just been "
+            "given is sufficient to work on, which is a smaller and in some ways more interesting "
+            "response.",
+            "<em>Appamāda</em>, diligence or heedfulness, is the canon&rsquo;s great positive term "
+            "&mdash; the opposite of the <em>pamāda</em> that the person in AN 3.36 gave as their "
+            "excuse to King Yama. A discourse that has spent its length on what greed does to sight "
+            "ends with somebody saying that this is enough to be going on with."]),
+        ("Using it", [
+            "This is the version of the greed analysis to teach when the class wants to know why "
+            "anybody would bother giving something up. AN 3.53 answers the question <em>is this "
+            "checkable</em>; AN 3.54 adds the damage to judgment; this one adds the blindness clause "
+            "and, crucially, the method.",
+            "Channa&rsquo;s two questions are also the most transferable thing in the chapter. A "
+            "teacher who can answer <em>what drawbacks have you seen?</em> and <em>is there a path "
+            "and a practice?</em> about their own subject has a lesson; a teacher who can answer only "
+            "the first has a complaint."]),
+    ],
+    terms=[
+        ("ādīnava",
+         "&ldquo;drawback, danger&rdquo; &mdash; what Channa asks to have been <em>seen</em>, not "
+         "taught. The question is about observation rather than authority."),
+        ("andhakaraṇa acakkhukaraṇa",
+         "&ldquo;making blind, making eyeless&rdquo; &mdash; the new clause&rsquo;s verbs for what "
+         "greed does, turning the earlier claim about judgment into a metaphor of sight."),
+        ("paññānirodhika",
+         "&ldquo;blocking wisdom&rdquo; &mdash; and then a placement: on the side of distress, not "
+         "leading to extinguishment."),
+        ("appamāda",
+         "&ldquo;diligence, heedfulness&rdquo; &mdash; the canon&rsquo;s great positive term, and the "
+         "opposite of the <em>pamāda</em> offered as an excuse in AN 3.36."),
+        ("alameva appamādāya",
+         "&ldquo;just this much is enough for diligence&rdquo; &mdash; Channa&rsquo;s closing line, "
+         "spoken by a wanderer of another school who does not convert."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Two questions"),
+        ("p", "&sect;1", "an3.71:1.1-1.5"),
+        ("p", "&sect;2", "an3.71:2.1"),
+        ("h3", "What has been seen"),
+        ("p", "&sect;3", "an3.71:3.1-3.7"),
+        ("p", "&sect;4", "an3.71:4.1-4.9"),
+        ("h3", "And what is to be done"),
+        ("p", "&sect;5", "an3.71:5.1-5.8"),
+    ],
+    quiz=[
+        {"q": "What two questions does Channa ask?",
+         "opts": [
+             "Whether they advocate giving up the three roots, and what drawbacks they have <em>seen</em> that they do",
+             "Who taught this, and when",
+             "Whether the Buddha is awakened, and how it is known",
+             "Whether he should ordain, and where"],
+         "correct": 0,
+         "expl": "Not what do you recommend, but what did you observe that made you recommend it."},
+        {"q": "How does Ānanda answer the second question?",
+         "opts": [
+             "By citing the Buddha&rsquo;s authority",
+             "With a list of consequences &mdash; and he never says that the Buddha taught it",
+             "By refusing",
+             "With a simile"],
+         "correct": 1,
+         "expl": "He answers it as asked."},
+        {"q": "What clause does this discourse add to the analysis of AN 3.54?",
+         "opts": [
+             "That greed leads to a bad rebirth",
+             "That greed destroys sight, vision, and knowledge; blocks wisdom; is on the side of distress; and does not lead to extinguishment",
+             "That greed is quick to fade",
+             "That greed is mildly blameworthy"],
+         "correct": 1,
+         "expl": "Three verbs and a direction."},
+        {"q": "How does the guide characterize the canon&rsquo;s central objection to greed?",
+         "opts": [
+             "That it is selfish",
+             "That it is a visual impairment &mdash; which is why the antidote is described as seeing rather than as restraint",
+             "That it is socially harmful",
+             "That it is forbidden"],
+         "correct": 1,
+         "expl": "The claim about judgment sharpened into a metaphor of blindness."},
+        {"q": "What does Channa ask after the analysis?",
+         "opts": [
+             "Whether the Buddha is present",
+             "Whether there is a path and a practice for giving up greed, hate, and delusion",
+             "Whether laypeople can do it",
+             "How long it takes"],
+         "correct": 1,
+         "expl": "The question that makes the discourse more than a complaint."},
+        {"q": "What answer does he get?",
+         "opts": [
+             "The noble eightfold path, given in full, with nothing else offered",
+             "The three trainings",
+             "The four immeasurables",
+             "The eight-factored sabbath"],
+         "correct": 0,
+         "expl": "No shorter version is provided."},
+        {"q": "What model for teaching does the guide draw from the structure?",
+         "opts": [
+             "Story, moral, and application",
+             "A diagnosis and a procedure, in that order, with nothing in between",
+             "Question, silence, and answer",
+             "Simile followed by explanation"],
+         "correct": 1,
+         "expl": "What is wrong, stated as consequences that can be checked; then what is to be done, stated as a method with parts."},
+        {"q": "Who speaks the closing line, and what is unusual about it?",
+         "opts": [
+             "Ānanda, and it is a summary",
+             "Channa &mdash; a wanderer of another school &mdash; and he does not convert or go for refuge",
+             "The Buddha, and it is a rebuke",
+             "A layman, and it is a request"],
+         "correct": 1,
+         "expl": "Unusual in a chapter full of conversions."},
+        {"q": "What does <em>alameva appamādāya</em> mean?",
+         "opts": [
+             "&ldquo;This is the whole teaching&rdquo;",
+             "&ldquo;Just this much is enough for diligence&rdquo; &mdash; the material is sufficient to work on",
+             "&ldquo;I take refuge&rdquo;",
+             "&ldquo;I do not accept this&rdquo;"],
+         "correct": 1,
+         "expl": "A smaller and in some ways more interesting response than conversion."},
+        {"q": "How does <em>appamāda</em> connect to AN 3.36?",
+         "opts": [
+             "It does not",
+             "It is the opposite of the <em>pamāda</em>, negligence, that the person before King Yama offers as their excuse",
+             "It names the same practice",
+             "It is a synonym"],
+         "correct": 1,
+         "expl": "The canon&rsquo;s great positive term, set against its great diagnosis."},
+    ],
+    marginalia=[
+        ("Two questions", [
+            "&ldquo;do you advocate this?&rdquo;",
+            "&ldquo;what drawbacks have you seen?&rdquo;",
+            "&mdash; then: &ldquo;is there a path?&rdquo;",
+        ]),
+        ("The new clause", [
+            "<span class=\"pali\">andhakaraṇa</span>making blind",
+            "<span class=\"pali\">acakkhukaraṇa</span>making eyeless",
+            "<span class=\"pali\">paññānirodhika</span>blocking wisdom",
+        ]),
+        ("The closing line", [
+            "&ldquo;just this much is enough",
+            "for diligence&rdquo;",
+            "&mdash; and he does not convert",
+        ]),
+        ("Cross-references", [
+            "AN 3.54 &middot; the analysis without the clause",
+            "AN 3.36 &middot; negligence, as an excuse",
+            "AN 3.62 &middot; the eightfold path named",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.71/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.54.html">AN 3.54 &middot; A Wanderer</a> &mdash; the same three-part analysis '
+        "without the blindness clause and without the path, given by the Buddha rather than by "
+        "Ānanda.",
+        '<a href="an-3.36.html">AN 3.36 &middot; Messengers of the Gods</a> &mdash; for '
+        "<em>pamāda</em>, negligence, in the mouth of somebody explaining why they did nothing, which "
+        "is what Channa&rsquo;s closing word is the opposite of.",
+        '<a href="an-3.62.html">AN 3.62 &middot; Perils</a> &mdash; the other place in this '
+        "collection where a threefold analysis is closed by naming the eightfold path in full.",
+    ],
+)
+
+
+page(
+    72, "Ājīvaka", "A Disciple of the Ājīvakas",
+    vagga=VAGGA_8,
+    meta_title="AN 3.72 — A Disciple of the Ājīvakas | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ājīvakasutta — asked "
+        "whose teaching is best, Ānanda answers without naming anyone, and is thanked for it. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, in Ghosita&rsquo;s Monastery"),
+        ("Speakers", "A householder who was a disciple of the Ājīvaka ascetics, and Venerable Ānanda"),
+        ("Form", "Three questions, answered by three counter-questions, then read back to the "
+                 "questioner"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Comparable material on answering sectarian comparison without "
+                              "sectarian claims is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and one of the best-made "
+                       "conversations in the collection"),
+    ],
+    why=(
+        "A householder who follows another school asks Ānanda the question every religious teacher "
+        "wants to be asked and should be afraid of: <em>whose teaching is well explained? Who in the "
+        "world is practicing well? Who has done well?</em> Ānanda does not answer. He asks three "
+        "questions back, gets three answers, repeats them to the man &mdash; and never names his own "
+        "tradition once."),
+    guide=[
+        ("The teaching in one sentence", [
+            "You can answer &ldquo;who is right?&rdquo; without saying &ldquo;we are.&rdquo;"]),
+        ("Who is asking", [
+            "The Ājīvakas were a major renunciate movement of the period, led by Makkhali Gosāla, and "
+            "the canon treats them as serious rivals rather than as cranks &mdash; AN 3.61 in this "
+            "same collection sets out and refutes the doctrine of one of their positions at length.",
+            "So this is not a neutral inquirer. It is a householder who supports another school, "
+            "asking a member of this one to rank them. The question has a trap in it whichever way it "
+            "is answered: claim superiority and you are a sectarian; decline and you have nothing to "
+            "teach."]),
+        ("The three counter-questions", [
+            "Ānanda&rsquo;s move is to convert each of the three questions from <em>who</em> to "
+            "<em>what</em>.",
+            "<em>Is the teaching of those who teach for giving up greed, hate, and delusion well "
+            "explained or not?</em> The householder says it is. <em>Are those who practice for "
+            "giving up greed, hate, and delusion practicing well?</em> He says they are. <em>Have "
+            "those who have given up greed, hate, and delusion &mdash; cut off at the root, made like "
+            "a palm stump &mdash; done well in the world?</em> He says they have.",
+            "Then Ānanda simply reads the three answers back to him. That is the whole discourse. No "
+            "conclusion is drawn and no application is made.",
+            "The construction is worth noticing. Each counter-question is stated in terms of a "
+            "criterion rather than a group, and the criterion is one the householder can evaluate "
+            "himself. Anybody who teaches for the giving up of the three roots is covered; the "
+            "question of which school does so is left entirely open, and Ānanda never closes it."]),
+        ("What the householder says", [
+            "The praise he offers is the finest description of good teaching in the collection and "
+            "should be quoted rather than summarized:",
+            "<em>There&rsquo;s no acclaiming your own teaching or disrespecting someone else&rsquo;s, "
+            "just teaching what&rsquo;s relevant in that context. The goal is spoken of, but the self "
+            "is not involved.</em>",
+            "Four things are named. No self-promotion. No disparagement of others. Relevance to the "
+            "situation. And &mdash; the last clause &mdash; the matter is discussed without the "
+            "speaker&rsquo;s own position entering into it. <em>Attho ca vutto attā ca anupanīto</em>: "
+            "the goal was stated and the self was not brought in.",
+            "Only then does he apply the criteria himself: <em>you, sir, teach Dhamma for giving up "
+            "greed, hate, and delusion; your teaching is well explained.</em> He draws the conclusion "
+            "Ānanda declined to draw, and he draws it about Ānanda personally, including the third "
+            "one &mdash; <em>you&rsquo;ve given up greed, hate, and delusion; you in the world have "
+            "done well.</em>",
+            "That is a considerable claim to make about somebody, and Ānanda does not accept or deny "
+            "it. The discourse ends with the householder going for refuge."]),
+        ("Why the method works", [
+            "It is worth being precise about what Ānanda has and has not achieved, because the "
+            "discourse is often praised in vague terms.",
+            "He has not avoided the question. All three of the man&rsquo;s questions are answered, "
+            "and the answers are the ones his own tradition would give. What he has avoided is "
+            "answering them by naming a group, and the effect is that the householder ends up "
+            "applying the criteria for himself &mdash; including to Ānanda, which is where the "
+            "sectarian claim would have gone if it had been made at the start.",
+            "This is the same technique as AN 3.66, where Nandaka lets two young men reach the "
+            "conclusion, and AN 3.60, where Saṅgārava ranks the three demonstrations himself. The "
+            "Threes clearly regard it as the standard method, and it is worth pointing out that all "
+            "three instances involve somebody who might reasonably have suspected the speaker of "
+            "special pleading."]),
+        ("Using it", [
+            "For anyone teaching in a mixed or non-Buddhist setting, this is the model discourse and "
+            "the householder&rsquo;s four criteria are the checklist. Am I promoting my own thing? Am "
+            "I disparaging somebody else&rsquo;s? Is this relevant here? Is my own position doing "
+            "work in the argument that the subject matter should be doing?",
+            "The last is the hardest and the most useful. A great deal of religious and educational "
+            "speech consists of a correct point with the speaker&rsquo;s standing quietly attached to "
+            "it, and the phrase <em>the goal is spoken of, but the self is not involved</em> is a "
+            "precise name for what that speech lacks."]),
+    ],
+    terms=[
+        ("ājīvaka",
+         "a major renunciate movement of the period, led by Makkhali Gosāla, treated in the canon as "
+         "a serious rival. AN 3.61 sets out and refutes one of their positions."),
+        ("svākkhāta",
+         "&ldquo;well explained&rdquo; &mdash; the first of the three things asked about, and the "
+         "standard epithet of the Dhamma in the recollection formula."),
+        ("suppaṭipanna",
+         "&ldquo;practicing well&rdquo; &mdash; the second, and the standard epithet of the Saṅgha."),
+        ("sugata",
+         "&ldquo;done well, gone well&rdquo; &mdash; the third, and elsewhere an epithet of the "
+         "Buddha himself. The three questions are the three refuges, asked as a ranking."),
+        ("attho ca vutto attā ca anupanīto",
+         "&ldquo;the goal is spoken of, but the self is not involved&rdquo; &mdash; the "
+         "householder&rsquo;s description of what Ānanda has just done."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three questions"),
+        ("p", "&sect;1", "an3.72:1.1-1.2"),
+        ("p", "&sect;2", "an3.72:2.1-2.9"),
+        ("h3", "Three counter-questions"),
+        ("p", "&sect;3", "an3.72:3.1-3.5"),
+        ("p", "&sect;4", "an3.72:4.1-4.5"),
+        ("p", "&sect;5", "an3.72:5.1-5.6"),
+        ("h3", "What he says in reply"),
+        ("p", "&sect;6", "an3.72:6.1-6.9"),
+        ("p", "&sect;7", "an3.72:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What does the householder ask?",
+         "opts": [
+             "How to meditate",
+             "Whose teaching is well explained, who is practicing well, and who has done well",
+             "Whether the Buddha is awakened",
+             "Whether he should leave his own school"],
+         "correct": 1,
+         "expl": "The three questions are the three refuges, asked as a ranking."},
+        {"q": "Who are the Ājīvakas?",
+         "opts": [
+             "A brahmin lineage",
+             "A major renunciate movement led by Makkhali Gosāla, treated in the canon as a serious rival",
+             "A merchant guild",
+             "A group of Jain laypeople"],
+         "correct": 1,
+         "expl": "AN 3.61 sets out and refutes one of their positions at length."},
+        {"q": "What trap does the guide identify in the question?",
+         "opts": [
+             "That it is unanswerable",
+             "That claiming superiority makes you a sectarian, while declining leaves you with nothing to teach",
+             "That it is impolite",
+             "That it requires naming the Buddha"],
+         "correct": 1,
+         "expl": "The question has a trap in it whichever way it is answered."},
+        {"q": "What is Ānanda&rsquo;s move?",
+         "opts": [
+             "Silence",
+             "Converting each question from <em>who</em> to <em>what</em>, stated as a criterion the householder can evaluate himself",
+             "Citing the Buddha",
+             "Praising the Ājīvakas"],
+         "correct": 1,
+         "expl": "Anybody who teaches for the giving up of the three roots is covered."},
+        {"q": "What does Ānanda do after getting the three answers?",
+         "opts": [
+             "Draws the conclusion",
+             "Names his own tradition",
+             "Simply reads the three answers back to him &mdash; no conclusion is drawn and no application is made",
+             "Asks a fourth question"],
+         "correct": 2,
+         "expl": "That is the whole discourse."},
+        {"q": "What four things does the householder&rsquo;s praise name?",
+         "opts": [
+             "Brevity, clarity, warmth, and authority",
+             "No self-promotion, no disparagement of others, relevance to the situation, and discussing the matter without the speaker&rsquo;s own position entering in",
+             "Learning, practice, attainment, and teaching",
+             "Faith, ethics, wisdom, and freedom"],
+         "correct": 1,
+         "expl": "&ldquo;The goal is spoken of, but the self is not involved.&rdquo;"},
+        {"q": "Who applies the criteria to Ānanda personally?",
+         "opts": [
+             "Ānanda himself",
+             "The Buddha",
+             "The householder &mdash; including the third, that Ānanda has given up greed, hate, and delusion",
+             "Nobody does"],
+         "correct": 2,
+         "expl": "A considerable claim, which Ānanda neither accepts nor denies."},
+        {"q": "What has Ānanda <em>not</em> avoided?",
+         "opts": [
+             "The question &mdash; all three are answered, with the answers his own tradition would give",
+             "Naming a group",
+             "Praising himself",
+             "Disparaging the Ājīvakas"],
+         "correct": 0,
+         "expl": "What he avoided was answering by naming a group."},
+        {"q": "Which other discourses use the same technique?",
+         "opts": [
+             "AN 3.66, where Nandaka lets two young men reach the conclusion, and AN 3.60, where Saṅgārava ranks the demonstrations himself",
+             "AN 3.1 and AN 3.2",
+             "AN 3.30 and AN 3.31",
+             "AN 3.47 and AN 3.48"],
+         "correct": 0,
+         "expl": "All three involve somebody who might reasonably have suspected the speaker of special pleading."},
+        {"q": "Which of the four criteria does the guide call the hardest?",
+         "opts": [
+             "Not promoting your own thing",
+             "Not disparaging others",
+             "Whether your own position is doing work in the argument that the subject matter should be doing",
+             "Relevance"],
+         "correct": 2,
+         "expl": "A precise name for what a great deal of religious and educational speech lacks."},
+    ],
+    marginalia=[
+        ("Three questions", [
+            "whose teaching is well explained?",
+            "who is practicing well?",
+            "who has done well?",
+        ]),
+        ("The move", [
+            "not <em>who</em> but <em>what</em>",
+            "&mdash; a criterion, not a group",
+            "then read back, undrawn",
+        ]),
+        ("The praise", [
+            "&ldquo;no acclaiming your own,",
+            "no disrespecting another&rsquo;s&hellip;",
+            "the goal is spoken of,",
+            "but the self is not involved&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.61 &middot; an Ājīvaka position refuted",
+            "AN 3.66 &middot; the same technique",
+            "AN 3.60 &middot; a judgment left to the visitor",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.72/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.61.html">AN 3.61 &middot; Sectarian Tenets</a> &mdash; where a position held '
+        "by the Ājīvakas among others is set out and answered at length. Read beside this discourse "
+        "it shows that the restraint here is a choice rather than an inability to argue.",
+        '<a href="an-3.66.html">AN 3.66 &middot; With Sāḷha and His Friend</a> &mdash; the same '
+        "method at greater length: a teacher disqualifying his own authority and letting the "
+        "listeners reach the conclusion.",
+        '<a href="an-3.67.html">AN 3.67 &middot; Topics of Discussion</a> &mdash; the '
+        "chapter&rsquo;s handbook on how a discussion should be conducted, of which this exchange is "
+        "a worked example.",
+    ],
+)
+
+
+page(
+    73, "Mahānāmasakka", "With Mahānāma the Sakyan",
+    vagga=VAGGA_8,
+    meta_title="AN 3.73 — With Mahānāma the Sakyan | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mahānāmasakkasutta — "
+        "Ānanda takes a difficult question away from a convalescent Buddha, and answers a "
+        "different one. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery, shortly "
+                    "after the Buddha&rsquo;s recovery from illness"),
+        ("Speakers", "Mahānāma the Sakyan and Venerable Ānanda"),
+        ("Form", "A question put to the Buddha, intercepted, and answered elsewhere with the "
+                 "threefold training"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Comparable material on the trainee&rsquo;s and the adept&rsquo;s "
+                              "ethics, immersion, and wisdom is preserved in the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and the interesting thing "
+                       "about it is what does not happen"),
+    ],
+    why=(
+        "The Buddha has just recovered from an illness. Mahānāma comes and asks him a genuinely deep "
+        "question: does immersion come first and then knowledge, or knowledge first and then "
+        "immersion? Ānanda thinks the question is too much for a convalescent, takes Mahānāma by the "
+        "arm, leads him aside, and teaches him something else. The discourse never returns to the "
+        "question that was asked."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There is a trainee&rsquo;s ethics, immersion, and wisdom and an adept&rsquo;s &mdash; "
+            "and sometimes the most useful thing a student can do is take a question off a sick "
+            "teacher."]),
+        ("What Mahānāma asked", [
+            "&ldquo;For a long time, sir, I have understood your teaching like this: knowledge is for "
+            "those with immersion, not those without immersion. But does immersion come first, then "
+            "knowledge? Or does knowledge come first, then immersion?&rdquo;",
+            "This is a real question and a hard one. The canon says both things in different places "
+            "&mdash; that concentration is the proximate cause of seeing things as they are, and that "
+            "understanding is what makes a mind settle &mdash; and the relation between calm and "
+            "insight became one of the longest-running arguments in Buddhist history, in Sri Lanka, "
+            "in Tibet, and in China.",
+            "Mahānāma is the Buddha&rsquo;s cousin and a senior layman of the Sakyan clan; he appears "
+            "several times in the canon asking substantial questions. He is not being frivolous, and "
+            "the discourse does not suggest he is."]),
+        ("What Ānanda does", [
+            "&ldquo;The Buddha has recently recovered from an illness, and this Mahānāma asks him a "
+            "question that&rsquo;s too deep. Why don&rsquo;t I take him off to one side and teach him "
+            "the Dhamma?&rdquo;",
+            "And he does &mdash; physically. He takes Mahānāma by the arm and leads him away.",
+            "This is worth reading slowly, because it is the sort of thing a canon usually leaves "
+            "out. A senior disciple decides, without being asked, that his teacher is not well enough "
+            "for a hard question, intervenes to prevent it, and handles the visitor himself. Nothing "
+            "in the discourse suggests he had permission, and the Buddha is not recorded as "
+            "commenting.",
+            "It is also characteristic of Ānanda specifically. His role in the canon is very often "
+            "this one: managing access, noticing conditions, intercepting. He is remembered as the "
+            "attendant who kept the schedule, and this is a small picture of what that meant in "
+            "practice."]),
+        ("What he teaches instead", [
+            "Not an answer to the question, but a distinction: the Buddha has spoken of the ethics, "
+            "immersion, and wisdom <em>of a trainee</em>, and of the ethics, immersion, and wisdom "
+            "<em>of an adept</em>.",
+            "The trainee&rsquo;s ethics is restraint in the monastic code, seeing danger in the "
+            "slightest fault. The trainee&rsquo;s immersion is the four absorptions. The "
+            "trainee&rsquo;s wisdom is understanding the four noble truths. And then a noble disciple "
+            "accomplished in all three <em>realizes the undefiled freedom of heart and freedom by "
+            "wisdom in this very life.</em>",
+            "The adept&rsquo;s three are named but not expounded, which is the usual treatment: a "
+            "<em>sekha</em>, trainee, is anybody from a stream-enterer up, and an <em>asekha</em>, "
+            "adept, is one with nothing further to train in. What the adept&rsquo;s ethics and "
+            "immersion consist of is left alone.",
+            "So the answer given is a taxonomy where a sequence was asked for. It is a good taxonomy "
+            "and it is not what Mahānāma wanted to know."]),
+        ("The question that stays unanswered", [
+            "A reader should be told plainly that the discourse does not answer its own opening "
+            "question, because it is easy to finish it with a vague sense that it did.",
+            "Does immersion come first or knowledge? Ānanda presents the three as a list in the "
+            "standard order &mdash; ethics, immersion, wisdom &mdash; which implies an answer without "
+            "arguing for it, and then moves to the trainee-and-adept distinction, which is about "
+            "stages of a person rather than about the order of two faculties.",
+            "Whether that was evasion, a considered redirection, or simply the best a senior disciple "
+            "could do at short notice is not something the text settles. What can be said is that the "
+            "canon elsewhere treats the calm-and-insight question as genuinely open &mdash; AN 4.170 "
+            "gives four different sequences by which people arrive, including calm first, insight "
+            "first, and the two yoked together &mdash; which suggests that a straight answer to "
+            "Mahānāma would have been wrong.",
+            "That is the most charitable reading and it may well be right. It is still worth noticing "
+            "that the discourse does not say so."]),
+        ("Using it", [
+            "Teach it for the intervention rather than the content, which is available in fuller form "
+            "elsewhere. The scene is one of the few in the canon that shows a senior student managing "
+            "a teacher&rsquo;s capacity, and it is recorded without embarrassment.",
+            "For a class, the useful question is whether Ānanda was right to do it &mdash; and then, "
+            "having decided, whether they would have done it. Most people who have looked after "
+            "somebody ill have made the same judgment and been less sure about it afterward."]),
+    ],
+    terms=[
+        ("sekha",
+         "&ldquo;trainee&rdquo; &mdash; anybody from a stream-enterer up to one on the path to "
+         "perfection: a person with something still to train in."),
+        ("asekha",
+         "&ldquo;adept&rdquo; &mdash; literally not-a-trainee: one with nothing further to train in. "
+         "The adept&rsquo;s three are named here but not expounded."),
+        ("samādhi",
+         "&ldquo;immersion&rdquo; &mdash; the term in Mahānāma&rsquo;s question, and the one the "
+         "canon relates to knowledge in more than one order."),
+        ("adhisīla adhicitta adhipaññā",
+         "&ldquo;the higher ethics, mind, and wisdom&rdquo; &mdash; the threefold training this "
+         "discourse divides between trainee and adept."),
+        ("gīlānā vuṭṭhita",
+         "&ldquo;recovered from illness&rdquo; &mdash; the condition of the Buddha that prompts "
+         "Ānanda&rsquo;s intervention."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A question, and an interception"),
+        ("p", "&sect;1", "an3.73:1.1-1.12"),
+        ("h3", "Trainee and adept"),
+        ("p", "&sect;2", "an3.73:2.1-2.5"),
+        ("p", "&sect;3", "an3.73:3.1-3.3"),
+        ("p", "&sect;4", "an3.73:4.1-4.3"),
+        ("p", "&sect;5", "an3.73:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "What does Mahānāma ask?",
+         "opts": [
+             "How to keep the sabbath",
+             "Whether immersion comes first and then knowledge, or knowledge first and then immersion",
+             "Whether laypeople can be liberated",
+             "How the Buddha is feeling"],
+         "correct": 1,
+         "expl": "A real question, and one the canon answers differently in different places."},
+        {"q": "Why does the guide call it a hard question?",
+         "opts": [
+             "Because the terms are obscure",
+             "Because the relation between calm and insight became one of the longest-running arguments in Buddhist history",
+             "Because Mahānāma was hostile",
+             "Because it concerns rebirth"],
+         "correct": 1,
+         "expl": "In Sri Lanka, in Tibet, and in China."},
+        {"q": "What does Ānanda do?",
+         "opts": [
+             "Answers on the Buddha&rsquo;s behalf where he sits",
+             "Asks the Buddha to rest",
+             "Takes Mahānāma by the arm, leads him off to one side, and teaches him himself",
+             "Tells Mahānāma to return later"],
+         "correct": 2,
+         "expl": "Physically, and without being asked."},
+        {"q": "Why does the guide say the scene is unusual?",
+         "opts": [
+             "Because it involves a layman",
+             "Because a canon usually leaves out a disciple deciding his teacher is not well enough for a question and intervening without permission",
+             "Because the Buddha was ill",
+             "Because it happens in Kapilavatthu"],
+         "correct": 1,
+         "expl": "And the Buddha is not recorded as commenting."},
+        {"q": "What role does the guide say is characteristic of Ānanda?",
+         "opts": [
+             "Debating outsiders",
+             "Managing access, noticing conditions, intercepting &mdash; the attendant who kept the schedule",
+             "Teaching meditation",
+             "Reciting the discourses"],
+         "correct": 1,
+         "expl": "This is a small picture of what that meant in practice."},
+        {"q": "What does he teach instead?",
+         "opts": [
+             "The eightfold path",
+             "The four immeasurables",
+             "The ethics, immersion, and wisdom of a trainee, and of an adept",
+             "The three knowledges"],
+         "correct": 2,
+         "expl": "A taxonomy where a sequence was asked for."},
+        {"q": "What is a <em>sekha</em>?",
+         "opts": [
+             "A monastic of any kind",
+             "A trainee &mdash; anybody from a stream-enterer up, a person with something still to train in",
+             "A layperson",
+             "A meditation teacher"],
+         "correct": 1,
+         "expl": "An <em>asekha</em> is one with nothing further to train in."},
+        {"q": "Does the discourse answer Mahānāma&rsquo;s question?",
+         "opts": [
+             "Yes, immersion first",
+             "Yes, knowledge first",
+             "No &mdash; it presents the three in the standard order, which implies an answer without arguing for it, and then moves to a distinction about stages of a person",
+             "It says the question is improper"],
+         "correct": 2,
+         "expl": "Easy to finish the discourse with a vague sense that it did."},
+        {"q": "What charitable reading does the guide offer?",
+         "opts": [
+             "That the question was foolish",
+             "That the canon elsewhere treats the calm-and-insight question as genuinely open &mdash; AN 4.170 gives four sequences &mdash; so a straight answer would have been wrong",
+             "That Ānanda did not understand the question",
+             "That the text is corrupt"],
+         "correct": 1,
+         "expl": "It may well be right, and the discourse still does not say so."},
+        {"q": "What does the guide suggest asking a class?",
+         "opts": [
+             "Whether calm precedes insight",
+             "Whether Ānanda was right to intervene &mdash; and then whether they would have done it",
+             "Whether Mahānāma was ordained",
+             "Whether the Buddha approved"],
+         "correct": 1,
+         "expl": "Most people who have looked after somebody ill have made the same judgment and been less sure afterward."},
+    ],
+    marginalia=[
+        ("The question", [
+            "does immersion come first?",
+            "or knowledge?",
+            "&mdash; never answered",
+        ]),
+        ("The intervention", [
+            "&ldquo;the Buddha has recently recovered&rdquo;",
+            "&ldquo;a question that&rsquo;s too deep&rdquo;",
+            "&mdash; took him by the arm",
+        ]),
+        ("What was taught", [
+            "<span class=\"pali\">sekha</span>trainee",
+            "<span class=\"pali\">asekha</span>adept",
+            "ethics &middot; immersion &middot; wisdom",
+        ]),
+        ("Cross-references", [
+            "AN 3.58 &middot; the same absorptions",
+            "AN 3.88 &middot; the three trainings",
+            "AN 3.72 &middot; Ānanda answering for the tradition",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.73/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.170.html">AN 4.170 &middot; In Conjunction</a> &mdash; Ānanda&rsquo;s own '
+        "discourse on the four ways people arrive: calm before insight, insight before calm, the two "
+        "yoked together, and the mind seized by agitation about the teaching. It is the answer "
+        "Mahānāma did not get.",
+        '<a href="an-3.72.html">AN 3.72 &middot; A Disciple of the Ājīvakas</a> &mdash; the previous '
+        "discourse, and the other place in this chapter where Ānanda handles a question the Buddha "
+        "is not present for.",
+        '<a href="an-3.58.html">AN 3.58 &middot; With Tikaṇṇa</a> &mdash; for the four absorptions in '
+        "the full formula that this discourse abbreviates.",
+    ],
+)
+
+
+page(
+    74, "Nigaṇṭha", "Jains",
+    vagga=VAGGA_8,
+    meta_title="AN 3.74 — Jains | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nigaṇṭhasutta — the Jain "
+        "doctrine of wearing away old deeds, and Ānanda's three replacements for it. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the peaked roof"),
+        ("Speakers", "The Licchavis Abhaya and Paṇḍitakumāra, and Venerable Ānanda"),
+        ("Form", "A rival doctrine reported accurately, three replacements given in ascending order, "
+                 "and an exchange between the two visitors"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The engagement with Jain doctrine is preserved in the Chinese Āgamas; "
+                              "the fullest Pāli treatment is MN 101; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the doctrine reported takes some "
+                       "unpacking and the reply is compact"),
+    ],
+    why=(
+        "Two Licchavi noblemen report the teaching of the Jain leader: that he is all-knowing at all "
+        "times; that old deeds are worn away by fervent mortification; that the bridge is broken by "
+        "doing no new ones; and that when deeds end, suffering ends. What, they ask, does the Buddha "
+        "say about this? Ānanda&rsquo;s answer keeps the vocabulary, keeps the goal, and replaces the "
+        "method entirely."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are three ways of wearing away old deeds and they are ethics, absorption, and "
+            "liberation &mdash; not austerity."]),
+        ("The doctrine as reported, and how accurate it is", [
+            "This report deserves to be trusted more than the one in AN 3.70, and it is worth saying "
+            "so, because the two discourses describe the same religion.",
+            "Four claims are made. That the Jain leader &mdash; <em>Nigaṇṭha Nātaputta</em>, the "
+            "figure known to Jains as Mahāvīra &mdash; claims constant omniscience, <em>while "
+            "walking, standing, sleeping, and waking</em>. That old deeds are eliminated by fervent "
+            "mortification, <em>tapas</em>. That new deeds are prevented, <em>breaking the "
+            "bridge</em>. And that with the ending of deeds comes the ending of suffering, of "
+            "feeling, and of all suffering worn away.",
+            "All four correspond to positions Jains actually held. <em>Nirjarā</em>, the wearing away "
+            "of accumulated karma through austerity, is a central Jain doctrine and not a Buddhist "
+            "caricature of one; the claim of Mahāvīra&rsquo;s <em>kevala-jñāna</em>, omniscient "
+            "knowledge, is a Jain claim; and the strategy of stopping the inflow of new karma while "
+            "burning off the old is exactly the Jain path. Unlike the hundred-league passage in AN "
+            "3.70, this is a fair summary.",
+            "That matters for how the reply reads. Ānanda is not knocking down a straw figure. He is "
+            "answering a coherent rival program whose goal &mdash; the ending of suffering by the "
+            "ending of deeds &mdash; his own tradition largely shares."]),
+        ("Keeping the word", [
+            "The reply does not reject the term. <em>Three kinds of purification by wearing away have "
+            "been rightly explained by the Blessed One</em> &mdash; the same <em>nijjarā</em> the "
+            "Jains use, taken over.",
+            "This is the move the Brāhmaṇavagga made with <em>tevijja</em> and with <em>brāhmaṇa</em>, "
+            "and it is worth showing a class that it is a policy rather than a coincidence. The "
+            "vocabulary of the rival is retained and its content is replaced, which keeps the "
+            "conversation possible and concedes nothing.",
+            "The purposes given are the standard list: to purify beings, to get past sorrow and "
+            "crying, to make an end of pain and sadness, to discover the system, and to realize "
+            "extinguishment. That formula belongs to the discourse on mindfulness meditation and its "
+            "appearance here signals what kind of claim is being made."]),
+        ("Three ways of wearing away", [
+            "Each of the three is a level of the training, and each is followed by the identical "
+            "sentence: <em>they don&rsquo;t perform any new deeds, and old deeds are eliminated by "
+            "experiencing their results little by little.</em>",
+            "First, ethics: restrained in the monastic code, seeing danger in the slightest fault. "
+            "Second, immersion: the four absorptions. Third, liberation: the undefiled freedom of "
+            "heart and freedom by wisdom, realized in this very life.",
+            "The substitution is precise. The Jain method for stopping new deeds is mortification; "
+            "here it is ethical restraint. The Jain method for eliminating old deeds is burning them "
+            "off by austerity; here they are eliminated <em>by experiencing their results little by "
+            "little</em> &mdash; that is, by letting them ripen and be felt rather than by attacking "
+            "them.",
+            "That second half is the substantive disagreement and it is easy to miss. Both traditions "
+            "agree that old deeds must be exhausted. They disagree about whether anything can be done "
+            "to speed it up. On this account nothing can: the results come as they come, and what the "
+            "practitioner controls is only whether new ones are added.",
+            "Each level also carries the tag <em>apparent in the present life, immediately effective, "
+            "inviting inspection</em> &mdash; the formula of AN 3.53. Against a doctrine of "
+            "long-term karmic accounting, the reply insists that its own version can be checked now."]),
+        ("The two visitors", [
+            "The closing exchange is short and human. Paṇḍitakumāra asks Abhaya whether there is "
+            "anything in what Ānanda said that he would disagree with, and Abhaya replies: <em>how "
+            "could I not agree with what was said so well? If anyone didn&rsquo;t agree with him, "
+            "their head would explode!</em>",
+            "The head-splitting is a stock canonical hyperbole rather than a threat, and it usually "
+            "appears when somebody refuses a reasonable question. Here it is used enthusiastically "
+            "and in the wrong direction, which is part of the charm.",
+            "Neither Licchavi goes for refuge, and the discourse does not record a conversion. They "
+            "came with a report and a question, got an answer, and agreed with it in front of each "
+            "other."]),
+        ("Using it", [
+            "Teach this beside AN 3.70 and use the pair to make a point about reading polemic. The "
+            "same canon describes the same religion twice: once with a claim its adherents would not "
+            "recognize, and once with a summary they largely would. A student who has seen both will "
+            "read the next report of a rival doctrine more carefully.",
+            "The doctrinal content is also useful on its own. The question of whether accumulated "
+            "consequences can be worked off faster by effort is not confined to ancient India, and "
+            "this discourse&rsquo;s answer &mdash; that they are exhausted by being experienced, and "
+            "that the only leverage is over what is added &mdash; is a clear position that can be "
+            "argued with."]),
+    ],
+    terms=[
+        ("nijjarā",
+         "&ldquo;wearing away&rdquo; &mdash; the Jain term for the shedding of accumulated karma, "
+         "taken over here and given three Buddhist contents."),
+        ("nigaṇṭha nātaputta",
+         "the Jain leader, known to Jains as Mahāvīra. The omniscience claimed for him corresponds to "
+         "the Jain doctrine of <em>kevala-jñāna</em>."),
+        ("tapas",
+         "&ldquo;fervent mortification&rdquo; &mdash; the Jain method for eliminating old deeds, and "
+         "the term this tradition repurposed as <em>ātappa</em>, keenness."),
+        ("setughāta",
+         "&ldquo;breaking the bridge&rdquo; &mdash; the idiom for cutting off the production of new "
+         "deeds."),
+        ("anupubbena vedanīya",
+         "&ldquo;experienced little by little&rdquo; &mdash; how old deeds are eliminated on this "
+         "account: by ripening and being felt, not by being attacked."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "What the Jain teacher says"),
+        ("p", "&sect;1", "an3.74:1.1-1.8"),
+        ("h3", "Three kinds of wearing away"),
+        ("p", "&sect;2", "an3.74:2.1-2.5"),
+        ("p", "&sect;3", "an3.74:3.1-3.3"),
+        ("p", "&sect;4", "an3.74:4.1-4.4"),
+        ("h3", "The two Licchavis"),
+        ("p", "&sect;5", "an3.74:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What four claims are reported of the Jain teacher?",
+         "opts": [
+             "That he is omniscient at all times; that old deeds are worn away by mortification; that new deeds are prevented; and that with the ending of deeds suffering ends",
+             "That he denies kamma, rebirth, gods, and liberation",
+             "That he teaches only laypeople",
+             "That he practices absorption"],
+         "correct": 0,
+         "expl": "All four correspond to positions Jains actually held."},
+        {"q": "How does this report compare with the one in AN 3.70?",
+         "opts": [
+             "It is less accurate",
+             "It is a fair summary, unlike the hundred-league passage there &mdash; the same canon describes the same religion twice, once recognizably and once not",
+             "They are identical",
+             "It is about a different religion"],
+         "correct": 1,
+         "expl": "Which matters for how the reply reads: Ānanda is not knocking down a straw figure."},
+        {"q": "What does Ānanda do with the word <em>nijjarā</em>?",
+         "opts": [
+             "Rejects it as a foreign term",
+             "Keeps it, and gives it three Buddhist contents &mdash; the same policy the Brāhmaṇavagga applies to brahmin vocabulary",
+             "Redefines it as austerity",
+             "Avoids using it"],
+         "correct": 1,
+         "expl": "The rival&rsquo;s vocabulary is retained and its content replaced."},
+        {"q": "What are the three kinds of wearing away?",
+         "opts": [
+             "Fasting, silence, and solitude",
+             "Ethics, immersion, and liberation",
+             "Giving, ethics, and meditation",
+             "Past, present, and future deeds"],
+         "correct": 1,
+         "expl": "Each followed by the identical sentence about new and old deeds."},
+        {"q": "What replaces mortification as the way of preventing new deeds?",
+         "opts": [
+             "Ethical restraint &mdash; the monastic code, seeing danger in the slightest fault",
+             "Fasting",
+             "Silence",
+             "Solitude"],
+         "correct": 0,
+         "expl": "The first of the three levels."},
+        {"q": "How are old deeds eliminated, on this account?",
+         "opts": [
+             "By burning them off with austerity",
+             "By confession",
+             "By experiencing their results little by little &mdash; letting them ripen and be felt rather than attacking them",
+             "By transferring them"],
+         "correct": 2,
+         "expl": "The substantive disagreement, and easy to miss."},
+        {"q": "Where exactly do the two traditions differ, in the guide&rsquo;s reading?",
+         "opts": [
+             "On whether old deeds must be exhausted",
+             "On whether anything can be done to speed that up &mdash; here nothing can, and the only leverage is over what is added",
+             "On whether deeds exist",
+             "On whether suffering can end"],
+         "correct": 1,
+         "expl": "Both traditions agree that old deeds must be exhausted."},
+        {"q": "What tag is attached to each of the three levels?",
+         "opts": [
+             "That it is difficult",
+             "That it is for monastics",
+             "That it is apparent in the present life, immediately effective, inviting inspection",
+             "That it takes many lives"],
+         "correct": 2,
+         "expl": "Against a doctrine of long-term karmic accounting, the reply insists its version can be checked now."},
+        {"q": "How does Abhaya respond at the end?",
+         "opts": [
+             "By going for refuge",
+             "By saying that anyone who disagreed with what Ānanda said so well would have their head explode",
+             "By defending the Jains",
+             "By asking a further question"],
+         "correct": 1,
+         "expl": "A stock hyperbole, used enthusiastically and in the wrong direction."},
+        {"q": "What happens to the two Licchavis?",
+         "opts": [
+             "They ordain",
+             "They go for refuge",
+             "Neither converts &mdash; they came with a report and a question, got an answer, and agreed with it in front of each other",
+             "They leave unconvinced"],
+         "correct": 2,
+         "expl": "Unusual in a chapter where most visitors take refuge."},
+    ],
+    marginalia=[
+        ("The Jain program", [
+            "constant omniscience",
+            "old deeds burned by austerity",
+            "new deeds prevented",
+            "&mdash; reported accurately",
+        ]),
+        ("Three replacements", [
+            "ethics &middot; the code kept",
+            "immersion &middot; four absorptions",
+            "liberation &middot; realized now",
+        ]),
+        ("The real disagreement", [
+            "not: must old deeds be exhausted",
+            "but: can it be hurried",
+            "&mdash; experienced little by little",
+        ]),
+        ("Cross-references", [
+            "AN 3.70 &middot; the unfair report",
+            "MN 101 &middot; the argument in full",
+            "AN 3.49 &middot; <span class=\"pali\">tapas</span> repurposed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.74/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-101.html">MN 101 &middot; At Devadaha</a> &mdash; the '
+        "canon&rsquo;s long engagement with exactly this doctrine, where the Jain claim that "
+        "suffering is worn away by austerity is examined argument by argument. This discourse gives "
+        "the conclusion; that one shows the reasoning.",
+        '<a href="an-3.70.html">AN 3.70 &middot; Sabbath</a> &mdash; the other report of Jain '
+        "practice in this chapter, and much less fair. The pair is the best short lesson in reading "
+        "polemic that the collection offers.",
+        '<a href="an-3.49.html">AN 3.49 &middot; Keen</a> &mdash; for what happened to the word '
+        "<em>tapas</em>, austerity, in this tradition: kept as a word for heat and detached from the "
+        "practice of mortifying the body.",
+    ],
+)
+
+
+page(
+    75, "Nivesaka", "Support",
+    vagga=VAGGA_8,
+    meta_title="AN 3.75 — Support | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nivesakasutta — the three "
+        "things to establish the people you care about in, and the one qualification attached to "
+        "the instruction. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Ānanda approaches the Buddha and is spoken to first"),
+        ("Speakers", "The Buddha, addressing Venerable Ānanda"),
+        ("Form", "An instruction, three items given in their standard formulas, and a comparison with "
+                 "the four elements"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material on establishing others in the three confidences is "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, with one qualification "
+                       "that changes how it should be used"),
+    ],
+    why=(
+        "The people you have sympathy for &mdash; friends and colleagues, relatives and family "
+        "&mdash; should be encouraged, supported, and established in three things. That is a "
+        "missionary instruction, and it is the kind of sentence that has been used badly for a very "
+        "long time. What makes this version worth reading closely is the phrase attached to the list "
+        "of people: <em>and those worth listening to</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Establish the people close to you in confidence in the Buddha, the teaching, and the "
+            "Saṅgha &mdash; and the instruction covers only those who would hear you."]),
+        ("The qualification", [
+            "Sujato renders the opening as <em>those who you have sympathy for, and those worth "
+            "listening to</em> &mdash; the Pāli behind the second phrase is a clause about people who "
+            "would think what you say worth hearing.",
+            "That is a real restriction and it is the reason this discourse is not simply a warrant "
+            "for pressing one&rsquo;s religion on relatives. The instruction is scoped to two "
+            "conditions at once: you must actually care about them, and they must be in a position to "
+            "listen. Neither is satisfied by determination on the part of the speaker.",
+            "The rest of the list is worth noticing for its ordinariness: <em>friends and colleagues, "
+            "relatives and family</em>. Not everyone, not strangers, and not an assigned territory. "
+            "The scope of the instruction is the people already in your life."]),
+        ("Three things, and what kind of thing they are", [
+            "<em>Aveccappasāda</em> is the term, and Sujato&rsquo;s &ldquo;experiential "
+            "confidence&rdquo; is a careful rendering. <em>Avecca</em> is from a verb meaning to have "
+            "penetrated or understood; <em>pasāda</em> is clarity, brightness, confidence. So the "
+            "compound is confidence that has been arrived at by understanding, not confidence "
+            "adopted.",
+            "The three are given in their standard formulas &mdash; the Buddha as perfected and fully "
+            "awakened, the teaching as apparent in the present life and inviting inspection, the "
+            "Saṅgha as the four pairs and eight individuals and worthy of offerings.",
+            "It matters that the second of the three is the formula from AN 3.53, whose content was "
+            "shown there to be checkable by anybody. Establishing somebody in experiential confidence "
+            "in the teaching therefore cannot mean getting them to assent to it. On the "
+            "discourse&rsquo;s own vocabulary it means getting them to the point of having seen "
+            "something."]),
+        ("The four elements, and what is being claimed", [
+            "&ldquo;There might be change in the four principal states &mdash; earth, water, air, and "
+            "fire &mdash; but a noble disciple with experiential confidence in the Buddha would never "
+            "change.&rdquo;",
+            "And then the claim is defined, which prevents it from being read as a promise about "
+            "steadfastness: <em>in this context, &lsquo;change&rsquo; means that such a noble disciple "
+            "will be reborn in hell, the animal realm, or the ghost realm: this is quite impossible.</em>",
+            "So the discourse is describing stream-entry, in the canon&rsquo;s standard terms: "
+            "somebody with the three confidences is no longer liable to the lower rebirths. It is not "
+            "saying that a person of faith will never waver in their feelings, and it is worth "
+            "heading off that reading, which is the natural one in English.",
+            "The comparison with the elements is the strongest form the canon has for impossibility. "
+            "Earth, water, air, and fire were the constituents of the physical world; saying that "
+            "they might change before this does is the ancient equivalent of saying the laws of "
+            "physics would go first."]),
+        ("How to use an instruction like this honestly", [
+            "A teacher handing this discourse to a class in a country where most families are not "
+            "Buddhist should say what it is: an instruction to bring the people close to you into a "
+            "religion. Softening that helps nobody.",
+            "What can be said alongside it is that the discourse specifies its own limits more than "
+            "most such instructions do. The people are those you have sympathy for and who would "
+            "listen. The object is a confidence arrived at through understanding, which cannot be "
+            "produced by pressure. And the standard for the second of the three is a teaching that "
+            "invites inspection, which means the method of establishing somebody in it is to let them "
+            "inspect.",
+            "Read that way the instruction is demanding rather than expansive. It asks for a "
+            "particular result in a particular kind of person by a method that excludes most of what "
+            "religious persuasion usually consists of."]),
+        ("Using it", [
+            "The practical version for a lay class is the scope question. Who are the people you have "
+            "sympathy for, and which of them would actually think what you said was worth hearing? "
+            "Most people find the second list is much shorter than the first, and the discourse is "
+            "addressed to the intersection.",
+            "It is also the natural companion to AN 3.48, where a household grows on the visible "
+            "conduct of the person at its head. That discourse says what happens without anyone "
+            "being told anything; this one says what to do when telling is possible."]),
+    ],
+    terms=[
+        ("aveccappasāda",
+         "&ldquo;experiential confidence&rdquo; &mdash; from a verb meaning to have penetrated or "
+         "understood, plus a word for clarity. Confidence arrived at by understanding, not adopted."),
+        ("nivesaka",
+         "&ldquo;one who establishes, settles in place&rdquo; &mdash; the title, describing what one "
+         "does for the people one cares about."),
+        ("samādapetabbā nivesetabbā patiṭṭhāpetabbā",
+         "&ldquo;encouraged, supported, and established&rdquo; &mdash; three verbs for the action, "
+         "all of them about getting somebody to a position rather than informing them."),
+        ("cattāro mahābhūtā",
+         "&ldquo;the four principal states&rdquo; &mdash; earth, water, air, and fire, invoked as the "
+         "things that might change before a noble disciple does."),
+        ("aññathattaṁ",
+         "&ldquo;change&rdquo; &mdash; defined by the discourse itself as rebirth in hell, the animal "
+         "realm, or the ghost realm, which is what makes the passage a description of stream-entry "
+         "rather than of steadfast feeling."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Those you have sympathy for"),
+        ("p", "&sect;1", "an3.75:1.1"),
+        ("p", "&sect;2", "an3.75:2.1-2.8"),
+        ("h3", "Sooner the elements would change"),
+        ("p", "&sect;3", "an3.75:3.1-3.3"),
+        ("p", "&sect;4", "an3.75:4.1-4.4"),
+        ("p", "&sect;5", "an3.75:5.1"),
+    ],
+    quiz=[
+        {"q": "Whom does the instruction cover?",
+         "opts": [
+             "Everyone",
+             "Strangers in an assigned territory",
+             "Those you have sympathy for and those worth listening to &mdash; friends and colleagues, relatives and family",
+             "Only other Buddhists"],
+         "correct": 2,
+         "expl": "The scope of the instruction is the people already in your life."},
+        {"q": "Why does the guide call the second phrase a real restriction?",
+         "opts": [
+             "Because it excludes family",
+             "Because the instruction is scoped to two conditions at once &mdash; you must care about them, and they must be in a position to listen &mdash; and neither is satisfied by the speaker&rsquo;s determination",
+             "Because it excludes monastics",
+             "Because it is a later addition"],
+         "correct": 1,
+         "expl": "It is the reason the discourse is not simply a warrant for pressing one&rsquo;s religion on relatives."},
+        {"q": "What are the three things?",
+         "opts": [
+             "Giving, ethics, and meditation",
+             "Experiential confidence in the Buddha, the teaching, and the Saṅgha",
+             "Faith, energy, and wisdom",
+             "The three refuges recited"],
+         "correct": 1,
+         "expl": "Each given in its standard formula."},
+        {"q": "What does <em>aveccappasāda</em> mean?",
+         "opts": [
+             "Ritual devotion",
+             "Confidence arrived at by understanding &mdash; from a verb meaning to have penetrated, plus a word for clarity",
+             "Faith in a teacher",
+             "Certainty about doctrine"],
+         "correct": 1,
+         "expl": "Not confidence adopted."},
+        {"q": "Why does the second of the three constrain what &ldquo;establishing&rdquo; can mean?",
+         "opts": [
+             "Because it is the longest formula",
+             "Because it is the formula shown in AN 3.53 to be checkable by anybody &mdash; so establishing somebody in it means getting them to the point of having seen something, not of assenting",
+             "Because it mentions the Saṅgha",
+             "Because it is recited daily"],
+         "correct": 1,
+         "expl": "On the discourse&rsquo;s own vocabulary."},
+        {"q": "What is compared with the four elements?",
+         "opts": [
+             "The stability of a noble disciple with experiential confidence",
+             "The size of the cosmos",
+             "The duration of a life",
+             "The strength of a king"],
+         "correct": 0,
+         "expl": "The ancient equivalent of saying the laws of physics would go first."},
+        {"q": "How does the discourse define &ldquo;change&rdquo; there?",
+         "opts": [
+             "As a lapse in devotion",
+             "As doubt",
+             "As rebirth in hell, the animal realm, or the ghost realm &mdash; which is impossible for such a disciple",
+             "As disrobing"],
+         "correct": 2,
+         "expl": "Which makes the passage a description of stream-entry rather than of steadfast feeling."},
+        {"q": "What reading does the guide head off?",
+         "opts": [
+             "That the elements are unreal",
+             "That the passage promises a person of faith will never waver in their feelings &mdash; the natural reading in English, and not what is said",
+             "That the Saṅgha is infallible",
+             "That confidence is unnecessary"],
+         "correct": 1,
+         "expl": "The discourse defines its own term."},
+        {"q": "How does the guide say a teacher should present the instruction?",
+         "opts": [
+             "As general goodwill",
+             "By saying plainly that it is an instruction to bring the people close to you into a religion &mdash; softening it helps nobody",
+             "By omitting it",
+             "By treating it as metaphorical"],
+         "correct": 1,
+         "expl": "And then by noting that it specifies its own limits more than most such instructions do."},
+        {"q": "Why does the guide call the instruction demanding rather than expansive?",
+         "opts": [
+             "Because the formulas are long",
+             "Because it asks for a particular result in a particular kind of person by a method that excludes most of what religious persuasion usually consists of",
+             "Because it requires ordination",
+             "Because it names the four elements"],
+         "correct": 1,
+         "expl": "A confidence arrived at through understanding cannot be produced by pressure."},
+    ],
+    marginalia=[
+        ("Who", [
+            "those you have sympathy for",
+            "and those worth listening to",
+            "&mdash; friends, colleagues, kin",
+        ]),
+        ("In what", [
+            "confidence in the Buddha",
+            "confidence in the teaching",
+            "confidence in the Saṅgha",
+        ]),
+        ("&ldquo;Change&rdquo; defined", [
+            "not: a lapse of feeling",
+            "but: rebirth in the lower realms",
+            "&mdash; and that is impossible",
+        ]),
+        ("Cross-references", [
+            "AN 3.53 &middot; the teaching, checkable",
+            "AN 3.48 &middot; a household growing on conduct",
+            "AN 3.42 &middot; how faith is recognized",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.75/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.48.html">AN 3.48 &middot; The King of Mountains</a> &mdash; the household '
+        "growing on the visible conduct of the person at its head. That discourse says what happens "
+        "when nobody is told anything; this one says what to do when telling is possible.",
+        '<a href="an-3.53.html">AN 3.53 &middot; A Certain Brahmin</a> &mdash; for the second of the '
+        "three confidences, and what its formula was shown to mean in practice.",
+        '<a href="an-3.42.html">AN 3.42 &middot; Three Grounds</a> &mdash; for how the resulting '
+        "confidence would be recognized from outside, which is a useful check on whether the "
+        "establishing has actually happened.",
+    ],
+)
