@@ -22304,3 +22304,592 @@ page(
         "mechanism of imitation, applied there to a household rather than to an assembly.",
     ],
 )
+
+
+def thoroughbred(num, pali, title, fast_label, fast_body, meta_tail, why_tail,
+                 fast_section, extra_terms, further_extra, marg_last, quiz_last):
+    """AN 3.96–3.98 share everything except the definition of 'fast'."""
+    page(
+        num, pali, title,
+        vagga=VAGGA_10,
+        meta_title="AN 3.%d — %s | Ru-Yi Meditation Center" % (num, title),
+        meta_desc=(
+            "A reading guide, full English text, and self-check quiz for the %s "
+            "Ājānīyasutta &mdash; a royal thoroughbred is beautiful, strong, and fast, and so is a "
+            "mendicant. %s From Ru-Yi Meditation Center." % (meta_tail[0], meta_tail[1])),
+        glance=[
+            ("Setting", NO_SETTING),
+            ("Speakers", SPEAKER),
+            ("Form", "A simile in three factors, applied in three, with each of the three defined"),
+            ("Length", "~2 minutes to read"),
+            ("Northern parallel", "The thoroughbred simile for a trained monastic is preserved "
+                                  "throughout the Chinese Āgamas; this reading guide does not assert "
+                                  "a specific matching sutra number"),
+            ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; identical to its neighbors "
+                           "except in the third definition"),
+        ],
+        why=(
+            "A royal thoroughbred worth keeping is beautiful, strong, and fast. So, the discourse "
+            "says, is a mendicant worth giving to. Beauty is the ethics, strength is the energy, and "
+            "%s" % why_tail),
+        guide=[
+            ("The teaching in one sentence", [
+                "The three things that make a horse worth a king&rsquo;s stable make a monastic worth "
+                "a donor&rsquo;s food: looks, power, and speed."]),
+            ("Why a horse", [
+                "<em>Ājānīya</em> is the word for a thoroughbred &mdash; literally one that knows, "
+                "which is to say a horse that has understood its training. It is one of the "
+                "canon&rsquo;s favorite images for a trained person and it recurs across the "
+                "collections.",
+                "The frame is economic rather than sentimental. Such a horse is <em>worthy of a king, "
+                "fit to serve a king, and reckoned as a factor of kingship</em> &mdash; it is an "
+                "asset, and the three factors are what make it one.",
+                "The application keeps that frame exactly. A mendicant with three qualities is "
+                "<em>worthy of offerings dedicated to the gods, worthy of hospitality, worthy of a "
+                "religious donation, worthy of veneration with cupped palms, and is the supreme field "
+                "of merit for the world</em> &mdash; the standard recollection of the Saṅgha, which "
+                "is likewise a statement about what a community should invest in.",
+                "So the discourse is answering a practical question: what makes a monastic worth "
+                "supporting? And it answers with three qualities rather than with attainment, "
+                "seniority, or learning."]),
+            ("Beautiful, and strong", [
+                "<em>Beautiful</em> is defined as ethics: restrained in the monastic code, conducting "
+                "themselves well and resorting for alms in suitable places, seeing danger in the "
+                "slightest fault. The same formula AN 3.89 gives for the training in the higher "
+                "ethics.",
+                "Calling that beauty is the interesting move. Conduct is what is visible from outside "
+                "&mdash; a donor watching a monastic on almsround sees exactly this and nothing else "
+                "&mdash; and the discourse names the visible thing beauty rather than calling it "
+                "correctness.",
+                "<em>Strong</em> is defined as energy: living with energy roused up for giving up the "
+                "unskillful and embracing the skillful, <em>staunchly vigorous, not slacking off</em>. "
+                "That is <em>vīriya</em>, and the horse image makes its ordinary sense visible &mdash; "
+                "not enthusiasm but the capacity to keep pulling.",
+                "Both definitions are identical in all three discourses of the set. Only the third "
+                "changes."]),
+            ("And fast", fast_section),
+            ("The set of three", [
+                "AN 3.96, 3.97, and 3.98 are the same discourse with three different definitions of "
+                "speed: understanding the four noble truths; the ending of the five lower fetters "
+                "and non-return; and the realization of freedom in this very life.",
+                "Read together they say that the third factor scales while the first two do not. A "
+                "monastic&rsquo;s ethics and energy are what they are; what varies between the three "
+                "discourses is how far the seeing has gone.",
+                "The practical implication for a donor is worth drawing out, since the frame is "
+                "explicitly about worthiness to receive. All three versions describe somebody worth "
+                "supporting, and the lowest of the three requires understanding of the four truths "
+                "rather than any attainment that could be verified from outside. What a donor can "
+                "actually see is the first factor.",
+                "That is presumably why the collection gives three versions instead of one. The "
+                "formula for a worthy recipient is fixed; what fills its third slot is not, and the "
+                "discourses decline to settle on a single answer."]),
+            ("Using it", [
+                "The three factors transfer directly to any trained role and the transfer is exact "
+                "enough to be useful: is this person&rsquo;s conduct sound, do they keep working, and "
+                "have they understood the thing?",
+                "The order is also worth keeping. Conduct first, because it is what other people can "
+                "see; energy second, because it is what sustains anything; understanding last, "
+                "because it is the part that cannot be inspected and the part the other two are for."]),
+        ],
+        terms=[
+            ("ājānīya",
+             "&ldquo;thoroughbred&rdquo; &mdash; literally one that knows: a horse that has "
+             "understood its training. One of the canon&rsquo;s favorite images for a trained "
+             "person."),
+            ("vaṇṇavā",
+             "&ldquo;beautiful&rdquo; &mdash; defined as the training in the higher ethics, which is "
+             "the part of a monastic a donor can actually see."),
+            ("balavā",
+             "&ldquo;strong&rdquo; &mdash; defined as <em>vīriya</em>, energy: staunchly vigorous, "
+             "not slacking off. The horse image makes the ordinary sense visible."),
+            ("javasampanna",
+             "&ldquo;fast&rdquo; &mdash; the third factor, and the only one that differs across the "
+             "three discourses of this set."),
+        ] + extra_terms,
+        text_intro=(
+            "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+        text=[
+            ("h3", "A royal thoroughbred"),
+            ("p", "&sect;1", "an3.%d:1.1-1.7" % num),
+            ("h3", "Beautiful"),
+            ("p", "&sect;2", "an3.%d:2.1-2.3" % num),
+            ("h3", "Strong"),
+            ("p", "&sect;3", "an3.%d:3.1-3.3" % num),
+            ("h3", fast_label),
+            ("p", "&sect;4", "an3.%d:4.1-4.%d" % (num, fast_body)),
+        ],
+        quiz=[
+            {"q": "What three factors make a royal thoroughbred worth keeping?",
+             "opts": [
+                 "Age, breeding, and training",
+                 "Beautiful, strong, and fast",
+                 "Obedient, quiet, and sound",
+                 "Tall, heavy, and calm"],
+             "correct": 1,
+             "expl": "And the same three are applied to a mendicant."},
+            {"q": "What does <em>ājānīya</em> literally mean?",
+             "opts": [
+                 "&ldquo;Royal&rdquo;",
+                 "&ldquo;One that knows&rdquo; &mdash; a horse that has understood its training",
+                 "&ldquo;Swift&rdquo;",
+                 "&ldquo;Well-bred&rdquo;"],
+             "correct": 1,
+             "expl": "One of the canon&rsquo;s favorite images for a trained person."},
+            {"q": "How does the guide describe the frame of the simile?",
+             "opts": [
+                 "Sentimental",
+                 "Economic &mdash; the horse is an asset, and the three factors are what make it one",
+                 "Military",
+                 "Ceremonial"],
+             "correct": 1,
+             "expl": "And the application keeps that frame exactly, in the standard recollection of the Saṅgha."},
+            {"q": "What practical question is the discourse answering?",
+             "opts": [
+                 "How to train a horse",
+                 "What makes a monastic worth supporting &mdash; answered with three qualities rather than attainment, seniority, or learning",
+                 "How to become ordained",
+                 "Which king to serve"],
+             "correct": 1,
+             "expl": "The frame is explicitly about worthiness to receive."},
+            {"q": "How is &ldquo;beautiful&rdquo; defined?",
+             "opts": [
+                 "By appearance",
+                 "As ethics &mdash; restrained in the code, seeing danger in the slightest fault",
+                 "As calm",
+                 "As youth"],
+             "correct": 1,
+             "expl": "The same formula AN 3.89 gives for the training in the higher ethics."},
+            {"q": "Why does the guide call that an interesting move?",
+             "opts": [
+                 "Because beauty is superficial",
+                 "Because conduct is what a donor can see on almsround, and the discourse names the visible thing beauty rather than correctness",
+                 "Because ethics is difficult",
+                 "Because horses are not ethical"],
+             "correct": 1,
+             "expl": "Exactly what is visible from outside."},
+            {"q": "How is &ldquo;strong&rdquo; defined?",
+             "opts": [
+                 "As physical health",
+                 "As <em>vīriya</em> &mdash; energy roused up, staunchly vigorous, not slacking off",
+                 "As conviction",
+                 "As seniority"],
+             "correct": 1,
+             "expl": "The horse image makes the ordinary sense visible: not enthusiasm but the capacity to keep pulling."},
+            quiz_last,
+            {"q": "What differs across AN 3.96, 3.97, and 3.98?",
+             "opts": [
+                 "The definition of &ldquo;fast&rdquo; only",
+                 "The simile",
+                 "The audience",
+                 "The definition of &ldquo;beautiful&rdquo;"],
+             "correct": 0,
+             "expl": "Understanding the four truths; non-return; and freedom realized in this life."},
+            {"q": "What does the guide say the set implies for a donor?",
+             "opts": [
+                 "That only arahants are worth giving to",
+                 "That all three versions describe somebody worth supporting, and what a donor can actually see is the first factor",
+                 "That giving is unimportant",
+                 "That speed can be measured"],
+             "correct": 1,
+             "expl": "The formula for a worthy recipient is fixed; what fills its third slot is not."},
+        ],
+        marginalia=[
+            ("Three factors", [
+                "<span class=\"pali\">vaṇṇavā</span>beautiful &middot; ethics",
+                "<span class=\"pali\">balavā</span>strong &middot; energy",
+                "<span class=\"pali\">javasampanna</span>fast &middot; seeing",
+            ]),
+            ("The frame", [
+                "worthy of a king",
+                "worthy of a religious donation",
+                "&mdash; 福田, a field of merit",
+            ]),
+            marg_last,
+            ("Cross-references", [
+                "AN 3.89 &middot; ethics, defined the same way",
+                "AN 3.86 &middot; the same attainments correlated",
+                "AN 3.99 &middot; the next, on what a monastic is worth",
+            ]),
+        ],
+        further=[
+            '<a href="%s/an3.%d/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+            "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % (SC, num),
+        ] + further_extra + [
+            '<a href="an-3.89.html">AN 3.89 &middot; Three Trainings (1st)</a> &mdash; for the '
+            "definitions of ethics and of understanding the four truths that this discourse borrows "
+            "for its first and third factors.",
+            '<a href="an-3.99.html">AN 3.99 &middot; Jute</a> &mdash; later in this chapter, on the '
+            "same question of what a monastic is worth, argued from cloth instead of horses and with "
+            "only one factor.",
+        ],
+    )
+
+
+thoroughbred(
+    96, "Paṭhamaājānīya", "The Thoroughbred (1st)",
+    "Fast: the four truths", 7,
+    ("first", "Here speed is defined as understanding the four noble truths."),
+    "speed is understanding the four noble truths &mdash; the first of three versions, each "
+    "of which fills the third slot differently.",
+    [
+        "<em>Fast</em>, in this first version of the set, is defined as truly understanding: "
+        "<em>this is suffering; this is the origin of suffering; this is the cessation of "
+        "suffering; this is the practice that leads to the cessation of suffering.</em>",
+        "That is the same definition AN 3.89 gives for the training in the higher wisdom, and "
+        "putting it in the position of <em>speed</em> is doing something the bare list does not.",
+        "A fast horse is not one that works harder than a slow one. It covers the same ground in "
+        "less time because of what it is, not because of what it is doing. Applying that to the "
+        "four truths says that understanding is a change in rate rather than in effort &mdash; the "
+        "same practice, undertaken by somebody who has seen this, gets further.",
+        "It is also the most modest of the three definitions in the set, and the only one that "
+        "does not name an irreversible attainment. AN 3.97 and AN 3.98 raise it to non-return and "
+        "to freedom in this very life.",
+    ],
+    [("cattāri ariyasaccāni",
+      "&ldquo;the four noble truths&rdquo; &mdash; what fills the third slot in this first version "
+      "of the set, and the same content AN 3.89 gives for the higher wisdom.")],
+    ['<a href="an-3.97.html">AN 3.97 &middot; The Thoroughbred (2nd)</a> &mdash; the same discourse '
+     "with non-return in the third slot, and the middle member of the set."],
+    ("This version&rsquo;s speed", [
+        "&ldquo;this is suffering&rdquo;",
+        "&ldquo;this is the origin&rdquo;",
+        "&ldquo;this is the cessation&rdquo;",
+        "&ldquo;this is the practice&rdquo;",
+    ]),
+    {"q": "How is &ldquo;fast&rdquo; defined in this first version?",
+     "opts": [
+         "As non-return",
+         "As freedom realized in this very life",
+         "As truly understanding the four noble truths",
+         "As psychic power"],
+     "correct": 2,
+     "expl": "The most modest of the three, and the only one that does not name an irreversible attainment."},
+)
+
+
+thoroughbred(
+    97, "Dutiyaājānīya", "The Thoroughbred (2nd)",
+    "Fast: non-return", 4,
+    ("second", "Here speed is defined as the ending of the five lower fetters."),
+    "speed is the ending of the five lower fetters &mdash; the middle of three versions, each "
+    "of which fills the third slot differently.",
+    [
+        "<em>Fast</em>, in the middle version of the set, is the ending of the five lower fetters: "
+        "<em>reborn spontaneously, extinguished there, not liable to return from that world.</em> "
+        "The definition of a non-returner.",
+        "The five lower fetters are the three abandoned at stream-entry &mdash; substantialist "
+        "view, doubt, and misapprehension of observances, as AN 3.94 lists them &mdash; plus "
+        "sensual desire and ill will. So the difference between this version and AN 3.96 is not a "
+        "sharper understanding but two more abandonments.",
+        "That makes the horse image work differently here. Where AN 3.96 read speed as a change in "
+        "rate produced by seeing, this reads it as what happens when weight is removed. Both are "
+        "available in the image and the collection uses both without comment.",
+        "It is also worth noticing that this discourse still describes somebody with something left "
+        "to do. A non-returner is not finished; AN 3.98 supplies the version that is.",
+    ],
+    [("pañc'orambhāgiyāni saṁyojanāni",
+      "&ldquo;the five lower fetters&rdquo; &mdash; the three abandoned at stream-entry plus sensual "
+      "desire and ill will. Their ending defines the non-returner.")],
+    ['<a href="an-3.98.html">AN 3.98 &middot; The Thoroughbred (3rd)</a> &mdash; the last of the '
+     "set, where speed becomes freedom realized in this very life."],
+    ("This version&rsquo;s speed", [
+        "five lower fetters ended",
+        "reborn spontaneously",
+        "&mdash; not liable to return",
+    ]),
+    {"q": "How is &ldquo;fast&rdquo; defined in this second version?",
+     "opts": [
+         "As understanding the four truths",
+         "As the ending of the five lower fetters &mdash; reborn spontaneously, not liable to return",
+         "As freedom realized in this very life",
+         "As physical speed"],
+     "correct": 1,
+     "expl": "The definition of a non-returner, and somebody still with something left to do."},
+)
+
+
+thoroughbred(
+    98, "Tatiyaājānīya", "The Thoroughbred (3rd)",
+    "Fast: freedom now", 4,
+    ("third", "Here speed is defined as freedom realized in this very life."),
+    "speed is the realization of freedom in this very life &mdash; the last of three versions, "
+    "each of which fills the third slot differently.",
+    [
+        "<em>Fast</em>, in the last version of the set, is the realization of <em>the undefiled "
+        "freedom of heart and freedom by wisdom in this very life</em>, through the ending of "
+        "defilements. The formula for arahantship.",
+        "So the set has moved from understanding, through the removal of five fetters, to the "
+        "finished condition &mdash; and in all three versions the first two factors, ethics and "
+        "energy, are described in exactly the same words.",
+        "That constancy is the point of reading the three together. Whatever else changes between a "
+        "practitioner who has understood the four truths and one who has finished, their conduct "
+        "and their energy are described identically. The collection does not offer a more advanced "
+        "ethics or a more advanced vigor for the more advanced person.",
+        "It is also worth noting what a horse cannot do. The simile has no fourth factor and no "
+        "term for a horse beyond fast, which means the set has run out of image before it has run "
+        "out of attainment. That is a limit of the comparison rather than a claim, and the "
+        "discourse stops where the horse stops.",
+    ],
+    [("asavakkhaya",
+      "&ldquo;the ending of defilements&rdquo; &mdash; what fills the third slot here, in the "
+      "standard formula for arahantship.")],
+    ['<a href="an-3.96.html">AN 3.96 &middot; The Thoroughbred (1st)</a> &mdash; the first of the '
+     "set, where speed is the understanding of the four noble truths."],
+    ("This version&rsquo;s speed", [
+        "freedom of heart",
+        "freedom by wisdom",
+        "&mdash; in this very life",
+    ]),
+    {"q": "How is &ldquo;fast&rdquo; defined in this third version?",
+     "opts": [
+         "As understanding the four truths",
+         "As non-return",
+         "As the undefiled freedom of heart and freedom by wisdom realized in this very life",
+         "As teaching ability"],
+     "correct": 2,
+     "expl": "The formula for arahantship, and the last of the three."},
+)
+
+
+page(
+    99, "Potthaka", "Jute",
+    vagga=VAGGA_10,
+    meta_title="AN 3.99 — Jute | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Potthakasutta — jute "
+        "canvas against cloth from Kāsi, and what a monastery says to each when it speaks. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Two fabrics, each described in three qualities and at three seniorities, with a "
+                 "scene of what happens when each speaks"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The cloth simile for monastic quality is preserved in the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; plain, vivid, and the most "
+                       "uncomfortable scene in the chapter"),
+    ],
+    why=(
+        "Jute canvas is ugly, unpleasant to touch, and worthless when new, when worn in, and when "
+        "worn out &mdash; at which point it is used to scrub pots or thrown on the rubbish heap. "
+        "Cloth from Kāsi is beautiful, pleasant to touch, and valuable at all three stages, and when "
+        "worn out it is used for wrapping or kept in a fragrant casket. The application is to "
+        "monastics at three seniorities, and it ends with two scenes of somebody trying to speak in "
+        "the assembly."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A monastic&rsquo;s ethics determines how they look, what contact with them does, and "
+            "whether giving to them is worth anything &mdash; at every age."]),
+        ("The two fabrics", [
+            "<em>Potthaka</em> is coarse cloth of jute or hemp: sacking. <em>Kāsika</em> is the fine "
+            "cloth of Kāsi, Benares, which the collection has already used as the mark of luxury "
+            "&mdash; the young Bodhisatta&rsquo;s turbans and robes at AN 3.39 were from Kāsi.",
+            "Three qualities each, and the third is the one the discourse works hardest: ugly or "
+            "beautiful; unpleasant or pleasant to touch; worthless or valuable.",
+            "The <em>new, worn in, worn out</em> triad is what makes the simile more than an insult. "
+            "Sacking does not improve with age and neither does fine cloth deteriorate into "
+            "worthlessness; a worn-out length of Kāsi cloth still gets wrapped around something "
+            "precious, and worn-out jute scrubs a cauldron. The claim is about a constant property "
+            "rather than a condition."]),
+        ("The three applications", [
+            "<em>Ugly</em> is unethical conduct, and it is asserted directly &mdash; a monastic of "
+            "bad character is ugly, <em>I say</em>.",
+            "<em>Unpleasant to touch</em> is the effect of association: <em>if you associate with, "
+            "accompany, and attend to them, following their example, it&rsquo;ll be for your lasting "
+            "harm and suffering.</em> Touch here is company, and the quality is not about the person "
+            "in isolation but about what proximity to them does.",
+            "<em>Worthless</em> is the donor&rsquo;s side: robes, almsfood, lodgings, and medicines "
+            "given to them are <em>not very fruitful or beneficial for the donor</em>. This is the "
+            "flip side of AN 3.96&ndash;98, which described what makes a monastic a field of merit. "
+            "Here is what happens when the field is bad.",
+            "All three are then repeated at three seniorities &mdash; junior, middle, senior &mdash; "
+            "which is the same three-tier structure AN 3.91 used for whom the Buddha praises. The "
+            "collection uses it whenever a claim about monastics has to be stated without exempting "
+            "the powerful."]),
+        ("The two scenes", [
+            "This is where the discourse becomes uncomfortable, and the discomfort is worth keeping.",
+            "When an unethical senior monastic speaks in the assembly, the mendicants say: <em>what&rsquo;s "
+            "an incompetent fool like you got to say? How on earth could you imagine you&rsquo;ve got "
+            "something worth saying!</em> He becomes angry and upset, blurts out things, and the "
+            "Saṅgha throws him out &mdash; <em>as if they were throwing jute canvas away on the "
+            "rubbish heap.</em>",
+            "When an ethical senior monastic speaks, they say: <em>venerables, be quiet! The senior "
+            "mendicant is speaking on the teaching and training.</em>",
+            "Two things should be said about the first scene. It is a description of collective "
+            "contempt and the discourse does not criticize it; the mendicants&rsquo; jeering is "
+            "reported as what happens and the expulsion is presented as appropriate. That is the same "
+            "pattern as the mockery of Sarabha at AN 3.64, and it should be named the same way "
+            "&mdash; a canon that condemns harsh speech contains scenes of harsh speech going "
+            "unrebuked.",
+            "And it is worth noticing the causal order. The jeering comes first and the outburst "
+            "second; the man is provoked into the words that get him expelled. Whether the discourse "
+            "intends that as a description of how such a person is finally revealed, or simply "
+            "reports a sequence, it does not say. A teacher can put the question to a class without "
+            "answering it."]),
+        ("What the discourse does not include", [
+            "There is no correction, no rehabilitation, and no procedure. AN 3.91 has a monk confess "
+            "an internal fault and be told his handling of it is growth; AN 3.84 has a monk admit he "
+            "cannot manage and be given something he can do. Neither appears here.",
+            "That absence is worth pointing out rather than filling in, because a reader who knows "
+            "only this discourse will get the collection wrong. The Threes contain a discourse in "
+            "which somebody who has failed is helped, and a discourse in which somebody who has "
+            "failed is thrown out, and it does not reconcile them.",
+            "The nearest thing to a reconciliation is the variable. In AN 3.84 and AN 3.91 the person "
+            "says something &mdash; <em>I&rsquo;m not able</em>, <em>I made a mistake</em>. Here the "
+            "unethical monastic says nothing about himself until he is provoked, and what he says "
+            "then is not that."]),
+        ("Using it", [
+            "The closing instruction is the usable part and it is unusually direct: <em>we will be "
+            "like cloth from Kāsi, not like jute canvas.</em> That is an instruction about what to "
+            "be, not what to do, and the three qualities specify it.",
+            "For a teacher the second and third qualities are the transferable ones. Is being around "
+            "this person good for the people around them? And is what is invested in them producing "
+            "anything? Both questions are asked from outside, which is what the whole simile is "
+            "about: cloth is judged by whoever has to use it."]),
+    ],
+    terms=[
+        ("potthaka",
+         "&ldquo;jute canvas&rdquo; &mdash; coarse sacking of jute or hemp, worthless new and "
+         "worthless worn out."),
+        ("kāsika",
+         "&ldquo;cloth from Kāsi&rdquo; &mdash; the fine cloth of Benares, used at AN 3.39 for the "
+         "young Bodhisatta&rsquo;s robes and here for the good monastic."),
+        ("dubbaṇṇa",
+         "&ldquo;ugly&rdquo; &mdash; asserted directly of unethical conduct, with the phrase "
+         "<em>I say</em> attached."),
+        ("dukkhasamphassa",
+         "&ldquo;unpleasant to touch&rdquo; &mdash; glossed as what association with such a person "
+         "does to the people who follow their example."),
+        ("appagghā",
+         "&ldquo;worthless&rdquo; &mdash; glossed from the donor&rsquo;s side: what is given to such "
+         "a person is not fruitful for the giver."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Jute canvas"),
+        ("p", "&sect;1", "an3.99:1.1-1.4"),
+        ("p", "&sect;2", "an3.99:2.1-2.18"),
+        ("p", "&sect;3", "an3.99:3.1-3.5"),
+        ("h3", "Cloth from Kāsi"),
+        ("p", "&sect;4", "an3.99:4.1-4.2"),
+        ("p", "&sect;5", "an3.99:5.1-5.10"),
+        ("p", "&sect;6", "an3.99:6.1-6.6"),
+    ],
+    quiz=[
+        {"q": "What are the two fabrics?",
+         "opts": [
+             "Silk and wool",
+             "Jute canvas and cloth from Kāsi",
+             "Linen and cotton",
+             "Hemp and leather"],
+         "correct": 1,
+         "expl": "The fine cloth of Benares, already used at AN 3.39 for the young Bodhisatta&rsquo;s robes."},
+        {"q": "Why does the &ldquo;new, worn in, worn out&rdquo; triad matter?",
+         "opts": [
+             "It dates the simile",
+             "Because sacking does not improve with age and fine cloth does not deteriorate into worthlessness &mdash; the claim is about a constant property rather than a condition",
+             "Because cloth wears out",
+             "Because monastics age"],
+         "correct": 1,
+         "expl": "A worn-out length of Kāsi cloth still gets wrapped around something precious."},
+        {"q": "What is &ldquo;unpleasant to touch&rdquo; glossed as?",
+         "opts": [
+             "Rudeness",
+             "The effect of association &mdash; following such a person&rsquo;s example is for your lasting harm",
+             "Physical contact",
+             "Bad hygiene"],
+         "correct": 1,
+         "expl": "Touch here is company: the quality is about what proximity does."},
+        {"q": "What is &ldquo;worthless&rdquo; glossed as?",
+         "opts": [
+             "Lack of learning",
+             "The donor&rsquo;s side &mdash; what is given to such a person is not fruitful or beneficial for the giver",
+             "Poverty",
+             "Uselessness in work"],
+         "correct": 1,
+         "expl": "The flip side of AN 3.96&ndash;98, which described what makes a monastic a field of merit."},
+        {"q": "At how many seniorities are the three qualities applied?",
+         "opts": [
+             "One",
+             "Two",
+             "Three &mdash; junior, middle, and senior",
+             "Four"],
+         "correct": 2,
+         "expl": "The same structure AN 3.91 uses for whom the Buddha praises."},
+        {"q": "Why does the collection use that three-tier structure?",
+         "opts": [
+             "To be thorough",
+             "Whenever a claim about monastics has to be stated without exempting the powerful",
+             "To match the three trainings",
+             "For recitation"],
+         "correct": 1,
+         "expl": "Junior, middle, senior."},
+        {"q": "What happens when the unethical senior monastic speaks?",
+         "opts": [
+             "He is corrected privately",
+             "The mendicants jeer &mdash; &ldquo;what&rsquo;s an incompetent fool like you got to say?&rdquo; &mdash; he becomes angry, blurts things out, and is thrown out",
+             "He is ignored",
+             "He is asked to explain"],
+         "correct": 1,
+         "expl": "As if they were throwing jute canvas on the rubbish heap."},
+        {"q": "How does the guide treat that scene?",
+         "opts": [
+             "As justified",
+             "By naming it as collective contempt that the discourse does not criticize &mdash; the same pattern as the mockery of Sarabha at AN 3.64",
+             "By omitting it",
+             "As a later addition"],
+         "correct": 1,
+         "expl": "A canon that condemns harsh speech contains scenes of harsh speech going unrebuked."},
+        {"q": "What causal detail does the guide point out?",
+         "opts": [
+             "That the jeering comes first and the outburst second &mdash; the man is provoked into the words that get him expelled",
+             "That he was warned",
+             "That he spoke first",
+             "That the Saṅgha voted"],
+         "correct": 0,
+         "expl": "Whether that is meant as how such a person is revealed, the discourse does not say."},
+        {"q": "What does this discourse conspicuously lack, compared with AN 3.84 and AN 3.91?",
+         "opts": [
+             "A simile",
+             "Any correction, rehabilitation, or procedure &mdash; there somebody who failed is helped, here somebody who failed is thrown out, and the collection does not reconcile them",
+             "A closing instruction",
+             "A description of ethics"],
+         "correct": 1,
+         "expl": "The nearest thing to a reconciliation is that in those discourses the person says something about themselves."},
+    ],
+    marginalia=[
+        ("Three qualities", [
+            "ugly &middot; unethical conduct",
+            "unpleasant to touch &middot; association",
+            "worthless &middot; for the donor",
+        ]),
+        ("New, worn in, worn out", [
+            "jute &middot; scrubs a cauldron",
+            "Kāsi &middot; a fragrant casket",
+            "&mdash; a property, not a condition",
+        ]),
+        ("Two scenes", [
+            "&ldquo;what&rsquo;s a fool like you got to say?&rdquo;",
+            "&ldquo;venerables, be quiet&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.96&ndash;98 &middot; the field of merit",
+            "AN 3.64 &middot; mockery unrebuked",
+            "AN 3.91 &middot; the same three tiers",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.99/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.98.html">AN 3.98 &middot; The Thoroughbred (3rd)</a> &mdash; the positive '
+        "version of the same question, argued from horses: what makes a monastic worth supporting.",
+        '<a href="an-3.91.html">AN 3.91 &middot; At Paṅkadhā</a> &mdash; the discourse this one '
+        "should be read against, where a monastic who names his own fault is told that the naming is "
+        "growth.",
+        '<a href="an-3.39.html">AN 3.39 &middot; A Delicate Lifestyle</a> &mdash; for cloth from '
+        "Kāsi in its original setting, as the mark of a household that had everything.",
+    ],
+)
