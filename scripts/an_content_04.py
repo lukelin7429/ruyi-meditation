@@ -30048,3 +30048,2400 @@ page(
         "named after, and the start of the four unrelated blocks it holds.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Puggalavagga — the fourteenth chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_14 = "<em>Puggalavagga</em> &mdash; the fourteenth chapter of the Fours"
+SETTING_14 = ("None stated; the Puggalavagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.131 — Saṁyojanasutta
+# --------------------------------------------------------------------------- #
+page(
+    131, "Saṁyojana", "Fetters",
+    vagga=VAGGA_14,
+    meta_title="AN 4.131 — Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṁyojanasutta of the "
+        "Fours — three groups of fetters, four individuals, and a classification that does not line "
+        "up with the standard one. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "Four cases stated, then each one identified with a named kind of person"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Fetter-based grading of the noble persons is common across the early "
+                              "collections, though this particular three-group scheme is rare; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; short, technical, and the "
+                       "hardest thing in it is that it does not quite fit"),
+    ],
+    why=(
+        "Three groups of fetters &mdash; the lower ones, those for getting reborn, and those for "
+        "getting a continued existence &mdash; and four individuals sorted by how many of the three "
+        "they have given up. The scheme is tidy. What it is not is standard: the four names attached "
+        "to it are a once-returner, two particular kinds of non-returner, and a perfected one, with "
+        "the stream-enterer missing from the list entirely and the once-returner described as having "
+        "given up none of the three."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four individuals are distinguished by which of three groups of fetters they have "
+            "abandoned."]),
+        ("The three groups", [
+            "<em>Orambhāgiyāni saṁyojanāni</em>, the lower fetters, is the familiar term: the five "
+            "that bind to the sensual realm, and abandoning them is what makes a non-returner.",
+            "The other two are not familiar, and it is worth saying so rather than glossing over it. "
+            "<em>Upapattipaṭilābhiyāni</em>, fetters for the obtaining of rebirth, and "
+            "<em>bhavapaṭilābhiyāni</em>, fetters for the obtaining of continued existence, appear "
+            "only in a small number of places in the canon and are not defined here or anywhere "
+            "nearby.",
+            "What can be read off the discourse itself is only their ordering. They are shed after "
+            "the lower fetters, and the second is shed last, at arahantship. So they occupy the "
+            "ground the standard scheme gives to the five higher fetters, cut differently: not by "
+            "which defilements remain, but by what those defilements still get you &mdash; a rebirth, "
+            "and then any continued existence at all.",
+            "This reading guide does not assert a resolution of the terms. The honest position is "
+            "that the discourse uses a vocabulary the collection does not explain, and that the "
+            "reader can see the structure without being able to fill in the definitions."]),
+        ("The four names, and the one that is missing", [
+            "The four are given in the second half. A once-returner has given up none of the three. "
+            "One <em>heading upstream, going to the Akaniṭṭha realm</em> has given up the lower "
+            "fetters only. One <em>extinguished between one life and the next</em> has given up the "
+            "first two groups. A perfected one has given up all three.",
+            "The stream-enterer is absent. AN 4.88, in this same collection and under the same "
+            "English title, sorts the four ascetics from stream-enterer through arahant and includes "
+            "him. Here the list starts one stage later, and no reason is offered.",
+            "The once-returner is the other difficulty. He is said to have given up none of the "
+            "three groups, and yet by the standard account a once-returner has already ended the "
+            "first three of the five lower fetters. The discourse treats the group as a block: not "
+            "fully given up counts as not given up.",
+            "That is a defensible way to read it, and it is worth stating as a reading rather than "
+            "as the text&rsquo;s own explanation. What the discourse actually supplies is a table "
+            "with four rows and no commentary."]),
+        ("Two non-returners, and why these two", [
+            "The middle two entries are not the general category of non-returner but two specific "
+            "kinds of one, and the pair is chosen with care.",
+            "<em>Antarāparinibbāyī</em>, extinguished between one life and the next, is the quickest "
+            "of the five kinds the tradition lists. <em>Uddhaṁsoto akaniṭṭhagāmī</em>, one heading "
+            "upstream to the Akaniṭṭha realm, is the slowest &mdash; he rises through the pure "
+            "abodes one after another until he reaches the highest.",
+            "By naming only the fastest and the slowest, the discourse turns a single stage of the "
+            "path into two rows of the table, and the gap between them is what the second group of "
+            "fetters is doing. The upstream-goer still obtains rebirths; the one extinguished in "
+            "between does not.",
+            "Notice how little of this the discourse says out loud. It gives the names and expects "
+            "them to be known, which tells you something about who the material was for."]),
+        ("What the discourse is doing", [
+            "This is the opening of the Puggalavagga, the chapter of persons, and it sets the "
+            "chapter&rsquo;s method immediately: take a variable, cut it into four states, and name "
+            "the kind of person who occupies each.",
+            "Ten discourses follow doing exactly that with eloquence, with learning, with livelihood, "
+            "with blame, with the threefold training twice over, with seclusion, and with public "
+            "speaking. Almost none of them contains anything but the classification itself.",
+            "That is the Aṅguttara at its barest, and it is worth naming for a class rather than "
+            "apologizing for. A collection organized by number is a retrieval system, and a chapter "
+            "like this is what the system looks like when nothing has been added to it &mdash; the "
+            "categories preserved, the occasions and the arguments left off."]),
+        ("Teaching it", [
+            "The usable content of this page is not the table. It is the fact that the table exists "
+            "in a form that does not match the standard one, in a collection that elsewhere gives "
+            "the standard one, without either being marked as the correction of the other.",
+            "That is a good corrective against reading the canon as a single finished system. The "
+            "material is older than any of its systematizations, and AN 4.131 is a piece of it that "
+            "the later tidying never quite absorbed.",
+            "For a reader who wants the standard scheme alongside this one, AN 4.88 gives the four "
+            "noble persons under the four ascetic images, defined by fetters in the usual way, and "
+            "the two pages can be read against each other in ten minutes."]),
+    ],
+    terms=[
+        ("saṁyojana",
+         "&ldquo;fetter&rdquo; &mdash; literally a binding or yoking together; what is progressively "
+         "abandoned along the path."),
+        ("orambhāgiya",
+         "&ldquo;lower&rdquo;, belonging to the near shore &mdash; the five fetters whose abandoning "
+         "makes a non-returner."),
+        ("upapattipaṭilābhiya / bhavapaṭilābhiya",
+         "&ldquo;for the obtaining of rebirth&rdquo; and &ldquo;of continued existence&rdquo; "
+         "&mdash; rare terms, undefined here, occupying the ground of the higher fetters."),
+        ("antarāparinibbāyī",
+         "&ldquo;one extinguished in between&rdquo; &mdash; the quickest of the five kinds of "
+         "non-returner named by the tradition."),
+        ("uddhaṁsota akaniṭṭhagāmī",
+         "&ldquo;heading upstream, going to Akaniṭṭha&rdquo; &mdash; the slowest, rising through the "
+         "pure abodes to the highest of them."),
+    ],
+    text_intro=(
+        "The discourse in full: the four cases, then the person each one names. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four cases"),
+        ("p", "&sect;1", "an4.131:1.1-1.3"),
+        ("p", "&sect;2", "an4.131:2.1"),
+        ("p", "&sect;3", "an4.131:3.1"),
+        ("p", "&sect;4", "an4.131:4.1"),
+        ("h3", "Who each one is"),
+        ("p", "&sect;5", "an4.131:5.1-5.3"),
+        ("p", "&sect;6", "an4.131:6.1-6.3"),
+        ("p", "&sect;7", "an4.131:7.1-7.3"),
+        ("p", "&sect;8", "an4.131:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "How many groups of fetters does the discourse use?",
+         "opts": [
+             "Two",
+             "Three &mdash; the lower fetters, those for getting reborn, and those for getting a continued existence",
+             "Five",
+             "Ten"],
+         "correct": 1,
+         "expl": "Four individuals are sorted by how many of the three they have abandoned."},
+        {"q": "Which of the three terms is the familiar one?",
+         "opts": [
+             "The fetters for continued existence",
+             "The lower fetters &mdash; <em>orambhāgiya</em>, whose abandoning makes a non-returner",
+             "The fetters for rebirth",
+             "None of them"],
+         "correct": 1,
+         "expl": "The other two appear in only a small number of places and are not defined here."},
+        {"q": "What does the guide say can be read off the discourse about the two rare terms?",
+         "opts": [
+             "Their full definitions",
+             "Only their ordering &mdash; shed after the lower fetters, the second shed last",
+             "That they are later additions",
+             "That they mean the same thing"],
+         "correct": 1,
+         "expl": "The reader can see the structure without being able to fill in the definitions."},
+        {"q": "Which individual is missing from the list?",
+         "opts": [
+             "The perfected one",
+             "The stream-enterer",
+             "The once-returner",
+             "The non-returner"],
+         "correct": 1,
+         "expl": "AN 4.88 includes him; here the list starts one stage later, with no reason offered."},
+        {"q": "What is said of the once-returner?",
+         "opts": [
+             "That he has given up the lower fetters",
+             "That he has given up none of the three groups",
+             "That he has given up two groups",
+             "That he is not classified"],
+         "correct": 1,
+         "expl": "The discourse treats the group as a block: not fully given up counts as not given up."},
+        {"q": "Which two kinds of non-returner does the discourse name?",
+         "opts": [
+             "Two of equal speed",
+             "The quickest and the slowest &mdash; one extinguished in between, and one heading upstream to Akaniṭṭha",
+             "Two who differ by realm only",
+             "It names the category without specifying"],
+         "correct": 1,
+         "expl": "The gap between them is what the second group of fetters is doing."},
+        {"q": "What distinguishes the upstream-goer from the one extinguished in between?",
+         "opts": [
+             "Their ethics",
+             "The upstream-goer still obtains rebirths; the other does not",
+             "Their meditation",
+             "Nothing stated"],
+         "correct": 1,
+         "expl": "That is precisely what the fetters for getting reborn are for."},
+        {"q": "What method does this discourse set for the chapter?",
+         "opts": [
+             "Narrative",
+             "Take a variable, cut it into four states, and name the kind of person who occupies each",
+             "Simile",
+             "Question and answer"],
+         "correct": 1,
+         "expl": "Ten discourses follow doing exactly that."},
+        {"q": "How does the guide describe a chapter like this?",
+         "opts": [
+             "As incomplete",
+             "As the Aṅguttara at its barest &mdash; the retrieval system with nothing added, categories preserved and occasions left off",
+             "As a later insertion",
+             "As a commentary"],
+         "correct": 1,
+         "expl": "A collection organized by number is a retrieval system."},
+        {"q": "What is the usable point of this page, on the guide&rsquo;s account?",
+         "opts": [
+             "The table itself",
+             "That a non-standard table sits in a collection that elsewhere gives the standard one, with neither marked as correcting the other",
+             "That the fetters are ten",
+             "That the terms are late"],
+         "correct": 1,
+         "expl": "The material is older than any of its systematizations."},
+    ],
+    marginalia=[
+        ("Three groups", [
+            "<span class=\"pali\">orambhāgiya</span>lower",
+            "<span class=\"pali\">upapattipaṭilābhiya</span>for rebirth",
+            "<span class=\"pali\">bhavapaṭilābhiya</span>for existence",
+        ]),
+        ("Four rows", [
+            "none given up &middot; once-returner",
+            "one &middot; upstream to Akaniṭṭha",
+            "two &middot; extinguished in between",
+            "three &middot; perfected one",
+        ]),
+        ("Absent", [
+            "the stream-enterer",
+            "any definition of two terms",
+            "any comment at all",
+        ]),
+        ("Cross-references", [
+            "AN 4.88 &middot; the standard four, same title",
+            "AN 4.124 &middot; the pure abodes",
+            "AN 4.132 &middot; next: the chapter&rsquo;s method again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.131/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.88.html">AN 4.88 &middot; Fetters</a> &mdash; the same English title on a '
+        "different scheme, with the stream-enterer included.",
+        '<a href="an-4.124.html">AN 4.124 &middot; Difference (2nd)</a> &mdash; where the pure abodes '
+        "are reached and the term for their inhabitants is left unsaid.",
+        '<a href="an-4.132.html">AN 4.132 &middot; Eloquence</a> &mdash; next in this series, and the '
+        "same method applied to speech.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.132 — Paṭibhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    132, "Paṭibhāna", "Eloquence",
+    vagga=VAGGA_14,
+    meta_title="AN 4.132 — Eloquence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭibhānasutta — on topic "
+        "and fluent, on topic and not, fluent and not, neither: four speakers and no ranking. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare two-by-two, stated once"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Two-by-two classifications of speakers recur across the Āgama "
+                              "collections; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; five lines, and everything "
+                       "interesting about it is what it declines to say"),
+    ],
+    why=(
+        "Two qualities of speech, crossed. <em>Yutta</em>, connected &mdash; the words fit the "
+        "matter. <em>Mutta</em>, released &mdash; the words come freely. A person may have the "
+        "first without the second, the second without the first, both, or neither. The discourse "
+        "gives the four cells and stops, and the fact that it does not say which cell is best is "
+        "the most interesting thing about it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Being on topic and being fluent are two different abilities, and a speaker may have "
+            "either, both, or neither."]),
+        ("The two words", [
+            "<em>Paṭibhāna</em> is the readiness of speech &mdash; what comes to a person to say. "
+            "Sujato renders it elocution here, and the same word is the fourth of the four "
+            "analytical knowledges named at the end of AN 4.140.",
+            "The two modifiers are a matched pair from opposite images. <em>Yutta</em> is yoked, "
+            "joined, connected: the speech is tied to what it is about. <em>Mutta</em> is released, "
+            "freed, let go: the speech runs without catching.",
+            "So the pair is not quite &lsquo;relevant and fluent&rsquo;, though that is a fair "
+            "translation. It is bound and unbound, and the discourse is observing that a person can "
+            "be one without the other in either direction &mdash; tied to the matter and unable to "
+            "get the words out, or perfectly loose and attached to nothing."]),
+        ("Four cells, no ranking", [
+            "The order given is: on topic but not fluent; fluent but not on topic; both; neither. "
+            "The two mixed cases come first, the doubly good third, the doubly bad last.",
+            "Nowhere does the discourse say the third is best, though the arrangement invites it. "
+            "Nor &mdash; and this is the more useful silence &mdash; does it say which of the two "
+            "mixed cases is preferable.",
+            "That is a real restraint. Most readers arrive with a strong intuition here: the person "
+            "who is on topic but halting is better than the person who is fluent about nothing. The "
+            "discourse does not confirm it, and a teacher should notice the intuition being supplied "
+            "from outside the text rather than found in it.",
+            "The next chapter of the Fours will not be so restrained. AN 4.139 sorts Dhamma speakers "
+            "by the same variable and adds what the assembly makes of them; AN 4.140 sorts speakers "
+            "by whether they run out of matter or of phrasing and closes with a positive claim. "
+            "This one is the plainest of the three."]),
+        ("Three discourses about speech in one chapter", [
+            "AN 4.132, AN 4.139, and AN 4.140 sit in a chapter of ten and all three sort speakers "
+            "into fours. Between them they use three different pairs of variables: on topic against "
+            "fluent, little against much crossed with on topic against off, and meaning against "
+            "phrasing.",
+            "Read together they are a small manual, and the manual&rsquo;s single consistent claim "
+            "is that <em>what is said</em> and <em>how it comes out</em> vary independently. Every "
+            "one of the three treats them as separate axes, which is a way of insisting that fluency "
+            "is not evidence of anything.",
+            "That insistence has an obvious application in a tradition transmitted orally, where a "
+            "person&rsquo;s authority is heard rather than read. A collection that repeatedly warns "
+            "you not to infer content from delivery is protecting something."]),
+        ("What the categories are for", [
+            "It is worth asking why a set this thin was preserved at all, and the answer is that it "
+            "is a tool rather than a teaching. A four-cell grid gives a listener somewhere to put a "
+            "speaker they have just heard.",
+            "Used that way it is genuinely useful, and it is more useful for self-assessment than "
+            "for judging others. The two mixed cells are the ones worth sitting with: a person who "
+            "knows the material and cannot deliver it, and a person who delivers beautifully and is "
+            "not on the subject.",
+            "The second of those is the harder one to detect from inside, because fluency feels like "
+            "competence while it is happening. That is exactly why the collection separates the two "
+            "axes and refuses to let either stand in for the other."]),
+        ("Reading it in place", [
+            "The Puggalavagga is a run of ten classifications of persons, and this is the shortest "
+            "of them. Nothing in the discourse but the grid.",
+            "It follows AN 4.131, which sorted people by fetters, and precedes AN 4.133, which sorts "
+            "them by how quickly they understand. Three consecutive discourses on three unrelated "
+            "variables, all cut into four.",
+            "That is worth teaching as a feature rather than a defect. The chapter is a "
+            "demonstration of a method, and the method is that any quality worth noticing can be "
+            "crossed with its own absence and produce four kinds of person."]),
+    ],
+    terms=[
+        ("paṭibhāna",
+         "&ldquo;elocution&rdquo;, readiness of speech &mdash; what comes to a person to say; also "
+         "the fourth of the four analytical knowledges."),
+        ("yutta",
+         "&ldquo;connected&rdquo;, yoked &mdash; the speech is tied to its matter; rendered here as "
+         "&lsquo;on topic&rsquo;."),
+        ("mutta",
+         "&ldquo;released&rdquo;, freed &mdash; the speech runs without catching; rendered here as "
+         "&lsquo;fluent&rsquo;."),
+        ("puggala",
+         "&ldquo;individual&rdquo;, person &mdash; the unit this whole chapter classifies, and the "
+         "word that gives the Puggalavagga its name."),
+        ("santo saṁvijjamānā lokasmiṁ",
+         "&ldquo;found in the world&rdquo; &mdash; existing and to be met with; the formula that "
+         "opens and closes nearly every discourse in this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: four kinds of speaker, and nothing else. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four kinds of speaker"),
+        ("p", "&sect;1", "an4.132:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What two qualities are crossed?",
+         "opts": [
+             "Truth and kindness",
+             "Being on topic and being fluent",
+             "Speaking little and speaking much",
+             "Meaning and phrasing"],
+         "correct": 1,
+         "expl": "<em>Yutta</em> and <em>mutta</em>, connected and released."},
+        {"q": "What does <em>yutta</em> literally mean?",
+         "opts": [
+             "Skilled",
+             "Yoked, joined, connected &mdash; the speech is tied to its matter",
+             "True",
+             "Brief"],
+         "correct": 1,
+         "expl": "And <em>mutta</em> is its opposite image: released, freed."},
+        {"q": "What is <em>paṭibhāna</em>?",
+         "opts": [
+             "Memory",
+             "Readiness of speech &mdash; what comes to a person to say",
+             "Doctrine",
+             "Authority"],
+         "correct": 1,
+         "expl": "Also the fourth of the four analytical knowledges named at the end of AN 4.140."},
+        {"q": "In what order are the four given?",
+         "opts": [
+             "Best to worst",
+             "On topic but not fluent; fluent but not on topic; both; neither",
+             "Neither; both; the two mixed",
+             "Alphabetically"],
+         "correct": 1,
+         "expl": "The two mixed cases first, the doubly good third, the doubly bad last."},
+        {"q": "Does the discourse rank the four?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; it gives the cells and stops, including between the two mixed cases",
+             "Yes, by implication only",
+             "It ranks only the last"],
+         "correct": 1,
+         "expl": "The more useful silence is the one about the mixed cases."},
+        {"q": "What does the guide say a teacher should notice about the intuition that on-topic beats fluent?",
+         "opts": [
+             "That it is confirmed here",
+             "That it is being supplied from outside the text rather than found in it",
+             "That it is wrong",
+             "That it appears in AN 4.140"],
+         "correct": 1,
+         "expl": "The discourse does not confirm it."},
+        {"q": "Which three discourses in this chapter sort speakers?",
+         "opts": [
+             "AN 4.131, 4.135, 4.138",
+             "AN 4.132, AN 4.139, and AN 4.140",
+             "AN 4.133, 4.136, 4.137",
+             "Only this one"],
+         "correct": 1,
+         "expl": "Three different pairs of variables, in a chapter of ten."},
+        {"q": "What single claim do the three share?",
+         "opts": [
+             "That brevity is best",
+             "That what is said and how it comes out vary independently &mdash; fluency is not evidence of anything",
+             "That teaching should be frequent",
+             "That assemblies are unreliable"],
+         "correct": 1,
+         "expl": "A collection transmitted orally has a reason to insist on this."},
+        {"q": "Which mixed cell does the guide call harder to detect from inside?",
+         "opts": [
+             "On topic but not fluent",
+             "Fluent but not on topic &mdash; because fluency feels like competence while it is happening",
+             "Neither",
+             "Both"],
+         "correct": 1,
+         "expl": "Which is why the collection refuses to let either axis stand in for the other."},
+        {"q": "How does the guide describe the chapter&rsquo;s method?",
+         "opts": [
+             "Narrative accumulation",
+             "That any quality worth noticing can be crossed with its own absence and produce four kinds of person",
+             "Commentary on earlier suttas",
+             "Ranking by attainment"],
+         "correct": 1,
+         "expl": "Three consecutive discourses on three unrelated variables, all cut into four."},
+    ],
+    marginalia=[
+        ("Two axes", [
+            "<span class=\"pali\">yutta</span>yoked to the matter",
+            "<span class=\"pali\">mutta</span>released, running free",
+        ]),
+        ("Four cells", [
+            "on topic, not fluent",
+            "fluent, not on topic",
+            "both",
+            "neither",
+        ]),
+        ("Not stated", [
+            "which cell is best",
+            "which mixed case is better",
+            "&mdash; the reader supplies it",
+        ]),
+        ("Cross-references", [
+            "AN 4.139 &middot; the same axis, with an audience",
+            "AN 4.140 &middot; meaning against phrasing",
+            "AN 4.42 &middot; four ways of answering",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.132/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.139.html">AN 4.139 &middot; Dhamma Speakers</a> &mdash; the same variable '
+        "with the assembly added.",
+        '<a href="an-4.140.html">AN 4.140 &middot; Speaker</a> &mdash; running out of matter, or of '
+        "ways to put it.",
+        '<a href="an-4.42.html">AN 4.42 &middot; Ways of Answering Questions</a> &mdash; the Fours '
+        "on what a question deserves.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.133 — Ugghaṭitaññūsutta
+# --------------------------------------------------------------------------- #
+page(
+    133, "Ugghaṭitaññū", "One Who Understands Immediately",
+    vagga=VAGGA_14,
+    meta_title="AN 4.133 — One Who Understands Immediately | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ugghaṭitaññūsutta — four "
+        "kinds of learner in a single line, and what the later tradition did with the fourth. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four names, given once, with no definitions"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four-fold grading of learners is widely attested; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; four words long, and one of "
+                       "them carries centuries of commentary the discourse itself does not"),
+    ],
+    why=(
+        "Four kinds of learner, named and not defined: one who understands immediately, one who "
+        "understands after detailed explanation, one who needs to be led, and one for whom the "
+        "words are as far as it goes. The whole discourse is that list. Everything else anyone has "
+        "ever said about it &mdash; and a great deal has been said, particularly about the fourth "
+        "&mdash; comes from somewhere other than this page."),
+    guide=[
+        ("The teaching in one sentence", [
+            "People differ in how much explanation they need, and the difference is worth four "
+            "names."]),
+        ("The four names", [
+            "<em>Ugghaṭitaññū</em>: one who understands at the opening-up, on the mere statement, "
+            "before the explanation begins.",
+            "<em>Vipañcitaññū</em>: one who understands when the matter is spread out, expanded, "
+            "gone into.",
+            "<em>Neyya</em>: one who is to be led &mdash; a gerundive, not a description of a "
+            "state. Sujato&rsquo;s &lsquo;needs education&rsquo; is accurate: this person will get "
+            "there, with guidance, over time.",
+            "<em>Padaparama</em>: one for whom the word is the maximum. <em>Pada</em> is a word or a "
+            "line of text; <em>parama</em> is the furthest point. Sujato renders it &lsquo;merely "
+            "learns by rote&rsquo;.",
+            "The first three form an obvious sequence of decreasing speed. The fourth is a different "
+            "kind of item, and the discourse gives no hint of how different."]),
+        ("What the discourse does not say", [
+            "It does not define any of the four. It does not say what to do with any of them. It "
+            "does not say that any of them is beyond help, and it does not say that the fourth "
+            "cannot attain anything.",
+            "This matters, because the commentarial tradition says a great deal on that last point "
+            "&mdash; that the <em>padaparama</em> cannot reach the path in this life however much "
+            "they hear, and that effort is therefore best directed at the third type. That "
+            "interpretation has been enormously influential, and it is not in the sutta.",
+            "Saying so is not an argument that the commentary is wrong. It is an argument for "
+            "keeping the two apart when teaching, because a reader who meets the commentarial gloss "
+            "as if it were the text will carry away a doctrine of fixed capacity that these four "
+            "words do not contain.",
+            "What the discourse gives is a distinction of speed. What the commentary adds is a "
+            "ceiling. The step between those is large and it is taken elsewhere."]),
+        ("The set&rsquo;s later career", [
+            "This list did not stay in the Aṅguttara. It became one of the standard classifications "
+            "of persons in the Abhidhamma&rsquo;s <em>Puggalapaññatti</em>, and it is routinely read "
+            "alongside the lotus-pond simile from the account of the Buddha&rsquo;s decision to "
+            "teach &mdash; some lotuses still under the water, some level with it, some standing "
+            "clear.",
+            "The pairing is natural and it is also an addition. The lotus simile and this list are "
+            "not connected in the early texts; they are connected by the obvious usefulness of "
+            "reading one through the other.",
+            "A teacher can use the pairing freely, provided the seam is visible. The simile is about "
+            "the range of a population; this list is about the range of a room."]),
+        ("Using it honestly", [
+            "The practical value of the set is in what it stops a teacher from concluding. Someone "
+            "who does not follow an explanation is not thereby uninterested, unintelligent, or "
+            "unsuited; the discourse names four kinds of listener and expects all four to be "
+            "present.",
+            "The risk runs the other way too. A classification of learners is an instrument that "
+            "can be used to sort people and then to give up on the ones sorted low, and the fourth "
+            "category is exactly where that happens. The collection is not innocent about this "
+            "&mdash; AN 4.111 describes a person no longer thought worth advising, and calls the "
+            "state of being no longer advised a kind of death.",
+            "The difference is that AN 4.111 states a condition that has to be met, which is that "
+            "the person responds to no form of training at all. AN 4.133 states no condition. It "
+            "names four types and leaves the room.",
+            "The honest reading is therefore the minimal one, and it is also the most useful one: "
+            "explanation is not one thing, and the same words will land four different ways in the "
+            "same hour."]),
+        ("Where it sits", [
+            "This is the third discourse of the Puggalavagga and the shortest so far. AN 4.131 "
+            "sorted people by fetters, AN 4.132 by two qualities of speech, and this one by "
+            "receptivity.",
+            "The next, AN 4.134, sorts them by whether they live off effort or off the results of "
+            "past deeds. Four variables, four unrelated grids, and the chapter is not yet half over.",
+            "Read as a group, they are the collection&rsquo;s inventory of the ways one person can "
+            "differ from another. Nothing in them is about awakening except by implication, and "
+            "nothing in them is arranged as an argument."]),
+    ],
+    terms=[
+        ("ugghaṭitaññū",
+         "&ldquo;one who understands at the opening&rdquo; &mdash; on the bare statement, before "
+         "the explanation begins."),
+        ("vipañcitaññū",
+         "&ldquo;one who understands when it is spread out&rdquo; &mdash; after the matter has been "
+         "expanded and gone into."),
+        ("neyya",
+         "&ldquo;one to be led&rdquo; &mdash; a gerundive rather than a description; this person "
+         "will get there, with guidance."),
+        ("padaparama",
+         "&ldquo;one for whom the word is the furthest point&rdquo; &mdash; <em>pada</em>, a word or "
+         "line of text, and <em>parama</em>, the maximum."),
+        ("puggalapaññatti",
+         "&ldquo;description of persons&rdquo; &mdash; the Abhidhamma book in which this list, and "
+         "much else from this chapter, was later collected."),
+    ],
+    text_intro=(
+        "The discourse in full: the four named, and nothing more. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four kinds of learner"),
+        ("p", "&sect;1", "an4.133:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What are the four?",
+         "opts": [
+             "Four kinds of teacher",
+             "One who understands immediately, one who understands after detailed explanation, one who needs education, and one who merely learns by rote",
+             "Four kinds of speech",
+             "Four stages of awakening"],
+         "correct": 1,
+         "expl": "Named and not defined; the whole discourse is that list."},
+        {"q": "What does <em>ugghaṭitaññū</em> mean literally?",
+         "opts": [
+             "One who studies hard",
+             "One who understands at the opening-up &mdash; on the bare statement",
+             "One who is taught first",
+             "One who teaches others"],
+         "correct": 1,
+         "expl": "Before the explanation begins."},
+        {"q": "What kind of word is <em>neyya</em>?",
+         "opts": [
+             "A noun for a state",
+             "A gerundive &mdash; one to be led, rather than a description of a fixed condition",
+             "A verb",
+             "An adjective of quantity"],
+         "correct": 1,
+         "expl": "This person will get there, with guidance, over time."},
+        {"q": "What does <em>padaparama</em> literally say?",
+         "opts": [
+             "One who forgets",
+             "One for whom the word is the furthest point",
+             "One who refuses to learn",
+             "One who learns last"],
+         "correct": 1,
+         "expl": "<em>Pada</em>, a word or line of text; <em>parama</em>, the maximum."},
+        {"q": "What does the discourse say about what to do with each type?",
+         "opts": [
+             "It gives instructions for each",
+             "Nothing &mdash; it does not define, rank, or prescribe",
+             "It says to teach only the first two",
+             "It says the fourth cannot attain"],
+         "correct": 1,
+         "expl": "It names four types and leaves the room."},
+        {"q": "What does the commentarial tradition add about the fourth?",
+         "opts": [
+             "That they learn slowly",
+             "That they cannot reach the path in this life however much they hear",
+             "That they need a different teacher",
+             "That they are rare"],
+         "correct": 1,
+         "expl": "Enormously influential, and not in the sutta."},
+        {"q": "Why does the guide insist on keeping the two apart?",
+         "opts": [
+             "Because the commentary is wrong",
+             "Because a reader who meets the gloss as if it were the text carries away a doctrine of fixed capacity these four words do not contain",
+             "Because the commentary is late",
+             "Because the terms are obscure"],
+         "correct": 1,
+         "expl": "The discourse gives a distinction of speed; the commentary adds a ceiling."},
+        {"q": "What simile is routinely read alongside this list?",
+         "opts": [
+             "The raft",
+             "The lotus pond from the account of the Buddha&rsquo;s decision to teach",
+             "The water snake",
+             "The chariot"],
+         "correct": 1,
+         "expl": "A natural pairing, and also an addition &mdash; the two are not connected in the early texts."},
+        {"q": "How does AN 4.111 differ from this discourse on giving up on someone?",
+         "opts": [
+             "It does not mention it",
+             "AN 4.111 states a condition that must be met &mdash; the person responds to no form of training at all; AN 4.133 states no condition",
+             "It is harsher",
+             "It applies only to laypeople"],
+         "correct": 1,
+         "expl": "The collection is not innocent about the risk; it does at least attach a test."},
+        {"q": "What does the guide call the honest and most useful reading?",
+         "opts": [
+             "The commentarial one",
+             "The minimal one &mdash; explanation is not one thing, and the same words land four different ways in the same hour",
+             "The Abhidhamma one",
+             "That the fourth type is hopeless"],
+         "correct": 1,
+         "expl": "Someone who does not follow an explanation is not thereby unsuited."},
+    ],
+    marginalia=[
+        ("Four learners", [
+            "<span class=\"pali\">ugghaṭitaññū</span>at the opening",
+            "<span class=\"pali\">vipañcitaññū</span>when spread out",
+            "<span class=\"pali\">neyya</span>to be led",
+            "<span class=\"pali\">padaparama</span>word-limited",
+        ]),
+        ("In the sutta", [
+            "four names",
+            "&mdash; and that is all",
+        ]),
+        ("Added later", [
+            "definitions",
+            "a ceiling on the fourth",
+            "the lotus-pond pairing",
+        ]),
+        ("Cross-references", [
+            "AN 4.111 &middot; no longer worth advising",
+            "AN 4.6 &middot; hearing much, holding little",
+            "AN 4.132 &middot; the previous grid",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.133/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.111.html">AN 4.111 &middot; With Kesi</a> &mdash; where giving up on a '
+        "learner is described, with a condition attached.",
+        '<a href="an-4.6.html">AN 4.6 &middot; A Little Learning</a> &mdash; the other axis: how '
+        "much a person has heard, against what they do with it.",
+        '<a href="an-4.134.html">AN 4.134 &middot; The Fruits of Initiative</a> &mdash; next in this '
+        "series, and another unrelated grid.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.134 — Uṭṭhānaphalasutta
+# --------------------------------------------------------------------------- #
+page(
+    134, "Uṭṭhānaphala", "The Fruits of Initiative",
+    vagga=VAGGA_14,
+    meta_title="AN 4.134 — The Fruits of Initiative | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Uṭṭhānaphalasutta — living "
+        "off the fruit of one's own initiative, off the fruit of past deeds, off both, or off "
+        "neither. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare two-by-two, stated once; the only discourse in the chapter that opens "
+                 "without the vocative"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The pairing of present effort with the results of past action is "
+                              "widespread; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; four lines that touch the "
+                       "tradition&rsquo;s most argued-over question and do not settle it"),
+    ],
+    why=(
+        "Some people live on what their own getting-up produces. Some live on what their past deeds "
+        "produce. Some live on both, and some on neither. Four cells, and the discourse says nothing "
+        "at all about which of them a person should want to be in &mdash; which is remarkable, "
+        "given that the two axes are effort and kamma, and that the relation between those two is "
+        "the question the tradition has argued about longest."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What a person lives off comes from present initiative, from the results of past deeds, "
+            "from both, or from neither."]),
+        ("The two axes", [
+            "<em>Uṭṭhānaphala</em> is the fruit of getting up. <em>Uṭṭhāna</em> is standing up, "
+            "rousing oneself, and it is the ordinary word for enterprise and initiative &mdash; the "
+            "same root that gives the &lsquo;energy&rsquo; a mendicant is told to arouse. It means "
+            "what your own present activity produces.",
+            "<em>Kammaphala</em> is the fruit of deeds, and here it means the results now arriving "
+            "from what was done before. The verb attached to both is <em>upajīvati</em>, to live "
+            "off, to subsist on &mdash; a livelihood word rather than a doctrinal one.",
+            "So the discourse is describing where a person&rsquo;s support actually comes from. That "
+            "is a plainer question than it looks, and everyone who has ever been employed or "
+            "inherited anything can answer it."]),
+        ("The uncomfortable cell", [
+            "One who lives off the fruit of deeds but not of initiative is a real category, and it "
+            "is worth naming plainly: someone whose present circumstances are supplied by what came "
+            "before, without their doing anything now.",
+            "The discourse does not criticize this person. It does not call them lazy, or fortunate, "
+            "or a problem. It lists them second of four and moves on.",
+            "That restraint is worth pointing out, because a tradition that talks constantly about "
+            "energy and diligence might be expected to say something. AN 4.116 makes diligence the "
+            "thing to be practiced in four areas; AN 4.11 calls a mendicant who tolerates an "
+            "unskillful thought &lsquo;lazy and lacking energy&rsquo;. Here, nothing.",
+            "The most likely explanation is the simplest: this is an observation about how people "
+            "are supported, not an instruction about how to live. The chapter it sits in is a "
+            "catalogue, and catalogues describe."]),
+        ("Effort and result, without a verdict", [
+            "The two axes are the terms of the tradition&rsquo;s longest-running argument. If "
+            "everything now is the fruit of past deeds, what is present effort for? If present "
+            "effort decides everything, what work is kamma doing?",
+            "The collection answers that elsewhere and firmly &mdash; the position that everything "
+            "experienced is caused by past action is named and rejected as a wrong view, precisely "
+            "because it makes effort pointless. But AN 4.134 does not gesture at any of that.",
+            "What it does instead is treat the two as independent sources of support that can be "
+            "present in any combination. That is not a doctrinal answer, but it is a useful "
+            "structural one: whatever the metaphysics, in an actual life the two arrive separately "
+            "and a person can be living on either, both, or nothing.",
+            "AN 4.77 puts the theoretical question out of reach altogether by listing the results of "
+            "deeds among the four things not to be speculated about. Read next to that, the "
+            "flatness of AN 4.134 looks less like an omission and more like a policy."]),
+        ("The fourth cell", [
+            "One who lives off the fruit of neither initiative nor deeds is the strangest entry, "
+            "because it is not obvious what such a person lives on at all.",
+            "The discourse does not say, and no answer should be manufactured. The formal reason for "
+            "the cell is that a two-by-two has four cells; the chapter fills grids completely "
+            "whether or not each corner has an obvious occupant. AN 4.132 did the same with the "
+            "speaker who is neither on topic nor fluent, and AN 4.138 will do it with the person on "
+            "retreat in neither body nor mind.",
+            "It is worth telling a class that this is what is happening. A completed grid is a "
+            "memory device, and its empty corners are structural rather than descriptive. Reading "
+            "the fourth cell as a claim about a real class of destitute people is reading more than "
+            "is there."]),
+        ("Where it sits", [
+            "AN 4.134 is the fourth of the Puggalavagga&rsquo;s ten grids and the only one that "
+            "concerns material support rather than mind, speech, or attainment.",
+            "That is itself worth noticing. The chapter&rsquo;s inventory of the ways people differ "
+            "includes livelihood, and includes it without moralizing about it, between a grid on "
+            "how fast people learn and one on how blameworthy their conduct is.",
+            "The discourse that follows, AN 4.135, will grade conduct on a four-point scale rather "
+            "than a grid, and it is the only discourse in the chapter that does."]),
+    ],
+    terms=[
+        ("uṭṭhāna",
+         "&ldquo;initiative&rdquo;, getting up &mdash; the ordinary word for enterprise; what a "
+         "person&rsquo;s own present activity produces."),
+        ("kammaphala",
+         "&ldquo;fruit of deeds&rdquo; &mdash; here the results now arriving from what was done "
+         "before, rather than the doctrine of action in general."),
+        ("upajīvati",
+         "&ldquo;lives off&rdquo;, subsists on &mdash; a livelihood word, which is what keeps this "
+         "discourse concrete."),
+        ("phala",
+         "&ldquo;fruit&rdquo;, result &mdash; attached to both axes, so that the discourse compares "
+         "two kinds of yield rather than a cause with an effect."),
+        ("acinteyya",
+         "&ldquo;unthinkable&rdquo; &mdash; not used here, but the category AN 4.77 puts the results "
+         "of deeds into, which is worth holding beside this discourse&rsquo;s silence."),
+    ],
+    text_intro=(
+        "The discourse in full: four ways of being supported, and no verdict on any of them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four ways of living"),
+        ("p", "&sect;1", "an4.134:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What two things are crossed?",
+         "opts": [
+             "Wealth and poverty",
+             "The fruit of initiative and the fruit of deeds",
+             "Giving and receiving",
+             "Skill and luck"],
+         "correct": 1,
+         "expl": "Two kinds of yield, not a cause and an effect."},
+        {"q": "What does <em>uṭṭhāna</em> literally mean?",
+         "opts": [
+             "Wealth",
+             "Getting up, rousing oneself &mdash; the ordinary word for enterprise",
+             "Merit",
+             "Skill"],
+         "correct": 1,
+         "expl": "The same root as the energy a mendicant is told to arouse."},
+        {"q": "What verb is attached to both axes?",
+         "opts": [
+             "Practices",
+             "Lives off, subsists on &mdash; <em>upajīvati</em>, a livelihood word",
+             "Obtains",
+             "Deserves"],
+         "correct": 1,
+         "expl": "Which is what keeps the discourse concrete."},
+        {"q": "How does the discourse treat the person who lives off past deeds without present initiative?",
+         "opts": [
+             "It calls them lazy",
+             "It lists them second of four and moves on, with no criticism",
+             "It calls them fortunate",
+             "It omits them"],
+         "correct": 1,
+         "expl": "Restraint worth pointing out in a tradition that talks constantly about diligence."},
+        {"q": "What does the guide give as the likely explanation for that silence?",
+         "opts": [
+             "The text is damaged",
+             "That this is an observation about how people are supported, not an instruction about how to live",
+             "That it is a later addition",
+             "That the criticism is implied"],
+         "correct": 1,
+         "expl": "The chapter it sits in is a catalogue, and catalogues describe."},
+        {"q": "What position does the collection reject elsewhere?",
+         "opts": [
+             "That effort matters",
+             "That everything experienced is caused by past action &mdash; because it makes effort pointless",
+             "That kamma exists",
+             "That results ripen"],
+         "correct": 1,
+         "expl": "AN 4.134 does not gesture at any of that."},
+        {"q": "How does AN 4.77 bear on this discourse?",
+         "opts": [
+             "It contradicts it",
+             "It puts the results of deeds among the four things not to be speculated about, which makes this discourse&rsquo;s flatness look like a policy",
+             "It defines the terms",
+             "It ranks the four cells"],
+         "correct": 1,
+         "expl": "Less like an omission and more like a policy."},
+        {"q": "What does the guide say about the fourth cell?",
+         "opts": [
+             "That it describes the destitute",
+             "That its reason is formal &mdash; a two-by-two has four cells, and the chapter fills grids completely",
+             "That it is corrupt",
+             "That it means renunciants"],
+         "correct": 1,
+         "expl": "AN 4.132 and AN 4.138 do the same with their empty corners."},
+        {"q": "What is a completed grid, on the guide&rsquo;s account?",
+         "opts": [
+             "A doctrine",
+             "A memory device, whose empty corners are structural rather than descriptive",
+             "A ranking",
+             "A prediction"],
+         "correct": 1,
+         "expl": "Reading the fourth cell as a claim about real people is reading more than is there."},
+        {"q": "What is unusual about this grid within the chapter?",
+         "opts": [
+             "Its length",
+             "It is the only one concerning material support rather than mind, speech, or attainment",
+             "Its speaker",
+             "Its setting"],
+         "correct": 1,
+         "expl": "And it includes livelihood without moralizing about it."},
+    ],
+    marginalia=[
+        ("Two yields", [
+            "<span class=\"pali\">uṭṭhānaphala</span>from getting up",
+            "<span class=\"pali\">kammaphala</span>from what was done",
+        ]),
+        ("Four cells", [
+            "initiative, not deeds",
+            "deeds, not initiative",
+            "both",
+            "neither",
+        ]),
+        ("No verdict", [
+            "no cell praised",
+            "no cell blamed",
+            "&mdash; in a chapter that catalogues",
+        ]),
+        ("Cross-references", [
+            "AN 4.77 &middot; results of deeds, unthinkable",
+            "AN 4.116 &middot; diligence in four areas",
+            "AN 4.61 &middot; what wealth is properly for",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.134/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.77.html">AN 4.77 &middot; Unthinkable</a> &mdash; where the results of deeds '
+        "are placed out of reach of speculation.",
+        '<a href="an-4.116.html">AN 4.116 &middot; Diligence</a> &mdash; the Fours when they do want '
+        "to talk about effort.",
+        '<a href="an-4.135.html">AN 4.135 &middot; Blameworthy</a> &mdash; next in this series, and '
+        "the chapter&rsquo;s only scale rather than grid.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.135 — Sāvajjasutta
+# --------------------------------------------------------------------------- #
+page(
+    135, "Sāvajja", "Blameworthy",
+    vagga=VAGGA_14,
+    meta_title="AN 4.135 — Blameworthy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sāvajjasutta — blameworthy, "
+        "mostly blameworthy, slightly blameworthy, blameless, and a moral scale defined by "
+        "proportion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "A four-point scale, each point defined in turn"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Graded assessments of conduct are common across the early "
+                              "collections; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple, and the definitions of "
+                       "the middle two are the reason to read it"),
+    ],
+    why=(
+        "Blameworthy, mostly blameworthy, slightly blameworthy, blameless. Alone in this chapter, "
+        "this discourse is not a grid but a scale &mdash; and the two points in the middle are "
+        "defined by proportion rather than by kind. The mostly blameworthy person does blameworthy "
+        "things and is <em>occasionally blameless</em>; the slightly blameworthy person does "
+        "blameless things and is <em>occasionally blameworthy</em>. Conduct is being measured by "
+        "how often, not by what."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Conduct of body, speech, and mind can be wholly blameworthy, mostly so, mostly not, or "
+            "wholly blameless."]),
+        ("A scale, not a grid", [
+            "Every other discourse in the Puggalavagga crosses two variables and produces four "
+            "cells. This one takes a single variable and cuts it into four degrees, which makes it "
+            "the odd one out in the chapter.",
+            "The endpoints are absolute: <em>sāvajja</em>, with fault, and <em>anavajja</em>, "
+            "without fault. Between them are <em>vajjabahula</em>, fault-abundant, and "
+            "<em>appavajja</em>, little-fault. The Pāli marks the difference with quantity words "
+            "&mdash; <em>bahula</em>, abundant, and <em>appa</em>, little.",
+            "So the vocabulary itself is doing the work. This is not a scale of severity, as though "
+            "some faults were graver than others. It is a scale of frequency."]),
+        ("Why proportion is the interesting choice", [
+            "The definitions of the middle two are worth reading exactly. The mostly blameworthy "
+            "person does things by way of body, speech, and mind <em>that are mostly blameworthy, "
+            "but occasionally blameless</em>. The slightly blameworthy person does things "
+            "<em>mostly blameless, but occasionally blameworthy</em>.",
+            "Two consequences follow, and both are unusual enough to state.",
+            "The first is that nobody in the middle two categories is described as inconsistent, "
+            "confused, or hypocritical. They are described as having a ratio. That is a "
+            "notably unheated way to talk about ordinary moral life, and it is a long way from the "
+            "language of a person being fundamentally one thing or another.",
+            "The second is that the discourse concedes something a stricter scheme would not: the "
+            "mostly blameworthy person is <em>occasionally blameless</em>. Even at the bad end of "
+            "the middle, the good conduct is real and is recorded. Nothing here says it does not "
+            "count."]),
+        ("What is not said", [
+            "The discourse does not say what makes an act blameworthy. It uses the word four times "
+            "and defines nothing, which means it is relying on the reader already knowing &mdash; "
+            "from the precepts, from AN 4.81 to AN 4.83, from ordinary sense.",
+            "It does not say what to do with the scale. There is no instruction to move up it, no "
+            "warning about the bottom, no praise of the top.",
+            "And it does not attach destinations. Compare AN 4.81 and AN 4.82, where killing and "
+            "lying land a person in hell and their opposites in heaven; that machinery is entirely "
+            "absent here.",
+            "What remains, once all of that is subtracted, is a measuring instrument. The chapter is "
+            "a catalogue of the ways people differ, and this entry says: they differ by proportion "
+            "of blameworthy conduct, on a four-point scale."]),
+        ("Using it on oneself", [
+            "The scale is more useful applied inward than outward, and the reason is the "
+            "middle-two definitions again. Almost nobody who examines their own week finds either "
+            "endpoint.",
+            "What they find is a ratio, and a ratio is a thing that can move. That is the practical "
+            "gift of defining the middle by frequency rather than by character: it makes the "
+            "question &lsquo;how often&rsquo; rather than &lsquo;what kind of person am I&rsquo;, "
+            "and only the first of those has an answer that changes with effort.",
+            "It is worth adding what the discourse itself would not. AN 4.121, four discourses "
+            "earlier in the collection, described four fears that produce exactly this movement "
+            "&mdash; bad conduct given up, good conduct developed, oneself carried clean. This "
+            "discourse supplies the measurement; that one supplied the mechanism."]),
+        ("Where it sits", [
+            "AN 4.135 is the fifth of the chapter&rsquo;s ten and its halfway point. Before it: "
+            "fetters, eloquence, learners, livelihood. After it: the threefold training twice, "
+            "seclusion, and two more discourses on speaking.",
+            "The two that follow, AN 4.136 and AN 4.137, are a matched pair on ethics, immersion, "
+            "and wisdom &mdash; fulfilling them, and then valuing them. Both are ladders rather than "
+            "grids, which makes this stretch of the chapter the least grid-like part of it.",
+            "It is a reasonable place to point out that the Puggalavagga is not uniform. It looks "
+            "mechanical from a distance, and up close it is running at least three different "
+            "classification schemes."]),
+    ],
+    terms=[
+        ("sāvajja",
+         "&ldquo;blameworthy&rdquo;, with fault &mdash; <em>sa-</em>, with, and <em>vajja</em>, "
+         "fault; the negative endpoint of the scale."),
+        ("anavajja",
+         "&ldquo;blameless&rdquo; &mdash; the positive endpoint, and elsewhere a standard term of "
+         "praise for conduct and for a way of getting a living."),
+        ("vajjabahula",
+         "&ldquo;fault-abundant&rdquo; &mdash; <em>bahula</em>, abundant, frequent; the word that "
+         "makes this a scale of frequency rather than of severity."),
+        ("appavajja",
+         "&ldquo;of little fault&rdquo; &mdash; <em>appa</em>, little; the mirror of "
+         "<em>vajjabahula</em> on the other side of the middle."),
+        ("kāyakammaṁ vacīkammaṁ manokammaṁ",
+         "&ldquo;deeds by way of body, speech, and mind&rdquo; &mdash; the three doors, named at "
+         "every point of the scale, so that thought is measured with the rest."),
+    ],
+    text_intro=(
+        "The discourse in full: the four named, then each one defined. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four"),
+        ("p", "&sect;1", "an4.135:1.1-1.3"),
+        ("h3", "Blameworthy"),
+        ("p", "&sect;2", "an4.135:2.1-2.3"),
+        ("h3", "Mostly blameworthy"),
+        ("p", "&sect;3", "an4.135:3.1-3.5"),
+        ("h3", "Slightly blameworthy"),
+        ("p", "&sect;4", "an4.135:4.1-4.5"),
+        ("h3", "Blameless"),
+        ("p", "&sect;5", "an4.135:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ in form from the rest of the chapter?",
+         "opts": [
+             "It is longer",
+             "It is a four-point scale on one variable rather than a two-by-two grid",
+             "It has no speaker",
+             "It gives no definitions"],
+         "correct": 1,
+         "expl": "The odd one out in the Puggalavagga."},
+        {"q": "What do <em>bahula</em> and <em>appa</em> mean?",
+         "opts": [
+             "Grave and light",
+             "Abundant and little &mdash; quantity words, which makes this a scale of frequency",
+             "Public and private",
+             "Intentional and unintentional"],
+         "correct": 1,
+         "expl": "Not a scale of severity, as though some faults were graver than others."},
+        {"q": "How is the mostly blameworthy person defined?",
+         "opts": [
+             "As one who commits grave faults",
+             "As one whose deeds are mostly blameworthy but occasionally blameless",
+             "As one who is inconsistent",
+             "As one who does not know better"],
+         "correct": 1,
+         "expl": "A ratio rather than a character."},
+        {"q": "What does the guide say is unusual about describing people by ratio?",
+         "opts": [
+             "That it is imprecise",
+             "That nobody in the middle is called inconsistent, confused, or hypocritical &mdash; only as having a proportion",
+             "That it is harsh",
+             "That it is rare in Pāli"],
+         "correct": 1,
+         "expl": "A long way from the language of a person being fundamentally one thing."},
+        {"q": "What does the discourse concede about the mostly blameworthy person?",
+         "opts": [
+             "Nothing",
+             "That they are occasionally blameless &mdash; the good conduct is real and is recorded",
+             "That they will improve",
+             "That they are not responsible"],
+         "correct": 1,
+         "expl": "Nothing here says it does not count."},
+        {"q": "What does the discourse not define?",
+         "opts": [
+             "The four points",
+             "What makes an act blameworthy in the first place",
+             "The three doors",
+             "The endpoints"],
+         "correct": 1,
+         "expl": "It relies on the reader already knowing."},
+        {"q": "What machinery is absent here that AN 4.81 and AN 4.82 have?",
+         "opts": [
+             "The three doors",
+             "Destinations &mdash; hell for the bad conduct, heaven for the good",
+             "Definitions",
+             "The vocative"],
+         "correct": 1,
+         "expl": "What remains is a measuring instrument."},
+        {"q": "Why does the guide call the scale more useful applied inward?",
+         "opts": [
+             "Because others cannot be assessed",
+             "Because almost nobody examining their own week finds either endpoint &mdash; what they find is a ratio, and a ratio can move",
+             "Because it is a monastic teaching",
+             "Because the endpoints are rare"],
+         "correct": 1,
+         "expl": "It makes the question &lsquo;how often&rsquo; rather than &lsquo;what kind of person am I&rsquo;."},
+        {"q": "Which discourse does the guide pair with this one, and why?",
+         "opts": [
+             "AN 4.131, for its table",
+             "AN 4.121, which supplies the mechanism for the movement this one measures",
+             "AN 4.88, for its fetters",
+             "AN 4.133, for its learners"],
+         "correct": 1,
+         "expl": "Bad conduct given up, good conduct developed, oneself carried clean."},
+        {"q": "What does the guide say about the chapter&rsquo;s uniformity?",
+         "opts": [
+             "That it is uniform",
+             "That it looks mechanical from a distance and runs at least three different classification schemes up close",
+             "That it is disordered",
+             "That it is all grids"],
+         "correct": 1,
+         "expl": "AN 4.136 and AN 4.137 are ladders rather than grids."},
+    ],
+    marginalia=[
+        ("Four points", [
+            "<span class=\"pali\">sāvajja</span>with fault",
+            "<span class=\"pali\">vajjabahula</span>fault-abundant",
+            "<span class=\"pali\">appavajja</span>little fault",
+            "<span class=\"pali\">anavajja</span>without fault",
+        ]),
+        ("The middle two", [
+            "mostly blameworthy,",
+            "occasionally blameless",
+            "&mdash; and the reverse",
+        ]),
+        ("Not supplied", [
+            "what makes an act faulty",
+            "what to do about it",
+            "where any of it leads",
+        ]),
+        ("Cross-references", [
+            "AN 4.121 &middot; four fears that move the ratio",
+            "AN 4.81 &middot; killing, and where it lands",
+            "AN 4.99 &middot; practicing for oneself and others",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.135/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.121.html">AN 4.121 &middot; Guilt</a> &mdash; the four fears that produce '
+        "exactly the movement this scale measures.",
+        '<a href="an-4.81.html">AN 4.81 &middot; Killing Living Creatures</a> &mdash; where conduct '
+        "is attached to a destination, as it is not here.",
+        '<a href="an-4.136.html">AN 4.136 &middot; Ethics (1st)</a> &mdash; next in this series, and '
+        "a ladder rather than a scale.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.136 — Paṭhamasīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    136, "Paṭhamasīla", "Ethics (1st)",
+    vagga=VAGGA_14,
+    meta_title="AN 4.136 — Ethics (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Sīlasutta of the "
+        "Puggalavagga — four individuals graded by how far up the ladder of ethics, immersion, and "
+        "wisdom they have filled it out. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "A four-rung ladder, stated once, with no definitions"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The threefold training and its graded fulfillment are common to the "
+                              "Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; four lines, and the interesting "
+                       "part is the shape rather than the content"),
+    ],
+    why=(
+        "Ethics, immersion, wisdom &mdash; and four individuals: one who has fulfilled none of the "
+        "three, one who has fulfilled the first, one the first two, one all three. What makes this "
+        "worth a page is what the shape rules out. There is no cell here for wisdom without ethics, "
+        "or immersion without ethics, and in a chapter built almost entirely out of grids that "
+        "absence is a decision."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The threefold training is filled out in order, and people can be sorted by how far "
+            "along they have got."]),
+        ("A ladder, not a grid", [
+            "AN 4.132 crossed two qualities and got four cells. AN 4.134 did the same. This "
+            "discourse has three variables and could in principle produce eight combinations; it "
+            "produces four.",
+            "The four are strictly cumulative: none, the first, the first two, all three. Every "
+            "other combination &mdash; wisdom without immersion, immersion without ethics, wisdom "
+            "without either &mdash; is simply not offered.",
+            "That is the discourse&rsquo;s whole content, and it is a strong claim made by "
+            "arrangement rather than by argument. The order of the three is not a preference. It is "
+            "being treated as the only order in which they occur.",
+            "It is worth being precise about what is and is not being asserted. The discourse does "
+            "not say a person without ethics can have no concentration at all; it says nothing about "
+            "such a person, because the classification has no room for them. Silence produced by a "
+            "grid&rsquo;s shape is weaker evidence than a statement, and should be reported as what "
+            "it is."]),
+        ("The word that is doing the work", [
+            "<em>Paripūrakārī</em>, one who fulfills, one who does the filling-full. The image is of "
+            "completing something rather than of possessing it.",
+            "That matters for reading the first rung. Somebody who has not <em>fulfilled</em> ethics "
+            "is not thereby unethical &mdash; they have not finished. The discourse is describing "
+            "completion of a training, not the presence or absence of a quality.",
+            "Read that way the four rungs stop looking like a hierarchy of persons and start looking "
+            "like a progress report, which is closer to what the vocabulary supports.",
+            "The three terms themselves are the ones the Fours opened with. AN 4.1 named noble "
+            "ethics, immersion, wisdom, and freedom as the four whose non-understanding kept "
+            "everyone wandering. Here the fourth term is dropped and the first three are made into "
+            "a ladder."]),
+        ("Why it is paired with AN 4.137", [
+            "The next discourse is this one with a single change: instead of <em>fulfilling</em> "
+            "ethics, immersion, and wisdom, the individual <em>values and submits to</em> them.",
+            "Neither discourse says anything about the other, and neither is complete without it. "
+            "Taken together they distinguish two things that ordinary language runs into one: doing "
+            "the training, and treating the training as authoritative.",
+            "The chapter has done this before. AN 4.123 and AN 4.124 were a matched pair with one "
+            "clause swapped; so were AN 4.125 and AN 4.126 in the chapter before. The collection "
+            "argues by minimal variation, and a reader who takes these discourses one at a time will "
+            "miss most of what is being said.",
+            "The practical question the pair raises is the useful one: a person can have fulfilled "
+            "more than they honor, or honor more than they have fulfilled, and the two failures look "
+            "nothing alike."]),
+        ("What the ladder is for", [
+            "Nothing in the discourse tells anyone to climb it. There is no encouragement, no "
+            "warning, and no destination attached to any rung.",
+            "This is the fourth discourse in a row of which that is true, and by now it should be "
+            "read as the chapter&rsquo;s style rather than as an omission in any one text. The "
+            "Puggalavagga classifies and does not exhort.",
+            "What the classification supplies is a diagnostic order. If ethics, immersion, and "
+            "wisdom are filled out in sequence, then a difficulty at a later stage is worth "
+            "investigating at an earlier one &mdash; and that is a genuinely useful instruction, "
+            "even though the discourse never states it.",
+            "The Fours give the same order elsewhere with more attached. AN 4.12 sets out what "
+            "living by ethics looks like in every posture; AN 4.92 to AN 4.94 sort people by "
+            "serenity and discernment and do tell them what to do about it. This page is the bare "
+            "skeleton those pages put flesh on."]),
+        ("Where it sits", [
+            "Sixth of the chapter&rsquo;s ten, first of the matched pair, and the point at which "
+            "the Puggalavagga stops crossing variables and starts stacking them.",
+            "AN 4.137 completes the pair. AN 4.138 returns to the grid form with body and mind. AN "
+            "4.139 and AN 4.140 close the chapter on speech.",
+            "Four discourses to go, and three of them are grids again."]),
+    ],
+    terms=[
+        ("paripūrakārī",
+         "&ldquo;one who fulfills&rdquo;, one who fills something full &mdash; an image of "
+         "completion rather than of possession."),
+        ("sīla",
+         "&ldquo;ethics&rdquo; &mdash; first rung, and in this scheme the one without which the "
+         "others are not classified at all."),
+        ("samādhi",
+         "&ldquo;immersion&rdquo; &mdash; second rung; the collectedness of mind that the training "
+         "builds on ethics."),
+        ("paññā",
+         "&ldquo;wisdom&rdquo; &mdash; third rung, and the last named here; AN 4.1 added freedom as "
+         "a fourth, which this discourse does not."),
+        ("sikkhā",
+         "&ldquo;training&rdquo; &mdash; not used here, but the standard name for the set of three "
+         "this discourse grades."),
+    ],
+    text_intro=(
+        "The discourse in full: four individuals, four rungs, no definitions. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.136:1.1-1.3"),
+        ("p", "&sect;2", "an4.136:2.1"),
+        ("p", "&sect;3", "an4.136:3.1"),
+        ("p", "&sect;4", "an4.136:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What three things are graded?",
+         "opts": [
+             "Faith, energy, and mindfulness",
+             "Ethics, immersion, and wisdom",
+             "Body, speech, and mind",
+             "Giving, ethics, and meditation"],
+         "correct": 1,
+         "expl": "The first three of the four AN 4.1 opened the Fours with."},
+        {"q": "How many combinations could three variables produce, and how many does the discourse give?",
+         "opts": [
+             "Four and four",
+             "Eight in principle; four are given",
+             "Three and three",
+             "Six and four"],
+         "correct": 1,
+         "expl": "The four are strictly cumulative."},
+        {"q": "Which combination is not offered?",
+         "opts": [
+             "All three fulfilled",
+             "Wisdom without ethics &mdash; and every other non-cumulative case",
+             "None fulfilled",
+             "Ethics alone"],
+         "correct": 1,
+         "expl": "A strong claim made by arrangement rather than by argument."},
+        {"q": "How does the guide characterize that silence?",
+         "opts": [
+             "As a firm denial",
+             "As weaker evidence than a statement &mdash; silence produced by a grid&rsquo;s shape, and it should be reported as what it is",
+             "As an error",
+             "As a later loss"],
+         "correct": 1,
+         "expl": "The discourse says nothing about such a person because the classification has no room for them."},
+        {"q": "What does <em>paripūrakārī</em> mean?",
+         "opts": [
+             "One who possesses",
+             "One who fulfills, who fills something full &mdash; an image of completion",
+             "One who begins",
+             "One who teaches"],
+         "correct": 1,
+         "expl": "Someone who has not fulfilled ethics is not thereby unethical."},
+        {"q": "How does that change the reading of the four rungs?",
+         "opts": [
+             "Not at all",
+             "They stop looking like a hierarchy of persons and start looking like a progress report",
+             "They become a ranking",
+             "They become metaphorical"],
+         "correct": 1,
+         "expl": "Closer to what the vocabulary supports."},
+        {"q": "What does AN 4.137 change?",
+         "opts": [
+             "The three terms",
+             "Fulfilling becomes valuing and submitting to",
+             "The number of individuals",
+             "The order"],
+         "correct": 1,
+         "expl": "Two things ordinary language runs into one: doing the training, and treating it as authoritative."},
+        {"q": "What method does the guide say the collection is using here?",
+         "opts": [
+             "Commentary",
+             "Argument by minimal variation &mdash; as in AN 4.123 and AN 4.124, and AN 4.125 and AN 4.126",
+             "Simile",
+             "Repetition for memory only"],
+         "correct": 1,
+         "expl": "A reader who takes these discourses one at a time will miss most of what is said."},
+        {"q": "What useful instruction does the ladder imply without stating?",
+         "opts": [
+             "That wisdom is highest",
+             "That a difficulty at a later stage is worth investigating at an earlier one",
+             "That ethics is sufficient",
+             "That the order can be reversed"],
+         "correct": 1,
+         "expl": "A diagnostic order, supplied by the sequence."},
+        {"q": "What does the guide say about the chapter&rsquo;s refusal to exhort?",
+         "opts": [
+             "That it is an omission in this text",
+             "That it is the chapter&rsquo;s style &mdash; the Puggalavagga classifies and does not exhort",
+             "That it is unique here",
+             "That it is a translation artifact"],
+         "correct": 1,
+         "expl": "The fourth discourse in a row of which that is true."},
+    ],
+    marginalia=[
+        ("Four rungs", [
+            "none fulfilled",
+            "ethics",
+            "ethics, immersion",
+            "ethics, immersion, wisdom",
+        ]),
+        ("Not offered", [
+            "wisdom without ethics",
+            "immersion without ethics",
+            "&mdash; eight cases, four given",
+        ]),
+        ("The verb", [
+            "<span class=\"pali\">paripūrakārī</span>one who fills full",
+            "completion, not possession",
+        ]),
+        ("Cross-references", [
+            "AN 4.1 &middot; the same three, plus freedom",
+            "AN 4.137 &middot; the matched pair",
+            "AN 4.93 &middot; serenity and discernment, with advice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.136/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.137.html">AN 4.137 &middot; Ethics (2nd)</a> &mdash; the same ladder with one '
+        "word changed, and the reason to read this one.",
+        '<a href="an-4.1.html">AN 4.1 &middot; Understood</a> &mdash; where the same three open the '
+        "Fours, with freedom added as a fourth.",
+        '<a href="an-4.93.html">AN 4.93 &middot; Immersion (2nd)</a> &mdash; the Fours grading '
+        "practice and then telling the reader what to do about it.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.137 — Dutiyasīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    137, "Dutiyasīla", "Ethics (2nd)",
+    vagga=VAGGA_14,
+    meta_title="AN 4.137 — Ethics (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Sīlasutta of the "
+        "Puggalavagga — valuing and submitting to ethics, immersion, and wisdom, and how that "
+        "differs from fulfilling them. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.136 with one verb replaced"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The vocabulary of taking something as one&rsquo;s governing authority "
+                              "is standard across the early collections; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; identical in shape to the "
+                       "discourse before it, and about something different"),
+    ],
+    why=(
+        "The same ladder as AN 4.136 &mdash; ethics, immersion, wisdom, filled out in order &mdash; "
+        "with one word changed. There the individual had <em>fulfilled</em> them. Here the "
+        "individual <em>values and submits to</em> them: <em>garu</em>, holds them weighty, and "
+        "<em>adhipateyya</em>, takes them as the thing in authority. Two discourses, one difference, "
+        "and the difference is between having done something and letting it govern you."),
+    guide=[
+        ("The teaching in one sentence", [
+            "People differ not only in how far they have taken the threefold training but in how "
+            "much authority they give it."]),
+        ("Two words for one idea", [
+            "<em>Garu</em> is heavy. To be <em>sīlagaru</em> is to find ethics weighty, to give it "
+            "weight, to take it seriously &mdash; and the same root gives the word for a teacher, "
+            "someone whose word carries weight.",
+            "<em>Adhipateyya</em> is the stronger of the two. It is authority, sovereignty, the "
+            "thing that rules. To be <em>sīlādhipateyya</em> is to have ethics as one&rsquo;s "
+            "governing principle, the thing referred to when a decision has to be made.",
+            "Sujato&rsquo;s &lsquo;values and submits to&rsquo; catches both halves: the first word "
+            "is an attitude, the second is a chain of command. The pair is not redundant, and a "
+            "reader can hold something weighty without letting it govern anything.",
+            "The same word <em>adhipateyya</em> gives its name to a well-known set of three in the "
+            "collection &mdash; taking oneself, the world, or the Dhamma as one&rsquo;s authority. "
+            "The vocabulary here belongs to that family, and it is asking a question about what a "
+            "person actually defers to."]),
+        ("What the pair distinguishes", [
+            "Set AN 4.136 and AN 4.137 side by side and four combinations become visible that "
+            "neither discourse states: fulfilled and honored, fulfilled but not honored, honored but "
+            "not fulfilled, and neither.",
+            "The two middle ones are the interesting cases. Someone can keep a training precisely "
+            "while treating it as an imposition, and someone can hold a training in the highest "
+            "regard while not doing much of it. Both are common, both are recognizable, and neither "
+            "is described in either discourse.",
+            "The pair supplies the vocabulary and leaves the combinations to the reader, which is "
+            "consistent with everything else in this chapter. What the compilers preserved is a set "
+            "of distinctions, not a set of conclusions.",
+            "It is worth saying which of the two the tradition generally treats as prior. "
+            "<em>Adhipateyya</em> is a matter of what a person orients by, and orientation usually "
+            "precedes achievement. On that reading AN 4.137 is not a supplement to AN 4.136 but the "
+            "condition of it, though neither text says so."]),
+        ("The cumulative shape again", [
+            "As in AN 4.136, only four of the eight possible combinations appear, and they are the "
+            "cumulative ones: none, ethics, ethics and immersion, all three.",
+            "Repeating the shape does more than save effort. It asserts that the ordering holds for "
+            "valuing as it held for fulfilling &mdash; that a person does not come to treat wisdom "
+            "as authoritative before ethics.",
+            "That claim is more contestable than the first one, and it is worth flagging. Plenty of "
+            "people arrive at a tradition through its philosophy and only later take its ethics "
+            "seriously. The discourse does not acknowledge that route, and this reading guide notes "
+            "the omission rather than defending it.",
+            "What can be said for the ordering is that it matches how the collection consistently "
+            "presents the path elsewhere, and that these two discourses are a classification rather "
+            "than a history of anyone&rsquo;s conversion."]),
+        ("Reading the two as one text", [
+            "The matched pair is this chapter&rsquo;s and the last chapter&rsquo;s favorite device. "
+            "AN 4.123 and AN 4.124; AN 4.125 and AN 4.126; AN 4.136 and AN 4.137. Each time, one "
+            "clause changes and the reader is expected to notice.",
+            "A recitation tradition can afford this and a reading culture cannot. Heard one after "
+            "the other in the same sitting, the swapped word stands out unmissably. Encountered as "
+            "two numbered items in a list, it is easy to read the second as a duplicate of the first "
+            "and move on.",
+            "So the practical instruction for anyone teaching from the Aṅguttara is to look at the "
+            "neighbors before deciding a discourse is thin. AN 4.137 alone is four lines. AN 4.136 "
+            "and AN 4.137 together are a distinction worth an hour."]),
+        ("Where it sits", [
+            "Seventh of ten, and the end of the chapter&rsquo;s ladder section.",
+            "AN 4.138 returns to the two-by-two form, crossing bodily seclusion with mental "
+            "seclusion, and it is the most vivid discourse in the chapter. AN 4.139 and AN 4.140 "
+            "then close the Puggalavagga on public speaking.",
+            "After that the Fours move to the Ābhāvagga, the chapter of light, which opens with "
+            "four kinds of radiance and then works through four kinds of splendor, of light, and of "
+            "brightness &mdash; a chapter organized by image rather than by person."]),
+    ],
+    terms=[
+        ("garu",
+         "&ldquo;heavy&rdquo;, weighty &mdash; to hold something in regard; the same root as the "
+         "word for a teacher, whose word carries weight."),
+        ("adhipateyya",
+         "&ldquo;authority&rdquo;, sovereignty &mdash; the thing that governs; what a person refers "
+         "to when a decision has to be made."),
+        ("sīlagaru sīlādhipateyya",
+         "&ldquo;valuing and submitting to ethics&rdquo; &mdash; the compound pair applied in turn "
+         "to each of the three trainings."),
+        ("attādhipateyya",
+         "&ldquo;taking oneself as authority&rdquo; &mdash; not in this discourse, but the first of "
+         "the well-known three that share its second word."),
+        ("puggala",
+         "&ldquo;individual&rdquo; &mdash; the unit being classified; the pair AN 4.136 and AN "
+         "4.137 sorts the same individuals twice by two different measures."),
+    ],
+    text_intro=(
+        "The discourse in full: the same four rungs, with valuing in place of fulfilling. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.137:1.1-1.3"),
+        ("p", "&sect;2", "an4.137:2.1"),
+        ("p", "&sect;3", "an4.137:3.1"),
+        ("p", "&sect;4", "an4.137:4.1-4.2"),
+    ],
+    quiz=[
+        {"q": "What single change distinguishes this from AN 4.136?",
+         "opts": [
+             "The three trainings",
+             "Fulfilling is replaced by valuing and submitting to",
+             "The number of individuals",
+             "The order of the trainings"],
+         "correct": 1,
+         "expl": "One word, and the difference is between having done something and letting it govern you."},
+        {"q": "What does <em>garu</em> literally mean?",
+         "opts": [
+             "Sacred",
+             "Heavy, weighty &mdash; the same root as the word for a teacher",
+             "Difficult",
+             "Necessary"],
+         "correct": 1,
+         "expl": "To find something weighty is to give it weight."},
+        {"q": "What does <em>adhipateyya</em> add?",
+         "opts": [
+             "Nothing &mdash; it is redundant",
+             "Authority, sovereignty &mdash; a chain of command rather than an attitude",
+             "Frequency",
+             "Duration"],
+         "correct": 1,
+         "expl": "A reader can hold something weighty without letting it govern anything."},
+        {"q": "What well-known set of three shares that second word?",
+         "opts": [
+             "Ethics, immersion, wisdom",
+             "Taking oneself, the world, or the Dhamma as one&rsquo;s authority",
+             "Body, speech, and mind",
+             "Faith, energy, and wisdom"],
+         "correct": 1,
+         "expl": "The vocabulary belongs to that family."},
+        {"q": "Which combinations become visible when the two discourses are set side by side?",
+         "opts": [
+             "Only the two stated",
+             "Four &mdash; including fulfilled but not honored, and honored but not fulfilled",
+             "Eight",
+             "None"],
+         "correct": 1,
+         "expl": "The two middle ones are the interesting cases, and neither discourse describes them."},
+        {"q": "Which does the guide say the tradition generally treats as prior?",
+         "opts": [
+             "Fulfilling",
+             "Valuing &mdash; orientation usually precedes achievement",
+             "Neither",
+             "It varies"],
+         "correct": 1,
+         "expl": "On that reading AN 4.137 is the condition of AN 4.136, though neither text says so."},
+        {"q": "What does repeating the cumulative shape assert?",
+         "opts": [
+             "Nothing new",
+             "That the ordering holds for valuing as it held for fulfilling &mdash; nobody treats wisdom as authoritative before ethics",
+             "That the trainings are equal",
+             "That the order is arbitrary"],
+         "correct": 1,
+         "expl": "A more contestable claim than the first one."},
+        {"q": "How does the guide handle that contestability?",
+         "opts": [
+             "By defending the ordering",
+             "By flagging that many people arrive through a tradition&rsquo;s philosophy first, and noting the omission rather than defending it",
+             "By rejecting the discourse",
+             "By citing the commentary"],
+         "correct": 1,
+         "expl": "These two discourses are a classification, not a history of anyone&rsquo;s conversion."},
+        {"q": "Why does the guide say a recitation tradition can afford the matched-pair device?",
+         "opts": [
+             "Because reciters are trained",
+             "Because heard one after the other in a sitting, the swapped word stands out unmissably",
+             "Because the texts are short",
+             "Because the order is fixed"],
+         "correct": 1,
+         "expl": "As two numbered items in a list, the second reads as a duplicate."},
+        {"q": "What practical instruction follows for anyone teaching from the Aṅguttara?",
+         "opts": [
+             "Read the commentary first",
+             "Look at the neighbors before deciding a discourse is thin",
+             "Skip the repetitions",
+             "Start at the Ones"],
+         "correct": 1,
+         "expl": "AN 4.137 alone is four lines; the pair is a distinction worth an hour."},
+    ],
+    marginalia=[
+        ("The swap", [
+            "4.136 &middot; <span class=\"pali\">paripūrakārī</span>fulfills",
+            "4.137 &middot; <span class=\"pali\">garu, adhipateyya</span>values, submits",
+        ]),
+        ("Two halves", [
+            "<span class=\"pali\">garu</span>holds it weighty",
+            "<span class=\"pali\">adhipateyya</span>lets it govern",
+        ]),
+        ("Left to the reader", [
+            "fulfilled, not honored",
+            "honored, not fulfilled",
+            "&mdash; both common, neither stated",
+        ]),
+        ("Cross-references", [
+            "AN 4.136 &middot; the other half of the pair",
+            "AN 4.12 &middot; ethics in every posture",
+            "AN 4.138 &middot; next: body and mind crossed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.137/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.136.html">AN 4.136 &middot; Ethics (1st)</a> &mdash; the discourse this one '
+        "cannot be read apart from.",
+        '<a href="an-4.12.html">AN 4.12 &middot; Ethics</a> &mdash; what living by the first of the '
+        "three looks like when it is described rather than counted.",
+        '<a href="an-4.138.html">AN 4.138 &middot; Retreat</a> &mdash; next in this series, and the '
+        "chapter&rsquo;s most vivid grid.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.138 — Nikaṭṭhasutta
+# --------------------------------------------------------------------------- #
+page(
+    138, "Nikaṭṭha", "Retreat",
+    vagga=VAGGA_14,
+    meta_title="AN 4.138 — Retreat | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nikaṭṭhasutta — withdrawn "
+        "in body but not mind, in mind but not body, in neither, or in both. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "A two-by-two, each cell defined by a lodging and a kind of thought"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The contrast between physical and mental seclusion is widespread in "
+                              "the early collections; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the clearest discourse in the "
+                       "chapter, and the one most likely to be quoted back at somebody"),
+    ],
+    why=(
+        "Four people. One lives in the forest and thinks sensual, malicious, and cruel thoughts. One "
+        "lives nowhere in particular and thinks thoughts of renunciation, good will, and "
+        "harmlessness. One has neither the forest nor the thoughts. One has both. The discourse "
+        "crosses where a person is with what a person is thinking, and it is the plainest statement "
+        "in the Fours that the first does not produce the second."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Being on retreat in body and being on retreat in mind are two separate things, and a "
+            "person may have either without the other."]),
+        ("The word", [
+            "<em>Nikaṭṭha</em> means drawn away, withdrawn, kept apart. It is applied twice in each "
+            "case &mdash; <em>nikaṭṭhakāya</em>, withdrawn in body, and <em>nikaṭṭhacitta</em>, "
+            "withdrawn in mind &mdash; and the doubling is what makes the grid.",
+            "The bodily half is defined concretely: <em>araññavanapatthāni pantāni senāsanāni</em>, "
+            "remote lodgings in the wilderness and the forest. Not an attitude, not a retreat in the "
+            "modern sense of a scheduled week, but where a person actually sleeps.",
+            "The mental half is defined by three thoughts on each side. The unskillful trio is "
+            "sensual, malicious, and cruel &mdash; <em>kāma</em>, <em>byāpāda</em>, "
+            "<em>vihiṁsā</em>. The skillful trio is their exact negations: renunciation, good will, "
+            "harmlessness. The same three appear in AN 4.11, where a mendicant who tolerates any of "
+            "them in any posture is called lazy and lacking energy."]),
+        ("The order the four are given in", [
+            "Body but not mind; mind but not body; neither; both. That places the doubly bad case "
+            "third and the doubly good case last, which is not the order AN 4.132 or AN 4.134 used.",
+            "The effect of the ordering is to open with the case that stings. The forest-dweller who "
+            "thinks cruel thoughts is the first person named in the discourse, before any positive "
+            "example has been set up, and the definitions section repeats him first.",
+            "That is worth noticing when teaching, because the discourse is arranged as a "
+            "provocation and reads very differently if the order is rearranged into something "
+            "tidier. The compiler put the uncomfortable case in the doorway."]),
+        ("The second cell, and what it concedes", [
+            "One is on retreat in mind but not body: they do not frequent remote lodgings, and they "
+            "think thoughts of renunciation, good will, and harmlessness.",
+            "This is the cell that makes the discourse quotable, and it should be quoted accurately. "
+            "It does not say that this person is doing as well as the fourth, or that the forest is "
+            "unnecessary. It says that mental seclusion is present and bodily seclusion is not, and "
+            "that this combination exists.",
+            "What the discourse does do is give that person their own name and their own paragraph, "
+            "on the same footing as the other three. In a tradition where forest-dwelling is one of "
+            "the standard ascetic practices, that is a real concession and it is made without "
+            "comment.",
+            "The reading to resist is the flattering one &mdash; that since mind is what counts, "
+            "circumstances are irrelevant. The discourse gives four cells and puts both qualities in "
+            "the fourth. If the location did not matter it would not be one of the axes."]),
+        ("What the grid is actually claiming", [
+            "The claim is independence, not indifference. Two variables that people habitually treat "
+            "as one are being separated, and the separation is demonstrated by exhibiting all four "
+            "combinations.",
+            "That is a modest claim and a durable one. It does not tell anyone where to live. It "
+            "tells them that the question of where they live and the question of what they are "
+            "thinking have to be asked separately, because the answer to one does not settle the "
+            "other.",
+            "The chapter has made this move repeatedly with other pairs &mdash; on topic and fluent "
+            "in AN 4.132, initiative and past deeds in AN 4.134, speaking little and staying on "
+            "topic in AN 4.139. Every one of them separates two things that ordinary usage runs "
+            "together, and none of them ranks the mixed cases.",
+            "Read as a set, the Puggalavagga is doing one thing over and over: refusing to let one "
+            "good quality serve as evidence of another."]),
+        ("Teaching it", [
+            "This is the discourse in the chapter most likely to be used as a weapon, in either "
+            "direction &mdash; against people who go on retreat, and against people who do not. "
+            "Both uses require ignoring one of the axes.",
+            "The honest use is self-directed and takes about a minute. Which cell was I in this "
+            "week, and which of the two variables did I assume was taking care of the other?",
+            "The chapter ends with two discourses on speaking, AN 4.139 and AN 4.140, and then the "
+            "Fours leave the classification of persons behind for the Ābhāvagga and its four kinds "
+            "of light."]),
+    ],
+    terms=[
+        ("nikaṭṭha",
+         "&ldquo;withdrawn&rdquo;, drawn away &mdash; applied separately to body and to mind, which "
+         "is what produces the grid."),
+        ("araññavanapattha",
+         "&ldquo;wilderness and forest&rdquo; &mdash; the concrete definition of bodily seclusion: "
+         "remote lodgings, where a person actually sleeps."),
+        ("kāmavitakka",
+         "&ldquo;sensual thought&rdquo; &mdash; first of the unskillful trio, with malicious and "
+         "cruel thought; the same three as AN 4.11."),
+        ("nekkhammavitakka",
+         "&ldquo;thought of renunciation&rdquo; &mdash; first of the skillful trio, with good will "
+         "and harmlessness, each an exact negation of its opposite."),
+        ("viveka",
+         "&ldquo;seclusion&rdquo; &mdash; not the word used here, but the standard term whose bodily "
+         "and mental senses this discourse is prying apart."),
+    ],
+    text_intro=(
+        "The discourse in full: the four named, then each defined by a lodging and a set of "
+        "thoughts. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four"),
+        ("p", "&sect;1", "an4.138:1.1-1.6"),
+        ("h3", "In body, not mind"),
+        ("p", "&sect;2", "an4.138:2.1-2.4"),
+        ("h3", "In mind, not body"),
+        ("p", "&sect;3", "an4.138:3.1-3.4"),
+        ("h3", "In neither"),
+        ("p", "&sect;4", "an4.138:4.1-4.4"),
+        ("h3", "In both"),
+        ("p", "&sect;5", "an4.138:5.1-5.5"),
+    ],
+    quiz=[
+        {"q": "What two things are crossed?",
+         "opts": [
+             "Ethics and wisdom",
+             "Being withdrawn in body and being withdrawn in mind",
+             "Speaking and listening",
+             "Effort and result"],
+         "correct": 1,
+         "expl": "<em>Nikaṭṭhakāya</em> and <em>nikaṭṭhacitta</em>."},
+        {"q": "How is bodily seclusion defined?",
+         "opts": [
+             "As a state of mind",
+             "Concretely &mdash; frequenting remote lodgings in the wilderness and the forest",
+             "As a scheduled period",
+             "As solitude from company"],
+         "correct": 1,
+         "expl": "Where a person actually sleeps."},
+        {"q": "Which three thoughts define the unskillful side?",
+         "opts": [
+             "Doubt, sloth, and restlessness",
+             "Sensual, malicious, and cruel",
+             "Greed, hate, and delusion",
+             "Pride, envy, and fear"],
+         "correct": 1,
+         "expl": "The same three as AN 4.11, and the skillful trio is their exact negation."},
+        {"q": "In what order are the four given?",
+         "opts": [
+             "Worst to best",
+             "Body but not mind; mind but not body; neither; both",
+             "Best to worst",
+             "Both; neither; the two mixed"],
+         "correct": 1,
+         "expl": "The doubly bad case third, the doubly good last."},
+        {"q": "What is the effect of opening with the first case?",
+         "opts": [
+             "It softens the discourse",
+             "It opens with the case that stings &mdash; the forest-dweller thinking cruel thoughts, before any positive example is set up",
+             "It clarifies the definitions",
+             "It matches the other grids"],
+         "correct": 1,
+         "expl": "The compiler put the uncomfortable case in the doorway."},
+        {"q": "What does the second cell concede?",
+         "opts": [
+             "That the forest is unnecessary",
+             "That mental seclusion without bodily seclusion exists, and gets its own name and paragraph on the same footing as the rest",
+             "That thoughts do not matter",
+             "That lay life is superior"],
+         "correct": 1,
+         "expl": "A real concession in a tradition where forest-dwelling is a standard ascetic practice."},
+        {"q": "What reading does the guide say should be resisted?",
+         "opts": [
+             "That the forest matters",
+             "The flattering one &mdash; that since mind is what counts, circumstances are irrelevant",
+             "That both matter",
+             "That the grid is complete"],
+         "correct": 1,
+         "expl": "If the location did not matter it would not be one of the axes."},
+        {"q": "What is the discourse claiming, precisely?",
+         "opts": [
+             "Indifference between the two",
+             "Independence &mdash; two variables people treat as one are separated, and all four combinations are exhibited",
+             "That body follows mind",
+             "That mind follows body"],
+         "correct": 1,
+         "expl": "It does not tell anyone where to live."},
+        {"q": "What does the guide say the Puggalavagga is doing over and over?",
+         "opts": [
+             "Ranking attainments",
+             "Refusing to let one good quality serve as evidence of another",
+             "Defining terms",
+             "Recording occasions"],
+         "correct": 1,
+         "expl": "None of its grids ranks the mixed cases."},
+        {"q": "What does the guide call the honest use of this discourse?",
+         "opts": [
+             "Assessing other practitioners",
+             "Self-directed &mdash; which cell was I in this week, and which variable did I assume was taking care of the other",
+             "Choosing a lodging",
+             "Settling a dispute"],
+         "correct": 1,
+         "expl": "Using it as a weapon in either direction requires ignoring one of the axes."},
+    ],
+    marginalia=[
+        ("Two axes", [
+            "<span class=\"pali\">nikaṭṭhakāya</span>withdrawn in body",
+            "<span class=\"pali\">nikaṭṭhacitta</span>withdrawn in mind",
+        ]),
+        ("Three and three", [
+            "sensual &middot; malicious &middot; cruel",
+            "renunciation &middot; good will &middot; harmlessness",
+        ]),
+        ("The order", [
+            "body, not mind &mdash; first",
+            "neither &mdash; third",
+            "both &mdash; last",
+        ]),
+        ("Cross-references", [
+            "AN 4.11 &middot; the same three thoughts, in four postures",
+            "AN 4.132 &middot; another pair prized apart",
+            "AN 4.28 &middot; the noble traditions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.138/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.11.html">AN 4.11 &middot; Walking</a> &mdash; the same three unskillful '
+        "thoughts, measured against what a mendicant does with them.",
+        '<a href="an-4.28.html">AN 4.28 &middot; The Noble Traditions</a> &mdash; where contentment '
+        "with lodgings is one of four ancient standards.",
+        '<a href="an-4.139.html">AN 4.139 &middot; Dhamma Speakers</a> &mdash; next in this series, '
+        "and the chapter turns to speaking.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.139 — Dhammakathikasutta
+# --------------------------------------------------------------------------- #
+page(
+    139, "Dhammakathika", "Dhamma Speakers",
+    vagga=VAGGA_14,
+    meta_title="AN 4.139 — Dhamma Speakers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dhammakathikasutta — four "
+        "Dhamma speakers, the assemblies that can or cannot tell the difference, and a refrain that "
+        "applies to all four. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "Four cases, each in three clauses: what the speaker does, what the assembly can "
+                 "tell, and how the speaker is reckoned"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Classifications of preachers and their audiences occur across the "
+                              "Āgama collections; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; simple in form, and the closing "
+                       "clause of each case is dry enough to be missed"),
+    ],
+    why=(
+        "Four Dhamma speakers: little and off topic, little and on topic, much and off topic, much "
+        "and on topic. With each one comes an assembly that can or cannot tell the difference. And "
+        "each of the four cases ends with the same flat sentence &mdash; such a speaker, before such "
+        "an assembly, <em>is reckoned simply as a Dhamma speaker</em>. Including the two who are not "
+        "saying anything to the point."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four kinds of Dhamma speaker are described, and all four end up being called Dhamma "
+            "speakers."]),
+        ("The grid", [
+            "The two variables are quantity and coherence. <em>Appa</em>, little, against "
+            "<em>bahu</em>, much; and <em>sahita</em>, connected or coherent, against "
+            "<em>asahita</em>, its negation. Sujato renders the second pair &lsquo;on topic&rsquo; "
+            "and &lsquo;off topic&rsquo;.",
+            "That gives four speakers, and the order is the natural one: little and off, little and "
+            "on, much and off, much and on.",
+            "Note that this is the same coherence axis AN 4.132 used seven discourses earlier, "
+            "crossed there with fluency and here with quantity. The chapter is running the same "
+            "variable through two different grids without remarking on it."]),
+        ("The third clause", [
+            "Each case has a part the summaries usually drop. After describing the speaker, the "
+            "discourse describes the assembly: for the two off-topic speakers, <em>their assembly "
+            "can&rsquo;t tell what&rsquo;s on topic and what&rsquo;s off topic</em>; for the two on-"
+            "topic speakers, it can.",
+            "The correlation is exact and it is unexplained. One would expect a speaker&rsquo;s "
+            "quality and an audience&rsquo;s discernment to vary independently &mdash; that is what "
+            "this whole chapter usually insists on &mdash; and here they are locked together.",
+            "There are two readings and the discourse supports neither over the other. Either the "
+            "assembly is described as it is because a speaker who is off topic in front of a "
+            "discerning assembly would not last, or the pairing is a way of saying that audiences "
+            "and speakers select each other. The second is the sharper reading; the first is the "
+            "safer one.",
+            "What can be said for certain is that the discourse chose to make the audience part of "
+            "the classification. Nothing else in the Puggalavagga does that. Every other grid sorts "
+            "an individual on their own qualities; this one sorts a speaker together with the room "
+            "they are standing in."]),
+        ("The refrain", [
+            "<em>Evarūpo dhammakathiko evarūpāya parisāya dhammakathikotveva saṅkhaṁ gacchati.</em> "
+            "Such a Dhamma speaker, before such an assembly, comes to be reckoned simply as a "
+            "Dhamma speaker.",
+            "<em>Saṅkhaṁ gacchati</em> is the idiom for being counted as something, entered under a "
+            "heading, given a designation. And the sentence is identical in all four cases &mdash; "
+            "including the first, where the speaker says little and none of it to the point.",
+            "The line is deadpan and its point is unmistakable once it is heard. The title travels "
+            "with the role, not with the quality. A man who talks nonsense briefly to an audience "
+            "that cannot tell is, in the world&rsquo;s accounting, a Dhamma speaker; so is the man "
+            "in the fourth case.",
+            "It is a warning about designations rather than about speakers. The word "
+            "<em>dhammakathika</em> tells you what someone does and nothing about how well, and the "
+            "discourse spends four repetitions making sure the reader cannot mistake the one for "
+            "the other.",
+            "That is worth stating plainly because the collection could easily have said something "
+            "harsher and did not. Nobody in this discourse is condemned, disqualified, or told to "
+            "stop. The observation is left as an observation."]),
+        ("What is not being measured", [
+            "Three absences are worth naming.",
+            "Nothing is said about whether the assembly benefits. The discourse tracks what they can "
+            "distinguish, not what they gain, and those are different questions.",
+            "Nothing is said about the speaker&rsquo;s attainment, ethics, or sincerity. A person "
+            "can be entirely coherent about the Dhamma without any claim being made here about what "
+            "they have realized.",
+            "And nothing is said about which case is best, though for once the arrangement makes it "
+            "obvious. The fourth speaker says much, stays on topic, and faces an assembly that can "
+            "tell the difference. It is the only case in which all three clauses are favorable, and "
+            "the discourse still does not comment."]),
+        ("Reading it with AN 4.132 and AN 4.140", [
+            "Three discourses on speaking in one chapter, and each one adds a variable the others "
+            "leave out. AN 4.132: is the speech connected to its matter, and does it come freely. AN "
+            "4.139: how much of it is there, and can the room tell. AN 4.140: does the speaker run "
+            "out of matter, or of ways to put it.",
+            "Taken together they cover content, delivery, quantity, audience, and endurance, and "
+            "they never once mention what a listener should feel.",
+            "That is a distinctive emphasis and it is worth pointing out to anyone who teaches. The "
+            "Fours assess public speech by whether it is about something and whether it can be "
+            "sustained, and by nothing else at all."]),
+    ],
+    terms=[
+        ("dhammakathika",
+         "&ldquo;Dhamma speaker&rdquo; &mdash; a role rather than an assessment; the whole point of "
+         "the discourse is that the title is the same in all four cases."),
+        ("sahita / asahita",
+         "&ldquo;connected&rdquo; and &ldquo;disconnected&rdquo; &mdash; whether the speech hangs "
+         "together with its matter; rendered on topic and off topic."),
+        ("parisā",
+         "&ldquo;assembly&rdquo; &mdash; the room, made part of the classification here and nowhere "
+         "else in this chapter."),
+        ("kusala",
+         "&ldquo;skilled&rdquo; &mdash; used of the assembly, which is or is not skilled in telling "
+         "what is to the point from what is not."),
+        ("saṅkhaṁ gacchati",
+         "&ldquo;is reckoned as&rdquo;, comes to be counted under a heading &mdash; the idiom that "
+         "carries the discourse&rsquo;s dry closing line."),
+    ],
+    text_intro=(
+        "The discourse in full: four speakers, four assemblies, and the same closing sentence each "
+        "time. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Little, and off topic"),
+        ("p", "&sect;1", "an4.139:1.1-1.5"),
+        ("h3", "Little, and on topic"),
+        ("p", "&sect;2", "an4.139:2.1-2.3"),
+        ("h3", "Much, and off topic"),
+        ("p", "&sect;3", "an4.139:3.1-3.3"),
+        ("h3", "Much, and on topic"),
+        ("p", "&sect;4", "an4.139:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What two variables sort the four speakers?",
+         "opts": [
+             "Truth and kindness",
+             "How much they say, and whether it is on topic",
+             "Attainment and ethics",
+             "Preparation and delivery"],
+         "correct": 1,
+         "expl": "<em>Appa</em> against <em>bahu</em>, and <em>sahita</em> against <em>asahita</em>."},
+        {"q": "What third element does each case add?",
+         "opts": [
+             "The speaker&rsquo;s attainment",
+             "Whether the assembly can tell what is on topic from what is off",
+             "The length of the talk",
+             "The occasion"],
+         "correct": 1,
+         "expl": "Nothing else in the Puggalavagga makes the audience part of the classification."},
+        {"q": "How do the speaker&rsquo;s quality and the assembly&rsquo;s discernment relate?",
+         "opts": [
+             "They vary independently",
+             "They are locked together &mdash; the off-topic speakers face assemblies that cannot tell, and the on-topic ones assemblies that can",
+             "The assembly is always discerning",
+             "The assembly is never discerning"],
+         "correct": 1,
+         "expl": "Exact, and unexplained."},
+        {"q": "What is the sharper of the two readings the guide offers for that?",
+         "opts": [
+             "That the text is corrupt",
+             "That audiences and speakers select each other",
+             "That the assembly is irrelevant",
+             "That discernment causes coherence"],
+         "correct": 1,
+         "expl": "The safer reading is that an off-topic speaker would not last before a discerning assembly."},
+        {"q": "What does <em>saṅkhaṁ gacchati</em> mean?",
+         "opts": [
+             "Is praised",
+             "Is reckoned as, comes to be counted under a heading",
+             "Is appointed",
+             "Is remembered"],
+         "correct": 1,
+         "expl": "The idiom carrying the discourse&rsquo;s closing line."},
+        {"q": "How many of the four cases end with that refrain?",
+         "opts": [
+             "Only the last",
+             "All four &mdash; including the speaker who says little and none of it to the point",
+             "The two on-topic ones",
+             "Two of them"],
+         "correct": 1,
+         "expl": "The title travels with the role, not with the quality."},
+        {"q": "What is the refrain a warning about?",
+         "opts": [
+             "Bad speakers",
+             "Designations &mdash; the word tells you what someone does and nothing about how well",
+             "Large assemblies",
+             "Long talks"],
+         "correct": 1,
+         "expl": "Four repetitions making sure the reader cannot mistake the one for the other."},
+        {"q": "What does the discourse do with the two poor speakers?",
+         "opts": [
+             "Condemns them",
+             "Nothing &mdash; nobody is condemned, disqualified, or told to stop",
+             "Removes their title",
+             "Sends them to be trained"],
+         "correct": 1,
+         "expl": "The observation is left as an observation."},
+        {"q": "Which case has all three clauses favorable?",
+         "opts": [
+             "The second",
+             "The fourth &mdash; speaks much, stays on topic, faces an assembly that can tell",
+             "The first",
+             "None"],
+         "correct": 1,
+         "expl": "And the discourse still does not comment on it."},
+        {"q": "What do the chapter&rsquo;s three discourses on speech never mention?",
+         "opts": [
+             "Coherence",
+             "What a listener should feel",
+             "Quantity",
+             "The assembly"],
+         "correct": 1,
+         "expl": "They assess speech by whether it is about something and whether it can be sustained."},
+    ],
+    marginalia=[
+        ("Four speakers", [
+            "little, off topic",
+            "little, on topic",
+            "much, off topic",
+            "much, on topic",
+        ]),
+        ("And four rooms", [
+            "can&rsquo;t tell &middot; can tell",
+            "can&rsquo;t tell &middot; can tell",
+            "&mdash; locked to the speaker",
+        ]),
+        ("The refrain", [
+            "<span class=\"pali\">saṅkhaṁ gacchati</span>is reckoned as",
+            "&lsquo;simply a Dhamma speaker&rsquo;",
+            "&mdash; in all four cases",
+        ]),
+        ("Cross-references", [
+            "AN 4.132 &middot; the same coherence axis",
+            "AN 4.140 &middot; running out of matter",
+            "AN 4.42 &middot; four ways of answering",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.139/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.132.html">AN 4.132 &middot; Eloquence</a> &mdash; the same coherence axis, '
+        "crossed with fluency instead of quantity.",
+        '<a href="an-4.140.html">AN 4.140 &middot; Speaker</a> &mdash; next in this series, and the '
+        "chapter&rsquo;s last word on speaking.",
+        '<a href="an-4.42.html">AN 4.42 &middot; Ways of Answering Questions</a> &mdash; the Fours '
+        "on matching a reply to what was asked.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.140 — Vādīsutta
+# --------------------------------------------------------------------------- #
+page(
+    140, "Vādī", "Speaker",
+    vagga=VAGGA_14,
+    meta_title="AN 4.140 — Speaker | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vādīsutta — four speakers "
+        "who run out of meaning, of phrasing, of both, or of neither, and the one claim the "
+        "Puggalavagga actually makes. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_14),
+        ("Speakers", SPEAKER),
+        ("Form", "A two-by-two, followed by a single positive statement &mdash; the only one in the "
+                 "chapter"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The pairing of meaning with phrasing, and the set of four analytical "
+                              "knowledges, are both widely attested; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and its last sentence is "
+                       "the only thing in ten discourses that is not a classification"),
+    ],
+    why=(
+        "A speaker can run out of things worth saying while still having ways to say them, or run "
+        "out of ways to say them while still having something worth saying, or run out of both, or "
+        "of neither. Four cells, as always in this chapter. Then the discourse does something it "
+        "has not done once in ten: it makes a claim. It is impossible, it cannot happen, that "
+        "someone accomplished in the four kinds of textual analysis will ever run out of either."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Speakers run dry in two different ways, and one accomplishment makes running dry "
+            "impossible."]),
+        ("Matter and manner", [
+            "<em>Attha</em> is the meaning, the point, what the words are about. <em>Byañjana</em> "
+            "is the letter, the phrasing, the way it is put. The pair is one of the most durable in "
+            "the canon and turns up wherever the tradition talks about how teaching is transmitted.",
+            "The verb is <em>pariyādānaṁ gacchati</em>, to come to exhaustion &mdash; to be used up, "
+            "to reach the end of the supply. It is a resource word, and it makes the discourse a "
+            "description of stock rather than of skill.",
+            "That framing is worth holding on to. The question is not whether a speaker is good but "
+            "whether they have anything left, which is a different question and a more practical "
+            "one. Anyone who has taught the same material for a long time recognizes both failure "
+            "modes: nothing more to say, or nothing new to say it with."]),
+        ("The four cells", [
+            "Runs out of matter but not phrasing. Runs out of phrasing but not matter. Runs out of "
+            "both. Runs out of neither.",
+            "The first is the more familiar failure and the more dangerous one, because it is "
+            "invisible from inside and often from outside as well &mdash; the phrasing is still "
+            "there, and the phrasing is what an audience hears. This is the same person AN 4.132 "
+            "called fluent but not on topic, met at a later stage.",
+            "The second is uncomfortable but honest: the speaker has the matter and cannot find the "
+            "words for it. Nothing in the discourse suggests this is worse than the first, and the "
+            "chapter&rsquo;s consistent refusal to rank mixed cases holds here too.",
+            "The fourth cell is where the discourse breaks its own pattern. Everywhere else in the "
+            "Puggalavagga the complete case is simply listed and the text stops. Here it is listed, "
+            "and then a sentence is added about how to occupy it."]),
+        ("The one positive claim in ten discourses", [
+            "<em>It is impossible, it cannot happen, that someone accomplished in the four kinds of "
+            "textual analysis will ever run out of meaningful things to say, or ways of phrasing "
+            "things.</em>",
+            "<em>Aṭṭhānametaṁ anavakāso</em> is the canon&rsquo;s strong impossibility formula, "
+            "used for things ruled out absolutely rather than merely unlikely. It is a heavy piece "
+            "of grammar to attach to a chapter that has spent ten discourses declining to say "
+            "anything at all.",
+            "The four <em>paṭisambhidā</em> are the analytical knowledges: of meaning, of the "
+            "teaching, of language, and of eloquence &mdash; <em>attha</em>, <em>dhamma</em>, "
+            "<em>nirutti</em>, <em>paṭibhāna</em>. Two of those four are the very terms the "
+            "discourse has just used as its axes, and the fourth is the word AN 4.132 was built on.",
+            "So the closing sentence is not a new subject arriving from outside. It names the "
+            "accomplishment that covers both axes at once, and it says that a person who has it "
+            "cannot be exhausted. That is the Puggalavagga&rsquo;s only prescription, and it arrives "
+            "in the last line of the last discourse."]),
+        ("Why it belongs here and not earlier", [
+            "A chapter that ranked its cells would have had to argue for the ranking. This chapter "
+            "does something cheaper and more durable: it lays out ten sets of distinctions without "
+            "comment and then, once, at the end, names one thing that makes a complete case "
+            "achievable.",
+            "Read that way the closing sentence is the chapter&rsquo;s signature rather than an "
+            "afterthought. Everything before it has been description; this is the single line of "
+            "instruction, placed where a reciter reaching the end of the chapter will hear it last.",
+            "It is also worth noting how modest the instruction is even so. It does not say the "
+            "analytical knowledges make a person wise, or awakened, or a good teacher. It says they "
+            "make running out impossible. The claim is narrow and it is exactly matched to the "
+            "discourse it closes."]),
+        ("The end of the chapter", [
+            "Ten discourses, ten classifications: fetters, eloquence, learners, livelihood, blame, "
+            "the threefold training twice, seclusion, Dhamma speakers, and speakers. Almost no "
+            "narrative, no setting, no interlocutors, and one sentence of advice.",
+            "This is the Aṅguttara showing its working. A collection organized by number needs "
+            "categories more than it needs stories, and the Puggalavagga is where the categories are "
+            "kept for the number four applied to persons.",
+            "What follows is the Ābhāvagga, the chapter of light, which drops persons entirely and "
+            "organizes by image instead &mdash; four kinds of radiance, of splendor, of light, of "
+            "brightness. The Fours are about to become considerably less dry."]),
+    ],
+    terms=[
+        ("attha",
+         "&ldquo;meaning&rdquo;, the point &mdash; what words are about; first of the pair, and "
+         "first of the four analytical knowledges."),
+        ("byañjana",
+         "&ldquo;phrasing&rdquo;, the letter &mdash; how a thing is put; the standing partner of "
+         "<em>attha</em> throughout the canon."),
+        ("pariyādānaṁ gacchati",
+         "&ldquo;comes to exhaustion&rdquo; &mdash; a resource word, which makes the discourse a "
+         "description of stock rather than of skill."),
+        ("paṭisambhidā",
+         "&ldquo;analytical knowledge&rdquo; &mdash; the four are of meaning, of the teaching, of "
+         "language, and of eloquence."),
+        ("aṭṭhānametaṁ anavakāso",
+         "&ldquo;it is impossible, it cannot happen&rdquo; &mdash; the canon&rsquo;s strong "
+         "impossibility formula, used once in this whole chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: four speakers, and then the chapter&rsquo;s only positive claim. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four speakers, and what cannot happen"),
+        ("p", "&sect;1", "an4.140:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What two things can a speaker run out of?",
+         "opts": [
+             "Breath and patience",
+             "Meaningful things to say, and ways of phrasing things",
+             "Time and audience",
+             "Memory and confidence"],
+         "correct": 1,
+         "expl": "<em>Attha</em> and <em>byañjana</em>, one of the canon&rsquo;s most durable pairs."},
+        {"q": "What kind of word is <em>pariyādānaṁ gacchati</em>?",
+         "opts": [
+             "A word for skill",
+             "A resource word &mdash; coming to exhaustion, reaching the end of a supply",
+             "A word for failure",
+             "A word for silence"],
+         "correct": 1,
+         "expl": "It makes the discourse a description of stock rather than of skill."},
+        {"q": "Which failure does the guide call the more dangerous?",
+         "opts": [
+             "Running out of phrasing",
+             "Running out of matter while the phrasing remains &mdash; invisible from inside and often from outside",
+             "Running out of both",
+             "Running out of neither"],
+         "correct": 1,
+         "expl": "The same person AN 4.132 called fluent but not on topic, met at a later stage."},
+        {"q": "Does the discourse rank the two mixed cases?",
+         "opts": [
+             "Yes",
+             "No &mdash; the chapter&rsquo;s refusal to rank mixed cases holds here too",
+             "It ranks only the first",
+             "It ranks by audience"],
+         "correct": 1,
+         "expl": "Nothing suggests having the matter without the words is worse."},
+        {"q": "What is unusual about the discourse&rsquo;s last sentence?",
+         "opts": [
+             "Its length",
+             "It is a positive claim, and the only one in ten discourses of pure classification",
+             "It names a person",
+             "It gives a setting"],
+         "correct": 1,
+         "expl": "Everything before it has been description."},
+        {"q": "What formula does that sentence use?",
+         "opts": [
+             "&lsquo;It is likely&rsquo;",
+             "&lsquo;It is impossible, it cannot happen&rsquo; &mdash; the canon&rsquo;s strong impossibility formula",
+             "&lsquo;Thus have I heard&rsquo;",
+             "&lsquo;It should be expected&rsquo;"],
+         "correct": 1,
+         "expl": "Used for things ruled out absolutely rather than merely unlikely."},
+        {"q": "What are the four <em>paṭisambhidā</em>?",
+         "opts": [
+             "Ethics, immersion, wisdom, freedom",
+             "Analytical knowledge of meaning, of the teaching, of language, and of eloquence",
+             "Body, speech, mind, and view",
+             "Faith, energy, mindfulness, and wisdom"],
+         "correct": 1,
+         "expl": "Two of them are the discourse&rsquo;s own axes, and a third is what AN 4.132 was built on."},
+        {"q": "How does the guide describe the placement of the claim?",
+         "opts": [
+             "As an afterthought",
+             "As the chapter&rsquo;s signature &mdash; the single line of instruction, placed where a reciter hears it last",
+             "As a later addition",
+             "As misplaced"],
+         "correct": 1,
+         "expl": "A chapter that ranked its cells would have had to argue for the ranking."},
+        {"q": "How narrow is the claim?",
+         "opts": [
+             "It promises awakening",
+             "It says only that running out becomes impossible &mdash; not that the knowledges make a person wise or a good teacher",
+             "It promises good teaching",
+             "It promises wisdom"],
+         "correct": 1,
+         "expl": "Exactly matched to the discourse it closes."},
+        {"q": "What comes after the Puggalavagga?",
+         "opts": [
+             "Another chapter of persons",
+             "The Ābhāvagga, the chapter of light, organized by image rather than by person",
+             "The Bhayavagga",
+             "The end of the Fours"],
+         "correct": 1,
+         "expl": "Four kinds of radiance, splendor, light, and brightness."},
+    ],
+    marginalia=[
+        ("Two supplies", [
+            "<span class=\"pali\">attha</span>meaning",
+            "<span class=\"pali\">byañjana</span>phrasing",
+        ]),
+        ("Four cells", [
+            "out of meaning, not phrasing",
+            "out of phrasing, not meaning",
+            "out of both",
+            "out of neither",
+        ]),
+        ("The one claim", [
+            "<span class=\"pali\">aṭṭhānametaṁ anavakāso</span>impossible",
+            "for one accomplished in",
+            "the four analytical knowledges",
+        ]),
+        ("The chapter, closed", [
+            "ten classifications",
+            "no settings, no interlocutors",
+            "one sentence of advice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.140/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.132.html">AN 4.132 &middot; Eloquence</a> &mdash; where <em>paṭibhāna</em>, '
+        "the fourth analytical knowledge, is the whole subject.",
+        '<a href="an-4.139.html">AN 4.139 &middot; Dhamma Speakers</a> &mdash; the chapter&rsquo;s '
+        "other grid on public speech, with the audience included.",
+        '<a href="an-4.131.html">AN 4.131 &middot; Fetters</a> &mdash; the discourse that opened '
+        "this chapter, and set its method.",
+    ],
+)
