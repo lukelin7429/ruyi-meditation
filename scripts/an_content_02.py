@@ -1727,3 +1727,1023 @@ PAGES.append({
         "publishes.",
     ],
 })
+
+
+# --------------------------------------------------------------------------- #
+# AN 2.64–76 — Sukhavagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-2.64-76",
+    "index_pali": "Sukha",
+    "nav_title": "Happiness",
+    "source": "an2/an2.64-76",
+    "crumb": "AN 2.64&ndash;76",
+    "meta_title": "AN 2.64–76 — Happiness | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Sukhavagga — "
+        "thirteen kinds of happiness, each paired with a rival and each pair ranked, forming "
+        "a single ladder from the happiness of laypeople to the happiness that relies on the "
+        "formless. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 2.64&ndash;76",
+    "title": "Happiness",
+    "subtitle": "<em>Sukhavagga</em> &mdash; the seventh chapter of the Twos",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 2.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Thirteen discourses on one template &mdash; two kinds of happiness, and which of "
+                 "the two is better"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Graded analyses of happiness are standard across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; each line is trivial and the "
+                       "sequence they form is not"),
+    ],
+    "why": (
+        "Thirteen discourses, each naming two kinds of happiness and saying which is better. Read one "
+        "at a time they are almost content-free. Read in order they are a ladder: from the happiness "
+        "of laypeople against renunciates, through sensual against renounced, attached against "
+        "unattached, defiled against undefiled, physical against mental, and on up through rapture, "
+        "equanimity, immersion, and finally form against the formless. The chapter never argues for "
+        "the ranking. It simply performs it thirteen times, and the cumulative effect is the argument."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Happiness is not one thing, and the kinds can be ordered."]),
+        ("What the chapter is doing", [
+            "Every discourse has the same three moves: there are two kinds of happiness; here they "
+            "are; the better of the two is this one. Nothing is explained and no reason is given for "
+            "any of the thirteen verdicts.",
+            "That absence is deliberate rather than lazy. This is a chapter for someone who already "
+            "has the vocabulary &mdash; who knows what rapture is and what equanimity is and has felt "
+            "the difference &mdash; and for that reader the verdicts function as confirmations of "
+            "something already noticed rather than as claims to be accepted. A reader without the "
+            "vocabulary can still use it, but as a map of terrain not yet visited.",
+            "It is worth saying plainly that a modern reader may simply disagree with some of the "
+            "rankings, and the chapter offers nothing to argue with. That is a fair response. What the "
+            "chapter is good for is the prior observation, which is much harder to dispute: that "
+            "&ldquo;happiness&rdquo; in English covers at least thirteen distinguishable things, and "
+            "that most disagreements about whether the spiritual life makes people happier are "
+            "conducted without noticing that."]),
+        ("The shape of the ladder", [
+            "Read in order the pairs group into three stretches. The first four (AN 2.64&ndash;67) are "
+            "about a life: lay against renunciate, sensual against renounced, with attachments against "
+            "without, defiled against undefiled. These are choices a person makes about how to live.",
+            "The next five (AN 2.68&ndash;72) turn inward: happiness of the flesh against not of the "
+            "flesh, ignoble against noble, physical against mental, with rapture against free of "
+            "rapture, with pleasure against with equanimity. These are distinctions inside experience, "
+            "and each is finer than the last.",
+            "The last four (AN 2.73&ndash;76) are technical: with immersion against without, relying on "
+            "rapture against relying on freedom from it, relying on pleasure against relying on "
+            "equanimity, and relying on form against relying on the formless. These track the "
+            "progression through the absorptions, where rapture drops away at the third and pleasure at "
+            "the fourth, and then the formless attainments beyond.",
+            "So the chapter moves from a decision about a life to a description of very refined states, "
+            "without ever marking the transition. That is characteristic of the Aṅguttara, and it is "
+            "worth pointing out to a class, because a reader who does not notice the shift will find "
+            "the last four entries baffling and the first four preachy, when in fact they are doing "
+            "different jobs."]),
+        ("Rapture is not the summit", [
+            "Two of the pairs are worth stopping on because they cut against expectation. AN 2.71 and "
+            "AN 2.74 both rank happiness <em>free of rapture</em> above happiness with it, and AN 2.72 "
+            "and AN 2.75 rank happiness with <em>equanimity</em> above happiness with pleasure.",
+            "<em>Pīti</em>, rapture, is the vivid, thrilling, sometimes physically overwhelming "
+            "gladness that arises in the first two absorptions. It is the thing most people mean when "
+            "they report a good meditation. The canon consistently treats it as a real attainment and "
+            "as something to be left behind: the third absorption is defined by its fading, and the "
+            "practitioner is described as meditating with equanimity, mindful and aware.",
+            "This has a practical edge for anyone teaching meditation. Students reliably measure "
+            "progress by intensity, and this chapter says the direction of travel runs from intensity "
+            "toward steadiness. A session that was pleasant and vivid is not, on this account, better "
+            "than one that was even and unremarkable."]),
+        ("The first pair, and the argument it belongs to", [
+            "AN 2.64 ranks the happiness of renunciates above the happiness of laypeople, and it should "
+            "be read as part of the same argument as AN 2.2 earlier in this nipāta, which ranked the "
+            "two endeavors. The Twos are consistently more monastic in emphasis than the "
+            "foremost-laypeople chapters of the Ones, and this series has not tried to reconcile them.",
+            "What is worth adding here is that the second pair, AN 2.65, restates the same ranking "
+            "without the social categories: sensual happiness against the happiness of renunciation. "
+            "That version is available to anyone, in any circumstance, and does not depend on having "
+            "ordained. A householder who has ever chosen a quiet evening over a party has met the "
+            "distinction the chapter is actually pointing at."]),
+    ],
+    "terms": [
+        ("sukha",
+         "&ldquo;happiness, pleasure, ease&rdquo; &mdash; the single word this chapter divides "
+         "thirteen ways, which is most of the point."),
+        ("pīti",
+         "&ldquo;rapture&rdquo; &mdash; the vivid, thrilling gladness of the first two absorptions. "
+         "Ranked twice in this chapter <em>below</em> the happiness free of it."),
+        ("upekkhā",
+         "&ldquo;equanimity&rdquo; &mdash; ranked twice above happiness with pleasure. The quality "
+         "that defines the fourth absorption, and not the same as indifference."),
+        ("nirāmisa",
+         "&ldquo;not of the flesh&rdquo; &mdash; happiness not dependent on material things, against "
+         "<em>sāmisa</em>, of the flesh."),
+        ("nekkhamma",
+         "&ldquo;renunciation&rdquo; &mdash; the term in AN 2.65, which states the chapter&rsquo;s "
+         "first ranking without the social categories of lay and monastic."),
+    ],
+    "text_intro": (
+        "All thirteen discourses of the chapter, in order. Each &sect;N below is one complete discourse "
+        "&mdash; &sect;64 is AN 2.64, &sect;76 is AN 2.76. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "A life (AN 2.64&ndash;67)"),
+        ("p", "&sect;64", "an2.64"),
+        ("p", "&sect;65", "an2.65"),
+        ("p", "&sect;66", "an2.66"),
+        ("p", "&sect;67", "an2.67"),
+        ("h3", "Inside experience (AN 2.68&ndash;72)"),
+        ("p", "&sect;68", "an2.68"),
+        ("p", "&sect;69", "an2.69"),
+        ("p", "&sect;70", "an2.70"),
+        ("p", "&sect;71", "an2.71"),
+        ("p", "&sect;72", "an2.72"),
+        ("h3", "Through the absorptions (AN 2.73&ndash;76)"),
+        ("p", "&sect;73", "an2.73"),
+        ("p", "&sect;74", "an2.74"),
+        ("p", "&sect;75", "an2.75"),
+        ("p", "&sect;76", "an2.76"),
+    ],
+    "quiz": [
+        {"q": "What three moves does every discourse in the chapter make?",
+         "opts": [
+             "A simile, its application, and a training instruction",
+             "There are two kinds of happiness; here they are; the better of the two is this one",
+             "A question, an answer, and a verse",
+             "A setting, a dialogue, and a conversion"],
+         "correct": 1,
+         "expl": "Nothing is explained and no reason is given for any of the thirteen verdicts."},
+        {"q": "Why does the guide say that absence is deliberate rather than lazy?",
+         "opts": [
+             "Because the reasons were lost in transmission",
+             "Because this is a chapter for someone who already has the vocabulary, for whom the verdicts confirm something already noticed rather than assert something to be accepted",
+             "Because reasons would be too long",
+             "Because the Buddha never gave reasons"],
+         "correct": 1,
+         "expl": "A reader without the vocabulary can still use it, but as a map of terrain not yet visited."},
+        {"q": "What does the guide say is much harder to dispute than the individual rankings?",
+         "opts": [
+             "That happiness is unattainable",
+             "The prior observation &mdash; that &ldquo;happiness&rdquo; covers at least thirteen distinguishable things, and most arguments about whether the spiritual life makes people happier are conducted without noticing that",
+             "That laypeople are less happy",
+             "That rapture is unpleasant"],
+         "correct": 1,
+         "expl": "A modern reader may simply disagree with some rankings, and that is a fair response."},
+        {"q": "How do the thirteen pairs group?",
+         "opts": [
+             "Four about how to live, five about distinctions inside experience, and four tracking the absorptions",
+             "All thirteen concern meditation",
+             "All thirteen concern lay life",
+             "They are in random order"],
+         "correct": 0,
+         "expl": "The chapter moves from a decision about a life to very refined states without ever marking the transition."},
+        {"q": "What happens to a reader who does not notice that shift?",
+         "opts": [
+             "Nothing changes",
+             "They will find the last four entries baffling and the first four preachy, when in fact the two stretches are doing different jobs",
+             "They will misread the Pāli",
+             "They will find the chapter too long"],
+         "correct": 1,
+         "expl": "Worth pointing out to a class."},
+        {"q": "How do AN 2.71 and 2.74 rank rapture?",
+         "opts": [
+             "Above happiness free of rapture",
+             "Below happiness free of rapture",
+             "Equal to it",
+             "They do not mention rapture"],
+         "correct": 1,
+         "expl": "The third absorption is defined by rapture's fading."},
+        {"q": "What is <em>pīti</em>, and why does this matter to meditators?",
+         "opts": [
+             "Equanimity &mdash; and it matters because it is hard to attain",
+             "The vivid, sometimes physically overwhelming gladness of the first two absorptions &mdash; the thing most people mean when they report a good meditation, and here ranked below the happiness free of it",
+             "Physical comfort",
+             "Freedom from pain"],
+         "correct": 1,
+         "expl": "The direction of travel runs from intensity toward steadiness."},
+        {"q": "What practical consequence does the guide draw for teaching meditation?",
+         "opts": [
+             "That students should aim for stronger experiences",
+             "That a session that was pleasant and vivid is not, on this account, better than one that was even and unremarkable",
+             "That rapture should be avoided entirely",
+             "That absorption is unnecessary"],
+         "correct": 1,
+         "expl": "Students reliably measure progress by intensity, and the chapter says otherwise."},
+        {"q": "Which pair states the chapter&rsquo;s first ranking without the social categories?",
+         "opts": [
+             "AN 2.64, lay against renunciate",
+             "AN 2.65, sensual happiness against the happiness of renunciation &mdash; available to anyone, in any circumstance",
+             "AN 2.70, physical against mental",
+             "AN 2.76, form against formless"],
+         "correct": 1,
+         "expl": "A householder who has ever chosen a quiet evening over a party has met the distinction."},
+        {"q": "What is the chapter&rsquo;s final pair?",
+         "opts": [
+             "Happiness relying on form against happiness relying on the formless",
+             "Lay happiness against renunciate happiness",
+             "Physical against mental happiness",
+             "Defiled against undefiled happiness"],
+         "correct": 0,
+         "expl": "Tracking the progression past the absorptions into the formless attainments."},
+    ],
+    "marginalia": [
+        ("Three stretches", [
+            "64&ndash;67 &middot; how to live",
+            "68&ndash;72 &middot; inside experience",
+            "73&ndash;76 &middot; through the absorptions",
+        ]),
+        ("Against expectation", [
+            "<span class=\"pali\">pīti</span>rapture &mdash; ranked below",
+            "<span class=\"pali\">upekkhā</span>equanimity &mdash; ranked above",
+            "intensity &rarr; steadiness",
+        ]),
+        ("The usable pair", [
+            "<span class=\"pali\">nekkhamma</span>renunciation",
+            "no ordination required",
+            "a quiet evening over a party",
+        ]),
+        ("Cross-references", [
+            "AN 2.2 &middot; the same ranking, of endeavors",
+            "AN 4.62 &middot; a householder&rsquo;s happiness",
+            "AN 2.77&ndash;86 &middot; next",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an2.64-76/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.62.html">AN 4.62 &middot; Debtlessness</a> &mdash; four kinds of happiness '
+        "available to a householder, named and ranked without any suggestion that they are second best.",
+        '<a href="an-2.1-10.html">AN 2.1&ndash;10 &middot; Punishments</a> &mdash; where AN 2.2 makes '
+        "the same ranking of lay and monastic life that AN 2.64 restates as a ranking of happiness.",
+        '<a href="an-5.28.html">AN 5.28 &middot; With Five Factors</a> &mdash; the absorptions this '
+        "chapter&rsquo;s last four pairs track, described from the inside with their similes.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 2.77–86 — Sanimittavagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-2.77-86",
+    "index_pali": "Sanimitta",
+    "nav_title": "With a Basis",
+    "source": "an2/an2.77-86",
+    "crumb": "AN 2.77&ndash;86",
+    "meta_title": "AN 2.77–86 — With a Basis | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Sanimittavagga — ten "
+        "restatements of one claim, that unskillful qualities never arise out of nothing, and "
+        "the practical instruction hidden inside it. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 2.77&ndash;86",
+    "title": "With a Basis",
+    "subtitle": "<em>Sanimittavagga</em> &mdash; the eighth chapter of the Twos",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 2.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten discourses on one sentence, with the word for what the unskillful arises from "
+                 "changed each time"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The principle that nothing arises without conditions is pervasive in "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the shortest chapter in the Twos, "
+                       "carrying the collection&rsquo;s central structural claim"),
+    ],
+    "why": (
+        "Ten discourses, all the same sentence, with one word varied: bad and unskillful qualities "
+        "arise <em>with</em> a basis, a source, a cause, conditions, a reason, form, feeling, "
+        "perception, consciousness, a conditioned basis &mdash; never without one. And each time the "
+        "same consequence: give that up, and they do not occur. It is dependent origination stated at "
+        "its most practical, without the twelve links, and it is the reason every other chapter of "
+        "this collection is worth reading. If unskillful states arrived out of nowhere, nothing else "
+        "the Aṅguttara recommends would work."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Nothing bad in the mind arises out of nothing, so there is always something to give up."]),
+        ("The claim, and why it is stated ten times", [
+            "The sentence is identical throughout. What varies is the noun: <em>nimitta</em>, basis or "
+            "sign; <em>nidāna</em>, source; <em>hetu</em>, cause; <em>saṅkhāra</em>, conditions; "
+            "<em>paccaya</em>, reason. Then five more from the analysis of experience: form, feeling, "
+            "perception, consciousness, and the conditioned.",
+            "This is the same rhetorical method the Ones used in their closing chapter, where "
+            "mindfulness of the body was equated with the deathless through twelve verbs in turn. "
+            "Enumerating every available term for a relation is how this literature states that the "
+            "relation holds in every sense, since it has no word for &ldquo;in every sense.&rdquo;",
+            "So the ten are not ten claims. They are one claim, insured against the objection that it "
+            "might hold on one construal of &ldquo;arises from&rdquo; and not another."]),
+        ("The instruction hidden in the second half", [
+            "Each discourse has a second sentence that is easy to read past: <em>by giving up that "
+            "basis, those bad, unskillful qualities do not occur</em>. The whole practical weight of "
+            "the chapter is there.",
+            "It says the work is done upstream. One does not fight an unskillful state; one gives up "
+            "what it arose from. That is why the collection has spent so many chapters on attention, "
+            "company, habit, and view &mdash; all of them things that stand behind states rather than "
+            "being states. The five hindrances chapter of the Ones is this principle applied: for each "
+            "hindrance, what it arises from and what it does not.",
+            "It also implies something quietly reassuring. If a state has a basis, then the basis is a "
+            "finite, identifiable thing, and identifying it is a job that can be done. The alternative "
+            "&mdash; states that simply happen, with no handle on them &mdash; is the position the "
+            "chapter is denying, and it is the position most people implicitly hold about their own "
+            "moods."]),
+        ("Form, feeling, perception, consciousness", [
+            "The last five entries are worth a separate note because they change the register. Bad "
+            "qualities arise with form, with feeling, with perception, with consciousness &mdash; and "
+            "then, by giving up that form, that feeling, that perception, that consciousness, they do "
+            "not occur.",
+            "These are four of the five aggregates, and to a reader who knows the standard analysis "
+            "the instruction to &ldquo;give up feeling&rdquo; sounds impossible. It is worth being "
+            "clear about what is meant. The Pāli phrasing is not a demand to abolish experience; the "
+            "sense is closer to giving up the particular form, the particular feeling, the particular "
+            "perception that a given unskillful state arose in dependence on &mdash; letting go of "
+            "what is being held rather than shutting down the faculty.",
+            "That reading is the one the rest of the canon supports. Nowhere is a practitioner told to "
+            "stop feeling; they are told repeatedly to stop grasping what they feel. But the "
+            "compression here does invite the harsher reading, and a teacher should expect a student "
+            "to raise it."]),
+        ("Why this chapter matters more than its length", [
+            "A one-minute chapter can be skipped, and this one should not be, because it is load-bearing. "
+            "Every practical instruction in the Aṅguttara assumes it. Sense restraint assumes that what "
+            "arises at the sense doors has a basis. The five hindrances chapter assumes each hindrance "
+            "has a feeder. AN 1.306&ndash;315 on view assumes that deeds arise from something. Remove "
+            "this chapter&rsquo;s claim and none of that has anywhere to attach.",
+            "It is also the point at which the Twos touch dependent origination without naming it. The "
+            "vocabulary here &mdash; <em>nidāna, hetu, paccaya, saṅkhāra</em> &mdash; is the "
+            "vocabulary of that analysis, applied not to existence in general but to the specific "
+            "question of where a bad mood came from."]),
+    ],
+    "terms": [
+        ("nimitta",
+         "&ldquo;basis, sign, feature&rdquo; &mdash; the first of the ten terms, and the same word "
+         "used in the Ones for the feature of beauty and the feature of ugliness."),
+        ("nidāna / hetu / paccaya",
+         "&ldquo;source,&rdquo; &ldquo;cause,&rdquo; and &ldquo;reason or condition&rdquo; &mdash; "
+         "three of the standard terms for a relation of dependence, and the core vocabulary of "
+         "dependent origination."),
+        ("saṅkhāra",
+         "&ldquo;conditions, formations&rdquo; &mdash; both one of the ten terms here and one of the "
+         "five aggregates elsewhere; the range of the word is part of why the chapter lists so many."),
+        ("akusalā dhammā",
+         "&ldquo;bad, unskillful qualities&rdquo; &mdash; the subject of all ten discourses, and the "
+         "collection&rsquo;s standard term for states that lead away from the goal."),
+        ("pahāna",
+         "&ldquo;giving up&rdquo; &mdash; the operative verb in the second sentence of every "
+         "discourse, applied to the basis rather than to the state itself."),
+    ],
+    "text_intro": (
+        "All ten discourses of the chapter, in order. Each &sect;N below is one complete discourse "
+        "&mdash; &sect;77 is AN 2.77, &sect;86 is AN 2.86. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Five terms for a dependence (AN 2.77&ndash;81)"),
+        ("p", "&sect;77", "an2.77"),
+        ("p", "&sect;78", "an2.78"),
+        ("p", "&sect;79", "an2.79"),
+        ("p", "&sect;80", "an2.80"),
+        ("p", "&sect;81", "an2.81"),
+        ("h3", "And five from the analysis of experience (AN 2.82&ndash;86)"),
+        ("p", "&sect;82", "an2.82"),
+        ("p", "&sect;83", "an2.83"),
+        ("p", "&sect;84", "an2.84"),
+        ("p", "&sect;85", "an2.85"),
+        ("p", "&sect;86", "an2.86"),
+    ],
+    "quiz": [
+        {"q": "What single claim do all ten discourses make?",
+         "opts": [
+             "That unskillful qualities are unavoidable",
+             "That bad, unskillful qualities arise with a basis and never without one &mdash; and that giving up the basis means they do not occur",
+             "That only monastics can give them up",
+             "That they arise from past lives"],
+         "correct": 1,
+         "expl": "One claim, with the word for the relation varied ten times."},
+        {"q": "Why does the chapter state it ten times?",
+         "opts": [
+             "For emphasis alone",
+             "Because enumerating every available term for a relation is how this literature says the relation holds in every sense, having no word for &ldquo;in every sense&rdquo;",
+             "Because each term names a different kind of quality",
+             "Because ten was the required chapter length"],
+         "correct": 1,
+         "expl": "The same method the Ones used to equate mindfulness of the body with the deathless through twelve verbs."},
+        {"q": "Where does the practical weight of the chapter sit?",
+         "opts": [
+             "In the first sentence of each discourse",
+             "In the second sentence &mdash; &ldquo;by giving up that basis, those bad, unskillful qualities do not occur&rdquo;",
+             "In the chapter title",
+             "In the closing formula"],
+         "correct": 1,
+         "expl": "The work is done upstream: one does not fight the state, one gives up what it arose from."},
+        {"q": "Which earlier chapter is this principle applied in detail?",
+         "opts": [
+             "The chapter of foremost disciples",
+             "AN 1.11&ndash;20 on the five hindrances &mdash; for each, what it arises from and what it does not",
+             "AN 1.170&ndash;187 on the one individual",
+             "AN 2.42&ndash;51 on assemblies"],
+         "correct": 1,
+         "expl": "Which is why the collection spends so long on attention, company, habit, and view."},
+        {"q": "What quietly reassuring implication does the guide draw?",
+         "opts": [
+             "That unskillful states are harmless",
+             "That if a state has a basis, the basis is a finite identifiable thing, and identifying it is a job that can be done",
+             "That states will pass on their own",
+             "That nothing needs to be given up"],
+         "correct": 1,
+         "expl": "The alternative &mdash; states that simply happen, with no handle &mdash; is what most people implicitly believe about their moods."},
+        {"q": "What do the last five entries name as the basis?",
+         "opts": [
+             "The five hindrances",
+             "Form, feeling, perception, consciousness, and the conditioned &mdash; four of them aggregates",
+             "The five faculties",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "Which changes the register and raises an obvious objection."},
+        {"q": "How should &ldquo;giving up that feeling&rdquo; be read?",
+         "opts": [
+             "As a demand to abolish experience",
+             "As giving up the particular feeling a given unskillful state arose in dependence on &mdash; letting go of what is held rather than shutting down the faculty",
+             "As applying only to painful feeling",
+             "As a scribal error"],
+         "correct": 1,
+         "expl": "Nowhere is a practitioner told to stop feeling; they are told to stop grasping what they feel."},
+        {"q": "What does the guide advise a teacher to expect?",
+         "opts": [
+             "That students will find the chapter too long",
+             "That the compression invites the harsher reading, and a student will raise it",
+             "That nobody will ask about the aggregates",
+             "That the chapter needs no introduction"],
+         "correct": 1,
+         "expl": "Better to have the answer ready than to be surprised by the question."},
+        {"q": "Why does the guide call this chapter load-bearing?",
+         "opts": [
+             "Because it is the longest in the Twos",
+             "Because every practical instruction in the Aṅguttara assumes it &mdash; remove the claim and sense restraint, the hindrances material, and the chapters on view have nowhere to attach",
+             "Because it names the most disciples",
+             "Because it settles a doctrinal dispute"],
+         "correct": 1,
+         "expl": "A one-minute chapter that should not be skipped."},
+        {"q": "What larger analysis does the chapter&rsquo;s vocabulary belong to?",
+         "opts": [
+             "The monastic law",
+             "Dependent origination &mdash; <em>nidāna, hetu, paccaya, saṅkhāra</em> &mdash; applied here not to existence in general but to where a bad mood came from",
+             "The four noble truths",
+             "The classification of assemblies"],
+         "correct": 1,
+         "expl": "The Twos touching dependent origination without naming it."},
+    ],
+    "marginalia": [
+        ("Ten words, one claim", [
+            "<span class=\"pali\">nimitta</span>basis, sign",
+            "<span class=\"pali\">nidāna</span>source",
+            "<span class=\"pali\">hetu</span>cause",
+            "<span class=\"pali\">saṅkhāra</span>conditions",
+            "<span class=\"pali\">paccaya</span>reason",
+            "form, feeling, perception,",
+            "consciousness, the conditioned",
+        ]),
+        ("The instruction", [
+            "give up the basis",
+            "not: fight the state",
+            "&mdash; the work is upstream",
+        ]),
+        ("Why it matters", [
+            "sense restraint assumes it",
+            "the hindrances assume it",
+            "the chapters on view assume it",
+        ]),
+        ("Cross-references", [
+            "AN 1.11&ndash;20 &middot; applied to the hindrances",
+            "SN 12.1 &middot; dependent origination",
+            "AN 2.87&ndash;97 &middot; next",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an2.77-86/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-12.1.html">SN 12.1 &middot; Dependent Origination</a> &mdash; '
+        "the analysis this chapter&rsquo;s vocabulary belongs to, stated in full as twelve links.",
+        '<a href="an-1.11-20.html">AN 1.11&ndash;20 &middot; Giving Up the Hindrances</a> &mdash; this '
+        "chapter&rsquo;s principle worked out item by item: for each hindrance, what feeds it and what "
+        "starves it.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 2.87–97 — Dhammavagga
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-2.87-97",
+    "index_pali": "Dhamma",
+    "nav_title": "Two Things",
+    "source": "an2/an2.87-97",
+    "crumb": "AN 2.87&ndash;97",
+    "meta_title": "AN 2.87–97 — Two Things | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Dhammavagga — eleven "
+        "bare pairs named without explanation, from freedom of heart and freedom by wisdom to "
+        "the two views the middle way runs between. The index page of the Twos. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 2.87&ndash;97",
+    "title": "Two Things",
+    "subtitle": "<em>Dhammavagga</em> &mdash; the ninth chapter of the Twos",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 2.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Eleven discourses of one sentence each &mdash; a pair named, and nothing else"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Each of these pairs is treated at length elsewhere across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; nothing is explained, which makes "
+                       "the chapter easy to read and impossible to use without the rest of the canon"),
+    ],
+    "why": (
+        "Eleven discourses, each naming a pair and stopping. No definition, no ranking, no "
+        "consequence. Read as teaching this is the least helpful chapter in the Twos; read as what it "
+        "is &mdash; an index, a reciter&rsquo;s list of the pairs the tradition holds &mdash; it is "
+        "one of the more revealing, because it shows what a &ldquo;two&rdquo; was for. Several of "
+        "these pairs carry entire discourses elsewhere. Here they are reduced to their headings and "
+        "filed."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Eleven pairs, named and not explained, which is what a numbered collection is for."]),
+        ("What a chapter like this is", [
+            "The Aṅguttara is organized so that a reciter can find things. A chapter of bare pairs is "
+            "the storage form: <em>there are these two things &mdash; what two? &mdash; X and Y</em>, "
+            "eleven times, with the elaboration living somewhere else in the canon and being supplied "
+            "by whoever knows it.",
+            "That is worth understanding rather than resenting, because it explains a great deal about "
+            "how this literature reads. The Aṅguttara is not a book of essays with some regrettable "
+            "list-making in it. It is closer to a filing system with essays occasionally attached, and "
+            "chapters like this one show the filing without the essays.",
+            "It also means the honest thing for a guide to do here is not to invent explanations the "
+            "text withholds, but to say where each pair is explained."]),
+        ("The eleven pairs, and where they live", [
+            "<em>Freedom of heart and freedom by wisdom</em> (AN 2.87) were given their mechanism at AN "
+            "2.31, six chapters earlier: the first comes from the fading of greed, the second from the "
+            "fading of ignorance.",
+            "<em>Exertion, and not being scattered</em> (AN 2.88) pairs effort with collectedness &mdash; "
+            "the two halves that the Ones spent chapters on separately.",
+            "<em>Name and form</em> (AN 2.89) is <em>nāmarūpa</em>, the mental and physical together, "
+            "and one of the twelve links of dependent origination. An entire analysis, filed as a pair.",
+            "<em>Knowledge and freedom</em> (AN 2.90) is <em>vijjā</em> and <em>vimutti</em>, the "
+            "standard formula for the result of the path.",
+            "<em>Views favoring existence and views favoring nonexistence</em> (AN 2.91) are "
+            "<em>bhavadiṭṭhi</em> and <em>vibhavadiṭṭhi</em> &mdash; eternalism and annihilationism, "
+            "the two positions the middle way is described as running between. This is the most "
+            "consequential entry in the chapter and it gets one sentence.",
+            "<em>Lack of conscience and prudence</em> and their positives (AN 2.92&ndash;93) return to "
+            "the pair AN 2.7&ndash;9 called the two bright things that protect the world.",
+            "<em>Being hard to admonish and having bad friends</em>, with their opposites (AN "
+            "2.94&ndash;95), pair an internal disposition with an external circumstance &mdash; and "
+            "AN 2.62, in the chapter on individuals, is the long version of the first half.",
+            "<em>Skill in the elements and skill in application of mind</em> (AN 2.96) names two "
+            "competences: knowing what things are made of, and knowing how to attend.",
+            "And <em>skill in offenses and skill in resolving offenses</em> (AN 2.97) closes the "
+            "chapter on the Vinaya, pairing the ability to recognize a fault with the ability to settle "
+            "it. Recognizing without resolving is exactly the failure AN 2.21 called foolish."]),
+        ("Existence and nonexistence (AN 2.91)", [
+            "One sentence deserves a paragraph of its own. <em>Bhavadiṭṭhi</em> and "
+            "<em>vibhavadiṭṭhi</em> &mdash; views favoring existence and views favoring nonexistence "
+            "&mdash; are the two poles the canon returns to whenever it describes what the teaching is "
+            "not.",
+            "The first is the view that there is something that persists: a self, a substance, an "
+            "essence that carries on. The second is the view that at death there is simply nothing, "
+            "that the person is annihilated and that is the end of the matter. The canon treats both "
+            "as views, both as held out of craving, and both as obstacles &mdash; and the middle way "
+            "is called middle in part because it runs between them rather than because it is moderate.",
+            "This is worth flagging for Western readers in particular, because the second view is the "
+            "unexamined default in a secular culture, and it is easy to arrive at Buddhism assuming "
+            "that its rejection of a permanent self amounts to agreeing with it. The canon is explicit "
+            "that it does not. SN 12.15, on this site, gives the same pair at length with the same "
+            "verdict."]),
+        ("How to use it", [
+            "Practically, this is a checklist of things to go and read about. A reader working through "
+            "the collection can treat the eleven entries as eleven assignments and find where each is "
+            "developed &mdash; several of them within the Twos themselves, which is a good way to "
+            "notice how much this nipāta cross-references itself.",
+            "It is also the shortest possible demonstration of something worth knowing about the "
+            "canon: that a pair can be a complete teaching, a technical term, a doctrinal controversy, "
+            "or a pair of practical skills, and the format does not distinguish between them. The "
+            "reader has to."]),
+    ],
+    "terms": [
+        ("nāmarūpa",
+         "&ldquo;name and form&rdquo; &mdash; the mental and physical together, and one of the twelve "
+         "links of dependent origination. An entire analysis, filed here as a pair."),
+        ("bhavadiṭṭhi / vibhavadiṭṭhi",
+         "&ldquo;views favoring existence&rdquo; and &ldquo;views favoring nonexistence&rdquo; &mdash; "
+         "eternalism and annihilationism, the two poles the middle way runs between."),
+        ("vijjā / vimutti",
+         "&ldquo;knowledge and freedom&rdquo; &mdash; the standard formula for the result of the path, "
+         "given here without elaboration."),
+        ("dhātukusalatā / manasikārakusalatā",
+         "&ldquo;skill in the elements&rdquo; and &ldquo;skill in application of mind&rdquo; &mdash; "
+         "knowing what things are made of, and knowing how to attend."),
+        ("dovacassatā",
+         "&ldquo;being hard to admonish&rdquo; &mdash; paired at AN 2.94 with bad friendship, and "
+         "given its long form at AN 2.62."),
+    ],
+    "text_intro": (
+        "All eleven discourses of the chapter, in order. Each &sect;N below is one complete discourse "
+        "&mdash; &sect;87 is AN 2.87, &sect;97 is AN 2.97. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Freedom, effort, and what a person is made of (AN 2.87&ndash;90)"),
+        ("p", "&sect;87", "an2.87"),
+        ("p", "&sect;88", "an2.88"),
+        ("p", "&sect;89", "an2.89"),
+        ("p", "&sect;90", "an2.90"),
+        ("h3", "Two views, and two bright things (AN 2.91&ndash;93)"),
+        ("p", "&sect;91", "an2.91"),
+        ("p", "&sect;92", "an2.92"),
+        ("p", "&sect;93", "an2.93"),
+        ("h3", "Admonition, company, and skill (AN 2.94&ndash;97)"),
+        ("p", "&sect;94", "an2.94"),
+        ("p", "&sect;95", "an2.95"),
+        ("p", "&sect;96", "an2.96"),
+        ("p", "&sect;97", "an2.97"),
+    ],
+    "quiz": [
+        {"q": "What does each discourse in this chapter do?",
+         "opts": [
+             "Names a pair and stops &mdash; no definition, ranking, or consequence",
+             "Names a pair and ranks it",
+             "Names a pair and gives a simile",
+             "Names a pair and a training instruction"],
+         "correct": 0,
+         "expl": "Eleven headings, with the elaboration living elsewhere in the canon."},
+        {"q": "How does the guide characterize a chapter like this?",
+         "opts": [
+             "As an incomplete draft",
+             "As the storage form &mdash; a reciter&rsquo;s index, showing the filing system without the essays",
+             "As a summary of the whole collection",
+             "As a later addition"],
+         "correct": 1,
+         "expl": "The Aṅguttara is closer to a filing system with essays occasionally attached than to a book of essays."},
+        {"q": "What does the guide say is the honest thing for a guide to do here?",
+         "opts": [
+             "Invent explanations the text withholds",
+             "Skip the chapter",
+             "Say where each pair is explained",
+             "Declare the chapter unimportant"],
+         "correct": 2,
+         "expl": "Several of these pairs carry entire discourses elsewhere."},
+        {"q": "Where was the mechanism of freedom of heart and freedom by wisdom given?",
+         "opts": [
+             "Nowhere in the Twos",
+             "At AN 2.31 &mdash; the first from the fading of greed, the second from the fading of ignorance",
+             "At AN 2.62",
+             "At AN 2.1"],
+         "correct": 1,
+         "expl": "Six chapters earlier, with serenity and discernment."},
+        {"q": "What is <em>nāmarūpa</em>?",
+         "opts": [
+             "Two kinds of happiness",
+             "&ldquo;Name and form&rdquo; &mdash; the mental and physical together, and one of the twelve links of dependent origination",
+             "Two monastic offenses",
+             "The two bright things"],
+         "correct": 1,
+         "expl": "An entire analysis, filed here as a pair."},
+        {"q": "What are views favoring existence and views favoring nonexistence?",
+         "opts": [
+             "Eternalism and annihilationism &mdash; the two poles the middle way runs between",
+             "Two monastic opinions about the Vinaya",
+             "Optimism and pessimism",
+             "Faith and doubt"],
+         "correct": 0,
+         "expl": "The most consequential entry in the chapter, and it gets one sentence."},
+        {"q": "Why does the guide flag this for Western readers in particular?",
+         "opts": [
+             "Because the terms are hard to translate",
+             "Because the annihilationist view is the unexamined default in a secular culture, and it is easy to assume Buddhism&rsquo;s rejection of a permanent self amounts to agreeing with it &mdash; the canon is explicit that it does not",
+             "Because the pair is rarely mentioned",
+             "Because it concerns only monastics"],
+         "correct": 1,
+         "expl": "The middle way is called middle in part because it runs between these two, not because it is moderate."},
+        {"q": "What does AN 2.94 pair with being hard to admonish?",
+         "opts": [
+             "Having bad friends &mdash; an internal disposition with an external circumstance",
+             "Laziness",
+             "Wrong view",
+             "Ill health"],
+         "correct": 0,
+         "expl": "And AN 2.62 is the long version of the first half."},
+        {"q": "What does AN 2.97 pair, and what failure does the pairing rule out?",
+         "opts": [
+             "Skill in offenses with skill in resolving them &mdash; ruling out recognizing a fault without settling it, which AN 2.21 called foolish",
+             "Skill in meditation with skill in teaching",
+             "Skill in giving with skill in receiving",
+             "Skill in the elements with skill in attention"],
+         "correct": 0,
+         "expl": "Recognizing without resolving is exactly the failure named at the start of the Twos."},
+        {"q": "What does the guide say the format does not distinguish between?",
+         "opts": [
+             "Monastic and lay teachings",
+             "A complete teaching, a technical term, a doctrinal controversy, and a pair of practical skills &mdash; the reader has to",
+             "Early and late discourses",
+             "Prose and verse"],
+         "correct": 1,
+         "expl": "The shortest possible demonstration of something worth knowing about the canon."},
+    ],
+    "marginalia": [
+        ("Eleven pairs", [
+            "freedom of heart / by wisdom",
+            "exertion / not scattered",
+            "name / form",
+            "knowledge / freedom",
+            "existence / nonexistence views",
+            "conscience / prudence, both ways",
+            "hard to admonish / bad friends",
+            "skill in elements / in attention",
+            "skill in offenses / in resolving",
+        ]),
+        ("The middle way", [
+            "<span class=\"pali\">bhavadiṭṭhi</span>something persists",
+            "<span class=\"pali\">vibhavadiṭṭhi</span>simply nothing",
+            "&mdash; middle between, not moderate",
+        ]),
+        ("Where they live", [
+            "AN 2.31 &middot; the first pair",
+            "AN 2.62 &middot; being admonished",
+            "AN 2.7&ndash;9 &middot; the bright things",
+        ]),
+        ("Cross-references", [
+            "SN 12.15 &middot; the two views at length",
+            "SN 12.1 &middot; where name and form sits",
+            "AN 2.98&ndash;117 &middot; next",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an2.87-97/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-12.15.html">SN 12.15 &middot; Kaccānagotta</a> &mdash; the pair '
+        "of AN 2.91 at length, with the Buddha&rsquo;s own statement of why the teaching does not fall "
+        "on either side.",
+        '<a href="an-2.21-31.html">AN 2.21&ndash;31 &middot; Fools</a> &mdash; where AN 2.31 gives the '
+        "first of this chapter&rsquo;s eleven pairs its full mechanism.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 2.98–117 — Bālavagga (second)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-2.98-117",
+    "index_pali": "Bāla II",
+    "nav_title": "Fools, Again",
+    "source": "an2/an2.98-117",
+    "crumb": "AN 2.98&ndash;117",
+    "meta_title": "AN 2.98–117 — Fools, Again | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the second Bālavagga — "
+        "twenty discourses on getting a judgment wrong in either direction, opening with the "
+        "two fools who carry the burden of what has not happened and drop the burden of what "
+        "has. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 2.98&ndash;117",
+    "title": "Fools, Again",
+    "subtitle": "<em>Bālavagga</em> &mdash; the tenth chapter of the Twos",
+    "glance": [
+        ("Setting", "None stated; the chapter continues from AN 2.1, whose setting at Sāvatthī "
+                    "is understood to hold"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Twenty discourses in ten matched pairs &mdash; two fools, then two who are astute; "
+                 "and later, two whose defilements grow, then two whose do not"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The material on correctly and incorrectly identifying offenses and "
+                              "teachings is well represented in the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short and repetitive, with one "
+                       "opening discourse worth the whole chapter"),
+    ],
+    "why": (
+        "Most of this chapter restates, in the Twos&rsquo; matched-pair form, material the collection "
+        "has covered before: getting allowable and unallowable, offense and non-offense, teaching and "
+        "not-teaching, training and not-training wrong in either direction. What makes it worth a page "
+        "is its first two discourses, which name a different kind of foolishness altogether and name "
+        "it better than anything else in the canon: carrying the burden of what has not come to pass, "
+        "and not carrying the burden of what has."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Anxiety about what has not happened and avoidance of what has are the same failure seen "
+            "twice; and a judgment can go wrong in either direction."]),
+        ("The two burdens (AN 2.98&ndash;99)", [
+            "The Pāli is compressed to the point of terseness. Two fools: one who carries the burden "
+            "of what has not come to pass, and one who does not carry the burden of what has. Two who "
+            "are astute: the exact inversion.",
+            "The first half is anxiety, described without the word. Carrying something that has not "
+            "happened is exactly what worry consists of &mdash; the weight is real, the occasion is "
+            "not. The second half is avoidance, and putting the two on one line is the insight: they "
+            "are not opposite failings but the same misallocation. Attention and effort are finite, "
+            "and both fools have spent theirs on the wrong side of the line between what is actual and "
+            "what is not.",
+            "It is also worth noticing that the astute person is not described as carrying nothing. "
+            "They carry the burden of what has come to pass. Nothing here recommends detachment from "
+            "one&rsquo;s actual responsibilities, and the discourse would be a much weaker teaching if "
+            "it did. What is recommended is that the load correspond to the facts.",
+            "Two discourses, four clauses, and no elaboration at all. This is the Aṅguttara at its "
+            "most efficient, and it is a passage worth carrying around."]),
+        ("Getting a judgment wrong in either direction (AN 2.100&ndash;107)", [
+            "Four pairs follow, all on one pattern: perceiving what is unallowable as allowable and "
+            "the reverse; a non-offense as an offense and the reverse; what is not the teaching as the "
+            "teaching and the reverse; what is not the training as the training and the reverse.",
+            "The symmetry is by now familiar from the Ones, where whole chapters were built on it, and "
+            "it carries the same lesson: strictness and laxity are equally errors, and neither is the "
+            "safe default. A community that treats permitted things as forbidden is being foolish in "
+            "exactly the sense the chapter means, not merely being careful.",
+            "What is new here is the framing. The Ones put this material under &ldquo;making the true "
+            "teaching disappear&rdquo; &mdash; an institutional consequence. Here it is put under "
+            "&ldquo;two fools&rdquo; &mdash; a description of the person. The same behavior, filed "
+            "once as a harm to the tradition and once as a defect in the individual."]),
+        ("Remorse in the wrong places (AN 2.108&ndash;109)", [
+            "Between the two runs sits a pair that deserves separate attention: for two, defilements "
+            "grow &mdash; one who is remorseful over something they should not be, and one who is not "
+            "remorseful over something they should be.",
+            "This is AN 2.98 applied to conscience. Misplaced remorse and absent remorse are the same "
+            "failure of calibration, and the discourse says both make defilements grow. That second "
+            "claim is the surprising one: scruple in the wrong place is not a harmless excess of "
+            "virtue, it is named alongside its opposite as something that increases what it is trying "
+            "to remove.",
+            "For anyone working with students or practitioners, this is a useful pair to have. The "
+            "over-scrupulous practitioner and the unbothered one are usually treated as opposite "
+            "problems requiring opposite corrections. The canon files them together, and the "
+            "correction it implies is the same for both: find out what actually warrants remorse."]),
+        ("Why the material is repeated as defilements growing (AN 2.110&ndash;117)", [
+            "The last eight discourses restate the four pairs from AN 2.100&ndash;107 with a different "
+            "predicate: not &ldquo;these are two fools&rdquo; but &ldquo;for these two, defilements "
+            "grow.&rdquo;",
+            "That is a real addition rather than padding. The first version says the misjudgment marks "
+            "a person as foolish; the second says it does something to them over time. A wrong "
+            "classification is not a static error but an accumulating one, and the chapter states both "
+            "facts about the same behavior rather than choosing.",
+            "It is also a small illustration of how the Twos build. The pair is the unit; the same pair "
+            "can be run under several predicates; and the collection assumes a reader who will notice "
+            "that the content is identical and the frame is not."]),
+    ],
+    "terms": [
+        ("bāla / paṇḍita",
+         "&ldquo;fool&rdquo; and &ldquo;astute&rdquo; &mdash; as in the earlier Bālavagga, defined by "
+         "conduct and judgment rather than by intelligence."),
+        ("bhāra",
+         "&ldquo;burden&rdquo; &mdash; what AN 2.98&ndash;99 says is carried for what has not come to "
+         "pass, or not carried for what has."),
+        ("kappiya / akappiya",
+         "&ldquo;allowable&rdquo; and &ldquo;unallowable&rdquo; &mdash; the Vinaya categories for what "
+         "a monastic may and may not use or do."),
+        ("kukkucca",
+         "&ldquo;remorse, scruple&rdquo; &mdash; the quality AN 2.108&ndash;109 says grows defilements "
+         "when misplaced <em>and</em> when absent. Also the second half of the hindrance of "
+         "restlessness-and-remorse."),
+        ("āsava",
+         "&ldquo;defilements&rdquo; &mdash; literally influxes or outflows; what the second half of "
+         "the chapter says grows or does not grow from a misjudgment."),
+    ],
+    "text_intro": (
+        "All twenty discourses of the chapter, in order. Each &sect;N below is one complete discourse "
+        "&mdash; &sect;98 is AN 2.98, &sect;117 is AN 2.117 &mdash; and they run as ten matched pairs. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Two burdens (AN 2.98&ndash;99)"),
+        ("p", "&sect;98", "an2.98"),
+        ("p", "&sect;99", "an2.99"),
+        ("h3", "Four judgments, in both directions (AN 2.100&ndash;107)"),
+        ("p", "&sect;100", "an2.100"),
+        ("p", "&sect;101", "an2.101"),
+        ("p", "&sect;102", "an2.102"),
+        ("p", "&sect;103", "an2.103"),
+        ("p", "&sect;104", "an2.104"),
+        ("p", "&sect;105", "an2.105"),
+        ("p", "&sect;106", "an2.106"),
+        ("p", "&sect;107", "an2.107"),
+        ("h3", "Remorse, and the same judgments again (AN 2.108&ndash;117)"),
+        ("p", "&sect;108", "an2.108"),
+        ("p", "&sect;109", "an2.109"),
+        ("p", "&sect;110", "an2.110"),
+        ("p", "&sect;111", "an2.111"),
+        ("p", "&sect;112", "an2.112"),
+        ("p", "&sect;113", "an2.113"),
+        ("p", "&sect;114", "an2.114"),
+        ("p", "&sect;115", "an2.115"),
+        ("p", "&sect;116", "an2.116"),
+        ("p", "&sect;117", "an2.117"),
+    ],
+    "quiz": [
+        {"q": "What two fools does AN 2.98 name?",
+         "opts": [
+             "One who is lazy and one who is restless",
+             "One who carries the burden of what has not come to pass, and one who does not carry the burden of what has",
+             "One who holds wrong view and one who holds none",
+             "One who talks too much and one who says nothing"],
+         "correct": 1,
+         "expl": "Anxiety and avoidance, put on a single line."},
+        {"q": "Why does the guide say the two halves are the same failure?",
+         "opts": [
+             "Because both are caused by ignorance",
+             "Because attention and effort are finite, and both fools have spent theirs on the wrong side of the line between what is actual and what is not",
+             "Because both are named in the Vinaya",
+             "Because both concern the past"],
+         "correct": 1,
+         "expl": "Not opposite failings but the same misallocation."},
+        {"q": "Is the astute person described as carrying nothing?",
+         "opts": [
+             "Yes &mdash; the ideal is to carry no burden at all",
+             "No &mdash; they carry the burden of what has come to pass, and nothing here recommends detachment from actual responsibilities",
+             "The text does not say",
+             "Only monastics are exempt from burdens"],
+         "correct": 1,
+         "expl": "What is recommended is that the load correspond to the facts."},
+        {"q": "What pattern do AN 2.100&ndash;107 follow?",
+         "opts": [
+             "Getting a judgment wrong in either direction &mdash; allowable and unallowable, offense and non-offense, teaching and not-teaching, training and not-training",
+             "Praising four disciples",
+             "Four similes about water",
+             "Four stages of the path"],
+         "correct": 0,
+         "expl": "Strictness and laxity are equally errors, and neither is the safe default."},
+        {"q": "How does the framing here differ from the same material in the Ones?",
+         "opts": [
+             "The Ones put it under making the true teaching disappear &mdash; an institutional consequence; here it is put under &ldquo;two fools&rdquo; &mdash; a description of the person",
+             "The content is different",
+             "The Ones treat it as unimportant",
+             "There is no difference"],
+         "correct": 0,
+         "expl": "The same behavior filed once as a harm to the tradition and once as a defect in the individual."},
+        {"q": "What does AN 2.108 say about misplaced remorse?",
+         "opts": [
+             "That it is harmless",
+             "That it is a sign of virtue",
+             "That defilements grow from it &mdash; named alongside absent remorse, not opposed to it",
+             "That it concerns only monastics"],
+         "correct": 2,
+         "expl": "Scruple in the wrong place is not a harmless excess of virtue."},
+        {"q": "How does the canon treat the over-scrupulous and the unbothered practitioner?",
+         "opts": [
+             "As opposite problems needing opposite corrections",
+             "As the same failure of calibration, with the same implied correction: find out what actually warrants remorse",
+             "As equally beyond help",
+             "As requiring different teachers"],
+         "correct": 1,
+         "expl": "The canon files them together, which is not how they are usually treated."},
+        {"q": "What predicate do AN 2.110&ndash;117 use instead of &ldquo;these are two fools&rdquo;?",
+         "opts": [
+             "&ldquo;These two are worthy of a monument&rdquo;",
+             "&ldquo;For these two, defilements grow&rdquo;",
+             "&ldquo;These two misrepresent the Realized One&rdquo;",
+             "&ldquo;These two are astute&rdquo;"],
+         "correct": 1,
+         "expl": "A real addition: the misjudgment does something over time, not only marking the person."},
+        {"q": "What does that repetition illustrate about how the Twos build?",
+         "opts": [
+             "That the text was assembled carelessly",
+             "That the pair is the unit, the same pair can be run under several predicates, and the collection assumes a reader who notices that the content is identical and the frame is not",
+             "That later editors added material",
+             "That each predicate names a different pair"],
+         "correct": 1,
+         "expl": "A small illustration of the collection's method."},
+        {"q": "Which two discourses does the guide say are worth the whole chapter?",
+         "opts": [
+             "The first two, on the two burdens",
+             "The last two, on training",
+             "The pair on remorse alone",
+             "The pair on offenses"],
+         "correct": 0,
+         "expl": "They name a kind of foolishness better than anything else in the canon."},
+    ],
+    "marginalia": [
+        ("The two burdens", [
+            "carrying what has not happened",
+            "not carrying what has",
+            "&mdash; one misallocation, twice",
+        ]),
+        ("Four judgments", [
+            "allowable / unallowable",
+            "offense / non-offense",
+            "teaching / not-teaching",
+            "training / not-training",
+            "&mdash; each wrong in both directions",
+        ]),
+        ("Remorse", [
+            "<span class=\"pali\">kukkucca</span>misplaced: defilements grow",
+            "absent: defilements grow",
+            "&mdash; filed together, not opposed",
+        ]),
+        ("Cross-references", [
+            "AN 1.150&ndash;169 &middot; the same, in Vinaya",
+            "AN 2.21 &middot; the other two fools",
+            "AN 1.11&ndash;20 &middot; remorse as a hindrance",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an2.98-117/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.150-169.html">AN 1.150&ndash;169 &middot; Non-offense</a> &mdash; the same four '
+        "judgments framed as harms to the tradition rather than as defects in a person, with the "
+        "Vinaya categories set out.",
+        '<a href="an-2.21-31.html">AN 2.21&ndash;31 &middot; Fools</a> &mdash; the other pair of '
+        "fools in this nipāta, defined by what happens around a fault.",
+    ],
+})
