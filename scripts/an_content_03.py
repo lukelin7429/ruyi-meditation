@@ -8,7 +8,7 @@ INDEX_HEADING = "Tika Nipāta — The Threes"
 # before this series began working in order; they are listed in the index by
 # INDEX_EXTRA and are not generated here.
 HEAD = ("an-2.310-479.html", "AN 2.310&ndash;479 &middot; Greed, Abbreviated")
-TAIL = ("an-3.65.html", "AN 3.65 &middot; With the Kālāmas of Kesamutta")
+TAIL = ("an-3.100.html", "AN 3.100 &middot; A Lump of Salt")
 INDEX_EXTRA = [
     ("an-3.61", "Titthāyatana", "Sectarian Tenets"),
     ("an-3.65", "Kesamutti (Kālāma)", "With the Kālāmas of Kesamutta"),
@@ -14964,5 +14964,800 @@ page(
         '<a href="../majjhima-nikaya/mn-011.html">MN 11 &middot; The Shorter Discourse on the '
         "Lion&rsquo;s Roar</a> &mdash; for what the canon means by a lion&rsquo;s roar and what it "
         "thinks entitles anyone to make one.",
+    ],
+)
+
+
+PAGES[-1]["next"] = ("an-3.65.html", "AN 3.65 &middot; With the Kālāmas of Kesamutta")
+
+page(
+    66, "Sāḷha", "With Sāḷha and His Friend",
+    vagga=VAGGA_7,
+    prev=("an-3.65.html", "AN 3.65 &middot; With the Kālāmas of Kesamutta"),
+    meta_title="AN 3.66 — With Sāḷha and His Friend | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sāḷhasutta — the Kālāma "
+        "instruction given by a disciple to two young laymen, and then actually carried out. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in the stilt longhouse of Migāra&rsquo;s mother in the Eastern "
+                    "Monastery"),
+        ("Speakers", "Venerable Nandaka, addressing Sāḷha and Rohaṇa, two young laymen"),
+        ("Form", "The ten grounds stated, then tested against three roots by question and answer, "
+                 "twice over &mdash; unskillful then skillful &mdash; closing with the immeasurables "
+                 "and freedom"),
+        ("Length", "~7 minutes to read"),
+        ("Northern parallel", "Comparable material on judging a teaching by its results rather than "
+                              "its source is preserved in the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the most repetitive discourse in "
+                       "the chapter, and the repetition is the method"),
+    ],
+    why=(
+        "This is the famous Kālāma instruction &mdash; do not go by oral transmission, lineage, "
+        "canonical authority, logic, or the appearance of competence &mdash; delivered not by the "
+        "Buddha but by Venerable Nandaka, and not to a town meeting but to two young men sitting in "
+        "front of him. And unlike AN 3.65 it does not stop at the principle. Nandaka then walks them "
+        "through the procedure, item by item, until they have reached the conclusion themselves and "
+        "he can point at what just happened."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Here is how you check a teaching without appealing to any authority, and here is the "
+            "check being carried out in front of you."]),
+        ("The ten grounds", [
+            "The list is the same one AN 3.65 gives the Kālāmas, and it is worth reading slowly "
+            "because it is more specific than its reputation. Do not go by oral transmission, by "
+            "lineage, by testament, or by canonical authority. Do not rely on logic, on inference, on "
+            "a reasoned train of thought, or on the acceptance of a view after deliberation. Do not "
+            "go by the appearance of competence. Do not think <em>the ascetic is our respected "
+            "teacher.</em>",
+            "Four of the ten are about tradition, four are about reasoning, and two are about the "
+            "person in front of you. That balance is the part most often lost when the passage is "
+            "quoted. It is not a recommendation to think for yourself instead of trusting scripture; "
+            "reasoning and inference are on the list too, and so is the conclusion you reached after "
+            "careful deliberation.",
+            "What is left, once all ten are excluded, is stated positively and it is narrow: "
+            "<em>when you know for yourselves</em> that these things are unskillful, blameworthy, "
+            "criticized by sensible people, and lead when undertaken to harm and suffering. Four "
+            "tests, and one of them &mdash; criticized by sensible people &mdash; is not private at "
+            "all.",
+            "So the instruction is not &ldquo;believe nothing you cannot verify.&rdquo; It is "
+            "&ldquo;decide this particular kind of question &mdash; whether something is worth doing "
+            "&mdash; by what it does, and check your answer against what sensible people think.&rdquo; "
+            "That is a much more usable rule and a much less dramatic one."]),
+        ("Who is speaking, and to whom", [
+            "Nandaka is a senior disciple, best known elsewhere for a discourse of instruction to the "
+            "nuns. Sāḷha is Migāra&rsquo;s grandson &mdash; the family that built the monastery they "
+            "are sitting in &mdash; and Rohaṇa is Pekhuṇiya&rsquo;s grandson. Two young men from "
+            "wealthy donor families, receiving instruction from a monk.",
+            "That setting matters more than it looks. The most famous statement in Buddhism about not "
+            "accepting things on authority is being made here by an authority, to two young people "
+            "who have every social reason to agree with him, in a building their family paid for. "
+            "Nandaka&rsquo;s tenth ground &mdash; <em>don&rsquo;t think &lsquo;the ascetic is our "
+            "respected teacher&rsquo;</em> &mdash; is aimed directly at his own position in the room.",
+            "AN 3.65 gets quoted because the Kālāmas are a memorable audience. This version deserves "
+            "to be better known because the speaker disqualifies himself in the first sentence and "
+            "then does the work anyway."]),
+        ("The procedure, carried out", [
+            "What follows is a cross-examination with only one kind of move in it, repeated. Is greed "
+            "real? Yes. What I mean by that is covetousness &mdash; and a greedy person kills, "
+            "steals, commits adultery, lies, and encourages others to do the same. Is that for their "
+            "lasting harm? Yes. The same for hate, glossed as malice. The same for delusion, glossed "
+            "as ignorance.",
+            "Then the four tests, asked one at a time: are these things skillful or unskillful? "
+            "Blameworthy or blameless? Criticized or praised by sensible people? Do they lead to harm "
+            "or not? Sāḷha answers each. And then Nandaka says the sentence the whole discourse is "
+            "built around: <em>that&rsquo;s what I said, and this is why I said it.</em>",
+            "The point is that nothing has been asserted. Every step of the conclusion came out of "
+            "the two young men&rsquo;s mouths, and the only thing Nandaka supplied was the order of "
+            "the questions. He does not tell them greed is bad; he asks them whether it is real, "
+            "tells them what he means by the word, describes what a greedy person does, and lets them "
+            "draw the inference.",
+            "The whole thing is then run again in the positive: contentment, love, and understanding, "
+            "with the same four tests and the same closing sentence. Reading both halves takes several "
+            "minutes and feels excessive, which is the point &mdash; the instruction was not to accept "
+            "a principle but to run a procedure, and the discourse runs it twice so that the reader "
+            "cannot mistake the principle for the teaching."]),
+        ("The ending, which goes somewhere unexpected", [
+            "Having established the method, the discourse does not stop with a well-founded ethical "
+            "conclusion. It goes on: such a noble disciple, rid of desire and ill will, spreads a "
+            "heart of love, compassion, rejoicing, and equanimity in all directions; understands "
+            "<em>there is this, there is what is worse than this, there is what is better than this, "
+            "and there is an escape beyond the scope of perception</em>; and is freed.",
+            "That formula in the middle is genuinely obscure and it is better to say so than to "
+            "produce a confident gloss. The plainest reading is that it describes a mind that can "
+            "place any state on a scale &mdash; this one, worse ones, better ones &mdash; and also "
+            "knows that the scale is not the whole story, since there is a way out that is not "
+            "another position on it. Other readings are defensible.",
+            "The closing lines are clearer and worth having: <em>formerly there was greed, which was "
+            "unskillful. Now there is none, so that&rsquo;s skillful.</em> Three times, and then: "
+            "<em>so they live without wishes in this very life, quenched, cooled, experiencing bliss, "
+            "with self become divine.</em>",
+            "<em>Brahmabhūtena attanā</em>, with self become divine, is a striking phrase in a "
+            "tradition careful about the word self, and it is used positively. The canon does that "
+            "occasionally; it is not a doctrine of a self but an idiom for a person whose condition "
+            "has been transformed, and a class that has been taught not-self as a slogan should meet "
+            "it."]),
+        ("Using it", [
+            "Teach this rather than AN 3.65 if the class has time for one of them, or teach both and "
+            "put this one second. The famous version states the principle; this one demonstrates it, "
+            "and the demonstration is what stops the principle from turning into a license.",
+            "The usable structure is the sequence of questions. Is the thing real? What exactly do we "
+            "mean by the word? What does someone in that condition actually do? Is that good for "
+            "them? A teacher can run that on almost any topic, and it produces conclusions the class "
+            "owns rather than conclusions they have been handed &mdash; which is the whole of "
+            "Nandaka&rsquo;s method and the reason he could disqualify his own authority and still "
+            "get somewhere."]),
+    ],
+    terms=[
+        ("mā anussavena",
+         "&ldquo;don&rsquo;t go by oral transmission&rdquo; &mdash; the first of the ten grounds, and "
+         "the one closest to what a modern reader means by tradition."),
+        ("mā takkahetu mā nayahetu",
+         "&ldquo;don&rsquo;t rely on logic, don&rsquo;t rely on inference&rdquo; &mdash; the part of "
+         "the list usually dropped when it is quoted. Reasoning is excluded along with scripture."),
+        ("mā samaṇo no garū",
+         "&ldquo;don&rsquo;t think &lsquo;the ascetic is our respected teacher&rsquo;&rdquo; &mdash; "
+         "the tenth ground, aimed by the speaker at his own standing in the room."),
+        ("attanāva jāneyyātha",
+         "&ldquo;when you know for yourselves&rdquo; &mdash; the positive test, which includes "
+         "&ldquo;criticized by sensible people&rdquo; and so is not purely private."),
+        ("brahmabhūtena attanā",
+         "&ldquo;with self become divine&rdquo; &mdash; the closing phrase, used positively in a "
+         "tradition otherwise careful with the word self."),
+    ],
+    text_intro=(
+        "The discourse in full, with both halves of the procedure. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The ten grounds"),
+        ("p", "&sect;1", "an3.66:1.1-1.3"),
+        ("p", "&sect;2", "an3.66:2.1-2.2"),
+        ("h3", "Greed, hate, delusion"),
+        ("p", "&sect;3&ndash;14", "an3.66:3.1-14.1"),
+        ("p", "&sect;15&ndash;22", "an3.66:15.1-22.2"),
+        ("p", "&sect;23", "an3.66:23.1-23.5"),
+        ("h3", "And the same again, the other way"),
+        ("p", "&sect;24", "an3.66:24.1-24.3"),
+        ("p", "&sect;25&ndash;36", "an3.66:25.1-36.1"),
+        ("p", "&sect;37&ndash;44", "an3.66:37.1-44.2"),
+        ("p", "&sect;45", "an3.66:45.1-45.5"),
+        ("h3", "Where it ends"),
+        ("p", "&sect;46", "an3.66:46.1-46.9"),
+        ("p", "&sect;47", "an3.66:47.1-47.5"),
+    ],
+    quiz=[
+        {"q": "Who gives the instruction here, and to whom?",
+         "opts": [
+             "The Buddha, to the Kālāmas",
+             "Venerable Nandaka, to Sāḷha and Rohaṇa &mdash; two young laymen from wealthy donor families",
+             "Sāriputta, to the mendicants",
+             "Ānanda, to a king"],
+         "correct": 1,
+         "expl": "The famous statement about not accepting things on authority, made by an authority in a building their family paid for."},
+        {"q": "How are the ten grounds distributed?",
+         "opts": [
+             "All ten are about scripture",
+             "Four about tradition, four about reasoning, and two about the person in front of you",
+             "All ten are about teachers",
+             "Five about tradition and five about experience"],
+         "correct": 1,
+         "expl": "The balance is the part most often lost when the passage is quoted."},
+        {"q": "What does the guide say the instruction is <em>not</em>?",
+         "opts": [
+             "A recommendation to think for yourself instead of trusting scripture &mdash; since reasoning, inference, and considered conclusions are on the excluded list too",
+             "A statement about ethics",
+             "Addressed to laypeople",
+             "About greed"],
+         "correct": 0,
+         "expl": "Much more usable, and much less dramatic, than its reputation."},
+        {"q": "What are the four positive tests?",
+         "opts": [
+             "Scriptural, logical, traditional, and personal",
+             "Whether the thing is unskillful, blameworthy, criticized by sensible people, and leads when undertaken to harm and suffering",
+             "Whether it is old, widespread, taught, and believed",
+             "Whether it is pleasant, useful, easy, and quick"],
+         "correct": 1,
+         "expl": "And one of the four &mdash; criticized by sensible people &mdash; is not private at all."},
+        {"q": "Which ground is aimed at the speaker himself?",
+         "opts": [
+             "&ldquo;Don&rsquo;t go by oral transmission&rdquo;",
+             "&ldquo;Don&rsquo;t rely on logic&rdquo;",
+             "&ldquo;Don&rsquo;t think &lsquo;the ascetic is our respected teacher&rsquo;&rdquo;",
+             "&ldquo;Don&rsquo;t go by lineage&rdquo;"],
+         "correct": 2,
+         "expl": "He disqualifies his own standing in the first sentence and does the work anyway."},
+        {"q": "What kind of move does Nandaka use throughout?",
+         "opts": [
+             "Assertion followed by scriptural proof",
+             "Question and answer &mdash; is the thing real, what the word means, what such a person does, and whether that is for their harm",
+             "Simile after simile",
+             "Silence"],
+         "correct": 1,
+         "expl": "Every step of the conclusion came out of the two young men&rsquo;s mouths."},
+        {"q": "What does Nandaka say after each half?",
+         "opts": [
+             "&ldquo;Thus have I heard.&rdquo;",
+             "&ldquo;That&rsquo;s what I said, and this is why I said it.&rdquo;",
+             "&ldquo;Remember this well.&rdquo;",
+             "&ldquo;Ask the Buddha.&rdquo;"],
+         "correct": 1,
+         "expl": "He points at what has just happened rather than adding a conclusion."},
+        {"q": "Why is the whole procedure run twice?",
+         "opts": [
+             "Because the first attempt failed",
+             "Because the instruction was to run a procedure rather than accept a principle &mdash; and running it twice stops the principle being mistaken for the teaching",
+             "Because there are two students",
+             "Scribal duplication"],
+         "correct": 1,
+         "expl": "Unskillful first, then skillful, with the same four tests."},
+        {"q": "How does the guide treat the formula about &ldquo;an escape beyond the scope of perception&rdquo;?",
+         "opts": [
+             "With a confident gloss",
+             "By saying it is genuinely obscure, offering the plainest reading &mdash; a mind that can place any state on a scale and also knows the scale is not the whole story &mdash; and noting other readings are defensible",
+             "By omitting it",
+             "By treating it as a later addition"],
+         "correct": 1,
+         "expl": "Better to say so than to produce a confident gloss."},
+        {"q": "What is notable about the closing phrase <em>brahmabhūtena attanā</em>?",
+         "opts": [
+             "It is a mistranslation",
+             "&ldquo;With self become divine&rdquo; &mdash; used positively, in a tradition otherwise careful with the word self",
+             "It refers to the god Brahmā literally",
+             "It is unique to this discourse"],
+         "correct": 1,
+         "expl": "An idiom for a transformed condition rather than a doctrine of a self."},
+    ],
+    marginalia=[
+        ("Ten grounds", [
+            "four &middot; tradition",
+            "four &middot; reasoning",
+            "two &middot; the teacher in front of you",
+        ]),
+        ("Four tests", [
+            "unskillful?",
+            "blameworthy?",
+            "criticized by sensible people?",
+            "leading to harm?",
+        ]),
+        ("The method", [
+            "is it real?",
+            "what do we mean by the word?",
+            "what does such a person do?",
+            "&mdash; and let them conclude",
+        ]),
+        ("Cross-references", [
+            "AN 3.65 &middot; the famous version",
+            "AN 3.34 &middot; the three roots",
+            "AN 3.63 &middot; the four immeasurables",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.66/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the famous '
+        "version of the same instruction, given by the Buddha to a town. That one states the "
+        "principle; this one runs it, and the pair is best read in that order.",
+        '<a href="an-3.63.html">AN 3.63 &middot; At Venāgapura</a> &mdash; for the four immeasurables '
+        "in the same formula this discourse uses at its close, there described as the divine bed.",
+        '<a href="an-3.54.html">AN 3.54 &middot; A Wanderer</a> &mdash; for the claim that greed '
+        "damages judgment, which is what makes a procedure like Nandaka&rsquo;s necessary in the "
+        "first place.",
+    ],
+)
+
+
+page(
+    67, "Kathāvatthu", "Topics of Discussion",
+    vagga=VAGGA_7,
+    meta_title="AN 3.67 — Topics of Discussion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kathāvatthusutta — the "
+        "four ways a question can be answered, the four ways a discussant disqualifies himself, "
+        "and what discussion is for. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three topics named, then four tests of competence stated negatively and "
+                 "positively, a statement of purpose, and seven verses"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "Comparable material on the conduct of debate is preserved in the "
+                              "Chinese Āgamas, and the fourfold classification of questions became "
+                              "standard in the later treatises; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; dense in the middle and "
+                       "immediately usable"),
+    ],
+    why=(
+        "This is the canon&rsquo;s handbook for telling whether the person you are talking to is "
+        "worth talking to. It contains the fourfold classification of questions, four tests of "
+        "competence, a description of what disqualifies somebody, and then &mdash; unexpectedly "
+        "&mdash; a statement that the entire purpose of discussion is the liberation of the mind. "
+        "Anyone who runs a class, a meeting, or an argument can use most of it by the end of the "
+        "afternoon."),
+    guide=[
+        ("The teaching in one sentence", [
+            "You can tell whether somebody can be talked with by watching how they handle a question, "
+            "and the point of talking at all is freedom."]),
+        ("Three topics", [
+            "The opening is almost too brief to notice: three topics of discussion &mdash; the past, "
+            "the future, and the present. <em>That is how it was; that is how it will be; this is "
+            "how it is at present.</em>",
+            "Nothing is done with this and no topic is forbidden. Given that the canon elsewhere "
+            "discourages speculation about past and future, it is worth noticing that here they are "
+            "simply listed. What the discourse is interested in is not the subject matter but the "
+            "conduct."]),
+        ("Four kinds of question", [
+            "This is the passage that matters most. A question may need to be answered "
+            "<em>categorically</em>; or it may need <em>analysis</em>; or it may need a "
+            "<em>counter-question</em>; or it may need to be <em>set aside</em>. Someone who fails to "
+            "match the kind of answer to the kind of question <em>is not competent to hold a "
+            "discussion</em>.",
+            "The four are worth teaching with examples, because each corresponds to a familiar "
+            "failure. <em>Is killing unskillful?</em> takes a categorical answer, and hedging it is a "
+            "failure. <em>Is desire bad?</em> takes analysis &mdash; which desire, for what? &mdash; "
+            "and answering yes or no is a failure. <em>Is this practice better than that one?</em> "
+            "often takes a counter-question, and AN 3.21 shows the Buddha doing exactly that. And "
+            "some questions take no answer at all: the canon&rsquo;s standard examples are whether "
+            "the world is eternal and what becomes of a perfected one after death.",
+            "The scheme is old, standard, and was carried into the later literature; a class that has "
+            "met the Chinese Buddhist logical treatises will recognize it. What makes it useful "
+            "outside Buddhism is that it locates a real skill: knowing what kind of question you have "
+            "been asked, before answering it."]),
+        ("Four more tests, and what they catch", [
+            "The second test is consistency: whether the person is steady <em>about what their "
+            "position is and what it isn&rsquo;t; about what they propose; about speaking from what "
+            "they know; and about the appropriate procedure.</em> Somebody whose position moves while "
+            "you are arguing with it cannot be argued with.",
+            "The third names three behaviors: dodging the issue, distracting the discussion with "
+            "irrelevant points, and displaying annoyance, hate, and bitterness. This is the same "
+            "three-part formula AN 3.64 used for how a challenger fails, which suggests it was a "
+            "standing description rather than an observation made once.",
+            "The fourth is the most pointed, and it is about how somebody treats an opponent who is "
+            "losing: whether they <em>intimidate, crush, mock, or seize on trivial mistakes</em>. "
+            "Notice that all four of those are things a person does when they are winning. The "
+            "discourse is saying that a person who behaves that way is not competent to hold a "
+            "discussion &mdash; not that they are unpleasant, but that discussion with them is not "
+            "possible.",
+            "That is a strong and specific claim, and it is worth putting to a class directly: on "
+            "this account, the ability to win an argument badly is itself a disqualification."]),
+        ("What discussion is for", [
+            "Then the discourse turns. Someone who <em>actively listens</em> has what is required; "
+            "someone who does not, does not. And what such a person does is: directly know one thing, "
+            "completely understand one thing, give up one thing, and realize one thing &mdash; and "
+            "then they experience complete freedom.",
+            "&ldquo;This is the purpose of discussion, consultation, sitting close, and listening "
+            "well, that is, the liberation of the mind by not grasping.&rdquo;",
+            "That sentence rewrites everything before it. The four tests were not etiquette, and not "
+            "a technique for winning. They were the conditions under which conversation can do the "
+            "one thing it is for.",
+            "The four verbs &mdash; directly know, completely understand, give up, realize &mdash; "
+            "are the canon&rsquo;s standard four operations, applied elsewhere to the four noble "
+            "truths. Compressing them to <em>one thing</em> each is unusual and the discourse does "
+            "not say what the one thing is."]),
+        ("The verses, for anyone who teaches", [
+            "The verses divide people who converse with hostility from those who do not, and the "
+            "description of the first group is uncomfortably recognizable: <em>too sure of "
+            "themselves, arrogant, ignoble, attacking virtues, they look for flaws in each other. "
+            "They rejoice together when their opponent speaks poorly and makes a mistake.</em>",
+            "The last clause is the sharp one. It is not describing an argument between enemies; it "
+            "is describing people who are enjoying it together &mdash; the shared pleasure of "
+            "watching somebody fail. Anyone who has been in a common room recognizes this.",
+            "The positive description is a list of small disciplines rather than a virtue: know when "
+            "the time is right; speak from what you rightly know; <em>agree with what was well "
+            "spoken, without criticizing what was poorly said</em>; do not persist in finding faults "
+            "or seize on trivial mistakes; do not intimidate or crush; do not speak suggestively.",
+            "<em>Good people consult for the sake of knowledge and clarity</em> &mdash; and the final "
+            "line, <em>knowing this, an intelligent person would consult without arrogance</em>, is "
+            "the whole discourse compressed. It is a good thing to have on a wall."]),
+    ],
+    terms=[
+        ("kathāvatthu",
+         "&ldquo;topic of discussion&rdquo; &mdash; also the title of the Abhidhamma book of disputed "
+         "points, which shows how seriously the tradition took the conduct of argument."),
+        ("ekaṁsabyākaraṇīya",
+         "&ldquo;to be answered categorically&rdquo; &mdash; the first of the four kinds of question, "
+         "and the kind AN 3.21 says a certain question is <em>not</em>."),
+        ("vibhajjabyākaraṇīya",
+         "&ldquo;to be answered after analysis&rdquo; &mdash; the second, and the source of the name "
+         "of the Vibhajjavāda, the analytical school."),
+        ("paṭipucchābyākaraṇīya",
+         "&ldquo;to be answered with a counter-question&rdquo; &mdash; the third, and the technique "
+         "used on Hatthaka in AN 3.35 and on Saṅgārava in AN 3.60."),
+        ("ṭhapanīya",
+         "&ldquo;to be set aside&rdquo; &mdash; the fourth, covering the questions the canon declines "
+         "as not conducing to the goal."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three topics"),
+        ("p", "&sect;1", "an3.67:1.1-1.8"),
+        ("h3", "Four tests of competence"),
+        ("p", "&sect;2", "an3.67:2.1-2.3"),
+        ("p", "&sect;3", "an3.67:3.1-3.3"),
+        ("p", "&sect;4", "an3.67:4.1-4.3"),
+        ("p", "&sect;5", "an3.67:5.1-5.3"),
+        ("h3", "What discussion is for"),
+        ("p", "&sect;6", "an3.67:6.1-6.8"),
+        ("h3", "In verse"),
+        ("p", "&sect;7&ndash;8", "an3.67:7.1-8.4"),
+        ("p", "&sect;9&ndash;10", "an3.67:9.1-10.4"),
+        ("p", "&sect;11&ndash;12", "an3.67:11.1-12.4"),
+        ("p", "&sect;13", "an3.67:13.1-13.6"),
+    ],
+    quiz=[
+        {"q": "What three topics of discussion are named?",
+         "opts": [
+             "Doctrine, practice, and results",
+             "The past, the future, and the present",
+             "Self, world, and liberation",
+             "Ethics, immersion, and wisdom"],
+         "correct": 1,
+         "expl": "Nothing is done with the list and no topic is forbidden; the interest is in conduct."},
+        {"q": "What are the four kinds of question?",
+         "opts": [
+             "Easy, hard, useful, and useless",
+             "To be answered categorically, after analysis, with a counter-question, or set aside",
+             "Doctrinal, practical, personal, and historical",
+             "Asked by monks, nuns, laymen, and laywomen"],
+         "correct": 1,
+         "expl": "Failing to match the kind of answer to the kind of question disqualifies a discussant."},
+        {"q": "Which school takes its name from the second kind?",
+         "opts": [
+             "The Sarvāstivāda",
+             "The Vibhajjavāda, the analytical school",
+             "The Theravāda",
+             "The Sautrāntika"],
+         "correct": 1,
+         "expl": "<em>Vibhajja</em>, having analyzed."},
+        {"q": "What does the second test look for?",
+         "opts": [
+             "Consistency &mdash; about what one&rsquo;s position is and is not, what one proposes, speaking from what one knows, and the appropriate procedure",
+             "Speed of reply",
+             "Scriptural learning",
+             "Politeness"],
+         "correct": 0,
+         "expl": "Somebody whose position moves while you are arguing with it cannot be argued with."},
+        {"q": "Which three behaviors does the third test name?",
+         "opts": [
+             "Silence, laughter, and interruption",
+             "Dodging the issue, distracting with irrelevant points, and displaying annoyance, hate, and bitterness",
+             "Quoting, boasting, and flattering",
+             "Shouting, sulking, and leaving"],
+         "correct": 1,
+         "expl": "The same three-part formula AN 3.64 uses for how a challenger fails."},
+        {"q": "What does the fourth test catch?",
+         "opts": [
+             "Ignorance of doctrine",
+             "How somebody treats an opponent who is losing &mdash; whether they intimidate, crush, mock, or seize on trivial mistakes",
+             "Lack of preparation",
+             "Refusal to answer"],
+         "correct": 1,
+         "expl": "All four are things a person does when they are winning."},
+        {"q": "What strong claim does the guide draw from that?",
+         "opts": [
+             "That arguments should be avoided",
+             "That the ability to win an argument badly is itself a disqualification &mdash; not that such a person is unpleasant, but that discussion with them is not possible",
+             "That mockery is sometimes justified",
+             "That only monastics may debate"],
+         "correct": 1,
+         "expl": "A strong and specific claim, worth putting to a class directly."},
+        {"q": "What does the discourse say the purpose of discussion is?",
+         "opts": [
+             "Establishing the truth",
+             "Instructing the ignorant",
+             "The liberation of the mind by not grasping",
+             "Preserving the teaching"],
+         "correct": 2,
+         "expl": "The sentence rewrites everything before it: the four tests were not etiquette."},
+        {"q": "What is the sharpest clause in the verses on hostile conversation?",
+         "opts": [
+             "That such people are arrogant",
+             "That they rejoice <em>together</em> when their opponent speaks poorly and makes a mistake",
+             "That they attack virtues",
+             "That they are ignoble"],
+         "correct": 1,
+         "expl": "Not an argument between enemies but the shared pleasure of watching somebody fail."},
+        {"q": "Which instruction from the verses does the guide single out?",
+         "opts": [
+             "&ldquo;Speak only when asked&rdquo;",
+             "&ldquo;Agree with what was well spoken, without criticizing what was poorly said&rdquo;",
+             "&ldquo;Never concede a point&rdquo;",
+             "&ldquo;Quote the teacher&rdquo;"],
+         "correct": 1,
+         "expl": "One of a list of small disciplines rather than a virtue."},
+    ],
+    marginalia=[
+        ("Four kinds of question", [
+            "<span class=\"pali\">ekaṁsa</span>answer categorically",
+            "<span class=\"pali\">vibhajja</span>analyze first",
+            "<span class=\"pali\">paṭipucchā</span>ask back",
+            "<span class=\"pali\">ṭhapanīya</span>set aside",
+        ]),
+        ("Disqualifying", [
+            "dodging, distracting",
+            "annoyance and bitterness",
+            "intimidating, crushing, mocking",
+            "&mdash; all of them, while winning",
+        ]),
+        ("The purpose", [
+            "&ldquo;the liberation of the mind",
+            "by not grasping&rdquo;",
+            "&mdash; not etiquette",
+        ]),
+        ("Cross-references", [
+            "AN 3.21 &middot; a question not answerable categorically",
+            "AN 3.64 &middot; the same three failures",
+            "AN 2.42&ndash;51 &middot; assemblies",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.67/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.21.html">AN 3.21 &middot; With Saviṭṭha</a> &mdash; where a question is '
+        "declared not answerable categorically, and the reason given is that it holds the wrong "
+        "variable fixed. The clearest illustration of the first two kinds of question in this "
+        "collection.",
+        '<a href="an-3.64.html">AN 3.64 &middot; With Sarabha</a> &mdash; for the same three-part '
+        "description of how a challenger fails, used there of somebody actually failing.",
+        '<a href="/sutras/nyayapravesa/index.html">Nyāyapraveśa</a> &mdash; the short Buddhist logic '
+        "primer that became the standard textbook in China, for what happened when the tradition "
+        "turned the conduct of debate into a formal discipline.",
+        '<a href="an-2.42-51.html">AN 2.42&ndash;51 &middot; Assemblies</a> &mdash; the Twos on the '
+        "same question asked of a group rather than an individual.",
+    ],
+)
+
+
+page(
+    68, "Aññatitthiya", "Followers of Other Religions",
+    vagga=VAGGA_7,
+    meta_title="AN 3.68 — Followers of Other Religions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Aññatitthiyasutta — how "
+        "greed, hate, and delusion differ in blame and in speed, what feeds each, and what ends "
+        "it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", "The Buddha and the mendicants"),
+        ("Form", "A hypothetical question from outsiders, a prepared answer, and six causes given in "
+                 "two matched sets"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The analysis of the three roots by their causes and antidotes is "
+                              "preserved in the Chinese Āgamas and became standard in the meditation "
+                              "manuals as the antidotes 對治; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; schematic, and one of the most "
+                       "practically loaded discourses in the chapter"),
+    ],
+    why=(
+        "The Buddha asks his monks what they would say if wanderers of other religions asked them "
+        "what the difference is between greed, hate, and delusion. They admit they do not know, and "
+        "he gives them the answer to carry: greed is mildly blameworthy but slow to fade; hate is "
+        "very blameworthy but quick to fade; delusion is very blameworthy and slow to fade. Then he "
+        "gives what feeds each and what ends it &mdash; which is the whole of Buddhist antidote "
+        "practice in six lines."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The three roots differ in how bad they are and in how long they last, and each has its "
+            "own food and its own remedy."]),
+        ("The frame: a question from outside", [
+            "The discourse is set up as preparation for an encounter that has not happened yet. "
+            "<em>If wanderers of other religions were to ask &hellip; how would you answer them?</em>",
+            "The monks reply with the standard formula &mdash; our teachings are rooted in the "
+            "Buddha, he is our guide and refuge, may he clarify it &mdash; which is an honest "
+            "admission that they do not know. The canon uses this formula often and it is worth "
+            "pointing out that it is not treated as a failure.",
+            "The framing tells you what kind of material this is: an answer designed to be given to "
+            "somebody outside the tradition. That is why it contains no technical terms that would "
+            "need explaining, and why it is built around comparisons rather than doctrine."]),
+        ("Two axes, not one", [
+            "The answer sorts the three roots on two independent scales: how blameworthy, and how "
+            "quickly they fade.",
+            "Greed is <em>mildly blameworthy but slow to fade away</em>. Hate is <em>very blameworthy "
+            "but quick to fade away</em>. Delusion is <em>very blameworthy and slow to fade away</em>.",
+            "That produces a genuinely useful ranking rather than a moral league table. Hate does the "
+            "most obvious damage and passes; greed does less visible damage and stays; delusion does "
+            "the most damage and stays longest, which is why it is treated everywhere in the canon as "
+            "the fundamental one.",
+            "The practical implication is worth drawing out for a class. Anger is easy to notice, "
+            "widely condemned, and short-lived. Greed is socially tolerated, often admired, and "
+            "durable. A person judging their own condition by how bad their episodes look will "
+            "systematically overweight the first and miss the second, and the discourse is set up to "
+            "correct exactly that error.",
+            "The fourth logical possibility &mdash; mildly blameworthy and quick to fade &mdash; is "
+            "not on the list, because no root occupies it."]),
+        ("What feeds each", [
+            "<em>Subhanimitta</em>, the beautiful feature of things, feeds greed. <em>Paṭighanimitta</em>, "
+            "the feature of aversion, feeds hate. And <em>ayoniso manasikāra</em>, irrational "
+            "application of mind, feeds delusion.",
+            "<em>Nimitta</em> is the aspect or sign a mind takes hold of &mdash; the same word AN 3.32 "
+            "used for everything external. The claim is not that beautiful things cause greed. It is "
+            "that greed grows when the mind is applied irrationally <em>to the beautiful aspect</em> "
+            "of something, which is a claim about attention rather than about objects.",
+            "The third breaks the pattern. Greed and hate each have their own feature; delusion has "
+            "no feature of its own, only <em>ayoniso manasikāra</em> itself &mdash; unwise attention "
+            "in general. That asymmetry is doing something: delusion is not a reaction to a kind of "
+            "object at all, which is why it is harder to see and slower to go."]),
+        ("What ends each, and one honest warning", [
+            "The antidotes are matched: <em>asubhanimitta</em>, the ugly feature of things, for greed; "
+            "<em>mettā cetovimutti</em>, the heart&rsquo;s release by love, for hate; and "
+            "<em>yoniso manasikāra</em>, rational application of mind, for delusion.",
+            "This is the origin of the whole antidote scheme that later meditation manuals build on "
+            "&mdash; 對治 in the Chinese literature, where a specific practice is prescribed against a "
+            "specific defilement. Zhiyi&rsquo;s manuals take it as a working structure.",
+            "The first antidote needs a warning, and the tradition itself supplies one. Contemplating "
+            "the unattractive aspects of the body is a real practice and it can go badly wrong: the "
+            "monastic code&rsquo;s own origin story for one of its gravest rules describes monks who "
+            "practiced it and became so disgusted with their bodies that they sought their own "
+            "deaths. That episode is preserved in the Vinaya, not invented by critics.",
+            "For a modern classroom the caution is straightforward and should be given plainly. A "
+            "practice aimed at loosening desire, taught to somebody who already hates their body or "
+            "restricts their eating, will not loosen desire; it will feed something else. The "
+            "discourse names the antidote for a person overcome by greed, and it is not a general "
+            "instruction to think badly of bodies.",
+            "The second antidote has no such hazard and is worth naming as the model: the remedy for "
+            "hate is not the ugly aspect of the hated person but a cultivated heart of love, which is "
+            "a positive practice replacing a negative one rather than an opposing disgust."]),
+        ("Using it", [
+            "The two-axis table is the thing to teach, and it takes two minutes to draw. Blame on one "
+            "axis, persistence on the other, three roots placed, and the empty fourth cell noticed.",
+            "Then the six causes as a matched set: what makes each grow is a way of paying attention, "
+            "and what makes each stop is another way of paying attention. Nothing in the list is "
+            "about circumstances, and nothing is about other people. That is the discourse&rsquo;s "
+            "actual claim, and it is available to anybody regardless of what they believe about the "
+            "rest of the teaching."]),
+    ],
+    terms=[
+        ("appasāvajja mahāsāvajja",
+         "&ldquo;mildly blameworthy, very blameworthy&rdquo; &mdash; the first of the two axes on "
+         "which the three roots are sorted."),
+        ("dandhavirāgī khippavirāgī",
+         "&ldquo;slow to fade, quick to fade&rdquo; &mdash; the second axis, and the one that makes "
+         "greed more dangerous than its low blame suggests."),
+        ("subhanimitta",
+         "&ldquo;the beautiful feature&rdquo; &mdash; what greed grows on when the mind is applied to "
+         "it irrationally. A claim about attention, not about objects."),
+        ("ayoniso manasikāra",
+         "&ldquo;irrational application of mind&rdquo; &mdash; what feeds delusion, and the only one "
+         "of the three causes that names no feature of its own."),
+        ("mettā cetovimutti",
+         "&ldquo;the heart&rsquo;s release by love&rdquo; &mdash; the antidote to hate, and a positive "
+         "practice replacing a negative one rather than an opposing disgust."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "If they were to ask"),
+        ("p", "&sect;1", "an3.68:1.1-1.11"),
+        ("h3", "The answer to give"),
+        ("p", "&sect;2", "an3.68:2.1-2.8"),
+        ("h3", "What makes each grow"),
+        ("p", "&sect;3", "an3.68:3.1-3.4"),
+        ("p", "&sect;4", "an3.68:4.1-4.4"),
+        ("p", "&sect;5", "an3.68:5.1-5.4"),
+        ("h3", "And what ends it"),
+        ("p", "&sect;6", "an3.68:6.1-6.4"),
+        ("p", "&sect;7", "an3.68:7.1-7.4"),
+        ("p", "&sect;8", "an3.68:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "How is the discourse framed?",
+         "opts": [
+             "As an answer to a challenge already made",
+             "As preparation for a question wanderers of other religions might ask &mdash; an answer designed to be given to somebody outside the tradition",
+             "As an internal debate",
+             "As instruction to a layman"],
+         "correct": 1,
+         "expl": "Which is why it contains no technical terms needing explanation."},
+        {"q": "What do the monks say when asked how they would answer?",
+         "opts": [
+             "They give three different answers",
+             "They admit they do not know, using the standard formula &mdash; our teachings are rooted in the Buddha, may he clarify it",
+             "They refuse to speculate",
+             "They quote a previous discourse"],
+         "correct": 1,
+         "expl": "The canon uses this formula often and does not treat it as a failure."},
+        {"q": "On which two scales are the three roots sorted?",
+         "opts": [
+             "Frequency and intensity",
+             "Visibility and cost",
+             "How blameworthy they are, and how quickly they fade",
+             "Bodily and mental"],
+         "correct": 2,
+         "expl": "Two independent axes, not one."},
+        {"q": "Where does greed fall?",
+         "opts": [
+             "Very blameworthy, quick to fade",
+             "Mildly blameworthy, slow to fade",
+             "Very blameworthy, slow to fade",
+             "Mildly blameworthy, quick to fade"],
+         "correct": 1,
+         "expl": "Less visible damage, and it stays."},
+        {"q": "Where does delusion fall?",
+         "opts": [
+             "Very blameworthy and slow to fade &mdash; which is why the canon treats it as fundamental",
+             "Mildly blameworthy and quick to fade",
+             "Very blameworthy and quick to fade",
+             "It is not ranked"],
+         "correct": 0,
+         "expl": "The most damage and the longest duration."},
+        {"q": "What practical error does the guide say the scheme corrects?",
+         "opts": [
+             "Overrating meditation",
+             "Judging one&rsquo;s condition by how bad one&rsquo;s episodes look &mdash; which overweights anger, socially condemned and short-lived, and misses greed, socially tolerated and durable",
+             "Underrating ethics",
+             "Confusing the roots with deeds"],
+         "correct": 1,
+         "expl": "The fourth logical cell &mdash; mildly blameworthy and quick to fade &mdash; is empty."},
+        {"q": "What feeds greed?",
+         "opts": [
+             "Beautiful objects themselves",
+             "Irrational application of mind to the beautiful feature of things &mdash; a claim about attention, not about objects",
+             "Wealth",
+             "Company"],
+         "correct": 1,
+         "expl": "<em>Nimitta</em> is the aspect a mind takes hold of."},
+        {"q": "How does the third cause break the pattern?",
+         "opts": [
+             "It names two features",
+             "Delusion has no feature of its own &mdash; only irrational application of mind in general",
+             "It has no cause",
+             "It is caused by the other two"],
+         "correct": 1,
+         "expl": "Delusion is not a reaction to a kind of object, which is why it is harder to see."},
+        {"q": "What warning does the guide give about the antidote to greed?",
+         "opts": [
+             "That it is ineffective",
+             "That contemplating the unattractive can go badly wrong &mdash; the Vinaya&rsquo;s own origin story for a grave rule records monks who practiced it and sought their own deaths &mdash; and that it is not a general instruction to think badly of bodies",
+             "That it is a later addition",
+             "That it applies only to monastics"],
+         "correct": 1,
+         "expl": "Taught to somebody who already hates their body, it will feed something else."},
+        {"q": "Why does the guide call the second antidote the model?",
+         "opts": [
+             "Because it is easier",
+             "Because the remedy for hate is a cultivated heart of love &mdash; a positive practice replacing a negative one rather than an opposing disgust",
+             "Because it is more traditional",
+             "Because it works faster"],
+         "correct": 1,
+         "expl": "And it carries none of the first antidote&rsquo;s hazard."},
+    ],
+    marginalia=[
+        ("Two axes", [
+            "greed &middot; mild blame, slow to fade",
+            "hate &middot; great blame, quick to fade",
+            "delusion &middot; great blame, slow to fade",
+        ]),
+        ("What feeds", [
+            "<span class=\"pali\">subhanimitta</span>the beautiful",
+            "<span class=\"pali\">paṭighanimitta</span>the repellent",
+            "<span class=\"pali\">ayoniso manasikāra</span>unwise attention",
+        ]),
+        ("What ends", [
+            "<span class=\"pali\">asubha</span>the unlovely",
+            "<span class=\"pali\">mettā</span>love, released",
+            "<span class=\"pali\">yoniso manasikāra</span>wise attention",
+        ]),
+        ("Cross-references", [
+            "AN 3.34 &middot; the roots and their deeds",
+            "AN 3.66 &middot; the roots, tested",
+            "AN 3.63 &middot; love, spread in all directions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.68/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="/sutras/shi-chan-boluomi/fascicle-004/">Shi Chan Boluomi &middot; Fascicle 4</a> '
+        "&mdash; Zhiyi on verifying what a practitioner is actually dealing with and settling the "
+        "mind accordingly, which is the antidote scheme, 對治, turned into a working method with "
+        "cautions attached.",
+        '<a href="an-3.34.html">AN 3.34 &middot; Sources</a> &mdash; for the same three roots as the '
+        "origin of deeds, which is what this discourse&rsquo;s ranking is a ranking of.",
+        '<a href="an-3.63.html">AN 3.63 &middot; At Venāgapura</a> &mdash; for the heart&rsquo;s '
+        "release by love in its full formula, spread in all directions, which this discourse names "
+        "as the remedy for hate.",
     ],
 )
