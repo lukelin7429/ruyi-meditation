@@ -126,7 +126,7 @@ def verify(page):
 
 def main():
     module = sys.argv[1] if len(sys.argv) > 1 else "an_content_01"
-    pages = importlib.import_module(module).PAGES
+    pages = an_build.chain(importlib.import_module(module))
     for page in pages:
         verify(page)
     print("%d checks over %d pages" % (checks, len(pages)))

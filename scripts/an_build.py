@@ -323,10 +323,30 @@ def build(page, shell):
     return make_head(head, page) + body + tail
 
 
+def chain(mod):
+    """Fill in prev/next from the module's page order.
+
+    The first page links back to the collection index; the last hands off to
+    whatever mod.TAIL names (the next already-published page in the series).
+    An explicit prev/next on a page always wins.
+    """
+    pages = mod.PAGES
+    head = getattr(mod, "HEAD", ("./", "Aṅguttara Nikāya selections"))
+    tail = getattr(mod, "TAIL", ("./", "Aṅguttara Nikāya selections"))
+    for i, page in enumerate(pages):
+        label = lambda p: (p["slug"].replace("an-", "AN ").replace("-", "&ndash;")
+                           + " &middot; " + p["nav_title"])
+        page.setdefault("prev", head if i == 0 else
+                        (pages[i - 1]["slug"] + ".html", label(pages[i - 1])))
+        page.setdefault("next", tail if i == len(pages) - 1 else
+                        (pages[i + 1]["slug"] + ".html", label(pages[i + 1])))
+    return pages
+
+
 def main():
     module = sys.argv[1] if len(sys.argv) > 1 else "an_content_01"
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-    pages = importlib.import_module(module).PAGES
+    pages = chain(importlib.import_module(module))
     shell = load_shell()
     for page in pages:
         out = os.path.join(OUT_DIR, page["slug"] + ".html")
