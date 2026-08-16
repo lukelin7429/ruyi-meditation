@@ -12834,3 +12834,1342 @@ page(
         "living quenching and the further one.",
     ],
 )
+
+
+page(
+    56, "Paloka", "Breaking Apart",
+    vagga=VAGGA_6,
+    meta_title="AN 3.56 — Breaking Apart | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Palokasutta — a brahmin "
+        "asks why the population has fallen, and gets three causes that a modern reader has to "
+        "argue with. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; a well-to-do brahmin comes and sits down to one side"),
+        ("Speakers", "A well-to-do brahmin and the Buddha"),
+        ("Form", "A question resting on a premise, three causes given in parallel, and the standard "
+                 "formula of conversion"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The decline schema, in which moral deterioration produces demographic "
+                              "and material collapse, is preserved in the Chinese Āgamas and is "
+                              "worked out at length in the Pāli at DN 26; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; easy to read and the hardest "
+                       "discourse in this chapter to teach honestly"),
+    ],
+    why=(
+        "A brahmin reports what the old teachers used to say: that the world was once so full of "
+        "people that villages were a chicken&rsquo;s flight apart, and asks why the numbers have "
+        "fallen. The Buddha answers with three causes, all of them traced to the same moral failure. "
+        "The first is that people kill each other. The second is that the rains fail. The third is "
+        "that spirits let monsters loose. A modern class will accept the first, resist the second, "
+        "and disbelieve the third, and the discourse is more useful if that is said out loud."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The discourse holds that a society&rsquo;s moral condition and its material condition "
+            "are one system, and it names three ways the first destroys the second."]),
+        ("The question and its premise", [
+            "The brahmin is quoting: <em>brahmins of the past who were elderly and senior, the tutors "
+            "of tutors, said &mdash; in the old days this world was so full of humans you&rsquo;d "
+            "think they were squashed together.</em> Villages and cities <em>no more than a "
+            "chicken&rsquo;s flight apart</em>.",
+            "The premise is that the population has fallen. It is worth stating plainly that this is "
+            "almost certainly false as history: the general trend of human population in the period "
+            "concerned was upward, and the golden-age-behind-us picture is a common feature of "
+            "traditional societies rather than a demographic observation.",
+            "The Buddha does not challenge it. He answers the question as put, and a reader should "
+            "notice that. He is capable of rejecting a premise &mdash; he does it repeatedly "
+            "elsewhere, and AN 3.57 in this same chapter is nothing but the rejection of a false "
+            "premise. Here he takes the brahmin&rsquo;s picture as given and explains it.",
+            "That leaves two possibilities and it is honest to hold both open: either the decline "
+            "described was a local and real one, which northern India in a period of state formation "
+            "and warfare could easily have produced, or the discourse is working inside a shared "
+            "assumption in order to make a point about conduct. Nothing in the text settles it."]),
+        ("The moral cause", [
+            "All three causes share one origin, stated three times: <em>humans just love illicit "
+            "desire. They&rsquo;re overcome by immoral greed, and mired in wrong custom.</em>",
+            "The Pāli terms are worth having. <em>Adhammarāga</em> is lust for what is not "
+            "<em>dhamma</em> &mdash; desire directed at what one has no business desiring. "
+            "<em>Visamalobha</em> is greed that is <em>visama</em>, uneven or crooked, the same word "
+            "AN 3.50 used for the ground a thief relies on. <em>Micchādhamma</em> is wrong practice "
+            "or wrong custom.",
+            "None of the three is a private failing. They describe a society in which people want "
+            "what is not theirs, want it disproportionately, and have normalized the wanting. That is "
+            "a claim about a shared condition, and it matters for how the rest reads."]),
+        ("Three consequences, and how differently they behave", [
+            "The first is direct: <em>taking up sharp knives, they murder each other. And so many "
+            "people perish.</em> Nothing supernatural is required. A society that has normalized "
+            "taking what is not yours arrives at violence, and violence kills people. No modern "
+            "reader has to strain at this.",
+            "The second is climatic: <em>the heavens don&rsquo;t provide enough rain, so there&rsquo;s "
+            "famine, a bad harvest, with crops blighted and turned to straw.</em> Here the "
+            "resistance starts, and it should be met rather than talked around. The discourse is "
+            "asserting that human moral conduct affects rainfall.",
+            "The third is the folk-cosmological one: <em>native spirits let vicious monsters "
+            "loose.</em> <em>Amanussā</em>, non-human beings, releasing <em>vāḷe amanusse</em>, "
+            "savage non-humans. A reader who has no place in their world for either category will get "
+            "nothing out of this sentence, and no amount of interpretation will change that."]),
+        ("Meeting the objections", [
+            "Three things can be said honestly, and none of them is a rescue.",
+            "First, on the rainfall: the belief that moral order and natural order are one system was "
+            "not peculiar to this text or to India. Han-dynasty China built an entire theory of "
+            "government on it &mdash; 天人感應, the resonance between heaven and humanity, under which "
+            "droughts and eclipses were read as responses to a ruler&rsquo;s conduct. A class in "
+            "Taiwan will find this discourse less foreign than a class in Europe, and that is worth "
+            "using: the assumption is ancient, widespread, and independently arrived at, which "
+            "explains it without making it true.",
+            "Second, on blame: it is one thing to say that a society&rsquo;s corruption produces its "
+            "famines and quite another to tell a starving person that they are being punished. The "
+            "discourse is aggregate throughout &mdash; it never addresses an individual sufferer, and "
+            "it never says that any particular person&rsquo;s misfortune reflects their conduct. That "
+            "distinction is real, and it is also not a complete answer, because a claim of this shape "
+            "has been used to blame the poor for their poverty in every culture that has held it. A "
+            "teacher should say both halves.",
+            "Third, on what survives: strip the second and third causes entirely and the first still "
+            "stands, and the first is the one the discourse states in the most detail. A society "
+            "organized around taking what is not yours kills its own members. That much is not a "
+            "cosmological claim and it has not stopped being true.",
+            "What should not be done is to quietly reinterpret the rain as a metaphor. It is not "
+            "presented as one, and pretending otherwise teaches students that the text can be made to "
+            "say whatever is currently comfortable &mdash; which is a worse lesson than the one they "
+            "would have had to argue with."]),
+        ("Where this fits in the canon", [
+            "The decline schema is not a stray idea here. DN 26, the Wheel-Turning Monarch&rsquo;s "
+            "Lion&rsquo;s Roar, works it out at length and with narrative: a king fails to provide "
+            "for the poor, theft appears, punishment follows, and lying, violence, and finally the "
+            "collapse of human lifespan follow from there, before the process reverses.",
+            "Read together, the two texts show what the schema is for. It is not a theory of natural "
+            "disaster; it is an argument that the conditions of ordinary life are downstream of "
+            "conduct, and that the causal chain runs through recognizable social mechanisms &mdash; "
+            "poverty, theft, retaliation &mdash; rather than through divine punishment. There is no "
+            "judge anywhere in either discourse.",
+            "That is the reading to give a class. The discourse belongs to a family of texts that "
+            "makes moral order continuous with the world&rsquo;s condition, and the interesting "
+            "objection is not whether spirits release monsters but whether the general claim is "
+            "true &mdash; a question about which a room full of adults will have views."]),
+    ],
+    terms=[
+        ("paloka",
+         "&ldquo;breaking apart, dissolution&rdquo; &mdash; the title, naming the process the "
+         "discourse explains."),
+        ("adhammarāga",
+         "&ldquo;illicit desire&rdquo; &mdash; lust for what is not <em>dhamma</em>: desire directed "
+         "at what one has no business desiring."),
+        ("visamalobha",
+         "&ldquo;immoral greed&rdquo; &mdash; greed that is <em>visama</em>, uneven or crooked, the "
+         "same word AN 3.50 uses for the ground a thief relies on."),
+        ("micchādhamma",
+         "&ldquo;wrong custom, wrong practice&rdquo; &mdash; the third term, describing normalization "
+         "rather than an individual act."),
+        ("amanussā",
+         "&ldquo;non-human beings&rdquo; &mdash; the native spirits of the third cause, said to let "
+         "savage non-humans loose."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The question"),
+        ("p", "&sect;1", "an3.56:1.1-1.4"),
+        ("h3", "Three causes"),
+        ("p", "&sect;2", "an3.56:2.1-2.3"),
+        ("p", "&sect;3", "an3.56:3.1-3.5"),
+        ("p", "&sect;4", "an3.56:4.1-4.3"),
+        ("h3", "Going for refuge"),
+        ("p", "&sect;5", "an3.56:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "What premise does the brahmin&rsquo;s question rest on?",
+         "opts": [
+             "That the world was once more virtuous",
+             "That the population has fallen &mdash; the old teachers said villages were no more than a chicken&rsquo;s flight apart",
+             "That the gods have withdrawn",
+             "That brahmins have lost influence"],
+         "correct": 1,
+         "expl": "Almost certainly false as history, and a common feature of traditional societies."},
+        {"q": "What does the Buddha do with the premise?",
+         "opts": [
+             "Rejects it",
+             "Accepts it and answers the question as put &mdash; though he is capable of rejecting premises, and does so in the next discourse",
+             "Refuses to discuss it",
+             "Asks for evidence"],
+         "correct": 1,
+         "expl": "A reader should notice that, and the guide holds two explanations open without settling it."},
+        {"q": "What single moral cause is stated three times?",
+         "opts": [
+             "Neglect of ritual",
+             "Loss of faith",
+             "Loving illicit desire, being overcome by immoral greed, and being mired in wrong custom",
+             "Failure to support renunciates"],
+         "correct": 2,
+         "expl": "None of the three is a private failing; all describe a shared condition."},
+        {"q": "What is the first consequence?",
+         "opts": [
+             "Famine",
+             "Taking up sharp knives, people murder each other",
+             "Disease",
+             "Monsters"],
+         "correct": 1,
+         "expl": "Nothing supernatural is required, and no modern reader has to strain at it."},
+        {"q": "What is the second, and why does the guide say resistance starts there?",
+         "opts": [
+             "Famine after the rains fail &mdash; because the discourse is asserting that human moral conduct affects rainfall",
+             "War, because war is complicated",
+             "Disease, because germs were unknown",
+             "Emigration, because it is unverifiable"],
+         "correct": 0,
+         "expl": "It should be met rather than talked around."},
+        {"q": "What comparison does the guide offer for the rainfall claim?",
+         "opts": [
+             "Greek fate",
+             "Han-dynasty China&rsquo;s 天人感應, under which droughts and eclipses were read as responses to a ruler&rsquo;s conduct",
+             "Roman augury",
+             "Vedic sacrifice only"],
+         "correct": 1,
+         "expl": "Ancient, widespread, and independently arrived at &mdash; which explains it without making it true."},
+        {"q": "What does the guide say about the blame objection?",
+         "opts": [
+             "That it does not apply",
+             "That the discourse is aggregate throughout and never says an individual&rsquo;s misfortune reflects their conduct &mdash; and that this is real but not a complete answer, since claims of this shape have been used to blame the poor everywhere",
+             "That famine victims are indeed responsible",
+             "That the passage should be omitted"],
+         "correct": 1,
+         "expl": "A teacher should say both halves."},
+        {"q": "What does the guide say survives even if the second and third causes are stripped away?",
+         "opts": [
+             "Nothing",
+             "That a society organized around taking what is not yours kills its own members &mdash; not a cosmological claim, and it has not stopped being true",
+             "Only the folk cosmology",
+             "Only the demographic premise"],
+         "correct": 1,
+         "expl": "And it is the cause the discourse states in the most detail."},
+        {"q": "What does the guide say should <em>not</em> be done?",
+         "opts": [
+             "Reading the discourse aloud",
+             "Quietly reinterpreting the rain as a metaphor &mdash; it is not presented as one, and pretending otherwise teaches that the text can be made to say whatever is comfortable",
+             "Mentioning DN 26",
+             "Discussing the objections"],
+         "correct": 1,
+         "expl": "A worse lesson than the one students would have had to argue with."},
+        {"q": "What does DN 26 add to the schema?",
+         "opts": [
+             "A divine judge",
+             "A narrative in which a king fails to provide for the poor, theft appears, punishment follows, and violence and collapse follow from there &mdash; a chain running through social mechanisms rather than divine punishment",
+             "A denial of the decline",
+             "A defense of sacrifice"],
+         "correct": 1,
+         "expl": "There is no judge anywhere in either discourse."},
+    ],
+    marginalia=[
+        ("One cause", [
+            "<span class=\"pali\">adhammarāga</span>illicit desire",
+            "<span class=\"pali\">visamalobha</span>crooked greed",
+            "<span class=\"pali\">micchādhamma</span>wrong custom",
+        ]),
+        ("Three effects", [
+            "sharp knives, mutual killing",
+            "no rain, blighted crops",
+            "spirits loosing monsters",
+        ]),
+        ("What survives the argument", [
+            "the first, entire",
+            "&mdash; no cosmology required",
+        ]),
+        ("Cross-references", [
+            "DN 26 &middot; the schema at length",
+            "AN 3.50 &middot; the same word, <span class=\"pali\">visama</span>",
+            "AN 3.57 &middot; a premise rejected",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.56/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-26.html">DN 26 &middot; The Wheel-Turning Monarch&rsquo;s '
+        "Lion&rsquo;s Roar</a> &mdash; the long version of this schema, where the chain from an "
+        "unprovided-for poor to theft to violence to social collapse is spelled out step by step, and "
+        "then reversed. It is the necessary companion, because it shows the mechanism the short "
+        "discourse assumes.",
+        '<a href="an-3.57.html">AN 3.57 &middot; With Vacchagotta</a> &mdash; the next discourse, '
+        "where a premise put to the Buddha is rejected outright rather than accepted, which is worth "
+        "comparing with what happens here.",
+        '<a href="an-3.50.html">AN 3.50 &middot; A Master Thief</a> &mdash; for the word '
+        "<em>visama</em>, uneven or crooked, used there of the terrain a criminal relies on and here "
+        "of the greed that breaks a society apart.",
+    ],
+)
+
+
+page(
+    57, "Vacchagotta", "With Vacchagotta",
+    vagga=VAGGA_6,
+    meta_title="AN 3.57 — With Vacchagotta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vacchagottasutta — a "
+        "rumor that the Buddha told people to give only to him, the denial, the dishwater, and the "
+        "verse on birth and the yoked bull. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; the wanderer Vacchagotta comes and exchanges greetings"),
+        ("Speakers", "The wanderer Vacchagotta and the Buddha"),
+        ("Form", "A reported accusation, a denial, a threefold consequence, a qualification, and "
+                 "nine verses"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Comparable material on the merit of giving irrespective of recipient, "
+                              "and on birth versus conduct, is preserved in the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the prose is clear and the verses "
+                       "pull in two directions"),
+    ],
+    why=(
+        "Vacchagotta has heard that the Buddha teaches that gifts should be given only to him and "
+        "his disciples, and that only such gifts bear fruit. He comes and asks &mdash; carefully, "
+        "and with the explicit worry that he does not want to misrepresent anyone. The denial is "
+        "flat. What follows is the most generous statement about giving in the collection, a real "
+        "qualification that complicates it, and a set of verses on birth that are among the "
+        "canon&rsquo;s finest."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Preventing somebody from giving damages three people, giving anything to anything is "
+            "worth doing, and a gift to a person who has finished is worth more &mdash; all three at "
+            "once."]),
+        ("How the question is asked", [
+            "Vacchagotta does not accuse. He reports what he has heard, quotes it in full, and then "
+            "asks three careful questions: do those who say this repeat what the Buddha said? Is "
+            "their explanation in line with the teaching? Are there legitimate grounds for rebuttal "
+            "and criticism? And then the reason: <em>for we don&rsquo;t want to misrepresent the "
+            "worthy Gotama.</em>",
+            "This is a model of how to check a rumor about someone, and it is worth showing a class "
+            "the structure: repeat the claim exactly, ask whether it is accurately attributed, ask "
+            "whether it is defensible, and state that your purpose is accuracy rather than attack. "
+            "Vacchagotta appears elsewhere in the canon as a persistent and sometimes exasperating "
+            "questioner; here he is doing something exemplary.",
+            "The rumor itself is worth taking seriously as a piece of evidence. Somebody was saying "
+            "this, in the Buddha&rsquo;s lifetime, loudly enough that a wanderer had heard it. A "
+            "successful religious movement attracting donations will always generate exactly this "
+            "accusation, and the discourse exists because it had to be answered."]),
+        ("The denial, and the three who are damaged", [
+            "&ldquo;Those who say this do not repeat what I have said. They misrepresent me with what "
+            "is false and untrue.&rdquo; No qualification, no partial concession.",
+            "Then the counter-claim: <em>anyone who prevents another from giving makes an obstacle "
+            "and a roadblock for three individuals.</em> The giver is obstructed from making merit. "
+            "The receiver is obstructed from getting what is offered. And &mdash; the third is the "
+            "sharpest &mdash; <em>they&rsquo;ve already broken and damaged themselves.</em>",
+            "The tense in the third clause is doing the work. The obstructor is not warned about a "
+            "future consequence; the damage is described as already done, in the act. Compare AN "
+            "3.50, where the bad mendicant likewise <em>keeps themselves broken and damaged</em>.",
+            "It is also worth noticing what the discourse takes an interest in defending. Not the "
+            "Saṅgha&rsquo;s income, and not the Buddha&rsquo;s reputation, but the transaction itself "
+            "&mdash; somebody&rsquo;s opportunity to give something to somebody."]),
+        ("Dishwater", [
+            "&ldquo;You even make merit by tipping out dish-washing water in a cesspool or a sump "
+            "with living creatures in it, thinking, &lsquo;may any creatures here be "
+            "nourished!&rsquo; How much more then for human beings!&rdquo;",
+            "This is the lowest threshold for meritorious giving stated anywhere in the canon, and it "
+            "should be quoted exactly rather than paraphrased. The gift is waste water. The recipients "
+            "are whatever lives in a sump. The one requirement is the thought accompanying it.",
+            "Set beside AN 3.41, which said merit requires a gift to give and a worthy recipient, this "
+            "settles what those conditions mean in practice. They are not a wealth test and not a "
+            "recipient test. What is being ruled out by AN 3.41 is giving as a purely internal event; "
+            "what is being ruled in here is essentially everything else."]),
+        ("The qualification that complicates it", [
+            "&ldquo;However, I also say that a gift to an ethical person is more fruitful than one to "
+            "an unethical person.&rdquo; And then a specification: they have given up five factors "
+            "&mdash; the five hindrances &mdash; and possess five: the ethics, immersion, wisdom, "
+            "freedom, and knowledge and vision of freedom of an adept.",
+            "So the discourse denies the exclusive claim and keeps a comparative one. Give to "
+            "anything; giving to a finished person is worth more. Both halves are stated in the same "
+            "breath and a reader is not permitted to keep only the one they prefer.",
+            "The five-and-five specification is not a description of the Buddha&rsquo;s own "
+            "followers as an institution. It is a description of a condition, and anyone in any "
+            "tradition who met it would qualify. That is the difference between the claim the "
+            "discourse makes and the claim it was accused of making, and it is a real difference."]),
+        ("The verses, and the tension they create", [
+            "The first verses are among the best-known statements in the canon about birth. Cows come "
+            "in every color &mdash; black, white, red, tawny, mottled, uniform, pigeon-colored "
+            "&mdash; and when a tamed bull is born among them, powerful and well-paced, <em>they yoke "
+            "the load just to him, regardless of his color.</em>",
+            "The application names the four classes and goes below them: <em>among aristocrats, "
+            "brahmins, peasants, menials, or corpse-workers and scavengers</em> &mdash; "
+            "<em>caṇḍāla-pukkusa</em>, the groups outside the class system entirely, whose "
+            "occupations made them untouchable. One born among any of them, tamed and true to their "
+            "vows, who has given up birth and death, is <em>that flawless field</em> in which a "
+            "donation is abundant.",
+            "This is the canon&rsquo;s standard position and it is stated here with unusual force: "
+            "the field of merit is made by attainment and the yoke goes on the bull that can pull.",
+            "And then the last verses turn: <em>fools who don&rsquo;t understand &mdash; unlearned "
+            "simpletons &mdash; give their gifts to those outside, and don&rsquo;t attend the "
+            "peaceful ones.</em>",
+            "That sits awkwardly with everything before it, and the awkwardness should be named "
+            "rather than smoothed. A discourse that opened by denying &ldquo;give only to my "
+            "disciples&rdquo; closes with a verse calling people fools for giving <em>to those "
+            "outside</em>. The most defensible reading is that <em>bāhirā</em>, those outside, means "
+            "those outside the description just given &mdash; the five-and-five, the tamed and "
+            "quenched &mdash; rather than outside an institution, which is exactly what the "
+            "bull-and-cow verses were arguing. But a plainer sectarian reading is available in the "
+            "words, and the honest thing is to say that the prose and the closing verses are pulling "
+            "in different directions, as the Threes&rsquo; verses often do."]),
+    ],
+    terms=[
+        ("vacchagotta",
+         "a wanderer who appears repeatedly in the canon as a questioner, most famously in MN 72 on "
+         "what is and is not said about a perfected one after death."),
+        ("antarāyakara",
+         "&ldquo;one who makes an obstacle&rdquo; &mdash; said of anyone who prevents another from "
+         "giving, and the damage to the obstructor is described as already done."),
+        ("dakkhiṇeyya",
+         "&ldquo;worthy of offerings&rdquo; &mdash; specified here as one who has given up the five "
+         "hindrances and possesses the five factors of an adept."),
+        ("khetta",
+         "&ldquo;field&rdquo; &mdash; the verses&rsquo; image for a recipient, and the origin of the "
+         "East Asian idiom of the field of merit, 福田."),
+        ("caṇḍāla pukkusa",
+         "&ldquo;corpse-workers and scavengers&rdquo; &mdash; groups outside the four classes "
+         "entirely. The verse names them among those in whom a perfected person may be born."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "What Vacchagotta has heard"),
+        ("p", "&sect;1", "an3.57:1.1-1.14"),
+        ("h3", "The denial"),
+        ("p", "&sect;2", "an3.57:2.1-2.9"),
+        ("h3", "Dishwater, and a qualification"),
+        ("p", "&sect;3", "an3.57:3.1-3.5"),
+        ("p", "&sect;4", "an3.57:4.1-4.3"),
+        ("p", "&sect;5", "an3.57:5.1-5.4"),
+        ("h3", "In verse"),
+        ("p", "&sect;6&ndash;7", "an3.57:6.1-7.6"),
+        ("p", "&sect;8&ndash;9", "an3.57:8.1-9.4"),
+        ("p", "&sect;10&ndash;11", "an3.57:10.1-11.4"),
+        ("p", "&sect;12&ndash;14", "an3.57:12.1-14.4"),
+    ],
+    quiz=[
+        {"q": "What has Vacchagotta heard?",
+         "opts": [
+             "That the Buddha rejects giving",
+             "That the Buddha says gifts should be given only to him and his disciples, and that only such gifts are very fruitful",
+             "That the Buddha accepts no gifts",
+             "That the Buddha favors brahmins"],
+         "correct": 1,
+         "expl": "Somebody was saying this, loudly enough that a wanderer had heard it."},
+        {"q": "How does he raise it?",
+         "opts": [
+             "As an accusation",
+             "By repeating the claim exactly, asking whether it is accurately attributed and whether it is defensible, and saying his purpose is not to misrepresent anyone",
+             "By demanding a public debate",
+             "By asking a disciple first"],
+         "correct": 1,
+         "expl": "A model of how to check a rumor about someone."},
+        {"q": "How does the Buddha respond to the report?",
+         "opts": [
+             "With a partial concession",
+             "By explaining the context",
+             "Flatly &mdash; those who say this do not repeat what he said and misrepresent him with what is false and untrue",
+             "By declining to comment"],
+         "correct": 2,
+         "expl": "No qualification."},
+        {"q": "Whom does preventing another from giving damage?",
+         "opts": [
+             "Only the giver",
+             "Only the receiver",
+             "Three: the giver, obstructed from making merit; the receiver, obstructed from getting what is offered; and the obstructor, already broken and damaged",
+             "Nobody, in this life"],
+         "correct": 2,
+         "expl": "The tense of the third clause does the work: the damage is done in the act."},
+        {"q": "What is the lowest threshold for meritorious giving that the discourse states?",
+         "opts": [
+             "A meal for one monk",
+             "Tipping dish-washing water into a cesspool with living creatures in it, thinking &ldquo;may any creatures here be nourished&rdquo;",
+             "A single coin",
+             "A day of service"],
+         "correct": 1,
+         "expl": "The gift is waste water; the recipients are whatever lives in a sump; the requirement is the thought."},
+        {"q": "What does that settle about AN 3.41&rsquo;s conditions?",
+         "opts": [
+             "That they were wrong",
+             "That they are not a wealth test and not a recipient test &mdash; what is ruled out is giving as a purely internal event",
+             "That only monastics may receive",
+             "That merit is unlimited"],
+         "correct": 1,
+         "expl": "What is ruled in here is essentially everything else."},
+        {"q": "What qualification does the Buddha then add?",
+         "opts": [
+             "That gifts to his disciples alone bear fruit",
+             "That a gift to an ethical person is more fruitful &mdash; one who has given up the five hindrances and possesses the five factors of an adept",
+             "That gifts to animals bear no fruit",
+             "That the amount matters"],
+         "correct": 1,
+         "expl": "The exclusive claim is denied and a comparative one is kept, in the same breath."},
+        {"q": "Why does the guide say the five-and-five specification matters?",
+         "opts": [
+             "Because it lists monastic ranks",
+             "Because it describes a condition rather than an institution &mdash; anyone in any tradition who met it would qualify",
+             "Because it excludes laypeople",
+             "Because it is easy to verify"],
+         "correct": 1,
+         "expl": "That is the difference between the claim made and the claim he was accused of making."},
+        {"q": "What do the bull-and-cow verses argue?",
+         "opts": [
+             "That cattle should be protected",
+             "That color is a sign of quality",
+             "That the yoke goes to the tamed bull regardless of his color &mdash; and, applied to humans, that the flawless field is made by attainment and not by birth, including among those outside the four classes entirely",
+             "That brahmins are naturally superior"],
+         "correct": 2,
+         "expl": "<em>Caṇḍāla-pukkusa</em> names groups whose occupations made them untouchable."},
+        {"q": "What tension does the guide name in the closing verses?",
+         "opts": [
+             "None",
+             "That a discourse which opened by denying &ldquo;give only to my disciples&rdquo; closes by calling people fools for giving to those outside &mdash; and that while <em>outside</em> most defensibly means outside the description just given, a plainer sectarian reading is available in the words",
+             "That the verses deny merit entirely",
+             "That the verses contradict the caste teaching"],
+         "correct": 1,
+         "expl": "The prose and the closing verses pull in different directions, as the Threes&rsquo; verses often do."},
+    ],
+    marginalia=[
+        ("Three obstructed", [
+            "the giver &middot; merit",
+            "the receiver &middot; what is offered",
+            "the obstructor &middot; already damaged",
+        ]),
+        ("The threshold", [
+            "dish-washing water",
+            "a cesspool or sump",
+            "&ldquo;may any creatures here be nourished&rdquo;",
+        ]),
+        ("The verse on birth", [
+            "cows of every color",
+            "the yoke goes to the tamed bull",
+            "aristocrat to scavenger alike",
+        ]),
+        ("Cross-references", [
+            "AN 3.41 &middot; the three conditions",
+            "MN 93 &middot; birth argued at length",
+            "AN 3.13 &middot; caste in this collection",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.57/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-093.html">MN 93 &middot; With Assalāyana</a> &mdash; the '
+        "canon&rsquo;s longest argument against birth as a ground of purity, conducted against a "
+        "brahmin trained for the purpose. The verses here state the conclusion; that discourse shows "
+        "the work.",
+        '<a href="an-3.41.html">AN 3.41 &middot; Present</a> &mdash; the three conditions for '
+        "meritorious giving, which this discourse&rsquo;s dishwater sets the floor for.",
+        '<a href="an-3.13.html">AN 3.13 &middot; Hopes</a> &mdash; where this collection&rsquo;s '
+        "handling of caste language is treated directly, and worth reading beside these verses.",
+        '<a href="../majjhima-nikaya/mn-072.html">MN 72 &middot; With Vacchagotta on Fire</a> '
+        "&mdash; the same questioner in his most famous appearance, which shows what kind of "
+        "interlocutor he is across the canon.",
+    ],
+)
+
+
+page(
+    58, "Tikaṇṇa", "With Tikaṇṇa",
+    vagga=VAGGA_6,
+    meta_title="AN 3.58 — With Tikaṇṇa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Tikaṇṇasutta — a brahmin "
+        "praises the masters of the three Vedas, and the term is taken away from him and given to "
+        "somebody else. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Tikaṇṇa the brahmin comes and exchanges greetings"),
+        ("Speakers", "Tikaṇṇa the brahmin and the Buddha"),
+        ("Form", "A boast, a question about definitions, a counter-definition given in full, six "
+                 "verses, and a concession"),
+        ("Length", "~8 minutes to read"),
+        ("Northern parallel", "The reinterpretation of the three knowledges is preserved in the "
+                              "Chinese Āgamas and the term entered Chinese as 三明; the fuller Pāli "
+                              "treatment of the brahmin claim is DN 13; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; long, and most of its length is "
+                       "standard formulas worth learning"),
+    ],
+    why=(
+        "Tikaṇṇa sits down in front of the Buddha and praises brahmins who have mastered the three "
+        "Vedas &mdash; the <em>tevijjā</em>, three-knowledge men, the highest qualification his world "
+        "had. The Buddha asks him to define the term, listens to a definition made of ancestry and "
+        "memorization, and then says that a three-knowledge man in the training of the Noble One is "
+        "something else entirely. What follows is the whole path in one passage, and at the end "
+        "Tikaṇṇa concedes his own term."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The word for the highest qualification is kept and its content is replaced: three "
+            "knowledges, but knowledge of what you have lived, what happens to beings, and how "
+            "defilements end."]),
+        ("What Tikaṇṇa says a three-knowledge man is", [
+            "His definition has two halves and both are worth reading slowly.",
+            "The first is descent: <em>well born on both his mother&rsquo;s and father&rsquo;s side, "
+            "of pure descent, with irrefutable and impeccable genealogy back to the seventh paternal "
+            "generation.</em> Seven generations, and the claim must be unimpeachable on both sides.",
+            "The second is curriculum: the hymns recited and remembered; the three Vedas mastered "
+            "together with their vocabularies and ritual performance, phonology and word "
+            "classification, and the testaments as fifth; known word by word with their grammar; and "
+            "competence in cosmology and the marks of a great man.",
+            "This is an accurate description of a real education, and it was a formidable one. "
+            "Nothing in the discourse mocks it. The Buddha does not say the curriculum is worthless "
+            "or the scholarship shallow; he says the term is being used for something else in his "
+            "own training, and asks nothing about whether Tikaṇṇa&rsquo;s definition is a good "
+            "definition of a brahmin.",
+            "Notice also that the first half of the definition is inherited and the second is earned. "
+            "The counter-definition that follows has no inherited half at all."]),
+        ("The four absorptions", [
+            "The reply begins where this collection&rsquo;s descriptions of practice always begin: "
+            "with the four <em>jhānas</em>, given in the standard formula.",
+            "First: secluded from sensual pleasures and unskillful qualities, with rapture and bliss "
+            "born of seclusion, while placing the mind and keeping it connected. Second: those two "
+            "stilled, with internal clarity and mind at one. Third: rapture fading, equanimous, "
+            "mindful, aware. Fourth: pleasure and pain given up, with pure equanimity and mindfulness.",
+            "It is worth pointing out to a class that the Buddha answers a question about knowledge "
+            "with a description of meditation. Tikaṇṇa asked what makes someone a master of three "
+            "knowledges; the answer starts with what the mind has to be like before any of the three "
+            "is available.",
+            "The state that results is described with eight adjectives &mdash; <em>purified, bright, "
+            "flawless, rid of corruptions, pliable, workable, steady, and imperturbable</em> &mdash; "
+            "and the same eight recur before each of the three knowledges. <em>Kammanīya</em>, "
+            "workable, is the key one: the mind is being described as an instrument that has been "
+            "made fit for use."]),
+        ("The three knowledges", [
+            "<em>First</em>, recollection of past lives, in the formula that runs from one life to a "
+            "hundred thousand and out into eons of the world contracting and expanding, with "
+            "<em>features and details</em> &mdash; name, clan, appearance, food, pleasure and pain, "
+            "and how each life ended.",
+            "<em>Second</em>, the divine eye: seeing beings pass away and be reborn according to "
+            "their deeds, inferior and superior, in a good place or bad, with the mechanism stated "
+            "&mdash; bad conduct and wrong view leading one way, good conduct and right view the "
+            "other.",
+            "<em>Third</em>, the ending of defilements: understanding suffering, its origin, its "
+            "cessation, and the practice; then the same four applied to the defilements themselves; "
+            "then the mind freed from sensuality, desire to be reborn, and ignorance, with the "
+            "knowledge that it is freed.",
+            "The three are not parallel. The first two are extraordinary capacities and the third is "
+            "the point; the canon says so elsewhere plainly, and the structure says it here. Each of "
+            "the first two ends with the same refrain about ignorance banished and light arisen, and "
+            "the third ends with <em>rebirth is ended, what had to be done has been done</em>.",
+            "A modern reader will be more comfortable with the third than the first two, and it is "
+            "worth saying that the discourse does not offer that option. The three are presented as "
+            "one sequence available to one mind in one condition. A reader who accepts only the third "
+            "is departing from the text, which is permissible, but should be done knowingly rather "
+            "than by quietly not mentioning the other two."]),
+        ("The substitution, and what it costs", [
+            "The verses make the claim explicit: <em>it&rsquo;s because of these three knowledges "
+            "that a brahmin is a master of the three knowledges. That&rsquo;s who I call a "
+            "three-knowledge master, and not the other who repeats what they are told.</em>",
+            "<em>Anumānena</em> &mdash; the last phrase dismisses the transmitted knowledge of the "
+            "Vedic scholar as repetition. That is the sharpest sentence in the discourse and the only "
+            "one that could be called an attack.",
+            "Note what has been substituted. All three replacement knowledges are first-hand: "
+            "something you remember, something you see, something you verify in yourself. The brahmin "
+            "definition was ancestry plus texts; the replacement is memory plus vision plus "
+            "verification. The word <em>vijjā</em>, knowledge, is being pulled from what one has "
+            "learned toward what one has undergone.",
+            "This is the same move as AN 3.31, where brahmin titles were reassigned to parents, and "
+            "as AN 3.53, where the value of a teaching was located in what a person can check. The "
+            "Brāhmaṇavagga is doing one thing over and over, and this is its clearest instance."]),
+        ("Tikaṇṇa&rsquo;s answer", [
+            "He concedes twice. First: <em>a master of three knowledges according to the brahmins is "
+            "quite different from a master of the three knowledges in the training of the Noble "
+            "One</em> &mdash; which is only agreement that the terms differ. Then: <em>and is not "
+            "worth a sixteenth part</em> of it.",
+            "The sixteenth is a standard idiom of the canon for a large but finite ratio, and using "
+            "it is Tikaṇṇa&rsquo;s own act; nobody asked him to rank the two. He came praising the "
+            "brahmin qualification out loud and leaves having valued it at a sixteenth of the "
+            "alternative and gone for refuge as a lay follower.",
+            "The next discourse, AN 3.59, is the same exchange with Jānussoṇi, in abbreviated form "
+            "and with a different opening. Reading them together shows the pattern: the term is asked "
+            "for, defined, replaced, and conceded."]),
+    ],
+    terms=[
+        ("tevijja",
+         "&ldquo;master of the three knowledges&rdquo; &mdash; the brahmin title for a master of the "
+         "three Vedas, taken over here for the three higher knowledges and entering Chinese as 三明."),
+        ("yāva sattamā pitāmahayugā",
+         "&ldquo;back to the seventh paternal generation&rdquo; &mdash; the ancestry requirement in "
+         "the brahmin definition, and the half the counter-definition has no equivalent of."),
+        ("kammanīya",
+         "&ldquo;workable&rdquo; &mdash; one of the eight adjectives for the mind in the fourth "
+         "absorption, describing it as an instrument made fit for use."),
+        ("pubbenivāsānussati",
+         "&ldquo;recollection of past lives&rdquo; &mdash; the first knowledge, with features and "
+         "details rather than a general impression."),
+        ("āsavakkhaya",
+         "&ldquo;the ending of defilements&rdquo; &mdash; the third knowledge, and the one the other "
+         "two are arranged around."),
+    ],
+    text_intro=(
+        "The discourse in full, with all three knowledges given in the standard formulas and the "
+        "closing verses. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A brahmin praises the three-knowledge men"),
+        ("p", "&sect;1", "an3.58:1.1-1.3"),
+        ("p", "&sect;2", "an3.58:2.1-2.3"),
+        ("p", "&sect;3", "an3.58:3.1-3.6"),
+        ("h3", "The four absorptions"),
+        ("p", "&sect;4", "an3.58:4.1-4.4"),
+        ("h3", "Three knowledges"),
+        ("p", "&sect;5", "an3.58:5.1-5.4"),
+        ("p", "&sect;6", "an3.58:6.1-6.4"),
+        ("p", "&sect;7", "an3.58:7.1-7.8"),
+        ("h3", "In verse"),
+        ("p", "&sect;8&ndash;10", "an3.58:8.1-10.4"),
+        ("p", "&sect;11&ndash;12", "an3.58:11.1-12.4"),
+        ("h3", "Not worth a sixteenth part"),
+        ("p", "&sect;13&ndash;14", "an3.58:13.1-14.2"),
+    ],
+    quiz=[
+        {"q": "What is Tikaṇṇa praising when the discourse opens?",
+         "opts": [
+             "The Buddha",
+             "Brahmins who are masters of the three Vedas &mdash; the highest qualification his world had",
+             "His own learning",
+             "The king"],
+         "correct": 1,
+         "expl": "He says it out loud, in front of the Buddha."},
+        {"q": "What two halves does his definition have?",
+         "opts": [
+             "Wealth and learning",
+             "Ancestry &mdash; pure descent back to the seventh paternal generation &mdash; and curriculum: the three Vedas with their ancillary sciences, known word by word",
+             "Ordination and practice",
+             "Ritual and meditation"],
+         "correct": 1,
+         "expl": "The first half is inherited and the second is earned."},
+        {"q": "How does the Buddha treat that definition?",
+         "opts": [
+             "He mocks it",
+             "He does not attack it &mdash; he says the term is used for something else in his own training",
+             "He denies that brahmins exist",
+             "He asks for proof of the genealogy"],
+         "correct": 1,
+         "expl": "He never says the curriculum is worthless or the scholarship shallow."},
+        {"q": "Where does the counter-definition begin?",
+         "opts": [
+             "With ethics",
+             "With the four absorptions &mdash; a question about knowledge answered with a description of meditation",
+             "With study",
+             "With ordination"],
+         "correct": 1,
+         "expl": "The answer starts with what the mind has to be like before any of the three is available."},
+        {"q": "What does <em>kammanīya</em> describe?",
+         "opts": [
+             "The mind as workable &mdash; an instrument made fit for use",
+             "The body as healthy",
+             "Speech as truthful",
+             "Deeds as meritorious"],
+         "correct": 0,
+         "expl": "One of eight adjectives repeated before each of the three knowledges."},
+        {"q": "What are the three knowledges?",
+         "opts": [
+             "Ethics, immersion, and wisdom",
+             "The three Vedas, reinterpreted",
+             "Recollection of past lives; seeing beings pass away and be reborn according to their deeds; and the ending of defilements",
+             "Faith, energy, and mindfulness"],
+         "correct": 2,
+         "expl": "The first two are extraordinary capacities; the third is the point."},
+        {"q": "How does the guide handle a reader comfortable only with the third?",
+         "opts": [
+             "By treating the first two as metaphors",
+             "By saying the discourse does not offer that option, and that a reader who accepts only the third is departing from the text &mdash; which is permissible if done knowingly",
+             "By omitting them",
+             "By insisting they be believed"],
+         "correct": 1,
+         "expl": "The three are presented as one sequence available to one mind in one condition."},
+        {"q": "What is the sharpest line in the discourse?",
+         "opts": [
+             "That brahmins are impure",
+             "That the Vedas are false",
+             "That the other &mdash; the one who repeats what they are told &mdash; is not who he calls a three-knowledge master",
+             "That sacrifice is useless"],
+         "correct": 2,
+         "expl": "The only sentence that could be called an attack."},
+        {"q": "What kind of knowledge is being substituted?",
+         "opts": [
+             "Textual for oral",
+             "First-hand &mdash; something you remember, something you see, something you verify in yourself &mdash; in place of ancestry plus texts",
+             "Ritual for scholastic",
+             "Public for private"],
+         "correct": 1,
+         "expl": "<em>Vijjā</em> is pulled from what one has learned toward what one has undergone."},
+        {"q": "What does Tikaṇṇa say at the end?",
+         "opts": [
+             "That the two terms are equally good",
+             "That the brahmin master is not worth a sixteenth part of the other &mdash; his own valuation, which nobody asked him for",
+             "That he will consider it",
+             "That he rejects the argument"],
+         "correct": 1,
+         "expl": "He came praising the brahmin qualification and leaves having ranked it at a sixteenth."},
+    ],
+    marginalia=[
+        ("His definition", [
+            "seven generations, both sides",
+            "three Vedas and five sciences",
+            "&mdash; inherited, then earned",
+        ]),
+        ("Three knowledges", [
+            "past lives, with details",
+            "beings passing on by their deeds",
+            "the ending of defilements",
+        ]),
+        ("The refrain", [
+            "&ldquo;ignorance is banished",
+            "and knowledge has arisen&rdquo;",
+            "&mdash; after each of the three",
+        ]),
+        ("Cross-references", [
+            "DN 13 &middot; the three Vedas argued",
+            "AN 3.59 &middot; the same, with Jānussoṇi",
+            "AN 3.31 &middot; brahmin titles reassigned",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.58/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-13.html">DN 13 &middot; The Knowledge of the Three Vedas</a> '
+        "&mdash; the long discourse on the same title, where two young brahmins ask which path leads "
+        "to union with Brahmā and the argument runs through the chain of teachers who have all "
+        "reported without seeing. It is the full version of the objection this discourse compresses "
+        "into one verse.",
+        '<a href="an-3.59.html">AN 3.59 &middot; With Jānussoṇi</a> &mdash; the same exchange in '
+        "abbreviated form, with a different opening question about who deserves a sacrifice.",
+        '<a href="an-3.31.html">AN 3.31 &middot; With Divinity</a> &mdash; the chapter&rsquo;s other '
+        "reassignment of a brahmin title, and a good companion for showing what the Brāhmaṇavagga "
+        "does repeatedly.",
+        '<a href="an-3.33.html">AN 3.33 &middot; With Sāriputta</a> &mdash; where the same fourth '
+        "absorption formula appears inside a quoted verse, which is worth comparing with its use "
+        "here.",
+    ],
+)
+
+
+page(
+    59, "Jāṇussoṇi", "With Jānussoṇi",
+    vagga=VAGGA_6,
+    meta_title="AN 3.59 — With Jānussoṇi | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Jāṇussoṇisutta — who "
+        "should receive a sacrifice, answered by redefining the qualification. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; the brahmin Jānussoṇi comes and exchanges greetings"),
+        ("Speakers", "The brahmin Jānussoṇi and the Buddha"),
+        ("Form", "A recommendation about offerings, a question about definitions, the abbreviated "
+                 "three knowledges, four verses, and a concession"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same content as AN 3.58 with "
+                       "the formulas abbreviated, and a different opening"),
+    ],
+    why=(
+        "Jānussoṇi opens not with a boast but with a rule for religious spending: whoever has a "
+        "sacrifice, an offering for the ancestors, a dish of milk-rice for an auspicious ceremony, or "
+        "a gift to give, <em>should give it to the brahmins who have mastered the three Vedic "
+        "knowledges</em>. The Buddha does not argue about who should receive gifts. He asks what a "
+        "three-knowledge man is, and by the end the recommendation is still standing while its "
+        "content has been replaced."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Keep the rule about who deserves an offering and change who satisfies it."]),
+        ("The difference from AN 3.58", [
+            "The two discourses share a body and differ at the head. Tikaṇṇa was praising a "
+            "qualification; Jānussoṇi is directing money.",
+            "His list is specific and covers the range of brahmanical religious expenditure: "
+            "<em>yañña</em>, a sacrifice; <em>saddha</em>, an offering of food for ancestors; "
+            "<em>thālipāka</em>, a dish of milk-rice for an auspicious ceremony; and simply "
+            "<em>deyyadhamma</em>, a gift to give. Three of the four are ritual and the fourth is the "
+            "ordinary word AN 3.41 used.",
+            "So the question in front of the Buddha is not doctrinal but economic: to whom should the "
+            "religious budget of a household go? That makes his answer more interesting rather than "
+            "less, because he does not dispute the category. He accepts that offerings should go to "
+            "three-knowledge men and then takes over the definition of the term."]),
+        ("Why he does not simply say &ldquo;give to us&rdquo;", [
+            "It is worth pausing here, especially having read AN 3.57 two discourses earlier, where "
+            "the Buddha flatly denied ever having said that gifts should go only to him and his "
+            "disciples.",
+            "The consistency is exact. Here he is handed a perfect opening &mdash; a wealthy brahmin "
+            "asking who deserves offerings &mdash; and he answers with a description of a condition, "
+            "not a group. Anyone who has the three knowledges qualifies; nothing in the answer names "
+            "the Saṅgha, and nothing excludes anyone who meets the description.",
+            "That pattern is worth showing a class, because the two discourses are four pages apart "
+            "in the same chapter and were presumably arranged that way. A rumor is denied; then the "
+            "situation in which the rumor would have been true arrives, and the denial holds."]),
+        ("The abbreviated formulas", [
+            "The three knowledges are given here in the collection&rsquo;s shortened form. The four "
+            "absorptions collapse to <em>quite secluded from sensual pleasures &hellip; enters and "
+            "remains in the fourth absorption</em>. The recollection of past lives becomes <em>they "
+            "recollect many kinds of past lives, with features and details</em>, without the long "
+            "enumeration. The divine eye keeps its opening and drops the account of how deeds lead to "
+            "one destination or the other.",
+            "Only the third knowledge is given at full length, with the four truths, the four "
+            "propositions about defilements, and the closing declaration that rebirth is ended.",
+            "That is not an accident of transmission. The abbreviations in this collection are "
+            "generally applied to what the reciter already knows, and the material kept at full "
+            "length is the material being emphasized. AN 3.58 gave everything; AN 3.59 gives the "
+            "skeleton and one complete limb, and the complete limb is the ending of defilements.",
+            "For a reader working through the collection in order, this is also a first lesson in how "
+            "to read an abbreviated discourse: the ellipsis is an instruction to supply the formula "
+            "from the previous page, not an indication that something has been lost."]),
+        ("What a sacrifice is being redirected to", [
+            "Jānussoṇi&rsquo;s question assumed a transaction: an offering goes to a qualified "
+            "recipient and produces a result. Nothing in the answer disputes the transaction, which "
+            "is worth noticing in a tradition often described as having rejected sacrifice.",
+            "What it disputes is the qualification. The brahmin criterion was descent and "
+            "memorization; the replacement is three first-hand knowledges, the last of which is the "
+            "end of the defilements. A recipient qualifies by what has happened to them.",
+            "The verses put it in the form that recurs throughout this chapter: <em>because of these "
+            "three knowledges a brahmin is a master of the three knowledges. That&rsquo;s who I call "
+            "a three-knowledge master, and not the other who repeats what they are told.</em>",
+            "The word <em>brāhmaṇa</em> is not being abandoned in these verses; it is being kept and "
+            "requalified. That is a consistent policy in the canon &mdash; the Dhammapada&rsquo;s "
+            "final chapter does the same thing at length for the whole vocabulary of brahminhood "
+            "&mdash; and it is a more interesting strategy than rejection would have been."]),
+        ("Using it", [
+            "Read AN 3.58 and AN 3.59 as a pair, and use this one to make the point about "
+            "consistency: a religious teacher was asked who should get the donations and answered "
+            "with a job description rather than an address.",
+            "For a class that has already met AN 3.53 and AN 3.55, the Brāhmaṇavagga&rsquo;s method "
+            "should by now be visible. A brahmin arrives holding a term &mdash; a teaching apparent "
+            "here and now, extinguishment, three knowledges, a worthy recipient &mdash; and leaves "
+            "with the same term meaning something he can check rather than something he inherited."]),
+    ],
+    terms=[
+        ("yañña",
+         "&ldquo;sacrifice&rdquo; &mdash; the first of the four kinds of religious expenditure "
+         "Jānussoṇi names."),
+        ("saddha",
+         "an offering of food for ancestors &mdash; not to be confused with <em>saddhā</em>, faith. "
+         "The rite corresponds to the ancestral offerings that Chinese critics later accused "
+         "Buddhists of neglecting."),
+        ("thālipāka",
+         "&ldquo;a dish of milk-rice&rdquo; &mdash; prepared for an auspicious ceremony, the third "
+         "item on the list."),
+        ("tevijja",
+         "&ldquo;master of the three knowledges&rdquo; &mdash; the qualification whose definition the "
+         "whole discourse is about."),
+        ("anumānena",
+         "&ldquo;by inference, by repetition&rdquo; &mdash; the verses&rsquo; dismissal of the one "
+         "who repeats what he is told."),
+    ],
+    text_intro=(
+        "The discourse in full, with the formulas in the abbreviated form the collection uses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Who should receive an offering"),
+        ("p", "&sect;1", "an3.59:1.1-1.5"),
+        ("p", "&sect;2", "an3.59:2.1-2.6"),
+        ("h3", "Three knowledges, abbreviated"),
+        ("p", "&sect;3", "an3.59:3.1-3.2"),
+        ("p", "&sect;4", "an3.59:4.1-4.4"),
+        ("p", "&sect;5", "an3.59:5.1-5.4"),
+        ("p", "&sect;6", "an3.59:6.1-6.8"),
+        ("h3", "In verse"),
+        ("p", "&sect;7&ndash;9", "an3.59:7.1-9.4"),
+        ("h3", "Not worth a sixteenth part"),
+        ("p", "&sect;10&ndash;11", "an3.59:10.1-11.2"),
+    ],
+    quiz=[
+        {"q": "How does Jānussoṇi open?",
+         "opts": [
+             "By praising a qualification",
+             "By stating a rule for religious spending &mdash; sacrifices, ancestral offerings, milk-rice for a ceremony, or a gift should go to brahmins who have mastered the three Vedic knowledges",
+             "By asking about rebirth",
+             "By challenging the Buddha"],
+         "correct": 1,
+         "expl": "Tikaṇṇa was praising; Jānussoṇi is directing money."},
+        {"q": "What does the Buddha dispute?",
+         "opts": [
+             "That offerings should be made at all",
+             "Not the category but the qualification &mdash; he accepts that offerings go to three-knowledge men and takes over the definition",
+             "That brahmins may receive gifts",
+             "The value of ancestral rites"],
+         "correct": 1,
+         "expl": "The question in front of him is economic, and he answers it by redefining a term."},
+        {"q": "Why is this discourse worth reading after AN 3.57?",
+         "opts": [
+             "Because it repeats the same verses",
+             "Because he is handed a perfect opening to say &ldquo;give to us&rdquo; and instead answers with a description of a condition, not a group",
+             "Because Vacchagotta reappears",
+             "Because it names the Saṅgha"],
+         "correct": 1,
+         "expl": "A rumor is denied, and then the situation in which it would have been true arrives, and the denial holds."},
+        {"q": "How are the formulas presented here?",
+         "opts": [
+             "In full, as in AN 3.58",
+             "Abbreviated &mdash; the absorptions collapsed, the first two knowledges shortened, and only the ending of defilements given at full length",
+             "In verse only",
+             "Omitted entirely"],
+         "correct": 1,
+         "expl": "The material kept at full length is the material being emphasized."},
+        {"q": "What does the guide say an ellipsis in this collection means?",
+         "opts": [
+             "That text has been lost",
+             "That the passage is doubtful",
+             "That the reciter should supply the formula from the previous page &mdash; it is an instruction, not a gap",
+             "That the passage is optional"],
+         "correct": 2,
+         "expl": "The abbreviations are applied to what the reciter already knows."},
+        {"q": "What are the four kinds of expenditure Jānussoṇi names?",
+         "opts": [
+             "Sacrifice, an offering for ancestors, milk-rice for an auspicious ceremony, and simply a gift to give",
+             "Food, robes, lodging, and medicine",
+             "Temple, image, text, and teacher",
+             "Land, cattle, gold, and grain"],
+         "correct": 0,
+         "expl": "Three of the four are ritual and the fourth is the ordinary word AN 3.41 used."},
+        {"q": "What does the discourse <em>not</em> dispute about sacrifice?",
+         "opts": [
+             "The transaction itself &mdash; that an offering goes to a qualified recipient and produces a result",
+             "That brahmins exist",
+             "That gifts matter",
+             "That ancestors exist"],
+         "correct": 0,
+         "expl": "Worth noticing in a tradition often described as having rejected sacrifice."},
+        {"q": "What replaces descent and memorization as the qualification?",
+         "opts": [
+             "Ordination",
+             "Three first-hand knowledges, the last of which is the ending of defilements &mdash; a recipient qualifies by what has happened to them",
+             "Seniority",
+             "Poverty"],
+         "correct": 1,
+         "expl": "The verses put it in the form that recurs throughout this chapter."},
+        {"q": "What happens to the word <em>brāhmaṇa</em> in the verses?",
+         "opts": [
+             "It is abandoned",
+             "It is kept and requalified &mdash; a consistent policy, which the Dhammapada&rsquo;s final chapter carries out at length",
+             "It is mocked",
+             "It is restricted to monastics"],
+         "correct": 1,
+         "expl": "A more interesting strategy than rejection would have been."},
+        {"q": "What method does the guide say the Brāhmaṇavagga uses repeatedly?",
+         "opts": [
+             "Refusing to answer",
+             "A brahmin arrives holding a term and leaves with the same term meaning something he can check rather than something he inherited",
+             "Debating scripture",
+             "Performing miracles"],
+         "correct": 1,
+         "expl": "Visible across AN 3.53, 3.55, 3.58, and this one."},
+    ],
+    marginalia=[
+        ("Four kinds of offering", [
+            "<span class=\"pali\">yañña</span>sacrifice",
+            "<span class=\"pali\">saddha</span>for the ancestors",
+            "<span class=\"pali\">thālipāka</span>milk-rice",
+            "<span class=\"pali\">deyyadhamma</span>a gift to give",
+        ]),
+        ("What is kept in full", [
+            "not the absorptions",
+            "not past lives",
+            "the ending of defilements",
+        ]),
+        ("The policy", [
+            "not: abandon the word",
+            "but: keep it, requalify it",
+            "&mdash; <span class=\"pali\">brāhmaṇa</span>",
+        ]),
+        ("Cross-references", [
+            "AN 3.58 &middot; the full version",
+            "AN 3.57 &middot; the rumor denied",
+            "Dhp 26 &middot; the brahmin requalified",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.59/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.58.html">AN 3.58 &middot; With Tikaṇṇa</a> &mdash; the same content with '
+        "every formula written out, and the discourse to read first.",
+        '<a href="../dhammapada/dhp-26.html">Dhammapada &middot; Chapter 26, The Brahmin</a> '
+        "&mdash; forty verses doing to the whole vocabulary of brahminhood what these verses do to "
+        "one title of it. The best single demonstration that the strategy was keeping the word rather "
+        "than discarding it.",
+        '<a href="an-3.57.html">AN 3.57 &middot; With Vacchagotta</a> &mdash; two discourses '
+        "earlier, where the accusation that the Buddha directed gifts to himself is denied outright. "
+        "This discourse is the test of that denial.",
+    ],
+)
+
+
+page(
+    60, "Saṅgārava", "With Saṅgārava",
+    vagga=VAGGA_6,
+    meta_title="AN 3.60 — With Saṅgārava | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṅgāravasutta — a "
+        "brahmin who will not answer Ānanda's question, the way out the Buddha gives him, and the "
+        "three demonstrations with the miracles ranked last. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Saṅgārava the brahmin comes and exchanges greetings, with Ānanda "
+                    "present"),
+        ("Speakers", "Saṅgārava the brahmin, the Buddha, and Venerable Ānanda"),
+        ("Form", "An argument about sacrifice against renunciation, a question asked three times and "
+                 "evaded three times, a change of subject, three demonstrations defined, and a "
+                 "judgment invited"),
+        ("Length", "~9 minutes to read"),
+        ("Northern parallel", "The three demonstrations are preserved in the Chinese Āgamas and "
+                              "treated at length in the Pāli at DN 11; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the longest discourse in the "
+                       "chapter, and the most socially observant"),
+    ],
+    why=(
+        "Saṅgārava opens with a good argument: brahmins who sacrifice do good for many people, while "
+        "someone who goes forth tames only himself &mdash; so one path benefits many and the other "
+        "benefits one. The Buddha answers it. Then Ānanda asks him a follow-up question, three times, "
+        "and Saṅgārava will not answer it. What the Buddha does next is the most humane thing in the "
+        "chapter, and what comes after it is the canon&rsquo;s clearest ranking of miracles against "
+        "instruction."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Of the three things a religious teacher can demonstrate, the only one that reaches "
+            "anybody else is the instruction."]),
+        ("Saṅgārava&rsquo;s argument, and the answer", [
+            "The argument is genuinely good and should be presented as such. Sacrifice is a public "
+            "act with public benefit: the one who sacrifices and the one who encourages it are both "
+            "<em>doing good for many people</em>. Renunciation looks like the opposite &mdash; a man "
+            "leaves, and <em>tames, calms, and extinguishes himself alone</em>. One person "
+            "benefited.",
+            "The Buddha&rsquo;s reply is a counter-question rather than a refutation. Suppose a "
+            "Realized One arises and says: <em>come, this is the path; practicing like this I "
+            "realized the supreme objective, and I make it known; practice like this and you too will "
+            "realize it.</em> And others practice accordingly, <em>in their hundreds and thousands, "
+            "and hundreds of thousands</em>. This being so, is that going forth doing good for one "
+            "person or many?",
+            "Saṅgārava answers immediately and correctly: for many. The argument is settled by "
+            "pointing out that the going forth being described is not a private withdrawal but the "
+            "start of a chain of instruction, and Saṅgārava can see it as soon as it is put.",
+            "Worth noticing: the answer does not attack sacrifice. Saṅgārava&rsquo;s claim that "
+            "sacrifice benefits many is left standing, and only the second half of his contrast is "
+            "corrected."]),
+        ("Three times, and no answer", [
+            "Then Ānanda asks the follow-up: <em>which of these two practices do you believe has "
+            "fewer obligations and undertakings, yet is more fruitful and beneficial?</em>",
+            "Saṅgārava replies: <em>those such as the worthies Gotama and Ānanda are honored and "
+            "praised by me.</em> Ānanda points out that he did not ask who Saṅgārava honors, and "
+            "repeats the question. He gets the same answer. A third time, the same.",
+            "This is a small and very recognizable social disaster. The question is a fair one; the "
+            "brahmin cannot answer it without conceding something in public that he is not willing to "
+            "concede, and he retreats into a compliment. Ānanda, correctly and unhelpfully, keeps "
+            "asking.",
+            "The Pāli word the narrator uses for Saṅgārava&rsquo;s condition is worth having: he "
+            "<em>falters</em>, sits there unable to proceed. This is a man in a room with two people "
+            "who have him cornered, and the question he is being asked is one he already knows the "
+            "answer to."]),
+        ("The way out", [
+            "&ldquo;Then it occurred to the Buddha: though Ānanda asked him a sensible question three "
+            "times, Saṅgārava falters without answering. Why don&rsquo;t I give him a way out?&rdquo;",
+            "And he changes the subject: <em>brahmin, what came up in the conversation among the "
+            "king&rsquo;s retinue today?</em>",
+            "It is an ordinary question about court gossip and it releases the pressure completely. "
+            "Saṅgārava answers at once and at length, and the conversation moves on to the topic he "
+            "supplies. The question Ānanda asked is never answered by anyone, and nobody returns to "
+            "it.",
+            "This passage deserves more attention than it usually gets, because it is not a teaching "
+            "and the compilers kept it anyway. The Buddha is described in the act of noticing that "
+            "somebody is humiliated and doing something about it, and the something is neither a "
+            "rebuke of Ānanda nor a rescue of the argument. It is a change of subject.",
+            "The narration also makes the reason explicit &mdash; <em>okāsaṁ karomi</em>, let me make "
+            "an opening for him &mdash; which means the text wants the reader to see the intention "
+            "rather than merely the move. For anyone who teaches, this is a more useful model than "
+            "most of what gets written about skillful means, and it costs nothing to imitate."]),
+        ("The three demonstrations", [
+            "What Saṅgārava supplies is a piece of court talk: formerly there were fewer mendicants "
+            "but more of them displayed superhuman powers; these days there are more mendicants and "
+            "fewer displays.",
+            "The Buddha does not confirm or deny it. He defines three kinds of demonstration &mdash; "
+            "<em>pāṭihāriya</em>, which means a marvel, a wonder, something that removes opposition.",
+            "The <em>demonstration of psychic power</em>: multiplying oneself, materializing and "
+            "dematerializing, passing through walls, diving into the earth, walking on water, flying "
+            "cross-legged, touching the sun and moon.",
+            "The <em>demonstration of revealing</em>: telling someone what they are thinking &mdash; "
+            "by a sign, by report from humans or non-humans or deities, by hearing the sound of "
+            "thought, or by comprehending the mind of someone in the immersion beyond thinking.",
+            "The <em>demonstration of instruction</em>: <em>think like this, not like that; focus "
+            "your mind like this, not like that; give up this, and live having achieved that.</em> "
+            "Three clauses, and that is the whole of it.",
+            "Then the Buddha asks Saṅgārava which he considers finest &mdash; which is the same "
+            "technique used on him at the start, and the same one used on Hatthaka in AN 3.35: the "
+            "conclusion is produced by the person who has to accept it."]),
+        ("Why the brahmin ranks the miracles last", [
+            "Saṅgārava&rsquo;s reasoning is precise. The demonstration of psychic power <em>is "
+            "experienced only by the one who performs it, occurring only to them. This seems to me "
+            "like an illusion.</em> The same for mind-reading. Only instruction is preferred.",
+            "The word is <em>māyā</em>, illusion or conjuring. His objection is not that miracles are "
+            "impossible; he goes on to say he regards the Buddha as possessing all three. It is that "
+            "a marvel happens to the performer, and the observer has no way inside it. A conjurer "
+            "produces the same experience, and from where the audience sits the two are "
+            "indistinguishable.",
+            "Instruction is different in exactly that respect: <em>think like this, not like that</em> "
+            "is something the listener does themselves, and the result occurs in them. That is the "
+            "whole argument, and a brahmin makes it rather than a Buddhist.",
+            "DN 11 has the Buddha make the same ranking in his own voice and more harshly &mdash; "
+            "there he says he is troubled and repelled by the display of psychic power precisely "
+            "because a skeptic can attribute it to a spell. The two discourses together are as clear "
+            "a statement as the canon makes: the powers are not denied and they are not the point.",
+            "The closing exchange is worth reading for its tone. Saṅgārava attributes all three "
+            "demonstrations to the Buddha; the Buddha calls the words <em>invasive and intrusive</em> "
+            "and then confirms them anyway. Asked whether any other mendicant has all three, he says "
+            "not one hundred, nor five hundred, but many more &mdash; <em>right here, in this Saṅgha "
+            "of mendicants</em>."]),
+    ],
+    terms=[
+        ("pāṭihāriya",
+         "&ldquo;demonstration, marvel&rdquo; &mdash; literally something that removes opposition. "
+         "The three kinds are psychic power, revealing, and instruction."),
+        ("iddhipāṭihāriya",
+         "&ldquo;demonstration of psychic power&rdquo; &mdash; the list of feats from multiplying "
+         "oneself to touching the sun and moon."),
+        ("ādesanāpāṭihāriya",
+         "&ldquo;demonstration of revealing&rdquo; &mdash; declaring what another is thinking, by any "
+         "of four means."),
+        ("anusāsanīpāṭihāriya",
+         "&ldquo;demonstration of instruction&rdquo; &mdash; three clauses long, and the one "
+         "Saṅgārava prefers because its result occurs in the listener."),
+        ("māyā",
+         "&ldquo;illusion, conjuring&rdquo; &mdash; Saṅgārava&rsquo;s word for what the first two "
+         "demonstrations seem like from where an observer sits."),
+    ],
+    text_intro=(
+        "The discourse in full, including the three unanswered questions. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Many people, or one"),
+        ("p", "&sect;1", "an3.60:1.1-1.6"),
+        ("p", "&sect;2", "an3.60:2.1-2.7"),
+        ("p", "&sect;3", "an3.60:3.1-3.3"),
+        ("h3", "Ānanda asks three times"),
+        ("p", "&sect;4", "an3.60:4.1-4.5"),
+        ("p", "&sect;5&ndash;6", "an3.60:5.1-6.8"),
+        ("h3", "A way out"),
+        ("p", "&sect;7", "an3.60:7.1-7.9"),
+        ("h3", "Three demonstrations"),
+        ("p", "&sect;8", "an3.60:8.1-8.6"),
+        ("p", "&sect;9&ndash;12", "an3.60:9.1-12.4"),
+        ("p", "&sect;13", "an3.60:13.1-13.6"),
+        ("h3", "Which is finest"),
+        ("p", "&sect;14&ndash;16", "an3.60:14.1-16.3"),
+        ("p", "&sect;17", "an3.60:17.1-17.7"),
+        ("p", "&sect;18", "an3.60:18.1-18.7"),
+        ("p", "&sect;19", "an3.60:19.1-19.4"),
+        ("p", "&sect;20", "an3.60:20.1-20.4"),
+    ],
+    quiz=[
+        {"q": "What is Saṅgārava&rsquo;s opening argument?",
+         "opts": [
+             "That sacrifice is cheaper than renunciation",
+             "That sacrifice does good for many people, while one who goes forth tames only himself &mdash; benefiting one",
+             "That brahmins are superior by birth",
+             "That renunciation is impossible for householders"],
+         "correct": 1,
+         "expl": "A genuinely good argument, and the guide says it should be presented as such."},
+        {"q": "How does the Buddha answer it?",
+         "opts": [
+             "By denying that sacrifice benefits anyone",
+             "By a counter-question: if a teacher realizes the goal and others practice accordingly in their hundreds of thousands, is that going forth doing good for one or many?",
+             "By refusing to compare them",
+             "By appealing to scripture"],
+         "correct": 1,
+         "expl": "Saṅgārava&rsquo;s claim about sacrifice is left standing; only the second half of his contrast is corrected."},
+        {"q": "What does Ānanda ask?",
+         "opts": [
+             "Which practice is older",
+             "Which of the two practices has fewer obligations and undertakings yet is more fruitful and beneficial",
+             "Whether Saṅgārava will ordain",
+             "Who taught Saṅgārava"],
+         "correct": 1,
+         "expl": "A fair question the brahmin cannot answer in public without conceding something."},
+        {"q": "How does Saṅgārava respond, three times?",
+         "opts": [
+             "With silence",
+             "By leaving",
+             "By saying that those such as Gotama and Ānanda are honored and praised by him &mdash; a compliment in place of an answer",
+             "By changing the subject himself"],
+         "correct": 2,
+         "expl": "Ānanda points out each time that he did not ask who Saṅgārava honors."},
+        {"q": "What does the Buddha do about it?",
+         "opts": [
+             "Rebukes Ānanda",
+             "Answers the question himself",
+             "Gives Saṅgārava a way out by asking what came up in the king&rsquo;s retinue today &mdash; and the narration makes the intention explicit",
+             "Repeats the question a fourth time"],
+         "correct": 2,
+         "expl": "The question Ānanda asked is never answered by anyone, and nobody returns to it."},
+        {"q": "Why does the guide say this passage deserves attention?",
+         "opts": [
+             "Because it contains a doctrine",
+             "Because it is not a teaching and the compilers kept it anyway &mdash; the Buddha is shown noticing that somebody is humiliated and changing the subject",
+             "Because Ānanda is criticized",
+             "Because it is unique in the canon"],
+         "correct": 1,
+         "expl": "A more useful model for teachers than most of what gets written about skillful means."},
+        {"q": "What are the three demonstrations?",
+         "opts": [
+             "Psychic power, revealing, and instruction",
+             "Ethics, immersion, and wisdom",
+             "Past lives, the divine eye, and the ending of defilements",
+             "Giving, restraint, and meditation"],
+         "correct": 0,
+         "expl": "<em>Pāṭihāriya</em> means a marvel, literally something that removes opposition."},
+        {"q": "What is the demonstration of instruction?",
+         "opts": [
+             "A course of study",
+             "Three clauses: think like this, not like that; focus your mind like this, not like that; give up this, and live having achieved that",
+             "The recitation of texts",
+             "Ordination"],
+         "correct": 1,
+         "expl": "And that is the whole of it."},
+        {"q": "Why does Saṅgārava rank the first two last?",
+         "opts": [
+             "Because he thinks they are impossible",
+             "Because they are experienced only by the one who performs them &mdash; from where an observer sits they are indistinguishable from conjuring",
+             "Because they are forbidden",
+             "Because they are difficult"],
+         "correct": 1,
+         "expl": "He goes on to attribute all three to the Buddha, so the objection is not about possibility."},
+        {"q": "How does the exchange end?",
+         "opts": [
+             "The Buddha denies having any powers",
+             "The Buddha calls Saṅgārava&rsquo;s words invasive and intrusive, confirms them anyway, and says many hundreds of mendicants have all three &mdash; right here in this Saṅgha",
+             "Saṅgārava leaves unconvinced",
+             "Ānanda answers his own question"],
+         "correct": 1,
+         "expl": "The powers are not denied and they are not the point."},
+    ],
+    marginalia=[
+        ("The argument", [
+            "sacrifice &middot; good for many",
+            "going forth &middot; good for one",
+            "&mdash; answered by a chain of instruction",
+        ]),
+        ("Three times", [
+            "&ldquo;I didn&rsquo;t ask who you honor&rdquo;",
+            "&mdash; and the same reply, three times",
+            "&ldquo;Why don&rsquo;t I give him a way out?&rdquo;",
+        ]),
+        ("Three demonstrations", [
+            "<span class=\"pali\">iddhi</span>psychic power",
+            "<span class=\"pali\">ādesanā</span>revealing",
+            "<span class=\"pali\">anusāsanī</span>instruction",
+        ]),
+        ("Cross-references", [
+            "DN 11 &middot; the same ranking, harsher",
+            "AN 3.35 &middot; conclusions drawn by the questioner",
+            "AN 3.43 &middot; when teaching is worth doing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.60/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-11.html">DN 11 &middot; With Kevaḍḍha</a> &mdash; the same three '
+        "demonstrations with the ranking made in the Buddha&rsquo;s own voice and much more sharply: "
+        "he says he is troubled and repelled by displays of psychic power, because a skeptic can "
+        "always attribute them to a spell. Read together, the two discourses settle what the "
+        "tradition thinks miracles are worth.",
+        '<a href="an-3.35.html">AN 3.35 &middot; With Hatthaka</a> &mdash; for the same technique '
+        "used on a different visitor: the conclusion is produced by the person who will have to "
+        "accept it.",
+        '<a href="an-3.43.html">AN 3.43 &middot; Good Reasons</a> &mdash; the short discourse on when '
+        "teaching is worth doing, which is the same subject as the third demonstration reduced to its "
+        "conditions.",
+        '<a href="an-3.59.html">AN 3.59 &middot; With Jānussoṇi</a> &mdash; the previous discourse, '
+        "and the other place in this chapter where a brahmin&rsquo;s own criterion is handed back to "
+        "him redefined.",
+    ],
+)
