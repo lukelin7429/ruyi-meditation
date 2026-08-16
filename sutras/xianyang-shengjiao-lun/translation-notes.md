@@ -7,7 +7,7 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 - Chinese title: 顯揚聖教論, literally "treatise that displays and makes manifest the sacred teaching." We render it **Illuminating the Sacred Teaching**, using the Chinese alongside on first appearance per page.
 - The Sanskrit is a modern reconstruction, not a surviving text: *Prakaraṇāryavācā-śāstra* (Nanjio), sometimes given as *Ārya-śāsana-prakaraṇa-śāstra*. Because no Sanskrit original survives and scholarly usage is unsettled, we do **not** use a Sanskrit title as the page title; it is noted once on the collection index page and otherwise left aside.
 - Directory slug: `xianyang-shengjiao-lun`, following the site's existing precedent for texts whose Sanskrit is only a reconstruction (`cheng-weishi-lun`, `mohe-zhiguan`, `nanshan-lu`).
-- One legacy rendering exists elsewhere on the site — `sutras/stages-of-yogic-practice/fascicle-088.html` calls it the "*Explanation of Illumination Treatise*" inside a reading note. That predates this project and should eventually be normalized to the title above.
+- A legacy rendering formerly used elsewhere on the site — "*Explanation of Illumination Treatise*", in reading notes in `sutras/stages-of-yogic-practice/fascicle-088.html` and `fascicle-089.html` — has been normalized to the title above. No other variant remains on the site.
 
 ## Source, and the relation between verse and prose
 
@@ -70,3 +70,54 @@ Renderings are matched to whatever is already dominant across the site's Yogāc�
 | 雜染 | defilement | 煩惱雜染 / 業雜染 / 生雜染 = defilement of affliction / of karma / of birth. |
 | 補特伽羅 | persons | pudgala, topic seven. |
 | 覺分 | the factors of enlightenment | topic six, the thirty-seven and what follows. |
+| 現觀 | direct realization | site-dominant; chapter eight and throughout. |
+| 正性離生 | the certainty of rightness | set in fascicle 3 and kept. |
+| 順決擇分 | the factors conducive to penetration | this project's own choice, used from fascicle 6 on; the site elsewhere also has "aids to penetration." |
+| 煖 / 頂 / 忍 / 世第一法 | warmth / summit / forbearance / the supreme worldly dharma | the four factors conducive to penetration; matched to the site-dominant set. |
+| 異熟心 / 轉心 | the ripening mind / the evolving mind | fascicle 17's two-way division of mind, from which the ālayavijñāna proof proceeds. |
+| 相縛 / 麁重縛 | the bond of marks / the bond of coarse heaviness | the two bonds; the first holds one to the dependent nature, the second to the imagined. |
+| 有覆無記 / 無覆無記 | obscured-indeterminate / unobscured-indeterminate | the classification that lets the four afflictions of the defiled mind coexist with a wholesome mind. |
+| 三輪 | the three wheels | agent/instrument/act conventionally; knower/knowledge/known cognitively. Both senses occur. |
+| 假有 | provisionally existent | 假立 "provisionally established," 假想 "an imagined notion." |
+
+### The ten causes, four conditions, and five fruits (fascicle 18)
+
+The site's two earlier presentations of this scheme — *Stages of Yogic Practice* fascicles 5 and 38 — use different English sets, and neither is dominant. The set used here follows each term's own gloss in T1602's own passage:
+
+| Chinese | English |
+|---|---|
+| 隨說因 | the cause of what is spoken |
+| 觀待因 | the cause of what is regarded |
+| 牽引因 | the drawing-in cause |
+| 生起因 | the producing cause |
+| 攝受因 | the appropriating cause |
+| 引發因 | the eliciting cause |
+| 定別因 | the determining cause |
+| 同事因 | the cooperating cause |
+| 相違因 / 不相違因 | the contrary cause / the non-contrary cause |
+| 因緣 / 等無間緣 / 所緣緣 / 增上緣 | the causal / immediately antecedent / objective / dominant condition |
+| 異熟果 / 等流果 / 離繫果 / 士用果 / 增上果 | the ripened / outflowing fruit / the fruit of separation from bonds / of human effort / the dominant fruit |
+
+The four principles of fascicle 20 are rendered 觀待道理 the principle of dependence, 作用道理 of function, 證成道理 of proof, 法爾道理 of the way things are.
+
+## What the T1603 collation found
+
+Every fascicle's verse lines were collated against T1603 line by line. The correspondence is exact throughout once quoted verse is separated out. Two passages in the concluding chapter are citations, not root verse — the uddāna at 或有靜慮者 (fascicle 19) and the six-line gāthā from the *Sūtra to Sujāta* at 諸比丘美妙 (fascicle 20) — both marked with quotation marks in the source and both correctly absent from T1603. They account exactly for the 96/101 discrepancy in that chapter's verse count.
+
+Single-character variants found, with the reading adopted:
+
+| Fascicle | T1603 | T1602 | Adopted | Why |
+|---|---|---|---|---|
+| 14 | 知法處天處 | 如法處天處 | T1602 | prose glosses 猶如世間 twice |
+| 15 | 顯得失二 | 顯德失二 | T1602 | prose reads 功德 / 過失 |
+| 16 | 於名前覺無 | 於名前無覺 | T1602 | word order only |
+| 16 | 取己立名 | 取已立名 | T1602 | prose reads 先取義已 |
+| 16 | 三界心心法 | 二界心心法 | **T1603** | T1602's own prose three lines later reads 三界諸心心法, and fascicle 6 already glossed 分別 as the mind and mental factors of the three realms. The only place the verse-only text preserves the better reading. |
+| 16 | 當知依他起 | 當知依他有 | T1602 | the passage proves existence; prose closes 當知必有依他起自性 |
+| 17 | 隨經論廣說 | 隨經論所說 | T1602 | nothing turns on it |
+| 17 | 得失俱三種 | 德失俱三種 | T1602 | prose reads 三種過失 / 三種功德 |
+| 18 | 得失等營為 | 德失等營為 | T1602 | prose reads 功德過失 |
+| 19 | 中殀 | 中夭 | T1602 | graphic variants of one word |
+| 20 | 多佛與二乘 | 多佛與一乘 | T1602 | prose confirms twice (及一乘性; 何故如來宣說一乘) and six reasons for the one vehicle follow |
+
+The 得/德 pair divides the two texts four times in the same direction, always with T1602's prose vindicating 德. That is better described as a settled difference between the two transmissions than as repeated copying error.

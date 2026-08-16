@@ -102,9 +102,9 @@ excerpt: A plain-English study entrance to the Xianyang shengjiao lun, Asaṅga'
           <li>Terminology matched to the site's other Yogācāra pages.</li>
         </ul>
         <div class="asc-stats">
-          <div class="asc-stat"><b>13</b> of 20 fascicles translated</div>
+          <div class="asc-stat"><b>20</b> of 20 fascicles translated — complete</div>
           <div class="asc-stat"><b>11</b> chapters in Xuánzàng's translation (T1602)</div>
-          <div class="asc-stat"><b>2</b> chapters complete — 攝事品第一 and 攝淨義品第二 (fascicles 1–13)</div>
+          <div class="asc-stat"><b>11</b> of 11 chapters complete — the whole treatise</div>
         </div>
       </div>
     </div>
@@ -133,25 +133,25 @@ excerpt: A plain-English study entrance to the Xianyang shengjiao lun, Asaṅga'
           <div class="ch-num">Chapters 3–4 · 成善巧品、成無常品</div>
           <div class="ch-zh">Establishing Skill; Establishing Impermanence</div>
           <div class="ch-desc">The argumentative chapters begin. First skill in the categories, then the first of the four theses: that conditioned things are impermanent.</div>
-          <div class="ch-parts">Fascicle 14</div>
+          <div class="ch-parts">Fascicle 14 · complete</div>
         </div>
         <div class="ch-card" data-rv style="transition-delay:.15s">
           <div class="ch-num">Chapters 5–7 · 成苦品、成空品、成無性品</div>
           <div class="ch-zh">Suffering, Emptiness, Naturelessness</div>
           <div class="ch-desc">Three more theses proved in turn — that what is impermanent is suffering, that what is suffering is empty, and that what is empty is without nature.</div>
-          <div class="ch-parts">Fascicles 15–16</div>
+          <div class="ch-parts">Fascicles 15–16 · complete</div>
         </div>
         <div class="ch-card" data-rv style="transition-delay:.2s">
           <div class="ch-num">Chapters 8–10 · 成現觀品、成瑜伽品、成不思議品</div>
           <div class="ch-zh">Direct Realization, Yoga, the Inconceivable</div>
           <div class="ch-desc">From argument to attainment: the six kinds of direct realization, the yoga of the perfection of wisdom in which no discrimination operates, and the nine matters that are not to be thought about at all.</div>
-          <div class="ch-parts">Fascicles 16–17</div>
+          <div class="ch-parts">Fascicles 16–17 · complete</div>
         </div>
         <div class="ch-card" data-rv style="transition-delay:.25s;grid-column:1/-1;">
           <div class="ch-num">Chapter 11 · 攝勝決擇品</div>
           <div class="ch-zh">Gathering the Superior Determinations</div>
           <div class="ch-desc">The closing chapter, four fascicles long: the treatise's own final determinations on the questions its earlier chapters raised.</div>
-          <div class="ch-parts">Fascicles 17–20</div>
+          <div class="ch-parts">Fascicles 17–20 · complete</div>
         </div>
       </div>
     </div>
@@ -161,7 +161,7 @@ excerpt: A plain-English study entrance to the Xianyang shengjiao lun, Asaṅga'
     <div class="asc-wrap">
       <div class="asc-section-head" data-rv>
         <h2>Read by Fascicle</h2>
-        <p>Translated fascicles link to the full bilingual text with reading notes. Fascicles still in progress are shown greyed out; this page is updated as each is completed.</p>
+        <p>All twenty fascicles are translated. Each links to the full bilingual text with reading notes.</p>
       </div>
 
       <div class="sub-head" data-rv><h3>攝事品第一 · Gathering the Topics</h3><span>卷一～卷四</span></div>
@@ -226,22 +226,38 @@ excerpt: A plain-English study entrance to the Xianyang shengjiao lun, Asaṅga'
 
       <div class="sub-head" data-rv><h3>成善巧品第三 — 成不思議品第十</h3><span>卷十四～卷十七</span></div>
       <div class="vol-grid">
-        {% for n in (14..17) %}
-        <span class="vol-card pending" data-rv>
-          <span class="vol-num">Fascicle {{ n }}</span>
-          <span class="vol-title">In progress</span>
-        </span>
-        {% endfor %}
+        <a class="vol-card" href="{{ '/sutras/xianyang-shengjiao-lun/fascicle-14/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle 14</span>
+          <span class="vol-title">Establishing Skill and Impermanence</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/xianyang-shengjiao-lun/fascicle-15/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle 15</span>
+          <span class="vol-title">Establishing Suffering and Emptiness</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/xianyang-shengjiao-lun/fascicle-16/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle 16</span>
+          <span class="vol-title">Naturelessness and Direct Realization</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/xianyang-shengjiao-lun/fascicle-17/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle 17</span>
+          <span class="vol-title">Realization, Yoga, and the Inconceivable</span>
+        </a>
       </div>
 
       <div class="sub-head" data-rv><h3>攝勝決擇品第十一 · Gathering the Superior Determinations</h3><span>卷十七～卷二十</span></div>
       <div class="vol-grid">
-        {% for n in (18..20) %}
-        <span class="vol-card pending" data-rv>
-          <span class="vol-num">Fascicle {{ n }}</span>
-          <span class="vol-title">In progress</span>
-        </span>
-        {% endfor %}
+        <a class="vol-card" href="{{ '/sutras/xianyang-shengjiao-lun/fascicle-18/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle 18</span>
+          <span class="vol-title">Determinations on Mind, Form, and Cause</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/xianyang-shengjiao-lun/fascicle-19/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle 19</span>
+          <span class="vol-title">Affliction, Karma, and the Absorptions</span>
+        </a>
+        <a class="vol-card" href="{{ '/sutras/xianyang-shengjiao-lun/fascicle-20/' | relative_url }}" data-rv>
+          <span class="vol-num">Fascicle 20</span>
+          <span class="vol-title">The Last Determinations</span>
+        </a>
       </div>
     </div>
   </section>
