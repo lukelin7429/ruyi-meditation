@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AN 3.101 — A Panner | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for the Paṁsudhovakasutta — gold washed three times and then smelted, and the coarse, middling, and fine corruptions of a mind. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(38px, 5vw, 50px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Aṅguttara Nikāya</a><span>&rsaquo;</span>AN 3.101
+  </nav>
+
+  <div class="sutta-number">Aṅguttara Nikāya &middot; Discourse 3.101</div>
+  <h1>A Panner</h1>
+  <p class="subtitle"><em>Paṁsudhovakasutta</em> &mdash; <em>Loṇakapallavagga</em> &mdash; the tenth chapter of the Threes</p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>None stated; the discourse continues from AN 3.1, whose setting at Sāvatthī is understood to hold</dd>
+      <dt>Speakers</dt><dd>The Buddha alone, addressing the mendicants</dd>
+      <dt>Form</dt><dd>A trade described at length, applied stage by stage, and closing with six capacities</dd>
+      <dt>Length</dt><dd>~7 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>The goldsmith simile for purifying the mind is preserved in the Chinese Āgamas and became standard in the meditation manuals; this reading guide does not assert a specific matching sutra number</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&starf;&#9734;&#9734; &mdash; the simile is easy and the middle paragraph is one of the best descriptions of practice in the collection</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse</h2>
+    <p class="lede">
+      Raw gold comes out of the ground with sand, soil, and gravel in it. A panner washes it; then finer grit remains and he washes again; then fine sand and black grime, and he washes again. Only then does the goldsmith melt it &mdash; and it is still not workable, and he keeps melting. The application to a mind committed to the higher mind is exact at every stage, including the stage where it is still not working.
+    </p>
+  </section>
+
+  </div>
+
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      What has to be removed gets finer as you go, and the last stage is not a removal at all but a change in the material.
+    </p>
+
+    <h3>Three washings</h3>
+    <p>
+      The corruptions of native gold are graded. Coarse: sand, soil, and gravel. Middling: fine grit and coarse sand. Fine: fine sand and black grime. Each is washed out and the next becomes visible.
+    </p>
+    <p>
+      The parallel is precise and it is the most useful part of the discourse. Coarse: bad conduct of body, speech, and mind. Middling: sensual, malicious, and cruel thoughts. Fine: <em>thoughts of family, country, and status</em>.
+    </p>
+    <p>
+      That third item is the one worth stopping on. After conduct and after the three unwholesome kinds of thought, what remains to be removed is thinking about where one is from, who one&rsquo;s people are, and how one is regarded. Those are not vices in any ordinary sense. They are the ordinary furniture of a mind, and the discourse classes them as the last dirt in the gold.
+    </p>
+    <p>
+      Notice also the agent. <em>A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them.</em> Four verbs at every level, and the same person does the work throughout &mdash; there is no point at which somebody else takes over.
+    </p>
+
+    <h3>What is left, and why it is not enough</h3>
+    <p>
+      &ldquo;When they&rsquo;ve been given up and eliminated, only thoughts about the teaching are left.&rdquo;
+    </p>
+    <p>
+      <em>Dhammavitakka</em>. A mind with nothing in it but thoughts about the teaching, which sounds like the destination and is not.
+    </p>
+    <p>
+      &ldquo;That immersion is not peaceful or sublime or tranquil or unified, but is held in place by forceful suppression.&rdquo;
+    </p>
+    <p>
+      This sentence is the reason to read the discourse. A state that has been cleared of misconduct, of sensual and cruel thinking, and even of thoughts about one&rsquo;s family and standing &mdash; a state occupied entirely by the subject matter &mdash; is described as <em>sasaṅkhāraniggayha vāritavata</em>, held down by effort.
+    </p>
+    <p>
+      The canon rarely says this so plainly. Concentration produced by holding something in place is not the concentration the training is for, and the difference is not one of degree. It is the difference between a lid on a pot and a pot that has stopped boiling.
+    </p>
+
+    <h3>The stage that is not a removal</h3>
+    <p>
+      &ldquo;But there comes a time when that mind is stilled internally; it settles, unifies, and becomes immersed in samādhi. That immersion is peaceful and sublime and tranquil and unified, not held in place by forceful suppression.&rdquo;
+    </p>
+    <p>
+      <em>Hoti so samayo</em> &mdash; there comes a time, the same phrase AN 3.92 used of the crops ripening and of the mind being freed. Nothing is done to produce this; the sentence describes an arrival.
+    </p>
+    <p>
+      And the simile has been built to accommodate it. The three washings are subtraction and anybody can see how they work. The smelting is not: the goldsmith blows and melts and the gold is <em>still not settled</em>, <em>brittle and not completely ready</em>, and he keeps going, and then it becomes pliable, workable, and radiant.
+    </p>
+    <p>
+      Nothing has been taken out during the melting. The material has changed state. That is the discourse&rsquo;s account of the last stage of concentration and it is a better one than any list of techniques, because it explains why continuing to do the same thing when it is not working is sometimes the correct instruction.
+    </p>
+
+    <h3>Pliable, workable, radiant</h3>
+    <p>
+      <em>Mudu kammañña pabhassara</em> &mdash; the three adjectives are used of the gold and then of the mind, and they are the same three that appear in the standard description of the mind in the fourth absorption at AN 3.58.
+    </p>
+    <p>
+      <em>Kammañña</em>, workable, is the key term and the reason the goldsmith image was chosen. Gold is not made pure so that it can be admired; it is made pure so that it can be made into something. The goldsmith then <em>can successfully create any kind of ornament they want, whether a bracelet, earrings, a necklace, or a golden garland.</em>
+    </p>
+    <p>
+      The mendicant&rsquo;s equivalent is the list that closes the discourse: the psychic powers, clairaudience, knowing others&rsquo; minds, recollection of past lives, the divine eye, and the ending of defilements. Six, and <em>each and every one is within range</em>.
+    </p>
+    <p>
+      It is worth pointing out that the last of the six is the only one the rest of the collection treats as the point. AN 3.60 ranked displays of psychic power last of three demonstrations; AN 3.92 said no amount of power lets a person schedule their own release. Here the powers are listed as capacities of a workable mind, alongside the release, and no ranking is offered.
+    </p>
+    <p>
+      The bracelet-and-earrings list is the guide. A goldsmith with workable gold can make any of those things; which one they make is a separate question, and the discourse leaves it open.
+    </p>
+
+    <h3>Using it</h3>
+    <p>
+      The three-tier grading of corruptions is the practical content, and it is worth giving to a class as a sequence they can locate themselves in. Most people who are working on themselves at all are working somewhere in the coarse or middling range, and the fine range &mdash; thoughts of family, country, and status &mdash; usually comes as a surprise.
+    </p>
+    <p>
+      The sentence about suppression is the one to give anybody who meditates. A state held in place by force is named here, described accurately, and said to be not yet the thing &mdash; and the discourse does not tell them to try harder. It says there comes a time.
+    </p>
+    <p>
+      This discourse and AN 3.102 are a pair and should be taught together: this one is about what has to come out, and the next is about what to do while waiting.
+    </p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">paṁsudhovaka</span> &mdash; &ldquo;panner&rdquo; &mdash; one who washes gold-bearing dirt in a pan. The first half of the simile is his work and the second half is the goldsmith&rsquo;s.
+      </div>
+      <div class="term">
+        <span class="pali-word">oḷārika majjhimaka sukhuma</span> &mdash; &ldquo;coarse, middling, fine&rdquo; &mdash; the grading of corruptions in both the gold and the mind.
+      </div>
+      <div class="term">
+        <span class="pali-word">dhammavitakka</span> &mdash; &ldquo;thoughts about the teaching&rdquo; &mdash; what is left when everything else has been washed out, and still not the destination.
+      </div>
+      <div class="term">
+        <span class="pali-word">sasaṅkhāraniggayha vāritavata</span> &mdash; &ldquo;held in place by forceful suppression&rdquo; &mdash; the canon&rsquo;s name for a concentration produced by holding something down, which it distinguishes sharply from the settled kind.
+      </div>
+      <div class="term">
+        <span class="pali-word">mudu kammañña pabhassara</span> &mdash; &ldquo;pliable, workable, radiant&rdquo; &mdash; said of the smelted gold and of the mind. <em>Kammañña</em> is why the image is a goldsmith: purity is for making something.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The discourse in full, including the six capacities that close it. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>Washing, and then smelting</h3>
+
+      <p><span class="segno">&sect;1</span>&ldquo;Native gold has coarse corruptions: sand, soil, and gravel. A panner or their apprentice pours it into a pan, where they wash, rinse, and clean it. When that&rsquo;s been eliminated, there are medium corruptions in the native gold: fine grit and coarse sand. The panner washes it again. When that&rsquo;s been eliminated, there are fine corruptions in the native gold: fine sand and black grime. The panner washes it again. When that&rsquo;s been eliminated, only golden flecks remain. A goldsmith or their apprentice places the native gold in a crucible where they blow, melt, and smelt it. Still the native gold is not settled and the dross is not totally gone. It&rsquo;s not pliable, workable, or radiant, but is brittle and not completely ready for working. But the goldsmith keeps on blowing, melting, and smelting it. The native gold becomes pliable, workable, and radiant, not brittle, and ready to be worked. Then the goldsmith can successfully create any kind of ornament they want, whether a bracelet, earrings, a necklace, or a golden garland.</p>
+
+      <h3>Coarse, middling, fine</h3>
+
+      <p><span class="segno">&sect;2</span>In the same way, a mendicant who is committed to the higher mind has coarse corruptions: bad bodily, verbal, and mental conduct. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them. When they&rsquo;ve been given up and eliminated, there are middling corruptions: sensual, malicious, or cruel thoughts. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them. When they&rsquo;ve been given up and eliminated, there are fine corruptions: thoughts of family, country, and status. A sincere, capable mendicant gives these up, gets rid of, eliminates, and obliterates them. When they&rsquo;ve been given up and eliminated, only thoughts about the teaching are left. That immersion is not peaceful or sublime or tranquil or unified, but is held in place by forceful suppression. But there comes a time when that mind is stilled internally; it settles, unifies, and becomes immersed in samādhi. That immersion is peaceful and sublime and tranquil and unified, not held in place by forceful suppression. They extend the mind to realize by insight each and every thing that can be realized by insight; and they are capable of realizing those things, since each and every one is within range.</p>
+
+      <h3>Within range</h3>
+
+      <p><span class="segno">&sect;3</span>If they wish: &lsquo;May I wield the many kinds of psychic power: multiplying myself and becoming one again; materializing and dematerializing; going unobstructed through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird; touching and stroking with my hand the sun and moon, so mighty and powerful; controlling my body as far as the realm of divinity.&rsquo; They are capable of realizing these things, since each and every one is within range.</p>
+
+      <p><span class="segno">&sect;4</span>If they wish: &lsquo;With clairaudience that is purified and superhuman, may I hear both kinds of sounds, human and heavenly, whether near or far.&rsquo; They are capable of realizing these things, since each and every one is within range.</p>
+
+      <p><span class="segno">&sect;5</span>If they wish: &lsquo;May I understand the minds of other beings and individuals, having encompassed them with my mind. May I understand mind with greed as &ldquo;mind with greed&rdquo;, and mind without greed as &ldquo;mind without greed&rdquo;; mind with hate as &ldquo;mind with hate&rdquo;, and mind without hate as &ldquo;mind without hate&rdquo;; mind with delusion as &ldquo;mind with delusion&rdquo;, and mind without delusion as &ldquo;mind without delusion&rdquo;; constricted mind as &ldquo;constricted mind&rdquo;, and scattered mind as &ldquo;scattered mind&rdquo;; expansive mind as &ldquo;expansive mind&rdquo;, and unexpansive mind as &ldquo;unexpansive mind&rdquo;; mind that is not supreme as &ldquo;mind that is not supreme&rdquo;, and mind that is supreme as &ldquo;mind that is supreme&rdquo;; mind immersed in samādhi as &ldquo;mind immersed in samādhi&rdquo;, and mind not immersed in samādhi as &ldquo;mind not immersed in samādhi&rdquo;; freed mind as &ldquo;freed mind&rdquo;, and unfreed mind as &ldquo;unfreed mind&rdquo;.&rsquo; They are capable of realizing these things, since each and every one is within range.</p>
+
+      <p><span class="segno">&sect;6</span>If they wish: &lsquo;May I recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. May I remember: &ldquo;There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.&rdquo; May I recollect my many past lives, with features and details.&rsquo; They are capable of realizing these things, since each and every one is within range.</p>
+
+      <p><span class="segno">&sect;7</span>If they wish: &lsquo;With clairvoyance that is purified and superhuman, may I see sentient beings passing away and being reborn&mdash;inferior and superior, beautiful and ugly, in a good place or a bad place&mdash;and understand how sentient beings pass on according to their deeds: &ldquo;These dear beings did bad things by way of body, speech, and mind. They denounced the noble ones; they had wrong view; and they chose to act out of that wrong view. When their body breaks up, after death, they&rsquo;re reborn in a place of loss, a bad place, the underworld, hell. These dear beings, however, did good things by way of body, speech, and mind. They never denounced the noble ones; they had right view; and they chose to act out of that right view. When their body breaks up, after death, they&rsquo;re reborn in a good place, a heavenly realm.&rdquo; And so, with clairvoyance that is purified and superhuman, may I see sentient beings passing away and being reborn&mdash;inferior and superior, beautiful and ugly, in a good place or a bad place. And may I understand how sentient beings pass on according to their deeds.&rsquo; They are capable of realizing these things, since each and every one is within range.</p>
+
+      <p><span class="segno">&sect;8</span>If they wish: &lsquo;May I realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with my own insight due to the ending of defilements.&rsquo; They are capable of realizing these things, since each and every one is within range.&rdquo;</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What are the three grades of corruption in native gold?</div>
+        <button class="opt">Sand, soil, and gravel; fine grit and coarse sand; fine sand and black grime</button>
+        <button class="opt">Iron, copper, and lead</button>
+        <button class="opt">Dust, water, and air</button>
+        <button class="opt">Clay, stone, and ash</button>
+        <div class="expl"><strong>Correct: A.</strong> Each washed out, and the next becoming visible.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What are the corresponding corruptions of the mind?</div>
+        <button class="opt">Greed, hate, and delusion</button>
+        <button class="opt">Bad conduct of body, speech, and mind; sensual, malicious, and cruel thoughts; thoughts of family, country, and status</button>
+        <button class="opt">Doubt, restlessness, and dullness</button>
+        <button class="opt">Wrong view, wrong speech, and wrong action</button>
+        <div class="expl"><strong>Correct: B.</strong> The third item is the one worth stopping on.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">Why does the guide single out the fine corruptions?</div>
+        <button class="opt">Because they are the worst</button>
+        <button class="opt">Because thoughts of family, country, and status are not vices in any ordinary sense &mdash; they are the ordinary furniture of a mind, classed here as the last dirt in the gold</button>
+        <button class="opt">Because they are easiest to remove</button>
+        <button class="opt">Because they are rare</button>
+        <div class="expl"><strong>Correct: B.</strong> After conduct and after the three unwholesome kinds of thought.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">What is left when all three grades are washed out?</div>
+        <button class="opt">Nothing</button>
+        <button class="opt">Only thoughts about the teaching &mdash; which sounds like the destination and is not</button>
+        <button class="opt">The five hindrances</button>
+        <button class="opt">Equanimity</button>
+        <div class="expl"><strong>Correct: B.</strong> <em>Dhammavitakka</em>.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">How is that state described?</div>
+        <button class="opt">As peaceful and sublime</button>
+        <button class="opt">As not peaceful, not sublime, not tranquil, not unified &mdash; held in place by forceful suppression</button>
+        <button class="opt">As the fourth absorption</button>
+        <button class="opt">As freedom</button>
+        <div class="expl"><strong>Correct: B.</strong> The canon rarely says this so plainly.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What difference does the guide say that marks?</div>
+        <button class="opt">A difference of degree</button>
+        <button class="opt">The difference between a lid on a pot and a pot that has stopped boiling</button>
+        <button class="opt">The difference between lay and monastic practice</button>
+        <button class="opt">No real difference</button>
+        <div class="expl"><strong>Correct: B.</strong> Concentration produced by holding something in place is not what the training is for.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">How is the next stage described?</div>
+        <button class="opt">As achieved by greater effort</button>
+        <button class="opt">As an arrival &mdash; &ldquo;there comes a time when that mind is stilled internally&rdquo;</button>
+        <button class="opt">As granted by a teacher</button>
+        <button class="opt">As instantaneous</button>
+        <div class="expl"><strong>Correct: B.</strong> The same phrase AN 3.92 uses of crops ripening.</div>
+      </div>
+
+      <div class="q" data-correct="0">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">What does the smelting half of the simile add that the washing cannot?</div>
+        <button class="opt">Nothing is taken out during the melting &mdash; the material changes state</button>
+        <button class="opt">That gold is valuable</button>
+        <button class="opt">That fire is needed</button>
+        <button class="opt">That tools are required</button>
+        <div class="expl"><strong>Correct: A.</strong> Which explains why continuing to do the same thing when it is not working is sometimes the correct instruction.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">Why is <em>kammañña</em>, workable, the key term?</div>
+        <button class="opt">Because it is rare</button>
+        <button class="opt">Because gold is made pure so that it can be made into something &mdash; purity is for use</button>
+        <button class="opt">Because it means soft</button>
+        <button class="opt">Because it describes the fire</button>
+        <div class="expl"><strong>Correct: B.</strong> The goldsmith can then make a bracelet, earrings, a necklace, or a golden garland.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What does the guide notice about the six capacities that close the discourse?</div>
+        <button class="opt">That they are ranked</button>
+        <button class="opt">That the last of them is the only one the rest of the collection treats as the point &mdash; and here no ranking is offered</button>
+        <button class="opt">That they are impossible</button>
+        <button class="opt">That they are optional</button>
+        <div class="expl"><strong>Correct: B.</strong> AN 3.60 ranked psychic power last, and AN 3.92 said no power schedules one&rsquo;s own release.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Three washings</div>
+      <ul>
+        <li>coarse &middot; bad conduct</li>
+        <li>middling &middot; sensual, cruel thoughts</li>
+        <li>fine &middot; family, country, status</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">What is left</div>
+      <ul>
+        <li><span class="pali">dhammavitakka</span></li>
+        <li>&mdash; and still &ldquo;held in place</li>
+        <li>by forceful suppression&rdquo;</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Then the smelting</div>
+      <ul>
+        <li>nothing more removed</li>
+        <li>the material changes state</li>
+        <li><span class="pali">mudu kammañña pabhassara</span></li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>AN 3.102 &middot; what to do meanwhile</li>
+        <li>AN 3.92 &middot; &ldquo;there comes a time&rdquo;</li>
+        <li>AN 3.100 &middot; the lump of salt</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/an3.101/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.</li>
+      <li><a href="an-3.102.html">AN 3.102 &middot; Basis</a> &mdash; the companion discourse, with the same goldsmith and a different question: not what has to come out, but what to attend to while the work is going on.</li>
+      <li><a href="an-3.92.html">AN 3.92 &middot; Urgent</a> &mdash; for the phrase &ldquo;there comes a time&rdquo;, and for why the arrival of the settled mind cannot be scheduled.</li>
+      <li><a href="/sutras/shi-chan-boluomi/fascicle-003/">Shi Chan Boluomi &middot; Fascicle 3</a> &mdash; Zhiyi on the gate of stopping and on verifying wholesome capacity, which is a Chinese working manual for the stage this discourse describes as gold that is not yet settled.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="an-3.100.html"><span class="label">&larr; Previous</span>AN 3.100 &middot; A Lump of Salt</a>
+    <a href="an-3.102.html" class="next"><span class="label">Next &rarr;</span>AN 3.102 &middot; Basis</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+
+</div>
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>

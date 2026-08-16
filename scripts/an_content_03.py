@@ -8,7 +8,7 @@ INDEX_HEADING = "Tika Nipāta — The Threes"
 # before this series began working in order; they are listed in the index by
 # INDEX_EXTRA and are not generated here.
 HEAD = ("an-2.310-479.html", "AN 2.310&ndash;479 &middot; Greed, Abbreviated")
-TAIL = ("an-3.100.html", "AN 3.100 &middot; A Lump of Salt")
+TAIL = ("an-4.1.html", "AN 4.1 &middot; Understood")
 INDEX_EXTRA = [
     ("an-3.61", "Titthāyatana", "Sectarian Tenets"),
     ("an-3.65", "Kesamutti (Kālāma)", "With the Kālāmas of Kesamutta"),
@@ -22891,5 +22891,1165 @@ page(
         "growth.",
         '<a href="an-3.39.html">AN 3.39 &middot; A Delicate Lifestyle</a> &mdash; for cloth from '
         "Kāsi in its original setting, as the mark of a household that had everything.",
+    ],
+)
+
+
+PAGES[-1]["next"] = ("an-3.100.html", "AN 3.100 &middot; A Lump of Salt")
+
+page(
+    101, "Paṁsudhovaka", "A Panner",
+    vagga=VAGGA_10,
+    prev=("an-3.100.html", "AN 3.100 &middot; A Lump of Salt"),
+    meta_title="AN 3.101 — A Panner | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṁsudhovakasutta — gold "
+        "washed three times and then smelted, and the coarse, middling, and fine corruptions of a "
+        "mind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A trade described at length, applied stage by stage, and closing with six "
+                 "capacities"),
+        ("Length", "~7 minutes to read"),
+        ("Northern parallel", "The goldsmith simile for purifying the mind is preserved in the "
+                              "Chinese Āgamas and became standard in the meditation manuals; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the simile is easy and the "
+                       "middle paragraph is one of the best descriptions of practice in the "
+                       "collection"),
+    ],
+    why=(
+        "Raw gold comes out of the ground with sand, soil, and gravel in it. A panner washes it; "
+        "then finer grit remains and he washes again; then fine sand and black grime, and he washes "
+        "again. Only then does the goldsmith melt it &mdash; and it is still not workable, and he "
+        "keeps melting. The application to a mind committed to the higher mind is exact at every "
+        "stage, including the stage where it is still not working."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What has to be removed gets finer as you go, and the last stage is not a removal at all "
+            "but a change in the material."]),
+        ("Three washings", [
+            "The corruptions of native gold are graded. Coarse: sand, soil, and gravel. Middling: "
+            "fine grit and coarse sand. Fine: fine sand and black grime. Each is washed out and the "
+            "next becomes visible.",
+            "The parallel is precise and it is the most useful part of the discourse. Coarse: bad "
+            "conduct of body, speech, and mind. Middling: sensual, malicious, and cruel thoughts. "
+            "Fine: <em>thoughts of family, country, and status</em>.",
+            "That third item is the one worth stopping on. After conduct and after the three "
+            "unwholesome kinds of thought, what remains to be removed is thinking about where one is "
+            "from, who one&rsquo;s people are, and how one is regarded. Those are not vices in any "
+            "ordinary sense. They are the ordinary furniture of a mind, and the discourse classes "
+            "them as the last dirt in the gold.",
+            "Notice also the agent. <em>A sincere, capable mendicant gives these up, gets rid of, "
+            "eliminates, and obliterates them.</em> Four verbs at every level, and the same person "
+            "does the work throughout &mdash; there is no point at which somebody else takes over."]),
+        ("What is left, and why it is not enough", [
+            "&ldquo;When they&rsquo;ve been given up and eliminated, only thoughts about the teaching "
+            "are left.&rdquo;",
+            "<em>Dhammavitakka</em>. A mind with nothing in it but thoughts about the teaching, which "
+            "sounds like the destination and is not.",
+            "&ldquo;That immersion is not peaceful or sublime or tranquil or unified, but is held in "
+            "place by forceful suppression.&rdquo;",
+            "This sentence is the reason to read the discourse. A state that has been cleared of "
+            "misconduct, of sensual and cruel thinking, and even of thoughts about one&rsquo;s family "
+            "and standing &mdash; a state occupied entirely by the subject matter &mdash; is "
+            "described as <em>sasaṅkhāraniggayha vāritavata</em>, held down by effort.",
+            "The canon rarely says this so plainly. Concentration produced by holding something in "
+            "place is not the concentration the training is for, and the difference is not one of "
+            "degree. It is the difference between a lid on a pot and a pot that has stopped boiling."]),
+        ("The stage that is not a removal", [
+            "&ldquo;But there comes a time when that mind is stilled internally; it settles, unifies, "
+            "and becomes immersed in samādhi. That immersion is peaceful and sublime and tranquil and "
+            "unified, not held in place by forceful suppression.&rdquo;",
+            "<em>Hoti so samayo</em> &mdash; there comes a time, the same phrase AN 3.92 used of the "
+            "crops ripening and of the mind being freed. Nothing is done to produce this; the "
+            "sentence describes an arrival.",
+            "And the simile has been built to accommodate it. The three washings are subtraction and "
+            "anybody can see how they work. The smelting is not: the goldsmith blows and melts and "
+            "the gold is <em>still not settled</em>, <em>brittle and not completely ready</em>, and "
+            "he keeps going, and then it becomes pliable, workable, and radiant.",
+            "Nothing has been taken out during the melting. The material has changed state. That is "
+            "the discourse&rsquo;s account of the last stage of concentration and it is a better one "
+            "than any list of techniques, because it explains why continuing to do the same thing "
+            "when it is not working is sometimes the correct instruction."]),
+        ("Pliable, workable, radiant", [
+            "<em>Mudu kammañña pabhassara</em> &mdash; the three adjectives are used of the gold and "
+            "then of the mind, and they are the same three that appear in the standard description "
+            "of the mind in the fourth absorption at AN 3.58.",
+            "<em>Kammañña</em>, workable, is the key term and the reason the goldsmith image was "
+            "chosen. Gold is not made pure so that it can be admired; it is made pure so that it can "
+            "be made into something. The goldsmith then <em>can successfully create any kind of "
+            "ornament they want, whether a bracelet, earrings, a necklace, or a golden garland.</em>",
+            "The mendicant&rsquo;s equivalent is the list that closes the discourse: the psychic "
+            "powers, clairaudience, knowing others&rsquo; minds, recollection of past lives, the "
+            "divine eye, and the ending of defilements. Six, and <em>each and every one is within "
+            "range</em>.",
+            "It is worth pointing out that the last of the six is the only one the rest of the "
+            "collection treats as the point. AN 3.60 ranked displays of psychic power last of three "
+            "demonstrations; AN 3.92 said no amount of power lets a person schedule their own "
+            "release. Here the powers are listed as capacities of a workable mind, alongside the "
+            "release, and no ranking is offered.",
+            "The bracelet-and-earrings list is the guide. A goldsmith with workable gold can make "
+            "any of those things; which one they make is a separate question, and the discourse "
+            "leaves it open."]),
+        ("Using it", [
+            "The three-tier grading of corruptions is the practical content, and it is worth giving "
+            "to a class as a sequence they can locate themselves in. Most people who are working on "
+            "themselves at all are working somewhere in the coarse or middling range, and the fine "
+            "range &mdash; thoughts of family, country, and status &mdash; usually comes as a "
+            "surprise.",
+            "The sentence about suppression is the one to give anybody who meditates. A state held "
+            "in place by force is named here, described accurately, and said to be not yet the thing "
+            "&mdash; and the discourse does not tell them to try harder. It says there comes a time.",
+            "This discourse and AN 3.102 are a pair and should be taught together: this one is about "
+            "what has to come out, and the next is about what to do while waiting."]),
+    ],
+    terms=[
+        ("paṁsudhovaka",
+         "&ldquo;panner&rdquo; &mdash; one who washes gold-bearing dirt in a pan. The first half of "
+         "the simile is his work and the second half is the goldsmith&rsquo;s."),
+        ("oḷārika majjhimaka sukhuma",
+         "&ldquo;coarse, middling, fine&rdquo; &mdash; the grading of corruptions in both the gold "
+         "and the mind."),
+        ("dhammavitakka",
+         "&ldquo;thoughts about the teaching&rdquo; &mdash; what is left when everything else has "
+         "been washed out, and still not the destination."),
+        ("sasaṅkhāraniggayha vāritavata",
+         "&ldquo;held in place by forceful suppression&rdquo; &mdash; the canon&rsquo;s name for a "
+         "concentration produced by holding something down, which it distinguishes sharply from the "
+         "settled kind."),
+        ("mudu kammañña pabhassara",
+         "&ldquo;pliable, workable, radiant&rdquo; &mdash; said of the smelted gold and of the mind. "
+         "<em>Kammañña</em> is why the image is a goldsmith: purity is for making something."),
+    ],
+    text_intro=(
+        "The discourse in full, including the six capacities that close it. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Washing, and then smelting"),
+        ("p", "&sect;1", "an3.101:1.1-1.12"),
+        ("h3", "Coarse, middling, fine"),
+        ("p", "&sect;2", "an3.101:2.1-2.8"),
+        ("h3", "Within range"),
+        ("p", "&sect;3", "an3.101:3.1-3.2"),
+        ("p", "&sect;4", "an3.101:4.1-4.2"),
+        ("p", "&sect;5", "an3.101:5.1-5.18"),
+        ("p", "&sect;6", "an3.101:6.1-6.2"),
+        ("p", "&sect;7", "an3.101:7.1-7.2"),
+        ("p", "&sect;8", "an3.101:8.1-8.2"),
+    ],
+    quiz=[
+        {"q": "What are the three grades of corruption in native gold?",
+         "opts": [
+             "Sand, soil, and gravel; fine grit and coarse sand; fine sand and black grime",
+             "Iron, copper, and lead",
+             "Dust, water, and air",
+             "Clay, stone, and ash"],
+         "correct": 0,
+         "expl": "Each washed out, and the next becoming visible."},
+        {"q": "What are the corresponding corruptions of the mind?",
+         "opts": [
+             "Greed, hate, and delusion",
+             "Bad conduct of body, speech, and mind; sensual, malicious, and cruel thoughts; thoughts of family, country, and status",
+             "Doubt, restlessness, and dullness",
+             "Wrong view, wrong speech, and wrong action"],
+         "correct": 1,
+         "expl": "The third item is the one worth stopping on."},
+        {"q": "Why does the guide single out the fine corruptions?",
+         "opts": [
+             "Because they are the worst",
+             "Because thoughts of family, country, and status are not vices in any ordinary sense &mdash; they are the ordinary furniture of a mind, classed here as the last dirt in the gold",
+             "Because they are easiest to remove",
+             "Because they are rare"],
+         "correct": 1,
+         "expl": "After conduct and after the three unwholesome kinds of thought."},
+        {"q": "What is left when all three grades are washed out?",
+         "opts": [
+             "Nothing",
+             "Only thoughts about the teaching &mdash; which sounds like the destination and is not",
+             "The five hindrances",
+             "Equanimity"],
+         "correct": 1,
+         "expl": "<em>Dhammavitakka</em>."},
+        {"q": "How is that state described?",
+         "opts": [
+             "As peaceful and sublime",
+             "As not peaceful, not sublime, not tranquil, not unified &mdash; held in place by forceful suppression",
+             "As the fourth absorption",
+             "As freedom"],
+         "correct": 1,
+         "expl": "The canon rarely says this so plainly."},
+        {"q": "What difference does the guide say that marks?",
+         "opts": [
+             "A difference of degree",
+             "The difference between a lid on a pot and a pot that has stopped boiling",
+             "The difference between lay and monastic practice",
+             "No real difference"],
+         "correct": 1,
+         "expl": "Concentration produced by holding something in place is not what the training is for."},
+        {"q": "How is the next stage described?",
+         "opts": [
+             "As achieved by greater effort",
+             "As an arrival &mdash; &ldquo;there comes a time when that mind is stilled internally&rdquo;",
+             "As granted by a teacher",
+             "As instantaneous"],
+         "correct": 1,
+         "expl": "The same phrase AN 3.92 uses of crops ripening."},
+        {"q": "What does the smelting half of the simile add that the washing cannot?",
+         "opts": [
+             "Nothing is taken out during the melting &mdash; the material changes state",
+             "That gold is valuable",
+             "That fire is needed",
+             "That tools are required"],
+         "correct": 0,
+         "expl": "Which explains why continuing to do the same thing when it is not working is sometimes the correct instruction."},
+        {"q": "Why is <em>kammañña</em>, workable, the key term?",
+         "opts": [
+             "Because it is rare",
+             "Because gold is made pure so that it can be made into something &mdash; purity is for use",
+             "Because it means soft",
+             "Because it describes the fire"],
+         "correct": 1,
+         "expl": "The goldsmith can then make a bracelet, earrings, a necklace, or a golden garland."},
+        {"q": "What does the guide notice about the six capacities that close the discourse?",
+         "opts": [
+             "That they are ranked",
+             "That the last of them is the only one the rest of the collection treats as the point &mdash; and here no ranking is offered",
+             "That they are impossible",
+             "That they are optional"],
+         "correct": 1,
+         "expl": "AN 3.60 ranked psychic power last, and AN 3.92 said no power schedules one&rsquo;s own release."},
+    ],
+    marginalia=[
+        ("Three washings", [
+            "coarse &middot; bad conduct",
+            "middling &middot; sensual, cruel thoughts",
+            "fine &middot; family, country, status",
+        ]),
+        ("What is left", [
+            "<span class=\"pali\">dhammavitakka</span>",
+            "&mdash; and still &ldquo;held in place",
+            "by forceful suppression&rdquo;",
+        ]),
+        ("Then the smelting", [
+            "nothing more removed",
+            "the material changes state",
+            "<span class=\"pali\">mudu kammañña pabhassara</span>",
+        ]),
+        ("Cross-references", [
+            "AN 3.102 &middot; what to do meanwhile",
+            "AN 3.92 &middot; &ldquo;there comes a time&rdquo;",
+            "AN 3.100 &middot; the lump of salt",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.101/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.102.html">AN 3.102 &middot; Basis</a> &mdash; the companion discourse, with '
+        "the same goldsmith and a different question: not what has to come out, but what to attend to "
+        "while the work is going on.",
+        '<a href="an-3.92.html">AN 3.92 &middot; Urgent</a> &mdash; for the phrase &ldquo;there comes '
+        "a time&rdquo;, and for why the arrival of the settled mind cannot be scheduled.",
+        '<a href="/sutras/shi-chan-boluomi/fascicle-003/">Shi Chan Boluomi &middot; Fascicle 3</a> '
+        "&mdash; Zhiyi on the gate of stopping and on verifying wholesome capacity, which is a "
+        "Chinese working manual for the stage this discourse describes as gold that is not yet "
+        "settled.",
+    ],
+)
+
+
+page(
+    102, "Nimitta", "Basis",
+    vagga=VAGGA_10,
+    meta_title="AN 3.102 — Basis | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nimittasutta — three "
+        "bases to attend to from time to time, and the goldsmith who fans, sprinkles, and watches. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three bases, three failures from attending to one alone, a simile in the same "
+                 "shape, and the six capacities"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The three signs and the goldsmith simile are preserved in the Chinese "
+                              "Āgamas and were taken up by the Chinese meditation manuals; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and the most directly "
+                       "practical meditation instruction in the Threes"),
+    ],
+    why=(
+        "A goldsmith working a crucible does three things by turns: fans it, sprinkles water on it, "
+        "and just watches. Fan it only and the gold scorches; sprinkle only and it cools; watch only "
+        "and it never gets processed. A meditator has three corresponding bases &mdash; immersion, "
+        "exertion, and equanimity &mdash; and the instruction is to attend to each <em>from time to "
+        "time</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Three things to attend to in rotation, and each of them alone will ruin the work in its "
+            "own way."]),
+        ("What a <em>nimitta</em> is here", [
+            "The word is the one AN 3.32 used for the aspect of a thing that the mind takes hold of, "
+            "and AN 3.68 used for the beautiful and repellent features that feed greed and hate. "
+            "Sujato renders it here as <em>basis</em>, which keeps it from sounding like a "
+            "meditation object in the technical sense.",
+            "The three are <em>samādhinimitta</em>, the basis of immersion; <em>paggahanimitta</em>, "
+            "the basis of exertion; and <em>upekkhānimitta</em>, the basis of equanimity. They are "
+            "aspects of one&rsquo;s own practice, not external objects: the settledness of the mind, "
+            "the effort being applied, and the willingness to leave it alone.",
+            "The instruction is <em>kālena kālaṁ</em>, from time to time. Not simultaneously and not "
+            "in a fixed order &mdash; by turns, as the situation requires, which is exactly what the "
+            "goldsmith does."]),
+        ("Three ways to get it wrong", [
+            "Attend solely to immersion and <em>it&rsquo;s likely their mind will incline to "
+            "laziness</em>. A meditator who only ever cultivates settledness ends up somewhere "
+            "pleasant and inert.",
+            "Attend solely to exertion and <em>it&rsquo;s likely their mind will incline to "
+            "restlessness</em>. Effort applied continuously produces agitation, which is the thing "
+            "effort was supposed to remove.",
+            "Attend solely to equanimity and <em>it&rsquo;s likely their mind won&rsquo;t properly "
+            "become immersed in samādhi for the ending of defilements</em>. Watching without ever "
+            "adjusting produces nothing at all.",
+            "These three failures are recognizable to anybody who has meditated for a few months, "
+            "and naming them is most of the discourse&rsquo;s value. The third is the least often "
+            "noticed and the most common in experienced practitioners: a settled, patient, "
+            "non-interfering attitude that never becomes anything."]),
+        ("The crucible", [
+            "The goldsmith prepares a forge, fires the crucible, picks up native gold with tongs, and "
+            "puts it in. Then, from time to time, he fans it; from time to time, sprinkles water on "
+            "it; from time to time, just watches over it.",
+            "Fanned only, the gold is scorched. Sprinkled only, it cools. Watched only, it is not "
+            "properly processed. The correspondence with the three bases is exact and the discourse "
+            "does not need to spell it out: fanning is exertion, sprinkling is settling, and watching "
+            "is equanimity.",
+            "The image does something a list cannot. A goldsmith does not fan and sprinkle according "
+            "to a schedule; he does it according to what the metal is doing, which he can see. The "
+            "instruction <em>from time to time</em> is therefore not vague. It means: respond to the "
+            "state in front of you.",
+            "The result is the same three adjectives as AN 3.101 &mdash; pliable, workable, radiant, "
+            "not brittle &mdash; and the same list of ornaments."]),
+        ("Where this went in the Chinese manuals", [
+            "This discourse is the seed of a very large tradition. The problem it names &mdash; a "
+            "mind that goes slack or goes agitated, and the need to correct in the opposite direction "
+            "&mdash; is the organizing problem of the Chinese meditation literature, where 昏沉 "
+            "(sinking, dullness) and 掉舉 (scattering, agitation) are the standing pair of faults and "
+            "the manuals give detailed procedures for each.",
+            "Zhiyi&rsquo;s treatises work this out at length: what to do when the mind sinks, what to "
+            "do when it scatters, and how to tell which is happening. A reader who meets that "
+            "material without this discourse will find it fussy; a reader who has this discourse "
+            "first will recognize it as the expansion of a three-line instruction.",
+            "It is also worth saying that the Pāli discourse is more economical and in one respect "
+            "more useful: it names three failures rather than two, and the third &mdash; equanimity "
+            "alone, producing nothing &mdash; is the one a practitioner is least likely to diagnose "
+            "in themselves."]),
+        ("Using it", [
+            "This is the most immediately usable meditation instruction in the Threes and it fits on "
+            "a card. Three things: settling, effort, and leaving alone. Each alone fails in its own "
+            "way. Rotate according to what is actually happening.",
+            "For a class, the goldsmith is the part to dwell on, because it supplies the missing "
+            "term. The instruction is not <em>do all three equally</em> but <em>do the one the "
+            "situation calls for</em>, and the only way to know which is to look &mdash; which is "
+            "itself the third basis, doing its work."]),
+    ],
+    terms=[
+        ("nimitta",
+         "&ldquo;basis, sign, feature&rdquo; &mdash; here an aspect of one&rsquo;s own practice "
+         "rather than an external object. The same word AN 3.68 uses of what feeds greed and hate."),
+        ("samādhinimitta",
+         "&ldquo;the basis of immersion&rdquo; &mdash; the settledness of the mind. Attended to alone, "
+         "it inclines to laziness."),
+        ("paggahanimitta",
+         "&ldquo;the basis of exertion&rdquo; &mdash; the effort being applied. Attended to alone, it "
+         "inclines to restlessness."),
+        ("upekkhānimitta",
+         "&ldquo;the basis of equanimity&rdquo; &mdash; the willingness to leave it alone. Attended "
+         "to alone, the mind never properly settles for the ending of defilements."),
+        ("kālena kālaṁ",
+         "&ldquo;from time to time&rdquo; &mdash; not simultaneously and not on a schedule, but as "
+         "the situation requires, which is what the goldsmith does."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three bases"),
+        ("p", "&sect;1", "an3.102:1.1-1.6"),
+        ("h3", "The crucible"),
+        ("p", "&sect;2", "an3.102:2.1-2.6"),
+        ("h3", "Within range"),
+        ("p", "&sect;3", "an3.102:3.1-3.7"),
+        ("p", "&sect;4", "an3.102:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "What are the three bases?",
+         "opts": [
+             "Ethics, immersion, and wisdom",
+             "The basis of immersion, the basis of exertion, and the basis of equanimity",
+             "Body, feeling, and mind",
+             "Faith, energy, and mindfulness"],
+         "correct": 1,
+         "expl": "Aspects of one&rsquo;s own practice rather than external objects."},
+        {"q": "What happens if a meditator attends solely to immersion?",
+         "opts": [
+             "The mind inclines to laziness",
+             "The mind inclines to restlessness",
+             "The mind becomes agitated",
+             "Nothing changes"],
+         "correct": 0,
+         "expl": "Somewhere pleasant and inert."},
+        {"q": "And solely to exertion?",
+         "opts": [
+             "Sleepiness",
+             "Restlessness &mdash; effort applied continuously produces the agitation it was meant to remove",
+             "Equanimity",
+             "Clarity"],
+         "correct": 1,
+         "expl": "The second of three named failures."},
+        {"q": "And solely to equanimity?",
+         "opts": [
+             "The mind becomes free",
+             "The mind will not properly become immersed in samādhi for the ending of defilements",
+             "The mind becomes agitated",
+             "The mind becomes dull"],
+         "correct": 1,
+         "expl": "Watching without ever adjusting produces nothing at all."},
+        {"q": "Which failure does the guide say is least often noticed?",
+         "opts": [
+             "The first",
+             "The second",
+             "The third &mdash; a settled, patient, non-interfering attitude that never becomes anything",
+             "None of them"],
+         "correct": 2,
+         "expl": "And the most common in experienced practitioners."},
+        {"q": "What three things does the goldsmith do by turns?",
+         "opts": [
+             "Fans the crucible, sprinkles water on it, and just watches over it",
+             "Heats, hammers, and polishes",
+             "Melts, pours, and cools",
+             "Weighs, tests, and stamps"],
+         "correct": 0,
+         "expl": "Fanned only it scorches; sprinkled only it cools; watched only it is not processed."},
+        {"q": "What does the image supply that the list cannot?",
+         "opts": [
+             "That gold is valuable",
+             "That a goldsmith acts according to what the metal is doing, which he can see &mdash; so &ldquo;from time to time&rdquo; means respond to the state in front of you",
+             "That fire is dangerous",
+             "That tools are needed"],
+         "correct": 1,
+         "expl": "The instruction is therefore not vague."},
+        {"q": "What pair of faults organizes the Chinese meditation literature?",
+         "opts": [
+             "貪 and 瞋",
+             "昏沉 and 掉舉 &mdash; sinking and scattering",
+             "戒 and 定",
+             "止 and 觀"],
+         "correct": 1,
+         "expl": "The manuals give detailed procedures for each."},
+        {"q": "In what respect does the guide call the Pāli discourse more useful?",
+         "opts": [
+             "It is longer",
+             "It names three failures rather than two, and the third &mdash; equanimity alone, producing nothing &mdash; is the hardest to diagnose in oneself",
+             "It is older",
+             "It gives more techniques"],
+         "correct": 1,
+         "expl": "A reader who meets the Chinese material without this discourse will find it fussy."},
+        {"q": "How does the guide summarize the instruction?",
+         "opts": [
+             "Do all three equally",
+             "Do the one the situation calls for &mdash; and the only way to know which is to look, which is the third basis doing its work",
+             "Alternate on a schedule",
+             "Begin with exertion"],
+         "correct": 1,
+         "expl": "It fits on a card: settling, effort, and leaving alone."},
+    ],
+    marginalia=[
+        ("Three bases", [
+            "<span class=\"pali\">samādhi</span>immersion",
+            "<span class=\"pali\">paggaha</span>exertion",
+            "<span class=\"pali\">upekkhā</span>equanimity",
+        ]),
+        ("Each alone", [
+            "immersion only &middot; laziness",
+            "exertion only &middot; restlessness",
+            "equanimity only &middot; nothing settles",
+        ]),
+        ("The goldsmith", [
+            "fans it",
+            "sprinkles water",
+            "just watches",
+            "&mdash; from time to time",
+        ]),
+        ("Cross-references", [
+            "AN 3.101 &middot; what has to come out",
+            "AN 3.68 &middot; <span class=\"pali\">nimitta</span>, elsewhere",
+            "昏沉 / 掉舉 &middot; the later pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.102/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.101.html">AN 3.101 &middot; A Panner</a> &mdash; the companion, with the same '
+        "goldsmith and the same closing list: there, what has to be washed out; here, what to attend "
+        "to while the crucible is working.",
+        '<a href="/sutras/xiao-zhiguan-jiangyi/index.html">Xiao Zhiguan</a> &mdash; Zhiyi&rsquo;s '
+        "shorter meditation manual, where sinking and scattering are diagnosed and corrected in "
+        "detail. It is the expansion of this three-line instruction into a working procedure.",
+        '<a href="an-3.68.html">AN 3.68 &middot; Followers of Other Religions</a> &mdash; for the '
+        "same word <em>nimitta</em> used of the features that feed greed and hate, which is worth "
+        "holding beside its use here for aspects of one&rsquo;s own practice.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.103–3.112 — Sambodhavagga
+# --------------------------------------------------------------------------- #
+VAGGA_11 = "<em>Sambodhavagga</em> &mdash; the eleventh chapter of the Threes"
+
+page(
+    103, "Pubbevasambodha", "Before Awakening",
+    vagga=VAGGA_11,
+    meta_title="AN 3.103 — Before Awakening | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pubbevasambodhasutta — the three questions the Bodhisatta asked about the world, and "
+        "what turned on the answers. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", "The Buddha, speaking about the time before his awakening"),
+        ("Form", "A remembered question, its three-part answer, and a statement of what depended on "
+                 "it"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The gratification-drawback-escape analysis is preserved throughout the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and the frame is the whole "
+                       "chapter"),
+    ],
+    why=(
+        "Before his awakening, the Bodhisatta asked three questions about the world: what is its "
+        "gratification, what is its drawback, what is the escape? The answers are three sentences. "
+        "And then the claim that gives the chapter its shape: <em>as long as I didn&rsquo;t truly "
+        "understand these for what they are, I didn&rsquo;t announce my awakening.</em>"),
+    guide=[
+        ("The teaching in one sentence", [
+            "Awakening was withheld until three questions about the world had been answered: what is "
+            "good about it, what is wrong with it, and how one gets out."]),
+        ("Three words", [
+            "<em>Assāda</em>, gratification &mdash; what is enjoyable, satisfying, tasty. The word is "
+            "not pejorative; the canon uses it of anything that genuinely pleases.",
+            "<em>Ādīnava</em>, drawback or danger &mdash; the same word Channa used in AN 3.71 when "
+            "he asked what drawbacks had been <em>seen</em> in greed.",
+            "<em>Nissaraṇa</em>, escape &mdash; literally going out from. Not destruction of the "
+            "thing and not indifference to it, but a way out.",
+            "The three together are one of the canon&rsquo;s standard analytical tools, applied to "
+            "the world here and to feelings, the elements, and the sense fields elsewhere. It is "
+            "worth teaching as a method rather than as a doctrine, because it can be run on anything."]),
+        ("The three answers", [
+            "&ldquo;The pleasure and happiness that arise from the world: this is its gratification.&rdquo;",
+            "That sentence is the one to slow down on, and it should be quoted before any of the "
+            "others when this material is taught. The world is pleasant. The discourse says so "
+            "first, in the voice of somebody who went on to renounce it, and it does not qualify the "
+            "statement.",
+            "&ldquo;That the world is impermanent, suffering, and perishable: this is its "
+            "drawback.&rdquo; Three words, and the drawback is not that the pleasure is fake. It is "
+            "that the thing providing it does not hold.",
+            "&ldquo;Removing and giving up desire and greed for the world: this is its escape.&rdquo; "
+            "Notice what is removed. Not the world, and not the pleasure &mdash; the desire and "
+            "greed. The escape is stated as a change in the person rather than in the situation."]),
+        ("What the three do together", [
+            "The structure is more careful than it looks. If only the gratification were stated, the "
+            "analysis would be an endorsement; if only the drawback, a complaint; if only the escape, "
+            "an instruction with no reason attached.",
+            "All three together produce something a person can hold without distortion: this is "
+            "genuinely enjoyable, it genuinely does not last, and here is what to do about the "
+            "combination. Nothing has to be denied.",
+            "That is worth stressing because the analysis is often presented with the first term "
+            "missing. A version of Buddhism in which the world is simply bad is easier to summarize "
+            "and considerably less like what the texts say. The Bodhisatta&rsquo;s first question was "
+            "about the pleasure."]),
+        ("The claim about awakening", [
+            "&ldquo;As long as I didn&rsquo;t truly understand the world&rsquo;s gratification, "
+            "drawback, and escape in this way for what they are, I didn&rsquo;t announce my supreme "
+            "perfect awakening.&rdquo;",
+            "This is a strong statement about a criterion. The announcement was conditional on this "
+            "analysis being complete &mdash; not on an experience, a vision, or a state, but on three "
+            "questions being answered <em>yathābhūtaṁ</em>, as they actually are.",
+            "The audience of the announcement is given in full and is worth reading: <em>this world "
+            "with its gods, Māras, and Divinities, this population with its ascetics and brahmins, "
+            "its gods and humans.</em> The claim is made publicly and against every available "
+            "authority.",
+            "And then the private counterpart: <em>knowledge and vision arose in me: my freedom is "
+            "unshakable; this is my last rebirth; now there&rsquo;ll be no more future lives.</em> "
+            "The same reflexive knowledge AN 3.85 described as following the first."]),
+        ("Using it", [
+            "Teach the three questions as a tool and run them on something in the room. What is "
+            "genuinely good about this? What is genuinely wrong with it? What would getting free of "
+            "it consist of? The method works on a job, a relationship, a habit, or a country, and it "
+            "produces a more honest account than any of the three alone.",
+            "The chapter that follows uses the same three terms four discourses running &mdash; AN "
+            "3.104 says he went looking for them and found them, AN 3.105 says what would follow if "
+            "any were missing, and AN 3.106 makes them the test of a genuine ascetic. This is the "
+            "one that says why they mattered."]),
+    ],
+    terms=[
+        ("assāda",
+         "&ldquo;gratification&rdquo; &mdash; what is enjoyable or satisfying. Not a pejorative term; "
+         "the canon uses it of anything that genuinely pleases."),
+        ("ādīnava",
+         "&ldquo;drawback, danger&rdquo; &mdash; the same word Channa uses in AN 3.71 when he asks "
+         "what has been seen in greed."),
+        ("nissaraṇa",
+         "&ldquo;escape&rdquo; &mdash; literally a going out from. Not destruction of the thing and "
+         "not indifference to it."),
+        ("yathābhūtaṁ",
+         "&ldquo;for what they are&rdquo; &mdash; literally as it has become. The condition on which "
+         "the announcement of awakening depended."),
+        ("chandarāgavinaya",
+         "&ldquo;removing desire and greed&rdquo; &mdash; what the escape consists of. A change in "
+         "the person rather than in the world."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.103:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What three questions did the Bodhisatta ask?",
+         "opts": [
+             "What is the world, who made it, and where does it end?",
+             "What is the world&rsquo;s gratification, what is its drawback, what is the escape?",
+             "What is suffering, what is its cause, and what is its cessation?",
+             "Who am I, where am I going, and why?"],
+         "correct": 1,
+         "expl": "One of the canon&rsquo;s standard analytical tools, applicable to anything."},
+        {"q": "What is the world&rsquo;s gratification, in the answer given?",
+         "opts": [
+             "An illusion",
+             "The pleasure and happiness that arise from it &mdash; stated without qualification",
+             "Wealth and status",
+             "The company of others"],
+         "correct": 1,
+         "expl": "Said first, in the voice of somebody who went on to renounce it."},
+        {"q": "What is its drawback?",
+         "opts": [
+             "That the pleasure is fake",
+             "That it is impermanent, suffering, and perishable &mdash; the thing providing the pleasure does not hold",
+             "That it is evil",
+             "That others compete for it"],
+         "correct": 1,
+         "expl": "Not that the pleasure is not real."},
+        {"q": "What is the escape?",
+         "opts": [
+             "Leaving the world",
+             "Destroying the pleasure",
+             "Removing and giving up desire and greed for the world &mdash; a change in the person rather than the situation",
+             "Rebirth in heaven"],
+         "correct": 2,
+         "expl": "Not the world, and not the pleasure."},
+        {"q": "What would each term alone produce, according to the guide?",
+         "opts": [
+             "Gratification alone, an endorsement; drawback alone, a complaint; escape alone, an instruction with no reason attached",
+             "Nothing different",
+             "The same analysis",
+             "Three separate teachings"],
+         "correct": 0,
+         "expl": "All three together produce something a person can hold without distortion."},
+        {"q": "Which term does the guide say is most often dropped?",
+         "opts": [
+             "The escape",
+             "The drawback",
+             "The gratification &mdash; producing a version of Buddhism in which the world is simply bad",
+             "None of them"],
+         "correct": 2,
+         "expl": "The Bodhisatta&rsquo;s first question was about the pleasure."},
+        {"q": "What was the announcement of awakening conditional on?",
+         "opts": [
+             "An experience",
+             "A vision",
+             "These three questions being answered <em>yathābhūtaṁ</em>, as they actually are",
+             "The agreement of other teachers"],
+         "correct": 2,
+         "expl": "A strong statement about a criterion."},
+        {"q": "To whom was the announcement made?",
+         "opts": [
+             "The five mendicants",
+             "This world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans",
+             "The Saṅgha",
+             "A king"],
+         "correct": 1,
+         "expl": "Publicly, and against every available authority."},
+        {"q": "What is the private counterpart?",
+         "opts": [
+             "A vision of past lives",
+             "Knowledge and vision: my freedom is unshakable; this is my last rebirth; now there will be no more future lives",
+             "The divine eye",
+             "Psychic power"],
+         "correct": 1,
+         "expl": "The same reflexive knowledge AN 3.85 describes as following the first."},
+        {"q": "How does the guide suggest teaching the three?",
+         "opts": [
+             "As doctrine",
+             "As a tool, run on something in the room &mdash; what is genuinely good about this, what is genuinely wrong with it, what would getting free consist of",
+             "As history",
+             "As a formula to memorize"],
+         "correct": 1,
+         "expl": "It works on a job, a relationship, a habit, or a country."},
+    ],
+    marginalia=[
+        ("Three questions", [
+            "<span class=\"pali\">assāda</span>gratification",
+            "<span class=\"pali\">ādīnava</span>drawback",
+            "<span class=\"pali\">nissaraṇa</span>escape",
+        ]),
+        ("Three answers", [
+            "the pleasure that arises",
+            "impermanent, suffering, perishable",
+            "removing desire and greed",
+        ]),
+        ("The condition", [
+            "&ldquo;as long as I didn&rsquo;t",
+            "truly understand&hellip;",
+            "I didn&rsquo;t announce&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.104 &middot; he went looking and found",
+            "AN 3.106 &middot; the test of an ascetic",
+            "AN 3.71 &middot; <span class=\"pali\">ādīnava</span>, asked for",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.103/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.104.html">AN 3.104 &middot; Gratification (1st)</a> &mdash; the same three '
+        "terms told as a search: he went looking for each and found it.",
+        '<a href="an-3.71.html">AN 3.71 &middot; With Channa</a> &mdash; where a wanderer asks what '
+        "drawbacks have been <em>seen</em> in greed, which is the same analytical term put as a "
+        "question to the tradition.",
+        '<a href="../majjhima-nikaya/mn-026.html">MN 26 &middot; The Noble Search</a> &mdash; the '
+        "fuller first-person account of the same period, told as a search for what is not liable to "
+        "aging and death.",
+    ],
+)
+
+
+page(
+    104, "Paṭhamaassāda", "Gratification (1st)",
+    vagga=VAGGA_11,
+    meta_title="AN 3.104 — Gratification (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Assādasutta — the "
+        "same three terms told as a search that was undertaken and completed. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", "The Buddha, speaking about his own search"),
+        ("Form", "Three searches, each found; then the same conditional statement as AN 3.103"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; AN 3.103 with the verbs changed"),
+    ],
+    why=(
+        "The same three terms as the previous discourse, with the framing changed from a question to "
+        "a search. <em>I went in search of the world&rsquo;s gratification, and I found it. I&rsquo;ve "
+        "seen clearly with wisdom the full extent of gratification in the world.</em> Three times, "
+        "and then the same claim about when the awakening was announced."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The three questions were not answered by reflection but by looking, and the looking was "
+            "carried to the end in each case."]),
+        ("From asking to searching", [
+            "AN 3.103 had the Bodhisatta thinking &mdash; <em>then it occurred to me</em>. Here the "
+            "verb is <em>pariyesanā</em>, search or quest, and each of the three is described as "
+            "something gone after and found.",
+            "That change of frame is the whole difference between the two discourses. A question can "
+            "be answered by working something out; a search implies going somewhere and looking, and "
+            "the canon uses the same word for the great search of MN 26.",
+            "It is a small shift with a consequence for how the analysis should be understood. The "
+            "three terms are not the conclusions of an argument. They are reports of what was found "
+            "when somebody went and looked, which is why the collection can insist elsewhere that "
+            "the same three can be checked by anybody."]),
+        ("&ldquo;The full extent&rdquo;", [
+            "Each of the three is followed by the same sentence: <em>I&rsquo;ve seen clearly with "
+            "wisdom the full extent of gratification in the world</em> &mdash; and then drawbacks, "
+            "and then escape.",
+            "<em>Yāvatako</em>, as far as it goes. The claim is not that some gratification was "
+            "found but that its whole extent was seen, and the same for the drawbacks and for the "
+            "escape.",
+            "That completeness claim is what makes the conditional statement at the end meaningful. "
+            "Awakening was not announced while the survey was partial. A person who had found some of "
+            "the world&rsquo;s pleasure and some of its danger would have an incomplete picture, and "
+            "the discourse says the announcement waited for the complete one.",
+            "It is also, quietly, a claim about the second term that a modern reader may want to "
+            "resist. Seeing the full extent of the world&rsquo;s drawbacks is a large thing to claim "
+            "and it is claimed flatly, in the first person, three times over."]),
+        ("Why two discourses", [
+            "AN 3.103 and AN 3.104 differ only in whether the three terms are arrived at by thinking "
+            "or by searching, and both end with the identical conditional sentence and the identical "
+            "closing knowledge.",
+            "This is the collection&rsquo;s usual pairing habit, seen already in AN 3.76 and 3.77 and "
+            "in AN 3.89 and 3.90: a fixed frame with one element varied, and no ranking offered.",
+            "Here what is being varied is the mode of inquiry. Taken together the two discourses say "
+            "that the analysis was both reasoned and looked for, which is a more careful position "
+            "than either alone &mdash; and it is consistent with AN 3.65 and AN 3.66, where the "
+            "instruction excludes both accepting a tradition and relying on inference."]),
+        ("Using it", [
+            "Teach the pair rather than either alone, and make the shift of verb the lesson. The "
+            "material is short enough that a class can read both in ninety seconds and find the "
+            "difference themselves.",
+            "The transferable question is the completeness claim. Most people who have concluded that "
+            "something is not worth pursuing have found some of its drawbacks; the discourse "
+            "describes somebody who went looking for the extent of them, and did not announce a "
+            "conclusion until the survey was finished."]),
+    ],
+    terms=[
+        ("pariyesanā",
+         "&ldquo;search, quest&rdquo; &mdash; the verb that replaces the thinking of AN 3.103. The "
+         "same word used for the noble search of MN 26."),
+        ("ajjhagamaṁ",
+         "&ldquo;I found it&rdquo; &mdash; said of each of the three in turn, and stated as a result "
+         "rather than as a conclusion."),
+        ("yāvatako",
+         "&ldquo;the full extent&rdquo; &mdash; as far as it goes. The claim is completeness, not "
+         "acquaintance."),
+        ("paññāya sudiṭṭho",
+         "&ldquo;seen clearly with wisdom&rdquo; &mdash; the phrase attached to each of the three "
+         "findings."),
+        ("assāda ādīnava nissaraṇa",
+         "&ldquo;gratification, drawback, escape&rdquo; &mdash; the three terms, unchanged from AN "
+         "3.103 and running through the next three discourses."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.104:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ from AN 3.103?",
+         "opts": [
+             "The three terms are different",
+             "The framing changes from a question thought through to a search undertaken and completed",
+             "It is addressed to a layperson",
+             "It omits the escape"],
+         "correct": 1,
+         "expl": "<em>Pariyesanā</em>, the same word used for the noble search of MN 26."},
+        {"q": "Why does that shift matter?",
+         "opts": [
+             "It does not",
+             "A question can be answered by working something out; a search implies going and looking &mdash; so the three terms are reports rather than conclusions of an argument",
+             "It makes the discourse longer",
+             "It changes the audience"],
+         "correct": 1,
+         "expl": "Which is why the collection can insist the same three can be checked by anybody."},
+        {"q": "What does <em>yāvatako</em> claim?",
+         "opts": [
+             "That some gratification was found",
+             "The full extent &mdash; as far as it goes",
+             "That the search was long",
+             "That the search was difficult"],
+         "correct": 1,
+         "expl": "And the same for the drawbacks and the escape."},
+        {"q": "Why does the completeness claim matter?",
+         "opts": [
+             "It makes the discourse impressive",
+             "Because it makes the conditional statement meaningful &mdash; the announcement waited for a complete survey rather than a partial one",
+             "Because it is unusual",
+             "Because it is disputed"],
+         "correct": 1,
+         "expl": "A person with some of the pleasure and some of the danger would have an incomplete picture."},
+        {"q": "What does the guide say a modern reader may want to resist?",
+         "opts": [
+             "The claim about gratification",
+             "The claim to have seen the full extent of the world&rsquo;s drawbacks &mdash; a large thing to claim, and claimed flatly in the first person",
+             "The claim about escape",
+             "The announcement"],
+         "correct": 1,
+         "expl": "Three times over."},
+        {"q": "What pairing habit does the guide identify?",
+         "opts": [
+             "A fixed frame with one element varied and no ranking offered &mdash; as in AN 3.76 and 3.77, and AN 3.89 and 3.90",
+             "Repetition for emphasis",
+             "Two versions from different reciters",
+             "A summary and an expansion"],
+         "correct": 0,
+         "expl": "Here what is varied is the mode of inquiry."},
+        {"q": "What do the two discourses say together?",
+         "opts": [
+             "That reasoning is superior",
+             "That the analysis was both reasoned and looked for &mdash; a more careful position than either alone",
+             "That searching is superior",
+             "That the terms are uncertain"],
+         "correct": 1,
+         "expl": "Consistent with AN 3.65 and 3.66, where both tradition and inference are excluded as grounds."},
+        {"q": "What phrase is attached to each of the three findings?",
+         "opts": [
+             "&ldquo;I have taught it&rdquo;",
+             "&ldquo;Seen clearly with wisdom&rdquo;",
+             "&ldquo;It arose in me&rdquo;",
+             "&ldquo;I remembered it&rdquo;"],
+         "correct": 1,
+         "expl": "<em>Paññāya sudiṭṭho</em>."},
+        {"q": "How long does the guide say it takes a class to find the difference?",
+         "opts": [
+             "An hour",
+             "Ninety seconds, reading both",
+             "A week of study",
+             "It cannot be found without commentary"],
+         "correct": 1,
+         "expl": "The material is short enough to teach as a pair."},
+        {"q": "What transferable question does the guide draw out?",
+         "opts": [
+             "How long a search should take",
+             "The completeness claim &mdash; most people who conclude something is not worth pursuing have found <em>some</em> of its drawbacks, not the extent of them",
+             "Whether searching is necessary",
+             "Whether pleasure is real"],
+         "correct": 1,
+         "expl": "The discourse describes somebody who did not announce a conclusion until the survey was finished."},
+    ],
+    marginalia=[
+        ("Three searches", [
+            "went looking &middot; found it",
+            "went looking &middot; found them",
+            "went looking &middot; found it",
+        ]),
+        ("The claim", [
+            "<span class=\"pali\">yāvatako</span>the full extent",
+            "<span class=\"pali\">paññāya sudiṭṭho</span>seen with wisdom",
+        ]),
+        ("The pair", [
+            "AN 3.103 &middot; thought through",
+            "AN 3.104 &middot; searched for",
+            "&mdash; and no ranking offered",
+        ]),
+        ("Cross-references", [
+            "AN 3.103 &middot; the same, as a question",
+            "MN 26 &middot; the noble search",
+            "AN 3.105 &middot; what if any were missing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.104/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.103.html">AN 3.103 &middot; Before Awakening</a> &mdash; the same three terms '
+        "reached by reflection rather than by search, with the terms explained in full.",
+        '<a href="an-3.105.html">AN 3.105 &middot; Gratification (2nd)</a> &mdash; the next '
+        "discourse, which argues from what would follow if any of the three did not exist.",
+        '<a href="../majjhima-nikaya/mn-026.html">MN 26 &middot; The Noble Search</a> &mdash; the '
+        "long first-person account of the search this discourse names in one word.",
+    ],
+)
+
+
+page(
+    105, "Dutiyaassāda", "Gratification (2nd)",
+    vagga=VAGGA_11,
+    meta_title="AN 3.105 — Gratification (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Assādasutta — what "
+        "would follow if the world had no gratification, no drawback, or no escape. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three counterfactuals, each with its actual case, and a statement about all beings"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and the argument is worth "
+                       "following carefully"),
+    ],
+    why=(
+        "The same three terms, argued a third way. <em>If there were no gratification in the world, "
+        "beings wouldn&rsquo;t be aroused by it. But because there is, they are.</em> The same for "
+        "the drawback and disillusionment, and for the escape and getting out. Three counterfactuals, "
+        "and each one proves its term from something everybody can observe."),
+    guide=[
+        ("The teaching in one sentence", [
+            "You can tell the world has all three by looking at what beings actually do: they are "
+            "attracted, they become disillusioned, and some get out."]),
+        ("The form of the argument", [
+            "Each of the three is established the same way: state what would <em>not</em> happen if "
+            "the term did not exist, then observe that it does happen.",
+            "If there were no gratification, beings would not be aroused by the world &mdash; but "
+            "they are. If there were no drawback, beings would not grow disillusioned &mdash; but "
+            "they do. If there were no escape, beings would not escape &mdash; but they do.",
+            "This is inference from effect to cause, and it is worth naming as such because it is a "
+            "different kind of argument from the previous two discourses. AN 3.103 reported a "
+            "reflection; AN 3.104 reported a search; this one reasons from public facts about "
+            "behavior.",
+            "The three discourses together therefore give three routes to the same conclusion: "
+            "thought it through, went and looked, and can be shown from what everybody sees. A reader "
+            "who accepts none of the first two still has the third."]),
+        ("The third premise", [
+            "The first two counterfactuals rest on facts nobody disputes. People are attracted to the "
+            "world; people become disillusioned with it. Both are ordinary observations.",
+            "The third is different: <em>if there were no escape from the world, beings wouldn&rsquo;t "
+            "escape from it. But since there is an escape, beings do escape from it.</em>",
+            "That premise is not an ordinary observation. It asserts that some beings actually do get "
+            "out, and a reader who does not accept that has no reason to accept the conclusion. The "
+            "argument is only as strong as the claim that there are people who have escaped.",
+            "It is worth naming this plainly rather than letting it pass, because the first two "
+            "steps are so easy to accept that the third can slide by. What the discourse is doing is "
+            "inferring the availability of the escape from the existence of people who have used it, "
+            "which is a good inference if the observation holds and no inference at all if it does "
+            "not. The collection&rsquo;s answer to that is not argument but AN 3.65 and AN 3.66: go "
+            "and check."]),
+        ("What the conclusion actually says", [
+            "&ldquo;As long as sentient beings don&rsquo;t truly understand the world&rsquo;s "
+            "gratification, drawback, and escape for what they are, they haven&rsquo;t escaped from "
+            "this world.&rdquo; And the positive: when they do understand, they have escaped, and "
+            "<em>live detached, liberated</em>.",
+            "The same conditional that AN 3.103 and AN 3.104 applied to the Buddha&rsquo;s "
+            "announcement is here applied to everybody. That is the discourse&rsquo;s real "
+            "contribution to the set: the criterion is not special.",
+            "What was said of one person &mdash; that the awakening was not announced until these "
+            "three were understood as they are &mdash; is now said of any being at all. The three "
+            "terms are not a biography; they are a general condition."]),
+        ("Using it", [
+            "The argument is short enough to reconstruct on a board and it rewards being taken "
+            "seriously as an argument. Give a class the three counterfactuals, let them agree with "
+            "the first two, and then ask what the third one rests on.",
+            "That is the most useful thing this discourse does. It shows a class exactly where a "
+            "Buddhist argument stops being an appeal to shared observation and starts requiring "
+            "something to be taken on report &mdash; and the collection is not embarrassed about "
+            "the transition, because its standing answer is that the report can be checked."]),
+    ],
+    terms=[
+        ("sārajjeyyuṁ",
+         "&ldquo;would be aroused&rdquo; &mdash; what beings would not do if the world had no "
+         "gratification."),
+        ("nibbindeyyuṁ",
+         "&ldquo;would grow disillusioned&rdquo; &mdash; from <em>nibbidā</em>, the turning-away that "
+         "the drawback produces."),
+        ("nissareyyuṁ",
+         "&ldquo;would escape&rdquo; &mdash; the third counterfactual, and the premise the argument "
+         "actually rests on."),
+        ("visaṁyutta vippamutta",
+         "&ldquo;detached, liberated&rdquo; &mdash; how those who understand the three are said to "
+         "live."),
+        ("yathābhūtaṁ",
+         "&ldquo;for what they are&rdquo; &mdash; the condition, here applied to all beings rather "
+         "than to one."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an3.105:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What form does the argument take?",
+         "opts": [
+             "A simile",
+             "Three counterfactuals &mdash; what would not happen if the term did not exist &mdash; followed by the observation that it does happen",
+             "An appeal to scripture",
+             "A list of definitions"],
+         "correct": 1,
+         "expl": "Inference from effect to cause."},
+        {"q": "How is the gratification established?",
+         "opts": [
+             "By reasoning about pleasure",
+             "If there were none, beings would not be aroused by the world &mdash; but they are",
+             "By the Buddha&rsquo;s testimony",
+             "By definition"],
+         "correct": 1,
+         "expl": "An ordinary observation nobody disputes."},
+        {"q": "How does this differ from the two previous discourses?",
+         "opts": [
+             "It uses different terms",
+             "AN 3.103 reported a reflection and AN 3.104 a search; this one reasons from public facts about behavior",
+             "It is longer",
+             "It is addressed to laypeople"],
+         "correct": 1,
+         "expl": "Three routes to the same conclusion."},
+        {"q": "Which premise does the guide say is not an ordinary observation?",
+         "opts": [
+             "That beings are attracted to the world",
+             "That beings grow disillusioned",
+             "That some beings actually do escape",
+             "That the world is impermanent"],
+         "correct": 2,
+         "expl": "The argument is only as strong as that claim."},
+        {"q": "Why does the guide name that plainly?",
+         "opts": [
+             "To refute the discourse",
+             "Because the first two steps are so easy to accept that the third can slide by",
+             "Because the term is obscure",
+             "Because the translation is disputed"],
+         "correct": 1,
+         "expl": "A good inference if the observation holds, and no inference at all if it does not."},
+        {"q": "What is the collection&rsquo;s answer to that difficulty?",
+         "opts": [
+             "A further argument",
+             "An appeal to authority",
+             "Not argument but AN 3.65 and AN 3.66: go and check",
+             "Silence"],
+         "correct": 2,
+         "expl": "The standing answer is that the report can be checked."},
+        {"q": "What does the conclusion apply the criterion to?",
+         "opts": [
+             "The Buddha only",
+             "Monastics only",
+             "Sentient beings generally &mdash; the same conditional that the previous discourses applied to the announcement of awakening",
+             "Ascetics and brahmins"],
+         "correct": 2,
+         "expl": "The criterion is not special."},
+        {"q": "What does the guide call the discourse&rsquo;s real contribution to the set?",
+         "opts": [
+             "The counterfactual form",
+             "That what was said of one person is now said of any being at all &mdash; the three terms are a general condition rather than a biography",
+             "The vocabulary",
+             "The brevity"],
+         "correct": 1,
+         "expl": "Not a biography."},
+        {"q": "How are those who understand the three said to live?",
+         "opts": [
+             "In seclusion",
+             "Detached and liberated",
+             "In heaven",
+             "Among the noble ones"],
+         "correct": 1,
+         "expl": "<em>Visaṁyutta vippamutta</em>."},
+        {"q": "What does the guide say is the most useful thing this discourse does for a class?",
+         "opts": [
+             "Defines the terms",
+             "Shows exactly where a Buddhist argument stops being an appeal to shared observation and starts requiring something to be taken on report",
+             "Summarizes the chapter",
+             "Names the audience"],
+         "correct": 1,
+         "expl": "And the collection is not embarrassed about the transition."},
+    ],
+    marginalia=[
+        ("Three counterfactuals", [
+            "no gratification &rarr; no attraction",
+            "no drawback &rarr; no disillusion",
+            "no escape &rarr; no escaping",
+        ]),
+        ("Where it rests", [
+            "the first two &middot; ordinary observation",
+            "the third &middot; that some do get out",
+        ]),
+        ("The conclusion", [
+            "applied not to one person",
+            "but to sentient beings",
+            "&mdash; the criterion is not special",
+        ]),
+        ("Cross-references", [
+            "AN 3.103 &middot; reflected",
+            "AN 3.104 &middot; searched",
+            "AN 3.65 &middot; go and check",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.105/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.103.html">AN 3.103 &middot; Before Awakening</a> &mdash; the first of the set, '
+        "where the three terms are explained and their answers given.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the '
+        "collection&rsquo;s answer to the problem this argument leaves open: what to do when a claim "
+        "cannot be settled by argument.",
+        '<a href="an-3.104.html">AN 3.104 &middot; Gratification (1st)</a> &mdash; the same three '
+        "terms told as a search, which is the second of the three routes this set offers to one "
+        "conclusion.",
     ],
 )
