@@ -11624,3 +11624,1213 @@ page(
         "kept.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.51–3.60 — Brāhmaṇavagga
+# --------------------------------------------------------------------------- #
+VAGGA_6 = "<em>Brāhmaṇavagga</em> &mdash; the sixth chapter of the Threes"
+
+page(
+    51, "Paṭhamadvebrāhmaṇa", "Two Brahmins (1st)",
+    vagga=VAGGA_6,
+    meta_title="AN 3.51 — Two Brahmins (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first "
+        "Dvebrāhmaṇasutta — two men of a hundred and twenty who say they have made no shelter "
+        "from fear, and the answer that begins by agreeing with them. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; two very old brahmins come to the Buddha and exchange greetings"),
+        ("Speakers", "Two elderly brahmins and the Buddha"),
+        ("Form", "A request for advice, a blunt confirmation, one sentence of instruction, and two "
+                 "verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable exchanges between the Buddha and aged brahmins are "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short and unusually direct"),
+    ],
+    why=(
+        "Two brahmins of a hundred and twenty come to the Buddha and say the worst thing a person "
+        "can say about their own life: <em>we haven&rsquo;t done what is good and skillful, nor have "
+        "we made a shelter from fear.</em> The first thing the Buddha does is agree. He repeats their "
+        "sentence back to them without softening a word, and only then says what can still be done "
+        "&mdash; which turns out to be something available to a man of a hundred and twenty on the "
+        "afternoon he asks."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Nothing can be done about a life already spent, and the one thing that can be done takes "
+            "no time at all."]),
+        ("Who these men are", [
+            "The description is formulaic and precise: <em>old, elderly and senior, advanced in "
+            "years, reached the final stage of life, a hundred and twenty years old</em>. The last "
+            "phrase is the brahmanical scheme of life-stages showing through &mdash; a brahmin&rsquo;s "
+            "life was mapped into studentship, householding, forest retreat, and renunciation, and "
+            "these two are at the end of the map.",
+            "They come and <em>exchange greetings</em>, the courteous formula used between equals or "
+            "between people of separate traditions; they do not bow, which is what a disciple would "
+            "do. They are not converts and nothing in the discourse converts them. They are two very "
+            "old men from another religion asking for advice.",
+            "What they say about themselves is worth reading slowly. Not that they are afraid of "
+            "dying, and not that they doubt their tradition, but that they have <em>not made a "
+            "shelter from fear</em> &mdash; the thing a whole life is supposed to build, and they got "
+            "to the end without it."]),
+        ("The Buddha agrees", [
+            "&ldquo;Indeed, brahmins, you&rsquo;re old, elderly and senior. And you haven&rsquo;t "
+            "done what is good and skillful, nor have you made a shelter from fear.&rdquo;",
+            "He repeats their own sentence back to them and adds nothing to soften it. No suggestion "
+            "that they are being hard on themselves, no assurance that their years of ritual counted "
+            "for something after all, no observation that it is never too late.",
+            "It is worth pausing on this with a class, because almost every instinct in a modern "
+            "helper runs the other way. The reason the reply works is that it takes their statement "
+            "seriously as a piece of information rather than as a mood to be managed. They said "
+            "something true; treating it as true is the only response that leaves anywhere to go "
+            "next.",
+            "Then the frame: <em>this world is led onward by old age, sickness, and death.</em> "
+            "<em>Upanīyati</em>, led on, carried along &mdash; the word for being taken somewhere by "
+            "something else. Their situation is not unusual; it is the situation, and they have "
+            "simply arrived at the visible end of it."]),
+        ("Five words for one thing", [
+            "&ldquo;But restraint here by way of body, speech, and mind is the shelter, asylum, "
+            "island, refuge, and final haven for the departed.&rdquo;",
+            "Five nouns, and they are not a rhetorical pile. <em>Tāṇa</em> is protection; "
+            "<em>leṇa</em> is a cave or rock-shelter; <em>dīpa</em> is an island, the raised ground "
+            "in a flood; <em>saraṇa</em> is a refuge in the technical sense the three refuges use; "
+            "<em>parāyaṇa</em> is a final destination or resort. Two of them are places, two are "
+            "protections, and the last is where you end up.",
+            "What all five are predicated of is not a practice, a belief, or a rite. It is "
+            "<em>saṁyama</em>, restraint, in the three doors. The most elaborate vocabulary in the "
+            "discourse is spent on the least glamorous thing in it.",
+            "And restraint is exactly what an old man can start today. It requires no strength, no "
+            "years, no memory for texts, and no ceremony &mdash; only not doing certain things. Given "
+            "who is asking, the choice of answer is not accidental."]),
+        ("The verses, and one word in them", [
+            "The verses restate the frame and then say something the prose did not: <em>seeing this "
+            "peril in death, do good deeds that bring you joy.</em>",
+            "<em>Puññāni</em>, good deeds or merit, <em>sukhāvahāni</em>, bringing happiness. The "
+            "instruction is not to be afraid, and not to make amends; it is to do the things that "
+            "produce joy, on the grounds that death is coming. That is a different tone from the "
+            "prose and it is the one the two men are sent away with.",
+            "The second verse repeats the restraint formula and adds <em>as the good deeds done while "
+            "living</em>, pairing restraint with active good-doing so that the advice is not merely "
+            "negative. Between the prose and the verse the old men are given both halves: stop doing "
+            "harm, and do some good, starting now."]),
+        ("Using it", [
+            "This discourse and the next are the ones to have ready for anyone working with the old "
+            "or the dying, and their value is that neither offers comfort of the kind that would fall "
+            "apart under examination.",
+            "The structure is worth naming explicitly, because it can be used: confirm what the "
+            "person said rather than contradicting it; state the general situation so that their case "
+            "is not singular; then give an instruction that is actually available to them in their "
+            "present condition. Every step of that is doing work, and the third step is where most "
+            "well-meant advice fails.",
+            "AN 3.52 repeats the whole exchange with a different image and a different instruction. "
+            "The two should be read together."]),
+    ],
+    terms=[
+        ("upanīyati",
+         "&ldquo;is led onward, is carried along&rdquo; &mdash; the world being taken somewhere by "
+         "old age, sickness, and death. The verb makes the movement something done to you."),
+        ("saṁyama",
+         "&ldquo;restraint&rdquo; &mdash; in body, speech, and mind. The least glamorous thing in the "
+         "discourse, and what the five nouns for shelter are predicated of."),
+        ("tāṇa leṇa dīpa",
+         "&ldquo;shelter, asylum, island&rdquo; &mdash; three of the five: a protection, a rock cave, "
+         "and the raised ground that stays above a flood."),
+        ("parāyaṇa",
+         "&ldquo;final haven, ultimate resort&rdquo; &mdash; the last of the five, and the word that "
+         "names the Sutta Nipāta&rsquo;s Pārāyana chapter, the way to the far shore."),
+        ("pecca",
+         "&ldquo;for the departed, after passing on&rdquo; &mdash; the shelter is described as "
+         "holding after death, which is what these two men were told they had not built."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Two men of a hundred and twenty"),
+        ("p", "&sect;1", "an3.51:1.1-1.5"),
+        ("h3", "The answer"),
+        ("p", "&sect;2", "an3.51:2.1-2.4"),
+        ("h3", "In verse"),
+        ("p", "&sect;3", "an3.51:3.1-3.4"),
+        ("p", "&sect;4", "an3.51:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What do the two brahmins say about themselves?",
+         "opts": [
+             "That they have practiced well and want confirmation",
+             "That they are a hundred and twenty, have not done what is good and skillful, and have made no shelter from fear",
+             "That they wish to ordain",
+             "That their tradition has failed them"],
+         "correct": 1,
+         "expl": "The thing a whole life is supposed to build, and they got to the end without it."},
+        {"q": "How do they greet the Buddha, and what does it indicate?",
+         "opts": [
+             "They bow, indicating discipleship",
+             "They exchange greetings &mdash; the courteous formula between equals or between separate traditions",
+             "They challenge him",
+             "They make an offering"],
+         "correct": 1,
+         "expl": "They are not converts, and nothing in the discourse converts them."},
+        {"q": "What is the Buddha&rsquo;s first move?",
+         "opts": [
+             "To reassure them that it is never too late",
+             "To point out that their rituals counted for something",
+             "To repeat their own sentence back to them without softening a word",
+             "To ask them a question"],
+         "correct": 2,
+         "expl": "He takes their statement as information rather than as a mood to be managed."},
+        {"q": "Why does the guide say that response works?",
+         "opts": [
+             "Because it is traditional",
+             "Because they said something true, and treating it as true is the only response that leaves anywhere to go next",
+             "Because it shocks them",
+             "Because it establishes his authority"],
+         "correct": 1,
+         "expl": "Almost every instinct in a modern helper runs the other way."},
+        {"q": "What does <em>upanīyati</em> convey?",
+         "opts": [
+             "That the world is destroyed",
+             "That the world is led onward, carried along &mdash; the movement is something done to you",
+             "That the world is unreal",
+             "That the world is renewed"],
+         "correct": 1,
+         "expl": "Their situation is not unusual; it is the situation."},
+        {"q": "What are the five nouns applied to?",
+         "opts": [
+             "Faith",
+             "Ritual",
+             "Restraint by way of body, speech, and mind",
+             "Giving"],
+         "correct": 2,
+         "expl": "The most elaborate vocabulary in the discourse is spent on the least glamorous thing in it."},
+        {"q": "What is <em>dīpa</em>, and what does it picture?",
+         "opts": [
+             "A lamp only",
+             "An island &mdash; the raised ground that stays above a flood",
+             "A boat",
+             "A doorway"],
+         "correct": 1,
+         "expl": "Two of the five are places, two are protections, and the last is where you end up."},
+        {"q": "Why does the guide say restraint is the right answer for these particular men?",
+         "opts": [
+             "Because it is the highest practice",
+             "Because it requires no strength, no years, no memory for texts, and no ceremony &mdash; only not doing certain things",
+             "Because brahmins already practice it",
+             "Because it is easy to explain"],
+         "correct": 1,
+         "expl": "Given who is asking, the choice of answer is not accidental."},
+        {"q": "What do the verses add that the prose did not?",
+         "opts": [
+             "A warning about hell",
+             "&ldquo;Seeing this peril in death, do good deeds that bring you joy&rdquo; &mdash; and the pairing of restraint with good deeds done while living",
+             "A promise of long life",
+             "A rebuke"],
+         "correct": 1,
+         "expl": "Not to be afraid and not to make amends, but to do the things that produce joy."},
+        {"q": "What three-step structure does the guide draw out for use?",
+         "opts": [
+             "Console, explain, promise",
+             "Confirm what the person said; state the general situation so their case is not singular; give an instruction actually available in their present condition",
+             "Diagnose, prescribe, follow up",
+             "Listen, agree, withdraw"],
+         "correct": 1,
+         "expl": "The third step is where most well-meant advice fails."},
+    ],
+    marginalia=[
+        ("What they say", [
+            "a hundred and twenty",
+            "&ldquo;we haven&rsquo;t done what is good&rdquo;",
+            "&ldquo;nor made a shelter from fear&rdquo;",
+        ]),
+        ("What he says first", [
+            "&ldquo;Indeed, brahmins&hellip;&rdquo;",
+            "&mdash; the same sentence, unsoftened",
+        ]),
+        ("Five words, one thing", [
+            "<span class=\"pali\">tāṇa</span>shelter",
+            "<span class=\"pali\">leṇa</span>rock cave",
+            "<span class=\"pali\">dīpa</span>island",
+            "<span class=\"pali\">saraṇa parāyaṇa</span>refuge, final haven",
+        ]),
+        ("Cross-references", [
+            "AN 3.52 &middot; the same men, a burning house",
+            "AN 3.36 &middot; the messengers they saw",
+            "AN 3.45 &middot; what the astute commend",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.51/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.52.html">AN 3.52 &middot; Two Brahmins (2nd)</a> &mdash; the same exchange '
+        "with the world burning instead of being led on, and giving instead of restraint as the "
+        "instruction. The pair is a single lesson in two moods.",
+        '<a href="an-3.36.html">AN 3.36 &middot; Messengers of the Gods</a> &mdash; where the '
+        "question these men are answering for themselves is put to somebody who left it too late.",
+        '<a href="../sutta-nipata/snp-5.4.html">Snp 5.4 &middot; The Questions of Puṇṇaka</a> '
+        "&mdash; from the Pārāyana, the collection whose name is the last of the five words used "
+        "here for shelter, and an answer to a brahmin who came asking about the value of his "
+        "sacrifices.",
+    ],
+)
+
+
+page(
+    52, "Dutiyadvebrāhmaṇa", "Two Brahmins (2nd)",
+    vagga=VAGGA_6,
+    meta_title="AN 3.52 — Two Brahmins (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Dvebrāhmaṇasutta — the world on fire, the pot you carry out of a burning house, and the "
+        "line that what is given is what is rescued. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; two very old brahmins come to the Buddha, bow, and sit down"),
+        ("Speakers", "Two elderly brahmins and the Buddha"),
+        ("Form", "The same request and confirmation as AN 3.51, with a different image and three "
+                 "verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The image of the burning house is preserved across the Chinese Āgamas "
+                              "and became one of the most famous parables in East Asian Buddhism "
+                              "through the Lotus Sūtra; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and the verse is the "
+                       "reason to read it"),
+    ],
+    why=(
+        "The same two very old men, the same admission, the same blunt confirmation &mdash; and then "
+        "the world is not <em>led onward</em> by old age and death but <em>burning</em> with them. "
+        "The verse that follows is one of the sharpest in the collection: when your house is on fire "
+        "you carry out the pot that is still good, not the one already burnt; and since the world is "
+        "on fire, what you give away is what you get out."),
+    guide=[
+        ("The teaching in one sentence", [
+            "In a fire you save what you can still use, and in this fire what you save is what you "
+            "give away."]),
+        ("One word changed", [
+            "AN 3.51 and AN 3.52 are the same discourse until the middle of the Buddha&rsquo;s reply. "
+            "There: <em>this world is led onward by old age, sickness, and death.</em> Here: <em>this "
+            "world is burning with old age, sickness, and death.</em>",
+            "<em>Upanīyati</em> becomes <em>āditto</em>. Being carried along is something you might "
+            "not notice; a fire is not. The change of verb changes the urgency, and the instruction "
+            "changes with it &mdash; from restraint, which is a matter of not doing, to giving, which "
+            "has to be done now.",
+            "One small difference in the frame: in AN 3.51 the brahmins exchange greetings, in AN "
+            "3.52 they bow. Whether this is the same pair on a later visit or a different pair is not "
+            "stated, and the collection does not care; but the gesture is the one a disciple makes."]),
+        ("The pot", [
+            "<em>When your house is on fire, you rescue the pot that&rsquo;s useful, not the one "
+            "that&rsquo;s burnt.</em>",
+            "It is a domestic image and completely unsentimental. In a fire nobody deliberates; you "
+            "grab what is still good and you leave the ruined thing where it is. The verse assumes "
+            "you would do this without being told.",
+            "Then the application: <em>and as the world is on fire with old age and death, you should "
+            "rescue by giving, for what&rsquo;s given is rescued.</em> The Pāli is a compact play "
+            "&mdash; <em>dinnaṁ hoti sunīhataṁ</em>, what is given is well carried out &mdash; using "
+            "the same verb for taking a pot out of a burning building and for handing something to "
+            "somebody else.",
+            "The logic is worth stating plainly, because it is not the ordinary argument for "
+            "generosity. It is not that giving is kind, or that it earns a good rebirth, or that "
+            "possessions are a burden. It is that everything in the house is going to burn, so the "
+            "only property that survives is the property that left the house. Giving is here the one "
+            "form of keeping."]),
+        ("The other burning house", [
+            "Any class in a Chinese-speaking country will already know a burning house, and it is not "
+            "this one. The Lotus Sūtra&rsquo;s parable &mdash; the rich man whose children will not "
+            "come out of the blazing mansion until he promises them three kinds of cart &mdash; is "
+            "among the most famous stories in East Asian Buddhism.",
+            "Setting the two side by side is one of the most productive comparisons available in this "
+            "chapter, because the image is identical and the use is completely different. In the "
+            "Lotus the fire is the world and the problem is that the children will not leave; the "
+            "answer is the father&rsquo;s skillful means. Here the fire is the world and the problem "
+            "is what to do with your possessions in the time remaining; the answer is to hand them "
+            "out.",
+            "One is a parable about teaching and about the compassion of a buddha. The other is "
+            "advice to two old men about their property. Neither is a version of the other, and the "
+            "shared image shows how a single figure gets put to work by different literatures for "
+            "different purposes &mdash; which is a more useful observation for students than any "
+            "claim about which came first."]),
+        ("Why giving, for these men", [
+            "AN 3.51 gave them restraint; this one gives them giving. Both are chosen for who is "
+            "listening.",
+            "These are wealthy men &mdash; brahmins of standing, at the end of long lives, with "
+            "households behind them. What they have is property and very little time. The advice "
+            "matches: the one thing they can still do at scale, today, is dispose of what they own in "
+            "a way that counts.",
+            "Notice also what is not said. There is no suggestion that they should give everything, "
+            "no threat about what happens if they do not, and no specification of a recipient. The "
+            "verse says only that what is given is what is saved, and leaves the amount to them."]),
+        ("Using it", [
+            "The pair AN 3.51 and AN 3.52 is the best short teaching in the Threes for the last "
+            "stretch of a life, and it works for lay audiences of any age because the two "
+            "instructions cover both halves of what is available: stop doing harm, and let go of what "
+            "you cannot keep.",
+            "The verse is also short enough to memorize and blunt enough to survive translation. For "
+            "a class, the useful move is to give them the domestic half first &mdash; what would you "
+            "carry out of a burning house? &mdash; and let them answer before the second half arrives."]),
+    ],
+    terms=[
+        ("āditta",
+         "&ldquo;burning, ablaze&rdquo; &mdash; the one word that separates this discourse from AN "
+         "3.51, where the world is merely being led onward."),
+        ("nīharati",
+         "&ldquo;to carry out, remove&rdquo; &mdash; used both for taking a pot out of a burning "
+         "house and for what happens to a gift. The verse turns on the pun."),
+        ("dinnaṁ hoti sunīhataṁ",
+         "&ldquo;what is given is well carried out&rdquo; &mdash; the line the discourse is "
+         "remembered for. Giving as the one form of keeping."),
+        ("saṁyama",
+         "&ldquo;restraint&rdquo; &mdash; retained here from AN 3.51 in the closing verse, so that "
+         "the discourse ends with both instructions rather than only the new one."),
+        ("jarāmaraṇa",
+         "&ldquo;old age and death&rdquo; &mdash; what the world is said to be burning with, "
+         "abbreviating the fuller triad of old age, sickness, and death from the prose."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The same two men"),
+        ("p", "&sect;1", "an3.52:1.1-1.4"),
+        ("h3", "The world is burning"),
+        ("p", "&sect;2", "an3.52:2.1-2.4"),
+        ("h3", "In verse"),
+        ("p", "&sect;3&ndash;4", "an3.52:3.1-4.4"),
+        ("p", "&sect;5", "an3.52:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What single word separates this discourse from AN 3.51?",
+         "opts": [
+             "The world is <em>burning</em> with old age, sickness, and death, rather than being <em>led onward</em> by them",
+             "The brahmins are older",
+             "The Buddha refuses to answer",
+             "The instruction is restraint rather than giving"],
+         "correct": 0,
+         "expl": "<em>Upanīyati</em> becomes <em>āditto</em>, and the urgency changes with it."},
+        {"q": "How does the instruction change with the image?",
+         "opts": [
+             "From giving to restraint",
+             "From restraint, a matter of not doing, to giving, which has to be done now",
+             "From meditation to study",
+             "It does not change"],
+         "correct": 1,
+         "expl": "Being carried along is something you might not notice; a fire is not."},
+        {"q": "What is the domestic image in the verse?",
+         "opts": [
+             "A flood carrying away a village",
+             "When your house is on fire, you rescue the pot that is useful, not the one already burnt",
+             "A lamp in the dark",
+             "A tree in a storm"],
+         "correct": 1,
+         "expl": "The verse assumes you would do this without being told."},
+        {"q": "What is the application?",
+         "opts": [
+             "That possessions are a burden",
+             "That giving is kind",
+             "That since the world is on fire, you should rescue by giving &mdash; what is given is rescued",
+             "That giving earns a good rebirth"],
+         "correct": 2,
+         "expl": "The Pāli uses the same verb for carrying a pot out and for handing something over."},
+        {"q": "How does the guide state the logic plainly?",
+         "opts": [
+             "That generosity is a virtue",
+             "That everything in the house is going to burn, so the only property that survives is the property that left the house &mdash; giving is the one form of keeping",
+             "That the poor deserve help",
+             "That wealth is evil"],
+         "correct": 1,
+         "expl": "Not the ordinary argument for generosity."},
+        {"q": "Which other burning house will a Chinese-speaking class already know?",
+         "opts": [
+             "The Vimalakīrti Sūtra&rsquo;s",
+             "The Lotus Sūtra&rsquo;s &mdash; the rich man whose children will not leave the blazing mansion until he promises three kinds of cart",
+             "The Platform Sūtra&rsquo;s",
+             "The Diamond Sūtra&rsquo;s"],
+         "correct": 1,
+         "expl": "Among the most famous stories in East Asian Buddhism."},
+        {"q": "How do the two burning houses differ in use?",
+         "opts": [
+             "They are versions of the same story",
+             "In the Lotus the problem is that the children will not leave and the answer is skillful means; here the problem is what to do with property in the time remaining and the answer is to hand it out",
+             "The Lotus version is about giving too",
+             "This one is about teaching"],
+         "correct": 1,
+         "expl": "A shared image put to work by different literatures for different purposes."},
+        {"q": "Why is giving the right instruction for these particular men?",
+         "opts": [
+             "Because giving is the highest practice",
+             "Because brahmins are required to give",
+             "Because they are wealthy men at the end of long lives &mdash; what they have is property and very little time",
+             "Because they asked about giving"],
+         "correct": 2,
+         "expl": "The one thing they can still do at scale, today."},
+        {"q": "What does the discourse conspicuously not say?",
+         "opts": [
+             "That the world is burning",
+             "That they should give everything, what happens if they do not, or who the recipient should be",
+             "That giving matters",
+             "That they are old"],
+         "correct": 1,
+         "expl": "The verse says only that what is given is what is saved, and leaves the amount to them."},
+        {"q": "What does the final verse retain from AN 3.51?",
+         "opts": [
+             "The restraint formula, so the discourse ends with both instructions rather than only the new one",
+             "The list of five shelters",
+             "The greeting",
+             "Nothing"],
+         "correct": 0,
+         "expl": "Stop doing harm, and let go of what you cannot keep."},
+    ],
+    marginalia=[
+        ("One word", [
+            "AN 3.51 &middot; <span class=\"pali\">upanīyati</span>led onward",
+            "AN 3.52 &middot; <span class=\"pali\">āditto</span>burning",
+        ]),
+        ("The verse", [
+            "&ldquo;rescue the pot that&rsquo;s useful,",
+            "not the one that&rsquo;s burnt&rdquo;",
+            "&ldquo;what&rsquo;s given is rescued&rdquo;",
+        ]),
+        ("Two burning houses", [
+            "Lotus &middot; the children won&rsquo;t leave",
+            "AN 3.52 &middot; the property won&rsquo;t keep",
+            "&mdash; same image, different work",
+        ]),
+        ("Cross-references", [
+            "AN 3.51 &middot; the first version",
+            "AN 3.41 &middot; giving, analyzed",
+            "AN 3.29 &middot; the closing verse and its omissions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.52/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.51.html">AN 3.51 &middot; Two Brahmins (1st)</a> &mdash; the first version, '
+        "where the world is led onward rather than burning and the instruction is restraint.",
+        '<a href="/sutras/lotus-sutra/the-parable-of-the-burning-house.html">The Lotus Sūtra &middot; '
+        "The Parable of the Burning House</a> &mdash; the other burning house, and the comparison "
+        "worth an hour of any class: the same image used for the compassion of a buddha who cannot "
+        "get his children to walk out of a fire.",
+        '<a href="an-3.41.html">AN 3.41 &middot; Present</a> &mdash; for the three conditions this '
+        "verse&rsquo;s instruction assumes: faith, something to give, and somebody worth giving it "
+        "to.",
+    ],
+)
+
+
+page(
+    53, "Aññatarabrāhmaṇa", "A Certain Brahmin",
+    vagga=VAGGA_6,
+    meta_title="AN 3.53 — A Certain Brahmin | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Aññatarabrāhmaṇasutta — "
+        "a brahmin asks what &lsquo;apparent in the present life&rsquo; actually means, and gets "
+        "an answer he can check today. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; a brahmin comes and exchanges greetings"),
+        ("Speakers", "An unnamed brahmin and the Buddha"),
+        ("Form", "A question about a stock phrase, three parallel answers, and the standard formula "
+                 "of conversion"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable explanations of the visible-here-and-now quality of the "
+                              "teaching are preserved in the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple to follow, and the answer "
+                       "is doing more than it appears to"),
+    ],
+    why=(
+        "A brahmin has heard the phrase everyone uses &mdash; <em>a teaching apparent in the present "
+        "life</em> &mdash; and asks what it means. The Buddha does not define it. He describes what "
+        "greed does to a person, what its absence does, and says: that is what the phrase means. The "
+        "answer contains no doctrine, no cosmology, and nothing that has to be taken on trust, and it "
+        "is one of the clearest statements in the canon of what this teaching claims to be."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The teaching is called visible here and now because you can watch greed hurt you and "
+            "watch its absence stop hurting you, today, without believing anything."]),
+        ("The phrase being asked about", [
+            "<em>Sandiṭṭhiko dhammo</em> &mdash; and then the full formula: apparent in the present "
+            "life, immediately effective, inviting inspection, relevant, so that sensible people can "
+            "know it for themselves.",
+            "Five terms. <em>Sandiṭṭhika</em>, visible here, seen for oneself. <em>Akālika</em>, not "
+            "involving time &mdash; no waiting period between doing and result. <em>Ehipassika</em>, "
+            "literally &ldquo;come and see,&rdquo; the quality of a claim that can be inspected. "
+            "<em>Opaneyyika</em>, leading onward or applicable. <em>Paccattaṁ veditabbo "
+            "viññūhi</em>, to be known personally by sensible people.",
+            "This is the standard recollection of the Dhamma, chanted daily across the Buddhist "
+            "world, and AN 3.40 used it as a motive for effort. The brahmin&rsquo;s question is the "
+            "one everybody who has recited a formula for years should ask: what does it actually "
+            "mean?"]),
+        ("The answer, and what is missing from it", [
+            "&ldquo;A greedy person, overcome and overwhelmed by greed, intends to hurt themselves, "
+            "hurt others, and hurt both. They experience mental pain and sadness. When greed has been "
+            "given up, they don&rsquo;t intend to hurt themselves, hurt others, and hurt both. They "
+            "don&rsquo;t experience mental pain and sadness. This is how the teaching is apparent in "
+            "the present life.&rdquo; Then the same for hate, and for delusion.",
+            "What is not in the answer: rebirth, kamma across lives, the aggregates, dependent "
+            "origination, the four truths, the status of the Buddha, or anything about what happens "
+            "after death. The most metaphysically loaded question a brahmin could ask has been "
+            "answered entirely inside present experience.",
+            "That is not evasion, and it is worth explaining why. The formula claims the teaching can "
+            "be checked without waiting; so the demonstration has to be something checkable without "
+            "waiting. Anything involving a future life would falsify the claim in the act of "
+            "supporting it."]),
+        ("The structure of the demonstration", [
+            "Each of the three roots gets a two-line before-and-after. The <em>before</em> has two "
+            "parts: an intention to hurt &mdash; oneself, another, or both &mdash; and the experience "
+            "of mental pain and sadness. The <em>after</em> is both of them negated.",
+            "The order matters. The harm to others is not listed first, and neither is the harm to "
+            "self; the phrase is <em>themselves, others, and both</em>, and the mental pain follows "
+            "as a separate item. So the claim is not the moralistic one that bad people suffer for "
+            "their badness. It is that greed is simultaneously an intention to damage and a painful "
+            "condition, and that these are two facts rather than one causing the other.",
+            "That is what makes the demonstration checkable. A person cannot easily verify a claim "
+            "about the moral order. They can verify, within a few minutes of honest attention, "
+            "whether wanting something badly is pleasant."]),
+        ("The brahmin&rsquo;s response", [
+            "He replies with the canon&rsquo;s standard formula of conversion, and it is worth "
+            "reading rather than skipping, because it describes what he thinks has happened: "
+            "<em>as if he were righting the overturned, or revealing the hidden, or pointing out the "
+            "path to the lost, or lighting a lamp in the dark so people with clear eyes can see "
+            "what&rsquo;s there.</em>",
+            "All four images are about visibility rather than information. Nothing has been added to "
+            "the world; something already there has been put the right way up or lit. That is the "
+            "correct response to an answer whose whole content was <em>look at what greed is doing to "
+            "you</em>.",
+            "He then goes for refuge for life &mdash; as a lay follower. He does not ordain, and the "
+            "discourse does not suggest he should. The next two discourses record the same exchange "
+            "with a wanderer and with the brahmin Jānussoṇi, and they end the same way."]),
+        ("Using it", [
+            "This is the single best discourse in the collection for a first class with people who "
+            "are not Buddhist and are not going to be. It contains no request for belief, and the one "
+            "claim it makes is one that anybody can test on their own irritation before the end of "
+            "the day.",
+            "For students who already recite the recollection of the Dhamma, the use is different and "
+            "sharper: the formula they know by heart was, in this discourse, cashed out entirely in "
+            "terms of what greed feels like. It is worth asking a class whether their understanding "
+            "of <em>sandiṭṭhika</em> had been that concrete."]),
+    ],
+    terms=[
+        ("sandiṭṭhika",
+         "&ldquo;apparent in the present life, visible here&rdquo; &mdash; the term the brahmin asks "
+         "about, and the one the whole answer is built to justify."),
+        ("akālika",
+         "&ldquo;immediately effective, not involving time&rdquo; &mdash; no waiting period between "
+         "doing and result, which is why the demonstration cannot appeal to a future life."),
+        ("ehipassika",
+         "&ldquo;inviting inspection&rdquo; &mdash; literally &ldquo;come and see,&rdquo; the quality "
+         "of a claim that can be checked rather than believed."),
+        ("paccattaṁ veditabbo viññūhi",
+         "&ldquo;to be known personally by sensible people&rdquo; &mdash; the last term of the "
+         "formula, locating the verification in the individual rather than in a tradition."),
+        ("domanassa",
+         "&ldquo;mental pain, sadness&rdquo; &mdash; distinguished in the canon from bodily pain, and "
+         "the second of the two things greed is said to produce."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The question"),
+        ("p", "&sect;1", "an3.53:1.1-1.3"),
+        ("h3", "Greed, hate, delusion"),
+        ("p", "&sect;2", "an3.53:2.1-2.7"),
+        ("p", "&sect;3", "an3.53:3.1-3.3"),
+        ("p", "&sect;4", "an3.53:4.1-4.3"),
+        ("h3", "Going for refuge"),
+        ("p", "&sect;5", "an3.53:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What does the brahmin ask about?",
+         "opts": [
+             "Rebirth",
+             "The stock phrase &ldquo;a teaching apparent in the present life&rdquo; &mdash; what it actually means",
+             "The caste system",
+             "Whether the Buddha is awakened"],
+         "correct": 1,
+         "expl": "The question everybody who has recited a formula for years should ask."},
+        {"q": "What does <em>akālika</em> mean, and why does it constrain the answer?",
+         "opts": [
+             "&ldquo;Timeless&rdquo; in the sense of eternal; it does not constrain anything",
+             "&ldquo;Not involving time&rdquo; &mdash; no waiting period between doing and result, so the demonstration cannot appeal to a future life",
+             "&ldquo;Ancient&rdquo;; the teaching must be old",
+             "&ldquo;Brief&rdquo;; the answer must be short"],
+         "correct": 1,
+         "expl": "Anything involving a future life would falsify the claim in the act of supporting it."},
+        {"q": "What is the Buddha&rsquo;s answer built from?",
+         "opts": [
+             "The four noble truths",
+             "The aggregates",
+             "What greed, hate, and delusion do to a person, and what their absence does",
+             "The story of his awakening"],
+         "correct": 2,
+         "expl": "No doctrine, no cosmology, and nothing that has to be taken on trust."},
+        {"q": "What is conspicuously absent from the answer?",
+         "opts": [
+             "Any mention of greed",
+             "Rebirth, kamma across lives, the aggregates, dependent origination, and anything about what happens after death",
+             "Any mention of the mind",
+             "Any mention of harm"],
+         "correct": 1,
+         "expl": "The most metaphysically loaded question a brahmin could ask, answered entirely inside present experience."},
+        {"q": "What two parts does the &ldquo;before&rdquo; of each pair contain?",
+         "opts": [
+             "An intention to hurt oneself, another, or both; and the experience of mental pain and sadness",
+             "A bad rebirth and a bad reputation",
+             "Wrong view and wrong action",
+             "Loss of wealth and loss of friends"],
+         "correct": 0,
+         "expl": "Two facts, listed separately."},
+        {"q": "Why does the guide say this is not the moralistic claim that bad people suffer for their badness?",
+         "opts": [
+             "Because the discourse denies moral consequence",
+             "Because greed is presented as simultaneously an intention to damage and a painful condition &mdash; two facts rather than one causing the other",
+             "Because only monastics are addressed",
+             "Because suffering is denied"],
+         "correct": 1,
+         "expl": "Which is what makes the demonstration checkable."},
+        {"q": "What can a person verify within a few minutes of honest attention?",
+         "opts": [
+             "The moral order of the universe",
+             "Whether wanting something badly is pleasant",
+             "Whether rebirth occurs",
+             "Whether the Buddha was awakened"],
+         "correct": 1,
+         "expl": "They cannot easily verify a claim about the moral order."},
+        {"q": "What do the four images in the brahmin&rsquo;s reply have in common?",
+         "opts": [
+             "They are all about travel",
+             "They are all about visibility &mdash; righting the overturned, revealing the hidden, pointing out the path, lighting a lamp",
+             "They are all about wealth",
+             "They are all about teaching"],
+         "correct": 1,
+         "expl": "Nothing has been added to the world; something already there has been put the right way up or lit."},
+        {"q": "What does the brahmin do at the end?",
+         "opts": [
+             "Ordains",
+             "Goes for refuge for life as a lay follower &mdash; and the discourse does not suggest he should do more",
+             "Argues further",
+             "Leaves without comment"],
+         "correct": 1,
+         "expl": "The next two discourses record the same exchange with others, and end the same way."},
+        {"q": "Why does the guide recommend this discourse for a first class with non-Buddhists?",
+         "opts": [
+             "Because it is short",
+             "Because it contains no request for belief, and its one claim can be tested on one&rsquo;s own irritation before the end of the day",
+             "Because it mentions brahmins",
+             "Because it avoids ethics"],
+         "correct": 1,
+         "expl": "And for students who already recite the formula, it shows how concrete <em>sandiṭṭhika</em> was meant to be."},
+    ],
+    marginalia=[
+        ("Five terms", [
+            "<span class=\"pali\">sandiṭṭhika</span>visible here",
+            "<span class=\"pali\">akālika</span>not involving time",
+            "<span class=\"pali\">ehipassika</span>come and see",
+            "<span class=\"pali\">paccattaṁ veditabbo</span>known for oneself",
+        ]),
+        ("The demonstration", [
+            "intends to hurt self, others, both",
+            "experiences mental pain",
+            "&mdash; and when greed goes, neither",
+        ]),
+        ("Four images", [
+            "righting the overturned",
+            "revealing the hidden",
+            "pointing out the path",
+            "lighting a lamp",
+        ]),
+        ("Cross-references", [
+            "AN 3.54 &middot; the same, expanded",
+            "AN 3.55 &middot; the same, of extinguishment",
+            "AN 3.40 &middot; the formula as motive",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.53/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.54.html">AN 3.54 &middot; A Wanderer</a> &mdash; the same question from a '
+        "different questioner, with two further consequences of greed added to the answer.",
+        '<a href="an-3.55.html">AN 3.55 &middot; Quenched</a> &mdash; the same demonstration applied '
+        "to extinguishment rather than to the teaching, which is the boldest use of it.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; later in '
+        "this collection, where the same three roots are used to settle a question about whom to "
+        "believe, by the same method of checking rather than accepting.",
+    ],
+)
+
+
+page(
+    54, "Paribbājaka", "A Wanderer",
+    vagga=VAGGA_6,
+    meta_title="AN 3.54 — A Wanderer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paribbājakasutta — the "
+        "same question about what is apparent here and now, with three consequences of greed "
+        "instead of one. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; a brahmin wanderer comes and sits down to one side"),
+        ("Speakers", "A brahmin wanderer and the Buddha"),
+        ("Form", "The question of AN 3.53, answered in three parts for each root"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same shape as AN 3.53 with "
+                       "one addition worth the reading"),
+    ],
+    why=(
+        "A wandering ascetic asks the question the brahmin asked in AN 3.53, and gets a longer "
+        "answer. Greed does three things, not one: it makes a person intend harm and feel wretched; "
+        "it makes them act badly in body, speech, and mind; and it makes them fail to understand what "
+        "is good for them. The third is the addition, and it is the one that turns a moral "
+        "observation into a claim about judgment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Greed does not only make you worse; it makes you unable to see what is actually in your "
+            "interest."]),
+        ("Who is asking this time", [
+            "A <em>paribbājaka</em>, a wanderer &mdash; a member of the broad class of non-brahmanical "
+            "renunciates who moved around northern India debating and teaching. Wanderers appear "
+            "constantly in the canon as questioners, and they are usually treated as professional "
+            "colleagues rather than as outsiders.",
+            "This one is also called a brahmin, which places him in both categories: born into the "
+            "priestly class and having left the householder path. The discourse is therefore the same "
+            "question from a more technically equipped questioner, which may be why the answer is "
+            "longer."]),
+        ("Three consequences instead of one", [
+            "AN 3.53 gave one: the greedy person intends harm and experiences mental pain, and when "
+            "greed goes, neither happens. This discourse keeps that and adds two.",
+            "The second is action: <em>a greedy person does bad things by way of body, speech, and "
+            "mind.</em> AN 3.53 stopped at intention; here the intention gets out into the three "
+            "doors.",
+            "The third is the interesting one: <em>a greedy person doesn&rsquo;t truly understand "
+            "what&rsquo;s for their own good, the good of another, or the good of both. When greed "
+            "has been given up, they truly understand.</em>",
+            "So the sequence runs: greed distorts what you want, then what you do, then what you can "
+            "see. The last is a cognitive claim, not a moral one, and it is the reason this discourse "
+            "is worth reading after AN 3.53 rather than instead of it."]),
+        ("The claim about judgment", [
+            "<em>Attattham</em>, one&rsquo;s own good; <em>parattham</em>, another&rsquo;s good; "
+            "<em>ubhayattham</em>, the good of both. The greedy person does not understand any of the "
+            "three <em>as they really are</em>.",
+            "Read carefully this is a strong and testable proposition. It does not say that greed "
+            "makes you selfish, which would be trivial. It says greed makes you bad at knowing your "
+            "own interest &mdash; that a person overcome by wanting will misidentify what would "
+            "actually be good for them.",
+            "That claim does real work in the rest of the teaching. It explains why the canon so "
+            "rarely argues against greed on moral grounds and so often argues against it on grounds "
+            "of accuracy, and it is the reason the three roots are called roots of the unskillful "
+            "rather than of the wicked. <em>Akusala</em> is closer to incompetent than to evil.",
+            "It also gives a lesson its most useful question. Ask a class to remember a decision they "
+            "made while badly wanting something, and whether it turned out to have been in their own "
+            "interest. The discourse is claiming that the failure was structural rather than bad "
+            "luck."]),
+        ("Why the canon keeps the shorter version too", [
+            "A reader may reasonably ask why both discourses exist when this one contains the other. "
+            "Two answers are worth giving.",
+            "The first is practical: the collection is organized for retrieval and for recitation, "
+            "and a short form and a long form are both useful. AN 3.53 is the version to give someone "
+            "in two minutes; this is the version for someone who will sit through six.",
+            "The second is that they are addressed to different people, and the canon records the "
+            "occasion rather than only the content. A householder brahmin got the short answer and a "
+            "professional renunciate got the analytical one. Whether that reflects an editorial "
+            "pattern or a real difference in what was said, the collection preserves the "
+            "correspondence between questioner and answer, and it is worth noticing how often the "
+            "match is apt."]),
+        ("Using it", [
+            "Teach AN 3.53 first and this second, and put the whole weight on the third consequence. "
+            "The first two are agreeable and unsurprising; a class will nod at them and learn "
+            "nothing.",
+            "The third is the claim that can change how somebody makes a decision, and it is the one "
+            "that connects this small discourse to the rest of the teaching: if wanting distorts "
+            "sight, then reducing wanting is not primarily a moral improvement but an epistemic one."]),
+    ],
+    terms=[
+        ("paribbājaka",
+         "&ldquo;wanderer&rdquo; &mdash; a non-brahmanical renunciate of the kind that filled "
+         "northern India, usually treated in the canon as a professional colleague rather than an "
+         "outsider."),
+        ("attattha parattha ubhayattha",
+         "&ldquo;one&rsquo;s own good, another&rsquo;s good, the good of both&rdquo; &mdash; the "
+         "three things a greedy person is said not to understand as they really are."),
+        ("yathābhūtaṁ nappajānāti",
+         "&ldquo;does not truly understand&rdquo; &mdash; literally does not know as it has become. "
+         "The claim is about accuracy, not about morality."),
+        ("akusala",
+         "&ldquo;unskillful&rdquo; &mdash; the canon&rsquo;s word for what the three roots produce, "
+         "closer to incompetent than to evil, which is why greed is attacked on grounds of accuracy."),
+        ("abhibhūta pariyādinnacitta",
+         "&ldquo;overcome, with mind consumed&rdquo; &mdash; the formula for the condition in which "
+         "the three consequences follow."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The question"),
+        ("p", "&sect;1", "an3.54:1.1-1.3"),
+        ("h3", "Greed, in three consequences"),
+        ("p", "&sect;2", "an3.54:2.1-2.2"),
+        ("p", "&sect;3", "an3.54:3.1-3.2"),
+        ("p", "&sect;4", "an3.54:4.1-4.3"),
+        ("h3", "Hate and delusion"),
+        ("p", "&sect;5", "an3.54:5.1-5.3"),
+        ("p", "&sect;6&ndash;7", "an3.54:6.1-7.3"),
+        ("h3", "Going for refuge"),
+        ("p", "&sect;8", "an3.54:8.1-8.2"),
+    ],
+    quiz=[
+        {"q": "Who asks the question here?",
+         "opts": [
+             "A king",
+             "A brahmin wanderer &mdash; born into the priestly class and having left the householder path",
+             "A merchant",
+             "A monk"],
+         "correct": 1,
+         "expl": "Wanderers appear constantly in the canon as questioners and are treated as professional colleagues."},
+        {"q": "What is the first consequence of greed, carried over from AN 3.53?",
+         "opts": [
+             "Bad rebirth",
+             "Loss of wealth",
+             "Intending to hurt oneself, others, or both, and experiencing mental pain and sadness",
+             "Loss of reputation"],
+         "correct": 2,
+         "expl": "AN 3.53 stopped there."},
+        {"q": "What is the second?",
+         "opts": [
+             "Doing bad things by way of body, speech, and mind",
+             "Forgetting the teaching",
+             "Falling ill",
+             "Being criticized"],
+         "correct": 0,
+         "expl": "The intention gets out into the three doors."},
+        {"q": "What is the third, and why does the guide call it the important one?",
+         "opts": [
+             "Failing to give; because generosity matters",
+             "Not truly understanding what is for one&rsquo;s own good, another&rsquo;s, or both; because it is a cognitive claim rather than a moral one",
+             "Losing friends; because company matters",
+             "Being reborn badly; because kamma matters"],
+         "correct": 1,
+         "expl": "Greed distorts what you want, then what you do, then what you can see."},
+        {"q": "Why is the claim not trivial?",
+         "opts": [
+             "Because it says greed makes you selfish",
+             "Because it says greed makes you bad at knowing your own interest &mdash; a person overcome by wanting will misidentify what would actually be good for them",
+             "Because it says greed is unpleasant",
+             "Because it says greed is common"],
+         "correct": 1,
+         "expl": "Saying greed makes you selfish would be trivial."},
+        {"q": "What does that claim explain about the rest of the teaching?",
+         "opts": [
+             "Why the canon argues against greed on grounds of accuracy rather than morality, and why the roots are called roots of the <em>unskillful</em> rather than of the wicked",
+             "Why monastics are celibate",
+             "Why rebirth is taught",
+             "Why the Vinaya exists"],
+         "correct": 0,
+         "expl": "<em>Akusala</em> is closer to incompetent than to evil."},
+        {"q": "What question does the guide suggest putting to a class?",
+         "opts": [
+             "Whether greed is universal",
+             "Whether they can define <em>akusala</em>",
+             "Whether a decision made while badly wanting something turned out to be in their own interest &mdash; and whether the failure was structural rather than bad luck",
+             "Whether they have taken refuge"],
+         "correct": 2,
+         "expl": "The discourse is claiming it was structural."},
+        {"q": "What practical reason does the guide give for keeping both the short and long versions?",
+         "opts": [
+             "Scribal duplication",
+             "The collection is organized for retrieval and recitation, and a two-minute version and a six-minute version are both useful",
+             "The short one is older",
+             "The long one is authoritative"],
+         "correct": 1,
+         "expl": "AN 3.53 is the version to give someone in two minutes."},
+        {"q": "What second reason does the guide give?",
+         "opts": [
+             "That they were spoken in different languages",
+             "That they are addressed to different people &mdash; a householder brahmin got the short answer and a professional renunciate got the analytical one",
+             "That one is a summary of the other",
+             "That the compilers disagreed"],
+         "correct": 1,
+         "expl": "The collection preserves the correspondence between questioner and answer."},
+        {"q": "What follows if wanting distorts sight?",
+         "opts": [
+             "That greed should be punished",
+             "That reducing wanting is not primarily a moral improvement but an epistemic one",
+             "That desire is unreal",
+             "That judgment is impossible"],
+         "correct": 1,
+         "expl": "Which is what connects this small discourse to the rest of the teaching."},
+    ],
+    marginalia=[
+        ("Three consequences", [
+            "intends harm, feels wretched",
+            "acts badly in three doors",
+            "cannot see his own good",
+        ]),
+        ("The third", [
+            "<span class=\"pali\">attattha</span>own good",
+            "<span class=\"pali\">parattha</span>another&rsquo;s",
+            "<span class=\"pali\">ubhayattha</span>both",
+        ]),
+        ("One word", [
+            "<span class=\"pali\">akusala</span>unskillful",
+            "&mdash; incompetent, not evil",
+        ]),
+        ("Cross-references", [
+            "AN 3.53 &middot; the short version",
+            "AN 3.55 &middot; applied to extinguishment",
+            "AN 3.34 &middot; the roots and their deeds",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.54/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.53.html">AN 3.53 &middot; A Certain Brahmin</a> &mdash; the short version of '
+        "the same answer, which this one contains and extends. Teach that first.",
+        '<a href="an-3.55.html">AN 3.55 &middot; Quenched</a> &mdash; the third member of the set, '
+        "where the same demonstration is used to explain not the teaching but extinguishment itself.",
+        '<a href="an-3.34.html">AN 3.34 &middot; Sources</a> &mdash; for what the three roots do to '
+        "deeds, which is the second of the three consequences named here treated at length.",
+    ],
+)
+
+
+page(
+    55, "Nibbuta", "Quenched",
+    vagga=VAGGA_6,
+    meta_title="AN 3.55 — Quenched | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nibbutasutta — Jānussoṇi "
+        "asks in what way extinguishment is apparent in the present life, and gets an answer with "
+        "nothing after death in it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; the brahmin Jānussoṇi comes, bows, and sits down"),
+        ("Speakers", "The brahmin Jānussoṇi and the Buddha"),
+        ("Form", "The demonstration of AN 3.53, applied to a different term, with a closing "
+                 "definition"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material on nirvāṇa visible in this life is preserved in "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and it makes the largest "
+                       "claim in the chapter"),
+    ],
+    why=(
+        "Jānussoṇi asks the question of AN 3.53 with one word changed. Not <em>in what way is the "
+        "teaching apparent in the present life</em> but <em>in what way is extinguishment apparent in "
+        "the present life</em>. And he gets the same answer: watch what greed does, watch what its "
+        "absence does. Then one more sentence, which is the definition the whole chapter has been "
+        "building toward."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Extinguishment is not somewhere you go; it is what the ending of greed, hate, and "
+            "delusion is like, and you can see the beginning of it now."]),
+        ("The word being asked about", [
+            "<em>Nibbuta</em> is the past participle of the verb behind <em>nibbāna</em>: quenched, "
+            "gone out, cooled. The image underneath both is a fire that has stopped burning, and the "
+            "ordinary Indian use covered anything from a lamp going out to a hot thing becoming cool "
+            "enough to touch.",
+            "Jānussoṇi is not asking whether extinguishment exists. He is asking about a phrase in "
+            "circulation &mdash; <em>sandiṭṭhikaṁ nibbānaṁ</em>, extinguishment visible here and now "
+            "&mdash; and he wants to know how something so evidently final could be described as "
+            "present.",
+            "That is a fair question and a modern reader has the same one, usually in a sharper form: "
+            "if extinguishment is the end of rebirth, how could anybody point at it today?"]),
+        ("The answer, which is the same answer", [
+            "The demonstration is word for word the one given in AN 3.53 for the teaching: the greedy "
+            "person intends harm and suffers mental pain; when greed is given up, neither happens; "
+            "<em>this is how extinguishment is apparent in the present life.</em> Then hate, then "
+            "delusion.",
+            "The identity of the two answers is the discourse&rsquo;s argument. Whatever "
+            "extinguishment is, it is made of the same material as the visible workings of the "
+            "teaching, and the evidence for it is not different in kind from the evidence anybody can "
+            "collect about their own greed.",
+            "Then the closing sentence, which the earlier discourses do not have: <em>when you "
+            "experience the ending of greed, hate, and delusion without remainder, that&rsquo;s how "
+            "extinguishment is apparent in the present life.</em>",
+            "That is a definition, and it is the flattest one in the collection. Extinguishment is "
+            "the ending of the three roots, experienced. Not a realm, not a substance, not a state "
+            "after death, and nothing that requires a doctrine of what happens to a perfected one "
+            "afterward. <em>Anavasesa</em>, without remainder, is the only word doing metaphysical "
+            "work, and it specifies completeness rather than location."]),
+        ("The objection worth meeting head-on", [
+            "Western readers frequently arrive at this word having been told that it means "
+            "annihilation, and either recoil from it or embrace it for the wrong reason. Both "
+            "reactions are worth addressing directly rather than steered around.",
+            "What this discourse says is that the term names an ending: something that was burning "
+            "stops. It does not say that a person is annihilated, and it says nothing at all about "
+            "what remains. The canon is famously reticent on that point elsewhere &mdash; the "
+            "question of a perfected one after death is one of the questions set aside as not "
+            "conducing to the goal.",
+            "It is honest to tell a class three things and stop. The word means quenched. This "
+            "discourse defines it as the ending of greed, hate, and delusion, experienced. And "
+            "whether anything survives that ending in a sense we could recognize is a question the "
+            "early texts decline to answer, which is a position rather than an omission &mdash; the "
+            "same texts are perfectly willing to answer other hard questions at length.",
+            "What can be added is that this discourse locates the whole of the term&rsquo;s practical "
+            "content on this side of death. Whatever else is true, extinguishment is something a "
+            "living person can be described as having."]),
+        ("Jānussoṇi", [
+            "He is one of the recurring brahmins of the canon and he appears again four discourses "
+            "later, at AN 3.59, in this same chapter. He is generally portrayed as wealthy, "
+            "well-informed, and genuinely curious rather than combative &mdash; the sort of "
+            "questioner who has heard the vocabulary and wants it explained.",
+            "Like the questioners of AN 3.53 and AN 3.54 he goes for refuge as a lay follower at the "
+            "end, and like them he does not ordain. Three discourses in a row end this way, and the "
+            "repetition is a quiet statement about what this chapter thinks a successful conversation "
+            "with a brahmin looks like."]),
+        ("Using it", [
+            "This is the discourse to reach for when somebody asks what nirvana is, and the reason it "
+            "works is that it declines to be poetic. It gives a definition made entirely of things "
+            "the questioner already has experience of.",
+            "For a class, read AN 3.53, 3.54, and 3.55 in one sitting. They take five minutes "
+            "together, they share a demonstration, and the escalation is the lesson: the same "
+            "evidence explains what makes the teaching checkable, what greed does to judgment, and "
+            "what the tradition&rsquo;s highest term means."]),
+    ],
+    terms=[
+        ("nibbuta",
+         "&ldquo;quenched, gone out, cooled&rdquo; &mdash; the past participle behind "
+         "<em>nibbāna</em>. The underlying image is a fire that has stopped burning."),
+        ("sandiṭṭhikaṁ nibbānaṁ",
+         "&ldquo;extinguishment apparent in the present life&rdquo; &mdash; the phrase Jānussoṇi has "
+         "heard and wants explained."),
+        ("anavasesa",
+         "&ldquo;without remainder&rdquo; &mdash; the one word in the closing definition doing "
+         "metaphysical work, and it specifies completeness rather than location."),
+        ("paṭisaṁvedeti",
+         "&ldquo;experiences&rdquo; &mdash; the verb in the definition. Extinguishment is the ending "
+         "of the three roots <em>experienced</em>, not merely obtaining."),
+        ("jānussoṇi",
+         "a recurring brahmin of the canon, wealthy and well-informed, who appears again in this "
+         "chapter at AN 3.59 and is portrayed as curious rather than combative."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The question"),
+        ("p", "&sect;1", "an3.55:1.1-1.3"),
+        ("h3", "The same demonstration"),
+        ("p", "&sect;2", "an3.55:2.1-2.3"),
+        ("p", "&sect;3", "an3.55:3.1-3.4"),
+        ("h3", "The definition"),
+        ("p", "&sect;4", "an3.55:4.1-4.2"),
+        ("p", "&sect;5", "an3.55:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "How does Jānussoṇi&rsquo;s question differ from the one in AN 3.53?",
+         "opts": [
+             "He asks about rebirth instead",
+             "One word: not how the <em>teaching</em> is apparent in the present life, but how <em>extinguishment</em> is",
+             "He asks about kamma",
+             "He asks about the Saṅgha"],
+         "correct": 1,
+         "expl": "He wants to know how something so evidently final could be described as present."},
+        {"q": "What does <em>nibbuta</em> literally mean?",
+         "opts": [
+             "&ldquo;Completed&rdquo;",
+             "&ldquo;Released&rdquo;",
+             "&ldquo;Quenched, gone out, cooled&rdquo; &mdash; the image of a fire that has stopped burning",
+             "&ldquo;Ascended&rdquo;"],
+         "correct": 2,
+         "expl": "The ordinary Indian use covered a lamp going out or a hot thing becoming cool enough to touch."},
+        {"q": "What answer does he get?",
+         "opts": [
+             "A description of the afterlife",
+             "The same demonstration as AN 3.53 &mdash; what greed does, and what its absence does",
+             "A refusal to answer",
+             "A simile of a burning house"],
+         "correct": 1,
+         "expl": "The identity of the two answers is the discourse&rsquo;s argument."},
+        {"q": "What does that identity assert?",
+         "opts": [
+             "That the teaching and extinguishment are unrelated",
+             "That extinguishment is made of the same material as the visible workings of the teaching, and the evidence is not different in kind",
+             "That both are unknowable",
+             "That the question is improper"],
+         "correct": 1,
+         "expl": "Evidence anybody can collect about their own greed."},
+        {"q": "What is the closing definition?",
+         "opts": [
+             "That extinguishment is the deathless realm",
+             "That extinguishment is the ending of greed, hate, and delusion without remainder, experienced",
+             "That extinguishment cannot be defined",
+             "That extinguishment is the end of rebirth only"],
+         "correct": 1,
+         "expl": "The flattest definition in the collection."},
+        {"q": "Which single word in the definition does metaphysical work?",
+         "opts": [
+             "<em>Anavasesa</em>, without remainder &mdash; and it specifies completeness rather than location",
+             "<em>Nibbāna</em>",
+             "<em>Sandiṭṭhika</em>",
+             "None of them"],
+         "correct": 0,
+         "expl": "Not a realm, not a substance, not a state after death."},
+        {"q": "How does the guide handle the annihilation objection?",
+         "opts": [
+             "By denying that the question arises",
+             "By saying the term names an ending, that the discourse defines it as the ending of the three roots experienced, and that whether anything survives is a question the early texts decline to answer",
+             "By asserting that something definitely survives",
+             "By asserting that nothing survives"],
+         "correct": 1,
+         "expl": "Three things, and then stop."},
+        {"q": "Why does the guide call that refusal a position rather than an omission?",
+         "opts": [
+             "Because the texts were lost",
+             "Because the same texts are perfectly willing to answer other hard questions at length",
+             "Because the question is meaningless",
+             "Because later schools answered it"],
+         "correct": 1,
+         "expl": "The fate of a perfected one after death is among the questions explicitly set aside."},
+        {"q": "What can be said with confidence, on this discourse&rsquo;s account?",
+         "opts": [
+             "That extinguishment happens only at death",
+             "That the whole of the term&rsquo;s practical content is located on this side of death &mdash; extinguishment is something a living person can be described as having",
+             "That extinguishment is a place",
+             "That extinguishment cannot be experienced"],
+         "correct": 1,
+         "expl": "Whatever else is true."},
+        {"q": "How do AN 3.53, 3.54, and 3.55 work as a set?",
+         "opts": [
+             "They contradict one another",
+             "They share a demonstration, and the escalation is the lesson &mdash; the same evidence explains what makes the teaching checkable, what greed does to judgment, and what the highest term means",
+             "They are addressed to the same person",
+             "They are three versions of one discourse"],
+         "correct": 1,
+         "expl": "Five minutes together, and all three questioners end as lay followers."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">nibbuta</span>quenched",
+            "a fire that has stopped",
+            "&mdash; not a place",
+        ]),
+        ("The definition", [
+            "the ending of greed, hate, delusion",
+            "<span class=\"pali\">anavasesa</span>without remainder",
+            "<span class=\"pali\">paṭisaṁvedeti</span>experienced",
+        ]),
+        ("What is set aside", [
+            "what remains after death",
+            "&mdash; declined, not omitted",
+        ]),
+        ("Cross-references", [
+            "AN 3.53 &middot; the same demonstration",
+            "AN 3.54 &middot; the same, expanded",
+            "AN 3.59 &middot; Jānussoṇi again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.55/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.53.html">AN 3.53 &middot; A Certain Brahmin</a> &mdash; the discourse this '
+        "one reuses word for word, where the same demonstration explains what makes the teaching "
+        "checkable.",
+        '<a href="../majjhima-nikaya/mn-072.html">MN 72 &middot; With Vacchagotta on Fire</a> '
+        "&mdash; the fullest early treatment of what is and is not said about a perfected one after "
+        "death, worked out through the image of a fire gone out. It is the necessary companion to "
+        "this discourse&rsquo;s definition.",
+        '<a href="../itivuttaka/iti-44.html">Iti 44 &middot; Elements of Extinguishment</a> &mdash; '
+        "the short text distinguishing extinguishment with fuel remaining from extinguishment "
+        "without, which is the canon&rsquo;s own way of holding together this discourse&rsquo;s "
+        "living quenching and the further one.",
+    ],
+)
