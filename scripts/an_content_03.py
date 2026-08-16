@@ -19901,3 +19901,1188 @@ page(
         "statement of the three trainings that a trainee is, by definition, training in.",
     ],
 )
+
+
+page(
+    86, "Paṭhamasikkhā", "Training (1st)",
+    vagga=VAGGA_9,
+    meta_title="AN 3.86 — Training (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Sikkhāsutta — the "
+        "three trainings matched to four attainments, with a monk who still breaks minor rules at "
+        "every level. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A claim about the code, four parallel cases, and a closing rule of proportion"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The correlation of the three trainings with the stages of attainment "
+                              "is preserved in the Chinese Āgamas; this reading guide does not assert "
+                              "a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; repetitive, technical, and "
+                       "unusually generous"),
+    ],
+    why=(
+        "All hundred and fifty training rules, the discourse says, are included in three trainings. "
+        "Then four cases: a mendicant with ethics fulfilled but limited immersion and wisdom, twice; "
+        "one with ethics and immersion fulfilled; one with all three. Each is a stage of attainment. "
+        "And in every single case, including the last, the mendicant <em>breaks some lesser and minor "
+        "training rules, but is restored</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "How far you get depends on how many of the three trainings you have fulfilled &mdash; "
+            "and breaking minor rules does not stop you at any level."]),
+        ("The claim about the code", [
+            "&ldquo;Each fortnight over a hundred and fifty training rules come up for recitation, in "
+            "which gentlemen who desire self-knowledge train. These are all included in the three "
+            "trainings.&rdquo;",
+            "That is the same reduction offered to the Vajji monk two discourses earlier, stated as a "
+            "general principle rather than as a concession to somebody struggling. The rules are not "
+            "a separate system alongside the three trainings; they are a detailed expansion of the "
+            "first of them.",
+            "The phrase <em>who desire self-knowledge</em> is worth noticing. The rules are described "
+            "as the training of people who want to know something about themselves, not as discipline "
+            "imposed on people who need controlling."]),
+        ("Four cases, and what varies", [
+            "Case one: ethics fulfilled, immersion and wisdom limited &mdash; with the ending of "
+            "three fetters, a stream-enterer, <em>not liable to be reborn in the underworld, assured, "
+            "destined for awakening</em>.",
+            "Case two: the same description of the person, with a further result &mdash; the three "
+            "fetters ended and greed, hate, and delusion weakened, a once-returner.",
+            "Case three: ethics and immersion fulfilled, wisdom limited &mdash; the five lower fetters "
+            "ended, reborn spontaneously, extinguished there without returning. A non-returner.",
+            "Case four: all three fulfilled &mdash; the undefiled freedom of heart and freedom by "
+            "wisdom, realized in this very life.",
+            "So the mapping is clean and mechanical: ethics alone takes you to the first two stages, "
+            "ethics plus immersion to the third, all three to the fourth. It is one of the clearest "
+            "statements in the canon of what the three trainings are actually for, and it explains "
+            "why the collection keeps insisting on their order.",
+            "It also says something a class will find surprising: a stream-enterer is described as "
+            "having <em>limited</em> immersion and wisdom. The first stage of awakening does not "
+            "require meditative attainment on this account. It requires fulfilled ethics and the "
+            "ending of three fetters."]),
+        ("The sentence repeated in all four cases", [
+            "&ldquo;They break some lesser and minor training rules, but are restored. Why is that? "
+            "Because I don&rsquo;t say they&rsquo;re incapable of that.&rdquo;",
+            "This appears identically in every case, including the one describing somebody with all "
+            "three trainings fulfilled who has realized freedom in this very life. Such a person "
+            "still breaks minor rules.",
+            "The reasoning given is <em>abhabbo</em> &mdash; I do not say they are incapable of it. "
+            "The canon is precise elsewhere about what an awakened person cannot do, and the list is "
+            "short and grave: they cannot deliberately kill, steal, lie about attainments, or store "
+            "up for sensual enjoyment. Minor infractions are not on that list, and this discourse "
+            "says so.",
+            "The balancing clause matters as much: they are <em>constant and steady in their precepts "
+            "regarding the training rules that are fundamental, befitting the spiritual path</em>. So "
+            "the distinction is between rules that are load-bearing and rules that are not, and the "
+            "difference between the two is exactly what a person at any of these stages is reliable "
+            "about.",
+            "This is a passage worth showing to anyone who has met Buddhism as a system of "
+            "perfectionism. The canon&rsquo;s own account of an awakened monastic includes the "
+            "sentence <em>they break some lesser and minor training rules</em>."]),
+        ("The closing rule of proportion", [
+            "&ldquo;If you practice partially you succeed partially. If you practice fully you succeed "
+            "fully. But in any case, these training rules are not barren, I say.&rdquo;",
+            "<em>Padesaṁ padesakārī ārādheti, paripūraṁ paripūrakārī</em> &mdash; the partial doer "
+            "achieves partially, the complete doer completely. It is stated as a general law and it "
+            "is remarkably encouraging by the standards of religious literature, which more often "
+            "presents partial practice as failure.",
+            "And then the last clause, which is the one to remember: <em>these training rules are not "
+            "barren</em>. <em>Amoghā</em>, not fruitless, not in vain. Whatever a person manages, the "
+            "rules will have produced something.",
+            "That claim is what makes the four cases readable as encouragement rather than as a "
+            "ranking. The discourse has just sorted mendicants into four levels by how much of the "
+            "training they have fulfilled, and it ends by saying that nobody in any of those "
+            "positions is wasting their time."]),
+        ("Using it", [
+            "Teach it against the perfectionist reading, and quote the repeated sentence exactly. A "
+            "class that believes Buddhist practice is about flawlessness will be corrected faster by "
+            "this one passage than by any amount of explanation.",
+            "The proportion rule is the transferable part and it applies to anything cumulative: "
+            "language, an instrument, a discipline. Partial practice produces partial results, which "
+            "is neither nothing nor everything, and the exercises are not barren."]),
+    ],
+    terms=[
+        ("sikkhāpada",
+         "&ldquo;training rule&rdquo; &mdash; the items of the code, described here as included "
+         "entirely within the three trainings."),
+        ("sikkhākāmānaṁ",
+         "&ldquo;those who desire self-knowledge&rdquo; in Sujato&rsquo;s rendering &mdash; the rules "
+         "are described as the training of people who want something, not as discipline imposed on "
+         "people who need controlling."),
+        ("khuddānukhuddaka",
+         "&ldquo;lesser and minor&rdquo; &mdash; the class of training rules that a person at any of "
+         "these four stages may still break and be restored from."),
+        ("ādibrahmacariyaka",
+         "&ldquo;fundamental, befitting the spiritual path&rdquo; &mdash; the load-bearing rules, in "
+         "which such a person is constant and steady."),
+        ("amoghā",
+         "&ldquo;not barren, not in vain&rdquo; &mdash; said of the training rules in the closing "
+         "sentence, whatever a practitioner manages of them."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "All of them included in three"),
+        ("p", "&sect;1", "an3.86:1.1-1.5"),
+        ("h3", "Four cases"),
+        ("p", "&sect;2", "an3.86:2.1-2.6"),
+        ("p", "&sect;3", "an3.86:3.1-3.6"),
+        ("p", "&sect;4", "an3.86:4.1-4.6"),
+        ("p", "&sect;5", "an3.86:5.1-5.6"),
+        ("h3", "Partially, and fully"),
+        ("p", "&sect;6", "an3.86:6.1-6.2"),
+    ],
+    quiz=[
+        {"q": "What claim is made about the training rules?",
+         "opts": [
+             "That they should be reduced",
+             "That all of them are included in the three trainings &mdash; a detailed expansion of the first, not a separate system",
+             "That only monastics need them",
+             "That they are optional"],
+         "correct": 1,
+         "expl": "The same reduction offered to the Vajji monk, stated as a general principle."},
+        {"q": "How are the rules described?",
+         "opts": [
+             "As discipline imposed on those who need controlling",
+             "As the training of gentlemen who desire self-knowledge",
+             "As a legal code",
+             "As a burden"],
+         "correct": 1,
+         "expl": "Worth noticing: they are the training of people who want something."},
+        {"q": "What takes a mendicant to stream-entry, on this account?",
+         "opts": [
+             "All three trainings fulfilled",
+             "Ethics fulfilled, with limited immersion and wisdom",
+             "Immersion fulfilled",
+             "Wisdom fulfilled"],
+         "correct": 1,
+         "expl": "The first stage does not require meditative attainment on this account."},
+        {"q": "What produces a non-returner?",
+         "opts": [
+             "Ethics alone",
+             "Ethics and immersion fulfilled, with limited wisdom",
+             "Wisdom alone",
+             "All three"],
+         "correct": 1,
+         "expl": "The mapping is clean and mechanical, which explains the collection&rsquo;s insistence on the order."},
+        {"q": "Which sentence appears in all four cases, including the last?",
+         "opts": [
+             "That they meditate daily",
+             "That they break some lesser and minor training rules, but are restored",
+             "That they teach others",
+             "That they live in seclusion"],
+         "correct": 1,
+         "expl": "Including the case of somebody who has realized freedom in this very life."},
+        {"q": "What reason is given?",
+         "opts": [
+             "That the rules are too many",
+             "&ldquo;Because I don&rsquo;t say they&rsquo;re incapable of that&rdquo;",
+             "That the rules are unclear",
+             "That they were not taught the rules"],
+         "correct": 1,
+         "expl": "The canon&rsquo;s list of what an awakened person cannot do is short and grave, and minor infractions are not on it."},
+        {"q": "What is the balancing clause?",
+         "opts": [
+             "That they confess",
+             "That they are constant and steady in the training rules that are fundamental, befitting the spiritual path",
+             "That they keep silence",
+             "That they are forgiven"],
+         "correct": 1,
+         "expl": "The distinction is between rules that are load-bearing and rules that are not."},
+        {"q": "Why does the guide say this passage is worth showing to perfectionists?",
+         "opts": [
+             "Because it lists the rules",
+             "Because the canon&rsquo;s own account of an awakened monastic includes the sentence &ldquo;they break some lesser and minor training rules&rdquo;",
+             "Because it praises effort",
+             "Because it is short"],
+         "correct": 1,
+         "expl": "Faster than any amount of explanation."},
+        {"q": "What is the closing rule of proportion?",
+         "opts": [
+             "That partial practice is failure",
+             "That the partial doer achieves partially and the complete doer completely",
+             "That only complete practice counts",
+             "That results are unpredictable"],
+         "correct": 1,
+         "expl": "Remarkably encouraging by the standards of religious literature."},
+        {"q": "What does <em>amoghā</em> mean, and why does it matter?",
+         "opts": [
+             "&ldquo;Difficult&rdquo;; the rules are hard",
+             "&ldquo;Not barren, not in vain&rdquo; &mdash; which is what makes the four cases encouragement rather than a ranking",
+             "&ldquo;Many&rdquo;; the rules are numerous",
+             "&ldquo;Ancient&rdquo;; the rules are old"],
+         "correct": 1,
+         "expl": "Nobody in any of those four positions is wasting their time."},
+    ],
+    marginalia=[
+        ("Four cases", [
+            "ethics only &middot; stream-enterer",
+            "ethics only &middot; once-returner",
+            "ethics + immersion &middot; non-returner",
+            "all three &middot; freedom now",
+        ]),
+        ("Said of all four", [
+            "&ldquo;they break some lesser",
+            "and minor training rules,",
+            "but are restored&rdquo;",
+        ]),
+        ("The proportion", [
+            "partial doer &middot; partial success",
+            "complete doer &middot; complete",
+            "<span class=\"pali\">amoghā</span>not barren",
+        ]),
+        ("Cross-references", [
+            "AN 3.84 &middot; the same reduction, offered",
+            "AN 3.89 &middot; the three defined",
+            "AN 3.87 &middot; the same, subdivided",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.86/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.84.html">AN 3.84 &middot; The Vajji</a> &mdash; where the same reduction of '
+        "the code to three trainings is offered to one monk as a rescue. This discourse states it as "
+        "a general principle.",
+        '<a href="an-3.87.html">AN 3.87 &middot; Training (2nd)</a> &mdash; the same four cases with '
+        "the stages subdivided into their standard varieties, which is where the technical typology "
+        "of the canon becomes visible.",
+        '<a href="an-3.89.html">AN 3.89 &middot; Three Trainings (1st)</a> &mdash; for what each of '
+        "the three trainings actually consists of, defined rather than named.",
+    ],
+)
+
+
+page(
+    87, "Dutiyasikkhā", "Training (2nd)",
+    vagga=VAGGA_9,
+    meta_title="AN 3.87 — Training (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Sikkhāsutta — the "
+        "same four cases with the stages subdivided into their standard varieties. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 3.86 with each stage broken into its recognized types"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The typology of stream-enterers and non-returners is preserved in the "
+                              "Chinese Āgamas and elaborated further in the Abhidharma; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the most technical vocabulary in "
+                       "the chapter"),
+    ],
+    why=(
+        "The same structure as AN 3.86, with the attainments subdivided. A person with the three "
+        "fetters ended may have at most seven rebirths, or go from family to family, or be a "
+        "one-seeder. A person with the five lower fetters ended may be extinguished in one of five "
+        "ways. This is where the canon&rsquo;s technical typology of the path comes into view, and it "
+        "is worth being honest that it is difficult and that its details were disputed."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The stages of attainment have recognized varieties within them, and how far a person "
+            "gets still depends on how many of the three trainings are fulfilled."]),
+        ("Three kinds of stream-enterer", [
+            "<em>Sattakkhattuparama</em>, the seven-times-at-most: they will transmigrate at most "
+            "seven times among gods and humans and then make an end of suffering.",
+            "<em>Kolaṅkola</em>, family-to-family: they will transmigrate between two or three "
+            "families and then make an end.",
+            "<em>Ekabījī</em>, the one-seeder: reborn just one time in a human existence, then make "
+            "an end.",
+            "The three are ordered from slowest to fastest and all three have the same qualification "
+            "&mdash; the ending of three fetters. So the difference between them is not what has been "
+            "abandoned but how quickly the rest follows.",
+            "The word <em>ekabījī</em>, one-seeder, connects to AN 3.76, twelve discourses earlier: "
+            "if consciousness is the seed and craving the moisture, somebody with one planting left "
+            "has almost run out of water."]),
+        ("Five kinds of non-returner", [
+            "The five are given in a fixed order which this discourse presents in reverse: heading "
+            "upstream to the Akaniṭṭha realm; extinguished with extra effort; extinguished without "
+            "extra effort; extinguished upon landing; extinguished between one life and the next.",
+            "The standard order runs the other way, from the quickest to the slowest, and the terms "
+            "are among the most disputed in the canon. <em>Antarāparinibbāyī</em>, extinguished "
+            "between one life and the next, has been read as meaning within the first part of the "
+            "next life, or in an intermediate state between lives &mdash; and the two readings "
+            "correspond to a doctrinal disagreement about whether there is such an intermediate state "
+            "at all, which the Theravāda and the Sarvāstivāda answered differently.",
+            "That disagreement is worth naming rather than smoothing over, because a reader who "
+            "consults two sources will find them disagreeing and should know why. What can be said "
+            "flatly is that all five have the same qualification, the ending of the five lower "
+            "fetters, and all five reach the same place.",
+            "It is also worth saying plainly that these categories cannot be checked from outside and "
+            "were not meant to be. They are a description of how the last stretch varies, offered to "
+            "people already on it."]),
+        ("What has not changed from AN 3.86", [
+            "Everything structural. The three trainings still map onto the stages the same way: "
+            "ethics fulfilled produces stream-entry and once-returning, ethics plus immersion "
+            "produces non-returning, all three produce freedom in this life. The mendicant in every "
+            "case still breaks lesser and minor rules and is restored. The closing rule of proportion "
+            "is identical.",
+            "So the pair works like the other paired discourses of this collection: a fixed frame "
+            "with one element expanded. Here what has been expanded is the result rather than the "
+            "reason.",
+            "That is worth pointing out because it tells a reader what the discourse thinks is "
+            "variable. The trainings do not subdivide. The attainments do."]),
+        ("How to teach a technical passage honestly", [
+            "There is a temptation with material like this either to present it as settled doctrine "
+            "or to skip it as scholastic. Both are worse than the honest option.",
+            "What can be said with confidence: the canon recognizes stages of awakening; it "
+            "recognizes varieties within the stages; the varieties differ in speed rather than in "
+            "what has been abandoned; and the whole scheme is correlated with the three trainings in "
+            "a way that makes the first two stages available without meditative attainment.",
+            "What should be flagged as uncertain: the precise meaning of several of the "
+            "non-returner terms, which the traditions read differently and which depend on a "
+            "cosmological question the early texts do not settle.",
+            "And what should be said about use: none of this is a diagnostic. There is no procedure "
+            "in the canon by which a person determines which of the eight categories they occupy, and "
+            "the discourse offers none. It is a map of the territory ahead, not a form to fill in."]),
+        ("Using it", [
+            "For most classes this is a discourse to read rather than to work through, and the "
+            "reading should be framed: here is what the tradition&rsquo;s technical vocabulary of "
+            "attainment looks like when it is all in one place.",
+            "The one detail worth stopping on is the correlation, because it is genuinely "
+            "surprising and it is the same in both discourses: a stream-enterer and a once-returner "
+            "are described as having <em>limited</em> immersion and wisdom. Whatever else the "
+            "typology does, it says that the first two irreversible attainments belong to people "
+            "whose ethics is complete and whose meditation is not."]),
+    ],
+    terms=[
+        ("sattakkhattuparama",
+         "&ldquo;seven-times-at-most&rdquo; &mdash; the slowest of the three kinds of stream-enterer, "
+         "transmigrating at most seven times among gods and humans."),
+        ("kolaṅkola",
+         "&ldquo;family to family&rdquo; &mdash; transmigrating between two or three families before "
+         "making an end."),
+        ("ekabījī",
+         "&ldquo;one-seeder&rdquo; &mdash; reborn just one time in a human existence. The word "
+         "connects to the seed image of AN 3.76."),
+        ("antarāparinibbāyī",
+         "&ldquo;extinguished between one life and the next&rdquo; &mdash; the most disputed of the "
+         "five non-returner terms, read differently depending on whether a school accepts an "
+         "intermediate state."),
+        ("uddhaṁsota akaniṭṭhagāmī",
+         "&ldquo;heading upstream, going to the Akaniṭṭha realm&rdquo; &mdash; the slowest of the "
+         "five, ascending through the pure abodes to the highest."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "All of them included in three"),
+        ("p", "&sect;1", "an3.87:1.1-1.5"),
+        ("h3", "Ethics fulfilled"),
+        ("p", "&sect;2", "an3.87:2.1-2.10"),
+        ("h3", "Ethics and immersion fulfilled"),
+        ("p", "&sect;3", "an3.87:3.1-3.10"),
+        ("h3", "All three fulfilled"),
+        ("p", "&sect;4", "an3.87:4.1-4.6"),
+        ("p", "&sect;5", "an3.87:5.1"),
+    ],
+    quiz=[
+        {"q": "What are the three kinds of stream-enterer?",
+         "opts": [
+             "The seven-times-at-most, the family-to-family, and the one-seeder",
+             "The fast, the middling, and the slow",
+             "The monastic, the lay, and the divine",
+             "The faithful, the concentrated, and the wise"],
+         "correct": 0,
+         "expl": "All three have the same qualification: the ending of three fetters."},
+        {"q": "What distinguishes them from one another?",
+         "opts": [
+             "What has been abandoned",
+             "How quickly the rest follows",
+             "Which training they fulfilled",
+             "Their ordination"],
+         "correct": 1,
+         "expl": "Ordered from slowest to fastest, with the same qualification throughout."},
+        {"q": "How does <em>ekabījī</em> connect to AN 3.76?",
+         "opts": [
+             "It does not",
+             "If consciousness is the seed and craving the moisture, somebody with one planting left has almost run out of water",
+             "It uses the same realm",
+             "It shares a speaker"],
+         "correct": 1,
+         "expl": "One-seeder, twelve discourses after the seed image."},
+        {"q": "How many kinds of non-returner are given?",
+         "opts": [
+             "Three",
+             "Four",
+             "Five",
+             "Seven"],
+         "correct": 2,
+         "expl": "Presented here in reverse of the standard order."},
+        {"q": "Which term does the guide flag as most disputed, and why?",
+         "opts": [
+             "<em>Kolaṅkola</em>, because families vary",
+             "<em>Antarāparinibbāyī</em>, because it can mean within the first part of the next life or in an intermediate state between lives &mdash; and schools disagreed about whether such a state exists",
+             "<em>Ekabījī</em>, because seeds vary",
+             "<em>Uddhaṁsota</em>, because realms vary"],
+         "correct": 1,
+         "expl": "The Theravāda and the Sarvāstivāda answered the underlying question differently."},
+        {"q": "Why does the guide name the disagreement rather than smooth it over?",
+         "opts": [
+             "To take sides",
+             "Because a reader who consults two sources will find them disagreeing and should know why",
+             "Because the term is unimportant",
+             "Because the canon settles it"],
+         "correct": 1,
+         "expl": "What can be said flatly is that all five have the same qualification and reach the same place."},
+        {"q": "What does the guide say about these categories as a diagnostic?",
+         "opts": [
+             "That they are a checklist",
+             "That there is no procedure in the canon for determining which category one occupies &mdash; it is a map of the territory ahead, not a form to fill in",
+             "That a teacher can assign them",
+             "That they are self-evident"],
+         "correct": 1,
+         "expl": "They were not meant to be checked from outside."},
+        {"q": "What has not changed from AN 3.86?",
+         "opts": [
+             "Nothing has changed",
+             "Everything structural &mdash; the correlation with the trainings, the broken minor rules, and the closing rule of proportion",
+             "Only the speaker",
+             "Only the length"],
+         "correct": 1,
+         "expl": "A fixed frame with one element expanded."},
+        {"q": "What does that tell a reader about what the discourse thinks is variable?",
+         "opts": [
+             "That the trainings subdivide",
+             "That the attainments subdivide and the trainings do not",
+             "That both subdivide",
+             "That neither does"],
+         "correct": 1,
+         "expl": "What has been expanded is the result rather than the reason."},
+        {"q": "Which detail does the guide say is worth stopping on?",
+         "opts": [
+             "The Akaniṭṭha realm",
+             "That a stream-enterer and a once-returner are described as having <em>limited</em> immersion and wisdom &mdash; the first two irreversible attainments belong to people whose ethics is complete and whose meditation is not",
+             "The number of fetters",
+             "The order of the five"],
+         "correct": 1,
+         "expl": "Genuinely surprising, and the same in both discourses."},
+    ],
+    marginalia=[
+        ("Three stream-enterers", [
+            "<span class=\"pali\">sattakkhattuparama</span>seven at most",
+            "<span class=\"pali\">kolaṅkola</span>family to family",
+            "<span class=\"pali\">ekabījī</span>one-seeder",
+        ]),
+        ("Five non-returners", [
+            "upstream to Akaniṭṭha",
+            "with extra effort &middot; without",
+            "upon landing",
+            "between one life and the next",
+        ]),
+        ("What is disputed", [
+            "<span class=\"pali\">antarāparinibbāyī</span>",
+            "&mdash; an intermediate state?",
+            "&mdash; schools answered differently",
+        ]),
+        ("Cross-references", [
+            "AN 3.86 &middot; the same frame",
+            "AN 3.88 &middot; the same, descending",
+            "AN 3.76 &middot; the seed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.87/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.86.html">AN 3.86 &middot; Training (1st)</a> &mdash; the same four cases '
+        "without the subdivisions, and the discourse to read first.",
+        '<a href="an-3.88.html">AN 3.88 &middot; Training (3rd)</a> &mdash; the third member of the '
+        "set, which runs the same list from the top down: if they do not penetrate so far, then this; "
+        "and if not so far, then this.",
+        '<a href="/abhidharma/abhidharmakosa/fascicle-021/">Abhidharmakośa &middot; Fascicle 21</a> '
+        "&mdash; for what the Abhidharma made of this typology once it began working systematically "
+        "on the stages and the fetters abandoned at each.",
+    ],
+)
+
+
+page(
+    88, "Tatiyasikkhā", "Training (3rd)",
+    vagga=VAGGA_9,
+    meta_title="AN 3.88 — Training (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the third Sikkhāsutta — the "
+        "same stages listed from the top down, each introduced by &lsquo;if they don't penetrate so "
+        "far&rsquo;. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "One case only, with nine successively lower outcomes attached to it"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the same vocabulary as AN 3.87 "
+                       "with the direction reversed"),
+    ],
+    why=(
+        "The third of the set drops the four cases and keeps one: a mendicant who has fulfilled "
+        "ethics, immersion, and wisdom. That person realizes freedom in this very life &mdash; and "
+        "then, nine times over, <em>if they don&rsquo;t penetrate so far</em>, the next outcome down. "
+        "The list descends from freedom now to seven more rebirths, and every step of the descent is "
+        "still an irreversible attainment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Aim at the whole thing; and if you do not reach it, here is everything else you will "
+            "have reached instead, in order."]),
+        ("One case, nine outcomes", [
+            "AN 3.86 and AN 3.87 sorted mendicants by which trainings they had fulfilled and gave "
+            "each sort its result. This discourse describes only the fully trained mendicant and "
+            "attaches every outcome to that one person.",
+            "The device is the repeated clause <em>no ce tathattāya paṭivijjhati</em> &mdash; if they "
+            "do not penetrate so far. Freedom in this very life; if not that, extinguished between "
+            "one life and the next; if not that, upon landing; without extra effort; with extra "
+            "effort; heading upstream to Akaniṭṭha; once-returner; one-seeder; family-to-family; "
+            "seven-times-at-most.",
+            "Nine descents, and the bottom of the list is still a stream-enterer &mdash; somebody "
+            "assured and destined for awakening. There is no tenth step where the practice fails."]),
+        ("Why the direction matters", [
+            "The same information in the other two discourses reads as a classification: here are "
+            "four kinds of practitioner and what each achieves. Read downward it becomes something "
+            "else entirely, which is a statement about one practitioner and what happens if they fall "
+            "short.",
+            "That difference is not decorative. A classification invites a reader to locate "
+            "themselves in it, which the previous discourse warned is not possible. A descent invites "
+            "them to aim at the top and be told what the shortfalls are, which is usable.",
+            "It also reframes the whole typology. Read this way, the varieties of stream-enterer and "
+            "non-returner are not different destinations for different people. They are the "
+            "successive positions a single person passes through or stops at, and the discourse names "
+            "them so that stopping short is described rather than feared."]),
+        ("The reversal of the closing formula", [
+            "AN 3.86 and AN 3.87 both end: <em>if you practice partially you succeed partially. If "
+            "you practice fully you succeed fully.</em> This one reverses the order of the two "
+            "clauses: <em>if you practice fully you succeed fully. If you practice partially you "
+            "succeed partially.</em>",
+            "That is the kind of detail a reader skims and it matches the discourse exactly. The "
+            "other two build upward from partial practice; this one starts from full practice and "
+            "descends. Even the closing formula runs the same direction as the body.",
+            "Whether the compilers did that deliberately or the recitation tradition adjusted it is "
+            "not something the text settles. The correspondence is exact either way, and it is worth "
+            "showing a class as evidence of how carefully this material was arranged."]),
+        ("What is not on the list", [
+            "The three discourses together enumerate eight or nine attainments and none of them is "
+            "failure. The lowest outcome named is the seven-times-at-most stream-enterer, and the "
+            "canon describes that person as <em>not liable to be reborn in the underworld, assured, "
+            "destined for awakening</em>.",
+            "That is because all three discourses are describing somebody who has fulfilled at least "
+            "the training in ethics. Nothing here is said about a practitioner who has not, and it "
+            "would be a serious misreading to conclude that the canon guarantees an outcome to "
+            "anybody who tries.",
+            "The scope should be stated plainly when teaching this: the discourse is about people "
+            "inside the training, and its generosity is a description of what the training does once "
+            "entered, not a promise made to everyone."]),
+        ("Using it", [
+            "This is the version of the three to teach if only one is taught. It carries the same "
+            "content and the descent makes the point that the classification cannot: aim at the whole "
+            "thing, and the shortfalls are named in advance.",
+            "The transferable structure is the phrase <em>if they don&rsquo;t penetrate so far</em>. "
+            "It is a way of setting a high aim without making everything below it a failure, and it "
+            "is unusual. Most systems that set a high standard either pretend the shortfalls do not "
+            "exist or treat them as defeat; this one lists nine of them and names each as an "
+            "achievement."]),
+    ],
+    terms=[
+        ("no ce tathattāya paṭivijjhati",
+         "&ldquo;if they don&rsquo;t penetrate so far&rdquo; &mdash; the clause repeated nine times, "
+         "which turns a classification into a descent."),
+        ("paṭivijjhati",
+         "&ldquo;penetrates&rdquo; &mdash; the verb for arriving at an attainment, with the sense of "
+         "breaking through rather than acquiring."),
+        ("paripūrakārī",
+         "&ldquo;one who practices fully&rdquo; &mdash; placed first in this discourse&rsquo;s "
+         "closing formula, where the other two put the partial doer first."),
+        ("niyata sambodhiparāyaṇa",
+         "&ldquo;assured, destined for awakening&rdquo; &mdash; said of the lowest outcome on the "
+         "list, which is why nothing here counts as failure."),
+        ("khuddānukhuddaka",
+         "&ldquo;lesser and minor&rdquo; &mdash; the rules the fully trained mendicant still breaks "
+         "and is restored from, retained from AN 3.86."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "All of them included in three"),
+        ("p", "&sect;1", "an3.88:1.1-1.5"),
+        ("h3", "And if not so far"),
+        ("p", "&sect;2", "an3.88:2.1-2.15"),
+        ("h3", "Fully, and partially"),
+        ("p", "&sect;3", "an3.88:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "How many cases does this discourse describe?",
+         "opts": [
+             "Four, as in AN 3.86",
+             "One &mdash; the mendicant who has fulfilled ethics, immersion, and wisdom",
+             "Nine",
+             "Three"],
+         "correct": 1,
+         "expl": "Every outcome is attached to that one person."},
+        {"q": "What clause is repeated nine times?",
+         "opts": [
+             "&ldquo;They break some lesser and minor rules&rdquo;",
+             "&ldquo;If they don&rsquo;t penetrate so far&rdquo;",
+             "&ldquo;These are the three trainings&rdquo;",
+             "&ldquo;Why is that?&rdquo;"],
+         "correct": 1,
+         "expl": "Which turns a classification into a descent."},
+        {"q": "What is at the bottom of the list?",
+         "opts": [
+             "Failure",
+             "A stream-enterer with at most seven rebirths &mdash; assured and destined for awakening",
+             "A non-returner",
+             "An ordinary person"],
+         "correct": 1,
+         "expl": "There is no tenth step where the practice fails."},
+        {"q": "Why does the direction matter?",
+         "opts": [
+             "It does not",
+             "A classification invites a reader to locate themselves in it, which is not possible; a descent invites them to aim at the top and be told what the shortfalls are",
+             "It changes the doctrine",
+             "It shortens the discourse"],
+         "correct": 1,
+         "expl": "The difference is not decorative."},
+        {"q": "How does the descent reframe the typology?",
+         "opts": [
+             "As different destinations for different people",
+             "As the successive positions a single person passes through or stops at &mdash; so stopping short is described rather than feared",
+             "As a ranking of monastics",
+             "As a cosmology"],
+         "correct": 1,
+         "expl": "Which is what the other two discourses cannot say."},
+        {"q": "What detail differs in the closing formula?",
+         "opts": [
+             "It is omitted",
+             "The two clauses are reversed &mdash; full practice first, then partial, matching the direction of the body",
+             "It is in verse",
+             "It adds a third clause"],
+         "correct": 1,
+         "expl": "The kind of detail a reader skims, and it matches the discourse exactly."},
+        {"q": "What does the guide say about whether that was deliberate?",
+         "opts": [
+             "That it certainly was",
+             "That the text does not settle it &mdash; but the correspondence is exact either way, and shows how carefully the material was arranged",
+             "That it was an error",
+             "That it is a translation artifact"],
+         "correct": 1,
+         "expl": "Worth showing a class as evidence of arrangement."},
+        {"q": "Whom are all three discourses describing?",
+         "opts": [
+             "Anybody who tries",
+             "Somebody who has fulfilled at least the training in ethics",
+             "Laypeople",
+             "Only arahants"],
+         "correct": 1,
+         "expl": "Nothing here is said about a practitioner who has not."},
+        {"q": "What misreading does the guide head off?",
+         "opts": [
+             "That the stages are real",
+             "That the canon guarantees an outcome to anybody who tries &mdash; the generosity describes what the training does once entered",
+             "That ethics matters",
+             "That the list is complete"],
+         "correct": 1,
+         "expl": "The scope should be stated plainly when teaching this."},
+        {"q": "Why does the guide call this the version to teach if only one is taught?",
+         "opts": [
+             "Because it is shortest",
+             "Because it carries the same content and the descent makes a point the classification cannot &mdash; aim at the whole thing, with the shortfalls named in advance",
+             "Because it omits the typology",
+             "Because it is the last of the three"],
+         "correct": 1,
+         "expl": "Most systems either pretend shortfalls do not exist or treat them as defeat; this one names nine and calls each an achievement."},
+    ],
+    marginalia=[
+        ("Nine descents", [
+            "freedom in this very life",
+            "five kinds of non-returner",
+            "once-returner",
+            "three kinds of stream-enterer",
+        ]),
+        ("The clause", [
+            "&ldquo;if they don&rsquo;t",
+            "penetrate so far&hellip;&rdquo;",
+            "&mdash; nine times",
+        ]),
+        ("The reversal", [
+            "AN 3.86&ndash;87 &middot; partial first",
+            "AN 3.88 &middot; full first",
+            "&mdash; matching the body",
+        ]),
+        ("Cross-references", [
+            "AN 3.86 &middot; four cases, ascending",
+            "AN 3.87 &middot; the subdivisions",
+            "AN 3.84 &middot; the code reduced to three",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.88/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.86.html">AN 3.86 &middot; Training (1st)</a> &mdash; the first of the set, '
+        "which sorts mendicants by which trainings they have fulfilled instead of descending through "
+        "outcomes.",
+        '<a href="an-3.87.html">AN 3.87 &middot; Training (2nd)</a> &mdash; the second, where the '
+        "varieties of stream-enterer and non-returner are named and their difficulties discussed.",
+        '<a href="an-3.85.html">AN 3.85 &middot; A Trainee</a> &mdash; for the word that covers '
+        "everybody on this list except the one at the top.",
+    ],
+)
+
+
+page(
+    89, "Paṭhamasikkhattaya", "Three Trainings (1st)",
+    vagga=VAGGA_9,
+    meta_title="AN 3.89 — Three Trainings (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first "
+        "Sikkhattayasutta — each of the three trainings defined, with wisdom as the four noble "
+        "truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three items, each defined by its standard formula"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The definitions of the three trainings are preserved in the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; three formulas, all of them worth "
+                       "knowing by heart"),
+    ],
+    why=(
+        "The chapter has spent eight discourses using the three trainings without saying what they "
+        "are. This one defines them, each in the formula the canon uses everywhere: ethics as "
+        "restraint in the code, the higher mind as the four absorptions, and the higher wisdom as "
+        "understanding the four noble truths. Four lines, and the whole path is in them."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ethics is the code kept, the higher mind is the four absorptions, and the higher wisdom "
+            "is the four noble truths understood."]),
+        ("The first definition", [
+            "&ldquo;A mendicant is ethical, restrained in the monastic code, conducting themselves "
+            "well and resorting for alms in suitable places. Seeing danger in the slightest fault, "
+            "they keep the rules they&rsquo;ve undertaken.&rdquo;",
+            "Four elements: restraint in the code, good conduct and resort, seeing danger in the "
+            "slightest fault, and keeping what has been undertaken. The third is the one that carries "
+            "the weight &mdash; <em>aṇumattesu vajjesu bhayadassāvī</em>, seeing danger in faults the "
+            "size of an atom.",
+            "That phrase has to be held against AN 3.86, where a person at every stage of attainment "
+            "<em>breaks some lesser and minor training rules</em>. The two are not in conflict and "
+            "the difference is worth making: seeing danger in a small fault is about how one regards "
+            "faults, not about never committing one. A person can take a minor rule seriously, break "
+            "it, and be restored, and this discourse and that one are describing the same person."]),
+        ("The second definition", [
+            "The higher mind is the four absorptions, given in the standard sequence and abbreviated "
+            "here as the collection usually abbreviates them.",
+            "This is worth stating plainly because it is often blurred: in the canon&rsquo;s own "
+            "definition, <em>adhicitta</em> is <em>jhāna</em>. Not mindfulness in general, not calm "
+            "in general, and not a good attitude &mdash; the four absorptions, which are described "
+            "elsewhere in this collection at length.",
+            "That has a consequence for the correlation in AN 3.86. If the higher mind is the "
+            "absorptions, then a stream-enterer with <em>limited</em> immersion is somebody who has "
+            "not fulfilled them, and the first two stages of awakening are being placed within reach "
+            "of somebody whose meditation is incomplete."]),
+        ("The third definition, and why it differs from AN 3.90", [
+            "The higher wisdom, here, is understanding the four noble truths: <em>this is suffering; "
+            "this is the origin; this is the cessation; this is the practice that leads to the "
+            "cessation.</em>",
+            "AN 3.90, the next discourse, is identical except at this point, where it defines the "
+            "higher wisdom instead as the realization of the undefiled freedom of heart and freedom "
+            "by wisdom, in this very life, through the ending of defilements.",
+            "So the pair offers wisdom as understanding and wisdom as liberation &mdash; the seeing "
+            "and the result of the seeing. Given the correlation of AN 3.86, where fulfilled wisdom "
+            "is what produces freedom in this life, the two definitions describe the same thing at "
+            "its beginning and at its completion.",
+            "This is the same pairing habit as AN 3.76 and AN 3.77, four discourses apart, where "
+            "consciousness and intention were offered in one slot. The collection does this "
+            "deliberately at points where a single definition would over-determine something."]),
+        ("Using it", [
+            "This is the reference discourse for the whole chapter and the one to hand a class as a "
+            "single page. Everything the chapter has said about the three trainings &mdash; the "
+            "donkey, the farmer, the Vajji monk, the four attainments &mdash; presupposes these three "
+            "definitions.",
+            "The point to draw out is the second. A class that has heard 戒定慧 all their lives will "
+            "generally have an unexamined idea of what 定 means, and this discourse says: the four "
+            "absorptions, as described in AN 3.58 and AN 3.63. Whether that is achievable is a "
+            "separate question and a live one; what the definition does is stop the second training "
+            "from quietly becoming a synonym for being calm."]),
+    ],
+    terms=[
+        ("aṇumattesu vajjesu bhayadassāvī",
+         "&ldquo;seeing danger in the slightest fault&rdquo; &mdash; about how faults are regarded, "
+         "not about never committing one. AN 3.86 describes the same person breaking minor rules."),
+        ("pātimokkhasaṁvara",
+         "&ldquo;restraint in the monastic code&rdquo; &mdash; the first element of the definition of "
+         "the higher ethics."),
+        ("ācāragocara",
+         "&ldquo;conduct and resort&rdquo; &mdash; behaving well and going for alms in suitable "
+         "places, a pair the canon always keeps together."),
+        ("adhicitta",
+         "&ldquo;the higher mind&rdquo; &mdash; defined here as the four absorptions, not as calm or "
+         "mindfulness in general."),
+        ("cattāri ariyasaccāni",
+         "&ldquo;the four noble truths&rdquo; &mdash; what the higher wisdom consists of in this "
+         "discourse, where AN 3.90 puts liberation instead."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three trainings"),
+        ("p", "&sect;1", "an3.89:1.1-1.3"),
+        ("h3", "Defined"),
+        ("p", "&sect;2", "an3.89:2.1-2.3"),
+        ("p", "&sect;3", "an3.89:3.1-3.3"),
+        ("p", "&sect;4", "an3.89:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What is the training in the higher ethics?",
+         "opts": [
+             "Keeping five precepts",
+             "Being ethical, restrained in the monastic code, conducting oneself well and resorting for alms in suitable places, seeing danger in the slightest fault",
+             "Avoiding all faults",
+             "Confessing faults"],
+         "correct": 1,
+         "expl": "Four elements, of which the third carries the weight."},
+        {"q": "How does &ldquo;seeing danger in the slightest fault&rdquo; sit with AN 3.86?",
+         "opts": [
+             "They contradict",
+             "Seeing danger in a small fault is about how one regards faults, not about never committing one &mdash; the two describe the same person",
+             "AN 3.86 is about laypeople",
+             "One is later"],
+         "correct": 1,
+         "expl": "A person can take a minor rule seriously, break it, and be restored."},
+        {"q": "What is the training in the higher mind?",
+         "opts": [
+             "Mindfulness in general",
+             "Calm in general",
+             "The four absorptions",
+             "A good attitude"],
+         "correct": 2,
+         "expl": "In the canon&rsquo;s own definition, <em>adhicitta</em> is <em>jhāna</em>."},
+        {"q": "What consequence does that have for AN 3.86&rsquo;s correlation?",
+         "opts": [
+             "None",
+             "A stream-enterer with limited immersion is somebody who has not fulfilled the absorptions &mdash; so the first two stages are within reach of somebody whose meditation is incomplete",
+             "That stream-entry requires jhāna",
+             "That jhāna is unnecessary"],
+         "correct": 1,
+         "expl": "The definition makes the correlation precise."},
+        {"q": "What is the training in the higher wisdom here?",
+         "opts": [
+             "Liberation",
+             "Understanding the four noble truths",
+             "Recollection of past lives",
+             "The divine eye"],
+         "correct": 1,
+         "expl": "AN 3.90 puts something else in this slot."},
+        {"q": "What does AN 3.90 put there instead?",
+         "opts": [
+             "The four absorptions",
+             "The realization of the undefiled freedom of heart and freedom by wisdom in this very life",
+             "The monastic code",
+             "The three knowledges"],
+         "correct": 1,
+         "expl": "Wisdom as understanding, and wisdom as liberation."},
+        {"q": "How does the guide relate the two definitions?",
+         "opts": [
+             "As a contradiction",
+             "As the same thing at its beginning and at its completion &mdash; the seeing, and the result of the seeing",
+             "As applying to different people",
+             "As unrelated"],
+         "correct": 1,
+         "expl": "Consistent with AN 3.86, where fulfilled wisdom is what produces freedom in this life."},
+        {"q": "Which earlier pair does this resemble?",
+         "opts": [
+             "AN 3.76 and AN 3.77, where consciousness and intention are offered in one slot",
+             "AN 3.1 and AN 3.2",
+             "AN 3.53 and AN 3.54",
+             "AN 3.30 and AN 3.31"],
+         "correct": 0,
+         "expl": "The collection does this at points where a single definition would over-determine something."},
+        {"q": "Why does the guide call this the reference discourse for the chapter?",
+         "opts": [
+             "Because it is longest",
+             "Because everything the chapter has said &mdash; the donkey, the farmer, the Vajji monk, the four attainments &mdash; presupposes these three definitions",
+             "Because it is first",
+             "Because it has verses"],
+         "correct": 1,
+         "expl": "The one to hand a class as a single page."},
+        {"q": "What does the definition of the second training prevent?",
+         "opts": [
+             "Nothing",
+             "It stops the second training from quietly becoming a synonym for being calm",
+             "It stops laypeople from practicing",
+             "It stops the code from being kept"],
+         "correct": 1,
+         "expl": "Whether the absorptions are achievable is a separate and live question."},
+    ],
+    marginalia=[
+        ("Three, defined", [
+            "ethics &middot; the code, kept",
+            "the higher mind &middot; four absorptions",
+            "the higher wisdom &middot; four truths",
+        ]),
+        ("One phrase", [
+            "&ldquo;seeing danger",
+            "in the slightest fault&rdquo;",
+            "&mdash; not: never at fault",
+        ]),
+        ("The pair", [
+            "AN 3.89 &middot; wisdom as the four truths",
+            "AN 3.90 &middot; wisdom as liberation",
+        ]),
+        ("Cross-references", [
+            "AN 3.86 &middot; the correlation",
+            "AN 3.58 &middot; the absorptions in full",
+            "AN 3.81 &middot; the three named",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.89/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.90.html">AN 3.90 &middot; Three Trainings (2nd)</a> &mdash; the same three '
+        "definitions with liberation in place of the four truths, and four closing verses this one "
+        "does not have.",
+        '<a href="an-3.58.html">AN 3.58 &middot; With Tikaṇṇa</a> &mdash; for the four absorptions '
+        "written out in full, which is what the second definition abbreviates.",
+        '<a href="an-3.86.html">AN 3.86 &middot; Training (1st)</a> &mdash; for what fulfilling each '
+        "of these three actually produces, stated as four stages of attainment.",
+    ],
+)
+
+
+page(
+    90, "Dutiyasikkhattaya", "Three Trainings (2nd)",
+    vagga=VAGGA_9,
+    meta_title="AN 3.90 — Three Trainings (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Sikkhattayasutta — the same definitions with wisdom as liberation, and verses ending in a "
+        "lamp going out. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 3.89 with the third definition changed, plus five verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Comparable material is preserved in the Chinese Āgamas; the "
+                              "lamp-going-out image for liberation is widespread in both traditions; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the prose is AN 3.89 and the "
+                       "verses are not easy"),
+    ],
+    why=(
+        "The same three definitions, with one change: the higher wisdom is no longer understanding "
+        "the four truths but the realization of freedom itself. Then five verses that do not appear "
+        "in the previous discourse, including one of the strangest and most beautiful sentences in "
+        "the collection &mdash; <em>the liberation of their heart is like a lamp going out.</em>"),
+    guide=[
+        ("The teaching in one sentence", [
+            "The three trainings, with wisdom defined as the freedom it arrives at, and a final image "
+            "for what that freedom is like."]),
+        ("The changed definition", [
+            "Ethics and the higher mind are word for word as in AN 3.89. The higher wisdom becomes: "
+            "<em>a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this "
+            "very life, and lives having realized it with their own insight due to the ending of "
+            "defilements.</em>",
+            "That is the formula for arahantship, used here as the definition of a training. Strictly "
+            "read, it makes the third training something one has rather than something one does, "
+            "which is why the pair with AN 3.89 is necessary: there the training is the understanding "
+            "that leads to it.",
+            "The collection is comfortable with this and a reader should be told why. <em>Paññā</em> "
+            "in the canon is not a body of knowledge but a capacity, and the capacity is defined "
+            "sometimes by its content and sometimes by its effect. Both definitions are given, four "
+            "lines apart, and neither is marked as the correct one."]),
+        ("The verses on direction", [
+            "&ldquo;As before, so behind; as behind, so before. As below, so above; as above, so "
+            "below. As by day, so by night; as by night, so by day.&rdquo;",
+            "This is a standing formula in the canon, used most often of the practice of a mind made "
+            "luminous, and it describes a state without distortion by orientation. Front and back, "
+            "above and below, day and night are the same to it.",
+            "The line that follows makes the claim: <em>having mastered every direction with "
+            "limitless immersion</em>. <em>Appamāṇa samādhi</em> &mdash; the immeasurable immersion, "
+            "the same adjective used of the four immeasurables in AN 3.63.",
+            "It is worth resisting the urge to make this mystical. The formula is about consistency: "
+            "a practice that holds in the dark as in the light, when one is watched as when one is "
+            "not, is the point of it. AN 3.40 made the same claim in prose and without any imagery, "
+            "when it said there is no privacy in the world."]),
+        ("Trainee, pure life, and Buddha", [
+            "&ldquo;They call them a &lsquo;trainee on the path&rsquo;, and &lsquo;one living a pure "
+            "life&rsquo;. But a wise one who has gone to the end of the path they call a "
+            "&lsquo;Buddha&rsquo; in the world.&rdquo;",
+            "Two titles for the one still going and one for the one who has arrived. The word "
+            "<em>buddha</em> here is used generically for anybody awakened, which is its ordinary "
+            "canonical sense before it became a proper name in later usage.",
+            "The verse is also the chapter&rsquo;s answer to AN 3.85, which defined a trainee as "
+            "somebody who trains. Here the same word appears with a destination attached: trainee on "
+            "the path, and then the end of the path."]),
+        ("The lamp", [
+            "&ldquo;With the cessation of consciousness, freed by the ending of craving, the "
+            "liberation of their heart is like a lamp going out.&rdquo;",
+            "Two difficulties here and both should be named. The first is <em>viññāṇassa "
+            "nirodhena</em>, with the cessation of consciousness. Read carelessly this sounds like "
+            "annihilation, and it is worth putting beside AN 3.55, where extinguishment was defined "
+            "as the ending of greed, hate, and delusion experienced, and beside AN 3.76, where "
+            "consciousness is what gets established in a realm. What ceases is the consciousness that "
+            "is planted and grows; the verse is about the ending of the process the seed image "
+            "describes.",
+            "The second is the lamp. <em>Pajjotasseva nibbānaṁ</em> &mdash; the going out of a lamp "
+            "is <em>nibbāna</em>, the same word. The image is the etymology made visible, and it is "
+            "the plainest possible statement of what the term means: something that was burning "
+            "stops.",
+            "A class will ask where the flame went, and the honest answer is that the canon treats "
+            "that as the wrong question &mdash; MN 72 has the Buddha refuse it explicitly when asked "
+            "in exactly those terms about a fire gone out. The verse gives an image and not a "
+            "doctrine, and the image is chosen because a lamp going out is something everybody has "
+            "watched and nobody asks about."]),
+        ("Using it", [
+            "Teach the prose from AN 3.89 and the verses from here. The definitions belong together "
+            "and the verses are the better ending.",
+            "The lamp is the line to leave a class with, and it should be given without "
+            "interpretation. The whole tradition&rsquo;s central term is being explained by pointing "
+            "at an object in the room, and that gesture does more than a definition would."]),
+    ],
+    terms=[
+        ("adhipaññā",
+         "&ldquo;the higher wisdom&rdquo; &mdash; defined here as the realization of freedom itself, "
+         "where AN 3.89 defines it as understanding the four truths."),
+        ("appamāṇa samādhi",
+         "&ldquo;limitless immersion&rdquo; &mdash; the same adjective used of the four immeasurables "
+         "at AN 3.63."),
+        ("sekha pāṭipada",
+         "&ldquo;trainee on the path&rdquo; &mdash; one of two titles in the verse for somebody still "
+         "going."),
+        ("viññāṇassa nirodhena",
+         "&ldquo;with the cessation of consciousness&rdquo; &mdash; read against AN 3.76, where "
+         "consciousness is the seed that gets established in a realm."),
+        ("pajjotasseva nibbānaṁ",
+         "&ldquo;like a lamp going out&rdquo; &mdash; the same word as extinguishment, making the "
+         "etymology visible: something that was burning stops."),
+    ],
+    text_intro=(
+        "The discourse in full, with its closing verses. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three trainings"),
+        ("p", "&sect;1", "an3.90:1.1-1.3"),
+        ("p", "&sect;2", "an3.90:2.1-2.3"),
+        ("p", "&sect;3", "an3.90:3.1-3.3"),
+        ("p", "&sect;4", "an3.90:4.1-4.4"),
+        ("h3", "In verse"),
+        ("p", "&sect;5&ndash;6", "an3.90:5.1-6.4"),
+        ("p", "&sect;7&ndash;8", "an3.90:7.1-8.4"),
+        ("p", "&sect;9", "an3.90:9.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What changes between AN 3.89 and this discourse?",
+         "opts": [
+             "The definition of ethics",
+             "The definition of the higher mind",
+             "The definition of the higher wisdom &mdash; here it is the realization of freedom itself",
+             "Nothing in the prose"],
+         "correct": 2,
+         "expl": "The formula for arahantship, used as the definition of a training."},
+        {"q": "What difficulty does that create, and how does the guide answer it?",
+         "opts": [
+             "It makes the third training something one has rather than does &mdash; which is why the pair with AN 3.89 is necessary",
+             "It contradicts the code",
+             "It excludes laypeople",
+             "It creates no difficulty"],
+         "correct": 0,
+         "expl": "<em>Paññā</em> is a capacity, defined sometimes by its content and sometimes by its effect."},
+        {"q": "What does the direction formula describe?",
+         "opts": [
+             "Travel",
+             "A state without distortion by orientation &mdash; front and back, above and below, day and night the same to it",
+             "The cosmos",
+             "The four postures"],
+         "correct": 1,
+         "expl": "A standing formula, used most often of a mind made luminous."},
+        {"q": "How does the guide keep it from becoming mystical?",
+         "opts": [
+             "By omitting it",
+             "By saying the formula is about consistency &mdash; a practice that holds in the dark as in the light, when one is watched as when one is not",
+             "By translating it differently",
+             "By treating it as a later addition"],
+         "correct": 1,
+         "expl": "AN 3.40 made the same claim in prose, saying there is no privacy in the world."},
+        {"q": "What are the two titles given to somebody still going?",
+         "opts": [
+             "Trainee on the path, and one living a pure life",
+             "Stream-enterer and once-returner",
+             "Mendicant and ascetic",
+             "Disciple and student"],
+         "correct": 0,
+         "expl": "And one title for the one who has arrived."},
+        {"q": "How is the word <em>buddha</em> used in the verse?",
+         "opts": [
+             "As a proper name",
+             "Generically, for anybody awakened &mdash; its ordinary canonical sense",
+             "For the Buddha only",
+             "For a teacher"],
+         "correct": 1,
+         "expl": "Before it became a proper name in later usage."},
+        {"q": "How does the guide read &ldquo;with the cessation of consciousness&rdquo;?",
+         "opts": [
+             "As annihilation",
+             "Against AN 3.76, where consciousness is the seed established in a realm &mdash; what ceases is the process the seed image describes",
+             "As a mistranslation",
+             "As referring to sleep"],
+         "correct": 1,
+         "expl": "And against AN 3.55, where extinguishment is the ending of the three roots experienced."},
+        {"q": "What does the lamp image make visible?",
+         "opts": [
+             "The etymology &mdash; the going out of a lamp is <em>nibbāna</em>, the same word",
+             "The impermanence of light",
+             "The need for effort",
+             "The darkness of ignorance"],
+         "correct": 0,
+         "expl": "The plainest possible statement of what the term means: something that was burning stops."},
+        {"q": "What does the guide say about &ldquo;where the flame went&rdquo;?",
+         "opts": [
+             "That the canon answers it",
+             "That the canon treats it as the wrong question &mdash; MN 72 has the Buddha refuse it explicitly when asked in exactly those terms",
+             "That later schools answered it",
+             "That the verse answers it"],
+         "correct": 1,
+         "expl": "The verse gives an image and not a doctrine."},
+        {"q": "Why does the guide say the image was chosen?",
+         "opts": [
+             "Because lamps were common",
+             "Because a lamp going out is something everybody has watched and nobody asks about",
+             "Because fire is a Vedic symbol",
+             "Because it rhymes"],
+         "correct": 1,
+         "expl": "The central term is explained by pointing at an object in the room."},
+    ],
+    marginalia=[
+        ("One change", [
+            "AN 3.89 &middot; wisdom as the four truths",
+            "AN 3.90 &middot; wisdom as freedom realized",
+        ]),
+        ("The directions", [
+            "before / behind",
+            "below / above",
+            "day / night",
+            "&mdash; consistency, not mystery",
+        ]),
+        ("The last line", [
+            "&ldquo;the liberation of their heart",
+            "is like a lamp going out&rdquo;",
+            "<span class=\"pali\">pajjotasseva nibbānaṁ</span>",
+        ]),
+        ("Cross-references", [
+            "AN 3.89 &middot; the other definition",
+            "AN 3.55 &middot; extinguishment defined",
+            "AN 3.40 &middot; no privacy in the world",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.90/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.89.html">AN 3.89 &middot; Three Trainings (1st)</a> &mdash; the same three '
+        "definitions with the four noble truths in the third position, and no verses.",
+        '<a href="../majjhima-nikaya/mn-072.html">MN 72 &middot; With Vacchagotta on Fire</a> '
+        "&mdash; where the fire-gone-out image is put to the Buddha as a question about a perfected "
+        "one after death, and he explains at length why the question does not apply. The necessary "
+        "companion to this discourse&rsquo;s last line.",
+        '<a href="an-3.55.html">AN 3.55 &middot; Quenched</a> &mdash; for the flat definition of '
+        "extinguishment that this verse gives an image for.",
+    ],
+)
