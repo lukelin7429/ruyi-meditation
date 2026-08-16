@@ -9,7 +9,7 @@ INDEX_HEADING = "Catukka Nipāta — The Fours"
 # INDEX_EXTRA and are not generated here. HEAD points at the last page the
 # Threes module has reached and moves as that module advances.
 HEAD = ("an-3.100.html", "AN 3.100 &middot; A Lump of Salt")
-TAIL = ("an-4.55.html", "AN 4.55 &middot; Equality")
+TAIL = ("an-4.62.html", "AN 4.62 &middot; Debtlessness")
 INDEX_EXTRA = [
     ("an-4.13", "Padhāna", "Effort"),
     ("an-4.55", "Samajīvina", "Equality"),
@@ -11546,5 +11546,2126 @@ page(
         "best-known discourse, and the one it is named for.",
         '<a href="an-4.55.html">AN 4.55 &middot; Equality</a> &mdash; the next published page in the '
         "Fours.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Puññābhisandavagga — the sixth chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_6 = "<em>Puññābhisandavagga</em> &mdash; the sixth chapter of the Fours"
+SETTING_6 = ("None stated; the Puññābhisandavagga gives no location for this discourse, and it is "
+             "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.51 — Paṭhamapuññābhisandasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, "Paṭhamapuññābhisanda", "Overflowing Merit",
+    vagga=VAGGA_6,
+    meta_title="AN 4.51 — Overflowing Merit | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamapuññābhisandasutta — a donor's merit is limitless when the recipient enters a "
+        "limitless immersion, with the simile of the rivers reaching the sea. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī &mdash; the location given in a single word, without the usual full "
+                    "formula"),
+        ("Speakers", SPEAKER),
+        ("Form", "Four overflowings, an ocean simile, and two verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The <em>puññābhisanda</em> set and the ocean simile appear across the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a claim about giving whose "
+                       "mechanism is easy to miss"),
+    ],
+    why=(
+        "Four streams of merit, one for each of the four requisites &mdash; and the condition on "
+        "all four is the same: the merit is limitless when the mendicant, <em>while using</em> the "
+        "gift, enters a limitless immersion of heart. The donor&rsquo;s return is not fixed by the "
+        "gift. It is fixed by what the recipient does with it, which makes this a discourse about a "
+        "relationship rather than a transaction."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What a gift is worth to the giver depends on what the receiver does while using it."]),
+        ("<em>Abhisanda</em>: the word for a flow", [
+            "<em>Puññābhisanda</em> is a stream, flow, or overflowing of merit. The image is fluid "
+            "from the start, and the discourse spends its second half developing it: the ocean, its "
+            "incalculable water, and the rivers that reach it.",
+            "That choice of image is not decorative. A stream is continuous, arrives from elsewhere, "
+            "and accumulates. Merit on this account is not a set of discrete credits but something "
+            "that keeps arriving, which is why the discourse can move from four occasions of giving "
+            "to an immeasurable mass without any step of multiplication."]),
+        ("The condition", [
+            "Each of the four is stated the same way: when a mendicant enters and remains in a "
+            "<em>limitless immersion of heart</em> (<em>appamāṇa cetosamādhi</em>) while using a "
+            "robe, or eating almsfood, or using lodgings, or using medicines, the overflowing of "
+            "merit for the donor is limitless.",
+            "The mechanism is worth stating plainly because it is easy to read past. Nothing is said "
+            "about the size of the gift, the wealth of the donor, or the intention behind it. The "
+            "variable is the recipient&rsquo;s state, and specifically a state entered <em>while the "
+            "gift is in use</em>.",
+            "<em>Appamāṇa</em>, limitless or immeasurable, is the technical term used of the four "
+            "immeasurables &mdash; loving-kindness, compassion, rejoicing, equanimity &mdash; "
+            "radiated without boundary in all directions. The commentarial tradition reads the phrase "
+            "that way here, and the reading fits: a limitless state produces a limitless result "
+            "because the result takes its measure from the state.",
+            "That is the logic of the whole discourse. The donor&rsquo;s merit is unbounded not "
+            "because giving is inherently unbounded but because it has been attached to something "
+            "that has no boundary."]),
+        ("What follows for the giver", [
+            "Two things, and they pull in opposite directions.",
+            "The first is encouraging. An ordinary gift &mdash; a meal, a robe &mdash; can carry a "
+            "result out of all proportion to its size, so poverty is no barrier to the practice. The "
+            "collection says this repeatedly and this discourse gives the reason.",
+            "The second is sobering, and it is the part usually left out. If the return depends on "
+            "the recipient, then the donor does not control the outcome and cannot manufacture it by "
+            "giving more. What the donor controls is who they give to, which is why the collection "
+            "attends so closely to the worthiness of the recipient &mdash; the field of merit of "
+            "AN 4.34.",
+            "It is worth saying that this can be read uncharitably, as a system for directing lay "
+            "wealth to monastics. The honest response is that the criterion cuts both ways: it makes "
+            "the value of what the Saṅgha receives depend entirely on how its members actually "
+            "practise, which is a demanding condition to have written into the economics of one&rsquo;s "
+            "own support."]),
+        ("The ocean", [
+            "<em>It&rsquo;s not easy to say how many gallons, how many hundreds, thousands, hundreds "
+            "of thousands of gallons there are.</em> The point of the simile is not that the ocean is "
+            "large but that it is not countable in the units one would naturally reach for.",
+            "That is a precise thing to say about merit, and more careful than &lsquo;very much&rsquo;. "
+            "The claim is that the quantity is of the wrong kind for the question, which is also how "
+            "the discourse describes the noble disciple&rsquo;s merit: <em>simply reckoned as an "
+            "incalculable, immeasurable, great mass</em>.",
+            "The verse then supplies the second half of the image. Rivers are many and are used by "
+            "many people, and all of them reach the sea. Streams of merit reach the giver the way "
+            "rivers reach the ocean &mdash; from many separate sources, continuously, and without any "
+            "of them needing to be tracked."]),
+        ("Where it sits in the chapter", [
+            "The Puññābhisandavagga is the Fours&rsquo; lay chapter, and this discourse opens it. "
+            "What follows is a sequence about householders: the four kinds of marriage in AN 4.53 and "
+            "4.54, the equality of Nakula&rsquo;s parents in AN 4.55, Suppavāsā and Anāthapiṇḍika "
+            "giving food, and finally the four things that constitute lay practice in AN 4.60.",
+            "AN 4.52, immediately next, gives a different four &mdash; confidence in the Buddha, the "
+            "teaching, and the Saṅgha, and ethical conduct &mdash; under the same heading of "
+            "overflowing merit. Read together the pair says that merit flows both from what one gives "
+            "and from what one is."]),
+    ],
+    terms=[
+        ("puññābhisanda",
+         "&ldquo;overflowing of merit&rdquo; &mdash; a stream or flow; something continuous that "
+         "keeps arriving rather than a set of discrete credits."),
+        ("appamāṇa cetosamādhi",
+         "&ldquo;limitless immersion of heart&rdquo; &mdash; the technical term of the four "
+         "immeasurables, radiated without boundary; the condition on all four overflowings."),
+        ("cattāro paccayā",
+         "the four requisites &mdash; robes, almsfood, lodgings, and medicines; one stream of merit "
+         "for each."),
+        ("asaṅkheyya appameyya",
+         "&ldquo;incalculable, immeasurable&rdquo; &mdash; the description of both the ocean&rsquo;s "
+         "water and the disciple&rsquo;s merit: of the wrong kind for the question."),
+        ("puññakkhetta",
+         "&ldquo;field of merit&rdquo; &mdash; not used here, but the concept this discourse supplies "
+         "the reason for: the donor controls who they give to, not the size of the return."),
+    ],
+    text_intro=(
+        "The discourse in full: the four overflowings, the ocean simile, and the verses. The "
+        "ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four kinds of overflowing merit"),
+        ("p", "&sect;1", "an4.51:1.1-1.4"),
+        ("p", "&sect;2", "an4.51:2.1-4.2"),
+        ("h3", "Incalculable"),
+        ("p", "&sect;3", "an4.51:5.1"),
+        ("p", "&sect;4", "an4.51:6.1-6.2"),
+        ("h3", "The verses"),
+        ("p", "&sect;5", "an4.51:7.1-7.4"),
+        ("p", "&sect;6", "an4.51:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What condition makes the donor&rsquo;s merit limitless?",
+         "opts": [
+             "The size of the gift",
+             "The mendicant entering a limitless immersion of heart while using the gift",
+             "The donor&rsquo;s intention",
+             "Giving to many recipients"],
+         "correct": 1,
+         "expl": "The variable is the recipient&rsquo;s state, entered while the gift is in use."},
+        {"q": "What does <em>abhisanda</em> mean, and why does the image matter?",
+         "opts": [
+             "&lsquo;Store&rsquo; &mdash; merit accumulates like treasure",
+             "&lsquo;Stream, overflowing&rsquo; &mdash; something continuous that keeps arriving, not a set of discrete credits",
+             "&lsquo;Seed&rsquo; &mdash; merit grows",
+             "&lsquo;Debt&rsquo; &mdash; merit is owed"],
+         "correct": 1,
+         "expl": "Which is why the discourse can move to an immeasurable mass without multiplying."},
+        {"q": "What is <em>appamāṇa cetosamādhi</em>?",
+         "opts": [
+             "The fourth absorption",
+             "A limitless immersion of heart &mdash; the technical term of the four immeasurables, radiated without boundary",
+             "Momentary concentration",
+             "Insight into the aggregates"],
+         "correct": 1,
+         "expl": "A limitless state produces a limitless result because the result takes its measure from the state."},
+        {"q": "What are the four occasions?",
+         "opts": [
+             "Morning, noon, evening, and night",
+             "Using a robe, eating almsfood, using lodgings, and using medicines",
+             "Giving, ethics, meditation, and wisdom",
+             "The four assemblies"],
+         "correct": 1,
+         "expl": "One stream of merit for each of the four requisites."},
+        {"q": "What is the encouraging consequence for a giver?",
+         "opts": [
+             "That giving more produces more",
+             "That an ordinary gift can carry a result out of all proportion to its size, so poverty is no barrier",
+             "That merit is guaranteed",
+             "That the gift returns in this life"],
+         "correct": 1,
+         "expl": "The collection says this repeatedly, and this discourse gives the reason."},
+        {"q": "What is the sobering consequence, usually left out?",
+         "opts": [
+             "That merit runs out",
+             "That the donor does not control the outcome and cannot manufacture it by giving more &mdash; what they control is who they give to",
+             "That giving is optional",
+             "That merit cannot be shared"],
+         "correct": 1,
+         "expl": "Which is why the collection attends so closely to the worthiness of the recipient."},
+        {"q": "How does the guide answer the uncharitable reading of the doctrine?",
+         "opts": [
+             "By denying it",
+             "By noting the criterion cuts both ways &mdash; it makes the value of what the Saṅgha receives depend on how its members actually practise",
+             "By citing the commentary",
+             "By restricting it to monastics"],
+         "correct": 1,
+         "expl": "A demanding condition to have written into the economics of one&rsquo;s own support."},
+        {"q": "What is the point of the ocean simile?",
+         "opts": [
+             "That the ocean is large",
+             "That it is not countable in the units one would naturally reach for &mdash; the quantity is of the wrong kind for the question",
+             "That water is precious",
+             "That the sea is dangerous"],
+         "correct": 1,
+         "expl": "More careful than &lsquo;very much&rsquo;."},
+        {"q": "What does the river verse add?",
+         "opts": [
+             "That merit can be lost",
+             "That streams of merit reach the giver from many separate sources, continuously, without any of them needing to be tracked",
+             "That rivers are impermanent",
+             "That the ocean is the goal"],
+         "correct": 1,
+         "expl": "Rivers are many and are used by many, and all reach the sea."},
+        {"q": "How does AN 4.52 complement this discourse?",
+         "opts": [
+             "It repeats it",
+             "It gives a different four &mdash; confidence in the Buddha, teaching, and Saṅgha, and ethical conduct &mdash; under the same heading, so merit flows from what one is as well as what one gives",
+             "It contradicts it",
+             "It addresses monastics only"],
+         "correct": 1,
+         "expl": "The chapter is the Fours&rsquo; lay chapter, and this pair opens it."},
+    ],
+    marginalia=[
+        ("Four occasions", [
+            "a robe",
+            "almsfood",
+            "lodgings",
+            "medicines",
+        ]),
+        ("The variable", [
+            "not the gift",
+            "not the giver",
+            "&mdash; the recipient&rsquo;s state",
+        ]),
+        ("The ocean", [
+            "not &lsquo;very much&rsquo;",
+            "not countable in gallons",
+            "&mdash; the wrong kind of quantity",
+        ]),
+        ("Cross-references", [
+            "AN 4.52 &middot; next: merit from what one is",
+            "AN 4.34 &middot; the supreme field of merit",
+            "AN 4.60 &middot; what lay practice is",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.51/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.52.html">AN 4.52 &middot; Overflowing Merit (2nd)</a> &mdash; next in this '
+        "series, and the other half of the pair.",
+        '<a href="an-4.34.html">AN 4.34 &middot; The Best Kinds of Confidence</a> &mdash; on the '
+        "Saṅgha as the supreme field of merit.",
+        '<a href="an-4.60.html">AN 4.60 &middot; Lay Practice</a> &mdash; where this chapter ends, '
+        "with the four things a layperson does.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.52 — Dutiyapuññābhisandasutta
+# --------------------------------------------------------------------------- #
+page(
+    52, "Dutiyapuññābhisanda", "Overflowing Merit (2nd)",
+    vagga=VAGGA_6,
+    meta_title="AN 4.52 — Overflowing Merit (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyapuññābhisandasutta — experiential confidence in the Buddha, the teaching, and the "
+        "Saṅgha, and ethical conduct loved by the noble ones. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_6),
+        ("Speakers", SPEAKER),
+        ("Form", "Four items, each with its standard recollection formula, and three verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The four factors of stream-entry are widespread in the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; four familiar formulas whose "
+                       "collective name is worth knowing"),
+    ],
+    why=(
+        "The same heading as AN 4.51 &mdash; overflowing merit &mdash; with a completely different "
+        "four. Not four occasions of giving but four possessions: confidence in the Buddha, in the "
+        "teaching, in the Saṅgha, and ethical conduct that the noble ones love. This set is one of "
+        "the most consequential in the canon, and it is worth reading here in its plainest form."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Merit flows continuously from four things a person <em>has</em>, without any occasion of "
+            "giving being required."]),
+        ("The four factors", [
+            "This set is known throughout the tradition as the four factors of stream-entry &mdash; "
+            "<em>sotāpattiyaṅga</em> &mdash; or the four <em>sotāpannassa aṅgāni</em>, the "
+            "characteristics of a stream-enterer. Elsewhere in the canon they are the standard "
+            "answer to how one knows one has entered the stream.",
+            "That is not said here. This discourse gives them under a different heading, as sources "
+            "of overflowing merit, and a reader meeting them for the first time should meet them that "
+            "way. What is claimed in this discourse is that having these four is itself a continuous "
+            "production of merit.",
+            "The difference from AN 4.51 is the important structural point. There, merit arose on "
+            "occasions and depended on someone else. Here it arises from a standing condition of the "
+            "person and depends on nobody. Together the two discourses cover both ways the collection "
+            "talks about merit."]),
+        ("&lsquo;Experiential confidence&rsquo;", [
+            "<em>Aveccappasāda</em> &mdash; Sujato&rsquo;s &lsquo;experiential confidence&rsquo;. "
+            "<em>Avecca</em> is from a verb meaning to go into, to penetrate, to understand; "
+            "<em>pasāda</em> is clarity, brightness, confidence.",
+            "The compound is regularly translated &lsquo;unshakable&rsquo; or &lsquo;perfect&rsquo; "
+            "faith. Sujato&rsquo;s rendering picks up the other element: this is confidence arrived "
+            "at by having gone into the matter, not confidence held firmly. The two are different "
+            "claims and the Pāli supports the second.",
+            "That reading fits the third item in the Dhamma formula &mdash; <em>inviting "
+            "inspection</em>, <em>ehipassika</em>, come-and-see. A tradition that describes its "
+            "teaching as inviting inspection and its adherents&rsquo; confidence as arrived at by "
+            "penetration is being consistent."]),
+        ("The three recollection formulas", [
+            "Each of the first three items is given with its standard formula, and these are among "
+            "the most-recited passages in Theravāda practice, used daily as objects of recollection.",
+            "The Buddha formula lists nine epithets, from <em>perfected</em> to <em>blessed</em>. The "
+            "Dhamma formula gives six qualities, of which the middle four are the most useful to "
+            "teach: apparent in the present life, immediately effective, inviting inspection, "
+            "relevant &mdash; every one of them a claim about availability now rather than about "
+            "truth. The Saṅgha formula defines the community as the four pairs and eight persons and "
+            "calls it the supreme field of merit, exactly as AN 4.34 did.",
+            "It is worth pointing out to students that these are liturgical texts as much as "
+            "doctrinal ones. They are meant to be said, and their rhythm is part of how they work."]),
+        ("The fourth item is not confidence", [
+            "The fourth breaks the pattern: not confidence in something, but one&rsquo;s own ethical "
+            "conduct &mdash; <em>loved by the noble ones, unbroken, impeccable, spotless, unmarred, "
+            "liberating, praised by sensible people, not mistaken, and leading to immersion</em>.",
+            "The list of nine adjectives is doing work. Four are negative (unbroken, impeccable, "
+            "spotless, unmarred) and describe conduct with no gaps in it. Three concern how it is "
+            "regarded. And two &mdash; <em>liberating</em> and <em>leading to immersion</em> &mdash; "
+            "say what it does.",
+            "That last pair is the reason the item belongs on this list. Ethics here is not a "
+            "prerequisite or a moral achievement but something with a direction: it goes somewhere, "
+            "and where it goes is immersion. The set as a whole therefore has three items of "
+            "orientation and one of practice, and the practice item is the one that moves."]),
+        ("The verses and what they substitute", [
+            "The verses run through the four but replace the fourth with something else: faith in the "
+            "Realized One, good ethical conduct, confidence in the Saṅgha, and <em>correct view</em> "
+            "&mdash; <em>diṭṭhi ca yassa ujukā</em>, whose view is straight.",
+            "So the verse gives faith, ethics, confidence, and right view, and the closing verse "
+            "names four again: <em>faith, ethical behavior, confidence, and insight into the "
+            "teaching</em>.",
+            "This kind of slippage between prose and verse is common in the collection and is worth "
+            "noticing rather than harmonizing. The prose set is fixed and technical; the verses reach "
+            "for a related but looser group. A reader who learns the prose list will recognize the "
+            "verses; a reader who learns only the verses will have a slightly different set."]),
+    ],
+    terms=[
+        ("aveccappasāda",
+         "&ldquo;experiential confidence&rdquo; &mdash; <em>avecca</em> is from a verb meaning to go "
+         "into or penetrate: confidence arrived at, not confidence held firmly."),
+        ("sotāpattiyaṅga",
+         "&ldquo;factor of stream-entry&rdquo; &mdash; the name this set carries elsewhere in the "
+         "canon, though this discourse gives it under a different heading."),
+        ("ehipassika",
+         "&ldquo;inviting inspection&rdquo;, literally come-and-see &mdash; one of the six qualities "
+         "of the teaching, and consistent with the sense of <em>avecca</em>."),
+        ("ariyakanta sīla",
+         "&ldquo;ethical conduct loved by the noble ones&rdquo; &mdash; the fourth item, described by "
+         "nine adjectives of which two say what it does."),
+        ("samādhisaṁvattanika",
+         "&ldquo;leading to immersion&rdquo; &mdash; the last of the nine, and the reason ethics "
+         "belongs on a list otherwise made of orientations."),
+    ],
+    text_intro=(
+        "The discourse in full: the four kinds of overflowing merit and the verses. The ellipses are "
+        "the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Confidence in the Buddha"),
+        ("p", "&sect;1", "an4.52:1.1-1.5"),
+        ("h3", "Confidence in the teaching"),
+        ("p", "&sect;2", "an4.52:2.1-2.3"),
+        ("h3", "Confidence in the Saṅgha"),
+        ("p", "&sect;3", "an4.52:3.1-3.3"),
+        ("h3", "Ethical conduct"),
+        ("p", "&sect;4", "an4.52:4.1-4.3"),
+        ("h3", "The verses"),
+        ("p", "&sect;5", "an4.52:5.1-6.4"),
+        ("p", "&sect;6", "an4.52:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What are the four kinds of overflowing merit here?",
+         "opts": [
+             "Four occasions of giving",
+             "Experiential confidence in the Buddha, the teaching, and the Saṅgha, and ethical conduct loved by the noble ones",
+             "Ethics, immersion, wisdom, and freedom",
+             "Faith, energy, mindfulness, and wisdom"],
+         "correct": 1,
+         "expl": "Four possessions rather than four occasions."},
+        {"q": "What is this set known as elsewhere in the canon?",
+         "opts": [
+             "The four right efforts",
+             "The four factors of stream-entry",
+             "The four immeasurables",
+             "The four bases of psychic power"],
+         "correct": 1,
+         "expl": "Though this discourse gives them under a different heading."},
+        {"q": "How does this discourse differ structurally from AN 4.51?",
+         "opts": [
+             "It is longer",
+             "There merit arose on occasions and depended on someone else; here it arises from a standing condition and depends on nobody",
+             "It addresses monastics",
+             "It uses no simile"],
+         "correct": 1,
+         "expl": "Together the two cover both ways the collection talks about merit."},
+        {"q": "What does <em>avecca</em> contribute to <em>aveccappasāda</em>?",
+         "opts": [
+             "Firmness",
+             "The sense of having gone into or penetrated the matter &mdash; confidence arrived at, not confidence held firmly",
+             "Duration",
+             "Purity"],
+         "correct": 1,
+         "expl": "Two different claims, and the Pāli supports the second."},
+        {"q": "Which quality of the teaching does that reading fit?",
+         "opts": [
+             "Well explained",
+             "<em>Ehipassika</em>, inviting inspection &mdash; come and see",
+             "Immediately effective",
+             "Relevant"],
+         "correct": 1,
+         "expl": "A tradition describing its teaching as inviting inspection is being consistent."},
+        {"q": "What do the middle four qualities of the Dhamma formula have in common?",
+         "opts": [
+             "They concern the Buddha",
+             "Every one is a claim about availability now rather than about truth",
+             "They concern the Saṅgha",
+             "They are negative"],
+         "correct": 1,
+         "expl": "Apparent in the present life, immediately effective, inviting inspection, relevant."},
+        {"q": "How does the fourth item break the pattern?",
+         "opts": [
+             "It is shorter",
+             "It is not confidence in something but one&rsquo;s own ethical conduct",
+             "It concerns others",
+             "It is in verse"],
+         "correct": 1,
+         "expl": "Described by nine adjectives."},
+        {"q": "Which two of those nine explain why ethics belongs on the list?",
+         "opts": [
+             "Unbroken and spotless",
+             "Liberating, and leading to immersion &mdash; the two that say what it does",
+             "Praised and loved",
+             "Impeccable and unmarred"],
+         "correct": 1,
+         "expl": "Ethics here is not a prerequisite but something with a direction."},
+        {"q": "What does the verse substitute for the fourth item?",
+         "opts": [
+             "Generosity",
+             "Correct view &mdash; and the closing verse names insight into the teaching",
+             "Energy",
+             "Learning"],
+         "correct": 1,
+         "expl": "The verses reach for a related but looser group."},
+        {"q": "How does the guide recommend handling that slippage?",
+         "opts": [
+             "Harmonize the two lists",
+             "Notice it rather than harmonize it &mdash; the prose set is fixed and technical, the verses are not",
+             "Prefer the verses",
+             "Treat the verses as spurious"],
+         "correct": 1,
+         "expl": "A reader who learns only the verses will have a slightly different set."},
+    ],
+    marginalia=[
+        ("The four", [
+            "confidence in the Buddha",
+            "confidence in the teaching",
+            "confidence in the Saṅgha",
+            "ethical conduct",
+        ]),
+        ("The word", [
+            "<span class=\"pali\">avecca</span>having gone into",
+            "<span class=\"pali\">pasāda</span>clarity",
+            "&mdash; arrived at, not held",
+        ]),
+        ("Nine adjectives", [
+            "four say: no gaps",
+            "three say: well regarded",
+            "two say: it goes somewhere",
+        ]),
+        ("Cross-references", [
+            "AN 4.51 &middot; merit from occasions",
+            "AN 4.34 &middot; the same Saṅgha formula",
+            "AN 4.53 &middot; next: four marriages",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.52/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.53.html">AN 4.53 &middot; Living Together (1st)</a> &mdash; next in this '
+        "series.",
+        '<a href="an-4.51.html">AN 4.51 &middot; Overflowing Merit</a> &mdash; the other half of the '
+        "pair, on merit that arises from occasions.",
+        '<a href="an-4.34.html">AN 4.34 &middot; The Best Kinds of Confidence</a> &mdash; where the '
+        "same Saṅgha formula appears.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.53 — Paṭhamasaṁvāsasutta
+# --------------------------------------------------------------------------- #
+page(
+    53, "Paṭhamasaṁvāsa", "Living Together (1st)",
+    vagga=VAGGA_6,
+    meta_title="AN 4.53 — Living Together (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamasaṁvāsasutta — four "
+        "kinds of marriage, sorted by the ethics of each partner: zombie with zombie, zombie with "
+        "goddess, god with zombie, god with goddess. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "On the road between Madhurā and Verañjā, at the root of a tree, with "
+                    "householders both women and men travelling the same way"),
+        ("Speakers", "The Buddha, addressing householders"),
+        ("Form", "A two-by-two grid of marriages, each defined by conduct, with six verses"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The four <em>saṁvāsa</em> appear in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; plain in structure, with one "
+                       "translation choice that needs explaining"),
+    ],
+    why=(
+        "Four kinds of marriage, named by what each partner is: a corpse living with a corpse, a "
+        "corpse with a goddess, a god with a corpse, a god with a goddess. The grid is symmetrical "
+        "and the criterion is entirely ethical &mdash; the five precepts, stinginess, and how one "
+        "treats ascetics and brahmins. It is one of the few discourses addressed to a mixed lay "
+        "audience by the roadside, and the symmetry of its treatment of husband and wife is worth "
+        "noticing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A marriage is characterized by the ethical condition of each partner independently, and "
+            "there are four possible combinations."]),
+        ("&lsquo;Zombie&rsquo; and what it translates", [
+            "The Pāli is <em>chava</em>, a corpse or carcass, used as a term of abuse &mdash; roughly "
+            "&lsquo;wretch&rsquo; with the force of &lsquo;dead thing&rsquo;. Sujato&rsquo;s "
+            "&lsquo;zombie&rsquo; is a deliberate and unusual choice; other translators have used "
+            "&lsquo;wretch&rsquo;, &lsquo;corpse&rsquo;, or &lsquo;wretched man&rsquo;.",
+            "The rendering is defensible and worth understanding rather than either adopting or "
+            "dismissing. What <em>chava</em> conveys is a living person described as a dead one, "
+            "which is exactly the modern sense of the word Sujato chose; &lsquo;corpse&rsquo; loses "
+            "the fact that the person is walking around, and &lsquo;wretch&rsquo; loses the death.",
+            "It is fair to say the English carries connotations from film that the Pāli does not, and "
+            "a teacher may reasonably prefer to give both the Pāli and a plainer gloss. What should "
+            "not be lost is the harshness. The discourse is not being gentle: it calls an unethical "
+            "husband or wife a dead thing."]),
+        ("The criterion", [
+            "For each partner the description is the same and it has three parts: the five precepts "
+            "(killing, stealing, sexual misconduct, lying, intoxicants); <em>living at home with the "
+            "heart full of the stain of stinginess</em>; and <em>abusing and insulting ascetics and "
+            "brahmins</em>.",
+            "So: personal conduct, disposition toward one&rsquo;s own household, and behavior toward "
+            "the religious. It is a lay standard, appropriate to the audience, and it is the same for "
+            "both partners without a single word of difference.",
+            "That symmetry is the discourse&rsquo;s quietest and strongest feature. Nothing in it "
+            "assigns a different standard to husband and wife, and the four cells of the grid are "
+            "given equal treatment: a good wife with a bad husband and a good husband with a bad wife "
+            "each get their own cell, their own definition, and their own verse. For a text of its "
+            "period this is worth pointing out."]),
+        ("The verses and where the imbalance appears", [
+            "The verses run the same four cases and here a small asymmetry does show. When the "
+            "husband is unethical and the wife is not, <em>she&rsquo;s a goddess living with a zombie "
+            "for a husband</em>. When the husband is ethical and the wife is not, <em>she&rsquo;s a "
+            "zombie living with a god for a husband</em>.",
+            "Both verses are told from the wife&rsquo;s position &mdash; she is the subject in each "
+            "&mdash; whereas the prose named the husband first throughout. That is a difference of "
+            "framing rather than of standard, and it is the kind of detail worth noticing without "
+            "building much on it.",
+            "The fourth verse is the one usually quoted: when both are faithful and bountiful, "
+            "disciplined, living righteously, <em>then wife and husband say nice things to each "
+            "other</em>. The Pāli is <em>piyaṁvadā</em>, speaking pleasantly &mdash; and it is "
+            "notable that what the discourse names as the result of shared ethics is neither "
+            "prosperity nor rebirth but how the two of them talk."]),
+        ("The rest of the good outcome", [
+            "The following verses do add the material results: needs amply satisfied, living at ease, "
+            "enemies downhearted, and finally delight in the heavenly realm.",
+            "<em>Their enemies are downhearted</em> is an unusual line and worth pausing on. The "
+            "assumption is that a household has adversaries and that a well-ordered one disappoints "
+            "them. This is a discourse for people with property, obligations, and rivals, and it does "
+            "not pretend otherwise."]),
+        ("The setting", [
+            "The Buddha is travelling between Madhurā and Verañjā, leaves the road, and sits under a "
+            "tree; householders travelling the same way see him and come over. The teaching is given "
+            "on the roadside to whoever happened to be walking.",
+            "That is worth registering because it explains the pitch. There is no request, no "
+            "question, and no prior relationship. The discourse is what the Buddha says to a group of "
+            "married lay people he has just met, and its content &mdash; a simple grid, a memorable "
+            "and slightly rude image, verses that can be carried away &mdash; is shaped for exactly "
+            "that.",
+            "AN 4.54, immediately next, gives the same grid to mendicants with the ten courses of "
+            "action in place of the five precepts. The pair shows the collection adapting one "
+            "teaching to two audiences."]),
+    ],
+    terms=[
+        ("chava",
+         "&ldquo;zombie&rdquo; &mdash; literally a corpse, used as abuse. A living person described "
+         "as a dead one; other translators use &lsquo;wretch&rsquo; or &lsquo;corpse&rsquo;."),
+        ("devī",
+         "&ldquo;goddess&rdquo; &mdash; the opposite term, with <em>deva</em> for the husband; the "
+         "grid is built on this single pair."),
+        ("saṁvāsa",
+         "&ldquo;living together&rdquo; &mdash; the word for cohabitation and for marriage, and the "
+         "title of both this discourse and the next."),
+        ("maccheramala",
+         "&ldquo;the stain of stinginess&rdquo; &mdash; the disposition named alongside the precepts, "
+         "and the one that concerns the household itself."),
+        ("piyaṁvadā",
+         "&ldquo;saying nice things to each other&rdquo; &mdash; speaking pleasantly; what the "
+         "discourse names as the first result of shared ethics."),
+    ],
+    text_intro=(
+        "The discourse in full: the roadside setting, the four kinds of living together, and the "
+        "verses. The ellipses are the Pāli&rsquo;s own abbreviation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "On the road"),
+        ("p", "&sect;1", "an4.53:1.1-1.5"),
+        ("h3", "Four ways of living together"),
+        ("p", "&sect;2", "an4.53:2.1-2.6"),
+        ("p", "&sect;3", "an4.53:3.1-3.4"),
+        ("p", "&sect;4", "an4.53:4.1-4.4"),
+        ("p", "&sect;5", "an4.53:5.1-5.4"),
+        ("p", "&sect;6", "an4.53:6.1-6.5"),
+        ("h3", "The verses"),
+        ("p", "&sect;7", "an4.53:7.1-9.6"),
+        ("p", "&sect;8", "an4.53:10.1-12.4"),
+    ],
+    quiz=[
+        {"q": "What are the four ways of living together?",
+         "opts": [
+             "By age, wealth, caste, and region",
+             "Zombie with zombie, zombie with goddess, god with zombie, and god with goddess",
+             "By arrangement, love, duty, and convenience",
+             "The four assemblies"],
+         "correct": 1,
+         "expl": "A two-by-two grid built on a single pair of terms."},
+        {"q": "What does <em>chava</em> literally mean?",
+         "opts": [
+             "Fool",
+             "A corpse or carcass, used as a term of abuse",
+             "Slave",
+             "Outcaste"],
+         "correct": 1,
+         "expl": "A living person described as a dead one."},
+        {"q": "How does the guide assess Sujato&rsquo;s &lsquo;zombie&rsquo;?",
+         "opts": [
+             "As a mistranslation",
+             "As defensible &mdash; &lsquo;corpse&rsquo; loses that the person is walking around and &lsquo;wretch&rsquo; loses the death &mdash; while noting the English carries film connotations the Pāli does not",
+             "As too gentle",
+             "As the only possible rendering"],
+         "correct": 1,
+         "expl": "What should not be lost is the harshness."},
+        {"q": "What three parts make up the criterion for each partner?",
+         "opts": [
+             "Faith, generosity, and wisdom",
+             "The five precepts, freedom from the stain of stinginess, and how one treats ascetics and brahmins",
+             "Birth, conduct, and learning",
+             "Wealth, health, and reputation"],
+         "correct": 1,
+         "expl": "Personal conduct, disposition toward one&rsquo;s household, and behavior toward the religious."},
+        {"q": "What does the guide call the discourse&rsquo;s quietest and strongest feature?",
+         "opts": [
+             "The verses",
+             "The symmetry &mdash; the same standard for both partners, with all four cells given equal treatment",
+             "The roadside setting",
+             "The heavenly result"],
+         "correct": 1,
+         "expl": "For a text of its period this is worth pointing out."},
+        {"q": "What small asymmetry appears in the verses?",
+         "opts": [
+             "The wife is judged more harshly",
+             "Both middle verses are told from the wife&rsquo;s position, whereas the prose named the husband first",
+             "Only the husband is named",
+             "The wife has no verse"],
+         "correct": 1,
+         "expl": "A difference of framing rather than of standard."},
+        {"q": "What is named as the first result of shared ethics?",
+         "opts": [
+             "Wealth",
+             "That wife and husband say nice things to each other",
+             "Rebirth in heaven",
+             "Long life"],
+         "correct": 1,
+         "expl": "<em>Piyaṁvadā</em> &mdash; neither prosperity nor rebirth but how the two of them talk."},
+        {"q": "What is unusual about &lsquo;their enemies are downhearted&rsquo;?",
+         "opts": [
+             "Nothing",
+             "It assumes a household has adversaries and that a well-ordered one disappoints them",
+             "It contradicts the precepts",
+             "It refers to Māra"],
+         "correct": 1,
+         "expl": "A discourse for people with property, obligations, and rivals."},
+        {"q": "How did the teaching come to be given?",
+         "opts": [
+             "By invitation to a house",
+             "On the roadside &mdash; householders travelling the same way saw the Buddha under a tree and came over",
+             "At a festival",
+             "In answer to a question"],
+         "correct": 1,
+         "expl": "No request, no question, and no prior relationship."},
+        {"q": "How does AN 4.54 differ from this discourse?",
+         "opts": [
+             "It reverses the grid",
+             "It gives the same grid to mendicants with the ten courses of action in place of the five precepts",
+             "It omits the verses only",
+             "It addresses only wives"],
+         "correct": 1,
+         "expl": "The pair shows one teaching adapted to two audiences."},
+    ],
+    marginalia=[
+        ("The grid", [
+            "zombie &amp; zombie",
+            "zombie &amp; goddess",
+            "god &amp; zombie",
+            "god &amp; goddess",
+        ]),
+        ("The criterion", [
+            "the five precepts",
+            "the stain of stinginess",
+            "ascetics and brahmins",
+        ]),
+        ("The first result", [
+            "not wealth",
+            "not heaven",
+            "&mdash; they speak pleasantly",
+        ]),
+        ("Cross-references", [
+            "AN 4.54 &middot; next: the same, to mendicants",
+            "AN 4.55 &middot; Nakula&rsquo;s parents",
+            "AN 4.51 &middot; where the lay chapter opened",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.53/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.54.html">AN 4.54 &middot; Living Together (2nd)</a> &mdash; next in this '
+        "series, the same grid with the ten courses of action.",
+        '<a href="an-4.55.html">AN 4.55 &middot; Equality</a> &mdash; the couple who wanted to see '
+        "each other in the next life, and the four things they were told to match.",
+        '<a href="an-4.60.html">AN 4.60 &middot; Lay Practice</a> &mdash; where this chapter ends.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.54 — Dutiyasaṁvāsasutta
+# --------------------------------------------------------------------------- #
+page(
+    54, "Dutiyasaṁvāsa", "Living Together (2nd)",
+    vagga=VAGGA_6,
+    next=("an-4.55.html", "AN 4.55 &middot; Equality"),
+    meta_title="AN 4.54 — Living Together (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyasaṁvāsasutta — the "
+        "same four kinds of marriage given to mendicants, with the ten courses of action in place of "
+        "the five precepts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_6),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.53&rsquo;s grid restated to a monastic audience with a fuller ethical "
+                 "standard; the verses are abbreviated away"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "As with AN 4.53; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a variant whose one change is the "
+                       "whole of its content"),
+    ],
+    why=(
+        "The same four marriages, the same terms, the same structure &mdash; and one substitution. "
+        "Where AN 4.53 defined a partner by the five precepts, this defines them by the ten courses "
+        "of action. The audience has also changed: the roadside householders are gone and the "
+        "discourse is addressed to mendicants. The pair is a small, clear demonstration of how the "
+        "collection adapts a teaching to who is listening."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The four kinds of marriage again, assessed by the full tenfold standard of action rather "
+            "than the lay five."]),
+        ("The ten courses of action", [
+            "<em>Kammapatha</em>, courses of action: three bodily (killing, stealing, sexual "
+            "misconduct), four verbal (false, backbiting, harsh, and nonsensical speech), and three "
+            "mental (covetousness, malice, wrong view).",
+            "Set against AN 4.53&rsquo;s five precepts the differences are exact. The tenfold list "
+            "drops intoxicants, expands lying into four kinds of wrong speech, and adds three mental "
+            "items that the lay list has no equivalent for.",
+            "That third change is the substantial one. AN 4.53 assessed a spouse by what they did; "
+            "this assesses them by what they do <em>and</em> by whether they are covetous, malicious, "
+            "and of wrong view. The standard has moved inward.",
+            "The dropping of intoxicants is also worth a note. It is not that drink has become "
+            "permissible; the tenfold list is simply a different and older scheme, organized by body, "
+            "speech, and mind rather than by the training rules a lay follower undertakes."]),
+        ("Why give a discourse about marriage to mendicants", [
+            "The obvious question, and there are two reasonable answers.",
+            "The practical one is that mendicants advise lay people constantly, and a monk who is "
+            "going to be asked about a household needs the teaching in a form he can use. The "
+            "Aṅguttara contains a good deal of lay-facing material addressed to monastics for exactly "
+            "this reason.",
+            "The other is that the grid is not really about marriage. It is about what happens when "
+            "two people of unlike ethical condition share a life, and monastic communities are also "
+            "shared lives. Nothing in the tenfold assessment requires the two people to be married, "
+            "and a reader in any close and ongoing arrangement will recognize the four cells."]),
+        ("What is abbreviated", [
+            "The verses are gone. The Pāli ends the prose with <em>&hellip;</em> and leaves the six "
+            "verses of AN 4.53 to be supplied by the reciter, which is why this discourse is shorter "
+            "than its predecessor despite having a longer ethical list.",
+            "This is the same convention as AN 4.40 and AN 4.46, and by this point in the chapter a "
+            "reader should recognize it on sight: where two adjacent discourses share material, the "
+            "second one keeps only what is new."]),
+        ("Reading the pair", [
+            "AN 4.53 and 4.54 are best read in immediate succession, and the useful exercise is to "
+            "hold the two standards side by side and ask which one is being applied when people "
+            "assess a relationship in practice.",
+            "The lay version is externally checkable: one can see whether someone kills, steals, "
+            "lies, or drinks. The monastic version includes covetousness, malice, and wrong view, "
+            "none of which is visible from outside and all of which the person themselves may not "
+            "have looked at.",
+            "That difference is not incidental to who each version is addressed to. A standard for "
+            "assessing a household is necessarily one that can be applied by the people in it. A "
+            "standard given to mendicants can afford to include what only self-examination reaches."]),
+        ("The grid&rsquo;s durability", [
+            "For all the harshness of its vocabulary, the four-cell structure is a genuinely useful "
+            "instrument and it has outlived its setting. It refuses two comfortable simplifications: "
+            "that a relationship has one moral character shared by both parties, and that the "
+            "well-behaved partner in a bad match is thereby responsible for it.",
+            "The two mixed cells are the point. The discourse says plainly that a good person can be "
+            "living with a bad one, names the situation, and does not tell the good one that they "
+            "must have failed somewhere. In a body of literature much concerned with how conduct "
+            "produces consequences, that restraint is worth noticing."]),
+    ],
+    terms=[
+        ("kammapatha",
+         "&ldquo;course of action&rdquo; &mdash; the tenfold scheme of three bodily, four verbal, and "
+         "three mental acts, organized by body, speech, and mind."),
+        ("abhijjhālu",
+         "&ldquo;covetous&rdquo; &mdash; one of the three mental items the tenfold list adds, and one "
+         "of the reasons the standard here has moved inward."),
+        ("byāpannacitta",
+         "&ldquo;malicious&rdquo;, of ill-willed heart &mdash; the second mental item, invisible from "
+         "outside."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the third; its inclusion makes the assessment one only "
+         "self-examination fully reaches."),
+        ("saṁvāsa",
+         "&ldquo;living together&rdquo; &mdash; the shared title of both discourses; nothing in the "
+         "grid requires the two people to be married."),
+    ],
+    text_intro=(
+        "The discourse in full: the four kinds of living together with the tenfold standard. The "
+        "verses of AN 4.53 are abbreviated away in the Pāli. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four ways of living together"),
+        ("p", "&sect;1", "an4.54:1.1-1.6"),
+        ("h3", "Zombie with zombie"),
+        ("p", "&sect;2", "an4.54:2.1-2.4"),
+        ("h3", "Zombie with goddess"),
+        ("p", "&sect;3", "an4.54:3.1-3.4"),
+        ("h3", "God with zombie"),
+        ("p", "&sect;4", "an4.54:4.1-4.4"),
+        ("h3", "God with goddess"),
+        ("p", "&sect;5", "an4.54:5.1-5.5"),
+    ],
+    quiz=[
+        {"q": "What is the one substantive change from AN 4.53?",
+         "opts": [
+             "The four cells are renamed",
+             "The five precepts are replaced by the ten courses of action",
+             "The verses are longer",
+             "Only wives are assessed"],
+         "correct": 1,
+         "expl": "And the audience has changed from householders to mendicants."},
+        {"q": "How are the ten courses of action organized?",
+         "opts": [
+             "By severity",
+             "Three bodily, four verbal, and three mental",
+             "By frequency",
+             "By who is harmed"],
+         "correct": 1,
+         "expl": "Organized by body, speech, and mind."},
+        {"q": "What exactly differs between the five and the ten?",
+         "opts": [
+             "Nothing substantial",
+             "The tenfold list drops intoxicants, expands lying into four kinds of wrong speech, and adds three mental items",
+             "The ten omit killing",
+             "The five include wrong view"],
+         "correct": 1,
+         "expl": "The third change is the substantial one."},
+        {"q": "What does that third change accomplish?",
+         "opts": [
+             "It shortens the assessment",
+             "It moves the standard inward &mdash; a spouse is now assessed by whether they are covetous, malicious, and of wrong view as well as by what they do",
+             "It makes the list monastic",
+             "It removes the precepts"],
+         "correct": 1,
+         "expl": "AN 4.53 assessed a spouse by what they did."},
+        {"q": "Why is intoxicants dropped?",
+         "opts": [
+             "Because drink became permissible",
+             "Because the tenfold list is a different and older scheme, organized by body, speech, and mind rather than by lay training rules",
+             "Because monastics do not drink",
+             "Because it is covered by wrong view"],
+         "correct": 1,
+         "expl": "Not a change in the ethical position."},
+        {"q": "What is the practical reason for giving a marriage discourse to mendicants?",
+         "opts": [
+             "They are considering marriage",
+             "They advise lay people constantly and need the teaching in a usable form",
+             "The verses require it",
+             "It is a mistake in transmission"],
+         "correct": 1,
+         "expl": "The Aṅguttara contains a good deal of lay-facing material addressed to monastics."},
+        {"q": "What is the second reason the guide gives?",
+         "opts": [
+             "That marriage is a metaphor",
+             "That the grid is about what happens when two people of unlike ethical condition share a life &mdash; and monastic communities are also shared lives",
+             "That the ten courses apply only to monastics",
+             "That the discourse is misplaced"],
+         "correct": 1,
+         "expl": "Nothing in the assessment requires the two people to be married."},
+        {"q": "What is abbreviated away in this discourse?",
+         "opts": [
+             "The definitions",
+             "The six verses of AN 4.53",
+             "The setting",
+             "The list of four"],
+         "correct": 1,
+         "expl": "The same convention as AN 4.40 and AN 4.46: the second discourse keeps only what is new."},
+        {"q": "How do the two standards differ in what they can detect?",
+         "opts": [
+             "They detect the same things",
+             "The lay version is externally checkable; the monastic version includes covetousness, malice, and wrong view, which are not visible from outside",
+             "The monastic one is easier",
+             "The lay one is stricter"],
+         "correct": 1,
+         "expl": "A standard for a household must be applicable by the people in it."},
+        {"q": "What two simplifications does the four-cell grid refuse?",
+         "opts": [
+             "That marriage is permanent, and that it is voluntary",
+             "That a relationship has one moral character shared by both parties, and that the well-behaved partner in a bad match is responsible for it",
+             "That ethics can be measured, and that it matters",
+             "That husbands and wives differ, and that both can be judged"],
+         "correct": 1,
+         "expl": "The discourse names the mixed cases and does not tell the good partner they must have failed somewhere."},
+    ],
+    marginalia=[
+        ("Ten courses", [
+            "three bodily",
+            "four verbal",
+            "three mental",
+        ]),
+        ("What is added", [
+            "covetousness",
+            "malice",
+            "wrong view",
+            "&mdash; none visible outside",
+        ]),
+        ("The two mixed cells", [
+            "a good person",
+            "living with a bad one",
+            "&mdash; named, not blamed",
+        ]),
+        ("Cross-references", [
+            "AN 4.53 &middot; the lay version",
+            "AN 4.55 &middot; next: Nakula&rsquo;s parents",
+            "AN 4.40 &middot; the same abbreviation convention",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.54/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.53.html">AN 4.53 &middot; Living Together (1st)</a> &mdash; the lay version, '
+        "with the verses this one abbreviates away.",
+        '<a href="an-4.55.html">AN 4.55 &middot; Equality</a> &mdash; next in this chapter, and the '
+        "positive case given a name and a couple.",
+        '<a href="an-4.52.html">AN 4.52 &middot; Overflowing Merit (2nd)</a> &mdash; on ethical '
+        "conduct as a standing source of merit.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.56 — Dutiyasamajīvīsutta
+# --------------------------------------------------------------------------- #
+page(
+    56, "Dutiyasamajīvī", "Equality (2nd)",
+    vagga=VAGGA_6,
+    prev=("an-4.55.html", "AN 4.55 &middot; Equality"),
+    meta_title="AN 4.56 — Equality (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyasamajīvīsutta — the "
+        "instruction given to Nakula's parents, restated to the mendicants in a single sentence: "
+        "equals in faith, ethics, generosity, and wisdom. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_6),
+        ("Speakers", SPEAKER),
+        ("Form", "One sentence, with everything else abbreviated away"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "As with AN 4.55; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a single sentence, and the "
+                       "shortest discourse of the chapter"),
+    ],
+    why=(
+        "One sentence: if wife and husband want to see each other in this life and the next, they "
+        "should be equals in faith, ethics, generosity, and wisdom. It is the core of AN 4.55 with "
+        "the couple, the setting, and the verses stripped away &mdash; and stripped of them, it "
+        "reads as what it is, which is a general instruction rather than personal advice."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A couple who want to remain together across lives should match in four things: faith, "
+            "ethics, generosity, and wisdom."]),
+        ("What AN 4.55 supplies", [
+            "The preceding discourse, already published on this site, gives the occasion. The Buddha "
+            "goes for alms to the house of Nakula&rsquo;s father in the land of the Bhaggas, and the "
+            "householder and his wife each say the same thing: since they were married young, "
+            "neither can recall betraying the other even in thought, and they want to see each other "
+            "in this life and the next.",
+            "The answer given there is the sentence that constitutes this discourse. Everything else "
+            "in AN 4.56 &mdash; the couple, the request, the verses about speaking pleasantly and "
+            "living at ease &mdash; is abbreviated away.",
+            "So this page is not a substitute for AN 4.55 and does not try to be. What it can do is "
+            "look at the instruction on its own, which the abbreviation makes possible."]),
+        ("Four things to match", [
+            "<em>Saddhā, sīla, cāga, paññā</em> &mdash; faith, ethics, generosity, wisdom. The set "
+            "appears throughout the collection as a description of a well-formed lay life, and it is "
+            "worth knowing independently of this context.",
+            "Faith is orientation; ethics is conduct; generosity is what one does with what one has; "
+            "wisdom is understanding. Between them they cover what a person believes, how they "
+            "behave, how they hold their property, and what they see &mdash; which is close to an "
+            "exhaustive description of the things two people sharing a household could differ about "
+            "in ways that matter.",
+            "Note that affection is not on the list, and neither is compatibility of temperament. "
+            "Nakula&rsquo;s parents already had those; what they were told to attend to was "
+            "something else."]),
+        ("&lsquo;Equals&rsquo;", [
+            "<em>Samasaddhā samasīlā samacāgā samapaññā</em> &mdash; of equal faith, equal ethics, "
+            "equal generosity, equal wisdom. The word is <em>sama</em>, same or equal, prefixed to "
+            "each item.",
+            "The claim is about matching, not about level. The discourse does not say the couple must "
+            "be highly developed in these four; it says they must be alike in them. That is a "
+            "different and more interesting instruction, and it is consistent with the four-cell grid "
+            "of AN 4.53 and 4.54, where the two problem cases were precisely the mismatched ones.",
+            "Read together the three discourses make a coherent claim about shared life: what causes "
+            "trouble is difference in these four, and what makes a marriage work as a spiritual "
+            "arrangement is not that both partners are good but that they are the same."]),
+        ("&lsquo;See each other in the next life&rsquo;", [
+            "The stated goal is <em>aññamaññaṁ passitukāmā</em>, wanting to see one another &mdash; "
+            "in this life and in the life to come. The mechanism assumed is that beings of similar "
+            "faith, ethics, generosity, and wisdom are reborn in similar destinations.",
+            "It is worth being clear that this is what the discourse says and that it is a claim "
+            "about rebirth, not a metaphor. A reader who does not hold that framework can still take "
+            "the instruction &mdash; matching in these four is good advice for a shared life on any "
+            "view &mdash; but should not be told that the discourse means something other than what "
+            "it says.",
+            "It is also, in its way, a tender text. The request that prompted it was not for "
+            "liberation or for merit but to stay together, and the answer takes the request seriously "
+            "and answers it in its own terms."]),
+        ("Why the abbreviated version was kept", [
+            "The same three reasons that applied to AN 4.46 apply here: provenance is already "
+            "established by AN 4.55, so what this adds is audience and a slot in the chapter of ten.",
+            "There is one further point specific to this pair. AN 4.55 is a discourse to two named "
+            "people about their own marriage. AN 4.56 is the same instruction addressed to mendicants "
+            "with no couple in view, which converts it from advice into a general principle. The "
+            "collection has kept both the case and the rule, and it is the rule that this discourse "
+            "is."]),
+    ],
+    terms=[
+        ("samajīvī",
+         "&ldquo;living in equality, matched&rdquo; &mdash; the title of both discourses; the "
+         "prefix <em>sama</em> means same or equal."),
+        ("saddhā, sīla, cāga, paññā",
+         "faith, ethics, generosity, wisdom &mdash; the four to be matched, and a standing "
+         "description of a well-formed lay life."),
+        ("cāga",
+         "&ldquo;generosity&rdquo; &mdash; literally letting go or relinquishment; what one does with "
+         "what one has."),
+        ("aññamaññaṁ passitukāma",
+         "&ldquo;wanting to see one another&rdquo; &mdash; the stated goal, in this life and the "
+         "next; a claim about rebirth rather than a metaphor."),
+        ("peyyāla",
+         "the abbreviation convention that reduces this discourse to a single sentence, leaving "
+         "AN 4.55 to supply the rest."),
+    ],
+    text_intro=(
+        "The discourse as the Pāli preserves it: one sentence, with the occasion and verses of "
+        "AN 4.55 abbreviated away. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Equals in four things"),
+        ("p", "&sect;1", "an4.56:1.1"),
+    ],
+    quiz=[
+        {"q": "What four things should a couple be equal in?",
+         "opts": [
+             "Age, wealth, birth, and beauty",
+             "Faith, ethics, generosity, and wisdom",
+             "Learning, energy, patience, and kindness",
+             "The four requisites"],
+         "correct": 1,
+         "expl": "<em>Saddhā, sīla, cāga, paññā</em>."},
+        {"q": "What does AN 4.55 supply that this discourse does not?",
+         "opts": [
+             "The four items",
+             "The occasion &mdash; Nakula&rsquo;s parents, their request, and the verses",
+             "The instruction",
+             "The setting only"],
+         "correct": 1,
+         "expl": "Everything but the single sentence is abbreviated away."},
+        {"q": "What did Nakula&rsquo;s parents ask for?",
+         "opts": [
+             "Liberation",
+             "To see each other in this life and the next",
+             "Merit for their household",
+             "A teaching on generosity"],
+         "correct": 1,
+         "expl": "Neither could recall betraying the other even in thought."},
+        {"q": "What do the four items cover between them?",
+         "opts": [
+             "Only religious matters",
+             "What a person believes, how they behave, how they hold their property, and what they see",
+             "Only conduct",
+             "Only wealth and status"],
+         "correct": 1,
+         "expl": "Close to an exhaustive description of what two people sharing a household could differ about."},
+        {"q": "What is notably absent from the list?",
+         "opts": [
+             "Ethics",
+             "Affection and compatibility of temperament",
+             "Wisdom",
+             "Generosity"],
+         "correct": 1,
+         "expl": "Nakula&rsquo;s parents already had those."},
+        {"q": "What does <em>sama</em> claim?",
+         "opts": [
+             "A high level in each",
+             "Matching &mdash; that the two are alike in them, not that they are highly developed",
+             "Superiority of one partner",
+             "Growth over time"],
+         "correct": 1,
+         "expl": "A different and more interesting instruction."},
+        {"q": "How does that fit AN 4.53 and 4.54?",
+         "opts": [
+             "It contradicts them",
+             "Consistently &mdash; the two problem cells there were precisely the mismatched ones",
+             "It replaces them",
+             "It addresses a different question"],
+         "correct": 1,
+         "expl": "What causes trouble is difference in these four."},
+        {"q": "What mechanism does the stated goal assume?",
+         "opts": [
+             "That love persists",
+             "That beings of similar faith, ethics, generosity, and wisdom are reborn in similar destinations",
+             "That merit is shared",
+             "That memory carries over"],
+         "correct": 1,
+         "expl": "A claim about rebirth, not a metaphor."},
+        {"q": "How does the guide treat a reader who does not hold that framework?",
+         "opts": [
+             "Tells them the discourse means something else",
+             "Says they can still take the instruction, while not being told the discourse means other than what it says",
+             "Excludes them",
+             "Reinterprets the goal"],
+         "correct": 1,
+         "expl": "Matching in these four is good advice for a shared life on any view."},
+        {"q": "What does this discourse add that AN 4.55 does not?",
+         "opts": [
+             "New content",
+             "It converts a discourse to two named people about their own marriage into a general principle addressed to mendicants",
+             "The verses",
+             "The four items"],
+         "correct": 1,
+         "expl": "The collection has kept both the case and the rule."},
+    ],
+    marginalia=[
+        ("The four", [
+            "<span class=\"pali\">saddhā</span>faith",
+            "<span class=\"pali\">sīla</span>ethics",
+            "<span class=\"pali\">cāga</span>generosity",
+            "<span class=\"pali\">paññā</span>wisdom",
+        ]),
+        ("The claim", [
+            "<span class=\"pali\">sama</span>equal",
+            "not high",
+            "&mdash; alike",
+        ]),
+        ("Not on the list", [
+            "affection",
+            "temperament",
+            "&mdash; they already had those",
+        ]),
+        ("Cross-references", [
+            "AN 4.55 &middot; the case this states as a rule",
+            "AN 4.53 &middot; the mismatched cells",
+            "AN 4.57 &middot; next: Suppavāsā",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.56/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.55.html">AN 4.55 &middot; Equality</a> &mdash; the discourse this one '
+        "abbreviates, and the one to read first.",
+        '<a href="an-4.53.html">AN 4.53 &middot; Living Together (1st)</a> &mdash; the four cells, of '
+        "which two are mismatches.",
+        '<a href="an-4.57.html">AN 4.57 &middot; Suppavāsā</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.57 — Suppavāsāsutta
+# --------------------------------------------------------------------------- #
+page(
+    57, "Suppavāsā", "Suppavāsā",
+    vagga=VAGGA_6,
+    meta_title="AN 4.57 — Suppavāsā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Suppavāsāsutta — a woman "
+        "serves the Buddha a meal and is told that a giver of food gives four things: long life, "
+        "beauty, happiness, and strength. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Koliyans, at a town named Pajjanika, in Suppavāsā&rsquo;s own "
+                    "home"),
+        ("Speakers", "The Buddha, addressing Suppavāsā the Koliyan"),
+        ("Form", "A meal, four things given, and two verses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The four gifts of a food-giver appear across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short and warm, with a neat "
+                       "reciprocal structure"),
+    ],
+    why=(
+        "Suppavāsā serves the Buddha a meal with her own hands, and he tells her what she has just "
+        "given: not food but long life, beauty, happiness, and strength &mdash; and that she will "
+        "have the same four. It is one of the collection&rsquo;s clearest statements of how giving "
+        "is supposed to work, and it is given to a laywoman in her own house immediately after she "
+        "has done it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person who gives food gives four things, and receives the same four."]),
+        ("Who Suppavāsā was", [
+            "A Koliyan laywoman, and one of the named lay figures of the canon: she is declared "
+            "foremost among laywomen who give what is excellent, and she appears in the Udāna in "
+            "connection with a long and difficult pregnancy.",
+            "The Koliyans were the clan related by marriage to the Sakyans, the Buddha&rsquo;s own "
+            "people. The discourse is set in their territory at a town called Pajjanika, and the "
+            "Buddha comes to her house on almsround.",
+            "The narrative detail is worth keeping: she serves and satisfies him <em>with her own "
+            "hands</em>, and only after he has eaten and washed does she sit down to one side and "
+            "receive the teaching. The order is not incidental. The teaching is about what she has "
+            "just done, given while the doing is still in the room."]),
+        ("The four things", [
+            "<em>Āyu, vaṇṇa, sukha, bala</em> &mdash; long life, beauty, happiness, strength. These "
+            "four are a standing set in the collection for what a lay person hopes for, and they are "
+            "worth taking at face value: they are physical and worldly and the discourse does not "
+            "apologize for them.",
+            "The logic is that food produces exactly these in whoever eats it. A person who is fed "
+            "lives longer, looks better, feels better, and is stronger than one who is not, and the "
+            "discourse simply names those four effects and says the donor gave them.",
+            "That is not a mystical claim. It is a redescription of what a meal does, and its whole "
+            "force is in the redescription. What was handed over was rice; what was given was four "
+            "conditions of a body."]),
+        ("The reciprocity", [
+            "Each of the four is then returned: <em>giving long life, she has long life as a god or "
+            "human</em>, and so for the other three.",
+            "The symmetry is exact and mechanical, and it is worth noticing that nothing else is "
+            "promised. Not awakening, not merit in the abstract, not a favorable rebirth in general "
+            "&mdash; specifically these four, returned in kind.",
+            "The phrase <em>as a god or human</em> covers both possible destinations without "
+            "choosing, which is characteristic of how the collection handles lay results. The "
+            "consequence is stated for whichever life follows."]),
+        ("The verses on what makes a gift fruitful", [
+            "The first verse adds three conditions the prose did not state: the food is "
+            "<em>well-prepared, pure, fine, and full of flavor</em>; the recipients are "
+            "<em>sincere, of good conduct, and big-hearted</em>; and the offering therefore "
+            "<em>joins merit to merit</em>.",
+            "That first condition is the interesting one. The quality of the food matters, and the "
+            "verse says so plainly. This is not a tradition in which the gesture is all that counts; "
+            "care taken over what is given is part of the giving.",
+            "The second verse turns to memory: <em>those who recall such sacrifices live in the world "
+            "full of inspiration</em>. Recollection of one&rsquo;s own generosity is a recognized "
+            "practice in this literature &mdash; <em>cāgānussati</em>, one of the standard "
+            "recollections &mdash; and it is named here as producing gladness and driving out "
+            "stinginess <em>root and all</em>."]),
+        ("AN 4.57, 4.58, and 4.59", [
+            "The next two discourses give the identical teaching to Anāthapiṇḍika and then to the "
+            "mendicants in general, with the prose progressively abbreviated: AN 4.58 keeps the four "
+            "and its own verses, and AN 4.59 is reduced to a single sentence.",
+            "Three consecutive discourses on the same four things, to a laywoman, a layman, and the "
+            "monastic community. The sequence is a small demonstration of how the collection "
+            "generalizes: from a named person in her own house, to another named person, to the rule "
+            "stated flatly with nobody in view."]),
+    ],
+    terms=[
+        ("Suppavāsā",
+         "a Koliyan laywoman, declared foremost among laywomen who give what is excellent, and known "
+         "also from the Udāna."),
+        ("āyu, vaṇṇa, sukha, bala",
+         "long life, beauty, happiness, strength &mdash; a standing set for what a lay person hopes "
+         "for, and what food actually produces."),
+        ("Koliya",
+         "the clan related by marriage to the Sakyans; their territory is where this discourse is "
+         "set."),
+        ("cāgānussati",
+         "&ldquo;recollection of generosity&rdquo; &mdash; a standard recollection practice, named in "
+         "the second verse as producing inspiration."),
+        ("maccheramala",
+         "&ldquo;the stain of stinginess&rdquo; &mdash; what the verse says such recollection drives "
+         "out root and all."),
+    ],
+    text_intro=(
+        "The discourse in full: the meal, the four things, and the verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "At Suppavāsā&rsquo;s house"),
+        ("p", "&sect;1", "an4.57:1.1-1.5"),
+        ("h3", "Four things given"),
+        ("p", "&sect;2", "an4.57:2.1-2.8"),
+        ("h3", "The verses"),
+        ("p", "&sect;3", "an4.57:3.1-3.6"),
+        ("p", "&sect;4", "an4.57:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What four things does a giver of food give?",
+         "opts": [
+             "Faith, ethics, generosity, and wisdom",
+             "Long life, beauty, happiness, and strength",
+             "Merit, honor, fame, and heaven",
+             "Robes, almsfood, lodgings, and medicines"],
+         "correct": 1,
+         "expl": "<em>Āyu, vaṇṇa, sukha, bala</em>."},
+        {"q": "Who was Suppavāsā?",
+         "opts": [
+             "A nun",
+             "A Koliyan laywoman, declared foremost among laywomen who give what is excellent",
+             "A queen",
+             "A merchant&rsquo;s daughter of Sāvatthī"],
+         "correct": 1,
+         "expl": "She appears also in the Udāna."},
+        {"q": "When is the teaching given?",
+         "opts": [
+             "Before the meal",
+             "After he has eaten and washed, with the doing still in the room",
+             "The following day",
+             "In the assembly hall"],
+         "correct": 1,
+         "expl": "The teaching is about what she has just done."},
+        {"q": "Why does the guide say the claim is not mystical?",
+         "opts": [
+             "Because it concerns gods",
+             "Because a person who is fed lives longer, looks better, feels better, and is stronger &mdash; the discourse names what a meal does",
+             "Because it is about merit",
+             "Because it is a verse"],
+         "correct": 1,
+         "expl": "What was handed over was rice; what was given was four conditions of a body."},
+        {"q": "What is returned to the giver?",
+         "opts": [
+             "Merit in general",
+             "The same four, in kind &mdash; and nothing else is promised",
+             "Awakening",
+             "A favorable rebirth in general"],
+         "correct": 1,
+         "expl": "The symmetry is exact and mechanical."},
+        {"q": "What does &lsquo;as a god or human&rsquo; do?",
+         "opts": [
+             "Restricts the result to heaven",
+             "Covers both possible destinations without choosing, stating the consequence for whichever life follows",
+             "Excludes human rebirth",
+             "Names a specific realm"],
+         "correct": 1,
+         "expl": "Characteristic of how the collection handles lay results."},
+        {"q": "What condition on the food does the first verse add?",
+         "opts": [
+             "That it be plentiful",
+             "That it be well-prepared, pure, fine, and full of flavor",
+             "That it be given early",
+             "That it be homemade"],
+         "correct": 1,
+         "expl": "Care taken over what is given is part of the giving."},
+        {"q": "What does the guide draw from that?",
+         "opts": [
+             "That poor gifts are worthless",
+             "That this is not a tradition in which the gesture is all that counts",
+             "That food must be expensive",
+             "That donors should be wealthy"],
+         "correct": 1,
+         "expl": "The quality of the food matters, and the verse says so plainly."},
+        {"q": "What practice does the second verse name?",
+         "opts": [
+             "Recollection of the Buddha",
+             "Recollection of one&rsquo;s own generosity &mdash; <em>cāgānussati</em>",
+             "Mindfulness of breathing",
+             "Recollection of death"],
+         "correct": 1,
+         "expl": "Named as producing inspiration and driving out stinginess root and all."},
+        {"q": "How do AN 4.57, 4.58, and 4.59 relate?",
+         "opts": [
+             "They give different teachings",
+             "The same four to a laywoman, a layman, and the mendicants, with the prose progressively abbreviated",
+             "They contradict each other",
+             "Only the first is complete"],
+         "correct": 1,
+         "expl": "A small demonstration of how the collection generalizes."},
+    ],
+    marginalia=[
+        ("The four", [
+            "<span class=\"pali\">āyu</span>long life",
+            "<span class=\"pali\">vaṇṇa</span>beauty",
+            "<span class=\"pali\">sukha</span>happiness",
+            "<span class=\"pali\">bala</span>strength",
+        ]),
+        ("The redescription", [
+            "handed over: rice",
+            "given: four conditions",
+            "&mdash; of a body",
+        ]),
+        ("The verse condition", [
+            "well-prepared",
+            "pure, fine",
+            "full of flavor",
+        ]),
+        ("Cross-references", [
+            "AN 4.58 &middot; next: the same, to Anāthapiṇḍika",
+            "AN 4.51 &middot; merit and the recipient&rsquo;s state",
+            "AN 4.60 &middot; what lay practice is",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.57/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.58.html">AN 4.58 &middot; Sudatta</a> &mdash; next in this series, the same '
+        "teaching to Anāthapiṇḍika.",
+        '<a href="an-4.51.html">AN 4.51 &middot; Overflowing Merit</a> &mdash; on what makes a '
+        "donor&rsquo;s merit limitless.",
+        '<a href="an-4.60.html">AN 4.60 &middot; Lay Practice</a> &mdash; the four things that '
+        "constitute practice for a householder.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.58 — Sudattasutta
+# --------------------------------------------------------------------------- #
+page(
+    58, "Sudatta", "Sudatta",
+    vagga=VAGGA_6,
+    meta_title="AN 4.58 — Sudatta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sudattasutta — the same "
+        "four gifts of a food-giver, told to Anāthapiṇḍika, whose given name the discourse uses. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Anāthapiṇḍika comes to the Buddha and the teaching begins at once"),
+        ("Speakers", "The Buddha, addressing the householder Anāthapiṇḍika"),
+        ("Form", "AN 4.57&rsquo;s teaching abbreviated, with two different verses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "As with AN 4.57; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a variant whose interest is its "
+                       "title and its verses"),
+    ],
+    why=(
+        "The same four gifts, this time to Anāthapiṇḍika &mdash; and the discourse is titled with "
+        "his given name, Sudatta, which the canon almost never uses. The verses are new, and they "
+        "add two conditions the previous discourse did not: giving <em>carefully</em>, and giving "
+        "<em>at the right time</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A giver of food gives long life, beauty, happiness, and strength &mdash; and receives "
+            "them wherever they are reborn."]),
+        ("Sudatta and Anāthapiṇḍika", [
+            "The householder&rsquo;s name was Sudatta. <em>Anāthapiṇḍika</em> is an epithet meaning "
+            "&lsquo;one who gives alms to the helpless&rsquo; &mdash; literally food for those "
+            "without protection &mdash; and it is what he is called everywhere in the canon.",
+            "This discourse is the exception: the title uses the given name, though the text itself "
+            "still says Anāthapiṇḍika. That is a small piece of evidence about how these titles were "
+            "assigned, apparently by someone with access to information the discourse text does not "
+            "carry.",
+            "He is the canon&rsquo;s principal lay donor, the purchaser of Jeta&rsquo;s Grove, and "
+            "the person named in the setting formula of an enormous number of discourses. That a "
+            "teaching about giving food is addressed to him is unsurprising; what is notable is how "
+            "ordinary the teaching is. He receives the same four items as everyone else."]),
+        ("The two new conditions", [
+            "The verses add <em>kālena</em>, at the right time, and a word Sujato renders "
+            "<em>carefully</em>. Neither appeared in AN 4.57.",
+            "Timing matters concretely in this context: monastics may not eat after midday, so a "
+            "meal offered late is not a gift at all but an embarrassment. The condition is practical "
+            "before it is spiritual, and it generalizes &mdash; a gift that arrives when it cannot be "
+            "used has not been given.",
+            "&lsquo;Carefully&rsquo; picks up what AN 4.57&rsquo;s verse said about the food being "
+            "well-prepared, pure, fine, and flavorful. Between the two discourses the conditions on a "
+            "good gift are: prepared with care, of good quality, given at a usable time, and given to "
+            "the disciplined."]),
+        ("&lsquo;Eating only what others give&rsquo;", [
+            "The recipients are described as <em>disciplined, eating only what others give</em>. That "
+            "phrase names the structural fact that makes the whole exchange work.",
+            "A mendicant on this model does not grow, buy, or store food. Whatever they eat came from "
+            "someone, on the day it was eaten. The donor is therefore not supplementing a "
+            "monastic&rsquo;s resources; they are supplying them entirely, and the four things the "
+            "verse names really do depend on the giving.",
+            "It is worth stating for lay readers that this is what makes the reciprocal claim more "
+            "than sentiment. The dependence is real and total in one direction, and the discourse "
+            "describes the return flowing in the other."]),
+        ("What is promised", [
+            "<em>Has long life and fame wherever they&rsquo;re reborn</em> &mdash; <em>yattha yattha "
+            "upapajjati</em>, in whatever place they are reborn.",
+            "That is slightly wider than AN 4.57&rsquo;s &lsquo;as a god or human&rsquo;. The formula "
+            "does not specify a destination at all; it says the four travel with the giver wherever "
+            "they go.",
+            "It also adds fame (<em>yasa</em>) to the list, which the prose did not include. This "
+            "kind of small drift between prose and verse recurs throughout the collection and is "
+            "worth registering rather than reconciling."]),
+        ("The sequence and its point", [
+            "AN 4.57 gave this teaching to a laywoman in her own house, immediately after a meal. "
+            "AN 4.58 gives it to a layman who has come to the Buddha, with the narrative reduced to "
+            "one line. AN 4.59, next, gives it to the mendicants with no person in view at all and "
+            "no verses.",
+            "Read as a sequence the three show a teaching being lifted out of its occasion. The first "
+            "is an event; the second is an instruction; the third is a rule. Nothing in the content "
+            "changes, and the collection preserves all three stages.",
+            "For a reader that is useful in a practical way. If the teaching is wanted as a story, "
+            "read AN 4.57. If it is wanted as a statement, read AN 4.59. AN 4.58 sits between them "
+            "and carries the conditions."]),
+    ],
+    terms=[
+        ("Sudatta",
+         "Anāthapiṇḍika&rsquo;s given name &mdash; used in this discourse&rsquo;s title and almost "
+         "nowhere else in the canon."),
+        ("Anāthapiṇḍika",
+         "&ldquo;one who gives alms to the helpless&rdquo; &mdash; an epithet, and the name by which "
+         "the canon&rsquo;s principal lay donor is otherwise always known."),
+        ("kālena",
+         "&ldquo;at the right time&rdquo; &mdash; a practical condition before a spiritual one: "
+         "monastics may not eat after midday."),
+        ("paradattūpajīvī",
+         "&ldquo;eating only what others give&rdquo; &mdash; the structural fact that makes the "
+         "exchange more than sentiment."),
+        ("yasa",
+         "&ldquo;fame&rdquo; &mdash; added by the verse to the four of the prose; a small drift worth "
+         "registering rather than reconciling."),
+    ],
+    text_intro=(
+        "The discourse in full: the approach, the four things, and the verses. The ellipses are the "
+        "Pāli&rsquo;s own abbreviation. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Anāthapiṇḍika comes"),
+        ("p", "&sect;1", "an4.58:1.1"),
+        ("h3", "Four things given"),
+        ("p", "&sect;2", "an4.58:2.1-2.6"),
+        ("h3", "The verses"),
+        ("p", "&sect;3", "an4.58:3.1-3.4"),
+        ("p", "&sect;4", "an4.58:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "Whose given name is Sudatta?",
+         "opts": [
+             "A Koliyan householder",
+             "Anāthapiṇḍika&rsquo;s",
+             "The Buddha&rsquo;s cousin",
+             "A wanderer"],
+         "correct": 1,
+         "expl": "Used in this discourse&rsquo;s title and almost nowhere else in the canon."},
+        {"q": "What does the epithet <em>Anāthapiṇḍika</em> mean?",
+         "opts": [
+             "&lsquo;Great giver&rsquo;",
+             "&lsquo;One who gives alms to the helpless&rsquo; &mdash; food for those without protection",
+             "&lsquo;Owner of the grove&rsquo;",
+             "&lsquo;Chief householder&rsquo;"],
+         "correct": 1,
+         "expl": "The name by which he is otherwise always known."},
+        {"q": "What does the guide draw from the title using the given name?",
+         "opts": [
+             "That the discourse is late",
+             "A small piece of evidence about how titles were assigned &mdash; apparently by someone with information the discourse text does not carry",
+             "That two people are confused",
+             "That the title is wrong"],
+         "correct": 1,
+         "expl": "The text itself still says Anāthapiṇḍika."},
+        {"q": "What two conditions do these verses add?",
+         "opts": [
+             "Generosity and faith",
+             "Giving carefully, and giving at the right time",
+             "Giving much, and giving often",
+             "Giving in public, and giving anonymously"],
+         "correct": 1,
+         "expl": "Neither appeared in AN 4.57."},
+        {"q": "Why does timing matter concretely?",
+         "opts": [
+             "Because donors are busy",
+             "Because monastics may not eat after midday, so a meal offered late is not a gift but an embarrassment",
+             "Because morning food is fresher",
+             "Because of the season"],
+         "correct": 1,
+         "expl": "Practical before it is spiritual, and it generalizes."},
+        {"q": "What do the two discourses together give as conditions on a good gift?",
+         "opts": [
+             "Size, frequency, publicity, and cost",
+             "Prepared with care, of good quality, given at a usable time, and given to the disciplined",
+             "Faith, ethics, generosity, and wisdom",
+             "Long life, beauty, happiness, and strength"],
+         "correct": 1,
+         "expl": "Between AN 4.57&rsquo;s verse and this one."},
+        {"q": "What does &lsquo;eating only what others give&rsquo; name?",
+         "opts": [
+             "A vow of poverty",
+             "The structural fact that a mendicant does not grow, buy, or store food &mdash; whatever they eat came from someone, on the day it was eaten",
+             "A monastic rule about leftovers",
+             "A description of poverty"],
+         "correct": 1,
+         "expl": "The donor is not supplementing resources but supplying them entirely."},
+        {"q": "Why does that make the reciprocal claim more than sentiment?",
+         "opts": [
+             "Because it is in verse",
+             "Because the dependence is real and total in one direction, and the discourse describes the return flowing in the other",
+             "Because the Buddha said it",
+             "Because it is repeated"],
+         "correct": 1,
+         "expl": "Worth stating for lay readers."},
+        {"q": "How does this discourse&rsquo;s promise differ from AN 4.57&rsquo;s?",
+         "opts": [
+             "It is narrower",
+             "It says the four travel with the giver <em>wherever they are reborn</em>, without specifying a destination &mdash; and it adds fame",
+             "It promises awakening",
+             "It promises nothing"],
+         "correct": 1,
+         "expl": "AN 4.57 said &lsquo;as a god or human&rsquo;."},
+        {"q": "What does the three-discourse sequence show?",
+         "opts": [
+             "Three different teachings",
+             "A teaching being lifted out of its occasion &mdash; an event, then an instruction, then a rule",
+             "A growing audience",
+             "A change of doctrine"],
+         "correct": 1,
+         "expl": "Nothing in the content changes, and the collection preserves all three stages."},
+    ],
+    marginalia=[
+        ("Two names", [
+            "<span class=\"pali\">Sudatta</span>the given name",
+            "<span class=\"pali\">Anāthapiṇḍika</span>the epithet",
+            "&mdash; only the title uses the first",
+        ]),
+        ("New conditions", [
+            "carefully",
+            "at the right time",
+            "&mdash; or it is not a gift",
+        ]),
+        ("The structural fact", [
+            "does not grow food",
+            "does not buy or store it",
+            "&mdash; it came from someone today",
+        ]),
+        ("Cross-references", [
+            "AN 4.57 &middot; the same, as an event",
+            "AN 4.59 &middot; next: the same, as a rule",
+            "AN 4.51 &middot; the four requisites and merit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.58/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.57.html">AN 4.57 &middot; Suppavāsā</a> &mdash; the same teaching as an event, '
+        "in a laywoman&rsquo;s house.",
+        '<a href="an-4.59.html">AN 4.59 &middot; Food</a> &mdash; next in this series, the same '
+        "teaching reduced to a rule.",
+        '<a href="an-4.60.html">AN 4.60 &middot; Lay Practice</a> &mdash; the other discourse of this '
+        "chapter addressed to Anāthapiṇḍika.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.59 — Bhojanasutta
+# --------------------------------------------------------------------------- #
+page(
+    59, "Bhojana", "Food",
+    vagga=VAGGA_6,
+    meta_title="AN 4.59 — Food | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhojanasutta — the four "
+        "gifts of a food-giver stated as a rule to the mendicants, in a single sentence. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_6),
+        ("Speakers", SPEAKER),
+        ("Form", "One sentence, with the definitions and verses abbreviated away"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "As with AN 4.57 and 4.58; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the bare rule, and the end of a "
+                       "three-discourse sequence"),
+    ],
+    why=(
+        "The third and last statement of the four gifts, and the shortest: when a donor gives food, "
+        "they give the recipients long life, beauty, happiness, and strength. No person, no "
+        "occasion, no verses. This is the teaching in the form the collection will store it in, and "
+        "reading it after AN 4.57 and 4.58 is the point of having all three."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The rule, without occasion or elaboration: a giver of food gives four things."]),
+        ("The word that changed", [
+            "AN 4.57 and 4.58 both said <em>ariyasāvako</em>, a noble disciple, gives food. This "
+            "discourse says <em>dāyako</em>, a donor.",
+            "That is the only substantive difference and it is worth noticing. The two earlier "
+            "discourses were addressed to people who were themselves noble disciples and described "
+            "what such a person does. Stated as a general rule, the qualification drops away and the "
+            "claim widens: <em>anyone</em> who gives food gives these four.",
+            "Whether that widening is deliberate or an artifact of abbreviation cannot be settled "
+            "from the text. What can be said is that the mechanism supports the wider version. The "
+            "four things are what food does to a body, and food does that regardless of the "
+            "giver&rsquo;s attainments."]),
+        ("The three stages", [
+            "The sequence is now complete. AN 4.57: Suppavāsā serves a meal in her own house and is "
+            "told what she has given, with a narrative setting and two verses. AN 4.58: "
+            "Anāthapiṇḍika comes and is told the same, with the narrative reduced to one line and "
+            "different verses adding conditions. AN 4.59: the bare statement, addressed to nobody in "
+            "particular.",
+            "Twenty-six segments, then eighteen, then three. The collection has preserved a teaching "
+            "at three degrees of abstraction and put them in descending order.",
+            "That ordering is itself informative. The Aṅguttara does not begin with the principle and "
+            "illustrate it; it begins with the occasion and works outward. A reader who wants to know "
+            "what a teaching is <em>for</em> is generally better served by the first version in a "
+            "sequence than the last."]),
+        ("Why the bare form is useful", [
+            "It would be easy to treat this discourse as the residue of the other two. It has a use "
+            "of its own.",
+            "A statement with no person in it can be applied to any person. The moment Suppavāsā is "
+            "in the frame, a reader can wonder whether the teaching depends on her being who she was "
+            "&mdash; foremost among laywomen who give what is excellent, serving the Buddha himself, "
+            "with her own hands, in her own house. Every one of those particulars is a reason to "
+            "think the case is special.",
+            "AN 4.59 removes all of them. What is left is the mechanism, and the mechanism is what "
+            "transfers."]),
+        ("What is abbreviated", [
+            "Everything after the list of four. In the fuller versions this would be the reciprocal "
+            "statement &mdash; giving long life, one has long life as a god or human, and so for the "
+            "other three &mdash; and then the verses.",
+            "A reciter encountering this discourse would supply that expansion from AN 4.57. The "
+            "written text preserves the head of the passage and marks the rest as understood, which "
+            "is the same convention as AN 4.46, AN 4.54, and AN 4.56 in this chapter alone.",
+            "By this point in the Fours the convention is running at a high density, and it is worth "
+            "recognizing what that indicates: the chapter was compiled by people who expected its "
+            "discourses to be known as a set rather than read individually."]),
+        ("Closing the food sequence", [
+            "One discourse remains in the chapter. AN 4.60 returns to Anāthapiṇḍika and gives the "
+            "four requisites &mdash; robes, almsfood, lodgings, medicines &mdash; as the content of "
+            "lay practice, which brings the chapter back to where AN 4.51 began.",
+            "The Puññābhisandavagga is the most coherent chapter of the Fours so far. It opens with "
+            "the four requisites as occasions of merit, runs through the four factors of "
+            "stream-entry, the four kinds of marriage, the four things a couple should match in, and "
+            "the four gifts in food, and closes with the four requisites again as the definition of "
+            "lay practice. It is a chapter for householders, arranged as one."]),
+    ],
+    terms=[
+        ("dāyaka",
+         "&ldquo;donor&rdquo; &mdash; the word this discourse uses where AN 4.57 and 4.58 said "
+         "&lsquo;noble disciple&rsquo;, widening the claim."),
+        ("bhojana",
+         "&ldquo;food&rdquo; &mdash; the title, and the whole of the subject; the discourse names no "
+         "person and no occasion."),
+        ("āyu, vaṇṇa, sukha, bala",
+         "long life, beauty, happiness, strength &mdash; what food produces in whoever eats it, and "
+         "therefore what the donor gives."),
+        ("ariyasāvaka",
+         "&ldquo;noble disciple&rdquo; &mdash; the qualification present in the two preceding "
+         "discourses and absent here."),
+        ("peyyāla",
+         "the abbreviation convention &mdash; running at high density in this chapter, which "
+         "indicates a compilation meant to be known as a set."),
+    ],
+    text_intro=(
+        "The discourse as the Pāli preserves it: one sentence, with the reciprocal statement and the "
+        "verses abbreviated away. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A donor gives four things"),
+        ("p", "&sect;1", "an4.59:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse state?",
+         "opts": [
+             "A new list of four",
+             "That when a donor gives food, they give the recipients long life, beauty, happiness, and strength",
+             "The four requisites",
+             "The four factors of stream-entry"],
+         "correct": 1,
+         "expl": "The rule, without occasion or elaboration."},
+        {"q": "What single word differs from AN 4.57 and 4.58?",
+         "opts": [
+             "&lsquo;Food&rsquo; for &lsquo;almsfood&rsquo;",
+             "&lsquo;Donor&rsquo; for &lsquo;noble disciple&rsquo;",
+             "&lsquo;Gives&rsquo; for &lsquo;serves&rsquo;",
+             "&lsquo;Four&rsquo; for &lsquo;these four&rsquo;"],
+         "correct": 1,
+         "expl": "The only substantive difference."},
+        {"q": "What effect does that have?",
+         "opts": [
+             "It narrows the claim",
+             "It widens it &mdash; anyone who gives food gives these four, not only a noble disciple",
+             "It changes the four items",
+             "It makes it monastic"],
+         "correct": 1,
+         "expl": "The qualification drops away with the person."},
+        {"q": "How does the guide assess whether the widening is deliberate?",
+         "opts": [
+             "It says the widening is certainly deliberate",
+             "It says it cannot be settled from the text, but that the mechanism supports the wider version &mdash; food does what it does regardless of the giver&rsquo;s attainments",
+             "It says it is an error",
+             "It does not raise the question"],
+         "correct": 1,
+         "expl": "The four things are what food does to a body."},
+        {"q": "What are the three stages of the sequence?",
+         "opts": [
+             "Three different teachings",
+             "An event with a setting and verses, an instruction with conditions, and a bare statement",
+             "Three audiences with three doctrines",
+             "Prose, verse, and commentary"],
+         "correct": 1,
+         "expl": "Twenty-six segments, then eighteen, then three."},
+        {"q": "What does the descending order indicate about the collection&rsquo;s method?",
+         "opts": [
+             "That the later versions are corrupt",
+             "That it begins with the occasion and works outward rather than beginning with the principle and illustrating it",
+             "That principles come first",
+             "That the order is random"],
+         "correct": 1,
+         "expl": "A reader who wants to know what a teaching is for is better served by the first version in a sequence."},
+        {"q": "What use does the bare form have of its own?",
+         "opts": [
+             "None; it is residue",
+             "A statement with no person in it can be applied to any person &mdash; the particulars of Suppavāsā&rsquo;s case are all reasons to think it special",
+             "It is easier to memorize",
+             "It is more authoritative"],
+         "correct": 1,
+         "expl": "What is left is the mechanism, and the mechanism is what transfers."},
+        {"q": "What is abbreviated away here?",
+         "opts": [
+             "The four items",
+             "The reciprocal statement &mdash; giving long life one has long life, and so on &mdash; and the verses",
+             "The setting only",
+             "The audience"],
+         "correct": 1,
+         "expl": "A reciter would supply the expansion from AN 4.57."},
+        {"q": "What does the high density of abbreviation in this chapter indicate?",
+         "opts": [
+             "Damage to the manuscripts",
+             "That the chapter was compiled by people who expected its discourses to be known as a set rather than read individually",
+             "Haste in composition",
+             "A late date"],
+         "correct": 1,
+         "expl": "AN 4.46, 4.54, 4.56, and 4.59 in this chapter alone."},
+        {"q": "How does the guide describe the Puññābhisandavagga as a whole?",
+         "opts": [
+             "A miscellany",
+             "The most coherent chapter of the Fours so far &mdash; a chapter for householders, arranged as one, opening and closing with the four requisites",
+             "A monastic chapter",
+             "A set of unrelated variants"],
+         "correct": 1,
+         "expl": "Merit, stream-entry, marriage, matching, food, and lay practice."},
+    ],
+    marginalia=[
+        ("The rule", [
+            "a donor gives food",
+            "&rarr; four things",
+            "&mdash; and no more is said",
+        ]),
+        ("The widening", [
+            "4.57, 4.58 &middot; a noble disciple",
+            "4.59 &middot; a donor",
+            "&mdash; anyone at all",
+        ]),
+        ("Three degrees", [
+            "26 segments &middot; an event",
+            "18 &middot; an instruction",
+            "3 &middot; a rule",
+        ]),
+        ("Cross-references", [
+            "AN 4.57 &middot; the event",
+            "AN 4.58 &middot; the instruction",
+            "AN 4.60 &middot; next: lay practice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.59/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.57.html">AN 4.57 &middot; Suppavāsā</a> &mdash; the fullest version, and the '
+        "one to read for the occasion.",
+        '<a href="an-4.58.html">AN 4.58 &middot; Sudatta</a> &mdash; the middle version, which '
+        "carries the conditions.",
+        '<a href="an-4.60.html">AN 4.60 &middot; Lay Practice</a> &mdash; next in this series, and '
+        "the last discourse of the chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.60 — Gihisāmīcisutta
+# --------------------------------------------------------------------------- #
+page(
+    60, "Gihisāmīci", "Lay Practice",
+    vagga=VAGGA_6,
+    meta_title="AN 4.60 — Lay Practice | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Gihisāmīcisutta — serving "
+        "the Saṅgha with robes, almsfood, lodgings, and medicines: the four things that constitute "
+        "appropriate practice for a layperson. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None stated; Anāthapiṇḍika comes to the Buddha and the teaching begins at once"),
+        ("Speakers", "The Buddha, addressing the householder Anāthapiṇḍika"),
+        ("Form", "Four things named in a single clause, with two verses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Statements of the layperson&rsquo;s proper practice appear across the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and narrower than its "
+                       "title suggests"),
+    ],
+    why=(
+        "Four things, and they are the four requisites again: robes, almsfood, lodgings, medicines. "
+        "Providing these to the Saṅgha is called <em>gihisāmīcipaṭipada</em>, the practice "
+        "appropriate to a householder. The title makes a large promise and the content is "
+        "deliberately narrow, and the gap between them is the thing to think about."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Supporting the Saṅgha with the four requisites is the practice proper to a layperson, "
+            "and it brings fame and leads to heaven."]),
+        ("<em>Sāmīci</em>: what is proper", [
+            "<em>Sāmīcipaṭipada</em> is the practice that is fitting, proper, or correct &mdash; the "
+            "same word used in the Saṅgha recollection formula, where the community practises "
+            "&lsquo;the way that&rsquo;s good, direct, systematic, and proper&rsquo;. "
+            "<em>Gihi</em> is a householder.",
+            "So the phrase means the householder&rsquo;s version of the correct way. It is a formal "
+            "designation rather than a description of everything a lay person might do, and reading "
+            "it as a complete account of lay Buddhism would be a mistake the collection itself "
+            "corrects several times over.",
+            "AN 4.52, eight discourses earlier in this same chapter, gave a noble disciple four "
+            "things that have nothing to do with giving: confidence in the Buddha, the teaching, the "
+            "Saṅgha, and ethical conduct. AN 4.55 and 4.56 told a couple to match in faith, ethics, "
+            "generosity, and wisdom &mdash; only one of which is generosity. This discourse is one "
+            "answer among several and should be read as such."]),
+        ("What is promised", [
+            "<em>Yasassinī</em> and <em>saggasaṁvattanikā</em> &mdash; it brings fame, and it leads "
+            "to heaven. Two results, one in this life and one after.",
+            "The modesty of the promise is worth registering. Nothing is said about the path, "
+            "stream-entry, or the ending of suffering, and this to Anāthapiṇḍika, who the canon "
+            "elsewhere treats as a stream-enterer. Supporting the Saṅgha is being described as "
+            "meritorious and appropriate, not as liberating.",
+            "That is consistent throughout the collection and a teacher should not overclaim on its "
+            "behalf. Giving is one of the three grounds of merit-making, alongside ethics and mental "
+            "cultivation, and the collection is generally careful about which of the three does what."]),
+        ("The verse and the growth of merit", [
+            "<em>Their merit always grows by day and by night.</em> The claim is that the merit of "
+            "supporting a practising community is continuous rather than momentary &mdash; it "
+            "accrues while the donor is doing something else.",
+            "That connects directly to AN 4.51, which opened this chapter. There the mechanism was "
+            "given: the merit is limitless when the recipient enters a limitless immersion while "
+            "using the gift. Here the consequence is stated without the mechanism.",
+            "Reading the chapter as a unit, AN 4.51 explains AN 4.60. A robe given once produces "
+            "merit for as long as it is worn by someone practising, which is why merit grows by day "
+            "and by night without further action from the giver."]),
+        ("&lsquo;Ethical and rightly comported&rsquo;", [
+            "The verse specifies who is to be provided for: <em>those who are ethical and rightly "
+            "comported</em>. That condition is not in the prose and it matters.",
+            "Support is not owed to the Saṅgha as an institution regardless of its condition. The "
+            "recipient condition runs through this entire chapter &mdash; AN 4.51&rsquo;s limitless "
+            "immersion, AN 4.57&rsquo;s <em>sincere, of good conduct, big-hearted</em>, AN 4.58&rsquo;s "
+            "<em>disciplined</em>, and here <em>ethical and rightly comported</em>.",
+            "Four discourses in one chapter make the same qualification. Whatever else the "
+            "collection&rsquo;s economics of giving amount to, they are not a blank endorsement of "
+            "whoever is wearing the robe."]),
+        ("Closing the chapter", [
+            "The Puññābhisandavagga began with the four requisites as occasions of overflowing merit "
+            "and ends with the four requisites as the definition of lay practice. Between those two "
+            "points it has covered confidence and ethics as standing sources of merit, four kinds of "
+            "marriage, the four things a couple should match in, and the four gifts contained in a "
+            "meal.",
+            "It is the chapter of the Fours addressed most consistently to householders, and it is "
+            "worth reading straight through: about twelve minutes for the ten discourses, of which "
+            "three are a single sentence each.",
+            "The next chapter, the Pattakammavagga, continues in the same direction &mdash; AN 4.62, "
+            "already published on this site, is its discourse on the four kinds of happiness "
+            "available to a layperson, and it answers the question this one leaves open about what "
+            "else a householder&rsquo;s life is for."]),
+    ],
+    terms=[
+        ("gihisāmīcipaṭipada",
+         "&ldquo;the practice appropriate to a householder&rdquo; &mdash; a formal designation, not a "
+         "complete account of lay Buddhism."),
+        ("sāmīci",
+         "&ldquo;proper, fitting&rdquo; &mdash; the same word used of the Saṅgha&rsquo;s own practice "
+         "in the recollection formula."),
+        ("cattāro paccayā",
+         "the four requisites &mdash; robes, almsfood, lodgings, and medicines and supplies for the "
+         "sick; the content of the practice named here."),
+        ("yasassinī",
+         "&ldquo;bringing fame&rdquo; &mdash; the worldly half of the promise, alongside leading to "
+         "heaven."),
+        ("sīlavanta suppaṭipanna",
+         "&ldquo;ethical and rightly comported&rdquo; &mdash; the verse&rsquo;s condition on the "
+         "recipients, one of four such conditions in this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the four things, and the verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Anāthapiṇḍika comes"),
+        ("p", "&sect;1", "an4.60:1.1"),
+        ("h3", "Four things"),
+        ("p", "&sect;2", "an4.60:2.1-2.4"),
+        ("h3", "The verses"),
+        ("p", "&sect;3", "an4.60:3.1-4.6"),
+    ],
+    quiz=[
+        {"q": "What four things constitute lay practice here?",
+         "opts": [
+             "Faith, ethics, generosity, and wisdom",
+             "Serving the Saṅgha with robes, almsfood, lodgings, and medicines",
+             "The five precepts and the uposatha",
+             "Long life, beauty, happiness, and strength"],
+         "correct": 1,
+         "expl": "The four requisites again."},
+        {"q": "What does <em>sāmīci</em> mean?",
+         "opts": [
+             "Complete",
+             "Proper, fitting, correct &mdash; the same word used of the Saṅgha&rsquo;s own practice",
+             "Minimal",
+             "Traditional"],
+         "correct": 1,
+         "expl": "So: the householder&rsquo;s version of the correct way."},
+        {"q": "Why would reading this as a complete account of lay Buddhism be a mistake?",
+         "opts": [
+             "Because it is late",
+             "Because the collection corrects it several times over &mdash; AN 4.52 gives four things with nothing to do with giving, and AN 4.55 makes generosity one of four",
+             "Because it is addressed to one person",
+             "Because the verses differ"],
+         "correct": 1,
+         "expl": "This discourse is one answer among several."},
+        {"q": "What is promised?",
+         "opts": [
+             "Stream-entry",
+             "Fame, and leading to heaven &mdash; one result in this life and one after",
+             "The ending of suffering",
+             "Rebirth as a god"],
+         "correct": 1,
+         "expl": "Nothing is said about the path."},
+        {"q": "Why is that modesty worth registering?",
+         "opts": [
+             "Because the audience was poor",
+             "Because it is said to Anāthapiṇḍika, whom the canon treats as a stream-enterer &mdash; supporting the Saṅgha is described as meritorious and appropriate, not as liberating",
+             "Because heaven is temporary",
+             "Because fame is a danger"],
+         "correct": 1,
+         "expl": "A teacher should not overclaim on the collection&rsquo;s behalf."},
+        {"q": "What does the verse claim about merit?",
+         "opts": [
+             "That it is fixed at the moment of giving",
+             "That it always grows, by day and by night",
+             "That it can be transferred",
+             "That it must be renewed"],
+         "correct": 1,
+         "expl": "Continuous rather than momentary."},
+        {"q": "Which discourse explains that claim?",
+         "opts": [
+             "AN 4.57",
+             "AN 4.51 &mdash; the merit is limitless when the recipient enters a limitless immersion while using the gift",
+             "AN 4.52",
+             "AN 4.55"],
+         "correct": 1,
+         "expl": "A robe produces merit for as long as it is worn by someone practising."},
+        {"q": "What condition does the verse put on the recipients?",
+         "opts": [
+             "That they be senior",
+             "That they be ethical and rightly comported",
+             "That they be ordained",
+             "That they be poor"],
+         "correct": 1,
+         "expl": "A condition not present in the prose."},
+        {"q": "How many discourses in this chapter make a recipient condition?",
+         "opts": [
+             "One",
+             "Four &mdash; AN 4.51, 4.57, 4.58, and this one",
+             "Two",
+             "None"],
+         "correct": 1,
+         "expl": "Not a blank endorsement of whoever is wearing the robe."},
+        {"q": "How does the chapter frame itself?",
+         "opts": [
+             "By setting",
+             "It begins with the four requisites as occasions of overflowing merit and ends with the four requisites as the definition of lay practice",
+             "By speaker",
+             "By length"],
+         "correct": 1,
+         "expl": "The chapter of the Fours addressed most consistently to householders."},
+    ],
+    marginalia=[
+        ("The four", [
+            "robes",
+            "almsfood",
+            "lodgings",
+            "medicines",
+        ]),
+        ("The promise", [
+            "fame &middot; now",
+            "heaven &middot; after",
+            "&mdash; and nothing further",
+        ]),
+        ("The condition", [
+            "4.51 &middot; limitless immersion",
+            "4.57 &middot; sincere, good conduct",
+            "4.60 &middot; ethical, rightly comported",
+        ]),
+        ("Cross-references", [
+            "AN 4.51 &middot; where the chapter began",
+            "AN 4.52 &middot; lay practice without giving",
+            "AN 4.62 &middot; the four lay happinesses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.60/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.51.html">AN 4.51 &middot; Overflowing Merit</a> &mdash; where the chapter '
+        "began, and the mechanism behind this discourse&rsquo;s verse.",
+        '<a href="an-4.52.html">AN 4.52 &middot; Overflowing Merit (2nd)</a> &mdash; the four things '
+        "a noble disciple has that have nothing to do with giving.",
+        '<a href="an-4.62.html">AN 4.62 &middot; Debtlessness</a> &mdash; the next chapter&rsquo;s '
+        "discourse on the four kinds of happiness available to a layperson.",
     ],
 )
