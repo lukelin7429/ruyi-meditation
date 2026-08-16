@@ -15761,3 +15761,573 @@ page(
         "as the remedy for hate.",
     ],
 )
+
+
+page(
+    69, "Akusalamūla", "Unskillful Roots",
+    vagga=VAGGA_7,
+    meta_title="AN 3.69 — Unskillful Roots | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Akusalamūlasutta — the "
+        "three roots described through a man with power over other people, and the test of how "
+        "somebody answers criticism. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three roots, each expounded in the same three steps; a test of speech; a simile of "
+                 "strangling creepers; then the whole thing again in the positive"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "The three roots and the creeper simile are preserved in the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; highly repetitive, and one clause "
+                       "in it is unlike anything else in the chapter"),
+    ],
+    why=(
+        "The Threes have described the three roots several times already. This discourse describes "
+        "them through a specific figure: a person who <em>causes another to suffer under a false "
+        "pretext &mdash; by execution or imprisonment or confiscation or condemnation or banishment "
+        "&mdash; thinking &lsquo;I&rsquo;m powerful, I want power.&rsquo;</em> That sentence is "
+        "repeated nine times in the discourse. The subject is not private vice; it is what greed, "
+        "hate, and delusion do when the person who has them can have somebody arrested."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The three roots are known by what a person with power does with them, and by whether "
+            "they can take a correction."]),
+        ("The clause that recurs nine times", [
+            "Five penalties are named: <em>vadha</em>, execution; <em>bandha</em>, imprisonment; "
+            "<em>jāni</em>, confiscation; <em>garaha</em>, condemnation; <em>pabbājana</em>, "
+            "banishment. These are the instruments of a state, not of a private quarrel, and the "
+            "discourse says they are applied <em>asatā</em>, under a false pretext.",
+            "The motive is given in the person&rsquo;s own words and it is unusually blunt: "
+            "<em>ahaṁ balavā, balattho asmi</em> &mdash; I am powerful, I want power. Not that the "
+            "victim deserved it, and not that some larger good required it. The stated reason for "
+            "using the apparatus is that it is available.",
+            "The Threes elsewhere describe greed as covetousness and hate as malice, which are "
+            "conditions of a mind. Here the same roots are shown at the point where they meet an "
+            "institution, and the discourse gives that its own step in the exposition: first, that a "
+            "person with the root acts unskillfully in body, speech, and mind; then, separately, that "
+            "such a person misuses power over others.",
+            "It is worth noticing that this is preserved in a religious canon rather than a political "
+            "one, and that no ruler is named. The description is left general enough to fit anybody "
+            "who can punish somebody else, which in an ancient household included a good many people "
+            "who were not kings."]),
+        ("The test of speech", [
+            "Such a person is said to have <em>speech that&rsquo;s ill-timed, false, meaningless, not "
+            "in line with the teaching and training</em>, and the discourse then explains what that "
+            "means in practice, which is the most useful thing in it.",
+            "&ldquo;When someone makes a valid criticism, they&rsquo;re scornful and admit nothing. "
+            "When someone makes a baseless criticism, they make no effort to explain, &lsquo;this is "
+            "why that&rsquo;s untrue, this is why that&rsquo;s false.&rsquo;&rdquo;",
+            "Two failures, and they are opposite. The first is not accepting a correction that is "
+            "right. The second is not bothering to answer a charge that is wrong. Between them they "
+            "describe somebody who has stopped treating criticism as information of any kind &mdash; "
+            "who neither concedes nor refutes, because the question of whether the criticism is "
+            "accurate has ceased to matter to them.",
+            "The positive half states the same test the other way: when a criticism is valid, they "
+            "admit it and are not scornful; when it is baseless, they take the trouble to explain why "
+            "it is false. That is a two-line diagnostic anybody can apply to themselves, and it is "
+            "sharper than the usual advice to be humble, because it also requires you to defend "
+            "yourself when you are right."]),
+        ("The creepers", [
+            "&ldquo;Suppose a sal, axlewood, or boxwood tree was choked and engulfed by three "
+            "camel&rsquo;s foot creepers. It would fall to ruin and disaster.&rdquo;",
+            "A <em>māluvā</em> creeper is a strangler: it grows up a host tree, wraps it, and brings "
+            "it down. Three of them on one tree is the image for three roots in one person, and the "
+            "tree species named are all hardwoods &mdash; the point is not that the tree was weak.",
+            "The positive half extends the simile at length and it is worth reading in full. Somebody "
+            "comes with a spade and a basket; cuts the creeper out by the roots, digs them up, pulls "
+            "them out down to the fibers and stems; splits the creeper apart, cuts up the parts, "
+            "chops them into splinters, dries the splinters in wind and sun, burns them, reduces them "
+            "to ashes, and scatters the ashes in a strong wind or floats them down a swift stream.",
+            "Nine operations, where the ordinary formula for something ended uses four. The "
+            "elaboration is the same one AN 3.34 applied to burnt seed, and the excess is the point: "
+            "the discourse is describing an ending that leaves nothing that could take root."]),
+        ("What the good half actually promises", [
+            "The positive version is not a mirror image. A person with the three skillful roots does "
+            "not merely avoid misusing power; the discourse says the unskillful qualities born of the "
+            "three roots are <em>cut off at the root, made like a palm stump, obliterated, and unable "
+            "to arise in the future</em>, and that such a person is <em>in this very life happy, free "
+            "of distress, anguish, and fever, and also extinguished in this very life.</em>",
+            "<em>Diṭṭheva dhamme parinibbuto</em> &mdash; extinguished in this very life. So the "
+            "positive half of the discourse is not describing a decent person; it is describing "
+            "somebody finished. That is a large claim to attach to a discussion of contentment, love, "
+            "and understanding, and it is consistent with AN 3.55, where extinguishment was defined "
+            "as exactly the ending of the three roots.",
+            "The asymmetry is worth pointing out to a class. The bad case is ordinary and "
+            "recognizable &mdash; a person with power who abuses it and cannot take criticism. The "
+            "good case is not the ordinary opposite of that. There is no middle figure in this "
+            "discourse, and the collection generally does not supply one."]),
+        ("Using it", [
+            "The speech test is the part that transfers, and it can be taught in two minutes to any "
+            "audience: how do you respond when a criticism is right, and how do you respond when it "
+            "is wrong? Somebody who fails both is the person this discourse is describing.",
+            "The political material is worth reading aloud rather than summarizing, because a class "
+            "will not expect it. A text on the psychology of greed pauses to describe wrongful "
+            "execution, imprisonment, confiscation, and banishment carried out by somebody who wants "
+            "power, and then goes back to the psychology. The two subjects are not separated in the "
+            "discourse, and the reason they are not is its actual claim."]),
+    ],
+    terms=[
+        ("akusalamūla",
+         "&ldquo;unskillful root&rdquo; &mdash; greed, hate, and delusion, called roots because "
+         "conduct grows from them rather than being them."),
+        ("balavā balattho",
+         "&ldquo;I&rsquo;m powerful, I want power&rdquo; &mdash; the motive the discourse puts in the "
+         "offender&rsquo;s own mouth, given without any justifying reason."),
+        ("vadha bandha jāni garaha pabbājana",
+         "&ldquo;execution, imprisonment, confiscation, condemnation, banishment&rdquo; &mdash; five "
+         "penalties, all of them instruments of an institution rather than of a private quarrel."),
+        ("māluvā",
+         "&ldquo;camel&rsquo;s foot creeper&rdquo; &mdash; a strangling vine that climbs a host tree "
+         "and brings it down. Three of them on one hardwood is the image for three roots in one "
+         "person."),
+        ("diṭṭheva dhamme parinibbuto",
+         "&ldquo;extinguished in this very life&rdquo; &mdash; what the positive half claims for a "
+         "person in whom the three roots are cut off, consistent with the definition at AN 3.55."),
+    ],
+    text_intro=(
+        "The discourse in full, both halves with their similes. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three unskillful roots"),
+        ("p", "&sect;1", "an3.69:1.1-1.3"),
+        ("p", "&sect;2&ndash;4", "an3.69:2.1-4.5"),
+        ("h3", "How such a person answers criticism"),
+        ("p", "&sect;5", "an3.69:5.1-5.5"),
+        ("p", "&sect;6&ndash;8", "an3.69:6.1-8.4"),
+        ("h3", "Three skillful roots"),
+        ("p", "&sect;9&ndash;12", "an3.69:9.1-12.5"),
+        ("p", "&sect;13", "an3.69:13.1-13.6"),
+        ("h3", "The creepers dug out"),
+        ("p", "&sect;14&ndash;16", "an3.69:14.1-16.5"),
+    ],
+    quiz=[
+        {"q": "Which clause recurs nine times in the discourse?",
+         "opts": [
+             "That the person is reborn in hell",
+             "That the person causes another to suffer under a false pretext &mdash; by execution, imprisonment, confiscation, condemnation, or banishment &mdash; thinking &ldquo;I&rsquo;m powerful, I want power&rdquo;",
+             "That the person lies",
+             "That the person is unwise"],
+         "correct": 1,
+         "expl": "The subject is not private vice but what the roots do when the person who has them can have somebody arrested."},
+        {"q": "What is notable about the five penalties named?",
+         "opts": [
+             "They are all financial",
+             "They are all reversible",
+             "They are instruments of an institution rather than of a private quarrel",
+             "They are all mentioned in the Vinaya"],
+         "correct": 2,
+         "expl": "And the description names no ruler, so it fits anybody who can punish somebody else."},
+        {"q": "How is the motive stated?",
+         "opts": [
+             "That the victim deserved it",
+             "That a larger good required it",
+             "In the person&rsquo;s own words &mdash; &ldquo;I&rsquo;m powerful, I want power&rdquo; &mdash; with no justifying reason at all",
+             "That the person was deceived"],
+         "correct": 2,
+         "expl": "The stated reason for using the apparatus is that it is available."},
+        {"q": "What two opposite failures make up the test of speech?",
+         "opts": [
+             "Speaking too much and too little",
+             "Not accepting a correction that is right, and not bothering to answer a charge that is wrong",
+             "Lying and boasting",
+             "Flattering and insulting"],
+         "correct": 1,
+         "expl": "Between them they describe somebody who has stopped treating criticism as information of any kind."},
+        {"q": "Why does the guide call the positive form of that test sharper than usual advice?",
+         "opts": [
+             "Because it is longer",
+             "Because it also requires you to defend yourself when you are right, not only to concede when you are wrong",
+             "Because it applies only to monastics",
+             "Because it involves punishment"],
+         "correct": 1,
+         "expl": "A two-line diagnostic anybody can apply to themselves."},
+        {"q": "What is a <em>māluvā</em>?",
+         "opts": [
+             "A hardwood tree",
+             "A strangling creeper that climbs a host tree and brings it down",
+             "A kind of spade",
+             "A garden flower"],
+         "correct": 1,
+         "expl": "Three of them on one tree is the image for three roots in one person."},
+        {"q": "Why does the guide note the species of the host trees?",
+         "opts": [
+             "Because they are rare",
+             "Because they are all hardwoods &mdash; the point is not that the tree was weak",
+             "Because they are sacred",
+             "Because they are named in the Vinaya"],
+         "correct": 1,
+         "expl": "Sal, axlewood, or boxwood."},
+        {"q": "How many operations does the removal of the creeper take?",
+         "opts": [
+             "One",
+             "Three",
+             "Nine &mdash; against the four of the ordinary formula, and the excess is the point",
+             "Two"],
+         "correct": 2,
+         "expl": "An ending that leaves nothing that could take root."},
+        {"q": "What does the positive half claim for such a person?",
+         "opts": [
+             "That they will be reborn in heaven",
+             "That they are happy in this very life, free of distress, anguish, and fever &mdash; and extinguished in this very life",
+             "That they will be praised",
+             "That they will be given power"],
+         "correct": 1,
+         "expl": "Consistent with AN 3.55, where extinguishment was defined as exactly the ending of the three roots."},
+        {"q": "What asymmetry does the guide point out?",
+         "opts": [
+             "That the bad case is ordinary and recognizable while the good case is somebody finished &mdash; with no middle figure supplied",
+             "That the good half is longer",
+             "That only the bad half has a simile",
+             "That the roots differ in number"],
+         "correct": 0,
+         "expl": "The collection generally does not supply a middle figure."},
+    ],
+    marginalia=[
+        ("Five penalties", [
+            "execution &middot; imprisonment",
+            "confiscation &middot; condemnation",
+            "banishment",
+            "&mdash; under a false pretext",
+        ]),
+        ("The motive", [
+            "&ldquo;I&rsquo;m powerful,",
+            "I want power&rdquo;",
+            "&mdash; and no other reason given",
+        ]),
+        ("Two failures", [
+            "valid criticism &middot; scornful, admits nothing",
+            "baseless criticism &middot; no effort to explain",
+        ]),
+        ("Cross-references", [
+            "AN 3.50 &middot; relying on the powerful",
+            "AN 3.68 &middot; the roots compared",
+            "AN 3.55 &middot; extinguishment defined",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.69/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.50.html">AN 3.50 &middot; A Master Thief</a> &mdash; the chapter&rsquo;s other '
+        "discourse about protection by rulers and chief ministers, seen from the other side: there a "
+        "wrongdoer shelters behind power, here a wrongdoer wields it.",
+        '<a href="/sutras/brahma-net-sutra/chapter-10/">Brahma Net Sutra &middot; minor precepts '
+        "11&ndash;20</a> &mdash; where a Chinese Mahāyāna code turns the same concerns into "
+        "rules: refusing war logistics, refusing to trade in persons and the instruments of death, "
+        "and the precept against false accusation.",
+        '<a href="an-3.55.html">AN 3.55 &middot; Quenched</a> &mdash; for the definition this '
+        "discourse&rsquo;s positive half depends on: extinguishment as the ending of greed, hate, and "
+        "delusion, experienced.",
+    ],
+)
+
+
+page(
+    70, "Uposatha", "Sabbath",
+    vagga=VAGGA_7,
+    meta_title="AN 3.70 — Sabbath | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Uposathasutta — three "
+        "kinds of sabbath, six recollections with five similes for cleaning, the eight factors, "
+        "and the lifespans of the gods. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in the stilt longhouse of Migāra&rsquo;s mother in the Eastern "
+                    "Monastery"),
+        ("Speakers", "Visākhā, Migāra&rsquo;s mother, and the Buddha"),
+        ("Form", "A question about where she has been, three kinds of sabbath, six recollections each "
+                 "with a cleaning simile, eight undertakings, a comparison with kingship, six "
+                 "heavenly lifespans, and closing verses"),
+        ("Length", "~18 minutes to read"),
+        ("Northern parallel", "The eight-factored sabbath and the recollections are preserved in the "
+                              "Chinese Āgamas, and the observance became the 八關齋戒 of East Asian "
+                              "practice; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; by far the longest discourse in "
+                       "the Threes, and the least difficult"),
+    ],
+    why=(
+        "The Buddha asks Visākhā where she is coming from in the middle of the day, and she says she "
+        "is keeping the sabbath. What follows is the fullest account in the collection of what a lay "
+        "observance day is for: two ways of doing it that are worthless, one that is not, six things "
+        "to bring to mind with a household simile attached to each, eight undertakings phrased as "
+        "imitation of the perfected ones, and a closing valuation that puts one such day above "
+        "sovereignty over sixteen kingdoms."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A day of observance is worth nothing if the mind spends it on lunch or on a formula "
+            "nobody means, and worth more than a kingdom if it is spent cleaning."]),
+        ("Visākhā, and the question that opens it", [
+            "Visākhā is the foremost female lay donor of the canon and the monastery they are sitting "
+            "in is named after her &mdash; the stilt longhouse of Migāra&rsquo;s mother, which she "
+            "built. The opening is domestic: <em>where are you coming from in the middle of the "
+            "day?</em>",
+            "It is worth pointing out that the longest discourse in the Threes, and its most complete "
+            "statement of lay practice, is addressed to a woman, and that the reward formula "
+            "throughout says <em>some woman or man</em> rather than defaulting to the masculine. That "
+            "phrasing is repeated six times and it is not accidental.",
+            "The whole discourse is an answer to a woman who was already doing the thing correctly. "
+            "Nothing in it corrects her."]),
+        ("The cowherd&rsquo;s sabbath", [
+            "The first worthless version is not wickedness but distraction. A cowherd returning the "
+            "cattle in the evening thinks about where they grazed today and where they will graze "
+            "tomorrow. Somebody keeping the sabbath thinks: <em>today I ate this and that; tomorrow "
+            "I&rsquo;ll eat this and that.</em> And so the day is spent <em>with a mind full of "
+            "covetousness.</em>",
+            "This is exact and slightly funny, and it is the version most people who have tried a day "
+            "of fasting will recognize. The precepts are being kept. The body is doing the right "
+            "thing all day and the mind is running an inventory of meals.",
+            "The verdict is measured rather than scornful: <em>not very fruitful or beneficial or "
+            "dazzling or bountiful.</em> Not worthless, and not condemned &mdash; just far below what "
+            "the day could have been."]),
+        ("The Jain sabbath, and a necessary caution", [
+            "The second version is a polemic against a living rival religion, and it should be "
+            "handled carefully rather than passed on as reportage.",
+            "Two charges are made. First, that Jain teachers instruct their followers not to harm "
+            "creatures more than a hundred leagues away in each direction, <em>and so they encourage "
+            "kindness and sympathy for some creatures and not others.</em> Second, that on the "
+            "observance day the disciples strip and declare <em>I don&rsquo;t belong to anyone "
+            "anywhere, and nothing belongs to me anywhere</em>, while their families and servants "
+            "continue to regard them as kin and master &mdash; so the declaration is a lie, and "
+            "taking the property back the next morning is theft.",
+            "The honest thing to say is that the first charge does not describe Jainism. Jain "
+            "<em>ahiṁsā</em> is famously unrestricted &mdash; it is the most thoroughgoing "
+            "non-violence produced by any Indian tradition &mdash; and no Jain source teaches a "
+            "hundred-league limit. The canon misreports its rivals elsewhere too, and this looks like "
+            "a garbled version of something else, possibly a formula about the scope of a vow taken "
+            "for a limited period.",
+            "The second charge is a hostile reading of a real practice rather than an invention. The "
+            "Jain observance does involve a temporary renunciation formula of that kind, and the "
+            "discourse is arguing that a renunciation which lapses at dawn was never a renunciation. "
+            "Whether that is fair depends on whether a temporary vow is supposed to be a claim about "
+            "fact, which a Jain would deny.",
+            "What survives when the polemic is set aside is a real point and the discourse&rsquo;s "
+            "own: a formula said with the mouth while nothing changes is not an observance. That "
+            "criticism applies to Buddhists taking the eight precepts as much as to anybody, and a "
+            "teacher can make it without repeating the misdescription."]),
+        ("Six recollections, five household similes", [
+            "The noble one&rsquo;s sabbath is defined by a single phrase repeated throughout: <em>a "
+            "corrupt mind is cleaned by applying effort.</em> Everything that follows is an "
+            "elaboration of that sentence.",
+            "The recollections are of the Buddha, the teaching, the Saṅgha, one&rsquo;s own ethical "
+            "conduct, and the deities. Each is followed by the same result &mdash; the mind becomes "
+            "clear, joy arises, corruptions are given up &mdash; and each is illustrated by cleaning "
+            "something, with the cleaning agents specified:",
+            "A dirty head, with cleansing paste, clay, and water. A dirty body, with cleanser, "
+            "powder, and water. A dirty cloth, with salt, lye, cow dung, and water. A dirty mirror, "
+            "with oil, ash, and a rolled-up cloth. Corrupt native gold, with a furnace, flux, a "
+            "blowpipe, and tongs.",
+            "The list runs from the most ordinary to the most technical, and every item is domestic "
+            "or artisanal. Nothing in it is a religious image. The claim being made by the sequence "
+            "is that a mind is the kind of thing that gets dirty in the ordinary way and is cleaned "
+            "by the ordinary means: the right material and the appropriate effort.",
+            "Each recollection also earns a name for the day: the sabbath of the divinity, of the "
+            "Dhamma, of the Saṅgha, of ethical conduct, of the deities &mdash; and in each case the "
+            "practitioner is described as <em>living together with</em> what they recollect. That is "
+            "the discourse&rsquo;s account of what a religious observance actually does: it puts you "
+            "in company."]),
+        ("Eight undertakings, and how they are phrased", [
+            "The precepts are not given as commands. Each is a two-part reflection: <em>as long as "
+            "they live, the perfected ones give up killing living creatures &hellip; I, too, for this "
+            "day and night will give up killing living creatures &hellip; I will observe the sabbath "
+            "by doing as the perfected ones do in this respect.</em>",
+            "So the eight factors are framed as a day of imitation, with the difference stated openly "
+            "each time: they do this for life, I will do it for a day and a night. That framing does "
+            "a good deal of work. It removes the suggestion that a layperson keeping eight precepts "
+            "is doing something second-rate, and it also prevents them from thinking they have done "
+            "what a monastic does.",
+            "The eight are the five precepts with celibacy in place of the third, plus no eating at "
+            "the wrong time, no shows and adornment, and no high or luxurious beds &mdash; the last "
+            "being the rule AN 3.63 cites when the Buddha declines the brahmin&rsquo;s assumption "
+            "about his bedding."]),
+        ("The valuation, and the arithmetic", [
+            "&ldquo;Suppose you were to rule as sovereign lord over these sixteen great "
+            "countries&hellip; This wouldn&rsquo;t be worth a sixteenth part of the sabbath with its "
+            "eight factors.&rdquo; The sixteen kingdoms are then named, which dates the passage: it "
+            "is the political map of the Buddha&rsquo;s India.",
+            "Then six heavenly realms with their arithmetic. Fifty human years are one day for the "
+            "gods of the four great kings, who live five hundred such years; a hundred human years "
+            "for the thirty-three, who live a thousand; and so on doubling up to the gods who control "
+            "what is created by others, sixteen hundred human years to their day and sixteen thousand "
+            "years of life.",
+            "Two things are worth saying about this passage to a modern class. The first is that the "
+            "arithmetic is doing rhetorical work rather than reporting a survey: the doubling is "
+            "regular and the effect is to make the numbers stop meaning anything, which is the point "
+            "of a comparison whose conclusion is <em>human kingship is a poor thing.</em>",
+            "The second is that it is a heavenly-rebirth teaching given to a lay donor, and the canon "
+            "does not apologize for that. Visākhā is not being taught the ending of rebirth here. She "
+            "is being told that a day of observance outweighs an empire, in a currency she and her "
+            "society already used. AN 3.18, earlier in this collection, is the place where the same "
+            "collection turns around and calls rebirth in heaven undesirable &mdash; and the two "
+            "discourses are addressed to different audiences for different purposes."]),
+    ],
+    terms=[
+        ("uposatha",
+         "the observance day, kept by laypeople with eight factors. Inherited in East Asia as the "
+         "八關齋戒, with the days as the 六齋日."),
+        ("gopālakuposatha",
+         "&ldquo;the cowherd&rsquo;s sabbath&rdquo; &mdash; the precepts kept while the mind runs an "
+         "inventory of meals."),
+        ("upakkiliṭṭhassa cittassa upakkamena pariyodapanā",
+         "&ldquo;a corrupt mind is cleaned by applying effort&rdquo; &mdash; the sentence the whole "
+         "third section elaborates, and the reason every simile in it is a cleaning simile."),
+        ("saddhiṁvihārī",
+         "&ldquo;living together with&rdquo; &mdash; said of one who recollects the Buddha, the "
+         "teaching, the Saṅgha, ethics, or the deities. An observance puts you in company."),
+        ("itthī vā puriso vā",
+         "&ldquo;some woman or man&rdquo; &mdash; the phrasing of the reward formula, repeated six "
+         "times in a discourse addressed to a woman."),
+    ],
+    text_intro=(
+        "The discourse in full, including all six recollections and the heavenly lifespans. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Where are you coming from?"),
+        ("p", "&sect;1", "an3.70:1.1-1.5"),
+        ("h3", "The cowherd&rsquo;s sabbath"),
+        ("p", "&sect;2", "an3.70:2.1-2.13"),
+        ("h3", "The Jain sabbath"),
+        ("p", "&sect;3", "an3.70:3.1-3.29"),
+        ("h3", "Recollecting the Buddha, the teaching, the Saṅgha"),
+        ("p", "&sect;4&ndash;6", "an3.70:4.1-6.7"),
+        ("p", "&sect;7&ndash;9", "an3.70:7.1-9.6"),
+        ("p", "&sect;10&ndash;12", "an3.70:10.1-12.6"),
+        ("h3", "Recollecting one&rsquo;s conduct, and the deities"),
+        ("p", "&sect;13&ndash;15", "an3.70:13.1-15.5"),
+        ("p", "&sect;16&ndash;18", "an3.70:16.1-18.11"),
+        ("h3", "Eight undertakings"),
+        ("p", "&sect;19&ndash;22", "an3.70:19.1-22.3"),
+        ("p", "&sect;23&ndash;26", "an3.70:23.1-26.3"),
+        ("h3", "What it is worth"),
+        ("p", "&sect;27&ndash;28", "an3.70:27.1-28.5"),
+        ("p", "&sect;29&ndash;30", "an3.70:29.1-30.7"),
+        ("p", "&sect;31&ndash;32", "an3.70:31.1-32.7"),
+        ("p", "&sect;33&ndash;34", "an3.70:33.1-34.7"),
+        ("h3", "In verse"),
+        ("p", "&sect;35&ndash;36", "an3.70:35.1-36.4"),
+        ("p", "&sect;37&ndash;39", "an3.70:37.1-39.3"),
+        ("p", "&sect;40", "an3.70:40.1-40.4"),
+    ],
+    quiz=[
+        {"q": "How does the discourse open?",
+         "opts": [
+             "With a question from Visākhā",
+             "With the Buddha asking Visākhā where she is coming from in the middle of the day",
+             "With a dispute about the precepts",
+             "With a description of the gods"],
+         "correct": 1,
+         "expl": "The longest discourse in the Threes begins with a domestic question."},
+        {"q": "What does the guide note about the reward formula?",
+         "opts": [
+             "That it says &ldquo;some woman or man&rdquo; rather than defaulting to the masculine, repeated six times in a discourse addressed to a woman",
+             "That it names Visākhā each time",
+             "That it applies only to monastics",
+             "That it is in verse"],
+         "correct": 0,
+         "expl": "And it is not accidental."},
+        {"q": "What is the cowherd&rsquo;s sabbath?",
+         "opts": [
+             "Keeping the precepts badly",
+             "Working through the observance day",
+             "Keeping the precepts while the mind runs an inventory of meals eaten and meals to come",
+             "Observing on the wrong day"],
+         "correct": 2,
+         "expl": "The body is doing the right thing all day and the mind is elsewhere."},
+        {"q": "How harsh is the verdict on it?",
+         "opts": [
+             "It is condemned as wicked",
+             "It is called not very fruitful, beneficial, dazzling, or bountiful &mdash; measured rather than scornful",
+             "It is said to lead to hell",
+             "It is called worthless"],
+         "correct": 1,
+         "expl": "Far below what the day could have been, but not condemned."},
+        {"q": "What does the guide say about the first charge against the Jains?",
+         "opts": [
+             "That it is accurate",
+             "That it does not describe Jainism &mdash; Jain <em>ahiṁsā</em> is famously unrestricted, and no Jain source teaches a hundred-league limit",
+             "That Jains no longer exist",
+             "That it is a later interpolation"],
+         "correct": 1,
+         "expl": "The canon misreports its rivals elsewhere too."},
+        {"q": "How does the guide treat the second charge?",
+         "opts": [
+             "As invented",
+             "As a hostile reading of a real practice &mdash; the argument being that a renunciation which lapses at dawn was never one, which a Jain would dispute",
+             "As proof of Jain dishonesty",
+             "As irrelevant"],
+         "correct": 1,
+         "expl": "Whether it is fair depends on whether a temporary vow is supposed to be a claim about fact."},
+        {"q": "What survives when the polemic is set aside?",
+         "opts": [
+             "Nothing",
+             "That a formula said with the mouth while nothing changes is not an observance &mdash; a criticism that applies to Buddhists taking the eight precepts as much as to anybody",
+             "That other religions are false",
+             "That nakedness is wrong"],
+         "correct": 1,
+         "expl": "A teacher can make the point without repeating the misdescription."},
+        {"q": "What sentence does the third section elaborate throughout?",
+         "opts": [
+             "&ldquo;All conditions are impermanent.&rdquo;",
+             "&ldquo;A corrupt mind is cleaned by applying effort.&rdquo;",
+             "&ldquo;The gods are watching.&rdquo;",
+             "&ldquo;Merit is the highest good.&rdquo;"],
+         "correct": 1,
+         "expl": "Which is why every simile in it is a cleaning simile."},
+        {"q": "What do the five cleaning similes have in common?",
+         "opts": [
+             "They are all religious images",
+             "They are all domestic or artisanal &mdash; a head, a body, a cloth, a mirror, native gold &mdash; with the cleaning agents specified",
+             "They all involve water",
+             "They all involve fire"],
+         "correct": 1,
+         "expl": "A mind is the kind of thing that gets dirty in the ordinary way and is cleaned by ordinary means."},
+        {"q": "How are the eight factors phrased?",
+         "opts": [
+             "As commands",
+             "As vows for life",
+             "As imitation &mdash; the perfected ones do this as long as they live; I will do it for this day and night",
+             "As conditions for rebirth"],
+         "correct": 2,
+         "expl": "It removes the suggestion that eight precepts are second-rate, and prevents mistaking a day for a life."},
+    ],
+    marginalia=[
+        ("Three sabbaths", [
+            "the cowherd&rsquo;s &middot; thinking of meals",
+            "the Jain&rsquo;s &middot; a formula that lapses",
+            "the noble one&rsquo;s &middot; a mind cleaned",
+        ]),
+        ("Five cleanings", [
+            "head &middot; paste, clay, water",
+            "body &middot; cleanser, powder",
+            "cloth &middot; salt, lye, cow dung",
+            "mirror &middot; oil, ash &middot; gold &middot; furnace, tongs",
+        ]),
+        ("The phrasing", [
+            "&ldquo;as long as they live &hellip;&rdquo;",
+            "&ldquo;I, too, for this day and night &hellip;&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 3.37 &middot; the sabbath days",
+            "AN 3.18 &middot; heaven called undesirable",
+            "AN 3.63 &middot; the rule about beds",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.70/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.37.html">AN 3.37 &middot; The Four Great Kings (1st)</a> &mdash; for the days '
+        "on which this observance falls, and for Sakka&rsquo;s verse recommending it, which the "
+        "Buddha rejects on grounds that have nothing to do with the recommendation.",
+        '<a href="/sutras/upasaka-precepts-sutra/chapter-21/">Sutra on Upasaka Precepts &middot; '
+        "Chapter 21</a> &mdash; the Chinese Mahāyāna treatment of the same eight-precept fast, "
+        "measured against four kingdoms&rsquo; worth of treasure, which is the same argument as this "
+        "discourse&rsquo;s sixteen countries.",
+        '<a href="../majjhima-nikaya/mn-056.html">MN 56 &middot; With Upāli</a> &mdash; the '
+        "canon&rsquo;s fullest encounter with the Jains, and the necessary corrective to the "
+        "second-hand account given here: a Jain layman argues at length in his own words, and the "
+        "discourse takes his position seriously enough to state it.",
+        '<a href="an-3.18.html">AN 3.18 &middot; The Realm of the Gods</a> &mdash; where this same '
+        "collection calls rebirth among the gods undesirable, which is worth reading beside this "
+        "discourse&rsquo;s six heavens and their arithmetic.",
+    ],
+)
