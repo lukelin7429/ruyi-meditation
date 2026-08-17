@@ -41802,3 +41802,2440 @@ page(
         "knowledges this discourse&rsquo;s memorization depends on.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Brāhmaṇavagga — the nineteenth chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_19 = "<em>Brāhmaṇavagga</em> &mdash; the nineteenth chapter of the Fours"
+SETTING_19 = ("None stated; the Brāhmaṇavagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.181 — Yodhājīvasutta
+# --------------------------------------------------------------------------- #
+page(
+    181, "Yodhājīva", "A Warrior",
+    vagga=VAGGA_19,
+    meta_title="AN 4.181 — A Warrior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Yodhājīvasutta — a "
+        "warrior's four qualifications mapped onto a mendicant: ethics as the basics, seeing all "
+        "five aggregates as not-self as long-range shooting, the four truths as marksmanship, and "
+        "shattering ignorance. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_19),
+        ("Speakers", SPEAKER),
+        ("Form", "A military simile stated, then each of its four terms mapped and defined"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Warrior similes for spiritual accomplishment are attested across the "
+                              "early collections; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clear simile, mapped without "
+                       "remainder onto four things already familiar from this nipāta"),
+    ],
+    why=(
+        "A warrior with four factors is fit to serve a king: skilled in the basics, a "
+        "long-distance shooter, a marksman, one who shatters large objects. A mendicant with the "
+        "matching four is the supreme field of merit for the world. The simile is not decorative "
+        "&mdash; each of the four terms gets mapped onto something exact: the training rules, the "
+        "five aggregates seen as not-self, the four noble truths, and the destruction of "
+        "ignorance itself."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A warrior&rsquo;s four qualifications are matched, term for term, to four qualities "
+            "that make a mendicant worthy of the highest offerings."]),
+        ("The four military terms", [
+            "<em>Ṭhānakusala</em>, skilled in the basics &mdash; the fundamentals of stance and "
+            "handling before anything else. <em>Dūrepātī</em>, a long-distance shooter, one whose "
+            "arrows reach far. <em>Akkhaṇavedhī</em>, a marksman, one who strikes the vital point "
+            "precisely, without missing. And one who <em>mahato kāyassa padāletā</em>, shatters a "
+            "large mass &mdash; breaks open something substantial that a lesser blow would not "
+            "dent.",
+            "The four are not arbitrary military virtues chosen for effect. They form a natural "
+            "sequence: grounding, reach, precision, and force sufficient to break something "
+            "genuinely large. Each of the four mendicant-qualities that follows preserves exactly "
+            "that logic."]),
+        ("Skilled in the basics: ethics", [
+            "The mendicant version is given in the collection&rsquo;s standard formula for ethical "
+            "conduct: <em>sīlavā</em>, ethical, restrained by the monastic code, well-conducted, "
+            "resorting for alms in suitable places, seeing danger in the slightest fault and "
+            "keeping the rules undertaken.",
+            "This is the fundamental stance, and the simile is precise about its place: it is what "
+            "a warrior does before anything else is possible, not a separate achievement standing "
+            "beside the other three. Everything that follows is built on it."]),
+        ("A long-distance shooter: the five aggregates seen as not-self", [
+            "This is the discourse&rsquo;s largest section by far, because &lsquo;long-distance&rsquo; "
+            "is mapped onto range in the most literal sense available: seeing every possible "
+            "instance of form, feeling, perception, choices, and consciousness &mdash; past, "
+            "future, or present, internal or external, solid or subtle, inferior or superior, far "
+            "or near, <em>all</em> of it &mdash; with the same three-part understanding, &lsquo;this "
+            "is not mine, I am not this, this is not my self&rsquo;.",
+            "The reach of the arrow is the reach of the seeing. A shooter who can only hit what is "
+            "close is not a long-distance shooter, and a practitioner who can see impermanence in "
+            "the present moment but not across every temporal and qualitative range of the "
+            "aggregates has not yet done what this term names. The formula&rsquo;s exhaustive "
+            "listing &mdash; past/future/present, internal/external, and the rest &mdash; is not "
+            "padding; it is the discourse insisting the range actually be total."]),
+        ("A marksman: the four noble truths", [
+            "Truly understanding <em>this is suffering&hellip; this is the origin of "
+            "suffering&hellip; this is the cessation of suffering&hellip; this is the practice that "
+            "leads to the cessation of suffering</em> is called marksmanship &mdash; hitting the "
+            "vital point precisely.",
+            "Where the previous quality was about range, this one is about accuracy: four things, "
+            "understood exactly, without missing any of the four or blurring one into another. The "
+            "same four truths reappear as the definition of &lsquo;penetrating wisdom&rsquo; in AN "
+            "4.186, later in this chapter, and this discourse&rsquo;s marksman image gives that "
+            "later definition a concrete picture to stand on."]),
+        ("Shattering large objects: the mass of ignorance", [
+            "The fourth quality closes the sequence with force rather than precision: "
+            "<em>shattering the great mass of ignorance</em>, <em>mahantaṁ avijjākkhandhaṁ "
+            "padāletā</em>. Where the marksman hits a point, this quality breaks open something "
+            "large.",
+            "The word <em>khandha</em>, mass or aggregate, is the same word used for the five "
+            "aggregates the second quality saw through. Ignorance here is described with the same "
+            "vocabulary of bulk and substance as the very thing being seen through &mdash; a "
+            "reminder that what is being broken is not a small obstacle but something with real "
+            "mass, requiring more than a well-aimed shot.",
+            "The discourse ends by restoring the full honorific formula it opened with: such a "
+            "mendicant is worthy of offerings dedicated to the gods, worthy of hospitality, worthy "
+            "of a religious donation, worthy of veneration with cupped palms, and the supreme field "
+            "of merit for the world. The same formula closes this chapter&rsquo;s final discourse, "
+            "AN 4.190, applied there to an entire assembly rather than to one mendicant."],
+        ),
+    ],
+    terms=[
+        ("ṭhānakusala",
+         "&ldquo;skilled in the basics&rdquo; &mdash; the fundamentals of stance; mapped onto "
+         "ordinary ethical conduct, the ground everything else stands on."),
+        ("dūrepātī",
+         "&ldquo;long-distance shooter&rdquo; &mdash; mapped onto seeing every instance of the five "
+         "aggregates, across every temporal and qualitative range, as not-self."),
+        ("akkhaṇavedhī",
+         "&ldquo;marksman&rdquo; &mdash; hitting the vital point without missing; mapped onto the "
+         "four noble truths, understood exactly."),
+        ("mahato kāyassa padāletā",
+         "&ldquo;one who shatters a large mass&rdquo; &mdash; mapped onto breaking open "
+         "<em>avijjākkhandha</em>, the great mass of ignorance."),
+        ("khandha",
+         "&ldquo;mass&rdquo;, aggregate &mdash; the same word for the five aggregates seen through "
+         "by the second quality, applied here to the bulk of ignorance itself."),
+    ],
+    text_intro=(
+        "The discourse in full: the warrior simile, and each of its four terms defined in turn. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A warrior&rsquo;s four factors"),
+        ("p", "&sect;1", "an4.181:1.1-1.7"),
+        ("h3", "Skilled in the basics"),
+        ("p", "&sect;2", "an4.181:2.1-2.3"),
+        ("h3", "A long-distance shooter"),
+        ("p", "&sect;3", "an4.181:3.1-3.7"),
+        ("h3", "A marksman"),
+        ("p", "&sect;4", "an4.181:4.1-4.3"),
+        ("h3", "One who shatters large objects"),
+        ("p", "&sect;5", "an4.181:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What four qualifications make a warrior fit to serve a king?",
+         "opts": [
+             "Courage, loyalty, strength, and speed",
+             "Skilled in the basics, a long-distance shooter, a marksman, one who shatters large objects",
+             "Wealth, rank, training, and reputation",
+             "Discipline, obedience, patience, and stealth"],
+         "correct": 1,
+         "expl": "Mapped term for term onto four qualities of a mendicant."},
+        {"q": "What does &lsquo;skilled in the basics&rsquo; map onto?",
+         "opts": [
+             "Meditative attainment",
+             "Ordinary ethical conduct &mdash; the standard formula for a mendicant restrained by the monastic code",
+             "Wisdom",
+             "Teaching ability"],
+         "correct": 1,
+         "expl": "The ground everything else is built on, not a separate achievement."},
+        {"q": "What does &lsquo;long-distance shooter&rsquo; map onto?",
+         "opts": [
+             "Traveling widely to teach",
+             "Seeing every instance of the five aggregates, across all temporal and qualitative ranges, as not-self",
+             "Living a long life",
+             "Memorizing many teachings"],
+         "correct": 1,
+         "expl": "The formula&rsquo;s exhaustive list insists the range be total, not merely present-moment."},
+        {"q": "What does &lsquo;marksman&rsquo; map onto?",
+         "opts": [
+             "The five aggregates",
+             "The four noble truths, understood exactly and without missing any",
+             "The five faculties",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "Precision, where the previous quality was about range."},
+        {"q": "What does &lsquo;one who shatters large objects&rsquo; map onto?",
+         "opts": [
+             "Overcoming a rival teacher",
+             "Shattering the great mass of ignorance",
+             "Breaking a monastic rule",
+             "Destroying an enemy army"],
+         "correct": 1,
+         "expl": "Force rather than precision, closing the sequence."},
+        {"q": "What word connects &lsquo;the mass of ignorance&rsquo; to the second quality?",
+         "opts": [
+             "<em>Dūrepātī</em>",
+             "<em>Khandha</em>, the same word used for the five aggregates",
+             "<em>Ṭhāna</em>",
+             "<em>Akkhaṇa</em>"],
+         "correct": 1,
+         "expl": "Ignorance is described with the same vocabulary of bulk as what the second quality sees through."},
+        {"q": "What underlying logic connects the four military terms?",
+         "opts": [
+             "They are unrelated virtues listed together",
+             "A natural sequence: grounding, reach, precision, and force sufficient to break something large",
+             "Increasing danger",
+             "Decreasing skill"],
+         "correct": 1,
+         "expl": "Each mendicant-quality preserves exactly that logic."},
+        {"q": "What formula does the discourse restore at its close?",
+         "opts": [
+             "The warrior simile, repeated",
+             "Worthy of offerings, hospitality, donation, veneration, and the supreme field of merit for the world",
+             "The four noble truths",
+             "The five aggregates formula"],
+         "correct": 1,
+         "expl": "The same formula closes this chapter&rsquo;s final discourse, applied to an entire assembly."},
+        {"q": "Where do the same four truths reappear later in this chapter?",
+         "opts": [
+             "AN 4.182",
+             "AN 4.186, defining &lsquo;penetrating wisdom&rsquo;",
+             "AN 4.188",
+             "AN 4.189"],
+         "correct": 1,
+         "expl": "This discourse&rsquo;s marksman image gives that later definition a concrete picture."},
+        {"q": "Is the fourfold formula for skilled ethical conduct new to this discourse?",
+         "opts": [
+             "Yes, invented here",
+             "No &mdash; it is the collection&rsquo;s standard formula for ethical conduct, used elsewhere in the Fours",
+             "It is unique to warriors",
+             "It replaces the five precepts"],
+         "correct": 1,
+         "expl": "A familiar formula given a new frame."},
+    ],
+    marginalia=[
+        ("Four qualities", [
+            "skilled in the basics",
+            "long-distance shooter",
+            "marksman",
+            "shatters large objects",
+        ]),
+        ("Mapped onto", [
+            "ethics",
+            "the five aggregates, not-self",
+            "the four truths",
+            "the mass of ignorance",
+        ]),
+        ("One word, twice", [
+            "<span class=\"pali\">khandha</span>aggregate",
+            "&mdash; and mass of ignorance",
+        ]),
+        ("Cross-references", [
+            "AN 4.186 &middot; the same truths, as wisdom",
+            "AN 4.190 &middot; the same formula, for an assembly",
+            "AN 4.182 &middot; next: what no one can guarantee",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.181/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.186.html">AN 4.186 &middot; Approach</a> &mdash; where the same four truths '
+        "define penetrating wisdom.",
+        '<a href="an-4.190.html">AN 4.190 &middot; Sabbath</a> &mdash; where the same worthiness '
+        "formula closes the chapter, applied to a whole assembly.",
+        '<a href="an-4.182.html">AN 4.182 &middot; Guarantee</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.182 — Pāṭibhogasutta
+# --------------------------------------------------------------------------- #
+page(
+    182, "Pāṭibhogo", "Guarantee",
+    vagga=VAGGA_19,
+    meta_title="AN 4.182 — Guarantee | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pāṭibhogasutta — four "
+        "things no ascetic, brahmin, god, Māra, or divinity can guarantee against: old age, "
+        "sickness, death, and the ripening of past bad deeds. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_19),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, each stated once, with a fixed list of who cannot guarantee "
+                 "against them"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The inevitability of old age, sickness, and death is among the most "
+                              "widely attested claims in the early collections; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; four lines, and the list of who "
+                       "is powerless is worth reading as carefully as the list of what cannot be "
+                       "guaranteed"),
+    ],
+    why=(
+        "No one can guarantee that someone liable to old age will not grow old, that someone "
+        "liable to sickness will not get sick, that someone liable to death will not die, or that "
+        "past bad deeds will not produce their result. And the list of who cannot guarantee this "
+        "is deliberately comprehensive: not an ascetic, a brahmin, a god, a Māra, a divinity, or "
+        "anyone in the world."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four things admit no guarantee against them, from any quarter whatsoever."]),
+        ("Three inevitabilities, and a fourth kind of claim", [
+            "The first three items &mdash; old age, sickness, death &mdash; belong to the body and "
+            "recur throughout the Fours as a fixed trio, joined elsewhere by birth to make the "
+            "four unavoidable perils of AN 4.119. Here they stand alone, without birth, because "
+            "the fourth slot is given to something of a different kind entirely.",
+            "The fourth item is not a bodily inevitability but a causal one: <em>no one can "
+            "guarantee that the bad deeds done in past lives &mdash; corrupting, leading to future "
+            "lives, hurtful, resulting in suffering and future rebirth, old age, and death &mdash; "
+            "will not produce their result.</em>",
+            "That shift is worth noticing. The first three name what happens to any body simply by "
+            "having one. The fourth names a consequence that follows specifically from what a "
+            "person has done. Put together, the list moves from the inevitable facts of embodiment "
+            "to the inevitable working-out of kamma, and treats both as equally beyond anyone&rsquo;s "
+            "power to promise away."]),
+        ("Who cannot promise it", [
+            "The list of who lacks this power is not a throwaway phrase. <em>Na samaṇo na brāhmaṇo "
+            "na devo na māro na brahmā</em> &mdash; not an ascetic, not a brahmin, not a god, not "
+            "Māra, not a divinity &mdash; and then, closing the list, <em>na koci vā lokasmiṁ</em>, "
+            "nor anyone at all in the world.",
+            "The list runs from human religious authorities, through ordinary gods, to Māra "
+            "&mdash; the tempter, a figure of real power in the canon&rsquo;s cosmology &mdash; and "
+            "up to Brahmā, the highest deity the tradition names. Every rung of the hierarchy a "
+            "listener might imagine appealing to is named and dismissed in order, before the final "
+            "clause sweeps in everyone left over.",
+            "That ordering is an argument by exhaustion rather than by explanation. The discourse "
+            "does not say why old age, sickness, death, and kammic result cannot be guaranteed away; "
+            "it simply names every conceivable source of such a guarantee, from the most locally "
+            "respected to the most cosmically powerful, and denies the power to every one of them "
+            "in turn."]),
+        ("What the discourse is not saying", [
+            "This is not a discourse about fatalism, and it does not say nothing can be done about "
+            "how a person meets these four. It says specifically that no one can guarantee their "
+            "non-occurrence &mdash; a narrower and more precise claim than a general statement about "
+            "powerlessness.",
+            "AN 4.184, two discourses later in this chapter, takes up exactly what a person can do "
+            "given that these four cannot be guaranteed away: it describes what makes someone "
+            "frightened of death and what makes someone not frightened, and none of the four items "
+            "here are removed from anyone&rsquo;s life in that discourse. What changes is the "
+            "relationship to them."]),
+        ("Why this belongs in a chapter about brahmins", [
+            "This chapter is named for the brahmins who appear across several of its discourses as "
+            "the Buddha&rsquo;s interlocutors, and this particular discourse&rsquo;s naming of "
+            "<em>samaṇo</em> and <em>brāhmaṇo</em> first in its list of the powerless is not "
+            "incidental placement.",
+            "A tradition of religious specialists claiming access to rites, protections, and "
+            "guarantees is being named directly and put at the head of a list of parties who "
+            "cannot deliver on such a claim, regardless of standing. The discourse does not argue "
+            "against any specific brahmanical practice; it simply states, as a matter categorically "
+            "settled, that this particular kind of guarantee is not available to anyone, and lists "
+            "the most obvious candidates for offering it first."],
+        ),
+    ],
+    terms=[
+        ("pāṭibhoga",
+         "&ldquo;guarantee&rdquo;, surety &mdash; a legal and commercial term for someone who "
+         "stands surety for a debt or promise, applied here to what no one can stand surety for."),
+        ("jarādhamma",
+         "&ldquo;liable to old age&rdquo; &mdash; <em>dhamma</em> here in its sense of "
+         "&lsquo;nature&rsquo; or &lsquo;liability&rsquo;, a built-in property rather than a "
+         "possible event."),
+        ("saṅkilesika",
+         "&ldquo;corrupting&rdquo; &mdash; one of several qualifiers piled onto the fourth item, "
+         "the bad deeds whose result cannot be guaranteed away."),
+        ("māra",
+         "&ldquo;Māra&rdquo; &mdash; the tempter, a figure of real cosmological power in the "
+         "canon; named among those who lack this particular guarantee."),
+        ("brahmā",
+         "&ldquo;a divinity&rdquo;, Brahmā &mdash; the highest deity the tradition names; the "
+         "top of the list of the powerless, before &lsquo;anyone at all in the world&rsquo; closes "
+         "it."),
+    ],
+    text_intro=(
+        "The discourse in full: four things, and who cannot guarantee against any of them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four things no one can guarantee"),
+        ("p", "&sect;1", "an4.182:1.1-2.1"),
+        ("h3", "Old age, sickness, death"),
+        ("p", "&sect;2", "an4.182:2.2-2.7"),
+        ("h3", "The result of past deeds"),
+        ("p", "&sect;3", "an4.182:2.8-3.2"),
+    ],
+    quiz=[
+        {"q": "What are the four things no one can guarantee?",
+         "opts": [
+             "Wealth, health, safety, and success",
+             "That someone liable to old age, sickness, or death will avoid it, or that past bad deeds will not produce their result",
+             "Rebirth, kamma, merit, and rebirth in heaven",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Three bodily inevitabilities and one causal one."},
+        {"q": "How does the fourth item differ in kind from the first three?",
+         "opts": [
+             "It does not differ",
+             "The first three happen to any body; the fourth is a consequence following specifically from what a person has done",
+             "The fourth is optional",
+             "The fourth applies only to monastics"],
+         "correct": 1,
+         "expl": "The list moves from the inevitable facts of embodiment to the inevitable working-out of kamma."},
+        {"q": "Who is named as lacking the power to guarantee against these four?",
+         "opts": [
+             "Only ordinary people",
+             "An ascetic, a brahmin, a god, Māra, a divinity, or anyone at all in the world",
+             "Only the Buddha",
+             "Only kings"],
+         "correct": 1,
+         "expl": "Every rung of an imaginable hierarchy, named and dismissed in order."},
+        {"q": "What kind of argument does this list of the powerless make?",
+         "opts": [
+             "An argument from authority",
+             "An argument by exhaustion &mdash; naming every conceivable source of such a guarantee and denying the power to each",
+             "An argument from silence",
+             "An argument by analogy"],
+         "correct": 1,
+         "expl": "Rather than explaining why the guarantee is impossible."},
+        {"q": "Does the discourse say nothing can be done about how a person meets these four?",
+         "opts": [
+             "Yes, it counsels resignation",
+             "No &mdash; it says specifically that no one can guarantee their non-occurrence, a narrower claim than general powerlessness",
+             "Yes, it forbids any response",
+             "The discourse does not address this"],
+         "correct": 1,
+         "expl": "Not a discourse about fatalism."},
+        {"q": "Which later discourse in this chapter addresses what can be done about facing these four?",
+         "opts": [
+             "AN 4.181",
+             "AN 4.184, on what makes someone frightened of death or not",
+             "AN 4.183",
+             "AN 4.189"],
+         "correct": 1,
+         "expl": "None of the four items are removed there; what changes is the relationship to them."},
+        {"q": "Why might naming ascetics and brahmins first in the list of the powerless be significant here?",
+         "opts": [
+             "It is random ordering",
+             "This chapter is named for brahmins, and religious specialists claiming access to protections are named and put first among those who cannot deliver such a guarantee",
+             "It is alphabetical",
+             "It reflects seniority"],
+         "correct": 1,
+         "expl": "Not an argument against any specific practice, but a categorical denial of the power."},
+        {"q": "What does <em>pāṭibhoga</em> mean?",
+         "opts": [
+             "A blessing",
+             "Guarantee, surety &mdash; a legal and commercial term for standing surety for a debt or promise",
+             "A curse",
+             "A prophecy"],
+         "correct": 1,
+         "expl": "Applied here to what no one can stand surety for."},
+        {"q": "What does <em>jarādhamma</em> literally suggest?",
+         "opts": [
+             "A possible event",
+             "A built-in property or liability, rather than something that might or might not happen",
+             "A punishment",
+             "A blessing"],
+         "correct": 1,
+         "expl": "<em>Dhamma</em> in its sense of nature or liability."},
+        {"q": "Where else in the Fours do old age, sickness, and death appear as a fixed trio?",
+         "opts": [
+             "Nowhere else",
+             "Joined by birth to make the four unavoidable perils of AN 4.119",
+             "In AN 4.150",
+             "In AN 4.160"],
+         "correct": 1,
+         "expl": "Here they stand without birth, because the fourth slot names something of a different kind."},
+    ],
+    marginalia=[
+        ("Four things", [
+            "old age",
+            "sickness",
+            "death",
+            "kamma&rsquo;s result",
+        ]),
+        ("Who cannot promise it", [
+            "ascetic &middot; brahmin",
+            "god &middot; Māra",
+            "Brahmā &middot; anyone at all",
+        ]),
+        ("Not fatalism", [
+            "the claim is narrow:",
+            "no one can guarantee",
+            "their non-occurrence",
+        ]),
+        ("Cross-references", [
+            "AN 4.119 &middot; the same trio, plus birth",
+            "AN 4.184 &middot; next: facing them without fear",
+            "AN 4.181 &middot; the previous discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.182/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.119.html">AN 4.119 &middot; Perils (1st)</a> &mdash; the same trio joined by '
+        "birth to make four unavoidable perils.",
+        '<a href="an-4.181.html">AN 4.181 &middot; A Warrior</a> &mdash; the discourse before this '
+        "one in the chapter.",
+        '<a href="an-4.184.html">AN 4.184 &middot; Fearless</a> &mdash; next in this series, and '
+        "what can change about facing these four.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.183 — Sutasutta
+# --------------------------------------------------------------------------- #
+page(
+    183, "Suta", "Vassakāra on What is Heard",
+    vagga=VAGGA_19,
+    meta_title="AN 4.183 — Vassakāra on What is Heard | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sutasutta — a chief "
+        "minister's view that there's nothing wrong with reporting whatever you've seen, heard, "
+        "thought, or known, and the Buddha's refusal of both that and its opposite. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, in the Bamboo Grove, the squirrels&rsquo; feeding ground"),
+        ("Speakers", "Vassakāra, a chief minister of Magadha, and the Buddha"),
+        ("Form", "A stated view, and a reply that rejects both it and its opposite"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The criterion of skillful versus unskillful consequence for speech "
+                              "recurs across the early collections' treatments of right speech; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a short exchange whose "
+                       "refusal of two tempting extremes is easy to read past"),
+    ],
+    why=(
+        "A chief minister of Magadha states a simple doctrine: there is nothing wrong with saying "
+        "&lsquo;so I have seen&rsquo;, &lsquo;so I have heard&rsquo;, &lsquo;so I have thought&rsquo;, "
+        "&lsquo;so I have known&rsquo; &mdash; reporting whatever passed through any of the four "
+        "channels, without restriction. The Buddha does not agree, and does not simply disagree "
+        "either. He declines both the position offered and its obvious opposite, and locates the "
+        "actual criterion somewhere neither extreme had considered."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Whether to speak of something seen, heard, thought, or known is decided by its effect "
+            "on skillful and unskillful qualities, not by which of the four channels it came "
+            "through or by a blanket rule of transparency."]),
+        ("Vassakāra&rsquo;s doctrine", [
+            "Vassakāra names the chief minister of Magadha, and his stated view is a clean "
+            "principle: reporting what one has seen, heard, thought, or known is never wrong, "
+            "regardless of content, because the report is accurate to the experience. "
+            "&lsquo;So I have seen&rsquo;, said of something actually seen, cannot itself be a "
+            "fault.",
+            "This is a recognizable and appealing position &mdash; a kind of blanket honesty ethic, "
+            "where truthful report of one&rsquo;s own experience is always permissible because "
+            "truthfulness is the only relevant standard being tested."]),
+        ("The two extremes the Buddha refuses", [
+            "The Buddha&rsquo;s answer is built as a pair of denials before it gives any positive "
+            "content: <em>I don&rsquo;t say you should talk about everything you see, hear, think, "
+            "and know. But I also don&rsquo;t say you should talk about nothing you see, hear, "
+            "think, and know.</em>",
+            "That double refusal is doing real work. The first sentence rejects Vassakāra&rsquo;s "
+            "position directly. The second rejects a response a listener might reach for next "
+            "&mdash; that if unrestricted reporting is wrong, the corrective must be discretion, "
+            "reticence, or silence as a general policy. Neither extreme is endorsed, and the "
+            "discourse does not pause to explain why before moving to what actually decides the "
+            "matter."]),
+        ("The actual criterion", [
+            "<em>When talking about certain things you&rsquo;ve seen, heard, thought, or known, "
+            "unskillful qualities grow while skillful qualities decline. I say that you "
+            "shouldn&rsquo;t talk about those things. When talking about other things&hellip; "
+            "unskillful qualities decline while skillful qualities grow. I say that you should talk "
+            "about those things.</em>",
+            "The test is entirely consequentialist, and it is applied identically across all four "
+            "channels &mdash; seeing, hearing, thinking, knowing get no separate treatment. What "
+            "matters is not the source of the information and not whether the statement is "
+            "accurate to that source. What matters is what speaking it does, in a specific "
+            "listener and occasion, to the growth or decline of skillful and unskillful qualities.",
+            "That is a genuinely different axis from the one both Vassakāra&rsquo;s position and its "
+            "obvious opposite were arguing along. Neither &lsquo;always report accurately&rsquo; nor "
+            "&lsquo;restrict what you report&rsquo; asks the question this criterion asks, which is "
+            "not about the statement&rsquo;s truth-value or its epistemic origin at all."]),
+        ("What this leaves open", [
+            "The discourse gives the criterion and stops; it does not supply examples of what kinds "
+            "of report tend to grow unskillful qualities and what kinds tend to grow skillful ones. "
+            "That specificity is left to the listener&rsquo;s own judgment of the actual situation, "
+            "which is consistent with a test defined by effect rather than by content &mdash; the "
+            "same words, said to different people or in different circumstances, could satisfy the "
+            "criterion in one case and fail it in another.",
+            "It is worth being honest about what this does not settle. A criterion this general "
+            "requires real judgment to apply and offers no shortcut; a listener cannot look up in "
+            "advance which category of statement is safe. The discourse trusts the listener with "
+            "exactly the kind of discernment its own criterion presupposes."]),
+        ("Vassakāra, twice in this chapter", [
+            "Vassakāra returns four discourses later, in AN 4.187, with a different question "
+            "entirely and a story of his own to illustrate the Buddha&rsquo;s answer. In both "
+            "appearances he arrives with a stated view, has it examined rather than simply "
+            "confirmed or denied, and leaves having approved of what he heard.",
+            "The pattern is worth noticing across the two discourses: a senior political figure "
+            "brings a tidy doctrine, and in both cases the Buddha&rsquo;s response does not simply "
+            "accept or reject it but relocates the question to a different, more precise axis "
+            "before answering."],
+        ),
+    ],
+    terms=[
+        ("diṭṭha / suta / mata / viññāta",
+         "&ldquo;seen&rdquo;, &ldquo;heard&rdquo;, &ldquo;thought&rdquo;, &ldquo;known&rdquo; "
+         "&mdash; the four channels Vassakāra&rsquo;s doctrine treats as equally reportable, and "
+         "which the Buddha&rsquo;s criterion applies to identically."),
+        ("Vassakāra",
+         "the chief minister of Magadha, who appears twice in this chapter, at AN 4.183 and AN "
+         "4.187."),
+        ("akusalā dhammā abhivaḍḍhanti",
+         "&ldquo;unskillful qualities grow&rdquo; &mdash; the negative half of the criterion that "
+         "decides whether something should be said."),
+        ("kusalā dhammā parihāyanti",
+         "&ldquo;skillful qualities decline&rdquo; &mdash; paired with the growth of the "
+         "unskillful, marking exactly the situation to be avoided."),
+        ("brāhmaṇa",
+         "&ldquo;brahmin&rdquo; &mdash; the Buddha&rsquo;s address to Vassakāra throughout, even "
+         "though Vassakāra&rsquo;s office is that of a minister rather than a temple priest."),
+    ],
+    text_intro=(
+        "The discourse in full: Vassakāra's doctrine, the Buddha's refusal of both extremes, and "
+        "the actual criterion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Vassakāra&rsquo;s doctrine"),
+        ("p", "&sect;1", "an4.183:1.1-2.9"),
+        ("h3", "The Buddha&rsquo;s answer"),
+        ("p", "&sect;2", "an4.183:3.1-4.2"),
+        ("h3", "Vassakāra departs"),
+        ("p", "&sect;3", "an4.183:8.1"),
+    ],
+    quiz=[
+        {"q": "What is Vassakāra&rsquo;s stated doctrine?",
+         "opts": [
+             "One should never speak of what one has not verified",
+             "There is nothing wrong with reporting whatever one has seen, heard, thought, or known",
+             "One should always stay silent about others",
+             "Only monastics should speak of spiritual matters"],
+         "correct": 1,
+         "expl": "A blanket honesty ethic, where accurate report is always permissible."},
+        {"q": "What two positions does the Buddha refuse before answering?",
+         "opts": [
+             "Only Vassakāra&rsquo;s position",
+             "Both that everything should be reported and that nothing should be",
+             "Neither position is addressed",
+             "Only the opposite of Vassakāra&rsquo;s position"],
+         "correct": 1,
+         "expl": "Rejecting a natural corrective as well as the original claim."},
+        {"q": "What is the actual criterion the Buddha gives?",
+         "opts": [
+             "Whether the statement is true",
+             "Whether speaking it causes unskillful qualities to grow and skillful ones to decline, or the reverse",
+             "Whether the listener asked for it",
+             "Whether it concerns a monastic matter"],
+         "correct": 1,
+         "expl": "Applied identically across all four channels of seeing, hearing, thinking, and knowing."},
+        {"q": "Does the criterion treat seeing, hearing, thinking, and knowing differently?",
+         "opts": [
+             "Yes, each gets its own rule",
+             "No &mdash; the same test applies to all four channels without distinction",
+             "Only seeing and hearing are covered",
+             "Only knowing is covered"],
+         "correct": 1,
+         "expl": "The source of the information is not what the test examines."},
+        {"q": "What axis is this criterion different from, compared to both Vassakāra&rsquo;s position and its opposite?",
+         "opts": [
+             "It is the same axis",
+             "Neither &lsquo;always report&rsquo; nor &lsquo;restrict reporting&rsquo; asks about effect on skillful and unskillful qualities",
+             "It concerns only monastics",
+             "It concerns only laypeople"],
+         "correct": 1,
+         "expl": "A genuinely different question from truth-value or epistemic origin."},
+        {"q": "Does the discourse give examples of which statements grow which qualities?",
+         "opts": [
+             "Yes, an extensive list",
+             "No &mdash; that judgment is left to the listener&rsquo;s own discernment of the actual situation",
+             "Only for seeing",
+             "Only for hearing"],
+         "correct": 1,
+         "expl": "Consistent with a test defined by effect rather than by content."},
+        {"q": "What does the guide say this leaves unresolved?",
+         "opts": [
+             "Nothing",
+             "That the same words could satisfy the criterion in one case and fail it in another, with no shortcut available",
+             "The definition of skillful and unskillful",
+             "Whether Vassakāra was wrong"],
+         "correct": 1,
+         "expl": "The discourse trusts the listener with real judgment."},
+        {"q": "How is Vassakāra addressed throughout, despite being a minister rather than a priest?",
+         "opts": [
+             "By his title only",
+             "As <em>brāhmaṇa</em>, brahmin",
+             "By his given name only",
+             "As a wanderer"],
+         "correct": 1,
+         "expl": "The Buddha&rsquo;s standard address to him."},
+        {"q": "Where does Vassakāra appear again in this chapter?",
+         "opts": [
+             "Nowhere else",
+             "AN 4.187, with a different question and a story of his own",
+             "AN 4.185",
+             "AN 4.190"],
+         "correct": 1,
+         "expl": "In both appearances he arrives with a tidy doctrine that gets relocated to a more precise axis."},
+        {"q": "How does Vassakāra respond at the end of this exchange?",
+         "opts": [
+             "He argues further",
+             "He approves and agrees with what the Buddha said",
+             "He rejects the answer",
+             "He asks a further question"],
+         "correct": 1,
+         "expl": "As he does again after AN 4.187."},
+    ],
+    marginalia=[
+        ("Four channels", [
+            "seen &middot; heard",
+            "thought &middot; known",
+            "&mdash; treated identically",
+        ]),
+        ("Two refusals", [
+            "not: report everything",
+            "not: report nothing",
+        ]),
+        ("The real test", [
+            "unskillful grows &rarr; don&rsquo;t speak",
+            "skillful grows &rarr; speak",
+        ]),
+        ("Cross-references", [
+            "AN 4.187 &middot; Vassakāra returns",
+            "AN 4.182 &middot; the discourse before this one",
+            "AN 4.184 &middot; next: another brahmin&rsquo;s doctrine",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.183/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.187.html">AN 4.187 &middot; With Vassakāra</a> &mdash; his second appearance '
+        "in this chapter.",
+        '<a href="an-4.184.html">AN 4.184 &middot; Fearless</a> &mdash; next in this series, and '
+        "another brahmin&rsquo;s doctrine examined.",
+        '<a href="an-4.188.html">AN 4.188 &middot; With Upaka</a> &mdash; where a similar pattern of '
+        "declared doctrine meets a more precise answer.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.184 — Abhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    184, "Abhaya", "Fearless",
+    vagga=VAGGA_19,
+    meta_title="AN 4.184 — Fearless | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Abhayasutta — a brahmin's "
+        "claim that everyone fears death, refuted by four causes of that fear and their four "
+        "absences, and a conversion that follows. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_19),
+        ("Speakers", "The brahmin Jānussoṇi and the Buddha"),
+        ("Form", "A universal claim refuted, then four causes of fear and their four mirrored "
+                 "absences"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The four causes of fear of death recur across the early "
+                              "collections' treatments of a good death; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; plainly built, and the fourth "
+                       "cause is worth noticing for how it differs from the other three"),
+    ],
+    why=(
+        "Jānussoṇi states a universal claim: everyone liable to death is frightened and terrified "
+        "of it. The Buddha corrects the universal to a conditional &mdash; some are, some "
+        "aren&rsquo;t &mdash; and gives four things that produce the fear, each mirrored by its "
+        "absence. Three of the four are about attachment. The fourth is about something else "
+        "entirely: uncertainty about the teaching itself."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Fear of death is not universal; it has four specific causes, and each is removable "
+            "independently of the others."]),
+        ("A universal claim, corrected to a conditional", [
+            "Jānussoṇi&rsquo;s doctrine is stated as flatly as Vassakāra&rsquo;s was three "
+            "discourses earlier: <em>all those liable to death are frightened and terrified of "
+            "death.</em> The Buddha&rsquo;s correction is equally flat and immediate: "
+            "<em>some&hellip; are&hellip; but some&hellip; are not.</em>",
+            "This is a different kind of correction from the one given to Vassakāra. There the "
+            "Buddha relocated the question to a new axis; here he simply denies the universal "
+            "quantifier and replaces it with a distribution, then spends the rest of the discourse "
+            "specifying exactly what the distribution depends on."]),
+        ("Three causes built from attachment", [
+            "The first three causes of fear share an identical structure: someone not free of "
+            "greed, desire, fondness, thirst, passion, and craving for something; when seriously "
+            "ill, they think that thing will leave them and they will leave it; they sorrow, wail, "
+            "lament, beat their breast, and fall into confusion.",
+            "The three objects are sensual pleasures, the body, and one&rsquo;s own record of past "
+            "conduct &mdash; the third framed not as attachment exactly but as its consequence: "
+            "someone who has done bad things and not the good things that would keep them safe, "
+            "facing the thought of where such conduct leads.",
+            "Each of the three gets the mirrored positive case: someone rid of that particular "
+            "craving, or free of that particular guilt, does not have the thought, does not sorrow, "
+            "does not fall into confusion. The structure is symmetrical and the discourse trusts "
+            "the reader to see the pattern without further comment after the first pair."]),
+        ("A fourth cause of a different kind", [
+            "The fourth cause breaks the pattern of the first three. It is not attachment to "
+            "anything, and it is not a consequence of past conduct. It is <em>kaṅkhī vicikicchī "
+            "aniṭṭhaṅgato saddhamme</em> &mdash; doubtful, uncertain, and undecided about the true "
+            "teaching.",
+            "Someone in this condition, falling seriously ill, thinks simply: <em>I&rsquo;m "
+            "doubtful, uncertain, and undecided about the true teaching</em> &mdash; and that "
+            "thought alone produces the same sorrow, wailing, and confusion the other three causes "
+            "produce. No craving is named, and no bad deed is named. The fear here is generated by "
+            "an unresolved epistemic state meeting a moment that demands certainty.",
+            "This is worth sitting with, because it says something the other three causes do not: "
+            "fear of death is not only about what a person wants to keep or what they are afraid "
+            "they deserve. It can also be about not having settled, before the moment arrives, "
+            "what one actually holds to be true. The mirrored positive case is correspondingly "
+            "simple &mdash; someone not doubtful, not uncertain, decided about the teaching &mdash; "
+            "with no further condition attached."]),
+        ("What the discourse does not resolve", [
+            "The discourse does not say what makes the fourth condition resolve into confidence, "
+            "nor does it prescribe a practice for reaching that resolution here. It states the "
+            "condition and its absence and moves on, in the same register as the other three "
+            "causes.",
+            "That restraint is consistent with how this collection typically handles a list: the "
+            "classification is given, and the means of moving from one side of it to the other is "
+            "supplied, if at all, elsewhere. A reader wanting to know how doubt about the teaching "
+            "is actually resolved will need to look beyond this discourse."]),
+        ("Jānussoṇi&rsquo;s conversion", [
+            "The discourse ends where several others involving brahmins in this chapter do not "
+            "quite reach: Jānussoṇi does not merely approve and agree. He asks to be remembered as "
+            "a lay follower who has gone for refuge for life, <em>from this day forth</em>.",
+            "That is a formal step beyond the polite assent Vassakāra offers at the end of AN 4.183 "
+            "and AN 4.187. Whether the discourse means to present the correction of a universal "
+            "claim to a conditional one as itself the persuasive move, or whether it is simply "
+            "recording what happened without claiming the argument alone caused it, is not stated "
+            "and this reading guide does not resolve it either way."],
+        ),
+    ],
+    terms=[
+        ("Jānussoṇi",
+         "a brahmin who appears elsewhere in the canon as an interlocutor of the Buddha; here the "
+         "one whose universal claim about fear of death is corrected."),
+        ("kāmesu avītarāgo",
+         "&ldquo;not free of greed&hellip; for sensual pleasures&rdquo; &mdash; the first of the "
+         "three attachment-based causes of fear."),
+        ("kaṅkhī vicikicchī aniṭṭhaṅgato saddhamme",
+         "&ldquo;doubtful, uncertain, and undecided about the true teaching&rdquo; &mdash; the "
+         "fourth cause, unlike the first three in requiring no craving or bad deed."),
+        ("saddhamma",
+         "&ldquo;the true teaching&rdquo; &mdash; the object of the fourth cause&rsquo;s doubt, and "
+         "the same word used in AN 4.160 for what can decline or endure."),
+        ("upāsaka",
+         "&ldquo;lay follower&rdquo; &mdash; what Jānussoṇi asks to be remembered as, going for "
+         "refuge for life at the discourse&rsquo;s close."),
+    ],
+    text_intro=(
+        "The discourse in full: the universal claim corrected, four causes of fear, their four "
+        "mirrored absences, and Jānussoṇi's refuge. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Jānussoṇi&rsquo;s claim"),
+        ("p", "&sect;1", "an4.184:1.1-2.4"),
+        ("h3", "Four who are frightened"),
+        ("p", "&sect;2", "an4.184:3.1-6.7"),
+        ("h3", "Four who are not frightened"),
+        ("p", "&sect;3", "an4.184:7.1-10.7"),
+        ("h3", "Jānussoṇi takes refuge"),
+        ("p", "&sect;4", "an4.184:11.1"),
+    ],
+    quiz=[
+        {"q": "What does Jānussoṇi claim?",
+         "opts": [
+             "That no one fears death",
+             "That everyone liable to death is frightened and terrified of it",
+             "That only the wicked fear death",
+             "That fear of death is a virtue"],
+         "correct": 1,
+         "expl": "A universal claim the Buddha corrects to a conditional."},
+        {"q": "How does the Buddha correct it?",
+         "opts": [
+             "By agreeing fully",
+             "By denying the universal quantifier: some are frightened, some are not",
+             "By rejecting the claim entirely",
+             "By relocating the question to a different axis, as with Vassakāra"],
+         "correct": 1,
+         "expl": "A simpler kind of correction than the one given to Vassakāra."},
+        {"q": "What structure do the first three causes of fear share?",
+         "opts": [
+             "They are unrelated",
+             "Not being free of craving for something, and on falling ill, thinking that thing will be lost",
+             "They all concern the teaching",
+             "They all concern other people"],
+         "correct": 1,
+         "expl": "Sensual pleasures, the body, and the consequence of bad conduct."},
+        {"q": "What is the fourth cause of fear?",
+         "opts": [
+             "Craving for reputation",
+             "Being doubtful, uncertain, and undecided about the true teaching",
+             "Fear of physical pain",
+             "Attachment to family"],
+         "correct": 1,
+         "expl": "Breaking the pattern of the first three &mdash; no craving or bad deed is named."},
+        {"q": "What does the guide say is distinctive about the fourth cause?",
+         "opts": [
+             "Nothing, it matches the others",
+             "It shows fear of death can come from an unresolved epistemic state, not only from attachment or guilt",
+             "It is easier to remove than the others",
+             "It only applies to monastics"],
+         "correct": 1,
+         "expl": "An unresolved epistemic state meeting a moment that demands certainty."},
+        {"q": "Does the discourse explain how to resolve the fourth kind of doubt?",
+         "opts": [
+             "Yes, in detail",
+             "No &mdash; it states the condition and its absence, consistent with how this collection typically handles a list",
+             "Only partially",
+             "It refers the reader elsewhere in the same discourse"],
+         "correct": 1,
+         "expl": "A reader wanting the resolution will need to look beyond this discourse."},
+        {"q": "How does the discourse end?",
+         "opts": [
+             "With Jānussoṇi&rsquo;s polite approval only",
+             "With Jānussoṇi formally going for refuge for life as a lay follower",
+             "With no response recorded",
+             "With Jānussoṇi rejecting the answer"],
+         "correct": 1,
+         "expl": "A step beyond the assent Vassakāra offers elsewhere in this chapter."},
+        {"q": "Does the guide claim the argument alone caused the conversion?",
+         "opts": [
+             "Yes, definitively",
+             "No &mdash; it is not stated and the guide does not resolve it either way",
+             "The discourse denies it explicitly",
+             "The commentary settles it"],
+         "correct": 1,
+         "expl": "The text simply records what happened."},
+        {"q": "What does <em>saddhamma</em> mean, and where else has it appeared in this nipāta?",
+         "opts": [
+             "Wisdom; only here",
+             "The true teaching; the same word AN 4.160 used for what can decline or endure",
+             "Ethics; only in AN 4.181",
+             "Merit; only in AN 4.189"],
+         "correct": 1,
+         "expl": "The object of the fourth cause&rsquo;s doubt."},
+        {"q": "How many of the four causes are structurally about attachment?",
+         "opts": [
+             "All four",
+             "Three &mdash; the fourth is about uncertainty regarding the teaching, not attachment",
+             "Two",
+             "None"],
+         "correct": 1,
+         "expl": "Sensual pleasures, the body, and the consequence of bad conduct."},
+    ],
+    marginalia=[
+        ("Four causes", [
+            "craving for pleasures",
+            "craving for the body",
+            "guilt over bad deeds",
+            "doubt about the teaching",
+        ]),
+        ("Three and one", [
+            "three built from craving",
+            "the fourth &mdash; uncertainty",
+            "meeting a demand for certainty",
+        ]),
+        ("The ending", [
+            "not mere approval",
+            "but refuge for life",
+        ]),
+        ("Cross-references", [
+            "AN 4.182 &middot; what cannot be guaranteed",
+            "AN 4.183 &middot; Vassakāra&rsquo;s doctrine, similarly corrected",
+            "AN 4.160 &middot; the same word for the true teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.184/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.182.html">AN 4.182 &middot; Guarantee</a> &mdash; where death itself is named '
+        "among what cannot be promised away.",
+        '<a href="an-4.183.html">AN 4.183 &middot; Vassakāra on What is Heard</a> &mdash; the same '
+        "pattern of a universal doctrine corrected.",
+        '<a href="an-4.185.html">AN 4.185 &middot; Truths of the Brahmins</a> &mdash; next in this '
+        "series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.185 — Brāhmaṇasaccasutta
+# --------------------------------------------------------------------------- #
+page(
+    185, "Brāhmaṇasacca", "Truths of the Brahmins",
+    vagga=VAGGA_19,
+    meta_title="AN 4.185 — Truths of the Brahmins | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Brāhmaṇasaccasutta — the "
+        "Buddha walks into a debate about what brahmins hold true and declares four truths of his "
+        "own, each severed from any claim to status. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, on the Vulture&rsquo;s Peak Mountain, and the wanderers&rsquo; "
+                    "monastery on the bank of the Serpentine river"),
+        ("Speakers", "The Buddha, addressing a group of wanderers of other religions"),
+        ("Form", "A debate interrupted, a question asked, and four truths given in an identical "
+                 "three-part pattern"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Redefining brahmin-hood by insight and conduct rather than birth is "
+                              "a recurring move across the early collections; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a clean structure carrying a "
+                       "genuinely subversive redefinition"),
+    ],
+    why=(
+        "A group of wanderers is in the middle of arguing about what the truths of the brahmins "
+        "are &mdash; this way, that way &mdash; when the Buddha arrives and asks what they were "
+        "discussing. Instead of joining the argument, he declares four truths of the brahmins that "
+        "he has realized himself, and every one of them comes with the same refusal built in: "
+        "speaking the truth does not entitle anyone to think of themselves as better, equal, or "
+        "worse than anyone else."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four things are genuinely true and worth calling a brahmin&rsquo;s truths, and none of "
+            "them licenses the speaker to claim any status by saying them."]),
+        ("Walking into an unfinished argument", [
+            "The scene is set with unusual specificity for this chapter: several well-known "
+            "wanderers, named individually, are sitting at their own monastery arguing about "
+            "&lsquo;the truths of the brahmins&rsquo; when the Buddha arrives from his own retreat "
+            "and asks what conversation was left unfinished.",
+            "He does not settle their argument or adjudicate between the positions they were "
+            "holding. He redirects entirely: <em>I declare these four truths of the brahmins, "
+            "having realized them with my own insight.</em> The move is not to win the debate as "
+            "framed but to answer a different, better version of the question the debate was "
+            "gesturing toward."]),
+        ("The three-part pattern", [
+            "Each of the four truths follows the identical shape. First, a statement a brahmin "
+            "makes, given verbatim. Second, an explicit confirmation that the statement is true "
+            "&mdash; <em>speaks the truth, not lies</em> &mdash; followed immediately by a denial: "
+            "the brahmin does not, because of saying it, think of themselves as an ascetic or a "
+            "brahmin, and does not think &lsquo;I&rsquo;m better&rsquo;, &lsquo;I&rsquo;m "
+            "equal&rsquo;, or &lsquo;I&rsquo;m worse&rsquo;. Third, what they do instead: practice, "
+            "out of direct insight into that very truth.",
+            "That middle step is the discourse&rsquo;s real argument, repeated four times so it "
+            "cannot be missed. Truth-telling and status-claiming are pried apart completely. A "
+            "brahmin can say something entirely true about killing, about sensual pleasure, about "
+            "existence, about ownership, and none of it converts into a claim about their own "
+            "rank relative to anyone else&rsquo;s. What converts a truth into practice is insight "
+            "into it, not the saying of it."]),
+        ("The four truths themselves", [
+            "<em>No sentient beings should be killed</em> &mdash; met not with a claim to purity "
+            "but with practice grounded in kindness and sympathy for living creatures.",
+            "<em>All sensual pleasures are impermanent, suffering, and perishable</em> &mdash; met "
+            "with practice for disillusionment, dispassion, and cessation regarding sensual "
+            "pleasures.",
+            "<em>All states of existence are impermanent, suffering, and perishable</em> &mdash; "
+            "met with the identical practice, aimed now at future lives rather than at present "
+            "pleasure.",
+            "<em>I don&rsquo;t belong to anyone anywhere, and nothing belongs to me anywhere</em> "
+            "&mdash; met with the practice of the path of nothingness, <em>ākiñcaññaṁyeva "
+            "paṭipadaṁ</em>."]),
+        ("The fourth truth, and where it leads", [
+            "The fourth truth deserves particular attention because its practice names a specific "
+            "meditative attainment rather than a general disposition: <em>ākiñcañña</em>, "
+            "nothingness, the third of the four formless dimensions.",
+            "This chapter&rsquo;s closing discourse, AN 4.190, names the dimension of nothingness "
+            "as one of four formless attainments collected under <em>āneñjappatta</em>, "
+            "&lsquo;attained to the imperturbable&rsquo;. The claim &lsquo;I don&rsquo;t belong to "
+            "anyone, nothing belongs to me&rsquo; is not a metaphor for detachment in general; it "
+            "names the specific insight this discourse says the nothingness attainment is built on.",
+            "That is a real connection across the chapter worth drawing explicitly, and this "
+            "reading guide draws it while being precise about its limits: AN 4.190 lists "
+            "nothingness as one of four formless states reached in sequence, while AN 4.185 "
+            "isolates only the insight behind that one state as a truth in its own right. The two "
+            "discourses are not describing the same thing at the same level of detail."]),
+        ("What &lsquo;brahmin&rsquo; means here", [
+            "The discourse never argues against the category of brahmin, and it never claims the "
+            "wanderers arguing outside are wrong to care about it. What it does is relocate the "
+            "content of the category entirely: away from birth, ritual, or doctrine held as a "
+            "position, and onto four specific truths met with practice rather than with a claim "
+            "to rank.",
+            "That is a considerable claim to make while sitting down among wanderers debating "
+            "exactly this question, and the discourse makes it without polemic. It does not say "
+            "the wanderers&rsquo; truths are false. It supplies four of its own and lets the "
+            "structural difference &mdash; truth severed from status, four times over &mdash; do "
+            "the work of showing what was missing from the argument it interrupted."],
+        ),
+    ],
+    terms=[
+        ("brāhmaṇasacca",
+         "&ldquo;truth of the brahmins&rdquo; &mdash; the phrase under debate among the wanderers, "
+         "which the Buddha redefines rather than joins the debate about."),
+        ("seyyohamasmi / sadisohamasmi / hīnohamasmi",
+         "&ldquo;I&rsquo;m better&rdquo;, &ldquo;I&rsquo;m equal&rdquo;, &ldquo;I&rsquo;m "
+         "worse&rdquo; &mdash; the three comparative judgments explicitly denied after each true "
+         "statement."),
+        ("abhiññāya",
+         "&ldquo;having had insight into&rdquo; &mdash; what converts a true statement into "
+         "practice, in place of the saying of it."),
+        ("ākiñcañña",
+         "&ldquo;nothingness&rdquo; &mdash; the fourth truth&rsquo;s practice, and the third of the "
+         "four formless dimensions named at AN 4.190."),
+        ("saccaṁ āha, no musā",
+         "&ldquo;speaks the truth, not lies&rdquo; &mdash; the confirmation attached to each of the "
+         "four statements before its status-claim is denied."),
+    ],
+    text_intro=(
+        "The discourse in full: the interrupted debate, the question, and four truths given in an "
+        "identical pattern. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "An unfinished argument"),
+        ("p", "&sect;1", "an4.185:1.1-3.3"),
+        ("h3", "The first truth: no killing"),
+        ("p", "&sect;2", "an4.185:4.1-4.7"),
+        ("h3", "The second truth: sensual pleasures are impermanent"),
+        ("p", "&sect;3", "an4.185:5.1-5.5"),
+        ("h3", "The third truth: all existence is impermanent"),
+        ("p", "&sect;4", "an4.185:6.1-6.2"),
+        ("h3", "The fourth truth: nothing belongs to me"),
+        ("p", "&sect;5", "an4.185:7.1-7.6"),
+    ],
+    quiz=[
+        {"q": "What were the wanderers arguing about when the Buddha arrived?",
+         "opts": [
+             "A point of monastic discipline",
+             "&lsquo;The truths of the brahmins are like this; the truths of the brahmins are like that&rsquo;",
+             "Whether the Buddha was a true teacher",
+             "A political dispute"],
+         "correct": 1,
+         "expl": "The Buddha redirects rather than adjudicates their positions."},
+        {"q": "What does the Buddha do instead of joining the debate?",
+         "opts": [
+             "Declares their positions false",
+             "Declares four truths of the brahmins realized with his own insight",
+             "Refuses to answer",
+             "Asks them to stop arguing"],
+         "correct": 1,
+         "expl": "Answering a different, better version of the question."},
+        {"q": "What three-part pattern does each of the four truths follow?",
+         "opts": [
+             "A statement, a rebuttal, a correction",
+             "A true statement, a denial that it confers status, and practice grounded in insight into it",
+             "A question, an answer, a summary",
+             "A claim, evidence, a conclusion"],
+         "correct": 1,
+         "expl": "Repeated four times so it cannot be missed."},
+        {"q": "What three comparative judgments are explicitly denied?",
+         "opts": [
+             "Right, wrong, and neutral",
+             "&lsquo;I&rsquo;m better&rsquo;, &lsquo;I&rsquo;m equal&rsquo;, &lsquo;I&rsquo;m worse&rsquo;",
+             "True, false, and uncertain",
+             "Pure, impure, and mixed"],
+         "correct": 1,
+         "expl": "Truth-telling and status-claiming are pried apart completely."},
+        {"q": "What converts a true statement into practice, according to the discourse?",
+         "opts": [
+             "Repeating it often",
+             "Insight into that very truth, rather than the saying of it",
+             "Teaching it to others",
+             "Believing it strongly"],
+         "correct": 1,
+         "expl": "The discourse&rsquo;s real argument, in its middle step."},
+        {"q": "What is the fourth truth?",
+         "opts": [
+             "All sensual pleasures are impermanent",
+             "I don&rsquo;t belong to anyone anywhere, and nothing belongs to me anywhere",
+             "No sentient beings should be killed",
+             "All existence is impermanent"],
+         "correct": 1,
+         "expl": "Met with the practice of the path of nothingness."},
+        {"q": "What specific attainment does the fourth truth&rsquo;s practice name?",
+         "opts": [
+             "The four absorptions",
+             "<em>Ākiñcañña</em>, nothingness &mdash; the third of the four formless dimensions",
+             "The four immeasurables",
+             "Stream-entry"],
+         "correct": 1,
+         "expl": "Named again at AN 4.190 as one of four formless attainments."},
+        {"q": "How does the guide relate this discourse to AN 4.190?",
+         "opts": [
+             "As identical in scope",
+             "AN 4.190 lists nothingness among four formless states in sequence; this discourse isolates only the insight behind that one state",
+             "As contradictory",
+             "As unrelated"],
+         "correct": 1,
+         "expl": "Precise about the difference in level of detail between the two."},
+        {"q": "Does the discourse argue against the category of &lsquo;brahmin&rsquo; itself?",
+         "opts": [
+             "Yes, it rejects the category",
+             "No &mdash; it relocates the category&rsquo;s content onto four truths met with practice rather than status",
+             "Yes, it calls the category meaningless",
+             "It avoids the topic entirely"],
+         "correct": 1,
+         "expl": "Away from birth, ritual, or doctrine held as a position."},
+        {"q": "How does the discourse treat the wanderers&rsquo; own positions?",
+         "opts": [
+             "It declares them false",
+             "It does not say they are false; it supplies four of its own and lets the structural difference do the work",
+             "It ridicules them",
+             "It ignores the question entirely"],
+         "correct": 1,
+         "expl": "Made without polemic."},
+    ],
+    marginalia=[
+        ("Four truths", [
+            "no killing",
+            "pleasures impermanent",
+            "existence impermanent",
+            "nothing belongs to me",
+        ]),
+        ("The pattern, each time", [
+            "true, not a lie",
+            "no claim to status",
+            "practice, from insight",
+        ]),
+        ("The fourth", [
+            "<span class=\"pali\">ākiñcañña</span>nothingness",
+            "&mdash; named again at AN 4.190",
+        ]),
+        ("Cross-references", [
+            "AN 4.190 &middot; the same attainment, in sequence",
+            "AN 4.183 &middot; another doctrine redirected",
+            "AN 4.184 &middot; the discourse before this one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.185/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.190.html">AN 4.190 &middot; Sabbath</a> &mdash; where the dimension of '
+        "nothingness reappears among four formless attainments.",
+        '<a href="an-4.184.html">AN 4.184 &middot; Fearless</a> &mdash; the discourse before this '
+        "one in the chapter.",
+        '<a href="an-4.186.html">AN 4.186 &middot; Approach</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.186 — Ummaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    186, "Ummagga", "Approach",
+    vagga=VAGGA_19,
+    meta_title="AN 4.186 — Approach | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ummaggasutta — a "
+        "mendicant's three good questions, each praised in the same words: what leads the world, "
+        "what makes someone learned, and what makes someone wise. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_19),
+        ("Speakers", "An unnamed mendicant and the Buddha"),
+        ("Form", "Three questions, each praised identically before being answered"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The mind as what leads and drags the world is widely echoed in "
+                              "opening material across the early collections; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; three short exchanges, and the "
+                       "second directly complicates what &lsquo;learned&rsquo; usually seems to "
+                       "mean"),
+    ],
+    why=(
+        "One mendicant asks three questions in a row, and each time the Buddha praises the "
+        "question in the same words before answering it: what leads the world on, what drags it "
+        "around, what arises and takes control? What defines a learned memorizer of the teaching? "
+        "What defines wisdom, and then great wisdom? The answers move from the mind, to a single "
+        "verse rightly understood and practiced, to an entirely ethical definition of what counts "
+        "as wise."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The mind runs the world; being learned is measured by understanding and practicing "
+            "even a little correctly rather than by quantity memorized; and wisdom, at its "
+            "greatest, is defined by the intention to harm no one."]),
+        ("A formula of praise, repeated three times", [
+            "Each of the mendicant&rsquo;s three questions receives the identical opening: "
+            "<em>good, good, mendicant! Your approach and eloquence are excellent, and it&rsquo;s a "
+            "good question.</em> <em>Ummagga</em>, the word rendered &lsquo;approach&rsquo; here "
+            "and giving the discourse its Pāli title, is an unusual one &mdash; literally a tunnel "
+            "or an underground passage, and by extension a way of getting at something, a line of "
+            "reasoning that finds its way through.",
+            "The other praised quality, <em>paṭibhāna</em>, is the same term AN 4.132 and AN 4.140 "
+            "used for eloquence and analytical readiness. Here it is applied not to a discourse the "
+            "mendicant gives but to the questions he asks &mdash; a reminder that the qualities "
+            "praised elsewhere as marks of a good speaker apply equally to a good questioner."]),
+        ("What leads the world", [
+            "The first question is stated as three phrasings of one thing: what leads the world "
+            "on, what drags it around, what arises and takes control? The answer is a single word, "
+            "repeated in the same three verbs: <em>the mind leads the world on. The mind drags it "
+            "around. When the mind arises, it takes control.</em>",
+            "No mechanism is given, and no elaboration follows. The claim is stated with the same "
+            "flatness the question was asked with, and the discourse moves immediately to the next "
+            "exchange. Whatever explanatory work this claim is meant to do, it is left to the "
+            "listener to work out from the bare statement itself."]),
+        ("A learned memorizer of the teaching, redefined", [
+            "The second question asks what makes someone <em>bahussuto dhammadharo</em>, a learned "
+            "memorizer of the teaching &mdash; a title that sounds, on its face, like a matter of "
+            "volume. The Buddha&rsquo;s answer refuses that reading directly.",
+            "He first names the range of what he has taught &mdash; statements, mixed prose and "
+            "verse, discussions, verses, inspired exclamations, legends, stories of past lives, "
+            "amazing stories, elaborations &mdash; a substantial list, seemingly building toward a "
+            "claim about quantity. Then the answer inverts the expectation: <em>if anyone "
+            "understands the meaning and the text of even a four-line verse, and if they practice "
+            "in line with that teaching, they&rsquo;re qualified to be called a learned memorizer of "
+            "the teaching.</em>",
+            "This bears directly on AN 4.6, several chapters back, which crossed hearing much or "
+            "little with holding much or little and refused to rank the combinations. This "
+            "discourse goes further: it names the specific threshold at which the title applies, "
+            "and the threshold is understanding and practice, not volume at all. A person who has "
+            "heard everything the Buddha taught but understood and practiced none of it does not "
+            "qualify; a person who has grasped and lived out four lines does."]),
+        ("Penetrating wisdom, and the marksman again", [
+            "The third question asks about <em>paññāvantatā</em>, penetrating wisdom, and the "
+            "answer is the four noble truths, seen with penetrating wisdom in each case: this is "
+            "suffering, this is its origin, this is its cessation, this is the practice leading to "
+            "its cessation.",
+            "The same four truths defined marksmanship at AN 4.181, earlier in this chapter. Read "
+            "together, the two discourses supply each other&rsquo;s missing half: AN 4.181 gave the "
+            "image &mdash; hitting a vital point precisely &mdash; without naming what &lsquo;wisdom&rsquo; "
+            "means in the abstract; this discourse gives the abstract definition its concrete "
+            "picture back."]),
+        ("Great wisdom, defined by harmlessness", [
+            "The fourth question asks about <em>paṇḍito mahāpañño</em>, an astute person with great "
+            "wisdom, and the answer breaks entirely from the pattern of the previous two &mdash; no "
+            "doctrine is named, no teaching is recited. The definition is ethical: someone with no "
+            "intention to hurt themselves, or others, or both, whose thinking is only ever of "
+            "benefit &mdash; to themselves, to others, to both, and to the whole world.",
+            "That final phrase, <em>sabbalokahitameva cintayamāno cinteti</em>, only ever thinking "
+            "of benefit for the whole world, is the widest scope given to any single quality in "
+            "this chapter. It also echoes, in vocabulary if not in exact content, the fourfold "
+            "self/other benefit classification found elsewhere in the Fours at AN 4.97, which sorts "
+            "individuals by whether their practice benefits themselves, others, both, or neither. "
+            "Here the same four terms &mdash; self, other, both, and (uniquely) the whole world "
+            "&mdash; are folded into a single positive definition rather than kept as four separate "
+            "cases.",
+            "The progression across the mendicant&rsquo;s three questions is worth naming directly: "
+            "from a metaphysical claim about what drives the world, to an epistemic redefinition of "
+            "what counts as learned, to a wholly ethical account of what counts as truly wise. The "
+            "questions get harder to answer with a formula and easier to recognize when actually "
+            "met."],
+        ),
+    ],
+    terms=[
+        ("ummagga",
+         "&ldquo;approach&rdquo; &mdash; literally a tunnel or underground passage; a line of "
+         "reasoning that finds its way through, and the discourse&rsquo;s Pāli title."),
+        ("paṭibhāna",
+         "&ldquo;eloquence&rdquo;, analytical readiness &mdash; the same term from AN 4.132 and AN "
+         "4.140, applied here to the mendicant&rsquo;s questions rather than to a speaker&rsquo;s "
+         "answers."),
+        ("bahussuto dhammadharo",
+         "&ldquo;a learned memorizer of the teaching&rdquo; &mdash; redefined by understanding and "
+         "practice of even a four-line verse, not by quantity heard."),
+        ("paññāvantatā",
+         "&ldquo;penetrating wisdom&rdquo; &mdash; defined by the four noble truths, echoing the "
+         "marksman image of AN 4.181."),
+        ("paṇḍito mahāpañño",
+         "&ldquo;an astute person with great wisdom&rdquo; &mdash; defined ethically, by the "
+         "absence of any intention to harm and the presence only of thoughts of benefit."),
+    ],
+    text_intro=(
+        "The discourse in full: three questions, each praised, and answered in turn. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "What leads the world?"),
+        ("p", "&sect;1", "an4.186:1.1-2.6"),
+        ("h3", "A learned memorizer of the teaching"),
+        ("p", "&sect;2", "an4.186:3.1-4.9"),
+        ("h3", "Penetrating wisdom"),
+        ("p", "&sect;3", "an4.186:5.1-6.11"),
+        ("h3", "Great wisdom"),
+        ("p", "&sect;4", "an4.186:7.1-8.8"),
+    ],
+    quiz=[
+        {"q": "What formula does the Buddha use to praise each of the mendicant&rsquo;s three questions?",
+         "opts": [
+             "A different formula each time",
+             "&lsquo;Good, good, mendicant! Your approach and eloquence are excellent, and it&rsquo;s a good question&rsquo;",
+             "Silence, then an answer",
+             "A question in return"],
+         "correct": 1,
+         "expl": "Repeated identically three times."},
+        {"q": "What does <em>ummagga</em> literally mean?",
+         "opts": [
+             "A bright light",
+             "A tunnel or underground passage &mdash; a line of reasoning that finds its way through",
+             "A sharp weapon",
+             "A wide road"],
+         "correct": 1,
+         "expl": "The discourse&rsquo;s Pāli title."},
+        {"q": "What answer does the Buddha give to &lsquo;what leads the world on&rsquo;?",
+         "opts": [
+             "Kamma",
+             "The mind &mdash; stated flatly, with no mechanism given",
+             "Craving",
+             "The gods"],
+         "correct": 1,
+         "expl": "Left to the listener to work out from the bare statement."},
+        {"q": "How does the Buddha redefine &lsquo;a learned memorizer of the teaching&rsquo;?",
+         "opts": [
+             "By the sheer volume of teachings memorized",
+             "By understanding and practicing even a four-line verse correctly",
+             "By years of study",
+             "By teaching others"],
+         "correct": 1,
+         "expl": "Inverting the expectation the list of teaching-genres seemed to be building toward."},
+        {"q": "How does this connect to AN 4.6?",
+         "opts": [
+             "It contradicts it",
+             "AN 4.6 refused to rank hearing much or little against holding much or little; this discourse names the specific threshold where the title applies",
+             "It repeats it exactly",
+             "It is unrelated"],
+         "correct": 1,
+         "expl": "Understanding and practice, not volume."},
+        {"q": "What defines &lsquo;penetrating wisdom&rsquo;?",
+         "opts": [
+             "The five aggregates",
+             "The four noble truths, seen with penetrating wisdom",
+             "The eightfold path",
+             "The five faculties"],
+         "correct": 1,
+         "expl": "The same four truths that defined marksmanship at AN 4.181."},
+        {"q": "How do AN 4.181 and AN 4.186 supply each other&rsquo;s missing half?",
+         "opts": [
+             "They do not relate",
+             "AN 4.181 gives the image of hitting a vital point without naming wisdom abstractly; this discourse gives the abstract definition its concrete picture back",
+             "AN 4.186 replaces AN 4.181&rsquo;s claim",
+             "They give contradictory definitions"],
+         "correct": 1,
+         "expl": "Read together across the chapter."},
+        {"q": "What defines &lsquo;great wisdom&rsquo;?",
+         "opts": [
+             "Mastery of doctrine",
+             "No intention to harm oneself, others, or both, and thinking only of benefit for oneself, others, both, and the whole world",
+             "Meditative attainment",
+             "Correct recitation"],
+         "correct": 1,
+         "expl": "An entirely ethical definition, breaking from the pattern of the previous two answers."},
+        {"q": "What does the guide connect this final definition to elsewhere in the Fours?",
+         "opts": [
+             "AN 4.150",
+             "AN 4.97, which sorts individuals by whether their practice benefits self, others, both, or neither",
+             "AN 4.1",
+             "AN 4.160"],
+         "correct": 1,
+         "expl": "The same four terms folded into a single positive definition rather than kept as separate cases."},
+        {"q": "How does the guide characterize the progression across the mendicant&rsquo;s three questions?",
+         "opts": [
+             "No progression, three unrelated questions",
+             "From a metaphysical claim, to an epistemic redefinition, to a wholly ethical account &mdash; harder to formularize, easier to recognize when met",
+             "Increasing difficulty of vocabulary",
+             "Decreasing importance"],
+         "correct": 1,
+         "expl": "Worth naming directly."},
+    ],
+    marginalia=[
+        ("Three questions", [
+            "what leads the world?",
+            "what makes one learned?",
+            "what makes one wise?",
+        ]),
+        ("Three answers", [
+            "the mind",
+            "understanding + practice",
+            "harmlessness, universal",
+        ]),
+        ("A word reused", [
+            "<span class=\"pali\">paṭibhāna</span>eloquence",
+            "&mdash; here, in a questioner",
+        ]),
+        ("Cross-references", [
+            "AN 4.181 &middot; the same truths, as marksmanship",
+            "AN 4.6 &middot; hearing much, holding little",
+            "AN 4.97 &middot; benefit to self and others",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.186/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.181.html">AN 4.181 &middot; A Warrior</a> &mdash; where the same four truths '
+        "define marksmanship.",
+        '<a href="an-4.6.html">AN 4.6 &middot; A Little Learning</a> &mdash; the Fours&rsquo; other '
+        "refusal to equate learning with quantity.",
+        '<a href="an-4.187.html">AN 4.187 &middot; With Vassakāra</a> &mdash; next in this series, '
+        "and Vassakāra&rsquo;s second appearance.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.187 — Vassakārasutta
+# --------------------------------------------------------------------------- #
+page(
+    187, "Vassakāra", "With Vassakāra",
+    vagga=VAGGA_19,
+    meta_title="AN 4.187 — With Vassakāra | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vassakārasutta — whether a "
+        "false person can recognize a false or true person, an asymmetric answer, and Vassakāra's "
+        "own political illustration of it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, in the Bamboo Grove, the squirrels&rsquo; feeding ground"),
+        ("Speakers", "Vassakāra, a chief minister of Magadha, and the Buddha"),
+        ("Form", "Four questions with real, asymmetric answers, then an unprompted illustration "
+                 "from the questioner"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The asymmetry between a corrupted and an integrous person's "
+                              "discernment is a recurring theme across the early collections; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a real logical claim, not a "
+                       "refusal, followed by one of the chapter's more vivid political anecdotes"),
+    ],
+    why=(
+        "Vassakāra returns to ask a genuine four-part question, and this time the Buddha gives "
+        "real answers rather than declining all four. Can a false person recognize another false "
+        "person? Impossible. A true person? Also impossible. Can a true person recognize another "
+        "true person? Possible. A false person? Also possible. Corruption blinds in both "
+        "directions; integrity sees clearly in both. Vassakāra, delighted, supplies his own "
+        "illustration &mdash; a story about a king, a teacher, and why devotion is sometimes "
+        "evidence."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An untrue person cannot reliably recognize either an untrue or a true person; a true "
+            "person can recognize both."]),
+        ("A real answer, not a refusal", [
+            "This chapter&rsquo;s reader has already met the fourfold-question-and-refusal pattern "
+            "twice, in AN 4.173 and AN 4.174 back in the Cetanāvagga, where every one of four "
+            "logically exhaustive options was rejected. This discourse uses the identical four-part "
+            "shape &mdash; asked, restated, then explained &mdash; but here the four questions get "
+            "four real, differentiated answers.",
+            "Can an untrue person know of an untrue person, &lsquo;this one is untrue&rsquo;? "
+            "<em>Impossible, it can&rsquo;t happen.</em> Can an untrue person know of a true person, "
+            "&lsquo;this one is true&rsquo;? <em>Also impossible.</em> Can a true person know of a "
+            "true person? <em>Possible.</em> Can a true person know of an untrue person? "
+            "<em>Also possible.</em>"]),
+        ("The shape of the asymmetry", [
+            "Set out as a two-by-two &mdash; who is doing the judging, crossed with who is being "
+            "judged &mdash; the pattern is not that like recognizes like and unlike fails to "
+            "recognize unlike. It is that one axis is entirely blind and the other entirely "
+            "sighted, regardless of what is being looked at.",
+            "An untrue person cannot correctly identify character in either direction: not another "
+            "untrue person, and not a true one either. A true person can correctly identify "
+            "character in both directions: both a fellow true person and an untrue one.",
+            "The discourse does not explain the mechanism, but the shape of the claim suggests one. "
+            "Whatever corrupts judgment about others&rsquo; character corrupts it comprehensively, "
+            "not selectively; whatever grounds accurate judgment does the same. Discernment of "
+            "character, on this account, is not itself divided into separate skills for spotting "
+            "the good and spotting the bad &mdash; it is one capacity, present or absent as a "
+            "whole."]),
+        ("Vassakāra supplies his own example", [
+            "Where AN 4.183 left Vassakāra approving and departing without adding anything, here he "
+            "responds to the Buddha&rsquo;s answer by volunteering an illustration of his own, "
+            "unprompted: a story making the rounds in the assembly of the brahmin Todeyya.",
+            "Members of that assembly had been mocking King Eḷeyya for his excessive deference to "
+            "the ascetic Rāmaputta &mdash; bowing to him, rising for him, greeting him with cupped "
+            "palms. Todeyya answers the mockery with a question of his own: isn&rsquo;t King Eḷeyya "
+            "himself astute, even better than the experts, in matters of duty and speech? They "
+            "agree he is. So too are the king&rsquo;s own most trusted men &mdash; Yamaka, Moggalla, "
+            "Ugga, and the rest &mdash; each named individually. And it is precisely because "
+            "Rāmaputta is even more astute and expert than these already-astute judges that they "
+            "defer to him as they do."]),
+        ("What the illustration proves, and what it does not", [
+            "Todeyya&rsquo;s reasoning is a direct, concrete application of the Buddha&rsquo;s "
+            "abstract claim: astute judges (true persons, on the discourse&rsquo;s vocabulary) can "
+            "recognize a still more astute figure, and their deference is itself evidence of what "
+            "they have recognized, precisely because true persons can identify true persons.",
+            "It is worth being exact about what the story does and does not establish. Neither "
+            "Vassakāra nor the text asserts that Rāmaputta actually is a true person in the "
+            "discourse&rsquo;s technical sense, or that the king&rsquo;s deference is infallible "
+            "proof of anything. The illustration demonstrates the logical shape of the principle "
+            "&mdash; that discerning judges&rsquo; agreement is evidence-worthy in a way "
+            "undiscerning agreement is not &mdash; without the discourse taking a position on "
+            "Rāmaputta himself one way or the other. This reading guide does not extend the passage "
+            "further than that."]),
+        ("Vassakāra leaves, twice over", [
+            "The discourse ends exactly as AN 4.183 did: incredulous praise, a plea of duties "
+            "calling him away, permission granted, approval and departure. The repetition across "
+            "Vassakāra&rsquo;s two appearances in this chapter is a matched pair worth reading "
+            "together &mdash; a senior political figure, in both cases, brings his own material to "
+            "the exchange (a stated doctrine in the first, a live political anecdote in the second) "
+            "and leaves each time having had it examined rather than simply confirmed."],
+        ),
+    ],
+    terms=[
+        ("asappurisa / sappurisa",
+         "&ldquo;untrue person&rdquo; and &ldquo;true person&rdquo; &mdash; the two categories the "
+         "question is asked about, in every direction."),
+        ("ṭhānaṁ vijjati",
+         "&ldquo;it&rsquo;s possible&rdquo; &mdash; literally the ground or basis exists; the "
+         "Buddha&rsquo;s answer for the two cases involving a true person as the one doing the "
+         "recognizing."),
+        ("aṭṭhānametaṁ anavakāso",
+         "&ldquo;it&rsquo;s impossible, it can&rsquo;t happen&rdquo; &mdash; the canon&rsquo;s "
+         "strong impossibility formula, applied to both cases involving an untrue person as the "
+         "judge."),
+        ("Todeyya",
+         "the brahmin who answers his own assembly&rsquo;s mockery of King Eḷeyya with a chain of "
+         "reasoning from the astuteness of the king&rsquo;s judges to the astuteness of Rāmaputta."),
+        ("upasaṅkamati",
+         "&ldquo;goes up to&rdquo; &mdash; the ordinary verb of Vassakāra&rsquo;s approach to the "
+         "Buddha, shared with nearly every visit-narrative in this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: four questions with real answers, Vassakāra's praise, and his own "
+        "political illustration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Can an untrue person recognize another?"),
+        ("p", "&sect;1", "an4.187:1.1-2.16"),
+        ("h3", "Vassakāra&rsquo;s praise"),
+        ("p", "&sect;2", "an4.187:3.1-3.10"),
+        ("h3", "The story of Rāmaputta"),
+        ("p", "&sect;3", "an4.187:4.1-7.2"),
+        ("h3", "Vassakāra departs"),
+        ("p", "&sect;4", "an4.187:8.1-9.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse&rsquo;s four-question structure differ from AN 4.173 and AN 4.174?",
+         "opts": [
+             "It does not use a four-question structure",
+             "The four questions here get real, differentiated answers rather than being uniformly refused",
+             "It is refused identically to the earlier pair",
+             "It only asks two questions"],
+         "correct": 1,
+         "expl": "Asked, restated, then explained &mdash; the same shape, a different outcome."},
+        {"q": "Can an untrue person recognize another untrue person?",
+         "opts": [
+             "Yes, always",
+             "No &mdash; impossible, it can&rsquo;t happen",
+             "Only sometimes",
+             "The discourse does not say"],
+         "correct": 1,
+         "expl": "Neither direction of judgment is available to an untrue person."},
+        {"q": "Can a true person recognize an untrue person?",
+         "opts": [
+             "No, impossible",
+             "Yes &mdash; possible, in both directions",
+             "Only with training",
+             "The discourse leaves it open"],
+         "correct": 1,
+         "expl": "A true person can identify character in both directions."},
+        {"q": "What shape does the asymmetry take, according to the guide?",
+         "opts": [
+             "Like recognizes like, unlike fails to recognize unlike",
+             "One axis is entirely blind regardless of the object; the other is entirely sighted regardless of the object",
+             "Both axes are partially accurate",
+             "Neither axis is reliable"],
+         "correct": 1,
+         "expl": "Discernment of character is one capacity, present or absent as a whole."},
+        {"q": "What does Vassakāra do that he did not do in AN 4.183?",
+         "opts": [
+             "He disagrees with the answer",
+             "He volunteers his own illustration, unprompted",
+             "He asks no further questions",
+             "He refuses to approve"],
+         "correct": 1,
+         "expl": "A live political anecdote, this time, rather than simple approval."},
+        {"q": "What is Todeyya&rsquo;s argument in the story?",
+         "opts": [
+             "That the king is a fool",
+             "That the king and his men, already astute judges, deferring to Rāmaputta is evidence he is even more astute",
+             "That Rāmaputta is a fraud",
+             "That deference proves nothing"],
+         "correct": 1,
+         "expl": "A direct, concrete application of the Buddha&rsquo;s abstract claim."},
+        {"q": "Does the discourse assert that Rāmaputta actually is a true person?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; the illustration demonstrates the logical shape of the principle without taking a position on Rāmaputta himself",
+             "No, it denies it",
+             "The commentary settles it"],
+         "correct": 1,
+         "expl": "The guide does not extend the passage further than that."},
+        {"q": "What does the story establish about discerning judges&rsquo; agreement?",
+         "opts": [
+             "That it proves nothing",
+             "That it is evidence-worthy in a way undiscerning agreement is not",
+             "That it is always correct",
+             "That it applies only to kings"],
+         "correct": 1,
+         "expl": "Because true persons can identify true persons, on the discourse&rsquo;s principle."},
+        {"q": "How does this discourse end compared to AN 4.183?",
+         "opts": [
+             "Very differently",
+             "In an almost identical pattern: incredulous praise, duties calling him away, approval and departure",
+             "With a formal refuge-taking",
+             "With Vassakāra angry"],
+         "correct": 1,
+         "expl": "A matched pair across Vassakāra&rsquo;s two appearances in this chapter."},
+        {"q": "What is common to Vassakāra&rsquo;s two appearances in this chapter?",
+         "opts": [
+             "Nothing connects them",
+             "In both, he brings his own material to the exchange and leaves having had it examined rather than simply confirmed",
+             "In both he is corrected harshly",
+             "In both he refuses to engage"],
+         "correct": 1,
+         "expl": "A stated doctrine in the first appearance, a live anecdote in the second."},
+    ],
+    marginalia=[
+        ("Four questions", [
+            "untrue &rarr; untrue? no",
+            "untrue &rarr; true? no",
+            "true &rarr; true? yes",
+            "true &rarr; untrue? yes",
+        ]),
+        ("The shape", [
+            "one axis: blind both ways",
+            "other axis: sighted both ways",
+        ]),
+        ("Vassakāra&rsquo;s own example", [
+            "King Eḷeyya defers to Rāmaputta",
+            "&mdash; astute judges, deferring",
+            "&mdash; taken as evidence",
+        ]),
+        ("Cross-references", [
+            "AN 4.173 &middot; the same shape, refused instead",
+            "AN 4.183 &middot; Vassakāra&rsquo;s first appearance",
+            "AN 4.188 &middot; next: a sharper exchange",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.187/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.183.html">AN 4.183 &middot; Vassakāra on What is Heard</a> &mdash; his first '
+        "appearance in this chapter.",
+        '<a href="an-4.173.html">AN 4.173 &middot; With Mahākoṭṭhita</a> &mdash; the same fourfold '
+        "shape, used there to refuse rather than to answer.",
+        '<a href="an-4.188.html">AN 4.188 &middot; With Upaka</a> &mdash; next in this series.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.188 — Upakasutta
+# --------------------------------------------------------------------------- #
+page(
+    188, "Upaka", "With Upaka",
+    vagga=VAGGA_19,
+    meta_title="AN 4.188 — With Upaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Upakasutta — a principle "
+        "turned back on the person who stated it, a fish caught in its own trap, limitless "
+        "phrasings for one meaning, and a king's furious overreaction. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Rājagaha, on the Vulture&rsquo;s Peak Mountain"),
+        ("Speakers", "Upaka, son of Maṇḍikā, the Buddha, and King Ajātasattu"),
+        ("Form", "A stated principle applied reflexively, a teaching on paraphrase, and a "
+                 "narrative coda involving a king"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The invariance of ethical content across paraphrase is a recurring "
+                              "theme in the early collections' accounts of the Buddha's teaching "
+                              "method; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a short exchange with a coda "
+                       "that should be read exactly as plainly as it is written"),
+    ],
+    why=(
+        "Upaka states a principle &mdash; complaining about others without giving reasons is "
+        "reprehensible &mdash; and the Buddha turns it back on him immediately: that&rsquo;s "
+        "exactly what you&rsquo;re doing. Upaka, caught, compares himself to a fish rising into a "
+        "trap. The Buddha then explains that his own teaching, however phrased, always comes down "
+        "to four declarations. Upaka approves and leaves respectfully &mdash; and is then savaged "
+        "by his king for having dared to speak with the Buddha at all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A principle applies to the person stating it as much as to anyone else, and a single "
+            "meaning survives any number of different phrasings."]),
+        ("A trap sprung immediately", [
+            "Upaka states his doctrine and view without preamble: <em>whoever goes on complaining "
+            "about others without giving any reasons is reprehensible and at fault.</em> The "
+            "Buddha&rsquo;s reply does not evaluate the principle at all. It applies it: <em>that&rsquo;s "
+            "what you do, so you&rsquo;re reprehensible and at fault.</em>",
+            "No argument is offered for why Upaka&rsquo;s statement to the Buddha itself counts as "
+            "an instance of complaining without reasons &mdash; the text gives no setup explaining "
+            "what prompted Upaka to come with this particular grievance. What the discourse "
+            "preserves is only the reflexive turn: state a principle broad enough to be universal, "
+            "and it will be broad enough to catch its own speaker."]),
+        ("The fish in the trap", [
+            "Upaka&rsquo;s own image for what just happened to him is vivid and self-deprecating "
+            "rather than defensive: <em>like a fish caught in a big trap just as it rises, so the "
+            "Buddha caught me in a big trap of words just as I rose up.</em>",
+            "The simile is worth noting for what it does not do. Upaka does not protest the move as "
+            "unfair or claim he was tricked by wordplay. He describes it as a trap that worked "
+            "exactly as a trap should, catching him at the precise moment &mdash; &lsquo;rising&rsquo; "
+            "&mdash; that made him vulnerable to it. There is no resentment in the image, only "
+            "acknowledgment."]),
+        ("Limitless phrasings for one meaning", [
+            "Rather than press the reflexive point further, the Buddha shifts to a different "
+            "teaching entirely: <em>I&rsquo;ve declared, &lsquo;this is unskillful.&rsquo; And for "
+            "that there are limitless words, phrasings, and teachings of the Realized One: "
+            "&lsquo;this is another way of saying that this is unskillful.&rsquo;</em> The same is "
+            "said of what should be given up, what is skillful, and what should be developed "
+            "&mdash; four fixed declarations, each capable of being said in unlimited ways without "
+            "changing what is meant.",
+            "This connects directly to AN 4.183, earlier in this chapter, where the criterion for "
+            "whether to speak of something was located in its effect on skillful and unskillful "
+            "qualities rather than in its source or its exact wording. This discourse extends that "
+            "logic: not only does the effect matter more than the wording, but the wording itself "
+            "is fundamentally variable &mdash; countless different sentences can carry the identical "
+            "content, and none of them is more truly &lsquo;the teaching&rsquo; than any other, "
+            "provided the content survives the paraphrase intact.",
+            "That is a substantial claim about how the Buddha&rsquo;s own teaching should be "
+            "understood, offered here almost as an aside after a sharp personal exchange rather than "
+            "as a formal doctrinal statement in its own right."]),
+        ("Upaka&rsquo;s departure, and the king&rsquo;s fury", [
+            "Upaka approves, rises, bows, and circles the Buddha respectfully &mdash; the standard "
+            "gesture of high regard, not of someone leaving in defeat or resentment. He then goes "
+            "directly to King Ajātasattu and reports the entire exchange.",
+            "The king&rsquo;s reaction is fury, and it is worth reading exactly as the text gives "
+            "it, without softening: he calls Upaka a <em>lavaṇakāradāraka</em>, a salt-maker&rsquo;s "
+            "boy &mdash; a caste-based insult naming Upaka&rsquo;s low occupational origin &mdash; "
+            "and calls him scurrilous and impudent for having dared to attack the Buddha, then "
+            "banishes him from his presence.",
+            "This ending deserves to be read plainly rather than explained away. Nothing in the "
+            "exchange Upaka reported was an attack; he stated a principle, had it turned on him, "
+            "accepted the correction without complaint, and left with every sign of respect. The "
+            "king&rsquo;s fury is not a response to what actually happened but to his own assumption "
+            "about what an exchange with the Buddha must have been &mdash; and it arrives with a "
+            "slur the text records without comment, attributing it to the king&rsquo;s own words "
+            "rather than presenting it as the discourse&rsquo;s judgment.",
+            "This reading guide does not supply a moral for this coda that the text does not state. "
+            "What can be said is that the discourse ends on a note of human misjudgment rather than "
+            "resolution &mdash; a king reacting to a story rather than to the events it reported, "
+            "and a young man cast out for a conversation that, on the discourse&rsquo;s own account, "
+            "went well."],
+        ),
+    ],
+    terms=[
+        ("parūpārambha",
+         "&ldquo;complaining about others&rdquo; &mdash; the fault Upaka names in his opening "
+         "statement, before it is turned back on him."),
+        ("gārayha / upavajja",
+         "&ldquo;reprehensible&rdquo; and &ldquo;at fault&rdquo; &mdash; the two terms Upaka uses "
+         "of the fault, returned to him unchanged."),
+        ("aparimāṇā padā aparimāṇā byañjanā",
+         "&ldquo;limitless words, limitless phrasings&rdquo; &mdash; the Buddha&rsquo;s description "
+         "of how many ways a single teaching can be expressed."),
+        ("Ajātasattu",
+         "the King of Magadha, son of the princess of Videha, whose fury at Upaka closes the "
+         "discourse."),
+        ("lavaṇakāradāraka",
+         "&ldquo;salt-maker&rsquo;s boy&rdquo; &mdash; the caste-based insult the king uses against "
+         "Upaka, recorded as the king&rsquo;s own word rather than the discourse&rsquo;s judgment."),
+    ],
+    text_intro=(
+        "The discourse in full: the reflexive correction, the fish in the trap, the teaching on "
+        "paraphrase, and the king's fury. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Upaka&rsquo;s claim"),
+        ("p", "&sect;1", "an4.188:1.1-2.7"),
+        ("h3", "Limitless words for one meaning"),
+        ("p", "&sect;2", "an4.188:3.1-4.6"),
+        ("h3", "Upaka before the king"),
+        ("p", "&sect;3", "an4.188:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What principle does Upaka state?",
+         "opts": [
+             "That all complaints are valid",
+             "That complaining about others without giving reasons is reprehensible and at fault",
+             "That the Buddha is at fault",
+             "That silence is always best"],
+         "correct": 1,
+         "expl": "Stated without preamble, before it is turned back on him."},
+        {"q": "How does the Buddha respond?",
+         "opts": [
+             "By rejecting the principle",
+             "By applying it directly to Upaka: that is exactly what you are doing",
+             "By ignoring it",
+             "By asking Upaka to explain further"],
+         "correct": 1,
+         "expl": "No argument for why it applies &mdash; only the reflexive turn."},
+        {"q": "How does Upaka describe what happened to him?",
+         "opts": [
+             "As unfair trickery",
+             "As a fish caught in a trap just as it rises &mdash; without resentment, only acknowledgment",
+             "As a misunderstanding",
+             "He does not comment"],
+         "correct": 1,
+         "expl": "A trap that worked exactly as a trap should."},
+        {"q": "What does the Buddha say about his own teaching&rsquo;s wording?",
+         "opts": [
+             "That it must be memorized exactly",
+             "That limitless different phrasings can carry the identical content of four fixed declarations",
+             "That only Pāli can express it correctly",
+             "That it changes with each audience"],
+         "correct": 1,
+         "expl": "This is unskillful, give it up; this is skillful, develop it &mdash; in unlimited possible words."},
+        {"q": "How does this connect to AN 4.183?",
+         "opts": [
+             "It contradicts it",
+             "It extends the same logic: effect matters more than exact wording, and content can survive any paraphrase",
+             "It is unrelated",
+             "It reverses AN 4.183&rsquo;s criterion"],
+         "correct": 1,
+         "expl": "AN 4.183 located the criterion for speech in effect, not source or wording."},
+        {"q": "How does Upaka leave the exchange?",
+         "opts": [
+             "In anger",
+             "Approving, bowing, and circling the Buddha respectfully &mdash; the standard gesture of high regard",
+             "In silence, unconvinced",
+             "Arguing further"],
+         "correct": 1,
+         "expl": "Not the departure of someone who feels defeated or resentful."},
+        {"q": "How does King Ajātasattu react when told of the exchange?",
+         "opts": [
+             "With approval",
+             "With fury, insulting Upaka&rsquo;s low origin and banishing him",
+             "With indifference",
+             "By seeking the Buddha out himself"],
+         "correct": 1,
+         "expl": "Recorded plainly, without the text softening the insult."},
+        {"q": "What does the guide say about the insult the king uses?",
+         "opts": [
+             "That the discourse endorses it",
+             "That it is a caste-based slur, recorded as the king&rsquo;s own words rather than the discourse&rsquo;s judgment",
+             "That it is a compliment misread",
+             "That it is a later addition"],
+         "correct": 1,
+         "expl": "Read plainly rather than explained away."},
+        {"q": "What is the mismatch the guide identifies in the king&rsquo;s reaction?",
+         "opts": [
+             "There is no mismatch",
+             "The king reacts to his own assumption about what an exchange with the Buddha must have been, not to what actually happened",
+             "The king is right to be angry",
+             "Upaka actually did attack the Buddha"],
+         "correct": 1,
+         "expl": "Nothing in the reported exchange was an attack."},
+        {"q": "How does the guide describe the discourse&rsquo;s ending?",
+         "opts": [
+             "As a resolution",
+             "As a note of human misjudgment rather than resolution",
+             "As a moral lesson stated explicitly",
+             "As a triumphant conclusion for Upaka"],
+         "correct": 1,
+         "expl": "The guide does not supply a moral the text does not state."},
+    ],
+    marginalia=[
+        ("The reflexive turn", [
+            "&lsquo;complaining without reasons",
+            "is reprehensible&rsquo;",
+            "&mdash; &lsquo;that&rsquo;s what you do&rsquo;",
+        ]),
+        ("Upaka&rsquo;s image", [
+            "a fish, a trap,",
+            "caught while rising",
+            "&mdash; no resentment",
+        ]),
+        ("One meaning, many words", [
+            "unskillful &middot; give it up",
+            "skillful &middot; develop it",
+            "&mdash; limitless phrasings",
+        ]),
+        ("Cross-references", [
+            "AN 4.183 &middot; the criterion for speech",
+            "AN 4.187 &middot; the discourse before this one",
+            "AN 4.189 &middot; next: four things realized",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.188/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.183.html">AN 4.183 &middot; Vassakāra on What is Heard</a> &mdash; where '
+        "effect, not wording or source, decides what should be said.",
+        '<a href="an-4.187.html">AN 4.187 &middot; With Vassakāra</a> &mdash; the discourse before '
+        "this one in the chapter.",
+        '<a href="an-4.189.html">AN 4.189 &middot; Things to be Realized</a> &mdash; next in this '
+        "series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.189 — Sacchikaraṇīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    189, "Sacchikaraṇīya", "Things to be Realized",
+    vagga=VAGGA_19,
+    meta_title="AN 4.189 — Things to be Realized | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sacchikaraṇīyasutta — four "
+        "things to be realized, sorted not by content but by the faculty that realizes them: the "
+        "body, recollection, vision, and wisdom. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_19),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, each naming a faculty and then the single thing realized by it"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Three of these four map onto the standard three knowledges "
+                              "(<em>tevijjā</em>) widespread across the early collections; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; four lines, organized by an "
+                       "axis this chapter has not used before"),
+    ],
+    why=(
+        "Four things should be realized, and the discourse sorts them not by what they are but by "
+        "how they are reached: with the body, with recollection, with vision, with wisdom. The "
+        "eight liberations are realized bodily. Past lives are realized by recollection. The "
+        "passing away and rebirth of beings is realized by vision. The ending of defilements is "
+        "realized by wisdom. Three of the four are the tradition's standard three knowledges; the "
+        "fourth stands apart."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four things worth realizing are sorted by the specific faculty that realizes each one, "
+            "not by their content or their order of importance."]),
+        ("An unusual organizing axis", [
+            "Every other classification in this chapter, and most in this nipāta, sorts its four "
+            "items by content: four causes, four truths, four kinds of person. This discourse sorts "
+            "by instrument &mdash; <em>kāyena</em>, with the body; <em>satiyā</em>, with "
+            "recollection; <em>cakkhunā</em>, with the eye; <em>paññāya</em>, with wisdom &mdash; "
+            "and only then names what each instrument reaches.",
+            "That is worth noticing as a structural choice in its own right. The discourse is not "
+            "claiming these four things are realized in some fixed sequence, or that one is "
+            "superior to another. It is observing that different kinds of realization use different "
+            "faculties, and cataloguing which faculty goes with which content."]),
+        ("With the body: the eight liberations", [
+            "<em>Kāyena sacchikaraṇīyā</em>, to be realized with the body &mdash; a phrase that "
+            "names direct meditative experience rather than literal physical sensation. What is "
+            "realized this way is <em>aṭṭha vimokkhā</em>, the eight liberations, a sequence of "
+            "meditative states running from form-based absorption through the formless attainments "
+            "to the cessation of perception and feeling.",
+            "This discourse does not enumerate the eight or explain them; it names them as a set "
+            "already assumed to be known, in the compact style this chapter&rsquo;s bare lists "
+            "share with much of the Fours."]),
+        ("With recollection, and with vision: two of the three knowledges", [
+            "<em>Satiyā sacchikaraṇīyā</em>, to be realized with recollection: past lives, "
+            "<em>pubbenivāsa</em>. <em>Cakkhunā sacchikaraṇīyā</em>, to be realized with vision: the "
+            "passing away and rebirth of sentient beings &mdash; the divine eye, "
+            "<em>cutūpapātañāṇa</em>, that sees where beings go according to their deeds.",
+            "These are two of the tradition&rsquo;s standard three knowledges, <em>tevijjā</em>, "
+            "traditionally attained in sequence during the night of awakening: memory of one&rsquo;s "
+            "own past lives, sight of other beings&rsquo; deaths and rebirths, and the ending of "
+            "defilements."]),
+        ("With wisdom: the ending of defilements, and the third knowledge", [
+            "<em>Paññāya sacchikaraṇīyā</em>, to be realized with wisdom: <em>āsavānaṁ khaya</em>, "
+            "the ending of defilements &mdash; the third of the three knowledges, and the "
+            "collection&rsquo;s standard description of arahantship, met repeatedly across this "
+            "nipāta.",
+            "So three of this discourse&rsquo;s four items map exactly onto the traditional three "
+            "knowledges, in the same order they are traditionally given, each now assigned its own "
+            "instrument: recollection for the first, vision for the second, wisdom for the third."]),
+        ("The fourth item, standing apart", [
+            "The eight liberations do not belong to the set of three knowledges in any of their "
+            "standard formulations, and their presence here, ahead of the three familiar items "
+            "rather than after them, is worth flagging rather than passing over.",
+            "One reading is that the discourse is deliberately widening a familiar three-part "
+            "scheme by adding a fourth so that it fits this nipāta&rsquo;s number, in the same way "
+            "several other discourses in the Fours have trimmed or extended material to match their "
+            "chapter&rsquo;s count. This reading guide offers that as a plausible account of the "
+            "list&rsquo;s shape rather than as something the text itself explains; the discourse "
+            "gives no reason for the fourth item&rsquo;s inclusion or its position first in the "
+            "list.",
+            "What can be said with more confidence is that grouping the eight liberations with the "
+            "three knowledges under a single organizing question &mdash; what faculty realizes "
+            "this? &mdash; treats a purely meditative attainment and a purely cognitive one as "
+            "answering to the same kind of inquiry, which is itself a modest and useful point "
+            "independent of why the fourth item was added."],
+        ),
+    ],
+    terms=[
+        ("sacchikaraṇīya",
+         "&ldquo;to be realized&rdquo;, to be witnessed directly &mdash; <em>sacchi</em>, before "
+         "one&rsquo;s own eyes; the discourse&rsquo;s organizing verb."),
+        ("aṭṭha vimokkhā",
+         "&ldquo;the eight liberations&rdquo; &mdash; a sequence of meditative states from "
+         "form-based absorption through the formless attainments to the cessation of perception "
+         "and feeling; realized <em>kāyena</em>, with the body."),
+        ("pubbenivāsānussati",
+         "&ldquo;recollection of past lives&rdquo; &mdash; the first of the three knowledges, "
+         "realized here with <em>sati</em>, recollection."),
+        ("cutūpapātañāṇa",
+         "&ldquo;knowledge of passing away and rebirth&rdquo; &mdash; the divine eye, seeing where "
+         "beings go according to their deeds; realized with vision."),
+        ("tevijjā",
+         "&ldquo;the three knowledges&rdquo; &mdash; past lives, the passing away and rebirth of "
+         "beings, and the ending of defilements; three of this discourse&rsquo;s four items map "
+         "exactly onto this traditional set."),
+    ],
+    text_intro=(
+        "The discourse in full: four things to be realized, each with the faculty that realizes "
+        "it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four things to be realized"),
+        ("p", "&sect;1", "an4.189:1.1-1.8"),
+        ("h3", "With recollection"),
+        ("p", "&sect;2", "an4.189:2.1-2.2"),
+        ("h3", "With vision"),
+        ("p", "&sect;3", "an4.189:3.1-3.2"),
+        ("h3", "With wisdom"),
+        ("p", "&sect;4", "an4.189:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What axis does this discourse use to sort its four items?",
+         "opts": [
+             "Content, as most classifications in this chapter do",
+             "Instrument &mdash; the faculty that realizes each thing, rather than what is realized",
+             "Order of attainment",
+             "Difficulty"],
+         "correct": 1,
+         "expl": "Different from every other classification in this chapter."},
+        {"q": "What is realized with the body?",
+         "opts": [
+             "The ending of defilements",
+             "The eight liberations",
+             "Past lives",
+             "The passing away and rebirth of beings"],
+         "correct": 1,
+         "expl": "<em>Kāyena sacchikaraṇīyā</em> &mdash; direct meditative experience, not literal physical sensation."},
+        {"q": "What is realized with recollection?",
+         "opts": [
+             "The eight liberations",
+             "Past lives",
+             "The ending of defilements",
+             "The passing away and rebirth of beings"],
+         "correct": 1,
+         "expl": "The first of the three knowledges."},
+        {"q": "What is realized with vision?",
+         "opts": [
+             "Past lives",
+             "The passing away and rebirth of sentient beings &mdash; the divine eye",
+             "The eight liberations",
+             "The ending of defilements"],
+         "correct": 1,
+         "expl": "<em>Cutūpapātañāṇa</em>, seeing where beings go according to their deeds."},
+        {"q": "What is realized with wisdom?",
+         "opts": [
+             "Past lives",
+             "The ending of defilements",
+             "The eight liberations",
+             "The passing away and rebirth of beings"],
+         "correct": 1,
+         "expl": "The third knowledge, and the standard description of arahantship."},
+        {"q": "How many of the four items map onto the traditional three knowledges?",
+         "opts": [
+             "All four",
+             "Three, in the same traditional order, each now assigned its own instrument",
+             "Two",
+             "None"],
+         "correct": 1,
+         "expl": "Recollection for the first, vision for the second, wisdom for the third."},
+        {"q": "Which item does not belong to the traditional three knowledges?",
+         "opts": [
+             "Past lives",
+             "The eight liberations",
+             "The ending of defilements",
+             "The passing away and rebirth of beings"],
+         "correct": 1,
+         "expl": "Standing apart from the familiar three-part scheme."},
+        {"q": "What does the guide offer as a plausible explanation for the fourth item&rsquo;s inclusion?",
+         "opts": [
+             "A doctrinal necessity stated in the text",
+             "That a familiar three-part scheme was widened to fit this nipāta&rsquo;s number, as other discourses in the Fours have done",
+             "A scribal error",
+             "A later commentarial addition"],
+         "correct": 1,
+         "expl": "Offered as a plausible account, not something the text itself explains."},
+        {"q": "Does the discourse explain the eight liberations?",
+         "opts": [
+             "Yes, in full",
+             "No &mdash; it names them as a set already assumed to be known",
+             "Only partially",
+             "It lists all eight by name"],
+         "correct": 1,
+         "expl": "The compact style this chapter&rsquo;s bare lists share with much of the Fours."},
+        {"q": "What point does grouping a meditative attainment with cognitive knowledges under one organizing question make?",
+         "opts": [
+             "That meditation is superior to knowledge",
+             "That both answer to the same kind of inquiry &mdash; what faculty realizes this?",
+             "That knowledge is superior to meditation",
+             "That the four are unrelated"],
+         "correct": 1,
+         "expl": "A modest point independent of why the fourth item was added."},
+    ],
+    marginalia=[
+        ("Four faculties", [
+            "<span class=\"pali\">kāyena</span>the body",
+            "<span class=\"pali\">satiyā</span>recollection",
+            "<span class=\"pali\">cakkhunā</span>vision",
+            "<span class=\"pali\">paññāya</span>wisdom",
+        ]),
+        ("What each reaches", [
+            "the eight liberations",
+            "past lives",
+            "beings&rsquo; passing and rebirth",
+            "the end of defilements",
+        ]),
+        ("Three of four", [
+            "map onto the tevijjā",
+            "&mdash; the fourth stands apart",
+        ]),
+        ("Cross-references", [
+            "AN 4.188 &middot; the discourse before this one",
+            "AN 4.190 &middot; next: four attainments, in full",
+            "AN 4.171 &middot; another formless attainment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.189/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.171.html">AN 4.171 &middot; Intention</a> &mdash; where a formless '
+        "attainment is examined in a different technical vocabulary.",
+        '<a href="an-4.188.html">AN 4.188 &middot; With Upaka</a> &mdash; the discourse before this '
+        "one in the chapter.",
+        '<a href="an-4.190.html">AN 4.190 &middot; Sabbath</a> &mdash; next in this series, and the '
+        "chapter&rsquo;s close.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.190 — Uposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    190, "Uposatha", "Sabbath",
+    vagga=VAGGA_19,
+    meta_title="AN 4.190 — Sabbath | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Uposathasutta — a silent "
+        "assembly on the sabbath, and four attainments present within it: to the gods, to "
+        "divinity, to the imperturbable, and to nobility, each cataloguing a system already met "
+        "across this nipāta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in the stilt longhouse of Migāra&rsquo;s mother, in the Eastern "
+                    "Monastery, on the sabbath day"),
+        ("Speakers", "The Buddha, addressing the Saṅgha of mendicants"),
+        ("Form", "An address to a silent assembly, then four attainments named and each defined "
+                 "in full"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The fourfold survey of jhāna, the immeasurables, the formless "
+                              "attainments, and the four truths as a complete map of practice is "
+                              "widespread across the early collections; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the chapter&rsquo;s longest "
+                       "discourse, and its most complete synthesis"),
+    ],
+    why=(
+        "On the sabbath, the Buddha looks around a silent assembly and calls it free of chaff, "
+        "pure, consolidated in the core &mdash; worth traveling many leagues to see. Then he names "
+        "four things some of the mendicants present have attained: to the gods, to divinity, to "
+        "the imperturbable, to nobility. Each is defined in full, and each is a system this nipāta "
+        "has already met elsewhere &mdash; the four absorptions, the four immeasurables, the four "
+        "formless attainments, and the four noble truths, gathered here into one closing survey."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A single silent assembly holds mendicants who have reached four entirely different "
+            "kinds of attainment, and this discourse names all four in full."]),
+        ("A silent assembly, praised without qualification", [
+            "The scene is exact: the sabbath day, the Buddha seated, surrounded by the Saṅgha, and "
+            "looking around at mendicants who are <em>so very silent</em>. What follows is a run of "
+            "praise with no hedging in it &mdash; <em>free of chaff, pure, and consolidated in the "
+            "core&hellip; rarely seen in the world&hellip; worth traveling many leagues to see, even "
+            "if you have to carry your own provisions in a knapsack.</em>",
+            "The formula naming this assembly worthy of offerings, hospitality, religious donation, "
+            "and veneration, and calling it the supreme field of merit for the world, is the "
+            "identical formula AN 4.181 used to close its description of a single mendicant with "
+            "four qualities. What was said there of one warrior-like mendicant is said here of an "
+            "entire silent room."]),
+        ("Four attainments, named before they are defined", [
+            "<em>Devappatta</em>, attained to the gods. <em>Brahmappatta</em>, attained to divinity. "
+            "<em>Āneñjappatta</em>, attained to the imperturbable. <em>Ariyappatta</em>, attained to "
+            "nobility. The discourse states plainly that mendicants of each of the four kinds are "
+            "present in this very assembly, then takes each in turn and defines it completely."]),
+        ("Attained to the gods: the four absorptions", [
+            "The first attainment is the four <em>jhāna</em>, given in the collection&rsquo;s "
+            "standard formula from the first, born of seclusion, through the fourth, beyond "
+            "pleasure and pain. This is the identical formula met at AN 4.123 and again as the "
+            "pleasant path of AN 4.163, and the name &lsquo;attained to the gods&rsquo; recalls "
+            "directly the mechanism AN 4.123 described: this practice, enjoyed and not lost, leads "
+            "to rebirth in the company of gods."]),
+        ("Attained to divinity: the four immeasurables", [
+            "The second attainment is love, compassion, rejoicing, and equanimity, each spread in "
+            "every direction, abundant, expansive, limitless, free of enmity and ill will &mdash; "
+            "the same formula met at AN 4.125 and AN 4.126. <em>Brahmappatta</em>, attained to "
+            "divinity, uses the same root as AN 4.63&rsquo;s praise of a compassionate household "
+            "life as &lsquo;living with Divinity&rsquo;, now applied to mendicants rather than "
+            "householders."]),
+        ("Attained to the imperturbable: the four formless states", [
+            "The third attainment runs through all four formless dimensions in sequence: infinite "
+            "space, infinite consciousness, nothingness, and neither perception nor "
+            "non-perception, each reached by going totally beyond the one before it.",
+            "This is where the chapter&rsquo;s threads converge most visibly. The dimension of "
+            "nothingness, third in this sequence, is the very attainment AN 4.185 isolated as the "
+            "practice behind the fourth truth of the brahmins &mdash; <em>I don&rsquo;t belong to "
+            "anyone, nothing belongs to me</em>. The dimension of neither perception nor "
+            "non-perception, fourth and last here, is the attainment AN 4.171 examined at length in "
+            "the previous chapter, where the same state, identically reached, produced either a "
+            "returner or a non-returner depending on whether the lower fetters had been given up.",
+            "<em>Āneñja</em>, imperturbable, unshakeable, names what distinguishes these four from "
+            "the absorptions before them: a stability the formless attainments have that the "
+            "form-based <em>jhāna</em> do not, in the tradition&rsquo;s standard account."]),
+        ("Attained to nobility: the four noble truths", [
+            "The fourth and last attainment is truly understanding suffering, its origin, its "
+            "cessation, and the practice leading to its cessation &mdash; the identical four truths "
+            "that defined marksmanship at AN 4.181 and penetrating wisdom at AN 4.186, both earlier "
+            "in this same chapter.",
+            "<em>Ariyappatta</em>, attained to nobility, closes the discourse&rsquo;s survey by "
+            "returning to the one system this chapter has invoked more often than any other, now "
+            "named directly rather than through a simile or a question."]),
+        ("A chapter closing on its own convergence", [
+            "It is worth stating directly what this discourse accomplishes structurally, because it "
+            "is unusual even within a collection built from repeated formulas. Four complete "
+            "systems of practice, each already given full treatment somewhere in the Fours "
+            "&mdash; the absorptions, the immeasurables, the formless attainments, the four truths "
+            "&mdash; are gathered here and presented as four different things a single assembly, "
+            "observed on a single afternoon, actually contains.",
+            "The chapter that opened with a warrior simile mapping four military qualities onto a "
+            "single mendicant closes with the same worthiness formula mapping four complete "
+            "practice traditions onto a single roomful of them. Nothing forces these two discourses "
+            "to be read as bookends, and this reading guide does not claim the compilers intended "
+            "the echo. What can be said is that AN 4.181 and AN 4.190 are the only two discourses "
+            "in this chapter to use the full five-part worthiness formula, and they are, "
+            "respectively, its first and its last."],
+        ),
+    ],
+    terms=[
+        ("apalāpa",
+         "&ldquo;chaff&rdquo; &mdash; what the assembly is said to be free of; the husk separated "
+         "from grain, applied to a community without spiritual substance."),
+        ("devappatta",
+         "&ldquo;attained to the gods&rdquo; &mdash; via the four absorptions, recalling the "
+         "rebirth mechanism described at AN 4.123."),
+        ("brahmappatta",
+         "&ldquo;attained to divinity&rdquo; &mdash; via the four immeasurables, sharing its root "
+         "with AN 4.63&rsquo;s praise of a compassionate household."),
+        ("āneñjappatta",
+         "&ldquo;attained to the imperturbable&rdquo; &mdash; via the four formless dimensions, "
+         "including the very states examined at AN 4.171 and AN 4.185."),
+        ("ariyappatta",
+         "&ldquo;attained to nobility&rdquo; &mdash; via the four noble truths, the system this "
+         "chapter has returned to more often than any other."),
+    ],
+    text_intro=(
+        "The discourse in full: the silent assembly praised, and four attainments named and "
+        "defined completely. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A chaff-free assembly"),
+        ("p", "&sect;1", "an4.190:1.1-2.6"),
+        ("h3", "Four attainments"),
+        ("p", "&sect;2", "an4.190:3.1-3.4"),
+        ("h3", "Attained to the gods"),
+        ("p", "&sect;3", "an4.190:4.1-4.4"),
+        ("h3", "Attained to divinity"),
+        ("p", "&sect;4", "an4.190:5.1-5.6"),
+        ("h3", "Attained to the imperturbable"),
+        ("p", "&sect;5", "an4.190:6.1-6.6"),
+        ("h3", "Attained to nobility"),
+        ("p", "&sect;6", "an4.190:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "What formula does the Buddha use to praise the silent assembly?",
+         "opts": [
+             "A brief nod of approval",
+             "Free of chaff, pure, and consolidated in the core &mdash; worthy of offerings and the supreme field of merit for the world",
+             "A warning against complacency",
+             "A question about their practice"],
+         "correct": 1,
+         "expl": "The identical formula that closed AN 4.181, applied there to a single mendicant."},
+        {"q": "What are the four attainments named?",
+         "opts": [
+             "Faith, energy, mindfulness, wisdom",
+             "Attained to the gods, to divinity, to the imperturbable, and to nobility",
+             "Stream-entry, once-return, non-return, arahantship",
+             "The four fetters"],
+         "correct": 1,
+         "expl": "Each present among the mendicants in this very assembly, and each defined in full."},
+        {"q": "What defines &lsquo;attained to the gods&rsquo;?",
+         "opts": [
+             "The four immeasurables",
+             "The four absorptions, in the standard formula",
+             "The four formless attainments",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Recalling the rebirth mechanism described at AN 4.123."},
+        {"q": "What defines &lsquo;attained to divinity&rsquo;?",
+         "opts": [
+             "The four absorptions",
+             "The four immeasurables &mdash; love, compassion, rejoicing, equanimity",
+             "The four formless states",
+             "The four truths"],
+         "correct": 1,
+         "expl": "Sharing its root with AN 4.63&rsquo;s praise of a compassionate household."},
+        {"q": "What defines &lsquo;attained to the imperturbable&rsquo;?",
+         "opts": [
+             "The four absorptions",
+             "All four formless dimensions in sequence: infinite space, infinite consciousness, nothingness, neither perception nor non-perception",
+             "The four immeasurables",
+             "The four truths"],
+         "correct": 1,
+         "expl": "A stability the form-based absorptions do not have, in the tradition&rsquo;s standard account."},
+        {"q": "Where else in this chapter does the dimension of nothingness appear?",
+         "opts": [
+             "AN 4.182",
+             "AN 4.185, as the practice behind the fourth truth of the brahmins",
+             "AN 4.188",
+             "It appears only here"],
+         "correct": 1,
+         "expl": "&lsquo;I don&rsquo;t belong to anyone, nothing belongs to me.&rsquo;"},
+        {"q": "Where was the dimension of neither perception nor non-perception examined at length?",
+         "opts": [
+             "AN 4.186",
+             "AN 4.171, in the previous chapter, where the same attainment produced a returner or non-returner depending on the lower fetters",
+             "AN 4.189",
+             "It is unique to this discourse"],
+         "correct": 1,
+         "expl": "The identical state, identically reached, with different outcomes depending on an unrelated condition."},
+        {"q": "What defines &lsquo;attained to nobility&rsquo;?",
+         "opts": [
+             "The four immeasurables",
+             "The four noble truths, truly understood",
+             "The eight liberations",
+             "The three knowledges"],
+         "correct": 1,
+         "expl": "The identical truths that defined marksmanship at AN 4.181 and penetrating wisdom at AN 4.186."},
+        {"q": "What structural accomplishment does the guide identify in this discourse?",
+         "opts": [
+             "It introduces four new practices",
+             "It gathers four complete systems already given full treatment in the Fours and presents them as what one assembly actually contains",
+             "It ranks the four attainments",
+             "It replaces the earlier discourses"],
+         "correct": 1,
+         "expl": "The absorptions, the immeasurables, the formless attainments, and the four truths, in one closing survey."},
+        {"q": "What do AN 4.181 and AN 4.190 share that no other discourse in this chapter does?",
+         "opts": [
+             "The same speaker",
+             "Both use the full five-part worthiness formula, as the chapter&rsquo;s first and last discourses",
+             "The same setting",
+             "Both feature Vassakāra"],
+         "correct": 1,
+         "expl": "The guide notes the echo without claiming it was necessarily intended."},
+    ],
+    marginalia=[
+        ("Four attainments", [
+            "gods &middot; four absorptions",
+            "divinity &middot; four immeasurables",
+            "imperturbable &middot; four formless",
+            "nobility &middot; four truths",
+        ]),
+        ("Convergence", [
+            "nothingness &middot; also AN 4.185",
+            "neither-perception &middot; also AN 4.171",
+            "the four truths &middot; also 4.181, 4.186",
+        ]),
+        ("One formula, twice", [
+            "AN 4.181 &middot; one mendicant",
+            "AN 4.190 &middot; a whole assembly",
+        ]),
+        ("Cross-references", [
+            "AN 4.181 &middot; the chapter&rsquo;s opening",
+            "AN 4.123 &middot; the same absorption formula",
+            "AN 4.185 &middot; the nothingness truth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.190/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.181.html">AN 4.181 &middot; A Warrior</a> &mdash; the chapter&rsquo;s opening '
+        "discourse, and the other use of the full worthiness formula.",
+        '<a href="an-4.171.html">AN 4.171 &middot; Intention</a> &mdash; where the same highest '
+        "formless attainment is examined for what determines its outcome.",
+        '<a href="an-4.185.html">AN 4.185 &middot; Truths of the Brahmins</a> &mdash; where the '
+        "dimension of nothingness is isolated as a single insight.",
+    ],
+)
