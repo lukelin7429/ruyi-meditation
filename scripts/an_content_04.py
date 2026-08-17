@@ -62216,3 +62216,458 @@ page(
         '<a href="an-4.274.html">AN 4.274 &middot; Mindfulness Meditation</a> &mdash; the discourse that opened this three-part set.',
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# AN 4.277–303 — Pariññādisutta (merged page)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-4.277-303",
+    "index_pali": "Pariññādi",
+    "nav_title": "Complete Understanding, and So On",
+    "source": "an4/an4.277-303",
+    "crumb": "AN 4.277&ndash;303",
+    "meta_title": "AN 4.277–303 — Complete Understanding, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the twenty-seven "
+        "discourses AN 4.277–303, compressed into a single formula: the three fourfold lists "
+        "already given in full at AN 4.274–276, now developed for nine further ways of letting "
+        "go of greed. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 4.277&ndash;303",
+    "title": "Complete Understanding, and So On",
+    "subtitle": "<em>Rāgapeyyāla</em> &mdash; continuing the twenty-eighth chapter of the Fours, "
+                "its abbreviation-series at full speed",
+    "glance": [
+        ("Setting", SETTING_28),
+        ("Speakers", SPEAKER),
+        ("Form", "One compressed formula, run across nine verbs and the three fourfold lists "
+                 "already spelled out at AN 4.274&ndash;276, representing twenty-seven "
+                 "individually numbered discourses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "This same nine-verb, near-synonym technique for describing the "
+                              "abandoning of a defilement recurs across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the compression is nearly "
+                       "total; nothing in it is new content, and that is the point worth "
+                       "understanding"),
+    ],
+    "why": (
+        "AN 4.274&ndash;276 gave the four establishments of mindfulness, the four right efforts, "
+        "and the four bases of psychic power, each developed for direct knowledge, "
+        "<em>abhiññā</em>, of greed. This page represents what the source text gives next: the "
+        "identical three lists, developed for nine further ways of relating to greed &mdash; "
+        "complete understanding, finishing, giving up, ending, vanishing, fading away, "
+        "cessation, giving away, and letting go &mdash; each a near-synonym for the same "
+        "underlying movement away from a defilement. Three lists times nine verbs is "
+        "twenty-seven individually numbered discourses, all of it compressed by the source into "
+        "a single formula."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same three fourfold lists already given in full &mdash; mindfulness, right "
+            "effort, the bases of psychic power &mdash; are developed not only for direct "
+            "knowledge of greed but for nine further ways of relating to it: understanding it "
+            "completely, finishing it, giving it up, ending it, and so on through letting it go."]),
+        ("Nothing new, deliberately", [
+            "Every piece of content this page represents has already appeared in full at AN "
+            "4.274&ndash;276. What changes across these twenty-seven discourses is only the verb "
+            "governing the relationship between the practice and greed: <em>abhiññāya</em>, for "
+            "direct knowledge, becomes in turn <em>pariññāya</em>, for complete understanding; "
+            "<em>parikkhayāya</em>, for finishing; <em>pahānāya</em>, for giving up; "
+            "<em>khayāya</em>, for ending; <em>vayāya</em>, for vanishing; "
+            "<em>virāgāya</em>, for fading away; <em>nirodhāya</em>, for cessation; "
+            "<em>cāgāya</em>, for giving away; and <em>paṭinissaggāya</em>, for letting go."]),
+        ("Nine words for one movement", [
+            "These nine verbs are not nine different achievements. They are nine names for "
+            "substantially the same process &mdash; a defilement's grip loosening and finally "
+            "releasing &mdash; approached from nine slightly different angles: as an object of "
+            "understanding, as a process running to completion, as something actively "
+            "relinquished, as a quantity diminishing to nothing, as a color fading, as an activity "
+            "quieted, as a possession released, as a burden set down. The tradition&rsquo;s "
+            "willingness to name the same liberation nine ways, rather than settling on one term "
+            "and repeating it, is itself worth noticing: no single word was judged adequate to "
+            "carry the whole sense of what letting go of greed involves."]),
+        ("How twenty-seven discourses become one page", [
+            "Three lists times nine verbs is twenty-seven combinations, each technically its own "
+            "numbered discourse in the traditional count &mdash; AN 4.277 through AN 4.303. The "
+            "bilara-data source this site draws from, and Sujato&rsquo;s translation of it, "
+            "compress the entire run into a single continuous line using the "
+            "<em>peyyāla</em> convention this chapter is named for, on the assumption that a "
+            "reader who has followed AN 4.274&ndash;276 can supply the full expansion for every "
+            "remaining combination without needing each one spelled out."]),
+        ("A closing colophon of its own", [
+            "The source text marks this block&rsquo;s end with its own ordinal, "
+            "<em>Tiṁsatimaṁ</em>, &lsquo;the thirtieth&rsquo; &mdash; counting the three "
+            "individually written discourses at AN 4.274&ndash;276 together with these "
+            "twenty-seven as thirty total applications of the &lsquo;for greed, four things "
+            "should be developed&rsquo; frame. A far larger block follows immediately: the "
+            "identical apparatus, run across sixteen further defilements beyond greed."]),
+    ],
+    "terms": [
+        ("pariññā, parikkhaya, pahāna, khaya, vaya, virāga, nirodha, cāga, paṭinissagga",
+         "complete understanding, finishing, giving up, ending, vanishing, fading away, "
+         "cessation, giving away, and letting go &mdash; nine near-synonyms for the release of "
+         "a defilement, run here against the same three fourfold lists as AN 4.274&ndash;276."),
+        ("peyyāla",
+         "&ldquo;repetition-series, abbreviation&rdquo; &mdash; the device that lets "
+         "twenty-seven discourses share one continuous formula rather than being spelled out in "
+         "full twenty-seven times."),
+        ("rāga",
+         "&ldquo;greed&rdquo; &mdash; the single target of this page's content, and the term "
+         "this chapter, <em>Rāgapeyyāla</em>, takes its name from."),
+        ("Tiṁsatimaṁ",
+         "&ldquo;the thirtieth&rdquo; &mdash; the source colophon's count, combining the three "
+         "written-out discourses at AN 4.274&ndash;276 with these twenty-seven."),
+        ("satipaṭṭhāna, sammappadhāna, iddhipāda",
+         "the four establishments of mindfulness, the four right efforts, and the four bases of "
+         "psychic power &mdash; the three lists given in full at AN 4.274&ndash;276 and assumed "
+         "throughout this page."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: the same three fourfold lists, "
+        "developed for nine further ways of relating to greed. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The compressed formula"),
+        ("p", "&sect;1", "an4.277-303:1.1"),
+    ],
+    "quiz": [
+        {"q": "What three lists does this page's content develop, and where were they given in full?",
+         "opts": [
+             "New lists, introduced for the first time on this page",
+             "The four establishments of mindfulness, four right efforts, and four bases of psychic power, given in full at AN 4.274&ndash;276",
+             "The five precepts",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "This page represents nine further verbs applied to those same three lists."},
+        {"q": "How many verbs does this page apply to greed, beyond the \"direct knowledge\" of AN 4.274&ndash;276?",
+         "opts": [
+             "Three",
+             "Nine: complete understanding, finishing, giving up, ending, vanishing, fading away, cessation, giving away, and letting go",
+             "Twenty-seven separate verbs",
+             "One"],
+         "correct": 1,
+         "expl": "Three lists times nine verbs equals the twenty-seven discourses this page represents."},
+        {"q": "What does the guide say these nine verbs represent?",
+         "opts": [
+             "Nine entirely different, unrelated achievements",
+             "Nine names for substantially the same process of a defilement's grip loosening and releasing, approached from different angles",
+             "A sequence that must be completed in strict order",
+             "Nine separate meditation techniques"],
+         "correct": 1,
+         "expl": "No single word was judged adequate to carry the whole sense of letting go."},
+        {"q": "How many individually numbered discourses does this page's single formula represent?",
+         "opts": [
+             "Three",
+             "Twenty-seven, AN 4.277 through AN 4.303",
+             "Nine",
+             "Four hundred eighty"],
+         "correct": 1,
+         "expl": "Compressed by the source into one continuous line using the peyyāla convention."},
+        {"q": "What does the source colophon's ordinal, \"the thirtieth,\" count?",
+         "opts": [
+             "Only this page's twenty-seven discourses",
+             "The three discourses at AN 4.274&ndash;276 together with these twenty-seven, as thirty total applications of the frame",
+             "The total number of defilements addressed in this chapter",
+             "The total number of chapters in the Fours"],
+         "correct": 1,
+         "expl": "Thirty applications of the same underlying frame to greed alone."},
+        {"q": "What does the guide say happens immediately after this block, in the source text?",
+         "opts": [
+             "The Fours end entirely",
+             "The identical apparatus is run across sixteen further defilements beyond greed",
+             "A return to individually written discourses",
+             "A repeat of AN 4.274&ndash;276"],
+         "correct": 1,
+         "expl": "A far larger block, addressed on the next page."},
+        {"q": "Why does the source compress twenty-seven discourses into a single line rather than spelling each one out?",
+         "opts": [
+             "Because the content was lost",
+             "On the assumption that a reader who has followed AN 4.274&ndash;276 can supply the full expansion for every remaining combination",
+             "Because the discourses are considered unimportant",
+             "Because this site chose to omit content"],
+         "correct": 1,
+         "expl": "Nothing is lost in the compression; the pattern is fully predictable once seen."},
+        {"q": "What is <em>paṭinissagga</em>, the ninth and final verb in this page's sequence?",
+         "opts": [
+             "Complete understanding",
+             "Letting go",
+             "Vanishing",
+             "Cessation"],
+         "correct": 1,
+         "expl": "The last of the nine near-synonyms applied to greed on this page."},
+        {"q": "What single defilement does this entire page's content address?",
+         "opts": [
+             "All seventeen defilements this chapter eventually covers",
+             "Greed alone, <em>rāga</em>",
+             "Hate alone",
+             "No specific defilement is named"],
+         "correct": 1,
+         "expl": "The chapter's own name, <em>Rāgapeyyāla</em>, is built on this same term."},
+        {"q": "What term names the abbreviation device this whole page depends on?",
+         "opts": [
+             "Uddāna",
+             "Peyyāla",
+             "Vagga",
+             "Nikāya"],
+         "correct": 1,
+         "expl": "The device this entire chapter is named for."},
+    ],
+    "marginalia": [
+        ("Nine verbs, one movement", [
+            "understanding &middot; finishing",
+            "giving up &middot; ending &middot; vanishing",
+            "fading &middot; cessation &middot; giving away &middot; letting go",
+        ]),
+        ("Three lists, already given", [
+            "mindfulness &middot; right effort",
+            "bases of psychic power",
+        ]),
+        ("The math", [
+            "3 lists &times; 9 verbs",
+            "= 27 discourses, one formula",
+        ]),
+        ("What comes next", [
+            "the same apparatus,",
+            "sixteen more defilements",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an4.277-303/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.274.html">AN 4.274 &middot; Mindfulness Meditation</a> &mdash; the first of the three lists this page assumes in full.',
+        '<a href="an-3.183-352.html">AN 3.183&ndash;352 &middot; Overcoming Greed, and So On</a> &mdash; the Threes' + "&rsquo; own closing peyyāla, built from the identical list of defilements this chapter continues into next.",
+        '<a href="an-4.304-783.html">AN 4.304&ndash;783 &middot; Insight into Hate, and So On</a> &mdash; next, closing the Fours.',
+    ],
+})
+
+# --------------------------------------------------------------------------- #
+# AN 4.304–783 — Dosaabhiññādisutta (merged page, closing the Fours)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-4.304-783",
+    "index_pali": "Dosaabhiññādi",
+    "nav_title": "Insight into Hate, and So On",
+    "source": "an4/an4.304-783",
+    "crumb": "AN 4.304&ndash;783",
+    "meta_title": "AN 4.304–783 — Insight into Hate, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Fours' final four "
+        "hundred eighty discourses, compressed into one sentence: sixteen further defilements, "
+        "ten verbs, three fourfold lists, closing the entire Book of the Fours. From Ru-Yi "
+        "Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 4.304&ndash;783",
+    "title": "Insight into Hate, and So On",
+    "subtitle": "<em>Rāgapeyyāla</em> &mdash; closing the twenty-eighth and final chapter of the "
+                "Fours, and the Catukka Nipāta itself",
+    "glance": [
+        ("Setting", SETTING_28),
+        ("Speakers", SPEAKER),
+        ("Form", "One sentence, cross-multiplying sixteen defilements against ten verbs against "
+                 "three fourfold lists, representing four hundred eighty individually numbered "
+                 "discourses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Extended lists of secondary defilements alongside the three root "
+                              "poisons are a recurring feature of Abhidharma-adjacent material "
+                              "across traditions; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the single most compressed "
+                       "page in this series, and the one that ends the Fours"),
+    ],
+    "why": (
+        "One sentence stands for four hundred eighty discourses. Sixteen defilements beyond "
+        "greed &mdash; hate, delusion, anger, and thirteen further, increasingly specific "
+        "faults, closing on negligence &mdash; each developed for the same ten ways of relating "
+        "to a defilement already run against greed at AN 4.274&ndash;303, each of those ten "
+        "crossed against the same three fourfold lists given in full at AN 4.274&ndash;276. This "
+        "is the most extreme compression in this entire series, and it is also the discourse "
+        "that closes the Book of the Fours."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same three fourfold lists, developed for the same ten ways of relating to a "
+            "defilement, are now run against sixteen further defilements beyond greed &mdash; "
+            "hate, delusion, anger, acrimony, disdain, contempt, jealousy, stinginess, deceit, "
+            "deviousness, obstinacy, aggression, conceit, arrogance, vanity, and negligence."]),
+        ("The complete list, and where it has been seen before", [
+            "<em>Dosa, moha, kodha, upanāha, makkha, paḷāsa, issā, macchariya, māyā, sāṭheyya, "
+            "thambha, sārambha, māna, atimāna, mada, pamāda</em> &mdash; sixteen defilements, "
+            "running from the two remaining root poisons through increasingly specific "
+            "interpersonal and characterological faults, closing on negligence. This is not a "
+            "new list composed for the Fours. Together with greed, these same seventeen "
+            "defilements, in this same order, already closed the Threes at AN 3.183&ndash;352 "
+            "&mdash; the identical roster, reused wholesale for a structurally identical closing "
+            "device in a different nipāta."]),
+        ("Ten verbs, three lists, sixteen targets", [
+            "Each of the sixteen defilements is developed against the identical ten-verb "
+            "sequence already run against greed across AN 4.274&ndash;303: direct knowledge, "
+            "complete understanding, finishing, giving up, ending, vanishing, fading away, "
+            "cessation, giving away, and letting go. Each of those ten is in turn crossed "
+            "against the three fourfold lists given in full at AN 4.274&ndash;276: mindfulness, "
+            "right effort, and the bases of psychic power. Sixteen times ten times three is four "
+            "hundred eighty &mdash; the largest single combinatorial block this reading guide has "
+            "encountered anywhere in the Fours, and it survives in the source as one sentence."]),
+        ("A number the source confirms directly", [
+            "The colophon closing this block gives its own ordinal, <em>Dasuttarapañcasatimaṁ</em>, "
+            "&lsquo;the five hundred and tenth&rsquo; &mdash; the running count of every "
+            "discourse this chapter has generated from AN 4.274 onward: three written out in "
+            "full, twenty-seven more for greed alone at AN 4.277&ndash;303, and four hundred "
+            "eighty here. Three plus twenty-seven plus four hundred eighty is exactly five "
+            "hundred and ten, confirming the arithmetic this page has just laid out matches the "
+            "tradition's own count precisely."]),
+        ("A colophon repeated, and left honestly unresolved", [
+            "This block's closing colophon includes a line this series has now seen once "
+            "before, at AN 4.253: <em>Pañcamo paṇṇāsako samatto</em>, &lsquo;the fifth "
+            "paṇṇāsaka is complete&rsquo;. That AN 4.253 already carried this exact marker, "
+            "closing what this series confirmed at the time was a five-chapter group running "
+            "from AN 4.201, and that the identical marker now recurs here, after chapters "
+            "whose own colophons (AN 4.263's <em>chaṭṭho</em>, AN 4.273's <em>sattamo</em>) "
+            "showed the vagga count continuing rather than resetting, is a genuine puzzle this "
+            "reading guide does not have a confident resolution for. One plausible reading is "
+            "that the fifth paṇṇāsaka's traditional scope was always understood to include this "
+            "entire final stretch, vaggas twenty-one through twenty-eight together, with AN "
+            "4.253's marker noting an internal milestone and this one marking the group's true "
+            "close; but that reading is offered as a guess, not a settled fact, and is recorded "
+            "as such rather than smoothed into false certainty."]),
+        ("The Book of the Fours, finished", [
+            "The final line of this block, following its ordinal and its paṇṇāsaka marker, is "
+            "<em>Catukkanipātapāḷi niṭṭhitā</em>: &lsquo;the text of the Book of the Fours is "
+            "finished&rsquo;. This is not a chapter closing, of the kind this series has met "
+            "many times since AN 4.7. It is the close of the entire Catukka Nipāta &mdash; the "
+            "collection this whole series has read since AN 4.1, one discourse and then one "
+            "chapter at a time, now complete from its first page to its last, including the "
+            "final five hundred and ten discourses this page and its predecessor represent in "
+            "compressed form rather than individual pages. What comes next belongs to the "
+            "Pañcaka Nipāta, the Book of the Fives."]),
+    ],
+    "terms": [
+        ("dosa, moha, kodha, upanāha, makkha, paḷāsa, issā, macchariya, māyā, sāṭheyya, thambha, sārambha, māna, atimāna, mada, pamāda",
+         "hate, delusion, anger, acrimony, disdain, contempt, jealousy, stinginess, deceit, "
+         "deviousness, obstinacy, aggression, conceit, arrogance, vanity, and negligence "
+         "&mdash; the sixteen defilements this page addresses, identical to sixteen of the "
+         "seventeen already closing the Threes at AN 3.183&ndash;352."),
+        ("Dasuttarapañcasatimaṁ",
+         "&ldquo;the five hundred and tenth&rdquo; &mdash; the source colophon's running count, "
+         "confirming the arithmetic of three plus twenty-seven plus four hundred eighty."),
+        ("Rāgapeyyālaṁ niṭṭhitaṁ",
+         "&ldquo;the Rāgapeyyāla is finished&rdquo; &mdash; the colophon closing this chapter "
+         "specifically, immediately preceding the larger closing markers."),
+        ("pañcamo paṇṇāsako samatto",
+         "&ldquo;the fifth paṇṇāsaka is complete&rdquo; &mdash; a marker already seen once at AN "
+         "4.253, recurring here; its exact relationship to the intervening chapters' continuing "
+         "vagga count is left as an open question rather than resolved with false confidence."),
+        ("Catukkanipātapāḷi niṭṭhitā",
+         "&ldquo;the text of the Book of the Fours is finished&rdquo; &mdash; the closing line "
+         "of the entire nipāta this series has read from AN 4.1 to this page."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: sixteen defilements, ten verbs, and "
+        "the three fourfold lists already given in full, closing the Fours. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The compressed formula, closing the Fours"),
+        ("p", "&sect;1", "an4.304-783:1.1"),
+    ],
+    "quiz": [
+        {"q": "How many defilements does this page's formula address, beyond greed?",
+         "opts": [
+             "Three",
+             "Sixteen: hate, delusion, anger, and thirteen further, increasingly specific faults, closing on negligence",
+             "Nine",
+             "Thirty"],
+         "correct": 1,
+         "expl": "Continuing the list AN 4.274&ndash;303 already began with greed alone."},
+        {"q": "Where else in this series has this exact seventeen-item list of defilements (greed plus these sixteen) already appeared?",
+         "opts": [
+             "Nowhere else",
+             "AN 3.183&ndash;352, closing the Threes with a structurally identical device",
+             "AN 4.202",
+             "AN 4.236"],
+         "correct": 1,
+         "expl": "The identical roster, reused wholesale in a different nipāta for the same closing purpose."},
+        {"q": "How many total discourses does this page's single formula represent?",
+         "opts": [
+             "Twenty-seven",
+             "Four hundred eighty: sixteen defilements times ten verbs times three fourfold lists",
+             "Sixteen",
+             "Fifty-one"],
+         "correct": 1,
+         "expl": "The largest single combinatorial block in this entire series."},
+        {"q": "What does the source colophon's ordinal, \"the five hundred and tenth,\" confirm?",
+         "opts": [
+             "Nothing verifiable",
+             "The running count from AN 4.274 onward: three plus twenty-seven plus four hundred eighty equals exactly five hundred ten",
+             "The total number of chapters in the Fours",
+             "The total number of defilements in the whole canon"],
+         "correct": 1,
+         "expl": "The tradition's own count matches the arithmetic this page lays out precisely."},
+        {"q": "What genuine puzzle does the guide flag about this block's colophon?",
+         "opts": [
+             "No puzzle exists; everything is fully resolved",
+             "\"The fifth paṇṇāsaka is complete\" recurs here after already appearing at AN 4.253, despite the intervening chapters' vagga count continuing rather than resetting",
+             "The colophon contradicts the sutta numbering entirely",
+             "The colophon is missing from the source text"],
+         "correct": 1,
+         "expl": "Recorded honestly as an open question rather than resolved with false confidence."},
+        {"q": "What does the guide offer as one plausible, unconfirmed reading of that puzzle?",
+         "opts": [
+             "That it is a definite scribal error requiring correction",
+             "That the fifth paṇṇāsaka's scope may have always included the entire stretch from vagga twenty-one through twenty-eight, with two separate markers noting an internal milestone and the group's true close",
+             "That the entire nipāta is misnumbered",
+             "That this block belongs to a different nipāta entirely"],
+         "correct": 1,
+         "expl": "Offered explicitly as a guess, not a settled fact."},
+        {"q": "What does the final line of this block announce?",
+         "opts": [
+             "The end of only this chapter",
+             "Catukkanipātapāḷi niṭṭhitā, \"the text of the Book of the Fours is finished\" &mdash; the close of the entire nipāta",
+             "The beginning of a new nipāta within the same page",
+             "An error in transmission"],
+         "correct": 1,
+         "expl": "The collection read from AN 4.1 through this page, now complete."},
+        {"q": "What nipāta does the guide say comes next, after the Fours?",
+         "opts": [
+             "A return to the Threes",
+             "The Pañcaka Nipāta, the Book of the Fives",
+             "No further nipāta exists",
+             "The Twos, repeated"],
+         "correct": 1,
+         "expl": "The traditional sequence of nipātas by increasing numerical size."},
+        {"q": "How many verbs does each of the sixteen defilements get crossed against on this page?",
+         "opts": [
+             "Three",
+             "Ten: direct knowledge, complete understanding, finishing, giving up, ending, vanishing, fading away, cessation, giving away, and letting go",
+             "Twenty-seven",
+             "One"],
+         "correct": 1,
+         "expl": "The identical ten-verb sequence already run against greed across AN 4.274&ndash;303."},
+        {"q": "What three fourfold lists does every combination on this page ultimately reduce to?",
+         "opts": [
+             "The five precepts, the ten courses of action, and the eightfold path",
+             "The four establishments of mindfulness, the four right efforts, and the four bases of psychic power",
+             "Three entirely new lists introduced only on this page",
+             "The four noble truths, repeated three times"],
+         "correct": 1,
+         "expl": "Given in full at AN 4.274&ndash;276, and assumed without restatement through every discourse since."},
+    ],
+    "marginalia": [
+        ("Sixteen defilements, one list reused", [
+            "hate, delusion, anger...",
+            "identical to AN 3.183&ndash;352's roster",
+        ]),
+        ("The full arithmetic", [
+            "16 defilements &times; 10 verbs",
+            "&times; 3 lists = 480",
+        ]),
+        ("510 discourses, confirmed", [
+            "3 + 27 + 480 =",
+            "Dasuttarapañcasatimaṁ",
+        ]),
+        ("A puzzle, left open", [
+            "\"fifth paṇṇāsaka complete\"",
+            "&mdash; seen once before, at AN 4.253",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an4.304-783/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.277-303.html">AN 4.277&ndash;303 &middot; Complete Understanding, and So On</a> &mdash; the smaller block this page\'s apparatus continues from.',
+        '<a href="an-3.183-352.html">AN 3.183&ndash;352 &middot; Overcoming Greed, and So On</a> &mdash; the Threes\' own closing peyyāla, sharing this page\'s identical seventeen-item defilement list.',
+        '<a href="an-4.1.html">AN 4.1 &middot; Understood</a> &mdash; the discourse that opened the Fours, five hundred and ten discourses and twenty-eight chapters before this page closes it.',
+    ],
+})
