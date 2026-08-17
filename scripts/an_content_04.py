@@ -49044,3 +49044,2085 @@ page(
         "opened this chapter and its template.",
     ],
 )
+VAGGA_22 = "<em>Parisāvagga</em> &mdash; the twenty-second chapter of the Fours"
+SETTING_22 = ("None stated; the Parisāvagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.211 — Parisāsutta
+# --------------------------------------------------------------------------- #
+page(
+    211, "Parisā", "Assembly",
+    vagga=VAGGA_22,
+    meta_title="AN 4.211 — Assembly | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Parisāsutta, opening a "
+        "new chapter with the fourfold assembly &mdash; monk, nun, layman, laywoman &mdash; and "
+        "the single word, borrowed from the chapter just finished, that decides whether each one "
+        "corrupts or graces the group. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel statements &mdash; four who corrupt an assembly, four who grace "
+                 "it &mdash; naming the same fourfold assembly in each"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The fourfold assembly is standard across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; very short, and mostly "
+                       "interesting for what it reuses"),
+    ],
+    why=(
+        "A new chapter opens, and its first move is not a new idea but an old one redeployed. The "
+        "fourfold assembly &mdash; monk, nun, layman, laywoman &mdash; was set gracing the Saṅgha "
+        "back at AN 4.7, on five social qualities. Here it is set again, this time on a single "
+        "criterion, ethics, described in the exact two-word vocabulary &mdash; "
+        "<em>pāpadhamma</em>, <em>kalyāṇadhamma</em> &mdash; that the previous chapter spent its "
+        "last four discourses establishing. The chapter break does not reset the collection&rsquo;s "
+        "working vocabulary; it carries it over."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four kinds of person &mdash; monk, nun, layman, laywoman &mdash; corrupt an assembly "
+            "when unethical and of bad character, and grace it when ethical and of good character."]),
+        ("The fourfold assembly, a second time", [
+            "<em>Bhikkhu, bhikkhunī, upāsaka, upāsikā</em> was set out at AN 4.7 as the four who "
+            "grace the Saṅgha, qualified there by five social virtues: competence, training, "
+            "self-assurance, learning, and memorized teaching. This discourse returns to the same "
+            "cast for a narrower question &mdash; not who graces the community in general, but who "
+            "corrupts or graces a particular gathering, a <em>parisā</em> &mdash; and answers it "
+            "with one criterion instead of five: ethical conduct alone.",
+            "The verbal link between the two discourses is exact rather than approximate. AN "
+            "4.7&rsquo;s closing line named its four the <em>saṅghasobhanā</em>, the graces of the "
+            "Saṅgha; this discourse names its ethical four the <em>parisasobhanā</em>, the graces "
+            "of the assembly. Same root, <em>sobhati</em>, to shine &mdash; carried from one "
+            "chapter&rsquo;s opening run to another&rsquo;s, twenty-one chapters later."]),
+        ("Vocabulary carried over the chapter break", [
+            "More striking than the echo of AN 4.7 is what this discourse borrows from the chapter "
+            "immediately behind it. <em>Dussīlo pāpadhammo</em>, unethical and of bad character; "
+            "<em>sīlavā kalyāṇadhammo</em>, ethical and of good character &mdash; this is precisely "
+            "the <em>pāpadhamma / kalyāṇadhamma</em> pairing that AN 4.207&ndash;210 spent four "
+            "discourses building into a vocabulary for the ten courses of action and the tenfold "
+            "path.",
+            "Here the content behind the vocabulary has changed &mdash; no ten deeds, no path "
+            "factors, just unqualified ethical conduct &mdash; but the words that describe good and "
+            "bad character have not reset. A reader moving from AN 4.210 straight into AN 4.211 "
+            "meets a genuinely new topic, the assembly, dressed in the terminology the previous "
+            "topic had just finished sharpening."]),
+        ("What &lsquo;corrupt&rsquo; and &lsquo;grace&rsquo; are claims about", [
+            "<em>Parisadūsana</em> and <em>parisasobhana</em> are not claims about where a person "
+            "goes after death; nothing here mentions hell or heaven, the formula that will dominate "
+            "the rest of this chapter starting at the next discourse. They are claims about how a "
+            "gathering looks and functions while its members are alive in it &mdash; whether it is "
+            "let down or set off by the character of those who compose it.",
+            "That keeps faith with AN 4.7&rsquo;s concern, which was explicitly about what "
+            "makes the community <em>creditable to those looking at it from outside</em>. An "
+            "assembly, unlike an individual&rsquo;s private practice, is a social fact, visible to "
+            "outsiders and judged as a whole; one unethical member inside it is everyone&rsquo;s "
+            "problem in a way one unethical private choice is not."]),
+        ("Setting the chapter&rsquo;s terms before the register shifts", [
+            "Read against what follows, this discourse&rsquo;s job becomes clearer. It names the "
+            "chapter &mdash; <em>Parisāvagga</em>, from its own title &mdash; and states the "
+            "chapter&rsquo;s concern in the mildest possible form: ethical or unethical, full stop. "
+            "Starting at AN 4.212 the chapter switches to a much sterner formula, placement in hell "
+            "or heaven <em>as if delivered there</em>, and runs it across a series of different "
+            "four-item lists. This opening discourse is the quiet version of the chapter&rsquo;s "
+            "question, asked once before the loud version begins."]),
+    ],
+    terms=[
+        ("parisā",
+         "&ldquo;assembly, gathering&rdquo; &mdash; the word that names this chapter, and the "
+         "unit of concern in this discourse: not the individual but the group they belong to."),
+        ("parisadūsana / parisasobhana",
+         "&ldquo;one who corrupts an assembly&rdquo; and &ldquo;one who graces it&rdquo; &mdash; "
+         "built on the same <em>sobhati</em> root, &lsquo;to shine&rsquo;, as AN 4.7&rsquo;s "
+         "<em>saṅghasobhanā</em>."),
+        ("pāpadhamma / kalyāṇadhamma",
+         "&ldquo;bad character&rdquo; and &ldquo;good character&rdquo; &mdash; the vocabulary AN "
+         "4.207&ndash;210 built for the ten deeds and the tenfold path, redeployed here for plain "
+         "ethical conduct at the very start of a new chapter."),
+        ("dussīla / sīlavā",
+         "&ldquo;unethical&rdquo; and &ldquo;ethical, virtuous&rdquo; &mdash; the single criterion "
+         "this discourse uses, in place of AN 4.7&rsquo;s five qualities."),
+        ("bhikkhu, bhikkhunī, upāsaka, upāsikā",
+         "monk, nun, layman, laywoman &mdash; the fourfold assembly, the same cast named at AN "
+         "4.7 and recurring constantly through the collection."),
+    ],
+    text_intro=(
+        "The discourse in full: the four who corrupt an assembly, and the four who grace it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four who corrupt an assembly"),
+        ("p", "&sect;1", "an4.211:1.1-1.7"),
+        ("h3", "Four who grace an assembly"),
+        ("p", "&sect;2", "an4.211:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "Who are the four named in this discourse?",
+         "opts": [
+             "The four great disciples",
+             "A monk, a nun, a layman, and a laywoman",
+             "Kings, ministers, brahmins, and householders",
+             "The four kinds of noble person"],
+         "correct": 1,
+         "expl": "The same fourfold assembly named at AN 4.7."},
+        {"q": "What single criterion decides whether each of the four corrupts or graces an assembly here?",
+         "opts": [
+             "Learning",
+             "Ethical conduct &mdash; unethical and of bad character, or ethical and of good character",
+             "Wealth",
+             "Length of ordination"],
+         "correct": 1,
+         "expl": "One criterion, in place of AN 4.7&rsquo;s five social qualities."},
+        {"q": "What vocabulary does this discourse borrow from the chapter just finished?",
+         "opts": [
+             "The ten courses of action",
+             "&lsquo;Pāpadhamma&rsquo; and &lsquo;kalyāṇadhamma&rsquo;, from AN 4.207&ndash;210",
+             "The tenfold path",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "The vocabulary carries over even though the content behind it has changed."},
+        {"q": "What verbal link connects this discourse to AN 4.7?",
+         "opts": [
+             "No connection exists",
+             "Both use words built on the <em>sobhati</em> root: <em>saṅghasobhanā</em> and <em>parisasobhanā</em>",
+             "Both are addressed to a king",
+             "Both use the hell/heaven formula"],
+         "correct": 1,
+         "expl": "The graces of the Saṅgha and the graces of the assembly, from the same root, &lsquo;to shine&rsquo;."},
+        {"q": "According to the guide, what kind of claim is &lsquo;corrupting&rsquo; or &lsquo;gracing&rsquo; an assembly?",
+         "opts": [
+             "A claim about rebirth in hell or heaven",
+             "A social claim about how a visible gathering looks and functions to outsiders",
+             "A claim about individual liberation only",
+             "A claim about monastic seniority"],
+         "correct": 1,
+         "expl": "Nothing here mentions hell or heaven &mdash; that formula begins at the next discourse."},
+        {"q": "What formula does the chapter switch to starting at AN 4.212?",
+         "opts": [
+             "A return to the fourfold assembly",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;",
+             "A discussion of monastic robes",
+             "A repeat of this same discourse"],
+         "correct": 1,
+         "expl": "This discourse asks the chapter&rsquo;s question in its mildest form before the sterner formula begins."},
+        {"q": "How does the discourse distribute qualities across the four assemblies?",
+         "opts": [
+             "Different standards for monks, nuns, laymen, and laywomen",
+             "The identical standard, stated once and applied to all four without variation",
+             "Only monks and nuns are mentioned",
+             "Only lay followers are mentioned"],
+         "correct": 1,
+         "expl": "As at AN 4.7, no separate standard is set for any one of the four."},
+        {"q": "What does AN 4.7 give as the standard for gracing the Saṅgha?",
+         "opts": [
+             "Ethical conduct alone",
+             "Five qualities: competence, training, self-assurance, learning, and memorized teaching",
+             "Meditative attainment",
+             "Royal favor"],
+         "correct": 1,
+         "expl": "This discourse narrows that five-quality standard to one: ethics."},
+        {"q": "What does this discourse&rsquo;s Pāli title, and the chapter it opens, name?",
+         "opts": [
+             "A location, Sāvatthī",
+             "<em>Parisā</em>, &lsquo;assembly&rsquo; &mdash; the unit of concern for this discourse and the name of the chapter it opens",
+             "A named disciple",
+             "A meditative attainment"],
+         "correct": 1,
+         "expl": "Every chapter in this collection is named after whatever its first discourse introduces."},
+        {"q": "What does the guide say about the chapter break between AN 4.210 and AN 4.211?",
+         "opts": [
+             "It resets the collection&rsquo;s vocabulary entirely",
+             "It introduces a new topic while carrying over the previous chapter&rsquo;s freshest vocabulary unchanged",
+             "It marks the end of the Fours",
+             "It returns to material from the Threes"],
+         "correct": 1,
+         "expl": "A genuinely new topic, dressed in terminology the previous chapter had just finished sharpening."},
+    ],
+    marginalia=[
+        ("Same cast, new criterion", [
+            "AN 4.7 &middot; five qualities",
+            "AN 4.211 &middot; one: ethics",
+            "monk, nun, layman, laywoman",
+        ]),
+        ("A vocabulary carried over", [
+            "pāpadhamma &middot; kalyāṇadhamma",
+            "built at AN 4.207&ndash;210",
+            "reused at the chapter&rsquo;s start",
+        ]),
+        ("The sobhati root, twice", [
+            "saṅghasobhanā &middot; AN 4.7",
+            "parisasobhanā &middot; AN 4.211",
+            "&mdash; to shine, to grace",
+        ]),
+        ("What comes next", [
+            "the mild version, asked once;",
+            "then hell and heaven,",
+            "&lsquo;as if delivered there&rsquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.211/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.7.html">AN 4.7 &middot; Grace</a> &mdash; the same fourfold assembly, first '
+        "given five qualities instead of one.",
+        '<a href="an-4.210.html">AN 4.210 &middot; Bad Character (4th)</a> &mdash; the discourse '
+        "that finished building the vocabulary this one reuses.",
+        '<a href="an-4.201.html">AN 4.201 &middot; Training Rules</a> &mdash; the previous '
+        "chapter&rsquo;s own opening discourse, doing the same job of setting its chapter&rsquo;s "
+        "terms.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.212 — Diṭṭhisutta
+# --------------------------------------------------------------------------- #
+page(
+    212, "Diṭṭhi", "View",
+    vagga=VAGGA_22,
+    meta_title="AN 4.212 — View | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Diṭṭhisutta, which "
+        "introduces the formula that will run through most of this chapter &mdash; placement in "
+        "hell or heaven &lsquo;as if delivered there&rsquo; &mdash; on a tetrad of bad conduct in "
+        "body, speech, and mind, plus wrong view. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel statements, hell and heaven, each on a tetrad of three kinds of "
+                 "conduct plus a view"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The formula of good and bad conduct in body, speech, and mind is "
+                              "widespread across the Nikāyas and Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short and formulaic, though "
+                       "the formula itself is worth reading closely once"),
+    ],
+    why=(
+        "A new formula enters the chapter here and will carry most of what follows: someone with "
+        "four qualities is <em>placed in hell as if delivered there</em>, or in heaven the same "
+        "way. The image is of a package handed off rather than a journey undertaken &mdash; "
+        "conduct does the placing, not choice at the moment of death. This discourse&rsquo;s own "
+        "four qualities are the three kinds of misconduct already familiar from earlier in the "
+        "Fours, plus a fourth item, view, that decides the case."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Bad conduct in body, speech, and mind, plus wrong view, delivers a person to hell as "
+            "surely as if placed there; the four good counterparts deliver them to heaven the same "
+            "way."]),
+        ("&lsquo;As if delivered there&rsquo;", [
+            "<em>Yathābhataṁ nikkhitto evaṁ</em> &mdash; literally, &lsquo;so placed, as if carried "
+            "there&rsquo;. The image is of a thing brought and set down, not a traveller who "
+            "arrives by choice. Four qualities do the carrying; the person named by them is simply "
+            "delivered to the destination those qualities specify.",
+            "This is a stronger image than most of the collection&rsquo;s ethical formulas use. It "
+            "does not describe hell or heaven as things one goes toward; it describes them as "
+            "things certain qualities automatically produce, the way handing over a parcel produces "
+            "its arrival at an address. The formula recurs, essentially unchanged, through most of "
+            "the rest of this chapter."]),
+        ("The tetrad: three kinds of conduct, plus view", [
+            "<em>Kāyaduccaritena, vacīduccaritena, manoduccaritena, micchādiṭṭhiyā</em> &mdash; bad "
+            "conduct by body, by speech, by mind, and wrong view. The first three are the standard "
+            "threefold division of conduct that has run through the collection from its opening "
+            "chapters; the fourth is what makes this a tetrad rather than the older triad.",
+            "Read against the ten courses of action given in full at AN 4.204, this four-item "
+            "version is a compression: three modes of conduct standing in for the three bodily and "
+            "four verbal courses combined, with the tenth item, wrong view, kept as its own fourth "
+            "slot rather than folded into &lsquo;mind&rsquo;. The compression trades precision for "
+            "portability &mdash; four items fit the chapter&rsquo;s form in a way ten cannot."]),
+        ("Why view closes the list", [
+            "Placing <em>micchādiṭṭhi</em> as the fourth and final item, after all three modes of "
+            "conduct, is not incidental. View is what the collection elsewhere treats as the "
+            "condition on which the other three depend for their moral weight &mdash; conduct "
+            "without any view of cause and result is not yet the kind of choice this formula is "
+            "built to judge. Putting it last completes the person being described rather than "
+            "merely adding a fourth item to a list."]),
+        ("A template about to be reused", [
+            "This exact shape &mdash; three duccarita plus one closing item &mdash; is not unique "
+            "to this discourse. The next discourse, AN 4.213, repeats the same three modes of "
+            "conduct and swaps only the fourth slot, from wrong view to ingratitude. Read together, "
+            "the two discourses show the hell/heaven formula being treated the way AN 4.212&rsquo;s "
+            "own chapter and the one before it treated their content: as a fixed frame with one "
+            "variable position."]),
+    ],
+    terms=[
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula that opens this discourse "
+         "and most of the rest of the chapter; conduct as a carrier, not a journey chosen."),
+        ("kāyaduccarita, vacīduccarita, manoduccarita",
+         "bad conduct by body, speech, and mind &mdash; the standard threefold division, familiar "
+         "throughout the collection."),
+        ("micchādiṭṭhi / sammādiṭṭhi",
+         "&ldquo;wrong view&rdquo; and &ldquo;right view&rdquo; &mdash; the fourth, closing item in "
+         "this discourse&rsquo;s tetrad."),
+        ("dasa kammapatha",
+         "the ten courses of action, given in full at AN 4.204 &mdash; the fuller list this "
+         "discourse&rsquo;s three-plus-one compresses."),
+        ("niraya / sagga",
+         "&ldquo;hell&rdquo; and &ldquo;heaven&rdquo; &mdash; the two destinations this "
+         "discourse&rsquo;s formula names, and will keep naming through most of the chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: hell for the four, heaven for their opposites. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.212:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.212:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What formula does this discourse introduce for the rest of the chapter?",
+         "opts": [
+             "A verse in praise of the Buddha",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;",
+             "A description of a meditative attainment",
+             "A list of monastic rules"],
+         "correct": 1,
+         "expl": "Conduct as a carrier that delivers a person to a destination, not a journey chosen."},
+        {"q": "What are the four qualities named in this discourse?",
+         "opts": [
+             "The five precepts",
+             "Bad or good conduct in body, speech, and mind, plus wrong or right view",
+             "Faith, ethics, learning, wisdom",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Three modes of conduct, plus a fourth item, view, that closes the list."},
+        {"q": "How does the guide read the image in &lsquo;placed as if delivered there&rsquo;?",
+         "opts": [
+             "As a traveller choosing a destination",
+             "As a parcel carried and set down &mdash; the qualities do the delivering, not a choice at death",
+             "As a punishment imposed by a judge",
+             "As a metaphor with no particular meaning"],
+         "correct": 1,
+         "expl": "A stronger, more automatic image than most of the collection&rsquo;s ethical formulas."},
+        {"q": "What earlier discourse gives the fuller list that this tetrad compresses?",
+         "opts": [
+             "AN 4.201",
+             "AN 4.204, the ten courses of action in full",
+             "AN 4.7",
+             "AN 4.160"],
+         "correct": 1,
+         "expl": "Three modes of conduct standing in for the ten courses of action, with view kept as a separate fourth slot."},
+        {"q": "Why does the guide say wrong view is placed last in the tetrad?",
+         "opts": [
+             "Alphabetical order in Pāli",
+             "View is treated as the condition that gives the other three their moral weight, completing the person described",
+             "It is the least important item",
+             "No particular reason is given in the text"],
+         "correct": 1,
+         "expl": "Conduct without any view of cause and result is not yet what the formula is built to judge."},
+        {"q": "What does the next discourse, AN 4.213, do with this same tetrad?",
+         "opts": [
+             "Discards it entirely for a new topic",
+             "Repeats the same three modes of conduct and swaps only the fourth slot, to ingratitude",
+             "Extends it to ten items",
+             "Reverses hell and heaven"],
+         "correct": 1,
+         "expl": "A fixed frame with one variable position, the same technique seen used with other content earlier in the Fours."},
+        {"q": "What are the three standard modes of conduct named here?",
+         "opts": [
+             "Speech, thought, and intention",
+             "Body, speech, and mind",
+             "Body, wealth, and reputation",
+             "View, effort, and mindfulness"],
+         "correct": 1,
+         "expl": "<em>Kāya, vacī, mano</em> &mdash; the collection&rsquo;s standard threefold division."},
+        {"q": "What two destinations does this discourse&rsquo;s formula name?",
+         "opts": [
+             "This world and the next",
+             "Hell and heaven, <em>niraya</em> and <em>sagga</em>",
+             "The human and animal realms",
+             "Nirvana and saṁsāra"],
+         "correct": 1,
+         "expl": "The formula this discourse introduces for the rest of the chapter."},
+        {"q": "How many segments make up each half of this discourse?",
+         "opts": [
+             "Four each",
+             "Very few &mdash; the statement, the question &lsquo;what four?&rsquo;, the list, and the restatement",
+             "Ten each",
+             "One each, with no structure"],
+         "correct": 1,
+         "expl": "A short, tightly formulaic discourse."},
+        {"q": "What relationship does this discourse have to the collection&rsquo;s earlier threefold conduct formula?",
+         "opts": [
+             "No relationship",
+             "It reuses the same threefold division of body, speech, and mind, adding a fourth item to make it fit the Fours",
+             "It rejects the threefold division",
+             "It replaces conduct with meditation"],
+         "correct": 1,
+         "expl": "A four-item compression of material the collection has used before."},
+    ],
+    marginalia=[
+        ("The formula, introduced", [
+            "yathābhataṁ nikkhitto",
+            "&mdash; placed as if delivered,",
+            "not a journey chosen",
+        ]),
+        ("Three plus one", [
+            "body, speech, mind",
+            "duccarita &middot; and view",
+            "closing the tetrad",
+        ]),
+        ("Compressed from ten", [
+            "AN 4.204 &middot; ten deeds",
+            "AN 4.212 &middot; three plus view",
+        ]),
+        ("A frame about to repeat", [
+            "same three modes of conduct,",
+            "one slot left open",
+            "&mdash; filled differently next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.212/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.204.html">AN 4.204 &middot; Ten Kinds of Deeds</a> &mdash; the fuller list '
+        "this discourse&rsquo;s tetrad compresses.",
+        '<a href="an-4.213.html">AN 4.213 &middot; Ungrateful</a> &mdash; the same three modes of '
+        "conduct, with the fourth slot filled differently.",
+        '<a href="an-4.211.html">AN 4.211 &middot; Assembly</a> &mdash; the discourse that opened '
+        "this chapter, before this formula begins.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.213 — Akataññutāsutta
+# --------------------------------------------------------------------------- #
+page(
+    213, "Akataññutā", "Ungrateful",
+    vagga=VAGGA_22,
+    meta_title="AN 4.213 — Ungrateful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Akataññutāsutta, which "
+        "repeats AN 4.212&rsquo;s tetrad of bad conduct in body, speech, and mind and swaps its "
+        "fourth item, wrong view, for ingratitude &mdash; a discourse best read as a variation on "
+        "its immediate neighbor. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "The same tetrad as AN 4.212, with its fourth item changed from wrong view to "
+                 "ingratitude"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; identical in form to its "
+                       "neighbor, and best read as a pair with it"),
+    ],
+    why=(
+        "Read on its own, this discourse repeats what AN 4.212 just said. Read as a pair with it, "
+        "it demonstrates something about how the chapter is built: the same three-item core, bad "
+        "conduct by body, speech, and mind, can take a different fourth item and become a "
+        "different discourse. Here the fourth item is not a view but a disposition &mdash; "
+        "gratitude, or its absence &mdash; and the change is worth noticing for what it says about "
+        "where this list places thankfulness."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Bad conduct in body, speech, and mind, plus ingratitude, delivers a person to hell as "
+            "if placed there; good conduct plus gratitude delivers them to heaven the same way."]),
+        ("One slot changed", [
+            "This discourse is AN 4.212 with a single substitution: where that discourse closed its "
+            "tetrad with <em>micchādiṭṭhi</em>, wrong view, this one closes it with "
+            "<em>akataññutā akataveditā</em>, being ungrateful and thankless. Everything else "
+            "&mdash; the opening formula, the three modes of conduct, the closing restatement "
+            "&mdash; is unchanged, word for word.",
+            "This is worth reading as a deliberate demonstration rather than an accident of "
+            "compilation. The collection has shown this same technique with richer content, "
+            "notably the ten deeds and tenfold path recombined six ways across the previous "
+            "chapter; here it shows the technique at its simplest, changing exactly one item."]),
+        ("Two words for one failing", [
+            "<em>Akataññutā</em>, not knowing what has been done for one, and <em>akataveditā</em>, "
+            "not acknowledging what has been done, are near-synonyms paired for emphasis, the way "
+            "Pāli often doubles a term rather than qualifying it. Both share the root "
+            "<em>kata</em>, &lsquo;done&rsquo; &mdash; the failing named is specifically a failure "
+            "to recognize a completed benefit, not ingratitude as a general temperament."]),
+        ("Why gratitude belongs beside conduct and view", [
+            "Placing thankfulness in the same tetrad slot that wrong view occupied in the previous "
+            "discourse puts it in striking company. The list treats ingratitude as being of the "
+            "same order of seriousness as the conduct failures it stands beside &mdash; not a minor "
+            "social lapse but a fault severe enough to complete a hell-bound person&rsquo;s "
+            "description.",
+            "Elsewhere in the canon gratitude is praised as rare and difficult, the mark of a "
+            "person who has correctly understood what they owe to others. This discourse&rsquo;s "
+            "placement of its absence alongside bodily, verbal, and mental misconduct is consistent "
+            "with that: a failure of recognition, not merely of feeling."]),
+        ("What the pairing with AN 4.212 shows", [
+            "Read together, AN 4.212 and AN 4.213 are the clearest possible demonstration, within "
+            "this chapter, of the fixed-frame-with-one-variable technique the collection uses "
+            "throughout the Fours. Three items held constant, one item swapped, and two discourses "
+            "result. The chapter will keep doing versions of this through most of what follows, "
+            "though not always this economically."]),
+    ],
+    terms=[
+        ("akataññutā / kataññutā",
+         "&ldquo;ingratitude&rdquo; and its opposite, &ldquo;gratitude&rdquo; &mdash; from "
+         "<em>kata</em>, &lsquo;done&rsquo;: failing, or managing, to recognize what has been done "
+         "for one."),
+        ("akataveditā / kataveditā",
+         "&ldquo;thanklessness&rdquo; and &ldquo;thankfulness&rdquo; &mdash; paired with the term "
+         "above for emphasis, the same root doubled."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula introduced at AN 4.212, "
+         "repeated here unchanged."),
+        ("kāyaduccarita, vacīduccarita, manoduccarita",
+         "bad conduct by body, speech, and mind &mdash; the three items held constant between this "
+         "discourse and its neighbor."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the item this discourse&rsquo;s fourth slot replaces, "
+         "occupying the same position at AN 4.212."),
+    ],
+    text_intro=(
+        "The discourse in full: hell for the four, heaven for their opposites. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.213:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.213:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What single change distinguishes this discourse from AN 4.212?",
+         "opts": [
+             "A different setting",
+             "Its fourth tetrad item is ingratitude in place of wrong view",
+             "It uses ten items instead of four",
+             "It is addressed to a different audience"],
+         "correct": 1,
+         "expl": "Everything else, word for word, is unchanged."},
+        {"q": "What three items are held constant between AN 4.212 and AN 4.213?",
+         "opts": [
+             "Faith, ethics, and learning",
+             "Bad conduct by body, speech, and mind",
+             "The five precepts",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "The shared core of the tetrad in both discourses."},
+        {"q": "What does <em>akataññutā</em> specifically mean, according to the guide?",
+         "opts": [
+             "A general unpleasant temperament",
+             "Failing to recognize a benefit that has actually been done for one",
+             "Refusing to give gifts",
+             "Forgetting a person&rsquo;s name"],
+         "correct": 1,
+         "expl": "From <em>kata</em>, &lsquo;done&rsquo; &mdash; a failure of recognition, not just of feeling."},
+        {"q": "Why are <em>akataññutā</em> and <em>akataveditā</em> paired in the text?",
+         "opts": [
+             "They describe different faults entirely",
+             "They are near-synonyms sharing the same root, doubled for emphasis in typical Pāli style",
+             "One applies to monks, the other to laypeople",
+             "One is Pāli and the other Sanskrit"],
+         "correct": 1,
+         "expl": "Both from <em>kata</em>, &lsquo;done&rsquo;."},
+        {"q": "What does the guide say this discourse&rsquo;s placement of ingratitude implies about its seriousness?",
+         "opts": [
+             "That it is a minor social lapse",
+             "That the list treats it as being of the same order of seriousness as bodily, verbal, and mental misconduct",
+             "That it is unrelated to ethics",
+             "That it only applies to monastics"],
+         "correct": 1,
+         "expl": "Severe enough to complete a hell-bound person&rsquo;s description."},
+        {"q": "What technique do AN 4.212 and AN 4.213 demonstrate together, according to the guide?",
+         "opts": [
+             "Two unrelated, independently composed discourses",
+             "A fixed frame with one variable item, changed to produce a second discourse",
+             "A contradiction between neighboring discourses",
+             "A gradual expansion from four items to ten"],
+         "correct": 1,
+         "expl": "The same technique used with richer content across the previous chapter, shown here at its simplest."},
+        {"q": "What formula opens both this discourse and AN 4.212?",
+         "opts": [
+             "A greeting to the assembly",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;",
+             "A question about the weather",
+             "A verse in praise of gratitude"],
+         "correct": 1,
+         "expl": "Introduced at AN 4.212 and repeated here unchanged."},
+        {"q": "What is the opposite of <em>akataññutā</em> named in this discourse&rsquo;s heaven half?",
+         "opts": [
+             "Sammādiṭṭhi",
+             "Kataññutā, gratitude",
+             "Sīlavā",
+             "Paññavā"],
+         "correct": 1,
+         "expl": "Gratitude and thankfulness, paired as the heaven-bound counterparts."},
+        {"q": "How does the canon elsewhere generally regard gratitude, per the guide?",
+         "opts": [
+             "As an unimportant virtue",
+             "As rare and difficult, the mark of correctly understanding what one owes to others",
+             "As relevant only to wealthy donors",
+             "As identical to faith"],
+         "correct": 1,
+         "expl": "Consistent with this discourse&rsquo;s serious placement of its absence."},
+        {"q": "What does the guide suggest the chapter will keep doing after this pair of discourses?",
+         "opts": [
+             "Abandon the hell/heaven formula entirely",
+             "Continue producing variations on a fixed frame, though not always this economically",
+             "Return to the previous chapter&rsquo;s content exactly",
+             "Introduce an entirely new formula with no relation to this one"],
+         "correct": 1,
+         "expl": "The technique demonstrated most simply here recurs through much of what follows."},
+    ],
+    marginalia=[
+        ("One slot changed", [
+            "AN 4.212 &middot; wrong view",
+            "AN 4.213 &middot; ingratitude",
+            "&mdash; everything else identical",
+        ]),
+        ("Doubled for emphasis", [
+            "akataññutā",
+            "akataveditā",
+            "&mdash; both from kata, &lsquo;done&rsquo;",
+        ]),
+        ("Where gratitude is filed", [
+            "beside bodily, verbal,",
+            "and mental misconduct",
+            "&mdash; not a minor lapse",
+        ]),
+        ("The technique, at its simplest", [
+            "three items constant,",
+            "one item swapped,",
+            "two discourses result",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.213/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.212.html">AN 4.212 &middot; View</a> &mdash; the discourse this one is a '
+        "single-item variation on.",
+        '<a href="an-4.210.html">AN 4.210 &middot; Bad Character (4th)</a> &mdash; the previous '
+        "chapter&rsquo;s own demonstration of one frame recombined with different vocabulary.",
+        '<a href="an-4.214.html">AN 4.214 &middot; Killing Living Creatures</a> &mdash; next, where '
+        "the chapter&rsquo;s formula turns to heavy abridgment.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.214 — Pāṇātipātīsutta
+# --------------------------------------------------------------------------- #
+page(
+    214, "Pāṇātipātī", "Killing Living Creatures",
+    vagga=VAGGA_22,
+    meta_title="AN 4.214 — Killing Living Creatures | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pāṇātipātīsutta, the "
+        "first of six discourses in this chapter compressed to a single elided line &mdash; four "
+        "of the ten courses of action, reduced to their bare list, delivering a person to hell or "
+        "heaven. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line rather than the two full paragraphs of the previous discourses, "
+                 "naming killing, stealing, sexual misconduct, and lying"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four items named are part of the standard ten courses of "
+                              "action, near-universal across the Nikāyas and Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest form the "
+                       "chapter&rsquo;s formula takes"),
+    ],
+    why=(
+        "Where AN 4.212 and AN 4.213 wrote out their hell and heaven halves in full, this "
+        "discourse collapses both into a single line, using the Pāli manuscript&rsquo;s own "
+        "ellipsis mark, <em>…pe…</em>, to signal that everything the reader has just seen twice "
+        "does not need repeating a third time. What survives the compression is the content: four "
+        "of the ten courses of action, the four most concrete and least disputable failures a "
+        "person can commit."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Killing, stealing, sexual misconduct, and lying deliver a person to hell as if placed "
+            "there; abstaining from all four delivers them to heaven the same way."]),
+        ("A single elided line", [
+            "Unlike its two predecessors, this discourse is recorded in the source text as one "
+            "compressed segment rather than two full paragraphs, with the Pāli&rsquo;s own "
+            "<em>…pe…</em> abbreviation marks standing in for the opening formula, the closing "
+            "restatement, and the heaven half, all of which the reader has just seen written out in "
+            "full twice over. This reading guide&rsquo;s text panel shows that single line exactly "
+            "as the source gives it.",
+            "This is the peyyāla technique already named earlier in this nipāta, here operating at "
+            "its most aggressive: not just the middle of a discourse compressed, but nearly the "
+            "whole thing, on the reasonable assumption that a reciter or reader who has just heard "
+            "the two previous discourses in full needs only the new content, not the frame around "
+            "it again."]),
+        ("The four named", [
+            "<em>Pāṇātipāta, adinnādāna, kāmesumicchācāra, musāvāda</em> &mdash; killing living "
+            "creatures, stealing, sexual misconduct, and lying. These are four of the ten courses "
+            "of action given in full at AN 4.204: the three bodily courses entire, and one of the "
+            "four verbal courses, lying, the gravest of the four.",
+            "The selection is not arbitrary. These four are also, with the addition of a fifth, "
+            "intoxication, the five precepts undertaken by lay Buddhists &mdash; the ethical floor "
+            "below which conduct becomes, in the tradition&rsquo;s own terms, not merely unwise but "
+            "criminal. A discourse this heavily compressed still chose to preserve exactly the four "
+            "items most lay listeners would recognize without needing the list named."]),
+        ("Reading past the ellipsis", [
+            "It would be a mistake to read this discourse as saying less than AN 4.212 or AN 4.213 "
+            "because it says it more briefly. The elided heaven half restores, item for item, the "
+            "corresponding positive: not killing, not stealing, not committing sexual misconduct, "
+            "not lying. Nothing is lost in the compression except the words; the doctrine handed to "
+            "a listener who can supply the pattern from the two previous discourses is exactly the "
+            "same doctrine."]),
+    ],
+    terms=[
+        ("peyyāla",
+         "&ldquo;repetition-series&rdquo; &mdash; the abridgment device this discourse uses at its "
+         "most aggressive, compressing nearly the whole discourse into a single elided line."),
+        ("pāṇātipāta",
+         "&ldquo;killing living creatures&rdquo; &mdash; the first and gravest of the three bodily "
+         "courses of action, and this discourse&rsquo;s title."),
+        ("adinnādāna",
+         "&ldquo;taking what is not given&rdquo;, stealing &mdash; the second bodily course of "
+         "action named here."),
+        ("kāmesumicchācāra",
+         "&ldquo;sexual misconduct&rdquo; &mdash; the third bodily course of action named here."),
+        ("musāvāda",
+         "&ldquo;false speech, lying&rdquo; &mdash; the gravest of the four verbal courses of "
+         "action, the only one of the four selected for this tetrad."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.214:1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ in form from AN 4.212 and AN 4.213?",
+         "opts": [
+             "It is longer, with additional content",
+             "It compresses nearly the whole discourse into a single elided line",
+             "It has no heaven half at all",
+             "It uses verse instead of prose"],
+         "correct": 1,
+         "expl": "The Pāli&rsquo;s own <em>…pe…</em> ellipsis marks stand in for the repeated frame."},
+        {"q": "What four items does this discourse name?",
+         "opts": [
+             "The four noble truths",
+             "Killing, stealing, sexual misconduct, and lying",
+             "The four kinds of assembly",
+             "Wrong view, wrong intention, wrong speech, wrong action"],
+         "correct": 1,
+         "expl": "Three bodily courses of action, entire, plus the gravest of the four verbal courses."},
+        {"q": "What earlier discourse gives the fuller list these four are drawn from?",
+         "opts": [
+             "AN 4.211",
+             "AN 4.204, the ten courses of action in full",
+             "AN 4.7",
+             "AN 4.160"],
+         "correct": 1,
+         "expl": "Three bodily courses entire, and one of four verbal courses."},
+        {"q": "What five precepts do these four items correspond to, with one addition?",
+         "opts": [
+             "The lay precepts, adding abstention from intoxicants",
+             "The monastic training rules",
+             "The bodhisattva vows",
+             "No correspondence exists"],
+         "correct": 1,
+         "expl": "The ethical floor for lay Buddhist conduct in the tradition&rsquo;s own terms."},
+        {"q": "According to the guide, does the heavy compression here reduce the doctrine being taught?",
+         "opts": [
+             "Yes, significant content is lost",
+             "No &mdash; the elided heaven half restores the same positive counterparts, item for item",
+             "The heaven half is omitted entirely with no replacement",
+             "The discourse becomes ambiguous"],
+         "correct": 1,
+         "expl": "Nothing is lost except the words; the pattern is fully recoverable."},
+        {"q": "What is the technical name for this abridgment device?",
+         "opts": [
+             "Uddāna",
+             "Peyyāla, repetition-series",
+             "Vagga",
+             "Nikāya"],
+         "correct": 1,
+         "expl": "Already named earlier in this nipāta, operating here at its most aggressive."},
+        {"q": "Why might a discourse be compressed this heavily, according to the guide?",
+         "opts": [
+             "Because the content is unimportant",
+             "Because a reciter who just heard the two previous discourses in full needs only the new content, not the frame again",
+             "Because the manuscript was damaged",
+             "Because the Buddha spoke only briefly on this occasion"],
+         "correct": 1,
+         "expl": "A reasonable economy given what has just been heard."},
+        {"q": "Which of the ten courses of action is this discourse&rsquo;s only verbal item?",
+         "opts": [
+             "Divisive speech",
+             "Lying, <em>musāvāda</em> &mdash; the gravest of the four verbal courses",
+             "Harsh speech",
+             "Talking nonsense"],
+         "correct": 1,
+         "expl": "Selected over the other three verbal courses."},
+        {"q": "What formula does this discourse still use, even in elided form?",
+         "opts": [
+             "None &mdash; the formula is entirely absent",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;, from AN 4.212",
+             "The five precepts formula only",
+             "A new formula unrelated to the rest of the chapter"],
+         "correct": 1,
+         "expl": "Compressed to ellipsis marks, but present in the source text."},
+        {"q": "How many discourses in this chapter use this same heavy elision, according to the guide?",
+         "opts": [
+             "Just this one",
+             "Six, including this one",
+             "All ten discourses in the chapter",
+             "None &mdash; this is unique"],
+         "correct": 1,
+         "expl": "The chapter runs a cluster of these compressed discourses before closing in full form again."},
+    ],
+    marginalia=[
+        ("The elision, at its heaviest", [
+            "…pe…",
+            "&mdash; nearly the whole discourse,",
+            "content alone surviving",
+        ]),
+        ("Four of ten", [
+            "killing &middot; stealing",
+            "sexual misconduct &middot; lying",
+            "&mdash; AN 4.204&rsquo;s ten, compressed",
+        ]),
+        ("The lay precepts, nearly", [
+            "these four, plus intoxicants,",
+            "are the five precepts",
+        ]),
+        ("Nothing lost but the words", [
+            "the heaven half restores",
+            "each item, positively stated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.214/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.204.html">AN 4.204 &middot; Ten Kinds of Deeds</a> &mdash; the full list '
+        "these four are drawn from.",
+        '<a href="an-4.212.html">AN 4.212 &middot; View</a> &mdash; the discourse that introduced '
+        "the formula this one compresses.",
+        '<a href="an-4.215.html">AN 4.215 &middot; Path (1st)</a> &mdash; next, where the same '
+        "elision is applied to the eightfold path.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.215 — Paṭhamamaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    215, "Paṭhamamagga", "Path (1st)",
+    vagga=VAGGA_22,
+    meta_title="AN 4.215 — Path (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Maggasutta, which "
+        "delivers a person to hell or heaven by the first four factors of the noble eightfold "
+        "path &mdash; view, intention, speech, action &mdash; split from the full path because "
+        "eight does not fit a chapter built on four. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, naming the first four factors of the noble eightfold path"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The eightfold path is foundational across the Nikāyas and Āgamas; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number for its four-and-four division here"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple in form, but worth "
+                       "pausing on for why the path is split at all"),
+    ],
+    why=(
+        "The noble eightfold path has eight factors, and this chapter&rsquo;s discourses each "
+        "carry four. Something has to give, and what gives is the path itself: split cleanly in "
+        "half, the first four factors here and the second four at the next discourse. It is a "
+        "small, mechanical fact about this chapter&rsquo;s form, and it is worth noticing because "
+        "the Fours have already met the eightfold path whole, at AN 4.205, without needing to "
+        "split it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Wrong view, wrong thought, wrong speech, and wrong action deliver a person to hell as "
+            "if placed there; the right counterparts deliver them to heaven the same way."]),
+        ("Half a path", [
+            "<em>Micchādiṭṭhi, micchāsaṅkappa, micchāvācā, micchākammanta</em> &mdash; wrong view, "
+            "wrong thought, wrong speech, wrong action. These are the first four of the noble "
+            "eightfold path&rsquo;s eight factors, in their standard order: view and thought first, "
+            "as the ethical understanding and intention that orient everything after them; speech "
+            "and action next, as its first two expressions in conduct.",
+            "The remaining four &mdash; livelihood, effort, mindfulness, immersion &mdash; are held "
+            "over to the next discourse, AN 4.216. Nothing in the content requires this particular "
+            "seam; the eightfold path is not naturally two sets of four with a break between "
+            "conduct and cultivation. The seam is the chapter&rsquo;s, not the path&rsquo;s."]),
+        ("Why the path is cut in half here", [
+            "AN 4.205, several discourses back in the previous chapter, gave this same eight-factor "
+            "path as a single list, unsplit, under the heading of what a true person and an untrue "
+            "person practise. That discourse could hold eight items because its form allowed it "
+            "&mdash; the constraint there was content, not a fixed count.",
+            "This chapter&rsquo;s discourses, by contrast, are each built to a strict tetrad: four "
+            "items, matching the collection they belong to. An eight-factor path does not fit that "
+            "mould in one piece, so the compilers did the only thing available &mdash; cut it at "
+            "its natural midpoint and gave each half its own discourse. It is the clearest evidence "
+            "anywhere in this chapter that the Fours&rsquo; four-item form is a constraint the "
+            "compilers worked within, not merely a description of how the material happened to "
+            "come."]),
+        ("Why this half and not another division", [
+            "The particular seam chosen, between action and livelihood, is not the only possible "
+            "cut but it is a natural one. The first four factors &mdash; view, thought, speech, "
+            "action &mdash; are usually grouped together as wisdom and ethics; the second four "
+            "&mdash; livelihood, effort, mindfulness, immersion &mdash; extend ethics into a "
+            "livelihood and then move into the cultivation factors proper. Splitting here divides "
+            "the path along a seam the tradition already recognized, rather than cutting it "
+            "arbitrarily down the middle of the list."]),
+        ("A pairing to read together", [
+            "AN 4.215 and AN 4.216 are best read as one unit interrupted by this chapter&rsquo;s "
+            "form, the way a modern reader might treat a single argument split across two numbered "
+            "sections. Together they restate exactly the eight-factor path AN 4.205 already gave, "
+            "now delivered through the hell/heaven formula this chapter has been running since AN "
+            "4.212."]),
+    ],
+    terms=[
+        ("ariya aṭṭhaṅgika magga",
+         "&ldquo;the noble eightfold path&rdquo; &mdash; the full set this discourse gives only "
+         "the first half of, split to fit the chapter&rsquo;s four-item form."),
+        ("micchādiṭṭhi / sammādiṭṭhi",
+         "&ldquo;wrong view&rdquo; and &ldquo;right view&rdquo; &mdash; the first factor, and the "
+         "same term that closed the tetrad at AN 4.212."),
+        ("micchāsaṅkappa",
+         "&ldquo;wrong thought, wrong intention&rdquo; &mdash; the second path factor, paired with "
+         "view as the wisdom half of the eightfold path in the tradition&rsquo;s usual grouping."),
+        ("micchāvācā / micchākammanta",
+         "&ldquo;wrong speech&rdquo; and &ldquo;wrong action&rdquo; &mdash; the third and fourth "
+         "factors, the ethics grouping&rsquo;s first two expressions in conduct."),
+        ("peyyāla",
+         "&ldquo;repetition-series&rdquo; &mdash; the same heavy elision used at AN 4.214, applied "
+         "here to half of the eightfold path."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.215:1.1"),
+    ],
+    quiz=[
+        {"q": "What four path factors does this discourse name?",
+         "opts": [
+             "Livelihood, effort, mindfulness, immersion",
+             "View, thought, speech, and action",
+             "The four noble truths",
+             "The four kinds of assembly"],
+         "correct": 1,
+         "expl": "The first four of the noble eightfold path&rsquo;s eight factors."},
+        {"q": "Why does this discourse give only four of the path&rsquo;s eight factors?",
+         "opts": [
+             "The other four were considered unimportant",
+             "This chapter&rsquo;s discourses are each built to a strict tetrad, so the eight-factor path is split across two discourses",
+             "The other four had already been forgotten",
+             "The Buddha only taught four factors on this occasion"],
+         "correct": 1,
+         "expl": "The seam is the chapter&rsquo;s form, not a feature of the path itself."},
+        {"q": "Which earlier discourse gave the eightfold path as a single, unsplit list?",
+         "opts": [
+             "AN 4.211",
+             "AN 4.205, in the previous chapter",
+             "AN 4.212",
+             "AN 4.7"],
+         "correct": 1,
+         "expl": "That discourse could hold all eight items because its form allowed it."},
+        {"q": "Where does the guide say the path is split?",
+         "opts": [
+             "Randomly, down the middle of an alphabetized list",
+             "At a seam the tradition already recognized, between ethics (view through action) and livelihood/cultivation",
+             "Between the third and fourth factors",
+             "The split has no discernible logic"],
+         "correct": 1,
+         "expl": "A natural division, not an arbitrary cut."},
+        {"q": "What does this discourse&rsquo;s split path demonstrate about the Fours&rsquo; form, according to the guide?",
+         "opts": [
+             "That the four-item form is purely descriptive of how content happens to come",
+             "That the four-item form is a real constraint the compilers worked within, even when content naturally runs to eight",
+             "That the collection has no consistent form",
+             "That eight-item lists never appear in the Fours"],
+         "correct": 1,
+         "expl": "The clearest evidence in this chapter that the tetrad form shapes how content is presented."},
+        {"q": "What discourse holds the remaining four path factors?",
+         "opts": [
+             "AN 4.213",
+             "AN 4.216, the next discourse",
+             "AN 4.220",
+             "AN 4.204"],
+         "correct": 1,
+         "expl": "Livelihood, effort, mindfulness, and immersion, at the next discourse."},
+        {"q": "How does the guide suggest AN 4.215 and AN 4.216 are best read?",
+         "opts": [
+             "As entirely unrelated discourses",
+             "As one unit interrupted by the chapter&rsquo;s form, like a single argument split across two sections",
+             "As contradicting each other",
+             "As a later addition to the collection"],
+         "correct": 1,
+         "expl": "Together restating exactly the path AN 4.205 already gave in full."},
+        {"q": "What formula delivers the results named in this discourse?",
+         "opts": [
+             "A new formula unique to this discourse",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;, from AN 4.212",
+             "No formula &mdash; only a bare list",
+             "The five precepts formula"],
+         "correct": 1,
+         "expl": "The same formula this chapter has run since AN 4.212, here applied to half the path."},
+        {"q": "How are view and thought usually grouped in the tradition&rsquo;s account of the eightfold path?",
+         "opts": [
+             "As unrelated factors",
+             "Together, as the wisdom grouping",
+             "As part of the concentration grouping",
+             "As part of the livelihood grouping"],
+         "correct": 1,
+         "expl": "Paired as wisdom, with speech and action beginning the ethics grouping."},
+        {"q": "What form does this discourse take, matching AN 4.214?",
+         "opts": [
+             "A discourse written out in full, two paragraphs",
+             "A single heavily elided line",
+             "A dialogue with a named interlocutor",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "The same heavy compression used since AN 4.214."},
+    ],
+    marginalia=[
+        ("Eight factors, split in two", [
+            "AN 4.215 &middot; view through action",
+            "AN 4.216 &middot; livelihood through immersion",
+        ]),
+        ("The seam is the chapter&rsquo;s", [
+            "AN 4.205 held all eight",
+            "&mdash; this chapter&rsquo;s tetrad form",
+            "cannot",
+        ]),
+        ("A natural division", [
+            "wisdom and ethics, first;",
+            "livelihood and cultivation, second",
+        ]),
+        ("Read as one argument", [
+            "AN 4.215 + AN 4.216",
+            "restate AN 4.205&rsquo;s path",
+            "through this chapter&rsquo;s formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.215/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.205.html">AN 4.205 &middot; Eightfold</a> &mdash; the same path, given whole '
+        "and unsplit.",
+        '<a href="an-4.216.html">AN 4.216 &middot; Path (2nd)</a> &mdash; the other half of this '
+        "same path.",
+        '<a href="an-4.206.html">AN 4.206 &middot; The Path with Ten Factors</a> &mdash; the same '
+        "eight factors, extended by two and given a discourse of its own.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.216 — Dutiyamaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    216, "Dutiyamagga", "Path (2nd)",
+    vagga=VAGGA_22,
+    meta_title="AN 4.216 — Path (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Maggasutta, "
+        "completing the eightfold path begun at AN 4.215 with its remaining four factors "
+        "&mdash; livelihood, effort, mindfulness, immersion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, naming the second four factors of the noble eightfold path"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the second half of a pair, "
+                       "best read straight after its predecessor"),
+    ],
+    why=(
+        "The path&rsquo;s second half completes what AN 4.215 began: livelihood, effort, "
+        "mindfulness, and immersion, the four factors that extend ethics into a way of making a "
+        "living and then into the cultivation of the mind itself. Read alone, this is a bare list; "
+        "read as the second half of a pair, it finishes an eight-factor path the chapter could not "
+        "hold in one discourse."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion deliver a "
+            "person to hell as if placed there; the right counterparts deliver them to heaven the "
+            "same way, completing the eightfold path."]),
+        ("The second half", [
+            "<em>Micchāājīva, micchāvāyāma, micchāsati, micchāsamādhi</em> &mdash; wrong "
+            "livelihood, wrong effort, wrong mindfulness, wrong immersion. These complete the "
+            "eightfold path begun at AN 4.215: livelihood extends the ethics grouping into how one "
+            "supports oneself, and the remaining three &mdash; effort, mindfulness, immersion "
+            "&mdash; are the concentration grouping, the factors most directly concerned with "
+            "training the mind in meditation.",
+            "Taken together with AN 4.215, the eight factors named across the two discourses are "
+            "identical, item for item and in the same order, to the eight given in full at AN "
+            "4.205. Nothing has been added, dropped, or reordered; only the discourse boundary is "
+            "new."]),
+        ("Livelihood as a hinge", [
+            "<em>Sammāājīva</em>, right livelihood, sits at the seam between the two discourses in "
+            "the traditional grouping &mdash; the last item of ethics broadly construed, and the "
+            "bridge into the three factors of concentration that follow it. That it falls on the "
+            "second discourse rather than the first is a reminder that the split chosen at AN "
+            "4.215 groups view-thought-speech-action as one unit and livelihood-effort-mindfulness-"
+            "immersion as the other, rather than splitting strictly along the wisdom/ethics/"
+            "concentration threefold division sometimes used to describe the path."]),
+        ("A path completed, and a chapter&rsquo;s form vindicated", [
+            "With this discourse the eightfold path is whole again, delivered across exactly the "
+            "two discourses its length required. The chapter&rsquo;s tetrad form did not shrink the "
+            "path or distort it; it simply took two turns to say what AN 4.205 said in one. A "
+            "reader who has followed both discourses in sequence has the identical eight factors "
+            "either way &mdash; the only cost paid is that this chapter needed twice the space."]),
+    ],
+    terms=[
+        ("micchāājīva / sammāājīva",
+         "&ldquo;wrong livelihood&rdquo; and &ldquo;right livelihood&rdquo; &mdash; the fifth path "
+         "factor, extending ethics into how one earns a living, and the hinge between this "
+         "discourse&rsquo;s two halves of the path."),
+        ("micchāvāyāma / sammāvāyāma",
+         "&ldquo;wrong effort&rdquo; and &ldquo;right effort&rdquo; &mdash; the first of the three "
+         "concentration-grouping factors."),
+        ("micchāsati / sammāsati",
+         "&ldquo;wrong mindfulness&rdquo; and &ldquo;right mindfulness&rdquo; &mdash; the second "
+         "concentration factor."),
+        ("micchāsamādhi / sammāsamādhi",
+         "&ldquo;wrong immersion&rdquo; and &ldquo;right immersion&rdquo; &mdash; the eighth and "
+         "final factor, completing the path."),
+        ("ariya aṭṭhaṅgika magga",
+         "&ldquo;the noble eightfold path&rdquo; &mdash; now complete across this discourse and AN "
+         "4.215, identical to the path given whole at AN 4.205."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.216:1.1"),
+    ],
+    quiz=[
+        {"q": "What four path factors does this discourse name?",
+         "opts": [
+             "View, thought, speech, action",
+             "Livelihood, effort, mindfulness, and immersion",
+             "The four noble truths",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "The second half of the eightfold path begun at AN 4.215."},
+        {"q": "How do the eight factors named across AN 4.215 and AN 4.216 compare to AN 4.205&rsquo;s list?",
+         "opts": [
+             "Two factors are missing",
+             "Identical, item for item and in the same order",
+             "The order is reversed",
+             "Three new factors have been added"],
+         "correct": 1,
+         "expl": "Only the discourse boundary is new; nothing in the path itself has changed."},
+        {"q": "What role does right livelihood play in the traditional grouping, according to the guide?",
+         "opts": [
+             "It belongs with view and thought as wisdom",
+             "It is a hinge &mdash; the last item of ethics broadly construed, bridging into the concentration factors",
+             "It is unrelated to the other seven factors",
+             "It is identical to right action"],
+         "correct": 1,
+         "expl": "Falling on this discourse rather than AN 4.215."},
+        {"q": "What three factors make up the concentration grouping named in this discourse?",
+         "opts": [
+             "View, thought, and livelihood",
+             "Effort, mindfulness, and immersion",
+             "Speech, action, and livelihood",
+             "View, speech, and immersion"],
+         "correct": 1,
+         "expl": "The factors most directly concerned with training the mind."},
+        {"q": "What does the guide say the chapter&rsquo;s tetrad form cost, in splitting the path across two discourses?",
+         "opts": [
+             "Half the path&rsquo;s content was lost",
+             "Nothing but space &mdash; the path is delivered whole across two discourses instead of one",
+             "The order of the factors was scrambled",
+             "The formula had to be abandoned"],
+         "correct": 1,
+         "expl": "A reader who follows both discourses has the identical eight factors either way."},
+        {"q": "Which discourse gives the same eight factors as a single, unsplit list?",
+         "opts": [
+             "AN 4.211",
+             "AN 4.205, in the previous chapter",
+             "AN 4.220",
+             "AN 4.213"],
+         "correct": 1,
+         "expl": "The source this two-discourse pair reproduces in full."},
+        {"q": "What formula structures this discourse, as with the rest of the chapter since AN 4.212?",
+         "opts": [
+             "A verse of praise",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;",
+             "A dialogue with a wanderer",
+             "No formula at all"],
+         "correct": 1,
+         "expl": "Continued unchanged from AN 4.212 through this discourse."},
+        {"q": "What is the eighth and final factor of the path, named at the end of this discourse?",
+         "opts": [
+             "Right view",
+             "Right immersion, <em>sammāsamādhi</em>",
+             "Right speech",
+             "Right effort"],
+         "correct": 1,
+         "expl": "Completing the eightfold path across this discourse and its predecessor."},
+        {"q": "How does the guide describe the split chosen between AN 4.215 and AN 4.216?",
+         "opts": [
+             "Arbitrary and unmotivated",
+             "Grouping view-thought-speech-action as one unit and livelihood-effort-mindfulness-immersion as the other",
+             "Splitting strictly along wisdom, ethics, and concentration as three separate discourses",
+             "Random alternation of factors"],
+         "correct": 1,
+         "expl": "Not the only possible cut, but a coherent one following the tradition&rsquo;s usual grouping."},
+        {"q": "What discourse immediately follows this one in the chapter?",
+         "opts": [
+             "AN 4.211",
+             "AN 4.217, on kinds of expression",
+             "AN 4.204",
+             "AN 4.220"],
+         "correct": 1,
+         "expl": "Moving from the path to a different four-item formula about truthful and false speech."},
+    ],
+    marginalia=[
+        ("The path, completed", [
+            "AN 4.215 &middot; view through action",
+            "AN 4.216 &middot; livelihood through immersion",
+            "&mdash; identical to AN 4.205",
+        ]),
+        ("Livelihood, the hinge", [
+            "last of ethics,",
+            "first bridge to concentration",
+        ]),
+        ("Three concentration factors", [
+            "effort &middot; mindfulness",
+            "immersion",
+        ]),
+        ("What the split costs", [
+            "nothing but space &mdash;",
+            "two discourses, one path,",
+            "eight factors either way",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.216/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.215.html">AN 4.215 &middot; Path (1st)</a> &mdash; the first half of this '
+        "same path.",
+        '<a href="an-4.205.html">AN 4.205 &middot; Eightfold</a> &mdash; the source path, given '
+        "whole and unsplit.",
+        '<a href="an-4.217.html">AN 4.217 &middot; Kinds of Expression (1st)</a> &mdash; next, '
+        "where the chapter turns to a new formula about truthful and false speech.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.217 — Paṭhamavohārapathasutta
+# --------------------------------------------------------------------------- #
+page(
+    217, "Paṭhamavohārapatha", "Kinds of Expression (1st)",
+    vagga=VAGGA_22,
+    meta_title="AN 4.217 — Kinds of Expression (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first "
+        "Vohārapathasutta, which turns the chapter&rsquo;s hell/heaven formula onto false claims "
+        "about the seen, heard, sensed, and known &mdash; the same fourfold division of "
+        "experience already named at AN 4.24. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, naming four false claims about perception and cognition"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The diṭṭha-suta-muta-viññāta fourfold division of experience is "
+                              "widespread across the Nikāyas; this reading guide does not assert "
+                              "a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the vocabulary is familiar "
+                       "from AN 4.24, but the application here is new"),
+    ],
+    why=(
+        "This discourse takes the chapter into new content: not conduct, and not the path, but "
+        "truthfulness about one&rsquo;s own experience. Claiming to have seen, heard, sensed, or "
+        "known something one has not is enough, on its own, to be placed in hell as surely as any "
+        "of the conduct failures named so far. The four terms it uses &mdash; seen, heard, sensed, "
+        "known &mdash; are not new to this nipāta; they were named and defined at AN 4.24, many "
+        "chapters back, in a very different context."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Claiming to have seen, heard, sensed, or known something one has not delivers a person "
+            "to hell as if placed there; honestly denying what one has not experienced delivers "
+            "them to heaven."]),
+        ("A new content, an old vocabulary", [
+            "<em>Adiṭṭhe diṭṭhavādī, asute sutavādī, amute mutavādī, aviññāte viññātavādī</em> "
+            "&mdash; saying one has seen what one has not seen, heard what one has not heard, "
+            "sensed what one has not sensed, known what one has not known. The four terms "
+            "underneath these claims, <em>diṭṭha, suta, muta, viññāta</em>, seen, heard, sensed, "
+            "known, are the canonical fourfold division of everything that can be experienced "
+            "&mdash; the same division already defined in this collection&rsquo;s own reading "
+            "guide at AN 4.24, on the Realized One as <em>tādī</em>, unaffected in the midst of "
+            "things that ought to be seen, heard, sensed, and known.",
+            "That discourse used the fourfold division to describe a person unmoved by experience. "
+            "This one uses the identical four terms for something much more ordinary: the ethics of "
+            "reporting what one has or has not experienced. The vocabulary travels a long way "
+            "between the two applications without changing shape."]),
+        ("A precise fault, not a vague one", [
+            "The fault named is exact: claiming a specific kind of contact with the world &mdash; "
+            "seeing, hearing, sensing, or knowing &mdash; that did not occur. This is narrower than "
+            "lying in general, which AN 4.214 already covered a few discourses back; it is lying "
+            "specifically about the sources of one&rsquo;s own claims to knowledge, the kind of "
+            "false testimony that corrupts not just a single statement but the credibility of "
+            "everything a person later says they witnessed."]),
+        ("The dart, applied differently", [
+            "AN 4.24&rsquo;s closing image was of a dart others cling to: the assertion <em>I know, "
+            "I see, that&rsquo;s how it is</em>, taken up as a fixed position. That discourse "
+            "criticized the overreach of asserting one&rsquo;s own seeing as final, even when the "
+            "seeing was real. This discourse names a plainer, more common failure standing just "
+            "behind it: asserting seeing that was never real at all. Read together, the two "
+            "discourses cover both ends of the same problem &mdash; overclaiming what one has "
+            "genuinely experienced, and inventing experience one never had."]),
+        ("Setting up its own mirror", [
+            "This discourse&rsquo;s four claims all run one direction: saying yes about something "
+            "that is actually no. The next discourse, AN 4.218, will run the identical four terms "
+            "in the opposite direction &mdash; saying no about something that is actually yes "
+            "&mdash; completing between the two of them all four ways experience and speech about "
+            "it can come apart."]),
+    ],
+    terms=[
+        ("diṭṭha suta muta viññāta",
+         "&ldquo;seen, heard, sensed, known&rdquo; &mdash; the canonical fourfold division of "
+         "experience, first defined in this series at AN 4.24."),
+        ("vohārapatha",
+         "&ldquo;way of speaking, ground of expression&rdquo; &mdash; the word that names this "
+         "discourse and its pair, on the ethics of reporting experience truthfully."),
+        ("adiṭṭhe diṭṭhavādī",
+         "&ldquo;claiming to have seen what one has not seen&rdquo; &mdash; the first of the four "
+         "false claims named here."),
+        ("musāvāda",
+         "&ldquo;false speech&rdquo;, named already at AN 4.214 &mdash; the general fault this "
+         "discourse narrows to a specific, more corrosive form."),
+        ("salla",
+         "&ldquo;dart&rdquo; &mdash; the image from AN 4.24 for the position taken up on one&rsquo;s "
+         "own seeing; this discourse names the plainer failure standing behind it, inventing the "
+         "seeing itself."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.217:1.1"),
+    ],
+    quiz=[
+        {"q": "What four false claims does this discourse name?",
+         "opts": [
+             "Claiming wealth, status, learning, and ordination one does not have",
+             "Claiming to have seen, heard, sensed, or known something one has not",
+             "Claiming the four noble truths are false",
+             "Claiming to belong to the wrong assembly"],
+         "correct": 1,
+         "expl": "False claims about one&rsquo;s own experience across all four modes of contact."},
+        {"q": "Where was the fourfold division diṭṭha-suta-muta-viññāta already defined in this series?",
+         "opts": [
+             "AN 4.211",
+             "AN 4.24",
+             "AN 4.205",
+             "It is defined for the first time here"],
+         "correct": 1,
+         "expl": "On the Realized One as <em>tādī</em>, unaffected amid things seen, heard, sensed, and known."},
+        {"q": "How does this discourse&rsquo;s use of the fourfold division differ from AN 4.24&rsquo;s?",
+         "opts": [
+             "It rejects AN 4.24&rsquo;s definition",
+             "AN 4.24 used it to describe a person unmoved by experience; this discourse uses it for the ethics of reporting experience truthfully",
+             "It applies only to monastics",
+             "There is no meaningful difference"],
+         "correct": 1,
+         "expl": "The same vocabulary applied to a much more ordinary concern."},
+        {"q": "How does the guide distinguish this discourse&rsquo;s fault from general lying, already named at AN 4.214?",
+         "opts": [
+             "There is no distinction",
+             "It is narrower &mdash; specifically false testimony about the sources of one&rsquo;s own claims to knowledge",
+             "It only applies to lying about wealth",
+             "It replaces the general prohibition on lying entirely"],
+         "correct": 1,
+         "expl": "Corrupting the credibility of everything a person later claims to have witnessed."},
+        {"q": "How does the guide connect this discourse to AN 4.24&rsquo;s closing image of the dart?",
+         "opts": [
+             "No connection is drawn",
+             "AN 4.24 criticized overclaiming real experience; this discourse names the plainer failure of inventing experience that never occurred",
+             "Both discourses reject the dart image",
+             "The dart image only appears in this discourse"],
+         "correct": 1,
+         "expl": "Two ends of the same problem: overclaiming real experience, and inventing false experience."},
+        {"q": "What does the next discourse, AN 4.218, do with these same four terms?",
+         "opts": [
+             "Discards them for a new topic",
+             "Runs them in the opposite direction &mdash; denying what actually did occur",
+             "Repeats this discourse exactly",
+             "Applies them only to monks, not laypeople"],
+         "correct": 1,
+         "expl": "Completing all four ways experience and speech about it can come apart, between the two discourses."},
+        {"q": "What formula structures this discourse, continuing from AN 4.212?",
+         "opts": [
+             "A dialogue with a brahmin",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;",
+             "A set of verses",
+             "No formula, only a bare list"],
+         "correct": 1,
+         "expl": "Unchanged since it was introduced at AN 4.212."},
+        {"q": "What is <em>muta</em>, the third of the four terms?",
+         "opts": [
+             "Thought or reasoned",
+             "Sensed &mdash; contact through smell, taste, and touch, as distinct from seeing and hearing",
+             "Remembered",
+             "Spoken aloud"],
+         "correct": 1,
+         "expl": "One quarter of the canonical fourfold division of experience."},
+        {"q": "What does the guide say this discourse&rsquo;s fault corrupts, beyond the single false statement?",
+         "opts": [
+             "Nothing beyond the statement itself",
+             "The credibility of everything a person later says they witnessed",
+             "Only the speaker&rsquo;s monastic standing",
+             "The listener&rsquo;s ability to meditate"],
+         "correct": 1,
+         "expl": "A more corrosive form of false speech than an isolated lie."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Two full paragraphs written out",
+             "A single heavily elided line, matching AN 4.214&ndash;4.216",
+             "A verse composition",
+             "A narrative frame with a named questioner"],
+         "correct": 1,
+         "expl": "Continuing the chapter&rsquo;s run of compressed discourses."},
+    ],
+    marginalia=[
+        ("A vocabulary that travels", [
+            "AN 4.24 &middot; unaffected by",
+            "seen, heard, sensed, known",
+            "AN 4.217 &middot; lying about them",
+        ]),
+        ("A precise fault", [
+            "not lying in general,",
+            "but inventing the very",
+            "experience claimed",
+        ]),
+        ("Two ends of one problem", [
+            "AN 4.24 &middot; overclaiming real seeing",
+            "AN 4.217 &middot; inventing false seeing",
+        ]),
+        ("Setting up its mirror", [
+            "this discourse: false yes",
+            "next: false no",
+            "&mdash; both directions covered",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.217/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.24.html">AN 4.24 &middot; Poise</a> &mdash; where <em>diṭṭha suta muta '
+        'viññāta</em> was first defined in this series.',
+        '<a href="an-4.214.html">AN 4.214 &middot; Killing Living Creatures</a> &mdash; where '
+        "general false speech was named among the ten courses of action.",
+        '<a href="an-4.218.html">AN 4.218 &middot; Kinds of Expression (2nd)</a> &mdash; next, '
+        "running the same four terms in the opposite direction.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.218 — Dutiyavohārapathasutta
+# --------------------------------------------------------------------------- #
+page(
+    218, "Dutiyavohārapatha", "Kinds of Expression (2nd)",
+    vagga=VAGGA_22,
+    meta_title="AN 4.218 — Kinds of Expression (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Vohārapathasutta, mirroring AN 4.217 by denying what one has actually seen, heard, "
+        "sensed, or known &mdash; completing all four ways truthfulness about experience can "
+        "fail. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, mirroring AN 4.217 in the opposite direction"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the mirror half of a pair, "
+                       "best read straight after its predecessor"),
+    ],
+    why=(
+        "Where AN 4.217 named the fault of claiming experience one never had, this discourse "
+        "names its mirror: denying experience one genuinely did have. Together the two discourses "
+        "exhaust the four ways a report of the seen, heard, sensed, and known can diverge from "
+        "what actually happened &mdash; false claims and false denials, covering the whole ground "
+        "between silence and honesty."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Denying that one has seen, heard, sensed, or known something one actually has "
+            "delivers a person to hell as if placed there; truthfully affirming what one has "
+            "experienced delivers them to heaven."]),
+        ("The mirror completed", [
+            "<em>Diṭṭhe adiṭṭhavādī, sute asutavādī, mute amutavādī, viññāte aviññātavādī</em> "
+            "&mdash; denying having seen what one has seen, denying having heard what one has "
+            "heard, and so for sensed and known. This is AN 4.217&rsquo;s four claims run in "
+            "reverse: there, false affirmation of the unexperienced; here, false denial of the "
+            "experienced.",
+            "Between the two discourses, all four logical combinations of experience and claim "
+            "have now been named: truly experienced and truly claimed, or truly denied; falsely "
+            "claimed when unexperienced, or falsely denied when experienced. The chapter has, in "
+            "two short elided discourses, mapped the complete space of truthful and false "
+            "reporting about one&rsquo;s own perception."]),
+        ("Why denial is treated as gravely as false claim", [
+            "It would be easy to think claiming false experience is the worse fault, since it "
+            "manufactures something from nothing, while denying true experience merely withholds. "
+            "The discourse does not rank them; both are placed in hell by the identical formula, "
+            "with the identical weight. A false denial can do as much damage as a false claim "
+            "&mdash; a witness who denies having seen a wrongdoing is exactly as corrosive to "
+            "truth as one who claims to have seen a wrongdoing that never occurred."]),
+        ("A short pair, closing a small unit", [
+            "AN 4.217 and AN 4.218 are, between them, a complete small unit: one formula, one set "
+            "of four terms, exhausted from both directions in the minimum two discourses the "
+            "chapter&rsquo;s form allows. It is the same economy already seen at AN 4.212 and AN "
+            "4.213, where a fixed frame took one variable and produced a matched pair; here the "
+            "variable is not a swapped term but a reversed direction."]),
+    ],
+    terms=[
+        ("diṭṭhe adiṭṭhavādī",
+         "&ldquo;denying having seen what one has seen&rdquo; &mdash; the mirror of AN "
+         "4.217&rsquo;s <em>adiṭṭhe diṭṭhavādī</em>, false claim reversed into false denial."),
+        ("diṭṭha suta muta viññāta",
+         "&ldquo;seen, heard, sensed, known&rdquo; &mdash; the same fourfold division used at AN "
+         "4.217 and first defined at AN 4.24, now exhausted from both directions."),
+        ("vohārapatha",
+         "&ldquo;way of speaking, ground of expression&rdquo; &mdash; the term naming this "
+         "discourse and its pair together."),
+        ("musāvāda",
+         "&ldquo;false speech&rdquo; &mdash; the general fault both this discourse and AN 4.217 "
+         "narrow to a specific form, concerning testimony about one&rsquo;s own experience."),
+        ("saccavādī",
+         "&ldquo;a truth-speaker&rdquo; &mdash; not named directly in this discourse&rsquo;s "
+         "elision, but the positive character both halves of this pair describe by their heaven "
+         "formulas."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.218:1.1"),
+    ],
+    quiz=[
+        {"q": "What four false claims does this discourse name?",
+         "opts": [
+             "Claiming to have seen, heard, sensed, or known something one has not",
+             "Denying having seen, heard, sensed, or known something one actually has",
+             "Claiming special meditative attainments",
+             "Denying the existence of the four noble truths"],
+         "correct": 1,
+         "expl": "The mirror of AN 4.217&rsquo;s false claims."},
+        {"q": "How does this discourse relate to AN 4.217?",
+         "opts": [
+             "It is unrelated, on an entirely different topic",
+             "It runs the identical four terms in the opposite direction, from false claim to false denial",
+             "It repeats AN 4.217 word for word",
+             "It contradicts AN 4.217&rsquo;s teaching"],
+         "correct": 1,
+         "expl": "Together the two discourses exhaust all four logical combinations of experience and claim."},
+        {"q": "According to the guide, does this discourse rank false denial as less serious than false claim?",
+         "opts": [
+             "Yes, denial is treated as a lesser fault",
+             "No &mdash; both are placed in hell by the identical formula, with identical weight",
+             "Yes, denial is treated as more serious",
+             "The discourse does not address false claim at all"],
+         "correct": 1,
+         "expl": "A false denial can be exactly as corrosive to truth as a false claim."},
+        {"q": "What complete unit do AN 4.217 and AN 4.218 form together, according to the guide?",
+         "opts": [
+             "An incomplete fragment missing further discourses",
+             "A small unit exhausting one formula and one set of terms from both directions, in the minimum two discourses the chapter&rsquo;s form allows",
+             "Two entirely separate teachings on unrelated topics",
+             "A single discourse artificially split for no reason"],
+         "correct": 1,
+         "expl": "The same economy already seen at AN 4.212 and AN 4.213, with direction as the variable instead of a swapped term."},
+        {"q": "Where was the diṭṭha-suta-muta-viññāta division first defined in this series?",
+         "opts": [
+             "AN 4.217",
+             "AN 4.24",
+             "AN 4.211",
+             "It has no earlier definition"],
+         "correct": 1,
+         "expl": "Carried forward through both this discourse and its predecessor."},
+        {"q": "What example does the guide give for why false denial matters as much as false claim?",
+         "opts": [
+             "A student who exaggerates their learning",
+             "A witness who denies having seen a wrongdoing, as corrosive as one who claims to have seen one that never occurred",
+             "A monk who forgets a teaching",
+             "A layperson who breaks a minor precept"],
+         "correct": 1,
+         "expl": "Both directions damage truth equally."},
+        {"q": "What formula structures this discourse?",
+         "opts": [
+             "A new formula unique to this discourse",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;, continued from AN 4.212",
+             "A narrative with a named interlocutor",
+             "No formula, only a list of terms"],
+         "correct": 1,
+         "expl": "The same formula running through most of this chapter."},
+        {"q": "What four combinations of experience and claim are exhausted between AN 4.217 and AN 4.218?",
+         "opts": [
+             "Only false claims, in two variations",
+             "Truly experienced and truly claimed or denied; falsely claimed when unexperienced; falsely denied when experienced",
+             "Only questions of monastic discipline",
+             "Combinations involving a third, unnamed category"],
+         "correct": 1,
+         "expl": "The complete space of truthful and false reporting about perception."},
+        {"q": "What is the form of this discourse, matching its immediate neighbors?",
+         "opts": [
+             "Two paragraphs written out in full",
+             "A single heavily elided line",
+             "A set of verses",
+             "A dialogue with a king"],
+         "correct": 1,
+         "expl": "Continuing the chapter&rsquo;s cluster of compressed discourses."},
+        {"q": "What discourse follows this one, moving to a new topic?",
+         "opts": [
+             "AN 4.219, on lack of conscience",
+             "AN 4.211",
+             "AN 4.205",
+             "AN 4.24"],
+         "correct": 1,
+         "expl": "The chapter moves from truthful speech to a different fourfold failing."},
+    ],
+    marginalia=[
+        ("The mirror, completed", [
+            "AN 4.217 &middot; false yes",
+            "AN 4.218 &middot; false no",
+        ]),
+        ("Four combinations, exhausted", [
+            "true claim &middot; true denial",
+            "false claim &middot; false denial",
+        ]),
+        ("No ranking between them", [
+            "identical formula,",
+            "identical weight",
+        ]),
+        ("A pair completed economically", [
+            "one formula, one term set,",
+            "two discourses, both directions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.218/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.217.html">AN 4.217 &middot; Kinds of Expression (1st)</a> &mdash; the '
+        "discourse this one mirrors.",
+        '<a href="an-4.24.html">AN 4.24 &middot; Poise</a> &mdash; where the fourfold division of '
+        "experience these two discourses share was first defined.",
+        '<a href="an-4.219.html">AN 4.219 &middot; Lack of Conscience</a> &mdash; next, moving to '
+        "a different fourfold failing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.219 — Ahirikasutta
+# --------------------------------------------------------------------------- #
+page(
+    219, "Ahirika", "Lack of Conscience",
+    vagga=VAGGA_22,
+    meta_title="AN 4.219 — Lack of Conscience | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ahirikasutta, which "
+        "draws three of its four terms from the sevenfold list at AN 4.202 and compresses them "
+        "into a tetrad with the addition of dussīla, unethical. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, naming four qualities of an untrustworthy person"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, but worth reading "
+                       "against its source in the previous chapter"),
+    ],
+    why=(
+        "Faithless, unethical, shameless, imprudent &mdash; a compact tetrad that is not, on "
+        "inspection, entirely new material. Three of its four terms were already assembled into a "
+        "sevenfold list back at AN 4.202, in the previous chapter, describing an untrue person. "
+        "This discourse draws on that same pool of qualities, compressed to fit the tetrad this "
+        "chapter requires, with one term swapped in to make the count."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Faithlessness, lack of ethics, shamelessness, and lack of prudence deliver a person to "
+            "hell as if placed there; faith, ethics, conscience, and prudence deliver them to "
+            "heaven."]),
+        ("A tetrad drawn from a sevenfold list", [
+            "<em>Assaddho, dussīlo, ahiriko, anottappī</em> &mdash; faithless, unethical, "
+            "shameless, imprudent. Three of these four terms &mdash; faithless, shameless, "
+            "imprudent &mdash; appear in the sevenfold description of an untrue person at AN "
+            "4.202, alongside four more: little learning, laziness, poor mindfulness, and "
+            "witlessness. This discourse keeps three of those seven and adds a fourth term of its "
+            "own, <em>dussīla</em>, unethical, which AN 4.202&rsquo;s list left implicit rather "
+            "than naming outright.",
+            "The relationship is compression, not contradiction. AN 4.202&rsquo;s seven qualities "
+            "and this discourse&rsquo;s four are drawn from the same underlying concern &mdash; "
+            "what makes a person untrustworthy &mdash; sorted differently to fit two different "
+            "chapters&rsquo; different forms, sevenfold there and fourfold here."]),
+        ("Shame and prudence, a standard pair", [
+            "<em>Hiri</em> and <em>ottappa</em>, conscience and prudence, moral shame and moral "
+            "dread, are named together throughout the canon as the two guardians of the world, "
+            "<em>lokapāla dhammā</em> &mdash; the inner sense of shame at wrongdoing and the "
+            "outward fear of its consequences, working together to restrain conduct where external "
+            "rules cannot reach. Their absence, named here as a pair, is treated as serious enough "
+            "to place a person in hell alongside faithlessness and lack of ethics."]),
+        ("What compression across chapters shows", [
+            "Between AN 4.202 and this discourse, the collection has now shown the same technique "
+            "twice at different distances: within a single chapter, as with the pāpadhamma "
+            "vocabulary recombined across AN 4.204&ndash;4.210, and across a chapter boundary, as "
+            "here. A pool of qualities describing untrustworthiness does not belong to one "
+            "discourse or one chapter; it circulates, contracting and expanding to fit whatever "
+            "form the compilers are working in at the time."]),
+    ],
+    terms=[
+        ("assaddha / saddha",
+         "&ldquo;faithless&rdquo; and &ldquo;faithful&rdquo; &mdash; the first term, shared with "
+         "the sevenfold list at AN 4.202."),
+        ("dussīla / sīlavā",
+         "&ldquo;unethical&rdquo; and &ldquo;ethical&rdquo; &mdash; the one term in this tetrad not "
+         "drawn directly from AN 4.202&rsquo;s seven, made explicit here."),
+        ("ahirika / hirimā",
+         "&ldquo;shameless&rdquo; and &ldquo;conscientious&rdquo; &mdash; already named at AN "
+         "4.202; one of the two guardians of the world."),
+        ("anottappī / ottappī",
+         "&ldquo;imprudent&rdquo; and &ldquo;prudent&rdquo; &mdash; the second guardian of the "
+         "world, paired with conscience against wrongdoing."),
+        ("lokapāla dhammā",
+         "&ldquo;guardians of the world&rdquo; &mdash; the standard name in the wider canon for "
+         "conscience and prudence together, restraining conduct from within."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.219:1.1"),
+    ],
+    quiz=[
+        {"q": "What four qualities does this discourse name?",
+         "opts": [
+             "Little learning, laziness, poor mindfulness, witlessness",
+             "Faithless, unethical, shameless, imprudent",
+             "Killing, stealing, sexual misconduct, lying",
+             "Wrong view, wrong thought, wrong speech, wrong action"],
+         "correct": 1,
+         "expl": "A tetrad drawn substantially from AN 4.202&rsquo;s earlier sevenfold list."},
+        {"q": "How many of this discourse&rsquo;s four terms also appear in AN 4.202&rsquo;s sevenfold list?",
+         "opts": [
+             "None",
+             "Three &mdash; faithless, shameless, imprudent",
+             "All four",
+             "Only one"],
+         "correct": 1,
+         "expl": "The fourth term, unethical, is added explicitly here."},
+        {"q": "What four terms does AN 4.202&rsquo;s sevenfold list include that this discourse drops?",
+         "opts": [
+             "Faith, ethics, conscience, prudence",
+             "Little learning, laziness, poor mindfulness, witlessness",
+             "View, thought, speech, action",
+             "Killing, stealing, lying, divisive speech"],
+         "correct": 1,
+         "expl": "Compressed out to fit this chapter&rsquo;s four-item form."},
+        {"q": "How does the guide characterize the relationship between this discourse and AN 4.202?",
+         "opts": [
+             "Contradiction &mdash; the two discourses disagree",
+             "Compression &mdash; the same underlying concern, sorted differently to fit two different chapters&rsquo; forms",
+             "No relationship at all",
+             "This discourse predates AN 4.202"],
+         "correct": 1,
+         "expl": "A shared pool of qualities describing untrustworthiness, sevenfold there and fourfold here."},
+        {"q": "What are hiri and ottappa called together in the wider canon?",
+         "opts": [
+             "The four noble truths",
+             "The two guardians of the world, <em>lokapāla dhammā</em>",
+             "The five faculties",
+             "The three trainings"],
+         "correct": 1,
+         "expl": "Moral shame and moral dread, restraining conduct where external rules cannot reach."},
+        {"q": "What does the guide say the compression seen here and in the previous chapter shows about the collection?",
+         "opts": [
+             "That the compilers made errors",
+             "That a pool of qualities circulates across discourses and chapters, contracting and expanding to fit whatever form is needed",
+             "That later chapters contradict earlier ones",
+             "That each chapter is entirely self-contained with no shared vocabulary"],
+         "correct": 1,
+         "expl": "Shown here across a chapter boundary, and earlier within a single chapter at AN 4.204&ndash;4.210."},
+        {"q": "What formula structures this discourse?",
+         "opts": [
+             "A new formula introduced here for the first time",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;",
+             "A dialogue with a deity",
+             "No formula, just a bare list"],
+         "correct": 1,
+         "expl": "Continued from AN 4.212 through most of the chapter."},
+        {"q": "Which earlier discourse first assembled a sevenfold list including three of this tetrad&rsquo;s terms?",
+         "opts": [
+             "AN 4.7",
+             "AN 4.202, in the previous chapter",
+             "AN 4.24",
+             "AN 4.211"],
+         "correct": 1,
+         "expl": "Describing an untrue person and an even more untrue person."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Two paragraphs written out in full",
+             "A single heavily elided line",
+             "A narrative with dialogue",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Continuing the chapter&rsquo;s cluster of compressed discourses."},
+        {"q": "What discourse closes this chapter, immediately following this one?",
+         "opts": [
+             "AN 4.211",
+             "AN 4.220, written out in full",
+             "AN 4.205",
+             "AN 4.202"],
+         "correct": 1,
+         "expl": "The chapter&rsquo;s final discourse, returning to full, unelided form."},
+    ],
+    marginalia=[
+        ("Three of four, borrowed", [
+            "AN 4.202 &middot; sevenfold list",
+            "AN 4.219 &middot; three terms kept,",
+            "dussīla added",
+        ]),
+        ("Four terms dropped", [
+            "little learning &middot; laziness",
+            "poor mindfulness &middot; witlessness",
+        ]),
+        ("Two guardians of the world", [
+            "hiri &middot; moral shame",
+            "ottappa &middot; moral dread",
+        ]),
+        ("A pool that circulates", [
+            "within a chapter, and now",
+            "across a chapter boundary",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.219/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.202.html">AN 4.202 &middot; Faithless</a> &mdash; the sevenfold list this '
+        "tetrad compresses three terms from.",
+        '<a href="an-4.210.html">AN 4.210 &middot; Bad Character (4th)</a> &mdash; the previous '
+        "chapter&rsquo;s own demonstration of one pool of content recombined.",
+        '<a href="an-4.220.html">AN 4.220 &middot; Unethical</a> &mdash; next, closing the '
+        "chapter with a related tetrad from the same pool.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.220 — Dussīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    220, "Dussīla", "Unethical",
+    vagga=VAGGA_22,
+    meta_title="AN 4.220 — Unethical | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dussīlasutta, closing "
+        "the Parisāvagga in full, unelided form &mdash; faithless, unethical, lazy, and witless, "
+        "drawing the chapter&rsquo;s last two terms from the same pool AN 4.202 first assembled. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_22),
+        ("Speakers", SPEAKER),
+        ("Form", "Two full paragraphs, hell and heaven written out in full, closing the chapter's "
+                 "elided run"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the chapter&rsquo;s close, "
+                       "and a good place to look back over its whole run"),
+    ],
+    why=(
+        "After five discourses compressed to single elided lines, this one closes the chapter the "
+        "way AN 4.210 closed the last one: written out in full. Its four terms &mdash; faithless, "
+        "unethical, lazy, witless &mdash; draw once more on the pool of qualities AN 4.202 "
+        "assembled sevenfold, taking two different items this time than AN 4.219 did, and closing "
+        "a chapter that has spent its length showing how far a handful of recurring qualities can "
+        "be resorted."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Faithlessness, lack of ethics, laziness, and witlessness deliver a person to hell as if "
+            "placed there; faith, ethics, energy, and wisdom deliver them to heaven, closing the "
+            "chapter."]),
+        ("Full form, after a run of elision", [
+            "<em>Assaddho hoti, dussīlo hoti, kusīto hoti, duppañño hoti</em> &mdash; the sequence "
+            "is written out completely, both the hell half and the heaven half, with none of the "
+            "<em>…pe…</em> compression that carried AN 4.214 through AN 4.219. This matches the "
+            "pattern already seen at the close of the previous chapter, AN 4.210, which likewise "
+            "returned to full form after a run of shorter discourses.",
+            "The effect is to mark the chapter&rsquo;s ending clearly, giving the final discourse "
+            "the weight of complete statement rather than allowing the reader&rsquo;s last "
+            "impression to be an ellipsis mark. Whether this was a deliberate compositional choice "
+            "or simply what happens when a vagga&rsquo;s closing discourse also carries the "
+            "colophon material that follows it, the result read on the page is the same: a firm "
+            "close."]),
+        ("Two more terms from the same pool", [
+            "<em>Kusīto</em>, lazy, and <em>duppañño</em>, witless, are the fifth and seventh "
+            "qualities of AN 4.202&rsquo;s sevenfold list &mdash; the two items that discourse "
+            "shared with neither AN 4.219 nor this discourse until now. Between AN 4.219 and AN "
+            "4.220, the chapter has drawn on all four non-overlapping quarters of that sevenfold "
+            "list&rsquo;s content: shameless and imprudent went to AN 4.219; lazy and witless come "
+            "here; faithless and unethical appear in both. Little learning and poor mindfulness, "
+            "AN 4.202&rsquo;s remaining two terms, appear in neither tetrad, left unused by this "
+            "chapter&rsquo;s compressions."]),
+        ("A colophon with a small discrepancy", [
+            "The running heading that opens every discourse in this chapter names it the "
+            "<em>Parisāvagga</em>, the assembly chapter, after its first discourse. The closing "
+            "colophon that follows this discourse in the source text names it instead the "
+            "<em>Parisasobhaṇavagga</em>, the chapter of assembly-grace &mdash; a slightly "
+            "different name, drawing on the second half of AN 4.211 rather than its first. Both "
+            "point at the same ten discourses; the two traditional indexing devices simply chose "
+            "different words from the same opening discourse to name them by."]),
+        ("What ten discourses accomplished", [
+            "The chapter opened by carrying a vocabulary across from the one before it, then spent "
+            "its middle stretch introducing and running a new formula &mdash; placement in hell or "
+            "heaven &lsquo;as if delivered there&rsquo; &mdash; across content old and new: "
+            "compressed conduct, a divided eightfold path, a fourfold epistemic formula borrowed "
+            "from AN 4.24, and finally a return to the untrustworthy-person pool first assembled at "
+            "AN 4.202. Read end to end, the Parisāvagga is less a single new teaching than a "
+            "demonstration of how thoroughly this collection&rsquo;s existing material can be "
+            "resorted, recombined, and delivered through a new formula without needing anything "
+            "genuinely new to say."]),
+    ],
+    terms=[
+        ("kusīta / āraddhavīriya",
+         "&ldquo;lazy&rdquo; and &ldquo;energetic&rdquo; &mdash; drawn from the same sevenfold list "
+         "as AN 4.219&rsquo;s terms, filling the tetrad&rsquo;s third slot here."),
+        ("duppañña / paññavā",
+         "&ldquo;witless&rdquo; and &ldquo;wise&rdquo; &mdash; the fourth slot, closing both this "
+         "discourse and the chapter."),
+        ("assaddha / dussīla",
+         "&ldquo;faithless&rdquo; and &ldquo;unethical&rdquo; &mdash; the two terms this discourse "
+         "shares with AN 4.219, appearing in both of the chapter&rsquo;s closing tetrads."),
+        ("Parisāvagga / Parisasobhaṇavagga",
+         "the two names the source text gives this chapter &mdash; the running heading&rsquo;s "
+         "&ldquo;assembly chapter&rdquo; and the closing colophon&rsquo;s &ldquo;chapter of "
+         "assembly-grace&rdquo;, both drawn from AN 4.211."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula this chapter has run "
+         "since AN 4.212, given here one final time in full, unelided form."),
+    ],
+    text_intro=(
+        "The discourse in full: faithless, unethical, lazy, and witless, closing the chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.220:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.220:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four qualities does this discourse name?",
+         "opts": [
+             "Shameless, imprudent, little learning, poor mindfulness",
+             "Faithless, unethical, lazy, and witless",
+             "Killing, stealing, sexual misconduct, lying",
+             "View, thought, speech, action"],
+         "correct": 1,
+         "expl": "Two terms shared with AN 4.219, and two more drawn from AN 4.202&rsquo;s sevenfold list."},
+        {"q": "How does this discourse&rsquo;s form differ from the five discourses immediately before it?",
+         "opts": [
+             "It is even more heavily elided",
+             "It is written out in full, both hell and heaven halves, with no ellipsis marks",
+             "It uses verse instead of prose",
+             "It has no heaven half"],
+         "correct": 1,
+         "expl": "Matching the pattern seen at the close of the previous chapter, AN 4.210."},
+        {"q": "Which two of AN 4.202&rsquo;s seven terms appear in this discourse but not in AN 4.219?",
+         "opts": [
+             "Faithless and unethical",
+             "Lazy and witless",
+             "Shameless and imprudent",
+             "Little learning and poor mindfulness"],
+         "correct": 1,
+         "expl": "The fifth and seventh items of that sevenfold list."},
+        {"q": "Which two of AN 4.202&rsquo;s terms appear in neither AN 4.219 nor AN 4.220?",
+         "opts": [
+             "Faithless and unethical",
+             "Little learning and poor mindfulness",
+             "Lazy and witless",
+             "Shameless and imprudent"],
+         "correct": 1,
+         "expl": "Left unused by this chapter&rsquo;s two compressions of that list."},
+        {"q": "What discrepancy does the guide note between this chapter&rsquo;s running heading and its closing colophon?",
+         "opts": [
+             "They name entirely different sets of discourses",
+             "The heading calls it <em>Parisāvagga</em>; the colophon calls it <em>Parisasobhaṇavagga</em>, drawing on a different half of AN 4.211",
+             "The colophon omits this chapter entirely",
+             "There is no discrepancy at all"],
+         "correct": 1,
+         "expl": "Both point at the same ten discourses, naming them from different parts of the opening discourse."},
+        {"q": "How does the guide summarize what the Parisāvagga accomplished across its ten discourses?",
+         "opts": [
+             "It introduced an entirely new body of doctrine",
+             "It demonstrated how thoroughly existing material can be resorted and delivered through a new formula without needing anything genuinely new to say",
+             "It contradicted the chapter before it",
+             "It focused exclusively on monastic discipline"],
+         "correct": 1,
+         "expl": "Compressed conduct, a divided path, a borrowed epistemic formula, and a reused quality-pool, all through one new formula."},
+        {"q": "What formula does this discourse use, one final time in full form?",
+         "opts": [
+             "A verse of praise",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;",
+             "A dialogue with a wanderer",
+             "The five precepts formula"],
+         "correct": 1,
+         "expl": "Introduced at AN 4.212 and run through the whole chapter."},
+        {"q": "What earlier discourse in this chapter shares two of its four terms with this one?",
+         "opts": [
+             "AN 4.211",
+             "AN 4.219, Lack of Conscience",
+             "AN 4.212",
+             "AN 4.217"],
+         "correct": 1,
+         "expl": "Faithless and unethical appear in both discourses&rsquo; tetrads."},
+        {"q": "What earlier chapter first assembled the sevenfold list this discourse and AN 4.219 both draw from?",
+         "opts": [
+             "This same chapter, at AN 4.211",
+             "The previous chapter, at AN 4.202",
+             "AN 4.24, several chapters back",
+             "No earlier list exists"],
+         "correct": 1,
+         "expl": "Describing an untrue person and an even more untrue person."},
+        {"q": "What comes immediately after this discourse in the traditional source text?",
+         "opts": [
+             "Nothing; the collection ends here",
+             "A colophon naming the chapter, followed by an untranslated summary verse (uddāna)",
+             "A repeat of AN 4.211",
+             "The next chapter&rsquo;s first discourse, with no closing material"],
+         "correct": 1,
+         "expl": "Structural material this reading guide does not display, since Sujato&rsquo;s translation leaves the uddāna verses untranslated."},
+    ],
+    marginalia=[
+        ("The chapter, closed in full", [
+            "AN 4.214&ndash;219 &middot; elided",
+            "AN 4.220 &middot; written out whole",
+        ]),
+        ("The pool, fully drawn on", [
+            "AN 4.219 &middot; shameless, imprudent",
+            "AN 4.220 &middot; lazy, witless",
+            "&mdash; two terms left unused",
+        ]),
+        ("Two names, one chapter", [
+            "heading &middot; Parisāvagga",
+            "colophon &middot; Parisasobhaṇavagga",
+        ]),
+        ("Ten discourses, one demonstration", [
+            "old material, new formula,",
+            "nothing genuinely new to say",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.220/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.202.html">AN 4.202 &middot; Faithless</a> &mdash; the sevenfold list both '
+        "this discourse and AN 4.219 draw on.",
+        '<a href="an-4.210.html">AN 4.210 &middot; Bad Character (4th)</a> &mdash; the previous '
+        "chapter&rsquo;s own closing discourse, likewise returned to full form.",
+        '<a href="an-4.211.html">AN 4.211 &middot; Assembly</a> &mdash; the discourse that opened '
+        "this chapter and gave it both of its traditional names.",
+    ],
+)
