@@ -4373,3 +4373,1987 @@ page(
         "closing-colophon structure was explained in full.",
     ],
 )
+
+
+VAGGA_3 = "<em>Pañcaṅgikavagga</em> &mdash; the third chapter of the Fives"
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.21 — Paṭhamaagāravasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, "Paṭhamaagārava", "Disrespect (1st)",
+    vagga=VAGGA_3,
+    meta_title="AN 5.21 — Disrespect (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the third chapter's first "
+        "Agāravasutta — a five-step ladder of prerequisites, from supplementary regulations up "
+        "to right immersion, each rung impossible without the one before it for a disrespectful "
+        "mendicant. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A five-rung ladder of prerequisites stated as impossible for a disrespectful "
+                 "mendicant, then possible for a respectful one"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Graduated-training sequences building from minor observances up to "
+                              "immersion are widespread across the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; opens a new chapter by reusing "
+                       "a title, and a concept, from the first"),
+    ],
+    why=(
+        "This chapter opens by reusing both the title and the disrespect/respect framing already "
+        "used at <a href=\"an-5.9.html\">AN 5.9</a> and <a href=\"an-5.10.html\">AN 5.10</a> in "
+        "the first chapter &mdash; but applies it to something new: not the five powers, but a "
+        "five-step causal ladder. Without fulfilling the supplementary regulations, the practice "
+        "of a trainee is impossible; without that, ethics; without that, right view; without that, "
+        "right immersion. Each rung depends strictly on the one below it, for better or worse."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A disrespectful mendicant with an incompatible lifestyle cannot fulfill supplementary "
+            "regulations, and so cannot fulfill a trainee's practice, ethics, right view, or right "
+            "immersion in turn; a respectful mendicant with a compatible lifestyle can fulfill all "
+            "five in strict sequence."]),
+        ("A ladder, not a list", [
+            "Every five-item set met so far in this nipāta has been a set: five powers, five "
+            "qualities, five items to be seen in different fours. This discourse is different in "
+            "kind. Each rung is stated as a strict precondition for the next &mdash; "
+            "<em>ābhisamācārika</em>, the supplementary regulations governing everyday monastic "
+            "conduct, then the trainee's practice, then ethics, then right view, then right "
+            "immersion &mdash; and the text is explicit that skipping a rung is not merely "
+            "unlikely but <em>netaṁ ṭhānaṁ vijjati</em>, not a possible situation at all."]),
+        ("Why the smallest matters begin the chain", [
+            "It is worth noticing what sits at the bottom of the ladder: not ethics, and certainly "
+            "not immersion, but the supplementary regulations &mdash; the minor, procedural rules "
+            "of communal monastic life. The discourse's claim is structural: grand attainments like "
+            "right view and right immersion are not available to someone who cannot manage the "
+            "small, everyday cooperative discipline of living respectfully among spiritual "
+            "companions."]),
+        ("Reusing AN 5.9 and 5.10's framing, for new material", [
+            "The disrespect/respect pairing, and the paired terms <em>agārava appatisso</em> "
+            "against <em>sagārava sappatisso</em>, are identical to their earlier use in the first "
+            "chapter's closing discourses. This discourse does not redefine either pair; it applies "
+            "an already-established distinction to an entirely new five-step structure, showing "
+            "that the disrespect/respect framing was never tied to the sekhabala specifically."]),
+        ("What follows", [
+            "AN 5.22, immediately next, restates this exact ladder with its final three rungs "
+            "compressed into the more familiar threefold training &mdash; the whole spectrum of "
+            "ethics, immersion, and wisdom &mdash; rather than the five discrete steps given here."]),
+    ],
+    terms=[
+        ("ābhisamācārika",
+         "&ldquo;supplementary regulation&rdquo; &mdash; the everyday, procedural conduct rules "
+         "this discourse places at the base of its five-rung ladder."),
+        ("sekhaṁ dhammaṁ",
+         "&ldquo;the trainee's practice&rdquo; &mdash; the second rung, distinct from but "
+         "dependent on the first."),
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the fourth rung, itself dependent on ethics being "
+         "fulfilled first."),
+        ("netaṁ ṭhānaṁ vijjati",
+         "&ldquo;this is not a possible situation&rdquo; &mdash; the strong formula marking each "
+         "dependency as strict, not merely typical."),
+        ("asabhāgavuttika",
+         "&ldquo;of incompatible lifestyle&rdquo; &mdash; paired with disrespect and irreverence to "
+         "describe the mendicant who cannot climb the ladder."),
+    ],
+    text_intro=(
+        "The discourse in full: the five-rung ladder, impossible for a disrespectful mendicant, "
+        "possible for a respectful one. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Impossible, for the disrespectful"),
+        ("p", "&sect;1", "an5.21:1.1-1.5"),
+        ("h3", "Possible, for the respectful"),
+        ("p", "&sect;2", "an5.21:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What kind of structure does AN 5.21 present, compared to the five-item sets seen "
+              "earlier in this nipāta?",
+         "opts": [
+             "A simple list with no internal order",
+             "A five-rung ladder of strict prerequisites, each impossible without the one before it",
+             "Five unrelated, independent qualities",
+             "A repetition of the sekhabala"],
+         "correct": 1,
+         "expl": "Unlike a set, each rung here strictly depends on the one below it."},
+        {"q": "What sits at the bottom of the ladder?",
+         "opts": [
+             "Right immersion",
+             "The supplementary regulations — minor, procedural rules of communal monastic conduct",
+             "Right view",
+             "The five powers"],
+         "correct": 1,
+         "expl": "The smallest, most everyday discipline is the foundation everything else depends on."},
+        {"q": "What does 'netaṁ ṭhānaṁ vijjati' mean, and how strong is its claim?",
+         "opts": [
+             "'This rarely happens' — a mild statistical claim",
+             "'This is not a possible situation' — a strict impossibility, not merely an unlikelihood",
+             "'This is forbidden by rule' — a disciplinary statement",
+             "'This has not yet happened' — a historical claim"],
+         "correct": 1,
+         "expl": "Each dependency in the ladder is stated as strict impossibility, not tendency."},
+        {"q": "Where was the disrespect/respect framing (agārava/sagārava) already used in this "
+              "series?",
+         "opts": [
+             "Nowhere before this page",
+             "AN 5.9 and AN 5.10, in the first chapter, applied there to the five powers",
+             "Only in AN 4.163",
+             "Only in the Threes"],
+         "correct": 1,
+         "expl": "The same pair of terms, now applied to an entirely different five-step structure."},
+        {"q": "Does this discourse redefine what disrespect or respect mean?",
+         "opts": [
+             "Yes, with a new definition",
+             "No — it applies the already-established distinction to new material",
+             "It reverses their meaning from AN 5.9",
+             "It drops the terms entirely"],
+         "correct": 1,
+         "expl": "Showing the framing was never tied specifically to the sekhabala."},
+        {"q": "What are the five rungs of the ladder, in order?",
+         "opts": [
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "Supplementary regulations, the trainee's practice, ethics, right view, right immersion",
+             "Ethics, immersion, wisdom, freedom, knowledge and vision of freedom",
+             "The four noble truths plus one"],
+         "correct": 1,
+         "expl": "A five-step causal chain, not a five-item set."},
+        {"q": "What does AN 5.22, the next discourse, do with this same ladder?",
+         "opts": [
+             "Abandons it entirely for a new topic",
+             "Restates it with the final three rungs compressed into the threefold training of "
+             "ethics, immersion, and wisdom",
+             "Reverses the order of the rungs",
+             "Repeats it identically with no change"],
+         "correct": 1,
+         "expl": "A variant using the more familiar sīla-samādhi-paññā compression."},
+        {"q": "What structural claim does the guide draw from the ladder's ordering?",
+         "opts": [
+             "That grand attainments are available regardless of everyday conduct",
+             "That right view and right immersion are not available to someone who cannot manage "
+             "small, everyday cooperative discipline first",
+             "That ethics is unnecessary once right view is attained",
+             "That the ladder has no real ordering at all"],
+         "correct": 1,
+         "expl": "The smallest matters, placed first, are structurally load-bearing for the guide's reading."},
+        {"q": "Does the discourse offer a simile to illustrate the ladder?",
+         "opts": [
+             "Yes, an extended parable",
+             "No — the ladder is stated directly, with no narrative illustration",
+             "Yes, the bungalow-peak simile is reused",
+             "Yes, the nursemaid parable is reused"],
+         "correct": 1,
+         "expl": "A direct statement, consistent with this discourse's terse form."},
+        {"q": "Where is AN 5.21 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "Icchānaṅgala",
+             "The Bhagga country"],
+         "correct": 1,
+         "expl": "Consistent with the pattern across this nipāta so far."},
+    ],
+    marginalia=[
+        ("The five rungs", [
+            "1. supplementary regs",
+            "2. trainee's practice",
+            "3. ethics",
+            "4. right view",
+            "5. right immersion",
+        ]),
+        ("Strict, not typical", [
+            "<span class=\"pali\">netaṁ ṭhānaṁ vijjati</span>",
+            "&mdash; not a possible situation",
+        ]),
+        ("Reused framing", [
+            "<span class=\"pali\">agārava/sagārava</span>",
+            "from AN 5.9&ndash;10,",
+            "now on a new ladder",
+        ]),
+        ("Cross-references", [
+            "AN 5.9&ndash;10 &middot; the framing's origin",
+            "AN 5.22 &middot; next: compressed variant",
+            "AN 5.17&ndash;20 &middot; a related five-fold list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.21/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.9.html">AN 5.9 &middot; Disrespect (1st)</a> &mdash; where this '
+        "discourse's title and disrespect framing originate.",
+        '<a href="an-5.22.html">AN 5.22 &middot; Disrespect (2nd)</a> &mdash; next, the same ladder '
+        "with its top compressed to the threefold training.",
+        '<a href="an-4.1.html">AN 4.1 &middot; Understood</a> &mdash; the ethics-immersion-wisdom-'
+        "freedom list this ladder's upper rungs echo.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.22 — Dutiyaagāravasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, "Dutiyaagārava", "Disrespect (2nd)",
+    vagga=VAGGA_3,
+    meta_title="AN 5.22 — Disrespect (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Agāravasutta of "
+        "this chapter — AN 5.21's ladder restated, with its top three rungs compressed into the "
+        "whole spectrum of ethics, immersion, and wisdom. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.21's ladder restated with the final three rungs replaced by the threefold "
+                 "training in full"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this variant beyond the parallel already noted at AN "
+                              "5.21"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a compressed variant, best "
+                       "read directly against its predecessor"),
+    ],
+    why=(
+        "AN 5.21 named five discrete rungs. This discourse keeps the first two &mdash; the "
+        "supplementary regulations, then the trainee's practice &mdash; but collapses the last "
+        "three into the whole spectrum (<em>khandha</em>) of ethics, then of immersion, then of "
+        "wisdom: the threefold training, <em>sīla, samādhi, paññā</em>, in its most familiar form. "
+        "The same dependency claim is made, in a shape many readers will recognize more readily "
+        "than AN 5.21's five discrete steps."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without fulfilling the supplementary regulations, the trainee's practice is "
+            "impossible; without that, the whole spectrum of ethics; without that, the whole "
+            "spectrum of immersion; without that, the whole spectrum of wisdom &mdash; and the "
+            "reverse holds for a respectful mendicant."]),
+        ("What changed from AN 5.21", [
+            "AN 5.21 kept right view and right immersion as two separate rungs. This discourse "
+            "instead names <em>sīlakkhandha, samādhikkhandha, paññākkhandha</em> &mdash; not right "
+            "view specifically, but ethics, immersion, and wisdom as entire spectrums or "
+            "aggregates. The base of the ladder is identical; only its upper reach is reshaped "
+            "into the more familiar threefold training already used throughout this series."]),
+        ("Why &lsquo;the entire spectrum&rsquo;, and not a single item", [
+            "<em>Khandha</em> here means a whole mass or aggregate, not one discrete factor among "
+            "several. The claim is broader than AN 5.21's: not one particular right view, but the "
+            "entirety of what counts as ethics; not one particular immersion, but the entirety of "
+            "what counts as immersion. This is a stronger, more encompassing dependency claim than "
+            "the previous discourse's, even though it uses fewer named steps to make it."]),
+        ("The threefold training, met again", [
+            "Ethics, immersion, wisdom is the same core sequence already central to "
+            "<a href=\"an-4.1.html\">AN 4.1</a>'s opening list in the previous nipāta, and to "
+            "<a href=\"an-5.17.html\">AN 5.17&ndash;20</a>'s five-item set earlier in this one. "
+            "This discourse adds no new content to that sequence; it only restates, once again, "
+            "that the threefold training builds in strict order, each stage depending on the one "
+            "before it."]),
+        ("Two discourses, one point made twice", [
+            "Read together, AN 5.21 and 5.22 make the identical structural claim &mdash; strict, "
+            "cumulative dependency &mdash; using two different levels of granularity for the "
+            "upper rungs. A reader who has followed both should now be able to state the underlying "
+            "claim without reference to either discourse's specific wording: nothing higher is "
+            "reached without what is lower being genuinely in place first."]),
+    ],
+    terms=[
+        ("sīlakkhandha",
+         "&ldquo;the whole spectrum of ethics&rdquo; &mdash; khandha, aggregate or mass, marking "
+         "this as broader than any single ethical rule."),
+        ("samādhikkhandha",
+         "&ldquo;the whole spectrum of immersion&rdquo; &mdash; the second compressed rung, "
+         "replacing AN 5.21's separate right view and right immersion."),
+        ("paññākkhandha",
+         "&ldquo;the whole spectrum of wisdom&rdquo; &mdash; the top of this discourse's ladder, "
+         "completing the threefold training."),
+        ("khandha",
+         "&ldquo;aggregate, mass, spectrum&rdquo; &mdash; the word marking each of the three upper "
+         "terms as an entirety rather than one factor among several."),
+        ("sīla samādhi paññā",
+         "&ldquo;ethics, immersion, wisdom&rdquo; &mdash; the threefold training, already central "
+         "to AN 4.1 and AN 5.17&ndash;20, restated here in ladder form."),
+    ],
+    text_intro=(
+        "The discourse in full: the same ladder as AN 5.21, with its top compressed to the "
+        "threefold training. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Impossible, for the disrespectful"),
+        ("p", "&sect;1", "an5.22:1.1-1.5"),
+        ("h3", "Possible, for the respectful"),
+        ("p", "&sect;2", "an5.22:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What does AN 5.22 change from AN 5.21's ladder?",
+         "opts": [
+             "Nothing at all",
+             "The final three rungs are compressed into the threefold training — ethics, "
+             "immersion, and wisdom in their entirety",
+             "The base of the ladder changes; the top stays the same",
+             "The disrespect framing is dropped"],
+         "correct": 1,
+         "expl": "The base — supplementary regulations, then the trainee's practice — is unchanged."},
+        {"q": "What does 'khandha' mean in sīlakkhandha, samādhikkhandha, and paññākkhandha?",
+         "opts": [
+             "A single specific rule or factor",
+             "A whole spectrum, mass, or aggregate — broader than one discrete item",
+             "A monastic robe",
+             "A meditation posture"],
+         "correct": 1,
+         "expl": "Marking each term as an entirety, not one factor among several."},
+        {"q": "How does the guide compare the strength of this discourse's claim to AN 5.21's?",
+         "opts": [
+             "Weaker, since fewer steps are named",
+             "Broader and more encompassing, despite using fewer named steps, since it claims the "
+             "entirety of ethics, immersion, and wisdom rather than one factor of each",
+             "Identical in every respect",
+             "The two discourses make contradictory claims"],
+         "correct": 1,
+         "expl": "Fewer steps, but each covering more ground."},
+        {"q": "What sequence does this discourse's upper ladder match, already central elsewhere "
+              "in this series?",
+         "opts": [
+             "The five powers",
+             "The threefold training — ethics, immersion, wisdom — from AN 4.1 and AN 5.17–20",
+             "The four noble truths",
+             "The sekhabala"],
+         "correct": 1,
+         "expl": "Ethics, immersion, wisdom recurs as a core sequence across multiple discourses in this series."},
+        {"q": "Is the base of the ladder — supplementary regulations, then the trainee's practice "
+              "— changed in this discourse?",
+         "opts": [
+             "Yes, entirely rewritten",
+             "No — identical to AN 5.21",
+             "Only the first rung changes",
+             "Both base rungs are dropped"],
+         "correct": 1,
+         "expl": "Only the upper reach of the ladder is reshaped."},
+        {"q": "What single underlying claim do AN 5.21 and 5.22 together make, according to the "
+              "guide?",
+         "opts": [
+             "That the ladder's order can be rearranged freely",
+             "Strict, cumulative dependency — nothing higher is reached without what is lower "
+             "genuinely being in place first",
+             "That ethics is optional for advanced practitioners",
+             "That the two discourses contradict each other"],
+         "correct": 1,
+         "expl": "The same structural point, made at two different levels of granularity."},
+        {"q": "Does this discourse offer any narrative illustration or simile?",
+         "opts": [
+             "Yes, an extended parable",
+             "No — stated directly, matching AN 5.21's terse form",
+             "Yes, the tree-and-branches simile from AN 5.24 is used here first",
+             "Yes, the bungalow-peak simile"],
+         "correct": 1,
+         "expl": "Consistent with the pair's shared terse style."},
+        {"q": "What is the disrespect/respect framing's origin in this series?",
+         "opts": [
+             "This discourse invents it",
+             "AN 5.9 and AN 5.10, reused already at AN 5.21",
+             "AN 4.163",
+             "It has no clear origin"],
+         "correct": 1,
+         "expl": "Carried forward from AN 5.21 without modification."},
+        {"q": "What comes next in the chapter?",
+         "opts": [
+             "A return to the sekhabala",
+             "AN 5.23, on five corruptions of gold and of the mind",
+             "The end of the chapter",
+             "A repeat of AN 5.22"],
+         "correct": 1,
+         "expl": "A new topic and image, distinct from the ladder discourses."},
+        {"q": "Where is AN 5.22 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "Vesālī",
+             "The Squirrels' Sanctuary"],
+         "correct": 1,
+         "expl": "Consistent with the pattern across this nipāta so far."},
+    ],
+    marginalia=[
+        ("Same base, new top", [
+            "1&ndash;2. unchanged",
+            "3. sīlakkhandha",
+            "4. samādhikkhandha",
+            "5. paññākkhandha",
+        ]),
+        ("Entirety, not one item", [
+            "<span class=\"pali\">khandha</span>",
+            "&mdash; whole spectrum,",
+            "not a single factor",
+        ]),
+        ("The threefold training", [
+            "sīla &middot; samādhi &middot; paññā",
+            "&mdash; met already at AN 4.1,",
+            "AN 5.17&ndash;20",
+        ]),
+        ("Cross-references", [
+            "AN 5.21 &middot; the fuller ladder",
+            "AN 4.1 &middot; the training's origin here",
+            "AN 5.23 &middot; next: corruptions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.22/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.21.html">AN 5.21 &middot; Disrespect (1st)</a> &mdash; the fuller, five-rung '
+        "version of this same ladder.",
+        '<a href="an-4.1.html">AN 4.1 &middot; Understood</a> &mdash; where the threefold training '
+        "this discourse's upper rungs match first opened the Fours.",
+        '<a href="an-5.23.html">AN 5.23 &middot; Corruptions</a> &mdash; next, a new topic and its '
+        "own image.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.23 — Upakkilesasutta
+# --------------------------------------------------------------------------- #
+page(
+    23, "Upakkilesa", "Corruptions",
+    vagga=VAGGA_3,
+    meta_title="AN 5.23 — Corruptions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Upakkilesasutta — the "
+        "five corruptions of gold matched to the five corruptions of the mind, the classic "
+        "hindrances, and the extended list of what becomes possible once the mind is purified of "
+        "them. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A metalworking simile mapped directly onto the mind, followed by an extended "
+                 "list of what a purified mind is capable of"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "The gold-refining simile for mental purification and the six "
+                              "superhuman abilities are widely attested across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the chapter's longest "
+                       "discourse so far, naming the five hindrances by their classic list for "
+                       "the first time in the Fives"),
+    ],
+    why=(
+        "This discourse names, for the first time in the Fives, the five <em>nīvaraṇa</em>: "
+        "sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt "
+        "&mdash; the classic hindrances that will eventually give an entire chapter of this "
+        "nipāta its name. Here they arrive under a different label, <em>upakkilesa</em>, "
+        "corruptions, mapped directly onto five corruptions of native gold: iron, copper, tin, "
+        "lead, and silver, each of which leaves gold brittle and unworkable until removed."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as gold corrupted by iron, copper, tin, lead, or silver is brittle and "
+            "unworkable, a mind corrupted by sensual desire, ill will, dullness and drowsiness, "
+            "restlessness and remorse, or doubt is not rightly immersed for the ending of "
+            "defilements; free of these five, the mind becomes pliable, workable, and capable of "
+            "realizing whatever it turns toward."]),
+        ("The five hindrances, under a different name", [
+            "<em>Kāmacchando, byāpādo, thinamiddhaṁ, uddhaccakukkuccaṁ, vicikicchā</em> is the "
+            "identical five-item list the tradition elsewhere calls the <em>nīvaraṇa</em>, "
+            "hindrances &mdash; a list important enough to eventually give its own chapter, later "
+            "in this nipāta, its name. Here they are called <em>upakkilesa</em>, corruptions, and "
+            "framed through a craftsman's image rather than the more common metaphor of "
+            "obstruction. Both labels point at the same five states; a reader should not expect "
+            "the vocabulary to stay fixed across the whole collection."]),
+        ("The gold simile, read closely", [
+            "The simile is precise about what corruption costs: gold that is corrupted is "
+            "<em>na mudu</em>, not pliable; <em>na kammaniya</em>, not workable; "
+            "<em>na pabhassara</em>, not radiant; and <em>pabhaṅgu</em>, brittle. Four distinct "
+            "losses, not one vague deficiency. Purified, the same four qualities return in "
+            "reverse, and only then can a goldsmith make whatever ornament they choose &mdash; a "
+            "ring, earrings, a necklace, a garland. The simile&rsquo;s point is not that impure "
+            "gold is worthless but that it cannot yet be shaped into anything in particular."]),
+        ("What purification makes possible", [
+            "The discourse then lists, at real length, what becomes available to a mind freed of "
+            "the five corruptions: the various psychic powers, clairaudience, reading others' "
+            "minds, recollecting past lives in detail, clairvoyance into others' rebirths "
+            "according to their deeds, and finally the ending of defilements. This is an unusually "
+            "long list for a discourse this size, and it is close to word-for-word what appears "
+            "already at the legacy page <a href=\"an-5.28.html\">AN 5.28</a>, this vagga's own "
+            "namesake discourse. The two texts are not identical, but they draw on the same "
+            "standard formula for what a purified, immersed mind is said to be capable of."]),
+        ("What this discourse does not claim", [
+            "Notably, the discourse does not present the psychic powers or the recollection of "
+            "past lives as ends in themselves, or even discuss them individually beyond naming "
+            "each in the standard formula. Every item in the list is introduced with the same "
+            "conditional, <em>if you wish</em>, and closed with the same refrain, "
+            "<em>you're capable of realizing it, since each and every one is within range</em>. "
+            "The claim is about capability opened up by purification, not about any one ability "
+            "being recommended for its own sake."]),
+    ],
+    terms=[
+        ("upakkilesa",
+         "&ldquo;corruption&rdquo; &mdash; this discourse's word for what elsewhere in the canon "
+         "is called nīvaraṇa, hindrance; the same five states under a different label."),
+        ("jātarūpa",
+         "&ldquo;native gold&rdquo; &mdash; unrefined gold as it occurs naturally, the material "
+         "the simile's corruptions afflict."),
+        ("thinamiddha",
+         "&ldquo;dullness and drowsiness&rdquo; &mdash; the third of the five mental corruptions, "
+         "paired as a single compound term throughout the canon."),
+        ("uddhaccakukkucca",
+         "&ldquo;restlessness and remorse&rdquo; &mdash; the fourth, likewise a fixed compound "
+         "pairing two related mental states."),
+        ("abhiññā",
+         "&ldquo;direct knowledge, superhuman ability&rdquo; &mdash; the general term for the "
+         "capacities this discourse lists as available once the mind is purified."),
+    ],
+    text_intro=(
+        "The discourse in full: the gold simile, its application to the mind's five corruptions, "
+        "and the extended list of what a purified mind can realize. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Corruptions of gold"),
+        ("p", "&sect;1", "an5.23:1.1-1.6"),
+        ("h3", "Corruptions of the mind"),
+        ("p", "&sect;2", "an5.23:2.1-2.4"),
+        ("p", "&sect;3", "an5.23:2.5-2.6"),
+        ("h3", "Psychic power"),
+        ("p", "&sect;4", "an5.23:3.1-3.2"),
+        ("h3", "Clairaudience"),
+        ("p", "&sect;5", "an5.23:4.1-4.2"),
+        ("h3", "Reading minds"),
+        ("p", "&sect;6", "an5.23:5.1-5.18"),
+        ("h3", "Past lives"),
+        ("p", "&sect;7", "an5.23:6.1-6.2"),
+        ("h3", "Clairvoyance"),
+        ("p", "&sect;8", "an5.23:7.1-7.2"),
+        ("h3", "The ending of defilements"),
+        ("p", "&sect;9", "an5.23:8.1-8.2"),
+    ],
+    quiz=[
+        {"q": "What five items does the mind-corruption half of this discourse name?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and "
+             "doubt — the classic five hindrances",
+             "Iron, copper, tin, lead, and silver",
+             "Greed, hate, delusion, conceit, and views"],
+         "correct": 1,
+         "expl": "The nīvaraṇa, here called upakkilesa, corruptions, for the first time by name in the Fives."},
+        {"q": "What word does this discourse use for the hindrances, instead of 'nīvaraṇa'?",
+         "opts": [
+             "Bala, power",
+             "Upakkilesa, corruption",
+             "Aṅga, factor",
+             "Khandha, spectrum"],
+         "correct": 1,
+         "expl": "The same five states, framed through a metalworking image rather than the more common obstruction metaphor."},
+        {"q": "What four qualities does corrupted gold lack, according to the simile?",
+         "opts": [
+             "Weight, color, shine, and hardness",
+             "Pliability, workability, radiance — and it is brittle instead",
+             "Value, purity, rarity, and durability",
+             "None are specified; the simile is vague"],
+         "correct": 1,
+         "expl": "Four distinct losses named precisely, not one vague deficiency."},
+        {"q": "What does the goldsmith do once the gold is purified?",
+         "opts": [
+             "Nothing changes; purity has no practical effect",
+             "Successfully creates any ornament they want — a ring, earrings, a necklace, a golden "
+             "garland",
+             "Melts the gold down for storage only",
+             "Sells the gold immediately"],
+         "correct": 1,
+         "expl": "Purity opens up the capacity to be shaped into anything in particular."},
+        {"q": "What does the guide note about the extended abhiññā list closing this discourse?",
+         "opts": [
+             "It is entirely unique to this discourse, appearing nowhere else in this series",
+             "It closely matches, nearly word for word, material already seen at the legacy page "
+             "AN 5.28",
+             "It contradicts material at AN 5.28",
+             "It is a shorter, abbreviated version with fewer items than AN 5.28's"],
+         "correct": 1,
+         "expl": "The same standard formula drawn on by this vagga's own namesake discourse."},
+        {"q": "How is each ability in the extended list introduced and closed?",
+         "opts": [
+             "As a command that must be obeyed",
+             "With the same conditional 'if you wish' and the same refrain about being within range",
+             "As a warning against pursuing it",
+             "With no repeated formula at all"],
+         "correct": 1,
+         "expl": "A consistent pattern across every item in the list."},
+        {"q": "According to the guide, does this discourse recommend the psychic powers as ends in "
+              "themselves?",
+         "opts": [
+             "Yes, explicitly urging their pursuit",
+             "No — the claim is about capability opened up by purification, not about recommending "
+             "any one ability for its own sake",
+             "The discourse forbids them outright",
+             "The discourse takes no position either way, offering no framing at all"],
+         "correct": 1,
+         "expl": "Introduced conditionally, as what becomes available, not what must be sought."},
+        {"q": "What later chapter of this nipāta does the guide say the hindrances will eventually "
+              "give its name to?",
+         "opts": [
+             "No later chapter is connected to this material",
+             "A chapter later in the Fives, since this exact five-item list is important enough to "
+             "be named for",
+             "The chapter this discourse is already in",
+             "A chapter in a different nipāta entirely"],
+         "correct": 1,
+         "expl": "A forward-pointing note the guide will confirm when that chapter arrives."},
+        {"q": "How many of the six standard superhuman abilities does the extended list name?",
+         "opts": [
+             "Only one",
+             "All six — psychic power, clairaudience, reading minds, past-life recall, "
+             "clairvoyance, and the ending of defilements",
+             "Only three",
+             "None; the list stops before naming any specific ability"],
+         "correct": 1,
+         "expl": "The complete standard set, given at real length for a discourse this size."},
+        {"q": "Where is AN 5.23 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Bhagga country",
+             "Icchānaṅgala"],
+         "correct": 1,
+         "expl": "Consistent with the pattern across this nipāta so far."},
+    ],
+    marginalia=[
+        ("Five corruptions, of gold", [
+            "iron &middot; copper &middot; tin",
+            "lead &middot; silver",
+        ]),
+        ("Five corruptions, of mind", [
+            "sensual desire &middot; ill will",
+            "dullness/drowsiness",
+            "restlessness/remorse &middot; doubt",
+        ]),
+        ("Four losses, from corruption", [
+            "not pliable, not workable,",
+            "not radiant, brittle",
+        ]),
+        ("Cross-references", [
+            "AN 5.28 &middot; the same abhiññā list",
+            "AN 6.16 &middot; the nipāta ahead, waiting",
+            "AN 5.24 &middot; next: a tree, lacking",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.23/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.28.html">AN 5.28 &middot; With Five Factors</a> &mdash; this chapter&rsquo;s '
+        "own namesake discourse, sharing nearly identical closing material with this page.",
+        '<a href="an-5.24.html">AN 5.24 &middot; Unethical</a> &mdash; next, a different image for '
+        "a related causal chain.",
+        '<a href="an-4.1.html">AN 4.1 &middot; Understood</a> &mdash; the ending of defilements '
+        "this discourse&rsquo;s final ability names, already the closing claim of AN 4.1.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.24 — Dussīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, "Dussīla", "Unethical",
+    vagga=VAGGA_3,
+    meta_title="AN 5.24 — Unethical | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dussīlasutta — a "
+        "five-step causal chain from ethics through immersion, true knowledge, disillusionment, "
+        "and freedom's knowledge and vision, illustrated by a tree that fails to grow when its "
+        "branches and foliage are missing. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A five-step causal chain stated abstractly, then illustrated by a single tree "
+                 "simile, then restated for its positive mirror"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Causal chains linking ethics through immersion to liberation "
+                              "knowledge are a recurring structural device across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a five-step chain that "
+                       "quietly expands the five-item set from AN 5.17&ndash;20"),
+    ],
+    why=(
+        "This discourse takes the five-item set from <a href=\"an-5.17.html\">AN 5.17&ndash;20</a> "
+        "&mdash; ethics, immersion, wisdom, freedom, the knowledge and vision of freedom &mdash; "
+        "and expands the space between its middle terms into a fuller causal chain: ethics, right "
+        "immersion, true knowledge and vision, disillusionment and dispassion, and the knowledge "
+        "and vision of freedom. Each step is said to destroy or fulfill <em>a vital condition</em> "
+        "for the next, illustrated by a single, exact image: a tree with or without its branches "
+        "and foliage."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An unethical person has destroyed a vital condition for right immersion, which "
+            "destroys a vital condition for true knowledge and vision, which destroys a vital "
+            "condition for disillusionment and dispassion, which destroys a vital condition for "
+            "the knowledge and vision of freedom; an ethical person fulfills each condition in "
+            "turn."]),
+        ("A chain, not a checklist", [
+            "The word <em>upanisā</em>, vital condition or proximate cause, marks this as a "
+            "causal claim rather than a simple list. Each item does not merely accompany the "
+            "next; it is named as what the next depends on for its very possibility, which is why "
+            "the discourse can say ethics alone <em>destroys</em> a condition for immersion before "
+            "immersion has even been discussed on its own terms."]),
+        ("The tree, and what it withholds", [
+            "The simile names four specific parts of a tree that fail to grow to fullness when "
+            "branches and foliage are missing: shoots, bark, softwood, and heartwood. This is more "
+            "particular than a vague image of stunted growth; each named part corresponds, loosely "
+            "but suggestively, to something built up in layers, outer to inner, exactly as this "
+            "discourse's five-step chain builds from the outermost practice, ethics, toward the "
+            "innermost realization, the knowledge and vision of freedom."]),
+        ("Filling in AN 5.17&ndash;20's gap", [
+            "AN 5.17 through 5.20 moved directly from immersion to freedom, by way of wisdom, with "
+            "no stated mechanism connecting them. This discourse supplies two additional named "
+            "steps in between &mdash; true knowledge and vision, then disillusionment and "
+            "dispassion &mdash; showing that the shorter list was a compression of a longer, more "
+            "granular process rather than a complete account on its own."]),
+        ("What follows", [
+            "AN 5.25, next, approaches the same territory from a different angle: not a causal "
+            "chain but a claim about what supports right view specifically, naming five different "
+            "supports rather than five sequential stages."]),
+    ],
+    terms=[
+        ("upanisā",
+         "&ldquo;vital condition, proximate cause&rdquo; &mdash; the word marking each step as "
+         "what the next genuinely depends on, not merely accompanies."),
+        ("yathābhūtañāṇadassana",
+         "&ldquo;true knowledge and vision&rdquo; &mdash; the chain's third step, added here "
+         "between immersion and disillusionment."),
+        ("nibbidāvirāga",
+         "&ldquo;disillusionment and dispassion&rdquo; &mdash; the fourth step, the turning away "
+         "that arises from seeing clearly."),
+        ("sākhāpalāsa",
+         "&ldquo;branches and foliage&rdquo; &mdash; the tree's outer growth, whose absence in "
+         "the simile prevents the inner parts from developing."),
+        ("sāra",
+         "&ldquo;heartwood&rdquo; &mdash; the innermost part of the tree, corresponding to the "
+         "chain's own innermost term, the knowledge and vision of freedom."),
+    ],
+    text_intro=(
+        "The discourse in full: the causal chain stated for lacking ethics, illustrated by the "
+        "tree simile, then restated for having it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The chain, broken"),
+        ("p", "&sect;1", "an5.24:1.1-1.4"),
+        ("h3", "The tree, without branches or foliage"),
+        ("p", "&sect;2", "an5.24:1.5-1.6"),
+        ("p", "&sect;3", "an5.24:1.7-1.10"),
+        ("h3", "The chain, fulfilled"),
+        ("p", "&sect;4", "an5.24:2.1-2.4"),
+        ("h3", "The tree, complete"),
+        ("p", "&sect;5", "an5.24:2.5"),
+        ("p", "&sect;6", "an5.24:2.6-2.9"),
+    ],
+    quiz=[
+        {"q": "What five steps make up this discourse's causal chain?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Ethics, right immersion, true knowledge and vision, disillusionment and dispassion, "
+             "and the knowledge and vision of freedom",
+             "The five hindrances",
+             "The five powers"],
+         "correct": 1,
+         "expl": "Each step named as a vital condition (upanisā) for the next."},
+        {"q": "What does 'upanisā' mark each step as, relative to the next?",
+         "opts": [
+             "A loose association with no real dependency",
+             "A vital condition or proximate cause the next step genuinely depends on",
+             "An optional alternative",
+             "A contradiction to be resolved"],
+         "correct": 1,
+         "expl": "A causal claim, not a simple accompanying list."},
+        {"q": "What four parts of a tree does the simile name as failing to grow without branches "
+              "and foliage?",
+         "opts": [
+             "Roots, trunk, leaves, and flowers",
+             "Shoots, bark, softwood, and heartwood",
+             "Fruit, seeds, sap, and bark",
+             "Only the trunk is named"],
+         "correct": 1,
+         "expl": "Specific named parts, not a vague image of general stunting."},
+        {"q": "How does the guide connect this discourse to AN 5.17–20?",
+         "opts": [
+             "It sees no connection between them",
+             "This discourse fills in AN 5.17–20's gap, adding two named steps — true knowledge "
+             "and vision, then disillusionment and dispassion — between immersion and freedom",
+             "This discourse contradicts AN 5.17–20 entirely",
+             "AN 5.17–20 already contained this exact chain in full"],
+         "correct": 1,
+         "expl": "The shorter list is read as a compression of this longer, more granular process."},
+        {"q": "What two steps does this discourse add beyond ethics, immersion, and freedom's "
+              "knowledge and vision?",
+         "opts": [
+             "Faith and energy",
+             "True knowledge and vision, and disillusionment and dispassion",
+             "Conscience and prudence",
+             "No new steps are added"],
+         "correct": 1,
+         "expl": "Yathābhūtañāṇadassana and nibbidāvirāga, inserted between the more familiar terms."},
+        {"q": "What happens to an ethical person's chain, according to the second half of the "
+              "discourse?",
+         "opts": [
+             "The same destruction as the unethical person's",
+             "Each condition is fulfilled in turn, mirroring the first half exactly in reverse",
+             "The chain stops after the first step",
+             "No positive case is given"],
+         "correct": 1,
+         "expl": "A precise mirror of the negative half, term for term."},
+        {"q": "What does AN 5.25, the next discourse, approach differently from this one?",
+         "opts": [
+             "It repeats this exact chain",
+             "It approaches related territory as five supports for right view specifically, rather "
+             "than a causal chain of five sequential stages",
+             "It abandons the topic of ethics and immersion entirely",
+             "It returns to the sekhabala"],
+         "correct": 1,
+         "expl": "A structurally different approach to related material."},
+        {"q": "Is the tree simile used to illustrate abundance or lack, in its first appearance?",
+         "opts": [
+             "Abundance only",
+             "Lack — a tree missing branches and foliage, whose inner parts fail to grow",
+             "Neither; the simile is purely decorative",
+             "It illustrates a different topic entirely, unrelated to the chain"],
+         "correct": 1,
+         "expl": "The negative case comes first, then its positive mirror."},
+        {"q": "What does the guide say about the relationship between the tree's parts and the "
+              "chain's five steps?",
+         "opts": [
+             "No relationship is suggested",
+             "A loose but suggestive correspondence — outer growth to inner, matching the chain's "
+             "movement from outermost practice to innermost realization",
+             "An exact one-to-one mapping stated explicitly in the text",
+             "The tree simile contradicts the chain"],
+         "correct": 1,
+         "expl": "Suggestive rather than a stated formal correspondence."},
+        {"q": "Where is AN 5.24 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "Sāketa",
+             "The Eastern Monastery"],
+         "correct": 1,
+         "expl": "Consistent with the pattern across this nipāta so far."},
+    ],
+    marginalia=[
+        ("The chain", [
+            "ethics &rarr;",
+            "right immersion &rarr;",
+            "true knowledge &amp; vision &rarr;",
+            "disillusionment &rarr;",
+            "freedom's knowledge &amp; vision",
+        ]),
+        ("The tree", [
+            "no branches, foliage &rarr;",
+            "shoots, bark, softwood,",
+            "heartwood: stunted",
+        ]),
+        ("Filling a gap", [
+            "AN 5.17&ndash;20: 3 steps",
+            "AN 5.24: 5 steps",
+            "&mdash; same journey, fuller",
+        ]),
+        ("Cross-references", [
+            "AN 5.17&ndash;20 &middot; the shorter list",
+            "AN 5.25 &middot; next: supports",
+            "AN 5.23 &middot; the corruptions removed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.24/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.17.html">AN 5.17 &middot; One&rsquo;s Own Welfare</a> &mdash; the shorter '
+        "five-item list this discourse expands into a fuller causal chain.",
+        '<a href="an-5.25.html">AN 5.25 &middot; Supported</a> &mdash; next, right view&rsquo;s '
+        "own five supports.",
+        '<a href="an-5.23.html">AN 5.23 &middot; Corruptions</a> &mdash; the previous discourse, on '
+        "what stands in the way of the immersion this chain depends on.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.25 — Anuggahitasutta
+# --------------------------------------------------------------------------- #
+page(
+    25, "Anuggahita", "Supported",
+    vagga=VAGGA_3,
+    meta_title="AN 5.25 — Supported | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Anuggahitasutta — right "
+        "view supported by five factors, ethics, learning, discussion, serenity, and discernment, "
+        "bearing freedom of heart and freedom by wisdom as its fruit. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming five supports for right view and the fruit they "
+                 "produce"),
+        ("Length", "~30 seconds to read"),
+        ("Northern parallel", "Pairing serenity and discernment (samatha/vipassanā) as jointly "
+                              "necessary supports is a standard doctrinal pairing across the "
+                              "Chinese Āgamas and Abhidharma; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, but pairing terms not "
+                       "yet combined this way elsewhere in this chapter"),
+    ],
+    why=(
+        "Where AN 5.24 traced a chain of stages, this discourse names five things right view "
+        "itself leans on: ethics, learning, discussion, serenity, and discernment. Two of these, "
+        "<em>samatha</em> and <em>vipassanā</em>, serenity and discernment, are the classic "
+        "meditative pair &mdash; calm and insight &mdash; named together here as jointly "
+        "necessary supports rather than as sequential stages, which is a genuinely different "
+        "relationship than the chain AN 5.24 just described."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Right view supported by ethics, learning, discussion, serenity, and discernment has "
+            "freedom of heart and freedom by wisdom as its fruit and benefit."]),
+        ("Support, not sequence", [
+            "AN 5.24's chain moved in one direction, each stage a precondition for the next. This "
+            "discourse instead names five things right view <em>leans on</em> "
+            "(<em>anuggahitā</em>) all at once, with no stated order among them. Ethics does not "
+            "come before discussion here, and discussion does not come before serenity; all five "
+            "are named together as what holds right view up, the way several posts might support "
+            "one roof rather than one post leading to the next."]),
+        ("Two kinds of support, not one", [
+            "The five split naturally into two kinds: ethics, learning, and discussion are things "
+            "done largely in relation to others or to received teaching; serenity and discernment "
+            "are internal meditative capacities. Right view, on this discourse's account, is not "
+            "purely a private meditative achievement, nor purely a matter of study and "
+            "conversation &mdash; it draws on both."]),
+        ("Two fruits, named together", [
+            "The discourse names both <em>cetovimutti</em>, freedom of heart, and "
+            "<em>paññāvimutti</em>, freedom by wisdom, as the joint fruit of a well-supported "
+            "right view &mdash; not one or the other, but both together, each with its own "
+            "benefit named separately in the Pāli though rendered together in translation."]),
+        ("Where the chapter goes from here", [
+            "AN 5.26, next, turns from what supports right view to a related but distinct "
+            "question: the specific occasions on which a mendicant's mind actually becomes freed, "
+            "given as five concrete situations rather than five abstract supports."]),
+    ],
+    terms=[
+        ("anuggahitā",
+         "&ldquo;supported, leaned on&rdquo; &mdash; the word giving this discourse its title, "
+         "naming a relationship of mutual support rather than sequence."),
+        ("sākacchā",
+         "&ldquo;discussion&rdquo; &mdash; the third support, placing conversation with others "
+         "among what right view depends on."),
+        ("samatha",
+         "&ldquo;serenity&rdquo; &mdash; the fourth support, the calming half of the classic "
+         "calm-and-insight meditative pair."),
+        ("vipassanā",
+         "&ldquo;discernment, insight&rdquo; &mdash; the fifth support, named alongside serenity "
+         "as jointly necessary rather than as its successor."),
+        ("cetovimutti paññāvimutti",
+         "&ldquo;freedom of heart, freedom by wisdom&rdquo; &mdash; the joint fruit named for a "
+         "well-supported right view, each named separately though rendered together."),
+    ],
+    text_intro=(
+        "The discourse in full: the five supports for right view, and the fruit they produce "
+        "together. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.25:1.1"),
+        ("p", "&sect;2", "an5.25:2.2-2.3"),
+    ],
+    quiz=[
+        {"q": "What five things does this discourse say right view is supported by?",
+         "opts": [
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "Ethics, learning, discussion, serenity, and discernment",
+             "The four noble truths plus one",
+             "Ethics, immersion, wisdom, freedom, and knowledge and vision of freedom"],
+         "correct": 1,
+         "expl": "Five supports named together, not a sequence."},
+        {"q": "How does the relationship between the five supports differ from AN 5.24's chain?",
+         "opts": [
+             "It is identical — a strict sequence",
+             "The five supports are named together with no stated order, like several posts "
+             "supporting one roof, rather than one stage leading to the next",
+             "AN 5.25 has no relationship at all between its five items",
+             "The five supports are ranked, with one named chief"],
+         "correct": 1,
+         "expl": "Support (anuggahitā), not sequence."},
+        {"q": "What two kinds of support does the guide distinguish among the five?",
+         "opts": [
+             "Physical and mental",
+             "Things done in relation to others or received teaching (ethics, learning, discussion) "
+             "and internal meditative capacities (serenity, discernment)",
+             "Monastic and lay supports",
+             "No distinction is drawn among the five"],
+         "correct": 1,
+         "expl": "Right view draws on both social/textual and meditative sources, on this account."},
+        {"q": "What two fruits does the discourse name together?",
+         "opts": [
+             "Wealth and reputation",
+             "Freedom of heart (cetovimutti) and freedom by wisdom (paññāvimutti)",
+             "Only freedom of heart, with wisdom left out",
+             "Rebirth in a heavenly realm"],
+         "correct": 1,
+         "expl": "Both named jointly as the fruit of a well-supported right view."},
+        {"q": "What classic meditative pair appears among the five supports?",
+         "opts": [
+             "Faith and energy",
+             "Serenity (samatha) and discernment (vipassanā)",
+             "Conscience and prudence",
+             "Ethics and immersion"],
+         "correct": 1,
+         "expl": "Named together as jointly necessary, not as sequential stages."},
+        {"q": "How long is this discourse compared to AN 5.24?",
+         "opts": [
+             "Much longer, with an extended simile",
+             "Considerably shorter — a single sentence naming the five supports and their fruit",
+             "Identical in length",
+             "AN 5.25 has no text at all"],
+         "correct": 1,
+         "expl": "One of the briefest discourses in this chapter."},
+        {"q": "What does AN 5.26, the next discourse, turn to?",
+         "opts": [
+             "A repeat of this same five-support list",
+             "Five concrete occasions on which a mendicant's mind actually becomes freed",
+             "A return to the sekhabala",
+             "The end of the chapter"],
+         "correct": 1,
+         "expl": "A related but structurally distinct question — occasions, not abstract supports."},
+        {"q": "Does this discourse offer a simile to illustrate its claim?",
+         "opts": [
+             "Yes, an extended parable",
+             "No — a direct statement with no narrative illustration",
+             "Yes, the gold-refining simile is reused",
+             "Yes, the tree simile is reused"],
+         "correct": 1,
+         "expl": "Consistent with this discourse's terse, single-sentence form."},
+        {"q": "Is ethics named among right view's supports here?",
+         "opts": [
+             "No, ethics is absent from this list",
+             "Yes — ethics is the first of the five named supports",
+             "Ethics is mentioned only as a contrast",
+             "Ethics replaces right view entirely"],
+         "correct": 1,
+         "expl": "Sīla, learning, discussion, serenity, discernment — ethics named first."},
+        {"q": "Where is AN 5.25 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Deer Park",
+             "Campā"],
+         "correct": 1,
+         "expl": "Consistent with the pattern across this nipāta so far."},
+    ],
+    marginalia=[
+        ("Five supports", [
+            "ethics &middot; learning",
+            "discussion &middot; serenity",
+            "discernment",
+        ]),
+        ("Support, not sequence", [
+            "<span class=\"pali\">anuggahitā</span>",
+            "&mdash; posts holding up",
+            "one roof, together",
+        ]),
+        ("Two fruits", [
+            "<span class=\"pali\">cetovimutti</span>heart's freedom",
+            "<span class=\"pali\">paññāvimutti</span>wisdom's freedom",
+        ]),
+        ("Cross-references", [
+            "AN 5.24 &middot; a chain, by contrast",
+            "AN 5.26 &middot; next: five occasions",
+            "AN 5.17&ndash;20 &middot; freedom, named there too",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.25/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.24.html">AN 5.24 &middot; Unethical</a> &mdash; the previous discourse, a '
+        "causal chain by contrast with this page's simultaneous supports.",
+        '<a href="an-5.26.html">AN 5.26 &middot; Opportunities for Freedom</a> &mdash; next, five '
+        "concrete occasions rather than five abstract supports.",
+        '<a href="an-5.17.html">AN 5.17 &middot; One&rsquo;s Own Welfare</a> &mdash; where freedom '
+        "and freedom by wisdom already appeared together in this chapter's predecessor.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.26 — Vimuttāyatanasutta
+# --------------------------------------------------------------------------- #
+page(
+    26, "Vimuttāyatana", "Opportunities for Freedom",
+    vagga=VAGGA_3,
+    meta_title="AN 5.26 — Opportunities for Freedom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vimuttāyatanasutta — "
+        "five occasions on which a diligent mendicant's mind is freed, four of them built almost "
+        "entirely from engagement with words: hearing the teaching, teaching it, reciting it, and "
+        "reflecting on it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "Five occasions, each running through the identical five-link chain from "
+                 "inspiration to immersion"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The joy-to-immersion chain (pāmojja, pīti, passaddhi, sukha, "
+                              "samādhi) is one of the most widely attested formulas across the "
+                              "Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; five parallel cases sharing "
+                       "one internal mechanism, worth reading for what the five have in common"),
+    ],
+    why=(
+        "Four of this discourse's five opportunities for freedom have nothing to do with silent "
+        "meditation. A mendicant hears the teaching from the Buddha or a respected companion; or "
+        "teaches it to others from memory; or simply recites it to themselves; or turns it over "
+        "in thought. Only the fifth involves a meditation subject directly. In every case the same "
+        "five-link chain follows &mdash; inspiration, joy, rapture, tranquility, bliss, immersion "
+        "&mdash; which means this discourse treats verbal and cognitive engagement with the "
+        "Dhamma as, four times out of five, doorways to freedom in their own right."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are five opportunities for freedom &mdash; hearing the teaching taught, "
+            "teaching it to others, reciting it, reflecting on it, and properly grasping a "
+            "meditation subject &mdash; and at any of them, a diligent mendicant's mind can "
+            "become freed."]),
+        ("One chain, run five times", [
+            "Every one of the five occasions closes with the identical sequence: feeling inspired, "
+            "joy springs up; being joyful, rapture springs up; the mind full of rapture, the body "
+            "becomes tranquil; the body tranquil, one feels bliss; and blissful, the mind becomes "
+            "immersed in samādhi. The discourse does not vary this chain across its five cases; it "
+            "varies only what triggers the chain to begin."]),
+        ("Four occasions built from words", [
+            "The first occasion is hearing the Teacher or a respected companion teach. The second "
+            "is teaching others oneself, from what was learned and memorized. The third is "
+            "reciting the teaching, alone, from memory. The fourth is thinking it over and "
+            "examining it in the heart. None of these is silent, wordless meditation; all four are "
+            "forms of engagement with language &mdash; heard, spoken, recited, or turned over in "
+            "thought &mdash; and each is said to be sufficient, on its own, to set the same chain "
+            "toward freedom running."]),
+        ("The fifth occasion, and what it shares with the other four", [
+            "Only the fifth names a meditation subject directly: properly grasped, focused on, "
+            "borne in mind, and penetrated with wisdom. Even here, though, the discourse frames "
+            "the trigger as being <em>inspired</em> by it, using the same "
+            "<em>atthapaṭisaṁvedī&hellip;dhammapaṭisaṁvedī</em>, inspired by the meaning and by "
+            "the teaching, that describes the other four. The fifth occasion is not categorically "
+            "different from the first four; it is simply the one where the object is a meditation "
+            "sign rather than spoken or recited words."]),
+        ("Why this list matters for how the teaching is used", [
+            "A reader who assumes freedom is reached only through silent, wordless meditation "
+            "practice will find this discourse worth sitting with. Teaching others, reciting from "
+            "memory, and quiet reflection on the Dhamma are named here as equally capable "
+            "opportunities, each running the identical mechanism through to immersion. The "
+            "discourse does not rank the five, or call any one of them the true path and the "
+            "others preliminary."]),
+    ],
+    terms=[
+        ("vimuttāyatana",
+         "&ldquo;opportunity for freedom&rdquo; &mdash; this discourse's title, naming five "
+         "distinct occasions rather than one method."),
+        ("atthapaṭisaṁvedī dhammapaṭisaṁvedī",
+         "&ldquo;inspired by the meaning, inspired by the teaching&rdquo; &mdash; the shared "
+         "trigger phrase opening the identical chain in all five occasions."),
+        ("pāmojja",
+         "&ldquo;joy&rdquo; &mdash; the first link in the chain, arising directly from feeling "
+         "inspired."),
+        ("passaddhi",
+         "&ldquo;tranquility&rdquo; &mdash; the fourth link, where rapture in the mind settles "
+         "into physical calm."),
+        ("samādhinimitta",
+         "&ldquo;meditation subject, sign for immersion&rdquo; &mdash; the fifth occasion's "
+         "trigger, the only one of the five not built from spoken or recited words."),
+    ],
+    text_intro=(
+        "The discourse in full: the five occasions, each running the identical chain from "
+        "inspiration through to immersion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five opportunities for freedom"),
+        ("p", "&sect;1", "an5.26:1.1"),
+        ("h3", "First: hearing the teaching taught"),
+        ("p", "&sect;2", "an5.26:2.2-2.9"),
+        ("h3", "Second: teaching others from memory"),
+        ("p", "&sect;3", "an5.26:3.1-3.8"),
+        ("h3", "Third: reciting the teaching"),
+        ("p", "&sect;4", "an5.26:4.1-4.8"),
+        ("h3", "Fourth: reflecting on the teaching"),
+        ("p", "&sect;5", "an5.26:5.1-5.9"),
+        ("h3", "Fifth: grasping a meditation subject"),
+        ("p", "&sect;6", "an5.26:6.1-6.9"),
+        ("h3", "Closing"),
+        ("p", "&sect;7", "an5.26:7.1"),
+    ],
+    quiz=[
+        {"q": "How many of this discourse's five opportunities for freedom involve a meditation "
+              "subject directly, rather than spoken or recited words?",
+         "opts": ["All five", "Four", "Only one", "None"],
+         "correct": 2,
+         "expl": "Only the fifth; the other four are built from hearing, teaching, reciting, or reflecting on the Dhamma."},
+        {"q": "What chain follows each of the five occasions, without variation?",
+         "opts": [
+             "A different chain each time, tailored to the occasion",
+             "Feeling inspired, joy, rapture, bodily tranquility, bliss, and immersion in samādhi",
+             "A chain leading directly to a specific rebirth",
+             "No chain is described; each occasion simply ends"],
+         "correct": 1,
+         "expl": "The identical five-link sequence closes all five occasions."},
+        {"q": "What is the first opportunity for freedom?",
+         "opts": [
+             "Grasping a meditation subject",
+             "Hearing the Teacher or a respected spiritual companion teach the Dhamma",
+             "Teaching others from memory",
+             "Silent walking meditation"],
+         "correct": 1,
+         "expl": "The most straightforwardly receptive of the five occasions."},
+        {"q": "What is the second opportunity?",
+         "opts": [
+             "Reciting the teaching alone",
+             "Teaching Dhamma in detail to others, as one learned and memorized it",
+             "Grasping a meditation subject",
+             "A dream during sleep"],
+         "correct": 1,
+         "expl": "Even in the act of teaching others, the same chain toward freedom can begin."},
+        {"q": "How does the guide characterize the first four occasions as a group?",
+         "opts": [
+             "As entirely unrelated to each other",
+             "As forms of engagement with language — heard, spoken, recited, or reflected on — "
+             "rather than silent, wordless meditation",
+             "As inferior preliminary steps before real practice begins",
+             "As applicable only to advanced meditators"],
+         "correct": 1,
+         "expl": "Four of five occasions built from words, each sufficient on its own."},
+        {"q": "How does the fifth occasion's trigger compare to the other four's?",
+         "opts": [
+             "It is categorically different, using entirely different language",
+             "It uses the same 'inspired by the meaning, inspired by the teaching' phrasing as the "
+             "other four, differing only in what the object is",
+             "It requires no inspiration at all",
+             "It contradicts the mechanism of the other four"],
+         "correct": 1,
+         "expl": "The fifth is not set apart in kind, only in the nature of its object."},
+        {"q": "Does the discourse rank the five occasions, calling one the true path and the "
+              "others preliminary?",
+         "opts": [
+             "Yes, the fifth is named as superior",
+             "No — all five are presented as equally capable opportunities",
+             "Yes, the first is named as superior",
+             "The discourse takes no position on this question at all, offering no comparison"],
+         "correct": 1,
+         "expl": "Each occasion is said to be sufficient in its own right."},
+        {"q": "What is required for the mind to actually become freed on any of these occasions?",
+         "opts": [
+             "Nothing further is required beyond the occasion occurring",
+             "The mendicant must stay diligent, keen, and resolute at that time",
+             "Years of prior training with no exceptions",
+             "Permission from a senior monk"],
+         "correct": 1,
+         "expl": "Appamattassa ātāpino pahitattassa — the condition stated at both the opening and closing of the discourse."},
+        {"q": "What phrase repeats identically to open the chain in every one of the five cases?",
+         "opts": [
+             "A prayer for rebirth",
+             "'Inspired by the meaning and inspired by the teaching' (atthapaṭisaṁvedī "
+             "dhammapaṭisaṁvedī)",
+             "A vow of silence",
+             "A request for permission to teach"],
+         "correct": 1,
+         "expl": "The shared trigger phrase across all five occasions."},
+        {"q": "Where is AN 5.26 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "Kosambī",
+             "The Bhagga country"],
+         "correct": 1,
+         "expl": "Consistent with the pattern across this nipāta so far."},
+    ],
+    marginalia=[
+        ("Five occasions", [
+            "1. hearing it taught",
+            "2. teaching others",
+            "3. reciting it",
+            "4. reflecting on it",
+            "5. a meditation subject",
+        ]),
+        ("One chain, five times", [
+            "inspired &rarr; joy &rarr; rapture",
+            "&rarr; tranquil &rarr; bliss",
+            "&rarr; immersed in samādhi",
+        ]),
+        ("Four out of five", [
+            "built from words:",
+            "heard, spoken,",
+            "recited, reflected",
+        ]),
+        ("Cross-references", [
+            "AN 5.25 &middot; supports for right view",
+            "AN 5.28 &middot; the abhiññā this chain enables",
+            "AN 5.27 &middot; next: five knowledges",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.26/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.25.html">AN 5.25 &middot; Supported</a> &mdash; the previous discourse, on '
+        "what right view leans on.",
+        '<a href="an-5.27.html">AN 5.27 &middot; Immersion</a> &mdash; next, five knowledges that '
+        "arise from developing the immersion these occasions lead toward.",
+        '<a href="an-5.29.html">AN 5.29 &middot; Walking Meditation</a> &mdash; later in this '
+        "chapter, a very different, physical opportunity for benefit.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.27 — Samādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    27, "Samādhi", "Immersion",
+    vagga=VAGGA_3,
+    next=("an-5.28.html", "AN 5.28 &middot; With Five Factors"),
+    meta_title="AN 5.27 — Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Samādhisutta of "
+        "the Fives — five knowledges that arise personally from developing limitless immersion, "
+        "including a warning against immersion held in place by forceful suppression. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A short injunction to develop immersion, followed by five self-arising "
+                 "knowledges about the immersion developed"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Self-diagnostic criteria for genuine versus strained meditative "
+                              "attainment appear widely in Chinese Buddhist meditation manuals; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and unusually "
+                       "practical for a self-check on one's own meditation"),
+    ],
+    why=(
+        "This discourse offers something the chapter has not given before: a way to check one's "
+        "own meditation, from the inside, without needing anyone else to confirm it. Develop "
+        "limitless immersion, alert and mindful, and five knowledges are said to arise "
+        "<em>personally</em> &mdash; not taught by another, but known directly. The fourth of the "
+        "five draws a line this reading guide has not seen drawn this explicitly before: real "
+        "immersion is <em>not held in place by forceful suppression</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Develop limitless immersion, alert and mindful, and five knowledges arise "
+            "personally: that this immersion is blissful now and later, noble and not of the "
+            "flesh, not cultivated by inferior people, peaceful and not forced, and that one can "
+            "enter and emerge from it mindfully."]),
+        ("Knowledge arising personally, not taught", [
+            "<em>Paccattaññeva</em>, personally, marks all five knowledges as self-verified rather "
+            "than received on authority. This is a different relationship to knowledge than "
+            "most of this chapter has described: not something a teacher confirms from outside, "
+            "but something the immersion itself makes evident to the person developing it."]),
+        ("The fourth knowledge, read closely", [
+            "&lsquo;Peaceful and sublime and tranquil and unified, <em>not held in place by "
+            "forceful suppression</em>&rsquo; &mdash; <em>na sasaṅkhāraniggayhavāritagato</em> "
+            "&mdash; is the discourse's sharpest diagnostic. It distinguishes immersion that "
+            "settles naturally from immersion maintained only by continuous effortful pressure. A "
+            "reader straining to hold a meditative state still by force, rather than allowing it "
+            "to settle, has, on this discourse's own terms, a way to recognize the difference "
+            "themselves."]),
+        ("Noble, and &lsquo;not of the flesh&rsquo;", [
+            "<em>Nirāmisa</em>, not of the flesh, not carnal, marks the second knowledge as a "
+            "distinction between two kinds of pleasure &mdash; one bound up with sensual "
+            "gratification, one not. This distinction recurs across the canon whenever meditative "
+            "bliss needs to be marked off from ordinary sensory pleasure, and this discourse uses "
+            "it as one of the five marks a mendicant can personally verify."]),
+        ("A practical page in a chapter of larger claims", [
+            "Compared to AN 5.23's extended list of superhuman abilities, or AN 5.24's causal "
+            "chain toward freedom, this discourse is narrowly practical: not what immersion leads "
+            "to, but how to recognize when the immersion one has developed is the genuine article. "
+            "For readers actually practicing meditation rather than only studying the canon "
+            "academically, this is arguably the most directly usable discourse the chapter has "
+            "offered so far."]),
+    ],
+    terms=[
+        ("paccattaññeva",
+         "&ldquo;personally, by oneself&rdquo; &mdash; marking all five knowledges as "
+         "self-verified rather than received from a teacher."),
+        ("nirāmisa",
+         "&ldquo;not of the flesh, not carnal&rdquo; &mdash; the second knowledge, distinguishing "
+         "meditative bliss from ordinary sensory pleasure."),
+        ("akāpurisasevita",
+         "&ldquo;not cultivated by reprobates&rdquo; &mdash; the third knowledge, an unusually "
+         "blunt term marking genuine immersion by who does not typically attain it."),
+        ("na sasaṅkhāraniggayhavāritagato",
+         "&ldquo;not held in place by forceful suppression&rdquo; &mdash; the fourth knowledge's "
+         "sharpest clause, distinguishing settled immersion from strained concentration."),
+        ("sato samāpajjati sato vuṭṭhahati",
+         "&ldquo;mindfully enters, mindfully emerges&rdquo; &mdash; the fifth knowledge, marking "
+         "genuine immersion by the quality of attention at its boundaries, not only within it."),
+    ],
+    text_intro=(
+        "The discourse in full: the injunction to develop limitless immersion, and the five "
+        "knowledges that personally arise from doing so. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Develop limitless immersion"),
+        ("p", "&sect;1", "an5.27:1.1-1.3"),
+        ("h3", "Five knowledges, arising personally"),
+        ("p", "&sect;2", "an5.27:1.4"),
+        ("p", "&sect;3", "an5.27:1.5"),
+        ("p", "&sect;4", "an5.27:1.6"),
+        ("p", "&sect;5", "an5.27:1.7"),
+        ("p", "&sect;6", "an5.27:1.8"),
+        ("h3", "Closing"),
+        ("p", "&sect;7", "an5.27:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What five knowledges does this discourse say arise from developing limitless "
+              "immersion?",
+         "opts": [
+             "The five powers",
+             "That the immersion is blissful, noble, not for inferior people, peaceful and not "
+             "forced, and mindfully entered and left",
+             "The five hindrances",
+             "The five destinations of rebirth"],
+         "correct": 1,
+         "expl": "Five self-diagnostic marks of genuine immersion."},
+        {"q": "What does 'paccattaññeva' mark these five knowledges as?",
+         "opts": [
+             "Received on the authority of a teacher",
+             "Arising personally, self-verified rather than taught by another",
+             "Doubtful and unreliable",
+             "Applicable only to arahants"],
+         "correct": 1,
+         "expl": "A different relationship to knowledge than most of this chapter has described."},
+        {"q": "What does the fourth knowledge, 'not held in place by forceful suppression', "
+              "distinguish?",
+         "opts": [
+             "Nothing specific; it is a decorative phrase",
+             "Immersion that settles naturally from immersion maintained only by continuous "
+             "effortful pressure",
+             "Monastic ordination from lay practice",
+             "Two different postures for meditation"],
+         "correct": 1,
+         "expl": "The discourse's sharpest diagnostic clause, per the guide."},
+        {"q": "What does 'nirāmisa' mean, and what does it distinguish?",
+         "opts": [
+             "'Not of the flesh' — distinguishing meditative bliss from ordinary sensory pleasure",
+             "'Not visible' — meaning the immersion cannot be observed by others",
+             "'Not permanent' — meaning the immersion always fades quickly",
+             "'Not taught' — meaning no teacher ever describes it"],
+         "correct": 0,
+         "expl": "A recurring distinction across the canon between carnal and non-carnal pleasure."},
+        {"q": "How does the guide characterize this discourse compared to AN 5.23 and 5.24?",
+         "opts": [
+             "Identical in scope and content",
+             "Narrowly practical — how to recognize genuine immersion, rather than what immersion "
+             "leads to",
+             "Entirely unrelated to immersion",
+             "A contradiction of AN 5.23 and 5.24"],
+         "correct": 1,
+         "expl": "Arguably the most directly usable discourse in the chapter for an actual meditator."},
+        {"q": "What does the fifth knowledge concern?",
+         "opts": [
+             "The immersion's duration only",
+             "Mindfully entering and emerging from the immersion, not only what happens within it",
+             "The physical location where immersion should be practiced",
+             "Whether other people can perceive the immersion"],
+         "correct": 1,
+         "expl": "Marking genuine immersion by the quality of attention at its boundaries as well as inside it."},
+        {"q": "What comes immediately after AN 5.27 in this chapter, and what happens to it?",
+         "opts": [
+             "AN 5.28, a page from the earlier eighteen-page-selection era, left as is and linked "
+             "rather than rebuilt",
+             "The chapter simply ends",
+             "A brand-new discourse built for this project",
+             "A return to AN 5.21's ladder"],
+         "correct": 0,
+         "expl": "This page's 'next' link points explicitly to that existing page."},
+        {"q": "What does 'akāpurisasevita' mean?",
+         "opts": [
+             "'Cultivated by everyone equally'",
+             "'Not cultivated by reprobates' — an unusually blunt marker of genuine attainment",
+             "'Cultivated only by monastics, never laypeople'",
+             "'Not yet cultivated by anyone'"],
+         "correct": 1,
+         "expl": "The third of the five self-verifying knowledges."},
+        {"q": "Is this discourse's immersion described as bounded by time?",
+         "opts": [
+             "Yes, only for one sitting",
+             "The first knowledge names it as blissful now and resulting in bliss in the future",
+             "The discourse takes no position on this",
+             "It is described as instantly fading"],
+         "correct": 1,
+         "expl": "Both present and future benefit are named in the first knowledge."},
+        {"q": "Where is AN 5.27 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 1,
+         "expl": "Consistent with the pattern across this nipāta so far."},
+    ],
+    marginalia=[
+        ("Five knowledges", [
+            "blissful, now &amp; later",
+            "noble, not of the flesh",
+            "not for reprobates",
+            "peaceful, not forced",
+            "entered/left mindfully",
+        ]),
+        ("The sharp clause", [
+            "<span class=\"pali\">na sasaṅkhāra-</span>",
+            "<span class=\"pali\">niggayhavāritagato</span>",
+            "not forced &mdash; settled",
+        ]),
+        ("Self-verified", [
+            "<span class=\"pali\">paccattaññeva</span>",
+            "&mdash; known directly,",
+            "not taught by another",
+        ]),
+        ("Cross-references", [
+            "AN 5.23 &middot; abhiññā, from purity",
+            "AN 5.26 &middot; the chain toward this",
+            "AN 5.28 &middot; next: the legacy page",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.27/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.26.html">AN 5.26 &middot; Opportunities for Freedom</a> &mdash; the '
+        "previous discourse, on how immersion of this kind is first reached.",
+        '<a href="an-5.28.html">AN 5.28 &middot; With Five Factors</a> &mdash; next, this '
+        "chapter&rsquo;s own namesake discourse, on immersion built from five factors in full.",
+        '<a href="an-5.23.html">AN 5.23 &middot; Corruptions</a> &mdash; earlier in this chapter, '
+        "on what stands in the way of the immersion checked here.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.29 — Caṅkamasutta
+# --------------------------------------------------------------------------- #
+page(
+    29, "Caṅkama", "Walking Meditation",
+    vagga=VAGGA_3,
+    prev=("an-5.28.html", "AN 5.28 &middot; With Five Factors"),
+    meta_title="AN 5.29 — Walking Meditation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Caṅkamasutta — five "
+        "practical benefits of walking meditation: fitness for travel, fitness for striving, "
+        "health, digestion, and longer-lasting immersion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming five practical benefits, with no elaboration"),
+        ("Length", "~20 seconds to read"),
+        ("Northern parallel", "The benefits of walking meditation for physical health and "
+                              "digestion recur in monastic regulation texts across the Chinese "
+                              "tradition; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest and most "
+                       "physically concrete discourse in the chapter so far"),
+    ],
+    why=(
+        "After a chapter of ladders, chains, corruptions, and self-verifying knowledges, this "
+        "discourse returns to something almost entirely bodily: what walking meditation is "
+        "actually good for. Fitness for travel, fitness for striving, health, proper digestion, "
+        "and immersion that lasts longer once gained while walking. Nothing here is abstract; "
+        "every benefit is something a practitioner could notice for themselves within days of "
+        "trying it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Walking meditation has five benefits: fitness for traveling, fitness for striving in "
+            "meditation, health, proper digestion of what is eaten and drunk, and immersion gained "
+            "while walking that lasts a long time."]),
+        ("A body-first list, in a chapter of abstractions", [
+            "Every other discourse in this chapter so far has concerned ethics, immersion, wisdom, "
+            "freedom, or the corruptions and knowledges attached to them. This discourse names "
+            "physical fitness and digestion in the same breath as immersion, without ranking the "
+            "bodily benefits below the meditative one. The list moves from the concrete "
+            "(<em>addhānakkhama</em>, fit for travel) to the meditative "
+            "(<em>caṅkamādhigato samādhi</em>, immersion gained while walking) without a change of "
+            "register."]),
+        ("Why digestion appears in a list about meditation", [
+            "&lsquo;What&rsquo;s eaten, drunk, chewed, and tasted is properly digested&rsquo; sits "
+            "as the fourth benefit, between health and lasting immersion. For a monastic "
+            "community eating once a day, often on alms food of uncertain quality, a practical "
+            "aid to digestion is not a minor concern; the discourse treats it as worth naming "
+            "alongside loftier benefits rather than beneath mention."]),
+        ("&lsquo;Lasts a long time&rsquo;: a claim about durability, not depth", [
+            "The final benefit, <em>ciraṭṭhitiko</em>, does not claim walking meditation produces "
+            "a deeper or superior immersion &mdash; only a more durable one. This is a modest, "
+            "specific claim, consistent with the rest of the list's practical, unhurried tone."]),
+        ("Where the chapter closes from here", [
+            "AN 5.30, the chapter's final discourse, returns to narrative &mdash; a crowd of "
+            "brahmins and householders bringing food to the Buddha, and his own, sharply worded "
+            "reflection on fame. It is a striking discourse to end a practical chapter on, and "
+            "this reading guide will not soften its edges when it arrives."]),
+    ],
+    terms=[
+        ("caṅkama",
+         "&ldquo;walking meditation&rdquo; &mdash; this discourse's title and subject, a standard "
+         "monastic practice alongside sitting."),
+        ("addhānakkhama",
+         "&ldquo;fit for traveling&rdquo; &mdash; the first benefit, a directly physical claim "
+         "about stamina."),
+        ("padhānakkhama",
+         "&ldquo;fit for striving&rdquo; &mdash; the second benefit, connecting physical fitness "
+         "to meditative effort specifically."),
+        ("appābādha",
+         "&ldquo;healthy, free of illness&rdquo; &mdash; the third benefit, named plainly without "
+         "further qualification."),
+        ("ciraṭṭhitika",
+         "&ldquo;long-lasting&rdquo; &mdash; the fifth benefit's key word, a claim about "
+         "durability rather than depth."),
+    ],
+    text_intro=(
+        "The discourse in full: the five benefits of walking meditation, named once. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.29:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five benefits does this discourse name for walking meditation?",
+         "opts": [
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "Fitness for travel, fitness for striving, health, proper digestion, and long-lasting "
+             "immersion gained while walking",
+             "The five hindrances overcome",
+             "The five powers strengthened"],
+         "correct": 1,
+         "expl": "A body-first list, moving from concrete fitness to meditative durability."},
+        {"q": "How does the guide characterize this discourse compared to the rest of the chapter?",
+         "opts": [
+             "Identical in register to every other discourse",
+             "Almost entirely bodily, naming physical fitness and digestion alongside immersion "
+             "without ranking one below the other",
+             "Purely doctrinal, with no practical content",
+             "A repeat of AN 5.23's corruptions"],
+         "correct": 1,
+         "expl": "A striking shift in register within the chapter."},
+        {"q": "Why does the guide say digestion is worth including in a list about meditation?",
+         "opts": [
+             "It isn't worth including, and the guide calls it a scribal error",
+             "For a monastic community eating alms food once daily, digestion is a genuine "
+             "practical concern, not a minor one",
+             "Digestion has nothing to do with the rest of the list",
+             "Digestion is a later addition not in the original text"],
+         "correct": 1,
+         "expl": "Named alongside loftier benefits rather than beneath mention."},
+        {"q": "What does the fifth benefit, 'ciraṭṭhitiko', actually claim?",
+         "opts": [
+             "That walking-meditation immersion is deeper than any other kind",
+             "That it lasts a long time — a claim about durability, not superior depth",
+             "That it is instantaneous",
+             "That it never fades at all, under any circumstances"],
+         "correct": 1,
+         "expl": "A modest, specific claim, consistent with the list's practical tone."},
+        {"q": "What comes immediately before this discourse in the chapter's actual reading order?",
+         "opts": [
+             "AN 5.27",
+             "AN 5.28, the legacy page this discourse's 'prev' link points to explicitly",
+             "AN 5.21",
+             "Nothing; this is the chapter's first discourse"],
+         "correct": 1,
+         "expl": "An explicit override, since AN 5.28 sits between AN 5.27 and AN 5.29 in sequence but is not regenerated."},
+        {"q": "What does AN 5.30, the chapter's closing discourse, turn to?",
+         "opts": [
+             "Another short list of practical benefits",
+             "A narrative involving a crowd of brahmins and householders, and the Buddha's own "
+             "sharply worded reflection on fame",
+             "A repeat of the five hindrances",
+             "The chapter simply has no closing discourse"],
+         "correct": 1,
+         "expl": "A striking shift from this discourse's practical brevity."},
+        {"q": "Is any simile or narrative used to illustrate this discourse's claims?",
+         "opts": [
+             "Yes, an extended parable",
+             "No — a single bare list, with no illustration",
+             "Yes, the tree simile is reused",
+             "Yes, a dialogue with a named questioner"],
+         "correct": 1,
+         "expl": "The chapter's shortest and most direct discourse."},
+        {"q": "What is the second benefit, 'padhānakkhama', specifically about?",
+         "opts": [
+             "Fitness connected to meditative striving specifically, not fitness in general",
+             "Immunity from all illness",
+             "Freedom from hunger entirely",
+             "The ability to travel without rest"],
+         "correct": 0,
+         "expl": "Distinct from the first benefit's more general travel fitness."},
+        {"q": "How long is this discourse to read?",
+         "opts": [
+             "About twenty seconds — the shortest discourse in the chapter",
+             "Several minutes, with an extended simile",
+             "Roughly the same length as AN 5.23",
+             "It has no readable text"],
+         "correct": 0,
+         "expl": "A single sentence, with no elaboration."},
+        {"q": "Where is AN 5.29 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Squirrels' Sanctuary",
+             "Uruvelā"],
+         "correct": 1,
+         "expl": "Consistent with the pattern across this nipāta so far."},
+    ],
+    marginalia=[
+        ("Five benefits", [
+            "fit for travel",
+            "fit for striving",
+            "healthy",
+            "food digests well",
+            "immersion lasts long",
+        ]),
+        ("Body, then mind", [
+            "concrete fitness &rarr;",
+            "meditative durability",
+            "&mdash; no change in register",
+        ]),
+        ("A modest claim", [
+            "<span class=\"pali\">ciraṭṭhitiko</span>",
+            "&mdash; lasts long,",
+            "not claimed to be deeper",
+        ]),
+        ("Cross-references", [
+            "AN 5.28 &middot; the legacy page, before",
+            "AN 5.27 &middot; five knowledges of samādhi",
+            "AN 5.30 &middot; next: closing the chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.29/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.28.html">AN 5.28 &middot; With Five Factors</a> &mdash; the preceding page '
+        "in this chapter's reading order.",
+        '<a href="an-5.27.html">AN 5.27 &middot; Immersion</a> &mdash; five knowledges for '
+        "checking the immersion this discourse says walking meditation can also produce.",
+        '<a href="an-5.30.html">AN 5.30 &middot; With Nāgita</a> &mdash; next, and this '
+        "chapter's closing discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.30 — Nāgitasutta
+# --------------------------------------------------------------------------- #
+page(
+    30, "Nāgita", "With Nāgita",
+    vagga=VAGGA_3,
+    meta_title="AN 5.30 — With Nāgita | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nāgitasutta, closing "
+        "this chapter — a crowd of brahmins and householders bringing food to the Buddha, his "
+        "blunt refusal of fame and the 'filthy, lazy pleasure' of popularity, and five stark "
+        "meditations on what ordinary life's pleasures actually come to. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Icchānaṅgala, a Kosalan brahmin village, in a forest nearby; stated at the "
+                    "head of this discourse"),
+        ("Speakers", "The Buddha and his attendant, Venerable Nāgita"),
+        ("Form", "A narrative frame — a crowd bringing food, a question about noise — opening "
+                 "onto two rounds of the Buddha's own reflection on fame"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The Buddha's wariness of fame and popularity, and meditations on "
+                              "impermanence closing a discourse, are recurring themes across the "
+                              "Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; closes the chapter on its "
+                       "most unguarded and least comfortable note"),
+    ],
+    why=(
+        "This chapter closes not with a list but with a scene: a crowd outside a forest gate, "
+        "making enough noise that the Buddha mistakes it for fishermen hauling in a catch. When "
+        "Nāgita explains they have come with food especially for him, the Buddha's response is "
+        "immediate and severe: <em>may I never become famous. May fame not come to me.</em> What "
+        "follows is one of the plainest statements in this series of what the Buddha says he "
+        "does not want, and why &mdash; closing with five meditations this reading guide will not "
+        "soften."),
+    guide=[
+        ("The teaching in one sentence", [
+            "When brahmins and householders bring food and make a great commotion outside his "
+            "forest dwelling, the Buddha tells his attendant Nāgita that he wants no part of fame "
+            "or popularity, calling the pleasure of possessions, honor, and popularity "
+            "&lsquo;filthy&rsquo; and &lsquo;lazy&rsquo;, and closes with five stark meditations "
+            "on what ordinary pleasures actually lead to."]),
+        ("A crowd, mistaken for fishermen", [
+            "The discourse opens with an image worth sitting with before its argument begins: the "
+            "Buddha, hearing a colossal racket outside, assumes it is fishermen hauling in a "
+            "catch. The comparison is not flattering to the crowd that has actually come &mdash; "
+            "devoted brahmins and householders bringing food specifically for him &mdash; and the "
+            "discourse does not walk it back once Nāgita corrects the mistake."]),
+        ("&lsquo;May I never become famous&rsquo;, said twice", [
+            "The Buddha's refusal of fame is stated twice in this discourse, word for word "
+            "identical both times: he does not want fame, because he already has, without "
+            "trouble or difficulty, the pleasure of renunciation, seclusion, peace, and awakening "
+            "&mdash; and those who lack that pleasure are welcome to <em>the filthy, lazy pleasure "
+            "of possessions, honor, and popularity</em> instead. The language is unusually blunt "
+            "for this series; the discourse does not round the phrase &lsquo;filthy, lazy "
+            "pleasure&rsquo; into something gentler."]),
+        ("Nāgita's argument for relenting, and its quiet irony", [
+            "Between the two identical refusals, Nāgita urges the Buddha to relent, arguing that "
+            "wherever the Buddha now goes, brahmins and householders will follow &mdash; like "
+            "rain flowing downhill &mdash; because of his ethics and wisdom. Nāgita's argument is "
+            "itself an instance of exactly the kind of appeal to reputation the Buddha has just "
+            "rejected, and the discourse lets that tension stand without resolving it explicitly "
+            "before the Buddha simply repeats his refusal and moves on to explain, more fully, "
+            "why."]),
+        ("Five outcomes, stated without comfort", [
+            "The discourse's final teaching is five plain observations, each closed by the "
+            "refrain <em>eso tassa nissando</em>, this is its outcome: food eaten ends as "
+            "excrement and urine; the loss of loved ones brings grief; meditating on ugliness "
+            "stabilizes revulsion at beauty; observing impermanence in the six sense fields "
+            "stabilizes revulsion at contact; observing rise and fall in the five grasping "
+            "aggregates stabilizes revulsion at grasping. None of these is offered as a comforting "
+            "thought. They are named as facts about what ordinary attachments and their opposite "
+            "meditations actually produce, in the plainest terms the discourse can manage."]),
+    ],
+    terms=[
+        ("uccāsaddamahāsadda",
+         "&ldquo;a colossal racket&rdquo; &mdash; the noise that opens the discourse, compared by "
+         "the Buddha to fishermen hauling in a catch."),
+        ("mīḷhasukha middhasukha",
+         "&ldquo;filthy pleasure, lazy pleasure&rdquo; &mdash; the Buddha's blunt description of "
+         "the pleasure of possessions, honor, and popularity."),
+        ("nekkhammasukha",
+         "&ldquo;the pleasure of renunciation&rdquo; &mdash; the first of four pleasures the "
+         "Buddha says he already has without trouble, set against fame."),
+        ("nissando",
+         "&ldquo;outcome, result&rdquo; &mdash; the refrain closing each of the discourse's five "
+         "final observations."),
+        ("pāṭikulyatā",
+         "&ldquo;revulsion, repulsion&rdquo; &mdash; the stabilized result each of the four "
+         "meditation-based outcomes produces."),
+    ],
+    text_intro=(
+        "The discourse in full: the crowd's arrival, the Buddha's refusal of fame stated twice, "
+        "Nāgita's argument in between, and the five closing outcomes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "At Icchānaṅgala"),
+        ("p", "&sect;1", "an5.30:1.1-1.4"),
+        ("p", "&sect;2", "an5.30:1.5-1.10"),
+        ("p", "&sect;3", "an5.30:1.11"),
+        ("h3", "A colossal racket"),
+        ("p", "&sect;4", "an5.30:2.1-2.3"),
+        ("p", "&sect;5", "an5.30:2.4"),
+        ("h3", "&ldquo;May I never become famous&rdquo;"),
+        ("p", "&sect;6", "an5.30:2.5-2.7"),
+        ("h3", "Nāgita's argument"),
+        ("p", "&sect;7", "an5.30:3.1-3.7"),
+        ("h3", "Refused again, and explained"),
+        ("p", "&sect;8", "an5.30:4.1-4.3"),
+        ("h3", "Five outcomes"),
+        ("p", "&sect;9", "an5.30:4.4-4.5"),
+        ("p", "&sect;10", "an5.30:4.6-4.7"),
+        ("p", "&sect;11", "an5.30:4.8-4.9"),
+        ("p", "&sect;12", "an5.30:4.10-4.11"),
+        ("p", "&sect;13", "an5.30:4.12-4.13"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha initially mistake the crowd's noise for?",
+         "opts": [
+             "An attacking army",
+             "Fishermen hauling in a catch",
+             "A festival celebration",
+             "A funeral procession"],
+         "correct": 1,
+         "expl": "An unflattering comparison the discourse does not walk back."},
+        {"q": "What is the Buddha's stated reaction to the crowd bringing food specifically for "
+              "him?",
+         "opts": [
+             "Delight and gratitude",
+             "'May I never become famous. May fame not come to me,' stated bluntly",
+             "Indifference, with no comment at all",
+             "He immediately leaves the area"],
+         "correct": 1,
+         "expl": "One of the plainest refusals of fame in this series."},
+        {"q": "How does the Buddha describe the pleasure of possessions, honor, and popularity?",
+         "opts": [
+             "As a harmless minor pleasure",
+             "As 'filthy' and 'lazy' pleasure",
+             "As the highest form of happiness available",
+             "As something he secretly desires"],
+         "correct": 1,
+         "expl": "Unusually blunt language, not softened in this reading guide's presentation."},
+        {"q": "What argument does Nāgita make for the Buddha to relent?",
+         "opts": [
+             "That the food will otherwise go to waste",
+             "That wherever the Buddha goes, people will follow because of his ethics and wisdom — "
+             "like rain flowing downhill",
+             "That refusing would violate a monastic rule",
+             "That the crowd will become violent if refused"],
+         "correct": 1,
+         "expl": "An argument the guide notes is itself an appeal to exactly the reputation the Buddha has just rejected."},
+        {"q": "Does the discourse explicitly resolve the tension in Nāgita's argument appealing to "
+              "reputation right after the Buddha rejects fame?",
+         "opts": [
+             "Yes, at great length",
+             "No — the tension is left standing, and the Buddha simply repeats his refusal",
+             "The discourse claims there is no tension at all",
+             "Nāgita withdraws his argument immediately"],
+         "correct": 1,
+         "expl": "The guide flags this as a quiet irony the text does not resolve for the reader."},
+        {"q": "What refrain closes each of the discourse's five final observations?",
+         "opts": [
+             "'This is impermanent'",
+             "'Eso tassa nissando' — this is its outcome",
+             "'This must be abandoned'",
+             "No refrain is used"],
+         "correct": 1,
+         "expl": "The same closing phrase repeated across all five observations."},
+        {"q": "What is the first of the five outcomes named?",
+         "opts": [
+             "Food eaten ends up as excrement and urine",
+             "Fame leads to happiness",
+             "Wealth guarantees security",
+             "Popularity ensures a good rebirth"],
+         "correct": 0,
+         "expl": "A plain, unflattering observation about ordinary bodily process."},
+        {"q": "What does meditating on ugliness stabilize, according to the fourth outcome?",
+         "opts": [
+             "Attraction to beauty",
+             "Revulsion at the feature of beauty",
+             "Indifference to all sensation",
+             "Physical health"],
+         "correct": 1,
+         "expl": "One of two meditation-based outcomes closing the discourse."},
+        {"q": "Are any of these five outcomes offered as comforting?",
+         "opts": [
+             "Yes, all five are framed as reassuring",
+             "No — the guide reads them as plain facts, stated without comfort",
+             "Only the first is comforting",
+             "The discourse explicitly calls them comforting"],
+         "correct": 1,
+         "expl": "Consistent with the discourse's overall unguarded tone."},
+        {"q": "What closes this discourse besides its own content?",
+         "opts": [
+             "Nothing further",
+             "The chapter's own colophon, Pañcaṅgikavaggo tatiyo, and its untranslated uddāna verse",
+             "A quiz about an unrelated topic",
+             "A repeat of AN 5.21's ladder"],
+         "correct": 1,
+         "expl": "Matching the structure already explained in full at AN 5.10 and AN 5.20."},
+    ],
+    marginalia=[
+        ("The scene", [
+            "a crowd, mistaken",
+            "for fishermen &mdash;",
+            "food, meant for the Buddha",
+        ]),
+        ("Refused, twice", [
+            "&ldquo;may I never",
+            "become famous&rdquo;",
+            "&mdash; filthy, lazy pleasure",
+        ]),
+        ("Five outcomes", [
+            "food &rarr; excrement",
+            "loss &rarr; grief",
+            "ugliness meditated &rarr; revulsion",
+            "impermanence seen &rarr; revulsion",
+        ]),
+        ("Cross-references", [
+            "AN 5.9&ndash;10, 5.20 &middot; the colophon form",
+            "AN 5.23 &middot; another close look at desire",
+            "AN 5.31 &middot; next: With Sumanā",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.30/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.29.html">AN 5.29 &middot; Walking Meditation</a> &mdash; the previous '
+        "discourse, this chapter's most purely practical page by contrast.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this same '
+        "chapter-closing colophon structure was first explained in full.",
+        '<a href="an-5.23.html">AN 5.23 &middot; Corruptions</a> &mdash; earlier in this chapter, '
+        "another close look at what desire does to the mind.",
+    ],
+)
