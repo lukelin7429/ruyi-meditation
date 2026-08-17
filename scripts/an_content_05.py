@@ -2232,3 +2232,2144 @@ page(
         "appeared in this series, before an entire chapter was built from it.",
     ],
 )
+
+
+VAGGA_2 = "<em>Balavagga</em> &mdash; the second chapter of the Fives"
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.11 — Ananussutasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, "Ananussuta", "Not Learned From Anyone Else",
+    vagga=VAGGA_2,
+    meta_title="AN 5.11 — Not Learned From Anyone Else | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ananussutasutta — the "
+        "chapter's opening claim: the Realized One has his own five tathāgatabala, worded "
+        "identically to the trainee's sekhabala from AN 5.1, by which he roars his lion's roar. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A first-person claim to unprecedented insight, followed by the five powers that "
+                 "ground it"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The lion's roar and bull's-place imagery for the Buddha's "
+                              "unprecedented insight recurs widely across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, but its list is the "
+                       "chapter's most surprising turn so far"),
+    ],
+    why=(
+        "This chapter is also called &lsquo;Powers&rsquo;, the same English title as the last, and "
+        "its first discourse makes an audacious move: it takes the exact five terms named in AN "
+        "5.1 for a mere <em>trainee</em> &mdash; faith, conscience, prudence, energy, wisdom "
+        "&mdash; and applies them, word for word, to the Realized One himself, calling them "
+        "<em>tathāgatabala</em>, a Realized One's powers. The claim attached to them is the "
+        "boldest in the collection so far: insight into principles never learned from anyone else."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha claims to have reached perfection in insight into principles not learned "
+            "from another, and says the Realized One has five powers &mdash; faith, conscience, "
+            "prudence, energy, wisdom &mdash; by which he claims the bull&rsquo;s place, roars his "
+            "lion&rsquo;s roar in the assemblies, and turns the divine wheel."]),
+        ("The same five words, a different subject", [
+            "AN 5.1&rsquo;s sekhabala belonged to a <em>sekha</em>, someone still training. Here "
+            "the identical five Pāli compounds &mdash; <em>saddhābalaṁ, hirībalaṁ, ottappabalaṁ, "
+            "vīriyabalaṁ, paññābalaṁ</em> &mdash; are named <em>tathāgatabala</em> instead, powers "
+            "belonging to one who has completed the path. The discourse does not explain why the "
+            "same five items work for both a beginner and a Buddha; it simply uses them at both "
+            "ends of the path without comment, which is itself worth noticing."]),
+        ("Three images of authority", [
+            "<em>Āsabhaṁ ṭhānaṁ</em>, the bull&rsquo;s place, <em>sīhanādaṁ</em>, the lion&rsquo;s "
+            "roar, and <em>brahmacakkaṁ</em>, the divine wheel, are three separate images for the "
+            "same claim to unmatched authority &mdash; a lead bull among cattle, the boldest cry "
+            "in the forest, and the wheel of a world-ruling monarch turned instead as teaching. All "
+            "three appear together often enough in the canon to function as a set formula for "
+            "public, confident proclamation, not private certainty."]),
+        ("&lsquo;Not learned from anyone else&rsquo;", [
+            "<em>Ananussutesu dhammesu</em> is the discourse&rsquo;s own title and its central "
+            "claim: this insight has no human teacher behind it. Whatever else the five "
+            "tathāgatabala are doing here, they are offered as the grounds for that specific claim "
+            "&mdash; not evidence of general virtue, but the named support for a claim to "
+            "originality that nothing prior in this series has made this explicitly."]),
+        ("What the rest of the chapter does with this opening", [
+            "AN 5.12, immediately following, stays with the sekhabala one more discourse before "
+            "the chapter pivots, at AN 5.13, to the more familiar five faculties/powers list "
+            "already flagged at AN 4.163 and AN 5.1. Read in order, this chapter moves from the "
+            "Buddha&rsquo;s own powers, to a trainee&rsquo;s powers restated once more, to the "
+            "standard list shared across the thirty-seven aids to awakening &mdash; three related "
+            "but distinct five-item sets in the space of a few discourses."]),
+    ],
+    terms=[
+        ("tathāgatabala",
+         "&ldquo;power of a Realized One&rdquo; &mdash; the same five terms as AN 5.1&rsquo;s "
+         "sekhabala, here applied to the Buddha rather than to a trainee."),
+        ("ananussuta",
+         "&ldquo;not learned from another&rdquo; &mdash; this discourse&rsquo;s title and central "
+         "claim, that this insight had no human teacher."),
+        ("āsabhaṁ ṭhānaṁ",
+         "&ldquo;the bull&rsquo;s place&rdquo; &mdash; the first of three images of public "
+         "authority this discourse uses, a lead bull among cattle."),
+        ("sīhanādaṁ",
+         "&ldquo;lion&rsquo;s roar&rdquo; &mdash; the second image, a formula recurring across the "
+         "canon for confident, public proclamation."),
+        ("brahmacakkaṁ",
+         "&ldquo;the divine wheel&rdquo; &mdash; the third image, recasting a world-ruling "
+         "monarch&rsquo;s wheel as the wheel of teaching set in motion."),
+    ],
+    text_intro=(
+        "The discourse in full: the claim to unprecedented insight, and the five powers of a "
+        "Realized One that ground it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "An unprecedented claim"),
+        ("p", "&sect;1", "an5.11:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What five terms does AN 5.11 use for the Realized One's own powers?",
+         "opts": [
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "The identical sekhabala from AN 5.1 — faith, conscience, prudence, energy, wisdom — "
+             "now called tathāgatabala",
+             "A completely new list unrelated to any earlier discourse",
+             "Ethics, immersion, wisdom, freedom"],
+         "correct": 1,
+         "expl": "Word for word the same five compounds, applied to a different subject."},
+        {"q": "What claim does 'ananussuta' name in this discourse's title?",
+         "opts": [
+             "That the teaching was learned from a previous Buddha",
+             "That this insight was not learned from anyone else — no human teacher behind it",
+             "That the discourse itself was never recorded",
+             "That the five powers are inherited traits"],
+         "correct": 1,
+         "expl": "The discourse's central and boldest claim so far in this series."},
+        {"q": "What three images of authority does this discourse use together?",
+         "opts": [
+             "A mountain, a river, and the sky",
+             "The bull's place, the lion's roar, and the divine wheel",
+             "A lotus, a jewel, and a lamp",
+             "Only one image, the lion's roar"],
+         "correct": 1,
+         "expl": "A recurring formula for public, confident proclamation of authority."},
+        {"q": "Does the discourse explain why the same five terms apply both to a trainee (AN 5.1) "
+              "and to the Realized One himself?",
+         "opts": [
+             "Yes, at great length",
+             "No — it uses the identical terms at both ends of the path without comment",
+             "It explicitly denies any connection between the two lists",
+             "It replaces the terms entirely for the Buddha's version"],
+         "correct": 1,
+         "expl": "Worth noticing as a deliberate silence, not an oversight."},
+        {"q": "What does 'brahmacakkaṁ', the divine wheel, recast?",
+         "opts": [
+             "A farmer's plow",
+             "A world-ruling monarch's wheel, turned instead as teaching",
+             "A potter's wheel",
+             "A ship's steering wheel"],
+         "correct": 1,
+         "expl": "One of three images of unmatched authority used together in this discourse."},
+        {"q": "What happens to the sekhabala list at AN 5.12, the very next discourse?",
+         "opts": [
+             "It disappears entirely from the chapter",
+             "It continues for one more discourse before the chapter pivots to the standard five "
+             "faculties/powers list at AN 5.13",
+             "It is immediately contradicted",
+             "It becomes the tathāgatabala permanently"],
+         "correct": 1,
+         "expl": "A brief overlap before the chapter's larger pivot."},
+        {"q": "According to the guide, how many related but distinct five-item lists does this "
+              "chapter move through in its first several discourses?",
+         "opts": [
+             "Just one",
+             "Three — the Realized One's powers, the trainee's powers restated, and the standard "
+             "five faculties/powers",
+             "Five separate unrelated lists",
+             "None; all discourses use the identical list"],
+         "correct": 1,
+         "expl": "The Buddha's own powers, then a trainee's, then the standard shared list — moving through the chapter in order."},
+        {"q": "What is the setting of AN 5.11?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Bamboo Grove near Rājagaha",
+             "Kusinārā"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern so far."},
+        {"q": "Is this discourse spoken in the first person by the Buddha?",
+         "opts": [
+             "No, it is narrated in the third person throughout",
+             "Yes — 'I claim to have attained perfection and consummation of insight...'",
+             "It is spoken by a disciple describing the Buddha",
+             "It is a dialogue with a questioner"],
+         "correct": 1,
+         "expl": "A direct first-person claim opens the discourse."},
+        {"q": "How does this discourse compare in tone to AN 5.1's opening of the previous chapter?",
+         "opts": [
+             "Identical in every way",
+             "Bolder — a first-person claim to unprecedented insight, rather than a bare list handed "
+             "to listeners",
+             "More hesitant and uncertain",
+             "AN 5.11 makes no claims at all"],
+         "correct": 1,
+         "expl": "The chapter opens on an audacious note distinct from the previous chapter's terse start."},
+    ],
+    marginalia=[
+        ("Same five, new subject", [
+            "AN 5.1: sekhabala",
+            "&mdash; a trainee's",
+            "AN 5.11: tathāgatabala",
+            "&mdash; the Buddha's own",
+        ]),
+        ("Three images", [
+            "<span class=\"pali\">āsabhaṁ ṭhānaṁ</span>bull's place",
+            "<span class=\"pali\">sīhanādaṁ</span>lion's roar",
+            "<span class=\"pali\">brahmacakkaṁ</span>divine wheel",
+        ]),
+        ("The claim", [
+            "<span class=\"pali\">ananussuta</span>",
+            "not learned",
+            "from anyone else",
+        ]),
+        ("Cross-references", [
+            "AN 5.1 &middot; the sekhabala, first",
+            "AN 5.12 &middot; next: wisdom, the peak",
+            "AN 5.13 &middot; then: the standard bala",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.11/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.1.html">AN 5.1 &middot; In Brief</a> &mdash; where these five terms were '
+        "first given, there naming a trainee's powers rather than a Buddha's.",
+        '<a href="an-5.12.html">AN 5.12 &middot; Peak</a> &mdash; next, staying with the sekhabala '
+        "one discourse longer.",
+        '<a href="an-5.13.html">AN 5.13 &middot; In Brief</a> &mdash; where the chapter pivots to '
+        "the more familiar five faculties and powers.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.12 — Kūṭasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, "Kūṭa", "Peak",
+    vagga=VAGGA_2,
+    meta_title="AN 5.12 — Peak | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kūṭasutta — the "
+        "sekhabala one more time, with a new claim: wisdom is chief among the five, holding and "
+        "binding everything together the way a roof-peak holds a bungalow. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "The sekhabala restated, a ranking claim for wisdom, and a single architectural "
+                 "simile"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Wisdom ranked as the culminating member of a training set is a "
+                              "widespread structural claim across the Chinese Āgamas and "
+                              "Abhidharma; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a short discourse, memorable "
+                       "chiefly for its image"),
+    ],
+    why=(
+        "Every earlier discourse using the sekhabala or the standard powers has treated the five "
+        "as a set, with no member singled out. This discourse breaks that pattern: of the five "
+        "powers of a trainee, it says, <em>the power of wisdom is the chief. It holds and binds "
+        "everything together</em>, the way the roof-peak of a bungalow holds and binds the whole "
+        "structure. It is a small claim with a large consequence for how to read every list of "
+        "five that has come before it in this chapter and the last."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Of the five powers of a trainee, wisdom is called the chief &mdash; the member that "
+            "holds and binds all the others together, illustrated by a bungalow&rsquo;s roof-peak."]),
+        ("What &lsquo;chief&rsquo; is not claiming", [
+            "The discourse does not say wisdom can stand in for the other four, or that a person "
+            "could have wisdom alone and dispense with faith, conscience, prudence, and energy. A "
+            "roof-peak does not replace the walls; it is the point where the walls, already built, "
+            "are held together and given a single shape. The claim is architectural, about "
+            "function within a completed structure, not substitutive."]),
+        ("Why this ranking, and not a different one", [
+            "AN 5.2 already defined wisdom, of these five, in the narrowest and most specific terms "
+            "&mdash; not general intelligence but a particular insight into arising and passing "
+            "away. This discourse&rsquo;s ranking makes sense against that earlier definition: the "
+            "kind of wisdom named is exactly the kind that would let a person see whether their own "
+            "faith, conscience, prudence, and energy are actually functioning as claimed, rather "
+            "than being taken on trust. A capstone that surveys what it caps is a coherent image "
+            "for that specific job."]),
+        ("A simile that will return", [
+            "The bungalow-peak image is not unique to this discourse. AN 5.16, four discourses "
+            "ahead, repeats it word for word for the standard five powers rather than the "
+            "sekhabala &mdash; the same architectural claim made twice, once for each of this "
+            "chapter&rsquo;s two five-item lists. Reading the two together shows that the ranking "
+            "survives the switch between lists; whichever five items are in play, wisdom is what "
+            "the discourse calls chief."]),
+        ("Where the chapter goes from here", [
+            "AN 5.13 pivots the chapter to the standard five faculties/powers &mdash; faith, "
+            "energy, mindfulness, immersion, wisdom &mdash; already flagged as distinct from the "
+            "sekhabala at AN 4.163 and AN 5.1. This is the last discourse in the Fives, so far, to "
+            "use the sekhabala terms."]),
+    ],
+    terms=[
+        ("kūṭa",
+         "&ldquo;peak, roof-ridge&rdquo; &mdash; the architectural term giving this discourse its "
+         "title and its central image."),
+        ("kūṭāgāra",
+         "&ldquo;bungalow, peaked house&rdquo; &mdash; a building with a ridged roof, the structure "
+         "the simile compares the five powers to."),
+        ("saṅgāhika",
+         "&ldquo;that which holds together&rdquo; &mdash; one of the two verbs applied to both the "
+         "roof-peak and to wisdom among the five powers."),
+        ("saṅghātaniya",
+         "&ldquo;that which binds together&rdquo; &mdash; the second of the paired verbs, "
+         "reinforcing rather than duplicating the first."),
+        ("agga",
+         "&ldquo;chief, foremost&rdquo; &mdash; the ranking word applied to wisdom, a claim this "
+         "discourse is the first in the chapter to make about any single member of a five-item "
+         "list."),
+    ],
+    text_intro=(
+        "The discourse in full: the sekhabala restated, wisdom named chief, and the bungalow "
+        "simile that explains why. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Wisdom, the chief power"),
+        ("p", "&sect;1", "an5.12:1.1-1.5"),
+        ("h3", "The simile"),
+        ("p", "&sect;2", "an5.12:2.1-2.2"),
+        ("h3", "The injunction"),
+        ("p", "&sect;3", "an5.12:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What claim does AN 5.12 make that no earlier discourse using a five-item power list "
+              "has made?",
+         "opts": [
+             "That one of the five powers is chief, holding and binding the others together",
+             "That a sixth power should be added",
+             "That the five powers contradict each other",
+             "That only monks, not nuns, can develop the five powers"],
+         "correct": 0,
+         "expl": "Wisdom is singled out as chief — a first for this chapter's power lists."},
+        {"q": "What image explains wisdom's role as chief?",
+         "opts": [
+             "A river flowing into the sea",
+             "A bungalow's roof-peak, which holds and binds the whole structure together",
+             "The trunk of a tree",
+             "The keystone of a bridge"],
+         "correct": 1,
+         "expl": "Kūṭa, the roof-peak — the discourse's title and central simile."},
+        {"q": "Does the discourse claim wisdom can replace the other four powers?",
+         "opts": [
+             "Yes, wisdom alone is said to be sufficient",
+             "No — the image is architectural, about function within a completed structure, not "
+             "substitution",
+             "The discourse is ambiguous on this point",
+             "Yes, but only for advanced trainees"],
+         "correct": 1,
+         "expl": "A roof-peak doesn't replace the walls; it holds what is already built together."},
+        {"q": "How does the guide connect this ranking to AN 5.2's earlier definition of wisdom?",
+         "opts": [
+             "It sees no connection between the two",
+             "AN 5.2 defined wisdom narrowly as insight into arising and passing away — exactly the "
+             "kind of insight that could assess whether the other four powers are genuinely "
+             "functioning",
+             "AN 5.2 and AN 5.12 define wisdom in contradictory ways",
+             "AN 5.12 redefines wisdom completely"],
+         "correct": 1,
+         "expl": "A capstone that surveys what it caps fits that specific, narrow definition."},
+        {"q": "Where does this same bungalow-peak simile reappear later in the chapter?",
+         "opts": [
+             "It never reappears",
+             "At AN 5.16, applied to the standard five faculties/powers rather than the sekhabala",
+             "At AN 5.20, the chapter's final discourse",
+             "In the very next discourse, AN 5.13"],
+         "correct": 1,
+         "expl": "The identical claim, made for each of the chapter's two five-item lists in turn."},
+        {"q": "What does AN 5.13, the next discourse, do?",
+         "opts": [
+             "Repeats AN 5.12 verbatim",
+             "Pivots the chapter to the standard five faculties/powers — faith, energy, mindfulness, "
+             "immersion, wisdom",
+             "Introduces a sixth power",
+             "Returns to the tathāgatabala of AN 5.11"],
+         "correct": 1,
+         "expl": "AN 5.12 is the chapter's last use of the sekhabala terms so far."},
+        {"q": "What two verbs are applied to both the roof-peak and to wisdom?",
+         "opts": [
+             "Saṅgāhika and saṅghātaniya — 'that which holds together' and 'that which binds "
+             "together'",
+             "Only one verb is used, repeated",
+             "Verbs meaning 'to burn' and 'to shine'",
+             "No verbs are shared between the two halves of the simile"],
+         "correct": 0,
+         "expl": "Paired, reinforcing terms rather than a single word repeated."},
+        {"q": "What are the five powers named in this discourse?",
+         "opts": [
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "Faith, conscience, prudence, energy, wisdom — the sekhabala",
+             "Ethics, immersion, wisdom, freedom",
+             "A new, sixth list"],
+         "correct": 1,
+         "expl": "Still the sekhabala at this point in the chapter, not yet the standard bala."},
+        {"q": "What closing injunction does AN 5.12 share with AN 5.1?",
+         "opts": [
+             "None — the two discourses end differently",
+             "'So you should train like this,' followed by the same wish to have all five powers",
+             "A prediction of future rebirth",
+             "A warning about disrobing"],
+         "correct": 1,
+         "expl": "The chapter's opening injunction formula recurs here."},
+        {"q": "Where is AN 5.12 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Deer Park",
+             "Vesālī"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern so far."},
+    ],
+    marginalia=[
+        ("The image", [
+            "<span class=\"pali\">kūṭāgāra</span>peaked house",
+            "<span class=\"pali\">kūṭa</span>the roof-peak",
+            "&mdash; holds it all together",
+        ]),
+        ("Not a replacement", [
+            "wisdom, chief among five",
+            "but does not stand in",
+            "for the other four",
+        ]),
+        ("A simile that returns", [
+            "AN 5.12: for sekhabala",
+            "AN 5.16: for the standard bala",
+            "&mdash; same claim, twice",
+        ]),
+        ("Cross-references", [
+            "AN 5.2 &middot; wisdom, defined",
+            "AN 5.11 &middot; the Buddha's own five",
+            "AN 5.13 &middot; next: the standard bala",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.12/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.2.html">AN 5.2 &middot; In Detail</a> &mdash; where wisdom&rsquo;s narrow '
+        "definition, presupposed by this discourse's ranking, was first given.",
+        '<a href="an-5.16.html">AN 5.16 &middot; The Peak, Again</a> &mdash; the same simile, later '
+        "in the chapter, for the standard five powers.",
+        '<a href="an-5.13.html">AN 5.13 &middot; In Brief</a> &mdash; next, where the chapter '
+        "pivots to that standard list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.13 — Saṅkhittasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, "Saṅkhitta", "In Brief",
+    vagga=VAGGA_2,
+    meta_title="AN 5.13 — In Brief | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Saṅkhittasutta — "
+        "the chapter's pivot from the sekhabala to the standard five powers: faith, energy, "
+        "mindfulness, immersion, and wisdom, the list shared with the thirty-seven aids to "
+        "awakening. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming a second five-item list, sharing this chapter's own "
+                 "title, 'Saṅkhitta', with AN 5.1"),
+        ("Length", "~30 seconds to read"),
+        ("Northern parallel", "The five powers (bala) are among the most widely attested lists "
+                              "across the Chinese Āgamas and Abhidharma literature, as part of the "
+                              "thirty-seven aids to awakening; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, but the moment this "
+                       "chapter has been building toward since AN 4.163"),
+    ],
+    why=(
+        "This is the moment flagged at AN 4.163, and again at AN 5.1: the chapter finally states "
+        "the <em>other</em> five-item list, the one that actually belongs to the thirty-seven aids "
+        "to awakening. Faith, energy, mindfulness, immersion, wisdom &mdash; not faith, conscience, "
+        "prudence, energy, wisdom. Two of the five names are shared; two are different; one, faith, "
+        "recurs unchanged in every version this series has met. The discourse reuses AN 5.1&rsquo;s "
+        "own title, <em>Saṅkhitta</em>, and even its exact sentence structure, changing only the "
+        "list inside it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are five powers &mdash; faith, energy, mindfulness, immersion, wisdom &mdash; "
+            "named in a single sentence with no elaboration, exactly as AN 5.1 named the sekhabala."]),
+        ("The swap, stated precisely", [
+            "Against the sekhabala&rsquo;s <em>saddhā, hiri, ottappa, vīriya, paññā</em>, this "
+            "list gives <em>saddhā, vīriya, sati, samādhi, paññā</em>. Faith and wisdom are "
+            "unchanged at either end; energy moves from fourth position to second; conscience and "
+            "prudence are dropped entirely, replaced by mindfulness and immersion. This is exactly "
+            "the substitution AN 4.163 first flagged and AN 5.1 restated in summary; here, for the "
+            "first time in this series, the substituted list gets its own discourse rather than "
+            "being mentioned as a comparison."]),
+        ("Why call both discourses &lsquo;In Brief&rsquo;", [
+            "Reusing AN 5.1&rsquo;s title is not an accident of naming. It signals that this "
+            "discourse is doing for the standard bala exactly what AN 5.1 did for the sekhabala "
+            "&mdash; and, as AN 5.14&rsquo;s title <em>Vitthata</em> confirms a discourse later, "
+            "the same brief-then-detailed pairing that opened the last chapter opens this list "
+            "within the current one. The collection reuses its own structural habits deliberately, "
+            "not only its content."]),
+        ("Why this list, and not the sekhabala, is the more widely known one", [
+            "This five-item set, unlike the sekhabala, recurs as one of the standard groups making "
+            "up the thirty-seven aids to awakening (<em>bodhipakkhiyā dhammā</em>), alongside the "
+            "four kinds of mindfulness meditation, the four right efforts, the four bases of "
+            "psychic power, the five faculties (an identically worded list under a different "
+            "name), and the seven awakening factors. A reader meeting &lsquo;the five "
+            "powers&rsquo; without qualification elsewhere in the canon should expect this list, "
+            "not the sekhabala &mdash; which makes this chapter&rsquo;s earlier use of the "
+            "sekhabala, under the same English chapter title, worth remembering as the exception "
+            "rather than the rule."]),
+        ("What follows", [
+            "AN 5.14 expands each of these five in turn, including, for immersion, the full "
+            "four-absorption formula this series has met many times before. AN 5.15 will then "
+            "locate each of the five within a different four-item list of its own, tying this "
+            "whole set to material spanning most of the aids to awakening."]),
+    ],
+    terms=[
+        ("bala",
+         "&ldquo;power&rdquo; &mdash; the general term naming both this list and the sekhabala; "
+         "context, not the word itself, tells a reader which set is meant."),
+        ("satibalaṁ",
+         "&ldquo;power of mindfulness&rdquo; &mdash; one of the two items replacing hiri and "
+         "ottappa in this version of the five powers."),
+        ("samādhibalaṁ",
+         "&ldquo;power of immersion&rdquo; &mdash; the second replacement, to be defined at AN "
+         "5.14 by the full four-absorption formula."),
+        ("bodhipakkhiyā dhammā",
+         "&ldquo;aids to awakening&rdquo; &mdash; the thirty-seven-item framework this five-power "
+         "list belongs to, unlike the sekhabala."),
+        ("indriya",
+         "&ldquo;faculty&rdquo; &mdash; the near-identical five-item list sharing this set&rsquo;s "
+         "exact five terms under a different name within the aids to awakening."),
+    ],
+    text_intro=(
+        "The discourse in full: the five powers, named once, with no elaboration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.13:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five items does AN 5.13 name?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom — the sekhabala again",
+             "Faith, energy, mindfulness, immersion, wisdom — the standard five faculties/powers",
+             "Ethics, immersion, wisdom, freedom",
+             "A new sixth list unrelated to any earlier discourse"],
+         "correct": 1,
+         "expl": "The list first flagged as distinct at AN 4.163, now given its own discourse."},
+        {"q": "Which two items are unchanged between the sekhabala and this list?",
+         "opts": [
+             "Conscience and prudence",
+             "Faith and wisdom",
+             "Energy and mindfulness",
+             "None — all five items differ"],
+         "correct": 1,
+         "expl": "Saddhā and paññā anchor both versions of the list."},
+        {"q": "Which two items does this list have that the sekhabala does not?",
+         "opts": [
+             "Conscience and prudence",
+             "Mindfulness and immersion",
+             "Freedom and knowledge",
+             "Ethics and generosity"],
+         "correct": 1,
+         "expl": "Sati and samādhi replace hiri and ottappa."},
+        {"q": "Why does AN 5.13 share its title, 'Saṅkhitta', with AN 5.1?",
+         "opts": [
+             "By pure coincidence, with no significance",
+             "It signals this discourse does for the standard bala what AN 5.1 did for the "
+             "sekhabala — a deliberate reuse of the same brief-then-detailed pairing",
+             "Because the two discourses are actually identical texts",
+             "Because AN 5.1 was misnamed and this corrects it"],
+         "correct": 1,
+         "expl": "The collection reuses its own structural habits, not only its content."},
+        {"q": "What larger framework does this five-power list belong to, unlike the sekhabala?",
+         "opts": [
+             "It belongs to no larger framework",
+             "The thirty-seven aids to awakening (bodhipakkhiyā dhammā)",
+             "The Vinaya rules for nuns",
+             "The four noble truths exclusively"],
+         "correct": 1,
+         "expl": "Alongside mindfulness meditation, right efforts, bases of psychic power, faculties, and awakening factors."},
+        {"q": "What does the guide say a reader should expect when meeting 'the five powers' "
+              "without qualification elsewhere in the canon?",
+         "opts": [
+             "The sekhabala, since it appeared first in this series",
+             "This standard list — faith, energy, mindfulness, immersion, wisdom — since it is the "
+             "one belonging to the wider aids-to-awakening framework",
+             "Either list interchangeably, with no real distinction",
+             "Neither list; a third, unrelated set"],
+         "correct": 1,
+         "expl": "This chapter's earlier use of the sekhabala is flagged as the exception, not the rule."},
+        {"q": "What does AN 5.14, the next discourse, do with this list?",
+         "opts": [
+             "Nothing further — the list is dropped after AN 5.13",
+             "Expands each of the five in turn, including the full four-absorption formula for "
+             "immersion",
+             "Replaces it with yet another list",
+             "Returns to the sekhabala"],
+         "correct": 1,
+         "expl": "The 'in detail' companion this title's own name promises."},
+        {"q": "What does the near-identical list called 'indriya' share with this one?",
+         "opts": [
+             "Nothing; they are unrelated",
+             "The exact same five terms, under a different name, within the aids to awakening",
+             "Only the term for wisdom",
+             "It shares no terms at all"],
+         "correct": 1,
+         "expl": "Faculties and powers: the same five items, two different labels."},
+        {"q": "How long is this discourse compared to AN 5.1?",
+         "opts": [
+             "Much longer",
+             "About the same — a single sentence naming the five, with no elaboration",
+             "AN 5.13 has no text at all",
+             "AN 5.13 is ten times longer"],
+         "correct": 1,
+         "expl": "The same terse, bare-list form as its namesake."},
+        {"q": "Where is AN 5.13 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Squirrels' Sanctuary",
+             "Campā"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern so far."},
+    ],
+    marginalia=[
+        ("The swap", [
+            "sekhabala: hiri, ottappa",
+            "&darr;",
+            "standard: sati, samādhi",
+            "&mdash; faith, wisdom, unchanged",
+        ]),
+        ("Same title, new list", [
+            "AN 5.1: Saṅkhitta",
+            "&mdash; sekhabala",
+            "AN 5.13: Saṅkhitta",
+            "&mdash; standard bala",
+        ]),
+        ("The wider framework", [
+            "bodhipakkhiyā dhammā:",
+            "37 aids to awakening",
+            "&mdash; this list belongs here",
+        ]),
+        ("Cross-references", [
+            "AN 4.163 &middot; first flagged the split",
+            "AN 5.1 &middot; the sekhabala's own page",
+            "AN 5.14 &middot; next: in detail",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.13/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.1.html">AN 5.1 &middot; In Brief</a> &mdash; this discourse&rsquo;s namesake '
+        "and structural twin, for the sekhabala instead.",
+        '<a href="an-4.163.html">AN 4.163 &middot; Ugly</a> &mdash; where the split between these '
+        "two five-item lists was first flagged in this series.",
+        '<a href="an-5.14.html">AN 5.14 &middot; In Detail</a> &mdash; next, expanding each of '
+        "these five powers in turn.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.14 — Vitthatasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, "Vitthata", "In Detail",
+    vagga=VAGGA_2,
+    meta_title="AN 5.14 — In Detail | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Vitthatasutta — "
+        "the standard five powers defined in turn, including the full four-absorption formula "
+        "for the power of immersion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "The same five named again, then each defined in turn by a fixed formula"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The individual definitions, especially the four absorptions, are "
+                              "pan-canonical formulas found across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the chapter's most detailed "
+                       "discourse so far, carrying the full four-jhāna formula"),
+    ],
+    why=(
+        "AN 5.13 promised detail and this discourse delivers it, following the identical structure "
+        "AN 5.2 used for the sekhabala: each power named, then defined by <em>and what is the "
+        "power of&hellip;</em>, closed by <em>this is called the power of&hellip;</em>. Faith and "
+        "wisdom are defined here in the exact same words as AN 5.2 &mdash; this discourse adds "
+        "nothing new for either. What is new is mindfulness and immersion, taking the place hiri "
+        "and ottappa held in the earlier version, and immersion in particular brings the full "
+        "four-absorption formula into this chapter for the first time."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Faith and wisdom are defined identically to AN 5.2; energy is defined identically to "
+            "AN 5.2 as well; mindfulness is defined as utmost alertness and the ability to recall "
+            "what was said and done long ago; immersion is defined as the four absorptions in "
+            "full."]),
+        ("Three definitions inherited without change", [
+            "Faith (the nine-quality recollection of the Buddha), energy (roused up for giving up "
+            "the unskillful and taking up the skillful), and wisdom (insight into arising and "
+            "passing away) are worded here exactly as AN 5.2 worded them for the sekhabala. This "
+            "discourse does not redefine any of the three terms the two lists share; a reader who "
+            "has read AN 5.2 can move through these three paragraphs quickly, checking only that "
+            "the wording matches."]),
+        ("Mindfulness, defined by memory", [
+            "The power of mindfulness is defined specifically by recall: <em>utmost mindfulness "
+            "and alertness</em>, able to <em>remember and recall what was said and done long "
+            "ago</em>. This is a narrower definition than &lsquo;mindfulness&rsquo; sometimes "
+            "carries in translation &mdash; not present-moment awareness in general, but "
+            "specifically the capacity to retain and retrieve distant memory, tested against a "
+            "concrete standard rather than described introspectively."]),
+        ("Immersion, defined by the four absorptions in full", [
+            "Where the sekhabala left immersion out entirely, this list defines the power of "
+            "immersion with the complete, formulaic description of the four <em>jhāna</em> "
+            "&mdash; rapture and bliss born of seclusion; rapture and bliss born of immersion with "
+            "internal clarity; equanimous bliss, mindful and aware; and finally, beyond pleasure "
+            "and pain, pure equanimity and mindfulness. This exact formula appeared already in "
+            "this series, discussed at length at <a href=\"an-4.163.html\">AN 4.163</a>; it is not "
+            "re-explained paragraph by paragraph here, since the earlier page already did that "
+            "work."]),
+        ("What the definitions together imply", [
+            "Laid side by side, the standard five powers cover a wider practical range than the "
+            "sekhabala did: a devotional object (faith), a directional effort (energy), a memory "
+            "capacity (mindfulness), a set of four meditative attainments (immersion), and a "
+            "specific insight (wisdom). AN 5.15, immediately following, will make this range "
+            "explicit by locating each of the five inside a different one of the canon&rsquo;s "
+            "other major four-item lists."]),
+    ],
+    terms=[
+        ("satimā",
+         "&ldquo;mindful&rdquo; &mdash; qualified here by paramena satinepakkena, utmost "
+         "mindfulness and alertness, and defined specifically by the capacity for distant recall."),
+        ("cirakataṁ cirabhāsitaṁ",
+         "&ldquo;what was done and said long ago&rdquo; &mdash; the concrete test this discourse "
+         "attaches to the power of mindfulness, rather than a general description."),
+        ("paṭhamaṁ jhānaṁ",
+         "&ldquo;the first absorption&rdquo; &mdash; rapture and bliss born of seclusion, the first "
+         "of the four states defining the power of immersion, fully discussed already at AN 4.163."),
+        ("vitakkavicāra",
+         "&ldquo;placing the mind and keeping it connected&rdquo; &mdash; present in the first "
+         "absorption and stilled by the second, marking the transition between the two."),
+        ("upekkhāsatipārisuddhi",
+         "&ldquo;pure equanimity and mindfulness&rdquo; &mdash; the fourth absorption's defining "
+         "quality, beyond both pleasure and pain."),
+    ],
+    text_intro=(
+        "The discourse in full: the five named again, then each defined in turn, including the "
+        "complete four-absorption formula for immersion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five, named again"),
+        ("p", "&sect;1", "an5.14:1.1-1.3"),
+        ("h3", "The power of faith"),
+        ("p", "&sect;2", "an5.14:2.1-2.4"),
+        ("h3", "The power of energy"),
+        ("p", "&sect;3", "an5.14:3.1-3.3"),
+        ("h3", "The power of mindfulness"),
+        ("p", "&sect;4", "an5.14:4.1-4.3"),
+        ("h3", "The power of immersion"),
+        ("p", "&sect;5", "an5.14:5.1-5.6"),
+        ("h3", "The power of wisdom"),
+        ("p", "&sect;6", "an5.14:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How are faith, energy, and wisdom defined in AN 5.14 compared to AN 5.2?",
+         "opts": [
+             "Completely differently, with new formulas",
+             "Identically — the same nine-quality faith formula, the same energy formula, and the "
+             "same insight-wisdom formula",
+             "Only faith is defined the same way; the others differ",
+             "AN 5.14 gives no definitions at all"],
+         "correct": 1,
+         "expl": "The three shared terms between the two lists get the identical treatment both times."},
+        {"q": "How is the power of mindfulness defined here?",
+         "opts": [
+             "As present-moment awareness in general",
+             "Specifically by the capacity for distant recall — remembering what was said and done "
+             "long ago",
+             "As the ability to sit still without moving",
+             "As a synonym for wisdom"],
+         "correct": 1,
+         "expl": "A narrower, more concrete definition than 'mindfulness' sometimes carries."},
+        {"q": "How is the power of immersion defined?",
+         "opts": [
+             "As a single moment of calm",
+             "By the complete, formulaic description of all four absorptions",
+             "As the absence of thought entirely, with no further detail",
+             "Immersion is not defined in this discourse"],
+         "correct": 1,
+         "expl": "The full four-jhāna formula, already discussed at length at AN 4.163."},
+        {"q": "Where was the four-absorption formula already discussed at length in this series?",
+         "opts": [
+             "It has never appeared before this page",
+             "AN 4.163",
+             "AN 5.1",
+             "AN 2.1–10"],
+         "correct": 1,
+         "expl": "The guide cross-references rather than re-explaining the formula paragraph by paragraph."},
+        {"q": "What replaces hiri and ottappa in this version of the five powers, compared to the "
+              "sekhabala?",
+         "opts": [
+             "Ethics and generosity",
+             "Mindfulness and immersion",
+             "Nothing; the list is otherwise identical",
+             "Faith and energy"],
+         "correct": 1,
+         "expl": "The substitution first flagged at AN 4.163, now given full definitions."},
+        {"q": "What does the guide say the five definitions together cover, when laid side by "
+              "side?",
+         "opts": [
+             "Five nearly identical restatements of the same idea",
+             "A wide practical range — a devotional object, a directional effort, a memory "
+             "capacity, four meditative attainments, and a specific insight",
+             "Only doctrinal categories, with no practical content",
+             "Nothing distinguishable between the five"],
+         "correct": 1,
+         "expl": "A genuinely varied set of capacities, not five synonyms."},
+        {"q": "What does AN 5.15, the next discourse, do with this same list?",
+         "opts": [
+             "Nothing further; the list is dropped",
+             "Locates each of the five inside a different one of the canon's other major four-item "
+             "lists",
+             "Replaces the five with an entirely new set",
+             "Returns to the sekhabala one more time"],
+         "correct": 1,
+         "expl": "Making the range implied by AN 5.14's definitions explicit."},
+        {"q": "What is the defining quality of the fourth absorption, as given here?",
+         "opts": [
+             "Intense rapture and bliss",
+             "Beyond pleasure and pain, with pure equanimity and mindfulness",
+             "Complete unconsciousness",
+             "Physical stillness only, with the mind still active"],
+         "correct": 1,
+         "expl": "Upekkhāsatipārisuddhi — the formula's final term."},
+        {"q": "What marks the transition from the first to the second absorption in this formula?",
+         "opts": [
+             "The stilling of placing the mind and keeping it connected (vitakkavicāra)",
+             "The arising of physical pain",
+             "A change of physical posture",
+             "The ending of all mental activity"],
+         "correct": 0,
+         "expl": "Present in the first absorption, stilled by the second."},
+        {"q": "Where is AN 5.14 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "Rājagaha",
+             "Kapilavatthu"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern so far."},
+    ],
+    marginalia=[
+        ("Five, defined", [
+            "faith &mdash; unchanged from 5.2",
+            "energy &mdash; unchanged",
+            "mindfulness &mdash; distant recall",
+            "immersion &mdash; four jhānas",
+            "wisdom &mdash; unchanged",
+        ]),
+        ("The four absorptions", [
+            "1st: rapture, bliss, seclusion",
+            "2nd: rapture, bliss, clarity",
+            "3rd: equanimous bliss",
+            "4th: pure equanimity",
+        ]),
+        ("Inherited, not new", [
+            "faith, energy, wisdom:",
+            "identical to AN 5.2",
+        ]),
+        ("Cross-references", [
+            "AN 5.2 &middot; the sekhabala's own detail",
+            "AN 4.163 &middot; the jhāna formula in full",
+            "AN 5.15 &middot; next: located in fours",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.14/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.2.html">AN 5.2 &middot; In Detail</a> &mdash; this discourse&rsquo;s '
+        "structural twin, defining the sekhabala instead.",
+        '<a href="an-4.163.html">AN 4.163 &middot; Ugly</a> &mdash; where the four-absorption '
+        "formula used here for immersion was already discussed at length.",
+        '<a href="an-5.15.html">AN 5.15 &middot; Should Be Seen</a> &mdash; next, locating each of '
+        "these five powers within a different four-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.15 — Daṭṭhabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, "Daṭṭhabba", "Should Be Seen",
+    vagga=VAGGA_2,
+    meta_title="AN 5.15 — Should Be Seen | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Daṭṭhabbasutta — each "
+        "of the five powers located inside a different one of the canon's other major four-item "
+        "lists: the four factors of stream-entry, the four right efforts, the four kinds of "
+        "mindfulness meditation, the four absorptions, and the four noble truths. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "Five question-and-answer pairs, one per power, each naming a different fourfold "
+                 "list as the place that power 'should be seen'"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Cross-mapping the powers onto other core doctrinal fours is a "
+                              "structural device widespread across the Chinese Āgamas and "
+                              "Abhidharma; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short lines, but each answer "
+                       "opens onto a large body of material this series has already covered"),
+    ],
+    why=(
+        "AN 5.14 defined the five powers one at a time, in isolation. This discourse does "
+        "something more ambitious: it asks, for each power, <em>where should it be seen</em>, and "
+        "answers with a different major fourfold category every time &mdash; stream-entry, right "
+        "effort, mindfulness meditation, absorption, the noble truths. Five powers, five distinct "
+        "fours. The discourse is, in effect, a compressed map of how one five-item list touches "
+        "five different regions of the wider teaching."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Faith should be seen in the four factors of stream-entry; energy in the four right "
+            "efforts; mindfulness in the four kinds of mindfulness meditation; immersion in the "
+            "four absorptions; wisdom in the four noble truths."]),
+        ("A map, not five new definitions", [
+            "This discourse does not redefine any of the five powers &mdash; AN 5.14 already did "
+            "that. Instead it answers a different question: not <em>what is</em> this power, but "
+            "<em>where is it visible</em>, in practice, at scale. The verb <em>daṭṭhabba</em>, "
+            "should be seen, treats each power as something observable in a larger, already "
+            "familiar structure rather than as an abstraction requiring further definition."]),
+        ("Four fours, briefly placed", [
+            "The <em>sotāpattiyaṅga</em>, already discussed at "
+            "<a href=\"an-4.52.html\">AN 4.52</a>, are the qualities of a stream-enterer; the "
+            "<em>sammappadhāna</em>, discussed at <a href=\"an-4.69.html\">AN 4.69</a>, are the "
+            "four right efforts; the <em>satipaṭṭhāna</em>, discussed at "
+            "<a href=\"an-4.274.html\">AN 4.274</a>, are the four kinds of mindfulness meditation; "
+            "and the four absorptions were discussed at length already this chapter, at AN 5.14 "
+            "and, before that, AN 4.163. Each of those earlier pages does the explaining; this "
+            "discourse only does the pointing."]),
+        ("The fifth pairing, left unglossed elsewhere", [
+            "Wisdom&rsquo;s placement in the four noble truths is the one pairing this series has "
+            "not yet given its own dedicated page. That is worth noting rather than papering over: "
+            "the four noble truths are foundational enough in the wider canon that this series, so "
+            "far concerned with the numbered discourses specifically, has had less occasion to "
+            "treat them as their own subject. This discourse is, so far, the fullest treatment "
+            "they have received here."]),
+        ("What the five pairings add up to", [
+            "Read together, the five answers cover an unusually wide swath of the aids to "
+            "awakening in a single short discourse: stream-entry factors, right efforts, "
+            "mindfulness meditation, absorption, and the noble truths. A mendicant who has "
+            "developed the five powers, on this discourse&rsquo;s account, is not developing five "
+            "isolated skills but is visibly active across most of the frameworks this whole "
+            "tradition organizes its practice around."]),
+    ],
+    terms=[
+        ("sotāpattiyaṅga",
+         "&ldquo;factor of stream-entry&rdquo; &mdash; the fourfold set faith is located within "
+         "here, already discussed at AN 4.52."),
+        ("sammappadhāna",
+         "&ldquo;right effort&rdquo; &mdash; the fourfold set energy is located within, already "
+         "discussed at AN 4.69."),
+        ("satipaṭṭhāna",
+         "&ldquo;establishment of mindfulness&rdquo; &mdash; the fourfold set mindfulness is "
+         "located within, already discussed at AN 4.274."),
+        ("daṭṭhabba",
+         "&ldquo;should be seen&rdquo; &mdash; the verb giving this discourse its title, treating "
+         "each power as observable within a larger structure rather than requiring further "
+         "definition."),
+        ("ariyasacca",
+         "&ldquo;noble truth&rdquo; &mdash; the fourfold set wisdom is located within; unlike the "
+         "other four sets, not yet given its own dedicated page in this series."),
+    ],
+    text_intro=(
+        "The discourse in full: the five powers named, then each located within a different "
+        "fourfold category. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five, named"),
+        ("p", "&sect;1", "an5.15:1.1-1.3"),
+        ("h3", "Faith, in the four factors of stream-entry"),
+        ("p", "&sect;2", "an5.15:1.4-1.5"),
+        ("h3", "Energy, in the four right efforts"),
+        ("p", "&sect;3", "an5.15:1.7-1.8"),
+        ("h3", "Mindfulness, in the four kinds of mindfulness meditation"),
+        ("p", "&sect;4", "an5.15:1.10-1.11"),
+        ("h3", "Immersion, in the four absorptions"),
+        ("p", "&sect;5", "an5.15:1.13-1.14"),
+        ("h3", "Wisdom, in the four noble truths"),
+        ("p", "&sect;6", "an5.15:1.16-1.17"),
+        ("h3", "Closing"),
+        ("p", "&sect;7", "an5.15:1.19"),
+    ],
+    quiz=[
+        {"q": "What question does AN 5.15 ask about each of the five powers?",
+         "opts": [
+             "What is this power, in full definition",
+             "Where should this power be seen — daṭṭhabba — within a larger fourfold category",
+             "Who first taught this power",
+             "How long does this power take to develop"],
+         "correct": 1,
+         "expl": "A map of visibility, not a set of new definitions."},
+        {"q": "Where should the power of faith be seen, according to this discourse?",
+         "opts": [
+             "In the four right efforts",
+             "In the four factors of stream-entry",
+             "In the four noble truths",
+             "In the four absorptions"],
+         "correct": 1,
+         "expl": "Already discussed at AN 4.52."},
+        {"q": "Where should the power of energy be seen?",
+         "opts": [
+             "In the four kinds of mindfulness meditation",
+             "In the four right efforts",
+             "In the four noble truths",
+             "In the four factors of stream-entry"],
+         "correct": 1,
+         "expl": "Sammappadhāna, already discussed at AN 4.69."},
+        {"q": "Where should the power of wisdom be seen?",
+         "opts": [
+             "In the four absorptions",
+             "In the four right efforts",
+             "In the four noble truths",
+             "In the four factors of stream-entry"],
+         "correct": 2,
+         "expl": "The one pairing this series has not yet treated as its own dedicated subject."},
+        {"q": "Does this discourse redefine any of the five powers?",
+         "opts": [
+             "Yes, all five are redefined from scratch",
+             "No — AN 5.14 already defined them; this discourse only locates them",
+             "Only wisdom is redefined",
+             "Only faith is redefined"],
+         "correct": 1,
+         "expl": "A different question is being asked here: not what, but where visible."},
+        {"q": "According to the guide, why has the four noble truths pairing not been given its "
+              "own dedicated page elsewhere in this series?",
+         "opts": [
+             "Because the four noble truths are not part of the canon",
+             "Because this series, concerned specifically with the numbered discourses, has had "
+             "less occasion to treat them as their own subject until now",
+             "Because the four noble truths are considered a later addition",
+             "Because they are identical to the four right efforts"],
+         "correct": 1,
+         "expl": "This discourse is, so far, the fullest treatment they have received in this series."},
+        {"q": "Where was the four-absorption formula, used here for immersion, already discussed "
+              "at length in this series?",
+         "opts": [
+             "Nowhere before this page",
+             "AN 5.14 and, before that, AN 4.163",
+             "Only in a future, not-yet-written chapter",
+             "AN 2.1–10"],
+         "correct": 1,
+         "expl": "This discourse points to material already covered rather than re-explaining it."},
+        {"q": "What does the guide say a mendicant who has developed all five powers is doing, on "
+              "this discourse's account?",
+         "opts": [
+             "Developing five entirely isolated, unrelated skills",
+             "Visibly active across most of the frameworks the tradition organizes its practice "
+             "around — stream-entry, right effort, mindfulness, absorption, and the noble truths",
+             "Practicing only meditation, with nothing else relevant",
+             "Nothing observable in any other framework"],
+         "correct": 1,
+         "expl": "An unusually wide swath of the aids to awakening covered in one short discourse."},
+        {"q": "What form does the discourse take?",
+         "opts": [
+             "An extended narrative parable",
+             "Five question-and-answer pairs, one per power",
+             "A dialogue between two named monks",
+             "A single unbroken paragraph with no structure"],
+         "correct": 1,
+         "expl": "Kattha ca... daṭṭhabbaṁ, asked and answered five times in a row."},
+        {"q": "Where is AN 5.15 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Great Wood at Vesālī",
+             "Ghosita's Monastery"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern so far."},
+    ],
+    marginalia=[
+        ("The five mappings", [
+            "faith &rarr; stream-entry",
+            "energy &rarr; right efforts",
+            "mindfulness &rarr; satipaṭṭhāna",
+            "immersion &rarr; 4 jhānas",
+            "wisdom &rarr; noble truths",
+        ]),
+        ("Already covered", [
+            "AN 4.52, 4.69, 4.274,",
+            "AN 4.163 &amp; 5.14",
+            "&mdash; four of five, explained",
+        ]),
+        ("One left fresh", [
+            "the four noble truths:",
+            "not yet its own page,",
+            "until this discourse",
+        ]),
+        ("Cross-references", [
+            "AN 5.14 &middot; the five, defined",
+            "AN 4.52, 4.69, 4.274 &middot; the fours",
+            "AN 5.16 &middot; next: the peak, again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.15/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.14.html">AN 5.14 &middot; In Detail</a> &mdash; the previous discourse, '
+        "where these same five powers were fully defined.",
+        '<a href="an-4.52.html">AN 4.52</a> &mdash; the four factors of stream-entry, faith&rsquo;s '
+        "home in this discourse's mapping.",
+        '<a href="an-5.16.html">AN 5.16 &middot; The Peak, Again</a> &mdash; next, restating AN '
+        "5.12's simile for this list's own wisdom.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.16 — Punakūṭasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, "Punakūṭa", "The Peak, Again",
+    vagga=VAGGA_2,
+    meta_title="AN 5.16 — The Peak, Again | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Punakūṭasutta — AN "
+        "5.12's bungalow-peak simile restated, this time for the standard five powers rather "
+        "than the sekhabala, with the identical claim that wisdom is chief. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.12's formula and simile, restated word for word with the standard five "
+                 "powers in place of the sekhabala"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this variant"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief, its interest lying "
+                       "entirely in what it confirms rather than what it adds"),
+    ],
+    why=(
+        "The title says it plainly: <em>puna</em>, again. This discourse takes AN 5.12&rsquo;s "
+        "claim that wisdom is chief among the powers, and its bungalow-peak simile, and restates "
+        "both without change &mdash; except that the powers in question are now the standard five, "
+        "faith, energy, mindfulness, immersion, wisdom, rather than the sekhabala. It is the "
+        "clearest confirmation this chapter offers that its ranking of wisdom is not tied to one "
+        "particular five-item list, but survives the switch between the two."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Of the five powers &mdash; faith, energy, mindfulness, immersion, wisdom &mdash; "
+            "wisdom is the chief, holding and binding everything together, exactly as AN 5.12 said "
+            "of the sekhabala."]),
+        ("What changed, and what did not", [
+            "Compare the two discourses directly and the only substitution is the noun phrase "
+            "naming which five items are meant. The verbs, the simile, the ranking claim, even the "
+            "sentence structure are unchanged. This is a stronger form of repetition than anything "
+            "seen so far in the Fives &mdash; not a formula reused with one qualifier added, as at "
+            "AN 5.9, but the identical argument transplanted wholesale onto a different list."]),
+        ("Why this particular repetition earns its own discourse", [
+            "A skeptical reader might ask why the collection needed two separate discourses to "
+            "make one claim about two different lists, rather than a single discourse noting the "
+            "claim holds for both. The likely answer, consistent with the reasoning offered "
+            "already at AN 5.9, is that each five-item list circulates and is chanted as its own "
+            "self-contained unit; a claim about the sekhabala does not automatically transfer, in "
+            "oral practice, to the bala unless it is actually stated for the bala as well."]),
+        ("A ranking now doubly confirmed", [
+            "With this discourse, wisdom&rsquo;s status as chief has been claimed for both of this "
+            "chapter&rsquo;s five-item power lists, in the same words, using the same image. A "
+            "reader who has followed the chapter this far has now seen the strongest possible "
+            "statement, within this material, that whichever version of &lsquo;the five "
+            "powers&rsquo; is under discussion, wisdom is being treated as what completes and "
+            "secures the rest."]),
+        ("What follows", [
+            "AN 5.17 turns the chapter toward a different concern entirely: not the five powers at "
+            "all, but a different five-item set &mdash; ethics, immersion, wisdom, freedom, and "
+            "the knowledge and vision of freedom &mdash; and whether a mendicant who has them "
+            "shares them with others. The four discourses closing this chapter, AN 5.17 through "
+            "5.20, form their own self-contained unit."]),
+    ],
+    terms=[
+        ("puna",
+         "&ldquo;again&rdquo; &mdash; the word giving this discourse its title, marking it as a "
+         "deliberate restatement rather than new material."),
+        ("kūṭa",
+         "&ldquo;peak, roof-ridge&rdquo; &mdash; the identical image from AN 5.12, transplanted "
+         "here without change."),
+        ("bala",
+         "&ldquo;power&rdquo; &mdash; here unambiguously the standard five powers, following the "
+         "pivot made at AN 5.13."),
+        ("agga",
+         "&ldquo;chief, foremost&rdquo; &mdash; the ranking word applied to wisdom a second time, "
+         "now for a second five-item list."),
+        ("saṅgāhika saṅghātaniya",
+         "&ldquo;that which holds together, that which binds together&rdquo; &mdash; the paired "
+         "verbs from AN 5.12, repeated here word for word."),
+    ],
+    text_intro=(
+        "The discourse in full: the standard five powers restated, wisdom named chief a second "
+        "time, and the identical bungalow simile. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Wisdom, the chief power, restated"),
+        ("p", "&sect;1", "an5.16:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What does the title 'Punakūṭa' mean, and what does it signal?",
+         "opts": [
+             "'New peak' — an entirely new claim",
+             "'The peak, again' — a deliberate restatement of AN 5.12's claim and simile",
+             "'False peak' — a claim being corrected",
+             "'Distant peak' — unrelated content"],
+         "correct": 1,
+         "expl": "Puna, again, marking this as repetition rather than new material."},
+        {"q": "What changes between AN 5.12 and AN 5.16?",
+         "opts": [
+             "Nothing at all — the two discourses are identical in every respect",
+             "Only which five-item list is named — sekhabala at AN 5.12, the standard bala here",
+             "The ranking itself changes; a different power is named chief",
+             "The simile changes entirely"],
+         "correct": 1,
+         "expl": "Verbs, simile, and ranking claim unchanged; only the noun phrase for which five items is meant."},
+        {"q": "How does the guide characterize this repetition compared to AN 5.9's modification of "
+              "AN 5.8?",
+         "opts": [
+             "As identical in kind — both add a small qualifier",
+             "As a stronger form of repetition — the identical argument transplanted wholesale onto "
+             "a different list, not a formula with one qualifier added",
+             "As entirely unrelated phenomena",
+             "AN 5.16 is described as adding much more than AN 5.9 did"],
+         "correct": 1,
+         "expl": "A word-for-word transplant rather than a modification."},
+        {"q": "Why does the guide suggest the collection needed a separate discourse for this "
+              "repeated claim, rather than one discourse noting it for both lists?",
+         "opts": [
+             "There is no plausible reason, and it is treated as a pure copying error",
+             "Each five-item list circulates as its own chanted unit; a claim doesn't automatically "
+             "transfer between lists in oral practice unless stated for each",
+             "Because AN 5.12 was considered incomplete",
+             "Because the two lists are considered doctrinally incompatible"],
+         "correct": 1,
+         "expl": "The same reasoning already offered at AN 5.9 for a similar case."},
+        {"q": "After AN 5.16, for how many of this chapter's five-item power lists has wisdom now "
+              "been claimed as chief?",
+         "opts": [
+             "None", "Only the sekhabala", "Both the sekhabala and the standard bala",
+             "Three separate lists"],
+         "correct": 2,
+         "expl": "The strongest possible statement, within this material, of wisdom's completing role."},
+        {"q": "What does AN 5.17, the next discourse, turn the chapter toward?",
+         "opts": [
+             "A third five-item power list",
+             "A different five-item set entirely — ethics, immersion, wisdom, freedom, and the "
+             "knowledge and vision of freedom — and whether it is shared with others",
+             "A return to the tathāgatabala",
+             "The end of the chapter with no further content"],
+         "correct": 1,
+         "expl": "AN 5.17–20 form the chapter's own closing unit, on a related but distinct topic."},
+        {"q": "Is the bungalow-peak simile itself altered in any way at AN 5.16?",
+         "opts": [
+             "Yes, extensively rewritten",
+             "No — it is repeated word for word from AN 5.12",
+             "Only the roof material is changed",
+             "The simile is dropped entirely"],
+         "correct": 1,
+         "expl": "The identical image, transplanted onto the new list."},
+        {"q": "What are the five powers named in this discourse?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "Ethics, immersion, wisdom, freedom",
+             "A new sixth list"],
+         "correct": 1,
+         "expl": "The standard bala, following the chapter's pivot at AN 5.13."},
+        {"q": "How long is AN 5.16 compared to AN 5.12?",
+         "opts": [
+             "Much shorter, missing the simile",
+             "About the same length, containing the full formula and simile in one paragraph",
+             "Much longer, with added explanation",
+             "AN 5.16 has no text at all"],
+         "correct": 1,
+         "expl": "A close match, since the content is a direct restatement."},
+        {"q": "Where is AN 5.16 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "Isipatana",
+             "The Mango Grove at Rājagaha"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern so far."},
+    ],
+    marginalia=[
+        ("Twice claimed", [
+            "AN 5.12: sekhabala",
+            "&mdash; wisdom, chief",
+            "AN 5.16: standard bala",
+            "&mdash; wisdom, chief",
+        ]),
+        ("Unchanged", [
+            "the simile,",
+            "the verbs,",
+            "the ranking &mdash; all the same",
+        ]),
+        ("Only difference", [
+            "which five items",
+            "are being named",
+        ]),
+        ("Cross-references", [
+            "AN 5.12 &middot; the first statement",
+            "AN 5.9 &middot; why repeat in full",
+            "AN 5.17 &middot; next: a new topic",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.16/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.12.html">AN 5.12 &middot; Peak</a> &mdash; the discourse this page restates '
+        "word for word, for the sekhabala instead.",
+        '<a href="an-5.9.html">AN 5.9 &middot; Disrespect (1st)</a> &mdash; the earlier case of a '
+        "formula restated in full for oral-transmission reasons.",
+        '<a href="an-5.17.html">AN 5.17 &middot; One&rsquo;s Own Welfare</a> &mdash; next, and the '
+        "start of this chapter's closing four-discourse unit.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.17 — Paṭhamahitasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, "Paṭhamahita", "One&rsquo;s Own Welfare",
+    vagga=VAGGA_2,
+    meta_title="AN 5.17 — One's Own Welfare | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Hitasutta — a "
+        "mendicant personally accomplished in ethics, immersion, wisdom, freedom, and the "
+        "knowledge and vision of freedom, but who does not encourage others in them, is said to "
+        "practice for their own welfare only. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A five-part accomplishment, each item paired with a failure to encourage others "
+                 "in it, opening a four-discourse unit closing the chapter"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Ethics, immersion, wisdom, freedom, and the knowledge and vision of "
+                              "freedom correspond closely to the wǔfēn fǎshēn 五分法身, the "
+                              "'five-part dharma body' of ethics, immersion, wisdom, liberation, "
+                              "and the knowledge and vision of liberation, a formula well attested "
+                              "in Chinese Buddhist literature and commentary"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; introduces a new five-item set "
+                       "distinct from every list this chapter has used so far"),
+    ],
+    why=(
+        "This discourse opens the chapter's final unit by dropping the powers entirely and "
+        "introducing a different, and in some ways more consequential, five-item set: personal "
+        "accomplishment in ethics, immersion, wisdom, freedom, and the knowledge and vision of "
+        "freedom. A mendicant who has all five but keeps them to themselves &mdash; personally "
+        "accomplished, but <em>not encouraging others</em> &mdash; is said to be practicing for "
+        "their own welfare only. Attainment alone, on this account, is not the whole of what a "
+        "mendicant's life is asked to do."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant personally accomplished in ethics, immersion, wisdom, freedom, and the "
+            "knowledge and vision of freedom, but who does not encourage others to develop the "
+            "same five, is practicing for their own welfare but not that of others."]),
+        ("A new list, worth naming precisely", [
+            "<em>Sīla, samādhi, paññā, vimutti, vimuttiñāṇadassana</em> &mdash; ethics, immersion, "
+            "wisdom, freedom, and the knowledge and vision of freedom &mdash; is a five-item "
+            "sequence distinct from both the sekhabala and the standard bala this chapter has used "
+            "so far. It closely resembles the fourfold sequence that opened AN 4.1 in the last "
+            "nipāta &mdash; ethics, immersion, wisdom, freedom &mdash; with one further item "
+            "appended: not just freedom itself, but the knowing and seeing that one is free."]),
+        ("A well-attested formula beyond this collection", [
+            "This exact five-part sequence corresponds closely to what became known in Chinese "
+            "Buddhist literature as the <em>wǔfēn fǎshēn</em> 五分法身, the &lsquo;five-part "
+            "dharma-body&rsquo;: 戒 ethics, 定 immersion, 慧 wisdom, 解脫 liberation, and 解脫知見 "
+            "the knowledge and vision of liberation. Where this reading guide has generally hedged "
+            "its Northern-parallel claims across the collection, this is one of the more solid "
+            "correspondences available: the same five items, in the same order, doing comparable "
+            "work as a description of what a fully accomplished practitioner has attained."]),
+        ("The structure of the whole unit", [
+            "AN 5.17 through 5.20 run through every logical combination of two variables: is the "
+            "mendicant personally accomplished, and do they encourage others. AN 5.17 gives "
+            "yes-and-no; AN 5.18, the next discourse, gives no-and-yes; AN 5.19 gives no-and-no; "
+            "AN 5.20 gives yes-and-yes, closing the chapter. Reading all four in sequence is more "
+            "informative than reading any one alone, since the four cases only become a complete "
+            "picture together."]),
+        ("What this discourse implies, read on its own", [
+            "It is worth sitting with what AN 5.17 is actually saying before the fuller picture "
+            "arrives: personal attainment, however genuine, is explicitly described here as only "
+            "half of welfare when it is not shared. The discourse does not call this a failure or "
+            "a fault &mdash; it does not criticize the mendicant it describes &mdash; but it does "
+            "decline to call their practice complete."]),
+    ],
+    terms=[
+        ("sīlasampanno",
+         "&ldquo;accomplished in ethics&rdquo; &mdash; the first of five personal accomplishments "
+         "named in this discourse."),
+        ("vimutti",
+         "&ldquo;freedom, liberation&rdquo; &mdash; the fourth item, already met as the culmination "
+         "of AN 4.1's own fourfold list in the previous nipāta."),
+        ("vimuttiñāṇadassana",
+         "&ldquo;the knowledge and vision of freedom&rdquo; &mdash; the fifth item, added beyond "
+         "AN 4.1's four: not only being free, but knowing and seeing that one is."),
+        ("samādapeti",
+         "&ldquo;encourages, instigates&rdquo; &mdash; the verb whose absence, paired with "
+         "personal accomplishment, defines this discourse's case."),
+        ("attahita parahita",
+         "&ldquo;one's own welfare, others' welfare&rdquo; &mdash; the two variables this "
+         "four-discourse unit runs through every combination of."),
+    ],
+    text_intro=(
+        "The discourse in full: personal accomplishment in the five, without encouraging others "
+        "in them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Accomplished, but not encouraging others"),
+        ("p", "&sect;1", "an5.17:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What five items does AN 5.17 introduce, distinct from the powers used earlier in "
+              "this chapter?",
+         "opts": [
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom",
+             "Generosity, ethics, patience, energy, wisdom",
+             "The same sekhabala under a new name"],
+         "correct": 1,
+         "expl": "A new five-item sequence opening the chapter's closing unit."},
+        {"q": "What does AN 5.17 say about a mendicant personally accomplished in all five but not "
+              "encouraging others?",
+         "opts": [
+             "That they have failed completely",
+             "That they are practicing for their own welfare, but not that of others",
+             "That their accomplishment is not genuine",
+             "The discourse says nothing about this case"],
+         "correct": 1,
+         "expl": "Attainment described as real, but only half of welfare when unshared."},
+        {"q": "What Chinese Buddhist formula does the guide identify as a close correspondence to "
+              "this five-item list?",
+         "opts": [
+             "The Three Refuges",
+             "五分法身, the 'five-part dharma-body' — ethics, immersion, wisdom, liberation, and "
+             "the knowledge and vision of liberation",
+             "The Six Pāramitās",
+             "The Twelve Links of Dependent Origination"],
+         "correct": 1,
+         "expl": "One of the more solid Northern-parallel correspondences this reading guide identifies."},
+        {"q": "How does this five-item list relate to AN 4.1's opening list from the previous "
+              "nipāta?",
+         "opts": [
+             "It is completely unrelated",
+             "It closely resembles AN 4.1's ethics-immersion-wisdom-freedom sequence, with one "
+             "further item appended — the knowledge and vision of freedom",
+             "It contradicts AN 4.1's list",
+             "It replaces ethics with a different term"],
+         "correct": 1,
+         "expl": "Four items shared, with vimuttiñāṇadassana added as a fifth."},
+        {"q": "What two variables does the AN 5.17–20 unit run through every combination of?",
+         "opts": [
+             "Age and gender",
+             "Whether a mendicant is personally accomplished, and whether they encourage others",
+             "Monastic seniority and lay status",
+             "Wealth and poverty"],
+         "correct": 1,
+         "expl": "Four discourses, four logical combinations."},
+        {"q": "What combination does AN 5.17 specifically describe?",
+         "opts": [
+             "Not accomplished, and not encouraging others",
+             "Accomplished, but not encouraging others",
+             "Not accomplished, but encouraging others",
+             "Accomplished, and encouraging others"],
+         "correct": 1,
+         "expl": "Yes-and-no — the first of the four cases."},
+        {"q": "Does AN 5.17 explicitly criticize or condemn the mendicant it describes?",
+         "opts": [
+             "Yes, in strong terms",
+             "No — it declines to call their practice complete, without calling it a fault",
+             "Yes, it predicts a bad rebirth for them",
+             "The discourse takes no position either way, offering no description at all"],
+         "correct": 1,
+         "expl": "A description of incompleteness, not a condemnation."},
+        {"q": "What does AN 5.18, the next discourse, describe?",
+         "opts": [
+             "The identical case as AN 5.17",
+             "The reverse combination — not personally accomplished, but encouraging others",
+             "Both accomplished and encouraging others",
+             "Neither accomplished nor encouraging others"],
+         "correct": 1,
+         "expl": "The second of the unit's four logical combinations."},
+        {"q": "Is personal attainment described as false or fraudulent in this discourse?",
+         "opts": [
+             "Yes, entirely fraudulent",
+             "No — the accomplishment described is treated as genuine; only its being unshared is "
+             "noted",
+             "The discourse is ambiguous on this point",
+             "The discourse denies attainment is possible at all"],
+         "correct": 1,
+         "expl": "Genuine accomplishment, explicitly described as only half of welfare when kept private."},
+        {"q": "Where is AN 5.17 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Hot Springs Monastery",
+             "Sāketa"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern so far."},
+    ],
+    marginalia=[
+        ("The five", [
+            "<span class=\"pali\">sīla</span>ethics",
+            "<span class=\"pali\">samādhi</span>immersion",
+            "<span class=\"pali\">paññā</span>wisdom",
+            "<span class=\"pali\">vimutti</span>freedom",
+            "<span class=\"pali\">vimuttiñāṇadassana</span>knowledge &amp; vision of it",
+        ]),
+        ("A solid parallel", [
+            "五分法身 wǔfēn fǎshēn",
+            "戒定慧解脫解脫知見",
+            "&mdash; the same five, in order",
+        ]),
+        ("This discourse's case", [
+            "accomplished: yes",
+            "encourages others: no",
+            "&rarr; own welfare only",
+        ]),
+        ("Cross-references", [
+            "AN 4.1 &middot; the four-item ancestor",
+            "AN 5.18 &middot; next: the reverse case",
+            "AN 5.20 &middot; both, closing the chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.17/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.1.html">AN 4.1 &middot; Understood</a> &mdash; the four-item ancestor of '
+        "this discourse's five, from the previous nipāta.",
+        '<a href="an-5.18.html">AN 5.18 &middot; Welfare of Others (2nd)</a> &mdash; next, the '
+        "reverse case in this four-discourse unit.",
+        '<a href="an-5.20.html">AN 5.20 &middot; The Welfare of Both</a> &mdash; the unit&rsquo;s '
+        "closing case, and this chapter's final discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.18 — Dutiyahitasutta
+# --------------------------------------------------------------------------- #
+page(
+    18, "Dutiyahita", "Welfare of Others (2nd)",
+    vagga=VAGGA_2,
+    meta_title="AN 5.18 — Welfare of Others (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Hitasutta — the "
+        "reverse of AN 5.17: a mendicant not personally accomplished in the five, but who "
+        "encourages others in them anyway, practices for the welfare of others but not their "
+        "own. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.17's formula inverted: absence of personal accomplishment paired with "
+                 "encouraging others anyway"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this variant beyond the parallel already noted at AN "
+                              "5.17"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the second of four cases, "
+                       "best read against its predecessor"),
+    ],
+    why=(
+        "AN 5.17 described someone accomplished but silent. This discourse describes the mirror "
+        "case: a mendicant <em>not</em> personally accomplished in ethics, immersion, wisdom, "
+        "freedom, or the knowledge and vision of freedom, who nonetheless <em>encourages others</em> "
+        "in all five. The discourse calls this practicing for the welfare of others, but not one's "
+        "own &mdash; a case at least as uncomfortable as the first, and one this reading guide will "
+        "not soften."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant not personally accomplished in the five, but who encourages others in "
+            "them, is practicing for the welfare of others but not their own &mdash; the exact "
+            "inverse of AN 5.17."]),
+        ("A harder case than it first appears", [
+            "It would be easy to read this discourse as praising the mendicant it describes, since "
+            "encouraging others sounds generous. But the discourse is precise: this person is "
+            "<em>not</em> accomplished in what they are encouraging others toward. Whatever else "
+            "this case is, the discourse does not claim it is safer or more admirable than AN "
+            "5.17's; it simply names it as the other incomplete half of the same pair."]),
+        ("Not a license to teach beyond one's attainment", [
+            "Read alongside AN 5.17, the two discourses together resist an easy resolution in "
+            "either direction &mdash; toward pure self-cultivation with no concern for others, or "
+            "toward outward teaching with no concern for one's own practice. Both are named "
+            "explicitly as incomplete. Neither discourse tells a reader which incompleteness is "
+            "worse; that judgment is left unmade."]),
+        ("The same five items, unchanged", [
+            "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom &mdash; "
+            "AN 5.17 already introduced and glossed all five, including the Northern parallel to "
+            "the 五分法身. This discourse adds no new definition of any of them; it only inverts "
+            "which half of the formula is affirmed and which is negated."]),
+        ("Two cases down, two to go", [
+            "AN 5.19, next, gives the case where neither condition holds: not accomplished, and "
+            "not encouraging others. AN 5.20 then closes the chapter with the case where both "
+            "hold. The four discourses are best understood as a single argument in four parts, "
+            "not four independent teachings."]),
+    ],
+    terms=[
+        ("na sīlasampanno",
+         "&ldquo;not accomplished in ethics&rdquo; &mdash; the negated form of AN 5.17's first "
+         "term, marking this discourse's inverted case."),
+        ("paraṁ samādapeti",
+         "&ldquo;encourages another&rdquo; &mdash; the affirmed half of this discourse's formula, "
+         "unchanged in wording from AN 5.17."),
+        ("parahita",
+         "&ldquo;welfare of others&rdquo; &mdash; the outcome this discourse attaches to its "
+         "described case, without qualifying it as praiseworthy."),
+        ("vimuttiñāṇadassana",
+         "&ldquo;the knowledge and vision of freedom&rdquo; &mdash; the fifth item of the shared "
+         "list, here also negated for the mendicant being described."),
+        ("dutiya",
+         "&ldquo;second&rdquo; &mdash; the ordinal in this discourse's title, marking it as the "
+         "second of the unit's four cases."),
+    ],
+    text_intro=(
+        "The discourse in full: absence of personal accomplishment, paired with encouraging others "
+        "anyway. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not accomplished, but encouraging others"),
+        ("p", "&sect;1", "an5.18:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What is the case AN 5.18 describes?",
+         "opts": [
+             "Personally accomplished, and encouraging others",
+             "Not personally accomplished in the five, but encouraging others in them anyway",
+             "Neither accomplished nor encouraging others",
+             "Personally accomplished, but not encouraging others"],
+         "correct": 1,
+         "expl": "The exact inverse of AN 5.17's case."},
+        {"q": "Does the guide read this discourse as straightforwardly praising the mendicant it "
+              "describes?",
+         "opts": [
+             "Yes, entirely positively",
+             "No — the discourse names this as the other incomplete half of the pair, not as safer "
+             "or more admirable than AN 5.17's case",
+             "The discourse condemns the mendicant outright",
+             "The guide takes no interpretive position at all"],
+         "correct": 1,
+         "expl": "Both cases are named as incomplete, without ranking one above the other."},
+        {"q": "What outcome does AN 5.18 attach to this case?",
+         "opts": [
+             "Practicing for the welfare of others, but not their own",
+             "Practicing for neither welfare",
+             "Practicing for both welfares equally",
+             "No outcome is stated"],
+         "correct": 0,
+         "expl": "The mirror outcome to AN 5.17's 'own welfare, not others'."},
+        {"q": "Does AN 5.18 introduce any new definition for the five items — ethics, immersion, "
+              "wisdom, freedom, knowledge and vision of freedom?",
+         "opts": [
+             "Yes, all five are redefined",
+             "No — AN 5.17 already defined them; this discourse only inverts which half is "
+             "affirmed and which negated",
+             "Only freedom is redefined",
+             "The five items are entirely different from AN 5.17's"],
+         "correct": 1,
+         "expl": "The same five items throughout this four-discourse unit."},
+        {"q": "According to the guide, do AN 5.17 and 5.18 together resolve toward pure "
+              "self-cultivation or toward pure outward teaching?",
+         "opts": [
+             "Toward pure self-cultivation",
+             "Toward pure outward teaching",
+             "Neither — both extremes are named explicitly as incomplete, with no resolution given",
+             "The discourses do not address this question"],
+         "correct": 2,
+         "expl": "Neither discourse tells a reader which incompleteness is worse."},
+        {"q": "What does AN 5.19, the next discourse, describe?",
+         "opts": [
+             "Both accomplished and encouraging others",
+             "Neither accomplished nor encouraging others",
+             "The identical case as AN 5.18",
+             "A return to the five powers"],
+         "correct": 1,
+         "expl": "The third of the unit's four logical combinations."},
+        {"q": "What closes this four-discourse unit and the chapter as a whole?",
+         "opts": [
+             "AN 5.18 itself",
+             "AN 5.20, describing both accomplishment and encouraging others together",
+             "AN 5.19",
+             "The unit has no closing discourse"],
+         "correct": 1,
+         "expl": "The fourth and final combination, ending the chapter on its most complete case."},
+        {"q": "Is teaching or encouraging beyond one's own attainment presented as licensed or "
+              "endorsed by this discourse?",
+         "opts": [
+             "Yes, explicitly encouraged as the better path",
+             "No — the discourse names the case without endorsing it as an ideal to pursue",
+             "The discourse forbids it outright with a warning of punishment",
+             "The discourse does not address the question of endorsement at all"],
+         "correct": 1,
+         "expl": "A description of an incomplete case, not a recommendation."},
+        {"q": "What is the setting of AN 5.18?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "Kosambī",
+             "The Bhagga country"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern so far."},
+        {"q": "How many of the four logical combinations in this unit have now been covered, "
+              "counting AN 5.18?",
+         "opts": ["One", "Two", "Three", "All four"],
+         "correct": 1,
+         "expl": "Own-welfare-only (AN 5.17) and others-welfare-only (AN 5.18); two remain."},
+    ],
+    marginalia=[
+        ("The inversion", [
+            "AN 5.17: accomplished,",
+            "not encouraging &rarr; own only",
+            "AN 5.18: not accomplished,",
+            "encouraging &rarr; others only",
+        ]),
+        ("No ranking given", [
+            "neither case called",
+            "worse, or safer,",
+            "than the other",
+        ]),
+        ("Same five items", [
+            "sīla, samādhi, paññā,",
+            "vimutti, vimuttiñāṇadassana",
+        ]),
+        ("Cross-references", [
+            "AN 5.17 &middot; the mirror case",
+            "AN 5.19 &middot; next: neither",
+            "AN 5.20 &middot; then: both",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.18/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.17.html">AN 5.17 &middot; One&rsquo;s Own Welfare</a> &mdash; the previous '
+        "discourse, whose case this page inverts.",
+        '<a href="an-5.19.html">AN 5.19 &middot; The Welfare of Neither</a> &mdash; next, the '
+        "unit's third case.",
+        '<a href="an-5.20.html">AN 5.20 &middot; The Welfare of Both</a> &mdash; the unit&rsquo;s '
+        "closing case.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.19 — Tatiyahitasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, "Tatiyahita", "The Welfare of Neither",
+    vagga=VAGGA_2,
+    meta_title="AN 5.19 — The Welfare of Neither | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the third Hitasutta — a "
+        "mendicant neither personally accomplished in the five nor encouraging others in them, "
+        "the third case in this chapter's closing four-part unit. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "Both halves of AN 5.17's formula negated together"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this variant beyond the parallel already noted at AN "
+                              "5.17"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the simplest of the four "
+                       "cases, both conditions failing together"),
+    ],
+    why=(
+        "The third case closes the logical square without ambiguity: a mendicant neither "
+        "personally accomplished in ethics, immersion, wisdom, freedom, and the knowledge and "
+        "vision of freedom, nor encouraging others toward them. Where AN 5.17 and 5.18 each "
+        "offered something worth weighing &mdash; genuine private attainment against genuine "
+        "outward generosity &mdash; this discourse offers nothing to weigh. It names the case where "
+        "both fail at once."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant neither personally accomplished in the five, nor encouraging others in "
+            "them, is practicing for neither their own welfare nor that of others."]),
+        ("The simplest of the four cases", [
+            "AN 5.17 and AN 5.18 each required a reader to weigh something genuine against "
+            "something missing &mdash; real attainment against silence, or real generosity against "
+            "lack of grounding. This discourse asks nothing to be weighed. Both halves of the "
+            "formula are negated together, and the outcome follows without needing any "
+            "qualification."]),
+        ("Why the collection still gives this case its own discourse", [
+            "A reader might expect this, the least interesting case logically, to be folded into "
+            "one of the others or skipped. The chapter does neither. Keeping all four combinations "
+            "as separate, equally weighted discourses is itself a small argument: the collection "
+            "treats the logical square as worth completing in full, not only in its more "
+            "psychologically interesting corners."]),
+        ("What this case is not saying", [
+            "The discourse does not say a mendicant in this position is beyond help, or condemns "
+            "them further than the bare description. It states a fact about their present "
+            "practice, in the same flat register used for the other three cases, and stops there. "
+            "Whatever consequence might follow is left to other discourses in this series to "
+            "address, not this one."]),
+        ("One case remaining", [
+            "AN 5.20 completes the square, and closes the chapter, with the fourth combination: "
+            "personally accomplished <em>and</em> encouraging others. Reading all four discourses "
+            "as a set makes plain that this final combination, not either of the two partial "
+            "ones, is what the whole four-discourse unit has been building toward."]),
+    ],
+    terms=[
+        ("neva&hellip;no",
+         "&ldquo;neither&hellip;nor&rdquo; &mdash; the paired negation opening this discourse, "
+         "distinguishing it from AN 5.17 and 5.18's single negations."),
+        ("tatiya",
+         "&ldquo;third&rdquo; &mdash; the ordinal in this discourse's title, marking its place in "
+         "the four-part unit."),
+        ("attahita",
+         "&ldquo;one's own welfare&rdquo; &mdash; negated here alongside parahita, both failing "
+         "together for the first time in the unit."),
+        ("parahita",
+         "&ldquo;others' welfare&rdquo; &mdash; likewise negated, completing the discourse's double "
+         "failure."),
+        ("aṅga",
+         "&ldquo;factor, quality&rdquo; &mdash; the word this discourse uses for the five items, "
+         "in place of dhamma, the term AN 5.17 used for the identical list."),
+    ],
+    text_intro=(
+        "The discourse in full: neither personal accomplishment nor encouraging others. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Neither accomplished, nor encouraging others"),
+        ("p", "&sect;1", "an5.19:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What case does AN 5.19 describe?",
+         "opts": [
+             "Accomplished, and encouraging others",
+             "Neither personally accomplished nor encouraging others in the five",
+             "Accomplished, but not encouraging others",
+             "Not accomplished, but encouraging others"],
+         "correct": 1,
+         "expl": "Both halves of the formula negated together — the third of four combinations."},
+        {"q": "How does the guide compare this case to AN 5.17 and 5.18's?",
+         "opts": [
+             "Equally complex, requiring the same weighing of genuine attainment against absence",
+             "Simpler — nothing needs to be weighed, since both conditions fail together",
+             "More complex, requiring additional interpretation",
+             "Identical in every respect to AN 5.17"],
+         "correct": 1,
+         "expl": "AN 5.17 and 5.18 each weigh something genuine against something missing; this case has no such tension."},
+        {"q": "Why does the guide say the collection still gives this least interesting case its "
+              "own discourse?",
+         "opts": [
+             "By accident of transmission",
+             "Keeping all four combinations as separate discourses treats the logical square as "
+             "worth completing in full",
+             "Because this case is considered the most important of the four",
+             "Because the other three discourses were lost"],
+         "correct": 1,
+         "expl": "Completeness of the logical square, not only its more interesting corners."},
+        {"q": "Does AN 5.19 condemn the mendicant it describes as beyond help?",
+         "opts": [
+             "Yes, explicitly",
+             "No — it states a fact about present practice in the same flat register as the other "
+             "cases, without further condemnation",
+             "It predicts a specific bad rebirth",
+             "It expels them from the monastic community"],
+         "correct": 1,
+         "expl": "A description, not a verdict beyond the bare fact stated."},
+        {"q": "What word does AN 5.19 use for the five items, in place of AN 5.17's word?",
+         "opts": [
+             "Bala, power",
+             "Aṅga, factor, in place of dhamma",
+             "Indriya, faculty",
+             "The same word, dhamma, unchanged"],
+         "correct": 1,
+         "expl": "A minor wording variation the guide notes without over-reading it."},
+        {"q": "What does AN 5.20, the next and final discourse of the unit, complete?",
+         "opts": [
+             "A fifth, entirely new case",
+             "The fourth combination — personally accomplished and encouraging others",
+             "A repeat of AN 5.19",
+             "The unit ends at AN 5.19 with no fourth case"],
+         "correct": 1,
+         "expl": "The combination the guide says the whole four-discourse unit has been building toward."},
+        {"q": "How many of the unit's four logical combinations remain after AN 5.19?",
+         "opts": ["None", "One", "Two", "Three"],
+         "correct": 1,
+         "expl": "Only the both-yes case, covered at AN 5.20, remains."},
+        {"q": "What outcome does this discourse attach to its described case?",
+         "opts": [
+             "Practicing for both welfares",
+             "Practicing for neither their own welfare nor that of others",
+             "Practicing only for others' welfare",
+             "No outcome is named"],
+         "correct": 1,
+         "expl": "The straightforward double negative outcome."},
+        {"q": "Are the five items in this discourse newly defined, or inherited from AN 5.17?",
+         "opts": [
+             "Newly defined here in full",
+             "Inherited unchanged from AN 5.17 — ethics, immersion, wisdom, freedom, and the "
+             "knowledge and vision of freedom",
+             "A different five items entirely",
+             "Only three of the five are repeated"],
+         "correct": 1,
+         "expl": "The same list throughout this four-discourse unit."},
+        {"q": "Where is AN 5.19 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Deer Park at Isipatana",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern so far."},
+    ],
+    marginalia=[
+        ("The third case", [
+            "accomplished: no",
+            "encourages others: no",
+            "&rarr; neither welfare",
+        ]),
+        ("Simplest of four", [
+            "nothing to weigh &mdash;",
+            "both conditions",
+            "fail together",
+        ]),
+        ("Completing the square", [
+            "AN 5.17: own only",
+            "AN 5.18: others only",
+            "AN 5.19: neither",
+            "AN 5.20: both",
+        ]),
+        ("Cross-references", [
+            "AN 5.17 &amp; 5.18 &middot; partial cases",
+            "AN 5.19 &middot; this page, neither",
+            "AN 5.20 &middot; next: both, closing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.19/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.17.html">AN 5.17 &middot; One&rsquo;s Own Welfare</a> &mdash; the unit&rsquo;s '
+        "opening case, accomplished but silent.",
+        '<a href="an-5.18.html">AN 5.18 &middot; Welfare of Others (2nd)</a> &mdash; the second '
+        "case, silent but generous.",
+        '<a href="an-5.20.html">AN 5.20 &middot; The Welfare of Both</a> &mdash; next, closing '
+        "both the unit and the chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.20 — Catutthahitasutta
+# --------------------------------------------------------------------------- #
+page(
+    20, "Catutthahita", "The Welfare of Both",
+    vagga=VAGGA_2,
+    meta_title="AN 5.20 — The Welfare of Both | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the fourth Hitasutta — the "
+        "chapter's closing discourse: a mendicant personally accomplished in the five and "
+        "encouraging others in them too practices for both their own welfare and that of others. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "Both halves of AN 5.17's formula affirmed together, closing the four-discourse "
+                 "unit and the chapter"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this variant beyond the parallel already noted at AN "
+                              "5.17"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the unit's resolving case, "
+                       "closing the chapter on its most complete note"),
+    ],
+    why=(
+        "The fourth combination is the one the whole unit has been building toward: a mendicant "
+        "personally accomplished in ethics, immersion, wisdom, freedom, and the knowledge and "
+        "vision of freedom, <em>and</em> encouraging others in the same five. This is the only one "
+        "of the four cases the chapter does not qualify or leave partial. It closes both the "
+        "four-discourse unit and the Balavagga itself, ending the chapter on the one combination "
+        "that asks nothing to be weighed against anything else."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant personally accomplished in the five, and who encourages others in them "
+            "too, is practicing for both their own welfare and that of others &mdash; the fourth "
+            "and only unqualified case in the unit."]),
+        ("Why this case closes the sequence, not opens it", [
+            "The chapter could have led with this case and treated the other three as deficient "
+            "variations. It does the opposite, working through the partial cases first and "
+            "arriving at completeness last. Read in the order given, the four discourses build a "
+            "case for what wholeness requires, rather than starting from an ideal and cataloguing "
+            "how one falls short of it."]),
+        ("What the whole unit has established", [
+            "Across AN 5.17&ndash;20, the same five items &mdash; sīla, samādhi, paññā, vimutti, "
+            "vimuttiñāṇadassana &mdash; and the same two variables, personal accomplishment and "
+            "encouraging others, have generated all four possible combinations without exception. "
+            "This discourse is not a new teaching so much as the completion of an argument spread "
+            "across four discourses; reading it without the three before it would miss most of "
+            "what it is doing."]),
+        ("The chapter's own closing colophon", [
+            "As with AN 5.10 at the close of the first chapter, the source text appends a "
+            "colophon here &mdash; <em>Balavaggo dutiyo</em>, &lsquo;the second chapter, on "
+            "powers&rsquo; &mdash; followed by the chapter&rsquo;s own uddāna verse, the same kind "
+            "of untranslated Pāli mnemonic already explained in full at AN 5.10 and not "
+            "re-explained here."]),
+        ("What the next chapter takes up", [
+            "The Fives continue with the Pañcaṅgikavagga, &lsquo;With Five Factors&rsquo;, the "
+            "chapter that contains an-5.28.html, one of the two pages from this series&rsquo; "
+            "earlier eighteen-page selection era. That existing page will be left as it is and "
+            "linked into the index rather than rebuilt, exactly as flagged at the start of this "
+            "chapter."]),
+    ],
+    terms=[
+        ("catuttha",
+         "&ldquo;fourth&rdquo; &mdash; the ordinal in this discourse's title, marking the last of "
+         "the unit's four combinations."),
+        ("attahitāya ca&hellip;parahitāya ca",
+         "&ldquo;for one's own welfare and for others' welfare&rdquo; &mdash; both halves of the "
+         "formula affirmed together, unique to this discourse in the unit."),
+        ("Balavaggo dutiyo",
+         "&ldquo;the second chapter, on powers&rdquo; &mdash; the colophon closing this vagga, "
+         "matching Sekhabalavaggo paṭhamo's form from AN 5.10."),
+        ("uddāna",
+         "&ldquo;mnemonic verse&rdquo; &mdash; this chapter's own closing summary verse, explained "
+         "in full at AN 5.10 and not repeated here."),
+        ("dhamma",
+         "&ldquo;quality&rdquo; &mdash; the word this discourse uses for the five items, matching "
+         "AN 5.17 and 5.18's usage rather than AN 5.19's aṅga."),
+    ],
+    text_intro=(
+        "The discourse in full: personal accomplishment and encouraging others, affirmed together. "
+        "The closing colophon and Pāli mnemonic verse are part of the source but are not "
+        "translated text, and are described rather than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Accomplished, and encouraging others"),
+        ("p", "&sect;1", "an5.20:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What case does AN 5.20 describe?",
+         "opts": [
+             "Neither accomplished nor encouraging others",
+             "Personally accomplished in the five, and encouraging others in them too",
+             "Accomplished, but not encouraging others",
+             "Not accomplished, but encouraging others"],
+         "correct": 1,
+         "expl": "The fourth and only fully affirmed case in the unit."},
+        {"q": "What outcome does this discourse attach to this case?",
+         "opts": [
+             "Practicing for neither welfare",
+             "Practicing for both one's own welfare and that of others",
+             "Practicing only for others' welfare",
+             "No outcome is stated"],
+         "correct": 1,
+         "expl": "The only unqualified, fully positive outcome among the unit's four cases."},
+        {"q": "Why does the guide say the chapter places this case last rather than first?",
+         "opts": [
+             "By accident, with no significance",
+             "The chapter works through partial cases first and arrives at completeness last, "
+             "building a case for what wholeness requires rather than starting from an ideal",
+             "Because this case is considered the least important",
+             "Because the text is corrupted and out of order"],
+         "correct": 1,
+         "expl": "A deliberate ordering, not starting from an ideal and cataloguing shortfalls."},
+        {"q": "How many of the unit's four logical combinations does AN 5.17–20 cover in total?",
+         "opts": ["Two", "Three", "All four, without exception", "Five"],
+         "correct": 2,
+         "expl": "Own-only, others-only, neither, and both."},
+        {"q": "What colophon closes this chapter, matching AN 5.10's form?",
+         "opts": [
+             "No colophon is present",
+             "Balavaggo dutiyo, 'the second chapter, on powers', followed by the chapter's own "
+             "uddāna verse",
+             "A colophon naming an entirely different chapter",
+             "The colophon from AN 5.10 itself, repeated verbatim"],
+         "correct": 1,
+         "expl": "The same structural device, explained in full already and not repeated on this page."},
+        {"q": "What chapter comes next, and what does the guide note about it?",
+         "opts": [
+             "The Pañcaṅgikavagga, which contains an-5.28.html, an existing page from the earlier "
+             "eighteen-page selection era that will be left as is",
+             "A chapter with no relation to any earlier material",
+             "A return to the Sekhabalavagga",
+             "The final chapter of the entire nipāta"],
+         "correct": 0,
+         "expl": "Consistent with the plan flagged at the very start of this project."},
+        {"q": "Is AN 5.20 best read as a standalone teaching or as part of a larger argument?",
+         "opts": [
+             "Entirely standalone, with no connection to AN 5.17–19",
+             "As the completion of an argument spread across all four discourses of the unit",
+             "As a contradiction of AN 5.17–19",
+             "As an unrelated appendix"],
+         "correct": 1,
+         "expl": "Reading it without the three before it would miss most of what it is doing."},
+        {"q": "What word does AN 5.20 use for the five items?",
+         "opts": [
+             "Bala, power",
+             "Dhamma, matching AN 5.17 and 5.18 rather than AN 5.19's aṅga",
+             "Indriya, faculty",
+             "A completely new term"],
+         "correct": 1,
+         "expl": "A minor wording detail the guide notes across the unit."},
+        {"q": "Does this discourse introduce any new item beyond the five already named at AN "
+              "5.17?",
+         "opts": [
+             "Yes, a sixth quality is added",
+             "No — the same five: ethics, immersion, wisdom, freedom, and the knowledge and vision "
+             "of freedom",
+             "It replaces wisdom with a different term",
+             "It drops two of the five items"],
+         "correct": 1,
+         "expl": "The identical list throughout the four-discourse unit."},
+        {"q": "Where is AN 5.20 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting at Sāvatthī",
+             "The Bamboo Grove",
+             "Sāvatthī is restated in full here, unlike every other discourse in this chapter"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's pattern from AN 5.11 through its close."},
+    ],
+    marginalia=[
+        ("The fourth case", [
+            "accomplished: yes",
+            "encourages others: yes",
+            "&rarr; both welfares",
+        ]),
+        ("Building to completeness", [
+            "AN 5.17&ndash;19: partial",
+            "AN 5.20: whole",
+            "&mdash; placed last, deliberately",
+        ]),
+        ("The chapter closes", [
+            "<span class=\"pali\">Balavaggo dutiyo</span>",
+            "the second chapter, on powers",
+        ]),
+        ("Cross-references", [
+            "AN 5.17&ndash;19 &middot; the partial cases",
+            "AN 5.10 &middot; the uddāna, explained",
+            "AN 5.21 &middot; next: Pañcaṅgikavagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.20/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.17.html">AN 5.17 &middot; One&rsquo;s Own Welfare</a> &mdash; the unit&rsquo;s '
+        "opening case, and the discourse this page's completion answers.",
+        '<a href="an-5.19.html">AN 5.19 &middot; The Welfare of Neither</a> &mdash; the previous '
+        "discourse, the unit's third case.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this same '
+        "closing-colophon structure was explained in full.",
+    ],
+)
