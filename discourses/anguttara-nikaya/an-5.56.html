@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AN 5.56 — Mentor | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for the Upajjhāyasutta — a mendicant reports feeling drugged, disoriented, drowsy, dissatisfied, and doubtful; the Buddha diagnoses the cause and prescribes the fix, and the mendicant, practicing alone, becomes an arahant. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(38px, 5vw, 50px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Aṅguttara Nikāya</a><span>&rsaquo;</span>AN 5.56
+  </nav>
+
+  <div class="sutta-number">Aṅguttara Nikāya · Discourse 5.56</div>
+  <h1>Mentor</h1>
+  <p class="subtitle"><em>Upajjhāyasutta</em> &mdash; <em>Nīvaraṇavagga</em> &mdash; the sixth chapter of the Fives</p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>None stated; the discourse continues from AN 5.1, whose setting at Sāvatthī in Jeta’s Grove is understood to hold</dd>
+      <dt>Speakers</dt><dd>An unnamed mendicant, his mentor, and the Buddha</dd>
+      <dt>Form</dt><dd>A symptom reported twice, a diagnosis and prescription, a report of complete success, and the identical instruction repeated</dd>
+      <dt>Length</dt><dd>~4 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>Mentor-mediated consultation with the Buddha over a specific meditative difficulty recurs across the Chinese Āgamas; this reading guide does not assert a specific matching sutra number</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&starf;&#9734;&#9734; &mdash; after this chapter's hardest discourse, one of its most encouraging</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse</h2>
+    <p class="lede">
+      After AN 5.55's account of practice failing badly, this discourse shows practice working completely, start to finish. A mendicant describes a cluster of symptoms with unusual precision &mdash; a drugged feeling in the body, disorientation, teachings that won't come to mind, drowsiness, dissatisfaction, doubt &mdash; and rather than treating any of this as a personal failing beyond remedy, the Buddha names a specific, correctable cause and gives a specific fix, which the mendicant then applies alone and which works completely.
+    </p>
+  </section>
+
+  </div>
+
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      A mendicant reporting a drugged, disoriented, drowsy, dissatisfied, and doubtful state is told this comes from unguarded senses, overeating, insufficient dedication to wakefulness, and neglecting the awakening factors, and instructed to reverse all five &mdash; which he does, alone, becoming an arahant.
+    </p>
+
+    <h3>A precise cluster of symptoms, taken seriously</h3>
+    <p>
+      <em>Madhurakajāto kāyo</em>, a body that feels drugged, is an unusually vivid and specific complaint, and it is not treated as vague or dismissible. The mendicant names five distinct experiences &mdash; bodily heaviness, spatial disorientation, teachings that fail to surface in memory, dullness and drowsiness filling the mind, dissatisfaction with the spiritual life, and doubt about the teachings &mdash; and the Buddha's response engages with all five as a genuinely diagnosable condition, not a character flaw.
+    </p>
+
+    <h3>Diagnosis, in four correctable causes</h3>
+    <p>
+      The Buddha names exactly what produces this state: unguarded sense doors, immoderate eating, insufficient dedication to wakefulness, and neglecting to discern skillful qualities and develop the awakening factors <em>in the evening and toward dawn</em>. Every one of these four is a matter of practice, not disposition &mdash; the discourse implies the mendicant's difficulty is not a fixed trait but a set of specific, correctable habits.
+    </p>
+
+    <h3>The turnaround, reported in the mendicant's own words</h3>
+    <p>
+      The discourse gives the mendicant's transformed report the same precision as his original complaint, symptom by symptom, negated one at a time: no longer drugged, no longer disoriented, teachings now come to mind, no more drowsiness, satisfaction in the spiritual life, no doubt. This is not summarized as &lsquo;he improved&rsquo;; the discourse restates the entire original list in reverse, giving the recovery the same specificity as the original complaint.
+    </p>
+
+    <h3>From individual instruction to general teaching</h3>
+    <p>
+      The Buddha's second delivery of this same instruction, after the mendicant's success, shifts address from singular <em>bhikkhu</em> to plural <em>bhikkhave</em> &mdash; the identical fix, now offered to the whole assembly rather than the one mendicant who needed it. A remedy that worked for one specific, precisely described case becomes, without modification, general instruction.
+    </p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">madhurakajāto kāyo</span> &mdash; &ldquo;a body that feels drugged&rdquo; &mdash; the mendicant's opening complaint, an unusually vivid physical description.
+      </div>
+      <div class="term">
+        <span class="pali-word">indriyesu aguttadvāra</span> &mdash; &ldquo;unguarded sense doors&rdquo; &mdash; the first of four diagnosed causes of the mendicant's condition.
+      </div>
+      <div class="term">
+        <span class="pali-word">bhojane amattaññu</span> &mdash; &ldquo;not knowing moderation in eating&rdquo; &mdash; the second cause, overeating as a specific, correctable habit.
+      </div>
+      <div class="term">
+        <span class="pali-word">bodhipakkhiyā dhammā</span> &mdash; &ldquo;qualities on the side of awakening&rdquo; &mdash; the framework the fourth cause says was being neglected in the evening and toward dawn.
+      </div>
+      <div class="term">
+        <span class="pali-word">saddhivihārika</span> &mdash; &ldquo;co-resident, protégé&rdquo; &mdash; the term for the mendicant in relation to the mentor who brings him to the Buddha both times in this discourse.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The discourse in full: the mendicant's complaint, the Buddha's diagnosis and instruction, the mendicant's success, and the same instruction restated for the whole assembly. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>The complaint</h3>
+
+      <p><span class="segno">&sect;1</span>Then a mendicant went up to his own mentor, and said, &ldquo;Now, sir, my body feels like it&rsquo;s drugged. I&rsquo;m disorientated, the teachings don&rsquo;t spring to mind, and dullness and drowsiness fill my mind. I lead the spiritual life dissatisfied, and have doubts about the teachings.&rdquo;</p>
+
+      <p><span class="segno">&sect;2</span>Then that mendicant took his protégé to the Buddha, bowed, sat down to one side, and said to him, &ldquo;Sir, this mendicant says this: &lsquo;Now, sir, my body feels like it&rsquo;s drugged. I&rsquo;m disorientated, the teachings don&rsquo;t spring to mind, and dullness and drowsiness fill my mind. I lead the spiritual life dissatisfied, and have doubts about the teachings.&rsquo;&rdquo;</p>
+
+      <h3>The diagnosis and instruction</h3>
+
+      <p><span class="segno">&sect;3</span>&ldquo;That&rsquo;s how it is, mendicant, when your sense doors are unguarded, you eat too much, you&rsquo;re not dedicated to wakefulness, you&rsquo;re unable to discern skillful qualities, and you don&rsquo;t pursue the development of the qualities on the side of awakening in the evening and toward dawn. Your body feels like it&rsquo;s drugged. You&rsquo;re disorientated, the teachings don&rsquo;t spring to mind, and dullness and drowsiness fill your mind. You lead the spiritual life dissatisfied, and have doubts about the teachings.</p>
+
+      <p><span class="segno">&sect;4</span>So you should train like this: &lsquo;I will guard my sense doors, eat in moderation, be dedicated to wakefulness, discern skillful qualities, and pursue the development of the qualities on the side of awakening in the evening and toward dawn.&rsquo; That&rsquo;s how you should train.&rdquo;</p>
+
+      <h3>Practicing alone</h3>
+
+      <p><span class="segno">&sect;5</span>When that mendicant had been given this advice by the Buddha, he got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.</p>
+
+      <p><span class="segno">&sect;6</span>Then that mendicant, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme culmination of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.</p>
+
+      <p><span class="segno">&sect;7</span>He understood: &ldquo;Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is nothing further for this place.&rdquo; And that mendicant became one of the perfected.</p>
+
+      <h3>The turnaround, reported</h3>
+
+      <p><span class="segno">&sect;8</span>When that mendicant had attained perfection, he went up to his own mentor, and said, &ldquo;Now, sir, my body doesn&rsquo;t feel like it&rsquo;s drugged. I&rsquo;m not disorientated, the teachings spring to mind, and dullness and drowsiness don&rsquo;t fill my mind. I lead the spiritual life satisfied, and have no doubts about the teachings.&rdquo;</p>
+
+      <p><span class="segno">&sect;9</span>Then that mendicant took his protégé to the Buddha, bowed, sat down to one side, and said to him, &ldquo;Sir, this mendicant says this: &lsquo;Now, sir, my body doesn&rsquo;t feel like it&rsquo;s drugged. I&rsquo;m not disorientated, the teachings spring to mind, and dullness and drowsiness don&rsquo;t fill my mind. I lead the spiritual life satisfied, and have no doubts about the teachings.&rsquo;&rdquo;</p>
+
+      <h3>The same instruction, for everyone</h3>
+
+      <p><span class="segno">&sect;10</span>&ldquo;That&rsquo;s how it is, mendicant, when your sense doors are guarded, you&rsquo;re moderate in eating, you&rsquo;re dedicated to wakefulness, you&rsquo;re able to discern skillful qualities, and you pursue the development of the qualities on the side of awakening in the evening and toward dawn. Your body doesn&rsquo;t feel like it&rsquo;s drugged. You&rsquo;re not disorientated, the teachings spring to mind, and dullness and drowsiness don&rsquo;t fill your mind. You lead the spiritual life satisfied, and have no doubts about the teachings.</p>
+
+      <p><span class="segno">&sect;11</span>So you should train like this: &lsquo;We will guard our sense doors, eat in moderation, be dedicated to wakefulness, discern skillful qualities, and pursue the development of the qualities on the side of awakening in the evening and toward dawn.&rsquo; That&rsquo;s how you should train.&rdquo;</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">What five symptoms does the mendicant report to his mentor?</div>
+        <button class="opt">Physical pain, fever, hunger, thirst, and fatigue</button>
+        <button class="opt">A drugged bodily feeling, disorientation, teachings not coming to mind, drowsiness, dissatisfaction, and doubt</button>
+        <button class="opt">Anger, fear, greed, jealousy, and pride</button>
+        <button class="opt">The five hindrances by their formal names</button>
+        <div class="expl"><strong>Correct: B.</strong> A precise, specific cluster, taken seriously rather than dismissed.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What four causes does the Buddha diagnose for this condition?</div>
+        <button class="opt">Fixed personal traits that cannot be changed</button>
+        <button class="opt">Unguarded sense doors, overeating, insufficient dedication to wakefulness, and neglecting the awakening factors in the evening and toward dawn</button>
+        <button class="opt">Poor diet alone</button>
+        <button class="opt">Living in the wrong location</button>
+        <div class="expl"><strong>Correct: B.</strong> Four correctable habits, not an unchangeable disposition.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What does the mendicant do with this instruction?</div>
+        <button class="opt">Ignores it</button>
+        <button class="opt">Applies it alone, diligently, and soon becomes an arahant</button>
+        <button class="opt">Asks another teacher for a second opinion</button>
+        <button class="opt">Gives up the training entirely</button>
+        <div class="expl"><strong>Correct: B.</strong> Solitary, diligent practice leading to complete success.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">How does the discourse report the mendicant's eventual transformation?</div>
+        <button class="opt">With a brief summary: 'he improved'</button>
+        <button class="opt">By restating the entire original symptom list in reverse, negating each item one at a time with the same specificity</button>
+        <button class="opt">It does not report the outcome at all</button>
+        <button class="opt">Only in verse, with no prose account</button>
+        <div class="expl"><strong>Correct: B.</strong> The same precision applied to the recovery as to the original complaint.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">What shift happens when the Buddha delivers the same instruction a second time?</div>
+        <button class="opt">The instruction changes significantly</button>
+        <button class="opt">The address shifts from singular 'bhikkhu' to plural 'bhikkhave' — the identical fix now offered to the whole assembly</button>
+        <button class="opt">The instruction is contradicted</button>
+        <button class="opt">A different set of causes is named</button>
+        <div class="expl"><strong>Correct: B.</strong> An individual remedy becomes general teaching without modification.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">How does the guide contrast this discourse with AN 5.55, the previous one?</div>
+        <button class="opt">As identical in tone and outcome</button>
+        <button class="opt">As showing practice working completely, after AN 5.55 showed practice failing badly</button>
+        <button class="opt">As unrelated to AN 5.55</button>
+        <button class="opt">As a direct continuation of the same narrative</button>
+        <div class="expl"><strong>Correct: B.</strong> A deliberately encouraging discourse placed after the chapter's hardest one.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What role does the mentor (upajjhāya) play in this discourse?</div>
+        <button class="opt">None; the mendicant approaches the Buddha alone</button>
+        <button class="opt">He listens to the complaint and personally brings his protégé to the Buddha, both before and after the transformation</button>
+        <button class="opt">He forbids the mendicant from seeking help</button>
+        <button class="opt">He provides the diagnosis himself, without the Buddha's involvement</button>
+        <div class="expl"><strong>Correct: B.</strong> An active, supportive role in both halves of the narrative.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">Is the mendicant's original condition treated as a moral failing?</div>
+        <button class="opt">Yes, he is condemned for it</button>
+        <button class="opt">No — it is treated as a diagnosable, correctable condition arising from specific habits</button>
+        <button class="opt">The discourse takes no position on this</button>
+        <button class="opt">Yes, but only mildly</button>
+        <div class="expl"><strong>Correct: B.</strong> A practical, almost clinical framing rather than a moralizing one.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What term describes the mendicant's relationship to his mentor?</div>
+        <button class="opt">Sappurisa, true person</button>
+        <button class="opt">Saddhivihārika, co-resident or protégé</button>
+        <button class="opt">Sekha, trainee</button>
+        <button class="opt">Ariyasāvako, noble disciple</button>
+        <div class="expl"><strong>Correct: B.</strong> The standard term for a monk under a mentor's guidance.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">Where is AN 5.56 set?</div>
+        <button class="opt">A new location, stated explicitly</button>
+        <button class="opt">None restated — continuing from AN 5.1's setting</button>
+        <button class="opt">Vesālī</button>
+        <button class="opt">Bhaddiya</button>
+        <div class="expl"><strong>Correct: B.</strong> Consistent with the default setting used throughout this nipāta when nothing new is stated.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">Five symptoms</div>
+      <ul>
+        <li>drugged body &middot; lost</li>
+        <li>teachings absent &middot; drowsy</li>
+        <li>dissatisfied &middot; doubtful</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Four causes</div>
+      <ul>
+        <li>unguarded senses</li>
+        <li>overeating</li>
+        <li>under-dedicated to waking</li>
+        <li>awakening factors neglected</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Fully reversed</div>
+      <ul>
+        <li>every symptom, negated</li>
+        <li>one by one &mdash;</li>
+        <li>then, arahantship</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Cross-references</div>
+      <ul>
+        <li>AN 5.55 &middot; practice, failing</li>
+        <li>AN 5.58 &middot; next: the Licchavi youths</li>
+        <li>AN 5.51 &middot; the hindrances, this fix addresses</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/an5.56/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.</li>
+      <li><a href="an-5.55.html">AN 5.55 &middot; Mother and Son</a> &mdash; the previous discourse, this chapter's hardest case of unguarded closeness.</li>
+      <li><a href="an-5.51.html">AN 5.51 &middot; Obstacles</a> &mdash; the five hindrances this discourse's fix directly addresses, though never named explicitly here.</li>
+      <li><a href="an-5.58.html">AN 5.58 &middot; The Licchavi Youths</a> &mdash; next, a different kind of transformation observed from the outside.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="an-5.55.html"><span class="label">&larr; Previous</span>AN 5.55 &middot; Mother and Son</a>
+    <a href="an-5.57.html" class="next"><span class="label">Next &rarr;</span>AN 5.57 &middot; Subjects for Regular Reviewing</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+
+</div>
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>

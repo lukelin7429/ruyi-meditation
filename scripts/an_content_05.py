@@ -10821,3 +10821,2033 @@ page(
         "opening discourse, on wealth&rsquo;s uses, before its close on what no wealth can secure.",
     ],
 )
+
+
+VAGGA_6 = "<em>Nīvaraṇavagga</em> &mdash; the sixth chapter of the Fives"
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.51 — Āvaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, "Āvaraṇa", "Obstacles",
+    vagga=VAGGA_6,
+    meta_title="AN 5.51 — Obstacles | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Āvaraṇasutta, opening "
+        "the chapter this whole nipāta has been anticipating — the five hindrances, named "
+        "directly by their own term at last, and a mountain river that either runs strong or is "
+        "drained by opened channels. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery; stated at the head of "
+                    "AN 5.51 and understood to hold across this chapter unless a discourse "
+                    "restates its own setting"),
+        ("Speakers", SPEAKER),
+        ("Form", "The five hindrances named, then a single simile run twice — once for their "
+                 "presence, once for their absence"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The five hindrances (nīvaraṇa) are among the most widely attested "
+                              "lists across the Chinese Āgamas and Abhidharma literature; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, but naming material "
+                       "this series has anticipated since AN 5.23"),
+    ],
+    why=(
+        "This chapter's name has been visible on the horizon since <a href=\"an-5.23.html\">AN "
+        "5.23</a> named the same five states <em>upakkilesa</em>, corruptions, and flagged that "
+        "they would eventually give an entire chapter of the Fives its title. That chapter has "
+        "arrived. Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, "
+        "and doubt are named here by their most familiar term, <em>nīvaraṇa</em>, hindrances, "
+        "and illustrated by a single, exact image: a mountain river, either running its full "
+        "course or drained away through opened channels."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The five hindrances &mdash; sensual desire, ill will, dullness and drowsiness, "
+            "restlessness and remorse, and doubt &mdash; are obstacles and parasites of the mind "
+            "that weaken wisdom, and a mendicant who has not given them up cannot know what is "
+            "good for themselves, others, or both, while one who has given them up can."]),
+        ("A third name for the same five states", [
+            "This series has now met this identical five-item list under three separate labels: "
+            "<em>upakkilesa</em>, corruptions, at AN 5.23; and now <em>āvaraṇa nīvaraṇa</em>, "
+            "obstacles and hindrances, here. The content has not changed across any of these "
+            "namings &mdash; sensual desire, ill will, dullness and drowsiness, restlessness and "
+            "remorse, doubt, always in this order. What changes is the image each label carries: "
+            "corruption suggested gold needing refinement; hindrance suggests something standing "
+            "in a path."]),
+        ("&lsquo;Parasites of the mind&rsquo;", [
+            "<em>Cetaso ajjhāruhā</em>, translated here as parasites of the mind, is a more "
+            "vivid image than &lsquo;hindrance&rsquo; alone conveys &mdash; something that grows "
+            "on or into the mind, drawing from it rather than merely blocking its way. Paired "
+            "with <em>paññāya dubbalīkaraṇā</em>, weakening wisdom, the compound description "
+            "names both what the five states are (parasitic) and what they specifically damage "
+            "(wisdom, not virtue or concentration in general)."]),
+        ("A river, opened and closed", [
+            "The simile is worked twice, changing only one verb: a man <em>opens</em> channels "
+            "on both sides of a swift mountain river, and its current disperses, weakens, no "
+            "longer reaches far; a man <em>closes</em> those same channels, and the current runs "
+            "swift and far, carrying everything before it. The hindrances are the opened "
+            "channels &mdash; not external obstacles blocking the river&rsquo;s path, but leaks "
+            "in the container the water itself needed to keep moving with force."]),
+        ("What this discourse decides for a mendicant's own good", [
+            "The stakes named are specific: without giving up the five hindrances, a mendicant "
+            "cannot know <em>attattha</em>, their own good, <em>parattha</em>, another's good, or "
+            "<em>ubhayattha</em>, the good of both &mdash; nor realize any distinction in "
+            "knowledge and vision worthy of the noble ones. The hindrances are not framed here as "
+            "moral failings to be ashamed of, but as a specific, describable cause of a specific, "
+            "describable incapacity."]),
+    ],
+    terms=[
+        ("nīvaraṇa",
+         "&ldquo;hindrance&rdquo; &mdash; the term giving this chapter its name, the same five "
+         "states already met as upakkilesa at AN 5.23."),
+        ("cetaso ajjhāruhā",
+         "&ldquo;parasites of the mind&rdquo; &mdash; a vivid compound suggesting growth into the "
+         "mind rather than mere external obstruction."),
+        ("paññāya dubbalīkaraṇā",
+         "&ldquo;that which weakens wisdom&rdquo; &mdash; naming the specific faculty the five "
+         "hindrances are said to damage."),
+        ("attattha parattha ubhayattha",
+         "&ldquo;one's own good, another's good, the good of both&rdquo; &mdash; the threefold "
+         "knowledge this discourse says the hindrances make impossible."),
+        ("naṅgalamukha",
+         "&ldquo;channel, sluice-gate&rdquo; &mdash; literally a plow's mouth, the opening in the "
+         "riverbank the simile turns on."),
+    ],
+    text_intro=(
+        "The discourse in full: the five hindrances named, and the river simile run twice, for "
+        "their presence and their absence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "At Sāvatthī"),
+        ("p", "&sect;1", "an5.51:1.1-1.6"),
+        ("h3", "The five hindrances"),
+        ("p", "&sect;2", "an5.51:2.1-2.8"),
+        ("h3", "The river, drained"),
+        ("p", "&sect;3", "an5.51:3.1"),
+        ("p", "&sect;4", "an5.51:3.2-3.4"),
+        ("p", "&sect;5", "an5.51:3.5"),
+        ("h3", "The river, running strong"),
+        ("p", "&sect;6", "an5.51:4.1"),
+        ("p", "&sect;7", "an5.51:4.2-4.4"),
+        ("p", "&sect;8", "an5.51:4.5"),
+    ],
+    quiz=[
+        {"q": "What five states does this discourse name as obstacles and hindrances?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and "
+             "doubt",
+             "Iron, copper, tin, lead, and silver",
+             "Long life, beauty, happiness, fame, and heaven"],
+         "correct": 1,
+         "expl": "The nīvaraṇa, already met once before under a different name."},
+        {"q": "Where did this identical five-item list already appear in this series, under a "
+              "different label?",
+         "opts": [
+             "Nowhere before this page",
+             "AN 5.23, called upakkilesa, corruptions",
+             "AN 5.1",
+             "AN 4.163"],
+         "correct": 1,
+         "expl": "The same content, a different image, foreshadowed as far back as AN 5.23's own guide."},
+        {"q": "What does 'cetaso ajjhāruhā', parasites of the mind, suggest that 'hindrance' alone "
+              "does not?",
+         "opts": [
+             "Nothing different; the terms are synonyms with no distinction",
+             "Something that grows on or into the mind, drawing from it, rather than merely "
+             "standing in its way",
+             "A physical illness",
+             "A type of meditation posture"],
+         "correct": 1,
+         "expl": "A more vivid, organic image than a simple obstruction."},
+        {"q": "What specifically does this discourse say the five hindrances weaken?",
+         "opts": [
+             "Physical strength",
+             "Wisdom specifically (paññāya dubbalīkaraṇā), not virtue or concentration in general",
+             "Only memory",
+             "Only social reputation"],
+         "correct": 1,
+         "expl": "A specific, named faculty, not a vague general harm."},
+        {"q": "What happens to the river when a man opens channels on both sides?",
+         "opts": [
+             "It flows faster and further",
+             "Its current disperses, weakens, and no longer reaches far — matching a mind not "
+             "given up to hindrances",
+             "Nothing changes",
+             "It floods the surrounding land"],
+         "correct": 1,
+         "expl": "The hindrances are pictured as leaks, not as blockages in the river's path."},
+        {"q": "What three kinds of good does this discourse say the hindrances make impossible to "
+              "know?",
+         "opts": [
+             "Wealth, health, and family",
+             "One's own good, another's good, and the good of both",
+             "Ethics, immersion, and wisdom",
+             "Past, present, and future"],
+         "correct": 1,
+         "expl": "Attattha, parattha, ubhayattha — the specific incapacity the hindrances cause."},
+        {"q": "How does the guide characterize the hindrances' framing in this discourse?",
+         "opts": [
+             "As moral failings to be ashamed of",
+             "As a specific, describable cause of a specific, describable incapacity, not framed "
+             "moralistically",
+             "As entirely beyond a mendicant's control",
+             "As unrelated to wisdom"],
+         "correct": 1,
+         "expl": "A functional, almost mechanical description rather than a condemnation."},
+        {"q": "What single word changes between the two halves of the river simile?",
+         "opts": [
+             "The word for 'river'",
+             "The verb — opening the channels versus closing them",
+             "The word for 'mind'",
+             "Nothing changes between the two halves"],
+         "correct": 1,
+         "expl": "One verb, run twice, produces the entire contrast."},
+        {"q": "What does the guide say changes across the three names this five-item list has "
+              "received in this series (upakkilesa, nīvaraṇa)?",
+         "opts": [
+             "The actual content of the list changes each time",
+             "Only the image each label carries changes; the five items and their order stay fixed",
+             "The number of items changes",
+             "Nothing changes at all, including the labels"],
+         "correct": 1,
+         "expl": "Corruption suggests refinement; hindrance suggests a path obstructed — different images, same five states."},
+        {"q": "Where is AN 5.51 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery, restated in full",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "A full restatement of the standard setting, opening this new chapter."},
+    ],
+    marginalia=[
+        ("Five hindrances", [
+            "sensual desire &middot; ill will",
+            "dullness/drowsiness",
+            "restlessness/remorse",
+            "doubt",
+        ]),
+        ("Three names, one list", [
+            "AN 5.23: upakkilesa",
+            "AN 5.51: nīvaraṇa",
+            "&mdash; same five, new image",
+        ]),
+        ("The river", [
+            "channels open &rarr;",
+            "current disperses",
+            "channels closed &rarr;",
+            "runs swift, far",
+        ]),
+        ("Cross-references", [
+            "AN 5.23 &middot; the corruptions, first",
+            "AN 5.52 &middot; next: a heap, entirely",
+            "AN 5.53 &middot; then: what supports meditation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.51/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.23.html">AN 5.23 &middot; Corruptions</a> &mdash; where this identical '
+        "five-item list first appeared, and where this chapter's arrival was foreshadowed.",
+        '<a href="an-5.52.html">AN 5.52 &middot; A Heap of the Unskillful</a> &mdash; next, the '
+        "same five named as unskillfulness in its entirety.",
+        '<a href="an-5.53.html">AN 5.53 &middot; Factors That Support Meditation</a> &mdash; the '
+        "discourse after that, on what makes meditation possible rather than what obstructs it.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.52 — Akusalarāsisutta
+# --------------------------------------------------------------------------- #
+page(
+    52, "Akusalarāsi", "A Heap of the Unskillful",
+    vagga=VAGGA_6,
+    meta_title="AN 5.52 — A Heap of the Unskillful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Akusalarāsisutta — a "
+        "single, blunt claim: rightly speaking, the five hindrances are not merely unskillful "
+        "but entirely constitute a heap of the unskillful. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single claim, stated once and then repeated verbatim as its own conclusion"),
+        ("Length", "~20 seconds to read"),
+        ("Northern parallel", "Characterizing the hindrances as the sum of unskillfulness "
+                              "recurs across the Chinese Āgamas' treatment of the same list; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest discourse in "
+                       "this chapter, making the boldest claim about its own subject"),
+    ],
+    why=(
+        "This discourse makes a claim stronger than anything AN 5.51 said. It does not call the "
+        "five hindrances a kind of unskillfulness, or a significant source of it; it says that "
+        "<em>rightly speaking</em>, they are, entirely, <em>a heap of the unskillful</em> "
+        "&mdash; as if unskillfulness itself, gathered into one pile, would turn out to be "
+        "nothing more or less than these five things."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Rightly speaking, the five hindrances &mdash; sensual desire, ill will, dullness "
+            "and drowsiness, restlessness and remorse, and doubt &mdash; are entirely a heap of "
+            "the unskillful."]),
+        ("A claim about totality, not membership", [
+            "<em>Kevalo</em>, entirely, is the word doing the real work here. The discourse does "
+            "not say the hindrances belong to the category of unskillful things among others; it "
+            "says they exhaust the category. This is a stronger and more specific claim than a "
+            "casual reader might assume &mdash; not &lsquo;these are examples of "
+            "unskillfulness&rsquo; but &lsquo;this is what unskillfulness, entirely, consists "
+            "of&rsquo;."]),
+        ("&lsquo;Rightly speaking&rsquo;, and what it implies", [
+            "The phrase <em>sammā vadamāno vadeyya</em>, rightly speaking, one would say, frames "
+            "this as a claim about correct description, not merely a rhetorical flourish. The "
+            "discourse is staking out a specific position on how the word "
+            "&lsquo;unskillful&rsquo; ought to be used when applied to this list, against "
+            "whatever looser usage might otherwise apply the term more broadly."]),
+        ("A single sentence, repeated as its own proof", [
+            "The discourse's entire structure is one claim, stated, and then the identical claim "
+            "restated as its own conclusion, with the five hindrances named explicitly in "
+            "between. There is no simile, no narrative, no argument beyond the assertion itself "
+            "&mdash; a form matching the claim's own totalizing character: nothing more needs "
+            "adding once the heap has been named complete."]),
+    ],
+    terms=[
+        ("akusalarāsi",
+         "&ldquo;heap of the unskillful&rdquo; &mdash; this discourse's title and central claim, "
+         "an image of unskillfulness gathered entirely into one pile."),
+        ("kevalo",
+         "&ldquo;entirely, completely&rdquo; &mdash; the word marking this as a claim about "
+         "totality, not mere membership in a category."),
+        ("sammā vadamāno vadeyya",
+         "&ldquo;rightly speaking, one would say&rdquo; &mdash; framing the claim as a matter of "
+         "correct description, not rhetorical exaggeration."),
+        ("nīvaraṇa",
+         "&ldquo;hindrance&rdquo; &mdash; the five states this discourse claims exhaust the "
+         "category of the unskillful entirely."),
+        ("vicikicchā",
+         "&ldquo;doubt&rdquo; &mdash; the fifth and final hindrance named, closing the list this "
+         "discourse claims is complete."),
+    ],
+    text_intro=(
+        "The discourse in full: a single claim, the five hindrances named, and the claim "
+        "restated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.52:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about the five hindrances?",
+         "opts": [
+             "That they are one example among many kinds of unskillfulness",
+             "That, rightly speaking, they entirely constitute a heap of the unskillful",
+             "That only three of the five hindrances are truly unskillful",
+             "That the hindrances are morally neutral"],
+         "correct": 1,
+         "expl": "A claim of totality, not mere membership in a category."},
+        {"q": "What does 'kevalo', entirely, mark in this discourse?",
+         "opts": [
+             "Nothing significant",
+             "That the hindrances exhaust the category of the unskillful, rather than being "
+             "merely one part of it",
+             "That only one hindrance matters",
+             "A qualification limiting the claim's scope"],
+         "correct": 1,
+         "expl": "The word doing the discourse's real work, per the guide's reading."},
+        {"q": "What does 'sammā vadamāno vadeyya', rightly speaking, one would say, frame this "
+              "claim as?",
+         "opts": [
+             "A joke or exaggeration",
+             "A matter of correct description, staking out a specific position on how "
+             "'unskillful' ought to be used for this list",
+             "An open question with no answer given",
+             "A quotation from an unnamed source"],
+         "correct": 1,
+         "expl": "Not rhetorical flourish, but a claim about accurate terminology."},
+        {"q": "What structure does this discourse's entire text follow?",
+         "opts": [
+             "An extended narrative with multiple characters",
+             "A single claim stated, the five hindrances named, and the identical claim restated "
+             "as its own conclusion",
+             "A dialogue between the Buddha and a questioner",
+             "A long simile with several stages"],
+         "correct": 1,
+         "expl": "No simile or argument beyond the assertion itself, matching its own totalizing content."},
+        {"q": "How does this discourse's claim compare in strength to AN 5.51's treatment of the "
+              "same five states?",
+         "opts": [
+             "Identical in every respect",
+             "Stronger — AN 5.51 described their effect on wisdom; this discourse claims they "
+             "exhaust the category of unskillfulness itself",
+             "Weaker than AN 5.51's claim",
+             "Unrelated to AN 5.51"],
+         "correct": 1,
+         "expl": "A bolder, more totalizing claim than the previous discourse made."},
+        {"q": "What five hindrances does this discourse name?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and "
+             "doubt",
+             "Long life, beauty, happiness, fame, heaven",
+             "Iron, copper, tin, lead, silver"],
+         "correct": 1,
+         "expl": "The identical five items named at AN 5.51, in the same order."},
+        {"q": "Does this discourse offer any simile to illustrate its claim?",
+         "opts": [
+             "Yes, the river simile from AN 5.51",
+             "No — a bare assertion with no illustration at all",
+             "Yes, a new simile unique to this discourse",
+             "Yes, the gold-refining simile"],
+         "correct": 1,
+         "expl": "The shortest and most direct discourse in this chapter."},
+        {"q": "How long is this discourse?",
+         "opts": [
+             "Several minutes, with extended argument",
+             "About twenty seconds — the shortest in this chapter",
+             "Identical in length to AN 5.51",
+             "This discourse has no readable text"],
+         "correct": 1,
+         "expl": "A single sentence, stated and then restated as conclusion."},
+        {"q": "What comes next in this chapter?",
+         "opts": [
+             "A return to giving and wealth",
+             "AN 5.53, on five factors that support meditation",
+             "The chapter's final discourse",
+             "A repeat of AN 5.52"],
+         "correct": 1,
+         "expl": "A shift from what obstructs meditation to what makes it possible."},
+        {"q": "Where is AN 5.52 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("The claim", [
+            "the five hindrances,",
+            "<span class=\"pali\">kevalo</span>entirely,",
+            "a heap of the unskillful",
+        ]),
+        ("Totality, not membership", [
+            "not: one example among",
+            "many unskillful things",
+            "but: the whole category",
+        ]),
+        ("No argument needed", [
+            "stated once,",
+            "restated as conclusion",
+            "&mdash; nothing more to add",
+        ]),
+        ("Cross-references", [
+            "AN 5.51 &middot; the same five, weakening wisdom",
+            "AN 5.23 &middot; the corruptions, first named",
+            "AN 5.53 &middot; next: what supports meditation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.52/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.51.html">AN 5.51 &middot; Obstacles</a> &mdash; the previous discourse, on '
+        "the same five states and their effect on wisdom.",
+        '<a href="an-5.53.html">AN 5.53 &middot; Factors That Support Meditation</a> &mdash; '
+        "next, turning from obstruction to support.",
+        '<a href="an-5.23.html">AN 5.23 &middot; Corruptions</a> &mdash; the earlier appearance of '
+        "this same five-item list, under a third name.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.53 — Padhāniyaṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    53, "Padhāniyaṅga", "Factors That Support Meditation",
+    vagga=VAGGA_6,
+    meta_title="AN 5.53 — Factors That Support Meditation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Padhāniyaṅgasutta — "
+        "five factors supporting meditation, and the one genuinely surprising item among them: "
+        "good digestion, named alongside faith, honesty, energy, and wisdom. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "Five factors named in sequence, each described briefly, with no closing verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Physical health and digestion named as conditions for effective "
+                              "meditation recur across the Chinese Āgamas' monastic-conduct "
+                              "material; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a list mixing the doctrinal "
+                       "and the bodily without apparent embarrassment"),
+    ],
+    why=(
+        "Having just named what obstructs the mind and called it, entirely, a heap of the "
+        "unskillful, this discourse turns to what actually supports the work of meditation "
+        "&mdash; and the list it gives is not purely doctrinal. Faith and wisdom appear, in "
+        "their usual formulas, but so does something unexpected: a stomach that digests well, "
+        "<em>neither too hot nor too cold, but just right</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Five factors support meditation: faith in the Buddha's awakening, freedom from "
+            "illness with good digestion, honesty with one's teacher and companions, energy "
+            "roused up for skillful qualities, and wisdom into arising and passing away."]),
+        ("Three definitions inherited without change", [
+            "Faith (the nine-quality recollection of the Buddha), energy (roused up for giving "
+            "up the unskillful and taking up the skillful), and wisdom (insight into arising and "
+            "passing away) are worded here exactly as this nipāta has worded them every other "
+            "time. This discourse adds nothing new to any of the three; what is genuinely new "
+            "sits in the second and third factors."]),
+        ("A body that cooperates", [
+            "The second factor is entirely physical: rarely ill, and possessing "
+            "<em>samavepākiniyā gahaṇiyā</em>, an evenly-digesting constitution, "
+            "<em>nātisītāya nāccuṇhāya majjhimāya</em>, neither too cold nor too hot, but "
+            "moderate. This is a striking item to find alongside faith and wisdom in a list "
+            "supporting meditation &mdash; the discourse treats bodily digestion as no less "
+            "relevant to sustained practice than confidence in the teacher, without apparent "
+            "embarrassment at the mixture."]),
+        ("Honesty as a support, not only a virtue", [
+            "The third factor, <em>asaṭho amāyāvī</em>, not devious or deceitful, is framed "
+            "specifically around revealing oneself <em>honestly to the Teacher or sensible "
+            "spiritual companions</em>. This is honesty in service of a practical function: "
+            "concealment from those positioned to help would itself become an obstacle, so "
+            "transparency is named as a condition for meditation to proceed rather than only as "
+            "an independent ethical requirement."]),
+        ("Support, not guarantee", [
+            "Nothing in this list promises that meditation will succeed once these five factors "
+            "are present; the discourse's title names them as what <em>supports</em> meditation, "
+            "<em>padhāniyaṅga</em>, not what produces its result automatically. Compare this to "
+            "AN 5.54, the very next discourse, which will name external circumstances that make "
+            "meditation more or less possible in the first place &mdash; support operating at a "
+            "second, different level entirely."]),
+    ],
+    terms=[
+        ("padhāniyaṅga",
+         "&ldquo;factor supporting meditation&rdquo; &mdash; this discourse's title, naming "
+         "conditions for practice rather than a guarantee of its result."),
+        ("samavepākiniyā gahaṇiyā",
+         "&ldquo;evenly-digesting constitution&rdquo; &mdash; the striking physical item among "
+         "the five, digestion neither too hot nor too cold."),
+        ("asaṭho amāyāvī",
+         "&ldquo;not devious or deceitful&rdquo; &mdash; the third factor, honesty framed "
+         "specifically toward one's teacher and companions."),
+        ("padhānakkhamā",
+         "&ldquo;fit for meditation&rdquo; &mdash; the word describing the ideal digestive state, "
+         "linking bodily comfort directly to meditative capacity."),
+        ("udayatthagāminī paññā",
+         "&ldquo;wisdom of arising and passing away&rdquo; &mdash; the fifth factor, worded "
+         "identically to every other use of this formula in this nipāta."),
+    ],
+    text_intro=(
+        "The discourse in full: the five factors that support meditation, named in sequence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Faith"),
+        ("p", "&sect;1", "an5.53:1.1-1.2"),
+        ("h3", "Health and digestion"),
+        ("p", "&sect;2", "an5.53:1.3-1.4"),
+        ("h3", "Honesty"),
+        ("p", "&sect;3", "an5.53:1.5-1.6"),
+        ("h3", "Energy"),
+        ("p", "&sect;4", "an5.53:1.7-1.8"),
+        ("h3", "Wisdom"),
+        ("p", "&sect;5", "an5.53:1.9"),
+        ("p", "&sect;6", "an5.53:1.10-1.11"),
+    ],
+    quiz=[
+        {"q": "What five factors does this discourse say support meditation?",
+         "opts": [
+             "The five hindrances",
+             "Faith, freedom from illness with good digestion, honesty with teacher and "
+             "companions, energy, and wisdom",
+             "The five powers of a trainee",
+             "Long life, beauty, happiness, fame, and heaven"],
+         "correct": 1,
+         "expl": "A mix of doctrinal and physical factors."},
+        {"q": "Which factor does the guide flag as genuinely surprising to find in this list?",
+         "opts": [
+             "Faith",
+             "Good digestion — a physical condition alongside faith and wisdom",
+             "Wisdom",
+             "Energy"],
+         "correct": 1,
+         "expl": "A striking bodily item, treated as no less relevant than doctrinal confidence."},
+        {"q": "How is the ideal digestive state described?",
+         "opts": [
+             "Extremely hot",
+             "Neither too hot nor too cold, but moderate and fit for meditation",
+             "Irrelevant to meditation entirely",
+             "Only relevant for elderly mendicants"],
+         "correct": 1,
+         "expl": "Samavepākiniyā gahaṇiyā, nātisītāya nāccuṇhāya majjhimāya."},
+        {"q": "How is the third factor, honesty, specifically framed?",
+         "opts": [
+             "As an abstract virtue unrelated to practice",
+             "As revealing oneself honestly to the Teacher or sensible companions — a practical "
+             "condition, since concealment would itself become an obstacle",
+             "As honesty in business dealings",
+             "As honesty only in written records"],
+         "correct": 1,
+         "expl": "Framed around a specific practical function, not only as independent ethics."},
+        {"q": "Are faith, energy, and wisdom defined any differently here than elsewhere in this "
+              "nipāta?",
+         "opts": [
+             "Yes, with entirely new formulas",
+             "No — worded identically to every other use of these formulas in this nipāta",
+             "Only wisdom differs",
+             "Only faith differs"],
+         "correct": 1,
+         "expl": "No new content added to these three; what's new sits in the second and third factors."},
+        {"q": "What does the guide say this discourse's title, 'padhāniyaṅga', promises?",
+         "opts": [
+             "Guaranteed success in meditation",
+             "Support for meditation, not an automatic guarantee of its result",
+             "Nothing; the title is decorative",
+             "A specific timeline for attainment"],
+         "correct": 1,
+         "expl": "Conditions for practice, distinct from a promise of outcome."},
+        {"q": "How does the guide connect this discourse to AN 5.54, the next one?",
+         "opts": [
+             "As identical in content",
+             "As support operating at a different level — AN 5.54 names external circumstances "
+             "rather than personal qualities",
+             "As contradictory discourses",
+             "AN 5.54 is unrelated to meditation"],
+         "correct": 1,
+         "expl": "Two different kinds of 'support' for meditation, personal versus circumstantial."},
+        {"q": "Does this discourse close with verses, like most discourses in this chapter?",
+         "opts": [
+             "Yes, extensive verses",
+             "No — it ends directly after naming the five factors, with no verse",
+             "Yes, but only two lines",
+             "The discourse has no prose at all, only verse"],
+         "correct": 1,
+         "expl": "A plain prose list with no poetic close."},
+        {"q": "What does the faith factor's formula consist of?",
+         "opts": [
+             "A vow of poverty",
+             "The nine-quality recollection of the Buddha's awakening",
+             "A pledge of loyalty to a teacher",
+             "A meditation on impermanence"],
+         "correct": 1,
+         "expl": "The same buddhānussati formula used throughout this nipāta."},
+        {"q": "Where is AN 5.53 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Pāṭaliputta"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five factors", [
+            "faith &middot; health/digestion",
+            "honesty &middot; energy",
+            "wisdom",
+        ]),
+        ("An unexpected item", [
+            "good digestion,",
+            "named alongside",
+            "faith and wisdom",
+        ]),
+        ("Support, not guarantee", [
+            "<span class=\"pali\">padhāniyaṅga</span>",
+            "&mdash; conditions,",
+            "not automatic success",
+        ]),
+        ("Cross-references", [
+            "AN 5.52 &middot; obstruction, entirely",
+            "AN 5.54 &middot; next: external conditions",
+            "AN 5.2 &middot; the faith formula, first",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.53/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.52.html">AN 5.52 &middot; A Heap of the Unskillful</a> &mdash; the '
+        "previous discourse, on what obstructs rather than what supports.",
+        '<a href="an-5.54.html">AN 5.54 &middot; Times Good for Meditation</a> &mdash; next, '
+        "external circumstances rather than personal qualities.",
+        '<a href="an-5.2.html">AN 5.2 &middot; In Detail</a> &mdash; where the faith and wisdom '
+        "formulas reused here first appeared in this nipāta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.54 — Samayasutta
+# --------------------------------------------------------------------------- #
+page(
+    54, "Samaya", "Times Good for Meditation",
+    vagga=VAGGA_6,
+    meta_title="AN 5.54 — Times Good for Meditation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Samayasutta — five "
+        "times unsuited to meditation, from illness to a schism in the Saṅgha, mirrored by five "
+        "times well suited to it, admitting that circumstance shapes practice. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "Five unfavorable circumstances named in turn, then their five favorable "
+                 "mirrors, with no closing verse"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Naming external social and institutional conditions as relevant "
+                              "to meditation practice recurs across the Chinese Āgamas' monastic "
+                              "material; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; an unusually candid admission "
+                       "that circumstance, not only willpower, shapes practice"),
+    ],
+    why=(
+        "AN 5.53 named factors internal to a person as support for meditation. This discourse "
+        "names something different: circumstances entirely outside a mendicant's control that "
+        "make meditation more or less possible in the first place. Old age, sickness, famine, "
+        "civil unrest, and a schism in the Saṅgha are named, without qualification, as times "
+        "meditation does not go well &mdash; a admission this reading guide will not soften into "
+        "a claim that sufficiently determined practice can simply override any circumstance."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Five times are not good for meditation &mdash; old age, sickness, famine, wilderness "
+            "unrest, and a schism in the Saṅgha &mdash; and five mirror times are good for it: "
+            "youth, health, abundance, social harmony, and harmony within the Saṅgha."]),
+        ("Circumstance, named without euphemism", [
+            "Two of the five unfavorable conditions are bodily &mdash; old age and sickness, "
+            "conditions any individual mendicant might simply have no choice about. The other "
+            "three are social and institutional: famine making almsfood hard to get, "
+            "<em>aṭavisaṅkopo</em>, turmoil in the wilds severe enough that country people flee "
+            "with their vehicles, and a split Saṅgha where members <em>abuse, insult, block, and "
+            "forsake each other</em>. None of these five is framed as something meditation "
+            "itself can simply overcome; they are named as conditions under which meditation is, "
+            "factually, harder."]),
+        ("A schism's specific damage", [
+            "The fifth unfavorable time receives the most detailed description of any item on "
+            "either list: a divided Saṅgha does not merely inconvenience its members but "
+            "actively <em>doesn't inspire confidence in those without it, and causes some with "
+            "confidence to change their minds</em>. Institutional conflict is treated here as "
+            "having consequences beyond the immediate community &mdash; it damages the "
+            "teaching's standing with outsiders and unsettles even committed supporters."]),
+        ("The mirror list, exact and complete", [
+            "Every unfavorable condition has a named favorable counterpart: youth in place of "
+            "old age, health in place of sickness, abundance in place of famine, social harmony "
+            "in place of unrest, and a harmonious Saṅgha <em>with one recitation</em> in place "
+            "of schism. The parallel structure makes the discourse's point almost visually: these "
+            "are not separate concerns but the same five variables, each capable of running "
+            "either direction."]),
+        ("What this discourse does not claim", [
+            "Nothing here says a mendicant facing an unfavorable time should give up on "
+            "meditation altogether, and nothing claims a favorable time guarantees success. The "
+            "discourse's contribution is narrower and, arguably, more honest than either "
+            "extreme: circumstance is a real variable in whether meditation goes well, worth "
+            "naming plainly rather than folding into a purely individual account of practice and "
+            "effort."]),
+    ],
+    terms=[
+        ("asamaya samaya",
+         "&ldquo;bad time, good time&rdquo; &mdash; the paired terms structuring this "
+         "discourse's two matching lists."),
+        ("aṭavisaṅkopo",
+         "&ldquo;turmoil in the wilds&rdquo; &mdash; the fourth unfavorable condition, severe "
+         "enough that country people flee with their vehicles."),
+        ("saṅgho bhinno",
+         "&ldquo;a split Saṅgha&rdquo; &mdash; the fifth and most fully described unfavorable "
+         "condition, with consequences reaching beyond the immediate community."),
+        ("khīrodakībhūtā",
+         "&ldquo;blending like milk and water&rdquo; &mdash; the image for social harmony among "
+         "the favorable conditions, a close, inseparable mixture."),
+        ("ekuddesa",
+         "&ldquo;with one recitation&rdquo; &mdash; the mark of a harmonious Saṅgha, reciting the "
+         "monastic code together rather than splitting into factions."),
+    ],
+    text_intro=(
+        "The discourse in full: the five times unfavorable for meditation, and their five "
+        "favorable mirrors. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five times not good for meditation"),
+        ("p", "&sect;1", "an5.54:1.1-1.2"),
+        ("p", "&sect;2", "an5.54:1.3-1.4"),
+        ("p", "&sect;3", "an5.54:2.1-2.2"),
+        ("p", "&sect;4", "an5.54:3.1-3.2"),
+        ("p", "&sect;5", "an5.54:4.1-4.2"),
+        ("p", "&sect;6", "an5.54:5.1-5.4"),
+        ("p", "&sect;7", "an5.54:5.5"),
+        ("h3", "Five times good for meditation"),
+        ("p", "&sect;8", "an5.54:6.1-6.2"),
+        ("p", "&sect;9", "an5.54:6.3-6.4"),
+        ("p", "&sect;10", "an5.54:7.1-7.2"),
+        ("p", "&sect;11", "an5.54:8.1-8.2"),
+        ("p", "&sect;12", "an5.54:9.1-9.2"),
+        ("p", "&sect;13", "an5.54:10.1-10.4"),
+        ("p", "&sect;14", "an5.54:10.5"),
+    ],
+    quiz=[
+        {"q": "What five times does this discourse name as unfavorable for meditation?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Old age, sickness, famine, wilderness unrest, and a schism in the Saṅgha",
+             "Long life, beauty, happiness, fame, and heaven",
+             "The five hindrances"],
+         "correct": 1,
+         "expl": "Two bodily conditions and three social/institutional ones."},
+        {"q": "Does this discourse frame meditation as able to simply overcome any of these five "
+              "unfavorable conditions?",
+         "opts": [
+             "Yes, meditation is claimed to override all circumstances",
+             "No — the five are named as conditions under which meditation is, factually, harder, "
+             "without claiming willpower alone resolves this",
+             "The discourse takes no clear position",
+             "Only sickness is said to be overridable"],
+         "correct": 1,
+         "expl": "A candid admission that circumstance is a real variable, not merely an excuse to be dismissed."},
+        {"q": "What does the discourse say about the consequences of a Saṅgha schism?",
+         "opts": [
+             "Only that it inconveniences its own members",
+             "That it doesn't inspire confidence in those without it and causes some with "
+             "confidence to change their minds — damage reaching beyond the immediate community",
+             "That it has no real effect at all",
+             "That it only affects the monks involved directly"],
+         "correct": 1,
+         "expl": "The most detailed description on either list, extending beyond internal effects."},
+        {"q": "What is the mirror condition for old age among the five favorable times?",
+         "opts": [
+             "Wealth", "Youth, described in physical terms as pristine black hair and the prime "
+             "of life", "Fame", "Wisdom"],
+         "correct": 1,
+         "expl": "An exact structural mirror to the first unfavorable condition."},
+        {"q": "How does the guide describe the parallel structure between the two five-item "
+              "lists?",
+         "opts": [
+             "As coincidental, with no real connection",
+             "As the same five variables, each capable of running either direction, making the "
+             "point almost visually",
+             "As contradictory lists",
+             "As unrelated to each other"],
+         "correct": 1,
+         "expl": "An exact, one-to-one mirroring across both lists."},
+        {"q": "What image describes social harmony among the favorable conditions?",
+         "opts": [
+             "Fire and water, opposing forces",
+             "Blending like milk and water — a close, inseparable mixture",
+             "Two rivers running parallel but never meeting",
+             "No image is given"],
+         "correct": 1,
+         "expl": "Khīrodakībhūtā, a classic image of seamless combination."},
+        {"q": "What does the guide say this discourse does NOT claim?",
+         "opts": [
+             "That circumstance matters at all",
+             "That a mendicant facing bad conditions should give up meditation, or that good "
+             "conditions guarantee success",
+             "That old age and sickness are real conditions",
+             "That the Saṅgha's harmony matters"],
+         "correct": 1,
+         "expl": "A narrower, more honest contribution than either extreme claim."},
+        {"q": "How many of the five unfavorable conditions concern the individual body, versus "
+              "social or institutional circumstances?",
+         "opts": [
+             "All five are bodily",
+             "Two bodily (old age, sickness), three social or institutional (famine, unrest, "
+             "schism)",
+             "None are bodily; all are social",
+             "Four bodily, one social"],
+         "correct": 1,
+         "expl": "A mix spanning individual and communal levels."},
+        {"q": "How does this discourse relate to AN 5.53's account of what supports meditation?",
+         "opts": [
+             "It repeats AN 5.53 exactly",
+             "It names external circumstances, a different level of support than AN 5.53's "
+             "personal qualities like faith and honesty",
+             "It contradicts AN 5.53 entirely",
+             "It has no relation to AN 5.53"],
+         "correct": 1,
+         "expl": "Two distinct kinds of factors bearing on whether meditation goes well."},
+        {"q": "Where is AN 5.54 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five bad times", [
+            "old age &middot; sickness",
+            "famine &middot; unrest",
+            "Saṅgha schism",
+        ]),
+        ("Five good times", [
+            "youth &middot; health",
+            "abundance &middot; harmony",
+            "Saṅgha unity",
+        ]),
+        ("An honest admission", [
+            "circumstance shapes practice",
+            "&mdash; not only",
+            "individual willpower",
+        ]),
+        ("Cross-references", [
+            "AN 5.53 &middot; personal support factors",
+            "AN 5.55 &middot; next: Mother and Son",
+            "AN 5.51 &middot; obstacles, internal",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.54/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.53.html">AN 5.53 &middot; Factors That Support Meditation</a> &mdash; the '
+        "previous discourse, on personal rather than circumstantial support.",
+        '<a href="an-5.55.html">AN 5.55 &middot; Mother and Son</a> &mdash; next, a stark case '
+        "study in what unguarded intimacy, even during a good time for practice, can still "
+        "produce.",
+        '<a href="an-5.51.html">AN 5.51 &middot; Obstacles</a> &mdash; the chapter&rsquo;s '
+        "opening discourse, on obstruction internal to the mind rather than external circumstance.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.55 — Mātāputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    55, "Mātāputta", "Mother and Son",
+    vagga=VAGGA_6,
+    meta_title="AN 5.55 — Mother and Son | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mātāputtasutta — a "
+        "monk and his own mother, a nun, grow too close during a shared rains retreat and break "
+        "their vows, prompting one of the canon's starkest warnings about desire, addressed "
+        "specifically to a male monastic audience. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery; stated at the head of "
+                    "AN 5.55"),
+        ("Speakers", "The Buddha, addressing mendicants after being told what happened"),
+        ("Form", "A reported incident, a five-step causal chain explaining how it happened, the "
+                 "Buddha's direct response, and verses warning against unguarded closeness"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Warnings against unguarded closeness between monastics and the "
+                              "opposite sex recur across Vinaya-adjacent literature in the "
+                              "Chinese tradition; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; the most difficult discourse "
+                       "in this chapter, requiring direct acknowledgment of its content and its "
+                       "limits"),
+    ],
+    why=(
+        "This reading guide will state plainly what this discourse contains and does not "
+        "soften it: a monk and his own mother, ordained as a nun, break their monastic vows "
+        "together after growing too close during a shared rains retreat. The Buddha's response "
+        "does not excuse this, but it also does not stop at condemning the two individuals; it "
+        "generalizes into some of the starkest language in the collection about the danger a "
+        "woman's presence is said to pose to a man's mind. This is addressed specifically to a "
+        "male monastic audience managing a specific historical anxiety about desire, and this "
+        "reading guide presents it as such rather than as this series&rsquo; own claim about "
+        "women's nature."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A monk and his mother, a nun, who wanted to see each other often during a shared "
+            "rains retreat grew close, then intimate, then overcome by lust, and had sex without "
+            "formally leaving the training first; when told of this, the Buddha names how "
+            "closeness of this kind develops and warns, in the strongest terms available to him, "
+            "against unguarded proximity between a man and a woman."]),
+        ("A five-step chain, named without blame at any single step", [
+            "The discourse traces exactly how this happened, as a causal sequence: wanting to "
+            "see each other often, leading to frequent seeing, leading to closeness "
+            "(<em>saṁsagga</em>), leading to intimacy (<em>vissāsa</em>), leading to an opening "
+            "for lust (<em>otāra</em>) that finally overcame them. No single step in this chain "
+            "is itself framed as the transgression; the transgression is what the completed chain "
+            "produced. This mirrors a structural pattern this nipāta has used before, at AN "
+            "5.24's causal chain and AN 5.26's opportunity-chain, applied here to a case where "
+            "the momentum runs toward harm rather than freedom."]),
+        ("The Buddha's response, and what it does not say", [
+            "The Buddha's first words &mdash; <em>how could that futile man imagine that a "
+            "mother cannot lust for her son, or a son for his mother?</em> &mdash; refuse to let "
+            "kinship be treated as automatic protection against desire. This reading guide reads "
+            "this as a direct, unflinching acknowledgment of how thoroughly desire can operate, "
+            "not as commentary on the mother and son&rsquo;s particular characters. What the "
+            "discourse does not do is excuse what happened; it explains the mechanism honestly "
+            "while still treating the outcome as a serious breach."]),
+        ("What follows, and its intended audience", [
+            "What comes next is addressed to a male monastic audience specifically, using the "
+            "grammatical masculine throughout: no sight, sound, smell, taste, or touch is named "
+            "as more arousing or more of an obstacle to freedom than a woman's; a woman is called "
+            "<em>an all-round snare of Māra</em>; the verses counsel that one should sooner sit "
+            "beside an armed stranger or a venomous snake than talk alone with a woman. This "
+            "reading guide states this content directly rather than paraphrasing it into "
+            "something gentler, because softening it would misrepresent both the discourse and "
+            "the seriousness of what it is actually claiming."]),
+        ("Reading this discourse honestly, without endorsing its frame", [
+            "This is a text produced within and for a celibate male monastic community managing "
+            "a specific, historically situated anxiety: how physical closeness with women "
+            "specifically threatened the vows those particular listeners had taken. It is not "
+            "presented here as this series' own claim that women are inherently dangerous, nor "
+            "as a template for how anyone should regard anyone else today. The honest response "
+            "to a text like this is neither to erase it from the record nor to repeat its "
+            "framing as though this reading guide endorsed it; it is to state clearly what "
+            "audience it addresses, what problem it is actually trying to solve, and what "
+            "remains genuinely useful in it &mdash; the causal chain from casual contact to "
+            "crossed vows applies to more situations than this one, even where the discourse's "
+            "gendered framing does not travel."]),
+    ],
+    terms=[
+        ("vassāvāsa",
+         "&ldquo;rains residence&rdquo; &mdash; the shared retreat period during which the "
+         "mother and son's closeness developed."),
+        ("saṁsagga vissāsa otāra",
+         "&ldquo;closeness, intimacy, an opening&rdquo; &mdash; the three middle steps of the "
+         "five-step chain from frequent contact to lust overcoming both parties."),
+        ("moghapurisa",
+         "&ldquo;futile man&rdquo; &mdash; the Buddha's opening address, refusing the assumption "
+         "that kinship alone would have prevented desire."),
+        ("samantapāso mārassa",
+         "&ldquo;an all-round snare of Māra&rdquo; &mdash; the discourse's starkest description "
+         "of a woman, addressed to its male monastic audience specifically."),
+        ("kāme pariññāya",
+         "&ldquo;having fully understood sensual pleasures&rdquo; &mdash; the closing verse's "
+         "positive counterpart, the state of one who has crossed over rather than been swept "
+         "away."),
+    ],
+    text_intro=(
+        "The discourse in full: the incident, its causal chain, the Buddha's response, and the "
+        "closing verses. This page presents the discourse's content directly, including language "
+        "addressed to a specific historical male monastic audience that this reading guide does "
+        "not endorse as a general claim. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "What happened"),
+        ("p", "&sect;1", "an5.55:1.1"),
+        ("p", "&sect;2", "an5.55:1.2-1.10"),
+        ("p", "&sect;3", "an5.55:2.1-2.4"),
+        ("h3", "The Buddha's response"),
+        ("p", "&sect;4", "an5.55:3.1-3.5"),
+        ("p", "&sect;5", "an5.55:4.1-4.3"),
+        ("p", "&sect;6", "an5.55:5.1-5.5"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;7", "an5.55:6.1-6.6"),
+        ("p", "&sect;8", "an5.55:7.1-7.6"),
+        ("p", "&sect;9", "an5.55:8.1-8.4"),
+        ("p", "&sect;10", "an5.55:9.1-9.4"),
+        ("p", "&sect;11", "an5.55:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What incident does this discourse report?",
+         "opts": [
+             "A monk and a stranger breaking their vows",
+             "A monk and his own mother, ordained as a nun, growing too close during a shared "
+             "rains retreat and breaking their vows together",
+             "Two unrelated monks arguing",
+             "A theft in the monastery"],
+         "correct": 1,
+         "expl": "Reported to the Buddha by several mendicants after it occurred."},
+        {"q": "What five-step chain does the discourse trace from wanting to see each other to "
+              "the actual transgression?",
+         "opts": [
+             "No chain is described; it happened suddenly with no explanation",
+             "Wanting frequent contact, leading to frequent seeing, closeness, intimacy, and "
+             "finally an opening for lust that overcame them",
+             "A single instantaneous decision with no preceding steps",
+             "A plotted, premeditated plan"],
+         "correct": 1,
+         "expl": "A structural pattern mirroring AN 5.24's and AN 5.26's causal chains, here applied to a harmful outcome."},
+        {"q": "What does the Buddha's opening question — 'how could that futile man imagine a "
+              "mother cannot lust for her son?' — refuse to treat as automatic protection?",
+         "opts": [
+             "Monastic vows",
+             "Kinship itself",
+             "Old age",
+             "Physical distance"],
+         "correct": 1,
+         "expl": "A direct acknowledgment that family relationship alone does not prevent desire from arising."},
+        {"q": "How does the guide characterize the audience for the discourse's warnings about "
+              "women?",
+         "opts": [
+             "As a universal claim about all people for all time",
+             "As addressed specifically to a male monastic audience managing a historically "
+             "situated anxiety about desire, not this series' own claim about women's nature",
+             "As addressed equally to men and women",
+             "As irrelevant to understanding the discourse"],
+         "correct": 1,
+         "expl": "Context the guide states explicitly rather than leaving unstated."},
+        {"q": "Does this reading guide soften or paraphrase the discourse's starkest language, "
+              "such as calling a woman 'an all-round snare of Māra'?",
+         "opts": [
+             "Yes, it removes this language entirely",
+             "No — it states the content directly, judging that softening it would misrepresent "
+             "the discourse and its seriousness",
+             "It replaces the language with a modern equivalent",
+             "It refuses to discuss this part of the discourse"],
+         "correct": 1,
+         "expl": "Direct presentation, with context, rather than erasure or repetition without comment."},
+        {"q": "Does the Buddha's response excuse what the monk and his mother did?",
+         "opts": [
+             "Yes, entirely",
+             "No — it explains the mechanism honestly while still treating the outcome as a "
+             "serious breach",
+             "The discourse takes no position on this",
+             "Yes, and praises their actions"],
+         "correct": 1,
+         "expl": "Explanation of cause is distinguished from excuse in the guide's reading."},
+        {"q": "What does the guide say remains genuinely useful in this discourse, even where its "
+              "gendered framing does not travel to a general audience?",
+         "opts": [
+             "Nothing at all; the discourse should be disregarded entirely",
+             "The causal chain from casual contact to crossed vows, which applies to more "
+             "situations than this specific one",
+             "Only its verses, not its prose",
+             "Only the mother's perspective, which is absent from the text"],
+         "correct": 1,
+         "expl": "A structural insight the guide extracts from beneath the discourse's specific historical framing."},
+        {"q": "What do the closing verses advise about being alone with a woman, compared to other "
+              "risks?",
+         "opts": [
+             "That it is safer than any other risk",
+             "That one should sooner sit beside an armed stranger or a venomous snake than talk "
+             "alone, one on one, with a woman",
+             "That it carries no particular risk at all",
+             "That it is acceptable if brief"],
+         "correct": 1,
+         "expl": "Among the starkest comparisons in the collection, stated directly by this reading guide rather than hidden."},
+        {"q": "What does the discourse's final verse describe as the alternative to being 'swept "
+              "away' by desire?",
+         "opts": [
+             "Suppressing all sensation permanently",
+             "Fully understanding sensual pleasures and living fearing nothing, having crossed "
+             "over",
+             "Avoiding all other people entirely",
+             "The discourse offers no alternative"],
+         "correct": 1,
+         "expl": "Kāme pariññāya, the positive counterpart closing the discourse."},
+        {"q": "Where is AN 5.55 set?",
+         "opts": [
+             "A new location, stated explicitly — Sāvatthī, in Jeta's Grove",
+             "None restated",
+             "Vesālī",
+             "Pāṭaliputta"],
+         "correct": 0,
+         "expl": "Explicitly restated at the head of this discourse."},
+    ],
+    marginalia=[
+        ("The five-step chain", [
+            "wanting frequent contact &rarr;",
+            "seeing often &rarr; closeness",
+            "&rarr; intimacy &rarr; lust",
+        ]),
+        ("Named directly", [
+            "&ldquo;a mother cannot",
+            "lust for her son?&rdquo;",
+            "&mdash; refused as an assumption",
+        ]),
+        ("Context stated plainly", [
+            "addressed to male",
+            "monastics specifically &mdash;",
+            "not this guide's own claim",
+        ]),
+        ("Cross-references", [
+            "AN 5.24 &middot; a related causal chain",
+            "AN 5.26 &middot; another chain, toward freedom",
+            "AN 5.56 &middot; next: a mentor's advice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.55/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.24.html">AN 5.24 &middot; Unethical</a> &mdash; an earlier causal chain in '
+        "this nipāta, there tracing a path toward freedom rather than away from it.",
+        '<a href="an-5.56.html">AN 5.56 &middot; Mentor</a> &mdash; next, a more encouraging case '
+        "of a monk&rsquo;s difficulty resolved through practice.",
+        '<a href="an-5.33.html">AN 5.33 &middot; With Uggaha</a> &mdash; this chapter&rsquo;s '
+        "other discourse requiring the same honest, unflinching presentation of historically "
+        "specific content.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.56 — Upajjhāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    56, "Upajjhāya", "Mentor",
+    vagga=VAGGA_6,
+    next=("an-5.57.html", "AN 5.57 &middot; Subjects for Regular Reviewing"),
+    meta_title="AN 5.56 — Mentor | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Upajjhāyasutta — a "
+        "mendicant reports feeling drugged, disoriented, drowsy, dissatisfied, and doubtful; the "
+        "Buddha diagnoses the cause and prescribes the fix, and the mendicant, practicing alone, "
+        "becomes an arahant. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "An unnamed mendicant, his mentor, and the Buddha"),
+        ("Form", "A symptom reported twice, a diagnosis and prescription, a report of complete "
+                 "success, and the identical instruction repeated"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Mentor-mediated consultation with the Buddha over a specific "
+                              "meditative difficulty recurs across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; after this chapter's "
+                       "hardest discourse, one of its most encouraging"),
+    ],
+    why=(
+        "After AN 5.55's account of practice failing badly, this discourse shows practice "
+        "working completely, start to finish. A mendicant describes a cluster of symptoms with "
+        "unusual precision &mdash; a drugged feeling in the body, disorientation, teachings that "
+        "won't come to mind, drowsiness, dissatisfaction, doubt &mdash; and rather than treating "
+        "any of this as a personal failing beyond remedy, the Buddha names a specific, "
+        "correctable cause and gives a specific fix, which the mendicant then applies alone and "
+        "which works completely."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant reporting a drugged, disoriented, drowsy, dissatisfied, and doubtful "
+            "state is told this comes from unguarded senses, overeating, insufficient dedication "
+            "to wakefulness, and neglecting the awakening factors, and instructed to reverse all "
+            "five &mdash; which he does, alone, becoming an arahant."]),
+        ("A precise cluster of symptoms, taken seriously", [
+            "<em>Madhurakajāto kāyo</em>, a body that feels drugged, is an unusually vivid and "
+            "specific complaint, and it is not treated as vague or dismissible. The mendicant "
+            "names five distinct experiences &mdash; bodily heaviness, spatial disorientation, "
+            "teachings that fail to surface in memory, dullness and drowsiness filling the mind, "
+            "dissatisfaction with the spiritual life, and doubt about the teachings &mdash; and "
+            "the Buddha's response engages with all five as a genuinely diagnosable condition, "
+            "not a character flaw."]),
+        ("Diagnosis, in four correctable causes", [
+            "The Buddha names exactly what produces this state: unguarded sense doors, immoderate "
+            "eating, insufficient dedication to wakefulness, and neglecting to discern skillful "
+            "qualities and develop the awakening factors <em>in the evening and toward dawn</em>. "
+            "Every one of these four is a matter of practice, not disposition &mdash; the "
+            "discourse implies the mendicant's difficulty is not a fixed trait but a set of "
+            "specific, correctable habits."]),
+        ("The turnaround, reported in the mendicant's own words", [
+            "The discourse gives the mendicant's transformed report the same precision as his "
+            "original complaint, symptom by symptom, negated one at a time: no longer drugged, "
+            "no longer disoriented, teachings now come to mind, no more drowsiness, satisfaction "
+            "in the spiritual life, no doubt. This is not summarized as &lsquo;he "
+            "improved&rsquo;; the discourse restates the entire original list in reverse, giving "
+            "the recovery the same specificity as the original complaint."]),
+        ("From individual instruction to general teaching", [
+            "The Buddha's second delivery of this same instruction, after the mendicant's "
+            "success, shifts address from singular <em>bhikkhu</em> to plural "
+            "<em>bhikkhave</em> &mdash; the identical fix, now offered to the whole assembly "
+            "rather than the one mendicant who needed it. A remedy that worked for one specific, "
+            "precisely described case becomes, without modification, general instruction."]),
+    ],
+    terms=[
+        ("madhurakajāto kāyo",
+         "&ldquo;a body that feels drugged&rdquo; &mdash; the mendicant's opening complaint, an "
+         "unusually vivid physical description."),
+        ("indriyesu aguttadvāra",
+         "&ldquo;unguarded sense doors&rdquo; &mdash; the first of four diagnosed causes of the "
+         "mendicant's condition."),
+        ("bhojane amattaññu",
+         "&ldquo;not knowing moderation in eating&rdquo; &mdash; the second cause, overeating as "
+         "a specific, correctable habit."),
+        ("bodhipakkhiyā dhammā",
+         "&ldquo;qualities on the side of awakening&rdquo; &mdash; the framework the fourth cause "
+         "says was being neglected in the evening and toward dawn."),
+        ("saddhivihārika",
+         "&ldquo;co-resident, protégé&rdquo; &mdash; the term for the mendicant in relation to "
+         "the mentor who brings him to the Buddha both times in this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: the mendicant's complaint, the Buddha's diagnosis and "
+        "instruction, the mendicant's success, and the same instruction restated for the whole "
+        "assembly. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The complaint"),
+        ("p", "&sect;1", "an5.56:1.1-1.2"),
+        ("p", "&sect;2", "an5.56:2.1-2.3"),
+        ("h3", "The diagnosis and instruction"),
+        ("p", "&sect;3", "an5.56:3.1"),
+        ("p", "&sect;4", "an5.56:3.2-3.4"),
+        ("h3", "Practicing alone"),
+        ("p", "&sect;5", "an5.56:4.1"),
+        ("p", "&sect;6", "an5.56:4.2"),
+        ("p", "&sect;7", "an5.56:4.3-4.4"),
+        ("h3", "The turnaround, reported"),
+        ("p", "&sect;8", "an5.56:5.1-5.2"),
+        ("p", "&sect;9", "an5.56:5.3-5.5"),
+        ("h3", "The same instruction, for everyone"),
+        ("p", "&sect;10", "an5.56:6.1"),
+        ("p", "&sect;11", "an5.56:6.2-6.4"),
+    ],
+    quiz=[
+        {"q": "What five symptoms does the mendicant report to his mentor?",
+         "opts": [
+             "Physical pain, fever, hunger, thirst, and fatigue",
+             "A drugged bodily feeling, disorientation, teachings not coming to mind, drowsiness, "
+             "dissatisfaction, and doubt",
+             "Anger, fear, greed, jealousy, and pride",
+             "The five hindrances by their formal names"],
+         "correct": 1,
+         "expl": "A precise, specific cluster, taken seriously rather than dismissed."},
+        {"q": "What four causes does the Buddha diagnose for this condition?",
+         "opts": [
+             "Fixed personal traits that cannot be changed",
+             "Unguarded sense doors, overeating, insufficient dedication to wakefulness, and "
+             "neglecting the awakening factors in the evening and toward dawn",
+             "Poor diet alone",
+             "Living in the wrong location"],
+         "correct": 1,
+         "expl": "Four correctable habits, not an unchangeable disposition."},
+        {"q": "What does the mendicant do with this instruction?",
+         "opts": [
+             "Ignores it",
+             "Applies it alone, diligently, and soon becomes an arahant",
+             "Asks another teacher for a second opinion",
+             "Gives up the training entirely"],
+         "correct": 1,
+         "expl": "Solitary, diligent practice leading to complete success."},
+        {"q": "How does the discourse report the mendicant's eventual transformation?",
+         "opts": [
+             "With a brief summary: 'he improved'",
+             "By restating the entire original symptom list in reverse, negating each item one "
+             "at a time with the same specificity",
+             "It does not report the outcome at all",
+             "Only in verse, with no prose account"],
+         "correct": 1,
+         "expl": "The same precision applied to the recovery as to the original complaint."},
+        {"q": "What shift happens when the Buddha delivers the same instruction a second time?",
+         "opts": [
+             "The instruction changes significantly",
+             "The address shifts from singular 'bhikkhu' to plural 'bhikkhave' — the identical fix "
+             "now offered to the whole assembly",
+             "The instruction is contradicted",
+             "A different set of causes is named"],
+         "correct": 1,
+         "expl": "An individual remedy becomes general teaching without modification."},
+        {"q": "How does the guide contrast this discourse with AN 5.55, the previous one?",
+         "opts": [
+             "As identical in tone and outcome",
+             "As showing practice working completely, after AN 5.55 showed practice failing badly",
+             "As unrelated to AN 5.55",
+             "As a direct continuation of the same narrative"],
+         "correct": 1,
+         "expl": "A deliberately encouraging discourse placed after the chapter's hardest one."},
+        {"q": "What role does the mentor (upajjhāya) play in this discourse?",
+         "opts": [
+             "None; the mendicant approaches the Buddha alone",
+             "He listens to the complaint and personally brings his protégé to the Buddha, both "
+             "before and after the transformation",
+             "He forbids the mendicant from seeking help",
+             "He provides the diagnosis himself, without the Buddha's involvement"],
+         "correct": 1,
+         "expl": "An active, supportive role in both halves of the narrative."},
+        {"q": "Is the mendicant's original condition treated as a moral failing?",
+         "opts": [
+             "Yes, he is condemned for it",
+             "No — it is treated as a diagnosable, correctable condition arising from specific "
+             "habits",
+             "The discourse takes no position on this",
+             "Yes, but only mildly"],
+         "correct": 1,
+         "expl": "A practical, almost clinical framing rather than a moralizing one."},
+        {"q": "What term describes the mendicant's relationship to his mentor?",
+         "opts": [
+             "Sappurisa, true person",
+             "Saddhivihārika, co-resident or protégé",
+             "Sekha, trainee",
+             "Ariyasāvako, noble disciple"],
+         "correct": 1,
+         "expl": "The standard term for a monk under a mentor's guidance."},
+        {"q": "Where is AN 5.56 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five symptoms", [
+            "drugged body &middot; lost",
+            "teachings absent &middot; drowsy",
+            "dissatisfied &middot; doubtful",
+        ]),
+        ("Four causes", [
+            "unguarded senses",
+            "overeating",
+            "under-dedicated to waking",
+            "awakening factors neglected",
+        ]),
+        ("Fully reversed", [
+            "every symptom, negated",
+            "one by one &mdash;",
+            "then, arahantship",
+        ]),
+        ("Cross-references", [
+            "AN 5.55 &middot; practice, failing",
+            "AN 5.58 &middot; next: the Licchavi youths",
+            "AN 5.51 &middot; the hindrances, this fix addresses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.56/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.55.html">AN 5.55 &middot; Mother and Son</a> &mdash; the previous '
+        "discourse, this chapter's hardest case of unguarded closeness.",
+        '<a href="an-5.51.html">AN 5.51 &middot; Obstacles</a> &mdash; the five hindrances this '
+        "discourse's fix directly addresses, though never named explicitly here.",
+        '<a href="an-5.58.html">AN 5.58 &middot; The Licchavi Youths</a> &mdash; next, a '
+        "different kind of transformation observed from the outside.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.58 — Licchavikumārakasutta
+# --------------------------------------------------------------------------- #
+page(
+    58, "Licchavikumāraka", "The Licchavi Youths",
+    vagga=VAGGA_6,
+    prev=("an-5.57.html", "AN 5.57 &middot; Subjects for Regular Reviewing"),
+    meta_title="AN 5.58 — The Licchavi Youths | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Licchavikumārakasutta "
+        "— violent, thieving young nobles are found silently paying homage to the Buddha, "
+        "prompting a general teaching on what makes any leader's fortunes grow rather than "
+        "decline. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood; the Buddha seated at the root of a tree after his "
+                    "almsround"),
+        ("Speakers", "Mahānāma the Licchavi, and the Buddha"),
+        ("Form", "An observed scene, a bystander's exclamation and explanation, and a general "
+                 "teaching on five conditions for a leader's growth"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Honoring family, dependents, and religious teachers as conditions "
+                              "for a ruler's flourishing recurs across the Chinese Āgamas' "
+                              "political-ethics material; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a vivid character sketch "
+                       "opening onto material already met once in this nipāta"),
+    ],
+    why=(
+        "This discourse opens with a genuinely surprising image: a pack of Licchavi youths, "
+        "described by their own townsman as violent, harsh, and given to stealing sweets and "
+        "hitting girls, are found silently, respectfully paying homage to the seated Buddha, "
+        "bows and hunting dogs set aside. Mahānāma's exclamation &mdash; <em>they will become "
+        "Vajjis!</em> &mdash; becomes the occasion for the Buddha to generalize past this one "
+        "scene into a teaching on what makes any leader's fortunes grow."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A gentleman in any position of leadership &mdash; king, official, general, chief, "
+            "or clan ruler &mdash; can expect only growth, not decline, when he uses his "
+            "legitimate wealth to honor his parents, his household, his business associates, the "
+            "deities who receive spirit-offerings, and ascetics and brahmins."]),
+        ("A scene worth pausing on before its lesson", [
+            "The youths are not described neutrally: <em>caṇḍā pharusā apānubhā</em>, violent, "
+            "harsh, brash, who steal sweets left out for families and hit girls of good families "
+            "on their backs. The discourse does not soften this description to make the "
+            "following scene more flattering; the contrast between what Mahānāma knows of them "
+            "and what he now sees &mdash; silent, cupped-palm homage &mdash; is the whole point "
+            "of his exclamation, and it only lands because the earlier description was left "
+            "unflattering."]),
+        ("&lsquo;They will become Vajjis&rsquo;", [
+            "Mahānāma's exclamation is a specific compliment tied to the political identity of "
+            "his own confederacy: to <em>become Vajjis</em>, in his mouth, means growing into "
+            "the reputation the Vajjian confederation held for itself, presumably for competent, "
+            "responsible leadership. The Buddha does not confirm or dwell on this reading of the "
+            "youths' character; he moves directly to stating the general conditions under which "
+            "any leader &mdash; not only these particular youths &mdash; can expect to flourish."]),
+        ("The same wealth, the same five uses, restated for leaders", [
+            "The five honored parties &mdash; parents, household and dependents, business "
+            "associates, spirit-receiving deities, ascetics and brahmins &mdash; closely track "
+            "<a href=\"an-5.41.html\">AN 5.41</a>'s five reasons to get rich from earlier in "
+            "this nipāta, including the same frank inclusion of spirit-offerings without "
+            "apology. What is new here is the frame: not an individual's personal satisfaction "
+            "with how they used their wealth, but a structural claim about what determines "
+            "whether any leader's position holds or erodes."]),
+        ("Love repaid in the same words, five times over", [
+            "Each of the five honored parties is said to respond identically: <em>ciraṁ jīva, "
+            "dīghamāyuṁ pālehi</em>, live long, stay alive for a long time. The discourse does "
+            "not vary this wish across parents, household, business partners, deities, or "
+            "renunciates; the same blessing, repeated five times without change, becomes the "
+            "discourse's own refrain for what honored parties give back."]),
+    ],
+    terms=[
+        ("caṇḍā pharusā apānubhā",
+         "&ldquo;violent, harsh, brash&rdquo; &mdash; Mahānāma's unflattering description of the "
+         "youths before the scene that changes his assessment."),
+        ("bhavissanti vajjī",
+         "&ldquo;they will become Vajjis&rdquo; &mdash; Mahānāma's exclamation, tying the youths' "
+         "changed bearing to his own confederacy's reputation."),
+        ("vuddhi parihāni",
+         "&ldquo;growth, decline&rdquo; &mdash; the paired outcomes this discourse's general "
+         "teaching claims to determine for any leader."),
+        ("khettakammantasāmantasabyohāra",
+         "&ldquo;those who work neighboring fields, and business associates&rdquo; &mdash; the "
+         "third honored party, extending the circle beyond household to economic relationships."),
+        ("ciraṁ jīva dīghamāyuṁ pālehi",
+         "&ldquo;live long, stay alive for a long time&rdquo; &mdash; the identical blessing "
+         "repeated by all five honored parties."),
+    ],
+    text_intro=(
+        "The discourse in full: the youths observed, Mahānāma's exclamation and explanation, and "
+        "the general teaching on five conditions for a leader's growth. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha, seated in the wood"),
+        ("p", "&sect;1", "an5.58:1.1"),
+        ("p", "&sect;2", "an5.58:1.2-1.3"),
+        ("h3", "The youths, homaging silently"),
+        ("p", "&sect;3", "an5.58:2.1-2.2"),
+        ("h3", "Mahānāma's exclamation"),
+        ("p", "&sect;4", "an5.58:3.1-3.4"),
+        ("p", "&sect;5", "an5.58:4.1-4.2"),
+        ("p", "&sect;6", "an5.58:4.3-4.6"),
+        ("h3", "Five conditions for growth"),
+        ("p", "&sect;7", "an5.58:5.1-5.2"),
+        ("p", "&sect;8", "an5.58:6.1-6.2"),
+        ("p", "&sect;9", "an5.58:6.3-6.5"),
+        ("p", "&sect;10", "an5.58:7.1-7.4"),
+        ("p", "&sect;11", "an5.58:8.1-8.4"),
+        ("p", "&sect;12", "an5.58:9.1-9.4"),
+        ("p", "&sect;13", "an5.58:10.1-10.4"),
+        ("p", "&sect;14", "an5.58:11.1-11.2"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;15", "an5.58:12.1-12.4"),
+        ("p", "&sect;16", "an5.58:13.1-13.4"),
+        ("p", "&sect;17", "an5.58:14.1-14.4"),
+        ("p", "&sect;18", "an5.58:15.1-15.4"),
+    ],
+    quiz=[
+        {"q": "How does Mahānāma describe the Licchavi youths before he sees them paying homage?",
+         "opts": [
+             "As gentle and studious",
+             "As violent, harsh, and brash — stealing sweets and hitting girls of good families",
+             "As already devoted Buddhist practitioners",
+             "As elderly and respected"],
+         "correct": 1,
+         "expl": "An unflattering description that makes the following scene's contrast land."},
+        {"q": "What does Mahānāma exclaim upon seeing the youths silently paying homage?",
+         "opts": [
+             "'They will become monks!'",
+             "'They will become Vajjis!' — tying their changed bearing to his own confederacy's "
+             "reputation",
+             "'They should be punished!'",
+             "He says nothing at all"],
+         "correct": 1,
+         "expl": "A compliment specific to Licchavi/Vajjian political identity."},
+        {"q": "What five parties does the Buddha's general teaching say a leader should honor with "
+              "legitimate wealth?",
+         "opts": [
+             "Only the poor",
+             "Parents, household and dependents, business associates, spirit-receiving deities, "
+             "and ascetics and brahmins",
+             "Only fellow rulers",
+             "Only monastics"],
+         "correct": 1,
+         "expl": "A five-item list closely tracking AN 5.41's earlier account of wealth's proper uses."},
+        {"q": "How does this list compare to AN 5.41's five reasons to get rich?",
+         "opts": [
+             "Entirely unrelated",
+             "Closely tracking it, including the same frank inclusion of spirit-offerings without "
+             "apology",
+             "A direct contradiction",
+             "Identical in every single word, with no variation"],
+         "correct": 1,
+         "expl": "The same underlying content, reframed here as a condition for leadership rather than personal satisfaction."},
+        {"q": "What does each of the five honored parties say in response, according to the "
+              "discourse?",
+         "opts": [
+             "Each says something different",
+             "All five say the identical blessing: 'live long, stay alive for a long time'",
+             "None respond at all",
+             "Only the parents respond"],
+         "correct": 1,
+         "expl": "An unvarying refrain repeated five times."},
+        {"q": "What outcome does this discourse claim follows from honoring all five parties?",
+         "opts": [
+             "Guaranteed decline",
+             "Only growth, not decline, is to be expected",
+             "No particular outcome is claimed",
+             "Immediate enlightenment"],
+         "correct": 1,
+         "expl": "Vuddhiyeva pāṭikaṅkhā, no parihāni — the discourse's structural claim."},
+        {"q": "What kinds of leaders does the Buddha's teaching apply to?",
+         "opts": [
+             "Only kings",
+             "Any leadership position — an anointed king, an official, a general, a village or "
+             "guild chief, or a clan ruler",
+             "Only religious leaders",
+             "Only military generals"],
+         "correct": 1,
+         "expl": "A broad, general claim about leadership as such, not confined to royalty."},
+        {"q": "Does the Buddha confirm or dwell on Mahānāma's specific reading of the youths' "
+              "character?",
+         "opts": [
+             "Yes, at great length",
+             "No — he moves directly to a general teaching applicable beyond these particular "
+             "youths",
+             "He rejects Mahānāma's reading entirely",
+             "He asks the youths to confirm it themselves"],
+         "correct": 1,
+         "expl": "The scene becomes an occasion for general teaching rather than commentary on these individuals specifically."},
+        {"q": "What comes immediately before this discourse in the chapter's actual reading order?",
+         "opts": [
+             "AN 5.56",
+             "AN 5.57, the legacy page this discourse's 'prev' link points to explicitly",
+             "AN 5.51",
+             "Nothing; this is the chapter's first discourse"],
+         "correct": 1,
+         "expl": "An explicit override, since AN 5.57 sits between AN 5.56 and AN 5.58 in sequence but is not regenerated."},
+        {"q": "Where is AN 5.58 set?",
+         "opts": [
+             "A new location, stated explicitly — Vesālī, at the Great Wood",
+             "None restated",
+             "Sāvatthī",
+             "Rājagaha"],
+         "correct": 0,
+         "expl": "Explicitly restated at the head of this discourse."},
+    ],
+    marginalia=[
+        ("Before and after", [
+            "violent, thieving youths",
+            "&rarr; silent, cupped-palm",
+            "homage to the Buddha",
+        ]),
+        ("Mahānāma's line", [
+            "&ldquo;they will",
+            "become Vajjis!&rdquo;",
+        ]),
+        ("Five honored parties", [
+            "parents &middot; household",
+            "business partners",
+            "deities &middot; renunciates",
+            "&mdash; same blessing, five times",
+        ]),
+        ("Cross-references", [
+            "AN 5.41 &middot; the same five uses, first",
+            "AN 5.57 &middot; the legacy page, before",
+            "AN 5.59 &middot; next: hard to find, elderly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.58/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.41.html">AN 5.41 &middot; Getting Rich</a> &mdash; the earlier discourse '
+        "this one's five honored parties closely track.",
+        '<a href="an-5.56.html">AN 5.56 &middot; Mentor</a> &mdash; the preceding page in this '
+        "chapter's reading order.",
+        '<a href="an-5.59.html">AN 5.59 &middot; Gone Forth When Old (1st)</a> &mdash; next, a '
+        "short pair of discourses on rarity among elderly ordainees.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.59 — Paṭhamavuḍḍhapabbajitasutta
+# --------------------------------------------------------------------------- #
+page(
+    59, "Paṭhamavuḍḍhapabbajita", "Gone Forth When Old (1st)",
+    vagga=VAGGA_6,
+    meta_title="AN 5.59 — Gone Forth When Old (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first "
+        "Vuḍḍhapabbajitasutta — five qualities rarely found together in someone who ordains "
+        "late in life: sophistication, presentation, learning, teaching ability, and knowledge "
+        "of the monastic law. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming five qualities, each marked individually as rare"),
+        ("Length", "~20 seconds to read"),
+        ("Northern parallel", "Observations about the practical challenges facing those who "
+                              "ordain later in life recur across Vinaya-adjacent literature in "
+                              "the Chinese tradition; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, and notably free of "
+                       "any judgment against those it describes"),
+    ],
+    why=(
+        "This discourse names something practical rather than doctrinal: five qualities rarely "
+        "found together in a person who has <em>gone forth when old</em>, entered monastic life "
+        "later than the more typical youth. Each quality is marked rare individually, not "
+        "collectively, which changes what the discourse is actually claiming."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is hard to find someone gone forth when old who is sophisticated, "
+            "well-presented, learned, able to teach the Dhamma, and has memorized the monastic "
+            "law."]),
+        ("Rarity, marked five times, not once", [
+            "The Pāli repeats <em>dullabho</em>, hard to find, before each of the five qualities "
+            "individually, rather than stating once that the whole package is rare. This is a "
+            "small but real structural difference: the discourse is not only claiming the "
+            "combination is uncommon, but that each individual quality on its own is not easily "
+            "found in this specific population &mdash; late ordainees."]),
+        ("No judgment attached", [
+            "Nothing in this discourse criticizes those who ordain late in life, or suggests "
+            "they should not have done so. It states a practical observation &mdash; certain "
+            "qualities useful for teaching and preserving the monastic law take time most late "
+            "ordainees have not had within the tradition &mdash; without moralizing about why "
+            "someone came to the practice when they did."]),
+        ("A companion discourse follows immediately", [
+            "AN 5.60, the very next discourse, names a second set of five qualities equally rare "
+            "in the same population, closing both this pair and the chapter itself. Together the "
+            "two discourses give ten distinct qualities, none of them redundant with the other "
+            "five, all concerning the same specific group."]),
+    ],
+    terms=[
+        ("vuḍḍhapabbajita",
+         "&ldquo;one gone forth when old&rdquo; &mdash; this discourse&rsquo;s subject, someone "
+         "who ordained later in life than the more typical youth."),
+        ("nipuṇa",
+         "&ldquo;sophisticated, subtle&rdquo; &mdash; the first of the five rare qualities."),
+        ("ākappasampanna",
+         "&ldquo;well-presented&rdquo; &mdash; the second quality, concerning bearing and "
+         "outward conduct."),
+        ("dhammakathika",
+         "&ldquo;one who can teach the Dhamma&rdquo; &mdash; the fourth quality, a specific "
+         "practical skill rather than personal virtue."),
+        ("vinayadhara",
+         "&ldquo;one who has memorized the monastic law&rdquo; &mdash; the fifth quality, the "
+         "kind of retention this nipāta has already marked as requiring time."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities, each named rare in someone gone forth when old. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.59:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five qualities does this discourse say are hard to find in someone gone forth "
+              "when old?",
+         "opts": [
+             "Wealth, family, health, friends, and status",
+             "Sophistication, being well-presented, learning, teaching ability, and knowledge of "
+             "the monastic law",
+             "The five hindrances",
+             "Faith, ethics, learning, generosity, and wisdom"],
+         "correct": 1,
+         "expl": "Practical, skill-based qualities, not moral judgments."},
+        {"q": "How does the Pāli mark rarity — once for the whole set, or individually?",
+         "opts": [
+             "Once, for the combination as a whole",
+             "Individually — 'dullabho' repeats before each of the five qualities separately",
+             "Rarity is not mentioned at all",
+             "Only the first quality is marked rare"],
+         "correct": 1,
+         "expl": "Each quality is claimed rare on its own, not only in combination."},
+        {"q": "Does this discourse criticize those who ordain later in life?",
+         "opts": [
+             "Yes, strongly",
+             "No — it states a practical observation without moralizing about the timing of "
+             "someone's ordination",
+             "Only implicitly",
+             "Yes, but only for men"],
+         "correct": 1,
+         "expl": "A neutral, practical framing rather than a judgment."},
+        {"q": "What does the guide say explains why these qualities might be rare in late "
+              "ordainees specifically?",
+         "opts": [
+             "Personal moral failing",
+             "Qualities useful for teaching and preserving the monastic law take time most late "
+             "ordainees have not had within the tradition",
+             "Late ordainees are said to lack the capacity to ever develop these qualities",
+             "No explanation is offered anywhere"],
+         "correct": 1,
+         "expl": "A practical, time-based explanation rather than a claim about fixed capacity."},
+        {"q": "What does AN 5.60, the very next discourse, do?",
+         "opts": [
+             "Repeats this discourse exactly",
+             "Names a second, non-redundant set of five qualities equally rare in the same "
+             "population, closing the pair and the chapter",
+             "Contradicts this discourse",
+             "Returns to the five hindrances"],
+         "correct": 1,
+         "expl": "Ten distinct qualities across the two discourses, none repeated."},
+        {"q": "What does 'vinayadhara' mean?",
+         "opts": [
+             "One who breaks monastic rules",
+             "One who has memorized the monastic law",
+             "A synonym for arahant",
+             "A lay supporter of the monastery"],
+         "correct": 1,
+         "expl": "The fifth quality, requiring significant time within the tradition to acquire."},
+        {"q": "Is 'dhammakathika', ability to teach the Dhamma, a matter of personal virtue or "
+              "practical skill?",
+         "opts": [
+             "Personal virtue exclusively",
+             "A specific practical skill, distinct from moral character",
+             "Neither; it is not defined at all",
+             "It is identical to ethics"],
+         "correct": 1,
+         "expl": "A skill-based quality, consistent with the discourse's practical framing."},
+        {"q": "How long is this discourse?",
+         "opts": [
+             "Several minutes, with an extended simile",
+             "About twenty seconds — a single sentence with no elaboration",
+             "Identical in length to AN 5.58",
+             "This discourse has no readable text"],
+         "correct": 1,
+         "expl": "One of the shortest discourses in this chapter."},
+        {"q": "Does this discourse offer a simile or narrative illustration?",
+         "opts": [
+             "Yes, an extended parable",
+             "No — a direct, bare statement with no illustration",
+             "Yes, the same story as AN 5.56",
+             "Yes, a dialogue with a named questioner"],
+         "correct": 1,
+         "expl": "Consistent with the discourse's terse, practical form."},
+        {"q": "Where is AN 5.59 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Pāṭaliputta"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five rare qualities", [
+            "sophisticated",
+            "well-presented",
+            "learned &middot; can teach",
+            "knows the monastic law",
+        ]),
+        ("Marked individually", [
+            "<span class=\"pali\">dullabho</span>",
+            "&mdash; repeated five times,",
+            "not stated once",
+        ]),
+        ("No judgment", [
+            "a practical observation,",
+            "not a criticism",
+            "of late ordination",
+        ]),
+        ("Cross-references", [
+            "AN 5.58 &middot; the previous discourse",
+            "AN 5.60 &middot; next: a second five",
+            "AN 5.47 &middot; learning, defined at length",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.59/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.58.html">AN 5.58 &middot; The Licchavi Youths</a> &mdash; the previous '
+        "discourse, on a very different kind of transformation.",
+        '<a href="an-5.60.html">AN 5.60 &middot; Gone Forth When Old (2nd)</a> &mdash; next, this '
+        "discourse's companion, closing the chapter.",
+        '<a href="an-5.47.html">AN 5.47 &middot; Wealth</a> &mdash; where the wealth of learning '
+        "this discourse presupposes was defined at length.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.60 — Dutiyavuḍḍhapabbajitasutta
+# --------------------------------------------------------------------------- #
+page(
+    60, "Dutiyavuḍḍhapabbajita", "Gone Forth When Old (2nd)",
+    vagga=VAGGA_6,
+    meta_title="AN 5.60 — Gone Forth When Old (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Vuḍḍhapabbajitasutta, closing this chapter — five more qualities rarely found in "
+        "someone who ordains late in life, this time concerning how well they can still be "
+        "taught. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming a second set of five qualities, each marked rare, "
+                 "closing the chapter's own colophon"),
+        ("Length", "~20 seconds to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this variant beyond the parallel already noted at AN "
+                              "5.59"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, closing a chapter "
+                       "that opened on the hindrances with a quiet, practical final note"),
+    ],
+    why=(
+        "Where AN 5.59 named qualities of presentation and knowledge, this discourse turns to "
+        "something different: how teachable a late ordainee still is. Easy to admonish, able to "
+        "retain what is taught, and learning with the right attitude are named alongside the "
+        "same two closing qualities from AN 5.59 &mdash; teaching ability and knowledge of the "
+        "monastic law &mdash; closing this chapter on a note about receptivity to correction "
+        "rather than accomplishment already achieved."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is hard to find someone gone forth when old who is easy to admonish, retains "
+            "what they learn, learns respectfully, can teach the Dhamma, and has memorized the "
+            "monastic law."]),
+        ("Three new qualities, about receptivity rather than achievement", [
+            "<em>Suvaco</em>, easy to admonish, <em>suggahitaggāhī</em>, retaining what is "
+            "grasped, and <em>padakkhiṇaggāhī</em>, learning in the right way &mdash; literally, "
+            "grasping it clockwise, respectfully &mdash; all concern how a person receives "
+            "correction and instruction, not what they have already accomplished. Read next to "
+            "AN 5.59's sophistication and presentation, this discourse names the harder, more "
+            "internal half of what makes a late ordainee's training go well."]),
+        ("Two qualities repeated, unchanged", [
+            "<em>Dhammakathika</em> and <em>vinayadhara</em>, teaching ability and knowledge of "
+            "the monastic law, close both discourses identically. This is not filler repetition; "
+            "these two skills genuinely matter regardless of how receptive or already "
+            "accomplished the person is, and the pair of discourses agrees on that much even "
+            "while differing on everything else."]),
+        ("Ten qualities across two discourses, closing the chapter", [
+            "AN 5.59 and 5.60 together name ten distinct qualities rarely found in a late "
+            "ordainee &mdash; five concerning presentation and existing knowledge, five "
+            "concerning receptivity and retention, with teaching ability and Vinaya knowledge "
+            "anchoring both lists. The chapter that opened on what obstructs any mendicant's "
+            "wisdom closes on a specific, practical account of what a particular group of "
+            "mendicants often lacks &mdash; not through fault, but through the plain arithmetic "
+            "of having started later."]),
+        ("The chapter's own closing colophon", [
+            "As at the close of every earlier chapter in this nipāta, the source appends "
+            "<em>Nīvaraṇavaggo paṭhamo</em> &mdash; the first chapter, on hindrances, within the "
+            "count that will restart with each subsequent nipāta &mdash; followed by the "
+            "chapter's own untranslated uddāna verse, compressing all ten titles for "
+            "memorization. The next chapter, Saññāvagga, turns to perception."]),
+    ],
+    terms=[
+        ("suvaca",
+         "&ldquo;easy to admonish&rdquo; &mdash; the first new quality, concerning openness to "
+         "correction rather than existing accomplishment."),
+        ("suggahitaggāhī",
+         "&ldquo;retaining what is grasped&rdquo; &mdash; the second quality, memory retention "
+         "specifically of instruction received."),
+        ("padakkhiṇaggāhī",
+         "&ldquo;learning respectfully&rdquo; &mdash; literally grasping clockwise, the "
+         "traditional respectful direction, the third new quality."),
+        ("dhammakathika vinayadhara",
+         "&ldquo;one who can teach, one who knows the monastic law&rdquo; &mdash; the two "
+         "qualities repeated unchanged from AN 5.59, closing both lists identically."),
+        ("Nīvaraṇavaggo paṭhamo",
+         "&ldquo;the first chapter, on hindrances&rdquo; &mdash; this vagga's closing colophon, "
+         "matching the form already explained in full at AN 5.10."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities concerning receptivity to teaching, rarely found "
+        "in someone gone forth when old. The closing colophon and Pāli mnemonic verse are part "
+        "of the source but are not translated text, and are described rather than reproduced "
+        "here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.60:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five qualities does this discourse say are rare in someone gone forth when "
+              "old?",
+         "opts": [
+             "Sophistication, presentation, learning, teaching ability, and Vinaya knowledge",
+             "Being easy to admonish, retaining what is learned, learning respectfully, teaching "
+             "ability, and Vinaya knowledge",
+             "The five powers of a trainee",
+             "Long life, beauty, happiness, fame, and heaven"],
+         "correct": 1,
+         "expl": "A second, non-redundant set of five, distinct from AN 5.59's."},
+        {"q": "What do the three new qualities in this discourse concern, compared to AN 5.59's?",
+         "opts": [
+             "Existing accomplishment and outward presentation",
+             "Receptivity to correction and instruction, rather than what has already been "
+             "achieved",
+             "Physical health",
+             "Financial status"],
+         "correct": 1,
+         "expl": "The harder, more internal half of what makes training go well."},
+        {"q": "What does 'padakkhiṇaggāhī' literally mean, and what does it signify?",
+         "opts": [
+             "'Grasping firmly' — physical strength",
+             "'Grasping clockwise' — the traditional respectful direction, meaning learning with "
+             "the right attitude",
+             "'Grasping quickly' — fast comprehension only",
+             "It has no specific literal meaning"],
+         "correct": 1,
+         "expl": "An image of respectful orientation toward what is being taught."},
+        {"q": "What two qualities are repeated, unchanged, from AN 5.59?",
+         "opts": [
+             "Sophistication and being well-presented",
+             "Teaching ability (dhammakathika) and knowledge of the monastic law (vinayadhara)",
+             "Faith and wisdom",
+             "None; all five qualities are new"],
+         "correct": 1,
+         "expl": "Two skills the guide notes matter regardless of the person's receptivity or existing accomplishment."},
+        {"q": "How many total qualities do AN 5.59 and AN 5.60 name across both discourses?",
+         "opts": [
+             "Five, entirely overlapping",
+             "Ten distinct qualities, with two shared between both lists",
+             "Fifteen",
+             "Three"],
+         "correct": 1,
+         "expl": "Eight unique qualities plus two repeated ones, anchoring both lists."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Nīvaraṇavaggo paṭhamo, followed by the chapter's own untranslated uddāna verse",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.50, repeated verbatim"],
+         "correct": 1,
+         "expl": "Matching the structure already explained in full at AN 5.10."},
+        {"q": "What chapter follows the Nīvaraṇavagga?",
+         "opts": [
+             "A return to the Muṇḍarājavagga",
+             "The Saññāvagga, turning to perception",
+             "The end of the entire nipāta",
+             "A repeat of the Sekhabalavagga"],
+         "correct": 1,
+         "expl": "The next chapter in sequence, per this discourse's guide."},
+        {"q": "Does this discourse frame the rarity of these qualities as a fault in late "
+              "ordainees?",
+         "opts": [
+             "Yes, explicitly blaming them",
+             "No — consistent with AN 5.59, a practical observation rather than a moral judgment",
+             "Yes, but only mildly",
+             "The discourse takes no clear position"],
+         "correct": 1,
+         "expl": "The same neutral framing carried over from the companion discourse."},
+        {"q": "How does the guide describe the overall arc from this chapter's opening to its "
+              "close?",
+         "opts": [
+             "No coherent arc; the discourses are unrelated",
+             "From what obstructs any mendicant's wisdom (the hindrances) to a specific, "
+             "practical account of what a particular group often lacks",
+             "A repeat of the same single topic throughout",
+             "A contradiction between the opening and closing discourses"],
+         "correct": 1,
+         "expl": "A shift from universal obstruction to a specific, practical closing observation."},
+        {"q": "Where is AN 5.60 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Pāṭaliputta"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five more rare qualities", [
+            "easy to admonish",
+            "retains learning",
+            "learns respectfully",
+            "can teach &middot; knows Vinaya",
+        ]),
+        ("Ten, across two pages", [
+            "AN 5.59: presentation",
+            "AN 5.60: receptivity",
+            "&mdash; two shared, anchoring both",
+        ]),
+        ("The chapter closes", [
+            "<span class=\"pali\">Nīvaraṇavaggo paṭhamo</span>",
+            "the first chapter, on hindrances",
+        ]),
+        ("Cross-references", [
+            "AN 5.59 &middot; the companion discourse",
+            "AN 5.10 &middot; the colophon, explained",
+            "AN 5.61 &middot; next: Saññāvagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.60/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.59.html">AN 5.59 &middot; Gone Forth When Old (1st)</a> &mdash; the '
+        "companion discourse, on presentation and existing knowledge.",
+        '<a href="an-5.51.html">AN 5.51 &middot; Obstacles</a> &mdash; this chapter&rsquo;s '
+        "opening discourse, on the hindrances that give this vagga its name.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this same '
+        "chapter-closing colophon structure was first explained in full.",
+    ],
+)
