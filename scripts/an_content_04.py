@@ -37252,3 +37252,2143 @@ page(
         "is named after, five pages of lists before it turned substantial.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Paṭipadāvagga — the seventeenth chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_17 = "<em>Paṭipadāvagga</em> &mdash; the seventeenth chapter of the Fours"
+SETTING_17 = ("None stated; the Paṭipadāvagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.161 — Saṅkhittasutta
+# --------------------------------------------------------------------------- #
+page(
+    161, "Saṅkhitta", "In Brief",
+    vagga=VAGGA_17,
+    meta_title="AN 4.161 — In Brief | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṅkhittasutta — the bare "
+        "list of four ways of practice that the rest of this chapter spends nine discourses "
+        "unpacking. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_17),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, stated once"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four ways of practice are standard across the early collections; "
+                              "this reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; four words, and this chapter "
+                       "will spend the next eight discourses arguing about what they mean"),
+    ],
+    why=(
+        "Four ways of practice, crossed on two axes: painful or pleasant, slow or swift. This "
+        "discourse gives the bare cross and nothing else. It is worth reading as an opening "
+        "title card, because the chapter it heads is going to test the cross from every angle "
+        "&mdash; define it, rank it, and then have two of the Buddha&rsquo;s foremost disciples "
+        "report which quadrant each of them actually used."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Practice can be painful or pleasant, and insight from it can be slow or swift, giving "
+            "four combinations."]),
+        ("The two axes", [
+            "<em>Dukkhā</em> and <em>sukhā</em>, painful and pleasant, describe the practice itself "
+            "&mdash; what it feels like to do it. <em>Dandhābhiññā</em> and <em>khippābhiññā</em>, "
+            "slow direct knowledge and swift direct knowledge, describe what the practice produces "
+            "and how quickly.",
+            "Crossed, they give four: painful and slow, painful and swift, pleasant and slow, "
+            "pleasant and swift. The order in which the discourse lists them is the order every "
+            "discourse in this chapter will use, and it is worth memorizing because nothing in the "
+            "text explains it.",
+            "Nothing here says what makes a practice painful or pleasant, or what determines "
+            "speed. The next discourse, AN 4.162, exists to answer exactly that, and this one "
+            "should be read as its table of contents."]),
+        ("Why the bare version comes first", [
+            "This chapter repeats a pattern seen twice already in the Fours: a title-card discourse "
+            "followed by an expanded one, as with AN 4.146 and AN 4.147 on the four times. Here the "
+            "convention is named directly in the two Pāli titles &mdash; <em>Saṅkhitta</em>, in "
+            "brief, and <em>Vitthāra</em>, in detail.",
+            "Reading the bare version first is not merely a formality. It gives a reader the "
+            "complete shape of the classification before any content is attached to it, so that the "
+            "definitions in AN 4.162 land as filling in a known frame rather than as four "
+            "unconnected paragraphs.",
+            "It is also, on its own, a usable checklist. Before reading further: is this practice "
+            "hard or easy to sit through, and is the mind picking things up quickly or slowly? Two "
+            "questions, four possible answers, and the rest of the chapter is commentary on them."]),
+        ("A classification with no ranking attached", [
+            "As given here, the four are simply named. Nothing in this discourse says one is better "
+            "than another, and a reader coming to the Fours for the first time might reasonably "
+            "guess that pleasant and swift is obviously best and painful and slow obviously worst.",
+            "That guess turns out to be right, but only because a later discourse in this same "
+            "chapter says so explicitly. AN 4.161 itself commits to nothing, which is worth noting "
+            "because the ranking, once it does arrive, is more precise than the guess &mdash; and "
+            "the two accounts of what the four disciples actually used complicate it further "
+            "still."]),
+        ("Where the chapter goes", [
+            "Paṭipadāvagga runs to ten discourses and covers more ground than its opening suggests. "
+            "AN 4.162 and AN 4.163 define the four in two different ways &mdash; by inborn "
+            "temperament and by meditation practiced. AN 4.164 and AN 4.165 use the same four names "
+            "for an entirely unrelated classification about patience. AN 4.166 ranks the original "
+            "four. AN 4.167 and AN 4.168 have Sāriputta and Mahāmoggallāna ask each other which one "
+            "they used. AN 4.169 reworks the material from AN 4.163 into a different four-way split.",
+            "That is an unusual amount of internal cross-reference for a chapter of the Fours, and "
+            "it rewards being read in order rather than dipped into.",
+            "For now, the four names are all that is needed: painful and slow, painful and swift, "
+            "pleasant and slow, pleasant and swift."]),
+    ],
+    terms=[
+        ("paṭipadā",
+         "&ldquo;way of practice&rdquo;, path &mdash; the word that titles the whole chapter and "
+         "gives it its name."),
+        ("dukkhā / sukhā",
+         "&ldquo;painful&rdquo; and &ldquo;pleasant&rdquo; &mdash; describing what the practice "
+         "itself feels like to undertake, not its result."),
+        ("dandhābhiññā",
+         "&ldquo;slow insight&rdquo; &mdash; <em>dandha</em>, sluggish, and <em>abhiññā</em>, direct "
+         "knowledge; how quickly the practice produces its result."),
+        ("khippābhiññā",
+         "&ldquo;swift insight&rdquo; &mdash; <em>khippa</em>, quick; the opposite pole of the "
+         "second axis."),
+        ("saṅkhitta / vitthāra",
+         "&ldquo;in brief&rdquo; and &ldquo;in detail&rdquo; &mdash; the naming convention this "
+         "discourse and the next use, also met at AN 4.146 and AN 4.147."),
+    ],
+    text_intro=(
+        "The discourse in full: four ways of practice, named. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four ways of practice"),
+        ("p", "&sect;1", "an4.161:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What two axes cross to make the four ways of practice?",
+         "opts": [
+             "Ethics and wisdom",
+             "Painful or pleasant, and slow or swift insight",
+             "Monastic or lay",
+             "Gradual or sudden awakening"],
+         "correct": 1,
+         "expl": "The discourse gives the bare cross and nothing else."},
+        {"q": "What does <em>dukkhā</em> describe in this pairing?",
+         "opts": [
+             "The result of the practice",
+             "The practice itself &mdash; what it feels like to do it",
+             "The teacher",
+             "The setting"],
+         "correct": 1,
+         "expl": "Distinct from what the practice produces."},
+        {"q": "What does <em>khippābhiññā</em> describe?",
+         "opts": [
+             "A pleasant feeling",
+             "How quickly the practice produces its result",
+             "A type of person",
+             "A monastic rule"],
+         "correct": 1,
+         "expl": "<em>Khippa</em>, quick, and <em>abhiññā</em>, direct knowledge."},
+        {"q": "What naming convention links this discourse to the next?",
+         "opts": [
+             "Both are spoken by Sāriputta",
+             "<em>Saṅkhitta</em>, in brief, and <em>Vitthāra</em>, in detail &mdash; also seen at AN 4.146/147",
+             "Both concern patience",
+             "Both are narratives"],
+         "correct": 1,
+         "expl": "A title-card discourse followed by an expanded one."},
+        {"q": "What is the value of reading the bare version first?",
+         "opts": [
+             "It saves time",
+             "It gives the complete shape of the classification before any content is attached, so later definitions fill a known frame",
+             "It is easier to memorize",
+             "It avoids repetition"],
+         "correct": 1,
+         "expl": "The definitions land as filling in a known frame rather than four unconnected paragraphs."},
+        {"q": "Does this discourse rank the four?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; it simply names them",
+             "It ranks three of the four",
+             "It ranks them by speaker"],
+         "correct": 1,
+         "expl": "A later discourse in this chapter does the ranking."},
+        {"q": "What guess does the guide say a first-time reader might reasonably make?",
+         "opts": [
+             "That painful and slow is best",
+             "That pleasant and swift is obviously best and painful and slow obviously worst",
+             "That all four are equal",
+             "That the axes are unrelated"],
+         "correct": 1,
+         "expl": "The guess turns out to be right, but the full ranking is more precise than the guess."},
+        {"q": "How do AN 4.164 and AN 4.165 use the same four names?",
+         "opts": [
+             "For the same classification, expanded",
+             "For an entirely unrelated classification about patience",
+             "To rank the original four",
+             "To narrate a conversation"],
+         "correct": 1,
+         "expl": "One of the chapter&rsquo;s more disorienting features if not flagged in advance."},
+        {"q": "What do AN 4.167 and AN 4.168 add to the chapter?",
+         "opts": [
+             "A ranking",
+             "Sāriputta and Mahāmoggallāna each reporting which of the four they used",
+             "A cosmological digression",
+             "A repeat of AN 4.161"],
+         "correct": 1,
+         "expl": "Which complicates the ranking given in AN 4.166."},
+        {"q": "How does the guide recommend reading this chapter?",
+         "opts": [
+             "Any single page in isolation",
+             "In order, since it rewards internal cross-reference more than most chapters of the Fours",
+             "Starting from AN 4.169",
+             "Skipping the narrative discourses"],
+         "correct": 1,
+         "expl": "An unusual amount of cross-reference for a chapter of the Fours."},
+    ],
+    marginalia=[
+        ("Four ways", [
+            "painful &middot; slow",
+            "painful &middot; swift",
+            "pleasant &middot; slow",
+            "pleasant &middot; swift",
+        ]),
+        ("Two axes", [
+            "<span class=\"pali\">dukkhā / sukhā</span>the practice itself",
+            "<span class=\"pali\">dandha / khippa</span>how fast it works",
+        ]),
+        ("What is not here", [
+            "no definitions",
+            "no ranking",
+            "&mdash; both come later",
+        ]),
+        ("Cross-references", [
+            "AN 4.162 &middot; the same four, defined",
+            "AN 4.166 &middot; the same four, ranked",
+            "AN 4.167 &middot; two disciples report",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.161/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.162.html">AN 4.162 &middot; In Detail</a> &mdash; next in this series, and '
+        "the same four with full definitions.",
+        '<a href="an-4.146.html">AN 4.146 &middot; Times (1st)</a> &mdash; the other place in the '
+        "Fours where a bare list precedes its own expansion.",
+        '<a href="an-4.166.html">AN 4.166 &middot; Both</a> &mdash; where these four are ranked '
+        "against each other.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.162 — Vitthārasutta
+# --------------------------------------------------------------------------- #
+page(
+    162, "Vitthāra", "In Detail",
+    vagga=VAGGA_17,
+    meta_title="AN 4.162 — In Detail | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vitthārasutta — the four "
+        "ways of practice defined by inborn temperament and by the strength of the five faculties. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_17),
+        ("Speakers", SPEAKER),
+        ("Form", "The bare list of AN 4.161, then each of the four defined in parallel"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The five faculties determining the speed of insight are standard "
+                              "across the early collections; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the first of two very different "
+                       "definitions this chapter gives the same four names"),
+    ],
+    why=(
+        "The first of two answers to what makes practice painful or pleasant, slow or swift. Here "
+        "the variables are temperament and strength: whether a person is naturally full of acute "
+        "greed, hate, and delusion decides painful or pleasant, and whether the five faculties are "
+        "weak or strong decides slow or swift. Nothing about what the person does &mdash; only what "
+        "they came in with."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Natural temperament decides whether practice is painful or pleasant, and the strength "
+            "of the five faculties decides whether it is slow or swift."]),
+        ("The first variable: what a person is like already", [
+            "The painful cases begin: <em>someone is ordinarily full of acute greed, hate, and "
+            "delusion. They often feel the pain and sadness that greed, hate, and delusion bring.</em> "
+            "The pleasant cases begin with the same sentence negated: not ordinarily full of them, "
+            "rarely feeling that pain.",
+            "<em>Pakatiyāpi</em>, ordinarily, by nature, is doing real work here. This is not a "
+            "description of a person&rsquo;s conduct during practice; it is a description of their "
+            "disposition beforehand. Some people arrive at the cushion already agitated by strong "
+            "defilements and some do not, and the discourse treats that as a starting condition "
+            "rather than as a failure.",
+            "That is worth stating plainly because it removes a layer of self-blame a practitioner "
+            "might otherwise add. Painful practice is not what happens to someone who is doing it "
+            "wrong. It is what practice feels like for someone who came to it already carrying more "
+            "acute greed, hate, and delusion than someone else did."]),
+        ("The second variable: the five faculties", [
+            "Each of the four cases then adds the same list &mdash; <em>faith, energy, mindfulness, "
+            "immersion, and wisdom</em> &mdash; and says only whether the five manifest "
+            "<em>mudūni</em>, weakly, or strongly.",
+            "This is the full five-item set, with wisdom restored. AN 4.151 gave only four of these "
+            "&mdash; faith, energy, mindfulness, and immersion &mdash; because the faculties chapter "
+            "could not hold a set of five in the book of Fours. Here, in a different chapter, the "
+            "complete pentad appears without comment, confirming that the earlier omission was a "
+            "matter of filing rather than doctrine.",
+            "The consequence stated for weak faculties is not failure but delay: <em>they only "
+            "slowly attain the conditions for ending the defilements.</em> Strong faculties give the "
+            "same destination, reached faster. Nothing here says the slow attainment is smaller or "
+            "less complete."]),
+        ("Four combinations, one consequence each", [
+            "Painful and slow: strong native defilement, weak faculties. Painful and swift: strong "
+            "native defilement, strong faculties. Pleasant and slow: mild native defilement, weak "
+            "faculties. Pleasant and swift: mild native defilement, strong faculties.",
+            "The two variables are independent, and the discourse is careful to keep them that way. "
+            "A person can be naturally calm and still have weak faculties; a person can be naturally "
+            "volatile and still have strong ones. Ease of temperament and speed of practice do not "
+            "predict each other.",
+            "That independence is the most useful thing on this page. It means a practitioner "
+            "cannot infer their prospects from how difficult the sitting feels, and cannot infer how "
+            "difficult the sitting will feel from how quickly they seem to be progressing."]),
+        ("What is not explained", [
+            "The discourse does not say how the five faculties come to be weak or strong, or "
+            "whether they can be changed. It reports the four combinations as facts about people, "
+            "not as a program for altering them.",
+            "That silence is filled by the next discourse. AN 4.163 gives the same four names an "
+            "entirely different definition &mdash; built not out of temperament and faculty "
+            "strength but out of specific meditations a mendicant does. Read together, the two "
+            "discourses supply what each one omits: this one names the variables, the next supplies "
+            "practices that bear on them.",
+            "It is worth being honest that the two definitions do not obviously reconcile into a "
+            "single mechanism, and this reading guide does not attempt to force one. Both are given "
+            "under the same four names in the same chapter, and both are worth taking on their own "
+            "terms."]),
+        ("Using it", [
+            "As a diagnostic, this discourse asks two separate questions rather than one. How much "
+            "native disturbance is present, and how strong are faith, energy, mindfulness, "
+            "immersion, and wisdom right now.",
+            "Neither question has a virtuous answer to aim for in the moment of asking it. The "
+            "discourse is descriptive, not prescriptive, and its use is in separating two things a "
+            "practitioner is otherwise liable to run together: how hard the sitting is, and how "
+            "fast anything is happening."]),
+    ],
+    terms=[
+        ("pakatiyā",
+         "&ldquo;ordinarily&rdquo;, by nature &mdash; marking the painful/pleasant division as a "
+         "matter of disposition, not of conduct during practice."),
+        ("tibbarāga",
+         "&ldquo;acute greed&rdquo; &mdash; paired with acute hate and delusion in the description "
+         "of the painful cases."),
+        ("indriya",
+         "&ldquo;faculty&rdquo; &mdash; here the complete set of five, with wisdom restored to the "
+         "four AN 4.151 gave."),
+        ("mudu",
+         "&ldquo;weak&rdquo;, soft &mdash; how the five faculties manifest in the slow cases; the "
+         "opposite of <em>balavant</em>, strong."),
+        ("āsavānaṁ khaya",
+         "&ldquo;the ending of the defilements&rdquo; &mdash; the destination all four combinations "
+         "reach, at different speeds."),
+    ],
+    text_intro=(
+        "The discourse in full: the four named, then each defined by temperament and faculty "
+        "strength. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four ways of practice"),
+        ("p", "&sect;1", "an4.162:1.1-1.6"),
+        ("h3", "Painful practice with slow insight"),
+        ("p", "&sect;2", "an4.162:2.1-2.8"),
+        ("h3", "Painful practice with swift insight"),
+        ("p", "&sect;3", "an4.162:3.1-3.8"),
+        ("h3", "Pleasant practice with slow insight"),
+        ("p", "&sect;4", "an4.162:4.1-4.8"),
+        ("h3", "Pleasant practice with swift insight"),
+        ("p", "&sect;5", "an4.162:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "What decides painful versus pleasant practice on this definition?",
+         "opts": [
+             "How much effort is applied",
+             "Whether a person is ordinarily, by nature, full of acute greed, hate, and delusion",
+             "The teacher&rsquo;s instructions",
+             "The setting of the practice"],
+         "correct": 1,
+         "expl": "A description of disposition beforehand, not of conduct during practice."},
+        {"q": "What decides slow versus swift insight?",
+         "opts": [
+             "Native temperament",
+             "Whether the five faculties &mdash; faith, energy, mindfulness, immersion, wisdom &mdash; manifest weakly or strongly",
+             "How painful the practice is",
+             "The number of years practicing"],
+         "correct": 1,
+         "expl": "The same five faculties named in AN 4.151."},
+        {"q": "Why does the guide say this removes a layer of self-blame?",
+         "opts": [
+             "Because effort is irrelevant",
+             "Because painful practice is not what happens to someone doing it wrong &mdash; it is what practice feels like given a starting disposition",
+             "Because the discourse promises quick results",
+             "Because temperament can be chosen"],
+         "correct": 1,
+         "expl": "The discourse treats disposition as a starting condition, not a failure."},
+        {"q": "What is notable about the five faculties listed here?",
+         "opts": [
+             "They are only four",
+             "The complete set of five appears, with wisdom restored to what AN 4.151 gave as four",
+             "They differ from AN 4.151&rsquo;s list",
+             "They are undefined"],
+         "correct": 1,
+         "expl": "Confirming the earlier omission was filing, not doctrine."},
+        {"q": "What is the stated consequence of weak faculties?",
+         "opts": [
+             "Failure to progress at all",
+             "Delay &mdash; the same destination reached more slowly, not a smaller one",
+             "A different destination",
+             "Return to lay life"],
+         "correct": 1,
+         "expl": "Strong faculties give the same destination, reached faster."},
+        {"q": "How do the two variables relate to each other?",
+         "opts": [
+             "They predict each other",
+             "They are independent &mdash; temperament and faculty strength do not predict each other",
+             "Temperament determines faculty strength",
+             "Faculty strength determines temperament"],
+         "correct": 1,
+         "expl": "A person can be naturally calm with weak faculties, or naturally volatile with strong ones."},
+        {"q": "What follows from that independence, practically?",
+         "opts": [
+             "Nothing useful",
+             "A practitioner cannot infer prospects from how hard the sitting feels, or infer difficulty from how fast progress seems",
+             "Difficulty always predicts speed",
+             "Ease always predicts speed"],
+         "correct": 1,
+         "expl": "The most useful thing on this page."},
+        {"q": "What does the discourse not explain?",
+         "opts": [
+             "The four combinations",
+             "How the five faculties come to be weak or strong, or whether they can be changed",
+             "The consequence of weak faculties",
+             "The two axes"],
+         "correct": 1,
+         "expl": "It reports the combinations as facts about people, not a program for altering them."},
+        {"q": "How does AN 4.163 relate to this discourse?",
+         "opts": [
+             "It repeats it exactly",
+             "It gives the same four names an entirely different definition, built from specific meditations rather than temperament",
+             "It contradicts it directly",
+             "It ranks the four"],
+         "correct": 1,
+         "expl": "The guide does not force the two definitions into one mechanism."},
+        {"q": "How does the guide describe this discourse&rsquo;s use?",
+         "opts": [
+             "Prescriptive, aiming at a virtuous answer",
+             "Descriptive &mdash; separating how hard the sitting is from how fast anything is happening",
+             "A ranking of practitioners",
+             "A monastic rule"],
+         "correct": 1,
+         "expl": "Two separate diagnostic questions, neither with a virtuous answer to aim for."},
+    ],
+    marginalia=[
+        ("Two variables", [
+            "temperament &middot; painful/pleasant",
+            "faculty strength &middot; slow/swift",
+        ]),
+        ("The five, complete", [
+            "<span class=\"pali\">saddhā</span>faith",
+            "<span class=\"pali\">vīriya</span>energy",
+            "<span class=\"pali\">sati</span>mindfulness",
+            "<span class=\"pali\">samādhi</span>immersion",
+            "<span class=\"pali\">paññā</span>wisdom",
+        ]),
+        ("Confirms", [
+            "AN 4.151&rsquo;s missing wisdom",
+            "was filing, not doctrine",
+        ]),
+        ("Cross-references", [
+            "AN 4.151 &middot; the four-item version",
+            "AN 4.163 &middot; a second, different definition",
+            "AN 4.166 &middot; the four, ranked",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.162/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.151.html">AN 4.151 &middot; Faculties</a> &mdash; where the same five appear '
+        "cut to four for lack of room.",
+        '<a href="an-4.163.html">AN 4.163 &middot; Ugly</a> &mdash; next in this series, and a '
+        "second definition of the same four.",
+        '<a href="an-4.166.html">AN 4.166 &middot; Both</a> &mdash; where these four combinations '
+        "are ranked.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.163 — Asubhasutta
+# --------------------------------------------------------------------------- #
+page(
+    163, "Asubha", "Ugly",
+    vagga=VAGGA_17,
+    meta_title="AN 4.163 — Ugly | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Asubhasutta — the four "
+        "ways of practice defined a second time, now by what a mendicant actually does: the "
+        "meditations on ugliness, or the four absorptions. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_17),
+        ("Speakers", SPEAKER),
+        ("Form", "The bare list of AN 4.161, then each of the four redefined by practice rather "
+                 "than temperament"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The pairing of the foulness meditations with the four absorptions is "
+                              "standard across the early collections; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; longer than its neighbor, and "
+                       "carrying a genuine textual subtlety in its list of five powers"),
+    ],
+    why=(
+        "The same four names as AN 4.162, and a completely different account of them. Here painful "
+        "practice is meditating on the ugliness of the body, the repulsiveness of food, "
+        "dissatisfaction with the whole world, impermanence, and one&rsquo;s own death. Pleasant "
+        "practice is the four absorptions. What decides slow or swift is unchanged &mdash; the five "
+        "faculties &mdash; but a new list of five appears alongside it, and the two lists are not "
+        "the same five."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Painful practice is the five meditations that confront what is unwanted; pleasant "
+            "practice is the four absorptions; both rely on the same five supports, and speed still "
+            "depends on the five faculties."]),
+        ("What makes practice painful here", [
+            "Five items, given as a set: observing the ugliness of the body, perceiving the "
+            "repulsiveness of food, perceiving dissatisfaction with the whole world, observing the "
+            "impermanence of all conditions, and having well established the perception of one&rsquo;s "
+            "own death.",
+            "Every one of these takes something a person instinctively protects &mdash; the body, "
+            "food, the world&rsquo;s appeal, permanence, one&rsquo;s own continuation &mdash; and "
+            "turns attention toward the unwanted side of it. That is a coherent definition of "
+            "painful practice, and a much more specific one than AN 4.162 gave.",
+            "It is worth being direct about what this asks of a person. These are not neutral "
+            "objects of contemplation; they are chosen because they are difficult, and the "
+            "discourse does not soften that by calling the resulting discomfort anything other than "
+            "what it is."]),
+        ("What makes practice pleasant here", [
+            "The four absorptions, given in the standard formula: the first with rapture and bliss "
+            "born of seclusion, the second with rapture and bliss born of immersion and internal "
+            "clarity, the third with equanimous bliss, the fourth beyond pleasure and pain with pure "
+            "equanimity and mindfulness.",
+            "This is the identical formula used throughout the Fours &mdash; at AN 4.123, for "
+            "instance, where the same four absorptions were enjoyed and led to a long but temporary "
+            "divine rebirth. Nothing in that earlier discourse is contradicted here; AN 4.163 is "
+            "simply using the same four states for a different purpose, as a description of a "
+            "pleasant way of practicing rather than as an attainment to be relished or contemplated.",
+            "The contrast with the painful path is stark by design. One path works by confronting "
+            "what is unwanted; the other works through states that are, by the formula&rsquo;s own "
+            "words, rapturous and blissful. Both are said to lead toward the same ending."]),
+        ("Two lists of five, not one", [
+            "Both paths are said to <em>rely on these five powers of a trainee</em>: faith, "
+            "<em>hiri</em>, <em>ottappa</em>, energy, and wisdom. Then, separately, both paths are "
+            "said to have the five faculties &mdash; faith, energy, mindfulness, immersion, wisdom "
+            "&mdash; manifest weakly or strongly.",
+            "These are two different sets of five sharing three terms and differing in the other "
+            "two. The <em>sekhabala</em>, the powers of a trainee, replace mindfulness and immersion "
+            "with <em>hiri</em> and <em>ottappa</em> &mdash; conscience and prudence, usually "
+            "translated as moral shame and moral dread: the reluctance to do wrong because it is "
+            "shameful, and the reluctance to do wrong because of its consequences.",
+            "This is worth flagging as a genuine textual point rather than smoothing over. The "
+            "Indriyavagga, two chapters back, gave four different lists all called <em>bala</em>, "
+            "powers, and this is a fifth list under the same name, distinct from all of them. The "
+            "collection does not appear troubled by having several technical sets sharing a label; "
+            "a reader should not be troubled either, but should notice it.",
+            "What the two lists divide between them is support and speed. The powers of a trainee "
+            "are relied on &mdash; <em>upanissāya</em>, leaned on &mdash; as a foundation for doing "
+            "the practice at all. The five faculties, weak or strong, then determine how quickly "
+            "that practice, once undertaken, reaches its result. One list is about what a person is "
+            "standing on; the other is about how fast they move."]),
+        ("Reading this discourse against AN 4.162", [
+            "The two discourses cannot simply be layered on top of each other. AN 4.162 said "
+            "painful and pleasant come from inborn temperament; AN 4.163 says they come from which "
+            "of two specific practices a mendicant undertakes. A person is not, on the face of it, "
+            "assigned to the foulness meditations or to the absorptions by their natural level of "
+            "greed, hate, and delusion.",
+            "This reading guide does not attempt to reconcile the two into a single mechanism. What "
+            "can be said is that both discourses keep the same shape: two variables, one deciding "
+            "painful-or-pleasant and the other deciding slow-or-swift, with the same five faculties "
+            "doing the second job in both cases.",
+            "It is also worth noticing that AN 4.163&rsquo;s version gives a practitioner something "
+            "to do that AN 4.162&rsquo;s does not. Temperament is not chosen; a meditation is."]),
+        ("Where this material goes next", [
+            "AN 4.169, the chapter&rsquo;s final discourse, will take this exact material &mdash; "
+            "the five asubha-type meditations, the four absorptions, the powers of a trainee, the "
+            "five faculties &mdash; and recombine it into a different four-way classification, "
+            "sorted not by painful-pleasant and slow-swift but by extinguished in this life or at "
+            "death, with or without extra effort.",
+            "That is the clearest case in this chapter of the same building blocks being used twice "
+            "for different purposes, and a reader who remembers this page will find AN 4.169 far "
+            "more legible than one meeting the material cold."]),
+    ],
+    terms=[
+        ("asubhānupassī",
+         "&ldquo;observing ugliness&rdquo; &mdash; the meditation on the body&rsquo;s unattractive "
+         "aspects, first of the five painful-practice items."),
+        ("sekhabala",
+         "&ldquo;power of a trainee&rdquo; &mdash; a fifth list of five, distinct from every list "
+         "of four powers in the Indriyavagga, sharing three terms with the faculties."),
+        ("hiri",
+         "&ldquo;conscience&rdquo;, moral shame &mdash; reluctance to do wrong because it is "
+         "shameful in itself; second of the trainee&rsquo;s five powers."),
+        ("ottappa",
+         "&ldquo;prudence&rdquo;, moral dread &mdash; reluctance to do wrong because of its "
+         "consequences; hiri&rsquo;s standing partner throughout the canon."),
+        ("upanissāya",
+         "&ldquo;relying on&rdquo;, leaning on &mdash; the verb attached to the trainee&rsquo;s five "
+         "powers, marking them as a foundation rather than a speed."),
+    ],
+    text_intro=(
+        "The discourse in full: the four named, then each defined by meditation practiced and by "
+        "faculty strength. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four ways of practice"),
+        ("p", "&sect;1", "an4.163:1.1-1.6"),
+        ("h3", "Painful practice with slow insight"),
+        ("p", "&sect;2", "an4.163:2.1-2.9"),
+        ("h3", "Painful practice with swift insight"),
+        ("p", "&sect;3", "an4.163:3.1-3.9"),
+        ("h3", "Pleasant practice with slow insight"),
+        ("p", "&sect;4", "an4.163:4.1-4.11"),
+        ("h3", "Pleasant practice with swift insight"),
+        ("p", "&sect;5", "an4.163:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "What five items define painful practice here?",
+         "opts": [
+             "The four absorptions plus wisdom",
+             "Observing the body&rsquo;s ugliness, food&rsquo;s repulsiveness, dissatisfaction with the world, impermanence, and one&rsquo;s own death",
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "The five hindrances"],
+         "correct": 1,
+         "expl": "Each takes something instinctively protected and turns attention to its unwanted side."},
+        {"q": "What defines pleasant practice here?",
+         "opts": [
+             "The five foulness meditations",
+             "The four absorptions, in the standard formula",
+             "Sense restraint",
+             "Patience under criticism"],
+         "correct": 1,
+         "expl": "The identical formula used elsewhere in the Fours, e.g. at AN 4.123."},
+        {"q": "How does this discourse&rsquo;s use of the absorptions relate to AN 4.123?",
+         "opts": [
+             "It contradicts it",
+             "It uses the same four states for a different purpose, as a way of practicing rather than an attainment to be relished or contemplated",
+             "It denies the formula",
+             "It shortens the formula"],
+         "correct": 1,
+         "expl": "Nothing in the earlier discourse is contradicted here."},
+        {"q": "What are the five &lsquo;powers of a trainee&rsquo;?",
+         "opts": [
+             "The same as the five faculties",
+             "Faith, conscience, prudence, energy, and wisdom",
+             "The four absorptions plus faith",
+             "Faith, energy, mindfulness, immersion, wisdom"],
+         "correct": 1,
+         "expl": "Sharing three terms with the faculties and replacing two."},
+        {"q": "Which two terms replace mindfulness and immersion in that list?",
+         "opts": [
+             "Faith and energy",
+             "<em>Hiri</em> and <em>ottappa</em> &mdash; conscience and prudence",
+             "Wisdom and faith",
+             "Energy and wisdom"],
+         "correct": 1,
+         "expl": "Moral shame and moral dread, the standard pair."},
+        {"q": "Why does the guide flag this as worth noticing rather than smoothing over?",
+         "opts": [
+             "Because it is an error",
+             "Because it is a fifth list called <em>bala</em>, distinct from all four such lists in the Indriyavagga",
+             "Because it is unattested elsewhere",
+             "Because it contradicts AN 4.162"],
+         "correct": 1,
+         "expl": "The collection has several technical sets sharing a label without apparent concern."},
+        {"q": "What job does each of the two five-item lists do?",
+         "opts": [
+             "Both determine speed",
+             "The trainee&rsquo;s powers are a foundation relied on; the faculties, weak or strong, determine speed",
+             "Both determine painful or pleasant",
+             "Neither is functional"],
+         "correct": 1,
+         "expl": "One list is what a person stands on; the other is how fast they move."},
+        {"q": "How does this discourse&rsquo;s account of painful/pleasant differ from AN 4.162&rsquo;s?",
+         "opts": [
+             "It does not differ",
+             "AN 4.162 grounds it in inborn temperament; AN 4.163 grounds it in which of two specific practices is undertaken",
+             "AN 4.163 also uses temperament",
+             "AN 4.162 uses specific meditations"],
+         "correct": 1,
+         "expl": "The guide does not force the two into a single mechanism."},
+        {"q": "What does AN 4.163&rsquo;s version give a practitioner that AN 4.162&rsquo;s does not?",
+         "opts": [
+             "A ranking",
+             "Something to do &mdash; temperament is not chosen, but a meditation is",
+             "A faster path",
+             "A guaranteed outcome"],
+         "correct": 1,
+         "expl": "The shared shape: two variables, the same five faculties deciding speed in both."},
+        {"q": "What does AN 4.169 do with this material?",
+         "opts": [
+             "Ignores it",
+             "Recombines the same building blocks into a different four-way classification, by when and how extinguishment occurs",
+             "Repeats it unchanged",
+             "Ranks it"],
+         "correct": 1,
+         "expl": "The same asubha meditations, absorptions, trainee powers, and faculties, reused."},
+    ],
+    marginalia=[
+        ("Painful practice", [
+            "body&rsquo;s ugliness",
+            "food&rsquo;s repulsiveness",
+            "the world&rsquo;s dissatisfaction",
+            "impermanence &middot; death",
+        ]),
+        ("Pleasant practice", [
+            "the four absorptions",
+            "&mdash; same formula as AN 4.123",
+        ]),
+        ("Two lists of five", [
+            "<span class=\"pali\">sekhabala</span>a foundation",
+            "<span class=\"pali\">indriya</span>a speed",
+            "&mdash; sharing three terms",
+        ]),
+        ("Cross-references", [
+            "AN 4.162 &middot; a first definition",
+            "AN 4.123 &middot; the same absorption formula",
+            "AN 4.169 &middot; the same material, recombined",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.163/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.162.html">AN 4.162 &middot; In Detail</a> &mdash; the first definition of the '
+        "same four names.",
+        '<a href="an-4.123.html">AN 4.123 &middot; Difference (1st)</a> &mdash; where the same four '
+        "absorptions are enjoyed rather than practiced as a way.",
+        '<a href="an-4.169.html">AN 4.169 &middot; Extra Effort</a> &mdash; where this material is '
+        "recombined into a different classification.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.164 — Paṭhamakhamasutta
+# --------------------------------------------------------------------------- #
+page(
+    164, "Paṭhamakhama", "Patient (1st)",
+    vagga=VAGGA_17,
+    meta_title="AN 4.164 — Patient (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Khamasutta — a "
+        "third, unrelated set of four ways of practice: impatient, patient, taming, and calming. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_17),
+        ("Speakers", SPEAKER),
+        ("Form", "Four items defined in turn, none of them sharing content with AN 4.161&ndash;163"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Sense restraint and the abandoning of unskillful thoughts are "
+                              "standard material across the early collections; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a fresh start disguised by a "
+                       "familiar heading"),
+    ],
+    why=(
+        "The heading says <em>paṭipadā</em>, way of practice, exactly as the discourses before it "
+        "did. What follows shares nothing else with them. This is a different four: impatient "
+        "practice, patient practice, taming practice, calming practice &mdash; not painful or "
+        "pleasant, not slow or swift, but a person&rsquo;s response to provocation, to the senses, "
+        "and to their own arising thoughts."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are four ways of responding to what comes at a person: retaliation, restraint "
+            "under provocation, restraint of the senses, and the refusal to tolerate a bad thought "
+            "once it has arisen."]),
+        ("A reused word, a new list", [
+            "It is worth being direct about what has happened structurally. AN 4.161 through AN "
+            "4.163 all used <em>paṭipadā</em> for one classification, cross-bred on painful/pleasant "
+            "and slow/swift. This discourse opens with the identical formula &mdash; <em>there are "
+            "four ways of practice</em> &mdash; and then gives four items that have no relation to "
+            "that cross at all.",
+            "A reader moving straight through the chapter will feel the seam. It is real, and it is "
+            "not a mistake in translation or transmission; <em>paṭipadā</em> simply means "
+            "&lsquo;way of practice&rsquo; broadly enough to head more than one list, and the "
+            "compilers filed both under the same chapter because both are sets of four bearing that "
+            "name.",
+            "This is the same lesson the Indriyavagga taught with its four different lists of "
+            "<em>bala</em>. A recurring head-word is not a promise that the content recurs with it."]),
+        ("Impatient and patient practice", [
+            "The first pair is the simplest and the most immediately usable. Impatient practice: "
+            "someone abuses, annoys, or argues with you, and you abuse, annoy, or argue right back. "
+            "Patient practice: the same provocation, met without retaliation.",
+            "No third option is given. The discourse does not describe walking away, or reporting "
+            "the person, or any strategy beyond matching or not matching what comes. That narrowness "
+            "is the point: the test is specifically about symmetry of response, not about the full "
+            "range of things a person might do when provoked."]),
+        ("Taming practice", [
+            "The third item is sense restraint, given in the collection&rsquo;s standard form: at "
+            "each of the six sense doors, not <em>getting caught up in the features and details</em> "
+            "&mdash; the general impression and the fine points that, left unguarded, let "
+            "covetousness and displeasure overwhelm the mind.",
+            "<em>Dama</em>, taming, is an unusual word to attach to this. It is the vocabulary of "
+            "breaking in an animal, and applying it to the management of one&rsquo;s own eyes and "
+            "ears casts sense restraint as a discipline exercised on oneself rather than a passive "
+            "carefulness.",
+            "The formula is given in full for the eye and then abbreviated through ear, nose, "
+            "tongue, and body before being given in full again for the mind, which is treated as a "
+            "sixth sense door on equal footing with the other five &mdash; the standard position of "
+            "this collection and one worth stating plainly to readers unfamiliar with it."]),
+        ("Calming practice", [
+            "The fourth item is the abandonment of thought once it has arisen: not tolerating a "
+            "sensual, malicious, or cruel thought, but giving it up, getting rid of it, calming it, "
+            "eliminating it, obliterating it.",
+            "This is the identical trio of thoughts named in AN 4.11 and AN 4.138 &mdash; the "
+            "walking mendicant who tolerates them and is called lazy, and the two axes of bodily and "
+            "mental seclusion. Three discourses in the Fours now converge on the same three "
+            "thoughts as the working definition of what an inward practice has to deal with.",
+            "The chain of five verbs &mdash; give up, get rid of, calm, eliminate, obliterate "
+            "&mdash; is worth reading as an escalation rather than as five synonyms. Sujato&rsquo;s "
+            "translation preserves the piling-up; a teacher can slow down on this line and ask what, "
+            "if anything, is different between merely giving something up and obliterating it."]),
+        ("How the four relate to each other", [
+            "Unlike the painful/pleasant cross, this set of four is not built as two independent "
+            "axes. It reads more like an ascent: impatient practice is a straightforward failure; "
+            "patient practice withholds retaliation but says nothing about prevention; taming "
+            "practice acts before contact becomes a problem; calming practice acts on what has "
+            "already arisen internally, regardless of any external provocation at all.",
+            "That reading is offered as a reading, not as something the discourse states. What the "
+            "text itself provides is four defined terms and no explicit relationship between them.",
+            "The next discourse, AN 4.165, keeps three of the four items completely unchanged and "
+            "replaces only the definition of patient practice, which is the clearest way to see "
+            "which parts of this set the collection treats as fixed and which as variable."]),
+    ],
+    terms=[
+        ("akkhamā paṭipadā",
+         "&ldquo;impatient practice&rdquo; &mdash; matching provocation with provocation; the only "
+         "one of the four with no positive content."),
+        ("khamā paṭipadā",
+         "&ldquo;patient practice&rdquo; &mdash; the same provocation, met without retaliation; "
+         "redefined in the next discourse."),
+        ("damā paṭipadā",
+         "&ldquo;taming practice&rdquo; &mdash; restraint of the six sense doors; <em>dama</em> is "
+         "the vocabulary of breaking in an animal."),
+        ("samā paṭipadā",
+         "&ldquo;calming practice&rdquo; &mdash; the abandonment of an arisen sensual, malicious, or "
+         "cruel thought, in a chain of five escalating verbs."),
+        ("nimittaggāhī / anubyañjanaggāhī",
+         "&ldquo;caught up in the features&rdquo; and &ldquo;the details&rdquo; &mdash; the two "
+         "levels of a sense object the taming practice guards against grasping."),
+    ],
+    text_intro=(
+        "The discourse in full: four ways of practice, unrelated to the ones before, defined in "
+        "turn. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four ways of practice"),
+        ("p", "&sect;1", "an4.164:1.1-1.3"),
+        ("h3", "Impatient practice"),
+        ("p", "&sect;2", "an4.164:1.4-1.6"),
+        ("h3", "Patient practice"),
+        ("p", "&sect;3", "an4.164:2.1-2.3"),
+        ("h3", "Taming practice"),
+        ("p", "&sect;4", "an4.164:3.1-3.10"),
+        ("h3", "Calming practice"),
+        ("p", "&sect;5", "an4.164:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse&rsquo;s list of four relate to AN 4.161&ndash;163?",
+         "opts": [
+             "It is the same classification, further expanded",
+             "It shares only the heading <em>paṭipadā</em>; the content is unrelated",
+             "It ranks the earlier four",
+             "It contradicts the earlier four"],
+         "correct": 1,
+         "expl": "The word means &lsquo;way of practice&rsquo; broadly enough to head more than one list."},
+        {"q": "What is impatient practice?",
+         "opts": [
+             "Walking away from provocation",
+             "Someone abuses, annoys, or argues with you, and you do the same right back",
+             "Ignoring a provocation",
+             "Reporting a provocation"],
+         "correct": 1,
+         "expl": "No third option is given; the test is specifically about symmetry of response."},
+        {"q": "What is taming practice?",
+         "opts": [
+             "Fasting",
+             "Restraint at each of the six sense doors, not getting caught up in features and details",
+             "Silence",
+             "Confession of faults"],
+         "correct": 1,
+         "expl": "The standard formula, given in full for eye and mind, abbreviated between."},
+        {"q": "What does <em>dama</em> literally evoke?",
+         "opts": [
+             "Gentleness",
+             "The vocabulary of breaking in an animal",
+             "Cooling",
+             "Cutting"],
+         "correct": 1,
+         "expl": "Casting sense restraint as a discipline exercised on oneself."},
+        {"q": "How many sense doors does the formula cover?",
+         "opts": [
+             "Five",
+             "Six &mdash; the mind is treated as a sixth sense door on equal footing with the other five",
+             "Four",
+             "Three"],
+         "correct": 1,
+         "expl": "The standard position of this collection."},
+        {"q": "What is calming practice?",
+         "opts": [
+             "Sense restraint",
+             "Not tolerating a sensual, malicious, or cruel thought once it has arisen, but giving it up, getting rid of it, calming it, eliminating it, obliterating it",
+             "Patience under criticism",
+             "Meditation on the breath"],
+         "correct": 1,
+         "expl": "The same trio of thoughts named in AN 4.11 and AN 4.138."},
+        {"q": "How does the guide suggest reading the chain of five verbs?",
+         "opts": [
+             "As five synonyms",
+             "As an escalation, worth slowing down on rather than skimming as one idea",
+             "As a translation error",
+             "As four verbs plus a summary"],
+         "correct": 1,
+         "expl": "What, if anything, differs between giving something up and obliterating it."},
+        {"q": "How does the guide describe the relationship among the four items?",
+         "opts": [
+             "Two independent axes, as with the earlier set",
+             "More like an ascent &mdash; from failure, to withheld retaliation, to prevention, to acting on what has already arisen internally",
+             "No relationship at all",
+             "A ranking stated by the text"],
+         "correct": 1,
+         "expl": "Offered as a reading, not as something the discourse itself states."},
+        {"q": "What does AN 4.165 change from this discourse?",
+         "opts": [
+             "All four items",
+             "Only the definition of patient practice, keeping the other three unchanged",
+             "The order of the four",
+             "The heading"],
+         "correct": 1,
+         "expl": "The clearest way to see which parts of the set the collection treats as fixed."},
+        {"q": "What lesson from the Indriyavagga does this discourse repeat?",
+         "opts": [
+             "That faculties and powers are the same",
+             "That a recurring head-word is not a promise that the content recurs with it",
+             "That five items always fit in four",
+             "That patience is a faculty"],
+         "correct": 1,
+         "expl": "The same head-word, <em>bala</em>, covered four unrelated lists in chapter sixteen."},
+    ],
+    marginalia=[
+        ("Four ways", [
+            "impatient",
+            "patient",
+            "taming",
+            "calming",
+        ]),
+        ("Not the same four", [
+            "as AN 4.161&ndash;163",
+            "&mdash; only the heading matches",
+        ]),
+        ("Taming practice", [
+            "eye, ear, nose,",
+            "tongue, body, mind",
+            "&mdash; six doors, guarded",
+        ]),
+        ("Cross-references", [
+            "AN 4.11 &middot; the same three thoughts",
+            "AN 4.138 &middot; body and mind withdrawn",
+            "AN 4.165 &middot; the same four, one redefined",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.164/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.11.html">AN 4.11 &middot; Walking</a> &mdash; the same three thoughts, '
+        "measured across four postures.",
+        '<a href="an-4.138.html">AN 4.138 &middot; Retreat</a> &mdash; where body and mind are '
+        "withdrawn independently.",
+        '<a href="an-4.165.html">AN 4.165 &middot; Patience (2nd)</a> &mdash; next in this series, '
+        "and the same four with patient practice redefined.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.165 — Dutiyakhamasutta
+# --------------------------------------------------------------------------- #
+page(
+    165, "Dutiyakhama", "Patience (2nd)",
+    vagga=VAGGA_17,
+    meta_title="AN 4.165 — Patience (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Khamasutta — the "
+        "same impatient, patient, taming, and calming practice, with patience redefined as "
+        "endurance rather than restraint under insult. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_17),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 4.164 with one definition replaced and the other three repeated"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The formula of physical endurance is a stock passage across the "
+                              "early collections; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a single swapped definition, "
+                       "and the swap is the whole content"),
+    ],
+    why=(
+        "The same four names as the discourse before &mdash; impatient, patient, taming, calming "
+        "&mdash; with taming and calming given word for word and patience given a different life. "
+        "Here patient practice is not about how a person responds to insult. It is the endurance "
+        "formula: heat, cold, hunger, thirst, insects, criticism, and pain that could kill."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Patient practice can mean not retaliating against provocation, or it can mean enduring "
+            "what the body and circumstances impose &mdash; and the collection gives both."]),
+        ("What changed and what did not", [
+            "Impatient practice in AN 4.164 was defined by inability to endure a list of physical "
+            "and social hardships that this discourse now assigns to <em>patient</em> practice. The "
+            "labels have effectively swapped which content they carry between the two discourses, "
+            "even though both discourses keep calling the fourth item <em>samā</em>, calming, and "
+            "the third <em>damā</em>, taming, unchanged.",
+            "What is actually happening is simpler than a swap: AN 4.164 defined impatient and "
+            "patient practice around provocation from another person, and this discourse redefines "
+            "the same pair around endurance of circumstance. Taming and calming practice, which "
+            "concern the senses and arisen thoughts rather than other people or hardship, needed no "
+            "change and are repeated verbatim.",
+            "So two of the four are fixed across the pair and two are given a second, unrelated "
+            "content. That is worth stating precisely, because it clarifies that the redefinition is "
+            "confined to exactly the terms whose subject matter changed."]),
+        ("The endurance formula", [
+            "<em>Cannot endure cold, heat, hunger, and thirst. Cannot endure the touch of flies, "
+            "mosquitoes, wind, sun, and reptiles. Cannot endure rude and unwelcome criticism. And "
+            "cannot put up with physical pain &mdash; sharp, severe, acute, unpleasant, "
+            "disagreeable, and life-threatening.</em> Patient practice inverts every clause.",
+            "This exact formula closed AN 4.157, where it was the second half of the training "
+            "instruction given after a diagnosis of monastic ambition. There it followed a "
+            "description of a mendicant redirecting energy into status and gain; here it stands "
+            "alone as one of four ways of practicing.",
+            "Reading the two together clarifies what the formula is for. In AN 4.157 it was the "
+            "antidote to wanting to look impressive: the remedy for craving status was the capacity "
+            "to put up with things that are not impressive at all. Here, detached from that "
+            "context, it is simply named as a way of practicing in its own right."]),
+        ("What patience does not require", [
+            "It is worth being exact about the formula&rsquo;s scope. It does not ask a person to "
+            "seek out cold, hunger, or pain, and it does not call suffering valuable in itself. It "
+            "describes what happens when weather, insects, hostility, or the body impose something "
+            "&mdash; conditions a person did not choose &mdash; and asks only that they be put up "
+            "with rather than resisted or escaped.",
+            "The final item, life-threatening pain, is the most serious thing named anywhere in "
+            "this cluster of discourses, and the text does not pull back from it. The same word "
+            "closed the training instruction in AN 4.157, and this reading guide noted there that "
+            "nothing softens it. The same is true here."]),
+        ("Two ways of failing, one word", [
+            "Between the two discourses, <em>akkhamā</em>, impatient, names two distinct failures: "
+            "retaliating when provoked by another person, and being unable to bear what conditions "
+            "impose. The word covers both without distinguishing them, which is a real feature of "
+            "how the Pāli works and not something either discourse comments on.",
+            "A teacher can use the pairing to widen a student&rsquo;s idea of what patience covers. "
+            "Many people manage the first kind of patience &mdash; not snapping back &mdash; while "
+            "having very little of the second, and the reverse is just as common: someone who can "
+            "sit through discomfort for hours but cannot let an insult pass unanswered.",
+            "The two discourses, read together, refuse to let either kind stand for the whole of "
+            "the virtue."]),
+        ("Where it sits", [
+            "Fifth of the chapter&rsquo;s ten, and the last of the four discourses spent defining "
+            "the two unrelated sets that share the name <em>paṭipadā</em>.",
+            "AN 4.166 returns to the painful/pleasant, slow/swift classification of the first three "
+            "discourses and ranks it &mdash; a return this discourse&rsquo;s neighbor makes without "
+            "any comment on the patience material in between.",
+            "That is one more piece of evidence that the two sets of four are genuinely separate "
+            "threads sharing a chapter rather than a single developing argument."]),
+    ],
+    terms=[
+        ("khamā paṭipadā",
+         "&ldquo;patient practice&rdquo; &mdash; here redefined as enduring cold, heat, hunger, "
+         "thirst, insects, criticism, and life-threatening pain."),
+        ("adhivāseti",
+         "&ldquo;endures&rdquo;, puts up with &mdash; the verb of the formula, identical to the one "
+         "closing AN 4.157&rsquo;s training instruction."),
+        ("sarīrikā vedanā",
+         "&ldquo;physical feeling&rdquo;, pain &mdash; qualified here as sharp, severe, acute, "
+         "unpleasant, disagreeable, and life-threatening."),
+        ("akkhamā paṭipadā",
+         "&ldquo;impatient practice&rdquo; &mdash; naming two distinct failures across the two "
+         "discourses without distinguishing them: retaliation, and inability to endure."),
+        ("damā / samā paṭipadā",
+         "&ldquo;taming&rdquo; and &ldquo;calming practice&rdquo; &mdash; repeated verbatim from AN "
+         "4.164, since their subject matter did not change."),
+    ],
+    text_intro=(
+        "The discourse in full: the four named, patience redefined, taming and calming repeated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four ways of practice"),
+        ("p", "&sect;1", "an4.165:1.1-1.3"),
+        ("h3", "Impatient practice"),
+        ("p", "&sect;2", "an4.165:2.1-2.3"),
+        ("h3", "Patient practice"),
+        ("p", "&sect;3", "an4.165:3.1-3.3"),
+        ("h3", "Taming practice"),
+        ("p", "&sect;4", "an4.165:4.1-4.9"),
+        ("h3", "Calming practice"),
+        ("p", "&sect;5", "an4.165:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What changes between AN 4.164 and AN 4.165?",
+         "opts": [
+             "All four definitions",
+             "Only patient and impatient practice; taming and calming are repeated verbatim",
+             "Only calming practice",
+             "The order of the four"],
+         "correct": 1,
+         "expl": "The redefinition is confined to the terms whose subject matter changed."},
+        {"q": "What does patient practice mean here?",
+         "opts": [
+             "Not retaliating against insult",
+             "Enduring cold, heat, hunger, thirst, insects, criticism, and life-threatening pain",
+             "Restraining the senses",
+             "Giving up an arisen thought"],
+         "correct": 1,
+         "expl": "Circumstance and the body, rather than another person&rsquo;s provocation."},
+        {"q": "Where else does this exact formula appear?",
+         "opts": [
+             "AN 4.11",
+             "AN 4.157, as the second half of a training instruction against monastic ambition",
+             "AN 4.138",
+             "AN 4.1"],
+         "correct": 1,
+         "expl": "There it followed a diagnosis of craving for status; here it stands alone."},
+        {"q": "What does reading the two together clarify?",
+         "opts": [
+             "That the formula is only for monastics",
+             "That the formula is the antidote to wanting to look impressive: enduring what is unimpressive",
+             "That endurance produces status",
+             "That the formula is metaphorical"],
+         "correct": 1,
+         "expl": "Detached from that context here, it is simply named as a way of practicing."},
+        {"q": "What does the formula not ask a person to do?",
+         "opts": [
+             "Endure criticism",
+             "Seek out cold, hunger, or pain, or treat suffering as valuable in itself",
+             "Put up with weather",
+             "Bear physical pain"],
+         "correct": 1,
+         "expl": "It describes unchosen impositions to be borne rather than resisted or escaped."},
+        {"q": "How does the guide treat the final item, life-threatening pain?",
+         "opts": [
+             "As softened here",
+             "As the most serious thing in this cluster of discourses, left unsoftened as in AN 4.157",
+             "As omitted",
+             "As metaphorical"],
+         "correct": 1,
+         "expl": "The same word closed AN 4.157&rsquo;s training instruction."},
+        {"q": "What two failures does <em>akkhamā</em> cover across the two discourses?",
+         "opts": [
+             "Two forms of the same failure",
+             "Retaliating when provoked, and being unable to bear what conditions impose &mdash; without distinguishing them",
+             "Only retaliation",
+             "Only inability to endure"],
+         "correct": 1,
+         "expl": "A real feature of how the Pāli works, uncommented on by either discourse."},
+        {"q": "What common pattern does the guide note between the two kinds of patience?",
+         "opts": [
+             "They always come together",
+             "Many people have one without the other &mdash; not snapping back, or enduring discomfort, rarely both",
+             "Neither is common",
+             "Both are rare"],
+         "correct": 1,
+         "expl": "The two discourses together refuse to let either kind stand for the whole virtue."},
+        {"q": "What does AN 4.166 do after this discourse?",
+         "opts": [
+             "Continues the patience material",
+             "Returns to the painful/pleasant, slow/swift classification of AN 4.161&ndash;163 without comment on the patience discourses",
+             "Redefines taming practice",
+             "Introduces a fifth way of practice"],
+         "correct": 1,
+         "expl": "Evidence that the two sets of four are separate threads sharing a chapter."},
+        {"q": "What is this discourse&rsquo;s position in the chapter?",
+         "opts": [
+             "The opening",
+             "Fifth of ten, and the last of the discourses defining the two unrelated four-item sets",
+             "The closing discourse",
+             "The only narrative"],
+         "correct": 1,
+         "expl": "What follows returns to ranking the first set."},
+    ],
+    marginalia=[
+        ("What changed", [
+            "patient practice",
+            "impatient practice",
+            "&mdash; redefined",
+        ]),
+        ("What did not", [
+            "taming practice",
+            "calming practice",
+            "&mdash; repeated verbatim",
+        ]),
+        ("The formula", [
+            "cold, heat, hunger, thirst",
+            "flies, mosquitoes, sun",
+            "criticism &middot; pain that could kill",
+        ]),
+        ("Cross-references", [
+            "AN 4.157 &middot; the same formula, in context",
+            "AN 4.164 &middot; patience as not retaliating",
+            "AN 4.166 &middot; the chapter returns to ranking",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.165/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.157.html">AN 4.157 &middot; Illness</a> &mdash; where this exact formula '
+        "closes a training instruction.",
+        '<a href="an-4.164.html">AN 4.164 &middot; Patient (1st)</a> &mdash; the discourse this one '
+        "redefines against.",
+        '<a href="an-4.166.html">AN 4.166 &middot; Both</a> &mdash; next in this series, and the '
+        "chapter returns to the original four.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.166 — Ubhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    166, "Ubhaya", "Both",
+    vagga=VAGGA_17,
+    meta_title="AN 4.166 — Both | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ubhayasutta — the four "
+        "ways of practice ranked, with two grades of inferior and a precise, not sweeping, "
+        "superiority. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_17),
+        ("Speakers", SPEAKER),
+        ("Form", "The bare list of AN 4.161, then a ranking of each"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Rankings of the four ways of practice by pleasantness and speed "
+                              "occur across the early collections; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, and the precision of its "
+                       "grading is easy to flatten in summary"),
+    ],
+    why=(
+        "The chapter finally ranks the four ways of practice it opened with &mdash; and does it "
+        "more carefully than a reader might expect. Painful and slow is inferior on both counts. "
+        "Pleasant and swift is superior on both counts. But painful and swift is called inferior "
+        "only because it is painful, and pleasant and slow only because it is slow. Two grades of "
+        "shortfall, not one flat verdict, and the next two discourses depend on the difference."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Of the four ways of practice, one is doubly inferior, two are inferior in one respect "
+            "each, and one is doubly superior."]),
+        ("The grading, exactly as given", [
+            "Painful and slow: <em>said to be inferior in both ways &mdash; because it&rsquo;s "
+            "painful and because it&rsquo;s slow.</em> The formula names both defects and repeats "
+            "the pairing to be sure it lands.",
+            "Painful and swift: <em>said to be inferior because it&rsquo;s painful.</em> Nothing is "
+            "held against its speed. The single word <em>dukkhattā</em>, because of its painfulness, "
+            "carries the whole verdict.",
+            "Pleasant and slow: <em>said to be inferior because it&rsquo;s slow.</em> The mirror "
+            "case: nothing is held against how it feels, only against how long it takes.",
+            "Pleasant and swift: <em>said to be superior in both ways &mdash; because it&rsquo;s "
+            "pleasant, and because it&rsquo;s swift.</em> The same doubling formula as the first "
+            "case, inverted."]),
+        ("Why the distinction matters", [
+            "It would be easy to summarize this discourse as ranking the four best to worst: "
+            "pleasant-swift, then the two mixed cases in some order, then painful-slow. The text "
+            "does not give an order for the two middle cases relative to each other, and it does "
+            "not call either of them simply &lsquo;inferior&rsquo; without qualification.",
+            "Each of the two middle cases is marked inferior on exactly one count and left "
+            "unmarked, not praised but not condemned, on the other. That is a materially different "
+            "claim from calling them inferior outright, and a reading guide should not collapse the "
+            "difference for the sake of a tidier summary.",
+            "The formula&rsquo;s care is the whole content of this short discourse. A ranking that "
+            "distinguishes doubly-inferior from singly-inferior is doing more work than one that "
+            "simply lists four grades from worst to best."]),
+        ("What this sets up", [
+            "The next two discourses put this ranking under real pressure. AN 4.167 has Sāriputta "
+            "ask Mahāmoggallāna which of the four he relied on for liberation, and Mahāmoggallāna "
+            "answers: painful practice with swift insight &mdash; the path this discourse has just "
+            "called inferior, on one count.",
+            "AN 4.168 reverses the question, and Sāriputta answers: pleasant practice with swift "
+            "insight &mdash; the path graded superior in both ways here.",
+            "Reading AN 4.166 carefully in advance matters for exactly this reason. If a reader "
+            "takes the loose summary &mdash; that painful-swift is simply &lsquo;inferior&rsquo; "
+            "&mdash; then Mahāmoggallāna&rsquo;s answer in the next discourse reads as a stranger "
+            "claim than it is. Read precisely, his path was marked down for one thing only, and "
+            "that is a smaller distance to cross than &lsquo;inferior&rsquo; unqualified would "
+            "suggest."]),
+        ("What is not said", [
+            "Nothing here says a practitioner chooses which of the four applies to them. AN 4.162 "
+            "and AN 4.163 both described the four as determined by temperament, faculty strength, "
+            "or which meditation is undertaken &mdash; not as options selected for their ranking.",
+            "So this discourse&rsquo;s grading is descriptive of where each combination stands "
+            "relative to the others, not a set of instructions about which to aim for. A person "
+            "whose practice is, as things stand, painful cannot make it pleasant by wanting the "
+            "better grade.",
+            "What the grading does supply is a way of holding the four without treating them as "
+            "interchangeable, which is exactly what the two disciples&rsquo; discourses will need."]),
+    ],
+    terms=[
+        ("hīna",
+         "&ldquo;inferior&rdquo; &mdash; the term applied to three of the four, with two different "
+         "degrees: <em>ubhayeneva hīnā</em>, inferior in both ways, and inferior on one count only."),
+        ("paṇīta",
+         "&ldquo;superior&rdquo;, excellent &mdash; applied only to pleasant practice with swift "
+         "insight, and only in the doubled form."),
+        ("dukkhattā",
+         "&ldquo;because of painfulness&rdquo; &mdash; the single word that carries the whole "
+         "verdict against painful-swift practice."),
+        ("dandhattā",
+         "&ldquo;because of slowness&rdquo; &mdash; the mirror word carrying the verdict against "
+         "pleasant-slow practice."),
+        ("ubhayeneva",
+         "&ldquo;in both ways&rdquo; &mdash; the intensifying formula reserved for the doubly "
+         "inferior and doubly superior cases only."),
+    ],
+    text_intro=(
+        "The discourse in full: the four named, then ranked, with the reasons stated for each. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four ways of practice"),
+        ("p", "&sect;1", "an4.166:1.1-1.6"),
+        ("h3", "Judged by both measures"),
+        ("p", "&sect;2", "an4.166:2.1-2.2"),
+        ("p", "&sect;3", "an4.166:3.1"),
+        ("p", "&sect;4", "an4.166:4.1"),
+        ("p", "&sect;5", "an4.166:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "How is painful and slow practice graded?",
+         "opts": [
+             "Inferior on one count",
+             "Inferior in both ways &mdash; because it is painful and because it is slow",
+             "Superior in one way",
+             "Ungraded"],
+         "correct": 1,
+         "expl": "The formula names both defects and repeats the pairing."},
+        {"q": "How is painful and swift practice graded?",
+         "opts": [
+             "Inferior in both ways",
+             "Inferior only because it is painful &mdash; nothing is held against its speed",
+             "Superior because it is swift",
+             "Ungraded"],
+         "correct": 1,
+         "expl": "<em>Dukkhattā</em> carries the whole verdict."},
+        {"q": "How is pleasant and slow practice graded?",
+         "opts": [
+             "Superior because it is pleasant",
+             "Inferior only because it is slow &mdash; nothing is held against how it feels",
+             "Inferior in both ways",
+             "Ungraded"],
+         "correct": 1,
+         "expl": "The mirror case to painful-swift."},
+        {"q": "How is pleasant and swift practice graded?",
+         "opts": [
+             "Superior in both ways &mdash; because it is pleasant and because it is swift",
+             "Superior in one way only",
+             "Inferior in one way",
+             "Ungraded"],
+         "correct": 1,
+         "expl": "The same doubling formula as painful-slow, inverted."},
+        {"q": "What summary does the guide warn against?",
+         "opts": [
+             "That there are four ways of practice",
+             "Treating all three non-superior cases as flatly &lsquo;inferior&rsquo; without distinguishing single from double shortfall",
+             "That pleasant-swift is best",
+             "That the four are ranked at all"],
+         "correct": 1,
+         "expl": "The two middle cases are marked down on exactly one count and left unmarked on the other."},
+        {"q": "Why does the guide call the formula&rsquo;s care the whole content of the discourse?",
+         "opts": [
+             "Because it is long",
+             "Because a ranking distinguishing doubly-inferior from singly-inferior does more work than one that just lists four grades",
+             "Because it names a speaker",
+             "Because it gives instructions"],
+         "correct": 1,
+         "expl": "A materially different claim from calling something inferior outright."},
+        {"q": "What does this ranking set up in the next two discourses?",
+         "opts": [
+             "A repeat of the ranking",
+             "Mahāmoggallāna reports using painful-swift practice, and Sāriputta reports using pleasant-swift",
+             "A debate about the ranking",
+             "A cosmological digression"],
+         "correct": 1,
+         "expl": "Two disciples reporting which of the four they actually used."},
+        {"q": "Why does reading this discourse precisely matter for the next one?",
+         "opts": [
+             "It does not matter",
+             "Taking the loose summary makes Mahāmoggallāna&rsquo;s answer read as a stranger claim than it precisely is",
+             "It changes the ranking",
+             "It contradicts AN 4.167"],
+         "correct": 1,
+         "expl": "His path was marked down for one thing only, a smaller distance than &lsquo;inferior&rsquo; unqualified."},
+        {"q": "Does a practitioner choose which of the four applies to them?",
+         "opts": [
+             "Yes, freely",
+             "Not according to AN 4.162 and AN 4.163 &mdash; the four are determined by temperament, faculty strength, or which meditation is undertaken",
+             "Only the pleasant ones can be chosen",
+             "The discourse does not say"],
+         "correct": 1,
+         "expl": "The grading is descriptive of standing, not a set of instructions about what to aim for."},
+        {"q": "What does the grading supply instead?",
+         "opts": [
+             "A path to follow",
+             "A way of holding the four without treating them as interchangeable",
+             "A meditation technique",
+             "A ranking of practitioners"],
+         "correct": 1,
+         "expl": "Exactly what the two disciples&rsquo; discourses will need."},
+    ],
+    marginalia=[
+        ("The grading", [
+            "painful, slow &middot; both counts",
+            "painful, swift &middot; one count",
+            "pleasant, slow &middot; one count",
+            "pleasant, swift &middot; both counts",
+        ]),
+        ("Not flat", [
+            "two grades of shortfall",
+            "not one blanket &lsquo;inferior&rsquo;",
+        ]),
+        ("What comes next", [
+            "AN 4.167 &middot; the &lsquo;inferior&rsquo; path",
+            "AN 4.168 &middot; the &lsquo;superior&rsquo; path",
+            "&mdash; from two chief disciples",
+        ]),
+        ("Cross-references", [
+            "AN 4.161 &middot; the bare four, unranked",
+            "AN 4.162 &middot; what determines the four",
+            "AN 4.167 &middot; Moggallāna&rsquo;s report",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.166/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.161.html">AN 4.161 &middot; In Brief</a> &mdash; the bare list this discourse '
+        "ranks.",
+        '<a href="an-4.167.html">AN 4.167 &middot; Moggallāna&rsquo;s Practice</a> &mdash; next in '
+        "this series, and the ranking put under pressure.",
+        '<a href="an-4.168.html">AN 4.168 &middot; Sāriputta&rsquo;s Practice</a> &mdash; the '
+        "mirror report from the other chief disciple.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.167 — Mahāmoggallānasutta
+# --------------------------------------------------------------------------- #
+page(
+    167, "Mahāmoggallāna", "Moggallāna&rsquo;s Practice",
+    vagga=VAGGA_17,
+    meta_title="AN 4.167 — Moggallāna's Practice | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mahāmoggallānasutta — "
+        "Sāriputta asks which of the four ways of practice freed Moggallāna's mind, and the answer "
+        "is the one the chapter just called inferior. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not stated for this exchange; the two are elsewhere placed at Sāvatthī"),
+        ("Speakers", "Venerable Sāriputta and Venerable Mahāmoggallāna"),
+        ("Form", "A visit, a question naming the four ways of practice, and a one-line answer"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Exchanges between the Buddha&rsquo;s two chief disciples on their "
+                              "own attainments occur across the early collections; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; four lines of narrative and one "
+                       "answer that reopens everything the previous discourse just settled"),
+    ],
+    why=(
+        "Sāriputta visits Mahāmoggallāna, recites the four ways of practice exactly as AN 4.166 "
+        "ranked them, and asks which one freed his mind. The answer: painful practice with swift "
+        "insight &mdash; the path the discourse immediately before this one graded inferior, on one "
+        "count. One of the two people in the entire canon most consistently held up as foremost "
+        "took the harder road, by the collection&rsquo;s own scale."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Mahāmoggallāna reports that he was freed by the practice this chapter has just ranked "
+            "below the alternative."]),
+        ("The question, asked precisely", [
+            "Sāriputta does not ask generally how Mahāmoggallāna practiced. He recites all four "
+            "ways of practice by name, in the fixed order this chapter has used throughout, and "
+            "asks: <em>which one of these four ways of practice did you rely on to free your mind "
+            "from defilements by not grasping?</em>",
+            "That is a pointed question from someone who would have known AN 4.166&rsquo;s ranking "
+            "as well as any reader of this chapter now does. Asking it in that form invites an "
+            "answer that can be placed directly against the grading, and the discourse does not "
+            "soften the invitation.",
+            "<em>Anupādāya āsavehi cittaṁ vimuttaṁ</em>, the mind freed from defilements by not "
+            "grasping, is the collection&rsquo;s standard description of arahantship. The question "
+            "is about the highest attainment the tradition names, asked as a direct multiple-choice."]),
+        ("The answer", [
+            "<em>Reverend Sāriputta&hellip; I relied on the painful practice with swift insight to "
+            "free my mind from defilements by not grasping.</em>",
+            "By AN 4.166&rsquo;s exact grading, that is the path called inferior because of its "
+            "painfulness &mdash; not doubly inferior, but marked down on one count, with nothing "
+            "held against its speed. Mahāmoggallāna&rsquo;s swiftness was, by the ranking, "
+            "unimpeachable. What the ranking counted against him was that the practice hurt.",
+            "The answer is given without elaboration, embarrassment, or qualification. Nothing in "
+            "the text suggests Mahāmoggallāna experienced the grading as a judgment on his path, "
+            "and nothing suggests Sāriputta received the answer as anything other than a plain "
+            "report of fact."]),
+        ("What this does to the ranking", [
+            "This reading guide does not claim the discourse overturns AN 4.166 or declares it "
+            "wrong. Nothing here says the ranking is false, and the two texts are not in open "
+            "contradiction &mdash; a path can be graded inferior on one count and still be the one "
+            "that works for a given person.",
+            "What the pairing does is refuse to let the ranking function as advice. AN 4.166 "
+            "described where four combinations stand relative to each other in the abstract; AN "
+            "4.167 shows one of the tradition&rsquo;s two foremost disciples using the "
+            "lower-graded of the two swift paths and reaching the highest result there is.",
+            "Held together, the two discourses make a claim worth stating directly: a scale that "
+            "ranks ways of practice is not the same thing as a scale that predicts who succeeds by "
+            "which one. The chapter gives both the scale and a data point that the scale does not "
+            "explain away."]),
+        ("Who Mahāmoggallāna was", [
+            "The tradition names Mahāmoggallāna foremost in psychic power, paired constantly with "
+            "Sāriputta, who is named foremost in wisdom. The two are the Buddha&rsquo;s chief "
+            "disciples throughout the canon, and their partnership is treated as a settled fact "
+            "requiring no introduction here.",
+            "That standing is part of why the exchange carries weight. This is not an obscure "
+            "monastic reporting an idiosyncratic path; it is one of the two most senior disciples in "
+            "the entire tradition, questioned by the other, giving a plain answer about which of a "
+            "named set of four ways of practice actually worked for him.",
+            "The next discourse gives the same exchange in reverse, and the two together are best "
+            "read as a pair rather than as two separate data points."]),
+        ("Teaching it", [
+            "This is one of the shortest discourses in the chapter and one of the most useful to "
+            "teach alongside AN 4.166 rather than after a gap. The full weight of the answer "
+            "depends on the reader having the ranking fresh.",
+            "The honest question to leave with a class is not which path is better in the abstract "
+            "&mdash; AN 4.166 already answered that, precisely &mdash; but what the abstract ranking "
+            "is for, given that it did not predict or determine what worked for the person best "
+            "positioned to know."]),
+    ],
+    terms=[
+        ("anupādāya vimutta",
+         "&ldquo;freed by not grasping&rdquo; &mdash; the collection&rsquo;s standard description "
+         "of arahantship, used here as the shared measure both disciples report against."),
+        ("dukkhā paṭipadā khippābhiññā",
+         "&ldquo;painful practice with swift insight&rdquo; &mdash; the path Mahāmoggallāna names, "
+         "graded inferior on one count by the discourse just before this one."),
+        ("Mahāmoggallāna",
+         "the disciple named foremost in psychic power, and Sāriputta&rsquo;s constant partner "
+         "throughout the canon."),
+        ("āvuso",
+         "&ldquo;reverend&rdquo; &mdash; the address the two use for each other, marking this as an "
+         "exchange between equals rather than teacher and student."),
+        ("paṭipadā",
+         "&ldquo;way of practice&rdquo; &mdash; recited by Sāriputta in the fixed order this "
+         "chapter has used since AN 4.161."),
+    ],
+    text_intro=(
+        "The discourse in full: the visit, the question naming all four ways, and the answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta asks"),
+        ("p", "&sect;1", "an4.167:1.1-2.8"),
+        ("h3", "Moggallāna answers"),
+        ("p", "&sect;2", "an4.167:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What does Sāriputta ask Mahāmoggallāna?",
+         "opts": [
+             "How he became a monk",
+             "Which of the four named ways of practice he relied on to free his mind from defilements",
+             "Whether he agrees with AN 4.166&rsquo;s ranking",
+             "How long he has practiced"],
+         "correct": 1,
+         "expl": "A direct multiple-choice on the highest attainment the tradition names."},
+        {"q": "How does Sāriputta frame the question?",
+         "opts": [
+             "Vaguely, leaving the four unnamed",
+             "By reciting all four ways of practice by name, in the fixed order used throughout the chapter",
+             "By asking about a single practice",
+             "By asking about temperament"],
+         "correct": 1,
+         "expl": "Inviting an answer that can be placed directly against AN 4.166&rsquo;s grading."},
+        {"q": "What does Mahāmoggallāna answer?",
+         "opts": [
+             "Pleasant practice with swift insight",
+             "Painful practice with swift insight",
+             "Painful practice with slow insight",
+             "He declines to answer"],
+         "correct": 1,
+         "expl": "The path AN 4.166 marked inferior on one count &mdash; because it was painful."},
+        {"q": "What did AN 4.166 say about that path&rsquo;s speed?",
+         "opts": [
+             "That it was also inferior",
+             "Nothing was held against it &mdash; the swiftness was unimpeachable by the ranking",
+             "That it was doubly inferior",
+             "That speed does not apply to it"],
+         "correct": 1,
+         "expl": "Only the painfulness counted against it."},
+        {"q": "How is the answer delivered?",
+         "opts": [
+             "With embarrassment",
+             "Without elaboration, embarrassment, or qualification, as a plain report of fact",
+             "With a lengthy justification",
+             "As a rebuke of the ranking"],
+         "correct": 1,
+         "expl": "Nothing suggests either disciple treated the grading as a judgment."},
+        {"q": "Does this discourse claim AN 4.166&rsquo;s ranking is wrong?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; a path can be graded inferior on one count and still be the one that works for a given person",
+             "Yes, by implication",
+             "The guide does not address this"],
+         "correct": 1,
+         "expl": "The two texts are not in open contradiction."},
+        {"q": "What does the pairing refuse to let the ranking do?",
+         "opts": [
+             "Exist at all",
+             "Function as advice &mdash; a scale of standing is not the same as a scale predicting who succeeds by which path",
+             "Apply to anyone",
+             "Be quoted"],
+         "correct": 1,
+         "expl": "The chapter gives both the scale and a data point the scale does not explain away."},
+        {"q": "What is Mahāmoggallāna named foremost in?",
+         "opts": [
+             "Wisdom",
+             "Psychic power, paired constantly with Sāriputta, foremost in wisdom",
+             "Learning",
+             "Discipline"],
+         "correct": 1,
+         "expl": "The Buddha&rsquo;s two chief disciples throughout the canon."},
+        {"q": "Why does the exchange carry particular weight?",
+         "opts": [
+             "Because it is long",
+             "Because it is one of the two most senior disciples in the tradition, questioned by the other, giving a plain answer",
+             "Because it is anonymous",
+             "Because it contradicts the Buddha"],
+         "correct": 1,
+         "expl": "Not an obscure monastic reporting an idiosyncratic path."},
+        {"q": "What question does the guide suggest leaving a class with?",
+         "opts": [
+             "Which path is better in the abstract",
+             "What the abstract ranking is for, given that it did not predict what worked for the person best positioned to know",
+             "Whether Mahāmoggallāna was wrong",
+             "Whether the ranking should be discarded"],
+         "correct": 1,
+         "expl": "AN 4.166 already answered the first question precisely."},
+    ],
+    marginalia=[
+        ("The question", [
+            "all four, named",
+            "in the fixed order",
+            "&mdash; which one freed you?",
+        ]),
+        ("The answer", [
+            "painful practice",
+            "with swift insight",
+            "&mdash; graded inferior, on one count",
+        ]),
+        ("Two chief disciples", [
+            "Sāriputta &middot; foremost in wisdom",
+            "Moggallāna &middot; foremost in psychic power",
+        ]),
+        ("Cross-references", [
+            "AN 4.166 &middot; the ranking this tests",
+            "AN 4.168 &middot; Sāriputta&rsquo;s own answer",
+            "AN 4.163 &middot; the meditations behind &lsquo;painful&rsquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.167/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.166.html">AN 4.166 &middot; Both</a> &mdash; the ranking this exchange tests '
+        "against a real answer.",
+        '<a href="an-4.168.html">AN 4.168 &middot; Sāriputta&rsquo;s Practice</a> &mdash; next in '
+        "this series, and the mirror question.",
+        '<a href="an-4.163.html">AN 4.163 &middot; Ugly</a> &mdash; the meditations that make '
+        "practice painful in this classification.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.168 — Sāriputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    168, "Sāriputta", "Sāriputta&rsquo;s Practice",
+    vagga=VAGGA_17,
+    meta_title="AN 4.168 — Sāriputta's Practice | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sāriputtasutta — "
+        "Moggallāna returns the question, and Sāriputta reports the practice AN 4.166 graded "
+        "superior in both ways. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not stated for this exchange; the two are elsewhere placed at Sāvatthī"),
+        ("Speakers", "Venerable Mahāmoggallāna and Venerable Sāriputta"),
+        ("Form", "The identical exchange of AN 4.167, roles reversed"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Paired exchanges between the two chief disciples occur across the "
+                              "early collections; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a mirror discourse whose "
+                       "meaning depends entirely on its twin"),
+    ],
+    why=(
+        "Mahāmoggallāna returns the visit and asks Sāriputta the same question, word for word: "
+        "which of the four ways of practice freed your mind? Sāriputta answers pleasant practice "
+        "with swift insight &mdash; the path AN 4.166 graded superior on both counts. Two chief "
+        "disciples, the same attainment, the same question, and two different answers drawn from "
+        "opposite ends of a chapter&rsquo;s own scale."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Sāriputta reports being freed by the practice this chapter ranked highest, completing "
+            "a pair that spans the whole graded range."]),
+        ("A discourse built to be read second", [
+            "AN 4.168 has almost no content of its own. The visit is described in the same terms as "
+            "AN 4.167 with the two names exchanged; the question is recited identically; only the "
+            "answer differs.",
+            "That is not padding. It is the discourse&rsquo;s entire method: repeat the frame "
+            "exactly, change the one variable, and let the comparison do the work no commentary "
+            "could do as cleanly. A reader who has just read AN 4.167 will feel the symmetry "
+            "immediately; a reader who has not will find this page nearly unreadable on its own.",
+            "The Fours have used this device before, most visibly across AN 4.123 and AN 4.124, "
+            "where a single clause changed and the reader was expected to notice. Here the changed "
+            "element is not a clause but an entire biography&rsquo;s worth of practice, compressed "
+            "into one recited phrase."]),
+        ("The answer", [
+            "<em>Reverend Moggallāna&hellip; I relied on the pleasant practice with swift insight "
+            "to free my mind from defilements by not grasping.</em>",
+            "By AN 4.166&rsquo;s exact grading, this is the one path called superior in both ways "
+            "&mdash; because it was pleasant, and because it was swift. Where Mahāmoggallāna&rsquo;s "
+            "path was marked down on exactly one count, Sāriputta&rsquo;s was marked up on both.",
+            "Nothing in the text treats this as a more impressive answer, or as evidence that "
+            "Sāriputta had it easier in some sense that diminishes the attainment. The formula "
+            "reporting it is identical to the one Mahāmoggallāna used, down to the last word."]),
+        ("Two answers, one destination", [
+            "Set the two discourses beside each other and the point becomes unmistakable: the "
+            "graded difference between the two paths made no difference to where either disciple "
+            "arrived. Both report the same phrase, <em>anupādāya āsavehi cittaṁ vimuttaṁ</em>, and "
+            "neither discourse suggests one arrival is more complete than the other.",
+            "This is worth stating as plainly as the texts allow, because it is easy to let AN "
+            "4.166&rsquo;s vocabulary of superior and inferior slide into a claim about the people "
+            "who use each path rather than about the paths themselves. The pair of discourses stands "
+            "as a direct correction to that slide, without ever contradicting the ranking that makes "
+            "the correction necessary.",
+            "A scale that grades four ways of practice and two disciples who used two different "
+            "ones, at opposite ends of the scale, to reach the identical result: both things are "
+            "true in this chapter, stated without any attempt to soften either one into the other."]),
+        ("What the pair does not settle", [
+            "Neither discourse says why Sāriputta&rsquo;s practice was pleasant where "
+            "Mahāmoggallāna&rsquo;s was painful, and neither invokes AN 4.162&rsquo;s temperament or "
+            "AN 4.163&rsquo;s choice of meditation to explain it. The pair reports outcomes, not "
+            "causes.",
+            "A reader who wants to know which of the earlier definitions applies to which disciple "
+            "will not find an answer here, and this reading guide does not supply one. The two "
+            "discourses are content to let the fact stand without a mechanism attached to it.",
+            "That restraint matches the rest of the chapter&rsquo;s handling of these four terms: "
+            "definitions are given freely, but the machinery connecting a person&rsquo;s "
+            "circumstances to which of the four applies to them is never fully closed."]),
+        ("Closing the sequence", [
+            "AN 4.166 through AN 4.168 form the tightest three-discourse unit in this chapter: a "
+            "ranking, then two mirrored reports that use the ranking&rsquo;s own vocabulary to "
+            "describe two real and unequal outcomes converging on one result.",
+            "What follows, AN 4.169, leaves this material behind and returns to the vocabulary of "
+            "AN 4.163 &mdash; the foulness meditations, the absorptions, the powers of a trainee "
+            "&mdash; recombined into a different four-way classification about arahantship reached "
+            "in this life or at death, with or without extra effort.",
+            "Read as a whole, the chapter has now shown its two great disciples on opposite ends of "
+            "a ranked scale and its central definitional material about to be reused a third time. "
+            "Little in the Fours is as densely cross-referenced as this stretch of ten discourses."]),
+    ],
+    terms=[
+        ("sukhā paṭipadā khippābhiññā",
+         "&ldquo;pleasant practice with swift insight&rdquo; &mdash; the path Sāriputta names, "
+         "graded superior in both ways by AN 4.166."),
+        ("anupādāya vimutta",
+         "&ldquo;freed by not grasping&rdquo; &mdash; the identical formula both disciples use to "
+         "describe their own attainment."),
+        ("Sāriputta",
+         "the disciple named foremost in wisdom, and Mahāmoggallāna&rsquo;s constant partner "
+         "throughout the canon."),
+        ("paṭipadā",
+         "&ldquo;way of practice&rdquo; &mdash; the term both discourses recite identically before "
+         "asking which one applies."),
+        ("āvuso",
+         "&ldquo;reverend&rdquo; &mdash; the same address used in AN 4.167, here spoken by "
+         "Mahāmoggallāna to Sāriputta."),
+    ],
+    text_intro=(
+        "The discourse in full: the returned visit, the identical question, and the mirrored "
+        "answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Moggallāna asks"),
+        ("p", "&sect;1", "an4.168:1.1-2.8"),
+        ("h3", "Sāriputta answers"),
+        ("p", "&sect;2", "an4.168:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse&rsquo;s frame relate to AN 4.167&rsquo;s?",
+         "opts": [
+             "It is unrelated",
+             "Identical in every particular except that the two names are exchanged",
+             "It adds new material",
+             "It contradicts it"],
+         "correct": 1,
+         "expl": "The discourse&rsquo;s entire method is to repeat the frame and change one variable."},
+        {"q": "What does Sāriputta answer?",
+         "opts": [
+             "Painful practice with swift insight",
+             "Pleasant practice with swift insight",
+             "Painful practice with slow insight",
+             "Pleasant practice with slow insight"],
+         "correct": 1,
+         "expl": "The path AN 4.166 graded superior in both ways."},
+        {"q": "How does the text present this answer relative to Mahāmoggallāna&rsquo;s?",
+         "opts": [
+             "As more impressive",
+             "In an identical formula, with nothing treating it as more impressive or the attainment as easier",
+             "As less impressive",
+             "With an explanation of the difference"],
+         "correct": 1,
+         "expl": "The reporting formula is the same down to the last word."},
+        {"q": "What does setting the two discourses beside each other show?",
+         "opts": [
+             "That one disciple was more advanced",
+             "That the graded difference between the paths made no difference to where either disciple arrived",
+             "That the ranking was wrong",
+             "That pleasant practice is required for full freedom"],
+         "correct": 1,
+         "expl": "Both report the identical phrase for their attainment."},
+        {"q": "What slide does the guide say this pair corrects?",
+         "opts": [
+             "A slide toward equal doctrine",
+             "Letting the vocabulary of superior and inferior become a claim about the people who use each path, rather than about the paths",
+             "A slide toward ranking disciples",
+             "A slide away from arahantship"],
+         "correct": 1,
+         "expl": "Without ever contradicting the ranking that makes the correction necessary."},
+        {"q": "Does either discourse explain why one disciple&rsquo;s path was painful and the other&rsquo;s pleasant?",
+         "opts": [
+             "Yes, by temperament",
+             "No &mdash; the pair reports outcomes, not causes, and no mechanism is supplied",
+             "Yes, by choice of meditation",
+             "Yes, by seniority"],
+         "correct": 1,
+         "expl": "This reading guide does not supply one either."},
+        {"q": "How does that restraint fit the rest of the chapter?",
+         "opts": [
+             "It is unusual for this chapter",
+             "It matches the pattern &mdash; definitions given freely, but the machinery connecting circumstance to classification never fully closed",
+             "It contradicts AN 4.162 and AN 4.163",
+             "It is unique to this discourse"],
+         "correct": 1,
+         "expl": "Consistent with how the earlier definitional discourses were left."},
+        {"q": "What three-discourse unit does AN 4.166 to AN 4.168 form?",
+         "opts": [
+             "The loosest section of the chapter",
+             "The tightest unit &mdash; a ranking, then two mirrored reports using its vocabulary for two unequal but converging outcomes",
+             "An unrelated narrative interlude",
+             "A repeat of AN 4.161"],
+         "correct": 1,
+         "expl": "Densely cross-referenced within this stretch of the Fours."},
+        {"q": "What does AN 4.169 do after this discourse?",
+         "opts": [
+             "Continues the disciples&rsquo; exchange",
+             "Leaves this material behind and reuses AN 4.163&rsquo;s vocabulary for a different four-way classification",
+             "Ranks Sāriputta and Moggallāna",
+             "Repeats AN 4.166"],
+         "correct": 1,
+         "expl": "The foulness meditations, the absorptions, and the trainee&rsquo;s powers, recombined a third time."},
+        {"q": "Who is Sāriputta named foremost in?",
+         "opts": [
+             "Psychic power",
+             "Wisdom, and Mahāmoggallāna&rsquo;s constant partner throughout the canon",
+             "Discipline",
+             "Teaching"],
+         "correct": 1,
+         "expl": "The mirror of the previous discourse&rsquo;s introduction of Mahāmoggallāna."},
+    ],
+    marginalia=[
+        ("Mirror exchange", [
+            "same visit",
+            "same question",
+            "names exchanged",
+        ]),
+        ("The answer", [
+            "pleasant practice",
+            "with swift insight",
+            "&mdash; graded superior, both counts",
+        ]),
+        ("Same destination", [
+            "<span class=\"pali\">anupādāya vimutta</span>freed, not grasping",
+            "&mdash; identical for both",
+        ]),
+        ("Cross-references", [
+            "AN 4.167 &middot; Moggallāna&rsquo;s answer",
+            "AN 4.166 &middot; the ranking both draw on",
+            "AN 4.169 &middot; the material reused a third time",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.168/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.167.html">AN 4.167 &middot; Moggallāna&rsquo;s Practice</a> &mdash; the '
+        "discourse this one mirrors.",
+        '<a href="an-4.166.html">AN 4.166 &middot; Both</a> &mdash; the ranking both disciples&rsquo; '
+        "reports draw their vocabulary from.",
+        '<a href="an-4.169.html">AN 4.169 &middot; Extra Effort</a> &mdash; next in this series, and '
+        "the chapter&rsquo;s final discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.169 — Sasaṅkhārasutta
+# --------------------------------------------------------------------------- #
+page(
+    169, "Sasaṅkhāra", "Extra Effort",
+    vagga=VAGGA_17,
+    meta_title="AN 4.169 — Extra Effort | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sasaṅkhārasutta — four "
+        "individuals extinguished in this life or at death, with or without extra effort, "
+        "recombining AN 4.163's meditations into a new grid. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_17),
+        ("Speakers", SPEAKER),
+        ("Form", "Four individuals, each defined by reused material from AN 4.163 crossed on new "
+                 "axes"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The terms <em>sasaṅkhāra</em> and <em>asaṅkhāra</em> belong to the "
+                              "standard vocabulary of non-returner classification shared across the "
+                              "early collections; this reading guide does not assert a specific "
+                              "matching sutra number for this discourse"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the chapter&rsquo;s final "
+                       "discourse, and the one that shows most plainly how its building blocks were "
+                       "assembled and reassembled"),
+    ],
+    why=(
+        "The closing discourse of the chapter takes the exact material of AN 4.163 &mdash; the "
+        "five meditations on what is unwanted, the four absorptions, the powers of a trainee, the "
+        "five faculties &mdash; and crosses it on two different axes: extinguished in this very "
+        "life or when the body breaks up, and with extra effort or without. Four individuals, built "
+        "from the same parts as three discourses back, arranged into a new shape."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same meditations and the same faculties that made practice painful or pleasant in "
+            "AN 4.163 now determine whether a person is fully extinguished in this life or at "
+            "death, and whether extra effort was needed."]),
+        ("The new axes", [
+            "<em>Diṭṭheva dhamme</em>, in this very life, against <em>kāyassa bhedā</em>, when the "
+            "body breaks up: whether the final result arrives before or after death.",
+            "<em>Sasaṅkhāra</em>, with extra effort, against <em>asaṅkhāra</em>, without it: "
+            "whether reaching that result required additional exertion beyond the practice itself.",
+            "Crossed, they give four individuals: extinguished in this life with effort, "
+            "extinguished at death with effort, extinguished in this life without effort, "
+            "extinguished at death without effort. This is a different cross from anything else in "
+            "the chapter &mdash; not painful/pleasant and slow/swift, but when and how."]),
+        ("The same parts, differently wired", [
+            "Each of the four is defined using material word for word from AN 4.163. The first and "
+            "second individuals meditate observing the body&rsquo;s ugliness, food&rsquo;s "
+            "repulsiveness, dissatisfaction with the whole world, impermanence, and their own "
+            "death, and rely on the five powers of a trainee &mdash; faith, conscience, prudence, "
+            "energy, and wisdom. The third and fourth practice the four absorptions and rely on the "
+            "same five powers.",
+            "So the painful/pleasant distinction from AN 4.163 has not disappeared; it has simply "
+            "stopped being the variable this discourse reports on. The foulness meditations and the "
+            "absorptions are both present, attached now to whether extra effort was needed rather "
+            "than to how the practice felt.",
+            "What decides the outcome within each pair is, once again, the five faculties: strong, "
+            "and the result comes in this very life; weak, and it comes only when the body breaks "
+            "up. That is the third appearance of exactly this mechanism in this chapter, after AN "
+            "4.162 and AN 4.163 both used faculty strength to decide slow versus swift."]),
+        ("What &lsquo;extra effort&rsquo; adds", [
+            "The genuinely new element is <em>sasaṅkhāra</em> versus <em>asaṅkhāra</em>, and the "
+            "discourse does not define the term beyond using it. What can be observed from the "
+            "pattern is that it correlates with which of the two practices is undertaken: the "
+            "foulness meditations are paired with extra effort in both of their appearances, and "
+            "the absorptions are paired with its absence in both of theirs.",
+            "That correlation is worth stating carefully, because the discourse itself states it "
+            "only by repetition, not by argument. If it holds, it adds something to the reading of "
+            "AN 4.163 that discourse could not supply on its own: the painful path is also the "
+            "effortful one, and the pleasant path is also the one that, once undertaken, proceeds "
+            "without needing to be forced.",
+            "This reading guide offers that as an inference from the pattern rather than as a claim "
+            "the text makes outright, in keeping with how the rest of the chapter has handled the "
+            "relationships between its various four-item sets."]),
+        ("Borrowed vocabulary, a different job", [
+            "<em>Sasaṅkhāraparinibbāyī</em> and <em>asaṅkhāraparinibbāyī</em> are, in their most "
+            "familiar use, two of the five standard kinds of non-returner &mdash; the person who "
+            "does not come back to this world and is extinguished with or without extra effort "
+            "after rebirth in a pure abode. AN 4.131, earlier in the Fours, named two other members "
+            "of that same five-fold set: the one extinguished between one life and the next, and "
+            "the one heading upstream to the highest pure abode.",
+            "AN 4.169 borrows the same two terms but applies them more broadly, to being fully "
+            "extinguished at all &mdash; including in this very life, which is arahantship, not "
+            "non-returnership. The vocabulary of one classification is doing a different job here "
+            "than it does in its more technical home.",
+            "A reader who has come through AN 4.131 already knows both halves of this vocabulary "
+            "separately: the fixed five-part scheme there, and now a four-part recombination here "
+            "that borrows two of its terms for a wider use. Neither discourse comments on the "
+            "other, and neither needs to."]),
+        ("Closing the chapter", [
+            "AN 4.169 is the last discourse of the Paṭipadāvagga, and it closes by doing exactly "
+            "what a reader who has followed the chapter in order should now expect: taking material "
+            "already given a job in an earlier discourse and giving it a second, different job.",
+            "Across ten discourses this chapter has used the same handful of components &mdash; the "
+            "five faculties, the foulness meditations, the four absorptions, the powers of a "
+            "trainee, the painful/pleasant and slow/swift labels &mdash; in at least four distinct "
+            "combinations, plus an entirely separate four-item set about patience sharing only a "
+            "name with the rest.",
+            "That is worth naming as the chapter&rsquo;s real subject, more than any single "
+            "doctrine within it. The Paṭipadāvagga is a demonstration of how a small set of building "
+            "blocks generates a large amount of classification, and AN 4.169 is where the "
+            "demonstration is clearest.",
+            "What follows is the Sappurisavagga in the next chapter of the collection, a fresh set "
+            "of ten discourses on the qualities of a true person."]),
+    ],
+    terms=[
+        ("sasaṅkhāra",
+         "&ldquo;with extra effort&rdquo; &mdash; here paired with the foulness meditations in both "
+         "its appearances, correlating with but not defined as the painful path."),
+        ("asaṅkhāra",
+         "&ldquo;without extra effort&rdquo; &mdash; paired with the four absorptions in both its "
+         "appearances."),
+        ("diṭṭheva dhamme / kāyassa bhedā",
+         "&ldquo;in this very life&rdquo; and &ldquo;when the body breaks up&rdquo; &mdash; the "
+         "axis of when the final result arrives."),
+        ("parinibbāyī",
+         "&ldquo;fully extinguished&rdquo; &mdash; here applied broadly, including to arahantship in "
+         "this life, though the compounds are more familiar as non-returner classifications."),
+        ("sekhabala",
+         "&ldquo;power of a trainee&rdquo; &mdash; the same five named in AN 4.163, reused here "
+         "without change."),
+    ],
+    text_intro=(
+        "The discourse in full: four individuals, each defined by material reused from AN 4.163 "
+        "crossed on a new pair of axes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals"),
+        ("p", "&sect;1", "an4.169:1.1-1.6"),
+        ("h3", "Extinguished in this life, by effort"),
+        ("p", "&sect;2", "an4.169:2.1-2.9"),
+        ("h3", "Extinguished at death, by effort"),
+        ("p", "&sect;3", "an4.169:3.1-3.9"),
+        ("h3", "Extinguished in this life, without effort"),
+        ("p", "&sect;4", "an4.169:4.1-4.8"),
+        ("h3", "Extinguished at death, without effort"),
+        ("p", "&sect;5", "an4.169:5.1-5.8"),
+    ],
+    quiz=[
+        {"q": "What two axes cross to make the four individuals?",
+         "opts": [
+             "Painful/pleasant and slow/swift",
+             "In this life or at death, and with or without extra effort",
+             "Monastic or lay",
+             "Faith and wisdom"],
+         "correct": 1,
+         "expl": "A different cross from anything else in the chapter."},
+        {"q": "What material does this discourse reuse from AN 4.163?",
+         "opts": [
+             "The endurance formula",
+             "The five foulness meditations, the four absorptions, and the powers of a trainee",
+             "The sense-restraint formula",
+             "The ranking of the four ways of practice"],
+         "correct": 1,
+         "expl": "Word for word, attached now to a different pair of axes."},
+        {"q": "What determines whether the result comes in this life or at death?",
+         "opts": [
+             "Which meditation is practiced",
+             "The strength of the five faculties &mdash; the third appearance of this mechanism in the chapter",
+             "Extra effort",
+             "Temperament"],
+         "correct": 1,
+         "expl": "Also used in AN 4.162 and AN 4.163 to decide slow versus swift."},
+        {"q": "What pattern does the guide note about &lsquo;extra effort&rsquo;?",
+         "opts": [
+             "It is unrelated to which meditation is practiced",
+             "It correlates with the meditation chosen &mdash; the foulness meditations paired with effort, the absorptions without it",
+             "It is defined explicitly in the text",
+             "It depends on faculty strength alone"],
+         "correct": 1,
+         "expl": "Offered as an inference from the pattern, not a claim the text makes outright."},
+        {"q": "What does that correlation, if it holds, add to AN 4.163?",
+         "opts": [
+             "Nothing",
+             "That the painful path is also the effortful one, and the pleasant path proceeds without needing to be forced",
+             "That the pleasant path requires more effort",
+             "That effort determines painfulness"],
+         "correct": 1,
+         "expl": "Stated only by repetition in the text, not by argument."},
+        {"q": "Where else in the Fours do <em>sasaṅkhāra</em> and <em>asaṅkhāra</em> appear?",
+         "opts": [
+             "AN 4.161",
+             "As two of the five standard kinds of non-returner, alongside two others named at AN 4.131",
+             "AN 4.166",
+             "They appear only here"],
+         "correct": 1,
+         "expl": "AN 4.131 named the other two: extinguished in between, and heading upstream."},
+        {"q": "How does AN 4.169 use this vocabulary differently from its technical home?",
+         "opts": [
+             "Identically",
+             "It applies the terms more broadly, including to arahantship reached in this very life, not only to non-returner rebirth",
+             "It restricts the terms further",
+             "It abandons the terms"],
+         "correct": 1,
+         "expl": "The same vocabulary doing a different job."},
+        {"q": "How does the guide describe the relationship between AN 4.131 and AN 4.169?",
+         "opts": [
+             "AN 4.169 corrects AN 4.131",
+             "Neither comments on the other &mdash; a reader who knows both sees two separate uses of overlapping vocabulary",
+             "They are the same discourse",
+             "AN 4.131 depends on AN 4.169"],
+         "correct": 1,
+         "expl": "The fixed five-part scheme in one place, a four-part recombination in another."},
+        {"q": "What does the guide identify as the chapter&rsquo;s real subject?",
+         "opts": [
+             "The ranking of the four ways of practice",
+             "How a small set of building blocks &mdash; faculties, meditations, absorptions, trainee powers &mdash; generates a large amount of classification",
+             "The two chief disciples&rsquo; attainments",
+             "The definition of patience"],
+         "correct": 1,
+         "expl": "Used in at least four distinct combinations across ten discourses."},
+        {"q": "What follows the Paṭipadāvagga?",
+         "opts": [
+             "The end of the Fours",
+             "The Sappurisavagga, a fresh chapter on the qualities of a true person",
+             "A return to the Indriyavagga",
+             "AN 4.170 immediately, as part of the same chapter"],
+         "correct": 1,
+         "expl": "A new set of ten discourses on a different subject."},
+    ],
+    marginalia=[
+        ("New axes", [
+            "this life &middot; at death",
+            "with effort &middot; without",
+        ]),
+        ("Reused whole", [
+            "the five foulness meditations",
+            "the four absorptions",
+            "the trainee&rsquo;s five powers",
+        ]),
+        ("A pattern, not a rule", [
+            "foulness &rarr; extra effort",
+            "absorption &rarr; no extra effort",
+            "&mdash; stated by repetition only",
+        ]),
+        ("Cross-references", [
+            "AN 4.163 &middot; the material&rsquo;s first job",
+            "AN 4.131 &middot; the same two terms, technically",
+            "AN 4.161 &middot; where this chapter began",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.169/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.163.html">AN 4.163 &middot; Ugly</a> &mdash; the discourse whose material is '
+        "reused whole in this one.",
+        '<a href="an-4.131.html">AN 4.131 &middot; Fetters</a> &mdash; where the same two terms name '
+        "two of the five kinds of non-returner.",
+        '<a href="an-4.170.html">AN 4.170 &middot; In Conjunction</a> &mdash; the next published '
+        "page in the Fours.",
+    ],
+)
