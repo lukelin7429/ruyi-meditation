@@ -29953,3 +29953,1408 @@ page(
         "quarreling mendicants, the community-scale version of the same fault.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.133–3.145 — Yodhājīvavagga
+# --------------------------------------------------------------------------- #
+VAGGA_14 = "<em>Yodhājīvavagga</em> &mdash; the fourteenth chapter of the Threes"
+
+page(
+    133, "Yodhājīva", "A Warrior",
+    vagga=VAGGA_14,
+    meta_title="AN 3.133 — A Warrior | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Yodhājīvasutta, "
+        "opening the Yodhājīvavagga — a warrior worthy of a king compared to a mendicant "
+        "worthy of offerings: a long-distance shooter, a marksman, and one who shatters large "
+        "objects. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A military simile in three factors, each mapped onto a specific teaching and "
+                 "defined in turn"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The warrior simile for a trained mendicant is preserved in the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a martial image mapped onto "
+                       "dense doctrinal content"),
+    ],
+    why=(
+        "A warrior worth a king&rsquo;s pay can shoot far, hit the mark, and break through anything "
+        "large. The discourse maps the same three skills onto a mendicant worth the world&rsquo;s "
+        "offerings &mdash; and what &ldquo;shooting far&rdquo; turns out to mean is seeing the "
+        "entirety of the five aggregates, past, future, and present, as not-self."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant earns the world&rsquo;s support the way a warrior earns a king&rsquo;s pay: "
+            "by long range, accuracy, and the power to break through what is large."]),
+        ("A military image, not a peaceful one", [
+            "This vagga opens on a warrior, not a monk or a farmer, and the choice is deliberate. "
+            "The formula for a worthy recipient is the standard one &mdash; worthy of offerings "
+            "dedicated to the gods, of hospitality, of a religious donation, the supreme field of "
+            "merit for the world &mdash; but the image supplying its structure is combat "
+            "competence, not gentleness."]),
+        ("Long-distance shooting: the five aggregates, in full", [
+            "The first skill is mapped onto the not-self formula run across all five aggregates "
+            "&mdash; form, feeling, perception, choices, and consciousness &mdash; each qualified "
+            "six ways: past, future, or present; internal or external; solid or subtle; inferior or "
+            "superior; far or near. <em>All</em> of it, in every direction the aggregate could be "
+            "sliced, seen with right understanding as not mine, not I, not my self. The range implied "
+            "by &ldquo;long-distance&rdquo; is not physical distance but the sheer completeness of "
+            "what is being seen through."]),
+        ("Hitting the mark: the four noble truths", [
+            "The second skill is the four truths, understood as they stand: this is suffering, this "
+            "is its origin, this is its cessation, this is the practice leading to its cessation. "
+            "Marksmanship, unlike long-distance shooting, is about precision rather than scope "
+            "&mdash; four specific truths, hit exactly, rather than a field surveyed in its "
+            "entirety."]),
+        ("Shattering what is large: the mass of ignorance", [
+            "The third skill, breaking through something large, is defined as a single act: "
+            "shattering the great mass of ignorance, <em>avijjākkhandha</em>. Where the first two "
+            "skills describe seeing clearly, the third describes an act of force applied to what has "
+            "been resisting that clarity all along."]),
+        ("Why three factors, not one", [
+            "Scope, precision, and force are three distinct capacities, and the discourse&rsquo;s "
+            "structure implies that none substitutes for the others. Seeing every aggregate "
+            "completely without precision on the four truths is not enough; precision without the "
+            "force to break through the mass of ignorance behind it is not enough either. A warrior "
+            "missing any one of the three factors is not reckoned a factor of kingship, and the "
+            "parallel holds for the mendicant as well."]),
+    ],
+    terms=[
+        ("dūre pātī",
+         "&ldquo;a long-distance shooter&rdquo; &mdash; mapped onto seeing all five aggregates, in "
+         "every direction they can be qualified, as not-self."),
+        ("akkhaṇavedhī",
+         "&ldquo;a marksman&rdquo; &mdash; mapped onto precise understanding of the four noble "
+         "truths."),
+        ("mahato kāyassa padāletā",
+         "&ldquo;one who shatters large objects&rdquo; &mdash; mapped onto breaking through the "
+         "great mass of ignorance."),
+        ("avijjākkhandha",
+         "&ldquo;the mass of ignorance&rdquo; &mdash; the large object being shattered, named as a "
+         "single dense obstruction rather than a scattered set of misunderstandings."),
+        ("anuttaraṁ puññakkhettaṁ lokassa",
+         "&ldquo;the supreme field of merit for the world&rdquo; &mdash; the standard closing "
+         "formula for a mendicant worthy of full support."),
+    ],
+    text_intro=(
+        "The discourse in full: the warrior simile, and its application to a mendicant worthy of "
+        "offerings. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A warrior worth a king's pay"),
+        ("p", "&sect;1", "an3.133:1.1-1.7"),
+        ("h3", "A long-distance shooter"),
+        ("p", "&sect;2", "an3.133:2.1-2.7"),
+        ("h3", "A marksman"),
+        ("p", "&sect;3", "an3.133:3.1-3.3"),
+        ("h3", "One who shatters large objects"),
+        ("p", "&sect;4", "an3.133:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What three factors make a warrior worthy of a king's pay?",
+         "opts": [
+             "Loyalty, courage, and discipline",
+             "Long-distance shooting, marksmanship, and shattering large objects",
+             "Strength, speed, and endurance",
+             "Rank, wealth, and lineage"],
+         "correct": 1,
+         "expl": "The three skills the discourse then maps onto a mendicant."},
+        {"q": "What is significant about the image the discourse chooses?",
+         "opts": [
+             "It is a peaceful, agricultural image",
+             "It is deliberately a martial image of combat competence, not gentleness",
+             "It is a courtly image of manners",
+             "It is an image drawn from craft guilds"],
+         "correct": 1,
+         "expl": "The formula for a worthy recipient is standard; the image supplying its structure is unusual."},
+        {"q": "What does \"long-distance shooting\" map onto?",
+         "opts": [
+             "Understanding the four noble truths",
+             "Seeing all five aggregates, in every direction they can be qualified, as not-self",
+             "Breaking through ignorance",
+             "Traveling to distant monasteries"],
+         "correct": 1,
+         "expl": "Range as completeness of vision, not physical distance."},
+        {"q": "How many aggregates and how many qualifying pairs does the not-self formula cover?",
+         "opts": [
+             "Three aggregates, two pairs",
+             "Five aggregates, each qualified six ways: past/future/present, internal/external, solid/subtle, inferior/superior, far/near",
+             "One aggregate, unlimited qualifiers",
+             "Five aggregates with no qualifiers"],
+         "correct": 1,
+         "expl": "All of it, in every direction the aggregate could be sliced."},
+        {"q": "What does \"marksmanship\" map onto?",
+         "opts": [
+             "The five aggregates",
+             "The four noble truths, understood with precision",
+             "The mass of ignorance",
+             "Monastic rules"],
+         "correct": 1,
+         "expl": "Precision on four specific truths, rather than a field surveyed in its entirety."},
+        {"q": "What does \"shattering large objects\" map onto?",
+         "opts": [
+             "Defeating rival teachers in debate",
+             "Shattering the great mass of ignorance, avijjākkhandha",
+             "Overcoming physical illness",
+             "Renouncing family ties"],
+         "correct": 1,
+         "expl": "An act of force applied to what has been resisting clarity all along."},
+        {"q": "How does the guide distinguish the third skill from the first two?",
+         "opts": [
+             "It is easier than the other two",
+             "Where the first two describe seeing clearly, the third describes an act of force breaking through resistance",
+             "It is unrelated to the other two",
+             "It only applies to advanced practitioners"],
+         "correct": 1,
+         "expl": "Scope and precision describe seeing; shattering describes an act."},
+        {"q": "What does the discourse imply about having only some of the three factors?",
+         "opts": [
+             "Any one factor alone is sufficient",
+             "None of the three substitutes for the others; a warrior or mendicant missing any one is not reckoned complete",
+             "The three factors are ranked in importance",
+             "Only the first factor actually matters"],
+         "correct": 1,
+         "expl": "Scope, precision, and force are three distinct, necessary capacities."},
+        {"q": "What formula closes the discourse's description of a worthy mendicant?",
+         "opts": [
+             "\"Worthy of offerings, hospitality, a religious donation, and veneration &mdash; the supreme field of merit for the world\"",
+             "\"Worthy of a king's throne\"",
+             "\"Worthy of monastic robes only\"",
+             "\"Worthy of rebirth as a warrior\""],
+         "correct": 0,
+         "expl": "The standard recollection formula for the Saṅgha as a field of merit."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "The Kusināravagga",
+             "The Yodhājīvavagga, the fourteenth chapter of the Threes",
+             "The Maṅgalavagga",
+             "The Sambodhavagga"],
+         "correct": 1,
+         "expl": "Naming the warrior that gives the chapter its title."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">dūre pātī</span>long-distance shooter",
+            "<span class=\"pali\">akkhaṇavedhī</span>marksman",
+            "&mdash; two kinds of accuracy, one image",
+        ]),
+        ("Three skills", [
+            "range &middot; all five aggregates",
+            "precision &middot; the four truths",
+            "force &middot; the mass of ignorance",
+        ]),
+        ("The formula", [
+            "worthy of offerings",
+            "worthy of hospitality",
+            "the supreme field of merit",
+        ]),
+        ("Cross-references", [
+            "AN 3.140&ndash;142 &middot; another vagga-opening set of martial images",
+            "AN 3.103 &middot; the not-self formula in its shorter form",
+            "AN 3.96&ndash;98 &middot; the thoroughbred simile, three factors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.133/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.96.html">AN 3.96 &middot; The Thoroughbred (1st)</a> &mdash; another animal '
+        "simile in this collection built on three factors, two fixed and one that scales.",
+    ],
+)
+
+
+page(
+    134, "Parisā", "Assemblies",
+    vagga=VAGGA_14,
+    meta_title="AN 3.134 — Assemblies | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Parisāsutta — three "
+        "kinds of assembly, educated in fancy talk, in questioning, or to the fullest extent, "
+        "stated without elaboration. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of three, with no explanation attached"),
+        ("Length", "&#8776;30 seconds to read"),
+        ("Northern parallel", "Threefold classifications of an assembly by its level of training "
+                              "recur in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest kind of entry in "
+                       "this collection, a bare list"),
+    ],
+    why=(
+        "Three kinds of assembly, named and left undefined: one educated in fancy talk, one "
+        "educated in questioning, one educated to the fullest extent. The discourse is a single "
+        "sentence, and its brevity is itself worth noticing &mdash; it assumes the listener already "
+        "knows what distinguishes the three."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Assemblies differ in what kind of education has shaped them: ornamental speech, "
+            "skillful questioning, or complete training."]),
+        ("A list without a lecture", [
+            "Unlike most discourses in this collection, nothing here explains what makes an assembly "
+            "&ldquo;educated in fancy talk&rdquo; as opposed to &ldquo;educated in questioning.&rdquo; "
+            "The text simply names three categories and stops. This is rare enough in the Threes to "
+            "be worth flagging on its own: most short discourses at least gesture toward what each "
+            "term means."]),
+        ("Fancy talk, first and named first", [
+            "<em>Cittakathā</em>, ornamental or fancy talk, leads the list, which is itself "
+            "suggestive. An assembly good at rhetoric is named as a recognizable type before an "
+            "assembly good at inquiry or an assembly fully trained &mdash; placing the least "
+            "substantial of the three first, perhaps precisely so the discourse can move past it "
+            "quickly toward what actually matters."]),
+        ("Educated in questioning, a step up", [
+            "The middle category, an assembly skilled at putting questions, describes something more "
+            "active than appreciating fine speech: an assembly that interrogates a teaching rather "
+            "than merely enjoying how it sounds. It sits between decoration and completeness, "
+            "engaged but not yet finished."]),
+        ("Educated to the fullest extent, and what that leaves open", [
+            "The third category, an assembly trained comprehensively, is the discourse&rsquo;s "
+            "implicit high point, though nothing in the text says so directly &mdash; the ranking has "
+            "to be inferred from the progression itself, ornamental to inquiring to complete, since "
+            "the discourse never states which of the three is best."]),
+        ("Using a bare list", [
+            "A discourse this short works best as a prompt rather than a lecture: which of the three "
+            "describes a given group of listeners right now, and what would move it from one "
+            "category to the next? The text supplies the categories and leaves the diagnosis to the "
+            "reader."]),
+    ],
+    terms=[
+        ("parisā",
+         "&ldquo;assembly&rdquo; &mdash; a gathered audience or community, the discourse&rsquo;s "
+         "subject."),
+        ("cittakathā",
+         "&ldquo;fancy, ornamental talk&rdquo; &mdash; what the first kind of assembly is "
+         "&ldquo;educated&rdquo; or shaped by."),
+        ("paṭipucchā",
+         "&ldquo;questioning&rdquo; &mdash; the skill shaping the second kind of assembly, more "
+         "active than appreciating fine speech."),
+        ("anuvicca",
+         "&ldquo;to the fullest extent, thoroughly&rdquo; &mdash; the completeness attributed to the "
+         "third and final kind of assembly."),
+        ("sikkhita",
+         "&ldquo;educated, trained&rdquo; &mdash; the verb applied to all three, the shared category "
+         "under which they differ."),
+    ],
+    text_intro=(
+        "The discourse in full, a single sentence. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three assemblies"),
+        ("p", "&sect;1", "an3.134:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three kinds of assembly does the discourse name?",
+         "opts": [
+             "Large, medium, and small",
+             "Educated in fancy talk, educated in questioning, and educated to the fullest extent",
+             "Monastic, lay, and mixed",
+             "Northern, southern, and central"],
+         "correct": 1,
+         "expl": "A bare list of three, stated without elaboration."},
+        {"q": "What is unusual about this discourse compared to most in the collection?",
+         "opts": [
+             "It is unusually long",
+             "It offers no explanation of what distinguishes the three categories",
+             "It has no numbered list at all",
+             "It is written entirely in verse"],
+         "correct": 1,
+         "expl": "Most short discourses in the Threes at least gesture toward what each term means; this one does not."},
+        {"q": "Which category is named first, and what does the guide suggest about that placement?",
+         "opts": [
+             "Fully trained; placed first as the ideal",
+             "Fancy talk; possibly placed first, as the least substantial, so the discourse can move past it quickly",
+             "Questioning; placed first as most active",
+             "The order is random and means nothing"],
+         "correct": 1,
+         "expl": "A suggestive but not certain reading, since the text itself does not explain the order."},
+        {"q": "What distinguishes \"educated in questioning\" from \"educated in fancy talk\"?",
+         "opts": [
+             "Nothing; they are identical",
+             "Questioning describes something more active &mdash; an assembly that interrogates a teaching rather than merely enjoying how it sounds",
+             "Questioning assemblies are smaller",
+             "Fancy talk assemblies are more advanced"],
+         "correct": 1,
+         "expl": "It sits between decoration and completeness, engaged but not yet finished."},
+        {"q": "Does the discourse explicitly rank the third category as the best?",
+         "opts": [
+             "Yes, in a closing sentence",
+             "No &mdash; the ranking has to be inferred from the progression itself, since the text never says which is best",
+             "No, the categories are stated as equal",
+             "Yes, in the title"],
+         "correct": 1,
+         "expl": "The implicit high point is inferred, not stated."},
+        {"q": "How does the guide suggest using a discourse this short?",
+         "opts": [
+             "As a formal liturgical chant",
+             "As a prompt: which category describes a given group of listeners now, and what would move it to the next",
+             "As evidence the discourse is incomplete or corrupted",
+             "As a warning against public speaking"],
+         "correct": 1,
+         "expl": "The text supplies categories and leaves the diagnosis to the reader."},
+        {"q": "What does \"cittakathā\" mean?",
+         "opts": [
+             "Silent meditation",
+             "Fancy, ornamental talk",
+             "A formal debate",
+             "A written record"],
+         "correct": 1,
+         "expl": "The quality shaping the first, and least substantial, kind of assembly."},
+        {"q": "What is the discourse's overall length and form?",
+         "opts": [
+             "A long narrative with dialogue",
+             "A single sentence, one of the shortest entries in the collection",
+             "A set of verses",
+             "A dialogue between two disciples"],
+         "correct": 1,
+         "expl": "About thirty seconds to read in full."},
+        {"q": "What shared verb applies to all three kinds of assembly?",
+         "opts": [
+             "Sikkhita, \"educated, trained\"",
+             "Vimutta, \"freed\"",
+             "Pahīna, \"given up\"",
+             "Bhāvita, \"developed\""],
+         "correct": 0,
+         "expl": "The category they share; what differs is the kind of education."},
+        {"q": "What does the guide identify as the point of including such a bare list in the collection?",
+         "opts": [
+             "It is filler with no teaching value",
+             "Its very brevity assumes the listener already knows what distinguishes the three, inviting reflection rather than supplying an answer",
+             "It was meant to be expanded later but never was",
+             "It is a scribal error"],
+         "correct": 1,
+         "expl": "The brevity is itself worth noticing."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">cittakathā</span>fancy talk",
+            "<span class=\"pali\">paṭipucchā</span>questioning",
+            "&mdash; two ways an assembly can be shaped",
+        ]),
+        ("Three assemblies", [
+            "fancy talk",
+            "questioning",
+            "fully trained",
+        ]),
+        ("What's missing", [
+            "no definitions given",
+            "no ranking stated",
+            "&mdash; left for the reader to infer",
+        ]),
+        ("Cross-references", [
+            "AN 3.135 &middot; the discourse just after this one",
+            "AN 3.65 &middot; testing a teaching by questioning it",
+            "AN 3.138&ndash;139 &middot; another pair of bare three-item lists",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.134/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; what a '
+        "questioning assembly might actually be doing, tested against a specific teaching.",
+    ],
+)
+
+
+page(
+    135, "Mitta", "A Friend",
+    vagga=VAGGA_14,
+    meta_title="AN 3.135 — A Friend | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mittasutta — the "
+        "kind of friend worth associating with, defined by three things that are hard: giving "
+        "what is hard to give, doing what is hard to do, and bearing what is hard to bear. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-sentence instruction, naming three qualities of a friend worth keeping"),
+        ("Length", "&#8776;30 seconds to read"),
+        ("Northern parallel", "The definition of a true friend by willingness to do what is "
+                              "difficult recurs across the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; immediately clear and "
+                       "immediately usable"),
+    ],
+    why=(
+        "Three tests for a friend worth keeping, and every one of them is a test of difficulty: what "
+        "is hard to give, what is hard to do, what is hard to bear. A friendship that has never been "
+        "tested by any of the three has not yet shown what it actually is."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Associate with a friend who gives what is hard to give, does what is hard to do, and "
+            "bears what is hard to bear."]),
+        ("A definition built entirely on difficulty", [
+            "All three qualities share the same shape: something <em>dujjaha</em>, hard to give up; "
+            "<em>dukkara</em>, hard to do; <em>dukkhama</em>, hard to bear. A friend who is easy to "
+            "be around when nothing costs anything has not yet met any of the discourse&rsquo;s "
+            "three tests. The definition is deliberately built so that it cannot be satisfied by "
+            "pleasantness alone."]),
+        ("Giving what is hard to give", [
+            "Not ordinary generosity, but the kind of giving that costs the giver something real "
+            "&mdash; time, comfort, standing, or an outcome they wanted for themselves. A friend who "
+            "gives easily, from surplus, has not yet demonstrated this quality; a friend who gives "
+            "from what would otherwise be kept has."]),
+        ("Doing what is hard to do", [
+            "A second, distinct register: not sacrifice but effort, undertaking something "
+            "unpleasant, risky, or simply exhausting on another&rsquo;s behalf, where an easier "
+            "option was available and declined."]),
+        ("Bearing what is hard to bear", [
+            "The third is neither giving nor doing but enduring &mdash; staying present through "
+            "something difficult rather than withdrawing from it. A friend who disappears when a "
+            "situation becomes uncomfortable has failed this test specifically, even if they never "
+            "fail the first two."]),
+        ("Why the discourse tests for difficulty rather than warmth", [
+            "Warmth is cheap to perform and easy to mistake for friendship. Difficulty is not; a "
+            "person will only give what is hard to give, do what is hard to do, and bear what is "
+            "hard to bear for someone they actually value, which is precisely why the discourse uses "
+            "difficulty rather than affection as its measure. It is a test that cannot be faked by "
+            "someone who is merely pleasant to have around."]),
+    ],
+    terms=[
+        ("dujjaha",
+         "&ldquo;hard to give up&rdquo; &mdash; what the first quality of a worthwhile friend gives "
+         "anyway."),
+        ("dukkara",
+         "&ldquo;hard to do&rdquo; &mdash; what the second quality undertakes anyway."),
+        ("dukkhama",
+         "&ldquo;hard to bear&rdquo; &mdash; what the third quality endures anyway."),
+        ("mitta",
+         "&ldquo;friend&rdquo; &mdash; the discourse&rsquo;s subject, defined entirely by what "
+         "difficulty a friend is willing to meet."),
+        ("bhajitabba",
+         "&ldquo;should be associated with&rdquo; &mdash; the discourse&rsquo;s one instruction, "
+         "aimed at the listener&rsquo;s own choice of company."),
+    ],
+    text_intro=(
+        "The discourse in full, a single instruction. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A friend worth keeping"),
+        ("p", "&sect;1", "an3.135:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three qualities define a friend worth associating with?",
+         "opts": [
+             "Wealth, status, and connections",
+             "Giving what is hard to give, doing what is hard to do, and bearing what is hard to bear",
+             "Kindness, humor, and patience",
+             "Loyalty, honesty, and courage"],
+         "correct": 1,
+         "expl": "All three built on the same criterion: difficulty."},
+        {"q": "What shape do all three qualities share, according to the guide?",
+         "opts": [
+             "They are all about physical strength",
+             "Each names something difficult &mdash; hard to give up, hard to do, hard to bear &mdash; met anyway",
+             "They all involve financial generosity specifically",
+             "They are unrelated to each other"],
+         "correct": 1,
+         "expl": "The definition is built so pleasantness alone cannot satisfy it."},
+        {"q": "How does the guide distinguish \"giving what is hard to give\" from ordinary generosity?",
+         "opts": [
+             "There is no distinction",
+             "It costs the giver something real &mdash; time, comfort, standing &mdash; rather than being given from surplus",
+             "It only applies to monastics",
+             "It must always involve money"],
+         "correct": 1,
+         "expl": "Giving from what would otherwise be kept, not giving from what's left over."},
+        {"q": "What distinguishes \"doing what is hard to do\" from the first quality?",
+         "opts": [
+             "Nothing; they are the same",
+             "A different register: effort and undertaking something unpleasant or risky, rather than sacrifice of possession",
+             "It applies only to physical labor",
+             "It requires no cost at all"],
+         "correct": 1,
+         "expl": "Not sacrifice but effort on another's behalf, where an easier option was declined."},
+        {"q": "What does \"bearing what is hard to bear\" specifically test?",
+         "opts": [
+             "Financial capacity",
+             "Staying present through something difficult rather than withdrawing from it",
+             "Physical endurance in sport",
+             "Memory and learning"],
+         "correct": 1,
+         "expl": "A friend who disappears when things get uncomfortable fails this test specifically."},
+        {"q": "Why does the guide say the discourse tests for difficulty rather than warmth?",
+         "opts": [
+             "Warmth is more important but harder to describe",
+             "Warmth is cheap to perform and easy to mistake for friendship, while difficulty cannot be faked by someone merely pleasant to have around",
+             "Difficulty is easier to measure objectively",
+             "The discourse considers warmth irrelevant to friendship entirely"],
+         "correct": 1,
+         "expl": "A person only meets difficulty for someone they actually value."},
+        {"q": "What is the discourse's grammatical form?",
+         "opts": [
+             "A narrative with named characters",
+             "A single instruction: you should associate with a friend who has these three factors",
+             "A question-and-answer dialogue",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Bhajitabba &mdash; \"should be associated with,\" aimed at the listener's own choices."},
+        {"q": "Can a friend who has never faced any of the three tests be known to have this quality?",
+         "opts": [
+             "Yes, by their general reputation",
+             "Not according to the guide &mdash; a friendship untested by difficulty has not yet shown what it actually is",
+             "Yes, if they say so themselves",
+             "The discourse does not address this"],
+         "correct": 1,
+         "expl": "The definition requires an actual instance of difficulty met, not a disposition merely claimed."},
+        {"q": "What is the discourse's length and structure?",
+         "opts": [
+             "A long dialogue",
+             "A single short sentence naming three qualities",
+             "A set of similes",
+             "A debate with a questioner"],
+         "correct": 1,
+         "expl": "About thirty seconds to read, with no elaboration attached."},
+        {"q": "What kind of friend does this discourse NOT describe?",
+         "opts": [
+             "One who has been tested by real difficulty",
+             "One who is merely pleasant and has never been asked to give, do, or bear anything hard",
+             "One who is honest",
+             "One who is a fellow mendicant"],
+         "correct": 1,
+         "expl": "Pleasantness alone does not satisfy any of the three tests."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">dujjaha</span>hard to give up",
+            "<span class=\"pali\">dukkara</span>hard to do",
+            "<span class=\"pali\">dukkhama</span>hard to bear",
+        ]),
+        ("Three tests", [
+            "giving &middot; what costs something",
+            "doing &middot; what takes effort",
+            "bearing &middot; what takes endurance",
+        ]),
+        ("What it isn't", [
+            "not warmth alone",
+            "not pleasantness",
+            "&mdash; difficulty cannot be faked",
+        ]),
+        ("Cross-references", [
+            "AN 3.134 &middot; the discourse just before this one",
+            "AN 3.130 &middot; Sāriputta's correction of Anuruddha, a friendship tested by candor",
+            "MN 31 &middot; Anuruddha's own community, tested by daily cooperation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.135/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.130.html">AN 3.130 &middot; With Anuruddha (2nd)</a> &mdash; a friendship '
+        "tested by exactly this kind of difficulty: Sāriputta saying something hard to say.",
+        '<a href="../majjhima-nikaya/mn-031.html">MN 31 &middot; The Shorter Discourse at '
+        "Gosiṅga</a> &mdash; a friendship tested daily by shared, unglamorous cooperation.",
+    ],
+)
+
+
+page(
+    136, "Uppāda", "Arising",
+    vagga=VAGGA_14,
+    meta_title="AN 3.136 — Arising | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Uppādasutta — the "
+        "three characteristics standing whether or not a Realized One arises to reveal them: "
+        "all conditions impermanent, all conditions suffering, all things not-self. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A single formula, stated three times with one term changed each time"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The claim that these truths hold independently of a Buddha's "
+                              "teaching is a recurring theme across the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; plainly stated, and among the "
+                       "most consequential claims in the entire canon"),
+    ],
+    why=(
+        "Whether or not a Buddha ever arises, the discourse says, three things remain true: all "
+        "conditions are impermanent, all conditions are suffering, all things are not-self. A Buddha "
+        "does not invent these facts. A Buddha discovers them, and then explains, teaches, "
+        "establishes, and reveals what was already the case."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Impermanence, suffering, and not-self are standing features of reality, not doctrines a "
+            "Buddha creates, and a Buddha&rsquo;s role is to discover and announce them, not to "
+            "legislate them into being."]),
+        ("A claim about discovery, not invention", [
+            "The phrase repeated three times &mdash; <em>whether Realized Ones arise or not, this "
+            "law of nature persists</em> &mdash; is doing careful philosophical work. It draws a "
+            "line between what the Buddha teaches and what the Buddha makes true, and puts "
+            "impermanence, suffering, and not-self entirely on the discovered side of that line. This "
+            "is one of the strongest realist claims in the canon: these are facts about how things "
+            "are, independent of anyone ever noticing them."]),
+        ("Three verbs of transmission, stacked", [
+            "Once a Realized One has awakened to this law and comprehended it, the discourse lists "
+            "seven things done with it in sequence: explains, teaches, asserts, establishes, "
+            "clarifies, analyzes, and reveals. The pile-up of near-synonyms is a common device in "
+            "this collection, and here it emphasizes that transmission is not a single act but a "
+            "sustained one &mdash; the same fact approached from seven angles so that a listener has "
+            "several chances to actually take hold of it."]),
+        ("Conditions and things: a small but real distinction", [
+            "The first two statements are about <em>saṅkhārā</em>, conditions or fabrications "
+            "&mdash; anything put together by causes. The third widens to <em>dhammā</em>, all "
+            "things, a broader category that includes the unconditioned as well. Not-self is "
+            "asserted of everything without remainder; impermanence and suffering are asserted "
+            "specifically of what is conditioned. The distinction is easy to miss on a fast read and "
+            "worth pointing out explicitly, since it is the one place nibbāna is implicitly left "
+            "outside the first two claims while still falling under the third."]),
+        ("The formula elsewhere in the canon", [
+            "Dhammapada 20, the chapter on the path, states this identical triad as three of its most "
+            "quoted verses &mdash; <em>sabbe saṅkhārā aniccā, sabbe saṅkhārā dukkhā, sabbe dhammā "
+            "anattā</em> &mdash; each followed by the same refrain: seeing this, one grows "
+            "disillusioned with suffering, and that is the path to purification. AN 3.136 gives the "
+            "doctrinal grounding; the Dhammapada verses give the same content its most memorized "
+            "poetic form."]),
+        ("Why this matters for how the whole canon is read", [
+            "If these three are laws of nature rather than teachings a Buddha authored, then the "
+            "entire canon is better read as a Buddha&rsquo;s report on how things independently are "
+            "than as a body of rules he is imposing. That reframing matters for almost every other "
+            "discourse in this collection: precepts, trainings, and instructions are downstream "
+            "consequences of these three facts, not free-standing commands."]),
+    ],
+    terms=[
+        ("dhammaṭṭhitatā, dhammaniyāmatā",
+         "&ldquo;the stability of natural principles, the surety of natural principles&rdquo; "
+         "&mdash; the discourse&rsquo;s own description of what kind of fact these three are."),
+        ("saṅkhārā",
+         "&ldquo;conditions, fabrications&rdquo; &mdash; anything put together by causes; the "
+         "subject of the first two claims, impermanence and suffering."),
+        ("dhammā",
+         "&ldquo;things&rdquo; &mdash; the broader category, including the unconditioned, that the "
+         "third claim, not-self, is asserted of."),
+        ("abhisambujjhati",
+         "&ldquo;awakens to&rdquo; &mdash; the verb for what a Realized One does with this law "
+         "before ever teaching it to anyone."),
+        ("aniccā, dukkhā, anattā",
+         "&ldquo;impermanent, suffering, not-self&rdquo; &mdash; the three characteristics "
+         "themselves, restated in the same order in Dhammapada 20."),
+    ],
+    text_intro=(
+        "The discourse in full: the three characteristics, each stated as standing whether or not a "
+        "Realized One arises. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "All conditions are impermanent"),
+        ("p", "&sect;1", "an3.136:1.1-1.5"),
+        ("h3", "All conditions are suffering"),
+        ("p", "&sect;2", "an3.136:1.6-1.10"),
+        ("h3", "All things are not-self"),
+        ("p", "&sect;3", "an3.136:1.11-1.15"),
+    ],
+    quiz=[
+        {"q": "What does the discourse say about impermanence, suffering, and not-self?",
+         "opts": [
+             "That a Buddha invents them as teachings",
+             "That they are standing laws of nature, true whether or not a Realized One ever arises",
+             "That they only apply to monastics",
+             "That they were first stated by Koṇḍañña"],
+         "correct": 1,
+         "expl": "A Buddha discovers and announces them; a Buddha does not make them true."},
+        {"q": "What is significant about the repeated phrase \"whether Realized Ones arise or not\"?",
+         "opts": [
+             "It is simply decorative repetition",
+             "It draws a line between what a Buddha teaches and what a Buddha makes true, placing these three entirely on the discovered side",
+             "It refers to multiple Buddhas teaching simultaneously",
+             "It means the teaching is optional"],
+         "correct": 1,
+         "expl": "One of the strongest realist claims in the canon."},
+        {"q": "How many verbs does the discourse use for what a Realized One does with this law once awakened to it?",
+         "opts": [
+             "One",
+             "Seven &mdash; explains, teaches, asserts, establishes, clarifies, analyzes, reveals",
+             "Three",
+             "Twelve"],
+         "correct": 1,
+         "expl": "A pile-up of near-synonyms giving a listener several angles on the same fact."},
+        {"q": "What distinction does the guide draw between \"saṅkhārā\" and \"dhammā\" in this discourse?",
+         "opts": [
+             "They are simply synonyms",
+             "Saṅkhārā (conditions) is the narrower subject of the first two claims; dhammā (all things, including the unconditioned) is the broader subject of the third",
+             "Dhammā refers only to monastic rules",
+             "Saṅkhārā refers only to physical objects"],
+         "correct": 1,
+         "expl": "Impermanence and suffering apply to what is conditioned; not-self is asserted without remainder."},
+        {"q": "What is implicitly left outside the first two claims but included in the third?",
+         "opts": [
+             "The five aggregates",
+             "Nibbāna, the unconditioned",
+             "The four noble truths",
+             "The mendicant Saṅgha"],
+         "correct": 1,
+         "expl": "A distinction easy to miss on a fast read, and worth pointing out explicitly."},
+        {"q": "Where else does this exact triad appear, in a form already on this site?",
+         "opts": [
+             "Nowhere else",
+             "Dhammapada 20, the chapter on the path, in some of its most quoted verses",
+             "DN 16 only",
+             "AN 3.65"],
+         "correct": 1,
+         "expl": "AN 3.136 gives the doctrinal grounding; Dhammapada 20 gives the same content its most memorized poetic form."},
+        {"q": "What does the guide say this discourse implies about how to read the rest of the canon?",
+         "opts": [
+             "That precepts and trainings are free-standing commands unrelated to these three facts",
+             "That the canon is better read as a report on how things independently are, with precepts and trainings as downstream consequences of these three facts",
+             "That the canon should not be taken literally",
+             "That only this discourse matters"],
+         "correct": 1,
+         "expl": "A reframing with consequences for almost every other discourse in the collection."},
+        {"q": "What is the discourse's structure?",
+         "opts": [
+             "A narrative with a named audience",
+             "A single formula stated three times, with the characteristic changed each time",
+             "A dialogue with questions and answers",
+             "A set of unrelated similes"],
+         "correct": 1,
+         "expl": "Impermanent, suffering, not-self, each introduced by the identical framing sentence."},
+        {"q": "What Pali term describes the kind of fact these three characteristics are, according to the discourse itself?",
+         "opts": [
+             "Dhammaṭṭhitatā and dhammaniyāmatā, the stability and surety of natural principles",
+             "Vinaya, monastic law",
+             "Sutta, a discourse",
+             "Abhidhamma, systematic philosophy"],
+         "correct": 0,
+         "expl": "The discourse's own vocabulary for describing what kind of claim it is making."},
+        {"q": "What does \"abhisambujjhati\" describe?",
+         "opts": [
+             "What a listener does after hearing the teaching",
+             "What a Realized One does with this law before ever teaching it to anyone: awakening to it",
+             "A ritual performed at ordination",
+             "A type of monastic robe"],
+         "correct": 1,
+         "expl": "Discovery comes before transmission."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">saṅkhārā</span>conditions",
+            "<span class=\"pali\">dhammā</span>all things",
+            "&mdash; a narrower and a wider subject",
+        ]),
+        ("Three characteristics", [
+            "aniccā &middot; impermanent",
+            "dukkhā &middot; suffering",
+            "anattā &middot; not-self",
+        ]),
+        ("Discovered, not invented", [
+            "whether Buddhas arise",
+            "or do not arise",
+            "&mdash; the law persists either way",
+        ]),
+        ("Cross-references", [
+            "Dhammapada 20 &middot; the same triad in verse",
+            "AN 3.103 &middot; the not-self formula applied to the world",
+            "AN 3.133 &middot; the not-self formula run across all five aggregates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.136/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../dhammapada/dhp-20.html">Dhammapada Chapter 20 &middot; The Path</a> &mdash; '
+        "the same triad in its most quoted verse form.",
+        '<a href="an-3.133.html">AN 3.133 &middot; A Warrior</a> &mdash; the not-self half of this '
+        "formula run in full across all five aggregates.",
+    ],
+)
+
+
+page(
+    137, "Kesakambala", "A Hair Blanket",
+    vagga=VAGGA_14,
+    meta_title="AN 3.137 — A Hair Blanket | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kesakambalasutta — "
+        "the worst woven cloth compared to the worst doctrine, Makkhali Gosāla's denial that "
+        "action has any power at all, and a fish trap set at a river's mouth. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A simile stating a worst case, an identification of the target by name, and a "
+                 "second simile of harm"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Refutations of fatalist and non-action doctrines are preserved in "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; unusually harsh language, aimed "
+                       "at a specific named rival"),
+    ],
+    why=(
+        "A hair blanket is the worst kind of cloth: cold in the cold, hot in the heat, ugly, "
+        "smelly, unpleasant to touch. The worst of all doctrines, the discourse says, belongs to "
+        "Makkhali, who taught that there is no power in deeds, action, or energy at all &mdash; and "
+        "the Buddha names him directly, calls him a futile man, and compares him to a trap set to "
+        "catch every fish that swims past."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A doctrine that denies any power to deeds, action, and energy is named the worst of all "
+            "rival teachings, and the discourse does not soften its language in saying so."]),
+        ("Not Kesakambalī, but a different \"hair blanket\"", [
+            "The discourse&rsquo;s title comes from its opening simile, a literal hair blanket "
+            "&mdash; the coarsest, least comfortable cloth available. It is worth being precise about "
+            "this: the target is not Ajita Kesakambalī, the materialist teacher of that name known "
+            "from DN 2&rsquo;s list of six rivals. The person actually named here is Makkhali, called "
+            "&ldquo;the bamboo-staffed ascetic&rdquo; in Sujato&rsquo;s translation, and the "
+            "hair-blanket connection is a shared word for coarse cloth, not a shared identity."]),
+        ("Who Makkhali was", [
+            "Makkhali Gosāla, founder of the Ājīvika movement, is one of the six teachers DN 2 has "
+            "King Ajātasattu describe in detail: a strict determinist who taught that purification "
+            "and corruption alike happen without cause, on a timetable no effort can change. AN "
+            "3.137&rsquo;s complaint targets exactly this: if nothing anyone does has any power, "
+            "then striving itself is pointless, and the entire Buddhist path &mdash; built on "
+            "exactly the opposite premise &mdash; collapses if he is right."]),
+        ("A doctrine argued against by continuity, not just logic", [
+            "The Buddha&rsquo;s refutation is unusual in its shape: past Buddhas taught the efficacy "
+            "of deeds, future Buddhas will teach it, and the present Buddha teaches it now. Makkhali "
+            "is set not merely against one teacher&rsquo;s opinion but against every awakened "
+            "teacher there has ever been or will be &mdash; an argument from unanimity across time "
+            "rather than an argument from first principles."]),
+        ("A trap at the river's mouth", [
+            "The closing image is harsher than the hair blanket that opened the discourse. A trap set "
+            "at a river&rsquo;s mouth catches every fish that passes, indiscriminately, causing "
+            "&ldquo;harm, suffering, calamity, and disaster for many.&rdquo; Applied to Makkhali, the "
+            "image says his teaching does not merely fail to help; it actively catches whoever "
+            "encounters it, regardless of that person&rsquo;s own merit or intention."]),
+        ("Reading the harshness honestly", [
+            "This is some of the most severe language the Buddha uses about a named rival anywhere in "
+            "this collection, and it should not be softened for a modern audience uncomfortable with "
+            "religious polemic. The stakes explain the tone: a doctrine that denies any power to "
+            "effort is not a minor disagreement about method but a direct denial of the premise every "
+            "other discourse in this collection depends on. Ancient religious debate in this milieu "
+            "was not gentle, and this discourse is a clear example of that fact rather than an "
+            "exception to it."]),
+    ],
+    terms=[
+        ("kesakambala",
+         "&ldquo;hair blanket&rdquo; &mdash; the coarsest cloth available, opening the "
+         "discourse&rsquo;s simile; not to be confused with Ajita Kesakambalī, a different rival "
+         "teacher named for the same textile."),
+        ("Makkhali",
+         "the founder of the Ājīvika movement, called &ldquo;the bamboo-staffed ascetic&rdquo; here "
+         "and in DN 2, teacher of a strict determinism that denies any power to action."),
+        ("natthi kammaṁ, natthi kiriyaṁ, natthi vīriyaṁ",
+         "&ldquo;there is no power in deeds, action, or energy&rdquo; &mdash; Makkhali&rsquo;s "
+         "doctrine, quoted directly and rejected."),
+        ("moghapurisa",
+         "&ldquo;a futile man&rdquo; &mdash; the Buddha&rsquo;s epithet for Makkhali, one of the "
+         "harsher personal terms used anywhere in this collection."),
+        ("kummī nadīmukhe",
+         "&ldquo;a trap at a river&rsquo;s mouth&rdquo; &mdash; the closing image, an "
+         "indiscriminate harm catching whoever passes."),
+    ],
+    text_intro=(
+        "The discourse in full: the hair-blanket simile, the identification and refutation of "
+        "Makkhali&rsquo;s doctrine, and the closing image of a trap at a river&rsquo;s mouth. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The worst kind of cloth, the worst kind of doctrine"),
+        ("p", "&sect;1", "an3.137:1.1-1.3"),
+        ("h3", "Makkhali named and refuted"),
+        ("p", "&sect;2", "an3.137:2.1-2.11"),
+        ("h3", "A trap at the river's mouth"),
+        ("p", "&sect;3", "an3.137:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "What does the discourse say about a hair blanket?",
+         "opts": [
+             "That it is a mark of ascetic virtue",
+             "That it is the worst kind of woven cloth: cold in the cold, hot in the heat, ugly, smelly, and unpleasant to touch",
+             "That it is a monastic uniform requirement",
+             "That it is a gift given only to the Buddha"],
+         "correct": 1,
+         "expl": "The opening simile, setting up the comparison to the worst of all doctrines."},
+        {"q": "Who is the actual target of this discourse's criticism?",
+         "opts": [
+             "Ajita Kesakambalī, the materialist teacher",
+             "Makkhali, founder of the Ājīvika movement, called \"the bamboo-staffed ascetic\"",
+             "The Jain leader mentioned in DN 2",
+             "Sañjaya Belaṭṭhiputta"],
+         "correct": 1,
+         "expl": "The guide is careful to distinguish him from Ajita Kesakambalī, a different rival who shares only the hair-blanket word."},
+        {"q": "What doctrine does Makkhali teach, according to this discourse?",
+         "opts": [
+             "That the self is eternal",
+             "That there is no power in deeds, action, or energy at all",
+             "That death ends everything",
+             "That seven substances compose reality"],
+         "correct": 1,
+         "expl": "A strict determinism denying that effort or action has any efficacy."},
+        {"q": "What form does the Buddha's refutation take?",
+         "opts": [
+             "A logical proof from first principles",
+             "An argument from unanimity: past, future, and present Buddhas all teach the efficacy of deeds, and Makkhali opposes every one of them",
+             "A challenge to a public debate",
+             "Silence"],
+         "correct": 1,
+         "expl": "Makkhali is set against every awakened teacher there has ever been or will be."},
+        {"q": "What does the closing river-trap image say about Makkhali's teaching?",
+         "opts": [
+             "That it only harms those who deserve it",
+             "That it catches indiscriminately, causing harm, suffering, calamity, and disaster for many, regardless of a person's own merit",
+             "That it is harmless to most people",
+             "That it protects fish from harm"],
+         "correct": 1,
+         "expl": "An indiscriminate harm, not a targeted or deserved one."},
+        {"q": "How does the guide characterize the tone of this discourse?",
+         "opts": [
+             "Mild and diplomatic",
+             "Some of the most severe language the Buddha uses about a named rival anywhere in this collection",
+             "Purely academic and detached",
+             "Apologetic"],
+         "correct": 1,
+         "expl": "The guide says this should not be softened for a modern audience."},
+        {"q": "Why does the guide say the stakes explain the harsh tone?",
+         "opts": [
+             "Because Makkhali was personally hostile to the Buddha",
+             "Because a doctrine denying any power to effort directly denies the premise every other discourse in this collection depends on",
+             "Because Makkhali had more followers than the Buddha",
+             "Because the discourse is set during a war"],
+         "correct": 1,
+         "expl": "Not a minor methodological disagreement, but a challenge to the path's basic premise."},
+        {"q": "Where else on this site is Makkhali discussed in more detail?",
+         "opts": [
+             "Nowhere else",
+             "DN 2, where King Ajātasattu describes him as one of six rival teachers he consulted before turning to the Buddha",
+             "AN 3.65",
+             "MN 26"],
+         "correct": 1,
+         "expl": "DN 2 gives the fuller account of Makkhali's determinism among the six teachers."},
+        {"q": "What epithet does the Buddha apply to Makkhali?",
+         "opts": [
+             "\"Wise elder\"",
+             "\"Moghapurisa,\" a futile man",
+             "\"Ājīvika teacher\"",
+             "\"Former companion\""],
+         "correct": 1,
+         "expl": "One of the harsher personal terms used anywhere in this collection."},
+        {"q": "What movement did Makkhali found?",
+         "opts": [
+             "The Jain tradition",
+             "The Ājīvika movement",
+             "The materialist school",
+             "The Kālāma clan"],
+         "correct": 1,
+         "expl": "Named directly in the guide and confirmed by DN 2's fuller account."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">kesakambala</span>hair blanket",
+            "<span class=\"pali\">moghapurisa</span>futile man",
+            "&mdash; two images, both unusually harsh",
+        ]),
+        ("Not to confuse", [
+            "Makkhali Gosāla &middot; determinist",
+            "Ajita Kesakambalī &middot; materialist",
+            "&mdash; different teachers, one shared word",
+        ]),
+        ("The refutation", [
+            "past Buddhas taught action matters",
+            "future Buddhas will too",
+            "&mdash; unanimity across time",
+        ]),
+        ("Cross-references", [
+            "DN 2 &middot; Makkhali among the six rival teachers",
+            "AN 3.136 &middot; the law of nature standing apart from any teacher",
+            "AN 3.126 &middot; another named encounter with a rival figure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.137/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-02.html">DN 2 &middot; The Fruits of the Ascetic Life</a> '
+        "&mdash; King Ajātasattu&rsquo;s own account of consulting Makkhali and five other "
+        "teachers, all found wanting.",
+        '<a href="an-3.126.html">AN 3.126 &middot; Bharaṇḍu Kālāma</a> &mdash; a gentler encounter '
+        "with a different rival figure, corrected rather than condemned.",
+    ],
+)
+
+
+page(
+    138, "Sampadā", "Accomplishment",
+    vagga=VAGGA_14,
+    meta_title="AN 3.138 — Accomplishment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sampadāsutta — the "
+        "three accomplishments, faith, ethics, and wisdom, stated as a bare list. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of three, the shortest possible form this collection uses"),
+        ("Length", "&#8776;15 seconds to read"),
+        ("Northern parallel", "Faith, ethics, and wisdom as a summary triad recur throughout the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the single shortest discourse in "
+                       "the Threes so far"),
+    ],
+    why=(
+        "Three accomplishments, named and nothing more: faith, ethics, and wisdom. At eighteen "
+        "words in Sujato&rsquo;s translation, this is among the shortest discourses anywhere in the "
+        "Nikāyas, and its very brevity places it in dialogue with much longer treatments of the "
+        "identical triad elsewhere in this collection."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Faith, ethics, and wisdom, named as the three accomplishments, with no further "
+            "explanation attached."]),
+        ("The shortest form this collection uses", [
+            "Even by the standards of the Threes, which already contains many single-sentence "
+            "discourses, this one is stripped to the bone: a title term, <em>sampadā</em>, "
+            "accomplishment, and the three items that fill it. There is no simile, no narrative "
+            "frame, and no explanation of what &ldquo;accomplishment&rdquo; in faith or ethics or "
+            "wisdom actually consists of."]),
+        ("A familiar triad, given no elaboration here", [
+            "Faith, ethics, and wisdom, <em>saddhā, sīla, paññā</em>, are not obscure or invented "
+            "terms &mdash; they recur constantly across the canon, usually alongside the two the "
+            "next discourse adds. The near-total absence of elaboration here is itself informative: "
+            "the discourse assumes an audience that already knows these three well enough not to "
+            "need them defined."]),
+        ("Why keep such a short discourse at all", [
+            "A collector assembling this nipāta could have folded this triad into a longer discourse "
+            "elsewhere rather than preserving it as its own numbered item. That it survives on its "
+            "own is a small piece of evidence about how this material was actually used: as "
+            "recitable units, short enough to remember exactly, that a teacher could invoke by name "
+            "without having to reconstruct the full content each time."]),
+        ("Reading it as a checklist", [
+            "Used practically, the discourse works less as a teaching to unpack and more as three "
+            "headings to check against: is there faith, is there ethical conduct, is there wisdom, "
+            "in that order. The order itself is worth noting &mdash; faith first, as the entry "
+            "point, wisdom last, as what the other two are ultimately in service of."]),
+        ("Paired with the next discourse", [
+            "AN 3.139, immediately following, states the identical triad under a different heading, "
+            "growth rather than accomplishment. Read together, the two ask a single question from "
+            "two angles: what has been reached, and what is still increasing. The same three items "
+            "answer both."]),
+    ],
+    terms=[
+        ("sampadā",
+         "&ldquo;accomplishment&rdquo; &mdash; the discourse&rsquo;s title term, describing faith, "
+         "ethics, and wisdom as things already achieved."),
+        ("saddhā",
+         "&ldquo;faith&rdquo; &mdash; the first of the three, named as an entry point rather than a "
+         "final state."),
+        ("sīla",
+         "&ldquo;ethics&rdquo; &mdash; the second, the same term used throughout this collection for "
+         "restrained, well-considered conduct."),
+        ("paññā",
+         "&ldquo;wisdom&rdquo; &mdash; the third and final, what the other two are ultimately in "
+         "service of."),
+        ("uddesa",
+         "&ldquo;a recitable heading&rdquo; &mdash; not a term used in the discourse itself, but the "
+         "kind of unit a discourse this short and this bare most resembles."),
+    ],
+    text_intro=(
+        "The discourse in full, a single sentence. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Three accomplishments"),
+        ("p", "&sect;1", "an3.138:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three accomplishments does the discourse name?",
+         "opts": [
+             "Generosity, patience, and courage",
+             "Faith, ethics, and wisdom",
+             "Learning, memory, and speech",
+             "Strength, speed, and endurance"],
+         "correct": 1,
+         "expl": "Saddhā, sīla, paññā &mdash; stated with no further elaboration."},
+        {"q": "How does the guide describe this discourse's length compared to the rest of the collection?",
+         "opts": [
+             "Average length for the Threes",
+             "The shortest form this collection uses, even shorter than other single-sentence discourses",
+             "Unusually long",
+             "The longest discourse in the vagga"],
+         "correct": 1,
+         "expl": "A title term and three items, with no simile or narrative frame at all."},
+        {"q": "What does the guide say the near-total absence of elaboration indicates?",
+         "opts": [
+             "That the text is corrupted or incomplete",
+             "That the discourse assumes an audience already familiar enough with the triad not to need it defined",
+             "That the triad was considered unimportant",
+             "That it was meant to be expanded by a later editor"],
+         "correct": 1,
+         "expl": "Faith, ethics, and wisdom recur constantly across the canon and would already be familiar."},
+        {"q": "What does the guide suggest this brevity indicates about how such material was used?",
+         "opts": [
+             "It suggests these discourses were rarely taught",
+             "As recitable units, short enough to remember exactly, invoked by name without reconstructing the full content each time",
+             "It suggests scribal error",
+             "It suggests the discourse is a later addition"],
+         "correct": 1,
+         "expl": "A small piece of evidence about the practical function of very short discourses."},
+        {"q": "How does the guide suggest reading this discourse practically?",
+         "opts": [
+             "As a formal liturgy requiring memorization only",
+             "As three headings to check against: is there faith, ethical conduct, and wisdom, in that order",
+             "As a warning against faith",
+             "As evidence against the value of wisdom"],
+         "correct": 1,
+         "expl": "A checklist rather than a teaching requiring extensive unpacking."},
+        {"q": "What does the guide say is significant about the order faith, ethics, wisdom?",
+         "opts": [
+             "The order is random",
+             "Faith comes first as the entry point, wisdom last as what the other two ultimately serve",
+             "Ethics is the most important and should come first",
+             "The order reverses in other discourses"],
+         "correct": 1,
+         "expl": "A progression from entry point to culmination."},
+        {"q": "How does this discourse relate to AN 3.139?",
+         "opts": [
+             "They contradict each other",
+             "AN 3.139 states the identical triad under a different heading, \"growth\" rather than \"accomplishment\"",
+             "AN 3.139 corrects an error in this discourse",
+             "There is no relationship"],
+         "correct": 1,
+         "expl": "Two angles on the same question: what has been reached, and what is still increasing."},
+        {"q": "What are the two angles the paired discourses (3.138 and 3.139) offer on the same triad?",
+         "opts": [
+             "Monastic versus lay practice",
+             "What has been reached (accomplishment) and what is still increasing (growth)",
+             "Past versus future",
+             "Individual versus communal practice"],
+         "correct": 1,
+         "expl": "The same three items answer both questions."},
+        {"q": "What is \"sīla\" in this context?",
+         "opts": [
+             "Wisdom",
+             "Ethics, the same term used throughout the collection for restrained, well-considered conduct",
+             "Faith",
+             "Meditation"],
+         "correct": 1,
+         "expl": "The second of the three accomplishments."},
+        {"q": "Approximately how long does this discourse take to read?",
+         "opts": [
+             "Ten minutes",
+             "About fifteen seconds",
+             "Two minutes",
+             "Five minutes"],
+         "correct": 1,
+         "expl": "Among the shortest discourses anywhere in the Nikāyas."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">saddhā</span>faith",
+            "<span class=\"pali\">sīla</span>ethics",
+            "<span class=\"pali\">paññā</span>wisdom",
+        ]),
+        ("The whole discourse", [
+            "\"There are three accomplishments.",
+            "Faith, ethics, and wisdom.",
+            "These are the three.\"",
+        ]),
+        ("A bare heading", [
+            "no simile",
+            "no narrative frame",
+            "&mdash; a recitable unit, not an essay",
+        ]),
+        ("Cross-references", [
+            "AN 3.139 &middot; the identical triad as \"growth\"",
+            "AN 3.134 &middot; another bare three-item list",
+            "AN 3.143 &ndash;145 &middot; a longer treatment of the same underlying values",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.138/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.139.html">AN 3.139 &middot; Growth</a> &mdash; the identical triad, this '
+        "time named as what is still increasing rather than what has been reached.",
+    ],
+)
+
+
+page(
+    139, "Vuddhi", "Growth",
+    vagga=VAGGA_14,
+    meta_title="AN 3.139 — Growth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vuddhisutta — the "
+        "same triad as AN 3.138, faith, ethics, and wisdom, this time named as growth rather "
+        "than accomplishment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of three, identical in content to AN 3.138 and differing only in "
+                 "its title term"),
+        ("Length", "&#8776;15 seconds to read"),
+        ("Northern parallel", "Faith, ethics, and wisdom as a growth triad recur throughout the "
+                              "Chinese Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; identical content to its "
+                       "immediate predecessor, differing in exactly one word"),
+    ],
+    why=(
+        "The same three items as the discourse just before it &mdash; faith, ethics, and wisdom "
+        "&mdash; renamed from accomplishments to growth. The change of a single word reframes the "
+        "entire triad from a finished state to an ongoing process, and that reframing is the whole "
+        "of what this discourse adds."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Faith, ethics, and wisdom are not only things a person can have accomplished; they are "
+            "things a person can still be growing in, and the discourse names them a second time "
+            "under exactly that heading."]),
+        ("One word changed, and what it does", [
+            "AN 3.138 calls the triad <em>sampadā</em>, accomplishment, implying a state already "
+            "reached. This discourse calls the identical triad <em>vuddhi</em>, growth, implying a "
+            "process still underway. Nothing else in the wording changes. The entire content of the "
+            "reframing rides on that single substitution."]),
+        ("Why the collection keeps both instead of one", [
+            "A less careful redactor might have treated these as duplicates and dropped one. Keeping "
+            "both makes a specific claim: faith, ethics, and wisdom are not either accomplished or "
+            "growing, as though a person had to be sorted into one category permanently. The same "
+            "three qualities can be described honestly both ways at once, accomplished so far and "
+            "still increasing, without contradiction."]),
+        ("A caution against treating accomplishment as an endpoint", [
+            "Read after AN 3.138 rather than before it, this discourse works as a corrective. A "
+            "reader who takes &ldquo;accomplishment&rdquo; to mean a finished project, nothing "
+            "further required, meets this discourse immediately afterward insisting that the same "
+            "three things are also, and simultaneously, still growing."]),
+        ("What growth actually measures", [
+            "The discourse gives no metric for what counts as growth in faith, ethics, or wisdom "
+            "&mdash; no stages, no thresholds, no comparison points. Left this open, a reader has to "
+            "supply their own honest answer: is there more faith now than a year ago, more "
+            "consistency in conduct, more actual understanding, or has growth stalled while the "
+            "vocabulary of practice continues uninterrupted."]),
+        ("A pair worth reading together, not in sequence only", [
+            "Teaching these two discourses apart from each other loses the point of either. Taught "
+            "together, in either order, they make a single claim neither makes alone: the same "
+            "three qualities are properly described as both a standing that has been reached and a "
+            "direction still being traveled."]),
+    ],
+    terms=[
+        ("vuddhi",
+         "&ldquo;growth, increase&rdquo; &mdash; the single word that distinguishes this discourse "
+         "from AN 3.138, reframing accomplishment as an ongoing process."),
+        ("sampadā",
+         "&ldquo;accomplishment&rdquo; &mdash; the term AN 3.138 uses for the identical triad, a "
+         "state already reached rather than a process underway."),
+        ("saddhā, sīla, paññā",
+         "&ldquo;faith, ethics, wisdom&rdquo; &mdash; the three items, unchanged from the previous "
+         "discourse."),
+        ("vaḍḍhati",
+         "&ldquo;grows, increases&rdquo; &mdash; the verb form behind the noun <em>vuddhi</em>, "
+         "implying continuous change rather than a fixed state."),
+        ("ṭhāna",
+         "&ldquo;a state, a standing&rdquo; &mdash; not a term used in the discourse itself, but the "
+         "kind of static condition &ldquo;growth&rdquo; is implicitly contrasted against."),
+    ],
+    text_intro=(
+        "The discourse in full, a single sentence identical to AN 3.138 except for its title term. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three kinds of growth"),
+        ("p", "&sect;1", "an3.139:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three items does this discourse name as \"growth\"?",
+         "opts": [
+             "Generosity, patience, and courage",
+             "Faith, ethics, and wisdom",
+             "Learning, memory, and speech",
+             "Ethics, immersion, and liberation"],
+         "correct": 1,
+         "expl": "The identical triad from AN 3.138."},
+        {"q": "How does this discourse differ from AN 3.138?",
+         "opts": [
+             "It uses entirely different content",
+             "It differs in exactly one word: \"growth\" (vuddhi) in place of \"accomplishment\" (sampadā)",
+             "It adds two more items to the triad",
+             "It removes the term \"wisdom\""],
+         "correct": 1,
+         "expl": "Nothing else in the wording changes."},
+        {"q": "What does the change from \"accomplishment\" to \"growth\" reframe?",
+         "opts": [
+             "Nothing of substance",
+             "A finished state into an ongoing process",
+             "A monastic teaching into a lay teaching",
+             "A prose passage into verse"],
+         "correct": 1,
+         "expl": "The entire content of the reframing rides on that single substitution."},
+        {"q": "What claim does the guide say keeping both discourses (rather than treating them as duplicates) makes?",
+         "opts": [
+             "That the collection contains scribal errors",
+             "That faith, ethics, and wisdom can honestly be described as both accomplished so far and still increasing, without contradiction",
+             "That accomplishment and growth are mutually exclusive",
+             "That only one of the two discourses is authentic"],
+         "correct": 1,
+         "expl": "Not either/or, but both at once."},
+        {"q": "How does the guide say this discourse functions when read after AN 3.138?",
+         "opts": [
+             "As an unnecessary repetition",
+             "As a corrective against treating \"accomplishment\" as a finished project requiring nothing further",
+             "As a contradiction of the earlier discourse",
+             "As a summary of the entire collection"],
+         "correct": 1,
+         "expl": "Immediately insisting the same three things are also still growing."},
+        {"q": "What metric does the discourse give for measuring growth in faith, ethics, or wisdom?",
+         "opts": [
+             "A detailed staged progression",
+             "None &mdash; no stages, thresholds, or comparison points are given",
+             "A numerical scale from one to ten",
+             "A comparison to other named disciples"],
+         "correct": 1,
+         "expl": "The reader has to supply their own honest answer about whether growth is actually occurring."},
+        {"q": "What question does the guide suggest a reader ask, given the lack of a stated metric?",
+         "opts": [
+             "Whether the discourse is authentic",
+             "Whether there is more faith, more consistency in conduct, and more actual understanding than before, or whether growth has stalled",
+             "Whether the Pāli grammar is correct",
+             "Whether other monasteries teach the same triad"],
+         "correct": 1,
+         "expl": "An honest, self-administered check rather than an externally supplied answer."},
+        {"q": "What does the guide recommend for teaching these two discourses (3.138 and 3.139)?",
+         "opts": [
+             "Teaching only one, since they are duplicates",
+             "Teaching them together, since taught apart each loses the point the pair makes jointly",
+             "Teaching AN 3.139 first, always",
+             "Omitting both as too repetitive"],
+         "correct": 1,
+         "expl": "A single claim neither discourse makes alone."},
+        {"q": "What is \"vaḍḍhati\"?",
+         "opts": [
+             "A noun meaning \"accomplishment\"",
+             "The verb form behind \"vuddhi,\" implying continuous change",
+             "A term for monastic ordination",
+             "A synonym for \"sampadā\""],
+         "correct": 1,
+         "expl": "Grows, increases &mdash; the verb underlying the noun growth."},
+        {"q": "What is the discourse's overall length and form?",
+         "opts": [
+             "A long dialogue",
+             "A single sentence, about fifteen seconds to read",
+             "A set of verses",
+             "A narrative with named characters"],
+         "correct": 1,
+         "expl": "As bare as AN 3.138, differing from it in exactly one word."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">vuddhi</span>growth",
+            "<span class=\"pali\">sampadā</span>accomplishment",
+            "&mdash; one word changed, one meaning reframed",
+        ]),
+        ("Same triad", [
+            "saddhā &middot; faith",
+            "sīla &middot; ethics",
+            "paññā &middot; wisdom",
+        ]),
+        ("Two questions", [
+            "AN 3.138 &middot; what has been reached",
+            "AN 3.139 &middot; what is still increasing",
+            "&mdash; the same three items answer both",
+        ]),
+        ("Cross-references", [
+            "AN 3.138 &middot; the identical triad as accomplishment",
+            "AN 3.140&ndash;142 &middot; another set built on incremental grades",
+            "AN 3.143&ndash;145 &middot; a fuller treatment of the same values",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.139/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.138.html">AN 3.138 &middot; Accomplishment</a> &mdash; the same triad, named '
+        "as a state reached rather than a process underway.",
+    ],
+)
