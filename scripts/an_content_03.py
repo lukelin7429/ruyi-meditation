@@ -31358,3 +31358,1237 @@ page(
         "as a state reached rather than a process underway.",
     ],
 )
+
+
+page(
+    140, "Assakhaḷuṅka", "A Wild Colt",
+    vagga=VAGGA_14,
+    meta_title="AN 3.140 — A Wild Colt | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Assakhaḷuṅkasutta — "
+        "three grades of wild colt and three matching grades of wild mendicant, sorted by "
+        "speed, beauty, and proportion, where speed is understanding the four noble truths. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A simile in three graded types, each type defined by which of three qualities "
+                 "it has"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Horse-training similes graded by speed, appearance, and form are "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clear three-tier grading, "
+                       "worth comparing against its two neighbors"),
+    ],
+    why=(
+        "Three grades of wild colt, and three matching grades of wild mendicant: one fast but "
+        "neither beautiful nor well proportioned, one fast and beautiful but not well proportioned, "
+        "and one that is all three. What makes a mendicant &ldquo;fast&rdquo; here is understanding "
+        "the four noble truths &mdash; the entry-level attainment in a set of three horse-discourses "
+        "that will climb steadily higher."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant, like a wild colt, can have speed without beauty or proportion, speed and "
+            "beauty without proportion, or all three together, and only the third grade is complete."]),
+        ("The three qualities, held constant across this set", [
+            "Speed, beauty, and good proportion are the three qualities. What changes across AN "
+            "3.140, 141, and 142 is not these three labels but what &ldquo;speed&rdquo; is defined "
+            "to mean. In this discourse, beauty and proportion are already fixed for the whole set: "
+            "beauty is answering a question about the teaching or training without faltering, and "
+            "proportion is actually receiving robes, almsfood, lodging, and medicine."]),
+        ("Speed, at this grade: the four noble truths", [
+            "Here, being &ldquo;fast&rdquo; means truly understanding the four noble truths &mdash; "
+            "the same formula AN 3.133 uses for marksmanship. It is the collection&rsquo;s baseline "
+            "definition of genuine attainment, the least advanced of the three levels this set of "
+            "discourses will use for speed."]),
+        ("Why beauty and proportion can fail independently", [
+            "A mendicant can genuinely understand the four truths and still falter under questioning "
+            "&mdash; understanding is not the same as being able to explain it under pressure. And a "
+            "mendicant who understands and can explain can still go without adequate robes or food, "
+            "since neither attainment nor articulacy guarantees material support. The three "
+            "qualities are logically independent, which is exactly why the discourse needs three "
+            "grades rather than one."]),
+        ("A blunt admission about support", [
+            "It is worth noticing plainly what &ldquo;well proportioned&rdquo; actually measures: "
+            "whether the mendicant is fed, housed, clothed, and cared for when sick. The discourse "
+            "does not pretend that attainment guarantees provision. A genuinely awakened mendicant "
+            "can, on this reckoning, still be materially neglected &mdash; the third grade names an "
+            "external condition dependent on the surrounding community's generosity, not solely on "
+            "the mendicant's own practice."]),
+        ("Where this set is heading", [
+            "AN 3.140&rsquo;s wild colts define speed as the four truths; AN 3.141&rsquo;s excellent "
+            "horses will raise it to non-return; AN 3.142&rsquo;s thoroughbred will raise it again to "
+            "arahantship. Beauty and proportion never move. Only the third factor climbs, three "
+            "rungs, discourse by discourse."]),
+    ],
+    terms=[
+        ("assakhaḷuṅka",
+         "&ldquo;a wild, untrained colt&rdquo; &mdash; the discourse&rsquo;s image for the least "
+         "advanced of the three grades this set of horse-similes will describe."),
+        ("javasampanna",
+         "&ldquo;endowed with speed&rdquo; &mdash; here defined as understanding of the four noble "
+         "truths, the entry-level definition in this three-discourse set."),
+        ("vaṇṇasampanna",
+         "&ldquo;endowed with beauty&rdquo; &mdash; answering a question about the teaching or "
+         "training without faltering, fixed across all three discourses of this set."),
+        ("ārohapariṇāhasampanna",
+         "&ldquo;endowed with good height and girth, well proportioned&rdquo; &mdash; actually "
+         "receiving robes, almsfood, lodging, and medicine, also fixed across the set."),
+        ("cattāri ariyasaccāni",
+         "&ldquo;the four noble truths&rdquo; &mdash; suffering, its origin, its cessation, and the "
+         "path to its cessation, the content of &ldquo;speed&rdquo; at this first grade."),
+    ],
+    text_intro=(
+        "The discourse in full: the three wild colts, the three wild people, and each grade "
+        "defined in turn. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three wild colts, three wild people"),
+        ("p", "&sect;1", "an3.140:1.1-3.4"),
+        ("h3", "Fast alone"),
+        ("p", "&sect;2", "an3.140:4.1-4.8"),
+        ("h3", "Fast and beautiful"),
+        ("p", "&sect;3", "an3.140:5.1-5.8"),
+        ("h3", "Fast, beautiful, and well proportioned"),
+        ("p", "&sect;4", "an3.140:6.1-6.9"),
+    ],
+    quiz=[
+        {"q": "What three qualities grade the wild colts and wild people in this discourse?",
+         "opts": [
+             "Strength, endurance, and courage",
+             "Speed, beauty, and good proportion",
+             "Wealth, wisdom, and virtue",
+             "Age, size, and color"],
+         "correct": 1,
+         "expl": "Three qualities that combine independently across the discourse's three grades."},
+        {"q": "What does \"speed\" mean at this grade?",
+         "opts": [
+             "Physical quickness",
+             "Truly understanding the four noble truths",
+             "Meditative absorption",
+             "Ordination seniority"],
+         "correct": 1,
+         "expl": "The same four-truths formula AN 3.133 uses for marksmanship."},
+        {"q": "What does \"beauty\" mean, and does it change across this three-discourse set?",
+         "opts": [
+             "Physical appearance; it varies by discourse",
+             "Answering a question about the teaching or training without faltering; it stays fixed across all three discourses",
+             "Ethical purity; it is defined differently each time",
+             "Popularity among laypeople; it is never defined"],
+         "correct": 1,
+         "expl": "Beauty and proportion are held constant; only speed's definition climbs."},
+        {"q": "What does \"well proportioned\" actually measure?",
+         "opts": [
+             "Physical build",
+             "Whether the mendicant actually receives robes, almsfood, lodging, and medicine",
+             "Monastic rank",
+             "Popularity with other mendicants"],
+         "correct": 1,
+         "expl": "A blunt, material measure dependent on the surrounding community's generosity."},
+        {"q": "Can a mendicant understand the four truths and still fail the other two grades?",
+         "opts": [
+             "No, understanding guarantees the other two",
+             "Yes &mdash; the three qualities are logically independent, which is why three grades are needed",
+             "Only if they are lying about their understanding",
+             "The discourse does not address this"],
+         "correct": 1,
+         "expl": "Understanding is not the same as explaining under pressure, and neither guarantees material support."},
+        {"q": "What does the guide say is notable about a genuinely attained mendicant possibly lacking support?",
+         "opts": [
+             "The discourse denies this is possible",
+             "The discourse plainly admits attainment does not guarantee provision; it depends on the surrounding community's generosity",
+             "It only happens to unethical mendicants",
+             "It is treated as a punishment"],
+         "correct": 1,
+         "expl": "An external condition, not solely a function of the mendicant's own practice."},
+        {"q": "What happens to the definition of \"speed\" across AN 3.140, 3.141, and 3.142?",
+         "opts": [
+             "It stays the same in all three",
+             "It climbs: the four truths, then non-return, then arahantship, while beauty and proportion never move",
+             "It decreases in difficulty",
+             "It is redefined randomly each time"],
+         "correct": 1,
+         "expl": "Three rungs, discourse by discourse, with only the third factor climbing."},
+        {"q": "How many grades of wild colt and wild person does the discourse describe?",
+         "opts": [
+             "Two",
+             "Three: fast alone, fast and beautiful, and all three qualities together",
+             "Five",
+             "One"],
+         "correct": 1,
+         "expl": "A graded set, ascending toward completeness."},
+        {"q": "What is the discourse's overall structure?",
+         "opts": [
+             "A narrative with named characters",
+             "A simile of three graded colts, applied to three graded mendicants, each grade defined in turn",
+             "A dialogue between two disciples",
+             "A set of unrelated verses"],
+         "correct": 1,
+         "expl": "The animal simile and its application share an identical three-part structure."},
+        {"q": "Which discourse in this collection also uses the four noble truths formula for a martial image?",
+         "opts": [
+             "AN 3.65",
+             "AN 3.133, where the same formula is mapped onto marksmanship",
+             "AN 3.1",
+             "AN 3.136"],
+         "correct": 1,
+         "expl": "The vagga's opening warrior simile uses the identical formula for its second skill."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">javasampanna</span>endowed with speed",
+            "<span class=\"pali\">vaṇṇasampanna</span>endowed with beauty",
+            "<span class=\"pali\">ārohapariṇāhasampanna</span>well proportioned",
+        ]),
+        ("Fixed across the set", [
+            "beauty &middot; answering without faltering",
+            "proportion &middot; actually supported",
+            "&mdash; only speed changes, discourse to discourse",
+        ]),
+        ("This grade", [
+            "speed &middot; the four noble truths",
+            "next: AN 3.141 &middot; non-return",
+            "then: AN 3.142 &middot; arahantship",
+        ]),
+        ("Cross-references", [
+            "AN 3.141 &middot; the next grade up",
+            "AN 3.142 &middot; the thoroughbred, complete",
+            "AN 3.133 &middot; the same four-truths formula as marksmanship",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.140/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.141.html">AN 3.141 &middot; Excellent Horses</a> &mdash; the same three '
+        "qualities, one grade higher.",
+        '<a href="an-3.96.html">AN 3.96 &middot; The Thoroughbred (1st)</a> &mdash; an earlier set '
+        "in this collection using the same three horse-qualities, with beauty and strength fixed "
+        "and speed alone scaling.",
+    ],
+)
+
+
+page(
+    141, "Assaparassa", "Excellent Horses",
+    vagga=VAGGA_14,
+    meta_title="AN 3.141 — Excellent Horses | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Assaparassasutta — "
+        "the same three graded qualities as AN 3.140, one rung higher: speed now means the "
+        "ending of the five lower fetters and non-return. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical three-grade simile as AN 3.140, with one definition raised"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The non-returner's spontaneous rebirth, described identically here, "
+                              "is a recurring theme in the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; identical structure to its "
+                       "neighbor, one definition raised"),
+    ],
+    why=(
+        "The same three grades as the wild colts just before &mdash; fast alone, fast and "
+        "beautiful, and all three together &mdash; but &ldquo;fast&rdquo; now means something much "
+        "further along the path: the ending of the five lower fetters and rebirth beyond return."),
+    guide=[
+        ("The teaching in one sentence", [
+            "One rung above the wild colts, the same three qualities recur, but speed now names "
+            "non-return rather than the bare understanding of the four truths."]),
+        ("What stays exactly the same", [
+            "Beauty and good proportion keep their AN 3.140 definitions without change: answering "
+            "under questioning without faltering, and actually receiving material support. Comparing "
+            "the two discourses side by side, only one clause differs, and it is worth reading them "
+            "as a matched pair rather than as two unrelated teachings."]),
+        ("What speed now means: the five lower fetters", [
+            "&ldquo;With the ending of the five lower fetters, reborn spontaneously, extinguished "
+            "there, not liable to return from that world&rdquo; is the technical description of a "
+            "non-returner, <em>anāgāmī</em>. This is the same destination named in AN 3.127&rsquo;s "
+            "closing verse for Hatthaka, gone to the Aviha realm, and in AN 4.124 and AN 4.126, "
+            "already on this site: the pure abodes, reserved exclusively for this attainment."]),
+        ("A significant jump between grades", [
+            "The distance between AN 3.140&rsquo;s baseline &mdash; understanding the four truths "
+            "&mdash; and this discourse&rsquo;s non-return is considerable. Understanding the four "
+            "truths is describable as an intellectual and experiential grasp; non-return is the "
+            "ending of the five lower fetters outright, one stage short of full liberation. The set "
+            "is not moving in small, even steps."]),
+        ("Beauty and proportion, still independent of the attainment", [
+            "Even at this elevated level, the discourse holds open the possibility that a "
+            "non-returner might falter when questioned, or might go without adequate material "
+            "support. The same honesty AN 3.140 shows about material neglect persists here: high "
+            "attainment does not automatically produce either articulacy or provision."]),
+        ("One more rung to go", [
+            "AN 3.142, immediately next, will raise speed a final time to the ending of "
+            "defilements, arahantship &mdash; and, notably, will collapse the three sub-grades into "
+            "one, since a thoroughbred by definition already has beauty and proportion along with "
+            "its speed."]),
+    ],
+    terms=[
+        ("assaparassa",
+         "&ldquo;an excellent horse&rdquo; &mdash; one rung above the wild colt of AN 3.140, the "
+         "discourse&rsquo;s title image."),
+        ("pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā",
+         "&ldquo;with the ending of the five lower fetters&rdquo; &mdash; the technical description "
+         "of non-return, this discourse&rsquo;s definition of speed."),
+        ("opapātika",
+         "&ldquo;spontaneously reborn&rdquo; &mdash; the mode of rebirth specific to a non-returner, "
+         "arising directly rather than through a womb."),
+        ("anāvattidhamma",
+         "&ldquo;not liable to return&rdquo; &mdash; the defining feature of the destination named "
+         "here, matching AN 4.124 and AN 4.126&rsquo;s pure abodes."),
+        ("assakhaḷuṅka",
+         "&ldquo;wild colt&rdquo; &mdash; the lower grade named in AN 3.140, against which this "
+         "discourse&rsquo;s &ldquo;excellent horse&rdquo; is implicitly measured."),
+    ],
+    text_intro=(
+        "The discourse in full: the three excellent horses, the three excellent people, and each "
+        "grade defined in turn. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three excellent horses, three excellent people"),
+        ("p", "&sect;1", "an3.141:1.1-3.4"),
+        ("h3", "Fast alone"),
+        ("p", "&sect;2", "an3.141:4.1-4.8"),
+        ("h3", "Fast and beautiful"),
+        ("p", "&sect;3", "an3.141:5.1-5.8"),
+        ("h3", "Fast, beautiful, and well proportioned"),
+        ("p", "&sect;4", "an3.141:6.1-6.9"),
+    ],
+    quiz=[
+        {"q": "What structure does this discourse share with AN 3.140?",
+         "opts": [
+             "None; they are unrelated",
+             "The identical three-grade simile, with only the definition of \"speed\" changed",
+             "Only the title image",
+             "Only the closing formula"],
+         "correct": 1,
+         "expl": "Beauty and proportion keep their previous definitions unchanged."},
+        {"q": "What does \"speed\" mean in this discourse?",
+         "opts": [
+             "Understanding the four noble truths",
+             "The ending of the five lower fetters, with rebirth beyond return",
+             "The realization of arahantship",
+             "Physical swiftness"],
+         "correct": 1,
+         "expl": "The technical description of a non-returner, anāgāmī."},
+        {"q": "Where else on this site does the same destination appear?",
+         "opts": [
+             "Nowhere else",
+             "AN 3.127's closing verse for Hatthaka, and AN 4.124 and AN 4.126's pure abodes",
+             "AN 3.65 only",
+             "DN 2"],
+         "correct": 1,
+         "expl": "The same rebirth, named by different routes across several discourses."},
+        {"q": "How does the guide characterize the jump from AN 3.140's baseline to this discourse's definition of speed?",
+         "opts": [
+             "A small, even step",
+             "A considerable jump, from an intellectual and experiential grasp of the four truths to the outright ending of the five lower fetters",
+             "No difference at all",
+             "A step backward"],
+         "correct": 1,
+         "expl": "The set does not move in small, even increments."},
+        {"q": "Does high attainment guarantee the other two qualities in this discourse?",
+         "opts": [
+             "Yes, always",
+             "No &mdash; even a non-returner might falter under questioning or go without adequate material support",
+             "Only for arahants",
+             "The discourse does not address this possibility"],
+         "correct": 1,
+         "expl": "The same honesty about material neglect from AN 3.140 persists here."},
+        {"q": "What mode of rebirth is specific to a non-returner?",
+         "opts": [
+             "Rebirth through a womb",
+             "Spontaneous rebirth, opapātika, arising directly",
+             "No rebirth at all",
+             "Rebirth as an animal"],
+         "correct": 1,
+         "expl": "Distinct from ordinary rebirth through conception."},
+        {"q": "What happens to the three-grade structure in the next discourse, AN 3.142?",
+         "opts": [
+             "It stays exactly the same",
+             "It collapses to one grade, since a thoroughbred by definition already has all three qualities together",
+             "It expands to four grades",
+             "It is dropped entirely"],
+         "correct": 1,
+         "expl": "The final discourse in the set needs no sub-grades at all."},
+        {"q": "What remains unchanged between AN 3.140 and AN 3.141?",
+         "opts": [
+             "Nothing",
+             "The definitions of beauty (answering without faltering) and proportion (receiving material support)",
+             "The definition of speed",
+             "The title image"],
+         "correct": 1,
+         "expl": "Only one clause differs between the two discourses."},
+        {"q": "What is \"anāvattidhamma\"?",
+         "opts": [
+             "A type of meditation",
+             "\"Not liable to return\" &mdash; the defining feature of the non-returner's destination",
+             "A monastic rule",
+             "A synonym for arahantship"],
+         "correct": 1,
+         "expl": "Matching the pure abodes named in AN 4.124 and AN 4.126."},
+        {"q": "How many lower fetters does this discourse's non-returner have ended?",
+         "opts": [
+             "Three",
+             "Five",
+             "Ten",
+             "All fetters without remainder"],
+         "correct": 1,
+         "expl": "The five lower fetters specifically, one stage short of full liberation."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">opapātika</span>spontaneously reborn",
+            "<span class=\"pali\">anāvattidhamma</span>not liable to return",
+            "&mdash; the technical description of non-return",
+        ]),
+        ("One clause changed", [
+            "AN 3.140 &middot; the four truths",
+            "AN 3.141 &middot; non-return",
+            "&mdash; beauty and proportion untouched",
+        ]),
+        ("Same destination", [
+            "AN 3.127 &middot; the Aviha realm",
+            "AN 4.124, 4.126 &middot; the pure abodes",
+            "&mdash; named again here",
+        ]),
+        ("Cross-references", [
+            "AN 3.140 &middot; the grade below this one",
+            "AN 3.142 &middot; the grade above, collapsed to one",
+            "AN 4.124, 4.126 &middot; the same rebirth by another route",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.141/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.140.html">AN 3.140 &middot; A Wild Colt</a> &mdash; the same three '
+        "qualities, one grade below.",
+        '<a href="an-4.124.html">AN 4.124</a> &mdash; the pure abodes named directly, the same '
+        "destination this discourse describes without the technical term.",
+    ],
+)
+
+
+page(
+    142, "Ājānīya", "The Thoroughbred",
+    vagga=VAGGA_14,
+    meta_title="AN 3.142 — The Thoroughbred | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ājānīyasutta — the "
+        "top rung of the horse-set that opened with wild colts, where speed means "
+        "arahantship and the three sub-grades collapse into one complete type. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "The same three-quality simile as its two neighbors, but with only one grade "
+                 "described instead of three"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The thoroughbred image for full liberation is preserved throughout "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and the collapse from "
+                       "three grades to one is the entire point"),
+    ],
+    why=(
+        "The top of the three-discourse set that began with wild colts and moved through excellent "
+        "horses: here, speed means the full ending of defilements, arahantship, and the discourse "
+        "no longer bothers describing partial cases. A thoroughbred that is only fast, or only fast "
+        "and beautiful, does not appear, because at this level the three qualities no longer come "
+        "apart."),
+    guide=[
+        ("The teaching in one sentence", [
+            "At the level of full liberation, speed, beauty, and good proportion stop varying "
+            "independently and arrive together, which is why this discourse, unlike its two "
+            "neighbors, describes only one type instead of three."]),
+        ("What collapsed, and why", [
+            "AN 3.140 and AN 3.141 each described three sub-grades: fast alone, fast and beautiful, "
+            "and all three together, because at those levels of attainment the three qualities can "
+            "genuinely fail to co-occur. Here they cannot. The discourse&rsquo;s own text trails off "
+            "with an ellipsis where the partial cases would go, because there is nothing to fill "
+            "them with &mdash; a thoroughbred, by the definition this set has been building toward, "
+            "simply does not come in an incomplete version."]),
+        ("Speed, at the top: the ending of defilements", [
+            "&ldquo;Realizes the undefiled freedom of heart and freedom by wisdom in this very life "
+            "... due to the ending of defilements&rdquo; is the canon&rsquo;s standard formula for "
+            "arahantship, the same language AN 3.130 uses for Anuruddha&rsquo;s eventual "
+            "attainment. Nothing beyond this level exists for &ldquo;speed&rdquo; to climb to; this "
+            "is the last rung."]),
+        ("Beauty and proportion, arriving without effort", [
+            "The discourse still states that this person answers under questioning without "
+            "faltering and receives material support &mdash; but it no longer needs to prove these "
+            "are separate achievements. At the level of full liberation the discourse simply "
+            "asserts all three together, as though the question of whether they might come apart no "
+            "longer arises."]),
+        ("Reading the whole set as one argument", [
+            "AN 3.140, 3.141, and 3.142 together make a claim about the relationship between "
+            "attainment and its outward signs: at lower levels the two can diverge sharply, a person "
+            "can genuinely understand the truths and still be neglected or inarticulate. At the "
+            "highest level, on this reckoning, that divergence stops being possible. Whether that "
+            "claim should be taken as an empirical prediction or as a definitional statement about "
+            "what &ldquo;complete&rdquo; means is worth sitting with rather than resolving too "
+            "quickly."]),
+        ("A closing echo of AN 3.96–98", [
+            "This is the second time this collection has built a three-discourse set on the same "
+            "horse-and-mendicant simile, after AN 3.96&ndash;98 earlier in the Threes. There, beauty "
+            "and strength stayed fixed while speed alone scaled through the same three attainments "
+            "&mdash; the four truths, non-return, arahantship. Here, the identical three-rung ladder "
+            "reappears, assigned to a different one of the three qualities. The redactors evidently "
+            "found this progression worth stating twice, in two different arrangements."]),
+    ],
+    terms=[
+        ("bhadra assājānīya",
+         "&ldquo;a fine thoroughbred horse&rdquo; &mdash; the top grade in this three-discourse "
+         "set, where all qualities arrive together."),
+        ("āsavānaṁ khayā",
+         "&ldquo;due to the ending of defilements&rdquo; &mdash; the canon&rsquo;s standard closing "
+         "phrase for arahantship, and this discourse&rsquo;s definition of speed."),
+        ("anāsavā cetovimutti paññāvimutti",
+         "&ldquo;the undefiled freedom of heart and freedom by wisdom&rdquo; &mdash; the twofold "
+         "liberation realized, matching the formula used for Anuruddha in AN 3.130."),
+        ("pe (peyyāla)",
+         "the ellipsis marker in the source text where the partial sub-grades would appear, left "
+         "empty because at this level no partial case exists to describe."),
+        ("ājānīya",
+         "&ldquo;thoroughbred&rdquo; &mdash; literally one that knows, the same word this "
+         "collection uses in AN 3.96&ndash;98 for the same three-rung progression, assigned "
+         "differently there."),
+    ],
+    text_intro=(
+        "The discourse in full: the single, complete grade of thoroughbred horse and thoroughbred "
+        "person. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The fine thoroughbred"),
+        ("p", "&sect;1", "an3.142:1.1-3.3"),
+        ("h3", "Fast, beautiful, and well proportioned"),
+        ("p", "&sect;2", "an3.142:4.1-4.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from AN 3.140 and AN 3.141?",
+         "opts": [
+             "It has four grades instead of three",
+             "It describes only one grade instead of three, since the partial cases no longer occur",
+             "It has no structure at all",
+             "It reverses the order of the qualities"],
+         "correct": 1,
+         "expl": "At the level of full liberation, the three qualities no longer come apart."},
+        {"q": "What does \"speed\" mean at this top level?",
+         "opts": [
+             "Understanding the four noble truths",
+             "The ending of the five lower fetters",
+             "The full ending of defilements, arahantship",
+             "Physical quickness"],
+         "correct": 2,
+         "expl": "The last rung; nothing beyond this level exists for speed to climb to."},
+        {"q": "Why does the discourse's text trail off with an ellipsis where partial cases would appear?",
+         "opts": [
+             "A copying error",
+             "Because a thoroughbred, by the definition this set has been building toward, does not come in an incomplete version",
+             "Because the text is unfinished",
+             "Because the translator omitted it"],
+         "correct": 1,
+         "expl": "There is nothing to fill the partial cases with at this level."},
+        {"q": "What formula does the discourse use for this level of attainment?",
+         "opts": [
+             "A description of psychic powers",
+             "Realizing the undefiled freedom of heart and freedom by wisdom, due to the ending of defilements",
+             "A description of ethical conduct alone",
+             "A vow of future rebirth"],
+         "correct": 1,
+         "expl": "The canon's standard formula for arahantship, matching the language used for Anuruddha in AN 3.130."},
+        {"q": "What claim does the guide say the whole three-discourse set (3.140–142) makes together?",
+         "opts": [
+             "That attainment and its outward signs always align perfectly",
+             "That at lower levels attainment and its outward signs can diverge sharply, but at the highest level that divergence stops being possible",
+             "That outward signs are irrelevant at every level",
+             "That speed is the least important of the three qualities"],
+         "correct": 1,
+         "expl": "Worth sitting with as either an empirical claim or a definitional one."},
+        {"q": "What earlier set in this collection does the guide compare this one to?",
+         "opts": [
+             "AN 3.109–110",
+             "AN 3.96–98, which uses the same horse simile with a different quality held fixed",
+             "AN 3.65",
+             "AN 3.1–10"],
+         "correct": 1,
+         "expl": "There, beauty and strength stayed fixed while speed scaled through the identical three attainments."},
+        {"q": "What is fixed in AN 3.96–98 versus this set (3.140–142)?",
+         "opts": [
+             "The same quality is fixed in both",
+             "In 3.96–98, beauty and strength are fixed and speed scales; in 3.140–142, beauty and proportion are fixed and speed scales",
+             "Nothing is fixed in either set",
+             "Everything scales in both sets"],
+         "correct": 1,
+         "expl": "The identical three-rung ladder assigned to a different one of the three qualities each time."},
+        {"q": "What three attainments does the ladder climb through in both sets?",
+         "opts": [
+             "Faith, ethics, wisdom",
+             "The four noble truths, non-return, and arahantship",
+             "Fancy talk, questioning, full training",
+             "Giving, doing, bearing"],
+         "correct": 1,
+         "expl": "The same three-stage progression appears in both arrangements."},
+        {"q": "What does the guide say about the redactors repeating this progression twice?",
+         "opts": [
+             "It is likely an accidental duplication",
+             "They evidently found the progression worth stating twice, in two different arrangements",
+             "It proves one of the two sets is inauthentic",
+             "It has no significance"],
+         "correct": 1,
+         "expl": "A deliberate structural choice, not a redundancy."},
+        {"q": "What is the discourse's overall length?",
+         "opts": [
+             "The longest in the vagga",
+             "About one minute, the shortest of the three horse-discourses",
+             "Ten minutes",
+             "Equal in length to AN 3.140"],
+         "correct": 1,
+         "expl": "Collapsing three grades into one shortens the discourse considerably."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">ājānīya</span>thoroughbred",
+            "<span class=\"pali\">āsavānaṁ khayā</span>ending of defilements",
+            "&mdash; the top rung, arriving whole",
+        ]),
+        ("Three grades, collapsed", [
+            "3.140 &middot; three sub-grades",
+            "3.141 &middot; three sub-grades",
+            "3.142 &middot; one grade only",
+        ]),
+        ("Two sets, one ladder", [
+            "3.96&ndash;98 &middot; beauty &amp; strength fixed",
+            "3.140&ndash;142 &middot; beauty &amp; proportion fixed",
+            "&mdash; the same three-rung ladder, placed differently",
+        ]),
+        ("Cross-references", [
+            "AN 3.96&ndash;98 &middot; the same ladder, different fixed factors",
+            "AN 3.130 &middot; the identical liberation formula, for Anuruddha",
+            "AN 3.141 &middot; the grade just below this one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.142/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.96.html">AN 3.96 &middot; The Thoroughbred (1st)</a> &mdash; the earlier '
+        "set in this collection using the identical three-rung ladder, assigned differently.",
+        '<a href="an-3.141.html">AN 3.141 &middot; Excellent Horses</a> &mdash; the grade just '
+        "below this one, where the three qualities can still come apart.",
+    ],
+)
+
+
+page(
+    143, "Moranivāpapaṭhama", "At the Peacocks' Feeding Ground (1st)",
+    vagga=VAGGA_14,
+    meta_title="AN 3.143 — At the Peacocks' Feeding Ground (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first "
+        "Moranivāpasutta — a mendicant who has reached the ultimate end, defined here as the "
+        "adept's ethics, immersion, and wisdom in their entirety. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Rājagaha, at the monastery of the wanderers in the peacocks&rsquo; feeding "
+                    "ground"),
+        ("Speakers", SPEAKER),
+        ("Form", "A single formula, the first of three variations naming the ultimate goal"),
+        ("Length", "&#8776;30 seconds to read"),
+        ("Northern parallel", "The threefold training of ethics, immersion, and wisdom as the "
+                              "complete path is a foundational theme across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the first of three closely "
+                       "related discourses, best read as a set"),
+    ],
+    why=(
+        "The ultimate end, the ultimate sanctuary, the ultimate spiritual life, the ultimate goal "
+        "&mdash; four superlatives stacked on one another, and then the discourse names what earns "
+        "them: an adept&rsquo;s full ethics, immersion, and wisdom. The first of three discourses at "
+        "the peacocks&rsquo; feeding ground, each naming the same ultimate attainment by a different "
+        "triad."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant with the entire, complete range of an adept's ethics, immersion, and "
+            "wisdom has reached the ultimate goal, named four ways in a single stacked formula."]),
+        ("Four superlatives for one destination", [
+            "<em>Accantaniṭṭha</em>, the ultimate end; <em>accantayogakkhema</em>, the ultimate "
+            "sanctuary from the yoke; <em>accantabrahmacārī</em>, the ultimate spiritual life; "
+            "<em>accantapariyosāna</em>, the ultimate goal. All four share the prefix "
+            "<em>accanta</em>, utterly or absolutely, and the discourse piles them up rather than "
+            "choosing one &mdash; the same intensifying technique this collection uses elsewhere for "
+            "emphasis, applied here to describe a single destination from four angles at once."]),
+        ("The adept's version, not the trainee's", [
+            "<em>Asekha</em>, translated &ldquo;adept,&rdquo; specifically names someone with "
+            "nothing left to train in &mdash; an arahant, as opposed to a <em>sekha</em>, a trainee "
+            "still practicing. The ethics, immersion, and wisdom named here are qualified as the "
+            "adept's, meaning their entire, completed range, not a partial or developing version of "
+            "the same three."]),
+        ("A setting named, unusually, for its wildlife", [
+            "The monastery is named for the peacocks that evidently fed there, a small detail that "
+            "grounds an otherwise abstract discourse in an actual, remembered place near Rājagaha. "
+            "This same setting reappears for AN 3.144 and AN 3.145 immediately following, marking "
+            "all three as a single occasion, or at least a single remembered location."]),
+        ("Ethics, immersion, wisdom: the collection's standard three", [
+            "This triad, <em>sīla, samādhi, paññā</em>, is the same structure AN 3.90, already on "
+            "this site, calls the three trainings &mdash; the higher ethics, the higher mind, and "
+            "the higher wisdom. AN 3.143 restates the identical three qualities as already complete "
+            "rather than as trainings still underway, applying the language of accomplishment this "
+            "collection also uses in AN 3.138."]),
+        ("Three names, one goal", [
+            "AN 3.143, AN 3.144, and AN 3.145 all open with the identical four-part superlative "
+            "formula and differ only in what triad fills the third slot. Read as a set, they make "
+            "the point that the highest attainment admits more than one true description &mdash; "
+            "ethics/immersion/wisdom here, three demonstrations next, and right view/knowledge/"
+            "freedom after that &mdash; without any of the three descriptions being declared more "
+            "fundamental than the others."]),
+    ],
+    terms=[
+        ("accantaniṭṭha, accantayogakkhema, accantabrahmacārī, accantapariyosāna",
+         "&ldquo;the ultimate end, sanctuary, spiritual life, goal&rdquo; &mdash; four superlatives, "
+         "sharing the prefix <em>accanta</em>, utterly, stacked to describe one destination."),
+        ("asekha",
+         "&ldquo;an adept, one with nothing left to train in&rdquo; &mdash; an arahant, as opposed "
+         "to a <em>sekha</em>, a trainee."),
+        ("sīlakkhandha, samādhikkhandha, paññākkhandha",
+         "&ldquo;the entire body of ethics, immersion, wisdom&rdquo; &mdash; this discourse's triad, "
+         "qualified as the adept's complete, finished range."),
+        ("moranivāpa",
+         "&ldquo;the peacocks' feeding ground&rdquo; &mdash; the setting shared by this discourse "
+         "and its two immediate successors, near Rājagaha."),
+        ("seṭṭho devamanussānaṁ",
+         "&ldquo;the best among gods and humans&rdquo; &mdash; the discourse's closing description "
+         "of the mendicant who has reached this ultimate attainment."),
+    ],
+    text_intro=(
+        "The discourse in full: the fourfold formula for the ultimate goal, and the triad of "
+        "ethics, immersion, and wisdom that earns it. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "The setting"),
+        ("p", "&sect;1", "an3.143:1.1-1.5"),
+        ("h3", "The ultimate goal"),
+        ("p", "&sect;2", "an3.143:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four superlatives does the discourse stack together?",
+         "opts": [
+             "The ultimate end, sanctuary from the yoke, spiritual life, and goal",
+             "The ultimate wisdom, power, compassion, and skill",
+             "The ultimate teacher, teaching, community, and practice",
+             "The ultimate past, present, future, and eternity"],
+         "correct": 0,
+         "expl": "All four sharing the prefix accanta, utterly or absolutely."},
+        {"q": "What triad does this first discourse name as earning that ultimate goal?",
+         "opts": [
+             "Faith, generosity, and patience",
+             "The adept's ethics, immersion, and wisdom in their entirety",
+             "Psychic power, revealing, and instruction",
+             "Right view, right knowledge, and right freedom"],
+         "correct": 1,
+         "expl": "The first of three triads this set of discourses will offer."},
+        {"q": "What does \"asekha\" mean?",
+         "opts": [
+             "A trainee still practicing",
+             "An adept, one with nothing left to train in &mdash; an arahant",
+             "A lay follower",
+             "A new monastic"],
+         "correct": 1,
+         "expl": "As opposed to sekha, a trainee, the qualities here are the adept's complete range."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, at the monastery of the wanderers in the peacocks' feeding ground",
+             "Kusinārā",
+             "Vesālī, at the Gotamaka Shrine"],
+         "correct": 1,
+         "expl": "A setting shared with the two discourses immediately following."},
+        {"q": "What does the guide say is notable about how the monastery is named?",
+         "opts": [
+             "It is named after a king",
+             "It is named for its wildlife, grounding an abstract discourse in an actual remembered place",
+             "It has no recorded name",
+             "It is named after the Buddha himself"],
+         "correct": 1,
+         "expl": "A small detail marking a specific, remembered location."},
+        {"q": "How does this discourse's triad relate to AN 3.90, already on this site?",
+         "opts": [
+             "They are unrelated",
+             "AN 3.90 calls the same structure \"the three trainings\"; this discourse names the identical three qualities as already complete",
+             "AN 3.90 contradicts this discourse",
+             "AN 3.90 uses a completely different triad"],
+         "correct": 1,
+         "expl": "Training language versus accomplishment language, applied to the same three qualities."},
+        {"q": "What do AN 3.143, 3.144, and 3.145 share, and what differs between them?",
+         "opts": [
+             "Nothing is shared; they are unrelated discourses",
+             "They share the identical four-part superlative formula, differing only in which triad fills the third slot",
+             "They share the same triad but differ in setting",
+             "They are three versions of the same event told by different narrators"],
+         "correct": 1,
+         "expl": "Ethics/immersion/wisdom here, three demonstrations next, right view/knowledge/freedom after that."},
+        {"q": "What point does the guide say this three-discourse set makes together?",
+         "opts": [
+             "That only one of the three triads is the true description of the ultimate goal",
+             "That the highest attainment admits more than one true description, without any being declared more fundamental",
+             "That the three triads contradict each other",
+             "That the setting is more important than the content"],
+         "correct": 1,
+         "expl": "Three genuinely different angles on a single destination."},
+        {"q": "What formula does the discourse use to close its description of this mendicant?",
+         "opts": [
+             "\"They are the best among gods and humans\"",
+             "\"They will be reborn as a deva\"",
+             "\"They should be avoided\"",
+             "\"They are equal to the Buddha\""],
+         "correct": 0,
+         "expl": "Seṭṭho devamanussānaṁ, the closing superlative."},
+        {"q": "What does \"sīlakkhandha, samādhikkhandha, paññākkhandha\" specifically qualify?",
+         "opts": [
+             "A trainee's partial progress",
+             "The adept's entire, completed body of ethics, immersion, and wisdom",
+             "A layperson's basic conduct",
+             "A novice's first precepts"],
+         "correct": 1,
+         "expl": "Not a partial or developing version, but the finished, complete range."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">asekha</span>an adept",
+            "<span class=\"pali\">accanta</span>utterly, absolutely",
+            "&mdash; the prefix shared by all four superlatives",
+        ]),
+        ("Four names, one goal", [
+            "the ultimate end",
+            "the ultimate sanctuary",
+            "the ultimate spiritual life, the ultimate goal",
+        ]),
+        ("This triad", [
+            "sīla &middot; ethics",
+            "samādhi &middot; immersion",
+            "paññā &middot; wisdom",
+        ]),
+        ("Cross-references", [
+            "AN 3.144 &middot; the same formula, a different triad",
+            "AN 3.145 &middot; the same formula, a third triad",
+            "AN 3.90 &middot; the same three qualities as trainings underway",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.143/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.90.html">AN 3.90 &middot; Three Trainings (2nd)</a> &mdash; the identical '
+        "triad of ethics, immersion, and wisdom, named there as trainings still underway.",
+        '<a href="an-3.144.html">AN 3.144 &middot; At the Peacocks&rsquo; Feeding Ground (2nd)</a> '
+        "&mdash; the same setting and formula, a completely different triad.",
+    ],
+)
+
+
+page(
+    144, "Moranivāpadutiya", "At the Peacocks' Feeding Ground (2nd)",
+    vagga=VAGGA_14,
+    meta_title="AN 3.144 — At the Peacocks' Feeding Ground (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Moranivāpasutta — the same ultimate goal named through three demonstrations: "
+        "psychic power, revealing, and instruction, the very three DN 11 has the Buddha "
+        "express open reservations about displaying. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, at the monastery of the wanderers in the peacocks&rsquo; feeding "
+                    "ground, continuing from AN 3.143"),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical four-part formula as AN 3.143, with a different triad filling the "
+                 "third slot"),
+        ("Length", "&#8776;30 seconds to read"),
+        ("Northern parallel", "The three kinds of demonstration recur across the Chinese Āgamas in "
+                              "discussions of a teacher's proper conduct; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief here, but worth reading "
+                       "against DN 11's much fuller and more cautious treatment"),
+    ],
+    why=(
+        "The same ultimate goal as the discourse just before, named this time through three "
+        "demonstrations: psychic power, revealing another's mind, and instruction. Named here "
+        "without qualification as marks of the highest attainment, the identical three "
+        "demonstrations receive a far more guarded treatment in DN 11, where the Buddha explains why "
+        "he dislikes showing two of them in public."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who has mastered the three demonstrations &mdash; psychic power, revealing "
+            "another's mind, and instruction &mdash; has reached the same ultimate goal named in AN "
+            "3.143, this time by a different route."]),
+        ("The same formula, a new triad", [
+            "AN 3.144 opens with the identical stacked superlative as AN 3.143 &mdash; ultimate end, "
+            "sanctuary, spiritual life, goal &mdash; and swaps the earlier discourse's ethics, "
+            "immersion, and wisdom for a new set of three: <em>iddhipāṭihāriya</em>, "
+            "<em>ādesanāpāṭihāriya</em>, <em>anusāsanīpāṭihāriya</em>."],
+         ),
+        ("Three demonstrations, defined", [
+            "The demonstration of psychic power covers feats like flying or multiplying the body; "
+            "the demonstration of revealing covers reading and describing another person's "
+            "thoughts; the demonstration of instruction covers teaching that actually changes how "
+            "someone lives. All three are named here as marks of ultimate attainment, listed "
+            "without comment, ranking, or reservation."]),
+        ("A tension worth naming plainly", [
+            "DN 11, already on this site, has the Buddha discuss these identical three "
+            "<em>pāṭihāriya</em> at much greater length and take a notably more cautious position: "
+            "he says he is &ldquo;horrified, repelled, and disgusted&rdquo; by publicly "
+            "demonstrating psychic power or revealing, since a skeptic can always dismiss either as "
+            "a trick, and he endorses only the demonstration of instruction without reservation. AN "
+            "3.144 lists all three side by side as equally marking the ultimate goal, with no such "
+            "hierarchy stated. Both are genuine positions found in the canon, and a class should be "
+            "told plainly that they sit in real tension rather than have one silently read into the "
+            "other."]),
+        ("How the tension might be resolved, without forcing it", [
+            "One honest reading: AN 3.144 describes what an adept has actually mastered, a "
+            "descriptive claim about capability, while DN 11 addresses what should be publicly "
+            "displayed, a separate question about prudence and effect on an audience. Mastery of a "
+            "capacity and wisdom about deploying it are not the same thing, and the two discourses "
+            "may simply be answering different questions rather than disagreeing about one."]),
+        ("Continuing the set", [
+            "AN 3.145, immediately next, will complete this set of three at the same location, "
+            "naming the ultimate goal a third time through right view, right knowledge, and right "
+            "freedom &mdash; and will close with the chapter's own summary verse."]),
+    ],
+    terms=[
+        ("iddhipāṭihāriya",
+         "&ldquo;the demonstration of psychic power&rdquo; &mdash; flying, walking through walls, "
+         "multiplying the body; the demonstration DN 11 says the Buddha is reluctant to display "
+         "publicly."),
+        ("ādesanāpāṭihāriya",
+         "&ldquo;the demonstration of revealing&rdquo; &mdash; telepathically describing another "
+         "person's thoughts; subject to the same reservation in DN 11."),
+        ("anusāsanīpāṭihāriya",
+         "&ldquo;the demonstration of instruction&rdquo; &mdash; teaching that actually changes how "
+         "someone thinks and lives; the only one of the three DN 11 endorses without reservation."),
+        ("pāṭihāriya",
+         "&ldquo;a demonstration, a marvel&rdquo; &mdash; the shared root of all three terms, "
+         "elsewhere in this collection (AN 3.125) rendered &ldquo;demonstrable&rdquo; in a related "
+         "sense of something that can be checked."),
+        ("moranivāpa",
+         "&ldquo;the peacocks' feeding ground&rdquo; &mdash; the same setting as AN 3.143, "
+         "continuing without a new frame."),
+    ],
+    text_intro=(
+        "The discourse in full: the fourfold formula for the ultimate goal, and the triad of "
+        "three demonstrations that earns it here. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The ultimate goal, by three demonstrations"),
+        ("p", "&sect;1", "an3.144:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What triad does this discourse offer as the route to the ultimate goal?",
+         "opts": [
+             "Ethics, immersion, and wisdom",
+             "The demonstration of psychic power, of revealing, and of instruction",
+             "Right view, right knowledge, and right freedom",
+             "Faith, energy, and mindfulness"],
+         "correct": 1,
+         "expl": "A different triad from AN 3.143, filling the same closing slot."},
+        {"q": "What does \"the demonstration of revealing\" (ādesanāpāṭihāriya) refer to?",
+         "opts": [
+             "Public confession of faults",
+             "Telepathically describing another person's thoughts",
+             "Revealing a hidden treasure",
+             "Reading scripture aloud"],
+         "correct": 1,
+         "expl": "One of the three demonstrations, alongside psychic power and instruction."},
+        {"q": "What tension does the guide identify between this discourse and DN 11?",
+         "opts": [
+             "There is no tension; the two discourses agree completely",
+             "AN 3.144 lists all three demonstrations as equally marking ultimate attainment, while DN 11 has the Buddha express open reluctance to display two of them publicly",
+             "DN 11 denies that psychic power exists",
+             "AN 3.144 condemns all three demonstrations"],
+         "correct": 1,
+         "expl": "A real tension the guide names plainly rather than resolving away."},
+        {"q": "Which of the three demonstrations does DN 11 endorse without reservation?",
+         "opts": [
+             "Psychic power",
+             "Revealing another's thoughts",
+             "Instruction, since it cannot be dismissed as a mere trick",
+             "None of the three"],
+         "correct": 2,
+         "expl": "The only one the Buddha endorses without qualification in DN 11's fuller treatment."},
+        {"q": "Why, according to DN 11, is the Buddha reluctant to display psychic power and revealing in public?",
+         "opts": [
+             "Because they are actually impossible",
+             "Because a skeptic can always dismiss either as a mere trick",
+             "Because they are forbidden by monastic rules",
+             "Because only laypeople can perform them"],
+         "correct": 1,
+         "expl": "A concern about how the demonstration lands with a skeptical audience."},
+        {"q": "What honest resolution does the guide propose for the tension, without forcing an answer?",
+         "opts": [
+             "That one of the two discourses must be considered inauthentic",
+             "That AN 3.144 may describe mastery of a capacity, while DN 11 addresses the separate question of what should be publicly displayed",
+             "That the two discourses were composed centuries apart and are unrelated",
+             "That the tension is simply an error in translation"],
+         "correct": 1,
+         "expl": "Mastery of a capacity and wisdom about deploying it may be two different questions."},
+        {"q": "What does the discourse's version of \"the demonstration of instruction\" cover?",
+         "opts": [
+             "Teaching monastic rules only",
+             "Teaching that actually changes how someone thinks and lives",
+             "Formal ordination ceremonies",
+             "Chanting texts from memory"],
+         "correct": 1,
+         "expl": "The demonstration DN 11 endorses without reservation."},
+        {"q": "What is the relationship between the Pāli root \"pāṭihāriya\" here and its use in AN 3.125?",
+         "opts": [
+             "They are unrelated terms",
+             "The same root appears in AN 3.125, rendered \"demonstrable\" in the related sense of something that can be checked",
+             "AN 3.125 uses a completely different word",
+             "The term only appears in this discourse"],
+         "correct": 1,
+         "expl": "A shared vocabulary of what can be shown or verified, across two different discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "A new location, different from AN 3.143",
+             "The same peacocks' feeding ground at Rājagaha, continuing without a new frame",
+             "Sāvatthī",
+             "Kusinārā"],
+         "correct": 1,
+         "expl": "The same location as its immediate predecessor."},
+        {"q": "What comes next in this set of three discourses?",
+         "opts": [
+             "A return to AN 3.140's horse imagery",
+             "AN 3.145, completing the set with a third triad: right view, right knowledge, right freedom",
+             "The vagga ends here",
+             "A narrative episode"],
+         "correct": 1,
+         "expl": "The final discourse in the set, closing with the chapter's own summary verse."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">iddhipāṭihāriya</span>psychic power",
+            "<span class=\"pali\">ādesanāpāṭihāriya</span>revealing",
+            "<span class=\"pali\">anusāsanīpāṭihāriya</span>instruction",
+        ]),
+        ("Two views", [
+            "AN 3.144 &middot; all three, unranked",
+            "DN 11 &middot; only instruction unreserved",
+            "&mdash; a real tension, not resolved here",
+        ]),
+        ("Same formula", [
+            "the ultimate end",
+            "the ultimate sanctuary, spiritual life, goal",
+            "&mdash; a third triad fills the same slot",
+        ]),
+        ("Cross-references", [
+            "DN 11 &middot; the fuller, more cautious treatment",
+            "AN 3.143 &middot; the same formula, ethics/immersion/wisdom",
+            "AN 3.125 &middot; the shared root, \"demonstrable\"",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.144/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../digha-nikaya/dn-11.html">DN 11 &middot; With Kevaḍḍha</a> &mdash; the fuller '
+        "treatment of the same three demonstrations, and the Buddha's own reservations about two "
+        "of them.",
+        '<a href="an-3.143.html">AN 3.143 &middot; At the Peacocks&rsquo; Feeding Ground (1st)</a> '
+        "&mdash; the same formula, the ethics/immersion/wisdom triad.",
+    ],
+)
+
+
+page(
+    145, "Moranivāpatatiya", "At the Peacocks' Feeding Ground (3rd)",
+    vagga=VAGGA_14,
+    meta_title="AN 3.145 — At the Peacocks' Feeding Ground (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the third "
+        "Moranivāpasutta, closing the Yodhājīvavagga — the ultimate goal named a third way, "
+        "through right view, right knowledge, and right freedom. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Rājagaha, at the monastery of the wanderers in the peacocks&rsquo; feeding "
+                    "ground, continuing from AN 3.143&ndash;144"),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical four-part formula as its two predecessors, closing the vagga with "
+                 "its own summary verse"),
+        ("Length", "&#8776;30 seconds to read"),
+        ("Northern parallel", "Right view, right knowledge, and right freedom as a summary of the "
+                              "completed path recur across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest of the three, and "
+                       "the plainest"),
+    ],
+    why=(
+        "A third and final naming of the same ultimate goal: right view, right knowledge, and right "
+        "freedom. Closing both this short set of three and the whole Yodhājīvavagga, the discourse "
+        "leaves the chapter&rsquo;s own summary verse as its final word."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ultimate goal receives a third name &mdash; right view, right knowledge, right "
+            "freedom &mdash; completing a set that has now offered three genuinely different, "
+            "equally valid descriptions of the same destination."]),
+        ("The simplest of the three triads", [
+            "Where AN 3.143 needed technical vocabulary for a completed threefold training and AN "
+            "3.144 needed three specialized terms for demonstration, this final triad uses the "
+            "plainest language of the set: right view, right knowledge, right freedom, "
+            "<em>sammādiṭṭhi, sammāñāṇa, sammāvimutti</em>. Simplicity at the very end of a set is "
+            "worth noticing as a deliberate closing move, landing the pattern on its most accessible "
+            "formulation."]),
+        ("Knowledge after view, freedom after knowledge", [
+            "The sequence tracks a natural order: right view is the correct orientation that starts "
+            "the path; right knowledge is the direct seeing that view, developed, becomes; right "
+            "freedom is what that seeing accomplishes. Unlike AN 3.143 and AN 3.144, whose triads "
+            "name three co-present qualities, this triad reads as a single process told in three "
+            "stages."]),
+        ("Three names for one thing, held together honestly", [
+            "Ethics/immersion/wisdom, the three demonstrations, and view/knowledge/freedom are not "
+            "competing definitions where only one can be correct. Read across all three discourses, "
+            "the set&rsquo;s actual claim is that the ultimate goal is rich enough to support "
+            "several true and non-identical descriptions at once, and naming it once is not the "
+            "same as naming it completely."]),
+        ("The chapter's own summary verse", [
+            "AN 3.145 closes with the Yodhājīvavagga&rsquo;s uddāna, a mnemonic verse listing the "
+            "chapter&rsquo;s thirteen discourses in order: the warrior, the assembly, arising, the "
+            "hair blanket; accomplishment, growth, the three horse-discourses; and the peacocks&rsquo; "
+            "feeding ground, three times. The verse is a memory aid for reciters, not new content, "
+            "and it confirms this reading guide&rsquo;s own count of thirteen discourses in the "
+            "chapter."]),
+        ("Closing the Yodhājīvavagga", [
+            "From a literal warrior's three combat skills to a mendicant's three names for the "
+            "ultimate goal, this chapter has moved from martial imagery through doctrinal formula, "
+            "a named refutation of a rival teacher, paired accomplishment and growth, three "
+            "escalating horse-discourses, and finally three equally valid names for the same "
+            "destination. The Maṅgalavagga, next, turns to shorter material and a different "
+            "register entirely."]),
+    ],
+    terms=[
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the first of this closing triad, the correct orientation "
+         "that starts the path."),
+        ("sammāñāṇa",
+         "&ldquo;right knowledge&rdquo; &mdash; the second, the direct seeing that developed right "
+         "view becomes."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the third, what that seeing ultimately accomplishes."),
+        ("uddāna",
+         "&ldquo;a summary, a mnemonic verse&rdquo; &mdash; the closing list of the "
+         "chapter&rsquo;s thirteen discourse-titles in order, a memory aid for reciters."),
+        ("Yodhājīvavagga",
+         "&ldquo;the chapter of the warrior&rdquo; &mdash; named for its opening discourse, closing "
+         "here on its thirteenth and final entry."),
+    ],
+    text_intro=(
+        "The discourse in full: the fourfold formula for the ultimate goal, and the triad of right "
+        "view, right knowledge, and right freedom that earns it here. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The ultimate goal, by right view, knowledge, and freedom"),
+        ("p", "&sect;1", "an3.145:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What triad does this discourse offer as the third and final route to the ultimate goal?",
+         "opts": [
+             "Ethics, immersion, and wisdom",
+             "The three demonstrations",
+             "Right view, right knowledge, and right freedom",
+             "Faith, energy, and mindfulness"],
+         "correct": 2,
+         "expl": "The plainest of the three triads offered across this short set."},
+        {"q": "How does the guide characterize this triad compared to the previous two discourses' triads?",
+         "opts": [
+             "More technical and specialized",
+             "The plainest language of the set, a deliberate closing move landing on the most accessible formulation",
+             "Identical to AN 3.143's triad",
+             "Entirely unrelated to the path"],
+         "correct": 1,
+         "expl": "Simplicity at the end of a set, worth noticing as intentional."},
+        {"q": "How does this triad's internal structure differ from AN 3.143's and AN 3.144's?",
+         "opts": [
+             "It does not differ at all",
+             "It reads as a single process told in three stages, rather than three co-present qualities",
+             "It has four terms instead of three",
+             "It is stated in verse rather than prose"],
+         "correct": 1,
+         "expl": "View, then knowledge, then freedom &mdash; a natural sequence rather than a simultaneous set."},
+        {"q": "What is the overall claim the guide draws from all three peacocks'-feeding-ground discourses together?",
+         "opts": [
+             "That only one of the three triads is the correct definition",
+             "That the ultimate goal is rich enough to support several true, non-identical descriptions at once",
+             "That the three discourses contradict each other",
+             "That the setting matters more than the content"],
+         "correct": 1,
+         "expl": "Naming the goal once is not the same as naming it completely."},
+        {"q": "What does this discourse close with, that its two predecessors do not have?",
+         "opts": [
+             "A narrative episode",
+             "The Yodhājīvavagga's own summary verse (uddāna), listing all thirteen discourses in order",
+             "A dialogue with a questioner",
+             "A fourth triad"],
+         "correct": 1,
+         "expl": "A memory aid for reciters, confirming the chapter's discourse count."},
+        {"q": "What is an \"uddāna\"?",
+         "opts": [
+             "A type of meditation",
+             "A summary or mnemonic verse listing a chapter's discourse-titles in order",
+             "A monastic robe",
+             "A formal debate"],
+         "correct": 1,
+         "expl": "Not new teaching content, but a recitation aid."},
+        {"q": "How many discourses does the Yodhājīvavagga contain, according to its own summary verse?",
+         "opts": [
+             "Ten",
+             "Thirteen",
+             "Twenty",
+             "Seven"],
+         "correct": 1,
+         "expl": "Confirmed by both the guide's own count and the chapter's uddāna."},
+        {"q": "What does the sequence \"right view, right knowledge, right freedom\" track?",
+         "opts": [
+             "Three unrelated qualities",
+             "A natural order: correct orientation, then direct seeing, then what that seeing accomplishes",
+             "Three stages of monastic ordination",
+             "Three types of meditation posture"],
+         "correct": 1,
+         "expl": "View starts the path, knowledge is what developed view becomes, freedom is the result."},
+        {"q": "What chapter follows the Yodhājīvavagga?",
+         "opts": [
+             "The Kusināravagga",
+             "The Maṅgalavagga, turning to shorter material and a different register",
+             "The Sambodhavagga",
+             "The Āpāyikavagga"],
+         "correct": 1,
+         "expl": "The fifteenth chapter of the Threes, next in the collection."},
+        {"q": "What formula opens all three discourses at the peacocks' feeding ground?",
+         "opts": [
+             "A narrative frame with named characters",
+             "The identical four-part superlative: the ultimate end, sanctuary, spiritual life, and goal",
+             "A question from a listener",
+             "A simile involving animals"],
+         "correct": 1,
+         "expl": "The shared formula that structures all three discourses in this short set."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">sammādiṭṭhi</span>right view",
+            "<span class=\"pali\">sammāñāṇa</span>right knowledge",
+            "<span class=\"pali\">sammāvimutti</span>right freedom",
+        ]),
+        ("Three triads, one goal", [
+            "3.143 &middot; ethics, immersion, wisdom",
+            "3.144 &middot; three demonstrations",
+            "3.145 &middot; view, knowledge, freedom",
+        ]),
+        ("Closing the chapter", [
+            "thirteen discourses",
+            "named in the uddāna",
+            "&mdash; the Yodhājīvavagga complete",
+        ]),
+        ("Cross-references", [
+            "AN 3.143&ndash;144 &middot; the same formula, two other triads",
+            "AN 3.90 &middot; the three trainings, related vocabulary",
+            "AN 3.146 &middot; the next chapter begins",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.145/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.143.html">AN 3.143 &middot; At the Peacocks&rsquo; Feeding Ground (1st)</a> '
+        "&mdash; the same formula, the ethics/immersion/wisdom triad that opens this short set.",
+        '<a href="an-3.144.html">AN 3.144 &middot; At the Peacocks&rsquo; Feeding Ground (2nd)</a> '
+        "&mdash; the middle discourse, naming the goal through three demonstrations.",
+    ],
+)
