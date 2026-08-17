@@ -55541,3 +55541,2202 @@ page(
         '<a href="an-4.201.html">AN 4.201 &middot; Training Rules</a> &mdash; the source of the <em>sappurisa</em> vocabulary this discourse reuses.',
     ],
 )
+
+VAGGA_25 = "<em>Āpattibhayavagga</em> &mdash; the twenty-fifth chapter of the Fours"
+SETTING_25 = ("None stated; the Āpattibhayavagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.243 — Saṅghabhedakasutta
+# --------------------------------------------------------------------------- #
+page(
+    243, "Saṅghabhedaka", "Schism in the Saṅgha",
+    vagga=VAGGA_25,
+    meta_title="AN 4.243 — Schism in the Saṅgha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṅghabhedakasutta, a "
+        "rare narrative discourse opening this chapter with Ānanda reporting an unresolved "
+        "disciplinary crisis at Kosambī, and the Buddha's account of the four reasons a bad monk "
+        "relishes schism. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, at Ghosita's Monastery; the Buddha in conversation with Venerable "
+                    "Ānanda about an active disciplinary crisis"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "A narrative opening &mdash; a report and a pointed question &mdash; followed by "
+                 "a list of four reasons"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Material on the causes and dangers of schism is well represented in "
+                              "the Vinaya and in the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a real, unresolved crisis, "
+                       "named plainly rather than smoothed into an abstraction"),
+    ],
+    why=(
+        "This chapter opens with something rare in the Fours: a discourse set at a specific "
+        "monastery, in the middle of an actual, ongoing disciplinary crisis, with a specific monk "
+        "named as the problem and specific senior disciples named as responsible for it. Ānanda "
+        "reports that Bāhiya, a protégé of Anuruddha, remains committed to causing a schism, and "
+        "that Anuruddha will not intervene. The Buddha's reply is pointed before it becomes "
+        "general: this was never Anuruddha's job in the first place."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A corrupt monk relishes schism in the Saṅgha because division protects him from "
+            "expulsion or from losing the honor he craves &mdash; four distinct motives, all "
+            "rooted in self-protection."]),
+        ("A crisis, not an abstraction", [
+            "The discourse opens at Ghosita&rsquo;s Monastery in Kosambī &mdash; a location the "
+            "wider canon associates with one of the most serious internal disputes the early "
+            "community faced, a schism remembered at length in the Vinaya and at MN 48. Whether "
+            "this particular discourse describes that same famous episode or a separate, smaller "
+            "crisis at the same monastery, the text does not say, and this reading guide does not "
+            "assert an identification either way. What is certain is that the Buddha asks Ānanda a "
+            "direct question &mdash; <em>has that disciplinary issue been settled yet?</em> "
+            "&mdash; and receives a direct answer: it has not, because the monk driving it, "
+            "Bāhiya, remains committed, and the senior monk responsible for him, Anuruddha, will "
+            "not say a word.",
+            "Readers meeting the name Bāhiya here should not confuse him with the far more famous "
+            "Bāhiya of the bark-cloth, Bāhiya Dāruciriya of the Udāna, who has no connection to "
+            "this passage. Names repeat across a canon this large."]),
+        ("A correction before the teaching begins", [
+            "The Buddha&rsquo;s first response is not to the schism itself but to Ānanda&rsquo;s "
+            "framing of it: <em>since when has Anuruddha been involved in disciplinary issues in "
+            "the midst of the Saṅgha?</em> He then names who the responsibility actually belongs "
+            "to &mdash; Ānanda himself, together with Sāriputta and Moggallāna. This is worth "
+            "reading as content in its own right, not merely as a narrative frame around the four "
+            "reasons that follow: a senior disciple is being redirected away from a role that was "
+            "never his, toward those whose role it is."]),
+        ("The four reasons, and what they share", [
+            "A bad monk relishes division because a divided community will not expel him for being "
+            "unethical, for wrong view, or for wrong livelihood &mdash; and because a divided "
+            "community, split into factions competing for followers, will still honor him even "
+            "when a united one would not. The first three reasons are versions of the same fear, "
+            "escaping accountability; the fourth inverts it into an appetite, gaining status "
+            "through factional loyalty rather than merit.",
+            "What unites all four is that schism is never described here as a matter of doctrine "
+            "or principle for the person who relishes it. It is a strategy for personal protection "
+            "and advancement, pursued by someone the discourse has already, in its opening "
+            "definition, called <em>rotten inside, festering, and depraved</em>."]),
+        ("Reading this discourse honestly", [
+            "This discourse names an internal, structural failure mode the tradition apparently "
+            "considered serious enough to diagnose in clinical detail, in the middle of an "
+            "unresolved case rather than as safely settled history. It is worth resisting the urge "
+            "to read the Buddha&rsquo;s redirection of Ānanda as a full resolution; the text simply "
+            "moves from the specific crisis to the general teaching and does not report what "
+            "happened next."]),
+    ],
+    terms=[
+        ("saṅghabheda",
+         "&ldquo;schism, splitting the Saṅgha&rdquo; &mdash; among the gravest offenses the "
+         "tradition recognizes, named among the five <em>ānantarika-kamma</em> at AN 4.236."),
+        ("Kosambī",
+         "a city on the Yamunā associated with one of the early community&rsquo;s most serious "
+         "internal disputes, remembered at length in the Vinaya and at MN 48."),
+        ("dussīlo pāpadhammo",
+         "&ldquo;unethical, of bad character&rdquo; &mdash; part of this discourse&rsquo;s opening "
+         "description of the kind of monk who relishes schism, echoing vocabulary from AN "
+         "4.211."),
+        ("Anuruddha, Sāriputta, Moggallāna",
+         "senior disciples named in this discourse&rsquo;s opening exchange, the latter two "
+         "identified as the ones actually responsible for settling disciplinary matters."),
+        ("micchādiṭṭhi / micchāājīva",
+         "wrong view and wrong livelihood &mdash; two of the four faults a corrupt monk fears "
+         "being exposed for, matching vocabulary already met at AN 4.212 and AN 4.215."),
+    ],
+    text_intro=(
+        "The discourse in full: Ānanda's report, the Buddha's redirection, and the four reasons a "
+        "bad monk relishes schism. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ānanda's report"),
+        ("p", "&sect;1", "an4.243:1.1-1.6"),
+        ("h3", "The Buddha's redirection"),
+        ("p", "&sect;2", "an4.243:2.1-2.2"),
+        ("h3", "The first reason: escaping expulsion for bad conduct"),
+        ("p", "&sect;3", "an4.243:3.1-3.8"),
+        ("h3", "The second reason: escaping exposure for wrong view"),
+        ("p", "&sect;4", "an4.243:4.1-4.6"),
+        ("h3", "The third reason: escaping exposure for wrong livelihood"),
+        ("p", "&sect;5", "an4.243:5.1-5.6"),
+        ("h3", "The fourth reason: gaining honor through division"),
+        ("p", "&sect;6", "an4.243:6.1-6.7"),
+    ],
+    quiz=[
+        {"q": "What crisis does Ānanda report to the Buddha at the start of this discourse?",
+         "opts": [
+             "A famine affecting the monastery",
+             "An unresolved disciplinary issue: a monk named Bāhiya remains committed to causing schism, and Anuruddha will not intervene",
+             "A dispute over the interpretation of a specific rule",
+             "A conflict with a rival ascetic tradition"],
+         "correct": 1,
+         "expl": "Set at Ghosita's Monastery in Kosambī."},
+        {"q": "How does the Buddha first respond to Ānanda's report?",
+         "opts": [
+             "By immediately confronting Bāhiya",
+             "By questioning why Anuruddha was ever expected to handle disciplinary issues, and naming who actually should",
+             "By ignoring the report entirely",
+             "By declaring the Saṅgha permanently divided"],
+         "correct": 1,
+         "expl": "Redirecting responsibility to Ānanda, Sāriputta, and Moggallāna."},
+        {"q": "What four reasons does the Buddha give for why a bad monk relishes schism?",
+         "opts": [
+             "Doctrinal disagreement on four specific points",
+             "Escaping expulsion for bad conduct, wrong view, or wrong livelihood, and gaining honor through factional division",
+             "A desire to found a new teaching entirely",
+             "Personal dislike of specific individuals"],
+         "correct": 1,
+         "expl": "The first three are versions of escaping accountability; the fourth is an appetite for status."},
+        {"q": "What does the guide caution readers about the name Bāhiya in this discourse?",
+         "opts": [
+             "That he is definitely the same figure as Bāhiya of the Udāna",
+             "That he should not be confused with the more famous Bāhiya Dāruciriya of the Udāna, since names repeat across the canon",
+             "That the name is a scribal error",
+             "That no one named Bāhiya appears elsewhere in the canon"],
+         "correct": 1,
+         "expl": "A different figure entirely, sharing only a name."},
+        {"q": "Does this discourse report how the Kosambī crisis was ultimately resolved?",
+         "opts": [
+             "Yes, in full detail",
+             "No &mdash; it moves from the specific crisis to the general teaching without reporting what happened next",
+             "Yes, briefly, at the very end",
+             "The crisis is described as already resolved before the discourse begins"],
+         "correct": 1,
+         "expl": "The guide notes this discourse should not be read as a full resolution."},
+        {"q": "What does the discourse's opening description call the kind of monk who relishes schism?",
+         "opts": [
+             "Merely misguided but well-intentioned",
+             "Unethical, of bad character, rotten inside, festering, and depraved",
+             "A skilled but overly ambitious teacher",
+             "A recent convert unfamiliar with the training"],
+         "correct": 1,
+         "expl": "Strong language, matching the seriousness the tradition attaches to <em>saṅghabheda</em>."},
+        {"q": "What wider location does Kosambī evoke in the broader canon?",
+         "opts": [
+             "The site of the Buddha's awakening",
+             "One of the early community's most serious internal disputes, remembered at length in the Vinaya and at MN 48",
+             "A minor, otherwise unmentioned village",
+             "The location of the First Council"],
+         "correct": 1,
+         "expl": "Though this reading guide does not assert this discourse describes that same episode."},
+        {"q": "What does the guide say unites all four of the reasons given?",
+         "opts": [
+             "Nothing; they are entirely unrelated",
+             "Schism is never described as a matter of principle for the person who relishes it, only a strategy for protection or advancement",
+             "All four concern doctrinal disputes specifically",
+             "All four concern disputes between monks and nuns"],
+         "correct": 1,
+         "expl": "Personal self-protection and appetite, not conviction."},
+        {"q": "Where is <em>saṅghabheda</em> named again later in this series?",
+         "opts": [
+             "Nowhere else",
+             "AN 4.236, among the five gravest offenses, <em>ānantarika-kamma</em>",
+             "AN 4.211",
+             "AN 4.7"],
+         "correct": 1,
+         "expl": "Confirming this discourse's topic is treated elsewhere as among the most serious offenses possible."},
+        {"q": "Who does the Buddha name as actually responsible for settling disciplinary issues?",
+         "opts": [
+             "Anuruddha alone",
+             "Ānanda, together with Sāriputta and Moggallāna",
+             "The lay community",
+             "No one in particular; it is left unresolved"],
+         "correct": 1,
+         "expl": "A specific redirection away from Anuruddha's assumed role."},
+    ],
+    marginalia=[
+        ("A crisis, named plainly", [
+            "Kosambī &middot; Ghosita's Monastery",
+            "an unresolved disciplinary case",
+        ]),
+        ("A correction, first", [
+            "not Anuruddha's role &mdash;",
+            "Ānanda, Sāriputta, Moggallāna",
+        ]),
+        ("Four reasons, one root", [
+            "escaping exposure, three ways;",
+            "gaining honor, a fourth",
+        ]),
+        ("No reported resolution", [
+            "the text moves to teaching,",
+            "not to an ending",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.243/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.236.html">AN 4.236 &middot; Training Rules (2nd)</a> &mdash; where schism is named among the five gravest offenses.',
+        '<a href="an-4.211.html">AN 4.211 &middot; Assembly</a> &mdash; on what corrupts a gathering, from earlier in this series.',
+        '<a href="an-4.244.html">AN 4.244 &middot; Perils of Offenses</a> &mdash; next, and the discourse that names this chapter.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.244 — Āpattibhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    244, "Āpattibhaya", "Perils of Offenses",
+    vagga=VAGGA_25,
+    meta_title="AN 4.244 — Perils of Offenses | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Āpattibhayasutta, the "
+        "discourse that names this chapter &mdash; four graduated similes of public punishment, "
+        "matched to the four grades of monastic offense, teaching vicarious deterrence through "
+        "watching someone else pay a price. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "Four parallel similes of escalating public consequence, each mapped to a grade "
+                 "of monastic offense"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The graded classification of monastic offenses is a feature of "
+                              "Vinaya traditions generally; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; vivid and specific, and the "
+                       "source of this chapter's name"),
+    ],
+    why=(
+        "This is the discourse the chapter is named for, and it earns the name with four of the "
+        "most vivid similes in the Fours: a criminal executed, a man carrying a club, a man "
+        "carrying a sack of ashes, a man merely apologizing before a crowd. Each maps to a grade of "
+        "monastic offense, from the most severe to the mildest, and the teaching is not really "
+        "about punishment at all &mdash; it is about what a bystander concludes from watching "
+        "someone else pay a price."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A monk or nun who has developed a keen sense of the peril in each grade of offense "
+            "can be expected either not to commit it, or, having committed it, to deal with it "
+            "properly."]),
+        ("Four offenses, four graded similes", [
+            "<em>Pārājika</em>, expulsion offenses, matched to a bandit publicly executed. "
+            "<em>Saṅghādisesa</em>, offenses requiring a formal meeting to resolve, matched to a "
+            "man who publicly submits to being clubbed. <em>Pācittiya</em>, offenses requiring "
+            "confession, matched to a man carrying a sack of ashes as a mark of shame. And "
+            "<em>pāṭidesanīya</em>, offenses requiring simple acknowledgment, matched to a man "
+            "merely presenting himself for criticism, with no prop at all.",
+            "The four similes are graded with real precision: execution, then clubbing, then "
+            "carrying ashes, then unadorned public confession, each stripped of one more piece of "
+            "visible severity than the last. This is not four interchangeable warnings; it is a "
+            "scale, built to match the actual seven-tier Vinaya hierarchy of offenses at its four "
+            "most commonly invoked levels."]),
+        ("The mechanism: vicarious deterrence", [
+            "In each simile, the point is not the punished man&rsquo;s experience but a bystander&rsquo;s "
+            "reasoning: <em>this man must have done a truly bad and reprehensible deed&hellip; "
+            "there&rsquo;s no way I&rsquo;d ever do such a thing</em>. The discourse&rsquo;s claim "
+            "is that a monastic who has internalized this same reaction toward each grade of "
+            "offense &mdash; not from personally suffering the consequence, but from vividly "
+            "imagining it &mdash; gains real protection against ever committing it.",
+            "This is worth naming for what kind of psychological claim it is. It does not ask for "
+            "fear of external punishment as the operative deterrent, since most of these offenses "
+            "carry no punishment resembling execution or clubbing in practice. It asks for an "
+            "internalized, almost visceral sense of peril, cultivated through the imagined scene "
+            "rather than through any actual threat."]),
+        ("What the discourse promises, precisely", [
+            "The promise given for each grade is identical in structure and worth reading exactly: "
+            "<em>if they haven&rsquo;t committed the offense they won&rsquo;t, and if they "
+            "committed one they will deal with it properly</em>. This is not a claim of "
+            "perfection. It allows for the offense to have already occurred, and directs its "
+            "confidence not at prevention alone but at proper response afterward &mdash; "
+            "confession, acknowledgment, or the appropriate formal process, matched to the "
+            "severity of what happened."]),
+        ("A discourse that names its own chapter", [
+            "<em>Āpattibhaya</em>, &lsquo;peril of offenses&rsquo;, gives the Āpattibhayavagga its "
+            "name, and having read it in full, the chapter&rsquo;s opening discourse, AN 4.243, is "
+            "worth revisiting briefly: a monk relishing schism because a divided community "
+            "won&rsquo;t expel him is, in the vocabulary this discourse supplies, exactly the "
+            "opposite case &mdash; someone with no acute perception of peril at all, calculating "
+            "how to avoid consequence rather than internalizing it."]),
+    ],
+    terms=[
+        ("pārājika",
+         "&ldquo;defeat, expulsion&rdquo; &mdash; the gravest grade of monastic offense, matched "
+         "here to public execution."),
+        ("saṅghādisesa",
+         "&ldquo;requiring an initial and subsequent meeting of the Saṅgha&rdquo; &mdash; the "
+         "second grade, matched to public submission to clubbing."),
+        ("pācittiya",
+         "&ldquo;requiring confession&rdquo; &mdash; the third grade, matched to carrying a sack "
+         "of ashes."),
+        ("pāṭidesanīya",
+         "&ldquo;requiring acknowledgment&rdquo; &mdash; the fourth and mildest grade named here, "
+         "matched to simple public criticism with no prop."),
+        ("tibbā bhayasaññā",
+         "&ldquo;an acute perception of peril&rdquo; &mdash; the internal state this discourse "
+         "holds up as protective, cultivated through vivid imagination rather than actual "
+         "punishment."),
+    ],
+    text_intro=(
+        "The discourse in full: four graded similes, each matched to a grade of monastic offense. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first peril: expulsion offenses"),
+        ("p", "&sect;1", "an4.244:1.1-1.13"),
+        ("h3", "The second peril: offenses requiring a meeting"),
+        ("p", "&sect;2", "an4.244:2.1-2.8"),
+        ("h3", "The third peril: confessable offenses"),
+        ("p", "&sect;3", "an4.244:3.1-3.10"),
+        ("h3", "The fourth peril: offenses requiring acknowledgment"),
+        ("p", "&sect;4", "an4.244:4.1-4.11"),
+    ],
+    quiz=[
+        {"q": "What four grades of monastic offense does this discourse address?",
+         "opts": [
+             "The five precepts, broken in four ways",
+             "Pārājika, saṅghādisesa, pācittiya, and pāṭidesanīya, from most to least severe",
+             "The ten courses of action",
+             "Four unrelated ethical categories"],
+         "correct": 1,
+         "expl": "The source of this chapter's own name."},
+        {"q": "What simile is matched to the gravest grade, pārājika?",
+         "opts": [
+             "A man carrying a sack of ashes",
+             "A bandit publicly executed",
+             "A man submitting to public criticism",
+             "A man clubbed before a crowd"],
+         "correct": 1,
+         "expl": "The most severe consequence, for the most severe offense."},
+        {"q": "What is the actual point of each simile, according to the guide?",
+         "opts": [
+             "The punished person's own suffering",
+             "A bystander's reasoning: watching someone else pay a price and concluding they would never do such a thing",
+             "A legal argument about proper sentencing",
+             "A historical account of an actual case"],
+         "correct": 1,
+         "expl": "Vicarious deterrence through vividly imagined consequence."},
+        {"q": "What kind of deterrent does the guide say this discourse actually asks for?",
+         "opts": [
+             "Fear of literal execution or clubbing for ordinary offenses",
+             "An internalized, almost visceral sense of peril, cultivated through imagination rather than actual threat",
+             "No deterrent at all; the discourse is purely descriptive",
+             "Fear of social embarrassment only"],
+         "correct": 1,
+         "expl": "Most of these offenses carry no punishment resembling the similes in practice."},
+        {"q": "What exactly does the discourse promise for someone with this acute perception of peril?",
+         "opts": [
+             "Perfect, permanent freedom from ever committing any offense",
+             "That if they haven't committed the offense they won't, and if they have, they will deal with it properly",
+             "Immediate expulsion regardless of conduct",
+             "Nothing specific is promised"],
+         "correct": 1,
+         "expl": "Confidence in prevention or in proper response, not a claim of perfection."},
+        {"q": "How does the guide connect this discourse back to AN 4.243?",
+         "opts": [
+             "No connection is drawn",
+             "The monk who relishes schism at AN 4.243 is the opposite case: someone calculating how to avoid consequence rather than internalizing peril",
+             "AN 4.243 and this discourse describe the same historical event",
+             "This discourse contradicts AN 4.243"],
+         "correct": 1,
+         "expl": "A useful contrast between internalized peril and calculated evasion."},
+        {"q": "What does <em>pāṭidesanīya</em> mean?",
+         "opts": [
+             "Requiring expulsion",
+             "Requiring acknowledgment &mdash; the mildest of the four grades named here",
+             "Requiring a formal meeting",
+             "Requiring confession before the full assembly"],
+         "correct": 1,
+         "expl": "Matched to the simplest simile: a man simply presenting himself for criticism."},
+        {"q": "How are the four similes graded relative to each other, per the guide?",
+         "opts": [
+             "Randomly, with no consistent scale",
+             "With real precision, each stripped of one more piece of visible severity than the last",
+             "All four are identical in severity",
+             "The order is reversed from the offense grades they represent"],
+         "correct": 1,
+         "expl": "Execution, then clubbing, then ashes, then unadorned confession."},
+        {"q": "What phrase names the internal state this discourse holds up as protective?",
+         "opts": [
+             "Kammakkhaya",
+             "Tibbā bhayasaññā, an acute perception of peril",
+             "Cetanā",
+             "Sāvajja"],
+         "correct": 1,
+         "expl": "Set up in each of the four similes before its application to monastic offense."},
+        {"q": "What does this discourse's title give the chapter?",
+         "opts": [
+             "Nothing in particular",
+             "Its name, <em>Āpattibhayavagga</em>",
+             "A location",
+             "A different chapter's name entirely"],
+         "correct": 1,
+         "expl": "The chapter is named after this discourse, as is standard across the collection."},
+    ],
+    marginalia=[
+        ("Four grades, four similes", [
+            "pārājika &middot; execution",
+            "saṅghādisesa &middot; clubbing",
+            "pācittiya &middot; ashes",
+            "pāṭidesanīya &middot; criticism",
+        ]),
+        ("The mechanism", [
+            "watching another pay a price;",
+            "concluding: never me",
+        ]),
+        ("Not perfection, but response", [
+            "prevent it, or",
+            "deal with it properly",
+        ]),
+        ("A contrast with AN 4.243", [
+            "acute peril, internalized &mdash;",
+            "vs. calculated evasion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.244/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.243.html">AN 4.243 &middot; Schism in the Saṅgha</a> &mdash; the discourse this one contrasts in its treatment of consequence.',
+        '<a href="an-4.236.html">AN 4.236 &middot; Training Rules (2nd)</a> &mdash; on the gravest offenses of all, the <em>ānantarika-kamma</em>.',
+        '<a href="an-4.245.html">AN 4.245 &middot; The Benefits of Training</a> &mdash; next, on training as one of four supports for the spiritual life.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.245 — Sikkhānisaṁsasutta
+# --------------------------------------------------------------------------- #
+page(
+    245, "Sikkhānisaṁsa", "The Benefits of Training",
+    vagga=VAGGA_25,
+    meta_title="AN 4.245 — The Benefits of Training | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sikkhānisaṁsasutta, "
+        "describing the spiritual life through four architectural roles &mdash; training as "
+        "benefit, wisdom as overseer, freedom as core, and mindfulness as ruler &mdash; and "
+        "closing with the Buddha's own explanation of why he said it. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "A single compact statement, unpacked term by term, closing with the Buddha's own "
+                 "stated reason for the teaching"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; abstract in its terms, "
+                       "precise in what each one is doing"),
+    ],
+    why=(
+        "Four different roles, held by four different qualities, in a single sentence describing "
+        "the whole of the spiritual life: training as its benefit, wisdom as its overseer, freedom "
+        "as its core, and mindfulness as its ruler. Each term does a distinct job, and the "
+        "discourse spells out exactly what that job is before closing with a rare formula: "
+        "<em>that's what I said, and this is why I said it</em>."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The spiritual life has training as its benefit, wisdom as its overseer, freedom as "
+            "its core, and mindfulness as its ruler &mdash; four distinct architectural roles, not "
+            "four equivalent virtues."]),
+        ("Training as benefit: two tiers of undertaking", [
+            "<em>Sikkhānisaṁsa</em>. The discourse distinguishes two kinds of training: "
+            "<em>abhisamācārikā sikkhā</em>, supplementary regulations, laid down to inspire and "
+            "increase confidence in the community; and training in <em>the fundamentals of the "
+            "spiritual life</em>, laid down to end suffering directly. Both are described as kept "
+            "&lsquo;intact, impeccable, spotless, and unmarred&rsquo; &mdash; the benefit named is "
+            "not merely having rules but keeping them without compromise, at both the "
+            "supplementary and the fundamental level."]),
+        ("Wisdom as overseer, freedom as core", [
+            "<em>Paññādhipateyya</em>, wisdom&rsquo;s oversight, is defined narrowly and precisely: "
+            "disciples <em>examine with wisdom</em> whatever the Buddha has taught them. Wisdom "
+            "does not generate the teaching; it inspects it. <em>Vimuttisāra</em>, freedom as core, "
+            "is defined just as narrowly: disciples <em>experience through freedom</em> whatever "
+            "has been taught. Where wisdom checks a teaching, freedom is where a teaching, once "
+            "verified, is actually lived out and known directly.",
+            "This pairing is worth comparing with AN 4.150, several chapters back, which also used "
+            "<em>sāra</em>, core or pith, for freedom &mdash; the same architectural image "
+            "recurring for what a spiritual life is ultimately built around."]),
+        ("Mindfulness as ruler: holding the other three together", [
+            "<em>Satādhipateyya</em>, mindfulness&rsquo;s rulership, is not a fourth independent "
+            "quality alongside the other three. It is defined entirely in terms of them: "
+            "mindfulness established on fulfilling training already begun, examining teachings not "
+            "yet examined, and experiencing through freedom what has not yet been experienced. "
+            "Mindfulness rules the other three the way an administrator rules a project, not by "
+            "adding new content but by keeping each of the other roles moving and coordinated.",
+            "Read this way, the four terms are not a flat list of virtues to be developed "
+            "separately. They are a structure: training supplies the benefit, wisdom checks it, "
+            "freedom completes it, and mindfulness runs the whole operation."]),
+        ("&lsquo;That's what I said, and this is why I said it&rsquo;", [
+            "The discourse closes by restating its opening sentence and then explicitly labelling "
+            "everything between as the explanation for it. This closing formula is not decorative. "
+            "It marks the discourse as a piece of reasoned exposition rather than a simple "
+            "declaration &mdash; a claim followed by its own justification, offered as a unit."]),
+    ],
+    terms=[
+        ("sikkhānisaṁsa",
+         "&ldquo;training as benefit&rdquo; &mdash; the first of four architectural roles, "
+         "covering both supplementary regulations and the fundamentals of the spiritual life."),
+        ("paññādhipateyya",
+         "&ldquo;wisdom as overseer&rdquo; &mdash; the role of examining, not generating, what "
+         "has been taught."),
+        ("vimuttisāra",
+         "&ldquo;freedom as core&rdquo; &mdash; where a verified teaching is actually lived out "
+         "and known directly, echoing the <em>sāra</em> imagery of AN 4.150."),
+        ("satādhipateyya",
+         "&ldquo;mindfulness as ruler&rdquo; &mdash; not a fourth independent virtue but the "
+         "coordination of the other three roles."),
+        ("abhisamācārikā sikkhā",
+         "&ldquo;supplementary regulations&rdquo; &mdash; training distinguished from the "
+         "fundamentals of the spiritual life, laid down specifically to inspire confidence in the "
+         "community."),
+    ],
+    text_intro=(
+        "The discourse in full: the opening statement, each of the four roles unpacked, and the "
+        "closing restatement. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The statement"),
+        ("p", "&sect;1", "an4.245:1.1-1.2"),
+        ("h3", "Training as benefit"),
+        ("p", "&sect;2", "an4.245:1.3-2.3"),
+        ("h3", "Wisdom as overseer"),
+        ("p", "&sect;3", "an4.245:3.1-3.4"),
+        ("h3", "Freedom as core"),
+        ("p", "&sect;4", "an4.245:4.1-4.4"),
+        ("h3", "Mindfulness as ruler"),
+        ("p", "&sect;5", "an4.245:5.1-5.8"),
+    ],
+    quiz=[
+        {"q": "What four roles does this discourse assign to the spiritual life?",
+         "opts": [
+             "The five precepts, the eightfold path, the four noble truths, and the three trainings",
+             "Training as benefit, wisdom as overseer, freedom as core, and mindfulness as ruler",
+             "Faith, ethics, learning, and energy",
+             "The four kinds of deeds"],
+         "correct": 1,
+         "expl": "Four distinct architectural roles, not four equivalent virtues."},
+        {"q": "What two kinds of training does the discourse distinguish under \"training as benefit\"?",
+         "opts": [
+             "Monastic and lay training",
+             "Supplementary regulations and the fundamentals of the spiritual life",
+             "Bodily and verbal training",
+             "Training for monks and training for nuns"],
+         "correct": 1,
+         "expl": "Both kept \"intact, impeccable, spotless, and unmarred.\""},
+        {"q": "How is wisdom's role defined in this discourse?",
+         "opts": [
+             "Generating new teachings",
+             "Examining whatever has already been taught",
+             "Memorizing the teachings word for word",
+             "Debating with other traditions"],
+         "correct": 1,
+         "expl": "Wisdom checks a teaching rather than producing it."},
+        {"q": "How does the guide connect \"freedom as core\" to an earlier discourse in this series?",
+         "opts": [
+             "No connection is drawn",
+             "AN 4.150 also used <em>sāra</em>, core or pith, for freedom, the same architectural image recurring",
+             "AN 4.211 uses identical language",
+             "AN 4.1 rejects this framing"],
+         "correct": 1,
+         "expl": "Several chapters back, using the same image of what a spiritual life is built around."},
+        {"q": "What does the guide say distinguishes mindfulness's role from the other three?",
+         "opts": [
+             "It is a completely independent fourth virtue",
+             "It is defined entirely in terms of the other three, coordinating rather than adding new content",
+             "It replaces the need for training, wisdom, and freedom",
+             "It has no defined role in this discourse"],
+         "correct": 1,
+         "expl": "Like an administrator running a project, not a separate ingredient."},
+        {"q": "What closing formula does this discourse use?",
+         "opts": [
+             "A dedication of merit",
+             "\"That's what I said, and this is why I said it\"",
+             "A verse of praise",
+             "No closing formula is used"],
+         "correct": 1,
+         "expl": "Marking the discourse as reasoned exposition rather than simple declaration."},
+        {"q": "Why were supplementary regulations laid down, according to this discourse?",
+         "opts": [
+             "To punish wrongdoing after the fact",
+             "To inspire confidence in those without it and increase confidence in those who have it",
+             "To distinguish monks from nuns",
+             "No reason is given"],
+         "correct": 1,
+         "expl": "Distinct from the fundamentals, laid down to end suffering directly."},
+        {"q": "What is freedom's role, precisely, according to this discourse?",
+         "opts": [
+             "Checking whether a teaching is accurate",
+             "Experiencing through freedom whatever has been taught, once it has been verified",
+             "Laying down new rules",
+             "Coordinating the other three roles"],
+         "correct": 1,
+         "expl": "Where a teaching, once wisdom has verified it, is actually lived out and known directly."},
+        {"q": "How does the guide describe the overall relationship between the four terms?",
+         "opts": [
+             "A flat list of unrelated virtues",
+             "A structure: training supplies the benefit, wisdom checks it, freedom completes it, mindfulness runs the whole operation",
+             "Four names for the identical single quality",
+             "A ranking from least to most important"],
+         "correct": 1,
+         "expl": "Each term doing a distinct, specified job."},
+        {"q": "What does mindfulness's rulership specifically involve, per the discourse's own wording?",
+         "opts": [
+             "Establishing itself on fulfilling training, examining unexamined teachings, and experiencing what has not yet been experienced",
+             "Replacing wisdom entirely",
+             "A separate meditation practice unrelated to the other three roles",
+             "Nothing specific; the term is left undefined"],
+         "correct": 1,
+         "expl": "Defined entirely in relation to the other three roles it coordinates."},
+    ],
+    marginalia=[
+        ("Four roles, not four virtues", [
+            "training &middot; benefit",
+            "wisdom &middot; overseer",
+            "freedom &middot; core",
+            "mindfulness &middot; ruler",
+        ]),
+        ("Wisdom checks; freedom lives", [
+            "examine with wisdom,",
+            "experience through freedom",
+        ]),
+        ("A shared image", [
+            "vimuttisāra &middot; AN 4.245",
+            "sāra &middot; AN 4.150",
+        ]),
+        ("Mindfulness, coordinating", [
+            "not a fourth ingredient,",
+            "but the one running the rest",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.245/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.150.html">AN 4.150 &middot; Essentials</a> &mdash; sharing the <em>sāra</em> image this discourse applies to freedom.',
+        '<a href="an-4.244.html">AN 4.244 &middot; Perils of Offenses</a> &mdash; on the training this discourse names as a benefit.',
+        '<a href="an-4.246.html">AN 4.246 &middot; Lying Postures</a> &mdash; next, a vivid, image-based teaching of a different kind entirely.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.246 — Seyyāsutta
+# --------------------------------------------------------------------------- #
+page(
+    246, "Seyyā", "Lying Postures",
+    vagga=VAGGA_25,
+    meta_title="AN 4.246 — Lying Postures | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Seyyāsutta, four vivid "
+        "images of how a body lies down &mdash; corpse, pleasure seeker, lion, and Realized One "
+        "&mdash; ending with the surprise that the Realized One's posture is not physical at all. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "Four vivid images, three physical and specific, the fourth a reversal"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The lion's posture as a model for mindful sleep is a recurring "
+                              "image across the Nikāyas and later monastic literature; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; simple and memorable, with a "
+                       "genuine twist at the end"),
+    ],
+    why=(
+        "How does a corpse lie down? On its back. A pleasure seeker? On the left side. A lion, king "
+        "of beasts? On the right, precisely, checking its own body on waking. And a Realized One? "
+        "The discourse builds three concrete, physical answers and then breaks its own pattern: "
+        "the Buddha&rsquo;s way of &lsquo;lying down&rsquo; is not a posture of the body at all, "
+        "but absorption in the four jhānas."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are four ways of lying down &mdash; the corpse's, the pleasure seeker's, the "
+            "lion's, and the Realized One's &mdash; and the fourth turns out not to be about the "
+            "body's position."]),
+        ("Three postures, precisely observed", [
+            "A corpse lies flat on its back, the discourse&rsquo;s baseline image of complete "
+            "passivity. A pleasure seeker lies on the left side &mdash; a posture the tradition "
+            "elsewhere associates with indulgence and a lack of discipline in how one takes rest. "
+            "A lion lies on its right side, one foot placed precisely over the other, tail tucked "
+            "between its thighs, and &mdash; the detail that makes the image memorable &mdash; "
+            "checks its own body on waking, displeased if anything is disordered, pleased if "
+            "nothing is.",
+            "The lion&rsquo;s posture is not incidental description. It is the posture the "
+            "monastic tradition prescribes for a mendicant&rsquo;s own rest, still known as the "
+            "&lsquo;lion&rsquo;s posture&rsquo;, <em>sīhaseyya</em>, lying on the right side with "
+            "one leg over the other, practised with mindfulness of when to rise. The simile is not "
+            "abstract; it describes the discipline a listener may already be attempting to embody."]),
+        ("The pattern broken", [
+            "Having built a sequence of three real, physical postures, each more disciplined than "
+            "the last, the discourse&rsquo;s fourth answer does not complete the sequence with an "
+            "even more disciplined posture. It abandons the category of posture altogether: "
+            "<em>a Realized One, quite secluded from sensual pleasures&hellip; enters and remains "
+            "in the first absorption&hellip; second&hellip; third&hellip; fourth</em>. This is a "
+            "description of meditative attainment, not of how a body is arranged.",
+            "The effect depends on the break. A listener led through three postures naturally "
+            "expects a fourth posture, and receives instead an account of jhāna. The discourse is, "
+            "in a sense, using the frame of &lsquo;lying down&rsquo; ironically: the Realized "
+            "One&rsquo;s true repose is not physical rest at all, but a state of mind."]),
+        ("Why call absorption a way of &lsquo;lying down&rsquo;", [
+            "Read generously, the final image is not simply a joke at the pattern&rsquo;s expense. "
+            "Lying down is, across the first three images, associated with vulnerability, "
+            "indulgence, or vigilant self-maintenance. Naming the four jhānas as the fourth kind of "
+            "&lsquo;lying down&rsquo; suggests that meditative absorption is where a Realized One "
+            "is most fully at rest &mdash; not defenseless like a corpse, not indulgent like a "
+            "pleasure seeker, and not merely vigilant like a lion, but genuinely, completely settled."]),
+    ],
+    terms=[
+        ("sīhaseyya",
+         "&ldquo;the lion's posture&rdquo; &mdash; lying on the right side with one leg over the "
+         "other, the posture the monastic tradition prescribes for a mendicant's own rest."),
+        ("kāmabhogī",
+         "&ldquo;pleasure seeker&rdquo; &mdash; associated in this discourse with lying on the "
+         "left side, a posture linked elsewhere to indulgence."),
+        ("jhāna",
+         "&ldquo;absorption&rdquo; &mdash; the four states the Realized One is described as "
+         "entering, standing in for physical posture entirely in this discourse's fourth image."),
+        ("paṭhamaṁ jhānaṁ&hellip;catutthaṁ jhānaṁ",
+         "&ldquo;the first absorption&hellip;the fourth absorption&rdquo; &mdash; the four "
+         "progressively refined states named as the Realized One's way of &lsquo;lying down&rsquo;."),
+        ("tathāgata",
+         "&ldquo;the Realized One&rdquo; &mdash; the fourth figure in this discourse's sequence, "
+         "whose repose is described as meditative rather than physical."),
+    ],
+    text_intro=(
+        "The discourse in full: the four ways of lying down. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The corpse"),
+        ("p", "&sect;1", "an4.246:1.1-1.6"),
+        ("h3", "The pleasure seeker"),
+        ("p", "&sect;2", "an4.246:2.1-2.3"),
+        ("h3", "The lion"),
+        ("p", "&sect;3", "an4.246:3.1-3.6"),
+        ("h3", "The Realized One"),
+        ("p", "&sect;4", "an4.246:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What four ways of lying down does this discourse name?",
+         "opts": [
+             "Standing, sitting, walking, and lying",
+             "The corpse's, the pleasure seeker's, the lion's, and the Realized One's",
+             "Four grades of monastic offense",
+             "Four kinds of meditation only"],
+         "correct": 1,
+         "expl": "Three physical postures, then a fourth that breaks the pattern."},
+        {"q": "How does a lion lie down, according to this discourse?",
+         "opts": [
+             "On its back, like a corpse",
+             "On its right side, one foot over the other, tail tucked between its thighs, checking its body on waking",
+             "On its left side, like a pleasure seeker",
+             "Standing up"],
+         "correct": 1,
+         "expl": "Still known in the monastic tradition as <em>sīhaseyya</em>, the lion's posture."},
+        {"q": "What is <em>sīhaseyya</em>?",
+         "opts": [
+             "A term for a corpse's posture",
+             "The lion's posture, prescribed for a mendicant's own rest",
+             "A term unrelated to sleep or rest",
+             "A specific meditation technique unrelated to posture"],
+         "correct": 1,
+         "expl": "Not abstract description; the actual discipline a listener may be attempting to embody."},
+        {"q": "How does the discourse's fourth answer break the pattern of the first three?",
+         "opts": [
+             "It describes an even more disciplined physical posture",
+             "It abandons physical posture entirely, describing meditative absorption in the four jhānas instead",
+             "It repeats the lion's posture exactly",
+             "It describes no posture and gives no content at all"],
+         "correct": 1,
+         "expl": "A listener expecting a fourth posture receives an account of jhāna instead."},
+        {"q": "What does the guide suggest is the effect of this broken pattern?",
+         "opts": [
+             "It is simply an error in the text",
+             "It suggests meditative absorption is where a Realized One is most fully and genuinely at rest",
+             "It suggests the Realized One never rests at all",
+             "It has no particular effect or meaning"],
+         "correct": 1,
+         "expl": "Not defenseless like a corpse, not indulgent like a pleasure seeker, not merely vigilant like a lion."},
+        {"q": "What posture is associated with a pleasure seeker in this discourse?",
+         "opts": [
+             "The right side",
+             "The left side, linked elsewhere to indulgence",
+             "Flat on the back",
+             "No posture is specified"],
+         "correct": 1,
+         "expl": "The second of the three physical postures, before the lion's more disciplined one."},
+        {"q": "What detail makes the lion's posture memorable, per the guide?",
+         "opts": [
+             "The lion snores loudly",
+             "The lion checks its own body on waking, displeased if disordered, pleased if not",
+             "The lion never actually lies down",
+             "No specific detail is given"],
+         "correct": 1,
+         "expl": "A vigilant self-maintenance distinguishing it from the corpse's passivity and the pleasure seeker's indulgence."},
+        {"q": "How many absorptions are named for the Realized One's \"lying down\"?",
+         "opts": [
+             "Two",
+             "Four, from first to fourth",
+             "One only",
+             "Eight"],
+         "correct": 1,
+         "expl": "The four progressively refined jhānas."},
+        {"q": "What does the guide say about reading the fourth image as ironic?",
+         "opts": [
+             "It rejects any ironic reading entirely",
+             "It reads the break as more than a joke: absorption as the deepest form of rest, contrasted with the first three images",
+             "It says the fourth image has no relationship to the first three",
+             "It says the discourse is incomplete without a fourth posture"],
+         "correct": 1,
+         "expl": "A generous reading that takes the reversal seriously as content, not just as wordplay."},
+        {"q": "What baseline image does the discourse use to open its sequence?",
+         "opts": [
+             "The lion",
+             "The corpse, lying flat on its back",
+             "The Realized One",
+             "The pleasure seeker"],
+         "correct": 1,
+         "expl": "Complete passivity, the starting point the other three images progressively depart from."},
+    ],
+    marginalia=[
+        ("Four postures, one twist", [
+            "corpse &middot; on the back",
+            "pleasure seeker &middot; left side",
+            "lion &middot; right side, precise",
+            "Realized One &middot; jhāna, not posture",
+        ]),
+        ("A real monastic discipline", [
+            "sīhaseyya &mdash;",
+            "still practiced today",
+        ]),
+        ("The pattern, broken deliberately", [
+            "three postures expected,",
+            "a state of mind given instead",
+        ]),
+        ("Rest, redefined", [
+            "not passive, not indulgent,",
+            "not merely vigilant &mdash;",
+            "fully settled",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.246/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.245.html">AN 4.245 &middot; The Benefits of Training</a> &mdash; the more abstract, architectural discourse this one contrasts with.',
+        '<a href="an-4.241.html">AN 4.241 &middot; Ascetics</a> &mdash; another discourse using the lion as its central image, there for a roar rather than a resting posture.',
+        '<a href="an-4.247.html">AN 4.247 &middot; Worthy of a Monument</a> &mdash; next, a short list of four figures.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.247 — Thūpārahasutta
+# --------------------------------------------------------------------------- #
+page(
+    247, "Thūpāraha", "Worthy of a Monument",
+    vagga=VAGGA_25,
+    meta_title="AN 4.247 — Worthy of a Monument | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Thūpārahasutta, naming "
+        "four figures worthy of a memorial stūpa &mdash; three of them fully awakened, and the "
+        "fourth a purely secular monarch, given equal standing. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, stated once with no elaboration"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Lists of stūpa-worthy figures appear elsewhere in the Nikāyas and "
+                              "in later commentarial literature; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief, but its fourth item is "
+                       "worth pausing on"),
+    ],
+    why=(
+        "Four figures the discourse says are worthy of a memorial monument, a <em>thūpa</em>: a "
+        "fully awakened Buddha, an Independent Buddha, a disciple who has awakened by following a "
+        "Buddha's teaching, and a wheel-turning monarch. The first three share the same basic "
+        "achievement in different degrees; the fourth shares none of it, and its presence on the "
+        "list is the discourse's most interesting feature."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A monument is fitting for a Buddha, an Independent Buddha, an awakened disciple, or a "
+            "wheel-turning monarch."]),
+        ("Three awakened figures, one scale", [
+            "<em>Sammāsambuddha</em>, a fully awakened Buddha who discovers the path and teaches "
+            "it; <em>paccekabuddha</em>, an Independent Buddha who awakens without a teacher but "
+            "does not found a teaching for others; and <em>sāvaka</em>, a disciple who awakens by "
+            "following a Buddha's teaching. These three sit on a single scale of the same "
+            "achievement, distinguished by whether the path was discovered or received, and "
+            "whether it was then taught onward."]),
+        ("A fourth figure who shares none of that", [
+            "The <em>cakkavatti</em>, the wheel-turning monarch, is not awakened in any sense the "
+            "other three share. This is a figure from the tradition&rsquo;s political imagination: "
+            "an ideal ruler whose reign is just, whose authority extends without conquest by force, "
+            "and who governs by principle rather than by the sword. Placed fourth on this list, a "
+            "purely secular figure of merit is given the same physical honor, a monument, as three "
+            "figures whose accomplishment is liberation itself."]),
+        ("Why the pairing is worth taking seriously rather than explaining away", [
+            "It would be tempting to read the wheel-turning monarch&rsquo;s inclusion as symbolic "
+            "or honorary, a courtesy extended to political power rather than a genuine parallel. "
+            "The discourse gives no such qualification. It states the four together, without "
+            "ranking, and lets the list stand as it is: the tradition recognized more than one kind "
+            "of achievement as worthy of permanent public memory, and one of those kinds was purely "
+            "this-worldly, purely a matter of how a person exercised power over others."]),
+        ("What a monument is for", [
+            "A <em>thūpa</em> is a physical structure, typically enshrining relics, built to be "
+            "visited, circumambulated, and remembered by. Naming who deserves one is, in effect, "
+            "naming what a community should organize its collective memory and devotion around "
+            "&mdash; and this discourse&rsquo;s answer includes both the end of suffering and the "
+            "just exercise of worldly power as things worth building a monument to."]),
+    ],
+    terms=[
+        ("thūpa",
+         "&ldquo;monument, stūpa&rdquo; &mdash; a structure typically enshrining relics, built for "
+         "visitation and remembrance."),
+        ("sammāsambuddha",
+         "&ldquo;a fully awakened Buddha&rdquo; &mdash; one who discovers the path independently "
+         "and teaches it to others."),
+        ("paccekabuddha",
+         "&ldquo;an Independent Buddha&rdquo; &mdash; one who awakens without a teacher but does "
+         "not found a teaching for others to follow."),
+        ("sāvaka",
+         "&ldquo;disciple&rdquo; &mdash; here, one who has reached awakening by following a "
+         "Buddha's teaching."),
+        ("cakkavatti",
+         "&ldquo;wheel-turning monarch&rdquo; &mdash; an ideal just ruler, a purely secular figure "
+         "given equal standing on this list with three fully awakened ones."),
+    ],
+    text_intro=(
+        "The discourse in full: the four worthy of a monument. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four worthy of a monument"),
+        ("p", "&sect;1", "an4.247:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What four figures does this discourse name as worthy of a monument?",
+         "opts": [
+             "A Buddha, an Independent Buddha, a disciple, and a wheel-turning monarch",
+             "Only fully awakened Buddhas",
+             "The four stages of awakening",
+             "The four kinds of ascetic from AN 4.241"],
+         "correct": 1,
+         "expl": "Three awakened figures and one purely secular one."},
+        {"q": "What distinguishes the three awakened figures from each other?",
+         "opts": [
+             "Nothing; they are identical",
+             "Whether the path was discovered or received, and whether it was then taught onward",
+             "Their physical appearance",
+             "Their gender"],
+         "correct": 1,
+         "expl": "A single scale of the same basic achievement, in different configurations."},
+        {"q": "What is a <em>cakkavatti</em>?",
+         "opts": [
+             "A meditation teacher",
+             "An ideal wheel-turning monarch, a purely secular figure",
+             "A term for an awakened disciple",
+             "A term for a stūpa"],
+         "correct": 1,
+         "expl": "Whose reign is just and whose authority does not rely on conquest by force."},
+        {"q": "How does the guide say this discourse's inclusion of the monarch should be read?",
+         "opts": [
+             "As merely symbolic or honorary, not a genuine parallel",
+             "As stated plainly and without qualification &mdash; a purely secular achievement given equal standing",
+             "As a scribal error that should be disregarded",
+             "As proof the monarch is secretly awakened too"],
+         "correct": 1,
+         "expl": "The discourse gives no qualification distinguishing the fourth figure's standing from the other three."},
+        {"q": "What does the guide say this list suggests about what a community should memorialize?",
+         "opts": [
+             "Only religious achievement",
+             "Both the end of suffering and the just exercise of worldly power",
+             "Only political achievement",
+             "Nothing in particular; the list has no larger significance"],
+         "correct": 1,
+         "expl": "More than one kind of achievement recognized as worthy of permanent public memory."},
+        {"q": "What is a <em>thūpa</em>?",
+         "opts": [
+             "A meditation posture",
+             "A monument, typically enshrining relics, built for visitation and remembrance",
+             "A type of ordination ceremony",
+             "A monastic robe"],
+         "correct": 1,
+         "expl": "A physical structure organizing collective memory and devotion."},
+        {"q": "What is a <em>paccekabuddha</em>?",
+         "opts": [
+             "A disciple who learns from a teacher",
+             "One who awakens without a teacher but does not found a teaching for others",
+             "A wheel-turning monarch",
+             "A synonym for a fully awakened Buddha"],
+         "correct": 1,
+         "expl": "The second of the three awakened figures on this list."},
+        {"q": "How does this discourse rank its four figures?",
+         "opts": [
+             "From most to least important, explicitly",
+             "It states them together without ranking",
+             "Alphabetically",
+             "By date of appearance in the canon"],
+         "correct": 1,
+         "expl": "The list stands as given, without qualification."},
+        {"q": "What kind of achievement does the <em>sāvaka</em> represent on this list?",
+         "opts": [
+             "Political power",
+             "Awakening reached by following a Buddha's teaching",
+             "Wealth and status",
+             "Literary skill"],
+         "correct": 1,
+         "expl": "The third of the three awakened figures, distinguished by having received rather than discovered the path."},
+        {"q": "What does the guide identify as this discourse's most interesting feature?",
+         "opts": [
+             "Its length",
+             "The presence of a purely secular figure, the monarch, alongside three awakened ones",
+             "Its narrative setting",
+             "Its use of a formula from earlier in the collection"],
+         "correct": 1,
+         "expl": "Worth pausing on rather than explaining away."},
+    ],
+    marginalia=[
+        ("Four worthy of a monument", [
+            "Buddha &middot; Independent Buddha",
+            "disciple &middot; wheel-turning monarch",
+        ]),
+        ("Three on one scale", [
+            "discovered, and taught;",
+            "discovered, not taught;",
+            "received, and awakened",
+        ]),
+        ("A fourth, unlike the rest", [
+            "no awakening at all &mdash;",
+            "just rule, honored equally",
+        ]),
+        ("What memory is built around", [
+            "the end of suffering, and",
+            "the just use of power",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.247/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.241.html">AN 4.241 &middot; Ascetics</a> &mdash; the four stages of awakening this discourse&rsquo;s first three figures relate to.',
+        '<a href="an-4.246.html">AN 4.246 &middot; Lying Postures</a> &mdash; the discourse immediately before this one.',
+        '<a href="an-4.248.html">AN 4.248 &middot; The Growth of Wisdom</a> &mdash; next, on what actually produces wisdom.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.248 — Paññāvuddhisutta
+# --------------------------------------------------------------------------- #
+page(
+    248, "Paññāvuddhi", "The Growth of Wisdom",
+    vagga=VAGGA_25,
+    meta_title="AN 4.248 — The Growth of Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paññāvuddhisutta, naming "
+        "four causes of wisdom's growth &mdash; association with a true person, hearing the true "
+        "teaching, rational reflection, and practice &mdash; a foundational sequence repeated "
+        "verbatim at the very next discourse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, stated once"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This four-item sequence is foundational and widely cited across "
+                              "Buddhist traditions; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and worth memorizing "
+                       "as a unit"),
+    ],
+    why=(
+        "Four things lead to the growth of wisdom: associating with a true person, hearing the "
+        "true teaching, applying the mind rationally, and practicing in line with what has been "
+        "learned. This is a compact causal sequence, moving from an external relationship inward "
+        "to a person's own mental habit and then out again into sustained practice, and it is "
+        "worth reading as one continuous chain rather than four independent items."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Wisdom grows through relying on a true person, hearing the true teaching from them, "
+            "applying the mind to it rationally, and then practicing in line with what has been "
+            "understood."]),
+        ("A chain, not a checklist", [
+            "<em>Sappurisasaṁseva</em>, <em>saddhammassavana</em>, <em>yoniso manasikāra</em>, "
+            "<em>dhammānudhammappaṭipatti</em> &mdash; associating with a true person, listening "
+            "to the true teaching, rational application of mind, and practicing in line with the "
+            "teaching. Each item depends on the one before it: there is nothing to hear without "
+            "first finding someone worth listening to; nothing to reflect on rationally without "
+            "first hearing it; and no practice in line with the teaching without first having "
+            "reflected on it rationally enough to understand what it actually asks."]),
+        ("&lsquo;Sappurisa&rsquo;, a vocabulary that keeps returning", [
+            "The first link in the chain uses the same <em>sappurisa</em>, &lsquo;true "
+            "person&rsquo;, vocabulary that named the Sappurisavagga several chapters back and "
+            "closed the previous chapter at AN 4.242, on the benefits of relying on a true person. "
+            "Wisdom&rsquo;s growth here begins with exactly the relationship AN 4.242 already "
+            "named as the source of growth in ethics, immersion, wisdom, and freedom together "
+            "&mdash; this discourse simply isolates wisdom and gives its own causal account of how "
+            "the relationship produces it."]),
+        ("Rational application, the pivot of the chain", [
+            "<em>Yoniso manasikāra</em>, literally attending to the origin or root of things, is "
+            "the chain&rsquo;s internal turn &mdash; the point where an externally received "
+            "teaching becomes a person&rsquo;s own active work. Without it, hearing a true teaching "
+            "produces only information; with it, hearing becomes the ground for practice. The term "
+            "marks the chain&rsquo;s hinge between what is received from outside and what a person "
+            "does with it."]),
+        ("A sequence about to repeat, unusually", [
+            "This discourse&rsquo;s exact four terms recur, word for word, at the very next "
+            "discourse, AN 4.249, under a different frame &mdash; not what grows wisdom, but what "
+            "is <em>very helpful to a human being</em>. The repetition is worth flagging honestly "
+            "as reuse rather than treating the two discourses as making genuinely separate claims: "
+            "this chain is evidently considered valuable enough to state twice in immediate "
+            "succession."]),
+    ],
+    terms=[
+        ("sappurisasaṁseva",
+         "&ldquo;associating with a true person&rdquo; &mdash; the same <em>sappurisa</em> "
+         "vocabulary already met at AN 4.201 and AN 4.242."),
+        ("saddhammassavana",
+         "&ldquo;hearing the true teaching&rdquo; &mdash; the second link, dependent on having "
+         "first found a true person to hear it from."),
+        ("yoniso manasikāra",
+         "&ldquo;rational application of mind&rdquo;, literally attending to the root or origin "
+         "&mdash; the chain's internal hinge, turning received teaching into a person's own "
+         "active reflection."),
+        ("dhammānudhammappaṭipatti",
+         "&ldquo;practicing in line with the teaching&rdquo; &mdash; literally practice in "
+         "accordance with the teaching's own principle, the chain's final, sustained step."),
+        ("paññāvuddhi",
+         "&ldquo;the growth of wisdom&rdquo; &mdash; the frame this discourse gives the four-item "
+         "chain, distinct from the frame AN 4.249 gives the identical chain."),
+    ],
+    text_intro=(
+        "The discourse in full: the four things that lead to the growth of wisdom. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four causes of wisdom's growth"),
+        ("p", "&sect;1", "an4.248:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What four things does this discourse say lead to the growth of wisdom?",
+         "opts": [
+             "The five precepts",
+             "Associating with a true person, hearing the true teaching, rational application of mind, and practicing in line with the teaching",
+             "The eightfold path",
+             "The four kinds of deeds"],
+         "correct": 1,
+         "expl": "A causal chain, each item depending on the one before it."},
+        {"q": "Why does the guide say this list should be read as a chain rather than four independent items?",
+         "opts": [
+             "There is no reason; the four are unrelated",
+             "Each item depends on the one before it: nothing to hear without a teacher, nothing to reflect on without hearing, no practice without reflection",
+             "The four are given in random order",
+             "Only the first item matters"],
+         "correct": 1,
+         "expl": "A continuous sequence, not a checklist."},
+        {"q": "Where has the <em>sappurisa</em> vocabulary in this discourse's first item already appeared in this series?",
+         "opts": [
+             "Nowhere else",
+             "AN 4.201 and AN 4.242",
+             "Only in this discourse",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "Naming the Sappurisavagga and closing the previous chapter at AN 4.242."},
+        {"q": "What does <em>yoniso manasikāra</em> literally mean, and what role does the guide give it?",
+         "opts": [
+             "\"Loud recitation\"; it has no special role",
+             "\"Attending to the root or origin\"; the chain's hinge, turning received teaching into active reflection",
+             "\"Silent meditation\"; the final step of the chain",
+             "\"Formal debate\"; a step unrelated to the rest of the chain"],
+         "correct": 1,
+         "expl": "Without it, hearing produces only information; with it, hearing becomes the ground for practice."},
+        {"q": "What happens to this discourse's exact four-item chain at the very next discourse, AN 4.249?",
+         "opts": [
+             "It is contradicted",
+             "It recurs word for word, under a different frame: what is very helpful to a human being",
+             "It is extended to five items",
+             "It is not mentioned again"],
+         "correct": 1,
+         "expl": "Flagged as reuse, stated twice in immediate succession."},
+        {"q": "What is the second link in this discourse's chain?",
+         "opts": [
+             "Practicing in line with the teaching",
+             "Hearing the true teaching",
+             "Rational application of mind",
+             "Associating with a true person"],
+         "correct": 1,
+         "expl": "Dependent on first finding a true person to hear it from."},
+        {"q": "What is the final link in the chain?",
+         "opts": [
+             "Rational application of mind",
+             "Practicing in line with the teaching, <em>dhammānudhammappaṭipatti</em>",
+             "Hearing the true teaching",
+             "Associating with a true person"],
+         "correct": 1,
+         "expl": "The sustained step that follows rational reflection."},
+        {"q": "What connection does the guide draw between this discourse and AN 4.242?",
+         "opts": [
+             "None",
+             "AN 4.242 named relying on a true person as the source of growth in ethics, immersion, wisdom, and freedom together; this discourse isolates wisdom and gives its own account",
+             "AN 4.242 contradicts this discourse",
+             "AN 4.242 uses entirely different vocabulary"],
+         "correct": 1,
+         "expl": "The same relationship, given a more detailed causal account here."},
+        {"q": "What does the guide say about treating this discourse and AN 4.249 as making separate claims?",
+         "opts": [
+             "They should be treated as fully independent, unrelated teachings",
+             "It is more honest to flag the identical content as reuse rather than treat them as separate claims",
+             "AN 4.249 should be considered the more authoritative of the two",
+             "The two discourses cannot be compared meaningfully"],
+         "correct": 1,
+         "expl": "Consistent with this series' practice of naming repeated material honestly."},
+        {"q": "What is the third link in the chain?",
+         "opts": [
+             "Hearing the true teaching",
+             "Rational application of mind, <em>yoniso manasikāra</em>",
+             "Practicing in line with the teaching",
+             "Associating with a true person"],
+         "correct": 1,
+         "expl": "The chain's internal turn from reception to reflection."},
+    ],
+    marginalia=[
+        ("A chain, four links", [
+            "true person &middot; heard teaching",
+            "rational reflection &middot; practice",
+        ]),
+        ("A vocabulary that returns", [
+            "sappurisa &middot; AN 4.201, 242, 248",
+        ]),
+        ("The chain's hinge", [
+            "yoniso manasikāra &mdash;",
+            "reception becomes reflection",
+        ]),
+        ("Repeated at once", [
+            "AN 4.248 &middot; wisdom's growth",
+            "AN 4.249 &middot; very helpful",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.248/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.242.html">AN 4.242 &middot; Benefits of Relying on a True Person</a> &mdash; the source of this discourse’s opening term and its wider claim.',
+        '<a href="an-4.201.html">AN 4.201 &middot; Training Rules</a> &mdash; where <em>sappurisa</em> vocabulary first named a chapter.',
+        '<a href="an-4.249.html">AN 4.249 &middot; Very Helpful</a> &mdash; next, the identical chain under a different frame.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.249 — Bahukārasutta
+# --------------------------------------------------------------------------- #
+page(
+    249, "Bahukāra", "Very Helpful",
+    vagga=VAGGA_25,
+    meta_title="AN 4.249 — Very Helpful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bahukārasutta, restating "
+        "AN 4.248's four-item chain word for word under a broader frame &mdash; not wisdom's "
+        "growth specifically, but what is very helpful to a human being generally. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, identical in content to AN 4.248, under a different frame"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the pairing with its "
+                       "immediate predecessor is the whole point"),
+    ],
+    why=(
+        "The identical four things AN 4.248 named as causes of wisdom's growth &mdash; a true "
+        "person, the true teaching, rational reflection, practice &mdash; are named again here, "
+        "verbatim, as simply <em>very helpful to a human being</em>. The two discourses, placed "
+        "back to back, invite a direct comparison of their frames rather than their content, since "
+        "the content does not change at all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Associating with a true person, hearing the true teaching, rational application of "
+            "mind, and practicing in line with the teaching are very helpful to a human being."]),
+        ("The same four words, a wider frame", [
+            "Where AN 4.248 named these four as what makes <em>wisdom</em> specifically grow, this "
+            "discourse drops the specific target and names them as helpful <em>to a human "
+            "being</em>, full stop. The narrower claim becomes the broader one without a single "
+            "term in the list changing."]),
+        ("What the widened frame adds", [
+            "Read together, the two discourses suggest something the pairing alone could not say "
+            "as economically: that whatever this chain does for wisdom, it does not stop at "
+            "wisdom. The same relationship, teaching, reflection, and practice that grows wisdom is "
+            "claimed here to be broadly beneficial &mdash; which is consistent with what AN 4.242 "
+            "already said about relying on a true person producing growth in ethics and immersion "
+            "and freedom as well as wisdom, not wisdom alone."]),
+        ("A discourse that is, honestly, mostly its neighbor", [
+            "There is little more to say about this discourse&rsquo;s content that AN 4.248 did "
+            "not already say, and this reading guide does not pretend otherwise. Its interest lies "
+            "almost entirely in what placing two verbatim-identical lists back to back, under two "
+            "different labels, shows about how this collection is willing to state one chain of "
+            "causes more than once for more than one purpose, exactly as chapter 22 showed with "
+            "recycled tetrads and chapter 24 showed with the four kinds of deeds."]),
+    ],
+    terms=[
+        ("bahukāra",
+         "&ldquo;very helpful&rdquo; &mdash; the frame this discourse gives the identical chain "
+         "AN 4.248 called a cause of wisdom's growth."),
+        ("sappurisasaṁseva, saddhammassavana, yoniso manasikāra, dhammānudhammappaṭipatti",
+         "the same four terms as AN 4.248, unchanged: associating with a true person, hearing the "
+         "true teaching, rational reflection, and practice in line with the teaching."),
+        ("manussabhūta",
+         "&ldquo;a human being&rdquo; &mdash; the broader beneficiary named here, in place of AN "
+         "4.248's narrower target, wisdom."),
+        ("sappurisa",
+         "&ldquo;true person&rdquo; &mdash; the vocabulary opening both this discourse's chain "
+         "and AN 4.248's, tracing back to AN 4.201 and AN 4.242."),
+        ("ānisaṁsa",
+         "&ldquo;benefit&rdquo; &mdash; the same framing word AN 4.242 used for the fourfold "
+         "growth relying on a true person produces."),
+    ],
+    text_intro=(
+        "The discourse in full: the same four things, now called very helpful to a human being. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four things very helpful to a human being"),
+        ("p", "&sect;1", "an4.249:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What four things does this discourse name?",
+         "opts": [
+             "A new set of four, unrelated to AN 4.248",
+             "The identical four terms as AN 4.248: true person, true teaching, rational reflection, and practice",
+             "The eightfold path",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "Word for word the same chain, under a different frame."},
+        {"q": "How does this discourse's frame differ from AN 4.248's?",
+         "opts": [
+             "It names the chain as producing wisdom specifically, like AN 4.248",
+             "It drops the specific target of wisdom and names the chain as helpful to a human being generally",
+             "It reverses the order of the four terms",
+             "It adds a fifth term"],
+         "correct": 1,
+         "expl": "A narrower claim widened, with no term in the list itself changing."},
+        {"q": "What does the guide say the pairing of these two discourses suggests?",
+         "opts": [
+             "That one of the two discourses must be a scribal duplication to be disregarded",
+             "That whatever this chain does for wisdom, it does not stop at wisdom, consistent with AN 4.242's broader claim",
+             "That the two discourses contradict each other",
+             "Nothing; the pairing has no significance"],
+         "correct": 1,
+         "expl": "A wider benefit consistent with AN 4.242's claim about growth in ethics, immersion, wisdom, and freedom together."},
+        {"q": "How does the guide describe this discourse's relationship to AN 4.248 honestly?",
+         "opts": [
+             "As a completely independent teaching with no connection",
+             "As mostly its neighbor, with interest lying in the pairing itself rather than new content",
+             "As a correction of an error in AN 4.248",
+             "As the more important and authoritative of the two"],
+         "correct": 1,
+         "expl": "Not pretending otherwise about how little new content this discourse adds."},
+        {"q": "What earlier discourse already suggested the same chain benefits more than wisdom alone?",
+         "opts": [
+             "AN 4.201",
+             "AN 4.242, naming growth in ethics, immersion, wisdom, and freedom from relying on a true person",
+             "AN 4.211",
+             "No earlier discourse suggests this"],
+         "correct": 1,
+         "expl": "Consistent with this discourse's wider frame."},
+        {"q": "What comparison does the guide draw to other reused material in this series?",
+         "opts": [
+             "None is drawn",
+             "The same technique chapter 22 showed with recycled tetrads and chapter 24 showed with the four kinds of deeds",
+             "A comparison to AN 4.148 specifically",
+             "A comparison only to material outside this series"],
+         "correct": 1,
+         "expl": "One chain of causes stated more than once for more than one purpose."},
+        {"q": "What is the first item in this discourse's chain?",
+         "opts": [
+             "Practicing in line with the teaching",
+             "Associating with a true person",
+             "Rational application of mind",
+             "Hearing the true teaching"],
+         "correct": 1,
+         "expl": "Identical to AN 4.248's opening term."},
+        {"q": "What beneficiary does this discourse name, in place of AN 4.248's \"wisdom\"?",
+         "opts": [
+             "The Saṅgha specifically",
+             "A human being, <em>manussabhūta</em>, generally",
+             "Only monastics",
+             "No beneficiary is named"],
+         "correct": 1,
+         "expl": "A broader target than AN 4.248's specific claim about wisdom."},
+        {"q": "What discourse immediately precedes this one, sharing its entire content?",
+         "opts": [
+             "AN 4.247",
+             "AN 4.248, The Growth of Wisdom",
+             "AN 4.242",
+             "AN 4.201"],
+         "correct": 1,
+         "expl": "Placed back to back, inviting direct comparison of frame rather than content."},
+        {"q": "What discourse follows this one, moving to new content?",
+         "opts": [
+             "AN 4.250, on ignoble expressions",
+             "AN 4.243",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "Returning to the diṭṭha-suta-muta-viññāta vocabulary from AN 4.24, now atomized into four separate discourses."},
+    ],
+    marginalia=[
+        ("Same chain, wider frame", [
+            "AN 4.248 &middot; grows wisdom",
+            "AN 4.249 &middot; helps a human being",
+        ]),
+        ("Content unchanged", [
+            "true person &middot; true teaching",
+            "reflection &middot; practice",
+        ]),
+        ("A broader claim, anticipated", [
+            "AN 4.242 &middot; ethics, immersion,",
+            "wisdom, freedom &mdash; all four",
+        ]),
+        ("Reuse, named honestly", [
+            "as elsewhere in this series",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.249/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.248.html">AN 4.248 &middot; The Growth of Wisdom</a> &mdash; the discourse this one repeats verbatim under a wider frame.',
+        '<a href="an-4.242.html">AN 4.242 &middot; Benefits of Relying on a True Person</a> &mdash; the broader claim this discourse&rsquo;s frame is consistent with.',
+        '<a href="an-4.250.html">AN 4.250 &middot; Expressions (1st)</a> &mdash; next, returning to the diṭṭha-suta-muta-viññāta vocabulary a fourth time.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.250 — Paṭhamavohārasutta
+# --------------------------------------------------------------------------- #
+page(
+    250, "Paṭhamavohāra", "Expressions (1st)",
+    vagga=VAGGA_25,
+    meta_title="AN 4.250 — Expressions (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Vohārasutta, "
+        "reusing the diṭṭha-suta-muta-viññāta vocabulary a fourth time in this series, now split "
+        "into four separate one-line discourses instead of two mirrored pairs. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming one of four possible false claims about experience"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief on its own, and best "
+                       "understood as one quarter of a set"),
+    ],
+    why=(
+        "Claiming to have seen, heard, thought, or known something one has not is named here as "
+        "one of the <em>four ignoble expressions</em>. This is the diṭṭha-suta-muta-viññāta "
+        "vocabulary&rsquo;s fourth appearance in this series, after AN 4.24, the mirrored pair at "
+        "AN 4.217&ndash;218, and the mirrored pair at AN 4.227&ndash;228. This time the treatment "
+        "is different in kind: rather than pairing a false claim with its opposite in one "
+        "discourse, this chapter gives each of the four possible combinations its own, separate "
+        "discourse."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Claiming to have seen, heard, thought, or known something one has not is one of the "
+            "four ignoble ways of speaking."]),
+        ("A vocabulary's fourth appearance, and its most atomized", [
+            "<em>Adiṭṭhe diṭṭhavāditā, asute sutavāditā, amute mutavāditā, aviññāte "
+            "viññātavāditā</em> &mdash; the identical false claim already read at AN 4.217 and AN "
+            "4.227. What has changed is the unit of composition. AN 4.217 and AN 4.227 each paired "
+            "this claim with its mirror &mdash; truthful denial &mdash; inside a single discourse, "
+            "using the hell/heaven and <em>khata</em> formulas respectively. This chapter instead "
+            "gives the false claim its own discourse entirely, and will give each of the "
+            "remaining three combinations &mdash; truthful denial, false denial, truthful claim "
+            "&mdash; a discourse of its own in turn."]),
+        ("Noble and ignoble, a new frame again", [
+            "The formula here is neither the hell/heaven formula nor the <em>khata</em> formula "
+            "but a third: <em>anariyavohāra</em>, ignoble expression, opposed to "
+            "<em>ariyavohāra</em>, noble expression. This is the vocabulary's third distinct "
+            "framing across four appearances in this series &mdash; unaffectedness at AN 4.24, "
+            "destination at AN 4.217, character and social standing at AN 4.227, and now the "
+            "simple ethical register of noble or ignoble speech."]),
+        ("Four appearances, four different shapes", [
+            "Laid end to end, this vocabulary&rsquo;s history in this series is itself worth "
+            "surveying: introduced whole at AN 4.24 to describe a Realized One&rsquo;s poise; "
+            "split into a mirrored pair under the hell/heaven formula at AN 4.217&ndash;218; split "
+            "into a mirrored pair again under the <em>khata</em> formula at AN 4.227&ndash;228; "
+            "and now split into four fully separate, unpaired discourses under a noble/ignoble "
+            "frame. The same four terms have now been organized three different ways &mdash; "
+            "whole, paired, and atomized &mdash; without the terms themselves ever changing."]),
+    ],
+    terms=[
+        ("anariyavohāra / ariyavohāra",
+         "&ldquo;ignoble expression&rdquo; and &ldquo;noble expression&rdquo; &mdash; this "
+         "chapter's frame for the diṭṭha-suta-muta-viññāta vocabulary, distinct from the "
+         "hell/heaven and <em>khata</em> formulas used earlier."),
+        ("adiṭṭhe diṭṭhavāditā",
+         "&ldquo;claiming to have seen what one has not seen&rdquo; &mdash; identical wording to "
+         "AN 4.217 and AN 4.227."),
+        ("diṭṭha suta muta viññāta",
+         "&ldquo;seen, heard, sensed, known&rdquo; &mdash; first defined at AN 4.24, now met a "
+         "fourth time, atomized into four separate discourses."),
+        ("vohāra",
+         "&ldquo;expression, way of speaking&rdquo; &mdash; the term naming this discourse and "
+         "the three that follow it."),
+        ("musāvāda",
+         "&ldquo;false speech&rdquo; &mdash; the general fault this specific claim narrows to a "
+         "testimony about one's own experience."),
+    ],
+    text_intro=(
+        "The discourse in full: one of the four ignoble expressions, named. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "An ignoble expression"),
+        ("p", "&sect;1", "an4.250:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What false claim does this discourse name?",
+         "opts": [
+             "Claiming to have seen, heard, thought, or known something one has not",
+             "Denying having seen, heard, thought, or known something one has",
+             "A claim unrelated to perception",
+             "A claim about material wealth"],
+         "correct": 1,
+         "expl": "Identical wording to AN 4.217 and AN 4.227."},
+        {"q": "How many times has the diṭṭha-suta-muta-viññāta vocabulary now appeared in this series, including this discourse?",
+         "opts": [
+             "Once",
+             "Four times: AN 4.24, AN 4.217&ndash;218, AN 4.227&ndash;228, and now AN 4.250 onward",
+             "Two times",
+             "This is its first appearance"],
+         "correct": 1,
+         "expl": "Its most atomized treatment yet."},
+        {"q": "What formula does this discourse use, distinct from the earlier two treatments?",
+         "opts": [
+             "The hell/heaven formula",
+             "The <em>khata</em> formula",
+             "A third frame: <em>anariyavohāra</em>/<em>ariyavohāra</em>, ignoble/noble expression",
+             "No formula at all"],
+         "correct": 1,
+         "expl": "The vocabulary's third distinct framing across four appearances."},
+        {"q": "How does this discourse's structure differ from AN 4.217 and AN 4.227?",
+         "opts": [
+             "It is identical in structure",
+             "It gives this single false claim its own discourse, rather than pairing it with its mirror in one discourse",
+             "It combines all four combinations into one discourse",
+             "It omits the claim entirely"],
+         "correct": 1,
+         "expl": "Each of the four combinations will get its own discourse in this chapter."},
+        {"q": "What did AN 4.24 originally use this vocabulary to describe?",
+         "opts": [
+             "A rule about truthful testimony",
+             "A Realized One's poise, unaffected amid what is seen, heard, sensed, and known",
+             "A grade of monastic offense",
+             "A type of ascetic"],
+         "correct": 1,
+         "expl": "The vocabulary's first and most different appearance in this series."},
+        {"q": "What three frames has this vocabulary now been given across its four appearances?",
+         "opts": [
+             "All four appearances use the identical frame",
+             "Unaffectedness, hell/heaven destination, character and social standing (<em>khata</em>), and now noble/ignoble expression",
+             "Only two frames have ever been used",
+             "The frames are unrelated to each other"],
+         "correct": 1,
+         "expl": "The same four terms organized differently each time, without the terms themselves changing."},
+        {"q": "What three organizational shapes has this vocabulary taken across this series?",
+         "opts": [
+             "Whole, paired, and atomized into separate discourses",
+             "Only ever atomized",
+             "Only ever paired",
+             "No consistent shape; each appearance is unique with no pattern"],
+         "correct": 1,
+         "expl": "Whole at AN 4.24, paired at AN 4.217&ndash;218 and AN 4.227&ndash;228, atomized starting here."},
+        {"q": "What is <em>muta</em>, the third of the four terms?",
+         "opts": [
+             "Remembered",
+             "Sensed, through smell, taste, and touch",
+             "Spoken",
+             "Written"],
+         "correct": 1,
+         "expl": "One quarter of the fixed fourfold division of experience, unchanged across all four appearances."},
+        {"q": "What discourse follows this one, giving a different combination its own treatment?",
+         "opts": [
+             "AN 4.251, on truthful denial as a noble expression",
+             "AN 4.243",
+             "AN 4.211",
+             "AN 4.24"],
+         "correct": 1,
+         "expl": "Continuing the atomized, one-combination-per-discourse pattern."},
+        {"q": "What word names this discourse and the three that follow it?",
+         "opts": [
+             "Kammapatha",
+             "Vohāra, \"expression, way of speaking\"",
+             "Maggasutta",
+             "Duccaritasutta"],
+         "correct": 1,
+         "expl": "Distinct from <em>vohārapatha</em>, the term used at AN 4.217&ndash;218 and AN 4.227&ndash;228."},
+    ],
+    marginalia=[
+        ("A vocabulary, four appearances", [
+            "AN 4.24 &middot; whole",
+            "AN 4.217&ndash;218 &middot; paired",
+            "AN 4.227&ndash;228 &middot; paired",
+            "AN 4.250&ndash;253 &middot; atomized",
+        ]),
+        ("A third frame", [
+            "unaffectedness &middot; destination",
+            "character &middot; now: noble/ignoble",
+        ]),
+        ("Four combinations, four discourses", [
+            "false claim &middot; this one",
+            "true denial, false denial,",
+            "true claim &middot; to follow",
+        ]),
+        ("Terms unchanged throughout", [
+            "diṭṭha &middot; suta &middot; muta &middot; viññāta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.250/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.217.html">AN 4.217 &middot; Kinds of Expression (1st)</a> &mdash; the same false claim, paired with its mirror under the hell/heaven formula.',
+        '<a href="an-4.24.html">AN 4.24 &middot; Poise</a> &mdash; where this vocabulary was first defined.',
+        '<a href="an-4.251.html">AN 4.251 &middot; Expressions (2nd)</a> &mdash; next, the mirror combination given its own discourse.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.251 — Dutiyavohārasutta
+# --------------------------------------------------------------------------- #
+page(
+    251, "Dutiyavohāra", "Expressions (2nd)",
+    vagga=VAGGA_25,
+    meta_title="AN 4.251 — Expressions (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Vohārasutta, "
+        "giving truthful denial of the unseen, unheard, unsensed, and unknown its own discourse "
+        "as a noble expression. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming one of four noble expressions"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the second of four, best read "
+                       "in sequence"),
+    ],
+    why=(
+        "Truthfully saying one has not seen, heard, thought, or known something one has not "
+        "&mdash; the honest counterpart to AN 4.250's false claim, given here its own discourse "
+        "as one of the <em>four noble expressions</em>. Where AN 4.217 folded this same content "
+        "into a single discourse's heaven half, this chapter gives it independent standing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Truthfully saying one has not seen, heard, thought, or known something one has not is "
+            "one of the four noble ways of speaking."]),
+        ("The honest counterpart, standing alone", [
+            "<em>Adiṭṭhe adiṭṭhavāditā, asute asutavāditā, amute amutavāditā, aviññāte "
+            "aviññātavāditā</em> &mdash; truthfully denying what one has not experienced, across "
+            "all four modes. At AN 4.217 this content filled the heaven half of a single "
+            "discourse, following the false claim named in its hell half. Here it receives its "
+            "own discourse, with its own opening formula and its own closing restatement, rather "
+            "than functioning as the second half of a paired structure."]),
+        ("What independence changes, and what it does not", [
+            "Nothing about the content is different. What changes is emphasis: giving truthful "
+            "denial its own discourse states it as a positive practice worth naming on its own "
+            "terms, not merely as the absence of AN 4.250's fault. A reader encountering this "
+            "discourse without AN 4.250 beside it would still receive a complete, self-standing "
+            "instruction &mdash; unlike AN 4.217's heaven half, which depended on its neighboring "
+            "hell half for its full sense as one term of a pair."]),
+        ("The pattern this chapter is building", [
+            "With this discourse, two of the four combinations have now been given independent "
+            "treatment: the false claim at AN 4.250, and its honest mirror here. Two remain, and "
+            "the chapter&rsquo;s evident plan is to give each of the remaining two &mdash; false "
+            "denial and honest claim &mdash; the same independent standing, completing the set of "
+            "four as four separate, self-contained statements rather than two paired discourses."]),
+    ],
+    terms=[
+        ("adiṭṭhe adiṭṭhavāditā",
+         "&ldquo;truthfully saying one has not seen what one has not seen&rdquo; &mdash; the "
+         "honest counterpart to AN 4.250's false claim."),
+        ("ariyavohāra",
+         "&ldquo;noble expression&rdquo; &mdash; this discourse's frame, opposed to AN 4.250's "
+         "<em>anariyavohāra</em>."),
+        ("diṭṭha suta muta viññāta",
+         "the fourfold division of experience, unchanged from its first definition at AN 4.24."),
+        ("saccavāditā",
+         "&ldquo;truth-telling&rdquo; &mdash; not named directly in this discourse, but the "
+         "quality its content embodies."),
+        ("vohāra",
+         "&ldquo;expression, way of speaking&rdquo; &mdash; naming this discourse and its three "
+         "companions."),
+    ],
+    text_intro=(
+        "The discourse in full: one of the four noble expressions, named. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A noble expression"),
+        ("p", "&sect;1", "an4.251:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse describe as a noble expression?",
+         "opts": [
+             "Claiming to have seen something one has not",
+             "Truthfully saying one has not seen, heard, thought, or known something one has not",
+             "Denying something one has actually experienced",
+             "Refusing to speak at all"],
+         "correct": 1,
+         "expl": "The honest counterpart to AN 4.250's false claim."},
+        {"q": "How was this same content presented at AN 4.217?",
+         "opts": [
+             "In an entirely separate discourse, as here",
+             "As the heaven half of a single discourse, paired with the false claim in the hell half",
+             "It did not appear at AN 4.217 at all",
+             "As a verse rather than prose"],
+         "correct": 1,
+         "expl": "Dependent there on its neighboring hell half for its full sense as a pair."},
+        {"q": "What does the guide say changes by giving this content its own discourse, versus pairing it?",
+         "opts": [
+             "The content itself changes substantially",
+             "The emphasis changes: it is stated as a positive practice worth naming on its own terms, not merely the absence of a fault",
+             "Nothing changes in any respect",
+             "The vocabulary itself is replaced"],
+         "correct": 1,
+         "expl": "A reader encountering this discourse alone still receives a complete instruction."},
+        {"q": "How many of the four possible combinations have received independent treatment after this discourse?",
+         "opts": [
+             "None",
+             "Two: the false claim at AN 4.250, and its honest mirror here",
+             "All four",
+             "Three"],
+         "correct": 1,
+         "expl": "Two remain: false denial and honest claim."},
+        {"q": "What frame does this discourse use?",
+         "opts": [
+             "Anariyavohāra, ignoble expression",
+             "Ariyavohāra, noble expression",
+             "The hell/heaven formula",
+             "The <em>khata</em> formula"],
+         "correct": 1,
+         "expl": "The positive counterpart to AN 4.250's frame."},
+        {"q": "What is the chapter's evident plan, according to the guide?",
+         "opts": [
+             "To stop after two discourses",
+             "To give each of the remaining two combinations, false denial and honest claim, the same independent standing",
+             "To merge all four combinations back into one discourse",
+             "To abandon this vocabulary entirely"],
+         "correct": 1,
+         "expl": "Completing four separate, self-contained statements."},
+        {"q": "Where was the diṭṭha-suta-muta-viññāta vocabulary first defined?",
+         "opts": [
+             "AN 4.217",
+             "AN 4.24",
+             "AN 4.250",
+             "This discourse"],
+         "correct": 1,
+         "expl": "Describing a Realized One's poise, unaffected amid experience."},
+        {"q": "What discourse comes next, addressing false denial?",
+         "opts": [
+             "AN 4.252, on false denial as an ignoble expression",
+             "AN 4.243",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "The third of the four combinations, given its own discourse."},
+        {"q": "What is <em>suta</em>, the second of the four terms?",
+         "opts": [
+             "Seen",
+             "Heard",
+             "Sensed",
+             "Known"],
+         "correct": 1,
+         "expl": "Unchanged across all four appearances of this vocabulary in this series."},
+        {"q": "How does this discourse compare in form to AN 4.250?",
+         "opts": [
+             "Entirely different in structure",
+             "The same short, self-contained form, stating one combination and its own opening and closing formula",
+             "Much longer, with additional narrative",
+             "It has no closing formula at all"],
+         "correct": 1,
+         "expl": "Matching the atomized pattern this chapter is building."},
+    ],
+    marginalia=[
+        ("Two of four, now independent", [
+            "AN 4.250 &middot; false claim",
+            "AN 4.251 &middot; honest denial",
+        ]),
+        ("From pair to standalone", [
+            "AN 4.217 &middot; heaven half of a pair",
+            "AN 4.251 &middot; its own discourse",
+        ]),
+        ("A positive practice, named", [
+            "not merely absence of fault,",
+            "but truth-telling stated outright",
+        ]),
+        ("Two combinations remain", [
+            "false denial &middot; honest claim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.251/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.250.html">AN 4.250 &middot; Expressions (1st)</a> &mdash; the false claim this discourse&rsquo;s honesty answers.',
+        '<a href="an-4.217.html">AN 4.217 &middot; Kinds of Expression (1st)</a> &mdash; where this same content filled a discourse&rsquo;s heaven half.',
+        '<a href="an-4.252.html">AN 4.252 &middot; Expressions (3rd)</a> &mdash; next, false denial given its own discourse.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.252 — Tatiyavohārasutta
+# --------------------------------------------------------------------------- #
+page(
+    252, "Tatiyavohāra", "Expressions (3rd)",
+    vagga=VAGGA_25,
+    meta_title="AN 4.252 — Expressions (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the third Vohārasutta, "
+        "giving false denial of the seen, heard, sensed, and known its own discourse as an "
+        "ignoble expression. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming a third of four ignoble or noble expressions"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the third of four, and the "
+                       "mirror image of AN 4.251"),
+    ],
+    why=(
+        "Denying having seen, heard, thought, or known something one actually has &mdash; the "
+        "false denial this series first read paired with its opposite at AN 4.218 and AN 4.228, "
+        "now given its own discourse as an ignoble expression, third in this chapter's set of "
+        "four."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Denying that one has seen, heard, thought, or known something one actually has is one "
+            "of the four ignoble ways of speaking."]),
+        ("The mirror of AN 4.251, independently stated", [
+            "<em>Diṭṭhe adiṭṭhavāditā, sute asutavāditā, mute amutavāditā, viññāte "
+            "aviññātavāditā</em> &mdash; false denial of genuine experience, the content already "
+            "read paired with truthful affirmation at AN 4.218 and AN 4.228. As at AN 4.250 and AN "
+            "4.251, this chapter separates what those two earlier pairings joined, giving false "
+            "denial a discourse entirely its own."]),
+        ("A point already established, not reargued", [
+            "This series noted at AN 4.218 that false denial is held to the same weight as false "
+            "claim, neither treated as the lesser fault. That point does not need remaking here; "
+            "it is a feature of the content, not of any particular formula wrapping it, and it "
+            "carries over unchanged into this chapter&rsquo;s noble/ignoble frame exactly as it "
+            "carried over into the <em>khata</em> frame at AN 4.228."]),
+        ("Three of four, now separate", [
+            "With this discourse, three of the vocabulary&rsquo;s four combinations have been "
+            "given independent standing in this chapter: false claim at AN 4.250, honest denial at "
+            "AN 4.251, and false denial here. One combination remains &mdash; honest claim, saying "
+            "one has experienced what one actually has &mdash; and the pattern established over "
+            "the previous three discourses leaves little doubt about what the final discourse in "
+            "this set will say."]),
+    ],
+    terms=[
+        ("diṭṭhe adiṭṭhavāditā",
+         "&ldquo;denying having seen what one has seen&rdquo; &mdash; identical wording to AN "
+         "4.218 and AN 4.228."),
+        ("anariyavohāra",
+         "&ldquo;ignoble expression&rdquo; &mdash; this discourse's frame, matching AN 4.250's "
+         "for the false claim."),
+        ("diṭṭha suta muta viññāta",
+         "the fourfold division of experience, unchanged across every appearance of this "
+         "vocabulary in this series."),
+        ("musāvāda",
+         "&ldquo;false speech&rdquo; &mdash; the general category this specific false denial "
+         "narrows to testimony about one's own experience."),
+        ("vohāra",
+         "&ldquo;expression, way of speaking&rdquo; &mdash; naming this discourse and its three "
+         "companions in this chapter's atomized set."),
+    ],
+    text_intro=(
+        "The discourse in full: one of the four ignoble expressions, named. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "An ignoble expression"),
+        ("p", "&sect;1", "an4.252:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as an ignoble expression?",
+         "opts": [
+             "Claiming experience one has not had",
+             "Denying having seen, heard, thought, or known something one actually has",
+             "Truthfully denying unexperienced things",
+             "Truthfully affirming experienced things"],
+         "correct": 1,
+         "expl": "The mirror of AN 4.251, given here its own independent discourse."},
+        {"q": "Where was this same false-denial content previously given, paired with its opposite?",
+         "opts": [
+             "AN 4.217 and AN 4.227",
+             "AN 4.218 and AN 4.228",
+             "AN 4.24 only",
+             "It has not appeared before"],
+         "correct": 1,
+         "expl": "Now separated into its own discourse, as this chapter does with each combination."},
+        {"q": "What point from AN 4.218 does the guide say carries over unchanged here?",
+         "opts": [
+             "That false denial is a lesser fault than false claim",
+             "That false denial is held to the same weight as false claim, under any formula",
+             "That false denial is not actually a fault at all",
+             "That this content applies only to monastics"],
+         "correct": 1,
+         "expl": "A feature of the content itself, not of any particular formula wrapping it."},
+        {"q": "How many of the four combinations have now received independent treatment in this chapter?",
+         "opts": [
+             "One",
+             "Three: false claim, honest denial, and false denial",
+             "All four",
+             "None"],
+         "correct": 1,
+         "expl": "One combination, honest claim, remains for the next discourse."},
+        {"q": "What frame does this discourse use?",
+         "opts": [
+             "Ariyavohāra, noble expression",
+             "Anariyavohāra, ignoble expression",
+             "The hell/heaven formula",
+             "The <em>khata</em> formula"],
+         "correct": 1,
+         "expl": "Matching AN 4.250's frame for the false claim."},
+        {"q": "What does the guide predict about the next discourse in this set?",
+         "opts": [
+             "That it will introduce an entirely new topic",
+             "That it will complete the pattern with honest claim as the fourth noble expression",
+             "That the set will not be completed",
+             "That it will repeat this discourse exactly"],
+         "correct": 1,
+         "expl": "The pattern established over the previous three discourses makes this predictable."},
+        {"q": "What is <em>viññāta</em>, the fourth of the four terms?",
+         "opts": [
+             "Seen",
+             "Heard",
+             "Known",
+             "Sensed"],
+         "correct": 1,
+         "expl": "Unchanged across every appearance of this vocabulary."},
+        {"q": "How does this discourse's form compare to AN 4.250 and AN 4.251?",
+         "opts": [
+             "Much longer and more elaborate",
+             "The same short, self-contained form",
+             "It lacks a closing formula, unlike the other two",
+             "It uses verse instead of prose"],
+         "correct": 1,
+         "expl": "Matching the atomized pattern this chapter builds across all four discourses."},
+        {"q": "What example illustrated the seriousness of false denial when this series first discussed it?",
+         "opts": [
+             "A student exaggerating their learning",
+             "A witness denying having seen a wrongdoing, as corrosive to truth as a false claim",
+             "A monk forgetting a minor rule",
+             "A layperson breaking a precept"],
+         "correct": 1,
+         "expl": "Established at AN 4.218 and carried forward unchanged through every later appearance."},
+        {"q": "What discourse follows, completing this chapter's set of four?",
+         "opts": [
+             "AN 4.253, on honest claim as a noble expression",
+             "AN 4.243",
+             "AN 4.211",
+             "AN 4.24"],
+         "correct": 1,
+         "expl": "The fourth and final combination, and the chapter's own closing discourse."},
+    ],
+    marginalia=[
+        ("Three of four, separate", [
+            "AN 4.250 &middot; false claim",
+            "AN 4.251 &middot; honest denial",
+            "AN 4.252 &middot; false denial",
+        ]),
+        ("A point carried forward", [
+            "no lesser weight than",
+            "false claim &mdash; as at AN 4.218",
+        ]),
+        ("One combination remains", [
+            "honest claim &mdash;",
+            "the pattern predicts it next",
+        ]),
+        ("Source of this content", [
+            "AN 4.218, AN 4.228 &middot; paired",
+            "AN 4.252 &middot; standalone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.252/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.218.html">AN 4.218 &middot; Kinds of Expression (2nd)</a> &mdash; where this content first appeared, paired with honest claim.',
+        '<a href="an-4.251.html">AN 4.251 &middot; Expressions (2nd)</a> &mdash; this discourse&rsquo;s mirror image in this chapter&rsquo;s set.',
+        '<a href="an-4.253.html">AN 4.253 &middot; Expressions (4th)</a> &mdash; next, completing the set and closing this chapter.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.253 — Catutthavohārasutta
+# --------------------------------------------------------------------------- #
+page(
+    253, "Catutthavohāra", "Expressions (4th)",
+    vagga=VAGGA_25,
+    meta_title="AN 4.253 — Expressions (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the fourth Vohārasutta, "
+        "completing this chapter's atomized set of four expressions with honest claim as a noble "
+        "expression, and closing the Āpattibhayavagga - and, with it, the Fours' entire fifth "
+        "paṇṇāsaka. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_25),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence completing the set of four expressions, closing the chapter"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, but its close marks a "
+                       "structural milestone worth naming plainly"),
+    ],
+    why=(
+        "Truthfully saying one has seen, heard, thought, or known something one actually has "
+        "&mdash; the fourth and final combination, completing this chapter's atomized treatment "
+        "of the diṭṭha-suta-muta-viññāta vocabulary. With this discourse, the Āpattibhayavagga "
+        "closes, and the source colophon marks something larger closing alongside it: the entire "
+        "fifth paṇṇāsaka of the Fours, five chapters and fifty-three discourses that began at AN "
+        "4.201."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Truthfully saying one has seen, heard, thought, or known something one actually has "
+            "is one of the four noble ways of speaking."]),
+        ("The set, completed", [
+            "<em>Diṭṭhe diṭṭhavāditā, sute sutavāditā, mute mutavāditā, viññāte viññātavāditā</em> "
+            "&mdash; honest claim, the positive counterpart already read paired with false denial "
+            "at AN 4.218 and AN 4.228. With this discourse, all four logical combinations of "
+            "experience and claim &mdash; true claim, true denial, false claim, false denial "
+            "&mdash; have now each received an independent discourse in this chapter: AN 4.250, "
+            "251, 252, and this one."]),
+        ("A vocabulary's history, now complete across this series", [
+            "It is worth pausing at this close to survey the full path this vocabulary has taken. "
+            "Introduced whole at AN 4.24, to describe a Realized One&rsquo;s unaffectedness. Given "
+            "as a mirrored pair under the hell/heaven formula at AN 4.217&ndash;218. Given as a "
+            "mirrored pair again under the <em>khata</em> formula at AN 4.227&ndash;228. And now "
+            "given as four fully independent statements under a noble/ignoble frame, AN "
+            "4.250&ndash;253. Four terms, unchanged in meaning across nine discourses and four "
+            "chapters, organized three structurally different ways without ever needing to be "
+            "redefined."]),
+        ("The chapter closes, and so does its paṇṇāsaka", [
+            "The source colophon marks two closures at once here: <em>Āpattibhayavaggo "
+            "pañcamo</em>, the Āpattibhayavagga, the fifth [vagga of its group]; and immediately "
+            "after, <em>Pañcamo paṇṇāsako samatto</em>, the fifth paṇṇāsaka is complete. This is a "
+            "larger milestone than any chapter-close this series has yet marked: not merely the "
+            "end of a ten- or eleven-discourse chapter, but the end of the entire five-chapter "
+            "group &mdash; Sappurisavagga, Parisāvagga, Duccaritavagga, Kammavagga, and "
+            "Āpattibhayavagga &mdash; that opened at AN 4.201 and now closes here at AN 4.253, "
+            "fifty-three discourses in total."]),
+        ("What comes next", [
+            "The chapters that follow, beginning with the Abhiññāvagga at AN 4.254, belong to "
+            "whatever structure organizes the material beyond this paṇṇāsaka&rsquo;s close. This "
+            "reading guide has not yet verified how the traditional numbering treats that "
+            "material and will establish it directly when that chapter is reached, rather than "
+            "asserting a structure here in advance."]),
+    ],
+    terms=[
+        ("diṭṭhe diṭṭhavāditā",
+         "&ldquo;truthfully saying one has seen what one has seen&rdquo; &mdash; the fourth and "
+         "final combination, completing this chapter's set."),
+        ("ariyavohāra",
+         "&ldquo;noble expression&rdquo; &mdash; this discourse's frame, matching AN 4.251's for "
+         "honest denial."),
+        ("Āpattibhayavaggo pañcamo",
+         "&ldquo;the Āpattibhayavagga, the fifth&rdquo; &mdash; the source colophon's label, "
+         "marking this as the fifth and final vagga of its paṇṇāsaka."),
+        ("pañcamo paṇṇāsako samatto",
+         "&ldquo;the fifth paṇṇāsaka is complete&rdquo; &mdash; the colophon marking the close of "
+         "the entire five-chapter group beginning at AN 4.201."),
+        ("diṭṭha suta muta viññāta",
+         "the fourfold division of experience, unchanged across all nine discourses and four "
+         "chapters this vocabulary has appeared in across this series."),
+    ],
+    text_intro=(
+        "The discourse in full: the fourth and final expression, completing the set. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A noble expression"),
+        ("p", "&sect;1", "an4.253:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as a noble expression?",
+         "opts": [
+             "Denying something one has actually experienced",
+             "Truthfully saying one has seen, heard, thought, or known something one actually has",
+             "Claiming experience one has not had",
+             "Refusing to make any claim at all"],
+         "correct": 1,
+         "expl": "The fourth and final combination in this chapter's set."},
+        {"q": "How many of the four logical combinations have now received independent discourses, with this one included?",
+         "opts": [
+             "One",
+             "All four: AN 4.250, 251, 252, and this discourse",
+             "Two",
+             "Three"],
+         "correct": 1,
+         "expl": "True claim, true denial, false claim, and false denial, each its own discourse."},
+        {"q": "What three structurally different ways has this vocabulary been organized across this series?",
+         "opts": [
+             "Only ever atomized",
+             "Whole (AN 4.24), paired (AN 4.217&ndash;218, AN 4.227&ndash;228), and atomized (AN 4.250&ndash;253)",
+             "Only ever paired",
+             "It has appeared only once before this chapter"],
+         "correct": 1,
+         "expl": "Nine discourses and four chapters, with the four terms never needing to be redefined."},
+        {"q": "What two closures does the source colophon mark at this discourse?",
+         "opts": [
+             "Only the end of this single discourse",
+             "The end of the Āpattibhayavagga and the end of the entire fifth paṇṇāsaka",
+             "The end of the entire Aṅguttara Nikāya",
+             "No closure is marked"],
+         "correct": 1,
+         "expl": "A larger milestone than any chapter-close this series has yet marked."},
+        {"q": "What five chapters make up the paṇṇāsaka that closes with this discourse?",
+         "opts": [
+             "Five entirely different chapters, unrelated to this series",
+             "Sappurisavagga, Parisāvagga, Duccaritavagga, Kammavagga, and Āpattibhayavagga",
+             "Only the Āpattibhayavagga alone",
+             "Chapters from a different nipāta"],
+         "correct": 1,
+         "expl": "Opening at AN 4.201 and closing here at AN 4.253, fifty-three discourses in total."},
+        {"q": "What does the guide say about the structure of the chapters that follow this close?",
+         "opts": [
+             "It asserts a specific structure in advance",
+             "It has not yet verified that structure and will establish it directly when the next chapter is reached",
+             "It claims no further chapters exist",
+             "It assumes the same paṇṇāsaka structure continues unchanged"],
+         "correct": 1,
+         "expl": "Consistent with this project's practice of checking sources before making structural claims."},
+        {"q": "Where was this vocabulary given as a mirrored pair for the first time?",
+         "opts": [
+             "AN 4.24",
+             "AN 4.217&ndash;218, under the hell/heaven formula",
+             "AN 4.250&ndash;253",
+             "It was never given as a pair"],
+         "correct": 1,
+         "expl": "The vocabulary's second organizational shape in this series."},
+        {"q": "What chapter begins after this paṇṇāsaka's close?",
+         "opts": [
+             "The Abhiññāvagga, at AN 4.254",
+             "A return to the Sappurisavagga",
+             "The collection ends entirely",
+             "AN 4.211"],
+         "correct": 1,
+         "expl": "The next chapter this series will take up."},
+        {"q": "What frame does this discourse use?",
+         "opts": [
+             "Anariyavohāra, ignoble expression",
+             "Ariyavohāra, noble expression",
+             "The hell/heaven formula",
+             "The <em>khata</em> formula"],
+         "correct": 1,
+         "expl": "Matching AN 4.251's frame for honest denial."},
+        {"q": "What did AN 4.24 originally describe using this same vocabulary?",
+         "opts": [
+             "A grade of monastic offense",
+             "A Realized One's poise, unaffected amid what is seen, heard, sensed, and known",
+             "A type of ascetic",
+             "A wheel-turning monarch"],
+         "correct": 1,
+         "expl": "The vocabulary's origin point in this series, many chapters before this closing discourse."},
+    ],
+    marginalia=[
+        ("The set, complete", [
+            "true claim &middot; true denial",
+            "false claim &middot; false denial",
+            "&mdash; four discourses, four combinations",
+        ]),
+        ("A vocabulary's full path", [
+            "whole &middot; AN 4.24",
+            "paired, twice &middot; AN 4.217, 227",
+            "atomized &middot; AN 4.250&ndash;253",
+        ]),
+        ("Two closures at once", [
+            "Āpattibhayavaggo pañcamo",
+            "pañcamo paṇṇāsako samatto",
+        ]),
+        ("Fifty-three discourses, five chapters", [
+            "Sappurisa &middot; Parisā &middot; Duccarita",
+            "Kamma &middot; Āpattibhaya",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.253/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.24.html">AN 4.24 &middot; Poise</a> &mdash; where the diṭṭha-suta-muta-viññāta vocabulary this series has traced across nine discourses was first defined.',
+        '<a href="an-4.201.html">AN 4.201 &middot; Training Rules</a> &mdash; the discourse that opened the paṇṇāsaka this chapter now closes.',
+        '<a href="an-4.242.html">AN 4.242 &middot; Benefits of Relying on a True Person</a> &mdash; the previous chapter&rsquo;s own closing echo of AN 4.1.',
+    ],
+)
