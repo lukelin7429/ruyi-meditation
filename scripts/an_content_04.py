@@ -7,8 +7,9 @@ INDEX_HEADING = "Catukka Nipāta — The Fours"
 # The Fours follow the Threes. AN 4.13, 4.55, 4.62 and 4.170 were published
 # before this series began working in order; they are listed in the index by
 # INDEX_EXTRA and are not generated here. HEAD points at the last page the
-# Threes module has reached and moves as that module advances.
-HEAD = ("an-3.100.html", "AN 3.100 &middot; A Lump of Salt")
+# Threes module has reached; the Threes are now complete (158/158), so this
+# is fixed at their final page.
+HEAD = ("an-3.183-352.html", "AN 3.183&ndash;352 &middot; Overcoming Greed, and So On")
 TAIL = ("an-5.28.html", "AN 5.28 &middot; With Five Factors")
 INDEX_EXTRA = [
     ("an-4.13", "Padhāna", "Effort"),
