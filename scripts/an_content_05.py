@@ -8529,3 +8529,2295 @@ page(
         "chapter-closing colophon structure was first explained in full.",
     ],
 )
+
+
+VAGGA_5 = "<em>Muṇḍarājavagga</em> &mdash; the fifth chapter of the Fives"
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.41 — Ādiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, "Ādiya", "Getting Rich",
+    vagga=VAGGA_5,
+    meta_title="AN 5.41 — Getting Rich | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ādiyasutta — five "
+        "legitimate uses of wealth, from supporting one's own household to spirit-offerings for "
+        "relatives, guests, ancestors, king, and deities, leaving a giver with no regrets either "
+        "way. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery; stated at the head of "
+                    "AN 5.41"),
+        ("Speakers", "The householder Anāthapiṇḍika, addressed directly by the Buddha"),
+        ("Form", "Five uses of legitimate wealth stated in turn, then a two-sided formula for "
+                 "regret, closing with verses"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Fivefold schemes for the proper use of wealth, including "
+                              "offerings to ancestors and rulers, recur across the Chinese "
+                              "Āgamas' lay-ethics material; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; opens this chapter with an "
+                       "unusually wide-ranging account of a householder's obligations"),
+    ],
+    why=(
+        "This chapter takes its name from King Muṇḍa, whose grief closes it at AN 5.50, but "
+        "opens with something much less dramatic: a direct address to Anāthapiṇḍika, the "
+        "Buddha's most prominent lay donor, on what legitimately earned wealth is actually for. "
+        "The five reasons range from the intimate &mdash; making one's own household happy "
+        "&mdash; to the frankly cosmological: five spirit-offerings to relatives, guests, "
+        "ancestors, the king, and deities, sitting inside a Buddhist discourse without comment "
+        "or apology."),
+    guide=[
+        ("The teaching in one sentence", [
+            "With legitimate wealth, earned by one's own effort, a noble disciple makes "
+            "themselves and their household happy, makes friends and colleagues happy, protects "
+            "against loss, makes five spirit-offerings, and supports virtuous ascetics and "
+            "brahmins with a religious donation."]),
+        ("Wealth&rsquo;s legitimacy, stated before its use", [
+            "Every one of the five reasons is prefaced by the identical qualifying phrase: wealth "
+            "<em>earned by his efforts and initiative, built up with his own hands, gathered by "
+            "the sweat of the brow</em>, and <em>dhammikehi dhammaladdhehi</em>, legitimate and "
+            "legitimately acquired. The discourse is not indifferent to how wealth was obtained; "
+            "the five uses that follow are licensed only for wealth that meets this standard "
+            "first."]),
+        ("Five spirit-offerings, without comment", [
+            "The fourth reason names <em>pañcabali</em>, five spirit-offerings, to relatives, "
+            "guests, ancestors, the king, and deities &mdash; a frankly non-monastic, culturally "
+            "embedded set of obligations that this discourse simply includes as one of five "
+            "legitimate uses of wealth, alongside supporting virtuous renunciates. This reading "
+            "guide does not read this as a later addition or an embarrassment to be explained "
+            "away; the discourse places ordinary social and religious duty and support for "
+            "Buddhist practitioners side by side, without ranking one above the other."]),
+        ("No regrets, either way", [
+            "The discourse's final claim is its most psychologically interesting: a noble "
+            "disciple who has used their wealth for these five reasons has no regrets whether "
+            "their wealth later runs out or increases. Regret, on this account, is not a "
+            "response to outcome; it is a response to whether the wealth was rightly used while "
+            "it was held. Once that condition is met, the discourse says, either direction of "
+            "fortune leaves the disciple equally free of remorse."]),
+        ("The verses' closing claim", [
+            "The verses restate the five uses in the first person and close with "
+            "<em>I've achieved the goal for which an astute layperson wishes to gain wealth. I "
+            "don't regret what I've done</em> &mdash; framing the entire discourse not as a rule "
+            "to obey but as a description of what a satisfied conscience, examined honestly, "
+            "actually rests on."]),
+    ],
+    terms=[
+        ("bhogānaṁ ādiya",
+         "&ldquo;reason to get rich, use of wealth&rdquo; &mdash; this discourse's title and "
+         "organizing concept, naming five licensed purposes for legitimately earned wealth."),
+        ("dhammikehi dhammaladdhehi",
+         "&ldquo;legitimate and legitimately acquired&rdquo; &mdash; the qualifying phrase "
+         "attached to every one of the five uses, marking wealth's origin as a precondition."),
+        ("pañcabali",
+         "&ldquo;five spirit-offerings&rdquo; &mdash; to relatives, guests, ancestors, the king, "
+         "and deities, the fourth and most culturally specific of the five uses."),
+        ("uddhaggikā dakkhiṇā",
+         "&ldquo;an uplifting religious donation&rdquo; &mdash; the fifth use, support for "
+         "virtuous ascetics and brahmins, conducive to heaven."),
+        ("avippaṭisāra",
+         "&ldquo;without regret&rdquo; &mdash; the discourse's closing psychological claim, "
+         "holding regardless of whether wealth later increases or is lost."),
+    ],
+    text_intro=(
+        "The discourse in full: the five reasons to get rich, and the formula for freedom from "
+        "regret regardless of outcome, closing with verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five reasons to get rich"),
+        ("p", "&sect;1", "an5.41:1.1-1.2"),
+        ("p", "&sect;2", "an5.41:1.3-1.4"),
+        ("p", "&sect;3", "an5.41:1.5-1.8"),
+        ("p", "&sect;4", "an5.41:2.1-2.2"),
+        ("p", "&sect;5", "an5.41:3.1-3.4"),
+        ("p", "&sect;6", "an5.41:4.1-4.3"),
+        ("p", "&sect;7", "an5.41:5.1-5.2"),
+        ("h3", "No regrets, either way"),
+        ("p", "&sect;8", "an5.41:6.1-6.6"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;9", "an5.41:7.1-7.6"),
+        ("p", "&sect;10", "an5.41:8.1-8.4"),
+        ("p", "&sect;11", "an5.41:9.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What five reasons does this discourse give for legitimately getting rich?",
+         "opts": [
+             "The five powers of a trainee",
+             "Making self and household happy, making friends happy, protecting against loss, "
+             "spirit-offerings, and supporting virtuous ascetics",
+             "Investment, savings, trade, taxation, and inheritance",
+             "Faith, ethics, learning, generosity, and wisdom"],
+         "correct": 1,
+         "expl": "Five licensed purposes, each requiring legitimately earned wealth first."},
+        {"q": "What qualifying phrase is attached to every one of the five reasons?",
+         "opts": [
+             "None; the discourse gives no qualification",
+             "That the wealth is legitimate and legitimately acquired, earned by one's own effort",
+             "That the wealth must exceed a certain amount",
+             "That the wealth must be inherited"],
+         "correct": 1,
+         "expl": "Dhammikehi dhammaladdhehi — a precondition attached before every listed use."},
+        {"q": "What does the fourth reason, the five spirit-offerings, name as recipients?",
+         "opts": [
+             "Only monastics",
+             "Relatives, guests, ancestors, the king, and deities",
+             "Only the poor",
+             "Only close family"],
+         "correct": 1,
+         "expl": "A culturally embedded, non-monastic set of obligations included without apology."},
+        {"q": "How does the guide read the presence of spirit-offerings alongside support for "
+              "Buddhist renunciates in this list?",
+         "opts": [
+             "As a later addition to be explained away or dismissed as inauthentic",
+             "As the discourse placing ordinary social and religious duty and support for "
+             "practitioners side by side, without ranking one above the other",
+             "As a contradiction the text fails to resolve",
+             "As evidence the discourse is not really about Buddhist wealth ethics at all"],
+         "correct": 1,
+         "expl": "Presented honestly, without smoothing over its non-monastic content."},
+        {"q": "What does the discourse claim about regret if wealth later runs out?",
+         "opts": [
+             "The disciple will necessarily regret their choices",
+             "There is no regret, since the wealth was rightly used while it was held",
+             "The discourse takes no position on this",
+             "Regret depends entirely on how much wealth was lost"],
+         "correct": 1,
+         "expl": "Regret is tied to right use, not to outcome, on this discourse's account."},
+        {"q": "What does the discourse claim about regret if wealth increases instead?",
+         "opts": [
+             "Regret increases proportionally",
+             "The same freedom from regret holds, since the underlying condition — right use — is "
+             "unchanged",
+             "The disciple should feel guilty about the increase",
+             "The discourse does not address this case"],
+         "correct": 1,
+         "expl": "Both directions of fortune leave the disciple equally free of remorse."},
+        {"q": "Who is this discourse addressed to?",
+         "opts": [
+             "A group of mendicants generally",
+             "The householder Anāthapiṇḍika, the Buddha's prominent lay donor",
+             "King Muṇḍa",
+             "Princess Sumanā"],
+         "correct": 1,
+         "expl": "A direct address to a specific, well-known lay figure."},
+        {"q": "What does the closing verse say an astute layperson has achieved through this "
+              "right use of wealth?",
+         "opts": [
+             "Nothing of lasting value",
+             "The very goal for which an astute layperson wishes to gain wealth, with no regret "
+             "for what was done",
+             "Only temporary satisfaction",
+             "Guaranteed enlightenment"],
+         "correct": 1,
+         "expl": "A description of a satisfied conscience, examined honestly."},
+        {"q": "What kinds of loss does the third reason protect against?",
+         "opts": [
+             "Only financial market fluctuations",
+             "Fire, water, kings, bandits, and unloved heirs",
+             "Only natural disasters",
+             "Only theft"],
+         "correct": 1,
+         "expl": "A specific, concrete list of disaster and misfortune scenarios."},
+        {"q": "What chapter does this discourse open, and what does its title reference?",
+         "opts": [
+             "The Sekhabalavagga",
+             "The Muṇḍarājavagga, named for King Muṇḍa, whose grief closes the chapter at AN 5.50",
+             "The Balavagga",
+             "The Pañcaṅgikavagga"],
+         "correct": 1,
+         "expl": "A very different opening than the chapter's dramatic closing narrative."},
+    ],
+    marginalia=[
+        ("Five uses", [
+            "self &amp; household",
+            "friends, colleagues",
+            "protection from loss",
+            "spirit-offerings",
+            "religious donation",
+        ]),
+        ("A precondition first", [
+            "<span class=\"pali\">dhammikehi</span>",
+            "&mdash; legitimate,",
+            "before anything else",
+        ]),
+        ("No regrets, either way", [
+            "wealth shrinks &rarr; no regret",
+            "wealth grows &rarr; no regret",
+            "&mdash; use, not outcome",
+        ]),
+        ("Cross-references", [
+            "AN 5.34&ndash;40 &middot; giving, at length",
+            "AN 5.42 &middot; next: a true person's benefit",
+            "AN 5.50 &middot; the chapter's namesake",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.41/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.40.html">AN 5.40 &middot; Great Sal Trees</a> &mdash; the previous '
+        "chapter's closing discourse, on a household's growth.",
+        '<a href="an-5.42.html">AN 5.42 &middot; A True Person</a> &mdash; next, on the benefit a '
+        "person brings simply by being born into a family.",
+        '<a href="an-5.50.html">AN 5.50 &middot; With Nārada</a> &mdash; the chapter&rsquo;s '
+        "closing discourse, naming King Muṇḍa this vagga is titled for.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.42 — Sappurisasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, "Sappurisa", "A True Person",
+    vagga=VAGGA_5,
+    meta_title="AN 5.42 — A True Person | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sappurisasutta — a true "
+        "person born into a family benefits everyone connected to it, parents to ascetics, "
+        "compared to a rain cloud that nourishes every crop it falls on. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single claim of benefit extended through six named groups, illustrated by "
+                 "one simile, closing with verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The rain-cloud image for a beneficial person's widespread effect "
+                              "recurs across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and companion to AN "
+                       "5.41's account of what wealth is for"),
+    ],
+    why=(
+        "Where AN 5.41 detailed how a true person uses wealth, this discourse states something "
+        "broader and prior: a true person's mere existence in a family is already a benefit, "
+        "before any wealth changes hands. Six groups are named as beneficiaries in turn &mdash; "
+        "parents, children and partners, household staff, friends, and ascetics and brahmins "
+        "&mdash; and the whole claim is compressed into one image: a great rain cloud, which "
+        "nourishes every crop it falls on without needing to be asked."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A true person, born into a family, is for the benefit, welfare, and happiness of "
+            "many people: their parents, children and partners, household staff, friends and "
+            "colleagues, and ascetics and brahmins."]),
+        ("Benefit prior to action", [
+            "AN 5.41 concerned what a true person <em>does</em> with wealth. This discourse "
+            "concerns what a true person simply <em>is</em>, once born into a family &mdash; the "
+            "claim precedes any specific act of giving or support. Read together, the two "
+            "discourses distinguish a person&rsquo;s existence as a source of benefit from their "
+            "actions as a further, separate source, layered on top."]),
+        ("A widening circle, named in order", [
+            "The six beneficiaries move outward in a specific sequence: parents first, then "
+            "children and partners, then household staff, then friends and colleagues, then "
+            "ascetics and brahmins &mdash; from the most intimate relationships to the most "
+            "public. The rain-cloud simile matches this widening: a cloud does not choose which "
+            "crops to nourish, and neither does the benefit of a true person&rsquo;s presence "
+            "stop at the household&rsquo;s edge."]),
+        ("The verses' additional claim", [
+            "The closing verses add something the prose does not state directly: that <em>the "
+            "gods protect one who is guarded by principle</em>, and that someone learned, "
+            "ethical, and steady in principle <em>doesn't lose their reputation</em>. The verses "
+            "extend the discourse&rsquo;s claim from human beneficiaries to divine protection, "
+            "and frame reputation itself as a natural consequence of steadiness rather than "
+            "something separately pursued."]),
+        ("Where this fits the chapter's arc", [
+            "Between AN 5.41's account of wealth's proper use and AN 5.50's narrative of a "
+            "king's grief, this discourse and the next several establish what a genuinely "
+            "beneficial life and a genuinely satisfying one consist of &mdash; groundwork the "
+            "chapter will need before it turns, at its close, to what cannot be secured by any "
+            "of it."]),
+    ],
+    terms=[
+        ("sappurisa",
+         "&ldquo;true person, good person&rdquo; &mdash; this discourse's subject, already met "
+         "as a term across earlier discourses in this chapter and nipāta."),
+        ("atthāya hitāya sukhāya",
+         "&ldquo;for the benefit, welfare, and happiness&rdquo; &mdash; the fixed triple phrase "
+         "repeated for each of the six named groups."),
+        ("mahāmegha",
+         "&ldquo;great rain cloud&rdquo; &mdash; the discourse's central simile, chosen for "
+         "nourishing every crop without needing to be asked."),
+        ("dhammagutta",
+         "&ldquo;guarded by principle&rdquo; &mdash; the closing verse's description of one "
+         "whom the gods are said to protect."),
+        ("bahussuta",
+         "&ldquo;learned&rdquo; &mdash; one of three qualities, alongside ethics and steadiness, "
+         "the verses say prevents a loss of reputation."),
+    ],
+    text_intro=(
+        "The discourse in full: the six beneficiaries of a true person's presence, the rain-cloud "
+        "simile, and the closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.42:1.1-1.6"),
+        ("h3", "The rain cloud"),
+        ("p", "&sect;2", "an5.42:2.1-2.7"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;3", "an5.42:3.1-3.4"),
+        ("p", "&sect;4", "an5.42:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about a true person's existence, distinct from "
+              "AN 5.41's claim?",
+         "opts": [
+             "That a true person must actively give wealth to benefit anyone",
+             "That a true person's mere presence in a family is already a benefit, prior to any "
+             "specific action",
+             "That only wealthy people can be true persons",
+             "That true persons benefit no one but themselves"],
+         "correct": 1,
+         "expl": "Existence as a source of benefit, distinguished from action as a further, separate source."},
+        {"q": "What six groups does the discourse name as benefiting from a true person's "
+              "presence?",
+         "opts": [
+             "Only monastics",
+             "Parents, children and partners, household staff, friends and colleagues, and "
+             "ascetics and brahmins",
+             "Only the wealthy",
+             "Only the king and his court"],
+         "correct": 1,
+         "expl": "A widening circle from the most intimate relationships to the most public."},
+        {"q": "What does the rain-cloud simile illustrate?",
+         "opts": [
+             "That benefit is selective and must be earned",
+             "That a true person nourishes everyone connected to them without needing to be asked, "
+             "like a cloud nourishing every crop it falls on",
+             "That rain is unpredictable and unreliable",
+             "That wealth, not presence, is what actually matters"],
+         "correct": 1,
+         "expl": "An image chosen for its indiscriminate, widespread benefit."},
+        {"q": "What does the closing verse add about divine protection?",
+         "opts": [
+             "Nothing; the verses only repeat the prose",
+             "That the gods protect one who is guarded by principle",
+             "That the gods are indifferent to human conduct",
+             "That only kings receive divine protection"],
+         "correct": 1,
+         "expl": "An extension from human beneficiaries to divine protection, not stated in the prose."},
+        {"q": "How does the guide frame this discourse's relationship to AN 5.41?",
+         "opts": [
+             "As unrelated, on a completely different topic",
+             "As a companion discourse, establishing benefit prior to action where AN 5.41 "
+             "concerned action itself",
+             "As a direct contradiction of AN 5.41",
+             "As a verbatim repeat of AN 5.41"],
+         "correct": 1,
+         "expl": "Existence and action treated as two layered sources of benefit."},
+        {"q": "In what order are the six beneficiary groups named?",
+         "opts": [
+             "Randomly, with no discernible order",
+             "From the most intimate relationships outward to the most public",
+             "From wealthiest to poorest",
+             "Alphabetically"],
+         "correct": 1,
+         "expl": "Parents first, ascetics and brahmins last — matching the rain cloud's widening reach."},
+        {"q": "What three qualities does the closing verse say prevent a loss of reputation?",
+         "opts": [
+             "Wealth, beauty, and fame",
+             "Being learned, having intact ethics, and being steady in principle",
+             "Physical strength, courage, and cunning",
+             "Royal favor, popularity, and luck"],
+         "correct": 1,
+         "expl": "Bahussuta, sīlavatūpapanna, and steadiness in dhamma."},
+        {"q": "What does the guide say this discourse and its neighbors establish, ahead of the "
+              "chapter's close?",
+         "opts": [
+             "Nothing relevant to the chapter's ending",
+             "What a genuinely beneficial and satisfying life consists of, groundwork for what the "
+             "chapter shows cannot be secured by any of it",
+             "A direct preview of King Muṇḍa's grief",
+             "A contradiction of the chapter's later material"],
+         "correct": 1,
+         "expl": "Groundwork the chapter needs before turning to its final theme."},
+        {"q": "Is a specific act of wealth-giving required for the benefit this discourse "
+              "describes?",
+         "opts": [
+             "Yes, wealth must always be given",
+             "No — the benefit described is prior to and separate from any specific act",
+             "Only for the sixth group, ascetics and brahmins",
+             "The discourse does not address this question"],
+         "correct": 1,
+         "expl": "The claim concerns presence and character, not a specific transaction."},
+        {"q": "Where is AN 5.42 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Rājagaha",
+             "Vesālī"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Six beneficiaries", [
+            "parents &middot; children/partners",
+            "household staff",
+            "friends &middot; ascetics",
+        ]),
+        ("The image", [
+            "<span class=\"pali\">mahāmegha</span>",
+            "&mdash; nourishes every crop,",
+            "unasked",
+        ]),
+        ("Existence, then action", [
+            "AN 5.42: presence itself",
+            "AN 5.41: wealth's right use",
+            "&mdash; two layered sources",
+        ]),
+        ("Cross-references", [
+            "AN 5.41 &middot; wealth's proper use",
+            "AN 5.43 &middot; next: what can't be prayed for",
+            "AN 5.38 &middot; the banyan, a related image",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.42/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.41.html">AN 5.41 &middot; Getting Rich</a> &mdash; the previous discourse, '
+        "on wealth's five legitimate uses.",
+        '<a href="an-5.43.html">AN 5.43 &middot; Likable</a> &mdash; next, on what is hard to get '
+        "and why prayer alone can't secure it.",
+        '<a href="an-5.38.html">AN 5.38 &middot; Faith</a> &mdash; the earlier banyan-tree image, '
+        "sharing this discourse's picture of one person sheltering many.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.43 — Iṭṭhasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, "Iṭṭha", "Likable",
+    vagga=VAGGA_5,
+    meta_title="AN 5.43 — Likable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Iṭṭhasutta — five "
+        "things everyone wants and few get, and the Buddha's blunt claim that none of them come "
+        "from praying or wishing, only from practicing the way that leads to each. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "None restated, though the same Anāthapiṇḍika continues as questioner from "
+                    "AN 5.41"),
+        ("Speakers", "The householder Anāthapiṇḍika, addressed by the Buddha"),
+        ("Form", "Five desired things named, a flat rejection of prayer as their cause, five "
+                 "parallel formulas naming practice instead, closing with verses"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Rejecting supplication in favor of causal practice as the route to "
+                              "desired outcomes is a recurring emphasis across the Chinese "
+                              "Āgamas' treatment of karma; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a direct, almost "
+                       "argumentative discourse against wishing as a method"),
+    ],
+    why=(
+        "This discourse makes one of the most direct anti-magical-thinking arguments in the "
+        "collection so far. Long life, beauty, happiness, fame, and heaven &mdash; five things "
+        "everyone wants and few get &mdash; are named, and the Buddha states flatly that they "
+        "are <em>not got by supplication or wishing for them</em>, adding the plainest possible "
+        "reason: <em>if they were, who would lack them?</em> What follows is not resignation but "
+        "redirection: five parallel instructions to practice the way that actually leads to each."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Long life, beauty, happiness, fame, and heaven are hard to get and are not obtained "
+            "by praying, hoping, or pining for them; a noble disciple who wants any of them "
+            "should instead practice the way that leads to it."]),
+        ("An argument, not just an assertion", [
+            "The Buddha does not simply state that prayer doesn't work; he gives a reason: "
+            "<em>if they were [got by supplication], who would lack them?</em> Since these five "
+            "things are visibly unevenly distributed &mdash; some people are long-lived, others "
+            "are not, some famous, others not &mdash; and everyone presumably wishes for all "
+            "five, the uneven distribution itself is offered as evidence that wishing is not the "
+            "operative mechanism."]),
+        ("Five parallel formulas, one structure", [
+            "For each of the five, the identical three-part structure repeats: a noble disciple "
+            "should not pray, hope, or pine for it; instead they should practice the way that "
+            "leads to it; and by practicing that way, they gain it, as a god or a human. The "
+            "discourse does not vary this structure once across all five applications, making it "
+            "function as a general template for how any desired outcome should be pursued, not "
+            "only these five specific ones."]),
+        ("What the discourse does not specify", [
+            "Notably, this discourse never states what &lsquo;the way that leads to&rsquo; long "
+            "life, beauty, happiness, fame, or heaven actually consists of. That content has "
+            "already been supplied elsewhere in this nipāta &mdash; AN 5.37's giving of food, for "
+            "instance, was explicitly said to produce exactly these kinds of results. This "
+            "discourse assumes that groundwork rather than repeating it, and states only the "
+            "general principle: cause, not petition, produces effect."]),
+        ("The closing verses' redefinition of &lsquo;astute&rsquo;", [
+            "The verses close by defining <em>paṇḍita</em>, astute, not as clever or "
+            "knowledgeable in the abstract but as someone who secures <em>both benefits</em> "
+            "&mdash; the benefit in this life and in lives to come &mdash; through diligence in "
+            "merit-making. Astuteness, on this account, is measured by effective practice, not by "
+            "intellectual sophistication."]),
+    ],
+    terms=[
+        ("iṭṭhā kantā manāpā dullabhā",
+         "&ldquo;likable, desirable, agreeable, hard to get&rdquo; &mdash; the fourfold "
+         "description opening the discourse, naming both the appeal and the scarcity of its five "
+         "subjects."),
+        ("āyācanahetu patthanāhetu",
+         "&ldquo;by reason of supplication, by reason of wishing&rdquo; &mdash; the two causes "
+         "explicitly ruled out as producing any of the five desired things."),
+        ("saṁvattanikā paṭipadā",
+         "&ldquo;the way that leads to it&rdquo; &mdash; the discourse's fixed phrase for the "
+         "practice substituted for prayer, repeated identically five times."),
+        ("dibba mānusa",
+         "&ldquo;divine or human&rdquo; &mdash; the two forms of existence in which each of the "
+         "five things is said to be gained through practice."),
+        ("paṇḍita",
+         "&ldquo;astute&rdquo; &mdash; redefined in the closing verse as one who secures both "
+         "this-life and future-life benefit through diligence."),
+    ],
+    text_intro=(
+        "The discourse in full: the five hard-to-get things, the rejection of prayer, and the "
+        "five parallel instructions to practice instead, closing with verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.43:1.1"),
+        ("h3", "Five hard-to-get things"),
+        ("p", "&sect;2", "an5.43:2.1-2.8"),
+        ("h3", "Not by prayer or wishing"),
+        ("p", "&sect;3", "an5.43:3.1-3.2"),
+        ("h3", "The way that leads to each"),
+        ("p", "&sect;4", "an5.43:4.1-4.4"),
+        ("p", "&sect;5", "an5.43:5.1-5.4"),
+        ("p", "&sect;6", "an5.43:6.1-6.4"),
+        ("p", "&sect;7", "an5.43:7.1-7.4"),
+        ("p", "&sect;8", "an5.43:8.1-8.4"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;9", "an5.43:9.1-9.4"),
+        ("p", "&sect;10", "an5.43:10.1-10.4"),
+        ("p", "&sect;11", "an5.43:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What five things does this discourse name as hard to get in the world?",
+         "opts": [
+             "Faith, ethics, learning, generosity, and wisdom",
+             "Long life, beauty, happiness, fame, and heaven",
+             "The five powers of a trainee",
+             "Wealth, family, health, friends, and status"],
+         "correct": 1,
+         "expl": "Five broadly desired things, said to be hard to obtain."},
+        {"q": "What does the Buddha explicitly say does NOT produce these five things?",
+         "opts": [
+             "Ethical conduct",
+             "Supplication or wishing for them",
+             "Practicing the appropriate way",
+             "Generosity"],
+         "correct": 1,
+         "expl": "Prayer and hope are ruled out directly."},
+        {"q": "What reasoning does the Buddha give for rejecting prayer as the cause?",
+         "opts": [
+             "No reasoning is given at all",
+             "'If they were [got by supplication], who would lack them?' — since desired things "
+             "are unevenly distributed despite everyone presumably wishing for them",
+             "A quotation from an earlier teacher",
+             "A prediction about future rebirths"],
+         "correct": 1,
+         "expl": "The uneven distribution of these five things is offered as evidence against wishing as the mechanism."},
+        {"q": "What does the discourse instruct instead of praying or wishing?",
+         "opts": [
+             "Giving up on the desired outcome entirely",
+             "Practicing the way that leads to that outcome",
+             "Consulting an oracle",
+             "Waiting passively for fate to decide"],
+         "correct": 1,
+         "expl": "The identical three-part structure — no prayer, practice instead, gain follows — repeats five times."},
+        {"q": "Does this discourse specify exactly what practice leads to each of the five "
+              "things?",
+         "opts": [
+             "Yes, in full detail for each",
+             "No — it states only the general principle, assuming groundwork already supplied "
+             "elsewhere in this nipāta, such as AN 5.37's giving of food",
+             "It specifies only for long life",
+             "It specifies only for heaven"],
+         "correct": 1,
+         "expl": "The general causal principle is stated; specific content comes from earlier discourses like AN 5.37."},
+        {"q": "How does the closing verse redefine 'paṇḍita', astute?",
+         "opts": [
+             "As someone with the highest intelligence",
+             "As someone who secures both this-life and future-life benefit through diligence in "
+             "merit-making, not merely cleverness",
+             "As someone born into a wealthy family",
+             "As a synonym for arahant"],
+         "correct": 1,
+         "expl": "Astuteness measured by effective practice, not intellectual sophistication."},
+        {"q": "Is this discourse an argument for resignation in the face of these five hard-to-get "
+              "things?",
+         "opts": [
+             "Yes, it counsels giving up entirely",
+             "No — it redirects toward practice rather than counseling either wishing or "
+             "resignation",
+             "Yes, it claims these things are entirely unattainable",
+             "The discourse takes no position at all"],
+         "correct": 1,
+         "expl": "A redirection toward causal practice, not a counsel of despair."},
+        {"q": "How many times does the identical three-part formula (no prayer, practice instead, "
+              "gain follows) repeat across the discourse?",
+         "opts": ["Once", "Twice", "Five times, once per desired thing", "Ten times"],
+         "correct": 2,
+         "expl": "One unvarying structure applied to long life, beauty, happiness, fame, and heaven in turn."},
+        {"q": "In what two forms of existence does practice yield each of the five things?",
+         "opts": [
+             "Only as a human",
+             "As a god or human (dibba vā mānusa vā)",
+             "Only as a god",
+             "As an animal"],
+         "correct": 1,
+         "expl": "The same two destinations named across several discourses in this chapter."},
+        {"q": "Who does this discourse continue addressing from AN 5.41?",
+         "opts": [
+             "Princess Sumanā",
+             "The householder Anāthapiṇḍika",
+             "General Sīha",
+             "King Muṇḍa"],
+         "correct": 1,
+         "expl": "The setting is not restated, but the same interlocutor continues."},
+    ],
+    marginalia=[
+        ("Five hard-to-get things", [
+            "long life &middot; beauty",
+            "happiness &middot; fame",
+            "heaven",
+        ]),
+        ("Not by wishing", [
+            "&ldquo;if prayer worked,",
+            "who would lack them?&rdquo;",
+        ]),
+        ("Practice, instead", [
+            "<span class=\"pali\">saṁvattanikā paṭipadā</span>",
+            "&mdash; the way that leads,",
+            "repeated five times",
+        ]),
+        ("Cross-references", [
+            "AN 5.37 &middot; the specific practice, for one case",
+            "AN 5.42 &middot; a person's own benefit",
+            "AN 5.44 &middot; next: the giver of the agreeable",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.43/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.41.html">AN 5.41 &middot; Getting Rich</a> &mdash; the discourse this one '
+        "continues from, addressed to the same householder.",
+        '<a href="an-5.37.html">AN 5.37 &middot; Food</a> &mdash; the specific practice this '
+        "discourse's general principle presupposes, for one of its five items.",
+        '<a href="an-5.44.html">AN 5.44 &middot; Agreeable</a> &mdash; next, a vivid narrative '
+        "instance of practice producing exactly what this discourse describes.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.44 — Manāpadāyīsutta
+# --------------------------------------------------------------------------- #
+page(
+    44, "Manāpadāyī", "Agreeable",
+    vagga=VAGGA_5,
+    meta_title="AN 5.44 — Agreeable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Manāpadāyīsutta — Ugga "
+        "of Vesālī offers the Buddha six specific things he finds agreeable, catching himself "
+        "before offering an improper couch, then returns after death as a god to confirm the "
+        "principle held. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the peaked roof, then Ugga's "
+                    "own home; later, Jeta's Grove near Sāvatthī"),
+        ("Speakers", "The householder Ugga of Vesālī, and later his own reborn self, a mind-made "
+                     "god"),
+        ("Form", "Six sequential offerings, each citing the same principle, one self-corrected "
+                 "mid-offer, followed by the donor's death, rebirth, and return"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "Narratives of a lay donor's rebirth confirming the fruit of a "
+                              "specific gift recur across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; this chapter's most concrete "
+                       "and narratively complete discourse, naming real foods and fabrics by "
+                       "name"),
+    ],
+    why=(
+        "This discourse illustrates AN 5.43's abstract principle &mdash; practice, not wishing, "
+        "produces results &mdash; with the most specific and human episode this chapter offers. "
+        "Ugga, a householder who has personally heard the Buddha say <em>the giver of the "
+        "agreeable gets the agreeable</em>, offers six things he finds agreeable in turn: sal "
+        "flower porridge, pork with jujube, fried vegetable stalks, fine rice, imported cloth, "
+        "and finally &mdash; catching himself &mdash; not his own luxurious couch, which he "
+        "knows is improper for the Buddha to accept, but an extremely valuable sandalwood plank "
+        "instead."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Citing what he has personally heard the Buddha say &mdash; the giver of the "
+            "agreeable gets the agreeable &mdash; Ugga offers six things he finds agreeable in "
+            "turn, and after his death is reborn as a god who confirms that everything happened "
+            "just as he wished."]),
+        ("Six offerings, named specifically", [
+            "Nothing about this discourse is abstract. Sal flower porridge, pork with jujube, "
+            "fried vegetable stalks, boiled fine rice with the dark grains picked out, cloths "
+            "imported from Kāsi &mdash; each named plainly, each offered with the identical "
+            "formula: <em>this is agreeable to me; may the Buddha please accept it out of "
+            "sympathy</em>. The specificity is the point; this is not a discourse about giving in "
+            "the abstract but about one donor's actual, named possessions."]),
+        ("The sixth offering, and Ugga's own correction", [
+            "Ugga's sixth offer begins with an elaborate couch &mdash; woolen covers, deer hide, "
+            "a canopy, red pillows &mdash; and then he stops himself: <em>but, sir, I know that "
+            "this is not proper for the Buddha</em>. Without being corrected by anyone, Ugga "
+            "recognizes the mismatch between what he finds agreeable and what a mendicant may "
+            "accept, and substitutes a sandalwood plank worth, the text says, over a thousand "
+            "dollars. This moment of self-aware adjustment, offered by the donor himself rather "
+            "than prompted by the Buddha, is worth noticing as a small but genuine act of "
+            "discernment about what generosity should actually take the form of."]),
+        ("Death, rebirth, and confirmation", [
+            "The discourse does not end with the meal. Some time later Ugga dies and is reborn "
+            "<em>as a host of mind-made gods</em>, and returns, glowing, to visit the Buddha at "
+            "Sāvatthī. The Buddha asks directly, <em>I trust it is all you wished?</em>, and "
+            "Ugga answers, just as directly, <em>it is indeed just as I wished</em>. The claim "
+            "made at the discourse's opening is not left as doctrine alone; it is tested against "
+            "an actual outcome, reported by the person it happened to."]),
+        ("The verses' escalation", [
+            "The Buddha's closing verses to the godling escalate the principle stated to Ugga in "
+            "life: <em>the giver of the foremost gets the foremost, the giver of the excellent "
+            "gets the excellent, the giver of the best gets the best</em>. What began as a claim "
+            "about matching an ordinary preference &mdash; agreeable food gets agreeable results "
+            "&mdash; is restated as a claim about quality generally: the standard of what is "
+            "given is said to set the standard of what is received."]),
+    ],
+    terms=[
+        ("manāpadāyī labhate manāpaṁ",
+         "&ldquo;the giver of the agreeable gets the agreeable&rdquo; &mdash; the principle Ugga "
+         "cites at the opening of every one of his six offerings."),
+        ("anukampaṁ upādāya",
+         "&ldquo;out of sympathy&rdquo; &mdash; the phrase describing why the Buddha accepts each "
+         "gift, framing acceptance as a kindness to the giver rather than a need on his own part."),
+        ("netaṁ bhagavato kappati",
+         "&ldquo;this is not proper for the Buddha&rdquo; &mdash; Ugga&rsquo;s own words, "
+         "recognizing unprompted that his couch is inappropriate to offer."),
+        ("manomaya kāya",
+         "&ldquo;mind-made body&rdquo; &mdash; the form of rebirth Ugga takes after death, "
+         "returning to confirm the discourse's opening claim in person."),
+        ("aggadāyī",
+         "&ldquo;giver of the foremost&rdquo; &mdash; the escalated principle in the closing "
+         "verses, generalizing from agreeable food to quality generally."),
+    ],
+    text_intro=(
+        "The discourse in full: Ugga's six offerings, his own correction before the sixth, the "
+        "Buddha's verses, and Ugga's return after death to confirm the outcome. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "At Ugga's home"),
+        ("p", "&sect;1", "an5.44:1.1-1.2"),
+        ("h3", "The first offering: porridge"),
+        ("p", "&sect;2", "an5.44:1.3-2.5"),
+        ("h3", "The second offering: pork with jujube"),
+        ("p", "&sect;3", "an5.44:3.1-3.5"),
+        ("h3", "The third offering: fried vegetables"),
+        ("p", "&sect;4", "an5.44:4.1-4.5"),
+        ("h3", "The fourth offering: fine rice"),
+        ("p", "&sect;5", "an5.44:5.1-5.5"),
+        ("h3", "The fifth offering: Kāsi cloth"),
+        ("p", "&sect;6", "an5.44:6.1-6.5"),
+        ("h3", "The sixth offering, corrected"),
+        ("p", "&sect;7", "an5.44:7.1-7.9"),
+        ("h3", "The Buddha's verses of appreciation"),
+        ("p", "&sect;8", "an5.44:8.1-8.4"),
+        ("p", "&sect;9", "an5.44:9.1-9.4"),
+        ("p", "&sect;10", "an5.44:10.1"),
+        ("h3", "Ugga's return, as a god"),
+        ("p", "&sect;11", "an5.44:11.1-11.3"),
+        ("p", "&sect;12", "an5.44:11.4-11.6"),
+        ("p", "&sect;13", "an5.44:11.7"),
+        ("h3", "The Buddha's final verses"),
+        ("p", "&sect;14", "an5.44:12.1-12.4"),
+        ("p", "&sect;15", "an5.44:13.1-13.4"),
+    ],
+    quiz=[
+        {"q": "What principle does Ugga cite before every one of his offerings?",
+         "opts": [
+             "That giving guarantees enlightenment",
+             "'The giver of the agreeable gets the agreeable', which he says he heard directly "
+             "from the Buddha",
+             "That only wealthy donors receive good rebirths",
+             "That food offerings are worthless"],
+         "correct": 1,
+         "expl": "A principle he explicitly attributes to hearing it in the Buddha's own presence."},
+        {"q": "What does Ugga do differently with his sixth offering compared to the first five?",
+         "opts": [
+             "He offers nothing at all",
+             "He begins to describe an elaborate couch, then catches himself, recognizing it is "
+             "not proper for the Buddha, and substitutes a sandalwood plank instead",
+             "He refuses to let the Buddha accept it",
+             "He offers exactly the same item as before"],
+         "correct": 1,
+         "expl": "Self-aware correction, offered by the donor himself without prompting."},
+        {"q": "What happens to Ugga after this discourse's meal scene?",
+         "opts": [
+             "Nothing further is recorded",
+             "He dies some time later and is reborn as a host of mind-made gods, then returns to "
+             "visit the Buddha",
+             "He becomes a mendicant immediately",
+             "He loses his wealth"],
+         "correct": 1,
+         "expl": "The discourse follows him through death and rebirth to confirm its own claim."},
+        {"q": "What does the Buddha ask the reborn Ugga, and how does Ugga answer?",
+         "opts": [
+             "'Do you regret your generosity?' — 'Yes, deeply'",
+             "'I trust it is all you wished?' — 'It is indeed just as I wished'",
+             "'Who are you?' — Ugga does not answer",
+             "The Buddha asks nothing at all"],
+         "correct": 1,
+         "expl": "A direct confirmation of the outcome, reported by the person it happened to."},
+        {"q": "How do the Buddha's final verses escalate the principle from earlier in the "
+              "discourse?",
+         "opts": [
+             "They contradict the earlier principle",
+             "They generalize from agreeable food specifically to quality generally — the giver "
+             "of the foremost, excellent, and best gets the same in return",
+             "They abandon the topic of giving entirely",
+             "They apply only to Ugga personally, with no wider claim"],
+         "correct": 1,
+         "expl": "From matching an ordinary preference to a broader claim about quality and outcome."},
+        {"q": "What items does Ugga offer across his first five offerings?",
+         "opts": [
+             "Only money",
+             "Sal flower porridge, pork with jujube, fried vegetable stalks, fine rice, and cloths "
+             "imported from Kāsi",
+             "Only monastic robes",
+             "Only medicine"],
+         "correct": 1,
+         "expl": "Specific, named items, not abstract categories of gift."},
+        {"q": "What phrase describes why the Buddha accepts each of Ugga's gifts?",
+         "opts": [
+             "Because he is hungry",
+             "'Anukampaṁ upādāya', out of sympathy — framing acceptance as a kindness to the "
+             "giver",
+             "Because refusal would be rude",
+             "The discourse gives no reason"],
+         "correct": 1,
+         "expl": "Acceptance framed as generosity toward the donor, not need on the recipient's part."},
+        {"q": "How does this discourse relate to AN 5.43's abstract principle about prayer and "
+              "practice?",
+         "opts": [
+             "It contradicts AN 5.43 entirely",
+             "It illustrates AN 5.43's principle with a specific, human, narratively complete "
+             "episode",
+             "It has no relation to AN 5.43",
+             "It repeats AN 5.43 word for word"],
+         "correct": 1,
+         "expl": "A concrete instance of practice, not wishing, producing a matching result."},
+        {"q": "What form does Ugga's rebirth take?",
+         "opts": [
+             "Rebirth as a human of low status",
+             "A mind-made body (manomaya kāya) among a host of gods",
+             "Rebirth as an animal",
+             "No rebirth is described"],
+         "correct": 1,
+         "expl": "A specific, named form of divine rebirth."},
+        {"q": "Where does the Buddha meet the reborn Ugga?",
+         "opts": [
+             "Still in Vesālī",
+             "At Sāvatthī, in Jeta's Grove, where Ugga arrives at night, lighting up the entire "
+             "grove",
+             "In a dream",
+             "At the royal palace"],
+         "correct": 1,
+         "expl": "A new setting, marking the passage of time and Ugga's changed circumstances."},
+    ],
+    marginalia=[
+        ("Six offerings", [
+            "porridge &middot; pork",
+            "vegetables &middot; rice",
+            "cloth &middot; (couch, corrected)",
+            "&rarr; sandalwood plank",
+        ]),
+        ("Self-caught", [
+            "&ldquo;this is not",
+            "proper for the Buddha&rdquo;",
+            "&mdash; unprompted",
+        ]),
+        ("Confirmed after death", [
+            "&ldquo;just as I wished&rdquo;",
+            "&mdash; a mind-made god,",
+            "returning to report",
+        ]),
+        ("Cross-references", [
+            "AN 5.43 &middot; the principle, stated",
+            "AN 5.37 &middot; giving food, its own fruits",
+            "AN 5.45 &middot; next: merit as an ocean",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.44/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.43.html">AN 5.43 &middot; Likable</a> &mdash; the previous discourse, '
+        "stating the principle this one puts into practice.",
+        '<a href="an-5.37.html">AN 5.37 &middot; Food</a> &mdash; the earlier account of what '
+        "food-giving specifically confers.",
+        '<a href="an-5.45.html">AN 5.45 &middot; Overflowing Merit</a> &mdash; next, on merit too '
+        "vast to measure, even for gifts far smaller than Ugga&rsquo;s.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.45 — Puññābhisandasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, "Puññābhisanda", "Overflowing Merit",
+    vagga=VAGGA_5,
+    meta_title="AN 5.45 — Overflowing Merit | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Puññābhisandasutta — "
+        "when a mendicant enjoys a gift while dwelling in limitless immersion of heart, the "
+        "donor's merit becomes as impossible to measure as the ocean's water. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "Five requisites named in turn, each tied to the recipient's own meditative "
+                 "state, followed by an ocean simile and verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The ocean-of-merit image for immeasurable generosity is widely "
+                              "attested across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a genuinely interesting "
+                       "mechanism connecting a donor's merit to the recipient's own practice"),
+    ],
+    why=(
+        "After Ugga's vivid, itemized generosity at AN 5.44, this discourse states a mechanism "
+        "that changes what any gift, however modest, can become. When a mendicant uses a robe, "
+        "almsfood, lodging, a bed or chair, or medicine while dwelling in <em>limitless "
+        "immersion of heart</em>, the donor's resulting merit is said to be limitless too "
+        "&mdash; not because of the gift's size, but because of the recipient's own meditative "
+        "state at the moment of use."),
+    guide=[
+        ("The teaching in one sentence", [
+            "When a mendicant enters and remains in limitless immersion of heart while using a "
+            "robe, almsfood, lodging, a bed or chair, or medicine, the overflowing merit for the "
+            "donor of that gift is limitless."]),
+        ("Merit tied to the recipient's state, not the gift's size", [
+            "This is a distinctive mechanism among this chapter's giving discourses. AN 5.37 tied "
+            "food-giving to five specific returned qualities regardless of the recipient's "
+            "meditative state; this discourse ties merit&rsquo;s scale directly to whether the "
+            "recipient is, at the moment of use, dwelling in <em>appamāṇaṁ cetosamādhiṁ</em>, "
+            "limitless immersion of heart &mdash; almost certainly the boundless meditations on "
+            "love, compassion, joy, and equanimity extended without limit. The donor cannot "
+            "control this directly; their merit depends in part on a state only the recipient "
+            "produces."]),
+        ("Five requisites, one formula", [
+            "The five items &mdash; robe, almsfood, lodging, bed or chair, and medicine &mdash; "
+            "are the standard monastic requisites named repeatedly across this collection. The "
+            "discourse applies the identical formula to all five without variation, meaning the "
+            "mechanism does not privilege one kind of gift over another; whichever requisite is "
+            "used while the recipient dwells in limitless immersion produces the same limitless "
+            "result."]),
+        ("An ocean, not a container", [
+            "The simile is deliberately chosen for its resistance to measurement: trying to say "
+            "how many gallons the ocean holds is futile, and the discourse insists merit of this "
+            "kind is the same &mdash; not simply large, but <em>asaṅkheyyo appameyyo</em>, "
+            "incalculable and immeasurable, a category error to even attempt counting rather "
+            "than a very big but countable number."]),
+        ("The verses' river image", [
+            "The closing verses extend the ocean image with rivers flowing into it from every "
+            "direction, carrying merit toward the giver the way water reaches the sea "
+            "&ldquo;as the rivers bring their waters to the sea.&rdquo; The image adds a "
+            "directional claim the prose does not: merit is not static once produced, but "
+            "continues moving toward the person who gave rise to it."]),
+    ],
+    terms=[
+        ("puññābhisanda",
+         "&ldquo;overflowing merit&rdquo; &mdash; this discourse's title, an image of merit "
+         "exceeding any container built to hold it."),
+        ("appamāṇaṁ cetosamādhiṁ",
+         "&ldquo;limitless immersion of heart&rdquo; &mdash; the recipient's meditative state "
+         "this discourse ties the donor's merit to, likely the boundless meditations extended "
+         "without limit."),
+        ("paribhuñjamāna",
+         "&ldquo;while using&rdquo; &mdash; the verb marking the moment merit is generated: not "
+         "at the moment of giving, but at the moment of the recipient's use."),
+        ("asaṅkheyyo appameyyo",
+         "&ldquo;incalculable, immeasurable&rdquo; &mdash; the discourse's description of merit "
+         "at this scale, a category rather than a very large quantity."),
+        ("mahāpuññakkhandha",
+         "&ldquo;great mass of merit&rdquo; &mdash; the discourse's closing reckoning, echoing "
+         "the ocean's own &lsquo;great mass of water&rsquo;."),
+    ],
+    text_intro=(
+        "The discourse in full: the five requisites tied to limitless immersion, the ocean "
+        "simile, and the closing verses on rivers reaching the sea. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.45:1.1"),
+        ("h3", "Five requisites, one formula"),
+        ("p", "&sect;2", "an5.45:2.2"),
+        ("p", "&sect;3", "an5.45:4.1-4.2"),
+        ("h3", "An ocean of merit"),
+        ("p", "&sect;4", "an5.45:5.1-5.3"),
+        ("p", "&sect;5", "an5.45:6.1-6.3"),
+        ("p", "&sect;6", "an5.45:6.4-6.6"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;7", "an5.45:7.1-7.4"),
+        ("p", "&sect;8", "an5.45:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What condition does this discourse say ties a donor's merit to being limitless?",
+         "opts": [
+             "The size or expense of the gift",
+             "The recipient dwelling in limitless immersion of heart while using the gift",
+             "The number of gifts given",
+             "The donor's own social status"],
+         "correct": 1,
+         "expl": "Merit's scale is tied to the recipient's meditative state at the moment of use."},
+        {"q": "What five requisites does this discourse apply its formula to?",
+         "opts": [
+             "Food, water, shelter, clothing, and money",
+             "Robe, almsfood, lodging, a bed or chair, and medicine",
+             "Only robes",
+             "Only medicine for the sick"],
+         "correct": 1,
+         "expl": "The standard monastic requisites, applied identically without variation."},
+        {"q": "How does this discourse's mechanism differ from AN 5.37's account of giving food?",
+         "opts": [
+             "They are identical mechanisms",
+             "AN 5.37 tied five specific returns to giving regardless of the recipient's state; "
+             "this discourse ties merit's scale specifically to the recipient's meditative state",
+             "This discourse rejects AN 5.37 entirely",
+             "Neither discourse concerns merit at all"],
+         "correct": 1,
+         "expl": "A distinctive mechanism where the recipient's own practice, not just the gift, shapes the outcome."},
+        {"q": "What does the ocean simile emphasize about merit at this scale?",
+         "opts": [
+             "That it is simply a very large but countable number",
+             "That it is incalculable and immeasurable — a category error to attempt counting, "
+             "like trying to measure the ocean in gallons",
+             "That merit of this kind is actually quite small",
+             "That the ocean has no relevance to merit at all"],
+         "correct": 1,
+         "expl": "Asaṅkheyyo appameyyo — not merely large, but resistant to quantification in principle."},
+        {"q": "What does the closing verse's river image add to the ocean simile?",
+         "opts": [
+             "Nothing new",
+             "A directional claim — merit continues moving toward the giver, like rivers carrying "
+             "water to the sea",
+             "That rivers are more important than the ocean",
+             "A warning against giving too much"],
+         "correct": 1,
+         "expl": "Merit is not static once produced but keeps flowing toward its source."},
+        {"q": "At what moment does this discourse say merit is actually generated?",
+         "opts": [
+             "At the moment the gift is handed over",
+             "At the moment of the recipient's use (paribhuñjamāna), while dwelling in limitless "
+             "immersion",
+             "Only after the recipient dies",
+             "The discourse does not specify a moment"],
+         "correct": 1,
+         "expl": "Use, not the act of giving itself, is when the described merit arises."},
+        {"q": "Can a donor directly control whether this discourse's limitless merit arises?",
+         "opts": [
+             "Yes, entirely, through the size of the gift",
+             "Not directly — it depends in part on a meditative state only the recipient produces",
+             "Yes, by choosing a particularly holy recipient",
+             "The discourse says merit is entirely random"],
+         "correct": 1,
+         "expl": "A mechanism partly outside the donor's own control."},
+        {"q": "What likely meditative practice does 'appamāṇaṁ cetosamādhiṁ' refer to?",
+         "opts": [
+             "Walking meditation",
+             "Almost certainly the boundless meditations on love, compassion, joy, and equanimity, "
+             "extended without limit",
+             "A single-pointed concentration on the breath only",
+             "Recollection of past lives"],
+         "correct": 1,
+         "expl": "The guide's best reading of this specific technical phrase."},
+        {"q": "Is the formula varied at all across the five requisites?",
+         "opts": [
+             "Yes, each requisite has its own distinct formula",
+             "No — the identical formula applies without variation to all five",
+             "Only medicine differs from the others",
+             "Only robes differ from the others"],
+         "correct": 1,
+         "expl": "No privileging of one requisite over another."},
+        {"q": "Where is AN 5.45 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five requisites", [
+            "robe &middot; almsfood",
+            "lodging &middot; bed/chair",
+            "medicine",
+        ]),
+        ("The trigger", [
+            "<span class=\"pali\">appamāṇaṁ cetosamādhiṁ</span>",
+            "&mdash; limitless immersion,",
+            "at the moment of use",
+        ]),
+        ("Not a number", [
+            "<span class=\"pali\">asaṅkheyyo appameyyo</span>",
+            "&mdash; incalculable,",
+            "like ocean water",
+        ]),
+        ("Cross-references", [
+            "AN 5.44 &middot; a vivid, itemized gift",
+            "AN 5.37 &middot; a different mechanism",
+            "AN 5.46 &middot; next: five accomplishments",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.45/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.44.html">AN 5.44 &middot; Agreeable</a> &mdash; the previous discourse, on '
+        "one donor's own itemized generosity.",
+        '<a href="an-5.37.html">AN 5.37 &middot; Food</a> &mdash; the earlier, differently '
+        "structured account of what a specific gift confers.",
+        '<a href="an-5.46.html">AN 5.46 &middot; Success</a> &mdash; next, a bare five-item list '
+        "this chapter will expand in full at AN 5.47.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.46 — Sampadāsutta
+# --------------------------------------------------------------------------- #
+page(
+    46, "Sampadā", "Success",
+    vagga=VAGGA_5,
+    meta_title="AN 5.46 — Success | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sampadāsutta — five "
+        "accomplishments named in a single bare sentence: faith, ethics, learning, generosity, "
+        "and wisdom, expanded in full at the very next discourse. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming five accomplishments, with no elaboration"),
+        ("Length", "~15 seconds to read"),
+        ("Northern parallel", "Faith, ethics, learning, generosity, and wisdom as a fixed lay "
+                              "virtue set are widely attested across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the chapter's shortest "
+                       "discourse, functioning as a bare-list companion to the one after it"),
+    ],
+    why=(
+        "This is the shortest discourse in the chapter so far, and its brevity is deliberate: it "
+        "names five accomplishments in a single sentence and stops, in the same "
+        "<em>saṅkhitta</em>-then-<em>vitthata</em> pattern already used twice in this nipāta, at "
+        "AN 5.1&ndash;2 and AN 5.13&ndash;14. AN 5.47, the very next discourse, will take this "
+        "identical five-item list and define each item in full."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are five accomplishments: faith, ethics, learning, generosity, and wisdom."]),
+        ("A list already met, under two other names", [
+            "<em>Saddhā, sīla, suta, cāga, paññā</em> is not new material. AN 5.40 closed the "
+            "previous chapter with the identical five items, calling them a family's growth; this "
+            "discourse calls them <em>sampadā</em>, accomplishments, applying the same five items "
+            "to an individual rather than a household. The content does not change; only the "
+            "frame does."]),
+        ("Brief now, detailed next", [
+            "As at AN 5.1 and AN 5.13, a bare list precedes its own expansion by exactly one "
+            "discourse. This reading guide has already explained why the collection favors this "
+            "pairing &mdash; a chanted formula gains from being stated compactly before being "
+            "unpacked, giving reciters both a compressed anchor and a fuller version to draw on. "
+            "That explanation is not repeated here."]),
+        ("What five accomplishments implies, compared to five kinds of wealth", [
+            "AN 5.47's own title, <em>Dhana</em>, wealth, frames the identical five items "
+            "differently again &mdash; not as accomplishments achieved but as a kind of "
+            "possession held. Two discourses, back to back, offer two different metaphors "
+            "&mdash; achievement and possession &mdash; for what is, item by item, the same "
+            "five-part list."]),
+    ],
+    terms=[
+        ("sampadā",
+         "&ldquo;accomplishment, success&rdquo; &mdash; this discourse's frame for the five "
+         "items, distinct from AN 5.40's &lsquo;growth&rsquo; and AN 5.47's &lsquo;wealth&rsquo;."),
+        ("saddhāsampadā",
+         "&ldquo;accomplishment in faith&rdquo; &mdash; the first item, to be defined in full at "
+         "AN 5.47 by the standard nine-quality formula."),
+        ("cāgasampadā",
+         "&ldquo;accomplishment in generosity&rdquo; &mdash; the fourth item, paired with "
+         "learning as one of two qualities not used in any earlier power list in this nipāta."),
+        ("paññāsampadā",
+         "&ldquo;accomplishment in wisdom&rdquo; &mdash; the fifth item, to receive the same "
+         "narrow insight-definition already used for wisdom throughout this nipāta."),
+        ("saṅkhitta",
+         "&ldquo;in brief&rdquo; &mdash; not this discourse's own title, but the structural role "
+         "it plays, matching AN 5.1 and AN 5.13's opening pattern."),
+    ],
+    text_intro=(
+        "The discourse in full: five accomplishments, named once. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.46:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five accomplishments does this discourse name?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Faith, ethics, learning, generosity, and wisdom",
+             "The five powers of a trainee",
+             "Long life, beauty, happiness, fame, and heaven"],
+         "correct": 1,
+         "expl": "Saddhā, sīla, suta, cāga, paññā."},
+        {"q": "Where has this identical five-item list already appeared in this series?",
+         "opts": [
+             "Nowhere before this page",
+             "AN 5.40, closing the previous chapter, calling the same five items a family's growth",
+             "AN 5.1",
+             "AN 4.163"],
+         "correct": 1,
+         "expl": "The same content, applied there to a household rather than an individual."},
+        {"q": "What structural pattern does this discourse's brevity match?",
+         "opts": [
+             "No pattern; it is unique",
+             "The saṅkhitta-then-vitthata pairing already used at AN 5.1–2 and AN 5.13–14",
+             "The disrespect-qualifier pattern from AN 5.9–10",
+             "The peyyāla compression pattern"],
+         "correct": 1,
+         "expl": "A bare list preceding its own expansion by exactly one discourse, for the third time in this nipāta."},
+        {"q": "What does AN 5.47, the very next discourse, do with this list?",
+         "opts": [
+             "Nothing further; the list is dropped",
+             "Defines each of the five items in full",
+             "Replaces the list entirely",
+             "Returns to the sekhabala"],
+         "correct": 1,
+         "expl": "The detailed companion this discourse's brevity anticipates."},
+        {"q": "How does AN 5.47's title reframe the same five items?",
+         "opts": [
+             "Identically to this discourse",
+             "As 'dhana', wealth — a kind of possession held, rather than an accomplishment "
+             "achieved",
+             "As a warning against materialism",
+             "As a list of hindrances"],
+         "correct": 1,
+         "expl": "Two consecutive discourses, two different metaphors for the same five-part content."},
+        {"q": "Which two of the five items does the guide note have not appeared in any earlier "
+              "power list in this nipāta?",
+         "opts": [
+             "Faith and wisdom",
+             "Learning and generosity",
+             "Ethics and faith",
+             "None; all five have appeared identically before"],
+         "correct": 1,
+         "expl": "Suta and cāga, distinct from the sekhabala and standard bala lists used earlier."},
+        {"q": "How long is this discourse?",
+         "opts": [
+             "Several minutes, with an extended simile",
+             "About fifteen seconds — a single sentence with no elaboration",
+             "Identical in length to AN 5.44",
+             "This discourse has no readable text"],
+         "correct": 1,
+         "expl": "The shortest discourse in the chapter so far."},
+        {"q": "Does this discourse offer any definition of the five accomplishments it names?",
+         "opts": [
+             "Yes, in full detail",
+             "No — none at all, consistent with the bare-list pattern already seen twice",
+             "Only faith is defined",
+             "Only wisdom is defined"],
+         "correct": 1,
+         "expl": "Definition is left entirely to the following discourse."},
+        {"q": "What role does brevity play in a chanted, orally transmitted formula, according to "
+              "the guide's earlier explanation?",
+         "opts": [
+             "It has no functional role, purely decorative",
+             "A compact anchor that reciters can pair with a fuller version, already explained at "
+             "earlier bare-list discourses in this series",
+             "It indicates the material is less important",
+             "It is a copying error"],
+         "correct": 1,
+         "expl": "An explanation given fully elsewhere and not repeated here."},
+        {"q": "Where is AN 5.46 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five accomplishments", [
+            "faith &middot; ethics",
+            "learning &middot; generosity",
+            "wisdom",
+        ]),
+        ("Same five, three frames", [
+            "AN 5.40: a family's growth",
+            "AN 5.46: accomplishment",
+            "AN 5.47: wealth",
+        ]),
+        ("Brief, then detailed", [
+            "third time in this nipāta",
+            "&mdash; AN 5.1&ndash;2,",
+            "5.13&ndash;14, now this",
+        ]),
+        ("Cross-references", [
+            "AN 5.40 &middot; the same five, first",
+            "AN 5.47 &middot; next: in full",
+            "AN 5.1 &amp; 5.13 &middot; the earlier pairs",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.46/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.40.html">AN 5.40 &middot; Great Sal Trees</a> &mdash; where this identical '
+        "five-item list first appeared, applied to a household.",
+        '<a href="an-5.47.html">AN 5.47 &middot; Wealth</a> &mdash; next, this discourse&rsquo;s '
+        "full-detail companion.",
+        '<a href="an-5.1.html">AN 5.1 &middot; In Brief</a> &mdash; the first use of this exact '
+        "brief-then-detailed pairing in this nipāta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.47 — Dhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, "Dhana", "Wealth",
+    vagga=VAGGA_5,
+    meta_title="AN 5.47 — Wealth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dhanasutta — AN 5.46's "
+        "five accomplishments defined in full and reframed as wealth: faith, ethics, learning, "
+        "generosity, and wisdom, none of it able to be confiscated or lost by force. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "The same five named again, then each defined in turn, closing with verses"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Faith, ethics, learning, generosity, and wisdom framed as an "
+                              "inalienable wealth recur across the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the detailed companion to AN "
+                       "5.46, reusing several definitions already given elsewhere in this nipāta"),
+    ],
+    why=(
+        "AN 5.46 promised nothing and delivered five bare names. This discourse keeps that "
+        "promise, defining faith, ethics, learning, generosity, and wisdom one at a time, and "
+        "then makes an argument its title only implies: calling these five qualities "
+        "<em>dhana</em>, wealth, is not simply metaphorical decoration. The closing verses "
+        "state directly that whoever has this wealth is <em>adaliddo</em>, not poor, "
+        "regardless of what they hold in the ordinary sense."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The wealth of faith, ethics, learning, generosity, and wisdom are five kinds of "
+            "wealth, each defined in turn, and whoever has them is said to be truly prosperous, "
+            "their life not lived in vain."]),
+        ("Three definitions inherited without change", [
+            "Faith (the nine-quality recollection of the Buddha) and wisdom (insight into "
+            "arising and passing away) are worded here exactly as they have been worded every "
+            "other time this nipāta has defined them. Ethics, too, is given as the standard five "
+            "precepts. This discourse adds no new content to any of these three; a reader who "
+            "has met them before can move through these paragraphs quickly, checking only that "
+            "the wording matches."]),
+        ("Learning, defined by retention and grasp", [
+            "The wealth of learning is defined as being <em>bahussuta</em>, very learned, "
+            "<em>remembering and keeping</em> teachings that are good in the beginning, middle, "
+            "and end, and being able to recite them, scrutinize them mentally, and "
+            "<em>penetrate them theoretically</em>. This is a fuller definition of learning than "
+            "any earlier discourse in this nipāta has given, marking it as more than passive "
+            "exposure to teaching &mdash; active retention and comprehension are both required."]),
+        ("Generosity, defined by disposition", [
+            "The wealth of generosity is defined not by any specific act of giving but by an "
+            "ongoing disposition: living <em>rid of the stain of stinginess</em>, "
+            "<em>freely generous, open-handed, loving to let go</em>. Where AN 5.36's timely "
+            "gifts and AN 5.37's food-giving concerned specific acts, this definition concerns "
+            "the character a person carries into every occasion for giving, whether or not any "
+            "particular gift happens."]),
+        ("Wealth that cannot be confiscated", [
+            "The metaphor's real force becomes clear against AN 5.41's third reason to get "
+            "rich: legitimate wealth protects against loss from fire, water, kings, bandits, or "
+            "unloved heirs. This fivefold wealth needs no such protection, since none of the "
+            "five items named &mdash; faith, ethics, learning, generosity, wisdom &mdash; can be "
+            "seized, burned, flooded, or inherited away from the person who holds them. The "
+            "discourse does not state this contrast explicitly, but it is available to a reader "
+            "who has read AN 5.41 already."]),
+    ],
+    terms=[
+        ("dhana",
+         "&ldquo;wealth&rdquo; &mdash; this discourse's frame for the five qualities, chosen "
+         "deliberately against the vulnerability of ordinary wealth named at AN 5.41."),
+        ("bahussuta",
+         "&ldquo;very learned&rdquo; &mdash; the wealth of learning, defined here more fully "
+         "than any earlier discourse in this nipāta, requiring both retention and comprehension."),
+        ("muttacāgo payatapāṇi",
+         "&ldquo;loving to let go, open-handed&rdquo; &mdash; part of the wealth of "
+         "generosity's definition, an ongoing character trait rather than a single act."),
+        ("adaliddo",
+         "&ldquo;not poor&rdquo; &mdash; the closing verse's direct claim for whoever holds this "
+         "fivefold wealth, regardless of ordinary material circumstances."),
+        ("amoghaṁ jīvitaṁ",
+         "&ldquo;a life not in vain&rdquo; &mdash; the verse's further claim, tying this wealth "
+         "to a life's basic worth rather than only its comfort."),
+    ],
+    text_intro=(
+        "The discourse in full: the five kinds of wealth named again, then each defined in turn, "
+        "closing with verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five kinds of wealth, named again"),
+        ("p", "&sect;1", "an5.47:1.1-1.3"),
+        ("h3", "The wealth of faith"),
+        ("p", "&sect;2", "an5.47:2.1-2.4"),
+        ("h3", "The wealth of ethics"),
+        ("p", "&sect;3", "an5.47:3.1-3.3"),
+        ("h3", "The wealth of learning"),
+        ("p", "&sect;4", "an5.47:4.1-4.3"),
+        ("h3", "The wealth of generosity"),
+        ("p", "&sect;5", "an5.47:5.1-5.3"),
+        ("h3", "The wealth of wisdom"),
+        ("p", "&sect;6", "an5.47:6.1-6.4"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;7", "an5.47:7.1-7.4"),
+        ("p", "&sect;8", "an5.47:8.1-8.4"),
+        ("p", "&sect;9", "an5.47:9.1-9.4"),
+    ],
+    quiz=[
+        {"q": "How are faith, ethics, and wisdom defined in this discourse compared to elsewhere "
+              "in this nipāta?",
+         "opts": [
+             "Completely differently, with new formulas",
+             "Identically — the same nine-quality faith formula, the five precepts, and the same "
+             "insight-wisdom formula",
+             "Faith and wisdom are new; only ethics is unchanged",
+             "This discourse gives no definitions at all"],
+         "correct": 1,
+         "expl": "Three of the five terms receive the identical treatment given every earlier time this nipāta defined them."},
+        {"q": "How is the wealth of learning defined?",
+         "opts": [
+             "As simply having heard many teachings, with no further requirement",
+             "As being very learned, remembering and keeping teachings, and reciting, scrutinizing, "
+             "and penetrating them theoretically — more fully than any earlier discourse in this "
+             "nipāta",
+             "As identical to the wealth of wisdom",
+             "As a synonym for ethics"],
+         "correct": 1,
+         "expl": "Active retention and comprehension, not passive exposure."},
+        {"q": "How is the wealth of generosity defined?",
+         "opts": [
+             "By a single specific act of giving",
+             "By an ongoing disposition — rid of stinginess, freely generous, open-handed, loving "
+             "to let go — rather than any particular gift",
+             "By the total monetary value given over a lifetime",
+             "By generosity shown only to monastics"],
+         "correct": 1,
+         "expl": "Character carried into every occasion, distinct from AN 5.36 and 5.37's focus on specific acts."},
+        {"q": "What contrast does the guide draw between this discourse's wealth and AN 5.41's "
+              "wealth?",
+         "opts": [
+             "No contrast is drawn; the two are identical",
+             "AN 5.41's wealth needs protection against fire, water, kings, bandits, and unloved "
+             "heirs; this fivefold wealth cannot be confiscated or lost that way",
+             "This discourse's wealth is worth less than AN 5.41's",
+             "AN 5.41 never mentions wealth's vulnerability"],
+         "correct": 1,
+         "expl": "A contrast available to a reader who has read AN 5.41, though not stated explicitly here."},
+        {"q": "What does the closing verse claim about whoever has this fivefold wealth?",
+         "opts": [
+             "That they are guaranteed material riches",
+             "That they are 'adaliddo', not poor, and their life is not lived in vain",
+             "That they will never face hardship",
+             "That they must renounce all other wealth"],
+         "correct": 1,
+         "expl": "A direct claim about a life's basic worth, regardless of ordinary material circumstances."},
+        {"q": "What are the five kinds of wealth named in this discourse?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Faith, ethics, learning, generosity, and wisdom",
+             "The five powers of a trainee",
+             "Long life, beauty, happiness, fame, heaven"],
+         "correct": 1,
+         "expl": "Identical to AN 5.46's five accomplishments, under a different frame."},
+        {"q": "How is ethics defined in this discourse?",
+         "opts": [
+             "By an elaborate new formula unique to this discourse",
+             "By the standard five precepts, worded as in every other discourse using this "
+             "formula",
+             "By a single vow of poverty",
+             "Ethics is not defined at all"],
+         "correct": 1,
+         "expl": "No new content added beyond the familiar precept formula."},
+        {"q": "What is the wealth of faith defined by?",
+         "opts": [
+             "Confidence in one's own abilities",
+             "The nine-quality recollection of the Buddha, the identical formula used every other "
+             "time this nipāta defines faith",
+             "Trust in family members",
+             "A vow of silence"],
+         "correct": 1,
+         "expl": "The same buddhānussati formula as at AN 5.2, 5.14, and elsewhere."},
+        {"q": "Does this discourse claim ordinary material wealth is worthless?",
+         "opts": [
+             "Yes, explicitly condemning it",
+             "No — it presents a different, inalienable kind of wealth without directly condemning "
+             "the ordinary kind AN 5.41 already discussed",
+             "Yes, it forbids all possessions",
+             "The discourse does not mention ordinary wealth at all"],
+         "correct": 1,
+         "expl": "A parallel account, not an explicit renunciation of AN 5.41's earlier material."},
+        {"q": "Where is AN 5.47 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five kinds of wealth", [
+            "faith &middot; ethics",
+            "learning &middot; generosity",
+            "wisdom",
+        ]),
+        ("Inherited, unchanged", [
+            "faith, ethics, wisdom:",
+            "identical formulas,",
+            "reused throughout",
+        ]),
+        ("Cannot be confiscated", [
+            "unlike AN 5.41's wealth &mdash;",
+            "no fire, flood, king,",
+            "bandit, or heir can take it",
+        ]),
+        ("Cross-references", [
+            "AN 5.46 &middot; the bare list, first",
+            "AN 5.41 &middot; ordinary wealth, vulnerable",
+            "AN 5.48 &middot; next: what no one can have",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.47/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.46.html">AN 5.46 &middot; Success</a> &mdash; this discourse&rsquo;s '
+        "compressed original, naming the same five without definitions.",
+        '<a href="an-5.41.html">AN 5.41 &middot; Getting Rich</a> &mdash; the earlier, ordinary '
+        "wealth this discourse's inalienable version stands against.",
+        '<a href="an-5.48.html">AN 5.48 &middot; Things That Cannot Be Had</a> &mdash; next, '
+        "turning to what no wealth of any kind can secure.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.48 — Alabbhanīyaṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, "Alabbhanīyaṭhāna", "Things That Cannot Be Had",
+    vagga=VAGGA_5,
+    meta_title="AN 5.48 — Things That Cannot Be Had | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Alabbhanīyaṭhānasutta "
+        "— five things not even a god, Māra, or Brahmā can prevent: aging, sickness, death, "
+        "ending, and perishing, and the poisoned arrow of grief that only reflection can draw "
+        "out. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "Five universal impossibilities named, then two contrasting cases — grieving "
+                 "and reflecting — worked through in parallel, closing with verses"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The poisoned-arrow image for grief, and the list of five "
+                              "universal inevitabilities, recur widely across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; no wealth, gift, or "
+                       "accomplishment named earlier in this chapter touches what this discourse "
+                       "addresses"),
+    ],
+    why=(
+        "Every discourse so far in this chapter has concerned something that can be gained, "
+        "given, or secured. This one names five things that cannot &mdash; not by any ascetic, "
+        "brahmin, god, Māra, or divinity, or by anyone at all: that someone liable to aging "
+        "should not age, that someone liable to sickness should not sicken, that someone liable "
+        "to death should not die, to ending should not end, to perishing should not perish. What "
+        "the discourse offers is not an exception to this list, but a different relationship to "
+        "it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "No one in the world &mdash; ascetic, brahmin, god, Māra, or Brahmā &mdash; can "
+            "prevent someone liable to aging, sickness, death, ending, or perishing from "
+            "undergoing it; an unlearned ordinary person, struck by this, mortifies themselves "
+            "with grief, while a learned noble disciple, struck by the identical fact, draws the "
+            "arrow out."]),
+        ("Universality stated before consolation", [
+            "Before offering any response, the discourse establishes the scope of the problem as "
+            "completely as it can: aging, sickness, death, ending, and perishing are named as "
+            "beyond the reach of every category of powerful being the canon recognizes, not only "
+            "ordinary humans. This is not a discourse claiming the wise can escape these five "
+            "things; both the unlearned and the learned person in the discourse experience the "
+            "same aging, sickness, and death. What differs is entirely what happens next."]),
+        ("The same reflection, twice recommended and once withheld", [
+            "The discourse spells out, word for word, the very reflection the unlearned person "
+            "fails to have and the learned person actually has: <em>it's not just me who has "
+            "someone liable to old age who grows old&hellip; if I were to sorrow and wail and "
+            "lament&hellip; I'd lose my appetite&hellip; my work wouldn't get done, my enemies "
+            "would be encouraged, and my friends would be dispirited</em>. The unlearned person "
+            "thinks this thought and then grieves anyway; the learned person thinks the identical "
+            "thought and, having thought it, does not grieve. The reflection itself is not "
+            "unique to wisdom; acting on it is."]),
+        ("The poisoned arrow, drawn or left in", [
+            "<em>Sokasalla</em>, sorrow's arrow, is the discourse's controlling image, and it is "
+            "precise about who does what to whom. The unlearned person, struck by loss, "
+            "<em>mortifies themselves</em> with a second, self-inflicted wound of grief on top of "
+            "the first, unavoidable one. The learned person <em>draws out</em> the arrow and, the "
+            "discourse says, <em>only extinguishes themselves</em> &mdash; the same verb root "
+            "elsewhere translated nibbāna, applied here to something as ordinary as declining to "
+            "add grief to loss."]),
+        ("A discourse the chapter needs before its close", [
+            "Every earlier discourse in this chapter offered something that could be pursued, "
+            "given, or accomplished. This one names the boundary all of that sits inside: wealth, "
+            "generosity, learning, and even the inalienable wealth of AN 5.47 do not touch aging, "
+            "sickness, or death. AN 5.49 and AN 5.50, closing the chapter, will show this exact "
+            "teaching delivered to two grieving kings in turn."]),
+    ],
+    terms=[
+        ("alabbhanīyaṭhāna",
+         "&ldquo;a thing that cannot be had&rdquo; &mdash; this discourse's title, naming a "
+         "structural impossibility rather than an unlikely event."),
+        ("assutavā puthujjano",
+         "&ldquo;unlearned ordinary person&rdquo; &mdash; one who experiences loss without the "
+         "reflection that would keep grief from compounding it."),
+        ("sokasalla",
+         "&ldquo;sorrow's arrow&rdquo; &mdash; the discourse's controlling image for grief added "
+         "on top of an already unavoidable loss."),
+        ("paritāpeti",
+         "&ldquo;mortifies, torments&rdquo; &mdash; the verb for what an unlearned person does to "
+         "themselves through grief, a self-inflicted second wound."),
+        ("parinibbāpeti",
+         "&ldquo;fully extinguishes&rdquo; &mdash; the verb for what a learned noble disciple "
+         "does instead, sharing its root with nibbāna itself."),
+    ],
+    text_intro=(
+        "The discourse in full: the five universal impossibilities, the unlearned person's "
+        "grief, the learned person's reflection, and closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things no one can prevent"),
+        ("p", "&sect;1", "an5.48:1.1-1.4"),
+        ("h3", "The unlearned person's grief"),
+        ("p", "&sect;2", "an5.48:2.1-2.7"),
+        ("p", "&sect;3", "an5.48:3.1-3.7"),
+        ("h3", "The learned disciple's reflection"),
+        ("p", "&sect;4", "an5.48:4.1-4.8"),
+        ("p", "&sect;5", "an5.48:5.1-5.8"),
+        ("p", "&sect;6", "an5.48:6.1"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;7", "an5.48:7.1-7.4"),
+        ("p", "&sect;8", "an5.48:8.1-8.4"),
+        ("p", "&sect;9", "an5.48:9.1-9.4"),
+        ("p", "&sect;10", "an5.48:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What five things does this discourse say cannot be had by anyone in the world?",
+         "opts": [
+             "Wealth, fame, power, beauty, and long life",
+             "That someone liable to aging, sickness, death, ending, or perishing should not "
+             "undergo it",
+             "The five powers of a trainee",
+             "Faith, ethics, learning, generosity, and wisdom"],
+         "correct": 1,
+         "expl": "Five structural impossibilities, not unlikely events."},
+        {"q": "Who does the discourse say cannot prevent these five things, even in principle?",
+         "opts": [
+             "Only ordinary humans",
+             "Any ascetic, brahmin, god, Māra, or divinity — every category of powerful being the "
+             "canon recognizes",
+             "Only unenlightened people",
+             "No one is named; the discourse is vague"],
+         "correct": 1,
+         "expl": "Universality established before any response is offered."},
+        {"q": "Does the learned noble disciple in this discourse avoid experiencing aging, "
+              "sickness, and death?",
+         "opts": [
+             "Yes, entirely",
+             "No — both the unlearned and learned person experience the identical aging, "
+             "sickness, and death; what differs is what happens next",
+             "The discourse does not address this",
+             "Only the learned disciple experiences these things"],
+         "correct": 1,
+         "expl": "Wisdom does not exempt anyone from the five things; it changes the response to them."},
+        {"q": "What reflection does the discourse say the learned disciple actually has, that the "
+              "unlearned person also thinks but does not act on?",
+         "opts": [
+             "That grief will eventually pass on its own",
+             "That everyone, not just oneself, has someone liable to aging who grows old, and that "
+             "grieving would only cause further harm without doing any good",
+             "That aging can be prevented through effort",
+             "That grief should be suppressed and never expressed"],
+         "correct": 1,
+         "expl": "The identical thought occurs to both; only the learned disciple lets it actually change their response."},
+        {"q": "What does the poisoned-arrow image distinguish?",
+         "opts": [
+             "Two different kinds of physical injury",
+             "A first, unavoidable wound (loss itself) from a second, self-inflicted wound (added "
+             "grief) that only the unlearned person adds",
+             "Two different weapons used in warfare",
+             "The image has no distinguishing function"],
+         "correct": 1,
+         "expl": "The unlearned person mortifies themselves with a second wound; the learned disciple draws the arrow out."},
+        {"q": "What verb describes what the learned disciple does instead of grieving, sharing its "
+              "root with 'nibbāna'?",
+         "opts": [
+             "Paritāpeti, mortifies",
+             "Parinibbāpeti, fully extinguishes",
+             "Socati, sorrows",
+             "Kandati, wails"],
+         "correct": 1,
+         "expl": "Applied here to declining to add grief to an already unavoidable loss."},
+        {"q": "According to the guide, why does this chapter need this discourse before its "
+              "close?",
+         "opts": [
+             "It doesn't; the discourse is unrelated to the chapter",
+             "Every earlier discourse concerned something pursuable or accomplishable; this one "
+             "names the boundary all of that sits inside — aging, sickness, and death untouched "
+             "by any of it",
+             "It contradicts every earlier discourse in the chapter",
+             "It replaces the chapter's earlier material entirely"],
+         "correct": 1,
+         "expl": "Even AN 5.47's inalienable wealth does not touch what this discourse names."},
+        {"q": "What do the closing verses say about sorrowing and lamenting?",
+         "opts": [
+             "That they provide real comfort",
+             "That they don't do even a little bit of good, and only encourage one's enemies",
+             "That they are required by tradition",
+             "That they speed up the grieving process"],
+         "correct": 1,
+         "expl": "A practical, not merely doctrinal, argument against grief's usefulness."},
+        {"q": "What do the verses say an astute person should do when facing something that "
+              "cannot be had 'by me or by anyone else'?",
+         "opts": [
+             "Continue struggling against it indefinitely",
+             "Accept it without sorrowing, recognizing 'the deed is powerful; what can I do now?'",
+             "Deny that it is happening",
+             "Blame others for the loss"],
+         "correct": 1,
+         "expl": "Acceptance grounded in recognizing a genuine structural limit, not resignation to just anything."},
+        {"q": "What do AN 5.49 and AN 5.50, closing this chapter, do with this exact teaching?",
+         "opts": [
+             "Nothing; the teaching is dropped after this discourse",
+             "Show it delivered to two grieving kings in turn, as consolation rather than abstract "
+             "doctrine",
+             "Contradict what this discourse establishes",
+             "Repeat only the verses, without the prose teaching"],
+         "correct": 1,
+         "expl": "The chapter's closing narrative payoff for this discourse's doctrine."},
+    ],
+    marginalia=[
+        ("Five things no one can have", [
+            "not aging &middot; not sickness",
+            "not dying &middot; not ending",
+            "not perishing",
+        ]),
+        ("Same loss, different response", [
+            "unlearned: grieves,",
+            "mortifies themselves",
+            "learned: reflects,",
+            "draws the arrow out",
+        ]),
+        ("The image", [
+            "<span class=\"pali\">sokasalla</span>",
+            "sorrow's arrow &mdash;",
+            "a second, added wound",
+        ]),
+        ("Cross-references", [
+            "AN 5.47 &middot; wealth that still can't touch this",
+            "AN 5.49 &middot; next: a grieving king",
+            "AN 5.50 &middot; the fuller narrative version",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.48/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.47.html">AN 5.47 &middot; Wealth</a> &mdash; the previous discourse, on '
+        "wealth that cannot be confiscated but still cannot prevent what this discourse names.",
+        '<a href="an-5.49.html">AN 5.49 &middot; The King of Kosala</a> &mdash; next, this exact '
+        "teaching delivered to a king whose queen has just died.",
+        '<a href="an-5.50.html">AN 5.50 &middot; With Nārada</a> &mdash; the chapter&rsquo;s '
+        "closing discourse, the fullest narrative version of this same teaching.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.49 — Kosalasutta
+# --------------------------------------------------------------------------- #
+page(
+    49, "Kosala", "The King of Kosala",
+    vagga=VAGGA_5,
+    meta_title="AN 5.49 — The King of Kosala | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kosalasutta — King "
+        "Pasenadi is told mid-visit that Queen Mallikā has just died, and the Buddha delivers AN "
+        "5.48's teaching directly into the moment of his grief. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery; stated at the head of "
+                    "AN 5.49"),
+        ("Speakers", "King Pasenadi of Kosala, silent with grief; the Buddha, teaching him "
+                     "directly"),
+        ("Form", "A visit interrupted by sudden news, and AN 5.48's teaching given in its "
+                 "compressed form, without repeating the full doctrinal unpacking"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A ruler's grief met with teaching on impermanence recurs across "
+                              "the Chinese Āgamas' royal narratives; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief in its own text, "
+                       "carrying the full weight of AN 5.48 behind it"),
+    ],
+    why=(
+        "This discourse does not restate AN 5.48's teaching in full; it compresses it into a "
+        "single reference, because the point here is not exposition but timing. King Pasenadi "
+        "is already seated with the Buddha when a messenger whispers that Queen Mallikā has "
+        "died. The king's reaction is given without embellishment &mdash; <em>miserable and "
+        "sad&hellip; shoulders drooping, downcast, depressed, with nothing to say</em> &mdash; "
+        "and the Buddha, seeing this, speaks directly into it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Told that Queen Mallikā has just died, King Pasenadi sits in silent grief, and the "
+            "Buddha, recognizing his state, gives him the teaching on the five things no one can "
+            "have and the uselessness of sorrowing over what cannot be helped."]),
+        ("Grief witnessed before it is addressed", [
+            "The discourse spends real attention on the king's visible state before the Buddha "
+            "says anything: <em>dukkhī dummano pattakkhandho adhomukho pajjhāyanto "
+            "appaṭibhāno</em>, four distinct physical descriptions of collapse &mdash; drooping "
+            "shoulders, a lowered face, brooding, nothing to say. The Buddha does not interrupt "
+            "or rush past this; the text records that he spoke <em>knowing</em> this state, "
+            "having first registered it fully."]),
+        ("The teaching, compressed rather than repeated", [
+            "Where AN 5.48 spelled out the reflection word for word, twice over, for both the "
+            "unlearned and the learned response, this discourse gives only the opening and "
+            "closing lines, with an ellipsis standing in for everything in between. The "
+            "compression itself is a claim about audience: this discourse assumes a reader "
+            "already knows AN 5.48's content, and reproducing it in full here would blunt rather "
+            "than sharpen the moment."]),
+        ("A king, not a monastic, as the direct recipient", [
+            "This is one of the few discourses in this chapter where the full teaching on "
+            "impermanence and grief is given to a layperson, and a ruler at that, in the middle "
+            "of his own bereavement rather than as general instruction to mendicants. The "
+            "discourse does not soften the content for a royal audience or offer any "
+            "consolation beyond what AN 5.48 already supplies to anyone."]),
+        ("What the discourse leaves unstated", [
+            "Unlike AN 5.50, this discourse does not report how Pasenadi responded, whether he "
+            "was consoled, or what he did afterward. It ends at the teaching itself, mid-scene, "
+            "leaving the king's eventual reaction to be inferred rather than narrated &mdash; a "
+            "contrast worth noticing against the fuller resolution AN 5.50 will supply for a "
+            "different king's identical grief."]),
+    ],
+    terms=[
+        ("mallikā devī",
+         "&ldquo;Queen Mallikā&rdquo; &mdash; King Pasenadi's wife, whose sudden death is the "
+         "occasion for this discourse."),
+        ("pattakkhandho adhomukho",
+         "&ldquo;shoulders drooping, face lowered&rdquo; &mdash; two of four physical "
+         "descriptions of the king's grief, recorded before the Buddha speaks."),
+        ("appaṭibhāna",
+         "&ldquo;with nothing to say&rdquo; &mdash; the fourth description, marking the king's "
+         "grief as beyond immediate speech."),
+        ("viditvā",
+         "&ldquo;having known, having recognized&rdquo; &mdash; the verb marking that the "
+         "Buddha spoke only after registering the king's state fully."),
+        ("mahārāja",
+         "&ldquo;great king&rdquo; &mdash; the Buddha's form of address, distinct from "
+         "&lsquo;bhikkhave&rsquo;, mendicants, used throughout most of this nipāta."),
+    ],
+    text_intro=(
+        "The discourse in full: the king's visit, the sudden news, his visible grief, and the "
+        "Buddha's teaching given in compressed form. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sudden news"),
+        ("p", "&sect;1", "an5.49:1.1-1.2"),
+        ("p", "&sect;2", "an5.49:2.1-2.3"),
+        ("p", "&sect;3", "an5.49:2.4"),
+        ("h3", "The Buddha's teaching"),
+        ("p", "&sect;4", "an5.49:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What news interrupts King Pasenadi's visit to the Buddha?",
+         "opts": [
+             "News of a military defeat",
+             "That Queen Mallikā has just died",
+             "News of a famine",
+             "That his treasury has been robbed"],
+         "correct": 1,
+         "expl": "A messenger whispers the news mid-visit."},
+        {"q": "How is the king's grief described before the Buddha speaks?",
+         "opts": [
+             "Briefly, in one word",
+             "In detail — miserable, sad, shoulders drooping, face lowered, brooding, with "
+             "nothing to say",
+             "The discourse does not describe his reaction at all",
+             "As controlled and composed"],
+         "correct": 1,
+         "expl": "Four distinct physical descriptions, recorded before any teaching is given."},
+        {"q": "Does the Buddha speak immediately, or after registering the king's state?",
+         "opts": [
+             "He speaks immediately, without pause",
+             "He speaks 'having known' (viditvā) the king's grief, after registering it fully",
+             "He waits for the king to speak first",
+             "He remains silent throughout"],
+         "correct": 1,
+         "expl": "The text marks recognition before response."},
+        {"q": "How does this discourse present AN 5.48's teaching — in full, or compressed?",
+         "opts": [
+             "In full, word for word",
+             "Compressed, with an ellipsis standing in for the full reflection already spelled "
+             "out at AN 5.48",
+             "Not presented at all",
+             "In an entirely different form from AN 5.48"],
+         "correct": 1,
+         "expl": "The compression assumes the reader already knows AN 5.48's fuller content."},
+        {"q": "What does the guide say the compression implies about the discourse's intended "
+              "audience?",
+         "opts": [
+             "That it was meant to be read in complete isolation",
+             "That reproducing AN 5.48's content in full here would blunt rather than sharpen the "
+             "moment for a reader who already knows it",
+             "That the compression is a copying error",
+             "That this discourse predates AN 5.48"],
+         "correct": 1,
+         "expl": "A deliberate structural choice, not an omission."},
+        {"q": "Does this discourse report how King Pasenadi eventually responded to the teaching?",
+         "opts": [
+             "Yes, in full detail",
+             "No — it ends at the teaching itself, leaving his reaction unstated, unlike AN 5.50",
+             "Yes, but only briefly",
+             "It reports that he rejected the teaching"],
+         "correct": 1,
+         "expl": "A contrast with AN 5.50's fuller resolution for a different king's grief."},
+        {"q": "What form of address does the Buddha use for the king, distinct from most of this "
+              "nipāta's 'bhikkhave'?",
+         "opts": [
+             "Gahapati, householder",
+             "Mahārāja, great king",
+             "Āvuso, friend",
+             "Bhante, sir"],
+         "correct": 1,
+         "expl": "Marking the direct, personal nature of this address to a layperson in crisis."},
+        {"q": "Is this teaching softened or altered for a royal, lay audience?",
+         "opts": [
+             "Yes, significantly softened",
+             "No — no consolation is offered beyond what AN 5.48 already supplies to anyone",
+             "Yes, an entirely different teaching is given",
+             "The discourse does not specify"],
+         "correct": 1,
+         "expl": "The identical teaching, delivered without modification for the audience."},
+        {"q": "Is this the first time in this chapter that a full impermanence teaching has been "
+              "given directly to a layperson in the midst of their own grief?",
+         "opts": [
+             "No, this has happened multiple times already in this chapter",
+             "Yes — one of the few such instances in this chapter",
+             "This never happens in this chapter",
+             "The question is not addressed by the guide"],
+         "correct": 1,
+         "expl": "A distinctive moment, noted by the guide as unusual within this chapter."},
+        {"q": "Where is AN 5.49 set?",
+         "opts": [
+             "A new location, stated explicitly — Sāvatthī, in Jeta's Grove",
+             "None restated",
+             "Vesālī",
+             "Pāṭaliputta"],
+         "correct": 0,
+         "expl": "Explicitly restated at the head of this discourse."},
+    ],
+    marginalia=[
+        ("The scene", [
+            "mid-visit &mdash;",
+            "a whispered message:",
+            "the queen has died",
+        ]),
+        ("Grief, recorded first", [
+            "shoulders drooping",
+            "face lowered",
+            "nothing to say",
+        ]),
+        ("Compressed, not repeated", [
+            "AN 5.48: full teaching",
+            "AN 5.49: reference only",
+            "&mdash; assumes the reader knows",
+        ]),
+        ("Cross-references", [
+            "AN 5.48 &middot; the full teaching",
+            "AN 5.50 &middot; next: fuller resolution",
+            "AN 5.31 &middot; another royal questioner",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.49/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.48.html">AN 5.48 &middot; Things That Cannot Be Had</a> &mdash; the full '
+        "teaching this discourse compresses into a single reference.",
+        '<a href="an-5.50.html">AN 5.50 &middot; With Nārada</a> &mdash; next, the same teaching '
+        "given in full narrative detail to a different grieving king.",
+        '<a href="an-5.31.html">AN 5.31 &middot; With Sumanā</a> &mdash; an earlier royal '
+        "questioner, in a very different mood than this discourse's king.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.50 — Nāradasutta
+# --------------------------------------------------------------------------- #
+page(
+    50, "Nārada", "With Nārada",
+    vagga=VAGGA_5,
+    meta_title="AN 5.50 — With Nārada | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nāradasutta, closing "
+        "this chapter — King Muṇḍa refuses to cremate his dead queen, preserving her body in an "
+        "oil-filled casket, until Venerable Nārada delivers the teaching that finally lets him "
+        "let her go. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Pāṭaliputta, the Chicken Monastery, where Nārada is staying; the teaching "
+                    "given there to King Muṇḍa, who travels from his own residence"),
+        ("Speakers", "King Muṇḍa; Piyaka, keeper of the treasury; Venerable Nārada"),
+        ("Form", "An extended narrative in three movements — the king's refusal to let go, "
+                 "Piyaka's search for a teacher, and Nārada's full delivery of the teaching "
+                 "already given in brief at AN 5.48"),
+        ("Length", "~7 minutes to read"),
+        ("Northern parallel", "Narratives of a bereaved ruler consoled by a monastic teacher on "
+                              "impermanence recur across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; this chapter's longest and "
+                       "most unflinching discourse, closing on the namesake king's grief in full "
+                       "detail"),
+    ],
+    why=(
+        "This is the discourse the chapter is named for, and it does not soften what it "
+        "describes. King Muṇḍa's beloved Queen Bhaddā dies, and rather than cremate her body he "
+        "orders it sealed in oil inside an iron casket, closed within a second casket, so that "
+        "he can keep viewing her corpse indefinitely. He stops bathing, eating properly, and "
+        "attending to his rule, brooding over the body day and night. It takes his own "
+        "treasury-keeper's initiative, and Venerable Nārada's full delivery of the teaching "
+        "already given in brief at AN 5.48, to bring him back."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Grieving so completely that he preserves his dead queen's body rather than let it "
+            "be cremated, King Muṇḍa is brought, through his treasury-keeper Piyaka's initiative, "
+            "to hear Venerable Nārada teach the five things no one can have and the pointlessness "
+            "of sorrow, and afterward has the queen's body cremated and resumes his life."]),
+        ("A king's grief, described without euphemism", [
+            "The discourse states plainly what Muṇḍa does: he has Bhaddā&rsquo;s body placed in "
+            "an oil-filled iron casket, sealed inside a second casket, explicitly "
+            "<em>so that we can view Queen Bhaddā's body even longer</em>. He stops bathing, "
+            "anointing himself, eating properly, and doing his work, brooding over the corpse "
+            "<em>day and night</em>. This reading guide will not soften this description into "
+            "something gentler; the discourse itself does not, and the starkness of the image is "
+            "what makes Piyaka's intervention, and Nārada's teaching, actually necessary rather "
+            "than merely comforting."]),
+        ("Piyaka's own initiative", [
+            "Nothing in the discourse suggests Muṇḍa asked for help. It is Piyaka, watching his "
+            "king&rsquo;s decline, who reasons through the problem himself &mdash; "
+            "<em>what ascetic or brahmin might the king pay homage to, whose teaching could help "
+            "the king give up sorrow's arrow?</em> &mdash; and independently recalls Nārada's "
+            "reputation before proposing the visit. The chain of events that eventually frees the "
+            "king from his grief begins with a subordinate's own observation and judgment, not "
+            "with any royal request."]),
+        ("The full teaching, restated at length", [
+            "Where AN 5.49 compressed the teaching to a bare reference, this discourse delivers "
+            "it at the same length as AN 5.48 itself &mdash; the five impossibilities, the "
+            "unlearned person's grief over aging, the learned disciple's reflection over aging, "
+            "and the identical pattern worked through again for the elided middle three (sickness, "
+            "death, ending) using perishing as the worked example, exactly as AN 5.48 structured "
+            "it. This reading guide does not repeat that content a third time here, having "
+            "already presented it in full at AN 5.48; what is new in this discourse is entirely "
+            "the frame around it."]),
+        ("A named teaching, and a resolution", [
+            "Muṇḍa asks Nārada directly what this exposition is called, and is told: "
+            "<em>Sokasallaharaṇo</em>, Pulling Out Sorrow's Arrow &mdash; the same image AN 5.48 "
+            "used, now given as the formal title of a teaching a king has just received and "
+            "confirmed by his own testimony: <em>hearing this exposition, I've given up sorrow's "
+            "arrow</em>. The discourse's final act is entirely practical: Muṇḍa orders the "
+            "queen's body cremated and a monument built, and announces, in the same breath, that "
+            "he will resume bathing, eating, and governing."]),
+    ],
+    terms=[
+        ("teladoṇi",
+         "&ldquo;oil-filled casket&rdquo; &mdash; the vessel King Muṇḍa uses to preserve his "
+         "dead queen's body, described without euphemism."),
+        ("ajjhomucchito",
+         "&ldquo;brooding over, absorbed in&rdquo; &mdash; the discourse's description of "
+         "Muṇḍa's state, day and night, over the queen's corpse."),
+        ("sokasallaṁ pajahati",
+         "&ldquo;give up sorrow's arrow&rdquo; &mdash; the goal Piyaka hopes Nārada's teaching "
+         "will achieve, and which Muṇḍa later confirms achieving."),
+        ("kosārakkha",
+         "&ldquo;keeper of the treasury&rdquo; &mdash; Piyaka's official role, and the position "
+         "from which he takes independent initiative to help his king."),
+        ("sokasallaharaṇo",
+         "&ldquo;pulling out sorrow's arrow&rdquo; &mdash; the formal name Nārada gives this "
+         "exposition of the teaching, confirmed as accurate by Muṇḍa himself."),
+    ],
+    text_intro=(
+        "The discourse in full: King Muṇḍa's grief and the preserved body, Piyaka's search for a "
+        "teacher, the journey to Nārada, and the teaching's opening and closing movements. The "
+        "central doctrinal repetition, identical to AN 5.48's full text, is represented here by "
+        "its first working (aging) rather than reproduced a third time; the discourse itself "
+        "runs the identical pattern again for the elided middle three conditions, using "
+        "perishing as the worked example, exactly as at AN 5.48. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The queen's death, and the preserved body"),
+        ("p", "&sect;1", "an5.50:1.1"),
+        ("p", "&sect;2", "an5.50:1.2-1.4"),
+        ("p", "&sect;3", "an5.50:1.5"),
+        ("p", "&sect;4", "an5.50:1.6"),
+        ("p", "&sect;5", "an5.50:1.7"),
+        ("h3", "Piyaka's own initiative"),
+        ("p", "&sect;6", "an5.50:2.1-2.5"),
+        ("p", "&sect;7", "an5.50:3.1-3.5"),
+        ("h3", "Seeking the king's approval"),
+        ("p", "&sect;8", "an5.50:4.1-4.5"),
+        ("p", "&sect;9", "an5.50:4.6-4.7"),
+        ("h3", "The invitation to Nārada"),
+        ("p", "&sect;10", "an5.50:4.8-5.4"),
+        ("p", "&sect;11", "an5.50:5.5"),
+        ("h3", "The journey to the Chicken Monastery"),
+        ("p", "&sect;12", "an5.50:6.1-6.3"),
+        ("p", "&sect;13", "an5.50:6.4"),
+        ("p", "&sect;14", "an5.50:6.5-6.7"),
+        ("p", "&sect;15", "an5.50:7.1-7.3"),
+        ("h3", "Nārada's teaching begins"),
+        ("p", "&sect;16", "an5.50:8.1-8.4"),
+        ("p", "&sect;17", "an5.50:9.1-9.7"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;18", "an5.50:14.1-14.4"),
+        ("p", "&sect;19", "an5.50:15.1-15.4"),
+        ("p", "&sect;20", "an5.50:16.1-16.4"),
+        ("p", "&sect;21", "an5.50:17.1-17.4"),
+        ("h3", "“Pulling Out Sorrow's Arrow”"),
+        ("p", "&sect;22", "an5.50:18.1-18.2"),
+        ("p", "&sect;23", "an5.50:18.3"),
+        ("p", "&sect;24", "an5.50:18.4-18.5"),
+        ("h3", "The queen is cremated"),
+        ("p", "&sect;25", "an5.50:19.1-19.3"),
+    ],
+    quiz=[
+        {"q": "What does King Muṇḍa do instead of cremating Queen Bhaddā's body after her death?",
+         "opts": [
+             "He buries it immediately",
+             "He has it sealed in an oil-filled iron casket, closed inside a second casket, so he "
+             "can keep viewing it",
+             "He has it enshrined in a temple",
+             "He scatters her ashes at once"],
+         "correct": 1,
+         "expl": "A stark, unsoftened description the discourse states plainly."},
+        {"q": "How does the king's daily life change after the queen's death?",
+         "opts": [
+             "Nothing changes at all",
+             "He stops bathing, anointing himself, eating properly, and doing his work, brooding "
+             "over the corpse day and night",
+             "He immediately abdicates the throne",
+             "He becomes more active in governing"],
+         "correct": 1,
+         "expl": "A description this reading guide presents without euphemism, matching the discourse's own directness."},
+        {"q": "Who first takes initiative to seek help for the king?",
+         "opts": [
+             "The king himself, requesting a teacher",
+             "Piyaka, the keeper of the treasury, observing the king's decline and reasoning "
+             "through the problem on his own",
+             "Queen Bhaddā's family",
+             "A group of ministers acting together"],
+         "correct": 1,
+         "expl": "A subordinate's own observation and judgment, not a royal request, begins the chain of events."},
+        {"q": "How does this discourse's presentation of the core teaching compare to AN 5.48's?",
+         "opts": [
+             "It is entirely different content",
+             "It delivers the identical teaching at the same length AN 5.48 already gave in full, "
+             "which this reading guide does not repeat a third time here",
+             "It gives only a summary, never the full teaching",
+             "It contradicts AN 5.48"],
+         "correct": 1,
+         "expl": "The same five impossibilities and the same unlearned/learned contrast, worked through in full."},
+        {"q": "What name does Nārada give this exposition of the teaching?",
+         "opts": [
+             "'The Five Powers'",
+             "'Sokasallaharaṇo', Pulling Out Sorrow's Arrow",
+             "'The King's Consolation'",
+             "No name is given"],
+         "correct": 1,
+         "expl": "A formal title using the same arrow image already central to AN 5.48."},
+        {"q": "How does King Muṇḍa confirm the teaching worked?",
+         "opts": [
+             "He says nothing at all",
+             "He states directly, 'hearing this exposition, I've given up sorrow's arrow'",
+             "He asks for a second teaching",
+             "He rejects the teaching as insufficient"],
+         "correct": 1,
+         "expl": "A direct, first-person confirmation closing the discourse's emotional arc."},
+        {"q": "What does the king do immediately after confirming the teaching worked?",
+         "opts": [
+             "Nothing changes in his behavior",
+             "He orders the queen's body cremated and a monument built, and announces he will "
+             "resume bathing, eating, and governing",
+             "He orders the body preserved even longer",
+             "He abdicates in favor of his son"],
+         "correct": 1,
+         "expl": "A fully practical resolution, matching the concreteness of his earlier grief."},
+        {"q": "Where does Nārada deliver this teaching?",
+         "opts": [
+             "At the royal palace",
+             "At the Chicken Monastery in Pāṭaliputta, where the king travels to meet him",
+             "In a forest clearing",
+             "On the road between two cities"],
+         "correct": 1,
+         "expl": "The king comes to Nārada, dismounting from his chariot to enter on foot."},
+        {"q": "How does the guide characterize its own choice not to reproduce the doctrinal core "
+              "a third time?",
+         "opts": [
+             "As an omission it apologizes for",
+             "As a deliberate choice, since AN 5.48 already presented the identical content in "
+             "full, and this discourse's new material is entirely in its narrative frame",
+             "As evidence the teaching is unimportant",
+             "As a correction of an error in AN 5.48"],
+         "correct": 1,
+         "expl": "The frame, not the doctrine, is what this discourse adds."},
+        {"q": "What does this discourse's title and chapter placement signal about its role?",
+         "opts": [
+             "It is unrelated to the chapter's overall theme",
+             "It is the discourse this whole chapter is named for, closing the chapter on its "
+             "most unflinching and fully resolved note",
+             "It is a minor, easily skippable discourse",
+             "It contradicts the chapter's opening discourse, AN 5.41"],
+         "correct": 1,
+         "expl": "The Muṇḍarājavagga's own namesake, and its final word."},
+    ],
+    marginalia=[
+        ("The refusal", [
+            "oil-filled casket,",
+            "sealed twice over &mdash;",
+            "so he could keep viewing her",
+        ]),
+        ("A subordinate's initiative", [
+            "Piyaka: watches, reasons,",
+            "recalls Nārada,",
+            "proposes the visit",
+        ]),
+        ("The named teaching", [
+            "<span class=\"pali\">Sokasallaharaṇo</span>",
+            "&mdash; Pulling Out",
+            "Sorrow's Arrow",
+        ]),
+        ("Cross-references", [
+            "AN 5.48 &middot; the full teaching, first",
+            "AN 5.49 &middot; the compressed version",
+            "AN 5.51 &middot; next: Nīvaraṇavagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.50/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.48.html">AN 5.48 &middot; Things That Cannot Be Had</a> &mdash; the full '
+        "doctrinal core this discourse's narrative frame surrounds.",
+        '<a href="an-5.49.html">AN 5.49 &middot; The King of Kosala</a> &mdash; the previous '
+        "discourse, the same teaching compressed for a different grieving king.",
+        '<a href="an-5.41.html">AN 5.41 &middot; Getting Rich</a> &mdash; this chapter&rsquo;s '
+        "opening discourse, on wealth&rsquo;s uses, before its close on what no wealth can secure.",
+    ],
+)
