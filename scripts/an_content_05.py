@@ -14979,3 +14979,2197 @@ page(
         "chapter-closing colophon structure was first explained in full.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.71 — Paṭhamacetovimuttiphalasutta
+# --------------------------------------------------------------------------- #
+VAGGA_8 = "<em>Yodhājīvavagga</em> &mdash; the eighth chapter of the Fives"
+
+page(
+    71, "Paṭhamacetovimuttiphala", "Freedom of Heart is the Fruit (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.71 — Freedom of Heart is the Fruit (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamacetovimuttiphalasutta, opening the Warriors chapter — AN 5.69's five practices "
+        "recur, now leading to a besieged fortress finally standing open: cross-bar lifted, "
+        "moat filled, pillar pulled, unimpeded, banner lowered. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a numbered list of five practices, followed by five fortress epithets, each "
+                 "explained in turn by naming what has been given up"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; military and fortress "
+                       "vocabulary applied to interior states, unpacked term by term"),
+    ],
+    why=(
+        "This discourse opens Yodhājīvavagga, the Warriors, with an image the chapter will "
+        "return to twice more before it closes: liberation as a fortress finally standing open "
+        "&mdash; its cross-bar lifted, its moat filled in, its central pillar pulled up, its "
+        "gate unimpeded, its banner lowered and burden dropped. Five practices already used at "
+        "AN 5.69&ndash;70 recur here, now leading not to disillusionment's long arc but to this "
+        "single vivid image, unpacked term by term."),
+    guide=[
+        ("The five practices, once more", [
+            "The opening list is exactly AN 5.69 and 5.70's five practices: observing the "
+            "body's ugliness, perceiving food's repulsiveness, perceiving dissatisfaction with "
+            "the whole world, observing the impermanence of all conditions, and having well "
+            "established the perception of one's own death. Their fruit here is named as "
+            "<em>cetovimutti</em> and <em>paññāvimutti</em> &mdash; freedom of heart and "
+            "freedom by wisdom &mdash; the same twin outcome AN 5.69's seven-term chain and AN "
+            "5.70's single term both ultimately named."]),
+        ("A fortress, not a chain", [
+            "Where AN 5.69&ndash;70 described an unfolding sequence, this discourse switches "
+            "images entirely: a mendicant who has this twofold freedom is called, all at once, "
+            "one who has lifted the cross-bar, filled in the moat, pulled up the pillar, become "
+            "unimpeded, and lowered the banner while dropping the burden and becoming detached "
+            "&mdash; five names for a single fortified position that has stopped needing its "
+            "own defenses."]),
+        ("Lifted the cross-bar, filled in the moat", [
+            "The cross-bar (<em>paligha</em>) that once barred the gate stands for ignorance "
+            "(<em>avijjā</em>); the moat (<em>parikha</em>) that once encircled the fortress, "
+            "keeping the siege going indefinitely, stands for transmigration through future "
+            "births (<em>ponobhavika jātisaṁsāra</em>). Both are described as given up by the "
+            "same formula used throughout this collection for a fully eradicated quality: cut "
+            "off at the root, made like a palm stump, obliterated, unable to arise again."]),
+        ("Pulled up the pillar, unimpeded", [
+            "The pillar (<em>esikā</em>), a fortification's load-bearing post, stands for "
+            "craving (<em>taṇhā</em>) &mdash; pull it out and the whole structure it was "
+            "holding up no longer stands. To be unimpeded (<em>niraggaḷa</em>, without a bolt "
+            "or bar) is to have given up the five lower fetters, the bindings that tie a person "
+            "to the sensual realm and its lower rebirths: identity view, doubt, misapprehension "
+            "of precepts and observances, sensual desire, and ill will."]),
+        ("Banner lowered, burden dropped, detached", [
+            "The final epithet describes a noble one (<em>ariya</em>) with banner lowered, "
+            "burden dropped, and detached &mdash; given up here as the conceit &lsquo;I "
+            "am&rsquo; (<em>asmimāna</em>). This is traditionally the last and subtlest "
+            "residue of self-reference to fall away, surviving even after the coarser fetters "
+            "are gone; naming it last, after four other eradications, matches how gradually and "
+            "how late this particular conceit is said to loosen its grip."]),
+        ("A pair to come", [
+            "AN 5.72 immediately follows with the identical fruit and the identical five "
+            "fortress epithets, but reaches them through an entirely different, progressive "
+            "five-step perception chain rather than this discourse's static five-topic list "
+            "&mdash; two different routes into the same standing-open fortress."]),
+    ],
+    terms=[
+        ("cetovimutti / paññāvimutti",
+         "&ldquo;freedom of heart&rdquo; and &ldquo;freedom by wisdom&rdquo; &mdash; the twin "
+         "fruit named at the head of this discourse, matching AN 5.69&ndash;70's culmination."),
+        ("ukkhittapaligha",
+         "&ldquo;one who has lifted the cross-bar&rdquo; &mdash; given up ignorance, cut off at "
+         "the root."),
+        ("taṇhā",
+         "&ldquo;craving&rdquo; &mdash; the fortress's central pillar, pulled up and given up."),
+        ("orambhāgiya saṁyojana",
+         "the five lower fetters &mdash; identity view, doubt, misapprehension of precepts and "
+         "observances, sensual desire, and ill will &mdash; given up to become unimpeded."),
+        ("asmimāna",
+         "the conceit &lsquo;I am&rsquo; &mdash; traditionally the last, subtlest residue of "
+         "self-reference to fall away, named last in this discourse's sequence of eradications."),
+    ],
+    text_intro=(
+        "The discourse in full: five practices, their twofold fruit, and five fortress epithets "
+        "each unpacked in turn. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five practices, and their fruit"),
+        ("p", "&sect;1", "an5.71:1.1-2.5"),
+        ("h3", "Lifted the cross-bar"),
+        ("p", "&sect;2", "an5.71:3.1-3.3"),
+        ("h3", "Filled in the moat"),
+        ("p", "&sect;3", "an5.71:4.1-4.3"),
+        ("h3", "Pulled up the pillar"),
+        ("p", "&sect;4", "an5.71:5.1-5.3"),
+        ("h3", "Unimpeded"),
+        ("p", "&sect;5", "an5.71:6.1-6.3"),
+        ("h3", "Banner lowered, burden dropped, detached"),
+        ("p", "&sect;6", "an5.71:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "What twofold fruit is named for the five opening practices?",
+         "opts": [
+             "Wealth and long life",
+             "Freedom of heart and freedom by wisdom",
+             "Rebirth as a deity",
+             "Mastery of the four jhānas only"],
+         "correct": 1,
+         "expl": "Cetovimutti and paññāvimutti, matching AN 5.69–70's culmination."},
+        {"q": "Which of these is NOT one of the five opening practices?",
+         "opts": [
+             "Observing the body's ugliness",
+             "Perceiving food's repulsiveness",
+             "Reciting the discourses daily",
+             "Well-established perception of one's own death"],
+         "correct": 2,
+         "expl": "The five are ugliness, food, world-dissatisfaction, impermanence, and death — not recitation."},
+        {"q": "What does 'lifted the cross-bar' stand for giving up?",
+         "opts": [
+             "Craving",
+             "Ignorance",
+             "The five lower fetters",
+             "The conceit 'I am'"],
+         "correct": 1,
+         "expl": "Avijjā, cut off at the root."},
+        {"q": "What does 'filled in the moat' stand for giving up?",
+         "opts": [
+             "Transmigrating through future births",
+             "Sensual desire alone",
+             "Doubt",
+             "Ill will"],
+         "correct": 0,
+         "expl": "Ponobhavika jātisaṁsāra — rebirth after rebirth, filled in like a moat."},
+        {"q": "What does 'pulled up the pillar' stand for giving up?",
+         "opts": [
+             "Ignorance",
+             "Craving",
+             "Identity view",
+             "The five lower fetters"],
+         "correct": 1,
+         "expl": "Taṇhā, the load-bearing post of the whole structure."},
+        {"q": "What does 'unimpeded' stand for giving up?",
+         "opts": [
+             "The conceit 'I am'",
+             "Craving",
+             "The five lower fetters",
+             "Ignorance"],
+         "correct": 2,
+         "expl": "The orambhāgiya saṁyojana — identity view, doubt, precept-misapprehension, sensual desire, ill will."},
+        {"q": "What does the final epithet, 'banner lowered, burden dropped, detached', stand for giving up?",
+         "opts": [
+             "The five lower fetters",
+             "Craving",
+             "The conceit 'I am'",
+             "Ignorance"],
+         "correct": 2,
+         "expl": "Asmimāna, traditionally the last and subtlest self-referential conceit to fall away."},
+        {"q": "What formula describes each of these five acts of giving up?",
+         "opts": [
+             "Simply forgotten over time",
+             "Suppressed but still present",
+             "Cut off at the root, made like a palm stump, obliterated, unable to arise again",
+             "Transformed into something wholesome"],
+         "correct": 2,
+         "expl": "The standard full-eradication formula used throughout this collection."},
+        {"q": "Where did this same five-item opening list of practices previously appear in this nipāta?",
+         "opts": [
+             "Nowhere else",
+             "AN 5.69 and AN 5.70",
+             "AN 5.51 only",
+             "AN 5.1"],
+         "correct": 1,
+         "expl": "Word for word the same five practices that closed the previous chapter."},
+        {"q": "How does AN 5.72, immediately following, reach the same fortress epithets?",
+         "opts": [
+             "Through an unrelated topic entirely",
+             "Through an identical five-topic list",
+             "Through a different, progressive five-step perception chain",
+             "It does not reach the same epithets"],
+         "correct": 2,
+         "expl": "Impermanence, suffering-in-impermanence, not-self-in-suffering, giving up, fading away — a chain, not a list."},
+    ],
+    marginalia=[
+        ("Five images, one fortress", [
+            "cross-bar &middot; moat",
+            "pillar &middot; unimpeded",
+            "banner lowered",
+        ]),
+        ("The eradication formula", [
+            "cut off at the root,",
+            "made like a palm stump,",
+            "unable to arise again",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">asmimāna</span>",
+            "&mdash; the conceit",
+            "&lsquo;I am&rsquo;, named last",
+        ]),
+        ("Cross-references", [
+            "AN 5.69&ndash;70 &middot; source of the five practices",
+            "AN 5.72 &middot; same epithets, a different route",
+            "AN 5.75 &middot; the chapter's title discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.71/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.72.html">AN 5.72 &middot; Freedom of Heart is the Fruit (2nd)</a> '
+        "&mdash; this discourse's twin, reaching the same fortress epithets by a different route.",
+        '<a href="an-5.70.html">AN 5.70 &middot; The Ending of Defilements</a> &mdash; the '
+        "immediate source of this discourse's five opening practices.",
+        '<a href="an-5.75.html">AN 5.75 &middot; Warriors (1st)</a> &mdash; where this '
+        "chapter's title image, the warrior, becomes the subject rather than a fortress.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.72 — Dutiyacetovimuttiphalasutta
+# --------------------------------------------------------------------------- #
+page(
+    72, "Dutiyacetovimuttiphala", "Freedom of Heart is the Fruit (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.72 — Freedom of Heart is the Fruit (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyacetovimuttiphalasutta, AN 5.71's twin — a different, progressive five-step "
+        "perception chain reaching the identical fortress epithets, with the repeated "
+        "explanation left elided in the source itself. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a progressive five-step perception chain, followed by the same five fortress "
+                 "epithets as AN 5.71; the source elides their repeated explanation as identical"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and the hardest part "
+                       "already unpacked at AN 5.71"),
+    ],
+    why=(
+        "AN 5.71's twin keeps the identical twofold fruit and the identical five fortress "
+        "epithets, but replaces the opening five-topic list with a genuinely different, "
+        "progressive chain: perceiving impermanence, then the suffering inherent in "
+        "impermanence, then the not-self inherent in that suffering, then giving up, then "
+        "fading away. Two different routes into the same standing-open fortress."),
+    guide=[
+        ("A chain, not a list", [
+            "AN 5.71's five practices were five separate topics observed side by side. This "
+            "discourse's five are a single deepening sequence, each step building on the "
+            "realization of the one before it: impermanence noticed first, then the suffering "
+            "bound up in anything impermanent, then the absence of any self within that "
+            "suffering, then a resulting willingness to give up, and finally the fading away of "
+            "what has been given up."]),
+        ("Same fruit, same fortress", [
+            "The twofold fruit &mdash; freedom of heart and freedom by wisdom &mdash; and all "
+            "five fortress epithets &mdash; cross-bar lifted, moat filled in, pillar pulled up, "
+            "unimpeded, banner lowered and burden dropped &mdash; are worded identically to AN "
+            "5.71, down to the last phrase."]),
+        ("Why the explanation is left blank", [
+            "In the source, only the opening list and the naming of the five epithets are "
+            "translated in full; the explanation of each epithet, spelled out in AN 5.71, is "
+            "represented here only by an ellipsis, since it is word-for-word the same "
+            "explanation already given. This reading guide follows the source exactly: nothing "
+            "has been invented or expanded to fill the gap, and the full explanation can be "
+            "read at AN 5.71."]),
+        ("Two routes, one destination", [
+            "Read as a pair, AN 5.71 and 5.72 make a structural point: the same liberating "
+            "outcome, described with the same striking fortress image, can be reached either "
+            "by observing several distinct facts about experience side by side, or by following "
+            "a single chain of realization from one insight into the next."]),
+        ("A familiar shape", [
+            "The progressive linking of one perception into the next &mdash; each step both "
+            "completing and motivating the next &mdash; echoes the structure of other chained "
+            "formulas already seen in this nipāta, such as the sequence from joy through "
+            "tranquility to immersion. This particular five-step perception chain (impermanence, "
+            "suffering, not-self, giving up, fading away) is itself a well-known formula found "
+            "widely elsewhere in the early canon."]),
+        ("What comes next", [
+            "AN 5.73 turns the chapter toward a different question entirely &mdash; what it "
+            "means to &lsquo;live by the teaching&rsquo; &mdash; before AN 5.75 finally reaches "
+            "the chapter's title image, the warrior."]),
+    ],
+    terms=[
+        ("aniccasaññā",
+         "&ldquo;perception of impermanence&rdquo; &mdash; the first step of this discourse's "
+         "chain."),
+        ("dukkhasaññā (anicce)",
+         "&ldquo;perception of suffering in the impermanent&rdquo; &mdash; the second step, "
+         "built on the first."),
+        ("anattasaññā (dukkhe)",
+         "&ldquo;perception of not-self in what is suffering&rdquo; &mdash; the third step."),
+        ("pahānasaññā",
+         "&ldquo;perception of giving up&rdquo; &mdash; the fourth step."),
+        ("virāgasaññā",
+         "&ldquo;perception of fading away&rdquo; &mdash; the fifth and final step of this "
+         "discourse's chain."),
+    ],
+    text_intro=(
+        "The discourse in full. The source leaves the explanation of the five fortress epithets "
+        "untranslated here, as identical to AN 5.71's; only the opening chain and the naming of "
+        "the epithets carry translated English text, and this page follows the source exactly. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The second five, and their fruit"),
+        ("p", "&sect;1", "an5.72:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What are the five items of this discourse's perception chain, in order?",
+         "opts": [
+             "Ugliness, food, dissatisfaction, impermanence, death",
+             "Impermanence, suffering-in-impermanence, not-self-in-suffering, giving up, fading away",
+             "Faith, conscience, prudence, energy, wisdom",
+             "Cross-bar, moat, pillar, unimpeded, banner"],
+         "correct": 1,
+         "expl": "A progressive chain, each step built on the one before."},
+        {"q": "Is this the same five items as AN 5.71's opening list?",
+         "opts": [
+             "Yes, identical",
+             "No, an entirely different five items",
+             "Three of the five overlap",
+             "Only the order differs"],
+         "correct": 1,
+         "expl": "AN 5.71 used a five-topic list; this discourse uses a progressive chain instead."},
+        {"q": "What twofold fruit is named, matching AN 5.71?",
+         "opts": [
+             "Wealth and status",
+             "Freedom of heart and freedom by wisdom",
+             "Long life",
+             "Rebirth in a heavenly realm"],
+         "correct": 1,
+         "expl": "Cetovimutti and paññāvimutti, worded identically to AN 5.71."},
+        {"q": "Are the five fortress epithets (cross-bar, moat, pillar, unimpeded, banner) the same as AN 5.71's?",
+         "opts": [
+             "No, entirely different epithets",
+             "Yes, identical, down to the last phrase",
+             "Only two of the five match",
+             "The order is reversed"],
+         "correct": 1,
+         "expl": "Worded identically to AN 5.71."},
+        {"q": "Why does the source leave the explanation of the five epithets untranslated here?",
+         "opts": [
+             "The manuscript is damaged at this point",
+             "Because it is word-for-word the same explanation already given at AN 5.71",
+             "The translator considered it unimportant",
+             "It was never composed"],
+         "correct": 1,
+         "expl": "Elided in the source itself, not omitted by this reading guide."},
+        {"q": "What is virāgasaññā, the fifth item in this chain?",
+         "opts": [
+             "Perception of impermanence",
+             "Perception of not-self",
+             "Perception of fading away",
+             "Perception of giving up"],
+         "correct": 2,
+         "expl": "The final step, following pahānasaññā, perception of giving up."},
+        {"q": "Is anattasaññā, in this discourse, perceived within the impermanent or within suffering?",
+         "opts": [
+             "Within the impermanent",
+             "Within suffering",
+             "Within both equally",
+             "Within neither; it stands alone"],
+         "correct": 1,
+         "expl": "Dukkhe anattasaññā — not-self perceived within what is suffering, the third link in the chain."},
+        {"q": "What makes this list 'progressive' rather than a five-topic list like AN 5.71's?",
+         "opts": [
+             "It is longer",
+             "Each item builds on the deepening realization of the one before it",
+             "It uses different vocabulary only",
+             "It is addressed to a different audience"],
+         "correct": 1,
+         "expl": "A chain of linked insight, not five separate observations."},
+        {"q": "What chapter do both this discourse and AN 5.71 belong to?",
+         "opts": [
+             "Nīvaraṇavagga",
+             "Saññāvagga",
+             "Yodhājīvavagga, the Warriors",
+             "Sekhabalavagga"],
+         "correct": 2,
+         "expl": "The chapter this discourse pair opens."},
+        {"q": "Which discourse reaches this chapter's title image, the warrior, directly?",
+         "opts": [
+             "AN 5.73",
+             "AN 5.74",
+             "AN 5.75",
+             "AN 5.80"],
+         "correct": 2,
+         "expl": "The chapter's eponymous discourse, three places further on."},
+    ],
+    marginalia=[
+        ("Same fruit, same epithets", [
+            "worded identically",
+            "to AN 5.71",
+        ]),
+        ("A chain, not a list", [
+            "impermanence &rarr; suffering",
+            "&rarr; not-self &rarr; giving up",
+            "&rarr; fading away",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">virāgasaññā</span>",
+            "&mdash; perception",
+            "of fading away",
+        ]),
+        ("Cross-references", [
+            "AN 5.71 &middot; the fortress epithets, explained in full",
+            "AN 5.75 &middot; next: the chapter's title discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.72/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.71.html">AN 5.71 &middot; Freedom of Heart is the Fruit (1st)</a> '
+        "&mdash; this discourse's twin, where the five fortress epithets are explained in full.",
+        '<a href="an-5.69.html">AN 5.69 &middot; Disillusionment</a> &mdash; an earlier, '
+        "related perception list from the previous chapter.",
+        '<a href="an-5.75.html">AN 5.75 &middot; Warriors (1st)</a> &mdash; next: the '
+        "chapter&rsquo;s title discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.73 — Paṭhamadhammavihārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    73, "Paṭhamadhammavihārī", "One Who Lives by the Teaching (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.73 — One Who Lives by the Teaching (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamadhammavihārīsutta — a mendicant asks what 'living by the teaching' means; four "
+        "candidates who study, teach, recite, or think too much are set against the one who "
+        "does the same without neglecting retreat, closing with the Buddha's own exhortation "
+        "to practice absorption. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha; the Buddha's answer"),
+        ("Form", "question and definition — four rejected candidates for a term, then the true "
+                 "definition, closing with a direct exhortation"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a practical distinction "
+                       "about balancing study with practice"),
+    ],
+    why=(
+        "A mendicant asks the Buddha to define a term already in circulation: "
+        "&lsquo;dhammavihārī&rsquo;, one who lives by the teaching. The answer turns out to "
+        "hinge not on how much scripture someone studies, teaches, recites, or thinks about, "
+        "but on whether that activity crowds out retreat and inner serenity. The discourse "
+        "closes with one of the collection's most direct exhortations: roots of trees, empty "
+        "huts &mdash; practice absorption, don't be negligent, don't regret it later."),
+    guide=[
+        ("The question", [
+            "A mendicant simply asks the Buddha how &lsquo;one who lives by the "
+            "teaching&rsquo; is defined &mdash; a term evidently already in use, not one the "
+            "Buddha is introducing for the first time."]),
+        ("Three who study, teach, and recite too much", [
+            "Three parallel false candidates are named in turn: one who studies a lot "
+            "(<em>pariyattibahula</em>), spending the whole day memorizing the teaching; one "
+            "who advocates a lot (<em>paññattibahula</em>), spending the whole day teaching it "
+            "to others; and one who rehearses a lot (<em>sajjhāyabahula</em>), spending the "
+            "whole day reciting it. Each is said to neglect retreat and fail to commit to "
+            "internal serenity of heart &mdash; and each, despite the activity's evident "
+            "value, is denied the title dhammavihārī."]),
+        ("One who thinks too much", [
+            "A fourth candidate, one who thinks a lot (<em>vitakkabahula</em>), spends the "
+            "whole day turning the teaching over mentally &mdash; considering, examining, "
+            "reflecting on it &mdash; with the identical diagnosis: retreat neglected, "
+            "serenity uncultivated."]),
+        ("The one who truly lives by the teaching", [
+            "The true dhammavihārī performs the identical activity as the first false "
+            "candidate &mdash; memorizing the same ninefold body of material: statements, "
+            "mixed prose and verse, discussions, verses, inspired exclamations, legends, "
+            "stories of past lives, amazing stories, and elaborations (<em>vedalla</em>) "
+            "&mdash; but does not neglect retreat, and is committed to internal serenity. The "
+            "deciding difference is never the activity itself, only whether it crowds out "
+            "retreat and serenity."]),
+        ("The Buddha's instruction", [
+            "The discourse closes with the Buddha naming what he has done for this mendicant "
+            "&mdash; what a sympathetic teacher who wants the best for disciples should do "
+            "&mdash; and issuing a direct exhortation: here are roots of trees, here are empty "
+            "huts; practice absorption, don't be negligent, don't regret it later."]),
+        ("A pair to come", [
+            "AN 5.74 restates this entire structure with a sharper, different diagnostic axis: "
+            "not whether retreat is neglected, but whether the deeper meaning of what is "
+            "memorized is actually understood."]),
+    ],
+    terms=[
+        ("dhammavihārī",
+         "&ldquo;one who lives by the teaching&rdquo; &mdash; the term this discourse defines."),
+        ("pariyattibahula",
+         "&ldquo;one who studies a lot&rdquo; &mdash; the first false candidate, denied the "
+         "title dhammavihārī for neglecting retreat."),
+        ("paṭisallāna",
+         "&ldquo;retreat, withdrawal into seclusion&rdquo; &mdash; what each false candidate "
+         "is said to neglect."),
+        ("ajjhattaṁ cetosamatha",
+         "&ldquo;internal serenity of heart&rdquo; &mdash; what each false candidate fails to "
+         "cultivate."),
+        ("vedalla",
+         "&ldquo;elaborations&rdquo; &mdash; one of nine genres named here in a neutral "
+         "listing; the same term reappears at AN 5.79 in a strikingly different, cautionary "
+         "context."),
+    ],
+    text_intro=(
+        "The discourse in full: the question, four rejected candidates, the true definition, "
+        "and the Buddha's closing exhortation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The question"),
+        ("p", "&sect;1", "an5.73:1.1-1.3"),
+        ("h3", "Three who study, teach, and recite too much"),
+        ("p", "&sect;2", "an5.73:2.1-2.4"),
+        ("p", "&sect;3", "an5.73:3.1-3.3"),
+        ("p", "&sect;4", "an5.73:4.1-4.3"),
+        ("h3", "One who thinks too much"),
+        ("p", "&sect;5", "an5.73:5.1-5.3"),
+        ("h3", "The one who truly lives by the teaching"),
+        ("p", "&sect;6", "an5.73:6.1-6.4"),
+        ("h3", "The Buddha's instruction"),
+        ("p", "&sect;7", "an5.73:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "What term does the mendicant ask the Buddha to define?",
+         "opts": [
+             "Arahant",
+             "Dhammavihārī, one who lives by the teaching",
+             "Sekha",
+             "Āraññika"],
+         "correct": 1,
+         "expl": "The discourse's opening question."},
+        {"q": "What is the first false candidate named?",
+         "opts": [
+             "One who meditates a lot",
+             "One who studies a lot",
+             "One who travels a lot",
+             "One who fasts a lot"],
+         "correct": 1,
+         "expl": "Pariyattibahula — one who studies a lot."},
+        {"q": "What do all four false candidates have in common, structurally?",
+         "opts": [
+             "Each is accused of laziness",
+             "Each spends the whole day on one activity, neglects retreat, and fails to cultivate serenity",
+             "Each is said to have broken a precept",
+             "Each is praised without qualification"],
+         "correct": 1,
+         "expl": "An identical diagnosis applied to four different activities."},
+        {"q": "What activity does the true dhammavihārī actually perform, compared to the first false candidate?",
+         "opts": [
+             "A completely different activity",
+             "The identical activity — memorizing the teaching",
+             "No scriptural activity at all",
+             "Only meditation, never study"],
+         "correct": 1,
+         "expl": "The activity itself is not what distinguishes them."},
+        {"q": "What is the deciding difference between the false candidates and the true dhammavihārī?",
+         "opts": [
+             "How much they have memorized",
+             "Whether retreat is neglected and serenity is cultivated alongside the activity",
+             "Their seniority in the Saṅgha",
+             "Whether they teach in public"],
+         "correct": 1,
+         "expl": "The discourse's central point."},
+        {"q": "How many genres of text are named in the passage describing what a mendicant memorizes?",
+         "opts": [
+             "Three",
+             "Five",
+             "Nine",
+             "Twelve"],
+         "correct": 2,
+         "expl": "Statements, mixed prose and verse, discussions, verses, inspired exclamations, legends, past-life stories, amazing stories, and elaborations."},
+        {"q": "What does the Buddha say he has done for the questioning mendicant by explaining this?",
+         "opts": [
+             "Given a formal ordination",
+             "What a sympathetic teacher who wants the best for disciples should do",
+             "Granted a special title",
+             "Nothing beyond ordinary instruction"],
+         "correct": 1,
+         "expl": "Framed explicitly as a teacher's duty of sympathy toward students."},
+        {"q": "What does the Buddha's closing exhortation urge mendicants to do?",
+         "opts": [
+             "Recite scripture continuously",
+             "Practice absorption, and not be negligent",
+             "Travel to teach in distant villages",
+             "Debate philosophical points"],
+         "correct": 1,
+         "expl": "Jhāyatha — practice absorption, don't be negligent, don't regret it later."},
+        {"q": "Fill in: 'Here are these roots of trees, and here are these ___.'",
+         "opts": [
+             "Rivers",
+             "Empty huts",
+             "Mountains",
+             "Marketplaces"],
+         "correct": 1,
+         "expl": "The standard pairing naming secluded places suited to meditation."},
+        {"q": "What does the companion discourse AN 5.74 change about this same structure?",
+         "opts": [
+             "Nothing; it repeats this discourse verbatim",
+             "The diagnostic criterion shifts to understanding the higher meaning, not neglecting retreat",
+             "It rejects the concept of dhammavihārī entirely",
+             "It adds a fifth false candidate"],
+         "correct": 1,
+         "expl": "A sharper, different axis for the same four-plus-one structure."},
+    ],
+    marginalia=[
+        ("Same act, different outcome", [
+            "four false candidates,",
+            "one true — identical",
+            "activity throughout",
+        ]),
+        ("Nine genres", [
+            "statements &middot; verse",
+            "discussions &middot; legends",
+            "&hellip; and elaborations",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vedalla</span>",
+            "&mdash; reappears darker",
+            "at AN 5.79",
+        ]),
+        ("Cross-references", [
+            "AN 5.74 &middot; same structure, sharper criterion",
+            "AN 5.79 &middot; vedalla's later, cautionary echo",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.73/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.74.html">AN 5.74 &middot; One Who Lives by the Teaching (2nd)</a> '
+        "&mdash; this discourse's twin, with a sharper diagnostic criterion.",
+        '<a href="an-5.79.html">AN 5.79 &middot; Future Perils (3rd)</a> &mdash; where '
+        "vedalla, one of the nine genres named here, reappears in a cautionary context.",
+        '<a href="an-5.75.html">AN 5.75 &middot; Warriors (1st)</a> &mdash; where this '
+        "discourse's closing exhortation to practice absorption is unpacked in full.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.74 — Dutiyadhammavihārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    74, "Dutiyadhammavihārī", "One Who Lives by the Teaching (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.74 — One Who Lives by the Teaching (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyadhammavihārīsutta, AN 5.73's twin — the same four candidates and the same "
+        "activity, now distinguished by a single different criterion: understanding the "
+        "higher meaning of what is memorized. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "An unnamed mendicant, questioning the Buddha; the Buddha's answer"),
+        ("Form", "the same question-and-definition structure as AN 5.73, with one criterion "
+                 "changed throughout"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a single clear change of "
+                       "criterion, easy to follow once AN 5.73 is read"),
+    ],
+    why=(
+        "AN 5.73's twin keeps the same question, the same four candidates, and the same "
+        "closing exhortation, but replaces the diagnosis entirely: instead of neglecting "
+        "retreat, the false candidates here simply fail to understand the higher meaning "
+        "(<em>uttari&hellip;attha</em>) of what they study, teach, recite, or think about. Two "
+        "independent ways to fail at living by the teaching, from two discourses that otherwise "
+        "share a single frame."),
+    guide=[
+        ("The question, again", [
+            "The same mendicant, or one like him, asks the same question in the same words: "
+            "how is one who lives by the teaching defined?"]),
+        ("Four who fail to grasp the higher meaning", [
+            "The same four false candidates recur &mdash; one who studies a lot, advocates a "
+            "lot, rehearses a lot, and thinks a lot &mdash; but this time none of them is "
+            "accused of neglecting retreat. The sole diagnosis given for each is that they do "
+            "not understand the higher meaning (<em>uttari cassa paññāya atthaṁ "
+            "nappajānāti</em>) of what they are doing."]),
+        ("The one who understands", [
+            "The true dhammavihārī performs the same activity &mdash; memorizing the identical "
+            "ninefold body of material &mdash; but does understand the higher meaning. As in "
+            "AN 5.73, the activity itself never distinguishes the false candidates from the "
+            "true one; only the single stated criterion does."]),
+        ("Two ways to fail", [
+            "Read together, AN 5.73 and 5.74 establish that living by the teaching can be "
+            "undermined in at least two independent ways: by letting study, teaching, "
+            "recitation, or thought crowd out retreat and serenity, or by remaining at the "
+            "surface of what is memorized without grasping its deeper import. Either failure "
+            "earns the same verdict &mdash; not a dhammavihārī."]),
+        ("What 'the higher meaning' is left undefined", [
+            "The discourse does not spell out what this higher meaning consists of; this "
+            "reading guide does not supply a definition the text itself withholds. What is "
+            "clear is only that memorizing correct words is, on its own, insufficient."]),
+        ("The same closing exhortation", [
+            "As at AN 5.73, the discourse closes with the identical instruction: roots of "
+            "trees, empty huts, practice absorption, don't be negligent, don't regret it "
+            "later &mdash; framed once more as what a sympathetic teacher owes students."]),
+    ],
+    terms=[
+        ("uttari&hellip;attha",
+         "&ldquo;the higher meaning&rdquo; &mdash; the single criterion distinguishing this "
+         "discourse's false candidates from the true dhammavihārī, left otherwise undefined."),
+        ("pariyattibahula",
+         "&ldquo;one who studies a lot&rdquo; &mdash; the first candidate, here failing on "
+         "understanding rather than neglecting retreat."),
+        ("paññattibahula",
+         "&ldquo;one who advocates a lot&rdquo; &mdash; the second candidate."),
+        ("sajjhāyabahula",
+         "&ldquo;one who rehearses a lot&rdquo; &mdash; the third candidate."),
+        ("vitakkabahula",
+         "&ldquo;one who thinks a lot&rdquo; &mdash; the fourth candidate."),
+    ],
+    text_intro=(
+        "The discourse in full, restating AN 5.73's structure with one criterion changed "
+        "throughout. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The question, again"),
+        ("p", "&sect;1", "an5.74:1.1-1.3"),
+        ("h3", "Four who fail to grasp the higher meaning"),
+        ("p", "&sect;2", "an5.74:2.1-2.4"),
+        ("p", "&sect;3", "an5.74:3.1-3.2"),
+        ("p", "&sect;4", "an5.74:4.1-4.2"),
+        ("p", "&sect;5", "an5.74:5.1-5.2"),
+        ("h3", "The one who understands"),
+        ("p", "&sect;6", "an5.74:6.1-6.4"),
+        ("h3", "The Buddha's instruction, repeated"),
+        ("p", "&sect;7", "an5.74:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "What single criterion distinguishes the false candidates from the true dhammavihārī in this discourse?",
+         "opts": [
+             "Whether they neglect retreat",
+             "Whether they understand the higher meaning",
+             "Whether they are senior mendicants",
+             "Whether they live in a wilderness"],
+         "correct": 1,
+         "expl": "Uttari…attha, unlike AN 5.73's retreat-neglect criterion."},
+        {"q": "Unlike AN 5.73, does this version mention neglecting retreat as part of the diagnosis?",
+         "opts": [
+             "Yes, identically",
+             "No",
+             "Only for the fourth candidate",
+             "Only for the true dhammavihārī"],
+         "correct": 1,
+         "expl": "The retreat-and-serenity language from AN 5.73 is entirely absent here."},
+        {"q": "What is the term for 'the higher meaning', left undefined by the text?",
+         "opts": [
+             "Uttari…attha",
+             "Paṭisallāna",
+             "Ajjhattaṁ cetosamatha",
+             "Vedalla"],
+         "correct": 0,
+         "expl": "Named but not further explained in this discourse."},
+        {"q": "Which of the four false-candidate terms names one who advocates or teaches a lot?",
+         "opts": [
+             "Pariyattibahula",
+             "Paññattibahula",
+             "Sajjhāyabahula",
+             "Vitakkabahula"],
+         "correct": 1,
+         "expl": "Paññattibahula — the second candidate."},
+        {"q": "Which term names one who rehearses or recites a lot?",
+         "opts": [
+             "Pariyattibahula",
+             "Paññattibahula",
+             "Sajjhāyabahula",
+             "Vitakkabahula"],
+         "correct": 2,
+         "expl": "Sajjhāyabahula — the third candidate."},
+        {"q": "Which term names one who merely thinks a lot?",
+         "opts": [
+             "Pariyattibahula",
+             "Paññattibahula",
+             "Sajjhāyabahula",
+             "Vitakkabahula"],
+         "correct": 3,
+         "expl": "Vitakkabahula — the fourth candidate."},
+        {"q": "Is the activity performed by the true dhammavihārī here different from the false candidates'?",
+         "opts": [
+             "Yes, an entirely different activity",
+             "No, identical activity throughout",
+             "Only partly different",
+             "The text does not say"],
+         "correct": 1,
+         "expl": "As at AN 5.73, only the stated criterion distinguishes them."},
+        {"q": "What do AN 5.73 and AN 5.74 together establish about failing to live by the teaching?",
+         "opts": [
+             "That it is impossible to fail",
+             "That there are at least two independent ways to fail — crowding out retreat, or missing the deeper meaning",
+             "That only senior mendicants can fail",
+             "That failure is defined only by breaking a precept"],
+         "correct": 1,
+         "expl": "Two discourses, two independent diagnostic criteria, same underlying question."},
+        {"q": "What closing exhortation is repeated verbatim from AN 5.73?",
+         "opts": [
+             "A call to travel and teach widely",
+             "Roots of trees, empty huts — practice absorption, don't be negligent",
+             "A warning about monastic discipline",
+             "An instruction to fast"],
+         "correct": 1,
+         "expl": "Identical wording to AN 5.73's close."},
+        {"q": "What is the title of the chapter both discourses belong to?",
+         "opts": [
+             "Nīvaraṇavagga",
+             "Saññāvagga",
+             "Yodhājīvavagga, the Warriors",
+             "Sekhabalavagga"],
+         "correct": 2,
+         "expl": "The chapter this pair sits within, before it reaches its title discourse at AN 5.75."},
+    ],
+    marginalia=[
+        ("Same four, new criterion", [
+            "not retreat-neglect,",
+            "but understanding",
+        ]),
+        ("Two ways to fail", [
+            "AN 5.73 &middot; retreat crowded out",
+            "AN 5.74 &middot; meaning missed",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">uttari&hellip;attha</span>",
+            "&mdash; the higher",
+            "meaning, undefined",
+        ]),
+        ("Cross-references", [
+            "AN 5.73 &middot; this discourse's twin",
+            "AN 5.75&ndash;76 &middot; next: the chapter's warriors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.74/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.73.html">AN 5.73 &middot; One Who Lives by the Teaching (1st)</a> '
+        "&mdash; this discourse's twin, criterion of retreat rather than meaning.",
+        '<a href="an-5.75.html">AN 5.75 &middot; Warriors (1st)</a> &mdash; next: the '
+        "chapter&rsquo;s title discourse.",
+        '<a href="an-5.76.html">AN 5.76 &middot; Warriors (2nd)</a> &mdash; and its companion, '
+        "immediately following.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.75 — Paṭhamayodhājīvasutta
+# --------------------------------------------------------------------------- #
+page(
+    75, "Paṭhamayodhājīva", "Warriors (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.75 — Warriors (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamayodhājīvasutta, this chapter's title discourse — five levels of a soldier's "
+        "battlefield resilience mapped onto five levels of a monk's ability to withstand "
+        "escalating temptation, closing with the fifth monk's full path to liberation. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an extended graded simile — five kinds of warriors, then five kinds of monks "
+                 "mapped onto them stage by stage, each explained by a short glossary exchange"),
+        ("Length", "~7 minutes to read — the chapter's longest discourse so far"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; describes escalating sexual "
+                       "temptation from an anxious, one-sided monastic vantage point; handled "
+                       "here plainly, without endorsement"),
+    ],
+    why=(
+        "This is the chapter's eponymous discourse, and it earns the title directly: five "
+        "warriors, graded by how far into battle each one holds firm, mapped onto five monks, "
+        "graded by how far into an escalating encounter with a woman each one holds firm. "
+        "Stated plainly: this maps a soldier's resilience onto a monk's resistance to a "
+        "specific kind of encounter, addressed to a celibate male monastic audience anxious "
+        "about exactly that encounter &mdash; not a universal claim about women or about "
+        "desire in general. The fifth monk, who holds firm throughout, goes on to complete "
+        "liberation by the collection's standard formula."),
+    guide=[
+        ("The five warriors, restated", [
+            "Literal warriors first: one falters merely at the sight of a dust cloud; one "
+            "prevails there but falters at a banner's crest; one prevails past both but "
+            "falters at the noise of turmoil; one prevails past all three but is killed or "
+            "wounded when blows are actually struck; one prevails through the whole battle and "
+            "wins outright, standing as foremost in the field."]),
+        ("Five thresholds, mapped onto five monks", [
+            "The first monk disrobes on merely hearing that an attractive woman lives in some "
+            "village &mdash; his &lsquo;dust cloud&rsquo;. The second withstands hearsay but "
+            "disrobes upon actually seeing her &mdash; his &lsquo;banner's crest&rsquo;. The "
+            "third withstands seeing her but falters when she approaches and smiles, chats, "
+            "laughs, and teases him &mdash; his &lsquo;turmoil&rsquo;. The fourth withstands "
+            "all of that, but when she sits close, lies down near him, or embraces him, he has "
+            "sex without even formally disrobing first &mdash; his &lsquo;blows struck&rsquo;. "
+            "The fifth withstands that same physical approach, disentangles himself, and walks "
+            "away &mdash; his &lsquo;victory&rsquo;."]),
+        ("Naming the frame plainly", [
+            "This reading guide states directly what the discourse is doing and for whom: it "
+            "is addressed to celibate male monastics, treats a woman's approach as the "
+            "advancing force to be resisted, and gives the woman herself no voice or interior "
+            "life of her own &mdash; she exists in the account only as an occasion for the "
+            "monk's own struggle. This is reported as what the text says and who it is "
+            "addressed to, not endorsed as a description of women or of desire generally."]),
+        ("What survives independently", [
+            "One observation here is genuinely transferable beyond its specific historical "
+            "framing: resilience against temptation is not a single yes-or-no trait. A person "
+            "can hold firm against a distant, abstract version of a difficulty and still "
+            "falter against a closer, more immediate one &mdash; failure and success can each "
+            "occur at different thresholds within the same person, tested one at a time."]),
+        ("The fifth monk's victory, unpacked", [
+            "The discourse doesn't leave &lsquo;victory&rsquo; unexplained: the fifth monk "
+            "withdraws to a secluded lodging, sits cross-legged, gives up the five hindrances, "
+            "passes through the four absorptions, and applies the four noble truths to both "
+            "suffering and defilement, arriving at the ending of defilements "
+            "(<em>āsavakkhaya</em>) and the standard declaration that rebirth is ended. This "
+            "full formula recurs at many points across this nipāta and is not re-explained "
+            "here in full."]),
+        ("A companion to come", [
+            "AN 5.76 immediately follows with the same five-stage structure, but reframes it "
+            "entirely: not escalating thresholds of temptation, but a single already-arisen "
+            "crisis, tracked through five different outcomes depending on how the community "
+            "responds."]),
+    ],
+    terms=[
+        ("rajagga",
+         "&ldquo;cloud of dust&rdquo; &mdash; the first, faintest threshold in the warrior "
+         "simile, mapped onto mere rumor."),
+        ("sikkhādubbalya",
+         "&ldquo;declaring inability to continue training&rdquo; &mdash; the formal act of "
+         "disrobing, named at each threshold where a monk falters."),
+        ("nīvaraṇa",
+         "the five hindrances, given up by the fifth monk before entering the four absorptions."),
+        ("āsavakkhaya",
+         "&ldquo;ending of defilements&rdquo; &mdash; the outcome of the fifth monk's full "
+         "realization, closing the discourse."),
+        ("saṅgāmasīsa",
+         "&ldquo;foremost in battle&rdquo; &mdash; the victor's standing after the fight, "
+         "mapped onto the fifth monk's liberation."),
+    ],
+    text_intro=(
+        "The discourse in full: five literal warriors, then five monks mapped onto them stage "
+        "by stage, closing with the fifth monk's full path to liberation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five warriors"),
+        ("p", "&sect;1", "an5.75:1.1-1.5"),
+        ("p", "&sect;2", "an5.75:2.1-2.4"),
+        ("p", "&sect;3", "an5.75:3.1-3.4"),
+        ("p", "&sect;4", "an5.75:4.1-4.4"),
+        ("p", "&sect;5", "an5.75:5.1-5.5"),
+        ("h3", "Five monks, mapped"),
+        ("p", "&sect;6", "an5.75:6.1-6.2"),
+        ("h3", "The first: falters at rumor"),
+        ("p", "&sect;7", "an5.75:6.3-6.10"),
+        ("p", "&sect;8", "an5.75:7.1-7.4"),
+        ("h3", "The second: falters at the sight of her"),
+        ("p", "&sect;9", "an5.75:8.1-8.10"),
+        ("p", "&sect;10", "an5.75:9.1-9.5"),
+        ("h3", "The third: falters when she approaches"),
+        ("p", "&sect;11", "an5.75:10.1-10.8"),
+        ("p", "&sect;12", "an5.75:11.1-11.5"),
+        ("h3", "The fourth: overcome at her touch"),
+        ("p", "&sect;13", "an5.75:12.1-12.6"),
+        ("p", "&sect;14", "an5.75:13.1-13.4"),
+        ("h3", "The fifth: victory"),
+        ("p", "&sect;15", "an5.75:14.1-14.5"),
+        ("h3", "What victory looks like"),
+        ("p", "&sect;16", "an5.75:15.1-15.9"),
+        ("h3", "The realization"),
+        ("p", "&sect;17", "an5.75:16.1-16.7"),
+        ("p", "&sect;18", "an5.75:17.1-17.5"),
+    ],
+    quiz=[
+        {"q": "What five thresholds do the literal warriors falter at, from faintest to most severe?",
+         "opts": [
+             "Dust cloud, banner's crest, turmoil, being struck, or none (victory)",
+             "Rain, wind, fire, flood, earthquake",
+             "Morning, noon, evening, night, dawn",
+             "Hunger, thirst, fatigue, cold, heat"],
+         "correct": 0,
+         "expl": "The five graded battlefield thresholds this discourse maps onto five monks."},
+        {"q": "What is the monk's equivalent of 'faltering at the mere sight of a cloud of dust'?",
+         "opts": [
+             "Disrobing after actually meeting a woman",
+             "Disrobing on merely hearing a rumor of an attractive woman",
+             "Disrobing due to illness",
+             "Disrobing after years of practice"],
+         "correct": 1,
+         "expl": "The faintest, most distant threshold — hearsay alone."},
+        {"q": "What is the monk's equivalent of 'faltering at the banner's crest'?",
+         "opts": [
+             "Disrobing upon actually seeing her",
+             "Disrobing on hearsay alone",
+             "Disrobing after she speaks to him",
+             "Disrobing after physical contact"],
+         "correct": 0,
+         "expl": "The second threshold — direct sight, one step closer than rumor."},
+        {"q": "What is the monk's equivalent of 'faltering at turmoil'?",
+         "opts": [
+             "Disrobing when she smiles, chats, laughs, and teases him",
+             "Disrobing on hearsay alone",
+             "Disrobing after physical contact",
+             "Disrobing due to a Saṅgha dispute"],
+         "correct": 0,
+         "expl": "The third threshold — active approach and address, not just sight."},
+        {"q": "What happens to the fourth type of monk, distinct from the first three?",
+         "opts": [
+             "He successfully withstands the encounter",
+             "He has sex without formally disrobing first, when she sits close or embraces him",
+             "He reports the incident to the Saṅgha",
+             "He leaves the monastic life quietly beforehand"],
+         "correct": 1,
+         "expl": "The fourth threshold — physical proximity — where this monk is 'struck down'."},
+        {"q": "What does the fifth, victorious monk do differently at that same physical threshold?",
+         "opts": [
+             "He also has sex, but formally disrobes first",
+             "He disentangles himself and leaves",
+             "He calls for help from other monks",
+             "He argues with her"],
+         "correct": 1,
+         "expl": "The one who holds firm through every threshold, including this final one."},
+        {"q": "Who is the addressed audience of this discourse's central image, according to the reading guide?",
+         "opts": [
+             "All Buddhist lay followers, regardless of gender",
+             "Celibate male monastics specifically, not a universal claim about women",
+             "Married householders",
+             "Kings and their ministers"],
+         "correct": 1,
+         "expl": "Named explicitly in the guide, rather than left as an unstated assumption."},
+        {"q": "What formula follows the fifth monk's 'victory'?",
+         "opts": [
+             "A description of a monastic feast",
+             "The standard hindrances, four absorptions, and four-noble-truths/āsavakkhaya realization sequence",
+             "A genealogy of past Buddhas",
+             "A set of monastic rules on robes"],
+         "correct": 1,
+         "expl": "The collection's standard full-liberation formula, applied here to this discourse's fifth case."},
+        {"q": "What insight about resilience does the guide say survives independently of this discourse's specific historical framing?",
+         "opts": [
+             "That resistance can hold at an early threshold yet still fail at a later, closer one",
+             "That resistance is either entirely present or entirely absent",
+             "That only monks who live in cities can resist temptation",
+             "That resistance improves automatically with age"],
+         "correct": 0,
+         "expl": "A transferable psychological point independent of the discourse's specific scenario."},
+        {"q": "What does the companion discourse AN 5.76 change about this same five-stage structure?",
+         "opts": [
+             "Nothing; it repeats this discourse verbatim",
+             "It reframes it around an actual crisis and the community's counseling response, not escalating thresholds",
+             "It removes the fifth, victorious case entirely",
+             "It applies the structure to nuns instead of monks"],
+         "correct": 1,
+         "expl": "A single already-arisen crisis, tracked through five outcomes, rather than five graded thresholds."},
+    ],
+    marginalia=[
+        ("Five thresholds, one collapse", [
+            "dust &middot; banner",
+            "turmoil &middot; blow",
+            "&middot; victory",
+        ]),
+        ("Who this addresses", [
+            "a celibate male",
+            "monastic audience —",
+            "reported, not endorsed",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">saṅgāmasīsa</span>",
+            "&mdash; foremost",
+            "in battle, victorious",
+        ]),
+        ("Cross-references", [
+            "AN 5.76 &middot; the companion discourse, a crisis instead of thresholds",
+            "AN 5.55 &middot; earlier sensitive material, same handling",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.75/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.76.html">AN 5.76 &middot; Warriors (2nd)</a> &mdash; this '
+        "discourse&rsquo;s twin, a crisis tracked through five outcomes instead of five "
+        "thresholds.",
+        '<a href="an-5.55.html">AN 5.55 &middot; Mother and Son</a> &mdash; an earlier '
+        "discourse in this nipāta handled with the same plain, non-endorsing approach.",
+        '<a href="an-5.73.html">AN 5.73 &middot; One Who Lives by the Teaching (1st)</a> '
+        "&mdash; where the exhortation to practice absorption, unpacked here in full, was "
+        "first given.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.76 — Dutiyayodhājīvasutta
+# --------------------------------------------------------------------------- #
+page(
+    76, "Dutiyayodhājīva", "Warriors (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.76 — Warriors (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyayodhājīvasutta, AN 5.75's companion — an already-arisen crisis of desire "
+        "tracked through five outcomes shaped by the community's response, including the "
+        "classic ten similes for the drawbacks of sensual pleasure. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an extended narrative simile — five wounded-warrior outcomes mapped onto five "
+                 "outcomes of a monk's crisis of desire, including a counseling scene"),
+        ("Length", "~8 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the same considerations as "
+                       "AN 5.75 apply; handled here plainly, without endorsement"),
+    ],
+    why=(
+        "AN 5.75's companion tracks a single already-arisen crisis rather than graded "
+        "thresholds: five wounded-warrior outcomes &mdash; killed outright, dying before "
+        "reaching help, dying despite care, recovering under care, or emerging undamaged and "
+        "victorious &mdash; mapped onto five monks who each encounter the same triggering "
+        "sight and are followed to five different endings, shaped by whether and how their "
+        "community intervenes. Along the way it introduces the ten classic similes for the "
+        "drawbacks of sensual pleasure."),
+    guide=[
+        ("Five wounded warriors, restated", [
+            "One warrior enters battle and is killed outright by his foes. One is wounded, "
+            "carried toward his relatives, and dies on the road before reaching them. One "
+            "reaches his relatives and is nursed, but dies of the wound anyway. One reaches "
+            "them, is nursed, and recovers. One enters the same battle undamaged and wins "
+            "outright."]),
+        ("The mapping, stage by stage", [
+            "A monk who enters a village without guarding his senses, sees a scantily-clad "
+            "woman, and has sex immediately &mdash; without even attempting to leave first "
+            "&mdash; is &lsquo;killed outright&rsquo;. One who burns with the same desire and "
+            "resolves to confess it to his fellow monks, but disrobes on the road before "
+            "reaching the monastery, &lsquo;dies before reaching help&rsquo;. One who reaches "
+            "the monastery, receives counsel from his companions, but disrobes anyway "
+            "&lsquo;dies despite care&rsquo;. One who receives the identical counsel and does "
+            "not disrobe &lsquo;recovers&rsquo;. One who practices full sense-restraint from "
+            "the very start of his almsround, before any crisis arises at all, is the one who "
+            "&lsquo;wins outright&rsquo; and goes on to full liberation."]),
+        ("Naming the frame plainly, again", [
+            "As at AN 5.75, this reading guide states directly what the account does: it is "
+            "addressed to a male monastic audience anxious about desire triggered by an "
+            "unnamed woman's appearance, and she is never given a voice or any agency of her "
+            "own in the account &mdash; only the monk's struggle is narrated. This is reported "
+            "as the text's own framing, not endorsed by this guide as a description of women."]),
+        ("The ten similes for sensual pleasure's drawbacks", [
+            "The concerned fellow monks' counsel invokes ten stock images, among the most "
+            "famous catalogs in the early canon: a skeleton, a scrap of meat, a grass torch, a "
+            "pit of glowing coals, a dream, borrowed goods, fruit on a tree, a butcher's block, "
+            "swords and spears, and a snake's head. Each image makes the same point in a "
+            "different way &mdash; that sensual pleasure's apparent reward is disproportionate "
+            "to, or actively conceals, the real danger it carries."]),
+        ("The Saṅgha's role", [
+            "Unlike AN 5.75, which treats each threshold as a private trial, this discourse "
+            "foregrounds the community's collective responsibility: three of the five outcomes "
+            "turn specifically on whether a struggling monk reaches his companions and what "
+            "they say to him, not on his solitary willpower alone."]),
+        ("The same realization, restated", [
+            "The fifth monk's story closes with the identical formula as AN 5.75: full "
+            "sense-restraint described first, then the five hindrances given up, the four "
+            "absorptions, and the four-noble-truths realization ending in "
+            "<em>āsavakkhaya</em>. Read together, the two discourses offer two different "
+            "diagnostic frames &mdash; thresholds of temptation, and outcomes of an "
+            "already-arisen crisis &mdash; converging on the same final formula."]),
+    ],
+    terms=[
+        ("indriyasaṁvara",
+         "&ldquo;restraint of the sense faculties&rdquo; &mdash; practiced by the fifth monk "
+         "from the very outset, distinguishing him from the other four."),
+        ("sabrahmacārī",
+         "&ldquo;spiritual companions&rdquo;, fellow monks &mdash; who counsel the struggling "
+         "monk in the third and fourth cases."),
+        ("kāmānaṁ ādīnava",
+         "&ldquo;the drawbacks of sensual pleasures&rdquo; &mdash; the heading under which the "
+         "ten similes are spoken."),
+        ("aṭṭhikaṅkalūpama",
+         "&ldquo;the simile of a skeleton&rdquo; &mdash; the first of the ten images."),
+        ("rāga",
+         "&ldquo;lust, desire&rdquo; &mdash; named as what &lsquo;infects the mind&rsquo; "
+         "(<em>cittaṁ anuddhaṁseti</em>) at the trigger of each of the first four cases."),
+    ],
+    text_intro=(
+        "The discourse in full: five wounded warriors, then five monks tracked through the "
+        "same crisis to five different outcomes, including the ten similes for the drawbacks "
+        "of sensual pleasure. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five wounded warriors"),
+        ("p", "&sect;1", "an5.76:1.1-1.7"),
+        ("p", "&sect;2", "an5.76:2.1-2.7"),
+        ("p", "&sect;3", "an5.76:3.1-3.8"),
+        ("p", "&sect;4", "an5.76:4.1-4.8"),
+        ("p", "&sect;5", "an5.76:5.1-5.5"),
+        ("h3", "The first: killed outright"),
+        ("p", "&sect;6", "an5.76:6.1-6.7"),
+        ("p", "&sect;7", "an5.76:7.1-7.2"),
+        ("h3", "The second: dies before reaching help"),
+        ("p", "&sect;8", "an5.76:8.1-8.10"),
+        ("p", "&sect;9", "an5.76:9.1-9.2"),
+        ("h3", "The third: counseled, but dies anyway"),
+        ("p", "&sect;10", "an5.76:10.1-10.12"),
+        ("p", "&sect;11", "an5.76:11.1-11.14"),
+        ("p", "&sect;12", "an5.76:12.1-12.4"),
+        ("p", "&sect;13", "an5.76:13.1-13.2"),
+        ("h3", "The fourth: counseled, and recovers"),
+        ("p", "&sect;14", "an5.76:14.1-14.12"),
+        ("p", "&sect;15", "an5.76:15.1-15.6"),
+        ("p", "&sect;16", "an5.76:16.1-16.3"),
+        ("p", "&sect;17", "an5.76:17.1-17.3"),
+        ("h3", "The fifth: undamaged, victorious"),
+        ("p", "&sect;18", "an5.76:18.1-18.15"),
+        ("p", "&sect;19", "an5.76:19.1-19.3"),
+        ("p", "&sect;20", "an5.76:20.1-20.4"),
+    ],
+    quiz=[
+        {"q": "What happens to the first type of monk described here, before he even considers leaving?",
+         "opts": [
+             "He reports his feelings to fellow monks first",
+             "He has sex immediately, without attempting to leave or disrobe first",
+             "He leaves the village at once",
+             "He asks the woman to leave"],
+         "correct": 1,
+         "expl": "The 'killed outright' case — no intervening step at all."},
+        {"q": "What does the second type of monk resolve to do, but fail to complete?",
+         "opts": [
+             "Resolve to confess to fellow monks, but disrobes before reaching the monastery",
+             "Resolve to meditate, and succeeds",
+             "Resolve to travel abroad",
+             "Resolve to ordain a student"],
+         "correct": 0,
+         "expl": "The 'dies before reaching help' case."},
+        {"q": "What do the third and fourth types of monk have in common?",
+         "opts": [
+             "Both disrobe immediately without counsel",
+             "Both reach the monastery and receive the same counsel from fellow monks",
+             "Both are senior mendicants",
+             "Both refuse to speak to anyone"],
+         "correct": 1,
+         "expl": "The two 'reached help' cases, differing only in the outcome after counsel."},
+        {"q": "What distinguishes the third from the fourth?",
+         "opts": [
+             "The third disrobes anyway; the fourth does not",
+             "The third is younger",
+             "The third lives in a different region",
+             "There is no difference between them"],
+         "correct": 0,
+         "expl": "'Dies despite care' versus 'recovers' — the same counsel, different outcomes."},
+        {"q": "What is the first of the ten similes for the drawbacks of sensual pleasure?",
+         "opts": [
+             "A dream",
+             "A skeleton",
+             "A snake's head",
+             "Borrowed goods"],
+         "correct": 1,
+         "expl": "Aṭṭhikaṅkalūpama, the first of the ten images in the catalog."},
+        {"q": "Which of these is one of the ten similes named in this discourse?",
+         "opts": [
+             "A pit of glowing coals",
+             "A river in flood",
+             "A burning house",
+             "A collapsing bridge"],
+         "correct": 0,
+         "expl": "One of the ten: skeleton, meat scrap, grass torch, coal pit, dream, borrowed goods, tree fruit, butcher's block, swords and spears, snake's head."},
+        {"q": "What does the fifth type of monk do differently from the start, unlike the other four?",
+         "opts": [
+             "He avoids villages entirely for his whole life",
+             "He practices full sense-restraint on almsround from the outset",
+             "He asks a senior monk to accompany him at all times",
+             "He takes an additional vow of silence"],
+         "correct": 1,
+         "expl": "Restraint practiced before any crisis arises, not applied only after the fact."},
+        {"q": "What role does the Saṅgha play in this discourse that is largely absent from AN 5.75?",
+         "opts": [
+             "Formal disciplinary punishment",
+             "Collective counseling of a struggling companion",
+             "Public shaming",
+             "No role at all — the two discourses are identical in this respect"],
+         "correct": 1,
+         "expl": "Three of the five outcomes turn on the community's intervention, not solitary willpower alone."},
+        {"q": "What formula closes the fifth monk's story, matching AN 5.75?",
+         "opts": [
+             "A different, shorter formula",
+             "The hindrances, four absorptions, and four-noble-truths/āsavakkhaya sequence",
+             "A vow of future rebirth as a monk",
+             "A description of a monastic ceremony"],
+         "correct": 1,
+         "expl": "The same standard full-liberation formula as AN 5.75's fifth case."},
+        {"q": "How is the unnamed woman in this account treated, structurally, according to the reading guide?",
+         "opts": [
+             "As a fully developed character with her own stated motivations",
+             "As an occasion for the monk's struggle, given no voice or agency of her own",
+             "As the discourse's main speaker",
+             "As a fellow monastic"],
+         "correct": 1,
+         "expl": "Named plainly in the guide as a limitation of the text's own framing."},
+    ],
+    marginalia=[
+        ("Five wounds, one crisis", [
+            "killed &middot; dies en route",
+            "dies despite care",
+            "recovers &middot; undamaged",
+        ]),
+        ("The ten similes", [
+            "skeleton &middot; meat scrap",
+            "coal pit &middot; dream &middot;",
+            "&hellip; snake's head",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">indriyasaṁvara</span>",
+            "&mdash; sense-faculty",
+            "restraint, from the start",
+        ]),
+        ("Cross-references", [
+            "AN 5.75 &middot; the twin, graded thresholds instead of a single crisis",
+            "AN 5.55 &middot; earlier sensitive material, same handling",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.76/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.75.html">AN 5.75 &middot; Warriors (1st)</a> &mdash; this '
+        "discourse's twin, tracking graded thresholds rather than a single crisis.",
+        '<a href="an-5.77.html">AN 5.77 &middot; Future Perils (1st)</a> &mdash; next: the '
+        "chapter turns from an inner danger to physical dangers of the wilderness.",
+        '<a href="an-5.55.html">AN 5.55 &middot; Mother and Son</a> &mdash; an earlier '
+        "discourse in this nipāta handled with the same plain, non-endorsing approach.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.77 — Paṭhamaanāgatabhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    77, "Paṭhamaanāgatabhaya", "Future Perils (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.77 — Future Perils (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaanāgatabhayasutta — five physical dangers a wilderness-dwelling mendicant "
+        "should reflect on, each turned into motivation for diligent practice now. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "five parallel reflections, each following an identical three-part template"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a straightforward, "
+                       "practical set of reflections"),
+    ],
+    why=(
+        "The chapter turns from an inner danger to outer ones: five physical hazards a "
+        "wilderness-dwelling mendicant might reasonably face &mdash; venomous bites, accident "
+        "or illness, wild animals, criminals, and beings believed to inhabit wild places "
+        "&mdash; each turned, by a single repeated template, into a reason to practice now "
+        "rather than later."),
+    guide=[
+        ("One template, five dangers", [
+            "Each of the five reflections follows an identical three-part shape: naming a "
+            "specific danger, noting that dying from it now would be an obstacle to "
+            "unfinished progress, and resolving to rouse energy for attaining what is not yet "
+            "attained. The template repeats so exactly that the discourse reads almost like a "
+            "checklist for turning mortality-awareness into motivation rather than paralysis."]),
+        ("Snakebite", [
+            "The first danger is being bitten by a snake, scorpion, or centipede &mdash; a "
+            "real and ordinary risk of sleeping and sitting alone in undeveloped wilderness."]),
+        ("Accident or illness", [
+            "The second names stumbling off a cliff, food poisoning, or a disturbance of bile, "
+            "phlegm, or piercing winds &mdash; naming the three humors (<em>pitta</em>, "
+            "<em>semha</em>, <em>vāta</em>) of the ancient Indian medical model that frames "
+            "illness throughout the early canon."]),
+        ("Wild beasts", [
+            "The third names five specific animals &mdash; lion, tiger, leopard, bear, hyena "
+            "&mdash; real hazards of pre-modern South Asian forest life for anyone sleeping "
+            "unprotected in the open."]),
+        ("Criminals, and savage non-humans", [
+            "The fourth names criminal youths, fleeing a crime or on their way to commit one, "
+            "who might take the mendicant's life. The fifth names <em>amanussā</em> &mdash; "
+            "non-human beings the discourse describes as savage and life-threatening, part of "
+            "the traditional cosmology in which spirits and other non-human beings are "
+            "understood to inhabit wild and remote places; this reading guide reports that "
+            "belief as the text's own framing without asserting a claim about it either way."]),
+        ("A companion that broadens the frame", [
+            "AN 5.78 immediately follows with the identical template, but applies it to any "
+            "mendicant rather than wilderness-dwellers specifically, replacing physical "
+            "dangers with five future changes in life circumstance."]),
+    ],
+    terms=[
+        ("āraññika",
+         "&ldquo;wilderness-dweller&rdquo; &mdash; both the practice and the practitioner this "
+         "discourse addresses."),
+        ("antarāya",
+         "&ldquo;obstacle, impediment&rdquo; &mdash; what an untimely death is said to "
+         "represent to unfinished progress."),
+        ("pitta / semha / vāta",
+         "bile, phlegm, and wind &mdash; the three humors of the ancient Indian medical model "
+         "named among the second peril's possible causes of illness."),
+        ("amanussā",
+         "&ldquo;non-human beings&rdquo; &mdash; spirits or other beings the traditional "
+         "cosmology holds to inhabit wild and remote places, named as the fifth peril."),
+        ("appamatta",
+         "&ldquo;diligent, heedful&rdquo; &mdash; the disposition these five reflections are "
+         "meant to produce."),
+    ],
+    text_intro=(
+        "The discourse in full: five physical perils, each turned by an identical template "
+        "into motivation for present practice. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five future perils"),
+        ("p", "&sect;1", "an5.77:1.1"),
+        ("h3", "Snakebite"),
+        ("p", "&sect;2", "an5.77:2.1-2.8"),
+        ("h3", "Accident or illness"),
+        ("p", "&sect;3", "an5.77:3.1-3.7"),
+        ("h3", "Wild beasts"),
+        ("p", "&sect;4", "an5.77:4.1-4.7"),
+        ("h3", "Criminals"),
+        ("p", "&sect;5", "an5.77:5.1-5.7"),
+        ("h3", "Savage non-humans"),
+        ("p", "&sect;6", "an5.77:6.1-6.6"),
+        ("h3", "The close"),
+        ("p", "&sect;7", "an5.77:7.1"),
+    ],
+    quiz=[
+        {"q": "Who specifically is this discourse's set of reflections addressed to?",
+         "opts": [
+             "Any mendicant, anywhere",
+             "A wilderness-dwelling mendicant",
+             "Lay followers only",
+             "Senior mendicants exclusively"],
+         "correct": 1,
+         "expl": "Āraññika bhikkhu, named at the very opening."},
+        {"q": "What is the first peril named?",
+         "opts": [
+             "Fire",
+             "Snake, scorpion, or centipede bite",
+             "Drowning",
+             "Starvation"],
+         "correct": 1,
+         "expl": "The first of the five physical dangers."},
+        {"q": "What three bodily humors are named among the potential causes of illness in the second peril?",
+         "opts": [
+             "Blood, sweat, and tears",
+             "Bile, phlegm, and wind",
+             "Heat, cold, and moisture",
+             "Earth, water, and fire"],
+         "correct": 1,
+         "expl": "Pitta, semha, vāta — the ancient Indian medical model's three humors."},
+        {"q": "Which five wild animals are named in the third peril?",
+         "opts": [
+             "Elephant, buffalo, boar, wolf, jackal",
+             "Lion, tiger, leopard, bear, hyena",
+             "Snake, scorpion, spider, centipede, wasp",
+             "Crocodile, shark, eel, ray, octopus"],
+         "correct": 1,
+         "expl": "The five predators named in the third peril."},
+        {"q": "Who is described as the fourth peril?",
+         "opts": [
+             "Tax collectors",
+             "Criminal youths, fleeing a crime or on their way to commit one",
+             "Rival ascetics",
+             "Foreign soldiers"],
+         "correct": 1,
+         "expl": "A human, rather than animal, danger."},
+        {"q": "What does the Pali term 'amanussā' refer to in the fifth peril?",
+         "opts": [
+             "Foreign travelers",
+             "Non-human beings or spirits believed to inhabit the wilderness",
+             "Escaped livestock",
+             "Rival monastic orders"],
+         "correct": 1,
+         "expl": "Part of the traditional cosmology framing wild places as inhabited by non-human beings."},
+        {"q": "What three-part structure does each of the five reflections share?",
+         "opts": [
+             "Naming the danger, noting death from it would be an obstacle, resolving to rouse energy now",
+             "A story, a moral, and a blessing",
+             "A question, an answer, and a verse",
+             "A greeting, a teaching, and a farewell"],
+         "correct": 0,
+         "expl": "The identical template repeated across all five perils."},
+        {"q": "What is the stated purpose of contemplating these five perils?",
+         "opts": [
+             "To induce fear and withdrawal from practice",
+             "To spur diligent, keen, resolute meditation toward what is unattained",
+             "To justify leaving the wilderness permanently",
+             "To determine who should be ordained"],
+         "correct": 1,
+         "expl": "Motivation, not paralysis, is the discourse's explicit aim."},
+        {"q": "Is this discourse about dangers that have already occurred, or ones that might occur?",
+         "opts": [
+             "Dangers already suffered by the speaker",
+             "Dangers that might occur, used as present motivation",
+             "Dangers from a past life",
+             "Purely hypothetical dangers with no bearing on practice"],
+         "correct": 1,
+         "expl": "Future, possible dangers reflected on now."},
+        {"q": "How does the companion discourse AN 5.78 broaden this same reflection template?",
+         "opts": [
+             "It removes the template entirely",
+             "It applies the template to any mendicant, replacing physical dangers with future life-changes",
+             "It restricts the template to forest-dwellers only",
+             "It adds a sixth peril"],
+         "correct": 1,
+         "expl": "Old age, sickness, famine, unrest, and Saṅgha schism replace the physical dangers."},
+    ],
+    marginalia=[
+        ("One template, five dangers", [
+            "name it &middot; note the",
+            "obstacle &middot; rouse",
+            "energy now",
+        ]),
+        ("The three humors", [
+            "<span class=\"pali\">pitta &middot; semha</span>",
+            "<span class=\"pali\">vāta</span>",
+            "&mdash; ancient Indian medicine",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">amanussā</span>",
+            "&mdash; non-human",
+            "beings of the wild",
+        ]),
+        ("Cross-references", [
+            "AN 5.78 &middot; the twin, broadens the template",
+            "AN 5.54 &middot; related material on times good and bad for practice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.77/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.78.html">AN 5.78 &middot; Future Perils (2nd)</a> &mdash; this '
+        "discourse&rsquo;s twin, broadening the same template to any mendicant.",
+        '<a href="an-5.54.html">AN 5.54 &middot; Untimely</a> &mdash; earlier, related '
+        "material on times good and bad for meditation practice.",
+        '<a href="an-5.76.html">AN 5.76 &middot; Warriors (2nd)</a> &mdash; the previous '
+        "discourse, on an inner rather than an outer danger.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.78 — Dutiyaanāgatabhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    78, "Dutiyaanāgatabhaya", "Future Perils (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.78 — Future Perils (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaanāgatabhayasutta, AN 5.77's twin — the same reflection template applied to any "
+        "mendicant, turned toward old age, sickness, famine, unrest, and Saṅgha schism. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same five-part reflection template as AN 5.77, applied to any mendicant "
+                 "and turned toward future changes in circumstance rather than physical danger"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a straightforward, "
+                       "practical set of reflections"),
+    ],
+    why=(
+        "AN 5.77's template, generalized: instead of wilderness-specific physical dangers, "
+        "any mendicant is invited to reflect on five future changes &mdash; old age, sickness, "
+        "famine, civil unrest, and schism in the Saṅgha &mdash; each used as a spur to "
+        "practice now, before circumstance makes practice harder."),
+    guide=[
+        ("The same template, generalized", [
+            "As at AN 5.77, each reflection repeats an identical shape, but the addressee "
+            "widens from wilderness-dwellers specifically to any mendicant, and the content "
+            "shifts from external threats to predictable changes in one's own life and "
+            "community."]),
+        ("Old age and sickness", [
+            "The first two perils are the ordinary bodily changes every practitioner can "
+            "expect: old age, and sickness. Both follow the identical warning &mdash; that "
+            "focusing on the Buddha's instructions, and frequenting remote wilderness "
+            "lodgings, become harder once either has taken hold."]),
+        ("Famine and civil unrest", [
+            "The third and fourth perils &mdash; famine and civil unrest &mdash; share a "
+            "single consequence: people move toward safety or sustenance and end up living "
+            "crowded and cramped together (<em>saṅgaṇikavihāra</em>), which itself becomes an "
+            "obstacle to focused practice. This material closely parallels AN 5.54, which "
+            "named famine and unrest among its own list of times unfavorable for meditation."]),
+        ("Schism in the Saṅgha", [
+            "The fifth and gravest peril is schism within the monastic community itself "
+            "&mdash; named last, as the deepest disruption to the shared conditions that "
+            "otherwise support practice."]),
+        ("Motivation, not fear", [
+            "As at AN 5.77, each reflection closes not with resignation but with a resolve to "
+            "preempt the coming difficulty by practicing now, specifically so that when old "
+            "age, sickness, famine, unrest, or schism eventually arrives, one can live "
+            "comfortably even so."]),
+        ("A third companion to come", [
+            "AN 5.79 shifts register entirely, from personal and circumstantial change to "
+            "institutional and doctrinal decline &mdash; the corruption of teaching and "
+            "training themselves, rather than external or bodily hardship."]),
+    ],
+    terms=[
+        ("jarā",
+         "&ldquo;old age&rdquo; &mdash; the first of the five future perils here."),
+        ("byādhi",
+         "&ldquo;sickness, disease&rdquo; &mdash; the second."),
+        ("dubbhikkha",
+         "&ldquo;famine, scarcity&rdquo; &mdash; the third."),
+        ("saṅgaṇikavihāra",
+         "&ldquo;crowded, cramped communal living&rdquo; &mdash; the shared consequence named "
+         "for both the famine and civil-unrest perils."),
+        ("saṅghabheda",
+         "&ldquo;schism in the Saṅgha&rdquo; &mdash; the fifth and gravest peril named here."),
+    ],
+    text_intro=(
+        "The discourse in full: the same reflection template as AN 5.77, applied to any "
+        "mendicant and turned toward five future changes in circumstance. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five future perils, generalized"),
+        ("p", "&sect;1", "an5.78:1.1-1.2"),
+        ("h3", "Old age"),
+        ("p", "&sect;2", "an5.78:1.3-1.9"),
+        ("h3", "Sickness"),
+        ("p", "&sect;3", "an5.78:2.1-2.7"),
+        ("h3", "Famine"),
+        ("p", "&sect;4", "an5.78:3.1-3.9"),
+        ("h3", "Civil unrest"),
+        ("p", "&sect;5", "an5.78:4.1-4.9"),
+        ("h3", "Schism in the Saṅgha"),
+        ("p", "&sect;6", "an5.78:5.1-5.7"),
+        ("h3", "The close"),
+        ("p", "&sect;7", "an5.78:6.1"),
+    ],
+    quiz=[
+        {"q": "Unlike AN 5.77, who is this discourse's reflection template addressed to?",
+         "opts": [
+             "Only forest-dwelling mendicants",
+             "Any mendicant, not specifically wilderness-dwellers",
+             "Only senior mendicants",
+             "Only newly ordained mendicants"],
+         "correct": 1,
+         "expl": "The generalized audience, distinguishing this discourse from AN 5.77."},
+        {"q": "What is the first of the five future perils named here?",
+         "opts": [
+             "Old age",
+             "Famine",
+             "Schism",
+             "Wild animals"],
+         "correct": 0,
+         "expl": "Jarā — old age, the first peril."},
+        {"q": "What consequence do both the famine and civil-unrest perils share?",
+         "opts": [
+             "Both lead directly to death",
+             "Both lead people to move and end up living crowded and cramped together",
+             "Both are said to never actually occur",
+             "Both are blamed on individual mendicants"],
+         "correct": 1,
+         "expl": "Saṅgaṇikavihāra — crowded communal living, the shared consequence."},
+        {"q": "What is named as the gravest, final peril?",
+         "opts": [
+             "Old age",
+             "Sickness",
+             "Schism in the Saṅgha",
+             "Famine"],
+         "correct": 2,
+         "expl": "Saṅghabheda, placed last among the five."},
+        {"q": "What common warning closes each of the five reflections?",
+         "opts": [
+             "That the mendicant will be reborn poorly",
+             "That focusing on the Buddha's instructions and frequenting remote lodgings become harder",
+             "That lay supporters will withdraw support",
+             "That ordination will become impossible"],
+         "correct": 1,
+         "expl": "The shared consequence-warning repeated across all five perils."},
+        {"q": "What does the reflector resolve to do about each of these five perils?",
+         "opts": [
+             "Avoid thinking about them",
+             "Preempt them now by rousing energy toward what is unattained",
+             "Wait until the difficulty actually arrives",
+             "Request reassignment to another monastery"],
+         "correct": 1,
+         "expl": "Motivation for present practice, not resignation."},
+        {"q": "What earlier discourse in this nipāta shares this discourse's famine and unrest material almost exactly?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.54",
+             "AN 5.10",
+             "AN 5.71"],
+         "correct": 1,
+         "expl": "AN 5.54's list of times unfavorable for meditation names famine and unrest as well."},
+        {"q": "Is old age presented here mainly as something to fear, or as motivation?",
+         "opts": [
+             "Purely as something to fear",
+             "As motivation to practice now, so as to live comfortably even when old",
+             "As an unavoidable tragedy with no bearing on practice",
+             "As a reason to leave monastic life early"],
+         "correct": 1,
+         "expl": "Consistent with the discourse's overall reflective, motivating purpose."},
+        {"q": "What Pali term names the crowded-living consequence shared by two of the five perils?",
+         "opts": [
+             "Saṅghabheda",
+             "Saṅgaṇikavihāra",
+             "Dubbhikkha",
+             "Byādhi"],
+         "correct": 1,
+         "expl": "The shared consequence of famine and civil unrest."},
+        {"q": "What does the third companion discourse, AN 5.79, shift toward that AN 5.77–78 do not address?",
+         "opts": [
+             "Weather patterns",
+             "Institutional and doctrinal decline, rather than personal or circumstantial danger",
+             "Foreign relations",
+             "Agricultural techniques"],
+         "correct": 1,
+         "expl": "A shift from personal/circumstantial change to the corruption of teaching and training."},
+    ],
+    marginalia=[
+        ("Five perils, now for everyone", [
+            "old age &middot; sickness",
+            "famine &middot; unrest",
+            "&middot; schism",
+        ]),
+        ("Same material as AN 5.54", [
+            "famine and unrest",
+            "as bad times",
+            "for practice",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">saṅghabheda</span>",
+            "&mdash; schism,",
+            "named as gravest",
+        ]),
+        ("Cross-references", [
+            "AN 5.77 &middot; the twin, wilderness-specific dangers",
+            "AN 5.79 &middot; next: institutional decline",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.78/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.77.html">AN 5.77 &middot; Future Perils (1st)</a> &mdash; this '
+        "discourse&rsquo;s twin, on wilderness-specific physical dangers.",
+        '<a href="an-5.54.html">AN 5.54 &middot; Untimely</a> &mdash; the direct cross-'
+        "reference, sharing this discourse's famine and unrest material.",
+        '<a href="an-5.79.html">AN 5.79 &middot; Future Perils (3rd)</a> &mdash; next: '
+        "institutional and doctrinal decline.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.79 — Tatiyaanāgatabhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    79, "Tatiyaanāgatabhaya", "Future Perils (3rd)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.79 — Future Perils (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tatiyaanāgatabhayasutta — five predicted ways the monastic community could corrupt "
+        "itself from within: undeveloped teachers, doctrine misunderstood in passing, poetry "
+        "preferred over the Buddha's own teaching, and lax senior mendicants. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "five predictions of institutional decline, each closing with a two-way "
+                 "corruption refrain"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a serious institutional "
+                       "warning, still relevant to how any tradition transmits its own "
+                       "understanding"),
+    ],
+    why=(
+        "A different register from the previous two Future Perils discourses: instead of "
+        "personal or circumstantial hardship, this discourse predicts five ways the monastic "
+        "community could degrade from within &mdash; underqualified teachers producing "
+        "underqualified students in a self-perpetuating chain, doctrine misunderstood in "
+        "passing, a preference for pleasant poetry over the Buddha's own difficult teaching, "
+        "and senior mendicants setting a bad example of laxity. This reading guide treats the "
+        "content with the seriousness the text itself gives it, as a genuinely significant "
+        "warning about how institutions transmit both understanding and its absence."),
+    guide=[
+        ("The refrain: two-way corruption", [
+            "Each of the five perils closes with the identical formula: <em>dhammasandosā "
+            "vinayasandoso, vinayasandosā dhammasandoso</em> &mdash; corrupt training comes "
+            "from corrupt teachings, and corrupt teachings come from corrupt training. This "
+            "two-way feedback loop is the discourse's real subject: doctrine and discipline "
+            "degrading each other in either direction, not a single point of failure."]),
+        ("A chain of undeveloped teachers", [
+            "The first two perils describe the identical mechanism twice: mendicants who have "
+            "not developed their physical endurance, ethics, mind, or wisdom nonetheless "
+            "ordain others (peril one) or take on students as mentors (peril two), and are "
+            "unable to guide them in the higher ethics, mind, and wisdom. The text repeats the "
+            "formula &lsquo;they too will&rsquo; across three generations, making the "
+            "compounding, self-perpetuating nature of the problem explicit rather than merely "
+            "implied."]),
+        ("Falling into dark teachings unnoticed", [
+            "The third peril names a specific activity &mdash; discussing abhidhamma and "
+            "elaborations (<em>vedalla</em>) &mdash; as a site of risk, not because the "
+            "activity is inherently wrong, but because it is where people can fall into wrong "
+            "views &lsquo;without realizing it&rsquo;. This is the same term, vedalla, that "
+            "appeared at AN 5.73 as one neutral genre among nine; here it recurs in a "
+            "strikingly different, cautionary light."]),
+        ("Preferring poetry to the Buddha's own words", [
+            "The fourth peril predicts that future mendicants will actively want to hear "
+            "elaborate poetic compositions by outsiders or disciples, while having no interest "
+            "in the Buddha's own deep, profound teachings dealing with emptiness "
+            "(<em>suññatā</em>). Stated plainly, this predicts an audience-preference problem "
+            "rather than a doctrinal error as such: people gravitating toward more pleasant, "
+            "more accessible material, letting the harder teaching go unheard. This line is "
+            "among the most frequently cited in later Buddhist commentary on the risks of "
+            "textual transmission."]),
+        ("Senior mendicants setting a bad example", [
+            "The fifth peril names senior mendicants themselves as the failure point: becoming "
+            "indulgent, slack, leaders in backsliding, neglecting seclusion. The text names "
+            "explicitly what follows &mdash; those who come after copy the example set before "
+            "them (<em>diṭṭhānugati</em>), the same compounding, generational logic used "
+            "throughout this discourse."]),
+        ("Read as prediction, not settled fact", [
+            "This discourse is phrased throughout in the future tense, as prediction and "
+            "warning rather than a claim about anything that has definitely already occurred. "
+            "This reading guide does not editorialize about whether or how far the tradition "
+            "considers this prediction to have come true; it reports what the discourse "
+            "warns against, with the weight the text itself gives it."]),
+    ],
+    terms=[
+        ("dhammasandosā vinayasandoso",
+         "&ldquo;corrupt training from corrupt teachings&rdquo; &mdash; the two-way refrain "
+         "closing all five perils in this discourse."),
+        ("abhidhammakathā / vedallakathā",
+         "discussion of abhidhamma and elaborations &mdash; the site of risk named in the "
+         "third peril, not condemned in itself."),
+        ("suññatā",
+         "&ldquo;emptiness&rdquo; &mdash; the character of the Buddha's own &lsquo;deep, "
+         "profound&rsquo; discourses, contrasted with poetic composition in the fourth peril."),
+        ("kāveyya",
+         "&ldquo;poetic composition&rdquo; &mdash; the preferred, more pleasant alternative "
+         "feared in the fourth peril."),
+        ("diṭṭhānugati",
+         "&ldquo;following the example set by those who came before&rdquo; &mdash; the "
+         "generational mechanism named explicitly in the fifth peril."),
+    ],
+    text_intro=(
+        "The discourse in full: five predicted ways the monastic community could corrupt "
+        "itself from within, each closing with the two-way corruption refrain. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The warning"),
+        ("p", "&sect;1", "an5.79:1.1-1.3"),
+        ("h3", "A chain of undeveloped teachers"),
+        ("p", "&sect;2", "an5.79:2.1-2.11"),
+        ("p", "&sect;3", "an5.79:3.1-3.10"),
+        ("h3", "Falling into dark teachings unnoticed"),
+        ("p", "&sect;4", "an5.79:4.1-4.5"),
+        ("h3", "Preferring poetry to the Buddha's own words"),
+        ("p", "&sect;5", "an5.79:5.1-5.6"),
+        ("h3", "Senior mendicants setting a bad example"),
+        ("p", "&sect;6", "an5.79:6.1-6.7"),
+        ("h3", "The close"),
+        ("p", "&sect;7", "an5.79:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "What two-way refrain closes each of the five perils in this discourse?",
+         "opts": [
+             "A blessing for the Saṅgha's continued health",
+             "Corrupt training comes from corrupt teachings, and corrupt teachings come from corrupt training",
+             "A warning against eating after noon",
+             "A prediction of the Buddha's return"],
+         "correct": 1,
+         "expl": "Dhammasandosā vinayasandoso; vinayasandosā dhammasandoso — the discourse's real subject."},
+        {"q": "What do the first two perils describe?",
+         "opts": [
+             "Foreign invasion",
+             "Undeveloped teachers ordaining or mentoring others equally undeveloped, compounding across generations",
+             "A famine affecting the whole region",
+             "A dispute over robe material"],
+         "correct": 1,
+         "expl": "The self-perpetuating chain of underqualified teaching."},
+        {"q": "What activity is named as the site of the third peril?",
+         "opts": [
+             "Farming",
+             "Discussing abhidhamma and elaborations (vedalla)",
+             "Walking for alms",
+             "Building monasteries"],
+         "correct": 1,
+         "expl": "Not condemned in itself, but named as a place risk can arise unnoticed."},
+        {"q": "Does the text say that discussing abhidhamma is itself wrong?",
+         "opts": [
+             "Yes, it forbids the activity outright",
+             "No — it says people can fall into wrong views there without realizing it",
+             "The text does not mention abhidhamma at all",
+             "It praises the activity without qualification"],
+         "correct": 1,
+         "expl": "A risk located in an activity, not a condemnation of the activity itself."},
+        {"q": "What kind of discourses will future mendicants prefer to listen to, per the fourth peril?",
+         "opts": [
+             "The Buddha's own deep teachings on emptiness",
+             "Poetic compositions by outsiders or disciples",
+             "Historical chronicles",
+             "Debates between rival schools"],
+         "correct": 1,
+         "expl": "The predicted, more pleasant, more accessible alternative."},
+        {"q": "What kind of discourses will they neglect, per the same peril?",
+         "opts": [
+             "Stories of past lives",
+             "The Buddha's own deep, profound teachings dealing with emptiness",
+             "Rules of monastic conduct",
+             "Verses of praise"],
+         "correct": 1,
+         "expl": "Suññatā-related teachings, predicted to go unheard in favor of poetry."},
+        {"q": "What does the fifth peril say senior mendicants will become?",
+         "opts": [
+             "More diligent with age",
+             "Indulgent and slack, leaders in backsliding",
+             "Withdrawn from all teaching duties",
+             "Stricter than younger mendicants"],
+         "correct": 1,
+         "expl": "The fifth and final predicted failure point."},
+        {"q": "What Pali term names the pattern of later generations copying earlier ones' example?",
+         "opts": [
+             "Diṭṭhānugati",
+             "Saṅghabheda",
+             "Dubbhikkha",
+             "Asmimāna"],
+         "correct": 0,
+         "expl": "Named explicitly in the fifth peril's description."},
+        {"q": "Where did the term 'vedalla' first appear in this chapter, in a neutral context?",
+         "opts": [
+             "AN 5.71",
+             "AN 5.73, as one of nine genres a mendicant memorizes",
+             "AN 5.77",
+             "It does not appear elsewhere in this chapter"],
+         "correct": 1,
+         "expl": "The same term recurs here in a strikingly different, cautionary light."},
+        {"q": "What tense does this discourse use throughout — has this decline already happened, or is it predicted?",
+         "opts": [
+             "Past tense, describing events already completed",
+             "Predicted, future tense throughout",
+             "Present tense, describing current events",
+             "The discourse does not specify a timeframe"],
+         "correct": 1,
+         "expl": "Framed explicitly as warning and prediction, not settled fact."},
+    ],
+    marginalia=[
+        ("The refrain: two-way corruption", [
+            "dhammasandosā",
+            "vinayasandoso &mdash;",
+            "each feeds the other",
+        ]),
+        ("Poetry over emptiness", [
+            "the most-quoted line",
+            "in later commentary",
+            "on textual risk",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">diṭṭhānugati</span>",
+            "&mdash; following",
+            "the example set before",
+        ]),
+        ("Cross-references", [
+            "AN 5.73 &middot; vedalla's earlier, neutral appearance",
+            "AN 5.80 &middot; next: material comfort as a parallel corrupting force",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.79/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.73.html">AN 5.73 &middot; One Who Lives by the Teaching (1st)</a> '
+        "&mdash; where vedalla, recontextualized here, first appeared in a neutral listing.",
+        '<a href="an-5.80.html">AN 5.80 &middot; Future Perils (4th)</a> &mdash; next: '
+        "material comfort and improper association as parallel corrupting forces.",
+        '<a href="an-5.78.html">AN 5.78 &middot; Future Perils (2nd)</a> &mdash; the previous '
+        "discourse, on personal and circumstantial rather than institutional decline.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.80 — Catutthaanāgatabhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    80, "Catutthaanāgatabhaya", "Future Perils (4th)",
+    vagga=VAGGA_8,
+    meta_title="AN 5.80 — Future Perils (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Catutthaanāgatabhayasutta, closing the Warriors chapter — five predicted corrupting "
+        "forces of material comfort and improper association, ending with the chapter's own "
+        "colophon and mnemonic verse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "five predictions of decline through comfort and improper association, closing "
+                 "the chapter's own colophon and uddāna verse"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; concrete, practical "
+                       "monastic-discipline concerns, closing the chapter"),
+    ],
+    why=(
+        "The chapter's closing discourse names five more predicted corrupting forces, "
+        "distinct from AN 5.79's institutional and doctrinal ones: preference for nice robes, "
+        "almsfood, and lodgings, and improper closeness with nuns, trainee nuns, novice nuns, "
+        "monastery attendants, and novices. It ends the chapter with its own colophon and the "
+        "opening line of the summary verse."),
+    guide=[
+        ("Three comforts, one pattern", [
+            "The first three perils share an identical template: a preference for nice robes, "
+            "then nice almsfood, then nice lodgings, each leading to neglect of the "
+            "corresponding austere practice (rag-robes, alms-walking, dwelling at the root of "
+            "a tree), abandonment of remote wilderness lodgings for towns and cities, and "
+            "&lsquo;many kinds of improper solicitation&rsquo; for the item in question."]),
+        ("Mixing closely with nuns, trainee nuns, and novice nuns", [
+            "The fourth peril predicts that mendicants who mix closely with the women's "
+            "monastic orders can be expected to end up dissatisfied with the spiritual life, "
+            "to commit a corrupt offense, or to disrobe. This is a Vinaya-adjacent concern "
+            "about boundary-keeping between the orders, stated plainly here without further "
+            "claims about women generally."]),
+        ("Mixing closely with monastery attendants and novices", [
+            "The fifth peril predicts mendicants who mix closely with lay attendants "
+            "(<em>ārāmika</em>) and novices will store up goods for personal use and make "
+            "&lsquo;obvious hints&rsquo; about digging earth and cutting plants &mdash; a "
+            "specific reference to Vinaya training rules that forbid mendicants themselves "
+            "from damaging living plants or turned soil, worked around here by hinting at "
+            "attendants and novices, who are not bound by the same rule, to do it for them."]),
+        ("What's different from AN 5.79", [
+            "This discourse drops AN 5.79's two-way corruption refrain entirely; the chapter's "
+            "final pair of discourses instead separates two distinct tracks of predicted "
+            "decline &mdash; institutional and doctrinal at AN 5.79, material and relational "
+            "here."]),
+        ("The chapter's close", [
+            "The colophon <em>Dasamaṁ. Yodhājīvavaggo tatiyo</em> &mdash; the tenth discourse, "
+            "closing the third Yodhājīvavagga &mdash; follows the same mechanism explained in "
+            "full at AN 5.10 and not repeated here."]),
+        ("The uddāna's opening line", [
+            "The chapter's mnemonic verse opens by naming its own discourse-pairs: two on "
+            "freedom of heart as fruit (AN 5.71&ndash;72), and two on one who lives by the "
+            "teaching (AN 5.73&ndash;74), continuing on to name the warriors (AN 5.75&ndash;76) "
+            "before the verse's remaining lines are left, as elsewhere in this collection, "
+            "untranslated in the source."]),
+    ],
+    terms=[
+        ("paṁsukūlika",
+         "the rag-robe practice &mdash; neglected in the first peril's preference for nice "
+         "robes."),
+        ("piṇḍapātika",
+         "the alms-walking practice, eating only what is collected on almsround &mdash; "
+         "neglected in the second peril."),
+        ("saṅkiliṭṭha āpatti",
+         "&ldquo;a corrupt, defiled offense&rdquo; against the monastic rules &mdash; a "
+         "predicted consequence of mixing closely with the women's orders."),
+        ("ārāmika",
+         "a monastery attendant, a lay worker not bound by the same rules as ordained "
+         "mendicants."),
+        ("uddāna",
+         "the mnemonic summary verse closing a chapter, first explained in full at AN 5.10."),
+    ],
+    text_intro=(
+        "The discourse in full: five predicted corrupting forces of comfort and association, "
+        "closing the chapter's colophon and the opening line of its mnemonic verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nice robes"),
+        ("p", "&sect;1", "an5.80:2.1-2.7"),
+        ("h3", "Nice almsfood"),
+        ("p", "&sect;2", "an5.80:3.1-3.6"),
+        ("h3", "Nice lodgings"),
+        ("p", "&sect;3", "an5.80:4.1-4.6"),
+        ("h3", "Mixing closely with nuns"),
+        ("p", "&sect;4", "an5.80:5.1-5.4"),
+        ("h3", "Mixing closely with monastery attendants"),
+        ("p", "&sect;5", "an5.80:6.1-6.4"),
+        ("h3", "The close, and the chapter's colophon"),
+        ("p", "&sect;6", "an5.80:7.1-7.5"),
+        ("p", "&sect;7", "an5.80:8.1-8.3"),
+    ],
+    quiz=[
+        {"q": "What three material comforts are named in the first three perils?",
+         "opts": [
+             "Fame, wealth, and rank",
+             "Nice robes, nice almsfood, nice lodgings",
+             "Music, dance, and entertainment",
+             "Gold, silver, and jewels"],
+         "correct": 1,
+         "expl": "Each following an identical neglect-and-solicitation pattern."},
+        {"q": "What is neglected in each of the first three cases?",
+         "opts": [
+             "Formal ordination procedures",
+             "The corresponding austere practice — rag-robes, alms-walking, or tree-root dwelling",
+             "Daily chanting",
+             "The teaching of new students"],
+         "correct": 1,
+         "expl": "Comfort displacing the matching austere practice."},
+        {"q": "What are the three predicted consequences of mixing closely with nuns, trainee nuns, and novice nuns?",
+         "opts": [
+             "Promotion, wealth, and fame",
+             "Dissatisfaction with the spiritual life, a corrupt offense, or disrobing",
+             "Illness, exile, and imprisonment",
+             "None — the text says nothing will happen"],
+         "correct": 1,
+         "expl": "The fourth peril's three predicted outcomes."},
+        {"q": "What is predicted about mendicants who mix closely with monastery attendants and novices?",
+         "opts": [
+             "They will become excellent teachers",
+             "They will hoard goods and hint about digging earth or cutting plants",
+             "They will leave monastic life immediately",
+             "Nothing in particular is predicted"],
+         "correct": 1,
+         "expl": "The fifth peril's predicted consequence."},
+        {"q": "Why is 'hinting' about digging earth or cutting plants specifically a problem?",
+         "opts": [
+             "It wastes time",
+             "It circumvents a Vinaya rule binding mendicants but not attendants or novices",
+             "It is a form of theft",
+             "It violates a robe-related rule"],
+         "correct": 1,
+         "expl": "Using someone not bound by the rule to do what the rule itself forbids."},
+        {"q": "Unlike AN 5.79, what refrain is absent from this discourse's five perils?",
+         "opts": [
+             "The naming of each peril by number",
+             "The two-way 'corrupt training from corrupt teachings' refrain",
+             "The closing exhortation to rouse energy",
+             "There is no difference between the two discourses' refrains"],
+         "correct": 1,
+         "expl": "AN 5.80 separates material/relational decline from AN 5.79's institutional/doctrinal refrain."},
+        {"q": "What does the closing colophon name this discourse as?",
+         "opts": [
+             "The first discourse of a new chapter",
+             "The tenth discourse, closing the third Yodhājīvavagga",
+             "An appendix with no chapter position",
+             "The fifth discourse of the chapter"],
+         "correct": 1,
+         "expl": "Dasamaṁ. Yodhājīvavaggo tatiyo."},
+        {"q": "Where was this same colophon and uddāna mechanism first explained in this project?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.10",
+             "AN 5.61",
+             "It has never been explained before"],
+         "correct": 1,
+         "expl": "Cited here rather than re-explained, per this project's running convention."},
+        {"q": "What two discourse-pairs does the uddāna verse's opening line name?",
+         "opts": [
+             "The two on future perils and the two on warriors",
+             "The two on freedom of heart as fruit, and the two on one who lives by the teaching",
+             "The two on nuns and the two on attendants",
+             "The verse names no specific pairs"],
+         "correct": 1,
+         "expl": "AN 5.71–72 and AN 5.73–74, named by their summary-verse tags."},
+        {"q": "What comes next in the Fives, after this chapter closes?",
+         "opts": [
+             "The nipāta ends here",
+             "Chapter 9, Theravagga ('Senior Mendicants'), AN 5.81–90",
+             "A return to the Nīvaraṇavagga",
+             "The Sixes begin immediately"],
+         "correct": 1,
+         "expl": "The next chapter in sequence."},
+    ],
+    marginalia=[
+        ("Three comforts, one pattern", [
+            "robes &middot; almsfood",
+            "&middot; lodgings —",
+            "same neglect, same solicitation",
+        ]),
+        ("The attendant loophole", [
+            "hinting about digging",
+            "earth or cutting plants",
+            "&mdash; a Vinaya workaround",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">uddāna</span>",
+            "&mdash; the mnemonic",
+            "verse, explained at AN 5.10",
+        ]),
+        ("Cross-references", [
+            "AN 5.79 &middot; twin theme, institutional rather than material decline",
+            "AN 5.71 &middot; back to the chapter's opening",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.80/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.79.html">AN 5.79 &middot; Future Perils (3rd)</a> &mdash; the previous '
+        "discourse, on institutional and doctrinal rather than material decline.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this same '
+        "chapter-closing colophon structure was first explained in full.",
+        '<a href="an-5.71.html">AN 5.71 &middot; Freedom of Heart is the Fruit (1st)</a> '
+        "&mdash; back to this chapter's opening, closing the loop.",
+    ],
+)
