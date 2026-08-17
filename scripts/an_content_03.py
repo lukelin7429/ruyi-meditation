@@ -33522,3 +33522,727 @@ page(
         "discourse, for a reader who wants to see the whole arc from danger to blessing.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.156–3.162 — Acelakavagga (merged page)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-3.156-162",
+    "index_pali": "Acelaka",
+    "nav_title": "Three Practices",
+    "source": "an3/an3.156-162",
+    "crumb": "AN 3.156&ndash;162",
+    "meta_title": "AN 3.156–162 — Three Practices | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Acelakavagga's seven "
+        "discourses on the addicted, scorching, and middle practices — a catalogue of extreme "
+        "asceticism rejected by name, and the middle practice redefined seven times as the "
+        "complete thirty-seven qualities that support awakening. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 3.156&ndash;162",
+    "title": "Three Practices",
+    "subtitle": "<em>Acelakavagga</em> &mdash; the sixteenth chapter of the Threes",
+    "glance": [
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Seven discourses compressed into one page: the first defines three practices in "
+                 "full, the next six redefine the third practice by successive doctrinal lists"),
+        ("Length", "~8 minutes to read"),
+        ("Northern parallel", "The rejection of both self-indulgence and self-mortification in "
+                              "favor of a middle way is foundational across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the ascetic catalogue is vivid "
+                       "and specific; the later discourses require recognizing the thirty-seven "
+                       "qualities that support awakening"),
+    ],
+    "why": (
+        "AN 3.156 defines three practices: the addicted practice, indulging without limit in "
+        "sensual pleasure; the scorching practice, a catalogue of self-mortification so specific it "
+        "names the exact plants eaten and the exact materials worn; and the middle practice, "
+        "defined here as the four kinds of mindfulness meditation. Then something unusual happens. "
+        "AN 3.157 through 3.162 each restate the identical three-practice frame, abbreviate the "
+        "first two practices to a phrase, and redefine the middle practice as a different item from "
+        "the classical list of thirty-seven qualities that support awakening &mdash; the four right "
+        "efforts, the four bases of psychic power, the five faculties, the five powers, the seven "
+        "awakening factors, and the noble eightfold path. Seven ways of naming the middle way, in "
+        "one chapter."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Between the addicted practice and the scorching practice lies the middle practice, and "
+            "this chapter names it seven different ways, each one a genuine and complete answer "
+            "rather than an approximation of the others."]),
+        ("The addicted practice, stated briefly", [
+            "The addicted practice is given the least space of the three: someone holds the view "
+            "that there is nothing wrong with sensual pleasures and throws themselves in without "
+            "restraint. No catalogue follows, because none is needed &mdash; the reader already "
+            "knows what unrestrained sensual indulgence looks like. The discourse's attention is "
+            "reserved for the practice it takes more effort to reject."]),
+        ("The scorching practice, catalogued in exhausting detail", [
+            "Going naked; licking one's hands instead of using them properly; refusing food brought "
+            "or specially prepared; eating only from one to seven houses, one to seven mouthfuls, "
+            "one to seven saucers a day; fasting for up to a fortnight; eating grass, cow dung, and "
+            "fallen fruit; wearing hemp, corpse-cloth, bark, or owls' wings; tearing out hair and "
+            "beard; refusing to sit; squatting permanently; sleeping on thorns; bathing three times "
+            "daily including after dark. The list is long on purpose. This is not a vague gesture "
+            "toward &ldquo;ascetics who go too far&rdquo;; it is the same kind of practice the "
+            "Buddha describes trying and rejecting in his own words in MN 12, told there in the "
+            "first person rather than catalogued in the third."]),
+        ("Why both extremes get the identical closing formula", [
+            "&ldquo;This is called the addicted practice&rdquo; and &ldquo;this is called the "
+            "scorching practice&rdquo; use the same verb, <em>vuccati</em>, is called &mdash; "
+            "neither is condemned in the sentence that defines it. The condemnation is structural: "
+            "both are named and then set aside in favor of a third option that gets the last word "
+            "and the most doctrinal weight in every one of the seven discourses that follow."]),
+        ("Seven definitions of the middle, none reducible to the others", [
+            "AN 3.156 defines the middle practice as the four kinds of mindfulness meditation "
+            "(<em>satipaṭṭhāna</em>): body, feelings, mind, and principles. AN 3.157 redefines it as "
+            "the four right efforts. AN 3.158, the four bases of psychic power. AN 3.159, the five "
+            "spiritual faculties. AN 3.160, the five spiritual powers. AN 3.161, the seven "
+            "awakening factors. AN 3.162, the noble eightfold path. Together these seven lists are "
+            "the traditional thirty-seven qualities that support awakening, "
+            "<em>bodhipakkhiyā dhammā</em>, and this chapter is arguably the most economical place "
+            "in the entire canon where all thirty-seven appear, each one independently offered as a "
+            "complete and sufficient answer to the same question: what is the middle practice?"]),
+        ("Reading the whole set as one argument", [
+            "No single one of the seven definitions is presented as more correct than the others. A "
+            "reader tempted to ask which is the &ldquo;real&rdquo; middle practice is asking a "
+            "question this chapter is built to refuse: the four right efforts and the noble "
+            "eightfold path are not competing summaries where one must be chosen over the rest. "
+            "They are seven cross-sections of a single, larger practice, each complete when taken on "
+            "its own terms."]),
+    ],
+    "terms": [
+        ("āgāḷhā paṭipadā, nijjhāmā paṭipadā, majjhimā paṭipadā",
+         "&ldquo;the addicted practice, the scorching practice, the middle practice&rdquo; &mdash; "
+         "the chapter&rsquo;s organizing triad, restated in all seven discourses."),
+        ("acelaka",
+         "&ldquo;unclothed, naked&rdquo; &mdash; the practice named in the vagga&rsquo;s own title, "
+         "the opening item of the scorching catalogue."),
+        ("bodhipakkhiyā dhammā",
+         "&ldquo;the qualities that support awakening&rdquo; &mdash; the thirty-seven qualities "
+         "traditionally grouped into seven sets, all seven of which appear across this chapter as "
+         "successive definitions of the middle practice."),
+        ("satipaṭṭhāna",
+         "&ldquo;the establishments of mindfulness&rdquo; &mdash; body, feelings, mind, and "
+         "principles, the middle practice&rsquo;s first definition in AN 3.156."),
+        ("sammappadhāna",
+         "&ldquo;the right efforts&rdquo; &mdash; preventing, abandoning, developing, and "
+         "maintaining, the middle practice&rsquo;s second definition in AN 3.157."),
+    ],
+    "text_intro": (
+        "All seven discourses, in order: the full definition of the three practices, and the "
+        "middle practice redefined six more times. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    "text": [
+        ("h3", "Three practices, and the addicted practice"),
+        ("p", "&sect;1", "an3.156:1.1-1.8"),
+        ("h3", "The scorching practice"),
+        ("p", "&sect;2", "an3.156:2.1-4.8"),
+        ("h3", "The middle practice: the four establishments of mindfulness (AN 3.156)"),
+        ("p", "&sect;3", "an3.156:5.1-5.7"),
+        ("h3", "The middle practice: the four right efforts (AN 3.157)"),
+        ("p", "&sect;4", "an3.157:1.1-3.5"),
+        ("h3", "The middle practice: the four bases of psychic power (AN 3.158)"),
+        ("p", "&sect;5", "an3.158:1.1-1.4"),
+        ("h3", "The middle practice: the five faculties (AN 3.159)"),
+        ("p", "&sect;6", "an3.159:1.1-1.5"),
+        ("h3", "The middle practice: the five powers (AN 3.160)"),
+        ("p", "&sect;7", "an3.160:1.1-1.5"),
+        ("h3", "The middle practice: the seven awakening factors (AN 3.161)"),
+        ("p", "&sect;8", "an3.161:1.1-1.7"),
+        ("h3", "The middle practice: the noble eightfold path (AN 3.162)"),
+        ("p", "&sect;9", "an3.162:1.1-1.10"),
+    ],
+    "quiz": [
+        {"q": "What three practices does AN 3.156 define?",
+         "opts": [
+             "Ethics, immersion, and wisdom",
+             "The addicted practice, the scorching practice, and the middle practice",
+             "Giving, doing, and bearing",
+             "Body, speech, and mind"],
+         "correct": 1,
+         "expl": "The organizing triad restated across all seven discourses in this chapter."},
+        {"q": "How much detail does the discourse give the addicted practice, compared to the scorching practice?",
+         "opts": [
+             "Equal detail for both",
+             "Very little &mdash; a single sentence, since unrestrained indulgence needs no catalogue to be recognized",
+             "More detail than the scorching practice",
+             "The addicted practice is not described at all"],
+         "correct": 1,
+         "expl": "The discourse's attention is reserved for the practice that takes more effort to reject."},
+        {"q": "What does the scorching practice's catalogue include?",
+         "opts": [
+             "Only dietary restrictions",
+             "Going naked, extreme fasting, eating grass and cow dung, wearing corpse-cloth, sleeping on thorns, and more",
+             "Only clothing restrictions",
+             "A list of forbidden speech"],
+         "correct": 1,
+         "expl": "An unusually long and specific list, matched in the canon by the Buddha's own autobiographical account in MN 12."},
+        {"q": "Where else in this site's collection does a similar catalogue of extreme austerity appear?",
+         "opts": [
+             "Nowhere else",
+             "MN 12, where the Buddha describes trying and rejecting this kind of practice in his own words",
+             "AN 3.65",
+             "DN 16"],
+         "correct": 1,
+         "expl": "The same kind of practice, told there in the first person rather than catalogued in the third."},
+        {"q": "What verb does the discourse use to close both the addicted and scorching practice definitions?",
+         "opts": [
+             "\"Condemned\"",
+             "\"Vuccati,\" is called &mdash; neutral in the sentence itself; the rejection is structural rather than stated as an insult",
+             "\"Forbidden\"",
+             "\"Praised\""],
+         "correct": 1,
+         "expl": "Both extremes are named and then set aside in favor of the middle practice, which gets the last word each time."},
+        {"q": "How many times is the middle practice redefined across this chapter, and by what?",
+         "opts": [
+             "Once, unchanged throughout",
+             "Seven times: the four establishments of mindfulness, four right efforts, four bases of psychic power, five faculties, five powers, seven awakening factors, and the noble eightfold path",
+             "Twice only",
+             "Three times, matching the three practices"],
+         "correct": 1,
+         "expl": "Together these seven lists make up the traditional thirty-seven qualities that support awakening."},
+        {"q": "What collective name do these seven lists share in the tradition?",
+         "opts": [
+             "The four noble truths",
+             "Bodhipakkhiyā dhammā, the qualities that support awakening",
+             "The ten courses of action",
+             "The five aggregates"],
+         "correct": 1,
+         "expl": "This chapter is arguably the canon's most economical presentation of all thirty-seven at once."},
+        {"q": "Does the chapter present one of the seven definitions of the middle practice as more correct than the others?",
+         "opts": [
+             "Yes, the noble eightfold path is named as superior",
+             "No &mdash; each is offered as a complete and sufficient answer on its own terms, not a competing summary",
+             "Yes, the four establishments of mindfulness is named as most fundamental",
+             "The chapter explicitly ranks all seven"],
+         "correct": 1,
+         "expl": "Seven cross-sections of one larger practice, none reducible to the others."},
+        {"q": "What is the vagga's own title, and what does it refer to?",
+         "opts": [
+             "Kusināravagga, referring to a place",
+             "Acelakavagga, \"unclothed,\" referring to the naked-ascetic practice opening the scorching catalogue",
+             "Yodhājīvavagga, referring to a warrior",
+             "Maṅgalavagga, referring to good fortune"],
+         "correct": 1,
+         "expl": "Named for the first and most visually striking item in the scorching practice's list."},
+        {"q": "How does the guide characterize a reader's temptation to ask which of the seven is the \"real\" middle practice?",
+         "opts": [
+             "A question the chapter explicitly answers",
+             "A question the chapter is built to refuse, since all seven are genuine and complete rather than approximations of one another",
+             "A question only advanced practitioners should ask",
+             "A question the commentary tradition settles definitively"],
+         "correct": 1,
+         "expl": "The four right efforts and the eightfold path are not competing summaries where one must be chosen."},
+    ],
+    "marginalia": [
+        ("The word", [
+            "<span class=\"pali\">āgāḷhā</span>addicted",
+            "<span class=\"pali\">nijjhāmā</span>scorching",
+            "<span class=\"pali\">majjhimā</span>middle",
+        ]),
+        ("Seven definitions", [
+            "mindfulness &middot; efforts &middot; powers",
+            "faculties &middot; bases of power",
+            "awakening factors &middot; the path",
+        ]),
+        ("Thirty-seven, once", [
+            "bodhipakkhiyā dhammā",
+            "spread across seven discourses",
+            "&mdash; the canon's tightest summary",
+        ]),
+        ("Cross-references", [
+            "MN 12 &middot; the Buddha's own account of the same austerities",
+            "AN 3.155 &middot; the vagga just before this chapter",
+            "AN 3.163&ndash;182 &middot; the next chapter, abbreviated further still",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an3.156/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-012.html">MN 12 &middot; The Longer Discourse on the '
+        "Lion's Roar</a> &mdash; the Buddha's own first-person account of trying and rejecting "
+        "this same catalogue of extreme austerity.",
+        '<a href="an-3.90.html">AN 3.90 &middot; Three Trainings (2nd)</a> &mdash; a shorter route '
+        "to the same territory: ethics, immersion, and wisdom as one compact summary of the path.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.163–3.182 — Kammapathapeyyāla (merged page)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-3.163-182",
+    "index_pali": "Kammapatha",
+    "nav_title": "Ways of Performing Deeds",
+    "source": "an3/an3.163-182",
+    "crumb": "AN 3.163&ndash;182",
+    "meta_title": "AN 3.163–182 — Ways of Performing Deeds | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Kammapathapeyyāla — "
+        "twenty compressed discourses running the ten courses of action through doing it "
+        "oneself, encouraging others, and approving, each pair ending in hell or heaven. From "
+        "Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 3.163&ndash;182",
+    "title": "Ways of Performing Deeds",
+    "subtitle": "<em>Kammapathapeyyāla</em> &mdash; the seventeenth chapter of the Threes, an "
+                "abbreviated series",
+    "glance": [
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Twenty near-identical discourses, one pair per course of action, compressed by "
+                 "the peyyāla convention into a single running text"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The ten courses of action are among the most widely preserved "
+                              "ethical taxonomies in the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; mechanically simple once the "
+                       "single template is seen; twenty discourses built from one sentence"),
+    ],
+    "why": (
+        "Ten courses of action, each run through the same three-part test: doing it oneself, "
+        "encouraging someone else to do it, and approving of it when done. Get all three wrong for "
+        "any one course &mdash; killing, stealing, sexual misconduct, lying, divisive speech, harsh "
+        "speech, idle chatter, covetousness, ill will, or wrong view &mdash; and hell follows, "
+        "&ldquo;as if delivered there.&rdquo; Get all three right and heaven follows the same way. "
+        "Twenty discourses, one template, no exceptions."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Doing a bad deed, encouraging someone else to do it, and approving of it when it is "
+            "done are treated as three equally weighted ways of performing that deed, run across "
+            "all ten courses of unwholesome and wholesome action."]),
+        ("The template, stated once and reused twenty times", [
+            "&ldquo;They themselves kill living creatures. They encourage others to kill living "
+            "creatures. And they approve of killing living creatures&rdquo; is the shape every "
+            "single discourse in this chapter shares, with only the specific action changing. This "
+            "is peyyāla at its most concentrated: twenty discourses collapse into one sentence "
+            "template and a list of ten items run twice, once negatively and once positively."]),
+        ("Three modes, not one act", [
+            "The insistence on three modes &mdash; doing, encouraging, approving &mdash; rather "
+            "than one is a specific ethical claim worth drawing out for a class. A person who never "
+            "personally kills but consistently encourages others to, or consistently approves when "
+            "it happens, is placed under the identical formula as the person who kills directly. "
+            "Complicity and approval are not treated as lesser versions of the act; they are named "
+            "as the act, run through a different mode."]),
+        ("The ten courses, in their traditional order", [
+            "Three bodily: killing living creatures, stealing, sexual misconduct. Four verbal: "
+            "lying, divisive speech, harsh speech, idle chatter. Three mental: covetousness, ill "
+            "will, wrong view. This is the canon&rsquo;s standard taxonomy of the ten unwholesome "
+            "courses of action, <em>dasa akusala-kammapathā</em>, and their ten wholesome opposites, "
+            "and it recurs constantly across the Nikāyas as the basic ethical inventory beneath more "
+            "elaborate teachings."]),
+        ("A fuller telling exists, elsewhere on this site", [
+            "MN 41, the discourse with the brahmin householders of Sālā, teaches this identical "
+            "taxonomy of ten courses of action at full length, with the Buddha explaining each "
+            "course and its consequence in ordinary conversational prose rather than the "
+            "abbreviated formula used here. A reader who wants the unabbreviated version, with its "
+            "narrative frame intact, should read MN 41 alongside this chapter rather than in place "
+            "of it &mdash; the two are the same content at two different levels of compression."]),
+        ("Why hell and heaven, and not a subtler consequence", [
+            "This chapter states its consequences at the most stark possible resolution: hell or "
+            "heaven, nothing graded in between. Read alongside AN 3.146&ndash;153, several chapters "
+            "back, which apply a gentler and more socially observable consequence &mdash; blame from "
+            "sensible people, in this very life &mdash; to a similar structure, this chapter&rsquo;s "
+            "starkness reads as one register among several the collection uses for the same "
+            "underlying ethical claims, not the collection&rsquo;s only way of stating them."]),
+    ],
+    "terms": [
+        ("dasa akusala-kammapathā",
+         "&ldquo;the ten courses of unwholesome action&rdquo; &mdash; killing, stealing, sexual "
+         "misconduct, lying, divisive speech, harsh speech, idle chatter, covetousness, ill will, "
+         "and wrong view."),
+        ("attanā ca ... hoti",
+         "&ldquo;they themselves are/do...&rdquo; &mdash; the first of the three modes, personally "
+         "performing the deed."),
+        ("parañca ... samādapeti",
+         "&ldquo;and they encourage others to...&rdquo; &mdash; the second mode, inciting someone "
+         "else to the same deed."),
+        ("... ca samanuñño hoti",
+         "&ldquo;and they approve of...&rdquo; &mdash; the third mode, endorsing the deed without "
+         "necessarily doing or inciting it directly."),
+        ("kammapatha",
+         "&ldquo;course of action&rdquo; &mdash; the technical term for each of the ten items in "
+         "this classification, literally a path a deed travels."),
+    ],
+    "text_intro": (
+        "All twenty discourses, grouped by course of action: the unwholesome version first, the "
+        "wholesome opposite second. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Killing living creatures (AN 3.163&ndash;164)"),
+        ("p", "&sect;1", "an3.163:1.1-1.4"),
+        ("p", "&sect;2", "an3.164:1.1-1.3"),
+        ("h3", "Stealing (AN 3.165&ndash;166)"),
+        ("p", "&sect;3", "an3.165:1.1"),
+        ("p", "&sect;4", "an3.166:1.1"),
+        ("h3", "Sexual misconduct (AN 3.167&ndash;168)"),
+        ("p", "&sect;5", "an3.167:1.1"),
+        ("p", "&sect;6", "an3.168:1.1"),
+        ("h3", "Lying (AN 3.169&ndash;170)"),
+        ("p", "&sect;7", "an3.169:1.1"),
+        ("p", "&sect;8", "an3.170:1.1"),
+        ("h3", "Divisive speech (AN 3.171&ndash;172)"),
+        ("p", "&sect;9", "an3.171:1.1"),
+        ("p", "&sect;10", "an3.172:1.1"),
+        ("h3", "Harsh speech (AN 3.173&ndash;174)"),
+        ("p", "&sect;11", "an3.173:1.1"),
+        ("p", "&sect;12", "an3.174:1.1"),
+        ("h3", "Idle chatter (AN 3.175&ndash;176)"),
+        ("p", "&sect;13", "an3.175:1.1"),
+        ("p", "&sect;14", "an3.176:1.1"),
+        ("h3", "Covetousness (AN 3.177&ndash;178)"),
+        ("p", "&sect;15", "an3.177:1.1"),
+        ("p", "&sect;16", "an3.178:1.1"),
+        ("h3", "Ill will (AN 3.179&ndash;180)"),
+        ("p", "&sect;17", "an3.179:1.1"),
+        ("p", "&sect;18", "an3.180:1.1"),
+        ("h3", "Wrong view and right view (AN 3.181&ndash;182)"),
+        ("p", "&sect;19", "an3.181:1.1"),
+        ("p", "&sect;20", "an3.182:1.1-1.2"),
+    ],
+    "quiz": [
+        {"q": "What three modes does the discourse run for each of the ten courses of action?",
+         "opts": [
+             "Body, speech, and mind",
+             "Doing it oneself, encouraging others to do it, and approving of it",
+             "Past, present, and future",
+             "Monastic, lay, and royal"],
+         "correct": 1,
+         "expl": "The single template reused across all twenty discourses in this chapter."},
+        {"q": "What does the guide say about a person who never personally kills but consistently encourages or approves of killing?",
+         "opts": [
+             "They are treated more leniently than a direct killer",
+             "They are placed under the identical formula as the person who kills directly; complicity and approval are named as the act, not a lesser version of it",
+             "They are not addressed by this chapter at all",
+             "Only the person who kills directly is judged"],
+         "correct": 1,
+         "expl": "A specific ethical claim about the equal weight of doing, encouraging, and approving."},
+        {"q": "What are the ten courses of action, in their traditional grouping?",
+         "opts": [
+             "Ten unrelated virtues",
+             "Three bodily (killing, stealing, sexual misconduct), four verbal (lying, divisive speech, harsh speech, idle chatter), three mental (covetousness, ill will, wrong view)",
+             "Only verbal offenses",
+             "Ten monastic precepts"],
+         "correct": 1,
+         "expl": "The canon's standard ethical inventory, dasa akusala-kammapathā and its ten opposites."},
+        {"q": "Where else on this site is this same taxonomy taught at full, unabbreviated length?",
+         "opts": [
+             "Nowhere else",
+             "MN 41, with the brahmin householders of Sālā, in ordinary conversational prose",
+             "AN 3.65",
+             "DN 2"],
+         "correct": 1,
+         "expl": "The same content at two different levels of compression, worth reading together."},
+        {"q": "What consequence does this chapter attach to failing all three modes for any one course of action?",
+         "opts": [
+             "A warning from the Buddha",
+             "Rebirth in hell, stated at the starkest possible resolution",
+             "Expulsion from the Saṅgha",
+             "A period of penance"],
+         "correct": 1,
+         "expl": "\"As if delivered there\" — hell or heaven, with nothing graded in between."},
+        {"q": "How does the guide connect this chapter's stark hell/heaven language to AN 3.146–153?",
+         "opts": [
+             "They contradict each other",
+             "AN 3.146-153 apply a gentler, socially observable consequence (blame from sensible people, in this life) to a similar structure — one register among several this collection uses for the same claims",
+             "AN 3.146-153 use an entirely unrelated ethical framework",
+             "There is no meaningful connection"],
+         "correct": 1,
+         "expl": "This chapter's starkness is not the collection's only way of stating the same underlying ethical claims."},
+        {"q": "What does \"kammapatha\" literally mean?",
+         "opts": [
+             "\"Moral law\"",
+             "\"Course of action,\" literally a path a deed travels",
+             "\"Rebirth destination\"",
+             "\"Monastic rule\""],
+         "correct": 1,
+         "expl": "The technical term for each of the ten items in this classification."},
+        {"q": "How is this chapter structured, mechanically?",
+         "opts": [
+             "As ten independent narratives",
+             "As one template sentence reused twenty times, with only the specific action and its positive/negative framing changing",
+             "As a single long verse",
+             "As a dialogue between two disciples"],
+         "correct": 1,
+         "expl": "Peyyāla at its most concentrated: twenty discourses collapsed into one shared shape."},
+        {"q": "What are the three bodily courses of action among the ten?",
+         "opts": [
+             "Lying, divisive speech, harsh speech",
+             "Killing living creatures, stealing, and sexual misconduct",
+             "Covetousness, ill will, and wrong view",
+             "Idle chatter, gossip, and slander"],
+         "correct": 1,
+         "expl": "The first three of the ten, performed through the body."},
+        {"q": "What are the three mental courses of action among the ten?",
+         "opts": [
+             "Killing, stealing, sexual misconduct",
+             "Covetousness, ill will, and wrong view",
+             "Lying, harsh speech, idle chatter",
+             "Faith, ethics, and wisdom"],
+         "correct": 1,
+         "expl": "The final three, performed entirely through the mind, closing the list on wrong view versus right view."},
+    ],
+    "marginalia": [
+        ("The word", [
+            "<span class=\"pali\">attanā</span>oneself",
+            "<span class=\"pali\">samādapeti</span>encourages",
+            "<span class=\"pali\">samanuñño</span>approves",
+        ]),
+        ("Ten courses", [
+            "3 bodily &middot; 4 verbal",
+            "3 mental",
+            "&mdash; the canon's standard inventory",
+        ]),
+        ("One template", [
+            "doing &middot; encouraging &middot; approving",
+            "run twenty times",
+            "&mdash; peyyāla at its tightest",
+        ]),
+        ("Cross-references", [
+            "MN 41 &middot; the same taxonomy, told in full",
+            "AN 3.146&ndash;153 &middot; the same structure, a gentler register",
+            "AN 3.183&ndash;352 &middot; the next chapter, compressed further still",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an3.163-182/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-041.html">MN 41 &middot; The People of Sālā</a> &mdash; the '
+        "identical ten courses of action, taught at full length in ordinary prose.",
+        '<a href="an-3.146.html">AN 3.146 &middot; Unskillful</a> &mdash; the same hell/heaven '
+        "formula applied to a different, broader adjective rather than this chapter's ten specific "
+        "courses.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.183–3.352 — Rāgapeyyāla (merged page, closing the Threes)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-3.183-352",
+    "index_pali": "Rāgapeyyāla",
+    "nav_title": "Overcoming Greed, and So On",
+    "source": "an3/an3.183-352",
+    "crumb": "AN 3.183&ndash;352",
+    "meta_title": "AN 3.183–352 — Overcoming Greed, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Rāgapeyyāla, closing "
+        "the Threes — one hundred seventy discourses compressed into a single formula: three "
+        "immersions, developed for the sake of overcoming greed and sixteen further "
+        "defilements, nine ways each. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 3.183&ndash;352",
+    "title": "Overcoming Greed, and So On",
+    "subtitle": "<em>Rāgapeyyāla</em> &mdash; the eighteenth and final chapter of the Threes, an "
+                "abbreviated series",
+    "glance": [
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "One formula, run across seventeen defilements and nine modes of overcoming each, "
+                 "compressed into a single page representing 170 individually numbered discourses"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The three immersions of emptiness, signlessness, and undirectedness "
+                              "as instruments of liberation recur across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the compression is total; the "
+                       "content underneath it is genuinely important"),
+    ],
+    "why": (
+        "For insight into greed, three things should be developed: emptiness immersion, signless "
+        "immersion, undirected immersion. Then the same three things, for the complete "
+        "understanding of greed, for its complete ending, its giving up, its ending, its vanishing, "
+        "its fading away, its cessation, its giving away. Nine verbs, one greed. Then the entire "
+        "nine-verb sequence repeated for hate, delusion, anger, and thirteen further defilements "
+        "&mdash; one hundred seventy individually numbered discourses, closing the Threes on its "
+        "most extreme compression."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Three immersions &mdash; on emptiness, on the signless, on the undirected &mdash; are "
+            "developed to overcome each of seventeen named defilements, nine different ways, closing "
+            "the Threes with its most systematic and most compressed material."]),
+        ("The three immersions, named without elaboration", [
+            "<em>Suññata samādhi</em>, emptiness immersion; <em>animitta samādhi</em>, signless "
+            "immersion; <em>appaṇihita samādhi</em>, undirected immersion &mdash; the canon's three "
+            "doors to liberation, <em>vimokkhamukha</em>, named here as a fixed trio with no "
+            "definition attached. This chapter assumes a reader who already knows what the three "
+            "are; its interest is entirely in what they are developed <em>for</em>."]),
+        ("Nine verbs for overcoming one thing", [
+            "Insight, complete understanding, complete ending, giving up, ending, vanishing, fading "
+            "away, cessation, giving away &mdash; nine near-synonyms for the same underlying "
+            "movement, applied first to greed and then, in turn, to every defilement on the "
+            "chapter's list. The repetition is not padding. Piling up near-synonyms for the same "
+            "process is a technique this collection uses throughout &mdash; compare the three words "
+            "for danger opening AN 3.1 &mdash; and here it is run at a scale nowhere else in the "
+            "Threes approaches."]),
+        ("Seventeen defilements, one after another", [
+            "Greed, hate, delusion, anger, acrimony, disdain, contempt, jealousy, stinginess, "
+            "deceitfulness, deviousness, obstinacy, aggression, conceit, arrogance, vanity, and "
+            "negligence &mdash; the list running from the three root defilements through "
+            "increasingly specific interpersonal and characterological faults, closing on "
+            "negligence, <em>pamāda</em>, the same quality AN 2.7&ndash;9, much earlier in this "
+            "collection, calls one of the two things that keep the world from dissolving when "
+            "absent."]),
+        ("Why one hundred seventy discourses fit on one page", [
+            "Each combination of one defilement and one of the nine verbs is, technically, its own "
+            "numbered discourse in the traditional count, which is how seventeen items times "
+            "roughly ten variables yields the span AN 3.183 through AN 3.352. The bilara-data source "
+            "this site draws from, and Sujato's translation of it, compress the entire run into a "
+            "single continuous text using the peyyāla convention &mdash; the same abbreviation "
+            "device this chapter's predecessor, AN 3.163&ndash;182, already used at a smaller scale. "
+            "Nothing is lost in the compression; the pattern, once seen once, is completely "
+            "predictable for every remaining instance."]),
+        ("Closing the Threes", [
+            "This is the final chapter of the Tika Nipāta, and its closing is announced by the "
+            "collection's own summary formula &mdash; the standard closing line confirming that this "
+            "is what the Buddha said, and that the mendicants were satisfied and approved. From here "
+            "the collection would continue into the Fours, the Catukka Nipāta, on a scale "
+            "considerably larger than anything the Threes have covered."]),
+    ],
+    "terms": [
+        ("suññata samādhi, animitta samādhi, appaṇihita samādhi",
+         "&ldquo;emptiness, signless, and undirected immersion&rdquo; &mdash; the three doors to "
+         "liberation, <em>vimokkhamukha</em>, named here without definition as a fixed trio."),
+        ("rāga",
+         "&ldquo;greed&rdquo; &mdash; the first defilement in the chapter&rsquo;s list, and the "
+         "term the vagga&rsquo;s name, <em>Rāgapeyyāla</em>, is built on."),
+        ("pariññā",
+         "&ldquo;complete understanding&rdquo; &mdash; the second of the nine verbs run against "
+         "each defilement, the same technical term AN 3.126 uses for the three teachers' differing "
+         "scopes."),
+        ("pamāda",
+         "&ldquo;negligence&rdquo; &mdash; the seventeenth and final defilement named, echoing AN "
+         "2.7&ndash;9's claim that its opposite is one of two qualities protecting the world."),
+        ("peyyāla",
+         "&ldquo;abbreviation, the &lsquo;etc.&rsquo; convention&rdquo; &mdash; the textual device "
+         "that lets 170 discourses share one continuous formula rather than being spelled out in "
+         "full 170 times."),
+    ],
+    "text_intro": (
+        "The formula in full, as given for greed, followed by the abbreviated repetition across "
+        "the remaining sixteen defilements, and the closing formula. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The formula, given in full for greed"),
+        ("p", "&sect;1", "an3.183-352:1.1-1.4"),
+        ("h3", "The remaining eight verbs, for greed"),
+        ("p", "&sect;2", "an3.183-352:2.1-2.9"),
+        ("h3", "The same nine verbs, for sixteen further defilements"),
+        ("p", "&sect;3", "an3.183-352:3.1-3.26"),
+        ("h3", "The closing formula"),
+        ("p", "&sect;4", "an3.183-352:4.1-4.2"),
+    ],
+    "quiz": [
+        {"q": "What three things does the discourse say should be developed for insight into greed?",
+         "opts": [
+             "Ethics, immersion, and wisdom",
+             "Emptiness immersion, signless immersion, and undirected immersion",
+             "Faith, energy, and mindfulness",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "The canon's three doors to liberation, named here as a fixed trio without further definition."},
+        {"q": "How many near-synonymous verbs does the chapter run against greed, and against every other defilement?",
+         "opts": [
+             "Three",
+             "Nine: insight, complete understanding, complete ending, giving up, ending, vanishing, fading away, cessation, giving away",
+             "One",
+             "Twenty"],
+         "correct": 1,
+         "expl": "The same underlying movement named nine different ways, applied to each defilement in turn."},
+        {"q": "What technique does the guide compare this nine-verb repetition to, elsewhere in this collection?",
+         "opts": [
+             "The four noble truths formula",
+             "The three words for danger opening AN 3.1, piling up near-synonyms for the same process",
+             "The horse-simile sets",
+             "The homage discourse, AN 3.154"],
+         "correct": 1,
+         "expl": "Here the technique is run at a scale nowhere else in the Threes approaches."},
+        {"q": "What is the last defilement named in the chapter's list of seventeen?",
+         "opts": [
+             "Wrong view",
+             "Negligence, pamāda",
+             "Ill will",
+             "Conceit"],
+         "correct": 1,
+         "expl": "Echoing AN 2.7-9's claim that negligence's opposite protects the world from dissolution."},
+        {"q": "Why does the entire span of AN 3.183 through AN 3.352 fit on a single page here?",
+         "opts": [
+             "Because most of the discourses were lost",
+             "Because the peyyāla convention compresses the full combinatorial run of defilements and verbs into one continuous text, with the pattern fully predictable once seen",
+             "Because only a fraction of the discourses are genuine",
+             "Because this site chose to omit most of the content"],
+         "correct": 1,
+         "expl": "Nothing is lost in the compression; each combination is technically its own numbered discourse in the traditional count."},
+        {"q": "What earlier chapter in this collection already used the peyyāla convention, at a smaller scale?",
+         "opts": [
+             "AN 3.96-98",
+             "AN 3.163-182, the ten courses of action run through three modes",
+             "AN 3.140-142",
+             "AN 3.1-10"],
+         "correct": 1,
+         "expl": "The same abbreviation device, used here across a much larger combinatorial span."},
+        {"q": "What does the chapter's name, \"Rāgapeyyāla,\" refer to?",
+         "opts": [
+             "A place name",
+             "\"Greed, abbreviated\" &mdash; rāga is the first defilement named, and peyyāla is the abbreviation convention itself",
+             "A person's name",
+             "A type of meditation posture"],
+         "correct": 1,
+         "expl": "Named for its first item and its own compression technique."},
+        {"q": "What does this chapter close?",
+         "opts": [
+             "Only this vagga",
+             "The entire Tika Nipāta, the Threes, with the collection's own standard closing formula",
+             "Only the peyyāla series",
+             "Nothing; more discourses follow within the Threes"],
+         "correct": 1,
+         "expl": "From here the collection continues into the Fours, the Catukka Nipāta, on a considerably larger scale."},
+        {"q": "What are the \"three doors to liberation\" (vimokkhamukha) named in this chapter?",
+         "opts": [
+             "Ethics, immersion, wisdom",
+             "Emptiness, signless, and undirected immersion",
+             "Faith, energy, mindfulness",
+             "The four right efforts"],
+         "correct": 1,
+         "expl": "Suññata, animitta, appaṇihita samādhi &mdash; assumed familiar, not defined here."},
+        {"q": "What is \"pariññā,\" the second of the nine verbs, and where else does it appear in this collection?",
+         "opts": [
+             "\"Complete understanding\"; the same term AN 3.126 uses for the three teachers' differing scopes",
+             "\"Cessation\"; unique to this chapter",
+             "\"Giving away\"; also used in the homage discourse",
+             "\"Vanishing\"; unrelated to any earlier discourse"],
+         "correct": 0,
+         "expl": "A technical term recurring across the collection, not invented for this chapter alone."},
+    ],
+    "marginalia": [
+        ("The word", [
+            "<span class=\"pali\">suññata</span>emptiness",
+            "<span class=\"pali\">animitta</span>signless",
+            "<span class=\"pali\">appaṇihita</span>undirected",
+        ]),
+        ("Nine verbs", [
+            "insight &middot; understanding &middot; ending",
+            "giving up &middot; vanishing &middot; fading",
+            "cessation &middot; giving away",
+        ]),
+        ("Seventeen defilements", [
+            "greed, hate, delusion",
+            "anger, jealousy, stinginess...",
+            "&mdash; ending on negligence",
+        ]),
+        ("Cross-references", [
+            "AN 3.163&ndash;182 &middot; the same peyyāla technique, smaller scale",
+            "AN 3.1 &middot; the same near-synonym technique, at the opening",
+            "AN 2.7&ndash;9 &middot; negligence and its opposite, protecting the world",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an3.183-352/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.163-182.html">AN 3.163&ndash;182 &middot; Ways of Performing Deeds</a> '
+        "&mdash; the same abbreviation technique, applied to the ten courses of action.",
+        '<a href="an-3.1.html">AN 3.1 &middot; Perils</a> &mdash; the discourse that opens the '
+        "Threes, for a reader who wants to read the whole nipāta's arc from its first page to its "
+        "last.",
+    ],
+})
