@@ -46764,3 +46764,2283 @@ page(
         "&lsquo;I am&rsquo; is examined through the four elements.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Sappurisavagga — the twenty-first chapter of the Fours
+# --------------------------------------------------------------------------- #
+VAGGA_21 = "<em>Sappurisavagga</em> &mdash; the twenty-first chapter of the Fours"
+SETTING_21 = ("None stated; the Sappurisavagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.201 — Sikkhāpadasutta
+# --------------------------------------------------------------------------- #
+page(
+    201, "Sikkhāpada", "Training Rules",
+    vagga=VAGGA_21,
+    meta_title="AN 4.201 — Training Rules | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sikkhāpadasutta — a true "
+        "person and an untrue person defined by the five precepts, then escalated by whether each "
+        "one is also urged on others, opening a ten-discourse chapter built on this single "
+        "template. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "Four levels of one scale, defined by the five precepts and by whether they are "
+                 "urged on others"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The five precepts and the escalation by encouraging others are "
+                              "standard across the early collections; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a simple template that opens "
+                       "a chapter built entirely from repeating it"),
+    ],
+    why=(
+        "An untrue person, an even more untrue person, a true person, an even truer person: the "
+        "same five precepts &mdash; no killing, stealing, sexual misconduct, lying, or "
+        "intoxicants &mdash; kept or broken, and then escalated by one further question: does "
+        "this person also urge the same conduct, good or bad, onto others? This is the first of "
+        "ten discourses that all use the identical four-level template, cycling through a "
+        "different content list each time."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Breaking or keeping the five precepts sorts a person as untrue or true, and urging "
+            "the same conduct on others pushes either verdict one step further."]),
+        ("Not a grid, but a ladder", [
+            "It is worth being precise about the shape of this classification before working "
+            "through its content, because it looks at first like the two-by-two grids met "
+            "repeatedly elsewhere in the Fours &mdash; four cells crossing two independent "
+            "variables &mdash; and it is not that.",
+            "The four levels here are a single ladder with one direction. An untrue person breaks "
+            "the precepts. An even more untrue person breaks them <em>and</em> encourages others "
+            "to do the same. A true person keeps them. An even truer person keeps them <em>and</em> "
+            "encourages others to do the same. There is no cell for someone who breaks the "
+            "precepts while encouraging others to keep them, or who keeps them while urging others "
+            "to break them &mdash; those combinations are simply not offered as options.",
+            "So the second variable, encouraging others, only ever intensifies whichever verdict "
+            "the first variable already reached. It cannot flip bad into good or good into bad; it "
+            "can only make bad worse or good better. That is a different logical shape from a "
+            "crossed grid, and worth naming clearly before the same shape recurs nine more times "
+            "across this chapter."]),
+        ("The five precepts, given together", [
+            "The content itself is the most familiar ethical formula in the tradition: not "
+            "killing living creatures, not stealing, not committing sexual misconduct, not lying, "
+            "not consuming beer, wine, and liquor intoxicants. This nipāta has met several of "
+            "these individually &mdash; killing and lying each received their own discourse "
+            "earlier in the Fours &mdash; but this is the first place in this collection all five "
+            "are given together as one set.",
+            "Reading them as a set rather than piecemeal changes how they read. Individually, each "
+            "precept can look like an isolated rule against a specific harm. Together, they read "
+            "as a single description of what it is to leave other beings, their possessions, "
+            "their relationships, their trust, and one&rsquo;s own clarity of mind alone."]),
+        ("Why encouragement counts as its own step", [
+            "The discourse treats urging someone else toward the same conduct as a distinct, "
+            "additional fact worth its own level of the scale, rather than folding it into the "
+            "base description. That choice says something worth drawing out: breaking a precept "
+            "and recruiting someone else into breaking it are being treated as different in kind, "
+            "not merely in degree.",
+            "The same logic applies with equal force on the positive side. Keeping the precepts "
+            "oneself and helping someone else keep them are also treated as two separate "
+            "achievements, and the second is not assumed to follow automatically from the first. A "
+            "great many people manage the first without ever attempting the second."]),
+        ("A template, named once", [
+            "Nine more discourses follow in this chapter, and every one of them uses this exact "
+            "four-level structure &mdash; untrue, even more untrue, true, even truer &mdash; with "
+            "only the content list changed. Personal qualities, courses of action, the eightfold "
+            "path, the tenfold path, and finally two further vocabularies applied to the richest "
+            "of those lists a second time.",
+            "This reading guide will not re-explain the ladder shape on every subsequent page. It "
+            "is established here, and each later page in this chapter can be read as this same "
+            "template with a new set of contents dropped in."]),
+        ("Where this sits", [
+            "This chapter takes its name, <em>Sappurisavagga</em>, directly from the vocabulary "
+            "this discourse introduces: <em>sappurisa</em>, a true person, and <em>asappurisa</em>, "
+            "an untrue one. Not every discourse in the chapter keeps that exact word &mdash; the "
+            "last four switch to different vocabulary entirely &mdash; but the chapter is named, "
+            "as every chapter in this collection is, after whatever its first discourse "
+            "introduces."],
+        ),
+    ],
+    terms=[
+        ("asappurisa",
+         "&ldquo;untrue person&rdquo; &mdash; literally not-a-good-person; the term giving this "
+         "chapter its name."),
+        ("bhiyyo asappurisa",
+         "&ldquo;even more untrue person&rdquo; &mdash; the same fault plus urging it onto others; "
+         "the comparative that builds the ladder&rsquo;s second rung."),
+        ("sappurisa",
+         "&ldquo;true person&rdquo;, a good person &mdash; <em>sa-</em>, with, plus "
+         "<em>purisa</em>, person; the positive pole of the scale."),
+        ("pañca sikkhāpadāni",
+         "&ldquo;the five training rules&rdquo; &mdash; the standard lay precepts, given here "
+         "together for the first time in this nipāta."),
+        ("samādapeti",
+         "&ldquo;encourages&rdquo;, urges on &mdash; the verb marking the discourse&rsquo;s second "
+         "variable, applied identically to both bad and good conduct."),
+    ],
+    text_intro=(
+        "The discourse in full: four levels, defined by the five precepts and by whether they are "
+        "urged on others. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four levels, one standard"),
+        ("p", "&sect;1", "an4.201:1.1-1.5"),
+        ("h3", "An untrue person"),
+        ("p", "&sect;2", "an4.201:2.1-2.3"),
+        ("h3", "An even more untrue person"),
+        ("p", "&sect;3", "an4.201:3.1-3.7"),
+        ("h3", "A true person"),
+        ("p", "&sect;4", "an4.201:4.1-4.3"),
+        ("h3", "An even truer person"),
+        ("p", "&sect;5", "an4.201:5.1-5.7"),
+    ],
+    quiz=[
+        {"q": "What content defines the four levels in this discourse?",
+         "opts": [
+             "The eightfold path",
+             "The five precepts &mdash; not killing, stealing, sexual misconduct, lying, or intoxicants",
+             "The seven courses of action",
+             "The ten courses of action"],
+         "correct": 1,
+         "expl": "The first place in this nipāta all five are given together as one set."},
+        {"q": "How does the guide describe the shape of this classification?",
+         "opts": [
+             "A two-by-two grid of independent variables",
+             "A single ladder &mdash; encouraging others only intensifies whichever verdict the base conduct already reached",
+             "Four unrelated categories",
+             "A ranking by severity alone"],
+         "correct": 1,
+         "expl": "No cell exists for breaking precepts while urging others to keep them, or the reverse."},
+        {"q": "Can encouraging others flip a bad verdict into a good one, or vice versa?",
+         "opts": [
+             "Yes, always",
+             "No &mdash; it can only make bad worse or good better",
+             "Only for some precepts",
+             "The discourse does not say"],
+         "correct": 1,
+         "expl": "Those combinations are simply not offered as options."},
+        {"q": "What makes an untrue person &lsquo;even more&rsquo; untrue?",
+         "opts": [
+             "Breaking more precepts",
+             "Breaking a precept and also encouraging others to break it",
+             "Breaking a precept repeatedly",
+             "Being unaware of the precepts"],
+         "correct": 1,
+         "expl": "The same fault plus recruitment, treated as an additional fact."},
+        {"q": "Does the discourse assume that keeping the precepts automatically leads to helping others keep them?",
+         "opts": [
+             "Yes, automatically",
+             "No &mdash; the two are treated as separate achievements, and many people manage the first without the second",
+             "The discourse does not distinguish them",
+             "Only for monastics"],
+         "correct": 1,
+         "expl": "The second is not assumed to follow from the first."},
+        {"q": "How many discourses in this chapter use this exact four-level template?",
+         "opts": [
+             "Only this one",
+             "All ten, with only the content list changed",
+             "Five of ten",
+             "Only the first six"],
+         "correct": 1,
+         "expl": "Personal qualities, courses of action, the eightfold and tenfold paths, and two further vocabularies."},
+        {"q": "Where does this chapter&rsquo;s name come from?",
+         "opts": [
+             "A location mentioned in the text",
+             "The vocabulary this discourse introduces &mdash; <em>sappurisa</em> and <em>asappurisa</em>",
+             "A speaker&rsquo;s name",
+             "A simile used later in the chapter"],
+         "correct": 1,
+         "expl": "Named after its first discourse, as every chapter in this collection is."},
+        {"q": "Do all ten discourses in this chapter keep the word <em>sappurisa</em>?",
+         "opts": [
+             "Yes, all ten",
+             "No &mdash; the last four switch to different vocabulary entirely",
+             "Only the first three",
+             "None of them use it"],
+         "correct": 1,
+         "expl": "The chapter name reflects its first discourse&rsquo;s vocabulary, not a word shared by all ten."},
+        {"q": "What does treating precepts together as a set, rather than individually, reveal?",
+         "opts": [
+             "Nothing new",
+             "A single description of what it is to leave other beings, their trust, and one&rsquo;s own clarity alone",
+             "That the precepts are ranked by severity",
+             "That some precepts are optional"],
+         "correct": 1,
+         "expl": "Individually each looks like an isolated rule; together they read differently."},
+        {"q": "Will this reading guide re-explain the ladder shape on every later page in this chapter?",
+         "opts": [
+             "Yes, in full each time",
+             "No &mdash; it is established here, and later pages can be read as this template with new content",
+             "Only on alternating pages",
+             "Only for the last four discourses"],
+         "correct": 1,
+         "expl": "Established once, referenced afterward."},
+    ],
+    marginalia=[
+        ("A ladder, not a grid", [
+            "bad + urging others &middot; worst",
+            "bad alone",
+            "good alone",
+            "good + urging others &middot; best",
+        ]),
+        ("The five precepts", [
+            "no killing &middot; no stealing",
+            "no sexual misconduct",
+            "no lying &middot; no intoxicants",
+        ]),
+        ("Two separate facts", [
+            "the conduct itself",
+            "and: urged onto others",
+            "&mdash; neither implies the other",
+        ]),
+        ("The chapter ahead", [
+            "same template, ten times",
+            "each with new content",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.201/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.81.html">AN 4.81 &middot; Killing Living Creatures</a> &mdash; where the '
+        "first precept received its own discourse earlier in the Fours.",
+        '<a href="an-4.82.html">AN 4.82 &middot; Lying</a> &mdash; where the fourth precept '
+        "received its own discourse.",
+        '<a href="an-4.202.html">AN 4.202 &middot; Faithless</a> &mdash; next in this series, and '
+        "the same template with a new list of qualities.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.202 — Assaddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    202, "Assaddha", "Faithless",
+    vagga=VAGGA_21,
+    meta_title="AN 4.202 — Faithless | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Assaddhasutta — the same "
+        "four-level template applied to seven personal qualities, gathering vocabulary this "
+        "nipāta has used piecemeal across several earlier chapters. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "The same four-level ladder as AN 4.201, now defined by seven personal "
+                 "qualities"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "This seven-quality set recurs across the early collections in "
+                              "various combinations; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same ladder as AN 4.201, "
+                       "worth reading for how many earlier threads its content gathers together"),
+    ],
+    why=(
+        "The identical four-level ladder from AN 4.201, now filled with seven qualities of "
+        "character rather than five rules of conduct: faithless, shameless, imprudent, of little "
+        "learning, lazy, unmindful, and witless against their opposites. Several of these terms "
+        "have already appeared separately, in other chapters of this nipāta, doing other work; "
+        "here they are assembled into a single composite portrait, twice over."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same ladder of untrue and true, and their intensified forms, now measured by "
+            "seven qualities of character rather than by conduct toward others."]),
+        ("Seven qualities, not five actions", [
+            "Where AN 4.201 asked what a person does &mdash; kills, steals, lies &mdash; this "
+            "discourse asks what a person is like: <em>assaddha</em>, faithless; <em>ahirika</em>, "
+            "shameless; <em>anottāpī</em>, imprudent; <em>appassuta</em>, of little learning; "
+            "<em>kusīta</em>, lazy; <em>muṭṭhassati</em>, unmindful or confused; <em>duppañña</em>, "
+            "witless. The positive seven simply negate each: faithful, conscientious, prudent, "
+            "learned, energetic, mindful, wise.",
+            "This is a shift from behavior to disposition, and it is worth noticing that the "
+            "ladder&rsquo;s logic carries over unchanged. Encouraging others toward faithlessness "
+            "or toward faith is treated exactly as encouraging others toward killing or restraint "
+            "was in the discourse before &mdash; a further, separate fact layered onto the base "
+            "seven, not folded into them."]),
+        ("A portrait assembled from elsewhere in this nipāta", [
+            "Several of these seven terms are not new to a reader who has come through this "
+            "collection in order, and it is worth naming where each has already done work. "
+            "<em>Hiri</em> and <em>ottappa</em>, conscience and prudence, were two of the five "
+            "&lsquo;powers of a trainee&rsquo; at AN 4.163, standing in for mindfulness and "
+            "immersion in that discourse&rsquo;s particular five-item list. <em>Appassuta</em>, "
+            "little learning, is the exact subject of AN 4.6, which crossed hearing much or little "
+            "against holding much or little and refused to rank the combinations.",
+            "<em>Duppañña</em> and its opposite are the negative and positive poles of the "
+            "same territory AN 4.186 explored at length, asking what makes someone <em>paṇḍito "
+            "mahāpañño</em>, astute with great wisdom, and answering with an entirely ethical "
+            "definition rather than a doctrinal one.",
+            "None of this is stated by the discourse itself; it simply lists the seven and moves "
+            "on. But a reader who recognizes the pieces sees this discourse doing something the "
+            "bare text does not announce: gathering vocabulary that has, until now, appeared "
+            "scattered across several different discussions, into one composite description of "
+            "character."]),
+        ("Faith placed first, again", [
+            "It is worth noting the order these seven are given in, because it repeats a choice "
+            "already met in this nipāta: faith stands first, exactly as it did among the four "
+            "faculties at AN 4.151. There the ordering was read as a sequence of dependence "
+            "&mdash; nobody commits energy to something they have no confidence in.",
+            "The same reading applies here. A person without faith has nothing yet to be prudent "
+            "or energetic or mindful about; the six qualities that follow presuppose some initial "
+            "orientation for them to operate on. Placing faithlessness first in the list of what "
+            "makes an untrue person is not incidental ordering &mdash; it names the condition the "
+            "other six depend on."]),
+        ("What this list omits, compared to the faculties", [
+            "A reader who knows AN 4.151&rsquo;s four faculties &mdash; faith, energy, "
+            "mindfulness, immersion &mdash; will notice this list overlaps with three of the four "
+            "(faith, energy under a different name, mindfulness) but drops immersion entirely and "
+            "adds conscience, prudence, learning, and wisdom in its place.",
+            "This is not a contradiction to resolve. It is one more example, familiar from "
+            "elsewhere in this collection, of the same general territory &mdash; what makes a "
+            "person&rsquo;s inner life sound rather than unsound &mdash; being carved up "
+            "differently depending on which discourse and which number is doing the carving."],
+        ),
+    ],
+    terms=[
+        ("assaddha / saddha",
+         "&ldquo;faithless&rdquo; and &ldquo;faithful&rdquo; &mdash; the first of the seven, and, "
+         "as at AN 4.151, the condition the rest are read as depending on."),
+        ("ahirika / hirimā",
+         "&ldquo;shameless&rdquo; and &ldquo;conscientious&rdquo; &mdash; the same term met as one "
+         "of the trainee&rsquo;s five powers at AN 4.163."),
+        ("anottāpī / ottappī",
+         "&ldquo;imprudent&rdquo; and &ldquo;prudent&rdquo; &mdash; <em>hiri</em>&rsquo;s standing "
+         "partner throughout the canon, also met at AN 4.163."),
+        ("appassuta / bahussuta",
+         "&ldquo;of little learning&rdquo; and &ldquo;learned&rdquo; &mdash; the exact subject of "
+         "AN 4.6, which refused to rank hearing much or little against holding much or little."),
+        ("duppañña / paññavā",
+         "&ldquo;witless&rdquo; and &ldquo;wise&rdquo; &mdash; the same territory AN 4.186 defined "
+         "ethically rather than doctrinally."),
+    ],
+    text_intro=(
+        "The discourse in full: four levels, defined by seven qualities and by whether they are "
+        "urged on others. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four levels, one standard"),
+        ("p", "&sect;1", "an4.202:1.1-1.2"),
+        ("h3", "An untrue person"),
+        ("p", "&sect;2", "an4.202:2.1-2.3"),
+        ("h3", "An even more untrue person"),
+        ("p", "&sect;3", "an4.202:3.1-3.9"),
+        ("h3", "A true person"),
+        ("p", "&sect;4", "an4.202:4.1-4.3"),
+        ("h3", "An even truer person"),
+        ("p", "&sect;5", "an4.202:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "What content defines the four levels in this discourse?",
+         "opts": [
+             "The five precepts",
+             "Seven qualities of character &mdash; faith, conscience, prudence, learning, energy, mindfulness, wisdom, and their opposites",
+             "The eightfold path",
+             "The ten courses of action"],
+         "correct": 1,
+         "expl": "A shift from behavior to disposition, with the same ladder logic carried over."},
+        {"q": "Does encouraging others work the same way here as in AN 4.201?",
+         "opts": [
+             "No, it is dropped",
+             "Yes &mdash; a further, separate fact layered onto the base seven qualities",
+             "It only applies to the positive qualities",
+             "It reverses the verdict"],
+         "correct": 1,
+         "expl": "The same ladder logic, unchanged."},
+        {"q": "Where else in the Fours have <em>hiri</em> and <em>ottappa</em> appeared?",
+         "opts": [
+             "Nowhere else",
+             "As two of the five &lsquo;powers of a trainee&rsquo; at AN 4.163",
+             "Only in this discourse",
+             "As two of the four faculties"],
+         "correct": 1,
+         "expl": "Standing in for mindfulness and immersion in that particular list."},
+        {"q": "What earlier discourse is <em>appassuta</em>, little learning, the exact subject of?",
+         "opts": [
+             "AN 4.151",
+             "AN 4.6, which refused to rank hearing much or little against holding much or little",
+             "AN 4.163",
+             "AN 4.186"],
+         "correct": 1,
+         "expl": "The same territory revisited under a different classification."},
+        {"q": "What earlier discourse explored the same territory as <em>duppañña/paññavā</em>?",
+         "opts": [
+             "AN 4.6",
+             "AN 4.186, which defined great wisdom ethically rather than doctrinally",
+             "AN 4.151",
+             "AN 4.163"],
+         "correct": 1,
+         "expl": "An entirely ethical definition, not a doctrinal one."},
+        {"q": "What does the guide say this discourse is doing that it does not announce itself?",
+         "opts": [
+             "Introducing entirely new vocabulary",
+             "Gathering vocabulary that has appeared scattered across several earlier discourses into one composite description",
+             "Correcting earlier discourses",
+             "Ranking the earlier discourses"],
+         "correct": 1,
+         "expl": "None of this is stated by the discourse; a reader recognizes the pieces."},
+        {"q": "Why does faith stand first in this list, according to the guide?",
+         "opts": [
+             "Alphabetical convention",
+             "As at AN 4.151, it names the condition the other six qualities depend on",
+             "It is the least important, listed first for contrast",
+             "No reason is given"],
+         "correct": 1,
+         "expl": "A person without faith has nothing yet to be prudent or energetic about."},
+        {"q": "How does this seven-item list compare to AN 4.151&rsquo;s four faculties?",
+         "opts": [
+             "Identical",
+             "Overlapping on three terms, dropping immersion, and adding conscience, prudence, learning, and wisdom",
+             "Completely unrelated",
+             "A subset of the four faculties"],
+         "correct": 1,
+         "expl": "The same general territory carved up differently by different discourses."},
+        {"q": "Should a reader treat the overlap and difference between this list and AN 4.151&rsquo;s as a contradiction?",
+         "opts": [
+             "Yes, one must be wrong",
+             "No &mdash; a familiar pattern of the same territory divided differently by different discourses and numbers",
+             "Yes, this list supersedes the earlier one",
+             "The guide does not address this"],
+         "correct": 1,
+         "expl": "Consistent with how this collection handles overlapping material elsewhere."},
+        {"q": "What is the basic shift in content from AN 4.201 to this discourse?",
+         "opts": [
+             "No shift at all",
+             "From what a person does to what a person is like",
+             "From ethics to cosmology",
+             "From individual to community"],
+         "correct": 1,
+         "expl": "Conduct toward others, versus qualities of character."},
+    ],
+    marginalia=[
+        ("Seven qualities", [
+            "faith &middot; conscience",
+            "prudence &middot; learning",
+            "energy &middot; mindfulness",
+            "wisdom",
+        ]),
+        ("Gathered from elsewhere", [
+            "conscience, prudence &middot; AN 4.163",
+            "little learning &middot; AN 4.6",
+            "wisdom &middot; AN 4.186",
+        ]),
+        ("Faith, first again", [
+            "as at AN 4.151",
+            "&mdash; what the rest depend on",
+        ]),
+        ("Same ladder", [
+            "as AN 4.201",
+            "&mdash; content changed, shape not",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.202/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.163.html">AN 4.163 &middot; Ugly</a> &mdash; where conscience and prudence '
+        "appear among the trainee&rsquo;s five powers.",
+        '<a href="an-4.6.html">AN 4.6 &middot; A Little Learning</a> &mdash; the discourse this '
+        "one&rsquo;s &lsquo;little learning&rsquo; term is drawn from.",
+        '<a href="an-4.203.html">AN 4.203 &middot; Seven Kinds of Deeds</a> &mdash; next in this '
+        "series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.203 — Sattakammasutta
+# --------------------------------------------------------------------------- #
+page(
+    203, "Sattakamma", "Seven Kinds of Deeds",
+    vagga=VAGGA_21,
+    meta_title="AN 4.203 — Seven Kinds of Deeds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sattakammasutta — the "
+        "same four-level template applied to three bodily and four verbal deeds, combining two "
+        "lists this nipāta has already given separately. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "The same four-level ladder as AN 4.201, now defined by seven kinds of deed"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The seven bodily and verbal courses of action are a standard "
+                              "subset of the ten courses of action across the early collections; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same ladder again, now "
+                       "combining two lists already given separately earlier in this nipāta"),
+    ],
+    why=(
+        "The same ladder once more, now filled with seven deeds: killing, stealing, and sexual "
+        "misconduct by body, and false, backbiting, harsh, and nonsensical speech &mdash; the "
+        "exact fourfold list of bad verbal conduct given on its own two chapters back. This "
+        "discourse takes that list and joins it to the three bodily precepts, producing a set "
+        "this nipāta has not yet assembled in one place."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same ladder of untrue and true, now measured by three bodily deeds joined to the "
+            "full fourfold classification of verbal conduct."]),
+        ("Three plus four, not five plus one", [
+            "Where AN 4.201 gave five precepts as a set including one item each for body, speech, "
+            "and intoxicants, this discourse narrows to conduct alone and widens the verbal side: "
+            "killing, stealing, and sexual misconduct for the body; false, backbiting, harsh, and "
+            "nonsensical speech for the voice. Seven items, three plus four, with lying replaced "
+            "by all four kinds of bad speech rather than lying alone.",
+            "Readers of this chapter&rsquo;s neighbor, AN 4.148, will recognize the four verbal "
+            "items immediately: they are the identical set given there as the four kinds of bad "
+            "conduct by way of speech, in the identical order. This discourse has not invented a "
+            "new classification of speech; it has taken the one already given whole and attached "
+            "it to three items of bodily conduct."]),
+        ("What is missing here, and what that predicts", [
+            "A reader who has just read AN 4.201&rsquo;s five precepts will notice this list "
+            "drops intoxicants entirely and expands speech from one item to four. That is worth "
+            "flagging because it signals what the rest of this chapter is doing: each successive "
+            "discourse is not simply repeating the last with cosmetic changes, but building toward "
+            "a larger and more complete classification.",
+            "That prediction is confirmed immediately by the next discourse, which takes this "
+            "seven-item list and adds exactly three more &mdash; covetousness, malice, and wrong "
+            "view &mdash; completing the classical ten courses of action. This discourse is best "
+            "read as a way-station: the bodily and verbal two-thirds of a scheme this chapter is "
+            "about to give in full."]),
+        ("Why speech gets four items and body gets three", [
+            "It is worth pausing on the asymmetry itself rather than passing over it. Bodily "
+            "conduct is sorted into exactly three courses across this whole family of "
+            "classifications &mdash; killing, stealing, sexual misconduct &mdash; and never more. "
+            "Verbal conduct consistently gets four: false, divisive, harsh, and nonsensical "
+            "speech.",
+            "The asymmetry is not explained anywhere in this collection, and this reading guide "
+            "will not invent an explanation the text does not supply. What can be observed is that "
+            "the collection is consistent about it: wherever bodily and verbal courses of action "
+            "are listed together, from this discourse through the fuller schemes that follow, the "
+            "ratio holds at three to four."]),
+        ("The ladder, once more", [
+            "Nothing about the escalation structure changes from the two discourses before this "
+            "one. An untrue person does these seven things; an even more untrue person does them "
+            "and encourages others to; a true person avoids all seven; an even truer person avoids "
+            "them and encourages others to as well. The content is new each time; the shape "
+            "carrying it is now, three discourses in, entirely familiar."],
+        ),
+    ],
+    terms=[
+        ("kāyakamma",
+         "&ldquo;bodily deed&rdquo; &mdash; here limited to three: killing, stealing, and sexual "
+         "misconduct."),
+        ("vacīkamma",
+         "&ldquo;verbal deed&rdquo; &mdash; here the full four given at AN 4.148, taken whole "
+         "into this discourse."),
+        ("musāvāda / pisuṇā vācā / pharusā vācā / samphappalāpa",
+         "&ldquo;false&rdquo;, &ldquo;backbiting&rdquo;, &ldquo;harsh&rdquo;, and "
+         "&ldquo;nonsensical&rdquo; speech &mdash; the identical set and order as AN 4.148 and AN "
+         "4.149."),
+        ("satta kammā",
+         "&ldquo;seven deeds&rdquo; &mdash; three bodily plus four verbal, one short of the ten "
+         "courses of action the next discourse completes."),
+        ("sattakamma",
+         "the discourse&rsquo;s own Pāli title, naming the number of deeds rather than the "
+         "true/untrue vocabulary shared with its neighbors."),
+    ],
+    text_intro=(
+        "The discourse in full: four levels, defined by three bodily and four verbal deeds. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four levels, one standard"),
+        ("p", "&sect;1", "an4.203:1.1-1.2"),
+        ("h3", "An untrue person"),
+        ("p", "&sect;2", "an4.203:2.1-2.3"),
+        ("h3", "An even more untrue person"),
+        ("p", "&sect;3", "an4.203:3.1-3.9"),
+        ("h3", "A true person"),
+        ("p", "&sect;4", "an4.203:4.1-4.3"),
+        ("h3", "An even truer person"),
+        ("p", "&sect;5", "an4.203:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "What seven deeds define the four levels in this discourse?",
+         "opts": [
+             "Five precepts plus two others",
+             "Killing, stealing, and sexual misconduct by body; false, backbiting, harsh, and nonsensical speech",
+             "The eightfold path",
+             "Ten courses of action"],
+         "correct": 1,
+         "expl": "Three bodily items joined to the full fourfold classification of bad speech."},
+        {"q": "Where does the fourfold speech list come from?",
+         "opts": [
+             "It is new to this discourse",
+             "AN 4.148, given there as the four kinds of bad verbal conduct, in the identical order",
+             "AN 4.201",
+             "AN 4.6"],
+         "correct": 1,
+         "expl": "Taken whole and attached here to three items of bodily conduct."},
+        {"q": "What does this list drop compared to AN 4.201&rsquo;s five precepts?",
+         "opts": [
+             "Killing",
+             "Intoxicants, while expanding speech from one item (lying) to four",
+             "Stealing",
+             "Sexual misconduct"],
+         "correct": 1,
+         "expl": "Narrowing to conduct while widening the verbal side."},
+        {"q": "What does the next discourse in this chapter do with this seven-item list?",
+         "opts": [
+             "Repeats it unchanged",
+             "Adds three more items &mdash; covetousness, malice, wrong view &mdash; completing the ten courses of action",
+             "Removes two items",
+             "Replaces it entirely"],
+         "correct": 1,
+         "expl": "This discourse is a way-station toward a fuller classification."},
+        {"q": "How many bodily courses of action does this family of classifications consistently use?",
+         "opts": [
+             "Four",
+             "Three, always &mdash; killing, stealing, sexual misconduct",
+             "Two",
+             "It varies discourse to discourse"],
+         "correct": 1,
+         "expl": "Never more, across this whole chapter&rsquo;s classifications."},
+        {"q": "How many verbal courses of action does this family consistently use?",
+         "opts": [
+             "Three, to match the body",
+             "Four, consistently, wherever bodily and verbal courses are listed together",
+             "Five",
+             "It varies"],
+         "correct": 1,
+         "expl": "The three-to-four ratio holds throughout."},
+        {"q": "Does the discourse or this reading guide explain the three-to-four asymmetry?",
+         "opts": [
+             "Yes, the discourse explains it",
+             "No &mdash; the guide observes the pattern without inventing an explanation the text does not supply",
+             "Yes, the guide supplies a firm explanation",
+             "The asymmetry does not actually exist"],
+         "correct": 1,
+         "expl": "What can be observed is only that the ratio is consistent."},
+        {"q": "Does the escalation structure change from AN 4.201 and AN 4.202?",
+         "opts": [
+             "Yes, significantly",
+             "No &mdash; the same four-level ladder, only the content is new",
+             "Yes, the encouragement clause is dropped",
+             "Yes, a fifth level is added"],
+         "correct": 1,
+         "expl": "Three discourses in, the shape is now entirely familiar."},
+        {"q": "What does the discourse&rsquo;s Pāli title name?",
+         "opts": [
+             "The true/untrue vocabulary shared with its neighbors",
+             "The number of deeds, <em>sattakamma</em>, seven deeds",
+             "A location",
+             "A speaker"],
+         "correct": 1,
+         "expl": "Distinct from the chapter&rsquo;s own name."},
+        {"q": "What kind of discourse is this, in the guide&rsquo;s reading, within the chapter&rsquo;s arc?",
+         "opts": [
+             "A final, complete statement",
+             "A way-station &mdash; the bodily and verbal two-thirds of a scheme the chapter is about to give in full",
+             "An unrelated aside",
+             "A correction of AN 4.201"],
+         "correct": 1,
+         "expl": "Confirmed by the next discourse completing the set."},
+    ],
+    marginalia=[
+        ("Seven deeds", [
+            "killing &middot; stealing",
+            "sexual misconduct",
+            "false &middot; backbiting",
+            "harsh &middot; nonsensical",
+        ]),
+        ("3 + 4", [
+            "body: always three",
+            "speech: always four",
+            "&mdash; unexplained, consistent",
+        ]),
+        ("Borrowed whole", [
+            "the four speech items",
+            "= AN 4.148&rsquo;s own list",
+        ]),
+        ("What comes next", [
+            "+3 mental items",
+            "= the ten courses of action",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.203/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.148.html">AN 4.148 &middot; Bad Conduct</a> &mdash; the source of this '
+        "discourse&rsquo;s fourfold speech list.",
+        '<a href="an-4.149.html">AN 4.149 &middot; Good Conduct</a> &mdash; the positive '
+        "counterpart of the same list.",
+        '<a href="an-4.204.html">AN 4.204 &middot; Ten Kinds of Deeds</a> &mdash; next in this '
+        "series, and the completed scheme.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.204 — Dasakammasutta
+# --------------------------------------------------------------------------- #
+page(
+    204, "Dasakamma", "Ten Kinds of Deeds",
+    vagga=VAGGA_21,
+    meta_title="AN 4.204 — Ten Kinds of Deeds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dasakammasutta — the same "
+        "four-level template applied to the ten courses of action, one of the tradition's most "
+        "complete ethical taxonomies, joining body, speech, and mind. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "The same four-level ladder as AN 4.201, now defined by the complete ten courses "
+                 "of action"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The ten courses of action, <em>dasa kammapatha</em>, are one of "
+                              "the most widely attested ethical formulas across the early "
+                              "collections; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the same ladder, now carrying "
+                       "the fullest ethical taxonomy this nipāta gives in one place"),
+    ],
+    why=(
+        "The three bodily and four verbal deeds from the discourse before this one, now completed "
+        "with three mental items &mdash; covetousness, malice, and wrong view &mdash; to form the "
+        "ten courses of action, one of the tradition&rsquo;s standard complete descriptions of "
+        "unskillful and skillful conduct by body, speech, and mind together."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same ladder of untrue and true, now measured by the complete ten courses of "
+            "action &mdash; three bodily, four verbal, three mental."]),
+        ("Three doors, fully accounted for", [
+            "This discourse takes the seven items of AN 4.203 exactly as given and adds three "
+            "more: <em>abhijjhālu</em>, covetous; <em>byāpannacitta</em>, malicious; "
+            "<em>micchādiṭṭhika</em>, holding wrong view. With these three added, all three doors "
+            "of action &mdash; body, speech, and mind &mdash; are represented, and the classical "
+            "count of ten, <em>dasa kammapatha</em>, is complete.",
+            "This is worth recognizing as one of the tradition&rsquo;s central ethical formulas, "
+            "not merely one more item in this chapter&rsquo;s series. The ten courses of action "
+            "recur throughout the early collections as the standard full account of what "
+            "unskillful and skillful conduct consists of, and this discourse gives that formula in "
+            "its complete ten-item form, for the first time in this nipāta, rather than in any of "
+            "the partial versions met earlier."]),
+        ("Why the three mental items are different in kind", [
+            "It is worth pausing on what changes when the list moves from bodily and verbal items "
+            "to mental ones. Killing, stealing, sexual misconduct, and the four kinds of speech "
+            "are all things a person does, visible in principle to anyone watching. Covetousness, "
+            "malice, and wrong view are not actions in that sense; they are states a mind can be "
+            "in, with no necessary outward sign at all.",
+            "The discourse does not mark this shift or comment on it. It simply extends the same "
+            "vocabulary &mdash; something a person <em>is</em>, or does, that makes them untrue or "
+            "true &mdash; across a boundary between visible conduct and invisible disposition "
+            "without pausing at the boundary. That is itself a claim worth stating plainly: this "
+            "classification treats a mental state as continuous with an action, not as a separate "
+            "category requiring separate justification."]),
+        ("The positive three, precisely named", [
+            "The positive counterparts are given their own specific terms rather than simple "
+            "negations: not <em>anabhijjhālu</em>, non-covetous, but <em>anabhijjhālu</em> is in "
+            "fact what appears &mdash; yet Sujato renders the three positively as "
+            "<em>contented</em>, <em>kind-hearted</em>, and holding <em>right view</em>, giving "
+            "each a fuller English sense than a bare negation would carry.",
+            "That translation choice is worth noting because it matches something this collection "
+            "does consistently: negations of a fault are regularly given positive content rather "
+            "than left as mere absences. Not being covetous becomes contentment; not being "
+            "malicious becomes kind-heartedness; not holding wrong view becomes holding right view "
+            "&mdash; each a state in its own right, not simply the missing half of its opposite."]),
+        ("The completed classification, and its later echo", [
+            "This ten-item list is the richest content this chapter uses, and it does not appear "
+            "only once. Two discourses ahead, AN 4.207, and again at AN 4.209, this exact same "
+            "ten-item list of deeds reappears, recombined with two entirely different vocabularies "
+            "for the four-level scale itself. A reader reaching those later pages will recognize "
+            "the content immediately as this discourse&rsquo;s own list, reused whole.",
+            "That reuse is worth anticipating here rather than discovering cold later: this "
+            "chapter, having assembled its two richest content sets by AN 4.204 and AN 4.206, "
+            "spends its final four discourses recombining those two sets with new framing "
+            "vocabulary, rather than introducing further new content. This discourse marks the "
+            "midpoint of that arc."],
+        ),
+    ],
+    terms=[
+        ("dasa kammapatha",
+         "&ldquo;the ten courses of action&rdquo; &mdash; the complete classical formula, three "
+         "bodily, four verbal, three mental, given here in full for the first time in this "
+         "nipāta."),
+        ("abhijjhālu / anabhijjhālu",
+         "&ldquo;covetous&rdquo; and its opposite, rendered &lsquo;contented&rsquo; &mdash; the "
+         "first of the three mental items."),
+        ("byāpannacitta / abyāpannacitta",
+         "&ldquo;malicious&rdquo; and its opposite, rendered &lsquo;kind-hearted&rsquo; &mdash; "
+         "the second mental item."),
+        ("micchādiṭṭhika / sammādiṭṭhika",
+         "&ldquo;holding wrong view&rdquo; and &ldquo;holding right view&rdquo; &mdash; the third "
+         "mental item, and the term this discourse&rsquo;s neighbors will later expand into the "
+         "first factor of the eightfold path."),
+        ("manokamma",
+         "&ldquo;mental deed&rdquo; &mdash; the third door of action, completing the three bodily "
+         "and four verbal deeds already given at AN 4.203."),
+    ],
+    text_intro=(
+        "The discourse in full: four levels, defined by the complete ten courses of action. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four levels, one standard"),
+        ("p", "&sect;1", "an4.204:1.1-1.2"),
+        ("h3", "An untrue person"),
+        ("p", "&sect;2", "an4.204:2.1-2.3"),
+        ("h3", "An even more untrue person"),
+        ("p", "&sect;3", "an4.204:3.1-3.4"),
+        ("h3", "A true person"),
+        ("p", "&sect;4", "an4.204:4.1-4.3"),
+        ("h3", "An even truer person"),
+        ("p", "&sect;5", "an4.204:5.1-5.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse add to AN 4.203&rsquo;s seven deeds?",
+         "opts": [
+             "Two more bodily deeds",
+             "Three mental items: covetousness, malice, and wrong view",
+             "Two more verbal deeds",
+             "Nothing; it repeats AN 4.203"],
+         "correct": 1,
+         "expl": "Completing all three doors of action &mdash; body, speech, and mind."},
+        {"q": "What is the classical name for this completed ten-item list?",
+         "opts": [
+             "The eightfold path",
+             "<em>Dasa kammapatha</em>, the ten courses of action",
+             "The five precepts",
+             "The seven factors of awakening"],
+         "correct": 1,
+         "expl": "One of the tradition&rsquo;s standard full descriptions of unskillful and skillful conduct."},
+        {"q": "How do the three mental items differ in kind from the seven before them?",
+         "opts": [
+             "They do not differ at all",
+             "The first seven are visible conduct; the mental three are states with no necessary outward sign",
+             "The mental items are less serious",
+             "The mental items apply only to monastics"],
+         "correct": 1,
+         "expl": "The discourse extends the same vocabulary across this boundary without pausing at it."},
+        {"q": "What claim does that silent extension make, on the guide&rsquo;s reading?",
+         "opts": [
+             "That mental states do not matter",
+             "That a mental state is treated as continuous with an action, not a separate category needing separate justification",
+             "That mental states are more important than actions",
+             "That the ten items are unrelated to each other"],
+         "correct": 1,
+         "expl": "Stated plainly by the guide rather than by the text itself."},
+        {"q": "How are the positive counterparts of the three mental items rendered?",
+         "opts": [
+             "As bare negations only",
+             "With positive content of their own: contentment, kind-heartedness, and right view",
+             "Left undefined",
+             "Identical to the negative terms"],
+         "correct": 1,
+         "expl": "Consistent with how this collection regularly gives positive content to the negation of a fault."},
+        {"q": "Where does this exact ten-item list reappear later in the chapter?",
+         "opts": [
+             "Nowhere else",
+             "AN 4.207 and AN 4.209, recombined with two different vocabularies for the four-level scale",
+             "Only at AN 4.206",
+             "It does not reappear"],
+         "correct": 1,
+         "expl": "Reused whole, with new framing vocabulary attached."},
+        {"q": "What does the guide say this discourse marks within the chapter&rsquo;s overall arc?",
+         "opts": [
+             "The chapter&rsquo;s end",
+             "The midpoint &mdash; after this and AN 4.206, the chapter recombines its two richest content sets rather than introducing new content",
+             "The chapter&rsquo;s beginning",
+             "An unrelated aside"],
+         "correct": 1,
+         "expl": "Anticipated here rather than discovered cold at AN 4.207."},
+        {"q": "How many bodily, verbal, and mental items make up the ten courses of action?",
+         "opts": [
+             "Four, three, three",
+             "Three bodily, four verbal, three mental",
+             "Five, three, two",
+             "Two, four, four"],
+         "correct": 1,
+         "expl": "The classical three-four-three division."},
+        {"q": "What is <em>micchādiṭṭhika</em>?",
+         "opts": [
+             "Wrong effort",
+             "Holding wrong view &mdash; the third mental item, later expanded into the eightfold path&rsquo;s first factor",
+             "Wrong speech",
+             "Wrong livelihood"],
+         "correct": 1,
+         "expl": "A term this chapter&rsquo;s later discourses build on directly."},
+        {"q": "Is this the first time in the nipāta the complete ten-item list appears?",
+         "opts": [
+             "No, it appeared earlier in full",
+             "Yes &mdash; earlier discourses gave only partial versions",
+             "It never appears in complete form",
+             "It appeared once before, at AN 4.148"],
+         "correct": 1,
+         "expl": "AN 4.203 gave seven of the ten; this discourse completes the set."},
+    ],
+    marginalia=[
+        ("Ten courses", [
+            "3 bodily &middot; killing, stealing,",
+            "sexual misconduct",
+            "4 verbal &middot; false, backbiting,",
+            "harsh, nonsensical",
+            "3 mental &middot; coveting,",
+            "malice, wrong view",
+        ]),
+        ("A silent shift", [
+            "visible conduct &middot; body, speech",
+            "invisible states &middot; mind",
+            "&mdash; treated as continuous",
+        ]),
+        ("Positive, not just negated", [
+            "not-coveting &rarr; contentment",
+            "not-malicious &rarr; kind-hearted",
+            "not-wrong-view &rarr; right view",
+        ]),
+        ("Reused ahead", [
+            "AN 4.207 &middot; new frame",
+            "AN 4.209 &middot; another frame",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.204/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.203.html">AN 4.203 &middot; Seven Kinds of Deeds</a> &mdash; the discourse '
+        "this one completes.",
+        '<a href="an-4.207.html">AN 4.207 &middot; Bad Character (1st)</a> &mdash; where this same '
+        "ten-item list reappears with a new framing vocabulary.",
+        '<a href="an-4.205.html">AN 4.205 &middot; Eightfold</a> &mdash; next in this series, and '
+        "this chapter&rsquo;s other complete classification.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.205 — Aṭṭhaṅgikasutta
+# --------------------------------------------------------------------------- #
+page(
+    205, "Aṭṭhaṅgika", "Eightfold",
+    vagga=VAGGA_21,
+    meta_title="AN 4.205 — Eightfold | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Aṭṭhaṅgikasutta — the "
+        "same four-level template applied to the eightfold path, used here purely to classify "
+        "rather than to prescribe. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "The same four-level ladder as AN 4.201, now defined by the eightfold path"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The noble eightfold path is the tradition's central formula for "
+                              "practice, attested throughout the early collections; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the most familiar content this "
+                       "chapter uses, put to an unfamiliar purpose"),
+    ],
+    why=(
+        "The same ladder a fourth time, now filled with the tradition&rsquo;s best-known formula "
+        "for practice: right view, purpose, speech, action, livelihood, effort, mindfulness, and "
+        "immersion, against their eight wrong counterparts. What makes this discourse worth "
+        "pausing on is not the content, which needs no introduction, but the purpose it is put "
+        "to: sorting a person into a category rather than describing a path to walk."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eightfold path, elsewhere a course of practice, is here used purely as a "
+            "classification of what kind of person someone already is."]),
+        ("Content without introduction", [
+            "By the time a reader reaches this discourse, the eightfold path needs no "
+            "explanation: right view, right purpose, right speech, right action, right "
+            "livelihood, right effort, right mindfulness, right immersion, set against the "
+            "identical eight preceded by <em>wrong</em>. This reading guide will not re-derive "
+            "what each of the eight means; that ground has been covered in full elsewhere."]),
+        ("A path, used diagnostically rather than prescriptively", [
+            "What is worth noticing is the grammatical shift this discourse performs. The "
+            "eightfold path is ordinarily given as something to be developed, walked, or "
+            "cultivated &mdash; an active undertaking with a direction. Here it becomes, instead, "
+            "eight predicates attached to a person: someone <em>has</em> wrong view, wrong "
+            "purpose, and so on, or someone <em>has</em> the right eight.",
+            "That is a real change of register, not a trivial one. A path is something in "
+            "progress; a possession is something a person currently holds. This discourse asks "
+            "not &lsquo;is this person walking the path&rsquo; but &lsquo;which eight things does "
+            "this person currently have&rsquo;, and answers with the same blunt binary &mdash; "
+            "untrue or true, then intensified by whether the same eight are urged onto others "
+            "&mdash; that every other discourse in this chapter uses for every other kind of "
+            "content."]),
+        ("What stays constant across such different content", [
+            "It is worth sitting with how strange it is, on reflection, that a chapter can move "
+            "from the five lay precepts, to seven qualities of character, to bodily and verbal "
+            "deeds, to the complete ten courses of action, and now to the entire eightfold path, "
+            "without ever varying its structural question. Every one of these five discourses "
+            "asks the same thing: does this person have it, and do they also spread it to others?",
+            "That consistency is itself a claim, even though the discourse never states it "
+            "directly. It says that faith, ethical conduct, right view, and right immersion are, "
+            "for the purposes of this classification, functionally the same kind of thing: "
+            "content that sorts a person into one of four positions on an identical ladder, "
+            "regardless of how different that content looks in every other context it appears in."]),
+        ("Encouraging others toward the path", [
+            "The escalation clause reads slightly differently applied to the eightfold path than "
+            "it did applied to conduct. Encouraging someone to keep the five precepts is a "
+            "recognizable, ordinary act of moral instruction. Encouraging someone toward right "
+            "view or right immersion is closer to teaching the path itself &mdash; the discourse "
+            "is describing, in its intensified positive case, something close to what it means to "
+            "function as a teacher of the whole practice, not merely a good ethical influence.",
+            "Nothing in the text marks this shift explicitly; the same verb, <em>samādapeti</em>, "
+            "is used throughout the chapter without variation. But the content it is attached to "
+            "here reaches further than encouraging a friend not to lie."],
+        ),
+    ],
+    terms=[
+        ("aṭṭhaṅgika magga",
+         "&ldquo;the eightfold path&rdquo; &mdash; the discourse&rsquo;s title, and the "
+         "tradition&rsquo;s central formula for practice, used here as a classification rather "
+         "than a course of action."),
+        ("sammā-diṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the first of the eight, and the same term this "
+         "chapter&rsquo;s AN 4.204 used as the third mental course of action."),
+        ("micchā / sammā",
+         "&ldquo;wrong&rdquo; and &ldquo;right&rdquo; &mdash; the fixed prefix pair applied "
+         "identically across all eight path factors."),
+        ("hoti",
+         "&ldquo;has&rdquo;, is &mdash; the verb marking this discourse&rsquo;s shift from the "
+         "path as something walked to the path as something possessed."),
+        ("samādapeti",
+         "&ldquo;encourages&rdquo; &mdash; the same escalation verb used throughout this chapter, "
+         "here applied to content that reaches further than ordinary moral instruction."),
+    ],
+    text_intro=(
+        "The discourse in full: four levels, defined by the eightfold path, held rather than "
+        "walked. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four levels, one standard"),
+        ("p", "&sect;1", "an4.205:1.1-1.2"),
+        ("h3", "An untrue person"),
+        ("p", "&sect;2", "an4.205:2.1-2.3"),
+        ("h3", "An even more untrue person"),
+        ("p", "&sect;3", "an4.205:3.1-3.10"),
+        ("h3", "A true person"),
+        ("p", "&sect;4", "an4.205:4.1-4.3"),
+        ("h3", "An even truer person"),
+        ("p", "&sect;5", "an4.205:5.1-5.10"),
+    ],
+    quiz=[
+        {"q": "What content defines the four levels in this discourse?",
+         "opts": [
+             "The ten courses of action",
+             "The eightfold path: right view, purpose, speech, action, livelihood, effort, mindfulness, and immersion",
+             "The five precepts",
+             "Seven qualities of character"],
+         "correct": 1,
+         "expl": "Against their eight wrong counterparts."},
+        {"q": "How does this discourse use the eightfold path differently from its usual role?",
+         "opts": [
+             "It does not differ",
+             "As eight predicates a person currently has, rather than a course being walked or developed",
+             "As a ranking of the eight factors",
+             "As a set of monastic rules"],
+         "correct": 1,
+         "expl": "A real change of register from progress to possession."},
+        {"q": "What question does this discourse ask instead of &lsquo;is this person walking the path&rsquo;?",
+         "opts": [
+             "&lsquo;How far along the path is this person?&rsquo;",
+             "&lsquo;Which eight things does this person currently have?&rsquo;",
+             "&lsquo;Who taught this person the path?&rsquo;",
+             "&lsquo;How long has this person practiced?&rsquo;"],
+         "correct": 1,
+         "expl": "Answered with the same binary, then intensified, ladder as every other discourse in this chapter."},
+        {"q": "What consistency does the guide highlight across this chapter&rsquo;s first five discourses?",
+         "opts": [
+             "None, the content is unrelated each time",
+             "Every one asks the same structural question &mdash; does this person have it, and do they spread it to others",
+             "Each discourse ranks its content differently",
+             "Only some discourses use the encouragement clause"],
+         "correct": 1,
+         "expl": "Despite moving from precepts to character to deeds to the eightfold path."},
+        {"q": "What claim does that consistency implicitly make, according to the guide?",
+         "opts": [
+             "That the path is unimportant",
+             "That very different kinds of content are functionally the same kind of thing for the purposes of this classification",
+             "That the eightfold path is superior to the other content",
+             "That the chapter contradicts itself"],
+         "correct": 1,
+         "expl": "Never stated directly by the discourse."},
+        {"q": "How does encouraging others differ in this discourse compared to encouraging others in AN 4.201?",
+         "opts": [
+             "It does not differ at all",
+             "Encouraging toward right view or immersion reaches closer to teaching the whole practice, not just ordinary moral instruction",
+             "It is dropped entirely",
+             "It only applies to monastics here"],
+         "correct": 1,
+         "expl": "The same verb is used throughout, but the content it is attached to reaches further."},
+        {"q": "Does the guide re-derive what each of the eight path factors means?",
+         "opts": [
+             "Yes, in full",
+             "No &mdash; that ground has been covered in full elsewhere",
+             "Only for right view",
+             "Only for right immersion"],
+         "correct": 1,
+         "expl": "The content needs no fresh introduction by this point."},
+        {"q": "What verb marks the eightfold path being treated as a possession rather than a path walked?",
+         "opts": [
+             "<em>Bhāveti</em>, develops",
+             "<em>Hoti</em>, has or is",
+             "<em>Paṭipajjati</em>, practices",
+             "<em>Carati</em>, walks"],
+         "correct": 1,
+         "expl": "Someone <em>has</em> wrong view, or the right eight."},
+        {"q": "What term connects this discourse to AN 4.204&rsquo;s third mental course of action?",
+         "opts": [
+             "Right effort",
+             "<em>Sammā-diṭṭhi</em>, right view, the same term used there for the positive counterpart of wrong view",
+             "Right livelihood",
+             "Right speech"],
+         "correct": 1,
+         "expl": "Now positioned as the first factor of the eightfold path."},
+        {"q": "What comes next after this discourse in the chapter?",
+         "opts": [
+             "A return to the five precepts",
+             "The tenfold path, extending this same eight by two more factors",
+             "The end of the chapter",
+             "A repeat of this discourse"],
+         "correct": 1,
+         "expl": "AN 4.206, completing what this discourse leaves at eight."},
+    ],
+    marginalia=[
+        ("Eight factors", [
+            "view &middot; purpose",
+            "speech &middot; action",
+            "livelihood &middot; effort",
+            "mindfulness &middot; immersion",
+        ]),
+        ("A shift in register", [
+            "usually: a path walked",
+            "here: eight things had",
+        ]),
+        ("Same question, new content", [
+            "has it? &middot; spreads it?",
+            "&mdash; five times over, so far",
+        ]),
+        ("Cross-references", [
+            "AN 4.204 &middot; the ten courses",
+            "AN 4.196 &middot; right freedom, foreshadowed",
+            "AN 4.206 &middot; next: extended to ten",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.205/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.196.html">AN 4.196 &middot; With Sāḷha</a> &mdash; where right freedom was '
+        "silently added to the standard eight.",
+        '<a href="an-4.204.html">AN 4.204 &middot; Ten Kinds of Deeds</a> &mdash; the discourse '
+        "before this one in the chapter.",
+        '<a href="an-4.206.html">AN 4.206 &middot; The Path with Ten Factors</a> &mdash; next in '
+        "this series, and the same eight extended to ten.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.206 — Dasamaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    206, "Dasamagga", "The Path with Ten Factors",
+    vagga=VAGGA_21,
+    meta_title="AN 4.206 — The Path with Ten Factors | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dasamaggasutta — the "
+        "eightfold path completed to ten by right knowledge and right freedom, confirming what AN "
+        "4.196's warrior simile silently assumed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "The same four-level ladder as AN 4.201, now defined by the tenfold path"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The tenfold path, extending the standard eight with right "
+                              "knowledge and right freedom, is attested for the arahant across the "
+                              "early collections; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a short discourse that "
+                       "resolves a question this nipāta raised without answering it earlier"),
+    ],
+    why=(
+        "The eightfold path from the discourse before this one, now completed to ten by two "
+        "further factors: right knowledge and right freedom. This is the discourse this chapter "
+        "has been building toward since AN 4.196, several chapters back, quietly used "
+        "<em>sammā-vimutti</em> as though it belonged beside right view and right immersion "
+        "without ever naming the scheme it came from. Here that scheme is finally given in full, "
+        "by name."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same ladder once more, now measured by ten path factors: the familiar eight plus "
+            "right knowledge and right freedom, completing a scheme this nipāta has already used "
+            "without naming."]),
+        ("Two more factors, named plainly", [
+            "The content is simple to state: everything AN 4.205 already gave, plus "
+            "<em>sammā-ñāṇa</em>, right knowledge, and <em>sammā-vimutti</em>, right freedom, "
+            "against their ten wrong counterparts. Ten factors in total, replacing the eightfold "
+            "path&rsquo;s usual stopping point with two further items that name what the path "
+            "produces rather than what leads to it."]),
+        ("Answering a question this nipāta already raised", [
+            "This is worth reading directly against AN 4.196, several chapters back in the "
+            "Brāhmaṇavagga, where a warrior simile mapped a noble disciple&rsquo;s three remaining "
+            "qualities onto right immersion, right view, and &mdash; without any comment marking "
+            "it as unusual &mdash; right freedom. This reading guide noted at the time that "
+            "<em>sammā-vimutti</em> is not one of the standard eight factors, and that the "
+            "tradition elsewhere extends the path to ten for one who has completed it.",
+            "This discourse is where that extension is finally given explicitly, by its own name, "
+            "with both additional factors stated and defined by their negation exactly as the "
+            "standard eight are. A reader who met AN 4.196&rsquo;s quiet inclusion of "
+            "<em>sammā-vimutti</em> as a puzzle to be filed away now has it resolved: this is the "
+            "scheme that discourse was drawing on."]),
+        ("Knowledge and freedom, added at the end", [
+            "It is worth asking why these two, and why last. Right knowledge and right freedom are "
+            "not further instructions for how to act, in the way the first eight are; they name "
+            "what a completed path culminates in &mdash; knowing rightly, and being rightly freed.",
+            "Placed at the end of the list rather than woven into the eight, they read as a "
+            "recognition that the ordinary eight-factor path, developed fully, arrives somewhere, "
+            "and that arrival deserves its own name rather than being left implicit. The tenfold "
+            "scheme is, in that sense, the eightfold path plus an account of what walking it all "
+            "the way through actually amounts to."]),
+        ("The same ladder, applied to the richest content in the chapter so far", [
+            "Structurally, nothing changes from the five discourses before this one: an untrue "
+            "person has the ten wrong factors, an even more untrue person has them and spreads "
+            "them, a true person has the ten right factors, an even truer person has them and "
+            "spreads them. What has changed is only the size and completeness of what is being "
+            "measured.",
+            "This is, along with AN 4.204&rsquo;s ten courses of action, the richest content this "
+            "chapter uses, and like that discourse, its content does not appear only here. The "
+            "chapter&rsquo;s final two discourses, AN 4.208 and AN 4.210, will take this exact "
+            "ten-factor list and recombine it with new framing vocabulary, exactly as happens to "
+            "AN 4.204&rsquo;s ten deeds at AN 4.207 and AN 4.209."],
+        ),
+    ],
+    terms=[
+        ("sammā-ñāṇa",
+         "&ldquo;right knowledge&rdquo; &mdash; the ninth factor, naming what is known rather than "
+         "what is done."),
+        ("sammā-vimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth factor, met already at AN 4.196 without "
+         "being named as part of a larger scheme."),
+        ("dasa-aṅga magga",
+         "&ldquo;the tenfold path&rdquo; &mdash; the standard eight plus knowledge and freedom, "
+         "given here in full for the first time in this nipāta."),
+        ("asekha",
+         "&ldquo;beyond training&rdquo;, one who has completed the path &mdash; not used in this "
+         "discourse, but the standard term for the person to whom this ten-factor scheme applies."),
+        ("micchā-ñāṇa / micchā-vimutti",
+         "&ldquo;wrong knowledge&rdquo; and &ldquo;wrong freedom&rdquo; &mdash; the ninth and "
+         "tenth wrong factors, mirroring the two additions on the negative side."),
+    ],
+    text_intro=(
+        "The discourse in full: four levels, defined by the eightfold path completed to ten. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four levels, one standard"),
+        ("p", "&sect;1", "an4.206:1.1-1.2"),
+        ("h3", "An untrue person"),
+        ("p", "&sect;2", "an4.206:2.1-2.3"),
+        ("h3", "An even more untrue person"),
+        ("p", "&sect;3", "an4.206:3.1-3.4"),
+        ("h3", "A true person"),
+        ("p", "&sect;4", "an4.206:4.1-4.3"),
+        ("h3", "An even truer person"),
+        ("p", "&sect;5", "an4.206:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What two factors does this discourse add to the eightfold path?",
+         "opts": [
+             "Right knowledge and right freedom",
+             "Right conduct and right speech",
+             "Right teaching and right community",
+             "Right effort and right mindfulness"],
+         "correct": 1,
+         "expl": "Completing the scheme to ten factors."},
+        {"q": "Which earlier discourse in this nipāta used <em>sammā-vimutti</em> without naming the scheme it belongs to?",
+         "opts": [
+             "AN 4.181",
+             "AN 4.196, in its warrior simile, mapped onto right freedom without comment",
+             "AN 4.185",
+             "AN 4.190"],
+         "correct": 1,
+         "expl": "Noted at the time as an unusual inclusion, now resolved."},
+        {"q": "What does this discourse do for that earlier puzzle?",
+         "opts": [
+             "It ignores it",
+             "It gives the tenfold scheme explicitly, by name, resolving where <em>sammā-vimutti</em> came from",
+             "It contradicts AN 4.196",
+             "It removes right freedom from the path"],
+         "correct": 1,
+         "expl": "This is the scheme AN 4.196 was drawing on."},
+        {"q": "How do right knowledge and right freedom differ from the first eight factors?",
+         "opts": [
+             "They do not differ",
+             "They name what the completed path culminates in, rather than further instructions for how to act",
+             "They are less important",
+             "They apply only to laypeople"],
+         "correct": 1,
+         "expl": "Knowing rightly, and being rightly freed."},
+        {"q": "Why are the two additional factors placed at the end rather than woven into the eight?",
+         "opts": [
+             "Alphabetical order",
+             "They represent where the eightfold path, fully developed, arrives, deserving their own name rather than being left implicit",
+             "Random placement",
+             "They are less certain factors"],
+         "correct": 1,
+         "expl": "The tenfold scheme as the eightfold path plus an account of its culmination."},
+        {"q": "Does the escalation structure change with this richer content?",
+         "opts": [
+             "Yes, a fifth level appears",
+             "No &mdash; the same four-level ladder, only the size and completeness of the content changes",
+             "Yes, the encouragement clause is dropped",
+             "Yes, it becomes a grid"],
+         "correct": 1,
+         "expl": "Structurally identical to the five discourses before it."},
+        {"q": "Where does this ten-factor list reappear later in the chapter?",
+         "opts": [
+             "Nowhere else",
+             "AN 4.208 and AN 4.210, recombined with new framing vocabulary",
+             "Only at AN 4.207",
+             "It does not reappear"],
+         "correct": 1,
+         "expl": "Exactly as AN 4.204&rsquo;s ten deeds are reused at AN 4.207 and AN 4.209."},
+        {"q": "What is <em>sammā-ñāṇa</em>?",
+         "opts": [
+             "Right effort",
+             "Right knowledge, the ninth factor, naming what is known rather than what is done",
+             "Right mindfulness",
+             "Right livelihood"],
+         "correct": 1,
+         "expl": "Added alongside right freedom to complete the ten."},
+        {"q": "Along with AN 4.204, what does this discourse represent in the chapter?",
+         "opts": [
+             "The chapter&rsquo;s shortest discourse",
+             "The richest content this chapter uses, later reused with new framing",
+             "An unrelated tangent",
+             "A repeat of AN 4.201"],
+         "correct": 1,
+         "expl": "Both content sets get recombined in the chapter&rsquo;s final four discourses."},
+        {"q": "What term, not used in this discourse, names the person to whom the tenfold scheme applies?",
+         "opts": [
+             "<em>Sekha</em>, one still training",
+             "<em>Asekha</em>, one beyond training, who has completed the path",
+             "<em>Puthujjana</em>, an ordinary person",
+             "<em>Ariya</em>, noble"],
+         "correct": 1,
+         "expl": "The standard term for someone who has finished the path, though not named here."},
+    ],
+    marginalia=[
+        ("Ten factors", [
+            "the familiar eight",
+            "+ right knowledge",
+            "+ right freedom",
+        ]),
+        ("A puzzle resolved", [
+            "AN 4.196 &middot; used right freedom",
+            "without naming its scheme",
+            "&mdash; this discourse names it",
+        ]),
+        ("What the extra two name", [
+            "not further practice",
+            "but the path&rsquo;s culmination",
+        ]),
+        ("Reused ahead", [
+            "AN 4.208 &middot; new frame",
+            "AN 4.210 &middot; another frame",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.206/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.196.html">AN 4.196 &middot; With Sāḷha</a> &mdash; where this scheme was '
+        "used without being named.",
+        '<a href="an-4.205.html">AN 4.205 &middot; Eightfold</a> &mdash; the discourse this one '
+        "completes.",
+        '<a href="an-4.207.html">AN 4.207 &middot; Bad Character (1st)</a> &mdash; next in this '
+        "series, and the chapter&rsquo;s recombination arc begins.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.207 — Paṭhamapāpadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    207, "Paṭhamapāpadhamma", "Bad Character (1st)",
+    vagga=VAGGA_21,
+    meta_title="AN 4.207 — Bad Character (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Pāpadhammasutta — "
+        "AN 4.204's ten courses of action recombined with a new vocabulary, bad and worse, good "
+        "and better, opening the chapter's final recombination arc. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "The same ladder, the ten courses of action reused whole, and a new vocabulary "
+                 "of bad, worse, good, better"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The pairing of bad and good with their comparatives is standard "
+                              "across the early collections; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; identical content to AN 4.204, "
+                       "under a different name, and worth reading for what the new name changes"),
+    ],
+    why=(
+        "The ten courses of action from AN 4.204, unchanged, now sorted with a different "
+        "vocabulary: not an untrue person and a true person, but simply <em>bad</em>, "
+        "<em>worse</em>, <em>good</em>, <em>better</em>. This is the first of four discourses "
+        "closing the chapter by recombining its two richest content sets &mdash; the ten deeds "
+        "and the tenfold path &mdash; with two new framing vocabularies neither has used before."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same ten courses of action already given at AN 4.204, now classified as bad, "
+            "worse, good, or better rather than as an untrue or true person."]),
+        ("A grid, revealed", [
+            "This discourse opens the chapter&rsquo;s final movement, and it is worth naming the "
+            "shape of that movement directly, because it has not appeared anywhere else in this "
+            "collection quite this way. AN 4.204 gave the ten courses of action under the "
+            "<em>sappurisa</em> vocabulary. AN 4.206 gave the tenfold path, also under that "
+            "vocabulary. This discourse and the three that follow it take those same two content "
+            "sets and cross them against two new vocabularies for describing the four levels "
+            "themselves.",
+            "The result, once all four are read together, is a genuine two-by-two grid: content "
+            "&mdash; the ten deeds, or the tenfold path &mdash; crossed with vocabulary &mdash; "
+            "bad/worse/good/better as adjectives about a person, or bad/worse/good/better as a "
+            "quality attributed to them. This discourse fills the first cell: ten deeds, person "
+            "vocabulary."]),
+        ("A different word, the same content", [
+            "The content is given in AN 4.207 exactly as it was at AN 4.204, with the abridgment "
+            "marks compressed further since the reciter has already been through the full list "
+            "twice by this point in the chapter: killing, stealing, sexual misconduct, the four "
+            "kinds of bad speech, covetousness, malice, wrong view &mdash; and their positive "
+            "opposites.",
+            "What changes is only the header vocabulary: <em>pāpa</em>, bad, and "
+            "<em>pāpatara</em>, worse, replacing <em>asappurisa</em> and its comparative; "
+            "<em>kalyāṇa</em>, good, and <em>kalyāṇatara</em>, better, replacing "
+            "<em>sappurisa</em>. Where the earlier vocabulary named a kind of person &mdash; "
+            "<em>sappurisa</em> is literally &lsquo;with-person&rsquo;, a good person &mdash; "
+            "<em>pāpa</em> and <em>kalyāṇa</em> are plain adjectives, describing a quality without "
+            "building &lsquo;person&rsquo; into the word itself."]),
+        ("Why a discourse might exist just to rename its own content", [
+            "It is worth asking directly what this discourse accomplishes that AN 4.204 did not, "
+            "since the substantive content is unchanged. The honest answer is retrieval, in the "
+            "same spirit as the synonym-series met earlier in the Fours: a teaching that could be "
+            "reached for under the word &lsquo;bad&rsquo; is not automatically reachable under the "
+            "word &lsquo;untrue person&rsquo;, in a tradition organized around recitation and "
+            "recall rather than a written index.",
+            "Filing the identical ten-item classification under a second vocabulary means a "
+            "listener or reciter who thinks of the question as &lsquo;what makes someone "
+            "bad&rsquo; rather than &lsquo;what makes someone an untrue person&rsquo; can still "
+            "find the teaching. The repetition that can look, on paper, like padding is doing the "
+            "same indexing work this collection performs throughout, at a smaller scale here than "
+            "in the five-fold light series several chapters back."]),
+        ("What the next three discourses will do", [
+            "AN 4.208 will take the tenfold path and give it this same bad/worse/good/better "
+            "vocabulary. AN 4.209 will take the ten deeds of this discourse and give them a third "
+            "vocabulary again &mdash; <em>pāpadhamma</em>, bad character, rather than simply bad. "
+            "AN 4.210 completes the grid by giving the tenfold path that same third vocabulary.",
+            "Read as a set, these four discourses are less four separate teachings than one "
+            "demonstration, repeated with the labels swapped: the classification survives being "
+            "filed under any of several names, because what is actually being sorted &mdash; "
+            "deeds, or the whole path, weighed on the same ladder of intensification &mdash; does "
+            "not depend on which word introduces it."],
+        ),
+    ],
+    terms=[
+        ("pāpa",
+         "&ldquo;bad&rdquo; &mdash; a plain adjective, replacing <em>asappurisa</em> without "
+         "changing the underlying ten-item content."),
+        ("pāpatara",
+         "&ldquo;worse&rdquo; &mdash; the comparative, marking the same escalation by encouraging "
+         "others as <em>bhiyyo asappurisa</em> did."),
+        ("kalyāṇa / kalyāṇatara",
+         "&ldquo;good&rdquo; and &ldquo;better&rdquo; &mdash; the positive pair, replacing "
+         "<em>sappurisa</em> and its comparative."),
+        ("dasa kammapatha",
+         "&ldquo;the ten courses of action&rdquo; &mdash; reused whole from AN 4.204, with "
+         "abridgment marks compressed further this time."),
+        ("pāpadhamma",
+         "&ldquo;bad character&rdquo; &mdash; not the vocabulary of this discourse, but the third "
+         "framing this chapter will introduce two discourses ahead, at AN 4.209."),
+    ],
+    text_intro=(
+        "The discourse in full: bad, worse, good, and better, defined by the ten courses of "
+        "action. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad, worse, good, better"),
+        ("p", "&sect;1", "an4.207:1.1-1.2"),
+        ("h3", "Who&rsquo;s bad"),
+        ("p", "&sect;2", "an4.207:2.1-2.3"),
+        ("h3", "Who&rsquo;s worse"),
+        ("p", "&sect;3", "an4.207:3.1-3.3"),
+        ("h3", "Who&rsquo;s good"),
+        ("p", "&sect;4", "an4.207:4.1-4.3"),
+        ("h3", "Who&rsquo;s better"),
+        ("p", "&sect;5", "an4.207:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What content defines the four levels in this discourse?",
+         "opts": [
+             "A new set of qualities",
+             "The identical ten courses of action already given at AN 4.204",
+             "The eightfold path",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "Unchanged content, reused whole."},
+        {"q": "What changes between AN 4.204 and this discourse?",
+         "opts": [
+             "The escalation logic",
+             "Only the header vocabulary: bad/worse/good/better replacing untrue person/true person",
+             "The number of levels",
+             "The encouragement clause is dropped"],
+         "correct": 1,
+         "expl": "The substantive content is unchanged."},
+        {"q": "What two-by-two grid does the guide say this discourse opens?",
+         "opts": [
+             "No grid; four unrelated discourses",
+             "Content (ten deeds or tenfold path) crossed with vocabulary (bad/worse/good/better as adjective, or as a quality)",
+             "A grid of speakers",
+             "A grid of settings"],
+         "correct": 1,
+         "expl": "This discourse fills the first cell: ten deeds, person vocabulary."},
+        {"q": "What is the literal meaning of <em>sappurisa</em>, and how does <em>kalyāṇa</em> differ from it?",
+         "opts": [
+             "They are identical in structure",
+             "<em>Sappurisa</em> builds &lsquo;person&rsquo; into the word itself; <em>kalyāṇa</em> is a plain adjective describing a quality",
+             "<em>Kalyāṇa</em> is more formal",
+             "<em>Sappurisa</em> is the plainer term"],
+         "correct": 1,
+         "expl": "&lsquo;With-person&rsquo; versus a bare quality-word."},
+        {"q": "What does the guide say this discourse accomplishes despite unchanged content?",
+         "opts": [
+             "Nothing of value",
+             "Retrieval &mdash; filing the same teaching under a second vocabulary so it can be found by a different word",
+             "A doctrinal correction",
+             "A ranking of the two vocabularies"],
+         "correct": 1,
+         "expl": "The same indexing work performed by the earlier synonym-series on light."},
+        {"q": "What will AN 4.208 do?",
+         "opts": [
+             "Repeat this discourse exactly",
+             "Give the tenfold path this same bad/worse/good/better vocabulary",
+             "Introduce a fifth level",
+             "Return to the ten deeds"],
+         "correct": 1,
+         "expl": "Filling the second cell of the grid."},
+        {"q": "What third vocabulary does AN 4.209 introduce?",
+         "opts": [
+             "No new vocabulary",
+             "<em>Pāpadhamma</em>, bad character, applied again to the ten deeds",
+             "A return to <em>sappurisa</em>",
+             "A fourth level"],
+         "correct": 1,
+         "expl": "Completing the grid&rsquo;s remaining two cells with AN 4.210."},
+        {"q": "How does the guide describe the four discourses AN 4.207 to AN 4.210 as a set?",
+         "opts": [
+             "Four unrelated teachings",
+             "One demonstration repeated with labels swapped, since the classification survives being filed under different names",
+             "A contradiction requiring resolution",
+             "A ranking of the four vocabularies"],
+         "correct": 1,
+         "expl": "What is sorted does not depend on which word introduces it."},
+        {"q": "Does this discourse&rsquo;s escalation clause still include encouraging others?",
+         "opts": [
+             "No, it is dropped",
+             "Yes, unchanged from every other discourse in this chapter",
+             "Only for the negative case",
+             "Only for the positive case"],
+         "correct": 1,
+         "expl": "The same verb, <em>samādapeti</em>, throughout."},
+        {"q": "Where does this chapter&rsquo;s recombination arc begin?",
+         "opts": [
+             "AN 4.201",
+             "This discourse, AN 4.207",
+             "AN 4.204",
+             "AN 4.206"],
+         "correct": 1,
+         "expl": "After the chapter&rsquo;s two richest content sets were assembled at AN 4.204 and AN 4.206."},
+    ],
+    marginalia=[
+        ("The grid", [
+            "content: ten deeds &middot; tenfold path",
+            "frame: bad/good &middot; bad character",
+        ]),
+        ("This page fills", [
+            "ten deeds",
+            "+ bad/worse/good/better",
+        ]),
+        ("Same content, new word", [
+            "<span class=\"pali\">sappurisa</span>with-person",
+            "<span class=\"pali\">kalyāṇa</span>a bare quality",
+        ]),
+        ("Cross-references", [
+            "AN 4.204 &middot; the content, first given",
+            "AN 4.208 &middot; next cell of the grid",
+            "AN 4.141 &middot; the same indexing logic, on light",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.207/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.204.html">AN 4.204 &middot; Ten Kinds of Deeds</a> &mdash; the source of '
+        "this discourse&rsquo;s content.",
+        '<a href="an-4.141.html">AN 4.141 &middot; Brightness</a> &mdash; the earlier, larger '
+        "example of the same filing-by-synonym logic.",
+        '<a href="an-4.208.html">AN 4.208 &middot; Bad Character (2nd)</a> &mdash; next in this '
+        "series, and the grid&rsquo;s second cell.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.208 — Dutiyapāpadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    208, "Dutiyapāpadhamma", "Bad Character (2nd)",
+    vagga=VAGGA_21,
+    meta_title="AN 4.208 — Bad Character (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Pāpadhammasutta — "
+        "the tenfold path recombined with AN 4.207's bad/worse/good/better vocabulary, filling the "
+        "second cell of the chapter's closing grid. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "The same ladder, the tenfold path reused whole, and AN 4.207's bad/worse/good/"
+                 "better vocabulary"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "See AN 4.206; this reading guide does not assert a specific "
+                              "matching sutra number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the shortest way to see the "
+                       "chapter&rsquo;s closing grid completed by half"),
+    ],
+    why=(
+        "The tenfold path from AN 4.206 &mdash; the eightfold path plus right knowledge and right "
+        "freedom &mdash; now sorted with the bad/worse/good/better vocabulary AN 4.207 introduced "
+        "for the ten deeds. Two content sets, two vocabularies met so far; this discourse "
+        "completes the second column."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The tenfold path, unchanged from AN 4.206, now classified as bad, worse, good, or "
+            "better rather than as an untrue or true person."]),
+        ("The grid, one cell further", [
+            "This discourse is the plainest possible confirmation that the recombination begun at "
+            "AN 4.207 is systematic rather than incidental. AN 4.207 took the ten deeds and "
+            "attached the bad/worse/good/better vocabulary. This discourse takes the tenfold path "
+            "&mdash; the eight familiar path factors plus right knowledge and right freedom "
+            "&mdash; and attaches the identical vocabulary.",
+            "Between the two, every content set this chapter has assembled has now been paired "
+            "with every vocabulary it has introduced except one: the ten deeds and the tenfold "
+            "path have each been given the <em>sappurisa</em> framing and the <em>pāpa</em> "
+            "framing. Only the third vocabulary, still to come, remains unpaired with either "
+            "content set."]),
+        ("Nothing new in the content, and that is the point", [
+            "There is very little to say about this discourse&rsquo;s substance that AN 4.206 did "
+            "not already say, and very little to say about its vocabulary that AN 4.207 did not "
+            "already establish. That is not a weakness in the discourse; it is exactly what a "
+            "reader should expect once the grid&rsquo;s shape has been recognized.",
+            "The manuscript itself reflects this: the abridgment marks compress further here than "
+            "at any earlier discourse in the chapter, because by this point a reciter has been "
+            "through both the ten-factor path and the bad/worse/good/better frame separately, and "
+            "only needs to be told that the two are now being joined."]),
+        ("What completing half the grid demonstrates", [
+            "With this discourse, two of the grid&rsquo;s four cells are filled: ten deeds under "
+            "the bad/worse/good/better frame, and the tenfold path under the same frame. What this "
+            "half of the demonstration already shows is that neither content set is more "
+            "naturally suited to one vocabulary than the other &mdash; the ten deeds and the "
+            "tenfold path have both taken the <em>sappurisa</em> framing and the <em>pāpa</em> "
+            "framing without any apparent strain.",
+            "That is worth stating plainly, because it supports the reading offered at AN 4.207: "
+            "the vocabulary is doing retrieval work, not conceptual work. If a different vocabulary "
+            "genuinely changed what was being claimed about the content, this pairing would be "
+            "expected to fit awkwardly in at least one direction. It does not."]),
+        ("What remains", [
+            "Two discourses are left in this chapter, and both belong to the third vocabulary: "
+            "<em>pāpadhamma</em>, bad character, applied first to the ten deeds again at AN 4.209, "
+            "then to the tenfold path at AN 4.210, closing both the grid and the chapter at once."],
+        ),
+    ],
+    terms=[
+        ("dasa-aṅga magga",
+         "&ldquo;the tenfold path&rdquo; &mdash; reused whole from AN 4.206, with heavier "
+         "abridgment than any earlier discourse in this chapter."),
+        ("pāpa / pāpatara / kalyāṇa / kalyāṇatara",
+         "&ldquo;bad&rdquo;, &ldquo;worse&rdquo;, &ldquo;good&rdquo;, &ldquo;better&rdquo; "
+         "&mdash; the vocabulary introduced at AN 4.207, applied here to a different content set."),
+        ("sammā-ñāṇa / sammā-vimutti",
+         "&ldquo;right knowledge&rdquo; and &ldquo;right freedom&rdquo; &mdash; the ninth and "
+         "tenth path factors, carried over unchanged from AN 4.206."),
+        ("peyyāla",
+         "&ldquo;repetition-series&rdquo; &mdash; the technical term for what this discourse is: "
+         "a filing rather than a new teaching, in the same family as AN 4.141&ndash;145."),
+        ("pāpadhamma",
+         "&ldquo;bad character&rdquo; &mdash; the third vocabulary, still to come, that will close "
+         "the chapter&rsquo;s grid at AN 4.209 and AN 4.210."),
+    ],
+    text_intro=(
+        "The discourse in full: bad, worse, good, and better, defined by the tenfold path. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad, worse, good, better"),
+        ("p", "&sect;1", "an4.208:1.1-1.3"),
+        ("h3", "Who&rsquo;s bad"),
+        ("p", "&sect;2", "an4.208:2.1-2.3"),
+        ("h3", "Who&rsquo;s worse"),
+        ("p", "&sect;3", "an4.208:3.1-3.4"),
+        ("h3", "Who&rsquo;s good"),
+        ("p", "&sect;4", "an4.208:4.1-4.3"),
+        ("h3", "Who&rsquo;s better"),
+        ("p", "&sect;5", "an4.208:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What content defines the four levels in this discourse?",
+         "opts": [
+             "The five precepts",
+             "The tenfold path from AN 4.206, unchanged",
+             "The ten deeds from AN 4.204",
+             "A new set of qualities"],
+         "correct": 1,
+         "expl": "The eight familiar path factors plus right knowledge and right freedom."},
+        {"q": "What vocabulary does this discourse use for the four levels?",
+         "opts": [
+             "<em>Sappurisa</em>, as in AN 4.201&ndash;206",
+             "<em>Pāpa/pāpatara/kalyāṇa/kalyāṇatara</em>, the same vocabulary introduced at AN 4.207",
+             "A new fourth vocabulary",
+             "No vocabulary is given"],
+         "correct": 1,
+         "expl": "The same bad/worse/good/better frame, applied to a different content set."},
+        {"q": "After AN 4.207 and this discourse, how many of the grid&rsquo;s four cells are filled?",
+         "opts": [
+             "One",
+             "Two &mdash; both content sets paired with the bad/worse/good/better vocabulary",
+             "Three",
+             "All four"],
+         "correct": 1,
+         "expl": "The <em>pāpadhamma</em> vocabulary and its pairings remain."},
+        {"q": "What does the guide say this discourse demonstrates by pairing cleanly with its content?",
+         "opts": [
+             "That the vocabulary changes the underlying claim",
+             "That the vocabulary is doing retrieval work rather than conceptual work, since neither content set fits awkwardly with either frame",
+             "That the tenfold path is superior to the ten deeds",
+             "That the discourse contains an error"],
+         "correct": 1,
+         "expl": "If the vocabulary changed the claim, an awkward fit would be expected somewhere."},
+        {"q": "How does the manuscript reflect the discourse&rsquo;s position in the chapter&rsquo;s arc?",
+         "opts": [
+             "It expands with new detail",
+             "Its abridgment marks compress further than any earlier discourse, needing only to signal that two known pieces are being joined",
+             "It repeats every word in full",
+             "It omits the escalation clause"],
+         "correct": 1,
+         "expl": "A reciter has already been through both pieces separately by this point."},
+        {"q": "What two discourses remain after this one, and what do they share?",
+         "opts": [
+             "AN 4.209 and AN 4.210, both using the third vocabulary, <em>pāpadhamma</em>",
+             "No discourses remain",
+             "AN 4.201 and AN 4.202, repeated",
+             "Only one discourse remains"],
+         "correct": 1,
+         "expl": "Applied first to the ten deeds again, then to the tenfold path."},
+        {"q": "What technical term describes what this discourse is, rather than a new teaching?",
+         "opts": [
+             "A tetralemma",
+             "A <em>peyyāla</em>, a filing in the same family as AN 4.141&ndash;145",
+             "A conversion narrative",
+             "A simile"],
+         "correct": 1,
+         "expl": "A repetition-series rather than fresh content."},
+        {"q": "Does this discourse add any new path factors beyond AN 4.206&rsquo;s ten?",
+         "opts": [
+             "Yes, an eleventh factor",
+             "No &mdash; the identical ten, unchanged",
+             "It removes two factors",
+             "It reorders the ten"],
+         "correct": 1,
+         "expl": "Reused whole."},
+        {"q": "What is the relationship between AN 4.207 and this discourse?",
+         "opts": [
+             "Unrelated content and vocabulary",
+             "Same vocabulary, different content &mdash; ten deeds there, tenfold path here",
+             "Same content, different vocabulary",
+             "Identical in every respect"],
+         "correct": 1,
+         "expl": "Two cells of the same grid."},
+        {"q": "How much does this discourse&rsquo;s substance add beyond AN 4.206 and AN 4.207 combined?",
+         "opts": [
+             "A great deal of new content",
+             "Very little &mdash; exactly what a reader should expect once the grid&rsquo;s shape is recognized",
+             "A contradiction of both",
+             "An entirely new doctrine"],
+         "correct": 1,
+         "expl": "The point is the systematic recombination itself, not new substance."},
+    ],
+    marginalia=[
+        ("This page fills", [
+            "tenfold path",
+            "+ bad/worse/good/better",
+        ]),
+        ("Two cells, now filled", [
+            "ten deeds + bad/good",
+            "tenfold path + bad/good",
+        ]),
+        ("What remains", [
+            "pāpadhamma + ten deeds",
+            "pāpadhamma + tenfold path",
+        ]),
+        ("Neither content strains", [
+            "against either vocabulary",
+            "&mdash; retrieval, not new claims",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.208/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.206.html">AN 4.206 &middot; The Path with Ten Factors</a> &mdash; the source '
+        "of this discourse&rsquo;s content.",
+        '<a href="an-4.207.html">AN 4.207 &middot; Bad Character (1st)</a> &mdash; the source of '
+        "this discourse&rsquo;s vocabulary.",
+        '<a href="an-4.209.html">AN 4.209 &middot; Bad Character (3rd)</a> &mdash; next in this '
+        "series, and the grid&rsquo;s third cell.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.209 — Tatiyapāpadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    209, "Tatiyapāpadhamma", "Bad Character (3rd)",
+    vagga=VAGGA_21,
+    meta_title="AN 4.209 — Bad Character (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the third Pāpadhammasutta — "
+        "the ten courses of action recombined a third time, now with the compound noun "
+        "pāpadhamma, bad character, rather than the adjectives bad and good. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "The same ladder, the ten courses of action reused a third time, and a new "
+                 "vocabulary of character rather than quality"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "See AN 4.204; this reading guide does not assert a specific "
+                              "matching sutra number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the grid&rsquo;s third cell, "
+                       "and the one word in it worth pausing on"),
+    ],
+    why=(
+        "The ten courses of action, filed for a third time, now under <em>pāpadhamma</em>, "
+        "&lsquo;bad character&rsquo;, rather than the plain adjective <em>pāpa</em> that AN 4.207 "
+        "used for the same content. The word is a compound, not a simple negation, and it is "
+        "worth stopping on before this chapter&rsquo;s last discourse completes the pattern."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The identical ten courses of action, filed a third time under a compound noun naming "
+            "a whole character rather than a single quality."]),
+        ("A third vocabulary, and what makes it different", [
+            "<em>Pāpadhamma</em> is built from <em>pāpa</em>, bad, and <em>dhamma</em>, here in "
+            "its sense of nature, quality, or state &mdash; something closer to &lsquo;of a bad "
+            "nature&rsquo; or &lsquo;possessing a bad character&rsquo; than to the bare adjective "
+            "<em>pāpa</em> used alone at AN 4.207. Sujato&rsquo;s &lsquo;bad character&rsquo; and "
+            "&lsquo;worse character&rsquo; catch that difference: not simply someone who is bad, "
+            "but someone whose <em>dhamma</em>, their basic constitution, is bad.",
+            "This is a real semantic shift, however small, and it is worth naming rather than "
+            "treating the three vocabularies &mdash; <em>sappurisa</em>, <em>pāpa</em>, "
+            "<em>pāpadhamma</em> &mdash; as pure synonyms. <em>Sappurisa</em> names a kind of "
+            "person. <em>Pāpa</em> names a quality a person has. <em>Pāpadhamma</em> names "
+            "something closer to the underlying nature that quality expresses."]),
+        ("The same ten deeds, for the third time", [
+            "Beyond the vocabulary, nothing here is new: killing, stealing, sexual misconduct, "
+            "the four kinds of bad speech, covetousness, malice, wrong view, and their positive "
+            "opposites, exactly as given at AN 4.204 and again at AN 4.207. By this point in the "
+            "chapter the manuscript trusts the reciter completely, compressing to the barest "
+            "skeleton of what a person listening would already know by heart.",
+            "A reader coming to this page after AN 4.204 and AN 4.207 will find nothing surprising "
+            "in the content and everything to notice in the label. That is precisely the "
+            "discourse&rsquo;s function within the set of four it belongs to."]),
+        ("Whether the difference in word matters to the classification itself", [
+            "It is worth asking directly whether this semantic nuance changes anything about how "
+            "the four-level ladder works, and the honest answer is no. An untrue person, a bad "
+            "person, and someone of bad character are all sorted by the identical structure: base "
+            "conduct, then base conduct plus encouraging others, mirrored on the positive side.",
+            "What the word choice changes is not the logic of the classification but its "
+            "connotation &mdash; whether the text is naming a person, a quality, or an "
+            "underlying nature. That the tradition preserved all three ways of naming the same "
+            "structure, rather than settling on one, suggests the ladder itself was considered "
+            "portable across several different ways of talking about what it sorts."]),
+        ("One discourse left", [
+            "AN 4.210 will do to the tenfold path what this discourse has just done to the ten "
+            "deeds: apply the <em>pāpadhamma</em> vocabulary to it, completing every cell of the "
+            "grid this chapter has been filling in since AN 4.207, and closing both the grid and "
+            "the chapter in the same discourse."],
+        ),
+    ],
+    terms=[
+        ("pāpadhamma",
+         "&ldquo;bad character&rdquo; &mdash; a compound of <em>pāpa</em>, bad, and "
+         "<em>dhamma</em> in its sense of nature or quality; closer to &lsquo;of a bad "
+         "nature&rsquo; than the bare adjective <em>pāpa</em>."),
+        ("pāpadhammatara",
+         "&ldquo;worse character&rdquo; &mdash; the comparative, marking the same "
+         "encourages-others escalation as every earlier discourse in this chapter."),
+        ("dhamma",
+         "here, &ldquo;nature&rdquo;, &ldquo;quality&rdquo;, or &ldquo;state&rdquo; &mdash; one "
+         "of the word&rsquo;s many senses across this collection, distinct from its use for "
+         "&lsquo;the teaching&rsquo; elsewhere."),
+        ("dasa kammapatha",
+         "&ldquo;the ten courses of action&rdquo; &mdash; filed here for the third time in this "
+         "chapter, under its third vocabulary."),
+        ("kalyāṇadhamma",
+         "&ldquo;good character&rdquo; &mdash; not the exact term used in this discourse&rsquo;s "
+         "English rendering, but the natural mirror of <em>pāpadhamma</em> on the positive side."),
+    ],
+    text_intro=(
+        "The discourse in full: bad character, worse character, good character, and better "
+        "character, defined by the ten courses of action. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad character, worse character, good character, better character"),
+        ("p", "&sect;1", "an4.209:1.1-1.2"),
+        ("h3", "Who has bad character"),
+        ("p", "&sect;2", "an4.209:2.1-2.3"),
+        ("h3", "Who has worse character"),
+        ("p", "&sect;3", "an4.209:3.1-3.3"),
+        ("h3", "Who has good character"),
+        ("p", "&sect;4", "an4.209:4.1-4.3"),
+        ("h3", "Who has better character"),
+        ("p", "&sect;5", "an4.209:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What content defines the four levels in this discourse?",
+         "opts": [
+             "A new set of qualities",
+             "The ten courses of action, reused for the third time in this chapter",
+             "The tenfold path",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "Identical to AN 4.204 and AN 4.207."},
+        {"q": "What does <em>pāpadhamma</em> mean, compared to the plain adjective <em>pāpa</em>?",
+         "opts": [
+             "Exactly the same thing",
+             "Closer to &lsquo;of a bad nature&rsquo; or &lsquo;possessing a bad character&rsquo;, naming an underlying constitution rather than a bare quality",
+             "A weaker term than <em>pāpa</em>",
+             "A term used only for monastics"],
+         "correct": 1,
+         "expl": "A compound of <em>pāpa</em> and <em>dhamma</em> in its sense of nature or state."},
+        {"q": "How do the three vocabularies &mdash; sappurisa, pāpa, pāpadhamma &mdash; differ in what they name?",
+         "opts": [
+             "They are pure synonyms with no difference",
+             "A kind of person, a quality a person has, and an underlying nature that quality expresses",
+             "Three unrelated concepts",
+             "Three grades of severity"],
+         "correct": 1,
+         "expl": "Worth naming rather than treating as identical."},
+        {"q": "Does this semantic nuance change how the four-level ladder itself works?",
+         "opts": [
+             "Yes, it adds a fifth level",
+             "No &mdash; the identical structure of base conduct, plus encouraging others, applies regardless of the vocabulary",
+             "Yes, it reverses the escalation logic",
+             "Yes, it removes the positive half"],
+         "correct": 1,
+         "expl": "The word choice changes connotation, not the classification&rsquo;s logic."},
+        {"q": "What does the guide suggest the preservation of three different vocabularies for one structure indicates?",
+         "opts": [
+             "A scribal inconsistency",
+             "That the ladder itself was considered portable across several different ways of talking about what it sorts",
+             "That one vocabulary is more authoritative",
+             "That the three discourses are unrelated"],
+         "correct": 1,
+         "expl": "Rather than the tradition settling on one fixed vocabulary."},
+        {"q": "How does the manuscript treat the ten-item content by this point in the chapter?",
+         "opts": [
+             "It expands it with new detail",
+             "It compresses to the barest skeleton, trusting the reciter to know the content by heart",
+             "It repeats it in full without abridgment",
+             "It changes the order of the items"],
+         "correct": 1,
+         "expl": "The third time this exact content has been given in this chapter."},
+        {"q": "What will AN 4.210 do?",
+         "opts": [
+             "Repeat this discourse exactly",
+             "Apply the <em>pāpadhamma</em> vocabulary to the tenfold path, completing the grid",
+             "Introduce a fourth vocabulary",
+             "Return to the five precepts"],
+         "correct": 1,
+         "expl": "Closing both the grid and the chapter in one discourse."},
+        {"q": "What is <em>dhamma</em> doing in the word <em>pāpadhamma</em>, as distinct from its use elsewhere in this collection?",
+         "opts": [
+             "It means &lsquo;the teaching&rsquo; here too",
+             "It means nature, quality, or state, one of the word&rsquo;s several distinct senses",
+             "It is untranslatable",
+             "It means &lsquo;a mental phenomenon&rsquo; specifically"],
+         "correct": 1,
+         "expl": "Distinct from its more familiar sense of &lsquo;the teaching&rsquo;."},
+        {"q": "Where has this exact ten-item content already appeared in this chapter?",
+         "opts": [
+             "Only at AN 4.204",
+             "AN 4.204 and AN 4.207, both times under different vocabulary",
+             "Nowhere before this discourse",
+             "Only at AN 4.201"],
+         "correct": 1,
+         "expl": "This is the third filing of the identical content."},
+        {"q": "What is the discourse&rsquo;s function, on the guide&rsquo;s reading, within this closing set of four?",
+         "opts": [
+             "To introduce new doctrine",
+             "To demonstrate the classification surviving a third naming, one cell short of completing the grid",
+             "To contradict the earlier two discourses",
+             "To rank the three vocabularies"],
+         "correct": 1,
+         "expl": "One cell of the grid remains, filled by AN 4.210."},
+    ],
+    marginalia=[
+        ("This page fills", [
+            "ten deeds",
+            "+ bad character/worse character",
+        ]),
+        ("Three names, one ladder", [
+            "<span class=\"pali\">sappurisa</span>a kind of person",
+            "<span class=\"pali\">pāpa</span>a quality",
+            "<span class=\"pali\">pāpadhamma</span>a nature",
+        ]),
+        ("What stays fixed", [
+            "the escalation logic",
+            "&mdash; unchanged by the label",
+        ]),
+        ("One cell left", [
+            "pāpadhamma + tenfold path",
+            "&mdash; AN 4.210 closes it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.209/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.204.html">AN 4.204 &middot; Ten Kinds of Deeds</a> &mdash; the first filing '
+        "of this content.",
+        '<a href="an-4.207.html">AN 4.207 &middot; Bad Character (1st)</a> &mdash; the second '
+        "filing, under the plain adjective <em>pāpa</em>.",
+        '<a href="an-4.210.html">AN 4.210 &middot; Bad Character (4th)</a> &mdash; next in this '
+        "series, and the chapter&rsquo;s close.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.210 — Catutthapāpadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    210, "Catutthapāpadhamma", "Bad Character (4th)",
+    vagga=VAGGA_21,
+    meta_title="AN 4.210 — Bad Character (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the fourth Pāpadhammasutta — "
+        "the tenfold path given the pāpadhamma vocabulary, completing the chapter's closing grid "
+        "and, with it, ten discourses built from one recurring template. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_21),
+        ("Speakers", SPEAKER),
+        ("Form", "The same ladder, the tenfold path, and the pāpadhamma vocabulary, closing the "
+                 "chapter's recombination grid"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "See AN 4.206; this reading guide does not assert a specific "
+                              "matching sutra number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the chapter&rsquo;s last "
+                       "discourse, and the moment its whole design becomes visible at once"),
+    ],
+    why=(
+        "The tenfold path from AN 4.206, given the <em>pāpadhamma</em> vocabulary AN 4.209 used "
+        "for the ten deeds. With this discourse the chapter&rsquo;s closing grid is complete: two "
+        "content sets, three vocabularies, seven discourses of recombination built on top of the "
+        "three that first assembled the content. Ten discourses, one template, and a chapter that "
+        "has spent its entire length demonstrating what that template can carry."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The tenfold path, filed a final time under the vocabulary of character, completing "
+            "every pairing this chapter set out to demonstrate."]),
+        ("The grid, completed", [
+            "Four cells, now all filled. Ten deeds with <em>sappurisa</em> vocabulary, at AN "
+            "4.204. Tenfold path with <em>sappurisa</em> vocabulary, at AN 4.206. Ten deeds with "
+            "<em>pāpa</em> vocabulary, at AN 4.207. Tenfold path with <em>pāpa</em> vocabulary, at "
+            "AN 4.208. Ten deeds with <em>pāpadhamma</em> vocabulary, at AN 4.209. And now, "
+            "tenfold path with <em>pāpadhamma</em> vocabulary, closing the set.",
+            "Laid out that way, the chapter&rsquo;s design is unmistakable: two rich content sets, "
+            "three vocabularies for the same four-level ladder, and every combination given at "
+            "least once. This discourse is not a coda tacked onto the end; it is the piece "
+            "required to make the demonstration complete rather than merely suggestive."]),
+        ("What ten discourses built from one template actually show", [
+            "Stepping back from this final discourse to the chapter as a whole, the pattern "
+            "worth naming is not any single classification but the fact of the classification "
+            "being so freely portable. Five precepts, seven qualities, seven deeds, ten deeds, "
+            "eight path factors, ten path factors &mdash; six different contents, each dropped "
+            "into an identical four-level ladder without needing the ladder itself to change.",
+            "Then, having assembled its two richest contents, the chapter spent its last four "
+            "discourses showing that the ladder is equally indifferent to which of three "
+            "vocabularies announces it: a kind of person, a quality, or a nature. Nothing about "
+            "the classification&rsquo;s logic required any of this variation. The chapter performed "
+            "it anyway, systematically, cell by cell, as if demonstrating a mathematical identity "
+            "rather than teaching a single doctrine."]),
+        ("Why a chapter would be built this way", [
+            "It is worth asking directly what this design is for, since it is unusual even within "
+            "a collection this comfortable with repetition. The most plausible answer, consistent "
+            "with everything observed about this collection&rsquo;s construction across this "
+            "nipāta, is retrieval at scale: a reciter who thinks of the question as being about "
+            "&lsquo;true persons&rsquo;, or about &lsquo;bad and good&rsquo;, or about "
+            "&lsquo;character&rsquo;, and who thinks of the content as being about deeds or about "
+            "the path, can locate the relevant teaching under any combination of those approaches.",
+            "That is a real cost paid for a real benefit. The cost is ten discourses that, read "
+            "end to end, can feel like one discourse said ten times. The benefit is a teaching "
+            "that cannot be lost by forgetting which single word it was filed under &mdash; "
+            "exactly the vulnerability AN 4.160, many chapters back, named as one of the four "
+            "things that cause a teaching to disappear."]),
+        ("The chapter, and the book, closed", [
+            "<em>Sappurisavagga</em> ends here, its ten discourses spent entirely on one "
+            "structural idea explored from every angle its compilers could find. What follows is "
+            "no longer a numbered chapter of ten in the ordinary sense: the Fours move next into "
+            "material generated by cross-multiplying whole sets against each other at a much "
+            "larger scale, eventually reaching the two great abridged blocks that close the "
+            "nipāta, AN 4.277&ndash;303 and AN 4.304&ndash;783.",
+            "Read against what comes next, this chapter&rsquo;s ten-discourse demonstration of one "
+            "template recombined six ways is a modest, legible preview of a technique the "
+            "collection is about to use at a scale no single reading guide could fully unpack "
+            "&mdash; hundreds of nominal discourses generated the same way this chapter generated "
+            "its own ten."],
+        ),
+    ],
+    terms=[
+        ("pāpadhamma / kalyāṇadhamma",
+         "&ldquo;bad character&rdquo; and its positive counterpart &mdash; the third and last "
+         "vocabulary this chapter applies to its two content sets."),
+        ("dasa-aṅga magga",
+         "&ldquo;the tenfold path&rdquo; &mdash; filed for the third time in this chapter, "
+         "completing its pairing with all three vocabularies."),
+        ("peyyāla",
+         "&ldquo;repetition-series&rdquo; &mdash; the technical name for the device this whole "
+         "chapter has been built from, at a larger scale than the light-series of AN "
+         "4.141&ndash;145."),
+        ("dasa kammapatha",
+         "&ldquo;the ten courses of action&rdquo; &mdash; this chapter&rsquo;s other content set, "
+         "given its full three-vocabulary treatment at AN 4.204, AN 4.207, and AN 4.209."),
+        ("sāsanassa ṭhitiyā",
+         "&ldquo;for the endurance of the teaching&rdquo; &mdash; not used in this discourse, but "
+         "the concern AN 4.160 named that this chapter&rsquo;s redundancy serves in practice."),
+    ],
+    text_intro=(
+        "The discourse in full: bad character, worse character, good character, and better "
+        "character, defined by the tenfold path. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad character, worse character, good character, better character"),
+        ("p", "&sect;1", "an4.210:1.1-1.2"),
+        ("h3", "Who has bad character"),
+        ("p", "&sect;2", "an4.210:2.1-2.3"),
+        ("h3", "Who has worse character"),
+        ("p", "&sect;3", "an4.210:3.1-3.4"),
+        ("h3", "Who has good character"),
+        ("p", "&sect;4", "an4.210:4.1-4.3"),
+        ("h3", "Who has better character"),
+        ("p", "&sect;5", "an4.210:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "What content defines the four levels in this discourse?",
+         "opts": [
+             "The ten courses of action",
+             "The tenfold path, given the pāpadhamma vocabulary",
+             "The five precepts",
+             "A new eleventh content set"],
+         "correct": 1,
+         "expl": "Completing the grid&rsquo;s final cell."},
+        {"q": "How many of the grid&rsquo;s cells are filled after this discourse?",
+         "opts": [
+             "Three",
+             "All four &mdash; both content sets paired with all three vocabularies",
+             "Two",
+             "Only one"],
+         "correct": 1,
+         "expl": "Ten deeds and tenfold path, each with <em>sappurisa</em>, <em>pāpa</em>, and <em>pāpadhamma</em> vocabulary."},
+        {"q": "How many different contents did this chapter drop into its four-level ladder across all ten discourses?",
+         "opts": [
+             "Two",
+             "Six &mdash; five precepts, seven qualities, seven deeds, ten deeds, eight path factors, ten path factors",
+             "Ten",
+             "Three"],
+         "correct": 1,
+         "expl": "Each fitting the identical ladder without the ladder needing to change."},
+        {"q": "What does the guide say this chapter&rsquo;s design demonstrates, beyond any single classification?",
+         "opts": [
+             "That some content fits the ladder better than others",
+             "That the ladder is freely portable across different content and indifferent to which of three vocabularies announces it",
+             "That the ten discourses contradict each other",
+             "That the chapter is disorganized"],
+         "correct": 1,
+         "expl": "Performed systematically, cell by cell, like a demonstration rather than a single doctrine."},
+        {"q": "What does the guide propose as the most plausible reason for this design?",
+         "opts": [
+             "Scribal error accumulated over centuries",
+             "Retrieval at scale &mdash; a reciter can locate the teaching under any combination of vocabulary and content",
+             "A deliberate test of memory alone",
+             "Random variation with no purpose"],
+         "correct": 1,
+         "expl": "A teaching that cannot be lost by forgetting which single word it was filed under."},
+        {"q": "What cost does the guide say is paid for that benefit?",
+         "opts": [
+             "No cost at all",
+             "Ten discourses that, read end to end, can feel like one discourse said ten times",
+             "Loss of doctrinal content",
+             "Contradictions between discourses"],
+         "correct": 1,
+         "expl": "A real cost for a real benefit."},
+        {"q": "Which earlier discourse named the vulnerability this chapter&rsquo;s redundancy addresses?",
+         "opts": [
+             "AN 4.151",
+             "AN 4.160, on what causes a teaching to disappear",
+             "AN 4.181",
+             "AN 4.193"],
+         "correct": 1,
+         "expl": "One of the four things that threaten the teaching&rsquo;s survival."},
+        {"q": "What does the Fours move into after this chapter closes?",
+         "opts": [
+             "A return to the Ones",
+             "Material generated by cross-multiplying whole sets at a larger scale, eventually reaching the two great abridged blocks",
+             "The end of the Aṅguttara entirely",
+             "A repeat of this same chapter"],
+         "correct": 1,
+         "expl": "AN 4.277&ndash;303 and AN 4.304&ndash;783."},
+        {"q": "How does the guide describe this chapter&rsquo;s relationship to what follows?",
+         "opts": [
+             "Entirely unrelated",
+             "A modest, legible preview of a technique the collection is about to use at a much larger scale",
+             "A contradiction of what follows",
+             "The collection&rsquo;s final chapter"],
+         "correct": 1,
+         "expl": "Hundreds of nominal discourses generated the same way this chapter generated its own ten."},
+        {"q": "What is the chapter&rsquo;s Pāli name, and where does it come from?",
+         "opts": [
+             "Named after its content",
+             "<em>Sappurisavagga</em>, from the vocabulary AN 4.201 introduces, though four of the ten discourses use different vocabulary entirely",
+             "Named after its final discourse",
+             "Named after a location"],
+         "correct": 1,
+         "expl": "Every chapter in this collection is named after whatever its first discourse introduces."},
+    ],
+    marginalia=[
+        ("The grid, complete", [
+            "ten deeds &middot; sappurisa",
+            "ten deeds &middot; pāpa",
+            "ten deeds &middot; pāpadhamma",
+            "tenfold path &middot; all three",
+        ]),
+        ("Six contents, one ladder", [
+            "5 precepts &middot; 7 qualities",
+            "7 deeds &middot; 10 deeds",
+            "8-fold path &middot; 10-fold path",
+        ]),
+        ("The cost and the benefit", [
+            "ten discourses, one idea",
+            "&mdash; but unlosable by any",
+            "single word forgotten",
+        ]),
+        ("What comes next", [
+            "cross-multiplied sets,",
+            "at far larger scale",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.210/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.206.html">AN 4.206 &middot; The Path with Ten Factors</a> &mdash; the source '
+        "of this discourse&rsquo;s content.",
+        '<a href="an-4.160.html">AN 4.160 &middot; The Training of a Holy One</a> &mdash; the '
+        "vulnerability this chapter&rsquo;s redundancy is built to answer.",
+        '<a href="an-4.201.html">AN 4.201 &middot; Training Rules</a> &mdash; the discourse that '
+        "opened this chapter and its template.",
+    ],
+)
