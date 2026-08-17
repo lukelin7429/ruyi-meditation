@@ -53269,3 +53269,2275 @@ page(
         "one who has memorized the teachings, a role close to the <em>sutakavi</em> named here.",
     ],
 )
+
+VAGGA_24 = "<em>Kammavagga</em> &mdash; the twenty-fourth chapter of the Fours"
+SETTING_24 = ("None stated; the Kammavagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.232 — Saṅkhittasutta
+# --------------------------------------------------------------------------- #
+page(
+    232, "Saṅkhitta", "Deeds In Brief",
+    vagga=VAGGA_24,
+    meta_title="AN 4.232 — Deeds In Brief | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṅkhittasutta, which "
+        "opens this chapter with the bare list of one of the tradition's most important teachings "
+        "on kamma &mdash; dark deeds, bright deeds, mixed deeds, and deeds that end deeds "
+        "altogether. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, stated in brief with no definitions"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four kinds of deeds are widely attested across the Nikāyas and "
+                              "Āgamas, notably in the parallel to MN 57; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief in itself, but opening "
+                       "one of the more important teachings this nipāta contains"),
+    ],
+    why=(
+        "Dark deeds with dark results. Bright deeds with bright results. Dark-and-bright deeds "
+        "with dark-and-bright results. And a fourth kind, neither dark nor bright, with neither "
+        "dark nor bright results &mdash; which leads to the ending of deeds. This four-part "
+        "classification of kamma is one of the more consequential teachings the Aṅguttara "
+        "contains, and this chapter opens by stating it as bare as possible, the way AN 4.148 "
+        "once stated the four kinds of bad speech: a skeleton, named and left for the next "
+        "discourse to fill in."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are four kinds of deeds: dark, bright, a mixture of both, and a fourth kind that "
+            "is neither, which brings deeds themselves to an end."]),
+        ("The four kinds, named without explanation", [
+            "<em>Kammaṁ kaṇhaṁ kaṇhavipākaṁ</em>, dark deeds with dark results; <em>kammaṁ sukkaṁ "
+            "sukkavipākaṁ</em>, bright deeds with bright results; <em>kammaṁ kaṇhasukkaṁ "
+            "kaṇhasukkavipākaṁ</em>, deeds that are both, with results that are both; and "
+            "<em>kammaṁ akaṇhaasukkaṁ akaṇhaasukkavipākaṁ kammakkhayāya saṁvattati</em>, deeds "
+            "that are neither, with results that are neither, which lead to the ending of deeds.",
+            "The fourth item is the one to read twice. The first three are a complete "
+            "classification of ordinary moral action &mdash; harmful, beneficial, mixed. The "
+            "fourth does not complete that set with a fourth kind of ordinary action; it names "
+            "something that steps outside the set altogether, ending the whole mechanism the first "
+            "three describe."]),
+        ("Declared, not merely repeated", [
+            "The discourse opens with an unusual first-person claim: <em>mayā sayaṁ abhiññā "
+            "sacchikatvā paveditāni</em>, &lsquo;which I declare, having realized them with my own "
+            "insight&rsquo;. This is not the ordinary teaching-formula of this collection; it is a "
+            "claim of direct discovery, the kind of language reserved for material the tradition "
+            "treats as central to what the awakening itself disclosed."]),
+        ("A pattern the chapter is about to repeat", [
+            "As at several points earlier in this series, a discourse this bare is a skeleton "
+            "waiting to be filled in, and the very next discourse, AN 4.233, does exactly that "
+            "&mdash; unusually, at considerable length. A third discourse after that, AN 4.234, "
+            "fills it in again, this time inside an actual conversation. Three consecutive "
+            "discourses giving the identical content in three registers &mdash; bare statement, "
+            "full explanation, narrated dialogue &mdash; is the chapter&rsquo;s own way of "
+            "signalling how much weight this particular teaching carries."]),
+        ("Where the fourth kind will resurface", [
+            "This chapter does not let the fourth, transcending kind of deed sit as an abstraction. "
+            "Two later discourses, AN 4.237 and AN 4.238, name exactly what it consists of: the "
+            "noble eightfold path, and separately the seven factors of awakening. The ending of "
+            "deeds, in other words, is not a mystery the chapter declines to specify. It has an "
+            "address, and the chapter gives it twice."]),
+    ],
+    terms=[
+        ("kaṇha / sukka",
+         "&ldquo;dark&rdquo; and &ldquo;bright&rdquo; &mdash; the basic moral coloring this "
+         "fourfold classification of deeds is built from."),
+        ("kammakkhaya",
+         "&ldquo;the ending of deeds&rdquo; &mdash; what the fourth kind of deed leads to, "
+         "distinguishing it from the first three, which each lead to a result."),
+        ("mayā sayaṁ abhiññā sacchikatvā paveditāni",
+         "&ldquo;which I declare, having realized them with my own insight&rdquo; &mdash; a claim "
+         "of direct discovery, marking this teaching as central rather than incidental."),
+        ("vipāka",
+         "&ldquo;result, ripening&rdquo; &mdash; the consequence a deed produces; absent only from "
+         "the fourth kind of deed."),
+        ("kamma",
+         "&ldquo;deed, action&rdquo; &mdash; specifically intentional action, the basic unit this "
+         "whole classification sorts into four kinds."),
+    ],
+    text_intro=(
+        "The discourse in full: the four kinds of deeds, named. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four kinds of deeds"),
+        ("p", "&sect;1", "an4.232:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What four kinds of deeds does this discourse name?",
+         "opts": [
+             "The ten courses of action",
+             "Dark deeds, bright deeds, deeds that are both, and deeds that are neither",
+             "The five precepts",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "A fourfold classification of kamma, stated here without explanation."},
+        {"q": "What does the fourth kind of deed lead to, distinguishing it from the first three?",
+         "opts": [
+             "A mixed result, like the third kind",
+             "The ending of deeds, <em>kammakkhaya</em>, rather than a result at all",
+             "Rebirth in heaven specifically",
+             "Nothing different from the other three"],
+         "correct": 1,
+         "expl": "It steps outside the mechanism the first three describe, rather than completing it."},
+        {"q": "What unusual claim opens this discourse?",
+         "opts": [
+             "A claim about a specific location",
+             "A first-person claim of direct discovery: declared, having realized it with the Buddha&rsquo;s own insight",
+             "A claim about a named disciple",
+             "No unusual claim; it uses the ordinary teaching formula"],
+         "correct": 1,
+         "expl": "Language the collection reserves for material it treats as central."},
+        {"q": "What does the very next discourse, AN 4.233, do with this same content?",
+         "opts": [
+             "Contradicts it",
+             "Unpacks it at considerable length",
+             "Ignores it entirely",
+             "Repeats it in exactly the same bare form"],
+         "correct": 1,
+         "expl": "The first of three consecutive discourses giving the same content in different registers."},
+        {"q": "How many consecutive discourses give this identical content, according to the guide?",
+         "opts": [
+             "Just this one",
+             "Three &mdash; bare statement, full explanation, and narrated dialogue",
+             "Ten",
+             "Five"],
+         "correct": 1,
+         "expl": "AN 4.232, AN 4.233, and AN 4.234."},
+        {"q": "Which two later discourses specify what the fourth, transcending kind of deed consists of?",
+         "opts": [
+             "AN 4.235 and AN 4.236",
+             "AN 4.237 and AN 4.238, naming the eightfold path and the seven awakening factors",
+             "AN 4.239 and AN 4.240",
+             "No later discourse specifies this"],
+         "correct": 1,
+         "expl": "The ending of deeds is given a concrete address, not left abstract."},
+        {"q": "What earlier discourse in this series gave a similarly bare, unexplained list?",
+         "opts": [
+             "AN 4.148, the four kinds of bad speech",
+             "AN 4.212",
+             "AN 4.211",
+             "AN 4.3"],
+         "correct": 1,
+         "expl": "A skeleton stated and left, for a later discourse to fill in."},
+        {"q": "What is the Pāli word for &lsquo;result&rsquo; used throughout this teaching?",
+         "opts": [
+             "Kamma",
+             "Vipāka",
+             "Kaṇha",
+             "Sukka"],
+         "correct": 1,
+         "expl": "Present for the first three kinds of deed, absent from the fourth."},
+        {"q": "What does the guide say the first three kinds of deed form together?",
+         "opts": [
+             "An incomplete classification",
+             "A complete classification of ordinary moral action &mdash; harmful, beneficial, mixed",
+             "A classification of speech only",
+             "A classification specific to monastics"],
+         "correct": 1,
+         "expl": "The fourth kind then steps outside that set entirely."},
+        {"q": "What kind of source does this discourse's content parallel in another collection?",
+         "opts": [
+             "A parallel exists in MN 57",
+             "No parallel exists anywhere in the canon",
+             "Only in the Vinaya",
+             "Only in later commentarial literature"],
+         "correct": 1,
+         "expl": "One of the more widely attested teachings on kamma in the early texts."},
+    ],
+    marginalia=[
+        ("Four kinds, named", [
+            "dark &middot; bright",
+            "both &middot; neither",
+        ]),
+        ("The fourth item", [
+            "not a fourth ordinary deed,",
+            "but an exit from the set",
+        ]),
+        ("Three registers, one content", [
+            "AN 4.232 &middot; bare",
+            "AN 4.233 &middot; detailed",
+            "AN 4.234 &middot; narrated",
+        ]),
+        ("The fourth kind, specified later", [
+            "AN 4.237 &middot; the eightfold path",
+            "AN 4.238 &middot; awakening factors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.232/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.233.html">AN 4.233 &middot; Deeds in Detail</a> &mdash; the full unpacking of this discourse&rsquo;s bare list.',
+        '<a href="an-4.148.html">AN 4.148 &middot; Bad Conduct</a> &mdash; another bare list stated and left for a later discourse to fill in.',
+        '<a href="an-4.237.html">AN 4.237 &middot; The Noble Path</a> &mdash; where the fourth kind of deed is given its address.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.233 — Vitthārasutta
+# --------------------------------------------------------------------------- #
+page(
+    233, "Vitthāra", "Deeds in Detail",
+    vagga=VAGGA_24,
+    meta_title="AN 4.233 — Deeds in Detail | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vitthārasutta, unpacking "
+        "AN 4.232's bare list of four kinds of deeds in full &mdash; hurtful choices reborn into a "
+        "hurtful world, pleasing choices into a pleasing one, and a fourth kind that is the "
+        "intention to abandon all three. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "The same four-part list as AN 4.232, each item now unpacked through choice, "
+                 "rebirth, contact, feeling, and a simile"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "This teaching parallels material found at MN 57; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the chapter&rsquo;s richest "
+                       "single discourse, worth reading slowly"),
+    ],
+    why=(
+        "AN 4.232 named four kinds of deeds and left them unexplained. This discourse explains "
+        "them, and the explanation traces a full causal chain for each: an intentional choice, a "
+        "rebirth that matches it, a kind of contact that meets a being there, and a feeling that "
+        "results &mdash; ending, for the first three kinds, in a named class of beings who live "
+        "that feeling. The fourth kind breaks the chain rather than completing it: not a new "
+        "destination, but the intention to stop generating destinations at all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Hurtful choices lead to a hurtful rebirth and feelings that are purely painful; "
+            "pleasing choices lead to a pleasing rebirth and feelings of perfect happiness; mixed "
+            "choices lead to a mixed rebirth and feelings of both; and the intention to give up all "
+            "three kinds of choice is what ends the whole mechanism."]),
+        ("The mechanism, traced step by step", [
+            "For each of the first three kinds, the discourse gives the same five-step chain: "
+            "someone <em>makes choices</em> (<em>abhisaṅkharoti</em>) by body, speech, and mind of "
+            "a particular character; having made them, they are <em>reborn</em> in a world that "
+            "matches that character; in that world, <em>contact</em> of the same character strikes "
+            "them; touched by that contact, they <em>experience feeling</em> of the same character; "
+            "and the discourse names who lives that feeling.",
+            "This is worth reading as a description of causal fit rather than reward and "
+            "punishment imposed from outside. Nothing intervenes between the choice and its "
+            "consequence to judge or assign it; the world one is reborn into, the contact one "
+            "meets there, and the feeling one experiences are simply what a choice of that "
+            "character produces, the way a shape produces a matching shadow."]),
+        ("Three destinations, precisely named", [
+            "Dark deeds lead to feelings <em>ekantadukkhaṁ</em>, exclusively painful, "
+            "&lsquo;like the beings in hell&rsquo;. Bright deeds lead to feelings "
+            "<em>ekantasukhaṁ</em>, of perfect happiness, &lsquo;like the gods of universal "
+            "beauty&rsquo;, <em>subhakiṇhā devā</em> &mdash; a specific, named class of deity in "
+            "the form realm, not heaven in a generic sense. Mixed deeds lead to feelings "
+            "<em>vokiṇṇasukhadukkhaṁ</em>, a mixture of pleasure and pain, &lsquo;like humans, "
+            "some gods, and some beings in the underworld&rsquo;, <em>vinipātikā</em> &mdash; a "
+            "class occupying an unstable position between higher and lower rebirths.",
+            "The three similes are worth noting for their precision. This is not a vague gesture "
+            "at good and bad fortune; it names specific classes of being at each of the three "
+            "points on the scale, including the everyday observation that human life itself, mixed "
+            "in its pleasures and pains, sits exactly where mixed deeds should place it."]),
+        ("The fourth kind: not a destination but a departure", [
+            "The pivot of the whole discourse is here: <em>yamidaṁ kammaṁ kaṇhaṁ kaṇhavipākaṁ "
+            "tassa pahānāya yā cetanā</em> &mdash; the fourth kind of deed is defined as "
+            "<em>the intention to give up</em> each of the first three. Not a fourth choice "
+            "alongside hurtful, pleasing, and mixed ones, and not a fourth world to be reborn "
+            "into. It is the deliberate abandoning of the entire apparatus the first three "
+            "describe.",
+            "This is a genuinely different kind of move than the other three make, and the "
+            "discourse marks that difference by withholding the rebirth-contact-feeling chain from "
+            "this fourth item entirely. There is no world named for it to lead to, because it does "
+            "not lead to a world. It leads, in the discourse&rsquo;s own word, to "
+            "<em>kammakkhaya</em>, the ending of deeds &mdash; not a better rebirth but the "
+            "cessation of the entire mechanism by which rebirths are produced."]),
+        ("Renunciation as intention, not inaction", [
+            "It matters that the fourth kind is defined as an <em>intention</em>, <em>cetanā</em> "
+            "&mdash; the same word that names the mental factor at the root of every kind of "
+            "kamma, in the canon&rsquo;s general account of what makes an action count as kamma at "
+            "all. The path out of the kammic mechanism is not the absence of intention; it is a "
+            "specific intention, aimed at the mechanism itself rather than at any particular "
+            "hurtful, pleasing, or mixed act.",
+            "This point becomes explicit two discourses later, at AN 4.234, where the Buddha is "
+            "reported to have been accused of teaching &lsquo;non-doing of all deeds&rsquo;. This "
+            "discourse is the clearest evidence within the chapter of why that accusation "
+            "misdescribes the teaching: the fourth kind of deed is still, unmistakably, a kind of "
+            "deed."]),
+    ],
+    terms=[
+        ("sabyābajjha / abyābajjha",
+         "&ldquo;hurtful&rdquo; and &ldquo;pleasing&rdquo; &mdash; the character of the choices "
+         "behind the first two kinds of deed, reused later in this chapter at AN 4.240."),
+        ("saṅkhāra / abhisaṅkharoti",
+         "&ldquo;choice, formation&rdquo; and its verb &mdash; the intentional shaping of body, "
+         "speech, and mind that constitutes a deed."),
+        ("subhakiṇhā devā",
+         "&ldquo;the gods of universal beauty&rdquo; &mdash; a specific class of deity in the form "
+         "realm, named as the simile for bright deeds&rsquo; result."),
+        ("vinipātikā",
+         "&ldquo;those fallen into an unstable state&rdquo; &mdash; beings occupying a mixed "
+         "position between higher and lower rebirths, part of the simile for mixed deeds."),
+        ("kammakkhaya",
+         "&ldquo;the ending of deeds&rdquo; &mdash; not a better rebirth but the cessation of the "
+         "whole mechanism by which rebirths are produced, reached through the intention that "
+         "defines the fourth kind of deed."),
+    ],
+    text_intro=(
+        "The discourse in full: the four kinds named, then each unpacked through choice, rebirth, "
+        "contact, feeling, and simile. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four, named"),
+        ("p", "&sect;1", "an4.233:1.1-1.6"),
+        ("h3", "Dark deeds with dark results"),
+        ("p", "&sect;2", "an4.233:2.1-2.6"),
+        ("h3", "Bright deeds with bright results"),
+        ("p", "&sect;3", "an4.233:3.1-3.6"),
+        ("h3", "Dark-and-bright deeds with dark-and-bright results"),
+        ("p", "&sect;4", "an4.233:4.1-4.6"),
+        ("h3", "Deeds that end deeds"),
+        ("p", "&sect;5", "an4.233:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What five-step chain does the discourse trace for each of the first three kinds of deed?",
+         "opts": [
+             "Birth, growth, decline, death, rebirth",
+             "Choice, rebirth, contact, feeling, and a named class of beings who live that feeling",
+             "Faith, ethics, learning, wisdom, freedom",
+             "View, intention, speech, action, livelihood"],
+         "correct": 1,
+         "expl": "A causal chain of matching character at every step."},
+        {"q": "What class of deity is named as the simile for bright deeds' result?",
+         "opts": [
+             "A generic reference to \"heaven\"",
+             "The <em>subhakiṇhā devā</em>, the gods of universal beauty, a specific class in the form realm",
+             "The four great kings",
+             "No simile is given"],
+         "correct": 1,
+         "expl": "A precise, named destination, not a vague gesture at good fortune."},
+        {"q": "How is the fourth kind of deed defined?",
+         "opts": [
+             "A fourth kind of choice alongside hurtful, pleasing, and mixed",
+             "The intention to give up dark, bright, and dark-and-bright deeds entirely",
+             "The complete absence of any intention",
+             "A choice that produces no result at all, by accident"],
+         "correct": 1,
+         "expl": "A departure from the mechanism, not a fourth position within it."},
+        {"q": "Why does the discourse withhold the rebirth-contact-feeling chain from the fourth kind of deed?",
+         "opts": [
+             "An oversight in the text",
+             "Because the fourth kind does not lead to a world at all, but to the ending of the mechanism that produces worlds",
+             "Because the fourth kind is not actually a kind of deed",
+             "Because it applies only after death"],
+         "correct": 1,
+         "expl": "<em>Kammakkhaya</em>, the ending of deeds, rather than a destination."},
+        {"q": "What Pāli word defines the fourth kind of deed, and why does the guide say this word matters?",
+         "opts": [
+             "<em>Vipāka</em>, result &mdash; showing it still produces an ordinary result",
+             "<em>Cetanā</em>, intention &mdash; the same word that names what makes any action count as kamma at all",
+             "<em>Kaṇha</em>, dark &mdash; showing it is secretly a dark deed",
+             "No specific word is used"],
+         "correct": 1,
+         "expl": "The path out of the kammic mechanism is a specific intention, not the absence of intention."},
+        {"q": "What simile is given for mixed deeds' result?",
+         "opts": [
+             "The beings in hell",
+             "Humans, some gods, and some beings in an unstable state, <em>vinipātikā</em>",
+             "The gods of universal beauty",
+             "No simile is given for mixed deeds"],
+         "correct": 1,
+         "expl": "Including the everyday observation that human life itself is mixed in its pleasures and pains."},
+        {"q": "How does the guide characterize the relationship between choice and consequence in this teaching?",
+         "opts": [
+             "A judge intervenes to assign reward or punishment",
+             "Causal fit &mdash; nothing intervenes to judge; the consequence is simply what a choice of that character produces",
+             "Consequences are entirely random",
+             "Only bright deeds have consequences"],
+         "correct": 1,
+         "expl": "Like a shape producing a matching shadow."},
+        {"q": "What does this discourse anticipate about AN 4.234, two discourses later?",
+         "opts": [
+             "AN 4.234 will contradict this discourse",
+             "AN 4.234 reports an accusation that the Buddha taught non-doing of all deeds, which this discourse's content refutes",
+             "AN 4.234 has no connection to this discourse",
+             "AN 4.234 repeats only the bare list from AN 4.232"],
+         "correct": 1,
+         "expl": "The fourth kind of deed is still, unmistakably, a kind of deed."},
+        {"q": "What feeling is described for dark deeds' result?",
+         "opts": [
+             "A mixture of pleasure and pain",
+             "<em>Ekantadukkhaṁ</em>, exclusively painful, like the beings in hell",
+             "Perfect happiness",
+             "No feeling at all"],
+         "correct": 1,
+         "expl": "The first point on the scale this discourse maps."},
+        {"q": "What does the guide say distinguishes this discourse from a simple reward-and-punishment account?",
+         "opts": [
+             "Nothing; it is a straightforward reward-and-punishment account",
+             "The precision and consistency of the causal chain, with matching character at every step rather than external judgment",
+             "The absence of any consequence for dark deeds",
+             "The chain applies only to monastics"],
+         "correct": 1,
+         "expl": "A description of causal fit, not judgment imposed from outside."},
+    ],
+    marginalia=[
+        ("The chain, traced", [
+            "choice &middot; rebirth",
+            "contact &middot; feeling",
+            "&mdash; matching character throughout",
+        ]),
+        ("Three destinations, named", [
+            "hell beings &middot; dark",
+            "subhakiṇhā devas &middot; bright",
+            "humans, mixed beings &middot; both",
+        ]),
+        ("The fourth: a departure", [
+            "not a destination,",
+            "but kammakkhaya &mdash;",
+            "the mechanism&rsquo;s end",
+        ]),
+        ("Still an intention", [
+            "cetanā, not its absence",
+            "&mdash; aimed at the mechanism itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.233/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.232.html">AN 4.232 &middot; Deeds In Brief</a> &mdash; the bare list this discourse unpacks.',
+        '<a href="an-4.234.html">AN 4.234 &middot; About Soṇakāyana</a> &mdash; the same content, next, inside a dialogue answering an accusation this discourse&rsquo;s content refutes.',
+        '<a href="an-4.240.html">AN 4.240 &middot; Pleasing</a> &mdash; where this discourse&rsquo;s hurtful/pleasing vocabulary reappears under a different formula.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.234 — Soṇakāyanasutta
+# --------------------------------------------------------------------------- #
+page(
+    234, "Soṇakāyana", "About Soṇakāyana",
+    vagga=VAGGA_24,
+    meta_title="AN 4.234 — About Soṇakāyana | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Soṇakāyanasutta, in "
+        "which a brahmin reports an accusation that the Buddha teaches the annihilation of the "
+        "world by advocating non-doing of all deeds &mdash; and the Buddha answers, without "
+        "arguing, by simply restating the four kinds of deeds. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified beyond the visit itself; the brahmin Sikhāmoggallāna comes to "
+                    "the Buddha and reports a conversation with a student named Soṇakāyana"),
+        ("Speakers", "The brahmin Sikhāmoggallāna and the Buddha"),
+        ("Form", "A narrative frame around a third telling of AN 4.232&ndash;233's content, word "
+                 "for word"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the accusation reported here "
+                       "is worth reading carefully, since the discourse never states its "
+                       "rebuttal directly"),
+    ],
+    why=(
+        "A brahmin reports that a student, Soṇakāyana, accused the Buddha of teaching "
+        "<em>non-doing of all deeds</em> &mdash; and therefore, the accusation continues, teaching "
+        "the annihilation of the world, since the world exists and continues only because deeds "
+        "are undertaken. The Buddha replies that he cannot even recall meeting this student, then "
+        "simply restates the four kinds of deeds from AN 4.232 and AN 4.233, without a word of "
+        "direct rebuttal. The content is left to answer the accusation on its own."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Accused, at second hand, of teaching that no deeds should be done, the Buddha answers "
+            "by restating a teaching that names four kinds of deeds, three of which are ordinary "
+            "moral action and none of which is the absence of action."]),
+        ("The accusation, precisely stated", [
+            "<em>Samaṇo gotamo sabbakammānaṁ akiriyaṁ paññapeti</em> &mdash; &lsquo;the ascetic "
+            "Gotama advocates the non-doing of all deeds&rsquo;. <em>Akiriya</em>, "
+            "&lsquo;non-doing&rsquo; or &lsquo;inaction&rsquo;, is a loaded term in this "
+            "literature&rsquo;s vocabulary: elsewhere in the canon it is specifically the doctrine "
+            "of Pūraṇa Kassapa, one of the six contemporary teachers the early texts catalogue, who "
+            "held that no action has any moral consequence whatsoever. Soṇakāyana&rsquo;s "
+            "accusation borrows a label usually pinned on a rival and pins it instead on the "
+            "Buddha.",
+            "The reasoning attached to the accusation is also worth noting: <em>kammasaccāyaṁ "
+            "loko kammasamārambhaṭṭhāyī</em>, &lsquo;the world exists through deeds, and remains "
+            "because deeds are undertaken&rsquo;. This is a substantial philosophical claim in its "
+            "own right &mdash; that ongoing intentional action is what sustains the world&rsquo;s "
+            "continued existence &mdash; and it is the premise from which Soṇakāyana concludes that "
+            "teaching non-doing amounts to teaching the world&rsquo;s annihilation."]),
+        ("A reply that does not argue", [
+            "The Buddha&rsquo;s first response is disarming rather than defensive: he cannot recall "
+            "even seeing this student, let alone having such a conversation with him. The "
+            "accusation, in other words, may not correspond to anything the Buddha actually said "
+            "to anyone.",
+            "What follows is stranger, and worth sitting with. The Buddha does not deny teaching "
+            "non-doing, does not explain what <em>akiriya</em> would mean if he had taught it, and "
+            "does not directly address Soṇakāyana&rsquo;s claim about what sustains the world. He "
+            "simply restates, word for word, the four kinds of deeds already given at AN 4.232 and "
+            "AN 4.233. The rebuttal, such as it is, is left entirely to the content itself."]),
+        ("Why restating the content is the rebuttal", [
+            "Read against what AN 4.233 just established, the restatement is not a non-answer. "
+            "Three of the four kinds of deed described here are ordinary, consequential moral "
+            "action &mdash; hurtful, pleasing, mixed, each leading to a matching rebirth. The "
+            "fourth kind, the one that ends deeds, was shown at AN 4.233 to be itself "
+            "<em>an intention</em>, <em>cetanā</em>, not the absence of intention. A teaching built "
+            "this way cannot coherently be described as advocating that nothing be done. It is, if "
+            "anything, a teaching unusually insistent that every one of the four kinds of deed, "
+            "including the one that ends deeds, is a species of intentional action.",
+            "The discourse trusts its listener to draw this connection rather than drawing it for "
+            "them. That is consistent with how bare statement functions elsewhere in this "
+            "collection: the content, once given accurately, does the argumentative work."]),
+        ("A rare reversal", [
+            "It is worth flagging plainly that this discourse shows the Buddha on the receiving "
+            "end of a mislabeling the canon usually applies to someone else&rsquo;s doctrine. "
+            "Whether Soṇakāyana&rsquo;s accusation reflects a genuine confusion, a hostile "
+            "misreading, or simply secondhand distortion passed through two people before it "
+            "reached the Buddha, the text does not say. What it preserves is the accusation itself, "
+            "stated in full, rather than smoothing it away before the reply arrives."]),
+    ],
+    terms=[
+        ("akiriya",
+         "&ldquo;non-doing, inaction&rdquo; &mdash; elsewhere the doctrine specifically associated "
+         "with the teacher Pūraṇa Kassapa, here pinned instead on the Buddha by a secondhand "
+         "accusation."),
+        ("kammasaccāyaṁ loko kammasamārambhaṭṭhāyī",
+         "&ldquo;the world exists through deeds, and remains because deeds are undertaken&rdquo; "
+         "&mdash; the premise behind Soṇakāyana&rsquo;s claim that teaching non-doing means "
+         "teaching annihilation."),
+        ("dassanampi nābhijānāmi",
+         "&ldquo;I don&rsquo;t recall even seeing [him]&rdquo; &mdash; the Buddha&rsquo;s first, "
+         "disarming response, questioning whether the reported conversation happened at all."),
+        ("cetanā",
+         "&ldquo;intention&rdquo; &mdash; the word AN 4.233 used to define the fourth kind of "
+         "deed, and the reason this discourse&rsquo;s restatement functions as a rebuttal."),
+        ("chattha satthāro",
+         "the six contemporary teachers the early texts catalogue, among them Pūraṇa Kassapa, "
+         "whose doctrine of non-doing this discourse&rsquo;s accusation borrows and misapplies."),
+    ],
+    text_intro=(
+        "The discourse in full: the brahmin's visit, the reported accusation, and the Buddha's "
+        "reply. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The brahmin's visit"),
+        ("p", "&sect;1", "an4.234:1.1-1.2"),
+        ("h3", "The reported accusation"),
+        ("p", "&sect;2", "an4.234:2.1-2.3"),
+        ("h3", "The Buddha's reply"),
+        ("p", "&sect;3", "an4.234:3.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What accusation does the brahmin Sikhāmoggallāna report to the Buddha?",
+         "opts": [
+             "That the Buddha teaches excessive austerity",
+             "That the Buddha advocates non-doing of all deeds, and thereby teaches the annihilation of the world",
+             "That the Buddha denies the existence of kamma entirely",
+             "That the Buddha refuses to answer questions"],
+         "correct": 1,
+         "expl": "Attributed to a student named Soṇakāyana, reported secondhand."},
+        {"q": "Where else in the canon is the doctrine of \"non-doing\", <em>akiriya</em>, specifically associated?",
+         "opts": [
+             "With the Buddha's own earliest teachings",
+             "With Pūraṇa Kassapa, one of the six contemporary teachers the early texts catalogue",
+             "With no one in particular",
+             "With the Jain tradition specifically"],
+         "correct": 1,
+         "expl": "The accusation borrows a label usually pinned on a rival teacher."},
+        {"q": "What is the Buddha's first response to the reported accusation?",
+         "opts": [
+             "A detailed philosophical rebuttal",
+             "That he cannot recall even seeing the student in question",
+             "An angry denial",
+             "Silence"],
+         "correct": 1,
+         "expl": "Questioning whether the reported conversation happened at all."},
+        {"q": "What does the Buddha say after that, to address the substance of the accusation?",
+         "opts": [
+             "A lengthy philosophical argument against akiriya",
+             "He simply restates the four kinds of deeds, word for word, from AN 4.232 and AN 4.233",
+             "He refuses to discuss the matter further",
+             "He asks the brahmin to leave"],
+         "correct": 1,
+         "expl": "The content itself is left to answer the accusation."},
+        {"q": "Why does the guide say this restatement functions as a rebuttal, even without argument?",
+         "opts": [
+             "It does not function as a rebuttal at all",
+             "Because the fourth kind of deed was shown at AN 4.233 to be itself an intention, making the teaching one of intentional action throughout, not its absence",
+             "Because the restatement explicitly denies the accusation",
+             "Because the Buddha's status settles the matter regardless of content"],
+         "correct": 1,
+         "expl": "A teaching built this way cannot coherently be described as advocating that nothing be done."},
+        {"q": "What premise does Soṇakāyana's accusation rest on?",
+         "opts": [
+             "That deeds have no consequences",
+             "That the world exists and continues only because deeds are undertaken",
+             "That the Buddha never speaks in public",
+             "That all deeds are equally dark"],
+         "correct": 1,
+         "expl": "Making non-doing, on this premise, equivalent to teaching annihilation."},
+        {"q": "What does the guide call this discourse, relative to how the canon usually assigns the akiriya label?",
+         "opts": [
+             "An ordinary, unremarkable occurrence",
+             "A rare reversal, showing the Buddha on the receiving end of a mislabeling usually applied to someone else's doctrine",
+             "A forgery, not part of the authentic canon",
+             "Identical to how the label is used everywhere else"],
+         "correct": 1,
+         "expl": "The text preserves the accusation in full rather than smoothing it away."},
+        {"q": "How many times, including this discourse, has this same four-kinds-of-deeds content now been given in this chapter?",
+         "opts": [
+             "Once",
+             "Three times &mdash; bare, detailed, and now narrated",
+             "Five times",
+             "This is the first occurrence"],
+         "correct": 1,
+         "expl": "AN 4.232, AN 4.233, and this discourse."},
+        {"q": "What does the discourse leave unstated, according to the guide?",
+         "opts": [
+             "The content of the four kinds of deeds",
+             "An explicit rebuttal of the accusation, trusting the listener to draw the connection from the restated content",
+             "The brahmin's name",
+             "The Buddha's response entirely"],
+         "correct": 1,
+         "expl": "Consistent with how bare statement functions elsewhere in this collection."},
+        {"q": "Who reports the accusation to the Buddha?",
+         "opts": [
+             "Soṇakāyana himself, in person",
+             "The brahmin Sikhāmoggallāna, secondhand",
+             "A group of mendicants",
+             "An unnamed deity"],
+         "correct": 1,
+         "expl": "The accusation passes through two people before reaching the Buddha."},
+    ],
+    marginalia=[
+        ("The accusation", [
+            "\"non-doing of all deeds\"",
+            "therefore, annihilation",
+            "of the world",
+        ]),
+        ("A label reassigned", [
+            "akiriya &middot; usually Pūraṇa Kassapa",
+            "here, pinned on the Buddha",
+        ]),
+        ("No argument given", [
+            "\"I don't recall meeting him\"",
+            "then: the content, restated",
+        ]),
+        ("Why the content answers it", [
+            "the fourth deed is cetanā &mdash;",
+            "intention, not its absence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.234/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.233.html">AN 4.233 &middot; Deeds in Detail</a> &mdash; the full unpacking whose logic answers this discourse&rsquo;s accusation.',
+        '<a href="an-4.232.html">AN 4.232 &middot; Deeds In Brief</a> &mdash; the bare list this discourse restates a third time.',
+        '<a href="an-4.235.html">AN 4.235 &middot; Training Rules (1st)</a> &mdash; next, applying the same fourfold framework to the five precepts.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.235 — Paṭhamasikkhāpadasutta
+# --------------------------------------------------------------------------- #
+page(
+    235, "Paṭhamasikkhāpada", "Training Rules (1st)",
+    vagga=VAGGA_24,
+    meta_title="AN 4.235 — Training Rules (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Sikkhāpadasutta of "
+        "this chapter, applying the four kinds of deeds to the five lay precepts in full &mdash; "
+        "the first time this series has seen all five, including intoxicants, together. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "The four kinds of deeds, with dark and bright deeds defined by the five "
+                 "precepts"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The five precepts are foundational across the Nikāyas and Āgamas; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; familiar content, in a new "
+                       "combination"),
+    ],
+    why=(
+        "The four-kinds-of-deeds framework from AN 4.232&ndash;234 meets the five lay precepts "
+        "here for the first time with all five present together &mdash; killing, stealing, sexual "
+        "misconduct, lying, and intoxicants. Earlier in this series, at AN 4.214 and AN 4.224, "
+        "only four of the five appeared, paired with the ten courses of action. Here the fifth, "
+        "intoxicants, joins them, completing the set this series has been circling for several "
+        "chapters."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Breaking all five lay precepts is a dark deed with a dark result; keeping all five is "
+            "a bright deed with a bright result, within the same fourfold framework given at AN "
+            "4.232&ndash;234."]),
+        ("The fifth precept, finally complete", [
+            "<em>Pāṇātipāta, adinnādāna, kāmesumicchācāra, musāvāda</em>, and now "
+            "<em>surāmerayamajjapamādaṭṭhāna</em>, intoxicants that cause negligence &mdash; the "
+            "same four items given at AN 4.214 and AN 4.224, joined at last by the fifth. This is "
+            "the first point in this series where all five lay precepts appear together as a "
+            "single set, rather than four of the five standing in for the whole."]),
+        ("The middle two deeds, unchanged", [
+            "The dark-and-bright and the fourth, ending kind of deed are given here in the same "
+            "compressed form already explained at AN 4.233: mixed choices by body, speech, and "
+            "mind for the third; the intention to give up all three for the fourth. Their full "
+            "explanation stands at AN 4.233 and does not need repeating."]),
+        ("A tetrad built for a different purpose than most of this series", [
+            "Where the recycled tetrads of chapters 22 and 23 mostly reused a single four-item "
+            "template across many discourses, this discourse instead takes a template &mdash; the "
+            "four kinds of deeds &mdash; that this chapter itself just introduced, and pours a "
+            "different, well-known content into only two of its four slots. The dark and bright "
+            "slots take the precepts; the mixed and ending slots keep their standard definitions "
+            "from AN 4.233 unchanged."]),
+    ],
+    terms=[
+        ("pañca sīlāni",
+         "the five lay precepts, complete for the first time in this series: not killing, "
+         "stealing, sexual misconduct, lying, or taking intoxicants."),
+        ("surāmerayamajjapamādaṭṭhāna",
+         "&ldquo;the basis of negligence in liquor, wine, and intoxicants&rdquo; &mdash; the fifth "
+         "precept, absent from AN 4.214 and AN 4.224's four-item selections."),
+        ("kammaṁ kaṇhaṁ kaṇhavipākaṁ / kammaṁ sukkaṁ sukkavipākaṁ",
+         "dark deeds with dark results, and bright deeds with bright results &mdash; the first two "
+         "of the four kinds of deed, here defined by the precepts."),
+        ("kammakkhaya",
+         "&ldquo;the ending of deeds&rdquo; &mdash; the fourth kind of deed, given here in the "
+         "same terms as AN 4.233."),
+        ("saṅkhāra",
+         "&ldquo;choice, formation&rdquo; &mdash; what constitutes the dark-and-bright, mixed "
+         "kind of deed, unchanged from AN 4.233."),
+    ],
+    text_intro=(
+        "The discourse in full: the four kinds of deeds, with the five precepts defining the "
+        "first two. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four kinds of deeds"),
+        ("p", "&sect;1", "an4.235:1.1-1.6"),
+        ("h3", "Dark deeds: breaking the five precepts"),
+        ("p", "&sect;2", "an4.235:1.7-1.9"),
+        ("h3", "Bright deeds: keeping the five precepts"),
+        ("p", "&sect;3", "an4.235:2.1-2.3"),
+        ("h3", "The remaining two kinds"),
+        ("p", "&sect;4", "an4.235:3.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What defines dark deeds in this discourse?",
+         "opts": [
+             "The ten courses of action",
+             "Breaking all five lay precepts, including intoxicants",
+             "Wrong view alone",
+             "The eightfold path in reverse"],
+         "correct": 1,
+         "expl": "The first point in this series where all five precepts appear together."},
+        {"q": "How does this discourse's selection differ from AN 4.214 and AN 4.224?",
+         "opts": [
+             "It uses none of the same items",
+             "It adds the fifth precept, intoxicants, completing the set those two discourses left at four items",
+             "It removes lying from the list",
+             "It applies only to laypeople, unlike the other two"],
+         "correct": 1,
+         "expl": "The first time all five lay precepts appear together in this series."},
+        {"q": "How are the mixed and ending kinds of deed defined in this discourse?",
+         "opts": [
+             "Differently from every previous discourse",
+             "In the same terms already given in full at AN 4.233",
+             "They are omitted entirely",
+             "By a new formula unique to this discourse"],
+         "correct": 1,
+         "expl": "Only the dark and bright slots take new content here; the other two are unchanged."},
+        {"q": "What framework does this discourse apply the five precepts to?",
+         "opts": [
+             "The hell/heaven formula from AN 4.212",
+             "The four kinds of deeds from AN 4.232&ndash;234",
+             "The <em>khata</em> formula from AN 4.3",
+             "A framework unique to this discourse"],
+         "correct": 1,
+         "expl": "Introduced at the start of this chapter."},
+        {"q": "What does the guide say distinguishes this discourse's technique from the recycled tetrads of chapters 22 and 23?",
+         "opts": [
+             "No difference exists",
+             "This discourse pours specific content into only two of a template's four slots, rather than reusing the whole template repeatedly",
+             "This discourse invents an entirely new template",
+             "This discourse discards the template entirely"],
+         "correct": 1,
+         "expl": "The dark and bright slots take the precepts; the other two keep their AN 4.233 definitions."},
+        {"q": "What is <em>surāmerayamajjapamādaṭṭhāna</em>?",
+         "opts": [
+             "A term for wrong view",
+             "The basis of negligence in liquor, wine, and intoxicants &mdash; the fifth precept",
+             "A term for stealing",
+             "A term for the ending of deeds"],
+         "correct": 1,
+         "expl": "Absent from AN 4.214 and AN 4.224's four-item selections."},
+        {"q": "What discourse first gave a full explanation of the mixed and ending kinds of deed?",
+         "opts": [
+             "AN 4.232",
+             "AN 4.233",
+             "AN 4.211",
+             "This discourse gives the first explanation"],
+         "correct": 1,
+         "expl": "This discourse relies on that earlier explanation rather than repeating it."},
+        {"q": "What four items did AN 4.214 select from the ten courses of action?",
+         "opts": [
+             "The four verbal courses",
+             "Three bodily courses plus lying, omitting intoxicants entirely since it is not one of the ten courses",
+             "All ten courses",
+             "Only wrong view"],
+         "correct": 1,
+         "expl": "Intoxicants is a precept, not one of the ten courses of action, which is why it was absent there."},
+        {"q": "What discourse in this chapter pairs a related but asymmetric set with the dark/bright framework next?",
+         "opts": [
+             "AN 4.236, pairing the five ānantarika-kammas with a different positive list",
+             "AN 4.211",
+             "AN 4.148",
+             "No further discourse touches this framework"],
+         "correct": 1,
+         "expl": "A less symmetrical pairing than this discourse's clean precepts-mirror."},
+        {"q": "What does the fourth kind of deed remain defined as, per this discourse?",
+         "opts": [
+             "A sixth precept",
+             "The intention to give up the first three kinds of deed",
+             "A new kind of ritual practice",
+             "Silence"],
+         "correct": 1,
+         "expl": "Unchanged from AN 4.233's definition."},
+    ],
+    marginalia=[
+        ("Five precepts, complete", [
+            "AN 4.214, AN 4.224 &middot; four items",
+            "AN 4.235 &middot; all five, at last",
+        ]),
+        ("Two slots filled, two unchanged", [
+            "dark/bright &middot; the precepts",
+            "mixed/ending &middot; from AN 4.233",
+        ]),
+        ("A new use for a chapter's own template", [
+            "not recycled across many discourses,",
+            "but filled once, precisely",
+        ]),
+        ("What comes next", [
+            "AN 4.236 &middot; the five worst crimes,",
+            "paired asymmetrically",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.235/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.233.html">AN 4.233 &middot; Deeds in Detail</a> &mdash; the source of this discourse&rsquo;s mixed and ending definitions.',
+        '<a href="an-4.214.html">AN 4.214 &middot; Killing Living Creatures</a> &mdash; the earlier four-item selection this discourse completes to five.',
+        '<a href="an-4.236.html">AN 4.236 &middot; Training Rules (2nd)</a> &mdash; next, an asymmetric pairing of the five worst crimes.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.236 — Dutiyasikkhāpadasutta
+# --------------------------------------------------------------------------- #
+page(
+    236, "Dutiyasikkhāpada", "Training Rules (2nd)",
+    vagga=VAGGA_24,
+    meta_title="AN 4.236 — Training Rules (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Sikkhāpadasutta, "
+        "pairing the five most serious offenses in the tradition &mdash; matricide, patricide, "
+        "killing an arahant, wounding a Buddha, and causing schism &mdash; with an unrelated list "
+        "of ordinary virtues as their positive counterpart. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "The four kinds of deeds, with dark deeds defined by the five gravest offenses "
+                 "and bright deeds by an unrelated positive list"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The five heinous offenses (<em>ānantarika-kamma</em>) are "
+                              "widespread across Buddhist traditions; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the pairing is worth noticing "
+                       "for what does not mirror"),
+    ],
+    why=(
+        "Where AN 4.235 paired the five precepts cleanly with their own negations, this discourse "
+        "does something less tidy: it defines dark deeds as the five gravest offenses the "
+        "tradition recognizes &mdash; killing one&rsquo;s mother, one&rsquo;s father, or an "
+        "arahant; wounding a Buddha with intent to kill; causing schism in the Saṅgha &mdash; and "
+        "then pairs them with bright deeds that are not their opposite in any straightforward "
+        "sense, but an ordinary list of good conduct and right view."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The five gravest offenses a person can commit are a dark deed with a dark result; "
+            "ordinary good conduct and right view are the bright deed set against them, within the "
+            "same fourfold framework."]),
+        ("The five worst crimes named", [
+            "Matricide, patricide, killing an arahant, maliciously wounding a Realized One, and "
+            "causing a schism in the Saṅgha &mdash; the <em>ānantarika-kamma</em>, the "
+            "&lsquo;deeds with immediate result&rsquo;, so called because the tradition holds they "
+            "ripen without delay, in the very next life, foreclosing any intervening rebirth. This "
+            "discourse names all five together as its single dark deed.",
+            "These are not drawn from the ten courses of action or the five precepts. They form "
+            "their own, older category, reserved in the tradition for offenses considered "
+            "uniquely severe &mdash; against the two people to whom a person owes their existence, "
+            "against a fully liberated being, against the founder of the teaching, and against the "
+            "community that carries it forward."]),
+        ("A pairing that does not mirror", [
+            "Bright deeds, defined against this list, are not stated as the absence of the five "
+            "worst crimes. There is no straightforward positive counterpart to not committing "
+            "matricide the way not killing pairs with the first precept. Instead the discourse "
+            "gives an ordinary ethical description: not killing, stealing, or committing sexual "
+            "misconduct; not using false, backbiting, harsh, or nonsensical speech; being content, "
+            "kind-hearted, and holding right view.",
+            "This asymmetry is worth stating plainly rather than smoothing over. Unlike AN 4.235, "
+            "where dark and bright were exact negations of one list, this discourse sets an "
+            "extreme, narrow category of catastrophic wrongdoing against a broad, ordinary "
+            "description of decent conduct. The two halves of the tetrad are not mirror images; "
+            "they are simply the worst thing named on one side and a reasonable life named on the "
+            "other."]),
+        ("Why the asymmetry may not be a flaw", [
+            "One way to read this is as a gap in the discourse&rsquo;s design. Another is to read "
+            "it as accurate to how these two categories actually relate. The five worst crimes are "
+            "vanishingly rare and, in the tradition&rsquo;s own account, close off certain paths "
+            "entirely regardless of what else a person does; ordinary decent conduct is what "
+            "everyone else&rsquo;s life actually consists of. Pairing a rare catastrophe with an "
+            "ordinary life, rather than manufacturing an artificial mirror-virtue for each "
+            "catastrophic act, may simply reflect that these two things are not symmetrical in "
+            "reality either."]),
+    ],
+    terms=[
+        ("ānantarika-kamma",
+         "&ldquo;deeds with immediate result&rdquo; &mdash; the five gravest offenses, held to "
+         "ripen without delay in the very next life."),
+        ("mātughāta / pitughāta",
+         "matricide and patricide &mdash; the first two of the five, against those to whom a "
+         "person owes their existence."),
+        ("arahantaghāta",
+         "killing an arahant, a fully liberated being &mdash; the third of the five."),
+        ("lohituppāda",
+         "maliciously drawing the blood of a Realized One &mdash; wounding a Buddha with intent "
+         "to kill, the fourth of the five."),
+        ("saṅghabheda",
+         "causing a schism in the Saṅgha &mdash; the fifth, against the community that carries "
+         "the teaching forward."),
+    ],
+    text_intro=(
+        "The discourse in full: the four kinds of deeds, with the five worst crimes and an "
+        "unrelated positive list defining the first two. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "The four kinds of deeds"),
+        ("p", "&sect;1", "an4.236:1.1-1.6"),
+        ("h3", "Dark deeds: the five worst crimes"),
+        ("p", "&sect;2", "an4.236:2.1-2.3"),
+        ("h3", "Bright deeds: ordinary good conduct"),
+        ("p", "&sect;3", "an4.236:3.1-3.3"),
+        ("h3", "The remaining two kinds"),
+        ("p", "&sect;4", "an4.236:4.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What five offenses define dark deeds in this discourse?",
+         "opts": [
+             "The five precepts, broken",
+             "Matricide, patricide, killing an arahant, wounding a Buddha, and causing schism in the Saṅgha",
+             "The ten courses of action",
+             "The four kinds of bad speech"],
+         "correct": 1,
+         "expl": "The <em>ānantarika-kamma</em>, the five gravest offenses the tradition recognizes."},
+        {"q": "Why are these five called <em>ānantarika-kamma</em>?",
+         "opts": [
+             "Because they involve killing family members only",
+             "Because the tradition holds they ripen without delay, in the very next life",
+             "Because they are named after a location",
+             "Because they can be undone by later good deeds"],
+         "correct": 1,
+         "expl": "Foreclosing any intervening rebirth."},
+        {"q": "How does this discourse's bright-deed definition relate to its dark-deed definition?",
+         "opts": [
+             "It is the exact negation of each of the five crimes",
+             "It is an unrelated, ordinary list of decent conduct and right view, not a mirror of the five crimes",
+             "No bright deed is given at all",
+             "It repeats the five precepts exactly"],
+         "correct": 1,
+         "expl": "An asymmetric pairing, unlike AN 4.235's clean mirror of the five precepts."},
+        {"q": "What does the guide say about this asymmetry?",
+         "opts": [
+             "It states plainly that the two halves are not mirror images, and considers this possibly accurate to how the categories relate in reality",
+             "It argues the asymmetry is a scribal error requiring correction",
+             "It denies any asymmetry exists",
+             "It ignores the issue entirely"],
+         "correct": 1,
+         "expl": "A rare catastrophe paired with an ordinary life, rather than a manufactured mirror-virtue."},
+        {"q": "What discourse gives a cleanly mirrored pairing, by contrast?",
+         "opts": [
+             "AN 4.237",
+             "AN 4.235, pairing the five precepts with their own negations",
+             "AN 4.232",
+             "No earlier discourse offers a contrast"],
+         "correct": 1,
+         "expl": "Exact negations of one list, unlike this discourse's asymmetric pairing."},
+        {"q": "What does <em>saṅghabheda</em> mean?",
+         "opts": [
+             "Killing an arahant",
+             "Causing a schism in the Saṅgha",
+             "Wounding a Buddha",
+             "Matricide"],
+         "correct": 1,
+         "expl": "The fifth of the five gravest offenses."},
+        {"q": "What kind of speech does this discourse's bright-deed list exclude?",
+         "opts": [
+             "All speech whatsoever",
+             "False, backbiting, harsh, or nonsensical speech",
+             "Only false speech",
+             "Speech is not mentioned"],
+         "correct": 1,
+         "expl": "The same fourfold division of bad verbal conduct met earlier at AN 4.148 and AN 4.221."},
+        {"q": "What framework structures this discourse?",
+         "opts": [
+             "The hell/heaven formula",
+             "The four kinds of deeds from AN 4.232&ndash;234",
+             "The <em>khata</em> formula",
+             "No consistent framework"],
+         "correct": 1,
+         "expl": "Continued from the discourses immediately before it in this chapter."},
+        {"q": "Against whom are the first two of the five gravest offenses committed?",
+         "opts": [
+             "Strangers",
+             "One's mother and father, those to whom a person owes their existence",
+             "Monastic teachers only",
+             "Foreign rulers"],
+         "correct": 1,
+         "expl": "Matricide and patricide, the first two of the five."},
+        {"q": "How are the mixed and ending kinds of deed defined in this discourse?",
+         "opts": [
+             "Differently from AN 4.233",
+             "In the same terms already given in full at AN 4.233",
+             "They are omitted",
+             "By reference to the five worst crimes"],
+         "correct": 1,
+         "expl": "Unchanged, as at AN 4.235."},
+    ],
+    marginalia=[
+        ("Five gravest offenses", [
+            "matricide &middot; patricide",
+            "killing an arahant",
+            "wounding a Buddha &middot; schism",
+        ]),
+        ("No clean mirror", [
+            "dark: five catastrophes",
+            "bright: an ordinary life",
+        ]),
+        ("Contrast with AN 4.235", [
+            "precepts, exactly negated",
+            "vs. crimes, loosely answered",
+        ]),
+        ("Possibly not a flaw", [
+            "rare catastrophe,",
+            "paired with the ordinary",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.236/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.235.html">AN 4.235 &middot; Training Rules (1st)</a> &mdash; the cleanly mirrored pairing this discourse contrasts with.',
+        '<a href="an-4.233.html">AN 4.233 &middot; Deeds in Detail</a> &mdash; the source of this discourse&rsquo;s mixed and ending definitions.',
+        '<a href="an-4.237.html">AN 4.237 &middot; The Noble Path</a> &mdash; next, naming the fourth kind of deed explicitly.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.237 — Ariyamaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    237, "Ariyamagga", "The Noble Path",
+    vagga=VAGGA_24,
+    meta_title="AN 4.237 — The Noble Path | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ariyamaggasutta, which "
+        "gives the fourth kind of deed &mdash; the one that ends deeds &mdash; its first explicit "
+        "identity: the noble eightfold path. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "The four kinds of deeds, with the ending kind now named as the eightfold path"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The identification of the path with the ending of kamma is "
+                              "consistent with material found at MN 57; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a short discourse making a "
+                       "large claim"),
+    ],
+    why=(
+        "AN 4.232 named a fourth kind of deed that leads to the ending of deeds, without saying "
+        "what it consists of. AN 4.233 said it was an intention to abandon the other three, still "
+        "without naming a practice. This discourse finally gives it an address: the noble "
+        "eightfold path, factor for factor, is what the fourth kind of deed actually is."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eightfold path &mdash; right view through right immersion &mdash; is, in full, "
+            "the fourth kind of deed: the one that is neither dark nor bright and leads to the "
+            "ending of deeds."]),
+        ("The first three kinds, given briefly", [
+            "Dark, bright, and dark-and-bright deeds are here given in their most compressed form: "
+            "hurtful, pleasing, or both hurtful and pleasing choices by body, speech, and mind, "
+            "with no elaboration of rebirth, contact, or feeling. Their full account remains at AN "
+            "4.233; this discourse&rsquo;s attention is on the fourth item alone."]),
+        ("The fourth item, finally named", [
+            "<em>Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, "
+            "sammāsati, sammāsamādhi</em> &mdash; right view, purpose, speech, action, livelihood, "
+            "effort, mindfulness, and immersion, the same eight factors already met whole at AN "
+            "4.205 and split in half twice, at AN 4.215&ndash;216 and AN 4.225&ndash;226. Here, "
+            "for the first time in this series, the eightfold path is not merely a set of "
+            "practices to be developed; it is identified outright as a kind of deed, on equal "
+            "footing with dark, bright, and mixed deeds in the same four-part classification."]),
+        ("What it means to call the path a kind of deed", [
+            "This identification carries real weight. Walking the path is, on this account, not a "
+            "fifth option standing outside the kamma-classification of AN 4.232, nor a suspension "
+            "of kamma while one practises. It is itself kamma &mdash; a fourth, distinct kind, "
+            "differentiated from the other three by producing no vipāka, no ripened result of the "
+            "ordinary kind, because it is aimed at ending the mechanism that produces results "
+            "rather than participating in it.",
+            "Read together with AN 4.233&rsquo;s definition of the fourth kind as an "
+            "<em>intention</em> to abandon the other three, this discourse fills in what practising "
+            "that intention concretely consists of: not merely wishing to stop generating "
+            "hurtful, pleasing, and mixed deeds, but walking a specific, eight-factored path."]),
+        ("A fourth appearance for the eightfold path in this series", [
+            "Within the Fours alone, the eightfold path has now been given whole at AN 4.205, "
+            "split in half at AN 4.215&ndash;216, split again at AN 4.225&ndash;226, and now "
+            "identified as the fourth kind of deed here. Four appearances, four different framings "
+            "&mdash; a set of practices, two halves of a divided list twice over, and now a "
+            "category of action in its own right &mdash; all naming the identical eight factors."]),
+    ],
+    terms=[
+        ("ariya aṭṭhaṅgika magga",
+         "&ldquo;the noble eightfold path&rdquo; &mdash; here identified explicitly as the fourth "
+         "kind of deed, its fourth distinct appearance in this series."),
+        ("kammaṁ akaṇhaasukkaṁ akaṇhaasukkavipākaṁ",
+         "&ldquo;deeds that are neither dark nor bright, with results that are neither dark nor "
+         "bright&rdquo; &mdash; the category this discourse identifies with the path."),
+        ("kammakkhaya",
+         "&ldquo;the ending of deeds&rdquo; &mdash; what walking the path, as a kind of deed, "
+         "leads to."),
+        ("cetanā",
+         "&ldquo;intention&rdquo; &mdash; AN 4.233's definition of the fourth kind of deed, "
+         "concretized here as the practice of the eightfold path."),
+        ("vipāka",
+         "&ldquo;result, ripening&rdquo; &mdash; present for the first three kinds of deed, absent "
+         "from the path, which ends the mechanism rather than producing a further result within "
+         "it."),
+    ],
+    text_intro=(
+        "The discourse in full: the four kinds of deeds, with the fourth identified as the "
+        "eightfold path. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four kinds of deeds"),
+        ("p", "&sect;1", "an4.237:1.1-1.6"),
+        ("h3", "The first three, briefly"),
+        ("p", "&sect;2", "an4.237:2.1-4.2"),
+        ("h3", "The fourth: the eightfold path"),
+        ("p", "&sect;3", "an4.237:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse identify as the fourth kind of deed?",
+         "opts": [
+             "The five precepts",
+             "The noble eightfold path, factor for factor",
+             "The ten courses of action",
+             "A new, unnamed practice"],
+         "correct": 1,
+         "expl": "The first explicit identification of what the ending-of-deeds kind consists of."},
+        {"q": "Where was this same eightfold path previously given whole, without splitting?",
+         "opts": [
+             "AN 4.148",
+             "AN 4.205",
+             "AN 4.211",
+             "This is its first appearance"],
+         "correct": 1,
+         "expl": "Its fourth appearance in this series, after being split twice more at AN 4.215&ndash;216 and AN 4.225&ndash;226."},
+        {"q": "What does the guide say it means to identify the path as a kind of deed?",
+         "opts": [
+             "That the path suspends kamma entirely while one practises",
+             "That the path is itself kamma, a fourth kind, differentiated by producing no ordinary ripened result",
+             "That the path has no relationship to kamma at all",
+             "That the path is identical to dark deeds"],
+         "correct": 1,
+         "expl": "Aimed at ending the mechanism that produces results, rather than participating in it."},
+        {"q": "How does this discourse relate to AN 4.233's definition of the fourth kind of deed as an intention?",
+         "opts": [
+             "It contradicts that definition",
+             "It fills in what practising that intention concretely consists of: walking the eightfold path",
+             "It has no relationship to that definition",
+             "It replaces intention with pure inaction"],
+         "correct": 1,
+         "expl": "Not merely wishing to stop, but a specific, eight-factored practice."},
+        {"q": "How many times has the eightfold path now appeared within the Fours, according to the guide?",
+         "opts": [
+             "Once",
+             "Four times, in four different framings, all naming the identical eight factors",
+             "Ten times",
+             "Twice"],
+         "correct": 1,
+         "expl": "Whole at AN 4.205, split twice, and now identified as a kind of deed."},
+        {"q": "How are the first three kinds of deed given in this discourse?",
+         "opts": [
+             "In full detail, as at AN 4.233",
+             "Briefly, with no elaboration of rebirth, contact, or feeling",
+             "Omitted entirely",
+             "Replaced by a new list"],
+         "correct": 1,
+         "expl": "This discourse's attention is on the fourth item alone."},
+        {"q": "What is absent from the fourth kind of deed that is present for the first three?",
+         "opts": [
+             "Any content at all",
+             "<em>Vipāka</em>, a ripened result of the ordinary kind",
+             "Any connection to intention",
+             "Any connection to the Buddha's own teaching"],
+         "correct": 1,
+         "expl": "Because it ends the mechanism rather than producing a further result within it."},
+        {"q": "What discourse in this chapter offers a second, different identification of the fourth kind of deed?",
+         "opts": [
+             "AN 4.238, naming the seven awakening factors",
+             "AN 4.239",
+             "AN 4.232",
+             "No other discourse offers an identification"],
+         "correct": 1,
+         "expl": "Two different, both legitimate, addresses for the same transcending category."},
+        {"q": "What are the first two factors of the eightfold path named in this discourse?",
+         "opts": [
+             "Right livelihood and right effort",
+             "Right view and right purpose",
+             "Right speech and right action",
+             "Right mindfulness and right immersion"],
+         "correct": 1,
+         "expl": "The wisdom grouping, opening the standard eight-factor sequence."},
+        {"q": "What does the guide say this discourse's claim about the path is, in scope?",
+         "opts": [
+             "A minor, incidental remark",
+             "A large claim: the path is not a fifth option outside AN 4.232's classification but a fourth kind of deed within it",
+             "A claim unrelated to the rest of the chapter",
+             "A claim that contradicts AN 4.232"],
+         "correct": 1,
+         "expl": "On equal footing with dark, bright, and mixed deeds in the same classification."},
+    ],
+    marginalia=[
+        ("The fourth, finally named", [
+            "AN 4.232 &middot; unnamed",
+            "AN 4.233 &middot; an intention",
+            "AN 4.237 &middot; the eightfold path",
+        ]),
+        ("The path's fourth appearance", [
+            "whole &middot; AN 4.205",
+            "split twice &middot; AN 4.215, 4.225",
+            "as a kind of deed &middot; here",
+        ]),
+        ("A deed with no ordinary result", [
+            "vipāka, present for three;",
+            "absent from the fourth",
+        ]),
+        ("A second identification, next", [
+            "AN 4.238 &middot; the awakening factors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.237/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.205.html">AN 4.205 &middot; Eightfold</a> &mdash; the path given whole and unsplit.',
+        '<a href="an-4.233.html">AN 4.233 &middot; Deeds in Detail</a> &mdash; the source of the intention-based definition this discourse concretizes.',
+        '<a href="an-4.238.html">AN 4.238 &middot; Awakening Factors</a> &mdash; next, a second identification of the same fourth kind of deed.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.238 — Bojjhaṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    238, "Bojjhaṅga", "Awakening Factors",
+    vagga=VAGGA_24,
+    meta_title="AN 4.238 — Awakening Factors | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bojjhaṅgasutta, giving "
+        "the fourth kind of deed a second identity &mdash; the seven awakening factors, appearing "
+        "in this series for the first time. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "The four kinds of deeds, with the ending kind now named as the seven awakening "
+                 "factors"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The seven awakening factors are foundational across the Nikāyas "
+                              "and Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a first appearance for an "
+                       "important list, worth reading with care"),
+    ],
+    why=(
+        "Where AN 4.237 identified the fourth, ending kind of deed with the eightfold path, this "
+        "discourse offers a second identification: the seven <em>bojjhaṅgā</em>, the factors of "
+        "awakening. Where the path organizes practice as a sequence with a beginning and an end, "
+        "the awakening factors describe a different structure &mdash; qualities that arise and "
+        "support one another in meditation, cultivated together rather than walked through in "
+        "order."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The seven awakening factors &mdash; mindfulness, investigation, energy, rapture, "
+            "tranquility, immersion, and equanimity &mdash; are, as a set, the fourth kind of "
+            "deed: the one that ends deeds."]),
+        ("The seven, named for the first time in this series", [
+            "<em>Sati, dhammavicaya, vīriya, pīti, passaddhi, samādhi, upekkhā</em> &mdash; "
+            "mindfulness, investigation of principles, energy, rapture, tranquility, immersion, "
+            "and equanimity. This is the seven awakening factors&rsquo; first appearance in this "
+            "series, and it is worth naming what kind of list it is before saying more: not a "
+            "sequence of eight discrete factors like the path, but seven qualities that the "
+            "tradition elsewhere describes as arising in a supportive chain, each strengthening "
+            "the conditions for the next, and culminating in equanimity."]),
+        ("Two identifications, not a contradiction", [
+            "That the fourth kind of deed is identified with the eightfold path at AN 4.237 and "
+            "with the awakening factors here is not the discourse offering two competing answers "
+            "to the same question. The <em>bodhipakkhiyā dhammā</em>, the qualities that "
+            "contribute to awakening, traditionally include several such lists &mdash; the four "
+            "kinds of mindfulness meditation, the four right efforts, the four bases of psychic "
+            "power, the five faculties, the five powers, the seven awakening factors, and the "
+            "eightfold path &mdash; overlapping sets describing the same territory of practice "
+            "from different angles. Naming two of them here as the fourth kind of deed is "
+            "consistent with treating any member of that family as an equally valid answer."]),
+        ("Why this matters for reading the fourth kind of deed generally", [
+            "Taken together, AN 4.237 and this discourse suggest that &lsquo;the fourth kind of "
+            "deed&rsquo; is not a single named practice with one correct label, but a functional "
+            "category: whatever practice genuinely ends the generation of dark, bright, and mixed "
+            "deeds qualifies, whether described as an eight-factored path or a seven-factored "
+            "chain of qualities. The chapter is not choosing between the two; it is showing that "
+            "the category admits more than one accurate description."]),
+    ],
+    terms=[
+        ("bojjhaṅga",
+         "&ldquo;awakening factor&rdquo; &mdash; one of seven qualities the tradition holds "
+         "arise in a supportive chain during meditative development, appearing here for the "
+         "first time in this series."),
+        ("dhammavicaya",
+         "&ldquo;investigation of principles&rdquo; &mdash; the second awakening factor, the "
+         "active discernment of what is wholesome and unwholesome."),
+        ("pīti / passaddhi",
+         "&ldquo;rapture&rdquo; and &ldquo;tranquility&rdquo; &mdash; the fourth and fifth "
+         "factors, rapture&rsquo;s energy settling into tranquility&rsquo;s calm."),
+        ("upekkhā",
+         "&ldquo;equanimity&rdquo; &mdash; the seventh and final awakening factor, the chain's "
+         "culmination."),
+        ("bodhipakkhiyā dhammā",
+         "&ldquo;qualities contributing to awakening&rdquo; &mdash; the family of seven "
+         "overlapping lists, including both the awakening factors and the eightfold path, that "
+         "describe the same territory of practice from different angles."),
+    ],
+    text_intro=(
+        "The discourse in full: the four kinds of deeds, with the fourth identified as the "
+        "seven awakening factors. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four kinds of deeds"),
+        ("p", "&sect;1", "an4.238:1.1-1.2"),
+        ("h3", "The first three, briefly"),
+        ("p", "&sect;2", "an4.238:2.1-3.2"),
+        ("h3", "The fourth: the awakening factors"),
+        ("p", "&sect;3", "an4.238:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse identify as the fourth kind of deed?",
+         "opts": [
+             "The eightfold path",
+             "The seven awakening factors: mindfulness, investigation, energy, rapture, tranquility, immersion, and equanimity",
+             "The five precepts",
+             "The ten courses of action"],
+         "correct": 1,
+         "expl": "This list's first appearance in this series."},
+        {"q": "How does the structure of the awakening factors differ from the eightfold path, per the guide?",
+         "opts": [
+             "There is no structural difference",
+             "The path is a sequence walked in order; the awakening factors arise in a supportive chain, each strengthening the next",
+             "The awakening factors have no internal order at all",
+             "The awakening factors are identical in content to the path"],
+         "correct": 1,
+         "expl": "Different structures describing related territory."},
+        {"q": "Does the guide read AN 4.237 and this discourse as contradicting each other?",
+         "opts": [
+             "Yes, one must be an error",
+             "No &mdash; both belong to the overlapping family of <em>bodhipakkhiyā dhammā</em>, qualities contributing to awakening",
+             "Yes, only the path is considered valid",
+             "Yes, only the awakening factors are considered valid"],
+         "correct": 1,
+         "expl": "Multiple accurate descriptions of the same functional category."},
+        {"q": "What does the guide conclude about \"the fourth kind of deed\" as a category, given two identifications?",
+         "opts": [
+             "It has exactly one correct label",
+             "It is a functional category: whatever practice ends the generation of the other three kinds of deed qualifies",
+             "It cannot be identified with any specific practice",
+             "It applies only to monastics"],
+         "correct": 1,
+         "expl": "The chapter shows the category admits more than one accurate description."},
+        {"q": "What is <em>upekkhā</em>, the seventh awakening factor?",
+         "opts": [
+             "Investigation of principles",
+             "Equanimity, the chain's culmination",
+             "Rapture",
+             "Mindfulness"],
+         "correct": 1,
+         "expl": "The final factor in the traditional sequence."},
+        {"q": "What other lists belong to the same <em>bodhipakkhiyā dhammā</em> family as the awakening factors and the path?",
+         "opts": [
+             "Only the five precepts",
+             "The four kinds of mindfulness meditation, four right efforts, four bases of psychic power, five faculties, and five powers",
+             "Only the ten courses of action",
+             "No other lists belong to this family"],
+         "correct": 1,
+         "expl": "Overlapping sets describing the same territory of practice from different angles."},
+        {"q": "What is <em>dhammavicaya</em>?",
+         "opts": [
+             "Mindfulness",
+             "Investigation of principles, the active discernment of wholesome and unwholesome",
+             "Equanimity",
+             "Rapture"],
+         "correct": 1,
+         "expl": "The second of the seven awakening factors."},
+        {"q": "How are the first three kinds of deed given in this discourse?",
+         "opts": [
+             "In full detail",
+             "Briefly, matching the compressed style of AN 4.237",
+             "Omitted",
+             "Replaced by new content"],
+         "correct": 1,
+         "expl": "This discourse's focus, like AN 4.237's, is on the fourth item."},
+        {"q": "What earlier discourse in this chapter first identified the fourth kind of deed with a specific practice?",
+         "opts": [
+             "AN 4.232",
+             "AN 4.237, with the eightfold path",
+             "AN 4.233",
+             "AN 4.234"],
+         "correct": 1,
+         "expl": "This discourse offers a second, complementary identification."},
+        {"q": "What relationship do rapture and tranquility have in the traditional sequence of awakening factors?",
+         "opts": [
+             "No relationship",
+             "Rapture's energy settles into tranquility's calm",
+             "They are the same factor under two names",
+             "Tranquility precedes rapture"],
+         "correct": 1,
+         "expl": "The fourth and fifth factors in the standard order."},
+    ],
+    marginalia=[
+        ("Seven factors, first named here", [
+            "mindfulness &middot; investigation",
+            "energy &middot; rapture",
+            "tranquility &middot; immersion &middot; equanimity",
+        ]),
+        ("Two identifications, not a conflict", [
+            "AN 4.237 &middot; the path",
+            "AN 4.238 &middot; the factors",
+        ]),
+        ("One family, many lists", [
+            "bodhipakkhiyā dhammā &mdash;",
+            "seven overlapping sets",
+        ]),
+        ("A functional category", [
+            "whatever ends the mechanism",
+            "counts as the fourth deed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.238/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.237.html">AN 4.237 &middot; The Noble Path</a> &mdash; the first identification of the fourth kind of deed.',
+        '<a href="an-4.233.html">AN 4.233 &middot; Deeds in Detail</a> &mdash; the source of the fourth kind of deed&rsquo;s original, intention-based definition.',
+        '<a href="an-4.239.html">AN 4.239 &middot; Blameworthy</a> &mdash; next, returning to the hell/heaven formula from AN 4.212.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.239 — Sāvajjasutta
+# --------------------------------------------------------------------------- #
+page(
+    239, "Sāvajja", "Blameworthy",
+    vagga=VAGGA_24,
+    meta_title="AN 4.239 — Blameworthy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sāvajjasutta, returning "
+        "this chapter to the hell/heaven formula from AN 4.212, now filled with blameworthy and "
+        "blameless conduct and view. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel statements, placement in hell or heaven, on a tetrad of blameworthy "
+                 "or blameless conduct and view"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a brief return to a familiar "
+                       "formula, with new vocabulary"),
+    ],
+    why=(
+        "After eight discourses on the four kinds of deeds, this chapter briefly returns to the "
+        "<em>yathābhataṁ nikkhitto</em> formula first met at AN 4.212 &mdash; placement in hell or "
+        "heaven as if delivered there &mdash; filling its familiar three-conduct-plus-view tetrad "
+        "with a new pair of adjectives: blameworthy and blameless."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Blameworthy conduct in body, speech, and mind, plus blameworthy view, delivers a "
+            "person to hell as if placed there; the blameless counterparts deliver them to "
+            "heaven."]),
+        ("A familiar template, a new pair of terms", [
+            "<em>Sāvajjena kāyakammena, sāvajjāya vacīkammena, sāvajjena manokammena, sāvajjāya "
+            "diṭṭhiyā</em> &mdash; blameworthy deeds by body, speech, and mind, and blameworthy "
+            "view. This is the same three-conduct-plus-view tetrad first read at AN 4.212 and "
+            "repeated with substitutions across AN 4.213, AN 4.222, and AN 4.223, now filled with "
+            "yet another pair of qualifying adjectives: <em>sāvajja</em> and <em>anavajja</em>, "
+            "blameworthy and blameless, rather than the earlier discourses&rsquo; plain "
+            "duccarita/sucarita, bad/good."]),
+        ("Why blame, specifically", [
+            "<em>Sāvajja</em> was already met in this series at AN 4.222, where the fool "
+            "<em>sāvajjo ca hoti sānuvajjo viññūnaṁ</em>, deserves blame and criticism from "
+            "sensible people, under the <em>khata</em> formula. This discourse takes that same "
+            "quality of blameworthiness and, rather than treating it as a consequence a person "
+            "incurs, makes it a description of the conduct itself &mdash; deeds and a view that "
+            "are blameworthy in their own character, not merely deeds that later earn blame."]),
+        ("A short discourse that ties two formulas together", [
+            "Read alongside AN 4.222, this discourse shows the same vocabulary, "
+            "<em>sāvajja</em>, doing work in both this chapter&rsquo;s hell/heaven formula and the "
+            "previous chapter&rsquo;s <em>khata</em> formula &mdash; further evidence, consistent "
+            "with what this series observed at AN 4.227, that specific terms move freely between "
+            "the different consequence-formulas this collection uses, while the formulas "
+            "themselves stay distinct."]),
+    ],
+    terms=[
+        ("sāvajja / anavajja",
+         "&ldquo;blameworthy&rdquo; and &ldquo;blameless&rdquo; &mdash; the pair of qualifying "
+         "terms filling this discourse&rsquo;s tetrad, already met describing a consequence at AN "
+         "4.222."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula from AN 4.212, briefly "
+         "returning after this chapter&rsquo;s run of deed-focused discourses."),
+        ("kāyakamma, vacīkamma, manokamma",
+         "deeds by body, speech, and mind &mdash; the same threefold division of conduct used "
+         "throughout this series, here termed <em>kamma</em> rather than <em>carita</em>."),
+        ("diṭṭhi",
+         "&ldquo;view&rdquo; &mdash; the fourth, closing item of the tetrad, as at AN 4.212."),
+        ("sānuvajja",
+         "&ldquo;deserving criticism&rdquo; &mdash; the related term from AN 4.222&rsquo;s "
+         "<em>khata</em> formula, describing consequence rather than character."),
+    ],
+    text_intro=(
+        "The discourse in full: hell for the four, heaven for their opposites. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.239:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.239:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What formula does this discourse return to?",
+         "opts": [
+             "The <em>khata</em> formula from AN 4.3",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;, from AN 4.212",
+             "The four kinds of deeds from AN 4.232",
+             "A new formula unique to this discourse"],
+         "correct": 1,
+         "expl": "Briefly resurfacing after this chapter's run of deed-focused discourses."},
+        {"q": "What pair of terms fills this discourse's tetrad?",
+         "opts": [
+             "Dark and bright",
+             "Blameworthy and blameless, <em>sāvajja</em> and <em>anavajja</em>",
+             "Hurtful and pleasing",
+             "True and untrue"],
+         "correct": 1,
+         "expl": "A new qualifying pair on the same three-conduct-plus-view template."},
+        {"q": "Where was <em>sāvajja</em> already used in this series?",
+         "opts": [
+             "AN 4.148",
+             "AN 4.222, describing a consequence under the <em>khata</em> formula",
+             "AN 4.211",
+             "This is its first appearance"],
+         "correct": 1,
+         "expl": "There it described what a fool deserves; here it describes the conduct's own character."},
+        {"q": "What does the guide say this discourse shows about how vocabulary moves through the collection?",
+         "opts": [
+             "Vocabulary never moves between different formulas",
+             "Specific terms like <em>sāvajja</em> move freely between different consequence-formulas, while the formulas themselves stay distinct",
+             "This discourse invents entirely new vocabulary",
+             "The formulas are identical to each other"],
+         "correct": 1,
+         "expl": "Consistent with the pattern already observed at AN 4.227's diṭṭha-suta-muta-viññāta vocabulary."},
+        {"q": "What tetrad template does this discourse reuse?",
+         "opts": [
+             "The four kinds of deeds",
+             "Three modes of conduct plus view, first read at AN 4.212",
+             "The five precepts",
+             "The seven awakening factors"],
+         "correct": 1,
+         "expl": "The same template already filled with different vocabulary at AN 4.213, AN 4.222, and AN 4.223."},
+        {"q": "What three modes of conduct are named in this discourse's tetrad?",
+         "opts": [
+             "Faith, ethics, and wisdom",
+             "Body, speech, and mind",
+             "View, intention, and effort",
+             "Killing, stealing, and lying"],
+         "correct": 1,
+         "expl": "The standard threefold division running throughout this series."},
+        {"q": "What discourse immediately follows this one, using a related but different pair of terms?",
+         "opts": [
+             "AN 4.232",
+             "AN 4.240, using \"hurtful\" and \"pleasing\"",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "Vocabulary shared with AN 4.233's kamma teaching, not with this discourse's blame vocabulary."},
+        {"q": "What is the fourth, closing item of this discourse's tetrad?",
+         "opts": [
+             "Wrong livelihood",
+             "View, <em>diṭṭhi</em>",
+             "Ingratitude",
+             "Laziness"],
+         "correct": 1,
+         "expl": "As at AN 4.212, the tetrad's original template."},
+        {"q": "How is conduct described in this discourse, compared to the plain duccarita/sucarita of AN 4.212?",
+         "opts": [
+             "Identically, with no change in vocabulary",
+             "As blameworthy or blameless in character, rather than simply bad or good",
+             "As dark or bright",
+             "As hurtful or pleasing"],
+         "correct": 1,
+         "expl": "A new qualifying pair filling the same structural slot."},
+        {"q": "What term describes the consequence a fool incurs at AN 4.222, related to this discourse's vocabulary?",
+         "opts": [
+             "Kammakkhaya",
+             "Sānuvajja, deserving criticism",
+             "Vipāka",
+             "Cetanā"],
+         "correct": 1,
+         "expl": "The same root as this discourse's <em>sāvajja</em>, applied there to consequence rather than character."},
+    ],
+    marginalia=[
+        ("A formula's brief return", [
+            "yathābhataṁ nikkhitto",
+            "after eight deed-focused discourses",
+        ]),
+        ("New vocabulary, old template", [
+            "sāvajja &middot; anavajja",
+            "on the AN 4.212 tetrad",
+        ]),
+        ("A term already met", [
+            "sāvajja &middot; AN 4.222",
+            "there: consequence",
+            "here: character",
+        ]),
+        ("Vocabulary travels; formulas stay distinct", [
+            "confirmed again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.239/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.212.html">AN 4.212 &middot; View</a> &mdash; the source of this discourse&rsquo;s template.',
+        '<a href="an-4.222.html">AN 4.222 &middot; View</a> &mdash; where <em>sāvajja</em> already appeared, describing consequence rather than character.',
+        '<a href="an-4.240.html">AN 4.240 &middot; Pleasing</a> &mdash; next, the same template with hurtful/pleasing vocabulary.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.240 — Abyābajjhasutta
+# --------------------------------------------------------------------------- #
+page(
+    240, "Abyābajjha", "Pleasing",
+    vagga=VAGGA_24,
+    meta_title="AN 4.240 — Pleasing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Abyābajjhasutta, "
+        "filling AN 4.212's tetrad with the exact hurtful/pleasing vocabulary AN 4.233 used to "
+        "define the four kinds of deeds &mdash; a precise internal echo within this chapter. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel statements, placement in hell or heaven, on a tetrad of hurtful or "
+                 "pleasing conduct and view"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief, but worth pausing on "
+                       "for its vocabulary"),
+    ],
+    why=(
+        "Hurtful conduct and hurtful view deliver a person to hell; pleasing conduct and pleasing "
+        "view deliver them to heaven. The words doing the work here, <em>sabyābajjha</em> and "
+        "<em>abyābajjha</em>, are not new to this chapter &mdash; they are the exact terms AN "
+        "4.233 used to define the choices behind dark and bright deeds, nine discourses earlier in "
+        "this same chapter. This is one of the tightest internal echoes this series has found."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Hurtful conduct in body, speech, and mind, plus hurtful view, delivers a person to "
+            "hell as if placed there; pleasing conduct and pleasing view deliver them to heaven."]),
+        ("The same words, nine discourses apart", [
+            "<em>Sabyābajjhena kāyakammena&hellip; abyābajjhena kāyakammena</em> &mdash; "
+            "&lsquo;hurtful&rsquo; and &lsquo;pleasing&rsquo; are precisely the adjectives AN "
+            "4.233 applied to the <em>saṅkhāra</em>, the intentional choices, that define dark and "
+            "bright deeds: someone who <em>makes hurtful choices by way of body, speech, and "
+            "mind</em>, or <em>pleasing choices</em>. There, the vocabulary described the origin of "
+            "a whole causal chain running through rebirth and feeling. Here, the identical "
+            "vocabulary fills the AN 4.212 tetrad instead, describing conduct that earns a "
+            "destination directly rather than triggering the fuller mechanism AN 4.233 traced."]),
+        ("One chapter, one small vocabulary, two formulas", [
+            "Combined with AN 4.239's use of <em>sāvajja</em>, this discourse confirms that this "
+            "chapter is doing, in miniature and within a single chapter, what earlier chapters did "
+            "across chapter boundaries: taking a small set of morally loaded adjectives &mdash; "
+            "blameworthy, hurtful, pleasing &mdash; and fitting them into more than one "
+            "consequence-formula the collection has already established. The chapter&rsquo;s own "
+            "opening discourses supplied the vocabulary; its closing pair puts that vocabulary to "
+            "work a second way."]),
+        ("What stays constant across the two uses", [
+            "In both settings, hurtful and pleasing name the moral character of an intentional "
+            "choice, not an external judgment imposed afterward. AN 4.233 was explicit that the "
+            "words describe <em>saṅkhāra</em>, the choices themselves, prior to any rebirth or "
+            "result; this discourse&rsquo;s tetrad, following AN 4.212&rsquo;s template, likewise "
+            "describes conduct and view as themselves hurtful or pleasing, with the hell or heaven "
+            "destination following as consequence rather than definition."]),
+    ],
+    terms=[
+        ("sabyābajjha / abyābajjha",
+         "&ldquo;hurtful&rdquo; and &ldquo;pleasing&rdquo; &mdash; the exact vocabulary AN 4.233 "
+         "used for the choices behind dark and bright deeds, reused here nine discourses later."),
+        ("saṅkhāra",
+         "&ldquo;choice, formation&rdquo; &mdash; what AN 4.233 called the hurtful or pleasing "
+         "intentional act; this discourse applies the same adjectives directly to conduct and "
+         "view instead."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the AN 4.212 formula, continued from "
+         "AN 4.239."),
+        ("kāyakamma, vacīkamma, manokamma, diṭṭhi",
+         "the tetrad's four slots: deeds by body, speech, and mind, and view &mdash; as at AN "
+         "4.212 and AN 4.239."),
+        ("kammakkhaya",
+         "&ldquo;the ending of deeds&rdquo; &mdash; not named in this discourse, but the "
+         "destination AN 4.233 reserved for choices neither hurtful nor pleasing, distinct from "
+         "either destination named here."),
+    ],
+    text_intro=(
+        "The discourse in full: hell for the four, heaven for their opposites. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.240:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.240:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What pair of terms fills this discourse's tetrad?",
+         "opts": [
+             "Blameworthy and blameless",
+             "Hurtful and pleasing, <em>sabyābajjha</em> and <em>abyābajjha</em>",
+             "Dark and bright",
+             "Faithful and faithless"],
+         "correct": 1,
+         "expl": "The exact vocabulary AN 4.233 used for the choices behind dark and bright deeds."},
+        {"q": "Where did this same vocabulary previously appear in this chapter?",
+         "opts": [
+             "It appears here for the first time",
+             "AN 4.233, describing the <em>saṅkhāra</em> behind dark and bright deeds",
+             "AN 4.235",
+             "AN 4.237"],
+         "correct": 1,
+         "expl": "Nine discourses earlier in the same chapter."},
+        {"q": "What does the guide say distinguishes the two uses of this vocabulary?",
+         "opts": [
+             "No distinction; the two uses are identical in every respect",
+             "AN 4.233 uses it to describe the choice originating a full causal chain through rebirth and feeling; this discourse fills a tetrad describing conduct that earns a destination directly",
+             "This discourse rejects AN 4.233's usage as incorrect",
+             "The vocabulary means something entirely unrelated in each case"],
+         "correct": 1,
+         "expl": "Same words, different formula and different level of elaboration."},
+        {"q": "What formula does this discourse continue from AN 4.239?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;",
+             "The four kinds of deeds",
+             "No consistent formula"],
+         "correct": 1,
+         "expl": "Continued unchanged."},
+        {"q": "What does the guide say this discourse, together with AN 4.239, confirms about this chapter?",
+         "opts": [
+             "That the chapter has no internal coherence",
+             "That the chapter reuses a small set of adjectives across more than one consequence-formula, in miniature and within a single chapter",
+             "That the chapter contains only one formula throughout",
+             "That the vocabulary is unique to each discourse with no reuse"],
+         "correct": 1,
+         "expl": "The same technique earlier chapters used across chapter boundaries, now done within one chapter."},
+        {"q": "What did AN 4.233 call the hurtful or pleasing choice, prior to rebirth or result?",
+         "opts": [
+             "Vipāka",
+             "Saṅkhāra",
+             "Diṭṭhi",
+             "Kammakkhaya"],
+         "correct": 1,
+         "expl": "The intentional formation defining dark and bright deeds."},
+        {"q": "What stays constant between this discourse's use of hurtful/pleasing and AN 4.233's, per the guide?",
+         "opts": [
+             "Nothing stays constant",
+             "Both describe the moral character of an intentional choice itself, not an externally imposed judgment",
+             "Both describe only external consequences",
+             "Both apply exclusively to speech"],
+         "correct": 1,
+         "expl": "The destination follows as consequence rather than functioning as the definition."},
+        {"q": "What tetrad template does this discourse fill?",
+         "opts": [
+             "The four kinds of deeds",
+             "Three modes of conduct plus view, from AN 4.212",
+             "The five precepts",
+             "The seven awakening factors"],
+         "correct": 1,
+         "expl": "The same template as AN 4.239, with different vocabulary."},
+        {"q": "What discourse follows this one, closing the chapter's shorter discourses before its final two?",
+         "opts": [
+             "AN 4.241, on the four ascetics",
+             "AN 4.232",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "Moving to genuinely new content on the four stages of awakening."},
+        {"q": "What destination does AN 4.233 reserve for choices that are neither hurtful nor pleasing?",
+         "opts": [
+             "Heaven",
+             "Kammakkhaya, the ending of deeds, distinct from either destination named in this discourse",
+             "Hell",
+             "No such category exists"],
+         "correct": 1,
+         "expl": "Not named in this discourse, which addresses only the hurtful and pleasing poles."},
+    ],
+    marginalia=[
+        ("The same words, twice", [
+            "AN 4.233 &middot; choices, causing rebirth",
+            "AN 4.240 &middot; conduct, earning a destination",
+        ]),
+        ("Nine discourses apart", [
+            "sabyābajjha &middot; abyābajjha",
+            "reused within one chapter",
+        ]),
+        ("A small vocabulary, two formulas", [
+            "blameworthy &middot; AN 4.239",
+            "hurtful/pleasing &middot; AN 4.240",
+        ]),
+        ("Character, not judgment", [
+            "the choice itself is hurtful;",
+            "the destination follows",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.240/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.233.html">AN 4.233 &middot; Deeds in Detail</a> &mdash; the source of this discourse&rsquo;s hurtful/pleasing vocabulary.',
+        '<a href="an-4.239.html">AN 4.239 &middot; Blameworthy</a> &mdash; the discourse this one directly follows, on the same template.',
+        '<a href="an-4.241.html">AN 4.241 &middot; Ascetics</a> &mdash; next, genuinely new content on the four stages of awakening.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.241 — Samaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    241, "Samaṇa", "Ascetics",
+    vagga=VAGGA_24,
+    meta_title="AN 4.241 — Ascetics | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Samaṇasutta, presenting "
+        "the four stages of awakening as four kinds of ascetic and instructing the mendicants to "
+        "declare that other traditions are empty of them &mdash; an exclusivist claim this guide "
+        "reads as the text gives it, without softening. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "An instruction to make a specific public claim, framed by an exclusivity "
+                 "statement, with the four stages of awakening defined in between"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The four stages of awakening are foundational across the Nikāyas "
+                              "and Āgamas, and the exclusivity claim has a close counterpart in DN "
+                              "8 and MN 11; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; doctrinally central, and "
+                       "frank about a claim modern readers may find uncomfortable"),
+    ],
+    why=(
+        "This discourse instructs the mendicants to make a specific public claim: that the four "
+        "genuine kinds of ascetic exist only within this teaching, and that other traditions are "
+        "<em>empty of ascetics</em>. In between, it defines those four kinds precisely &mdash; "
+        "stream-enterer, once-returner, non-returner, and one who is fully liberated, the four "
+        "stages of awakening this collection has referenced but not yet laid out this fully. The "
+        "exclusivity claim is worth reading exactly as the text gives it, not smoothed into "
+        "something more comfortable."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are four genuine ascetics &mdash; the stream-enterer, the once-returner, the "
+            "non-returner, and the one who is fully free &mdash; and the mendicants are instructed "
+            "to declare that only this teaching contains them."]),
+        ("The lion&rsquo;s roar, stated twice", [
+            "<em>Idheva, bhikkhave, samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho "
+            "samaṇo, suññā parappavādā samaṇehi aññe. Evametaṁ, bhikkhave, sammā sīhanādaṁ "
+            "nadatha</em>: &lsquo;only here is there a first ascetic&hellip; other sects are empty "
+            "of ascetics&hellip; this is how you should rightly roar your lion&rsquo;s roar&rsquo;. "
+            "The instruction frames the whole discourse, given before the four are defined and "
+            "repeated after, so that the definition sits inside a call to public, confident "
+            "assertion rather than standing as neutral doctrinal content."]),
+        ("The four ascetics, precisely defined", [
+            "The stream-enterer: with three fetters ended, not liable to rebirth in the "
+            "underworld, assured of reaching awakening. The once-returner: with three fetters "
+            "ended and greed, hate, and delusion weakened, returning to this world only once more. "
+            "The non-returner: with the five lower fetters ended, reborn spontaneously in a "
+            "higher realm and not returning from it. And the one fully free: who has realized "
+            "undefiled freedom of heart and freedom by wisdom in this very life, through their own "
+            "insight.",
+            "This is the clearest, most systematic statement of the four stages of awakening this "
+            "series has yet encountered, and it is worth treating as a reference point: the "
+            "sequence of fetters ended at each stage, and the destination each stage forecloses or "
+            "guarantees, are given here in a single, compact discourse."]),
+        ("An exclusivity claim, read plainly", [
+            "It would be easy, and dishonest, to read past &lsquo;other sects are empty of "
+            "ascetics&rsquo; as rhetorical flourish. The discourse instructs a specific, public "
+            "assertion that no other tradition contains anyone who has reached any of these four "
+            "attainments &mdash; a comprehensive exclusivity claim, not a claim about this "
+            "tradition&rsquo;s relative merits. This reading guide records that claim as the text "
+            "states it, without softening it into something more comfortable for a modern, "
+            "pluralist reader, and without endorsing it either. It is what this discourse says, "
+            "and a companion image, the lion&rsquo;s roar &mdash; a call and a challenge, not a "
+            "quiet observation &mdash; makes clear that the text itself intends the claim to be "
+            "heard as forceful."]),
+        ("What the claim is and is not doing", [
+            "One honest observation softens nothing but adds context: the claim concerns "
+            "attainment of these specific four stages, defined by the ending of specific fetters "
+            "as this tradition analyzes them, not a claim that people outside the tradition cannot "
+            "be ethical, wise, or admirable by other standards. The scope of the exclusivity is "
+            "exact &mdash; these four named accomplishments, on this tradition&rsquo;s own "
+            "technical criteria &mdash; even if its rhetorical force, in the instruction to "
+            "&lsquo;roar&rsquo; it, is anything but narrow."]),
+    ],
+    terms=[
+        ("sīhanāda",
+         "&ldquo;lion&rsquo;s roar&rdquo; &mdash; a confident, public proclamation, the image "
+         "this discourse uses to frame its exclusivity claim as forceful rather than quiet."),
+        ("sotāpanna",
+         "&ldquo;stream-enterer&rdquo; &mdash; the first of the four ascetics, with three fetters "
+         "ended and awakening assured."),
+        ("sakadāgāmī",
+         "&ldquo;once-returner&rdquo; &mdash; the second, returning to this world only once more "
+         "before making an end of suffering."),
+        ("anāgāmī",
+         "&ldquo;non-returner&rdquo; &mdash; the third, with the five lower fetters ended, not "
+         "liable to return from a higher rebirth."),
+        ("arahant",
+         "not named directly by this term in the discourse but described by its function &mdash; "
+         "&lsquo;the fourth ascetic&rsquo;, who has realized undefiled freedom in this very life."),
+    ],
+    text_intro=(
+        "The discourse in full: the lion's roar instruction, the four ascetics defined, and the "
+        "instruction repeated. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The instruction"),
+        ("p", "&sect;1", "an4.241:1.1-1.3"),
+        ("h3", "The first ascetic"),
+        ("p", "&sect;2", "an4.241:2.1-2.3"),
+        ("h3", "The second ascetic"),
+        ("p", "&sect;3", "an4.241:3.1-3.3"),
+        ("h3", "The third ascetic"),
+        ("p", "&sect;4", "an4.241:4.1-4.3"),
+        ("h3", "The fourth ascetic"),
+        ("p", "&sect;5", "an4.241:5.1-5.3"),
+        ("h3", "The instruction, repeated"),
+        ("p", "&sect;6", "an4.241:6.1-6.3"),
+    ],
+    quiz=[
+        {"q": "What four kinds of ascetic does this discourse define?",
+         "opts": [
+             "Four kinds of poets",
+             "The stream-enterer, once-returner, non-returner, and the one who is fully free",
+             "The four kinds of deeds",
+             "Four kinds of assembly"],
+         "correct": 1,
+         "expl": "The four stages of awakening, defined precisely by which fetters have ended."},
+        {"q": "What instruction frames this discourse, given before and repeated after the four are defined?",
+         "opts": [
+             "An instruction to remain silent about attainment",
+             "An instruction to publicly declare that other traditions are \"empty of ascetics\"",
+             "An instruction to seek out other traditions for comparison",
+             "No instruction is given; it is purely descriptive"],
+         "correct": 1,
+         "expl": "Framed as a <em>sīhanāda</em>, a lion's roar, meant to be heard as forceful."},
+        {"q": "How does the guide say this exclusivity claim should be read?",
+         "opts": [
+             "Smoothed into a softer, more comfortable statement",
+             "Plainly, as the text states it, without softening or endorsing it",
+             "As purely rhetorical flourish with no real content",
+             "As inauthentic and likely a later addition"],
+         "correct": 1,
+         "expl": "Consistent with this series' practice of recording difficult material honestly."},
+        {"q": "What does the stream-enterer's attainment guarantee, per this discourse?",
+         "opts": [
+             "Immediate full liberation",
+             "Not being reborn in the underworld, and being assured of reaching awakening",
+             "Nothing definite",
+             "Rebirth as a deity"],
+         "correct": 1,
+         "expl": "With three fetters ended."},
+        {"q": "What distinguishes the non-returner from the once-returner?",
+         "opts": [
+             "No real difference exists",
+             "The non-returner has ended the five lower fetters and is not liable to return from a higher rebirth, unlike the once-returner's single remaining return",
+             "The non-returner returns to this world twice",
+             "The non-returner has not yet ended any fetters"],
+         "correct": 1,
+         "expl": "A further stage beyond the once-returner's single remaining return."},
+        {"q": "What does the guide say the exclusivity claim's scope actually covers?",
+         "opts": [
+             "A claim that outsiders cannot be ethical or admirable by any standard",
+             "Attainment of these four specific stages, defined by this tradition's own technical criteria",
+             "A claim about political authority",
+             "A claim with no defined scope at all"],
+         "correct": 1,
+         "expl": "Exact in scope, even if forceful in rhetorical delivery."},
+        {"q": "What image does the discourse use to frame its claim?",
+         "opts": [
+             "A gentle whisper",
+             "A lion's roar, <em>sīhanāda</em>",
+             "A quiet observation",
+             "A private confession"],
+         "correct": 1,
+         "expl": "A call and a challenge, not a neutral statement."},
+        {"q": "Where else in the broader canon does a close counterpart to this exclusivity claim appear, per the guide?",
+         "opts": [
+             "Nowhere else in the canon",
+             "DN 8 and MN 11",
+             "Only in later commentarial literature",
+             "Only in the Vinaya"],
+         "correct": 1,
+         "expl": "A recognized pattern, not unique to this discourse."},
+        {"q": "How does the fourth ascetic's freedom differ in description from the other three's attainments?",
+         "opts": [
+             "It is identical to the third ascetic's",
+             "It is described as realized in this very life, through one's own insight, with defilements ended",
+             "It is described only as a future promise",
+             "No description is given"],
+         "correct": 1,
+         "expl": "The completion of the sequence begun with the stream-enterer."},
+        {"q": "What does the guide say this discourse offers as a reference point for this series?",
+         "opts": [
+             "Nothing new; it repeats earlier material exactly",
+             "The clearest, most systematic statement of the four stages of awakening encountered so far in this series",
+             "A contradiction of earlier teachings on awakening",
+             "A teaching unrelated to awakening"],
+         "correct": 1,
+         "expl": "A single, compact discourse giving the sequence of fetters and destinations at each stage."},
+    ],
+    marginalia=[
+        ("Four ascetics, defined", [
+            "stream-enterer &middot; once-returner",
+            "non-returner &middot; fully free",
+        ]),
+        ("A claim, not softened", [
+            "\"other sects are empty",
+            "of ascetics\"",
+            "&mdash; read as the text gives it",
+        ]),
+        ("The lion's roar", [
+            "sīhanāda &mdash; forceful,",
+            "not a quiet observation",
+        ]),
+        ("The scope of the claim", [
+            "these four attainments only,",
+            "on this tradition&rsquo;s own criteria",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.241/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.237.html">AN 4.237 &middot; The Noble Path</a> &mdash; the practice this discourse&rsquo;s four ascetics are the fruit of walking.',
+        '<a href="an-4.238.html">AN 4.238 &middot; Awakening Factors</a> &mdash; the same practice, under a second identification.',
+        '<a href="an-4.242.html">AN 4.242 &middot; Benefits of Relying on a True Person</a> &mdash; next, closing the chapter by circling back to AN 4.1.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.242 — Sappurisānisaṁsasutta
+# --------------------------------------------------------------------------- #
+page(
+    242, "Sappurisānisaṁsa", "Benefits of Relying on a True Person",
+    vagga=VAGGA_24,
+    meta_title="AN 4.242 — Benefits of Relying on a True Person | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sappurisānisaṁsasutta, "
+        "closing the Kammavagga with the same four qualities that opened the entire collection at "
+        "AN 4.1 &mdash; noble ethics, immersion, wisdom, and freedom. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_24),
+        ("Speakers", SPEAKER),
+        ("Form", "A single statement of four benefits, stated once"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The fourfold set of ethics, immersion, wisdom, and freedom is "
+                              "widespread across the Nikāyas and Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, and significant mainly "
+                       "for what it closes"),
+    ],
+    why=(
+        "Growth in noble ethics, immersion, wisdom, and freedom &mdash; the benefits of relying on "
+        "a true person, and the exact fourfold set the entire Fours opened with at AN 4.1. This "
+        "chapter, having spent its length on the four kinds of deeds and the practices that end "
+        "them, closes by returning to the collection's own starting point, the second time in this "
+        "series a chapter has closed this way."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Relying on a true person brings growth in four things: noble ethics, immersion, "
+            "wisdom, and freedom."]),
+        ("The set that opened the Fours, closing a chapter", [
+            "<em>Ariyena sīlena vaḍḍhati, ariyena samādhinā vaḍḍhati, ariyāya paññāya vaḍḍhati, "
+            "ariyāya vimuttiyā vaḍḍhati</em> &mdash; growth in noble ethics, noble immersion, noble "
+            "wisdom, noble freedom. This is, item for item, the same set AN 4.1 declared as what "
+            "&lsquo;both you and I&rsquo; had failed to understand across a long wandering: "
+            "<em>sīla, samādhi, paññā, vimutti</em>. Where AN 4.1 stated the set as the whole "
+            "collection&rsquo;s opening claim, this discourse gives it as a benefit, something "
+            "gained through a specific relationship rather than a summary of what awakening "
+            "consists of."]),
+        ("A second echo of the same closing gesture", [
+            "This is not the first time this series has watched a chapter close by returning to "
+            "the Fours&rsquo; opening set. AN 4.150 closed the Ābhāvagga, many chapters back, with "
+            "the identical four terms. Two chapters now, out of twenty-four, have chosen this same "
+            "set for their final word &mdash; not a coincidence easily dismissed, but a recurring "
+            "editorial gesture: whatever a chapter has spent its length exploring, closing on "
+            "<em>sīla, samādhi, paññā, vimutti</em> returns the reader to the collection&rsquo;s "
+            "own stated center before moving on."]),
+        ("&lsquo;Relying on a true person&rsquo;, and what it adds", [
+            "<em>Sappurisa</em>, &lsquo;true person&rsquo;, was the vocabulary that opened AN "
+            "4.201 many chapters back and gave the previous paṇṇāsaka&rsquo;s first chapter its "
+            "name. This discourse borrows that same term for its final word, framing the "
+            "fourfold set not as something a person arrives at alone but as a benefit "
+            "&lsquo;dependent on&rsquo;, <em>nissāya</em>, a relationship with someone who "
+            "already embodies it. The path from AN 4.237&ndash;238 needed a practice to walk; "
+            "this discourse adds that the practice is also, in part, learned from a person."]),
+        ("The chapter and this paṇṇāsaka, at their close", [
+            "The source colophon names this the fourth vagga of its group of five, "
+            "<em>Kammavaggo catuttho</em>, following Sappurisavagga, Parisāvagga, and "
+            "Duccaritavagga. One chapter remains to complete the paṇṇāsaka: the "
+            "Āpattibhayavagga."]),
+    ],
+    terms=[
+        ("ariya sīla, samādhi, paññā, vimutti",
+         "noble ethics, immersion, wisdom, and freedom &mdash; the identical fourfold set that "
+         "opened the Fours at AN 4.1, given here as a benefit rather than a summary claim."),
+        ("sappurisa",
+         "&ldquo;true person&rdquo; &mdash; the vocabulary that named the Sappurisavagga, "
+         "reused here for the person one relies on to gain this discourse&rsquo;s four "
+         "benefits."),
+        ("nissāya",
+         "&ldquo;depending on, relying on&rdquo; &mdash; the relationship this discourse frames "
+         "as the source of growth, rather than solitary attainment."),
+        ("ānisaṁsa",
+         "&ldquo;benefit, advantage&rdquo; &mdash; the frame this discourse gives the fourfold "
+         "set, distinct from AN 4.1's framing of the same set as the whole collection's opening "
+         "claim."),
+        ("Kammavaggo catuttho",
+         "&ldquo;the Kammavagga, the fourth&rdquo; &mdash; the source colophon's label for this "
+         "chapter, the fourth of five in its paṇṇāsaka."),
+    ],
+    text_intro=(
+        "The discourse in full: the four benefits of relying on a true person. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four benefits"),
+        ("p", "&sect;1", "an4.242:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What four benefits does this discourse name?",
+         "opts": [
+             "The five precepts",
+             "Growth in noble ethics, immersion, wisdom, and freedom",
+             "The eightfold path",
+             "The four kinds of deeds"],
+         "correct": 1,
+         "expl": "Identical, item for item, to the set that opened the Fours at AN 4.1."},
+        {"q": "How does this discourse's framing of the fourfold set differ from AN 4.1's?",
+         "opts": [
+             "No difference; the wording and framing are identical",
+             "AN 4.1 stated it as the collection's opening claim about awakening; this discourse gives it as a benefit gained through relying on a true person",
+             "This discourse rejects AN 4.1's version",
+             "This discourse adds a fifth item"],
+         "correct": 1,
+         "expl": "The same content, a different frame."},
+        {"q": "Where else has this series seen a chapter close on this identical fourfold set?",
+         "opts": [
+             "Nowhere else",
+             "AN 4.150, closing the Ābhāvagga",
+             "AN 4.211",
+             "AN 4.7"],
+         "correct": 1,
+         "expl": "The second of twenty-four chapters to choose this set as its final word."},
+        {"q": "What does the guide say this recurring closing gesture suggests?",
+         "opts": [
+             "Pure coincidence with no significance",
+             "A deliberate editorial gesture, returning the reader to the collection's stated center before moving on",
+             "An error repeated twice by different compilers",
+             "That these two chapters are secretly the same chapter"],
+         "correct": 1,
+         "expl": "Whatever a chapter has explored, this closing set returns to the collection's own foundation."},
+        {"q": "Where did the term <em>sappurisa</em>, \"true person\", previously name a chapter in this series?",
+         "opts": [
+             "This is its first appearance",
+             "AN 4.201, opening the Sappurisavagga",
+             "AN 4.212",
+             "AN 4.7"],
+         "correct": 1,
+         "expl": "Reused here for the person one relies on to gain this discourse's benefits."},
+        {"q": "What relationship does this discourse frame as the source of growth in the fourfold set?",
+         "opts": [
+             "Solitary practice alone, with no relationship involved",
+             "Relying on, <em>nissāya</em>, a true person",
+             "Formal ordination only",
+             "Study of texts alone"],
+         "correct": 1,
+         "expl": "Not something a person arrives at alone."},
+        {"q": "What does the source colophon name this chapter?",
+         "opts": [
+             "Parisāvagga",
+             "Kammavaggo catuttho, the fourth [vagga of its group]",
+             "Sappurisavagga",
+             "Duccaritavagga"],
+         "correct": 1,
+         "expl": "Following Sappurisavagga, Parisāvagga, and Duccaritavagga in the same paṇṇāsaka."},
+        {"q": "What chapter remains to complete this paṇṇāsaka after this one?",
+         "opts": [
+             "None; this is the final chapter",
+             "The Āpattibhayavagga",
+             "The Abhiññāvagga",
+             "The Kammapathavagga"],
+         "correct": 1,
+         "expl": "The fifth and last vagga of this group of five."},
+        {"q": "What connects this discourse to AN 4.237 and AN 4.238, per the guide?",
+         "opts": [
+             "No connection exists",
+             "Where those discourses gave a practice to walk, this discourse adds that the practice is also learned from a person",
+             "This discourse contradicts those two",
+             "They share identical wording throughout"],
+         "correct": 1,
+         "expl": "The path needs a practice and, this discourse suggests, a relationship as well."},
+        {"q": "How many discourses does the Kammavagga contain in total?",
+         "opts": [
+             "Ten",
+             "Eleven, AN 4.232 through AN 4.242",
+             "Five",
+             "Twenty"],
+         "correct": 1,
+         "expl": "Confirmed by the source colophon's ordinal, <em>Ekādasamaṁ</em>, at AN 4.242 itself."},
+    ],
+    marginalia=[
+        ("The collection's opening set, again", [
+            "AN 4.1 &middot; sīla, samādhi,",
+            "paññā, vimutti",
+            "AN 4.242 &middot; the same four",
+        ]),
+        ("A closing gesture, twice", [
+            "AN 4.150 &middot; Ābhāvagga",
+            "AN 4.242 &middot; Kammavagga",
+        ]),
+        ("A vocabulary, reused", [
+            "sappurisa &middot; AN 4.201",
+            "sappurisa &middot; AN 4.242",
+        ]),
+        ("This paṇṇāsaka, so far", [
+            "Sappurisavagga &middot; 1st",
+            "Parisāvagga &middot; 2nd",
+            "Duccaritavagga &middot; 3rd",
+            "Kammavagga &middot; 4th",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.242/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.1.html">AN 4.1 &middot; Understood</a> &mdash; the source of this discourse&rsquo;s fourfold set, opening the entire collection.',
+        '<a href="an-4.150.html">AN 4.150 &middot; Essentials</a> &mdash; the other chapter this series has watched close on the identical set.',
+        '<a href="an-4.201.html">AN 4.201 &middot; Training Rules</a> &mdash; the source of the <em>sappurisa</em> vocabulary this discourse reuses.',
+    ],
+)
