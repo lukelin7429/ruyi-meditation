@@ -57740,3 +57740,2012 @@ page(
         '<a href="an-4.242.html">AN 4.242 &middot; Benefits of Relying on a True Person</a> &mdash; the previous chapter&rsquo;s own closing echo of AN 4.1.',
     ],
 )
+
+VAGGA_26 = "<em>Abhiññāvagga</em> &mdash; the twenty-sixth chapter of the Fours"
+SETTING_26 = ("None stated; the Abhiññāvagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.254 — Abhiññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    254, "Abhiññā", "Insight",
+    vagga=VAGGA_26,
+    meta_title="AN 4.254 — Insight | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Abhiññāsutta, opening a "
+        "new chapter with four distinct tasks a path of practice sets: what must be understood, "
+        "given up, developed, and realized, each by direct knowledge. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_26),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four tasks, each unpacked with its own content"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The fourfold division of tasks by direct knowledge closely parallels "
+                              "the four tasks of the noble truths; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; compact, and worth reading "
+                       "against the four noble truths' own structure of tasks"),
+    ],
+    why=(
+        "Four verbs, four objects: what should be completely understood by direct knowledge, what "
+        "should be given up by it, what should be developed by it, and what should be realized by "
+        "it. This discourse opens a new chapter with a structural map of the whole path rather "
+        "than a single teaching &mdash; naming not what to do, but what kind of thing each part of "
+        "practice actually is."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The five grasping aggregates are to be understood, ignorance and craving for "
+            "continued existence are to be given up, serenity and discernment are to be developed, "
+            "and knowledge and freedom are to be realized &mdash; four different tasks, each done "
+            "by direct knowledge."]),
+        ("Four verbs, not one", [
+            "<em>Pariññeyya</em>, to be completely understood; <em>pahātabba</em>, to be given up; "
+            "<em>bhāvetabba</em>, to be developed; <em>sacchikātabba</em>, to be realized. These "
+            "four verbs describe categorically different relationships a practitioner has to "
+            "different parts of the path. Understanding is not the same activity as abandoning, "
+            "and developing is not the same activity as realizing &mdash; treating them as "
+            "interchangeable synonyms for &lsquo;practice&rsquo; would flatten a distinction this "
+            "discourse is built to preserve."]),
+        ("The content assigned to each task", [
+            "What is to be understood: the five grasping aggregates, "
+            "<em>pañcupādānakkhandhā</em> &mdash; the raw material of experience itself, the thing "
+            "a person mistakes for a self. What is to be given up: ignorance and craving for "
+            "continued existence, the two roots the tradition most often names as what actually "
+            "drives rebirth. What is to be developed: serenity and discernment, "
+            "<em>samatha</em> and <em>vipassanā</em>, the two wings of meditative cultivation. What "
+            "is to be realized: knowledge and freedom, <em>vijjā</em> and <em>vimutti</em>, the "
+            "outcome the whole structure is aimed at."]),
+        ("A structure close to the four noble truths, not identical to it", [
+            "Readers familiar with the four noble truths will recognize the shape here: suffering "
+            "is to be understood, its origin given up, its cessation realized, the path to its "
+            "cessation developed. This discourse&rsquo;s four tasks run in a different order "
+            "&mdash; understand, give up, develop, realize &mdash; and assign different specific "
+            "content to each slot. It is worth treating this as a related but distinct "
+            "formulation rather than a simple restatement of the four noble truths under new "
+            "labels; the verbs match closely, but neither the order nor the content is identical."]),
+        ("Why a chapter would open this way", [
+            "As a chapter-opening discourse, this one does something this series has seen before "
+            "at moments of transition: it gives the reader a frame before supplying content to put "
+            "inside it. Nothing here instructs a specific practice; it names what kind of thing "
+            "each part of practice is, so that the discourses that follow &mdash; on searches, on "
+            "generosity, on the qualities of a thoroughbred mendicant &mdash; can be located "
+            "against a structure already given."]),
+    ],
+    terms=[
+        ("abhiññā",
+         "&ldquo;direct knowledge, higher knowledge&rdquo; &mdash; the mode by which all four "
+         "tasks are carried out, and the term naming this chapter."),
+        ("pañcupādānakkhandhā",
+         "&ldquo;the five grasping aggregates&rdquo; &mdash; form, feeling, perception, "
+         "formations, and consciousness, taken as objects of clinging; what is to be completely "
+         "understood."),
+        ("avijjā / bhavataṇhā",
+         "&ldquo;ignorance&rdquo; and &ldquo;craving for continued existence&rdquo; &mdash; the "
+         "two roots to be given up."),
+        ("samatha / vipassanā",
+         "&ldquo;serenity&rdquo; and &ldquo;discernment&rdquo; &mdash; the two qualities to be "
+         "developed, traditionally paired as the two wings of meditative cultivation."),
+        ("vijjā / vimutti",
+         "&ldquo;knowledge&rdquo; and &ldquo;freedom&rdquo; &mdash; what is to be realized, the "
+         "outcome the other three tasks serve."),
+    ],
+    text_intro=(
+        "The discourse in full: the four tasks, each with its assigned content. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four things"),
+        ("p", "&sect;1", "an4.254:1.1-1.6"),
+        ("h3", "What is to be understood"),
+        ("p", "&sect;2", "an4.254:2.1-2.3"),
+        ("h3", "What is to be given up"),
+        ("p", "&sect;3", "an4.254:3.1-3.3"),
+        ("h3", "What is to be developed"),
+        ("p", "&sect;4", "an4.254:4.1-4.3"),
+        ("h3", "What is to be realized"),
+        ("p", "&sect;5", "an4.254:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What four tasks does this discourse name?",
+         "opts": [
+             "Understand, give up, develop, and realize, each by direct knowledge",
+             "The four noble truths, restated word for word",
+             "The four kinds of deeds",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "Four categorically distinct relationships to different parts of the path."},
+        {"q": "What content is assigned to \"what is to be understood\"?",
+         "opts": [
+             "The eightfold path",
+             "The five grasping aggregates",
+             "Ignorance and craving",
+             "Knowledge and freedom"],
+         "correct": 1,
+         "expl": "The raw material of experience a person mistakes for a self."},
+        {"q": "What content is assigned to \"what is to be given up\"?",
+         "opts": [
+             "The five grasping aggregates",
+             "Ignorance and craving for continued existence",
+             "Serenity and discernment",
+             "Knowledge and freedom"],
+         "correct": 1,
+         "expl": "The two roots the tradition most often names as driving rebirth."},
+        {"q": "How does the guide relate this discourse's structure to the four noble truths?",
+         "opts": [
+             "As an exact restatement with identical order and content",
+             "As a related but distinct formulation, with different order and different specific content assigned to each task",
+             "As entirely unrelated",
+             "As a rejection of the four noble truths"],
+         "correct": 1,
+         "expl": "The verbs match closely, but neither the order nor the content is identical."},
+        {"q": "What does the guide say distinguishes the four verbs from each other?",
+         "opts": [
+             "Nothing; they are interchangeable synonyms for practice",
+             "They describe categorically different relationships a practitioner has to different parts of the path",
+             "Only their grammatical form differs",
+             "They apply only to different people, not different tasks"],
+         "correct": 1,
+         "expl": "Understanding, abandoning, developing, and realizing are not the same activity."},
+        {"q": "What content is assigned to \"what is to be developed\"?",
+         "opts": [
+             "The five grasping aggregates",
+             "Serenity and discernment, <em>samatha</em> and <em>vipassanā</em>",
+             "Ignorance and craving",
+             "Knowledge and freedom"],
+         "correct": 1,
+         "expl": "The two wings of meditative cultivation."},
+        {"q": "What content is assigned to \"what is to be realized\"?",
+         "opts": [
+             "The five grasping aggregates",
+             "Knowledge and freedom, <em>vijjā</em> and <em>vimutti</em>",
+             "Serenity and discernment",
+             "Ignorance and craving"],
+         "correct": 1,
+         "expl": "The outcome the other three tasks serve."},
+        {"q": "What role does the guide say this discourse plays as a chapter opener?",
+         "opts": [
+             "It instructs a single specific practice in detail",
+             "It gives a structural frame before the chapter supplies content to put inside it",
+             "It has no particular structural role",
+             "It summarizes the entire Aṅguttara Nikāya"],
+         "correct": 1,
+         "expl": "Locating the discourses that follow against a structure already given."},
+        {"q": "What mode carries out all four tasks, according to this discourse?",
+         "opts": [
+             "Ordinary conceptual thought",
+             "Abhiññā, direct or higher knowledge",
+             "Faith alone",
+             "Ritual observance"],
+         "correct": 1,
+         "expl": "The term naming this chapter."},
+        {"q": "What are the five grasping aggregates?",
+         "opts": [
+             "The five precepts",
+             "Form, feeling, perception, formations, and consciousness, taken as objects of clinging",
+             "The five powers",
+             "The five faculties"],
+         "correct": 1,
+         "expl": "What this discourse names as the object of the first task."},
+    ],
+    marginalia=[
+        ("Four tasks, four verbs", [
+            "understand &middot; give up",
+            "develop &middot; realize",
+        ]),
+        ("Content assigned to each", [
+            "aggregates &middot; ignorance, craving",
+            "serenity, discernment &middot; knowledge, freedom",
+        ]),
+        ("Related to the four truths", [
+            "similar verbs, different order,",
+            "different specific content",
+        ]),
+        ("A frame before content", [
+            "structure given first,",
+            "the chapter fills it in",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.254/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.237.html">AN 4.237 &middot; The Noble Path</a> &mdash; where the eightfold path was identified with ending the mechanism of kamma, related territory to this discourse&rsquo;s fourth task.',
+        '<a href="an-4.238.html">AN 4.238 &middot; Awakening Factors</a> &mdash; on the qualities cultivated toward the same goal.',
+        '<a href="an-4.255.html">AN 4.255 &middot; Searches</a> &mdash; next, on the difference between an ignoble and a noble search.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.255 — Pariyesanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    255, "Pariyesanā", "Searches",
+    vagga=VAGGA_26,
+    meta_title="AN 4.255 — Searches | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pariyesanāsutta, "
+        "contrasting an ignoble search that seeks more of what ages, sickens, dies, and corrupts "
+        "with a noble search for what lies beyond all four. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_26),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel fourfold statements, an ignoble search and a noble one, on the "
+                 "same four vulnerabilities"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The distinction between ordinary and noble searches closely "
+                              "parallels the account given at MN 26; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple in form, and worth "
+                       "reading against the fuller narrative it echoes"),
+    ],
+    why=(
+        "Everyone is liable to age, get sick, die, and become corrupted. The ignoble search "
+        "answers that condition by seeking more of exactly the same kind of thing &mdash; more "
+        "that ages, more that sickens, more that dies, more that can be defiled. The noble search "
+        "answers it by seeking what lies entirely outside that condition: what does not age, does "
+        "not sicken, does not die, and cannot be corrupted."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Someone liable to aging, sickness, death, and corruption either searches for more of "
+            "the same kind of vulnerable thing, or, recognizing the drawback, searches instead for "
+            "what is free of it entirely."]),
+        ("Four vulnerabilities, held constant", [
+            "Aging, sickness, death, and corruption are the same four conditions in both halves of "
+            "this discourse. Nothing about the human situation changes between the ignoble search "
+            "and the noble one; both searches start from the identical fact of being liable to "
+            "grow old, get sick, die, and become defiled. What differs entirely is the response."]),
+        ("The ignoble search: matching the problem", [
+            "<em>A person liable to old age searches only for what grows old</em> &mdash; the "
+            "phrasing is exact and unforgiving. It does not say the ignoble search fails to find "
+            "anything; it says the search succeeds, and what it finds shares the very vulnerability "
+            "the search began with. Wealth, relationships, status, even a body itself: all subject "
+            "to the same aging, sickening, dying, and corrupting the search was meant to address."]),
+        ("The noble search: naming what lies beyond", [
+            "The noble search begins with a specific cognitive step the ignoble search skips "
+            "entirely: <em>knowing the drawback</em> in what ages, sickens, dies, and corrupts. "
+            "Only after that recognition does the search redirect toward "
+            "<em>anuttaraṁ yogakkhemaṁ nibbānaṁ</em>, &lsquo;the supreme sanctuary from the yoke, "
+            "extinguishment&rsquo; &mdash; a single object named four times, once for each "
+            "vulnerability it is free of. <em>Yogakkhema</em>, sanctuary from the yoke, is a "
+            "specific image: rest for something that has been under a burden or bound by a tie, "
+            "not merely comfort but release from what was constraining."]),
+        ("A structure close to the Buddha's own account of his search", [
+            "This discourse's contrast between an ordinary search that reproduces its own problem "
+            "and a search redirected by recognizing that problem's drawback closely parallels the "
+            "account the Buddha gives of his own pre-awakening quest at MN 26, where he describes "
+            "himself, liable to birth, aging, sickness, death, sorrow, and defilement, searching "
+            "first for more of the same and then, having seen the drawback, for the unborn, "
+            "unaging, unailing, deathless, sorrowless, and undefiled supreme sanctuary. This "
+            "discourse compresses that same structure to a bare four items and states it as a "
+            "general teaching rather than autobiography."]),
+    ],
+    terms=[
+        ("pariyesanā",
+         "&ldquo;search, quest&rdquo; &mdash; the term naming this discourse, applied to both the "
+         "ignoble and the noble alternatives."),
+        ("ādīnava",
+         "&ldquo;drawback, danger&rdquo; &mdash; the recognition that redirects an ordinary search "
+         "into a noble one."),
+        ("yogakkhema",
+         "&ldquo;sanctuary from the yoke&rdquo; &mdash; release for something bound or burdened, "
+         "not mere comfort but freedom from constraint."),
+        ("nibbāna",
+         "&ldquo;extinguishment&rdquo; &mdash; the single object of the noble search, named once "
+         "for each of the four vulnerabilities it stands free of."),
+        ("jarādhamma / byādhidhamma / maraṇadhamma / saṅkilesadhamma",
+         "&ldquo;liable to old age&rdquo;, &ldquo;to sickness&rdquo;, &ldquo;to death&rdquo;, and "
+         "&ldquo;to corruption&rdquo; &mdash; the four conditions both searches begin from."),
+    ],
+    text_intro=(
+        "The discourse in full: the four ignoble searches, then the four noble ones. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four ignoble searches"),
+        ("p", "&sect;1", "an4.255:1.1-1.7"),
+        ("h3", "The four noble searches"),
+        ("p", "&sect;2", "an4.255:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What four vulnerabilities do both the ignoble and noble searches begin from?",
+         "opts": [
+             "Poverty, illness, old age, and loneliness",
+             "Aging, sickness, death, and corruption",
+             "Ignorance, craving, aversion, and delusion",
+             "The four kinds of deeds"],
+         "correct": 1,
+         "expl": "The identical four conditions in both halves of the discourse."},
+        {"q": "What does the ignoble search do, according to this discourse?",
+         "opts": [
+             "It fails to find anything at all",
+             "It succeeds, but finds only more of the same vulnerable kind of thing it began with",
+             "It searches for something entirely unrelated to the original problem",
+             "It leads directly to noble search without any distinction"],
+         "correct": 1,
+         "expl": "Wealth, relationships, status &mdash; all subject to the same aging, sickening, dying, corrupting."},
+        {"q": "What cognitive step does the noble search require that the ignoble search skips?",
+         "opts": [
+             "Formal ordination",
+             "Knowing the drawback, <em>ādīnava</em>, in what ages, sickens, dies, and corrupts",
+             "Years of meditation retreat",
+             "No step is required; the difference is arbitrary"],
+         "correct": 1,
+         "expl": "Only after that recognition does the search redirect toward what lies beyond all four."},
+        {"q": "What single object does the noble search redirect toward, named four times?",
+         "opts": [
+             "Wealth and status",
+             "\"The supreme sanctuary from the yoke, extinguishment\", <em>nibbāna</em>",
+             "A better rebirth",
+             "A different set of possessions"],
+         "correct": 1,
+         "expl": "Once for each of the four vulnerabilities it stands free of."},
+        {"q": "What does <em>yogakkhema</em> specifically image?",
+         "opts": [
+             "Mere comfort or pleasure",
+             "Rest and release for something that has been under a burden or bound by a tie",
+             "A physical location",
+             "A type of meditation posture"],
+         "correct": 1,
+         "expl": "Not just comfort, but freedom from what was constraining."},
+        {"q": "What earlier discourse elsewhere in the canon does this discourse's structure closely parallel?",
+         "opts": [
+             "MN 26, the Buddha's own account of his pre-awakening search",
+             "MN 63",
+             "DN 8",
+             "No parallel exists"],
+         "correct": 1,
+         "expl": "This discourse compresses that same structure into a general teaching rather than autobiography."},
+        {"q": "How does the guide characterize the ignoble search's phrasing?",
+         "opts": [
+             "Vague and imprecise",
+             "Exact and unforgiving: it says the search succeeds but finds only what shares the original vulnerability",
+             "Contradictory and confused",
+             "Identical in wording to the noble search"],
+         "correct": 1,
+         "expl": "The search is not described as failing; it simply finds more of the same problem."},
+        {"q": "What formula structures this discourse?",
+         "opts": [
+             "The hell/heaven formula",
+             "Two parallel fourfold statements, ignoble and noble, on the same four vulnerabilities",
+             "The <em>khata</em> formula",
+             "A narrative with a named questioner"],
+         "correct": 1,
+         "expl": "A direct contrast rather than a graded scale."},
+        {"q": "What does the guide say does NOT change between the ignoble and noble searches?",
+         "opts": [
+             "The starting condition: being liable to aging, sickness, death, and corruption",
+             "The number of items named",
+             "The general subject of searching",
+             "All of these remain constant"],
+         "correct": 1,
+         "expl": "What differs entirely is the response, not the starting condition."},
+        {"q": "What discourse follows this one, moving to a different topic?",
+         "opts": [
+             "AN 4.256, on four ways of being inclusive",
+             "AN 4.254",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "A brief teaching on generosity and the other bases of sympathy."},
+    ],
+    marginalia=[
+        ("Same four conditions, both searches", [
+            "aging &middot; sickness",
+            "death &middot; corruption",
+        ]),
+        ("The ignoble search", [
+            "seeks more of the same &mdash;",
+            "and finds it",
+        ]),
+        ("The noble search", [
+            "sees the drawback first,",
+            "then seeks the sanctuary",
+        ]),
+        ("A structure echoed at MN 26", [
+            "the Buddha's own account,",
+            "compressed to four items",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.255/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.254.html">AN 4.254 &middot; Insight</a> &mdash; the chapter&rsquo;s opening discourse, on what is to be given up and realized.',
+        '<a href="an-4.24.html">AN 4.24 &middot; Poise</a> &mdash; another discourse concerned with a Realized One&rsquo;s freedom from ordinary vulnerability.',
+        '<a href="an-4.256.html">AN 4.256 &middot; Ways of Being Inclusive</a> &mdash; next, a brief teaching on generosity and social bonds.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.256 — Saṅgahavatthusutta
+# --------------------------------------------------------------------------- #
+page(
+    256, "Saṅgahavatthu", "Ways of Being Inclusive",
+    vagga=VAGGA_26,
+    meta_title="AN 4.256 — Ways of Being Inclusive | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saṅgahavatthusutta, one "
+        "of the tradition's most compact and widely cited teachings &mdash; four ways of holding a "
+        "community together: giving, kindly words, taking care, and equality. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_26),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, stated once with no elaboration"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The four <em>saṅgahavatthu</em> are foundational across the "
+                              "Nikāyas and Āgamas, appearing also at DN 33; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; four words, and a wide field "
+                       "of implication behind each"),
+    ],
+    why=(
+        "Giving, kindly words, taking care, and equality: four bare terms, stated once, naming "
+        "what actually holds a group of people together. This is one of the shortest discourses in "
+        "the Fours and one of the tradition's most durable, cited across the canon whenever the "
+        "question turns from individual practice to how a community functions."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four things make people feel included and bound together: giving, kindly words, "
+            "taking care of others, and treating people as equals."]),
+        ("The four, unpacked from their bare names", [
+            "<em>Dāna</em>, giving &mdash; material generosity, the most concrete of the four. "
+            "<em>Peyyavajja</em>, kindly words &mdash; speech that is affectionate and welcome to "
+            "hear, distinct from mere politeness. <em>Atthacariyā</em>, taking care, literally "
+            "&lsquo;acting for the benefit&rsquo; of another &mdash; practical helpfulness, doing "
+            "something useful for someone rather than simply wishing them well. "
+            "<em>Samānattatā</em>, equality &mdash; treating oneself as no different from others, "
+            "not holding oneself above or apart regardless of one&rsquo;s actual status."]),
+        ("Why these four, and not virtue in general", [
+            "None of the four items is a private virtue practiced alone; each is inherently "
+            "relational, something done toward or with another person, and each requires no "
+            "special training to recognize when it is present or absent. This is worth noting "
+            "against the collection&rsquo;s more common register of tetrads describing an "
+            "individual&rsquo;s inner qualities or a monastic&rsquo;s solitary practice. Here the "
+            "unit of concern is explicitly the bond between people, not the state of one "
+            "person&rsquo;s mind."]),
+        ("A famous list, stated without ornament", [
+            "Elsewhere in the canon, at DN 33 among other places, this same fourfold set recurs as "
+            "part of longer catalogues. Here it stands entirely alone, without similes, without a "
+            "narrative frame, without even the elaboration this chapter&rsquo;s neighboring "
+            "discourses give their own shorter lists. The brevity is itself a kind of claim: these "
+            "four terms are assumed to need no unpacking for the audience being addressed, the way "
+            "a term everyone already uses correctly does not need defining."]),
+    ],
+    terms=[
+        ("dāna",
+         "&ldquo;giving&rdquo; &mdash; the first and most concrete of the four, material "
+         "generosity."),
+        ("peyyavajja",
+         "&ldquo;kindly words&rdquo; &mdash; affectionate, welcome speech, distinct from mere "
+         "surface politeness."),
+        ("atthacariyā",
+         "&ldquo;taking care&rdquo;, literally acting for another&rsquo;s benefit &mdash; "
+         "practical helpfulness rather than well-wishing alone."),
+        ("samānattatā",
+         "&ldquo;equality&rdquo; &mdash; treating oneself as no different from others, holding "
+         "oneself neither above nor apart."),
+        ("saṅgahavatthu",
+         "&ldquo;a basis for being inclusive, a means of sympathy&rdquo; &mdash; the term naming "
+         "this fourfold set, cited widely elsewhere in the canon, notably at DN 33."),
+    ],
+    text_intro=(
+        "The discourse in full: the four ways of being inclusive. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four ways of being inclusive"),
+        ("p", "&sect;1", "an4.256:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What four ways of being inclusive does this discourse name?",
+         "opts": [
+             "Faith, ethics, learning, and wisdom",
+             "Giving, kindly words, taking care, and equality",
+             "The five precepts",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "Four bare terms, stated once with no elaboration."},
+        {"q": "What does <em>atthacariyā</em> mean?",
+         "opts": [
+             "Formal politeness",
+             "Taking care, literally acting for another's benefit &mdash; practical helpfulness",
+             "Material generosity",
+             "Treating everyone as equal"],
+         "correct": 1,
+         "expl": "Doing something useful for someone, not merely wishing them well."},
+        {"q": "What does <em>samānattatā</em> mean?",
+         "opts": [
+             "Speaking kindly",
+             "Equality &mdash; treating oneself as no different from others",
+             "Giving material support",
+             "A term for formal hospitality"],
+         "correct": 1,
+         "expl": "Not holding oneself above or apart, regardless of one's actual status."},
+        {"q": "What does the guide say distinguishes these four items from many of the collection's other tetrads?",
+         "opts": [
+             "Nothing distinguishes them",
+             "Each is inherently relational, concerned with the bond between people rather than one person's inner state",
+             "They apply only to monastics",
+             "They require extensive special training to recognize"],
+         "correct": 1,
+         "expl": "The unit of concern is explicitly the community, not solitary practice."},
+        {"q": "Where else in the canon does this same fourfold set appear, according to the guide?",
+         "opts": [
+             "Nowhere else",
+             "DN 33, among other places, as part of longer catalogues",
+             "Only in later commentarial literature",
+             "Only in the Vinaya"],
+         "correct": 1,
+         "expl": "A widely cited, foundational list."},
+        {"q": "How does the guide characterize this discourse's brevity?",
+         "opts": [
+             "As a sign the teaching is unimportant",
+             "As itself a kind of claim: these terms are assumed to need no unpacking for the intended audience",
+             "As evidence of textual corruption",
+             "As inconsistent with the rest of the chapter"],
+         "correct": 1,
+         "expl": "The way a term everyone already uses correctly does not need defining."},
+        {"q": "What is <em>peyyavajja</em>?",
+         "opts": [
+             "Material generosity",
+             "Kindly words &mdash; affectionate, welcome speech",
+             "Practical helpfulness",
+             "Treating people as equals"],
+         "correct": 1,
+         "expl": "Distinct from mere surface politeness."},
+        {"q": "What is the first and most concrete of the four items?",
+         "opts": [
+             "Samānattatā",
+             "Dāna, giving",
+             "Peyyavajja",
+             "Atthacariyā"],
+         "correct": 1,
+         "expl": "Material generosity, opening the list."},
+        {"q": "What formula or elaboration does this discourse include beyond naming the four terms?",
+         "opts": [
+             "A lengthy simile",
+             "None; it stands alone without similes, narrative frame, or further elaboration",
+             "A narrative involving a named questioner",
+             "A closing verse"],
+         "correct": 1,
+         "expl": "Unlike some of this chapter's other, more elaborated discourses."},
+        {"q": "What discourse follows this one, moving to a real narrative setting?",
+         "opts": [
+             "AN 4.257, with Venerable Māluṅkyaputta",
+             "AN 4.254",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "An elderly monk's request for brief teaching, and its outcome."},
+    ],
+    marginalia=[
+        ("Four bare terms", [
+            "giving &middot; kindly words",
+            "taking care &middot; equality",
+        ]),
+        ("Relational, not solitary", [
+            "the bond between people,",
+            "not one person&rsquo;s inner state",
+        ]),
+        ("A list cited widely", [
+            "also at DN 33,",
+            "among longer catalogues",
+        ]),
+        ("Brevity as a kind of claim", [
+            "needing no unpacking,",
+            "already assumed understood",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.256/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.7.html">AN 4.7 &middot; Grace</a> &mdash; another short discourse on qualities that serve the wider community.',
+        '<a href="an-4.255.html">AN 4.255 &middot; Searches</a> &mdash; the discourse immediately before this one.',
+        '<a href="an-4.257.html">AN 4.257 &middot; With Māluṅkyaputta</a> &mdash; next, a rare narrative discourse.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.257 — Mālukyaputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    257, "Mālukyaputta", "With Māluṅkyaputta",
+    vagga=VAGGA_26,
+    meta_title="AN 4.257 — With Māluṅkyaputta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mālukyaputtasutta, where "
+        "an elderly monk asks for teaching in brief, is gently teased for asking so late in life, "
+        "receives four sources of craving as his answer, and swiftly attains full awakening. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not specified beyond the encounter itself; the Buddha in conversation with "
+                    "Venerable Māluṅkyaputta"),
+        ("Speakers", "The Buddha and Venerable Māluṅkyaputta"),
+        ("Form", "A narrative request, a pointed rejoinder, a short teaching, and a report of "
+                 "swift attainment"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Māluṅkyaputta appears elsewhere in the canon, notably at MN 63 and "
+                              "MN 64; this reading guide does not assert a specific matching "
+                              "sutra number for this particular discourse"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a narrative with real warmth "
+                       "and a genuinely surprising outcome"),
+    ],
+    why=(
+        "An old monk asks for a teaching brief enough to carry into solitary retreat. The Buddha's "
+        "first response is not the teaching but a needle: what are we to tell the young monks, "
+        "when even an elderly, senior monk is asking for the short version? Māluṅkyaputta presses "
+        "his request a second time, receives four sources of craving in return, and &mdash; the "
+        "discourse reports without dwelling on it &mdash; soon becomes fully awakened."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant's craving arises over robes, almsfood, lodgings, or continued existence "
+            "itself, and cutting it off at the root, completely, ends suffering."]),
+        ("A request, and a rejoinder before an answer", [
+            "Māluṅkyaputta asks for Dhamma <em>in brief</em>, so that he can withdraw and practise "
+            "diligently. The Buddha does not simply comply. He turns the request back on the "
+            "asker: <em>what are we to say to the young monks, when even an old man like you, "
+            "elderly and senior, asks the Realized One for brief advice?</em> The implication is "
+            "not gentle &mdash; a monk this senior should, by now, already know more than enough "
+            "to practise without needing a summary."]),
+        ("A request pressed a second time", [
+            "Māluṅkyaputta does not withdraw the request; he repeats it with evident urgency: "
+            "<em>may the Buddha please teach me Dhamma in brief&hellip; hopefully I can be an heir "
+            "of the Buddha&rsquo;s teaching</em>. This small exchange is worth reading as a real "
+            "human moment inside a formulaic collection &mdash; an elderly monk, aware that time is "
+            "short, unwilling to let a pointed rejoinder deflect him from what he actually needs."]),
+        ("Four sources of craving, one instruction", [
+            "<em>Robes, almsfood, lodgings, or rebirth in this or that state</em> &mdash; the four "
+            "things that give rise to craving in a mendicant, the first three entirely material and "
+            "immediate, the fourth reaching all the way to the desire for a particular kind of "
+            "future existence. The instruction that follows is equally direct: this craving is to "
+            "be <em>cut off at the root, made like a palm stump, obliterated, and unable to arise "
+            "in the future</em> &mdash; a description of complete removal, not management or "
+            "gradual reduction."]),
+        ("A swift outcome, reported without elaboration", [
+            "The discourse&rsquo;s closing lines move fast: Māluṅkyaputta bows, leaves, lives "
+            "alone and diligent, and <em>soon realized the supreme culmination of the spiritual "
+            "path in this very life</em>. No details of his practice are given, no account of "
+            "struggle or duration. The discourse&rsquo;s interest is in the teaching and its "
+            "reception, not in narrating the process between them &mdash; and the same "
+            "Māluṅkyaputta reappears in longer form elsewhere in the canon, at MN 63 and MN 64, "
+            "where his questions about unanswered metaphysical puzzles and about restraint of the "
+            "senses receive fuller treatment than this brief discourse allows."]),
+    ],
+    terms=[
+        ("saṅkhittena",
+         "&ldquo;in brief&rdquo; &mdash; the specific form of teaching Māluṅkyaputta requests, "
+         "twice, before receiving it."),
+        ("cīvara, piṇḍapāta, senāsana",
+         "robes, almsfood, and lodgings &mdash; three of the four sources of craving named here, "
+         "the material requisites of a mendicant's life."),
+        ("tathā tathā bhavābhava",
+         "&ldquo;rebirth in this or that state&rdquo; &mdash; the fourth and least concrete source "
+         "of craving, reaching toward a desired future existence rather than a present object."),
+        ("tālāvatthukata",
+         "&ldquo;made like a palm stump&rdquo; &mdash; a description of craving cut off so "
+         "completely it cannot regrow, since a palm tree does not resprout from its stump."),
+        ("asekha / khīṇāsava",
+         "not used directly in this discourse but implied by its closing formula &mdash; "
+         "&lsquo;one whose defilements are ended&rsquo;, the standing Māluṅkyaputta is reported "
+         "to reach."),
+    ],
+    text_intro=(
+        "The discourse in full: the request, the rejoinder, the teaching, and the outcome. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The request"),
+        ("p", "&sect;1", "an4.257:1.1-2.4"),
+        ("h3", "The teaching"),
+        ("p", "&sect;2", "an4.257:3.1-3.8"),
+        ("h3", "The outcome"),
+        ("p", "&sect;3", "an4.257:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does Māluṅkyaputta ask the Buddha for at the start of this discourse?",
+         "opts": [
+             "A detailed, lengthy exposition of the entire path",
+             "Teaching in brief, so he can withdraw and practise diligently",
+             "Permission to leave the monastic order",
+             "A debate with a rival teacher"],
+         "correct": 1,
+         "expl": "A request he repeats a second time after being challenged."},
+        {"q": "How does the Buddha first respond to the request?",
+         "opts": [
+             "By immediately giving the teaching",
+             "By pointedly asking what should be said to the young monks, when even an elderly, senior monk asks for the short version",
+             "By refusing outright",
+             "By ignoring Māluṅkyaputta entirely"],
+         "correct": 1,
+         "expl": "A rejoinder rather than immediate compliance."},
+        {"q": "What four sources of craving does the Buddha name?",
+         "opts": [
+             "The five precepts, broken",
+             "Robes, almsfood, lodgings, and rebirth in this or that state",
+             "Wealth, family, reputation, and pleasure",
+             "The four kinds of deeds"],
+         "correct": 1,
+         "expl": "Three material and immediate, the fourth reaching toward a desired future existence."},
+        {"q": "What image describes how completely this craving is to be given up?",
+         "opts": [
+             "Gradually reduced over many lifetimes",
+             "Cut off at the root, made like a palm stump, obliterated, unable to arise again",
+             "Simply ignored without active effort",
+             "Transformed into a different kind of craving"],
+         "correct": 1,
+         "expl": "A palm tree does not resprout from its stump &mdash; complete removal, not management."},
+        {"q": "What happens to Māluṅkyaputta after receiving this teaching?",
+         "opts": [
+             "He requests further clarification",
+             "He soon realizes the supreme culmination of the spiritual path, becoming fully awakened",
+             "He returns to lay life",
+             "The discourse does not report any outcome"],
+         "correct": 1,
+         "expl": "Reported swiftly, with no detail given about the process of his practice."},
+        {"q": "Where else does Māluṅkyaputta appear in the wider canon, per the guide?",
+         "opts": [
+             "Nowhere else",
+             "MN 63 and MN 64, on unanswered metaphysical questions and restraint of the senses",
+             "Only in the Vinaya",
+             "Only in later commentarial literature"],
+         "correct": 1,
+         "expl": "Receiving fuller treatment there than this brief discourse allows."},
+        {"q": "How does the guide characterize the exchange between Māluṅkyaputta and the Buddha?",
+         "opts": [
+             "As purely formulaic, with no human element",
+             "As a real human moment: an elderly monk, aware time is short, pressing his request past a pointed rejoinder",
+             "As a dispute that is never resolved",
+             "As evidence Māluṅkyaputta was disrespectful"],
+         "correct": 1,
+         "expl": "Worth reading for its warmth inside a largely formulaic collection."},
+        {"q": "What does the discourse's closing formula suggest about Māluṅkyaputta's attainment?",
+         "opts": [
+             "That he attained only a preliminary stage",
+             "That he reached the standing of one whose defilements are fully ended",
+             "That his attainment was temporary",
+             "That no specific attainment is described"],
+         "correct": 1,
+         "expl": "The traditional formula marking full awakening, though not named directly by term in this discourse."},
+        {"q": "What does the guide say the discourse chooses to emphasize?",
+         "opts": [
+             "A detailed account of Māluṅkyaputta's meditative process",
+             "The teaching and its reception, not the process between receiving it and attaining awakening",
+             "A debate about the correct interpretation of craving",
+             "Māluṅkyaputta's biography before ordination"],
+         "correct": 1,
+         "expl": "No details of struggle or duration are given."},
+        {"q": "What kind of discourse is this, compared to most of this chapter's other entries?",
+         "opts": [
+             "A bare list with no narrative frame",
+             "A rare narrative discourse, with a named speaker and a real exchange",
+             "A discourse using the hell/heaven formula",
+             "A discourse using the <em>khata</em> formula"],
+         "correct": 1,
+         "expl": "One of the few genuinely narrative discourses in this chapter."},
+    ],
+    marginalia=[
+        ("A request, twice made", [
+            "\"teach me in brief\" &mdash;",
+            "pressed past a rejoinder",
+        ]),
+        ("Four sources of craving", [
+            "robes &middot; almsfood",
+            "lodgings &middot; continued existence",
+        ]),
+        ("Complete removal, imaged", [
+            "cut off at the root,",
+            "like a palm stump",
+        ]),
+        ("A swift, unelaborated outcome", [
+            "soon fully awakened &mdash;",
+            "no process narrated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.257/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.256.html">AN 4.256 &middot; Ways of Being Inclusive</a> &mdash; the discourse immediately before this one.',
+        '<a href="an-4.243.html">AN 4.243 &middot; Schism in the Saṅgha</a> &mdash; another rare narrative discourse with a real, named exchange.',
+        '<a href="an-4.258.html">AN 4.258 &middot; Families</a> &mdash; next, on why wealth stays or does not stay in a household.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.258 — Kulasutta
+# --------------------------------------------------------------------------- #
+page(
+    258, "Kula", "Families",
+    vagga=VAGGA_26,
+    meta_title="AN 4.258 — Families | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kulasutta, a rare piece "
+        "of purely practical household advice in the Fours &mdash; why families do or don't stay "
+        "wealthy, with no reference to ethics, rebirth, or the path. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_26),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel statements, four reasons families lose wealth and four reasons "
+                 "they keep it"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Practical household advice of this kind appears elsewhere in the "
+                              "canon, notably in material addressed to laypeople such as DN 31; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; refreshingly ordinary, with "
+                       "no soteriological content at all"),
+    ],
+    why=(
+        "Not every discourse in this collection is about liberation. This one is straightforward "
+        "household economics: families lose their wealth when they don't look for what's lost, "
+        "don't repair what's old, eat and drink to excess, or put an unethical person in charge "
+        "&mdash; and keep it when they do the opposite. Nothing here mentions kamma, rebirth, or "
+        "the path; it is simply practical."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Families stay wealthy or lose their wealth for entirely ordinary, practical reasons: "
+            "attentiveness to loss and decay, moderation, and who is put in charge."]),
+        ("Four reasons wealth does not last", [
+            "Not looking for what is lost, not repairing what is old, eating and drinking to "
+            "excess, and placing an unethical person &mdash; woman or man &mdash; in a position of "
+            "authority over the household. Each is a failure of ordinary attention or ordinary "
+            "restraint, not a moral or spiritual failing in the sense this collection usually "
+            "means."]),
+        ("Four reasons it does", [
+            "The mirror image, exactly: looking for what is lost, repairing what is old, eating "
+            "and drinking in moderation, and placing an ethical person in charge. The parallel "
+            "structure is worth noting for its completeness &mdash; every item in the first list "
+            "has a precise, practical opposite in the second, with nothing added or left over."]),
+        ("Notably absent: religion", [
+            "This discourse is worth reading for what it does not say. It gives no instruction "
+            "about giving, no reference to merit, no mention of what happens after death, and no "
+            "connection drawn to the eightfold path or any other structure this collection "
+            "otherwise leans on constantly. It treats household economic stability as a subject "
+            "worth teaching about entirely on its own terms, governed by ordinary practical "
+            "causes rather than religious ones."]),
+        ("A gender-neutral instruction, stated plainly", [
+            "Both the failing and the qualifying case name the person put in charge as "
+            "<em>itthiṁ vā purisaṁ vā</em>, &lsquo;a woman or a man&rsquo;, without preference or "
+            "comment. The discourse&rsquo;s concern is competence and ethics in household "
+            "management, and it states without qualification that either a woman or a man can "
+            "supply or fail to supply it."]),
+    ],
+    terms=[
+        ("naṭṭhagavesanā",
+         "&ldquo;looking for what is lost&rdquo; &mdash; the first practical factor, on both the "
+         "negative and positive side."),
+        ("jiṇṇapaṭisaṅkharaṇā",
+         "&ldquo;repairing old things&rdquo; &mdash; ordinary maintenance, treated as a factor in "
+         "whether wealth endures."),
+        ("bhojane amattaññutā / mattaññutā",
+         "&ldquo;not knowing moderation in eating and drinking&rdquo; and its opposite &mdash; "
+         "excess versus restraint, the third factor."),
+        ("dussīlaṁ itthiṁ vā purisaṁ vā ādhipaccaṁ ṭhapenti",
+         "&ldquo;placing an unethical woman or man in authority&rdquo; &mdash; the fourth factor, "
+         "named without gender preference on either side of the discourse."),
+        ("kula",
+         "&ldquo;family, household&rdquo; &mdash; the unit of concern in this discourse, and the "
+         "term naming it."),
+    ],
+    text_intro=(
+        "The discourse in full: four reasons wealth is lost, four reasons it endures. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why families lose wealth"),
+        ("p", "&sect;1", "an4.258:1.1-1.4"),
+        ("h3", "Why families keep wealth"),
+        ("p", "&sect;2", "an4.258:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four reasons does this discourse give for families losing wealth?",
+         "opts": [
+             "Bad kamma from a previous life",
+             "Not looking for what's lost, not repairing old things, eating and drinking to excess, and putting an unethical person in charge",
+             "Lack of religious devotion",
+             "Failure to give to monastics"],
+         "correct": 1,
+         "expl": "Ordinary, practical failures rather than moral or spiritual ones in the collection's usual sense."},
+        {"q": "What is notably absent from this discourse, according to the guide?",
+         "opts": [
+             "Any mention of household management",
+             "Any reference to kamma, rebirth, merit, or the path",
+             "Any mention of ethics at all",
+             "Any parallel structure between the two halves"],
+         "correct": 1,
+         "expl": "Household economic stability treated on its own practical terms."},
+        {"q": "How does this discourse describe the person who might be placed in charge of a household?",
+         "opts": [
+             "Only as a man",
+             "As \"a woman or a man\", without preference or comment on either side",
+             "Only as a woman",
+             "The gender of the person is not addressed at all"],
+         "correct": 1,
+         "expl": "The discourse's concern is competence and ethics, stated without qualification for either gender."},
+        {"q": "How complete is the parallel between the negative and positive lists, per the guide?",
+         "opts": [
+             "Loosely related, with some items unmatched",
+             "Exact: every item in the first list has a precise, practical opposite in the second",
+             "Contradictory in places",
+             "The two lists share no relationship"],
+         "correct": 1,
+         "expl": "Nothing added or left over between the two halves."},
+        {"q": "What kind of failure does \"not repairing old things\" represent?",
+         "opts": [
+             "A moral failing",
+             "A failure of ordinary attention or maintenance",
+             "A violation of a specific precept",
+             "A meditative obstacle"],
+         "correct": 1,
+         "expl": "Practical, not religious, in character."},
+        {"q": "Where else in the canon does this reading guide note a parallel for this kind of practical household advice?",
+         "opts": [
+             "Nowhere else",
+             "Material addressed to laypeople, such as DN 31",
+             "Only in the Vinaya",
+             "Only in later commentarial texts"],
+         "correct": 1,
+         "expl": "A recognized genre within the canon, distinct from strictly soteriological teaching."},
+        {"q": "What third factor concerns moderation?",
+         "opts": [
+             "Moderation in speech",
+             "Moderation in eating and drinking",
+             "Moderation in sleep",
+             "Moderation in wealth itself"],
+         "correct": 1,
+         "expl": "Excess versus restraint, the discourse's third practical factor."},
+        {"q": "What formula or larger structure does this discourse connect to, according to the guide?",
+         "opts": [
+             "The eightfold path",
+             "None; it stands on its own, without connecting to the collection's usual religious structures",
+             "The four noble truths",
+             "The <em>khata</em> formula"],
+         "correct": 1,
+         "expl": "A rare case of purely secular, practical teaching in this collection."},
+        {"q": "What discourse follows this one, returning to more familiar territory?",
+         "opts": [
+             "AN 4.259, on the qualities of a thoroughbred mendicant",
+             "AN 4.254",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "Using a horse simile to describe a mendicant worthy of offerings."},
+        {"q": "What is the term for \"family, household\" that names this discourse?",
+         "opts": [
+             "Sappurisa",
+             "Kula",
+             "Parisā",
+             "Saṅgha"],
+         "correct": 1,
+         "expl": "The unit of concern throughout this discourse."},
+    ],
+    marginalia=[
+        ("Four practical failures", [
+            "not seeking the lost",
+            "not repairing the old",
+            "excess &middot; unethical management",
+        ]),
+        ("A clean mirror", [
+            "every failing,",
+            "a precise opposite",
+        ]),
+        ("No religion invoked", [
+            "no kamma, no merit,",
+            "no mention of the path",
+        ]),
+        ("Gender named, unweighted", [
+            "\"a woman or a man\" &mdash;",
+            "competence is the concern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.258/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.257.html">AN 4.257 &middot; With Māluṅkyaputta</a> &mdash; the discourse immediately before this one.',
+        '<a href="an-4.256.html">AN 4.256 &middot; Ways of Being Inclusive</a> &mdash; on the social bonds this discourse&rsquo;s household economics quietly support.',
+        '<a href="an-4.259.html">AN 4.259 &middot; A Thoroughbred (1st)</a> &mdash; next, back to the path, through the image of a fine horse.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.259 — Paṭhamaājānīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    259, "Paṭhamaājānīya", "A Thoroughbred (1st)",
+    vagga=VAGGA_26,
+    meta_title="AN 4.259 — A Thoroughbred (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Ājānīyasutta, "
+        "mapping the four qualities of a fine royal horse &mdash; beautiful, strong, fast, "
+        "well-proportioned &mdash; onto a mendicant worthy of offerings, with one mapping looser "
+        "than the rest. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_26),
+        ("Speakers", SPEAKER),
+        ("Form", "A simile stated first for a horse, then mapped point by point onto a mendicant"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The thoroughbred simile for an excellent mendicant is a recurring "
+                              "image across the Nikāyas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a vivid simile, with one "
+                       "mapping worth reading closely for its looseness"),
+    ],
+    why=(
+        "A fine royal thoroughbred has four qualities that make it fit to serve a king: beauty, "
+        "strength, speed, and good proportion. This discourse maps all four, one at a time, onto a "
+        "mendicant worthy of the highest offerings &mdash; and while the first three mappings are "
+        "precise and satisfying, the fourth is looser than the simile leads a reader to expect."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who is ethical, energetic, wise in the four noble truths, and provided "
+            "with the requisites of monastic life is, like a fine royal thoroughbred, worthy of "
+            "the highest offerings."]),
+        ("Beautiful: ethical restraint", [
+            "A thoroughbred&rsquo;s beauty, <em>vaṇṇasampanno</em>, becomes a mendicant&rsquo;s "
+            "ethical conduct: restrained by the monastic code, behaving well, resorting for alms "
+            "in suitable places, and seeing danger in the slightest fault. The mapping works "
+            "because both are, in their own registers, what makes something presentable and fit "
+            "to be seen &mdash; a horse&rsquo;s coat and bearing, a monastic&rsquo;s visible "
+            "conduct."]),
+        ("Strong and fast: energy and insight", [
+            "Strength, <em>balasampanno</em>, becomes sustained energy for abandoning what is "
+            "unskillful and developing what is skillful &mdash; a direct, intuitive mapping. Speed, "
+            "<em>javasampanno</em>, becomes understanding the four noble truths: suffering, its "
+            "origin, its cessation, and the practice leading to its cessation. This is a more "
+            "surprising mapping at first &mdash; wisdom as speed &mdash; but it holds up: "
+            "understanding that arrives at the truths directly, without wandering, is exactly what "
+            "&lsquo;fast&rsquo; would mean applied to insight rather than motion."]),
+        ("Well-proportioned: a looser fit", [
+            "A thoroughbred&rsquo;s good proportion, <em>ārohapariṇāhasampanno</em>, literally "
+            "&lsquo;endowed with height and girth&rsquo;, describes a well-built animal capable of "
+            "carrying its rider&rsquo;s weight. Mapped onto the mendicant, this becomes simply "
+            "<em>receiving robes, almsfood, lodgings, and medicine</em> &mdash; not a quality of "
+            "the mendicant&rsquo;s own body or character at all, but the material support they "
+            "receive from others.",
+            "This is worth flagging honestly as the simile&rsquo;s weakest joint. The first three "
+            "mappings translate an inner or bodily quality of the horse into an inner quality of "
+            "the mendicant; the fourth switches registers, translating the horse&rsquo;s physical "
+            "build into something the mendicant passively receives. Read generously, the logic may "
+            "be that a well-proportioned animal is naturally well provided for by its owner, so a "
+            "mendicant who is genuinely worthy attracts the requisites needed to sustain the "
+            "practice &mdash; but the text does not spell this reasoning out, and the fit is looser "
+            "than the first three."]),
+        ("What the simile is ultimately claiming", [
+            "The discourse&rsquo;s closing line is unambiguous about the stakes: such a mendicant "
+            "is <em>the supreme field of merit for the world</em>, worthy of offerings to the "
+            "gods, of hospitality, of religious donation, and of veneration. The horse simile is "
+            "not decoration; it is doing real argumentative work, making the case that spiritual "
+            "excellence, like equine excellence, is a coherent, recognizable, and valuable thing "
+            "&mdash; even where one of its four features fits the comparison less cleanly than the "
+            "rest."]),
+    ],
+    terms=[
+        ("assājānīya",
+         "&ldquo;a thoroughbred, a horse of good breeding&rdquo; &mdash; the animal supplying "
+         "this discourse&rsquo;s central simile."),
+        ("vaṇṇasampanno",
+         "&ldquo;endowed with beauty&rdquo; &mdash; mapped onto ethical restraint and seeing "
+         "danger in the slightest fault."),
+        ("javasampanno",
+         "&ldquo;endowed with speed&rdquo; &mdash; mapped, in this discourse, onto understanding "
+         "the four noble truths."),
+        ("ārohapariṇāhasampanno",
+         "&ldquo;endowed with height and girth, well-proportioned&rdquo; &mdash; mapped, more "
+         "loosely, onto simply receiving the four monastic requisites."),
+        ("puññakkhetta",
+         "&ldquo;field of merit&rdquo; &mdash; what this discourse's fourfold mendicant is called, "
+         "the supreme instance of it for the world."),
+    ],
+    text_intro=(
+        "The discourse in full: the thoroughbred's four qualities, then each mapped onto a "
+        "mendicant. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The thoroughbred"),
+        ("p", "&sect;1", "an4.259:1.1-1.4"),
+        ("h3", "The mendicant, in the same terms"),
+        ("p", "&sect;2", "an4.259:2.1-2.3"),
+        ("h3", "Beautiful"),
+        ("p", "&sect;3", "an4.259:3.1-3.3"),
+        ("h3", "Strong"),
+        ("p", "&sect;4", "an4.259:4.1-4.3"),
+        ("h3", "Fast"),
+        ("p", "&sect;5", "an4.259:5.1-5.3"),
+        ("h3", "Well proportioned"),
+        ("p", "&sect;6", "an4.259:6.1-7.1"),
+    ],
+    quiz=[
+        {"q": "What four qualities make a royal thoroughbred worthy of a king?",
+         "opts": [
+             "Loyalty, obedience, size, and color",
+             "Beautiful, strong, fast, and well-proportioned",
+             "Speed, endurance, courage, and gentleness",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Mapped point by point onto a mendicant worthy of offerings."},
+        {"q": "What does \"beautiful\" become when mapped onto a mendicant?",
+         "opts": [
+             "Physical appearance",
+             "Ethical restraint, good conduct, and seeing danger in the slightest fault",
+             "Wealth and status",
+             "Skill in debate"],
+         "correct": 1,
+         "expl": "What makes something presentable and fit to be seen, in its own register."},
+        {"q": "What does \"fast\" become when mapped onto a mendicant?",
+         "opts": [
+             "Physical speed in walking",
+             "Understanding the four noble truths directly, without wandering",
+             "Quick temper",
+             "Rapid ordination"],
+         "correct": 1,
+         "expl": "A surprising but coherent mapping: wisdom as speed."},
+        {"q": "What does the guide identify as the weakest joint in this simile?",
+         "opts": [
+             "The \"beautiful\" mapping",
+             "The \"well-proportioned\" mapping, which switches from an inner quality to material support received from others",
+             "The \"strong\" mapping",
+             "There is no weak joint; all four mappings are equally precise"],
+         "correct": 1,
+         "expl": "The horse's physical build becomes simply receiving the four requisites."},
+        {"q": "What does <em>ārohapariṇāhasampanno</em> literally mean?",
+         "opts": [
+             "Endowed with speed",
+             "Endowed with height and girth, well-proportioned",
+             "Endowed with beauty",
+             "Endowed with wisdom"],
+         "correct": 1,
+         "expl": "Describing a well-built animal capable of carrying its rider's weight."},
+        {"q": "What generous reading does the guide offer for the fourth mapping's looseness?",
+         "opts": [
+             "That the text explicitly explains the connection in detail",
+             "That a well-proportioned animal is naturally well provided for, so a genuinely worthy mendicant may attract needed support, though the text does not spell this out",
+             "That the fourth mapping should simply be disregarded as an error",
+             "That the fourth item does not actually belong to the simile"],
+         "correct": 1,
+         "expl": "Offered honestly as a possible reading, not asserted as the text's own stated reasoning."},
+        {"q": "What does this discourse call a mendicant with all four qualities?",
+         "opts": [
+             "An ordinary monk with nothing special to note",
+             "The supreme field of merit for the world, worthy of the highest offerings",
+             "A thoroughbred literally, not figuratively",
+             "Unworthy of veneration"],
+         "correct": 1,
+         "expl": "The stakes the simile is ultimately making a case for."},
+        {"q": "What does \"strong\" become when mapped onto a mendicant?",
+         "opts": [
+             "Physical strength",
+             "Sustained energy for abandoning the unskillful and developing the skillful",
+             "Wealth",
+             "Popularity"],
+         "correct": 1,
+         "expl": "A direct, intuitive mapping from the horse's physical strength."},
+        {"q": "How do the first three mappings compare to the fourth, structurally, per the guide?",
+         "opts": [
+             "All four work identically, translating physical qualities into physical qualities",
+             "The first three translate an inner or bodily quality of the horse into an inner quality of the mendicant; the fourth translates a physical build into something passively received",
+             "The first three are looser than the fourth",
+             "None of the four mappings are meaningfully different from each other"],
+         "correct": 1,
+         "expl": "A genuine shift in register worth naming honestly."},
+        {"q": "What does the next discourse, AN 4.260, do with this same simile?",
+         "opts": [
+             "Discards it entirely",
+             "Repeats it with one factor, \"fast\", redefined as full liberation rather than understanding the four noble truths",
+             "Uses a completely different animal",
+             "Contradicts this discourse"],
+         "correct": 1,
+         "expl": "The same one-slot-changed technique already seen throughout this series."},
+    ],
+    marginalia=[
+        ("Four qualities, mapped", [
+            "beautiful &middot; ethical",
+            "strong &middot; energetic",
+            "fast &middot; wise in the truths",
+            "proportioned &middot; provided for",
+        ]),
+        ("Three tight mappings", [
+            "inner quality, mapped",
+            "to inner quality",
+        ]),
+        ("One looser joint", [
+            "physical build, mapped",
+            "to material support received",
+        ]),
+        ("The stakes of the simile", [
+            "not decoration &mdash;",
+            "the supreme field of merit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.259/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.254.html">AN 4.254 &middot; Insight</a> &mdash; the four noble truths, given as this discourse&rsquo;s definition of speed.',
+        '<a href="an-4.258.html">AN 4.258 &middot; Families</a> &mdash; the discourse immediately before this one.',
+        '<a href="an-4.260.html">AN 4.260 &middot; A Thoroughbred (2nd)</a> &mdash; next, the same simile with one factor redefined.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.260 — Dutiyaājānīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    260, "Dutiyaājānīya", "A Thoroughbred (2nd)",
+    vagga=VAGGA_26,
+    meta_title="AN 4.260 — A Thoroughbred (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Ājānīyasutta, "
+        "repeating AN 4.259's thoroughbred simile with a single factor redefined &mdash; fast now "
+        "means full liberation itself, not understanding the four noble truths. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_26),
+        ("Speakers", SPEAKER),
+        ("Form", "The same simile as AN 4.259, with one of its four mappings changed"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; best read directly against "
+                       "its neighbor"),
+    ],
+    why=(
+        "Beautiful, strong, well-proportioned: unchanged from AN 4.259. Fast: redefined. Where the "
+        "previous discourse mapped speed onto understanding the four noble truths, this one maps "
+        "it onto the outcome that understanding leads to &mdash; full liberation, realized here and "
+        "now."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who is ethical, energetic, fully liberated, and provided with the "
+            "requisites of monastic life is, like a fine royal thoroughbred, the supreme field of "
+            "merit for the world."]),
+        ("Three factors, unchanged", [
+            "Beautiful, strong, and well-proportioned are given here in the same words as AN "
+            "4.259: ethical restraint, sustained energy, and receiving the four requisites. This "
+            "series has already discussed each of these mappings in full, including the looser "
+            "fit of the fourth; nothing here requires restating that discussion."]),
+        ("Fast, redefined: from understanding to attainment", [
+            "AN 4.259 mapped speed onto <em>understanding the four noble truths</em>. This "
+            "discourse maps it instead onto <em>realizing the undefiled freedom of heart and "
+            "freedom by wisdom in this very life</em>, with one&rsquo;s own insight, through the "
+            "ending of defilements &mdash; the standard formula for full awakening, the same "
+            "outcome reported for Māluṅkyaputta two discourses earlier, at AN 4.257."]),
+        ("What the substitution shows about the simile's fourth slot", [
+            "Read against AN 4.259, this discourse demonstrates that &lsquo;fast&rsquo; in this "
+            "simile is not permanently fixed to a single referent. It can name the wisdom that "
+            "understands the truths correctly, or it can name the completed liberation that "
+            "wisdom eventually reaches &mdash; two points on the same trajectory, both apt for the "
+            "same image of speed, since both describe arriving somewhere directly rather than by a "
+            "slow or wandering route.",
+            "This is the same single-item-swap technique this series has documented many times "
+            "over, from AN 4.212&ndash;213 onward, here applied not to a tetrad&rsquo;s abstract "
+            "slot but to one term inside an extended simile."]),
+    ],
+    terms=[
+        ("javasampanno",
+         "&ldquo;endowed with speed&rdquo; &mdash; mapped here onto full liberation itself, where "
+         "AN 4.259 mapped it onto understanding the four noble truths."),
+        ("cetovimutti / paññāvimutti",
+         "&ldquo;freedom of heart&rdquo; and &ldquo;freedom by wisdom&rdquo; &mdash; the standard "
+         "paired formula for full awakening, given here as this discourse's definition of "
+         "&lsquo;fast&rsquo;."),
+        ("āsavānaṁ khayā",
+         "&ldquo;through the ending of defilements&rdquo; &mdash; the same completion Māluṅkyaputta "
+         "reaches at AN 4.257, two discourses earlier in this chapter."),
+        ("vaṇṇasampanno, balasampanno, ārohapariṇāhasampanno",
+         "beautiful, strong, and well-proportioned &mdash; unchanged from AN 4.259."),
+        ("puññakkhetta",
+         "&ldquo;field of merit&rdquo; &mdash; the closing description this discourse shares with "
+         "AN 4.259."),
+    ],
+    text_intro=(
+        "The discourse in full: the thoroughbred's four qualities, then each mapped onto a "
+        "mendicant, with speed redefined. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The thoroughbred"),
+        ("p", "&sect;1", "an4.260:1.1-1.4"),
+        ("h3", "The mendicant, in the same terms"),
+        ("p", "&sect;2", "an4.260:2.1-2.3"),
+        ("h3", "Beautiful and strong"),
+        ("p", "&sect;3", "an4.260:3.1-4.3"),
+        ("h3", "Fast: full liberation"),
+        ("p", "&sect;4", "an4.260:5.1-5.3"),
+        ("h3", "Well proportioned"),
+        ("p", "&sect;5", "an4.260:6.1-7.1"),
+    ],
+    quiz=[
+        {"q": "What single factor changes between AN 4.259 and this discourse?",
+         "opts": [
+             "Beautiful",
+             "Fast, from understanding the four noble truths to full liberation itself",
+             "Strong",
+             "Well-proportioned"],
+         "correct": 1,
+         "expl": "Three factors are given in identical wording; only speed's definition changes."},
+        {"q": "How does this discourse define \"fast\"?",
+         "opts": [
+             "Physical speed",
+             "Realizing the undefiled freedom of heart and freedom by wisdom, through the ending of defilements",
+             "Understanding the four noble truths",
+             "Rapid ordination"],
+         "correct": 1,
+         "expl": "The standard formula for full awakening, not understanding but attainment itself."},
+        {"q": "What does the guide say this substitution shows about the simile's fourth slot?",
+         "opts": [
+             "That the simile is broken and internally inconsistent",
+             "That \"fast\" is not fixed to one referent, but can name either the wisdom that understands correctly or the liberation that wisdom reaches",
+             "That AN 4.259 was mistaken",
+             "That the two discourses contradict each other"],
+         "correct": 1,
+         "expl": "Two points on the same trajectory, both apt for an image of arriving directly."},
+        {"q": "What technique does the guide say this discourse demonstrates, already documented elsewhere in this series?",
+         "opts": [
+             "A wholly new technique never seen before",
+             "The single-item-swap technique, here applied to one term inside an extended simile rather than an abstract tetrad slot",
+             "A technique unique to horse similes",
+             "No technique; this is coincidental repetition"],
+         "correct": 1,
+         "expl": "The same pattern documented from AN 4.212&ndash;213 onward."},
+        {"q": "Where else in this chapter does the same attainment named here as \"fast\" appear?",
+         "opts": [
+             "Nowhere else in this chapter",
+             "AN 4.257, where Māluṅkyaputta reaches the identical outcome",
+             "AN 4.254",
+             "AN 4.258"],
+         "correct": 1,
+         "expl": "Two discourses earlier in this same chapter."},
+        {"q": "How are \"beautiful\" and \"strong\" defined in this discourse?",
+         "opts": [
+             "Differently from AN 4.259",
+             "Identically to AN 4.259: ethical restraint and sustained energy",
+             "Not defined at all",
+             "Defined only in terms of physical qualities"],
+         "correct": 1,
+         "expl": "Unchanged, requiring no restatement of the earlier discussion."},
+        {"q": "How is \"well-proportioned\" defined, and does the guide revisit its earlier discussion?",
+         "opts": [
+             "Differently from AN 4.259, with a tighter mapping this time",
+             "Identically to AN 4.259 &mdash; receiving the four requisites &mdash; and the guide does not need to restate the earlier discussion of its looser fit",
+             "It is omitted from this discourse entirely",
+             "It is redefined as a fifth factor"],
+         "correct": 1,
+         "expl": "Already covered in full at AN 4.259."},
+        {"q": "What does this discourse call a mendicant with all four qualities?",
+         "opts": [
+             "An ordinary practitioner",
+             "The supreme field of merit for the world, as at AN 4.259",
+             "Unworthy of offerings",
+             "A literal thoroughbred"],
+         "correct": 1,
+         "expl": "The same closing claim as its neighbor."},
+        {"q": "What formula names the attainment this discourse calls \"fast\"?",
+         "opts": [
+             "The four kinds of deeds",
+             "Cetovimutti and paññāvimutti, freedom of heart and freedom by wisdom",
+             "The five precepts",
+             "The <em>khata</em> formula"],
+         "correct": 1,
+         "expl": "The standard paired formula for full awakening."},
+        {"q": "What discourse follows this one, moving to new content?",
+         "opts": [
+             "AN 4.261, on the four powers",
+             "AN 4.254",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "A brief list, related to but distinct from the five traditional powers."},
+    ],
+    marginalia=[
+        ("Three factors, unchanged", [
+            "beautiful &middot; strong",
+            "well-proportioned",
+        ]),
+        ("Fast, redefined", [
+            "AN 4.259 &middot; understanding the truths",
+            "AN 4.260 &middot; full liberation itself",
+        ]),
+        ("Two points, one trajectory", [
+            "wisdom that understands,",
+            "liberation it arrives at",
+        ]),
+        ("The same outcome, echoed", [
+            "AN 4.257 &middot; Māluṅkyaputta",
+            "AN 4.260 &middot; the fourth thoroughbred",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.260/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.259.html">AN 4.259 &middot; A Thoroughbred (1st)</a> &mdash; the source of this discourse&rsquo;s simile and its three unchanged factors.',
+        '<a href="an-4.257.html">AN 4.257 &middot; With Māluṅkyaputta</a> &mdash; where the same attainment this discourse calls &lsquo;fast&rsquo; was reached in narrative form.',
+        '<a href="an-4.261.html">AN 4.261 &middot; Powers</a> &mdash; next, a brief list of four qualities related to the traditional five.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.261 — Balasutta
+# --------------------------------------------------------------------------- #
+page(
+    261, "Bala", "Powers",
+    vagga=VAGGA_26,
+    meta_title="AN 4.261 — Powers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Balasutta, naming four "
+        "powers &mdash; energy, mindfulness, immersion, wisdom &mdash; a tetrad that compresses "
+        "the tradition's more familiar five powers by dropping faith. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_26),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, stated once"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The five spiritual powers are foundational across the Nikāyas and "
+                              "Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number for this four-item version"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and worth reading "
+                       "against the more familiar fivefold list"),
+    ],
+    why=(
+        "Energy, mindfulness, immersion, and wisdom: four powers, stated with no elaboration. "
+        "Readers who know the tradition's more famous list of five spiritual powers, "
+        "<em>bala</em>, will notice immediately what is missing here &mdash; faith &mdash; and the "
+        "omission is worth treating as a real structural fact about this collection rather than "
+        "passing over."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are four powers: energy, mindfulness, immersion, and wisdom."]),
+        ("A familiar list, one term short", [
+            "<em>Vīriyabala, satibala, samādhibala, paññābala</em> &mdash; energy, mindfulness, "
+            "immersion, wisdom. The tradition's standard list of powers, found constantly "
+            "elsewhere in the canon and paired closely with the five faculties, "
+            "<em>indriya</em>, has five members: <em>saddhābala</em>, the power of faith, stands "
+            "first, before energy. This discourse gives the same set with faith removed."]),
+        ("Why faith, specifically, and not another item", [
+            "This is not an arbitrary truncation. Faith is regularly the item most sensitive to a "
+            "listener's temperament and background in the tradition's broader treatment of these "
+            "five &mdash; useful, even necessary, as a starting confidence, but not always treated "
+            "as belonging on the same footing as the other four once a practitioner is further "
+            "along. Dropping it here, rather than mindfulness or immersion, is consistent with "
+            "faith's more provisional standing relative to the other four throughout the wider "
+            "canon."]),
+        ("A tetrad shaped by its collection, again", [
+            "This is the same structural pressure already seen operating on the eightfold path, "
+            "split across AN 4.215&ndash;216 and again at AN 4.225&ndash;226 because eight does "
+            "not fit one tetrad. Here the pressure runs the other direction: five items do not fit "
+            "a tetrad either, so one is dropped rather than the set being split across two "
+            "discourses. Both solutions serve the same underlying constraint &mdash; the Fours "
+            "require four &mdash; met by different means depending on how much the surrounding "
+            "content can tolerate being reshaped."]),
+        ("What remains, and why it still coheres", [
+            "Even without faith, the remaining four form a workable description of sustained "
+            "practice: energy to keep at it, mindfulness to keep track of what one is doing, "
+            "immersion to steady the mind, and wisdom to see clearly. The four cohere as a "
+            "practical sequence in their own right, which may be part of why this discourse felt "
+            "free to state them without faith rather than needing a companion discourse to "
+            "supply it separately, the way the eightfold path needed AN 4.216 to complete what AN "
+            "4.215 began."]),
+    ],
+    terms=[
+        ("bala",
+         "&ldquo;power&rdquo; &mdash; the term naming both this discourse and the tradition's "
+         "more familiar list of five."),
+        ("saddhābala",
+         "&ldquo;the power of faith&rdquo; &mdash; the fifth member of the traditional list, "
+         "absent from this discourse's tetrad."),
+        ("indriya",
+         "&ldquo;faculty&rdquo; &mdash; the closely related fivefold set the tradition usually "
+         "pairs with the five powers, sharing the same five terms under a different frame."),
+        ("vīriyabala, satibala, samādhibala, paññābala",
+         "the four powers named here: energy, mindfulness, immersion, and wisdom."),
+        ("bojjhaṅga",
+         "&ldquo;awakening factor&rdquo; &mdash; a related but distinct sevenfold list, already "
+         "met at AN 4.238, sharing several terms in common with the powers."),
+    ],
+    text_intro=(
+        "The discourse in full: the four powers. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four powers"),
+        ("p", "&sect;1", "an4.261:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What four powers does this discourse name?",
+         "opts": [
+             "Faith, energy, mindfulness, and wisdom",
+             "Energy, mindfulness, immersion, and wisdom",
+             "The four noble truths",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "The tradition's familiar five powers, with one term absent."},
+        {"q": "What term is missing from this discourse's list, compared to the tradition's standard fivefold set?",
+         "opts": [
+             "Energy",
+             "Faith, <em>saddhābala</em>",
+             "Wisdom",
+             "Mindfulness"],
+         "correct": 1,
+         "expl": "The item that normally stands first in the list of five."},
+        {"q": "Why does the guide suggest faith specifically was dropped, rather than another item?",
+         "opts": [
+             "For no particular reason; the choice is arbitrary",
+             "Faith is regularly treated as more provisional or temperament-sensitive than the other four in the wider canon",
+             "Faith is considered unimportant everywhere in the canon",
+             "Faith was never part of the traditional list to begin with"],
+         "correct": 1,
+         "expl": "Consistent with faith's standing relative to the other four elsewhere in the tradition."},
+        {"q": "What comparison does the guide draw to the eightfold path's treatment in this series?",
+         "opts": [
+             "No comparison is drawn",
+             "Both show the same structural pressure &mdash; the tetrad form requiring four items &mdash; met by different means: splitting the path across two discourses versus dropping one item here",
+             "The eightfold path and this list are identical in content",
+             "The comparison shows the two lists contradict each other"],
+         "correct": 1,
+         "expl": "Two different solutions to the same underlying constraint."},
+        {"q": "What closely related fivefold set does the tradition usually pair with the five powers?",
+         "opts": [
+             "The five precepts",
+             "The five faculties, <em>indriya</em>, sharing the same five terms under a different frame",
+             "The five aggregates",
+             "The five awakening factors"],
+         "correct": 1,
+         "expl": "Faith, energy, mindfulness, immersion, and wisdom, viewed as both powers and faculties."},
+        {"q": "How does the guide describe the coherence of the remaining four items without faith?",
+         "opts": [
+             "They no longer form a coherent set at all",
+             "They still form a workable practical sequence: energy to sustain effort, mindfulness to track it, immersion to steady the mind, wisdom to see clearly",
+             "They require a companion discourse to make sense, like the eightfold path did",
+             "They are entirely unrelated to each other"],
+         "correct": 1,
+         "expl": "Coherent enough that no second discourse was needed to complete the set."},
+        {"q": "What earlier discourse in this chapter named a related but distinct sevenfold list sharing several terms with the powers?",
+         "opts": [
+             "AN 4.254",
+             "This is the first appearance of any such list in this chapter",
+             "AN 4.258",
+             "AN 4.257"],
+         "correct": 1,
+         "expl": "The seven awakening factors were named at AN 4.238, in an earlier chapter, sharing mindfulness, energy, and immersion with this list."},
+        {"q": "What does this discourse's form consist of?",
+         "opts": [
+             "A narrative with a named speaker",
+             "A bare list of four, stated once with no elaboration",
+             "A simile involving an animal",
+             "A dialogue"],
+         "correct": 1,
+         "expl": "Matching the bare style of several other short discourses in this chapter."},
+        {"q": "What is <em>samādhibala</em>?",
+         "opts": [
+             "The power of faith",
+             "The power of immersion",
+             "The power of energy",
+             "The power of wisdom"],
+         "correct": 1,
+         "expl": "The third of the four powers named here."},
+        {"q": "What discourse follows this one?",
+         "opts": [
+             "AN 4.262, on qualifications for wilderness dwelling",
+             "AN 4.254",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "A different kind of tetrad, on thoughts and mental qualities."},
+    ],
+    marginalia=[
+        ("Four of five", [
+            "energy &middot; mindfulness",
+            "immersion &middot; wisdom",
+            "&mdash; faith, absent",
+        ]),
+        ("A provisional fifth", [
+            "faith, often treated as",
+            "more temperament-sensitive",
+        ]),
+        ("Two solutions, one constraint", [
+            "eightfold path &middot; split in two",
+            "five powers &middot; one dropped",
+        ]),
+        ("Still coherent, on its own", [
+            "sustain, track, steady, see",
+            "&mdash; no companion discourse needed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.261/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.238.html">AN 4.238 &middot; Awakening Factors</a> &mdash; a related sevenfold list sharing several terms with this discourse&rsquo;s four powers.',
+        '<a href="an-4.215.html">AN 4.215 &middot; Path (1st)</a> &mdash; where the same tetrad-form pressure required splitting the eightfold path instead of dropping a term.',
+        '<a href="an-4.262.html">AN 4.262 &middot; Wilderness</a> &mdash; next, on the qualities that fit or unfit a mendicant for solitary forest dwelling.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.262 — Araññasutta
+# --------------------------------------------------------------------------- #
+page(
+    262, "Arañña", "Wilderness",
+    vagga=VAGGA_26,
+    meta_title="AN 4.262 — Wilderness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Araññasutta, naming four "
+        "qualities that unfit a mendicant for solitary forest dwelling and four that fit them for "
+        "it &mdash; a tetrad the English translation's word groupings can obscure. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_26),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel fourfold statements on readiness for wilderness dwelling"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "Material on qualification for solitary forest practice appears "
+                              "elsewhere in the Nikāyas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the Pāli's real four-part "
+                       "structure is worth checking directly against the English"),
+    ],
+    why=(
+        "Not every mendicant is ready to live alone in remote forest lodgings. This discourse "
+        "names exactly four qualities that disqualify someone and four that qualify them &mdash; "
+        "though the English translation's phrasing groups the underlying Pāli terms in a way that "
+        "can make the tetrad harder to see than it actually is."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant troubled by sensual, malicious, or cruel thought, or simply witless, is "
+            "not ready for remote wilderness lodgings; one given to thoughts of renunciation, "
+            "good will, and harmlessness, and who is wise, is ready."]),
+        ("Four items, not two clusters", [
+            "The English rendering groups the disqualifying qualities as &lsquo;sensual, "
+            "malicious, and cruel thoughts; or they&rsquo;re witless, dull, and idiotic&rsquo;, "
+            "which can read as two loose clusters rather than four discrete items. The underlying "
+            "Pāli is a clean tetrad: <em>kāmavitakka</em>, sensual thought; "
+            "<em>byāpādavitakka</em>, malicious thought; <em>vihiṃsāvitakka</em>, cruel thought; "
+            "and a fourth single quality described with three near-synonyms, "
+            "<em>duppañño&hellip;jaḷo&hellip;elamūgo</em>, witless, dull, and dim &mdash; three "
+            "kinds of harmful thought, plus one quality of mental incapacity, standing as the "
+            "tetrad&rsquo;s fourth member."]),
+        ("Three thoughts, a recurring set", [
+            "<em>Kāmavitakka, byāpādavitakka, vihiṃsāvitakka</em> are not new to the tradition's "
+            "broader vocabulary; this same triad of harmful thought is what right intention, "
+            "<em>sammāsaṅkappa</em>, is traditionally defined against &mdash; the second factor of "
+            "the eightfold path this series has already met whole at AN 4.205 and split across AN "
+            "4.215&ndash;216 and AN 4.225&ndash;226. Here the same three thoughts are named "
+            "directly rather than folded into the compressed &lsquo;wrong thought&rsquo; of those "
+            "earlier discourses."]),
+        ("The mirror, and what it asks of solitude", [
+            "The qualifying four run in exact parallel: thoughts of renunciation, good will, and "
+            "harmlessness, plus wisdom in place of dullness. What this discourse ultimately claims "
+            "is that remote solitude is not a neutral setting suited to anyone seeking quiet. It "
+            "is suited only to a mind already disposed away from the three harmful thoughts and "
+            "capable of clear thinking &mdash; someone whose inner condition can withstand, or even "
+            "benefit from, the absence of company and structure that a wilderness lodging "
+            "provides. For someone still dominated by sensual, malicious, or cruel thought, or "
+            "simply unable to think clearly, the same solitude is described as unsuitable, not "
+            "merely inconvenient."]),
+    ],
+    terms=[
+        ("kāmavitakka, byāpādavitakka, vihiṃsāvitakka",
+         "sensual, malicious, and cruel thought &mdash; the same triad right intention is "
+         "traditionally defined against, three of the four items in this discourse's "
+         "disqualifying tetrad."),
+        ("duppañño, jaḷo, elamūgo",
+         "&ldquo;witless, dull, and dim&rdquo; &mdash; three near-synonyms describing one "
+         "quality, the tetrad's fourth member."),
+        ("nekkhammavitakka, abyāpādavitakka, avihiṃsāvitakka",
+         "thoughts of renunciation, good will, and harmlessness &mdash; the qualifying mirror of "
+         "the first three disqualifying thoughts."),
+        ("paññavā, ajaḷo, anelamūgo",
+         "&ldquo;wise, not dull, not dim&rdquo; &mdash; the positive counterpart to the "
+         "disqualifying tetrad's fourth item."),
+        ("arañña",
+         "&ldquo;wilderness, forest&rdquo; &mdash; the setting this discourse assesses readiness "
+         "for, and the term naming it."),
+    ],
+    text_intro=(
+        "The discourse in full: four qualities unfitting a mendicant for wilderness dwelling, four "
+        "qualities fitting them for it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not ready for wilderness"),
+        ("p", "&sect;1", "an4.262:1.1-1.4"),
+        ("h3", "Ready for wilderness"),
+        ("p", "&sect;2", "an4.262:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many discrete items make up this discourse's disqualifying tetrad in the underlying Pāli?",
+         "opts": [
+             "Two loose clusters, not really four items",
+             "Four: sensual thought, malicious thought, cruel thought, and one quality of mental incapacity",
+             "Six entirely separate items",
+             "Three items only"],
+         "correct": 1,
+         "expl": "The English translation's phrasing can obscure the clean four-part structure."},
+        {"q": "What three kinds of thought does the guide say are not new to the tradition's vocabulary?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Sensual, malicious, and cruel thought &mdash; the same triad right intention is defined against",
+             "The three doors of action",
+             "The three trainings"],
+         "correct": 1,
+         "expl": "Connected to the second factor of the eightfold path, met earlier at AN 4.205 and AN 4.215&ndash;216."},
+        {"q": "How does this discourse's naming of these three thoughts compare to their appearance in the eightfold path discourses?",
+         "opts": [
+             "It contradicts those discourses",
+             "It names the same three thoughts directly, rather than folding them into the compressed \"wrong thought\" of those earlier discourses",
+             "It uses entirely different terminology with no connection",
+             "It denies these thoughts exist"],
+         "correct": 1,
+         "expl": "The same content given a more explicit, unpacked form here."},
+        {"q": "What does this discourse claim about wilderness solitude?",
+         "opts": [
+             "That it is universally beneficial for anyone seeking quiet",
+             "That it suits only a mind already disposed away from harmful thought and capable of clear thinking",
+             "That it is dangerous for everyone",
+             "That it has no bearing on mental state at all"],
+         "correct": 1,
+         "expl": "Not a neutral setting, but one requiring specific readiness."},
+        {"q": "What is the fourth item in the disqualifying tetrad?",
+         "opts": [
+             "A fourth kind of harmful thought",
+             "One quality of mental incapacity, described with three near-synonyms: witless, dull, and dim",
+             "Physical illness",
+             "Old age"],
+         "correct": 1,
+         "expl": "Standing as a single tetrad member despite being described with three words."},
+        {"q": "What is the qualifying mirror of the disqualifying fourth item?",
+         "opts": [
+             "Physical strength",
+             "Wisdom, described with three near-synonyms: wise, not dull, not dim",
+             "Faith",
+             "Renunciation"],
+         "correct": 1,
+         "expl": "The positive counterpart to mental incapacity."},
+        {"q": "What does this discourse say happens to someone still dominated by the three harmful thoughts in a wilderness lodging?",
+         "opts": [
+             "Nothing in particular; the setting has no effect",
+             "The solitude is described as unsuitable for them, not merely inconvenient",
+             "They automatically develop wisdom regardless",
+             "They are expected to leave immediately"],
+         "correct": 1,
+         "expl": "A genuine claim about fit between inner condition and outer setting."},
+        {"q": "What formula or structure does this discourse use?",
+         "opts": [
+             "The hell/heaven formula",
+             "Two parallel fourfold statements, disqualifying and qualifying",
+             "The <em>khata</em> formula",
+             "A narrative with a named speaker"],
+         "correct": 1,
+         "expl": "A direct contrast, without narrative frame."},
+        {"q": "What does <em>nekkhamma</em> mean, the first qualifying item?",
+         "opts": [
+             "Cruelty",
+             "Renunciation",
+             "Malice",
+             "Dullness"],
+         "correct": 1,
+         "expl": "The positive counterpart to sensual thought."},
+        {"q": "What discourse closes this chapter, immediately following this one?",
+         "opts": [
+             "AN 4.263, on deeds, reusing vocabulary from two earlier chapters",
+             "AN 4.254",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "The chapter's final discourse."},
+    ],
+    marginalia=[
+        ("Four items, not two clusters", [
+            "sensual &middot; malicious &middot; cruel",
+            "&mdash; plus one: mental incapacity",
+        ]),
+        ("A recurring triad", [
+            "the same three thoughts",
+            "right intention is defined against",
+        ]),
+        ("Solitude, not neutral", [
+            "suited to a disposed mind,",
+            "unsuitable otherwise",
+        ]),
+        ("A clean mirror", [
+            "renunciation, good will,",
+            "harmlessness &middot; and wisdom",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.262/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.215.html">AN 4.215 &middot; Path (1st)</a> &mdash; where these same three harmful thoughts appear compressed into &lsquo;wrong thought&rsquo;.',
+        '<a href="an-4.205.html">AN 4.205 &middot; Eightfold</a> &mdash; the source of the path this discourse&rsquo;s vocabulary connects to.',
+        '<a href="an-4.263.html">AN 4.263 &middot; Deeds</a> &mdash; next, closing this chapter with content reused from two earlier ones.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.263 — Kammasutta
+# --------------------------------------------------------------------------- #
+page(
+    263, "Kamma", "Deeds",
+    vagga=VAGGA_26,
+    meta_title="AN 4.263 — Deeds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kammasutta, closing the "
+        "Abhiññāvagga by fusing AN 4.239's blameworthy/blameless tetrad with AN 4.222's khata "
+        "formula, and noting a numbering puzzle this chapter's own colophon leaves open. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_26),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel statements, the <em>khata</em> formula filled with blameworthy and "
+                 "blameless conduct and view"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief in content, but its "
+                       "close raises a genuine structural question"),
+    ],
+    why=(
+        "This chapter closes not with new material but with a fusion of two things this series has "
+        "already read separately: the tetrad AN 4.239 used to fill the hell/heaven formula "
+        "&mdash; blameworthy or blameless conduct and view &mdash; now filling instead the "
+        "<em>khata</em> formula first met at AN 4.3 and last used in this series at AN 4.222. Two "
+        "recombined pieces from two different earlier chapters, closing a third."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Blameworthy conduct in body, speech, and mind, plus blameworthy view, keeps a fool "
+            "broken and blameworthy; the blameless counterparts keep an astute person intact and "
+            "praiseworthy."]),
+        ("Two pieces, one new combination", [
+            "<em>Sāvajjena kāyakammena, sāvajjena vacīkammena, sāvajjena manokammena, sāvajjāya "
+            "diṭṭhiyā</em> is exactly AN 4.239's tetrad, word for word. <em>Khataṁ upahataṁ "
+            "attānaṁ pariharati&hellip;bahuñca apuññaṁ pasavati</em> is exactly the formula this "
+            "series first read at AN 4.3 and read again wrapping different content at AN "
+            "4.222&ndash;223. This discourse is the first point in this series where these two "
+            "specific pieces, previously seen in different pairings, are combined with each "
+            "other."]),
+        ("A chapter closing the way earlier ones did", [
+            "This is consistent with how AN 4.220 closed the Parisāvagga and AN 4.230 closed the "
+            "Duccaritavagga &mdash; a chapter&rsquo;s final discourse recombining existing "
+            "material rather than introducing anything new, closing on a note of demonstrated "
+            "technique rather than fresh content. The Abhiññāvagga, whose earlier discourses "
+            "ranged from a narrative about an elderly monk to a horse simile to household "
+            "economics, ends by returning to the recombination work this series has traced across "
+            "several earlier chapters."]),
+        ("A numbering question, left open honestly", [
+            "The source colophon names this <em>Abhiññāvaggo chaṭṭho</em>, &lsquo;the "
+            "Abhiññāvagga, the sixth&rsquo; &mdash; not, as might be expected after the previous "
+            "chapter&rsquo;s explicit close of the fifth paṇṇāsaka, a fresh &lsquo;first&rsquo; of "
+            "a new group. The numbering continues rather than resetting. This reading guide does "
+            "not have a confirmed explanation for why the count runs straight through here rather "
+            "than restarting, and states that plainly rather than guessing: the two chapters that "
+            "follow, the Kammapathavagga and the Rāgapeyyāla, will be checked directly for whether "
+            "they continue this same running count or mark a further division of their own."]),
+        ("What this chapter contained, looking back", [
+            "Ten discourses of real variety: a structural map of the path's four tasks, a "
+            "contrast between an ignoble and a noble search, four bases of communal sympathy, a "
+            "narrative of an elderly monk's swift awakening, purely secular household advice, a "
+            "horse simile given twice with one factor changed, a tetrad of powers missing its "
+            "traditional fifth member, a tetrad on fitness for solitude, and this closing "
+            "recombination. Less internally repetitive than the two chapters immediately before "
+            "it, this chapter drew its unity less from one recurring formula than from the range "
+            "of registers &mdash; doctrinal, narrative, practical, figurative &mdash; a single "
+            "collection is willing to hold."]),
+    ],
+    terms=[
+        ("sāvajja / anavajja",
+         "&ldquo;blameworthy&rdquo; and &ldquo;blameless&rdquo; &mdash; the tetrad content, "
+         "identical to AN 4.239, filling a different formula here."),
+        ("khataṁ upahataṁ attānaṁ pariharati",
+         "&ldquo;keeps themselves broken and damaged&rdquo; &mdash; the formula from AN 4.3, "
+         "reused here after its appearance at AN 4.222&ndash;223."),
+        ("Abhiññāvaggo chaṭṭho",
+         "&ldquo;the Abhiññāvagga, the sixth&rdquo; &mdash; the source colophon's label, "
+         "continuing a running count rather than restarting after the previous paṇṇāsaka's close."),
+        ("kāyakamma, vacīkamma, manokamma, diṭṭhi",
+         "deeds by body, speech, and mind, and view &mdash; the tetrad's four slots, as at AN "
+         "4.212 and its many descendants."),
+        ("bālo abyatto asappuriso / paṇḍito viyatto sappuriso",
+         "&ldquo;a foolish, incompetent untrue person&rdquo; and &ldquo;an astute, competent true "
+         "person&rdquo; &mdash; the character-types this formula describes."),
+    ],
+    text_intro=(
+        "The discourse in full: hell for the four, heaven for their opposites. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.263:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.263:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What two earlier discourses does this discourse combine?",
+         "opts": [
+             "AN 4.254 and AN 4.255",
+             "AN 4.239's tetrad content and AN 4.222's <em>khata</em> formula",
+             "AN 4.257 and AN 4.258",
+             "AN 4.259 and AN 4.260"],
+         "correct": 1,
+         "expl": "The first point in this series where these two specific pieces are combined with each other."},
+        {"q": "What tetrad does this discourse reuse from AN 4.239?",
+         "opts": [
+             "Faithless, unethical, lazy, witless",
+             "Blameworthy or blameless conduct by body, speech, and mind, plus view",
+             "Killing, stealing, sexual misconduct, lying",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "Word for word the same content, now under a different formula."},
+        {"q": "What formula does this discourse reuse from AN 4.222?",
+         "opts": [
+             "Placement in hell or heaven",
+             "The <em>khata</em> formula, first met at AN 4.3",
+             "A new formula unique to this discourse",
+             "The noble/ignoble expression formula"],
+         "correct": 1,
+         "expl": "Traced back to the collection's first chapter."},
+        {"q": "What does the source colophon call this chapter?",
+         "opts": [
+             "Abhiññāvaggo paṭhamo, the first",
+             "Abhiññāvaggo chaṭṭho, the sixth",
+             "Abhiññāvaggo pañcamo, the fifth",
+             "No ordinal is given"],
+         "correct": 1,
+         "expl": "Continuing a running count rather than restarting after the previous chapter's close of the fifth paṇṇāsaka."},
+        {"q": "How does the guide handle the question of why this numbering continues rather than resets?",
+         "opts": [
+             "It asserts a confident explanation",
+             "It states plainly that it does not have a confirmed explanation, and that the next two chapters will be checked directly",
+             "It ignores the question entirely",
+             "It claims the colophon must be a scribal error"],
+         "correct": 1,
+         "expl": "Consistent with this project's practice of checking sources before making structural claims."},
+        {"q": "What two chapters does the guide say will be checked to resolve this numbering question?",
+         "opts": [
+             "The Sappurisavagga and Parisāvagga",
+             "The Kammapathavagga and the Rāgapeyyāla",
+             "The Duccaritavagga and Kammavagga",
+             "No further chapters remain to check"],
+         "correct": 1,
+         "expl": "The two chapters immediately following this one."},
+        {"q": "How does the guide compare this chapter's closing discourse to earlier chapter-closers in this series?",
+         "opts": [
+             "As entirely unprecedented",
+             "As consistent with how AN 4.220 and AN 4.230 closed their chapters, recombining existing material rather than introducing new content",
+             "As contradicting the pattern of earlier chapter-closers",
+             "As unrelated to any earlier pattern"],
+         "correct": 1,
+         "expl": "A recognized closing technique across this series."},
+        {"q": "How does the guide characterize this chapter's overall variety, looking back?",
+         "opts": [
+             "As highly repetitive, like the two chapters immediately before it",
+             "As drawing unity less from one recurring formula than from a wide range of registers: doctrinal, narrative, practical, and figurative",
+             "As entirely disconnected discourses with no thematic coherence at all",
+             "As focused exclusively on monastic discipline"],
+         "correct": 1,
+         "expl": "A structural map, a search, a narrative, household economics, a horse simile, and more."},
+        {"q": "What character-types does this discourse's formula describe?",
+         "opts": [
+             "Kings and commoners",
+             "A foolish, incompetent untrue person, and an astute, competent true person",
+             "Monks and nuns specifically",
+             "Ascetics of four kinds"],
+         "correct": 1,
+         "expl": "The same character-types this formula has described since AN 4.3."},
+        {"q": "What does the guide say about asserting a structure for the chapters beyond this one before checking them?",
+         "opts": [
+             "It asserts a structure confidently in advance",
+             "It declines to assert a structure and will verify directly when those chapters are reached",
+             "It assumes no further structure exists at all",
+             "It claims the collection ends here"],
+         "correct": 1,
+         "expl": "A stated practice carried consistently through this series."},
+    ],
+    marginalia=[
+        ("Two pieces, combined", [
+            "content &middot; AN 4.239",
+            "formula &middot; AN 4.222, AN 4.3",
+        ]),
+        ("A closing technique, again", [
+            "AN 4.220 &middot; AN 4.230",
+            "AN 4.263 &middot; recombination",
+        ]),
+        ("A numbering question, open", [
+            "Abhiññāvaggo chaṭṭho &mdash;",
+            "sixth, not reset to first",
+        ]),
+        ("What this chapter held", [
+            "structure, search, narrative,",
+            "household, simile, power, closing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.263/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.239.html">AN 4.239 &middot; Blameworthy</a> &mdash; the source of this discourse&rsquo;s tetrad content.',
+        '<a href="an-4.222.html">AN 4.222 &middot; View</a> &mdash; the source of this discourse&rsquo;s formula.',
+        '<a href="an-4.254.html">AN 4.254 &middot; Insight</a> &mdash; the discourse that opened this chapter.',
+    ],
+)
