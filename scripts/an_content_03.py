@@ -27822,3 +27822,2134 @@ page(
         "single image.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.123–3.132 — Kusināravagga
+# --------------------------------------------------------------------------- #
+VAGGA_13 = "<em>Kusināravagga</em> &mdash; the thirteenth chapter of the Threes"
+
+page(
+    123, "Kusināra", "At Kusinārā",
+    vagga=VAGGA_13,
+    meta_title="AN 3.123 — At Kusinārā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kusinārasutta — the "
+        "same invitation, the same meal, and the same host, received by two mendicants in two "
+        "entirely different states of mind, one gift barely fruitful and the other very "
+        "fruitful. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kusinārā, in the Forest of Offerings (<em>Baliharaṇa</em>); stated at the "
+                    "head of AN 3.123, opening the thirteenth chapter"),
+        ("Speakers", SPEAKER),
+        ("Form", "A matched pair: the identical invitation and meal, received two different ways, "
+                 "each ending in the Buddha&rsquo;s verdict on the gift"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Material on the purity of an offering depending on the receiving "
+                              "mind is preserved in the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a plain contrast whose vocabulary "
+                       "rewards a second look"),
+    ],
+    why=(
+        "Two mendicants receive the identical invitation, walk to the identical house, and are "
+        "served the identical food by the identical householder. The discourse describes the scene "
+        "twice, almost word for word, and the only thing that changes between the two tellings is "
+        "what happens in the mendicant&rsquo;s mind while eating. That is the whole point: the "
+        "discourse is not interested in the food, or the giver, or the occasion. It is interested in "
+        "exactly one variable, and it holds everything else constant to isolate it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same gift, given the same way, is barely fruitful or very fruitful depending "
+            "entirely on the state of mind of the mendicant who receives it."]),
+        ("A controlled experiment", [
+            "Read the two halves side by side and notice what the discourse does not vary: the "
+            "invitation, the walk to the house, the seat, the server, the food, all repeated in "
+            "nearly identical wording. A teacher can use this structure directly &mdash; ask a class "
+            "to underline every word that changes between &sect;3 and &sect;5, and the underlines "
+            "will cluster entirely around the mendicant&rsquo;s thoughts."]),
+        ("Tied, infatuated, attached", [
+            "The first mendicant eats <em>gathito</em>, tied; <em>mucchito</em>, infatuated; "
+            "<em>ajjhosanno</em>, attached &mdash; three verbs for the same collapse, each pressing a "
+            "little further than the last. Tied describes a bond from outside; infatuated describes "
+            "a mind gone soft; attached describes something that has closed its hand around the "
+            "object and will not open it.",
+            "None of this is about the food being especially good. It is about what the mendicant "
+            "does with pleasant food once it arrives, and the answer is: builds a hope out of it. "
+            "&lsquo;I really hope this householder serves me with delicious fresh and cooked foods in "
+            "the future, too&rsquo; &mdash; a wish aimed at a future meal, spoiling the meal actually "
+            "in front of him."]),
+        ("The same vocabulary as AN 3.103", [
+            "The first mendicant is <em>anādīnavadassāvī</em>, blind to the drawback, and "
+            "<em>anissaraṇapañño</em>, not understanding the escape. The second is the exact "
+            "opposite: <em>ādīnavadassāvī</em>, seeing the drawback, and <em>nissaraṇapañño</em>, "
+            "understanding the escape.",
+            "Those are not incidental words. They are the second and third terms of the "
+            "gratification&ndash;drawback&ndash;escape analysis that AN 3.103, two chapters back, "
+            "names as the very thing the Bodhisatta had to work out before he would announce his "
+            "awakening. This discourse never states the analysis as a formula the way AN 3.103 does. "
+            "It shows what it looks like lived out at a single almsround, one mendicant applying it "
+            "and one not."]),
+        ("Renunciation, good will, harmlessness &mdash; against sensual, malicious, cruel", [
+            "The negligent mendicant&rsquo;s food-thoughts spill into a wider triad: sensual, "
+            "malicious, and cruel thoughts. The diligent mendicant&rsquo;s spill into the opposite "
+            "triad: renunciation, good will, and harmlessness. This is the identical pair of triads "
+            "that AN 3.124, immediately next, uses to diagnose an entire community &mdash; one that "
+            "quarrels and one that lives in harmony. Reading the two discourses together, the same "
+            "diagnostic tool is applied first to a single almsbowl and then to a whole monastery."]),
+        ("Why the gift's fruit depends on the receiver", [
+            "MN 142, the discourse on the analysis of religious donations, works out systematically "
+            "how a gift is purified &mdash; from the giver&rsquo;s side, from the receiver&rsquo;s "
+            "side, from both, or from neither. AN 3.123 is a single, concrete illustration of the "
+            "receiver&rsquo;s side of that analysis: the householder&rsquo;s hands, food, and "
+            "generosity do not change at all between the two halves, and yet one gift is barely "
+            "fruitful and the other very fruitful, because purity on the receiving end is not "
+            "guaranteed by the giver&rsquo;s ethics alone."]),
+    ],
+    terms=[
+        ("gathita, mucchita, ajjhosanna",
+         "&ldquo;tied, infatuated, attached&rdquo; &mdash; three verbs for the negligent "
+         "mendicant&rsquo;s mind while eating, each pressing further than the last."),
+        ("ādīnavadassāvī / anādīnavadassāvī",
+         "&ldquo;seeing / not seeing the drawback&rdquo; &mdash; <em>ādīnava</em> is the same term AN "
+         "3.103 uses for the second of its three questions about the world."),
+        ("nissaraṇapañña / anissaraṇapañña",
+         "&ldquo;understanding / not understanding the escape&rdquo; &mdash; <em>nissaraṇa</em>, the "
+         "third term of AN 3.103&rsquo;s analysis, applied here to a single meal."),
+        ("pamatta / appamatta",
+         "&ldquo;negligent / diligent&rdquo; &mdash; the verdict the discourse renders on the two "
+         "mendicants, and the reason it gives for each gift&rsquo;s fruitfulness."),
+        ("mahapphala",
+         "&ldquo;very fruitful&rdquo; &mdash; what the second mendicant&rsquo;s gift becomes, and "
+         "what the first mendicant&rsquo;s explicitly does not."),
+    ],
+    text_intro=(
+        "The discourse in full: the setting, the negligent mendicant&rsquo;s meal, and the diligent "
+        "mendicant&rsquo;s meal. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting"),
+        ("p", "&sect;1", "an3.123:1.1-1.5"),
+        ("h3", "Eating tied to the gift"),
+        ("p", "&sect;2", "an3.123:2.1-2.5"),
+        ("p", "&sect;3", "an3.123:3.1-3.9"),
+        ("h3", "Eating untied to the gift"),
+        ("p", "&sect;4", "an3.123:4.1-4.5"),
+        ("p", "&sect;5", "an3.123:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "What does the discourse hold constant between its two halves?",
+         "opts": [
+             "The mendicant&rsquo;s ethical training",
+             "The invitation, the walk to the house, the seat, the server, and the food",
+             "The time of day",
+             "The householder&rsquo;s wealth"],
+         "correct": 1,
+         "expl": "Everything external is identical; only the mendicant&rsquo;s mind differs."},
+        {"q": "What three verbs describe the negligent mendicant&rsquo;s mind while eating?",
+         "opts": [
+             "Calm, clear, collected",
+             "Tied, infatuated, attached",
+             "Hungry, tired, distracted",
+             "Grateful, humble, quiet"],
+         "correct": 1,
+         "expl": "Gathita, mucchita, ajjhosanna &mdash; each pressing a little further than the last."},
+        {"q": "What hope does the negligent mendicant form while eating?",
+         "opts": [
+             "That the food will last longer",
+             "That this householder will keep serving delicious food in the future too",
+             "That the meal will end sooner",
+             "That other mendicants will not find out"],
+         "correct": 1,
+         "expl": "A wish aimed at a future meal, spoiling the one actually in front of him."},
+        {"q": "What does the guide identify as significant about &ldquo;ādīnava&rdquo; and &ldquo;nissaraṇa&rdquo; in this discourse?",
+         "opts": [
+             "They are rare words found nowhere else",
+             "They are the same drawback and escape terms AN 3.103 uses for the Bodhisatta&rsquo;s pre-awakening analysis of the world",
+             "They refer specifically to monastic rules",
+             "They describe the taste of the food"],
+         "correct": 1,
+         "expl": "This discourse shows the analysis lived out at a single almsround."},
+        {"q": "What wider triad does the negligent mendicant&rsquo;s thinking spill into?",
+         "opts": [
+             "Fear, doubt, and confusion",
+             "Sensual, malicious, and cruel thoughts",
+             "Pride, envy, and greed",
+             "Boredom, restlessness, and sleepiness"],
+         "correct": 1,
+         "expl": "The same triad AN 3.124, next, uses to diagnose a whole community."},
+        {"q": "What triad does the diligent mendicant&rsquo;s thinking spill into instead?",
+         "opts": [
+             "Renunciation, good will, and harmlessness",
+             "Patience, effort, and concentration",
+             "Faith, energy, and wisdom",
+             "Silence, stillness, and solitude"],
+         "correct": 0,
+         "expl": "The exact opposite of the negligent mendicant&rsquo;s three thoughts."},
+        {"q": "How does the guide connect this discourse to MN 142?",
+         "opts": [
+             "Both discourses are set at Kusinārā",
+             "MN 142 analyzes how a gift is purified from the giver&rsquo;s side and the receiver&rsquo;s side; AN 3.123 is a concrete illustration of the receiver&rsquo;s side alone",
+             "MN 142 forbids monks from accepting cooked food",
+             "They share no connection"],
+         "correct": 1,
+         "expl": "The giver&rsquo;s generosity is identical in both halves; only the receiving mind differs."},
+        {"q": "What verdict does the Buddha give on the negligent mendicant&rsquo;s gift?",
+         "opts": [
+             "It is not very fruitful",
+             "It is worthless",
+             "It benefits the householder only",
+             "It should be refused"],
+         "correct": 0,
+         "expl": "Not worthless &mdash; but not very fruitful, because the mendicant is negligent."},
+        {"q": "What verdict does the Buddha give on the diligent mendicant&rsquo;s gift?",
+         "opts": [
+             "It is very fruitful",
+             "It is only slightly better",
+             "It depends on the householder&rsquo;s intention",
+             "The discourse does not say"],
+         "correct": 0,
+         "expl": "Because that mendicant is diligent."},
+        {"q": "What is the discourse&rsquo;s central point about a gift&rsquo;s fruitfulness?",
+         "opts": [
+             "It depends entirely on the value of what is given",
+             "It depends on the state of mind of the mendicant who receives it, not on the food, the giver, or the occasion",
+             "It depends on how publicly the gift is given",
+             "It cannot be judged by anyone but the Buddha"],
+         "correct": 1,
+         "expl": "A controlled experiment isolating exactly one variable."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">mucchita</span>infatuated",
+            "<span class=\"pali\">ajjhosanna</span>attached",
+            "&mdash; a mind that has closed its hand",
+        ]),
+        ("Two verdicts", [
+            "tied &middot; not very fruitful",
+            "untied &middot; very fruitful",
+            "&mdash; same gift, same giver",
+        ]),
+        ("Shared vocabulary", [
+            "ādīnava &middot; drawback",
+            "nissaraṇa &middot; escape",
+            "&mdash; AN 3.103&rsquo;s terms, lived out here",
+        ]),
+        ("Cross-references", [
+            "AN 3.103 &middot; the gratification-drawback-escape analysis",
+            "AN 3.124 &middot; the same triad, applied to a whole community",
+            "MN 142 &middot; how a gift is purified",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.123/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.103.html">AN 3.103 &middot; Before Awakening</a> &mdash; where '
+        "gratification, drawback, and escape are named as a method rather than shown in a scene.",
+        '<a href="an-3.124.html">AN 3.124 &middot; Arguments</a> &mdash; the same two triads of '
+        "thought, diagnosing an entire community rather than a single meal.",
+        '<a href="../majjhima-nikaya/mn-142.html">MN 142 &middot; The Analysis of Religious '
+        "Donations</a> &mdash; the systematic treatment of how a gift is purified, from the "
+        "giver&rsquo;s side and the receiver&rsquo;s.",
+    ],
+)
+
+
+page(
+    124, "Bhaṇḍana", "Arguments",
+    vagga=VAGGA_13,
+    meta_title="AN 3.124 — Arguments | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhaṇḍanasutta — the "
+        "Buddha's blunt discomfort at even thinking about mendicants who fight, set against a "
+        "community that blends like milk and water, diagnosed by the same three thoughts given "
+        "up and cultivated in each. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; the most recently stated setting is Kusinārā at AN 3.123, and "
+                    "nothing here marks a change of place"),
+        ("Speakers", SPEAKER),
+        ("Form", "A mirrored pair: what is given up and cultivated where mendicants fight, and "
+                 "where they live in harmony"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Material on the causes of monastic discord and harmony is preserved "
+                              "in the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a short mirrored pair, "
+                       "immediately clear"),
+    ],
+    why=(
+        "The Buddha states an unusually personal reaction: he is not even comfortable "
+        "<em>thinking about</em> a place where mendicants fight, let alone going there &mdash; and, "
+        "in the same breath, comfortable going to a place where they live in harmony, blending like "
+        "milk and water, without even having to think about it first. The discourse then diagnoses "
+        "both states by the same instrument: three thoughts given up, three thoughts cultivated."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A quarreling community and a harmonious one are told apart by exactly one thing: which "
+            "three thoughts its members have given up and which three they have cultivated."]),
+        ("A discomfort worth noticing", [
+            "The opening is stronger than it may first read. The Buddha does not say a quarreling "
+            "monastery is regrettable, or that he would rather avoid it. He says he cannot comfortably "
+            "even <em>think about</em> such a place, let alone travel there &mdash; and that thinking "
+            "about a harmonious one is as easy as going there. That is a rare moment of the Buddha "
+            "describing his own reaction rather than issuing an instruction, and it is worth reading "
+            "aloud for the asymmetry alone."]),
+        ("Barbed words", [
+            "The quarreling community is described precisely: mendicants &ldquo;continually wounding "
+            "each other with barbed words,&rdquo; <em>mukhasattīhi vitudantā</em>, literally stabbing "
+            "one another with mouth-daggers. The image is deliberately violent for a dispute carried "
+            "on entirely in speech, and it is the same move the fourth precept material elsewhere in "
+            "the canon makes: words can wound exactly as a weapon does."]),
+        ("Milk and water", [
+            "The harmonious community is <em>khīrodakībhūtā</em>, become like milk and water &mdash; "
+            "two liquids that mix without any visible seam. Paired with &ldquo;regarding each other "
+            "with kindly eyes,&rdquo; the image is not merely an absence of conflict but an active "
+            "indistinguishability, members whose separate identities have stopped mattering for the "
+            "purpose of getting along."]),
+        ("The same triad as AN 3.123", [
+            "What is given up where mendicants fight, and cultivated where they live in harmony, is "
+            "sensual, malicious, and cruel thoughts against renunciation, good will, and "
+            "harmlessness &mdash; the identical pair the previous discourse used to diagnose a single "
+            "mendicant&rsquo;s state of mind while eating. Read back to back, AN 3.123 and AN 3.124 "
+            "apply one diagnostic instrument at two different scales: one almsbowl, then one "
+            "community. Nothing about the tool changes; only what it is pointed at."]),
+        ("A diagnosis without a program", [
+            "MN 48, the Kosambiya Sutta, addresses mendicants already mid-quarrel at Kosambī and "
+            "supplies what this discourse does not: six warm-hearted qualities that hold a community "
+            "together and a practical path from dispute back to harmony, running all the way to the "
+            "seven knowledges of stream-entry. AN 3.124 diagnoses the two states by their internal "
+            "thoughts; MN 48 is the program for getting from one to the other. Taught together, the "
+            "pair moves from what a quarrel and a harmony are made of to what to actually do about "
+            "it."]),
+    ],
+    terms=[
+        ("bhaṇḍana / kalaha / vivāda",
+         "&ldquo;fighting, quarreling, disputing&rdquo; &mdash; three near-synonyms opening the "
+         "discourse, escalating from friction to open dispute."),
+        ("mukhasattīhi vitudantā",
+         "&ldquo;stabbing each other with mouth-daggers&rdquo; &mdash; barbed words rendered as a "
+         "weapon; <em>satti</em> is a spear or dagger."),
+        ("khīrodakībhūta",
+         "&ldquo;become like milk and water&rdquo; &mdash; the image for a harmonious community, two "
+         "things mixed without a visible seam."),
+        ("piyacakkhūhi sampassantā",
+         "&ldquo;regarding each other with kindly eyes&rdquo; &mdash; the harmonious "
+         "community&rsquo;s outward expression, paired with the milk-and-water image."),
+        ("nekkhamma / abyāpāda / avihiṁsā",
+         "&ldquo;renunciation, good will, harmlessness&rdquo; &mdash; the triad cultivated in a "
+         "harmonious community, identical to the diligent mendicant&rsquo;s thoughts in AN 3.123."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha&rsquo;s discomfort at a quarreling community, and his "
+        "ease at a harmonious one, each diagnosed by the same three thoughts. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A place of quarreling"),
+        ("p", "&sect;1", "an3.124:1.1-1.12"),
+        ("h3", "A place of harmony"),
+        ("p", "&sect;2", "an3.124:2.1-2.12"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha describe his reaction to a place where mendicants fight?",
+         "opts": [
+             "Mild disapproval",
+             "Not even comfortable thinking about it, let alone going there",
+             "Curiosity about the cause",
+             "Indifference"],
+         "correct": 1,
+         "expl": "A rare moment of the Buddha describing his own reaction rather than issuing an instruction."},
+        {"q": "How does that compare to his reaction to a harmonious community?",
+         "opts": [
+             "Equally uncomfortable",
+             "Comfortable going there, as easily as thinking about it",
+             "He has no particular reaction",
+             "He prefers to avoid all communities"],
+         "correct": 1,
+         "expl": "The asymmetry between the two reactions is the point of the opening."},
+        {"q": "What does &ldquo;mukhasattīhi vitudantā&rdquo; literally mean?",
+         "opts": [
+             "Speaking loudly",
+             "Stabbing each other with mouth-daggers",
+             "Whispering behind each other&rsquo;s backs",
+             "Refusing to speak at all"],
+         "correct": 1,
+         "expl": "A deliberately violent image for a dispute carried on entirely in speech."},
+        {"q": "What does &ldquo;khīrodakībhūta&rdquo; describe?",
+         "opts": [
+             "A shared meal",
+             "A harmonious community, become like milk and water mixed without a seam",
+             "A monastic robe",
+             "A meditation posture"],
+         "correct": 1,
+         "expl": "Not merely an absence of conflict, but an active indistinguishability."},
+        {"q": "What three thoughts are given up in a quarreling community and cultivated in a harmonious one?",
+         "opts": [
+             "Faith, energy, wisdom",
+             "Renunciation, good will, harmlessness",
+             "Patience, generosity, honesty",
+             "Mindfulness, concentration, insight"],
+         "correct": 1,
+         "expl": "The identical triad AN 3.123 uses for the diligent mendicant&rsquo;s thoughts while eating."},
+        {"q": "What three thoughts does the discourse say a quarreling community cultivates instead?",
+         "opts": [
+             "Fear, doubt, confusion",
+             "Sensual, malicious, and cruel thoughts",
+             "Pride, envy, greed",
+             "Boredom, restlessness, sleepiness"],
+         "correct": 1,
+         "expl": "The mirror image of the harmonious community&rsquo;s three."},
+        {"q": "How does the guide connect this discourse to AN 3.123?",
+         "opts": [
+             "Both are set at the same shrine",
+             "Both apply the identical pair of triads, one to a single mendicant&rsquo;s meal and one to an entire community",
+             "AN 3.123 corrects a mistake in AN 3.124",
+             "They share no connection"],
+         "correct": 1,
+         "expl": "One diagnostic instrument, pointed at two different scales."},
+        {"q": "What does the guide say MN 48 supplies that AN 3.124 does not?",
+         "opts": [
+             "A different diagnosis",
+             "A practical program &mdash; six warm-hearted qualities and a path from dispute back to harmony",
+             "A prohibition on monastic disputes",
+             "A longer version of the same discourse"],
+         "correct": 1,
+         "expl": "AN 3.124 diagnoses the two states; MN 48 is the program for getting from one to the other."},
+        {"q": "How is the discourse structured?",
+         "opts": [
+             "As a narrative with named characters",
+             "As a mirrored pair, the same three-thoughts diagnosis applied to two opposite communities",
+             "As a list of monastic rules",
+             "As a dialogue between two mendicants"],
+         "correct": 1,
+         "expl": "No narrative frame at all &mdash; a direct, mirrored teaching."},
+        {"q": "What does the Buddha conclude about mendicants in each kind of community?",
+         "opts": [
+             "That their conduct cannot be known from outside",
+             "That he can infer, from which state a community is in, which three things its members have given up and cultivated",
+             "That harmony is impossible among mendicants",
+             "That quarrels are unavoidable in any large community"],
+         "correct": 1,
+         "expl": "&ldquo;Clearly those venerables have given up three things and cultivated three things.&rdquo;"},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">mukhasatti</span>mouth-dagger",
+            "<span class=\"pali\">khīrodaka</span>milk-and-water",
+            "&mdash; two images, one violent, one seamless",
+        ]),
+        ("Same triad", [
+            "nekkhamma &middot; renunciation",
+            "abyāpāda &middot; good will",
+            "avihiṁsā &middot; harmlessness",
+        ]),
+        ("Two reactions", [
+            "quarreling &middot; not even to think of it",
+            "harmony &middot; as easy as going there",
+            "&mdash; the Buddha&rsquo;s own words",
+        ]),
+        ("Cross-references", [
+            "AN 3.123 &middot; the same triad, one mendicant&rsquo;s meal",
+            "MN 48 &middot; the program for ending a quarrel",
+            "AN 3.1 &middot; another opening on fools and the astute",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.124/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.123.html">AN 3.123 &middot; At Kusinārā</a> &mdash; the same two triads, '
+        "diagnosing a single mendicant&rsquo;s meal rather than a whole community.",
+        '<a href="../majjhima-nikaya/mn-048.html">MN 48 &middot; The Mendicants of Kosambī</a> '
+        "&mdash; the Buddha addressing an actual quarrel, with the six qualities that hold a "
+        "community together.",
+    ],
+)
+
+
+page(
+    125, "Gotamakacetiya", "The Gotamaka Shrine",
+    vagga=VAGGA_13,
+    meta_title="AN 3.125 — The Gotamaka Shrine | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Gotamakacetiyasutta — "
+        "the Buddha's own account of the three grounds his teaching stands on, and the "
+        "thousandfold galaxy that shook while he gave it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Gotamaka Shrine, one of six shrines around the city later named "
+                    "together in DN 16"),
+        ("Speakers", SPEAKER),
+        ("Form", "A threefold self-description of the teaching, a conclusion about what confidence "
+                 "it warrants, and a closing marvel"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The Buddha&rsquo;s claim to teach from direct knowledge rather than "
+                              "speculation is a recurring theme across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short and declarative, with one "
+                       "genuinely puzzling detail at the end"),
+    ],
+    why=(
+        "The Buddha makes a threefold claim about his own teaching &mdash; from direct knowledge, "
+        "with reasons, with a demonstrable basis &mdash; and says that because of this, instruction "
+        "and advice are worth giving. Then, almost as an aside, the text records that the "
+        "thousandfold galaxy shook while this particular discourse was being spoken, though nothing "
+        "here matches the eight causes of earthquake that DN 16 will later lay out in careful "
+        "detail."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha grounds the worth of his own instruction in three claims about how it was "
+            "arrived at: through direct knowledge, for reasons, on a demonstrable basis."]),
+        ("Three claims, not one", [
+            "<em>Abhiññāya</em>, based on direct knowledge, not without it &mdash; the teaching is "
+            "not secondhand. <em>Sanidānaṁ</em>, with a basis or reason, not without one &mdash; it is "
+            "not arbitrary. <em>Sappāṭihāriyaṁ</em>, with a demonstrable basis, not without it "
+            "&mdash; Sujato&rsquo;s rendering is deliberately plain; <em>pāṭihāriya</em> elsewhere in "
+            "the canon means a psychic feat or miracle, but here the sense is that the teaching can "
+            "be checked, not merely taken on faith."]),
+        ("Why this licenses instruction", [
+            "The discourse draws a specific inference: because the teaching meets these three "
+            "conditions, <em>karaṇīyo ovādo</em>, instruction is worth giving, and "
+            "<em>karaṇīyā anusāsanī</em>, advice is worth giving. The claim is not that a teacher "
+            "should instruct because they hold a position of authority. It is that instruction is "
+            "warranted only when it rests on direct knowledge, reasons, and a demonstrable basis "
+            "&mdash; a standard that applies as much to the reader passing this teaching on as it did "
+            "to the one who first gave it."]),
+        ("The same standard as the Kālāma advice", [
+            "AN 3.65, already on this site, tells the Kālāmas of Kesaputta not to accept a teaching "
+            "merely on report, tradition, or a teacher&rsquo;s reputation. AN 3.125 is the same "
+            "standard turned around: instead of telling an audience how to test a teaching from "
+            "outside, the Buddha states, of his own teaching, that it already meets exactly that "
+            "kind of test. The two discourses are a matched pair, one addressed to a listener&rsquo;s "
+            "caution and one to a teacher&rsquo;s claim."]),
+        ("A shrine that will be named again", [
+            "The Gotamaka Shrine is one of six lovely shrines around Vesālī that the Buddha will "
+            "later name to Ānanda at the Cāpāla Shrine in DN 16, on the day he relinquishes his "
+            "remaining life force. This discourse gives no indication that it belongs to that final "
+            "tour, and nothing should be read into the shared setting beyond the fact that the Buddha "
+            "evidently visited Gotamaka more than once. It is still worth knowing, when a student "
+            "meets this shrine's name a second time in DN 16, that it was not invented for that "
+            "scene."]),
+        ("An earthquake that doesn't fit the list", [
+            "DN 16 systematizes eight causes of a great earthquake: two natural or meditative, and "
+            "six tied to the major turning points of a Buddha&rsquo;s life &mdash; conception, birth, "
+            "awakening, first teaching, relinquishing the life force, and final extinguishment. The "
+            "thousandfold galaxy shaking here, while an ordinary discourse on the grounds of the "
+            "teaching is being given, fits none of the eight. Honest teaching notes the tension "
+            "rather than smoothing it over: DN 16&rsquo;s systematic list is not exhaustive of every "
+            "earthquake the canon records, and this is one the tidy scheme does not account for."]),
+    ],
+    terms=[
+        ("abhiññā",
+         "&ldquo;direct knowledge&rdquo; &mdash; the first ground the Buddha claims for his own "
+         "teaching, as opposed to secondhand report."),
+        ("sanidāna",
+         "&ldquo;with a basis, with a reason&rdquo; &mdash; <em>nidāna</em> is a cause or origin; the "
+         "teaching is not arbitrary."),
+        ("sappāṭihāriya",
+         "&ldquo;with a demonstrable basis&rdquo; &mdash; elsewhere <em>pāṭihāriya</em> means a "
+         "psychic feat, but here the sense is a teaching that can be checked."),
+        ("karaṇīyo ovādo, karaṇīyā anusāsanī",
+         "&ldquo;instruction is worth giving, advice is worth giving&rdquo; &mdash; the conclusion "
+         "drawn from the three claims above."),
+        ("sahassī lokadhātu akampittha",
+         "&ldquo;the thousandfold galaxy shook&rdquo; &mdash; the closing marvel, which fits none of "
+         "the eight causes of earthquake DN 16 later lists."),
+    ],
+    text_intro=(
+        "The discourse in full: the three grounds of the teaching, the conclusion that follows, and "
+        "the closing marvel. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting"),
+        ("p", "&sect;1", "an3.125:1.1-1.5"),
+        ("h3", "Three grounds for teaching"),
+        ("p", "&sect;2", "an3.125:2.1-2.6"),
+        ("h3", "The response"),
+        ("p", "&sect;3", "an3.125:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What three claims does the Buddha make about his own teaching?",
+         "opts": [
+             "That it is ancient, popular, and simple",
+             "That it is based on direct knowledge, with reasons, and on a demonstrable basis",
+             "That it agrees with all other teachers",
+             "That it requires no practice to understand"],
+         "correct": 1,
+         "expl": "Abhiññāya, sanidānaṁ, sappāṭihāriyaṁ &mdash; three grounds, not one."},
+        {"q": "How does the guide explain &ldquo;sappāṭihāriya&rdquo; in this context?",
+         "opts": [
+             "As a claim to perform miracles",
+             "As a teaching that can be checked, not merely taken on faith, distinct from the word&rsquo;s usual sense of a psychic feat",
+             "As a reference to the shrine&rsquo;s architecture",
+             "As a description of the audience&rsquo;s reaction"],
+         "correct": 1,
+         "expl": "Sujato&rsquo;s plain rendering points away from the miracle sense used elsewhere."},
+        {"q": "What conclusion does the Buddha draw from the three claims?",
+         "opts": [
+             "That the mendicants should test the teaching themselves before accepting it",
+             "That instruction and advice are worth giving, precisely because the teaching meets these three conditions",
+             "That no further teaching is necessary",
+             "That the mendicants should stop asking questions"],
+         "correct": 1,
+         "expl": "Karaṇīyo ovādo, karaṇīyā anusāsanī &mdash; a standard, not an assertion of authority."},
+        {"q": "How does the guide connect this discourse to AN 3.65?",
+         "opts": [
+             "They are set at the same location",
+             "AN 3.65 tells a listener how to test a teaching from outside; AN 3.125 has the Buddha state that his own teaching already meets that test",
+             "AN 3.65 contradicts this discourse",
+             "There is no connection"],
+         "correct": 1,
+         "expl": "A matched pair: one addressed to caution, one to a teacher&rsquo;s claim."},
+        {"q": "Where else does the Gotamaka Shrine appear in this site's collection?",
+         "opts": [
+             "Nowhere else",
+             "DN 16, where the Buddha names it among six lovely shrines around Vesālī, on the day he relinquishes his remaining life force",
+             "MN 26, as the site of the Buddha&rsquo;s awakening",
+             "AN 3.65, as the home of the Kālāmas"],
+         "correct": 1,
+         "expl": "The guide is careful not to claim this discourse belongs to that later, final tour."},
+        {"q": "What caution does the guide attach to the shared setting with DN 16?",
+         "opts": [
+             "That the Gotamaka Shrine in this discourse must be a different location",
+             "That nothing should be read into the shared setting beyond the Buddha having visited more than once",
+             "That the two discourses must be read as a single narrative",
+             "That the shrine was destroyed before DN 16"],
+         "correct": 1,
+         "expl": "The discourse gives no indication it belongs to the final tour."},
+        {"q": "What happens while the discourse is being spoken?",
+         "opts": [
+             "Rain falls",
+             "The thousandfold galaxy shakes",
+             "The shrine collapses",
+             "The mendicants leave"],
+         "correct": 1,
+         "expl": "Sahassī lokadhātu akampittha, the closing marvel."},
+        {"q": "How does that earthquake relate to DN 16's eight causes of a great earthquake?",
+         "opts": [
+             "It matches the sixth cause exactly",
+             "It fits none of the eight, which the guide treats as a genuine tension rather than smoothing over",
+             "DN 16 explicitly predicts this earthquake",
+             "It is caused by the mendicants&rsquo; approval"],
+         "correct": 1,
+         "expl": "DN 16&rsquo;s systematic list is not exhaustive of every earthquake the canon records."},
+        {"q": "What does the guide say instruction should rest on, according to this discourse's standard?",
+         "opts": [
+             "A teacher&rsquo;s seniority alone",
+             "Direct knowledge, reasons, and a demonstrable basis &mdash; a standard applying to anyone passing the teaching on, not only its first speaker",
+             "Popular consensus",
+             "Written scripture alone"],
+         "correct": 1,
+         "expl": "The standard is general, not a privilege of the original teacher."},
+        {"q": "What formula do the mendicants recite at the end?",
+         "opts": [
+             "A vow of silence",
+             "&ldquo;The Blessed One is a fully awakened Buddha! The teaching is well explained! The Saṅgha is practicing well!&rdquo;",
+             "A request for further teachings",
+             "A description of the shrine"],
+         "correct": 1,
+         "expl": "An early form of the three refuges, offered as grounds for joy rather than obligation."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">abhiññā</span>direct knowledge",
+            "<span class=\"pali\">sappāṭihāriya</span>demonstrable",
+            "&mdash; not secondhand, not arbitrary, checkable",
+        ]),
+        ("Three grounds", [
+            "abhiññāya &middot; direct knowledge",
+            "sanidānaṁ &middot; with reasons",
+            "sappāṭihāriyaṁ &middot; demonstrable",
+        ]),
+        ("A shrine, twice", [
+            "here &middot; an ordinary teaching",
+            "DN 16 &middot; the final tour",
+            "&mdash; same name, no claimed connection",
+        ]),
+        ("Cross-references", [
+            "AN 3.65 &middot; testing a teaching from outside",
+            "DN 16 &middot; the eight causes of earthquake",
+            "AN 3.123 &ndash;124 &middot; the two discourses just before this one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.125/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the '
+        "matching standard addressed to a listener testing a teaching from outside.",
+        '<a href="../digha-nikaya/dn-16.html">DN 16 &middot; The Buddha&rsquo;s Final Days</a> '
+        "&mdash; the Gotamaka Shrine named again, and the eight systematic causes of a great "
+        "earthquake.",
+    ],
+)
+
+
+page(
+    126, "Bharaṇḍukālāma", "Bharaṇḍu Kālāma",
+    vagga=VAGGA_13,
+    meta_title="AN 3.126 — Bharaṇḍu Kālāma | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bharaṇḍukālāmasutta — a night's lodging, a question about three teachers, and a "
+        "former companion of the Buddha rebuked three times and never seen again. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, at the hermitage of Bharaṇḍu the Kālāma, during a walking tour "
+                    "of the Kosalan countryside"),
+        ("Speakers", "The Buddha, Mahānāma the Sakyan, and Bharaṇḍu the Kālāma"),
+        ("Form", "A narrative frame &mdash; a search for lodging, a night's stay &mdash; opening "
+                 "onto a question about three teachers, contradicted three times"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Encounters between the Buddha and teachers from his own pre-awakening "
+                              "training are preserved across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a vivid narrative with a "
+                       "genuinely difficult philosophical question buried inside it"),
+    ],
+    why=(
+        "The Buddha arrives at Kapilavatthu with nowhere to sleep, and ends up spending the night at "
+        "the hermitage of Bharaṇḍu the Kālāma, described as his own former spiritual companion. The "
+        "next morning he asks a question about three teachers of differing scope, and Bharaṇḍu, "
+        "asked to weigh in, is publicly contradicted three times &mdash; after which he leaves the "
+        "city and never returns."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Three kinds of teacher claim complete understanding of an increasingly wide scope of "
+            "experience, and whether they reach the same end or different ends is a real question, "
+            "not a rhetorical one, since Bharaṇḍu answers it wrongly three times running."]),
+        ("A city with no room", [
+            "Mahānāma searches the whole of Kapilavatthu and cannot find suitable lodging for the "
+            "Buddha &mdash; an oddly mundane detail to include about the Buddha&rsquo;s own ancestral "
+            "town. The detail is worth keeping rather than smoothing over: even a famous teacher "
+            "returning to his own people can arrive to find no room prepared."]),
+        ("A former companion", [
+            "Bharaṇḍu is <em>purāṇasabrahmacārī</em>, a former fellow-practitioner, sharing the clan "
+            "name Kālāma with Āḷāra Kālāma, the first of the two teachers the Buddha studied under "
+            "before his awakening, recounted in MN 26. Whether Bharaṇḍu trained under Āḷāra "
+            "specifically the text does not say, but the phrase places him inside that same circle "
+            "of pre-awakening seekers &mdash; someone who once practiced alongside the man who would "
+            "become the Buddha, and did not himself go on to awakening."]),
+        ("Three teachers, three scopes", [
+            "The question concerns complete understanding, <em>pariññā</em>: one teacher teaches it "
+            "for sensual pleasures alone; a second for sensual pleasures and forms; a third for "
+            "sensual pleasures, forms, and feelings. Each scope is strictly wider than the last, "
+            "and the three roughly track the sensual, form, and formless realms of later Abhidhamma "
+            "cosmology, though the discourse itself states the scopes without naming any cosmology "
+            "at all."]),
+        ("The same end, or different ends?", [
+            "Bharaṇḍu answers &ldquo;the same&rdquo; three times; the Buddha answers "
+            "&ldquo;different&rdquo; three times, addressing Mahānāma rather than Bharaṇḍu directly "
+            "each time, as if instructing the listener over the disputant&rsquo;s head. The "
+            "discourse does not explain why the ends differ &mdash; only that a wider scope of "
+            "complete understanding cannot terminate at the same point as a narrower one. A teacher "
+            "who has not fully understood feeling has not reached where one who has fully understood "
+            "it has reached, whatever either of them may claim."]),
+        ("A departure without a return", [
+            "The final lines are unusually final for this collection: Bharaṇḍu, having been "
+            "corrected three times in front of an illustrious layperson, leaves Kapilavatthu "
+            "&ldquo;never to return.&rdquo; The canon rarely tracks a minor figure&rsquo;s fate this "
+            "explicitly. It is worth sitting with rather than resolving: the text does not say "
+            "Bharaṇḍu was wrong out of malice, only that he held a position and would not, or could "
+            "not, revise it once corrected."]),
+    ],
+    terms=[
+        ("purāṇasabrahmacārī",
+         "&ldquo;former spiritual companion&rdquo; &mdash; how the text identifies Bharaṇḍu&rsquo;s "
+         "relationship to the Buddha, from before the awakening."),
+        ("pariññā",
+         "&ldquo;complete understanding&rdquo; &mdash; the technical scope each of the three "
+         "teachers claims, over an increasingly wide range of experience."),
+        ("kāma, rūpa, vedanā",
+         "&ldquo;sensual pleasures, forms, feelings&rdquo; &mdash; the three widening scopes the "
+         "three teachers respectively claim to have completely understood."),
+        ("ekā niṭṭhā / puthu niṭṭhā",
+         "&ldquo;one end / many ends&rdquo; &mdash; the Buddha&rsquo;s own question, and the one "
+         "Bharaṇḍu answers wrongly three times."),
+        ("apasādita",
+         "&ldquo;rebuked, contradicted&rdquo; &mdash; what Bharaṇḍu experiences three times, and "
+         "the reason he gives, to himself, for leaving."),
+    ],
+    text_intro=(
+        "The discourse in full: the search for lodging, the night at Bharaṇḍu&rsquo;s hermitage, "
+        "the question about three teachers, and Bharaṇḍu&rsquo;s departure. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "No room in the city"),
+        ("p", "&sect;1", "an3.126:1.1-2.2"),
+        ("h3", "A night at Bharaṇḍu's hermitage"),
+        ("p", "&sect;2", "an3.126:3.1-4.6"),
+        ("h3", "Three teachers, and a question three times contradicted"),
+        ("p", "&sect;3", "an3.126:5.1-6.12"),
+        ("h3", "Bharaṇḍu's departure"),
+        ("p", "&sect;4", "an3.126:7.1-7.5"),
+    ],
+    quiz=[
+        {"q": "Why does the Buddha end up staying at Bharaṇḍu's hermitage?",
+         "opts": [
+             "He was personally invited in advance",
+             "Mahānāma could not find any other suitable lodging in Kapilavatthu",
+             "It was the custom for visiting teachers",
+             "Bharaṇḍu was his relative"],
+         "correct": 1,
+         "expl": "An oddly mundane detail: even in his own ancestral town, no room was prepared."},
+        {"q": "What is Bharaṇḍu's relationship to the Buddha?",
+         "opts": [
+             "His cousin",
+             "A former spiritual companion, sharing the clan name of Āḷāra Kālāma, the Buddha&rsquo;s first pre-awakening teacher",
+             "A monk who left the Saṅgha in anger",
+             "A king&rsquo;s minister"],
+         "correct": 1,
+         "expl": "Purāṇasabrahmacārī &mdash; the text does not say he trained under Āḷāra specifically."},
+        {"q": "What three teachers does the Buddha describe?",
+         "opts": [
+             "Teachers of ethics, meditation, and wisdom",
+             "Teachers claiming complete understanding of, respectively, sensual pleasures alone; sensual pleasures and forms; and sensual pleasures, forms, and feelings",
+             "Teachers of three different meditation postures",
+             "Teachers from three different countries"],
+         "correct": 1,
+         "expl": "Each scope is strictly wider than the last."},
+        {"q": "What question does the Buddha ask about these three teachers?",
+         "opts": [
+             "Which one is most popular",
+             "Whether they reach the same end or different ends",
+             "Which one taught first",
+             "Which one is still alive"],
+         "correct": 1,
+         "expl": "Ekā niṭṭhā udāhu puthu niṭṭhā &mdash; a real question, not rhetorical."},
+        {"q": "How does Bharaṇḍu answer, and how many times?",
+         "opts": [
+             "&ldquo;Different,&rdquo; once",
+             "&ldquo;The same,&rdquo; three times",
+             "He refuses to answer",
+             "&ldquo;I don&rsquo;t know,&rdquo; three times"],
+         "correct": 1,
+         "expl": "And the Buddha answers &ldquo;different&rdquo; each of the three times in reply."},
+        {"q": "How does the Buddha address his corrections?",
+         "opts": [
+             "Directly to Bharaṇḍu",
+             "To Mahānāma, as if instructing the listener over the disputant&rsquo;s head",
+             "To the assembled crowd",
+             "Silently, without words"],
+         "correct": 1,
+         "expl": "&ldquo;Say they&rsquo;re different, Mahānāma!&rdquo; &mdash; each time addressed past Bharaṇḍu."},
+        {"q": "What does the guide say the discourse does NOT explain?",
+         "opts": [
+             "Who Mahānāma is",
+             "Why the ends differ, beyond the fact that a wider complete understanding cannot terminate at the same point as a narrower one",
+             "Where Kapilavatthu is located",
+             "What sensual pleasures are"],
+         "correct": 1,
+         "expl": "The discourse states the conclusion without spelling out its full reasoning."},
+        {"q": "What does Bharaṇḍu do after being corrected three times?",
+         "opts": [
+             "He apologizes and becomes the Buddha&rsquo;s student",
+             "He leaves Kapilavatthu, never to return",
+             "He challenges the Buddha to further debate",
+             "He is expelled by Mahānāma"],
+         "correct": 1,
+         "expl": "An unusually final line for this collection &mdash; the canon rarely tracks a minor figure&rsquo;s fate this explicitly."},
+        {"q": "How does the guide characterize Bharaṇḍu's fault?",
+         "opts": [
+             "Malice toward the Buddha",
+             "Holding a position and being unable, or unwilling, to revise it once corrected",
+             "Ignorance of basic doctrine",
+             "Disrespect toward Mahānāma"],
+         "correct": 1,
+         "expl": "The text does not attribute malice to him &mdash; only an inability to yield."},
+        {"q": "Where else on this site is Bharaṇḍu's teacher-lineage discussed directly?",
+         "opts": [
+             "AN 3.65",
+             "MN 26, which recounts Āḷāra Kālāma and Uddaka Rāmaputta, the Buddha&rsquo;s own pre-awakening teachers",
+             "DN 16",
+             "Nowhere else"],
+         "correct": 1,
+         "expl": "The Buddha&rsquo;s autobiography of his own search, including the two teachers he left."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">purāṇasabrahmacārī</span>former companion",
+            "<span class=\"pali\">pariññā</span>complete understanding",
+            "&mdash; a shared past, a diverging present",
+        ]),
+        ("Three scopes", [
+            "kāma &middot; sensual pleasures",
+            "+ rūpa &middot; forms",
+            "+ vedanā &middot; feelings",
+        ]),
+        ("Three times", [
+            "&ldquo;Say they&rsquo;re the same&rdquo;",
+            "&ldquo;Say they&rsquo;re different&rdquo;",
+            "&mdash; repeated three times each",
+        ]),
+        ("Cross-references", [
+            "MN 26 &middot; Āḷāra Kālāma and Uddaka Rāmaputta",
+            "AN 3.65 &middot; the Kālāma clan of Kesaputta",
+            "AN 3.127 &middot; the discourse just after this one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.126/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-026.html">MN 26 &middot; The Noble Search</a> &mdash; the '
+        "Buddha&rsquo;s own account of Āḷāra Kālāma and Uddaka Rāmaputta, his teachers before "
+        "awakening.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; another '
+        "encounter with the Kālāma clan, this one addressed to how to test a teaching.",
+    ],
+)
+
+
+page(
+    127, "Hatthaka", "With Hatthaka",
+    vagga=VAGGA_13,
+    meta_title="AN 3.127 — With Hatthaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Hatthakasutta — a "
+        "godling who cannot stay solid before the Buddha, an insatiable appetite for seeing "
+        "him, hearing the teaching, and serving the Saṅgha, and a rebirth in the pure abodes. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta&rsquo;s Grove, Anāthapiṇḍika&rsquo;s monastery, late at night"),
+        ("Speakers", "The Buddha and the godling Hatthaka"),
+        ("Form", "A narrative opening on a godling unable to stay solid, a dialogue, and a closing "
+                 "verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Accounts of a deceased disciple returning as a deity to continue "
+                              "hearing the teaching are preserved in the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a vivid scene with one precise "
+                       "doctrinal payoff at the end"),
+    ],
+    why=(
+        "A godling lighting up the whole of Jeta&rsquo;s Grove approaches the Buddha at night and "
+        "cannot stay still &mdash; his subtle body sinks and melts like ghee poured on sand, "
+        "wherever he tries to stand before the Buddha. Told to manifest a solid form, he does, and "
+        "explains that he passed away as a human being still unsatisfied by three things he could "
+        "never get enough of. The closing verse names exactly where that left him."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A disciple who died still hungry for the Buddha, the teaching, and the Saṅgha was "
+            "reborn among the pure abodes, and carries that same hunger on as a deity."]),
+        ("A body that will not hold still", [
+            "The simile is exact and worth pausing on: like ghee or oil poured onto sand, sinking "
+            "and melting, unable to remain stable. Hatthaka&rsquo;s ordinary subtle form cannot hold "
+            "a fixed shape in the Buddha&rsquo;s presence, and only when instructed to manifest a "
+            "solid, coarse embodiment, <em>oḷārikaṁ attabhāvaṁ</em>, can he stand and bow normally. "
+            "The detail says something about scale: whatever a godling ordinarily is, it is not "
+            "shaped the way a human body is, and appearing before the Buddha in an unprepared form "
+            "does not go well."]),
+        ("Crowded, both ways", [
+            "Hatthaka draws a direct parallel between his own situation and the Buddha&rsquo;s: just "
+            "as the Buddha lives crowded by monks, nuns, laypeople, rulers, and rival ascetics, "
+            "Hatthaka lives crowded by godlings who travel from far away specifically to hear the "
+            "teaching in his presence. The parallel positions Hatthaka, only recently deceased, as "
+            "already something like a minor teacher among the gods &mdash; carrying forward not just "
+            "his hunger to hear the Dhamma but his usefulness in transmitting it."]),
+        ("Three things never enough", [
+            "Seeing the Buddha, hearing the true teaching, and serving the Saṅgha &mdash; the three "
+            "things Hatthaka says he died still unsatisfied by, <em>atitto appaṭivāno</em>, "
+            "insatiable and never turning back from wanting more. This is a rare instance in the "
+            "canon of desire itself, rather than its absence, being reported without any hint of "
+            "criticism. Craving for sensual pleasures is the target of the whole path; craving to "
+            "see the Buddha, hear the teaching, and serve the Saṅgha is recorded here as something "
+            "that follows a disciple past death and into a fortunate rebirth."]),
+        ("Gone to the Aviha realm", [
+            "The closing verse states plainly where the hunger led: <em>hatthako avihaṁ gato</em>, "
+            "Hatthaka has gone to the Aviha realm, one of the five pure abodes, "
+            "<em>suddhāvāsa</em>, reserved exclusively for non-returners. AN 4.124, already on this "
+            "site, makes the same point about a different disciple without using the technical term "
+            "either, closing on the line that this rebirth is &ldquo;not held in common with "
+            "ordinary people.&rdquo; Hatthaka&rsquo;s verse does the identical thing by naming the "
+            "specific realm instead."]),
+        ("What the training verse adds", [
+            "The final verse credits Hatthaka&rsquo;s outcome to two things named together: training "
+            "in the higher ethics, and delighting in hearing the true teaching. The insatiable "
+            "hunger described in the dialogue is not, on its own, presented as sufficient. It sits "
+            "alongside ethical training as the pair that produced this particular rebirth, which "
+            "keeps the discourse from reading as though enthusiasm alone were the whole of the "
+            "path."]),
+    ],
+    terms=[
+        ("devaputta",
+         "&ldquo;godling, young god&rdquo; &mdash; Hatthaka&rsquo;s ontological category, a deity "
+         "of relatively recent origin rather than an ancient cosmic figure."),
+        ("oḷārikaṁ attabhāvaṁ abhinimmināhi",
+         "&ldquo;manifest a solid embodiment&rdquo; &mdash; the Buddha&rsquo;s instruction, "
+         "<em>oḷārika</em> being coarse or gross as opposed to subtle."),
+        ("atitto appaṭivāno",
+         "&ldquo;never getting enough, never turning back&rdquo; &mdash; the double description of "
+         "Hatthaka&rsquo;s hunger for the three things he names."),
+        ("saddhammasavana",
+         "&ldquo;hearing the true teaching&rdquo; &mdash; the second of the three things Hatthaka "
+         "could never get enough of."),
+        ("avihaṁ gato",
+         "&ldquo;gone to the Aviha realm&rdquo; &mdash; one of the five pure abodes reserved for "
+         "non-returners, named explicitly in the closing verse."),
+    ],
+    text_intro=(
+        "The discourse in full: Hatthaka&rsquo;s unstable arrival, the dialogue about what he "
+        "still teaches and what he could never get enough of, and the closing verses. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A godling who cannot stay still"),
+        ("p", "&sect;1", "an3.127:1.1-2.3"),
+        ("h3", "What Hatthaka still teaches"),
+        ("p", "&sect;2", "an3.127:3.1-3.12"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;3", "an3.127:4.1-5.4"),
+    ],
+    quiz=[
+        {"q": "Why can't Hatthaka stand still before the Buddha at first?",
+         "opts": [
+             "He is nervous",
+             "His subtle form sinks and melts like ghee or oil poured on sand, unable to hold a fixed shape",
+             "The ground is unstable",
+             "He is invisible"],
+         "correct": 1,
+         "expl": "Only manifesting a solid, coarse embodiment lets him stand and bow normally."},
+        {"q": "What parallel does Hatthaka draw between himself and the Buddha?",
+         "opts": [
+             "Both were born in the same clan",
+             "Just as the Buddha lives crowded by monks, nuns, laypeople, and rulers, Hatthaka lives crowded by godlings coming to hear him",
+             "Both refuse all visitors",
+             "Both teach only in Sāvatthī"],
+         "correct": 1,
+         "expl": "Hatthaka has become something like a minor teacher among the gods."},
+        {"q": "What three things does Hatthaka say he died still unsatisfied by?",
+         "opts": [
+             "Wealth, fame, and pleasure",
+             "Seeing the Buddha, hearing the true teaching, and serving the Saṅgha",
+             "Food, sleep, and conversation",
+             "Meditation, chanting, and ritual"],
+         "correct": 1,
+         "expl": "Atitto appaṭivāno &mdash; insatiable, never turning back from wanting more."},
+        {"q": "What does the guide say is unusual about how this desire is treated?",
+         "opts": [
+             "It is condemned as a subtle form of craving",
+             "It is reported without criticism, unlike sensual craving, which is the very target of the path",
+             "It is explained as an illusion",
+             "It is attributed to a past-life curse"],
+         "correct": 1,
+         "expl": "A rare instance of desire itself, not its absence, being praised in this way."},
+        {"q": "Where does the closing verse say Hatthaka was reborn?",
+         "opts": [
+             "The Tāvatiṃsa heaven",
+             "The Aviha realm, one of the five pure abodes reserved for non-returners",
+             "The human realm again",
+             "The Brahmā realm generally"],
+         "correct": 1,
+         "expl": "Suddhāvāsa &mdash; realms exclusive to non-returners."},
+        {"q": "How does the guide connect this discourse to AN 4.124?",
+         "opts": [
+             "They describe the same godling",
+             "Both name a rebirth in the pure abodes without necessarily using the technical term for who lives there, closing on the idea of a rebirth not shared with ordinary people",
+             "AN 4.124 contradicts this discourse",
+             "There is no connection"],
+         "correct": 1,
+         "expl": "AN 3.127 names the specific realm; AN 4.124 makes the same point by a different route."},
+        {"q": "What two things does the final verse credit for Hatthaka's outcome?",
+         "opts": [
+             "Wealth and generosity",
+             "Training in the higher ethics, and delight in hearing the true teaching",
+             "Meditation alone",
+             "His royal birth"],
+         "correct": 1,
+         "expl": "The insatiable hunger is paired with ethical training, not presented as sufficient alone."},
+        {"q": "What does the Buddha ask Hatthaka to do before their conversation continues?",
+         "opts": [
+             "Leave and return the next day",
+             "Manifest a solid, coarse embodiment",
+             "Bow three times",
+             "Recite a verse"],
+         "correct": 1,
+         "expl": "Oḷārikaṁ attabhāvaṁ abhinimmināhi &mdash; only then can Hatthaka stand and bow."},
+        {"q": "What is a godling (devaputta) in this discourse's cosmology?",
+         "opts": [
+             "An ancient cosmic figure",
+             "A deity of relatively recent origin, distinct from the ancient gods",
+             "A synonym for Brahmā",
+             "A title for an enlightened human"],
+         "correct": 1,
+         "expl": "Hatthaka is explicitly a former human, recently deceased."},
+        {"q": "What is the overall shape of the discourse?",
+         "opts": [
+             "A debate between two teachers",
+             "A narrative of an unstable arrival, a dialogue about ongoing hunger for the Dhamma, and a verse naming the rebirth that hunger produced",
+             "A list of monastic rules for devas",
+             "A parable with no named characters"],
+         "correct": 1,
+         "expl": "Scene, dialogue, verse &mdash; ending in a precise doctrinal payoff."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">oḷārika</span>solid, coarse",
+            "<span class=\"pali\">atitto appaṭivāno</span>insatiable",
+            "&mdash; a body that must be asked to solidify",
+        ]),
+        ("Three hungers", [
+            "seeing the Buddha",
+            "hearing the teaching",
+            "serving the Saṅgha",
+        ]),
+        ("The rebirth", [
+            "Aviha &middot; one of five pure abodes",
+            "reserved for non-returners",
+            "&mdash; named explicitly in the verse",
+        ]),
+        ("Cross-references", [
+            "AN 4.124 &middot; the same rebirth, a different route to naming it",
+            "AN 4.126 &middot; another disciple reborn in the pure abodes",
+            "AN 3.126 &middot; the discourse just before this one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.127/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.124.html">AN 4.124</a> &mdash; another disciple reborn in the pure abodes, '
+        "the technical term named in the guide rather than the verse.",
+        '<a href="an-4.126.html">AN 4.126</a> &mdash; a third instance of the same destination, for '
+        "readers who want to see the pattern across all three.",
+    ],
+)
+
+
+page(
+    128, "Kaṭuviya", "Bitter",
+    vagga=VAGGA_13,
+    meta_title="AN 3.128 — Bitter | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kaṭuviyasutta — a "
+        "disgruntled monk at Isipatana warned about flies drawn to putrefaction, and the verse "
+        "that names desire as the bitterness, ill will as the rot, and bad thoughts as the "
+        "flies themselves. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Varanasi, in the deer park at Isipatana &mdash; the same setting SN "
+                    "56.11 gives for the Buddha&rsquo;s first sermon"),
+        ("Speakers", "The Buddha, addressing first an unnamed monk and then the mendicants "
+                     "generally"),
+        ("Form", "A prose scene followed by a five-verse teaching that supplies the terms the "
+                 "scene left unexplained"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The image of unguarded senses drawing defiling thoughts the way "
+                              "rot draws flies is preserved in various forms across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a visceral image that rewards "
+                       "unpacking, not skimming past"),
+    ],
+    why=(
+        "Walking for alms, the Buddha notices a monk who is disgruntled, unmindful, and looking "
+        "for pleasure in external things, and says something startling to him directly: don&rsquo;t "
+        "be bitter, festering with putrefaction, or the flies will find you without a doubt. It "
+        "sounds like folk wisdom about wounds. The verses that follow name exactly what the "
+        "bitterness, the putrefaction, and the flies actually are, and none of them is physical."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Desire is the bitterness, ill will is the putrefaction, and bad thoughts are the flies "
+            "that a festering mind draws to itself without fail."]),
+        ("The same ground, used differently", [
+            "Isipatana&rsquo;s deer park is the most consequential setting in the entire canon "
+            "&mdash; it is where the Buddha delivered his first sermon to the group of five and "
+            "Koṇḍañña became the first to awaken, told in full in SN 56.11. AN 3.128 uses the "
+            "identical opening formula, &ldquo;near Varanasi, in the deer park at Isipatana,&rdquo; "
+            "for a scene with none of that weight: an ordinary morning almsround and one "
+            "disgruntled monk. The same ground carries both, and a teacher can use the contrast "
+            "directly &mdash; not every event at a famous place is itself a famous event."]),
+        ("A monk described precisely", [
+            "The description is a checklist rather than an insult: <em>rittassādaṁ</em>, "
+            "empty of inner satisfaction; <em>bāhirassādaṁ</em>, looking for gratification in "
+            "external things; unmindful, without situational awareness, without immersion, straying "
+            "mind, undisciplined faculties. Six specific conditions, not a mood. The Buddha does not "
+            "ask what is wrong before speaking &mdash; the diagnosis is made by observation alone, "
+            "walking past."]),
+        ("Why flies, precisely", [
+            "The image is unpleasant on purpose. <em>Kaṭuviya</em> is festering, gone bad; "
+            "<em>āmagandha</em> is the specific smell of raw meat or a corpse; the flies that "
+            "&ldquo;without a doubt&rdquo; come are not a risk but a certainty, stated with the same "
+            "confidence a warning about physical decay would carry. A reader who flinches at the "
+            "bluntness is reacting exactly as the discourse intends &mdash; the point is to make "
+            "spiritual neglect as viscerally undeniable as a wound left untreated."]),
+        ("What the three things turn out to be", [
+            "Asked directly what the bitterness, the putrefaction, and the flies are, the Buddha "
+            "answers in three matched terms: <em>abhijjhā</em>, desire or covetousness, is the "
+            "bitterness; <em>byāpāda</em>, ill will, is the putrefaction; and bad, unskillful "
+            "thoughts generally are the flies. Two of the three &mdash; covetousness and ill will "
+            "&mdash; are two-thirds of the canon&rsquo;s standard trio of mental unwholesome "
+            "conduct, with the third slot here left open to any bad thought at all rather than "
+            "narrowed to wrong view specifically."]),
+        ("Guarded senses, and what comes to rest at ease", [
+            "The verses trace the mechanism: unguarded eyes and ears, unrestrained faculties, and "
+            "the flies &mdash; lustful thoughts &mdash; will plague you. The final verse turns the "
+            "image over to its opposite: those who have ethics, who love wisdom and peace, sleep at "
+            "ease, having gotten rid of the flies. Nothing exotic is prescribed. Sense restraint "
+            "alone is what keeps the wound from forming in the first place."]),
+    ],
+    terms=[
+        ("kaṭuviya",
+         "&ldquo;bitter, festering&rdquo; &mdash; the discourse&rsquo;s title term, glossed in the "
+         "verse as desire itself."),
+        ("āmagandha",
+         "&ldquo;putrefaction&rdquo; &mdash; literally the smell of raw meat or a corpse; glossed "
+         "as ill will."),
+        ("rittassāda, bāhirassāda",
+         "&ldquo;empty of inner satisfaction, seeking it externally&rdquo; &mdash; two of the six "
+         "conditions the Buddha observes in the disgruntled monk."),
+        ("saṁvega",
+         "&ldquo;a sense of urgency&rdquo; &mdash; what the monk feels on hearing the warning, the "
+         "canon&rsquo;s standard term for the jolt that turns a listener toward practice."),
+        ("abhijjhā, byāpāda",
+         "&ldquo;covetousness, ill will&rdquo; &mdash; two-thirds of the canon&rsquo;s standard "
+         "trio of unwholesome mental conduct, named here as the bitterness and the rot."),
+    ],
+    text_intro=(
+        "The discourse in full: the encounter on the almsround, the Buddha&rsquo;s report to the "
+        "assembly, and the five-verse teaching on bitterness, putrefaction, and flies. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A disgruntled monk"),
+        ("p", "&sect;1", "an3.128:1.1-2.3"),
+        ("h3", "Reported to the assembly"),
+        ("p", "&sect;2", "an3.128:2.4-4.7"),
+        ("h3", "The verses"),
+        ("p", "&sect;3", "an3.128:5.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha say to the disgruntled monk?",
+         "opts": [
+             "That he should return to lay life",
+             "Don&rsquo;t be bitter, festering with putrefaction, or the flies will find you without a doubt",
+             "That he should eat more",
+             "That his robes are dirty"],
+         "correct": 1,
+         "expl": "A visceral warning stated with the certainty of a fact about physical decay."},
+        {"q": "What is significant about the setting?",
+         "opts": [
+             "It is the first time the Buddha visits Varanasi",
+             "It is the same deer park at Isipatana where SN 56.11 records the first sermon, here used for an unremarkable morning encounter",
+             "It is a location never mentioned elsewhere in the canon",
+             "It is where Anuruddha was ordained"],
+         "correct": 1,
+         "expl": "The same ground carries both a famous discourse and an ordinary one."},
+        {"q": "How does the Buddha identify the disgruntled monk's condition?",
+         "opts": [
+             "By asking him directly what is wrong",
+             "By observation alone: unmindful, without situational awareness or immersion, straying mind, undisciplined faculties",
+             "By his poor performance in the monastery",
+             "By what other monks report about him"],
+         "correct": 1,
+         "expl": "A checklist of six specific conditions, made by observation while walking past."},
+        {"q": "What is \"āmagandha\" and what does it mean here?",
+         "opts": [
+             "A type of incense; it means devotion",
+             "The specific smell of raw meat or a corpse; it is glossed as ill will",
+             "A monastic robe; it means humility",
+             "A meditation technique; it means concentration"],
+         "correct": 1,
+         "expl": "The image is unpleasant on purpose &mdash; making neglect viscerally undeniable."},
+        {"q": "What does the verse name as the bitterness, the putrefaction, and the flies?",
+         "opts": [
+             "Hunger, fatigue, and distraction",
+             "Desire, ill will, and bad unskillful thoughts",
+             "Pride, envy, and greed",
+             "Cold, heat, and insects"],
+         "correct": 1,
+         "expl": "Abhijjhā, byāpāda, and pāpakā akusalā vitakkā &mdash; three matched terms."},
+        {"q": "How do these three terms relate to the canon's standard trio of unwholesome mental conduct?",
+         "opts": [
+             "They are unrelated",
+             "Two of the three &mdash; covetousness and ill will &mdash; are two-thirds of that standard trio, with the third slot left open rather than narrowed to wrong view",
+             "All three match exactly",
+             "None of them match"],
+         "correct": 1,
+         "expl": "The third slot here is any bad thought at all, not specifically wrong view."},
+        {"q": "What mechanism do the verses trace?",
+         "opts": [
+             "Poor diet leading to illness",
+             "Unguarded eyes and ears and unrestrained faculties, drawing lustful thoughts the way rot draws flies",
+             "Excessive solitude leading to loneliness",
+             "Loud speech disturbing meditation"],
+         "correct": 1,
+         "expl": "Sense restraint is what keeps the wound from forming in the first place."},
+        {"q": "What does the final verse say about those who have ethics and love wisdom?",
+         "opts": [
+             "They are honored by flies",
+             "They sleep at ease, having gotten rid of the flies",
+             "They must still struggle constantly",
+             "They no longer need to meditate"],
+         "correct": 1,
+         "expl": "The image turned over to its opposite: peace as the absence of what draws the flies."},
+        {"q": "How does the monk react to the Buddha's warning?",
+         "opts": [
+             "He argues back",
+             "He is struck with a sense of urgency, saṁvega",
+             "He leaves the Saṅgha",
+             "He asks for a different teacher"],
+         "correct": 1,
+         "expl": "The canon&rsquo;s standard term for the jolt that turns a listener toward practice."},
+        {"q": "What is the overall structure of the discourse?",
+         "opts": [
+             "A dialogue between two monks",
+             "A prose scene, followed by verses that supply the terms the scene left unexplained",
+             "A list of monastic rules",
+             "A debate with a rival teacher"],
+         "correct": 1,
+         "expl": "The prose gives the image; the verses give its meaning."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">kaṭuviya</span>bitter, festering",
+            "<span class=\"pali\">āmagandha</span>corpse-smell",
+            "&mdash; a wound, used as a metaphor for the mind",
+        ]),
+        ("Three terms", [
+            "bitterness &middot; abhijjhā, desire",
+            "putrefaction &middot; byāpāda, ill will",
+            "flies &middot; bad unskillful thoughts",
+        ]),
+        ("Same ground", [
+            "here &middot; an ordinary morning",
+            "SN 56.11 &middot; the first sermon",
+            "&mdash; one deer park, two very different mornings",
+        ]),
+        ("Cross-references", [
+            "SN 56.11 &middot; the Buddha&rsquo;s first sermon, same setting",
+            "AN 1.188&ndash;197 &middot; Koṇḍañña, foremost in long standing",
+            "AN 3.123 &middot; another discourse turning on unguarded thoughts",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.128/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-56.11.html">SN 56.11 &middot; Rolling Forth the Wheel of '
+        "Dhamma</a> &mdash; the discourse that makes this same deer park famous, delivered to the "
+        "group of five.",
+        '<a href="an-1.188-197.html">AN 1.188&ndash;197 &middot; Foremost Disciples</a> &mdash; '
+        "Koṇḍañña, who understood the first sermon at Isipatana, named foremost in long standing.",
+    ],
+)
+
+
+page(
+    129, "Paṭhamaanuruddha", "With Anuruddha (1st)",
+    vagga=VAGGA_13,
+    meta_title="AN 3.129 — With Anuruddha (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaanuruddhasutta — Anuruddha reports what his clairvoyance shows him about "
+        "women reborn in hell, and the three qualities the Buddha names in reply, read "
+        "honestly alongside the same collection's chapter on foremost laywomen. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", "Venerable Anuruddha and the Buddha"),
+        ("Form", "A question drawn from a reported clairvoyant observation, and a three-part "
+                 "answer keyed to the times of day"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Material on stinginess, jealousy, and desire as causes of unhappy "
+                              "rebirth is preserved broadly in the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, but the discourse&rsquo;s "
+                       "gendered framing deserves to be named directly rather than passed over"),
+    ],
+    why=(
+        "Anuruddha reports what his clairvoyance shows him: women are mostly reborn in hell, and he "
+        "wants to know why. The Buddha answers with three qualities, one assigned to each watch of "
+        "the day. This is a discourse best read alongside the rest of the collection rather than in "
+        "isolation, since the same nipāta that contains it also names specific women foremost in "
+        "wisdom, confidence, and generosity."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Anuruddha reports a pattern he sees with his clairvoyance, and the Buddha names three "
+            "qualities &mdash; stinginess, jealousy, and sexual desire, one per watch of the day "
+            "&mdash; as its explanation."]),
+        ("Who is asking", [
+            "Anuruddha is named foremost among the Buddha&rsquo;s disciples in clairvoyance, "
+            "<em>dibbacakkhu</em>, in the foremost-disciple chapter already on this site. The "
+            "observation he reports is therefore presented as coming from someone the tradition "
+            "regards as its most reliable authority on exactly this kind of seeing &mdash; which "
+            "raises the stakes of the answer rather than lowering them."]),
+        ("Naming the asymmetry directly", [
+            "This discourse addresses only <em>mātugāma</em>, women, as a category, in a way the "
+            "collection does not mirror with an equivalent discourse naming three vices unique to "
+            "men. That asymmetry is real and this guide is not going to soften it. Ancient South "
+            "Asian society organized gender roles very differently from a modern reader&rsquo;s "
+            "own, and a discourse addressed specifically to women reflects that social world rather "
+            "than stating a claim that stands outside it."]),
+        ("A day divided into three", [
+            "Stinginess in the morning, jealousy at midday, sexual desire in the evening &mdash; the "
+            "structure borrows the shape of a day to organize three qualities that have no actual "
+            "necessary connection to particular hours. Reading it as a literal clock is a mistake; "
+            "reading it as a mnemonic device, three named faults given a memorable order, fits the "
+            "text&rsquo;s own plainness better."]),
+        ("What the discourse is, and is not, doing", [
+            "It reports an observation and explains it. It does not argue that women are constitutionally "
+            "worse than men, and it does not claim these three qualities are exclusive to women "
+            "&mdash; stinginess, jealousy, and desire appear elsewhere in the canon as universal "
+            "obstacles named without any gender at all. What makes this particular discourse worth "
+            "sitting with is that here, uniquely, they are gendered, and a class discussing it should "
+            "be told that plainly rather than have the discourse quietly skipped."]),
+        ("The wider picture, in the same collection", [
+            "AN 1.258&ndash;267, already on this site, names specific laywomen foremost in wisdom, "
+            "in verified confidence, in learning, and in generosity &mdash; Khujjuttarā foremost "
+            "among those learned in the teaching, Visākhā foremost in generosity, and others. A "
+            "single short discourse should not be mistaken for the canon&rsquo;s final word on "
+            "women when the same nipāta, elsewhere, records exactly the opposite kind of "
+            "attention."]),
+    ],
+    terms=[
+        ("dibba cakkhu",
+         "&ldquo;the divine eye, clairvoyance&rdquo; &mdash; Anuruddha&rsquo;s named specialty "
+         "among the Buddha&rsquo;s disciples, the faculty behind his report here."),
+        ("apāya, duggati, vinipāta, niraya",
+         "&ldquo;place of loss, bad place, the underworld, hell&rdquo; &mdash; four terms stacked "
+         "together for the same destination, intensifying rather than distinguishing."),
+        ("macchera",
+         "&ldquo;stinginess&rdquo; &mdash; the first of the three qualities, assigned to the "
+         "morning."),
+        ("issā",
+         "&ldquo;jealousy, envy&rdquo; &mdash; the second, assigned to midday."),
+        ("kāmarāga",
+         "&ldquo;sexual desire&rdquo; &mdash; the third, assigned to the evening."),
+    ],
+    text_intro=(
+        "The discourse in full: Anuruddha&rsquo;s question and the Buddha&rsquo;s three-part "
+        "answer. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Anuruddha's question"),
+        ("p", "&sect;1", "an3.129:1.1-1.3"),
+        ("h3", "The Buddha's answer"),
+        ("p", "&sect;2", "an3.129:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does Anuruddha report seeing with his clairvoyance?",
+         "opts": [
+             "That most people are reborn in heaven",
+             "That women are mostly reborn in a place of loss, a bad place, the underworld, hell",
+             "That monks are reborn as gods",
+             "That rebirth is random"],
+         "correct": 1,
+         "expl": "The observation that prompts his question to the Buddha."},
+        {"q": "What is Anuruddha's reputation among the Buddha's disciples?",
+         "opts": [
+             "Foremost in generosity",
+             "Foremost in clairvoyance, the divine eye",
+             "Foremost in debate",
+             "Foremost in memorizing texts"],
+         "correct": 1,
+         "expl": "Named in the foremost-disciple chapter, AN 1.188&ndash;197."},
+        {"q": "What does the guide say about this discourse's gendered framing?",
+         "opts": [
+             "That it should be read as a timeless, universal truth",
+             "That it is a real asymmetry, reflecting the social world of ancient South Asia, and should be named directly rather than softened",
+             "That the gendering is a later scribal error",
+             "That it does not deserve comment"],
+         "correct": 1,
+         "expl": "The guide names the asymmetry plainly rather than passing over it."},
+        {"q": "What three qualities does the Buddha name?",
+         "opts": [
+             "Anger, pride, and doubt",
+             "Stinginess, jealousy, and sexual desire",
+             "Laziness, gossip, and greed",
+             "Fear, grief, and confusion"],
+         "correct": 1,
+         "expl": "Assigned respectively to morning, midday, and evening."},
+        {"q": "How does the guide suggest reading the assignment of each quality to a time of day?",
+         "opts": [
+             "As a literal clock that must be followed exactly",
+             "As a mnemonic device giving three faults a memorable order, not a claim about actual hours",
+             "As an astrological calculation",
+             "As evidence of a scribal insertion"],
+         "correct": 1,
+         "expl": "The structure borrows the shape of a day without the qualities having any necessary connection to particular hours."},
+        {"q": "Are stinginess, jealousy, and desire presented elsewhere in the canon as exclusive to women?",
+         "opts": [
+             "Yes, always",
+             "No &mdash; they appear elsewhere as universal obstacles named without any gender at all",
+             "The canon never mentions them elsewhere",
+             "Only in reference to laywomen specifically"],
+         "correct": 1,
+         "expl": "What makes this discourse notable is that here, uniquely, they are gendered."},
+        {"q": "What does the guide point to as a counterbalance within the same collection?",
+         "opts": [
+             "A later correction of this discourse",
+             "AN 1.258&ndash;267, which names specific laywomen foremost in wisdom, confidence, learning, and generosity",
+             "A commentary that reinterprets the passage",
+             "There is no counterbalance in the collection"],
+         "correct": 1,
+         "expl": "A single short discourse should not be read as the canon&rsquo;s final word on women."},
+        {"q": "What does the discourse NOT claim, according to the guide?",
+         "opts": [
+             "That women exist",
+             "That women are constitutionally worse than men, or that these three qualities are exclusive to women",
+             "That rebirth exists",
+             "That the Buddha has clairvoyance"],
+         "correct": 1,
+         "expl": "The guide is careful to distinguish what the text says from what it does not say."},
+        {"q": "What form does the discourse take?",
+         "opts": [
+             "A long narrative with multiple scenes",
+             "A short question-and-answer exchange between Anuruddha and the Buddha",
+             "A set of verses only",
+             "A debate with a third party"],
+         "correct": 1,
+         "expl": "One question, one three-part answer."},
+        {"q": "How many separate terms does the discourse stack together for the destination itself?",
+         "opts": [
+             "One",
+             "Four &mdash; place of loss, bad place, the underworld, hell &mdash; intensifying rather than distinguishing",
+             "Two",
+             "Seven"],
+         "correct": 1,
+         "expl": "Apāya, duggati, vinipāta, niraya, piled up for emphasis."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">dibba cakkhu</span>the divine eye",
+            "<span class=\"pali\">macchera</span>stinginess",
+            "&mdash; Anuruddha&rsquo;s own specialty, turned on this question",
+        ]),
+        ("Three qualities", [
+            "morning &middot; stinginess",
+            "midday &middot; jealousy",
+            "evening &middot; sexual desire",
+        ]),
+        ("Read together", [
+            "here &middot; a single hard passage",
+            "AN 1.258&ndash;267 &middot; foremost laywomen",
+            "&mdash; neither is the whole picture alone",
+        ]),
+        ("Cross-references", [
+            "AN 1.188&ndash;197 &middot; Anuruddha named foremost in clairvoyance",
+            "AN 1.258&ndash;267 &middot; foremost laywomen",
+            "AN 3.130 &middot; Anuruddha again, corrected by Sāriputta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.129/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-1.258-267.html">AN 1.258&ndash;267 &middot; Foremost Laywomen</a> &mdash; the '
+        "same collection&rsquo;s roll call of women named foremost in wisdom, confidence, learning, "
+        "and generosity.",
+        '<a href="an-1.188-197.html">AN 1.188&ndash;197 &middot; Foremost Disciples</a> &mdash; '
+        "Anuruddha&rsquo;s own standing as foremost in clairvoyance, the faculty behind this "
+        "discourse&rsquo;s question.",
+        '<a href="an-3.130.html">AN 3.130 &middot; With Anuruddha (2nd)</a> &mdash; the same '
+        "disciple, this time turning his clairvoyance on himself and being corrected by Sāriputta.",
+    ],
+)
+
+
+page(
+    130, "Dutiyaanuruddha", "With Anuruddha (2nd)",
+    vagga=VAGGA_13,
+    meta_title="AN 3.130 — With Anuruddha (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaanuruddhasutta — Anuruddha reports genuine meditative accomplishment and an "
+        "unliberated mind, and Sāriputta diagnoses conceit, restlessness, and remorse hidden "
+        "inside the very act of reporting it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", "Venerable Anuruddha and Venerable Sāriputta"),
+        ("Form", "A report of attainment, a threefold diagnosis, and a narrated resolution ending "
+                 "in arahantship"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The subtle defilements that can accompany advanced meditative states "
+                              "are discussed throughout the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the fault Sāriputta diagnoses "
+                       "is genuinely subtle and easy to miss on a first read"),
+    ],
+    why=(
+        "Anuruddha tells Sāriputta something remarkable and entirely true: his clairvoyance surveys "
+        "the thousandfold galaxy, his energy is roused, his mindfulness lucid, his body tranquil, "
+        "his mind unified &mdash; and yet his mind is not freed from the defilements. Sāriputta's "
+        "reply does not dispute any of it. It finds conceit, restlessness, and remorse hidden inside "
+        "the very act of saying so."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Real accomplishments, reported in a particular way, can themselves become the conceit, "
+            "restlessness, and remorse blocking the accomplishment the reporter actually wants."]),
+        ("A remarkable report, taken at face value", [
+            "Nothing Anuruddha says is false. He genuinely surveys the thousandfold galaxy with "
+            "purified clairvoyance; his energy, mindfulness, physical calm, and mental unification "
+            "are genuinely established. This matters for what follows: Sāriputta is not correcting a "
+            "delusion or catching a lie. He is diagnosing a problem that exists even when every "
+            "individual claim is accurate."]),
+        ("Three faults hiding in three true statements", [
+            "The clairvoyance claim, Sāriputta says, is Anuruddha&rsquo;s conceit, <em>māna</em>. "
+            "The recitation of his own roused energy, lucid mindfulness, tranquil body, and unified "
+            "mind is his restlessness, <em>uddhacca</em>. And the admission that his mind is still "
+            "not freed is his remorse, <em>kukkucca</em>. None of the three faults is in the fact "
+            "reported. Each is in what saying it, in this sequence, to this listener, is doing for "
+            "Anuruddha &mdash; asserting standing, performing composure, and worrying aloud, all at "
+            "once."]),
+        ("Why this is harder to see than an ordinary fault", [
+            "A lie is easy to name. Boasting about something false is easy to name. This is neither. "
+            "Anuruddha&rsquo;s attainments are real, and reporting them accurately still constitutes "
+            "conceit and restlessness, because the function the report is serving &mdash; "
+            "establishing his own credentials before naming his actual problem &mdash; is where the "
+            "fault lives, not in any single sentence taken alone. A teacher can use this discourse to "
+            "make a hard point: accurate self-report is not automatically free of self-view."]),
+        ("Give them up, and apply the mind to the deathless", [
+            "Sāriputta&rsquo;s instruction is not analysis for its own sake. Having named the three "
+            "things, he tells Anuruddha to give them up, stop attending to them, and apply the mind "
+            "instead to <em>amatāya dhātuyā</em>, the deathless element &mdash; nibbāna named by one "
+            "of its standard epithets. The redirection is total: not manage the conceit, not soften "
+            "the restlessness, but stop dwelling in that whole register of self-assessment and point "
+            "the mind somewhere else entirely."]),
+        ("The same disciple, the same image, a different scale", [
+            "Anuruddha is the monk whose community life with Nandiya and Kimbila is described in MN "
+            "31 using the identical phrase this collection uses for a harmonious monastery in AN "
+            "3.124: blending like milk and water. Read together, the two discourses show the same "
+            "disciple at two different moments &mdash; steadied by companionship in one, and here, "
+            "alone with his own accomplishments, needing a friend&rsquo;s correction to see what "
+            "his own solitary report was doing. Not long after, he applies the redirection and "
+            "becomes one of the perfected."]),
+    ],
+    terms=[
+        ("māna",
+         "&ldquo;conceit&rdquo; &mdash; what Sāriputta names in Anuruddha&rsquo;s clairvoyance "
+         "claim, though the claim itself is accurate."),
+        ("uddhacca",
+         "&ldquo;restlessness&rdquo; &mdash; named in Anuruddha&rsquo;s recitation of his own roused "
+         "energy, lucid mindfulness, and unified mind."),
+        ("kukkucca",
+         "&ldquo;remorse, worry&rdquo; &mdash; named in Anuruddha&rsquo;s admission that his mind "
+         "is not yet freed."),
+        ("amatā dhātu",
+         "&ldquo;the deathless element&rdquo; &mdash; one of the canon&rsquo;s standard epithets for "
+         "nibbāna, and where Sāriputta redirects Anuruddha&rsquo;s attention."),
+        ("sahassaṁ lokaṁ",
+         "&ldquo;the thousandfold world&rdquo; &mdash; the scale of Anuruddha&rsquo;s clairvoyant "
+         "survey, echoing the thousandfold galaxy that shakes in AN 3.125."),
+    ],
+    text_intro=(
+        "The discourse in full: Anuruddha&rsquo;s report, Sāriputta&rsquo;s threefold diagnosis, "
+        "and the resolution. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Anuruddha's report"),
+        ("p", "&sect;1", "an3.130:1.1-1.5"),
+        ("h3", "Sāriputta's diagnosis"),
+        ("p", "&sect;2", "an3.130:2.1-2.7"),
+        ("h3", "The resolution"),
+        ("p", "&sect;3", "an3.130:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does Anuruddha report to Sāriputta?",
+         "opts": [
+             "That he has doubts about the teaching",
+             "That his clairvoyance surveys the thousandfold galaxy, his meditative qualities are established, but his mind is not yet freed",
+             "That he wishes to disrobe",
+             "That he has attained arahantship"],
+         "correct": 1,
+         "expl": "A remarkable and entirely accurate report, not a confession of failure."},
+        {"q": "What is significant about the truthfulness of Anuruddha's claims?",
+         "opts": [
+             "They are exaggerated",
+             "Sāriputta is not correcting a delusion or catching a lie; every individual claim is accurate",
+             "They turn out to be false",
+             "Sāriputta cannot verify them"],
+         "correct": 1,
+         "expl": "The fault Sāriputta diagnoses exists even though nothing said is untrue."},
+        {"q": "What does Sāriputta name as Anuruddha's conceit?",
+         "opts": [
+             "His meditation posture",
+             "The clairvoyance claim itself",
+             "His choice of robes",
+             "His silence"],
+         "correct": 1,
+         "expl": "Māna &mdash; even though the clairvoyant survey itself is real."},
+        {"q": "What does Sāriputta name as Anuruddha's restlessness?",
+         "opts": [
+             "His travel between monasteries",
+             "The recitation of his own roused energy, lucid mindfulness, tranquil body, and unified mind",
+             "His questions to the Buddha",
+             "His refusal to eat"],
+         "correct": 1,
+         "expl": "Uddhacca &mdash; found in the act of reciting genuine qualities, not in the qualities themselves."},
+        {"q": "What does Sāriputta name as Anuruddha's remorse?",
+         "opts": [
+             "His admission that his mind is not yet freed from the defilements",
+             "His grief over a past mistake",
+             "His doubt about Sāriputta&rsquo;s authority",
+             "His fear of death"],
+         "correct": 0,
+         "expl": "Kukkucca &mdash; worry surfacing even in an accurate report of an unresolved problem."},
+        {"q": "What does the guide say makes this fault harder to see than an ordinary one?",
+         "opts": [
+             "It is hidden in false statements",
+             "It exists in what an accurate report is doing for the speaker &mdash; establishing standing, performing composure &mdash; not in any single sentence taken alone",
+             "It requires special psychic powers to detect",
+             "It only applies to monks, not laypeople"],
+         "correct": 1,
+         "expl": "Accurate self-report is not automatically free of self-view."},
+        {"q": "What does Sāriputta instruct Anuruddha to do?",
+         "opts": [
+             "Analyze the three faults further",
+             "Give up the three things, stop attending to them, and apply the mind to the deathless element",
+             "Report to the Buddha directly",
+             "Undertake a longer retreat"],
+         "correct": 1,
+         "expl": "A total redirection away from that whole register of self-assessment."},
+        {"q": "What happens to Anuruddha after following this instruction?",
+         "opts": [
+             "He returns to lay life",
+             "He soon realizes the goal and becomes one of the perfected",
+             "He remains unliberated permanently",
+             "He seeks out a different teacher"],
+         "correct": 1,
+         "expl": "Living alone, diligent, and resolute, he achieves arahantship."},
+        {"q": "How does the guide connect this discourse to MN 31?",
+         "opts": [
+             "They contradict each other",
+             "MN 31 describes Anuruddha's own harmonious community with Nandiya and Kimbila using the same \"milk and water\" image AN 3.124 uses",
+             "MN 31 takes place at the same location",
+             "There is no connection"],
+         "correct": 1,
+         "expl": "The same disciple, shown steadied by companionship in one and needing correction alone in the other."},
+        {"q": "What does \"amatā dhātu\" mean, and what is its significance here?",
+         "opts": [
+             "\"The deathless element,\" an epithet for nibbāna, and where Sāriputta redirects Anuruddha&rsquo;s attention",
+             "\"The middle way,\" a description of moderate practice",
+             "\"The thousandfold galaxy,\" referring to Anuruddha&rsquo;s clairvoyance",
+             "\"The deer park,\" a reference to Isipatana"],
+         "correct": 0,
+         "expl": "Not management of the three faults, but a total redirection of attention."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">māna</span>conceit",
+            "<span class=\"pali\">uddhacca</span>restlessness",
+            "<span class=\"pali\">kukkucca</span>remorse",
+        ]),
+        ("Three true statements", [
+            "clairvoyance &middot; conceit",
+            "meditative balance &middot; restlessness",
+            "unresolved struggle &middot; remorse",
+        ]),
+        ("The redirection", [
+            "not managed",
+            "not softened",
+            "&mdash; applied instead to the deathless",
+        ]),
+        ("Cross-references", [
+            "MN 31 &middot; Anuruddha&rsquo;s own harmonious community",
+            "AN 3.124 &middot; the same milk-and-water image",
+            "AN 3.129 &middot; Anuruddha&rsquo;s clairvoyance turned outward",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.130/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../majjhima-nikaya/mn-031.html">MN 31 &middot; The Shorter Discourse at '
+        "Gosiṅga</a> &mdash; Anuruddha, Nandiya, and Kimbila&rsquo;s own community, blending like "
+        "milk and water.",
+        '<a href="an-3.124.html">AN 3.124 &middot; Arguments</a> &mdash; the same image used for a '
+        "harmonious monastery in general.",
+        '<a href="an-3.129.html">AN 3.129 &middot; With Anuruddha (1st)</a> &mdash; the same '
+        "disciple&rsquo;s clairvoyance turned toward a question about others.",
+    ],
+)
+
+
+page(
+    131, "Paṭicchanna", "Under Cover",
+    vagga=VAGGA_13,
+    meta_title="AN 3.131 — Under Cover | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭicchannasutta — "
+        "three things conveyed under cover against three things that shine in the open, and "
+        "what it means that the Buddha's own teaching is grouped with the sun and the moon. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched triads: what is conveyed hidden, and what shines in the open"),
+        ("Length", "&#8776;1 minute to read"),
+        ("Northern parallel", "The claim that a true teaching is proclaimed openly rather than kept "
+                              "secret recurs across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a short discourse whose first "
+                       "item deserves comment rather than a quick pass"),
+    ],
+    why=(
+        "Three things are conveyed under cover: women are given in marriage veiled, brahmin hymns "
+        "are kept secret, wrong view spreads quietly. Three things shine in the open: the moon, the "
+        "sun, and the teaching a Realized One proclaims. The discourse&rsquo;s point is about the "
+        "second triad, but the first deserves to be read carefully rather than passed over."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A true teaching does not need concealment to survive scrutiny, and the discourse proves "
+            "the point by placing it next to the sun and the moon rather than behind a veil."]),
+        ("The first triad, read honestly", [
+            "The three things kept under cover are a marriage custom, a class of religious "
+            "knowledge, and an error. Grouping a bride&rsquo;s veil together with wrong view is an "
+            "uncomfortable move for a modern reader, and the discomfort is reasonable. The discourse "
+            "is not claiming that women are like wrong view; it is using &ldquo;kept from public "
+            "view&rdquo; as a purely formal link between three things that are otherwise unrelated. "
+            "Ancient Indian marriage practice conducted a bride&rsquo;s presentation privately rather "
+            "than publicly, and the discourse simply names that custom as a known example of "
+            "something kept under cover, alongside two others."]),
+        ("A closed transmission", [
+            "<em>Mantā</em>, brahmin hymns, were traditionally passed down within a guarded lineage, "
+            "teacher to qualified student, not published for anyone to examine. The discourse names "
+            "this as a real feature of the religious landscape the Buddha was teaching into, not as "
+            "a criticism in itself &mdash; the criticism, if there is one, comes from the contrast "
+            "with the third triad below."]),
+        ("Wrong view, the one item that is actually a fault", [
+            "Of the three hidden things, only <em>micchādiṭṭhi</em>, wrong view, is presented as bad. "
+            "It is worth noticing that the discourse does not explain why wrong view specifically "
+            "travels under cover rather than in the open &mdash; only that it does, joining the other "
+            "two as things that are not publicly displayed, for whatever reason each has its own."]),
+        ("Sun, moon, teaching", [
+            "The second triad drops the mixed company entirely: the moon shines openly, the sun "
+            "shines openly, and the teaching and training proclaimed by a Realized One shines "
+            "openly. Putting the Dhamma next to the two most visible objects in the sky is a "
+            "specific claim, not a poetic flourish &mdash; it says that a true teaching does not "
+            "need the kind of protection a guarded lineage or a private custom requires."]),
+        ("The same standard as AN 3.125", [
+            "This is the same claim AN 3.125 makes from a different angle, that the Buddha teaches "
+            "with a demonstrable basis, not without one. A demonstrable teaching and an openly "
+            "shining teaching are the same idea stated twice: nothing in the Dhamma depends on being "
+            "kept from scrutiny to hold up under it."]),
+    ],
+    terms=[
+        ("paṭicchanna / vivaṭa",
+         "&ldquo;hidden / open&rdquo; &mdash; the organizing contrast between the discourse&rsquo;s "
+         "two triads."),
+        ("mantā (brāhmaṇānaṁ)",
+         "&ldquo;brahmin hymns&rdquo; &mdash; traditionally transmitted within a closed lineage, "
+         "named here as an example of guarded knowledge."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the one member of the first triad presented as a fault "
+         "rather than merely a custom."),
+        ("candamaṇḍala, sūriyamaṇḍala",
+         "&ldquo;the moon disc, the sun disc&rdquo; &mdash; the two most visible objects in the sky, "
+         "chosen as company for the Buddha&rsquo;s teaching."),
+        ("tathāgatappavedito dhammavinayo",
+         "&ldquo;the teaching and training proclaimed by a Realized One&rdquo; &mdash; the "
+         "discourse&rsquo;s actual point, matched against sun and moon."),
+    ],
+    text_intro=(
+        "The discourse in full: what is conveyed under cover, and what shines in the open. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things kept under cover"),
+        ("p", "&sect;1", "an3.131:1.1-1.6"),
+        ("h3", "Three things that shine in the open"),
+        ("p", "&sect;2", "an3.131:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What three things does the discourse say are conveyed under cover?",
+         "opts": [
+             "Gold, silver, and jewels",
+             "Women given in marriage, brahmin hymns, and wrong view",
+             "Monastic rules, meditation instructions, and vows",
+             "Secrets, lies, and rumors"],
+         "correct": 1,
+         "expl": "The first triad, linked only by the formal feature of not being publicly displayed."},
+        {"q": "How does the guide address the discomfort of grouping a marriage custom with wrong view?",
+         "opts": [
+             "By arguing the grouping is justified",
+             "By naming the discomfort as reasonable, and explaining that \"kept from public view\" is a purely formal link between otherwise unrelated things",
+             "By ignoring the item entirely",
+             "By claiming the passage is a later insertion"],
+         "correct": 1,
+         "expl": "The discourse does not claim women are like wrong view; it uses concealment as a formal category only."},
+        {"q": "What does the discourse say about brahmin hymns?",
+         "opts": [
+             "That they are false",
+             "That they were traditionally passed down within a guarded lineage, not published openly",
+             "That the Buddha composed them",
+             "That they are identical to the Buddha's teaching"],
+         "correct": 1,
+         "expl": "Named as a real feature of the religious landscape, not itself criticized."},
+        {"q": "Which of the first triad's three items does the guide say is actually presented as a fault?",
+         "opts": [
+             "The marriage custom",
+             "Wrong view alone",
+             "The brahmin hymns",
+             "All three equally"],
+         "correct": 1,
+         "expl": "Micchādiṭṭhi is the one item treated as bad; the discourse doesn&rsquo;t explain why it too travels under cover."},
+        {"q": "What three things does the discourse say shine in the open?",
+         "opts": [
+             "Fire, water, and earth",
+             "The moon, the sun, and the teaching proclaimed by a Realized One",
+             "Wisdom, ethics, and concentration",
+             "The Buddha, the Dhamma, and the Saṅgha"],
+         "correct": 1,
+         "expl": "The second triad, matching the Dhamma against the two most visible objects in the sky."},
+        {"q": "What kind of claim does the guide say this second triad makes?",
+         "opts": [
+             "A purely poetic flourish with no content",
+             "A specific claim that a true teaching does not need the protection a guarded lineage or private custom requires",
+             "A claim about astronomy",
+             "A claim that the moon and sun are deities"],
+         "correct": 1,
+         "expl": "Openness itself is presented as evidence of the teaching&rsquo;s soundness."},
+        {"q": "How does the guide connect this discourse to AN 3.125?",
+         "opts": [
+             "They share the same narrative setting",
+             "Both make the same claim from different angles &mdash; a demonstrable teaching and an openly shining teaching are the same idea stated twice",
+             "AN 3.125 contradicts this discourse",
+             "There is no connection"],
+         "correct": 1,
+         "expl": "Nothing in the Dhamma depends on being kept from scrutiny to hold up under it."},
+        {"q": "What is the discourse's overall structure?",
+         "opts": [
+             "A narrative with named characters",
+             "Two matched triads, hidden things against open things",
+             "A single extended simile",
+             "A dialogue with a questioner"],
+         "correct": 1,
+         "expl": "No narrative frame at all, just the two lists side by side."},
+        {"q": "What historical practice does the guide say the marriage item reflects?",
+         "opts": [
+             "A universal timeless truth about women",
+             "Ancient Indian marriage practice, which conducted a bride's presentation privately rather than publicly",
+             "A monastic ordination rite",
+             "A funeral custom"],
+         "correct": 1,
+         "expl": "Named as a known social custom of the time, not a claim reaching beyond it."},
+        {"q": "What does the pairing of sun, moon, and Dhamma ultimately assert?",
+         "opts": [
+             "That the Dhamma is more important than the sun and moon",
+             "That the Dhamma, like the sun and moon, does not depend on concealment to be what it is",
+             "That the sun and moon are forms of the Dhamma",
+             "That the Buddha created the sun and moon"],
+         "correct": 1,
+         "expl": "Visibility itself is the shared property being claimed."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">paṭicchanna</span>hidden",
+            "<span class=\"pali\">vivaṭa</span>open",
+            "&mdash; the discourse&rsquo;s one organizing contrast",
+        ]),
+        ("Under cover", [
+            "a bride&rsquo;s veil",
+            "brahmin hymns",
+            "wrong view",
+        ]),
+        ("In the open", [
+            "the moon",
+            "the sun",
+            "the Buddha&rsquo;s teaching",
+        ]),
+        ("Cross-references", [
+            "AN 3.125 &middot; teaching with a demonstrable basis",
+            "AN 3.65 &middot; testing a teaching from outside",
+            "AN 3.132 &middot; the discourse just after this one",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.131/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.125.html">AN 3.125 &middot; The Gotamaka Shrine</a> &mdash; the same claim, '
+        "that the teaching rests on a demonstrable basis rather than concealment.",
+        '<a href="an-3.65.html">AN 3.65 &middot; With the Kālāmas of Kesamutta</a> &mdash; the '
+        "listener&rsquo;s side of the same openness, testing a teaching rather than accepting it on "
+        "report.",
+    ],
+)
+
+
+page(
+    132, "Lekha", "Etchings",
+    vagga=VAGGA_13,
+    meta_title="AN 3.132 — Etchings | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Lekhasutta, closing "
+        "the Kusināravagga — three people compared to a line etched in stone, in earth, and "
+        "in water, sorted not by whether anger arises but by how long it lingers. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "Three matched similes, each naming a type of person and the natural image that "
+                 "explains it"),
+        ("Length", "&#8776;1 minute to read"),
+        ("Northern parallel", "The three-part simile of anger etched in stone, earth, and water is "
+                              "preserved in the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; immediately clear, and a natural "
+                       "self-diagnostic"),
+    ],
+    why=(
+        "Three people, three etchings: a line drawn in stone, which lasts; a line drawn in earth, "
+        "which wears away quickly; a line drawn in water, which is gone before it is finished. All "
+        "three get angry. What distinguishes them is not whether anger arises but how long it stays "
+        "&mdash; closing the Kusināravagga on an image simple enough to use the same day it is "
+        "read."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Three types of person are told apart not by whether they get angry, which all three "
+            "do, but by how long the anger lasts once it has arisen."]),
+        ("Three etchings, three durations", [
+            "A line in stone resists wind and water and lasts a long time. A line in earth is worn "
+            "away quickly. A line in water vanishes as it is drawn, gone before it can be seen. "
+            "Applied to anger: the first person&rsquo;s resentment lingers for a long time; the "
+            "second&rsquo;s does not; the third, remarkably, is described differently again."]),
+        ("A quiet shift in the third case", [
+            "The first two types are defined identically &mdash; both are &ldquo;often angry,&rdquo; "
+            "<em>abhiṇhaṁ kujjhati</em>, differing only in how long the anger lasts once it has "
+            "arisen. The third type is not described as someone whose anger vanishes quickly. It is "
+            "described by conduct under provocation: spoken to roughly, harshly, and disagreeably, "
+            "this person still stays in touch, interacts, and greets warmly. The discourse never "
+            "actually says the third type feels no anger at all &mdash; only that whatever arises "
+            "does not interrupt the relationship."]),
+        ("Why the discourse doesn't promise anger-free", [
+            "It would have been easy to describe the best of the three as someone in whom anger "
+            "simply does not arise. The discourse doesn't say that, for any of the three. Reading it "
+            "carefully is a corrective for a reader who expects spiritual progress to mean the "
+            "absence of a feeling: what is actually offered here is a scale of how much power the "
+            "feeling, once present, is allowed to have over duration and over relationship."]),
+        ("A self-diagnostic, not a permanent label", [
+            "The discourse names three <em>puggalā</em>, individuals, as though sorting people into "
+            "fixed types. It reads better as a mirror than a filing system: worth asking, of a "
+            "specific recent flash of anger, which etching it resembled, rather than deciding once "
+            "which of the three a person permanently is."]),
+        ("Closing the chapter on anger", [
+            "Dhammapada 17, the chapter on anger, gathers a full set of verses on the same theme "
+            "elsewhere in this collection's sibling texts &mdash; a natural next stop for a class "
+            "that wants more material on the same fault before moving into the fourteenth chapter, "
+            "which turns to an entirely different subject."]),
+    ],
+    terms=[
+        ("lekhā",
+         "&ldquo;a line, an etching, a mark&rdquo; &mdash; the image organizing all three "
+         "comparisons."),
+        ("kodha",
+         "&ldquo;anger&rdquo; &mdash; present in all three types; what differs is its staying "
+         "power."),
+        ("anuseti",
+         "&ldquo;lingers, lies dormant&rdquo; &mdash; the verb for anger that persists, sharing its "
+         "root with <em>anusaya</em>, the underlying tendencies."),
+        ("āgāḷhena, pharusena, amanāpena vuccamāna",
+         "&ldquo;spoken to in a severe, harsh, and disagreeable way&rdquo; &mdash; the provocation "
+         "the third type withstands without breaking contact."),
+        ("sandhiyati, saṁsandati, sammodati",
+         "&ldquo;stays in touch, interacts, greets warmly&rdquo; &mdash; the third type&rsquo;s "
+         "actual, observable response."),
+    ],
+    text_intro=(
+        "The discourse in full: the three etchings and the three people they describe, closing the "
+        "Kusināravagga. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A line drawn in stone"),
+        ("p", "&sect;1", "an3.132:1.1-1.10"),
+        ("h3", "A line drawn in earth"),
+        ("p", "&sect;2", "an3.132:2.1-2.7"),
+        ("h3", "A line drawn in water"),
+        ("p", "&sect;3", "an3.132:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What three images does the discourse use?",
+         "opts": [
+             "A line drawn in stone, in earth, and in water",
+             "A fire, a flood, and a storm",
+             "A tree, a river, and a mountain",
+             "A knot, a chain, and a rope"],
+         "correct": 0,
+         "expl": "Each image explains one of three types of person by how long it lasts."},
+        {"q": "What actually distinguishes the three types of person?",
+         "opts": [
+             "Whether they ever get angry",
+             "How long their anger lasts once it has arisen",
+             "How often they get angry",
+             "Who they get angry at"],
+         "correct": 1,
+         "expl": "All three types get angry; duration is the variable."},
+        {"q": "How are the first two types defined?",
+         "opts": [
+             "By their occupation",
+             "Identically, both \"often angry,\" differing only in how long the anger lingers",
+             "By their age",
+             "By where they live"],
+         "correct": 1,
+         "expl": "Abhiṇhaṁ kujjhati, the same phrase, for both."},
+        {"q": "How is the third type defined instead?",
+         "opts": [
+             "By never feeling anger",
+             "By conduct under provocation: staying in touch, interacting, and greeting warmly even when spoken to roughly",
+             "By meditating more than the others",
+             "By apologizing quickly"],
+         "correct": 1,
+         "expl": "The discourse shifts from describing anger's duration to describing behavior under provocation."},
+        {"q": "Does the discourse say the third type feels no anger at all?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; it only says that whatever arises does not interrupt the relationship",
+             "It is left ambiguous on purpose to confuse readers",
+             "Yes, but only in the verse"],
+         "correct": 1,
+         "expl": "A careful reading finds no claim of anger-free equanimity, even for the best of the three."},
+        {"q": "What corrective does the guide draw from this?",
+         "opts": [
+             "That spiritual progress means never feeling anger",
+             "That the discourse offers a scale of how much power anger, once present, has over duration and relationship &mdash; not a promise of its absence",
+             "That anger is impossible to overcome",
+             "That only monastics can control anger"],
+         "correct": 1,
+         "expl": "A corrective for readers who expect progress to mean the absence of a feeling."},
+        {"q": "How does the guide suggest using the three types?",
+         "opts": [
+             "As permanent, fixed labels for individuals",
+             "As a mirror to ask, of a specific recent flash of anger, which etching it resembled",
+             "As a way to judge other people",
+             "As a formal meditation object"],
+         "correct": 1,
+         "expl": "A self-diagnostic for a moment, not a filing system for a person."},
+        {"q": "What does \"anuseti\" share its root with?",
+         "opts": [
+             "Nibbāna",
+             "Anusaya, the underlying tendencies",
+             "Saṁvega",
+             "Pariññā"],
+         "correct": 1,
+         "expl": "The verb for lingering anger shares its root with the technical term for dormant tendencies."},
+        {"q": "What discourse does the chapter close, and what related material does the guide point to?",
+         "opts": [
+             "It closes the Sambodhavagga; points to AN 3.103",
+             "It closes the Kusināravagga; points to Dhammapada 17, the chapter on anger",
+             "It closes the whole of AN 3; points to AN 3.1",
+             "It closes nothing; it opens a new chapter"],
+         "correct": 1,
+         "expl": "The tenth and final discourse of the thirteenth chapter."},
+        {"q": "What image explains the second type of person?",
+         "opts": [
+             "A line drawn in earth, quickly worn away by wind and water",
+             "A line drawn in stone, lasting a long time",
+             "A line drawn in the air, invisible",
+             "A line drawn in sand at low tide"],
+         "correct": 0,
+         "expl": "Worn away quickly, unlike the first type&rsquo;s line in stone."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">lekhā</span>a line, an etching",
+            "<span class=\"pali\">anuseti</span>lingers",
+            "&mdash; shares a root with anusaya, dormant tendencies",
+        ]),
+        ("Three etchings", [
+            "stone &middot; lasts a long time",
+            "earth &middot; worn away quickly",
+            "water &middot; gone as it is drawn",
+        ]),
+        ("What doesn't change", [
+            "all three get angry",
+            "none is anger-free",
+            "&mdash; duration and conduct are the variables",
+        ]),
+        ("Cross-references", [
+            "Dhammapada 17 &middot; the chapter on anger",
+            "AN 3.124 &middot; barbed words between quarreling mendicants",
+            "AN 3.128 &middot; ill will as one of the discourse&rsquo;s three flies",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.132/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="../dhammapada/dhp-17.html">Dhammapada Chapter 17 &middot; Anger</a> &mdash; a full '
+        "chapter of verses on the same fault, for a class that wants more.",
+        '<a href="an-3.124.html">AN 3.124 &middot; Arguments</a> &mdash; barbed words between '
+        "quarreling mendicants, the community-scale version of the same fault.",
+    ],
+)
