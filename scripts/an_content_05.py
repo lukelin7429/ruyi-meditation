@@ -19131,3 +19131,1964 @@ page(
         "chapter&rsquo;s opening, closing the loop.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.91 — Paṭhamasampadāsutta
+# --------------------------------------------------------------------------- #
+VAGGA_10 = "<em>Kakudhavagga</em> &mdash; the tenth chapter of the Fives"
+
+page(
+    91, "Paṭhamasampadā", "Accomplishments (1st)",
+    vagga=VAGGA_10,
+    meta_title="AN 5.91 — Accomplishments (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamasampadāsutta, "
+        "opening the Kakudhavagga — this nipāta's most recurring pentad, faith, ethics, "
+        "learning, generosity, and wisdom, named here simply as five accomplishments. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, with no elaboration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest possible form, "
+                       "and familiar content"),
+    ],
+    why=(
+        "Kakudhavagga opens exactly as the Fives themselves did at AN 5.1: a bare list, no "
+        "elaboration, closing immediately with the verdict. The five items are this nipāta's "
+        "most recurring pentad &mdash; faith, ethics, learning, generosity, and wisdom &mdash; "
+        "already named at AN 5.40, 5.46, 5.47, 5.63, and 5.64, now framed simply as five "
+        "accomplishments in their own right."),
+    guide=[
+        ("A new chapter, a bare list to open", [
+            "Kakudhavagga opens with the simplest possible form this collection uses: five "
+            "items named, with no explanation of any of them, closing immediately with the "
+            "verdict &lsquo;these are the five accomplishments.&rsquo;"]),
+        ("The familiar pentad, again", [
+            "<em>Saddhā, sīla, suta, cāga, paññā</em> &mdash; faith, ethics, learning, "
+            "generosity, and wisdom &mdash; is the most recurring five-item list in this "
+            "nipāta, already used at AN 5.40 (family growth), AN 5.46&ndash;47 (accomplishment "
+            "and wealth), and AN 5.63&ndash;64 (growth for a man and for a woman). This "
+            "discourse is its sixth appearance."]),
+        ("What 'accomplishment' adds", [
+            "Each earlier appearance framed the same five items differently &mdash; as "
+            "conditions for a family's growth, as a kind of wealth, as growth specific to a "
+            "man or a woman. Here, no application context is given at all: the five items are "
+            "simply named as accomplishments (<em>sampadā</em>) in their own right."]),
+        ("A return to AN 5.1's own opening style", [
+            "This bare-list format directly echoes the Fives' very first discourse, AN 5.1, "
+            "itself a list with no elaboration &mdash; a fitting way to open a new chapter, "
+            "returning to the collection's simplest form."]),
+        ("What comes next", [
+            "AN 5.92 restates the identical bare-list format with an entirely different five: "
+            "the stages from ethical conduct through the knowledge and vision of freedom."]),
+    ],
+    terms=[
+        ("sampadā",
+         "&ldquo;accomplishment&rdquo; &mdash; the framing word this discourse uses for its "
+         "five items, distinct from the &lsquo;growth&rsquo; or &lsquo;family "
+         "conditions&rsquo; framings used elsewhere."),
+        ("saddhāsampadā",
+         "accomplishment in faith &mdash; the first of the five."),
+        ("cāgasampadā",
+         "accomplishment in generosity &mdash; the fourth."),
+        ("paññāsampadā",
+         "accomplishment in wisdom &mdash; the fifth, closing the list."),
+        ("saddhā / sīla / suta / cāga / paññā",
+         "faith, ethics, learning, generosity, wisdom &mdash; this nipāta's most recurring "
+         "pentad, previously named at AN 5.40, 5.46&ndash;47, and 5.63&ndash;64."),
+    ],
+    text_intro=(
+        "The discourse in full: a bare list of five accomplishments, with no elaboration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five accomplishments"),
+        ("p", "&sect;1", "an5.91:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What format does this discourse use, matching AN 5.1's own opening style?",
+         "opts": [
+             "An extended narrative",
+             "A bare list with no elaboration",
+             "A dialogue with a named questioner",
+             "A graded simile"],
+         "correct": 1,
+         "expl": "The simplest form this collection uses."},
+        {"q": "What five accomplishments are named?",
+         "opts": [
+             "Faith, ethics, learning, generosity, wisdom",
+             "Ethics, immersion, wisdom, freedom, knowledge-and-vision of freedom",
+             "Fewness of wishes, contentment, seclusion, energy, immersion",
+             "Long-standing, famous, supported, learned, right view"],
+         "correct": 0,
+         "expl": "Saddhā, sīla, suta, cāga, paññā."},
+        {"q": "Where has this exact five-item pentad appeared before in this nipāta?",
+         "opts": [
+             "Nowhere else",
+             "AN 5.40, 5.46–47, and 5.63–64",
+             "Only in the Fours",
+             "Only at AN 5.1"],
+         "correct": 1,
+         "expl": "This nipāta's most recurring pentad, now in its sixth appearance."},
+        {"q": "What framing word does this discourse use for the pentad?",
+         "opts": [
+             "Vaḍḍhi, 'growth'",
+             "Sampadā, 'accomplishment'",
+             "Bala, 'power'",
+             "Bhaya, 'peril'"],
+         "correct": 1,
+         "expl": "Distinct from the 'growth' or 'family conditions' framings used elsewhere."},
+        {"q": "Is any elaboration given beyond simply naming the five?",
+         "opts": [
+             "Yes, each is explained in detail",
+             "No elaboration at all is given",
+             "Only the first item is explained",
+             "A long narrative frame is given"],
+         "correct": 1,
+         "expl": "The bare-list format, matching AN 5.1."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Theravagga",
+             "Kakudhavagga",
+             "Yodhājīvavagga",
+             "Nīvaraṇavagga"],
+         "correct": 1,
+         "expl": "The tenth chapter of the Fives."},
+        {"q": "What is the Pali term for 'accomplishment'?",
+         "opts": [
+             "Sampadā",
+             "Vaḍḍhi",
+             "Bala",
+             "Sikkhā"],
+         "correct": 0,
+         "expl": "This discourse's title term."},
+        {"q": "What is the third of the five accomplishments?",
+         "opts": [
+             "Ethics",
+             "Learning",
+             "Generosity",
+             "Wisdom"],
+         "correct": 1,
+         "expl": "Saddhā, sīla, suta — faith, ethics, learning."},
+        {"q": "Does this discourse explain what results from these five accomplishments?",
+         "opts": [
+             "Yes, in detail",
+             "No — it simply names them and closes",
+             "Only for the fifth item",
+             "It promises rebirth as a deity"],
+         "correct": 1,
+         "expl": "No application or consequence is given, unlike this pentad's earlier appearances."},
+        {"q": "What does AN 5.92 restate with a different five-item list?",
+         "opts": [
+             "The same bare-list format, with a different pentad",
+             "A narrative discourse",
+             "A warrior simile",
+             "A colophon closing the chapter"],
+         "correct": 0,
+         "expl": "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom."},
+    ],
+    marginalia=[
+        ("A bare list, once more", [
+            "no elaboration —",
+            "matching AN 5.1's",
+            "own opening style",
+        ]),
+        ("The most recurring pentad", [
+            "AN 5.40 &middot; 5.46&ndash;47",
+            "&middot; 5.63&ndash;64",
+            "&mdash; now a sixth time",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sampadā</span>",
+            "&mdash; accomplishment,",
+            "a new framing",
+        ]),
+        ("Cross-references", [
+            "AN 5.40 &middot; this pentad's first appearance",
+            "AN 5.64 &middot; its most recent prior appearance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.91/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.40.html">AN 5.40 &middot; Growth</a> &mdash; this pentad&rsquo;s '
+        "first appearance in this nipāta.",
+        '<a href="an-5.64.html">AN 5.64 &middot; Growth (2nd)</a> &mdash; its most recent '
+        "prior appearance, before this discourse.",
+        '<a href="an-5.92.html">AN 5.92 &middot; Accomplishment (2nd)</a> &mdash; next: '
+        "the same bare-list format, an entirely different pentad.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.92 — Dutiyasampadāsutta
+# --------------------------------------------------------------------------- #
+page(
+    92, "Dutiyasampadā", "Accomplishment (2nd)",
+    vagga=VAGGA_10,
+    meta_title="AN 5.92 — Accomplishment (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyasampadāsutta "
+        "— a second bare list of five accomplishments: ethics, immersion, wisdom, freedom, "
+        "and the knowledge and vision of freedom. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, with no elaboration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the shortest possible "
+                       "form"),
+    ],
+    why=(
+        "A second bare list of accomplishments, sharing AN 5.91's format but naming an "
+        "entirely different pentad: ethics, immersion, wisdom, freedom, and the knowledge and "
+        "vision of freedom &mdash; the sequence of components traditionally understood to make "
+        "up the complete path."),
+    guide=[
+        ("A second bare list, a different pentad", [
+            "<em>Sīla, samādhi, paññā, vimutti, vimuttiñāṇadassana</em> &mdash; ethics, "
+            "immersion, wisdom, freedom, and the knowledge and vision of freedom &mdash; not "
+            "to be confused with AN 5.91's <em>saddhā, sīla, suta, cāga, paññā</em>."]),
+        ("The components of complete practice", [
+            "This pentad describes a linear progression traditionally treated as the "
+            "collection's own account of the path in miniature: an ethical foundation, "
+            "meditative stability, wisdom, the freedom that wisdom yields, and finally the "
+            "reflective knowledge that one is free."]),
+        ("Contrast with AN 5.91's pentad", [
+            "Two five-item &lsquo;accomplishment&rsquo; lists appear back to back, sharing "
+            "only <em>sīla</em> and <em>paññā</em>. AN 5.91's list names ordinary virtues "
+            "&mdash; faith, generosity &mdash; alongside ethics, learning, and wisdom; this "
+            "list names only the stages of the path itself."]),
+        ("Where this pentad recurs", [
+            "Elements of this same sequence return, partially, at AN 5.95's "
+            "&lsquo;unshakable&rsquo; formula later in this chapter, where wisdom's analytical "
+            "side and a reviewing of one's own freedom are named together again."]),
+        ("What comes next", [
+            "AN 5.93 turns to something different: five possible ways someone might come to "
+            "declare their own enlightenment, only one of which is genuine."]),
+    ],
+    terms=[
+        ("sīlasampadā",
+         "accomplishment in ethics &mdash; the first of this discourse's five."),
+        ("samādhisampadā",
+         "accomplishment in immersion &mdash; the second."),
+        ("vimuttisampadā",
+         "accomplishment in freedom &mdash; the fourth."),
+        ("vimuttiñāṇadassanasampadā",
+         "accomplishment in the knowledge and vision of freedom &mdash; the fifth, closing "
+         "the list."),
+        ("sīla / samādhi / paññā / vimutti / vimuttiñāṇadassana",
+         "ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom &mdash; "
+         "traditionally understood as the five components of the complete path."),
+    ],
+    text_intro=(
+        "The discourse in full: a second bare list of five accomplishments. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five accomplishments"),
+        ("p", "&sect;1", "an5.92:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five accomplishments are named in this discourse?",
+         "opts": [
+             "Faith, ethics, learning, generosity, wisdom",
+             "Ethics, immersion, wisdom, freedom, knowledge-and-vision of freedom",
+             "Work, talk, sleep, company, freedom",
+             "Deceit, flattery, hinting, belittling, gain-chasing"],
+         "correct": 1,
+         "expl": "Sīla, samādhi, paññā, vimutti, vimuttiñāṇadassana."},
+        {"q": "How does this pentad differ from AN 5.91's?",
+         "opts": [
+             "It is identical",
+             "It shares only sīla and paññā with AN 5.91's list",
+             "It shares only one item",
+             "It has no overlap whatsoever"],
+         "correct": 1,
+         "expl": "Ethics and wisdom are the two shared terms."},
+        {"q": "Which two items do the two pentads share?",
+         "opts": [
+             "Faith and generosity",
+             "Sīla and paññā",
+             "Immersion and freedom",
+             "Learning and wisdom"],
+         "correct": 1,
+         "expl": "Ethics and wisdom appear in both lists."},
+        {"q": "What does this five-item list traditionally describe, as a sequence?",
+         "opts": [
+             "The stages of family decline",
+             "The components of the complete path, from ethics to liberation's own reflective knowledge",
+             "The five warriors",
+             "The five hindrances"],
+         "correct": 1,
+         "expl": "A linear progression toward and through full liberation."},
+        {"q": "Where might elements of this pentad recur, partially, later in this chapter?",
+         "opts": [
+             "AN 5.99",
+             "AN 5.95's 'unshakable' formula",
+             "AN 5.100",
+             "It does not recur elsewhere in this chapter"],
+         "correct": 1,
+         "expl": "Wisdom's analytical side and reviewing one's freedom, named together again."},
+        {"q": "What is the first item in this discourse's list?",
+         "opts": [
+             "Faith",
+             "Ethics",
+             "Immersion",
+             "Wisdom"],
+         "correct": 1,
+         "expl": "Sīla opens the list."},
+        {"q": "What is the last item?",
+         "opts": [
+             "Freedom",
+             "Wisdom",
+             "The knowledge and vision of freedom",
+             "Ethics"],
+         "correct": 2,
+         "expl": "Vimuttiñāṇadassanasampadā closes the list."},
+        {"q": "Is this discourse longer or shorter than a typical narrative discourse in this nipāta?",
+         "opts": [
+             "Much longer",
+             "Much shorter — a bare list with no elaboration",
+             "Exactly the same length",
+             "It has no fixed length"],
+         "correct": 1,
+         "expl": "Matching AN 5.91's brevity."},
+        {"q": "What framing word do both AN 5.91 and AN 5.92 share?",
+         "opts": [
+             "Vaḍḍhi",
+             "Sampadā",
+             "Bala",
+             "Bhaya"],
+         "correct": 1,
+         "expl": "Both discourses name their five items as 'accomplishments'."},
+        {"q": "What does AN 5.93 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Five ways someone might declare their own enlightenment",
+             "A narrative about Devadatta",
+             "The lion simile"],
+         "correct": 1,
+         "expl": "Only one of the five is genuine."},
+    ],
+    marginalia=[
+        ("A second pentad, a different shape", [
+            "sīla &middot; samādhi",
+            "&middot; paññā &middot; vimutti",
+            "&middot; vimuttiñāṇadassana",
+        ]),
+        ("Ethics through freedom", [
+            "the five components",
+            "of the complete path",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vimuttiñāṇadassana</span>",
+            "&mdash; knowledge",
+            "and vision of freedom",
+        ]),
+        ("Cross-references", [
+            "AN 5.91 &middot; the previous, different pentad",
+            "AN 5.95 &middot; a partial recurrence later in this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.92/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.91.html">AN 5.91 &middot; Accomplishments (1st)</a> &mdash; the '
+        "previous discourse, a different pentad under the same framing.",
+        '<a href="an-5.93.html">AN 5.93 &middot; Declarations</a> &mdash; next: five ways '
+        "someone might claim enlightenment.",
+        '<a href="an-5.95.html">AN 5.95 &middot; Unshakable</a> &mdash; where elements of '
+        "this pentad partially recur.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.93 — Byākaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    93, "Byākaraṇa", "Declarations",
+    vagga=VAGGA_10,
+    meta_title="AN 5.93 — Declarations | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Byākaraṇasutta — "
+        "five possible causes behind a claim to enlightenment: stupidity, corrupt wishes, "
+        "madness, overestimation, or the genuine article. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, with no elaboration beyond naming each cause"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, with one important "
+                       "distinction to notice"),
+    ],
+    why=(
+        "A framework for evaluating any claim to enlightenment, one's own included: five "
+        "possible causes behind such a declaration &mdash; stupidity, corrupt wishes, madness, "
+        "overestimation, or, in the fifth and final case, the genuine article &mdash; "
+        "distinguishing sincere error from deliberate deception and both from actual "
+        "attainment."),
+    guide=[
+        ("Declaring one's own attainment", [
+            "<em>Aññābyākaraṇa</em>, declaring enlightenment, names the act of claiming final "
+            "knowledge for oneself. This discourse lists five possible circumstances behind "
+            "such a claim, only the last of which the discourse treats as genuine."]),
+        ("Four false declarations", [
+            "Stupidity and folly (simply not understanding what is being claimed); corrupt "
+            "wishes, a wishful or ambitious temperament (deliberately claiming falsely out of "
+            "desire for status or gain); and madness or mental disorder (an involuntary, "
+            "pathological cause) &mdash; three distinct roots for a false claim, none of them "
+            "identical to the others."]),
+        ("Overestimation, a category apart", [
+            "The fourth cause, <em>adhimāna</em>, names something different in kind from the "
+            "first three: a sincere but mistaken self-assessment, someone who has genuinely "
+            "misjudged their own progress rather than lied, been deranged, or simply failed to "
+            "understand the claim. This is a specific, recognized technical category in its "
+            "own right, distinct from deliberate deception."]),
+        ("The fifth, true declaration", [
+            "The genuine case is given no elaboration at all beyond a single word, "
+            "<em>sammadeva</em>, &lsquo;rightly&rsquo; &mdash; in sharp contrast to the four "
+            "false types, each of which is named with a specific cause."]),
+        ("A practical framework", [
+            "Read plainly, this list offers a way to evaluate any claim to enlightenment one "
+            "encounters &mdash; including one's own &mdash; by distinguishing the possible "
+            "causes behind it, rather than simply accepting or dismissing the claim outright."]),
+        ("What comes next", [
+            "AN 5.94 turns to something calmer: five ways of living comfortably, culminating "
+            "in the four absorptions and full liberation."]),
+    ],
+    terms=[
+        ("aññābyākaraṇa",
+         "&ldquo;declaring enlightenment&rdquo; &mdash; this discourse's central act, "
+         "evaluated across five possible causes."),
+        ("pāpiccha",
+         "&ldquo;corrupt wishes&rdquo;, a wishful or ambitious temperament &mdash; the second "
+         "false cause."),
+        ("ummāda / cittakkhepa",
+         "&ldquo;madness&rdquo;, mental derangement &mdash; the third false cause."),
+        ("adhimāna",
+         "&ldquo;overestimation&rdquo; &mdash; a sincere but mistaken self-assessment, "
+         "distinct in kind from deliberate deception or pathology."),
+        ("sammadeva",
+         "&ldquo;rightly, correctly&rdquo; &mdash; the fifth and only genuine case, given no "
+         "further elaboration."),
+    ],
+    text_intro=(
+        "The discourse in full: five possible causes behind a claim to enlightenment. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five ways of declaring enlightenment"),
+        ("p", "&sect;1", "an5.93:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What does 'aññābyākaraṇa' refer to?",
+         "opts": [
+             "Declaring enlightenment",
+             "Taking ordination",
+             "Reciting the monastic code",
+             "Requesting almsfood"],
+         "correct": 0,
+         "expl": "This discourse's title term."},
+        {"q": "How many false causes for declaring enlightenment does this discourse name?",
+         "opts": [
+             "Two",
+             "Three",
+             "Four",
+             "Five"],
+         "correct": 2,
+         "expl": "Stupidity, corrupt wishes, madness, and overestimation."},
+        {"q": "What is the first false cause?",
+         "opts": [
+             "Stupidity and folly",
+             "Overestimation",
+             "Madness",
+             "Corrupt wishes"],
+         "correct": 0,
+         "expl": "Simply not understanding what is being claimed."},
+        {"q": "What is 'pāpiccha'?",
+         "opts": [
+             "A meditation technique",
+             "Corrupt wishes, a wishful or ambitious temperament",
+             "A monastic robe",
+             "A type of almsfood"],
+         "correct": 1,
+         "expl": "Deliberate false claiming out of desire for status or gain."},
+        {"q": "What is 'adhimāna', and how does it differ from the other three false causes?",
+         "opts": [
+             "Deliberate deception, identical to pāpiccha",
+             "A sincere but mistaken self-assessment, distinct from deception or pathology",
+             "A form of madness",
+             "Simple ignorance of the term's meaning"],
+         "correct": 1,
+         "expl": "A genuine but mistaken belief in one's own attainment."},
+        {"q": "What is the fifth and only genuine declaration called?",
+         "opts": [
+             "Adhimāna",
+             "Sammadeva, 'rightly'",
+             "Pāpiccha",
+             "Ummāda"],
+         "correct": 1,
+         "expl": "The single word naming the genuine case."},
+        {"q": "How much elaboration is given for the fifth, genuine case, compared to the four false ones?",
+         "opts": [
+             "Much more elaboration",
+             "The same amount",
+             "None at all beyond a single word",
+             "A full narrative example"],
+         "correct": 2,
+         "expl": "In sharp contrast to the specifically named false causes."},
+        {"q": "Is madness treated as a deliberate deception in this discourse?",
+         "opts": [
+             "Yes, identical to corrupt wishes",
+             "No — it is named as a separate, involuntary, pathological cause",
+             "The discourse does not mention madness",
+             "Madness is treated as the genuine case"],
+         "correct": 1,
+         "expl": "A distinct fourth cause, not conflated with deliberate lying."},
+        {"q": "What practical use might this five-item framework serve?",
+         "opts": [
+             "Determining monastic seniority",
+             "Evaluating any claim to enlightenment, including one's own",
+             "Assigning almsround duties",
+             "Calculating rebirth outcomes"],
+         "correct": 1,
+         "expl": "A way to distinguish sincere error, deception, pathology, and genuine attainment."},
+        {"q": "What does AN 5.94 turn to next?",
+         "opts": [
+             "The lion simile",
+             "Five ways of living comfortably, culminating in liberation",
+             "A colophon closing the chapter",
+             "A narrative about Devadatta"],
+         "correct": 1,
+         "expl": "A calmer list, after this discourse's diagnostic one."},
+    ],
+    marginalia=[
+        ("Four false, one true", [
+            "stupidity &middot; wishes",
+            "&middot; madness &middot;",
+            "overestimation &middot; right",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">adhimāna</span>",
+            "&mdash; sincere but",
+            "mistaken self-assessment",
+        ]),
+        ("Sincere but mistaken", [
+            "distinct from",
+            "deliberate deception",
+        ]),
+        ("Cross-references", [
+            "AN 5.92 &middot; the previous discourse",
+            "AN 5.100 &middot; a related dynamic, Devadatta's fixed desire",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.93/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.92.html">AN 5.92 &middot; Accomplishment (2nd)</a> &mdash; the '
+        "previous discourse, a bare list of a different kind.",
+        '<a href="an-5.94.html">AN 5.94 &middot; Living Comfortably</a> &mdash; next: a '
+        "calmer list, culminating in liberation.",
+        '<a href="an-5.100.html">AN 5.100 &middot; With Kakudha</a> &mdash; this '
+        "chapter&rsquo;s closing discourse, where a related fixed-desire dynamic plays out "
+        "with Devadatta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.94 — Phāsuvihārasutta
+# --------------------------------------------------------------------------- #
+page(
+    94, "Phāsuvihāra", "Living Comfortably",
+    vagga=VAGGA_10,
+    meta_title="AN 5.94 — Living Comfortably | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Phāsuvihārasutta — "
+        "the four absorptions and full liberation, named together as five ways of living "
+        "comfortably. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, naming the four absorptions plus liberation"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; familiar formula, "
+                       "briefly stated"),
+    ],
+    why=(
+        "After AN 5.93's diagnostic taxonomy of enlightenment-claims, this discourse names the "
+        "four absorptions plus final liberation as five &lsquo;ways of living "
+        "comfortably&rsquo; (<em>phāsuvihāra</em>) &mdash; reframing what might sound like "
+        "arduous religious achievement as, instead, a genuinely comfortable way to live."),
+    guide=[
+        ("A calmer list, after a diagnostic one", [
+            "Where AN 5.93 sorted true and false claims to enlightenment, this discourse "
+            "simply names the path itself: the four jhānas, then release from defilements "
+            "through direct insight, counted together as five comfortable dwellings."]),
+        ("Why call jhāna and liberation 'comfortable'", [
+            "<em>Phāsu</em>, comfortable or at ease, is a striking word choice for deep "
+            "meditative absorption and full liberation &mdash; reframing what could sound like "
+            "arduous achievement as instead a genuinely restful way to live, in contrast to "
+            "the ordinary discomforts named elsewhere in this nipāta."]),
+        ("The five items, briefly named", [
+            "Four progressively deepening absorptions are named in sequence, then release from "
+            "the defilements of sensuality, desire to be reborn, and ignorance, realized "
+            "&lsquo;with their own insight&rsquo; in this very life &mdash; the collection's "
+            "standard formula, given here in its most condensed form."]),
+        ("Five items from what is usually one continuous path", [
+            "The four jhānas and the final liberation are usually described as sequential "
+            "stages within a single unfolding path; here they are instead counted as five "
+            "discrete &lsquo;comfortable dwellings&rsquo;, worth noticing as a slightly "
+            "different way of counting the same material."]),
+        ("Where this formula has appeared before", [
+            "This exact four-jhāna-plus-liberation sequence recurs throughout this nipāta, "
+            "most recently unpacked at length within AN 5.75&ndash;76's warrior similes."]),
+        ("What comes next", [
+            "AN 5.95 turns to a different unshakable-attainment formula, built instead from "
+            "textual analysis and self-review."]),
+    ],
+    terms=[
+        ("phāsuvihāra",
+         "&ldquo;a way of living comfortably&rdquo; &mdash; this discourse's title term."),
+        ("jhāna",
+         "absorption &mdash; the four progressively deepening levels of meditative immersion "
+         "named here."),
+        ("vivicceva kāmehi",
+         "&ldquo;secluded from sensual pleasures&rdquo; &mdash; the opening phrase of the "
+         "first absorption's formula."),
+        ("āsavakkhaya",
+         "&ldquo;ending of defilements&rdquo; &mdash; the outcome underlying the fifth "
+         "comfortable dwelling."),
+        ("cetovimutti / paññāvimutti",
+         "freedom of heart, freedom by wisdom &mdash; the culminating fifth item, named in "
+         "its condensed form here."),
+    ],
+    text_intro=(
+        "The discourse in full: the four absorptions and full liberation, named as five "
+        "comfortable dwellings. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five ways of living comfortably"),
+        ("p", "&sect;1", "an5.94:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What are the first four 'ways of living comfortably' named in this discourse?",
+         "opts": [
+             "The four noble truths",
+             "The four absorptions",
+             "The four kinds of textual analysis",
+             "The four future perils"],
+         "correct": 1,
+         "expl": "Jhāna one through four."},
+        {"q": "What is the fifth?",
+         "opts": [
+             "Deep learning",
+             "Full liberation, through the ending of defilements",
+             "Wilderness dwelling",
+             "Access to serious talk"],
+         "correct": 1,
+         "expl": "Cetovimutti and paññāvimutti, via āsavakkhaya."},
+        {"q": "What does 'phāsu' mean, and why is it a striking word choice here?",
+         "opts": [
+             "Painful; emphasizing the difficulty of practice",
+             "Comfortable, at ease; reframing deep meditation and liberation as restful rather than arduous",
+             "Dangerous; a warning term",
+             "Temporary; suggesting impermanence"],
+         "correct": 1,
+         "expl": "A notable reframing of what might sound like difficult achievement."},
+        {"q": "How many 'comfortable dwellings' total are named?",
+         "opts": [
+             "Three",
+             "Four",
+             "Five",
+             "Ten"],
+         "correct": 2,
+         "expl": "Four absorptions plus liberation."},
+        {"q": "Is this five-item count built from stages within one continuous path, or five separate topics?",
+         "opts": [
+             "Five entirely unrelated topics",
+             "Stages within one continuous path, here counted as five discrete items",
+             "The discourse does not specify",
+             "A random selection with no underlying order"],
+         "correct": 1,
+         "expl": "A sequential path, counted here as five discrete 'dwellings'."},
+        {"q": "Where has this exact four-jhāna-plus-liberation sequence appeared at length before in this nipāta?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.75–76's warrior similes",
+             "AN 5.90",
+             "It has not appeared before"],
+         "correct": 1,
+         "expl": "Unpacked in full within the graded warrior similes."},
+        {"q": "What does the first absorption's formula begin with?",
+         "opts": [
+             "Reviewing one's mind's freedom",
+             "Being secluded from sensual pleasures and unskillful qualities",
+             "Reciting the monastic code",
+             "Entering a village for almsround"],
+         "correct": 1,
+         "expl": "Vivicceva kāmehi — the standard opening phrase."},
+        {"q": "What comes right before this discourse in the chapter's sequence?",
+         "opts": [
+             "AN 5.91's bare list",
+             "AN 5.93's diagnostic taxonomy of enlightenment-claims",
+             "AN 5.99's lion simile",
+             "AN 5.100's narrative"],
+         "correct": 1,
+         "expl": "This discourse follows immediately after AN 5.93."},
+        {"q": "What formula names the culminating fifth item?",
+         "opts": [
+             "The five hindrances",
+             "Cetovimutti and paññāvimutti through āsavakkhaya",
+             "The four future perils",
+             "The five lower fetters"],
+         "correct": 1,
+         "expl": "Freedom of heart and by wisdom, through the ending of defilements."},
+        {"q": "What does AN 5.95 turn to next?",
+         "opts": [
+             "A different unshakable-attainment formula, built from textual analysis and self-review",
+             "A colophon closing the chapter",
+             "The lion simile",
+             "A narrative about Devadatta"],
+         "correct": 0,
+         "expl": "Recombining two earlier discourses' material."},
+    ],
+    marginalia=[
+        ("Five comfortable dwellings", [
+            "four jhānas,",
+            "then liberation",
+        ]),
+        ("Jhāna and liberation, reframed", [
+            "as ease, not",
+            "arduous achievement",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">phāsuvihāra</span>",
+            "&mdash; a way of",
+            "living comfortably",
+        ]),
+        ("Cross-references", [
+            "AN 5.75&ndash;76 &middot; this same formula, unpacked at length",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.94/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.93.html">AN 5.93 &middot; Declarations</a> &mdash; the previous '
+        "discourse, a diagnostic taxonomy of claims.",
+        '<a href="an-5.95.html">AN 5.95 &middot; Unshakable</a> &mdash; next: a different '
+        "unshakable-attainment formula.",
+        '<a href="an-5.75.html">AN 5.75 &middot; Warriors (1st)</a> &mdash; where this same '
+        "jhāna-and-liberation formula is unpacked at length.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.95 — Akuppasutta
+# --------------------------------------------------------------------------- #
+page(
+    95, "Akuppa", "Unshakable",
+    vagga=VAGGA_10,
+    meta_title="AN 5.95 — Unshakable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Akuppasutta — two "
+        "earlier discourses' material recombined: the four kinds of textual analysis plus "
+        "reviewing one's own freedom, now framed as conditions for rapid, unshakable "
+        "attainment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, with no elaboration"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, recombining "
+                       "familiar material"),
+    ],
+    why=(
+        "This discourse's five items are, item for item, AN 5.86's four kinds of textual "
+        "analysis plus AN 5.89's fifth decline-preventing factor &mdash; reviewing the extent "
+        "of one's own mind's freedom &mdash; the same five qualities named across two earlier "
+        "discourses, now recombined and reframed as conditions for soon &lsquo;penetrating "
+        "the unshakable&rsquo;."),
+    guide=[
+        ("Two earlier fives, recombined", [
+            "This discourse's list is, term for term, AN 5.86's four <em>paṭisambhidā</em> "
+            "(meaning, text, definition, eloquence) plus AN 5.89's reviewing of one's own "
+            "mind's freedom &mdash; the same five qualities named across two different earlier "
+            "discourses, now assembled together under a new outcome."]),
+        ("What 'the unshakable' names", [
+            "<em>Akuppa</em>, a term for a stable, unshakable attainment, is named here as "
+            "something a mendicant with these five qualities &lsquo;soon "
+            "penetrates&rsquo;; the discourse itself doesn't define the term any further "
+            "beyond naming it as an outcome."]),
+        ("Why recombine these particular five", [
+            "AN 5.86 named the four kinds of textual analysis as making a senior mendicant "
+            "beloved by companions; AN 5.89 named reviewing one's freedom as preventing a "
+            "trainee's decline. Here, the same five qualities &mdash; four analytical, one "
+            "reflective &mdash; are reframed once more, this time as conditions for rapid "
+            "attainment of stability."]),
+        ("A running thread in this chapter", [
+            "This is the first of four discourses in this chapter to build toward "
+            "&lsquo;penetrating the unshakable&rsquo;: this one, plus AN 5.96&ndash;98, which "
+            "follow with variations built around mindfulness of breathing."]),
+        ("What comes next", [
+            "AN 5.96 begins a run of three closely related discourses, each adding this same "
+            "akuppa-formula onto a description of a mendicant engaged with mindfulness of "
+            "breathing."]),
+    ],
+    terms=[
+        ("akuppa",
+         "&ldquo;unshakable, unmoved&rdquo; &mdash; this discourse's central attainment."),
+        ("paṭisambhidā",
+         "the fourfold textual mastery, reused here from AN 5.86."),
+        ("yathāvimuttaṁ cittaṁ paccavekkhati",
+         "&ldquo;reviewing the extent of one's mind's freedom&rdquo;, reused here from "
+         "AN 5.89."),
+        ("paṭivijjhati",
+         "&ldquo;to penetrate, to break through to&rdquo; &mdash; the verb describing "
+         "attaining akuppa."),
+        ("nacirasseva",
+         "&ldquo;soon, before long&rdquo; &mdash; qualifying how quickly this attainment "
+         "follows."),
+    ],
+    text_intro=(
+        "The discourse in full: two earlier discourses' qualities, recombined under a new "
+        "outcome. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things, and the unshakable"),
+        ("p", "&sect;1", "an5.95:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five qualities does this discourse list?",
+         "opts": [
+             "The four kinds of textual analysis, plus reviewing one's mind's freedom",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The four future perils, plus schism",
+             "Deceit, flattery, hinting, belittling, gain-chasing"],
+         "correct": 0,
+         "expl": "Recombining AN 5.86 and AN 5.89's material."},
+        {"q": "Where did the first four of these five qualities previously appear together?",
+         "opts": [
+             "AN 5.81",
+             "AN 5.86",
+             "AN 5.90",
+             "AN 5.92"],
+         "correct": 1,
+         "expl": "The four paṭisambhidā, first named there."},
+        {"q": "Where did the fifth quality previously appear?",
+         "opts": [
+             "AN 5.89",
+             "AN 5.71",
+             "AN 5.1",
+             "AN 5.75"],
+         "correct": 0,
+         "expl": "Reviewing the extent of one's mind's freedom, first named there."},
+        {"q": "What outcome is named for a mendicant with these five qualities?",
+         "opts": [
+             "Rebirth as a deity",
+             "Soon penetrating the unshakable",
+             "Community leadership",
+             "Freedom from all illness"],
+         "correct": 1,
+         "expl": "Akuppa, attained soon (nacirasseva)."},
+        {"q": "What does 'akuppa' mean?",
+         "opts": [
+             "Wealthy",
+             "Unshakable, unmoved",
+             "Learned",
+             "Compassionate"],
+         "correct": 1,
+         "expl": "A stable, unshakable attainment."},
+        {"q": "Does this discourse define 'akuppa' further, beyond naming it?",
+         "opts": [
+             "Yes, in great technical detail",
+             "No — it is simply named as an outcome",
+             "Only by comparison to a warrior's victory",
+             "By an extended narrative"],
+         "correct": 1,
+         "expl": "No further elaboration is given."},
+        {"q": "What verb describes how a mendicant comes to have this attainment?",
+         "opts": [
+             "Paṭivijjhati, 'to penetrate'",
+             "Vadati, 'to speak'",
+             "Carati, 'to wander'",
+             "Bhuñjati, 'to eat'"],
+         "correct": 0,
+         "expl": "To break through to, or penetrate."},
+        {"q": "What word qualifies how quickly this happens?",
+         "opts": [
+             "Cirena, 'after a long time'",
+             "Nacirasseva, 'soon'",
+             "Kadāci, 'sometimes'",
+             "Punappunaṁ, 'again and again'"],
+         "correct": 1,
+         "expl": "Soon, before long."},
+        {"q": "What cluster of discourses does this one open within this chapter?",
+         "opts": [
+             "A run of narrative discourses",
+             "A run of discourses building toward 'penetrating the unshakable'",
+             "A run of colophons",
+             "A run of similes"],
+         "correct": 1,
+         "expl": "This discourse plus AN 5.96–98."},
+        {"q": "What do AN 5.96–98 add to this same 'unshakable' formula?",
+         "opts": [
+             "A colophon",
+             "A description of a mendicant engaged with mindfulness of breathing",
+             "A warrior simile",
+             "A visit from a deceased lay supporter"],
+         "correct": 1,
+         "expl": "Three variations built around ānāpānassati."},
+    ],
+    marginalia=[
+        ("Two earlier fives, recombined", [
+            "AN 5.86's four,",
+            "AN 5.89's fifth",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">akuppa</span>",
+            "&mdash; unshakable,",
+            "unmoved",
+        ]),
+        ("Soon penetrates", [
+            "<span class=\"pali\">paṭivijjhati</span>",
+            "&middot; nacirasseva",
+        ]),
+        ("Cross-references", [
+            "AN 5.86 &middot; source of the four paṭisambhidā",
+            "AN 5.89 &middot; source of the fifth factor",
+            "AN 5.96&ndash;98 &middot; the coming cluster",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.95/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.86.html">AN 5.86 &middot; Attaining the Methods of Textual '
+        "Analysis</a> &mdash; the source of this discourse's four paṭisambhidā.",
+        '<a href="an-5.89.html">AN 5.89 &middot; A Trainee (1st)</a> &mdash; the source of '
+        "this discourse's fifth factor.",
+        '<a href="an-5.96.html">AN 5.96 &middot; Remembering What You&rsquo;ve Learned</a> '
+        "&mdash; next: the same outcome, now built around mindfulness of breathing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.96 — Sutadharasutta
+# --------------------------------------------------------------------------- #
+page(
+    96, "Sutadhara", "Remembering What You&rsquo;ve Learned",
+    vagga=VAGGA_10,
+    meta_title="AN 5.96 — Remembering What You've Learned | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sutadharasutta, "
+        "opening a trio of discourses on mindfulness of breathing — simple living, deep "
+        "learning, and self-review as conditions for soon penetrating the unshakable. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, framed by a mendicant cultivating mindfulness "
+                 "of breathing"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a "
+                       "closely related trio"),
+    ],
+    why=(
+        "This discourse opens a run of three (96, 97, 98) sharing an identical three-item "
+        "core, distinguished only by a single varying fourth item and by the specific verb "
+        "used for practicing mindfulness of breathing &mdash; here, cultivating "
+        "(<em>āsevanto</em>)."),
+    guide=[
+        ("A new cluster begins", [
+            "This discourse, and the two that follow it, describe a mendicant engaged with "
+            "mindfulness of breathing (<em>ānāpānassati</em>) who also has five further "
+            "qualities, soon penetrating the unshakable &mdash; the same outcome named at AN "
+            "5.95, now given a different route."]),
+        ("Three simple-living qualities, shared across the coming trio", [
+            "Few obligations and duties, unburdensome and contented with life's necessities; "
+            "eating little, not devoted to filling the stomach; and being rarely drowsy, "
+            "dedicated to wakefulness &mdash; three qualities describing an undemanding daily "
+            "rhythm that leaves room for sustained meditative effort."]),
+        ("A fourth item: deep learning", [
+            "This discourse's fourth item is the same full <em>bahussuta</em> formula already "
+            "given at AN 5.87: thorough command of a well-rounded body of teaching, "
+            "&lsquo;good in the beginning, good in the middle, good in the end&rsquo;."]),
+        ("A fifth item: reviewing one's freedom, again", [
+            "As at AN 5.89 and AN 5.95, the list closes with reviewing the extent of one's "
+            "mind's freedom."]),
+        ("Three verbs, one practice", [
+            "Across this coming trio, the underlying practice is described with three "
+            "different verbs: cultivating (<em>āsevanto</em>) here, developing "
+            "(<em>bhāvento</em>) at AN 5.97, and practicing, or making much of "
+            "(<em>bahulīkaronto</em>) at AN 5.98 &mdash; near-synonyms rather than three "
+            "distinct practices, echoing the multiple-near-synonym pattern already used "
+            "elsewhere in this nipāta."]),
+        ("What comes next", [
+            "AN 5.97 keeps the same three simple-living qualities and the same "
+            "reviewing-freedom close, but swaps the fourth item for participation in "
+            "&lsquo;self-effacement talk&rsquo;, the same ten-topic cluster named in full at "
+            "AN 5.90."]),
+    ],
+    terms=[
+        ("ānāpānassati",
+         "mindfulness of breathing &mdash; the practice framing this whole cluster of "
+         "discourses."),
+        ("appaṭṭho / appakicco",
+         "&ldquo;few obligations, few duties&rdquo; &mdash; the first shared quality."),
+        ("appāhāro",
+         "&ldquo;eating little&rdquo; &mdash; the second shared quality."),
+        ("appamiddho",
+         "&ldquo;rarely drowsy&rdquo; &mdash; the third shared quality."),
+        ("āsevanto / bhāvento / bahulīkaronto",
+         "cultivating / developing / practicing &mdash; the three near-synonymous verbs "
+         "distinguishing this trio of discourses."),
+    ],
+    text_intro=(
+        "The discourse in full: mindfulness of breathing, simple living, deep learning, and "
+        "self-review. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Mindfulness of breathing, and five qualities"),
+        ("p", "&sect;1", "an5.96:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What practice frames this discourse's five qualities?",
+         "opts": [
+             "Mindfulness of breathing",
+             "Loving-kindness meditation",
+             "Walking meditation",
+             "Recitation of the monastic code"],
+         "correct": 0,
+         "expl": "Ānāpānassati, opening this trio of discourses."},
+        {"q": "What verb describes the mendicant's relationship to mindfulness of breathing here?",
+         "opts": [
+             "Bhāvento, 'developing'",
+             "Āsevanto, 'cultivating'",
+             "Bahulīkaronto, 'practicing'",
+             "Pajānāti, 'understanding'"],
+         "correct": 1,
+         "expl": "This discourse's verb, the first of the trio's three."},
+        {"q": "Name one of the three 'simple living' qualities shared across this coming trio.",
+         "opts": [
+             "Few obligations and duties",
+             "Frequent travel",
+             "Elaborate meals",
+             "Public teaching duties"],
+         "correct": 0,
+         "expl": "One of three: few duties, eating little, rarely drowsy."},
+        {"q": "What is the fourth item in this discourse's list?",
+         "opts": [
+             "Wilderness dwelling",
+             "Deep learning, the full bahussuta formula",
+             "Access to self-effacement talk",
+             "The four kinds of textual analysis"],
+         "correct": 1,
+         "expl": "The same formula already given at AN 5.87."},
+        {"q": "What is the fifth item?",
+         "opts": [
+             "Ethical restraint",
+             "Reviewing the extent of one's mind's freedom",
+             "Almsround timing",
+             "Physical endurance"],
+         "correct": 1,
+         "expl": "As at AN 5.89 and AN 5.95."},
+        {"q": "Where has the full bahussuta formula appeared before in this chapter's larger nipāta?",
+         "opts": [
+             "AN 5.71",
+             "AN 5.87",
+             "AN 5.1",
+             "AN 5.93"],
+         "correct": 1,
+         "expl": "This chapter's earlier single-list discourse on the complete monastic portrait."},
+        {"q": "Where has the 'reviewing one's mind's freedom' factor appeared before?",
+         "opts": [
+             "AN 5.89 and AN 5.95",
+             "AN 5.71 only",
+             "It has not appeared before",
+             "AN 5.1 only"],
+         "correct": 0,
+         "expl": "Two prior appearances in this nipāta."},
+        {"q": "What verb does AN 5.97 use instead of this discourse's verb for mindfulness of breathing?",
+         "opts": [
+             "Bhāvento, 'developing'",
+             "Āsevanto, 'cultivating'",
+             "Carati, 'wandering'",
+             "Vadati, 'speaking'"],
+         "correct": 0,
+         "expl": "The second of the trio's three verbs."},
+        {"q": "What verb does AN 5.98 use?",
+         "opts": [
+             "Bahulīkaronto, 'practicing'",
+             "Āsevanto, 'cultivating'",
+             "Bhāvento, 'developing'",
+             "Pajānāti, 'understanding'"],
+         "correct": 0,
+         "expl": "The third of the trio's three verbs."},
+        {"q": "What does AN 5.97 swap in place of this discourse's fourth item?",
+         "opts": [
+             "Wilderness dwelling",
+             "Access to self-effacement talk, the ten-topic cluster from AN 5.90",
+             "The four kinds of textual analysis",
+             "A colophon closing the chapter"],
+         "correct": 1,
+         "expl": "The same cluster given in full there."},
+    ],
+    marginalia=[
+        ("Simple living, times three", [
+            "few duties &middot;",
+            "eating little &middot;",
+            "rarely drowsy",
+        ]),
+        ("Three verbs, one practice", [
+            "āsevanto &middot; bhāvento",
+            "&middot; bahulīkaronto",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">ānāpānassati</span>",
+            "&mdash; mindfulness",
+            "of breathing",
+        ]),
+        ("Cross-references", [
+            "AN 5.87 &middot; the bahussuta formula, in full",
+            "AN 5.89 / 5.95 &middot; reviewing one's freedom",
+            "AN 5.97&ndash;98 &middot; the coming trio",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.96/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.95.html">AN 5.95 &middot; Unshakable</a> &mdash; the previous '
+        "discourse, this same outcome by a different route.",
+        '<a href="an-5.97.html">AN 5.97 &middot; Talk</a> &mdash; next: the same trio, a '
+        "different fourth item.",
+        '<a href="an-5.87.html">AN 5.87 &middot; Ethical</a> &mdash; the source of this '
+        "discourse&rsquo;s full bahussuta formula.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.97 — Kathāsutta
+# --------------------------------------------------------------------------- #
+page(
+    97, "Kathā", "Talk",
+    vagga=VAGGA_10,
+    meta_title="AN 5.97 — Talk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kathāsutta — the "
+        "same trio's three simple-living qualities, now paired with access to self-effacement "
+        "talk, the ten-topic cluster first given at AN 5.90. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, framed by a mendicant developing mindfulness "
+                 "of breathing"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, the trio's second "
+                       "member"),
+    ],
+    why=(
+        "Keeping AN 5.96's three simple-living qualities and its closing review-of-freedom "
+        "factor, this discourse swaps in a different fourth item: access, freely and easily, "
+        "to talk on self-effacement (<em>ābhisallekhikā kathā</em>) &mdash; the identical "
+        "ten-topic cluster already given in full at AN 5.90."),
+    guide=[
+        ("The same trio, a different fourth item", [
+            "This discourse keeps AN 5.96's three simple-living qualities and closing "
+            "review-of-freedom factor unchanged, swapping in access to talk on "
+            "self-effacement as the fourth item &mdash; the same ten topics named in full at "
+            "AN 5.90: fewness of wishes, contentment, seclusion, keeping one's distance, "
+            "arousing energy, ethics, immersion, wisdom, freedom, and the knowledge and "
+            "vision of freedom."]),
+        ("Developing, not cultivating", [
+            "This discourse's framing verb is <em>bhāvento</em> (developing), rather than AN "
+            "5.96's <em>āsevanto</em> (cultivating) &mdash; the second of this trio's three "
+            "near-synonymous verbs."]),
+        ("Why swap the fourth item at all", [
+            "Treating &lsquo;the fourth slot&rsquo; as somewhat interchangeable among several "
+            "markers of genuine practice &mdash; deep learning at AN 5.96, serious talk here "
+            "&mdash; while keeping the other four items fixed is itself a variation-within-"
+            "formula device already used elsewhere in this nipāta."]),
+        ("The ten topics, cited rather than repeated", [
+            "Since AN 5.90 already gave this list in full, this reading guide does not "
+            "re-list all ten topics here; see that discourse for the complete cluster."]),
+        ("What comes next", [
+            "AN 5.98 completes this trio, swapping the fourth item once more for a different "
+            "marker of serious practice: actually living in the wilderness."]),
+    ],
+    terms=[
+        ("ābhisallekhikā kathā",
+         "talk on self-effacement &mdash; this discourse's fourth item, first given in full "
+         "at AN 5.90."),
+        ("bhāvento",
+         "&ldquo;developing&rdquo; &mdash; this discourse's verb for mindfulness of "
+         "breathing, the second of the trio's three."),
+        ("appicchakathā",
+         "talk on fewness of wishes &mdash; the first of the ten topics named at AN 5.90."),
+        ("nikāmalābhī akicchalābhī akasiralābhī",
+         "&ldquo;attaining at will, without trouble, without difficulty&rdquo; &mdash; "
+         "describing access to this talk."),
+        ("yathāvimuttaṁ cittaṁ paccavekkhati",
+         "&ldquo;reviewing the extent of one's mind's freedom&rdquo; &mdash; the fifth item, "
+         "shared with AN 5.96."),
+    ],
+    text_intro=(
+        "The discourse in full: mindfulness of breathing, simple living, access to serious "
+        "talk, and self-review. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Mindfulness of breathing, and five qualities"),
+        ("p", "&sect;1", "an5.97:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What three qualities does this discourse share with AN 5.96?",
+         "opts": [
+             "Few duties, eating little, rarely drowsy",
+             "Wilderness dwelling, deep learning, serious talk",
+             "Faith, ethics, wisdom",
+             "The four kinds of textual analysis"],
+         "correct": 0,
+         "expl": "The trio's three shared simple-living qualities."},
+        {"q": "What fourth item does this discourse use instead of AN 5.96's deep-learning quality?",
+         "opts": [
+             "Wilderness dwelling",
+             "Access to talk on self-effacement",
+             "The four kinds of textual analysis",
+             "A colophon"],
+         "correct": 1,
+         "expl": "The same ten-topic cluster given in full at AN 5.90."},
+        {"q": "Where was this same ten-topic 'self-effacement talk' cluster first given in full?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.90",
+             "AN 5.71",
+             "AN 5.96"],
+         "correct": 1,
+         "expl": "This chapter's earlier closing discourse."},
+        {"q": "What verb frames this discourse's relationship to mindfulness of breathing?",
+         "opts": [
+             "Āsevanto, 'cultivating'",
+             "Bhāvento, 'developing'",
+             "Bahulīkaronto, 'practicing'",
+             "Carati, 'wandering'"],
+         "correct": 1,
+         "expl": "The second of the trio's three verbs."},
+        {"q": "How does that verb differ from AN 5.96's?",
+         "opts": [
+             "It is identical",
+             "A near-synonym, part of the trio's three-verb pattern",
+             "It means the opposite",
+             "It refers to a different practice entirely"],
+         "correct": 1,
+         "expl": "Cultivating, developing, and practicing are near-synonyms here."},
+        {"q": "What is the fifth item, shared with AN 5.96?",
+         "opts": [
+             "Ethical restraint",
+             "Reviewing the extent of one's mind's freedom",
+             "Wilderness dwelling",
+             "Deep learning"],
+         "correct": 1,
+         "expl": "Constant across this whole trio of discourses."},
+        {"q": "What device do these three discourses (96–98) use to vary their fourth item while keeping the rest fixed?",
+         "opts": [
+             "A completely new format each time",
+             "A variation-within-formula device, changing exactly one slot at a time",
+             "Random reordering",
+             "No variation at all"],
+         "correct": 1,
+         "expl": "Already used elsewhere in this nipāta's near-duplicate pairs."},
+        {"q": "Does this reading guide re-list all ten 'self-effacement talk' topics in full?",
+         "opts": [
+             "Yes, in full detail",
+             "No — it cites AN 5.90 instead, where the list was first given",
+             "Only five of the ten",
+             "The topics are invented anew here"],
+         "correct": 1,
+         "expl": "Following this project's convention of citing rather than repeating."},
+        {"q": "What comes after this discourse in the trio?",
+         "opts": [
+             "AN 5.98, swapping in wilderness dwelling as the fourth item",
+             "A colophon closing the chapter",
+             "A return to AN 5.91's bare-list format",
+             "The lion simile"],
+         "correct": 0,
+         "expl": "The trio's third and final member."},
+        {"q": "What does AN 5.98 swap in as its own distinguishing fourth item?",
+         "opts": [
+             "Deep learning",
+             "Access to self-effacement talk",
+             "Living in the wilderness, in remote lodgings",
+             "The four kinds of textual analysis"],
+         "correct": 2,
+         "expl": "Completing the trio's three variants."},
+    ],
+    marginalia=[
+        ("Same trio, a different fourth item", [
+            "deep learning &rarr;",
+            "self-effacement talk",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">ābhisallekhikā kathā</span>",
+            "&mdash; talk on",
+            "self-effacement",
+        ]),
+        ("Developing", [
+            "<span class=\"pali\">bhāvento</span>",
+            "&mdash; this discourse's",
+            "verb, the trio's second",
+        ]),
+        ("Cross-references", [
+            "AN 5.90 &middot; the ten topics, given in full",
+            "AN 5.96 &middot; the trio's first member",
+            "AN 5.98 &middot; next: the trio's third",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.97/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.96.html">AN 5.96 &middot; Remembering What You&rsquo;ve Learned</a> '
+        "&mdash; the previous discourse, the trio's first member.",
+        '<a href="an-5.98.html">AN 5.98 &middot; In the Wilderness</a> &mdash; next: the '
+        "trio's third and final member.",
+        '<a href="an-5.90.html">AN 5.90 &middot; A Trainee (2nd)</a> &mdash; where this '
+        "discourse's ten-topic cluster is given in full.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.98 — Āraññakasutta
+# --------------------------------------------------------------------------- #
+page(
+    98, "Āraññaka", "In the Wilderness",
+    vagga=VAGGA_10,
+    meta_title="AN 5.98 — In the Wilderness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Āraññakasutta, "
+        "completing a trio of discourses on mindfulness of breathing — the same three simple-"
+        "living qualities, now paired with actually living in the wilderness. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, framed by a mendicant practicing mindfulness "
+                 "of breathing"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, completing this "
+                       "chapter's trio"),
+    ],
+    why=(
+        "The trio's third and final member: keeping AN 5.96&ndash;97's three simple-living "
+        "qualities and closing review-of-freedom factor, this discourse swaps in a third "
+        "fourth-item variant &mdash; actually living in the wilderness, in remote lodgings."),
+    guide=[
+        ("The trio's third and final item", [
+            "Completing the run begun at AN 5.96, this discourse keeps the same three "
+            "simple-living qualities and closing review-of-freedom factor, swapping in "
+            "wilderness dwelling (<em>āraññako, pantasenāsano</em>) as the fourth item."]),
+        ("Practicing, or 'making much of'", [
+            "This discourse's verb is <em>bahulīkaronto</em>, literally &lsquo;making much "
+            "of&rsquo; or practicing repeatedly &mdash; the third of the trio's three "
+            "near-synonymous framing verbs."]),
+        ("Three fourth-items, one underlying point", [
+            "Across the trio, the varying fourth item is, in turn, deep learning (AN 5.96), "
+            "access to serious talk (AN 5.97), and actual wilderness residence (AN 5.98) "
+            "&mdash; three quite different markers of serious practice, suggesting no single "
+            "one of them is indispensable on its own. What stays constant across all three is "
+            "the combination of simple living, wakeful energy, and honest self-review."]),
+        ("A tightly formulaic trio", [
+            "Worth appreciating as a compact demonstration of how this collection builds "
+            "variation into repetition, changing exactly one slot at a time across three "
+            "near-identical discourses."]),
+        ("Wilderness-dwelling, cross-referenced", [
+            "This discourse's fourth item connects directly back to AN 5.77's five future "
+            "perils specific to wilderness-dwelling mendicants, from earlier in this nipāta."]),
+        ("What comes next", [
+            "AN 5.99 turns to something altogether different: the vivid simile of the lion, "
+            "applied to the Buddha's own teaching."]),
+    ],
+    terms=[
+        ("āraññako",
+         "&ldquo;a wilderness-dweller&rdquo; &mdash; this discourse's distinguishing fourth "
+         "item."),
+        ("pantasenāsana",
+         "&ldquo;a remote lodging&rdquo;."),
+        ("bahulīkaronto",
+         "&ldquo;practicing, making much of&rdquo; &mdash; this discourse's verb, completing "
+         "the trio's three."),
+        ("appamiddho",
+         "&ldquo;rarely drowsy&rdquo; &mdash; one of the three shared simple-living "
+         "qualities."),
+        ("akuppa",
+         "&ldquo;unshakable&rdquo; &mdash; the attainment all three discourses in this trio "
+         "converge on."),
+    ],
+    text_intro=(
+        "The discourse in full: mindfulness of breathing, simple living, wilderness dwelling, "
+        "and self-review. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Mindfulness of breathing, and five qualities"),
+        ("p", "&sect;1", "an5.98:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What three qualities does this discourse share with AN 5.96 and AN 5.97?",
+         "opts": [
+             "Few duties, eating little, rarely drowsy",
+             "Deep learning, serious talk, wilderness dwelling",
+             "Faith, ethics, wisdom",
+             "The four kinds of textual analysis"],
+         "correct": 0,
+         "expl": "The trio's three constant simple-living qualities."},
+        {"q": "What fourth item does this discourse use, distinct from both AN 5.96 and AN 5.97?",
+         "opts": [
+             "Deep learning",
+             "Access to self-effacement talk",
+             "Living in the wilderness, in remote lodgings",
+             "The four kinds of textual analysis"],
+         "correct": 2,
+         "expl": "The trio's third and final variant."},
+        {"q": "What verb frames this discourse's relationship to mindfulness of breathing?",
+         "opts": [
+             "Āsevanto, 'cultivating'",
+             "Bhāvento, 'developing'",
+             "Bahulīkaronto, 'practicing'",
+             "Vadati, 'speaking'"],
+         "correct": 2,
+         "expl": "The third of the trio's three verbs."},
+        {"q": "What are the three fourth-item variants across the whole trio (96, 97, 98), in order?",
+         "opts": [
+             "Deep learning, self-effacement talk, wilderness dwelling",
+             "Wilderness dwelling, deep learning, self-effacement talk",
+             "Self-effacement talk, wilderness dwelling, deep learning",
+             "The same item repeated three times"],
+         "correct": 0,
+         "expl": "The trio's sequence of varying fourth items."},
+        {"q": "What does the variation across the trio's fourth item suggest?",
+         "opts": [
+             "That only one marker of serious practice matters",
+             "That no single marker is indispensable on its own; simple living, energy, and self-review stay constant",
+             "That the trio is inconsistent and unreliable",
+             "That wilderness dwelling is the only valid path"],
+         "correct": 1,
+         "expl": "Three different markers, one underlying combination held fixed."},
+        {"q": "What is the fifth item, shared across all three discourses?",
+         "opts": [
+             "Ethical restraint",
+             "Reviewing the extent of one's mind's freedom",
+             "Almsround timing",
+             "The four kinds of textual analysis"],
+         "correct": 1,
+         "expl": "Constant across the entire trio."},
+        {"q": "What does 'āraññako' mean?",
+         "opts": [
+             "A wilderness-dweller",
+             "A senior mendicant",
+             "A trainee",
+             "A lay supporter"],
+         "correct": 0,
+         "expl": "This discourse's fourth-item quality."},
+        {"q": "What earlier discourse in this nipāta discussed dangers specific to wilderness-dwelling mendicants?",
+         "opts": [
+             "AN 5.71",
+             "AN 5.77",
+             "AN 5.90",
+             "AN 5.1"],
+         "correct": 1,
+         "expl": "Future Perils (1st), naming five physical hazards."},
+        {"q": "What outcome do all three discourses in this trio converge on?",
+         "opts": [
+             "Rebirth as a deity",
+             "Soon penetrating the unshakable",
+             "Community leadership",
+             "Ordination of new disciples"],
+         "correct": 1,
+         "expl": "The same akuppa outcome named at AN 5.95."},
+        {"q": "What does AN 5.99 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "The vivid simile of the lion",
+             "A narrative about Devadatta",
+             "A return to bare-list format with a new pentad"],
+         "correct": 1,
+         "expl": "A striking shift from formulaic lists to extended simile."},
+    ],
+    marginalia=[
+        ("The trio's third and final item", [
+            "wilderness dwelling —",
+            "the third of three",
+        ]),
+        ("Three fourth-items, one point", [
+            "learning &middot; talk",
+            "&middot; wilderness",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">bahulīkaronto</span>",
+            "&mdash; practicing,",
+            "making much of",
+        ]),
+        ("Cross-references", [
+            "AN 5.77 &middot; wilderness perils, from earlier in this nipāta",
+            "AN 5.96&ndash;97 &middot; this trio's first two members",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.98/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.97.html">AN 5.97 &middot; Talk</a> &mdash; the previous discourse, the '
+        "trio's second member.",
+        '<a href="an-5.99.html">AN 5.99 &middot; The Lion</a> &mdash; next: an extended '
+        "simile, a striking change of form.",
+        '<a href="an-5.77.html">AN 5.77 &middot; Future Perils (1st)</a> &mdash; where this '
+        "discourse&rsquo;s wilderness-dwelling theme was earlier discussed in terms of "
+        "physical danger.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.99 — Sīhasutta
+# --------------------------------------------------------------------------- #
+page(
+    99, "Sīha", "The Lion",
+    vagga=VAGGA_10,
+    meta_title="AN 5.99 — The Lion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sīhasutta — a vivid "
+        "natural simile: a lion's careful, unvarying strike against any prey, mapped onto the "
+        "Buddha's own care teaching every kind of audience. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an extended natural-world simile, mapped in a second half onto the Buddha's "
+                 "own teaching"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; vivid and accessible, a "
+                       "welcome shift from this chapter's formulaic lists"),
+    ],
+    why=(
+        "A vivid, carefully observed simile: a lion's evening routine, and its unvarying care "
+        "in striking any prey regardless of size, mapped directly onto the Buddha's own "
+        "teaching &mdash; the same undiminished care extended to every kind of audience, from "
+        "mendicants to the humblest food-carriers and hunters."),
+    guide=[
+        ("A vivid natural-world simile", [
+            "Unlike this chapter's mostly bare formulaic lists, this discourse opens with an "
+            "extended, carefully observed description of a lion's evening routine: emerging "
+            "from its den, yawning, surveying the four directions, roaring three times, then "
+            "setting out to hunt."]),
+        ("Careful with every kind of prey", [
+            "The discourse's key detail: the lion strikes an elephant with the same care it "
+            "gives a hare or a cat, &lsquo;so as not to lose its way&rsquo; &mdash; a "
+            "disciplined consistency of method that has nothing to do with danger from the "
+            "smaller creature, and everything to do with not letting care slip regardless of "
+            "how insignificant the target might seem."]),
+        ("The mapping onto the Buddha", [
+            "&lsquo;Lion&rsquo; (<em>sīha</em>) is named directly as an epithet for the "
+            "Realized One; teaching the Dhamma to any assembly is called his &lsquo;lion's "
+            "roar&rsquo; (<em>sīhanāda</em>), a term with wide resonance across Buddhist "
+            "literature for a confident, authoritative proclamation."]),
+        ("The same care extended to every audience", [
+            "The discourse names five kinds of audience in turn &mdash; mendicants, nuns, "
+            "laymen, laywomen, and ordinary people, down to food-carriers and hunters &mdash; "
+            "and states that the Buddha teaches each with the same undiminished care, matching "
+            "the lion's consistency across prey of every size."]),
+        ("Why: respect for the teaching itself", [
+            "Unusually among this chapter's mostly unexplained lists, the discourse gives an "
+            "explicit reason for this consistency: &lsquo;the Realized One has respect and "
+            "reverence for the teaching&rsquo; (<em>dhammagaru dhammagāravo</em>). The care is "
+            "not calibrated to the audience's importance; it flows from the teacher's own "
+            "relationship to what is being taught."]),
+        ("A third extended simile in this nipāta", [
+            "The lion joins the fortress-siege imagery of AN 5.71&ndash;72 and the "
+            "graded-warrior imagery of AN 5.75&ndash;76 as a third extended figurative "
+            "discourse in this nipāta, each using a vivid concrete image to make an otherwise "
+            "abstract point memorable."]),
+    ],
+    terms=[
+        ("sīhanāda",
+         "&ldquo;lion's roar&rdquo; &mdash; a term used widely in Buddhist literature for a "
+         "confident, authoritative proclamation of the teaching."),
+        ("dhammagaru / dhammagārava",
+         "having respect and reverence for the teaching itself &mdash; the explicit reason "
+         "given for the Buddha's consistent care."),
+        ("puthujjana",
+         "an ordinary, unawakened person &mdash; named here as among the humblest audiences "
+         "the Buddha still teaches carefully."),
+        ("antamaso",
+         "&ldquo;even, down to&rdquo; &mdash; introducing this discourse's most humble named "
+         "example, food-carriers and hunters."),
+        ("tathāgata",
+         "the Realized One &mdash; the epithet directly identified with &lsquo;lion&rsquo; in "
+         "this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: the lion's careful evening routine, then its mapping onto the "
+        "Realized One's teaching. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The lion's evening routine"),
+        ("p", "&sect;1", "an5.99:1.1-1.5"),
+        ("h3", "Careful with every kind of prey"),
+        ("p", "&sect;2", "an5.99:1.6-1.12"),
+        ("h3", "The Realized One as lion"),
+        ("p", "&sect;3", "an5.99:2.1-2.2"),
+        ("h3", "The same care for every audience"),
+        ("p", "&sect;4", "an5.99:2.3-2.9"),
+    ],
+    quiz=[
+        {"q": "What does the lion do at the very start of this discourse's simile, at evening?",
+         "opts": [
+             "Sleeps through the night",
+             "Emerges from its den, yawns, and surveys the four directions",
+             "Immediately attacks the nearest creature",
+             "Returns to its den"],
+         "correct": 1,
+         "expl": "The opening of the lion's careful evening routine."},
+        {"q": "How many times does the lion roar before setting out to hunt?",
+         "opts": [
+             "Once",
+             "Twice",
+             "Three times",
+             "It does not roar at all"],
+         "correct": 2,
+         "expl": "Tikkhattuṁ sīhanādaṁ nadati — roaring three times."},
+        {"q": "What detail does the discourse emphasize about how the lion strikes its prey, regardless of size?",
+         "opts": [
+             "It strikes only large prey",
+             "It strikes carefully, not carelessly, whether elephant or hare",
+             "It never actually strikes anything",
+             "It strikes only at night"],
+         "correct": 1,
+         "expl": "The same care given to an elephant as to a hare or a cat."},
+        {"q": "Why does the lion strike carefully even a hare or a cat, according to the text?",
+         "opts": [
+             "Out of fear of the smaller creature",
+             "So as not to 'lose its way' — a disciplined consistency of method",
+             "Because small creatures are actually dangerous",
+             "The text gives no reason"],
+         "correct": 1,
+         "expl": "Consistency of method, not calibrated to the target's apparent size."},
+        {"q": "What is 'sīha' identified as an epithet for?",
+         "opts": [
+             "A senior mendicant",
+             "The Realized One, the perfected one, the fully awakened Buddha",
+             "A wilderness-dwelling monk",
+             "A lay supporter"],
+         "correct": 1,
+         "expl": "Directly named in the discourse's second half."},
+        {"q": "What is a 'sīhanāda'?",
+         "opts": [
+             "A type of monastic robe",
+             "The Buddha's teaching of the Dhamma to an assembly — his 'lion's roar'",
+             "A meditation posture",
+             "A specific offering of food"],
+         "correct": 1,
+         "expl": "A confident, authoritative proclamation."},
+        {"q": "Name the five kinds of audience the discourse says the Buddha teaches with equal care.",
+         "opts": [
+             "Kings, ministers, merchants, farmers, soldiers",
+             "Mendicants, nuns, laymen, laywomen, ordinary people",
+             "Gods, humans, animals, ghosts, hell-beings",
+             "Teachers, students, parents, children, elders"],
+         "correct": 1,
+         "expl": "The five audiences named in turn."},
+        {"q": "What is the most humble example given among 'ordinary people'?",
+         "opts": [
+             "Kings",
+             "Food-carriers and hunters",
+             "Wealthy merchants",
+             "Village elders"],
+         "correct": 1,
+         "expl": "Named explicitly as the discourse's lowest-status example."},
+        {"q": "What explicit reason does the discourse give for the Buddha's consistent care across every audience?",
+         "opts": [
+             "Fear of criticism",
+             "Respect and reverence for the teaching itself",
+             "A wish for fame",
+             "No reason is given"],
+         "correct": 1,
+         "expl": "Dhammagaru dhammagāravo — respect flowing from the teacher's own relationship to the teaching."},
+        {"q": "What other extended similes elsewhere in this nipāta does this discourse's lion simile join?",
+         "opts": [
+             "None; it is unique",
+             "The fortress-siege imagery of AN 5.71–72 and the warrior imagery of AN 5.75–76",
+             "Only the warrior imagery",
+             "Only the fortress imagery"],
+         "correct": 1,
+         "expl": "A third extended figurative discourse in this nipāta."},
+    ],
+    marginalia=[
+        ("Same care, every size of prey", [
+            "elephant &middot; hare",
+            "&middot; cat — struck",
+            "with equal care",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sīhanāda</span>",
+            "&mdash; lion's roar,",
+            "an authoritative proclamation",
+        ]),
+        ("Respect for the teaching itself", [
+            "<span class=\"pali\">dhammagaru</span>",
+            "&mdash; the stated reason",
+            "for equal care",
+        ]),
+        ("Cross-references", [
+            "AN 5.71&ndash;72 &middot; the fortress simile",
+            "AN 5.75&ndash;76 &middot; the warrior simile",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.99/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.98.html">AN 5.98 &middot; In the Wilderness</a> &mdash; the previous '
+        "discourse, completing this chapter's mindfulness-of-breathing trio.",
+        '<a href="an-5.100.html">AN 5.100 &middot; With Kakudha</a> &mdash; next: this '
+        "chapter's closing, narrative discourse.",
+        '<a href="an-5.75.html">AN 5.75 &middot; Warriors (1st)</a> &mdash; this '
+        "nip&#257;ta&rsquo;s other extended simile discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.100 — Kakudhatherasutta
+# --------------------------------------------------------------------------- #
+SETTING_100 = "Kosambī, in Ghosita&rsquo;s Monastery &mdash; a new location, stated explicitly"
+SPEAKER_100 = ("Multiple: the godling Kakudha reporting to Venerable Mahāmoggallāna; "
+               "Moggallāna reporting to the Buddha; the Buddha's response and teaching")
+
+page(
+    100, "Kakudhathera", "With Kakudha",
+    vagga=VAGGA_10,
+    meta_title="AN 5.100 — With Kakudha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kakudhatherasutta, "
+        "closing the Kakudhavagga and giving it its name — a deceased lay supporter reborn as "
+        "a god, Devadatta's fixed desire and lost psychic power, and five teachers their "
+        "disciples cover for, versus one who needs no cover at all. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_100),
+        ("Speakers", SPEAKER_100),
+        ("Form", "an extended narrative with multiple speakers, closing in a five-item "
+                 "paired comparison"),
+        ("Length", "~5 minutes to read &mdash; this chapter's longest discourse"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a rich narrative touching "
+                       "on a historically significant rival figure, Devadatta"),
+    ],
+    why=(
+        "This chapter's closing discourse, and the one that gives Kakudhavagga its name, "
+        "breaks entirely from the mostly bare lists of AN 5.91&ndash;98: a full narrative, a "
+        "named setting, a deceased lay supporter reborn as a god, a report about Devadatta's "
+        "fixed desire and lost psychic power, and a closing teaching on five kinds of teacher "
+        "&mdash; four of them shielded by their disciples' complicity, and a fifth who needs "
+        "no shielding at all."),
+    guide=[
+        ("A narrative discourse, breaking the chapter's pattern", [
+            "Unlike AN 5.91&ndash;98's mostly bare formulaic lists, this discourse gives a "
+            "named setting (Kosambī, Ghosita's Monastery), multiple speakers, and a full "
+            "story before arriving at its closing teaching."]),
+        ("Kakudha's rebirth, and the frame story", [
+            "Kakudha, a Koliyan and Venerable Mahāmoggallāna's own lay supporter, has recently "
+            "died and been reborn as a &lsquo;mind-made&rsquo; god of considerable size, who "
+            "nonetheless &lsquo;doesn't obstruct himself or others&rsquo; despite this size "
+            "&mdash; a detail worth noting simply as the text's own account of celestial "
+            "embodiment, without further claims about its literal status."]),
+        ("Devadatta's fixed desire, and the loss of psychic power", [
+            "Kakudha reports to Moggallāna that Devadatta formed a fixed intention to lead the "
+            "mendicant Saṅgha himself, and that the instant this thought arose, he lost his "
+            "psychic power (<em>iddhi</em>). Devadatta is a recurring, historically "
+            "significant rival figure in the early canon, traditionally associated with "
+            "attempting to seize leadership of the Saṅgha and eventually causing a schism; "
+            "this discourse presents one specific, striking claim about the psychological "
+            "mechanism of his downfall &mdash; that the desire for control itself, the moment "
+            "it arose, cost him a power he had genuinely possessed."]),
+        ("The Buddha's careful verification, and his warning", [
+            "Before accepting Kakudha's report, the Buddha specifically asks Moggallāna "
+            "whether he verified telepathically that everything the godling said was true; "
+            "only after Moggallāna confirms this does the Buddha say &lsquo;mark these "
+            "words&rsquo; twice and predict that Devadatta will expose himself through his "
+            "own actions &mdash; a notable moment of the Buddha modeling verification rather "
+            "than simply accepting a secondhand report, even from a genuinely reliable "
+            "source."]),
+        ("Five teachers, four of them protected by disciples", [
+            "The discourse's main teaching: four types of teacher, each impure in one respect "
+            "(conduct, livelihood, teaching, answers, or knowledge and vision) while falsely "
+            "claiming purity, whose disciples know the truth but cover for them &mdash; not "
+            "out of genuine belief, but from a stated, almost cynical calculation "
+            "(&lsquo;they wouldn't like it if we told the laypeople&hellip; they will be "
+            "recognized by their own deeds&rsquo;) &mdash; a portrait of institutional "
+            "complicity structurally related to the imitation dynamic (<em>diṭṭhānugati</em>) "
+            "already seen at AN 5.79 and 5.88."]),
+        ("The Buddha's own transparency, and the chapter's close", [
+            "The discourse closes with the Buddha describing himself, point for point, in "
+            "the same five categories, each time stating plainly that his disciples do not "
+            "cover for him and he does not expect them to &mdash; the implicit claim being "
+            "that needing no protective cover-up is itself the mark of a genuine teacher. The "
+            "colophon &lsquo;Dasamaṁ. Kakudhavaggo pañcamo&rsquo; and the chapter's mnemonic "
+            "verse close the chapter, following the mechanism already explained in full at "
+            "AN 5.10."]),
+    ],
+    terms=[
+        ("iddhi",
+         "psychic power &mdash; what Devadatta is said to have lost the instant his fixed "
+         "desire arose."),
+        ("icchāgata",
+         "a fixed desire or intention that has taken hold."),
+        ("sāvakā rakkhanti",
+         "&ldquo;disciples protect, cover for&rdquo; &mdash; the complicity dynamic naming "
+         "this discourse's main teaching."),
+        ("parisuddha",
+         "&ldquo;pure, uncorrupted&rdquo; &mdash; the claim made, falsely or truly, by all "
+         "five teacher-types in turn."),
+        ("Kakudhavaggo pañcamo",
+         "&ldquo;the fifth Kakudhavagga&rdquo; &mdash; this chapter's closing colophon."),
+    ],
+    text_intro=(
+        "The discourse in full: Kakudha's rebirth and report, the Buddha's verification and "
+        "warning, five flawed teachers protected by their disciples, and the Buddha's own "
+        "transparency in exact contrast. The chapter's closing colophon and Pāli mnemonic "
+        "verse are part of the source but are not translated text, and are described rather "
+        "than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Kakudha's rebirth"),
+        ("p", "&sect;1", "an5.100:1.1-1.5"),
+        ("h3", "Devadatta's fixed desire, reported"),
+        ("p", "&sect;2", "an5.100:2.1-2.6"),
+        ("h3", "Moggallāna reports to the Buddha"),
+        ("p", "&sect;3", "an5.100:3.1"),
+        ("h3", "The Buddha's verification and warning"),
+        ("p", "&sect;4", "an5.100:5.1-5.7"),
+        ("h3", "Five flawed teachers, and their disciples' cover"),
+        ("p", "&sect;5", "an5.100:6.1-6.11"),
+        ("p", "&sect;6", "an5.100:7.1-7.9"),
+        ("p", "&sect;7", "an5.100:8.1-8.9"),
+        ("p", "&sect;8", "an5.100:9.1-9.9"),
+        ("p", "&sect;9", "an5.100:10.1-10.10"),
+        ("h3", "The Buddha's own transparency"),
+        ("p", "&sect;10", "an5.100:11.1-11.10"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set, unlike most of this chapter's discourses?",
+         "opts": [
+             "Sāvatthī",
+             "Kosambī, in Ghosita's Monastery",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "A new, explicitly stated location."},
+        {"q": "Who is Kakudha, and what has recently happened to him?",
+         "opts": [
+             "A senior mendicant who has just been ordained",
+             "A Koliyan and Moggallāna's lay supporter, recently reborn as a mind-made god",
+             "A rival teacher visiting the monastery",
+             "A layman requesting ordination"],
+         "correct": 1,
+         "expl": "The discourse's frame story."},
+        {"q": "What does Kakudha report to Moggallāna about Devadatta?",
+         "opts": [
+             "That Devadatta has become a fully awakened arahant",
+             "That Devadatta formed a fixed desire to lead the mendicant Saṅgha",
+             "That Devadatta has left the Saṅgha entirely",
+             "That Devadatta has reconciled with the Buddha"],
+         "correct": 1,
+         "expl": "The report's central content."},
+        {"q": "What happened to Devadatta's psychic power, according to this report?",
+         "opts": [
+             "It increased greatly",
+             "He lost it the instant the fixed desire arose",
+             "It was unaffected",
+             "He transferred it to another mendicant"],
+         "correct": 1,
+         "expl": "A striking claim about the psychological cost of that desire."},
+        {"q": "Before accepting the report, what does the Buddha ask Moggallāna to confirm?",
+         "opts": [
+             "Whether he had witnesses",
+             "Whether he verified telepathically that everything Kakudha said was true",
+             "Whether Kakudha was under oath",
+             "Whether the report was written down"],
+         "correct": 1,
+         "expl": "The Buddha modeling verification before accepting even a reliable report."},
+        {"q": "What does the Buddha say twice, before predicting Devadatta will expose himself?",
+         "opts": [
+             "'Well done, well done'",
+             "'Mark these words'",
+             "'This cannot be true'",
+             "'Go and confirm this again'"],
+         "correct": 1,
+         "expl": "Rakkhassetaṁ vācaṁ, repeated for emphasis."},
+        {"q": "What do the five 'impure' teachers all falsely claim about themselves?",
+         "opts": [
+             "That they are the most senior in the Saṅgha",
+             "That they are pure — in conduct, livelihood, teaching, answers, or knowledge and vision",
+             "That they have never taught anyone",
+             "That they have taken a vow of silence"],
+         "correct": 1,
+         "expl": "A false claim of purity in one of five respects, in each case."},
+        {"q": "Why do their disciples cover for them, according to the text's own stated reasoning?",
+         "opts": [
+             "Out of genuine belief in the teacher's purity",
+             "A stated, almost cynical calculation — the teacher wouldn't like it told to laypeople, and will be known by their own deeds",
+             "Fear of physical punishment",
+             "The text gives no reason at all"],
+         "correct": 1,
+         "expl": "A portrait of institutional complicity, not sincere conviction."},
+        {"q": "How does the Buddha describe himself, in contrast to the five impure teachers?",
+         "opts": [
+             "As equally in need of his disciples' protection",
+             "As pure in all five respects, needing no cover-up from his disciples at all",
+             "As uncertain about his own purity",
+             "As exempt from the comparison entirely"],
+         "correct": 1,
+         "expl": "The discourse's closing, point-for-point contrast."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Dasamaṁ. Kakudhavaggo pañcamo.",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.90, repeated verbatim"],
+         "correct": 1,
+         "expl": "The tenth discourse, the fifth Kakudhavagga."},
+    ],
+    marginalia=[
+        ("A narrative discourse", [
+            "breaking the chapter's",
+            "mostly bare-list pattern",
+        ]),
+        ("Devadatta's fixed desire, and its cost", [
+            "the instant it arose,",
+            "his psychic power was lost",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sāvakā rakkhanti</span>",
+            "&mdash; disciples",
+            "covering for a teacher",
+        ]),
+        ("Cross-references", [
+            "AN 5.79 &middot; institutional decline",
+            "AN 5.88 &middot; a senior mendicant with wrong view, a close structural parallel",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.100/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.99.html">AN 5.99 &middot; The Lion</a> &mdash; the previous discourse, '
+        "this chapter's other extended figurative piece.",
+        '<a href="an-5.79.html">AN 5.79 &middot; Future Perils (3rd)</a> &mdash; the '
+        "institutional-decline warning this discourse's complicity dynamic echoes.",
+        '<a href="an-5.88.html">AN 5.88 &middot; Senior Mendicants</a> &mdash; a close '
+        "structural parallel: a flawed teacher whose ordinary qualities enable their "
+        "influence.",
+    ],
+)
