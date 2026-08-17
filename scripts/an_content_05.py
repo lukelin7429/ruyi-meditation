@@ -12851,3 +12851,2131 @@ page(
         "chapter-closing colophon structure was first explained in full.",
     ],
 )
+
+
+VAGGA_7 = "<em>Saññāvagga</em> &mdash; the seventh chapter of the Fives"
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.61 — Paṭhamasaññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    61, "Paṭhamasaññā", "Perceptions (1st)",
+    vagga=VAGGA_7,
+    meta_title="AN 5.61 — Perceptions (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Saññāsutta, "
+        "opening a chapter of ten discourses built almost entirely in matched pairs — five "
+        "perceptions with freedom from death as their goal: ugliness, death, drawbacks, food's "
+        "repulsiveness, and dissatisfaction with the world. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming five perceptions and their shared culmination, with "
+                 "no elaboration"),
+        ("Length", "~20 seconds to read"),
+        ("Northern parallel", "Perception-based meditations culminating in freedom from death "
+                              "recur widely across the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, opening a chapter "
+                       "built almost entirely from matched pairs of discourses"),
+    ],
+    why=(
+        "This chapter is unusually uniform in structure: nearly every discourse in it arrives "
+        "paired with a near-twin immediately following, the two sharing most of their content "
+        "and differing in one deliberate respect. This opening pair, AN 5.61 and 5.62, both name "
+        "five <em>saññā</em>, perceptions, that culminate in <em>amata</em>, freedom from death "
+        "&mdash; but the two lists overlap in only three of their five items, a variation worth "
+        "watching for across the whole chapter."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Five perceptions &mdash; ugliness, death, drawbacks, the repulsiveness of food, and "
+            "dissatisfaction with the whole world &mdash; when developed and cultivated, are "
+            "very fruitful and have freedom from death as their goal and culmination."]),
+        ("A chapter of matched pairs", [
+            "AN 5.63 and 5.64 will name identical growth for a male and female disciple in turn; "
+            "AN 5.65 and 5.66 will name near-identical qualities for discussion and for shared "
+            "life; AN 5.67 and 5.68 will give the same basis-of-psychic-power list first as "
+            "general teaching, then as the Buddha's own pre-awakening practice; AN 5.69 and 5.70 "
+            "will give an identical five-item list twice, differing only in what each says it "
+            "leads to. This opening pair sets the pattern the rest of the chapter follows."]),
+        ("Three items shared, two swapped", [
+            "This discourse and AN 5.62 share <em>maraṇasaññā</em>, death, "
+            "<em>āhāre paṭikūlasaññā</em>, food's repulsiveness, and "
+            "<em>sabbaloke anabhiratasaññā</em>, dissatisfaction with the whole world. Where "
+            "this discourse names <em>asubhasaññā</em>, ugliness, and <em>ādīnavasaññā</em>, "
+            "drawbacks, AN 5.62 will instead name impermanence and not-self. The chapter is not "
+            "simply repeating one list twice; it is showing two different five-item selections "
+            "built from a larger, shared pool of contemplative objects."]),
+        ("Amatogadhā, freedom from death as a destination", [
+            "<em>Amatogadhā amatapariyosānā</em>, having freedom from death as their basis and "
+            "culmination, is a striking pair of terms &mdash; <em>ogadha</em>, plunged into or "
+            "grounded in, applied to something usually treated as an attainment rather than a "
+            "location. The five perceptions are pictured here almost as a path that terminates "
+            "in, and is already resting on, the deathless."]),
+        ("A perception list already partly familiar", [
+            "Several of these individual perceptions will return, worked together as a single "
+            "practice rather than five separate objects, at "
+            "<a href=\"an-5.69.html\">AN 5.69</a> and <a href=\"an-5.70.html\">AN 5.70</a> later "
+            "in this chapter. Watching how the same handful of contemplative objects gets "
+            "recombined into different five-item sets across this chapter is one of its main "
+            "interests."]),
+    ],
+    terms=[
+        ("saññā",
+         "&ldquo;perception&rdquo; &mdash; the term giving this chapter its name, here naming a "
+         "cultivated contemplative object rather than ordinary sense-perception."),
+        ("asubhasaññā",
+         "&ldquo;perception of ugliness&rdquo; &mdash; the first item, contemplation of the "
+         "body's unattractive aspects, already met in this series at AN 4.163."),
+        ("ādīnavasaññā",
+         "&ldquo;perception of drawbacks&rdquo; &mdash; the third item, seeing the inherent cost "
+         "or danger in conditioned existence."),
+        ("amatogadhā",
+         "&ldquo;grounded in the deathless&rdquo; &mdash; a striking compound treating freedom "
+         "from death as a basis to rest on, not only a distant goal."),
+        ("sabbaloke anabhiratasaññā",
+         "&ldquo;perception of dissatisfaction with the whole world&rdquo; &mdash; the fifth "
+         "item, shared with AN 5.62's differently composed list."),
+    ],
+    text_intro=(
+        "The discourse in full: the five perceptions, named once. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.61:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five perceptions does this discourse name?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Ugliness, death, drawbacks, the repulsiveness of food, and dissatisfaction with the "
+             "whole world",
+             "Impermanence, not-self, death, food's repulsiveness, and world-dissatisfaction",
+             "The five hindrances"],
+         "correct": 1,
+         "expl": "AN 5.62's list differs by two items, sharing the other three."},
+        {"q": "What structural pattern does the guide say defines this whole chapter?",
+         "opts": [
+             "Every discourse stands entirely alone with no relation to any other",
+             "Nearly every discourse arrives paired with a near-twin, sharing most content but "
+             "differing in one deliberate respect",
+             "All ten discourses are word-for-word identical",
+             "The chapter has no internal structure at all"],
+         "correct": 1,
+         "expl": "A pattern this opening pair, AN 5.61 and 5.62, establishes immediately."},
+        {"q": "How many of the five items does this discourse share with AN 5.62's list?",
+         "opts": [
+             "All five", "Three — death, food's repulsiveness, and world-dissatisfaction",
+             "None", "Only one"],
+         "correct": 1,
+         "expl": "Two items differ: ugliness and drawbacks here, versus impermanence and not-self at AN 5.62."},
+        {"q": "What does 'amatogadhā', grounded in the deathless, suggest about how freedom from "
+              "death is pictured?",
+         "opts": [
+             "As an entirely future, unreachable goal",
+             "As something the five perceptions are already resting on, a basis as much as a "
+             "destination",
+             "As irrelevant to the five perceptions",
+             "As identical to physical immortality"],
+         "correct": 1,
+         "expl": "Ogadha, plunged into or grounded in, applied unusually to an attainment."},
+        {"q": "Where do several of these individual perceptions reappear, recombined into a "
+              "different five-item set?",
+         "opts": [
+             "Nowhere else in this chapter",
+             "AN 5.69 and AN 5.70, later in this chapter",
+             "Only in AN 4.163",
+             "Only in AN 5.23"],
+         "correct": 1,
+         "expl": "The chapter reuses a shared pool of contemplative objects across different lists."},
+        {"q": "What kind of term is 'saññā' in this discourse's usage?",
+         "opts": [
+             "Ordinary, passive sense-perception",
+             "A cultivated contemplative object, developed deliberately",
+             "A synonym for wisdom",
+             "A synonym for faith"],
+         "correct": 1,
+         "expl": "Deliberately developed and cultivated, not simply what happens to be perceived."},
+        {"q": "What does this discourse claim about the five perceptions when developed and "
+              "cultivated?",
+         "opts": [
+             "That they are dangerous and should be avoided",
+             "That they are very fruitful and beneficial, with freedom from death as their goal "
+             "and culmination",
+             "That they lead only to worldly benefit",
+             "That they have no particular result"],
+         "correct": 1,
+         "expl": "The discourse's single claim, stated once with no elaboration."},
+        {"q": "Does this discourse offer any simile or narrative illustration?",
+         "opts": [
+             "Yes, an extended parable",
+             "No — a bare list with no illustration",
+             "Yes, the river simile from AN 5.51",
+             "Yes, a dialogue with a named questioner"],
+         "correct": 1,
+         "expl": "Consistent with this chapter's generally terse, list-based form."},
+        {"q": "What does AN 5.63, the next discourse, turn to?",
+         "opts": [
+             "A repeat of this same perception list",
+             "Growth in faith, ethics, learning, generosity, and wisdom, for a male noble "
+             "disciple",
+             "A return to the five hindrances",
+             "The chapter's final discourse"],
+         "correct": 1,
+         "expl": "The familiar saddhā/sīla/suta/cāga/paññā list, met multiple times already in this nipāta."},
+        {"q": "Where is AN 5.61 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Pāṭaliputta"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five perceptions", [
+            "ugliness &middot; death",
+            "drawbacks",
+            "food's repulsiveness",
+            "world-dissatisfaction",
+        ]),
+        ("Shared with AN 5.62", [
+            "death, food, world &mdash;",
+            "three in common,",
+            "two swapped",
+        ]),
+        ("A goal, and a ground", [
+            "<span class=\"pali\">amatogadhā</span>",
+            "&mdash; grounded in",
+            "the deathless",
+        ]),
+        ("Cross-references", [
+            "AN 4.163 &middot; ugliness, first met",
+            "AN 5.62 &middot; next: the paired variant",
+            "AN 5.69&ndash;70 &middot; the same items, recombined",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.61/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.62.html">AN 5.62 &middot; Perceptions (2nd)</a> &mdash; next, this '
+        "discourse's paired variant, swapping two of the five items.",
+        '<a href="an-5.69.html">AN 5.69 &middot; Disillusionment</a> &mdash; later in this '
+        "chapter, several of these same perceptions recombined into a single practice.",
+        '<a href="an-4.163.html">AN 4.163 &middot; Ugly</a> &mdash; where the perception of '
+        "ugliness first appeared in this series.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.62 — Dutiyasaññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    62, "Dutiyasaññā", "Perceptions (2nd)",
+    vagga=VAGGA_7,
+    meta_title="AN 5.62 — Perceptions (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Saññāsutta — "
+        "AN 5.61's list restated with two items swapped: impermanence and not-self replacing "
+        "ugliness and drawbacks. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.61's formula restated with two of five items changed"),
+        ("Length", "~20 seconds to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this variant beyond the parallel already noted at AN "
+                              "5.61"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the chapter's first "
+                       "confirmed instance of its paired structure"),
+    ],
+    why=(
+        "As promised at AN 5.61, this discourse swaps two of the five perceptions: "
+        "<em>aniccasaññā</em>, impermanence, and <em>anattasaññā</em>, not-self, replace "
+        "ugliness and drawbacks, while death, food's repulsiveness, and world-dissatisfaction "
+        "carry over unchanged. The shared claim &mdash; freedom from death as goal and "
+        "culmination &mdash; is identical in both discourses, word for word."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Five perceptions &mdash; impermanence, not-self, death, the repulsiveness of food, "
+            "and dissatisfaction with the whole world &mdash; when developed and cultivated, are "
+            "very fruitful and have freedom from death as their goal and culmination."]),
+        ("Two of the canon's central themes, entering this list", [
+            "Impermanence and not-self are, elsewhere in the canon, treated as two of the three "
+            "marks of existence, alongside suffering. Their appearance here, standing alongside "
+            "more concrete contemplative objects like food's repulsiveness, shows this list "
+            "mixing doctrinal cornerstones with vivid, embodied practices rather than keeping "
+            "the two registers separate."]),
+        ("What stays fixed across both discourses", [
+            "Death, food's repulsiveness, and world-dissatisfaction anchor both versions of the "
+            "list. This constancy is worth noting precisely because it is not commented on in "
+            "either discourse: the two lists are never explicitly compared to each other in the "
+            "source text itself, and it is only by reading them side by side that the shared "
+            "core and the swapped pair become visible."]),
+        ("The identical closing claim", [
+            "Every word of the discourse's final sentence &mdash; very fruitful and beneficial, "
+            "freedom from death as goal and culmination &mdash; matches AN 5.61 exactly. The "
+            "chapter is making the same claim about two different, overlapping sets of "
+            "perceptions, rather than claiming one version is superior to the other."]),
+        ("What follows", [
+            "AN 5.63, next, leaves perceptions behind entirely and returns to this nipāta's "
+            "most familiar five-item list &mdash; faith, ethics, learning, generosity, wisdom "
+            "&mdash; now framed as growth, and given, unusually, in two versions distinguished "
+            "by the disciple's gender rather than by any change in content."]),
+    ],
+    terms=[
+        ("aniccasaññā",
+         "&ldquo;perception of impermanence&rdquo; &mdash; the first of two swapped items, one "
+         "of the three marks of existence elsewhere in the canon."),
+        ("anattasaññā",
+         "&ldquo;perception of not-self&rdquo; &mdash; the second swapped item, the third mark "
+         "of existence alongside impermanence and suffering."),
+        ("maraṇasaññā",
+         "&ldquo;perception of death&rdquo; &mdash; one of three items shared unchanged with AN "
+         "5.61's list."),
+        ("āhāre paṭikūlasaññā",
+         "&ldquo;perception of food's repulsiveness&rdquo; &mdash; the second shared item, a "
+         "vivid, embodied practice alongside the more doctrinal impermanence and not-self."),
+        ("amatapariyosānā",
+         "&ldquo;culminating in the deathless&rdquo; &mdash; the closing phrase, worded "
+         "identically to AN 5.61's."),
+    ],
+    text_intro=(
+        "The discourse in full: the five perceptions, named once, with two items swapped from "
+        "AN 5.61. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.62:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Which two items does this discourse swap in from AN 5.61's list?",
+         "opts": [
+             "Faith and wisdom",
+             "Impermanence and not-self, replacing ugliness and drawbacks",
+             "Ethics and generosity",
+             "Nothing changes between the two discourses"],
+         "correct": 1,
+         "expl": "Two of the canon's central doctrinal themes, entering this contemplative list."},
+        {"q": "Which three items stay unchanged between AN 5.61 and this discourse?",
+         "opts": [
+             "Ugliness, drawbacks, and death",
+             "Death, food's repulsiveness, and dissatisfaction with the whole world",
+             "Impermanence, not-self, and death",
+             "None; all five items differ"],
+         "correct": 1,
+         "expl": "The shared core anchoring both versions of the list."},
+        {"q": "Does the source text itself explicitly compare AN 5.61 and 5.62's lists?",
+         "opts": [
+             "Yes, at length",
+             "No — the comparison only becomes visible by reading the two side by side",
+             "Yes, but only briefly",
+             "The two discourses never appear near each other in the source"],
+         "correct": 1,
+         "expl": "Neither discourse comments on the other; the pairing is structural, not stated."},
+        {"q": "How does the discourse's closing claim compare to AN 5.61's?",
+         "opts": [
+             "Completely different",
+             "Worded identically — very fruitful and beneficial, freedom from death as goal and "
+             "culmination",
+             "Weaker than AN 5.61's claim",
+             "Stronger than AN 5.61's claim"],
+         "correct": 1,
+         "expl": "The same claim applied to two overlapping but distinct sets of perceptions."},
+        {"q": "What are impermanence and not-self elsewhere called, alongside suffering?",
+         "opts": [
+             "The five hindrances",
+             "Two of the three marks of existence",
+             "The four noble truths",
+             "The five powers"],
+         "correct": 1,
+         "expl": "A standard doctrinal grouping this discourse's list draws two items from."},
+        {"q": "What does mixing impermanence and not-self with food's repulsiveness in one list "
+              "suggest, according to the guide?",
+         "opts": [
+             "That the list is poorly organized",
+             "That the list mixes doctrinal cornerstones with vivid, embodied practices rather "
+             "than keeping the two registers separate",
+             "That food's repulsiveness is not a real perception",
+             "That the two items are contradictory"],
+         "correct": 1,
+         "expl": "A deliberate range from the abstract to the concrete within a single five-item set."},
+        {"q": "Does this discourse claim its version of the list is superior to AN 5.61's?",
+         "opts": [
+             "Yes, explicitly",
+             "No — both discourses make the identical claim about their respective lists",
+             "Yes, but only implicitly",
+             "The discourse takes no position on either list's value"],
+         "correct": 1,
+         "expl": "Neither version is ranked above the other."},
+        {"q": "What does AN 5.63, the next discourse, turn to?",
+         "opts": [
+             "A third perception list",
+             "The familiar faith/ethics/learning/generosity/wisdom list, framed as growth, given "
+             "in gender-distinguished versions",
+             "A return to the five hindrances",
+             "The chapter's final discourse"],
+         "correct": 1,
+         "expl": "A shift away from perceptions to this nipāta's most recurring five-item list."},
+        {"q": "Is any simile or narrative used in this discourse?",
+         "opts": [
+             "Yes, an extended parable",
+             "No — a bare list with no illustration, matching AN 5.61's form",
+             "Yes, a dialogue with a named questioner",
+             "Yes, the tree simile"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's terse, list-based style."},
+        {"q": "Where is AN 5.62 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Swapped in", [
+            "impermanence",
+            "not-self",
+        ]),
+        ("Held constant", [
+            "death &middot; food's",
+            "repulsiveness &middot; world-",
+            "dissatisfaction",
+        ]),
+        ("Same closing claim", [
+            "very fruitful,",
+            "grounded in the deathless",
+            "&mdash; word for word",
+        ]),
+        ("Cross-references", [
+            "AN 5.61 &middot; the paired original",
+            "AN 5.63 &middot; next: growth, for a man",
+            "AN 5.69&ndash;70 &middot; the items, recombined",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.62/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.61.html">AN 5.61 &middot; Perceptions (1st)</a> &mdash; the previous '
+        "discourse, this one's paired original.",
+        '<a href="an-5.63.html">AN 5.63 &middot; Growth (1st)</a> &mdash; next, a shift to this '
+        "nipāta's most recurring five-item list.",
+        '<a href="an-5.69.html">AN 5.69 &middot; Disillusionment</a> &mdash; later in this '
+        "chapter, several of these same perceptions recombined into a single practice.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.63 — Paṭhamavaḍḍhisutta
+# --------------------------------------------------------------------------- #
+page(
+    63, "Paṭhamavaḍḍhi", "Growth (1st)",
+    vagga=VAGGA_7,
+    meta_title="AN 5.63 — Growth (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Vaḍḍhisutta — a "
+        "male noble disciple growing nobly in faith, ethics, learning, generosity, and wisdom, "
+        "taking on what is essential in this life. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming five kinds of growth, closing with a short verse"),
+        ("Length", "~30 seconds to read"),
+        ("Northern parallel", "Faith, ethics, learning, generosity, and wisdom as a fixed lay "
+                              "growth set are widely attested across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, reusing a list this "
+                       "nipāta has already given three times"),
+    ],
+    why=(
+        "This is the fourth appearance, in this nipāta alone, of the identical five-item set "
+        "&mdash; faith, ethics, learning, generosity, wisdom &mdash; already met at "
+        "<a href=\"an-5.40.html\">AN 5.40</a>'s family growth, "
+        "<a href=\"an-5.46.html\">AN 5.46</a>'s bare accomplishments, and "
+        "<a href=\"an-5.47.html\">AN 5.47</a>'s detailed wealth. Here the frame shifts once "
+        "more: growth, <em>vaḍḍhi</em>, applied specifically to a male noble disciple, "
+        "<em>ariyasāvako</em>, and paired deliberately with AN 5.64's identical teaching for a "
+        "female disciple."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A male noble disciple who grows in faith, ethics, learning, generosity, and wisdom "
+            "grows nobly, taking on what is essential and excellent in this life."]),
+        ("A fourth frame for one list", [
+            "Growth, accomplishment, wealth, and a family's flourishing are now four different "
+            "images this nipāta has applied to the identical five terms, without changing any of "
+            "them. This discourse adds nothing new to the content of faith, ethics, learning, "
+            "generosity, or wisdom; its contribution is entirely in the specific, gendered "
+            "framing that follows immediately at AN 5.64."]),
+        ("Sāradāyī varādāyī, taking hold of what is essential", [
+            "The discourse's closing phrase, <em>sārādāyī ca hoti varādāyī ca kāyassa</em>, "
+            "taking on what is essential and excellent for the body, uses an image of active "
+            "grasping rather than passive reception. Growth, on this account, is not simply "
+            "something that happens to a disciple; it is something they take hold of, "
+            "specifically the essential and excellent part of what this life offers."]),
+        ("Deliberately paired with a discourse for women", [
+            "Unlike most repetitions in this nipāta, this pairing is not simply structural "
+            "convenience; AN 5.64 restates the identical five-item teaching using feminine "
+            "grammatical forms throughout &mdash; <em>ariyasāvikā</em>, a female noble disciple, "
+            "not merely the masculine form left to stand for both. The collection did not leave "
+            "this teaching ungendered or assume the masculine form would be read as covering "
+            "everyone; it produced a second, explicitly feminine discourse instead."]),
+        ("What follows", [
+            "AN 5.65 and 5.66, next, leave growth behind and turn to a different five-item list "
+            "&mdash; the AN 5.17&ndash;20 set of ethics, immersion, wisdom, freedom, and the "
+            "knowledge and vision of freedom &mdash; reframed as what makes a mendicant fit for "
+            "discussion and for sharing life with companions."]),
+    ],
+    terms=[
+        ("vaḍḍhi",
+         "&ldquo;growth&rdquo; &mdash; this discourse's frame for the five familiar items, "
+         "distinct from AN 5.40's, 5.46's, and 5.47's earlier framings."),
+        ("ariyasāvako",
+         "&ldquo;male noble disciple&rdquo; &mdash; the masculine grammatical form this "
+         "discourse uses throughout, paired deliberately with AN 5.64's feminine form."),
+        ("sārādāyī",
+         "&ldquo;taking hold of what is essential&rdquo; &mdash; an image of active grasping, "
+         "not passive reception of growth."),
+        ("varādāyī",
+         "&ldquo;taking hold of what is excellent&rdquo; &mdash; paired with sārādāyī, "
+         "completing the image of active appropriation."),
+        ("kāyassa",
+         "&ldquo;for the body, for this life&rdquo; &mdash; the scope of what is essential and "
+         "excellent, taken hold of in this present existence."),
+    ],
+    text_intro=(
+        "The discourse in full: the five kinds of growth for a male noble disciple, closing with "
+        "a verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.63:1.1-1.4"),
+        ("h3", "The closing verse"),
+        ("p", "&sect;2", "an5.63:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five kinds of growth does this discourse name for a male noble disciple?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Faith, ethics, learning, generosity, and wisdom",
+             "The five hindrances",
+             "Long life, beauty, happiness, fame, and heaven"],
+         "correct": 1,
+         "expl": "The same five items already met three times earlier in this nipāta."},
+        {"q": "How many times has this identical five-item list now appeared in this nipāta, "
+              "counting this discourse?",
+         "opts": ["Once", "Twice", "Four times", "Ten times"],
+         "correct": 2,
+         "expl": "AN 5.40, 5.46, 5.47, and now AN 5.63."},
+        {"q": "What does 'sārādāyī varādāyī' suggest about how growth is pictured?",
+         "opts": [
+             "As something entirely passive, simply happening to the disciple",
+             "As active grasping — taking hold of what is essential and excellent, not merely "
+             "receiving it",
+             "As irrelevant to the disciple's own effort",
+             "As something only achieved after death"],
+         "correct": 1,
+         "expl": "An image of appropriation, not passive reception."},
+        {"q": "What makes this discourse's pairing with AN 5.64 different from most repetitions "
+              "in this nipāta?",
+         "opts": [
+             "It isn't different; the pairing is purely structural convenience",
+             "AN 5.64 explicitly restates the teaching in feminine grammatical forms, rather than "
+             "leaving the masculine form to stand for everyone",
+             "AN 5.64 contradicts this discourse entirely",
+             "AN 5.64 uses a completely different five-item list"],
+         "correct": 1,
+         "expl": "A deliberate second, explicitly gendered discourse, not an assumed universal masculine."},
+        {"q": "Does this discourse add any new content to the definitions of faith, ethics, "
+              "learning, generosity, or wisdom?",
+         "opts": [
+             "Yes, extensive new definitions",
+             "No — its contribution is entirely in the frame (growth) and the specific gendered "
+             "pairing that follows",
+             "Only wisdom is redefined",
+             "Only faith is redefined"],
+         "correct": 1,
+         "expl": "The content stays fixed across all four framings this nipāta has now given it."},
+        {"q": "What does AN 5.65, the next discourse, turn to?",
+         "opts": [
+             "A repeat of this same growth teaching",
+             "A different five-item list — ethics, immersion, wisdom, freedom, and the knowledge "
+             "and vision of freedom — reframed as fitness for discussion",
+             "A return to the five hindrances",
+             "The chapter's final discourse"],
+         "correct": 1,
+         "expl": "The AN 5.17–20 set, given a new practical frame."},
+        {"q": "What term does this discourse use for the disciple?",
+         "opts": [
+             "Sekha, trainee",
+             "Ariyasāvako, male noble disciple",
+             "Sappurisa, true person",
+             "Bhikkhu, mendicant, without qualification"],
+         "correct": 1,
+         "expl": "The specific, gendered term this discourse pairs with AN 5.64's feminine equivalent."},
+        {"q": "Where has faith, ethics, learning, generosity, and wisdom appeared earlier as "
+              "'wealth' specifically?",
+         "opts": [
+             "Nowhere before this page",
+             "AN 5.47",
+             "AN 5.1",
+             "AN 4.163"],
+         "correct": 1,
+         "expl": "One of three earlier framings this discourse's 'growth' adds a fourth to."},
+        {"q": "Does this discourse include a closing verse?",
+         "opts": [
+             "No, it ends immediately after the prose",
+             "Yes, a short verse restating the same five items and their outcome",
+             "Yes, an extended set of ten verses",
+             "The discourse is entirely in verse, with no prose"],
+         "correct": 1,
+         "expl": "A brief verse closes the discourse, matching AN 5.64's structure exactly."},
+        {"q": "Where is AN 5.63 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five kinds of growth", [
+            "faith &middot; ethics",
+            "learning &middot; generosity",
+            "wisdom",
+        ]),
+        ("A fourth frame", [
+            "AN 5.40: family",
+            "AN 5.46: accomplishment",
+            "AN 5.47: wealth",
+            "AN 5.63: growth",
+        ]),
+        ("Active grasping", [
+            "<span class=\"pali\">sārādāyī varādāyī</span>",
+            "&mdash; taking hold,",
+            "not merely receiving",
+        ]),
+        ("Cross-references", [
+            "AN 5.40, 5.46&ndash;47 &middot; the same list, earlier",
+            "AN 5.64 &middot; next: for a female disciple",
+            "AN 5.65 &middot; then: a different five-item set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.63/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.47.html">AN 5.47 &middot; Wealth</a> &mdash; the same five items, framed '
+        "there as an inalienable kind of wealth.",
+        '<a href="an-5.64.html">AN 5.64 &middot; Growth (2nd)</a> &mdash; next, this '
+        "discourse's deliberate feminine counterpart.",
+        '<a href="an-5.40.html">AN 5.40 &middot; Great Sal Trees</a> &mdash; where this same '
+        "five-item list first appeared in this nipāta, applied to a family's growth.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.64 — Dutiyavaḍḍhisutta
+# --------------------------------------------------------------------------- #
+page(
+    64, "Dutiyavaḍḍhi", "Growth (2nd)",
+    vagga=VAGGA_7,
+    meta_title="AN 5.64 — Growth (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Vaḍḍhisutta — "
+        "AN 5.63's teaching restated for a female noble disciple, in fully feminine "
+        "grammatical form rather than left to an assumed masculine default. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.63's formula restated with feminine grammatical forms throughout, "
+                 "closing with a matching verse"),
+        ("Length", "~30 seconds to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this variant beyond the parallel already noted at AN "
+                              "5.63"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, and worth noticing "
+                       "for what its existence as a separate discourse implies"),
+    ],
+    why=(
+        "This discourse could, in principle, not exist: nothing about AN 5.63's content "
+        "requires restating for it to apply equally to a woman. That the collection produced it "
+        "anyway &mdash; a full, separate discourse in feminine grammatical form, "
+        "<em>ariyasāvikā</em> rather than a masculine default silently covering both &mdash; is "
+        "itself worth reading as a deliberate choice, not an accident of transmission."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A female noble disciple who grows in faith, ethics, learning, generosity, and "
+            "wisdom grows nobly, taking on what is essential and excellent in this life."]),
+        ("Identical content, complete grammatical restatement", [
+            "Every substantive claim in this discourse matches AN 5.63 exactly &mdash; the same "
+            "five items, the same outcome, the same closing image of taking hold of what is "
+            "essential. What changes is thorough and consistent: "
+            "<em>ariyasāvikā</em> for <em>ariyasāvako</em>, <em>sārādāyinī varādāyinī</em> for "
+            "<em>sārādāyī varādāyī</em>, feminine forms replacing masculine ones throughout both "
+            "the prose and the closing verse."]),
+        ("What this pairing implies about the collection's assumptions", [
+            "A tradition confident that a masculine grammatical form automatically covered women "
+            "as well would have had no reason to produce this discourse at all. Its existence "
+            "suggests the opposite assumption was at least sometimes operative: that a teaching "
+            "aimed explicitly and separately at women mattered enough to be composed and "
+            "preserved as its own discourse, not folded silently into the male version."]),
+        ("Upāsikā, named directly in the verse", [
+            "The closing verse names its subject <em>sīlavatī upāsikā</em>, a virtuous "
+            "laywoman, rather than only repeating <em>ariyasāvikā</em>. This gives the "
+            "discourse's subject a concrete social identity &mdash; not an abstract disciple in "
+            "either gender, but specifically a laywoman practicing in the world, matching AN "
+            "5.63's parallel use of a general term for its own subject."]),
+        ("Read against AN 5.55, earlier in this chapter", [
+            "This discourse and AN 5.55's account of a mother, a son, and a stark warning about "
+            "women sit in the same chapter, only nine discourses apart. This reading guide does "
+            "not attempt to resolve the tension between them into a single, tidy statement about "
+            "how this collection regards women; both discourses are genuinely present in the "
+            "text, addressed to different concerns, and a reader doing this material justice "
+            "should hold both rather than letting one silently stand for the whole."]),
+    ],
+    terms=[
+        ("ariyasāvikā",
+         "&ldquo;female noble disciple&rdquo; &mdash; the feminine grammatical form used "
+         "throughout this discourse, paired deliberately with AN 5.63's masculine "
+         "ariyasāvako."),
+        ("sārādāyinī varādāyinī",
+         "&ldquo;taking hold of what is essential and excellent&rdquo; &mdash; the feminine "
+         "form of AN 5.63's closing image, otherwise unchanged."),
+        ("sīlavatī upāsikā",
+         "&ldquo;virtuous laywoman&rdquo; &mdash; the closing verse's concrete social identity "
+         "for its subject, paralleling AN 5.63's own general term."),
+        ("vaḍḍhi",
+         "&ldquo;growth&rdquo; &mdash; the same frame as AN 5.63, unchanged between the two "
+         "discourses."),
+        ("saddhā sīla suta cāga paññā",
+         "&ldquo;faith, ethics, learning, generosity, wisdom&rdquo; &mdash; the identical five "
+         "items, now the fifth appearance of this list in this nipāta."),
+    ],
+    text_intro=(
+        "The discourse in full: the five kinds of growth for a female noble disciple, closing "
+        "with a matching verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.64:1.1-1.4"),
+        ("h3", "The closing verse"),
+        ("p", "&sect;2", "an5.64:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 5.63's?",
+         "opts": [
+             "Completely different subject matter",
+             "Identical substantive claims — the same five items, same outcome, same closing "
+             "image — restated entirely in feminine grammatical form",
+             "A shorter, abbreviated version",
+             "A contradiction of AN 5.63"],
+         "correct": 1,
+         "expl": "A thorough, consistent grammatical restatement, not a content change."},
+        {"q": "What does the guide say the existence of this discourse, as a separate text, "
+              "implies?",
+         "opts": [
+             "Nothing significant; it is purely incidental",
+             "That the collection did not assume a masculine grammatical form automatically "
+             "covered women, and considered a teaching aimed explicitly at women worth "
+             "composing separately",
+             "That women were considered less capable than men",
+             "That this discourse was added by mistake"],
+         "correct": 1,
+         "expl": "A deliberate choice worth reading as such, not an accident of transmission."},
+        {"q": "What term does the closing verse use for this discourse's subject?",
+         "opts": [
+             "Only 'ariyasāvikā', repeated",
+             "'Sīlavatī upāsikā', a virtuous laywoman — giving the subject a concrete social "
+             "identity",
+             "'Bhikkhunī', a fully ordained nun specifically",
+             "No specific term is used"],
+         "correct": 1,
+         "expl": "Matching AN 5.63's parallel use of a general term for its own subject."},
+        {"q": "How does the guide handle the tension between this discourse and AN 5.55's earlier "
+              "material in the same chapter?",
+         "opts": [
+             "It ignores AN 5.55 entirely when discussing this discourse",
+             "It does not resolve the tension into one tidy statement, holding both discourses as "
+             "genuinely present, addressed to different concerns",
+             "It claims AN 5.55 is inauthentic and should be disregarded",
+             "It claims this discourse cancels out AN 5.55's content"],
+         "correct": 1,
+         "expl": "An honest acknowledgment that the collection contains material in real tension, without forcing false resolution."},
+        {"q": "What five items does this discourse name for growth?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Faith, ethics, learning, generosity, and wisdom",
+             "The five hindrances",
+             "Long life, beauty, happiness, fame, and heaven"],
+         "correct": 1,
+         "expl": "Identical to AN 5.63's list, the same items met four times earlier in this nipāta."},
+        {"q": "How many times has this five-item list now appeared in this nipāta, counting this "
+              "discourse?",
+         "opts": ["Once", "Three times", "Five times", "Ten times"],
+         "correct": 2,
+         "expl": "AN 5.40, 5.46, 5.47, 5.63, and now AN 5.64."},
+        {"q": "Does this discourse offer a closing verse, like AN 5.63?",
+         "opts": [
+             "No, it ends immediately after the prose",
+             "Yes, a matching verse in feminine grammatical form",
+             "Yes, but with entirely different content",
+             "The discourse has no prose, only verse"],
+         "correct": 1,
+         "expl": "A parallel structure to AN 5.63 throughout, including the closing verse."},
+        {"q": "What word replaces 'ariyasāvako' throughout this discourse?",
+         "opts": [
+             "Upāsaka, layman",
+             "Ariyasāvikā, female noble disciple",
+             "Bhikkhu, monk",
+             "No replacement occurs"],
+         "correct": 1,
+         "expl": "The consistent feminine grammatical substitution running through the whole discourse."},
+        {"q": "What comes next in this chapter after this pair of growth discourses?",
+         "opts": [
+             "A repeat of the growth teaching a third time",
+             "AN 5.65, turning to a different five-item list framed around fitness for discussion",
+             "The chapter's final discourse",
+             "A return to the five hindrances"],
+         "correct": 1,
+         "expl": "The chapter moves on to the AN 5.17–20 set, newly reframed."},
+        {"q": "Where is AN 5.64 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Pāṭaliputta"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Feminine throughout", [
+            "<span class=\"pali\">ariyasāvikā</span>",
+            "<span class=\"pali\">sārādāyinī varādāyinī</span>",
+        ]),
+        ("A deliberate choice", [
+            "not a masculine default",
+            "assumed to cover all &mdash;",
+            "a separate discourse instead",
+        ]),
+        ("Held in tension", [
+            "AN 5.55: a stark warning",
+            "AN 5.64: full inclusion",
+            "&mdash; both, genuinely present",
+        ]),
+        ("Cross-references", [
+            "AN 5.63 &middot; the masculine counterpart",
+            "AN 5.55 &middot; this chapter's hardest text",
+            "AN 5.65 &middot; next: a different five-item set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.64/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.63.html">AN 5.63 &middot; Growth (1st)</a> &mdash; this discourse&rsquo;s '
+        "masculine counterpart, identical apart from grammatical gender.",
+        '<a href="an-5.55.html">AN 5.55 &middot; Mother and Son</a> &mdash; earlier in this '
+        "chapter, material this discourse sits in real tension with.",
+        '<a href="an-5.65.html">AN 5.65 &middot; Discussion</a> &mdash; next, a different '
+        "five-item list reframed as fitness for discussion with companions.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.65 — Sākacchasutta
+# --------------------------------------------------------------------------- #
+page(
+    65, "Sākaccha", "Discussion",
+    vagga=VAGGA_7,
+    meta_title="AN 5.65 — Discussion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sākacchasutta — a "
+        "mendicant fit to discuss the Dhamma with companions is personally accomplished in, and "
+        "able to answer questions about, ethics, immersion, wisdom, freedom, and the knowledge "
+        "and vision of freedom. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A single sentence naming five paired qualities — personal accomplishment plus "
+                 "ability to answer questions — for each of five topics"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Personal accomplishment paired with the ability to answer "
+                              "questions on the same subject recurs as a standard for teaching "
+                              "fitness across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; reuses a five-item list "
+                       "already central to this nipāta, now applied to a specific social "
+                       "function"),
+    ],
+    why=(
+        "This discourse returns to the five-item set that structured "
+        "<a href=\"an-5.17.html\">AN 5.17&ndash;20</a> &mdash; ethics, immersion, wisdom, "
+        "freedom, and the knowledge and vision of freedom &mdash; and gives it a new, practical "
+        "test: fitness to hold a discussion with one's spiritual companions. Each of the five "
+        "items now comes doubled, requiring both personal accomplishment and the ability to "
+        "field questions others raise about it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant fit to hold a discussion with spiritual companions is personally "
+            "accomplished in ethics, immersion, wisdom, freedom, and the knowledge and vision of "
+            "freedom, and can answer questions that come up when each is discussed."]),
+        ("A double requirement, not a single one", [
+            "Each of the five items in this discourse is really two requirements folded "
+            "together: <em>attanā ca&hellip;sampanno hoti</em>, personally accomplished, and "
+            "<em>kathāya ca āgataṁ pañhaṁ byākattā hoti</em>, able to answer questions that arise "
+            "in discussion. A mendicant could conceivably have one without the other &mdash; "
+            "genuinely accomplished but unable to articulate it under questioning, or "
+            "articulate without the underlying accomplishment &mdash; and this discourse "
+            "requires both together, for all five items, before fitness for discussion is "
+            "granted."]),
+        ("The same five items, at a different depth than AN 5.17&ndash;20", [
+            "AN 5.17 through 5.20 used this identical list to sort mendicants by whether they "
+            "practiced for their own welfare, others', both, or neither. This discourse assumes "
+            "accomplishment in all five as a baseline and adds a further, more specific "
+            "capacity on top: the ability to withstand questioning about that accomplishment "
+            "from one's own community. It is a narrower, more demanding standard than simply "
+            "having encouraged others, as AN 5.20's fourth case required."]),
+        ("What &lsquo;fit to discuss&rsquo; implies about the community it serves", [
+            "This discourse assumes spiritual companions who will actually ask hard questions "
+            "&mdash; a community where accomplishment is expected to be tested, not merely "
+            "trusted on report. The standard it sets is not for private conviction alone, but "
+            "for conviction robust enough to survive genuine scrutiny from peers."]),
+        ("A companion discourse follows immediately", [
+            "AN 5.66, next, restates this almost word for word, changing only the specific "
+            "outcome from fitness for discussion to fitness to <em>share one's life</em> with "
+            "companions &mdash; a small but real distinction between talking well about the "
+            "path and actually living alongside others on it."]),
+    ],
+    terms=[
+        ("alaṁsākaccho",
+         "&ldquo;fit for discussion&rdquo; &mdash; this discourse&rsquo;s title and standard, "
+         "naming a specific social capacity rather than private attainment alone."),
+        ("sampanno",
+         "&ldquo;accomplished&rdquo; &mdash; the first half of each paired requirement, personal "
+         "attainment in each of the five items."),
+        ("kathāya āgataṁ pañhaṁ byākattā",
+         "&ldquo;able to answer questions that come up in discussion&rdquo; &mdash; the second "
+         "half, the capacity to withstand questioning from companions."),
+        ("vimuttiñāṇadassana",
+         "&ldquo;the knowledge and vision of freedom&rdquo; &mdash; the fifth item, completing "
+         "the AN 5.17&ndash;20 set reused here."),
+        ("sabrahmacārī",
+         "&ldquo;spiritual companion&rdquo; &mdash; the community this discourse assumes will "
+         "actually test a mendicant's accomplishment through questioning."),
+    ],
+    text_intro=(
+        "The discourse in full: the five paired qualities required for fitness to discuss the "
+        "Dhamma with companions. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.65:1.1-1.2"),
+        ("p", "&sect;2", "an5.65:1.3"),
+        ("p", "&sect;3", "an5.65:1.4"),
+        ("p", "&sect;4", "an5.65:1.5"),
+        ("p", "&sect;5", "an5.65:1.6"),
+        ("p", "&sect;6", "an5.65:1.7"),
+        ("p", "&sect;7", "an5.65:1.8"),
+    ],
+    quiz=[
+        {"q": "What five topics does this discourse require both accomplishment in and the "
+              "ability to discuss?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom",
+             "The five hindrances",
+             "Long life, beauty, happiness, fame, and heaven"],
+         "correct": 1,
+         "expl": "The identical five-item list already central to AN 5.17–20."},
+        {"q": "What double requirement does each of the five items carry in this discourse?",
+         "opts": [
+             "Only personal accomplishment, nothing more",
+             "Both personal accomplishment and the ability to answer questions that come up in "
+             "discussion",
+             "Only the ability to answer questions, regardless of personal accomplishment",
+             "Neither is required, only reputation"],
+         "correct": 1,
+         "expl": "A mendicant could conceivably have one without the other; this discourse requires both."},
+        {"q": "How does this discourse's use of the AN 5.17–20 list differ from that earlier "
+              "usage?",
+         "opts": [
+             "It is identical in every respect",
+             "AN 5.17–20 sorted mendicants by welfare-orientation; this discourse assumes "
+             "accomplishment and adds a further capacity — withstanding questioning",
+             "This discourse rejects AN 5.17–20's framework entirely",
+             "This discourse uses an entirely different five-item list"],
+         "correct": 1,
+         "expl": "A narrower, more demanding standard layered on top of the earlier framework."},
+        {"q": "What does the guide say this discourse's standard implies about the community it "
+              "assumes?",
+         "opts": [
+             "A community where accomplishment is simply trusted on report",
+             "A community where accomplishment is expected to be tested through genuine "
+             "questioning from peers",
+             "A community with no interest in discussion at all",
+             "A solitary practice with no community involved"],
+         "correct": 1,
+         "expl": "Conviction robust enough to survive scrutiny, not merely private conviction."},
+        {"q": "What does AN 5.66, the next discourse, change from this one?",
+         "opts": [
+             "Nothing; it repeats this discourse verbatim",
+             "The specific outcome — fitness to share one's life with companions, rather than "
+             "fitness for discussion",
+             "The five-item list itself",
+             "It removes the personal-accomplishment requirement"],
+         "correct": 1,
+         "expl": "A small but real distinction between talking well and actually living alongside others."},
+        {"q": "What is the fifth item in this discourse's list?",
+         "opts": [
+             "Wisdom", "The knowledge and vision of freedom (vimuttiñāṇadassana)",
+             "Generosity", "Learning"],
+         "correct": 1,
+         "expl": "Completing the same set already used at AN 5.17–20."},
+        {"q": "Where did this five-item list previously structure a four-discourse unit in this "
+              "nipāta?",
+         "opts": [
+             "AN 5.41–44", "AN 5.17–20", "AN 5.61–64", "AN 5.1–4"],
+         "correct": 1,
+         "expl": "The self-welfare/others-welfare unit from earlier in the Fives."},
+        {"q": "Does this discourse offer a simile or narrative illustration?",
+         "opts": [
+             "Yes, an extended parable",
+             "No — a direct, structured statement with no illustration",
+             "Yes, a dialogue with a named questioner",
+             "Yes, the tree simile"],
+         "correct": 1,
+         "expl": "A structured list, consistent with much of this chapter's form."},
+        {"q": "What is 'alaṁsākaccho' best translated as?",
+         "opts": [
+             "'Fit for discussion' — this discourse's own title and standard",
+             "'Unfit for teaching'",
+             "'Silent and withdrawn'",
+             "'Argumentative'"],
+         "correct": 0,
+         "expl": "A positive standard of readiness, not a criticism."},
+        {"q": "Where is AN 5.65 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five topics, doubled", [
+            "ethics &middot; immersion",
+            "wisdom &middot; freedom",
+            "knowledge &amp; vision of it",
+        ]),
+        ("Two requirements each", [
+            "accomplished, and",
+            "able to answer",
+            "questions raised",
+        ]),
+        ("A tested community", [
+            "not trust on report &mdash;",
+            "conviction that survives",
+            "real questioning",
+        ]),
+        ("Cross-references", [
+            "AN 5.17&ndash;20 &middot; the list, first used",
+            "AN 5.66 &middot; next: sharing life",
+            "AN 5.64 &middot; the previous discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.65/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.17.html">AN 5.17 &middot; One&rsquo;s Own Welfare</a> &mdash; where this '
+        "five-item list first structured a discourse unit in this nipāta.",
+        '<a href="an-5.66.html">AN 5.66 &middot; Sharing Life</a> &mdash; next, this '
+        "discourse's near-identical companion.",
+        '<a href="an-5.64.html">AN 5.64 &middot; Growth (2nd)</a> &mdash; the previous discourse, '
+        "on a different familiar five-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.66 — Sājīvasutta
+# --------------------------------------------------------------------------- #
+page(
+    66, "Sājīva", "Sharing Life",
+    vagga=VAGGA_7,
+    meta_title="AN 5.66 — Sharing Life | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sājīvasutta — AN "
+        "5.65's near-identical companion, the same five paired qualities now required for "
+        "fitness to actually share one's life with spiritual companions. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.65's formula restated with one word changed in each of five paired "
+                 "clauses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this variant beyond the parallel already noted at AN "
+                              "5.65"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; near-identical to its "
+                       "predecessor, worth reading for its one genuine difference"),
+    ],
+    why=(
+        "This discourse and AN 5.65 differ in exactly one respect, repeated five times: "
+        "<em>kathāya ca āgataṁ pañhaṁ</em>, questions that <em>come up</em> in discussion, "
+        "becomes <em>kathāya ca kataṁ pañhaṁ</em>, questions that are <em>posed</em>, and the "
+        "outcome shifts from <em>alaṁsākaccho</em>, fit for discussion, to "
+        "<em>alaṁsājīvo</em>, fit to share one's life. Small changes, worth reading precisely "
+        "rather than treating as interchangeable."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant fit to share their life with spiritual companions is personally "
+            "accomplished in ethics, immersion, wisdom, freedom, and the knowledge and vision of "
+            "freedom, and can answer questions posed when each is discussed."]),
+        ("Āgataṁ versus kataṁ, a small but real distinction", [
+            "AN 5.65's questions <em>come up</em>, arising in the natural course of "
+            "conversation; this discourse's questions are <em>posed</em>, more actively "
+            "directed at the mendicant. It is a fine distinction, and this reading guide does "
+            "not overstate it, but the two verbs are not accidental synonyms &mdash; one "
+            "suggests organic conversation, the other suggests something closer to deliberate "
+            "examination."]),
+        ("From talking well to living alongside", [
+            "The larger difference sits in the discourse's outcome, not its questions: "
+            "<em>sājīva</em>, shared life, names something more sustained and total than "
+            "<em>sākaccha</em>, discussion. A mendicant might handle a single conversation well "
+            "without being someone their companions could actually live and practice alongside "
+            "day after day. This discourse sets the higher bar of the two, using nearly "
+            "identical language to do it."]),
+        ("Why state this as a separate discourse rather than one combined teaching", [
+            "As with several near-duplicate pairs already met in this nipāta, the likely answer "
+            "is again transmission: a chanted tradition preserves two related but genuinely "
+            "distinct claims &mdash; fitness for conversation, fitness for shared life &mdash; "
+            "better as two complete, separately memorizable units than as one discourse with an "
+            "appended variant."]),
+        ("Closing this chapter's third pair", [
+            "AN 5.65 and 5.66 complete the third of this chapter's matched pairs, after "
+            "perceptions (61&ndash;62) and growth (63&ndash;64). AN 5.67 and 5.68, next, will "
+            "give the chapter's fourth pair, moving from social fitness to the bases of psychic "
+            "power &mdash; first as general teaching, then as the Buddha's own account of his "
+            "pre-awakening practice."]),
+    ],
+    terms=[
+        ("alaṁsājīvo",
+         "&ldquo;fit to share one's life&rdquo; &mdash; this discourse's title and standard, a "
+         "higher, more sustained bar than AN 5.65's fitness for discussion."),
+        ("kataṁ pañhaṁ",
+         "&ldquo;questions posed&rdquo; &mdash; this discourse's verb, more actively directed "
+         "than AN 5.65's &lsquo;questions that come up&rsquo;."),
+        ("sājīva",
+         "&ldquo;shared life&rdquo; &mdash; the outcome this discourse names, naming something "
+         "more total than a single successful conversation."),
+        ("sākaccha",
+         "&ldquo;discussion&rdquo; &mdash; AN 5.65's outcome, distinct from this discourse's "
+         "sustained shared life."),
+        ("byākattā",
+         "&ldquo;one who answers, explains&rdquo; &mdash; the shared term across both "
+         "discourses for the capacity to field questions on each of the five topics."),
+    ],
+    text_intro=(
+        "The discourse in full: the five paired qualities required for fitness to share one's "
+        "life with companions. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.66:1.1-1.2"),
+        ("p", "&sect;2", "an5.66:1.3"),
+        ("p", "&sect;3", "an5.66:1.4"),
+        ("p", "&sect;4", "an5.66:1.5"),
+        ("p", "&sect;5", "an5.66:1.6"),
+        ("p", "&sect;6", "an5.66:1.7"),
+        ("p", "&sect;7", "an5.66:1.8"),
+    ],
+    quiz=[
+        {"q": "What single word changes across all five paired clauses, compared to AN 5.65?",
+         "opts": [
+             "The names of the five topics themselves",
+             "'Āgataṁ' (comes up) becomes 'kataṁ' (posed), and the outcome shifts from 'fit for "
+             "discussion' to 'fit to share one's life'",
+             "Nothing changes at all",
+             "The setting changes"],
+         "correct": 1,
+         "expl": "A small verb change plus a shift in the discourse's stated outcome."},
+        {"q": "How does the guide distinguish 'āgataṁ' (questions that come up) from 'kataṁ' "
+              "(questions posed)?",
+         "opts": [
+             "As identical, with no real difference",
+             "As a fine but real distinction — organic conversation versus something closer to "
+             "deliberate examination",
+             "As a scribal error in one of the two discourses",
+             "As contradictory claims"],
+         "correct": 1,
+         "expl": "A distinction worth noting without overstating its significance."},
+        {"q": "How does 'alaṁsājīvo', fitness to share one's life, compare to AN 5.65's "
+              "'alaṁsākaccho', fitness for discussion?",
+         "opts": [
+             "Identical in scope",
+             "A higher, more sustained bar — naming something more total than a single "
+             "successful conversation",
+             "A lower bar than fitness for discussion",
+             "Unrelated to fitness for discussion"],
+         "correct": 1,
+         "expl": "Living alongside companions day after day, not just conversing well once."},
+        {"q": "Why does the guide suggest these two near-duplicate discourses are stated "
+              "separately rather than combined into one?",
+         "opts": [
+             "There is no reason given",
+             "A chanted tradition preserves genuinely distinct claims better as separate, "
+             "complete, memorizable units than as one discourse with an appended variant",
+             "Because the two discourses actually contradict each other",
+             "Because one of them was composed much later"],
+         "correct": 1,
+         "expl": "The same oral-transmission reasoning already offered elsewhere in this nipāta."},
+        {"q": "What pair of chapter discourses does AN 5.65–66 complete, following two earlier "
+              "pairs?",
+         "opts": [
+             "The first pair in the chapter",
+             "The third pair, after perceptions (61–62) and growth (63–64)",
+             "The chapter's final pair",
+             "There is no larger pattern of pairs in this chapter"],
+         "correct": 1,
+         "expl": "One of four matched pairs structuring this whole chapter."},
+        {"q": "What five topics does this discourse require accomplishment in and ability to "
+              "discuss?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom",
+             "The five hindrances",
+             "Long life, beauty, happiness, fame, and heaven"],
+         "correct": 1,
+         "expl": "The identical five-item list as AN 5.65, from AN 5.17–20."},
+        {"q": "What comes next in the chapter, after this pair?",
+         "opts": [
+             "A repeat of this pair",
+             "AN 5.67 and 5.68, the bases of psychic power, first as general teaching then as the "
+             "Buddha's own pre-awakening practice",
+             "The chapter's final discourse",
+             "A return to the five hindrances"],
+         "correct": 1,
+         "expl": "The chapter's fourth matched pair."},
+        {"q": "Does this discourse offer any new definition of the five topics beyond AN 5.65's?",
+         "opts": [
+             "Yes, extensive new definitions",
+             "No — the content is identical; only the verb and the outcome differ",
+             "Only wisdom is redefined",
+             "Only freedom is redefined"],
+         "correct": 1,
+         "expl": "A near-total repetition with two deliberate points of difference."},
+        {"q": "What term describes the capacity to field questions on each topic, shared across "
+              "both discourses?",
+         "opts": [
+             "Sākaccho", "Byākattā, one who answers or explains", "Sājīvo", "Sampanno"],
+         "correct": 1,
+         "expl": "The common term across both AN 5.65 and 5.66."},
+        {"q": "Where is AN 5.66 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("One word changed", [
+            "<span class=\"pali\">āgataṁ</span>comes up",
+            "&darr;",
+            "<span class=\"pali\">kataṁ</span>posed",
+        ]),
+        ("A higher bar", [
+            "AN 5.65: discussion",
+            "AN 5.66: shared life",
+            "&mdash; one conversation vs. daily practice",
+        ]),
+        ("Chapter's third pair", [
+            "perceptions &middot; growth",
+            "discussion/sharing life",
+            "&mdash; psychic power, next",
+        ]),
+        ("Cross-references", [
+            "AN 5.65 &middot; the near-twin",
+            "AN 5.17&ndash;20 &middot; the list, first used",
+            "AN 5.67 &middot; next: psychic power",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.66/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.65.html">AN 5.65 &middot; Discussion</a> &mdash; the previous discourse, '
+        "this one's near-identical companion.",
+        '<a href="an-5.67.html">AN 5.67 &middot; Bases of Psychic Power (1st)</a> &mdash; next, '
+        "the chapter's fourth matched pair.",
+        '<a href="an-5.17.html">AN 5.17 &middot; One&rsquo;s Own Welfare</a> &mdash; where this '
+        "five-item list first structured a discourse unit in this nipāta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.67 — Paṭhamaiddhipādasutta
+# --------------------------------------------------------------------------- #
+page(
+    67, "Paṭhamaiddhipāda", "Bases of Psychic Power (1st)",
+    vagga=VAGGA_7,
+    meta_title="AN 5.67 — Bases of Psychic Power (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first Iddhipādasutta — "
+        "the four bases of psychic power plus sheer vigor as a fifth, developed by any monk or "
+        "nun, leading to enlightenment now or non-return at the least. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A guaranteed two-outcome claim, then five qualities named, four sharing an "
+                 "identical formula and one standing apart"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The four bases of psychic power (iddhipāda) are among the "
+                              "thirty-seven aids to awakening widely attested across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a guaranteed outcome, "
+                       "stated with unusual confidence for this chapter"),
+    ],
+    why=(
+        "This discourse makes a claim stronger than a description of what supports practice; "
+        "it names an outcome and guarantees one of exactly two results for anyone who develops "
+        "these five qualities: full enlightenment in this very life, or, at the least, "
+        "non-return. The five items themselves belong to one of the thirty-seven aids to "
+        "awakening, the four <em>iddhipāda</em>, with a fifth quality added that stands outside "
+        "the standard formula entirely."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Any monk or nun who develops the four bases of psychic power &mdash; immersion due "
+            "to enthusiasm, energy, mental development, and inquiry, each with active effort "
+            "&mdash; plus sheer vigor as a fifth, can expect either enlightenment in this life "
+            "or non-return."]),
+        ("A guaranteed either/or, not a maybe", [
+            "<em>Dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ</em>, one of two results can be "
+            "expected, is a stronger claim than this chapter's other discourses have made. "
+            "There is no third, lesser outcome named; the range runs from complete awakening at "
+            "the top to non-return, itself among the highest attainments recognized in the "
+            "canon, as the floor."]),
+        ("Four bases, one formula, applied four times", [
+            "<em>Chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ</em>, the basis of psychic "
+            "power that has immersion born of enthusiasm and active effort, is one long compound "
+            "applied unchanged four times, substituting only the driving quality: enthusiasm "
+            "(<em>chanda</em>), energy (<em>vīriya</em>), mental development (<em>citta</em>), "
+            "and inquiry (<em>vīmaṁsā</em>). Each names a different route to the same structural "
+            "outcome &mdash; immersion paired with sustained effort."]),
+        ("A fifth item, outside the formula", [
+            "<em>Ussoḷhiññeva pañcamiṁ</em>, and the fifth is sheer vigor, breaks the pattern of "
+            "the preceding four. It is not another basis of psychic power built from the same "
+            "compound; it stands alone, unqualified, as if the four structured routes still "
+            "needed something less formalized &mdash; raw, sustained determination &mdash; "
+            "added on top."]),
+        ("What follows", [
+            "AN 5.68, immediately next, gives the identical five items a second time, but "
+            "changes everything about their frame: not a general teaching to any monk or nun, "
+            "but the Buddha's own first-person account of what he developed before his "
+            "awakening, while still <em>a bodhisattva, not yet fully awakened</em>."]),
+    ],
+    terms=[
+        ("iddhipāda",
+         "&ldquo;basis of psychic power&rdquo; &mdash; one of the standard groups within the "
+         "thirty-seven aids to awakening, four items sharing one compound formula here."),
+        ("chanda vīriya citta vīmaṁsā",
+         "&ldquo;enthusiasm, energy, mental development, inquiry&rdquo; &mdash; the four "
+         "driving qualities, each substituted into the identical iddhipāda formula."),
+        ("ussoḷhi",
+         "&ldquo;sheer vigor&rdquo; &mdash; the fifth item, standing outside the four-item "
+         "iddhipāda formula entirely, added unqualified."),
+        ("diṭṭheva dhamme aññā",
+         "&ldquo;enlightenment in this very life&rdquo; &mdash; the higher of the two "
+         "guaranteed outcomes."),
+        ("anāgāmitā",
+         "&ldquo;non-return&rdquo; &mdash; the floor outcome, itself among the highest "
+         "attainments recognized in the canon."),
+    ],
+    text_intro=(
+        "The discourse in full: the guaranteed two-outcome claim, and the five qualities that "
+        "produce it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.67:1.1-1.2"),
+        ("h3", "The five qualities"),
+        ("p", "&sect;2", "an5.67:2.1"),
+        ("p", "&sect;3", "an5.67:2.2"),
+        ("p", "&sect;4", "an5.67:2.3"),
+        ("p", "&sect;5", "an5.67:2.4"),
+        ("p", "&sect;6", "an5.67:2.5"),
+        ("p", "&sect;7", "an5.67:2.6"),
+        ("p", "&sect;8", "an5.67:2.7-2.8"),
+    ],
+    quiz=[
+        {"q": "What two outcomes does this discourse guarantee for anyone who develops the five "
+              "qualities?",
+         "opts": [
+             "A good rebirth or a bad one",
+             "Enlightenment in this very life, or, at the least, non-return",
+             "Wealth or poverty",
+             "Fame or obscurity"],
+         "correct": 1,
+         "expl": "A guaranteed either/or, with no third, lesser outcome named."},
+        {"q": "What are the four bases of psychic power, and what do they share?",
+         "opts": [
+             "Four entirely different formulas with nothing in common",
+             "Enthusiasm, energy, mental development, and inquiry, each substituted into the "
+             "identical iddhipāda compound formula",
+             "The five hindrances",
+             "The five powers of a trainee"],
+         "correct": 1,
+         "expl": "One long compound applied unchanged four times, only the driving quality changing."},
+        {"q": "How does the fifth item, sheer vigor, differ from the preceding four?",
+         "opts": [
+             "It follows the identical formula as the others",
+             "It stands outside the iddhipāda formula entirely, added unqualified rather than "
+             "built from the same compound",
+             "It is not actually part of the list",
+             "It replaces one of the four bases"],
+         "correct": 1,
+         "expl": "Raw, sustained determination, added on top of the four structured routes."},
+        {"q": "How does the strength of this discourse's claim compare to other discourses in "
+              "this chapter?",
+         "opts": [
+             "Weaker — no specific outcome is claimed",
+             "Stronger — a guaranteed outcome, unlike this chapter's more general claims about "
+             "fruitfulness or fitness",
+             "Identical to every other discourse in the chapter",
+             "This discourse makes no claim at all"],
+         "correct": 1,
+         "expl": "A guaranteed either/or is unusually confident language for this chapter."},
+        {"q": "What does AN 5.68, the next discourse, do with this identical list?",
+         "opts": [
+             "Nothing further; the list is dropped",
+             "Gives it a second time, now as the Buddha's own first-person account of his "
+             "pre-awakening practice",
+             "Contradicts this discourse's claims",
+             "Replaces it with a different five-item list"],
+         "correct": 1,
+         "expl": "The same content, reframed entirely as autobiography."},
+        {"q": "Who is this discourse addressed to?",
+         "opts": [
+             "Only advanced meditators",
+             "Any monk or nun (bhikkhu vā bhikkhunī vā)",
+             "Only laypeople",
+             "Only King Muṇḍa"],
+         "correct": 1,
+         "expl": "A general teaching, not restricted to any particular audience within the monastic community."},
+        {"q": "What group of aids to awakening do the four iddhipāda belong to?",
+         "opts": [
+             "The five hindrances",
+             "The thirty-seven aids to awakening (bodhipakkhiyā dhammā)",
+             "The four noble truths",
+             "The six perfections"],
+         "correct": 1,
+         "expl": "One of the standard groups within that wider framework."},
+        {"q": "Is non-return described as a minor or lesser attainment?",
+         "opts": [
+             "Yes, a very minor one",
+             "No — even as the floor outcome, it is itself among the highest attainments "
+             "recognized in the canon",
+             "The discourse does not characterize it at all",
+             "It is described as worse than an ordinary rebirth"],
+         "correct": 1,
+         "expl": "The guaranteed range runs from complete awakening to a floor that is still exceptionally high."},
+        {"q": "What does 'vīmaṁsā', the fourth driving quality, mean?",
+         "opts": [
+             "Physical strength",
+             "Inquiry, investigation",
+             "Wealth",
+             "Faith"],
+         "correct": 1,
+         "expl": "The fourth of the four routes to the same iddhipāda structure."},
+        {"q": "Where is AN 5.67 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Guaranteed outcome", [
+            "enlightenment now, or",
+            "non-return at the least",
+        ]),
+        ("Four bases, one formula", [
+            "enthusiasm &middot; energy",
+            "mental development",
+            "inquiry",
+        ]),
+        ("A fifth, outside the pattern", [
+            "<span class=\"pali\">ussoḷhi</span>",
+            "&mdash; sheer vigor,",
+            "unqualified",
+        ]),
+        ("Cross-references", [
+            "AN 5.65&ndash;66 &middot; the previous pair",
+            "AN 5.68 &middot; next: the Buddha's own practice",
+            "AN 5.23 &amp; 5.28 &middot; the abhiññā this leads toward",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.67/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.68.html">AN 5.68 &middot; Bases of Psychic Power (2nd)</a> &mdash; next, '
+        "the same five qualities as the Buddha's own pre-awakening practice.",
+        '<a href="an-5.66.html">AN 5.66 &middot; Sharing Life</a> &mdash; the previous discourse, '
+        "closing this chapter's third matched pair.",
+        '<a href="an-5.23.html">AN 5.23 &middot; Corruptions</a> &mdash; where the psychic-power '
+        "abhiññā this discourse's outcome opens onto were listed in full.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.68 — Dutiyaiddhipādasutta
+# --------------------------------------------------------------------------- #
+page(
+    68, "Dutiyaiddhipāda", "Bases of Psychic Power (2nd)",
+    vagga=VAGGA_7,
+    meta_title="AN 5.68 — Bases of Psychic Power (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second Iddhipādasutta "
+        "— the Buddha's own first-person account of developing the four bases of psychic power "
+        "and vigor before his awakening, opening onto the full range of superhuman abilities. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "The Buddha, speaking autobiographically in the first person"),
+        ("Form", "AN 5.67's five qualities restated as first-person pre-awakening practice, "
+                 "opening onto the extended abhiññā formula already met at AN 5.23 and AN 5.28"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "First-person accounts of the Buddha's own pre-awakening "
+                              "practice recur across the Chinese Āgamas' biographical material; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the same five qualities as "
+                       "AN 5.67, now spoken by the Buddha about himself"),
+    ],
+    why=(
+        "This discourse takes AN 5.67's general teaching and does something this chapter has "
+        "not done elsewhere: attributes it to the Buddha's own past, before awakening, "
+        "<em>bodhisattova samāno</em>, while still a bodhisattva. The same five qualities that "
+        "guarantee enlightenment or non-return for any monk or nun are here presented as what "
+        "the Buddha himself developed and cultivated on the way to becoming the Buddha, opening "
+        "directly onto the same extended list of superhuman abilities this series has already "
+        "met."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Before his awakening, while still a bodhisattva, the Buddha developed and "
+            "cultivated the same five qualities as AN 5.67, and having done so, was capable of "
+            "realizing whatever he wished, since each and every ability was within range."]),
+        ("The identical formula, now first person", [
+            "Every word of the five qualities themselves &mdash; the four bases of psychic "
+            "power built from enthusiasm, energy, mental development, and inquiry, plus sheer "
+            "vigor as a fifth &mdash; matches AN 5.67 exactly. What changes entirely is the "
+            "grammatical person: <em>bhāvesiṁ</em>, I developed, replacing the general "
+            "<em>bhāveti</em>, one develops. A universal claim about any monk or nun becomes a "
+            "specific claim about the Buddha's own past."]),
+        ("A bodhisattva who needed the same five things", [
+            "This is a genuinely notable claim, worth sitting with rather than passing over: the "
+            "discourse does not present the Buddha's pre-awakening cultivation as categorically "
+            "different from what any mendicant might develop. He is described using the same "
+            "formula, requiring the same five qualities, as anyone else attempting this path "
+            "&mdash; not exempted from the causal structure by virtue of who he would become."]),
+        ("Opening onto the full abhiññā list, again", [
+            "Once the five qualities are established, the discourse moves into the extended "
+            "formula for superhuman abilities already given in full at "
+            "<a href=\"an-5.23.html\">AN 5.23</a> and, in even greater length, at the legacy "
+            "page <a href=\"an-5.28.html\">AN 5.28</a>: psychic power, clairaudience, reading "
+            "minds, recollecting past lives, clairvoyance, and the ending of defilements. This "
+            "discourse gives only the first and last of that list in full &mdash; multiplying "
+            "the self, and freedom of heart and wisdom &mdash; trusting the reader to recall the "
+            "complete formula from where it was already given twice."]),
+        ("Closing this chapter's fourth pair", [
+            "AN 5.67 and 5.68 complete the fourth of this chapter's matched pairs. AN 5.69 and "
+            "5.70, the final two discourses, will return to perception, giving the chapter's "
+            "fifth and last pair on the identical structural principle: one list, two "
+            "consequences named."]),
+    ],
+    terms=[
+        ("bodhisatta",
+         "&ldquo;one intent on awakening&rdquo; &mdash; the Buddha's own term for himself "
+         "before his awakening, used in this discourse's opening line."),
+        ("anabhisambuddho",
+         "&ldquo;not yet fully awakened&rdquo; &mdash; the qualifier marking this account as "
+         "specifically pre-awakening practice."),
+        ("bhāvesiṁ",
+         "&ldquo;I developed&rdquo; &mdash; the first-person verb replacing AN 5.67's general "
+         "third-person formula throughout this discourse."),
+        ("sakkhibhabbataṁ pāpuṇāti",
+         "&ldquo;becomes capable of realizing&rdquo; &mdash; the phrase marking the transition "
+         "from the five qualities to the extended abhiññā formula."),
+        ("cetovimutti paññāvimutti",
+         "&ldquo;freedom of heart, freedom by wisdom&rdquo; &mdash; the final ability named, "
+         "closing the abbreviated abhiññā list this discourse gives."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's first-person account of pre-awakening practice, "
+        "and the abilities it opened onto, given here in abbreviated form. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Before my awakening"),
+        ("p", "&sect;1", "an5.68:1.1-1.2"),
+        ("p", "&sect;2", "an5.68:1.3-1.7"),
+        ("p", "&sect;3", "an5.68:1.8-1.9"),
+        ("h3", "What became possible"),
+        ("p", "&sect;4", "an5.68:2.1-2.2"),
+        ("p", "&sect;5", "an5.68:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "Who is the speaker of this discourse, and what is distinctive about the framing?",
+         "opts": [
+             "A monk, addressing other monks generally",
+             "The Buddha, speaking in the first person about his own pre-awakening practice as a "
+             "bodhisattva",
+             "Venerable Nārada",
+             "An unnamed narrator describing events objectively"],
+         "correct": 1,
+         "expl": "A specific autobiographical claim, not general instruction."},
+        {"q": "How do the five qualities in this discourse compare to AN 5.67's?",
+         "opts": [
+             "Entirely different qualities",
+             "Identical — the same four iddhipāda plus vigor, with only the grammatical person "
+             "changed",
+             "Only three of the five match",
+             "This discourse names six qualities instead of five"],
+         "correct": 1,
+         "expl": "A universal third-person claim becomes a specific first-person one."},
+        {"q": "What does the guide find notable about how the Buddha describes his own "
+              "pre-awakening cultivation?",
+         "opts": [
+             "That it is presented as categorically superior to and different from any ordinary "
+             "mendicant's practice",
+             "That he is described using the same formula and the same five required qualities as "
+             "anyone else, not exempted from the causal structure",
+             "That the discourse claims he needed no effort at all",
+             "That the discourse denies he ever practiced these qualities"],
+         "correct": 1,
+         "expl": "Worth sitting with rather than passing over, per the guide's reading."},
+        {"q": "Where was the extended abhiññā formula this discourse opens onto already given in "
+              "full?",
+         "opts": [
+             "Nowhere before this page",
+             "AN 5.23 and, at greater length, the legacy page AN 5.28",
+             "Only in AN 5.67",
+             "Only in AN 4.163"],
+         "correct": 1,
+         "expl": "This discourse gives only the first and last items, trusting the reader to recall the rest."},
+        {"q": "Which two abilities does this discourse actually spell out from the full abhiññā "
+              "list?",
+         "opts": [
+             "Clairaudience and past-life recall",
+             "Multiplying the self, and freedom of heart and wisdom",
+             "Reading minds and clairvoyance",
+             "All six abilities in full"],
+         "correct": 1,
+         "expl": "The first and last of the extended list, with the rest left implicit."},
+        {"q": "What term does the Buddha use for himself before his awakening?",
+         "opts": [
+             "Arahant", "Bodhisatta, one intent on awakening", "Tathāgata", "Sekha"],
+         "correct": 1,
+         "expl": "A specific term marking his pre-awakening status."},
+        {"q": "What pair of chapter discourses does AN 5.67–68 complete?",
+         "opts": [
+             "The chapter's first pair",
+             "The fourth of this chapter's matched pairs",
+             "There is no larger pattern of pairs in this chapter",
+             "The chapter's only pair"],
+         "correct": 1,
+         "expl": "Following perceptions, growth, and discussion/shared-life as the first three."},
+        {"q": "What does AN 5.69, the next discourse, return to?",
+         "opts": [
+             "A repeat of the psychic-power material",
+             "Perception, giving the chapter's fifth and final matched pair",
+             "The five hindrances",
+             "The chapter simply ends after AN 5.68"],
+         "correct": 1,
+         "expl": "One list, two consequences, closing the chapter on the same structural principle."},
+        {"q": "Does this discourse claim the Buddha's pre-awakening practice differed in kind from "
+              "what AN 5.67 describes for any monk or nun?",
+         "opts": [
+             "Yes, an entirely different set of qualities",
+             "No — the identical five qualities and identical formula, only the grammatical "
+             "person changes",
+             "Yes, a shorter list",
+             "The discourse does not compare the two at all"],
+         "correct": 1,
+         "expl": "The same structural claim, now spoken in the first person about a specific past."},
+        {"q": "Where is AN 5.68 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Uruvelā, by the Nerañjarā"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Same five, first person", [
+            "AN 5.67: any monk, nun",
+            "AN 5.68: &ldquo;I developed&hellip;&rdquo;",
+        ]),
+        ("No exemption", [
+            "the bodhisattva,",
+            "same formula,",
+            "same five qualities",
+        ]),
+        ("The abhiññā, abbreviated", [
+            "multiplying the self &hellip;",
+            "&hellip; freedom of heart",
+            "&amp; wisdom",
+        ]),
+        ("Cross-references", [
+            "AN 5.67 &middot; the general teaching",
+            "AN 5.23 &amp; 5.28 &middot; the full abhiññā list",
+            "AN 5.69 &middot; next: perception, again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.68/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.67.html">AN 5.67 &middot; Bases of Psychic Power (1st)</a> &mdash; the '
+        "general teaching this discourse restates as the Buddha's own past practice.",
+        '<a href="an-5.23.html">AN 5.23 &middot; Corruptions</a> &mdash; where the full abhiññā '
+        "list this discourse abbreviates was given in complete form.",
+        '<a href="an-5.69.html">AN 5.69 &middot; Disillusionment</a> &mdash; next, the '
+        "chapter's fifth and closing matched pair, returning to perception.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.69 — Nibbidāsutta
+# --------------------------------------------------------------------------- #
+page(
+    69, "Nibbidā", "Disillusionment",
+    vagga=VAGGA_7,
+    meta_title="AN 5.69 — Disillusionment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nibbidāsutta — five of "
+        "this chapter's perceptions recombined into a single unified practice, leading through "
+        "a seven-term chain to disillusionment, awakening, and extinguishment. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A seven-term consequence named first, then five perceptions combined into a "
+                 "single practice rather than five separate contemplations"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Chains of consequence terms culminating in awakening and "
+                              "extinguishment recur widely across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; recombines this chapter's "
+                       "opening material into a single integrated practice"),
+    ],
+    why=(
+        "This discourse returns to the perceptions this chapter opened with at "
+        "<a href=\"an-5.61.html\">AN 5.61</a> and <a href=\"an-5.62.html\">AN 5.62</a>, but "
+        "does something neither of those did: it combines five of them, drawn from both earlier "
+        "lists, into what reads as a single continuous practice rather than five discrete "
+        "objects, and names not one outcome but a chain of seven, ending in "
+        "<em>nibbāna</em> itself."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who observes the body's ugliness, perceives food's repulsiveness, "
+            "perceives dissatisfaction with the whole world, observes the impermanence of all "
+            "conditions, and has well established the perception of their own death, develops "
+            "five things that lead solely to disillusionment, dispassion, cessation, peace, "
+            "insight, awakening, and extinguishment."]),
+        ("Five items, drawn from both earlier lists", [
+            "Ugliness and food's repulsiveness come from AN 5.61's list; world-dissatisfaction "
+            "is shared by both AN 5.61 and 5.62; impermanence comes from AN 5.62's list; and "
+            "death's perception appears, in slightly different phrasing, in both. This discourse "
+            "is not simply repeating either earlier list; it is drawing a new fifth combination "
+            "from the shared pool those two discourses established."]),
+        ("One practice, not five separate contemplations", [
+            "Where AN 5.61 and 5.62 each named five perceptions as parallel items in a set, this "
+            "discourse's grammar runs the five together as a description of a single mendicant's "
+            "ongoing practice &mdash; observing, perceiving, perceiving, observing, having "
+            "established, one continuous sentence covering all five. The difference in "
+            "presentation is worth noticing: a list to be selected from becomes, here, an "
+            "integrated way of meditating."]),
+        ("Seven terms, not one outcome", [
+            "<em>Ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya "
+            "nibbānāya</em>, disillusionment, dispassion, cessation, peace, insight, awakening, "
+            "extinguishment &mdash; seven terms strung together rather than one word standing in "
+            "for the whole result. This chain has appeared before in this series, at "
+            "<a href=\"an-1.296-305.html\">AN 1.296&ndash;305</a>'s ten objects of "
+            "recollection, applied there to a different set of practices; here it names the "
+            "consequence of this specific five-part combination."]),
+        ("A closing pair that differs only in outcome", [
+            "AN 5.70, the very next and final discourse of this chapter, will give this "
+            "identical five-part practice one more time, changing only what it is said to lead "
+            "to &mdash; not the seven-term chain, but simply <em>āsavānaṁ khayāya</em>, the "
+            "ending of defilements. The chapter's fifth and closing pair repeats a pattern this "
+            "chapter has used four times already: one practice, two consequences."]),
+    ],
+    terms=[
+        ("asubhānupassī",
+         "&ldquo;observing ugliness&rdquo; &mdash; the first item, drawn from AN 5.61's earlier "
+         "list."),
+        ("sabbasaṅkhāresu aniccānupassī",
+         "&ldquo;observing the impermanence of all conditions&rdquo; &mdash; the fourth item, "
+         "drawn from AN 5.62's list."),
+        ("maraṇasaññā sūpaṭṭhitā",
+         "&ldquo;the perception of death, well established&rdquo; &mdash; the fifth item, "
+         "phrased slightly differently from both AN 5.61 and 5.62's versions."),
+        ("ekantanibbidā",
+         "&ldquo;solely to disillusionment&rdquo; &mdash; the first term of the seven-part "
+         "chain, marking this discourse's outcome as unidirectional."),
+        ("nibbāna",
+         "&ldquo;extinguishment&rdquo; &mdash; the final and highest term in the seven-part "
+         "chain this discourse's practice leads to."),
+    ],
+    text_intro=(
+        "The discourse in full: the seven-term outcome named, then the five perceptions combined "
+        "into a single practice. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.69:1.1"),
+        ("h3", "The combined practice"),
+        ("p", "&sect;2", "an5.69:2.1-2.2"),
+        ("p", "&sect;3", "an5.69:2.3"),
+    ],
+    quiz=[
+        {"q": "What five items does this discourse combine into a single practice?",
+         "opts": [
+             "Faith, ethics, learning, generosity, and wisdom",
+             "Observing ugliness, perceiving food's repulsiveness, perceiving "
+             "world-dissatisfaction, observing impermanence, and the perception of death",
+             "The five hindrances",
+             "Long life, beauty, happiness, fame, and heaven"],
+         "correct": 1,
+         "expl": "A new combination drawn from AN 5.61 and 5.62's earlier lists."},
+        {"q": "How does this discourse's grammar present the five items, compared to AN 5.61 and "
+              "5.62?",
+         "opts": [
+             "Identically, as five parallel items in a set to select from",
+             "As one continuous sentence describing a single mendicant's integrated ongoing "
+             "practice, rather than five separate parallel items",
+             "As five entirely unrelated topics",
+             "In reverse order"],
+         "correct": 1,
+         "expl": "A list becomes, here, a description of one unified practice."},
+        {"q": "What seven-term chain does this discourse name as the outcome?",
+         "opts": [
+             "A single word, 'awakening'",
+             "Disillusionment, dispassion, cessation, peace, insight, awakening, and "
+             "extinguishment",
+             "The four noble truths",
+             "The five powers"],
+         "correct": 1,
+         "expl": "Seven terms strung together, not one word standing for the whole result."},
+        {"q": "Where has this same seven-term chain appeared before in this series?",
+         "opts": [
+             "Nowhere before this page",
+             "AN 1.296–305, applied there to the ten objects of recollection",
+             "Only in AN 5.61",
+             "Only in AN 4.163"],
+         "correct": 1,
+         "expl": "The identical chain, applied to a different set of practices earlier in the series."},
+        {"q": "What does AN 5.70, the final discourse of this chapter, change from this one?",
+         "opts": [
+             "Nothing; it repeats this discourse verbatim including the outcome",
+             "Only the stated outcome — from the seven-term chain to simply 'the ending of "
+             "defilements' — with the identical five-part practice",
+             "The five items themselves",
+             "It contradicts this discourse entirely"],
+         "correct": 1,
+         "expl": "The same practice, a different named consequence, completing the chapter's fifth pair."},
+        {"q": "Which two of the five items in this discourse come specifically from AN 5.62's "
+              "list rather than AN 5.61's?",
+         "opts": [
+             "Ugliness and food's repulsiveness",
+             "Impermanence, and world-dissatisfaction (shared by both)",
+             "Death and drawbacks",
+             "None; all five come from AN 5.61 alone"],
+         "correct": 1,
+         "expl": "A genuine mixing of both earlier lists, not a simple repeat of either."},
+        {"q": "What structural pattern does this discourse and AN 5.70 repeat, already used four "
+              "times in this chapter?",
+         "opts": [
+             "No repeated pattern exists",
+             "One practice or list, two different named consequences",
+             "Two entirely different practices with the same consequence",
+             "A three-part structure unique to this pair"],
+         "correct": 1,
+         "expl": "The chapter's fifth and final instance of its defining pairing structure."},
+        {"q": "What does 'ekantanibbidā' mean?",
+         "opts": [
+             "'Occasionally to disillusionment'",
+             "'Solely to disillusionment' — marking the outcome as unidirectional",
+             "'Never to disillusionment'",
+             "'Partially to disillusionment'"],
+         "correct": 1,
+         "expl": "The first term of the seven-part chain, emphasizing a single, unwavering direction."},
+        {"q": "Is 'nibbāna' the first or last term in this discourse's seven-part chain?",
+         "opts": [
+             "The first term", "The last and highest term", "It does not appear in the chain",
+             "It appears in the middle"],
+         "correct": 1,
+         "expl": "The chain's final and highest term."},
+        {"q": "Where is AN 5.69 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Pāṭaliputta"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five, recombined", [
+            "ugliness &middot; food",
+            "world-dissatisfaction",
+            "impermanence &middot; death",
+        ]),
+        ("One practice, not a set", [
+            "one continuous sentence,",
+            "not five parallel",
+            "items to select from",
+        ]),
+        ("Seven-term chain", [
+            "disillusionment &rarr; dispassion",
+            "&rarr; cessation &rarr; peace",
+            "&rarr; insight &rarr; awakening",
+            "&rarr; extinguishment",
+        ]),
+        ("Cross-references", [
+            "AN 5.61&ndash;62 &middot; the source lists",
+            "AN 1.296&ndash;305 &middot; the same chain, elsewhere",
+            "AN 5.70 &middot; next: same practice, one outcome",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.69/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.61.html">AN 5.61 &middot; Perceptions (1st)</a> &mdash; one of the two '
+        "earlier lists this discourse draws its five items from.",
+        '<a href="an-5.70.html">AN 5.70 &middot; The Ending of Defilements</a> &mdash; next, the '
+        "identical practice with a single different outcome, closing the chapter.",
+        '<a href="an-1.296-305.html">AN 1.296&ndash;305</a> &mdash; where this same seven-term '
+        "chain first appeared in this series, applied to a different set of practices.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.70 — Āsavakkhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    70, "Āsavakkhaya", "The Ending of Defilements",
+    vagga=VAGGA_7,
+    meta_title="AN 5.70 — The Ending of Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Āsavakkhayasutta, "
+        "closing this chapter — AN 5.69's identical five-part practice, now leading simply to "
+        "the ending of defilements rather than a seven-term chain. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.69's five-part practice restated word for word, with a single-term "
+                 "outcome replacing the seven-term chain, closing the chapter's own colophon"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The ending of defilements (āsavakkhaya) as the culmination of "
+                              "sustained contemplative practice is a standard formula across the "
+                              "Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; closes the chapter by "
+                       "compressing AN 5.69's seven-term chain into its single practical core"),
+    ],
+    why=(
+        "This chapter's final discourse takes AN 5.69's five-part practice &mdash; word for "
+        "word identical, down to the last phrase &mdash; and names a single outcome in place of "
+        "the seven-term chain: <em>āsavānaṁ khayāya</em>, the ending of defilements. Where AN "
+        "5.69 traced the full arc from disillusionment to extinguishment, this discourse names "
+        "only the arc's practical, functional endpoint."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who observes the body's ugliness, perceives food's repulsiveness, "
+            "perceives dissatisfaction with the whole world, observes the impermanence of all "
+            "conditions, and has well established the perception of their own death, develops "
+            "five things that lead to the ending of defilements."]),
+        ("One outcome standing in for seven", [
+            "<em>Āsavakkhaya</em>, the ending of defilements, is not a different result from AN "
+            "5.69's seven-term chain; it is, in effect, that entire chain's practical shorthand "
+            "&mdash; the state that disillusionment, dispassion, cessation, peace, insight, "
+            "awakening, and extinguishment collectively describe, named here by its single most "
+            "concrete, functional term."]),
+        ("Why give the same practice two different labels", [
+            "Read together, AN 5.69 and 5.70 make the same point two ways: a rich, sevenfold "
+            "description of what this practice culminates in, and a single, practical name for "
+            "the same culmination. Neither discourse is more correct than the other; a reader "
+            "who wants the full arc has AN 5.69, and a reader who wants the compressed, "
+            "actionable term has this discourse."]),
+        ("Five discourses, five variations on repetition", [
+            "This chapter closes having used the same underlying device five separate times: "
+            "perceptions with two overlapping lists (61&ndash;62), growth for two genders "
+            "(63&ndash;64), fitness for two social functions (65&ndash;66), the bases of "
+            "psychic power for two speakers (67&ndash;68), and now a single practice with two "
+            "named outcomes (69&ndash;70). No two pairs vary in quite the same way, which is "
+            "worth appreciating as the chapter's real accomplishment: repetition used five "
+            "different times to make five genuinely different points."]),
+        ("The chapter's own closing colophon", [
+            "As at the close of every earlier chapter, the source appends "
+            "<em>Saññāvaggo dutiyo</em> &mdash; the second chapter, on perceptions, within the "
+            "restarting count &mdash; followed by the chapter's own untranslated uddāna verse. "
+            "The next chapter, Yodhājīvavagga, turns to warriors."]),
+    ],
+    terms=[
+        ("āsavakkhaya",
+         "&ldquo;ending of defilements&rdquo; &mdash; this discourse's title and single-term "
+         "outcome, the practical shorthand for AN 5.69's seven-term chain."),
+        ("āsava",
+         "&ldquo;defilement, taint, corruption&rdquo; &mdash; the underlying term, referring to "
+         "the deep-seated impurities whose ending marks full liberation."),
+        ("asubhānupassī",
+         "&ldquo;observing ugliness&rdquo; &mdash; the first of the five practices, identical to "
+         "AN 5.69's wording."),
+        ("maraṇasaññā sūpaṭṭhitā",
+         "&ldquo;the perception of death, well established&rdquo; &mdash; the fifth practice, "
+         "worded identically to AN 5.69."),
+        ("Saññāvaggo dutiyo",
+         "&ldquo;the second chapter, on perceptions&rdquo; &mdash; this vagga's closing "
+         "colophon, matching the form already explained in full at AN 5.10."),
+    ],
+    text_intro=(
+        "The discourse in full: the same five-part practice as AN 5.69, now leading to the "
+        "ending of defilements. The chapter's closing colophon and Pāli mnemonic verse are part "
+        "of the source but are not translated text, and are described rather than reproduced "
+        "here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.70:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's five-part practice compare to AN 5.69's?",
+         "opts": [
+             "Entirely different practices",
+             "Word for word identical",
+             "Similar but with two items changed",
+             "This discourse gives only three of the five items"],
+         "correct": 1,
+         "expl": "The identical practice, down to the last phrase."},
+        {"q": "What single outcome does this discourse name in place of AN 5.69's seven-term "
+              "chain?",
+         "opts": [
+             "Wealth and prosperity",
+             "Āsavakkhaya, the ending of defilements",
+             "Rebirth as a god",
+             "Fame in this life"],
+         "correct": 1,
+         "expl": "A practical shorthand for the same culmination the seven-term chain describes."},
+        {"q": "How does the guide characterize the relationship between AN 5.69's seven-term "
+              "chain and this discourse's single term?",
+         "opts": [
+             "As two contradictory claims about different outcomes",
+             "As the same culmination described two ways — a rich sevenfold arc and its "
+             "compressed, functional shorthand",
+             "As entirely unrelated results",
+             "As AN 5.70 correcting an error in AN 5.69"],
+         "correct": 1,
+         "expl": "Neither discourse is more correct; they serve different purposes."},
+        {"q": "How does the guide summarize this chapter's overall use of paired, near-duplicate "
+              "discourses?",
+         "opts": [
+             "As a lazy, uncreative repetition of the same content five times",
+             "As the same underlying device used five separate times, with no two pairs varying "
+             "in quite the same way",
+             "As an error in the text's transmission",
+             "As unrelated to any pattern"],
+         "correct": 1,
+         "expl": "Five genuinely different points made through five differently structured pairs."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Saññāvaggo dutiyo, followed by the chapter's own untranslated uddāna verse",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.60, repeated verbatim"],
+         "correct": 1,
+         "expl": "Matching the structure already explained in full at AN 5.10."},
+        {"q": "What chapter follows the Saññāvagga?",
+         "opts": [
+             "A return to the Muṇḍarājavagga",
+             "The Yodhājīvavagga, turning to warriors",
+             "The end of the entire nipāta",
+             "A repeat of the Nīvaraṇavagga"],
+         "correct": 1,
+         "expl": "The next chapter in sequence, per this discourse's guide."},
+        {"q": "What does 'āsava' refer to?",
+         "opts": [
+             "A type of meditation posture",
+             "Defilement, taint — deep-seated impurities whose ending marks full liberation",
+             "A monastic robe",
+             "A specific meal offering"],
+         "correct": 1,
+         "expl": "The underlying term behind this discourse's title, āsavakkhaya."},
+        {"q": "How many discourses in this chapter used the same underlying pairing device, "
+              "counting AN 5.69–70?",
+         "opts": [
+             "Only this one pair",
+             "Five pairs total across the whole chapter",
+             "Three pairs",
+             "The chapter has no such pairs"],
+         "correct": 1,
+         "expl": "Perceptions, growth, discussion/shared-life, psychic power, and now practice/outcome."},
+        {"q": "Are the five practices in this discourse newly defined, or inherited from AN 5.69?",
+         "opts": [
+             "Newly defined here in full",
+             "Inherited unchanged from AN 5.69",
+             "Only three of the five are repeated",
+             "A different five items entirely"],
+         "correct": 1,
+         "expl": "Word for word identical to the previous discourse."},
+        {"q": "Where is AN 5.70 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Same practice", [
+            "identical to AN 5.69,",
+            "word for word",
+        ]),
+        ("One outcome named", [
+            "<span class=\"pali\">āsavakkhaya</span>",
+            "&mdash; ending of",
+            "defilements",
+        ]),
+        ("Five pairs, five points", [
+            "perceptions &middot; growth",
+            "discussion/life &middot; power",
+            "practice/outcome",
+        ]),
+        ("Cross-references", [
+            "AN 5.69 &middot; the seven-term version",
+            "AN 5.10 &middot; the colophon, explained",
+            "AN 5.71 &middot; next: Yodhājīvavagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.70/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.69.html">AN 5.69 &middot; Disillusionment</a> &mdash; the previous '
+        "discourse, this one's word-for-word companion.",
+        '<a href="an-5.61.html">AN 5.61 &middot; Perceptions (1st)</a> &mdash; where this '
+        "chapter opened, on the source material this closing pair recombines.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this same '
+        "chapter-closing colophon structure was first explained in full.",
+    ],
+)
