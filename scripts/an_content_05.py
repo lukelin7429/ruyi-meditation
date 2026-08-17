@@ -21092,3 +21092,1972 @@ page(
         "influence.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.101 — Sārajjasutta
+# --------------------------------------------------------------------------- #
+VAGGA_11 = "<em>Phāsuvihāravagga</em> &mdash; the eleventh chapter of the Fives"
+
+page(
+    101, "Sārajja", "Assurance",
+    vagga=VAGGA_11,
+    meta_title="AN 5.101 — Assurance | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sārajjasutta, "
+        "opening the Phāsuvihāravagga — a third variant of the recurring five-quality pentad, "
+        "each item explained by the insecurity its presence removes. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "five qualities, each explained by an identical contrast formula naming the "
+                 "insecurity it removes"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, with one recurring "
+                       "logical move to notice"),
+    ],
+    why=(
+        "Phāsuvihāravagga opens not with the ease of jhāna or liberation, but with a more "
+        "ordinary kind of comfort: the absence of self-consciousness. Five qualities are named "
+        "&mdash; faith, ethics, learning, energy, and wisdom &mdash; and each is explained not "
+        "by what it produces, but by the specific insecurity its presence removes."),
+    guide=[
+        ("A new chapter, and a different kind of ease", [
+            "Phāsuvihāravagga takes its name from &lsquo;living comfortably&rsquo;, but this "
+            "opening discourse addresses a more everyday form of comfort than the jhāna-based "
+            "ease named later in this chapter: simple freedom from insecurity in front of "
+            "one's spiritual companions."]),
+        ("A third variant of the five-quality pentad", [
+            "Compare this discourse's list directly to two earlier five-quality lists in this "
+            "nipāta: AN 5.1's sekhabala (faith, conscience, prudence, energy, wisdom) and AN "
+            "5.91's saddhā/sīla/suta/cāga/paññā (faith, ethics, learning, generosity, wisdom). "
+            "This discourse's list &mdash; faith, ethics, learning, energy, wisdom &mdash; is a "
+            "third distinct combination, sharing faith and wisdom with both earlier lists but "
+            "assembling ethics, learning, and energy in a way neither did."]),
+        ("Sārajja, the quality being removed", [
+            "<em>Sārajja</em> names insecurity, nervousness, or self-consciousness &mdash; not "
+            "a moral failing exactly, but a kind of inward unease. Each of the five positive "
+            "qualities is explained by what it removes, not by what it directly achieves."]),
+        ("One formula, five applications", [
+            "Every item follows an identical template: the insecurity that belongs to lacking "
+            "quality X does not belong to one who has X. Faith removes the faithless person's "
+            "insecurity; ethics removes the unethical person's; and so through learning, "
+            "energy, and wisdom &mdash; five parallel applications of the same logical move."]),
+        ("What comes next", [
+            "AN 5.102 turns to something quite different: five circumstances, unrelated to "
+            "actual misconduct, that can still cause a genuinely blameless monk to be "
+            "suspected."]),
+    ],
+    terms=[
+        ("sārajja",
+         "&ldquo;insecurity, nervousness&rdquo; &mdash; the absence this discourse's five "
+         "qualities are said to produce."),
+        ("sekhavesārajjakaraṇā dhammā",
+         "&ldquo;things that make a trainee self-assured&rdquo; &mdash; this discourse's title "
+         "concept."),
+        ("saddho / assaddha",
+         "faithful / faithless &mdash; the first pairing in this discourse's contrast "
+         "formula."),
+        ("bahussuto / appassuta",
+         "learned / of little learning &mdash; the third pairing."),
+        ("āraddhavīriyo / kusīta",
+         "energetic / lazy &mdash; the fourth pairing."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities, each explained by the insecurity it removes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities, and the insecurity each removes"),
+        ("p", "&sect;1", "an5.101:1.1-6.3"),
+    ],
+    quiz=[
+        {"q": "What Pali term names the 'insecurity' this discourse's five qualities remove?",
+         "opts": [
+             "Sārajja",
+             "Nīvaraṇa",
+             "Sikkhā",
+             "Sampadā"],
+         "correct": 0,
+         "expl": "The discourse's title concept."},
+        {"q": "What five qualities are named?",
+         "opts": [
+             "Faith, ethics, learning, energy, wisdom",
+             "Faith, conscience, prudence, energy, wisdom",
+             "Faith, ethics, learning, generosity, wisdom",
+             "Ethics, immersion, wisdom, freedom, knowledge-and-vision of freedom"],
+         "correct": 0,
+         "expl": "A third distinct combination, compared to AN 5.1 and AN 5.91's lists."},
+        {"q": "How does this list compare to AN 5.1's sekhabala pentad?",
+         "opts": [
+             "Identical",
+             "Shares faith and wisdom, but swaps conscience/prudence for ethics/learning",
+             "Shares nothing at all",
+             "Shares only generosity"],
+         "correct": 1,
+         "expl": "A distinct assembly of the same general terrain."},
+        {"q": "How does it compare to AN 5.91's pentad?",
+         "opts": [
+             "Identical",
+             "Shares faith, ethics, and wisdom, but replaces generosity with energy",
+             "Shares nothing at all",
+             "Shares only ethics"],
+         "correct": 1,
+         "expl": "Another distinct combination of overlapping terms."},
+        {"q": "What structural template does each of the five items follow?",
+         "opts": [
+             "A narrative example",
+             "The insecurity of lacking quality X does not belong to one who has X",
+             "A numbered ranking of severity",
+             "A dialogue with a named questioner"],
+         "correct": 1,
+         "expl": "An identical contrast formula, repeated five times."},
+        {"q": "What is the first quality, and its corresponding lack?",
+         "opts": [
+             "Wisdom / witlessness",
+             "Faith / faithlessness",
+             "Energy / laziness",
+             "Ethics / unethical conduct"],
+         "correct": 1,
+         "expl": "Saddho / assaddha opens the list."},
+        {"q": "What is the last quality, and its corresponding lack?",
+         "opts": [
+             "Faith / faithlessness",
+             "Ethics / unethical conduct",
+             "Wisdom / witlessness",
+             "Learning / little learning"],
+         "correct": 2,
+         "expl": "Paññavā / duppañña closes the list."},
+        {"q": "Is any of the five qualities explained by what it produces, rather than what insecurity it removes?",
+         "opts": [
+             "Yes, all five are explained by their positive effects",
+             "No — all five are explained only by the insecurity they remove",
+             "Only the first is explained differently",
+             "The discourse gives no explanation at all"],
+         "correct": 1,
+         "expl": "A consistent contrast-formula structure throughout."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Kakudhavagga",
+             "Phāsuvihāravagga",
+             "Theravagga",
+             "Yodhājīvavagga"],
+         "correct": 1,
+         "expl": "The eleventh chapter of the Fives."},
+        {"q": "What does AN 5.102 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Five circumstances that can cause a blameless monk to be suspected",
+             "The master thief simile",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "Reputational risk, unrelated to actual misconduct."},
+    ],
+    marginalia=[
+        ("Five qualities, one contrast formula", [
+            "the insecurity of lacking X",
+            "does not belong to",
+            "one who has X",
+        ]),
+        ("A third variant pentad", [
+            "compare AN 5.1's",
+            "and AN 5.91's",
+            "different five-item lists",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sārajja</span>",
+            "&mdash; insecurity,",
+            "self-consciousness",
+        ]),
+        ("Cross-references", [
+            "AN 5.1 &middot; the sekhabala pentad",
+            "AN 5.91 &middot; a second earlier variant",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.101/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.1.html">AN 5.1 &middot; In Brief</a> &mdash; the sekhabala pentad, a '
+        "different combination of overlapping terms.",
+        '<a href="an-5.91.html">AN 5.91 &middot; Accomplishments (1st)</a> &mdash; a second, '
+        "different earlier variant.",
+        '<a href="an-5.102.html">AN 5.102 &middot; Suspected</a> &mdash; next: reputational '
+        "risk, unrelated to actual conduct.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.102 — Ussaṅkitasutta
+# --------------------------------------------------------------------------- #
+page(
+    102, "Ussaṅkita", "Suspected",
+    vagga=VAGGA_11,
+    meta_title="AN 5.102 — Suspected | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ussaṅkitasutta — "
+        "five circumstantial reasons a genuinely blameless monk might still be suspected of "
+        "misconduct, regardless of actual guilt. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, with no elaboration beyond naming each "
+                 "circumstance"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, and about "
+                       "appearances rather than actual wrongdoing"),
+    ],
+    why=(
+        "A striking framing: even a monk who is genuinely blameless can still become the "
+        "object of suspicion, for five specific circumstantial reasons that concern where he "
+        "resorts for alms &mdash; a discourse about reputational risk and social optics, not "
+        "about the moral status of anyone he might visit."),
+    guide=[
+        ("A discourse about appearances, not actual misconduct", [
+            "The opening framing is explicit: even a monk of &lsquo;impeccable "
+            "character&rsquo;, genuinely incorruptible (<em>akuppadhamma</em>), can still be "
+            "suspected and distrusted as a &lsquo;bad monk&rsquo; for five reasons that this "
+            "discourse never claims constitute actual wrongdoing."]),
+        ("The five circumstances", [
+            "Resorting for alms specifically to households or persons associated with "
+            "prostitutes, widows, &lsquo;voluptuous girls&rsquo; (young unmarried women "
+            "regarded, in the text's own social framing, as especially exposed), eunuchs, or "
+            "nuns."]),
+        ("Why these five specifically", [
+            "Each names a context where an unattached woman, or a person outside the ordinary "
+            "protection of a standard householder family, is present without the usual social "
+            "buffer &mdash; making a monk's regular, unaccompanied presence there a source of "
+            "gossip regardless of his actual conduct."]),
+        ("Read plainly, without further moralizing", [
+            "This reading guide states directly that the discourse is about social optics and "
+            "reputational risk management, not about the moral status of prostitutes, widows, "
+            "or nuns themselves. Its concern is that appearances alone can generate suspicion "
+            "independent of guilt, and it advises caution about exactly that."]),
+        ("A brief, unelaborated list", [
+            "Among the shortest discourses in this chapter: a single list, with no explanation "
+            "of any item beyond simply naming it."]),
+        ("What comes next", [
+            "AN 5.103 develops a much longer, extended simile &mdash; the master thief, mapped "
+            "in careful detail onto a genuinely corrupt mendicant."]),
+    ],
+    terms=[
+        ("ussaṅkitaparisaṅkito",
+         "&ldquo;suspected and distrusted&rdquo; &mdash; this discourse's central risk."),
+        ("akuppadhamma",
+         "&ldquo;of unshakable, incorruptible character&rdquo; &mdash; the genuinely "
+         "blameless monk this discourse describes."),
+        ("pāpabhikkhu",
+         "&ldquo;a bad monk&rdquo; &mdash; the reputational label at risk here, regardless of "
+         "actual conduct."),
+        ("thullakumārikā",
+         "an unmarried young woman regarded, in the text's own social framing, as "
+         "particularly exposed."),
+        ("gocara",
+         "&ldquo;resort, habitual haunt&rdquo; &mdash; the shared structure of all five "
+         "circumstances named."),
+    ],
+    text_intro=(
+        "The discourse in full: five circumstances that can generate suspicion regardless of "
+        "actual conduct. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five reasons for suspicion"),
+        ("p", "&sect;1", "an5.102:1.1-3.1"),
+    ],
+    quiz=[
+        {"q": "What is distinctive about the monk described at the start of this discourse?",
+         "opts": [
+             "He has committed a specific offense",
+             "He is genuinely blameless, of impeccable character",
+             "He is newly ordained",
+             "He is a senior mendicant"],
+         "correct": 1,
+         "expl": "Akuppadhamma — genuinely incorruptible, yet still at risk of suspicion."},
+        {"q": "What five circumstances can still generate suspicion, regardless of actual conduct?",
+         "opts": [
+             "Resorting for alms to households associated with prostitutes, widows, voluptuous girls, eunuchs, or nuns",
+             "Living in the wilderness",
+             "Teaching too frequently",
+             "Owning too many robes"],
+         "correct": 0,
+         "expl": "Five specific alms-resort circumstances."},
+        {"q": "What does 'akuppadhamma' mean?",
+         "opts": [
+             "Newly ordained",
+             "Of unshakable, incorruptible character",
+             "A wilderness-dweller",
+             "A senior mendicant"],
+         "correct": 1,
+         "expl": "Genuinely blameless in fact."},
+        {"q": "Is this discourse claiming any of the five circumstances constitutes actual misconduct?",
+         "opts": [
+             "Yes, all five are named as offenses",
+             "No — the discourse is about suspicion arising despite genuine blamelessness",
+             "Only the first is named as misconduct",
+             "The discourse does not address this question"],
+         "correct": 1,
+         "expl": "Explicitly framed around a monk of impeccable character."},
+        {"q": "What do all five named circumstances have in common, structurally?",
+         "opts": [
+             "They all involve monetary transactions",
+             "They all involve resorting for alms to a person or household outside ordinary family protection",
+             "They all involve senior mendicants specifically",
+             "They all involve travel to distant regions"],
+         "correct": 1,
+         "expl": "A shared social pattern, not five unrelated items."},
+        {"q": "What does 'thullakumārikā' refer to?",
+         "opts": [
+             "An unmarried young woman regarded as particularly exposed",
+             "A senior nun",
+             "A married householder",
+             "A lay donor of wealth"],
+         "correct": 0,
+         "expl": "One of the five named circumstances."},
+        {"q": "What is the discourse's central subject — actual wrongdoing, or reputational risk?",
+         "opts": [
+             "Actual wrongdoing",
+             "Reputational risk and social optics",
+             "Formal disciplinary procedure",
+             "Doctrinal error"],
+         "correct": 1,
+         "expl": "Appearances, independent of guilt."},
+        {"q": "How long is this discourse, relative to others in this chapter?",
+         "opts": [
+             "One of the longest",
+             "Among the shortest, a bare list with minimal elaboration",
+             "Exactly average length",
+             "The longest in the entire nipāta"],
+         "correct": 1,
+         "expl": "Brief, with no explanation beyond naming each circumstance."},
+        {"q": "What does 'pāpabhikkhu' mean?",
+         "opts": [
+             "A senior mendicant",
+             "A bad monk",
+             "A wilderness-dweller",
+             "A trainee"],
+         "correct": 1,
+         "expl": "The reputational label at risk in this discourse."},
+        {"q": "What does AN 5.103 develop next, at much greater length?",
+         "opts": [
+             "A colophon closing the chapter",
+             "The master thief simile, mapped onto a genuinely corrupt mendicant",
+             "A dialogue with Ānanda",
+             "The lion simile"],
+         "correct": 1,
+         "expl": "An extended, detailed figurative discourse."},
+    ],
+    marginalia=[
+        ("Blameless, yet suspected", [
+            "akuppadhamma —",
+            "genuinely incorruptible,",
+            "still at risk",
+        ]),
+        ("Appearances, not guilt", [
+            "five circumstances,",
+            "none named as",
+            "actual misconduct",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">gocara</span>",
+            "&mdash; resort,",
+            "habitual haunt",
+        ]),
+        ("Cross-references", [
+            "AN 5.101 &middot; the previous discourse",
+            "AN 5.103 &middot; next: a much longer extended simile",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.102/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.101.html">AN 5.101 &middot; Assurance</a> &mdash; the previous '
+        "discourse, a different five-item list.",
+        '<a href="an-5.103.html">AN 5.103 &middot; A Master Thief</a> &mdash; next: an '
+        "extended simile developing a related concern in detail.",
+        '<a href="an-5.80.html">AN 5.80 &middot; Future Perils (4th)</a> &mdash; earlier '
+        "material on improper mixing and its consequences.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.103 — Mahācorasutta
+# --------------------------------------------------------------------------- #
+page(
+    103, "Mahācora", "A Master Thief",
+    vagga=VAGGA_11,
+    meta_title="AN 5.103 — A Master Thief | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mahācorasutta — a "
+        "master thief's five tactics mapped in detail onto a corrupt mendicant's exploitation "
+        "of monastic status for personal cover. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an extended simile — five factors of a literal master thief, explained in "
+                 "turn, then mapped onto a corrupt mendicant"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a dark, unusually direct "
+                       "extended simile"),
+    ],
+    why=(
+        "A second extended simile in this nipāta, and its darkest: the literal tactics of a "
+        "master thief &mdash; rough terrain, thick cover, powerful patrons, bribes, and "
+        "working alone &mdash; mapped factor by factor onto a corrupt mendicant who exploits "
+        "monastic status the same way a thief exploits terrain and connections."),
+    guide=[
+        ("The literal master thief's five factors", [
+            "A master thief relies on inaccessible or rugged terrain, relies on thick natural "
+            "cover, relies on powerful patrons &mdash; rulers or chief ministers &mdash; for "
+            "protection if accused, pays bribes to settle any accusation, and works entirely "
+            "alone so that &lsquo;secret plans are not leaked to others&rsquo;."]),
+        ("The mapping, factor by factor", [
+            "&lsquo;Rough ground&rsquo; becomes unethical conduct in body, speech, and mind "
+            "&mdash; a terrain that shelters wrongdoing. &lsquo;Thick cover&rsquo; becomes "
+            "wrong view, specifically an &lsquo;extremist view&rsquo; that provides ideological "
+            "cover. &lsquo;The powerful&rsquo; becomes, quite literally, relying on actual "
+            "rulers and ministers for protection if accused. &lsquo;Bribes&rsquo; becomes using "
+            "the material support a monk receives &mdash; robes, food, lodging, medicine "
+            "&mdash; specifically to buy off an accuser's silence. &lsquo;Acting alone&rsquo; "
+            "becomes dwelling deliberately in the borderlands to extract material support from "
+            "families without oversight."]),
+        ("Where the mapping is literal, not merely figurative", [
+            "The third factor deserves particular notice: a corrupt mendicant relying on "
+            "political protection isn't a metaphor for the thief's reliance on the powerful "
+            "&mdash; it's structurally the same thing, described in the same terms, making "
+            "this simile unusually direct compared to most figurative discourses in this "
+            "collection."]),
+        ("The verdict, stated plainly", [
+            "Such a mendicant &lsquo;keeps themselves broken and damaged&rsquo;, deserves "
+            "blame from sensible people, and generates much wickedness &mdash; strong, direct "
+            "language closing the simile without qualification."]),
+        ("This nipāta's fourth extended simile", [
+            "Alongside the fortress (AN 5.71&ndash;72), the graded warriors (AN 5.75&ndash;76), "
+            "and the lion (AN 5.99), the master thief is this nipāta's fourth extended "
+            "figurative discourse &mdash; and its darkest, using crime rather than combat or "
+            "nature to make its point."]),
+    ],
+    terms=[
+        ("mahācora",
+         "&ldquo;a master thief&rdquo; &mdash; this discourse's central figure."),
+        ("visamanissita",
+         "&ldquo;relying on rough, uneven ground&rdquo; &mdash; mapped onto unethical conduct."),
+        ("gahananissita",
+         "&ldquo;relying on thick cover&rdquo; &mdash; mapped onto wrong, extremist view."),
+        ("bhogacāgī",
+         "&ldquo;paying bribes&rdquo; &mdash; mapped onto using received material support to "
+         "buy silence."),
+        ("ekacārī",
+         "&ldquo;acting alone&rdquo; &mdash; mapped onto isolated borderland dwelling for "
+         "unsupervised material gain."),
+    ],
+    text_intro=(
+        "The discourse in full: the master thief's five factors explained, then mapped onto a "
+        "corrupt mendicant's five parallel factors. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The master thief's five factors"),
+        ("p", "&sect;1", "an5.103:1.1-1.3"),
+        ("h3", "Rough ground, and thick cover"),
+        ("p", "&sect;2", "an5.103:2.1-3.3"),
+        ("h3", "The powerful, and bribes"),
+        ("p", "&sect;3", "an5.103:4.1-5.6"),
+        ("h3", "Acting alone"),
+        ("p", "&sect;4", "an5.103:6.1-7.1"),
+        ("h3", "The bad mendicant, mapped"),
+        ("p", "&sect;5", "an5.103:8.1-8.3"),
+        ("h3", "Rough ground: unethical conduct"),
+        ("p", "&sect;6", "an5.103:9.1-9.3"),
+        ("h3", "Thick cover: extremist view"),
+        ("p", "&sect;7", "an5.103:10.1-10.3"),
+        ("h3", "The powerful, and bribes, once more"),
+        ("p", "&sect;8", "an5.103:11.1-12.6"),
+        ("h3", "Acting alone, in the borderlands"),
+        ("p", "&sect;9", "an5.103:13.1-14.1"),
+    ],
+    quiz=[
+        {"q": "What are the master thief's five factors, in order?",
+         "opts": [
+             "Rough ground, thick cover, the powerful, bribes, acting alone",
+             "Speed, stealth, strength, cunning, luck",
+             "Weapons, disguise, timing, escape routes, informants",
+             "Wealth, fame, family, allies, weapons"],
+         "correct": 0,
+         "expl": "The five factors this discourse maps onto a corrupt mendicant."},
+        {"q": "What does the master thief mean by 'relying on rough ground'?",
+         "opts": [
+             "Relying on inaccessible riverlands or rugged mountains",
+             "Relying on open plains",
+             "Relying on city streets",
+             "Relying on farmland"],
+         "correct": 0,
+         "expl": "Difficult terrain that shelters the thief's activity."},
+        {"q": "What does 'relying on thick cover' mean for the literal thief?",
+         "opts": [
+             "Relying on thick grass, trees, or a large forest grove",
+             "Relying on disguises",
+             "Relying on darkness alone",
+             "Relying on a network of informants"],
+         "correct": 0,
+         "expl": "Natural concealment."},
+        {"q": "How does the thief 'rely on the powerful'?",
+         "opts": [
+             "By hiring bodyguards",
+             "By relying on rulers or their chief ministers for protection if accused",
+             "By bribing local farmers",
+             "By working with other thieves"],
+         "correct": 1,
+         "expl": "Political protection against accusation."},
+        {"q": "What does the bad mendicant's version of 'rough ground' correspond to?",
+         "opts": [
+             "Living in remote wilderness",
+             "Unethical conduct in body, speech, and mind",
+             "Physical illness",
+             "Poor almsfood"],
+         "correct": 1,
+         "expl": "A terrain that shelters wrongdoing, mapped onto conduct."},
+        {"q": "What does the bad mendicant's version of 'thick cover' correspond to?",
+         "opts": [
+             "Wrong, extremist view",
+             "A large monastic following",
+             "Excessive study",
+             "Wealth"],
+         "correct": 0,
+         "expl": "Ideological cover, parallel to natural concealment."},
+        {"q": "Is the bad mendicant's reliance on 'the powerful' a metaphor, or literally the same thing as the thief's?",
+         "opts": [
+             "Purely metaphorical",
+             "Literally the same thing — actual reliance on rulers and ministers",
+             "Unrelated to the thief's version",
+             "The discourse does not specify"],
+         "correct": 1,
+         "expl": "One of the mapping's most direct, unmetaphorical points."},
+        {"q": "What does 'paying bribes' correspond to for the bad mendicant?",
+         "opts": [
+             "Using received material support to buy off an accuser's silence",
+             "Giving away all possessions",
+             "Formal monastic fines",
+             "Paying for ordination"],
+         "correct": 0,
+         "expl": "Robes, food, lodging, and medicine used to settle accusations."},
+        {"q": "What does 'acting alone' correspond to for the bad mendicant?",
+         "opts": [
+             "Meditating in solitude",
+             "Dwelling alone in the borderlands to extract material gain without oversight",
+             "Refusing to teach",
+             "Avoiding all monastic duties"],
+         "correct": 1,
+         "expl": "Isolation used for unsupervised material extraction, not spiritual solitude."},
+        {"q": "What verdict does the discourse give for a mendicant with these five qualities?",
+         "opts": [
+             "A minor, easily corrected fault",
+             "Keeping themselves broken and damaged, deserving blame, generating much wickedness",
+             "No verdict is given",
+             "A path to eventual liberation despite the conduct"],
+         "correct": 1,
+         "expl": "Strong, unqualified condemnation closing the simile."},
+    ],
+    marginalia=[
+        ("Five tactics, one dark mapping", [
+            "rough ground &middot;",
+            "thick cover &middot; power",
+            "&middot; bribes &middot; alone",
+        ]),
+        ("A literal, not figurative, parallel", [
+            "reliance on rulers —",
+            "the same thing,",
+            "not a metaphor",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">gahananissita</span>",
+            "&mdash; relying on",
+            "thick cover",
+        ]),
+        ("Cross-references", [
+            "AN 5.71&ndash;72 &middot; the fortress simile",
+            "AN 5.75&ndash;76 &middot; the warrior simile",
+            "AN 5.99 &middot; the lion simile",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.103/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.102.html">AN 5.102 &middot; Suspected</a> &mdash; the previous '
+        "discourse, a related but much briefer concern.",
+        '<a href="an-5.104.html">AN 5.104 &middot; A Delicate Ascetic of Ascetics</a> '
+        "&mdash; next: a strikingly different, positive portrait.",
+        '<a href="an-5.99.html">AN 5.99 &middot; The Lion</a> &mdash; this '
+        "nip&#257;ta&rsquo;s other extended simile discourse, a positive counterpart.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.104 — Samaṇasukhumālasutta
+# --------------------------------------------------------------------------- #
+page(
+    104, "Samaṇasukhumāla", "A Delicate Ascetic of Ascetics",
+    vagga=VAGGA_11,
+    meta_title="AN 5.104 — A Delicate Ascetic of Ascetics | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Samaṇasukhumālasutta "
+        "— five qualities of genuine ease, redefining a term for pampered delicacy, with the "
+        "Buddha claiming the title for himself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a five-item list, then the same five qualities restated in the Buddha's own "
+                 "voice"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a striking, paradoxical "
+                       "title, worth appreciating for its wordplay"),
+    ],
+    why=(
+        "A paradoxical, approvingly claimed title: <em>sukhumāla</em> ordinarily describes a "
+        "pampered, delicate person unused to hardship, often used for aristocrats raised in "
+        "luxury. This discourse instead claims it for someone whose ease comes from genuine "
+        "spiritual accomplishment &mdash; and the Buddha states plainly that he is its truest "
+        "referent."),
+    guide=[
+        ("A paradoxical title, claimed proudly", [
+            "&lsquo;Sukhumāla&rsquo; ordinarily names a pampered, delicate person, someone "
+            "unused to hardship &mdash; often used, sometimes with mild disapproval, for "
+            "aristocrats raised in luxury. This discourse uses the term approvingly instead, "
+            "and the Buddha explicitly claims it for himself."]),
+        ("Five qualities defining genuine ease", [
+            "Accepting only what is specifically offered rather than actively seeking "
+            "material support; being treated agreeably by companions in body, speech, and "
+            "mind; enjoying good health, rarely troubled by the traditional causes of "
+            "unpleasant bodily sensation &mdash; the same bile, phlegm, and wind imbalances "
+            "seen at AN 5.77, alongside weather, self-neglect, overexertion, and karmic result; "
+            "attaining the four absorptions effortlessly; and full liberation."]),
+        ("Ease as the result of the path, not its opposite", [
+            "The discourse's real claim: what looks like &lsquo;delicacy&rsquo; or ease in a "
+            "spiritually accomplished life isn't indulgence at all, but the natural, uncoerced "
+            "abundance that surrounds someone whose own conduct and attainment simply don't "
+            "generate the frictions &mdash; illness, conflict, unwanted material seeking "
+            "&mdash; that trouble others."]),
+        ("The Buddha's own claim, restated in first person", [
+            "After laying out the general formula, the Buddha states plainly: &lsquo;if "
+            "anyone should be rightly called a delicate ascetic of ascetics, it's me&rsquo;, "
+            "then restates all five qualities about himself specifically, closing with the "
+            "identical declaration."]),
+        ("A familiar move: self-application", [
+            "This discourse follows a pattern seen elsewhere in the early canon: a general "
+            "formula stated first, then the Buddha applying it directly to himself as its own "
+            "living example, rather than leaving the claim purely abstract."]),
+        ("What comes next", [
+            "AN 5.105 returns to the &lsquo;phāsuvihāra&rsquo; (living comfortably) "
+            "terminology that titles this whole chapter, applying it now specifically to how "
+            "mendicants treat each other."]),
+    ],
+    terms=[
+        ("samaṇasukhumāla",
+         "&ldquo;a delicate ascetic of ascetics&rdquo; &mdash; this discourse's paradoxical, "
+         "approving title."),
+        ("yācitova&hellip;appaṁ ayācito",
+         "&ldquo;using mostly what is invited, rarely what is unrequested&rdquo; &mdash; the "
+         "first quality."),
+        ("appābādha",
+         "&ldquo;healthy, rarely afflicted&rdquo; &mdash; the third quality."),
+        ("pittasamuṭṭhāna / semhasamuṭṭhāna / vātasamuṭṭhāna",
+         "arising from bile, phlegm, or wind &mdash; the traditional causes of bodily "
+         "discomfort, echoing AN 5.77."),
+        ("nikāmalābhī akicchalābhī akasiralābhī",
+         "&ldquo;attaining at will, without trouble, without difficulty&rdquo; &mdash; "
+         "describing effortless jhāna mastery."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities of genuine ease, then the Buddha's own claim to "
+        "the title. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities of a delicate ascetic of ascetics"),
+        ("p", "&sect;1", "an5.104:1.1-2.8"),
+        ("h3", "The Buddha claims the title for himself"),
+        ("p", "&sect;2", "an5.104:3.1-4.1"),
+    ],
+    quiz=[
+        {"q": "What does 'sukhumāla' ordinarily describe?",
+         "opts": [
+             "A pampered, delicate person unused to hardship",
+             "A hardened warrior",
+             "A skilled craftsperson",
+             "A wandering ascetic"],
+         "correct": 0,
+         "expl": "Often used, sometimes disapprovingly, for luxury-raised aristocrats."},
+        {"q": "How is the term used differently in this discourse's title?",
+         "opts": [
+             "Identically, with disapproval",
+             "Approvingly, for genuine spiritual ease rather than indulgence",
+             "As an insult",
+             "It is not actually used approvingly here"],
+         "correct": 1,
+         "expl": "A paradoxical, positive reclaiming of the term."},
+        {"q": "How does the mendicant described here typically acquire robes, food, lodging, and medicine?",
+         "opts": [
+             "By actively seeking them out",
+             "Mostly by what is specifically offered, rarely by request",
+             "By stealing them",
+             "By refusing them entirely"],
+         "correct": 1,
+         "expl": "The first of the five qualities."},
+        {"q": "What is said about how spiritual companions treat this mendicant?",
+         "opts": [
+             "With frequent hostility",
+             "Agreeably, in body, speech, and mind, rarely disagreeably",
+             "With indifference",
+             "The discourse does not address this"],
+         "correct": 1,
+         "expl": "The second quality."},
+        {"q": "What causes of bodily discomfort does this discourse list, echoing an earlier discourse?",
+         "opts": [
+             "Snakebite, wild animals, criminals",
+             "Bile, phlegm, wind, weather change, self-neglect, overexertion, karmic result",
+             "Hunger, thirst, exhaustion",
+             "Only karmic result"],
+         "correct": 1,
+         "expl": "The traditional causes of unpleasant bodily sensation."},
+        {"q": "Which earlier discourse in this nipāta shares this same list of bodily-discomfort causes?",
+         "opts": [
+             "AN 5.71",
+             "AN 5.77",
+             "AN 5.1",
+             "AN 5.90"],
+         "correct": 1,
+         "expl": "Future Perils (1st), naming the three humors among wilderness dangers."},
+        {"q": "What does the discourse claim about jhāna attainment for this mendicant?",
+         "opts": [
+             "It is attained only after great struggle",
+             "It is attained at will, without trouble or difficulty",
+             "It is never attained",
+             "It requires years of preparation"],
+         "correct": 1,
+         "expl": "The fourth quality, the stock formula for effortless mastery."},
+        {"q": "Who does the Buddha say is rightly called 'a delicate ascetic of ascetics'?",
+         "opts": [
+             "Any senior mendicant",
+             "Himself",
+             "A specific named disciple",
+             "No one; the title is purely hypothetical"],
+         "correct": 1,
+         "expl": "Stated plainly and directly, restating all five qualities in first person."},
+        {"q": "What is the discourse's real claim about the relationship between spiritual attainment and ease?",
+         "opts": [
+             "Ease is a distraction from attainment",
+             "Genuine ease is the natural result of attainment, not indulgence",
+             "Ease and attainment are unrelated",
+             "Only laypeople can experience genuine ease"],
+         "correct": 1,
+         "expl": "Ease as uncoerced abundance flowing from an unfrictioned life."},
+        {"q": "What does AN 5.105 return to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "The 'phāsuvihāra' terminology titling this chapter, applied to how mendicants treat each other",
+             "The master thief simile",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "Sharing its title with the whole chapter and with AN 5.94."},
+    ],
+    marginalia=[
+        ("Delicacy, redefined", [
+            "not indulgence,",
+            "but the ease",
+            "that attainment brings",
+        ]),
+        ("Ease as result, not indulgence", [
+            "no friction generated",
+            "by one's own conduct",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">appābādha</span>",
+            "&mdash; healthy,",
+            "rarely afflicted",
+        ]),
+        ("Cross-references", [
+            "AN 5.77 &middot; the shared illness-cause list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.104/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.103.html">AN 5.103 &middot; A Master Thief</a> &mdash; the previous '
+        "discourse, a strikingly darker extended simile.",
+        '<a href="an-5.105.html">AN 5.105 &middot; Living Comfortably</a> &mdash; next: '
+        "this chapter&rsquo;s own title term, applied to relationships with companions.",
+        '<a href="an-5.77.html">AN 5.77 &middot; Future Perils (1st)</a> &mdash; where '
+        "this discourse&rsquo;s list of illness-causes first appeared.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.105 — Phāsuvihārasutta
+# --------------------------------------------------------------------------- #
+page(
+    105, "Phāsuvihāra", "Living Comfortably",
+    vagga=VAGGA_11,
+    meta_title="AN 5.105 — Living Comfortably | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Phāsuvihārasutta — "
+        "this chapter's own title term, naming comfortable living as consistent kindness, "
+        "shared ethics, and shared view among companions. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, naming kindness, shared ethics, and shared "
+                 "view"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, with a distinctive "
+                       "repeated qualifier"),
+    ],
+    why=(
+        "Sharing its title with the whole chapter, and in English with AN 5.94, this "
+        "discourse names an entirely different five items: consistent kindness toward "
+        "companions, shared ethics, and shared view &mdash; comfortable living located "
+        "entirely in relationship rather than in solitary meditative attainment."),
+    guide=[
+        ("Same title, a different sense", [
+            "This discourse's title, Phāsuvihārasutta, is shared with the whole chapter "
+            "(Phāsuvihāravagga) and, in English translation, with AN 5.94 from the previous "
+            "chapter &mdash; but the five items it names are entirely different."]),
+        ("Threefold kindness", [
+            "The first three &lsquo;comfortable dwellings&rsquo; are, in fact, three "
+            "expressions of a single quality: consistent kindness (<em>mettā</em>) toward "
+            "spiritual companions by body, by speech, and by mind &mdash; maintained "
+            "identically whether in public or in private, a qualifier repeated after every "
+            "item in this list."]),
+        ("Shared ethics", [
+            "The fourth item, living according to precepts held in common with companions, is "
+            "described with a stock eightfold characterization: intact, impeccable, spotless, "
+            "unmarred, liberating, praised by sensible people, not mistaken, and leading to "
+            "immersion &mdash; again, explicitly &lsquo;in public and in private&rsquo;."]),
+        ("Shared view", [
+            "The fifth item, holding a view in common with companions, is described as noble, "
+            "emancipating, and leading to the complete ending of suffering &mdash; once more, "
+            "&lsquo;in public and in private&rsquo;."]),
+        ("A different sense of 'living comfortably'", [
+            "AN 5.94 named the four absorptions plus liberation as five comfortable "
+            "dwellings, an entirely solitary, internal achievement. This discourse instead "
+            "locates comfortable living entirely in relationship &mdash; consistent kindness "
+            "and genuine, unperformed agreement with companions in conduct, precepts, and "
+            "view."]),
+        ("What comes next", [
+            "AN 5.106 puts this same territory into dialogue: Ānanda directly asks the Buddha "
+            "how a mendicant can live comfortably within a monastic community, and receives "
+            "an answer built from a different, escalating five-part formula."]),
+    ],
+    terms=[
+        ("mettā",
+         "loving-kindness &mdash; the quality maintained toward companions by body, speech, "
+         "and mind."),
+        ("āvi ceva raho ca",
+         "&ldquo;both in public and in private&rdquo; &mdash; the phrase repeated after each "
+         "item, emphasizing genuine consistency."),
+        ("sīlasāmaññagata",
+         "living according to ethical precepts held in common with companions."),
+        ("diṭṭhisāmaññagata",
+         "living according to a view held in common with companions."),
+        ("ariyā niyyānikā",
+         "&ldquo;noble and emancipating&rdquo; &mdash; describing the shared view's "
+         "character."),
+    ],
+    text_intro=(
+        "The discourse in full: consistent kindness, shared ethics, and shared view, all "
+        "maintained equally in public and in private. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five ways of living comfortably"),
+        ("p", "&sect;1", "an5.105:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What title does this discourse share with the whole chapter, and with an earlier discourse?",
+         "opts": [
+             "Sīlasutta",
+             "Phāsuvihārasutta",
+             "Akuppasutta",
+             "Mahācorasutta"],
+         "correct": 1,
+         "expl": "Shared with Phāsuvihāravagga and, in English, with AN 5.94."},
+        {"q": "How does AN 5.94's list of 'comfortable dwellings' differ from this discourse's?",
+         "opts": [
+             "They are identical",
+             "AN 5.94 names the four absorptions plus liberation; this discourse names kindness, shared ethics, and shared view",
+             "AN 5.94 is about relationships; this discourse is about solitary meditation",
+             "There is no meaningful difference"],
+         "correct": 1,
+         "expl": "Two entirely different senses of the same title."},
+        {"q": "What are the first three items in this discourse's list, taken together?",
+         "opts": [
+             "Three unrelated qualities",
+             "Three expressions of consistent kindness — by body, speech, and mind",
+             "Three kinds of ethical precept",
+             "Three levels of absorption"],
+         "correct": 1,
+         "expl": "A single quality expressed three ways."},
+        {"q": "What phrase is repeated after each item in this list?",
+         "opts": [
+             "'Without trouble or difficulty'",
+             "'Both in public and in private'",
+             "'Soon and before long'",
+             "'Good in the beginning, middle, and end'"],
+         "correct": 1,
+         "expl": "Emphasizing genuine, unperformed consistency."},
+        {"q": "What is the fourth item?",
+         "opts": [
+             "Effortless jhāna mastery",
+             "Living according to precepts held in common with companions",
+             "Wilderness dwelling",
+             "Deep learning"],
+         "correct": 1,
+         "expl": "Sīlasāmaññagata."},
+        {"q": "How is the shared ethical precepts described, in this discourse's stock characterization?",
+         "opts": [
+             "Strict but flexible",
+             "Intact, impeccable, spotless, unmarred, liberating, praised, not mistaken, leading to immersion",
+             "Ancient and unchanging",
+             "Simple and few in number"],
+         "correct": 1,
+         "expl": "An eightfold stock description."},
+        {"q": "What is the fifth item?",
+         "opts": [
+             "Living according to a view held in common with companions",
+             "Effortless jhāna mastery",
+             "Contentment with material support",
+             "Physical health"],
+         "correct": 0,
+         "expl": "Diṭṭhisāmaññagata."},
+        {"q": "How is the shared view described?",
+         "opts": [
+             "Complex and hard to explain",
+             "Noble, emancipating, leading to the complete ending of suffering",
+             "Optional for advanced practitioners only",
+             "Identical to lay belief"],
+         "correct": 1,
+         "expl": "Ariyā niyyānikā."},
+        {"q": "Where does this discourse locate 'comfortable living'?",
+         "opts": [
+             "Entirely in solitary internal attainment",
+             "Entirely in relationship — kindness and genuine agreement with companions",
+             "In material wealth",
+             "In physical isolation from all others"],
+         "correct": 1,
+         "expl": "A relational, not solitary, sense of ease."},
+        {"q": "What does AN 5.106 do with this same territory next?",
+         "opts": [
+             "Abandons it entirely",
+             "Puts it into dialogue, with Ānanda asking the Buddha directly",
+             "Restates it verbatim with no change",
+             "Moves to a colophon"],
+         "correct": 1,
+         "expl": "A different, escalating five-part formula follows."},
+    ],
+    marginalia=[
+        ("Kindness, precepts, view — shared", [
+            "not performed,",
+            "but genuine",
+        ]),
+        ("In public and in private", [
+            "the repeated phrase",
+            "emphasizing consistency",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sīlasāmaññagata</span>",
+            "&mdash; precepts",
+            "held in common",
+        ]),
+        ("Cross-references", [
+            "AN 5.94 &middot; a different sense of the same title",
+            "AN 5.106 &middot; next: this territory, in dialogue",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.105/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.94.html">AN 5.94 &middot; Living Comfortably</a> &mdash; the same '
+        "title, an entirely different sense.",
+        '<a href="an-5.104.html">AN 5.104 &middot; A Delicate Ascetic of Ascetics</a> '
+        "&mdash; the previous discourse.",
+        '<a href="an-5.106.html">AN 5.106 &middot; With &#256;nanda</a> &mdash; next: this '
+        "same territory, put into dialogue.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.106 — Ānandasutta
+# --------------------------------------------------------------------------- #
+SETTING_106 = "Kosambī, in Ghosita&rsquo;s Monastery &mdash; the same setting as AN 5.100"
+
+page(
+    106, "Ānanda", "With Ānanda",
+    vagga=VAGGA_11,
+    meta_title="AN 5.106 — With Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ānandasutta — "
+        "Ānanda asks the Buddha how a mendicant can live comfortably in a monastic community, "
+        "and receives five progressively fuller answers, each affirmed in turn. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_106),
+        ("Speakers", "Venerable Ānanda, questioning the Buddha; the Buddha's five "
+                     "progressively fuller answers"),
+        ("Form", "a repeated dialogue — the same question asked five times, each answer "
+                 "building on the last"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a distinctive, escalating "
+                       "structure, easy to follow"),
+    ],
+    why=(
+        "Ānanda asks the Buddha how a mendicant can live comfortably while staying in a "
+        "monastic community, then asks four more times whether there might be &lsquo;another "
+        "way&rsquo; &mdash; and each time the Buddha adds one further factor to the same base, "
+        "affirming each partial answer as genuine before offering more."),
+    guide=[
+        ("A dialogue, escalating one factor at a time", [
+            "Unlike this chapter's mostly single-pass lists, this discourse is built as a "
+            "repeated exchange: Ānanda asks how a mendicant can live comfortably in a "
+            "monastic community, the Buddha answers with one factor, Ānanda asks whether "
+            "there might be &lsquo;another way&rsquo;, and the Buddha adds a further factor "
+            "to the same base &mdash; five times in a row."]),
+        ("A base factor, held constant throughout", [
+            "Every one of the five answers includes the same starting point: being "
+            "accomplished in one's own ethical conduct without pressing others to match it. "
+            "This base is present in all five variants, not replaced but built upon each "
+            "time."]),
+        ("The five layers, in order", [
+            "(1) Accomplished in one's own ethics, not pushing others to be ethical; (2) "
+            "watching oneself rather than others; (3) being unconcerned by not being "
+            "well-known; (4) attaining the four absorptions at will; (5) full liberation "
+            "through the ending of defilements &mdash; a progression from an interpersonal "
+            "starting discipline, through increasing indifference to external validation, to "
+            "full internal attainment."]),
+        ("Why structure the answer this way", [
+            "The escalating-question format itself makes a point: there genuinely are "
+            "multiple, progressively fuller ways to &lsquo;live comfortably&rsquo; in "
+            "community, and the Buddha doesn't simply give the fullest answer first. Each "
+            "partial answer is affirmed as real and sufficient before Ānanda is invited to "
+            "ask for more &mdash; modeling that lesser degrees of the same practice are "
+            "genuine, if partial, versions of the same comfortable living, not failures."]),
+        ("The final verdict", [
+            "After the fifth and fullest answer, the Buddha states directly that there is no "
+            "better or finer way of living comfortably than this complete, five-factor "
+            "version &mdash; closing the escalation explicitly rather than leaving it "
+            "open-ended."]),
+        ("A shared setting", [
+            "This discourse shares its setting, Kosambī's Ghosita's Monastery, with AN 5.100, "
+            "this nipāta's other Kosambī-set narrative discourse &mdash; a rare repeated "
+            "specific location in this collection."]),
+    ],
+    terms=[
+        ("saṅghe viharanto phāsuṁ",
+         "living comfortably while staying in a monastic community &mdash; this discourse's "
+         "central question."),
+        ("adhisīle sampavattā",
+         "urging others toward the higher ethics &mdash; explicitly what this mendicant does "
+         "not do."),
+        ("attānupekkhī / parānupekkhī",
+         "watching oneself / watching others &mdash; the second layer's contrast."),
+        ("apaññāta",
+         "&ldquo;not well-known, unrecognized&rdquo; &mdash; the third layer's condition."),
+        ("pariyāya",
+         "&ldquo;a way, a method&rdquo; &mdash; the word Ānanda uses each time he asks for "
+         "&lsquo;another way&rsquo;."),
+    ],
+    text_intro=(
+        "The discourse in full: Ānanda's repeated question, and the Buddha's five "
+        "progressively fuller answers. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ānanda's question"),
+        ("p", "&sect;1", "an5.106:1.1-2.1"),
+        ("h3", "The first way"),
+        ("p", "&sect;2", "an5.106:2.2-2.3"),
+        ("h3", "A second way"),
+        ("p", "&sect;3", "an5.106:3.1-3.5"),
+        ("h3", "A third way"),
+        ("p", "&sect;4", "an5.106:4.1-4.6"),
+        ("h3", "A fourth way"),
+        ("p", "&sect;5", "an5.106:5.1-5.7"),
+        ("h3", "The fifth and fullest way"),
+        ("p", "&sect;6", "an5.106:6.1-7.1"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Kosambī, in Ghosita's Monastery",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "The same setting as AN 5.100."},
+        {"q": "What does Ānanda ask the Buddha at the start of this discourse?",
+         "opts": [
+             "How to attain arahantship quickly",
+             "How a mendicant can live comfortably while staying in a monastic community",
+             "How to resolve a dispute between two mendicants",
+             "How to identify a corrupt teacher"],
+         "correct": 1,
+         "expl": "The question repeated five times, with escalating answers."},
+        {"q": "What structural device does this discourse use to build its answer?",
+         "opts": [
+             "A single, complete answer given once",
+             "A repeated question, each answer adding one factor to the last",
+             "A narrative simile",
+             "A colophon summary"],
+         "correct": 1,
+         "expl": "Five progressively fuller answers."},
+        {"q": "What base factor is present in all five of the Buddha's answers?",
+         "opts": [
+             "Wilderness dwelling",
+             "Being accomplished in one's own ethics, without pushing others to match it",
+             "Deep learning",
+             "Physical health"],
+         "correct": 1,
+         "expl": "Held constant across every answer."},
+        {"q": "What is the second layer added to the base factor?",
+         "opts": [
+             "Watching oneself rather than others",
+             "Attaining the four absorptions",
+             "Full liberation",
+             "Being well-known"],
+         "correct": 0,
+         "expl": "Attānupekkhī, not parānupekkhī."},
+        {"q": "What is the third layer?",
+         "opts": [
+             "Deep learning",
+             "Being unconcerned by not being well-known",
+             "Wilderness dwelling",
+             "Contentment with material support"],
+         "correct": 1,
+         "expl": "Apaññāto ca hoti, tena ca no paritassati."},
+        {"q": "What is the fourth layer?",
+         "opts": [
+             "Attaining the four absorptions at will",
+             "Deep learning",
+             "Ethical restraint",
+             "Physical health"],
+         "correct": 0,
+         "expl": "The four jhānas, effortlessly attained."},
+        {"q": "What is the fifth and final layer?",
+         "opts": [
+             "Wilderness readiness",
+             "Full liberation through the ending of defilements",
+             "Community leadership",
+             "Deep learning"],
+         "correct": 1,
+         "expl": "Cetovimutti and paññāvimutti, via āsavakkhaya."},
+        {"q": "What does the Buddha say about the fifth, fullest answer, closing the discourse?",
+         "opts": [
+             "That it is only for advanced practitioners",
+             "That there is no better or finer way of living comfortably than this",
+             "That it should not be attempted by trainees",
+             "That it applies only to senior mendicants"],
+         "correct": 1,
+         "expl": "A definitive close to the escalation."},
+        {"q": "What earlier discourse in this nipāta shares this discourse's setting?",
+         "opts": [
+             "AN 5.71",
+             "AN 5.100",
+             "AN 5.1",
+             "AN 5.90"],
+         "correct": 1,
+         "expl": "Both set at Kosambī's Ghosita's Monastery."},
+    ],
+    marginalia=[
+        ("One question, five escalating answers", [
+            "each affirmed",
+            "before more is offered",
+        ]),
+        ("A constant base, four layers added", [
+            "ethics &rarr; self-watching",
+            "&rarr; obscurity &rarr; jhāna",
+            "&rarr; liberation",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">attānupekkhī</span>",
+            "&mdash; watching",
+            "oneself, not others",
+        ]),
+        ("Cross-references", [
+            "AN 5.100 &middot; the same Kosambī setting",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.106/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.105.html">AN 5.105 &middot; Living Comfortably</a> &mdash; the '
+        "previous discourse, this same territory stated without dialogue.",
+        '<a href="an-5.107.html">AN 5.107 &middot; Ethics</a> &mdash; next: a different '
+        "pentad, reframed as worthiness of offerings.",
+        '<a href="an-5.100.html">AN 5.100 &middot; With Kakudha</a> &mdash; this nip&#257;ta&rsquo;s '
+        "other Kosambī-set narrative discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.107 — Sīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    107, "Sīla", "Ethics",
+    vagga=VAGGA_11,
+    meta_title="AN 5.107 — Ethics | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sīlasutta — the "
+        "five-component path pentad first named at AN 5.92, reappearing as the basis for a "
+        "mendicant's worthiness of offerings. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, framed by the stock 'worthy of offerings' "
+                 "formula"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, reusing familiar "
+                       "material"),
+    ],
+    why=(
+        "The five-component path pentad already named at AN 5.92 &mdash; ethics, immersion, "
+        "wisdom, freedom, and the knowledge and vision of freedom &mdash; reappears under an "
+        "entirely different heading: the qualities that make a mendicant worthy of offerings "
+        "and the supreme field of merit for the world."),
+    guide=[
+        ("A third framing for a familiar pentad", [
+            "<em>Sīla, samādhi, paññā, vimutti, vimuttiñāṇadassana</em>, already named at AN "
+            "5.92 as five &lsquo;accomplishments&rsquo;, reappears here under a new heading: "
+            "the basis for a mendicant's worthiness of offerings."]),
+        ("The 'worthy of offerings' formula, in full", [
+            "<em>Āhuneyya</em> (worthy of offerings dedicated to the gods), <em>pāhuneyya</em> "
+            "(worthy of hospitality), <em>dakkhiṇeyya</em> (worthy of a religious donation), "
+            "<em>añjalikaraṇīya</em> (worthy of veneration with cupped palms), and "
+            "<em>anuttaraṁ puññakkhettaṁ lokassa</em> (the supreme field of merit for the "
+            "world) &mdash; a five-part stock formula found widely across the canon "
+            "describing full worthiness of veneration and support."]),
+        ("Why this pentad earns that formula", [
+            "The progression from ethics through liberation and its own reflective knowledge "
+            "represents, in this collection's own account, the complete path. Naming it as "
+            "the basis for &lsquo;worthiness of offerings&rsquo; makes explicit what "
+            "completing the path is understood to earn in terms of communal respect and "
+            "support."]),
+        ("Contrast with AN 5.92", [
+            "Same five items, different application: there, named simply as accomplishments "
+            "in their own right; here, named as the specific basis for a lay community's "
+            "veneration."]),
+        ("What comes next", [
+            "AN 5.108 restates the identical &lsquo;worthy of offerings&rsquo; formula, "
+            "naming the same five components but qualified as belonging to an "
+            "&lsquo;adept&rsquo; rather than simply &lsquo;accomplished&rsquo;."]),
+    ],
+    terms=[
+        ("āhuneyya",
+         "&ldquo;worthy of offerings dedicated to the gods&rdquo;."),
+        ("dakkhiṇeyya",
+         "&ldquo;worthy of a religious donation&rdquo;."),
+        ("anuttaraṁ puññakkhettaṁ lokassa",
+         "&ldquo;the supreme field of merit for the world&rdquo;."),
+        ("sīla / samādhi / paññā / vimutti / vimuttiñāṇadassana",
+         "the same five-component path pentad first named at AN 5.92."),
+        ("sampanna",
+         "&ldquo;accomplished, endowed with&rdquo; &mdash; the term describing possession of "
+         "each quality here."),
+    ],
+    text_intro=(
+        "The discourse in full: the path pentad, now named as the basis for worthiness of "
+        "offerings. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities of worthiness"),
+        ("p", "&sect;1", "an5.107:1.1-3.1"),
+    ],
+    quiz=[
+        {"q": "What five qualities does this discourse name?",
+         "opts": [
+             "Ethics, immersion, wisdom, freedom, knowledge-and-vision of freedom",
+             "Faith, ethics, learning, energy, wisdom",
+             "Deceit, flattery, hinting, belittling, gain-chasing",
+             "Long-standing, famous, supported, learned, right view"],
+         "correct": 0,
+         "expl": "The same pentad first named at AN 5.92."},
+        {"q": "Where did this exact same pentad previously appear, under a different heading?",
+         "opts": [
+             "AN 5.91",
+             "AN 5.92",
+             "AN 5.1",
+             "AN 5.101"],
+         "correct": 1,
+         "expl": "Named there simply as five accomplishments."},
+        {"q": "What five-part formula describes what these qualities make a mendicant worthy of?",
+         "opts": [
+             "The 'worthy of offerings' formula: āhuneyya, pāhuneyya, dakkhiṇeyya, añjalikaraṇīya, supreme field of merit",
+             "The 'sekhabala' formula",
+             "The 'future perils' formula",
+             "The 'warrior' formula"],
+         "correct": 0,
+         "expl": "A stock formula found widely across the canon."},
+        {"q": "What does 'āhuneyya' mean?",
+         "opts": [
+             "Worthy of offerings dedicated to the gods",
+             "Worthy of criticism",
+             "Worthy of ordination",
+             "Worthy of exile"],
+         "correct": 0,
+         "expl": "The first term in the formula."},
+        {"q": "What does 'anuttaraṁ puññakkhettaṁ lokassa' mean?",
+         "opts": [
+             "The supreme field of merit for the world",
+             "The lowest of all beings",
+             "A specific monastery",
+             "A type of offering"],
+         "correct": 0,
+         "expl": "The formula's final, culminating phrase."},
+        {"q": "What does this discourse's framing make explicit about completing the path?",
+         "opts": [
+             "That it earns communal respect and support",
+             "That it is impossible to achieve",
+             "That it disqualifies one from receiving offerings",
+             "That it is unrelated to lay veneration"],
+         "correct": 0,
+         "expl": "The path's completion tied directly to worthiness of offerings."},
+        {"q": "How does this discourse's use of the pentad differ from AN 5.92's?",
+         "opts": [
+             "It uses a completely different pentad",
+             "Same pentad, framed here as the basis for worthiness of offerings rather than accomplishment alone",
+             "It removes one item from the list",
+             "There is no difference"],
+         "correct": 1,
+         "expl": "A third framing for the same five-item list."},
+        {"q": "Is this 'worthy of offerings' formula unique to this discourse?",
+         "opts": [
+             "Yes, invented specifically here",
+             "No — a stock formula found widely across the canon",
+             "It appears only in this nipāta",
+             "It is a later commentarial addition"],
+         "correct": 1,
+         "expl": "A well-known, recurring formula."},
+        {"q": "What does AN 5.108 restate with the same five components?",
+         "opts": [
+             "The identical formula, qualified as belonging to an adept",
+             "An entirely different pentad",
+             "A colophon closing the chapter",
+             "A narrative discourse"],
+         "correct": 0,
+         "expl": "Asekha rather than simply 'accomplished'."},
+        {"q": "What term in AN 5.108 distinguishes it from this discourse's framing?",
+         "opts": [
+             "Sampanna",
+             "Asekha",
+             "Sārajja",
+             "Cātuddisa"],
+         "correct": 1,
+         "expl": "Naming the adept, one beyond training."},
+    ],
+    marginalia=[
+        ("Same five, worthiness this time", [
+            "sīla &middot; samādhi",
+            "&middot; paññā &middot; vimutti",
+            "&middot; vimuttiñāṇadassana",
+        ]),
+        ("Worthy of offerings", [
+            "the five-part",
+            "stock formula",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">dakkhiṇeyya</span>",
+            "&mdash; worthy of",
+            "a religious donation",
+        ]),
+        ("Cross-references", [
+            "AN 5.92 &middot; the same pentad, framed as accomplishment",
+            "AN 5.108 &middot; next: the adept's version",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.107/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.92.html">AN 5.92 &middot; Accomplishment (2nd)</a> &mdash; the same '
+        "pentad, first named there.",
+        '<a href="an-5.106.html">AN 5.106 &middot; With &#256;nanda</a> &mdash; the previous '
+        "discourse.",
+        '<a href="an-5.108.html">AN 5.108 &middot; An Adept</a> &mdash; next: the same '
+        "formula, qualified for one beyond training.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.108 — Asekhasutta
+# --------------------------------------------------------------------------- #
+page(
+    108, "Asekha", "An Adept",
+    vagga=VAGGA_11,
+    meta_title="AN 5.108 — An Adept | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Asekhasutta — AN "
+        "5.107's formula restated for one who has completed the training entirely, with the "
+        "source itself eliding the repeated portion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same 'worthy of offerings' formula as AN 5.107, one term changed "
+                 "throughout; the source elides the repeated middle portion"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, closely paired "
+                       "with AN 5.107"),
+    ],
+    why=(
+        "AN 5.107's formula restated with one word changed throughout: each of the five "
+        "components is now qualified as belonging to an &lsquo;asekha&rsquo; &mdash; an "
+        "adept who has completed the training and stands beyond it, in contrast to a "
+        "&lsquo;sekha&rsquo;, a trainee still in progress."),
+    guide=[
+        ("One word changed", [
+            "Identical five components and identical &lsquo;worthy of offerings&rsquo; "
+            "formula as AN 5.107, but each component is now qualified as belonging to an "
+            "<em>asekha</em> &mdash; someone who has completed the training entirely."]),
+        ("Sekha and asekha, a distinction running through this nipāta", [
+            "This discourse implicitly completes a thread already present at AN 5.89&ndash;90, "
+            "which described a trainee's (<em>sekha</em>) decline, by naming what lies on the "
+            "other side of training entirely."]),
+        ("'Khandha' instead of '-sampanna'", [
+            "A small but real terminological shift: AN 5.107 spoke of being <em>sampanna</em> "
+            "(accomplished, endowed) in each quality; this discourse instead names each as a "
+            "<em>khandha</em> (aggregate, entire spectrum) belonging to the adept &mdash; "
+            "emphasizing completeness and totality rather than simple possession."]),
+        ("The source's own compression", [
+            "The source elides the discourse's middle portion with the standard Pali "
+            "abbreviation mark, since the &lsquo;worthy of offerings&rsquo; formula and the "
+            "five qualities are worded almost identically to AN 5.107. This reading guide "
+            "follows the source's own compression rather than inventing full restated text."]),
+        ("What comes next", [
+            "AN 5.109 turns from the sekha/asekha distinction to an entirely new formula: "
+            "what makes a mendicant &lsquo;at ease in any quarter&rsquo;."]),
+    ],
+    terms=[
+        ("asekha",
+         "&ldquo;an adept&rdquo; &mdash; one who has completed the training, beyond a "
+         "trainee (sekha)."),
+        ("sīlakkhandha",
+         "the whole aggregate, or entire spectrum, of ethics."),
+        ("vimuttikkhandha",
+         "the entire spectrum of freedom."),
+        ("peyyāla",
+         "the standard abbreviation mark used in the source for elided, near-identical "
+         "repeated text."),
+        ("sekha",
+         "trainee &mdash; contrasted directly with asekha, already the subject of AN "
+         "5.89&ndash;90."),
+    ],
+    text_intro=(
+        "The discourse in full, as the source gives it: the same worthiness formula, "
+        "qualified for one who has completed the training. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The adept's complete spectrum"),
+        ("p", "&sect;1", "an5.108:1.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What single word distinguishes this discourse's five qualities from AN 5.107's?",
+         "opts": [
+             "Sampanna",
+             "Asekha",
+             "Sārajja",
+             "Cātuddisa"],
+         "correct": 1,
+         "expl": "Naming the qualities as belonging to an adept."},
+        {"q": "What does 'asekha' mean?",
+         "opts": [
+             "A trainee",
+             "An adept, one who has completed the training",
+             "A senior mendicant",
+             "A lay follower"],
+         "correct": 1,
+         "expl": "Beyond training entirely, in contrast to sekha."},
+        {"q": "What is the opposite of 'asekha', already discussed earlier in this nipāta?",
+         "opts": [
+             "Thera",
+             "Sekha",
+             "Puthujjana",
+             "Ārāmika"],
+         "correct": 1,
+         "expl": "Trainee, the subject of AN 5.89–90."},
+        {"q": "What word does this discourse use for each quality, instead of AN 5.107's 'sampanna'?",
+         "opts": [
+             "Khandha",
+             "Bala",
+             "Sampadā",
+             "Vaḍḍhi"],
+         "correct": 0,
+         "expl": "Aggregate, or entire spectrum."},
+        {"q": "What does 'khandha' emphasize, compared to 'sampanna'?",
+         "opts": [
+             "Simple possession",
+             "Completeness and totality",
+             "Recent acquisition",
+             "Rarity"],
+         "correct": 1,
+         "expl": "The entire spectrum, not just having a quality."},
+        {"q": "Why does the source text elide much of this discourse's middle portion?",
+         "opts": [
+             "The manuscript is damaged",
+             "It is worded almost identically to AN 5.107, already given in full",
+             "The translator considered it unimportant",
+             "It was never composed"],
+         "correct": 1,
+         "expl": "Standard compression for near-identical repeated material."},
+        {"q": "What mark does the source use to indicate this elision?",
+         "opts": [
+             "Peyyāla",
+             "Uddāna",
+             "Nidāna",
+             "Vagga"],
+         "correct": 0,
+         "expl": "The standard Pali abbreviation mark."},
+        {"q": "Does this reading guide invent full text to fill the elided portions?",
+         "opts": [
+             "Yes, to make the discourse more complete",
+             "No — it follows the source's own compression",
+             "Only partially",
+             "The question does not apply here"],
+         "correct": 1,
+         "expl": "Consistent with this project's standing practice."},
+        {"q": "Where was 'sekha' previously the direct subject of two discourses in this nipāta?",
+         "opts": [
+             "AN 5.71–72",
+             "AN 5.89–90",
+             "AN 5.1–2",
+             "AN 5.99–100"],
+         "correct": 1,
+         "expl": "A Trainee (1st) and (2nd)."},
+        {"q": "What does AN 5.109 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "What makes a mendicant 'at ease in any quarter'",
+             "The master thief simile",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "An entirely new formula, cātuddisa."},
+    ],
+    marginalia=[
+        ("One word changed: asekha", [
+            "the adept's version",
+            "of AN 5.107's formula",
+        ]),
+        ("Khandha, not sampanna", [
+            "completeness,",
+            "not simple possession",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">peyyāla</span>",
+            "&mdash; the source's",
+            "own abbreviation mark",
+        ]),
+        ("Cross-references", [
+            "AN 5.89&ndash;90 &middot; the sekha discourses",
+            "AN 5.107 &middot; the same formula, differently qualified",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.108/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.107.html">AN 5.107 &middot; Ethics</a> &mdash; the previous discourse, '
+        "this same formula for one still accomplished but not yet named an adept.",
+        '<a href="an-5.89.html">AN 5.89 &middot; A Trainee (1st)</a> &mdash; where sekha, '
+        "asekha's opposite, was this nip&#257;ta's direct subject.",
+        '<a href="an-5.109.html">AN 5.109 &middot; All Four Quarters</a> &mdash; next: a '
+        "new formula, ease with any location.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.109 — Cātuddisasutta
+# --------------------------------------------------------------------------- #
+page(
+    109, "Cātuddisa", "All Four Quarters",
+    vagga=VAGGA_11,
+    meta_title="AN 5.109 — All Four Quarters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Cātuddisasutta — "
+        "five qualities, distinguished by contentment with whatever material support is "
+        "received, that leave a mendicant at ease in any direction. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare five-item list, a complete monastic portrait distinguished by "
+                 "contentment"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; familiar formula, one "
+                       "distinguishing new element"),
+    ],
+    why=(
+        "Another complete monastic portrait, like AN 5.87 and this chapter's own AN 5.107, "
+        "distinguished by one new element: contentment (<em>santuṭṭha</em>) with whatever "
+        "robes, almsfood, lodging, and medicine one happens to receive &mdash; the quality "
+        "said to leave a mendicant genuinely &lsquo;at ease in any quarter&rsquo;."),
+    guide=[
+        ("Another complete portrait, a contentment variant", [
+            "Like AN 5.87's &lsquo;Ethical&rsquo; and this chapter's own AN 5.107, this "
+            "discourse names a five-quality complete portrait; its distinguishing element is "
+            "contentment with whatever material support is received, of whatever quality."]),
+        ("What 'at ease in any quarter' means", [
+            "<em>Cātuddisa</em>, literally &lsquo;of the four directions&rsquo;, names someone "
+            "genuinely unconstrained about where they live or travel &mdash; the outcome this "
+            "discourse's five qualities are said to produce."]),
+        ("The five qualities, in sequence", [
+            "Full ethical restraint under the monastic code (the same formula seen at AN 5.87 "
+            "and elsewhere); deep learning (the familiar bahussuta formula); contentment with "
+            "whatever material support is received; effortless mastery of the four "
+            "absorptions; and full liberation."]),
+        ("Contentment as the distinguishing new element", [
+            "Contrast directly with AN 5.104's &lsquo;delicate ascetic&rsquo;, whose ease "
+            "came from being given specifically what was requested and treated well by "
+            "companions. Here, ease comes from needing nothing in particular at all &mdash; "
+            "two different, complementary routes to the same underlying freedom from want."]),
+        ("Why contentment enables mobility", [
+            "The discourse's implicit logic: a mendicant genuinely unconcerned about the "
+            "quality of material support is free to go anywhere, since no particular place "
+            "or supporter is required to meet a fixed standard."]),
+        ("What comes next", [
+            "AN 5.110 closes the chapter with a similar list, narrowed specifically to "
+            "readiness for wilderness dwelling rather than travel in any direction."]),
+    ],
+    terms=[
+        ("cātuddisa",
+         "&ldquo;of the four quarters&rdquo; &mdash; at ease and unconstrained about "
+         "location."),
+        ("santuṭṭha",
+         "&ldquo;content&rdquo; &mdash; satisfied with whatever material support is "
+         "received."),
+        ("pātimokkhasaṁvara",
+         "restraint under the monastic code &mdash; the first quality."),
+        ("bahussuta",
+         "very learned &mdash; the second quality, using the same formula seen elsewhere in "
+         "this nipāta."),
+        ("itarītara",
+         "&ldquo;whatever kind&rdquo;, ordinary or so-so &mdash; qualifying the material "
+         "support this mendicant is content with."),
+    ],
+    text_intro=(
+        "The discourse in full: ethics, learning, contentment, jhāna mastery, and full "
+        "liberation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities of one at ease in any quarter"),
+        ("p", "&sect;1", "an5.109:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What does 'cātuddisa' mean?",
+         "opts": [
+             "Of the four quarters, at ease and unconstrained about location",
+             "Belonging to a specific monastery",
+             "A wilderness-dweller specifically",
+             "One who never travels"],
+         "correct": 0,
+         "expl": "This discourse's central outcome."},
+        {"q": "What is the distinguishing new element in this discourse's portrait, compared to AN 5.87 and AN 5.107?",
+         "opts": [
+             "Skilled speech",
+             "Contentment with whatever material support is received",
+             "Wilderness dwelling",
+             "The four kinds of textual analysis"],
+         "correct": 1,
+         "expl": "Santuṭṭha, the new distinguishing quality."},
+        {"q": "What does 'santuṭṭha' mean?",
+         "opts": [
+             "Content, satisfied with whatever is received",
+             "Discontented, always seeking more",
+             "Wealthy",
+             "Learned"],
+         "correct": 0,
+         "expl": "This discourse's key term."},
+        {"q": "What is the first of the five qualities named?",
+         "opts": [
+             "Ethical restraint under the monastic code",
+             "Contentment",
+             "Jhāna mastery",
+             "Liberation"],
+         "correct": 0,
+         "expl": "Pātimokkhasaṁvara, opening the list."},
+        {"q": "What is the second quality?",
+         "opts": [
+             "Contentment",
+             "Deep learning",
+             "Jhāna mastery",
+             "Liberation"],
+         "correct": 1,
+         "expl": "The familiar bahussuta formula."},
+        {"q": "How does this discourse's route to ease differ from AN 5.104's 'delicate ascetic'?",
+         "opts": [
+             "They are identical",
+             "AN 5.104's ease comes from being given what is requested; this discourse's comes from needing nothing in particular",
+             "This discourse rejects all material support entirely",
+             "There is no meaningful difference"],
+         "correct": 1,
+         "expl": "Two complementary routes to the same underlying freedom from want."},
+        {"q": "What is the discourse's implicit logic for why contentment enables mobility?",
+         "opts": [
+             "Contentment makes travel unnecessary",
+             "Needing no particular standard of support means no particular place is required",
+             "Contentment is unrelated to location",
+             "The discourse does not explain this connection"],
+         "correct": 1,
+         "expl": "Freedom from a fixed material standard enables freedom of location."},
+        {"q": "What formula, seen elsewhere in this nipāta, describes this discourse's learning quality?",
+         "opts": [
+             "The bahussuta formula",
+             "The sekhabala formula",
+             "The 'worthy of offerings' formula",
+             "The future-perils formula"],
+         "correct": 0,
+         "expl": "The same full formula used at AN 5.87 and elsewhere."},
+        {"q": "What is the fourth quality?",
+         "opts": [
+             "Wilderness dwelling",
+             "Effortless mastery of the four absorptions",
+             "Skilled speech",
+             "Deep learning"],
+         "correct": 1,
+         "expl": "The stock formula for effortless jhāna attainment."},
+        {"q": "What does AN 5.110 narrow this same list to, closing the chapter?",
+         "opts": [
+             "A different pentad entirely",
+             "Readiness specifically for wilderness dwelling",
+             "A colophon with no further content",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "Substituting energy for this discourse's contentment."},
+    ],
+    marginalia=[
+        ("Content anywhere, at ease everywhere", [
+            "no particular place",
+            "or supporter required",
+        ]),
+        ("Two routes to ease", [
+            "AN 5.104's given comfort",
+            "vs. this discourse's",
+            "needing nothing",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">santuṭṭha</span>",
+            "&mdash; content,",
+            "satisfied",
+        ]),
+        ("Cross-references", [
+            "AN 5.104 &middot; a contrasting route to ease",
+            "AN 5.87 &middot; the same complete-portrait pattern",
+            "AN 5.110 &middot; next: narrowed to wilderness readiness",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.109/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.104.html">AN 5.104 &middot; A Delicate Ascetic of Ascetics</a> '
+        "&mdash; a contrasting route to the same underlying ease.",
+        '<a href="an-5.108.html">AN 5.108 &middot; An Adept</a> &mdash; the previous '
+        "discourse.",
+        '<a href="an-5.110.html">AN 5.110 &middot; Wilderness</a> &mdash; next: this '
+        "chapter&rsquo;s closing discourse, narrowed to wilderness readiness.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.110 — Araññasutta
+# --------------------------------------------------------------------------- #
+page(
+    110, "Arañña", "Wilderness",
+    vagga=VAGGA_11,
+    meta_title="AN 5.110 — Wilderness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Araññasutta, "
+        "closing the Phāsuvihāravagga — AN 5.109's formula narrowed to wilderness readiness, "
+        "with energy replacing contentment, closing the chapter's own colophon. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single five-item list, two qualities elided as identical to earlier "
+                 "formulas, closing the chapter's own colophon"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; familiar formula, closing "
+                       "the chapter"),
+    ],
+    why=(
+        "The chapter's closing discourse narrows AN 5.109's &lsquo;any quarter&rsquo; formula "
+        "specifically to readiness for wilderness dwelling, swapping in roused, staunch "
+        "energy in place of contentment &mdash; before closing the chapter with its own "
+        "colophon and mnemonic verse."),
+    guide=[
+        ("The chapter's closing variant", [
+            "Narrowing AN 5.109's &lsquo;any quarter&rsquo; formula specifically to readiness "
+            "for wilderness dwelling, this discourse swaps in energetic vigor "
+            "(<em>āraddhavīriya</em>) as its distinguishing element, in place of AN 5.109's "
+            "contentment."]),
+        ("The five qualities, in sequence", [
+            "Ethical restraint under the monastic code and deep learning are both given in "
+            "the source's compressed, elided form, since they're identical to formulas "
+            "already given in full earlier in this chapter; then energy, described in full: "
+            "strong, staunchly vigorous, &lsquo;not slacking off when it comes to developing "
+            "skillful qualities&rsquo;; then effortless jhāna mastery; then full liberation."]),
+        ("Why energy, specifically, for wilderness readiness", [
+            "Unlike AN 5.109's contentment, suited to needing nothing from wherever one "
+            "happens to be, sustained energy suits the specific demands of a genuinely "
+            "remote, unsupported dwelling, where the ordinary supports and company of a "
+            "settled community aren't available."]),
+        ("The source's own compression, followed rather than expanded", [
+            "As at AN 5.108, this reading guide does not invent full text for the two "
+            "peyyāla-elided qualities, since they duplicate formulas already given in full at "
+            "earlier points in this chapter."]),
+        ("The chapter's close", [
+            "The colophon &lsquo;Dasamaṁ. Phāsuvihāravaggo paṭhamo&rsquo; &mdash; the tenth "
+            "discourse, the first Phāsuvihāravagga by the traditional count &mdash; follows "
+            "the mechanism explained in full at AN 5.10."]),
+        ("The uddāna's opening lines, glossed", [
+            "The mnemonic verse names this chapter's discourses by their key terms in order: "
+            "<em>sārajja</em> (assurance), <em>saṅkita</em> (suspected), <em>cora</em> "
+            "(thief), <em>sukhumāla</em> (delicate ascetic), <em>phāsu</em> (living "
+            "comfortably) as the fifth, then Ānanda, ethics, and the adept, trailing into the "
+            "verse's remaining, untranslated lines."]),
+    ],
+    terms=[
+        ("āraddhavīriya",
+         "&ldquo;energy roused up&rdquo; &mdash; this discourse's distinguishing "
+         "fourth-position quality."),
+        ("thāmavā daḷhaparakkamo",
+         "&ldquo;strong, staunchly vigorous&rdquo; &mdash; describing that energy in full."),
+        ("anikkhittadhuro",
+         "&ldquo;not slacking off, not putting down the load&rdquo; &mdash; completing the "
+         "energy formula."),
+        ("alaṁ&hellip;paṭisevituṁ",
+         "&ldquo;ready, fit to frequent&rdquo; &mdash; this discourse's central outcome, "
+         "wilderness readiness."),
+        ("Phāsuvihāravaggo paṭhamo",
+         "&ldquo;the first Phāsuvihāravagga&rdquo; &mdash; this chapter's closing colophon."),
+    ],
+    text_intro=(
+        "The discourse in full, as the source gives it: two elided qualities, then energy, "
+        "jhāna mastery, and liberation in full. The chapter's closing colophon and Pāli "
+        "mnemonic verse are part of the source but are not translated text, and are described "
+        "rather than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities for wilderness readiness"),
+        ("p", "&sect;1", "an5.110:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What outcome does this discourse's five qualities produce?",
+         "opts": [
+             "Readiness to frequent remote wilderness lodgings",
+             "Ease in any quarter",
+             "Worthiness of offerings",
+             "Community leadership"],
+         "correct": 0,
+         "expl": "This discourse's specific, narrowed outcome."},
+        {"q": "Which two of the five qualities are given in the source's compressed, elided form?",
+         "opts": [
+             "Jhāna mastery and liberation",
+             "Ethical restraint and deep learning",
+             "Energy and contentment",
+             "None; all five are given in full"],
+         "correct": 1,
+         "expl": "Identical to formulas already given in full earlier in this chapter."},
+        {"q": "What is the third quality, given in full?",
+         "opts": [
+             "Contentment",
+             "Energy, roused up and staunchly vigorous",
+             "Skilled speech",
+             "Textual analysis"],
+         "correct": 1,
+         "expl": "Āraddhavīriya, this discourse's distinguishing element."},
+        {"q": "What three phrases describe this discourse's energy quality in full?",
+         "opts": [
+             "Content, patient, calm",
+             "Strong, staunchly vigorous, not slacking off",
+             "Wealthy, generous, kind",
+             "Learned, articulate, wise"],
+         "correct": 1,
+         "expl": "Thāmavā daḷhaparakkamo anikkhittadhuro."},
+        {"q": "Why might energy specifically suit wilderness readiness, unlike AN 5.109's contentment?",
+         "opts": [
+             "Energy and contentment are identical in function",
+             "Sustained energy suits the demands of a remote dwelling lacking settled community support",
+             "Energy is unrelated to wilderness dwelling",
+             "The discourse does not explain this connection"],
+         "correct": 1,
+         "expl": "A different quality suited to a more specific, demanding circumstance."},
+        {"q": "Does this reading guide invent full text to fill the elided portions?",
+         "opts": [
+             "Yes, to complete the discourse",
+             "No — it follows the source's own compression",
+             "Only for the ethics quality",
+             "The question does not apply here"],
+         "correct": 1,
+         "expl": "Consistent with this project's standing practice at AN 5.108 and elsewhere."},
+        {"q": "What are the fourth and fifth qualities?",
+         "opts": [
+             "Contentment and deep learning",
+             "Effortless jhāna mastery and full liberation",
+             "Ethical restraint and energy",
+             "Deep learning and skilled speech"],
+         "correct": 1,
+         "expl": "The standard closing pair of this chapter's complete-portrait discourses."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Dasamaṁ. Phāsuvihāravaggo paṭhamo.",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.100, repeated verbatim"],
+         "correct": 1,
+         "expl": "The tenth discourse, the first Phāsuvihāravagga."},
+        {"q": "What does the chapter's mnemonic verse name in its opening lines?",
+         "opts": [
+             "A list of unrelated place names",
+             "This chapter's discourses, by their key terms, in order",
+             "The names of the Buddha's chief disciples",
+             "A list of monastic rules"],
+         "correct": 1,
+         "expl": "Sārajja, saṅkita, cora, sukhumāla, phāsu, and further terms."},
+        {"q": "What chapter comes next in the Fives, after this one closes?",
+         "opts": [
+             "The nipāta ends here",
+             "Chapter 12, Andhakavindavagga, AN 5.111–120",
+             "A return to Kakudhavagga",
+             "The Sixes begin immediately"],
+         "correct": 1,
+         "expl": "The next chapter in sequence."},
+    ],
+    marginalia=[
+        ("Energy, for the wilderness specifically", [
+            "roused up,",
+            "staunchly vigorous",
+        ]),
+        ("Two qualities elided", [
+            "duplicating formulas",
+            "already given in full",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">anikkhittadhuro</span>",
+            "&mdash; not slacking",
+            "off, not putting down",
+        ]),
+        ("Cross-references", [
+            "AN 5.109 &middot; the contentment variant",
+            "AN 5.10 &middot; the colophon convention, explained",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.110/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.109.html">AN 5.109 &middot; All Four Quarters</a> &mdash; the '
+        "previous discourse, the contentment variant of this same formula.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this '
+        "same chapter-closing colophon structure was first explained in full.",
+        '<a href="an-5.101.html">AN 5.101 &middot; Assurance</a> &mdash; back to this '
+        "chapter&rsquo;s opening, closing the loop.",
+    ],
+)
