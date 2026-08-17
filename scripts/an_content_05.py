@@ -17173,3 +17173,1961 @@ page(
         "&mdash; back to this chapter's opening, closing the loop.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.81 — Rajanīyasutta
+# --------------------------------------------------------------------------- #
+VAGGA_9 = "<em>Theravagga</em> &mdash; the ninth chapter of the Fives"
+
+page(
+    81, "Rajanīya", "Desirable",
+    vagga=VAGGA_9,
+    meta_title="AN 5.81 — Desirable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Rajanīyasutta, "
+        "opening the Theravagga — five paired gerundive-and-verb terms describing basic "
+        "unmindful reactivity to the desirable, the hateful, the delusory, the annoying, and "
+        "the intoxicating, and their absence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, both closing with an identical verdict formula"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, with one repeating "
+                       "grammatical pattern to notice"),
+    ],
+    why=(
+        "Theravagga opens by turning from warriors and future perils to community relationships: "
+        "what makes a senior mendicant (<em>thera</em>) liked or disliked by their own "
+        "companions. Five terms, each built on the same grammatical shape &mdash; a gerundive "
+        "noun paired with its matching verb &mdash; describe basic unmindful reactivity to what "
+        "is desirable, hateful, delusory, irritating, and intoxicating."),
+    guide=[
+        ("A new chapter, a new subject", [
+            "After warriors and future perils, this chapter turns inward to how a senior "
+            "mendicant is regarded by fellow monks. &lsquo;Thera&rsquo; specifically names "
+            "monastic seniority, and the whole chapter, largely, will ask what earns that "
+            "senior standing genuine respect &mdash; or forfeits it."]),
+        ("Five terms, one shared grammar", [
+            "Each of the five items pairs a gerundive noun with its exact matching verb: "
+            "<em>rajanīye rajjati</em> (&lsquo;in the desirable, desires&rsquo;), <em>dussanīye "
+            "dussati</em> (&lsquo;in the hateful, hates&rsquo;), <em>mohanīye muyhati</em> "
+            "(&lsquo;in the delusory, is deluded&rsquo;), <em>kuppanīye kuppati</em> "
+            "(&lsquo;in the annoying, is upset&rsquo;), and <em>madanīye majjati</em> "
+            "(&lsquo;in the intoxicating, is intoxicated&rsquo;) &mdash; five variations on a "
+            "single grammatical shape, each naming the ordinary reactive response to its "
+            "matching stimulus."]),
+        ("What's absent is the point", [
+            "None of the five items names a specific misdeed or broken rule; simply reacting "
+            "unmindfully to ordinary stimuli &mdash; wanting what is desirable, resenting what "
+            "is hateful, and so on &mdash; is enough on its own to make a senior mendicant "
+            "unlikable to companions."]),
+        ("The mirrored positive", [
+            "The second list negates all five terms exactly, adding nothing and subtracting "
+            "nothing: the beloved senior mendicant is described purely by the absence of the "
+            "same five reactions."]),
+        ("The chapter's format, in advance", [
+            "Most of this chapter's ten discourses will repeat this same paired short-list "
+            "structure. A few &mdash; AN 5.86, 5.87, and 5.88 &mdash; break from it, offering "
+            "only a single list without a paired opposite, worth noticing when they arrive."]),
+        ("What comes next", [
+            "AN 5.82 restates the identical paired structure with a more familiar trio of "
+            "terms: greed, hatred, and delusion."]),
+    ],
+    terms=[
+        ("thera",
+         "&ldquo;senior&rdquo; &mdash; a mendicant of advanced standing; this chapter's title "
+         "term."),
+        ("rajanīya / rajjati",
+         "&ldquo;the desirable&rdquo; / &ldquo;to desire it&rdquo; &mdash; the first of the "
+         "five paired terms."),
+        ("sabrahmacārī",
+         "&ldquo;spiritual companions&rdquo;, fellow monks &mdash; whose regard is at stake "
+         "throughout this chapter."),
+        ("abhāvanīya / bhāvanīya",
+         "&ldquo;not respected&rdquo; / &ldquo;respected&rdquo; &mdash; the qualifier terms "
+         "bracketing each list in this chapter."),
+        ("madanīya / majjati",
+         "&ldquo;the intoxicating&rdquo; / &ldquo;to be intoxicated by it&rdquo; &mdash; the "
+         "fifth of the five paired terms."),
+    ],
+    text_intro=(
+        "The discourse in full: five paired unlikable qualities, then their five negated, "
+        "beloved counterparts. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unlikable"),
+        ("p", "&sect;1", "an5.81:1.1-1.4"),
+        ("h3", "Dear and beloved"),
+        ("p", "&sect;2", "an5.81:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Yodhājīvavagga",
+             "Theravagga, Senior Mendicants",
+             "Nīvaraṇavagga",
+             "Saññāvagga"],
+         "correct": 1,
+         "expl": "The ninth chapter of the Fives."},
+        {"q": "What determines whether a senior mendicant is liked or disliked, according to this discourse?",
+         "opts": [
+             "Their age alone",
+             "Basic unmindful reactivity to five kinds of ordinary stimuli",
+             "How much they have studied",
+             "Their physical strength"],
+         "correct": 1,
+         "expl": "Five paired terms describing reactivity, not specific misdeeds."},
+        {"q": "What grammatical pattern do the five terms share?",
+         "opts": [
+             "Each is a proper noun",
+             "Each pairs a gerundive noun with its exact matching verb",
+             "Each is a compound of two verbs",
+             "Each is borrowed from Sanskrit"],
+         "correct": 1,
+         "expl": "E.g. rajanīye rajjati — 'in the desirable, desires'."},
+        {"q": "What is the first of the five paired terms?",
+         "opts": [
+             "Madanīya / majjati — the intoxicating",
+             "Rajanīya / rajjati — the desirable",
+             "Dussanīya / dussati — the hateful",
+             "Mohanīya / muyhati — the delusory"],
+         "correct": 1,
+         "expl": "Rajanīya/rajjati opens the list."},
+        {"q": "Is any of the five items a specific misdeed, like breaking a monastic rule?",
+         "opts": [
+             "Yes, all five are specific rule violations",
+             "No — none names a specific misdeed, only ordinary reactivity",
+             "Only the fifth is a misdeed",
+             "The discourse does not say"],
+         "correct": 1,
+         "expl": "The absence of any named misdeed is itself the point."},
+        {"q": "How is the 'beloved' list constructed relative to the 'unlikable' list?",
+         "opts": [
+             "It introduces five entirely new qualities",
+             "It negates all five terms exactly, adding and subtracting nothing",
+             "It repeats only three of the five terms",
+             "It reverses the order but keeps the same meaning"],
+         "correct": 1,
+         "expl": "A pure negation of the first list."},
+        {"q": "What word names a mendicant's fellow monks throughout this chapter?",
+         "opts": [
+             "Ārāmika",
+             "Sabrahmacārī",
+             "Upāsaka",
+             "Sekha"],
+         "correct": 1,
+         "expl": "Spiritual companions — the audience whose regard is at stake."},
+        {"q": "What does 'thera' mean, and what role does it play in this chapter?",
+         "opts": [
+             "A type of robe; irrelevant to the chapter's structure",
+             "Senior mendicant; the chapter's organizing title term",
+             "A meditation posture",
+             "A specific monastery"],
+         "correct": 1,
+         "expl": "Theravagga, 'Senior Mendicants', takes its name from this term."},
+        {"q": "Will most of this chapter's discourses repeat this two-sided list structure?",
+         "opts": [
+             "No, none of the others use it",
+             "Yes, most do, with a few exceptions later in the chapter",
+             "Only this discourse uses it",
+             "The chapter has only two discourses total"],
+         "correct": 1,
+         "expl": "AN 5.86–88 break from the pattern, as noted in the guide."},
+        {"q": "What does AN 5.82 restate with a more familiar trio of terms?",
+         "opts": [
+             "The four noble truths",
+             "The three unwholesome roots — greed, hatred, delusion — plus two more",
+             "The five hindrances",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "Rāga, dosa, and moha, alongside two additional interpersonal faults."},
+    ],
+    marginalia=[
+        ("Five gerundives, five verbs", [
+            "rajanīye rajjati &middot;",
+            "each stimulus, its",
+            "matching reaction",
+        ]),
+        ("No misdeed named", [
+            "only reactivity",
+            "itself is enough",
+            "to be unlikable",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sabrahmacārī</span>",
+            "&mdash; spiritual",
+            "companions",
+        ]),
+        ("Cross-references", [
+            "AN 5.82 &middot; the same skeleton, greed/hatred/delusion",
+            "AN 5.84 &middot; the familiar sekhabala pentad returns",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.81/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.82.html">AN 5.82 &middot; Free of Greed</a> &mdash; next, the same '
+        "paired structure with the three classic unwholesome roots.",
+        '<a href="an-5.84.html">AN 5.84 &middot; Faithless</a> &mdash; where the sekhabala '
+        "pentad, familiar from AN 5.1, returns in this chapter.",
+        '<a href="an-5.90.html">AN 5.90 &middot; A Trainee (2nd)</a> &mdash; this chapter&rsquo;s '
+        "closing discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.82 — Vītarāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    82, "Vītarāga", "Free of Greed",
+    vagga=VAGGA_9,
+    meta_title="AN 5.82 — Free of Greed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vītarāgasutta — the "
+        "three classic unwholesome roots, greed, hatred, and delusion, paired with two "
+        "additional interpersonal faults, and their absence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, matching AN 5.81's structure"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, built on familiar "
+                       "vocabulary"),
+    ],
+    why=(
+        "AN 5.81's structure restated with the collection's most familiar trio &mdash; greed, "
+        "hatred, and delusion (<em>rāga, dosa, moha</em>), the three root defilements &mdash; "
+        "paired with two more specifically interpersonal faults: being offensive and being "
+        "contemptuous."),
+    guide=[
+        ("The three roots, plus two", [
+            "Unlike AN 5.81's five parallel gerundive terms, this discourse pairs the classic "
+            "three unwholesome roots with two additional, more specifically social faults, "
+            "for a differently shaped five-item list."]),
+        ("Makkhī and paḷāsī, defined", [
+            "<em>Makkhī</em> names denigrating or discounting others' good qualities or the "
+            "help one has received from them. <em>Paḷāsī</em> names contemptuous rivalry "
+            "&mdash; competitive one-upmanship, refusing to be outdone. Both are social vices, "
+            "distinct in kind from the three purely internal roots."]),
+        ("Why pair internal roots with interpersonal faults", [
+            "The pairing implies something the discourse doesn't state outright: freedom from "
+            "the three roots alone isn't sufficient for being well-regarded by companions. The "
+            "two added interpersonal qualities matter specifically for community standing, "
+            "beyond internal purification alone."]),
+        ("The mirrored positive", [
+            "<em>Vītarāga, vītadosa, vītamoha</em> &mdash; free of greed, hatred, and delusion "
+            "&mdash; paired with <em>amakkhī</em> and <em>apaḷāsī</em>, not denigrating and not "
+            "rivalrous."]),
+        ("A structural echo", [
+            "Same skeleton as AN 5.81, different content: two paired lists, both closing with "
+            "the identical verdict formula naming a senior mendicant as liked or disliked by "
+            "companions."]),
+        ("What comes next", [
+            "AN 5.83 turns to a wholly different cluster of five: manipulative pursuit of "
+            "material support."]),
+    ],
+    terms=[
+        ("rāga / dosa / moha",
+         "greed, hatred, and delusion &mdash; the three classic unwholesome roots, named "
+         "together here."),
+        ("makkhī",
+         "&ldquo;denigrating&rdquo; &mdash; discounting others' good qualities or the help one "
+         "has received from them."),
+        ("paḷāsī",
+         "&ldquo;contemptuous rivalry&rdquo; &mdash; competitive one-upmanship, refusing to be "
+         "outdone."),
+        ("vītarāga",
+         "&ldquo;free of greed&rdquo; &mdash; the positive counterpart naming the same root, "
+         "now absent."),
+        ("amakkhī / apaḷāsī",
+         "&ldquo;not denigrating&rdquo; / &ldquo;not rivalrous&rdquo; &mdash; the interpersonal "
+         "counterpart in the second list."),
+    ],
+    text_intro=(
+        "The discourse in full: the three roots plus two interpersonal faults, then their "
+        "five negated counterparts. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unlikable"),
+        ("p", "&sect;1", "an5.82:1.1-1.4"),
+        ("h3", "Dear and beloved"),
+        ("p", "&sect;2", "an5.82:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What three classic unwholesome roots are named in this discourse?",
+         "opts": [
+             "Faith, conscience, prudence",
+             "Greed, hatred, delusion",
+             "Craving, ignorance, conceit",
+             "Doubt, restlessness, dullness"],
+         "correct": 1,
+         "expl": "Rāga, dosa, moha — the three root defilements."},
+        {"q": "What does 'makkhī' name?",
+         "opts": [
+             "Physical laziness",
+             "Denigrating or discounting others' good qualities",
+             "Excessive talkativeness",
+             "Fear of criticism"],
+         "correct": 1,
+         "expl": "A social, interpersonal fault distinct from the three roots."},
+        {"q": "What does 'paḷāsī' name?",
+         "opts": [
+             "Generosity",
+             "Contemptuous rivalry, refusing to be outdone",
+             "Excessive humility",
+             "Fear of the wilderness"],
+         "correct": 1,
+         "expl": "Competitive one-upmanship."},
+        {"q": "How many total qualities make up this discourse's list?",
+         "opts": [
+             "Three",
+             "Five — three roots plus two interpersonal faults",
+             "Seven",
+             "Ten"],
+         "correct": 1,
+         "expl": "A differently shaped five-item list than AN 5.81's."},
+        {"q": "What does pairing the three roots with two interpersonal faults suggest?",
+         "opts": [
+             "That interpersonal faults don't matter",
+             "That internal purification alone isn't sufficient for being well-regarded by companions",
+             "That the three roots are unrelated to community standing",
+             "That only monks with wrong view can have these faults"],
+         "correct": 1,
+         "expl": "Social standing depends on more than the three roots alone."},
+        {"q": "What is the positive counterpart to rāga, named in the second list?",
+         "opts": [
+             "Amakkhī",
+             "Vītarāga",
+             "Apaḷāsī",
+             "Sammādiṭṭhi"],
+         "correct": 1,
+         "expl": "Free of greed."},
+        {"q": "What is the positive counterpart to makkhī?",
+         "opts": [
+             "Apaḷāsī",
+             "Amakkhī",
+             "Vītadosa",
+             "Sīlavā"],
+         "correct": 1,
+         "expl": "Not denigrating."},
+        {"q": "Does this discourse's paired-list structure echo AN 5.81's?",
+         "opts": [
+             "No, it is an entirely new format",
+             "Yes, the same two-list skeleton with different content",
+             "It uses three lists instead of two",
+             "It uses only a single list"],
+         "correct": 1,
+         "expl": "Same skeleton, different content — the second such discourse in a row."},
+        {"q": "What common closing formula does this discourse share with AN 5.81?",
+         "opts": [
+             "A colophon naming the chapter",
+             "The verdict naming a senior mendicant as liked or disliked by companions",
+             "A dedication of merit",
+             "A warning about future perils"],
+         "correct": 1,
+         "expl": "Both discourses close identically."},
+        {"q": "What does this discourse's title, 'Vītarāgasutta', mean?",
+         "opts": [
+             "Deceiver",
+             "Free of Greed",
+             "Desirable",
+             "Faithless"],
+         "correct": 1,
+         "expl": "Naming the discourse for its central positive quality."},
+    ],
+    marginalia=[
+        ("Three roots, two more", [
+            "rāga &middot; dosa &middot; moha",
+            "+ makkhī &middot; paḷāsī",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">paḷāsī</span>",
+            "&mdash; contemptuous",
+            "rivalry",
+        ]),
+        ("Same skeleton, new content", [
+            "the second discourse",
+            "in a row to use it",
+        ]),
+        ("Cross-references", [
+            "AN 5.81 &middot; the same paired-list structure",
+            "AN 5.83 &middot; next: manipulative pursuit of support",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.82/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.81.html">AN 5.81 &middot; Desirable</a> &mdash; the previous discourse, '
+        "the same paired structure with a different five-item list.",
+        '<a href="an-5.83.html">AN 5.83 &middot; Deceiver</a> &mdash; next: manipulative '
+        "pursuit of material support.",
+        '<a href="an-5.90.html">AN 5.90 &middot; A Trainee (2nd)</a> &mdash; this '
+        "chapter&rsquo;s closing discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.83 — Kuhakasutta
+# --------------------------------------------------------------------------- #
+page(
+    83, "Kuhaka", "Deceiver",
+    vagga=VAGGA_9,
+    meta_title="AN 5.83 — Deceiver | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kuhakasutta — a "
+        "classic five-term formula for manipulative pursuit of material support: deceit, "
+        "flattery, hinting, belittling, and using gains to chase further gains. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, matching this chapter's running structure"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; five distinct terms for "
+                       "one behavioral cluster"),
+    ],
+    why=(
+        "A well-known stock formula for scheming, acquisitive conduct, found at several points "
+        "across the early canon: deceit, flattery, hinting, belittling, and using gains "
+        "already received to chase further gains &mdash; five distinct faces of the same "
+        "underlying manipulation aimed at material support."),
+    guide=[
+        ("Five terms, one behavioral cluster", [
+            "Unlike AN 5.81's basic reactivity or AN 5.82's roots-plus-interpersonal-faults, "
+            "this discourse's five terms are entirely about manipulative pursuit of material "
+            "support &mdash; a single behavioral cluster viewed from five angles."]),
+        ("Kuhaka and lapaka", [
+            "<em>Kuhaka</em> names a deceiver, one who fakes spiritual qualities to attract "
+            "support. <em>Lapaka</em> names a flatterer, one who ingratiates through talk."]),
+        ("Nemittika and nippesika", [
+            "<em>Nemittika</em> names a hinter, one who drops hints designed to extract gifts "
+            "without asking outright. <em>Nippesika</em> names a belittler, one who "
+            "undermines others by comparison in order to look better."]),
+        ("Using gains to chase further gains", [
+            "The fifth item, <em>lābhena lābhaṁ nijigīsitā</em>, names a specific tactic: "
+            "using a gift already received to angle for a larger one in return &mdash; giving "
+            "a small offering, for instance, in order to prompt a bigger one back."]),
+        ("The mirrored positive", [
+            "As at AN 5.81&ndash;82, the beloved senior mendicant is described simply by the "
+            "negation of all five terms, with nothing further added."]),
+        ("What comes next", [
+            "AN 5.84 restates a five-item list already familiar from this nipāta's very "
+            "opening: faith, conscience, prudence, energy, and wisdom."]),
+    ],
+    terms=[
+        ("kuhaka",
+         "&ldquo;a deceiver&rdquo; &mdash; one who fakes spiritual qualities to gain support."),
+        ("lapaka",
+         "&ldquo;a flatterer&rdquo; &mdash; one who ingratiates through talk."),
+        ("nemittika",
+         "&ldquo;a hinter&rdquo; &mdash; one who drops hints to extract gifts without asking "
+         "outright."),
+        ("nippesika",
+         "&ldquo;a belittler&rdquo; &mdash; one who undermines others by comparison."),
+        ("lābhena lābhaṁ nijigīsitā",
+         "&ldquo;using gains to chase further gains&rdquo; &mdash; using a gift already "
+         "received to angle for a larger one."),
+    ],
+    text_intro=(
+        "The discourse in full: five faces of manipulative pursuit of support, then their "
+        "negation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unlikable"),
+        ("p", "&sect;1", "an5.83:1.1-1.4"),
+        ("h3", "Dear and beloved"),
+        ("p", "&sect;2", "an5.83:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What single behavioral cluster does this discourse's list center on?",
+         "opts": [
+             "Basic sensory reactivity",
+             "Manipulative pursuit of material support",
+             "Physical violence",
+             "Doctrinal error"],
+         "correct": 1,
+         "expl": "Five distinct terms, one underlying pattern."},
+        {"q": "What does 'kuhaka' mean?",
+         "opts": [
+             "A deceiver, one who fakes spiritual qualities to gain support",
+             "A generous donor",
+             "A skilled teacher",
+             "A wilderness-dweller"],
+         "correct": 0,
+         "expl": "The discourse's title term."},
+        {"q": "What does 'lapaka' mean?",
+         "opts": [
+             "A silent meditator",
+             "A flatterer, one who ingratiates through talk",
+             "A strict disciplinarian",
+             "A traveling merchant"],
+         "correct": 1,
+         "expl": "The second of the five terms."},
+        {"q": "What does 'nemittika' mean?",
+         "opts": [
+             "A hinter, one who drops hints to extract gifts",
+             "A direct, outright beggar",
+             "A scholar of Vinaya",
+             "A physician"],
+         "correct": 0,
+         "expl": "Extracting gifts through hints rather than direct requests."},
+        {"q": "What does 'nippesika' mean?",
+         "opts": [
+             "A belittler, one who undermines others by comparison",
+             "One who praises others generously",
+             "A cheerful companion",
+             "A patient teacher"],
+         "correct": 0,
+         "expl": "Undermining rivals to look better by contrast."},
+        {"q": "What does 'using gains to chase further gains' describe?",
+         "opts": [
+             "Donating everything one owns",
+             "Using a gift already received to angle for a larger one in return",
+             "Refusing all material support",
+             "Sharing gains equally among companions"],
+         "correct": 1,
+         "expl": "A specific manipulative tactic, the fifth term."},
+        {"q": "Is this five-term list a well-known formula elsewhere in the canon, or unique to this discourse?",
+         "opts": [
+             "Unique to this discourse alone",
+             "A well-known stock formula found at several points across the early canon",
+             "Borrowed from a much later commentary",
+             "The text does not say"],
+         "correct": 1,
+         "expl": "A recognizable, recurring formula for scheming conduct."},
+        {"q": "How is the 'beloved' list constructed relative to the 'unlikable' list?",
+         "opts": [
+             "As a completely different set of five qualities",
+             "As the simple negation of all five terms",
+             "As only two of the five negated",
+             "As an expanded, ten-item list"],
+         "correct": 1,
+         "expl": "Matching AN 5.81–82's pattern."},
+        {"q": "What broad category of monastic misconduct does this list belong to?",
+         "opts": [
+             "Physical violence",
+             "Scheming, acquisitive pursuit of material support",
+             "Doctrinal heresy",
+             "Neglect of meditation alone"],
+         "correct": 1,
+         "expl": "A stock formula for wrong, manipulative livelihood."},
+        {"q": "What familiar five-item list does AN 5.84 restate next?",
+         "opts": [
+             "The five hindrances",
+             "Faith, conscience, prudence, energy, and wisdom — from AN 5.1",
+             "The five aggregates",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "The sekhabala pentad, returning in this chapter."},
+    ],
+    marginalia=[
+        ("Five faces of scheming", [
+            "deceit &middot; flattery",
+            "hinting &middot; belittling",
+            "&middot; chasing gains",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">nemittika</span>",
+            "&mdash; a hinter,",
+            "extracting by suggestion",
+        ]),
+        ("A well-known stock formula", [
+            "found at several points",
+            "across the early canon",
+        ]),
+        ("Cross-references", [
+            "AN 5.82 &middot; the previous discourse",
+            "AN 5.84 &middot; next: the sekhabala pentad returns",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.83/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.82.html">AN 5.82 &middot; Free of Greed</a> &mdash; the previous '
+        "discourse, the three roots plus two interpersonal faults.",
+        '<a href="an-5.84.html">AN 5.84 &middot; Faithless</a> &mdash; next: the familiar '
+        "sekhabala pentad, first named at AN 5.1.",
+        '<a href="an-5.90.html">AN 5.90 &middot; A Trainee (2nd)</a> &mdash; this '
+        "chapter&rsquo;s closing discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.84 — Assaddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    84, "Assaddha", "Faithless",
+    vagga=VAGGA_9,
+    meta_title="AN 5.84 — Faithless | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Assaddhasutta — the "
+        "sekhabala pentad from AN 5.1, faith, conscience, prudence, energy, and wisdom, now "
+        "reframed as what makes a senior mendicant liked or disliked by companions. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, matching this chapter's running structure"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and familiar from "
+                       "this nipāta's opening"),
+    ],
+    why=(
+        "This discourse directly restates AN 5.1's five trainee-powers &mdash; faith, "
+        "conscience, prudence, energy, and wisdom (<em>saddhā, hiri, ottappa, vīriya, "
+        "paññā</em>) &mdash; the very pentad that opened this entire nipāta, now reframed not "
+        "as powers a trainee cultivates but as exactly what makes a senior mendicant liked or "
+        "disliked by companions."),
+    guide=[
+        ("The sekhabala pentad, once more", [
+            "The negative list here &mdash; faithless, shameless, imprudent, lazy, witless "
+            "(<em>assaddha, ahirika, anottappī, kusīta, duppañña</em>) &mdash; is the precise "
+            "inverse of AN 5.1's opening five trainee-powers, and the positive list restates "
+            "those five powers by name, unchanged."]),
+        ("From personal power to social regard", [
+            "AN 5.1 offered these five as powers a trainee cultivates for their own progress. "
+            "Here, the same five qualities are reframed through an entirely different lens: "
+            "what determines how a senior mendicant is regarded by their own companions. The "
+            "content is identical; the stakes named for it are not."]),
+        ("The negative list, defined", [
+            "<em>Assaddha</em> (faithless), <em>ahirika</em> (shameless, lacking conscience), "
+            "<em>anottappī</em> (imprudent, lacking prudent restraint), <em>kusīta</em> (lazy), "
+            "and <em>duppañña</em> (witless) &mdash; the precise inverse of each of the five "
+            "positive qualities, term for term."]),
+        ("A persistent thread across this nipāta", [
+            "This same pentad, and its distinction from the standard bala/indriya list "
+            "(faith, energy, mindfulness, immersion, wisdom), was first flagged in this "
+            "project at AN 4.163 and became this nipāta's opening statement at AN 5.1; this "
+            "discourse is its most direct restatement so far within the Fives themselves."]),
+        ("What's notable about the reframing", [
+            "A purely internal list of trainee-powers is shown here to have direct social "
+            "consequences &mdash; how one is regarded by companions turns on the very same "
+            "five qualities that determine one's own progress on the path."]),
+        ("What comes next", [
+            "AN 5.85 shifts to a wholly different five: the capacity to endure the five "
+            "external sense objects."]),
+    ],
+    terms=[
+        ("saddhā",
+         "&ldquo;faith&rdquo; &mdash; the first of the sekhabala pentad, restated here."),
+        ("hiri / ottappa",
+         "conscience and prudence &mdash; the twin moral-restraint qualities, second and third "
+         "in the pentad."),
+        ("vīriya",
+         "&ldquo;energy&rdquo; &mdash; the fourth quality."),
+        ("paññā",
+         "&ldquo;wisdom&rdquo; &mdash; closing the pentad."),
+        ("sekhabala",
+         "the trainee's five powers, first named at AN 5.1 and distinguished there from the "
+         "standard bala/indriya list."),
+    ],
+    text_intro=(
+        "The discourse in full: the sekhabala pentad's absence, then its restatement by name. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unlikable"),
+        ("p", "&sect;1", "an5.84:1.1-1.4"),
+        ("h3", "Dear and beloved"),
+        ("p", "&sect;2", "an5.84:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five qualities make up this discourse's negative list?",
+         "opts": [
+             "Deceit, flattery, hinting, belittling, gain-chasing",
+             "Faithless, shameless, imprudent, lazy, witless",
+             "Greed, hatred, delusion, spite, rivalry",
+             "Desire, hatred, delusion, annoyance, intoxication"],
+         "correct": 1,
+         "expl": "The precise inverse of the sekhabala pentad."},
+        {"q": "What five qualities make up the positive list?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Ethics, learning, speech, absorption, liberation",
+             "Long-standing, famous, supported, learned, right view",
+             "Fewness of wishes, contentment, seclusion, energy, immersion"],
+         "correct": 0,
+         "expl": "The sekhabala pentad, named exactly as at AN 5.1."},
+        {"q": "Where did this exact five-item pentad first appear in this nipāta?",
+         "opts": [
+             "AN 5.50",
+             "AN 5.1",
+             "AN 5.71",
+             "It has not appeared before"],
+         "correct": 1,
+         "expl": "The Fives' opening discourse."},
+        {"q": "In AN 5.1, how were these five qualities framed?",
+         "opts": [
+             "As powers a trainee cultivates for their own progress",
+             "As a warning about future perils",
+             "As qualities of a warrior",
+             "As a list of monastic offenses"],
+         "correct": 0,
+         "expl": "Sekhabala — a trainee's own five powers."},
+        {"q": "How does this discourse reframe the same five qualities?",
+         "opts": [
+             "As irrelevant to monastic life",
+             "As what determines a senior mendicant's regard among companions",
+             "As qualities exclusive to laypeople",
+             "As a description of the Buddha alone"],
+         "correct": 1,
+         "expl": "Personal power reframed as a matter of social standing."},
+        {"q": "What does 'hiri' mean?",
+         "opts": [
+             "Conscience, a sense of shame at wrongdoing",
+             "Energy",
+             "Wisdom",
+             "Faith"],
+         "correct": 0,
+         "expl": "The second quality in the pentad."},
+        {"q": "What does 'ottappa' mean?",
+         "opts": [
+             "Prudence, fear of the consequences of wrongdoing",
+             "Laziness",
+             "Doubt",
+             "Craving"],
+         "correct": 0,
+         "expl": "The third quality, paired closely with hiri."},
+        {"q": "What earlier discourse in this project first distinguished this pentad from the standard bala/indriya list?",
+         "opts": [
+             "AN 4.163",
+             "AN 3.1",
+             "AN 5.71",
+             "AN 1.1"],
+         "correct": 0,
+         "expl": "Cited in the guide as the thread's first flagging point."},
+        {"q": "Is this the same or a different five qualities than AN 5.83's scheming-behavior list?",
+         "opts": [
+             "The same five qualities",
+             "An entirely different five qualities",
+             "Three qualities overlap",
+             "AN 5.83 has no list at all"],
+         "correct": 1,
+         "expl": "AN 5.83's list concerned manipulative pursuit of support; this one restates the sekhabala pentad."},
+        {"q": "What does AN 5.85 turn to next?",
+         "opts": [
+             "The capacity to endure the five external sense objects",
+             "A description of wrong livelihood",
+             "The four noble truths",
+             "The colophon closing this chapter"],
+         "correct": 0,
+         "expl": "A wholly different five-item list."},
+    ],
+    marginalia=[
+        ("The sekhabala pentad, again", [
+            "faith &middot; conscience",
+            "prudence &middot; energy",
+            "&middot; wisdom",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">hiri / ottappa</span>",
+            "&mdash; conscience",
+            "and prudence, paired",
+        ]),
+        ("From power to regard", [
+            "AN 5.1's trainee powers,",
+            "now a matter of",
+            "companions' esteem",
+        ]),
+        ("Cross-references", [
+            "AN 5.1 &middot; this pentad's source",
+            "AN 4.163 &middot; where the thread was first flagged",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.84/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.1.html">AN 5.1 &middot; In Brief</a> &mdash; where this exact pentad '
+        "first opened the Fives.",
+        '<a href="an-5.83.html">AN 5.83 &middot; Deceiver</a> &mdash; the previous discourse, '
+        "a different five-item list.",
+        '<a href="an-5.85.html">AN 5.85 &middot; Cannot Endure</a> &mdash; next: enduring '
+        "the five external sense objects.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.85 — Akkhamasutta
+# --------------------------------------------------------------------------- #
+page(
+    85, "Akkhama", "Cannot Endure",
+    vagga=VAGGA_9,
+    meta_title="AN 5.85 — Cannot Endure | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Akkhamasutta — the "
+        "capacity to endure or fail to endure the five external sense objects: sights, "
+        "sounds, smells, tastes, and touches. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, matching this chapter's running structure"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and foundational "
+                       "vocabulary"),
+    ],
+    why=(
+        "A return to one of the canon's most basic lists: the five external sense objects "
+        "&mdash; sights, sounds, smells, tastes, and touches &mdash; here used to name a "
+        "single, simple capacity: whether a senior mendicant can endure ordinary contact with "
+        "them at all."),
+    guide=[
+        ("The five sense objects, a foundational list", [
+            "<em>Rūpa, sadda, gandha, rasa, phoṭṭhabba</em> &mdash; sights, sounds, smells, "
+            "tastes, and touches &mdash; correspond to the eye, ear, nose, tongue, and body, "
+            "and appear throughout the canon as the standard fivefold division of external "
+            "sense experience."]),
+        ("'Cannot endure'", [
+            "<em>Akkhama</em> names a simple inability to tolerate ordinary sense contact "
+            "&mdash; not a technical meditative failure, just a basic lack of patience with "
+            "whatever the senses happen to register."]),
+        ("The same five objects, reframed positively", [
+            "<em>Khama</em>, endurance or patience toward the same five objects, is offered as "
+            "the beloved senior mendicant's counterpart quality, with nothing else added."]),
+        ("Not the same as sense-restraint proper", [
+            "This discourse's akkhama/khama names something more basic than the fuller "
+            "technical practice of sense-restraint (<em>indriyasaṁvara</em>) described at AN "
+            "5.76 &mdash; not grasping at the features and details of what is seen or heard. "
+            "This is bare tolerance itself, prior to any particular technique for managing "
+            "sense contact."]),
+        ("Continuing the chapter's format", [
+            "The fifth discourse in a row to use this chapter's paired unlikable/beloved "
+            "skeleton, with a fifth distinct five-item list."]),
+        ("What comes next", [
+            "AN 5.86 breaks the pattern for the first time in this chapter, offering only a "
+            "single positive list without a paired negative counterpart."]),
+    ],
+    terms=[
+        ("akkhama / khama",
+         "&ldquo;unable to endure&rdquo; / &ldquo;able to endure&rdquo; &mdash; this "
+         "discourse's central pair."),
+        ("rūpa",
+         "&ldquo;sights&rdquo; &mdash; the first of the five sense objects."),
+        ("phoṭṭhabba",
+         "&ldquo;touches&rdquo; &mdash; the fifth sense object, corresponding to the body."),
+        ("indriya",
+         "&ldquo;sense faculty&rdquo; &mdash; eye, ear, nose, tongue, body; the basis for this "
+         "five-item list."),
+        ("sabrahmacārī",
+         "&ldquo;spiritual companions&rdquo; &mdash; the central term repeated throughout this "
+         "chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: inability to endure the five sense objects, then its "
+        "opposite. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unlikable"),
+        ("p", "&sect;1", "an5.85:1.1-1.4"),
+        ("h3", "Dear and beloved"),
+        ("p", "&sect;2", "an5.85:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five sense objects does this discourse's list cover?",
+         "opts": [
+             "Sights, sounds, smells, tastes, touches",
+             "Faith, conscience, prudence, energy, wisdom",
+             "Greed, hatred, delusion, spite, rivalry",
+             "Work, talk, sleep, company, freedom"],
+         "correct": 0,
+         "expl": "Rūpa, sadda, gandha, rasa, phoṭṭhabba — the standard external sense objects."},
+        {"q": "What does 'akkhama' mean?",
+         "opts": [
+             "Able to endure",
+             "Unable to endure",
+             "Deceptive",
+             "Learned"],
+         "correct": 1,
+         "expl": "The discourse's title term."},
+        {"q": "What does 'khama' mean?",
+         "opts": [
+             "Unable to endure",
+             "Able to endure",
+             "Faithless",
+             "Contemptuous"],
+         "correct": 1,
+         "expl": "The positive counterpart named in the second list."},
+        {"q": "How does this discourse's akkhama/khama differ from full sense-restraint as described at AN 5.76?",
+         "opts": [
+             "It is identical in every respect",
+             "It names a more basic capacity — bare tolerance — prior to any specific technique",
+             "It applies only to sight, not the other senses",
+             "It is a stricter, more advanced practice"],
+         "correct": 1,
+         "expl": "Indriyasaṁvara at AN 5.76 involves not grasping features and details; this is simpler, bare tolerance."},
+        {"q": "Which sense faculty does 'phoṭṭhabba' correspond to?",
+         "opts": [
+             "Eye",
+             "Ear",
+             "Body",
+             "Tongue"],
+         "correct": 2,
+         "expl": "Touches, corresponding to the body."},
+        {"q": "Is this five-item list of sense objects unique to this discourse, or a standard formula?",
+         "opts": [
+             "Unique to this discourse",
+             "A standard, foundational formula used throughout the canon",
+             "Invented specifically for this chapter",
+             "Borrowed from a later commentary"],
+         "correct": 1,
+         "expl": "One of the canon's most basic and frequently used lists."},
+        {"q": "What is the shared skeleton this discourse follows, matching AN 5.81–84?",
+         "opts": [
+             "A single list with no counterpart",
+             "Two paired five-item lists, both closing with an identical verdict formula",
+             "A narrative simile",
+             "A dialogue with a named questioner"],
+         "correct": 1,
+         "expl": "The fifth discourse in a row to use this paired structure."},
+        {"q": "What does AN 5.86 change about this chapter's pattern?",
+         "opts": [
+             "Nothing changes",
+             "It offers only a single positive list, with no paired negative counterpart",
+             "It removes the verdict formula entirely",
+             "It shifts to a completely different chapter"],
+         "correct": 1,
+         "expl": "The first break in the paired-list pattern so far in this chapter."},
+        {"q": "How many sense objects total are named in this discourse?",
+         "opts": [
+             "Three",
+             "Four",
+             "Five",
+             "Six"],
+         "correct": 2,
+         "expl": "Sights, sounds, smells, tastes, touches."},
+        {"q": "What earlier discourse in this chapter directly restates the sekhabala pentad?",
+         "opts": [
+             "AN 5.81",
+             "AN 5.82",
+             "AN 5.83",
+             "AN 5.84"],
+         "correct": 3,
+         "expl": "Faith, conscience, prudence, energy, wisdom — first named at AN 5.1."},
+    ],
+    marginalia=[
+        ("Five senses, one capacity", [
+            "sights &middot; sounds",
+            "smells &middot; tastes",
+            "&middot; touches",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">akkhama / khama</span>",
+            "&mdash; unable / able",
+            "to endure",
+        ]),
+        ("Tolerance, not technique", [
+            "contrast with full",
+            "sense-restraint at AN 5.76",
+        ]),
+        ("Cross-references", [
+            "AN 5.76 &middot; full sense-restraint, contrasted here",
+            "AN 5.86 &middot; next: the pattern breaks",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.85/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.84.html">AN 5.84 &middot; Faithless</a> &mdash; the previous discourse, '
+        "the sekhabala pentad restated.",
+        '<a href="an-5.86.html">AN 5.86 &middot; Attaining the Methods of Textual '
+        "Analysis</a> &mdash; next: the chapter's paired-list pattern breaks.",
+        '<a href="an-5.76.html">AN 5.76 &middot; Warriors (2nd)</a> &mdash; where full '
+        "sense-restraint, contrasted with this discourse's simpler endurance, is described in "
+        "full.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.86 — Paṭisambhidāpattasutta
+# --------------------------------------------------------------------------- #
+page(
+    86, "Paṭisambhidāpatta", "Attaining the Methods of Textual Analysis",
+    vagga=VAGGA_9,
+    meta_title="AN 5.86 — Attaining the Methods of Textual Analysis | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭisambhidāpattasutta — the chapter's first single-list discourse, pairing fourfold "
+        "textual mastery with practical competence in communal duties. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single five-item positive list, with no paired negative counterpart"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; introduces a specialized, "
+                       "fourfold analytical vocabulary"),
+    ],
+    why=(
+        "The first break in this chapter's paired-list pattern: only a single positive list is "
+        "given, pairing the four traditional kinds of textual and analytical mastery "
+        "(<em>paṭisambhidā</em>) with a wholly practical quality &mdash; being deft and "
+        "tireless in the diverse, ordinary chores of communal monastic life."),
+    guide=[
+        ("A break in the pattern", [
+            "Unlike AN 5.81&ndash;85's paired unlikable-and-beloved lists, this discourse "
+            "offers only a single list, describing what makes a senior mendicant dear and "
+            "beloved. No negative counterpart is given here."]),
+        ("The four paṭisambhidā, named", [
+            "<em>Attha</em> (meaning), <em>dhamma</em> (the text or teaching itself), "
+            "<em>nirutti</em> (language, etymology, precise definition), and <em>paṭibhāna</em> "
+            "(eloquence, inventive responsiveness) &mdash; four analytical competencies "
+            "traditionally associated with fully accomplished disciples of the teaching."]),
+        ("Practical competence alongside analytical mastery", [
+            "The discourse pairs these four scholarly attainments with something entirely "
+            "practical: being deft and tireless across a diverse spectrum of duties for one's "
+            "spiritual companions, understanding how to organize and complete communal work."]),
+        ("Why both together", [
+            "The pairing implies that being well-regarded depends on more than doctrinal "
+            "mastery alone; practical helpfulness in the ordinary work of communal life "
+            "matters just as much as command of the teaching's finer analytical points."]),
+        ("A standard analytical fourfold", [
+            "The four paṭisambhidā are a recognized, standard analytical scheme used elsewhere "
+            "in the canon to describe the fullest kind of doctrinal mastery; this discourse "
+            "does not elaborate further on what distinguishes each of the four beyond naming "
+            "them."]),
+        ("What comes next", [
+            "AN 5.87 continues the single-list pattern with an even fuller positive portrait, "
+            "culminating in complete liberation."]),
+    ],
+    terms=[
+        ("paṭisambhidā",
+         "the fourfold textual and analytical mastery named at the head of this discourse's "
+         "list."),
+        ("attha",
+         "&ldquo;meaning&rdquo; &mdash; the first of the four paṭisambhidā."),
+        ("nirutti",
+         "&ldquo;language, etymology, precise definition&rdquo; &mdash; the third."),
+        ("paṭibhāna",
+         "&ldquo;eloquence, inventive responsiveness&rdquo; &mdash; the fourth."),
+        ("dakkha",
+         "&ldquo;deft, skilled&rdquo; &mdash; describing this discourse's practical-competence "
+         "half of the list."),
+    ],
+    text_intro=(
+        "The discourse in full: fourfold textual mastery paired with practical competence in "
+        "communal duties. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Dear and beloved"),
+        ("p", "&sect;1", "an5.86:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What breaks in this discourse, unlike AN 5.81–85?",
+         "opts": [
+             "The chapter's identity is different",
+             "Only a single positive list is given, with no paired negative counterpart",
+             "The discourse has no verdict formula at all",
+             "The setting changes to a new city"],
+         "correct": 1,
+         "expl": "The first single-list discourse in this chapter."},
+        {"q": "How many kinds of textual analysis (paṭisambhidā) are named?",
+         "opts": [
+             "Two",
+             "Three",
+             "Four",
+             "Five"],
+         "correct": 2,
+         "expl": "Attha, dhamma, nirutti, paṭibhāna."},
+        {"q": "What does 'attha' mean, as the first paṭisambhidā?",
+         "opts": [
+             "Meaning",
+             "Language",
+             "Eloquence",
+             "Text"],
+         "correct": 0,
+         "expl": "The first of the four."},
+        {"q": "What does 'nirutti' mean?",
+         "opts": [
+             "Meaning",
+             "Language, etymology, precise definition",
+             "Physical endurance",
+             "Ethical conduct"],
+         "correct": 1,
+         "expl": "The third of the four paṭisambhidā."},
+        {"q": "What does 'paṭibhāna' mean?",
+         "opts": [
+             "Eloquence, inventive responsiveness",
+             "Silence",
+             "Physical strength",
+             "Generosity"],
+         "correct": 0,
+         "expl": "The fourth and final paṭisambhidā."},
+        {"q": "What practical quality is paired with these four analytical attainments?",
+         "opts": [
+             "Skill and tirelessness in the diverse duties of communal life",
+             "Physical strength in combat",
+             "Wealth and material possessions",
+             "Fame beyond the monastic community"],
+         "correct": 0,
+         "expl": "Practical helpfulness alongside doctrinal mastery."},
+        {"q": "What does this pairing suggest about what makes a senior mendicant well-regarded?",
+         "opts": [
+             "That doctrinal mastery alone is sufficient",
+             "That practical helpfulness matters as much as command of the teaching's finer points",
+             "That practical work is irrelevant to standing",
+             "That the two qualities are unrelated to each other"],
+         "correct": 1,
+         "expl": "Both scholarly and practical competence named together."},
+        {"q": "Is a negative, unlikable counterpart given in this discourse?",
+         "opts": [
+             "Yes, in full detail",
+             "No",
+             "Only partially",
+             "The text is ambiguous"],
+         "correct": 1,
+         "expl": "This discourse offers only the single positive list."},
+        {"q": "What common closing formula does this discourse still share with AN 5.81–85?",
+         "opts": [
+             "None; the format is entirely different",
+             "The verdict naming a senior mendicant as dear and beloved to companions",
+             "A colophon naming the chapter",
+             "A warning about future decline"],
+         "correct": 1,
+         "expl": "The verdict formula persists even without a paired negative list."},
+        {"q": "What does AN 5.87 add to this discourse's pattern?",
+         "opts": [
+             "A return to the paired-list format",
+             "An even fuller single positive list, culminating in complete liberation",
+             "A shift to a wholly new chapter",
+             "A narrative simile"],
+         "correct": 1,
+         "expl": "Continuing the single-list pattern with a longer, culminating portrait."},
+    ],
+    marginalia=[
+        ("A pattern broken", [
+            "single list only —",
+            "no paired opposite",
+        ]),
+        ("Four kinds of mastery", [
+            "attha &middot; dhamma",
+            "nirutti &middot; paṭibhāna",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">paṭibhāna</span>",
+            "&mdash; eloquence,",
+            "inventive response",
+        ]),
+        ("Cross-references", [
+            "AN 5.85 &middot; the previous, paired-list discourse",
+            "AN 5.87 &middot; next: a fuller portrait",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.86/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.85.html">AN 5.85 &middot; Cannot Endure</a> &mdash; the previous '
+        "discourse, still using the chapter's paired-list format.",
+        '<a href="an-5.87.html">AN 5.87 &middot; Ethical</a> &mdash; next: an even fuller '
+        "single positive portrait.",
+        '<a href="an-5.81.html">AN 5.81 &middot; Desirable</a> &mdash; back to this '
+        "chapter&rsquo;s opening and its paired-list pattern.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.87 — Sīlavantasutta
+# --------------------------------------------------------------------------- #
+page(
+    87, "Sīlavant", "Ethical",
+    vagga=VAGGA_9,
+    meta_title="AN 5.87 — Ethical | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sīlavantasutta — the "
+        "chapter's fullest positive portrait, from ethical conduct and deep learning through "
+        "effortless mastery of the four absorptions to complete liberation. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single five-item positive list, building toward complete liberation, with "
+                 "no paired negative counterpart"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a familiar, cumulative "
+                       "monastic portrait"),
+    ],
+    why=(
+        "The fullest positive list in this chapter so far: five qualities building toward "
+        "complete accomplishment &mdash; ethical conduct, deep learning, skilled speech, "
+        "effortless mastery of the four absorptions, and full liberation, realized through the "
+        "ending of defilements in this very life."),
+    guide=[
+        ("Five qualities, one cumulative portrait", [
+            "Unlike AN 5.86's two-part list, this discourse names five qualities in sequence, "
+            "each building on the last, culminating in complete liberation &mdash; the fullest "
+            "positive portrait this chapter offers."]),
+        ("Ethical conduct, in full", [
+            "<em>Sīlavā</em>, restrained by the monastic code, conducting oneself well, seeing "
+            "danger in the slightest fault &mdash; the standard formula for exemplary "
+            "discipline, named first."]),
+        ("Deep learning, in full", [
+            "<em>Bahussuta</em>, remembering and reciting a well-rounded body of teaching "
+            "described as &lsquo;good in the beginning, good in the middle, good in the "
+            "end&rsquo; &mdash; a stock phrase describing the Dhamma's own completeness, used "
+            "widely across the canon to characterize genuine, thorough learning rather than "
+            "mere memorization."]),
+        ("Skilled speech and effortless absorption", [
+            "<em>Kalyāṇavāco</em>, a well-spoken, articulate speaker, is paired with mastery of "
+            "the four absorptions attained &lsquo;when they want, without trouble or "
+            "difficulty&rsquo; (<em>nikāmalābhī akicchalābhī akasiralābhī</em>) &mdash; a stock "
+            "phrase for effortless meditative accomplishment used at several points across the "
+            "canon."]),
+        ("The culmination", [
+            "The list closes with realizing the undefiled freedom of heart and freedom by "
+            "wisdom (<em>cetovimutti, paññāvimutti</em>) through the ending of defilements, "
+            "&lsquo;in this very life&rsquo;, with direct personal insight &mdash; the same "
+            "twofold freedom named at the head of AN 5.71&ndash;72, here given its fullest "
+            "unpacking anywhere in this chapter."]),
+        ("What's absent, once more", [
+            "Like AN 5.86, no negative counterpart is given; this discourse simply names the "
+            "complete positive ideal, unmirrored."]),
+    ],
+    terms=[
+        ("sīlavā",
+         "&ldquo;ethical&rdquo; &mdash; restrained by the monastic code, the first quality."),
+        ("bahussuta",
+         "&ldquo;very learned&rdquo; &mdash; one who has heard much, remembering and reciting "
+         "a well-rounded body of teaching."),
+        ("kalyāṇavāco",
+         "&ldquo;a good, articulate speaker&rdquo; &mdash; the third quality."),
+        ("nikāmalābhī akicchalābhī akasiralābhī",
+         "&ldquo;attaining at will, without trouble, without difficulty&rdquo; &mdash; the "
+         "stock phrase for effortless mastery of the four absorptions."),
+        ("āsavakkhaya",
+         "&ldquo;ending of defilements&rdquo; &mdash; this discourse's culminating attainment."),
+    ],
+    text_intro=(
+        "The discourse in full: a five-part cumulative portrait, from ethical conduct to "
+        "complete liberation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The complete portrait"),
+        ("p", "&sect;1", "an5.87:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "How many qualities does this discourse's list contain?",
+         "opts": [
+             "Three",
+             "Four",
+             "Five",
+             "Six"],
+         "correct": 2,
+         "expl": "A five-part cumulative portrait."},
+        {"q": "Is this list paired with a negative counterpart, like AN 5.81–85?",
+         "opts": [
+             "Yes, in full detail",
+             "No — like AN 5.86, only the positive list is given",
+             "Only partially",
+             "The text is ambiguous"],
+         "correct": 1,
+         "expl": "The second consecutive single-list discourse."},
+        {"q": "What does 'sīlavā' describe?",
+         "opts": [
+             "Ethical conduct, restrained by the monastic code",
+             "Skill in debate",
+             "Physical endurance",
+             "Wealth"],
+         "correct": 0,
+         "expl": "The first quality named."},
+        {"q": "What does 'bahussuta' mean?",
+         "opts": [
+             "Very learned, one who has heard much",
+             "Very wealthy",
+             "Very old",
+             "Very strong"],
+         "correct": 0,
+         "expl": "The second quality, on deep learning."},
+        {"q": "What phrase describes the Dhamma's own completeness, quoted in the learning quality?",
+         "opts": [
+             "Deep, profound, transcendent, dealing with emptiness",
+             "Good in the beginning, good in the middle, good in the end",
+             "Blissful in this life and the next",
+             "Free of all faults whatsoever"],
+         "correct": 1,
+         "expl": "A stock phrase used widely to characterize thorough learning of genuine teaching."},
+        {"q": "What does 'kalyāṇavāco' describe?",
+         "opts": [
+             "A skilled meditator",
+             "A well-spoken, articulate speaker",
+             "A generous donor",
+             "A strict disciplinarian"],
+         "correct": 1,
+         "expl": "The third quality, on speech."},
+        {"q": "What stock phrase describes this mendicant's mastery of the four absorptions?",
+         "opts": [
+             "Attaining at will, without trouble, without difficulty",
+             "Attaining only after great struggle",
+             "Attaining once in a lifetime",
+             "Never attaining them at all"],
+         "correct": 0,
+         "expl": "Nikāmalābhī akicchalābhī akasiralābhī."},
+        {"q": "What twofold freedom does this discourse's final quality culminate in?",
+         "opts": [
+             "Freedom of heart and freedom by wisdom",
+             "Freedom from illness and freedom from poverty",
+             "Freedom of movement and freedom of speech",
+             "Freedom from monastic rules"],
+         "correct": 0,
+         "expl": "Cetovimutti and paññāvimutti, realized through the ending of defilements."},
+        {"q": "Where did this same twofold freedom first appear as a named fruit earlier in this chapter's larger nipāta?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.71–72",
+             "AN 5.51",
+             "It has not appeared before"],
+         "correct": 1,
+         "expl": "The fortress-epithet pair opening the Warriors chapter."},
+        {"q": "What is unusual about AN 5.87's list compared to the rest of this chapter?",
+         "opts": [
+             "It is the shortest discourse in the chapter",
+             "It is a cumulative, building portrait culminating in full liberation, unlike the shorter paired lists elsewhere",
+             "It uses a narrative simile instead of a list",
+             "It is addressed to a named individual rather than mendicants generally"],
+         "correct": 1,
+         "expl": "The chapter's fullest single positive portrait."},
+    ],
+    marginalia=[
+        ("Five qualities, one ideal", [
+            "ethics &middot; learning",
+            "&middot; speech &middot; jhāna",
+            "&middot; liberation",
+        ]),
+        ("Good in the beginning, middle, end", [
+            "the stock phrase for",
+            "the Dhamma's completeness",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">nikāmalābhī</span>",
+            "&mdash; attained",
+            "at will, effortlessly",
+        ]),
+        ("Cross-references", [
+            "AN 5.71&ndash;72 &middot; the same twofold freedom, first named",
+            "AN 5.88 &middot; next: the chapter's title discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.87/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.86.html">AN 5.86 &middot; Attaining the Methods of Textual '
+        "Analysis</a> &mdash; the previous discourse, also a single positive list.",
+        '<a href="an-5.88.html">AN 5.88 &middot; Senior Mendicants</a> &mdash; next: the '
+        "chapter's own title discourse.",
+        '<a href="an-5.71.html">AN 5.71 &middot; Freedom of Heart is the Fruit (1st)</a> '
+        "&mdash; where this discourse's twofold freedom was first named.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.88 — Therasutta
+# --------------------------------------------------------------------------- #
+page(
+    88, "Thera", "Senior Mendicants",
+    vagga=VAGGA_9,
+    meta_title="AN 5.88 — Senior Mendicants | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Therasutta, this "
+        "chapter's own title discourse — a senior mendicant's ordinary, even admirable "
+        "qualities become the vehicle for spreading wrong view, or right view, to many. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired portraits of a senior mendicant, sharing four qualities and "
+                 "differing in a single, decisive fifth"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a serious warning about "
+                       "influence and imitation, stated in strong terms"),
+    ],
+    why=(
+        "This discourse shares its name with the whole chapter, and is arguably its most "
+        "serious entry: what happens when a senior mendicant's influence, built from ordinary "
+        "and even admirable qualities, is used to spread wrong view rather than right. Four "
+        "qualities are shared by both the harmful and the beneficial senior mendicant; only "
+        "the fifth &mdash; view itself &mdash; decides which one they become."),
+    guide=[
+        ("The chapter's title discourse", [
+            "Named Therasutta, sharing its title directly with Theravagga itself, this "
+            "discourse asks what a senior mendicant's accumulated standing is actually used "
+            "for."]),
+        ("Four shared qualities, one crucial difference", [
+            "Both the harmful and the beneficial senior mendicant share four identical "
+            "qualities: long-standing (<em>rattaññū, cirapabbajita</em>), well-known and "
+            "famous with a large following of both laypeople and renunciates, receiving "
+            "robes, almsfood, lodging, and medicine, and being very learned. Only the fifth "
+            "quality differs: wrong view and a distorted perspective, versus right view and "
+            "an undistorted perspective."]),
+        ("Why this structure matters", [
+            "None of the four shared qualities is itself the problem. Seniority, fame, "
+            "material support, and learning are exactly what a genuinely beneficial senior "
+            "mendicant also has. The entire difference in outcome for &lsquo;many people&rsquo; "
+            "&mdash; even, the discourse says, for gods and humans &mdash; turns on the fifth "
+            "quality alone."]),
+        ("Imitation, named explicitly again", [
+            "As at AN 5.79, the mechanism of harm or benefit is generational imitation: people "
+            "follow the example (<em>diṭṭhānugati</em>) set by what the senior mendicant is "
+            "known for, in each of the four shared categories, reinforcing whichever view "
+            "underlies it."]),
+        ("The stakes named explicitly", [
+            "The discourse states plainly that a senior mendicant with wrong view "
+            "&lsquo;acts for the detriment and suffering of the people&hellip; of gods and "
+            "humans&rsquo; &mdash; among the strongest language used anywhere in this chapter "
+            "for what is, structurally, a doctrinal rather than a disciplinary failure."]),
+        ("A figure for AN 5.79's warning", [
+            "This discourse restates and personifies the institutional-decline warning given "
+            "in the abstract at AN 5.79, now embodied in a single influential figure whose "
+            "ordinary, respectable qualities are exactly what makes the influence, for good or "
+            "ill, effective."]),
+    ],
+    terms=[
+        ("rattaññū",
+         "&ldquo;long-standing&rdquo;, of long experience &mdash; the first shared quality."),
+        ("diṭṭhānugati",
+         "&ldquo;following an example set by another&rdquo; &mdash; the imitation mechanism, "
+         "first named at AN 5.79."),
+        ("micchādiṭṭhi / sammādiṭṭhi",
+         "&ldquo;wrong view&rdquo; / &ldquo;right view&rdquo; &mdash; the sole differentiating "
+         "fifth quality."),
+        ("bahujanahitāya",
+         "&ldquo;for the welfare of many people&rdquo; &mdash; the stated stakes of this "
+         "discourse."),
+        ("lābhī",
+         "&ldquo;one who receives&rdquo; robes, almsfood, lodging, and medicine &mdash; the "
+         "third shared quality."),
+    ],
+    text_intro=(
+        "The discourse in full: two paired portraits of a senior mendicant, sharing four "
+        "qualities and differing only in view. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The harmful senior mendicant"),
+        ("p", "&sect;1", "an5.88:1.1-2.8"),
+        ("h3", "The beneficial senior mendicant"),
+        ("p", "&sect;2", "an5.88:3.1-4.8"),
+    ],
+    quiz=[
+        {"q": "What title does this discourse share with the whole chapter?",
+         "opts": [
+             "Rajanīyasutta",
+             "Therasutta / Theravagga",
+             "Kuhakasutta",
+             "Sekhasutta"],
+         "correct": 1,
+         "expl": "This discourse and the chapter share the same underlying term, thera."},
+        {"q": "How many qualities do the harmful and beneficial senior mendicants have in common?",
+         "opts": [
+             "None",
+             "Two",
+             "Four",
+             "All five"],
+         "correct": 2,
+         "expl": "Long-standing, famous, well-supported, and learned — shared by both."},
+        {"q": "What is the single quality that differs between them?",
+         "opts": [
+             "Their age",
+             "Wrong view versus right view",
+             "Their level of material support",
+             "Their fame"],
+         "correct": 1,
+         "expl": "The sole differentiating factor."},
+        {"q": "Is seniority, fame, or material support itself named as the problem?",
+         "opts": [
+             "Yes, all three are condemned",
+             "No — none of the four shared qualities is itself the problem",
+             "Only fame is condemned",
+             "Only material support is condemned"],
+         "correct": 1,
+         "expl": "The discourse's central structural point."},
+        {"q": "What mechanism does this discourse say spreads the senior mendicant's influence to others?",
+         "opts": [
+             "Formal ordination procedures",
+             "Imitation — people following the example the senior mendicant sets",
+             "Direct debate and argument",
+             "Written scripture alone"],
+         "correct": 1,
+         "expl": "Diṭṭhānugati, the imitation mechanism."},
+        {"q": "Where was this same imitation mechanism previously named in this nipāta?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.79",
+             "AN 5.71",
+             "It has not appeared before"],
+         "correct": 1,
+         "expl": "The abstract institutional-decline warning this discourse now personifies."},
+        {"q": "What is the strongest stated consequence of a senior mendicant with wrong view?",
+         "opts": [
+             "A minor inconvenience to the Saṅgha",
+             "Acting for the detriment and suffering of the people, and of gods and humans",
+             "No consequence is stated",
+             "Only personal consequences for the senior mendicant themselves"],
+         "correct": 1,
+         "expl": "Among the strongest language used in this chapter."},
+        {"q": "What does 'rattaññū' mean?",
+         "opts": [
+             "Long-standing, of long experience",
+             "Wealthy",
+             "Newly ordained",
+             "Skilled in debate"],
+         "correct": 0,
+         "expl": "The first of the four shared qualities."},
+        {"q": "What does 'bahujanahitāya' mean?",
+         "opts": [
+             "For the welfare of many people",
+             "For personal gain only",
+             "For a single individual's benefit",
+             "For the harm of a rival group"],
+         "correct": 0,
+         "expl": "The stated stakes named in this discourse."},
+        {"q": "What earlier discourse does this one restate and personify in a single influential figure?",
+         "opts": [
+             "AN 5.71",
+             "AN 5.79",
+             "AN 5.84",
+             "AN 5.86"],
+         "correct": 1,
+         "expl": "The institutional-decline warning, now embodied."},
+    ],
+    marginalia=[
+        ("Four shared, one decisive", [
+            "long-standing &middot; famous",
+            "&middot; supported &middot; learned",
+            "&mdash; only view differs",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">diṭṭhānugati</span>",
+            "&mdash; following",
+            "the example set",
+        ]),
+        ("The chapter's title discourse", [
+            "shares its name",
+            "with Theravagga itself",
+        ]),
+        ("Cross-references", [
+            "AN 5.79 &middot; the institutional-decline warning, restated here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.88/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.79.html">AN 5.79 &middot; Future Perils (3rd)</a> &mdash; the abstract '
+        "institutional-decline warning this discourse personifies.",
+        '<a href="an-5.87.html">AN 5.87 &middot; Ethical</a> &mdash; the previous discourse, '
+        "the chapter&rsquo;s fullest positive portrait.",
+        '<a href="an-5.89.html">AN 5.89 &middot; A Trainee (1st)</a> &mdash; next: the '
+        "chapter turns from senior mendicants to trainees.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.89 — Paṭhamasekhasutta
+# --------------------------------------------------------------------------- #
+page(
+    89, "Paṭhamasekha", "A Trainee (1st)",
+    vagga=VAGGA_9,
+    meta_title="AN 5.89 — A Trainee (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamasekhasutta — "
+        "the chapter turns from senior mendicants to trainees, naming four relished "
+        "activities and one omitted review as causes of decline. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, returning to this chapter's opening structure"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and returns to a "
+                       "familiar structure"),
+    ],
+    why=(
+        "The chapter's focus narrows from senior mendicants (<em>thera</em>) to trainees "
+        "(<em>sekha</em>) &mdash; those still training on the path, not yet fully liberated. "
+        "Four ordinary activities, relished rather than merely done, and one omitted internal "
+        "check together name what leads a trainee toward decline."),
+    guide=[
+        ("From senior mendicants to trainees", [
+            "After three single-list discourses (AN 5.86&ndash;88), this discourse returns to "
+            "the chapter's opening paired-list structure, and shifts its subject entirely: not "
+            "a senior mendicant's standing among companions, but a trainee's own risk of "
+            "decline."]),
+        ("Four relishings, one omission", [
+            "<em>Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā</em> &mdash; relishing "
+            "work, talk, sleep, and company &mdash; are named as four decline factors, "
+            "alongside a fifth of a different kind: not reviewing the extent of one's own "
+            "mind's freedom (<em>yathāvimuttaṁ cittaṁ na paccavekkhati</em>)."]),
+        ("What 'relish' means here", [
+            "<em>Ārāmatā</em>, literally &lsquo;delighting in&rsquo;, doesn't condemn work, "
+            "talk, sleep, or company as such &mdash; every trainee needs some of each. What is "
+            "named as a decline factor is treating them as a source of pleasure that displaces "
+            "practice, not simply engaging in them as necessary."]),
+        ("The fifth factor, reviewing freedom", [
+            "Unlike the first four, this factor names not an activity to avoid but an internal "
+            "check a progressing trainee is expected to perform &mdash; periodically reviewing "
+            "how far one's own mind has actually been freed, rather than assuming progress "
+            "without examining it."]),
+        ("The mirrored positive", [
+            "As throughout this chapter, the non-decline list simply negates all five terms: "
+            "not relishing work, talk, sleep, or company, and reviewing the extent of one's "
+            "mind's freedom."]),
+        ("A short pair before a longer companion", [
+            "AN 5.90 immediately follows with the same &lsquo;decline of a trainee&rsquo; "
+            "framing, expanded into a much longer, more detailed five-factor list, closing "
+            "this chapter."]),
+    ],
+    terms=[
+        ("sekha",
+         "&ldquo;a trainee&rdquo; &mdash; one still training on the path, not yet fully "
+         "liberated; this discourse's subject, distinct from thera."),
+        ("kammārāmatā",
+         "&ldquo;relishing work&rdquo; &mdash; the first decline factor."),
+        ("bhassārāmatā",
+         "&ldquo;relishing talk&rdquo; &mdash; the second."),
+        ("saṅgaṇikārāmatā",
+         "&ldquo;relishing company&rdquo; &mdash; the fourth."),
+        ("yathāvimuttaṁ cittaṁ paccavekkhati",
+         "&ldquo;reviewing the extent of one's mind's freedom&rdquo; &mdash; the fifth factor, "
+         "an internal check rather than an activity to avoid."),
+    ],
+    text_intro=(
+        "The discourse in full: four relished activities and one omitted review as causes of "
+        "decline, then their absence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "What leads to decline"),
+        ("p", "&sect;1", "an5.89:1.1-1.4"),
+        ("h3", "What does not lead to decline"),
+        ("p", "&sect;2", "an5.89:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does 'sekha' mean?",
+         "opts": [
+             "A senior mendicant",
+             "A trainee, one still training on the path",
+             "A layperson",
+             "A monastery attendant"],
+         "correct": 1,
+         "expl": "Distinct from thera, this chapter's other central term."},
+        {"q": "Name one of the four things a declining trainee is said to relish.",
+         "opts": [
+             "Work",
+             "Fasting",
+             "Silence",
+             "Solitude"],
+         "correct": 0,
+         "expl": "Kammārāmatā — relishing work, one of four."},
+        {"q": "What is the fifth decline factor, distinct in kind from the other four?",
+         "opts": [
+             "Relishing food",
+             "Not reviewing the extent of one's mind's freedom",
+             "Relishing travel",
+             "Neglecting almsround"],
+         "correct": 1,
+         "expl": "An internal check, not an activity to avoid."},
+        {"q": "What does 'ārāmatā' literally suggest?",
+         "opts": [
+             "Avoiding entirely",
+             "Delighting in",
+             "Fearing",
+             "Forgetting"],
+         "correct": 1,
+         "expl": "The activities themselves aren't condemned — treating them as a source of pleasure is."},
+        {"q": "Is the fifth factor an activity to avoid, or an internal check to perform?",
+         "opts": [
+             "An activity to avoid, like the other four",
+             "An internal check a progressing trainee is expected to perform",
+             "Neither — it is not explained",
+             "A formal ceremony"],
+         "correct": 1,
+         "expl": "Reviewing one's own mind's freedom, distinct in kind."},
+        {"q": "How is the 'non-decline' list constructed relative to the decline list?",
+         "opts": [
+             "As an entirely new set of five factors",
+             "As the simple negation of all five terms",
+             "As only two of the five negated",
+             "As a longer, expanded list"],
+         "correct": 1,
+         "expl": "Matching this chapter's running pattern."},
+        {"q": "What broader shift happens between AN 5.88 and AN 5.89?",
+         "opts": [
+             "A shift in setting to a new city",
+             "A shift in subject from senior mendicants to trainees",
+             "A shift to a new chapter entirely",
+             "No shift; the subject stays identical"],
+         "correct": 1,
+         "expl": "From thera to sekha."},
+        {"q": "What does AN 5.90 do with this same 'decline of a trainee' framing?",
+         "opts": [
+             "Abandons it entirely",
+             "Expands it into a longer, more detailed five-factor list, closing the chapter",
+             "Reduces it to a single factor",
+             "Applies it to senior mendicants instead"],
+         "correct": 1,
+         "expl": "This chapter's closing discourse."},
+        {"q": "Is 'sekha' the same as 'thera', the chapter's title term?",
+         "opts": [
+             "Yes, interchangeable",
+             "No — distinct terms for different stages of monastic development",
+             "Thera is a subset of sekha",
+             "Neither term appears elsewhere in this chapter"],
+         "correct": 1,
+         "expl": "Sekha names a trainee; thera names a senior mendicant."},
+        {"q": "What term describes a monk not yet fully liberated, still training?",
+         "opts": [
+             "Thera",
+             "Sekha",
+             "Ārāmika",
+             "Upāsaka"],
+         "correct": 1,
+         "expl": "This discourse's central subject."},
+    ],
+    marginalia=[
+        ("Four relishings, one omission", [
+            "work &middot; talk",
+            "&middot; sleep &middot; company",
+            "&mdash; and no review",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">paccavekkhati</span>",
+            "&mdash; reviewing",
+            "one's own freedom",
+        ]),
+        ("From senior mendicants to trainees", [
+            "thera &rarr; sekha,",
+            "a narrower focus",
+        ]),
+        ("Cross-references", [
+            "AN 5.88 &middot; the previous discourse",
+            "AN 5.90 &middot; next: an expanded companion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.89/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.88.html">AN 5.88 &middot; Senior Mendicants</a> &mdash; the previous '
+        "discourse, this chapter's own title piece.",
+        '<a href="an-5.90.html">AN 5.90 &middot; A Trainee (2nd)</a> &mdash; next: an '
+        "expanded companion, closing this chapter.",
+        '<a href="an-5.73.html">AN 5.73 &middot; One Who Lives by the Teaching (1st)</a> '
+        "&mdash; an earlier discourse using a different criterion for decline: neglecting "
+        "retreat.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.90 — Dutiyasekhasutta
+# --------------------------------------------------------------------------- #
+page(
+    90, "Dutiyasekha", "A Trainee (2nd)",
+    vagga=VAGGA_9,
+    meta_title="AN 5.90 — A Trainee (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyasekhasutta, "
+        "closing the Theravagga — AN 5.89's short pair expanded into five fully spelled-out "
+        "decline factors, ending with this chapter's own colophon and mnemonic verse. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, each factor closing with a repeated "
+                 "retreat-and-serenity refrain, closing the chapter's own colophon"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; familiar structure, closing "
+                       "the chapter"),
+    ],
+    why=(
+        "AN 5.89's short pair, expanded: the same &lsquo;decline of a trainee&rsquo; framing, "
+        "now given five fully spelled-out factors, each closing with the identical "
+        "&lsquo;neglect retreat, not committed to serenity&rsquo; refrain last used at AN "
+        "5.73&ndash;74 in a different context. This discourse closes the chapter."),
+    guide=[
+        ("AN 5.89's short pair, expanded", [
+            "This discourse keeps the same &lsquo;decline of a trainee&rsquo; framing as AN "
+            "5.89, now giving each of five factors its own full statement, closing with the "
+            "identical refrain seen before at AN 5.73&ndash;74: neglecting retreat, and not "
+            "being committed to internal serenity of heart."]),
+        ("Overloaded with duties, and trivial work", [
+            "The first factor names a trainee with many responsibilities and competence in "
+            "many tasks &mdash; itself, ironically, a decline factor when it crowds out "
+            "retreat. The second names wasting the day on minor, trivial work."]),
+        ("Inappropriate mixing, and wrong-time almsround", [
+            "The third factor names mixing closely with laypeople and renunciates, "
+            "&lsquo;socializing like a layperson&rsquo; &mdash; echoing AN 5.80's concern "
+            "about improper closeness, now applied to a trainee's general social conduct "
+            "rather than one specific relationship. The fourth names entering the village at "
+            "the wrong time and returning too late."]),
+        ("Missing out on self-effacement talk", [
+            "The fifth factor names a trainee who doesn't get to take part, freely and "
+            "easily, in talk on self-effacement (<em>ābhisallekhikā kathā</em>) &mdash; a "
+            "named cluster of ten topics: fewness of wishes, contentment, seclusion, "
+            "aloofness, arousing energy, ethics, immersion, wisdom, freedom, and the knowledge "
+            "and vision of freedom. Simply lacking access to this kind of talk, when wanted, "
+            "is itself named as a cause of decline."]),
+        ("The mirrored positive", [
+            "As throughout this chapter, the non-decline list negates all five factors "
+            "exactly, each retaining the same retreat-and-serenity refrain in its positive "
+            "form."]),
+        ("The chapter's close", [
+            "The colophon &lsquo;Dasamaṁ. Theravaggo catuttho&rsquo; &mdash; the tenth "
+            "discourse, the fourth Theravagga by the traditional count across the whole "
+            "collection &mdash; follows the same mechanism explained in full at AN 5.10, and "
+            "is not repeated here. The chapter's mnemonic verse follows, left, as elsewhere in "
+            "this collection, untranslated in the source."]),
+    ],
+    terms=[
+        ("paṭisallāna / ajjhattaṁ cetosamatha",
+         "retreat / internal serenity of heart &mdash; the refrain repeated after each of the "
+         "five factors, as at AN 5.73&ndash;74."),
+        ("ābhisallekhikā kathā",
+         "talk on self-effacement &mdash; the topic-cluster named in the fifth factor."),
+        ("appicchakathā",
+         "talk on fewness of wishes &mdash; the first of the ten named topics."),
+        ("vimuttiñāṇadassanakathā",
+         "talk on the knowledge and vision of freedom &mdash; the last of the ten."),
+        ("Theravaggo catuttho",
+         "&ldquo;the fourth Theravagga&rdquo; &mdash; this chapter's closing colophon."),
+    ],
+    text_intro=(
+        "The discourse in full: five fully spelled-out decline factors, then their absence. "
+        "The chapter's closing colophon and Pāli mnemonic verse are part of the source but are "
+        "not translated text, and are described rather than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things that lead to decline"),
+        ("p", "&sect;1", "an5.90:1.1-1.5"),
+        ("p", "&sect;2", "an5.90:2.1-2.3"),
+        ("p", "&sect;3", "an5.90:3.1-3.3"),
+        ("p", "&sect;4", "an5.90:4.1-4.3"),
+        ("p", "&sect;5", "an5.90:5.1-5.5"),
+        ("h3", "Five things that do not"),
+        ("p", "&sect;6", "an5.90:6.1-6.5"),
+        ("p", "&sect;7", "an5.90:7.1-7.3"),
+        ("p", "&sect;8", "an5.90:8.1-8.3"),
+        ("p", "&sect;9", "an5.90:9.1-9.3"),
+        ("p", "&sect;10", "an5.90:10.1-10.5"),
+    ],
+    quiz=[
+        {"q": "What refrain closes each of this discourse's five decline factors, matching AN 5.73–74?",
+         "opts": [
+             "A dedication of merit",
+             "Neglecting retreat, and not being committed to internal serenity of heart",
+             "A warning about future perils",
+             "A colophon naming the chapter"],
+         "correct": 1,
+         "expl": "The same refrain last used in a different context at AN 5.73–74."},
+        {"q": "What is the first decline factor?",
+         "opts": [
+             "Too many duties and responsibilities",
+             "Excessive fasting",
+             "Living alone in the wilderness",
+             "Refusing all almsfood"],
+         "correct": 0,
+         "expl": "Being overloaded with duties, ironically crowding out retreat."},
+        {"q": "What is the second decline factor?",
+         "opts": [
+             "Wasting the day on trivial work",
+             "Excessive sleep",
+             "Traveling too far",
+             "Refusing to teach"],
+         "correct": 0,
+         "expl": "Minor tasks displacing serious practice."},
+        {"q": "What is the third decline factor, echoing a concern from AN 5.80?",
+         "opts": [
+             "Mixing closely with laypeople and renunciates, socializing like a layperson",
+             "Excessive study of texts",
+             "Living too far from any village",
+             "Refusing all social contact"],
+         "correct": 0,
+         "expl": "Echoing AN 5.80's concern about improper closeness, now applied more broadly."},
+        {"q": "What is the fourth decline factor?",
+         "opts": [
+             "Entering the village at the wrong time and returning too late",
+             "Never entering a village at all",
+             "Eating twice a day",
+             "Wearing the wrong robe color"],
+         "correct": 0,
+         "expl": "Poor timing of the almsround."},
+        {"q": "What is the fifth decline factor?",
+         "opts": [
+             "Lacking access to talk on self-effacement, when wanted",
+             "Excessive silence",
+             "Too much travel",
+             "Refusing all teaching duties"],
+         "correct": 0,
+         "expl": "Missing out on a named cluster of ten topics."},
+        {"q": "How many topics are named under 'talk on self-effacement'?",
+         "opts": [
+             "Five",
+             "Ten",
+             "Three",
+             "Seven"],
+         "correct": 1,
+         "expl": "Fewness of wishes, contentment, seclusion, aloofness, energy, ethics, immersion, wisdom, freedom, and knowledge-and-vision of freedom."},
+        {"q": "Name two of the ten topics in that list.",
+         "opts": [
+             "Fewness of wishes and contentment",
+             "Warfare and commerce",
+             "Astrology and medicine",
+             "Poetry and music"],
+         "correct": 0,
+         "expl": "Two of the ten named topics."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Dasamaṁ. Theravaggo catuttho.",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.80, repeated verbatim"],
+         "correct": 1,
+         "expl": "The tenth discourse, the fourth Theravagga."},
+        {"q": "What earlier discourse first explained this project's convention for chapter-closing colophons and mnemonic verses?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.10",
+             "AN 5.71",
+             "AN 5.81"],
+         "correct": 1,
+         "expl": "Cited here rather than re-explained, per this project's running convention."},
+    ],
+    marginalia=[
+        ("Five factors, one refrain", [
+            "matching AN 5.73&ndash;74's",
+            "retreat-and-serenity",
+            "refrain",
+        ]),
+        ("Ten topics of self-effacement talk", [
+            "fewness of wishes &middot;",
+            "contentment &middot; &hellip;",
+            "&middot; knowledge of freedom",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">ābhisallekhikā kathā</span>",
+            "&mdash; talk on",
+            "self-effacement",
+        ]),
+        ("Cross-references", [
+            "AN 5.73&ndash;74 &middot; the shared refrain, first used there",
+            "AN 5.10 &middot; the colophon convention, explained",
+            "AN 5.81 &middot; back to this chapter's opening",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.90/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.89.html">AN 5.89 &middot; A Trainee (1st)</a> &mdash; the previous '
+        "discourse, this one's shorter companion.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this same '
+        "chapter-closing colophon structure was first explained in full.",
+        '<a href="an-5.81.html">AN 5.81 &middot; Desirable</a> &mdash; back to this '
+        "chapter&rsquo;s opening, closing the loop.",
+    ],
+)
