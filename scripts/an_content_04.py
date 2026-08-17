@@ -59749,3 +59749,1856 @@ page(
         '<a href="an-4.254.html">AN 4.254 &middot; Insight</a> &mdash; the discourse that opened this chapter.',
     ],
 )
+
+VAGGA_27 = "<em>Kammapathavagga</em> &mdash; the twenty-seventh chapter of the Fours"
+SETTING_27 = ("None stated; the Kammapathavagga gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.264 — Pāṇātipātīsutta
+# --------------------------------------------------------------------------- #
+page(
+    264, "Pāṇātipātī", "Killing Living Creatures",
+    vagga=VAGGA_27,
+    meta_title="AN 4.264 — Killing Living Creatures | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pāṇātipātīsutta, opening "
+        "a chapter that gives each of the ten courses of action its own dedicated discourse for "
+        "the first time in this series, built on four degrees of complicity: doing it, "
+        "encouraging it, approving of it, and praising it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "Two parallel statements, hell and heaven, on four degrees of involvement in a "
+                 "single course of action"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "The distinction between direct action and complicity through "
+                              "encouragement, approval, and praise is a recurring ethical concern "
+                              "across the Nikāyas and Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple in form, with a "
+                       "genuinely useful ethical distinction inside it"),
+    ],
+    why=(
+        "This chapter does something none of this series' many partial treatments of the ten "
+        "courses of action has done: it gives each course its own discourse, one at a time, ten "
+        "discourses for ten courses. This opening discourse also introduces a structure new to "
+        "this series &mdash; not just whether a person kills, but whether they encourage others to "
+        "kill, approve of killing, or praise it. Four distinct degrees of involvement, all judged "
+        "the same way."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Killing living creatures oneself, encouraging others to kill, approving of killing, "
+            "and praising killing are four qualities that together deliver a person to hell as if "
+            "placed there; the four corresponding forms of abstention deliver them to heaven."]),
+        ("Ten courses, ten discourses, for the first time", [
+            "Earlier in this series, the ten courses of action have appeared compressed into a "
+            "tetrad by selecting four (AN 4.214, AN 4.224), folded into a threefold-conduct-plus-"
+            "view template with wrong view standing for the whole mental category (AN 4.212 and "
+            "its many descendants), or given all four verbal courses together as their own set (AN "
+            "4.221). This chapter does something none of those did: it dedicates one full "
+            "discourse to each single course, ten in total, and this discourse is the first of "
+            "them."]),
+        ("Four degrees of complicity, not previously given this shape", [
+            "<em>Attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca "
+            "samanuñño hoti, pāṇātipātassa ca vaṇṇaṁ bhāsati</em> &mdash; doing it oneself, "
+            "encouraging others to do it, approving of it, and praising it. This four-part "
+            "structure is more granular than anything this series has read applied to a single "
+            "course of action before. AN 4.202, several chapters back, paired only two degrees, "
+            "self and encouragement, across seven different qualities; this discourse adds two "
+            "further degrees &mdash; silent approval and active praise &mdash; and applies all "
+            "four to one specific act."]),
+        ("Why the extra two degrees matter", [
+            "Approval and praise are worth distinguishing from encouragement, since neither "
+            "requires actively persuading anyone to do anything. Approving of killing is a "
+            "private stance that need never be voiced; praising it is a public statement that "
+            "need never target a specific person to act. This discourse treats both as equally "
+            "sufficient, alongside personal action and direct encouragement, to complete the set "
+            "of four qualities that deliver a person to hell. The teaching&rsquo;s implicit claim "
+            "is that moral responsibility for an act extends well past the person who physically "
+            "commits it, reaching anyone who endorses it in any of these forms."]),
+        ("A chapter's worth of the same structure ahead", [
+            "This same four-part structure &mdash; self, encourage, approve, praise &mdash; will "
+            "recur through the rest of this chapter, one course of action at a time: stealing, "
+            "sexual misconduct, lying, divisive speech, harsh speech, nonsense, covetousness, ill "
+            "will, and wrong view. Having read it in full here, this reading guide will treat its "
+            "later repetitions briefly, noting what is specific to each course rather than "
+            "re-explaining the shared structure each time."]),
+    ],
+    terms=[
+        ("pāṇātipāta",
+         "&ldquo;killing living creatures&rdquo; &mdash; the first of the ten courses of action, "
+         "and this discourse&rsquo;s subject."),
+        ("samādapeti",
+         "&ldquo;encourages, incites&rdquo; &mdash; the second degree of involvement, actively "
+         "persuading another toward the act."),
+        ("samanuñño",
+         "&ldquo;approving, consenting&rdquo; &mdash; the third degree, a private stance that need "
+         "never be voiced to anyone."),
+        ("vaṇṇaṁ bhāsati",
+         "&ldquo;speaks in praise of&rdquo; &mdash; the fourth degree, a public statement that "
+         "need not target any specific person to act."),
+        ("dasa kammapatha",
+         "&ldquo;the ten courses of action&rdquo; &mdash; the full set this chapter gives "
+         "individual, dedicated treatment to for the first time in this series."),
+    ],
+    text_intro=(
+        "The discourse in full: hell for the four degrees of killing, heaven for their opposites. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an4.264:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an4.264:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four degrees of involvement does this discourse name?",
+         "opts": [
+             "Thought, speech, and two kinds of action",
+             "Doing it oneself, encouraging others, approving of it, and praising it",
+             "Body, speech, mind, and view",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "All four treated as equally sufficient to deliver a person to hell."},
+        {"q": "What does this chapter do differently from every earlier partial treatment of the ten courses of action in this series?",
+         "opts": [
+             "It ignores the ten courses of action entirely",
+             "It dedicates one full discourse to each of the ten courses individually, for the first time",
+             "It merges all ten into a single discourse",
+             "It reduces the ten courses to five"],
+         "correct": 1,
+         "expl": "Earlier treatments compressed, selected, or grouped them; this chapter treats each separately."},
+        {"q": "How does this discourse's four-degree structure compare to AN 4.202's earlier use of self and encouragement?",
+         "opts": [
+             "Identical in every respect",
+             "More granular: AN 4.202 paired only self and encouragement across seven qualities; this discourse adds approval and praise, applied to one specific act",
+             "This discourse has fewer degrees than AN 4.202",
+             "AN 4.202 already included approval and praise"],
+         "correct": 1,
+         "expl": "Two additional degrees of complicity, not previously given this shape in this series."},
+        {"q": "Why does the guide say approval and praise are worth distinguishing from direct encouragement?",
+         "opts": [
+             "They are not actually distinguishable",
+             "Approval is a private stance needing no voice; praise is public but need not target any specific person to act",
+             "They are more serious than direct encouragement",
+             "They apply only to monastics"],
+         "correct": 1,
+         "expl": "Neither requires actively persuading anyone to do anything, yet both count fully."},
+        {"q": "What does the guide say is the implicit claim behind treating all four degrees equally?",
+         "opts": [
+             "That only the person who physically commits an act bears responsibility",
+             "That moral responsibility for an act extends well past the person who physically commits it, to anyone who endorses it in any of these forms",
+             "That encouragement is worse than direct action",
+             "That praise is the least serious of the four degrees"],
+         "correct": 1,
+         "expl": "Personal action, encouragement, approval, and praise are all treated as sufficient on their own."},
+        {"q": "How many discourses will apply this same four-degree structure across this chapter?",
+         "opts": [
+             "Just this one",
+             "All ten, one course of action at a time",
+             "Five",
+             "Two"],
+         "correct": 1,
+         "expl": "Stealing, sexual misconduct, lying, and so on through wrong view."},
+        {"q": "What formula wraps this discourse?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;, from AN 4.212",
+             "The noble/ignoble expression formula",
+             "No formula at all"],
+         "correct": 1,
+         "expl": "The same formula this series has traced across many chapters."},
+        {"q": "How does the guide say it will treat this structure's later repetitions across this chapter?",
+         "opts": [
+             "In equal, full depth each time",
+             "Briefly, noting what is specific to each course rather than re-explaining the shared structure",
+             "Not at all; later discourses will be skipped",
+             "By contradicting this discourse's account"],
+         "correct": 1,
+         "expl": "Consistent with this series' practice on other recurring structures."},
+        {"q": "What are the four terms for this discourse's degrees of involvement, in Pāli?",
+         "opts": [
+             "Kaṇha, sukka, missed, and neither",
+             "Attanā, samādapeti, samanuñño, and vaṇṇaṁ bhāsati",
+             "Sāvajja, anavajja, sabyābajjha, and abyābajjha",
+             "Pariññeyya, pahātabba, bhāvetabba, and sacchikātabba"],
+         "correct": 1,
+         "expl": "Oneself, inciting, approving, and praising."},
+        {"q": "What is the first of the ten courses of action, and this discourse's subject?",
+         "opts": [
+             "Stealing",
+             "Killing living creatures, <em>pāṇātipāta</em>",
+             "Lying",
+             "Wrong view"],
+         "correct": 1,
+         "expl": "The first and gravest of the three bodily courses, opening this chapter's systematic treatment."},
+    ],
+    marginalia=[
+        ("Four degrees, one act", [
+            "doing it &middot; encouraging it",
+            "approving &middot; praising",
+        ]),
+        ("Ten courses, ten discourses", [
+            "for the first time,",
+            "each given its own",
+        ]),
+        ("More granular than before", [
+            "AN 4.202 &middot; self, encourage",
+            "AN 4.264 &middot; adds approve, praise",
+        ]),
+        ("Responsibility, extended", [
+            "past the one who acts,",
+            "to anyone who endorses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.264/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.214.html">AN 4.214 &middot; Killing Living Creatures</a> &mdash; the earlier, compressed four-item selection from the ten courses of action.',
+        '<a href="an-4.202.html">AN 4.202 &middot; Faithless</a> &mdash; where self and encouragement, without approval or praise, were paired across seven qualities.',
+        '<a href="an-4.265.html">AN 4.265 &middot; Stealing</a> &mdash; next, the same four-degree structure applied to the second course of action.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.265 — Adinnādāyīsutta
+# --------------------------------------------------------------------------- #
+page(
+    265, "Adinnādāyī", "Stealing",
+    vagga=VAGGA_27,
+    meta_title="AN 4.265 — Stealing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Adinnādāyīsutta, "
+        "applying AN 4.264's four degrees of complicity &mdash; doing, encouraging, approving, "
+        "praising &mdash; to the second of the ten courses of action, stealing. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, the same four-degree structure as AN 4.264, applied to "
+                 "stealing"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the second of ten, best read "
+                       "against its template at AN 4.264"),
+    ],
+    why=(
+        "Stealing, the second of the ten courses of action, given the same treatment AN 4.264 gave "
+        "killing: doing it, encouraging it, approving of it, and praising it, all four judged the "
+        "same way."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Stealing oneself, encouraging others to steal, approving of stealing, and praising "
+            "stealing are four qualities that deliver a person to hell; the four forms of "
+            "abstention deliver them to heaven."]),
+        ("The template, applied a second time", [
+            "<em>Adinnādāyī</em>, &lsquo;taking what is not given&rsquo;, replaces "
+            "<em>pāṇātipātī</em> in AN 4.264&rsquo;s exact four-part frame, with nothing else "
+            "changed: the same four degrees of involvement, the same hell/heaven formula, the "
+            "same structure down to the wording. The full discussion of why four degrees rather "
+            "than one, and what distinguishes approval and praise from direct encouragement, "
+            "stands at AN 4.264 and does not need repeating."]),
+        ("Where this discourse sits in the chapter's sequence", [
+            "Stealing is the second of the three bodily courses of action, following killing and "
+            "preceding sexual misconduct. The chapter is working through the ten courses in their "
+            "traditional order &mdash; three bodily, four verbal, three mental &mdash; one "
+            "discourse at a time."]),
+        ("A single elided line", [
+            "Unlike AN 4.264, which was written out in full, this discourse survives compressed "
+            "to a single line using the source text&rsquo;s own <em>…pe…</em> abbreviation, on "
+            "the reasonable assumption that a listener who has just heard the full pattern applied "
+            "to killing needs only the new content, stealing, substituted into an already familiar "
+            "frame."]),
+    ],
+    terms=[
+        ("adinnādāna",
+         "&ldquo;taking what is not given&rdquo;, stealing &mdash; the second of the ten courses "
+         "of action, and this discourse&rsquo;s subject."),
+        ("attanā, samādapeti, samanuñño, vaṇṇaṁ bhāsati",
+         "the same four degrees of involvement as AN 4.264: doing it oneself, encouraging others, "
+         "approving, and praising."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula continued unchanged from "
+         "AN 4.264."),
+        ("peyyāla",
+         "&ldquo;repetition-series&rdquo; &mdash; the abridgment device compressing this discourse "
+         "to a single line."),
+        ("dasa kammapatha",
+         "the ten courses of action, worked through in their traditional order across this "
+         "chapter."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.265:1.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What course of action does this discourse address?",
+         "opts": [
+             "Killing living creatures",
+             "Stealing, <em>adinnādāna</em>",
+             "Lying",
+             "Wrong view"],
+         "correct": 1,
+         "expl": "The second of the ten courses of action."},
+        {"q": "What structure does this discourse reuse from AN 4.264?",
+         "opts": [
+             "An entirely different structure",
+             "The same four degrees of involvement: doing it, encouraging, approving, and praising",
+             "Only two degrees, self and encouragement",
+             "No structure; the discourse is unique"],
+         "correct": 1,
+         "expl": "Nothing changed except the specific act named."},
+        {"q": "Where does the full discussion of why four degrees are used, rather than just one, appear?",
+         "opts": [
+             "In this discourse itself",
+             "At AN 4.264, and this discourse does not repeat it",
+             "Nowhere in this series",
+             "At AN 4.273"],
+         "correct": 1,
+         "expl": "Consistent with this series' practice of not re-explaining shared structures."},
+        {"q": "What position does stealing occupy among the ten courses of action?",
+         "opts": [
+             "The first",
+             "The second, following killing and preceding sexual misconduct",
+             "The last",
+             "It does not belong to the traditional ten"],
+         "correct": 1,
+         "expl": "The chapter works through the ten courses in their traditional order."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Written out in full, like AN 4.264",
+             "A single heavily elided line",
+             "A narrative with a named speaker",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Compressed using the source text's own <em>…pe…</em> marks."},
+        {"q": "What three courses of action make up the \"bodily\" group stealing belongs to?",
+         "opts": [
+             "Killing, stealing, and sexual misconduct",
+             "Killing, lying, and wrong view",
+             "Stealing, divisive speech, and ill will",
+             "There is no such grouping"],
+         "correct": 1,
+         "expl": "The traditional first three of the ten courses of action."},
+        {"q": "What formula does this discourse use?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven, continued from AN 4.264",
+             "A new formula unique to this discourse",
+             "No formula at all"],
+         "correct": 1,
+         "expl": "Unbroken through this chapter's systematic treatment."},
+        {"q": "What discourse immediately follows this one?",
+         "opts": [
+             "AN 4.264",
+             "AN 4.266, on sexual misconduct",
+             "AN 4.273",
+             "AN 4.211"],
+         "correct": 1,
+         "expl": "Continuing through the three bodily courses of action."},
+        {"q": "What Pāli term names \"approving\" in this discourse's structure?",
+         "opts": [
+             "Samādapeti",
+             "Samanuñño",
+             "Vaṇṇaṁ bhāsati",
+             "Paṭivirato"],
+         "correct": 1,
+         "expl": "The third of the four degrees, a private stance needing no voice."},
+        {"q": "How is this discourse's heaven half described?",
+         "opts": [
+             "Written out fully, unlike its hell half",
+             "The exact mirror of the hell half: not stealing, not encouraging others to steal, not approving, not praising",
+             "Omitted entirely",
+             "Using entirely different vocabulary from the hell half"],
+         "correct": 1,
+         "expl": "The same four-degree structure, in its negated form."},
+    ],
+    marginalia=[
+        ("The template, reapplied", [
+            "AN 4.264 &middot; killing",
+            "AN 4.265 &middot; stealing",
+        ]),
+        ("Same four degrees", [
+            "doing &middot; encouraging",
+            "approving &middot; praising",
+        ]),
+        ("Second of three bodily courses", [
+            "killing &middot; stealing &middot;",
+            "sexual misconduct",
+        ]),
+        ("Compressed, as expected", [
+            "single elided line,",
+            "frame already familiar",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.265/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.264.html">AN 4.264 &middot; Killing Living Creatures</a> &mdash; the source of this discourse&rsquo;s shared structure.',
+        '<a href="an-4.214.html">AN 4.214 &middot; Killing Living Creatures</a> &mdash; the earlier, differently compressed treatment of these same courses of action.',
+        '<a href="an-4.266.html">AN 4.266 &middot; Misconduct</a> &mdash; next, the third bodily course of action.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.266 — Micchācārīsutta
+# --------------------------------------------------------------------------- #
+page(
+    266, "Micchācārī", "Misconduct",
+    vagga=VAGGA_27,
+    meta_title="AN 4.266 — Misconduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Micchācārīsutta, closing "
+        "out the three bodily courses of action with the same four-degree structure applied to "
+        "sexual misconduct. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, the same four-degree structure applied to sexual misconduct"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the third of ten, closing the "
+                       "bodily group"),
+    ],
+    why=(
+        "Sexual misconduct, the third and last of the bodily courses of action, given the same "
+        "four-degree treatment as killing and stealing before it. With this discourse, the "
+        "chapter's bodily group is complete, and the four verbal courses begin next."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Committing sexual misconduct oneself, encouraging others to it, approving of it, and "
+            "praising it deliver a person to hell; the four forms of abstention deliver them to "
+            "heaven."]),
+        ("The third bodily course, same structure", [
+            "<em>Kāmesumicchācārī</em>, one who commits sexual misconduct, fills the same "
+            "four-part frame as AN 4.264 and AN 4.265, unchanged in every other respect. This "
+            "completes the bodily third of the ten courses of action: killing, stealing, and "
+            "sexual misconduct, each now given a discourse of its own."]),
+        ("A group completed, a group about to begin", [
+            "The three bodily courses of action are traditionally grouped together as the harms "
+            "one does directly through the body, distinct from the four verbal courses that "
+            "follow and the three mental courses that close the traditional list. This discourse "
+            "closes the first of those three groups within the chapter&rsquo;s systematic "
+            "treatment; the next discourse, on lying, opens the second."]),
+        ("Consistent compression", [
+            "As with AN 4.265, this discourse is compressed to a single elided line, the pattern "
+            "this series expects to continue through most of the remaining discourses in this "
+            "chapter, with fuller treatment reserved for its closing discourse."]),
+    ],
+    terms=[
+        ("kāmesumicchācāra",
+         "&ldquo;sexual misconduct&rdquo; &mdash; the third and last of the bodily courses of "
+         "action, and this discourse&rsquo;s subject."),
+        ("kāyakammapatha",
+         "&ldquo;bodily course of action&rdquo; &mdash; the traditional grouping killing, "
+         "stealing, and sexual misconduct belong to, now complete."),
+        ("vacīkammapatha",
+         "&ldquo;verbal course of action&rdquo; &mdash; the group of four this chapter takes up "
+         "next, beginning with lying."),
+        ("attanā, samādapeti, samanuñño, vaṇṇaṁ bhāsati",
+         "the same four degrees of involvement continued from AN 4.264 and AN 4.265."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula unbroken across this "
+         "chapter's first three discourses."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.266:1.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What course of action does this discourse address?",
+         "opts": [
+             "Stealing",
+             "Sexual misconduct, <em>kāmesumicchācāra</em>",
+             "Lying",
+             "Covetousness"],
+         "correct": 1,
+         "expl": "The third and last of the bodily courses of action."},
+        {"q": "What does this discourse complete, being the third bodily course treated?",
+         "opts": [
+             "The entire chapter",
+             "The bodily group of the ten courses of action: killing, stealing, and sexual misconduct",
+             "The verbal group",
+             "The mental group"],
+         "correct": 1,
+         "expl": "Each of the three now given its own dedicated discourse."},
+        {"q": "What group does the chapter take up next, after this discourse?",
+         "opts": [
+             "A return to the bodily group",
+             "The four verbal courses of action, beginning with lying",
+             "The three mental courses directly",
+             "No further courses remain"],
+         "correct": 1,
+         "expl": "The traditional order continuing: bodily, then verbal, then mental."},
+        {"q": "What structure does this discourse reuse from AN 4.264 and AN 4.265?",
+         "opts": [
+             "An entirely new structure",
+             "The identical four degrees of involvement: doing it, encouraging, approving, praising",
+             "Only two of the four degrees",
+             "No shared structure at all"],
+         "correct": 1,
+         "expl": "Unchanged across all three bodily-course discourses."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Written out in full",
+             "A single heavily elided line, matching AN 4.265",
+             "A dialogue",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Continuing the chapter's compression pattern."},
+        {"q": "How are the three bodily courses of action traditionally grouped, per the guide?",
+         "opts": [
+             "As entirely unrelated to each other",
+             "As harms done directly through the body, distinct from the verbal and mental courses",
+             "As the least serious of the ten courses",
+             "As applicable only to laypeople"],
+         "correct": 1,
+         "expl": "The traditional threefold division of the ten courses of action."},
+        {"q": "What formula does this discourse use?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven, unbroken from AN 4.264",
+             "A new formula",
+             "No formula"],
+         "correct": 1,
+         "expl": "Consistent across the chapter's first three discourses."},
+        {"q": "Where is fuller treatment reserved, according to the guide's expectation for this chapter?",
+         "opts": [
+             "Every single discourse will receive full treatment",
+             "The chapter's closing discourse, following the pattern seen at earlier chapter-closers in this series",
+             "No discourse will receive full treatment",
+             "Only the first two discourses"],
+         "correct": 1,
+         "expl": "Consistent with AN 4.210, AN 4.220, AN 4.230, and others."},
+        {"q": "What is the Pāli term for \"one who commits sexual misconduct\"?",
+         "opts": [
+             "Pāṇātipātī",
+             "Kāmesumicchācārī",
+             "Adinnādāyī",
+             "Musāvādī"],
+         "correct": 1,
+         "expl": "This discourse's title and subject."},
+        {"q": "What discourse follows this one?",
+         "opts": [
+             "AN 4.264",
+             "AN 4.267, on lying",
+             "AN 4.273",
+             "AN 4.211"],
+         "correct": 1,
+         "expl": "Opening the chapter's verbal group of courses."},
+    ],
+    marginalia=[
+        ("Bodily group, complete", [
+            "killing &middot; stealing",
+            "sexual misconduct",
+        ]),
+        ("Same four degrees, third time", [
+            "doing &middot; encouraging",
+            "approving &middot; praising",
+        ]),
+        ("Verbal group, next", [
+            "lying &middot; divisive &middot; harsh",
+            "nonsense &mdash; four to come",
+        ]),
+        ("Consistent compression", [
+            "single elided line,",
+            "as expected through the chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.266/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.264.html">AN 4.264 &middot; Killing Living Creatures</a> &mdash; the source of this discourse&rsquo;s shared structure.',
+        '<a href="an-4.265.html">AN 4.265 &middot; Stealing</a> &mdash; the discourse immediately before this one.',
+        '<a href="an-4.267.html">AN 4.267 &middot; Lying</a> &mdash; next, opening the chapter&rsquo;s four verbal courses of action.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.267 — Musāvādīsutta
+# --------------------------------------------------------------------------- #
+page(
+    267, "Musāvādī", "Lying",
+    vagga=VAGGA_27,
+    meta_title="AN 4.267 — Lying | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Musāvādīsutta, opening "
+        "the four verbal courses of action with the same four-degree structure applied to lying. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, the same four-degree structure applied to lying"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the fourth of ten, opening "
+                       "the verbal group"),
+    ],
+    why=(
+        "Lying, the gravest of the four verbal courses of action and the first of them treated in "
+        "this chapter, given the same four-degree structure as the three bodily courses before it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Lying oneself, encouraging others to lie, approving of lying, and praising lying "
+            "deliver a person to hell; the four forms of abstention deliver them to heaven."]),
+        ("The verbal group begins", [
+            "<em>Musāvādī</em>, one who lies, opens the second of the chapter&rsquo;s three "
+            "groups, the four verbal courses of action: lying, divisive speech, harsh speech, and "
+            "nonsense. As with AN 4.221, several chapters back, which gave all four verbal courses "
+            "together as a bare list, this chapter treats lying as the gravest of the four, worth "
+            "naming first."]),
+        ("A familiar act, an unfamiliar level of specificity", [
+            "Lying has already appeared repeatedly across this series &mdash; among the four "
+            "items compressed at AN 4.214 and AN 4.224, and among the four verbal courses given "
+            "together at AN 4.221. This discourse is the first to isolate lying on its own and "
+            "apply the full four-degree structure specifically to it: not simply whether a person "
+            "lies, but whether they encourage others to lie, approve of lying, or praise it."]),
+        ("The same structure, the same compression", [
+            "As with AN 4.265 and AN 4.266, this discourse survives as a single elided line, "
+            "trusting a listener already familiar with the pattern from AN 4.264 to supply the "
+            "full form."]),
+    ],
+    terms=[
+        ("musāvāda",
+         "&ldquo;false speech, lying&rdquo; &mdash; the gravest of the four verbal courses of "
+         "action, and this discourse&rsquo;s subject."),
+        ("vacīkammapatha",
+         "&ldquo;verbal course of action&rdquo; &mdash; the group of four this discourse opens, "
+         "following the bodily group's close at AN 4.266."),
+        ("attanā, samādapeti, samanuñño, vaṇṇaṁ bhāsati",
+         "the same four degrees of involvement continued from the bodily-course discourses."),
+        ("pisuṇā vācā, pharusā vācā, samphappalāpa",
+         "divisive speech, harsh speech, and nonsense &mdash; the three verbal courses this "
+         "discourse's group will continue with next."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula continued unbroken "
+         "across this chapter."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.267:1.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What course of action does this discourse address?",
+         "opts": [
+             "Sexual misconduct",
+             "Lying, <em>musāvāda</em>",
+             "Divisive speech",
+             "Ill will"],
+         "correct": 1,
+         "expl": "The gravest of the four verbal courses of action, and the first of them treated here."},
+        {"q": "What group does this discourse open?",
+         "opts": [
+             "The bodily group, for the second time",
+             "The four verbal courses of action: lying, divisive speech, harsh speech, and nonsense",
+             "The three mental courses",
+             "No group; it stands alone"],
+         "correct": 1,
+         "expl": "Following the bodily group's close at AN 4.266."},
+        {"q": "Where did lying previously appear together with the other three verbal courses in this series?",
+         "opts": [
+             "Nowhere else",
+             "AN 4.221, as a bare list of all four verbal courses together",
+             "AN 4.264",
+             "AN 4.211"],
+         "correct": 1,
+         "expl": "This discourse is the first to isolate lying and apply the full four-degree structure to it alone."},
+        {"q": "What is new about this discourse's treatment of lying, compared to its earlier appearances in this series?",
+         "opts": [
+             "Nothing is new",
+             "It applies the full four-degree structure specifically and only to lying, rather than compressing or grouping it with other items",
+             "It denies lying is a course of action",
+             "It redefines lying entirely"],
+         "correct": 1,
+         "expl": "Not simply whether a person lies, but whether they encourage, approve, or praise it."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Written out in full",
+             "A single heavily elided line",
+             "A narrative",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Continuing the chapter's compression pattern."},
+        {"q": "What three courses of action complete the verbal group after this discourse?",
+         "opts": [
+             "Killing, stealing, sexual misconduct",
+             "Divisive speech, harsh speech, and nonsense",
+             "Covetousness, ill will, wrong view",
+             "There are no further verbal courses"],
+         "correct": 1,
+         "expl": "The remaining three of the traditional four verbal courses."},
+        {"q": "What formula structures this discourse?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven, unbroken from AN 4.264",
+             "A new formula unique to lying",
+             "No formula"],
+         "correct": 1,
+         "expl": "Consistent across the whole chapter."},
+        {"q": "Why is lying named first among the four verbal courses, per the guide?",
+         "opts": [
+             "Alphabetical order",
+             "It is treated as the gravest of the four",
+             "Random selection",
+             "It is the shortest to state"],
+         "correct": 1,
+         "expl": "Consistent with its status elsewhere in the collection, including at AN 4.214."},
+        {"q": "What does <em>samanuñño</em> mean in this discourse's structure?",
+         "opts": [
+             "Doing it oneself",
+             "Approving of it",
+             "Praising it publicly",
+             "Encouraging others to do it"],
+         "correct": 1,
+         "expl": "The third of the four degrees, unchanged from AN 4.264."},
+        {"q": "What discourse follows this one?",
+         "opts": [
+             "AN 4.264",
+             "AN 4.268, on divisive speech",
+             "AN 4.273",
+             "AN 4.211"],
+         "correct": 1,
+         "expl": "Continuing through the verbal group."},
+    ],
+    marginalia=[
+        ("Verbal group, opened", [
+            "lying &middot; first, gravest",
+        ]),
+        ("Lying, isolated for the first time", [
+            "AN 4.214, 224 &middot; grouped",
+            "AN 4.221 &middot; listed",
+            "AN 4.267 &middot; alone, in full detail",
+        ]),
+        ("Same four degrees, fourth time", [
+            "doing &middot; encouraging",
+            "approving &middot; praising",
+        ]),
+        ("Three verbal courses remain", [
+            "divisive &middot; harsh &middot; nonsense",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.267/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.264.html">AN 4.264 &middot; Killing Living Creatures</a> &mdash; the source of this discourse&rsquo;s shared structure.',
+        '<a href="an-4.221.html">AN 4.221 &middot; Verbal Conduct</a> &mdash; where all four verbal courses were given together as a bare list.',
+        '<a href="an-4.268.html">AN 4.268 &middot; Divisive Speech</a> &mdash; next, continuing the verbal group.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.268 — Pisuṇavācāsutta
+# --------------------------------------------------------------------------- #
+page(
+    268, "Pisuṇavācā", "Divisive Speech",
+    vagga=VAGGA_27,
+    meta_title="AN 4.268 — Divisive Speech | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pisuṇavācāsutta, "
+        "continuing the verbal group with the same four-degree structure applied to divisive "
+        "speech. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, the same four-degree structure applied to divisive speech"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the fifth of ten, continuing "
+                       "the verbal group"),
+    ],
+    why=(
+        "Divisive speech, the second of the four verbal courses treated in this chapter, given the "
+        "same four-degree structure as lying before it &mdash; a course of action this series has "
+        "already examined closely for its mechanism, worth recalling briefly here."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Speaking divisively oneself, encouraging others to it, approving of it, and praising "
+            "it deliver a person to hell; the four forms of abstention deliver them to heaven."]),
+        ("A course of action already examined for its mechanism", [
+            "<em>Pisuṇavāco</em>, one who speaks divisively, fills this chapter&rsquo;s recurring "
+            "four-part frame. This series discussed the mechanism of divisive speech in detail "
+            "when it first appeared at AN 4.148: repeating what was heard here to people there, "
+            "specifically in order to break them apart. That definition applies to what this "
+            "discourse now asks whether a person does, encourages, approves, or praises."]),
+        ("Complicity in something that requires an audience", [
+            "Divisive speech is worth pausing on for how naturally it fits the encourage/approve/"
+            "praise structure. Unlike a solitary act such as personal indulgence, divisive speech "
+            "is inherently social &mdash; it requires at least two parties to divide, and the "
+            "circulation of the harmful information often depends on more than one speaker "
+            "carrying it forward. Approving of gossip that breaks a friendship, or praising "
+            "someone&rsquo;s skill at spreading it, are not abstract possibilities but ordinary "
+            "ways this specific harm actually multiplies."]),
+        ("The middle of the verbal group", [
+            "This is the second of the four verbal courses, following lying and preceding harsh "
+            "speech and nonsense. The chapter continues its methodical progress through the "
+            "traditional order, one discourse at a time."]),
+    ],
+    terms=[
+        ("pisuṇā vācā",
+         "&ldquo;divisive speech&rdquo; &mdash; repeating what was heard here to people there, so "
+         "as to break them apart; first defined in this series at AN 4.148."),
+        ("attanā, samādapeti, samanuñño, vaṇṇaṁ bhāsati",
+         "the same four degrees of involvement continued across this chapter."),
+        ("saṅghabheda",
+         "&ldquo;schism&rdquo; &mdash; the most extreme outcome divisive speech can produce, "
+         "named among the gravest offenses at AN 4.236 and narrated in crisis at AN 4.243."),
+        ("pharusā vācā, samphappalāpa",
+         "harsh speech and nonsense &mdash; the remaining two verbal courses this chapter will "
+         "treat next."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula continued unbroken "
+         "across this chapter."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.268:1.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What course of action does this discourse address?",
+         "opts": [
+             "Lying",
+             "Divisive speech, <em>pisuṇā vācā</em>",
+             "Harsh speech",
+             "Wrong view"],
+         "correct": 1,
+         "expl": "The second of the four verbal courses of action treated in this chapter."},
+        {"q": "Where was divisive speech's mechanism first defined in this series?",
+         "opts": [
+             "This discourse defines it for the first time",
+             "AN 4.148, as repeating what was heard here to people there, so as to break them apart",
+             "AN 4.211",
+             "AN 4.212"],
+         "correct": 1,
+         "expl": "That definition applies to what this discourse now asks about complicity."},
+        {"q": "Why does the guide say divisive speech fits the encourage/approve/praise structure especially naturally?",
+         "opts": [
+             "It doesn't fit the structure at all",
+             "It is inherently social, requiring at least two parties, and often multiplies through more than one speaker carrying it forward",
+             "It applies only to a single person acting alone",
+             "It cannot be praised or approved of by others"],
+         "correct": 1,
+         "expl": "Approving of or praising divisive gossip are ordinary ways this specific harm actually spreads."},
+        {"q": "What extreme outcome can divisive speech lead to, named elsewhere in this series?",
+         "opts": [
+             "Nothing beyond the immediate speech act",
+             "Schism, <em>saṅghabheda</em>, named among the gravest offenses at AN 4.236 and narrated at AN 4.243",
+             "A grade of monastic offense unrelated to speech",
+             "Full liberation"],
+         "correct": 1,
+         "expl": "Connecting this discourse to material several chapters earlier in this series."},
+        {"q": "What position does this discourse occupy in the chapter's verbal group?",
+         "opts": [
+             "First",
+             "Second, following lying and preceding harsh speech and nonsense",
+             "Last",
+             "It does not belong to the verbal group"],
+         "correct": 1,
+         "expl": "The chapter's methodical progress through the traditional order."},
+        {"q": "What structure does this discourse apply to divisive speech?",
+         "opts": [
+             "A unique structure found nowhere else",
+             "The same four degrees of involvement used throughout this chapter",
+             "Only two degrees",
+             "No structure; the discourse is a narrative"],
+         "correct": 1,
+         "expl": "Doing it, encouraging, approving, and praising."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Written out in full",
+             "A single heavily elided line",
+             "A dialogue",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Continuing the chapter's compression pattern."},
+        {"q": "What formula wraps this discourse?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven, continued from AN 4.264",
+             "A new formula",
+             "No formula"],
+         "correct": 1,
+         "expl": "Unbroken across this chapter."},
+        {"q": "What two courses of action remain to complete the verbal group?",
+         "opts": [
+             "Killing and stealing",
+             "Harsh speech and nonsense",
+             "Covetousness and ill will",
+             "None; the group is already complete"],
+         "correct": 1,
+         "expl": "The final two of the traditional four verbal courses."},
+        {"q": "What discourse in this series gave a narrative account of a schism crisis connected to divisive speech's most extreme outcome?",
+         "opts": [
+             "AN 4.211",
+             "AN 4.243",
+             "AN 4.148",
+             "AN 4.264"],
+         "correct": 1,
+         "expl": "Set at Kosambī, several chapters earlier in this series."},
+    ],
+    marginalia=[
+        ("A mechanism already examined", [
+            "AN 4.148 &middot; the definition",
+            "AN 4.268 &middot; complicity in it",
+        ]),
+        ("Inherently social", [
+            "requires two parties,",
+            "spreads through more speakers",
+        ]),
+        ("Its extreme outcome", [
+            "saṅghabheda &middot; AN 4.236, 243",
+        ]),
+        ("Middle of the verbal group", [
+            "lying &middot; divisive &middot;",
+            "harsh &middot; nonsense",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.268/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.148.html">AN 4.148 &middot; Bad Conduct</a> &mdash; where divisive speech&rsquo;s mechanism was first defined.',
+        '<a href="an-4.243.html">AN 4.243 &middot; Schism in the Saṅgha</a> &mdash; divisive speech&rsquo;s most extreme outcome, narrated in crisis.',
+        '<a href="an-4.269.html">AN 4.269 &middot; Harsh Speech</a> &mdash; next, continuing the verbal group.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.269 — Pharusavācāsutta
+# --------------------------------------------------------------------------- #
+page(
+    269, "Pharusavācā", "Harsh Speech",
+    vagga=VAGGA_27,
+    meta_title="AN 4.269 — Harsh Speech | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pharusavācāsutta, "
+        "continuing the verbal group with the same four-degree structure applied to harsh "
+        "speech. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, the same four-degree structure applied to harsh speech"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the sixth of ten, third of "
+                       "the verbal group"),
+    ],
+    why=(
+        "Harsh speech, the third of the four verbal courses treated in this chapter, given the "
+        "same four-degree structure as lying and divisive speech before it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Speaking harshly oneself, encouraging others to it, approving of it, and praising it "
+            "deliver a person to hell; the four forms of abstention deliver them to heaven."]),
+        ("A term already defined for its effect on the hearer", [
+            "<em>Pharusavāco</em>, one who speaks harshly, fills this chapter&rsquo;s recurring "
+            "frame. When this series first read <em>pharusā vācā</em> at AN 4.148, it noted the "
+            "term is about the effect on the hearer rather than about anger in the speaker &mdash; "
+            "rough, cutting speech that wounds, regardless of the emotional state behind it. This "
+            "discourse asks not just whether a person speaks this way but whether they promote, "
+            "endorse, or celebrate it in others."]),
+        ("Praising harshness, a specific and uncomfortable case", [
+            "Of the four verbal courses in this chapter, harsh speech is perhaps the one where "
+            "&lsquo;praising&rsquo; is easiest to picture concretely: admiring someone&rsquo;s "
+            "cutting put-down, celebrating a reputation for verbal severity, treating cruelty of "
+            "speech as a kind of wit or strength. The discourse does not soften this; praise for "
+            "harsh speech is placed on exactly the same footing as speaking harshly oneself."]),
+        ("Position in the sequence", [
+            "The third of the four verbal courses, following lying and divisive speech, with only "
+            "nonsense remaining to complete the group."]),
+    ],
+    terms=[
+        ("pharusā vācā",
+         "&ldquo;harsh speech&rdquo; &mdash; rough, cutting speech defined by its effect on the "
+         "hearer, first read in this series at AN 4.148."),
+        ("attanā, samādapeti, samanuñño, vaṇṇaṁ bhāsati",
+         "the same four degrees of involvement continued across this chapter."),
+        ("vaṇṇaṁ bhāsati",
+         "&ldquo;speaks in praise of&rdquo; &mdash; here applied to a case, admiring cutting "
+         "speech as wit or strength, worth naming concretely."),
+        ("samphappalāpa",
+         "&ldquo;nonsense&rdquo; &mdash; the fourth and final verbal course, closing the group at "
+         "the next discourse."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula continued unbroken "
+         "across this chapter."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.269:1.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What course of action does this discourse address?",
+         "opts": [
+             "Divisive speech",
+             "Harsh speech, <em>pharusā vācā</em>",
+             "Nonsense",
+             "Ill will"],
+         "correct": 1,
+         "expl": "The third of the four verbal courses of action treated in this chapter."},
+        {"q": "How did this series first characterize harsh speech, at AN 4.148?",
+         "opts": [
+             "As defined by the speaker's anger",
+             "As defined by its effect on the hearer, regardless of the emotional state behind it",
+             "As identical to divisive speech",
+             "As a physical rather than verbal offense"],
+         "correct": 1,
+         "expl": "Rough, cutting speech that wounds, whatever the speaker's own state of mind."},
+        {"q": "What case does the guide say makes \"praising\" easiest to picture concretely for this course of action?",
+         "opts": [
+             "There is no clear case for harsh speech",
+             "Admiring a cutting put-down or celebrating a reputation for verbal severity as wit or strength",
+             "Complimenting someone's kindness",
+             "Praising silence"],
+         "correct": 1,
+         "expl": "Placed on the same footing as speaking harshly oneself."},
+        {"q": "What position does this discourse hold in the chapter's verbal group?",
+         "opts": [
+             "First",
+             "Third, following lying and divisive speech, with nonsense remaining",
+             "Last, completing the group",
+             "It does not belong to the verbal group"],
+         "correct": 1,
+         "expl": "One course of action remains to complete this group."},
+        {"q": "What structure does this discourse apply?",
+         "opts": [
+             "A unique structure",
+             "The same four degrees of involvement used throughout this chapter",
+             "Only two degrees",
+             "No structure"],
+         "correct": 1,
+         "expl": "Doing it, encouraging, approving, and praising."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Written out in full",
+             "A single heavily elided line",
+             "A narrative",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Continuing the chapter's compression pattern."},
+        {"q": "What formula wraps this discourse?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven, continued from AN 4.264",
+             "A new formula",
+             "No formula"],
+         "correct": 1,
+         "expl": "Unbroken across this chapter."},
+        {"q": "What discourse in this series first defined harsh speech?",
+         "opts": [
+             "AN 4.211",
+             "AN 4.148",
+             "AN 4.264",
+             "This discourse defines it for the first time"],
+         "correct": 1,
+         "expl": "Where the collection's treatment of the four kinds of bad speech was first given."},
+        {"q": "What course of action completes the verbal group after this discourse?",
+         "opts": [
+             "Lying, again",
+             "Nonsense, <em>samphappalāpa</em>",
+             "Wrong view",
+             "Ill will"],
+         "correct": 1,
+         "expl": "The fourth and final verbal course of action."},
+        {"q": "How does the guide describe this discourse's treatment of praise for harsh speech?",
+         "opts": [
+             "It softens the claim considerably",
+             "It does not soften the claim; praise is placed on exactly the same footing as speaking harshly oneself",
+             "It omits any mention of praise",
+             "It treats praise as a lesser offense than the other three degrees"],
+         "correct": 1,
+         "expl": "Consistent with the chapter's treatment of all four degrees as equally sufficient."},
+    ],
+    marginalia=[
+        ("Effect on the hearer", [
+            "not the speaker's anger,",
+            "the wound it leaves",
+        ]),
+        ("Praise, made concrete", [
+            "admiring a cutting remark",
+            "as wit or strength",
+        ]),
+        ("Third of the verbal group", [
+            "lying &middot; divisive &middot;",
+            "harsh &middot; nonsense",
+        ]),
+        ("No softening", [
+            "praise counts fully,",
+            "same as speaking harshly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.269/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.148.html">AN 4.148 &middot; Bad Conduct</a> &mdash; where harsh speech was first defined by its effect on the hearer.',
+        '<a href="an-4.264.html">AN 4.264 &middot; Killing Living Creatures</a> &mdash; the source of this discourse&rsquo;s shared structure.',
+        '<a href="an-4.270.html">AN 4.270 &middot; Talking Nonsense</a> &mdash; next, closing the verbal group.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.270 — Samphappalāpasutta
+# --------------------------------------------------------------------------- #
+page(
+    270, "Samphappalāpa", "Talking Nonsense",
+    vagga=VAGGA_27,
+    meta_title="AN 4.270 — Talking Nonsense | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Samphappalāpasutta, "
+        "closing the verbal group with the same four-degree structure applied to nonsense, and "
+        "raising a real question about what it would mean to praise idle talk. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, closing the verbal group of four courses of action"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the mildest of the four "
+                       "verbal courses, and worth pausing on for that reason"),
+    ],
+    why=(
+        "Nonsense, the mildest and most easily overlooked of the four verbal courses, closes this "
+        "chapter's verbal group with the same four-degree structure. This is the course this "
+        "series already flagged, at AN 4.148, as needing no malice, dishonesty, or victim to "
+        "count as a fault &mdash; which makes asking about complicity in it a genuinely different "
+        "kind of question than asking about complicity in lying or cruelty."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Talking nonsense oneself, encouraging others to it, approving of it, and praising it "
+            "deliver a person to hell; the four forms of abstention deliver them to heaven."]),
+        ("The verbal group's mildest member, closing the set", [
+            "<em>Samphappalāpī</em>, one who talks nonsense, closes the four verbal courses this "
+            "chapter has treated one at a time: lying, divisive speech, harsh speech, and now "
+            "nonsense. This series already discussed, at AN 4.148, why this item belongs on the "
+            "same list as the other three despite requiring no malice, dishonesty, or victim "
+            "&mdash; idle, untimely, unbeneficial talk, judged as bad conduct in its own right."]),
+        ("What would it mean to praise idle talk?", [
+            "The other three verbal courses in this chapter make intuitive sense as things a "
+            "person might actively promote or celebrate in someone else: encouraging a lie, "
+            "approving of gossip, praising a cutting remark. Nonsense sits differently. Praising "
+            "someone&rsquo;s skill at idle chatter, or actively encouraging it, is a harder case to "
+            "picture with the same moral weight &mdash; and that difficulty is itself worth "
+            "noticing rather than smoothing over. The discourse applies the identical four-degree "
+            "structure regardless, treating even this mildest course of action as something a "
+            "person can be complicit in beyond simply doing it themselves."]),
+        ("The verbal group, complete", [
+            "With this discourse, all four verbal courses of action &mdash; lying, divisive "
+            "speech, harsh speech, and nonsense &mdash; have each received their own dedicated "
+            "discourse in this chapter, following the three bodily courses already completed at "
+            "AN 4.264&ndash;266. Three courses remain: covetousness, ill will, and wrong view, the "
+            "traditional mental group, next."]),
+    ],
+    terms=[
+        ("samphappalāpa",
+         "&ldquo;nonsense, idle chatter&rdquo; &mdash; the mildest of the four verbal courses, "
+         "requiring no malice, dishonesty, or victim to count as a fault."),
+        ("attanā, samādapeti, samanuñño, vaṇṇaṁ bhāsati",
+         "the same four degrees of involvement, here applied to the group's mildest member."),
+        ("manokammapatha",
+         "&ldquo;mental course of action&rdquo; &mdash; covetousness, ill will, and wrong view, "
+         "the three courses this chapter takes up next."),
+        ("vacīkammapatha",
+         "&ldquo;verbal course of action&rdquo; &mdash; the group this discourse completes, "
+         "opened at AN 4.267."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula continued unbroken "
+         "across this chapter."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.270:1.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What course of action does this discourse address, and what does it close?",
+         "opts": [
+             "Wrong view, closing the mental group",
+             "Nonsense, closing the four verbal courses of action",
+             "Ill will, closing the mental group",
+             "Killing, closing the bodily group"],
+         "correct": 1,
+         "expl": "All four verbal courses now given their own dedicated discourses."},
+        {"q": "What did this series already note about nonsense at AN 4.148?",
+         "opts": [
+             "That it requires malice like the other verbal courses",
+             "That it requires no malice, dishonesty, or victim to count as a fault",
+             "That it is not actually a fault at all",
+             "That it is the gravest of the four verbal courses"],
+         "correct": 1,
+         "expl": "Idle, untimely, unbeneficial talk, judged as bad conduct in its own right."},
+        {"q": "What genuine difficulty does the guide raise about this discourse's structure?",
+         "opts": [
+             "No difficulty exists; the structure applies straightforwardly",
+             "It is harder to picture what it would mean to actively encourage or praise idle chatter with the same moral weight as encouraging a lie or cruelty",
+             "The discourse denies nonsense can be praised at all",
+             "The structure does not apply to nonsense at all"],
+         "correct": 1,
+         "expl": "A difficulty worth noticing rather than smoothing over."},
+        {"q": "Does the discourse modify its structure to account for this difficulty?",
+         "opts": [
+             "Yes, it drops the encourage/approve/praise degrees for this course",
+             "No, it applies the identical four-degree structure regardless",
+             "Yes, it adds a fifth degree",
+             "The discourse does not address nonsense at all"],
+         "correct": 1,
+         "expl": "Even this mildest course of action is treated as something a person can be complicit in beyond doing it themselves."},
+        {"q": "What three courses of action remain after this discourse?",
+         "opts": [
+             "Killing, stealing, sexual misconduct",
+             "Covetousness, ill will, and wrong view",
+             "Lying, divisive speech, harsh speech",
+             "None; the chapter is complete"],
+         "correct": 1,
+         "expl": "The traditional mental group, taken up next."},
+        {"q": "What structure does this discourse apply?",
+         "opts": [
+             "A unique structure",
+             "The same four degrees of involvement used throughout this chapter",
+             "No structure",
+             "Only two degrees"],
+         "correct": 1,
+         "expl": "Doing it, encouraging, approving, and praising."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Written out in full",
+             "A single heavily elided line",
+             "A narrative",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Continuing the chapter's compression pattern."},
+        {"q": "What is the traditional grouping of the ten courses of action, in order?",
+         "opts": [
+             "Verbal, bodily, mental",
+             "Bodily (three), verbal (four), mental (three)",
+             "Mental, verbal, bodily",
+             "There is no traditional order"],
+         "correct": 1,
+         "expl": "This chapter follows that order discourse by discourse."},
+        {"q": "What formula wraps this discourse?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven, continued from AN 4.264",
+             "A new formula",
+             "No formula"],
+         "correct": 1,
+         "expl": "Unbroken across this chapter."},
+        {"q": "What discourse follows this one, opening the mental group?",
+         "opts": [
+             "AN 4.264",
+             "AN 4.271, on covetousness",
+             "AN 4.273",
+             "AN 4.211"],
+         "correct": 1,
+         "expl": "The first of the three mental courses of action."},
+    ],
+    marginalia=[
+        ("The mildest course, closing the group", [
+            "lying &middot; divisive &middot; harsh",
+            "&middot; nonsense",
+        ]),
+        ("A genuine difficulty", [
+            "praising idle talk &mdash;",
+            "harder to picture, not smoothed over",
+        ]),
+        ("Structure applied regardless", [
+            "even the mildest fault,",
+            "still open to complicity",
+        ]),
+        ("Three courses remain", [
+            "covetousness &middot; ill will",
+            "&middot; wrong view",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.270/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.148.html">AN 4.148 &middot; Bad Conduct</a> &mdash; where nonsense&rsquo;s unusual place among the verbal courses was first discussed.',
+        '<a href="an-4.264.html">AN 4.264 &middot; Killing Living Creatures</a> &mdash; the source of this discourse&rsquo;s shared structure.',
+        '<a href="an-4.271.html">AN 4.271 &middot; Covetousness</a> &mdash; next, opening the three mental courses of action.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.271 — Abhijjhālusutta
+# --------------------------------------------------------------------------- #
+page(
+    271, "Abhijjhālu", "Covetousness",
+    vagga=VAGGA_27,
+    meta_title="AN 4.271 — Covetousness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Abhijjhālusutta, opening "
+        "the three mental courses of action with the same four-degree structure applied to "
+        "covetousness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, opening the mental group of three courses of action"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the eighth of ten, and a "
+                       "genuinely interesting case for the encourage/approve/praise structure"),
+    ],
+    why=(
+        "Covetousness opens the third and final group of the ten courses of action, the mental "
+        "courses, and raises the sharpest version yet of a question this chapter keeps returning "
+        "to: what does it mean to encourage, approve of, or praise a state of mind rather than an "
+        "outward act?"),
+    guide=[
+        ("The teaching in one sentence", [
+            "Being covetous oneself, encouraging others to covetousness, approving of it, and "
+            "praising it deliver a person to hell; contentment, and encouraging, approving, and "
+            "praising contentment, deliver a person to heaven."]),
+        ("The mental group begins", [
+            "<em>Abhijjhālu</em>, covetous, opens the third group of the ten courses of action, "
+            "following the completed bodily and verbal groups. Where the previous seven "
+            "discourses addressed acts &mdash; killing, stealing, various kinds of speech "
+            "&mdash; covetousness is an inner disposition, wanting what belongs to others."]),
+        ("Encouraging a state of mind", [
+            "The four-degree structure this chapter has applied throughout takes on a different "
+            "texture here. Encouraging someone to kill or to lie describes a fairly direct social "
+            "act; encouraging someone toward covetousness is subtler, closer to cultivating an "
+            "attitude in another person than instructing a specific deed. The discourse does not "
+            "flinch from applying the identical structure anyway &mdash; suggesting that shaping "
+            "another person&rsquo;s inner disposition toward greed is treated as no less real a "
+            "form of complicity than inciting their outward action."]),
+        ("Its positive counterpart, already named elsewhere", [
+            "<em>Anabhijjhālu</em>, content, not covetous, is the heaven half&rsquo;s defining "
+            "term &mdash; the same quality this series has already met as part of the ideal "
+            "monastic&rsquo;s description, including at AN 4.259&ndash;260&rsquo;s thoroughbred "
+            "simile, where beauty was defined partly through restraint and freedom from craving "
+            "for what is not one&rsquo;s own."]),
+    ],
+    terms=[
+        ("abhijjhā / anabhijjhā",
+         "&ldquo;covetousness&rdquo; and &ldquo;contentment&rdquo; &mdash; the first of the three "
+         "mental courses of action, an inner disposition rather than an outward act."),
+        ("manokammapatha",
+         "&ldquo;mental course of action&rdquo; &mdash; the group this discourse opens: "
+         "covetousness, ill will, and wrong view."),
+        ("attanā, samādapeti, samanuñño, vaṇṇaṁ bhāsati",
+         "the same four degrees of involvement, here applied to an inner state rather than a "
+         "physical or verbal act."),
+        ("byāpāda",
+         "&ldquo;ill will&rdquo; &mdash; the second mental course of action, taken up at the next "
+         "discourse."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula continued unbroken "
+         "across this chapter."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.271:1.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What course of action does this discourse address, and what group does it open?",
+         "opts": [
+             "Ill will, closing the mental group",
+             "Covetousness, opening the mental group",
+             "Wrong view, closing the chapter",
+             "Lying, opening the verbal group"],
+         "correct": 1,
+         "expl": "Following the completed bodily and verbal groups."},
+        {"q": "How does covetousness differ from the seven courses of action treated before it in this chapter?",
+         "opts": [
+             "No difference at all",
+             "It is an inner disposition, wanting what belongs to others, rather than an outward act",
+             "It applies only to monastics",
+             "It is a form of speech, like the verbal courses"],
+         "correct": 1,
+         "expl": "The first of the three mental courses of action."},
+        {"q": "What does the guide say changes in texture when the four-degree structure is applied to covetousness?",
+         "opts": [
+             "Nothing changes",
+             "Encouraging a state of mind is subtler than encouraging a specific deed, closer to cultivating an attitude in another person",
+             "The structure becomes impossible to apply and is dropped",
+             "Covetousness cannot be encouraged by definition"],
+         "correct": 1,
+         "expl": "The discourse applies the identical structure anyway, treating this as a real form of complicity."},
+        {"q": "What is the heaven half's defining term, opposite covetousness?",
+         "opts": [
+             "Sammādiṭṭhi",
+             "Anabhijjhālu, contentment",
+             "Abyāpanna",
+             "Paññavā"],
+         "correct": 1,
+         "expl": "Also part of the ideal monastic's description at AN 4.259&ndash;260."},
+        {"q": "Where else in this series has contentment or freedom from covetousness already appeared as a positive quality?",
+         "opts": [
+             "Nowhere else",
+             "AN 4.259&ndash;260's thoroughbred simile, in the description of a mendicant's \"beauty\"",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "Restraint and freedom from craving for what is not one's own."},
+        {"q": "What structure does this discourse apply?",
+         "opts": [
+             "A unique structure for mental states",
+             "The same four degrees of involvement used throughout this chapter",
+             "No structure",
+             "Only two degrees"],
+         "correct": 1,
+         "expl": "Doing it, encouraging, approving, and praising, applied here to an inner disposition."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Written out in full",
+             "A single heavily elided line",
+             "A narrative",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Continuing the chapter's compression pattern."},
+        {"q": "What two courses of action complete the mental group after this discourse?",
+         "opts": [
+             "Killing and stealing",
+             "Ill will and wrong view",
+             "Lying and divisive speech",
+             "None; the mental group is already complete"],
+         "correct": 1,
+         "expl": "The remaining two of the traditional three mental courses."},
+        {"q": "What formula wraps this discourse?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven, continued from AN 4.264",
+             "A new formula",
+             "No formula"],
+         "correct": 1,
+         "expl": "Unbroken across this chapter."},
+        {"q": "What does the guide suggest is the implication of applying the identical structure to an inner state?",
+         "opts": [
+             "That inner states cannot really be judged this way, and the discourse is inconsistent",
+             "That shaping another person's inner disposition toward greed is treated as no less real a form of complicity than inciting outward action",
+             "That covetousness is a lesser fault than the seven acts already covered",
+             "That the structure only applies metaphorically here"],
+         "correct": 1,
+         "expl": "The discourse does not flinch from the extension."},
+    ],
+    marginalia=[
+        ("Mental group, opened", [
+            "covetousness &middot; ill will",
+            "&middot; wrong view",
+        ]),
+        ("An inner state, not an act", [
+            "wanting what is",
+            "not one's own",
+        ]),
+        ("Encouraging an attitude", [
+            "subtler than inciting a deed,",
+            "still counted the same",
+        ]),
+        ("A quality already praised", [
+            "anabhijjhālu &middot;",
+            "AN 4.259&ndash;260's \"beauty\"",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.271/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.259.html">AN 4.259 &middot; A Thoroughbred (1st)</a> &mdash; where contentment already appeared as part of a mendicant&rsquo;s ideal description.',
+        '<a href="an-4.264.html">AN 4.264 &middot; Killing Living Creatures</a> &mdash; the source of this discourse&rsquo;s shared structure.',
+        '<a href="an-4.272.html">AN 4.272 &middot; Ill Will</a> &mdash; next, continuing the mental group.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.272 — Byāpannacittasutta
+# --------------------------------------------------------------------------- #
+page(
+    272, "Byāpannacitta", "Ill Will",
+    vagga=VAGGA_27,
+    meta_title="AN 4.272 — Ill Will | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Byāpannacittasutta, "
+        "continuing the mental group with the same four-degree structure applied to ill will, "
+        "one course of action short of completing the ten. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "One elided line, continuing the mental group of three courses of action"),
+        ("Length", "under a minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the ninth of ten, one short "
+                       "of the chapter's close"),
+    ],
+    why=(
+        "Ill will, the second of the three mental courses of action, given the same four-degree "
+        "structure as covetousness before it. One course of action, wrong view, remains to "
+        "complete the set of ten."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Having ill will oneself, encouraging others to it, approving of it, and praising it "
+            "deliver a person to hell; the corresponding good will, and encouraging, approving, "
+            "and praising it, deliver a person to heaven."]),
+        ("The mental group continues", [
+            "<em>Byāpannacitto</em>, one with a mind full of ill will, fills the same structure as "
+            "the eight discourses before it. Its opposite, <em>abyāpannacitto</em>, having a mind "
+            "of good will, closes the heaven half. As with covetousness at AN 4.271, this "
+            "discourse applies the encourage/approve/praise structure to an inner state rather "
+            "than an outward act, without qualification."]),
+        ("A term already tied to solitude", [
+            "<em>Byāpāda</em>, ill will, already appeared in this chapter&rsquo;s own vagga, at "
+            "AN 4.262, as one of the three harmful thoughts &mdash; alongside sensual and cruel "
+            "thought &mdash; that disqualify a mendicant from wilderness dwelling. This discourse "
+            "treats the same disposition not as a bar to solitary practice but as a course of "
+            "action in its own right, complete with its own four degrees of complicity."]),
+        ("One course remaining", [
+            "Wrong view, the last of the three mental courses and the last of the ten overall, "
+            "closes both this group and the chapter at the next discourse."]),
+    ],
+    terms=[
+        ("byāpāda / abyāpāda",
+         "&ldquo;ill will&rdquo; and &ldquo;good will&rdquo; &mdash; the second of the three "
+         "mental courses of action."),
+        ("byāpādavitakka",
+         "&ldquo;thought of ill will&rdquo; &mdash; the same disposition named among the "
+         "wilderness-disqualifying thoughts at AN 4.262, in this same chapter."),
+        ("attanā, samādapeti, samanuñño, vaṇṇaṁ bhāsati",
+         "the same four degrees of involvement, applied here to a second inner state."),
+        ("micchādiṭṭhi / sammādiṭṭhi",
+         "wrong view and right view &mdash; the third mental course, closing this group and the "
+         "chapter at the next discourse."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula continued unbroken "
+         "across this chapter."),
+    ],
+    text_intro=(
+        "The discourse exactly as the source abridges it, ellipsis marks included. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The elided discourse"),
+        ("p", "&sect;1", "an4.272:1.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What course of action does this discourse address?",
+         "opts": [
+             "Covetousness",
+             "Ill will, <em>byāpāda</em>",
+             "Wrong view",
+             "Nonsense"],
+         "correct": 1,
+         "expl": "The second of the three mental courses of action."},
+        {"q": "Where did this same disposition, ill will, already appear elsewhere in this chapter?",
+         "opts": [
+             "Nowhere else in this chapter",
+             "AN 4.262, as one of three thoughts disqualifying a mendicant from wilderness dwelling",
+             "AN 4.264",
+             "AN 4.270"],
+         "correct": 1,
+         "expl": "There as a bar to solitary practice; here as a course of action with its own four degrees."},
+        {"q": "How does this discourse's treatment of ill will differ from AN 4.262's treatment of the same disposition?",
+         "opts": [
+             "They are identical in every respect",
+             "AN 4.262 treats it as disqualifying for wilderness dwelling; this discourse treats it as a course of action with its own complicity structure",
+             "This discourse denies ill will is harmful",
+             "AN 4.262 does not mention ill will at all"],
+         "correct": 1,
+         "expl": "Two different angles on the same underlying disposition."},
+        {"q": "What structure does this discourse apply?",
+         "opts": [
+             "A unique structure",
+             "The same four degrees of involvement used throughout this chapter",
+             "No structure",
+             "Only two degrees"],
+         "correct": 1,
+         "expl": "Doing it, encouraging, approving, and praising, applied to an inner state without qualification."},
+        {"q": "What is the heaven half's defining term?",
+         "opts": [
+             "Sammādiṭṭhi",
+             "Abyāpannacitto, having a mind of good will",
+             "Anabhijjhālu",
+             "Paññavā"],
+         "correct": 1,
+         "expl": "The positive counterpart to ill will."},
+        {"q": "What course of action remains after this discourse?",
+         "opts": [
+             "Covetousness",
+             "Wrong view, the last of the ten",
+             "Killing",
+             "None; this is the final discourse"],
+         "correct": 1,
+         "expl": "Closing both the mental group and the chapter."},
+        {"q": "What form does this discourse take?",
+         "opts": [
+             "Written out in full",
+             "A single heavily elided line",
+             "A narrative",
+             "A set of verses"],
+         "correct": 1,
+         "expl": "Continuing the chapter's compression pattern."},
+        {"q": "What formula wraps this discourse?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven, continued from AN 4.264",
+             "A new formula",
+             "No formula"],
+         "correct": 1,
+         "expl": "Unbroken across this chapter."},
+        {"q": "What three thoughts did AN 4.262 name as disqualifying a mendicant from wilderness dwelling?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Sensual, malicious (ill will), and cruel thought",
+             "View, intention, and speech",
+             "Killing, stealing, and lying"],
+         "correct": 1,
+         "expl": "Ill will, this discourse's subject, was one of the three."},
+        {"q": "What position does ill will occupy among the ten courses of action?",
+         "opts": [
+             "First",
+             "Ninth, second of the three mental courses",
+             "Last",
+             "It is not one of the ten courses"],
+         "correct": 1,
+         "expl": "One course, wrong view, remains to complete the set."},
+    ],
+    marginalia=[
+        ("Mental group, continued", [
+            "covetousness &middot; ill will",
+            "&middot; wrong view (next)",
+        ]),
+        ("A disposition, twice examined", [
+            "AN 4.262 &middot; bars solitude",
+            "AN 4.272 &middot; its own complicity",
+        ]),
+        ("Same structure, ninth time", [
+            "doing &middot; encouraging",
+            "approving &middot; praising",
+        ]),
+        ("One course remains", [
+            "wrong view &mdash;",
+            "closing the ten, and the chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.272/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.262.html">AN 4.262 &middot; Wilderness</a> &mdash; where ill will already appeared, as a bar to solitary dwelling.',
+        '<a href="an-4.271.html">AN 4.271 &middot; Covetousness</a> &mdash; the discourse immediately before this one.',
+        '<a href="an-4.273.html">AN 4.273 &middot; Wrong View</a> &mdash; next, closing the chapter with the tenth and final course of action.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.273 — Micchādiṭṭhisutta
+# --------------------------------------------------------------------------- #
+page(
+    273, "Micchādiṭṭhi", "Wrong View",
+    vagga=VAGGA_27,
+    meta_title="AN 4.273 — Wrong View | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Micchādiṭṭhisutta, "
+        "closing the Kammapathavagga and its systematic treatment of all ten courses of action "
+        "with wrong view, restored to full wording, and confirming this chapter continues a "
+        "running vagga count rather than starting a new one. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_27),
+        ("Speakers", SPEAKER),
+        ("Form", "The heaven half written out in full, closing a chapter of otherwise heavily "
+                 "elided discourses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching sutra "
+                              "number for this discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the chapter's close, and the "
+                       "resolution of a numbering question raised two chapters back"),
+    ],
+    why=(
+        "Wrong view, the tenth and last of the ten courses of action, closes this chapter's "
+        "systematic run through all ten with the same four-degree structure &mdash; and its "
+        "heaven half is restored to full wording, the pattern this series has now seen close "
+        "several chapters. Its own colophon also settles a question this series left open at AN "
+        "4.263: whether the vagga count continues or resets after a paṇṇāsaka's close."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Holding wrong view oneself, encouraging others to it, approving of it, and praising "
+            "it deliver a person to hell; the four forms of holding, encouraging, approving, and "
+            "praising right view deliver a person to heaven."]),
+        ("The tenth course, closing the set", [
+            "<em>Micchādiṭṭhiko</em>, one who has wrong view, completes the three mental courses "
+            "&mdash; covetousness, ill will, and now view &mdash; and with them the full "
+            "traditional ten. Every one of the ten courses of action has now, across this "
+            "chapter's ten discourses, received its own dedicated treatment of the same four "
+            "degrees of complicity: doing it, encouraging it, approving of it, and praising it. No "
+            "earlier point in this series has given the ten courses this complete and individuated "
+            "a treatment."]),
+        ("Full wording, at the close", [
+            "Where AN 4.265 through AN 4.272 all survive as single elided lines, this discourse's "
+            "heaven half is written out completely: <em>they themselves have right view; they "
+            "encourage others to have right view; they approve of right view; and they praise "
+            "right view</em>. This matches the pattern already seen closing the Parisāvagga at AN "
+            "4.220, the Duccaritavagga at AN 4.230, and now this chapter &mdash; a chapter's final "
+            "discourse tends to restore full wording even where its neighbors were heavily "
+            "compressed, marking the close clearly rather than trailing off on an ellipsis."]),
+        ("View, last for a specific reason", [
+            "That wrong view is named last among the ten, rather than first or in the middle, is "
+            "consistent with how this series has already seen view treated: as the item that "
+            "completes or grounds the others rather than standing alongside them as one item among "
+            "equals. AN 4.212, several chapters back, already placed <em>micchādiṭṭhi</em> last in "
+            "its own tetrad of bad conduct, for the same reason discussed there &mdash; view is "
+            "what gives the other courses their moral weight, and closing the full list of ten "
+            "with it repeats that same logic at a larger scale."]),
+        ("A numbering question, now resolved", [
+            "This discourse's own colophon reads <em>Kammapathavaggo sattamo</em>, &lsquo;the "
+            "Kammapathavagga, the seventh&rsquo;. Following the Abhiññāvagga&rsquo;s "
+            "<em>chaṭṭho</em>, sixth, at AN 4.263, this confirms the pattern this series flagged "
+            "there but declined to assert without checking: the vagga count continues straight "
+            "through after the fifth paṇṇāsaka&rsquo;s explicit close at AN 4.253, rather than "
+            "resetting to &lsquo;first&rsquo; for a new group of five. Whatever organizes the "
+            "material from AN 4.254 onward, it is not a fresh paṇṇāsaka beginning its own count "
+            "from one. This reading guide will continue checking rather than assuming as it moves "
+            "into the next chapter, the Rāgapeyyāla."]),
+    ],
+    terms=[
+        ("micchādiṭṭhi / sammādiṭṭhi",
+         "&ldquo;wrong view&rdquo; and &ldquo;right view&rdquo; &mdash; the tenth and last of the "
+         "ten courses of action, closing this chapter's set."),
+        ("attanā, samādapeti, samanuñño, vaṇṇaṁ bhāsati",
+         "the same four degrees of involvement, applied here for the tenth and final time in "
+         "this chapter."),
+        ("dasa kammapatha",
+         "the ten courses of action, now each given a full, dedicated discourse of their own for "
+         "the first time in this series."),
+        ("Kammapathavaggo sattamo",
+         "&ldquo;the Kammapathavagga, the seventh&rdquo; &mdash; the source colophon's label, "
+         "confirming the vagga count continues past the fifth paṇṇāsaka's close rather than "
+         "resetting."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the formula carried unbroken across "
+         "all ten discourses of this chapter."),
+    ],
+    text_intro=(
+        "The discourse mostly elided, its heaven half restored to full wording. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse"),
+        ("p", "&sect;1", "an4.273:1.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What course of action does this discourse address, and what does it complete?",
+         "opts": [
+             "Ill will, completing the verbal group",
+             "Wrong view, completing the mental group and all ten courses of action",
+             "Covetousness, opening the mental group",
+             "Nonsense, completing the verbal group"],
+         "correct": 1,
+         "expl": "The tenth and last of the ten courses of action."},
+        {"q": "What does this discourse's form do differently from AN 4.265 through AN 4.272?",
+         "opts": [
+             "It compresses even further",
+             "It restores its heaven half to full, unelided wording",
+             "It omits the heaven half entirely",
+             "It uses an entirely different formula"],
+         "correct": 1,
+         "expl": "Matching the pattern already seen closing the Parisāvagga and Duccaritavagga."},
+        {"q": "Why does the guide say wrong view is placed last among the ten courses, rather than first?",
+         "opts": [
+             "Alphabetical convention",
+             "Consistent with view being treated elsewhere, notably at AN 4.212, as what gives the other courses their moral weight",
+             "No reason is given anywhere in this series",
+             "It is placed last purely by chance"],
+         "correct": 1,
+         "expl": "The same logic already seen at AN 4.212's own tetrad, repeated here at a larger scale."},
+        {"q": "What does this discourse's colophon confirm about the chapter's numbering?",
+         "opts": [
+             "That the vagga count resets to \"first\" after the fifth paṇṇāsaka's close",
+             "That the vagga count continues straight through as \"the seventh\", following the sixth at AN 4.263",
+             "That no numbering is given at all",
+             "That this chapter belongs to an entirely separate nipāta"],
+         "correct": 1,
+         "expl": "Resolving the question this series flagged but declined to assert at AN 4.263."},
+        {"q": "What does the guide say it will do going into the next chapter, given this resolved question?",
+         "opts": [
+             "Assume the same pattern continues without checking",
+             "Continue checking rather than assuming, as it moves into the Rāgapeyyāla",
+             "Declare the investigation finished with no further checking needed",
+             "Ignore chapter numbering entirely from this point on"],
+         "correct": 1,
+         "expl": "Consistent with this project's stated practice of verifying structural claims."},
+        {"q": "How many discourses in this chapter gave the ten courses of action individual, dedicated treatment?",
+         "opts": [
+             "Five",
+             "All ten, one course of action per discourse",
+             "Three",
+             "Only this one"],
+         "correct": 1,
+         "expl": "The first point in this series to treat every course this completely and individually."},
+        {"q": "What formula structures every discourse in this chapter, including this one?",
+         "opts": [
+             "The <em>khata</em> formula",
+             "Placement in hell or heaven &lsquo;as if delivered there&rsquo;, from AN 4.212",
+             "The noble/ignoble expression formula",
+             "A different formula for each discourse"],
+         "correct": 1,
+         "expl": "Carried unbroken across all ten discourses."},
+        {"q": "What is the fourth degree of involvement in this discourse's structure?",
+         "opts": [
+             "Doing it oneself",
+             "Praising it, <em>vaṇṇaṁ bhāsati</em>",
+             "Approving of it",
+             "Encouraging others toward it"],
+         "correct": 1,
+         "expl": "The same four degrees applied across all ten discourses in this chapter."},
+        {"q": "What two courses of action complete the mental group alongside wrong view?",
+         "opts": [
+             "Killing and stealing",
+             "Covetousness and ill will",
+             "Lying and divisive speech",
+             "Harsh speech and nonsense"],
+         "correct": 1,
+         "expl": "Together forming the traditional three mental courses of action."},
+        {"q": "What earlier chapter-closing discourses does this discourse's full-wording restoration match, per the guide?",
+         "opts": [
+             "None; this is unprecedented in this series",
+             "AN 4.220, closing the Parisāvagga, and AN 4.230, closing the Duccaritavagga",
+             "Only AN 4.242",
+             "Only AN 4.253"],
+         "correct": 1,
+         "expl": "A recognized closing technique across several chapters in this series."},
+    ],
+    marginalia=[
+        ("Ten courses, ten discourses", [
+            "bodily &middot; verbal &middot; mental",
+            "each given full, dedicated treatment",
+        ]),
+        ("Full wording, at the close", [
+            "AN 4.220 &middot; AN 4.230",
+            "AN 4.273 &middot; the same pattern",
+        ]),
+        ("View, last for a reason", [
+            "grounds the other courses,",
+            "as at AN 4.212",
+        ]),
+        ("A numbering question, resolved", [
+            "Abhiññāvaggo chaṭṭho &middot; 6th",
+            "Kammapathavaggo sattamo &middot; 7th",
+            "&mdash; the count continues",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.273/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.264.html">AN 4.264 &middot; Killing Living Creatures</a> &mdash; the discourse that opened this chapter and its shared structure.',
+        '<a href="an-4.212.html">AN 4.212 &middot; View</a> &mdash; where wrong view was already placed last in a tetrad, for the same reason it closes this chapter\'s ten.',
+        '<a href="an-4.263.html">AN 4.263 &middot; Deeds</a> &mdash; where this series first flagged the numbering question this discourse\'s colophon resolves.',
+    ],
+)
