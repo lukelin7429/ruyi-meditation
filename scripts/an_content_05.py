@@ -6357,3 +6357,2175 @@ page(
         "another close look at what desire does to the mind.",
     ],
 )
+
+
+VAGGA_4 = "<em>Sumanavagga</em> &mdash; the fourth chapter of the Fives"
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.31 — Sumanasutta
+# --------------------------------------------------------------------------- #
+page(
+    31, "Sumanā", "With Sumanā",
+    vagga=VAGGA_4,
+    meta_title="AN 5.31 — With Sumanā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sumanasutta, opening a "
+        "new chapter on giving — a princess asks whether an equally faithful, ethical, and wise "
+        "giver and non-giver differ as gods, as humans, as renunciates, and as the freed. Three "
+        "times yes; once, no difference at all. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery; stated at the head of "
+                    "AN 5.31"),
+        ("Speakers", "Princess Sumanā, questioning the Buddha"),
+        ("Form", "Four rounds of the same question at rising stages of attainment, three answered "
+                 "with a five-item difference, the fourth answered with none"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The claim that giving shapes worldly flourishing but not "
+                              "liberation itself is a recurring theme across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; opens a new chapter with a "
+                       "genuinely pointed question, asked four times in a row"),
+    ],
+    why=(
+        "This chapter turns from monastic cultivation to giving, and opens with a question sharp "
+        "enough to carry the whole shift: take two disciples equal in faith, ethics, and wisdom, "
+        "one a giver and one not. Does giving make any difference? Three times the Buddha says "
+        "yes, naming five respects each time. The fourth time &mdash; once both have become "
+        "arahants &mdash; he says there is no difference at all between the freedom of one and "
+        "the freedom of the other. Giving matters enormously, and it matters for nothing, "
+        "depending entirely on what is being asked."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A giver surpasses an equally faithful, ethical, and wise non-giver in five respects "
+            "&mdash; as a god, as a human, and as a renunciate &mdash; but once both attain "
+            "freedom, there is no difference between them at all."]),
+        ("Three victories, one erasure", [
+            "As gods and as humans, the giver's five-item advantage is identical both times: "
+            "lifespan, beauty, happiness, glory, and sovereignty. As renunciates, the advantage "
+            "shifts to something more concrete &mdash; using requisites mostly when invited to, "
+            "and being treated agreeably by fellow practitioners. Then, asked a fourth time about "
+            "arahantship, the Buddha does not name five respects at all; he says there is "
+            "<em>no difference</em>, <em>yadidaṁ vimuttiyā vimuttiṁ</em>, between the freedom of "
+            "one and the freedom of the other. The pattern that repeated three times is broken on "
+            "the fourth, and the break is the point."]),
+        ("What this does not say about giving", [
+            "It would be easy to hear this discourse as diminishing giving, since its worldly "
+            "advantages vanish at the finish line. Sumanā's own reaction rules that reading out: "
+            "she calls the teaching <em>incredible</em> and <em>amazing</em>, and says it is "
+            "<em>quite enough to justify giving gifts and making merit</em>, precisely because "
+            "merit helps a person at every stage &mdash; as a god, a human, and a renunciate "
+            "&mdash; even though it stops mattering at the very last one."]),
+        ("A princess, and a genuinely probing question", [
+            "Sumanā is not a passive recipient of teaching here; she asks the same sharpened "
+            "question four times in a row, pressing forward past each answer to the next stage of "
+            "attainment, until she reaches the one stage where the pattern finally breaks. The "
+            "discourse's structure is her structure, not a list the Buddha volunteers unprompted."]),
+    ],
+    terms=[
+        ("dāyako adāyako",
+         "&ldquo;giver, non-giver&rdquo; &mdash; the single variable this discourse isolates, "
+         "holding faith, ethics, and wisdom equal between the two."),
+        ("ādhipateyya",
+         "&ldquo;sovereignty&rdquo; &mdash; the fifth item in the giver's advantage as a god or "
+         "human, naming a degree of control over one's own circumstances."),
+        ("yācitova",
+         "&ldquo;only when invited&rdquo; &mdash; the renunciate giver's distinctive advantage, "
+         "rarely needing to ask for requisites without being offered them first."),
+        ("vimuttiyā vimuttiṁ",
+         "&ldquo;the freedom of one, the freedom of the other&rdquo; &mdash; the phrase marking "
+         "the point where the discourse's pattern of difference breaks entirely."),
+        ("acchariyaṁ abbhutaṁ",
+         "&ldquo;incredible, amazing&rdquo; &mdash; Sumanā's own reaction, marking the teaching's "
+         "force rather than the guide's own commentary."),
+    ],
+    text_intro=(
+        "The discourse in full: Sumanā's question and the Buddha's four answers, closing with "
+        "verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sumanā's question"),
+        ("p", "&sect;1", "an5.31:1.1-1.2"),
+        ("p", "&sect;2", "an5.31:2.1-2.4"),
+        ("h3", "As gods"),
+        ("p", "&sect;3", "an5.31:3.1"),
+        ("p", "&sect;4", "an5.31:3.2-3.4"),
+        ("h3", "As humans"),
+        ("p", "&sect;5", "an5.31:4.1"),
+        ("p", "&sect;6", "an5.31:4.2"),
+        ("p", "&sect;7", "an5.31:4.3-4.5"),
+        ("h3", "As renunciates"),
+        ("p", "&sect;8", "an5.31:5.1"),
+        ("p", "&sect;9", "an5.31:5.2"),
+        ("p", "&sect;10", "an5.31:5.3-5.6"),
+        ("h3", "As the freed"),
+        ("p", "&sect;11", "an5.31:6.1"),
+        ("p", "&sect;12", "an5.31:6.2"),
+        ("h3", "Sumanā's response"),
+        ("p", "&sect;13", "an5.31:7.1-7.3"),
+        ("p", "&sect;14", "an5.31:7.4-7.6"),
+    ],
+    quiz=[
+        {"q": "What single variable does Sumanā's question isolate between the two disciples?",
+         "opts": [
+             "Their level of ordination",
+             "Whether one is a giver and one is not, with faith, ethics, and wisdom held equal",
+             "Their gender",
+             "Their family wealth"],
+         "correct": 1,
+         "expl": "Everything else is deliberately equalized to isolate the effect of giving alone."},
+        {"q": "What five respects does the giver surpass the non-giver in, as a god or as a human?",
+         "opts": [
+             "Faith, ethics, wisdom, freedom, and knowledge of freedom",
+             "Lifespan, beauty, happiness, glory, and sovereignty",
+             "Strength, courage, wisdom, patience, and generosity",
+             "Nothing; there is no difference at either stage"],
+         "correct": 1,
+         "expl": "The identical five-item advantage at both the divine and human stages."},
+        {"q": "What happens when Sumanā asks the same question a fourth time, about arahantship?",
+         "opts": [
+             "The Buddha names five respects again, unchanged",
+             "The Buddha says there is no difference at all between the freedom of one and the "
+             "freedom of the other",
+             "The Buddha refuses to answer",
+             "The giver is said to surpass the non-giver even more dramatically"],
+         "correct": 1,
+         "expl": "The three-times-repeated pattern breaks precisely at the final stage."},
+        {"q": "How does Sumanā herself react to this teaching?",
+         "opts": [
+             "With disappointment that giving stops mattering",
+             "She calls it incredible and amazing, saying it is quite enough to justify giving "
+             "gifts and making merit",
+             "She argues the Buddha is wrong",
+             "She asks no further questions and leaves immediately"],
+         "correct": 1,
+         "expl": "Her own words rule out reading the teaching as diminishing the value of giving."},
+        {"q": "What is the renunciate giver's distinctive advantage, different from the divine and "
+              "human versions?",
+         "opts": [
+             "Longer life as a monastic",
+             "Using requisites mostly when invited to, and being treated agreeably by fellow "
+             "practitioners",
+             "Exemption from monastic rules",
+             "Guaranteed enlightenment"],
+         "correct": 1,
+         "expl": "A more concrete, monastic-specific version of the same underlying advantage."},
+        {"q": "Why does merit still matter, according to Sumanā's own conclusion, even though it "
+              "makes no difference at the final stage?",
+         "opts": [
+             "It doesn't matter at all, on her reading",
+             "Because merit helps a person at every stage before that — as a god, a human, and a "
+             "renunciate",
+             "Because merit is required to attain arahantship at all",
+             "Because merit determines one's gender in the next life"],
+         "correct": 1,
+         "expl": "Value at every intermediate stage, even where it stops mattering at the end."},
+        {"q": "Who drives the structure of this discourse — asking the same sharpened question "
+              "four times?",
+         "opts": [
+             "The Buddha, unprompted",
+             "Princess Sumanā, pressing the question forward stage by stage",
+             "A group of monks debating each other",
+             "The discourse has no clear questioner"],
+         "correct": 1,
+         "expl": "Her own probing structures the whole teaching."},
+        {"q": "What does 'vimuttiyā vimuttiṁ' mark?",
+         "opts": [
+             "A comparison between two types of freedom",
+             "The exact point where the discourse's pattern of five-item difference breaks entirely",
+             "A description of physical freedom from illness",
+             "A term for monastic ordination"],
+         "correct": 1,
+         "expl": "'The freedom of one, the freedom of the other' — no difference stated."},
+        {"q": "How many times, in total, does Sumanā ask her question?",
+         "opts": ["Once", "Twice", "Three times", "Four times"],
+         "correct": 3,
+         "expl": "Divine, human, renunciate, and finally arahant — four rounds."},
+        {"q": "What chapter does this discourse open, and what topic does it shift toward?",
+         "opts": [
+             "The Sekhabalavagga, continuing the powers of a trainee",
+             "The Sumanavagga, shifting from monastic cultivation toward giving",
+             "The Balavagga, continuing the standard powers",
+             "A return to the Pañcaṅgikavagga's material"],
+         "correct": 1,
+         "expl": "A thematic pivot for the whole chapter, not just this one discourse."},
+    ],
+    marginalia=[
+        ("Four rounds", [
+            "as gods: 5 respects",
+            "as humans: 5 respects",
+            "as renunciates: 5 respects",
+            "as the freed: none",
+        ]),
+        ("The break", [
+            "<span class=\"pali\">vimuttiyā vimuttiṁ</span>",
+            "&mdash; no difference,",
+            "for the first time",
+        ]),
+        ("Sumanā's own verdict", [
+            "&ldquo;incredible, amazing&rdquo;",
+            "&mdash; reason enough",
+            "to give, still",
+        ]),
+        ("Cross-references", [
+            "AN 5.1&ndash;30 &middot; the chapters before",
+            "AN 5.32 &middot; next: With Cundī",
+            "AN 5.35 &middot; later: giving's benefits, generalized",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.31/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.30.html">AN 5.30 &middot; With Nāgita</a> &mdash; the previous chapter’s '
+        "closing discourse, on the dangers of fame rather than the benefits of giving.",
+        '<a href="an-5.32.html">AN 5.32 &middot; With Cundī</a> &mdash; next, another royal '
+        "questioner, on where confidence is best placed.",
+        '<a href="an-5.35.html">AN 5.35 &middot; The Benefits of Giving</a> &mdash; later in this '
+        "chapter, the general five benefits without Sumanā&rsquo;s four-stage structure.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.32 — Cundīsutta
+# --------------------------------------------------------------------------- #
+page(
+    32, "Cundī", "With Cundī",
+    vagga=VAGGA_4,
+    meta_title="AN 5.32 — With Cundī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Cundīsutta — a princess "
+        "relays her brother's formula for good rebirth, and the Buddha reframes it around "
+        "confidence in the best: the best being, the best path, the best cessation, the best "
+        "community, the best ethics. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground; stated at the "
+                    "head of AN 5.32"),
+        ("Speakers", "Princess Cundī, relaying her brother Prince Cunda's question, and the "
+                     "Buddha"),
+        ("Form", "A relayed question, then five parallel declarations that a specific thing is "
+                 "&lsquo;the best&rsquo;, each with the same two-step consequence"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Ranking the Three Refuges and ethics as supreme fields of merit is "
+                              "a standard formula across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a formula repeated five times "
+                       "with only its object changing"),
+    ],
+    why=(
+        "Cundī does not ask her own question; she relays her brother Cunda's formula &mdash; refuge "
+        "in the Three Jewels plus the five precepts guarantees good rebirth &mdash; and asks the "
+        "Buddha what kind of teacher, teaching, community, and ethics deserve that confidence. The "
+        "Buddha does not simply confirm Cunda's formula. He answers with a different structure "
+        "entirely: five things named <em>the best</em> of their kind, each producing, by a fixed "
+        "two-step logic, the best possible result."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha, the noble eightfold path, fading away, the Saṅgha, and the ethics loved "
+            "by the noble ones are each named the best of their kind, and confidence in the best "
+            "produces the best result."]),
+        ("A reframe, not a confirmation", [
+            "Cunda's formula, as Cundī relays it, is refuge in the Three Jewels plus the five "
+            "precepts. The Buddha's answer covers overlapping ground &mdash; the Buddha, the "
+            "teaching, the Saṅgha, and ethics all appear &mdash; but organized around a different "
+            "logic: not a checklist to complete, but a claim about superlatives. Fading away, "
+            "<em>virāga</em>, is added as a fifth item with no equivalent in Cunda's original "
+            "formula at all."]),
+        ("The same two-step logic, five times", [
+            "Each of the five follows an identical pattern: this is said to be the best of its "
+            "category; those with confidence in it have confidence in the best; and confidence in "
+            "the best produces the best result. The pattern is not varied once across all five "
+            "applications, which makes the discourse function almost as a template a reader could "
+            "apply to any claim about supreme worth, not only these five specific ones."]),
+        ("Fading away, defined at length", [
+            "Of the five, only <em>virāga</em>, fading away, receives an extended definition: the "
+            "quelling of vanity, the removing of thirst, the uprooting of clinging, the breaking "
+            "of the round, the ending of craving, fading away, cessation, extinguishment. Eight "
+            "terms stacked together for what is otherwise a one-word claim elsewhere in the "
+            "discourse, marking this item as needing the most unpacking of the five."]),
+        ("What the ethics named here specify", [
+            "The &lsquo;ethics loved by the noble ones&rsquo; are given their own eightfold "
+            "description &mdash; intact, impeccable, spotless, unmarred, liberating, praised by "
+            "sensible people, not mistaken, and leading to immersion &mdash; distinguishing this "
+            "as a specific quality of ethical conduct rather than simply the five precepts Cunda "
+            "named. Not every observance of the five precepts, on this account, automatically "
+            "counts as the ethics being praised here."]),
+    ],
+    terms=[
+        ("aggamakkhāyati",
+         "&ldquo;is said to be the best&rdquo; &mdash; the fixed phrase opening each of the five "
+         "declarations in this discourse."),
+        ("virāga",
+         "&ldquo;fading away&rdquo; &mdash; the one item given an extended, eight-term "
+         "definition, distinct from the four others named only briefly."),
+        ("ariyakanta sīla",
+         "&ldquo;ethics loved by the noble ones&rdquo; &mdash; a specific quality of conduct, "
+         "distinguished here from simply keeping the five precepts."),
+        ("puññakkhetta",
+         "&ldquo;field of merit&rdquo; &mdash; the description given to the Saṅgha, the same "
+         "image used elsewhere in this series for what returns the greatest karmic fruit."),
+        ("aggo vipāko",
+         "&ldquo;the best result&rdquo; &mdash; the fixed consequence closing each of the five "
+         "declarations, following automatically from confidence in the best."),
+    ],
+    text_intro=(
+        "The discourse in full: Cundī's relayed question, and the Buddha's five declarations of "
+        "what is best, closing with verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Cundī relays her brother's question"),
+        ("p", "&sect;1", "an5.32:1.1-1.2"),
+        ("p", "&sect;2", "an5.32:2.1-2.7"),
+        ("h3", "The best of beings"),
+        ("p", "&sect;3", "an5.32:3.1-3.3"),
+        ("h3", "The best of conditioned things"),
+        ("p", "&sect;4", "an5.32:4.1-4.2"),
+        ("h3", "The best of all things"),
+        ("p", "&sect;5", "an5.32:5.1-5.4"),
+        ("h3", "The best of communities"),
+        ("p", "&sect;6", "an5.32:6.1-6.4"),
+        ("h3", "The best of ethics"),
+        ("p", "&sect;7", "an5.32:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What formula does Cundī relay from her brother Cunda?",
+         "opts": [
+             "The five powers of a trainee",
+             "Refuge in the Three Jewels plus the five precepts guarantees good rebirth",
+             "Walking meditation's five benefits",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Cundī does not ask her own question; she relays her brother's claim and asks for confirmation."},
+        {"q": "Does the Buddha simply confirm Cunda's formula?",
+         "opts": [
+             "Yes, word for word",
+             "No — he reframes the answer around five things named 'the best', with a different "
+             "underlying logic",
+             "He rejects the formula entirely",
+             "He refuses to answer"],
+         "correct": 1,
+         "expl": "Overlapping ground, organized around superlatives rather than a checklist."},
+        {"q": "What two-step logic repeats identically across all five declarations?",
+         "opts": [
+             "A different logic each time",
+             "This is the best of its category; confidence in the best produces the best result",
+             "A warning followed by a blessing",
+             "A question followed by silence"],
+         "correct": 1,
+         "expl": "An unvarying template applied to five different superlatives."},
+        {"q": "Which of the five items receives an extended, eight-term definition, unlike the "
+              "other four?",
+         "opts": [
+             "The Buddha", "The Saṅgha", "Virāga, fading away", "The noble eightfold path"],
+         "correct": 2,
+         "expl": "Quelling vanity, removing thirst, uprooting clinging, and more — needing the most unpacking."},
+        {"q": "How does the 'ethics loved by the noble ones' compare to simply keeping the five "
+              "precepts, according to the guide?",
+         "opts": [
+             "They are identical, with no distinction",
+             "They are a specific quality of conduct — intact, impeccable, spotless, and more — "
+             "not automatically the same as observing the five precepts",
+             "They apply only to monastics, never laypeople",
+             "They replace the five precepts entirely"],
+         "correct": 1,
+         "expl": "Not every observance of the precepts automatically counts as this specific praised ethics."},
+        {"q": "What item does the Buddha add that has no equivalent in Cunda's original formula?",
+         "opts": [
+             "The Saṅgha", "Virāga, fading away", "The five precepts", "Refuge itself"],
+         "correct": 1,
+         "expl": "A fifth item introduced beyond what Cundī relayed."},
+        {"q": "What is the Saṅgha described as, in this discourse?",
+         "opts": [
+             "A political organization",
+             "The supreme field of merit for the world",
+             "A group with no special status",
+             "Identical to the general population"],
+         "correct": 1,
+         "expl": "Puññakkhetta, the same image used elsewhere in this series."},
+        {"q": "Is Cundī herself the one asking a spontaneous question, or relaying someone else's?",
+         "opts": [
+             "She asks her own original question",
+             "She relays her brother Prince Cunda's formula and question",
+             "She relays a question from an unnamed ascetic",
+             "The discourse does not specify who is asking"],
+         "correct": 1,
+         "expl": "The discourse opens with an explicitly secondhand question."},
+        {"q": "How many times does the 'is said to be the best' phrase (aggamakkhāyati) appear "
+              "across the discourse's five declarations?",
+         "opts": ["Once", "Twice", "Five times, once per declaration", "Ten times"],
+         "correct": 2,
+         "expl": "The fixed opening phrase for each of the five parallel claims."},
+        {"q": "Where is AN 5.32 set?",
+         "opts": [
+             "Sāvatthī, continuing from AN 5.31",
+             "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+             "Vesālī, at the Great Wood",
+             "Bhaddiya, in Jātiyā Wood"],
+         "correct": 1,
+         "expl": "A new, explicitly stated setting distinct from AN 5.31's."},
+    ],
+    marginalia=[
+        ("Five superlatives", [
+            "the Buddha &middot; the path",
+            "fading away &middot; the Saṅgha",
+            "noble ethics",
+        ]),
+        ("One template, five times", [
+            "&ldquo;said to be the best&rdquo;",
+            "&rarr; confidence in the best",
+            "&rarr; the best result",
+        ]),
+        ("Unpacked at length", [
+            "<span class=\"pali\">virāga</span>fading away",
+            "&mdash; 8 terms, not just 1",
+        ]),
+        ("Cross-references", [
+            "AN 5.31 &middot; the chapter's opener",
+            "AN 5.38 &middot; later: faith's own benefits",
+            "AN 5.33 &middot; next: With Uggaha",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.32/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.31.html">AN 5.31 &middot; With Sumanā</a> &mdash; the previous discourse, '
+        "another royal questioner opening this chapter.",
+        '<a href="an-5.33.html">AN 5.33 &middot; With Uggaha</a> &mdash; next, a very different '
+        "kind of instruction, addressed to daughters leaving for marriage.",
+        '<a href="an-5.38.html">AN 5.38 &middot; Faith</a> &mdash; later in this chapter, on the '
+        "benefits confidence itself brings to the one who has it.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.33 — Uggahasutta
+# --------------------------------------------------------------------------- #
+page(
+    33, "Uggaha", "With Uggaha",
+    vagga=VAGGA_4,
+    meta_title="AN 5.33 — With Uggaha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Uggahasutta — a father "
+        "asks the Buddha to instruct his daughters before their marriages, and receives five "
+        "qualities framed entirely around service to a husband and his household. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Bhaddiya, in Jātiyā Wood; the instruction itself given the next day at "
+                    "Uggaha's home"),
+        ("Speakers", "Uggaha, grandson of Meṇḍaka, requesting instruction; the Buddha, addressing "
+                     "Uggaha's daughters directly"),
+        ("Form", "A meal offered and accepted, a father's request, and five qualities given "
+                 "directly to the daughters in second person"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Instructions to a bride framed around household duty and deference "
+                              "to a husband's family recur in Chinese Buddhist lay-ethics "
+                              "literature; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the chapter's most "
+                       "historically specific and least comfortable discourse for a modern reader"),
+    ],
+    why=(
+        "This reading guide states plainly what this discourse contains, without softening it: "
+        "five qualities given to young women on the eve of marriage, all of them organized around "
+        "service &mdash; rising before their husband, deferring to whoever he respects, managing "
+        "his household competently, and guarding his wealth. It is addressed to the specific "
+        "social position of a bride entering her husband's family in ancient Indian society, and "
+        "it reflects that position's norms rather than transcending them. The discourse is "
+        "included here in full because the collection includes it, not because this reading guide "
+        "endorses the norms it assumes."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Asked by their father to instruct his daughters before their marriages, the Buddha "
+            "gives five qualities: deference and diligence toward the husband, respect for those "
+            "he respects, competent and tireless household work, careful oversight of the "
+            "domestic staff, and guarding the family's wealth."]),
+        ("What the discourse actually asks of these women", [
+            "Read closely, the five qualities are consistently outward-facing: getting up before "
+            "the husband and retiring after him, honoring whoever he honors, being deft at "
+            "domestic crafts, knowing the condition of every servant and worker in the household, "
+            "and protecting money, grain, silver, or gold from waste or loss. Nothing in the five "
+            "qualities concerns the women's own inner cultivation &mdash; no faith, no ethics "
+            "practiced for their own sake, no meditation. The entire instruction is framed around "
+            "competent, deferential management of someone else's household."]),
+        ("A specific social position, not a universal teaching", [
+            "This discourse is not addressed to women in general, or to laywomen as a class "
+            "&mdash; other discourses in this collection address laywomen's own spiritual "
+            "practice directly, in terms of faith, ethics, and wisdom rather than household "
+            "management. This one is addressed to daughters at the specific moment of leaving "
+            "their birth family for their husband's, and its content reflects what a father in "
+            "that society wanted his daughters equipped with for that transition. Reading it as a "
+            "timeless statement about women's proper role, rather than as historically specific "
+            "advice for a specific social position, misreads what the text is doing."]),
+        ("Where the reward is placed", [
+            "Fulfilling these five qualities is said to lead to rebirth <em>manāpakāyikānaṁ "
+            "devānaṁ sahabyataṁ</em>, in company with the Gods of the Agreeable Host &mdash; not "
+            "the fuller, higher framework of stream-entry or freedom the discourse's own chapter "
+            "opened with at AN 5.31. The reward offered here is modest and this-worldly, matching "
+            "the modest and this-worldly scope of the instruction itself."]),
+        ("Reading this discourse honestly", [
+            "A teaching guide serving a mixed audience today does not need to defend this "
+            "discourse's content, and does not need to pretend it is absent from the canon "
+            "either. It is here, addressed to a real father's real request, reflecting norms this "
+            "reading guide does not share and will not launder. What can be said honestly is that "
+            "the collection preserves it as historical record of what one society, at one moment, "
+            "asked of its young brides &mdash; not as this series' own statement of what any "
+            "person, of any gender, owes anyone else."]),
+    ],
+    terms=[
+        ("pubbuṭṭhāyī pacchānipātī",
+         "&ldquo;rising before, retiring after&rdquo; &mdash; the discourse&rsquo;s summary phrase "
+         "for the first quality, deference measured in literal waking hours."),
+        ("dakkhā analasā",
+         "&ldquo;deft and tireless&rdquo; &mdash; the description given to the third quality, "
+         "domestic competence at spinning and sewing."),
+        ("antojana",
+         "&ldquo;household members, domestic staff&rdquo; &mdash; the servants and workers a wife "
+         "is instructed to monitor and fairly provision under the fourth quality."),
+        ("manāpakāyikā devā",
+         "&ldquo;Gods of the Agreeable Host&rdquo; &mdash; the modest heavenly destination named "
+         "as this discourse's reward, distinct from stream-entry or freedom."),
+        ("meṇḍakanattā",
+         "&ldquo;grandson of Meṇḍaka&rdquo; &mdash; Uggaha's identifying epithet, naming a "
+         "wealthy, well-known family this discourse assumes without further explanation."),
+    ],
+    text_intro=(
+        "The discourse in full: Uggaha's invitation and request, and the five qualities the "
+        "Buddha addresses directly to his daughters. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "An invitation to a meal"),
+        ("p", "&sect;1", "an5.33:1.1"),
+        ("p", "&sect;2", "an5.33:1.2-2.3"),
+        ("h3", "A father's request"),
+        ("p", "&sect;3", "an5.33:3.1-3.2"),
+        ("p", "&sect;4", "an5.33:3.3-3.7"),
+        ("h3", "Five qualities, addressed to the daughters"),
+        ("p", "&sect;5", "an5.33:4.1"),
+        ("p", "&sect;6", "an5.33:4.2-4.4"),
+        ("p", "&sect;7", "an5.33:5.1-5.3"),
+        ("p", "&sect;8", "an5.33:6.1-6.3"),
+        ("p", "&sect;9", "an5.33:7.1-7.3"),
+        ("p", "&sect;10", "an5.33:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What does Uggaha ask the Buddha to do for his daughters?",
+         "opts": [
+             "Teach them to read and write",
+             "Instruct and advise them, since they are about to leave for their husbands' families",
+             "Ordain them as nuns",
+             "Arrange their marriages personally"],
+         "correct": 1,
+         "expl": "A father's request at a specific transitional moment in his daughters' lives."},
+        {"q": "What do the five qualities the Buddha names have in common, according to the guide?",
+         "opts": [
+             "They all concern the women's own inner spiritual cultivation",
+             "They are consistently outward-facing, organized around service and management of "
+             "someone else's household",
+             "They concern only physical health",
+             "They are identical to the five powers of a trainee"],
+         "correct": 1,
+         "expl": "No faith, ethics, or meditation practiced for its own sake appears among the five."},
+        {"q": "How does the guide characterize this discourse's audience?",
+         "opts": [
+             "A universal teaching addressed to all women for all time",
+             "A historically specific instruction addressed to daughters at the moment of leaving "
+             "for their husband's family, not a timeless statement about women's role",
+             "Addressed to monks exclusively",
+             "Addressed to kings and rulers"],
+         "correct": 1,
+         "expl": "The guide explicitly cautions against reading this as a universal or timeless teaching."},
+        {"q": "What reward does the discourse attach to fulfilling these five qualities?",
+         "opts": [
+             "Stream-entry",
+             "Rebirth among the Gods of the Agreeable Host — a modest, this-worldly destination",
+             "Full liberation, as at AN 5.31's fourth stage",
+             "No reward is mentioned"],
+         "correct": 1,
+         "expl": "Matching the modest, this-worldly scope of the instruction itself."},
+        {"q": "Does this reading guide defend or endorse the content of this discourse?",
+         "opts": [
+             "Yes, presenting it as an ideal to aspire to",
+             "No — it states plainly what the discourse contains and does not launder norms it "
+             "does not share",
+             "It refuses to discuss the discourse's content at all",
+             "It claims the discourse was added by a later, unreliable editor"],
+         "correct": 1,
+         "expl": "Presented as historical record, stated honestly rather than defended or hidden."},
+        {"q": "What is the first of the five qualities, in summary?",
+         "opts": [
+             "Deference measured in waking hours — rising before the husband, retiring after him",
+             "Meditative attainment",
+             "Physical strength",
+             "Literacy and education"],
+         "correct": 0,
+         "expl": "Pubbuṭṭhāyī pacchānipātī, the discourse's own summary phrase."},
+        {"q": "What does the fourth quality involve?",
+         "opts": [
+             "Managing personal finances only",
+             "Knowing the condition of every servant and worker in the household, and fairly "
+             "distributing food",
+             "Public speaking",
+             "Religious study"],
+         "correct": 1,
+         "expl": "Oversight of the antojana, the household's domestic staff."},
+        {"q": "Does the discourse's chapter otherwise address laywomen's own spiritual practice "
+              "directly?",
+         "opts": [
+             "No, this collection never addresses women's spiritual practice",
+             "The guide notes other discourses in this collection address laywomen's faith, "
+             "ethics, and wisdom directly, in different terms than this one",
+             "Only this discourse ever mentions women at all",
+             "The question is not addressed"],
+         "correct": 1,
+         "expl": "This discourse is distinguished from that broader pattern, not treated as representative of it."},
+        {"q": "What does the fifth quality concern?",
+         "opts": [
+             "Guarding the family's wealth from waste, theft, or loss",
+             "Public religious ceremony",
+             "Physical training",
+             "Formal education of children"],
+         "correct": 0,
+         "expl": "Protection of money, grain, silver, or gold earned by the husband."},
+        {"q": "Where does the instruction itself take place?",
+         "opts": [
+             "In the forest at Jātiyā Wood, where the Buddha was staying",
+             "At Uggaha's own home, after a meal the Buddha accepted the previous day",
+             "At the royal palace",
+             "In a public assembly hall"],
+         "correct": 1,
+         "expl": "A private setting, following the standard meal-invitation sequence."},
+    ],
+    marginalia=[
+        ("Five qualities", [
+            "deference in hours kept",
+            "respect for his kin",
+            "domestic competence",
+            "oversight of staff",
+            "guarding the wealth",
+        ]),
+        ("What is absent", [
+            "no faith, ethics, or",
+            "meditation named",
+            "for its own sake",
+        ]),
+        ("A specific audience", [
+            "not laywomen generally &mdash;",
+            "daughters, at the moment",
+            "of leaving for marriage",
+        ]),
+        ("Cross-references", [
+            "AN 5.31 &middot; freedom, without difference",
+            "AN 5.32 &middot; next-of-kin, With Cundī",
+            "AN 5.34 &middot; next: With General Sīha",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.33/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.32.html">AN 5.32 &middot; With Cundī</a> &mdash; the previous discourse, a '
+        "very different kind of instruction given to a different royal family.",
+        '<a href="an-5.34.html">AN 5.34 &middot; With General Sīha</a> &mdash; next, a return to '
+        "this chapter's central theme of giving.",
+        '<a href="an-5.31.html">AN 5.31 &middot; With Sumanā</a> &mdash; where this chapter '
+        "opened on freedom making no distinction at all between the freed.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.34 — Sīhasenāpatisutta
+# --------------------------------------------------------------------------- #
+page(
+    34, "Sīhasenāpati", "With General Sīha",
+    vagga=VAGGA_4,
+    meta_title="AN 5.34 — With General Sīha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sīhasenāpatisutta — a "
+        "general asks for a fruit of giving visible in this life, and then tells the Buddha which "
+        "of the five he can verify himself and which one he must take on faith. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the peaked roof; stated at the "
+                    "head of AN 5.34"),
+        ("Speakers", "General Sīha, questioning the Buddha"),
+        ("Form", "A question about visible fruit, five named fruits split four-and-one, and the "
+                 "questioner's own verification of exactly which four"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Distinguishing empirically verifiable from faith-based claims "
+                              "within a single teaching recurs across the Chinese Āgamas' "
+                              "treatment of giving; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a genuinely interesting moment "
+                       "of the canon marking its own epistemic boundary"),
+    ],
+    why=(
+        "General Sīha asks a pointed question: can you point to a fruit of giving apparent in "
+        "<em>this very life</em>, not just the next one? The Buddha answers with five fruits, and "
+        "then something unusual happens. Sīha, in his own words, sorts the five into two "
+        "categories: four he says he already knows personally, requiring no faith in the Buddha "
+        "at all, and one &mdash; heavenly rebirth &mdash; which he explicitly says he does not "
+        "know, and must take on faith. The discourse marks its own epistemic boundary, in the "
+        "questioner's own voice."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A giver is loved by many, is associated with by good people, gains a good "
+            "reputation, and enters any assembly with confidence &mdash; four fruits apparent in "
+            "this very life &mdash; and is reborn in a heavenly realm after death, a fifth fruit "
+            "concerning lives to come."]),
+        ("A distinction the text draws explicitly", [
+            "The Buddha's own answer already separates the fruits into two categories, marked "
+            "by different Pāli terms: <em>sandiṭṭhika</em>, apparent in this very life, for the "
+            "first four, and <em>samparāyika</em>, concerning lives to come, for the fifth. This "
+            "is not a distinction this reading guide is imposing on the text; the discourse makes "
+            "it before Sīha ever responds."]),
+        ("Sīha's own epistemology", [
+            "What makes this discourse distinctive is what Sīha does with that distinction. He "
+            "restates all five fruits back to the Buddha in the first person &mdash; <em>I am a "
+            "giver, and I am dear and beloved to many people</em> &mdash; for the first four, "
+            "explicitly saying <em>I don't rely on faith in the Buddha, for I know them too</em>. "
+            "For the fifth, heavenly rebirth, he says the opposite just as explicitly: "
+            "<em>this I don't know, so I have to rely on faith in the Buddha</em>. A listener is "
+            "shown, in real time, someone distinguishing what they can verify from what they "
+            "cannot."]),
+        ("The Buddha's response to being told this", [
+            "The Buddha does not correct Sīha's self-assessment or insist the fourth-and-fifth "
+            "distinction should be collapsed. He responds, <em>that's so true, Sīha! That's so "
+            "true!</em>, and simply restates the fifth fruit once more. The discourse lets Sīha's "
+            "distinction between verified and trusted claims stand without dissolving it into a "
+            "single undifferentiated category of belief."]),
+        ("What this means for how the whole nipāta should be read", [
+            "Not every claim in this chapter, or in this series, carries the same epistemic "
+            "weight, and this discourse is the clearest place in the Fives so far where the "
+            "canon itself makes that explicit. A reader working through discourses about heavenly "
+            "rebirths and cosmic consequences can recall this page: even a devoted questioner "
+            "like Sīha treats some claims as personally checkable and others as resting on trust "
+            "in the teacher, and the text does not blur that line."]),
+    ],
+    terms=[
+        ("sandiṭṭhika",
+         "&ldquo;apparent in this very life&rdquo; &mdash; the term marking the first four fruits "
+         "as personally verifiable, not requiring faith."),
+        ("samparāyika",
+         "&ldquo;concerning lives to come&rdquo; &mdash; the term marking the fifth fruit, "
+         "heavenly rebirth, as belonging to a different epistemic category."),
+        ("saddhāya gacchāmi",
+         "&ldquo;I go by faith&rdquo; &mdash; Sīha&rsquo;s own phrase for what he does with the "
+         "one claim he says he cannot personally verify."),
+        ("visārado amaṅkubhūto",
+         "&ldquo;bold and self-assured&rdquo; &mdash; the fourth visible fruit, entering any "
+         "assembly without hesitation."),
+        ("dāyako dānapati",
+         "&ldquo;a giver, a donor&rdquo; &mdash; the fixed pairing used throughout this discourse "
+         "for the person whose fruits are being described."),
+    ],
+    text_intro=(
+        "The discourse in full: Sīha's question, the Buddha's five fruits, and Sīha's own "
+        "division of them into what he knows and what he takes on faith. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A fruit visible in this life"),
+        ("p", "&sect;1", "an5.34:1.1"),
+        ("p", "&sect;2", "an5.34:1.2-1.3"),
+        ("h3", "Five fruits of giving"),
+        ("p", "&sect;3", "an5.34:2.1"),
+        ("p", "&sect;4", "an5.34:2.2-2.3"),
+        ("p", "&sect;5", "an5.34:3.1-3.2"),
+        ("p", "&sect;6", "an5.34:4.1-4.2"),
+        ("p", "&sect;7", "an5.34:5.1-5.2"),
+        ("p", "&sect;8", "an5.34:6.1-6.2"),
+        ("h3", "Sīha's own verification"),
+        ("p", "&sect;9", "an5.34:7.1-7.9"),
+        ("p", "&sect;10", "an5.34:7.10-7.11"),
+    ],
+    quiz=[
+        {"q": "What question does General Sīha open with?",
+         "opts": [
+             "Whether giving guarantees enlightenment",
+             "Whether the Buddha can point to a fruit of giving apparent in this very life, not "
+             "only the next one",
+             "How much should be given to be effective",
+             "Whether monks may accept gifts at all"],
+         "correct": 1,
+         "expl": "A pointed request for something checkable now, not only a future promise."},
+        {"q": "What two Pāli terms does the discourse itself use to divide the five fruits?",
+         "opts": [
+             "Sekha and asekha",
+             "Sandiṭṭhika, apparent in this life, and samparāyika, concerning lives to come",
+             "Saṅkhata and asaṅkhata",
+             "Kusala and akusala"],
+         "correct": 1,
+         "expl": "A distinction the Buddha's own answer draws, before Sīha responds."},
+        {"q": "What does Sīha say about the first four fruits?",
+         "opts": [
+             "He takes them on faith, like the fifth",
+             "He says he already knows them personally and doesn't rely on faith in the Buddha for "
+             "them",
+             "He denies they are true",
+             "He asks the Buddha to prove them"],
+         "correct": 1,
+         "expl": "Restated in the first person, as things he can verify from his own experience."},
+        {"q": "What does Sīha say about the fifth fruit, heavenly rebirth?",
+         "opts": [
+             "He also claims to know it personally",
+             "He explicitly says he doesn't know it, and must rely on faith in the Buddha",
+             "He rejects the claim outright",
+             "He refuses to comment"],
+         "correct": 1,
+         "expl": "The one fruit Sīha marks as resting on trust rather than personal verification."},
+        {"q": "How does the Buddha respond to Sīha's distinction between what he knows and what he "
+              "takes on faith?",
+         "opts": [
+             "He corrects Sīha, insisting all five must be taken on faith",
+             "He affirms it — 'that's so true, Sīha!' — and simply restates the fifth fruit",
+             "He ignores the distinction entirely",
+             "He rebukes Sīha for doubting"],
+         "correct": 1,
+         "expl": "The distinction is allowed to stand rather than being dissolved."},
+        {"q": "What does the guide say this discourse demonstrates about how the whole nipāta "
+              "should be read?",
+         "opts": [
+             "That every claim carries identical epistemic weight",
+             "That not every claim carries the same epistemic weight, and the canon itself makes "
+             "that distinction explicit here",
+             "That nothing in the canon can be personally verified",
+             "That faith is unnecessary for any claim"],
+         "correct": 1,
+         "expl": "A rare moment where the text marks its own boundary between the checkable and the trusted."},
+        {"q": "What are the four fruits apparent in this very life?",
+         "opts": [
+             "Long life, beauty, happiness, and strength",
+             "Being loved by many, being associated with by good people, gaining a good "
+             "reputation, and entering assemblies with confidence",
+             "Wealth, health, family, and reputation",
+             "Ethics, immersion, wisdom, and freedom"],
+         "correct": 1,
+         "expl": "All four are things Sīha says he can check against his own experience."},
+        {"q": "What is General Sīha's role or title, as named in the discourse?",
+         "opts": [
+             "A minister of finance",
+             "A general (senāpati)",
+             "A physician",
+             "A ferryman"],
+         "correct": 1,
+         "expl": "Named directly in the discourse's own title."},
+        {"q": "What form do the discourse's closing verses take?",
+         "opts": [
+             "A repeat of Sīha's own words",
+             "A restatement of the fruits of giving in verse, including images of the Third Heaven "
+             "and the Garden of Delight",
+             "A warning against giving",
+             "A prose summary with no verse at all"],
+         "correct": 1,
+         "expl": "Verses extending the discourse's claims with additional heavenly imagery."},
+        {"q": "Where is AN 5.34 set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī, at the Great Wood, in the hall with the peaked roof",
+             "Rājagaha",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "A new, explicitly stated setting, distinct from the earlier discourses in this chapter."},
+    ],
+    marginalia=[
+        ("Two categories", [
+            "<span class=\"pali\">sandiṭṭhika</span>this life &mdash; 4",
+            "<span class=\"pali\">samparāyika</span>next life &mdash; 1",
+        ]),
+        ("Sīha's own words", [
+            "&ldquo;I know these four&rdquo;",
+            "&ldquo;this one, I take",
+            "on faith&rdquo;",
+        ]),
+        ("Confirmed, not corrected", [
+            "&ldquo;that's so true, Sīha!&rdquo;",
+            "&mdash; the distinction stands",
+        ]),
+        ("Cross-references", [
+            "AN 5.31 &middot; giving's worldly fruits",
+            "AN 5.35 &middot; next: the same fruits, general",
+            "AN 5.38 &middot; faith's own five benefits",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.34/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.33.html">AN 5.33 &middot; With Uggaha</a> &mdash; the previous discourse, a '
+        "very different address to a different audience.",
+        '<a href="an-5.35.html">AN 5.35 &middot; The Benefits of Giving</a> &mdash; next, this '
+        "same fruit-list generalized beyond a single questioner.",
+        '<a href="an-5.31.html">AN 5.31 &middot; With Sumanā</a> &mdash; where this chapter opened '
+        "on what giving does, and does not, ultimately change.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.35 — Dānānisaṁsasutta
+# --------------------------------------------------------------------------- #
+page(
+    35, "Dānānisaṁsa", "The Benefits of Giving",
+    vagga=VAGGA_4,
+    meta_title="AN 5.35 — The Benefits of Giving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dānānisaṁsasutta — the "
+        "five benefits of giving stated generally, swapping AN 5.34's confident public presence "
+        "for not neglecting a layperson's ordinary duties. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of five general benefits, closing with verses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "General lists of giving's this-life and next-life benefits recur "
+                              "across the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, best read against its "
+                       "more personal predecessor"),
+    ],
+    why=(
+        "Where AN 5.34 built its five fruits around one general's own verified experience, this "
+        "discourse states the same territory as a general teaching to mendicants, with one "
+        "substitution worth noticing: in place of confidently entering any assembly, this "
+        "discourse names not neglecting the ordinary duties of a layperson. The swap says "
+        "something about which quality the collection considers essential to keep, and which "
+        "one is negotiable depending on the audience."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A giver is dear and beloved by many people, is associated with by good and true "
+            "persons, gains a good reputation, does not neglect a layperson's duties, and is "
+            "reborn in a heavenly realm."]),
+        ("One item swapped, four kept", [
+            "The first three and the fifth benefit here are worded almost identically to AN "
+            "5.34's first three and fifth fruits. The fourth is different: "
+            "<em>gihidhammā anapagato hoti</em>, they don't neglect a layperson's duties, "
+            "replaces AN 5.34's confident, self-assured presence in any assembly. A general like "
+            "Sīha might reasonably be praised for public confidence; a general audience of "
+            "mendicants addressing lay listeners might instead emphasize not letting generosity "
+            "come at the expense of ordinary household obligations."]),
+        ("A general teaching, not a personal exchange", [
+            "AN 5.34 unfolded as dialogue, with a named questioner testing and confirming each "
+            "claim against his own experience. This discourse has no questioner at all; it opens "
+            "with the standard <em>mendicants, there are five benefits of giving</em> and states "
+            "the list directly, without anyone verifying or challenging any part of it."]),
+        ("The closing verse's sharper turn", [
+            "The verses closing this discourse move further than AN 5.34's did, ending not simply "
+            "with heavenly rebirth but with the Dhamma taught by good companions "
+            "<em>casting aside all suffering</em>, so that <em>the undefiled one is fully "
+            "extinguished</em>. A discourse that opened on giving's ordinary social and worldly "
+            "benefits closes by pointing all the way to full extinguishment, the same movement "
+            "AN 5.31 traced explicitly at the start of this chapter."]),
+    ],
+    terms=[
+        ("gihidhammā anapagato",
+         "&ldquo;not neglecting a layperson&rsquo;s duties&rdquo; &mdash; this discourse&rsquo;s "
+         "substitution for AN 5.34&rsquo;s confident public presence."),
+        ("sappurisā",
+         "&ldquo;true persons, good people&rdquo; &mdash; the second benefit, matching AN "
+         "5.34&rsquo;s wording closely."),
+        ("kalyāṇo kittisaddo",
+         "&ldquo;a good reputation&rdquo; &mdash; the third benefit, a fixed phrase for renown "
+         "used identically across several discourses in this chapter."),
+        ("sabbadukkhāpanūdana",
+         "&ldquo;casting aside all suffering&rdquo; &mdash; the closing verse&rsquo;s description "
+         "of the Dhamma good companions teach."),
+        ("parinibbāti anāsavo",
+         "&ldquo;the undefiled one is fully extinguished&rdquo; &mdash; the discourse&rsquo;s "
+         "final line, reaching well beyond the worldly benefits it opened with."),
+    ],
+    text_intro=(
+        "The discourse in full: the five general benefits of giving, closing with verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.35:1.1-1.8"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;2", "an5.35:2.1-2.4"),
+        ("p", "&sect;3", "an5.35:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "Which single benefit differs between AN 5.34's list and this discourse's list?",
+         "opts": [
+             "Being loved by many",
+             "Confident public presence, replaced here by not neglecting a layperson's duties",
+             "Heavenly rebirth",
+             "A good reputation"],
+         "correct": 1,
+         "expl": "Four items match closely; the fourth is swapped for a different quality."},
+        {"q": "Why might this discourse's audience explain the swap, according to the guide?",
+         "opts": [
+             "No explanation is possible",
+             "A general audience of mendicants addressing lay listeners might emphasize not "
+             "letting generosity come at the expense of ordinary household duties",
+             "The swap is a copying error",
+             "The two lists are actually identical, with no swap at all"],
+         "correct": 1,
+         "expl": "A general like Sīha suits public confidence; a broader lay audience suits a different emphasis."},
+        {"q": "How does this discourse's form differ from AN 5.34's?",
+         "opts": [
+             "Identical dialogue with a named questioner",
+             "No questioner at all — a general statement of the list with nothing verified by "
+             "anyone",
+             "This discourse has no text",
+             "It is spoken entirely in verse"],
+         "correct": 1,
+         "expl": "A direct teaching, not a personal exchange."},
+        {"q": "What does the discourse's closing verse ultimately point toward?",
+         "opts": [
+             "Only worldly wealth",
+             "Full extinguishment — 'the undefiled one is fully extinguished' — reached through the "
+             "Dhamma taught by good companions",
+             "A warning against giving",
+             "A return to lay life"],
+         "correct": 1,
+         "expl": "A movement from ordinary benefit to the furthest goal, echoing AN 5.31's arc."},
+        {"q": "What are the five benefits of giving named in this discourse?",
+         "opts": [
+             "Loved by many, associated with by good people, good reputation, not neglecting lay "
+             "duties, and heavenly rebirth",
+             "Long life, beauty, happiness, strength, and eloquence",
+             "The five powers of a trainee",
+             "Faith, ethics, learning, generosity, and wisdom"],
+         "correct": 0,
+         "expl": "The general five-item version of the benefits this chapter has been tracing."},
+        {"q": "Is this discourse's list identical in every wording to AN 5.34's?",
+         "opts": [
+             "Yes, word for word",
+             "No — four items are worded closely but the fourth is genuinely different",
+             "No, all five items differ completely",
+             "The two discourses share no wording at all"],
+         "correct": 1,
+         "expl": "Close but not identical, a pattern worth noticing rather than assuming automatic repetition."},
+        {"q": "Does this discourse include a named questioner testing the claims personally?",
+         "opts": [
+             "Yes, like Sīha in AN 5.34",
+             "No — it is stated as a direct teaching with no dialogue",
+             "Yes, Sumanā appears again",
+             "Yes, Uggaha's daughters respond"],
+         "correct": 1,
+         "expl": "A structural difference from the previous discourse's personal exchange."},
+        {"q": "What phrase describes the Dhamma taught by good companions in the closing verse?",
+         "opts": [
+             "'The path of merit'",
+             "'Casting aside all suffering' (sabbadukkhāpanūdana)",
+             "'The gate to wealth'",
+             "'The way of kings'"],
+         "correct": 1,
+         "expl": "A phrase reaching toward the teaching's furthest claim."},
+        {"q": "How long is this discourse compared to AN 5.34?",
+         "opts": [
+             "Much longer",
+             "Considerably shorter, without AN 5.34's extended dialogue",
+             "Identical in length",
+             "This discourse has no text at all"],
+         "correct": 1,
+         "expl": "A bare list plus closing verses, without the personal exchange."},
+        {"q": "Where is AN 5.35 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Four kept, one swapped", [
+            "loved &middot; associated with",
+            "reputation &middot; reborn well",
+            "&mdash; swap: lay duties, not",
+            "confident assembly",
+        ]),
+        ("No questioner here", [
+            "AN 5.34: dialogue",
+            "AN 5.35: direct teaching",
+        ]),
+        ("The final turn", [
+            "worldly benefit &rarr;",
+            "&ldquo;fully extinguished&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 5.34 &middot; the personal version",
+            "AN 5.36 &middot; next: timely gifts",
+            "AN 5.31 &middot; the same arc, at length",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.35/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.34.html">AN 5.34 &middot; With General Sīha</a> &mdash; the previous '
+        "discourse, the same fruits personally verified by a single questioner.",
+        '<a href="an-5.36.html">AN 5.36 &middot; Timely Gifts</a> &mdash; next, five moments when '
+        "giving carries special weight.",
+        '<a href="an-5.31.html">AN 5.31 &middot; With Sumanā</a> &mdash; where the same movement '
+        "from worldly benefit to full freedom opened this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.36 — Kāladānasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, "Kāladāna", "Timely Gifts",
+    vagga=VAGGA_4,
+    meta_title="AN 5.36 — Timely Gifts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kāladānasutta — five "
+        "moments when a gift carries particular weight: for a visitor, a traveler, someone sick, "
+        "at a time of famine, and first fruits offered to the ethical. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of five timely occasions for giving, closing with verses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Naming specific occasions when giving carries heightened merit "
+                              "recurs across the Chinese Āgamas and Vinaya-adjacent literature; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a short, practical list "
+                       "shifting this chapter's focus from what giving does to when it matters "
+                       "most"),
+    ],
+    why=(
+        "Every discourse in this chapter so far has asked what giving produces. This one asks a "
+        "different question: when does giving matter most? Its answer is entirely occasion-based "
+        "&mdash; a visitor arriving, someone setting out on a journey, a person who is sick, a "
+        "time of famine, and the very first harvest of the season &mdash; none of them about the "
+        "size or nature of the gift, all of them about its timing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are five timely gifts: to a visitor, to someone setting out on a journey, to "
+            "someone sick, at a time of famine, and presenting the first harvested grains and "
+            "fruits to the ethical."]),
+        ("Four occasions of need, one of abundance", [
+            "The first four items share an obvious logic: a visitor, a traveler, a sick person, "
+            "and a famine are all moments of genuine need or vulnerability, where a gift meets a "
+            "concrete gap. The fifth breaks that pattern &mdash; offering the season's first "
+            "harvest is not a response to anyone's hardship, but a deliberate act of putting "
+            "abundance first toward the ethical before using it oneself."]),
+        ("Timing, not size, as the variable", [
+            "Nothing in this list concerns how much is given. The entire discourse treats "
+            "<em>when</em> as the operative factor determining a gift's weight, distinct from "
+            "every earlier discourse in this chapter, which concerned what results from giving "
+            "in general, without regard to occasion."]),
+        ("Who shares in the merit", [
+            "The closing verses extend the discourse's scope past the giver alone: "
+            "<em>those who rejoice at that, or do other services, don't miss out on the "
+            "offering; they too have a share in the merit</em>. Approval and assistance, on this "
+            "account, are not passive; someone who merely rejoices at another's timely gift is "
+            "said to share in what it produces."]),
+    ],
+    terms=[
+        ("kāladāna",
+         "&ldquo;timely gift&rdquo; &mdash; this discourse&rsquo;s title and organizing concept, "
+         "naming occasion rather than quantity as the operative factor."),
+        ("gamika",
+         "&ldquo;one setting out on a journey&rdquo; &mdash; the second timely occasion, a "
+         "traveler about to depart."),
+        ("dubbhikkha",
+         "&ldquo;famine, scarcity of food&rdquo; &mdash; the fourth occasion, the only one of the "
+         "five concerning a communal rather than individual circumstance."),
+        ("navasassāni navaphalāni",
+         "&ldquo;freshly harvested grains and fruits&rdquo; &mdash; the fifth occasion's object, "
+         "the season's first produce offered before personal use."),
+        ("anumodanti",
+         "&ldquo;rejoice at, approve of&rdquo; &mdash; the verb in the closing verse marking "
+         "onlookers who share in the merit of a gift they did not themselves give."),
+    ],
+    text_intro=(
+        "The discourse in full: the five timely gifts, closing with verses on sharing in another's "
+        "merit. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.36:1.1-1.8"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;2", "an5.36:2.1-2.4"),
+        ("p", "&sect;3", "an5.36:3.1-3.6"),
+        ("p", "&sect;4", "an5.36:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What five occasions does this discourse name for timely giving?",
+         "opts": [
+             "Any five arbitrary days of the year",
+             "A visitor, someone setting out on a journey, someone sick, a time of famine, and "
+             "offering the first harvest to the ethical",
+             "The five powers of a trainee",
+             "Five specific monastic festivals"],
+         "correct": 1,
+         "expl": "Occasion-based, not quantity-based."},
+        {"q": "What do the first four occasions share, according to the guide?",
+         "opts": [
+             "All concern wealthy recipients",
+             "All are moments of genuine need or vulnerability, where a gift meets a concrete gap",
+             "All occur only once per year",
+             "None involve any real need at all"],
+         "correct": 1,
+         "expl": "A visitor, traveler, sick person, and famine share an obvious logic of need."},
+        {"q": "How does the fifth occasion, first-harvest offering, break that pattern?",
+         "opts": [
+             "It doesn't; it also concerns need",
+             "It is not a response to hardship, but a deliberate act of putting abundance first "
+             "toward the ethical before personal use",
+             "It applies only to monks",
+             "It concerns famine specifically"],
+         "correct": 1,
+         "expl": "A pattern shift from responding to need to prioritizing generosity in abundance."},
+        {"q": "What is the operative variable this discourse treats as determining a gift's "
+              "weight?",
+         "opts": [
+             "The size of the gift",
+             "Timing — when the gift is given, not how much",
+             "The wealth of the giver",
+             "The gender of the recipient"],
+         "correct": 1,
+         "expl": "Distinct from every earlier discourse in this chapter, which concerned general results rather than occasion."},
+        {"q": "What do the closing verses say about those who merely approve of another's gift?",
+         "opts": [
+             "They gain nothing at all",
+             "Those who rejoice or assist don't miss out on the offering — they too share in the "
+             "merit",
+             "They are criticized for not giving themselves",
+             "The verses say nothing about onlookers"],
+         "correct": 1,
+         "expl": "Approval and assistance are treated as active, merit-sharing participation."},
+        {"q": "Is quantity given any weight in this discourse's account of timely giving?",
+         "opts": [
+             "Yes, extensively",
+             "No — the entire discourse concerns timing, not amount",
+             "Only for the fifth occasion",
+             "Only for gifts to the sick"],
+         "correct": 1,
+         "expl": "Occasion, not size, is the discourse's sole variable."},
+        {"q": "What kind of occasion is famine, compared to the other four?",
+         "opts": [
+             "Identical to the others in every respect",
+             "The only one of the five concerning a communal rather than individual circumstance",
+             "A purely individual concern",
+             "Not actually included in the list"],
+         "correct": 1,
+         "expl": "A shift in scale from the personal occasions of the first three."},
+        {"q": "Does this discourse specify a minimum amount that must be given at these five "
+              "occasions?",
+         "opts": [
+             "Yes, a specific quantity for each",
+             "No amount is specified at all",
+             "Only for the famine occasion",
+             "Only for the harvest occasion"],
+         "correct": 1,
+         "expl": "Consistent with the discourse's focus on timing rather than quantity."},
+        {"q": "What comes next in this chapter, after this discourse on timing?",
+         "opts": [
+             "AN 5.37, on what giving food specifically confers on its recipient",
+             "A return to the powers of a trainee",
+             "The end of the chapter",
+             "A repeat of AN 5.35"],
+         "correct": 0,
+         "expl": "A further narrowing of focus, this time to a specific kind of gift."},
+        {"q": "Where is AN 5.36 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five occasions", [
+            "a visitor &middot; a traveler",
+            "the sick &middot; a famine",
+            "first harvest",
+        ]),
+        ("Need, then abundance", [
+            "four: meeting a gap",
+            "one: offering surplus",
+            "first, deliberately",
+        ]),
+        ("Sharing the merit", [
+            "&ldquo;those who rejoice",
+            "or assist &mdash; they too",
+            "have a share&rdquo;",
+        ]),
+        ("Cross-references", [
+            "AN 5.35 &middot; giving, in general",
+            "AN 5.37 &middot; next: food specifically",
+            "AN 5.34 &middot; giving's visible fruits",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.36/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.35.html">AN 5.35 &middot; The Benefits of Giving</a> &mdash; the previous '
+        "discourse, on what giving produces in general.",
+        '<a href="an-5.37.html">AN 5.37 &middot; Food</a> &mdash; next, five specific things a '
+        "gift of food gives its recipient.",
+        '<a href="an-5.34.html">AN 5.34 &middot; With General Sīha</a> &mdash; earlier in this '
+        "chapter, giving's fruits verified personally.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.37 — Bhojanasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, "Bhojana", "Food",
+    vagga=VAGGA_4,
+    meta_title="AN 5.37 — Food | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhojanasutta — giving "
+        "food gives the recipient five things, and the giver receives the identical five things "
+        "in their own future lives. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A five-item list of what food-giving confers, restated as what the giver "
+                 "receives in return, closing with verses"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Reciprocal like-for-like karmic mechanisms for specific kinds of "
+                              "giving are common across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, and unusually precise "
+                       "about the mechanism connecting gift to result"),
+    ],
+    why=(
+        "This discourse narrows the chapter's focus a final step, from giving in general to one "
+        "specific gift: food. And it makes an unusually exact claim about how the mechanism works. "
+        "Giving food does not simply produce good karma in the abstract; it gives the recipient "
+        "five named things &mdash; long life, beauty, happiness, strength, eloquence &mdash; and "
+        "the giver is then said to receive the identical five things themselves, as a god or "
+        "human, in return."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A giver of food gives the recipient long life, beauty, happiness, strength, and "
+            "eloquence, and by giving each of these, becomes a sharer in that same thing "
+            "themselves, as a god or human."]),
+        ("A precise, symmetrical mechanism", [
+            "Unlike most of this chapter's discourses, which name benefits without specifying "
+            "exactly how cause connects to effect, this one states the connection item by item: "
+            "<em>āyuṁ datvā āyussa bhāgī hoti</em>, having given long life, one becomes a sharer "
+            "in long life. The same formula repeats for beauty, happiness, strength, and "
+            "eloquence, with no variation in structure across the five."]),
+        ("Why food specifically produces these five", [
+            "The discourse does not explain why food-giving in particular maps onto exactly these "
+            "five results rather than some other set, but the connection is not arbitrary on its "
+            "face: food sustains the body's life, appearance, comfort, and vigor directly, and "
+            "the fifth item, eloquence, extends the logic from bodily nourishment to the kind of "
+            "vitality that shows in speech."]),
+        ("A narrower discourse than it first appears", [
+            "This is the most specific gift this chapter examines &mdash; not giving broadly, not "
+            "giving at a particular time, but giving one particular substance, food, with a "
+            "correspondingly precise account of what it returns. Read after AN 5.36's broader "
+            "occasions, this discourse completes a narrowing movement across three consecutive "
+            "discourses: general benefits, then timing, then one specific gift examined in detail."]),
+    ],
+    terms=[
+        ("āyuṁ vaṇṇaṁ sukhaṁ balaṁ paṭibhānaṁ",
+         "&ldquo;long life, beauty, happiness, strength, and eloquence&rdquo; &mdash; the five "
+         "things this discourse says food-giving confers and returns."),
+        ("bhāgī hoti",
+         "&ldquo;becomes a sharer in&rdquo; &mdash; the verb marking the giver's own future share "
+         "in each of the five things given."),
+        ("paṭibhāna",
+         "&ldquo;eloquence, quick wit&rdquo; &mdash; the fifth item, extending the logic from "
+         "bodily nourishment to vitality in speech."),
+        ("paṭiggāhaka",
+         "&ldquo;recipient&rdquo; &mdash; the person receiving the food, whose gain the giver's "
+         "own future gain is said to mirror."),
+        ("dibba mānusa",
+         "&ldquo;divine or human&rdquo; &mdash; the two forms of existence in which the giver is "
+         "said to receive each of the five things back."),
+    ],
+    text_intro=(
+        "The discourse in full: the five things given with food, and the giver's own share in "
+        "each, closing with verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things, given with food"),
+        ("p", "&sect;1", "an5.37:1.1-1.3"),
+        ("p", "&sect;2", "an5.37:1.4"),
+        ("p", "&sect;3", "an5.37:1.5"),
+        ("p", "&sect;4", "an5.37:1.6"),
+        ("p", "&sect;5", "an5.37:1.7"),
+        ("p", "&sect;6", "an5.37:1.8"),
+        ("p", "&sect;7", "an5.37:1.9"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;8", "an5.37:2.1-2.4"),
+        ("p", "&sect;9", "an5.37:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What five things does this discourse say a giver of food gives to the recipient?",
+         "opts": [
+             "Faith, ethics, learning, generosity, wisdom",
+             "Long life, beauty, happiness, strength, and eloquence",
+             "The five powers of a trainee",
+             "Wealth, status, family, health, and fame"],
+         "correct": 1,
+         "expl": "A precise, five-item list specific to food-giving."},
+        {"q": "What happens to the giver, according to this discourse's mechanism?",
+         "opts": [
+             "Nothing further is said about the giver",
+             "The giver becomes a sharer in each of the same five things themselves, as a god or "
+             "human",
+             "The giver loses these five things",
+             "Only the recipient benefits; the giver gains nothing"],
+         "correct": 1,
+         "expl": "An exact, symmetrical return for each of the five items given."},
+        {"q": "How does this discourse's account of cause and effect compare to most of this "
+              "chapter's other discourses on giving?",
+         "opts": [
+             "Identical, with no distinction",
+             "Unusually precise — it specifies exactly how each item given connects to each item "
+             "received, item by item",
+             "Vaguer than the other discourses",
+             "This discourse gives no account of cause and effect at all"],
+         "correct": 1,
+         "expl": "Most other discourses name benefits without this level of item-by-item mechanism."},
+        {"q": "Why might food-giving specifically map onto these five results, according to the "
+              "guide?",
+         "opts": [
+             "No connection is suggested at all",
+             "Food sustains the body's life, appearance, comfort, and vigor directly, extending to "
+             "vitality in speech as well",
+             "The five results are entirely unrelated to food",
+             "Because food is the most expensive gift possible"],
+         "correct": 1,
+         "expl": "A connection the guide reads as not arbitrary on its face, even though the text itself doesn't explain it."},
+        {"q": "How does the guide describe this discourse's place in a three-discourse sequence "
+              "with AN 5.35 and 5.36?",
+         "opts": [
+             "Unrelated to the two discourses before it",
+             "The completion of a narrowing movement — general benefits, then timing, then one "
+             "specific gift examined in detail",
+             "A contradiction of both earlier discourses",
+             "An exact repeat of AN 5.36"],
+         "correct": 1,
+         "expl": "General, then timely, then specific — a deliberate narrowing across three discourses."},
+        {"q": "What verb marks the giver's own future share in what was given?",
+         "opts": [
+             "Nissarati, 'departs'",
+             "Bhāgī hoti, 'becomes a sharer in'",
+             "Vinassati, 'is destroyed'",
+             "Paṭikkamati, 'withdraws'"],
+         "correct": 1,
+         "expl": "Repeated identically for each of the five items."},
+        {"q": "Is the structure of the five-item formula varied across the five items, or kept "
+              "consistent?",
+         "opts": [
+             "Varied significantly for each item",
+             "Kept consistent — the identical formula repeats for beauty, happiness, strength, and "
+             "eloquence after being stated for long life",
+             "Only stated once, for long life alone",
+             "Each item uses a completely different grammatical structure"],
+         "correct": 1,
+         "expl": "No variation in structure across the five repetitions."},
+        {"q": "In what two forms of existence does the giver receive each of the five things back?",
+         "opts": [
+             "Only as a human",
+             "As a god or human (dibba vā mānusa vā)",
+             "Only as a god",
+             "As an animal or a hungry ghost"],
+         "correct": 1,
+         "expl": "The same two destinations named across several discourses in this chapter."},
+        {"q": "Does this discourse concern giving broadly, or one specific kind of gift?",
+         "opts": [
+             "Giving in the broadest possible sense",
+             "One specific kind of gift — food",
+             "Only gifts of money",
+             "Only gifts to monastics"],
+         "correct": 1,
+         "expl": "The narrowest, most specific gift examined in this chapter."},
+        {"q": "Where is AN 5.37 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five given, five returned", [
+            "long life &middot; beauty",
+            "happiness &middot; strength",
+            "eloquence",
+        ]),
+        ("An exact mechanism", [
+            "<span class=\"pali\">bhāgī hoti</span>",
+            "&mdash; becomes a sharer,",
+            "item for item",
+        ]),
+        ("Narrowing focus", [
+            "AN 5.35: giving, general",
+            "AN 5.36: giving, timely",
+            "AN 5.37: food, specific",
+        ]),
+        ("Cross-references", [
+            "AN 5.36 &middot; timely occasions",
+            "AN 5.38 &middot; next: faith's own five",
+            "AN 5.34 &middot; giving's visible fruits",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.37/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.36.html">AN 5.36 &middot; Timely Gifts</a> &mdash; the previous discourse, '
+        "on when a gift matters most.",
+        '<a href="an-5.38.html">AN 5.38 &middot; Faith</a> &mdash; next, shifting from what is '
+        "given to the quality of the giver themselves.",
+        '<a href="an-5.35.html">AN 5.35 &middot; The Benefits of Giving</a> &mdash; the general '
+        "version of this chapter&rsquo;s benefits, before this discourse&rsquo;s narrowing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.38 — Saddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    38, "Saddha", "Faith",
+    vagga=VAGGA_4,
+    meta_title="AN 5.38 — Faith | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saddhasutta — a "
+        "faithful gentleman's five benefits, illustrated by a banyan tree that becomes a refuge "
+        "for birds from all around. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "Five benefits stated for the faithful, then a single simile, then verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The banyan-tree image for a person who shelters many others "
+                              "recurs across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; shifts this chapter's focus "
+                       "from the gift to the giver's own quality of faith"),
+    ],
+    why=(
+        "Having examined giving in general, giving at the right time, and giving food "
+        "specifically, this discourse steps back to the quality underlying all of it: faith. A "
+        "faithful gentleman, it says, is approached, shown sympathy, and taught Dhamma before an "
+        "unfaithful one &mdash; and becomes, like a great banyan tree at a crossroads, a refuge "
+        "for many kinds of people at once."),
+    guide=[
+        ("The teaching in one sentence", [
+            "True persons show sympathy to, approach, receive alms from, and teach Dhamma to the "
+            "faithful before the unfaithful, and a faithful gentleman is reborn well and becomes "
+            "a refuge for many people, like a great banyan tree for birds."]),
+        ("Priority, not exclusion", [
+            "The Pāli formula is careful: <em>paṭhamaṁ&hellip;no tathā assaddhaṁ</em>, first to "
+            "the faithful, not so much to the faithless. This is a claim about priority and "
+            "degree, not a claim that the unfaithful are refused outright. Four times over, the "
+            "same qualified structure repeats, marking a consistent difference of emphasis rather "
+            "than a hard exclusion."]),
+        ("A tree for many kinds of bird", [
+            "The banyan simile names its beneficiaries specifically: monks, nuns, laymen, and "
+            "laywomen, all four sheltered by the same tree. The image is not of a private "
+            "resource but a public one, becoming valuable precisely by being available to more "
+            "than one kind of visitor at once &mdash; matching the discourse's closing verse, "
+            "where <em>those that need shade go in the shade, those that need fruit enjoy the "
+            "fruit</em>, different needs met by the same single source."]),
+        ("Where the tree simile has appeared before", [
+            "This is not the first tree image in this chapter: AN 5.24 used branches, foliage, "
+            "shoots, bark, softwood, and heartwood to picture ethics supporting deeper "
+            "attainments, and AN 5.40, closing this chapter, will use a similar image for a "
+            "family supported by its head. Trees recur across this chapter as a preferred image "
+            "for something that grows in layers and, once grown, supports more than itself."]),
+    ],
+    terms=[
+        ("saddha kulaputta",
+         "&ldquo;faithful gentleman&rdquo; &mdash; this discourse&rsquo;s subject, named by the "
+         "quality of faith rather than by rank or wealth."),
+        ("paṭhamaṁ&hellip;no tathā",
+         "&ldquo;first&hellip;not so much&rdquo; &mdash; the qualifying formula marking each "
+         "benefit as a matter of priority, not exclusion."),
+        ("mahānigrodha",
+         "&ldquo;great banyan tree&rdquo; &mdash; the discourse&rsquo;s central simile, chosen for "
+         "its capacity to shelter many different visitors at once."),
+        ("paṭisaraṇa",
+         "&ldquo;refuge&rdquo; &mdash; the word applied both to the tree for birds and to the "
+         "faithful gentleman for monks, nuns, laymen, and laywomen."),
+        ("puññakkhetta",
+         "&ldquo;field of merit&rdquo; &mdash; the closing verse&rsquo;s description of those the "
+         "faithful gentleman associates with, echoing the same term used for the Saṅgha at AN "
+         "5.32."),
+    ],
+    text_intro=(
+        "The discourse in full: the five benefits of faith, the banyan simile, and the closing "
+        "verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.38:1.1-1.8"),
+        ("h3", "The banyan tree"),
+        ("p", "&sect;2", "an5.38:2.1-2.2"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;3", "an5.38:3.1-3.4"),
+        ("p", "&sect;4", "an5.38:4.1-4.4"),
+        ("p", "&sect;5", "an5.38:5.1-5.4"),
+        ("p", "&sect;6", "an5.38:6.1-6.4"),
+        ("p", "&sect;7", "an5.38:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What does the formula 'paṭhamaṁ...no tathā assaddhaṁ' claim about the faithful "
+              "and unfaithful?",
+         "opts": [
+             "That the unfaithful are refused help entirely",
+             "That the faithful are approached and helped first, as a matter of priority — not "
+             "that the unfaithful are excluded outright",
+             "That faith is irrelevant to how people are treated",
+             "That only the faithful may receive alms"],
+         "correct": 1,
+         "expl": "A claim about degree and priority, repeated identically four times."},
+        {"q": "Who does the banyan tree simile name as sheltered by a faithful gentleman?",
+         "opts": [
+             "Only monks",
+             "Monks, nuns, laymen, and laywomen — all four kinds of Buddhist follower",
+             "Only wealthy donors",
+             "Only his own family"],
+         "correct": 1,
+         "expl": "A public resource available to more than one kind of visitor."},
+        {"q": "What does the closing verse say about the tree's shade and fruit?",
+         "opts": [
+             "Only shade is available, no fruit",
+             "Different needs are met by the same single source — shade for those needing shade, "
+             "fruit for those needing fruit",
+             "Only fruit is available, no shade",
+             "The tree provides nothing useful at all"],
+         "correct": 1,
+         "expl": "One source, multiple kinds of benefit, matching the discourse's account of the faithful gentleman."},
+        {"q": "Where else in this chapter has a tree image already appeared, according to the "
+              "guide?",
+         "opts": [
+             "Nowhere else in this chapter",
+             "AN 5.24, using branches, foliage, shoots, bark, softwood, and heartwood for ethics "
+             "supporting deeper attainments",
+             "Only in AN 5.31",
+             "Only in the previous nipāta"],
+         "correct": 1,
+         "expl": "A recurring image across the collection, not unique to this discourse."},
+        {"q": "What does this discourse shift the chapter's focus toward, compared to AN "
+              "5.35–5.37?",
+         "opts": [
+             "It continues examining specific gifts",
+             "It steps back to the quality of faith underlying the giver, rather than the gift "
+             "itself",
+             "It abandons the topic of giving entirely",
+             "It returns to the powers of a trainee"],
+         "correct": 1,
+         "expl": "From what is given, to who the giver is."},
+        {"q": "What does 'puññakkhetta', field of merit, describe in this discourse's closing "
+              "verse?",
+         "opts": [
+             "The faithful gentleman's farmland",
+             "Those the faithful gentleman associates with — echoing the same term used for the "
+             "Saṅgha at AN 5.32",
+             "A type of monastic robe",
+             "A specific meditation technique"],
+         "correct": 1,
+         "expl": "The same term applied to the Saṅgha reappears here for the company a faithful person keeps."},
+        {"q": "How many times does the qualifying formula 'first...not so much' repeat across the "
+              "discourse's list of benefits?",
+         "opts": ["Once", "Twice", "Four times", "Not at all"],
+         "correct": 2,
+         "expl": "A consistent structure across sympathy, approach, receiving alms, and teaching Dhamma."},
+        {"q": "What comes after this discourse in the chapter?",
+         "opts": [
+             "AN 5.39, on parents' reasons for wanting children",
+             "A return to AN 5.31's material",
+             "The end of the chapter",
+             "A repeat of AN 5.37"],
+         "correct": 0,
+         "expl": "The chapter continues its exploration of lay social and family life."},
+        {"q": "Does the discourse claim the unfaithful receive no teaching of Dhamma at all?",
+         "opts": [
+             "Yes, they are entirely excluded",
+             "No — the claim is about who is taught first, not an absolute exclusion",
+             "The discourse does not address this",
+             "Yes, but only for one specific benefit"],
+         "correct": 1,
+         "expl": "Consistent with the priority-not-exclusion reading the guide applies throughout."},
+        {"q": "Where is AN 5.38 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five benefits", [
+            "sympathy first",
+            "approached first",
+            "alms given first",
+            "taught first",
+            "reborn well",
+        ]),
+        ("Priority, not exclusion", [
+            "&ldquo;first&hellip;",
+            "not so much&hellip;&rdquo;",
+        ]),
+        ("The banyan", [
+            "monks, nuns,",
+            "laymen, laywomen &mdash;",
+            "all sheltered at once",
+        ]),
+        ("Cross-references", [
+            "AN 5.24 &middot; the tree, before",
+            "AN 5.32 &middot; field of merit, first used",
+            "AN 5.39 &middot; next: why parents want a child",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.38/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.37.html">AN 5.37 &middot; Food</a> &mdash; the previous discourse, on what '
+        "a specific gift confers.",
+        '<a href="an-5.39.html">AN 5.39 &middot; A Child</a> &mdash; next, a shift from the '
+        "faithful adult to family life itself.",
+        '<a href="an-5.24.html">AN 5.24 &middot; Unethical</a> &mdash; the earlier tree simile '
+        "this discourse&rsquo;s banyan image echoes.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.39 — Puttasutta
+# --------------------------------------------------------------------------- #
+page(
+    39, "Putta", "A Child",
+    vagga=VAGGA_4,
+    meta_title="AN 5.39 — A Child | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Puttasutta — five "
+        "reasons parents in this discourse's world wish for a child: reciprocal care, family "
+        "continuity, inheritance, and offerings for the dead. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of five parental motives, followed by verses addressed to grown "
+                 "children"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Filial reciprocity and ancestral offerings are central themes "
+                              "across Chinese Buddhist lay ethics; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a window into an "
+                       "economic and religious logic of family this reading guide will not "
+                       "modernize"),
+    ],
+    why=(
+        "This discourse states, without embarrassment, why parents in its world want children: "
+        "so the children will later support them, take on family duties, keep the family "
+        "tradition alive, manage the inheritance, and make offerings to them after death. None of "
+        "these five reasons concerns love, companionship, or anything resembling a modern account "
+        "of why people want children. They are frankly transactional, and this reading guide "
+        "presents them as the discourse states them rather than translating them into more "
+        "familiar sentiment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Parents wish for a child for five reasons: having been supported, the child will "
+            "support them in turn; will do their duty for them; will keep the family tradition "
+            "alive; will take care of the inheritance; and will make an offering on their behalf "
+            "after they have died."]),
+        ("An economic and religious logic, stated plainly", [
+            "In a society without pensions or formal social security, an adult child was, quite "
+            "literally, the parents' plan for old age and for what happens after death. The fifth "
+            "reason, <em>dakkhiṇaṁ anuppadassati</em>, they will give an offering on our behalf, "
+            "refers to the practice of dedicating merit to deceased relatives, particularly those "
+            "reborn as <em>peta</em>, hungry ghosts, who were believed to depend on such offerings "
+            "for their own relief. Reading this discourse without that context makes its "
+            "priorities look coldly self-interested; reading it with that context shows a "
+            "coherent, if unfamiliar, logic of mutual obligation across generations, including "
+            "generations already dead."]),
+        ("What is absent from this list", [
+            "As with AN 5.33's instruction to daughters, it is worth noting what this list does "
+            "not mention: no reason here concerns affection, the joy of raising a child, or "
+            "anything the child might gain for their own sake. The discourse states parental "
+            "motive from the parents' side only, and states it as reciprocal exchange, not "
+            "sentiment."]),
+        ("The child's side, in the closing verses", [
+            "The verses that follow reframe the same material from the child's perspective, and "
+            "shift register: a praiseworthy child is one who is <em>grateful and thankful</em>, "
+            "who looks after parents <em>remembering past deeds</em>, doing for them "
+            "<em>as their parents did for them in the past</em>. The obligation described is "
+            "explicitly reciprocal &mdash; owed because it was first given &mdash; rather than "
+            "unconditional."]),
+    ],
+    terms=[
+        ("kulavaṁsa",
+         "&ldquo;family lineage, tradition&rdquo; &mdash; the third parental motive, continuity of "
+         "the family line and its customs through a child."),
+        ("dāyajja",
+         "&ldquo;inheritance&rdquo; &mdash; the fourth motive, a child's role managing what the "
+         "family has accumulated."),
+        ("peta",
+         "&ldquo;departed one, hungry ghost&rdquo; &mdash; the deceased relatives the fifth "
+         "motive's offering is understood to benefit."),
+        ("dakkhiṇā",
+         "&ldquo;religious offering, donation&rdquo; &mdash; the specific act of merit-dedication "
+         "named in the fifth reason, given on behalf of the dead."),
+        ("kataññū katavedī",
+         "&ldquo;grateful and thankful&rdquo; &mdash; the closing verses&rsquo; description of a "
+         "praiseworthy child, framing the obligation as reciprocal rather than unconditional."),
+    ],
+    text_intro=(
+        "The discourse in full: the five parental reasons, and the closing verses addressed to "
+        "grown children. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "an5.39:1.1-1.8"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;2", "an5.39:2.1-2.4"),
+        ("p", "&sect;3", "an5.39:3.1-3.4"),
+        ("p", "&sect;4", "an5.39:4.1-4.4"),
+        ("p", "&sect;5", "an5.39:5.1-5.4"),
+        ("p", "&sect;6", "an5.39:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What are the five reasons this discourse gives for parents wishing for a child?",
+         "opts": [
+             "Love, companionship, joy, curiosity, and legacy",
+             "Reciprocal support in old age, doing duties for the parents, continuing family "
+             "tradition, managing inheritance, and making offerings after death",
+             "Wealth, status, education, health, and beauty",
+             "The five powers of a trainee"],
+         "correct": 1,
+         "expl": "Explicitly reciprocal and transactional reasons, stated without sentiment."},
+        {"q": "What does the guide say is notably absent from this list of reasons?",
+         "opts": [
+             "Nothing is absent; the list is comprehensive",
+             "Any reason concerning affection, the joy of raising a child, or anything for the "
+             "child's own sake",
+             "Any mention of inheritance",
+             "Any mention of family tradition"],
+         "correct": 1,
+         "expl": "Stated entirely from the parents' side, as reciprocal exchange rather than sentiment."},
+        {"q": "What does 'dakkhiṇaṁ anuppadassati', the fifth reason, refer to?",
+         "opts": [
+             "A wedding gift",
+             "Dedicating merit to deceased relatives, particularly those believed to depend on "
+             "such offerings as hungry ghosts (peta)",
+             "A tax payment",
+             "A dowry"],
+         "correct": 1,
+         "expl": "A specific religious practice tied to belief about the afterlife of the dead."},
+        {"q": "How does the guide frame the social and economic context behind this list?",
+         "opts": [
+             "As simply coldly self-interested, with nothing more to say about it",
+             "As a coherent, if unfamiliar, logic of mutual obligation across generations, in a "
+             "society without pensions or formal social security",
+             "As entirely irrational and unexplainable",
+             "As identical to modern family values"],
+         "correct": 1,
+         "expl": "Context that makes an unfamiliar-looking list legible rather than simply judged."},
+        {"q": "How do the closing verses reframe the material, compared to the opening list?",
+         "opts": [
+             "They repeat the parents' perspective exactly",
+             "They shift to the child's perspective, describing a praiseworthy child as grateful "
+             "and thankful, repaying what was first given",
+             "They abandon the topic of family entirely",
+             "They criticize parents for expecting anything from children"],
+         "correct": 1,
+         "expl": "Explicit reciprocity: owed because it was first given."},
+        {"q": "Does this reading guide modernize or soften this discourse's stated priorities?",
+         "opts": [
+             "Yes, translating them into more familiar sentiment",
+             "No — it presents them as the discourse states them, with historical context rather "
+             "than substitution",
+             "It refuses to discuss the discourse at all",
+             "It claims the discourse is not authentic"],
+         "correct": 1,
+         "expl": "Consistent with this reading guide's approach to historically specific material elsewhere in this chapter."},
+        {"q": "What does 'kulavaṁsa' concern?",
+         "opts": [
+             "A specific meditation technique",
+             "Family lineage and tradition, continued through a child",
+             "A type of monastic robe",
+             "A form of currency"],
+         "correct": 1,
+         "expl": "The third of the five parental motives."},
+        {"q": "What other discourse in this chapter does the guide compare this one to, for "
+              "similarly stating historically specific material honestly?",
+         "opts": [
+             "AN 5.31", "AN 5.33, on instructions given to daughters before marriage",
+             "AN 5.36", "AN 5.34"],
+         "correct": 1,
+         "expl": "Both discourses require the same honest, unflinching presentation this reading guide applies throughout."},
+        {"q": "Is the obligation described in the closing verses framed as unconditional?",
+         "opts": [
+             "Yes, entirely unconditional",
+             "No — explicitly reciprocal, owed because it was first given",
+             "The verses take no position on this",
+             "Yes, but only for the eldest child"],
+         "correct": 1,
+         "expl": "'As their parents did for them in the past' — a stated basis for the obligation."},
+        {"q": "Where is AN 5.39 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("Five reasons", [
+            "reciprocal support",
+            "duties done",
+            "tradition continued",
+            "inheritance managed",
+            "offerings, after death",
+        ]),
+        ("A specific belief", [
+            "<span class=\"pali\">peta</span>hungry ghosts",
+            "&mdash; dependent on offerings",
+            "from the living",
+        ]),
+        ("The child's side", [
+            "&ldquo;grateful, thankful&rdquo;",
+            "&mdash; repaying",
+            "what was first given",
+        ]),
+        ("Cross-references", [
+            "AN 5.33 &middot; another historical text",
+            "AN 5.40 &middot; next: the chapter closes",
+            "AN 5.38 &middot; the faithful, as refuge",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.39/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.38.html">AN 5.38 &middot; Faith</a> &mdash; the previous discourse, on the '
+        "faithful as a refuge for others.",
+        '<a href="an-5.40.html">AN 5.40 &middot; Great Sal Trees</a> &mdash; next, closing this '
+        "chapter with a family's own growth.",
+        '<a href="an-5.33.html">AN 5.33 &middot; With Uggaha</a> &mdash; the earlier discourse '
+        "this page's historical framing most closely matches.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.40 — Mahāsālaputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    40, "Mahāsāla", "Great Sal Trees",
+    vagga=VAGGA_4,
+    meta_title="AN 5.40 — Great Sal Trees | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mahāsālaputtasutta, "
+        "closing this chapter — great sal trees grow in five ways supported by the Himalayas, "
+        "and a family grows in five ways supported by a faithful head: faith, ethics, learning, "
+        "generosity, and wisdom. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "A tree simile stated in full, then applied directly to a family's growth, "
+                 "closing with verses and this chapter's colophon"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The five-item lay virtue set — faith, ethics, learning, "
+                              "generosity, wisdom — is a standard formula across the Chinese "
+                              "Āgamas' treatment of household life; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; closes the chapter by "
+                       "returning to its tree imagery one final time, now on family growth "
+                       "specifically"),
+    ],
+    why=(
+        "This chapter's final discourse returns to a tree one more time, but shifts what grows: "
+        "not ethics supporting deeper attainment, as at AN 5.24, and not a refuge sheltering "
+        "visitors, as at AN 5.38, but an entire household growing around a single faithful head. "
+        "Great sal trees, supported by the Himalayas, grow in five named parts; a family, "
+        "supported by a faithful family head, grows in five named qualities: faith, ethics, "
+        "learning, generosity, and wisdom."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as great sal trees grow, supported by the Himalayas, in their branches, bark, "
+            "shoots, softwood, and hardwood, a family grows, supported by a faithful family head, "
+            "in faith, ethics, learning, generosity, and wisdom."]),
+        ("A third tree, a third use", [
+            "AN 5.24's tree measured the absence or presence of branches and foliage against four "
+            "inner parts failing or succeeding to grow. AN 5.38's banyan sheltered visitors "
+            "beneath it. This discourse's sal trees do neither; they grow themselves, in five "
+            "named parts, and the simile's point is growth as a process rather than either "
+            "structural support or shelter. Three trees, three distinct jobs, across one chapter."]),
+        ("Five qualities, a set met before under a different frame", [
+            "<em>Saddhā, sīla, suta, cāga, paññā</em> &mdash; faith, ethics, learning, generosity, "
+            "wisdom &mdash; is a standard grouping of lay virtues, distinct from every five-item "
+            "power list this nipāta has used for monastics. Learning and generosity, in "
+            "particular, have not appeared together as named qualities to be developed anywhere "
+            "earlier in the Fives; this is their first joint appearance."]),
+        ("Who grows, and who is credited", [
+            "The discourse is explicit about direction: it is the <em>antojana</em>, the "
+            "household&rsquo;s members &mdash; children, partners, kin, colleagues, dependents "
+            "&mdash; who grow, supported by the family head, not the reverse. The verses extend "
+            "this further: those who see the family head's ethical conduct, generosity, and good "
+            "deeds <em>do likewise</em>, a direct claim that a household's character propagates "
+            "outward from whoever leads it by example rather than instruction."]),
+        ("Closing the chapter", [
+            "This is the fourth chapter to close with the same colophon structure explained in "
+            "full at AN 5.10: a naming verse, <em>Sumanavaggo catuttho</em>, and the chapter's "
+            "own untranslated uddāna, compressing all ten titles &mdash; Sumanā, Cundī, Uggaha, "
+            "Sīha, the benefits of giving, timely gifts and food, faith, and so on &mdash; into a "
+            "chantable mnemonic. The next chapter, Muṇḍarājavagga, turns to a specific king."]),
+    ],
+    terms=[
+        ("mahāsāla",
+         "&ldquo;great sal tree&rdquo; &mdash; this discourse's title and central image, a large "
+         "hardwood tree native to the Himalayan foothills."),
+        ("saddhā sīla suta cāga paññā",
+         "&ldquo;faith, ethics, learning, generosity, wisdom&rdquo; &mdash; the five lay "
+         "qualities this discourse says a household grows in, distinct from every monastic power "
+         "list in this nipāta."),
+        ("antojana",
+         "&ldquo;household members&rdquo; &mdash; children, partners, kin, colleagues, and "
+         "dependents, named as who grows around a faithful family head."),
+        ("saddhaṁ kulaputtaṁ nissāya",
+         "&ldquo;supported by a family head with faith&rdquo; &mdash; the phrase marking the "
+         "faithful head as the household's Himalayas, the base everything else grows against."),
+        ("Sumanavaggo catuttho",
+         "&ldquo;the fourth chapter, With Sumanā&rdquo; &mdash; this vagga's closing colophon, "
+         "matching the form already explained in full at AN 5.10."),
+    ],
+    text_intro=(
+        "The discourse in full: the sal-tree simile and its application to a family's growth, "
+        "closing with verses. The chapter's closing colophon and Pāli mnemonic verse are part of "
+        "the source but are not translated text, and are described rather than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Great sal trees, growing in five ways"),
+        ("p", "&sect;1", "an5.40:1.1-1.8"),
+        ("h3", "A family, growing in five ways"),
+        ("p", "&sect;2", "an5.40:1.9-1.16"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;3", "an5.40:2.1-2.4"),
+        ("p", "&sect;4", "an5.40:3.1-3.6"),
+        ("p", "&sect;5", "an5.40:4.1-4.4"),
+        ("p", "&sect;6", "an5.40:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What five qualities does this discourse say a family grows in, supported by a "
+              "faithful head?",
+         "opts": [
+             "Faith, conscience, prudence, energy, wisdom",
+             "Faith, ethics, learning, generosity, and wisdom",
+             "The five powers of a trainee",
+             "Long life, beauty, happiness, strength, and eloquence"],
+         "correct": 1,
+         "expl": "Saddhā, sīla, suta, cāga, paññā — a standard lay-virtue grouping."},
+        {"q": "How does this discourse's tree image differ in function from AN 5.24's and AN "
+              "5.38's, according to the guide?",
+         "opts": [
+             "All three trees serve the identical function",
+             "AN 5.24's measured presence/absence of inner growth; AN 5.38's sheltered visitors; "
+             "this one pictures growth itself as a process",
+             "This discourse is the only one in the chapter to use a tree image",
+             "The three trees contradict each other"],
+         "correct": 1,
+         "expl": "Three distinct jobs for the same recurring image across one chapter."},
+        {"q": "Who does the discourse say grows, supported by the family head?",
+         "opts": [
+             "The family head grows; everyone else stays the same",
+             "The antojana — children, partners, kin, colleagues, and dependents",
+             "Only the eldest child",
+             "No one; the discourse describes only the tree, not a family"],
+         "correct": 1,
+         "expl": "Direction matters: the household grows around the head, not the reverse."},
+        {"q": "What do the closing verses add about how a household's character spreads?",
+         "opts": [
+             "Nothing further is said",
+             "Those who see the family head's ethical conduct, generosity, and good deeds 'do "
+             "likewise' — character propagating by example",
+             "Character is said to be entirely inherited, not learned",
+             "The verses claim character cannot be influenced by example"],
+         "correct": 1,
+         "expl": "Propagation by observed example, not by instruction."},
+        {"q": "What is distinctive about learning (suta) and generosity (cāga) appearing together "
+              "here, according to the guide?",
+         "opts": [
+             "Nothing; this pairing has appeared many times already in the Fives",
+             "This is their first joint appearance as named qualities to be developed in this "
+             "nipāta",
+             "They are contradictory qualities that cannot coexist",
+             "They only apply to monastics, not laypeople"],
+         "correct": 1,
+         "expl": "A first appearance worth noting, distinct from the monastic power lists used elsewhere."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Sumanavaggo catuttho, 'the fourth chapter, With Sumanā', with the chapter's own "
+             "uddāna verse",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.10, repeated verbatim"],
+         "correct": 1,
+         "expl": "Matching the structure already explained in full at AN 5.10 and repeated at AN 5.20 and AN 5.30."},
+        {"q": "What chapter follows the Sumanavagga?",
+         "opts": [
+             "A return to the Sekhabalavagga",
+             "The Muṇḍarājavagga, turning to a specific king",
+             "The end of the entire nipāta",
+             "A repeat of the Balavagga"],
+         "correct": 1,
+         "expl": "The next chapter in sequence, per this discourse's guide."},
+        {"q": "What five parts does a sal tree grow in, per the simile's first half?",
+         "opts": [
+             "Roots, trunk, flowers, seeds, and sap",
+             "Branches and foliage, bark, shoots, softwood, and hardwood",
+             "Only the trunk and roots",
+             "Leaves, fruit, thorns, flowers, and bark"],
+         "correct": 1,
+         "expl": "The tree's own named growth, before the simile is applied to a family."},
+        {"q": "Is this five-item lay-virtue set (faith, ethics, learning, generosity, wisdom) the "
+              "same as any monastic power list used earlier in this nipāta?",
+         "opts": [
+             "Yes, identical to the sekhabala",
+             "No — distinct from every monastic power list this nipāta has used",
+             "Yes, identical to the standard bala",
+             "Yes, identical to AN 5.17–20's five items"],
+         "correct": 1,
+         "expl": "A separate five-item grouping specific to lay household life."},
+        {"q": "Where is AN 5.40 set?",
+         "opts": [
+             "A new location, stated explicitly",
+             "None restated — continuing from AN 5.1's setting",
+             "Vesālī",
+             "Bhaddiya"],
+         "correct": 1,
+         "expl": "Consistent with the default setting used throughout this nipāta when nothing new is stated."},
+    ],
+    marginalia=[
+        ("The tree, growing", [
+            "branches &amp; foliage",
+            "bark &middot; shoots",
+            "softwood &middot; hardwood",
+        ]),
+        ("The family, growing", [
+            "faith &middot; ethics",
+            "learning &middot; generosity",
+            "wisdom",
+        ]),
+        ("Three trees, three jobs", [
+            "AN 5.24: inner growth",
+            "AN 5.38: shelter",
+            "AN 5.40: growth itself",
+        ]),
+        ("Cross-references", [
+            "AN 5.24 &amp; 5.38 &middot; earlier trees",
+            "AN 5.10 &middot; the colophon form",
+            "AN 5.41 &middot; next: Muṇḍarājavagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.40/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.39.html">AN 5.39 &middot; A Child</a> &mdash; the previous discourse, on '
+        "family from the parents' side.",
+        '<a href="an-5.24.html">AN 5.24 &middot; Unethical</a> &mdash; and <a href="an-5.38.html">'
+        "AN 5.38 &middot; Faith</a> &mdash; this chapter's two earlier tree similes.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this same '
+        "chapter-closing colophon structure was first explained in full.",
+    ],
+)
