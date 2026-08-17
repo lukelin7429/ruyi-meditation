@@ -61602,3 +61602,617 @@ page(
         '<a href="an-4.263.html">AN 4.263 &middot; Deeds</a> &mdash; where this series first flagged the numbering question this discourse\'s colophon resolves.',
     ],
 )
+
+VAGGA_28 = "<em>Rāgapeyyāla</em> &mdash; the twenty-eighth chapter of the Fours"
+SETTING_28 = ("None stated; the Rāgapeyyāla gives no location for this discourse, and it is "
+              "addressed to the mendicants directly")
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.274 — Satipaṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    274, "Satipaṭṭhāna", "Mindfulness Meditation",
+    vagga=VAGGA_28,
+    meta_title="AN 4.274 — Mindfulness Meditation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Satipaṭṭhānasutta, "
+        "opening a chapter whose own Pāli name announces it as an abbreviation-series &mdash; the "
+        "four establishments of mindfulness, given here as what develops direct knowledge of "
+        "greed specifically. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_28),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, each following the identical formula with its own object of "
+                 "observation"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The four establishments of mindfulness are among the most "
+                              "foundational and widely attested teachings in the early "
+                              "collections, given fullest treatment at MN 10 and DN 22; this "
+                              "reading guide does not assert a specific matching sutra number for "
+                              "this particular framing"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a famous formula, applied "
+                       "here to an unusually specific target"),
+    ],
+    why=(
+        "A chapter opens whose own name, <em>peyyāla</em>, &lsquo;abbreviation-series&rsquo;, "
+        "announces from the start that what follows is a template rather than a topic &mdash; the "
+        "first time this series has met a chapter named after its own compositional method rather "
+        "than its content. This discourse gives the template's first content: the four "
+        "establishments of mindfulness, one of the most famous formulas in the entire canon, "
+        "offered here for a narrower purpose than its usual full treatment &mdash; direct "
+        "knowledge of greed specifically."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For direct knowledge of greed, a mendicant meditates observing the body, feelings, "
+            "mind, and principles &mdash; keen, aware, mindful, rid of covetousness and "
+            "displeasure for the world."]),
+        ("A chapter named after its own method", [
+            "<em>Rāgapeyyāla</em>, &lsquo;the abbreviation-series beginning with greed&rsquo;, is "
+            "the first chapter title in this series that names a compositional technique rather "
+            "than a subject. Every earlier chapter took its name from its first discourse&rsquo;s "
+            "content or protagonist &mdash; assembly, bad conduct, deeds, offenses, direct "
+            "knowledge, courses of action. This chapter announces in advance that it is built from "
+            "a template, cross-multiplied at a scale this reading guide will need to address "
+            "directly once it reaches that material."]),
+        ("The four establishments, in their compressed form", [
+            "<em>Kāye kāyānupassī&hellip;vedanāsu vedanānupassī&hellip;citte cittānupassī&hellip;"
+            "dhammesu dhammānupassī viharati, ātāpī sampajāno satimā, vineyya loke "
+            "abhijjhādomanassaṁ</em> &mdash; observing an aspect of the body, of feelings, of "
+            "mind, and of principles, in each case keen, aware, and mindful, rid of covetousness "
+            "and displeasure for the world. This is the four <em>satipaṭṭhāna</em> in the compact "
+            "form the Fours give them; their fullest exposition, with each of the four broken into "
+            "detailed contemplative exercises, belongs to MN 10 and DN 22, well beyond this "
+            "discourse&rsquo;s scope."]),
+        ("A familiar formula, an unusual target", [
+            "What is specific to this discourse is not the formula itself but what it is said to "
+            "produce: not enlightenment in general, not mindfulness as a standing quality, but "
+            "<em>rāgassa abhiññāya</em>, direct knowledge of greed. This narrows the "
+            "satipaṭṭhāna practice to a stated purpose &mdash; understanding one specific "
+            "defiling quality clearly enough to know it by direct insight rather than by "
+            "inference or report. The same four establishments that elsewhere in the canon serve "
+            "as a comprehensive path to liberation are here aimed with precision at a single "
+            "target."]),
+        ("What this discourse sets in motion", [
+            "This is the first of three discourses in a row applying the identical &lsquo;for "
+            "direct knowledge of greed, four things should be developed&rsquo; frame to three "
+            "different fourfold lists &mdash; mindfulness here, right efforts next, and the bases "
+            "of psychic power after that. Together with AN 4.237&rsquo;s eightfold path, AN "
+            "4.238&rsquo;s seven awakening factors, and AN 4.261&rsquo;s four powers, this "
+            "chapter is filling in nearly the last pieces of the traditional thirty-seven "
+            "qualities that contribute to awakening, the <em>bodhipakkhiyā dhammā</em>, this "
+            "series has now touched in some form."]),
+    ],
+    terms=[
+        ("satipaṭṭhāna",
+         "&ldquo;establishment of mindfulness&rdquo; &mdash; one of four objects of observation, "
+         "given here for the first time in this series in its own right."),
+        ("rāgassa abhiññāya",
+         "&ldquo;for direct knowledge of greed&rdquo; &mdash; the specific, narrow purpose this "
+         "discourse assigns to the four establishments, rather than liberation in general."),
+        ("ātāpī sampajāno satimā",
+         "&ldquo;keen, aware, and mindful&rdquo; &mdash; the three qualities of attention "
+         "required in each of the four observations."),
+        ("vineyya loke abhijjhādomanassaṁ",
+         "&ldquo;rid of covetousness and displeasure for the world&rdquo; &mdash; the "
+         "orientation each observation must be free of to count as satipaṭṭhāna proper."),
+        ("peyyāla",
+         "&ldquo;repetition-series, abbreviation&rdquo; &mdash; the term this chapter takes its "
+         "own name from, the first chapter title in this series to do so."),
+    ],
+    text_intro=(
+        "The discourse in full: the four establishments of mindfulness, for direct knowledge of "
+        "greed. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four establishments"),
+        ("p", "&sect;1", "an4.274:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What four things does this discourse say should be developed?",
+         "opts": [
+             "The five precepts",
+             "The four establishments of mindfulness: body, feelings, mind, and principles",
+             "The eightfold path",
+             "The ten courses of action"],
+         "correct": 1,
+         "expl": "Given here in their compressed form, for a stated narrow purpose."},
+        {"q": "What purpose does this discourse assign to the four establishments of mindfulness?",
+         "opts": [
+             "General liberation, with no specific target",
+             "Rāgassa abhiññāya, direct knowledge of greed specifically",
+             "Physical health",
+             "Monastic discipline"],
+         "correct": 1,
+         "expl": "Narrowing a comprehensive practice to a single, stated target."},
+        {"q": "What is distinctive about this chapter's own name, compared to every earlier chapter in this series?",
+         "opts": [
+             "Nothing distinctive; it follows the same naming pattern as all others",
+             "It is the first chapter named after its own compositional technique, <em>peyyāla</em>, rather than its content",
+             "It is named after a location",
+             "It is named after a specific disciple"],
+         "correct": 1,
+         "expl": "Announcing in advance that the chapter is built from a template."},
+        {"q": "Where does the four establishments of mindfulness receive its fullest, most detailed treatment in the wider canon?",
+         "opts": [
+             "Nowhere else in the canon",
+             "MN 10 and DN 22",
+             "Only in this discourse",
+             "Only in the Vinaya"],
+         "correct": 1,
+         "expl": "Well beyond this discourse's compact scope."},
+        {"q": "What three qualities of attention does each of the four observations require?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Keen, aware, and mindful",
+             "Fast, strong, and beautiful",
+             "Blameless, praiseworthy, and content"],
+         "correct": 1,
+         "expl": "Present identically across all four objects of observation."},
+        {"q": "What two discourses follow this one, applying the same \"for direct knowledge of greed\" frame to different lists?",
+         "opts": [
+             "A return to earlier chapters' content",
+             "AN 4.275 on right efforts, and AN 4.276 on the bases of psychic power",
+             "AN 4.264 and AN 4.265",
+             "No further discourses in this series"],
+         "correct": 1,
+         "expl": "The same frame, three different fourfold lists."},
+        {"q": "What traditional larger set does this discourse's content belong to, per the guide?",
+         "opts": [
+             "The five precepts",
+             "The <em>bodhipakkhiyā dhammā</em>, the thirty-seven qualities contributing to awakening",
+             "The ten courses of action",
+             "No larger set; this is an isolated teaching"],
+         "correct": 1,
+         "expl": "Joined by the eightfold path, awakening factors, and powers already met earlier in this series."},
+        {"q": "What must each observation be free of to count as satipaṭṭhāna proper?",
+         "opts": [
+             "All physical sensation",
+             "Covetousness and displeasure for the world",
+             "Speech entirely",
+             "Company of other people"],
+         "correct": 1,
+         "expl": "The orientation named at the end of the formula."},
+        {"q": "What are the four objects of observation named in this discourse?",
+         "opts": [
+             "View, intention, speech, action",
+             "Body, feelings, mind, and principles",
+             "Energy, mindfulness, immersion, wisdom",
+             "Enthusiasm, energy, mind, and inquiry"],
+         "correct": 1,
+         "expl": "The four <em>satipaṭṭhāna</em> in their traditional order."},
+        {"q": "What does the guide say this chapter is doing at a scale it has not yet directly addressed?",
+         "opts": [
+             "Nothing unusual is signaled",
+             "Cross-multiplying a template at a scale this reading guide will need to address directly once it reaches that material",
+             "Repeating earlier chapters verbatim",
+             "Abandoning the tetrad form entirely"],
+         "correct": 1,
+         "expl": "Flagged honestly as material requiring a different approach ahead."},
+    ],
+    marginalia=[
+        ("A chapter named for its method", [
+            "peyyāla &mdash; abbreviation-series,",
+            "not a topic or a person",
+        ]),
+        ("Four establishments, compressed", [
+            "body &middot; feelings",
+            "mind &middot; principles",
+        ]),
+        ("A narrow target", [
+            "not liberation generally,",
+            "direct knowledge of greed",
+        ]),
+        ("Nearly the full bodhipakkhiyā", [
+            "path, factors, powers &mdash;",
+            "now mindfulness, joining them",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.274/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.238.html">AN 4.238 &middot; Awakening Factors</a> &mdash; another member of the bodhipakkhiyā family already met in this series.',
+        '<a href="an-4.254.html">AN 4.254 &middot; Insight</a> &mdash; where <em>abhiññā</em>, direct knowledge, first structured a chapter opening.',
+        '<a href="an-4.275.html">AN 4.275 &middot; Right Efforts</a> &mdash; next, the same frame applied to a second fourfold list.',
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 4.275 — Sammappadhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    275, "Sammappadhāna", "Right Efforts",
+    vagga=VAGGA_28,
+    meta_title="AN 4.275 — Right Efforts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sammappadhānasutta, "
+        "applying AN 4.274's frame to a second bodhipakkhiya list &mdash; the four right efforts, "
+        "aimed at what has not yet arisen and what already has, for bad qualities and good ones "
+        "alike. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_28),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, each following an identical effort-formula crossed with a "
+                 "different combination of arisen/unarisen and bad/good"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The four right efforts are foundational across the Nikāyas and "
+                              "Āgamas, and form the sixth factor of the noble eightfold path; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number for this particular framing"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clean four-cell grid, worth "
+                       "mapping out explicitly"),
+    ],
+    why=(
+        "Where AN 4.274 gave four different objects of observation, this discourse gives four "
+        "different combinations of a single effort applied to two variables: whether a quality has "
+        "arisen yet, and whether it is skillful or not. The result is a small, complete grid "
+        "&mdash; prevent, abandon, develop, and maintain &mdash; each aimed at direct knowledge of "
+        "greed, as at AN 4.274."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For direct knowledge of greed, a mendicant strives to prevent bad qualities from "
+            "arising, to abandon bad qualities that have arisen, to develop good qualities that "
+            "have not yet arisen, and to maintain and grow good qualities already present."]),
+        ("A grid, not a simple list", [
+            "The four right efforts are not four unrelated activities but one activity, effort, "
+            "<em>vāyamati&hellip;vīriyaṁ ārabhati</em>, crossed against two independent "
+            "distinctions: arisen or not yet arisen, and unskillful or skillful. Unarisen-bad "
+            "(prevent it), arisen-bad (abandon it), unarisen-good (develop it), arisen-good "
+            "(maintain and grow it) &mdash; every combination of the two variables filled exactly "
+            "once, with nothing left over and nothing repeated."]),
+        ("The same energetic language, four times", [
+            "Each of the four cells uses the identical string of verbs: <em>chandaṁ janeti "
+            "vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati</em>, generates enthusiasm, "
+            "tries, makes an effort, exerts the mind, and strives. The discourse does not vary the "
+            "intensity of effort by target; preventing a bad quality from ever arising gets the "
+            "same energetic description as growing a good quality already well established. "
+            "Vigilance and cultivation are treated as requiring identical exertion, not a lighter "
+            "touch for maintenance and a heavier one for prevention."]),
+        ("A second bodhipakkhiya list, the same narrow purpose", [
+            "As with AN 4.274, what distinguishes this discourse from the four right efforts&rsquo; "
+            "usual, general presentation is its stated aim: not the cultivation of skillful "
+            "qualities as an end in itself, but <em>rāgassa abhiññāya</em>, direct knowledge of "
+            "greed. The same four efforts that elsewhere describe the general shape of diligent "
+            "practice are here pointed at a single, named target."]),
+    ],
+    terms=[
+        ("sammappadhāna",
+         "&ldquo;right effort&rdquo; &mdash; the sixth factor of the noble eightfold path, given "
+         "here as its own fourfold set for the first time in this series."),
+        ("anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya",
+         "&ldquo;for the non-arising of bad, unskillful qualities not yet arisen&rdquo; &mdash; "
+         "the first cell of the grid."),
+        ("uppannānaṁ pāpakānaṁ pahānāya",
+         "&ldquo;for the giving up of bad qualities that have arisen&rdquo; &mdash; the second "
+         "cell."),
+        ("anuppannānaṁ kusalānaṁ uppādāya",
+         "&ldquo;for the arising of good qualities not yet arisen&rdquo; &mdash; the third cell."),
+        ("uppannānaṁ kusalānaṁ ṭhitiyā&hellip;bhāvanāya pāripūriyā",
+         "&ldquo;for the persistence&hellip;and fulfillment by development of good qualities that "
+         "have arisen&rdquo; &mdash; the fourth cell."),
+    ],
+    text_intro=(
+        "The discourse in full: the four right efforts, for direct knowledge of greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four right efforts"),
+        ("p", "&sect;1", "an4.275:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What two variables does this discourse cross to generate its four right efforts?",
+         "opts": [
+             "Body and mind",
+             "Whether a quality has arisen yet, and whether it is skillful or unskillful",
+             "Speech and thought",
+             "Hell and heaven"],
+         "correct": 1,
+         "expl": "Every combination filled exactly once, with nothing left over."},
+        {"q": "What is the first of the four right efforts?",
+         "opts": [
+             "Abandoning bad qualities that have arisen",
+             "Preventing bad qualities not yet arisen from arising",
+             "Developing good qualities not yet arisen",
+             "Maintaining good qualities already present"],
+         "correct": 1,
+         "expl": "The unarisen-bad cell of the grid."},
+        {"q": "Does the discourse vary the intensity of effort described for each of the four cells?",
+         "opts": [
+             "Yes, prevention gets more emphasis than maintenance",
+             "No, the identical string of energetic verbs is used for all four",
+             "Yes, maintenance requires less effort by explicit statement",
+             "The discourse gives no description of effort at all"],
+         "correct": 1,
+         "expl": "Vigilance and cultivation treated as requiring identical exertion."},
+        {"q": "What purpose does this discourse assign to the four right efforts?",
+         "opts": [
+             "General diligence with no specific target",
+             "Rāgassa abhiññāya, direct knowledge of greed, as at AN 4.274",
+             "Physical strength",
+             "Monastic seniority"],
+         "correct": 1,
+         "expl": "The same narrow purpose given to AN 4.274's four establishments of mindfulness."},
+        {"q": "What position do the four right efforts occupy in the noble eightfold path?",
+         "opts": [
+             "They are not part of the eightfold path",
+             "The sixth factor, right effort",
+             "The first factor",
+             "The eighth factor"],
+         "correct": 1,
+         "expl": "One of the eight factors already met whole and split across earlier chapters."},
+        {"q": "What verbs describe the effort applied in each of the four cells?",
+         "opts": [
+             "A different verb for each cell",
+             "The identical string: generates enthusiasm, tries, makes an effort, exerts the mind, and strives",
+             "No verbs are given",
+             "Only \"tries\" is used throughout"],
+         "correct": 1,
+         "expl": "The same energetic description whether preventing, abandoning, developing, or maintaining."},
+        {"q": "What is the third cell of the grid?",
+         "opts": [
+             "Preventing bad qualities from arising",
+             "Developing good qualities not yet arisen",
+             "Abandoning bad qualities that have arisen",
+             "Maintaining good qualities already present"],
+         "correct": 1,
+         "expl": "The unarisen-good cell."},
+        {"q": "How does this discourse's four right efforts compare to their usual, general presentation elsewhere in the canon?",
+         "opts": [
+             "Identical in every respect, with no distinguishing feature",
+             "The same four efforts, but pointed here at a single, named target rather than presented as a general shape of practice",
+             "This discourse rejects the usual presentation",
+             "This is the only place the four right efforts appear in the canon"],
+         "correct": 1,
+         "expl": "Narrowed to direct knowledge of greed, as with AN 4.274."},
+        {"q": "What discourse immediately precedes this one, using the same overall frame?",
+         "opts": [
+             "AN 4.264",
+             "AN 4.274, on the four establishments of mindfulness",
+             "AN 4.211",
+             "AN 4.148"],
+         "correct": 1,
+         "expl": "The first of three discourses applying this frame to different fourfold lists."},
+        {"q": "What discourse follows this one, applying the frame to a third list?",
+         "opts": [
+             "AN 4.276, on the four bases of psychic power",
+             "AN 4.264",
+             "A return to earlier chapters",
+             "No further discourse in this series"],
+         "correct": 1,
+         "expl": "Completing the three-discourse set built on this frame."},
+    ],
+    marginalia=[
+        ("A grid, not a list", [
+            "arisen/unarisen &times;",
+            "bad/good &mdash; four cells",
+        ]),
+        ("Same effort, four targets", [
+            "prevent &middot; abandon",
+            "develop &middot; maintain",
+        ]),
+        ("Identical intensity throughout", [
+            "no lighter touch",
+            "for maintenance",
+        ]),
+        ("Same narrow aim as AN 4.274", [
+            "direct knowledge of greed,",
+            "not diligence in general",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.275/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.274.html">AN 4.274 &middot; Mindfulness Meditation</a> &mdash; the discourse this one directly continues.',
+        '<a href="an-4.205.html">AN 4.205 &middot; Eightfold</a> &mdash; where right effort first appeared as one of the path&rsquo;s eight factors.',
+        '<a href="an-4.276.html">AN 4.276 &middot; Bases of Psychic Power</a> &mdash; next, completing this three-discourse set.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 4.276 — Iddhipādasutta
+# --------------------------------------------------------------------------- #
+page(
+    276, "Iddhipāda", "Bases of Psychic Power",
+    vagga=VAGGA_28,
+    meta_title="AN 4.276 — Bases of Psychic Power | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Iddhipādasutta, "
+        "completing a three-discourse set with the four bases of psychic power, and reaching the "
+        "last individually-composed page before this series must decide how to handle the massive "
+        "peyyāla expansion that follows. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_28),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of four, each pairing immersion born of a different quality with active "
+                 "effort"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The four bases of psychic power are foundational across the "
+                              "Nikāyas and Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number for this particular framing"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the last individually treated "
+                       "discourse before a change in format this series must address directly"),
+    ],
+    why=(
+        "Enthusiasm, energy, mind, and inquiry: four different roots for the same kind of "
+        "immersion, each said to develop direct knowledge of greed. This discourse completes the "
+        "three-part set begun at AN 4.274, and with it, nearly the entire traditional thirty-seven "
+        "qualities that contribute to awakening have now surfaced somewhere in this series. It is "
+        "also the last discourse this reading guide can treat exactly as it has treated every "
+        "individual discourse since AN 4.1 &mdash; what follows next is compressed at a scale that "
+        "requires a different approach."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For direct knowledge of greed, a mendicant develops the basis of psychic power that "
+            "has immersion due to enthusiasm and active effort, or due to energy, or mind, or "
+            "inquiry, each paired with active effort."]),
+        ("Four roots, one kind of immersion", [
+            "<em>Chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ&hellip;vīriyasamādhi&hellip;"
+            "cittasamādhi&hellip;vīmaṁsāsamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti</em> "
+            "&mdash; the basis of psychic power founded on enthusiasm, on energy, on mind "
+            "(sometimes rendered will or intention), and on inquiry or investigation, each fused "
+            "with active effort into a single immersion. Unlike AN 4.274&rsquo;s four different "
+            "objects or AN 4.275&rsquo;s four-cell grid, this discourse names four different "
+            "sources feeding the identical kind of concentrated state &mdash; the same destination "
+            "reached by four different roads."]),
+        ("A term whose ordinary meaning survives its technical use", [
+            "<em>Iddhi</em>, usually translated &lsquo;psychic power&rsquo;, names the traditional "
+            "supernormal abilities attributed to advanced meditators elsewhere in the canon; "
+            "<em>iddhipāda</em>, its &lsquo;basis&rsquo;, is the meditative foundation said to "
+            "produce such power, among other things. This discourse does not describe any "
+            "supernormal ability directly &mdash; it stays entirely within the register of "
+            "immersion and effort &mdash; but the term&rsquo;s wider association is worth noting "
+            "for readers who encounter <em>iddhi</em> elsewhere in more dramatic contexts."]),
+        ("A three-discourse set, complete", [
+            "With this discourse, AN 4.274&ndash;276 have together applied the identical "
+            "&lsquo;for direct knowledge of greed, four things should be developed&rsquo; frame to "
+            "three different bodhipakkhiya lists: the four establishments of mindfulness, the "
+            "four right efforts, and now the four bases of psychic power. Combined with the "
+            "eightfold path at AN 4.237, the seven awakening factors at AN 4.238, and the four "
+            "powers at AN 4.261, this series has now touched six of the traditional seven sets "
+            "that make up the thirty-seven qualities contributing to awakening &mdash; missing "
+            "only the five faculties, whose members are identical to the four powers with faith "
+            "restored as a fifth."]),
+        ("What comes next, and why this guide stops here to ask", [
+            "The source text itself signals a change immediately after this discourse: AN "
+            "4.277&ndash;303 and AN 4.304&ndash;783 are preserved in the bilara-data source not "
+            "as separate numbered discourses but as two single, heavily compressed blocks, "
+            "cross-multiplying this same &lsquo;for direct knowledge of&hellip;four things should "
+            "be developed&rsquo; frame across many more verbs beyond direct knowledge alone "
+            "(complete understanding, finishing, giving up, ending, and others) and many more "
+            "targets beyond greed alone (hate, delusion, anger, and a long list of further "
+            "defilements) &mdash; twenty-seven and four hundred eighty notional discourses "
+            "respectively, ending in the traditional colophon marking the Book of the Fours "
+            "complete. This is exactly the material the task set out for this project flagged in "
+            "advance as needing a different presentation than one page per discourse, and exactly "
+            "where it asked that the format be settled with Luke before proceeding, rather than "
+            "assumed. This reading guide stops here for that reason, with AN 4.1 through AN 4.276 "
+            "now complete as individual pages."]),
+    ],
+    terms=[
+        ("iddhipāda",
+         "&ldquo;basis of psychic power&rdquo; &mdash; the meditative foundation said to produce "
+         "such power, given here as its own fourfold set for the first time in this series."),
+        ("chanda / vīriya / citta / vīmaṁsā",
+         "enthusiasm, energy, mind, and inquiry &mdash; the four different roots feeding the "
+         "identical kind of immersion."),
+        ("padhānasaṅkhāra",
+         "&ldquo;active effort, exertion&rdquo; &mdash; fused with each of the four roots into a "
+         "single immersion in this discourse's formula."),
+        ("bodhipakkhiyā dhammā",
+         "&ldquo;qualities contributing to awakening&rdquo; &mdash; the traditional thirty-seven "
+         "qualities in seven sets, six of which this series has now touched."),
+        ("peyyāla",
+         "&ldquo;repetition-series&rdquo; &mdash; the device the chapter is named for, about to "
+         "operate at a scale this discourse's closing section addresses directly."),
+    ],
+    text_intro=(
+        "The discourse in full: the four bases of psychic power, for direct knowledge of greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The four bases of psychic power"),
+        ("p", "&sect;1", "an4.276:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What four things does this discourse say should be developed?",
+         "opts": [
+             "Four different objects of observation",
+             "Four different roots &mdash; enthusiasm, energy, mind, and inquiry &mdash; each feeding the identical kind of immersion",
+             "The five precepts",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "The same destination reached by four different roads, unlike AN 4.274's four objects or AN 4.275's four-cell grid."},
+        {"q": "What does <em>iddhi</em> usually mean elsewhere in the canon?",
+         "opts": [
+             "A term for wisdom",
+             "\"Psychic power\", the traditional supernormal abilities attributed to advanced meditators",
+             "A term for a monastic robe",
+             "A term unrelated to meditation"],
+         "correct": 1,
+         "expl": "Though this discourse itself stays entirely within the register of immersion and effort."},
+        {"q": "What three-discourse set does this discourse complete?",
+         "opts": [
+             "Nothing; it stands alone",
+             "AN 4.274&ndash;276, applying the same \"for direct knowledge of greed\" frame to three different bodhipakkhiya lists",
+             "A set of four discourses",
+             "A set unrelated to AN 4.274 and AN 4.275"],
+         "correct": 1,
+         "expl": "Mindfulness, right effort, and now the bases of psychic power."},
+        {"q": "How many of the traditional seven sets making up the bodhipakkhiyā dhammā has this series now touched, according to the guide?",
+         "opts": [
+             "One",
+             "Six, missing only the five faculties",
+             "All seven",
+             "Two"],
+         "correct": 1,
+         "expl": "Path, awakening factors, powers, mindfulness, right effort, and bases of psychic power."},
+        {"q": "How does the source text (bilara-data) preserve AN 4.277&ndash;303 and AN 4.304&ndash;783?",
+         "opts": [
+             "As individually numbered discourses, identical in format to everything before them",
+             "As two single, heavily compressed blocks cross-multiplying the same frame across many more verbs and targets",
+             "They are missing from the source entirely",
+             "As a narrative continuation of AN 4.276"],
+         "correct": 1,
+         "expl": "Twenty-seven and four hundred eighty notional discourses respectively."},
+        {"q": "What does the guide say this reading guide will do at this point, rather than proceed automatically?",
+         "opts": [
+             "Continue exactly as before, generating one page per notional discourse regardless of scale",
+             "Stop and have the presentation format settled with Luke before proceeding, as originally planned",
+             "Skip the remaining material entirely without comment",
+             "Merge all remaining material into this single discourse's page"],
+         "correct": 1,
+         "expl": "Consistent with what this project's task explicitly anticipated and asked for in advance."},
+        {"q": "What is <em>vīmaṁsā</em>, the fourth root named in this discourse?",
+         "opts": [
+             "Enthusiasm",
+             "Inquiry or investigation",
+             "Energy",
+             "Faith"],
+         "correct": 1,
+         "expl": "The fourth of the four bases of psychic power."},
+        {"q": "What element is fused with each of the four roots into a single immersion?",
+         "opts": [
+             "Faith",
+             "Padhānasaṅkhāra, active effort",
+             "Wisdom",
+             "View"],
+         "correct": 1,
+         "expl": "Present identically across all four formulations."},
+        {"q": "What colophon does the source text use to mark the end of the material beginning at AN 4.304?",
+         "opts": [
+             "No closing marker exists",
+             "A traditional colophon marking the Book of the Fours complete",
+             "A marker indicating the start of a new nipāta",
+             "A note that the text is corrupted"],
+         "correct": 1,
+         "expl": "The end of the entire Catukka Nipāta, reached through this compressed material."},
+        {"q": "What relationship do the five faculties have to the four powers already met at AN 4.261?",
+         "opts": [
+             "No relationship at all",
+             "Identical members, with faith restored as a fifth",
+             "Completely different qualities",
+             "The five faculties have not been mentioned anywhere in the canon"],
+         "correct": 1,
+         "expl": "The one bodhipakkhiya set this series has not yet touched in its own right."},
+    ],
+    marginalia=[
+        ("Four roots, one immersion", [
+            "enthusiasm &middot; energy",
+            "mind &middot; inquiry",
+        ]),
+        ("Six of seven sets touched", [
+            "path, factors, powers,",
+            "mindfulness, effort, this one",
+        ]),
+        ("Missing only", [
+            "the five faculties &mdash;",
+            "same members, plus faith",
+        ]),
+        ("A stopping point, by design", [
+            "AN 4.277 onward:",
+            "format to be decided first",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an4.276/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.' % SC,
+        '<a href="an-4.275.html">AN 4.275 &middot; Right Efforts</a> &mdash; the discourse this one directly continues.',
+        '<a href="an-4.261.html">AN 4.261 &middot; Powers</a> &mdash; the closest bodhipakkhiya set to the still-untouched five faculties.',
+        '<a href="an-4.274.html">AN 4.274 &middot; Mindfulness Meditation</a> &mdash; the discourse that opened this three-part set.',
+    ],
+)
