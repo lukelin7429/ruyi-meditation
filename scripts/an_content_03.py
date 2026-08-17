@@ -32592,3 +32592,933 @@ page(
         "&mdash; the middle discourse, naming the goal through three demonstrations.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 3.146–3.155 — Maṅgalavagga
+# --------------------------------------------------------------------------- #
+VAGGA_15 = "<em>Maṅgalavagga</em> &mdash; the fifteenth chapter of the Threes"
+
+
+def hell_heaven(num, pali, title, adj_bad, adj_good, adj_note, hell_span, heaven_span,
+                sibling, meta_hook, adj_gloss, why_extra, quiz_extra_q, quiz_extra_opts,
+                quiz_extra_correct, quiz_extra_expl):
+    """AN 3.146-149 share one formula: X deeds by body, speech, mind place someone in
+    hell or heaven, as if delivered there. Only the adjective changes."""
+    page(
+        num, pali, title,
+        vagga=VAGGA_15,
+        meta_title="AN 3.%d — %s | Ru-Yi Meditation Center" % (num, title),
+        meta_desc=(
+            "A reading guide, full English text, and self-check quiz for the discourse on %s "
+            "deeds against %s deeds &mdash; by body, speech, and mind &mdash; and the image of "
+            "being placed in hell or heaven as if delivered there. From Ru-Yi Meditation Center."
+            % (adj_bad.lower(), adj_good.lower())),
+        glance=[
+            ("Setting", NO_SETTING),
+            ("Speakers", SPEAKER),
+            ("Form", "A matched pair: %s deeds place someone in hell, %s deeds place someone in "
+                     "heaven, each defined across body, speech, and mind" % (adj_bad.lower(),
+                                                                              adj_good.lower())),
+            ("Length", "&#8776;30 seconds to read"),
+            ("Northern parallel", "The threefold classification of deeds by body, speech, and "
+                                  "mind as the basis for a good or bad rebirth is foundational "
+                                  "across the Chinese Āgamas; this reading guide does not assert a "
+                                  "specific matching sutra number"),
+            ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the formula this whole "
+                           "short set of four discourses shares, %s" % adj_note),
+        ],
+        why=(
+            "Someone with three qualities is placed in hell &ldquo;as if delivered there&rdquo; "
+            "&mdash; and someone with the opposite three is placed in heaven the same way. Here "
+            "the three qualities are %s deeds and %s deeds, by body, speech, and mind. %s"
+            % (adj_bad.lower(), adj_good.lower(), why_extra)),
+        guide=[
+            ("The teaching in one sentence", [
+                "%s deeds of body, speech, and mind place a person in hell; %s deeds of the same "
+                "three place a person in heaven, both &ldquo;as if delivered there.&rdquo;"
+                % (adj_bad, adj_good)]),
+            ("\"As if delivered there\"", [
+                "<em>Yathābhataṁ nikkhitto</em>, the discourse&rsquo;s recurring phrase, pictures a "
+                "person set down in hell or heaven the way a parcel is carried and set down "
+                "exactly where it was addressed &mdash; not sent there by another&rsquo;s "
+                "judgment, but arriving as the direct, mechanical consequence of what was already "
+                "carried. The image removes any sense of an external verdict being handed down; "
+                "the destination is simply where the deeds were always going."]),
+            ("Body, speech, mind: the exhaustive three", [
+                "<em>Kāyakamma, vacīkamma, manokamma</em> &mdash; deeds of body, speech, and mind "
+                "&mdash; are the collection&rsquo;s standard exhaustive division of everything a "
+                "person does. Nothing falls outside the three, which is why this discourse, like "
+                "several others in this vagga, needs no fourth category."]),
+            ("What \"%s\" names here" % adj_bad.lower(), [adj_gloss]),
+            ("One of a short set of four", [
+                "AN 3.146 through 3.149 share this identical formula and differ only in which "
+                "adjective fills the slot: unskillful, blameworthy, %s, and impure, each paired "
+                "with its opposite. Reading all four in a row makes the formula&rsquo;s stability "
+                "visible &mdash; it is built to hold any one of several near-synonymous "
+                "descriptions of the same underlying judgment." % (
+                    "uneven" if num != 148 else "blameworthy")]),
+            ("Answered again, differently, just after", [
+                "AN 3.%d restates this exact adjective pair using a different image entirely "
+                "&mdash; not a cosmic destination but a person keeping themselves &ldquo;broken "
+                "and damaged&rdquo; or &ldquo;intact and unscathed,&rdquo; blamed or praised by "
+                "sensible observers in this very life. The two discourses describe the same moral "
+                "fact from two different vantages: one from the far side of death, one from the "
+                "view of anyone watching right now." % sibling]),
+        ],
+        terms=[
+            ("yathābhataṁ nikkhitto",
+             "&ldquo;placed there as if delivered&rdquo; &mdash; the recurring image of a parcel "
+             "set down exactly where it was addressed, not sent by external verdict."),
+            ("kāyakamma, vacīkamma, manokamma",
+             "&ldquo;deeds of body, speech, mind&rdquo; &mdash; the collection&rsquo;s standard "
+             "exhaustive division of everything a person does."),
+            (adj_bad.lower(),
+             adj_gloss),
+            (adj_good.lower(),
+             "the opposite quality, placing someone in heaven by the same mechanism."),
+            ("niraya, sagga",
+             "&ldquo;hell, heaven&rdquo; &mdash; the two destinations, named without further "
+             "cosmological description in this discourse."),
+        ],
+        text_intro=(
+            "The discourse in full: %s deeds and hell, %s deeds and heaven. Translation: Bhikkhu "
+            "Sujato (CC0, SuttaCentral)." % (adj_bad.lower(), adj_good.lower())),
+        text=[
+            ("h3", "%s deeds, and hell" % adj_bad),
+            ("p", "&sect;1", "an3.%d:%s" % (num, hell_span)),
+            ("h3", "%s deeds, and heaven" % adj_good),
+            ("p", "&sect;2", "an3.%d:%s" % (num, heaven_span)),
+        ],
+        quiz=[
+            {"q": "What does \"yathābhataṁ nikkhitto\" picture?",
+             "opts": [
+                 "A formal judgment handed down by a deity",
+                 "A parcel carried and set down exactly where it was addressed &mdash; the destination as a direct consequence, not a verdict",
+                 "A trial before the mendicant assembly",
+                 "A weighing of deeds on a scale"],
+             "correct": 1,
+             "expl": "The image removes any sense of an external judge; the deeds were always going there."},
+            {"q": "What three categories of deed does the discourse use?",
+             "opts": [
+                 "Deeds of thought, word, and habit",
+                 "Deeds of body, speech, and mind",
+                 "Deeds of family, work, and practice",
+                 "Deeds of past, present, and future"],
+             "correct": 1,
+             "expl": "Kāyakamma, vacīkamma, manokamma &mdash; the collection's standard exhaustive three."},
+            quiz_extra_q,
+            {"q": "How many discourses share this exact formula, differing only in the adjective?",
+             "opts": [
+                 "Two",
+                 "Four: AN 3.146 through 3.149",
+                 "Ten",
+                 "One; this discourse is unique"],
+             "correct": 1,
+             "expl": "Unskillful, blameworthy, the term used here, and impure, each with its opposite."},
+            {"q": "What does AN 3.%d do with the identical adjective pair used here?" % sibling,
+             "opts": [
+                 "Repeats the formula unchanged",
+                 "Restates it using a different image: a person keeping themselves \"broken and damaged\" or \"intact and unscathed,\" judged by sensible observers in this life",
+                 "Contradicts this discourse",
+                 "Applies it only to laypeople"],
+             "correct": 1,
+             "expl": "The same moral fact seen from two vantages: after death, and in the eyes of anyone watching now."},
+            {"q": "Is the destination in this discourse presented as an external verdict?",
+             "opts": [
+                 "Yes, handed down by the Buddha",
+                 "No &mdash; the image is of arriving where the deeds themselves were already headed",
+                 "Yes, decided by a council of gods",
+                 "The discourse does not address this"],
+             "correct": 1,
+             "expl": "A mechanical consequence, not a judgment imposed from outside."},
+            {"q": "What is the discourse's overall length and form?",
+             "opts": [
+                 "A long narrative",
+                 "A brief, bare matched pair, one of the shortest forms in this collection",
+                 "A set of verses",
+                 "A dialogue with a questioner"],
+             "correct": 1,
+             "expl": "About thirty seconds to read, with no narrative frame at all."},
+            {"q": "Why does the discourse need only three categories of deed, and no fourth?",
+             "opts": [
+                 "Because a fourth category was forgotten",
+                 "Because body, speech, and mind are treated as exhaustive of everything a person does",
+                 "Because the fourth category is reserved for monastics only",
+                 "Because ancient texts avoid the number four"],
+             "correct": 1,
+             "expl": "Nothing a person does falls outside the three."},
+            {"q": "What does reading all four discourses in this short set (146–149) together reveal?",
+             "opts": [
+                 "That they contradict each other",
+                 "That the formula is stable enough to hold several near-synonymous descriptions of the same underlying judgment",
+                 "That only one of the four is authentic",
+                 "That the set was assembled by mistake"],
+             "correct": 1,
+             "expl": "The same shape, filled with a different adjective each time."},
+        ],
+        marginalia=[
+            ("The word", [
+                "<span class=\"pali\">yathābhataṁ nikkhitto</span>set down as delivered",
+                "<span class=\"pali\">%s</span>%s" % (adj_bad.lower(), adj_good.lower()),
+                "&mdash; a parcel arriving where it was addressed",
+            ]),
+            ("Three channels", [
+                "kāya &middot; body",
+                "vacī &middot; speech",
+                "mano &middot; mind",
+            ]),
+            ("Two vantages", [
+                "here &middot; after death",
+                "AN 3.%d &middot; in this very life" % sibling,
+                "&mdash; the same judgment, told twice",
+            ]),
+            ("Cross-references", [
+                "AN 3.%d &middot; the same adjective, a different image" % sibling,
+                "AN 3.1 &middot; the fool and the astute, opening the nipāta",
+                "AN 3.154 &middot; homage by the same three channels",
+            ]),
+        ],
+        further=[
+            '<a href="%s/an3.%d/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+            "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % (SC, num),
+            '<a href="an-3.%d.html">AN 3.%d</a> &mdash; the same adjective pair, restated as '
+            "breakage and intactness rather than hell and heaven." % (sibling, sibling),
+        ],
+    )
+
+
+hell_heaven(
+    146, "Akusala", "Unskillful",
+    "Unskillful", "Skillful", "reused with three other adjectives across this short set",
+    "1.1-1.4", "2.1-2.4", 150,
+    None,
+    ("&ldquo;unskillful,&rdquo; <em>akusala</em> &mdash; the collection&rsquo;s broadest term for "
+     "conduct that is harmful and ill-considered, used throughout the Nikāyas as the general "
+     "opposite of <em>kusala</em>, skillful."),
+    ("This opens a short set of four discourses using the identical formula, and "
+     "&ldquo;unskillful&rdquo; is the broadest of the four adjectives that will fill it &mdash; "
+     "the general term the other three will narrow into more specific registers."),
+    {"q": "What does \"akusala\" mean, and how does the guide describe its scope?",
+     "opts": [
+         "\"Unskillful\" &mdash; the broadest of the four adjectives this short set will use, later narrowed by three more specific terms",
+         "\"Forbidden by monastic rule\" &mdash; a technical Vinaya term",
+         "\"Recently committed\" &mdash; referring to timing, not quality",
+         "\"Witnessed by others\" &mdash; a legal category"],
+     "correct": 0,
+     "expl": "The general opposite of kusala, skillful, used throughout the Nikāyas."},
+    None, None, None,
+)
+
+
+hell_heaven(
+    147, "Sāvajja", "Blameworthy",
+    "Blameworthy", "Blameless", "here in its second of four appearances",
+    "1.1-1.4", "2.1-2.4", 151,
+    None,
+    ("&ldquo;blameworthy,&rdquo; <em>sāvajja</em> &mdash; literally &ldquo;with fault,&rdquo; "
+     "naming conduct by the censure it deserves rather than by its inner quality, a social "
+     "register distinct from &ldquo;unskillful&rdquo;'s more internal sense."),
+    ("Where AN 3.146 names conduct by its inner quality, unskillful, this discourse names the "
+     "identical structure by the censure it deserves &mdash; a shift from what an act is to how "
+     "it should be judged."),
+    {"q": "How does \"sāvajja\" (blameworthy) differ in register from \"akusala\" (unskillful)?",
+     "opts": [
+         "They are identical in every respect",
+         "Sāvajja names conduct by the censure it deserves, a more social register than akusala's more internal sense",
+         "Sāvajja refers only to speech, never to body or mind",
+         "Sāvajja is a term used exclusively for laypeople"],
+     "correct": 1,
+     "expl": "A shift from what an act is to how it should be judged."},
+    None, None, None,
+)
+
+
+hell_heaven(
+    148, "Visama", "Unethical",
+    "Unethical", "Ethical", "the shortest of the four, heavily abbreviated in the source",
+    "1.1-1.3", "2.1-2.3", 152,
+    None,
+    ("&ldquo;unethical,&rdquo; <em>visama</em> &mdash; literally &ldquo;uneven, crooked,&rdquo; "
+     "Sujato&rsquo;s translation choice of &ldquo;unethical&rdquo; smoothing over a root image of "
+     "unevenness against <em>sama</em>, level or even, its literal opposite."),
+    ("The Pāli root here is more visual than its English rendering suggests: <em>visama</em> is "
+     "unevenness, a surface that will not lie flat, set against <em>sama</em>, what is level."),
+    {"q": "What does \"visama\" literally mean, before Sujato's translation as \"unethical\"?",
+     "opts": [
+         "\"Forbidden\"",
+         "\"Uneven, crooked\" &mdash; set against \"sama,\" level or even",
+         "\"Recently done\"",
+         "\"Publicly known\""],
+     "correct": 1,
+     "expl": "A more visual root image than the English translation \"unethical\" conveys."},
+    None, None, None,
+)
+
+
+hell_heaven(
+    149, "Asuci", "Impure",
+    "Impure", "Pure", "the last and briefest of the four",
+    "1.1-1.3", "2.1-2.3", 153,
+    None,
+    ("&ldquo;impure,&rdquo; <em>asuci</em> &mdash; literally unclean, the same root behind "
+     "<em>suci</em>, pure or clean, closing this four-discourse set on a register borrowed from "
+     "physical cleanliness rather than law, censure, or skill."),
+    ("This closes the set of four with its most physical metaphor: not a judgment of skill or "
+     "censure but of cleanliness, the same vocabulary a listener would use for water or a "
+     "vessel."),
+    {"q": "What register does \"asuci\" (impure) draw on, closing this four-discourse set?",
+     "opts": [
+         "A legal register, like a court verdict",
+         "A physical-cleanliness register, the same vocabulary used for water or a vessel",
+         "A musical register",
+         "A register drawn from warfare"],
+     "correct": 1,
+     "expl": "The most physical of the four metaphors used across AN 3.146-149."},
+    None, None, None,
+)
+
+
+def broken_intact(num, pali, title, adj_bad, adj_good, bad_span, good_span, sibling, adj_gloss,
+                   ordinal_note):
+    """AN 3.150-153 restate the same four adjective pairs from AN 3.146-149, using a
+    different image: a person keeping themselves broken or intact, judged by the wise."""
+    page(
+        num, pali, title,
+        vagga=VAGGA_15,
+        meta_title="AN 3.%d — %s | Ru-Yi Meditation Center" % (num, title),
+        meta_desc=(
+            "A reading guide, full English text, and self-check quiz for the discourse on %s "
+            "deeds and %s deeds, restated as a person keeping themselves broken and damaged, or "
+            "intact and unscathed, judged by sensible people in this very life. From Ru-Yi "
+            "Meditation Center." % (adj_bad.lower(), adj_good.lower())),
+        glance=[
+            ("Setting", NO_SETTING),
+            ("Speakers", SPEAKER),
+            ("Form", "The same adjective pair as AN 3.%d, restated with the image of a person "
+                     "kept broken or intact, and the judgment of sensible observers" % sibling),
+            ("Length", "&#8776;30 seconds to read"),
+            ("Northern parallel", "The image of unethical conduct as self-inflicted damage, "
+                                  "judged by the wise, recurs across the Chinese Āgamas; this "
+                                  "reading guide does not assert a specific matching sutra "
+                                  "number"),
+            ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; %s" % ordinal_note),
+        ],
+        why=(
+            "The same %s and %s deeds named in AN 3.%d, given a different image entirely: not a "
+            "cosmic destination but a person who keeps themselves &ldquo;broken and damaged&rdquo; "
+            "or &ldquo;intact and unscathed,&rdquo; deserving or not deserving the blame of "
+            "sensible people, brimming with wickedness or with merit." % (
+                adj_bad.lower(), adj_good.lower(), sibling)),
+        guide=[
+            ("The teaching in one sentence", [
+                "%s deeds of body, speech, and mind leave a person broken, blamed by the sensible, "
+                "and full of wickedness; %s deeds leave them intact, unblamed, and full of merit."
+                % (adj_bad, adj_good)]),
+            ("A different image for the same judgment", [
+                "AN 3.%d uses a cosmic image, hell and heaven reached after death. This discourse "
+                "uses a structural one: <em>khataṁ upahataṁ attānaṁ pariharati</em>, keeping "
+                "oneself carried around chipped and damaged, like an object that has taken harm "
+                "and now bears it everywhere it goes. The judgment is identical; only the "
+                "metaphor's home register has changed, from cosmology to something closer to "
+                "physical damage." % sibling]),
+            ("Judged in this life, not only the next", [
+                "This discourse adds something the hell-and-heaven formula does not state "
+                "directly: a person acting this way <em>deserves to be blamed and reproved by "
+                "sensible people</em>, <em>viññū</em>, right now, in addition to whatever "
+                "destination eventually follows. The wise observer&rsquo;s verdict is not a "
+                "metaphor for the afterlife destination; it is a separate, present-tense "
+                "consequence running alongside it."]),
+            ("Fool and astute, echoing the opening of the whole nipāta", [
+                "<em>Bālo abyatto asappuriso</em>, a foolish, incompetent, untrue person, and "
+                "<em>paṇḍito viyatto sappuriso</em>, an astute, competent, true person &mdash; the "
+                "same <em>bāla/paṇḍita</em> pair AN 3.1 uses to open the entire Threes. Nearly at "
+                "the collection&rsquo;s far end, this discourse returns to its opening vocabulary, "
+                "applying it now to %s and %s conduct specifically." % (
+                    adj_bad.lower(), adj_good.lower())]),
+            ("What \"%s\" names here" % adj_bad.lower(), [adj_gloss]),
+            ("Merit and demerit, brimming rather than earned in small amounts", [
+                "The discourse&rsquo;s closing phrase, <em>bahuñca apuññaṁ pasavati</em> or "
+                "<em>bahuñca puññaṁ pasavati</em>, says a person &ldquo;brims with&rdquo; much "
+                "wickedness or much merit &mdash; not accumulates gradually, but generates "
+                "abundantly, as a natural overflow of the threefold conduct already described."]),
+        ],
+        terms=[
+            ("khataṁ upahataṁ attānaṁ pariharati",
+             "&ldquo;keeps themselves broken and damaged&rdquo; &mdash; the image of carrying "
+             "oneself around chipped by one&rsquo;s own conduct."),
+            ("bālo abyatto asappuriso",
+             "&ldquo;a foolish, incompetent, untrue person&rdquo; &mdash; the same <em>bāla</em> "
+             "the whole nipāta opens on in AN 3.1, applied here specifically."),
+            ("paṇḍito viyatto sappuriso",
+             "&ldquo;an astute, competent, true person&rdquo; &mdash; the matching opposite, "
+             "echoing AN 3.1&rsquo;s <em>paṇḍita</em>."),
+            ("viññū",
+             "&ldquo;sensible people, the wise&rdquo; &mdash; the observers whose blame or absence "
+             "of blame is named as a present-life consequence, alongside the eventual destination."),
+            (adj_bad.lower(),
+             adj_gloss),
+        ],
+        text_intro=(
+            "The discourse in full: %s conduct kept broken, %s conduct kept intact. Translation: "
+            "Bhikkhu Sujato (CC0, SuttaCentral)." % (adj_bad.lower(), adj_good.lower())),
+        text=[
+            ("h3", "Kept broken and damaged"),
+            ("p", "&sect;1", "an3.%d:%s" % (num, bad_span)),
+            ("h3", "Kept intact and unscathed"),
+            ("p", "&sect;2", "an3.%d:%s" % (num, good_span)),
+        ],
+        quiz=[
+            {"q": "What image does this discourse use, in place of AN 3.%d's hell and heaven?" % sibling,
+             "opts": [
+                 "A person kept \"broken and damaged\" or \"intact and unscathed,\" judged by sensible people",
+                 "A river flowing to the sea",
+                 "A tree bearing fruit",
+                 "A lamp burning out"],
+             "correct": 0,
+             "expl": "A structural image of self-carried damage, in place of a cosmic destination."},
+            {"q": "What does \"khataṁ upahataṁ attānaṁ pariharati\" picture?",
+             "opts": [
+                 "A person praised by a king",
+                 "A person carrying themselves around chipped and damaged by their own conduct",
+                 "A person meditating in a forest",
+                 "A person receiving alms"],
+             "correct": 1,
+             "expl": "Damage borne everywhere the person goes, rather than a distant afterlife destination."},
+            {"q": "What present-life consequence does this discourse name, beyond the eventual destination?",
+             "opts": [
+                 "A formal trial",
+                 "Deserving to be blamed and reproved by sensible people (viññū), right now",
+                 "Exile from the community",
+                 "Loss of property"],
+             "correct": 1,
+             "expl": "A separate, present-tense consequence running alongside the eventual destination."},
+            {"q": "What pair of terms does this discourse share with AN 3.1, opening the entire nipāta?",
+             "opts": [
+                 "Bhaya and upaddava, danger and peril",
+                 "Bāla and paṇḍita, the fool and the astute",
+                 "Ādīnava and nissaraṇa, drawback and escape",
+                 "Sīla and paññā, ethics and wisdom"],
+             "correct": 1,
+             "expl": "Nearly at the collection's far end, this discourse returns to its opening vocabulary."},
+            {"q": "What does \"bahuñca apuññaṁ pasavati\" say about wickedness?",
+             "opts": [
+                 "That it accumulates slowly over a lifetime",
+                 "That the person \"brims with\" much wickedness, generated abundantly as an overflow of conduct",
+                 "That it can be removed by a ritual",
+                 "That it applies only to monastics"],
+             "correct": 1,
+             "expl": "Abundant generation, not gradual accumulation."},
+            {"q": "Which adjective pair does this discourse share with AN 3.%d?" % sibling,
+             "opts": [
+                 "A completely different, unrelated pair",
+                 "The identical %s / %s pair" % (adj_bad.lower(), adj_good.lower()),
+                 "Only the word \"deeds\"",
+                 "No shared vocabulary at all"],
+             "correct": 1,
+             "expl": "The same moral content, restated in a different register."},
+            {"q": "What is the relationship between this discourse's image and AN 3.%d's?" % sibling,
+             "opts": [
+                 "They contradict each other",
+                 "The same judgment told through two different metaphors: cosmology there, self-carried damage here",
+                 "This discourse replaces and corrects the earlier one",
+                 "They describe entirely unrelated qualities"],
+             "correct": 1,
+             "expl": "Only the metaphor's home register changes; the underlying judgment is identical."},
+            {"q": "What three channels of conduct does this discourse use, matching its sibling discourse?",
+             "opts": [
+                 "Body, speech, and mind",
+                 "Past, present, and future",
+                 "Self, family, and community",
+                 "Thought, word, and deed only in speech"],
+             "correct": 0,
+             "expl": "The same exhaustive threefold division used throughout this vagga."},
+            {"q": "What is the discourse's overall length and form?",
+             "opts": [
+                 "A long narrative",
+                 "A brief matched pair, about thirty seconds to read",
+                 "A set of verses",
+                 "A formal debate"],
+             "correct": 1,
+             "expl": "As bare as its sibling discourse, differing only in its central image."},
+            {"q": "What does the term \"viññū\" refer to?",
+             "opts": [
+                 "Monastic elders specifically",
+                 "Sensible people, the wise &mdash; observers whose judgment is named as a present consequence",
+                 "A synonym for the Buddha",
+                 "A technical meditation term"],
+             "correct": 1,
+             "expl": "A social, present-tense verdict, distinct from the eventual cosmic destination."},
+        ],
+        marginalia=[
+            ("The word", [
+                "<span class=\"pali\">khataṁ upahataṁ</span>chipped, damaged",
+                "<span class=\"pali\">viññū</span>the sensible, the wise",
+                "&mdash; a present verdict, not only a future one",
+            ]),
+            ("Full circle", [
+                "bāla &middot; foolish, from AN 3.1",
+                "paṇḍita &middot; astute, from AN 3.1",
+                "&mdash; the nipāta's opening pair, returning here",
+            ]),
+            ("Two registers", [
+                "AN 3.%d &middot; hell and heaven" % sibling,
+                "here &middot; broken and intact",
+                "&mdash; the same judgment, twice",
+            ]),
+            ("Cross-references", [
+                "AN 3.%d &middot; the same pair, the cosmic version" % sibling,
+                "AN 3.1 &middot; the fool and the astute, at the very start",
+                "AN 3.155 &middot; closing the vagga on the same three channels",
+            ]),
+        ],
+        further=[
+            '<a href="%s/an3.%d/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+            "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % (SC, num),
+            '<a href="an-3.%d.html">AN 3.%d</a> &mdash; the same adjective pair, told through '
+            "hell and heaven rather than breakage and intactness." % (sibling, sibling),
+            '<a href="an-3.1.html">AN 3.1 &middot; Perils</a> &mdash; where the bāla/paṇḍita '
+            "pair this discourse echoes first opens the entire collection.",
+        ],
+    )
+
+
+broken_intact(
+    150, "Paṭhamakhata", "Broken (1st)",
+    "Unskillful", "Skillful", "1.1-1.4", "2.1-2.3", 146,
+    ("&ldquo;unskillful,&rdquo; <em>akusala</em> &mdash; the same broadest term AN 3.146 uses, "
+     "here restated with the image of self-carried damage rather than a cosmic destination."),
+    "the first of four restatements, and the discourse marking, in the traditional count, the close of the Threes' third fifty (paṇṇāsaka) of discourses",
+)
+
+
+broken_intact(
+    151, "Dutiyakhata", "Broken (2nd)",
+    "Blameworthy", "Blameless", "1.1-1.2", "2.1-2.2", 147,
+    ("&ldquo;blameworthy,&rdquo; <em>sāvajja</em> &mdash; the same term AN 3.147 uses, here "
+     "heavily abbreviated in the source since the formula has already been established twice "
+     "over."),
+    "the second of four restatements, its source text abbreviated further than its predecessor",
+)
+
+
+broken_intact(
+    152, "Tatiyakhata", "Broken (3rd)",
+    "Unethical", "Ethical", "1.1-1.2", "2.1-2.2", 148,
+    ("&ldquo;unethical,&rdquo; <em>visama</em>, literally uneven or crooked &mdash; the same term "
+     "AN 3.148 uses, restated here with the image of self-carried damage."),
+    "the third of four restatements, as compressed in the source as its immediate predecessor",
+)
+
+
+broken_intact(
+    153, "Catutthakhata", "Broken (4th)",
+    "Impure", "Pure", "1.1-1.2", "2.1-2.3", 149,
+    ("&ldquo;impure,&rdquo; <em>asuci</em> &mdash; the same term AN 3.149 uses, closing this "
+     "four-discourse restatement on the same physical-cleanliness register."),
+    "the fourth and final restatement, closing the set of eight paired discourses that opened this vagga",
+)
+
+
+page(
+    154, "Vandanā", "Homage",
+    vagga=VAGGA_15,
+    meta_title="AN 3.154 — Homage | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vandanāsutta — the "
+        "three kinds of homage, by body, speech, and mind, stated as a bare list. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of three, the same threefold channel used throughout this vagga"),
+        ("Length", "&#8776;15 seconds to read"),
+        ("Northern parallel", "Homage or veneration by body, speech, and mind as a threefold "
+                              "gesture is common across the Chinese Āgamas; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the briefest discourse in the "
+                       "vagga, and one of the briefest anywhere in this collection"),
+    ],
+    why=(
+        "Three kinds of homage: by body, speech, and mind. Nine words in Sujato&rsquo;s "
+        "translation, closing eight discourses about broken and unbroken conduct with a discourse "
+        "about the single positive gesture that uses the identical three channels."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Homage, like the deeds examined all through this vagga, comes by exactly three "
+            "channels: body, speech, and mind."]),
+        ("The same three channels, turned toward respect", [
+            "Every discourse in this vagga so far has used <em>kāya, vācā, mano</em> to sort "
+            "unskillful and skillful, blameworthy and blameless, broken and intact conduct. This "
+            "discourse applies the identical three-part division to something entirely positive: "
+            "the act of showing homage, <em>vandanā</em>, to a teacher, an elder, or the Triple "
+            "Gem."]),
+        ("Bodily, verbal, mental homage, distinguished", [
+            "Bodily homage is the physical gesture &mdash; a bow, prostration, or the folded-hands "
+            "greeting still used throughout Buddhist Asia. Verbal homage is spoken respect, words "
+            "of praise or a formal recitation. Mental homage is the least visible and, by the "
+            "logic this collection applies elsewhere to conduct in general, arguably the one that "
+            "determines whether the other two are genuine or merely performed."]),
+        ("Why the discourse doesn't rank the three", [
+            "Unlike some triads in this collection that build toward a culmination, this list gives "
+            "no indication that mental homage outranks the bodily gesture, or that the physical bow "
+            "is a lesser form of the same thing. All three are named together, without any of the "
+            "&ldquo;and this is the best of the three&rdquo; language other discourses use."]),
+        ("A quiet counterweight to the vagga's harsher material", [
+            "Positioned after eight discourses built on hell, heaven, breakage, and blame, this "
+            "bare, gentle entry works as a deliberate change of register: not everything the body, "
+            "speech, and mind produce needs to be measured against a threat of damage. Sometimes "
+            "the same three channels are simply used to show respect."]),
+        ("Setting up the vagga's closing verse", [
+            "AN 3.155, immediately next and the vagga's final discourse, will use these same three "
+            "channels one more time &mdash; not for homage specifically, but for good conduct "
+            "generally, at each of the day&rsquo;s three watches, closing the chapter on a note of "
+            "blessing rather than warning."]),
+    ],
+    terms=[
+        ("vandanā",
+         "&ldquo;homage, veneration&rdquo; &mdash; the discourse&rsquo;s subject, the positive "
+         "gesture this short list describes."),
+        ("kāya",
+         "&ldquo;body&rdquo; &mdash; the physical gesture of homage: a bow, prostration, or "
+         "folded-hands greeting."),
+        ("vācā",
+         "&ldquo;speech&rdquo; &mdash; verbal homage, spoken respect or formal recitation."),
+        ("mano",
+         "&ldquo;mind&rdquo; &mdash; mental homage, the least visible of the three and, by this "
+         "collection&rsquo;s usual logic, what determines whether the other two are genuine."),
+        ("tisso vandanā",
+         "&ldquo;three kinds of homage&rdquo; &mdash; the discourse&rsquo;s own closing summary, "
+         "naming nothing further."),
+    ],
+    text_intro=(
+        "The discourse in full, a single sentence. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Three kinds of homage"),
+        ("p", "&sect;1", "an3.154:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three kinds of homage does the discourse name?",
+         "opts": [
+             "Public, private, and formal",
+             "By body, speech, and mind",
+             "To teachers, elders, and family",
+             "Daily, weekly, and yearly"],
+         "correct": 1,
+         "expl": "The same threefold channel used throughout this vagga."},
+        {"q": "How does this discourse's use of body/speech/mind compare to the rest of the vagga?",
+         "opts": [
+             "It is the only discourse in the vagga to use this division",
+             "It applies the identical threefold division used to sort unskillful and skillful conduct, here turned toward a positive gesture",
+             "It contradicts the earlier discourses' use of the same terms",
+             "It uses a completely different set of categories"],
+         "correct": 1,
+         "expl": "The same three channels, applied to homage rather than to hell-bound or heaven-bound deeds."},
+        {"q": "What is bodily homage, according to the guide?",
+         "opts": [
+             "Silent meditation",
+             "The physical gesture: a bow, prostration, or the folded-hands greeting",
+             "Building a shrine",
+             "Fasting"],
+         "correct": 1,
+         "expl": "The visible, physical component of the threefold gesture."},
+        {"q": "What does the guide suggest about mental homage relative to the other two?",
+         "opts": [
+             "It is explicitly ranked as least important by the discourse",
+             "It is the least visible, and arguably what determines whether the other two are genuine or merely performed",
+             "It is identical to verbal homage",
+             "The discourse states it is unnecessary"],
+         "correct": 1,
+         "expl": "Not stated directly by the discourse, but consistent with this collection's usual logic about conduct."},
+        {"q": "Does the discourse rank the three kinds of homage?",
+         "opts": [
+             "Yes, explicitly naming mental homage as best",
+             "No &mdash; unlike some triads in this collection, all three are simply listed together without ranking language",
+             "Yes, ranking bodily homage as best",
+             "The ranking is left to a following discourse"],
+         "correct": 1,
+         "expl": "No \"this is the best of the three\" language appears here."},
+        {"q": "How does the guide characterize this discourse's placement in the vagga?",
+         "opts": [
+             "As an unrelated insertion",
+             "As a deliberate change of register after eight discourses built on hell, heaven, breakage, and blame",
+             "As a mistake in ordering",
+             "As the vagga's most severe discourse"],
+         "correct": 1,
+         "expl": "A quiet, gentle entry showing the same three channels used for something other than a threat of damage."},
+        {"q": "What does AN 3.155, immediately following, do with the same three channels?",
+         "opts": [
+             "Abandons them entirely",
+             "Uses them again for good conduct generally, at each of the day's three watches, closing the chapter on a note of blessing",
+             "Uses only two of the three",
+             "Applies them to a different topic unrelated to conduct"],
+         "correct": 1,
+         "expl": "The vagga's final discourse, closing on blessing rather than warning."},
+        {"q": "What is \"vandanā\"?",
+         "opts": [
+             "A monastic robe",
+             "Homage or veneration, the discourse's subject",
+             "A type of meditation",
+             "A formal debate"],
+         "correct": 1,
+         "expl": "The positive gesture this short list describes."},
+        {"q": "How long does this discourse take to read?",
+         "opts": [
+             "Ten minutes",
+             "About fifteen seconds",
+             "Two minutes",
+             "Five minutes"],
+         "correct": 1,
+         "expl": "The briefest discourse in the vagga."},
+        {"q": "What does the discourse's brevity, paired with the guide's reading, suggest about its role in the vagga?",
+         "opts": [
+             "That it is filler with no purpose",
+             "That it functions as a quiet counterweight, showing the same three channels used for respect rather than judgment",
+             "That it was misplaced by a later editor",
+             "That it belongs to a different vagga entirely"],
+         "correct": 1,
+         "expl": "A deliberate shift in tone before the vagga's closing verse."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">vandanā</span>homage",
+            "<span class=\"pali\">kāya, vācā, mano</span>body, speech, mind",
+            "&mdash; the same three channels, turned toward respect",
+        ]),
+        ("Three kinds", [
+            "bodily &middot; a bow, a gesture",
+            "verbal &middot; words of respect",
+            "mental &middot; the least visible",
+        ]),
+        ("A change of register", [
+            "before &middot; hell, heaven, breakage",
+            "here &middot; a positive gesture",
+            "next &middot; a closing blessing",
+        ]),
+        ("Cross-references", [
+            "AN 3.146&ndash;153 &middot; the same channels, sorting conduct",
+            "AN 3.155 &middot; the same channels, closing the vagga",
+            "AN 3.1 &middot; the fool and the astute at the nipāta's start",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.154/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.155.html">AN 3.155 &middot; Morning</a> &mdash; the same three channels, '
+        "closing the vagga on good conduct and blessing.",
+    ],
+)
+
+
+page(
+    155, "Pubbaṇha", "Morning",
+    vagga=VAGGA_15,
+    meta_title="AN 3.155 — Morning | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pubbaṇhasutta, "
+        "closing the Maṅgalavagga and the Threes' third fifty — good conduct at each of the "
+        "day's three watches, and the verse blessing still recited today: may you and all "
+        "your relatives be healthy and happy. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", NO_SETTING),
+        ("Speakers", SPEAKER),
+        ("Form", "A threefold prose statement followed by three verses of blessing"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The idea that a good day begins with good conduct rather than "
+                              "astrological timing is a recurring theme in the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple on its surface, with a "
+                       "pointed redefinition underneath"),
+    ],
+    why=(
+        "A good morning, a good midday, a good evening &mdash; each earned not by the position of "
+        "a star or the timing of an hour, but by good conduct of body, speech, and mind at that "
+        "time of day. The verses that follow redefine every traditional marker of good fortune "
+        "&mdash; a good star, a good dawn, an auspicious hour &mdash; as a description of ethical "
+        "action, and close on a blessing still spoken today: may you and all your relatives be "
+        "healthy and happy."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A good star, a good dawn, and an auspicious hour are not astrological facts but names "
+            "for good conduct of body, speech, and mind, wherever in the day that conduct happens "
+            "to occur."]),
+        ("Three watches, one requirement", [
+            "The prose section states the same formula three times, once for morning, once for "
+            "midday, once for evening: beings who do good things by body, speech, and mind at that "
+            "time of day have a good version of that time of day. The structure insists that no "
+            "single hour is privileged &mdash; a good morning is available at midday and evening "
+            "too, on the identical condition."]),
+        ("A direct redefinition of astrological language", [
+            "The first verse lists exactly the vocabulary an astrologically minded listener would "
+            "recognize: a good star, a good dawn, a good rising, a good moment, a good hour. Rather "
+            "than rejecting this vocabulary outright, the discourse redirects it &mdash; these "
+            "traditional markers of fortune, it says, &ldquo;come with good gifts to spiritual "
+            "practitioners,&rdquo; meaning they are what ethical conduct produces, not what "
+            "determines it. The chapter&rsquo;s own title, <em>maṅgala</em>, good fortune, is "
+            "being redefined in real time across these ten discourses, and this closing verse "
+            "states the redefinition most explicitly."]),
+        ("Padakkhiṇa: auspicious, and also clockwise", [
+            "The second verse's key word, <em>padakkhiṇa</em>, translated &ldquo;auspicious,&rdquo; "
+            "carries a second sense: the clockwise circumambulation performed as a mark of respect, "
+            "still practiced around shrines and stupas throughout Buddhist Asia. The wordplay "
+            "suggests that auspicious deeds move a person in the same direction as an act of "
+            "reverence &mdash; the same word doing double duty for a physical gesture and an "
+            "ethical orientation."]),
+        ("A blessing still recited", [
+            "The closing lines &mdash; <em>arogā sukhitā hotha, saha sabbehi ñātibhī</em>, "
+            "&ldquo;may you and all your relatives be healthy and happy&rdquo; &mdash; are recited "
+            "today across Theravāda communities as a blessing chant, independent of whatever "
+            "occasion brought the passage to mind. A teacher can point out that this line has had a "
+            "continuous devotional life for over two thousand years, entirely apart from its "
+            "original context here as the close of a discourse on ethics rather than astrology."]),
+        ("Closing the vagga, and the third fifty", [
+            "This discourse ends the Maṅgalavagga and, in the traditional count, the Threes&rsquo; "
+            "third block of fifty discourses, marked by the closing note <em>tatiyo paṇṇāsako "
+            "samatto</em>, &ldquo;the third fifty is finished,&rdquo; appended in the source after "
+            "the chapter&rsquo;s own summary verse. From here the collection turns to the "
+            "sixteenth chapter, three merged discourses very different in form from anything "
+            "encountered so far."]),
+    ],
+    terms=[
+        ("supubbaṇho, sumajjhanhiko, susāyanho",
+         "&ldquo;a good morning, a good midday, a good evening&rdquo; &mdash; the three watches "
+         "of the day, each earned by good conduct rather than granted by timing."),
+        ("maṅgala",
+         "&ldquo;good fortune, an auspicious sign&rdquo; &mdash; the chapter&rsquo;s title term, "
+         "redefined across these ten discourses as a description of conduct rather than "
+         "astrology."),
+        ("padakkhiṇa",
+         "&ldquo;auspicious&rdquo; &mdash; also the clockwise circumambulation performed as a mark "
+         "of respect, the same word doing double duty in the second verse."),
+        ("sucarita",
+         "&ldquo;good conduct, doing well&rdquo; &mdash; the prose section&rsquo;s term for what "
+         "must happen by body, speech, and mind at each watch of the day."),
+        ("arogā sukhitā hotha",
+         "&ldquo;may you be healthy and happy&rdquo; &mdash; the closing blessing, still recited "
+         "today independent of its original context."),
+    ],
+    text_intro=(
+        "The discourse in full: the threefold prose statement on morning, midday, and evening, "
+        "and the closing verses, still recited today as a blessing. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three watches of the day"),
+        ("p", "&sect;1", "an3.155:1.1-3.1"),
+        ("h3", "The verses"),
+        ("p", "&sect;2", "an3.155:4.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What does the discourse say determines whether a morning, midday, or evening is \"good\"?",
+         "opts": [
+             "The position of a star",
+             "Good conduct of body, speech, and mind at that time of day",
+             "The season of the year",
+             "A ritual performed at dawn"],
+         "correct": 1,
+         "expl": "The same formula repeated three times, once per watch."},
+        {"q": "How does the discourse treat astrological vocabulary like \"a good star\" and \"a good dawn\"?",
+         "opts": [
+             "It rejects the vocabulary entirely as superstition",
+             "It redirects the vocabulary, saying these traditional markers of fortune are what ethical conduct produces, not what determines it",
+             "It ignores the vocabulary completely",
+             "It endorses astrology as literally true"],
+         "correct": 1,
+         "expl": "The chapter's own title, maṅgala, is being redefined in real time."},
+        {"q": "What double meaning does \"padakkhiṇa\" carry in the second verse?",
+         "opts": [
+             "\"Wealthy\" and \"generous\"",
+             "\"Auspicious\" and the clockwise circumambulation performed as a mark of respect",
+             "\"Silent\" and \"peaceful\"",
+             "\"Ancient\" and \"traditional\""],
+         "correct": 1,
+         "expl": "The same word doing double duty for a physical gesture and an ethical orientation."},
+        {"q": "What does the closing blessing say?",
+         "opts": [
+             "\"May you attain arahantship swiftly\"",
+             "\"May you and all your relatives be healthy and happy\"",
+             "\"May the teaching last a thousand years\"",
+             "\"May the Saṅgha grow in numbers\""],
+         "correct": 1,
+         "expl": "Arogā sukhitā hotha, saha sabbehi ñātibhī."},
+        {"q": "What does the guide say about the continued use of this blessing?",
+         "opts": [
+             "It is no longer used anywhere",
+             "It is recited today across Theravāda communities as a blessing chant, independent of its original context here",
+             "It is used only in ordination ceremonies",
+             "It was only ever a private prayer"],
+         "correct": 1,
+         "expl": "A continuous devotional life of over two thousand years."},
+        {"q": "What does this discourse mark the end of, according to the traditional count?",
+         "opts": [
+             "Only this vagga",
+             "This vagga, and the Threes' third block of fifty discourses (the third paṇṇāsaka)",
+             "The entire Aṅguttara Nikāya",
+             "Nothing beyond this discourse itself"],
+         "correct": 1,
+         "expl": "Marked by the closing note appended after the chapter's own summary verse."},
+        {"q": "What chapter follows the Maṅgalavagga?",
+         "opts": [
+             "The Kusināravagga",
+             "The sixteenth chapter, three merged discourses very different in form from anything encountered so far",
+             "The Yodhājīvavagga",
+             "A return to the Sambodhavagga"],
+         "correct": 1,
+         "expl": "A structural shift in how the remaining material of AN 3 is presented."},
+        {"q": "What is \"sucarita\"?",
+         "opts": [
+             "A monastic robe",
+             "Good conduct, doing well &mdash; the prose section's term for what must happen at each watch",
+             "A type of meditation seat",
+             "A formal greeting"],
+         "correct": 1,
+         "expl": "The requirement repeated identically for morning, midday, and evening."},
+        {"q": "How many verses follow the prose section of this discourse?",
+         "opts": [
+             "One",
+             "Three",
+             "Ten",
+             "None; the discourse is entirely in prose"],
+         "correct": 1,
+         "expl": "Building from the redefinition of astrological terms to the closing blessing."},
+        {"q": "What is the overall structure of this discourse?",
+         "opts": [
+             "A dialogue between two disciples",
+             "A threefold prose statement on the day's three watches, followed by three verses of blessing",
+             "A narrative with named characters",
+             "A single bare sentence"],
+         "correct": 1,
+         "expl": "The longest and most developed discourse in this short vagga, closing it on a note of blessing."},
+    ],
+    marginalia=[
+        ("The word", [
+            "<span class=\"pali\">maṅgala</span>good fortune",
+            "<span class=\"pali\">padakkhiṇa</span>auspicious; clockwise",
+            "&mdash; the chapter's title term, redefined",
+        ]),
+        ("Three watches", [
+            "morning &middot; good conduct",
+            "midday &middot; good conduct",
+            "evening &middot; good conduct",
+        ]),
+        ("The blessing", [
+            "\"may you be healthy and happy,",
+            "and all your relatives\"",
+            "&mdash; still recited today",
+        ]),
+        ("Cross-references", [
+            "AN 3.154 &middot; the same three channels, as homage",
+            "AN 3.1 &middot; the nipāta's opening discourse",
+            "AN 3.156&ndash;162 &middot; the next chapter begins, in merged form",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an3.155/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-3.154.html">AN 3.154 &middot; Homage</a> &mdash; the same three channels, '
+        "body, speech, and mind, just before this closing discourse.",
+        '<a href="an-3.1.html">AN 3.1 &middot; Perils</a> &mdash; the nipāta&rsquo;s opening '
+        "discourse, for a reader who wants to see the whole arc from danger to blessing.",
+    ],
+)
