@@ -52375,3 +52375,429 @@ PAGES.append({
         "chapter's opening discourse, twenty-one discourses before its close here.",
     ],
 })
+# --------------------------------------------------------------------------- #
+# AN 5.272 — Bhattuddesakasutta
+# --------------------------------------------------------------------------- #
+VAGGA_27 = "<em>Sammutipeyyāla</em> &mdash; the twenty-seventh chapter of the Fives"
+
+page(
+    272, "Bhattuddesaka", "A Meal Assigner",
+    vagga=VAGGA_27,
+    meta_title="AN 5.272 — A Meal Assigner | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhattuddesakasutta, "
+        "opening the Sammutipeyyāla — the classic four-bias agati formula, already given in "
+        "full at AN 4.17, now applied to a specific monastic appointment. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "three paired statements: unfit/fit for appointment, then four further "
+                 "consequence-pairs once appointed, all sharing one five-item standard"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "Formal procedures for appointing monastic officers by "
+                              "communal decision appear across Vinaya traditions; this "
+                              "reading guide does not assert a specific matching text"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; opening a new chapter "
+                       "with a formula already met in a different nipāta"),
+    ],
+    why=(
+        "This chapter turns to the practical mechanics of running a monastic community: who "
+        "should and should not be appointed to specific administrative offices. This opening "
+        "discourse sets the standard using a formula this project has already met once "
+        "before, in a different book entirely: the four <em>agati</em>, or biases, first given "
+        "in full at AN 4.17."),
+    guide=[
+        ("A new chapter on monastic appointments", [
+            "The Sammutipeyyāla (&ldquo;Abbreviated Texts on Appointments&rdquo;) turns from "
+            "the previous chapter's ordination standards to a narrower, more procedural "
+            "question: the specific qualities that make someone fit or unfit for particular "
+            "administrative offices within the community, beginning with the office of meal "
+            "assigner."]),
+        ("The agati formula, returning from the Fours", [
+            "Four biases &mdash; favoritism, hostility, delusion, and fear &mdash; already "
+            "given in full at <a href=\"an-4.17.html\">AN 4.17</a> in the Book of the Fours, "
+            "here combined with a fifth, office-specific item: whether the appointee actually "
+            "knows if a meal has been assigned or not."]),
+        ("Three paired statements, one standard", [
+            "The discourse runs the same five-item standard through three separate pairings: "
+            "unfit or fit for appointment; once appointed, whether they should be called upon "
+            "or not, judged a fool or astute, and keep themselves broken or unbroken; and "
+            "finally, whether they are reborn in hell or heaven, described with the image "
+            "&lsquo;placed as if delivered there&rsquo;, already tracked across this project "
+            "since AN 5.173."]),
+        ("Naming a specific office as a test case", [
+            "Where AN 4.17&ndash;19 treated the four biases as a general character flaw, this "
+            "discourse gives them a concrete institutional application: a named administrative "
+            "role, and a fifth qualification specific to that role's actual duty."]),
+        ("What follows", [
+            "AN 5.273&ndash;285, a single merged page in the source, runs this identical "
+            "structure across thirteen further monastic offices &mdash; from lodgings "
+            "allotter to supervisor of novices &mdash; substituting only the office name and "
+            "its duty-specific fifth item."]),
+    ],
+    terms=[
+        ("agati",
+         "&ldquo;bias&rdquo; or &ldquo;wrong course&rdquo;, literally &lsquo;not-going&rsquo; "
+         "&mdash; the four-item formula already given in full at AN 4.17."),
+        ("chanda, dosa, moha, bhaya",
+         "favoritism, hostility, delusion, and fear &mdash; the four specific biases named."),
+        ("bhattuddesaka",
+         "&ldquo;meal assigner&rdquo; &mdash; the specific office this discourse addresses, "
+         "and this chapter's title concept applied to a first case."),
+        ("sammannitabba",
+         "&ldquo;should be appointed&rdquo; &mdash; the formal act of communal appointment "
+         "this chapter's title names."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the rebirth image already tracked "
+         "across this project since AN 5.173."),
+    ],
+    text_intro=(
+        "The discourse in full: the five-item standard, run through appointment, conduct in "
+        "office, and consequence. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unfit and fit for appointment"),
+        ("p", "&sect;1", "an5.272:1.1-1.4"),
+        ("p", "&sect;2", "an5.272:2.1-2.4"),
+        ("h3", "Consequences of the appointment"),
+        ("p", "&sect;3", "an5.272:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Sammutipeyyāla, 'Abbreviated Texts on Appointments'",
+             "Upasampadāvagga, 'Ordination'",
+             "Sikkhāpadapeyyāla",
+             "Rāgapeyyāla"],
+         "correct": 0,
+         "expl": "This session's twenty-seventh chapter."},
+        {"q": "Where does the four-bias agati formula already appear in full in this project?",
+         "opts": [
+             "AN 4.17, in a different nipāta, the Fours",
+             "Nowhere else in this project",
+             "AN 5.1",
+             "AN 5.224"],
+         "correct": 0,
+         "expl": "There a general character formula; here applied to a specific office."},
+        {"q": "What four biases does the agati formula name?",
+         "opts": [
+             "Favoritism, hostility, delusion, and fear",
+             "Greed, hatred, delusion, and conceit",
+             "The four noble truths",
+             "The four right efforts"],
+         "correct": 0,
+         "expl": "Chanda, dosa, moha, bhaya."},
+        {"q": "What office does this discourse specifically address?",
+         "opts": [
+             "Meal assigner (bhattuddesaka)",
+             "Lodgings allotter",
+             "Storeperson",
+             "Supervisor of novices"],
+         "correct": 0,
+         "expl": "The first of fourteen offices this chapter eventually covers."},
+        {"q": "What fifth item, beyond the four biases, does this discourse add?",
+         "opts": [
+             "Whether the appointee actually knows if a meal has been assigned or not",
+             "Whether the appointee has completed the asekha standard",
+             "Whether the appointee is senior in years",
+             "Whether the appointee is literate"],
+         "correct": 0,
+         "expl": "An office-specific fifth qualification, varying with each office in the chapter."},
+        {"q": "What image does the discourse use for the final rebirth consequence?",
+         "opts": [
+             "'Placed as if delivered there' (yathābhataṁ nikkhitto)",
+             "'Given up and cut out' (pahānāya samucchedāya)",
+             "'Endowed with five qualities' (pañcahi dhammehi samannāgata)",
+             "No image is used; only a plain statement"],
+         "correct": 0,
+         "expl": "Already tracked across this project since AN 5.173."},
+        {"q": "How many separate paired statements does this discourse run through?",
+         "opts": [
+             "Three: fit/unfit for appointment, conduct once appointed, and final rebirth consequence",
+             "One",
+             "Five",
+             "Ten"],
+         "correct": 0,
+         "expl": "All sharing the identical five-item standard."},
+        {"q": "How does AN 5.273&ndash;285 extend this discourse's formula?",
+         "opts": [
+             "Runs the identical structure across thirteen further monastic offices",
+             "Introduces an entirely unrelated formula",
+             "Applies the formula only to lay Buddhists",
+             "Reduces the standard to three items"],
+         "correct": 0,
+         "expl": "A single merged page in the source, substituting only the office name and its duty-specific item."},
+        {"q": "What did AN 4.17 treat the four biases as, in contrast with this discourse?",
+         "opts": [
+             "A general character flaw, not tied to any specific office",
+             "An office-specific standard identical to this one",
+             "A formula unrelated to bias or prejudice",
+             "A meditation technique"],
+         "correct": 0,
+         "expl": "This discourse gives the same formula a concrete institutional application."},
+        {"q": "What does 'sammannitabba' mean?",
+         "opts": [
+             "'Should be appointed' — the formal act of communal appointment",
+             "'Should be ordained'",
+             "'Should be given up'",
+             "'Should be praised'"],
+         "correct": 0,
+         "expl": "This chapter's title concept, named directly in the discourse's key verb."},
+    ],
+    marginalia=[
+        ("A formula from another book", [
+            "the four agati,",
+            "first full at AN 4.17",
+        ]),
+        ("Four biases, one duty-item", [
+            "favoritism, hostility,",
+            "delusion, fear + office knowledge",
+        ]),
+        ("Three pairings, one standard", [
+            "fit/unfit, conduct,",
+            "and final consequence",
+        ]),
+        ("Fourteen offices ahead", [
+            "one discourse each in full,",
+            "thirteen merged next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.272/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-4.17.html">AN 4.17 &middot; Prejudice (1st)</a> &mdash; the four-bias '
+        "agati formula&rsquo;s original, general statement, in a different nipāta.",
+        '<a href="an-5.251.html">AN 5.251 &middot; Who Should Give Ordination</a> &mdash; the '
+        "previous chapter's own qualification standard, for a different role.",
+        '<a href="an-5.273-285.html">AN 5.273&ndash;285 &middot; A Lodgings Allotter, and So '
+        "On</a> &mdash; next, the identical structure applied to thirteen further offices.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.273–285 — Senāsanapaññāpakasuttādi (merged page, closes the chapter)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-5.273-285",
+    "index_pali": "Senāsanapaññāpakādi",
+    "nav_title": "A Lodgings Allotter, and So On",
+    "source": "an5/an5.273-285",
+    "crumb": "AN 5.273&ndash;285",
+    "meta_title": "AN 5.273–285 — A Lodgings Allotter, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for thirteen discourses "
+        "compressed into one, closing the Sammutipeyyāla — AN 5.272's appointment standard, "
+        "run across thirteen further monastic offices. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 5.273&ndash;285",
+    "title": "A Lodgings Allotter, and So On",
+    "subtitle": "<em>Senāsanapaññāpakasuttādi</em> &mdash; a merged page, closing the "
+                "twenty-seventh chapter of the Fives",
+    "glance": [
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same three-paired structure as AN 5.272, run across thirteen named "
+                 "offices in sequence &mdash; representing thirteen individually numbered "
+                 "discourses"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; compressed, closing this "
+                       "chapter with a catalog of offices"),
+    ],
+    "why": (
+        "Thirteen discourses stand behind one file. AN 5.272 named the meal assigner alone; "
+        "this page runs the identical four-bias standard, paired each time with an "
+        "office-specific fifth item, across thirteen further monastic offices: lodgings "
+        "allotter, lodgings allocator, storeperson, robe receiver, robe distributor, porridge "
+        "distributor, fruit distributor, cake distributor, dispenser of minor accessories, "
+        "allocator of bathing cloths, bowl allocator, supervisor of monastery staff, and "
+        "supervisor of novices. In bilara-data this entire stretch survives as a single file, "
+        "an5.273-285, rather than thirteen separate ones."),
+    "guide": [
+        ("The teaching in one sentence, thirteen times over", [
+            "The identical four-bias agati standard from AN 5.272 &mdash; favoritism, "
+            "hostility, delusion, fear &mdash; each paired with an office-specific fifth item "
+            "&mdash; whether stores are protected, whether a robe has been received or "
+            "distributed, whether a novice has been supervised, and so on &mdash; run once for "
+            "each of thirteen named administrative offices."]),
+        ("A catalog of a working monastery's offices", [
+            "Read as a set, the thirteen offices sketch the practical machinery of a "
+            "functioning monastic community: lodging, storage, robes, food distribution in "
+            "several categories, minor supplies, bathing cloths, bowls, lay-staff supervision, "
+            "and novice supervision &mdash; a domestic administrative structure this "
+            "collection otherwise rarely itemizes in this much concrete detail."]),
+        ("A merged page, not a hand-written summary", [
+            "AN 5.273 through AN 5.285 have no individual files in bilara-data; the source "
+            "compresses them into a single file under this hyphenated name, using its own "
+            "peyyāla mark for each office's repeated three-part structure. This page follows "
+            "that file exactly, giving each office's own substituted duty-item where the "
+            "source states it and following the source's own abbreviation where it elides the "
+            "rest."]),
+        ("A count the source confirms", [
+            "The colophon closing this file gives the ordinal <em>Cuddasamaṁ</em>, "
+            "&lsquo;the fourteenth&rsquo; &mdash; counting this thirteen-office block together "
+            "with AN 5.272 as fourteen discourses total, and immediately follows it with "
+            "<em>Sammutipeyyālaṁ niṭṭhitaṁ</em>, &lsquo;the Sammutipeyyāla is finished&rsquo; "
+            "&mdash; closing this entire chapter, whose full scope turns out to be only these "
+            "fourteen discourses on two pages, not the ten-discourse chapters typical "
+            "elsewhere in the Fives."]),
+        ("Scale, compared to the largest blocks in this series", [
+            "The same merged-file mechanism already used for "
+            "<a href=\"an-5.257-263.html\">AN 5.257&ndash;263</a> and "
+            "<a href=\"an-4.304-783.html\">AN 4.304&ndash;783</a>, here covering thirteen "
+            "sutta-numbers &mdash; larger than either merged page in the previous chapter, but "
+            "still far smaller than the largest block this series has represented."]),
+        ("What follows", [
+            "AN 5.286 opens the Sikkhāpadapeyyāla, this book's twenty-eighth chapter, "
+            "flagged as containing two further peyyāla-compressed pages of its own."]),
+    ],
+    "terms": [
+        ("senāsanapaññāpaka, bhaṇḍāgārika, cīvarapaṭiggāhaka",
+         "lodgings allotter, storeperson, and robe receiver &mdash; three of the thirteen "
+         "offices this page names."),
+        ("sāmaṇerapesaka",
+         "&ldquo;supervisor of novices&rdquo; &mdash; the thirteenth and final office in this "
+         "page's sequence."),
+        ("Cuddasamaṁ",
+         "&ldquo;the fourteenth&rdquo; &mdash; the closing colophon's running count, AN 5.272 "
+         "plus this page's thirteen offices."),
+        ("Sammutipeyyālaṁ niṭṭhitaṁ",
+         "&ldquo;the Sammutipeyyāla is finished&rdquo; &mdash; the colophon closing this "
+         "entire chapter, immediately after the count."),
+        ("agati",
+         "&ldquo;bias&rdquo; &mdash; the four-item formula carried over unchanged from AN "
+         "4.17 and AN 5.272, run across all thirteen offices here."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: thirteen offices, each following "
+        "the same three-part structure. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Thirteen offices, one standard"),
+        ("p", "&sect;1", "an5.273-285:1.1-1.1"),
+        ("p", "&sect;2", "an5.273-285:2.1-2.1"),
+        ("p", "&sect;3", "an5.273-285:3.1-3.1"),
+        ("p", "&sect;4", "an5.273-285:4.1-4.1"),
+        ("p", "&sect;5", "an5.273-285:5.1-5.1"),
+        ("p", "&sect;6", "an5.273-285:6.1-6.1"),
+        ("p", "&sect;7", "an5.273-285:7.1-7.1"),
+        ("p", "&sect;8", "an5.273-285:8.1-8.1"),
+        ("p", "&sect;9", "an5.273-285:9.1-9.1"),
+        ("p", "&sect;10", "an5.273-285:10.1-10.1"),
+        ("p", "&sect;11", "an5.273-285:11.1-11.1"),
+        ("p", "&sect;12", "an5.273-285:12.1-12.1"),
+        ("h3", "The thirteenth office, in full"),
+        ("p", "&sect;13", "an5.273-285:13.1-13.1"),
+        ("p", "&sect;14", "an5.273-285:14.1-14.4"),
+    ],
+    "quiz": [
+        {"q": "How many individually numbered discourses does this one page represent?",
+         "opts": [
+             "Thirteen: AN 5.273 through AN 5.285",
+             "One",
+             "Fourteen",
+             "Four hundred eighty"],
+         "correct": 0,
+         "expl": "Together with AN 5.272, fourteen discourses total, confirmed by the colophon."},
+        {"q": "What standard does each of the thirteen offices share?",
+         "opts": [
+             "The four-bias agati standard, paired with an office-specific fifth item",
+             "An entirely different standard for each office",
+             "The asekha ordination standard from AN 5.251",
+             "No standard; the offices are simply listed by name"],
+         "correct": 0,
+         "expl": "Carried over unchanged from AN 5.272."},
+        {"q": "What is the last of the thirteen offices this page names?",
+         "opts": [
+             "Supervisor of novices (sāmaṇerapesaka)",
+             "Meal assigner",
+             "Storeperson",
+             "Bowl allocator"],
+         "correct": 0,
+         "expl": "Given in fuller form than the others, closing the sequence."},
+        {"q": "What does the closing colophon 'Cuddasamaṁ' confirm?",
+         "opts": [
+             "'The fourteenth' — the total discourse count of AN 5.272 plus this page's thirteen offices",
+             "The total number of chapters in the Fives",
+             "Nothing verifiable",
+             "The number of biases in the agati formula"],
+         "correct": 0,
+         "expl": "Matching this chapter's actual scope of fourteen discourses on two pages."},
+        {"q": "What does 'Sammutipeyyālaṁ niṭṭhitaṁ' announce?",
+         "opts": [
+             "That the entire Sammutipeyyāla chapter is finished",
+             "That the entire Book of the Fives is finished",
+             "That only this single page is finished, with more of the chapter still to come",
+             "Nothing; it is untranslatable"],
+         "correct": 0,
+         "expl": "This chapter's full scope turns out to be only fourteen discourses, not the usual ten."},
+        {"q": "What does the guide say this catalog of thirteen offices sketches?",
+         "opts": [
+             "The practical administrative machinery of a functioning monastic community",
+             "A list of lay professions unrelated to monastic life",
+             "A ranking of offices by spiritual attainment",
+             "A list of forbidden occupations"],
+         "correct": 0,
+         "expl": "Lodging, storage, robes, food distribution, supplies, and staff supervision."},
+        {"q": "How does bilara-data represent AN 5.273 through AN 5.285?",
+         "opts": [
+             "As a single merged file, not thirteen individual files",
+             "As thirteen fully separate individual files",
+             "These sutta-numbers do not exist in bilara-data at all",
+             "As part of AN 5.272's own file"],
+         "correct": 0,
+         "expl": "The source's own compression, followed here rather than invented by hand."},
+        {"q": "What merged pages elsewhere in this series use the identical convention?",
+         "opts": [
+             "AN 5.257&ndash;263 and AN 4.304&ndash;783",
+             "AN 5.1 and AN 5.10, which have no merging at all",
+             "Only this page uses this convention",
+             "AN 5.108"],
+         "correct": 0,
+         "expl": "The same mechanism at varying scales, from seven to four hundred eighty sutta-numbers."},
+        {"q": "What chapter opens next, after this page closes the Sammutipeyyāla?",
+         "opts": [
+             "The Sikkhāpadapeyyāla, flagged as containing two further peyyāla-compressed pages",
+             "A return to the Upasampadāvagga",
+             "The Rāgapeyyāla directly",
+             "No further chapter follows in the Fives"],
+         "correct": 0,
+         "expl": "AN 5.286, this book's twenty-eighth chapter."},
+        {"q": "What four biases does the agati formula, carried through all thirteen offices, name?",
+         "opts": [
+             "Favoritism, hostility, delusion, and fear",
+             "Greed, hatred, delusion, and conceit",
+             "The four noble truths",
+             "The four right efforts"],
+         "correct": 0,
+         "expl": "Unchanged from AN 4.17 and AN 5.272 throughout."},
+    ],
+    "marginalia": [
+        ("Thirteen offices, one file", [
+            "AN 5.273&ndash;285,",
+            "a single bilara-data source",
+        ]),
+        ("A working monastery's roles", [
+            "lodging, storage, robes,",
+            "food, supplies, supervision",
+        ]),
+        ("The chapter's own count", [
+            "Cuddasamaṁ &mdash;",
+            "the fourteenth, confirmed",
+        ]),
+        ("A short chapter, closed", [
+            "Sammutipeyyāla:",
+            "just fourteen discourses, two pages",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an5.273-285/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.272.html">AN 5.272 &middot; A Meal Assigner</a> &mdash; the previous '
+        "discourse, and this page's shared standard&rsquo;s first application.",
+        '<a href="an-4.17.html">AN 4.17 &middot; Prejudice (1st)</a> &mdash; the four-bias '
+        "agati formula&rsquo;s original, general statement.",
+        '<a href="an-5.257-263.html">AN 5.257&ndash;263 &middot; The Second Absorption, and '
+        "So On</a> &mdash; the previous chapter's own merged page, the same convention at a "
+        "smaller scale.",
+    ],
+})
