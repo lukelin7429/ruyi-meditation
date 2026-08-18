@@ -34646,3 +34646,2006 @@ page(
         "&mdash; this chapter's opening discourse.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.171 — Sārajjasutta
+# --------------------------------------------------------------------------- #
+VAGGA_18 = "<em>Upāsakavagga</em> &mdash; the eighteenth chapter of the Fives"
+
+page(
+    171, "Sārajja", "Timidity",
+    vagga=VAGGA_18,
+    meta_title="AN 5.171 — Timidity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sārajjasutta, opening the Upāsakavagga — the five precepts reframed through the "
+        "same timidity/self-assurance lens already used for trainees and mendicants. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_1),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, opening a new chapter"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a new "
+                       "chapter"),
+    ],
+    why=(
+        "This chapter turns from monastic conduct to lay practice, and opens by reusing a "
+        "familiar frame &mdash; timidity versus self-assurance, already applied to a "
+        "trainee at AN 5.101 and to a mendicant generally at AN 5.158 &mdash; now applied "
+        "to a lay follower, with the five precepts themselves as the measure."),
+    guide=[
+        ("A new chapter, a new setting", [
+            "The Upāsakavagga (&ldquo;A Lay Follower&rdquo;) opens with a full narrative "
+            "reintroduction at Sāvatthī, Jeta's Grove &mdash; signaling a genuine change "
+            "of setting and subject from the previous chapter's monastic concerns."]),
+        ("A third Sārajja discourse", [
+            "This is the third discourse in this nipāta framed through timidity "
+            "(<em>sārajja</em>) versus self-assurance (<em>visārada</em>), after AN 5.101 "
+            "(addressed to a trainee, via an elaborate contrast-formula) and AN 5.158 "
+            "(addressed to a mendicant generally, via a bare pentad). Each uses a "
+            "different content-list for a different audience; this one addresses lay "
+            "followers specifically."]),
+        ("The five precepts as the measure", [
+            "Unlike the previous two Sārajja discourses' abstract virtues (faith, "
+            "ethics, learning, energy, wisdom), this one names the five precepts "
+            "(<em>pañcasīla</em>) directly: killing, stealing, sexual misconduct, lying, "
+            "and intoxicants &mdash; the standard lay ethical foundation, now doing "
+            "double duty as the measure of a lay follower's basic self-possession."]),
+        ("Timidity as a lay concern too", [
+            "That the same sārajja/visārada framing applies equally to a trainee, a "
+            "mendicant, and now an ordinary lay follower suggests the underlying concern "
+            "&mdash; whether one's own conduct gives one grounds for confidence or "
+            "unease &mdash; isn't specific to monastic life at all."]),
+        ("What follows", [
+            "AN 5.172 and AN 5.173 restate this exact same five-precept structure twice "
+            "more, each time with a different outcome-framing &mdash; opening this "
+            "chapter with a deliberate triple statement of its foundational content."]),
+    ],
+    terms=[
+        ("upāsaka",
+         "&ldquo;lay follower&rdquo; &mdash; this chapter's title concept, the audience "
+         "for all ten of its discourses."),
+        ("sārajjaṁ okkanto",
+         "&ldquo;overcome by timidity&rdquo; &mdash; the same phrase used at AN 5.158 for "
+         "a mendicant, here applied to a lay follower."),
+        ("visārado",
+         "&ldquo;self-assured&rdquo; &mdash; the positive counterpart."),
+        ("pāṇātipātī, adinnādāyī, kāmesumicchācārī, musāvādī, "
+         "surāmerayamajjapamādaṭṭhāyī",
+         "one who kills, steals, commits sexual misconduct, lies, and consumes "
+         "intoxicants &mdash; the five precepts, stated in their broken form."),
+        ("pañcasīla",
+         "&ldquo;the five precepts&rdquo; &mdash; the standard lay ethical foundation, "
+         "this discourse's measure of timidity or self-assurance."),
+    ],
+    text_intro=(
+        "The discourse in full: the five precepts broken, and the five precepts kept. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Overcome by timidity"),
+        ("p", "&sect;1", "an5.171:2.1-2.4"),
+        ("h3", "Self-assured"),
+        ("p", "&sect;2", "an5.171:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Upāsakavagga, 'A Lay Follower'",
+             "Āghātavagga, 'Resentment'",
+             "Araññavagga, 'Wilderness Dwellers'",
+             "Brāhmaṇavagga, 'Brahmins'"],
+         "correct": 0,
+         "expl": "This session's eighteenth chapter."},
+        {"q": "What earlier discourses does this one share its 'Sārajja' framing with?",
+         "opts": [
+             "AN 5.101 (a trainee) and AN 5.158 (a mendicant generally)",
+             "AN 5.10 and AN 5.20 only",
+             "No earlier discourse shares this framing",
+             "AN 5.151 and AN 5.152"],
+         "correct": 0,
+         "expl": "The third discourse in this nipāta using this timidity/self-assurance frame."},
+        {"q": "What content-list does this discourse use as its measure, unlike the two earlier Sārajja discourses?",
+         "opts": [
+             "The five precepts directly, rather than abstract virtues",
+             "The five aggregates",
+             "The nine teaching genres",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Killing, stealing, sexual misconduct, lying, and intoxicants."},
+        {"q": "What does 'sārajjaṁ okkanto' mean?",
+         "opts": [
+             "Overcome by timidity",
+             "Filled with wisdom",
+             "Newly ordained",
+             "Formally accused"],
+         "correct": 0,
+         "expl": "The same phrase used at AN 5.158 for a mendicant."},
+        {"q": "What does the positive list in this discourse consist of?",
+         "opts": [
+             "Abstaining from all five precept-violations",
+             "An entirely different five qualities",
+             "Only three of the five items reversed",
+             "A longer, ten-item list"],
+         "correct": 0,
+         "expl": "The clean negation of the broken-precepts list."},
+        {"q": "What does this discourse's use of the sārajja/visārada frame suggest?",
+         "opts": [
+             "That the underlying concern about confidence isn't specific to monastic life",
+             "That only monastics can ever achieve self-assurance",
+             "That lay followers are incapable of timidity",
+             "That the five precepts apply only to monastics"],
+         "correct": 0,
+         "expl": "The same framing now applied to an ordinary lay follower."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Kosambī, Ghosita's Monastery",
+             "Rājagaha, the Bamboo Grove",
+             "Kapilavatthu"],
+         "correct": 0,
+         "expl": "A full narrative reintroduction, marking a genuine change of setting."},
+        {"q": "What do AN 5.172 and AN 5.173 do with this discourse's content?",
+         "opts": [
+             "Restate the exact same five-precept structure, with different outcome-framings",
+             "Contradict it entirely",
+             "Apply it only to nuns",
+             "Replace it with an unrelated five-item list"],
+         "correct": 0,
+         "expl": "A deliberate triple statement opening this chapter."},
+        {"q": "What is 'pañcasīla'?",
+         "opts": [
+             "The five precepts, the standard lay ethical foundation",
+             "A formal ordination ceremony",
+             "The nine teaching genres",
+             "A type of meditation retreat"],
+         "correct": 0,
+         "expl": "This discourse's measure of timidity or self-assurance."},
+        {"q": "How many of the five precepts concern intoxicants?",
+         "opts": [
+             "One — abstaining from beer, wine, and liquor",
+             "Two",
+             "None — intoxicants aren't included",
+             "All five relate to intoxicants"],
+         "correct": 0,
+         "expl": "The fifth item in the standard five-precept list."},
+    ],
+    marginalia=[
+        ("A third Sārajja discourse", [
+            "after AN 5.101",
+            "(trainee) and 5.158",
+            "(mendicant)",
+        ]),
+        ("The measure, this time", [
+            "the five precepts",
+            "themselves",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">pañcasīla</span>",
+            "&mdash; the five",
+            "precepts",
+        ]),
+        ("Cross-references", [
+            "AN 5.101 &middot; AN 5.158 &middot; this same frame's earlier appearances",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.171/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.158.html">AN 5.158 &middot; Timidity</a> &mdash; the same frame, '
+        "applied to a mendicant generally.",
+        '<a href="an-5.101.html">AN 5.101 &middot; Assurance</a> &mdash; the same '
+        "frame&rsquo;s first appearance, addressed to a trainee.",
+        '<a href="an-5.172.html">AN 5.172 &middot; Assured</a> &mdash; next: the same '
+        "five-precept structure, restated.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.172 — Visāradasutta
+# --------------------------------------------------------------------------- #
+page(
+    172, "Visārada", "Assured",
+    vagga=VAGGA_18,
+    meta_title="AN 5.172 — Assured | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Visāradasutta — the same five precepts restated, specifying household life "
+        "explicitly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, identical to AN 5.171"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a direct "
+                       "restatement"),
+    ],
+    why=(
+        "The exact same five-precept structure as AN 5.171, restated with one addition: "
+        "the lay follower in question is explicitly described as &lsquo;living at "
+        "home&rsquo; (<em>agāraṁ ajjhāvasati</em>) &mdash; grounding the previous "
+        "discourse's abstract timidity/assurance in ordinary household life."),
+    guide=[
+        ("An identical structure, one phrase added", [
+            "The same five precepts, the same negative and positive framing as AN "
+            "5.171 &mdash; but now every clause specifies the lay follower as "
+            "&lsquo;living at home&rsquo;, making explicit what was only implicit "
+            "before: this is about household life specifically, not some other kind of "
+            "lay practice."]),
+        ("An abbreviated middle", [
+            "The source text itself marks the middle three precepts (stealing, sexual "
+            "misconduct, lying) with an ellipsis (&lsquo;&hellip;pe&hellip;&rsquo;), "
+            "spelling out only the first and last in full &mdash; a signal that the "
+            "compilers treated this as a close restatement of AN 5.171, not an "
+            "independently composed discourse."]),
+        ("Not self-assured, versus self-assured at home", [
+            "The negative framing shifts slightly from AN 5.171's &lsquo;overcome by "
+            "timidity&rsquo; to the more directly stated &lsquo;not self-assured&rsquo; "
+            "(<em>avisārado</em>) &mdash; a small wording change around an unchanged "
+            "underlying concern."]),
+        ("Why repeat the same content twice", [
+            "Read alongside AN 5.171 and the discourse that follows, this repetition "
+            "isn't redundancy for its own sake: three near-identical statements of the "
+            "same five-precept foundation, each with a different outcome-framing "
+            "(timidity/assurance, then non-assurance/assurance-at-home, then hell/heaven "
+            "at AN 5.173), together give this chapter's opening a cumulative, almost "
+            "liturgical weight."]),
+        ("What follows", [
+            "AN 5.173 completes this opening triad with its starkest framing yet: not "
+            "timidity or assurance, but rebirth itself, in hell or heaven."]),
+    ],
+    terms=[
+        ("agāraṁ ajjhāvasati",
+         "&ldquo;living at home&rdquo; &mdash; the phrase this discourse adds, "
+         "specifying household life explicitly."),
+        ("avisārado",
+         "&ldquo;not self-assured&rdquo; &mdash; this discourse's negative framing, "
+         "a variant of AN 5.171's &lsquo;overcome by timidity&rsquo;."),
+        ("pe",
+         "the standard abbreviation marker, here compressing the middle three precepts "
+         "into an ellipsis."),
+        ("pañcasīla",
+         "&ldquo;the five precepts&rdquo; &mdash; unchanged from AN 5.171, the shared "
+         "content of this opening triad."),
+        ("upāsako",
+         "&ldquo;lay follower&rdquo; &mdash; the subject of every discourse in this "
+         "chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the same five precepts, now framed for household life "
+        "explicitly. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not self-assured, living at home"),
+        ("p", "&sect;1", "an5.172:1.1-1.4"),
+        ("h3", "Self-assured, living at home"),
+        ("p", "&sect;2", "an5.172:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What structure does this discourse share with AN 5.171?",
+         "opts": [
+             "The exact same five-precept content, negative and positive",
+             "An entirely unrelated five-item list",
+             "Only the positive half, with no negative framing",
+             "A narrative frame instead of a list"],
+         "correct": 0,
+         "expl": "A close restatement of the previous discourse."},
+        {"q": "What phrase does this discourse add that AN 5.171 didn't state explicitly?",
+         "opts": [
+             "'Living at home' (agāraṁ ajjhāvasati)",
+             "'Ordained for ten years'",
+             "'Living in the wilderness'",
+             "'Traveling constantly'"],
+         "correct": 0,
+         "expl": "Grounding the discourse in household life specifically."},
+        {"q": "How does the source text mark the middle three precepts?",
+         "opts": [
+             "With an ellipsis abbreviation, spelling out only the first and last in full",
+             "By omitting them entirely with no marker",
+             "By expanding them with new detail",
+             "By replacing them with a different list"],
+         "correct": 0,
+         "expl": "A signal treating this as a close restatement of AN 5.171."},
+        {"q": "What does 'avisārado' mean?",
+         "opts": [
+             "Not self-assured",
+             "Fully self-assured",
+             "Newly ordained",
+             "Formally accused"],
+         "correct": 0,
+         "expl": "This discourse's negative framing, a variant of AN 5.171's phrasing."},
+        {"q": "What does 'agāraṁ ajjhāvasati' mean?",
+         "opts": [
+             "Living at home",
+             "Living in a monastery",
+             "Traveling on pilgrimage",
+             "Undergoing formal ordination"],
+         "correct": 0,
+         "expl": "The phrase this discourse adds to AN 5.171's structure."},
+        {"q": "What outcome-framing does AN 5.173 add to complete this opening triad?",
+         "opts": [
+             "Rebirth in hell or heaven",
+             "A monastic expulsion procedure",
+             "A formal legal trial",
+             "A meditation retreat schedule"],
+         "correct": 0,
+         "expl": "The starkest of the three framings in this opening sequence."},
+        {"q": "Why might this chapter open with three near-identical restatements?",
+         "opts": [
+             "To give the shared five-precept foundation a cumulative, almost liturgical weight",
+             "Because the compilers made an accidental duplication",
+             "To demonstrate three unrelated teachings",
+             "Because the five precepts change meaning each time"],
+         "correct": 0,
+         "expl": "Three framings of the same content, in sequence."},
+        {"q": "What are the five precepts named across this opening triad?",
+         "opts": [
+             "Killing, stealing, sexual misconduct, lying, and intoxicants",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five aggregates",
+             "The nine teaching genres"],
+         "correct": 0,
+         "expl": "The standard lay ethical foundation, unchanged across all three discourses."},
+        {"q": "Who speaks this discourse?",
+         "opts": [
+             "The Buddha, addressing the mendicants",
+             "Sāriputta, addressing the mendicants",
+             "Ānanda, addressing Sāriputta",
+             "Anāthapiṇḍika, addressing the Buddha"],
+         "correct": 0,
+         "expl": "Continuing the standard Buddha-voiced pattern."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Upāsakavagga",
+             "Āghātavagga",
+             "Araññavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'A Lay Follower', this session's eighteenth chapter."},
+    ],
+    marginalia=[
+        ("Same content, one addition", [
+            "&lsquo;living at home&rsquo;",
+            "made explicit",
+        ]),
+        ("An abbreviated middle", [
+            "only precepts 1 and 5",
+            "spelled out in full",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">avisārado</span>",
+            "&mdash; not",
+            "self-assured",
+        ]),
+        ("Cross-references", [
+            "AN 5.171 &middot; this same content's first statement in this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.172/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.171.html">AN 5.171 &middot; Timidity</a> &mdash; the previous '
+        "discourse, this same content's first statement.",
+        '<a href="an-5.173.html">AN 5.173 &middot; Hell</a> &mdash; next: this '
+        "opening triad&rsquo;s starkest framing, rebirth in hell or heaven.",
+        '<a href="an-5.158.html">AN 5.158 &middot; Timidity</a> &mdash; the same '
+        "sārajja/visārada frame, applied to a mendicant.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.173 — Nirayasutta
+# --------------------------------------------------------------------------- #
+page(
+    173, "Niraya", "Hell",
+    vagga=VAGGA_18,
+    meta_title="AN 5.173 — Hell | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nirayasutta — the same five precepts, completing this chapter's opening triad "
+        "with its starkest framing: rebirth in hell or heaven. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, identical content to AN 5.171-172"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, closing this "
+                       "opening triad"),
+    ],
+    why=(
+        "The same five precepts a third time, now with this opening triad's starkest "
+        "outcome-framing: a lay follower who breaks them is &lsquo;placed in hell as if "
+        "delivered there&rsquo;, and one who keeps them is placed in heaven the same "
+        "way &mdash; a striking image of automatic, almost mechanical consequence."),
+    guide=[
+        ("A third statement, a starker image", [
+            "AN 5.171 framed the five precepts through timidity and self-assurance; AN "
+            "5.172 through household life specifically; this discourse frames them "
+            "through their most consequential outcome &mdash; rebirth itself, in hell or "
+            "heaven."]),
+        ("Placed as if delivered", [
+            "The phrase <em>yathābhataṁ nikkhitto</em>, &lsquo;placed as if "
+            "delivered&rsquo;, suggests something carried and set down without struggle "
+            "or delay &mdash; an image of kammic consequence as close to automatic and "
+            "unavoidable as anything in this collection."]),
+        ("Closing this opening triad", [
+            "Together, AN 5.171&ndash;173 give this chapter's foundational content "
+            "&mdash; the five precepts &mdash; three distinct framings in immediate "
+            "succession: personal confidence, household context, and cosmic "
+            "consequence. No further variation follows; the chapter moves on to other "
+            "concerns starting at AN 5.174."]),
+        ("A blunt instrument, deliberately", [
+            "Unlike AN 5.174's much more detailed explanation of why precept-breaking "
+            "generates fear and enmity, this discourse offers no explanation at all "
+            "&mdash; just the bare consequence, stated as flatly as possible."]),
+        ("What follows", [
+            "AN 5.174 finally explains the mechanism behind these outcomes: how "
+            "breaking each precept generates fear and enmity in this very life, not "
+            "only in some cosmic hereafter."]),
+    ],
+    terms=[
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered&rdquo; &mdash; this discourse's image of "
+         "automatic, unavoidable consequence."),
+        ("niraya",
+         "&ldquo;hell&rdquo; &mdash; this discourse's title concept, the destination for "
+         "one who breaks all five precepts."),
+        ("sagga",
+         "&ldquo;heaven&rdquo; &mdash; the positive counterpart destination."),
+        ("pañcasīla",
+         "&ldquo;the five precepts&rdquo; &mdash; unchanged for a third time in this "
+         "opening triad."),
+        ("upāsako",
+         "&ldquo;lay follower&rdquo; &mdash; the subject throughout this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the same five precepts, framed through their starkest "
+        "possible consequence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an5.173:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an5.173:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What outcome-framing does this discourse give to the five precepts?",
+         "opts": [
+             "Rebirth in hell or heaven, described as automatic and unavoidable",
+             "A formal monastic trial",
+             "A merchant's profit or loss",
+             "A physical illness or recovery"],
+         "correct": 0,
+         "expl": "This opening triad's starkest of the three framings."},
+        {"q": "What does 'yathābhataṁ nikkhitto' mean?",
+         "opts": [
+             "Placed as if delivered, without struggle or delay",
+             "Freely chosen after long deliberation",
+             "Postponed indefinitely",
+             "Reversed through later repentance"],
+         "correct": 0,
+         "expl": "An image of kammic consequence as close to automatic as anything in this collection."},
+        {"q": "How does this discourse differ from AN 5.174, which follows it?",
+         "opts": [
+             "It offers no explanation of the mechanism, just the bare consequence",
+             "It offers a far more detailed explanation than AN 5.174",
+             "It concerns an entirely different topic",
+             "It is spoken by Sāriputta rather than the Buddha"],
+         "correct": 0,
+         "expl": "AN 5.174 explains why precept-breaking generates fear and enmity; this discourse doesn't."},
+        {"q": "What three framings do AN 5.171-173 together give the five precepts?",
+         "opts": [
+             "Personal confidence, household context, and cosmic consequence",
+             "Three entirely unrelated topics",
+             "Three different lists of five precepts",
+             "Three different chapters of the collection"],
+         "correct": 0,
+         "expl": "A deliberate opening triad for this chapter."},
+        {"q": "What does this discourse's structure share with AN 5.171 and 5.172?",
+         "opts": [
+             "The exact same five-precept content",
+             "Nothing — the content is entirely different",
+             "Only the positive half",
+             "A narrative frame absent from the other two"],
+         "correct": 0,
+         "expl": "A third restatement of the identical five precepts."},
+        {"q": "What does 'niraya' mean?",
+         "opts": [
+             "Hell",
+             "Heaven",
+             "A monastery",
+             "A meditation state"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "What does 'sagga' mean?",
+         "opts": [
+             "Heaven",
+             "Hell",
+             "A lay follower's home",
+             "A formal ordination"],
+         "correct": 0,
+         "expl": "The positive destination named in this discourse."},
+        {"q": "What happens to this triple-restatement pattern after AN 5.173?",
+         "opts": [
+             "It ends — the chapter moves on to other concerns at AN 5.174",
+             "It continues for the rest of the chapter",
+             "It reverses into a different five-item list",
+             "It is repeated exactly once more at AN 5.180"],
+         "correct": 0,
+         "expl": "No further variation of this exact structure follows."},
+        {"q": "What discourse follows, finally explaining the mechanism behind these outcomes?",
+         "opts": [
+             "AN 5.174, Threats",
+             "AN 5.180, About Gavesī",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Explaining how breaking each precept generates fear and enmity in this very life."},
+        {"q": "What are the five precepts named in this discourse?",
+         "opts": [
+             "Killing, stealing, sexual misconduct, lying, and intoxicants",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five aggregates",
+             "The nine teaching genres"],
+         "correct": 0,
+         "expl": "Unchanged for the third time in this opening triad."},
+    ],
+    marginalia=[
+        ("A third framing", [
+            "confidence, then household,",
+            "now cosmic consequence",
+        ]),
+        ("Automatic and unavoidable", [
+            "placed as if",
+            "delivered there",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">yathābhataṁ nikkhitto</span>",
+            "&mdash; placed as",
+            "if delivered",
+        ]),
+        ("Cross-references", [
+            "AN 5.174 &middot; next: the mechanism behind these outcomes, explained in "
+            "full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.173/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.172.html">AN 5.172 &middot; Assured</a> &mdash; the previous '
+        "discourse in this opening triad.",
+        '<a href="an-5.174.html">AN 5.174 &middot; Threats</a> &mdash; next: why '
+        "precept-breaking generates fear and enmity, explained in full.",
+        '<a href="an-5.171.html">AN 5.171 &middot; Timidity</a> &mdash; this opening '
+        "triad&rsquo;s first statement.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.174 — Verasutta
+# --------------------------------------------------------------------------- #
+SETTING_174 = "Sāvatthī, addressed to the householder Anāthapiṇḍika"
+
+page(
+    174, "Vera", "Threats",
+    vagga=VAGGA_18,
+    meta_title="AN 5.174 — Threats | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Verasutta, addressed to Anāthapiṇḍika — why breaking each precept generates "
+        "fear and enmity in this very life, not only in some cosmic hereafter. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_174),
+        ("Speakers", "The Buddha, addressing the householder Anāthapiṇḍika"),
+        ("Form", "two paired five-item lists, an explanatory prose section, and closing "
+                 "verses"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; longer, with a "
+                       "genuinely persuasive argument"),
+    ],
+    why=(
+        "After three bare restatements of the five precepts, this discourse finally "
+        "explains the mechanism: breaking each precept generates &lsquo;fear and "
+        "enmity&rsquo; (<em>bhaya, vera</em>) both immediately, in this very life, and "
+        "in lives to come &mdash; a genuinely psychological argument, not only a "
+        "cosmic one, for why keeping the precepts matters."),
+    guide=[
+        ("Anāthapiṇḍika, named directly", [
+            "Unlike the previous three discourses' general address to the mendicants, "
+            "this one is addressed to a specific, named lay follower: the householder "
+            "Anāthapiṇḍika, the Buddha's most prominent lay patron in this collection."]),
+        ("Five fears and enmities, given up or not", [
+            "The same five precepts are now called <em>bhayāni verāni</em>, "
+            "&lsquo;fears and enmities&rsquo; &mdash; unless given up, one is called "
+            "unethical and reborn in hell; once given up, one is called ethical and "
+            "reborn in heaven, echoing AN 5.173's framing but now naming the precepts "
+            "themselves as sources of fear rather than simply rules."]),
+        ("Fear now, not only fear later", [
+            "The discourse's real contribution is its explanation: anyone who kills "
+            "living creatures &lsquo;brims with fear and enmity both in this life and "
+            "in lives to come&rsquo;, and experiences mental pain and sadness &mdash; "
+            "while anyone who refrains experiences none of this. The same explanation "
+            "is given in full for killing and for intoxicants, and abbreviated for the "
+            "middle three precepts."]),
+        ("A genuinely social argument", [
+            "This isn't only a claim about karmic consequence after death: someone who "
+            "kills, steals, or lies has genuine reason to fear retaliation, exposure, or "
+            "revenge from those they've wronged, right now &mdash; while someone who "
+            "doesn't has quelled that fear and enmity entirely, in the present."]),
+        ("Closing in verse", [
+            "The discourse closes with two verses restating the same teaching "
+            "poetically &mdash; one describing the person who kills, lies, steals, "
+            "commits adultery, and drinks as witless and hell-bound, the other "
+            "describing the person who abstains from all five as wise and bound for a "
+            "good place, a rare case in this collection of a prose teaching closing "
+            "with its own summarizing verse."]),
+    ],
+    terms=[
+        ("bhaya, vera",
+         "&ldquo;fear, enmity&rdquo; &mdash; this discourse's reframing of the five "
+         "precepts, from rules to sources of genuine psychological threat when broken."),
+        ("diṭṭhadhammikaṁ",
+         "&ldquo;in this very life&rdquo; &mdash; qualifying fear and enmity as an "
+         "immediate, not only future, consequence."),
+        ("samparāyikaṁ",
+         "&ldquo;in lives to come&rdquo; &mdash; the future-life counterpart to "
+         "diṭṭhadhammikaṁ."),
+        ("cetasikaṁ dukkhaṁ domanassaṁ",
+         "&ldquo;mental pain and sadness&rdquo; &mdash; the psychological cost of "
+         "precept-breaking, alongside fear and enmity."),
+        ("vūpasanta",
+         "&ldquo;quelled, settled&rdquo; &mdash; the state of one who has given up the "
+         "five threats, their fear and enmity resolved."),
+    ],
+    text_intro=(
+        "The discourse in full: the five precepts as fears and enmities, why breaking "
+        "them generates fear now, and the closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unless given up: hell; once given up: heaven"),
+        ("p", "&sect;1", "an5.174:2.1-3.4"),
+        ("h3", "Why breaking precepts breeds fear, now and later"),
+        ("p", "&sect;2", "an5.174:4.1-8.2"),
+        ("h3", "In verse"),
+        ("p", "&sect;3", "an5.174:9.1-12.4"),
+    ],
+    quiz=[
+        {"q": "Who is this discourse addressed to?",
+         "opts": [
+             "The householder Anāthapiṇḍika, by name",
+             "The mendicants generally",
+             "Venerable Sāriputta",
+             "A group of five hundred lay followers"],
+         "correct": 0,
+         "expl": "Unlike the previous three discourses' general address."},
+        {"q": "What does this discourse rename the five precepts as?",
+         "opts": [
+             "Fears and enmities (bhayāni verāni)",
+             "Trades",
+             "Blissful meditations",
+             "Ordination requirements"],
+         "correct": 0,
+         "expl": "A reframing from rules to sources of genuine threat when broken."},
+        {"q": "What does 'diṭṭhadhammikaṁ' mean?",
+         "opts": [
+             "In this very life",
+             "In lives to come",
+             "Never, under any circumstances",
+             "Only for monastics"],
+         "correct": 0,
+         "expl": "Fear and enmity arise immediately, not only after death."},
+        {"q": "What is this discourse's real contribution beyond AN 5.171-173?",
+         "opts": [
+             "An explanation of why breaking each precept generates fear, both now and later",
+             "A denial that the five precepts matter at all",
+             "A claim that only monastics need keep the precepts",
+             "A list of ten additional precepts"],
+         "correct": 0,
+         "expl": "Finally explaining the mechanism behind the earlier bare restatements."},
+        {"q": "What kind of argument does this discourse make about fear from precept-breaking?",
+         "opts": [
+             "A genuinely social one — fear of retaliation and exposure, right now",
+             "A purely cosmic one, with no present-life relevance",
+             "An argument that fear is always irrational and should be ignored",
+             "An argument that only kings can generate fear in others"],
+         "correct": 0,
+         "expl": "Someone who wrongs others has real reason to fear consequences immediately."},
+        {"q": "What does 'vūpasanta' describe?",
+         "opts": [
+             "A quelled, settled state — the fear and enmity resolved",
+             "An unresolved, escalating conflict",
+             "A newly ordained mendicant",
+             "A formal accusation"],
+         "correct": 0,
+         "expl": "The state of one who has given up the five threats."},
+        {"q": "How does this discourse close?",
+         "opts": [
+             "With two verses restating the same teaching poetically",
+             "With a formal colophon ending the chapter",
+             "With a narrative about kings",
+             "With silence"],
+         "correct": 0,
+         "expl": "A rare case of a prose teaching closing with its own summarizing verse."},
+        {"q": "Who is Anāthapiṇḍika, in the context of this collection?",
+         "opts": [
+             "The Buddha's most prominent lay patron",
+             "A senior mendicant",
+             "A hostile king",
+             "A wandering ascetic from another tradition"],
+         "correct": 0,
+         "expl": "Named directly as this discourse's addressee."},
+        {"q": "What is explained in full for killing and intoxicants, but abbreviated for the other three precepts?",
+         "opts": [
+             "The explanation of fear and enmity generated by breaking each precept",
+             "The formal ordination procedure",
+             "The colophon closing the chapter",
+             "The uddāna verse"],
+         "correct": 0,
+         "expl": "A partial abbreviation (…pe…) for stealing, sexual misconduct, and lying."},
+        {"q": "What outcome does this discourse share with AN 5.173?",
+         "opts": [
+             "Rebirth in hell if the precepts aren't given up, heaven if they are",
+             "An entirely unrelated outcome",
+             "Expulsion from the lay community",
+             "A formal legal trial by kings"],
+         "correct": 0,
+         "expl": "Echoing AN 5.173's framing, now with an explanation added."},
+    ],
+    marginalia=[
+        ("Fear, now and later", [
+            "diṭṭhadhammikaṁ &middot;",
+            "samparāyikaṁ",
+        ]),
+        ("A social argument", [
+            "real reason to fear",
+            "retaliation, right now",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vūpasanta</span>",
+            "&mdash; quelled,",
+            "settled",
+        ]),
+        ("Cross-references", [
+            "AN 5.171&ndash;173 &middot; this same content's three earlier, bare "
+            "restatements",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.174/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.173.html">AN 5.173 &middot; Hell</a> &mdash; the previous '
+        "discourse, this opening triad's third bare restatement.",
+        '<a href="an-5.175.html">AN 5.175 &middot; Corpse-worker</a> &mdash; next: a '
+        "sharper standard, on faith and generosity rather than the five precepts alone.",
+        '<a href="an-5.178.html">AN 5.178 &middot; Kings</a> &mdash; later in this '
+        "chapter, a companion argument on precepts and secular law.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.175 — Caṇḍālasutta
+# --------------------------------------------------------------------------- #
+page(
+    175, "Caṇḍāla", "Corpse-worker",
+    vagga=VAGGA_18,
+    meta_title="AN 5.175 — Corpse-worker | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Caṇḍālasutta — a lay follower who lacks faith and gives to outsiders first, "
+        "versus one who is a gem, a pink lotus, and a white lotus. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, both using striking metaphors"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, but uses "
+                       "loaded language worth sitting with"),
+    ],
+    why=(
+        "A discourse in genuinely provocative language: a lay follower lacking faith, "
+        "ethics, and community loyalty is called a &lsquo;corpse-worker&rsquo; "
+        "(<em>caṇḍāla</em>) &mdash; using the name of a stigmatized, marginalized "
+        "occupational group as an insult &mdash; while one who has these qualities is a "
+        "gem, a pink lotus, and a white lotus among lay followers."),
+    guide=[
+        ("A loaded metaphor, used deliberately", [
+            "<em>Caṇḍāla</em> named an occupational group in ancient Indian society "
+            "associated with handling corpses and other work considered ritually "
+            "polluting, and stigmatized accordingly. This discourse borrows that "
+            "stigma as a metaphor for a lay follower's spiritual failure &mdash; worth "
+            "naming plainly as a product of its own social context, not a claim this "
+            "guide endorses or treats as reflecting the actual worth of any occupational "
+            "group."]),
+        ("Five failures, beyond the precepts", [
+            "Unlike the previous four discourses' focus on the five precepts, this "
+            "discourse's five qualities are different: faithlessness, unethical conduct, "
+            "following &lsquo;boisterous, superstitious rites&rsquo; that trust omens "
+            "over one's own actions, seeking donation-recipients outside the Buddhist "
+            "community, and giving to those outsiders first."]),
+        ("A community-loyalty concern", [
+            "The last two items &mdash; seeking donees outside the community and giving "
+            "to them first &mdash; reflect the early Buddhist community's own concern "
+            "for patron loyalty and self-preservation, not a universal ethical claim "
+            "about the value of other traditions or their teachers. Read as a "
+            "historically specific concern, not a timeless moral principle."]),
+        ("The positive mirror: gem and lotus", [
+            "The positive counterpart uses three different, uniformly beautiful images "
+            "&mdash; a gem, a pink lotus, a white lotus &mdash; for the lay follower who "
+            "has faith, ethics, trusts action over omens, and supports the Buddhist "
+            "community first."]),
+        ("A cross-reference worth holding alongside AN 5.179", [
+            "Notably, AN 5.179's closing verse later in this chapter uses this same "
+            "occupational term, <em>caṇḍāla</em>, quite differently &mdash; naming it "
+            "as one social class among several whose members can equally become "
+            "&lsquo;tamed&rsquo; and spiritually accomplished. Read together, the two "
+            "discourses show the term doing very different work: here, borrowed as an "
+            "insult; there, named directly as a class whose members are fully capable of "
+            "the highest attainment."]),
+    ],
+    terms=[
+        ("upāsakacaṇḍālo",
+         "&ldquo;a corpse-worker among lay followers&rdquo; &mdash; this discourse's "
+         "borrowed stigma-metaphor for spiritual failure."),
+        ("kotūhalamaṅgaliko",
+         "&ldquo;following boisterous, superstitious rites&rdquo; &mdash; trusting "
+         "omens over one's own actions."),
+        ("maṅgalaṁ pacceti no kammaṁ",
+         "&ldquo;believing in omens rather than deeds&rdquo; &mdash; the specific "
+         "epistemic failure named."),
+        ("dakkhiṇeyya",
+         "&ldquo;worthy of a religious donation&rdquo; &mdash; the standard this "
+         "discourse's fourth and fifth items concern, where such worthy recipients are "
+         "sought."),
+        ("upāsakaratana, upāsakapaduma, upāsakapuṇḍarīka",
+         "&ldquo;a gem, a pink lotus, a white lotus among lay followers&rdquo; &mdash; "
+         "the discourse's positive counterpart images."),
+    ],
+    text_intro=(
+        "The discourse in full: the corpse-worker among lay followers, and the gem and "
+        "lotus. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A corpse-worker, a stain, a reject"),
+        ("p", "&sect;1", "an5.175:1.1-1.8"),
+        ("h3", "A gem, a pink lotus, a white lotus"),
+        ("p", "&sect;2", "an5.175:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What does 'caṇḍāla' name, historically?",
+         "opts": [
+             "A stigmatized occupational group associated with handling corpses",
+             "A type of monastic robe",
+             "A formal title for a senior mendicant",
+             "A kind of religious festival"],
+         "correct": 0,
+         "expl": "This discourse borrows that stigma as a metaphor for spiritual failure."},
+        {"q": "How should this discourse's use of 'caṇḍāla' as an insult be read?",
+         "opts": [
+             "As a product of its own social context, not a claim this guide endorses about any occupational group",
+             "As a timeless, universal moral truth to be applied literally today",
+             "As proof that caste distinctions are spiritually meaningful",
+             "As unrelated to any historical context"],
+         "correct": 0,
+         "expl": "Named plainly rather than softened or endorsed."},
+        {"q": "What five qualities does this discourse's negative list name, unlike the previous four discourses?",
+         "opts": [
+             "Faithlessness, unethical conduct, superstition, and seeking donees outside the community first",
+             "The five precepts, repeated a fourth time",
+             "The four noble truths",
+             "The nine teaching genres"],
+         "correct": 0,
+         "expl": "A different set of five qualities than the precepts-focused discourses before it."},
+        {"q": "What does 'kotūhalamaṅgaliko' describe?",
+         "opts": [
+             "Following boisterous, superstitious rites, trusting omens over one's own actions",
+             "Careful ethical reflection",
+             "Formal monastic training",
+             "Skilled debate technique"],
+         "correct": 0,
+         "expl": "Trusting maṅgala (omens) over kamma (one's own deeds)."},
+        {"q": "How should the concern about seeking donees 'outside the community' be understood?",
+         "opts": [
+             "As reflecting the early Buddhist community's concern for patron loyalty, not a universal claim about other traditions",
+             "As a timeless prohibition on ever supporting any other religious group",
+             "As entirely unrelated to this discourse's other four items",
+             "As a claim that no teacher outside Buddhism has any value whatsoever"],
+         "correct": 0,
+         "expl": "A historically specific community-preservation concern."},
+        {"q": "What three images does the positive counterpart use?",
+         "opts": [
+             "A gem, a pink lotus, and a white lotus",
+             "A tree, a river, and a mountain",
+             "The sun, moon, and stars",
+             "A lion, an elephant, and a bull"],
+         "correct": 0,
+         "expl": "Three uniformly beautiful images for the accomplished lay follower."},
+        {"q": "How does AN 5.179's later use of 'caṇḍāla' differ from this discourse's?",
+         "opts": [
+             "AN 5.179 names it as a social class whose members can equally become spiritually accomplished, not as an insult",
+             "AN 5.179 uses the term identically, as an insult",
+             "AN 5.179 never uses this term at all",
+             "AN 5.179 denies the term has any meaning"],
+         "correct": 0,
+         "expl": "The same term doing very different rhetorical work in each discourse."},
+        {"q": "What does 'maṅgalaṁ pacceti no kammaṁ' mean?",
+         "opts": [
+             "Believing in omens rather than one's own deeds",
+             "Believing only in one's own deeds, never in luck",
+             "Refusing to perform any ritual whatsoever",
+             "Trusting a teacher's word above all else"],
+         "correct": 0,
+         "expl": "The specific epistemic failure this discourse names."},
+        {"q": "What does the positive lay follower give priority to, regarding donations?",
+         "opts": [
+             "Supporting the Buddhist community first",
+             "Giving exclusively to outsiders",
+             "Never giving any donation at all",
+             "Giving only to kings and nobles"],
+         "correct": 0,
+         "expl": "The positive mirror of this discourse's fourth and fifth negative items."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Upāsakavagga",
+             "Āghātavagga",
+             "Araññavagga",
+             "Kimilavagga"],
+         "correct": 0,
+         "expl": "'A Lay Follower', this session's eighteenth chapter."},
+    ],
+    marginalia=[
+        ("A borrowed stigma", [
+            "caṇḍāla, used here",
+            "as metaphor, named",
+            "plainly as such",
+        ]),
+        ("Omens versus deeds", [
+            "trusting kamma,",
+            "not maṅgala",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">upāsakaratana</span>",
+            "&mdash; a gem among",
+            "lay followers",
+        ]),
+        ("Cross-references", [
+            "AN 5.179 &middot; the same term, used very differently, later in this "
+            "chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.175/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.174.html">AN 5.174 &middot; Threats</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.176.html">AN 5.176 &middot; Rapture</a> &mdash; next: the '
+        "Buddha&rsquo;s exhortation to Anāthapiṇḍika&rsquo;s five hundred lay "
+        "followers.",
+        '<a href="an-5.179.html">AN 5.179 &middot; A Layperson</a> &mdash; where '
+        "&lsquo;caṇḍāla&rsquo; reappears, used in a very different way.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.176 — Pītisutta
+# --------------------------------------------------------------------------- #
+SETTING_176 = "Sāvatthī, addressed to Anāthapiṇḍika and around five hundred lay followers"
+
+page(
+    176, "Pīti", "Rapture",
+    vagga=VAGGA_18,
+    meta_title="AN 5.176 — Rapture | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pītisutta — the Buddha's exhortation to Anāthapiṇḍika's five hundred lay "
+        "followers not to be content with material support alone, and Sāriputta's "
+        "affirmed addition. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_176),
+        ("Speakers", "The Buddha, addressing Anāthapiṇḍika; Venerable Sāriputta adds a "
+                     "response"),
+        ("Form", "an exhortation, then Sāriputta's five-item addition, affirmed by the "
+                 "Buddha"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a subtle doctrinal "
+                       "point, worth reading slowly"),
+    ],
+    why=(
+        "The Buddha tells his most generous lay donors not to be satisfied with funding "
+        "the Saṅgha's material needs alone, but to seek their own direct meditative "
+        "experience &mdash; and Sāriputta adds a precise, doctrinally careful "
+        "description of what that experience actually excludes, which the Buddha "
+        "affirms word for word."),
+    guide=[
+        ("Material support isn't enough", [
+            "Addressing Anāthapiṇḍika and around five hundred lay followers, the Buddha "
+            "acknowledges their generosity &mdash; robes, almsfood, lodgings, medicine "
+            "&mdash; then tells them plainly not to be content with just this much. They "
+            "should train to enter, from time to time, &lsquo;the rapture of "
+            "seclusion&rsquo; (<em>pavivekaṁ pītiṁ</em>) themselves."]),
+        ("Sāriputta's precise addition", [
+            "Sāriputta praises the teaching, then adds a specific clarification: when a "
+            "noble disciple dwells in this rapture of seclusion, five things are absent "
+            "&mdash; but not evenly. Pain and pleasure connected with sensual pleasures "
+            "are both absent; pain and pleasure connected with unskillful states are "
+            "both absent; but only pain connected with skillful states is absent."]),
+        ("An asymmetry worth noticing", [
+            "That final item is easy to read past: the pleasure connected with "
+            "skillful states is not listed as absent. The rapture of seclusion "
+            "excludes sensual disturbance and unskillful disturbance entirely, but "
+            "doesn't exclude wholesome joy &mdash; only the distress that can "
+            "accompany even skillful effort."]),
+        ("The Buddha's exact affirmation", [
+            "Rather than simply approving in general terms, the Buddha repeats "
+            "Sāriputta's five-item list back verbatim, word for word &mdash; a mark of "
+            "precise agreement, not vague praise."]),
+        ("A companion to AN 5.180's Gavesī", [
+            "Cross-ref this chapter's closing discourse, AN 5.180: the exhortation here "
+            "not to be content with material support alone finds its fullest embodiment "
+            "in Gavesī, a lay follower who takes exactly this advice as far as it can "
+            "go, all the way to full liberation."]),
+    ],
+    terms=[
+        ("pavivekaṁ pītiṁ",
+         "&ldquo;the rapture of seclusion&rdquo; &mdash; the direct meditative "
+         "experience the Buddha urges lay donors to seek, not merely to fund in others."),
+        ("kāmūpasaṁhitaṁ",
+         "&ldquo;connected with sensual pleasures&rdquo; &mdash; qualifying two of the "
+         "five absent items."),
+        ("akusalūpasaṁhitaṁ",
+         "&ldquo;connected with the unskillful&rdquo; &mdash; qualifying two more of the "
+         "five absent items."),
+        ("kusalūpasaṁhitaṁ dukkhaṁ",
+         "&ldquo;pain connected with the skillful&rdquo; &mdash; the fifth absent item; "
+         "note that skillful pleasure is not listed as absent."),
+        ("cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāra",
+         "&ldquo;robes, almsfood, lodgings, and medicines and supplies for the "
+         "sick&rdquo; &mdash; the standard four material requisites lay donors provide."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's exhortation, and Sāriputta's precise "
+        "addition. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha's exhortation to the lay followers"),
+        ("p", "&sect;1", "an5.176:2.1-2.6"),
+        ("h3", "Sāriputta's addition: what's absent"),
+        ("p", "&sect;2", "an5.176:3.1-3.16"),
+        ("h3", "The Buddha's affirmation"),
+        ("p", "&sect;3", "an5.176:4.1-4.8"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha tell Anāthapiṇḍika and the assembled lay followers?",
+         "opts": [
+             "Not to be content with material support alone, but to seek their own meditative experience",
+             "To stop supporting the Saṅgha with material requisites entirely",
+             "That only monastics can ever experience rapture",
+             "To donate even more robes and almsfood than before"],
+         "correct": 0,
+         "expl": "This discourse's central exhortation."},
+        {"q": "What does 'pavivekaṁ pītiṁ' mean?",
+         "opts": [
+             "The rapture of seclusion",
+             "Material generosity",
+             "Formal ordination",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "The direct meditative experience lay followers are urged to seek."},
+        {"q": "According to Sāriputta, what five things are absent during this rapture?",
+         "opts": [
+             "Sensual pain/pleasure (both), unskillful pain/pleasure (both), and skillful pain (only)",
+             "All forms of pleasure without exception",
+             "All forms of pain without exception",
+             "Nothing at all is absent"],
+         "correct": 0,
+         "expl": "A precise, asymmetric five-item list."},
+        {"q": "What is notably NOT listed as absent during this rapture?",
+         "opts": [
+             "Pleasure connected with skillful states",
+             "Pain connected with sensual pleasures",
+             "Pleasure connected with unskillful states",
+             "Pain connected with unskillful states"],
+         "correct": 0,
+         "expl": "Wholesome joy isn't excluded — only unskillful and sensual disturbance."},
+        {"q": "How does the Buddha respond to Sāriputta's addition?",
+         "opts": [
+             "He repeats it back verbatim, word for word",
+             "He rejects it as mistaken",
+             "He remains silent",
+             "He asks Ānanda to judge it instead"],
+         "correct": 0,
+         "expl": "A mark of precise agreement, not vague praise."},
+        {"q": "What four material requisites does the Buddha acknowledge the lay followers have provided?",
+         "opts": [
+             "Robes, almsfood, lodgings, and medicine",
+             "Gold, silver, land, and cattle",
+             "Books, ink, paper, and pens",
+             "Weapons, armor, horses, and chariots"],
+         "correct": 0,
+         "expl": "The standard four requisites for the mendicant Saṅgha."},
+        {"q": "How many lay followers accompany Anāthapiṇḍika in this discourse?",
+         "opts": [
+             "Around five hundred",
+             "Exactly twelve",
+             "Just Anāthapiṇḍika alone",
+             "Around fifty"],
+         "correct": 0,
+         "expl": "A large lay assembly, echoing AN 5.179's identical framing."},
+        {"q": "What later discourse in this chapter embodies this exhortation most fully?",
+         "opts": [
+             "AN 5.180, About Gavesī",
+             "AN 5.177, Trades",
+             "AN 5.178, Kings",
+             "AN 5.173, Hell"],
+         "correct": 0,
+         "expl": "A lay follower who takes this advice all the way to full liberation."},
+        {"q": "What does 'akusalūpasaṁhitaṁ' mean?",
+         "opts": [
+             "Connected with the unskillful",
+             "Connected with liberation",
+             "Connected with generosity",
+             "Connected with ordination"],
+         "correct": 0,
+         "expl": "Qualifying two of the five items Sāriputta names as absent."},
+        {"q": "Who initiates the addition to the Buddha's original teaching?",
+         "opts": [
+             "Venerable Sāriputta",
+             "Venerable Ānanda",
+             "Anāthapiṇḍika himself",
+             "Venerable Upavāṇa"],
+         "correct": 0,
+         "expl": "A precise doctrinal clarification, affirmed by the Buddha."},
+    ],
+    marginalia=[
+        ("An asymmetric five", [
+            "sensual pain/pleasure,",
+            "unskillful pain/pleasure,",
+            "but only skillful pain",
+        ]),
+        ("Wholesome joy remains", [
+            "only distress is",
+            "excluded, not joy",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">pavivekaṁ pītiṁ</span>",
+            "&mdash; the rapture",
+            "of seclusion",
+        ]),
+        ("Cross-references", [
+            "AN 5.180 &middot; Gavesī, who embodies this exhortation fully",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.176/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.175.html">AN 5.175 &middot; Corpse-worker</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.177.html">AN 5.177 &middot; Trades</a> &mdash; next: five trades '
+        "a lay follower should not engage in.",
+        '<a href="an-5.180.html">AN 5.180 &middot; About Gavesī</a> &mdash; this '
+        "chapter&rsquo;s closing discourse, embodying this exhortation to the fullest.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.177 — Vaṇijjāsutta
+# --------------------------------------------------------------------------- #
+page(
+    177, "Vaṇijjā", "Trades",
+    vagga=VAGGA_18,
+    meta_title="AN 5.177 — Trades | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vaṇijjāsutta — five trades a lay follower should not engage in: weapons, "
+        "living beings, meat, intoxicants, and poison. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive mirror"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, but with "
+                       "genuine interpretive nuance"),
+    ],
+    why=(
+        "One of this collection's most frequently cited discourses on lay livelihood: "
+        "five trades a lay follower shouldn't take up &mdash; weapons, living beings, "
+        "meat, intoxicants, and poison &mdash; extending the five precepts' logic from "
+        "personal conduct into economic life."),
+    guide=[
+        ("Five prohibited trades", [
+            "Trading in weapons (<em>sattha</em>), living creatures "
+            "(<em>satta</em>), meat (<em>maṁsa</em>), intoxicants "
+            "(<em>majja</em>), and poison (<em>visa</em>) &mdash; a short, bare list, "
+            "with no positive mirror and no explanation given."]),
+        ("A genuinely debated phrase: 'trade in living creatures'", [
+            "<em>Sattavaṇijjā</em>, literally &lsquo;trade in beings&rsquo;, has "
+            "traditionally been read in more than one way: as trading in animals "
+            "destined for slaughter, or as trading in human beings (slave-trading). "
+            "The text itself doesn't specify which is meant, and this guide states "
+            "that ambiguity honestly rather than picking one reading as certain."]),
+        ("Extending precept-logic into livelihood", [
+            "Each of these five trades connects naturally to the five precepts: weapons "
+            "and living-creature trade to the precept against killing, meat trade to "
+            "the same concern once removed, intoxicant trade to the fifth precept "
+            "directly, and poison to killing again &mdash; livelihood, not only "
+            "personal conduct, brought under the same basic ethical framework."]),
+        ("No explanation, deliberately terse", [
+            "Unlike AN 5.174's detailed explanation of why breaking the precepts "
+            "generates fear and enmity, this discourse offers no reasoning at all "
+            "&mdash; simply a bare prohibition, among the shortest discourses in this "
+            "entire nipāta."]),
+        ("Right livelihood, applied to lay economic life", [
+            "This discourse is best read as this collection's lay-specific application "
+            "of the broader principle of right livelihood (<em>sammā-ājīva</em>) from "
+            "the eightfold path &mdash; naming concrete trades rather than an abstract "
+            "principle."]),
+    ],
+    terms=[
+        ("vaṇijjā",
+         "&ldquo;trade&rdquo; &mdash; this discourse's title concept, the five "
+         "prohibited kinds named."),
+        ("satthavaṇijjā",
+         "&ldquo;trade in weapons&rdquo; &mdash; the first prohibited trade."),
+        ("sattavaṇijjā",
+         "&ldquo;trade in living creatures&rdquo; &mdash; a phrase read variously as "
+         "animal trade or the slave trade; the text itself doesn't specify."),
+        ("maṁsavaṇijjā",
+         "&ldquo;trade in meat&rdquo; &mdash; the third prohibited trade."),
+        ("majjavaṇijjā, visavaṇijjā",
+         "&ldquo;trade in intoxicants&rdquo; and &ldquo;trade in poison&rdquo; "
+         "&mdash; the fourth and fifth prohibited trades."),
+    ],
+    text_intro=(
+        "The discourse in full: five trades a lay follower should not engage in. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five trades not to engage in"),
+        ("p", "&sect;1", "an5.177:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five trades does this discourse name as prohibited for a lay follower?",
+         "opts": [
+             "Weapons, living creatures, meat, intoxicants, and poison",
+             "Textiles, spices, jewelry, pottery, and grain",
+             "Farming, fishing, herding, weaving, and building",
+             "Books, medicine, cloth, food, and shelter"],
+         "correct": 0,
+         "expl": "This discourse's bare five-item list."},
+        {"q": "How does this guide treat the ambiguous phrase 'sattavaṇijjā'?",
+         "opts": [
+             "It states honestly that the text doesn't specify whether it means animal or human trade",
+             "It asserts confidently that only animal trade is meant",
+             "It asserts confidently that only human trade is meant",
+             "It ignores the ambiguity entirely"],
+         "correct": 0,
+         "expl": "Traditionally read both ways, with no textual resolution given."},
+        {"q": "What does this discourse offer, unlike AN 5.174?",
+         "opts": [
+             "No explanation at all — a bare prohibition with no reasoning given",
+             "An extensive multi-paragraph explanation",
+             "Two full verses summarizing the teaching",
+             "A narrative frame with named characters"],
+         "correct": 0,
+         "expl": "Among the shortest discourses in this entire nipāta."},
+        {"q": "What broader principle does this discourse apply to lay economic life?",
+         "opts": [
+             "Right livelihood (sammā-ājīva) from the eightfold path",
+             "The four noble truths",
+             "The nine teaching genres",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Naming concrete trades rather than stating an abstract principle."},
+        {"q": "How does this discourse's list connect to the five precepts?",
+         "opts": [
+             "Each trade connects naturally to one or more of the five precepts",
+             "It has no connection to the five precepts whatsoever",
+             "It replaces the five precepts entirely",
+             "It applies only to trades involving foreign merchants"],
+         "correct": 0,
+         "expl": "Extending precept-logic from personal conduct into livelihood."},
+        {"q": "What does 'majjavaṇijjā' mean?",
+         "opts": [
+             "Trade in intoxicants",
+             "Trade in meat",
+             "Trade in weapons",
+             "Trade in poison"],
+         "correct": 0,
+         "expl": "The fourth prohibited trade, connecting to the fifth precept."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "A single five-item list, with no positive mirror",
+             "Two paired five-item lists",
+             "A long narrative with dialogue",
+             "A series of verses"],
+         "correct": 0,
+         "expl": "One of this nipāta's briefest, most direct discourses."},
+        {"q": "What does 'satthavaṇijjā' mean?",
+         "opts": [
+             "Trade in weapons",
+             "Trade in cloth",
+             "Trade in grain",
+             "Trade in jewelry"],
+         "correct": 0,
+         "expl": "The first prohibited trade in this list."},
+        {"q": "What connects poison trade to the five precepts' logic?",
+         "opts": [
+             "Its connection to the precept against killing",
+             "Its connection to the precept against lying",
+             "It has no connection to any precept",
+             "Its connection to the precept against stealing"],
+         "correct": 0,
+         "expl": "Poison, like weapons, facilitates killing."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Upāsakavagga",
+             "Āghātavagga",
+             "Araññavagga",
+             "Kimilavagga"],
+         "correct": 0,
+         "expl": "'A Lay Follower', this session's eighteenth chapter."},
+    ],
+    marginalia=[
+        ("Five prohibited trades", [
+            "weapons &middot; living",
+            "creatures &middot; meat",
+            "&middot; intoxicants &middot;",
+            "poison",
+        ]),
+        ("A genuine ambiguity", [
+            "&lsquo;living creatures&rsquo;",
+            "&mdash; animal or human?",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sattavaṇijjā</span>",
+            "&mdash; trade in",
+            "living beings",
+        ]),
+        ("Cross-references", [
+            "AN 5.171&ndash;174 &middot; the five precepts, this discourse's logic "
+            "extended into livelihood",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.177/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.176.html">AN 5.176 &middot; Rapture</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.178.html">AN 5.178 &middot; Kings</a> &mdash; next: why keeping '
+        "the five precepts is never itself punished by secular law.",
+        '<a href="an-5.174.html">AN 5.174 &middot; Threats</a> &mdash; the five '
+        "precepts, whose logic this discourse extends into livelihood.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.178 — Rājāsutta
+# --------------------------------------------------------------------------- #
+page(
+    178, "Rājā", "Kings",
+    vagga=VAGGA_18,
+    meta_title="AN 5.178 — Kings | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Rājāsutta — a Socratic argument that keeping the five precepts is never itself "
+        "punished by secular law; only breaking them is. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "The Buddha, in dialogue with the mendicants"),
+        ("Form", "five repeated Socratic exchanges, one per precept"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; long but repetitive, "
+                       "an accessible argument"),
+    ],
+    why=(
+        "A clever, almost legal argument for the five precepts: the Buddha asks whether "
+        "anyone has ever been punished by a king simply for keeping a precept, and, "
+        "getting a firm no each time, draws the conclusion that abstaining from harm has "
+        "never once put anyone at odds with ordinary secular law &mdash; only breaking "
+        "the precepts does that."),
+    guide=[
+        ("A five-fold Socratic drumbeat", [
+            "For each of the five precepts in turn, the Buddha asks the mendicants: have "
+            "you ever seen or heard of someone arrested and punished by kings "
+            "specifically for having given up killing, stealing, sexual misconduct, "
+            "lying, or intoxicants? Each time, the answer is a flat no."]),
+        ("What actually draws punishment", [
+            "The Buddha then draws the real contrast: kings do arrest and punish people "
+            "&mdash; but for the actual bad deed itself (murder, theft, adultery, fraud, "
+            "drunk-and-disorderly crime), never for the corresponding restraint. The "
+            "mendicants confirm they've seen exactly this."]),
+        ("Precepts and secular law, aligned rather than opposed", [
+            "The argument's real force is structural: ordinary legal and social "
+            "consequence never falls on someone for keeping a precept, only for "
+            "breaking the underlying norm the precept protects &mdash; suggesting the "
+            "five precepts track, rather than conflict with, everyday social "
+            "expectations most people already hold."]),
+        ("The intoxicants case, elaborated further", [
+            "The fifth iteration, on intoxicants, adds a further layer: someone punished "
+            "for drunkenness is typically punished because, while under the influence, "
+            "they committed one of the other four offenses &mdash; murder, theft, "
+            "adultery, or fraud &mdash; making explicit how the fifth precept's "
+            "violation compounds the risk of violating the other four."]),
+        ("A companion to AN 5.174's inner argument", [
+            "Where AN 5.174 argued that breaking the precepts generates fear and enmity "
+            "from within, this discourse argues the same point from outside: the "
+            "precepts align with what secular authority itself already punishes and "
+            "protects, giving the same conclusion two independent kinds of support."]),
+    ],
+    terms=[
+        ("rājāno",
+         "&ldquo;kings&rdquo; &mdash; this discourse's title concept, representing "
+         "secular authority and law."),
+        ("veramaṇihetu",
+         "&ldquo;for the sake of abstinence&rdquo; &mdash; the (never observed) "
+         "hypothetical basis for punishing someone who keeps a precept."),
+        ("pāpakammaṁ",
+         "&ldquo;bad deed&rdquo; &mdash; what kings are actually informed of and act "
+         "on, rather than restraint."),
+        ("hananti vā bandhanti vā pabbājenti vā",
+         "&ldquo;execute, imprison, or banish&rdquo; &mdash; the range of punishments "
+         "named for the actual offenses."),
+        ("yathāpaccayaṁ",
+         "&ldquo;whatever the case requires&rdquo; &mdash; the discourse's phrase "
+         "covering additional forms of punishment beyond the three named."),
+    ],
+    text_intro=(
+        "The discourse in full: the five-fold argument, one exchange per precept. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Killing"),
+        ("p", "&sect;1", "an5.178:1.1-1.14"),
+        ("h3", "Stealing"),
+        ("p", "&sect;2", "an5.178:2.1-2.14"),
+        ("h3", "Sexual misconduct"),
+        ("p", "&sect;3", "an5.178:3.1-3.14"),
+        ("h3", "Lying"),
+        ("p", "&sect;4", "an5.178:4.1-4.14"),
+        ("h3", "Intoxicants"),
+        ("p", "&sect;5", "an5.178:5.1-5.17"),
+    ],
+    quiz=[
+        {"q": "What question does the Buddha ask the mendicants for each of the five precepts?",
+         "opts": [
+             "Whether anyone has ever been punished by kings simply for keeping the precept",
+             "Whether anyone has ever broken the precept accidentally",
+             "Whether the precept applies to monastics or only laypeople",
+             "Whether the precept has a Northern parallel"],
+         "correct": 0,
+         "expl": "A Socratic question repeated for each of the five precepts."},
+        {"q": "How do the mendicants answer each time?",
+         "opts": [
+             "No — they've never seen or heard of such a case",
+             "Yes, frequently",
+             "They refuse to answer",
+             "It depends on the kingdom"],
+         "correct": 0,
+         "expl": "A consistent negative answer across all five precepts."},
+        {"q": "What does the Buddha say actually draws punishment from kings?",
+         "opts": [
+             "The actual bad deed itself, never the corresponding restraint",
+             "Poverty alone",
+             "Religious affiliation",
+             "Simply being a lay follower"],
+         "correct": 0,
+         "expl": "Murder, theft, adultery, fraud, and drunk-and-disorderly conduct."},
+        {"q": "What is this discourse's central argument?",
+         "opts": [
+             "Keeping the precepts aligns with, rather than conflicts with, secular law",
+             "The precepts have nothing to do with secular law at all",
+             "Kings should be abolished entirely",
+             "Only monastics can be punished by secular law"],
+         "correct": 0,
+         "expl": "Ordinary legal consequence never falls on someone for keeping a precept."},
+        {"q": "What additional layer does the fifth iteration, on intoxicants, add?",
+         "opts": [
+             "That drunkenness-related punishment usually stems from committing one of the other four offenses while intoxicated",
+             "That intoxicants are the only precept that matters",
+             "That kings never punish intoxication under any circumstances",
+             "That the fifth precept is unrelated to the other four"],
+         "correct": 0,
+         "expl": "Making explicit how breaking the fifth precept compounds risk to the other four."},
+        {"q": "How does this discourse relate to AN 5.174's argument?",
+         "opts": [
+             "It argues the same conclusion from outside — secular law — rather than from inner fear and enmity",
+             "It directly contradicts AN 5.174",
+             "It has no relation to AN 5.174 at all",
+             "It repeats AN 5.174 word for word"],
+         "correct": 0,
+         "expl": "Two independent kinds of support for the same underlying conclusion."},
+        {"q": "What does 'veramaṇihetu' mean?",
+         "opts": [
+             "For the sake of abstinence — the never-observed basis for punishing restraint",
+             "For the sake of profit",
+             "For the sake of ordination",
+             "For the sake of travel"],
+         "correct": 0,
+         "expl": "A hypothetical the discourse shows never actually occurs."},
+        {"q": "What three forms of punishment does the discourse name for actual offenses?",
+         "opts": [
+             "Execution, imprisonment, or banishment",
+             "Fines, apology, and community service",
+             "Excommunication, shunning, and exile",
+             "Warning, probation, and reeducation"],
+         "correct": 0,
+         "expl": "Or 'whatever the case requires', per the discourse's own phrasing."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "Five repeated Socratic exchanges, one per precept",
+             "A single narrative with no repetition",
+             "A bare five-item list with no dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "A deliberate rhetorical drumbeat across all five precepts."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Upāsakavagga",
+             "Āghātavagga",
+             "Araññavagga",
+             "Kimilavagga"],
+         "correct": 0,
+         "expl": "'A Lay Follower', this session's eighteenth chapter."},
+    ],
+    marginalia=[
+        ("A consistent 'no'", [
+            "across all five",
+            "precepts, every time",
+        ]),
+        ("What kings actually punish", [
+            "the deed itself, never",
+            "the restraint from it",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">veramaṇihetu</span>",
+            "&mdash; for the sake",
+            "of abstinence",
+        ]),
+        ("Cross-references", [
+            "AN 5.174 &middot; the same conclusion, argued from inner fear and enmity",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.178/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.177.html">AN 5.177 &middot; Trades</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.179.html">AN 5.179 &middot; A Layperson</a> &mdash; next: how '
+        "far lay practice of the five precepts can genuinely go.",
+        '<a href="an-5.174.html">AN 5.174 &middot; Threats</a> &mdash; a companion '
+        "argument, on fear and enmity generated from within.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.179 — Gihisutta
+# --------------------------------------------------------------------------- #
+page(
+    179, "Gihi", "A Layperson",
+    vagga=VAGGA_18,
+    meta_title="AN 5.179 — A Layperson | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Gihisutta — a lay follower keeping the five precepts and confident in the "
+        "triple gem may declare themselves a stream-enterer, closing in the famous "
+        "tamed-bull verse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_176),
+        ("Speakers", "The Buddha, addressing Venerable Sāriputta"),
+        ("Form", "prose declaration formula, then a long closing verse"),
+        ("Length", "~4.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; doctrinally rich, "
+                       "with a striking closing verse"),
+    ],
+    why=(
+        "A lay follower who keeps the five precepts and has easy, unforced confidence "
+        "in the Buddha, the teaching, the Saṅgha, and their own ethical conduct may "
+        "rightly declare themselves a stream-enterer &mdash; and the closing verse "
+        "insists this holds regardless of caste, naming the corpse-worker class "
+        "explicitly among those capable of the highest attainment."),
+    guide=[
+        ("The declaration of stream-entry", [
+            "Addressing Sāriputta, the Buddha describes &lsquo;white-clothed "
+            "laypeople&rsquo; (ordinary householders, as opposed to the ochre-robed "
+            "Saṅgha) whose actions are restrained by the five precepts and who easily "
+            "access &lsquo;four blissful meditations belonging to the higher "
+            "mind&rsquo; &mdash; such a person may declare themselves a stream-enterer, "
+            "finished with rebirth in hell, the animal realm, and the ghost realm, and "
+            "assured of eventual awakening."]),
+        ("Not the four jhānas: a reinterpretation worth noticing", [
+            "&lsquo;Four blissful meditations belonging to the higher mind&rsquo; might "
+            "suggest the four jhānas, but the discourse defines them instead as the "
+            "four classical factors of stream-entry: experiential confidence in the "
+            "Buddha, the teaching, and the Saṅgha, plus ethical conduct &lsquo;loved by "
+            "the noble ones&rsquo; &mdash; a genuine redefinition worth reading "
+            "carefully rather than assuming."]),
+        ("The tamed bull, regardless of color", [
+            "The closing verse opens with an extended simile: whatever color a cow may "
+            "be &mdash; black, white, red, tawny, mottled &mdash; when a tamed, "
+            "powerful bull is born among them, it's that bull, regardless of color, "
+            "that gets yoked to the heaviest load."]),
+        ("Naming caste explicitly, and inclusively", [
+            "The verse then applies this directly to people: &lsquo;among "
+            "aristocrats, brahmins, peasants, menials, or corpse-workers and "
+            "scavengers&rsquo;, whoever is born &lsquo;tamed&rsquo; &mdash; firm in "
+            "principle, accomplished in ethics, truthful &mdash; is capable of "
+            "completing the spiritual path and reaching liberation. Naming the "
+            "<em>caṇḍāla</em> class explicitly here, as fully capable of the highest "
+            "attainment, stands in real tension with AN 5.175's use of that same word "
+            "as an insult &mdash; worth reading the two side by side rather than "
+            "resolving the tension away."]),
+        ("Give to the peaceful ones", [
+            "The verse's closing movement urges giving donations first to &lsquo;the "
+            "peaceful ones&rsquo; (those who have reached this state, regardless of "
+            "caste), criticizing those who give only to outsiders as failing to "
+            "recognize where genuine merit is found &mdash; echoing, in verse, AN "
+            "5.175's prose concern about where lay generosity is directed."]),
+    ],
+    terms=[
+        ("gihiṁ odātavasanaṁ",
+         "&ldquo;white-clothed laypeople&rdquo; &mdash; ordinary householders, "
+         "distinguished from ochre-robed mendicants."),
+        ("sotāpanna",
+         "&ldquo;stream-enterer&rdquo; &mdash; the attainment this discourse says a "
+         "precept-keeping, confident lay follower may rightly declare of themselves."),
+        ("aveccappasāda",
+         "&ldquo;experiential confidence&rdquo; &mdash; unshakeable confidence in the "
+         "Buddha, the teaching, or the Saṅgha, based on direct experience rather than "
+         "mere belief."),
+        ("caṇḍāla",
+         "the same term used pejoratively at AN 5.175, here named directly as one "
+         "social class among several whose members can equally attain liberation."),
+        ("danto jāyati puṅgavo",
+         "&ldquo;the tamed bull is born&rdquo; &mdash; the simile opening this "
+         "discourse's closing verse, regardless of color."),
+    ],
+    text_intro=(
+        "The discourse in full: the declaration of stream-entry, redefined, and the "
+        "closing verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The declaration of stream-entry"),
+        ("p", "&sect;1", "an5.179:1.1-2.3"),
+        ("h3", "The four blissful meditations, redefined"),
+        ("p", "&sect;2", "an5.179:3.1-6.3"),
+        ("h3", "In verse: the tamed bull, and the peaceful field"),
+        ("p", "&sect;3", "an5.179:8.1-22.4"),
+    ],
+    quiz=[
+        {"q": "Who is this discourse addressed to?",
+         "opts": [
+             "Venerable Sāriputta",
+             "Venerable Ānanda",
+             "The householder Anāthapiṇḍika directly",
+             "A group of kings"],
+         "correct": 0,
+         "expl": "The Buddha's direct addressee throughout."},
+        {"q": "What may a lay follower keeping the five precepts and confident in the triple gem declare of themselves?",
+         "opts": [
+             "That they are a stream-enterer",
+             "That they are fully liberated arahants",
+             "That they will never experience any further suffering",
+             "That they are equal to the Buddha himself"],
+         "correct": 0,
+         "expl": "This discourse's central declaration formula."},
+        {"q": "What does this discourse redefine the 'four blissful meditations belonging to the higher mind' as?",
+         "opts": [
+             "The four classical factors of stream-entry, not the four jhānas",
+             "The four noble truths",
+             "The four brahmavihāras",
+             "The four material requisites"],
+         "correct": 0,
+         "expl": "Confidence in the Buddha, teaching, Saṅgha, plus ethical conduct."},
+        {"q": "What does the tamed-bull simile illustrate?",
+         "opts": [
+             "Regardless of a cow's color, the tamed, powerful bull is chosen for the heaviest load",
+             "Only white cows are suitable for work",
+             "Cattle should never be used for labor",
+             "Color determines a bull's inherent worth"],
+         "correct": 0,
+         "expl": "The opening image of this discourse's closing verse."},
+        {"q": "What social classes does the verse name explicitly as capable of the highest attainment?",
+         "opts": [
+             "Aristocrats, brahmins, peasants, menials, and corpse-workers/scavengers",
+             "Only aristocrats and brahmins",
+             "Only monastics, regardless of prior class",
+             "No specific classes are named"],
+         "correct": 0,
+         "expl": "Including the caṇḍāla class explicitly and inclusively."},
+        {"q": "How does this discourse's use of 'caṇḍāla' relate to AN 5.175's?",
+         "opts": [
+             "It stands in real tension — here named as capable of the highest attainment, there used as an insult",
+             "The two discourses use the term identically",
+             "AN 5.175 never uses this term",
+             "This discourse denies the caṇḍāla class exists"],
+         "correct": 0,
+         "expl": "Worth reading the two side by side rather than resolving the tension away."},
+        {"q": "What does 'aveccappasāda' mean?",
+         "opts": [
+             "Experiential confidence, based on direct experience rather than mere belief",
+             "Formal ordination",
+             "A type of meditation retreat",
+             "A ceremonial donation"],
+         "correct": 0,
+         "expl": "The kind of confidence in the Buddha, teaching, and Saṅgha this discourse describes."},
+        {"q": "What does the verse's closing movement urge regarding donations?",
+         "opts": [
+             "Giving first to 'the peaceful ones' who have reached this state, regardless of caste",
+             "Never giving any donation at all",
+             "Giving only to kings and nobles",
+             "Giving exclusively to family members"],
+         "correct": 0,
+         "expl": "Echoing AN 5.175's prose concern in verse form."},
+        {"q": "What does 'gihiṁ odātavasanaṁ' mean?",
+         "opts": [
+             "White-clothed laypeople, ordinary householders",
+             "Ochre-robed mendicants",
+             "Newly ordained novices",
+             "Fully liberated arahants"],
+         "correct": 0,
+         "expl": "Distinguished from the monastic Saṅgha by their clothing."},
+        {"q": "What does 'sotāpanna' mean?",
+         "opts": [
+             "Stream-enterer",
+             "Fully liberated arahant",
+             "A senior mendicant",
+             "A formally accused monastic"],
+         "correct": 0,
+         "expl": "The attainment this discourse says is available to a precept-keeping lay follower."},
+    ],
+    marginalia=[
+        ("Redefined, not the jhānas", [
+            "confidence in the",
+            "triple gem, plus ethics",
+        ]),
+        ("Regardless of color, or caste", [
+            "the tamed one is",
+            "chosen, and can attain",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">caṇḍāla</span>",
+            "&mdash; named here",
+            "inclusively",
+        ]),
+        ("Cross-references", [
+            "AN 5.175 &middot; the same term, used pejoratively, worth reading "
+            "alongside",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.179/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.178.html">AN 5.178 &middot; Kings</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.180.html">AN 5.180 &middot; About Gavesī</a> &mdash; next: this '
+        "chapter's closing narrative, lay practice carried all the way to liberation.",
+        '<a href="an-5.175.html">AN 5.175 &middot; Corpse-worker</a> &mdash; the same '
+        "term, caṇḍāla, used very differently.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.180 — Gavesīsutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    180, "Gavesī", "About Gavesī",
+    vagga=VAGGA_18,
+    meta_title="AN 5.180 — About Gavesī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Gavesīsutta, closing the Upāsakavagga — an imperfect lay follower who resolves "
+        "to do better, and leads five hundred companions all the way to full "
+        "liberation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "In the Kosalan countryside; a story from the time of a past "
+                     "Buddha, Kassapa"),
+        ("Speakers", "The Buddha, narrating to Venerable Ānanda"),
+        ("Form", "an extended narrative, no five-item list"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a long, satisfying "
+                       "closing story"),
+    ],
+    why=(
+        "This chapter's closing story: an imperfect lay follower named Gavesī, "
+        "realizing he's no better than the five hundred companions who look up to him, "
+        "resolves three times over to raise his own bar &mdash; and each time, his "
+        "companions simply follow, all the way to full ordination and, eventually, "
+        "complete liberation."),
+    guide=[
+        ("A smile, and a story from long ago", [
+            "Wandering in Kosala, the Buddha sees a sal grove, enters it, and smiles for "
+            "no announced reason. Ānanda, following the standard convention that "
+            "&lsquo;Realized Ones do not smile for no reason&rsquo;, asks why &mdash; "
+            "prompting the Buddha to tell a story from the time of a previous Buddha, "
+            "Kassapa, without claiming any personal involvement in it himself."]),
+        ("Gavesī and his five hundred: raising the bar together", [
+            "Gavesī, a lay follower who hasn't fully kept the precepts, leads five "
+            "hundred other imperfect lay followers. Three times over, he has the same "
+            "realization &mdash; &lsquo;we're the same, I'm in no way better; so let me "
+            "do better&rsquo; &mdash; and commits publicly to a higher standard: first "
+            "fully keeping the five precepts, then celibacy, then eating only once a "
+            "day. Each time, his five hundred companions, seeing him raise the bar, "
+            "simply choose to match him without being asked."]),
+        ("Full ordination, and going higher still", [
+            "Having matched his companions three times over, Gavesī finally asks "
+            "Kassapa Buddha for full ordination &mdash; and, practicing alone and "
+            "diligently, quickly becomes an arahant. His five hundred companions, "
+            "seeing this, request ordination too. Then Gavesī, now liberated himself, "
+            "wishes the same liberation for them &mdash; and they too, striving "
+            "further, become arahants."]),
+        ("Leadership by raising your own bar", [
+            "What makes Gavesī's leadership work isn't authority or instruction: it's "
+            "that every time he closes the gap between himself and his followers by "
+            "improving himself, they close it too, by improving themselves &mdash; a "
+            "model of leadership through example rather than exhortation, all the way "
+            "to full liberation."]),
+        ("The Buddha's closing lesson for Ānanda", [
+            "The current Buddha draws the lesson directly for Ānanda: &lsquo;trying to "
+            "go higher and higher, better and better&rsquo; is how the supreme bliss of "
+            "freedom is realized &mdash; explicit advice, not only a story about the "
+            "distant past."]),
+        ("The fullest answer to AN 5.176's exhortation", [
+            "Cross-ref AN 5.176, where the Buddha tells Anāthapiṇḍika's assembled lay "
+            "followers not to be content with material support alone. Gavesī is this "
+            "chapter's answer to that exhortation taken as far as it can possibly go "
+            "&mdash; a lay follower who begins imperfect and ends fully liberated."]),
+    ],
+    terms=[
+        ("Kassapa",
+         "a previous Buddha, in whose dispensation this discourse's narrative takes "
+         "place &mdash; not the current Buddha, Gotama."),
+        ("iccetaṁ samasamaṁ, natthi kiñci atirekaṁ",
+         "&ldquo;we're the same, I'm in no way better&rdquo; &mdash; Gavesī's repeated "
+         "moment of self-assessment, prompting each new resolution."),
+        ("handāhaṁ atirekāya",
+         "&ldquo;so let me do better&rdquo; &mdash; Gavesī's repeated resolution, "
+         "following each realization."),
+        ("uttaruttari paṇītapaṇītaṁ",
+         "&ldquo;higher and higher, better and better&rdquo; &mdash; the Buddha's "
+         "closing description of the practice this whole narrative models."),
+        ("brahmacariyapariyosānaṁ",
+         "&ldquo;the culmination of the spiritual path&rdquo; &mdash; the arahantship "
+         "Gavesī, and later his five hundred companions, achieve."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's smile, Gavesī's threefold self-improvement, "
+        "and full liberation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha's smile, and Ānanda's question"),
+        ("p", "&sect;1", "an5.180:1.1-2.6"),
+        ("h3", "Gavesī and his five hundred: raising the bar together"),
+        ("p", "&sect;2", "an5.180:3.1-6.18"),
+        ("h3", "Full ordination, and going higher still"),
+        ("p", "&sect;3", "an5.180:7.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What prompts Ānanda to ask the Buddha a question at the start of this discourse?",
+         "opts": [
+             "The Buddha smiles for no announced reason while walking through a sal grove",
+             "The Buddha weeps unexpectedly",
+             "The Buddha refuses to continue walking",
+             "The Buddha addresses a hostile crowd"],
+         "correct": 0,
+         "expl": "Following the convention that Realized Ones never smile without reason."},
+        {"q": "In whose dispensation does the story the Buddha tells take place?",
+         "opts": [
+             "A previous Buddha, Kassapa, not the current Buddha himself",
+             "The current Buddha's own early life",
+             "A future Buddha not yet born",
+             "No specific Buddha — a purely hypothetical case"],
+         "correct": 0,
+         "expl": "The Buddha narrates without claiming personal involvement."},
+        {"q": "What realization does Gavesī have three times over?",
+         "opts": [
+             "That he's no better than his five hundred followers, so he should do better",
+             "That his followers are far superior to him spiritually",
+             "That he should abandon his followers entirely",
+             "That the five precepts don't actually matter"],
+         "correct": 0,
+         "expl": "Prompting each new stage of self-improvement."},
+        {"q": "What three successive commitments does Gavesī make?",
+         "opts": [
+             "Fully keeping the five precepts, then celibacy, then eating once a day",
+             "Poverty, silence, and solitude",
+             "Public confession, formal apology, and exile",
+             "Wealth redistribution, land donation, and pilgrimage"],
+         "correct": 0,
+         "expl": "Each time raising his own standard of practice."},
+        {"q": "How do Gavesī's five hundred companions respond each time he raises his standard?",
+         "opts": [
+             "They simply choose to match him, without being asked",
+             "They abandon him entirely",
+             "They demand he lower his standard instead",
+             "They report him to the authorities"],
+         "correct": 0,
+         "expl": "Leadership through example, not exhortation."},
+        {"q": "What happens after Gavesī requests full ordination?",
+         "opts": [
+             "He practices diligently alone and quickly becomes an arahant",
+             "He immediately disrobes and returns to lay life",
+             "He is refused ordination",
+             "He spends decades before any progress"],
+         "correct": 0,
+         "expl": "A remarkably swift attainment following his years of gradual self-improvement."},
+        {"q": "What happens to Gavesī's five hundred companions after his ordination and awakening?",
+         "opts": [
+             "They too request ordination, and eventually all become arahants themselves",
+             "They remain lay followers permanently",
+             "They abandon the teaching entirely",
+             "Only half of them choose to follow his example"],
+         "correct": 0,
+         "expl": "Gavesī's wish for their liberation, and their own continued striving, brings this about."},
+        {"q": "What lesson does the current Buddha draw explicitly for Ānanda?",
+         "opts": [
+             "That trying to go higher and higher, better and better, is how supreme freedom is realized",
+             "That only Kassapa Buddha's disciples could ever achieve liberation",
+             "That lay followers should never seek ordination",
+             "That Ānanda personally failed in this story"],
+         "correct": 0,
+         "expl": "Direct, present-tense advice, not only a story about the past."},
+        {"q": "What earlier discourse in this chapter does Gavesī's story most fully answer?",
+         "opts": [
+             "AN 5.176, Rapture — the exhortation not to be content with material support alone",
+             "AN 5.177, Trades",
+             "AN 5.171, Timidity",
+             "AN 5.173, Hell"],
+         "correct": 0,
+         "expl": "Gavesī takes that exhortation as far as it can possibly go."},
+        {"q": "What does 'iccetaṁ samasamaṁ, natthi kiñci atirekaṁ' mean?",
+         "opts": [
+             "We're the same, I'm in no way better",
+             "I am far superior to everyone else",
+             "None of this matters in the end",
+             "The path is impossible for laypeople"],
+         "correct": 0,
+         "expl": "Gavesī's repeated moment of self-assessment, prompting each resolution."},
+    ],
+    marginalia=[
+        ("Three self-raised bars", [
+            "precepts &middot; celibacy",
+            "&middot; one meal a day",
+        ]),
+        ("Leadership by example", [
+            "companions match him,",
+            "unasked, every time",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">uttaruttari paṇītapaṇītaṁ</span>",
+            "&mdash; higher and",
+            "higher, better and",
+            "better",
+        ]),
+        ("Cross-references", [
+            "AN 5.176 &middot; the exhortation Gavesī's story answers most fully",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.180/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.179.html">AN 5.179 &middot; A Layperson</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.176.html">AN 5.176 &middot; Rapture</a> &mdash; the exhortation '
+        "Gavesī&rsquo;s story answers most fully.",
+        '<a href="an-5.171.html">AN 5.171 &middot; Timidity</a> &mdash; this chapter&rsquo;s '
+        "opening discourse.",
+    ],
+)
