@@ -8,11 +8,10 @@ INDEX_HEADING = "Pañcaka Nipāta — The Fives"
 # before this series began working in order, in the earlier eighteen-page
 # selection; they are listed in the index by INDEX_EXTRA and are not
 # generated here. HEAD points at the last page the Fours module reached, now
-# fixed at 510/510. TAIL points at the nearest already-published page beyond
-# the Fives -- an-6.16.html, from the same earlier selection -- until the
-# Sixes module exists and TAIL can move to its own first page.
+# fixed at 510/510. TAIL points at the Sixes module's own first page, now
+# that an_content_06.py exists.
 HEAD = ("an-4.304-783.html", "AN 4.304&ndash;783 &middot; Insight into Hate, and So On")
-TAIL = ("an-6.16.html", "AN 6.16 &middot; Nakula&rsquo;s Father")
+TAIL = ("an-6.1.html", "AN 6.1 &middot; Worthy of Offerings (1st)")
 INDEX_EXTRA = [
     ("an-5.28", "Pañcaṅgika", "With Five Factors"),
     ("an-5.57", "Anussatiṭṭhāna", "Subjects for Regular Reviewing"),
