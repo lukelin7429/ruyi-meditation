@@ -53600,3 +53600,1239 @@ PAGES.append({
         "comparable scale.",
     ],
 })
+# --------------------------------------------------------------------------- #
+# AN 5.303 — Untitled Discourse on Greed (1st)
+# --------------------------------------------------------------------------- #
+VAGGA_29 = "<em>Rāgapeyyāla</em> &mdash; the twenty-ninth and final chapter of the Fives"
+
+page(
+    303, "Rāga (1)", "Untitled Discourse on Greed (1st)",
+    vagga=VAGGA_29,
+    subtitle="No Pali title given in the source, marked only by a tilde &mdash; "
+             "<em>Rāgapeyyāla</em>, the twenty-ninth and final chapter of the Fives",
+    meta_title="AN 5.303 — Untitled Discourse on Greed (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the opening discourse of "
+        "the Rāgapeyyāla, the Fives' final chapter — AN 5.61's five perceptions, restated as "
+        "what should be developed for insight into greed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single five-item list of things to be developed, stated once"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening the "
+                       "Fives' final chapter"),
+    ],
+    why=(
+        "This chapter opens the Fives' closing peyyāla, the same kind of combinatorial "
+        "appendix that closed the Threes and the Fours in this project. This first discourse "
+        "restates a formula already met in full at AN 5.61: five perceptions, now framed not "
+        "as a chapter's opening topic but as what should be developed &lsquo;for insight into "
+        "greed&rsquo;."),
+    guide=[
+        ("The Fives' final chapter begins", [
+            "The Rāgapeyyāla (&ldquo;Abbreviated Texts Beginning With Greed&rdquo;) is this "
+            "book's closing appendix, matching the same combinatorial device that closed the "
+            "Threes at <a href=\"an-3.183-352.html\">AN 3.183&ndash;352</a> and the Fours at "
+            "<a href=\"an-4.304-783.html\">AN 4.304&ndash;783</a>: a defilement list crossed "
+            "against a sequence of verbs, here crossed against a further dimension unique to "
+            "this chapter, a rotating set of five-item development lists."]),
+        ("A perception list already met in full", [
+            "The five items named here &mdash; the perceptions of ugliness, death, drawbacks, "
+            "food's repulsiveness, and dissatisfaction with the whole world &mdash; are "
+            "identical to <a href=\"an-5.61.html\">AN 5.61</a>, this project's very first "
+            "encounter with the Saññāvagga's chapter-opening list."]),
+        ("A new frame: insight into greed", [
+            "Where AN 5.61 introduced these five perceptions on their own terms, this "
+            "discourse reframes them entirely: they are what should be developed "
+            "(<em>bhāvetabbā</em>) specifically &lsquo;for insight into greed&rsquo; "
+            "(<em>rāgassa abhiññāya</em>) &mdash; the first term in what becomes, across this "
+            "chapter, a lengthening cross-product of defilements, verbs, and development-lists."]),
+        ("Untitled, and why", [
+            "Unlike almost every other discourse in this book, the Pali source gives this "
+            "discourse no title of its own, marked only by a tilde in the outline. This "
+            "reading guide supplies a plain, functional label rather than inventing a title "
+            "the source does not provide."]),
+        ("What follows", [
+            "AN 5.304 through AN 5.307 restate this identical &lsquo;for insight into "
+            "greed&rsquo; frame four more times, each with a different five-item development "
+            "list, before the chapter's single giant merged page takes over the entire "
+            "remaining cross-product."]),
+    ],
+    terms=[
+        ("rāga",
+         "&ldquo;greed&rdquo; &mdash; this chapter's title concept, and the first item in the "
+         "seventeen-item defilement list already used to close the Threes and the Fours."),
+        ("abhiññā",
+         "&ldquo;insight&rdquo; or &ldquo;direct knowledge&rdquo; &mdash; the first of ten "
+         "verbs this chapter will eventually run against every defilement."),
+        ("asubhasaññā, maraṇasaññā, ādīnavasaññā",
+         "the perceptions of ugliness, death, and drawbacks &mdash; three of this discourse's "
+         "five items, identical to AN 5.61."),
+        ("āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā",
+         "the perceptions of food's repulsiveness and dissatisfaction with the whole world "
+         "&mdash; the remaining two items, also identical to AN 5.61."),
+        ("bhāvetabbā",
+         "&ldquo;should be developed&rdquo; &mdash; the verb naming this chapter's central "
+         "instruction, applied identically across every combination to come."),
+    ],
+    text_intro=(
+        "The discourse in full: five perceptions, reframed as what should be developed for "
+        "insight into greed. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things to develop, for insight into greed"),
+        ("p", "&sect;1", "an5.303:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Rāgapeyyāla, the Fives' final chapter",
+             "Sikkhāpadapeyyāla",
+             "Sammutipeyyāla",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "This session's twenty-ninth and final chapter of the Fives."},
+        {"q": "Where does this exact five-item perception list already appear in full?",
+         "opts": [
+             "AN 5.61, this project's first encounter with the Saññāvagga's opening list",
+             "Nowhere else in this collection",
+             "AN 5.145",
+             "AN 5.224"],
+         "correct": 0,
+         "expl": "There introduced on its own terms; here reframed around greed."},
+        {"q": "What new frame does this discourse place around the five perceptions?",
+         "opts": [
+             "What should be developed specifically for insight into greed",
+             "What should be avoided entirely",
+             "A list of five kinds of stinginess",
+             "A list of monastic offices"],
+         "correct": 0,
+         "expl": "'Bhāvetabbā... rāgassa abhiññāya' — should be developed for insight into greed."},
+        {"q": "Why does this discourse have no individual title in the Pali source?",
+         "opts": [
+             "The source marks it only with a tilde, and this guide supplies a plain functional label rather than inventing one",
+             "All discourses in this book lack titles",
+             "The title was accidentally lost by this reading guide",
+             "It shares AN 5.61's exact title"],
+         "correct": 0,
+         "expl": "Consistent with this chapter's terse, formulaic style throughout."},
+        {"q": "What combinatorial devices did this project already meet, closing earlier books?",
+         "opts": [
+             "AN 3.183&ndash;352, closing the Threes, and AN 4.304&ndash;783, closing the Fours",
+             "No earlier book used a comparable device",
+             "Only the Twos used a comparable device",
+             "This device is entirely unique to the Fives"],
+         "correct": 0,
+         "expl": "The same defilement-times-verb combinatorial mechanism, now with a third dimension added."},
+        {"q": "What does 'rāga' mean, and what is its place in the seventeen-item defilement list?",
+         "opts": [
+             "'Greed' — the first item in the list already used to close the Threes and Fours",
+             "'Hate' — the second item in the list",
+             "A term unrelated to any defilement list",
+             "'Wisdom'"],
+         "correct": 0,
+         "expl": "This chapter's title concept and starting point."},
+        {"q": "What does 'abhiññā' mean?",
+         "opts": [
+             "'Insight' or 'direct knowledge' — the first of ten verbs this chapter will use",
+             "'Stinginess'",
+             "'Ordination'",
+             "'A trainee'"],
+         "correct": 0,
+         "expl": "The specific verb naming this discourse's particular combination."},
+        {"q": "How many more discourses restate this same 'insight into greed' frame with a different five-item list, before the chapter's giant merged page takes over?",
+         "opts": [
+             "Four: AN 5.304 through AN 5.307",
+             "None; the merged page begins immediately",
+             "Ten",
+             "One hundred"],
+         "correct": 0,
+         "expl": "AN 5.303&ndash;307 together establish all five development-lists individually."},
+        {"q": "What does 'bhāvetabbā' mean?",
+         "opts": [
+             "'Should be developed'",
+             "'Should be given up'",
+             "'Should be appointed'",
+             "'Should be ordained'"],
+         "correct": 0,
+         "expl": "This chapter's central recurring instruction verb."},
+        {"q": "How is this discourse's form described?",
+         "opts": [
+             "A single five-item list of things to be developed, stated once",
+             "A long narrative with multiple speakers",
+             "A poem in verse",
+             "A dialogue with a wanderer"],
+         "correct": 0,
+         "expl": "Among the shortest and most formulaic discourses in this entire book."},
+    ],
+    marginalia=[
+        ("A list already met", [
+            "the five perceptions,",
+            "first full at AN 5.61",
+        ]),
+        ("A new frame", [
+            "not a chapter's topic now,",
+            "but insight into greed",
+        ]),
+        ("The final chapter opens", [
+            "Rāgapeyyāla &mdash;",
+            "the Fives' closing appendix",
+        ]),
+        ("What's ahead", [
+            "four more variants,",
+            "then one giant merged page",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.303/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.61.html">AN 5.61 &middot; Perceptions (1st)</a> &mdash; this identical '
+        "five-item list&rsquo;s original appearance.",
+        '<a href="an-4.304-783.html">AN 4.304&ndash;783 &middot; Insight into Hate, and So '
+        "On</a> &mdash; the Fours&rsquo; own closing peyyāla, sharing this chapter&rsquo;s "
+        "defilement-and-verb mechanism.",
+        '<a href="an-5.304.html">AN 5.304 &middot; Untitled Discourse on Greed (2nd)</a> '
+        "&mdash; next, the identical frame with a different five-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.304 — Untitled Discourse on Greed (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    304, "Rāga (2)", "Untitled Discourse on Greed (2nd)",
+    vagga=VAGGA_29,
+    subtitle="No Pali title given in the source, marked only by a tilde &mdash; "
+             "<em>Rāgapeyyāla</em>, the twenty-ninth and final chapter of the Fives",
+    meta_title="AN 5.304 — Untitled Discourse on Greed (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second untitled "
+        "discourse on greed — AN 5.62's five perceptions, restated under this chapter's "
+        "insight-into-greed frame. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.303's structure, one development-list swapped"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, the second of "
+                       "five parallel opening discourses"),
+    ],
+    why=(
+        "The identical &lsquo;insight into greed&rsquo; frame from AN 5.303, with a different "
+        "five-item development list: the perceptions of impermanence, not-self, death, food's "
+        "repulsiveness, and dissatisfaction with the whole world, already given in full at AN "
+        "5.62 as the paired variant of AN 5.61."),
+    guide=[
+        ("The second of five parallel discourses", [
+            "AN 5.303 through AN 5.307 all share the identical opening and closing formula, "
+            "&lsquo;for insight into greed, five things should be developed&rsquo;, varying "
+            "only which five-item list fills the middle. This discourse supplies the second."]),
+        ("A list already met in full", [
+            "Impermanence, not-self, death, food's repulsiveness, and dissatisfaction with the "
+            "whole world &mdash; identical to <a href=\"an-5.62.html\">AN 5.62</a>, which "
+            "itself was built by swapping two items out of AN 5.61's list."]),
+        ("Two lists, two chapters, one origin", [
+            "This discourse and AN 5.303 draw their content from the same pair of "
+            "Saññāvagga discourses that opened this project's seventh chapter, now repurposed "
+            "under an entirely different organizing frame &mdash; insight into a specific "
+            "defilement, rather than perception practice in general."]),
+        ("Why the source reuses whole discourses this way", [
+            "Rather than composing five entirely new lists for this closing chapter, the "
+            "source draws on material already established earlier in the same book, treating "
+            "them as ready-made building blocks for its final combinatorial appendix."]),
+        ("What follows", [
+            "AN 5.305 supplies a third development list &mdash; not a flat set of topics this "
+            "time, but a progressive chain of five linked insights."]),
+    ],
+    terms=[
+        ("aniccasaññā, anattasaññā",
+         "the perceptions of impermanence and not-self &mdash; the two items distinguishing "
+         "this list from AN 5.303's, identical to AN 5.62."),
+        ("maraṇasaññā",
+         "the perception of death &mdash; carried over unchanged from AN 5.303 and AN 5.61."),
+        ("āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā",
+         "the perceptions of food's repulsiveness and dissatisfaction with the whole world "
+         "&mdash; also carried over unchanged."),
+        ("rāgassa abhiññāya",
+         "&ldquo;for insight into greed&rdquo; &mdash; the identical frame shared by all five "
+         "opening discourses of this chapter."),
+        ("bhāvetabbā",
+         "&ldquo;should be developed&rdquo; &mdash; this chapter's recurring instruction verb, "
+         "unchanged from AN 5.303."),
+    ],
+    text_intro=(
+        "The discourse in full: a second five-item list, reframed as what should be developed "
+        "for insight into greed. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things to develop, for insight into greed"),
+        ("p", "&sect;1", "an5.304:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five items does this discourse list?",
+         "opts": [
+             "Impermanence, not-self, death, food's repulsiveness, and dissatisfaction with the whole world",
+             "Ugliness, death, drawbacks, food's repulsiveness, and dissatisfaction with the whole world",
+             "The five hindrances",
+             "The five faculties"],
+         "correct": 0,
+         "expl": "Identical to AN 5.62's list."},
+        {"q": "Where does this exact list already appear in full?",
+         "opts": [
+             "AN 5.62, built by swapping two items out of AN 5.61's list",
+             "Nowhere else in this collection",
+             "AN 5.145",
+             "AN 5.286"],
+         "correct": 0,
+         "expl": "The Saññāvagga's second discourse, now repurposed under this chapter's frame."},
+        {"q": "What frame does this discourse share with AN 5.303?",
+         "opts": [
+             "'For insight into greed, five things should be developed'",
+             "An entirely different, unrelated frame",
+             "A frame about monastic appointments",
+             "A frame about ordination qualification"],
+         "correct": 0,
+         "expl": "Identical opening and closing formula across AN 5.303&ndash;307."},
+        {"q": "What does the guide say about why the source reuses whole discourses this way?",
+         "opts": [
+             "It draws on material already established earlier in the book as ready-made building blocks for its closing appendix",
+             "It is an accidental duplication with no purpose",
+             "Every discourse in this collection is composed entirely fresh, with no reuse",
+             "The source explicitly apologizes for the repetition"],
+         "correct": 0,
+         "expl": "A deliberate compositional strategy for this kind of closing peyyāla."},
+        {"q": "What kind of list does AN 5.305 supply next?",
+         "opts": [
+             "Not a flat set of topics, but a progressive chain of five linked insights",
+             "An identical list to this discourse's",
+             "A list of monastic offices",
+             "A list of rival ascetic groups"],
+         "correct": 0,
+         "expl": "A structurally different kind of five-item list from the first two."},
+        {"q": "What item from AN 5.303's list does this discourse drop?",
+         "opts": [
+             "Ugliness and drawbacks, replaced by impermanence and not-self",
+             "Death, replaced by an entirely new item",
+             "Nothing is dropped; all five items are identical",
+             "Food's repulsiveness, replaced by stinginess"],
+         "correct": 0,
+         "expl": "Matching exactly how AN 5.62 was built from AN 5.61."},
+        {"q": "What common source chapter do AN 5.303 and AN 5.304 both draw their lists from?",
+         "opts": [
+             "The Saññāvagga, this project's seventh chapter",
+             "The Upasampadāvagga",
+             "The Sikkhāpadapeyyāla",
+             "No earlier chapter; both lists are newly composed here"],
+         "correct": 0,
+         "expl": "AN 5.61 and AN 5.62 specifically."},
+        {"q": "What does 'aniccasaññā' mean?",
+         "opts": [
+             "The perception of impermanence",
+             "The perception of not-self",
+             "The perception of death",
+             "The perception of ugliness"],
+         "correct": 0,
+         "expl": "One of the two items distinguishing this list from AN 5.303's."},
+        {"q": "How many of this chapter's five opening discourses does this page represent?",
+         "opts": [
+             "The second of five",
+             "The first of five",
+             "The last of five",
+             "This is the only one of its kind"],
+         "correct": 0,
+         "expl": "AN 5.303&ndash;307 together establish all five development-lists this chapter cycles through."},
+        {"q": "What verb governs this discourse's instruction, unchanged from AN 5.303?",
+         "opts": [
+             "Bhāvetabbā, 'should be developed'",
+             "Pahātabbā, 'should be given up'",
+             "Sammannitabba, 'should be appointed'",
+             "Upasampādetabba, 'should be ordained'"],
+         "correct": 0,
+         "expl": "This chapter's recurring central instruction."},
+    ],
+    marginalia=[
+        ("The second list", [
+            "impermanence, not-self,",
+            "death, food, the world",
+        ]),
+        ("Already met in full", [
+            "identical to AN 5.62,",
+            "the Saññāvagga's own pair",
+        ]),
+        ("Reused, not invented", [
+            "the source draws on",
+            "material from earlier chapters",
+        ]),
+        ("What's ahead", [
+            "a progressive chain next,",
+            "not a flat list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.304/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.62.html">AN 5.62 &middot; Perceptions (2nd)</a> &mdash; this identical '
+        "five-item list&rsquo;s original appearance.",
+        '<a href="an-5.303.html">AN 5.303 &middot; Untitled Discourse on Greed (1st)</a> '
+        "&mdash; the previous discourse, and this shared frame's first appearance.",
+        '<a href="an-5.305.html">AN 5.305 &middot; Untitled Discourse on Greed (3rd)</a> '
+        "&mdash; next, a progressive chain rather than a flat list.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.305 — Untitled Discourse on Greed (3rd)
+# --------------------------------------------------------------------------- #
+page(
+    305, "Rāga (3)", "Untitled Discourse on Greed (3rd)",
+    vagga=VAGGA_29,
+    subtitle="No Pali title given in the source, marked only by a tilde &mdash; "
+             "<em>Rāgapeyyāla</em>, the twenty-ninth and final chapter of the Fives",
+    meta_title="AN 5.305 — Untitled Discourse on Greed (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the third untitled "
+        "discourse on greed — AN 5.72's progressive five-step insight chain, restated under "
+        "this chapter's insight-into-greed frame. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.303&ndash;304's structure, with a chained progression in place of a "
+                 "flat list"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, the third of "
+                       "five parallel opening discourses"),
+    ],
+    why=(
+        "The third development list under this chapter's shared frame, and structurally "
+        "different from the first two: not five separate topics, but a single progressive "
+        "chain, already given in full at AN 5.72 &mdash; impermanence, then suffering within "
+        "impermanence, then not-self within that suffering, then giving up, then fading "
+        "away."),
+    guide=[
+        ("A chain, not a flat list", [
+            "Where AN 5.303 and AN 5.304 each named five separate perceptions side by side, "
+            "this discourse's five items form a single deepening sequence, already explained "
+            "in full at <a href=\"an-5.72.html\">AN 5.72</a>: each step builds directly on the "
+            "realization of the one before it."]),
+        ("The chain itself", [
+            "Impermanence noticed first; then the suffering bound up in anything impermanent; "
+            "then the absence of any self within that suffering; then a resulting willingness "
+            "to give up; and finally the fading away of what has been given up &mdash; five "
+            "stages, not five topics."]),
+        ("Why this list qualifies alongside the other four", [
+            "Despite its different internal shape, this five-item chain fits the same "
+            "&lsquo;five things should be developed&rsquo; slot as AN 5.303's and AN 5.304's "
+            "flat lists and AN 5.306&ndash;307's faculty and power lists to come: the chapter's "
+            "combinatorial frame does not require its five development-lists to share a common "
+            "internal structure, only a common count."]),
+        ("A formula found widely elsewhere", [
+            "As already noted at AN 5.72, this particular five-step chain &mdash; "
+            "impermanence, suffering, not-self, giving up, fading away &mdash; is a "
+            "well-known formula found widely across the early canon, not unique to this "
+            "collection."]),
+        ("What follows", [
+            "AN 5.306 supplies a fourth development list, and it is one this project has met "
+            "many times before: the five faculties that opened this entire book."]),
+    ],
+    terms=[
+        ("aniccasaññā",
+         "the perception of impermanence, the first link in this discourse's chain."),
+        ("dukkhe anattasaññā",
+         "&ldquo;the perception of not-self within suffering&rdquo; &mdash; the third link, "
+         "building directly on the second."),
+        ("pahānasaññā, virāgasaññā",
+         "the perceptions of giving up and fading away &mdash; the chain's final two links."),
+        ("rāgassa abhiññāya",
+         "&ldquo;for insight into greed&rdquo; &mdash; the identical frame shared by all five "
+         "opening discourses of this chapter."),
+        ("bhāvetabbā",
+         "&ldquo;should be developed&rdquo; &mdash; this chapter's recurring instruction verb, "
+         "applying equally to a flat list or a chained sequence."),
+    ],
+    text_intro=(
+        "The discourse in full: a progressive five-step chain, reframed as what should be "
+        "developed for insight into greed. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things to develop, for insight into greed"),
+        ("p", "&sect;1", "an5.305:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What structural difference sets this discourse's five items apart from AN 5.303&ndash;304's?",
+         "opts": [
+             "A single progressive chain, each step building on the one before, rather than five separate topics",
+             "No difference; the content is identical",
+             "This discourse has only four items, not five",
+             "This discourse uses verse instead of prose"],
+         "correct": 0,
+         "expl": "Already explained in full at AN 5.72."},
+        {"q": "What are the five links in this discourse's chain, in order?",
+         "opts": [
+             "Impermanence, suffering within impermanence, not-self within that suffering, giving up, fading away",
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "Ugliness, death, drawbacks, food's repulsiveness, dissatisfaction",
+             "The five hindrances"],
+         "correct": 0,
+         "expl": "Each step builds directly on the realization of the one before it."},
+        {"q": "Where does this exact chain already appear in full?",
+         "opts": [
+             "AN 5.72",
+             "AN 5.61",
+             "AN 5.145",
+             "Nowhere else in this collection"],
+         "correct": 0,
+         "expl": "This project's earlier, full explanation of the same five-step sequence."},
+        {"q": "What does the guide say about this chapter's combinatorial frame accepting both flat lists and chains?",
+         "opts": [
+             "The frame requires only a common count of five, not a common internal structure",
+             "Only flat lists are permitted; this discourse is an exception that breaks the pattern",
+             "Chains are never used anywhere else in this book",
+             "The frame requires exactly the same five items every time"],
+         "correct": 0,
+         "expl": "AN 5.303&ndash;304's flat lists and this discourse's chain both fill the identical formula slot."},
+        {"q": "What does the guide note about how widely this particular five-step chain appears?",
+         "opts": [
+             "It is a well-known formula found widely across the early canon, not unique to this collection",
+             "It appears nowhere outside this single discourse",
+             "It was invented specifically for this closing chapter",
+             "It is found only in the Fives, nowhere else in the canon"],
+         "correct": 0,
+         "expl": "Already noted at AN 5.72."},
+        {"q": "What development list does AN 5.306 supply next?",
+         "opts": [
+             "The five faculties, already met many times earlier in this book",
+             "An entirely new list never seen before",
+             "A list of monastic offices",
+             "A list of rival ascetic groups"],
+         "correct": 0,
+         "expl": "The formula that opened this entire book, about to make a full-circle return."},
+        {"q": "What is 'dukkhe anattasaññā'?",
+         "opts": [
+             "The perception of not-self within suffering, the third link in this chain",
+             "The perception of impermanence, the first link",
+             "A term unrelated to this discourse's chain",
+             "A synonym for stinginess"],
+         "correct": 0,
+         "expl": "Building directly on the chain's second link, suffering within impermanence."},
+        {"q": "How many discourses total make up this chapter's opening set of parallel discourses?",
+         "opts": [
+             "Five: AN 5.303 through AN 5.307",
+             "Three",
+             "Ten",
+             "This discourse stands alone, unconnected to any others"],
+         "correct": 0,
+         "expl": "Each supplying one of five development-lists under the identical frame."},
+        {"q": "What verb governs this discourse's instruction?",
+         "opts": [
+             "Bhāvetabbā, 'should be developed'",
+             "Pahātabbā, 'should be given up'",
+             "Sammannitabba, 'should be appointed'",
+             "Upasampādetabba, 'should be ordained'"],
+         "correct": 0,
+         "expl": "Unchanged from AN 5.303&ndash;304."},
+        {"q": "What did AN 5.71, the twin this chain's source discourse pairs with, use instead of a chain?",
+         "opts": [
+             "Five separate topics observed side by side",
+             "An identical chain",
+             "A narrative with named individuals",
+             "A different defilement entirely"],
+         "correct": 0,
+         "expl": "Already noted at AN 5.72, this discourse's own source."},
+    ],
+    marginalia=[
+        ("Not a list, a chain", [
+            "impermanence &rarr; suffering",
+            "&rarr; not-self &rarr; giving up &rarr; fading",
+        ]),
+        ("Already met in full", [
+            "identical to AN 5.72,",
+            "the Yodhājīvavagga's own pair",
+        ]),
+        ("Same slot, different shape", [
+            "flat lists or chains,",
+            "both fit 'five things developed'",
+        ]),
+        ("What's ahead", [
+            "the faculties next,",
+            "a formula from this book's start",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.305/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.72.html">AN 5.72 &middot; A Fortress (2nd)</a> &mdash; this identical '
+        "five-step chain&rsquo;s original, full appearance.",
+        '<a href="an-5.304.html">AN 5.304 &middot; Untitled Discourse on Greed (2nd)</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.306.html">AN 5.306 &middot; Untitled Discourse on Greed (4th)</a> '
+        "&mdash; next, the five faculties that opened this entire book.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.306 — Untitled Discourse on Greed (4th)
+# --------------------------------------------------------------------------- #
+page(
+    306, "Rāga (4)", "Untitled Discourse on Greed (4th)",
+    vagga=VAGGA_29,
+    subtitle="No Pali title given in the source, marked only by a tilde &mdash; "
+             "<em>Rāgapeyyāla</em>, the twenty-ninth and final chapter of the Fives",
+    meta_title="AN 5.306 — Untitled Discourse on Greed (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the fourth untitled "
+        "discourse on greed — the five faculties of faith, energy, mindfulness, immersion, "
+        "and wisdom, a formula genuinely new to this book despite its familiar name. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.303&ndash;305's structure, with the classic five faculties as the "
+                 "development list"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The five faculties (indriya) are foundational across all "
+                              "Buddhist traditions; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and worth "
+                       "distinguishing carefully from a formula this book has used before"),
+    ],
+    why=(
+        "A formula that sounds familiar but genuinely is not. This discourse's development "
+        "list is faith, energy, mindfulness, immersion, and wisdom &mdash; the more widely "
+        "known version of the five faculties. It is easy to mistake this for the "
+        "<em>sekhabala</em> that opened this book at AN 5.1, but that formula, and every "
+        "recurrence of it since, substitutes conscience and prudence for mindfulness and "
+        "immersion. This is a different list, appearing under this exact wording for the "
+        "first time in this project."),
+    guide=[
+        ("A name that invites confusion", [
+            "This discourse's five items &mdash; <em>saddhindriya, vīriyindriya, satindriya, "
+            "samādhindriya, paññindriya</em> &mdash; are the faculties of faith, energy, "
+            "mindfulness, immersion, and wisdom, the version of this formula most commonly "
+            "cited across Buddhist traditions generally."]),
+        ("Not the book's own recurring variant", [
+            "This book's own formula, first stated at <a href=\"an-5.1.html\">AN 5.1</a> as "
+            "the <em>sekhabala</em> and repeated as the <em>tathāgatabala</em> at "
+            "<a href=\"an-5.11.html\">AN 5.11</a> and again at "
+            "<a href=\"an-5.204.html\">AN 5.204</a>, substitutes conscience "
+            "(<em>hiri</em>) and prudence (<em>ottappa</em>) for mindfulness and immersion. "
+            "AN 5.204 itself already flagged this as &lsquo;a different formula from the "
+            "more famous five bala&rsquo; &mdash; a difference this discourse's own wording "
+            "now confirms directly, since it uses the terms AN 5.204 said this book does not "
+            "use."]),
+        ("Genuinely new material, this late in the book", [
+            "This exact five-item combination &mdash; with mindfulness and immersion rather "
+            "than conscience and prudence &mdash; does not appear anywhere earlier in this "
+            "project's coverage of the Fives. Its first full appearance, under this precise "
+            "wording, is here, four discourses before the book's very last page."]),
+        ("Faculties, and powers to follow", [
+            "This discourse names the five as <em>indriya</em>, faculties; AN 5.307, "
+            "immediately next, restates the identical five under the <em>bala</em>, powers, "
+            "framing &mdash; the same faculty/power distinction this book has drawn before, "
+            "now applied to this different underlying list."]),
+        ("What follows", [
+            "AN 5.307 supplies this chapter's fifth and final individually stated development "
+            "list: the same five qualities once more, named this time as powers."]),
+    ],
+    terms=[
+        ("saddhindriya, vīriyindriya, satindriya, samādhindriya, paññindriya",
+         "the faculties of faith, energy, mindfulness, immersion, and wisdom &mdash; the "
+         "widely known version of this formula, distinct from this book's own recurring "
+         "variant."),
+        ("sekhabala",
+         "&ldquo;powers of a trainee&rdquo;, this book's own formula from AN 5.1: faith, "
+         "conscience, prudence, energy, wisdom &mdash; substituting conscience and prudence "
+         "for this discourse's mindfulness and immersion."),
+        ("sati, samādhi",
+         "mindfulness and immersion &mdash; the two items that distinguish this discourse's "
+         "list from the sekhabala/tathāgatabala formula used elsewhere in this book."),
+        ("hiri, ottappa",
+         "conscience and prudence &mdash; the two items this book's own recurring formula "
+         "uses in place of this discourse's mindfulness and immersion."),
+        ("rāgassa abhiññāya",
+         "&ldquo;for insight into greed&rdquo; &mdash; the identical frame shared by all five "
+         "opening discourses of this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the five faculties, reframed as what should be developed for "
+        "insight into greed. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things to develop, for insight into greed"),
+        ("p", "&sect;1", "an5.306:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five items does this discourse name as its development list?",
+         "opts": [
+             "The faculties of faith, energy, mindfulness, immersion, and wisdom",
+             "The five hindrances",
+             "The five kinds of stinginess",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "The widely known version of the five faculties."},
+        {"q": "Is this the same formula that opened this book at AN 5.1?",
+         "opts": [
+             "No — AN 5.1's sekhabala substitutes conscience and prudence for mindfulness and immersion",
+             "Yes, worded identically in every respect",
+             "Yes, but only in the Pali, not the English",
+             "There is no way to compare the two"],
+         "correct": 0,
+         "expl": "Easy to mistake for one another, but genuinely different lists."},
+        {"q": "Where did this book already flag the distinction this discourse now confirms?",
+         "opts": [
+             "AN 5.204, which explicitly called its own formula 'a different formula from the more famous five bala'",
+             "Nowhere; this is the first mention of any such distinction",
+             "AN 5.1 itself already used this discourse's exact wording",
+             "AN 5.145"],
+         "correct": 0,
+         "expl": "AN 5.204's own guide names the distinction directly."},
+        {"q": "What two items does this discourse's list include that this book's own recurring formula does not?",
+         "opts": [
+             "Mindfulness (sati) and immersion (samādhi)",
+             "Conscience (hiri) and prudence (ottappa)",
+             "Faith and wisdom",
+             "Energy alone"],
+         "correct": 0,
+         "expl": "The book's own formula substitutes conscience and prudence for these two."},
+        {"q": "How does the guide describe this discourse's appearance this late in the book?",
+         "opts": [
+             "Genuinely new material — this exact five-item combination has not appeared earlier in this project",
+             "A simple repetition of AN 5.1, nothing new",
+             "An error introduced by this reading guide",
+             "Identical to every discourse in the Sekhabalavagga"],
+         "correct": 0,
+         "expl": "Its first full appearance under this precise wording is here."},
+        {"q": "What term does this discourse use for the five qualities?",
+         "opts": [
+             "Indriya, 'faculty'",
+             "Bala, 'power', identical to AN 5.11",
+             "Macchariya, 'stinginess'",
+             "Asekha, 'an adept'"],
+         "correct": 0,
+         "expl": "AN 5.307, next, restates the same list as bala, powers."},
+        {"q": "What does 'hiri' and 'ottappa' mean, and where do they appear in this book?",
+         "opts": [
+             "Conscience and prudence — the items this book's own recurring formula uses instead of mindfulness and immersion",
+             "Mindfulness and immersion themselves",
+             "Two of the ten verbs used throughout this chapter",
+             "Terms unrelated to any formula in this book"],
+         "correct": 0,
+         "expl": "First named at AN 5.1, and recurring at AN 5.11 and AN 5.204."},
+        {"q": "What frame does this discourse share with AN 5.303&ndash;305?",
+         "opts": [
+             "'For insight into greed, five things should be developed'",
+             "An entirely different frame about ordination",
+             "A frame about monastic appointments",
+             "No shared frame; each of these discourses is unrelated"],
+         "correct": 0,
+         "expl": "Unchanged across all five opening discourses of this chapter."},
+        {"q": "What does AN 5.307 do with this same five-item formula next?",
+         "opts": [
+             "Restates it once more, named as powers rather than faculties",
+             "Replaces it with an entirely new formula",
+             "Drops it entirely",
+             "Reduces it to three items"],
+         "correct": 0,
+         "expl": "This chapter's fifth and final individually stated development list."},
+        {"q": "What is this discourse's overall form?",
+         "opts": [
+             "AN 5.303&ndash;305's structure, with the classic five faculties as the development list",
+             "An entirely unique structure found nowhere else in this chapter",
+             "A long narrative with multiple speakers",
+             "A poem in verse"],
+         "correct": 0,
+         "expl": "Identical opening and closing formula, differing only in content."},
+    ],
+    marginalia=[
+        ("A familiar-sounding name", [
+            "faith, energy, mindfulness,",
+            "immersion, wisdom",
+        ]),
+        ("Not the book's own formula", [
+            "sekhabala uses hiri, ottappa",
+            "instead of sati, samādhi",
+        ]),
+        ("Flagged once already", [
+            "AN 5.204: 'a different",
+            "formula from the more famous five'",
+        ]),
+        ("Genuinely new, this late", [
+            "first full appearance",
+            "of this exact combination",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.306/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.204.html">AN 5.204 &middot; Powers</a> &mdash; where this book '
+        "explicitly distinguished its own recurring formula from this more widely known one.",
+        '<a href="an-5.1.html">AN 5.1 &middot; In Brief</a> &mdash; this book&rsquo;s actual '
+        "opening formula, the sekhabala, using conscience and prudence instead.",
+        '<a href="an-5.307.html">AN 5.307 &middot; Untitled Discourse on Greed (5th)</a> '
+        "&mdash; next, this same formula once more, named as powers.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.307 — Untitled Discourse on Greed (5th)
+# --------------------------------------------------------------------------- #
+page(
+    307, "Rāga (5)", "Untitled Discourse on Greed (5th)",
+    vagga=VAGGA_29,
+    subtitle="No Pali title given in the source, marked only by a tilde &mdash; "
+             "<em>Rāgapeyyāla</em>, the twenty-ninth and final chapter of the Fives",
+    meta_title="AN 5.307 — Untitled Discourse on Greed (5th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the fifth and final "
+        "untitled discourse on greed — AN 5.306's five faculties restated as powers, "
+        "completing this chapter's set of five development lists. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 5.306's identical five items, renamed from faculties to powers"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The five powers (bala) are foundational across all Buddhist "
+                              "traditions; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, completing this "
+                       "chapter's set of five individually stated discourses"),
+    ],
+    why=(
+        "The fifth and final individually stated development list in this chapter: the "
+        "identical five items from AN 5.306 &mdash; faith, energy, mindfulness, immersion, "
+        "wisdom &mdash; renamed from <em>indriya</em>, faculties, to <em>bala</em>, powers. "
+        "With this discourse, the chapter's opening set of five parallel discourses is "
+        "complete, and the giant merged page that closes this entire book takes over."),
+    guide=[
+        ("The same five, renamed", [
+            "<em>Saddhābala, vīriyabala, satibala, samādhibala, paññābala</em> &mdash; word "
+            "for word the same five qualities as <a href=\"an-5.306.html\">AN 5.306</a>'s "
+            "faculties, now named powers instead."],),
+        ("Completing, not adding, a distinction", [
+            "This faculty/power naming shift for the identical underlying five items mirrors "
+            "the pattern already used for this book's own formula, the sekhabala renamed "
+            "tathāgatabala at AN 5.11. Here the pairing completes within this single chapter, "
+            "across two adjacent discourses, rather than across a whole book."]),
+        ("Five discourses, five development lists, complete", [
+            "With this discourse, AN 5.303&ndash;307 have together supplied all five "
+            "development lists this chapter's combinatorial formula requires: two flat "
+            "perception lists, one progressive perception chain, and this faculty/power pair "
+            "&mdash; the material the closing merged page will now cross against every "
+            "remaining defilement and verb."]),
+        ("Why these five discourses come first", [
+            "Giving all five development lists their own individual, fully spelled-out "
+            "discourse before the merged page begins lets a reader see exactly what each of "
+            "the five slots contains, so that the merged page's own extreme compression can be "
+            "read against material already established in full, rather than left entirely "
+            "opaque."]),
+        ("What follows", [
+            "AN 5.308&ndash;1152, a single merged page representing eight hundred forty-five "
+            "further discourses, closes this chapter and the entire Book of the Fives."]),
+    ],
+    terms=[
+        ("saddhābala, vīriyabala, satibala, samādhibala, paññābala",
+         "the powers of faith, energy, mindfulness, immersion, and wisdom &mdash; identical in "
+         "substance to AN 5.306's faculties, renamed."),
+        ("indriya, bala",
+         "faculty and power &mdash; two names for the same underlying five qualities, a "
+         "distinction this book has used before for its own recurring formula."),
+        ("tathāgatabala",
+         "&ldquo;a Realized One's powers&rdquo; &mdash; AN 5.11's own faculty/power renaming "
+         "of this book's sekhabala, the precedent this discourse's pairing with AN 5.306 "
+         "echoes within a single chapter."),
+        ("rāgassa abhiññāya",
+         "&ldquo;for insight into greed&rdquo; &mdash; the identical frame shared by all five "
+         "opening discourses of this chapter, ending here."),
+        ("bhāvetabbā",
+         "&ldquo;should be developed&rdquo; &mdash; this chapter's recurring instruction verb, "
+         "unchanged across every one of its five opening discourses."),
+    ],
+    text_intro=(
+        "The discourse in full: the five powers, closing this chapter's set of individually "
+        "stated development lists. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things to develop, for insight into greed"),
+        ("p", "&sect;1", "an5.307:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five items does this discourse name?",
+         "opts": [
+             "The powers of faith, energy, mindfulness, immersion, and wisdom",
+             "The five hindrances",
+             "The five precepts",
+             "The five kinds of stinginess"],
+         "correct": 0,
+         "expl": "Word for word the same five items as AN 5.306's faculties."},
+        {"q": "How does this discourse's list relate to AN 5.306's?",
+         "opts": [
+             "Identical in substance, renamed from faculties (indriya) to powers (bala)",
+             "An entirely different, unrelated set of five items",
+             "A shorter, three-item version of AN 5.306's list",
+             "The exact opposite of AN 5.306's list"],
+         "correct": 0,
+         "expl": "The same faculty/power naming pattern this book has used before."},
+        {"q": "Where else in this book does this same faculty/power renaming pattern already appear, for a different five-item list?",
+         "opts": [
+             "AN 5.11, renaming AN 5.1's sekhabala to tathāgatabala",
+             "Nowhere else in this book",
+             "AN 5.145",
+             "AN 5.224"],
+         "correct": 0,
+         "expl": "There across a whole book; here across two adjacent discourses in one chapter."},
+        {"q": "What has AN 5.303&ndash;307 together accomplished, as of this discourse?",
+         "opts": [
+             "Supplied all five development lists this chapter's combinatorial formula requires",
+             "Established only two of five required development lists",
+             "Contradicted each other with incompatible content",
+             "Repeated a single formula five times with no variation"],
+         "correct": 0,
+         "expl": "Two flat lists, one progressive chain, and this faculty/power pair."},
+        {"q": "Why does the guide say these five discourses come before the merged page?",
+         "opts": [
+             "So the merged page's extreme compression can be read against material already established in full",
+             "There is no particular reason; the order is arbitrary",
+             "Because the merged page could not otherwise be built at all",
+             "To delay the chapter's actual content indefinitely"],
+         "correct": 0,
+         "expl": "Each of the five slots is shown in full before being compressed."},
+        {"q": "What comes immediately after this discourse?",
+         "opts": [
+             "AN 5.308&ndash;1152, a single merged page representing eight hundred forty-five further discourses",
+             "A return to AN 5.303",
+             "An entirely new chapter unrelated to this one",
+             "The end of the book with no further content"],
+         "correct": 0,
+         "expl": "Closing this chapter and the entire Book of the Fives."},
+        {"q": "What does 'saddhābala' mean?",
+         "opts": [
+             "The power of faith",
+             "The power of wisdom",
+             "The faculty of mindfulness",
+             "A term unrelated to any formula in this book"],
+         "correct": 0,
+         "expl": "The first of the five items in this discourse's list."},
+        {"q": "What frame has every one of AN 5.303&ndash;307 shared?",
+         "opts": [
+             "'For insight into greed, five things should be developed'",
+             "A different frame in each discourse",
+             "A frame about monastic appointments",
+             "No shared frame at all"],
+         "correct": 0,
+         "expl": "Ending here, with this chapter's fifth and final individually stated discourse."},
+        {"q": "How many total discourses does the merged page that follows represent?",
+         "opts": [
+             "Eight hundred forty-five",
+             "Five",
+             "Seventeen",
+             "Ten"],
+         "correct": 0,
+         "expl": "The single largest merged page in this entire project."},
+        {"q": "What is this discourse's overall form?",
+         "opts": [
+             "AN 5.306's identical five items, renamed from faculties to powers",
+             "An entirely new, unrelated five-item list",
+             "A long narrative with multiple speakers",
+             "A poem in verse"],
+         "correct": 0,
+         "expl": "Completing this chapter's set of five parallel opening discourses."},
+    ],
+    marginalia=[
+        ("The same five, renamed", [
+            "indriya at AN 5.306,",
+            "bala here",
+        ]),
+        ("A pattern seen before", [
+            "sekhabala &rarr; tathāgatabala",
+            "at AN 5.1 and AN 5.11",
+        ]),
+        ("Five lists, complete", [
+            "two flat, one chain,",
+            "one faculty/power pair",
+        ]),
+        ("What's ahead", [
+            "845 discourses,",
+            "one merged page, closing the book",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.307/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.306.html">AN 5.306 &middot; Untitled Discourse on Greed (4th)</a> '
+        "&mdash; the previous discourse, this same list named as faculties.",
+        '<a href="an-5.11.html">AN 5.11 &middot; Not Learned From Anyone Else</a> &mdash; the '
+        "same faculty/power renaming pattern, applied earlier to this book&rsquo;s own "
+        "formula.",
+        '<a href="an-5.308-1152.html">AN 5.308&ndash;1152 &middot; Untitled Discourses on '
+        "Greed, and So On</a> &mdash; next, the single merged page closing this chapter and "
+        "the entire Book of the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.308–1152 — Untitled Discourses on Greed, Etc. (merged page, closes the Fives)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-5.308-1152",
+    "index_pali": "Rāgādi",
+    "nav_title": "Untitled Discourses on Greed, and So On",
+    "source": "an5/an5.308-1152",
+    "crumb": "AN 5.308&ndash;1152",
+    "meta_title": "AN 5.308–1152 — Untitled Discourses on Greed, and So On | Ru-Yi "
+                  "Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Fives' final eight "
+        "hundred forty-five discourses, compressed into one page: seventeen defilements, ten "
+        "verbs, five development lists, closing the entire Book of the Fives. From Ru-Yi "
+        "Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 5.308&ndash;1152",
+    "title": "Untitled Discourses on Greed, and So On",
+    "subtitle": "<em>Rāgapeyyāla</em> &mdash; closing the twenty-ninth and final chapter of "
+                "the Fives, and the Pañcaka Nipāta itself",
+    "glance": [
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "One compressed formula, cross-multiplying seventeen defilements against ten "
+                 "verbs against five development lists, representing eight hundred forty-five "
+                 "individually numbered discourses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Extended combinatorial appendices cataloging defilements "
+                              "against practices are a recurring feature of Abhidharma-adjacent "
+                              "material across traditions; this reading guide does not assert "
+                              "a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the single most "
+                       "compressed page in the Fives, and the one that closes the entire "
+                       "book"),
+    ],
+    "why": (
+        "Eight hundred forty-five discourses stand behind one page. AN 5.303&ndash;307 "
+        "established five development lists individually, each crossed against greed alone "
+        "and the single verb &lsquo;insight&rsquo;. This page runs all five of those lists "
+        "against greed's remaining nine verbs, then against sixteen further defilements "
+        "across the complete ten-verb sequence &mdash; the same seventeen-item defilement "
+        "list and ten-verb sequence already used to close the Threes and the Fours in this "
+        "project, now crossed against a third dimension unique to this closing chapter. "
+        "Seventeen times ten times five is eight hundred fifty; subtracting the five "
+        "discourses already given individually leaves exactly eight hundred forty-five, "
+        "matching this page's own sutta-number range precisely."),
+    "guide": [
+        ("The teaching in one sentence, at enormous scale", [
+            "The same five development lists established individually at AN 5.303&ndash;307 "
+            "&mdash; two perception lists, one progressive perception chain, and the "
+            "faculty/power pair &mdash; are each developed for the complete understanding, "
+            "finishing, giving up, ending, vanishing, fading away, cessation, giving away, "
+            "and letting go of greed, and then for insight into, and all nine further verbs "
+            "toward, sixteen additional defilements: hate, delusion, anger, acrimony, "
+            "disdain, contempt, jealousy, stinginess, deceit, deviousness, obstinacy, "
+            "aggression, conceit, arrogance, vanity, and negligence."]),
+        ("A defilement list and a verb sequence already met twice", [
+            "This is not new material composed for the Fives. The same seventeen "
+            "defilements, in the same order, already closed the Threes at "
+            "<a href=\"an-3.183-352.html\">AN 3.183&ndash;352</a> and the Fours at "
+            "<a href=\"an-4.304-783.html\">AN 4.304&ndash;783</a>; the same ten verbs "
+            "&mdash; insight, complete understanding, finishing, giving up, ending, "
+            "vanishing, fading away, cessation, giving away, and letting go &mdash; governed "
+            "both of those earlier closing blocks as well."]),
+        ("The arithmetic, and where it comes from", [
+            "Seventeen defilements times ten verbs times five development lists is eight "
+            "hundred fifty combinations. AN 5.303&ndash;307 already gave five of "
+            "them &mdash; greed, crossed with insight, across all five development lists. "
+            "This page represents the remaining eight hundred forty-five: greed's other nine "
+            "verbs across all five lists (nine times five is forty-five), plus the sixteen "
+            "further defilements across all ten verbs and all five lists (sixteen times ten "
+            "times five is eight hundred). Forty-five plus eight hundred is eight hundred "
+            "forty-five, matching this page's sutta-number range exactly."]),
+        ("A third dimension unique to this chapter", [
+            "AN 4.304&ndash;783's own closing block crossed its defilements and verbs against "
+            "three fourfold lists given once, in full, earlier in the Fours. This page's "
+            "structure is the same in kind &mdash; a further multiplying dimension, drawn "
+            "from material already given individually &mdash; but larger in that dimension: "
+            "five development lists rather than three, established across five separate "
+            "discourses (AN 5.303&ndash;307) rather than one shared set."]),
+        ("The chapter's own closing verse, and the book's own summary", [
+            "Following the compressed formula, the source gives two summary verses this "
+            "reading guide has not translated segment by segment, since Sujato's translation "
+            "leaves them as untranslated mnemonic verse: a <em>tassuddānaṁ</em> naming this "
+            "chapter's ten verbs in verse form, closing &lsquo;Pañcakanipāto niṭṭhito&rsquo;, "
+            "&lsquo;the Book of the Fives is finished&rsquo;; and immediately after it, a "
+            "<em>vagguddānaṁ</em>, a chapter-summary verse naming, in order, the twenty-six "
+            "numbered vaggas that make up this book &mdash; from the Sekhabalavagga to the "
+            "Upasampadāvagga &mdash; confirming, in the tradition's own words, the very "
+            "chapter structure this project has followed since AN 5.1. The verse's own "
+            "ordinals confirm two counts already noted along the way: <em>aṭṭhamaṁ</em>, "
+            "&lsquo;the eighth&rsquo;, for the Yodhājīvavagga, and <em>dvādasaṁ</em>, "
+            "&lsquo;the twelfth&rsquo;, for the Andhakavindavagga."]),
+        ("Twenty-six vaggas, not twenty-nine", [
+            "The vagguddāna names only the twenty-six numbered vaggas, Sekhabalavagga "
+            "through Upasampadāvagga; it does not include the three peyyāla chapters that "
+            "follow them, the Sammutipeyyāla, the Sikkhāpadapeyyāla, and this Rāgapeyyāla "
+            "itself. This is a genuine structural fact the source's own summary verse "
+            "confirms: the tradition counts these three closing appendices as material "
+            "appended after the book's vaggas proper, not as vaggas themselves &mdash; "
+            "exactly the distinction this reading guide has followed throughout, treating "
+            "chapters twenty-seven through twenty-nine as a different kind of unit from the "
+            "twenty-six that precede them."]),
+        ("The Book of the Fives, finished", [
+            "The final translated line of this page, following the compressed formula, is "
+            "&lsquo;The Book of the Fives is finished.&rsquo; This is not a chapter closing "
+            "of the kind this project has met twenty-eight times already since AN 5.1. It is "
+            "the close of the entire Pañcaka Nipāta &mdash; the collection this project has "
+            "read one discourse and then one chapter at a time, from its first page to its "
+            "last, including the final eight hundred fifty discourses this page and its five "
+            "predecessors represent in compressed and individual form rather than eight "
+            "hundred fifty separate pages."]),
+    ],
+    "terms": [
+        ("dosa, moha, kodha, upanāha, makkha, paḷāsa, issā, macchariya, māyā, sāṭheyya, "
+         "thambha, sārambha, māna, atimāna, mada, pamāda",
+         "hate, delusion, anger, acrimony, disdain, contempt, jealousy, stinginess, deceit, "
+         "deviousness, obstinacy, aggression, conceit, arrogance, vanity, and negligence "
+         "&mdash; the sixteen defilements this page adds to greed, identical to the list "
+         "already closing the Threes and the Fours."),
+        ("abhiññā, pariññā, parikkhaya, pahāna, khaya, vaya, virāga, nirodha, cāga, "
+         "paṭinissagga",
+         "insight, complete understanding, finishing, giving up, ending, vanishing, fading "
+         "away, cessation, giving away, and letting go &mdash; the ten verbs, identical to "
+         "those already used to close the Fours."),
+        ("tassuddānaṁ",
+         "&ldquo;its summary&rdquo; &mdash; the verse naming this chapter's ten verbs in "
+         "mnemonic form, left untranslated by Sujato and not rendered segment by segment on "
+         "this page."),
+        ("vagguddānaṁ",
+         "&ldquo;chapter summary&rdquo; &mdash; the verse naming, in order, the twenty-six "
+         "numbered vaggas of the Fives, confirming this project's own chapter structure in "
+         "the tradition's own words."),
+        ("Pañcakanipātapāḷi niṭṭhitā",
+         "&ldquo;the text of the Book of the Fives is finished&rdquo; &mdash; the closing "
+         "line of the entire nipāta this project has read from AN 5.1 to this page."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: five development lists, run "
+        "against greed's remaining verbs and sixteen further defilements, closing the Fives. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Greed's remaining nine verbs"),
+        ("p", "&sect;1", "an5.308-1152:1.1-1.1"),
+        ("h3", "Sixteen further defilements, all ten verbs"),
+        ("p", "&sect;2", "an5.308-1152:1.2-1.2"),
+        ("h3", "The fifth development list, spelled out in full"),
+        ("p", "&sect;3", "an5.308-1152:2.1-2.3"),
+        ("h3", "The Book of the Fives, finished"),
+        ("p", "&sect;4", "an5.308-1152:4.13-4.13"),
+    ],
+    "quiz": [
+        {"q": "How many individually numbered discourses does this one page represent?",
+         "opts": [
+             "Eight hundred forty-five",
+             "Five",
+             "Seventeen",
+             "Eight hundred fifty"],
+         "correct": 0,
+         "expl": "AN 5.308 through AN 5.1152, confirmed by the page's own sutta-number range."},
+        {"q": "What three dimensions cross-multiply to produce this page's material?",
+         "opts": [
+             "Seventeen defilements, ten verbs, and five development lists",
+             "Only defilements and verbs, with no third dimension",
+             "Five defilements and seventeen verbs",
+             "Ten defilements and ten verbs"],
+         "correct": 0,
+         "expl": "17 &times; 10 &times; 5 = 850 total combinations."},
+        {"q": "Why does this page represent eight hundred forty-five discourses rather than the full eight hundred fifty?",
+         "opts": [
+             "Five combinations (greed, insight, across all five development lists) were already given individually at AN 5.303&ndash;307",
+             "Five combinations were lost from the source entirely",
+             "The arithmetic simply does not work out to 850",
+             "This page actually represents all 850 combinations, with no subtraction"],
+         "correct": 0,
+         "expl": "850 minus 5 equals exactly 845, matching this page's own range."},
+        {"q": "Where does the seventeen-item defilement list and ten-verb sequence used here already appear in this project?",
+         "opts": [
+             "Closing the Threes at AN 3.183&ndash;352 and the Fours at AN 4.304&ndash;783",
+             "Nowhere else in this project",
+             "Only in the Twos",
+             "This is an entirely new list, unique to the Fives"],
+         "correct": 0,
+         "expl": "Identical roster and verb sequence, reused for a third closing peyyāla."},
+        {"q": "What does the vagguddānaṁ, the chapter-summary verse, confirm?",
+         "opts": [
+             "The twenty-six numbered vaggas of the Fives, in order, matching this project's own chapter structure",
+             "Nothing verifiable about this book's structure",
+             "That the Fives actually contain only ten chapters",
+             "A list of defilements, not chapters"],
+         "correct": 0,
+         "expl": "Including ordinal confirmations for the eighth (Yodhājīvavagga) and twelfth (Andhakavindavagga) chapters."},
+        {"q": "How many of this book's twenty-nine total chapters does the vagguddānaṁ actually name?",
+         "opts": [
+             "Twenty-six — the three peyyāla chapters are not counted as vaggas proper",
+             "All twenty-nine, including the three peyyāla chapters",
+             "Only ten",
+             "None; the verse names no specific chapters"],
+         "correct": 0,
+         "expl": "A genuine structural distinction the source's own summary verse confirms."},
+        {"q": "What does the final translated line of this page announce?",
+         "opts": [
+             "'The Book of the Fives is finished' — closing the entire Pañcaka Nipāta",
+             "The end of only this single chapter",
+             "The beginning of the Book of the Sixes on this same page",
+             "An error in the source text"],
+         "correct": 0,
+         "expl": "The collection read from AN 5.1 through this page, now complete."},
+        {"q": "What earlier merged page in this project's coverage of the Fours does this page's structure most resemble?",
+         "opts": [
+             "AN 4.304&ndash;783, which closed the Fours with a comparable but smaller cross-product",
+             "AN 4.1, which has no merging at all",
+             "AN 4.17",
+             "No earlier page resembles this one at all"],
+         "correct": 0,
+         "expl": "The same kind of device, larger here because of the added five-list dimension."},
+        {"q": "What five development lists does this page cross against greed's remaining verbs and the sixteen further defilements?",
+         "opts": [
+             "The five lists individually established at AN 5.303 through AN 5.307",
+             "Five entirely new lists composed only for this merged page",
+             "The five precepts",
+             "The five kinds of stinginess"],
+         "correct": 0,
+         "expl": "Two perception lists, one progressive chain, and the faculty/power pair."},
+        {"q": "What does 'tassuddānaṁ' name?",
+         "opts": [
+             "A summary verse naming this chapter's ten verbs in mnemonic form, left untranslated",
+             "A list of all 845 discourse titles",
+             "The name of a specific mendicant",
+             "A term unrelated to any verse or summary"],
+         "correct": 0,
+         "expl": "Not rendered segment by segment on this page, consistent with Sujato leaving it untranslated."},
+    ],
+    "marginalia": [
+        ("Eight hundred forty-five", [
+            "17 defilements &times; 10 verbs",
+            "&times; 5 lists, minus 5 given already",
+        ]),
+        ("A list met twice before", [
+            "identical to AN 3.183&ndash;352",
+            "and AN 4.304&ndash;783",
+        ]),
+        ("Twenty-six vaggas, confirmed", [
+            "the source's own summary verse",
+            "names this project's chapter structure",
+        ]),
+        ("The Fives, finished", [
+            "read from AN 5.1",
+            "to this final, compressed page",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an5.308-1152/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.307.html">AN 5.307 &middot; Untitled Discourse on Greed (5th)</a> '
+        "&mdash; the previous discourse, and the last of this page&rsquo;s five development "
+        "lists given individually.",
+        '<a href="an-4.304-783.html">AN 4.304&ndash;783 &middot; Insight into Hate, and So '
+        "On</a> &mdash; the Fours&rsquo; own closing merged page, sharing this page&rsquo;s "
+        "defilement list and verb sequence.",
+        '<a href="an-5.1.html">AN 5.1 &middot; In Brief</a> &mdash; this book&rsquo;s opening '
+        "discourse, eight hundred fifty discourses and twenty-nine chapters before this page "
+        "closes it.",
+    ],
+})
