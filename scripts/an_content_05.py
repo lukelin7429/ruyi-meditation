@@ -38585,3 +38585,2047 @@ page(
         "lay commitment to eating discipline, in the previous chapter.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.191 — Soṇasutta
+# --------------------------------------------------------------------------- #
+VAGGA_20 = "<em>Brāhmaṇavagga</em> &mdash; the twentieth chapter of the Fives"
+
+page(
+    191, "Soṇa", "Hounds",
+    vagga=VAGGA_20,
+    meta_title="AN 5.191 — Hounds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Soṇasutta, opening the Brāhmaṇavagga — five ancient brahmin customs the "
+        "Buddha says survive today only among dogs, not among brahmins. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a five-item list, each with a three-way past/present/canine "
+                 "comparison"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; sharply "
+                       "polemical, worth reading as social critique"),
+    ],
+    why=(
+        "This chapter opens with a genuinely biting piece of social satire: five "
+        "customs the Buddha says ancient brahmins once kept, which contemporary "
+        "brahmins have abandoned &mdash; but which, strikingly, ordinary dogs still "
+        "keep without effort, simply by nature."),
+    guide=[
+        ("A new chapter, a sharp opening", [
+            "The Brāhmaṇavagga (&ldquo;Brahmins&rdquo;) opens not with praise or "
+            "instruction but with polemic: a direct, pointed critique of contemporary "
+            "brahmin practice, measured against both an idealized brahmin past and "
+            "ordinary canine behavior."]),
+        ("Five traditions, five reversals", [
+            "Ancient brahmins had sex only with brahmin women, only during fertile "
+            "periods, without buying or selling wives, without hoarding wealth, and "
+            "sought almsfood only at dawn and dusk without gorging or hoarding "
+            "leftovers. The discourse claims contemporary brahmins have abandoned all "
+            "five &mdash; while dogs, described point by point, still keep every one "
+            "of them."]),
+        ("A polemic, not a claim about canine virtue", [
+            "This discourse isn't making a literal claim that dogs possess moral "
+            "understanding; it's a rhetorical device, using an intentionally "
+            "unflattering comparison to dramatize how far the discourse claims "
+            "contemporary brahmin practice has drifted from its own tradition's "
+            "stated ideals."]),
+        ("Reading polemic honestly", [
+            "This is genuinely sharp-edged material, aimed at a specific social group "
+            "in a specific historical setting &mdash; worth reading as the targeted "
+            "critique it is, rather than softened into something gentler than it "
+            "actually is, or taken as a timeless judgment on any group today."]),
+        ("A chapter that keeps returning to brahmin self-understanding", [
+            "This opening discourse sets a tone this whole chapter returns to "
+            "repeatedly: what does it actually mean to be a brahmin, measured against "
+            "brahmin tradition's own claimed standards? AN 5.192 takes up this "
+            "question directly and at length."]),
+    ],
+    terms=[
+        ("porāṇā brāhmaṇadhammā",
+         "&ldquo;ancient traditions of the brahmins&rdquo; &mdash; the five customs "
+         "this discourse claims have been abandoned."),
+        ("brāhmaṇī",
+         "&ldquo;a brahmin woman&rdquo; &mdash; the traditional, exclusive object of "
+         "brahmin marriage in the discourse's idealized past."),
+        ("sannidhi",
+         "&ldquo;storing up, hoarding&rdquo; &mdash; wealth accumulation, one of the "
+         "five abandoned traditions."),
+        ("sunakha",
+         "&ldquo;a dog, hound&rdquo; &mdash; this discourse's title concept, the "
+         "unflattering point of comparison."),
+        ("bhikkhā pariyesati",
+         "&ldquo;seeking almsfood&rdquo; &mdash; the traditional dawn-and-dusk almsfood "
+         "practice, contrasted with the discourse's claim about contemporary excess."),
+    ],
+    text_intro=(
+        "The discourse in full: five ancient brahmin traditions, and their canine "
+        "survival. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five ancient traditions, kept only by hounds"),
+        ("p", "&sect;1", "an5.191:1.1-5.5"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Brāhmaṇavagga, 'Brahmins'",
+             "Araññavagga, 'Wilderness Dwellers'",
+             "Kimilavagga, 'With Kimbila'",
+             "Akkosakavagga, 'Abuse'"],
+         "correct": 0,
+         "expl": "This session's twentieth chapter."},
+        {"q": "What five ancient brahmin customs does this discourse name?",
+         "opts": [
+             "Exclusive marriage to brahmin women, fidelity to fertile periods, no buying/selling wives, no hoarding wealth, and dawn/dusk-only almsfood",
+             "The five precepts",
+             "The five aggregates",
+             "The nine teaching genres"],
+         "correct": 0,
+         "expl": "Five customs the discourse claims contemporary brahmins have abandoned."},
+        {"q": "What does this discourse claim still keeps all five customs?",
+         "opts": [
+             "Ordinary dogs, simply by nature",
+             "Contemporary brahmins themselves",
+             "Only fully liberated arahants",
+             "Kings and their courts"],
+         "correct": 0,
+         "expl": "The discourse's deliberately unflattering point of comparison."},
+        {"q": "Is this discourse making a literal claim about canine moral understanding?",
+         "opts": [
+             "No — it's a rhetorical device dramatizing a claimed drift from tradition",
+             "Yes — the discourse asserts dogs possess genuine ethical reasoning",
+             "The discourse is ambiguous on this point",
+             "Yes, and this guide endorses that literal reading"],
+         "correct": 0,
+         "expl": "A pointed social critique, not a claim about animal ethics."},
+        {"q": "How should this discourse's sharp language be read, according to the guide?",
+         "opts": [
+             "As targeted critique of a specific group in a specific historical setting, not a timeless judgment",
+             "As gentle, mild encouragement",
+             "As a universal claim applicable to any group today",
+             "As entirely unrelated to its historical context"],
+         "correct": 0,
+         "expl": "Read honestly as the polemic it is, without softening or overgeneralizing."},
+        {"q": "What does 'sannidhi' mean?",
+         "opts": [
+             "Storing up, hoarding wealth",
+             "Giving generously",
+             "A formal ordination requirement",
+             "A type of meditation"],
+         "correct": 0,
+         "expl": "One of the five abandoned traditions this discourse names."},
+        {"q": "What broader question does this chapter keep returning to, starting with this discourse?",
+         "opts": [
+             "What it actually means to be a brahmin, measured against tradition's own standards",
+             "How to properly train a dog",
+             "The correct method for almsgiving",
+             "How to interpret dreams"],
+         "correct": 0,
+         "expl": "AN 5.192 takes up this question directly and at length."},
+        {"q": "What did ancient brahmins traditionally not do, regarding wives, according to this discourse?",
+         "opts": [
+             "Buy or sell them — marriage was based on mutual affection",
+             "Marry at all",
+             "Have any children",
+             "Live together as families"],
+         "correct": 0,
+         "expl": "One of the five customs the discourse claims has been abandoned."},
+        {"q": "What discourse follows, taking up brahmin self-understanding at length?",
+         "opts": [
+             "AN 5.192, With the Brahmin Doṇa",
+             "AN 5.200, Elements of Escape",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "A far more extensive treatment of the same underlying question."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "A single five-item list, each with a three-way past/present/canine comparison",
+             "Two paired five-item lists",
+             "A long narrative with dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "Five parallel comparisons opening this chapter."},
+    ],
+    marginalia=[
+        ("Five abandoned customs", [
+            "exclusive marriage &middot;",
+            "fidelity &middot; no buying",
+            "wives &middot; no hoarding",
+            "&middot; dawn/dusk almsfood",
+        ]),
+        ("A pointed, unflattering measure", [
+            "dogs, the discourse claims,",
+            "still keep them all",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">porāṇā brāhmaṇadhammā</span>",
+            "&mdash; ancient",
+            "brahmin traditions",
+        ]),
+        ("Cross-references", [
+            "AN 5.192 &middot; next: brahmin self-understanding, taken up at length",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.191/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.190.html">AN 5.190 &middot; Those Who Eat Only From the '
+        "Almsbowl</a> &mdash; the previous chapter's closing discourse.",
+        '<a href="an-5.192.html">AN 5.192 &middot; With the Brahmin Doṇa</a> &mdash; '
+        "next: what genuinely makes someone a brahmin, examined at length.",
+        '<a href="an-5.175.html">AN 5.175 &middot; Corpse-worker</a> &mdash; another '
+        "discourse using a sharp social metaphor to make its point.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.192 — Doṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    192, "Doṇabrāhmaṇa", "With the Brahmin Doṇa",
+    vagga=VAGGA_20,
+    meta_title="AN 5.192 — With the Brahmin Doṇa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Doṇabrāhmaṇasutta — five kinds of brahmin, from one equal to the Divinity "
+        "down to a self-serving 'brahmin corpse-worker', and Doṇa's own humbling "
+        "self-assessment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "The Buddha, in dialogue with the brahmin Doṇa"),
+        ("Form", "extended dialogue, then a five-category typology"),
+        ("Length", "~7 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; long and dense, "
+                       "this chapter's centerpiece"),
+    ],
+    why=(
+        "One of this collection's most extensive discourses: challenged by a proud "
+        "brahmin over a point of etiquette, the Buddha lays out five distinct kinds of "
+        "brahmin &mdash; from one genuinely equal to the Divinity down to a "
+        "self-interested &lsquo;brahmin corpse-worker&rsquo; &mdash; and asks Doṇa, "
+        "point blank, which one he actually is."),
+    guide=[
+        ("Doṇa's complaint, and the Buddha's question", [
+            "Doṇa objects that the Buddha doesn't show elderly brahmins the customary "
+            "respect &mdash; bowing, rising, offering a seat. The Buddha turns the "
+            "question back on him: does Doṇa even claim brahmin status himself? Doṇa "
+            "answers proudly, citing his flawless lineage and mastery of the Vedas. The "
+            "Buddha then asks whether Doṇa knows the five kinds of brahmin the ancient "
+            "seers themselves described &mdash; and Doṇa admits he doesn't, asking to "
+            "be taught."]),
+        ("Equal to the Divinity, equal to a god", [
+            "The first kind, <em>brahmasama</em>, studies the Vedas for the "
+            "traditional forty-eight years, earns his teacher's fee only by begging "
+            "&mdash; never farming, trade, or other forbidden work &mdash; then "
+            "renounces entirely, developing the four <em>brahmavihāras</em> (love, "
+            "compassion, joy, equanimity) and being reborn in a brahma-realm. The "
+            "second, <em>devasama</em>, takes the same disciplined path but marries "
+            "properly within strict traditional bounds, has children out of duty rather "
+            "than pleasure, then renounces and attains the four absorptions, reborn in "
+            "a heavenly realm."]),
+        ("Toes the line, crosses the line", [
+            "The third, <em>mariyāda</em> (&lsquo;one who toes the line&rsquo;), "
+            "follows the same disciplined preparation but, attached to the pleasure of "
+            "having a child, simply stays a householder within traditional bounds. The "
+            "fourth, <em>sambhinnamariyāda</em> (&lsquo;one who crosses the "
+            "line&rsquo;), abandons every traditional restriction &mdash; marrying and "
+            "having sex across caste and purity lines the tradition itself forbids, "
+            "purely for pleasure."]),
+        ("The brahmin corpse-worker", [
+            "The fifth and lowest, <em>brāhmaṇacaṇḍāla</em> &mdash; literally "
+            "&lsquo;brahmin corpse-worker&rsquo;, borrowing the same stigmatized "
+            "occupational term already seen at AN 5.175 and, quite differently, at AN "
+            "5.179 &mdash; abandons every restriction on livelihood too, earning a "
+            "living however he can while still claiming brahmin status, rationalizing "
+            "this with a simile: fire burns both pure and filthy things without being "
+            "corrupted by either."]),
+        ("Doṇa's admission", [
+            "Asked directly which of the five he is, Doṇa's answer is genuinely "
+            "humbling: he doesn't even qualify as the lowest category, the brahmin "
+            "corpse-worker &mdash; and, deflated of his opening pride, takes lifelong "
+            "refuge as a lay follower."]),
+        ("A fourth appearance of a recurring, contested term", [
+            "Cross-ref this discourse's use of <em>caṇḍāla</em> alongside AN 5.175 "
+            "(used as an outright insult for a bad lay Buddhist) and AN 5.179 (named "
+            "inclusively, as a caste whose members can equally attain liberation). Here "
+            "the term is turned, pointedly, inward &mdash; used by brahmin tradition "
+            "itself to name its own worst failure."]),
+    ],
+    terms=[
+        ("brahmasama, devasama",
+         "&ldquo;equal to the Divinity, equal to a god&rdquo; &mdash; the first two, "
+         "genuinely praiseworthy kinds of brahmin in this discourse's typology."),
+        ("mariyāda, sambhinnamariyāda",
+         "&ldquo;one who toes the line, one who crosses the line&rdquo; &mdash; the "
+         "third and fourth kinds, respectively still bound by and abandoning "
+         "traditional restriction."),
+        ("brāhmaṇacaṇḍāla",
+         "&ldquo;brahmin corpse-worker&rdquo; &mdash; the fifth and lowest kind, using "
+         "the same stigmatized term seen at AN 5.175 and AN 5.179."),
+        ("brahmavihāra",
+         "the four divine abodes &mdash; love, compassion, joy, equanimity &mdash; "
+         "cultivated by the first kind of brahmin in this typology."),
+        ("ubhato sujāto",
+         "&ldquo;well born on both sides&rdquo; &mdash; the traditional lineage "
+         "standard Doṇa cites to claim brahmin status."),
+    ],
+    text_intro=(
+        "The discourse in full: Doṇa's complaint, the five kinds of brahmin, and Doṇa's "
+        "own admission. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Doṇa's complaint, and the Buddha's question"),
+        ("p", "&sect;1", "an5.192:2.1-4.5"),
+        ("h3", "Equal to the Divinity, equal to a god"),
+        ("p", "&sect;2", "an5.192:5.1-8.14"),
+        ("h3", "Toes the line, crosses the line"),
+        ("p", "&sect;3", "an5.192:9.1-12.8"),
+        ("h3", "The brahmin corpse-worker"),
+        ("p", "&sect;4", "an5.192:13.1-14.11"),
+        ("h3", "Doṇa's admission"),
+        ("p", "&sect;5", "an5.192:15.1-16.2"),
+    ],
+    quiz=[
+        {"q": "What does Doṇa initially complain about?",
+         "opts": [
+             "That the Buddha doesn't bow, rise, or offer a seat to elderly brahmins",
+             "That the Buddha refuses to teach at all",
+             "That the Buddha has broken a specific precept",
+             "That the Buddha has insulted his family directly"],
+         "correct": 0,
+         "expl": "A complaint about customary etiquette toward elders."},
+        {"q": "How does the Buddha respond to Doṇa's complaint?",
+         "opts": [
+             "By asking whether Doṇa even claims brahmin status himself, then testing his knowledge",
+             "By immediately apologizing and complying",
+             "By refusing to engage with Doṇa at all",
+             "By expelling Doṇa from the assembly"],
+         "correct": 0,
+         "expl": "Turning the question back toward what genuinely constitutes a brahmin."},
+        {"q": "What does the first kind of brahmin, brahmasama, cultivate after renouncing?",
+         "opts": [
+             "The four brahmavihāras — love, compassion, joy, and equanimity",
+             "Wealth and political influence",
+             "Mastery of warfare",
+             "A large family estate"],
+         "correct": 0,
+         "expl": "Reborn in a brahma-realm as a result."},
+        {"q": "What distinguishes the second kind, devasama, from the first?",
+         "opts": [
+             "He marries properly within traditional bounds rather than renouncing entirely, and attains the four absorptions",
+             "He is identical to the first kind in every respect",
+             "He abandons all traditional restrictions",
+             "He earns his living through farming and trade"],
+         "correct": 0,
+         "expl": "A householder path, still within strict traditional discipline."},
+        {"q": "What distinguishes 'one who crosses the line' from 'one who toes the line'?",
+         "opts": [
+             "Crossing the line means abandoning every traditional restriction on marriage and purity, purely for pleasure",
+             "There is no meaningful difference between them",
+             "Toeing the line means abandoning all restrictions instead",
+             "Crossing the line means becoming fully liberated"],
+         "correct": 0,
+         "expl": "The fourth kind versus the third in this discourse's typology."},
+        {"q": "What does the 'brahmin corpse-worker' rationalize his conduct with?",
+         "opts": [
+             "A simile: fire burns both pure and filthy things without being corrupted",
+             "A claim that brahmin status doesn't actually exist",
+             "A formal legal argument",
+             "A direct quotation from the ancient seers condemning his own conduct"],
+         "correct": 0,
+         "expl": "Earning a living however he can, while still claiming the title."},
+        {"q": "Which category does Doṇa admit he qualifies for, when asked directly?",
+         "opts": [
+             "He doesn't even qualify as the lowest category, the brahmin corpse-worker",
+             "He claims to be brahmasama, equal to the Divinity",
+             "He refuses to answer the question at all",
+             "He claims to be devasama, equal to a god"],
+         "correct": 0,
+         "expl": "A genuinely humbling admission, following his opening pride."},
+        {"q": "What does Doṇa do after this admission?",
+         "opts": [
+             "Takes lifelong refuge as a lay follower",
+             "Leaves in anger, rejecting the teaching entirely",
+             "Demands the Buddha retract the typology",
+             "Challenges the Buddha to further debate"],
+         "correct": 0,
+         "expl": "A deflated but genuine response to the Buddha's typology."},
+        {"q": "Where else in this nipāta does the term 'caṇḍāla' appear, used very differently each time?",
+         "opts": [
+             "AN 5.175 (as an insult) and AN 5.179 (named inclusively as capable of liberation)",
+             "Nowhere else in this collection",
+             "Only in this discourse",
+             "AN 5.100 and AN 5.106"],
+         "correct": 0,
+         "expl": "A fourth, pointedly self-critical use of the same term here."},
+        {"q": "Who are the ten ancient brahmin seers named as the source of this five-kind typology?",
+         "opts": [
+             "Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamadaggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa, and Bhagu",
+             "The Buddha's own ten chief disciples",
+             "Ten kings of the Kosala dynasty",
+             "The names are not given in the discourse"],
+         "correct": 0,
+         "expl": "The traditional Vedic ṛṣis, cited as the typology's original authors."},
+    ],
+    marginalia=[
+        ("Five kinds of brahmin", [
+            "equal to the Divinity",
+            "&middot; equal to a god",
+            "&middot; toeing the line",
+            "&middot; crossing it &middot;",
+            "corpse-worker",
+        ]),
+        ("A humbling self-assessment", [
+            "Doṇa doesn't even",
+            "qualify as the lowest",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">brāhmaṇacaṇḍāla</span>",
+            "&mdash; brahmin",
+            "corpse-worker",
+        ]),
+        ("Cross-references", [
+            "AN 5.175 &middot; AN 5.179 &middot; caṇḍāla's two earlier, contrasting "
+            "uses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.192/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.191.html">AN 5.191 &middot; Hounds</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.193.html">AN 5.193 &middot; With Saṅgārava</a> &mdash; next: '
+        "why memory fails, explained through the five hindrances.",
+        '<a href="an-5.179.html">AN 5.179 &middot; A Layperson</a> &mdash; caṇḍāla, '
+        "used very differently there.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.193 — Saṅgāravasutta
+# --------------------------------------------------------------------------- #
+page(
+    193, "Saṅgārava", "With Saṅgārava",
+    vagga=VAGGA_20,
+    meta_title="AN 5.193 — With Saṅgārava | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Saṅgāravasutta — why memorized hymns sometimes won't come to mind, explained "
+        "through the five hindrances and five vivid water-bowl similes. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "The Buddha, in dialogue with the brahmin Saṅgārava"),
+        ("Form", "a question, then five paired similes for five mental obstructions"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; long, but built "
+                       "from five vivid, memorable images"),
+    ],
+    why=(
+        "A brahmin scholar asks a genuinely practical question &mdash; why does memory "
+        "sometimes fail, and sometimes work better than expected? &mdash; and the "
+        "Buddha answers with what may be this collection's single most memorable set "
+        "of similes: five mental hindrances, each pictured as water in a bowl, "
+        "clouded in a different way."),
+    guide=[
+        ("A brahmin's practical question", [
+            "Saṅgārava asks why sometimes even long-rehearsed hymns won't come to "
+            "mind, while other times even unrehearsed material spontaneously "
+            "surfaces &mdash; a question about memory and mental clarity, not "
+            "doctrine, put to the Buddha by someone from an entirely different "
+            "religious tradition."]),
+        ("Five hindrances, five clouded reflections", [
+            "The Buddha's answer names the five hindrances (<em>nīvaraṇa</em>): "
+            "sensual desire, ill will, dullness and drowsiness, restlessness and "
+            "remorse, and doubt. Each is pictured as a bowl of water in a specific, "
+            "vivid state &mdash; mixed with dye, boiling, covered in moss, stirred by "
+            "wind, or murky and hidden in darkness &mdash; in which even a "
+            "clear-eyed person checking their own reflection couldn't truly see it."]),
+        ("Freed from the hindrances, five clear reflections", [
+            "The mirror image for each: undyed water, unboiled water, moss-free "
+            "water, undisturbed water, and water that's transparent and brought into "
+            "the light &mdash; in each case, a clear-eyed person's reflection is "
+            "immediately, effortlessly visible."]),
+        ("Memory as a symptom, not the real subject", [
+            "Though framed around a scholar's concern with hymn recitation, this "
+            "discourse's real subject is broader: the five hindrances don't only "
+            "block memory, but block seeing &lsquo;what is good for yourself, good "
+            "for another, or good for both&rsquo; &mdash; clarity in general, of "
+            "which memory is simply one visible symptom."]),
+        ("A teaching translated for its audience", [
+            "This is a genuinely cross-traditional move: rather than framing the five "
+            "hindrances doctrinally, the Buddha meets Saṅgārava's own concern "
+            "&mdash; Vedic hymn recitation &mdash; directly, using it as the entry "
+            "point for a teaching that applies far beyond memorization."]),
+        ("A convert, like the brahmins before him", [
+            "As with Doṇa at AN 5.192 and Kāraṇapālī later in this chapter, Saṅgārava "
+            "closes by taking lifelong refuge &mdash; another instance of this "
+            "chapter's recurring pattern: a brahmin, approaching with a genuine "
+            "question, leaving as a lay follower."]),
+    ],
+    terms=[
+        ("nīvaraṇa",
+         "&ldquo;hindrance&rdquo; &mdash; the five mental obstructions this discourse "
+         "names, each illustrated by its own water-bowl simile."),
+        ("kāmarāga, byāpāda, thīnamiddha, uddhaccakukkucca, vicikicchā",
+         "sensual desire, ill will, dullness and drowsiness, restlessness and "
+         "remorse, and doubt &mdash; the five hindrances in their traditional order."),
+        ("mukhanimitta",
+         "&ldquo;one's own reflection&rdquo; &mdash; what a clear-eyed person checks "
+         "for in each of this discourse's water-bowl similes."),
+        ("yathābhūtaṁ pajānāti passati",
+         "&ldquo;truly knows and sees&rdquo; &mdash; the clarity this discourse "
+         "describes as blocked by the hindrances, restored once they're absent."),
+        ("mantā paṭibhanti",
+         "&ldquo;hymns spring to mind&rdquo; &mdash; Saṅgārava's original, specific "
+         "concern, used as the entry point for this broader teaching."),
+    ],
+    text_intro=(
+        "The discourse in full: the five hindrances, clouded and clear, in five "
+        "water-bowl similes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five hindrances, five clouded reflections"),
+        ("p", "&sect;1", "an5.193:2.1-6.4"),
+        ("h3", "Freed from the hindrances, five clear reflections"),
+        ("p", "&sect;2", "an5.193:7.1-11.4"),
+        ("h3", "Conclusion"),
+        ("p", "&sect;3", "an5.193:12.1-12.2"),
+    ],
+    quiz=[
+        {"q": "What question does Saṅgārava ask the Buddha?",
+         "opts": [
+             "Why memory sometimes fails and sometimes works better than expected",
+             "Why the Buddha doesn't bow to elders",
+             "How to properly recite the four Vedas",
+             "Why rain sometimes fails to fall"],
+         "correct": 0,
+         "expl": "A practical question about memory and mental clarity."},
+        {"q": "What five hindrances does the Buddha name in his answer?",
+         "opts": [
+             "Sensual desire, ill will, dullness/drowsiness, restlessness/remorse, and doubt",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "The five nīvaraṇa, each illustrated with its own water-bowl simile."},
+        {"q": "What does the sensual-desire simile picture?",
+         "opts": [
+             "Water mixed with dye, obscuring any reflection",
+             "Water frozen solid",
+             "Water contained in a locked vessel",
+             "Water flowing rapidly downhill"],
+         "correct": 0,
+         "expl": "One of five distinct clouded-water images."},
+        {"q": "What does the ill-will simile picture?",
+         "opts": [
+             "Boiling, bubbling water",
+             "Perfectly still, cold water",
+             "Water mixed with sand",
+             "Water frozen into ice"],
+         "correct": 0,
+         "expl": "Another of the five clouded-water images."},
+        {"q": "What does the dullness-and-drowsiness simile picture?",
+         "opts": [
+             "Water overgrown with moss and aquatic plants",
+             "Water boiling over a fire",
+             "Water stirred violently by wind",
+             "Water mixed with colored dye"],
+         "correct": 0,
+         "expl": "A third distinct image among the five."},
+        {"q": "What is this discourse's real subject, beyond hymn memorization specifically?",
+         "opts": [
+             "Clarity in general — seeing what is good for oneself and others — of which memory is one symptom",
+             "The proper technique for reciting Vedic hymns only",
+             "A purely cosmological teaching unrelated to mental states",
+             "A narrow claim relevant only to brahmins"],
+         "correct": 0,
+         "expl": "Memory is simply one visible symptom of a broader clarity or its absence."},
+        {"q": "What is notable about how the Buddha frames this teaching for Saṅgārava?",
+         "opts": [
+             "He meets Saṅgārava's own concern directly, using hymn recitation as the entry point",
+             "He refuses to engage with Saṅgārava's actual question at all",
+             "He insists Saṅgārava first abandon his own tradition entirely",
+             "He responds only in abstract doctrinal terms with no relatable image"],
+         "correct": 0,
+         "expl": "A genuinely cross-traditional teaching approach."},
+        {"q": "What does Saṅgārava do at the end of this discourse?",
+         "opts": [
+             "Takes lifelong refuge as a lay follower",
+             "Rejects the Buddha's teaching entirely",
+             "Challenges the Buddha to further debate",
+             "Departs without any response"],
+         "correct": 0,
+         "expl": "Matching the pattern of Doṇa at AN 5.192 and Kāraṇapālī later in this chapter."},
+        {"q": "What does 'mukhanimitta' mean?",
+         "opts": [
+             "One's own reflection",
+             "A formal ordination requirement",
+             "A type of hymn",
+             "A ceremonial offering"],
+         "correct": 0,
+         "expl": "What a clear-eyed person checks for in each water-bowl simile."},
+        {"q": "What clarity does freedom from the hindrances restore, according to this discourse?",
+         "opts": [
+             "Truly knowing and seeing what is good for oneself, another, and both",
+             "Only the ability to recite Vedic hymns accurately",
+             "Physical strength and endurance",
+             "Wealth and social status"],
+         "correct": 0,
+         "expl": "A general clarity of mind, not only memory for hymns specifically."},
+    ],
+    marginalia=[
+        ("Five clouded waters", [
+            "dyed &middot; boiling &middot;",
+            "mossy &middot; wind-stirred",
+            "&middot; murky in darkness",
+        ]),
+        ("Memory as one symptom", [
+            "of a much broader",
+            "mental clarity",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">nīvaraṇa</span>",
+            "&mdash; hindrance",
+        ]),
+        ("Cross-references", [
+            "AN 5.192 &middot; AN 5.194 &middot; other brahmins in this chapter who "
+            "take refuge",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.193/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.192.html">AN 5.192 &middot; With the Brahmin Doṇa</a> &mdash; '
+        "the previous discourse in this chapter.",
+        '<a href="an-5.194.html">AN 5.194 &middot; With Kāraṇapālī</a> &mdash; next: '
+        "five similes for the effect of hearing the Buddha's teaching.",
+        '<a href="an-5.200.html">AN 5.200 &middot; Elements of Escape</a> &mdash; this '
+        "chapter's closer, on a mind that has fully escaped every obstruction.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.194 — Kāraṇapālīsutta
+# --------------------------------------------------------------------------- #
+SETTING_194 = "Vesālī, at the Great Wood, in the hall with the peaked roof"
+
+page(
+    194, "Kāraṇapālī", "With Kāraṇapālī",
+    vagga=VAGGA_20,
+    meta_title="AN 5.194 — With Kāraṇapālī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kāraṇapālīsutta — a brahmin returning from the Buddha praises his teaching "
+        "through five luminous similes, from a honey-cake to a cool lotus pond. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_194),
+        ("Speakers", "Two brahmins, Kāraṇapālī and Piṅgiyānī, in dialogue"),
+        ("Form", "a question deflected, then five similes, then a threefold homage"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; vivid and "
+                       "emotionally direct"),
+    ],
+    why=(
+        "One of this collection's most lyrical discourses: a brahmin asks a colleague "
+        "what he thinks of the Buddha's wisdom, and receives, instead of a direct "
+        "answer, five unforgettable similes for what it's like to actually hear the "
+        "Buddha teach."),
+    guide=[
+        ("A question, deflected", [
+            "Kāraṇapālī asks Piṅgiyānī, returning from the Buddha, whether he thinks "
+            "Gotama is astute. Piṅgiyānī deflects, in a pattern already seen twice at "
+            "AN 5.169&ndash;170: &lsquo;who am I to judge&rsquo; &mdash; you'd have to "
+            "be on the Buddha's own level to judge his wisdom."]),
+        ("Five similes for hearing the teaching", [
+            "Pressed further, Piṅgiyānī answers with five images: being so satisfied "
+            "by the best food that lesser tastes hold no appeal; a starving person "
+            "finding a honey-cake, sweet wherever they taste it; smelling fragrant "
+            "sandalwood, delightful at root, middle, or tip; a good doctor curing an "
+            "illness on the spot; and a weary, thirsty traveler plunging into a cool, "
+            "clean lotus pond."]),
+        ("Each simile names a distinct effect", [
+            "Read closely, the five similes aren't simply repeating the same praise: "
+            "satisfaction that displaces interest elsewhere, sweetness found "
+            "everywhere in the teaching, joy found everywhere in it, an end to "
+            "sorrow and distress, and relief from exhaustion &mdash; five genuinely "
+            "different effects, not one image restated five times."]),
+        ("Kāraṇapālī's spontaneous homage", [
+            "Moved by this, Kāraṇapālī rises, arranges his robe, kneels, and utters "
+            "&lsquo;Homage to him, the blessed one, the perfected one, the fully "
+            "awakened Buddha!&rsquo; three times over &mdash; an unscripted, "
+            "emotionally direct response to hearing the teaching praised, not to "
+            "hearing it directly himself."]),
+        ("Praised at one remove", [
+            "Notice what's happening structurally: Kāraṇapālī is moved to homage "
+            "without ever hearing the Buddha teach in this discourse at all &mdash; "
+            "only by hearing a fellow brahmin's account of what it's like. The "
+            "teaching's power, as this discourse presents it, travels even at second "
+            "hand."]),
+        ("What follows", [
+            "AN 5.195 continues directly from this same setting, with Piṅgiyānī "
+            "himself now moved to spontaneous verse in the Buddha's actual presence."]),
+    ],
+    terms=[
+        ("paññāveyyattiya",
+         "&ldquo;lucidity of wisdom&rdquo; &mdash; the quality Kāraṇapālī asks "
+         "Piṅgiyānī to assess in the Buddha."),
+        ("aggarasaparititto",
+         "&ldquo;completely satisfied by the best tasting food&rdquo; &mdash; the "
+         "first simile's image, displacing interest in lesser things."),
+        ("madhupiṇḍikā",
+         "&ldquo;a honey-cake&rdquo; &mdash; the second simile's image, sweet "
+         "wherever tasted."),
+        ("udāna",
+         "&ldquo;a heartfelt utterance&rdquo; &mdash; the form Kāraṇapālī's threefold "
+         "homage to the Buddha takes."),
+        ("cakkhumanto rūpāni dakkhanti",
+         "&ldquo;people with clear eyes can see what's there&rdquo; &mdash; part of "
+         "the Buddha's own closing praise of Piṅgiyānī's clarity."),
+    ],
+    text_intro=(
+        "The discourse in full: a question deflected, five similes, and a spontaneous "
+        "homage. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Kāraṇapālī asks about the Buddha's wisdom"),
+        ("p", "&sect;1", "an5.194:2.1-2.9"),
+        ("h3", "Five similes for hearing the teaching"),
+        ("p", "&sect;2", "an5.194:3.1-7.6"),
+        ("h3", "Kāraṇapālī's threefold homage"),
+        ("p", "&sect;3", "an5.194:8.1-11.1"),
+        ("h3", "The Buddha's praise, and taking refuge"),
+        ("p", "&sect;4", "an5.194:12.1-12.4"),
+    ],
+    quiz=[
+        {"q": "What does Kāraṇapālī initially ask Piṅgiyānī?",
+         "opts": [
+             "Whether he thinks the Buddha is astute, lucid in wisdom",
+             "Whether the Buddha has broken any precept",
+             "Where the Buddha is currently traveling",
+             "How many mendicants follow the Buddha"],
+         "correct": 0,
+         "expl": "A direct question about the Buddha's wisdom."},
+        {"q": "How does Piṅgiyānī initially respond to this question?",
+         "opts": [
+             "He deflects — 'who am I to judge, you'd need to be on his level'",
+             "He answers immediately in full detail",
+             "He refuses to discuss the Buddha at all",
+             "He insults the Buddha directly"],
+         "correct": 0,
+         "expl": "A pattern already seen at AN 5.169-170."},
+        {"q": "What does the honey-cake simile illustrate?",
+         "opts": [
+             "Finding sweetness in the teaching wherever one tastes it",
+             "The dangers of excessive sweetness",
+             "A formal ordination requirement",
+             "The proper diet for mendicants"],
+         "correct": 0,
+         "expl": "One of five distinct similes for hearing the teaching."},
+        {"q": "What does the lotus-pond simile illustrate?",
+         "opts": [
+             "Relief from exhaustion and stress upon hearing the teaching",
+             "The proper technique for bathing",
+             "A warning against contaminated water",
+             "The dangers of extreme heat"],
+         "correct": 0,
+         "expl": "The fifth of the five similes."},
+        {"q": "Are these five similes simply restating the same praise five times?",
+         "opts": [
+             "No — each names a genuinely distinct effect of hearing the teaching",
+             "Yes — all five describe an identical experience",
+             "Only two of the five are genuinely distinct",
+             "The similes have no relation to each other"],
+         "correct": 0,
+         "expl": "Satisfaction, sweetness, joy, an end to sorrow, and relief from exhaustion."},
+        {"q": "What does Kāraṇapālī do after hearing these similes?",
+         "opts": [
+             "Spontaneously utters threefold homage to the Buddha",
+             "Dismisses Piṅgiyānī's praise as excessive",
+             "Leaves without any response",
+             "Demands to test the Buddha's wisdom himself directly"],
+         "correct": 0,
+         "expl": "An unscripted, emotionally direct response."},
+        {"q": "What is structurally notable about Kāraṇapālī's homage?",
+         "opts": [
+             "He's moved to homage without ever hearing the Buddha teach directly in this discourse — only through Piṅgiyānī's account",
+             "He had personally heard the Buddha teach for years before this",
+             "The homage occurs before Kāraṇapālī asks any question at all",
+             "The Buddha personally requests this homage"],
+         "correct": 0,
+         "expl": "The teaching's power travels even at second hand, as this discourse presents it."},
+        {"q": "What does 'aggarasaparititto' describe?",
+         "opts": [
+             "Being completely satisfied by the best tasting food",
+             "Being weak from hunger",
+             "A formal meditation posture",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The first simile's image."},
+        {"q": "What discourse follows, continuing from this same setting?",
+         "opts": [
+             "AN 5.195, Piṅgiyānī",
+             "AN 5.200, Elements of Escape",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Piṅgiyānī himself moved to spontaneous verse in the Buddha's presence."},
+        {"q": "What does Kāraṇapālī do at the very end of this discourse?",
+         "opts": [
+             "Takes lifelong refuge as a lay follower",
+             "Returns to his work for the Licchavis without further comment",
+             "Challenges the Buddha directly",
+             "Rejects Piṅgiyānī's account as exaggerated"],
+         "correct": 0,
+         "expl": "Following the same pattern as Doṇa and Saṅgārava earlier in this chapter."},
+    ],
+    marginalia=[
+        ("Five similes, five effects", [
+            "satisfaction &middot;",
+            "sweetness &middot; joy &middot;",
+            "relief from sorrow &middot;",
+            "relief from exhaustion",
+        ]),
+        ("Moved at second hand", [
+            "homage paid without",
+            "hearing the Buddha "
+            "directly",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">udāna</span>",
+            "&mdash; a heartfelt",
+            "utterance",
+        ]),
+        ("Cross-references", [
+            "AN 5.169&ndash;170 &middot; the same deflection pattern, with Ānanda",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.194/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.193.html">AN 5.193 &middot; With Saṅgārava</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.195.html">AN 5.195 &middot; Piṅgiyānī</a> &mdash; next: this '
+        "same setting, continued.",
+        '<a href="an-5.169.html">AN 5.169 &middot; Quick-witted</a> &mdash; the same '
+        "deflection pattern, between Ānanda and Sāriputta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.195 — Piṅgiyānīsutta
+# --------------------------------------------------------------------------- #
+page(
+    195, "Piṅgiyānī", "Piṅgiyānī",
+    vagga=VAGGA_20,
+    meta_title="AN 5.195 — Piṅgiyānī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Piṅgiyānīsutta — a brahmin's spontaneous verse praising the Buddha, and five "
+        "treasures the Buddha names as rare in the world. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_194),
+        ("Speakers", "The brahmin Piṅgiyānī; the Buddha, addressing the Licchavis"),
+        ("Form", "a spontaneous verse, an act of generosity, then a five-item list"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a striking scene, "
+                       "closing in doctrine"),
+    ],
+    why=(
+        "Continuing directly from AN 5.194's setting, Piṅgiyānī himself is now moved "
+        "to spontaneous verse praising the Buddha, sets off an act of generosity that "
+        "quietly flows straight back to the Buddha, and prompts a teaching on five "
+        "things the Buddha calls genuinely rare in the world."),
+    guide=[
+        ("The Buddha, outshining five hundred nobles", [
+            "Around five hundred Licchavi nobles, dressed in vivid blue, yellow, red, "
+            "and white finery, are visiting the Buddha &mdash; and, the discourse "
+            "says plainly, he outshines every one of them in beauty and glory."]),
+        ("Piṅgiyānī's spontaneous verse", [
+            "Moved to speak, Piṅgiyānī compares the Buddha to a fragrant pink lotus "
+            "blooming at daybreak, and addresses him as &lsquo;Aṅgīrasa&rsquo; "
+            "&mdash; strikingly, the very name of one of the ten ancient Vedic seers "
+            "named at AN 5.192, now applied directly to the Buddha, as if claiming "
+            "him as that lineage's true fulfillment."]),
+        ("A gift that flows straight through", [
+            "Delighted, the Licchavis clothe Piṅgiyānī with five hundred robes "
+            "&mdash; and Piṅgiyānī immediately clothes the Buddha with every one of "
+            "them, keeping nothing for himself. Generosity, in this scene, doesn't "
+            "stop with him; it simply passes through."]),
+        ("Five rare treasures", [
+            "The Buddha then teaches the Licchavis: five things are rare in the "
+            "world &mdash; a fully awakened Buddha appearing at all; someone able to "
+            "teach what a Buddha has proclaimed; someone able to understand that "
+            "teaching; someone who practices in line with it; and, closing the list, "
+            "someone who is simply grateful and thankful."]),
+        ("Gratitude, closing an unexpected list", [
+            "The first four items build a clear institutional chain &mdash; a "
+            "teacher appearing, a transmitter, an understander, a practitioner. The "
+            "fifth breaks that pattern: gratitude (<em>kataññū katavedī</em>) isn't "
+            "specific to the Dhamma at all, but a basic human quality named here as "
+            "just as rare, and just as valuable, as the other four."]),
+        ("A quiet echo of this discourse's own scene", [
+            "Read the list against the scene that precedes it: Piṅgiyānī, having just "
+            "received five hundred robes, immediately and without hesitation passes "
+            "them on &mdash; a small, lived demonstration of exactly the gratitude the "
+            "Buddha then names as rare."]),
+    ],
+    terms=[
+        ("Aṅgīrasa",
+         "an epithet applied to the Buddha in Piṅgiyānī's verse &mdash; also the "
+         "name of one of the ten ancient Vedic seers named at AN 5.192."),
+        ("kokanada",
+         "&ldquo;a pink lotus&rdquo; &mdash; the flower Piṅgiyānī compares the "
+         "Buddha to, blooming fragrant at daybreak."),
+        ("ratana",
+         "&ldquo;treasure&rdquo; &mdash; this discourse's title concept for the five "
+         "things named as rare in the world."),
+        ("kataññū katavedī",
+         "&ldquo;grateful and thankful&rdquo; &mdash; the fifth and final rare "
+         "treasure, breaking the pattern of the first four."),
+        ("dullabha",
+         "&ldquo;rare, hard to obtain&rdquo; &mdash; the quality shared by all five "
+         "treasures this discourse names."),
+    ],
+    text_intro=(
+        "The discourse in full: Piṅgiyānī's verse, the robes, and the five rare "
+        "treasures. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Piṅgiyānī's verse"),
+        ("p", "&sect;1", "an5.195:1.1-4.2"),
+        ("h3", "Five rare treasures"),
+        ("p", "&sect;2", "an5.195:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse say about the Buddha's appearance among the assembled Licchavis?",
+         "opts": [
+             "He outshines all five hundred nobles in their vivid finery, in beauty and glory",
+             "He deliberately dresses to blend in with the crowd",
+             "He is described as physically unremarkable",
+             "He refuses to be seen by the Licchavis at all"],
+         "correct": 0,
+         "expl": "Despite their blue, yellow, red, and white finery."},
+        {"q": "What epithet does Piṅgiyānī use for the Buddha in his verse, also the name of a Vedic seer from AN 5.192?",
+         "opts": [
+             "Aṅgīrasa",
+             "Kassapa",
+             "Vāseṭṭha",
+             "Bhagu"],
+         "correct": 0,
+         "expl": "As if claiming the Buddha as that ancient lineage's true fulfillment."},
+        {"q": "What happens to the five hundred robes the Licchavis give Piṅgiyānī?",
+         "opts": [
+             "He immediately gives every one of them to the Buddha, keeping nothing",
+             "He keeps them all for his own use",
+             "He distributes them among the Licchavis' servants",
+             "He returns them to the Licchavis unused"],
+         "correct": 0,
+         "expl": "Generosity passing straight through him."},
+        {"q": "What five things does the Buddha call rare treasures in the world?",
+         "opts": [
+             "A Buddha appearing, a teacher, an understander, a practitioner, and someone grateful and thankful",
+             "The five precepts",
+             "Gold, silver, gems, land, and cattle",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Five things named as genuinely rare."},
+        {"q": "How does the fifth item, gratitude, differ from the first four?",
+         "opts": [
+             "It isn't specific to the Dhamma at all — a basic human quality named as equally rare",
+             "It is identical in scope to the other four",
+             "It applies only to fully liberated arahants",
+             "It has no genuine connection to the other four items"],
+         "correct": 0,
+         "expl": "Breaking the institutional-chain pattern of the first four."},
+        {"q": "What does 'kataññū katavedī' mean?",
+         "opts": [
+             "Grateful and thankful",
+             "Wise and learned",
+             "Faithful and devoted",
+             "Patient and enduring"],
+         "correct": 0,
+         "expl": "The fifth and final rare treasure named."},
+        {"q": "How does the scene preceding this teaching connect to its content?",
+         "opts": [
+             "Piṅgiyānī's immediate re-gifting of the robes demonstrates the very gratitude the Buddha then names as rare",
+             "The scene has no connection to the teaching that follows",
+             "The scene directly contradicts the teaching's conclusion",
+             "The robes are unrelated to any theme in the discourse"],
+         "correct": 0,
+         "expl": "A small, lived demonstration preceding the abstract teaching."},
+        {"q": "What does 'kokanada' mean?",
+         "opts": [
+             "A pink lotus",
+             "A type of monastic robe",
+             "A ceremonial offering",
+             "A formal title for a senior mendicant"],
+         "correct": 0,
+         "expl": "The flower Piṅgiyānī compares the Buddha to."},
+        {"q": "What discourse precedes this one, sharing the same setting?",
+         "opts": [
+             "AN 5.194, With Kāraṇapālī",
+             "AN 5.192, With the Brahmin Doṇa",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Continuing directly from the same Vesālī scene."},
+        {"q": "What does 'dullabha' mean?",
+         "opts": [
+             "Rare, hard to obtain",
+             "Common, easily found",
+             "Formally forbidden",
+             "Ceremonially required"],
+         "correct": 0,
+         "expl": "The quality shared by all five treasures this discourse names."},
+    ],
+    marginalia=[
+        ("A gift passed straight through", [
+            "five hundred robes,",
+            "immediately re-given",
+        ]),
+        ("Five rare treasures", [
+            "a Buddha &middot; a",
+            "teacher &middot; an",
+            "understander &middot; a",
+            "practitioner &middot; gratitude",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">kataññū katavedī</span>",
+            "&mdash; grateful",
+            "and thankful",
+        ]),
+        ("Cross-references", [
+            "AN 5.192 &middot; Aṅgīrasa, named there among the ancient Vedic seers",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.195/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.194.html">AN 5.194 &middot; With Kāraṇapālī</a> &mdash; the '
+        "previous discourse, this same setting's opening scene.",
+        '<a href="an-5.196.html">AN 5.196 &middot; The Great Dreams</a> &mdash; next: '
+        "five dreams that foretold the Buddha's awakening.",
+        '<a href="an-5.192.html">AN 5.192 &middot; With the Brahmin Doṇa</a> &mdash; '
+        "Aṅgīrasa, named there among the ancient Vedic seers.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.196 — Mahāsupinasutta
+# --------------------------------------------------------------------------- #
+page(
+    196, "Mahāsupina", "The Great Dreams",
+    vagga=VAGGA_20,
+    meta_title="AN 5.196 — The Great Dreams | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Mahāsupinasutta — five symbolic dreams the Buddha-to-be had before his "
+        "awakening, and what each one foretold. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "five dream-images, then their fulfillment explained one by one"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; vividly symbolic, "
+                       "explained in full"),
+    ],
+    why=(
+        "A striking piece of retrospective symbolism: five vivid dreams the "
+        "Buddha-to-be had before his awakening, each interpreted after the fact as a "
+        "foreshadowing of something that actually happened once he became "
+        "enlightened."),
+    guide=[
+        ("Five dream-images", [
+            "The great earth as a bed, the Himalayas as a pillow, hands and feet "
+            "reaching into the eastern, western, and southern seas; a blade of grass "
+            "called &lsquo;the crosser&rsquo; growing from his navel to press against "
+            "the sky; white, black-headed caterpillars crawling up to cover his "
+            "knees; four different-colored birds falling at his feet and turning pure "
+            "white; and walking back and forth across a mountain of filth without "
+            "being soiled by it."]),
+        ("Reading dreams as retrospective symbolism", [
+            "Rather than functioning as prophecy in the ordinary sense, each dream "
+            "is explained only after the fact, once its fulfillment has already "
+            "occurred &mdash; a narrative device using symbolic imagery to frame "
+            "events that have already happened as, in hindsight, always having been "
+            "destined."]),
+        ("What each dream is said to have foretold", [
+            "The first dream foretold the supreme awakening itself. The second, the "
+            "noble eightfold path being well proclaimed among gods and humans. The "
+            "third, many white-clothed laypeople going for refuge for life. The "
+            "fourth, members of all four social classes &mdash; aristocrats, "
+            "brahmins, peasants, and menials &mdash; going forth and equally "
+            "realizing supreme freedom. The fifth, receiving the four material "
+            "requisites and using them without being corrupted or attached, "
+            "understanding the escape from their dangers."]),
+        ("A pointed echo, in this same chapter, on caste", [
+            "The fourth dream's fulfillment &mdash; all four classes attaining "
+            "liberation equally &mdash; directly echoes AN 5.179's tamed-bull verse "
+            "from the previous chapter, and stands in the same deliberate tension "
+            "with this chapter's own use of caste-language at AN 5.175 and AN 5.192 "
+            "that this project has flagged before."]),
+        ("Symbolism worth reading as narrative device", [
+            "This discourse is best read for what it does within the collection's "
+            "storytelling &mdash; retrospectively framing the shape of the Buddha's "
+            "life and teaching's reception as having been, in a sense, prefigured "
+            "&mdash; rather than as a literal claim about predictive dreaming."]),
+    ],
+    terms=[
+        ("mahāsupina",
+         "&ldquo;a great dream&rdquo; &mdash; this discourse's title concept, one of "
+         "five the Buddha-to-be experienced before his awakening."),
+        ("bodhisatta",
+         "&ldquo;awakening being&rdquo; &mdash; the term for the Buddha before his "
+         "enlightenment, used throughout this discourse's narration."),
+        ("tiriyā",
+         "&ldquo;the crosser&rdquo; &mdash; the named grass in the second dream, "
+         "growing from the navel to the sky."),
+        ("mīḷhapabbata",
+         "&ldquo;a mountain of filth&rdquo; &mdash; the fifth dream's image, walked "
+         "across without being soiled."),
+        ("cattāro vaṇṇā",
+         "&ldquo;the four classes&rdquo; &mdash; aristocrats, brahmins, peasants, "
+         "and menials, named in the fourth dream's fulfillment as equally capable of "
+         "liberation."),
+    ],
+    text_intro=(
+        "The discourse in full: the five dreams, and what each foretold. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five great dreams"),
+        ("p", "&sect;1", "an5.196:1.1-5.2"),
+        ("h3", "What each dream foretold"),
+        ("p", "&sect;2", "an5.196:6.1-10.3"),
+    ],
+    quiz=[
+        {"q": "When did the five dreams in this discourse occur, according to the text?",
+         "opts": [
+             "Before the Buddha-to-be's awakening, while he was still intent on becoming enlightened",
+             "After the Buddha's death",
+             "During his childhood, decades before renunciation",
+             "The timing is not specified"],
+         "correct": 0,
+         "expl": "As a bodhisatta, not yet awakened."},
+        {"q": "What did the first dream depict?",
+         "opts": [
+             "The great earth as a bed, the Himalayas as a pillow, hands and feet reaching into the seas",
+             "A burning forest",
+             "A calm ocean voyage",
+             "A city under siege"],
+         "correct": 0,
+         "expl": "Later explained as foretelling the supreme awakening itself."},
+        {"q": "What did the fourth dream foretell, once explained?",
+         "opts": [
+             "Members of all four social classes equally realizing supreme freedom",
+             "The destruction of all four classes",
+             "Only aristocrats attaining liberation",
+             "A war between the four classes"],
+         "correct": 0,
+         "expl": "Aristocrats, brahmins, peasants, and menials, named explicitly."},
+        {"q": "How does the discourse structure the relationship between dream and meaning?",
+         "opts": [
+             "Each dream is explained only after the fact, once its fulfillment has already occurred",
+             "Each dream is explained before it occurs, as literal prophecy",
+             "The dreams are never explained at all",
+             "The dreams and their meanings are entirely unrelated"],
+         "correct": 0,
+         "expl": "A retrospective, narrative use of symbolism."},
+        {"q": "What did the fifth dream, walking on a mountain of filth unsoiled, foretell?",
+         "opts": [
+             "Receiving the four material requisites and using them without corruption or attachment",
+             "A literal walk across a battlefield",
+             "The Buddha's physical illness",
+             "A dispute with another ascetic teacher"],
+         "correct": 0,
+         "expl": "Understanding the escape from the dangers of material requisites."},
+        {"q": "What earlier discourse in this collection does the fourth dream's fulfillment echo?",
+         "opts": [
+             "AN 5.179's tamed-bull verse on caste and liberation",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth",
+             "AN 5.1, Trainee"],
+         "correct": 0,
+         "expl": "All four classes attaining liberation equally."},
+        {"q": "How does this guide recommend reading this discourse's symbolism?",
+         "opts": [
+             "As narrative device, retrospectively framing the Buddha's life as prefigured, not as literal predictive dreaming",
+             "As a literal scientific claim about dream prophecy",
+             "As entirely unrelated to the Buddha's actual life",
+             "As a later forgery with no connection to the collection"],
+         "correct": 0,
+         "expl": "A storytelling function within the collection's narrative."},
+        {"q": "What does 'bodhisatta' mean?",
+         "opts": [
+             "Awakening being — the term for the Buddha before his enlightenment",
+             "A fully liberated arahant",
+             "A senior mendicant",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "Used throughout this discourse's narration of the five dreams."},
+        {"q": "What did the second dream, grass growing to the sky, foretell?",
+         "opts": [
+             "The noble eightfold path being well proclaimed among gods and humans",
+             "A literal agricultural event",
+             "The destruction of the natural world",
+             "A dispute over land ownership"],
+         "correct": 0,
+         "expl": "The path's proclamation reaching far and wide."},
+        {"q": "What did the third dream, caterpillars covering the knees, foretell?",
+         "opts": [
+             "Many white-clothed laypeople going for refuge for life",
+             "A plague affecting the Buddha's followers",
+             "The Buddha's own illness",
+             "A dispute among senior mendicants"],
+         "correct": 0,
+         "expl": "Lay followers, described by their traditional white clothing."},
+    ],
+    marginalia=[
+        ("Five symbolic images", [
+            "earth as bed &middot;",
+            "grass to the sky &middot;",
+            "caterpillars &middot;",
+            "four birds &middot; filth",
+            "unsoiled",
+        ]),
+        ("Explained only afterward", [
+            "meaning follows",
+            "fulfillment, not precedes it",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">cattāro vaṇṇā</span>",
+            "&mdash; the four",
+            "classes",
+        ]),
+        ("Cross-references", [
+            "AN 5.179 &middot; the same claim about caste and liberation, in verse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.196/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.195.html">AN 5.195 &middot; Piṅgiyānī</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.197.html">AN 5.197 &middot; Obstacles to Rain</a> &mdash; next: '
+        "five causes even professional forecasters can't foresee.",
+        '<a href="an-5.179.html">AN 5.179 &middot; A Layperson</a> &mdash; the same '
+        "claim about caste and liberation, in a different discourse's verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.197 — Vassasutta
+# --------------------------------------------------------------------------- #
+page(
+    197, "Vassa", "Obstacles to Rain",
+    vagga=VAGGA_20,
+    meta_title="AN 5.197 — Obstacles to Rain | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vassasutta — five causes of failed rainfall that professional forecasters "
+        "can't foresee, mixing elemental, cosmological, and moral causes. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive mirror"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, blending "
+                       "elemental, mythic, and moral causes"),
+    ],
+    why=(
+        "A genuinely striking mixture: two causes of failed rainfall that read as "
+        "elemental or meteorological, two that are frankly mythological, and one "
+        "moral cause &mdash; human wrongdoing itself &mdash; all named in a single "
+        "list as equally real obstacles that professional rain-forecasters can't "
+        "foresee."),
+    guide=[
+        ("Five causes forecasters can't see", [
+            "The fire element flaring up in the upper atmosphere and dispersing "
+            "clouds; the air element doing the same; Rāhu, lord of the titans, "
+            "catching rainwater in his hand and discarding it into the ocean; the "
+            "gods of the rain clouds becoming negligent; and, finally, humans "
+            "becoming unprincipled."]),
+        ("Elemental, mythic, and moral causes side by side", [
+            "This discourse doesn't distinguish between these five as different "
+            "kinds of explanation &mdash; a physical process, a divine figure's "
+            "action, celestial negligence, and human ethics are presented as a "
+            "single unified list, reflecting a cosmology where moral and natural "
+            "order aren't separate domains."]),
+        ("Reading this cosmology honestly", [
+            "This guide states this discourse's own worldview plainly, without "
+            "reading it as literal contemporary meteorology or forcing it into a "
+            "purely symbolic register it doesn't claim for itself &mdash; the text "
+            "presents human wrongdoing as a genuine, if unusual, cause of failed "
+            "rain, on the same level as elemental disturbance."]),
+        ("What forecasters miss", [
+            "The discourse's specific claim is pointed: professional diviners "
+            "(<em>nemitta</em>), whose whole profession is predicting weather, "
+            "simply cannot see these five causes &mdash; their expertise has a real "
+            "limit, and that limit includes a moral dimension their methods aren't "
+            "built to detect."]),
+        ("A brief, unresolved provocation", [
+            "Unlike several richer discourses in this chapter, this one offers no "
+            "further explanation or elaboration &mdash; simply the bare list, left "
+            "for the reader to sit with rather than resolved into a tidy moral "
+            "lesson."]),
+    ],
+    terms=[
+        ("vassassa antarāyā",
+         "&ldquo;obstacles to rain&rdquo; &mdash; this discourse's title concept, the "
+         "five causes named."),
+        ("nemitta",
+         "&ldquo;forecaster, diviner&rdquo; &mdash; a professional weather-predictor, "
+         "explicitly said not to know these five causes."),
+        ("Rāhu",
+         "the lord of the titans (<em>asura</em>), named here as directly "
+         "responsible for one of the five causes of failed rain."),
+        ("adhammikā",
+         "&ldquo;unprincipled, unrighteous&rdquo; &mdash; the human condition named "
+         "as the fifth and final obstacle to rainfall."),
+        ("tejodhātu, vāyodhātu",
+         "the fire element and the air element, named as the first two, more "
+         "elemental causes in this discourse's list."),
+    ],
+    text_intro=(
+        "The discourse in full: five causes of failed rain that forecasters can't "
+        "see. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five obstacles to rain"),
+        ("p", "&sect;1", "an5.197:1.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What five causes of failed rainfall does this discourse name?",
+         "opts": [
+             "Fire element flaring, air element flaring, Rāhu discarding water, negligent rain-gods, and human wrongdoing",
+             "The five precepts",
+             "The five aggregates",
+             "The four seasons"],
+         "correct": 0,
+         "expl": "A mixture of elemental, mythic, and moral causes."},
+        {"q": "What does this discourse say professional forecasters cannot do?",
+         "opts": [
+             "See or know these five causes at all",
+             "Predict weather with any accuracy whatsoever",
+             "Practice their profession legally",
+             "Communicate with the rain-cloud gods"],
+         "correct": 0,
+         "expl": "Their expertise has a limit that includes a moral dimension."},
+        {"q": "Who is Rāhu, named in this discourse?",
+         "opts": [
+             "The lord of the titans (asura)",
+             "A human king",
+             "A senior mendicant",
+             "A brahmin sage"],
+         "correct": 0,
+         "expl": "Directly responsible for one of the five causes."},
+        {"q": "What is the fifth and final cause named?",
+         "opts": [
+             "Humans becoming unprincipled",
+             "A drought caused entirely by natural cycles",
+             "The Buddha's own absence from a region",
+             "A dispute among rain-forecasters"],
+         "correct": 0,
+         "expl": "A moral cause, listed alongside elemental and mythic ones."},
+        {"q": "How does this discourse treat the relationship between moral conduct and natural order?",
+         "opts": [
+             "As part of a single, unified causal picture, not as separate domains",
+             "As entirely unrelated to each other",
+             "As a purely symbolic metaphor with no real causal claim",
+             "As contradicting each other directly"],
+         "correct": 0,
+         "expl": "Elemental, mythic, and moral causes presented side by side."},
+        {"q": "How does this guide recommend reading this discourse's cosmology?",
+         "opts": [
+             "Stated plainly, neither as literal contemporary science nor forced into pure symbolism",
+             "As definitively proven modern meteorology",
+             "As entirely fictional with no bearing on the text's own worldview",
+             "As a later addition unrelated to the rest of the collection"],
+         "correct": 0,
+         "expl": "Presenting the text's own worldview honestly."},
+        {"q": "What does 'nemitta' mean?",
+         "opts": [
+             "A forecaster or diviner, professionally predicting weather",
+             "A formal ordination title",
+             "A type of rain-cloud deity",
+             "A meditation technique"],
+         "correct": 0,
+         "expl": "Explicitly said not to know these five causes."},
+        {"q": "What does this discourse offer beyond its bare list?",
+         "opts": [
+             "No further explanation — it's left unresolved, unlike richer discourses in this chapter",
+             "An extensive multi-paragraph elaboration",
+             "A narrative with named characters",
+             "A closing colophon for the whole chapter"],
+         "correct": 0,
+         "expl": "One of this chapter's briefer, more provocative discourses."},
+        {"q": "What does 'adhammikā' mean?",
+         "opts": [
+             "Unprincipled, unrighteous",
+             "Highly ethical and disciplined",
+             "Newly ordained",
+             "Formally accused"],
+         "correct": 0,
+         "expl": "The human condition named as the fifth obstacle to rain."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "A single five-item list, with no positive mirror",
+             "Two paired five-item lists",
+             "An extended narrative with dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "One of this nipāta's briefer, more direct discourses."},
+    ],
+    marginalia=[
+        ("Five unified causes", [
+            "elemental &middot;",
+            "mythic &middot; moral",
+            "&mdash; one list",
+        ]),
+        ("A limit to expertise", [
+            "forecasters simply",
+            "cannot see these five",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">nemitta</span>",
+            "&mdash; a forecaster,",
+            "diviner",
+        ]),
+        ("Cross-references", [
+            "AN 5.196 &middot; another discourse in this chapter using symbolic, "
+            "non-literal imagery",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.197/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.196.html">AN 5.196 &middot; The Great Dreams</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.198.html">AN 5.198 &middot; Well-Spoken Words</a> &mdash; next: '
+        "the five factors of blameless speech.",
+        '<a href="an-5.167.html">AN 5.167 &middot; Accusation</a> &mdash; where the '
+        "same five speech-factors appear, applied to a different topic.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.198 — Vācāsutta
+# --------------------------------------------------------------------------- #
+page(
+    198, "Vācā", "Well-Spoken Words",
+    vagga=VAGGA_20,
+    meta_title="AN 5.198 — Well-Spoken Words | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vācāsutta — the five factors of blameless speech, timely, true, gentle, "
+        "beneficial, and loving, restated from AN 5.167 in a general form. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive/negative mirror"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, a direct "
+                       "restatement"),
+    ],
+    why=(
+        "The exact same five-part standard from AN 5.167's teaching on making "
+        "accusations well &mdash; timely, true, gentle, beneficial, loving &mdash; "
+        "restated here in its most general form, as the measure of any speech at "
+        "all, not only criticism."),
+    guide=[
+        ("The identical five factors, generalized", [
+            "Speech that is timely (<em>kālena</em>), true (<em>saccā</em>), gentle "
+            "(<em>saṇhā</em>), beneficial (<em>atthasaṁhitā</em>), and loving "
+            "(<em>mettacittena</em>) is called well spoken, blameless, and beyond "
+            "criticism &mdash; the same five qualifiers AN 5.167 required "
+            "specifically of an accuser, now applied to speech of any kind."]),
+        ("From a specific case to the general rule", [
+            "AN 5.167 needed this standard because accusation is a genuinely fraught "
+            "kind of speech, where getting it wrong causes real harm. This "
+            "discourse's move is to state plainly that the same five conditions "
+            "define good speech universally &mdash; accusation was simply the "
+            "hardest test case, not a special exception."]),
+        ("A short, standalone statement", [
+            "Unlike AN 5.167's extended treatment, with its paired reassure/chasten "
+            "formulas and closing narrative, this discourse states the five factors "
+            "once, without elaboration or narrative frame &mdash; the bare principle, "
+            "isolated from any particular application."]),
+        ("Five factors, one bar to clear", [
+            "The discourse's phrasing is notable: speech isn't well spoken if it "
+            "meets four of the five conditions but misses one. All five together "
+            "constitute the standard, exactly as in AN 5.167."]),
+        ("What follows", [
+            "AN 5.199 shifts from the ethics of speech to the ethics of hosting "
+            "&mdash; five reasons a family gains merit simply by welcoming ethical "
+            "renunciates."]),
+    ],
+    terms=[
+        ("subhāsitā, dubbhāsitā",
+         "&ldquo;well spoken&rdquo; and &ldquo;poorly spoken&rdquo; &mdash; this "
+         "discourse's central distinction."),
+        ("kālena, saccā, saṇhā, atthasaṁhitā, mettacittena",
+         "timely, true, gentle, beneficial, and loving &mdash; the identical five "
+         "factors already named at AN 5.167."),
+        ("anavajjā ca ananuvajjā ca viññūnaṁ",
+         "&ldquo;blameless and beyond criticism by sensible people&rdquo; &mdash; the "
+         "standard well-spoken speech meets."),
+        ("aṅga",
+         "&ldquo;factor&rdquo; &mdash; the term for each of the five conditions "
+         "speech must meet."),
+        ("vācā",
+         "&ldquo;speech&rdquo; &mdash; this discourse's title concept and general "
+         "subject."),
+    ],
+    text_intro=(
+        "The discourse in full: the five factors of well-spoken, blameless speech. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five factors of well-spoken speech"),
+        ("p", "&sect;1", "an5.198:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five factors does this discourse name for well-spoken speech?",
+         "opts": [
+             "Timely, true, gentle, beneficial, and loving",
+             "Loud, quick, formal, public, and repeated",
+             "The five precepts",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "The identical five qualifiers from AN 5.167."},
+        {"q": "Where else in this collection do these exact same five factors appear?",
+         "opts": [
+             "AN 5.167, applied specifically to making an accusation",
+             "Nowhere else in this collection",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth"],
+         "correct": 0,
+         "expl": "This discourse generalizes AN 5.167's specific standard."},
+        {"q": "What move does this discourse make relative to AN 5.167?",
+         "opts": [
+             "It states the same five conditions as defining good speech universally, not only for accusation",
+             "It contradicts AN 5.167's conclusions",
+             "It adds five entirely new conditions",
+             "It removes one of the five factors"],
+         "correct": 0,
+         "expl": "Accusation was the hardest test case, not a special exception."},
+        {"q": "How does this discourse's treatment compare to AN 5.167's?",
+         "opts": [
+             "Much shorter — a bare statement with no elaboration or narrative frame",
+             "Much longer, with extensive additional detail",
+             "Identical in length and structure",
+             "Entirely different in content"],
+         "correct": 0,
+         "expl": "The isolated principle, without AN 5.167's extended treatment."},
+        {"q": "What does this discourse's phrasing suggest about the five factors?",
+         "opts": [
+             "All five together constitute the standard — meeting only four isn't sufficient",
+             "Any one of the five alone is sufficient",
+             "The five factors are mutually exclusive",
+             "Only the first factor actually matters"],
+         "correct": 0,
+         "expl": "A conjunctive standard, exactly as in AN 5.167."},
+        {"q": "What does 'saṇhā' mean, as one of the five factors?",
+         "opts": [
+             "Gentle",
+             "Loud",
+             "Formal",
+             "Public"],
+         "correct": 0,
+         "expl": "One of the five qualifiers speech must meet."},
+        {"q": "What discourse follows, shifting to the ethics of hosting renunciates?",
+         "opts": [
+             "AN 5.199, Families",
+             "AN 5.200, Elements of Escape",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Five reasons a family gains merit from welcoming ethical renunciates."},
+        {"q": "What does 'anavajjā ca ananuvajjā ca viññūnaṁ' mean?",
+         "opts": [
+             "Blameless and beyond criticism by sensible people",
+             "Formally sanctioned by a king",
+             "Recorded in writing for posterity",
+             "Suitable only for monastics"],
+         "correct": 0,
+         "expl": "The standard well-spoken speech meets."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Brāhmaṇavagga",
+             "Āghātavagga",
+             "Upāsakavagga",
+             "Araññavagga"],
+         "correct": 0,
+         "expl": "'Brahmins', this session's twentieth chapter."},
+        {"q": "What does 'mettacittena' mean?",
+         "opts": [
+             "With a loving heart",
+             "With a hostile heart",
+             "With a formal, distant manner",
+             "With complete silence"],
+         "correct": 0,
+         "expl": "The fifth of the five factors, unchanged from AN 5.167."},
+    ],
+    marginalia=[
+        ("Five factors, generalized", [
+            "the same standard,",
+            "now for any speech",
+        ]),
+        ("Accusation was the test case", [
+            "not a special",
+            "exception",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">subhāsitā</span>",
+            "&mdash; well spoken",
+        ]),
+        ("Cross-references", [
+            "AN 5.167 &middot; this discourse's fuller, more specific treatment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.198/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.197.html">AN 5.197 &middot; Obstacles to Rain</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.199.html">AN 5.199 &middot; Families</a> &mdash; next: five '
+        "reasons a family gains merit from welcoming ethical renunciates.",
+        '<a href="an-5.167.html">AN 5.167 &middot; Accusation</a> &mdash; this same '
+        "five-factor standard, applied specifically to making an accusation.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.199 — Kulasutta
+# --------------------------------------------------------------------------- #
+page(
+    199, "Kula", "Families",
+    vagga=VAGGA_20,
+    meta_title="AN 5.199 — Families | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kulasutta — five simple actions when ethical renunciates visit a home, each "
+        "tied to a specific favorable outcome for the family. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, each paired with a specific outcome"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, practical, "
+                       "and precisely structured"),
+    ],
+    why=(
+        "A practical, precisely structured teaching for lay households: five simple "
+        "responses to a visiting ethical renunciate, each tied to a specific "
+        "favorable outcome &mdash; not a vague promise of general merit, but five "
+        "distinct actions matched to five distinct results."),
+    guide=[
+        ("Faith, on sight, leads to heaven", [
+            "Simply seeing an ethical renunciate arrive and feeling confidence rise "
+            "in one's heart is itself already &lsquo;practicing a path leading to "
+            "heaven&rsquo; &mdash; before any material exchange has even taken "
+            "place."]),
+        ("Respect leads to an eminent birth", [
+            "Rising from one's seat, bowing, and offering a seat &mdash; ordinary "
+            "gestures of respect &mdash; are tied specifically to a future birth in "
+            "an eminent family, matching the respectful gesture to a respect-shaped "
+            "outcome."]),
+        ("Letting go of stinginess leads to being illustrious", [
+            "The third item names an internal shift, not an action: giving up "
+            "&lsquo;the stain of stinginess&rsquo; itself, prior to any actual "
+            "giving, already sets a family on the path to being "
+            "&lsquo;illustrious&rsquo; &mdash; socially prominent and influential."]),
+        ("Sharing leads to wealth, learning leads to wisdom", [
+            "The fourth and fifth items complete the pattern: actually sharing what "
+            "one has, as one is able, leads to future wealth; asking questions and "
+            "listening to the teaching leads to future wisdom &mdash; each cause "
+            "precisely matched to its corresponding effect."]),
+        ("A structure worth noticing", [
+            "Read across all five, this discourse builds a deliberate escalation: "
+            "from an internal feeling (faith), through outward gesture (respect) and "
+            "internal disposition (non-stinginess), to actual material sharing and "
+            "finally intellectual engagement &mdash; five progressively deeper forms "
+            "of response, each with its own matched reward."]),
+        ("A companion to AN 5.176's exhortation", [
+            "Cross-ref AN 5.176 from the previous chapter, where the Buddha tells "
+            "lay donors not to be content with material support alone. This "
+            "discourse's fifth item &mdash; asking questions and listening &mdash; "
+            "names exactly the deeper engagement that exhortation calls for."]),
+    ],
+    terms=[
+        ("sīlavanto pabbajitā",
+         "&ldquo;ethical renunciates&rdquo; &mdash; the visitors whose arrival "
+         "triggers this discourse's five opportunities."),
+        ("cittāni pasādenti",
+         "&ldquo;bring up confidence in their hearts&rdquo; &mdash; the first, purely "
+         "internal response, tied to a path leading to heaven."),
+        ("maccheramala",
+         "&ldquo;the stain of stinginess&rdquo; &mdash; the internal obstacle the "
+         "third item describes letting go of."),
+        ("yathāsatti yathābalaṁ",
+         "&ldquo;as best they can, according to their ability&rdquo; &mdash; "
+         "qualifying the fourth item's act of sharing, proportionate rather than "
+         "absolute."),
+        ("paṭipadaṁ paṭipannaṁ",
+         "&ldquo;practicing a path&rdquo; &mdash; the phrase repeated for each of "
+         "the five items, framing each response as already setting a direction."),
+    ],
+    text_intro=(
+        "The discourse in full: five responses to a visiting renunciate, each with "
+        "its matched outcome. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five reasons families gain merit"),
+        ("p", "&sect;1", "an5.199:1.1-5.2"),
+    ],
+    quiz=[
+        {"q": "What triggers this discourse's five opportunities?",
+         "opts": [
+             "Ethical renunciates visiting a family's home",
+             "A formal religious festival",
+             "A king's official visit",
+             "A funeral ceremony"],
+         "correct": 0,
+         "expl": "The occasion this whole discourse is built around."},
+        {"q": "What outcome is tied to simply feeling confidence rise upon seeing renunciates arrive?",
+         "opts": [
+             "A path leading to heaven",
+             "A path leading to great wealth",
+             "A path leading to great wisdom",
+             "No specific outcome is named"],
+         "correct": 0,
+         "expl": "The first, purely internal response."},
+        {"q": "What outcome is tied to rising, bowing, and offering a seat?",
+         "opts": [
+             "A path leading to birth in an eminent family",
+             "A path leading to heaven",
+             "A path leading to great wisdom",
+             "No specific outcome is named"],
+         "correct": 0,
+         "expl": "Respect-shaped gesture matched to a respect-shaped outcome."},
+        {"q": "What internal shift does the third item describe?",
+         "opts": [
+             "Giving up the stain of stinginess itself, prior to any actual giving",
+             "Formal ordination",
+             "A vow of permanent silence",
+             "Abandoning all family relationships"],
+         "correct": 0,
+         "expl": "Tied to a path leading to being illustrious."},
+        {"q": "What outcome is tied to actually sharing what one has, as one is able?",
+         "opts": [
+             "A path leading to great wealth",
+             "A path leading to heaven",
+             "A path leading to an eminent birth",
+             "No specific outcome is named"],
+         "correct": 0,
+         "expl": "The fourth item, involving actual material sharing."},
+        {"q": "What outcome is tied to asking questions and listening to the teaching?",
+         "opts": [
+             "A path leading to great wisdom",
+             "A path leading to great wealth",
+             "A path leading to an eminent birth",
+             "No specific outcome is named"],
+         "correct": 0,
+         "expl": "The fifth and final item, intellectual engagement."},
+        {"q": "What structural pattern do the five items follow, read together?",
+         "opts": [
+             "An escalation from internal feeling through gesture and disposition to material sharing and intellectual engagement",
+             "Five entirely unrelated, randomly ordered items",
+             "A simple repetition of the same single action five times",
+             "A strict decline from most to least important"],
+         "correct": 0,
+         "expl": "Five progressively deeper forms of response."},
+        {"q": "What does 'maccheramala' mean?",
+         "opts": [
+             "The stain of stinginess",
+             "The stain of anger",
+             "A formal accusation",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The internal obstacle the third item describes releasing."},
+        {"q": "What earlier discourse does this one's fifth item connect to?",
+         "opts": [
+             "AN 5.176, Rapture — the exhortation not to be content with material support alone",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth",
+             "AN 5.1, Trainee"],
+         "correct": 0,
+         "expl": "Asking questions and listening names exactly that deeper engagement."},
+        {"q": "What does 'yathāsatti yathābalaṁ' mean?",
+         "opts": [
+             "As best one can, according to one's ability",
+             "Only when formally required",
+             "Exclusively in public settings",
+             "Only on specific festival days"],
+         "correct": 0,
+         "expl": "Qualifying the fourth item's sharing as proportionate, not absolute."},
+    ],
+    marginalia=[
+        ("Five matched pairs", [
+            "faith &rarr; heaven &middot;",
+            "respect &rarr; status &middot;",
+            "non-stinginess &rarr;",
+            "renown &middot; sharing &rarr;",
+            "wealth &middot; learning &rarr;",
+            "wisdom",
+        ]),
+        ("An escalating pattern", [
+            "feeling, gesture,",
+            "disposition, action,",
+            "engagement",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">maccheramala</span>",
+            "&mdash; the stain of",
+            "stinginess",
+        ]),
+        ("Cross-references", [
+            "AN 5.176 &middot; the exhortation this discourse's fifth item answers",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.199/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.198.html">AN 5.198 &middot; Well-Spoken Words</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.200.html">AN 5.200 &middot; Elements of Escape</a> &mdash; '
+        "next: this chapter's closer, on a mind fully freed.",
+        '<a href="an-5.176.html">AN 5.176 &middot; Rapture</a> &mdash; the exhortation '
+        "this discourse's fifth item directly answers.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.200 — Nissāraṇīyasutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    200, "Nissāraṇīya", "Elements of Escape",
+    vagga=VAGGA_20,
+    meta_title="AN 5.200 — Elements of Escape | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nissāraṇīyasutta, closing the Brāhmaṇavagga — five deep meditative escapes, "
+        "from sensual pleasure through form to the cessation of selfhood itself. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "five parallel structures, one per object of attachment, plus a "
+                 "closing conclusion"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; deeply meditative, "
+                       "escalating toward liberation itself"),
+    ],
+    why=(
+        "This chapter's closing discourse is one of its most profound: five "
+        "progressively deeper &lsquo;elements of escape&rsquo;, moving from ordinary "
+        "sensuality and ill will, through form itself, to the cessation of "
+        "selfhood &mdash; nibbāna, described here in strikingly experiential rather "
+        "than doctrinal terms."),
+    guide=[
+        ("A repeated diagnostic structure", [
+            "For each of five objects, the same test is applied: does the mind "
+            "&lsquo;leap forth, gain confidence, settle down, and become "
+            "decided&rsquo; when focused on the object itself, or only when focused "
+            "on its escape? In every case, the mind resists the object and settles "
+            "only on the escape &mdash; a direct, experiential criterion for what "
+            "genuinely frees the mind, not a theoretical claim."]),
+        ("Escape from sensual pleasures, ill will, and harming", [
+            "The first three escapes are the most immediately practical: the escape "
+            "from sensual pleasure is renunciation; from ill will, good will; from "
+            "harming, compassion &mdash; each freeing the mind from its "
+            "corresponding &lsquo;distressing and feverish defilements&rsquo;."]),
+        ("Escape from form, and from selfhood itself", [
+            "The fourth escape moves to something more abstract: the escape from "
+            "form (<em>rūpa</em>) is the formless (<em>arūpa</em>). The fifth moves "
+            "further still: the escape from &lsquo;substantial reality&rsquo; "
+            "(<em>sakkāya</em> &mdash; personal identity, the five aggregates taken "
+            "as self) is the cessation of substantial reality itself "
+            "(<em>sakkāyanirodha</em>) &mdash; effectively nibbāna, described here as "
+            "simply the fifth and final item in a progressive sequence rather than "
+            "as a separate, mysterious category."]),
+        ("An escalating sequence, not five unrelated items", [
+            "Read in order, these five escapes trace a genuine progression: from "
+            "ethical concerns (sensuality, ill will, harming) through metaphysical "
+            "ones (form, then selfhood) &mdash; the same structure, applied with "
+            "increasing depth at each stage."]),
+        ("Closing the chapter", [
+            "The discourse closes by naming the mendicant free of all five "
+            "underlying tendencies as one who has &lsquo;cut off craving, cast off "
+            "the fetters&hellip;and made an end of suffering&rsquo; &mdash; a "
+            "description of arahantship, closing both this discourse and the "
+            "chapter with the tradition's own definition of complete liberation. The "
+            "chapter then ends with its colophon, &lsquo;Dasamaṁ. Brāhmaṇavaggo "
+            "pañcamo&rsquo;, and an uddāna verse naming this chapter's ten "
+            "discourses in brief, the mechanism explained in full at AN 5.10."]),
+    ],
+    terms=[
+        ("nissāraṇīyā dhātuyo",
+         "&ldquo;elements of escape&rdquo; &mdash; this discourse's title concept, "
+         "the five progressive escapes it names."),
+        ("cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati",
+         "&ldquo;the mind leaps forth, gains confidence, settles down, and becomes "
+         "decided&rdquo; &mdash; the experiential test applied to each of the five "
+         "escapes."),
+        ("sakkāya",
+         "&ldquo;substantial reality&rdquo; &mdash; personal identity, the five "
+         "aggregates taken as self, the fifth and deepest object of attachment "
+         "named."),
+        ("sakkāyanirodha",
+         "&ldquo;the cessation of substantial reality&rdquo; &mdash; effectively "
+         "nibbāna, named here as the fifth escape."),
+        ("niranusayo",
+         "&ldquo;without underlying tendencies&rdquo; &mdash; the closing "
+         "description of a mendicant free of all five objects of attachment."),
+    ],
+    text_intro=(
+        "The discourse in full: five progressive escapes, from sensuality to the "
+        "cessation of selfhood. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Escape from sensual pleasures, ill will, and harming"),
+        ("p", "&sect;1", "an5.200:1.1-3.5"),
+        ("h3", "Escape from form, and from selfhood itself"),
+        ("p", "&sect;2", "an5.200:4.1-5.5"),
+        ("h3", "Free from all five, an end of suffering"),
+        ("p", "&sect;3", "an5.200:6.1-6.3"),
+    ],
+    quiz=[
+        {"q": "What experiential test does this discourse apply to each of the five objects?",
+         "opts": [
+             "Whether the mind leaps forth, gains confidence, settles, and becomes decided when focused on the object or its escape",
+             "Whether the object can be seen with the physical eye",
+             "Whether the object is mentioned in the Vedas",
+             "Whether a king has ever punished someone for it"],
+         "correct": 0,
+         "expl": "A direct, experiential criterion, not a theoretical claim."},
+        {"q": "What is the escape from sensual pleasures, according to this discourse?",
+         "opts": [
+             "Renunciation (nekkhamma)",
+             "Further indulgence",
+             "Formal ordination alone",
+             "Silence"],
+         "correct": 0,
+         "expl": "The first of five progressive escapes."},
+        {"q": "What is the escape from ill will?",
+         "opts": [
+             "Good will (abyāpāda)",
+             "Suppression without transformation",
+             "Avoidance of all social contact",
+             "Formal apology"],
+         "correct": 0,
+         "expl": "The second escape, freeing the mind from ill will's defilements."},
+        {"q": "What is the escape from form (rūpa)?",
+         "opts": [
+             "The formless (arūpa)",
+             "A different, more pleasant form",
+             "Complete sensory deprivation",
+             "Physical exercise"],
+         "correct": 0,
+         "expl": "The fourth, more abstract escape in this sequence."},
+        {"q": "What is the escape from 'sakkāya', substantial reality or personal identity?",
+         "opts": [
+             "The cessation of substantial reality itself (sakkāyanirodha)",
+             "A stronger, more secure sense of self",
+             "Physical relocation to a different place",
+             "Formal legal recognition of identity"],
+         "correct": 0,
+         "expl": "Effectively nibbāna, the fifth and deepest escape."},
+        {"q": "What progression do these five escapes trace, read in order?",
+         "opts": [
+             "From ethical concerns through increasingly metaphysical ones",
+             "A random, unordered list with no progression",
+             "A decline from most to least significant",
+             "A repetition of the same single escape five times"],
+         "correct": 0,
+         "expl": "Sensuality, ill will, and harming, then form, then selfhood."},
+        {"q": "How does this discourse describe a mendicant free of all five underlying tendencies?",
+         "opts": [
+             "As one who has cut off craving, cast off the fetters, and made an end of suffering",
+             "As a formally ordained novice",
+             "As someone still developing basic ethics",
+             "As a lay follower who has taken refuge"],
+         "correct": 0,
+         "expl": "A description of arahantship, complete liberation."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "'Dasamaṁ. Brāhmaṇavaggo pañcamo.'",
+             "'Dasamaṁ. Araññavaggo catuttho.'",
+             "No colophon appears in this chapter",
+             "'Ekādasamaṁ. Kimilavaggo.'"],
+         "correct": 0,
+         "expl": "'The tenth. The fifth chapter on brahmins.'"},
+        {"q": "What mechanism does the closing uddāna verse use?",
+         "opts": [
+             "A summary verse naming this chapter's ten discourses in brief, explained in full at AN 5.10",
+             "A formal legal proceeding",
+             "A newly introduced technique unique to this chapter",
+             "A narrative epilogue with named characters"],
+         "correct": 0,
+         "expl": "The same summarizing mechanism used throughout this project."},
+        {"q": "What chapter comes next?",
+         "opts": [
+             "Kimilavagga",
+             "Akkosakavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "AN 5.201 begins this collection's twenty-first chapter."},
+    ],
+    marginalia=[
+        ("Five progressive escapes", [
+            "sensuality &middot; ill will",
+            "&middot; harming &middot;",
+            "form &middot; selfhood",
+        ]),
+        ("A test the mind itself passes", [
+            "leaping forth, settling,",
+            "becoming decided",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sakkāyanirodha</span>",
+            "&mdash; the cessation",
+            "of selfhood",
+        ]),
+        ("Cross-references", [
+            "AN 5.10 &middot; the uddāna mechanism, explained there in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.200/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.199.html">AN 5.199 &middot; Families</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.191.html">AN 5.191 &middot; Hounds</a> &mdash; this '
+        "chapter&rsquo;s opening discourse.",
+        '<a href="an-5.193.html">AN 5.193 &middot; With Saṅgārava</a> &mdash; another '
+        "discourse in this chapter on a mind&rsquo;s freedom from obstruction.",
+    ],
+)
