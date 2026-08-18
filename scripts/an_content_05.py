@@ -42590,3 +42590,1979 @@ page(
         "discourse in this chapter&rsquo;s practical, everyday register.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.211 — Akkosakasutta
+# --------------------------------------------------------------------------- #
+VAGGA_22 = "<em>Akkosakavagga</em> &mdash; the twenty-second chapter of the Fives"
+
+page(
+    211, "Akkosaka", "An Abuser",
+    vagga=VAGGA_22,
+    meta_title="AN 5.211 — An Abuser | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Akkosakasutta, opening the Akkosakavagga — five drawbacks awaiting a "
+        "mendicant who abuses and denounces the noble ones. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive mirror"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a "
+                       "new chapter with real severity"),
+    ],
+    why=(
+        "This chapter opens with real severity: a mendicant who abuses and "
+        "insults their spiritual companions, denouncing the noble ones, faces "
+        "consequences ranging from a formal, expellable offense to hell itself "
+        "&mdash; the harshest opening list in this stretch of the collection."),
+    guide=[
+        ("A new chapter, a harsh opening", [
+            "The Akkosakavagga (&ldquo;Abuse&rdquo;) opens with genuinely severe "
+            "consequences, unlike this collection's many gentler &lsquo;drawbacks "
+            "and benefits&rsquo; pairings &mdash; this discourse offers no "
+            "positive mirror at all, only the stark cost of abusive speech "
+            "toward one's spiritual community."]),
+        ("Five drawbacks, escalating in gravity", [
+            "Being expelled, cut off, and blocked out (<em>pārājika</em> &mdash; "
+            "the technical term for the gravest category of monastic offense, "
+            "resulting in permanent expulsion); committing a corrupt offense; "
+            "contracting a severe illness; dying confused and lost; and rebirth "
+            "in hell."]),
+        ("Denouncing the noble ones, specifically", [
+            "The discourse's Pali is precise: <em>ariyūpavādī</em>, "
+            "&lsquo;denouncing the noble ones&rsquo; &mdash; not simply general "
+            "rudeness, but abuse directed at those who have genuinely achieved "
+            "spiritual attainment, treated as a distinctly grave category of "
+            "wrongdoing."]),
+        ("A chapter largely built on paired drawback/benefit lists", [
+            "Unlike this opening discourse, most of the chapter that follows "
+            "pairs a negative list with its positive mirror &mdash; unethical "
+            "conduct and ethical conduct, intolerance and tolerance, unimpressive "
+            "and impressive conduct. This discourse's severity, with no such "
+            "mirror offered, sets an unusually stark tone for what follows."]),
+        ("What follows", [
+            "AN 5.212 continues in the same register: five drawbacks, again "
+            "without a positive counterpart, for a mendicant who starts fights "
+            "and disputes within the Saṅgha."]),
+    ],
+    terms=[
+        ("akkosakaparibhāsako",
+         "&ldquo;one who abuses and insults&rdquo; &mdash; this discourse's "
+         "title concept and central subject."),
+        ("ariyūpavādī",
+         "&ldquo;denouncing the noble ones&rdquo; &mdash; abuse directed "
+         "specifically at those of genuine spiritual attainment."),
+        ("pārājika",
+         "&ldquo;expelled, cut off&rdquo; &mdash; the technical term for the "
+         "gravest category of monastic offense, resulting in permanent "
+         "expulsion from the Saṅgha."),
+        ("saṅkiliṭṭha āpatti",
+         "&ldquo;a corrupt, defiled offense&rdquo; &mdash; the second drawback "
+         "named."),
+        ("sammūḷho kālaṁ karoti",
+         "&ldquo;dies confused, feeling lost&rdquo; &mdash; a recurring phrase "
+         "across this chapter's negative lists."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks awaiting a mendicant who abuses "
+        "and denounces the noble ones. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of abuse"),
+        ("p", "&sect;1", "an5.211:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Akkosakavagga, 'Abuse'",
+             "Kimilavagga, 'With Kimbila'",
+             "Dīghacārikavagga, 'Long Wandering'",
+             "Duccaritavagga, 'Bad Conduct'"],
+         "correct": 0,
+         "expl": "This session's twenty-second chapter."},
+        {"q": "What five drawbacks does this discourse name for abusing spiritual companions?",
+         "opts": [
+             "Expulsion, a corrupt offense, severe illness, a confused death, and rebirth in hell",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "Genuinely severe consequences, escalating in gravity."},
+        {"q": "What does 'pārājika' mean?",
+         "opts": [
+             "The technical term for the gravest monastic offense, resulting in permanent expulsion",
+             "A minor breach requiring only an apology",
+             "A formal title for a senior mendicant",
+             "A type of meditation retreat"],
+         "correct": 0,
+         "expl": "The first and most severe drawback named."},
+        {"q": "What does 'ariyūpavādī' specify?",
+         "opts": [
+             "Denouncing specifically those of genuine spiritual attainment, not general rudeness",
+             "Abuse directed only at laypeople",
+             "Praise for the noble ones",
+             "A formal legal proceeding"],
+         "correct": 0,
+         "expl": "A distinctly grave category of wrongdoing."},
+        {"q": "How does this discourse differ structurally from much of the rest of this chapter?",
+         "opts": [
+             "It offers no positive mirror at all, unlike most of the chapter's paired drawback/benefit lists",
+             "It is the only discourse in the chapter with a positive mirror",
+             "It contains no five-item list at all",
+             "It is written entirely in verse"],
+         "correct": 0,
+         "expl": "An unusually stark, one-sided severity."},
+        {"q": "What discourse follows, continuing this same severe register?",
+         "opts": [
+             "AN 5.212, Starting Fights",
+             "AN 5.220, About Madhurā",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Five drawbacks, again without a positive counterpart."},
+        {"q": "What does 'sammūḷho kālaṁ karoti' mean?",
+         "opts": [
+             "Dies confused, feeling lost",
+             "Dies peacefully, at ease",
+             "Achieves liberation at death",
+             "Is reborn immediately as a deity"],
+         "correct": 0,
+         "expl": "A recurring phrase across this chapter's negative lists."},
+        {"q": "What does 'saṅkiliṭṭha āpatti' mean?",
+         "opts": [
+             "A corrupt, defiled offense",
+             "A minor verbal slip",
+             "A formal compliment",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The second of the five drawbacks named."},
+        {"q": "What final consequence does this discourse name?",
+         "opts": [
+             "Rebirth in hell",
+             "Rebirth as a human of high status",
+             "Immediate liberation",
+             "No further consequence at all"],
+         "correct": 0,
+         "expl": "The fifth and final drawback, closing the list."},
+        {"q": "What is the central behavior this discourse addresses?",
+         "opts": [
+             "Abusing and insulting one's spiritual companions, denouncing the noble ones",
+             "Neglecting almsround duties",
+             "Failing to memorize scripture",
+             "Excessive generosity toward laypeople"],
+         "correct": 0,
+         "expl": "This discourse's title concept and central subject."},
+    ],
+    marginalia=[
+        ("Five escalating consequences", [
+            "expulsion &middot; a",
+            "corrupt offense &middot;",
+            "illness &middot; confused",
+            "death &middot; hell",
+        ]),
+        ("No positive mirror here", [
+            "an unusually stark,",
+            "one-sided severity",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">ariyūpavādī</span>",
+            "&mdash; denouncing the",
+            "noble ones",
+        ]),
+        ("Cross-references", [
+            "AN 5.212 &middot; next: the same severe register, for starting "
+            "fights",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.211/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.210.html">AN 5.210 &middot; Unmindful</a> &mdash; the '
+        "previous chapter's closing discourse.",
+        '<a href="an-5.212.html">AN 5.212 &middot; Starting Fights</a> &mdash; '
+        "next: the same severe register, for disrupting the Saṅgha.",
+        '<a href="an-5.213.html">AN 5.213 &middot; Ethics</a> &mdash; later in this '
+        "chapter, the same gravity paired with its positive mirror.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.212 — Bhaṇḍanakārakasutta
+# --------------------------------------------------------------------------- #
+page(
+    212, "Bhaṇḍanakāraka", "Starting Fights",
+    vagga=VAGGA_22,
+    meta_title="AN 5.212 — Starting Fights | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bhaṇḍanakārakasutta — five drawbacks for a mendicant who starts fights, "
+        "quarrels, and disciplinary disputes within the Saṅgha. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive mirror"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "continuing this chapter's severe opening"),
+    ],
+    why=(
+        "Continuing this chapter's stark opening, this discourse names five "
+        "drawbacks for a mendicant who habitually starts fights, quarrels, "
+        "disputes, debates, and formal disciplinary issues within the "
+        "Saṅgha &mdash; consequences ranging from stalled spiritual progress to "
+        "hell."),
+    guide=[
+        ("Five markers of a disruptive presence", [
+            "The discourse names its subject with five near-synonymous terms: "
+            "<em>bhaṇḍanakāraka, kalahakāraka, vivādakāraka, bhassakāraka, "
+            "adhikaraṇakāraka</em> &mdash; one who starts fights, quarrels, "
+            "disputes, debates, and formal disciplinary issues &mdash; a "
+            "cumulative portrait of someone who generates conflict across every "
+            "register, from casual argument to official Saṅgha procedure."]),
+        ("Consequences to one's own progress, first", [
+            "The first two drawbacks concern spiritual stagnation directly: not "
+            "achieving what hasn't yet been achieved, and losing what has "
+            "already been achieved &mdash; conflict-generation doesn't only "
+            "harm the community; it actively reverses the disruptor's own "
+            "practice."]),
+        ("Then reputation, then death, then rebirth", [
+            "The remaining three drawbacks follow this chapter's now-familiar "
+            "progression: a bad reputation, a confused death, and rebirth in "
+            "hell &mdash; the same closing sequence already seen at AN 5.211."]),
+        ("A companion concern to earlier discourses on Saṅgha harmony", [
+            "Cross-ref AN 5.156's concern with Saṅgha schism, and AN 5.167's "
+            "detailed teaching on how to accuse well &mdash; this discourse "
+            "names the opposite failure directly: not one bad accusation, but a "
+            "habitual pattern of manufacturing conflict."]),
+        ("What follows", [
+            "AN 5.213 shifts to this chapter's first paired drawback/benefit "
+            "structure, contrasting an unethical person's failures with an "
+            "ethical person's corresponding rewards."]),
+    ],
+    terms=[
+        ("bhaṇḍanakāraka, kalahakāraka, vivādakāraka, bhassakāraka, "
+         "adhikaraṇakāraka",
+         "one who starts fights, quarrels, disputes, debates, and formal "
+         "disciplinary issues &mdash; the five near-synonymous terms this "
+         "discourse uses for its subject."),
+        ("anadhigataṁ nādhigacchati",
+         "&ldquo;doesn't achieve the unachieved&rdquo; &mdash; the first "
+         "drawback, spiritual stagnation."),
+        ("adhigatā parihāyati",
+         "&ldquo;what's achieved falls away&rdquo; &mdash; the second "
+         "drawback, actual regression."),
+        ("pāpako kittisaddo",
+         "&ldquo;a bad reputation&rdquo; &mdash; a recurring consequence "
+         "across several discourses in this chapter."),
+        ("saṅghe adhikaraṇakāraka",
+         "&ldquo;one who creates disciplinary issues in the Saṅgha&rdquo; "
+         "&mdash; the most formally institutional of the five terms named."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks for a mendicant who starts "
+        "fights and disputes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of starting fights"),
+        ("p", "&sect;1", "an5.212:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five near-synonymous terms does this discourse use for its subject?",
+         "opts": [
+             "One who starts fights, quarrels, disputes, debates, and disciplinary issues",
+             "One who is faithless, unethical, unlearned, lazy, and witless",
+             "The five precepts broken",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "A cumulative portrait of someone generating conflict at every level."},
+        {"q": "What do the first two drawbacks named in this discourse concern?",
+         "opts": [
+             "The disruptor's own spiritual stagnation and regression",
+             "Only external social consequences",
+             "Only physical illness",
+             "Only formal legal punishment"],
+         "correct": 0,
+         "expl": "Not achieving what's unachieved, and losing what's achieved."},
+        {"q": "What does 'adhigatā parihāyati' mean?",
+         "opts": [
+             "What's achieved falls away",
+             "What's achieved is doubled",
+             "Nothing has ever been achieved",
+             "Achievement is permanent regardless of conduct"],
+         "correct": 0,
+         "expl": "Actual regression, not merely stalled progress."},
+        {"q": "What closing sequence of consequences does this discourse share with AN 5.211?",
+         "opts": [
+             "A bad reputation, a confused death, and rebirth in hell",
+             "Formal expulsion and a corrupt offense",
+             "Severe illness alone",
+             "No shared consequences at all"],
+         "correct": 0,
+         "expl": "The same familiar progression closing both discourses."},
+        {"q": "What earlier discourses does this one connect to on Saṅgha harmony?",
+         "opts": [
+             "AN 5.156 (schism) and AN 5.167 (making accusations well)",
+             "AN 5.100 and AN 5.106",
+             "AN 5.10 and AN 5.20",
+             "No earlier discourse addresses this concern"],
+         "correct": 0,
+         "expl": "This discourse names the opposite failure — habitual conflict-generation."},
+        {"q": "What does 'adhikaraṇakāraka' specify, distinct from the other four terms?",
+         "opts": [
+             "The most formally institutional category — creating disciplinary issues in the Saṅgha",
+             "A purely casual, private disagreement",
+             "A dispute occurring only outside the monastic community",
+             "A formal compliment"],
+         "correct": 0,
+         "expl": "The fifth and most official of the five near-synonymous terms."},
+        {"q": "What discourse follows, introducing this chapter's first paired drawback/benefit structure?",
+         "opts": [
+             "AN 5.213, Ethics",
+             "AN 5.220, About Madhurā",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Contrasting unethical failure with ethical reward."},
+        {"q": "What does 'anadhigataṁ nādhigacchati' mean?",
+         "opts": [
+             "Doesn't achieve the unachieved",
+             "Achieves everything immediately",
+             "Formally renounces all future achievement",
+             "Achieves only what was previously achieved"],
+         "correct": 0,
+         "expl": "The first drawback, naming spiritual stagnation."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Akkosakavagga",
+             "Kimilavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Abuse', this session's twenty-second chapter."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "A single five-item list, with no positive mirror",
+             "Two paired five-item lists",
+             "An extended narrative with dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "Matching AN 5.211's severe, one-sided structure."},
+    ],
+    marginalia=[
+        ("Five markers of disruption", [
+            "fights &middot; quarrels",
+            "&middot; disputes &middot;",
+            "debates &middot;",
+            "disciplinary issues",
+        ]),
+        ("Harm to oneself, first", [
+            "stalled progress,",
+            "then actual regression",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">adhikaraṇakāraka</span>",
+            "&mdash; creating",
+            "disciplinary issues",
+        ]),
+        ("Cross-references", [
+            "AN 5.156 &middot; AN 5.167 &middot; companion concerns with "
+            "Saṅgha harmony",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.212/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.211.html">AN 5.211 &middot; An Abuser</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.213.html">AN 5.213 &middot; Ethics</a> &mdash; next: this '
+        "chapter's first paired drawback/benefit structure.",
+        '<a href="an-5.167.html">AN 5.167 &middot; Accusation</a> &mdash; a '
+        "companion concern, on how to accuse well rather than manufacture "
+        "conflict.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.213 — Sīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    213, "Sīla", "Ethics",
+    vagga=VAGGA_22,
+    meta_title="AN 5.213 — Ethics | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sīlasutta — five drawbacks of failed ethics paired with five benefits "
+        "of ethical accomplishment, a formula echoed elsewhere in the canon. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a classical, "
+                       "widely echoed formula"),
+    ],
+    why=(
+        "This chapter's first paired drawback/benefit structure, and a genuinely "
+        "classical one: the same five perils of poor ethics and five rewards of "
+        "good ethics that appear elsewhere in the early texts, including the "
+        "Buddha's own final teaching before his death."),
+    guide=[
+        ("Five drawbacks of failed ethics", [
+            "An unethical person loses substantial wealth through negligence; "
+            "gets a bad reputation; enters any assembly &mdash; aristocrats, "
+            "brahmins, householders, or ascetics &mdash; timid and embarrassed; "
+            "dies confused; and is reborn in hell."]),
+        ("Five matching benefits", [
+            "An ethical person gains substantial wealth through diligence; gets "
+            "a good reputation; enters any assembly bold and self-assured; dies "
+            "without confusion; and is reborn in heaven &mdash; the exact "
+            "mirror, item for item."]),
+        ("Wealth and reputation, not only rebirth", [
+            "Worth noticing: only the final item concerns the afterlife "
+            "directly. The other four &mdash; financial consequences, social "
+            "reputation, confidence in public settings, and clarity at the "
+            "moment of death &mdash; are all effects felt within this very "
+            "life, well before any question of rebirth arises."]),
+        ("A formula with a wider life beyond this collection", [
+            "This exact five-item formula &mdash; wealth loss/gain, "
+            "reputation, confidence in assemblies, death-state, and rebirth "
+            "&mdash; appears with striking consistency elsewhere in the early "
+            "texts, including in the Buddha's final address before his "
+            "passing, suggesting it functioned as a standard, portable teaching "
+            "on ethics' practical stakes."]),
+        ("A companion to AN 5.171-174's precept-focused discourses", [
+            "Cross-ref this chapter's structure to AN 5.171&ndash;174 from an "
+            "earlier chapter, which similarly framed the five precepts through "
+            "multiple outcome-lenses &mdash; this discourse takes the same "
+            "underlying concern with ethical failure and success and gives it "
+            "its most detailed single treatment."]),
+    ],
+    terms=[
+        ("dussīlassa sīlavipattiyā",
+         "&ldquo;for an unethical person, through their failure in "
+         "ethics&rdquo; &mdash; this discourse's negative framing."),
+        ("bhogajāni",
+         "&ldquo;loss of wealth&rdquo; &mdash; the first drawback, attributed "
+         "specifically to negligence (<em>pamāda</em>)."),
+        ("avisārado, maṅkubhūto",
+         "&ldquo;timid, embarrassed&rdquo; &mdash; the state of an unethical "
+         "person entering any public assembly."),
+        ("visārado, amaṅkubhūto",
+         "&ldquo;bold, self-assured&rdquo; &mdash; the mirrored positive state "
+         "for an ethical person."),
+        ("khattiya, brāhmaṇa, gahapati, samaṇa parisā",
+         "&ldquo;an assembly of aristocrats, brahmins, householders, or "
+         "ascetics&rdquo; &mdash; the four kinds of public settings named."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of failed ethics, and five "
+        "benefits of ethical accomplishment. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of unethical conduct"),
+        ("p", "&sect;1", "an5.213:1.1-5.3"),
+        ("h3", "Five benefits of ethical conduct"),
+        ("p", "&sect;2", "an5.213:6.1-10.3"),
+    ],
+    quiz=[
+        {"q": "What is the first drawback this discourse names for an unethical person?",
+         "opts": [
+             "Losing substantial wealth through negligence",
+             "Immediate physical illness",
+             "Formal expulsion from any community",
+             "Loss of speech entirely"],
+         "correct": 0,
+         "expl": "Attributed specifically to negligence (pamāda)."},
+        {"q": "How does an unethical person behave when entering a public assembly, according to this discourse?",
+         "opts": [
+             "Timid and embarrassed",
+             "Bold and self-assured",
+             "Completely indifferent",
+             "Aggressively confrontational"],
+         "correct": 0,
+         "expl": "The third of the five drawbacks."},
+        {"q": "What four kinds of assemblies does this discourse name?",
+         "opts": [
+             "Aristocrats, brahmins, householders, and ascetics",
+             "Only monastics of various ranks",
+             "Only foreign visitors",
+             "Only children and elders"],
+         "correct": 0,
+         "expl": "The public settings where confidence or timidity becomes visible."},
+        {"q": "Which of the five items concerns the afterlife directly, rather than this very life?",
+         "opts": [
+             "Only the fifth and final item — rebirth",
+             "All five items equally concern the afterlife",
+             "None of the five items concern the afterlife",
+             "Only the first item concerns the afterlife"],
+         "correct": 0,
+         "expl": "The other four are all effects felt within this very life."},
+        {"q": "Where else does this exact five-item formula appear, according to this guide?",
+         "opts": [
+             "Elsewhere in the early texts, including the Buddha's final address before his death",
+             "Nowhere else in the early Buddhist canon",
+             "Only in later commentarial literature",
+             "Only within this single discourse"],
+         "correct": 0,
+         "expl": "A standard, portable teaching appearing with striking consistency."},
+        {"q": "What does 'bhogajāni' mean?",
+         "opts": [
+             "Loss of wealth",
+             "Gain of wealth",
+             "Loss of reputation",
+             "A formal accusation"],
+         "correct": 0,
+         "expl": "The first drawback of unethical conduct."},
+        {"q": "How does an ethical person's death compare to an unethical person's, per this discourse?",
+         "opts": [
+             "The ethical person dies without confusion, unlike the unethical person",
+             "Both die identically confused",
+             "Neither state is addressed in this discourse",
+             "The ethical person dies in greater confusion"],
+         "correct": 0,
+         "expl": "The fourth item in each list."},
+        {"q": "What chapter earlier in this nipāta shares a similar concern with the five precepts through multiple outcome-lenses?",
+         "opts": [
+             "AN 5.171-174, from the Upāsakavagga",
+             "AN 5.1-10, from the opening chapter",
+             "AN 5.161-170, from the Āghātavagga",
+             "No earlier chapter shares this concern"],
+         "correct": 0,
+         "expl": "This discourse gives the underlying concern its most detailed single treatment."},
+        {"q": "What does 'visārado, amaṅkubhūto' describe?",
+         "opts": [
+             "Bold and self-assured — the positive counterpart to timidity",
+             "Fearful and hesitant",
+             "Formally accused",
+             "Newly ordained"],
+         "correct": 0,
+         "expl": "An ethical person's state entering any public assembly."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Akkosakavagga",
+             "Kimilavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Abuse', this session's twenty-second chapter."},
+    ],
+    marginalia=[
+        ("Five matched pairs", [
+            "wealth &middot; reputation",
+            "&middot; assembly-",
+            "confidence &middot;",
+            "death-state &middot;",
+            "rebirth",
+        ]),
+        ("Effects felt now, mostly", [
+            "only the fifth item",
+            "concerns the afterlife",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">bhogajāni</span>",
+            "&mdash; loss of wealth",
+        ]),
+        ("Cross-references", [
+            "AN 5.171&ndash;174 &middot; a related earlier concern with the "
+            "five precepts",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.213/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.212.html">AN 5.212 &middot; Starting Fights</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.214.html">AN 5.214 &middot; Someone Who Talks a Lot</a> '
+        "&mdash; next: the same paired structure, applied to speech.",
+        '<a href="an-5.171.html">AN 5.171 &middot; Timidity</a> &mdash; a related '
+        "earlier discourse on the five precepts and self-assurance.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.214 — Bahubhāṇisutta
+# --------------------------------------------------------------------------- #
+page(
+    214, "Bahubhāṇi", "Someone Who Talks a Lot",
+    vagga=VAGGA_22,
+    meta_title="AN 5.214 — Someone Who Talks a Lot | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bahubhāṇisutta — five drawbacks of talking a lot, paired with five "
+        "benefits of speaking thoughtfully, built on the four wrong-speech "
+        "precepts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, built "
+                       "on a classical foundation"),
+    ],
+    why=(
+        "A concise discourse contrasting someone who simply talks a lot with "
+        "someone who talks thoughtfully &mdash; built directly on the four "
+        "classical wrong-speech precepts, with rebirth in hell or heaven as the "
+        "fifth, cumulative consequence of each."),
+    guide=[
+        ("Volume, not content, as the real distinction", [
+            "The discourse's title contrast is instructive: it isn't simply "
+            "&lsquo;bad speech versus good speech&rsquo;, but "
+            "&lsquo;talking a lot&rsquo; (<em>bahubhāṇi</em>) versus "
+            "&lsquo;talking thoughtfully&rsquo; (<em>mantabhāṇi</em>) &mdash; "
+            "framing the problem as much about excess and carelessness as about "
+            "any specific content."]),
+        ("The four classical wrong-speech precepts", [
+            "The actual content named for the person who talks a lot is the "
+            "familiar fourfold formula: speech that's false, backbiting, harsh, "
+            "and nonsensical (<em>musāvāda, pisuṇavācā, pharusavācā, "
+            "samphappalāpa</em>) &mdash; the standard four kinds of wrong "
+            "speech named throughout the early texts."]),
+        ("Five items from four wrongs plus one outcome", [
+            "This discourse's &lsquo;five drawbacks&rsquo; are really the four "
+            "wrong-speech categories plus their shared karmic outcome, rebirth "
+            "in hell &mdash; a slightly different construction from this "
+            "chapter's other five-item lists, worth noticing rather than "
+            "assuming it follows the same pattern automatically."]),
+        ("Thoughtful speech, by simple negation", [
+            "The positive counterpart is the clean negation: not using any of "
+            "the four wrong kinds of speech, leading instead to rebirth in "
+            "heaven &mdash; <em>manta</em> (thoughtful, measured) speech "
+            "defined here entirely by what it avoids."]),
+        ("A companion to this chapter's own speech-focused discourses", [
+            "Cross-ref AN 5.211's abuse of spiritual companions and this "
+            "chapter's broader concern with harmful speech &mdash; this "
+            "discourse gives that concern its most classical, doctrinally "
+            "familiar formulation."]),
+    ],
+    terms=[
+        ("bahubhāṇi",
+         "&ldquo;one who talks a lot&rdquo; &mdash; this discourse's negative "
+         "subject, framed by excess rather than only content."),
+        ("mantabhāṇi",
+         "&ldquo;one who talks thoughtfully&rdquo; &mdash; the positive "
+         "counterpart, measured and considered speech."),
+        ("musā, pisuṇaṁ, pharusaṁ, samphappalāpaṁ",
+         "false, backbiting, harsh, and nonsensical speech &mdash; the four "
+         "classical categories of wrong speech."),
+        ("kāyassa bhedā paraṁ maraṇā",
+         "&ldquo;when the body breaks up, after death&rdquo; &mdash; the "
+         "standard phrase introducing this discourse's rebirth outcome."),
+        ("sugatiṁ saggaṁ lokaṁ",
+         "&ldquo;a good place, a heavenly realm&rdquo; &mdash; the positive "
+         "rebirth outcome for one who speaks thoughtfully."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of talking a lot, and five "
+        "benefits of talking thoughtfully. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of talking a lot"),
+        ("p", "&sect;1", "an5.214:1.1-1.4"),
+        ("h3", "Five benefits of talking thoughtfully"),
+        ("p", "&sect;2", "an5.214:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What contrast does this discourse's title actually draw?",
+         "opts": [
+             "Talking a lot versus talking thoughtfully — excess and carelessness, not simply content",
+             "Silence versus speech of any kind",
+             "Loud speech versus quiet speech",
+             "Formal speech versus casual speech"],
+         "correct": 0,
+         "expl": "Bahubhāṇi versus mantabhāṇi."},
+        {"q": "What four classical categories of wrong speech does this discourse name?",
+         "opts": [
+             "False, backbiting, harsh, and nonsensical speech",
+             "Loud, quiet, fast, and slow speech",
+             "Formal, casual, public, and private speech",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "The standard fourfold wrong-speech formula from the early texts."},
+        {"q": "How does this discourse's five-item structure differ from a strict five-item parallel list?",
+         "opts": [
+             "It's really four wrong-speech categories plus their shared karmic outcome",
+             "It has only three genuine items",
+             "It has ten distinct items",
+             "It follows an identical structure to every other list in this chapter"],
+         "correct": 0,
+         "expl": "A slightly different construction worth noticing."},
+        {"q": "How is thoughtful speech defined in the positive half of this discourse?",
+         "opts": [
+             "By simple negation — not using any of the four wrong kinds of speech",
+             "By an entirely new, separately defined set of positive qualities",
+             "By volume alone",
+             "By formal training requirements"],
+         "correct": 0,
+         "expl": "Manta speech defined entirely by what it avoids."},
+        {"q": "What does 'mantabhāṇi' mean?",
+         "opts": [
+             "One who talks thoughtfully",
+             "One who never speaks at all",
+             "One who speaks only in formal settings",
+             "One who speaks loudly"],
+         "correct": 0,
+         "expl": "The positive counterpart to bahubhāṇi."},
+        {"q": "What outcome does talking a lot lead to, according to this discourse?",
+         "opts": [
+             "Rebirth in hell",
+             "Rebirth in heaven",
+             "No particular consequence",
+             "Immediate liberation"],
+         "correct": 0,
+         "expl": "The shared karmic outcome of the four wrong-speech categories."},
+        {"q": "What does 'pisuṇaṁ' mean, as one of the four wrong-speech categories?",
+         "opts": [
+             "Backbiting, divisive speech",
+             "False speech",
+             "Harsh speech",
+             "Nonsensical chatter"],
+         "correct": 0,
+         "expl": "One of the four classical wrong-speech categories."},
+        {"q": "What earlier discourse in this chapter connects to this one's concern with harmful speech?",
+         "opts": [
+             "AN 5.211, An Abuser",
+             "AN 5.220, About Madhurā",
+             "AN 5.219, Fire",
+             "AN 5.213, Ethics"],
+         "correct": 0,
+         "expl": "This discourse gives that concern its most classical formulation."},
+        {"q": "What does 'samphappalāpaṁ' mean?",
+         "opts": [
+             "Nonsensical, idle chatter",
+             "Truthful, careful speech",
+             "A formal legal statement",
+             "A ceremonial chant"],
+         "correct": 0,
+         "expl": "The fourth of the four classical wrong-speech categories."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Akkosakavagga",
+             "Kimilavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Abuse', this session's twenty-second chapter."},
+    ],
+    marginalia=[
+        ("Excess, not just content", [
+            "talking a lot, versus",
+            "talking thoughtfully",
+        ]),
+        ("Four classical wrongs", [
+            "false &middot; backbiting",
+            "&middot; harsh &middot;",
+            "nonsensical",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">mantabhāṇi</span>",
+            "&mdash; one who talks",
+            "thoughtfully",
+        ]),
+        ("Cross-references", [
+            "AN 5.211 &middot; this chapter's opening concern with harmful "
+            "speech, in its severest form",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.214/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.213.html">AN 5.213 &middot; Ethics</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.215.html">AN 5.215 &middot; Intolerance (1st)</a> &mdash; '
+        "next: a companion pair on tolerance and its absence.",
+        '<a href="an-5.211.html">AN 5.211 &middot; An Abuser</a> &mdash; this '
+        "chapter's opening concern with harmful speech, in its severest form.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.215 — Paṭhamaakkhantisutta
+# --------------------------------------------------------------------------- #
+page(
+    215, "Paṭhamaakkhanti", "Intolerance (1st)",
+    vagga=VAGGA_22,
+    meta_title="AN 5.215 — Intolerance (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaakkhantisutta — five drawbacks of intolerance and five benefits "
+        "of tolerance, the first of two closely related discourses. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, the "
+                       "first of a closely related pair"),
+    ],
+    why=(
+        "The first of two consecutive discourses on tolerance and its absence, "
+        "naming five drawbacks of intolerance &mdash; from social unlikability "
+        "to rebirth in hell &mdash; paired with the exact mirror for genuine "
+        "tolerance."),
+    guide=[
+        ("Five drawbacks of intolerance", [
+            "Most people find an intolerant person unlikable and disagreeable; "
+            "they accumulate much enmity and many faults; they die confused; "
+            "and they're reborn in hell."]),
+        ("Five matching benefits", [
+            "A tolerant person is, by contrast, found dear and agreeable by "
+            "most people; has little enmity and few faults; dies without "
+            "confusion; and is reborn in heaven &mdash; the clean, exact "
+            "mirror."]),
+        ("Social and internal consequences together", [
+            "Notice how this discourse combines an outward, social measure "
+            "(how others regard you) with an inward one (how much enmity and "
+            "how many faults accumulate) in the same short list &mdash; "
+            "tolerance's absence damages both how one is perceived and one's "
+            "own internal state simultaneously."]),
+        ("A first of two closely related discourses", [
+            "AN 5.216, immediately following, restates this same basic "
+            "structure &mdash; intolerance versus tolerance, the same opening "
+            "and closing items &mdash; but replaces the middle item, &lsquo;much "
+            "enmity and many faults&rsquo;, with a different pair: cruelty and "
+            "remorse."]),
+        ("A matched pair, not a simple repetition", [
+            "Read together, these two discourses function like this collection's "
+            "earlier matched trios (AN 5.151&ndash;153, AN 5.171&ndash;173): the "
+            "same underlying concern, restated with a genuinely different "
+            "middle emphasis each time, rather than pure repetition."]),
+    ],
+    terms=[
+        ("akkhanti",
+         "&ldquo;intolerance&rdquo; &mdash; this discourse's title concept and "
+         "central negative quality."),
+        ("khanti",
+         "&ldquo;tolerance, patience&rdquo; &mdash; the positive counterpart, "
+         "already named among the thoroughbred's five qualities at AN 5.203."),
+        ("verabahulo, vajjabahulo",
+         "&ldquo;much enmity, many faults&rdquo; &mdash; the middle drawback "
+         "in this discourse's version, distinguishing it from AN 5.216's "
+         "variant."),
+        ("appiyo, amanāpo",
+         "&ldquo;unlikable, disagreeable&rdquo; &mdash; how most people "
+         "regard an intolerant person."),
+        ("piyo, manāpo",
+         "&ldquo;dear, agreeable&rdquo; &mdash; how most people regard a "
+         "tolerant person."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of intolerance, and five "
+        "benefits of tolerance. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of intolerance"),
+        ("p", "&sect;1", "an5.215:1.1-1.4"),
+        ("h3", "Five benefits of tolerance"),
+        ("p", "&sect;2", "an5.215:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five drawbacks does this discourse name for intolerance?",
+         "opts": [
+             "Social unlikability, much enmity and many faults, confused death, and rebirth in hell",
+             "The five precepts",
+             "The five aggregates",
+             "Loss of wealth alone"],
+         "correct": 0,
+         "expl": "Combining social and internal consequences."},
+        {"q": "How do most people regard an intolerant person, according to this discourse?",
+         "opts": [
+             "Unlikable and disagreeable",
+             "Dear and agreeable",
+             "Completely indifferent",
+             "Fearful and respectful"],
+         "correct": 0,
+         "expl": "The first drawback of intolerance."},
+        {"q": "What does this discourse's list combine that's worth noticing?",
+         "opts": [
+             "An outward, social measure with an inward, internal one, in the same short list",
+             "Only physical health outcomes",
+             "Only formal legal consequences",
+             "Only financial consequences"],
+         "correct": 0,
+         "expl": "How one is perceived, and one's own internal state."},
+        {"q": "What does 'verabahulo, vajjabahulo' mean?",
+         "opts": [
+             "Much enmity, many faults",
+             "Little enmity, few faults",
+             "Great wealth, high status",
+             "Formal ordination requirements"],
+         "correct": 0,
+         "expl": "The middle drawback in this discourse's specific version."},
+        {"q": "What distinguishes this discourse from AN 5.216, which follows immediately after?",
+         "opts": [
+             "AN 5.216 replaces the middle item with cruelty and remorse instead of enmity and faults",
+             "AN 5.216 has an entirely unrelated topic",
+             "AN 5.216 offers no positive mirror at all",
+             "The two discourses are word-for-word identical"],
+         "correct": 0,
+         "expl": "A genuinely different middle emphasis, not pure repetition."},
+        {"q": "What earlier discourse in this nipāta already names 'khanti' (tolerance) among its qualities?",
+         "opts": [
+             "AN 5.203, A Thoroughbred",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth"],
+         "correct": 0,
+         "expl": "One of the five qualities shared between a horse and a worthy mendicant."},
+        {"q": "What pattern from earlier in this nipāta do AN 5.215-216 resemble?",
+         "opts": [
+             "The matched trios at AN 5.151-153 and AN 5.171-173 — same concern, different middle emphasis",
+             "A pattern found nowhere else in this collection",
+             "A single unbroken narrative",
+             "A pure verbatim repetition with no variation at all"],
+         "correct": 0,
+         "expl": "Restating a core concern with genuine variation each time."},
+        {"q": "What does 'piyo, manāpo' mean?",
+         "opts": [
+             "Dear, agreeable",
+             "Unlikable, disagreeable",
+             "Formally accused",
+             "Newly ordained"],
+         "correct": 0,
+         "expl": "How most people regard a tolerant person."},
+        {"q": "What is the final consequence of intolerance named in this discourse?",
+         "opts": [
+             "Rebirth in hell",
+             "Rebirth in heaven",
+             "No particular consequence",
+             "Immediate liberation"],
+         "correct": 0,
+         "expl": "The fifth and final drawback."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Akkosakavagga",
+             "Kimilavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Abuse', this session's twenty-second chapter."},
+    ],
+    marginalia=[
+        ("Social and internal costs", [
+            "unlikability, and",
+            "enmity within",
+        ]),
+        ("The first of a matched pair", [
+            "AN 5.216 varies",
+            "the middle item",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">khanti</span>",
+            "&mdash; tolerance,",
+            "patience",
+        ]),
+        ("Cross-references", [
+            "AN 5.203 &middot; khanti among a thoroughbred's five qualities",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.215/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.214.html">AN 5.214 &middot; Someone Who Talks a Lot</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.216.html">AN 5.216 &middot; Intolerance (2nd)</a> &mdash; '
+        "next: the same structure, with a different middle emphasis.",
+        '<a href="an-5.203.html">AN 5.203 &middot; A Thoroughbred</a> &mdash; where '
+        "khanti already appears among the five shared qualities of a horse and "
+        "a mendicant.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.216 — Dutiyaakkhantisutta
+# --------------------------------------------------------------------------- #
+page(
+    216, "Dutiyaakkhanti", "Intolerance (2nd)",
+    vagga=VAGGA_22,
+    meta_title="AN 5.216 — Intolerance (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaakkhantisutta — the same structure as AN 5.215, restated with "
+        "cruelty and remorse in place of enmity and faults. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, identical structure to AN 5.215"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a "
+                       "variant restatement"),
+    ],
+    why=(
+        "The second of this pair of intolerance discourses, keeping AN 5.215's "
+        "opening and closing items unchanged but replacing its middle "
+        "item &mdash; enmity and many faults &mdash; with something more "
+        "specifically emotional: cruelty and remorse."),
+    guide=[
+        ("The same frame, a different middle", [
+            "As in AN 5.215, most people find an intolerant person unlikable "
+            "and disagreeable, and the same closing sequence of confused death "
+            "and rebirth in hell applies. What changes is the middle item: here "
+            "the intolerant person is <em>luddo</em> (cruel, savage) and "
+            "<em>vippaṭisārī</em> (remorseful, full of regret)."]),
+        ("Cruelty and remorse, a different register from enmity and fault", [
+            "Where AN 5.215's &lsquo;much enmity and many faults&rsquo; "
+            "described intolerance's outward relational effects, this "
+            "discourse's &lsquo;cruel and remorseful&rsquo; names something "
+            "more internally emotional &mdash; harshness toward others, paired "
+            "with regret directed at oneself."]),
+        ("Two consequences of the same root state", [
+            "Read together, AN 5.215 and AN 5.216 suggest intolerance produces "
+            "at least two distinct kinds of damage: a build-up of conflict and "
+            "moral fault (5.215), and a corrosive cycle of harshness followed "
+            "by regret (5.216) &mdash; not one single effect, but a family of "
+            "related consequences."]),
+        ("The exact same positive mirror pattern", [
+            "As in AN 5.215, tolerance's benefits are the clean negation: being "
+            "found dear and agreeable, being neither cruel nor remorseful, "
+            "dying without confusion, and rebirth in heaven."]),
+        ("Two discourses functioning as one teaching", [
+            "This close pairing &mdash; identical frame, one item varied "
+            "&mdash; is best read as a single teaching given in two "
+            "complementary passes, each catching an aspect of intolerance the "
+            "other's wording doesn't quite capture."]),
+    ],
+    terms=[
+        ("luddo",
+         "&ldquo;cruel, savage&rdquo; &mdash; the middle drawback in this "
+         "discourse's version, distinguishing it from AN 5.215's variant."),
+        ("vippaṭisārī",
+         "&ldquo;remorseful, full of regret&rdquo; &mdash; paired with "
+         "cruelty as the second half of this discourse's middle item."),
+        ("aluddo, avippaṭisārī",
+         "&ldquo;not cruel, not remorseful&rdquo; &mdash; the positive "
+         "counterpart, the clean negation."),
+        ("akkhanti",
+         "&ldquo;intolerance&rdquo; &mdash; the shared title concept across "
+         "both this discourse and AN 5.215."),
+        ("khanti",
+         "&ldquo;tolerance, patience&rdquo; &mdash; the shared positive "
+         "counterpart across both discourses."),
+    ],
+    text_intro=(
+        "The discourse in full: the same structure as AN 5.215, with cruelty "
+        "and remorse in place of enmity and fault. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of intolerance"),
+        ("p", "&sect;1", "an5.216:1.1-1.4"),
+        ("h3", "Five benefits of tolerance"),
+        ("p", "&sect;2", "an5.216:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What stays unchanged between this discourse and AN 5.215?",
+         "opts": [
+             "The opening item (social unlikability) and closing sequence (confused death, rebirth in hell)",
+             "Every single item in the list",
+             "Nothing at all — the two discourses are entirely unrelated",
+             "Only the title, with completely different content"],
+         "correct": 0,
+         "expl": "The frame stays the same; only the middle item varies."},
+        {"q": "What middle item does this discourse use, replacing AN 5.215's 'enmity and many faults'?",
+         "opts": [
+             "Cruelty and remorse",
+             "Wealth loss and bad reputation",
+             "Physical illness and weakness",
+             "Formal expulsion and a corrupt offense"],
+         "correct": 0,
+         "expl": "Luddo and vippaṭisārī."},
+        {"q": "What does 'luddo' mean?",
+         "opts": [
+             "Cruel, savage",
+             "Gentle, kind",
+             "Wealthy, prosperous",
+             "Newly ordained"],
+         "correct": 0,
+         "expl": "The first half of this discourse's varied middle item."},
+        {"q": "What does 'vippaṭisārī' mean?",
+         "opts": [
+             "Remorseful, full of regret",
+             "Confident, at ease",
+             "Formally accused",
+             "Physically exhausted"],
+         "correct": 0,
+         "expl": "The second half of this discourse's varied middle item, paired with cruelty."},
+        {"q": "How does this discourse's middle item differ in register from AN 5.215's?",
+         "opts": [
+             "It's more internally emotional — harshness toward others paired with self-directed regret",
+             "It is identical in every respect",
+             "It concerns only external, social consequences",
+             "It concerns only physical health"],
+         "correct": 0,
+         "expl": "A different aspect of intolerance's damage."},
+        {"q": "How should these two discourses, AN 5.215 and 5.216, best be read together?",
+         "opts": [
+             "As a single teaching given in two complementary passes, each catching a different aspect",
+             "As entirely contradictory, unrelated teachings",
+             "As a simple error, with one discourse redundant",
+             "As addressing completely different audiences"],
+         "correct": 0,
+         "expl": "A family of related consequences, not one single effect."},
+        {"q": "What is the positive mirror for this discourse's middle item?",
+         "opts": [
+             "Aluddo, avippaṭisārī — not cruel, not remorseful",
+             "An entirely unrelated pair of qualities",
+             "Wealthy and prosperous",
+             "Formally ordained and disciplined"],
+         "correct": 0,
+         "expl": "The clean negation of cruelty and remorse."},
+        {"q": "What closing sequence does this discourse share with AN 5.215?",
+         "opts": [
+             "Dying confused, and rebirth in hell for intolerance; dying without confusion and rebirth in heaven for tolerance",
+             "No shared closing sequence at all",
+             "Only the rebirth outcome, not the death-state",
+             "Only the death-state, not the rebirth outcome"],
+         "correct": 0,
+         "expl": "The final two items, unchanged between both discourses."},
+        {"q": "What discourse follows, shifting to a new but related theme?",
+         "opts": [
+             "AN 5.217, Unimpressive Conduct (1st)",
+             "AN 5.220, About Madhurā",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Another paired drawback/benefit discourse, on conduct more broadly."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Akkosakavagga",
+             "Kimilavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Abuse', this session's twenty-second chapter."},
+    ],
+    marginalia=[
+        ("Same frame, new middle", [
+            "cruelty and remorse,",
+            "not enmity and fault",
+        ]),
+        ("Two passes at one teaching", [
+            "each catching a",
+            "different aspect",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">luddo</span>",
+            "&mdash; cruel, savage",
+        ]),
+        ("Cross-references", [
+            "AN 5.215 &middot; this discourse's companion, sharing the same "
+            "frame",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.216/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.215.html">AN 5.215 &middot; Intolerance (1st)</a> &mdash; '
+        "this discourse's companion, sharing the same frame.",
+        '<a href="an-5.217.html">AN 5.217 &middot; Unimpressive Conduct (1st)</a> '
+        "&mdash; next: a related pair on conduct more broadly.",
+        '<a href="an-5.171.html">AN 5.171 &middot; Timidity</a> &mdash; an earlier '
+        "discourse using this same three-part outcome sequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.217 — Paṭhamaapāsādikasutta
+# --------------------------------------------------------------------------- #
+page(
+    217, "Paṭhamaapāsādika", "Unimpressive Conduct (1st)",
+    vagga=VAGGA_22,
+    meta_title="AN 5.217 — Unimpressive Conduct (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaapāsādikasutta — five drawbacks of unimpressive conduct, "
+        "including self-blame, paired with five benefits of impressive "
+        "conduct. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, the "
+                       "first of another matched pair"),
+    ],
+    why=(
+        "The first of two discourses on &lsquo;unimpressive conduct&rsquo; "
+        "(<em>apāsādika</em>), opening with a drawback worth pausing on: even "
+        "before anyone else weighs in, the person of unimpressive conduct "
+        "blames themselves."),
+    guide=[
+        ("Self-blame, before external judgment", [
+            "The first drawback named isn't a reputation cost imposed by "
+            "others; it's internal &mdash; blaming oneself. Only the second "
+            "drawback introduces outside judgment: sensible people, after "
+            "examination, criticize you."]),
+        ("Five drawbacks, in sequence", [
+            "Self-blame; criticism from sensible people after examination; a "
+            "bad reputation; a confused death; and rebirth in hell &mdash; a "
+            "progression from private conscience through public judgment to "
+            "final consequence."]),
+        ("Five matching benefits", [
+            "Not blaming yourself; praise from sensible people after "
+            "examination; a good reputation; a death without confusion; and "
+            "rebirth in heaven &mdash; the same exact structure, reversed."]),
+        ("A pointed phrase: 'after examination'", [
+            "Both the criticism and its positive counterpart, praise, are "
+            "qualified as arising <em>anuvicca</em> &mdash; &lsquo;after "
+            "examination&rsquo;, not from snap judgment. Sensible people's "
+            "assessment, whether critical or approving, is presented as "
+            "considered, not casual."]),
+        ("A second discourse follows with a different emphasis", [
+            "AN 5.218, immediately following, shares this discourse's title "
+            "and basic contrast but names an entirely different set of five "
+            "items &mdash; shifting from personal and social consequence to "
+            "the impact one's conduct has on others' confidence."]),
+    ],
+    terms=[
+        ("apāsādika",
+         "&ldquo;unimpressive, unpleasant [in conduct]&rdquo; &mdash; this "
+         "discourse's title concept and central negative quality."),
+        ("pāsādika",
+         "&ldquo;impressive, pleasant [in conduct]&rdquo; &mdash; the "
+         "positive counterpart."),
+        ("attāpi attānaṁ upavadati",
+         "&ldquo;you blame yourself&rdquo; &mdash; the first drawback, "
+         "internal rather than externally imposed."),
+        ("anuvicca viññū garahanti / pasaṁsanti",
+         "&ldquo;after examination, sensible people criticize / "
+         "praise&rdquo; &mdash; considered judgment, not casual reaction."),
+        ("pāpako / kalyāṇo kittisaddo",
+         "&ldquo;a bad / good reputation&rdquo; &mdash; the third item in "
+         "each list, a recurring phrase across this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of unimpressive conduct, and "
+        "five benefits of impressive conduct. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of unimpressive conduct"),
+        ("p", "&sect;1", "an5.217:1.1-1.8"),
+        ("h3", "Five benefits of impressive conduct"),
+        ("p", "&sect;2", "an5.217:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What is the first drawback this discourse names for unimpressive conduct?",
+         "opts": [
+             "Blaming yourself — an internal consequence, before any external judgment",
+             "Formal expulsion from the Saṅgha",
+             "Immediate physical illness",
+             "Loss of speech entirely"],
+         "correct": 0,
+         "expl": "Internal, preceding any outside criticism."},
+        {"q": "What is the second drawback named?",
+         "opts": [
+             "Criticism from sensible people, after examination",
+             "Loss of wealth",
+             "Rebirth in hell immediately",
+             "A formal legal proceeding"],
+         "correct": 0,
+         "expl": "The first point of external judgment introduced."},
+        {"q": "What does 'anuvicca' qualify, in both the criticism and the praise named?",
+         "opts": [
+             "That the judgment comes after examination, not from a snap reaction",
+             "That the judgment is always wrong",
+             "That the judgment applies only to monastics",
+             "That the judgment is purely emotional"],
+         "correct": 0,
+         "expl": "Considered assessment, not casual reaction."},
+        {"q": "What five drawbacks does this discourse name, in sequence?",
+         "opts": [
+             "Self-blame, criticism, bad reputation, confused death, and rebirth in hell",
+             "The five precepts broken",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A progression from private conscience to public judgment to final consequence."},
+        {"q": "How does this discourse's structure compare to its positive counterpart?",
+         "opts": [
+             "The exact same structure, reversed item for item",
+             "An entirely different set of positive qualities",
+             "Only two of the five items are mirrored",
+             "There is no positive counterpart given"],
+         "correct": 0,
+         "expl": "A clean, complete mirror."},
+        {"q": "What does 'pāsādika' mean?",
+         "opts": [
+             "Impressive, pleasant in conduct",
+             "Unimpressive, unpleasant in conduct",
+             "Formally ordained",
+             "Newly arrived"],
+         "correct": 0,
+         "expl": "The positive counterpart to apāsādika."},
+        {"q": "What discourse follows, sharing this discourse's title but naming different content?",
+         "opts": [
+             "AN 5.218, Unimpressive Conduct (2nd)",
+             "AN 5.220, About Madhurā",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Shifting to a different set of five items, on others' confidence."},
+        {"q": "What does 'attāpi attānaṁ upavadati' mean?",
+         "opts": [
+             "You blame yourself",
+             "You praise yourself excessively",
+             "You forget your own conduct entirely",
+             "You accuse another person falsely"],
+         "correct": 0,
+         "expl": "The first drawback, an internal consequence."},
+        {"q": "What is the third drawback shared with several other discourses in this chapter?",
+         "opts": [
+             "A bad reputation",
+             "Loss of wealth",
+             "Formal expulsion",
+             "Severe illness"],
+         "correct": 0,
+         "expl": "A recurring consequence across this chapter's negative lists."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Akkosakavagga",
+             "Kimilavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Abuse', this session's twenty-second chapter."},
+    ],
+    marginalia=[
+        ("Private, then public", [
+            "self-blame, then",
+            "others' criticism",
+        ]),
+        ("Considered, not casual", [
+            "judgment arrives",
+            "after examination",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">apāsādika</span>",
+            "&mdash; unimpressive",
+            "conduct",
+        ]),
+        ("Cross-references", [
+            "AN 5.218 &middot; next: the same title, a different emphasis",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.217/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.216.html">AN 5.216 &middot; Intolerance (2nd)</a> &mdash; '
+        "the previous discourse in this chapter.",
+        '<a href="an-5.218.html">AN 5.218 &middot; Unimpressive Conduct (2nd)</a> '
+        "&mdash; next: the same title, shifting emphasis to others' confidence.",
+        '<a href="an-5.213.html">AN 5.213 &middot; Ethics</a> &mdash; a related '
+        "earlier discourse on reputation and public confidence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.218 — Dutiyaapāsādikasutta
+# --------------------------------------------------------------------------- #
+page(
+    218, "Dutiyaapāsādika", "Unimpressive Conduct (2nd)",
+    vagga=VAGGA_22,
+    meta_title="AN 5.218 — Unimpressive Conduct (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaapāsādikasutta — five drawbacks of unimpressive conduct measured "
+        "by its effect on others' confidence, including the imitation "
+        "mechanism seen throughout this nipāta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, an entirely different content "
+                 "from AN 5.217"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, the "
+                       "fifth appearance of a familiar mechanism"),
+    ],
+    why=(
+        "Sharing its title but not its content with AN 5.217, this discourse "
+        "measures unimpressive conduct entirely by its effect on others: "
+        "confidence lost or gained, the Teacher's instructions followed or "
+        "ignored, and imitation &mdash; the same mechanism already seen four "
+        "times across this nipāta."),
+    guide=[
+        ("Same title, entirely different content", [
+            "Unlike AN 5.215&ndash;216's close pairing (same frame, one item "
+            "varied), this discourse shares only its title with AN 5.217 "
+            "&mdash; the actual five items named are entirely different, "
+            "concerned with effect on others rather than on oneself."]),
+        ("Five drawbacks, all about others' confidence", [
+            "Not inspiring confidence in those who lack it; causing some who "
+            "have confidence to lose it; not following the Teacher's "
+            "instructions; being imitated by those who come after; and one's "
+            "own mind failing to become clear."]),
+        ("Imitation, a fifth time", [
+            "The fourth drawback names <em>diṭṭhānugati</em>, &lsquo;falling "
+            "into imitation&rsquo; &mdash; the same mechanism already seen at "
+            "AN 5.79, AN 5.88, AN 5.156, and AN 5.209. Notably, here it's "
+            "listed as a drawback regardless of direction: unimpressive "
+            "conduct gets imitated too, spreading the problem rather than "
+            "correcting it."]),
+        ("Five matching benefits", [
+            "Inspiring confidence in those who lack it; increasing confidence "
+            "in those who already have it; following the Teacher's "
+            "instructions; being imitated in a positive direction; and one's "
+            "own mind becoming clear &mdash; the exact mirror."]),
+        ("Closing a matched pair with a genuinely different lens", [
+            "Read alongside AN 5.217, this discourse completes a fuller "
+            "picture of &lsquo;impressive conduct&rsquo;: not only its effect "
+            "on the person themselves (self-blame, reputation, rebirth), but "
+            "its effect on the wider community's confidence and behavior "
+            "&mdash; a genuinely distinct concern, not a redundant repetition."]),
+    ],
+    terms=[
+        ("appasannā nappasīdanti",
+         "&ldquo;doesn't inspire confidence in those without it&rdquo; "
+         "&mdash; the first drawback, an effect on others."),
+        ("satthusāsanaṁ akataṁ",
+         "&ldquo;the Teacher's instructions not followed&rdquo; &mdash; the "
+         "third drawback."),
+        ("pacchimā janatā diṭṭhānugatiṁ āpajjati",
+         "&ldquo;those who come after fall into imitation&rdquo; &mdash; the "
+         "same mechanism named at AN 5.79, 5.88, 5.156, and 5.209."),
+        ("cittamassa nappasīdati",
+         "&ldquo;one's own mind doesn't become clear&rdquo; &mdash; the "
+         "fifth drawback, an internal consequence closing the list."),
+        ("apāsādika",
+         "&ldquo;unimpressive conduct&rdquo; &mdash; the shared title concept "
+         "with AN 5.217, though the two discourses' content differs entirely."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of unimpressive conduct, "
+        "measured by their effect on others. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of unimpressive conduct"),
+        ("p", "&sect;1", "an5.218:1.1-1.4"),
+        ("h3", "Five benefits of impressive conduct"),
+        ("p", "&sect;2", "an5.218:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to AN 5.217, which shares its title?",
+         "opts": [
+             "It names an entirely different set of five items, concerned with effect on others",
+             "It is word-for-word identical to AN 5.217",
+             "It contradicts AN 5.217's conclusions directly",
+             "It has no genuine connection to AN 5.217 at all"],
+         "correct": 0,
+         "expl": "Same title, entirely different content."},
+        {"q": "What five drawbacks does this discourse name?",
+         "opts": [
+             "Not inspiring confidence, causing confidence to be lost, ignoring the Teacher's instructions, being imitated, and an unclear mind",
+             "Self-blame, criticism, bad reputation, confused death, and hell",
+             "The five precepts broken",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "All concerned with effect on others and the community."},
+        {"q": "Where else in this nipāta does 'diṭṭhānugati' (falling into imitation) appear?",
+         "opts": [
+             "AN 5.79, AN 5.88, AN 5.156, and AN 5.209",
+             "Nowhere else in this collection",
+             "Only in this discourse",
+             "AN 5.100 and AN 5.106"],
+         "correct": 0,
+         "expl": "The fifth appearance of this recurring mechanism."},
+        {"q": "What is notable about how imitation functions in this discourse's negative list?",
+         "opts": [
+             "Unimpressive conduct gets imitated too, spreading the problem rather than correcting it",
+             "Imitation only ever spreads positive conduct",
+             "Imitation is denied to have any real effect",
+             "Only senior mendicants can be imitated"],
+         "correct": 0,
+         "expl": "Listed as a drawback regardless of direction."},
+        {"q": "What does 'satthusāsanaṁ akataṁ' mean?",
+         "opts": [
+             "The Teacher's instructions not followed",
+             "The Teacher's instructions perfectly followed",
+             "A formal ordination requirement",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The third drawback named."},
+        {"q": "What does this discourse add to AN 5.217's picture of 'impressive conduct'?",
+         "opts": [
+             "Its effect on the wider community's confidence and behavior, not just the person themselves",
+             "Nothing — it simply repeats AN 5.217 exactly",
+             "A denial that community confidence matters at all",
+             "A claim that only self-blame is relevant"],
+         "correct": 0,
+         "expl": "A genuinely distinct, complementary concern."},
+        {"q": "What does 'cittamassa nappasīdati' mean?",
+         "opts": [
+             "One's own mind doesn't become clear",
+             "One's own mind becomes perfectly clear",
+             "Others' minds become confused",
+             "A formal legal dispute arises"],
+         "correct": 0,
+         "expl": "The fifth drawback, an internal consequence."},
+        {"q": "What does the positive mirror of this discourse's fourth item describe?",
+         "opts": [
+             "Being imitated in a positive direction",
+             "Never being imitated by anyone",
+             "Formal expulsion from imitation",
+             "A refusal to teach entirely"],
+         "correct": 0,
+         "expl": "The clean negation of negative imitation."},
+        {"q": "What does 'appasannā nappasīdanti' mean?",
+         "opts": [
+             "Doesn't inspire confidence in those without it",
+             "Inspires great confidence in everyone",
+             "Formally accuses those without confidence",
+             "Refuses to interact with others at all"],
+         "correct": 0,
+         "expl": "The first drawback, an effect on others' confidence."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Akkosakavagga",
+             "Kimilavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Abuse', this session's twenty-second chapter."},
+    ],
+    marginalia=[
+        ("Five effects on others", [
+            "confidence lost or",
+            "gained &middot; the",
+            "Teacher's word &middot;",
+            "imitation &middot; clarity",
+        ]),
+        ("Imitation, a fifth time", [
+            "even bad conduct",
+            "gets copied",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">diṭṭhānugati</span>",
+            "&mdash; falling into",
+            "imitation",
+        ]),
+        ("Cross-references", [
+            "AN 5.79 &middot; AN 5.88 &middot; AN 5.156 &middot; AN 5.209 "
+            "&middot; this same mechanism's earlier appearances",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.218/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.217.html">AN 5.217 &middot; Unimpressive Conduct (1st)</a> '
+        "&mdash; the previous discourse, sharing this title but not its content.",
+        '<a href="an-5.219.html">AN 5.219 &middot; Fire</a> &mdash; next: a '
+        "shift to five drawbacks of a literal, physical fire.",
+        '<a href="an-5.209.html">AN 5.209 &middot; The Sound of Singing</a> '
+        "&mdash; this same imitation mechanism's most recent prior "
+        "appearance.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.219 — Aggisutta
+# --------------------------------------------------------------------------- #
+page(
+    219, "Aggi", "Fire",
+    vagga=VAGGA_22,
+    meta_title="AN 5.219 — Fire | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Aggisutta — five drawbacks of a literal, physical fire, combining "
+        "bodily harm with the social pull of gathering and gossip. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive mirror"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, an "
+                       "unusually literal topic"),
+    ],
+    why=(
+        "A genuinely unusual discourse in this collection: five drawbacks of a "
+        "literal, physical fire, mixing bodily harm with something more "
+        "social &mdash; fire as a gathering point that draws crowds and "
+        "encourages idle talk."),
+    guide=[
+        ("Five physical and social drawbacks", [
+            "Fire is bad for the eyes, bad for the complexion, makes you weak, "
+            "draws in groups of people, and encourages "
+            "<em>tiracchānakathā</em> (literally &lsquo;animal talk&rsquo;, "
+            "meaning idle, worldly gossip) &mdash; a list mixing plainly "
+            "bodily effects with a social consequence."]),
+        ("Fire as a gathering point", [
+            "The fourth and fifth items are the most distinctive: fire draws "
+            "people together, and that gathering tends toward idle chatter "
+            "rather than useful conversation &mdash; naming a genuinely social "
+            "drawback of something ordinarily thought of only in physical "
+            "terms."]),
+        ("A likely context: sitting around a fire", [
+            "Read in context, this discourse most plausibly concerns "
+            "communal fires kept for warmth, cooking, or light &mdash; a "
+            "natural gathering point in a mendicant community's daily life, "
+            "and therefore also a natural site for the kind of unproductive "
+            "socializing this discourse warns against."]),
+        ("Tiracchānakathā, a recurring concern in a different key", [
+            "&lsquo;Animal talk&rsquo;, meaning worldly small talk rather than "
+            "Dhamma discussion, is a recurring category of concern across the "
+            "early texts &mdash; here it appears attached to an ordinary "
+            "physical circumstance (a fire) rather than to any deliberate "
+            "choice, worth noticing as a subtler kind of temptation than "
+            "outright misconduct."]),
+        ("An unusually literal entry in this collection", [
+            "Most of this nipāta's five-item lists concern virtues, "
+            "obstacles, or spiritual states. This discourse's subject &mdash; "
+            "an ordinary physical object &mdash; stands out as a reminder of "
+            "how broad this collection's attention actually is."]),
+    ],
+    terms=[
+        ("aggi",
+         "&ldquo;fire&rdquo; &mdash; this discourse's title concept and "
+         "literal subject."),
+        ("acakkhusso",
+         "&ldquo;bad for the eyes&rdquo; &mdash; the first drawback named."),
+        ("dubbaṇṇakaraṇo, dubbalakaraṇo",
+         "&ldquo;bad for the complexion, makes weak&rdquo; &mdash; the second "
+         "and third physical drawbacks."),
+        ("saṅgaṇikāpavaḍḍhano",
+         "&ldquo;draws in groups&rdquo; &mdash; the fourth, social drawback."),
+        ("tiracchānakathāpavattaniko",
+         "&ldquo;encourages low, worldly talk&rdquo; &mdash; literally "
+         "&lsquo;animal talk&rsquo;, the fifth and final drawback."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of fire, physical and social. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of fire"),
+        ("p", "&sect;1", "an5.219:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five drawbacks of fire does this discourse name?",
+         "opts": [
+             "Bad for the eyes, bad for the complexion, weakening, drawing crowds, and encouraging idle talk",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A list mixing bodily effects with a social consequence."},
+        {"q": "What does 'tiracchānakathāpavattaniko' mean?",
+         "opts": [
+             "Encourages low, worldly talk — literally 'animal talk'",
+             "Provides excellent light for reading scripture",
+             "Prevents all conversation entirely",
+             "Encourages formal Dhamma discussion"],
+         "correct": 0,
+         "expl": "The fifth and most distinctive drawback."},
+        {"q": "What are the two most socially distinctive drawbacks in this list?",
+         "opts": [
+             "Drawing in groups of people, and encouraging idle chatter",
+             "Making food taste bad, and ruining clothing",
+             "Attracting insects, and producing smoke",
+             "Requiring constant supervision, and being expensive"],
+         "correct": 0,
+         "expl": "Naming a social consequence of something ordinarily thought of only physically."},
+        {"q": "What context does this discourse most plausibly concern, according to this guide?",
+         "opts": [
+             "Communal fires kept for warmth, cooking, or light in daily monastic life",
+             "Forest fires threatening a monastery",
+             "Ritual fire ceremonies performed by brahmins",
+             "Cooking fires used exclusively by laypeople"],
+         "correct": 0,
+         "expl": "A natural gathering point, and therefore a site for idle talk."},
+        {"q": "What is 'tiracchānakathā' a recurring category of concern for, across the early texts?",
+         "opts": [
+             "Worldly small talk, as opposed to Dhamma discussion",
+             "Formal legal disputes",
+             "Doctrinal debate between traditions",
+             "Poetry composition"],
+         "correct": 0,
+         "expl": "A subtler kind of temptation than outright misconduct."},
+        {"q": "What makes this discourse's subject unusual within this collection?",
+         "opts": [
+             "It concerns an ordinary physical object, rather than a virtue, obstacle, or spiritual state",
+             "It is the only discourse in the entire nipāta with exactly five items",
+             "It is the only discourse addressed to a named individual",
+             "It is the only discourse with no title at all"],
+         "correct": 0,
+         "expl": "A reminder of how broad this collection's attention actually is."},
+        {"q": "What does 'dubbalakaraṇo' mean?",
+         "opts": [
+             "Makes weak",
+             "Makes strong",
+             "A formal accusation",
+             "A ceremonial offering"],
+         "correct": 0,
+         "expl": "The third physical drawback of fire."},
+        {"q": "What does 'acakkhusso' mean?",
+         "opts": [
+             "Bad for the eyes",
+             "Good for the eyes",
+             "Related to hearing",
+             "Related to taste"],
+         "correct": 0,
+         "expl": "The first drawback named for fire."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "A single five-item list, with no positive mirror",
+             "Two paired five-item lists",
+             "An extended narrative with dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "A bare list, without a mirrored positive statement."},
+        {"q": "What discourse follows, closing this chapter?",
+         "opts": [
+             "AN 5.220, About Madhurā",
+             "AN 5.221, the first discourse of the next chapter",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Five drawbacks of a specific city, closing this chapter."},
+    ],
+    marginalia=[
+        ("Physical and social costs", [
+            "eyes &middot; complexion",
+            "&middot; strength &middot;",
+            "crowds &middot; idle talk",
+        ]),
+        ("A gathering point", [
+            "warmth draws people,",
+            "people drift into gossip",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">tiracchānakathā</span>",
+            "&mdash; worldly,",
+            "idle talk",
+        ]),
+        ("Cross-references", [
+            "AN 5.220 &middot; next: this chapter's closer, on a specific "
+            "city's drawbacks",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.219/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.218.html">AN 5.218 &middot; Unimpressive Conduct (2nd)</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.220.html">AN 5.220 &middot; About Madhurā</a> &mdash; next: '
+        "this chapter's closer, on a specific city's drawbacks.",
+        '<a href="an-5.207.html">AN 5.207 &middot; Porridge</a> &mdash; another '
+        "discourse treating an ordinary physical subject directly, without "
+        "doctrinal framing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.220 — Madhurāsutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    220, "Madhurā", "About Madhurā",
+    vagga=VAGGA_22,
+    meta_title="AN 5.220 — About Madhurā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Madhurāsutta, closing the Akkosakavagga — five concrete drawbacks of "
+        "the city of Madhurā, a genuinely site-specific piece of practical "
+        "guidance. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive mirror"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "genuinely place-specific"),
+    ],
+    why=(
+        "This chapter closes with something genuinely unusual: not an "
+        "abstract virtue or vice, but five concrete, practical drawbacks of a "
+        "single named city &mdash; Madhurā (Mathurā) &mdash; treated as a real "
+        "consideration for mendicants deciding where to travel or dwell."),
+    guide=[
+        ("Five concrete, physical drawbacks", [
+            "Madhurā's ground is uneven and dusty, its dogs are fierce, its "
+            "local spirits (<em>yakkha</em>) are vicious, and almsfood there "
+            "is hard to come by &mdash; a genuinely practical checklist for "
+            "anyone considering travel or residence there."]),
+        ("A rare degree of geographic specificity", [
+            "Unlike almost every other discourse in this collection, this one "
+            "names an actual place and lists its actual, practical drawbacks "
+            "&mdash; not a metaphor, not a simile, but real considerations "
+            "for real travel decisions within the early Buddhist world."]),
+        ("Yakkha, alongside mundane hazards", [
+            "Worth noticing: &lsquo;vicious native spirits&rsquo; sits "
+            "alongside uneven ground and fierce dogs as an equally practical "
+            "concern &mdash; the same willingness, seen throughout this "
+            "project, to state the text's own cosmology plainly, treating "
+            "yakkhas as a genuine hazard on the same list as dogs and dust."]),
+        ("Ending the chapter on the concrete, not the abstract", [
+            "This chapter has moved through abuse, ethics, speech, "
+            "tolerance, and conduct &mdash; all abstract virtues and vices "
+            "&mdash; and closes instead on something entirely practical: "
+            "where, specifically, might be a genuinely difficult place to "
+            "live and practice."]),
+        ("Closing the chapter", [
+            "The chapter closes with its colophon, &lsquo;Dasamaṁ. "
+            "Akkosakavaggo dutiyo&rsquo; (&lsquo;The tenth. The second "
+            "chapter on abuse&rsquo;), followed by an uddāna verse naming "
+            "this chapter's ten discourses in brief &mdash; the same "
+            "summarizing mechanism explained in full at AN 5.10."]),
+    ],
+    terms=[
+        ("Madhurā",
+         "an actual city (identified with Mathurā), this discourse's title "
+         "concept and the sole named place among its five drawbacks."),
+        ("visamā, bahurajā",
+         "&ldquo;uneven, dusty&rdquo; &mdash; the first two, purely physical "
+         "drawbacks of the terrain."),
+        ("caṇḍasunakhā",
+         "&ldquo;fierce hounds&rdquo; &mdash; the third drawback, a genuine "
+         "practical hazard."),
+        ("vāḷayakkhā",
+         "&ldquo;vicious native spirits&rdquo; &mdash; the fourth drawback, "
+         "named alongside mundane hazards without special comment."),
+        ("dullabhapiṇḍā",
+         "&ldquo;almsfood hard to get&rdquo; &mdash; the fifth and most "
+         "directly consequential drawback for a mendicant's daily life."),
+    ],
+    text_intro=(
+        "The discourse in full, closing this chapter: five practical drawbacks "
+        "of the city of Madhurā. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of Madhurā"),
+        ("p", "&sect;1", "an5.220:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five drawbacks of Madhurā does this discourse name?",
+         "opts": [
+             "Uneven, dusty ground; fierce hounds; vicious spirits; and scarce almsfood",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "Genuinely concrete, practical considerations."},
+        {"q": "What makes this discourse unusual within this collection?",
+         "opts": [
+             "It names an actual place and lists real, practical drawbacks, rather than using metaphor or simile",
+             "It is the only discourse in the collection with exactly five items",
+             "It is the only discourse addressed to a named individual",
+             "It is the only discourse written entirely in verse"],
+         "correct": 0,
+         "expl": "A rare degree of geographic specificity."},
+        {"q": "What does 'vāḷayakkhā' mean?",
+         "opts": [
+             "Vicious native spirits",
+             "Friendly local guides",
+             "A formal religious ceremony",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The fourth drawback, named alongside mundane hazards."},
+        {"q": "How does this discourse treat 'vicious native spirits' relative to the other drawbacks?",
+         "opts": [
+             "As an equally practical concern, on the same list as dogs and dust",
+             "As a purely symbolic, non-literal claim",
+             "As the discourse's only genuine concern, with the others being metaphorical",
+             "As entirely unrelated to travel decisions"],
+         "correct": 0,
+         "expl": "Stating the text's own cosmology plainly, without special comment."},
+        {"q": "What does this chapter's closing choice — a specific city rather than an abstract virtue — suggest?",
+         "opts": [
+             "A shift from abstract ethical concerns to something entirely practical: where to travel or dwell",
+             "That geography is more important than ethics in this collection",
+             "That this discourse doesn't belong in this chapter at all",
+             "That Madhurā is meant purely as an allegory"],
+         "correct": 0,
+         "expl": "Ending on the concrete after a chapter of abstract virtues and vices."},
+        {"q": "What does 'dullabhapiṇḍā' mean?",
+         "opts": [
+             "Almsfood hard to get",
+             "Almsfood freely abundant",
+             "A formal ordination requirement",
+             "A type of local delicacy"],
+         "correct": 0,
+         "expl": "The fifth and most directly consequential drawback."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "'Dasamaṁ. Akkosakavaggo dutiyo.'",
+             "'Dasamaṁ. Kimilavaggo paṭhamo.'",
+             "No colophon appears in this chapter",
+             "'Ekādasamaṁ. Dīghacārikavaggo.'"],
+         "correct": 0,
+         "expl": "'The tenth. The second chapter on abuse.'"},
+        {"q": "What does 'visamā, bahurajā' mean?",
+         "opts": [
+             "Uneven, dusty",
+             "Smooth, clean",
+             "Wet, muddy",
+             "Rocky, mountainous"],
+         "correct": 0,
+         "expl": "The first two drawbacks of Madhurā's terrain."},
+        {"q": "What mechanism does the closing uddāna verse use?",
+         "opts": [
+             "A summary verse naming this chapter's ten discourses in brief, explained in full at AN 5.10",
+             "A formal legal proceeding",
+             "A newly introduced technique unique to this chapter",
+             "A narrative epilogue with named characters"],
+         "correct": 0,
+         "expl": "The same summarizing mechanism used throughout this project."},
+        {"q": "What chapter comes next?",
+         "opts": [
+             "Dīghacārikavagga",
+             "Āvāsikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "AN 5.221 begins this collection's twenty-third chapter."},
+    ],
+    marginalia=[
+        ("Five concrete hazards", [
+            "uneven ground &middot;",
+            "dust &middot; fierce",
+            "dogs &middot; vicious",
+            "spirits &middot; scarce",
+            "almsfood",
+        ]),
+        ("A rare geographic specificity", [
+            "an actual place,",
+            "real drawbacks",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vāḷayakkhā</span>",
+            "&mdash; vicious",
+            "native spirits",
+        ]),
+        ("Cross-references", [
+            "AN 5.10 &middot; the uddāna mechanism, explained there in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.220/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.219.html">AN 5.219 &middot; Fire</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.211.html">AN 5.211 &middot; An Abuser</a> &mdash; this '
+        "chapter's opening discourse.",
+        '<a href="an-5.207.html">AN 5.207 &middot; Porridge</a> &mdash; another '
+        "discourse treating an entirely practical subject without doctrinal "
+        "framing.",
+    ],
+)
