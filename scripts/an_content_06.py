@@ -17198,3 +17198,1935 @@ page(
         "opening, for contrast with the chapter now closing.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Chapter 9 — Sītivagga (AN 6.85–95), continuing the Second Fifty
+# --------------------------------------------------------------------------- #
+VAGGA_9 = "<em>Sītivagga</em> &mdash; the ninth chapter of the Sixes, continuing the Second Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.85 — Sītibhāvasutta
+# --------------------------------------------------------------------------- #
+page(
+    85, "Sītibhāva", "Coolness",
+    vagga=VAGGA_9,
+    meta_title="AN 6.85 — Coolness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sītibhāvasutta, "
+        "opening the Sixes' ninth chapter with six qualities of mental management that block "
+        "or enable supreme coolness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The fourfold management of mind — restraining, exerting, "
+                              "encouraging, and watching with equanimity — recurs widely across "
+                              "the Chinese Āgamas' meditation instructions; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a fourfold technical set "
+                       "plus two further items, opening a new chapter"),
+    ],
+    why=(
+        "Chapter 9, &lsquo;Coolness,&rsquo; opens with its own namesake term: sītibhāva, "
+        "&ldquo;coolness,&rdquo; the extinguishing of the fires of greed, hatred, and delusion. "
+        "Its blocking list names four ways of actively managing the mind &mdash; restraining "
+        "it, exerting it, encouraging it, and watching it with equanimity, each &ldquo;when "
+        "they should&rdquo; &mdash; joined by inferior conviction and relishing substantial "
+        "reality."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without managing the mind through restraint, exertion, encouragement, and "
+            "equanimous watching as each is called for, and without excellent conviction and "
+            "delight in extinguishment rather than substantial reality, supreme coolness cannot "
+            "be realized."]),
+        ("Four techniques, applied conditionally", [
+            "Each of the first four items is qualified by &ldquo;when they should&rdquo; "
+            "(yathārahaṁ) &mdash; the discourse does not claim any one technique is always "
+            "correct, but that failing to apply the right one at the right moment blocks "
+            "coolness. Restraint, exertion, encouragement, and equanimous watching are treated "
+            "as a toolkit requiring judgment, not a fixed sequence."]),
+        ("Sakkāya and nibbāna, echoing AN 6.14/6.15", [
+            "The list's closing pair &mdash; delighting in substantial reality (sakkāyārāmatā) "
+            "versus delighting in extinguishment (nibbānārāmatā) &mdash; repeats the identical "
+            "closing terms already met at AN 6.14 and 6.15 earlier in this collection, applied "
+            "here to a different, though closely related, target: not freedom from regret, but "
+            "coolness itself."]),
+        ("Coolness as this chapter's own recurring theme", [
+            "Sītibhāva, supreme coolness, does not reappear by this exact name later in the "
+            "chapter, but its underlying concern &mdash; what does or does not equip a "
+            "practitioner to progress &mdash; continues through AN 6.86&ndash;88's listening "
+            "triplet and AN 6.89&ndash;95's stream-entry discourses that follow."]),
+    ],
+    terms=[
+        ("sītibhāva",
+         "&ldquo;coolness&rdquo; &mdash; this chapter's own title and this discourse's target, "
+         "the extinguishing of the fires of greed, hatred, and delusion."),
+        ("saṅgaṇhāti, padahati, ussādeti, ajjhupekkhati",
+         "&ldquo;restrains, exerts, encourages, watches with equanimity&rdquo; &mdash; the four "
+         "techniques of mental management, each qualified by &ldquo;when they should.&rdquo;"),
+        ("hīnādhimuttika",
+         "&ldquo;of inferior conviction&rdquo; &mdash; the fifth blocking item."),
+        ("sakkāyārāmatā, nibbānārāmatā",
+         "&ldquo;delighting in substantial reality, delighting in extinguishment&rdquo; "
+         "&mdash; the sixth and closing pair, identical in wording to AN 6.14/6.15's closing "
+         "terms earlier in this collection."),
+        ("paṇītādhimuttika",
+         "&ldquo;of excellent conviction&rdquo; &mdash; the reversal's fifth item, the direct "
+         "opposite of inferior conviction."),
+    ],
+    text_intro=(
+        "The discourse in full: four techniques of mental management plus conviction and "
+        "delight, blocking or enabling supreme coolness. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that block coolness"),
+        ("p", "&sect;1", "an6.85:1.1-1.4"),
+        ("h3", "Six things that enable it"),
+        ("p", "&sect;2", "an6.85:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this chapter's title, sītivagga, translate as, and what is this "
+              "discourse's target?",
+         "opts": [
+             "'The Chapter on Fire' — target: burning away defilements",
+             "'The Chapter on Coolness' — target: sītibhāva, the extinguishing of greed, "
+             "hatred, and delusion",
+             "'The Chapter on Water' — target: physical comfort",
+             "A title unrelated to this discourse's content"],
+         "correct": 1,
+         "expl": "The chapter's own namesake term, opening its first discourse."},
+        {"q": "What four techniques of mental management open this discourse's blocking list?",
+         "opts": [
+             "Faith, energy, mindfulness, wisdom",
+             "Restraining, exerting, encouraging, and watching the mind with equanimity, each "
+             "'when they should'",
+             "Fasting, silence, solitude, and study",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "A toolkit of four techniques, each conditionally applied rather than always "
+                 "correct."},
+        {"q": "What does the qualifier 'when they should' (yathārahaṁ) imply, according to the "
+              "guide?",
+         "opts": [
+             "That only one of the four techniques is ever correct",
+             "That no single technique is always correct — failing to apply the right one at "
+             "the right moment is what blocks coolness",
+             "That the four techniques should always be used together at once",
+             "That the qualifier has no real significance"],
+         "correct": 1,
+         "expl": "Judgment in application, not a fixed sequence, is what the discourse "
+                 "requires."},
+        {"q": "Where else in this collection have this discourse's closing terms — delighting "
+              "in substantial reality versus extinguishment — already appeared?",
+         "opts": [
+             "Nowhere else in this collection",
+             "At AN 6.14 and 6.15, applied there to freedom from regret rather than coolness",
+             "Only in the Fours, not the Sixes",
+             "At AN 6.31 specifically"],
+         "correct": 1,
+         "expl": "Identical closing terms, applied to a different though related target."},
+        {"q": "Is a setting stated for AN 6.85?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, opening this new chapter."},
+        {"q": "What does <em>hīnādhimuttika</em> mean?",
+         "opts": ["Of excellent conviction", "Of inferior conviction", "Fully liberated", "Newly ordained"],
+         "correct": 1,
+         "expl": "The fifth blocking item, reversed in the discourse's second half."},
+        {"q": "According to the guide, what continues this discourse's underlying concern "
+              "later in the chapter?",
+         "opts": [
+             "Nothing — the chapter has no further connection to this discourse",
+             "AN 6.86–88's listening triplet and AN 6.89–95's stream-entry discourses, though "
+             "sītibhāva itself does not reappear by name",
+             "Only AN 6.95, the chapter's final discourse",
+             "The theme is dropped entirely after this discourse"],
+         "correct": 1,
+         "expl": "A recurring concern with what equips or blocks progress, carried through the "
+                 "rest of the chapter."},
+    ],
+    marginalia=[
+        ("Four techniques of mind", [
+            "restrain &middot; exert",
+            "&middot; encourage &middot; watch",
+            "with equanimity — each when apt",
+        ]),
+        ("Echoing AN 6.14/6.15", [
+            "sakkāya vs. nibbāna —",
+            "identical terms,",
+            "a different target here",
+        ]),
+        ("This chapter's namesake", [
+            "sītibhāva —",
+            "coolness, the extinguishing",
+            "of greed, hate, delusion",
+        ]),
+        ("Cross-references", [
+            "AN 6.14/6.15 &middot; earlier, source of this discourse's closing terms",
+            "AN 6.84 &middot; previous, closing the last chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.85/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.14.html">AN 6.14 &middot; A Good Death</a> &mdash; earlier, source of '
+        "this discourse's closing terms.",
+        '<a href="an-6.86.html">AN 6.86 &middot; Obstacles</a> &mdash; next, opening a triplet '
+        "on receptivity while listening to the teaching.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.86 — Āvaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    86, "Āvaraṇa", "Obstacles",
+    vagga=VAGGA_9,
+    meta_title="AN 6.86 — Obstacles | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Āvaraṇasutta, opening "
+        "a triplet of discourses sharing an identical formula but each naming a different "
+        "six-item obstacle to receiving the teaching. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, the first of three "
+                 "discourses sharing an identical opening and closing formula"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The threefold obstruction by deeds, defilements, and results "
+                              "(karmāvaraṇa) recurs widely across Abhidharma literature and its "
+                              "Chinese parallels; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; opens a closely matched "
+                       "triplet where the shared formula can obscure real differences between "
+                       "the three discourses' actual lists"),
+    ],
+    why=(
+        "AN 6.86 opens a triplet with AN 6.87 and 6.88, all three sharing the identical opening "
+        "and closing formula &mdash; &ldquo;unable to step into the sure path with regards to "
+        "skillful qualities even when listening to the true teaching&rdquo; &mdash; but naming "
+        "three genuinely different six-item lists. This discourse's own list names three "
+        "obstructions (by deeds, defilements, or results) plus three further deficits: "
+        "faithless, unenthusiastic, and witless."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Someone obstructed by deeds, defilements, or results, and faithless, "
+            "unenthusiastic, and witless, cannot step onto the sure path even while listening "
+            "to the true teaching; the reversal of all six makes that step possible."]),
+        ("A shared formula opening three distinct discourses", [
+            "AN 6.86, 6.87, and 6.88 open and close with word-for-word identical framing, "
+            "differing only in what fills their six-item lists — a pattern that, checked "
+            "against the identical &ldquo;respect&rdquo; formula met four times earlier in "
+            "this collection, warns against assuming shared framing means shared content."]),
+        ("Three obstructions, a fixed technical set", [
+            "Kammāvaraṇa (obstruction by deeds), kilesāvaraṇa (by defilements), and "
+            "vipākāvaraṇa (by results) form a recognized threefold set elsewhere in the canon "
+            "and Abhidharma literature, naming three distinct ways past action can block "
+            "present spiritual progress: through the deed itself, through the underlying "
+            "defilement, or through the deed's ripening result."]),
+        ("'Even when listening to the true teaching' — the formula's real stakes", [
+            "The shared formula's force lies in its qualifier: these six items don't merely "
+            "make the teaching hard to find, they block someone from benefiting from it even "
+            "while directly hearing it taught &mdash; naming obstacles internal to the listener "
+            "rather than obstacles of access."]),
+    ],
+    terms=[
+        ("kammāvaraṇa, kilesāvaraṇa, vipākāvaraṇa",
+         "&ldquo;obstruction by deeds, by defilements, by results&rdquo; &mdash; a recognized "
+         "threefold technical set, the first three items of this discourse's list."),
+        ("assaddha, anussuka, duppañña",
+         "&ldquo;faithless, unenthusiastic, witless&rdquo; &mdash; the remaining three items, "
+         "closing the list."),
+        ("niyāmaṁ okkamituṁ",
+         "&ldquo;to step into the sure path&rdquo; &mdash; the shared formula's central phrase, "
+         "identical across AN 6.86, 6.87, and 6.88."),
+        ("kusalesu dhammesu",
+         "&ldquo;with regards to skillful qualities&rdquo; &mdash; qualifying what the sure "
+         "path concerns, shared across the triplet."),
+        ("saddhammaṁ suṇantopi",
+         "&ldquo;even when listening to the true teaching&rdquo; &mdash; the formula's "
+         "decisive qualifier, naming obstacles internal to the listener rather than obstacles "
+         "of access to the teaching."),
+    ],
+    text_intro=(
+        "The discourse in full: three obstructions plus three deficits blocking the sure path, "
+        "and their reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that block the sure path"),
+        ("p", "&sect;1", "an6.86:1.1-1.4"),
+        ("h3", "Six things that enable it"),
+        ("p", "&sect;2", "an6.86:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What formula does AN 6.86 share word for word with AN 6.87 and 6.88?",
+         "opts": [
+             "No formula is shared between the three",
+             "'Unable to step into the sure path with regards to skillful qualities even when "
+             "listening to the true teaching' — opening and closing both discourses identically",
+             "Only the closing formula is shared, not the opening",
+             "The three discourses share their entire six-item list, not just the formula"],
+         "correct": 1,
+         "expl": "Identical framing around three genuinely different six-item lists."},
+        {"q": "What three obstructions open this discourse's list?",
+         "opts": [
+             "The five hindrances",
+             "Obstruction by deeds, by defilements, and by results (kammāvaraṇa, kilesāvaraṇa, "
+             "vipākāvaraṇa)",
+             "Faith, energy, and wisdom",
+             "Killing, stealing, and lying"],
+         "correct": 1,
+         "expl": "A recognized threefold technical set from elsewhere in the canon and "
+                 "Abhidharma literature."},
+        {"q": "What does the guide caution about a shared formula across multiple discourses, "
+              "drawing on an earlier pattern in this collection?",
+         "opts": [
+             "That shared framing guarantees shared content",
+             "That shared framing does not guarantee shared content — as already seen with "
+             "the 'respect' formula met four times earlier in this collection",
+             "That such patterns never recur in this collection",
+             "That shared formulas are always accidental duplication"],
+         "correct": 1,
+         "expl": "A caution earned by this collection's repeated near-duplicate discourses."},
+        {"q": "What does the formula's qualifier 'even when listening to the true teaching' "
+              "emphasize, according to the guide?",
+         "opts": [
+             "That the teaching itself is sometimes unavailable",
+             "That these six items block benefit from the teaching internally, even during "
+             "direct exposure to it, rather than blocking mere access",
+             "That listening alone is always sufficient regardless of other qualities",
+             "That the formula has no particular emphasis"],
+         "correct": 1,
+         "expl": "Obstacles internal to the listener, not obstacles of access."},
+        {"q": "Is a setting stated for AN 6.86?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What does <em>vipākāvaraṇa</em> mean?",
+         "opts": ["Obstruction by deeds", "Obstruction by defilements", "Obstruction by results", "No obstruction at all"],
+         "correct": 2,
+         "expl": "The third of the three named obstructions."},
+        {"q": "What are this discourse's final three blocking items, after the three "
+              "obstructions?",
+         "opts": [
+             "Faithless, unenthusiastic, and witless",
+             "Lazy, negligent, and doubtful",
+             "Killing, stealing, and lying",
+             "Fawning, flattery, and deceit"],
+         "correct": 0,
+         "expl": "Three further deficits closing this discourse's list."},
+    ],
+    marginalia=[
+        ("Three obstructions", [
+            "by deeds &middot; by",
+            "defilements &middot; by results —",
+            "plus faithless, unenthusiastic, witless",
+        ]),
+        ("A shared formula, three lists", [
+            "AN 6.86, 87, 88:",
+            "identical framing,",
+            "genuinely different content",
+        ]),
+        ("Internal, not external, obstacles", [
+            "blocking benefit even",
+            "while directly hearing",
+            "the teaching taught",
+        ]),
+        ("Cross-references", [
+            "AN 6.87 &middot; next, the second of this triplet",
+            "AN 6.32/33/40/69 &middot; earlier, a similar shared-formula pattern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.86/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.85.html">AN 6.85 &middot; Coolness</a> &mdash; previous, opening this '
+        "chapter.",
+        '<a href="an-6.87.html">AN 6.87 &middot; A Murderer</a> &mdash; next, the second of '
+        "this triplet, sharing the identical formula.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.87 — Voropitasutta
+# --------------------------------------------------------------------------- #
+page(
+    87, "Voropita", "A Murderer",
+    vagga=VAGGA_9,
+    meta_title="AN 6.87 — A Murderer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Voropitasutta, the "
+        "second of a triplet, naming the five heinous deeds plus intellectual dullness as what "
+        "blocks the sure path. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, the second of "
+                 "AN 6.86–88's shared-formula triplet"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The five heinous deeds (ānantarika-kamma) as a fixed list recur "
+                              "throughout the Chinese Āgamas and Vinaya literature; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; names the canon's most "
+                       "severe fixed list of transgressions, condensed into a shared six-item "
+                       "formula"),
+    ],
+    why=(
+        "AN 6.87, sharing AN 6.86's identical formula, names an entirely different and far "
+        "more severe list: the five heinous deeds (ānantarika-kamma) &mdash; matricide, "
+        "patricide, killing an arahant, maliciously wounding a Buddha, and causing a schism in "
+        "the Saṅgha &mdash; joined by a sixth item, intellectual dullness, closing the list."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Someone who has committed any of the five heinous deeds, or who is witless, dull, "
+            "and idiotic, cannot step onto the sure path even while listening to the true "
+            "teaching; abstaining from the five deeds, and being wise, bright, and clever, "
+            "makes that step possible."]),
+        ("The canon's most severe fixed list, compressed to one item", [
+            "Where the five heinous deeds are elsewhere often treated at length given their "
+            "gravity, this discourse compresses all five into what functions as a single "
+            "blocking category within a larger six-item formula shared with AN 6.86 and 6.88 "
+            "&mdash; the same triplet framework accommodating both a threefold technical "
+            "obstruction (AN 6.86) and the canon's gravest transgressions (this discourse) "
+            "without altering its shared opening and closing words."]),
+        ("Three qualities of intellect, not conduct, close the list", [
+            "Duppañña, dull, and idiotic (elagala, or a near-synonym rendered similarly across "
+            "translations) name failures of intellectual capacity rather than further acts, "
+            "standing apart from the five heinous deeds' register of severe, deliberate "
+            "wrongdoing."]),
+        ("An echo, not a repeat, of AN 6.94 later in this chapter", [
+            "The five heinous deeds recur later in this same chapter at AN 6.94, listed among "
+            "things &ldquo;impossible&rdquo; for one accomplished in view — a different "
+            "framing (impossibility for the already-accomplished, rather than an obstacle for "
+            "the not-yet-accomplished) applied to substantially the same content, worth "
+            "checking rather than assuming identical when reached."]),
+    ],
+    terms=[
+        ("mātā vā pitā vā arahaṁ vā",
+         "&ldquo;mother, father, or a perfected one&rdquo; &mdash; the first three of the five "
+         "heinous deeds, murder of each treated within one compressed list item."),
+        ("Tathāgatassa lohitaṁ uppādeti",
+         "&ldquo;maliciously sheds the blood of a Realized One&rdquo; &mdash; the fourth "
+         "heinous deed, wounding a Buddha."),
+        ("saṅghabheda",
+         "&ldquo;schism in the Saṅgha&rdquo; &mdash; the fifth heinous deed, causing division "
+         "within the monastic community."),
+        ("duppañña, jaḷa, eḷamūga",
+         "&ldquo;witless, dull, idiotic&rdquo; &mdash; the sixth item, naming intellectual "
+         "deficits rather than further acts."),
+        ("ānantarika-kamma",
+         "&ldquo;heinous deed with immediate result&rdquo; &mdash; the standard canonical term "
+         "for this fixed set of five, recurring later at AN 6.94 under a different framing."),
+    ],
+    text_intro=(
+        "The discourse in full: the five heinous deeds plus intellectual dullness blocking the "
+        "sure path, and their reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that block the sure path"),
+        ("p", "&sect;1", "an6.87:1.1-1.4"),
+        ("h3", "Six things that enable it"),
+        ("p", "&sect;2", "an6.87:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five deeds does this discourse name, compressed within its six-item list?",
+         "opts": [
+             "The five hindrances",
+             "The five heinous deeds: matricide, patricide, killing an arahant, wounding a "
+             "Buddha, and causing a schism in the Saṅgha",
+             "The five lay precepts broken",
+             "The five spiritual faculties, absent"],
+         "correct": 1,
+         "expl": "The canon's gravest and most severe fixed list of transgressions."},
+        {"q": "How does this discourse's list compare to AN 6.86's, despite sharing an "
+              "identical formula?",
+         "opts": [
+             "Identical content, just reworded",
+             "Entirely different — a threefold technical obstruction in AN 6.86, versus the "
+             "five heinous deeds plus intellectual dullness here",
+             "AN 6.87 has no blocking list at all",
+             "The two share exactly half their content"],
+         "correct": 1,
+         "expl": "The same shared framework accommodates very different specific content."},
+        {"q": "What does this discourse's sixth item, duppañña/jaḷa/eḷamūga, name?",
+         "opts": [
+             "A sixth heinous deed",
+             "Failures of intellectual capacity — witlessness, dullness, idiocy — distinct "
+             "from the preceding five acts of severe wrongdoing",
+             "A form of physical illness",
+             "Freedom from all wrongdoing"],
+         "correct": 1,
+         "expl": "A different register from the five heinous deeds — intellect, not conduct."},
+        {"q": "Where do the five heinous deeds recur later in this same chapter, according to "
+              "the guide?",
+         "opts": [
+             "Nowhere else in this chapter",
+             "At AN 6.94, framed as 'impossible' for one accomplished in view rather than as "
+             "an obstacle for the not-yet-accomplished",
+             "At AN 6.95, under an identical framing",
+             "They recur at every discourse in this chapter"],
+         "correct": 1,
+         "expl": "Substantially the same content, worth checking rather than assuming identical "
+                 "when a different framing is applied."},
+        {"q": "Is a setting stated for AN 6.87?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching this triplet's other two discourses."},
+        {"q": "What is the standard canonical term for the five heinous deeds?",
+         "opts": ["Nīvaraṇa", "Ānantarika-kamma", "Saṁyojana", "Āsava"],
+         "correct": 1,
+         "expl": "'Heinous deed with immediate result' — the fixed technical term for this set "
+                 "of five."},
+        {"q": "What does the shared triplet formula's flexibility across AN 6.86 and 6.87 "
+              "demonstrate?",
+         "opts": [
+             "That the formula only ever accommodates minor faults",
+             "That the same shared opening/closing words can frame content ranging from a "
+             "technical threefold obstruction to the canon's gravest transgressions",
+             "That AN 6.87 does not actually belong to this triplet",
+             "That the formula is unrelated to its content in every case"],
+         "correct": 1,
+         "expl": "One shared frame, genuinely different content each time it is filled."},
+    ],
+    marginalia=[
+        ("The five heinous deeds", [
+            "matricide &middot; patricide",
+            "&middot; killing an arahant",
+            "&middot; wounding a Buddha &middot; schism",
+        ]),
+        ("A sixth item: dullness", [
+            "witless, dull, idiotic —",
+            "intellect, not conduct,",
+            "closes the list",
+        ]),
+        ("Same formula, graver content", [
+            "AN 6.86: a technical",
+            "obstruction — AN 6.87:",
+            "the canon's severest acts",
+        ]),
+        ("Cross-references", [
+            "AN 6.86 &middot; previous, first of this triplet",
+            "AN 6.94 &middot; later this chapter, the same five deeds, differently framed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.87/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.86.html">AN 6.86 &middot; Obstacles</a> &mdash; previous, this '
+        "triplet&rsquo;s first discourse.",
+        '<a href="an-6.88.html">AN 6.88 &middot; Wanting to Listen</a> &mdash; next, closing '
+        "this triplet.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.88 — Sussūsatisutta
+# --------------------------------------------------------------------------- #
+page(
+    88, "Sussūsati", "Wanting to Listen",
+    vagga=VAGGA_9,
+    meta_title="AN 6.88 — Wanting to Listen | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sussūsatisutta, the "
+        "third of a triplet, naming failures of actual receptivity while listening to the "
+        "teaching. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, closing "
+                 "AN 6.86–88's shared-formula triplet"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The theme of genuine versus merely formal listening recurs "
+                              "widely across the Chinese Āgamas' treatment of receiving the "
+                              "teaching; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; closes the triplet with the "
+                       "most self-referential list of the three, describing failures of "
+                       "listening itself"),
+    ],
+    why=(
+        "AN 6.88 closes the triplet begun at AN 6.86 with a list unlike either of its "
+        "companions: not a technical obstruction, not a severe transgression, but failures of "
+        "the very act the shared formula names &mdash; not wanting to listen, not actively "
+        "listening, learning the wrong meaning while neglecting the right one, and accepting "
+        "views that contradict the teaching."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Someone who doesn't want to listen to the teaching, doesn't actively listen or "
+            "try to understand, learns the incorrect meaning while neglecting the correct one, "
+            "and accepts views contradicting the teaching, cannot step onto the sure path even "
+            "while listening to the true teaching; the reversal of all this makes that step "
+            "possible."]),
+        ("A self-referential close to the triplet", [
+            "Where AN 6.86 named an abstract technical obstruction and AN 6.87 named severe "
+            "past deeds, this discourse turns the shared formula's own key phrase &mdash; "
+            "&ldquo;even when listening to the true teaching&rdquo; &mdash; back on itself: "
+            "here, the failure named is a failure of the listening act described in the "
+            "formula, not something separate from it."]),
+        ("Wanting to listen, distinguished from actually listening", [
+            "The list's first two items separate desire from execution: not wanting to listen "
+            "(asussūsanā) is distinct from not actively listening or trying to understand "
+            "(ohitasota) even once listening has begun, implying a mendicant could in "
+            "principle want to listen while still failing at the second, active step."]),
+        ("Meaning and view, the list's final two items", [
+            "Learning the incorrect meaning while neglecting the correct one, and accepting "
+            "views that contradict the teaching, close the list on two further, distinguishable "
+            "failures: one of interpretation, the other of the conclusions drawn from what was "
+            "heard."]),
+    ],
+    terms=[
+        ("asussūsanā",
+         "&ldquo;not wanting to listen&rdquo; &mdash; the discourse's own title term, negated, "
+         "opening this discourse's blocking list."),
+        ("na ohitasoto",
+         "&ldquo;not actively listening&rdquo; &mdash; the second item, distinct from the "
+         "first: a failure of execution rather than of desire."),
+        ("anaññāya atthaṁ dhāreti",
+         "&ldquo;learns the incorrect meaning&rdquo; &mdash; the third item, a failure of "
+         "interpretation."),
+        ("dhammānudhammaṁ paṭipajjati",
+         "&ldquo;accepts views that conform with the teaching&rdquo; &mdash; the reversal's "
+         "closing item, the direct opposite of accepting contradicting views."),
+        ("niyāmaṁ okkamituṁ",
+         "&ldquo;to step into the sure path&rdquo; &mdash; the phrase shared word for word "
+         "across all three discourses of this triplet."),
+    ],
+    text_intro=(
+        "The discourse in full: four failures of genuine listening blocking the sure path, "
+        "and their reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that block the sure path"),
+        ("p", "&sect;1", "an6.88:1.1-1.4"),
+        ("h3", "Six things that enable it"),
+        ("p", "&sect;2", "an6.88:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does AN 6.88's list differ in character from AN 6.86's and AN 6.87's, "
+              "according to the guide?",
+         "opts": [
+             "It is identical in character to both",
+             "It turns the shared formula's own key phrase back on itself, naming failures of "
+             "the listening act described in the formula, rather than an abstract obstruction "
+             "or a severe transgression",
+             "It concerns only physical hearing ability",
+             "It has no relationship to the shared formula at all"],
+         "correct": 1,
+         "expl": "A self-referential close to the triplet, unlike its two companions."},
+        {"q": "How does the guide distinguish this discourse's first two items?",
+         "opts": [
+             "They are identical and redundant",
+             "Not wanting to listen (desire) is distinct from not actively listening or trying "
+             "to understand (execution) — one could in principle want to listen while still "
+             "failing at the second step",
+             "Only one of the two items is meaningful",
+             "They concern entirely unrelated topics"],
+         "correct": 1,
+         "expl": "Desire and execution treated as separable failures."},
+        {"q": "What do this discourse's final two items concern?",
+         "opts": [
+             "Physical conduct and ethics",
+             "Interpretation (learning the wrong meaning) and the conclusions drawn from what "
+             "was heard (accepting contradicting views)",
+             "Meditation technique specifically",
+             "Rebirth destination"],
+         "correct": 1,
+         "expl": "Two distinguishable failures beyond the initial failures of desire and "
+                 "attention."},
+        {"q": "What phrase is shared word for word across all three discourses of this "
+              "triplet?",
+         "opts": [
+             "The entire six-item list in each discourse",
+             "'Unable to step into the sure path with regards to skillful qualities even when "
+             "listening to the true teaching'",
+             "Only the discourse's title",
+             "Nothing is genuinely shared between the three"],
+         "correct": 1,
+         "expl": "The triplet's identical opening and closing framing, filled three different "
+                 "ways."},
+        {"q": "Is a setting stated for AN 6.88?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare formula, matching this triplet's other two discourses."},
+        {"q": "What does <em>na ohitasoto</em> mean?",
+         "opts": ["Not wanting to listen", "Not actively listening or trying to understand", "Learning the wrong meaning", "Accepting contradicting views"],
+         "correct": 1,
+         "expl": "The second item, a failure of execution distinct from the first item's "
+                 "failure of desire."},
+        {"q": "What does this discourse's position, closing the triplet, suggest about the "
+              "triplet's overall arrangement, according to the guide?",
+         "opts": [
+             "No particular arrangement is suggested",
+             "The triplet moves from an abstract technical obstruction, to severe past deeds, "
+             "to a failure of the listening act itself — three distinct registers under one "
+             "shared frame",
+             "All three discourses are arranged in a strictly chronological narrative",
+             "The three discourses are unrelated in every way"],
+         "correct": 1,
+         "expl": "Three distinct registers of obstacle, sharing one formula."},
+    ],
+    marginalia=[
+        ("Four failures of listening", [
+            "not wanting to listen",
+            "&middot; not actively listening",
+            "&middot; wrong meaning &middot; wrong views",
+        ]),
+        ("Desire vs. execution", [
+            "wanting to listen,",
+            "and actually listening —",
+            "two separable failures",
+        ]),
+        ("The triplet's third register", [
+            "AN 6.86: obstruction —",
+            "AN 6.87: heinous deeds —",
+            "AN 6.88: listening itself",
+        ]),
+        ("Cross-references", [
+            "AN 6.86/6.87 &middot; earlier, this triplet's first two discourses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.88/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.87.html">AN 6.87 &middot; A Murderer</a> &mdash; previous, this '
+        "triplet's second discourse.",
+        '<a href="an-6.89.html">AN 6.89 &middot; Not Giving Up</a> &mdash; next, opening a '
+        "further set on the requirements for stream-entry.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.89 — Appahāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    89, "Appahāya", "Not Giving Up",
+    vagga=VAGGA_9,
+    meta_title="AN 6.89 — Not Giving Up | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Appahāyasutta, naming "
+        "the three fetters plus rebirth-bound greed, hate, and delusion as what must be given "
+        "up to become accomplished in view. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, opening a set of "
+                 "discourses sharing one list restated across several framings"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The three fetters removed at stream-entry (sakkāyadiṭṭhi, "
+                              "vicikicchā, sīlabbataparāmāsa) recur throughout the Chinese "
+                              "Āgamas and Abhidharma literature; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; names the three fetters "
+                       "removed at stream-entry, technical but foundational terms"),
+    ],
+    why=(
+        "AN 6.89 opens a set of three discourses &mdash; this one, AN 6.90, and AN 6.91 "
+        "&mdash; all naming the identical six things, reframed each time: what must be given "
+        "up to become &ldquo;accomplished in view&rdquo; (this discourse), what one already "
+        "accomplished in view has given up (AN 6.90), and what one accomplished in view can "
+        "no longer give rise to (AN 6.91). Unlike the AN 6.86&ndash;88 triplet's shared "
+        "formula around different content, this trio shares identical content under three "
+        "different verbs."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without giving up substantialist view, doubt, misapprehension of precepts and "
+            "observances, and forms of greed, hatred, and delusion that lead to rebirth in "
+            "places of loss, one cannot become accomplished in view; giving up all six makes "
+            "that accomplishment possible."]),
+        ("The three fetters, plus a fourth compressed item", [
+            "Sakkāyadiṭṭhi (substantialist view), vicikicchā (doubt), and "
+            "sīlabbataparāmāsa (misapprehension of precepts and observances) are the standard "
+            "three fetters removed at stream-entry; the discourse's sixth item compresses "
+            "&ldquo;forms of greed, hate, and delusion that lead to rebirth in places of "
+            "loss&rdquo; into what functions as one further blocking category."]),
+        ("One list, three framings across this chapter", [
+            "Checked term by term, AN 6.89, 6.90, and 6.91 name the identical six things "
+            "&mdash; not a case of shared title masking different content, as with this "
+            "collection's several 'same title' traps, but the reverse: identical content "
+            "restated under giving-up (prescriptive), already-given-up (descriptive of the "
+            "accomplished), and cannot-give-rise-to (a stronger claim of impossibility, taken "
+            "up at AN 6.91)."]),
+        ("Accomplished in view, this discourse's own term for the target", [
+            "Diṭṭhisampanna, &ldquo;accomplished in view,&rdquo; is this set's standard term "
+            "for the stream-enterer &mdash; someone who has directly seen the four noble "
+            "truths and thereby removed the three fetters, though not yet the higher "
+            "fetters removed only at the further stages of awakening."]),
+    ],
+    terms=[
+        ("sakkāyadiṭṭhi",
+         "&ldquo;substantialist view&rdquo; &mdash; the first of the three fetters removed at "
+         "stream-entry, belief in a fixed, substantial self."),
+        ("vicikicchā, sīlabbataparāmāsa",
+         "&ldquo;doubt, misapprehension of precepts and observances&rdquo; &mdash; the second "
+         "and third fetters, completing the standard set of three."),
+        ("apāyagamanīyaṁ rāgaṁ dosaṁ mohaṁ",
+         "&ldquo;forms of greed, hate, and delusion that lead to rebirth in places of "
+         "loss&rdquo; &mdash; the sixth, compressed item, distinct from the three fetters "
+         "proper."),
+        ("diṭṭhisampanna",
+         "&ldquo;accomplished in view&rdquo; &mdash; this set's standard term for the "
+         "stream-enterer, one who has directly seen the four noble truths."),
+        ("diṭṭhisampadā",
+         "&ldquo;accomplishment in view&rdquo; &mdash; the attainment this discourse's list is "
+         "said to enable, once all six items are given up."),
+    ],
+    text_intro=(
+        "The discourse in full: the three fetters plus rebirth-bound greed, hate, and "
+        "delusion, given up to become accomplished in view. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things to give up"),
+        ("p", "&sect;1", "an6.89:1.1-1.4"),
+        ("h3", "The result of giving them up"),
+        ("p", "&sect;2", "an6.89:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What three items open this discourse's list, forming the standard three "
+              "fetters?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Substantialist view (sakkāyadiṭṭhi), doubt (vicikicchā), and misapprehension of "
+             "precepts and observances (sīlabbataparāmāsa)",
+             "Killing, stealing, and lying",
+             "The five hindrances' first three"],
+         "correct": 1,
+         "expl": "The three fetters removed at stream-entry, a standard technical set."},
+        {"q": "How does AN 6.89's relationship to AN 6.90 and 6.91 differ from the AN 6.86–88 "
+              "triplet's pattern, according to the guide?",
+         "opts": [
+             "It follows the identical pattern — shared formula, different content",
+             "The reverse: identical content across all three discourses, restated under three "
+             "different framings (giving up, already given up, cannot give rise to)",
+             "There is no relationship between AN 6.89 and 6.90/6.91",
+             "AN 6.89 shares nothing at all with AN 6.90 or 6.91"],
+         "correct": 1,
+         "expl": "Same six items, three different verbs and framings — the inverse of the "
+                 "earlier triplet's pattern."},
+        {"q": "What does <em>diṭṭhisampanna</em> mean, and who does it refer to?",
+         "opts": [
+             "'Free of all views' — referring to an arahant specifically",
+             "'Accomplished in view' — this set's standard term for the stream-enterer, one "
+             "who has directly seen the four noble truths",
+             "'Confused in view' — someone who has not yet begun practice",
+             "A term with no specific technical meaning"],
+         "correct": 1,
+         "expl": "The standard term for stream-entry used throughout this set of discourses."},
+        {"q": "What does this discourse's sixth item compress into one category?",
+         "opts": [
+             "Three further fetters beyond the standard three",
+             "Forms of greed, hate, and delusion that lead to rebirth in places of loss",
+             "The five hindrances",
+             "Killing, stealing, and sexual misconduct"],
+         "correct": 1,
+         "expl": "A fourth blocking category beyond the three fetters proper."},
+        {"q": "Is a setting stated for AN 6.89?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, opening this set of three discourses."},
+        {"q": "What does <em>sīlabbataparāmāsa</em> mean?",
+         "opts": ["Doubt", "Substantialist view", "Misapprehension of precepts and observances", "Ill will"],
+         "correct": 2,
+         "expl": "The third of the three fetters, completing the standard set."},
+        {"q": "What has NOT yet been removed at the stage this discourse's list describes, "
+              "according to the guide?",
+         "opts": [
+             "Nothing further remains to be removed at any stage",
+             "The higher fetters removed only at the further stages of awakening beyond "
+             "stream-entry",
+             "The three fetters themselves",
+             "All forms of greed and hatred whatsoever"],
+         "correct": 1,
+         "expl": "Stream-entry removes the three fetters, not every remaining defilement."},
+    ],
+    marginalia=[
+        ("Three fetters, one more", [
+            "substantialist view",
+            "&middot; doubt &middot; misapprehension —",
+            "plus rebirth-bound greed, hate, delusion",
+        ]),
+        ("One list, three framings", [
+            "AN 6.89: give up —",
+            "AN 6.90: already given up —",
+            "AN 6.91: cannot give rise to",
+        ]),
+        ("Accomplished in view", [
+            "diṭṭhisampanna —",
+            "the stream-enterer,",
+            "not yet the higher fetters",
+        ]),
+        ("Cross-references", [
+            "AN 6.90 &middot; next, the same list restated as already given up",
+            "AN 6.86–88 &middot; earlier, the inverse pattern: shared formula, different lists",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.89/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.88.html">AN 6.88 &middot; Wanting to Listen</a> &mdash; previous, '
+        "closing the listening triplet.",
+        '<a href="an-6.90.html">AN 6.90 &middot; Given Up</a> &mdash; next, the same six '
+        "things restated as already given up.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.90 — Pahīnasutta
+# --------------------------------------------------------------------------- #
+page(
+    90, "Pahīna", "Given Up",
+    vagga=VAGGA_9,
+    meta_title="AN 6.90 — Given Up | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pahīnasutta, "
+        "restating AN 6.89's identical six things as already given up by one accomplished in "
+        "view, with no separate blocking half. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, stated descriptively rather than paired with a "
+                 "blocking half — the same list as AN 6.89, restated as accomplished fact"),
+        ("Length", "under 30 seconds to read"),
+        ("Northern parallel", "The description of a stream-enterer's accomplished fetter-"
+                              "removal recurs widely across the Chinese Āgamas' treatment of "
+                              "the four stages; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the collection's briefest "
+                       "discourse so far, a single descriptive sentence"),
+    ],
+    why=(
+        "AN 6.90 is the shortest discourse in this collection so far: a single sentence "
+        "stating that &ldquo;an individual accomplished in view has given up these six "
+        "things,&rdquo; followed by the identical list already met at AN 6.89, with no "
+        "separate negative half, no reversal, and no further elaboration."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An individual accomplished in view has given up substantialist view, doubt, "
+            "misapprehension of precepts and observances, and forms of greed, hatred, and "
+            "delusion that lead to rebirth in places of loss."]),
+        ("A descriptive fact, not a prescription", [
+            "AN 6.89 stated its list as a requirement (&ldquo;without giving up... you "
+            "can't&rdquo;); this discourse simply describes an accomplished fact about anyone "
+            "already accomplished in view, with none of AN 6.89's conditional framing. The "
+            "shift from prescription to description is the discourse's entire content."]),
+        ("The collection's shortest discourse to date", [
+            "At a single sentence beyond its title and setting, AN 6.90 is markedly briefer "
+            "than even this chapter's other compact formulaic discourses, closer in form to a "
+            "definitional restatement than to a teaching addressed to an audience needing "
+            "persuasion or instruction."]),
+        ("Why restate rather than merely cross-reference", [
+            "That this near-identical content receives its own discourse, rather than a bare "
+            "cross-reference to AN 6.89, suggests the collection's compilers valued having the "
+            "descriptive claim (what is true of the accomplished) stated independently from "
+            "the prescriptive claim (what must be done to become accomplished), even where the "
+            "underlying six items are unchanged."]),
+    ],
+    terms=[
+        ("pahīna",
+         "&ldquo;given up&rdquo; &mdash; the discourse's own title and its central claim, past "
+         "tense rather than AN 6.89's conditional framing."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāsa",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts and observances&rdquo; "
+         "&mdash; the three fetters, identical to AN 6.89's list."),
+        ("apāyagamanīyaṁ rāgaṁ dosaṁ mohaṁ",
+         "&ldquo;forms of greed, hate, and delusion that lead to rebirth in places of "
+         "loss&rdquo; &mdash; the sixth item, likewise identical to AN 6.89's."),
+        ("diṭṭhisampanna puggalo",
+         "&ldquo;an individual accomplished in view&rdquo; &mdash; the discourse's subject, "
+         "described rather than instructed."),
+        ("ime cha dhammā pahīnā",
+         "&ldquo;these six things have been given up&rdquo; &mdash; the discourse's entire "
+         "content in one closing clause."),
+    ],
+    text_intro=(
+        "The discourse in full: a single descriptive sentence naming the three fetters plus "
+        "rebirth-bound greed, hate, and delusion as already given up. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things already given up"),
+        ("p", "&sect;1", "an6.90:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does AN 6.90's list compare to AN 6.89's, checked term by term?",
+         "opts": [
+             "Entirely different content",
+             "Identical — the same three fetters plus rebirth-bound greed, hate, and delusion",
+             "Only half the items overlap",
+             "The two lists share only their opening item"],
+         "correct": 1,
+         "expl": "The same six items, restated under a different framing."},
+        {"q": "How does this discourse's framing differ from AN 6.89's?",
+         "opts": [
+             "No difference — both are worded identically throughout",
+             "AN 6.89 states a conditional requirement ('without giving up... you can't'); "
+             "this discourse simply describes an accomplished fact, with no conditional "
+             "framing",
+             "This discourse adds a reversal half that AN 6.89 lacks",
+             "This discourse states the list as something yet to be achieved"],
+         "correct": 1,
+         "expl": "A shift from prescription to description, with the underlying content "
+                 "unchanged."},
+        {"q": "How does the guide describe this discourse's length compared to the rest of "
+              "this collection?",
+         "opts": [
+             "Among the longest discourses in the collection",
+             "The collection's shortest discourse to date — a single sentence beyond title and "
+             "setting",
+             "Exactly average in length",
+             "Longer than AN 6.69 but shorter than AN 6.55"],
+         "correct": 1,
+         "expl": "Markedly briefer than even this chapter's other compact formulaic "
+                 "discourses."},
+        {"q": "According to the guide, why might this content receive its own discourse rather "
+              "than merely cross-referencing AN 6.89?",
+         "opts": [
+             "It was likely included by accident",
+             "The collection's compilers may have valued stating the descriptive claim "
+             "(what's true of the accomplished) independently from the prescriptive claim "
+             "(what must be done), even where the six items are unchanged",
+             "There is no meaningful reason for its inclusion",
+             "AN 6.90 was composed before AN 6.89 and is therefore the original version"],
+         "correct": 1,
+         "expl": "A deliberate compositional choice, not redundancy."},
+        {"q": "Is a setting stated for AN 6.90?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, as brief as the discourse's single-sentence content."},
+        {"q": "Does AN 6.90 include a reversal or negative half, unlike most discourses in "
+              "this chapter?",
+         "opts": [
+             "Yes, a full reversal is given",
+             "No — a single descriptive statement only, with no paired negative list",
+             "Yes, but only a partial reversal",
+             "The discourse consists entirely of a reversal with no positive statement"],
+         "correct": 1,
+         "expl": "One of this chapter's few genuinely one-sided discourses."},
+    ],
+    marginalia=[
+        ("The same six items", [
+            "substantialist view",
+            "&middot; doubt &middot; misapprehension",
+            "&middot; rebirth-bound greed, hate, delusion",
+        ]),
+        ("Prescription to description", [
+            "AN 6.89: must give up —",
+            "AN 6.90: has already",
+            "given up, stated as fact",
+        ]),
+        ("The collection's shortest yet", [
+            "one sentence beyond",
+            "title and setting —",
+            "no reversal, no elaboration",
+        ]),
+        ("Cross-references", [
+            "AN 6.89 &middot; previous, the same list under a conditional framing",
+            "AN 6.91 &middot; next, the same list again, as a stronger claim of impossibility",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.90/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.89.html">AN 6.89 &middot; Not Giving Up</a> &mdash; previous, the same '
+        "list under a conditional framing.",
+        '<a href="an-6.91.html">AN 6.91 &middot; Can&rsquo;t Give Rise</a> &mdash; next, the '
+        "same list again, as a stronger claim of impossibility.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.91 — Abhabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    91, "Abhabba", "Can&rsquo;t Give Rise",
+    vagga=VAGGA_9,
+    meta_title="AN 6.91 — Can't Give Rise | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Abhabbasutta, "
+        "restating AN 6.89/6.90's identical six things a third time, now as things an "
+        "accomplished individual can no longer give rise to. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, the third and final restatement of AN 6.89's content "
+                 "in this three-discourse set"),
+        ("Length", "under 30 seconds to read"),
+        ("Northern parallel", "The claim that a stream-enterer cannot regress into wrong view "
+                              "recurs widely across the Chinese Āgamas' treatment of "
+                              "irreversibility at the noble stages; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, closing a "
+                       "three-discourse set on identical content restated three ways"),
+    ],
+    why=(
+        "AN 6.91 completes the three-discourse arc begun at AN 6.89: the identical six "
+        "things &mdash; substantialist view, doubt, misapprehension of precepts and "
+        "observances, and rebirth-bound greed, hate, and delusion &mdash; are now stated in "
+        "their strongest form yet: not merely given up, but things an individual accomplished "
+        "in view is incapable of giving rise to at all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An individual accomplished in view cannot give rise to substantialist view, "
+            "doubt, misapprehension of precepts and observances, or forms of greed, hatred, "
+            "and delusion that lead to rebirth in places of loss."]),
+        ("A third framing, stronger than the first two", [
+            "AN 6.89 framed the six items as a requirement to be met; AN 6.90 framed them as "
+            "an accomplished fact in the past tense; this discourse frames them as a standing "
+            "incapacity (abhabba, &ldquo;incapable&rdquo;) &mdash; not simply that the "
+            "fetters have been given up once, but that they cannot arise again at all. The "
+            "three discourses trace an escalation from prescription, to description, to "
+            "guaranteed irreversibility."]),
+        ("Irreversibility as this discourse's real claim", [
+            "The word abhabba does more work than a simple negative: it names an incapacity, "
+            "not merely an absence. Where AN 6.90 could in principle describe a temporary "
+            "state, this discourse states outright that the three fetters and their "
+            "associated forms of greed, hate, and delusion cannot recur for one accomplished "
+            "in view &mdash; the technical basis for stream-entry's traditional description as "
+            "irreversible."]),
+        ("Closing a set before the chapter's final tetrad", [
+            "AN 6.89&ndash;91 form a complete, self-contained arc on one six-item list; the "
+            "chapter's remaining four discourses, AN 6.92&ndash;95, turn to an entirely "
+            "different and unrelated set of four &ldquo;impossible&rdquo; lists, checked "
+            "individually in the pages that follow."]),
+    ],
+    terms=[
+        ("abhabba",
+         "&ldquo;incapable,&rdquo; unable &mdash; the discourse's own title term, naming a "
+         "standing incapacity rather than a simple negation."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāsa",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts and observances&rdquo; "
+         "&mdash; identical to AN 6.89 and 6.90's lists."),
+        ("apāyagamanīyaṁ rāgaṁ dosaṁ mohaṁ",
+         "&ldquo;forms of greed, hate, and delusion that lead to rebirth in places of "
+         "loss&rdquo; &mdash; likewise identical to the two discourses before it."),
+        ("uppādetuṁ",
+         "&ldquo;to give rise to&rdquo; &mdash; the verb this discourse denies of these six "
+         "things for one accomplished in view, stronger than AN 6.90's simple past-tense "
+         "&ldquo;given up.&rdquo;"),
+        ("diṭṭhisampanna puggalo",
+         "&ldquo;an individual accomplished in view&rdquo; &mdash; the discourse's subject, "
+         "identical across all three discourses of this set."),
+    ],
+    text_intro=(
+        "The discourse in full: the three fetters plus rebirth-bound greed, hate, and "
+        "delusion, which an accomplished individual can no longer give rise to. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that can no longer arise"),
+        ("p", "&sect;1", "an6.91:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does AN 6.91's framing of the six-item list differ from AN 6.89's and AN "
+              "6.90's, according to the guide?",
+         "opts": [
+             "No difference — all three are worded identically",
+             "AN 6.89 framed it as a requirement, AN 6.90 as an accomplished past-tense fact, "
+             "and this discourse as a standing incapacity — one cannot give rise to these "
+             "things at all",
+             "This discourse alone adds an entirely new sixth item",
+             "This discourse reverses the meaning of the previous two"],
+         "correct": 1,
+         "expl": "An escalation from prescription, to description, to guaranteed "
+                 "irreversibility."},
+        {"q": "What does the term <em>abhabba</em> name, beyond a simple negation, according to "
+              "the guide?",
+         "opts": [
+             "Nothing beyond ordinary negation",
+             "A standing incapacity — not merely an absence but an inability for something to "
+             "arise at all",
+             "A temporary state easily reversed",
+             "A term unrelated to capability or incapacity"],
+         "correct": 1,
+         "expl": "The technical basis for stream-entry's traditional description as "
+                 "irreversible."},
+        {"q": "What three discourses together form a complete arc on one identical six-item "
+              "list, according to the guide?",
+         "opts": [
+             "AN 6.86, 6.87, and 6.88",
+             "AN 6.89, 6.90, and 6.91",
+             "AN 6.92, 6.93, and 6.94",
+             "AN 6.85 alone, with no companion discourses"],
+         "correct": 1,
+         "expl": "A self-contained three-discourse set, distinct from the earlier "
+                 "shared-formula triplet."},
+        {"q": "What comes after this three-discourse arc, according to the guide?",
+         "opts": [
+             "The chapter ends immediately",
+             "AN 6.92–95, an entirely different and unrelated set of four 'impossible' lists",
+             "A return to the same six-item list restated a fourth time",
+             "AN 6.86's obstruction list, repeated"],
+         "correct": 1,
+         "expl": "A shift to genuinely new content for the chapter's closing tetrad."},
+        {"q": "Is a setting stated for AN 6.91?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, as brief as AN 6.90's."},
+        {"q": "What verb does this discourse deny of the six items, stronger than AN 6.90's "
+              "phrasing?",
+         "opts": [
+             "'To think about' (cinteti)",
+             "'To give rise to' (uppādetuṁ)",
+             "'To hear' (suṇāti)",
+             "'To remember' (sarati)"],
+         "correct": 1,
+         "expl": "A claim of incapacity to arise, not merely an accomplished past fact."},
+        {"q": "Does AN 6.91 include a paired reversal or negative half?",
+         "opts": [
+             "Yes, a full reversal is given",
+             "No — like AN 6.90, a single descriptive statement only",
+             "Yes, but only a partial one",
+             "The discourse consists only of a reversal"],
+         "correct": 1,
+         "expl": "Matching AN 6.90's one-sided, purely descriptive form."},
+    ],
+    marginalia=[
+        ("The same six items, again", [
+            "substantialist view",
+            "&middot; doubt &middot; misapprehension",
+            "&middot; rebirth-bound greed, hate, delusion",
+        ]),
+        ("A third, strongest framing", [
+            "AN 6.89: must give up —",
+            "AN 6.90: has given up —",
+            "AN 6.91: cannot arise at all",
+        ]),
+        ("The basis of irreversibility", [
+            "abhabba — incapable,",
+            "not merely absent —",
+            "stream-entry cannot regress",
+        ]),
+        ("Cross-references", [
+            "AN 6.89/6.90 &middot; earlier, the same list under two other framings",
+            "AN 6.92 &middot; next, an unrelated set of four 'impossible' lists begins",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.91/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.90.html">AN 6.90 &middot; Given Up</a> &mdash; previous, the same list '
+        "under its second framing.",
+        '<a href="an-6.92.html">AN 6.92 &middot; Things That Can&rsquo;t Be Done (1st)</a> '
+        "&mdash; next, an unrelated set of four discourses begins.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.92 — Paṭhamaabhabbaṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    92, "Paṭhamaabhabbaṭṭhāna", "Things That Can&rsquo;t Be Done (1st)",
+    vagga=VAGGA_9,
+    meta_title="AN 6.92 — Things That Can't Be Done (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first of four "
+        "'impossible things' discourses, naming disrespect toward the Triple Gem and an "
+        "eighth rebirth as incapacities of the accomplished. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, the first of a tetrad of 'impossible things' "
+                 "discourses each naming a distinct, unrelated set of six"),
+        ("Length", "under 30 seconds to read"),
+        ("Northern parallel", "The claim that a stream-enterer has at most seven more "
+                              "rebirths recurs widely across the Chinese Āgamas' treatment of "
+                              "the noble stages; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, opening a tetrad "
+                       "whose four discourses each require checking against the others for "
+                       "genuinely distinct content"),
+    ],
+    why=(
+        "AN 6.92 opens a set of four discourses &mdash; &lsquo;Things That Can't Be "
+        "Done,&rsquo; numbered first through fourth &mdash; sharing only their title pattern "
+        "and closing formula, each naming an entirely different six-item list of "
+        "impossibilities. This one names disrespect toward the Teacher, the teaching, the "
+        "Saṅgha, and the training; building belief on unreliable grounds; and generating an "
+        "eighth rebirth."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An individual accomplished in view cannot live disrespectful toward the Teacher, "
+            "the teaching, the Saṅgha, or the training; cannot establish belief on unreliable "
+            "grounds; and cannot generate an eighth rebirth."]),
+        ("A tetrad requiring individual verification, not assumed sameness", [
+            "AN 6.92 through 6.95 share the identical title pattern ('Things That Can't Be "
+            "Done') and closing formula ('these are the six things that can't be done'), "
+            "inviting the same caution already earned by this collection's other numbered "
+            "series: each of the four names genuinely distinct content, checked here term by "
+            "term rather than assumed from the shared title."]),
+        ("Four items compressed from a formula met earlier", [
+            "Disrespect toward the Teacher, the teaching, the Saṅgha, and the training echoes "
+            "the four-item core of the 'respect' formula already met four times earlier in "
+            "this collection (AN 6.32/6.33/6.40/6.69) — here stated negatively, as an "
+            "incapacity rather than a virtue to cultivate."]),
+        ("'An eighth rebirth' — the numerical ceiling on stream-entry", [
+            "The stream-enterer's traditional description includes a fixed ceiling of at most "
+            "seven further rebirths before final liberation; this discourse's closing item "
+            "states that ceiling as an incapacity &mdash; not a prediction subject to "
+            "exception, but something the accomplished individual literally cannot generate."]),
+    ],
+    terms=[
+        ("agāravo appatisso",
+         "&ldquo;disrespectful and irreverent&rdquo; &mdash; the discourse's own phrase, "
+         "denied of one accomplished in view toward the Teacher, teaching, Saṅgha, and "
+         "training."),
+        ("aññatra saddhammā",
+         "&ldquo;on unreliable grounds,&rdquo; outside the true teaching &mdash; qualifying "
+         "the second item, belief established elsewhere than on the true teaching."),
+        ("aṭṭhamaṁ bhavaṁ",
+         "&ldquo;an eighth rebirth&rdquo; &mdash; the discourse's closing item, stating the "
+         "stream-enterer's traditional ceiling of at most seven further lives as an "
+         "incapacity."),
+        ("abhabbaṭṭhāna",
+         "&ldquo;a thing that can't be done,&rdquo; an impossible occasion &mdash; this "
+         "tetrad's shared title term, framing each list as a set of genuine impossibilities."),
+        ("satthu, dhamma, saṅgha, sikkhā",
+         "&ldquo;the Teacher, the teaching, the Saṅgha, the training&rdquo; &mdash; the same "
+         "four objects of respect already met in this collection's 'respect' formula, here "
+         "negated as an incapacity."),
+    ],
+    text_intro=(
+        "The discourse in full: disrespect toward the Triple Gem and the training, "
+        "unreliable belief, and an eighth rebirth, named as incapacities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that can't be done"),
+        ("p", "&sect;1", "an6.92:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What do AN 6.92 through 6.95 share, and what caution does the guide draw from "
+              "it?",
+         "opts": [
+             "They share the identical six-item content, so only one needs to be read",
+             "They share only a title pattern and closing formula, each naming genuinely "
+             "distinct content — the same caution earned by this collection's other numbered "
+             "series, checked term by term rather than assumed",
+             "They share nothing at all, not even a title pattern",
+             "They are four translations of the exact same discourse"],
+         "correct": 1,
+         "expl": "A tetrad requiring individual verification, following this collection's "
+                 "established pattern."},
+        {"q": "What formula from earlier in this collection does this discourse's first four "
+              "items echo?",
+         "opts": [
+             "The five hindrances",
+             "The 'respect' formula already met four times earlier (AN 6.32/6.33/6.40/6.69), "
+             "here stated negatively as an incapacity",
+             "The three fetters of AN 6.89",
+             "The five heinous deeds of AN 6.87"],
+         "correct": 1,
+         "expl": "The same four objects of respect, now denied as a source of disrespect."},
+        {"q": "What does this discourse's closing item, 'an eighth rebirth,' state?",
+         "opts": [
+             "That rebirth continues indefinitely for the accomplished",
+             "The stream-enterer's traditional ceiling of at most seven further rebirths, "
+             "stated as a genuine incapacity rather than a mere prediction",
+             "That the accomplished individual is never reborn at all",
+             "A number unrelated to any traditional teaching"],
+         "correct": 1,
+         "expl": "A fixed ceiling stated as an incapacity, not a probabilistic tendency."},
+        {"q": "What does <em>abhabbaṭṭhāna</em> mean, and what does it establish about this "
+              "tetrad?",
+         "opts": [
+             "'A likely event' — suggesting these are common occurrences",
+             "'A thing that can't be done,' an impossible occasion — framing each of the four "
+             "discourses' lists as genuine impossibilities, not mere rarities",
+             "A term with no bearing on the discourse's meaning",
+             "'A forbidden action' — implying these are rule violations"],
+         "correct": 1,
+         "expl": "This tetrad's shared title term, naming genuine impossibility rather than "
+                 "rarity."},
+        {"q": "Is a setting stated for AN 6.92?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, opening this tetrad."},
+        {"q": "What does <em>aññatra saddhammā</em> mean?",
+         "opts": [
+             "Within the true teaching",
+             "On unreliable grounds, outside the true teaching",
+             "Free from all belief",
+             "A synonym for right view"],
+         "correct": 1,
+         "expl": "Qualifying the second item — belief established elsewhere than on the true "
+                 "teaching."},
+        {"q": "Does AN 6.92 include a paired reversal or negative half?",
+         "opts": [
+             "Yes, a full reversal is given",
+             "No — a single list of impossibilities, stated once",
+             "Yes, but only a partial one",
+             "The discourse consists only of a reversal"],
+         "correct": 1,
+         "expl": "Matching the tetrad's overall one-sided form."},
+    ],
+    marginalia=[
+        ("Six impossibilities", [
+            "disrespect toward Teacher,",
+            "teaching, Saṅgha, training",
+            "&middot; unreliable belief &middot; eighth rebirth",
+        ]),
+        ("The 'respect' formula, negated", [
+            "same four objects as",
+            "AN 6.32/33/40/69 —",
+            "here, an incapacity",
+        ]),
+        ("A fixed numerical ceiling", [
+            "at most seven",
+            "further rebirths —",
+            "stated as impossibility, not chance",
+        ]),
+        ("Cross-references", [
+            "AN 6.32/33/40/69 &middot; earlier, the positive 'respect' formula",
+            "AN 6.93 &middot; next, the second of this tetrad",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.92/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.91.html">AN 6.91 &middot; Can&rsquo;t Give Rise</a> &mdash; previous, '
+        "closing the three-discourse fetters set.",
+        '<a href="an-6.93.html">AN 6.93 &middot; Things That Can&rsquo;t Be Done (2nd)</a> '
+        "&mdash; next, a different six-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.93 — Dutiyaabhabbaṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    93, "Dutiyaabhabbaṭṭhāna", "Things That Can&rsquo;t Be Done (2nd)",
+    vagga=VAGGA_9,
+    meta_title="AN 6.93 — Things That Can't Be Done (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second of four "
+        "'impossible things' discourses, naming six metaphysical and ritual wrong views the "
+        "accomplished cannot fall back on. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, the second of this tetrad, naming metaphysical and "
+                 "ritual errors rather than AN 6.92's disrespect and rebirth-count"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The rejection of permanence-view, self-view, and reliance on "
+                              "rites and superstitions recurs widely across the Chinese "
+                              "Āgamas' polemic against wrong view; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; denser than AN 6.92, "
+                       "naming six distinct metaphysical and ritual errors in sequence"),
+    ],
+    why=(
+        "AN 6.93, checked against AN 6.92, shares only the tetrad's title pattern and closing "
+        "formula &mdash; its actual six items are entirely different: taking conditions to be "
+        "permanent, taking conditions to be happiness, taking anything to be the self, doing "
+        "deeds with a fixed result in the next life, falling back on purification through "
+        "rites, and seeking donees outside the Buddhist community."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An individual accomplished in view cannot take conditions to be permanent or "
+            "happiness, cannot take anything to be the self, cannot do deeds with a fixed "
+            "result in the next life, cannot fall back on ritual purification, and cannot seek "
+            "worthy recipients of donation outside the Buddhist community."]),
+        ("Two views on conditioned reality, one on the self", [
+            "The list's first three items form a recognizable trio: mistaking conditioned "
+            "phenomena (saṅkhāra) for permanent, mistaking them for a source of true "
+            "happiness, and mistaking anything at all as a fixed self &mdash; each a distinct "
+            "way to misapprehend one of the three characteristics (impermanence, suffering, "
+            "non-self) this literature treats as fundamental."]),
+        ("A specific rejection of ritual purification", [
+            "&ldquo;Falling back on purification through boisterous, superstitious "
+            "rites&rdquo; (kotūhalamaṅgala) names a specific practice of seeking purification "
+            "through auspicious omens and ceremonies &mdash; the accomplished individual's "
+            "incapacity here is not a rejection of ritual as such but of relying on it as a "
+            "substitute for the path actually walked."]),
+        ("A closing item on where merit is sought", [
+            "The list's sixth item &mdash; being unable to seek those worthy of religious "
+            "donation outside the Buddhist community &mdash; is the only item in this tetrad "
+            "concerning external, social conduct rather than an internal view or state, "
+            "closing a otherwise inward-facing list on a practical, communal note."]),
+    ],
+    terms=[
+        ("saṅkhāre niccato",
+         "&ldquo;conditions to be permanent&rdquo; &mdash; the first item, mistaking "
+         "conditioned phenomena for permanent, contrary to this literature's teaching on "
+         "impermanence."),
+        ("saṅkhāre sukhato",
+         "&ldquo;conditions to be happiness&rdquo; &mdash; the second item, mistaking "
+         "conditioned phenomena as a genuine source of happiness."),
+        ("dhammaṁ attato",
+         "&ldquo;anything to be the self&rdquo; &mdash; the third item, the specific denial of "
+         "self-view underlying sakkāyadiṭṭhi, already met at AN 6.89."),
+        ("kotūhalamaṅgala",
+         "&ldquo;boisterous, superstitious rites&rdquo; &mdash; the fifth item, naming "
+         "reliance on auspicious ceremony as a substitute for the path."),
+        ("ito bahiddhā dakkhiṇeyyaṁ gavesati",
+         "&ldquo;seek outside of the Buddhist community for those worthy of religious "
+         "donations&rdquo; &mdash; the sixth and closing item, the tetrad's one item "
+         "concerning external, communal conduct."),
+    ],
+    text_intro=(
+        "The discourse in full: six metaphysical and ritual errors an accomplished individual "
+        "cannot fall back on. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that can't be done"),
+        ("p", "&sect;1", "an6.93:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does AN 6.93's list compare to AN 6.92's, checked term by term?",
+         "opts": [
+             "Identical content, differently worded",
+             "Entirely different — metaphysical and ritual errors here, versus disrespect and "
+             "rebirth-count in AN 6.92, sharing only the tetrad's title pattern and closing "
+             "formula",
+             "Half the items overlap between the two",
+             "AN 6.93 has no six-item list at all"],
+         "correct": 1,
+         "expl": "A tetrad where each discourse's actual content must be checked individually."},
+        {"q": "What three characteristics does the guide connect to this discourse's first "
+              "three items?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Impermanence, suffering, and non-self — each item names a way to misapprehend "
+             "one of these three",
+             "The three fetters of AN 6.89",
+             "The three obstructions of AN 6.86"],
+         "correct": 1,
+         "expl": "Permanence-view, happiness-view, and self-view, each opposing one of this "
+                 "literature's three fundamental characteristics."},
+        {"q": "What does 'falling back on purification through boisterous, superstitious "
+              "rites' target, according to the guide?",
+         "opts": [
+             "All forms of ceremony without exception",
+             "Not ritual as such, but relying on it as a substitute for the path actually "
+             "walked",
+             "Only rites performed by laypeople",
+             "A practice unrelated to purification"],
+         "correct": 1,
+         "expl": "A specific incapacity: substituting ceremony for practice."},
+        {"q": "What makes this discourse's sixth item distinct from the other five, according "
+              "to the guide?",
+         "opts": [
+             "It is identical in kind to the other five",
+             "It concerns external, social conduct — where merit is sought — rather than an "
+             "internal view or state",
+             "It is the only item that has no clear meaning",
+             "It repeats the first item exactly"],
+         "correct": 1,
+         "expl": "A practical, communal note closing an otherwise inward-facing list."},
+        {"q": "Is a setting stated for AN 6.93?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching this tetrad's other discourses."},
+        {"q": "What does <em>dhammaṁ attato</em> mean, and where else has a related concept "
+              "appeared in this collection?",
+         "opts": [
+             "'Nothing is the self' — appearing nowhere else",
+             "'Anything to be the self' — the specific denial underlying sakkāyadiṭṭhi, "
+             "already met at AN 6.89",
+             "A term unrelated to self-view",
+             "'The self is permanent' — contradicting this discourse's own teaching"],
+         "correct": 1,
+         "expl": "A connection to the three fetters discussed three discourses earlier."},
+        {"q": "Does AN 6.93 include a paired reversal or negative half?",
+         "opts": [
+             "Yes, a full reversal is given",
+             "No — a single list of impossibilities, stated once, matching this tetrad's form",
+             "Yes, but only for the first three items",
+             "The discourse consists only of a reversal"],
+         "correct": 1,
+         "expl": "Matching AN 6.92's one-sided form."},
+    ],
+    marginalia=[
+        ("Six metaphysical errors", [
+            "conditions as permanent",
+            "&middot; as happiness &middot; self-view",
+            "&middot; fixed karma &middot; rites &middot; outside donees",
+        ]),
+        ("Three characteristics, denied", [
+            "impermanence, suffering,",
+            "non-self — each item",
+            "names one misapprehension",
+        ]),
+        ("Ritual as substitute, rejected", [
+            "not ceremony itself —",
+            "relying on it in place",
+            "of the path actually walked",
+        ]),
+        ("Cross-references", [
+            "AN 6.89 &middot; earlier, the self-view fetter this discourse's third item echoes",
+            "AN 6.92 &middot; previous, the tetrad's first, unrelated list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.93/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.92.html">AN 6.92 &middot; Things That Can&rsquo;t Be Done (1st)</a> '
+        "&mdash; previous, this tetrad's first, unrelated list.",
+        '<a href="an-6.94.html">AN 6.94 &middot; Things That Can&rsquo;t Be Done (3rd)</a> '
+        "&mdash; next, the five heinous deeds under a new framing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.94 — Tatiyaabhabbaṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    94, "Tatiyaabhabbaṭṭhāna", "Things That Can&rsquo;t Be Done (3rd)",
+    vagga=VAGGA_9,
+    meta_title="AN 6.94 — Things That Can't Be Done (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the third of four "
+        "'impossible things' discourses, restating AN 6.87's five heinous deeds under a new "
+        "framing plus a sixth item on changing teachers. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, the third of this tetrad, substantially overlapping "
+                 "AN 6.87's content from earlier in this chapter"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The five heinous deeds as an irreversible barrier to stream-"
+                              "entry recur throughout the Chinese Āgamas and Vinaya literature; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; names the same severe fixed "
+                       "list as AN 6.87, worth checking against that discourse rather than "
+                       "assuming an unrelated new list"),
+    ],
+    why=(
+        "AN 6.94 breaks this tetrad's pattern of unrelated content: checked term by term "
+        "against AN 6.87 earlier in this same chapter, its five heinous deeds are identical, "
+        "though now framed as impossibilities for one accomplished in view rather than as "
+        "obstacles to receiving the teaching, and closing on a different sixth item: "
+        "dedicating oneself to another teacher."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An individual accomplished in view cannot murder their mother, father, or an "
+            "arahant; cannot maliciously shed a Buddha's blood; cannot cause a schism in the "
+            "Saṅgha; and cannot dedicate themselves to another teacher."]),
+        ("The same five heinous deeds as AN 6.87, differently framed", [
+            "Checked against AN 6.87's list &mdash; matricide, patricide, killing an arahant, "
+            "wounding a Buddha, and causing schism &mdash; this discourse's first five "
+            "substantive items are identical in content. Where AN 6.87 framed them as things "
+            "blocking someone from stepping onto the sure path while listening to the "
+            "teaching, this discourse frames them as things the already-accomplished simply "
+            "cannot do."]),
+        ("A new sixth item, not AN 6.87's intellectual triad", [
+            "AN 6.87 closed its list with three qualities of intellectual dullness. This "
+            "discourse instead closes with a single item unique to this framing: an "
+            "individual accomplished in view cannot dedicate themselves to another teacher "
+            "(aññaṁ satthāraṁ uddiseyya) &mdash; a claim about settled conviction rather than "
+            "capability, distinct in kind from the preceding five severe acts."]),
+        ("Why the same content recurs under a different frame", [
+            "As with AN 6.89&ndash;91's fetters restated three ways, this discourse's partial "
+            "overlap with AN 6.87 is not a copying error but a genre convention this "
+            "collection returns to repeatedly: the same severe content can appear once as an "
+            "obstacle to be avoided and again as a settled incapacity of the already-"
+            "accomplished, each serving a distinct rhetorical purpose."]),
+    ],
+    terms=[
+        ("mātā vā pitā vā arahaṁ vā",
+         "&ldquo;mother, father, or a perfected one&rdquo; &mdash; identical to AN 6.87's "
+         "first compressed item, the first three of the five heinous deeds."),
+        ("Tathāgatassa lohitaṁ uppādeti, saṅghabheda",
+         "&ldquo;sheds a Realized One's blood, causes a schism in the Saṅgha&rdquo; &mdash; "
+         "the fourth and fifth heinous deeds, identical to AN 6.87."),
+        ("aññaṁ satthāraṁ uddiseyya",
+         "&ldquo;dedicate themselves to another teacher&rdquo; &mdash; this discourse's own, "
+         "distinct sixth item, absent from AN 6.87's version of the same five deeds."),
+        ("diṭṭhisampanna puggalo",
+         "&ldquo;an individual accomplished in view&rdquo; &mdash; the same subject as AN "
+         "6.89–91 and this entire tetrad."),
+        ("abhabbaṭṭhāna",
+         "&ldquo;a thing that can't be done&rdquo; &mdash; this tetrad's shared title term, "
+         "here applied to content substantially shared with AN 6.87."),
+    ],
+    text_intro=(
+        "The discourse in full: the five heinous deeds plus dedicating oneself to another "
+        "teacher, named as incapacities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that can't be done"),
+        ("p", "&sect;1", "an6.94:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does AN 6.94's content compare to AN 6.87's, checked term by term?",
+         "opts": [
+             "Entirely different, sharing nothing",
+             "The first five substantive items — the five heinous deeds — are identical, "
+             "though framed differently and closing on a distinct sixth item",
+             "Every item is identical, including the sixth",
+             "Only the discourse's title is shared, with no content overlap"],
+         "correct": 1,
+         "expl": "A genuine overlap in content between two discourses in this same chapter."},
+        {"q": "How does this discourse's framing of the five heinous deeds differ from AN "
+              "6.87's?",
+         "opts": [
+             "No difference in framing at all",
+             "AN 6.87 framed them as obstacles to stepping onto the sure path while listening "
+             "to the teaching; this discourse frames them as things the already-accomplished "
+             "simply cannot do",
+             "This discourse denies the five heinous deeds are heinous at all",
+             "AN 6.87 applied them only to laypeople"],
+         "correct": 1,
+         "expl": "The same severe content serving two distinct rhetorical purposes across the "
+                 "chapter."},
+        {"q": "What sixth item closes this discourse's list, replacing AN 6.87's intellectual "
+              "triad?",
+         "opts": [
+             "Witlessness, dullness, and idiocy, repeated from AN 6.87",
+             "An inability to dedicate oneself to another teacher (aññaṁ satthāraṁ uddiseyya)",
+             "A claim about rebirth destination",
+             "Nothing — the list has only five items here"],
+         "correct": 1,
+         "expl": "A claim about settled conviction, distinct in kind from the five preceding "
+                 "acts."},
+        {"q": "According to the guide, why does this content recur across two discourses in "
+              "this same chapter?",
+         "opts": [
+             "It is a copying error in the source text",
+             "A genre convention this collection uses repeatedly — the same content appearing "
+             "once as an obstacle to avoid and again as a settled incapacity of the "
+             "accomplished, each serving a distinct purpose",
+             "The two discourses should be treated as one and merged",
+             "Only one of the two versions is considered authentic"],
+         "correct": 1,
+         "expl": "A pattern already met with AN 6.89–91's fetters restated three separate "
+                 "ways."},
+        {"q": "Is a setting stated for AN 6.94?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare formula, matching this tetrad's other discourses."},
+        {"q": "What is the standard term for the fixed set of five deeds this discourse "
+              "names?",
+         "opts": ["Nīvaraṇa", "Ānantarika-kamma", "Saṁyojana", "Abhiññā"],
+         "correct": 1,
+         "expl": "The same heinous-deeds set already named at AN 6.87 earlier in this chapter."},
+        {"q": "Does AN 6.94 include a paired reversal or negative half?",
+         "opts": [
+             "Yes, a full reversal is given",
+             "No — a single list of impossibilities, stated once, matching this tetrad's form",
+             "Yes, but only a partial one",
+             "The discourse consists only of a reversal"],
+         "correct": 1,
+         "expl": "Matching this tetrad's consistent one-sided form."},
+    ],
+    marginalia=[
+        ("The five heinous deeds, again", [
+            "matricide &middot; patricide",
+            "&middot; killing an arahant",
+            "&middot; wounding a Buddha &middot; schism",
+        ]),
+        ("A different sixth item", [
+            "not intellectual dullness",
+            "as at AN 6.87 —",
+            "here, loyalty to one teacher",
+        ]),
+        ("Same content, two purposes", [
+            "AN 6.87: an obstacle",
+            "to avoid — AN 6.94:",
+            "a settled incapacity",
+        ]),
+        ("Cross-references", [
+            "AN 6.87 &middot; earlier this chapter, the same five deeds under a different frame",
+            "AN 6.95 &middot; next, closing this tetrad",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.94/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.87.html">AN 6.87 &middot; A Murderer</a> &mdash; earlier this chapter, '
+        "the same five deeds under a different frame.",
+        '<a href="an-6.95.html">AN 6.95 &middot; Things That Can&rsquo;t Be Done (4th)</a> '
+        "&mdash; next, closing this tetrad and the chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.95 — Catutthaabhabbaṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    95, "Catutthaabhabbaṭṭhāna", "Things That Can&rsquo;t Be Done (4th)",
+    vagga=VAGGA_9,
+    meta_title="AN 6.95 — Things That Can't Be Done (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the fourth and final "
+        "'impossible things' discourse, closing this chapter on four rejected theories of the "
+        "cause of pleasure and pain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single list plus an explanatory why-clause, closing this tetrad and the "
+                 "chapter with a distinct doctrinal argument"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The fourfold rejection of self-caused, other-caused, both-"
+                              "caused, and uncaused pleasure and pain recurs across the "
+                              "Chinese Āgamas' engagement with rival causal theories; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the chapter's most "
+                       "philosophically dense discourse, naming four rival causal theories and "
+                       "explaining their rejection"),
+    ],
+    why=(
+        "AN 6.95 closes both this tetrad and the chapter with its most argumentative "
+        "discourse: rather than simply listing six impossibilities, it names four theories of "
+        "what causes pleasure and pain &mdash; self-made, other-made, both-made, or arising "
+        "anomalously, uncaused &mdash; and, uniquely among this tetrad, explains why an "
+        "individual accomplished in view cannot fall back on any of them: because they have "
+        "&ldquo;clearly seen causes and the phenomena that arise from causes.&rdquo;"),
+    guide=[
+        ("The teaching in one sentence", [
+            "An individual accomplished in view cannot fall back on the idea that pleasure and "
+            "pain are self-made, other-made, both-made, or uncaused, because they have clearly "
+            "seen causes and the phenomena arising from causes."]),
+        ("Four positions, not six discrete items", [
+            "Unlike this tetrad's other three discourses, this one's content reads less as six "
+            "separate items than as four rival philosophical positions on causation, each "
+            "rejected in turn &mdash; the discourse's own '&ldquo;six things&rdquo;' framing "
+            "sits over content that, in translated summary, groups more naturally as a "
+            "fourfold argument than a six-item list."]),
+        ("The only discourse in this tetrad with a stated reason", [
+            "AN 6.92, 6.93, and 6.94 each simply assert their impossibilities. This discourse "
+            "alone adds &ldquo;why is that?&rdquo; (kissa hetu) and answers it: because the "
+            "accomplished individual has &ldquo;clearly seen causes and the phenomena that "
+            "arise from causes&rdquo; &mdash; direct insight into dependent origination, "
+            "not merely a rule followed without understanding."]),
+        ("Closing the chapter on causal insight, not conduct", [
+            "Sītivagga opened at AN 6.85 with techniques of mental management and closes here "
+            "on direct insight into causation &mdash; the chapter's arc moves from practical "
+            "mental technique, through obstacles to listening and stream-entry's fetters, to a "
+            "philosophical argument grounding the entire set in seeing causation clearly, "
+            "rather than in ethical conduct alone."]),
+    ],
+    terms=[
+        ("sayaṅkataṁ, parakataṁ, sayaṅkatañca parakatañca",
+         "&ldquo;self-made, other-made, both self-made and other-made&rdquo; &mdash; the "
+         "first three rejected theories of the cause of pleasure and pain."),
+        ("adhiccasamuppannaṁ",
+         "&ldquo;arising anomalously,&rdquo; uncaused &mdash; the fourth rejected theory, "
+         "pleasure and pain arising without any of the preceding three kinds of cause."),
+        ("kissa hetu",
+         "&ldquo;why is that?&rdquo; &mdash; the question this discourse alone poses within "
+         "its tetrad, followed by an explicit answer."),
+        ("hetu ca hetusamuppannā ca dhammā sudiṭṭhā",
+         "&ldquo;causes and the phenomena that arise from causes have been clearly seen&rdquo; "
+         "&mdash; the discourse's own stated reason, direct insight into dependent "
+         "origination."),
+        ("paṭiccasamuppāda",
+         "&ldquo;dependent origination&rdquo; &mdash; the broader doctrine this discourse's "
+         "closing explanation invokes without naming outright."),
+    ],
+    text_intro=(
+        "The discourse in full: four rejected theories of the cause of pleasure and pain, and "
+        "the reason for their rejection. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four theories that can't be fallen back on"),
+        ("p", "&sect;1", "an6.95:1.1-1.8"),
+        ("h3", "Why: causes clearly seen"),
+        ("p", "&sect;2", "an6.95:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What four theories of the cause of pleasure and pain does this discourse "
+              "reject?",
+         "opts": [
+             "Karma, fate, chance, and divine will",
+             "Self-made, other-made, both self-made and other-made, and arising anomalously "
+             "(uncaused)",
+             "The five hindrances",
+             "The three fetters of AN 6.89"],
+         "correct": 1,
+         "expl": "Four rival philosophical positions on causation, each rejected in turn."},
+        {"q": "How does this discourse's content differ structurally from the tetrad's other "
+              "three, according to the guide?",
+         "opts": [
+             "It is structured identically as six discrete items",
+             "It reads less as six separate items than as four rival philosophical positions, "
+             "grouped as a fourfold argument rather than a six-item list",
+             "It has no list or argument at all",
+             "It repeats AN 6.94's five heinous deeds"],
+         "correct": 1,
+         "expl": "A different shape for its content within the same tetrad framing."},
+        {"q": "What makes this discourse unique within its tetrad, according to the guide?",
+         "opts": [
+             "It alone poses 'why is that?' and gives an explicit stated reason for the "
+             "rejection, where the other three simply assert their impossibilities",
+             "It alone has a setting stated",
+             "It alone includes a full reversal",
+             "It alone names no impossibilities"],
+         "correct": 1,
+         "expl": "AN 6.92–94 assert; this discourse explains."},
+        {"q": "What reason does the discourse give for why the accomplished individual cannot "
+              "fall back on any of the four theories?",
+         "opts": [
+             "Because they have taken a formal vow never to consider them",
+             "Because they have clearly seen causes and the phenomena that arise from causes",
+             "Because the theories are logically impossible to state",
+             "No reason is given"],
+         "correct": 1,
+         "expl": "Direct insight into causation, not a rule followed without understanding."},
+        {"q": "How does the guide describe this chapter's overall arc, from AN 6.85 to AN "
+              "6.95?",
+         "opts": [
+             "No discernible arc — eleven unrelated discourses",
+             "From practical mental technique, through obstacles to listening and "
+             "stream-entry's fetters, to a philosophical argument grounding the set in seeing "
+             "causation clearly",
+             "A strictly narrative sequence with named characters throughout",
+             "A repetition of the same single teaching eleven times"],
+         "correct": 1,
+         "expl": "A chapter closing on causal insight rather than conduct alone."},
+        {"q": "Is a setting stated for AN 6.95?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this tetrad's other discourses despite its greater "
+                 "philosophical density."},
+        {"q": "What broader doctrine does this discourse's closing explanation invoke without "
+              "naming outright, according to the guide?",
+         "opts": [
+             "The four noble truths",
+             "Paṭiccasamuppāda, dependent origination",
+             "The five aggregates",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "Direct insight into causes and their arisen phenomena, the substance of "
+                 "dependent origination."},
+    ],
+    marginalia=[
+        ("Four rejected theories", [
+            "self-made &middot; other-made",
+            "&middot; both &middot; uncaused —",
+            "pleasure and pain's cause",
+        ]),
+        ("The only stated reason", [
+            "'why is that?' —",
+            "causes and their fruits",
+            "clearly seen, not merely followed",
+        ]),
+        ("Closing the chapter's arc", [
+            "from mental technique",
+            "to fetters to causal",
+            "insight — Sītivagga's full span",
+        ]),
+        ("Cross-references", [
+            "AN 6.85 &middot; the chapter's opening discourse, on mental technique",
+            "AN 6.94 &middot; previous, closing this tetrad's third discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.95/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.94.html">AN 6.94 &middot; Things That Can&rsquo;t Be Done (3rd)</a> '
+        "&mdash; previous, the five heinous deeds under a different frame.",
+        '<a href="an-6.85.html">AN 6.85 &middot; Coolness</a> &mdash; back to this '
+        "chapter&rsquo;s opening, for contrast with the chapter now closing.",
+    ],
+)
