@@ -23061,3 +23061,1884 @@ page(
         "chapter&rsquo;s opening, closing the loop.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.111 — Kulūpakasutta
+# --------------------------------------------------------------------------- #
+VAGGA_12 = "<em>Andhakavindavagga</em> &mdash; the twelfth chapter of the Fives"
+
+page(
+    111, "Kulūpaka", "Visiting Families",
+    vagga=VAGGA_12,
+    meta_title="AN 5.111 — Visiting Families | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kulūpakasutta, "
+        "opening the Andhakavindavagga — five ways a mendicant visiting lay families "
+        "presumes an intimacy, ownership, or entitlement not actually earned. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, matching this nipāta's recurring "
+                 "unlikable/beloved skeleton"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, practical, about "
+                       "everyday boundaries"),
+    ],
+    why=(
+        "A new chapter opens with a familiar structure, applied to a specific role: the "
+        "mendicant who regularly visits lay families for alms (<em>kulūpaka</em>). Five "
+        "behaviors are named, each a different way of overstepping a relationship not "
+        "actually earned."),
+    guide=[
+        ("A specific, recurring role", [
+            "<em>Kulūpaka</em> names a mendicant who regularly visits particular families for "
+            "alms &mdash; a relationship of ongoing familiarity that this discourse treats as "
+            "carrying its own specific temptations to overstep."]),
+        ("Five kinds of presumption", [
+            "Acting familiar with people barely known; giving away things not actually one's "
+            "own to give; over-associating specifically with existing close friends "
+            "(favoritism); whispering privately, creating an appearance of secrecy; and "
+            "asking for too much."]),
+        ("A shared thread", [
+            "Read together, the five describe different ways a visiting mendicant can assume "
+            "an intimacy, an ownership, or an entitlement he hasn't actually established with "
+            "a lay family &mdash; presumption in five different shapes."]),
+        ("The mirrored positive", [
+            "As throughout this nipāta's paired discourses, the beloved kulūpaka is described "
+            "purely by the negation of the same five behaviors."]),
+        ("What comes next", [
+            "AN 5.112 turns to a related but distinct concern: what makes a good or bad "
+            "&lsquo;second monk&rsquo;, a companion on almsround."]),
+    ],
+    terms=[
+        ("kulūpaka",
+         "&ldquo;one who visits families&rdquo; for alms &mdash; this discourse's subject."),
+        ("asanthavavissāsī",
+         "acting familiar or close with those one hardly knows."),
+        ("anissaravikappī",
+         "giving away things one doesn't own."),
+        ("upakaṇṇakajappī",
+         "whispering in the ear."),
+        ("atiyācanako",
+         "asking for too much."),
+    ],
+    text_intro=(
+        "The discourse in full: five ways of overstepping with a lay family, then their "
+        "absence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unlikable"),
+        ("p", "&sect;1", "an5.111:1.1-1.4"),
+        ("h3", "Dear and beloved"),
+        ("p", "&sect;2", "an5.111:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does 'kulūpaka' mean?",
+         "opts": [
+             "A senior mendicant",
+             "One who visits families for alms",
+             "A wilderness-dweller",
+             "A second monk on almsround"],
+         "correct": 1,
+         "expl": "This discourse's specific subject."},
+        {"q": "Name one of the five unlikable behaviors.",
+         "opts": [
+             "Acting familiar with people barely known",
+             "Living in the wilderness",
+             "Speaking too little",
+             "Refusing all almsfood"],
+         "correct": 0,
+         "expl": "One of five overstepping behaviors."},
+        {"q": "What does 'anissaravikappī' mean?",
+         "opts": [
+             "Giving away things one doesn't own",
+             "Refusing to give anything at all",
+             "Hoarding wealth",
+             "Speaking harshly"],
+         "correct": 0,
+         "expl": "Presuming ownership not actually held."},
+        {"q": "What shared thread runs through all five behaviors?",
+         "opts": [
+             "Physical laziness",
+             "Presumption — assuming an intimacy or entitlement not actually earned",
+             "Doctrinal error",
+             "Excessive fasting"],
+         "correct": 1,
+         "expl": "Five different shapes of overstepping."},
+        {"q": "What does 'upakaṇṇakajappī' mean?",
+         "opts": [
+             "Whispering in the ear",
+             "Speaking loudly in public",
+             "Refusing to speak at all",
+             "Teaching in detail"],
+         "correct": 0,
+         "expl": "Creating an appearance of secrecy."},
+        {"q": "What does 'atiyācanako' mean?",
+         "opts": [
+             "Asking for too much",
+             "Never asking for anything",
+             "Giving too much",
+             "Teaching too much"],
+         "correct": 0,
+         "expl": "Overreaching hospitality."},
+        {"q": "How is the 'beloved' list constructed relative to the 'unlikable' list?",
+         "opts": [
+             "An entirely new set of five qualities",
+             "The simple negation of all five behaviors",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "Matching this nipāta's recurring pattern."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Theravagga",
+             "Andhakavindavagga",
+             "Kakudhavagga",
+             "Phāsuvihāravagga"],
+         "correct": 1,
+         "expl": "The twelfth chapter of the Fives."},
+        {"q": "What structural pattern does this discourse follow, familiar from an earlier chapter?",
+         "opts": [
+             "A single unelaborated list",
+             "Two paired lists, unlikable and beloved",
+             "An extended narrative",
+             "A dialogue with a named questioner"],
+         "correct": 1,
+         "expl": "The paired skeleton from Theravagga, chapter 9."},
+        {"q": "What does AN 5.112 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "What makes a good or bad companion on almsround",
+             "The master thief simile",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "The 'second monk', pacchāsamaṇa."},
+    ],
+    marginalia=[
+        ("Five kinds of presumption", [
+            "false familiarity &middot;",
+            "false ownership &middot;",
+            "favoritism &middot; secrecy",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">kulūpaka</span>",
+            "&mdash; one who visits",
+            "families for alms",
+        ]),
+        ("A relationship not yet earned", [
+            "five ways of",
+            "overstepping it",
+        ]),
+        ("Cross-references", [
+            "AN 5.112 &middot; next: the second monk",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.111/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.112.html">AN 5.112 &middot; A Second Monk</a> &mdash; next: a related '
+        "concern, fitness as an almsround companion.",
+        '<a href="an-5.114.html">AN 5.114 &middot; At Andhakavinda</a> &mdash; this '
+        "chapter&rsquo;s title discourse, appearing fourth rather than at the close.",
+        '<a href="an-5.120.html">AN 5.120 &middot; Wrong Effort</a> &mdash; this '
+        "chapter&rsquo;s closing discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.112 — Pacchāsamaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    112, "Pacchāsamaṇa", "A Second Monk",
+    vagga=VAGGA_12,
+    meta_title="AN 5.112 — A Second Monk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pacchāsamaṇasutta — "
+        "five practical failures that make a companion on almsround useless, and their "
+        "positive counterparts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, describing fitness for a specific practical "
+                 "role"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short and practical"),
+    ],
+    why=(
+        "<em>Pacchāsamaṇa</em>, a &lsquo;second monk&rsquo;, names the mendicant who "
+        "accompanies a more senior one &mdash; on almsround, for instance. This discourse "
+        "specifies exactly what makes such a companion genuinely useful, or genuinely "
+        "useless."),
+    guide=[
+        ("A companion role, defined by fitness for the task", [
+            "A pacchāsamaṇa walks behind and accompanies a senior mendicant; this discourse "
+            "names precisely what makes that companionship valuable or worthless in practice."]),
+        ("Five practical failures", [
+            "Poor physical spacing &mdash; walking too far away or too close behind; not "
+            "relieving a full bowl; failing to warn when speech is bordering on a Vinaya "
+            "offense; interrupting while the senior monk speaks; and simply lacking the wit "
+            "to do any of this well."]),
+        ("The positive mirror, plus one addition", [
+            "The positive list doesn't just negate each failure &mdash; it explicitly adds "
+            "wisdom, brightness, and cleverness as the final quality, rather than merely "
+            "&lsquo;not witless&rsquo;."]),
+        ("Valued for practical support and protection", [
+            "The discourse's underlying logic: a pacchāsamaṇa's worth lies specifically in "
+            "being a genuinely helpful second pair of hands and a second pair of eyes, "
+            "catching mistakes &mdash; including speech that risks an actual monastic offense "
+            "&mdash; before they become real problems."]),
+        ("What comes next", [
+            "AN 5.113 returns to a familiar formula: enduring the five sense objects, now "
+            "framed as the condition for entering right immersion."]),
+    ],
+    terms=[
+        ("pacchāsamaṇa",
+         "&ldquo;a second monk&rdquo; &mdash; a companion accompanying a senior mendicant."),
+        ("pattapariyāpannaṁ gaṇhati",
+         "&ldquo;takes the bowl when it is full&rdquo; &mdash; a practical duty of the "
+         "companion role."),
+        ("āpattisāmantā bhaṇamānaṁ nivāreti",
+         "&ldquo;warns when speech is bordering on an offense&rdquo; &mdash; the companion's "
+         "protective function."),
+        ("kathaṁ opāteti",
+         "&ldquo;interrupts while speaking&rdquo; &mdash; one of the disqualifying "
+         "behaviors."),
+        ("ajaḷo aneḷamūgo",
+         "&ldquo;bright, clever&rdquo; &mdash; part of the positive list's final quality."),
+    ],
+    text_intro=(
+        "The discourse in full: five failures that disqualify a companion, then their "
+        "positive counterparts. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A companion you shouldn't take"),
+        ("p", "&sect;1", "an5.112:1.1-1.4"),
+        ("h3", "A companion you should take"),
+        ("p", "&sect;2", "an5.112:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does 'pacchāsamaṇa' mean?",
+         "opts": [
+             "A second monk, a companion accompanying a senior mendicant",
+             "A wilderness-dweller",
+             "A newly ordained mendicant",
+             "A lay supporter"],
+         "correct": 0,
+         "expl": "This discourse's central role."},
+        {"q": "What is one of the five disqualifying behaviors?",
+         "opts": [
+             "Walking too far away or too close behind",
+             "Living in a monastery",
+             "Speaking too little",
+             "Refusing almsfood"],
+         "correct": 0,
+         "expl": "Poor physical spacing, one of five."},
+        {"q": "What practical duty does a good companion perform with the bowl?",
+         "opts": [
+             "Ignores it entirely",
+             "Takes it when it is full",
+             "Fills it themselves",
+             "Refuses to carry it"],
+         "correct": 1,
+         "expl": "Pattapariyāpannaṁ gaṇhati."},
+        {"q": "What protective function does a good companion serve regarding speech?",
+         "opts": [
+             "Interrupts constantly",
+             "Warns when speech is bordering on a monastic offense",
+             "Reports all speech to superiors",
+             "Remains silent regardless of what is said"],
+         "correct": 1,
+         "expl": "Āpattisāmantā bhaṇamānaṁ nivāreti."},
+        {"q": "What does the positive list add, beyond simply negating 'witless'?",
+         "opts": [
+             "Nothing further is added",
+             "Wisdom, brightness, and cleverness explicitly named",
+             "Physical strength",
+             "Wealth"],
+         "correct": 1,
+         "expl": "A positive quality, not merely an absence."},
+        {"q": "What is the discourse's underlying logic for valuing a good companion?",
+         "opts": [
+             "Purely ceremonial status",
+             "Practical support and protection — a helpful second pair of hands and eyes",
+             "Seniority alone",
+             "Physical appearance"],
+         "correct": 1,
+         "expl": "Genuine practical usefulness."},
+        {"q": "What happens if a companion interrupts while the senior monk is speaking?",
+         "opts": [
+             "This is praised as attentiveness",
+             "This is named as one of the disqualifying failures",
+             "It has no bearing on the discourse's assessment",
+             "It is only a problem for junior mendicants"],
+         "correct": 1,
+         "expl": "Kathaṁ opāteti, one of the five failures."},
+        {"q": "How is this discourse's paired structure similar to AN 5.111's?",
+         "opts": [
+             "It uses a single unelaborated list instead",
+             "Two paired lists — a version to avoid, and a version to seek",
+             "It uses a narrative simile instead",
+             "There is no similarity"],
+         "correct": 1,
+         "expl": "The same paired skeleton applied to a different role."},
+        {"q": "What comes right before this discourse in the chapter's sequence?",
+         "opts": [
+             "AN 5.111, on visiting families",
+             "AN 5.120, closing the chapter",
+             "AN 5.99, the lion simile",
+             "AN 5.90"],
+         "correct": 0,
+         "expl": "This chapter's opening discourse."},
+        {"q": "What does AN 5.113 return to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Enduring the five sense objects, now as a condition for right immersion",
+             "A narrative about nuns",
+             "The master thief simile"],
+         "correct": 1,
+         "expl": "A familiar formula, reused with new stakes."},
+    ],
+    marginalia=[
+        ("Five practical failures", [
+            "spacing &middot; the bowl",
+            "&middot; warnings &middot;",
+            "interrupting &middot; wit",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">pacchāsamaṇa</span>",
+            "&mdash; a second",
+            "monk, a companion",
+        ]),
+        ("A protective role", [
+            "catching mistakes",
+            "before they become",
+            "real offenses",
+        ]),
+        ("Cross-references", [
+            "AN 5.111 &middot; the previous discourse",
+            "AN 5.113 &middot; next: a familiar formula, new stakes",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.112/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.111.html">AN 5.111 &middot; Visiting Families</a> &mdash; the '
+        "previous discourse, a related concern about boundaries.",
+        '<a href="an-5.113.html">AN 5.113 &middot; Right Immersion</a> &mdash; next: a '
+        "familiar formula, reused with new stakes.",
+        '<a href="an-5.85.html">AN 5.85 &middot; Cannot Endure</a> &mdash; the formula AN '
+        "5.113 reuses, in its earlier, social-standing framing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.113 — Sammāsamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    113, "Sammāsamādhi", "Right Immersion",
+    vagga=VAGGA_12,
+    meta_title="AN 5.113 — Right Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sammāsamādhisutta — "
+        "AN 5.85's endurance formula reused, now naming right immersion itself as the "
+        "condition at stake. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, reusing an earlier formula under new stakes"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and familiar"),
+    ],
+    why=(
+        "The same five sense objects and the same akkhama/khama pair already used at AN 5.85, "
+        "but with an escalated stake: not a senior mendicant's standing among companions, but "
+        "whether right immersion (<em>sammāsamādhi</em>) itself can be entered and "
+        "maintained."),
+    guide=[
+        ("A third framing for one pentad", [
+            "This is the same five sense objects &mdash; sights, sounds, smells, tastes, "
+            "touches &mdash; and the same <em>akkhama</em>/<em>khama</em> (unable/able to "
+            "endure) pair already used at AN 5.85, now reused under an entirely different "
+            "consequence."]),
+        ("From social standing to meditative capacity", [
+            "At AN 5.85, this same tolerance or intolerance of sense contact determined "
+            "whether a senior mendicant was liked or disliked by companions. Here, the "
+            "consequence is escalated: whether the mendicant is even capable "
+            "(<em>bhabba</em>) of entering and remaining in right immersion at all."]),
+        ("The same root quality, different stakes each time", [
+            "Read together, these two discourses suggest that basic tolerance of ordinary "
+            "sense contact is foundational &mdash; not just to social ease, but to the "
+            "possibility of meditative attainment itself."]),
+        ("The mirrored positive", [
+            "As at AN 5.85, the positive list simply negates each item: enduring, rather than "
+            "failing to endure, each of the five sense objects."]),
+        ("What comes next", [
+            "AN 5.114 shifts entirely, to this chapter's own title discourse: a specific, "
+            "newly named location, and direct instructions for how to speak to newcomers."]),
+    ],
+    terms=[
+        ("sammāsamādhi",
+         "&ldquo;right immersion&rdquo; &mdash; the attainment at stake in this discourse."),
+        ("abhabba / bhabba",
+         "&ldquo;incapable&rdquo; / &ldquo;capable&rdquo; &mdash; the discourse's central "
+         "verdict."),
+        ("akkhama / khama",
+         "unable / able to endure &mdash; reused from AN 5.85."),
+        ("rūpa",
+         "sights, the first of the five sense objects."),
+        ("phoṭṭhabba",
+         "touches, the fifth sense object."),
+    ],
+    text_intro=(
+        "The discourse in full: inability, then ability, to endure the five sense objects, "
+        "now as a condition for right immersion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Incapable of right immersion"),
+        ("p", "&sect;1", "an5.113:1.1-1.4"),
+        ("h3", "Capable of right immersion"),
+        ("p", "&sect;2", "an5.113:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five sense objects does this discourse's list cover?",
+         "opts": [
+             "Sights, sounds, smells, tastes, touches",
+             "Faith, ethics, learning, generosity, wisdom",
+             "Work, talk, sleep, company, freedom",
+             "Robes, almsfood, lodging, medicine, praise"],
+         "correct": 0,
+         "expl": "The same five sense objects as AN 5.85."},
+        {"q": "What earlier discourse in this nipāta first used this same akkhama/khama pentad?",
+         "opts": [
+             "AN 5.71",
+             "AN 5.85",
+             "AN 5.1",
+             "AN 5.99"],
+         "correct": 1,
+         "expl": "Cannot Endure, this chapter's third framing of the same material."},
+        {"q": "At AN 5.85, what did this same tolerance or intolerance determine?",
+         "opts": [
+             "A senior mendicant's standing among companions",
+             "Capacity for right immersion",
+             "Worthiness of offerings",
+             "Readiness for wilderness dwelling"],
+         "correct": 0,
+         "expl": "Liked or disliked, respected or not."},
+        {"q": "What does this discourse escalate that consequence to?",
+         "opts": [
+             "Nothing changes",
+             "Whether the mendicant is even capable of entering right immersion at all",
+             "Rebirth in a heavenly realm",
+             "Worthiness of offerings"],
+         "correct": 1,
+         "expl": "Bhabba/abhabba sammāsamādhiṁ upasampajja viharituṁ."},
+        {"q": "What does 'bhabba' mean?",
+         "opts": [
+             "Incapable",
+             "Capable",
+             "Wealthy",
+             "Learned"],
+         "correct": 1,
+         "expl": "The positive verdict."},
+        {"q": "What does this pairing of discourses (AN 5.85 and 5.113) suggest?",
+         "opts": [
+             "That sense tolerance is irrelevant to meditation",
+             "That basic tolerance of sense contact is foundational, both socially and meditatively",
+             "That the two discourses contradict each other",
+             "That only senior mendicants need endure sense contact"],
+         "correct": 1,
+         "expl": "A shared underlying quality, escalating stakes."},
+        {"q": "How is the positive list constructed relative to the negative one?",
+         "opts": [
+             "An entirely different five items",
+             "The simple negation — enduring rather than failing to endure",
+             "Only two of the five negated",
+             "A longer list"],
+         "correct": 1,
+         "expl": "Matching AN 5.85's own pattern."},
+        {"q": "Which sense faculty does 'phoṭṭhabba' correspond to?",
+         "opts": [
+             "Eye",
+             "Ear",
+             "Body",
+             "Tongue"],
+         "correct": 2,
+         "expl": "Touches, corresponding to the body."},
+        {"q": "How long is this discourse, relative to others in this nipāta?",
+         "opts": [
+             "One of the longest",
+             "Among the shortest, a bare paired list",
+             "Average length",
+             "The longest in this chapter"],
+         "correct": 1,
+         "expl": "Brief, reusing an already-familiar formula."},
+        {"q": "What does AN 5.114 shift to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "This chapter's own title discourse, at a newly named location",
+             "A narrative about nuns",
+             "The master thief simile"],
+         "correct": 1,
+         "expl": "Andhakavinda, giving the whole chapter its name."},
+    ],
+    marginalia=[
+        ("Same pentad, new stakes", [
+            "AN 5.85 &middot; social",
+            "regard &rarr; AN 5.113",
+            "&middot; right immersion",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">bhabba / abhabba</span>",
+            "&mdash; capable /",
+            "incapable",
+        ]),
+        ("A foundational quality", [
+            "sense tolerance,",
+            "underlying both",
+            "regard and attainment",
+        ]),
+        ("Cross-references", [
+            "AN 5.85 &middot; the same pentad's earlier framing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.113/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.85.html">AN 5.85 &middot; Cannot Endure</a> &mdash; this same '
+        "pentad's earlier, social-standing framing.",
+        '<a href="an-5.112.html">AN 5.112 &middot; A Second Monk</a> &mdash; the previous '
+        "discourse.",
+        '<a href="an-5.114.html">AN 5.114 &middot; At Andhakavinda</a> &mdash; next: this '
+        "chapter's own title discourse.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.114 — Andhakavindasutta
+# --------------------------------------------------------------------------- #
+page(
+    114, "Andhakavinda", "At Andhakavinda",
+    vagga=VAGGA_12,
+    meta_title="AN 5.114 — At Andhakavinda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Andhakavindasutta, "
+        "this chapter's title discourse — the Buddha's exact, quotable instructions to "
+        "Ānanda on encouraging newly ordained mendicants. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Andhakavinda, in the land of the Magadhans &mdash; a new location, "
+                    "stated explicitly, giving this chapter its name"),
+        ("Speakers", "Venerable Ānanda, present as the addressee; the Buddha's direct "
+                     "instruction"),
+        ("Form", "instruction given as five exact, quotable exhortations for a senior "
+                 "mendicant to speak to newcomers"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; practical and direct, a "
+                       "script rather than an abstract description"),
+    ],
+    why=(
+        "This chapter's title discourse, positioned fourth rather than at the close: a new, "
+        "specific location, and five things junior mendicants should be encouraged in "
+        "&mdash; each given not as description but as an exact quoted exhortation the Buddha "
+        "instructs a senior mendicant to actually say aloud to a newcomer."),
+    guide=[
+        ("The chapter's title discourse, positioned early", [
+            "Unlike most other chapters in this nipāta, where the title discourse closes the "
+            "chapter, this one appears fourth. Andhakavinda, in the land of the Magadhans, is "
+            "a real, specific location named nowhere else so far in this project, and gives "
+            "the whole chapter its name."]),
+        ("Direct instructions for newcomers", [
+            "Five things junior mendicants should be &lsquo;encouraged, supported, and "
+            "established in&rsquo;, each given as an exact quoted exhortation: monastic "
+            "restraint, sense restraint, limited speech, wilderness retreat, and right view."]),
+        ("Five familiar qualities, restated as direct speech", [
+            "Each of the five has already appeared elsewhere in this collection in "
+            "descriptive form &mdash; monastic restraint and wilderness dwelling at several "
+            "points, sense restraint at AN 5.76. What's new here is the explicit script: not "
+            "just what these qualities are, but the actual words a senior mendicant is told "
+            "to speak to a newcomer."]),
+        ("Limiting speech, the one genuinely new element", [
+            "Among the five, limiting speech &mdash; &lsquo;please speak little, put a limit "
+            "on your speech&rsquo; &mdash; hasn't appeared in quite this form elsewhere in "
+            "this nipāta, worth noting as advice suited specifically to someone still "
+            "learning, rather than framed as a general monastic ideal."]),
+        ("A three-part verb formula, repeated five times", [
+            "Each of the five instructions is introduced with the identical triple verb "
+            "&mdash; &lsquo;encouraged, supported, and established&rsquo; "
+            "(<em>samādapetabbā nivesetabbā patiṭṭhāpetabbā</em>) &mdash; giving the whole "
+            "discourse a formal, almost ceremonial structure around otherwise practical "
+            "advice."]),
+        ("What comes next", [
+            "AN 5.115 shifts entirely, opening a run of six consecutive discourses addressed "
+            "specifically to nuns."]),
+    ],
+    terms=[
+        ("Andhakavinda",
+         "a real, specific location in Magadha, named here and giving this chapter its "
+         "name."),
+        ("samādapetabbā nivesetabbā patiṭṭhāpetabbā",
+         "&ldquo;should be encouraged, supported, and established&rdquo; &mdash; the "
+         "three-part verb formula repeated for each instruction."),
+        ("appabhassā&hellip;bhassapariyantakārino",
+         "&ldquo;speaking little&hellip;putting a limit on speech&rdquo; &mdash; the one "
+         "genuinely new instruction among the five."),
+        ("indriyasaṁvara",
+         "sense restraint, the second instruction, already described in full at AN 5.76."),
+        ("sammādassana",
+         "&ldquo;right perspective&rdquo; &mdash; the fifth instruction."),
+    ],
+    text_intro=(
+        "The discourse in full: five exact instructions for encouraging newcomers, each "
+        "quoted as direct speech. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ānanda's visit"),
+        ("p", "&sect;1", "an5.114:1.1-2.2"),
+        ("h3", "Restraint in the monastic code"),
+        ("p", "&sect;2", "an5.114:2.3"),
+        ("h3", "Sense restraint"),
+        ("p", "&sect;3", "an5.114:3.1"),
+        ("h3", "Limiting speech"),
+        ("p", "&sect;4", "an5.114:4.1"),
+        ("h3", "Retreat"),
+        ("p", "&sect;5", "an5.114:5.1"),
+        ("h3", "Right perspective"),
+        ("p", "&sect;6", "an5.114:6.1-6.2"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Andhakavinda, in the land of the Magadhans",
+             "Kosambī",
+             "Vesālī"],
+         "correct": 1,
+         "expl": "A new location, giving this chapter its name."},
+        {"q": "Who is addressed as the recipient of this discourse's instruction?",
+         "opts": [
+             "Moggallāna",
+             "Ānanda",
+             "Devadatta",
+             "Kakudha"],
+         "correct": 1,
+         "expl": "The Buddha instructs Ānanda directly."},
+        {"q": "How are the five instructions given, unlike most descriptive formulas elsewhere?",
+         "opts": [
+             "As abstract philosophical principles",
+             "As exact, quotable exhortations to speak aloud to newcomers",
+             "As a narrative story",
+             "As a list with no elaboration"],
+         "correct": 1,
+         "expl": "A script, not merely a description."},
+        {"q": "What is the first instruction?",
+         "opts": [
+             "Restraint in the monastic code",
+             "Wilderness dwelling",
+             "Right view",
+             "Limiting speech"],
+         "correct": 0,
+         "expl": "Pātimokkhasaṁvara, given as direct quoted speech."},
+        {"q": "What is the third instruction, the one genuinely new element among the five?",
+         "opts": [
+             "Sense restraint",
+             "Speaking little, limiting speech",
+             "Wilderness dwelling",
+             "Right view"],
+         "correct": 1,
+         "expl": "Not framed elsewhere in this nipāta in quite this way."},
+        {"q": "What three-part verb formula introduces each of the five instructions?",
+         "opts": [
+             "'Taught, tested, and confirmed'",
+             "'Encouraged, supported, and established'",
+             "'Praised, rewarded, and remembered'",
+             "'Warned, corrected, and forgiven'"],
+         "correct": 1,
+         "expl": "Repeated identically five times."},
+        {"q": "Where was sense restraint already described in full, earlier in this nipāta?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.76",
+             "AN 5.90",
+             "AN 5.100"],
+         "correct": 1,
+         "expl": "The second Warriors discourse."},
+        {"q": "What is the fifth and final instruction?",
+         "opts": [
+             "Right perspective, right view",
+             "Wilderness dwelling",
+             "Limiting speech",
+             "Sense restraint"],
+         "correct": 0,
+         "expl": "Sammādassana, closing the list."},
+        {"q": "Who is this discourse's instruction specifically addressed to, within the broader monastic community?",
+         "opts": [
+             "Senior mendicants exclusively",
+             "Junior mendicants, newly ordained and new to the teaching",
+             "Lay supporters",
+             "Nuns exclusively"],
+         "correct": 1,
+         "expl": "Newcomers, addressed indirectly through Ānanda."},
+        {"q": "What does AN 5.115 shift to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "A run of six consecutive discourses addressed specifically to nuns",
+             "The lion simile",
+             "A dialogue about right immersion"],
+         "correct": 1,
+         "expl": "An entirely different subject and address."},
+    ],
+    marginalia=[
+        ("Five instructions, as direct speech", [
+            "a script for",
+            "senior mendicants",
+            "to actually say",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">Andhakavinda</span>",
+            "&mdash; a real place,",
+            "naming this chapter",
+        ]),
+        ("The new element", [
+            "speaking little —",
+            "advice for",
+            "newcomers specifically",
+        ]),
+        ("Cross-references", [
+            "AN 5.76 &middot; sense restraint, in full",
+            "AN 5.115 &middot; next: a run of nun-specific discourses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.114/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.113.html">AN 5.113 &middot; Right Immersion</a> &mdash; the previous '
+        "discourse.",
+        '<a href="an-5.115.html">AN 5.115 &middot; Stingy</a> &mdash; next: a run of six '
+        "discourses specifically addressed to nuns.",
+        '<a href="an-5.76.html">AN 5.76 &middot; Warriors (2nd)</a> &mdash; where sense '
+        "restraint, one of this discourse's five instructions, was described in full.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.115 — Maccharinīsutta
+# --------------------------------------------------------------------------- #
+page(
+    115, "Maccharinī", "Stingy",
+    vagga=VAGGA_12,
+    meta_title="AN 5.115 — Stingy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Maccharinīsutta, "
+        "opening a run of six discourses addressed specifically to nuns — five domains of "
+        "stinginess, and a vivid stock verdict of hell or heaven. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, addressed specifically to nuns, closing with a "
+                 "vivid stock hell/heaven verdict"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; addressed specifically to "
+                       "nuns, using strong stock language; handled here plainly"),
+    ],
+    why=(
+        "This discourse opens a run of six consecutive discourses (AN 5.115&ndash;120), all "
+        "addressed specifically to nuns rather than the monks who are this nipāta's usual "
+        "audience. Five domains of stinginess are named, closing with a vivid stock verdict: "
+        "placed in hell, or in heaven, &lsquo;as if delivered there&rsquo;."),
+    guide=[
+        ("Six discourses about nuns begin here", [
+            "AN 5.115 opens a run of six consecutive discourses, all addressed specifically "
+            "to <em>bhikkhunī</em> (nuns) rather than <em>bhikkhu</em> (monks), unlike the "
+            "rest of this chapter and most of this nipāta. This reading guide notes the "
+            "shift plainly: no equivalent monk-specific series appears at this point in the "
+            "collection, and this guide does not assert whether a parallel formula addressed "
+            "to monks exists elsewhere in the canon."]),
+        ("A vivid stock verdict", [
+            "&lsquo;Placed in hell, or in heaven, as if delivered there&rsquo; "
+            "(<em>yathābhataṁ nikkhittā</em>) is a striking idiom &mdash; as though rebirth "
+            "follows automatically and immediately from present conduct, with no further "
+            "intervening steps. This same phrase recurs across all six discourses in this "
+            "run."]),
+        ("Five kinds of stinginess", [
+            "<em>Macchariya</em> applied to five specific domains: dwellings, families (the "
+            "network of lay supporters associated with oneself), material possessions, "
+            "praise or reputation, and the teaching itself &mdash; withholding instruction "
+            "from others."]),
+        ("Withholding teaching, worth noting specifically", [
+            "<em>Dhammamacchariya</em>, stinginess specifically with the Dhamma, stands out "
+            "among the five: unlike the other four, sharing the teaching costs nothing "
+            "material."]),
+        ("The mirrored positive", [
+            "Pure negation across all five domains, placed in heaven as if delivered there."]),
+        ("What comes next", [
+            "AN 5.116 restates the identical hell/heaven verdict formula, introducing a "
+            "two-part &lsquo;unexamined praise and criticism&rsquo; opening that will recur, "
+            "with variations, through the rest of this run."]),
+    ],
+    terms=[
+        ("yathābhataṁ nikkhittā",
+         "&ldquo;placed there as if delivered&rdquo; &mdash; the vivid stock verdict "
+         "recurring across this whole run of six discourses."),
+        ("macchariya",
+         "stinginess &mdash; this discourse's central fault, applied to five domains."),
+        ("āvāsamacchariya",
+         "stinginess with dwellings."),
+        ("dhammamacchariya",
+         "stinginess with the teaching, the fifth domain, distinct from the other four."),
+        ("vaṇṇamacchariya",
+         "stinginess with praise, or credit."),
+    ],
+    text_intro=(
+        "The discourse in full: five domains of stinginess, and their absence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an5.115:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an5.115:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "Who is this discourse, and the five that follow it, specifically addressed to?",
+         "opts": [
+             "Monks",
+             "Nuns",
+             "Lay followers",
+             "Senior mendicants of any gender"],
+         "correct": 1,
+         "expl": "Bhikkhunī — a shift from this nipāta's usual audience."},
+        {"q": "How many consecutive discourses does this nun-specific run include?",
+         "opts": [
+             "Three",
+             "Six",
+             "Ten",
+             "Two"],
+         "correct": 1,
+         "expl": "AN 5.115 through AN 5.120."},
+        {"q": "What vivid stock phrase names this discourse's verdict?",
+         "opts": [
+             "'Placed there as if delivered', for hell or heaven",
+             "'Soon penetrates the unshakable'",
+             "'Worthy of offerings'",
+             "'At ease in any quarter'"],
+         "correct": 0,
+         "expl": "Yathābhataṁ nikkhittā, recurring across all six discourses."},
+        {"q": "What five domains of stinginess are named?",
+         "opts": [
+             "Dwellings, families, material things, praise, the teaching",
+             "Robes, almsfood, lodging, medicine, wisdom",
+             "Faith, ethics, learning, energy, wisdom",
+             "Sights, sounds, smells, tastes, touches"],
+         "correct": 0,
+         "expl": "Five specific applications of macchariya."},
+        {"q": "What makes stinginess with the teaching distinct from the other four domains?",
+         "opts": [
+             "It is the least serious of the five",
+             "Unlike the other four, sharing it costs nothing material",
+             "It is not actually named in the discourse",
+             "It applies only to monks, not nuns"],
+         "correct": 1,
+         "expl": "Dhammamacchariya, worth noting specifically."},
+        {"q": "Does this reading guide assert that an equivalent formula addressed to monks exists elsewhere?",
+         "opts": [
+             "Yes, definitively",
+             "No — it notes the shift plainly without asserting an unconfirmed claim",
+             "It denies any such formula could exist",
+             "The question is not addressed at all"],
+         "correct": 1,
+         "expl": "A deliberately cautious, non-speculative framing."},
+        {"q": "How is the positive list constructed relative to the negative one?",
+         "opts": [
+             "An entirely new set of five qualities",
+             "The simple negation of all five domains",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "Pure negation, placed in heaven instead."},
+        {"q": "What does 'āvāsamacchariya' mean?",
+         "opts": [
+             "Stinginess with dwellings",
+             "Stinginess with food",
+             "Stinginess with robes",
+             "Stinginess with medicine"],
+         "correct": 0,
+         "expl": "The first domain named."},
+        {"q": "What comes right before this discourse in the chapter's sequence?",
+         "opts": [
+             "AN 5.114, the chapter's title discourse",
+             "AN 5.99, the lion simile",
+             "AN 5.90",
+             "AN 5.71"],
+         "correct": 0,
+         "expl": "At Andhakavinda, appearing fourth in this chapter."},
+        {"q": "What does AN 5.116 introduce next, while keeping the same verdict formula?",
+         "opts": [
+             "A colophon closing the chapter",
+             "A two-part 'unexamined praise and criticism' opening",
+             "A shift back to monk-specific material",
+             "The master thief simile"],
+         "correct": 1,
+         "expl": "Recurring, with variations, through the rest of this run."},
+    ],
+    marginalia=[
+        ("A nun-specific run begins", [
+            "AN 5.115&ndash;120,",
+            "six discourses",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">yathābhataṁ nikkhittā</span>",
+            "&mdash; placed there",
+            "as if delivered",
+        ]),
+        ("Five domains of stinginess", [
+            "dwellings &middot; families",
+            "&middot; things &middot; praise",
+            "&middot; the teaching",
+        ]),
+        ("Cross-references", [
+            "AN 5.116&ndash;120 &middot; the rest of this run",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.115/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.114.html">AN 5.114 &middot; At Andhakavinda</a> &mdash; the previous '
+        "discourse, this chapter's own title piece.",
+        '<a href="an-5.116.html">AN 5.116 &middot; Praise</a> &mdash; next: the same '
+        "verdict formula, a different fault-cluster.",
+        '<a href="an-5.120.html">AN 5.120 &middot; Wrong Effort</a> &mdash; the final '
+        "discourse in this six-part run.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.116 — Vaṇṇanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    116, "Vaṇṇanā", "Praise",
+    vagga=VAGGA_12,
+    meta_title="AN 5.116 — Praise | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vaṇṇanāsutta — "
+        "five failures of discernment, judged without examination, closing with the same "
+        "hell/heaven verdict formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, addressed to nuns, sharing AN 5.115's verdict "
+                 "formula"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; addressed specifically to "
+                       "nuns; handled here plainly"),
+    ],
+    why=(
+        "Continuing the hell/heaven verdict formula from AN 5.115, this discourse names five "
+        "failures of discernment and judgment: misplaced praise and criticism, given without "
+        "examination, misplaced faith, and mismanaging gifts given in faith."),
+    guide=[
+        ("A different fault-cluster, same verdict formula", [
+            "Where AN 5.115 named five kinds of stinginess, this discourse names five "
+            "failures of judgment, still closing with the identical hell/heaven verdict."]),
+        ("Judgment without examination, a recurring first pair", [
+            "Praising the blameworthy and criticizing the praiseworthy, both explicitly done "
+            "&lsquo;without examining or scrutinizing&rsquo; (<em>ananuvicca "
+            "apariyogāhetvā</em>) &mdash; the failure isn't necessarily malice, but a lack of "
+            "the discernment that should precede any public assessment of someone's "
+            "character."]),
+        ("Misplaced faith, two more failures", [
+            "Arousing others' faith in things that don't deserve it, and failing to arouse "
+            "faith in things that genuinely do &mdash; a parallel failure of discernment "
+            "applied to what deserves confidence rather than to people."]),
+        ("Wasting gifts given in faith", [
+            "The fifth item, <em>saddhādeyyaṁ vinipāteti</em>, names mismanagement of what "
+            "lay supporters have given specifically out of their own trust. This discourse "
+            "doesn't specify exactly how such gifts are &lsquo;wasted&rsquo;, and this "
+            "reading guide does not speculate beyond what the text states."]),
+        ("A structural pattern beginning here", [
+            "The &lsquo;unexamined praise and criticism&rsquo; opening pair and the "
+            "&lsquo;wasting gifts given in faith&rsquo; closing item will both recur "
+            "unchanged through AN 5.117&ndash;120, with only the middle three items varying "
+            "each time."]),
+        ("What comes next", [
+            "AN 5.117 keeps this same two-plus-one frame, swapping in jealousy and "
+            "stinginess as the middle items."]),
+    ],
+    terms=[
+        ("ananuvicca apariyogāhetvā",
+         "&ldquo;without examining or scrutinizing&rdquo; &mdash; the qualifier on both "
+         "failures of judgment."),
+        ("avaṇṇāraha / vaṇṇāraha",
+         "deserving of criticism / deserving of praise."),
+        ("pasāda",
+         "faith, confidence &mdash; misplaced or withheld in the third and fourth items."),
+        ("saddhādeyya",
+         "gifts given in faith &mdash; at risk in the fifth item."),
+        ("vinipāteti",
+         "&ldquo;wastes, ruins&rdquo; &mdash; the fifth item's central verb."),
+    ],
+    text_intro=(
+        "The discourse in full: five failures of discernment, then their correction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an5.116:1.1-1.8"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an5.116:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What kind of fault-cluster does this discourse name, distinct from AN 5.115's?",
+         "opts": [
+             "Five kinds of stinginess",
+             "Five failures of discernment and judgment",
+             "Five kinds of physical illness",
+             "Five wrong livelihoods"],
+         "correct": 1,
+         "expl": "Misplaced praise, criticism, and faith."},
+        {"q": "What qualifies the first two failures, praising the blameworthy and criticizing the praiseworthy?",
+         "opts": [
+             "Done deliberately and maliciously",
+             "Done without examining or scrutinizing",
+             "Done only in private",
+             "Done under duress"],
+         "correct": 1,
+         "expl": "Ananuvicca apariyogāhetvā — a failure of discernment, not necessarily malice."},
+        {"q": "What are the third and fourth items about?",
+         "opts": [
+             "Misplaced faith — aroused where it shouldn't be, withheld where it should be given",
+             "Physical health",
+             "Wilderness dwelling",
+             "Monastic robes"],
+         "correct": 0,
+         "expl": "A parallel failure of discernment applied to confidence rather than people."},
+        {"q": "What is the fifth item?",
+         "opts": [
+             "Wasting gifts given in faith",
+             "Refusing to teach",
+             "Excessive stinginess",
+             "Wrong view"],
+         "correct": 0,
+         "expl": "Saddhādeyyaṁ vinipāteti."},
+        {"q": "Does this discourse specify exactly how gifts given in faith are wasted?",
+         "opts": [
+             "Yes, in great detail",
+             "No — the text doesn't elaborate, and this guide doesn't speculate",
+             "Only for material gifts",
+             "Only for teachings"],
+         "correct": 1,
+         "expl": "Left unspecified in the source."},
+        {"q": "What two elements of this discourse's structure will recur unchanged through AN 5.117–120?",
+         "opts": [
+             "The unexamined praise/criticism opening, and the wasted-gifts closing item",
+             "The entire five-item list, unchanged",
+             "Only the verdict formula",
+             "Nothing recurs; each discourse is entirely independent"],
+         "correct": 0,
+         "expl": "A fixed frame with a varying middle."},
+        {"q": "What does 'ananuvicca apariyogāhetvā' mean?",
+         "opts": [
+             "Without examining or scrutinizing",
+             "With great care and deliberation",
+             "In front of witnesses",
+             "According to the monastic code"],
+         "correct": 0,
+         "expl": "The qualifier on the first pair of failures."},
+        {"q": "How is the heaven-bound version of this discourse constructed?",
+         "opts": [
+             "An entirely different five items",
+             "The positive counterpart — judgment made with examination, faith rightly placed, gifts not wasted",
+             "No positive version is given",
+             "Only the verdict changes, not the content"],
+         "correct": 1,
+         "expl": "The correction of all five failures."},
+        {"q": "What verdict formula does this discourse share with AN 5.115?",
+         "opts": [
+             "'Soon penetrates the unshakable'",
+             "'Placed there as if delivered', for hell or heaven",
+             "'Worthy of offerings'",
+             "'At ease in any quarter'"],
+         "correct": 1,
+         "expl": "The same vivid stock phrase."},
+        {"q": "What does AN 5.117 swap in as its middle items?",
+         "opts": [
+             "Jealousy and stinginess",
+             "Wrong view and wrong intention",
+             "Wrong speech and wrong action",
+             "Wrong effort and wrong mindfulness"],
+         "correct": 0,
+         "expl": "Keeping the same fixed opening and closing frame."},
+    ],
+    marginalia=[
+        ("Judgment, without examination", [
+            "praise and criticism",
+            "given carelessly",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">ananuvicca apariyogāhetvā</span>",
+            "&mdash; without",
+            "examining",
+        ]),
+        ("A fixed frame begins", [
+            "opening pair &middot;",
+            "closing item —",
+            "recurring through AN 5.120",
+        ]),
+        ("Cross-references", [
+            "AN 5.115 &middot; the previous discourse",
+            "AN 5.117 &middot; next: jealousy and stinginess",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.116/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.115.html">AN 5.115 &middot; Stingy</a> &mdash; the previous '
+        "discourse, opening this run.",
+        '<a href="an-5.117.html">AN 5.117 &middot; Jealous</a> &mdash; next: the same '
+        "frame, jealousy and stinginess as the varying items.",
+        '<a href="an-5.120.html">AN 5.120 &middot; Wrong Effort</a> &mdash; the final '
+        "discourse in this six-part run.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.117 — Issukinīsutta
+# --------------------------------------------------------------------------- #
+page(
+    117, "Issukinī", "Jealous",
+    vagga=VAGGA_12,
+    meta_title="AN 5.117 — Jealous | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Issukinīsutta — "
+        "jealousy and stinginess as the varying middle items in this run's shared "
+        "hell/heaven frame. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, addressed to nuns, using this run's fixed "
+                 "opening and closing frame"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; addressed specifically to "
+                       "nuns; handled here plainly"),
+    ],
+    why=(
+        "The second discourse to use AN 5.116's fixed frame &mdash; the unexamined praise "
+        "and criticism opening, and the wasted-gifts closing &mdash; with jealousy and "
+        "stinginess filling the varying middle."),
+    guide=[
+        ("The fixed frame, continued", [
+            "As at AN 5.116, this discourse opens with unexamined false praise and criticism, "
+            "and closes with wasting gifts given in faith. What varies is the middle: "
+            "jealousy and stinginess."]),
+        ("A natural interpersonal pairing", [
+            "Jealousy (<em>issukinī</em>) and stinginess (<em>maccharinī</em>, already the "
+            "subject of AN 5.115 in its own five-domain form) form a natural cluster of "
+            "interpersonal vices &mdash; contrasted with AN 5.116's discernment-focused "
+            "cluster and the doctrinal/ethical clusters to come at AN 5.118&ndash;120."]),
+        ("The mirrored positive", [
+            "Judgment made with examination, freedom from jealousy and stinginess, and gifts "
+            "not wasted."]),
+        ("What comes next", [
+            "AN 5.118 shifts to a doctrinal register, pairing the first two factors of the "
+            "eightfold path &mdash; right view and right intention &mdash; as its varying "
+            "middle items."]),
+    ],
+    terms=[
+        ("issukinī",
+         "jealous &mdash; the first of this discourse's two varying items."),
+        ("maccharinī",
+         "stingy &mdash; reused from AN 5.115's own five-domain treatment."),
+        ("ananuvicca apariyogāhetvā",
+         "&ldquo;without examining or scrutinizing&rdquo; &mdash; the fixed opening, shared "
+         "with AN 5.116."),
+        ("saddhādeyyaṁ vinipāteti",
+         "&ldquo;wastes gifts given in faith&rdquo; &mdash; the fixed closing item."),
+        ("yathābhataṁ nikkhittā",
+         "&ldquo;placed there as if delivered&rdquo; &mdash; the recurring verdict."),
+    ],
+    text_intro=(
+        "The discourse in full: unexamined judgment, jealousy, stinginess, and wasted gifts, "
+        "then their correction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an5.117:1.1-1.8"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an5.117:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What two items vary in this discourse's middle, within the fixed frame from AN 5.116?",
+         "opts": [
+             "Jealousy and stinginess",
+             "Wrong view and wrong intention",
+             "Wrong speech and wrong action",
+             "Wrong effort and wrong mindfulness"],
+         "correct": 0,
+         "expl": "This discourse's specific pair."},
+        {"q": "What two elements stay fixed, shared with AN 5.116?",
+         "opts": [
+             "The unexamined praise/criticism opening, and the wasted-gifts closing",
+             "The entire five-item list",
+             "Only the setting",
+             "Nothing is shared"],
+         "correct": 0,
+         "expl": "The frame established at AN 5.116."},
+        {"q": "Where did stinginess previously appear as this run's central subject?",
+         "opts": [
+             "AN 5.114",
+             "AN 5.115",
+             "AN 5.99",
+             "AN 5.71"],
+         "correct": 1,
+         "expl": "In its own five-domain treatment."},
+        {"q": "What does 'issukinī' mean?",
+         "opts": [
+             "Jealous",
+             "Generous",
+             "Learned",
+             "Ethical"],
+         "correct": 0,
+         "expl": "This discourse's title term."},
+        {"q": "What kind of vice-cluster does jealousy and stinginess form, contrasted with AN 5.116's?",
+         "opts": [
+             "A discernment-focused cluster",
+             "A natural interpersonal cluster",
+             "A doctrinal cluster",
+             "A physical-health cluster"],
+         "correct": 1,
+         "expl": "Contrasted with AN 5.116's judgment-focused pair."},
+        {"q": "What verdict formula closes both the hell and heaven versions of this discourse?",
+         "opts": [
+             "'Soon penetrates the unshakable'",
+             "'Placed there as if delivered'",
+             "'Worthy of offerings'",
+             "'At ease in any quarter'"],
+         "correct": 1,
+         "expl": "The recurring stock phrase across this whole run."},
+        {"q": "How is the heaven-bound version constructed?",
+         "opts": [
+             "An entirely different five items",
+             "The correction of all five failures, including freedom from jealousy and stinginess",
+             "No positive version is given",
+             "Only the setting changes"],
+         "correct": 1,
+         "expl": "Judgment made with examination, and freedom from both vices."},
+        {"q": "What does AN 5.118 shift to as its varying middle items?",
+         "opts": [
+             "Right view and right intention, from the eightfold path",
+             "More interpersonal vices",
+             "Physical health concerns",
+             "Almsround etiquette"],
+         "correct": 0,
+         "expl": "A doctrinal register begins."},
+        {"q": "What is the fixed closing item shared across this whole run?",
+         "opts": [
+             "Wasting gifts given in faith",
+             "Right effort",
+             "A colophon",
+             "A dedication of merit"],
+         "correct": 0,
+         "expl": "Saddhādeyyaṁ vinipāteti, unchanged through AN 5.120."},
+        {"q": "Who is this discourse addressed to, like the rest of this run?",
+         "opts": [
+             "Monks",
+             "Nuns",
+             "Lay followers",
+             "Kings"],
+         "correct": 1,
+         "expl": "Continuing the nun-specific address begun at AN 5.115."},
+    ],
+    marginalia=[
+        ("Same frame, new middle", [
+            "jealousy &middot;",
+            "stinginess",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">issukinī</span>",
+            "&mdash; jealous",
+        ]),
+        ("An interpersonal pairing", [
+            "contrasted with",
+            "AN 5.116's",
+            "discernment focus",
+        ]),
+        ("Cross-references", [
+            "AN 5.115 &middot; stinginess, in its own five-domain form",
+            "AN 5.118 &middot; next: a doctrinal register begins",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.117/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.116.html">AN 5.116 &middot; Praise</a> &mdash; the previous '
+        "discourse, establishing this run's fixed frame.",
+        '<a href="an-5.118.html">AN 5.118 &middot; Having Wrong View</a> &mdash; next: the '
+        "eightfold path's first factor pair.",
+        '<a href="an-5.115.html">AN 5.115 &middot; Stingy</a> &mdash; where stinginess was '
+        "this run's opening, standalone subject.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.118 — Micchādiṭṭhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    118, "Micchādiṭṭhika", "Having Wrong View",
+    vagga=VAGGA_12,
+    meta_title="AN 5.118 — Having Wrong View | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Micchādiṭṭhikasutta — the eightfold path's first factor pair, right view and "
+        "right intention, filling this run's varying middle. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, addressed to nuns, using this run's fixed "
+                 "opening and closing frame"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; addressed specifically to "
+                       "nuns; introduces a systematic new pattern"),
+    ],
+    why=(
+        "A shift into doctrinal territory: this discourse's varying middle names wrong view "
+        "and wrong intention &mdash; the first two factors of the eightfold path, recognizable "
+        "by name &mdash; opening a pattern that continues through the rest of this run."),
+    guide=[
+        ("The fixed frame, continued", [
+            "As at AN 5.116&ndash;117, this discourse opens with unexamined praise and "
+            "criticism and closes with wasted gifts given in faith, varying only its middle "
+            "two items."]),
+        ("Wrong view, wrong intention", [
+            "<em>Micchādiṭṭhi</em> (wrong view) and <em>micchāsaṅkappa</em> (wrong "
+            "intention/purpose) are, by name, the first two factors of the eightfold path in "
+            "their negative form &mdash; a direct, explicit link to that structure, made here "
+            "for the first time in this run."]),
+        ("A systematic pattern beginning", [
+            "This discourse opens a sequence that continues through AN 5.119&ndash;120: each "
+            "discourse's varying middle names one consecutive pair of the eightfold path's "
+            "eight factors, in their wrong and right forms."]),
+        ("The mirrored positive", [
+            "Right view (<em>sammādiṭṭhi</em>) and right intention (<em>sammāsaṅkappa</em>), "
+            "alongside judgment made with examination and gifts not wasted."]),
+        ("What comes next", [
+            "AN 5.119 continues the pattern with the path's third and fourth factors: right "
+            "speech and right action."]),
+    ],
+    terms=[
+        ("micchādiṭṭhi / sammādiṭṭhi",
+         "wrong view / right view &mdash; the eightfold path's first factor."),
+        ("micchāsaṅkappa / sammāsaṅkappa",
+         "wrong intention / right intention &mdash; the second factor."),
+        ("magga",
+         "the path &mdash; the eightfold structure this discourse begins to work through."),
+        ("ananuvicca apariyogāhetvā",
+         "the fixed opening qualifier, shared across this whole run."),
+        ("saddhādeyyaṁ vinipāteti",
+         "the fixed closing item, unchanged across this whole run."),
+    ],
+    text_intro=(
+        "The discourse in full: unexamined judgment, wrong view and intention, wasted gifts, "
+        "then their correction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an5.118:1.1-1.8"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an5.118:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What two items fill this discourse's varying middle?",
+         "opts": [
+             "Wrong view and wrong intention",
+             "Jealousy and stinginess",
+             "Wrong speech and wrong action",
+             "Wrong effort and wrong mindfulness"],
+         "correct": 0,
+         "expl": "The eightfold path's first factor pair, in negative form."},
+        {"q": "What structure do these two items belong to, named explicitly for the first time in this run?",
+         "opts": [
+             "The five hindrances",
+             "The eightfold path",
+             "The four noble truths",
+             "The five aggregates"],
+         "correct": 1,
+         "expl": "Right view and right intention, the path's first two factors."},
+        {"q": "What pattern does this discourse begin, continuing through AN 5.119–120?",
+         "opts": [
+             "Random unrelated vices each time",
+             "Consecutive pairs of the eightfold path's eight factors",
+             "A return to physical-health concerns",
+             "A shift to monk-specific address"],
+         "correct": 1,
+         "expl": "Working systematically through the path's structure."},
+        {"q": "What does 'micchādiṭṭhi' mean?",
+         "opts": [
+             "Wrong view",
+             "Right view",
+             "Wrong speech",
+             "Right effort"],
+         "correct": 0,
+         "expl": "The negative form of the path's first factor."},
+        {"q": "What does 'micchāsaṅkappa' mean?",
+         "opts": [
+             "Wrong intention or purpose",
+             "Right mindfulness",
+             "Wrong speech",
+             "Right immersion"],
+         "correct": 0,
+         "expl": "The negative form of the path's second factor."},
+        {"q": "What two elements remain fixed, unchanged from AN 5.116–117?",
+         "opts": [
+             "The unexamined praise/criticism opening, and the wasted-gifts closing",
+             "The entire discourse, unchanged",
+             "Only the verdict",
+             "Nothing remains fixed"],
+         "correct": 0,
+         "expl": "The frame established earlier in this run."},
+        {"q": "What are the positive counterparts named in the heaven-bound version?",
+         "opts": [
+             "Right view and right intention",
+             "Right speech and right action",
+             "Right effort and right mindfulness",
+             "Right livelihood and right immersion"],
+         "correct": 0,
+         "expl": "Sammādiṭṭhi and sammāsaṅkappa."},
+        {"q": "What does AN 5.119 continue this pattern with?",
+         "opts": [
+             "The path's third and fourth factors: right speech and right action",
+             "A return to interpersonal vices",
+             "The colophon closing the chapter",
+             "A narrative about monks"],
+         "correct": 0,
+         "expl": "Continuing systematically through the path."},
+        {"q": "What is the fixed closing item shared across this whole run?",
+         "opts": [
+             "Wasting gifts given in faith",
+             "A dedication of merit",
+             "A colophon",
+             "A warning about future perils"],
+         "correct": 0,
+         "expl": "Unchanged since AN 5.116."},
+        {"q": "Who remains the addressee throughout this run?",
+         "opts": [
+             "Monks",
+             "Nuns",
+             "Lay followers",
+             "Novices"],
+         "correct": 1,
+         "expl": "Continuing from AN 5.115."},
+    ],
+    marginalia=[
+        ("Same frame, doctrinal middle", [
+            "wrong view &middot;",
+            "wrong intention",
+        ]),
+        ("The eightfold path, factor by factor", [
+            "AN 5.118&ndash;120 work",
+            "through three",
+            "consecutive pairs",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">micchāsaṅkappa</span>",
+            "&mdash; wrong",
+            "intention",
+        ]),
+        ("Cross-references", [
+            "AN 5.117 &middot; the interpersonal-vice pair",
+            "AN 5.119 &middot; next: right speech and action",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.118/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.117.html">AN 5.117 &middot; Jealous</a> &mdash; the previous '
+        "discourse, an interpersonal rather than doctrinal middle.",
+        '<a href="an-5.119.html">AN 5.119 &middot; Wrong Speech</a> &mdash; next: the '
+        "path&rsquo;s third and fourth factors.",
+        '<a href="an-5.120.html">AN 5.120 &middot; Wrong Effort</a> &mdash; the '
+        "run&rsquo;s closing discourse, completing this three-pair sequence.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.119 — Micchāvācāsutta
+# --------------------------------------------------------------------------- #
+page(
+    119, "Micchāvācā", "Wrong Speech",
+    vagga=VAGGA_12,
+    meta_title="AN 5.119 — Wrong Speech | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Micchāvācāsutta — "
+        "the eightfold path's third and fourth factors, right speech and right action, "
+        "continuing this run's systematic sequence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, addressed to nuns, using this run's fixed "
+                 "opening and closing frame"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; addressed specifically to "
+                       "nuns; continues a systematic pattern"),
+    ],
+    why=(
+        "Continuing directly from AN 5.118's pattern, this discourse's varying middle names "
+        "the eightfold path's third and fourth factors: wrong speech and wrong action, and "
+        "their positive counterparts."),
+    guide=[
+        ("The pattern, continued", [
+            "Following AN 5.118's view/intention pair, this discourse moves to the path's "
+            "next consecutive pair: wrong speech (<em>micchāvācā</em>) and wrong action "
+            "(<em>micchākammanta</em>)."]),
+        ("The same fixed frame", [
+            "As throughout this run, unexamined praise and criticism open the list, and "
+            "wasting gifts given in faith closes it &mdash; unchanged since AN 5.116."]),
+        ("Working systematically through the path", [
+            "Three consecutive discourses &mdash; AN 5.118, 5.119, and 5.120 &mdash; will "
+            "together name three consecutive pairs of the eightfold path's eight factors: "
+            "view/intention, speech/action, and effort/mindfulness."]),
+        ("The mirrored positive", [
+            "Right speech (<em>sammāvācā</em>) and right action "
+            "(<em>sammākammanta</em>), alongside examined judgment and gifts not wasted."]),
+        ("What comes next", [
+            "AN 5.120 closes both this run and the chapter with the path's sixth and seventh "
+            "factors: right effort and right mindfulness."]),
+    ],
+    terms=[
+        ("micchāvācā / sammāvācā",
+         "wrong speech / right speech &mdash; the path's third factor."),
+        ("micchākammanta / sammākammanta",
+         "wrong action / right action &mdash; the fourth factor."),
+        ("magga",
+         "the eightfold path, worked through systematically across AN 5.118&ndash;120."),
+        ("ananuvicca apariyogāhetvā",
+         "the fixed opening qualifier, unchanged since AN 5.116."),
+        ("saddhādeyyaṁ vinipāteti",
+         "the fixed closing item, unchanged since AN 5.116."),
+    ],
+    text_intro=(
+        "The discourse in full: unexamined judgment, wrong speech and action, wasted gifts, "
+        "then their correction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an5.119:1.1-1.8"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an5.119:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What two items fill this discourse's varying middle?",
+         "opts": [
+             "Wrong speech and wrong action",
+             "Wrong view and wrong intention",
+             "Jealousy and stinginess",
+             "Wrong effort and wrong mindfulness"],
+         "correct": 0,
+         "expl": "The eightfold path's third and fourth factors."},
+        {"q": "What discourse immediately precedes this one in the path-factor sequence?",
+         "opts": [
+             "AN 5.115",
+             "AN 5.118",
+             "AN 5.99",
+             "AN 5.71"],
+         "correct": 1,
+         "expl": "Having Wrong View, naming factors one and two."},
+        {"q": "What does 'micchāvācā' mean?",
+         "opts": [
+             "Wrong speech",
+             "Right speech",
+             "Wrong effort",
+             "Right view"],
+         "correct": 0,
+         "expl": "The negative form of the path's third factor."},
+        {"q": "What does 'micchākammanta' mean?",
+         "opts": [
+             "Wrong action",
+             "Right mindfulness",
+             "Wrong view",
+             "Right speech"],
+         "correct": 0,
+         "expl": "The negative form of the path's fourth factor."},
+        {"q": "What two elements remain fixed, shared across this whole run?",
+         "opts": [
+             "The unexamined praise/criticism opening, and the wasted-gifts closing",
+             "The entire discourse, unchanged",
+             "Only the setting",
+             "Nothing remains fixed"],
+         "correct": 0,
+         "expl": "Established at AN 5.116, continuing here."},
+        {"q": "How many consecutive discourses together work through three pairs of the eightfold path?",
+         "opts": [
+             "Two",
+             "Three: AN 5.118, 5.119, and 5.120",
+             "Six",
+             "All ten in this chapter"],
+         "correct": 1,
+         "expl": "View/intention, speech/action, effort/mindfulness."},
+        {"q": "What are the positive counterparts in the heaven-bound version?",
+         "opts": [
+             "Right speech and right action",
+             "Right view and right intention",
+             "Right effort and right mindfulness",
+             "Right livelihood and right immersion"],
+         "correct": 0,
+         "expl": "Sammāvācā and sammākammanta."},
+        {"q": "What does AN 5.120 close this pattern and the chapter with?",
+         "opts": [
+             "Right effort and right mindfulness",
+             "Right livelihood and right immersion",
+             "A return to interpersonal vices",
+             "A shift to monk-specific address"],
+         "correct": 0,
+         "expl": "The path's sixth and seventh factors."},
+        {"q": "Who remains the addressee throughout this run?",
+         "opts": [
+             "Monks",
+             "Nuns",
+             "Lay followers",
+             "Novices"],
+         "correct": 1,
+         "expl": "Continuing since AN 5.115."},
+        {"q": "What verdict formula closes both versions of this discourse?",
+         "opts": [
+             "'Placed there as if delivered', for hell or heaven",
+             "'Soon penetrates the unshakable'",
+             "'Worthy of offerings'",
+             "'At ease in any quarter'"],
+         "correct": 0,
+         "expl": "The recurring stock phrase across this entire run."},
+    ],
+    marginalia=[
+        ("Same frame, path factors 3 and 4", [
+            "wrong speech &middot;",
+            "wrong action",
+        ]),
+        ("The path, worked through systematically", [
+            "AN 5.118 &middot; 119",
+            "&middot; 120 &mdash;",
+            "three consecutive pairs",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">micchākammanta</span>",
+            "&mdash; wrong",
+            "action",
+        ]),
+        ("Cross-references", [
+            "AN 5.118 &middot; view and intention",
+            "AN 5.120 &middot; next: effort and mindfulness",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.119/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.118.html">AN 5.118 &middot; Having Wrong View</a> &mdash; the '
+        "previous discourse, the path's first factor pair.",
+        '<a href="an-5.120.html">AN 5.120 &middot; Wrong Effort</a> &mdash; next: the '
+        "path's sixth and seventh factors, closing this chapter.",
+        '<a href="an-5.115.html">AN 5.115 &middot; Stingy</a> &mdash; opening this '
+        "six-part run.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.120 — Micchāvāyāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    120, "Micchāvāyāma", "Wrong Effort",
+    vagga=VAGGA_12,
+    meta_title="AN 5.120 — Wrong Effort | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Micchāvāyāmasutta, "
+        "closing the Andhakavindavagga — the eightfold path's sixth and seventh factors "
+        "complete this run's sequence, closing the chapter's own colophon. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, addressed to nuns, closing this run and the "
+                 "chapter's own colophon"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; addressed specifically to "
+                       "nuns; closes the chapter"),
+    ],
+    why=(
+        "The final pair in this run's path-factor sequence &mdash; wrong effort and wrong "
+        "mindfulness &mdash; closes both the nun-specific run begun at AN 5.115 and the "
+        "chapter itself, with its own colophon and mnemonic verse."),
+    guide=[
+        ("The final pair in this sequence", [
+            "Continuing directly from AN 5.118&ndash;119's pattern, this discourse names the "
+            "path's sixth and seventh factors: wrong effort (<em>micchāvāyāma</em>) and "
+            "wrong mindfulness (<em>micchāsati</em>)."]),
+        ("The pattern completed, but not exhaustively", [
+            "Across AN 5.118&ndash;120, three consecutive pairs of the eightfold path's eight "
+            "factors appear: view/intention, speech/action, and effort/mindfulness &mdash; "
+            "notably stopping short of the remaining two factors, right livelihood and right "
+            "immersion, which this reading guide does not speculate about further."]),
+        ("The whole nun-specific run, reviewed", [
+            "AN 5.115&ndash;120 together name a wide range of failures &mdash; stinginess, "
+            "poor judgment, jealousy, wrong view, wrong speech, wrong effort &mdash; all "
+            "converging on the identical hell/heaven verdict formula, addressed exclusively "
+            "to nuns."]),
+        ("The chapter's close", [
+            "The colophon &lsquo;Dasamaṁ. Andhakavindavaggo dutiyo&rsquo; &mdash; the tenth "
+            "discourse, the second Andhakavindavagga by the traditional count &mdash; follows "
+            "the mechanism explained in full at AN 5.10."]),
+        ("The uddāna's opening lines", [
+            "The mnemonic verse names this chapter's discourses by key terms: "
+            "<em>kulūpaka</em> (visiting families), <em>pacchāsamaṇa</em> (second monk), "
+            "<em>samādhi</em>, <em>andhakavinda</em>, then <em>macchari</em>, "
+            "<em>vaṇṇanā</em>, and <em>issā</em> (stingy, praise, jealous) opening the "
+            "nun-specific run, trailing into the verse's remaining, untranslated lines."]),
+    ],
+    terms=[
+        ("micchāvāyāma / sammāvāyāma",
+         "wrong effort / right effort &mdash; the path's sixth factor."),
+        ("micchāsati / sammāsati",
+         "wrong mindfulness / right mindfulness &mdash; the seventh factor."),
+        ("magga",
+         "the eightfold path; three of its eight factors, in consecutive pairs, close this "
+         "chapter."),
+        ("Andhakavindavaggo dutiyo",
+         "&ldquo;the second Andhakavindavagga&rdquo; &mdash; this chapter's closing "
+         "colophon."),
+        ("yathābhataṁ nikkhittā",
+         "the vivid stock verdict recurring across the entire six-discourse run this "
+         "discourse closes."),
+    ],
+    text_intro=(
+        "The discourse in full: unexamined judgment, wrong effort and mindfulness, wasted "
+        "gifts, then their correction. The chapter's closing colophon and Pāli mnemonic "
+        "verse are part of the source but are not translated text, and are described rather "
+        "than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an5.120:1.1-1.8"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an5.120:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What two items fill this discourse's varying middle?",
+         "opts": [
+             "Wrong effort and wrong mindfulness",
+             "Wrong view and wrong intention",
+             "Wrong speech and wrong action",
+             "Jealousy and stinginess"],
+         "correct": 0,
+         "expl": "The eightfold path's sixth and seventh factors."},
+        {"q": "Which two path factors are notably absent from this three-discourse sequence?",
+         "opts": [
+             "Right speech and right action",
+             "Right livelihood and right immersion",
+             "Right view and right intention",
+             "None; all eight appear"],
+         "correct": 1,
+         "expl": "The sequence stops short of the path's final two factors."},
+        {"q": "How many discourses total make up the nun-specific run this discourse closes?",
+         "opts": [
+             "Three",
+             "Six",
+             "Ten",
+             "Two"],
+         "correct": 1,
+         "expl": "AN 5.115 through AN 5.120."},
+        {"q": "What range of failures does the whole run, taken together, cover?",
+         "opts": [
+             "Only physical illness",
+             "Stinginess, poor judgment, jealousy, wrong view, wrong speech, wrong effort",
+             "Only doctrinal errors",
+             "Only interpersonal conflicts"],
+         "correct": 1,
+         "expl": "A wide range, all converging on the same verdict formula."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Dasamaṁ. Andhakavindavaggo dutiyo.",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.110, repeated verbatim"],
+         "correct": 1,
+         "expl": "The tenth discourse, the second Andhakavindavagga."},
+        {"q": "What earlier discourse in this nipāta first explained this project's convention for chapter-closing colophons?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.10",
+             "AN 5.71",
+             "AN 5.90"],
+         "correct": 1,
+         "expl": "Cited here rather than re-explained."},
+        {"q": "What does the chapter's mnemonic verse name in its opening lines?",
+         "opts": [
+             "A list of unrelated place names",
+             "This chapter's discourses, by their key terms, in order",
+             "The names of the Buddha's chief disciples",
+             "A list of monastic rules"],
+         "correct": 1,
+         "expl": "Kulūpaka, pacchāsamaṇa, samādhi, andhakavinda, macchari, vaṇṇanā, issā."},
+        {"q": "What does 'micchāsati' mean?",
+         "opts": [
+             "Wrong mindfulness",
+             "Right mindfulness",
+             "Wrong effort",
+             "Right effort"],
+         "correct": 0,
+         "expl": "The negative form of the path's seventh factor."},
+        {"q": "Who is addressed throughout the entire six-discourse run this discourse closes?",
+         "opts": [
+             "Monks",
+             "Nuns",
+             "Lay followers",
+             "Kings"],
+         "correct": 1,
+         "expl": "Bhikkhunī, continuing from AN 5.115."},
+        {"q": "What chapter comes next in the Fives, after this one closes?",
+         "opts": [
+             "The nipāta ends here",
+             "Chapter 13, Gilānavagga, AN 5.121–130",
+             "A return to Kakudhavagga",
+             "The Sixes begin immediately"],
+         "correct": 1,
+         "expl": "The next chapter in sequence."},
+    ],
+    marginalia=[
+        ("The final pair", [
+            "wrong effort &middot;",
+            "wrong mindfulness",
+        ]),
+        ("Three pairs, not eight", [
+            "view/intention &middot;",
+            "speech/action &middot;",
+            "effort/mindfulness",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">Andhakavindavaggo dutiyo</span>",
+            "&mdash; the second",
+            "Andhakavindavagga",
+        ]),
+        ("Cross-references", [
+            "AN 5.119 &middot; speech and action",
+            "AN 5.10 &middot; the colophon convention, explained",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.120/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.119.html">AN 5.119 &middot; Wrong Speech</a> &mdash; the previous '
+        "discourse, the path's third and fourth factors.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this '
+        "same chapter-closing colophon structure was first explained in full.",
+        '<a href="an-5.111.html">AN 5.111 &middot; Visiting Families</a> &mdash; back to '
+        "this chapter&rsquo;s opening, closing the loop.",
+    ],
+)
